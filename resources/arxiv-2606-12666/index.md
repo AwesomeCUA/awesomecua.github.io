@@ -2,7 +2,7 @@
 
 CAPED filters mobile screenshots before upload by combining task requirements, screen context and parsed UI elements to mask incidental private content. AndroidWorld and a controlled seeded privacy evaluation examine leakage reduction alongside task utility and prototype costs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-12666/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-12666/
 - Original source: https://arxiv.org/abs/2606.12666
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CAPED filters mobile screenshots before upload by combining task requirements, s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-12666/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-12666/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Siyu Shen, Fenghao Xu, Wenrui Diao, Kehuan Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-12666/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-12666/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-12666/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-12666/citation.csl.json
 
 ## Recorded arXiv snapshot
 

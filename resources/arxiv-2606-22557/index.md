@@ -2,7 +2,7 @@
 
 Introduces macOS tasks spanning GUI and command-line interaction, with deterministic checks and intermediate-progress scoring for application workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-22557/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-22557/
 - Original source: https://arxiv.org/abs/2606.22557
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces macOS tasks spanning GUI and command-line interaction, with determini
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-22557/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-22557/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yikun Fu, Bowen Fu, Zhenyu Wu, Shuang Cheng, Xiaowei Sun, Bowen Yang, Zehao Li, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-22557/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-22557/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-22557/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-22557/citation.csl.json
 
 ## Recorded arXiv snapshot
 

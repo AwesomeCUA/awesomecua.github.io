@@ -2,7 +2,7 @@
 
 Research code for constructing and evaluating adversarial inputs to web agents, with a black-box red-team pipeline using Mind2Web data and SeeAct.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-ai-secure-advagent/
+- Catalog URL: https://awesomecua.com/resources/github-ai-secure-advagent/
 - Original source: https://github.com/AI-secure/AdvAgent
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Research code for constructing and evaluating adversarial inputs to web agents, 
 
 The official GitHub API resolves AI-secure/AdvWeb to AI-secure/AdvAgent. Public data-generation, SFT/DPO training and evaluation scripts are present, with upstream data and external model APIs required. No repository license was found, and no permission for third-party data or model weights is inferred. The README citation block is empty, so no paper identifier is bound from title similarity alone.
 
-- Record JSON: https://awesomecua.github.io/resources/github-ai-secure-advagent/record.json
+- Record JSON: https://awesomecua.com/resources/github-ai-secure-advagent/record.json
 
 ## License declarations
 

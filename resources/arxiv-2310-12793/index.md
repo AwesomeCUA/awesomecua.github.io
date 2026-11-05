@@ -2,7 +2,7 @@
 
 Bibliographic record for OODRobustBench: a Benchmark and Large-Scale Analysis of Adversarial Robustness under Distribution Shift. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-12793/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-12793/
 - Original source: https://arxiv.org/abs/2310.12793
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for OODRobustBench: a Benchmark and Large-Scale Analysis of
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-12793/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-12793/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lin Li, Yifei Wang, Chawin Sitawarin, Michael Spratling
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-12793/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-12793/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-12793/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-12793/citation.csl.json
 
 ## Recorded arXiv snapshot
 

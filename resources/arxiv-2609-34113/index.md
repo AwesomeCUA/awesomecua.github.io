@@ -2,7 +2,7 @@
 
 Introduces GUITAR, which groups visually different screens into functional states and analyzes agent failures over a state-transition graph. It uses the resulting bottlenecks to diagnose recurring mobile and web errors and evaluate targeted guidance.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-34113/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-34113/
 - Original source: https://arxiv.org/abs/2609.34113
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUITAR, which groups visually different screens into functional state
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-34113/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-34113/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shaoqing Zhang, Kehai Chen, Xuefeng Bai, Zhuosheng Zhang, Pengfei Zhang, Yang Xi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-34113/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-34113/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-34113/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-34113/citation.csl.json
 
 ## Recorded arXiv snapshot
 

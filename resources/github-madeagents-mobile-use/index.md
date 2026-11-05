@@ -2,7 +2,7 @@
 
 Android GUI agent that operates real phones through ADB with hierarchical reflection and a multi-agent framework, run from a web interface or Python and evaluated on AndroidWorld and AndroidLab.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-madeagents-mobile-use/
+- Catalog URL: https://awesomecua.com/resources/github-madeagents-mobile-use/
 - Original source: https://github.com/MadeAgents/mobile-use
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Android GUI agent that operates real phones through ADB with hierarchical reflec
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-madeagents-mobile-use/record.json
+- Record JSON: https://awesomecua.com/resources/github-madeagents-mobile-use/record.json
 
 ## License declarations
 

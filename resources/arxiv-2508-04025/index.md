@@ -2,7 +2,7 @@
 
 RecAgent narrows attention to recommended UI components and requests user feedback when task intent or decisions remain uncertain. It introduces ComplexAction to evaluate specified single-step GUI actions in difficult interface scenarios.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-04025/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-04025/
 - Original source: https://arxiv.org/abs/2508.04025
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ RecAgent narrows attention to recommended UI components and requests user feedba
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04025/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-04025/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chao Hao, Shuai Wang, Kaiwen Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04025/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04025/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-04025/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-04025/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-03641/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-03641/
 - Original source: https://arxiv.org/abs/2601.03641
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Agent-Dice: Disentangling Knowledge Updates via Geometr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-03641/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-03641/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zheng Wu, Xingyu Lou, Xinbei Ma, Yansi Li, Weiwen Liu, Weinan Zhang, Jun Wang, Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-03641/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-03641/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-03641/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-03641/citation.csl.json
 
 ## Recorded arXiv snapshot
 

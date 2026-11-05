@@ -2,7 +2,7 @@
 
 Evaluates GUI agents in simulated medical-imaging consoles, separately checking workflow completion and acquisition outcomes against hidden anatomical targets.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-04800/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-04800/
 - Original source: https://arxiv.org/abs/2610.04800
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates GUI agents in simulated medical-imaging consoles, separately checking 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-04800/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-04800/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyang Long, Xinqi Li, Lujing Xing, Hsin-Jung Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-04800/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-04800/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-04800/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-04800/citation.csl.json
 
 ## Recorded arXiv snapshot
 

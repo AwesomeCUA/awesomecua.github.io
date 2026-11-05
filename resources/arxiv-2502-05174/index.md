@@ -2,7 +2,7 @@
 
 Bibliographic record for MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-05174/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-05174/
 - Original source: https://arxiv.org/abs/2502.05174
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MELON: Provable Defense Against Indirect Prompt Injecti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-05174/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-05174/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kaijie Zhu, Xianjun Yang, Jindong Wang, Wenbo Guo, William Yang Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-05174/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-05174/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-05174/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-05174/citation.csl.json
 
 ## Recorded arXiv snapshot
 

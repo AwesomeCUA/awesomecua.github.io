@@ -2,7 +2,7 @@
 
 Learns reusable computer-use policies that encode stable workflow logic in programs while delegating grounding and state checks to neural models. Policy iteration executes variants, diagnoses failures, revises the program, and adds verification before state-changing actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-36927/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-36927/
 - Original source: https://arxiv.org/abs/2609.36927
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Learns reusable computer-use policies that encode stable workflow logic in progr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-36927/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-36927/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hyewon Suh, Thanh Minh Nguyen, Chih-Lun Lee, Darrow Hartman, Lizhao Liu, Xin Eri
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-36927/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-36927/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-36927/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-36927/citation.csl.json
 
 ## Recorded arXiv snapshot
 

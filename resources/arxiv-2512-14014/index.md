@@ -2,7 +2,7 @@
 
 Evaluates semantic world models for mobile interfaces and studies natural-language state transitions as a tool for agent planning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-14014/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-14014/
 - Original source: https://arxiv.org/abs/2512.14014
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates semantic world models for mobile interfaces and studies natural-langua
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-14014/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-14014/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shufan Li, Konstantinos Kallidromitis, Akash Gokul, Yusuke Kato, Kazuki Kozuka, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-14014/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-14014/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-14014/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-14014/citation.csl.json
 
 ## Recorded arXiv snapshot
 

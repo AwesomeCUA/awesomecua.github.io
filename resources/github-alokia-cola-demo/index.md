@@ -2,7 +2,7 @@
 
 Research demonstration of collaborative Windows GUI automation with dynamic task scheduling and recovery mechanisms.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-alokia-cola-demo/
+- Catalog URL: https://awesomecua.com/resources/github-alokia-cola-demo/
 - Original source: https://github.com/Alokia/COLA-demo
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Research demonstration of collaborative Windows GUI automation with dynamic task
 
 The publisher describes this as demonstration code and states that the full implementation is not released.
 
-- Record JSON: https://awesomecua.github.io/resources/github-alokia-cola-demo/record.json
+- Record JSON: https://awesomecua.com/resources/github-alokia-cola-demo/record.json
 
 ## License declarations
 

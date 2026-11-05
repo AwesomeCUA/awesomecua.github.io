@@ -2,7 +2,7 @@
 
 Bibliographic record for Discontinuity Computing using Physics-Informed Neural Network. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2206-03864/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2206-03864/
 - Original source: https://arxiv.org/abs/2206.03864
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Discontinuity Computing using Physics-Informed Neural N
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2206-03864/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2206-03864/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Li Liu, Shengping Liu, Hui Xie, Fansheng Xiong, Tengchao Yu, Mengjuan Xiao, Lufe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2206-03864/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2206-03864/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2206-03864/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2206-03864/citation.csl.json
 
 ## Recorded arXiv snapshot
 

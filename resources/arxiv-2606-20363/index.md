@@ -2,7 +2,7 @@
 
 Segments and clusters GUI trajectories into inspectable skills, then trains a skill-aware policy from those annotations. Its diagnostic results distinguish readable source-domain clusters from reliable transfer and report limited or absent downstream gains.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-20363/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-20363/
 - Original source: https://arxiv.org/abs/2606.20363
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Segments and clusters GUI trajectories into inspectable skills, then trains a sk
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-20363/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-20363/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuexing Hao, Xiaomin Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-20363/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-20363/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-20363/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-20363/citation.csl.json
 
 ## Recorded arXiv snapshot
 

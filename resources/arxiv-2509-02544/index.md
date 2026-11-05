@@ -2,7 +2,7 @@
 
 UI-TARS-2 combines scalable trajectory generation, stabilized multi-turn reinforcement learning, and a sandbox that supports GUI, filesystem, and terminal actions. The report evaluates the resulting agent across web, desktop, Android, and game tasks and analyzes training stability.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-02544/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-02544/
 - Original source: https://arxiv.org/abs/2509.02544
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UI-TARS-2 combines scalable trajectory generation, stabilized multi-turn reinfor
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-02544/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-02544/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoming Wang, Haoyang Zou, Huatong Song, Jiazhan Feng, Junjie Fang, Junting Lu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-02544/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-02544/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-02544/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-02544/citation.csl.json
 
 ## Recorded arXiv snapshot
 

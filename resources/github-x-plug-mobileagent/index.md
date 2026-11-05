@@ -2,7 +2,7 @@
 
 Mobile device agent family using visual interface interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-x-plug-mobileagent/
+- Catalog URL: https://awesomecua.com/resources/github-x-plug-mobileagent/
 - Original source: https://github.com/X-PLUG/MobileAgent
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Mobile device agent family using visual interface interaction.
 
 This repository contains multiple Mobile-Agent generations. Platform coverage differs by version; use the corresponding paper and implementation instructions.
 
-- Record JSON: https://awesomecua.github.io/resources/github-x-plug-mobileagent/record.json
+- Record JSON: https://awesomecua.com/resources/github-x-plug-mobileagent/record.json
 
 ## License declarations
 

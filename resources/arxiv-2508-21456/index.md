@@ -2,7 +2,7 @@
 
 Introduces Morae, a UI agent that detects decision points and pauses for user choices using interface code and screenshots. A study with blind and low-vision participants evaluates this mixed-initiative approach on real web tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-21456/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-21456/
 - Original source: https://arxiv.org/abs/2508.21456
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Morae, a UI agent that detects decision points and pauses for user ch
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-21456/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-21456/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yi-Hao Peng, Dingzeyu Li, Jeffrey P. Bigham, Amy Pavel
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-21456/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-21456/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-21456/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-21456/citation.csl.json
 
 ## Recorded arXiv snapshot
 

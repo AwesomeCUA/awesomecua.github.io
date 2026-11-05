@@ -2,7 +2,7 @@
 
 Bibliographic record for RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-27861/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-27861/
 - Original source: https://arxiv.org/abs/2610.27861
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-27861/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-27861/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haocheng Wang, Youquan Liu, Weiyu Guo, Aokai Zhang, Donghang Wu, Hongyu Liu, Sha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-27861/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-27861/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-27861/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-27861/citation.csl.json
 
 ## Recorded arXiv snapshot
 

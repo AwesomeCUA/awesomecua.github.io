@@ -2,7 +2,7 @@
 
 Desktop agent that records demonstrations, derives semantic action traces, and uses them to plan and execute related workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-showlab-showui-aloha/
+- Catalog URL: https://awesomecua.com/resources/github-showlab-showui-aloha/
 - Original source: https://github.com/showlab/ShowUI-Aloha
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Desktop agent that records demonstrations, derives semantic action traces, and u
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-showlab-showui-aloha/record.json
+- Record JSON: https://awesomecua.com/resources/github-showlab-showui-aloha/record.json
 
 ## License declarations
 

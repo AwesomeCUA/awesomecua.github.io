@@ -2,7 +2,7 @@
 
 Experiment framework for developing and evaluating browser agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-servicenow-agentlab/
+- Catalog URL: https://awesomecua.com/resources/github-servicenow-agentlab/
 - Original source: https://github.com/ServiceNow/AgentLab
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Experiment framework for developing and evaluating browser agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-servicenow-agentlab/record.json
+- Record JSON: https://awesomecua.com/resources/github-servicenow-agentlab/record.json
 
 ## License declarations
 

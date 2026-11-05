@@ -2,7 +2,7 @@
 
 Bibliographic record for Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-05257/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-05257/
 - Original source: https://arxiv.org/abs/2507.05257
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Evaluating Memory in LLM Agents via Incremental Multi-T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05257/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-05257/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuanzhe Hu, Yu Wang, Julian McAuley
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05257/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05257/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-05257/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-05257/citation.csl.json
 
 ## Recorded arXiv snapshot
 

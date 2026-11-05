@@ -2,7 +2,7 @@
 
 Bibliographic record for From 2D Document Interactions into Immersive Information Experience: An Example-Based Design by Augmenting Content, Spatializing Placement, Enriching Long-Term Interactions, and Simplifying Content Creations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-11145/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-11145/
 - Original source: https://arxiv.org/abs/2411.11145
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for From 2D Document Interactions into Immersive Informatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-11145/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-11145/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chen Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-11145/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-11145/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-11145/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-11145/citation.csl.json
 
 ## Recorded arXiv snapshot
 

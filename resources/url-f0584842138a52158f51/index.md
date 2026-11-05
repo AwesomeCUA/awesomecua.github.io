@@ -2,7 +2,7 @@
 
 Historical OpenAI browser-agent research preview.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-f0584842138a52158f51/
+- Catalog URL: https://awesomecua.com/resources/url-f0584842138a52158f51/
 - Original source: https://openai.com/index/introducing-operator/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Historical OpenAI browser-agent research preview.
 
 Historical product entry; the official page describes its integration into ChatGPT agent. Do not infer current standalone availability.
 
-- Record JSON: https://awesomecua.github.io/resources/url-f0584842138a52158f51/record.json
+- Record JSON: https://awesomecua.com/resources/url-f0584842138a52158f51/record.json
 
 ## License declarations
 

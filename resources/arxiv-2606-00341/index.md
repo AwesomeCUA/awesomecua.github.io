@@ -2,7 +2,7 @@
 
 Bibliographic record for ROGUE: Evaluating Corrigibility Failures in Frontier Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-00341/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-00341/
 - Original source: https://arxiv.org/abs/2606.00341
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ROGUE: Evaluating Corrigibility Failures in Frontier Co
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-00341/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-00341/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jeremy Tien, Abishek Anand, Yu-Rou Tuan, Yuchen Shen, J. Zico Kolter, Aran Nayeb
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-00341/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-00341/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-00341/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-00341/citation.csl.json
 
 ## Recorded arXiv snapshot
 

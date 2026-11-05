@@ -2,7 +2,7 @@
 
 Introduces a controlled web-task testbed for studying how stated preferences and human values influence GUI-agent decisions. It analyzes how personas alter navigation and how prominent interface cues can override the intended preference guidance.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-16356/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-16356/
 - Original source: https://arxiv.org/abs/2601.16356
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a controlled web-task testbed for studying how stated preferences and
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-16356/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-16356/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Simret Araya Gebreegziabher, Yukun Yang, Charles Chiang, Hojun Yoo, Chaoran Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-16356/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-16356/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-16356/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-16356/citation.csl.json
 
 ## Recorded arXiv snapshot
 

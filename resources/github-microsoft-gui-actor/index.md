@@ -2,7 +2,7 @@
 
 GUI grounding model with attention-based action localization.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-gui-actor/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-gui-actor/
 - Original source: https://github.com/microsoft/GUI-Actor
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ GUI grounding model with attention-based action localization.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-gui-actor/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-gui-actor/record.json
 
 ## License declarations
 

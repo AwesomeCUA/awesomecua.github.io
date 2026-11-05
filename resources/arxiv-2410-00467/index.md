@@ -2,7 +2,7 @@
 
 Dynamic Planning of Thoughts revises a mobile GUI plan using current environmental feedback and execution history. The study compares this planning strategy with long-dialogue prompting and examines its behavior on unfamiliar tasks and different language-model backbones.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-00467/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-00467/
 - Original source: https://arxiv.org/abs/2410.00467
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Dynamic Planning of Thoughts revises a mobile GUI plan using current environment
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-00467/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-00467/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shaoqing Zhang, Zhuosheng Zhang, Kehai Chen, Xinbei Ma, Muyun Yang, Tiejun Zhao,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-00467/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-00467/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-00467/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-00467/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Shaoqing Zhang, Zhuosheng Zhang, Kehai Chen, Xinbei Ma, Muyun Yang, Tiejun Zhao,
 - Authors: Shaoqing Zhang, Zhuosheng Zhang, Kehai Chen (陈科海), Xinbei Ma, Muyun Yang (杨沐昀), Tiejun Zhao (赵铁军), Min Zhang
 - Publication date (recorded precision): 2024-11
 - Publication source: https://aclanthology.org/2024.findings-emnlp.70/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-00467/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-00467/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-00467/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-00467/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: EMNLP 2024
 - publisher: Association for Computational Linguistics
 - pages: 1304-1320

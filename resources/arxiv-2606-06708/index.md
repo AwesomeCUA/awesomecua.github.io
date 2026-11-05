@@ -2,7 +2,7 @@
 
 Proposes Signal-Driven Observation: a separate call selects relevant DOM elements and selectors, and a detector requests new observations only after meaningful browser events or failures. The paper frames observation timing and compression as an architectural research problem for long-horizon web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-06708/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-06708/
 - Original source: https://arxiv.org/abs/2606.06708
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes Signal-Driven Observation: a separate call selects relevant DOM element
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced. The abstract presents an architecture proposal and open problems, without reporting an empirical evaluation.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-06708/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-06708/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shubham Gaur, Ian Lane
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-06708/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-06708/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-06708/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-06708/citation.csl.json
 
 ## Recorded arXiv snapshot
 

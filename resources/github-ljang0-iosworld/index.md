@@ -2,7 +2,7 @@
 
 Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-ljang0-iosworld/
+- Catalog URL: https://awesomecua.com/resources/github-ljang0-iosworld/
 - Original source: https://github.com/ljang0/iOSWorld
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Native iPhone-simulator benchmark with shared user data, application workflows, 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-ljang0-iosworld/record.json
+- Record JSON: https://awesomecua.com/resources/github-ljang0-iosworld/record.json
 
 ## Structured profile
 

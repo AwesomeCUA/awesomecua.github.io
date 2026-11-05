@@ -2,7 +2,7 @@
 
 GUI dragging data with screen observations, prior state, and continuous pointer actions, provided as trajectory files and Parquet representations.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-fe43af1801032be708cc/
+- Catalog URL: https://awesomecua.com/resources/url-fe43af1801032be708cc/
 - Original source: https://huggingface.co/datasets/h-siyuan/ScreenDrag
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ GUI dragging data with screen observations, prior state, and continuous pointer 
 
 Raw and Parquet folders are alternative views of the same data and should not be counted as independent samples. The inspected card did not state a license.
 
-- Record JSON: https://awesomecua.github.io/resources/url-fe43af1801032be708cc/record.json
+- Record JSON: https://awesomecua.com/resources/url-fe43af1801032be708cc/record.json
 
 ## Structured profile
 

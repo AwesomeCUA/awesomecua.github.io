@@ -2,7 +2,7 @@
 
 Uses step-level confidence estimates to decide when a GUI agent should act autonomously or request human intervention in complex situations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-16465/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-16465/
 - Original source: https://arxiv.org/abs/2503.16465
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses step-level confidence estimates to decide when a GUI agent should act auton
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-16465/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-16465/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pengzhou Cheng, Zheng Wu, Zongru Wu, Aston Zhang, Zhuosheng Zhang, Gongshen Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-16465/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-16465/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-16465/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-16465/citation.csl.json
 
 ## Recorded arXiv snapshot
 

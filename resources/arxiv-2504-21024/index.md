@@ -2,7 +2,7 @@
 
 WebEvolver trains a co-evolving world model to predict web observations and generate additional agent-training trajectories. The same model supports look-ahead action selection at inference, with evaluation on live web-task benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-21024/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-21024/
 - Original source: https://arxiv.org/abs/2504.21024
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebEvolver trains a co-evolving world model to predict web observations and gene
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-21024/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-21024/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianqing Fang, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, D
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-21024/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-21024/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-21024/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-21024/citation.csl.json
 
 ## Recorded arXiv snapshot
 

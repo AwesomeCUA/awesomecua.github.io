@@ -2,7 +2,7 @@
 
 Presents CUA-Gym, which co-generates instructions, initial and target states, and executable reward checks through generator-discriminator iterations. Mock web applications expand training environments, with learned agents evaluated on OSWorld-Verified and WebArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-25624/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-25624/
 - Original source: https://arxiv.org/abs/2605.25624
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents CUA-Gym, which co-generates instructions, initial and target states, an
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract promises future open sourcing; this annotation does not independently verify artifact release or licensing.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-25624/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-25624/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bowen Wang, Dunjie Lu, Junli Wang, Tianyi Bai, Shixuan Liu, Zhipeng Zhang, Haiqu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-25624/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-25624/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-25624/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-25624/citation.csl.json
 
 ## Recorded arXiv snapshot
 

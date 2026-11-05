@@ -2,7 +2,7 @@
 
 Evaluation suite for Environmental Injection Attacks that embed invisible malicious HTML elements into benign websites to test privacy leakage in generalist web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-eia-against-webagent/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-eia-against-webagent/
 - Original source: https://github.com/OSU-NLP-Group/EIA_against_webagent
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Evaluation suite for Environmental Injection Attacks that embed invisible malici
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-eia-against-webagent/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-eia-against-webagent/record.json
 
 ## License declarations
 

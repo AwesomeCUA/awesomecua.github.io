@@ -2,7 +2,7 @@
 
 Demonstrations and evaluation for conversational web navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-mcgill-nlp-weblinx/
+- Catalog URL: https://awesomecua.com/resources/github-mcgill-nlp-weblinx/
 - Original source: https://github.com/mcgill-nlp/weblinx
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Demonstrations and evaluation for conversational web navigation.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-mcgill-nlp-weblinx/record.json
+- Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-weblinx/record.json
 
 ## Structured profile
 

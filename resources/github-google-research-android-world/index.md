@@ -2,7 +2,7 @@
 
 Android environment with programmatic task evaluation for mobile agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-google-research-android-world/
+- Catalog URL: https://awesomecua.com/resources/github-google-research-android-world/
 - Original source: https://github.com/google-research/android_world
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Android environment with programmatic task evaluation for mobile agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-google-research-android-world/record.json
+- Record JSON: https://awesomecua.com/resources/github-google-research-android-world/record.json
 
 ## Structured profile
 

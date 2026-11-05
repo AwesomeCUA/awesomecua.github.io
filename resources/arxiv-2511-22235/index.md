@@ -2,7 +2,7 @@
 
 This work trains high-level schedulers with staged reinforcement learning driven by execution feedback. Its CES framework separates a Coordinator for planning and decomposition, a StateTracker for compressed context, and a low-level Executor.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-22235/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-22235/
 - Original source: https://arxiv.org/abs/2511.22235
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This work trains high-level schedulers with staged reinforcement learning driven
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-22235/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-22235/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zehao Deng, Tianjie Ju, Zheng Wu, Zhuosheng Zhang, Gongshen Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-22235/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-22235/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-22235/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-22235/citation.csl.json
 
 ## Recorded arXiv snapshot
 

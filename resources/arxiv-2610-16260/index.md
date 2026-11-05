@@ -2,7 +2,7 @@
 
 Bibliographic record for ScreenASR-Bench: A Tiered Benchmark for Speech Recognition with Visual Context. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-16260/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-16260/
 - Original source: https://arxiv.org/abs/2610.16260
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for ScreenASR-Bench: A Tiered Benchmark for Speech Recognit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-16260/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-16260/record.json
 
 ## Recorded reviewer hold
 
 Scope hold after complete v1 Sections 1–4: this benchmark pairs speech with video keyframes or synthesized substitute frames to test ambiguous\-word transcription\. Examples include map text, an outdoor scene and a game scene; metrics are WER, keyword recall and normalized visual gain\. The inspected work does not establish an agent\-command task, operational UI understanding/action interface, or evaluated downstream CUA use\. Need direct interface\-assistant evidence before core/adjacent inclusion\. Keep bibliography metadata\-only; this is not a permanent scope exclusion\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Mingwei Fu, Zheshu Song, Zhikai Zhou, Shen Huang, Shidong Shang, Mengxiao Zhu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-16260/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-16260/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-16260/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-16260/citation.csl.json
 
 ## Recorded arXiv snapshot
 

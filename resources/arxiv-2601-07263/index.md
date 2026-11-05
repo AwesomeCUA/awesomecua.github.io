@@ -2,7 +2,7 @@
 
 Studies deceptive social-engineering web patterns targeting browser automation agents and proposes defenses against bait-based manipulation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-07263/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-07263/
 - Original source: https://arxiv.org/abs/2601.07263
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies deceptive social-engineering web patterns targeting browser automation a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-07263/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-07263/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinyi Wu, Geng Hong, Yueyue Chen, MingXuan Liu, Feier Jin, Xudong Pan, Jiarun Da
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-07263/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-07263/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-07263/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-07263/citation.csl.json
 
 ## Recorded arXiv snapshot
 

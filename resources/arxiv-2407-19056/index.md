@@ -2,7 +2,7 @@
 
 Evaluates language agents on office workflows requiring information integration, long-term planning, and switching between applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-19056/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-19056/
 - Original source: https://arxiv.org/abs/2407.19056
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates language agents on office workflows requiring information integration,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-19056/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-19056/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zilong Wang, Yuedong Cui, Li Zhong, Zimin Zhang, Da Yin, Bill Yuchen Lin, Jingbo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-19056/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-19056/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-19056/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-19056/citation.csl.json
 
 ## Recorded arXiv snapshot
 

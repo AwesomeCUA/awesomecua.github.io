@@ -2,7 +2,7 @@
 
 Bibliographic record for RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS for Web Agent Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-00335/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-00335/
 - Original source: https://arxiv.org/abs/2608.00335
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-00335/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-00335/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chengbo Liu, Lifang Zhou, Ruijie Yan, Pei Tan, Ao Sun, Haojun Huang, Guichun Hua
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-00335/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-00335/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-00335/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-00335/citation.csl.json
 
 ## Recorded arXiv snapshot
 

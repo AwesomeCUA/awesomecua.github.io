@@ -2,7 +2,7 @@
 
 SEAgent explores unfamiliar software using a world-state assessor and an automatically generated task curriculum. It learns from failed and successful interactions through adversarial imitation and GRPO, then combines specialist experience into a generalist agent evaluated on five OSWorld software environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-04700/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-04700/
 - Original source: https://arxiv.org/abs/2508.04700
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SEAgent explores unfamiliar software using a world-state assessor and an automat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04700/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-04700/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zeyi Sun, Ziyu Liu, Yuhang Zang, Yuhang Cao, Xiaoyi Dong, Tong Wu, Dahua Lin, Ji
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04700/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04700/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-04700/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-04700/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 LiMAC combines a compact Action Transformer with a fine-tuned vision-language model for Android app control. It uses textual goals and histories of screenshots and UI trees to predict actions, with evaluation on two mobile-control datasets.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-17883/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-17883/
 - Original source: https://arxiv.org/abs/2410.17883
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LiMAC combines a compact Action Transformer with a fine-tuned vision-language mo
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-17883/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-17883/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Filippos Christianos, Georgios Papoudakis, Thomas Coste, Jianye Hao, Jun Wang, K
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-17883/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-17883/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-17883/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-17883/citation.csl.json
 
 ## Recorded arXiv snapshot
 

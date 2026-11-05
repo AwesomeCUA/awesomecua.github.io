@@ -2,7 +2,7 @@
 
 An Android client and Python-server agent that learns reusable app subtasks through exploration, selection, derivation and memory recall.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-fclab-skku-mobilegpt/
+- Catalog URL: https://awesomecua.com/resources/github-fclab-skku-mobilegpt/
 - Original source: https://github.com/fclab-skku/MobileGPT
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ An Android client and Python-server agent that learns reusable app subtasks thro
 
 The old mobilegptsys repository resolves to fclab-skku/MobileGPT. Public Android client and Python server sources require Android SDK 33+, Accessibility Service setup and external service credentials. The README explicitly omits the random explorer and human-in-the-loop memory repair from the open-source version. Its benchmark description differs from the retained arXiv snapshot, so no dataset counts or reproduction claim are merged into this code record. External benchmark data was not approved as a separate release.
 
-- Record JSON: https://awesomecua.github.io/resources/github-fclab-skku-mobilegpt/record.json
+- Record JSON: https://awesomecua.com/resources/github-fclab-skku-mobilegpt/record.json
 
 ## License declarations
 

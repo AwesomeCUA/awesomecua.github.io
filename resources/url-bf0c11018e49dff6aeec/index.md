@@ -2,7 +2,7 @@
 
 Describes Eager, which detects repeated HyperCard interactions, generalizes them into loops, and previews predicted actions by highlighting interface objects. Users can then ask it to execute the inferred repetitive task.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/
+- Catalog URL: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/
 - Original source: https://acypher.com/Publications/CHI91/EagerCHI.html
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes Eager, which detects repeated HyperCard interactions, generalizes them
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS.
 
-- Record JSON: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/record.json
+- Record JSON: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Allen Cypher
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Allen Cypher
 - Authors: Allen Cypher
 - Publication date (recorded precision): 1991
 - Publication source: https://acypher.com/Publications/CHI91/EagerCHI.html
-- Publication BibTeX: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-bf0c11018e49dff6aeec/publication-citation.csl.json
 - venue: Proceedings of CHI '91
 - pages: 33-39
 - date basis: Supplied year precision: 1991. Opening CHI 1991 citation and copyright

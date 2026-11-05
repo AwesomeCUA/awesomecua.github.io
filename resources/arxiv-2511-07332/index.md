@@ -2,7 +2,7 @@
 
 GroundCUA turns expert desktop demonstrations into densely annotated screenshots and grounding instructions. The GroundNext model family uses this supervision and subsequent reinforcement learning, with both grounding benchmarks and an OSWorld agent configuration used for evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-07332/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-07332/
 - Original source: https://arxiv.org/abs/2511.07332
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GroundCUA turns expert desktop demonstrations into densely annotated screenshots
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-07332/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-07332/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-07332/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-07332/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-07332/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-07332/citation.csl.json
 
 ## Recorded arXiv snapshot
 

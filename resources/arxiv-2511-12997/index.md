@@ -2,7 +2,7 @@
 
 Introduces WebCoach, which condenses navigation logs into persistent episodic memory and retrieves experiences by similarity and recency. Runtime hooks selectively supply advice to browser agents, evaluated on WebVoyager without retraining the underlying models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-12997/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-12997/
 - Original source: https://arxiv.org/abs/2511.12997
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebCoach, which condenses navigation logs into persistent episodic me
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-12997/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-12997/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Genglin Liu, Shijie Geng, Sha Li, Hejie Cui, Sarah Zhang, Xin Liu, Tianyi Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-12997/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-12997/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-12997/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-12997/citation.csl.json
 
 ## Recorded arXiv snapshot
 

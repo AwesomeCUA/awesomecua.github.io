@@ -2,7 +2,7 @@
 
 CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26071/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-26071/
 - Original source: https://arxiv.org/abs/2610.26071
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CUA-Lite unifies environment interfaces, supervised data formats and per-model h
 
 Reviewed the complete official abstract and selected v1 methods, training and limitations sections. WebVoyager uses offline mirrors; VM-free sandboxes are Linux-only, and reported desktop/mobile gains do not establish unseen-app transfer. No results or released artifacts were independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26071/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-26071/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhanhui Zhou, Weichen Zhang, Haoran Liu, Lingjie Chen, Tianneng Shi, Kevin Lin, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26071/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26071/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-26071/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-26071/citation.csl.json
 
 ## Recorded arXiv snapshot
 

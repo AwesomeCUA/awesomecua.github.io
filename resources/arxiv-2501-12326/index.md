@@ -2,7 +2,7 @@
 
 Studies a screenshot-driven native GUI model with unified actions, deliberate reasoning, and iterative training on interaction traces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-12326/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2501-12326/
 - Original source: https://arxiv.org/abs/2501.12326
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies a screenshot-driven native GUI model with unified actions, deliberate re
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-12326/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2501-12326/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yujia Qin, Yining Ye, Junjie Fang, Haoming Wang, Shihao Liang, Shizuo Tian, Jund
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-12326/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-12326/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2501-12326/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2501-12326/citation.csl.json
 
 ## Recorded arXiv snapshot
 

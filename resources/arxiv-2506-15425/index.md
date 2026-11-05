@@ -2,7 +2,7 @@
 
 Introduces a finer-grained taxonomy of GUI localization errors and a logit-based Peak Sharpness Score for analyzing coordinate-prediction uncertainty. A context-aware cropping method refines the visual input without retraining the grounding model.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-15425/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-15425/
 - Original source: https://arxiv.org/abs/2506.15425
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a finer-grained taxonomy of GUI localization errors and a logit-based
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-15425/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-15425/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xingjian Tao, Yiwei Wang, Yujun Cai, Zhicheng Yang, Jing Tang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-15425/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-15425/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-15425/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-15425/citation.csl.json
 
 ## Recorded arXiv snapshot
 

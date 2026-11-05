@@ -2,7 +2,7 @@
 
 Studies instruction-following agents that observe screenshots and act through a generic mouse-and-keyboard action space, evaluating pixel-based pretraining for GUI tasks on MiniWoB++.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2306-00245/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2306-00245/
 - Original source: https://arxiv.org/abs/2306.00245
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies instruction-following agents that observe screenshots and act through a 
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-00245/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2306-00245/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-00245/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-00245/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2306-00245/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2306-00245/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexian
 - Authors: Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova
 - Publication date (recorded precision): 2023-12-15
 - Publication source: https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2306-00245/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-00245/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2306-00245/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2306-00245/publication-citation.csl.json
 - venue: Advances in Neural Information Processing Systems
 - volume: 36
 - pages: 34354-34370

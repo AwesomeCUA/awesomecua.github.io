@@ -2,7 +2,7 @@
 
 Bibliographic record for From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-18959/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-18959/
 - Original source: https://arxiv.org/abs/2506.18959
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for From Web Search towards Agentic Deep Research: Incentiv
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-18959/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-18959/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weizhi Zhang, Yangning Li, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-18959/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-18959/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-18959/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-18959/citation.csl.json
 
 ## Recorded arXiv snapshot
 

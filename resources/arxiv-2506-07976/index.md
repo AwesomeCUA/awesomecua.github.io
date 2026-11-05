@@ -2,7 +2,7 @@
 
 Test-Time Interaction scales the interaction horizon so web agents can explore, backtrack and revise plans within a rollout. Its online reinforcement-learning curriculum adjusts rollout lengths and is evaluated on WebVoyager and WebArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-07976/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-07976/
 - Original source: https://arxiv.org/abs/2506.07976
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Test-Time Interaction scales the interaction horizon so web agents can explore, 
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-07976/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-07976/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junhong Shen, Hao Bai, Lunjun Zhang, Yifei Zhou, Amrith Setlur, Shengbang Tong, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-07976/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-07976/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-07976/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-07976/citation.csl.json
 
 ## Recorded arXiv snapshot
 

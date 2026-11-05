@@ -2,7 +2,7 @@
 
 Bibliographic record for How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-06373/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-06373/
 - Original source: https://arxiv.org/abs/2401.06373
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for How Johnny Can Persuade LLMs to Jailbreak Them: Rethink
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-06373/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-06373/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-06373/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-06373/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-06373/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-06373/citation.csl.json
 
 ## Recorded arXiv snapshot
 

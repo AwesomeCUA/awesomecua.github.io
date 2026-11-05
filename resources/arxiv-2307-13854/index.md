@@ -2,7 +2,7 @@
 
 Introduces reproducible web environments with task-completion checks for evaluating autonomous web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2307-13854/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2307-13854/
 - Original source: https://arxiv.org/abs/2307.13854
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces reproducible web environments with task-completion checks for evaluat
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-13854/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2307-13854/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xiany
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-13854/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-13854/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2307-13854/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2307-13854/citation.csl.json
 
 ## Recorded arXiv snapshot
 

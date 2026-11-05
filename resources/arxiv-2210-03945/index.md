@@ -2,7 +2,7 @@
 
 Studies language models for HTML element classification, page description and autonomous web navigation. Fine-tuned models are evaluated on MiniWoB, and a distilled, automatically labeled CommonCrawl HTML corpus supports the training approach.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2210-03945/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2210-03945/
 - Original source: https://arxiv.org/abs/2210.03945
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies language models for HTML element classification, page description and au
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-03945/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2210-03945/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Izzeddin Gur, Ofir Nachum, Yingjie Miao, Mustafa Safdari, Austin Huang, Aakanksh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-03945/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-03945/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2210-03945/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2210-03945/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-13167/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-13167/
 - Original source: https://arxiv.org/abs/2508.13167
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Chain-of-Agents: End-to-End Agent Foundation Models via
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-13167/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-13167/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weizhen Li, Jianbo Lin, Zhuosong Jiang, Jingyi Cao, Xinpeng Liu, Jiayu Zhang, Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-13167/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-13167/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-13167/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-13167/citation.csl.json
 
 ## Recorded arXiv snapshot
 

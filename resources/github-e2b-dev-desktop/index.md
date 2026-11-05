@@ -2,7 +2,7 @@
 
 Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driven from Python or JavaScript SDKs with screen streaming, mouse, keyboard and window control, screenshots and shell.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-e2b-dev-desktop/
+- Catalog URL: https://awesomecua.com/resources/github-e2b-dev-desktop/
 - Original source: https://github.com/e2b-dev/desktop
 - Kind: infrastructure
 - Review: curated
@@ -16,7 +16,7 @@ Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driv
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-e2b-dev-desktop/record.json
+- Record JSON: https://awesomecua.com/resources/github-e2b-dev-desktop/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-27634/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-27634/
 - Original source: https://arxiv.org/abs/2606.27634
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Continual Learning for Sequential Personalization of Sm
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-27634/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-27634/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Thomas S. Paula, Lucas S. Kupssinskü, Rodrigo C. Barros
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-27634/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-27634/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-27634/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-27634/citation.csl.json
 
 ## Recorded arXiv snapshot
 

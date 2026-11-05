@@ -2,7 +2,7 @@
 
 Introduces WebTrap Park, a platform that turns web-agent security risks into executable tasks and assesses concrete interactions with live pages. It compares agent frameworks without requiring modifications to their implementations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-08406/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-08406/
 - Original source: https://arxiv.org/abs/2601.08406
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebTrap Park, a platform that turns web-agent security risks into exe
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-08406/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-08406/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinyi Wu, Jiagui Chen, Geng Hong, Jiayi Dong, Xudong Pan, Jiarun Dai, Min Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-08406/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-08406/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-08406/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-08406/citation.csl.json
 
 ## Recorded arXiv snapshot
 

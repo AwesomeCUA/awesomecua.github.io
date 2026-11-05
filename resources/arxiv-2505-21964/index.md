@@ -2,7 +2,7 @@
 
 Introduces UI-Evol, which extracts action sequences from agent interactions and critiques external guidance against those traces. Evaluation on OSWorld examines how revised operational knowledge affects execution and behavioral consistency.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-21964/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-21964/
 - Original source: https://arxiv.org/abs/2505.21964
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces UI-Evol, which extracts action sequences from agent interactions and 
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-21964/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-21964/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyun Zhang, Xinyi Liu, Xiaoyi Zhang, Jun Wang, Gang Chen, Yan Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-21964/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-21964/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-21964/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-21964/citation.csl.json
 
 ## Recorded arXiv snapshot
 

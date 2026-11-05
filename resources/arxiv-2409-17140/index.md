@@ -2,7 +2,7 @@
 
 Introduces AXIS, an API-first application agent that can use UI actions and expand its available APIs through automated application exploration. The work evaluates the approach on Microsoft Word tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-17140/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-17140/
 - Original source: https://arxiv.org/abs/2409.17140
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AXIS, an API-first application agent that can use UI actions and expa
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-17140/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-17140/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junting Lu, Zhiyang Zhang, Fangkai Yang, Jue Zhang, Lu Wang, Chao Du, Qingwei Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-17140/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-17140/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-17140/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-17140/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Junting Lu, Zhiyang Zhang, Fangkai Yang, Jue Zhang, Lu Wang, Chao Du, Qingwei Li
 - Authors: Junting Lu, Zhiyang Zhang, Fangkai Yang, Jue Zhang, Lu Wang, Chao Du, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.acl-long.381/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2409-17140/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-17140/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2409-17140/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2409-17140/publication-citation.csl.json
 - venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 7711-7743

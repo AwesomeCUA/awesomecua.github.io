@@ -2,7 +2,7 @@
 
 Bibliographic record for Universal Vulnerabilities in Large Language Models: Backdoor Attacks for In-context Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-05949/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-05949/
 - Original source: https://arxiv.org/abs/2401.05949
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Universal Vulnerabilities in Large Language Models: Bac
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-05949/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-05949/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuai Zhao, Meihuizi Jia, Luu Anh Tuan, Fengjun Pan, Jinming Wen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-05949/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-05949/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-05949/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-05949/citation.csl.json
 
 ## Recorded arXiv snapshot
 

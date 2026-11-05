@@ -2,7 +2,7 @@
 
 ToolTok represents GUI operations with learned tool tokens and frames interaction as progressive tool selection. Semantic anchoring and an easy-to-hard curriculum teach tool meanings before visual pathfinding, with evaluation across grounding scenarios.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-02548/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-02548/
 - Original source: https://arxiv.org/abs/2602.02548
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ToolTok represents GUI operations with learned tool tokens and frames interactio
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-02548/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-02548/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaoce Wang, Guibin Zhang, Junzhe Li, Jinzhe Tu, Chun Li, Ming Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-02548/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-02548/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-02548/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-02548/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Trains computer agents on verified GUI, command-line, and interleaved trajectories to learn when and how to combine interaction modes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-38008/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-38008/
 - Original source: https://arxiv.org/abs/2609.38008
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains computer agents on verified GUI, command-line, and interleaved trajectori
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-38008/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-38008/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tongbo Chen, Junbo Niu, Zhengxi Lu, Niu Lian, Fei Tang, Yuchen Yan, Yike Hong, Y
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-38008/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-38008/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-38008/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-38008/citation.csl.json
 
 ## Recorded arXiv snapshot
 

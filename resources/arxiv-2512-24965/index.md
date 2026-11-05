@@ -2,7 +2,7 @@
 
 Models discrete clicks and continuous drags with flow-based action generation, and introduces drag trajectories and the ScreenDrag benchmark.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-24965/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-24965/
 - Original source: https://arxiv.org/abs/2512.24965
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Models discrete clicks and continuous drags with flow-based action generation, a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-24965/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-24965/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Siyuan Hu, Kevin Qinghong Lin, Mike Zheng Shou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-24965/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-24965/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-24965/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-24965/citation.csl.json
 
 ## Recorded arXiv snapshot
 

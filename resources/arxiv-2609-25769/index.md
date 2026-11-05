@@ -2,7 +2,7 @@
 
 MaP unifies GUI-navigation objectives by masking and predicting components of multi-turn trajectories. Role-aware adapters address heterogeneous training data, and evaluations compare the approach with direct task-mixture training across navigation benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-25769/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-25769/
 - Original source: https://arxiv.org/abs/2609.25769
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MaP unifies GUI-navigation objectives by masking and predicting components of mu
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-25769/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-25769/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yan Zhang, Pei Fu, Daiqing Wu, Huawen Shen, Ruoceng Zhang, Shaojie Zhang, Jiahui
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-25769/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-25769/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-25769/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-25769/citation.csl.json
 
 ## Recorded arXiv snapshot
 

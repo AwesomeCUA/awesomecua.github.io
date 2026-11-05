@@ -2,7 +2,7 @@
 
 Chromium-based browser implementations for external agent control and built-in assistant workflows, with session visibility and replay facilities.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-browseros-ai-browseros/
+- Catalog URL: https://awesomecua.com/resources/github-browseros-ai-browseros/
 - Original source: https://github.com/browseros-ai/BrowserOS
 - Kind: infrastructure
 - Review: curated
@@ -16,7 +16,7 @@ Chromium-based browser implementations for external agent control and built-in a
 
 The one repository includes BrowserOS neo and BrowserOS; they are retained as one source-bundle resource. Official release metadata lists desktop installers, but none were downloaded. The repository declares AGPL-3.0 and retains separate Chromium-related licensing. Publisher privacy and performance claims were not independently verified.
 
-- Record JSON: https://awesomecua.github.io/resources/github-browseros-ai-browseros/record.json
+- Record JSON: https://awesomecua.com/resources/github-browseros-ai-browseros/record.json
 
 ## License declarations
 

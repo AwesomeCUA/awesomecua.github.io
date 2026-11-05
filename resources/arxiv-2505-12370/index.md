@@ -2,7 +2,7 @@
 
 Proposes GUI grounding training that combines curated seed examples, continuous location-dependent policy feedback, and iterative refinement guided by attention maps. The study evaluates the resulting reinforcement-learning procedure on three grounding benchmarks, including ScreenSpot-Pro.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-12370/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-12370/
 - Original source: https://arxiv.org/abs/2505.12370
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes GUI grounding training that combines curated seed examples, continuous 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12370/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-12370/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12370/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12370/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-12370/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-12370/citation.csl.json
 
 ## Recorded arXiv snapshot
 

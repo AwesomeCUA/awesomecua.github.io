@@ -2,7 +2,7 @@
 
 Bibliographic record for GEM3D CIM General Purpose Matrix Computation Using 3D Integrated SRAM eDRAM Hybrid Compute In Memory on Memory Architecture. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-13969/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-13969/
 - Original source: https://arxiv.org/abs/2604.13969
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for GEM3D CIM General Purpose Matrix Computation Using 3D I
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13969/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-13969/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Subhradip Chakraborty, Ankur Singh, Akhilesh R. Jaiswal
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13969/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13969/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-13969/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-13969/citation.csl.json
 
 ## Recorded arXiv snapshot
 

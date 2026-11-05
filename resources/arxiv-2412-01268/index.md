@@ -2,7 +2,7 @@
 
 Separates interpretation of user instructions from precise GUI localization using general-purpose and specialized visual-language components.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-01268/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-01268/
 - Original source: https://arxiv.org/abs/2412.01268
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Separates interpretation of user instructions from precise GUI localization usin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-01268/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-01268/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yiqin Wang, Haoji Zhang, Jingqi Tian, Yansong Tang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-01268/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-01268/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-01268/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-01268/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yiqin Wang, Haoji Zhang, Jingqi Tian, Yansong Tang
 - Authors: Yiqin Wang, Haoji Zhang, Jingqi Tian, Yansong Tang
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.findings-acl.76/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2412-01268/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-01268/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-01268/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-01268/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2025
 - publisher: Association for Computational Linguistics
 - pages: 1461-1473

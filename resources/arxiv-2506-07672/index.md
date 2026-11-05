@@ -2,7 +2,7 @@
 
 MCPWorld evaluates API, GUI, and hybrid computer-use agents with 201 tasks in applications whose source can be instrumented and extended with MCP support. It verifies completion from application behavior and packages the testbed in containers with GPU support.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-07672/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-07672/
 - Original source: https://arxiv.org/abs/2506.07672
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MCPWorld evaluates API, GUI, and hybrid computer-use agents with 201 tasks in ap
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The platform or GUI evaluation setting was additionally checked in the primary full text.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-07672/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-07672/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yunhe Yan, Shihe Wang, Jiajun Du, Yexuan Yang, Yuxuan Shan, Qichen Qiu, Xianqing
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-07672/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-07672/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-07672/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-07672/citation.csl.json
 
 ## Recorded arXiv snapshot
 

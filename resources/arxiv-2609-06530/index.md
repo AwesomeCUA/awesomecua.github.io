@@ -2,7 +2,7 @@
 
 Introduces activation-conditioned gradient control for GUI agents learning successive applications. It protects inactive application-specific neurons, constrains updates to shared neurons, and accumulates a compact historical state to balance adaptation with retention.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-06530/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-06530/
 - Original source: https://arxiv.org/abs/2609.06530
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces activation-conditioned gradient control for GUI agents learning succe
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-06530/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-06530/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zirui Shang, Xin Shu, Yang Liu, Zhi Gao, Xinxiao Wu, Lifeng Fan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-06530/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-06530/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-06530/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-06530/citation.csl.json
 
 ## Recorded arXiv snapshot
 

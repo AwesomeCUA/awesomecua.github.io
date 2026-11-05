@@ -2,7 +2,7 @@
 
 Bibliographic record for Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-12609/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-12609/
 - Original source: https://arxiv.org/abs/2504.12609
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Crossing the Human-Robot Embodiment Gap with Sim-to-Rea
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-12609/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-12609/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tyler Ga Wei Lum, Olivia Y. Lee, C. Karen Liu, Jeannette Bohg
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-12609/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-12609/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-12609/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-12609/citation.csl.json
 
 ## Recorded arXiv snapshot
 

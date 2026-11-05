@@ -2,7 +2,7 @@
 
 GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and desktop in one end-to-end agent, trained with keypoint-based multi-judge task verification.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-inclusionai-ui-venus/
+- Catalog URL: https://awesomecua.com/resources/github-inclusionai-ui-venus/
 - Original source: https://github.com/inclusionAI/UI-Venus
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and deskt
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-inclusionai-ui-venus/record.json
+- Record JSON: https://awesomecua.com/resources/github-inclusionai-ui-venus/record.json
 
 ## License declarations
 

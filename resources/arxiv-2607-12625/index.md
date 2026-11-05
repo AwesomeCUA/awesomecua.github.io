@@ -2,7 +2,7 @@
 
 KnowAct-GUIClaw combines a host planner with pluggable GUI subagents, attributable experience memory and an evolving skill library. It uses user profiles and feedback for task decomposition and evaluates transfer across Android, iOS, HarmonyOS and Windows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-12625/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-12625/
 - Original source: https://arxiv.org/abs/2607.12625
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ KnowAct-GUIClaw combines a host planner with pluggable GUI subagents, attributab
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-12625/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-12625/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yunxin Li, Jinchao Li, Shibo Su, Zhenran Xu, Chenrui Zhao, Tongshu Bian, Xiaoman
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-12625/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-12625/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-12625/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-12625/citation.csl.json
 
 ## Recorded arXiv snapshot
 

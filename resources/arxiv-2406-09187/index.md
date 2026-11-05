@@ -2,7 +2,7 @@
 
 Introduces GuardAgent, which translates safety requests into executable guardrail code using plans and retrieved demonstrations. Mind2Web-SC supplies a web-agent safety-policy evaluation alongside a separate healthcare access-control benchmark.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-09187/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-09187/
 - Original source: https://arxiv.org/abs/2406.09187
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GuardAgent, which translates safety requests into executable guardrai
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The web-agent evidence is Mind2Web-SC; the healthcare benchmark does not independently establish GUI control.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-09187/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-09187/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhen Xiang, Linzhi Zheng, Yanjie Li, Junyuan Hong, Qinbin Li, Han Xie, Jiawei Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-09187/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-09187/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-09187/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-09187/citation.csl.json
 
 ## Recorded arXiv snapshot
 

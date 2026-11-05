@@ -2,7 +2,7 @@
 
 CODA combines a generalist planner with a specialist GUI executor and trains application-specific planners through decoupled GRPO. Successful specialist trajectories then support supervised training of a consolidated planner, evaluated across four ScienceBoard applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-20096/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-20096/
 - Original source: https://arxiv.org/abs/2508.20096
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CODA combines a generalist planner with a specialist GUI executor and trains app
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-20096/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-20096/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zeyi Sun, Yuhang Cao, Jianze Liang, Qiushi Sun, Ziyu Liu, Zhixiong Zhang, Yuhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-20096/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-20096/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-20096/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-20096/citation.csl.json
 
 ## Recorded arXiv snapshot
 

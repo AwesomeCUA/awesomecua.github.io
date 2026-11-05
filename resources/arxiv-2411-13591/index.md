@@ -2,7 +2,7 @@
 
 Uses iterative visual narrowing to improve localization of requested GUI elements with general or specially trained vision-language models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-13591/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-13591/
 - Original source: https://arxiv.org/abs/2411.13591
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses iterative visual narrowing to improve localization of requested GUI element
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-13591/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-13591/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Anthony Nguyen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-13591/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-13591/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-13591/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-13591/citation.csl.json
 
 ## Recorded arXiv snapshot
 

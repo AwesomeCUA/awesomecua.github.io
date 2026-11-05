@@ -2,7 +2,7 @@
 
 MemGUI-Agent makes context management an action chosen by the same policy that controls the mobile UI. Structured history, UI-state and recent-step fields are trained from annotated trajectories to retain cross-app facts while limiting context growth.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-19926/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-19926/
 - Original source: https://arxiv.org/abs/2606.19926
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MemGUI-Agent makes context management an action chosen by the same policy that c
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-19926/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-19926/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guangyi Liu, Gao Wu, Congxiao Liu, Pengxiang Zhao, Liang Liu, Mading Li, Qi Zhan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-19926/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-19926/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-19926/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-19926/citation.csl.json
 
 ## Recorded arXiv snapshot
 

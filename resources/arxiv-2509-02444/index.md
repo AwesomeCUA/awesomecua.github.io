@@ -2,7 +2,7 @@
 
 Describes a mobile-agent stack combining region-based coordinate correction, hierarchical task planning, multi-agent voting, and reuse of successful interaction traces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-02444/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-02444/
 - Original source: https://arxiv.org/abs/2509.02444
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes a mobile-agent stack combining region-based coordinate correction, hie
 
 Trace reuse assumes stable layouts and fixed tasks. The described function-call routes are user-selected, and coordinate calibration depends on valid detected widgets. No particular operating-system coverage, latency guarantee or reproduced result is asserted. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (4.2 OCR/OR Region Localization; 4.2.2 Coordinate Calibration; 4.3 Multi-Agent Voting; 5.2 Task Decomposition; 6.2 Experience Reuse; 6.3 Function Calling); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-02444/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-02444/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingru Fan, Yufan Dang, Jingyao Wu, Huatao Li, Runde Yang, Xiyuan Yang, Yuheng W
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-02444/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-02444/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-02444/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-02444/citation.csl.json
 
 ## Recorded arXiv snapshot
 

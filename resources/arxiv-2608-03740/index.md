@@ -2,7 +2,7 @@
 
 MissClick designs white-box attacks around the numerical effect of coordinate digits on executable GUI clicks. Separate untargeted displacement and targeted place-weighted objectives are evaluated across desktop, web and mobile grounding settings.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-03740/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-03740/
 - Original source: https://arxiv.org/abs/2608.03740
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MissClick designs white-box attacks around the numerical effect of coordinate di
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-03740/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-03740/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yu Ran, Wentao Zhao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-03740/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-03740/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-03740/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-03740/citation.csl.json
 
 ## Recorded arXiv snapshot
 

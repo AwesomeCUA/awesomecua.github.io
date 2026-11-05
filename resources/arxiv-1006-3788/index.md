@@ -2,7 +2,7 @@
 
 Bibliographic record for Highly accurate and efficient self-force computations using time-domain methods: Error estimates, validation, and optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1006-3788/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1006-3788/
 - Original source: https://arxiv.org/abs/1006.3788
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Highly accurate and efficient self-force computations u
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1006-3788/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1006-3788/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jonathan Thornburg
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1006-3788/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1006-3788/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1006-3788/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1006-3788/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 An Android automation implementation that translates screenshot-based UI understanding into language descriptions for step-by-step LLM planning and action execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-akimotoayako-visiontasker/
+- Catalog URL: https://awesomecua.com/resources/github-akimotoayako-visiontasker/
 - Original source: https://github.com/AkimotoAyako/VisionTasker
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ An Android automation implementation that translates screenshot-based UI underst
 
 The official lowercase readme.md and source tree expose automatic and step-by-step entry points. The documented setup uses a Windows host and an Android phone connected through ADB; it also requires separately obtained detection/CLIP models and model/OCR services. GPL-3.0 is recorded for the code only. External model download links were not used to infer weight licenses or verify a separate checkpoint release.
 
-- Record JSON: https://awesomecua.github.io/resources/github-akimotoayako-visiontasker/record.json
+- Record JSON: https://awesomecua.com/resources/github-akimotoayako-visiontasker/record.json
 
 ## License declarations
 

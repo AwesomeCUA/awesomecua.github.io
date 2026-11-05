@@ -2,7 +2,7 @@
 
 Local, cloud-free replay debugger that records each Browser Use step's screenshot, URL, action and model I/O as a timeline and reports the step at which a failed run diverges from a known-good one.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-aaronlab-browsertrace/
+- Catalog URL: https://awesomecua.com/resources/github-aaronlab-browsertrace/
 - Original source: https://github.com/aaronlab/browsertrace
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Local, cloud-free replay debugger that records each Browser Use step's screensho
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-aaronlab-browsertrace/record.json
+- Record JSON: https://awesomecua.com/resources/github-aaronlab-browsertrace/record.json
 
 ## License declarations
 

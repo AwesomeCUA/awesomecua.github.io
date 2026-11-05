@@ -2,7 +2,7 @@
 
 Survey of LLM-brained GUI agents that carry out natural-language instructions across web, mobile, and desktop interfaces, organizing research and industry progress.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-18279/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-18279/
 - Original source: https://arxiv.org/abs/2411.18279
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Survey of LLM-brained GUI agents that carry out natural-language instructions ac
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-18279/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-18279/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, Liqun Li, Si Qin, Yu Kang, Mingh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-18279/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-18279/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-18279/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-18279/citation.csl.json
 
 ## Recorded arXiv snapshot
 

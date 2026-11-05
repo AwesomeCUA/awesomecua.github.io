@@ -2,7 +2,7 @@
 
 Benchmarks visual agents across GUI, embodied, and design tasks, with training trajectories collected through solvers, agents, and human demonstrations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2408-06327/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2408-06327/
 - Original source: https://arxiv.org/abs/2408.06327
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Benchmarks visual agents across GUI, embodied, and design tasks, with training t
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-06327/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2408-06327/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiao Liu, Tianjie Zhang, Yu Gu, Iat Long Iong, Yifan Xu, Xixuan Song, Shudan Zha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-06327/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-06327/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2408-06327/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2408-06327/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-neulab-multiui/
+- Catalog URL: https://awesomecua.com/resources/github-neulab-multiui/
 - Original source: https://github.com/neulab/multiui
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-neulab-multiui/record.json
+- Record JSON: https://awesomecua.com/resources/github-neulab-multiui/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Simulates a software-company workplace to evaluate agents on professional tasks involving websites, programs, files, and coworker communication.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-14161/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-14161/
 - Original source: https://arxiv.org/abs/2412.14161
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Simulates a software-company workplace to evaluate agents on professional tasks 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-14161/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-14161/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Frank F. Xu, Yufan Song, Boxuan Li, Yuxuan Tang, Kritanjali Jain, Mengxue Bao, Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-14161/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-14161/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-14161/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-14161/citation.csl.json
 
 ## Recorded arXiv snapshot
 

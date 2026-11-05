@@ -2,7 +2,7 @@
 
 Uses the near-zero contact-touch signals of automated mobile agents to expose malicious visual content selectively during agent interactions. The paper combines this agent-only perceptual injection with HG-IDA* prompt optimization to study unauthorized cross-app actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-07809/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-07809/
 - Original source: https://arxiv.org/abs/2510.07809
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses the near-zero contact-touch signals of automated mobile agents to expose ma
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-07809/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-07809/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Renhua Ding, Xiao Yang, Zhengwei Fang, Jun Luo, Kun He, Jun Zhu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-07809/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-07809/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-07809/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-07809/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for An Empirical Study of Testing Practices in Open Source AI Agent Frameworks and Agentic Applications. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-19185/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-19185/
 - Original source: https://arxiv.org/abs/2509.19185
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for An Empirical Study of Testing Practices in Open Source 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-19185/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-19185/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mohammed Mehedi Hasan, Hao Li, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-19185/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-19185/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-19185/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-19185/citation.csl.json
 
 ## Recorded arXiv snapshot
 

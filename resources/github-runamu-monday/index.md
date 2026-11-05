@@ -2,7 +2,7 @@
 
 Cross-platform mobile GUI trajectory dataset derived from instructional videos, with released data-processing helpers and example evaluation code for Android and iOS data.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-runamu-monday/
+- Catalog URL: https://awesomecua.com/resources/github-runamu-monday/
 - Original source: https://github.com/runamu/monday
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Cross-platform mobile GUI trajectory dataset derived from instructional videos, 
 
 The retained README marks release of the full data-generation pipeline, training scripts, and model checkpoints as pending. Linked video content and datasets remain subject to their original licenses; the repository code license does not establish a blanket data or weights license.
 
-- Record JSON: https://awesomecua.github.io/resources/github-runamu-monday/record.json
+- Record JSON: https://awesomecua.com/resources/github-runamu-monday/record.json
 
 ## License declarations
 

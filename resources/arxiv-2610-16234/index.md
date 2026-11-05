@@ -2,7 +2,7 @@
 
 Recasts GUI grounding as predicting a mask of valid click locations from bounding-box supervision, then derives a click point with a deterministic selection rule.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-16234/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-16234/
 - Original source: https://arxiv.org/abs/2610.16234
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Recasts GUI grounding as predicting a mask of valid click locations from boundin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-16234/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-16234/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingchao Wang, Dingjiang Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-16234/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-16234/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-16234/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-16234/citation.csl.json
 
 ## Recorded arXiv snapshot
 

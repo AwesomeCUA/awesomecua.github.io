@@ -2,7 +2,7 @@
 
 Bibliographic record for FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-04530/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-04530/
 - Original source: https://arxiv.org/abs/2608.04530
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for FocusMem: Factorizing Content, Readout, and Trust in La
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-04530/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-04530/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhuoran Zhang, Bowen Li, Jingcheng Ju, Yang Shi, Qixun Wang, Haotian Wang, Wei C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-04530/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-04530/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-04530/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-04530/citation.csl.json
 
 ## Recorded arXiv snapshot
 

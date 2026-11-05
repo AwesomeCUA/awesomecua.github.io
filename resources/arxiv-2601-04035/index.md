@@ -2,7 +2,7 @@
 
 MobileDreamer predicts post-action GUI states as task-relevant textual sketches with an order-invariant learning objective. Agents use these predictions for lookahead action selection, evaluated on AndroidWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-04035/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-04035/
 - Original source: https://arxiv.org/abs/2601.04035
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileDreamer predicts post-action GUI states as task-relevant textual sketches 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-04035/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-04035/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yilin Cao, Yufeng Zhong, Zhixiong Zeng, Siran Dai, Liming Zheng, Jing Huang, Hai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-04035/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-04035/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-04035/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-04035/citation.csl.json
 
 ## Recorded arXiv snapshot
 

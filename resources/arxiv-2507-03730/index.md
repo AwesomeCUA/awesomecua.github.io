@@ -2,7 +2,7 @@
 
 SimpAgent prunes distracting interface elements with visual masks and compresses interaction history using consistency-based guidance. The study evaluates these two forms of context reduction during GUI navigation in web and mobile environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-03730/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-03730/
 - Original source: https://arxiv.org/abs/2507.03730
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SimpAgent prunes distracting interface elements with visual masks and compresses
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-03730/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-03730/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gongwei Chen, Xurui Zhou, Rui Shao, Yibo Lyu, Kaiwen Zhou, Shuai Wang, Wentao Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-03730/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-03730/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-03730/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-03730/citation.csl.json
 
 ## Recorded arXiv snapshot
 

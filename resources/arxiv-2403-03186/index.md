@@ -2,7 +2,7 @@
 
 Uses screenshot observations, planning modules, and generated low-level keyboard and mouse control for general computer interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-03186/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-03186/
 - Original source: https://arxiv.org/abs/2403.03186
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses screenshot observations, planning modules, and generated low-level keyboard
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-03186/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-03186/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-03186/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-03186/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-03186/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-03186/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zh
 - Authors: Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, Yifei Bi, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang, Börje F. Karlsson, Bo An, Shuicheng Yan, Zongqing Lu
 - Publication date (recorded precision): 2025-10-06
 - Publication source: https://proceedings.mlr.press/v267/tan25h.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2403-03186/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-03186/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2403-03186/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2403-03186/publication-citation.csl.json
 - venue: Proceedings of the 42nd International Conference on Machine Learning
 - publisher: PMLR
 - series: Proceedings of Machine Learning Research

@@ -2,7 +2,7 @@
 
 CompWoB adds 50 composed web-automation tasks to study generalization from simpler interactions. The paper compares prompted and fine-tuned agents, balances task training data, and probes sensitivity to changes in instruction order.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2311-18751/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2311-18751/
 - Original source: https://arxiv.org/abs/2311.18751
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CompWoB adds 50 composed web-automation tasks to study generalization from simpl
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-18751/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2311-18751/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hiroki Furuta, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-18751/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-18751/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2311-18751/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2311-18751/citation.csl.json
 
 ## Recorded arXiv snapshot
 

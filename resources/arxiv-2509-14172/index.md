@@ -2,7 +2,7 @@
 
 TGPO merges semantically equivalent web states into tree-structured trajectories for offline preference optimization. A process reward model scores subgoal progress, redundant behavior, and action validity, while dynamic weighting emphasizes consequential decisions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-14172/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-14172/
 - Original source: https://arxiv.org/abs/2509.14172
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ TGPO merges semantically equivalent web states into tree-structured trajectories
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-14172/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-14172/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyuan Chen, Zhenghui Zhao, Zhangye Han, Miancan Liu, Xianhang Ye, Yiqing Li, Ho
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-14172/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-14172/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-14172/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-14172/citation.csl.json
 
 ## Recorded arXiv snapshot
 

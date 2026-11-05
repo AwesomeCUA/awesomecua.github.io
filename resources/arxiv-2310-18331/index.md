@@ -2,7 +2,7 @@
 
 AllTogether standardizes prompts for HTML-based web navigation and compares prompting with instruction fine-tuning. Its analysis examines how HTML context, interaction history, and current environmental feedback affect task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-18331/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-18331/
 - Original source: https://arxiv.org/abs/2310.18331
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AllTogether standardizes prompts for HTML-based web navigation and compares prom
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-18331/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-18331/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiarun Liu, Wentao Hu, Chunhong Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-18331/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-18331/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-18331/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-18331/citation.csl.json
 
 ## Recorded arXiv snapshot
 

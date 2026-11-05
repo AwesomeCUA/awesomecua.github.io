@@ -2,7 +2,7 @@
 
 Introduces PriceBlind, a visual perturbation method for controlled screenshot-based evaluation of price-constrained multimodal agents. The reported transfer experiments use a simplified single-turn coordinate-selection protocol.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-16515/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-16515/
 - Original source: https://arxiv.org/abs/2604.16515
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PriceBlind, a visual perturbation method for controlled screenshot-ba
 
 Scope is screenshot-based interface understanding and safety. The retained abstract does not establish a specific operating system or live transaction execution; no attack results were independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-16515/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-16515/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiachen Qian, Zhaolu Kang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-16515/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-16515/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-16515/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-16515/citation.csl.json
 
 ## Recorded arXiv snapshot
 

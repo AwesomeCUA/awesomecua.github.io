@@ -2,7 +2,7 @@
 
 Introduces enterprise web tasks on ServiceNow and BrowserGym interfaces for evaluating browser-based agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-07718/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-07718/
 - Original source: https://arxiv.org/abs/2403.07718
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces enterprise web tasks on ServiceNow and BrowserGym interfaces for eval
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-07718/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-07718/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Alexandre Drouin, Maxime Gasse, Massimo Caccia, Issam H. Laradji, Manuel Del Ver
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-07718/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-07718/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-07718/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-07718/citation.csl.json
 
 ## Recorded arXiv snapshot
 

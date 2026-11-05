@@ -2,7 +2,7 @@
 
 This study tests black-box GUI-grounding failures caused by strategically added, innocuous-looking UI elements. Its iterative overlay search is compared with random injection and repeated independent grounding trials to distinguish persistent misdirection from incidental clutter.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-07831/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-07831/
 - Original source: https://arxiv.org/abs/2604.07831
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study tests black-box GUI-grounding failures caused by strategically added,
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-07831/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-07831/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenkui Yang, Chao Jin, Haisu Zhu, Weilin Luo, Derek Yuen, Kun Shao, Junxian Duan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-07831/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-07831/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-07831/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-07831/citation.csl.json
 
 ## Recorded arXiv snapshot
 

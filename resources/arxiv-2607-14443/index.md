@@ -2,7 +2,7 @@
 
 Tactile turns accessibility, OCR and visual evidence into explicit desktop targets with executable actions and verification cues. Its execution loop chooses semantic actions or coordinate fallbacks while retaining provenance for replay and diagnosis.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-14443/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-14443/
 - Original source: https://arxiv.org/abs/2607.14443
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Tactile turns accessibility, OCR and visual evidence into explicit desktop targe
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-14443/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-14443/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yong Liu, Zhenyi Zhong, Zhanpeng Shi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-14443/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-14443/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-14443/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-14443/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Describes WebFovea, a vision-based live-web agent whose execution loop checks action parsing, browser effects, feedback accuracy, and observation delivery. The report analyzes failures such as coordinate mismatches and silent control interactions and documents corresponding harness changes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-03036/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-03036/
 - Original source: https://arxiv.org/abs/2610.03036
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes WebFovea, a vision-based live-web agent whose execution loop checks ac
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-03036/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-03036/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiangang Han
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-03036/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-03036/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-03036/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-03036/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-chessbean1-gui-robust/
+- Catalog URL: https://awesomecua.com/resources/github-chessbean1-gui-robust/
 - Original source: https://github.com/chessbean1/GUI-Robust
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Evaluation scripts and linked data for comparing GUI action predictions and task
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-chessbean1-gui-robust/record.json
+- Record JSON: https://awesomecua.com/resources/github-chessbean1-gui-robust/record.json
 
 ## License declarations
 

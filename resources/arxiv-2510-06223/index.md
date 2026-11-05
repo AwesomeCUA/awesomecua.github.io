@@ -2,7 +2,7 @@
 
 Bibliographic record for A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-06223/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-06223/
 - Original source: https://arxiv.org/abs/2510.06223
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for A Multimodal GUI Architecture for Interfacing with LLM-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-06223/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-06223/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hans G. W. van Dam
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-06223/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-06223/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-06223/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-06223/citation.csl.json
 
 ## Recorded arXiv snapshot
 

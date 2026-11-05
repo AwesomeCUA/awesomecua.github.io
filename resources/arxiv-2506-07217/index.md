@@ -2,7 +2,7 @@
 
 BIMgent plans software-specific workflows and executes GUI actions for building-information modeling. It evaluates multimodal building design and reconstruction tasks in professional authoring software.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-07217/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-07217/
 - Original source: https://arxiv.org/abs/2506.07217
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ BIMgent plans software-specific workflows and executes GUI actions for building-
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-07217/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-07217/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zihan Deng, Changyu Du, Stavros Nousias, André Borrmann
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-07217/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-07217/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-07217/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-07217/citation.csl.json
 
 ## Recorded arXiv snapshot
 

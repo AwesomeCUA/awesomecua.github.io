@@ -2,7 +2,7 @@
 
 Bibliographic record for Verified eigenvalue and eigenvector computations using complex moments and the Rayleigh$\unicode{x2013}$Ritz procedure for generalized Hermitian eigenvalue problems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2110-01822/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2110-01822/
 - Original source: https://arxiv.org/abs/2110.01822
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Verified eigenvalue and eigenvector computations using 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2110-01822/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2110-01822/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Akira Imakura, Keiichi Morikuni, Akitoshi Takayasu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2110-01822/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2110-01822/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2110-01822/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2110-01822/citation.csl.json
 
 ## Recorded arXiv snapshot
 

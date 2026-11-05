@@ -2,7 +2,7 @@
 
 A framework that combines screenshots and accessibility state with agent tools for mobile-device tasks through command-line and Python interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-droidrun-mobilerun/
+- Catalog URL: https://awesomecua.com/resources/github-droidrun-mobilerun/
 - Original source: https://github.com/droidrun/mobilerun
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ A framework that combines screenshots and accessibility state with agent tools f
 
 The former droidrun/droidrun repository resolves to droidrun/mobilerun through the official API. Source and release v0.7.0 are public. Android and iOS setup paths differ, and the companion Portal app is a separate device bridge. MIT applies to framework code; model-provider and cloud-service terms are separate.
 
-- Record JSON: https://awesomecua.github.io/resources/github-droidrun-mobilerun/record.json
+- Record JSON: https://awesomecua.com/resources/github-droidrun-mobilerun/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 SE-GA retrieves hierarchical memories during inference and uses the collected experience in a separate policy-improvement pipeline. Its evaluation includes offline grounding/action tasks and online Android interaction, which measure different capabilities.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-16883/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-16883/
 - Original source: https://arxiv.org/abs/2605.16883
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SE-GA retrieves hierarchical memories during inference and uses the collected ex
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-16883/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-16883/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shilong Jin, Lanjun Wang, Zhuosheng Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-16883/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-16883/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-16883/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-16883/citation.csl.json
 
 ## Recorded arXiv snapshot
 

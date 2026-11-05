@@ -2,7 +2,7 @@
 
 Analyzes reasoning templates, reward design, and policy updates in GUI grounding, then proposes targeted adjustments to the training process.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-15810/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-15810/
 - Original source: https://arxiv.org/abs/2505.15810
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Analyzes reasoning templates, reward design, and policy updates in GUI grounding
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-15810/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-15810/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuqi Zhou, Sunhao Dai, Shuai Wang, Kaiwen Zhou, Qinglin Jia, Jun Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-15810/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-15810/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-15810/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-15810/citation.csl.json
 
 ## Recorded arXiv snapshot
 

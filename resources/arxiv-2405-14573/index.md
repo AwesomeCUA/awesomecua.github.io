@@ -2,7 +2,7 @@
 
 Introduces parameterized Android tasks with initialization, success checks, and cleanup for reproducible interactive evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2405-14573/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2405-14573/
 - Original source: https://arxiv.org/abs/2405.14573
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces parameterized Android tasks with initialization, success checks, and 
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-14573/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2405-14573/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-14573/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-14573/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2405-14573/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2405-14573/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle
 - Authors: Chris Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle Lau, Marybeth Fair, Alice Li, William Bishop, Wei Li, Folawiyo Campbell-Ajala, Daniel Toyama, Robert Berry, Divya Tyamagundlu, Timothy Lillicrap, Oriana Riva
 - Publication date (recorded precision): 2025-05-01
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2025/hash/01a83bc2f2732a58e6aa731e659e7101-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2405-14573/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-14573/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2405-14573/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2405-14573/publication-citation.csl.json
 - venue: International Conference on Learning Representations
 - volume: 2025
 - pages: 406-441

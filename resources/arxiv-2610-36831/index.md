@@ -2,7 +2,7 @@
 
 Bibliographic record for Right Click, Wrong Box: Grading GUI Grounding by What a Click Does. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-36831/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-36831/
 - Original source: https://arxiv.org/abs/2610.36831
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Right Click, Wrong Box: Grading GUI Grounding by What a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-36831/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-36831/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaokang Yuan, Binhui Yao, Luwei Yang, Ruimin Chen, Zeng Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-36831/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-36831/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-36831/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-36831/citation.csl.json
 
 ## Recorded arXiv snapshot
 

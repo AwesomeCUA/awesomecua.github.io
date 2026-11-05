@@ -2,7 +2,7 @@
 
 Bibliographic record for Visual Token Routing: Learning to keep tokens that matter. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2611-06854/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2611-06854/
 - Original source: https://arxiv.org/abs/2611.06854
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Visual Token Routing: Learning to keep tokens that matt
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2611-06854/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2611-06854/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pranjal Aggarwal, Sean Welleck
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2611-06854/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2611-06854/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2611-06854/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2611-06854/citation.csl.json
 
 ## Recorded arXiv snapshot
 

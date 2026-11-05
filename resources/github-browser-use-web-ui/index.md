@@ -2,7 +2,7 @@
 
 A Gradio interface for configuring and running Browser Use agents, including persistent browser sessions and interaction recordings.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-browser-use-web-ui/
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-web-ui/
 - Original source: https://github.com/browser-use/web-ui
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ A Gradio interface for configuring and running Browser Use agents, including per
 
 The repository publishes UI source and release v3.0.0 under MIT. It is a distinct user interface built on the existing Browser Use framework, not a second framework identity. The UI supports several external model providers whose terms are separate; no dependencies were installed.
 
-- Record JSON: https://awesomecua.github.io/resources/github-browser-use-web-ui/record.json
+- Record JSON: https://awesomecua.com/resources/github-browser-use-web-ui/record.json
 
 ## License declarations
 

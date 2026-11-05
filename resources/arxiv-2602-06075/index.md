@@ -2,7 +2,7 @@
 
 MemGUI-Bench evaluates short-term retention and cross-session experience reuse in mobile GUI agents using paired tasks and repeated-attempt protocols. Its staged evaluator measures memory fidelity, learning and execution efficiency.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-06075/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-06075/
 - Original source: https://arxiv.org/abs/2602.06075
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MemGUI-Bench evaluates short-term retention and cross-session experience reuse i
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-06075/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-06075/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Qinyi Luo, Shunye Tang, Yuxiang Chai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-06075/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-06075/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-06075/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-06075/citation.csl.json
 
 ## Recorded arXiv snapshot
 

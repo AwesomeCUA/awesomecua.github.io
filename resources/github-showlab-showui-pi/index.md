@@ -2,7 +2,7 @@
 
 Vision-language-action model and training code for GUI dragging, with links to checkpoints and continuous-action evaluation data.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-showlab-showui-pi/
+- Catalog URL: https://awesomecua.com/resources/github-showlab-showui-pi/
 - Original source: https://github.com/showlab/showui-pi
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Vision-language-action model and training code for GUI dragging, with links to c
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-showlab-showui-pi/record.json
+- Record JSON: https://awesomecua.com/resources/github-showlab-showui-pi/record.json
 
 ## License declarations
 

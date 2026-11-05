@@ -2,7 +2,7 @@
 
 Browser-based enterprise workflow tasks built around ServiceNow.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-servicenow-workarena/
+- Catalog URL: https://awesomecua.com/resources/github-servicenow-workarena/
 - Original source: https://github.com/ServiceNow/WorkArena
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Browser-based enterprise workflow tasks built around ServiceNow.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-servicenow-workarena/record.json
+- Record JSON: https://awesomecua.com/resources/github-servicenow-workarena/record.json
 
 ## Structured profile
 

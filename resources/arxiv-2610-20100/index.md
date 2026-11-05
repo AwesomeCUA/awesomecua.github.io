@@ -2,7 +2,7 @@
 
 Presents TaskVM, an interface for specifying desired and preserved application state, checking agent actions, and exposing whether changes can be reversed or compensated.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-20100/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-20100/
 - Original source: https://arxiv.org/abs/2610.20100
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents TaskVM, an interface for specifying desired and preserved application s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-20100/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-20100/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenkui Yang, Yiming Hao, Kai Zhou, Chengyu Pu, Yuzhe Zhang, Jie Cao, Jin Huang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-20100/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-20100/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-20100/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-20100/citation.csl.json
 
 ## Recorded arXiv snapshot
 

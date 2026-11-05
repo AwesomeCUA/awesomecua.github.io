@@ -2,7 +2,7 @@
 
 Bibliographic record for HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-34582/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-34582/
 - Original source: https://arxiv.org/abs/2610.34582
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for HobbyLM: A Sparse Mixture-of-Experts Model Family on a 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-34582/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-34582/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Harish Santhanalakshmi Ganesan, Hariharan M. S., Prabhurajhan R
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-34582/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-34582/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-34582/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-34582/citation.csl.json
 
 ## Recorded arXiv snapshot
 

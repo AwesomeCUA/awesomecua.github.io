@@ -2,7 +2,7 @@
 
 Bibliographic record for ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-39306/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-39306/
 - Original source: https://arxiv.org/abs/2609.39306
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ReSAIL: Mitigating Collapse in Iterative Agent Self-Dis
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-39306/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-39306/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shengjie Jin, Hengbo Xu, Zelong Sun, YuJie Guo, Zhiwu Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-39306/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-39306/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-39306/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-39306/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for TeamBench: Evaluating Agent Coordination under Enforced Role Separation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-07073/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-07073/
 - Original source: https://arxiv.org/abs/2605.07073
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for TeamBench: Evaluating Agent Coordination under Enforced
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-07073/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-07073/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yubin Kim, Chanwoo Park, Taehan Kim, Eugene Park, Samuel Schmidgall, Salman Rahm
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-07073/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-07073/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-07073/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-07073/citation.csl.json
 
 ## Recorded arXiv snapshot
 

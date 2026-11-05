@@ -2,7 +2,7 @@
 
 Rule-based reinforcement learning for GUI action prediction, releasing UI-R1-3B, trained from Qwen2.5-VL-3B, the efficiency-oriented UI-R1-E-3B, and training data.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-lll6gg-ui-r1/
+- Catalog URL: https://awesomecua.com/resources/github-lll6gg-ui-r1/
 - Original source: https://github.com/lll6gg/UI-R1
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Rule-based reinforcement learning for GUI action prediction, releasing UI-R1-3B,
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-lll6gg-ui-r1/record.json
+- Record JSON: https://awesomecua.com/resources/github-lll6gg-ui-r1/record.json
 
 ## License declarations
 

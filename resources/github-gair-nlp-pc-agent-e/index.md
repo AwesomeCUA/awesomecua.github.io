@@ -2,7 +2,7 @@
 
 Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-gair-nlp-pc-agent-e/
+- Catalog URL: https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/
 - Original source: https://github.com/GAIR-NLP/PC-Agent-E
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Tools for refining and augmenting human computer-use trajectories, preparing sup
 
 README demonstrates Windows and Linux operation and describes thought completion and trajectory augmentation. The released source tree contains postprocess, train and deploy code. The checkpoint, data archive and WindowsAgentArena-V2 are separate resources; external model APIs and a training framework are required.
 
-- Record JSON: https://awesomecua.github.io/resources/github-gair-nlp-pc-agent-e/record.json
+- Record JSON: https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-reworkd-tarsier/
+- Catalog URL: https://awesomecua.com/resources/github-reworkd-tarsier/
 - Original source: https://github.com/reworkd/tarsier
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Perception utilities for web agents that tag interactable elements with typed ID
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-reworkd-tarsier/record.json
+- Record JSON: https://awesomecua.com/resources/github-reworkd-tarsier/record.json
 
 ## License declarations
 

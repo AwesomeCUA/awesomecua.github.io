@@ -2,7 +2,7 @@
 
 GUI-KV compresses vision-language agents’ attention caches using visual-token saliency and redundancy between screenshot frames. The method requires no retraining and evaluates how cache budgets affect GUI action accuracy and computational cost.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-00536/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-00536/
 - Original source: https://arxiv.org/abs/2510.00536
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-KV compresses vision-language agents’ attention caches using visual-token 
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-00536/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-00536/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kung-Hsiang Huang, Haoyi Qiu, Yutong Dai, Caiming Xiong, Chien-Sheng Wu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-00536/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-00536/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-00536/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-00536/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces MMAC-Copilot, which coordinates agents with different expertise to operate PC applications. VIBench evaluates visual interaction with applications that lack usable APIs, spanning office, recreation and game tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-18074/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-18074/
 - Original source: https://arxiv.org/abs/2404.18074
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MMAC-Copilot, which coordinates agents with different expertise to op
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-18074/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-18074/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zirui Song, Yaohang Li, Meng Fang, Yanda Li, Zhenhao Chen, Zecheng Shi, Yuan Hua
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-18074/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-18074/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-18074/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-18074/citation.csl.json
 
 ## Recorded arXiv snapshot
 

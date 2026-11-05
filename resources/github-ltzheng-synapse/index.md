@@ -2,7 +2,7 @@
 
 A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-ltzheng-synapse/
+- Catalog URL: https://awesomecua.com/resources/github-ltzheng-synapse/
 - Original source: https://github.com/ltzheng/Synapse
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ A computer-control research implementation that retrieves example trajectories f
 
 Training, memory-building and evaluation scripts for MiniWoB++ and Mind2Web are present. External benchmark data, model/API credentials and legacy dependencies are still required. License remains unknown: the README shows MIT, while LICENSE is an NTUITIVE non-commercial agreement that both permits some distribution and separately says distribution is prohibited. No interpretation resolves those contradictions, and no commercial or non-commercial permission is asserted. This admission confirms the released GUI implementation, not a licensing grant.
 
-- Record JSON: https://awesomecua.github.io/resources/github-ltzheng-synapse/record.json
+- Record JSON: https://awesomecua.com/resources/github-ltzheng-synapse/record.json
 
 ## License declarations
 

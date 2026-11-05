@@ -2,7 +2,7 @@
 
 Introduces Rousillon, which generalizes a demonstration of collecting one hierarchical data row into a browser-automation program that traverses related pages. The paper develops relation-selection and generalization methods and evaluates users building such scripts.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/
+- Catalog URL: https://awesomecua.com/resources/url-97c0b1896525632434e2/
 - Original source: https://doi.org/10.1145/3242587.3242661
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Rousillon, which generalizes a demonstration of collecting one hierar
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. This is browser interaction learned from demonstrations, rather than a generic server-side crawling library.
 
-- Record JSON: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/record.json
+- Record JSON: https://awesomecua.com/resources/url-97c0b1896525632434e2/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sarah E. Chasins, Maria Mueller, Rastislav Bodik
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-97c0b1896525632434e2/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-97c0b1896525632434e2/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Sarah E. Chasins, Maria Mueller, Rastislav Bodik
 - Authors: Sarah E. Chasins, Maria Mueller, Rastislav Bodik
 - Publication date (recorded precision): 2018
 - Publication source: https://doi.org/10.1145/3242587.3242661
-- Publication BibTeX: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-97c0b1896525632434e2/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-97c0b1896525632434e2/publication-citation.csl.json
 - venue: Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology
 - doi: 10.1145/3242587.3242661
 - date basis: Supplied year precision: 2018. Rousillon entry: UIST 2018

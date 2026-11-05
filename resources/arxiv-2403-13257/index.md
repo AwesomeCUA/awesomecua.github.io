@@ -2,7 +2,7 @@
 
 Bibliographic record for Arcee's MergeKit: A Toolkit for Merging Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-13257/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-13257/
 - Original source: https://arxiv.org/abs/2403.13257
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Arcee's MergeKit: A Toolkit for Merging Large Language 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-13257/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-13257/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Charles Goddard, Shamane Siriwardhana, Malikeh Ehghaghi, Luke Meyers, Vlad Karpu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-13257/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-13257/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-13257/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-13257/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces PrivWeb, which uses a local language model to anonymize interface information according to user preferences. Adaptive notifications and selective pauses give users control over sensitive information access during web-agent tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-11939/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-11939/
 - Original source: https://arxiv.org/abs/2509.11939
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PrivWeb, which uses a local language model to anonymize interface inf
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-11939/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-11939/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuning Zhang, Yutong Jiang, Rongjun Ma, Yuting Yang, Mingyao Xu, Zhixin Huang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-11939/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-11939/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-11939/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-11939/citation.csl.json
 
 ## Recorded arXiv snapshot
 

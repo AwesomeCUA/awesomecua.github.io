@@ -2,7 +2,7 @@
 
 An offline preference-evaluation set for web process reward models, pairing page and trajectory context with preferred and rejected candidate decisions.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-ac6d0f80765f5a32255a/
+- Catalog URL: https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/
 - Original source: https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ An offline preference-evaluation set for web process reward models, pairing page
 
 Two public Parquet shards are present. Card metadata reports 776 test rows, whereas the project describes 1,000-plus test cases without reconciling that count to rows. Both observations are retained as a grain/coverage caveat rather than treating either as a confirmed number of independent tasks. No data license is declared.
 
-- Record JSON: https://awesomecua.github.io/resources/url-ac6d0f80765f5a32255a/record.json
+- Record JSON: https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/record.json
 
 ## Structured profile
 

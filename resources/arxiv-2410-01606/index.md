@@ -2,7 +2,7 @@
 
 Bibliographic record for Automated Red Teaming with GOAT: the Generative Offensive Agent Tester. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-01606/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-01606/
 - Original source: https://arxiv.org/abs/2410.01606
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Automated Red Teaming with GOAT: the Generative Offensi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-01606/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-01606/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Maya Pavlova, Erik Brinkman, Krithika Iyer, Vitor Albiero, Joanna Bitton, Hailey
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-01606/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-01606/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-01606/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-01606/citation.csl.json
 
 ## Recorded arXiv snapshot
 

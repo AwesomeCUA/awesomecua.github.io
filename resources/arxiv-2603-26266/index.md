@@ -2,7 +2,7 @@
 
 GUIDE retrieves relevant software tutorials through subtitle-based video search, then infers planning and grounding knowledge from consecutive annotated keyframes. It inserts that knowledge into existing GUI-agent modules without parameter updates and evaluates the plug-in on OSWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-26266/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-26266/
 - Original source: https://arxiv.org/abs/2603.26266
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUIDE retrieves relevant software tutorials through subtitle-based video search,
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-26266/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-26266/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rui Xie, Zhi Gao, Chenrui Shi, Zirui Shang, Lu Chen, Qing Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-26266/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-26266/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-26266/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-26266/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Evaluation resources for pixel-precise cursor grounding in code editors.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-precision-cua-bench/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-precision-cua-bench/
 - Original source: https://github.com/microsoft/precision-cua-bench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Evaluation resources for pixel-precise cursor grounding in code editors.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-precision-cua-bench/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-precision-cua-bench/record.json
 
 ## Structured profile
 

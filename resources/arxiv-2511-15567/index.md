@@ -2,7 +2,7 @@
 
 AUI-Gym evaluates generated websites by having computer-use agents attempt tasks whose executability is checked programmatically. A feedback dashboard condenses navigation histories into visual summaries that a coding agent can use to revise an interface.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-15567/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-15567/
 - Original source: https://arxiv.org/abs/2511.15567
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AUI-Gym evaluates generated websites by having computer-use agents attempt tasks
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-15567/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-15567/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kevin Qinghong Lin, Siyuan Hu, Linjie Li, Zhengyuan Yang, Lijuan Wang, Philip To
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-15567/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-15567/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-15567/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-15567/citation.csl.json
 
 ## Recorded arXiv snapshot
 

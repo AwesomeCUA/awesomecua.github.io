@@ -2,7 +2,7 @@
 
 Introduces TeleTune, which edits a textual skill library using held-out action prediction on offline software-use logs with missing goals or interleaved tasks. The learned workflows also guide retrieval of demonstrations for subsequent web-agent execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-05437/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-05437/
 - Original source: https://arxiv.org/abs/2610.05437
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces TeleTune, which edits a textual skill library using held-out action p
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-05437/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-05437/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Justin Chih-Yao Chen, Elias Stengel-Eskin, Yan Chen, Pol Llado, Scott Counts, Mo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-05437/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-05437/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-05437/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-05437/citation.csl.json
 
 ## Recorded arXiv snapshot
 

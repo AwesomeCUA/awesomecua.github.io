@@ -2,7 +2,7 @@
 
 Introduces BrowserForge, which combines broad website sourcing, parallel browser sandboxes, and task-proposer/solver interaction to collect verified web trajectories. The pipeline uses page structure during synthesis but trains a policy that acts from screenshots.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-24848/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-24848/
 - Original source: https://arxiv.org/abs/2608.24848
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces BrowserForge, which combines broad website sourcing, parallel browser
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24848/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-24848/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fei Tang, Huawen Shen, Zhiqiong Lu, Zhengxi Lu, Pengyuan Lyu, Chengquan Zhang, W
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24848/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24848/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-24848/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-24848/citation.csl.json
 
 ## Recorded arXiv snapshot
 

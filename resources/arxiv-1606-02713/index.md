@@ -2,7 +2,7 @@
 
 Bibliographic record for MESA meets MURaM: Surface effects in main-sequence solar-like oscillators computed using three-dimensional radiation hydrodynamics simulations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1606-02713/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1606-02713/
 - Original source: https://arxiv.org/abs/1606.02713
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MESA meets MURaM: Surface effects in main-sequence sola
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1606-02713/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1606-02713/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ W. H. Ball, B. Beeck, R. H. Cameron, L. Gizon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1606-02713/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1606-02713/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1606-02713/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1606-02713/citation.csl.json
 
 ## Recorded arXiv snapshot
 

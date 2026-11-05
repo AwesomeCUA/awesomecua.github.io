@@ -2,7 +2,7 @@
 
 ECHOES learns recursive textual task memory through privileged screenshot-history distillation and GRPO, then predicts GUI actions from the current screenshot and memory.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22408/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-22408/
 - Original source: https://arxiv.org/abs/2610.22408
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ECHOES learns recursive textual task memory through privileged screenshot-histor
 
 Privileged screenshot history is used during training, while deployment retains self-generated textual state. GUI results use action/step metrics and model-specific history settings; online Sokoban transfer is separate. GRPO rewards action correctness, valid output format and compression length. Diagnostic memory replay is distinct from the validation gap used to schedule training. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22408/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-22408/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tengda Guo, Jiawang Hu, Yifei Tao, Yin Wang, Haotian Hu, Fanyi Wang, Liujuan Tan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22408/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22408/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-22408/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-22408/citation.csl.json
 
 ## Recorded arXiv snapshot
 

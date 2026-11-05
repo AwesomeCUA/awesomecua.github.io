@@ -2,7 +2,7 @@
 
 Bibliographic record for AgenticDataBench: A Comprehensive Benchmark for Data Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-01647/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-01647/
 - Original source: https://arxiv.org/abs/2607.01647
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgenticDataBench: A Comprehensive Benchmark for Data Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-01647/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-01647/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhaoyan Sun, Shan Zhong, Daizhou Wen, Jiaxing Han, Guoliang Li, Ying Yan, Peng Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-01647/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-01647/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-01647/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-01647/citation.csl.json
 
 ## Recorded arXiv snapshot
 

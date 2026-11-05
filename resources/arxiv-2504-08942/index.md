@@ -2,7 +2,7 @@
 
 AgentRewardBench evaluates automated web-agent judges against expert reviews of 1,302 trajectories from five benchmarks. The annotations cover completion, side effects, and repetition, enabling comparison of LLM judges and rule-based task evaluators.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-08942/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-08942/
 - Original source: https://arxiv.org/abs/2504.08942
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AgentRewardBench evaluates automated web-agent judges against expert reviews of 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-08942/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-08942/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xing Han Lù, Amirhossein Kazemnejad, Nicholas Meade, Arkil Patel, Dongchan Shin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-08942/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-08942/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-08942/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-08942/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces WebGraphEval, which merges multiple agents' trajectories into a weighted graph of canonical actions. Structural analyses examine recurring behavior, inefficient paths and important decision points beyond a final success score.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-19205/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-19205/
 - Original source: https://arxiv.org/abs/2510.19205
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebGraphEval, which merges multiple agents' trajectories into a weigh
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-19205/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-19205/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yaoyao Qian, Yuanli Wang, Jinda Zhang, Yun Zong, Meixu Chen, Hanhan Zhou, Jindan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-19205/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-19205/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-19205/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-19205/citation.csl.json
 
 ## Recorded arXiv snapshot
 

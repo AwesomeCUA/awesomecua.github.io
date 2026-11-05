@@ -2,7 +2,7 @@
 
 Formalizes GUI tasks as Markov decision processes and traces agent training from prompting through supervised fine-tuning to reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-20464/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-20464/
 - Original source: https://arxiv.org/abs/2504.20464
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Formalizes GUI tasks as Markov decision processes and traces agent training from
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-20464/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-20464/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiahao Li, Kaer Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-20464/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-20464/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-20464/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-20464/citation.csl.json
 
 ## Recorded arXiv snapshot
 

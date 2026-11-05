@@ -2,7 +2,7 @@
 
 Proposes quality-aware self-distillation for GUI coordinate generation under student-produced prefixes. A correctness-aware gate suppresses coordinate-token supervision that cannot reach the target box, while teacher-probability scaling adjusts the remaining signal strength.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-18101/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-18101/
 - Original source: https://arxiv.org/abs/2606.18101
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes quality-aware self-distillation for GUI coordinate generation under stu
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-18101/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-18101/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingyuan Huang, Zuming Huang, Yucheng Shi, Tianze Yang, Xiaoming Zhai, Wei Chu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-18101/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-18101/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-18101/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-18101/citation.csl.json
 
 ## Recorded arXiv snapshot
 

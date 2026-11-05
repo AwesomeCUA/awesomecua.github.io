@@ -2,7 +2,7 @@
 
 MAI-UI combines GUI navigation, native user interaction, and MCP tool calls in a family of policies trained through generated data and online reinforcement learning. The report also studies device-cloud routing and scaling of parallel environments and interaction budgets, with grounding and Android navigation evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-22047/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-22047/
 - Original source: https://arxiv.org/abs/2512.22047
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MAI-UI combines GUI navigation, native user interaction, and MCP tool calls in a
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-22047/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-22047/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hanzhang Zhou, Xu Zhang, Panrong Tong, Jianan Zhang, Liangyu Chen, Quyu Kong, Ch
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-22047/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-22047/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-22047/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-22047/citation.csl.json
 
 ## Recorded arXiv snapshot
 

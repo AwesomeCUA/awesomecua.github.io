@@ -2,7 +2,7 @@
 
 Bibliographic record for Vision-Braille: A Curriculum Learning Toolkit and Braille-Chinese Corpus for Braille Translation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-06048/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-06048/
 - Original source: https://arxiv.org/abs/2407.06048
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Vision-Braille: A Curriculum Learning Toolkit and Brail
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-06048/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-06048/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Alan Wu, Ye Yuan, Zhiping Xiao, Ming Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-06048/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-06048/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-06048/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-06048/citation.csl.json
 
 ## Recorded arXiv snapshot
 

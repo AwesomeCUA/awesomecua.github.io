@@ -2,7 +2,7 @@
 
 Introduces GPTVoiceTasker, a mobile assistant that interprets user commands, executes device interactions, and learns from prior commands to streamline later task execution. The work includes a user study of task efficiency.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-14268/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-14268/
 - Original source: https://arxiv.org/abs/2401.14268
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GPTVoiceTasker, a mobile assistant that interprets user commands, exe
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-14268/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-14268/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Minh Duc Vu, Han Wang, Zhuang Li, Jieshan Chen, Shengdong Zhao, Zhenchang Xing, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-14268/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-14268/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-14268/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-14268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

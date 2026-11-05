@@ -2,7 +2,7 @@
 
 LLM-based assistant for automating work in desktop productivity software by watching the screen and issuing mouse and keyboard commands; its repository says the code will be released later.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-showlab-assistgui/
+- Catalog URL: https://awesomecua.com/resources/github-showlab-assistgui/
 - Original source: https://github.com/showlab/assistgui
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ LLM-based assistant for automating work in desktop productivity software by watc
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-showlab-assistgui/record.json
+- Record JSON: https://awesomecua.com/resources/github-showlab-assistgui/record.json
 
 ## License declarations
 

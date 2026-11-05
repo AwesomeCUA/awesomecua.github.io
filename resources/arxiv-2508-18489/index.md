@@ -2,7 +2,7 @@
 
 Bibliographic record for Experiences with Model Context Protocol Servers for Science and High Performance Computing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-18489/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-18489/
 - Original source: https://arxiv.org/abs/2508.18489
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Experiences with Model Context Protocol Servers for Sci
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-18489/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-18489/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haochen Pan, Ryan Chard, Reid Mello, Christopher Grams, Tanjin He, Alexander Bra
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-18489/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-18489/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-18489/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-18489/citation.csl.json
 
 ## Recorded arXiv snapshot
 

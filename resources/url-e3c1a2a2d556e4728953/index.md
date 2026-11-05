@@ -2,7 +2,7 @@
 
 WebDreamer model checkpoint that predicts the consequences of web actions from screenshots and textual descriptions.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-e3c1a2a2d556e4728953/
+- Catalog URL: https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/
 - Original source: https://huggingface.co/osunlp/Dreamer-7B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ WebDreamer model checkpoint that predicts the consequences of web actions from s
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-e3c1a2a2d556e4728953/record.json
+- Record JSON: https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/record.json
 
 ## License declarations
 

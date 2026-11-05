@@ -2,7 +2,7 @@
 
 Bibliographic record for DRBench: A Realistic Benchmark for Enterprise Deep Research. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-00172/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-00172/
 - Original source: https://arxiv.org/abs/2510.00172
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for DRBench: A Realistic Benchmark for Enterprise Deep Rese
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-00172/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-00172/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Amirhossein Abaskohi, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Va
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-00172/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-00172/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-00172/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-00172/citation.csl.json
 
 ## Recorded arXiv snapshot
 

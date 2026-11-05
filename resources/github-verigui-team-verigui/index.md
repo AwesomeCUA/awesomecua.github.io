@@ -2,7 +2,7 @@
 
 Verifiable web information-seeking benchmark renamed from VeriGUI; desktop evaluation is described as future work.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-verigui-team-verigui/
+- Catalog URL: https://awesomecua.com/resources/github-verigui-team-verigui/
 - Original source: https://github.com/VeriGUI-Team/VeriGUI
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Verifiable web information-seeking benchmark renamed from VeriGUI; desktop evalu
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-verigui-team-verigui/record.json
+- Record JSON: https://awesomecua.com/resources/github-verigui-team-verigui/record.json
 
 ## License declarations
 

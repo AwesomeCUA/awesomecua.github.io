@@ -2,7 +2,7 @@
 
 Evaluates GUI target localization in high-resolution professional software and studies cascaded visual search to narrow the target region.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-07981/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-07981/
 - Original source: https://arxiv.org/abs/2504.07981
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates GUI target localization in high-resolution professional software and s
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-07981/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-07981/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kaixin Li, Ziyang Meng, Hongzhan Lin, Ziyang Luo, Yuchen Tian, Jing Ma, Zhiyong 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-07981/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-07981/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-07981/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-07981/citation.csl.json
 
 ## Recorded arXiv snapshot
 

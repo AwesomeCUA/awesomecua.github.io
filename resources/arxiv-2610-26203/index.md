@@ -2,7 +2,7 @@
 
 FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26203/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-26203/
 - Original source: https://arxiv.org/abs/2610.26203
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ FocusGUI learns step-specific weights over screenshot, audio, video and interact
 
 Reviewed the complete retained abstract and selected v1 method/evaluation sections. OmniGUI uses episode-disjoint reference-action evaluation; Type Match, Exact Match and Goal Progress are not presented as independently demonstrated live task-success gains. The Android role is explicit in Appendix D.1. No reproduction or artifact-release verification.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26203/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-26203/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fuyao Zhang, Wenwen He, Jiaming Zhang, Yurong Hao, Xuan Wang, Guowei Guan, Che W
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26203/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26203/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-26203/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-26203/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-22769/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-22769/
 - Original source: https://arxiv.org/abs/2602.22769
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AMA-Bench: Evaluating Long-Horizon Memory for Agentic A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-22769/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-22769/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yujie Zhao, Boqin Yuan, Junbo Huang, Haocheng Yuan, Zhongming Yu, Haozhou Xu, La
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-22769/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-22769/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-22769/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-22769/citation.csl.json
 
 ## Recorded arXiv snapshot
 

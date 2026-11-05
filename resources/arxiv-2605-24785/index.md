@@ -2,7 +2,7 @@
 
 Analyzes inefficiency in VisualWebArena trajectories and distills reusable online skills to reduce repeated actions and token overhead in multimodal web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-24785/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-24785/
 - Original source: https://arxiv.org/abs/2605.24785
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Analyzes inefficiency in VisualWebArena trajectories and distills reusable onlin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-24785/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-24785/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yubo Li, Yidi Miao, Yuntian Shen, Yuxin Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-24785/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-24785/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-24785/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-24785/citation.csl.json
 
 ## Recorded arXiv snapshot
 

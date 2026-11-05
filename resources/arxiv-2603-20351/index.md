@@ -2,7 +2,7 @@
 
 MANA combines visual, temporal and exploration signals to guide navigation toward mobile advertisements. It evaluates ad detection and interaction cost on commercial smartphones, including obfuscated-ad cases.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-20351/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-20351/
 - Original source: https://arxiv.org/abs/2603.20351
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MANA combines visual, temporal and exploration signals to guide navigation towar
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-20351/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-20351/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yizhe Zhao, Yongjian Fu, Zihao Feng, Hao Pan, Yongheng Deng, Yaoxue Zhang, Ju Re
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-20351/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-20351/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-20351/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-20351/citation.csl.json
 
 ## Recorded arXiv snapshot
 

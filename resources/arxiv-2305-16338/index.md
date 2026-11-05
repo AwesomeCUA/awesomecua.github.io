@@ -2,7 +2,7 @@
 
 Bibliographic record for Think Before You Act: Decision Transformers with Working Memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2305-16338/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2305-16338/
 - Original source: https://arxiv.org/abs/2305.16338
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Think Before You Act: Decision Transformers with Workin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-16338/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2305-16338/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jikun Kang, Romain Laroche, Xingdi Yuan, Adam Trischler, Xue Liu, Jie Fu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-16338/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-16338/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2305-16338/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2305-16338/citation.csl.json
 
 ## Recorded arXiv snapshot
 

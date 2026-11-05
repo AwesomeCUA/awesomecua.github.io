@@ -2,7 +2,7 @@
 
 Bibliographic record for Large Language Model-based Human-Agent Collaboration for Complex Task Solving. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-12914/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-12914/
 - Original source: https://arxiv.org/abs/2402.12914
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Large Language Model-based Human-Agent Collaboration fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-12914/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-12914/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin, Xu Chen, Zhiyuan Liu, Ji-Ron
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-12914/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-12914/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-12914/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-12914/citation.csl.json
 
 ## Recorded arXiv snapshot
 

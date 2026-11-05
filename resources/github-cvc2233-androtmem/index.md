@@ -2,7 +2,7 @@
 
 A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-cvc2233-androtmem/
+- Catalog URL: https://awesomecua.com/resources/github-cvc2233-androtmem/
 - Original source: https://github.com/CVC2233/AndroTMem
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ A public Android GUI evaluation framework with action-history, summary and ancho
 
 The source tree releases inference backends and evaluation scripts under evaluation/. The separately hosted benchmark is gated=auto and its raw card returned 401; no access request was made and it is not approved here as a directly accessible dataset. The README explicitly credits missing screenshots as AUTO_PASS/correct, so incomplete local image inventories can inflate scores. Its TCR is an offline anchor/dependency score and is not presented here as independently verified live task success.
 
-- Record JSON: https://awesomecua.github.io/resources/github-cvc2233-androtmem/record.json
+- Record JSON: https://awesomecua.com/resources/github-cvc2233-androtmem/record.json
 
 ## License declarations
 

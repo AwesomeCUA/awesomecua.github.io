@@ -2,7 +2,7 @@
 
 Presents demonstration-based GUI process replay with Sequential Monte Carlo localization and readiness checks. GPA executes the learned workflow locally and can serve as the GUI execution component of an agent using MCP or CLI tools.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-01676/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-01676/
 - Original source: https://arxiv.org/abs/2604.01676
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents demonstration-based GUI process replay with Sequential Monte Carlo loca
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-01676/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-01676/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zirui Zhao, Jun Hao Liew, Yan Yang, Wenzhuo Yang, Ziyang Luo, Doyen Sahoo, Silvi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-01676/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-01676/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-01676/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-01676/citation.csl.json
 
 ## Recorded arXiv snapshot
 

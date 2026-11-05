@@ -2,7 +2,7 @@
 
 Bibliographic record for Spine-Branch Coordination for Multi-agent Computer Use. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-22077/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-22077/
 - Original source: https://arxiv.org/abs/2608.22077
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Spine-Branch Coordination for Multi-agent Computer Use.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-22077/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-22077/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mian Zhang, Manasi Sharma, Sheng Zhang, Minglai Yang, Kejian Shi, Ying Liu, Zhiy
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-22077/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-22077/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-22077/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-22077/citation.csl.json
 
 ## Recorded arXiv snapshot
 

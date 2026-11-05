@@ -2,7 +2,7 @@
 
 Uses typed browser interaction contracts to accept web-code improvements only when target progress and previously verified capabilities are preserved. Accepted transitions supply self-improvement data.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-30530/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-30530/
 - Original source: https://arxiv.org/abs/2608.30530
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses typed browser interaction contracts to accept web-code improvements only wh
 
 Adjacent browser-backed artifact validation, not a GUI navigation benchmark or original-source recovery. Distinct from WebWorld: A Large-Scale World Model for Web Agent Training. Results have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-30530/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-30530/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-30530/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-30530/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-30530/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-30530/citation.csl.json
 
 ## Recorded arXiv snapshot
 

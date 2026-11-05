@@ -2,7 +2,7 @@
 
 Bibliographic record for Understanding Tool-Mediated Interaction Failures in Agentic GUI Software: An Empirical Study. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-31698/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-31698/
 - Original source: https://arxiv.org/abs/2610.31698
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Understanding Tool-Mediated Interaction Failures in Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-31698/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-31698/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuchen Shao, Wenjing Liu, Yuheng Huang, Mengqian Xu, Ziqun Bao, Long Yang, Lei M
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-31698/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-31698/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-31698/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-31698/citation.csl.json
 
 ## Recorded arXiv snapshot
 

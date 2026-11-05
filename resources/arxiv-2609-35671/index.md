@@ -2,7 +2,7 @@
 
 Introduces PhoneCLI, which explores mobile app interfaces and compiles navigation paths into reusable commands without internal app APIs or instrumentation. At execution time it verifies compiled paths and falls back to a visual agent for open-ended interaction or failed navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-35671/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-35671/
 - Original source: https://arxiv.org/abs/2609.35671
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PhoneCLI, which explores mobile app interfaces and compiles navigatio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-35671/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-35671/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yangqin Jiang, Lingrui Xu, Chao Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-35671/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-35671/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-35671/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-35671/citation.csl.json
 
 ## Recorded arXiv snapshot
 

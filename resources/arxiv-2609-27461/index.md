@@ -2,7 +2,7 @@
 
 MVCAP-Bench tests live browser CAPTCHAs whose foreground meaning emerges through motion against dynamic backgrounds. A foreground-only control separates temporal camouflage difficulty from answer format and browser interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-27461/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-27461/
 - Original source: https://arxiv.org/abs/2609.27461
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MVCAP-Bench tests live browser CAPTCHAs whose foreground meaning emerges through
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27461/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-27461/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zeyu Zhang, Dingyi Rong, Zijian Chen, Zicheng Zhang, Xiongkuo Min, Guangtao Zhai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27461/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27461/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-27461/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-27461/citation.csl.json
 
 ## Recorded arXiv snapshot
 

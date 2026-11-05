@@ -2,7 +2,7 @@
 
 Framework for GUI agent training, evaluation, and deployment.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-zju-real-clawgui/
+- Catalog URL: https://awesomecua.com/resources/github-zju-real-clawgui/
 - Original source: https://github.com/ZJU-REAL/ClawGUI
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Framework for GUI agent training, evaluation, and deployment.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-zju-real-clawgui/record.json
+- Record JSON: https://awesomecua.com/resources/github-zju-real-clawgui/record.json
 
 ## License declarations
 

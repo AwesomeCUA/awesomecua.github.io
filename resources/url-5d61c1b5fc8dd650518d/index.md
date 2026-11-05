@@ -2,7 +2,7 @@
 
 A released LLaVA checkpoint for visual browser interaction from the PAE autonomous task-proposal and policy-learning system.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-5d61c1b5fc8dd650518d/
+- Catalog URL: https://awesomecua.com/resources/url-5d61c1b5fc8dd650518d/
 - Original source: https://huggingface.co/yifeizhou/pae-llava-7b
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A released LLaVA checkpoint for visual browser interaction from the PAE autonomo
 
 The model is publicly ungated and has seven safetensors shards plus tokenizer and configuration files. Its card declares CC-BY-NC-4.0 for this model. This weight declaration does not settle the separate PAE dataset or code licensing questions.
 
-- Record JSON: https://awesomecua.github.io/resources/url-5d61c1b5fc8dd650518d/record.json
+- Record JSON: https://awesomecua.com/resources/url-5d61c1b5fc8dd650518d/record.json
 
 ## License declarations
 

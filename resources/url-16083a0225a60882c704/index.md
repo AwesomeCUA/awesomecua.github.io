@@ -2,7 +2,7 @@
 
 A Qwen3.6-based computer-use checkpoint designed to request GUI actions, code execution and tool calls through an external agent harness.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-16083a0225a60882c704/
+- Catalog URL: https://awesomecua.com/resources/url-16083a0225a60882c704/
 - Original source: https://huggingface.co/Hcompany/Holo4-35B-A3B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A Qwen3.6-based computer-use checkpoint designed to request GUI actions, code ex
 
 The public manifest contains 26 safetensors shards for the BF16 checkpoint and the card declares Apache-2.0. Quantized FP8/NVFP4/GGUF variants are not split into duplicate entries here. The card also contains demos and scores for Holo4-27B; those are not assigned to this 35B-A3B checkpoint. No training corpus or runtime was downloaded.
 
-- Record JSON: https://awesomecua.github.io/resources/url-16083a0225a60882c704/record.json
+- Record JSON: https://awesomecua.com/resources/url-16083a0225a60882c704/record.json
 
 ## License declarations
 

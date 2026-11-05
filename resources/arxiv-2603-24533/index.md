@@ -2,7 +2,7 @@
 
 Introduces a two-stage mobile GUI learner that first co-evolves trajectories and policies through rejection fine-tuning. Group Relative Self-Distillation then uses successful rollout branches to provide step-level supervision for failed trajectories, evaluated on AndroidWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-24533/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-24533/
 - Original source: https://arxiv.org/abs/2603.24533
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a two-stage mobile GUI learner that first co-evolves trajectories and
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-24533/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-24533/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zichuan Lin, Feiyu Liu, Yijun Yang, Jiafei Lyu, Yiming Gao, Yicheng Liu, Zhicong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-24533/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-24533/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-24533/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-24533/citation.csl.json
 
 ## Recorded arXiv snapshot
 

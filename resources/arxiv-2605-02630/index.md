@@ -2,7 +2,7 @@
 
 Presents AutoFocus, a training-free grounding method that turns sampled coordinates and token uncertainty into spatial region proposals. Shape-aware crops and visual comparison select a target while retaining surrounding interface context.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-02630/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-02630/
 - Original source: https://arxiv.org/abs/2605.02630
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents AutoFocus, a training-free grounding method that turns sampled coordina
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-02630/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-02630/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruilin Yao, Shegnwu Xiong, Tianyu Zou, Shili Xiong, Yi Rong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-02630/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-02630/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-02630/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-02630/citation.csl.json
 
 ## Recorded arXiv snapshot
 

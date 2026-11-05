@@ -2,7 +2,7 @@
 
 Analyzes security boundaries in computer-use agents through a risk taxonomy and concrete adversarial case studies. It links observed failures to input provenance, interface-action binding, memory, and delegation, and proposes CUA-specific evaluation principles.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-05445/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-05445/
 - Original source: https://arxiv.org/abs/2507.05445
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Analyzes security boundaries in computer-use agents through a risk taxonomy and 
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. This is a threat analysis with case studies; the annotation does not imply a standardized public benchmark or independently validated defenses.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05445/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-05445/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Daniel Jones, Giorgio Severi, Martin Pouliot, Gary Lopez, Joris de Gruyter, Sant
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05445/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05445/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-05445/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-05445/citation.csl.json
 
 ## Recorded arXiv snapshot
 

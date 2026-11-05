@@ -2,7 +2,7 @@
 
 Describes a GUI-agent family combining broad intermediate training, full-trajectory online reinforcement learning, and merging of specialized models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-09082/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-09082/
 - Original source: https://arxiv.org/abs/2602.09082
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes a GUI-agent family combining broad intermediate training, full-traject
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09082/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-09082/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Venus Team, Changlong Gao, Zhangxuan Gu, Yulin Liu, Xinyu Qiu, Shuheng Shen, Yue
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09082/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09082/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-09082/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-09082/citation.csl.json
 
 ## Recorded arXiv snapshot
 

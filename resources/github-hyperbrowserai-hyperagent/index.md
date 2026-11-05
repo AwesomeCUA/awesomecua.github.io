@@ -2,7 +2,7 @@
 
 Library adding natural-language commands to Playwright: accessibility-tree single actions, multi-step tasks that can use screenshots, an MCP client and action caching for replay without LLM calls.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-hyperbrowserai-hyperagent/
+- Catalog URL: https://awesomecua.com/resources/github-hyperbrowserai-hyperagent/
 - Original source: https://github.com/hyperbrowserai/HyperAgent
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Library adding natural-language commands to Playwright: accessibility-tree singl
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-hyperbrowserai-hyperagent/record.json
+- Record JSON: https://awesomecua.com/resources/github-hyperbrowserai-hyperagent/record.json
 
 ## License declarations
 

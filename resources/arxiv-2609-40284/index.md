@@ -2,7 +2,7 @@
 
 Standardizes virtual machines, interaction pipelines, and agent interfaces to compare computer-use speed, cost, and task performance.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-40284/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-40284/
 - Original source: https://arxiv.org/abs/2609.40284
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Standardizes virtual machines, interaction pipelines, and agent interfaces to co
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-40284/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-40284/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pranjal Aggarwal, Lawrence Keunho Jang, Sean Welleck, Daniel Fried, Ruslan Salak
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-40284/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-40284/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-40284/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-40284/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-05804/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-05804/
 - Original source: https://arxiv.org/abs/2607.05804
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for TurnOPD: Making On-Policy Distillation Turn-Aware for E
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-05804/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-05804/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhang Zhou, Kai Zheng, Haoling Li, Dengyun Peng, Can Xu, Jingjing Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-05804/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-05804/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-05804/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-05804/citation.csl.json
 
 ## Recorded arXiv snapshot
 

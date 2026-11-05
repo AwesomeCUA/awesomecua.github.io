@@ -2,7 +2,7 @@
 
 Bibliographic record for Self-collaboration Code Generation via ChatGPT. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2304-07590/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2304-07590/
 - Original source: https://arxiv.org/abs/2304.07590
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Self-collaboration Code Generation via ChatGPT. Title, 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2304-07590/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2304-07590/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yihong Dong, Xue Jiang, Zhi Jin, Ge Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2304-07590/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2304-07590/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2304-07590/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2304-07590/citation.csl.json
 
 ## Recorded arXiv snapshot
 

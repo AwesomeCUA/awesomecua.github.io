@@ -2,7 +2,7 @@
 
 UI-AGILE training annotations and screenshots together with converted GUI-grounding and AndroidControl evaluation files.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-41abb1b7206689cf5057/
+- Catalog URL: https://awesomecua.com/resources/url-41abb1b7206689cf5057/
 - Original source: https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ UI-AGILE training annotations and screenshots together with converted GUI-ground
 
 Public JSON, image archives and Parquet evaluation files are present. The card has no data-license declaration; the model’s MIT declaration is not inherited. The publisher describes fixes to AndroidControl action parameters, but those corrections were not independently reproduced or applied to upstream resources.
 
-- Record JSON: https://awesomecua.github.io/resources/url-41abb1b7206689cf5057/record.json
+- Record JSON: https://awesomecua.com/resources/url-41abb1b7206689cf5057/record.json
 
 ## License declarations
 

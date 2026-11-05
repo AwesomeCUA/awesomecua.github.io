@@ -2,7 +2,7 @@
 
 Presents AutoGLM agents for browser and phone control, separating planning from grounding and training through an evolving interaction curriculum.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-00820/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-00820/
 - Original source: https://arxiv.org/abs/2411.00820
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents AutoGLM agents for browser and phone control, separating planning from 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-00820/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-00820/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiao Liu, Bo Qin, Dongzhu Liang, Guang Dong, Hanyu Lai, Hanchen Zhang, Hanlin Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-00820/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-00820/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-00820/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-00820/citation.csl.json
 
 ## Recorded arXiv snapshot
 

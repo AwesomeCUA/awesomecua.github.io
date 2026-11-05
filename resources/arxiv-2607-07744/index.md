@@ -2,7 +2,7 @@
 
 Bibliographic record for PERFOPT-Bench: Evaluating Coding Agents on Software Performance Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-07744/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-07744/
 - Original source: https://arxiv.org/abs/2607.07744
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PERFOPT-Bench: Evaluating Coding Agents on Software Per
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-07744/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-07744/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yingyun Cui, Yi Xie, Piaohong Wang, Jiawei Ma, Bo Liu, Liangliang Cao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-07744/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-07744/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-07744/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-07744/citation.csl.json
 
 ## Recorded arXiv snapshot
 

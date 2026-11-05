@@ -2,7 +2,7 @@
 
 Bibliographic record for Benchmarking System One decision models against trained classifiers and language models for automated decision gates. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-00346/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-00346/
 - Original source: https://arxiv.org/abs/2610.00346
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Benchmarking System One decision models against trained
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-00346/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-00346/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Amir Rafe, Subasish Das
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-00346/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-00346/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-00346/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-00346/citation.csl.json
 
 ## Recorded arXiv snapshot
 

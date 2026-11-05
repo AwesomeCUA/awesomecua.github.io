@@ -2,7 +2,7 @@
 
 Bibliographic record for Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-09574/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-09574/
 - Original source: https://arxiv.org/abs/2604.09574
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Turing Test on Screen: A Benchmark for Mobile GUI Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-09574/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-09574/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiachen Zhu, Lingyu Yang, Rong Shan, Congmin Zheng, Zeyu Zheng, Weiwen Liu, Yong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-09574/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-09574/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-09574/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-09574/citation.csl.json
 
 ## Recorded arXiv snapshot
 

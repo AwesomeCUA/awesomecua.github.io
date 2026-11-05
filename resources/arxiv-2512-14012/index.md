@@ -2,7 +2,7 @@
 
 Bibliographic record for Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-14012/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-14012/
 - Original source: https://arxiv.org/abs/2512.14012
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Professional Software Developers Don't Vibe, They Contr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-14012/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-14012/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruanqianqian Huang, Avery Reyna, Sorin Lerner, Haijun Xia, Brian Hempel
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-14012/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-14012/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-14012/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-14012/citation.csl.json
 
 ## Recorded arXiv snapshot
 

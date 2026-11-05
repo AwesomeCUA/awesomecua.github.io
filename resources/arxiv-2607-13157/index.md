@@ -2,7 +2,7 @@
 
 Bibliographic record for Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-13157/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-13157/
 - Original source: https://arxiv.org/abs/2607.13157
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Oracle Agent Memory as an Enterprise Memory Substrate f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-13157/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-13157/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Richmond Alake, Cesare Bernardis, Paul Cayet, Luca Engel, Damien Hilloulin, Sung
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-13157/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-13157/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-13157/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-13157/citation.csl.json
 
 ## Recorded arXiv snapshot
 

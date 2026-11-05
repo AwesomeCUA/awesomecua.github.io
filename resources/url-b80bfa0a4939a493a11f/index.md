@@ -2,7 +2,7 @@
 
 Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archives for mobile apps such as Baidu Map, QQ Music, Ctrip and Vipshop.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-b80bfa0a4939a493a11f/
+- Catalog URL: https://awesomecua.com/resources/url-b80bfa0a4939a493a11f/
 - Original source: https://huggingface.co/datasets/xwk123/Mobile3M
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archive
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-b80bfa0a4939a493a11f/record.json
+- Record JSON: https://awesomecua.com/resources/url-b80bfa0a4939a493a11f/record.json
 
 ## Structured profile
 

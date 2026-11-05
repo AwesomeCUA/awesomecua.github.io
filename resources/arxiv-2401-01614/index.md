@@ -2,7 +2,7 @@
 
 Introduces SeeAct and live-website evaluation, examining how visual planning and element grounding affect web-agent task completion.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-01614/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-01614/
 - Original source: https://arxiv.org/abs/2401.01614
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SeeAct and live-website evaluation, examining how visual planning and
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-01614/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-01614/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-01614/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-01614/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-01614/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-01614/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 - Authors: Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 - Publication date (recorded precision): 2024-07-08
 - Publication source: https://proceedings.mlr.press/v235/zheng24e.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2401-01614/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-01614/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2401-01614/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2401-01614/publication-citation.csl.json
 - venue: Proceedings of the 41st International Conference on Machine Learning
 - publisher: PMLR
 - series: Proceedings of Machine Learning Research

@@ -2,7 +2,7 @@
 
 This survey organizes agent skills by architecture, acquisition, deployment and security, including their role in computer-use systems and GUI grounding. It also proposes a permission and lifecycle governance framework for skill deployment.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-12430/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-12430/
 - Original source: https://arxiv.org/abs/2602.12430
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ This survey organizes agent skills by architecture, acquisition, deployment and 
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent survey of the skill layer: CUA deployment and GUI grounding are explicit parts of the review, but its overall scope extends well beyond interface agents.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-12430/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-12430/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Renjun Xu, Yang Yan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-12430/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-12430/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-12430/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-12430/citation.csl.json
 
 ## Recorded arXiv snapshot
 

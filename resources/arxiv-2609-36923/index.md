@@ -2,7 +2,7 @@
 
 Presents PrecogUI, which retrieves prior anomaly and success patterns and predicts symbolic UI transitions before choosing actions. It also introduces InterfereBench, generated for evaluating long GUI workflows with disruptive events and recovery requirements.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-36923/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-36923/
 - Original source: https://arxiv.org/abs/2609.36923
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents PrecogUI, which retrieves prior anomaly and success patterns and predic
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-36923/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-36923/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bin Kang, Jiarui Ouyang, Li Jiang, Bin Chen, Zhuotao Tian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-36923/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-36923/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-36923/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-36923/citation.csl.json
 
 ## Recorded arXiv snapshot
 

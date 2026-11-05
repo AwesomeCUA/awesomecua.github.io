@@ -2,7 +2,7 @@
 
 BreakingWeb pairs solvable browser tasks with controlled environment interventions that preserve the goal, target and backend success criterion. The paired evaluations isolate robustness failures, including agents declaring completion without the required state change.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-35814/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-35814/
 - Original source: https://arxiv.org/abs/2609.35814
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ BreakingWeb pairs solvable browser tasks with controlled environment interventio
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-35814/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-35814/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xunjian Yin, Tianchen Guan, Jinao Wang, Weili Cao, Daisy Xinlei Lin, Royce Cheng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-35814/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-35814/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-35814/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-35814/citation.csl.json
 
 ## Recorded arXiv snapshot
 

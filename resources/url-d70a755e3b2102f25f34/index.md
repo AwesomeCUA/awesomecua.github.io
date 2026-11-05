@@ -2,7 +2,7 @@
 
 A GUI-grounding checkpoint trained with adaptive exploration rewards and multiple candidate answers to improve instruction-to-element alignment.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-d70a755e3b2102f25f34/
+- Catalog URL: https://awesomecua.com/resources/url-d70a755e3b2102f25f34/
 - Original source: https://huggingface.co/InfiX-ai/InfiGUI-G1-7B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A GUI-grounding checkpoint trained with adaptive exploration rewards and multipl
 
 Four safetensors shards are public. The model card declares Apache-2.0 and identifies Qwen2.5-VL-7B-Instruct as its base. It is the G1 grounding checkpoint, distinct from the previously cataloged InfiGUI-R1 reasoning checkpoint; benchmark scores remain publisher claims.
 
-- Record JSON: https://awesomecua.github.io/resources/url-d70a755e3b2102f25f34/record.json
+- Record JSON: https://awesomecua.com/resources/url-d70a755e3b2102f25f34/record.json
 
 ## License declarations
 

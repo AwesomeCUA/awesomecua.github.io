@@ -2,7 +2,7 @@
 
 ZonUI-3B trains GUI grounding with a curated 24,000-example collection of mobile, desktop, and web screenshots. Its two-stage procedure first learns across platforms and then specializes on high-resolution images, with ablations on data diversity and redundant examples.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-23491/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-23491/
 - Original source: https://arxiv.org/abs/2506.23491
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ZonUI-3B trains GUI grounding with a curated 24,000-example collection of mobile
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-23491/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-23491/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ ZongHan Hsieh, Tzer-Jen Wei, ShengJing Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-23491/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-23491/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-23491/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-23491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces Faithful-Agent, which first teaches abstention under perturbed evidence and then refines GUI policies with an anchor-based, variance-adaptive advantage estimator. A thought-action consistency reward encourages decisions grounded in displayed evidence and instructions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-01208/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-01208/
 - Original source: https://arxiv.org/abs/2605.01208
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Faithful-Agent, which first teaches abstention under perturbed eviden
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-01208/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-01208/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haowen Hu, Pengzhou Cheng, Zheng Wu, Lingzhong Dong, Gongshen Liu, Zhuosheng Zha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-01208/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-01208/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-01208/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-01208/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 MirrorGuard trains a reasoning-correction defense using GUI risk trajectories generated in a text-based neural-symbolic simulator. It evaluates whether corrections transfer to computer-use agents operating real interfaces, keeping simulated training separate from deployment tests.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-12822/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-12822/
 - Original source: https://arxiv.org/abs/2601.12822
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MirrorGuard trains a reasoning-correction defense using GUI risk trajectories ge
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-12822/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-12822/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenqi Zhang, Yulin Shen, Changyue Jiang, Jiarun Dai, Geng Hong, Xudong Pan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-12822/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-12822/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-12822/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-12822/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces AdaptRubric, which retrieves reusable criteria for a GUI task family and then generates instruction-specific checks for concrete values and constraints. It evaluates these adaptive rubrics in offline reward assessment and online agent optimization.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-24174/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-24174/
 - Original source: https://arxiv.org/abs/2608.24174
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AdaptRubric, which retrieves reusable criteria for a GUI task family 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24174/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-24174/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tao Xiong, Xavier Hu, Wenkai Wang, Qinzhuo Wu, Changqiao Wu, Pengzhi Gao, Wei Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24174/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24174/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-24174/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-24174/citation.csl.json
 
 ## Recorded arXiv snapshot
 

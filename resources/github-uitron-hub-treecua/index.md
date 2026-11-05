@@ -2,7 +2,7 @@
 
 Framework for generating GUI trajectories through tree-structured exploration and verification.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-uitron-hub-treecua/
+- Catalog URL: https://awesomecua.com/resources/github-uitron-hub-treecua/
 - Original source: https://github.com/UITron-hub/TreeCUA
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Framework for generating GUI trajectories through tree-structured exploration an
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-uitron-hub-treecua/record.json
+- Record JSON: https://awesomecua.com/resources/github-uitron-hub-treecua/record.json
 
 ## License declarations
 

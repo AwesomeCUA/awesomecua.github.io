@@ -2,7 +2,7 @@
 
 Evaluation resources for adversarial attacks on multimodal web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-chenwu98-agent-attack/
+- Catalog URL: https://awesomecua.com/resources/github-chenwu98-agent-attack/
 - Original source: https://github.com/ChenWu98/agent-attack
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Evaluation resources for adversarial attacks on multimodal web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-chenwu98-agent-attack/record.json
+- Record JSON: https://awesomecua.com/resources/github-chenwu98-agent-attack/record.json
 
 ## License declarations
 

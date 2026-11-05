@@ -2,7 +2,7 @@
 
 Combines instruction rewriting with conditional second-stage zooming for small GUI targets. A grounding dataset and GRPO training support joint prediction of click coordinates and element bounding boxes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-17441/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-17441/
 - Original source: https://arxiv.org/abs/2603.17441
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines instruction rewriting with conditional second-stage zooming for small G
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-17441/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-17441/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Siqi Pei, Liang Tang, Tiaonan Duan, Long Chen, Shuxian Li, Kaer Huang, Yanzhe Ji
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-17441/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-17441/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-17441/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-17441/citation.csl.json
 
 ## Recorded arXiv snapshot
 

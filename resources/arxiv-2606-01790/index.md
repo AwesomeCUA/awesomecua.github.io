@@ -2,7 +2,7 @@
 
 STaR-KV compresses GUI-agent KV caches by calibrating visual-token importance across attention subspaces and interaction time. Its training-free scoring combines spatial specialization, temporal redundancy and an adaptive temperature, evaluated at matched cache budgets.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-01790/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-01790/
 - Original source: https://arxiv.org/abs/2606.01790
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ STaR-KV compresses GUI-agent KV caches by calibrating visual-token importance ac
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-01790/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-01790/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhang Han, Wenzheng Yang, Yujie Chen, Xiangqi Jin, Yaojie Zhang, Siteng Huang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-01790/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-01790/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-01790/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-01790/citation.csl.json
 
 ## Recorded arXiv snapshot
 

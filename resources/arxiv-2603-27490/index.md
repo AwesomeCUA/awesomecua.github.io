@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-27490/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-27490/
 - Original source: https://arxiv.org/abs/2603.27490
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentSwing: Adaptive Parallel Context Management Routin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-27490/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-27490/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhaopeng Feng, Liangcai Su, Zhen Zhang, Xinyu Wang, Xiaotian Zhang, Xiaobin Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-27490/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-27490/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-27490/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-27490/citation.csl.json
 
 ## Recorded arXiv snapshot
 

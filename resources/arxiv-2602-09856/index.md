@@ -2,7 +2,7 @@
 
 Code2World predicts future GUI screens through renderable code, trained on AndroidCode trajectories with supervised learning and render-aware reinforcement learning. It evaluates visual prediction and downstream AndroidWorld navigation with the learned world model.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-09856/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-09856/
 - Original source: https://arxiv.org/abs/2602.09856
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Code2World predicts future GUI screens through renderable code, trained on Andro
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09856/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-09856/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhao Zheng, Li'an Zhong, Yi Wang, Rui Dai, Kaikui Liu, Xiangxiang Chu, Linyuan 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09856/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09856/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-09856/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-09856/citation.csl.json
 
 ## Recorded arXiv snapshot
 

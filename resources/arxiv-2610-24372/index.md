@@ -2,7 +2,7 @@
 
 Separates next-screen prediction from action evaluation in GUI lookahead and trains Direct Action Ranking on reference actions, comparing prediction-augmented scoring under matched offline supervision.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-24372/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-24372/
 - Original source: https://arxiv.org/abs/2610.24372
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Separates next-screen prediction from action evaluation in GUI lookahead and tra
 
 The matched augmentation experiment measures offline ranking; AndroidWorld task-success comparisons use differently trained evaluators and do not isolate prediction value. A separate web evaluator is trained on Mind2Web, and web results do not uniformly favor direct scoring. The main study concerns one-step selection. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-24372/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-24372/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sizhe Tang, Hanhan Zhou, Jeffrey Svajlenko, Rashmi Gangadharaiah
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-24372/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-24372/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-24372/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-24372/citation.csl.json
 
 ## Recorded arXiv snapshot
 

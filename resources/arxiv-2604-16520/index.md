@@ -2,7 +2,7 @@
 
 AgentClick gives terminal-based agents a browser review interface for plans, drafts, execution traces and editable memory. A local server and skill plugin let users inspect proposed actions and provide structured feedback.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-16520/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-16520/
 - Original source: https://arxiv.org/abs/2604.16520
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AgentClick gives terminal-based agents a browser review interface for plans, dra
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent supervision interface: the browser UI is for human review of terminal agents; the abstract does not claim that those agents operate graphical interfaces.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-16520/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-16520/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haomin Zhuang, Hanwen Xing, Xiangliang Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-16520/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-16520/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-16520/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-16520/citation.csl.json
 
 ## Recorded arXiv snapshot
 

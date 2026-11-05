@@ -2,7 +2,7 @@
 
 Generates synthetic computer-use tasks and records trajectories in OSWorld desktop environments and InSTA browser environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-sunblaze-ucb-agentsynth/
+- Catalog URL: https://awesomecua.com/resources/github-sunblaze-ucb-agentsynth/
 - Original source: https://github.com/sunblaze-ucb/AgentSynth
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Generates synthetic computer-use tasks and records trajectories in OSWorld deskt
 
 Released code includes task-generation and training-format conversion scripts. OSWorld/InSTA environments and model services require separate setup; the repository is not a bundled VM or model checkpoint. Code and the separately published dataset have distinct license declarations.
 
-- Record JSON: https://awesomecua.github.io/resources/github-sunblaze-ucb-agentsynth/record.json
+- Record JSON: https://awesomecua.com/resources/github-sunblaze-ucb-agentsynth/record.json
 
 ## License declarations
 

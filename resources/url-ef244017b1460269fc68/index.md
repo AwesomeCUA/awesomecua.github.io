@@ -2,7 +2,7 @@
 
 Hosted browser-agent platform from Browser Use.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-ef244017b1460269fc68/
+- Catalog URL: https://awesomecua.com/resources/url-ef244017b1460269fc68/
 - Original source: https://browser-use.com/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Hosted browser-agent platform from Browser Use.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-ef244017b1460269fc68/record.json
+- Record JSON: https://awesomecua.com/resources/url-ef244017b1460269fc68/record.json
 
 ## License declarations
 

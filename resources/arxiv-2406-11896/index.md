@@ -2,7 +2,7 @@
 
 Combines offline initialization and online reinforcement learning in Android environments, with automated evaluation and curriculum-based sampling.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-11896/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-11896/
 - Original source: https://arxiv.org/abs/2406.11896
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines offline initialization and online reinforcement learning in Android env
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-11896/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-11896/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Ku
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-11896/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-11896/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-11896/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-11896/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Ku
 - Authors: Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Kumar
 - Publication date (recorded precision): 2024-12-16
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2406-11896/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-11896/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2406-11896/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2406-11896/publication-citation.csl.json
 - venue: Advances in Neural Information Processing Systems
 - volume: 37
 - pages: 12461-12495

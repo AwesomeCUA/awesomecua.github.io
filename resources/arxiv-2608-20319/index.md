@@ -2,7 +2,7 @@
 
 Task Model Induction disentangles concurrent activities in screenshot and mouse/keyboard traces, then constructs hierarchical goals and procedural control flow for each task. Evaluation tests reconstruction of observed execution and reuse of derived skills on held-out tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-20319/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-20319/
 - Original source: https://arxiv.org/abs/2608.20319
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Task Model Induction disentangles concurrent activities in screenshot and mouse/
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-20319/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-20319/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen, Diyi Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-20319/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-20319/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-20319/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-20319/citation.csl.json
 
 ## Recorded arXiv snapshot
 

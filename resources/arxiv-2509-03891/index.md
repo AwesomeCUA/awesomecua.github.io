@@ -2,7 +2,7 @@
 
 MobileRAG combines retrieval and memory components to support mobile tasks that need external knowledge or long action sequences. MobileRAG-Eval is introduced to study these requirements on complex real-world app tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-03891/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-03891/
 - Original source: https://arxiv.org/abs/2509.03891
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileRAG combines retrieval and memory components to support mobile tasks that 
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-03891/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-03891/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gowen Loo, Chang Liu, Qinghong Yin, Xiang Chen, Jiawei Chen, Jingyuan Zhang, Yu 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-03891/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-03891/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-03891/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-03891/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Search-o1: Agentic Search-Enhanced Large Reasoning Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-05366/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2501-05366/
 - Original source: https://arxiv.org/abs/2501.05366
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Search-o1: Agentic Search-Enhanced Large Reasoning Mode
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-05366/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2501-05366/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-05366/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-05366/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2501-05366/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2501-05366/citation.csl.json
 
 ## Recorded arXiv snapshot
 

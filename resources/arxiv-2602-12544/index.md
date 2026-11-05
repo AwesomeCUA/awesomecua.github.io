@@ -2,7 +2,7 @@
 
 This work uses constraint-based progress evaluation to retain partially successful web trajectories for training. It introduces BookingArena for structured booking tasks and studies a distilled agent trained with the resulting data.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-12544/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-12544/
 - Original source: https://arxiv.org/abs/2602.12544
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This work uses constraint-based progress evaluation to retain partially successf
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-12544/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-12544/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lajanugen Logeswaran, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-12544/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-12544/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-12544/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-12544/citation.csl.json
 
 ## Recorded arXiv snapshot
 

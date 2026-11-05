@@ -2,7 +2,7 @@
 
 MobileJudgeBench compares completion judges against human labels on mobile-agent trajectories. It studies screenshot-sampling baselines, model-dependent error profiles and how judge quality relates to agent rankings and reinforcement-learning rewards.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-11434/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-11434/
 - Original source: https://arxiv.org/abs/2608.11434
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileJudgeBench compares completion judges against human labels on mobile-agent
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-11434/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-11434/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziqiang Wang, Li Gu, Zhixiang Chi, Zhi Liu, Seyed Mehdi Ayyoubzadeh, Yuanhao Yu,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-11434/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-11434/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-11434/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-11434/citation.csl.json
 
 ## Recorded arXiv snapshot
 

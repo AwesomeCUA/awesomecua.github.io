@@ -2,7 +2,7 @@
 
 WebVLN trains website navigation from question-based instructions using both rendered visual information and underlying HTML. It introduces WebVLN-v1 and a website-aware navigation network to study this digital variant of vision-and-language navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2312-15820/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2312-15820/
 - Original source: https://arxiv.org/abs/2312.15820
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebVLN trains website navigation from question-based instructions using both ren
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-15820/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2312-15820/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qi Chen, Dileepa Pitawela, Chongyang Zhao, Gengze Zhou, Hsiang-Ting Chen, Qi Wu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-15820/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-15820/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2312-15820/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2312-15820/citation.csl.json
 
 ## Recorded arXiv snapshot
 

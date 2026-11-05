@@ -2,7 +2,7 @@
 
 Defines goal identification from observed UI trajectories and an evaluation method for comparing intent descriptions within the same interface context. Experiments reuse Android and web automation data to compare human and model inference of users’ detailed goals.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-14314/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-14314/
 - Original source: https://arxiv.org/abs/2406.14314
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Defines goal identification from observed UI trajectories and an evaluation meth
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-14314/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-14314/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Omri Berkovitch, Sapir Caduri, Noam Kahlon, Anatoly Efros, Avi Caciularu, Ido Da
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-14314/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-14314/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-14314/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-14314/citation.csl.json
 
 ## Recorded arXiv snapshot
 

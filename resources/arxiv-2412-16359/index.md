@@ -2,7 +2,7 @@
 
 Bibliographic record for Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-16359/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-16359/
 - Original source: https://arxiv.org/abs/2412.16359
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Human-Readable Adversarial Prompts: An Investigation in
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-16359/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-16359/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nilanjana Das, Edward Raff, Aman Chadha, Manas Gaur
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-16359/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-16359/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-16359/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-16359/citation.csl.json
 
 ## Recorded arXiv snapshot
 

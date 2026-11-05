@@ -2,7 +2,7 @@
 
 Browser-agent course with worked lessons on structured web extraction and multi-step browser interaction, followed by AgentQ search and self-correction concepts.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-aa693ca3e8948623f31e/
+- Catalog URL: https://awesomecua.com/resources/url-aa693ca3e8948623f31e/
 - Original source: https://www.deeplearning.ai/courses/building-ai-browser-agents
 - Kind: learning
 - Review: curated
@@ -16,7 +16,7 @@ Browser-agent course with worked lessons on structured web extraction and multi-
 
 Review covers the public syllabus and complete published transcripts of the simple-agent and autonomous-agent lessons, not the whole course or its video frames. The first uses Playwright and structured HTML extraction; the second uses a MultiOn session API and shows missed steps, continuations and clarifications. Hosted notebooks and helper files were not retrieved, and current service access was not tested. No account, enrollment, terms acceptance, installation or execution occurred. Course and example-code reuse terms remain unknown.
 
-- Record JSON: https://awesomecua.github.io/resources/url-aa693ca3e8948623f31e/record.json
+- Record JSON: https://awesomecua.com/resources/url-aa693ca3e8948623f31e/record.json
 
 ## License declarations
 

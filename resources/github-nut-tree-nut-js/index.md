@@ -2,7 +2,7 @@
 
 Desktop automation library for keyboard, mouse, and screen interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-nut-tree-nut-js/
+- Catalog URL: https://awesomecua.com/resources/github-nut-tree-nut-js/
 - Original source: https://github.com/nut-tree/nut.js
 - Kind: infrastructure
 - Review: curated
@@ -16,7 +16,7 @@ Desktop automation library for keyboard, mouse, and screen interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-nut-tree-nut-js/record.json
+- Record JSON: https://awesomecua.com/resources/github-nut-tree-nut-js/record.json
 
 ## License declarations
 

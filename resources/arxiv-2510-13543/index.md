@@ -2,7 +2,7 @@
 
 Proposes an in-browser fuzzing framework that uses language-model guidance to test indirect prompt-injection vulnerabilities in agentic browsers. The work focuses on unwanted actions triggered by webpage instructions under the browser agent's user privileges.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-13543/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-13543/
 - Original source: https://arxiv.org/abs/2510.13543
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes an in-browser fuzzing framework that uses language-model guidance to te
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The short abstract supplies the framework and threat setting but no quantitative evaluation details.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-13543/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-13543/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Avihay Cohen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-13543/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-13543/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-13543/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-13543/citation.csl.json
 
 ## Recorded arXiv snapshot
 

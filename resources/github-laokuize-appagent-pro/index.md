@@ -2,7 +2,7 @@
 
 Proactive Android agent built on AppAgent that uses GPT-4o to decide whether YouTube or Amazon content would help, operates those apps over ADB, and merges what it finds into its answer.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-laokuize-appagent-pro/
+- Catalog URL: https://awesomecua.com/resources/github-laokuize-appagent-pro/
 - Original source: https://github.com/LaoKuiZe/AppAgent-Pro
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Proactive Android agent built on AppAgent that uses GPT-4o to decide whether You
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-laokuize-appagent-pro/record.json
+- Record JSON: https://awesomecua.com/resources/github-laokuize-appagent-pro/record.json
 
 ## License declarations
 

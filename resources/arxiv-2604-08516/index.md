@@ -2,7 +2,7 @@
 
 Presents MolmoWebMix, combining synthetic browser trajectories, human demonstrations and GUI perception data, and MolmoWeb screenshot-to-action policies trained from it. Browser benchmarks also test parallel rollouts with best-of-N selection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-08516/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-08516/
 - Original source: https://arxiv.org/abs/2604.08516
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents MolmoWebMix, combining synthetic browser trajectories, human demonstrat
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract states that artifacts will be released; this annotation does not independently verify release status or licenses.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-08516/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-08516/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tanmay Gupta, Piper Wolters, Zixian Ma, Peter Sushko, Rock Yuren Pang, Diego Lla
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-08516/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-08516/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-08516/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-08516/citation.csl.json
 
 ## Recorded arXiv snapshot
 

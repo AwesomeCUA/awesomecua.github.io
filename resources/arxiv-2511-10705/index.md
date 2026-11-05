@@ -2,7 +2,7 @@
 
 Co-EPG alternates reinforcement learning for a planner with updates to a grounding model using generated training examples. The evolving grounder provides feedback to the planner, and evaluation uses Multimodal Mind2Web and AndroidControl.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-10705/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-10705/
 - Original source: https://arxiv.org/abs/2511.10705
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Co-EPG alternates reinforcement learning for a planner with updates to a groundi
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-10705/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-10705/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuan Zhao, Hualei Zhu, Tingyu Jiang, Shen Li, Xiaohang Xu, Hao Henry Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-10705/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-10705/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-10705/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-10705/citation.csl.json
 
 ## Recorded arXiv snapshot
 

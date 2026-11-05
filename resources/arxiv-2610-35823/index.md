@@ -2,7 +2,7 @@
 
 Bibliographic record for Back to Basics: A Skill-Centric Approach to Generalist Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-35823/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-35823/
 - Original source: https://arxiv.org/abs/2610.35823
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Back to Basics: A Skill-Centric Approach to Generalist 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-35823/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-35823/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Minh Pham-Dinh, Md Farhan Ishmam, Hernan Yupanqui, Reaz Hassan Joarder, Kenneth 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-35823/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-35823/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-35823/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-35823/citation.csl.json
 
 ## Recorded arXiv snapshot
 

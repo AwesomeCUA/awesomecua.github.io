@@ -2,7 +2,7 @@
 
 Bibliographic record for BenchAgents: Multi-Agent Systems for Structured Benchmark Creation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-22584/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-22584/
 - Original source: https://arxiv.org/abs/2410.22584
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for BenchAgents: Multi-Agent Systems for Structured Benchma
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-22584/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-22584/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Natasha Butt, Varun Chandrasekaran, Neel Joshi, Besmira Nushi, Vidhisha Balachan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-22584/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-22584/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-22584/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-22584/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces Adaptive Anticipatory Policy Trees, which precompute guarded actions and deadlines during idle periods so transient GUI events can be handled without new text generation. Paired experiments examine when this prepared execution helps and when reactive control remains preferable.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-28399/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28399/
 - Original source: https://arxiv.org/abs/2607.28399
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Adaptive Anticipatory Policy Trees, which precompute guarded actions 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28399/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28399/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zihan Dong, Rui Qian, Qishi Zhan, Dongshen Peng, Kaixin Li, Yu Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28399/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28399/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28399/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28399/citation.csl.json
 
 ## Recorded arXiv snapshot
 

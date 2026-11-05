@@ -2,7 +2,7 @@
 
 Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-243ab00712ba19cc2089/
+- Catalog URL: https://awesomecua.com/resources/url-243ab00712ba19cc2089/
 - Original source: https://huggingface.co/datasets/yuqi777/WorkDemo-350
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Desktop demonstrations with task descriptions, videos, input logs, and action-li
 
 The card documents post hoc selection of the 286-task OSWorld subset based on model outcomes, uncalibrated coordinate annotations, and missing task-success acceptance records. It provides no train/test split or complete evaluator and does not claim complete anonymization. Review these limits before training or evaluation; the collection is an offline demonstration asset.
 
-- Record JSON: https://awesomecua.github.io/resources/url-243ab00712ba19cc2089/record.json
+- Record JSON: https://awesomecua.com/resources/url-243ab00712ba19cc2089/record.json
 
 ## Structured profile
 

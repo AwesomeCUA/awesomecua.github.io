@@ -2,7 +2,7 @@
 
 Bibliographic record for Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-07283/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-07283/
 - Original source: https://arxiv.org/abs/2410.07283
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Prompt Infection: LLM-to-LLM Prompt Injection within Mu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-07283/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-07283/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Donghyun Lee, Mo Tiwari
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-07283/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-07283/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-07283/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-07283/citation.csl.json
 
 ## Recorded arXiv snapshot
 

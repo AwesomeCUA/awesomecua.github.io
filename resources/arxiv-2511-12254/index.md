@@ -2,7 +2,7 @@
 
 Uses separate retrieval systems for high-level mobile-task planning and precise interface operations, with a benchmark for extended cross-app tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-12254/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-12254/
 - Original source: https://arxiv.org/abs/2511.12254
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses separate retrieval systems for high-level mobile-task planning and precise 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-12254/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-12254/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxiang Zhou, Jichang Li, Yanhao Zhang, Haonan Lu, Guanbin Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-12254/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-12254/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-12254/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-12254/citation.csl.json
 
 ## Recorded arXiv snapshot
 

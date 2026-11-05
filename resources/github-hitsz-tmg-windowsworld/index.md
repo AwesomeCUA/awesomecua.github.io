@@ -2,7 +2,7 @@
 
 Cross-application Windows benchmark with intermediate task evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-hitsz-tmg-windowsworld/
+- Catalog URL: https://awesomecua.com/resources/github-hitsz-tmg-windowsworld/
 - Original source: https://github.com/HITsz-TMG/WindowsWorld
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Cross-application Windows benchmark with intermediate task evaluation.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-hitsz-tmg-windowsworld/record.json
+- Record JSON: https://awesomecua.com/resources/github-hitsz-tmg-windowsworld/record.json
 
 ## Structured profile
 

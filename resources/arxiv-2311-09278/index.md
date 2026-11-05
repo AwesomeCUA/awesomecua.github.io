@@ -2,7 +2,7 @@
 
 Bibliographic record for Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2311-09278/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2311-09278/
 - Original source: https://arxiv.org/abs/2311.09278
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Symbol-LLM: Towards Foundational Symbol-centric Interfa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-09278/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2311-09278/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-09278/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-09278/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2311-09278/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2311-09278/citation.csl.json
 
 ## Recorded arXiv snapshot
 

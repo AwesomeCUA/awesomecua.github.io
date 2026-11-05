@@ -2,7 +2,7 @@
 
 DragOn supplies drag-grounding training data and a held-out benchmark for highlighting text, selecting cells, resizing elements and moving sliders. It evaluates existing vision-language models and a model fine-tuned on the drag tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-06322/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-06322/
 - Original source: https://arxiv.org/abs/2606.06322
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DragOn supplies drag-grounding training data and a held-out benchmark for highli
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-06322/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-06322/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nathan Bout, Maxime Langevin, Ronan Riochet
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-06322/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-06322/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-06322/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-06322/citation.csl.json
 
 ## Recorded arXiv snapshot
 

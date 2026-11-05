@@ -2,7 +2,7 @@
 
 Benchmarks computer agents on scientific-software workflows with task-specific checks of application states and generated research artifacts.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-39903/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-39903/
 - Original source: https://arxiv.org/abs/2609.39903
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Benchmarks computer agents on scientific-software workflows with task-specific c
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-39903/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-39903/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dingyuan Dai, Heli Qi, Lei Liu, Yinxi Li, Baiding Chen, Zijun Dou, Qingcheng Zen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-39903/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-39903/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-39903/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-39903/citation.csl.json
 
 ## Recorded arXiv snapshot
 

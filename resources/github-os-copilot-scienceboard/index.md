@@ -2,7 +2,7 @@
 
 Scientific-workflow tasks for multimodal agents in desktop software such as ChimeraX, KAlgebra, Celestia, Grass GIS and Lean 4, with apps modified to expose state for evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-scienceboard/
+- Catalog URL: https://awesomecua.com/resources/github-os-copilot-scienceboard/
 - Original source: https://github.com/OS-Copilot/ScienceBoard
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Scientific-workflow tasks for multimodal agents in desktop software such as Chim
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-scienceboard/record.json
+- Record JSON: https://awesomecua.com/resources/github-os-copilot-scienceboard/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 A web-agent framework that explores sites, synthesizes reusable interaction APIs and builds a skill library for later tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-skillweaver/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-skillweaver/
 - Original source: https://github.com/OSU-NLP-Group/SkillWeaver
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ A web-agent framework that explores sites, synthesizes reusable interaction APIs
 
 Exploration, task execution, browser integration and evaluation code are published under MIT. Synthesized skill files are included, but no trained model weights are implied. The source depends on external web environments and model services; no runtime or browser tasks were executed.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-skillweaver/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-skillweaver/record.json
 
 ## License declarations
 

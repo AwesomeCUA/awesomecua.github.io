@@ -2,7 +2,7 @@
 
 Bibliographic record for If You Can't Use Them, Recycle Them: Optimizing Merging at Scale Mitigates Performance Tradeoffs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-04144/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-04144/
 - Original source: https://arxiv.org/abs/2412.04144
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for If You Can't Use Them, Recycle Them: Optimizing Merging
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-04144/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-04144/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Muhammad Khalifa, Yi-Chern Tan, Arash Ahmadian, Tom Hosking, Honglak Lee, Lu Wan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-04144/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-04144/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-04144/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-04144/citation.csl.json
 
 ## Recorded arXiv snapshot
 

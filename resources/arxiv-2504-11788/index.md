@@ -2,7 +2,7 @@
 
 WebRollback gives a web agent an explicit action for returning to an earlier state in its navigation trajectory. It studies this recovery mechanism on two live web-navigation benchmarks under both zero-shot and fine-tuned settings.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-11788/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-11788/
 - Original source: https://arxiv.org/abs/2504.11788
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebRollback gives a web agent an explicit action for returning to an earlier sta
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11788/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-11788/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhisong Zhang, Tianqing Fang, Kaixin Ma, Wenhao Yu, Hongming Zhang, Haitao Mi, D
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11788/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11788/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-11788/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-11788/citation.csl.json
 
 ## Recorded arXiv snapshot
 

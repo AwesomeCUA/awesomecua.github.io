@@ -2,7 +2,7 @@
 
 Introduces SAPA-Bench with 7,138 smartphone scenarios to evaluate whether MLLM-powered mobile agents detect and protect sensitive personal information on screen.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-19493/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-19493/
 - Original source: https://arxiv.org/abs/2508.19493
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SAPA-Bench with 7,138 smartphone scenarios to evaluate whether MLLM-p
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-19493/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-19493/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhixin Lin, Jungang Li, Shidong Pan, Yibo Shi, Yue Yao, Dongliang Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-19493/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-19493/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-19493/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-19493/citation.csl.json
 
 ## Recorded arXiv snapshot
 

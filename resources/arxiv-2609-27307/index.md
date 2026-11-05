@@ -2,7 +2,7 @@
 
 GUI-SD-v2 extends on-policy self-distillation from grounding to multi-turn GUI interaction. It first strengthens responses to privileged guidance, then selectively distills step-specific reasoning and memory support for later actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-27307/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-27307/
 - Original source: https://arxiv.org/abs/2609.27307
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-SD-v2 extends on-policy self-distillation from grounding to multi-turn GUI i
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27307/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-27307/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yan Zhang, Daiqing Wu, Huawen Shen, Liang Li, Gang Cao, Zhi Gong, Wei Dai, Xiaod
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27307/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27307/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-27307/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-27307/citation.csl.json
 
 ## Recorded arXiv snapshot
 

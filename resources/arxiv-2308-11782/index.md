@@ -2,7 +2,7 @@
 
 Bibliographic record for Resource Allocation in Cloud Computing Using Genetic Algorithm and Neural Network. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2308-11782/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2308-11782/
 - Original source: https://arxiv.org/abs/2308.11782
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Resource Allocation in Cloud Computing Using Genetic Al
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-11782/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2308-11782/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mahdi Manavi, Yunpeng Zhang, Guoning Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-11782/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-11782/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2308-11782/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2308-11782/citation.csl.json
 
 ## Recorded arXiv snapshot
 

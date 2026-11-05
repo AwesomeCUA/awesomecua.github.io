@@ -2,7 +2,7 @@
 
 Bibliographic record for Near-Term Distributed Quantum Computation using Mean-Field Corrections and Auxiliary Qubits. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2309-05693/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2309-05693/
 - Original source: https://arxiv.org/abs/2309.05693
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Near-Term Distributed Quantum Computation using Mean-Fi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-05693/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2309-05693/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Abigail McClain Gomez, Taylor L. Patti, Anima Anandkumar, Susanne F. Yelin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-05693/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-05693/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2309-05693/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2309-05693/citation.csl.json
 
 ## Recorded arXiv snapshot
 

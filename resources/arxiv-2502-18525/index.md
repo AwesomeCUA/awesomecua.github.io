@@ -2,7 +2,7 @@
 
 Introduces a visual IDE environment and benchmark for software-engineering tasks, comparing screenshot-based control with access to editing and shell tools.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-18525/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-18525/
 - Original source: https://arxiv.org/abs/2502.18525
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a visual IDE environment and benchmark for software-engineering tasks
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-18525/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-18525/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pranjal Aggarwal, Sean Welleck
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-18525/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-18525/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-18525/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-18525/citation.csl.json
 
 ## Recorded arXiv snapshot
 

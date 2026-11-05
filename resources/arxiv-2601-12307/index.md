@@ -2,7 +2,7 @@
 
 Bibliographic record for Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-12307/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-12307/
 - Original source: https://arxiv.org/abs/2601.12307
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Rethinking the Value of Multi-Agent Workflow: A Strong 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-12307/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-12307/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiawei Xu, Arief Koesdwiady, Sisong Bei, Yan Han, Baixiang Huang, Dakuo Wang, Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-12307/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-12307/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-12307/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-12307/citation.csl.json
 
 ## Recorded arXiv snapshot
 

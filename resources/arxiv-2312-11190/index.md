@@ -2,7 +2,7 @@
 
 VisionTasker converts screenshots into textual UI interpretations and presents one interface at a time to an LLM planner for action selection. It evaluates visual representations and execution of 147 tasks on an Android smartphone, including integration with programming by demonstration.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2312-11190/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2312-11190/
 - Original source: https://arxiv.org/abs/2312.11190
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VisionTasker converts screenshots into textual UI interpretations and presents o
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-11190/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2312-11190/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yunpeng Song, Yiheng Bian, Yongtao Tang, Guiyu Ma, Zhongmin Cai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-11190/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-11190/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2312-11190/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2312-11190/citation.csl.json
 
 ## Recorded arXiv snapshot
 

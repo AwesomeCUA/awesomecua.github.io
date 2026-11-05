@@ -2,7 +2,7 @@
 
 Combines hierarchical planning, retrieved experience, and a computer interaction interface to execute multistep GUI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-08164/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-08164/
 - Original source: https://arxiv.org/abs/2410.08164
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines hierarchical planning, retrieved experience, and a computer interaction
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-08164/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-08164/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-08164/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-08164/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-08164/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-08164/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang
 - Authors: Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Wang
 - Publication date (recorded precision): 2025-05-01
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2025/hash/394c7c30ea87b5c3521b4d9e9d419071-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-08164/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-08164/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-08164/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-08164/publication-citation.csl.json
 - venue: International Conference on Learning Representations
 - volume: 2025
 - pages: 22924-22946

@@ -2,7 +2,7 @@
 
 ColorBrowserAgent converts human feedback into reusable website knowledge and uses that knowledge to guide progressive context summaries. It evaluates the resulting memory and adaptation mechanisms on long browser workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-07262/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-07262/
 - Original source: https://arxiv.org/abs/2601.07262
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ColorBrowserAgent converts human feedback into reusable website knowledge and us
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-07262/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-07262/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jihong Wang, Jiamu Zhou, Weiming Zhang, Teng Wang, Weiwen Liu, Zhuosheng Zhang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-07262/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-07262/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-07262/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-07262/citation.csl.json
 
 ## Recorded arXiv snapshot
 

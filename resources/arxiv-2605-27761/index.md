@@ -2,7 +2,7 @@
 
 AndroidDaily evaluates mobile GUI agents on daily workflows in closed-source Android apps. Its GRADE evaluator follows visual trajectories against operational obligations, output-quality requirements and negative constraints, producing process-level diagnostics without hidden app state.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-27761/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-27761/
 - Original source: https://arxiv.org/abs/2605.27761
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AndroidDaily evaluates mobile GUI agents on daily workflows in closed-source And
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-27761/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-27761/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yifan Sui, Xin Huang, Hongbing Li, Fang Xu, Jiahe Lv, Haolong Yan, Yeqing Shen, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-27761/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-27761/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-27761/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-27761/citation.csl.json
 
 ## Recorded arXiv snapshot
 

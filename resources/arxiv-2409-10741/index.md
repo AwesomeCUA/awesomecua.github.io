@@ -2,7 +2,7 @@
 
 Frames web-application exploration as functionality-oriented question answering, generating navigation actions from multimodal context.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-10741/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-10741/
 - Original source: https://arxiv.org/abs/2409.10741
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Frames web-application exploration as functionality-oriented question answering,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-10741/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-10741/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mobina Shahbandeh, Parsa Alian, Noor Nashid, Ali Mesbah
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-10741/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-10741/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-10741/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-10741/citation.csl.json
 
 ## Recorded arXiv snapshot
 

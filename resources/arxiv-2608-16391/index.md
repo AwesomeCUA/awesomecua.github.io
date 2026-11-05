@@ -2,7 +2,7 @@
 
 Bibliographic record for Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-16391/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-16391/
 - Original source: https://arxiv.org/abs/2608.16391
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Ventor-QTest: Threat-Model-Driven Verification of Vendo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-16391/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-16391/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiangfan Wu, Zonghao Ying, Huiyu Wu, Xing Zheng, Huangsheng Cheng, Xiaorong Shi,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-16391/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-16391/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-16391/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-16391/citation.csl.json
 
 ## Recorded arXiv snapshot
 

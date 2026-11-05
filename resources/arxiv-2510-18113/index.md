@@ -2,7 +2,7 @@
 
 Presents LiteAgent for recording web-agent interactions and TrickyArena for enabling or disabling dark patterns in controlled websites. Experiments compare how individual patterns, combined patterns and visual or HTML changes affect agent decisions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-18113/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-18113/
 - Original source: https://arxiv.org/abs/2510.18113
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents LiteAgent for recording web-agent interactions and TrickyArena for enab
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-18113/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-18113/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Devin Ersoy, Brandon Lee, Ananth Shreekumar, Arjun Arunasalam, Muhammad Ibrahim,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-18113/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-18113/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-18113/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-18113/citation.csl.json
 
 ## Recorded arXiv snapshot
 

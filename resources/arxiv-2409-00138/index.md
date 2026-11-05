@@ -2,7 +2,7 @@
 
 Bibliographic record for PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-00138/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-00138/
 - Original source: https://arxiv.org/abs/2409.00138
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for PrivacyLens: Evaluating Privacy Norm Awareness of Langu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-00138/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-00138/record.json
 
 ## Recorded reviewer hold
 
 Reviewer hold: the retained abstract and full\-text Sections 3\.2–3\.3 describe ToolEmu/GPT\-4\-emulated tool trajectories and final\-action privacy evaluation\. They do not establish direct GUI or browser interaction for this method\. Preserve the bibliographic record as metadata\-only pending an explicit adjacent\-scope justification\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Yijia Shao, Tianshi Li, Weiyan Shi, Yanchen Liu, Diyi Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-00138/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-00138/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-00138/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-00138/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces VeriEnv, which recreates websites as executable training environments and exposes internal state through a Python SDK for task generation and deterministic reward checks. Experiments examine web-agent learning across new and expanded site environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-10505/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-10505/
 - Original source: https://arxiv.org/abs/2603.10505
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces VeriEnv, which recreates websites as executable training environments
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract promises a release upon acceptance; this annotation does not verify artifact availability.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-10505/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-10505/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hyungjoo Chae, Jungsoo Park, Alan Ritter
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-10505/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-10505/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-10505/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-10505/citation.csl.json
 
 ## Recorded arXiv snapshot
 

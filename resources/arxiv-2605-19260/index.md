@@ -2,7 +2,7 @@
 
 Bibliographic record for AQuaUI: Visual Token Reduction for GUI Agents with Adaptive Quadtrees. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-19260/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-19260/
 - Original source: https://arxiv.org/abs/2605.19260
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AQuaUI: Visual Token Reduction for GUI Agents with Adap
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-19260/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-19260/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuankai Li, Tinghui Zhu, Ha Min Son, Zhe Zhao, Xin Liu, Muhao Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-19260/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-19260/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-19260/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-19260/citation.csl.json
 
 ## Recorded arXiv snapshot
 

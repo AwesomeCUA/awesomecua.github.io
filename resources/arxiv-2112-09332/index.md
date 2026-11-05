@@ -2,7 +2,7 @@
 
 Bibliographic record for WebGPT: Browser-assisted question-answering with human feedback. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2112-09332/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2112-09332/
 - Original source: https://arxiv.org/abs/2112.09332
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for WebGPT: Browser-assisted question-answering with human 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2112-09332/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2112-09332/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina K
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2112-09332/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2112-09332/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2112-09332/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2112-09332/citation.csl.json
 
 ## Recorded arXiv snapshot
 

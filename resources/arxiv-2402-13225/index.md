@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-13225/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-13225/
 - Original source: https://arxiv.org/abs/2402.13225
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentMD: Empowering Language Agents for Risk Prediction
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-13225/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-13225/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qiao Jin, Zhizheng Wang, Yifan Yang, Qingqing Zhu, Donald Wright, Thomas Huang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-13225/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-13225/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-13225/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-13225/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Describes a mobile GUI agent trained through real-device interaction, corrected failure trajectories, supervised learning, and reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-31410/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-31410/
 - Original source: https://arxiv.org/abs/2606.31410
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes a mobile GUI agent trained through real-device interaction, corrected 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-31410/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-31410/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wanxia Cao, Chengzhen Duan, Pei Fu, Pengzhi Gao, Niu Lian, Fazhan Liu, Hui Liu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-31410/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-31410/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-31410/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-31410/citation.csl.json
 
 ## Recorded arXiv snapshot
 

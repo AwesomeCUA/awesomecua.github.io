@@ -2,7 +2,7 @@
 
 MaskClaw makes local Allow, Mask or Ask decisions before GUI screenshots leave a trusted environment, using visual evidence and personalized policy memory. Its benchmark and designed evolution scenarios test how corrections and edits can become privacy skills checked by a sandbox gate.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-28646/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-28646/
 - Original source: https://arxiv.org/abs/2605.28646
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MaskClaw makes local Allow, Mask or Ask decisions before GUI screenshots leave a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-28646/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-28646/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yanqiu Zhao, Dongying Zheng, Kaibo Huang, Yukun Wei, Zhongliang Yang, Linna Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-28646/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-28646/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-28646/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-28646/citation.csl.json
 
 ## Recorded arXiv snapshot
 

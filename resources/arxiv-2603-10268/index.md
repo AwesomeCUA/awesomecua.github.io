@@ -2,7 +2,7 @@
 
 SpecOps divides testing of GUI-based agents into test generation, environment setup, execution and validation handled by specialist agents. Its evaluation spans five real-world agents, including web applications and browser extensions, and measures execution reliability and bug discovery.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-10268/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-10268/
 - Original source: https://arxiv.org/abs/2603.10268
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SpecOps divides testing of GUI-based agents into test generation, environment se
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-10268/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-10268/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Syed Yusuf Ahmed, Shiwei Feng, Chanwoo Bae, Calix Barrus Xiangyu Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-10268/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-10268/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-10268/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-10268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

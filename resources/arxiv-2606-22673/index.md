@@ -2,7 +2,7 @@
 
 Bibliographic record for Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-22673/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-22673/
 - Original source: https://arxiv.org/abs/2606.22673
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Agent MechSuits: Mechanistic Subspace Safety Steering f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-22673/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-22673/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weidi Luo, Qiming Zhang, Yihao Quan, Mingyu Jin, Jie Cai, Chaowei Xiao, Jingchen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-22673/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-22673/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-22673/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-22673/citation.csl.json
 
 ## Recorded arXiv snapshot
 

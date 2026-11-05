@@ -2,7 +2,7 @@
 
 Flattened web-interaction training records with accessibility-tree observations, assistant completions, trajectory rewards and step-link metadata.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-a13a187bc058fbb4f6af/
+- Catalog URL: https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/
 - Original source: https://huggingface.co/datasets/apurvaga/go-browse-wa
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Flattened web-interaction training records with accessibility-tree observations,
 
 The public release contains nine Parquet shards. The short card supplies schema and split metadata but no license declaration; the official README describes successful and unsuccessful trajectories processed for fine-tuning. The raw screenshot/HTML corpus is a separate release and is not claimed to be included here.
 
-- Record JSON: https://awesomecua.github.io/resources/url-a13a187bc058fbb4f6af/record.json
+- Record JSON: https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/record.json
 
 ## Structured profile
 

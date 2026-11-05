@@ -2,7 +2,7 @@
 
 This study examines repeated OSWorld executions to separate execution stochasticity, task-specification ambiguity and behavioral variation. Paired task-level tests show why one successful run is insufficient evidence of reliable computer use.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-17849/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-17849/
 - Original source: https://arxiv.org/abs/2604.17849
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study examines repeated OSWorld executions to separate execution stochastic
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-17849/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-17849/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gonzalo Gonzalez-Pumariega, Saaket Agashe, Jiachen Yang, Ang Li, Xin Eric Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-17849/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-17849/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-17849/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-17849/citation.csl.json
 
 ## Recorded arXiv snapshot
 

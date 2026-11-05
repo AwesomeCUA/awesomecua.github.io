@@ -2,7 +2,7 @@
 
 PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone does not ensure planning generalization across websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-27330/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-27330/
 - Original source: https://arxiv.org/abs/2606.27330
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PEEU explores web environments and turns hindsight experience into aligned high-
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-27330/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-27330/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-27330/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-27330/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-27330/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-27330/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Learning Efficient Guardrails for Compliance. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-03485/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-03485/
 - Original source: https://arxiv.org/abs/2510.03485
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Learning Efficient Guardrails for Compliance. Title, au
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-03485/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-03485/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaofei Wen, Wenjie Jacky Mo, Yanan Xie, Peng Qi, Muhao Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-03485/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-03485/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-03485/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-03485/citation.csl.json
 
 ## Recorded arXiv snapshot
 

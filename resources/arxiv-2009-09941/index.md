@@ -2,7 +2,7 @@
 
 Bibliographic record for PP-OCR: A Practical Ultra Lightweight OCR System. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2009-09941/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2009-09941/
 - Original source: https://arxiv.org/abs/2009.09941
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PP-OCR: A Practical Ultra Lightweight OCR System. Title
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2009-09941/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2009-09941/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuning Du, Chenxia Li, Ruoyu Guo, Xiaoting Yin, Weiwei Liu, Jun Zhou, Yifan Bai,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2009-09941/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2009-09941/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2009-09941/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2009-09941/citation.csl.json
 
 ## Recorded arXiv snapshot
 

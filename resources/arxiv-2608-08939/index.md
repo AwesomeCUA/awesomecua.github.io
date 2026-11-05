@@ -2,7 +2,7 @@
 
 Demonstrates that unsanitized Android accessibility tree metadata exposes mobile GUI agents to stealthy indirect prompt injection attacks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-08939/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-08939/
 - Original source: https://arxiv.org/abs/2608.08939
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Demonstrates that unsanitized Android accessibility tree metadata exposes mobile
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-08939/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-08939/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rahul Deivasigamani, Sayeda Faatin Alvi, Derqui Andrea, Kaushal Punjabi, Stjepan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-08939/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-08939/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-08939/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-08939/citation.csl.json
 
 ## Recorded arXiv snapshot
 

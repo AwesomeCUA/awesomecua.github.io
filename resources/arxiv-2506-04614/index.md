@@ -2,7 +2,7 @@
 
 Uses a pre-execution critic and reinforcement training to evaluate proposed GUI actions and provide corrective suggestions before execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-04614/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-04614/
 - Original source: https://arxiv.org/abs/2506.04614
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses a pre-execution critic and reinforcement training to evaluate proposed GUI 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-04614/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-04614/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuyang Wanyan, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Jiabo Ye, Yutong 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-04614/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-04614/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-04614/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-04614/citation.csl.json
 
 ## Recorded arXiv snapshot
 

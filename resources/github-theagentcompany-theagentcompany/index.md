@@ -2,7 +2,7 @@
 
 Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-theagentcompany-theagentcompany/
+- Catalog URL: https://awesomecua.com/resources/github-theagentcompany-theagentcompany/
 - Original source: https://github.com/TheAgentCompany/TheAgentCompany
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Self-contained workplace environment for evaluating agents on professional tasks
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-theagentcompany-theagentcompany/record.json
+- Record JSON: https://awesomecua.com/resources/github-theagentcompany-theagentcompany/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Desktop GUI data for interface understanding and interaction research.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-2c2004baae4669f8169a/
+- Catalog URL: https://awesomecua.com/resources/url-2c2004baae4669f8169a/
 - Original source: https://huggingface.co/datasets/ServiceNow/ui-vision
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Desktop GUI data for interface understanding and interaction research.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-2c2004baae4669f8169a/record.json
+- Record JSON: https://awesomecua.com/resources/url-2c2004baae4669f8169a/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Instruction-to-function-call examples for learning Android intent invocation, with training, testing and API-annotation files for mobile task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-ae8f5208eea9e7f1f606/
+- Catalog URL: https://awesomecua.com/resources/url-ae8f5208eea9e7f1f606/
 - Original source: https://huggingface.co/datasets/mllmTeam/DroidCall
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Instruction-to-function-call examples for learning Android intent invocation, wi
 
 The release provides JSONL data and API annotations. This is Android intent-calling supervision rather than screenshot-and-click trajectories, so it is marked adjacent. The dataset card declares Apache-2.0; the companion repository’s MIT code license is a separate declaration.
 
-- Record JSON: https://awesomecua.github.io/resources/url-ae8f5208eea9e7f1f606/record.json
+- Record JSON: https://awesomecua.com/resources/url-ae8f5208eea9e7f1f606/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Avenir-UX combines grounded web interaction with simulated user profiles and structured usability measures to produce evaluations of website journeys. The paper describes its architecture and use of SUS, step-wise ease questions and think-aloud traces for automated UX reporting.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-09581/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-09581/
 - Original source: https://arxiv.org/abs/2604.09581
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Avenir-UX combines grounded web interaction with simulated user profiles and str
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-09581/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-09581/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wee Joe Tan, Zi Rui Lucas Lim, Shashank Durgad, Karim Obegi, Aiden Yiliu Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-09581/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-09581/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-09581/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-09581/citation.csl.json
 
 ## Recorded arXiv snapshot
 

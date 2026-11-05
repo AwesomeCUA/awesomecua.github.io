@@ -2,7 +2,7 @@
 
 XBOUND evaluates GUI agents at the level of a screen state, considering multiple instructions and possible target actions within it. The study separates action matching from instruction unification and compares effects of grounding and trajectory data.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-21279/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-21279/
 - Original source: https://arxiv.org/abs/2505.21279
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ XBOUND evaluates GUI agents at the level of a screen state, considering multiple
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-21279/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-21279/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shaoqing Zhang, Kehai Chen, Zhuosheng Zhang, Rumei Li, Rongxiang Weng, Yang Xian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-21279/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-21279/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-21279/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-21279/citation.csl.json
 
 ## Recorded arXiv snapshot
 

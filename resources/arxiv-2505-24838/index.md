@@ -2,7 +2,7 @@
 
 Introduces synthetic CAD interaction videos, a model for learning interface actions from video, and evaluation tasks for spatial and long-horizon reasoning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-24838/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-24838/
 - Original source: https://arxiv.org/abs/2505.24838
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces synthetic CAD interaction videos, a model for learning interface acti
 
 The contribution was reviewed from the retained abstract. Sections 1 and 3 of the exact-version v2 paper identify Onshape as the browser-based interaction environment; the use of pixel-level input does not make the operated surface a desktop application. No experimental results were independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-24838/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-24838/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Brandon Man, Ghadi Nehme, Md Ferdous Alam, Faez Ahmed
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-24838/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-24838/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-24838/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-24838/citation.csl.json
 
 ## Recorded arXiv snapshot
 

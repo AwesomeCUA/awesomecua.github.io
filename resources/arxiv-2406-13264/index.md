@@ -2,7 +2,7 @@
 
 Introduces WONDERBREAD, a benchmark pairing human WebArena workflow demonstrations with screen recordings, action logs, and written procedures. Six evaluation tasks cover documentation, knowledge transfer, and process improvement beyond end-to-end execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-13264/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-13264/
 - Original source: https://arxiv.org/abs/2406.13264
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WONDERBREAD, a benchmark pairing human WebArena workflow demonstratio
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. The demonstrations were rehearsed, so their completion rate is not a zero-shot human performance estimate.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-13264/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-13264/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Michael Wornow, Avanika Narayan, Ben Viggiano, Ishan S. Khare, Tathagat Verma, T
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-13264/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-13264/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-13264/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-13264/citation.csl.json
 
 ## Recorded arXiv snapshot
 

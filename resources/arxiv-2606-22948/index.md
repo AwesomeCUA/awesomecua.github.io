@@ -2,7 +2,7 @@
 
 ENVS branches over GUI actions in live desktop VMs, verifies successful leaves, and converts them into balanced step-level training supervision. It also introduces OSWorld-Noisy to test recovery from dynamic interruptions while retaining the underlying tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-22948/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-22948/
 - Original source: https://arxiv.org/abs/2606.22948
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ENVS branches over GUI actions in live desktop VMs, verifies successful leaves, 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-22948/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-22948/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yincheng Zhou, Athena Zhuoming Zhong, Shijie Zhang, Kevin Zhang, Teresa Xiaotao 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-22948/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-22948/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-22948/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-22948/citation.csl.json
 
 ## Recorded arXiv snapshot
 

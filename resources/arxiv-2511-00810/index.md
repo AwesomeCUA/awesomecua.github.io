@@ -2,7 +2,7 @@
 
 Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-00810/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-00810/
 - Original source: https://arxiv.org/abs/2511.00810
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUI-AIMA, which supervises instruction-relevant attention over visual
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-00810/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-00810/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shijie Zhou, Viet Dac Lai, Hao Tan, Jihyung Kil, Wanrong Zhu, Changyou Chen, Rui
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-00810/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-00810/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-00810/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-00810/citation.csl.json
 
 ## Recorded arXiv snapshot
 

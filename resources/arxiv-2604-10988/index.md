@@ -2,7 +2,7 @@
 
 Presents WebForge, a pipeline that plans, generates, refines and validates self-contained interactive websites. WebForge-Bench uses these environments to evaluate browser agents across domains and controlled difficulty levels.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-10988/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-10988/
 - Original source: https://arxiv.org/abs/2604.10988
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents WebForge, a pipeline that plans, generates, refines and validates self-
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-10988/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-10988/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Peng Yuan, Yuyang Yin, Yuxuan Cai, Zheng Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-10988/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-10988/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-10988/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-10988/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces AgentSentinel, which intercepts sensitive computer-agent operations and audits them using task context together with system traces. BadComputerUse evaluates this enforcement approach across attack scenarios involving tool and computer control.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-07764/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-07764/
 - Original source: https://arxiv.org/abs/2509.07764
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AgentSentinel, which intercepts sensitive computer-agent operations a
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The official full paper confirms GUI/desktop interaction alongside Bash and file tools. Its abstract and body enumerate attack categories differently; no category count is promoted into this annotation.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-07764/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-07764/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haitao Hu, Peng Chen, Yanpeng Zhao, Yuqi Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-07764/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-07764/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-07764/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-07764/citation.csl.json
 
 ## Recorded arXiv snapshot
 

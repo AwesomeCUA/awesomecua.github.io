@@ -2,7 +2,7 @@
 
 OpenAI browser product integrating ChatGPT and agent capabilities.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-240a05c02f85d4da60dc/
+- Catalog URL: https://awesomecua.com/resources/url-240a05c02f85d4da60dc/
 - Original source: https://openai.com/index/introducing-chatgpt-atlas/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ OpenAI browser product integrating ChatGPT and agent capabilities.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-240a05c02f85d4da60dc/record.json
+- Record JSON: https://awesomecua.com/resources/url-240a05c02f85d4da60dc/record.json
 
 ## License declarations
 

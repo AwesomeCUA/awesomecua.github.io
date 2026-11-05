@@ -2,7 +2,7 @@
 
 H computer-use model family and its release-specific access options.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-c0bd07d82ce25ad1d99d/
+- Catalog URL: https://awesomecua.com/resources/url-c0bd07d82ce25ad1d99d/
 - Original source: https://hcompany.ai/research/models
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ H computer-use model family and its release-specific access options.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-c0bd07d82ce25ad1d99d/record.json
+- Record JSON: https://awesomecua.com/resources/url-c0bd07d82ce25ad1d99d/record.json
 
 ## License declarations
 

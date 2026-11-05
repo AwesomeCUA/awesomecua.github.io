@@ -2,7 +2,7 @@
 
 Introduces PerPilot and the PerInstruct dataset for completing user-specific mobile instructions through memory retrieval, app exploration, and clarification when missing context remains unresolved.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-18040/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-18040/
 - Original source: https://arxiv.org/abs/2508.18040
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PerPilot and the PerInstruct dataset for completing user-specific mob
 
 Personalization depends on the validity of stored or inferred user information and retrieval access. This is instruction completion with interaction, not demonstrated permanent model-weight personalization. No specific operating system or reproduced result is asserted. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (The Framework of PerPilot; Personalization Perception; Personalization Completion; PerInstruct Data Construction); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-18040/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-18040/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xin Wang, Zhiyao Cui, Hao Li, Ya Zeng, Chenxu Wang, Ruiqi Song, Yihang Chen, Kun
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-18040/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-18040/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-18040/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-18040/citation.csl.json
 
 ## Recorded arXiv snapshot
 

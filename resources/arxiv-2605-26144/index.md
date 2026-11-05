@@ -2,7 +2,7 @@
 
 VISTA evaluates coding agents that turn design handoffs into working web and Android applications. Its evaluator locates annotated interactive components and probes their behavior, keeping visual localization distinct from functional correctness.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-26144/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-26144/
 - Original source: https://arxiv.org/abs/2605.26144
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VISTA evaluates coding agents that turn design handoffs into working web and And
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent GUI-application generation benchmark with real component interaction probes; its main evaluated agents are application coders, not general GUI task executors.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-26144/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-26144/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ JunJia Guo, Yuhang Yao, Chang Li, Zimeng Pan, Jiawei, Zhou, Jingdi Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-26144/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-26144/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-26144/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-26144/citation.csl.json
 
 ## Recorded arXiv snapshot
 

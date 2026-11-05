@@ -2,7 +2,7 @@
 
 Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-wuzheng02-gui-cider/
+- Catalog URL: https://awesomecua.com/resources/github-wuzheng02-gui-cider/
 - Original source: https://github.com/Wuzheng02/GUI-CIDER
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Released data-synthesis and evaluation scripts that distill planning and causal 
 
 The source tree contains static/causal knowledge synthesis and action/knowledge evaluation scripts. Training procedures are delegated to LLaMA-Factory; no trained checkpoint is verified here. The README displays an MIT badge, but the inspected tree has no license file and no explicit component scope, so the code license remains unrecorded rather than assuming a blanket grant. Evaluation requires separately acquired original datasets and model paths.
 
-- Record JSON: https://awesomecua.github.io/resources/github-wuzheng02-gui-cider/record.json
+- Record JSON: https://awesomecua.com/resources/github-wuzheng02-gui-cider/record.json
 
 ## License declarations
 

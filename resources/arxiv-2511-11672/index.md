@@ -2,7 +2,7 @@
 
 OSGym supplies full operating-system sandboxes with GUIs for parallel computer-use data collection and training. It combines per-replica state management, hardware-aware orchestration, copy-on-write virtual-machine disks, and layered failure recovery.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-11672/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-11672/
 - Original source: https://arxiv.org/abs/2511.11672
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OSGym supplies full operating-system sandboxes with GUIs for parallel computer-u
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-11672/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-11672/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zengyi Qin, Jinyuan Chen, Yunze Man, Shengcao Cao, Ziqi Pang, Zhuoyuan Wang, Han
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-11672/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-11672/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-11672/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-11672/citation.csl.json
 
 ## Recorded arXiv snapshot
 

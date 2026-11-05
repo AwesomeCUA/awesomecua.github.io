@@ -2,7 +2,7 @@
 
 Distills generalizable reasoning strategies from both successful and failed agent trajectories into a persistent memory bank for test-time retrieval.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-25140/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-25140/
 - Original source: https://arxiv.org/abs/2509.25140
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Distills generalizable reasoning strategies from both successful and failed agen
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-25140/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-25140/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Siru Ouyang, Jun Yan, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-25140/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-25140/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-25140/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-25140/citation.csl.json
 
 ## Recorded arXiv snapshot
 

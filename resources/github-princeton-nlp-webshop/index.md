@@ -2,7 +2,7 @@
 
 Simulated shopping environment for instruction-following web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-princeton-nlp-webshop/
+- Catalog URL: https://awesomecua.com/resources/github-princeton-nlp-webshop/
 - Original source: https://github.com/princeton-nlp/WebShop
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Simulated shopping environment for instruction-following web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-princeton-nlp-webshop/record.json
+- Record JSON: https://awesomecua.com/resources/github-princeton-nlp-webshop/record.json
 
 ## Structured profile
 

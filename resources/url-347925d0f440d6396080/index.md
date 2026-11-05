@@ -2,7 +2,7 @@
 
 Introduces Ringer, which converts demonstrated webpage interactions into scripts combining actions, target selectors, and waiting conditions. It evaluates replay robustness on tasks recorded from real websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-347925d0f440d6396080/
+- Catalog URL: https://awesomecua.com/resources/url-347925d0f440d6396080/
 - Original source: https://doi.org/10.1145/2983990.2984020
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Ringer, which converts demonstrated webpage interactions into scripts
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved.
 
-- Record JSON: https://awesomecua.github.io/resources/url-347925d0f440d6396080/record.json
+- Record JSON: https://awesomecua.com/resources/url-347925d0f440d6396080/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-347925d0f440d6396080/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-347925d0f440d6396080/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-347925d0f440d6396080/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-347925d0f440d6396080/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
 - Authors: Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
 - Publication date (recorded precision): 2016-11
 - Publication source: https://doi.org/10.1145/2983990.2984020
-- Publication BibTeX: https://awesomecua.github.io/resources/url-347925d0f440d6396080/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-347925d0f440d6396080/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-347925d0f440d6396080/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-347925d0f440d6396080/publication-citation.csl.json
 - venue: OOPSLA 2016
 - doi: 10.1145/2983990.2984020
 - date basis: Supplied month precision: 2016-11. year=2016, month=November

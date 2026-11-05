@@ -2,7 +2,7 @@
 
 Bibliographic record for CADReasoner: Iterative Program Editing for CAD Reverse Engineering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-29847/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-29847/
 - Original source: https://arxiv.org/abs/2603.29847
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CADReasoner: Iterative Program Editing for CAD Reverse 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-29847/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-29847/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Soslan Kabisov, Vsevolod Kirichuk, Andrey Volkov, Gennadii Savrasov, Marina Bara
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-29847/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-29847/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-29847/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-29847/citation.csl.json
 
 ## Recorded arXiv snapshot
 

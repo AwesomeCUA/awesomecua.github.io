@@ -2,7 +2,7 @@
 
 Trains native computer-use models to coordinate GUI actions and code execution using hybrid demonstrations and online reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22234/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-22234/
 - Original source: https://arxiv.org/abs/2610.22234
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains native computer-use models to coordinate GUI actions and code execution u
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22234/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-22234/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bowen Yang, Kaiming Jin, Zichen Ding, Zhenyu Wu, Zehao Li, Zhoumianze Liu, Kanzh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22234/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22234/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-22234/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-22234/citation.csl.json
 
 ## Recorded arXiv snapshot
 

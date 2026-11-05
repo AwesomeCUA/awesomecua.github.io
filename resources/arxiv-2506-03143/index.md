@@ -2,7 +2,7 @@
 
 Uses an attention-based action head and a verifier to select relevant screen regions without generating coordinates as text.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-03143/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-03143/
 - Original source: https://arxiv.org/abs/2506.03143
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses an attention-based action head and a verifier to select relevant screen reg
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-03143/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-03143/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qianhui Wu, Kanzhi Cheng, Rui Yang, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-03143/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-03143/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-03143/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-03143/citation.csl.json
 
 ## Recorded arXiv snapshot
 

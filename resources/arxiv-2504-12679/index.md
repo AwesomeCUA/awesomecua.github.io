@@ -2,7 +2,7 @@
 
 TongUI converts multimodal online tutorials, including videos and articles, into GUI-agent trajectories. Its GUI-Net dataset contains 143,000 trajectories spanning five operating systems and more than 200 applications, and supports fine-tuning for grounding and navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-12679/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-12679/
 - Original source: https://arxiv.org/abs/2504.12679
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ TongUI converts multimodal online tutorials, including videos and articles, into
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-12679/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-12679/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bofei Zhang, Zirui Shang, Zhi Gao, Wang Zhang, Rui Xie, Xiaojian Ma, Tao Yuan, X
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-12679/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-12679/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-12679/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-12679/citation.csl.json
 
 ## Recorded arXiv snapshot
 

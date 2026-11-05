@@ -2,7 +2,7 @@
 
 Claw-Anything benchmarks persistent personal assistance across activity histories, backend services and integrated GUI/CLI interaction. Its simulated event histories introduce irrelevant or conflicting context, and a separate generation pipeline supplies training environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-26086/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-26086/
 - Original source: https://arxiv.org/abs/2605.26086
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Claw-Anything benchmarks persistent personal assistance across activity historie
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-26086/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-26086/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yusong Lin, Xinyuan Liang, Haiyang Wang, Qipeng Gu, Siqi Cheng, Jiangui Chen, Sh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-26086/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-26086/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-26086/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-26086/citation.csl.json
 
 ## Recorded arXiv snapshot
 

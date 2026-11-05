@@ -2,7 +2,7 @@
 
 EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-2a2682f86dcb8ebc9a80/
+- Catalog URL: https://awesomecua.com/resources/url-2a2682f86dcb8ebc9a80/
 - Original source: https://huggingface.co/meituan/EvoCUA-8B-20260105
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 par
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-2a2682f86dcb8ebc9a80/record.json
+- Record JSON: https://awesomecua.com/resources/url-2a2682f86dcb8ebc9a80/record.json
 
 ## License declarations
 

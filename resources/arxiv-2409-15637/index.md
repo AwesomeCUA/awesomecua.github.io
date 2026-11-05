@@ -2,7 +2,7 @@
 
 Synatra converts indirect procedural knowledge, including human-oriented tutorials, into direct demonstrations for digital agents. It trains a 7B CodeLlama on 100,000 synthesized demonstrations and evaluates the resulting policy on Mind2Web, MiniWoB++, and WebArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-15637/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-15637/
 - Original source: https://arxiv.org/abs/2409.15637
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Synatra converts indirect procedural knowledge, including human-oriented tutoria
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-15637/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-15637/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Su
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-15637/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-15637/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-15637/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-15637/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Su
 - Authors: Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Sudipta Sengupta, Dan Roth, Graham Neubig, Shuyan Zhou
 - Publication date (recorded precision): 2024-12-16
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2024/hash/a6a6891cf1dfc64d664f086cf5976e93-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2409-15637/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-15637/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2409-15637/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2409-15637/publication-citation.csl.json
 - venue: Advances in Neural Information Processing Systems
 - volume: 37
 - pages: 91618-91652

@@ -2,7 +2,7 @@
 
 Proposes a step-level model cascade that runs a smaller computer-use policy until learned monitors flag stalled progress or semantic drift. Separate history-based stuck detection and milestone checks determine when to escalate for recovery or verification without retraining the larger model.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-27151/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-27151/
 - Original source: https://arxiv.org/abs/2604.27151
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes a step-level model cascade that runs a smaller computer-use policy unti
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-27151/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-27151/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jinbiao Wei, Kangqi Ni, Yilun Zhao, Guo Gan, Arman Cohan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-27151/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-27151/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-27151/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-27151/citation.csl.json
 
 ## Recorded arXiv snapshot
 

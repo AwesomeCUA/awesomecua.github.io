@@ -2,7 +2,7 @@
 
 ARPO extends group-relative policy optimization with a replay buffer that reuses successful GUI trajectories across training iterations. It filters tasks using baseline performance and compares end-to-end reinforcement learning with offline preference optimization on OSWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-16282/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-16282/
 - Original source: https://arxiv.org/abs/2505.16282
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ARPO extends group-relative policy optimization with a replay buffer that reuses
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-16282/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-16282/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fanbin Lu, Zhisheng Zhong, Shu Liu, Chi-Wing Fu, Jiaya Jia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-16282/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-16282/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-16282/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-16282/citation.csl.json
 
 ## Recorded arXiv snapshot
 

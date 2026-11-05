@@ -2,7 +2,7 @@
 
 Bibliographic record for SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-07682/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-07682/
 - Original source: https://arxiv.org/abs/2606.07682
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SWE-Marathon: Can Agents Autonomously Complete Ultra-Lo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-07682/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-07682/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rishi Desai, Jesse Hu, Joan Cabezas, Neel Harsola, Pratyush Shukla, Roey Ben Cha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-07682/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-07682/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-07682/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-07682/citation.csl.json
 
 ## Recorded arXiv snapshot
 

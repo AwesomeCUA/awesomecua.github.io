@@ -2,7 +2,7 @@
 
 Bibliographic record for WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-12852/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-12852/
 - Original source: https://arxiv.org/abs/2602.12852
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for WebClipper: Efficient Evolution of Web Agents with Grap
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-12852/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-12852/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junjie Wang, Zequn Xie, Dan Yang, Jie Feng, Yue Shen, Duolin Sun, Meixiu Long, Y
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-12852/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-12852/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-12852/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-12852/citation.csl.json
 
 ## Recorded arXiv snapshot
 

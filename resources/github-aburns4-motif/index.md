@@ -2,7 +2,7 @@
 
 Mobile task demonstrations and natural-language instructions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-aburns4-motif/
+- Catalog URL: https://awesomecua.com/resources/github-aburns4-motif/
 - Original source: https://github.com/aburns4/MoTIF
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Mobile task demonstrations and natural-language instructions.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-aburns4-motif/record.json
+- Record JSON: https://awesomecua.com/resources/github-aburns4-motif/record.json
 
 ## Structured profile
 

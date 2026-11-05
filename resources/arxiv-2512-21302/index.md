@@ -2,7 +2,7 @@
 
 AndroidLens provides 571 extended mobile tasks in Chinese and English, with multiple valid paths and preserved environmental anomalies. Its dynamic evaluation uses nested milestones and Average Task Progress to measure partial completion of long workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-21302/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-21302/
 - Original source: https://arxiv.org/abs/2512.21302
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AndroidLens provides 571 extended mobile tasks in Chinese and English, with mult
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-21302/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-21302/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yue Cao, Yingyao Wang, Pi Bu, Jingxuan Xing, Wei Jiang, Zekun Zhu, Junpeng Ma, S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-21302/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-21302/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-21302/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-21302/citation.csl.json
 
 ## Recorded arXiv snapshot
 

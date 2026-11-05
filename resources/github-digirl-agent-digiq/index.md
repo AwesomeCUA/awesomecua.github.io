@@ -2,7 +2,7 @@
 
 Offline device-control training code that learns action values and uses them to select promising actions, with linked trajectories and checkpoints.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-digirl-agent-digiq/
+- Catalog URL: https://awesomecua.com/resources/github-digirl-agent-digiq/
 - Original source: https://github.com/DigiRL-agent/digiq
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Offline device-control training code that learns action values and uses them to 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-digirl-agent-digiq/record.json
+- Record JSON: https://awesomecua.com/resources/github-digirl-agent-digiq/record.json
 
 ## License declarations
 

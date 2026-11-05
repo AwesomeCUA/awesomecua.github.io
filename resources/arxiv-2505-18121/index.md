@@ -2,7 +2,7 @@
 
 ProgRM predicts per-step task completion progress to provide intermediate rewards during online GUI-agent training. It derives progress labels by using longest common subsequences to identify key trajectory steps, allowing useful partial progress to contribute even when a trajectory ultimately fails.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-18121/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-18121/
 - Original source: https://arxiv.org/abs/2505.18121
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ProgRM predicts per-step task completion progress to provide intermediate reward
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-18121/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-18121/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Danyang Zhang, Situo Zhang, Ziyue Yang, Zichen Zhu, Zihan Zhao, Ruisheng Cao, Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-18121/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-18121/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-18121/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-18121/citation.csl.json
 
 ## Recorded arXiv snapshot
 

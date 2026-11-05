@@ -2,7 +2,7 @@
 
 Bibliographic record for ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2611-03238/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2611-03238/
 - Original source: https://arxiv.org/abs/2611.03238
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ScienceCUA: Resource-to-Skill Construction and Executio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2611-03238/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2611-03238/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Daiqiang Li, Jingyi Peng, Rui Hu, Jia Li, Xuyang Liu, Guanren Qiao, Yujia Xiang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2611-03238/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2611-03238/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2611-03238/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2611-03238/citation.csl.json
 
 ## Recorded arXiv snapshot
 

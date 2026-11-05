@@ -2,7 +2,7 @@
 
 SUPERBROWSER combines screenshot-based target proposals with separate orchestration, planning and action roles. A bounded ledger and context-eviction process retain recent actions, task facts and checkpoints during browser execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-09399/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-09399/
 - Original source: https://arxiv.org/abs/2606.09399
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SUPERBROWSER combines screenshot-based target proposals with separate orchestrat
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-09399/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-09399/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Radeen Mostafa, Sawradip Saha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-09399/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-09399/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-09399/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-09399/citation.csl.json
 
 ## Recorded arXiv snapshot
 

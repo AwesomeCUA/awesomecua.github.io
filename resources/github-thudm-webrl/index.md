@@ -2,7 +2,7 @@
 
 Training pipeline that evolves web tasks from prior attempts and uses an outcome reward model to refine browser policies.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-thudm-webrl/
+- Catalog URL: https://awesomecua.com/resources/github-thudm-webrl/
 - Original source: https://github.com/THUDM/WebRL
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Training pipeline that evolves web tasks from prior attempts and uses an outcome
 
 Training code and checkpoint links are released. No root code-license declaration was found in the inspected repository metadata; bundled dependency licenses do not establish a license for the whole project. Weights have separate Hub terms.
 
-- Record JSON: https://awesomecua.github.io/resources/github-thudm-webrl/record.json
+- Record JSON: https://awesomecua.com/resources/github-thudm-webrl/record.json
 
 ## License declarations
 

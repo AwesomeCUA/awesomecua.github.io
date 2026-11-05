@@ -2,7 +2,7 @@
 
 Multi-turn web-navigation conversations constructed from Mind2Web interactions, with dialogue turns, HTML snapshots, element candidates and click/type/select action sequences.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-bdfb50330deb97893ce4/
+- Catalog URL: https://awesomecua.com/resources/url-bdfb50330deb97893ce4/
 - Original source: https://huggingface.co/datasets/magicgh/MT-Mind2Web
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Multi-turn web-navigation conversations constructed from Mind2Web interactions, 
 
 The ungated Hub manifest contains train, test-task, test-website and test-subdomain JSON shards plus a candidate-ranking pickle file. Counts distinguish conversation sessions from dialogue turns; neither is a screenshot or action-step count. No pickle or sample data was loaded. The card declares CC-BY-4.0 and identifies the original Mind2Web interactions as its source.
 
-- Record JSON: https://awesomecua.github.io/resources/url-bdfb50330deb97893ce4/record.json
+- Record JSON: https://awesomecua.com/resources/url-bdfb50330deb97893ce4/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Synapse filters task-irrelevant page state and places complete abstracted state-action trajectories into the prompt. An embedding-based exemplar memory retrieves relevant demonstrations for new tasks, evaluated on MiniWoB++ and Mind2Web.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2306-07863/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2306-07863/
 - Original source: https://arxiv.org/abs/2306.07863
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Synapse filters task-irrelevant page state and places complete abstracted state-
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-07863/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2306-07863/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-07863/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-07863/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2306-07863/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2306-07863/citation.csl.json
 
 ## Recorded arXiv snapshot
 

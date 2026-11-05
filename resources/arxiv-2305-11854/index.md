@@ -2,7 +2,7 @@
 
 Trains WebGUM offline from demonstrations by jointly tuning an instruction-following language model and a vision encoder over webpage screenshots and HTML. The agent predicts browser actions and is evaluated on MiniWoB, WebShop, and Mind2Web.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2305-11854/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2305-11854/
 - Original source: https://arxiv.org/abs/2305.11854
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains WebGUM offline from demonstrations by jointly tuning an instruction-follo
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-11854/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2305-11854/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-11854/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-11854/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2305-11854/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2305-11854/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shi
 - Authors: Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur
 - Publication date (recorded precision): 2024-05-31
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2305-11854/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-11854/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2305-11854/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2305-11854/publication-citation.csl.json
 - venue: International Conference on Learning Representations
 - volume: 2024
 - pages: 29528-29558

@@ -2,7 +2,7 @@
 
 The framework uses a vision-language judge’s final-screen assessment as a terminal reward for GUI reinforcement learning. It models evaluator noise and corrects the reward estimator used by PPO across desktop benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-24515/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-24515/
 - Original source: https://arxiv.org/abs/2606.24515
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ The framework uses a vision-language judge’s final-screen assessment as a term
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-24515/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-24515/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Marta Sumyk, Oleksandr Kosovan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-24515/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-24515/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-24515/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-24515/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces Spatial Credit Assignment, which uses click coordinates to refine group-relative reinforcement-learning updates for GUI grounding. It distinguishes failed clicks by spatial evidence while leaving the deployed action policy unchanged.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-36939/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-36939/
 - Original source: https://arxiv.org/abs/2609.36939
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Spatial Credit Assignment, which uses click coordinates to refine gro
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-36939/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-36939/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shengtian Yang, Ziyu Xiong, Kaibing Yang, Guangfeng Cai, Yewen Li, Peng Jiang, G
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-36939/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-36939/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-36939/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-36939/citation.csl.json
 
 ## Recorded arXiv snapshot
 

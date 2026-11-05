@@ -2,7 +2,7 @@
 
 MyPCBench tests personal-assistant tasks on a Linux desktop with simulated web applications and data for a single fictional persona. A shared computer-and-shell interface enables evaluation of cross-application workflows that depend on personal context and account-like state.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-16748/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-16748/
 - Original source: https://arxiv.org/abs/2606.16748
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MyPCBench tests personal-assistant tasks on a Linux desktop with simulated web a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-16748/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-16748/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lawrence Keunho Jang, Andrew Keunwoo Jang, Jing Yu Koh, Ruslan Salakhutdinov
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-16748/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-16748/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-16748/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-16748/citation.csl.json
 
 ## Recorded arXiv snapshot
 

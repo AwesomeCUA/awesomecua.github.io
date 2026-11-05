@@ -2,7 +2,7 @@
 
 Pix2Struct pretrains an image-to-text model by reconstructing simplified HTML from masked webpage screenshots. Its variable-resolution visual representation is evaluated across several domains, including user-interface understanding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2210-03347/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2210-03347/
 - Original source: https://arxiv.org/abs/2210.03347
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Pix2Struct pretrains an image-to-text model by reconstructing simplified HTML fr
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced. Adjacent visual-language pretraining: webpage screenshot parsing and explicit UI evaluation support interface understanding; the paper does not establish an autonomous GUI policy.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-03347/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2210-03347/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kenton Lee, Mandar Joshi, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-03347/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-03347/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2210-03347/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2210-03347/citation.csl.json
 
 ## Recorded arXiv snapshot
 

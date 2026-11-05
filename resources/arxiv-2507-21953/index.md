@@ -2,7 +2,7 @@
 
 Builds reusable page memories from past mobile trajectories and retrieves them to support task planning and execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-21953/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-21953/
 - Original source: https://arxiv.org/abs/2507.21953
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds reusable page memories from past mobile trajectories and retrieves them t
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-21953/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-21953/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yi Kong, Dianxi Shi, Guoli Yang, Zhang ke-di, Chenlin Huang, Xiaopeng Li, Songch
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-21953/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-21953/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-21953/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-21953/citation.csl.json
 
 ## Recorded arXiv snapshot
 

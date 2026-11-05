@@ -2,7 +2,7 @@
 
 Adaptive VLM Routing estimates GUI-action difficulty and small-model confidence to select a model under a predicted reliability threshold. Grounding and agent-routing benchmarks assess the cost–accuracy trade-off, with prior interaction context used for warm agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-12823/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-12823/
 - Original source: https://arxiv.org/abs/2603.12823
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Adaptive VLM Routing estimates GUI-action difficulty and small-model confidence 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-12823/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-12823/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xunzhuo Liu, Bowei He, Xue Liu, Andy Luo, Haichen Zhang, Huamin Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-12823/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-12823/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-12823/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-12823/citation.csl.json
 
 ## Recorded arXiv snapshot
 

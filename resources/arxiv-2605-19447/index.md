@@ -2,7 +2,7 @@
 
 Bibliographic record for What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-19447/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-19447/
 - Original source: https://arxiv.org/abs/2605.19447
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for What and When to Distill: Selective Hindsight Distillat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-19447/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-19447/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaozhe Li, Tianyi Lyu, Yang Li, Yichuan Ma, Peiji Li, Linyang Li, Qipeng Guo, D
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-19447/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-19447/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-19447/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-19447/citation.csl.json
 
 ## Recorded arXiv snapshot
 

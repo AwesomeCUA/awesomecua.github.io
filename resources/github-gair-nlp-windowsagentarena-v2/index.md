@@ -2,7 +2,7 @@
 
 Windows benchmark revision with task/evaluator fixes and VM-initialization support, documented alongside PC-Agent-E.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-gair-nlp-windowsagentarena-v2/
+- Catalog URL: https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/
 - Original source: https://github.com/GAIR-NLP/WindowsAgentArena-V2
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Windows benchmark revision with task/evaluator fixes and VM-initialization suppo
 
 Repository contains executable evaluation code and task definitions. README links a separate Windows 11 VM snapshot; that image and its software licenses/access were not validated by downloading it. MIT is recorded for repository code only. Default task selection and the reported full suite have different scopes.
 
-- Record JSON: https://awesomecua.github.io/resources/github-gair-nlp-windowsagentarena-v2/record.json
+- Record JSON: https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentRadio: Passive Awareness for Long-Horizon Multi-Agent Collaboration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-28430/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28430/
 - Original source: https://arxiv.org/abs/2607.28430
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentRadio: Passive Awareness for Long-Horizon Multi-Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28430/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28430/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinxing Ren, Qianbo Zang, Ziyan Wang, Caelum Forder, Suman Deb, Peter Carroll, Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28430/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28430/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28430/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28430/citation.csl.json
 
 ## Recorded arXiv snapshot
 

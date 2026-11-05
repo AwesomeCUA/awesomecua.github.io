@@ -2,7 +2,7 @@
 
 GUI element descriptions and grounding instructions spanning web, mobile, and Ubuntu desktop interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-f8566bd0394d36ed4f8e/
+- Catalog URL: https://awesomecua.com/resources/url-f8566bd0394d36ed4f8e/
 - Original source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ GUI element descriptions and grounding instructions spanning web, mobile, and Ub
 
 The publisher flags original desktop files as deprecated because of screenshot-mapping issues, and identifies corrected versions in the dataset card.
 
-- Record JSON: https://awesomecua.github.io/resources/url-f8566bd0394d36ed4f8e/record.json
+- Record JSON: https://awesomecua.com/resources/url-f8566bd0394d36ed4f8e/record.json
 
 ## Structured profile
 

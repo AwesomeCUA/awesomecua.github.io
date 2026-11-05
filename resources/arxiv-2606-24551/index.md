@@ -2,7 +2,7 @@
 
 This benchmark matches desktop goals, initial states and final-state verifiers across screen-only GUI and skill-mediated CLI agents. Its experiments separate graphical execution failures from missing CLI skill coverage, including a verifier-guided skill-augmentation condition.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-24551/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-24551/
 - Original source: https://arxiv.org/abs/2606.24551
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This benchmark matches desktop goals, initial states and final-state verifiers a
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-24551/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-24551/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiao Zhou, Siyue Zhang, Yilun Zhao, Jinbiao Wei, Tingyu Song, Arman Cohan, Chen 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-24551/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-24551/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-24551/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-24551/citation.csl.json
 
 ## Recorded arXiv snapshot
 

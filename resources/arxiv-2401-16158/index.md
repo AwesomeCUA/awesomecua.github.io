@@ -2,7 +2,7 @@
 
 Uses visual perception tools and task decomposition to operate mobile applications without relying on app interface metadata.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-16158/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-16158/
 - Original source: https://arxiv.org/abs/2401.16158
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses visual perception tools and task decomposition to operate mobile applicatio
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-16158/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-16158/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junyang Wang, Haiyang Xu, Jiabo Ye, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-16158/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-16158/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-16158/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-16158/citation.csl.json
 
 ## Recorded arXiv snapshot
 

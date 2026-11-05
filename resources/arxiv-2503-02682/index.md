@@ -2,7 +2,7 @@
 
 Refines reusable high-level meta plans with execution feedback to guide language-agent planning across interactive environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-02682/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-02682/
 - Original source: https://arxiv.org/abs/2503.02682
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Refines reusable high-level meta plans with execution feedback to guide language
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The full paper was also inspected to confirm WebShop evaluation; the broader agent-learning method is classified as adjacent.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-02682/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-02682/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weimin Xiong, Yifan Song, Qingxiu Dong, Bingchan Zhao, Feifan Song, Xun Wang, Su
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-02682/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-02682/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-02682/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-02682/citation.csl.json
 
 ## Recorded arXiv snapshot
 

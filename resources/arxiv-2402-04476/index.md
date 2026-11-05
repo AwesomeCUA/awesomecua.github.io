@@ -2,7 +2,7 @@
 
 Uses screenshot geometry and visual content to enrich HTML element representations for web navigation. Nearby elements contribute textual and visual context, with evaluation on cross-task, cross-website, and cross-domain Mind2Web splits.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-04476/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-04476/
 - Original source: https://arxiv.org/abs/2402.04476
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses screenshot geometry and visual content to enrich HTML element representatio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-04476/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-04476/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jihyung Kil, Chan Hee Song, Boyuan Zheng, Xiang Deng, Yu Su, Wei-Lun Chao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-04476/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-04476/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-04476/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-04476/citation.csl.json
 
 ## Recorded arXiv snapshot
 

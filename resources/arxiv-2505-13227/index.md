@@ -2,7 +2,7 @@
 
 Introduces OSWorld-G grounding evaluation and the Jedi synthesis pipeline for examples spanning layout reasoning and fine-grained interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-13227/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-13227/
 - Original source: https://arxiv.org/abs/2505.13227
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces OSWorld-G grounding evaluation and the Jedi synthesis pipeline for ex
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-13227/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-13227/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianbao Xie, Jiaqi Deng, Xiaochuan Li, Junlin Yang, Haoyuan Wu, Jixuan Chen, Wen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-13227/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-13227/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-13227/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-13227/citation.csl.json
 
 ## Recorded arXiv snapshot
 

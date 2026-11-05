@@ -2,7 +2,7 @@
 
 Provides an operating-system agent framework connecting applications, files, terminals, and web tools, with accumulated skills for subsequent tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-07456/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-07456/
 - Original source: https://arxiv.org/abs/2402.07456
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Provides an operating-system agent framework connecting applications, files, ter
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-07456/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-07456/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Ya
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-07456/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-07456/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-07456/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-07456/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 UI-TARS 1.5 GUI-agent checkpoint in the Qwen2.5-VL architecture with about 8.3B parameters stored in FP32, released under Apache-2.0 for English image-text-to-text use in Transformers.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-4d32ad3682ae2d71c178/
+- Catalog URL: https://awesomecua.com/resources/url-4d32ad3682ae2d71c178/
 - Original source: https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ UI-TARS 1.5 GUI-agent checkpoint in the Qwen2.5-VL architecture with about 8.3B 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-4d32ad3682ae2d71c178/record.json
+- Record JSON: https://awesomecua.com/resources/url-4d32ad3682ae2d71c178/record.json
 
 ## License declarations
 

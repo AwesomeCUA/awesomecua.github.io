@@ -2,7 +2,7 @@
 
 Bibliographic record for SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-25255/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-25255/
 - Original source: https://arxiv.org/abs/2607.25255
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SafeFlow: Semantic Information-Flow Control for Blockin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-25255/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-25255/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haowen Dai, Zonghao Ying, Wenfeng Li, Xiangfan Wu, Yisong Xiao, Tianyuan Zhang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-25255/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-25255/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-25255/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-25255/citation.csl.json
 
 ## Recorded arXiv snapshot
 

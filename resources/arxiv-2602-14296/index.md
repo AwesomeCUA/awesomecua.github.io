@@ -2,7 +2,7 @@
 
 AutoWebWorld turns finite-state task models into interactive websites whose actions and goal states can be checked programmatically. It generates verified trajectories for training and evaluates transfer to WebVoyager and Online-Mind2Web.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-14296/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-14296/
 - Original source: https://arxiv.org/abs/2602.14296
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AutoWebWorld turns finite-state task models into interactive websites whose acti
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14296/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-14296/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yifan Wu, Yiran Peng, Yiyu Chen, Jianhao Ruan, Zijie Zhuang, Cheng Yang, Jiayi Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14296/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14296/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-14296/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-14296/citation.csl.json
 
 ## Recorded arXiv snapshot
 

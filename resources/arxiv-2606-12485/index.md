@@ -2,7 +2,7 @@
 
 Speculative Rollback Correction lets a student web agent execute short branches before teacher review localizes harmful deviations. Verified continuations and localized corrections feed supervised training while an archive retains diverse successful solutions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-12485/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-12485/
 - Original source: https://arxiv.org/abs/2606.12485
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Speculative Rollback Correction lets a student web agent execute short branches 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-12485/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-12485/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Longkun Hao, Hongyu Lin, Hao Li, Zhuowen Liu, Zhichao Yang, Haojie Hao, Dongshuo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-12485/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-12485/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-12485/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-12485/citation.csl.json
 
 ## Recorded arXiv snapshot
 

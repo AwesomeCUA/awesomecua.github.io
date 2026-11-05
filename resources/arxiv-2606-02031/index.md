@@ -2,7 +2,7 @@
 
 Bibliographic record for OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-02031/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-02031/
 - Original source: https://arxiv.org/abs/2606.02031
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for OpenWebRL: Demystifying Online Multi-turn Reinforcement
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-02031/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-02031/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rui Yang, Qianhui Wu, Yuxi Chen, Hao Bai, Wenlin Yao, Hao Cheng, Baolin Peng, Hu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-02031/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-02031/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-02031/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-02031/citation.csl.json
 
 ## Recorded arXiv snapshot
 

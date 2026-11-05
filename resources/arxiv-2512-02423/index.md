@@ -2,7 +2,7 @@
 
 Introduces GUI Exploration Lab, a simulation engine for composing screens, interface elements, and navigation graphs. It studies how supervised learning, single-turn RL, and multiturn RL affect GUI navigation and exploration.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-02423/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-02423/
 - Original source: https://arxiv.org/abs/2512.02423
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUI Exploration Lab, a simulation engine for composing screens, inter
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-02423/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-02423/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haolong Yan, Yeqing Shen, Xin Huang, Jia Wang, Kaijun Tan, Zhixuan Liang, Hongxi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-02423/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-02423/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-02423/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-02423/citation.csl.json
 
 ## Recorded arXiv snapshot
 

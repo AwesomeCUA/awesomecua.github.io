@@ -2,7 +2,7 @@
 
 A specialized interface-grounding checkpoint that returns normalized point coordinates for a requested element in a screenshot.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-cc931199bda2bdf1f5f7/
+- Catalog URL: https://awesomecua.com/resources/url-cc931199bda2bdf1f5f7/
 - Original source: https://huggingface.co/tencent/POINTS-GUI-G
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A specialized interface-grounding checkpoint that returns normalized point coord
 
 Four safetensors shards and model code/configuration are public and ungated. The card declares license other without specifying a named weight license. This release is the grounding model; the same card says the end-to-end GUI agent model is still under development. No end-to-end agent capability is inferred from grounding scores.
 
-- Record JSON: https://awesomecua.github.io/resources/url-cc931199bda2bdf1f5f7/record.json
+- Record JSON: https://awesomecua.com/resources/url-cc931199bda2bdf1f5f7/record.json
 
 ## License declarations
 

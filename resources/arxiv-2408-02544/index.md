@@ -2,7 +2,7 @@
 
 Measures how irrelevant GUI content affects multimodal agents using a simulated dataset and three perception patterns. The study also examines adversarial environment injection and possible ways to improve instruction faithfulness.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2408-02544/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2408-02544/
 - Original source: https://arxiv.org/abs/2408.02544
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Measures how irrelevant GUI content affects multimodal agents using a simulated 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The abstract describes a simulated dataset; real-browser deployment is not asserted.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-02544/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2408-02544/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinbei Ma, Yiting Wang, Yao Yao, Tongxin Yuan, Aston Zhang, Zhuosheng Zhang, Hai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-02544/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-02544/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2408-02544/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2408-02544/citation.csl.json
 
 ## Recorded arXiv snapshot
 

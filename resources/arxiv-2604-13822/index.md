@@ -2,7 +2,7 @@
 
 UI-Copilot separates GUI execution from on-demand memory retrieval and numerical assistance. Its training procedure treats tool selection and multi-turn task execution as distinct optimization targets while keeping persistent observations outside transient context.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-13822/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-13822/
 - Original source: https://arxiv.org/abs/2604.13822
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UI-Copilot separates GUI execution from on-demand memory retrieval and numerical
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13822/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-13822/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhengxi Lu, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13822/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13822/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-13822/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-13822/citation.csl.json
 
 ## Recorded arXiv snapshot
 

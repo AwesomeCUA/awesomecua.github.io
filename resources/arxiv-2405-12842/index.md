@@ -2,7 +2,7 @@
 
 Presents SmartFlow, which converts visible GUI elements into text for language-model action planning and executes the plan through a scripting engine. A collection of enterprise applications evaluates adaptation to different layouts and tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2405-12842/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2405-12842/
 - Original source: https://arxiv.org/abs/2405.12842
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents SmartFlow, which converts visible GUI elements into text for language-m
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-12842/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2405-12842/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Arushi Jain, Shubham Paliwal, Monika Sharma, Lovekesh Vig, Gautam Shroff
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-12842/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-12842/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2405-12842/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2405-12842/citation.csl.json
 
 ## Recorded arXiv snapshot
 

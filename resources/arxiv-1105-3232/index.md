@@ -2,7 +2,7 @@
 
 Bibliographic record for Unleashing the Power of Mobile Cloud Computing using ThinkAir. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1105-3232/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1105-3232/
 - Original source: https://arxiv.org/abs/1105.3232
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Unleashing the Power of Mobile Cloud Computing using Th
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1105-3232/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1105-3232/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sokol Kosta, Andrius Aucinas, Pan Hui, Richard Mortier, Xinwen Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1105-3232/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1105-3232/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1105-3232/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1105-3232/citation.csl.json
 
 ## Recorded arXiv snapshot
 

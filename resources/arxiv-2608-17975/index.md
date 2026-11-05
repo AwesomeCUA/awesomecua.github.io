@@ -2,7 +2,7 @@
 
 Bibliographic record for aDSL: Agentic 3D Creation via Joint Agent-Program Design. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-17975/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-17975/
 - Original source: https://arxiv.org/abs/2608.17975
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for aDSL: Agentic 3D Creation via Joint Agent-Program Desig
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-17975/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-17975/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rui-Huan Wang, Si-Tong Wei, Jia-Qi He, Heng-Yi Wei, Baoquan Chen, Peng-Shuai Wan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-17975/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-17975/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-17975/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-17975/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Towards Scalable Lightweight GUI Agents via Multi-role Orchestration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-13488/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-13488/
 - Original source: https://arxiv.org/abs/2604.13488
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Towards Scalable Lightweight GUI Agents via Multi-role 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13488/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-13488/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziwei Wang, Junjie Zheng, Leyang Yang, Sheng Zhou, Xiaoxuan Tang, Zhouhua Fang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13488/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13488/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-13488/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-13488/citation.csl.json
 
 ## Recorded arXiv snapshot
 

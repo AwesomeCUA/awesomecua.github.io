@@ -2,7 +2,7 @@
 
 Predicts web-agent failure risk from observable trajectory prefixes using cross-step behavior and black-box consistency queries. Key-step labels preserve valid early prefixes of failed runs, and evaluation tests early intervention and transfer across website categories.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-02057/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-02057/
 - Original source: https://arxiv.org/abs/2609.02057
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Predicts web-agent failure risk from observable trajectory prefixes using cross-
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-02057/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-02057/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sitong Pan, Yipeng Shen, Yilin Lu, Caiwen Ding, Lu Cheng, Qianwen Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-02057/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-02057/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-02057/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-02057/citation.csl.json
 
 ## Recorded arXiv snapshot
 

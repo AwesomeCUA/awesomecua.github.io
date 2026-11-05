@@ -2,7 +2,7 @@
 
 Bibliographic record for HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-13954/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-13954/
 - Original source: https://arxiv.org/abs/2604.13954
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for HINTBench: Horizon-agent Intrinsic Non-attack Trajector
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13954/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-13954/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiacheng Wang, Jinchang Hou, Fabian Wang, Ping Jian, Chenfu Bao, Zhonghou Lv
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13954/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13954/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-13954/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-13954/citation.csl.json
 
 ## Recorded arXiv snapshot
 

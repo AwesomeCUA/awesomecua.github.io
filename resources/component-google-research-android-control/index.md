@@ -2,7 +2,7 @@
 
 Android demonstrations with high-level goals, step instructions, screenshots, and accessibility trees.
 
-- Catalog URL: https://awesomecua.github.io/resources/component-google-research-android-control/
+- Catalog URL: https://awesomecua.com/resources/component-google-research-android-control/
 - Original source: https://github.com/google-research/google-research/tree/master/android_control
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Android demonstrations with high-level goals, step instructions, screenshots, an
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/component-google-research-android-control/record.json
+- Record JSON: https://awesomecua.com/resources/component-google-research-android-control/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22990/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-22990/
 - Original source: https://arxiv.org/abs/2610.22990
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PersonaCUABench varies simulated user requests and clarification dialogue over f
 
 Reviewed the complete retained abstract and selected exact-v1 construction, evaluation and limitations sections. Main interactions and satisfaction ratings use LLM-simulated personas; human annotators validate selected outputs. The harness observes page text, with screenshots only for auditing. Results are not evidence about real demographic populations or desktop agents. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22990/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-22990/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoming Li, Defu Cao, Xu Hu, Yingtao Luo, Yiyang Wang, Xianghe Xu, Jiashu He, Wa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22990/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22990/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-22990/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-22990/citation.csl.json
 
 ## Recorded arXiv snapshot
 

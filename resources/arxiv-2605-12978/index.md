@@ -2,7 +2,7 @@
 
 Bibliographic record for Useful Memories Become Faulty When Continuously Updated by LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-12978/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-12978/
 - Original source: https://arxiv.org/abs/2605.12978
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Useful Memories Become Faulty When Continuously Updated
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-12978/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-12978/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dylan Zhang, Yanshan Lin, Zhengkun Wu, Yihang Sun, Bingxuan Li, Dianqi Li, Hao P
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-12978/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-12978/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-12978/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-12978/citation.csl.json
 
 ## Recorded arXiv snapshot
 

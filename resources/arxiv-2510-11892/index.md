@@ -2,7 +2,7 @@
 
 R-WoM evaluates how well world models predict nearby GUI states, align complete procedures, and recognize milestone transitions. It retrieves external tutorials to guide simulated future interactions, with experiments on subsets of OSWorld and WebArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-11892/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-11892/
 - Original source: https://arxiv.org/abs/2510.11892
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ R-WoM evaluates how well world models predict nearby GUI states, align complete 
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-11892/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-11892/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kai Mei, Jiang Guo, Shuaichen Chang, Mingwen Dong, Dongkyu Lee, Xing Niu, Jiaron
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-11892/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-11892/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-11892/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-11892/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories for website task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-db1b7b7efe3755ae5693/
+- Catalog URL: https://awesomecua.com/resources/url-db1b7b7efe3755ae5693/
 - Original source: https://huggingface.co/apurvaga/go-browse-wa-qwen-7B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories 
 
 Seven public safetensors shards and model/tokenizer files are present. The card links the official code and paper but declares no weight license. The code repository’s MIT license is not inherited by this checkpoint, and the separate NNetNav-trained comparison model is not treated as an alias.
 
-- Record JSON: https://awesomecua.github.io/resources/url-db1b7b7efe3755ae5693/record.json
+- Record JSON: https://awesomecua.com/resources/url-db1b7b7efe3755ae5693/record.json
 
 ## License declarations
 

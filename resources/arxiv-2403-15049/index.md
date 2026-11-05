@@ -2,7 +2,7 @@
 
 Bibliographic record for Continual Vision-and-Language Navigation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-15049/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-15049/
 - Original source: https://arxiv.org/abs/2403.15049
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Continual Vision-and-Language Navigation. Title, author
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-15049/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-15049/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Seongjun Jeong, Gi-Cheon Kang, Seongho Choi, Joochan Kim, Byoung-Tak Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-15049/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-15049/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-15049/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-15049/citation.csl.json
 
 ## Recorded arXiv snapshot
 

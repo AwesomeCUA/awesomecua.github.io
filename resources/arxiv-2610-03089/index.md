@@ -2,7 +2,7 @@
 
 Introduces STEER-Bench to study branch-steering attacks that manipulate untrusted web data toward hazardous paths already permitted by an agent’s plan. Its COBRA architecture combines trusted branching plans with advance constraints on the parameters and destinations each branch can use.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-03089/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-03089/
 - Original source: https://arxiv.org/abs/2610.03089
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces STEER-Bench to study branch-steering attacks that manipulate untruste
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-03089/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-03089/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Giulio Zingrillo, Hanna Foerster, Ilia Shumailov, Yiren Zhao, Robert Mullins
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-03089/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-03089/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-03089/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-03089/citation.csl.json
 
 ## Recorded arXiv snapshot
 

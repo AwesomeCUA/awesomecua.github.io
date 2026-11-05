@@ -2,7 +2,7 @@
 
 Synthesizes resettable workspaces with files, application observations and skills; repairs environment incompatibilities and trains long-task agents using verifier-linked turn credit.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-18067/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-18067/
 - Original source: https://arxiv.org/abs/2610.18067
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Synthesizes resettable workspaces with files, application observations and skill
 
 App WorkEnvs expose UI observations and interaction interfaces alongside file and tool workflows; no specific operating system or pixel-control success is established. Verifier shaping depends on deterministic-check and dependency coverage. External reference scores use differing harnesses or subsets; GDPval Elo is not comparable to percentage metrics. A successful-trace analysis subset is separate from online RL outcomes. No implementation release or independent reproduction was verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-18067/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-18067/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hang He, Linting Wang, Guanming Liu, Bo Mao, Jinxiu Liu, Yiran Suo, Maosen Zhou,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-18067/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-18067/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-18067/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-18067/citation.csl.json
 
 ## Recorded arXiv snapshot
 

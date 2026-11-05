@@ -2,7 +2,7 @@
 
 Bibliographic record for RealClawBench: Live OpenClaw Benchmarks from Real Developer-Agent Sessions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-03889/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-03889/
 - Original source: https://arxiv.org/abs/2606.03889
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for RealClawBench: Live OpenClaw Benchmarks from Real Devel
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-03889/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-03889/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zongwei Lv, Yaoming Li, Zhewen Tan, Yilun Yao, Yuxuan Tian, Lin Sun, Xiangzheng 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-03889/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-03889/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-03889/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-03889/citation.csl.json
 
 ## Recorded arXiv snapshot
 

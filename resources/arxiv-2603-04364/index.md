@@ -2,7 +2,7 @@
 
 Studies webpage injections that affect both screenshots and accessibility trees, then trains web agents through teacher imitation, supervised adversarial examples, and adversarial reinforcement learning. The evaluation tests defenses on MiniWoB++ and held-out tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-04364/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-04364/
 - Original source: https://arxiv.org/abs/2603.04364
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies webpage injections that affect both screenshots and accessibility trees,
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-04364/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-04364/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoyu Liu, Dingcheng Li, Lukas Rutishauser, Zeyu Zheng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-04364/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-04364/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-04364/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-04364/citation.csl.json
 
 ## Recorded arXiv snapshot
 

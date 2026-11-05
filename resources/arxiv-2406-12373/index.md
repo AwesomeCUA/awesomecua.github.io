@@ -2,7 +2,7 @@
 
 Introduces WebCanvas and Mind2Web-Live, evaluating online task progress through meaningful intermediate states on changing websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-12373/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-12373/
 - Original source: https://arxiv.org/abs/2406.12373
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebCanvas and Mind2Web-Live, evaluating online task progress through 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-12373/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-12373/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-12373/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-12373/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-12373/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-12373/citation.csl.json
 
 ## Recorded arXiv snapshot
 

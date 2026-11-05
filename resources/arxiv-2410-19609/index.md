@@ -2,7 +2,7 @@
 
 Develops multimodal browser agents through repeated cycles of real-web exploration, trajectory feedback, and policy optimization.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-19609/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-19609/
 - Original source: https://arxiv.org/abs/2410.19609
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Develops multimodal browser agents through repeated cycles of real-web explorati
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-19609/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-19609/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, Tianqing Fang, Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-19609/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-19609/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-19609/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-19609/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, Tianqing Fang, Z
 - Authors: Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, Tianqing Fang, Zhenzhong Lan, Dong Yu
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.acl-long.1336/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-19609/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-19609/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-19609/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-19609/publication-citation.csl.json
 - venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 27545-27564

@@ -2,7 +2,7 @@
 
 Groups GUI trajectories by subgoal and combines action-level and group-level assessments into intermediate rewards for training agents with sparse task outcomes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-17710/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-17710/
 - Original source: https://arxiv.org/abs/2610.17710
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Groups GUI trajectories by subgoal and combines action-level and group-level ass
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-17710/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-17710/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zirui Shang, Yang Liu, Xin Shu, Zhi Gao, Xinxiao Wu, Lifeng Fan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-17710/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-17710/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-17710/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-17710/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Agent models: Internalizing Chain-of-Action Generation into Reasoning models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-06580/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-06580/
 - Original source: https://arxiv.org/abs/2503.06580
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Agent models: Internalizing Chain-of-Action Generation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-06580/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-06580/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxiang Zhang, Yuqi Yang, Jiangming Shu, Xinyan Wen, Jitao Sang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-06580/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-06580/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-06580/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-06580/citation.csl.json
 
 ## Recorded arXiv snapshot
 

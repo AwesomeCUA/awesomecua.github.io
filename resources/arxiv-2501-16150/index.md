@@ -2,7 +2,7 @@
 
 Reviews 87 computer-use agents and 33 datasets through a taxonomy of operating domain, observation and action modalities, and agent design.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-16150/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2501-16150/
 - Original source: https://arxiv.org/abs/2501.16150
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Reviews 87 computer-use agents and 33 datasets through a taxonomy of operating d
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-16150/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2501-16150/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan E
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-16150/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-16150/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2501-16150/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2501-16150/citation.csl.json
 
 ## Recorded arXiv snapshot
 

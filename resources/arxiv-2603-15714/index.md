@@ -2,7 +2,7 @@
 
 This public red-teaming study evaluates indirect prompt injection that both changes agent behavior and hides the compromise from the final response. Its scenarios include computer use alongside tool calling and coding, with analyses of transfer and model-dependent vulnerability.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-15714/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-15714/
 - Original source: https://arxiv.org/abs/2603.15714
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This public red-teaming study evaluates indirect prompt injection that both chan
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-15714/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-15714/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mateusz Dziemian, Maxwell Lin, Xiaohan Fu, Micha Nowak, Nick Winter, Eliot Jones
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-15714/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-15714/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-15714/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-15714/citation.csl.json
 
 ## Recorded arXiv snapshot
 

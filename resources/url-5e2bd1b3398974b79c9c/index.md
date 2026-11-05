@@ -2,7 +2,7 @@
 
 A web-interface localization benchmark with screenshot instructions and target boxes, including agent browsing, human browsing and calendar cases.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-5e2bd1b3398974b79c9c/
+- Catalog URL: https://awesomecua.com/resources/url-5e2bd1b3398974b79c9c/
 - Original source: https://huggingface.co/datasets/Hcompany/WebClick
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ A web-interface localization benchmark with screenshot instructions and target b
 
 Four public test Parquet shards are present. The dataset card declares Apache-2.0. This is an offline localization test, not an end-to-end web-task success benchmark; reported screenshots and samples are not summed as different populations.
 
-- Record JSON: https://awesomecua.github.io/resources/url-5e2bd1b3398974b79c9c/record.json
+- Record JSON: https://awesomecua.com/resources/url-5e2bd1b3398974b79c9c/record.json
 
 ## Structured profile
 

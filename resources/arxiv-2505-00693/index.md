@@ -2,7 +2,7 @@
 
 Bibliographic record for Robotic Visual Instruction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-00693/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-00693/
 - Original source: https://arxiv.org/abs/2505.00693
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Robotic Visual Instruction. Title, authors and dates ch
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-00693/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-00693/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yanbang Li, Ziyang Gong, Haoyang Li, Xiaoqi Huang, Haolan Kang, Guangping Bai, X
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-00693/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-00693/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-00693/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-00693/citation.csl.json
 
 ## Recorded arXiv snapshot
 

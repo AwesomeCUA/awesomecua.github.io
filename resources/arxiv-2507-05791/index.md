@@ -2,7 +2,7 @@
 
 GTA1 samples multiple action proposals at each GUI step and uses a judge to select among them. A separate grounding model is trained with reinforcement learning to map selected proposals to visual targets, linking planning-time search with click localization.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-05791/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-05791/
 - Original source: https://arxiv.org/abs/2507.05791
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GTA1 samples multiple action proposals at each GUI step and uses a judge to sele
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05791/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-05791/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yan Yang, Dongxu Li, Yutong Dai, Yuhao Yang, Ziyang Luo, Zirui Zhao, Zhiyuan Hu,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05791/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05791/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-05791/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-05791/citation.csl.json
 
 ## Recorded arXiv snapshot
 

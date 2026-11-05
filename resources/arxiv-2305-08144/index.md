@@ -2,7 +2,7 @@
 
 Provides an Android benchmark toolkit with controlled environments, intermediate feedback, and task sets for reproducible GUI-agent evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2305-08144/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2305-08144/
 - Original source: https://arxiv.org/abs/2305.08144
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Provides an Android benchmark toolkit with controlled environments, intermediate
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-08144/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2305-08144/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Danyang Zhang, Zhennan Shen, Rui Xie, Situo Zhang, Tianbao Xie, Zihan Zhao, Siyu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-08144/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-08144/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2305-08144/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2305-08144/citation.csl.json
 
 ## Recorded arXiv snapshot
 

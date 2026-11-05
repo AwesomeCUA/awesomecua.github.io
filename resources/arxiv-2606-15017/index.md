@@ -2,7 +2,7 @@
 
 Compares online skill and memory augmentations with a vanilla web agent given the same total inference-token budget. Across WebArena and WorkArena settings, it studies when module overhead removes aggregate gains and how rerun variability changes conclusions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-15017/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-15017/
 - Original source: https://arxiv.org/abs/2606.15017
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares online skill and memory augmentations with a vanilla web agent given th
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-15017/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-15017/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-15017/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-15017/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-15017/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-15017/citation.csl.json
 
 ## Recorded arXiv snapshot
 

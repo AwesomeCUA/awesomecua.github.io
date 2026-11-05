@@ -2,7 +2,7 @@
 
 DRS-GUI searches screenshot regions through focus, shift and scatter operations selected by a tree-search planner. A region-quality reward guides this training-free perceptual search before final GUI grounding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-15542/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-15542/
 - Original source: https://arxiv.org/abs/2605.15542
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DRS-GUI searches screenshot regions through focus, shift and scatter operations 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-15542/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-15542/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yichao Liu, Huawen Shen, Liu Yu, Shiyu Liu, Zeyu Chen, Yu Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-15542/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-15542/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-15542/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-15542/citation.csl.json
 
 ## Recorded arXiv snapshot
 

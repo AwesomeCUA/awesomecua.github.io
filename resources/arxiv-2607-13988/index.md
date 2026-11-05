@@ -2,7 +2,7 @@
 
 Bibliographic record for TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-13988/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-13988/
 - Original source: https://arxiv.org/abs/2607.13988
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for TRACE: Turn-level Reward Assignment via Credit Estimati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-13988/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-13988/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Leitian Tao, Baolin Peng, Wenlin Yao, Tao Ge, Hao Cheng, Mike Hang Wang, Jianfen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-13988/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-13988/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-13988/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-13988/citation.csl.json
 
 ## Recorded arXiv snapshot
 

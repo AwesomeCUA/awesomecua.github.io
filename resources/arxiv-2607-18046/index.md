@@ -2,7 +2,7 @@
 
 Introduces SEE, which first explores mobile interfaces to build a screen-and-element transition graph, then composes task trajectories through graph planning and controlled sampling. It studies coverage, loop avoidance, and transfer after training agents on the generated sequences.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-18046/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-18046/
 - Original source: https://arxiv.org/abs/2607.18046
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SEE, which first explores mobile interfaces to build a screen-and-ele
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-18046/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-18046/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhuohang Fan, Beichen Zhang, Yuanfa Li, Changqiao Wu, Wei Liu, Jian Luan, Weigan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-18046/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-18046/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-18046/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-18046/citation.csl.json
 
 ## Recorded arXiv snapshot
 

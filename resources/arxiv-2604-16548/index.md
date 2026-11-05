@@ -2,7 +2,7 @@
 
 Organizes security risks and defenses for persistent agent memory into six lifecycle phases and proposes five verifiable governance primitives.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-16548/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-16548/
 - Original source: https://arxiv.org/abs/2604.16548
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Organizes security risks and defenses for persistent agent memory into six lifec
 
 Adjacent memory-security survey. Full-text Sections 3.1 and 3.3 discuss poisoned web observations persisted into later agent actions; the work is broader than GUI agents and does not establish a platform implementation.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-16548/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-16548/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zehao Lin, Xixuan Hao, Renyu Fu, Shaobo Cui, Kai Chen, Chunyu Li, Zhiyu Li, Feiy
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-16548/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-16548/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-16548/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-16548/citation.csl.json
 
 ## Recorded arXiv snapshot
 

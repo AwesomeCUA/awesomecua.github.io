@@ -2,7 +2,7 @@
 
 ExpSeek uses step-level entropy signals to decide when a web agent should request experience-based guidance. It supplies guidance tailored to the current step and evaluates the intervention across web-agent benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-08605/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-08605/
 - Original source: https://arxiv.org/abs/2601.08605
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ExpSeek uses step-level entropy signals to decide when a web agent should reques
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-08605/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-08605/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenyuan Zhang, Xinghua Zhang, Haiyang Yu, Shuaiyi Nie, Bingli Wu, Juwei Yue, Tin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-08605/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-08605/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-08605/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-08605/citation.csl.json
 
 ## Recorded arXiv snapshot
 

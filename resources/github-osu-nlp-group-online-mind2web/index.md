@@ -2,7 +2,7 @@
 
 300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-online-mind2web/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/
 - Original source: https://github.com/OSU-NLP-Group/Online-Mind2Web
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-online-mind2web/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Trains web agents with an evolving task curriculum, outcome supervision, and reinforcement-learning updates intended to manage policy drift.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-02337/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-02337/
 - Original source: https://arxiv.org/abs/2411.02337
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains web agents with an evolving task curriculum, outcome supervision, and rei
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-02337/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-02337/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zehan Qi, Xiao Liu, Iat Long Iong, Hanyu Lai, Xueqiao Sun, Wenyi Zhao, Yu Yang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-02337/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-02337/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-02337/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-02337/citation.csl.json
 
 ## Recorded arXiv snapshot
 

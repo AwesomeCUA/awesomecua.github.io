@@ -2,7 +2,7 @@
 
 Training and inference implementation that predicts an executable-region mask and derives a GUI click from that mask.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-jcwang0602-seg2click/
+- Catalog URL: https://awesomecua.com/resources/github-jcwang0602-seg2click/
 - Original source: https://github.com/jcwang0602/Seg2Click
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Training and inference implementation that predicts an executable-region mask an
 
 The repository provides training, evaluation, and a custom mask decoder. Its code license does not determine the licenses of the five model checkpoints. No model execution was performed.
 
-- Record JSON: https://awesomecua.github.io/resources/github-jcwang0602-seg2click/record.json
+- Record JSON: https://awesomecua.com/resources/github-jcwang0602-seg2click/record.json
 
 ## License declarations
 

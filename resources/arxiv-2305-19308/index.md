@@ -2,7 +2,7 @@
 
 Introduces SheetCopilot, an agent that steers spreadsheet software via atomic virtual APIs, along with a 221-task spreadsheet manipulation benchmark.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2305-19308/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2305-19308/
 - Original source: https://arxiv.org/abs/2305.19308
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SheetCopilot, an agent that steers spreadsheet software via atomic vi
 
 The contribution was reviewed from the retained paper abstract. The original Windows/Excel implementation is identified in the separately retained project README; the later Ubuntu evaluator is not treated as a paper result. No results were independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-19308/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2305-19308/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongxin Li, Jingran Su, Yuntao Chen, Qing Li, Zhaoxiang Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-19308/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-19308/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2305-19308/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2305-19308/citation.csl.json
 
 ## Recorded arXiv snapshot
 

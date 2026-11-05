@@ -2,7 +2,7 @@
 
 Bibliographic record for SOA-based reservoir computing using up-sampling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-02117/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-02117/
 - Original source: https://arxiv.org/abs/2407.02117
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SOA-based reservoir computing using up-sampling. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-02117/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-02117/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ E. Manuylovich, A. E. Bednyakova, D. A. Ivoilov, I. S. Terekhov, S. K. Turitsyn
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-02117/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-02117/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-02117/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-02117/citation.csl.json
 
 ## Recorded arXiv snapshot
 

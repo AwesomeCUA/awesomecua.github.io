@@ -2,7 +2,7 @@
 
 Bibliographic record for Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-06771/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-06771/
 - Original source: https://arxiv.org/abs/2412.06771
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Proactive Agents for Multi-Turn Text-to-Image Generatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-06771/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-06771/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-06771/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-06771/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-06771/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-06771/citation.csl.json
 
 ## Recorded arXiv snapshot
 

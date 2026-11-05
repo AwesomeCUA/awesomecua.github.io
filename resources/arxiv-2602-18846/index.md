@@ -2,7 +2,7 @@
 
 Bibliographic record for DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-18846/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-18846/
 - Original source: https://arxiv.org/abs/2602.18846
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for DUET-VLM: Dual stage Unified Efficient Token reduction 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-18846/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-18846/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Aditya Kumar Singh, Hitesh Kandala, Pratik Prabhanjan Brahma, Zicheng Liu, Emad 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-18846/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-18846/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-18846/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-18846/citation.csl.json
 
 ## Recorded arXiv snapshot
 

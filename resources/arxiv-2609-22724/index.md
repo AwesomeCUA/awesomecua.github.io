@@ -2,7 +2,7 @@
 
 Bibliographic record for MATE: Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven Trajectory Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-22724/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-22724/
 - Original source: https://arxiv.org/abs/2609.22724
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MATE: Policy-Aware Security Auditing for Mobile Agents 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-22724/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-22724/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Changyue Jiang, Jiayi Wang, Xin Wen, Jiarun Dai, Geng Hong, Xudong Pan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-22724/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-22724/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-22724/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-22724/citation.csl.json
 
 ## Recorded arXiv snapshot
 

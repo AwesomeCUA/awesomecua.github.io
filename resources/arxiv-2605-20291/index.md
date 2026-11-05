@@ -2,7 +2,7 @@
 
 Weasel selects web-agent training steps by balancing importance and diversity across states, sites and interaction patterns. It also prunes training accessibility trees around known action targets and regenerates rationales to match the model’s reasoning style.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-20291/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-20291/
 - Original source: https://arxiv.org/abs/2605.20291
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Weasel selects web-agent training steps by balancing importance and diversity ac
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-20291/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-20291/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fatemeh Pesaran Zadeh, Seyeon Choi, Xing Han Lù, Siva Reddy, Gunhee Kim
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-20291/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-20291/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-20291/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-20291/citation.csl.json
 
 ## Recorded arXiv snapshot
 

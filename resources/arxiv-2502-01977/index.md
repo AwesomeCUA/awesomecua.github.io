@@ -2,7 +2,7 @@
 
 Infers element functionality from UI changes before and after interaction to produce verified annotations for grounding-model training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-01977/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-01977/
 - Original source: https://arxiv.org/abs/2502.01977
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Infers element functionality from UI changes before and after interaction to pro
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-01977/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-01977/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongxin Li, Jingfan Chen, Jingran Su, Yuntao Chen, Qing Li, Zhaoxiang Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-01977/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-01977/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-01977/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-01977/citation.csl.json
 
 ## Recorded arXiv snapshot
 

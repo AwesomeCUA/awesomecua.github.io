@@ -2,7 +2,7 @@
 
 Bibliographic record for CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-12268/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-12268/
 - Original source: https://arxiv.org/abs/2602.12268
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CM2: Reinforcement Learning with Checklist Rewards for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-12268/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-12268/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhen Zhang, Kaiqiang Song, Xun Wang, Yebowen Hu, Weixiang Yan, Chenyang Zhao, He
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-12268/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-12268/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-12268/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-12268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

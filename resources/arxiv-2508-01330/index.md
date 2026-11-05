@@ -2,7 +2,7 @@
 
 NaturalGAIA builds verifiable long-horizon GUI tasks from human interaction intents while separating causal task structure from its verbal description. Its LightManus-Jarvis framework divides dynamic planning and context management from execution based on visual and structural interface information.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-01330/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-01330/
 - Original source: https://arxiv.org/abs/2508.01330
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ NaturalGAIA builds verifiable long-horizon GUI tasks from human interaction inte
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-01330/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-01330/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zihan Zheng, Tianle Cui, Taoran Wang, Fengtao Wang, Jiahui Pan, Lewei He, Qiangl
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-01330/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-01330/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-01330/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-01330/citation.csl.json
 
 ## Recorded arXiv snapshot
 

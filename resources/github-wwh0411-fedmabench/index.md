@@ -2,7 +2,7 @@
 
 A federated mobile-agent training and evaluation suite that varies user-data heterogeneity and application distribution, with released partition annotations and inference/scoring scripts.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-wwh0411-fedmabench/
+- Catalog URL: https://awesomecua.com/resources/github-wwh0411-fedmabench/
 - Original source: https://github.com/wwh0411/FedMABench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ A federated mobile-agent training and evaluation suite that varies user-data het
 
 The public Hub lists six dataset families of JSON/JSONL partition annotations. The repository explicitly says unpacked screenshots are not provided and must be reconstructed from original AndroidControl and AITW sources. This is offline training/evaluation infrastructure rather than a live Android task environment. No repository license file or dataset-license declaration was found in the inspected sources; neither is inferred from the underlying ms-swift project.
 
-- Record JSON: https://awesomecua.github.io/resources/github-wwh0411-fedmabench/record.json
+- Record JSON: https://awesomecua.com/resources/github-wwh0411-fedmabench/record.json
 
 ## Structured profile
 

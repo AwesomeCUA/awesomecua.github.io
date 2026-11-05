@@ -2,7 +2,7 @@
 
 MobileUse reflects on errors at action and task timescales, invoking reflection when needed and using proactive exploration to learn unfamiliar apps. It evaluates this mobile execution framework on AndroidWorld and AndroidLab and describes a toolkit for physical-device operation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-16853/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-16853/
 - Original source: https://arxiv.org/abs/2507.16853
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileUse reflects on errors at action and task timescales, invoking reflection 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-16853/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-16853/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ning Li, Xiangmou Qu, Jiamu Zhou, Jun Wang, Muning Wen, Kounianhua Du, Xingyu Lo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-16853/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-16853/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-16853/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-16853/citation.csl.json
 
 ## Recorded arXiv snapshot
 

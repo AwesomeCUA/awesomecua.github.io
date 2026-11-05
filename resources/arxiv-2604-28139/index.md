@@ -2,7 +2,7 @@
 
 Bibliographic record for Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-28139/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-28139/
 - Original source: https://arxiv.org/abs/2604.28139
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Claw-Eval-Live: A Live Agent Benchmark for Evolving Rea
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-28139/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-28139/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chenxin Li, Zhengyang Tang, Mingxin Huang, Yunlong Lin, Shijue Huang, Shengyuan 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-28139/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-28139/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-28139/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-28139/citation.csl.json
 
 ## Recorded arXiv snapshot
 

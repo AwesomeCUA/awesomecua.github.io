@@ -2,7 +2,7 @@
 
 Combines multimodal web interaction with a real-website task collection and an automated evaluation protocol.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-13919/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-13919/
 - Original source: https://arxiv.org/abs/2401.13919
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines multimodal web interaction with a real-website task collection and an a
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-13919/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-13919/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-13919/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-13919/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-13919/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-13919/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzh
 - Authors: Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu
 - Publication date (recorded precision): 2024-08
 - Publication source: https://aclanthology.org/2024.acl-long.371/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2401-13919/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-13919/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2401-13919/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2401-13919/publication-citation.csl.json
 - venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 6864-6890

@@ -2,7 +2,7 @@
 
 Bibliographic record for AgenticGen: Reward-Guided Agentic Video Generation for Advertising. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-09187/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-09187/
 - Original source: https://arxiv.org/abs/2609.09187
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgenticGen: Reward-Guided Agentic Video Generation for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-09187/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-09187/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xingyuan Bu, Chengru Song, Hao Zhou, Tao Zhou, Dong Li, Wei Li, Shilong Li, Hao 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-09187/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-09187/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-09187/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-09187/citation.csl.json
 
 ## Recorded arXiv snapshot
 

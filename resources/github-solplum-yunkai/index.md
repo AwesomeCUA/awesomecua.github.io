@@ -2,7 +2,7 @@
 
 Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-solplum-yunkai/
+- Catalog URL: https://awesomecua.com/resources/github-solplum-yunkai/
 - Original source: https://github.com/solplum/yunkai
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Android phone assistant combining model-driven tool use with accessibility-tree 
 
 The Android AccessibilityService contains concrete screen-reading and action paths. The inspected HarmonyOS accessibility extension is a lifecycle/event scaffold with its screen-content probe disabled; HDC appears in an external UI-test driver, so Harmony GUI-control parity is not established by this review. Setup requires a configured OpenAI-compatible model endpoint and API key: local storage does not establish offline inference or a no-transmission guarantee. Documented approval and privacy mechanisms are not independently tested security guarantees. No app, device test or model inference was run.
 
-- Record JSON: https://awesomecua.github.io/resources/github-solplum-yunkai/record.json
+- Record JSON: https://awesomecua.com/resources/github-solplum-yunkai/record.json
 
 ## License declarations
 

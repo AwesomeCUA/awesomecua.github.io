@@ -2,7 +2,7 @@
 
 Evaluates multi-turn PowerPoint creation and editing, scoring the resulting presentation files rather than requiring a fixed API sequence.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2311-01767/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2311-01767/
 - Original source: https://arxiv.org/abs/2311.01767
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates multi-turn PowerPoint creation and editing, scoring the resulting pres
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-01767/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2311-01767/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yiduo Guo, Zekai Zhang, Yaobo Liang, Dongyan Zhao, Nan Duan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-01767/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-01767/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2311-01767/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2311-01767/citation.csl.json
 
 ## Recorded arXiv snapshot
 

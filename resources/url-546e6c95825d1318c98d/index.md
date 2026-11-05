@@ -2,7 +2,7 @@
 
 Mobile-agent supervision from emulator and simulator trajectories, plus executable tasks with starting states and success checks for reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-546e6c95825d1318c98d/
+- Catalog URL: https://awesomecua.com/resources/url-546e6c95825d1318c98d/
 - Original source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Mobile-agent supervision from emulator and simulator trajectories, plus executab
 
 The reviewed card contains no explicit license declaration, so data-license status remains unknown. The repository code license is not inherited. The current code README points to the v2 dataset; an older project-page URL was not counted as a separate asset.
 
-- Record JSON: https://awesomecua.github.io/resources/url-546e6c95825d1318c98d/record.json
+- Record JSON: https://awesomecua.com/resources/url-546e6c95825d1318c98d/record.json
 
 ## Structured profile
 

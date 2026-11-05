@@ -2,7 +2,7 @@
 
 Bibliographic record for Progress towards practical qubit computation using approximate Gottesman-Kitaev-Preskill codes. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1910-03673/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1910-03673/
 - Original source: https://arxiv.org/abs/1910.03673
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Progress towards practical qubit computation using appr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1910-03673/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1910-03673/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ilan Tzitrin, J. Eli Bourassa, Nicolas C. Menicucci, Krishna Kumar Sabapathy
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1910-03673/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1910-03673/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1910-03673/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1910-03673/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Builds MultiUI by generating instructions from webpage accessibility trees and pairing them with screenshots for multimodal training. Evaluation examines web-interface understanding, including VisualWebBench and Mind2Web, and transfer to other text-rich visual tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-13824/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-13824/
 - Original source: https://arxiv.org/abs/2410.13824
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds MultiUI by generating instructions from webpage accessibility trees and p
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-13824/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-13824/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Ch
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-13824/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-13824/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-13824/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-13824/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Ch
 - Authors: Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Chen, Graham Neubig, Xiang Yue
 - Publication date (recorded precision): 2025-05-01
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2025/hash/2da53cd1abdae59150e35f4693834f32-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-13824/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-13824/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-13824/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-13824/publication-citation.csl.json
 - venue: International Conference on Learning Representations
 - volume: 2025
 - pages: 17971-18005

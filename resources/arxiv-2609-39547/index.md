@@ -2,7 +2,7 @@
 
 Combines structured GUI exploration with training designed to tolerate imperfect retrieved experience. It builds state-transition graphs and synthetic task trajectories, then injects realistic forms of interface drift so agents learn when to rely on or reject prior guidance.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-39547/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-39547/
 - Original source: https://arxiv.org/abs/2609.39547
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines structured GUI exploration with training designed to tolerate imperfect
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-39547/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-39547/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bo Han, Qianyi Wang, Shuai Liu, Xiong Zifan, Changqiao Wu, Yuanfa Li, Pengzhi Ga
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-39547/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-39547/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-39547/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-39547/citation.csl.json
 
 ## Recorded arXiv snapshot
 

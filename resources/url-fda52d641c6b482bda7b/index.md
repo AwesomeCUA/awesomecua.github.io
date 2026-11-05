@@ -2,7 +2,7 @@
 
 Sandbox infrastructure for executing agent workloads.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-fda52d641c6b482bda7b/
+- Catalog URL: https://awesomecua.com/resources/url-fda52d641c6b482bda7b/
 - Original source: https://e2b.dev/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Sandbox infrastructure for executing agent workloads.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-fda52d641c6b482bda7b/record.json
+- Record JSON: https://awesomecua.com/resources/url-fda52d641c6b482bda7b/record.json
 
 ## License declarations
 

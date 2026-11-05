@@ -2,7 +2,7 @@
 
 Portable agent instructions and integration tooling for local or cloud phone control through mobilerun-core.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-droidrun-mobile-harness/
+- Catalog URL: https://awesomecua.com/resources/github-droidrun-mobile-harness/
 - Original source: https://github.com/droidrun/mobile-harness
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Portable agent instructions and integration tooling for local or cloud phone con
 
 The publisher describes this as a Markdown harness, not an agent runtime. Published benchmark results have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/github-droidrun-mobile-harness/record.json
+- Record JSON: https://awesomecua.com/resources/github-droidrun-mobile-harness/record.json
 
 ## License declarations
 

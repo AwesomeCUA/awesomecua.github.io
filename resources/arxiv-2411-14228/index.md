@@ -2,7 +2,7 @@
 
 Bibliographic record for FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-14228/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-14228/
 - Original source: https://arxiv.org/abs/2411.14228
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for FocusLLaVA: A Coarse-to-Fine Approach for Efficient and
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-14228/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-14228/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuke Zhu, Chi Xie, Shuang Liang, Bo Zheng, Sheng Guo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-14228/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-14228/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-14228/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-14228/citation.csl.json
 
 ## Recorded arXiv snapshot
 

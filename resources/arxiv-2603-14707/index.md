@@ -2,7 +2,7 @@
 
 Formalizes a visual confused-deputy failure in which a computer agent acts on a misperceived UI object. A separate guardrail checks both the visual target and the agent's action reasoning against deployment-specific knowledge before permitting execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-14707/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-14707/
 - Original source: https://arxiv.org/abs/2603.14707
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Formalizes a visual confused-deputy failure in which a computer agent acts on a 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-14707/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-14707/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xunzhuo Liu, Bowei He, Xue Liu, Andy Luo, Haichen Zhang, Huamin Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-14707/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-14707/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-14707/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-14707/citation.csl.json
 
 ## Recorded arXiv snapshot
 

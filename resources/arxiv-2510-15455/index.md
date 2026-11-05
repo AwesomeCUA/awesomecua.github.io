@@ -2,7 +2,7 @@
 
 Introduces CORE, which divides mobile UI hierarchies into semantic blocks and shares planning between local and cloud language models. Local ranking limits the screen information sent for cloud-side element selection, with a multi-round mechanism for correcting inadequate context.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-15455/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-15455/
 - Original source: https://arxiv.org/abs/2510.15455
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CORE, which divides mobile UI hierarchies into semantic blocks and sh
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. XML screen hierarchies do not by themselves establish Android deployment.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-15455/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-15455/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gucongcong Fan, Chaoyue Niu, Chengfei Lyu, Fan Wu, Guihai Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-15455/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-15455/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-15455/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-15455/citation.csl.json
 
 ## Recorded arXiv snapshot
 

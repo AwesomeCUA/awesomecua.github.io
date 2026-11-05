@@ -2,7 +2,7 @@
 
 Bibliographic record for GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-36877/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-36877/
 - Original source: https://arxiv.org/abs/2610.36877
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-36877/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-36877/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bingchao Wang, Yongcheng Jing, Shunyu Liu, Chengyu Wang, Jun Huang, Jie Yang, We
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-36877/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-36877/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-36877/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-36877/citation.csl.json
 
 ## Recorded arXiv snapshot
 

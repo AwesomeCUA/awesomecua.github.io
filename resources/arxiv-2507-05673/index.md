@@ -2,7 +2,7 @@
 
 R-VLM localizes GUI elements through zoomed-in region proposals and an intersection-over-union-aware training objective. It evaluates the grounding model on ScreenSpot and AgentStudio and studies its effect on navigation in AITW and Mind2Web.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-05673/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-05673/
 - Original source: https://arxiv.org/abs/2507.05673
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ R-VLM localizes GUI elements through zoomed-in region proposals and an intersect
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05673/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-05673/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Joonhyung Park, Peng Tang, Sagnik Das, Srikar Appalaraju, Kunwar Yashraj Singh, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05673/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05673/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-05673/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-05673/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-05013/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-05013/
 - Original source: https://arxiv.org/abs/2608.05013
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for OneDayAgent: Towards a Long-Horizon Harness for Autonom
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-05013/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-05013/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingsheng Zheng, Xinyuan Fang, Jintian Zhang, Zhengke Gui, Huajun Chen, Ningyu Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-05013/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-05013/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-05013/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-05013/citation.csl.json
 
 ## Recorded arXiv snapshot
 

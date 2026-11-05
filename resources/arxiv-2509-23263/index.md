@@ -2,7 +2,7 @@
 
 GUI-PRA evaluates GUI progress by generating task-specific criteria and actively inspecting visual evidence with tools. It tests offline judgment on OS-Critic Bench and the effects of this feedback on online mobile policies in AndroidWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-23263/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-23263/
 - Original source: https://arxiv.org/abs/2509.23263
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-PRA evaluates GUI progress by generating task-specific criteria and actively
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-23263/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-23263/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tao Xiong, Xavier Hu, Yurun Chen, Yuhang Liu, Changqiao Wu, Pengzhi Gao, Wei Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-23263/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-23263/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-23263/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-23263/citation.csl.json
 
 ## Recorded arXiv snapshot
 

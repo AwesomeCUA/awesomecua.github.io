@@ -2,7 +2,7 @@
 
 Web-interface grounding examples with instructions, element boxes and points, paired with a separately packaged screenshot archive.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-8933977bb0a57940ed23/
+- Catalog URL: https://awesomecua.com/resources/url-8933977bb0a57940ed23/
 - Original source: https://huggingface.co/datasets/showlab/ShowUI-web
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Web-interface grounding examples with instructions, element boxes and points, pa
 
 Public Parquet annotations, metadata JSON and images.tar.gz are present. The card refers to image.tar.gz in its extraction command, while the actual archive is plural. No data-license declaration is present; the ShowUI code or model licenses are not inherited.
 
-- Record JSON: https://awesomecua.github.io/resources/url-8933977bb0a57940ed23/record.json
+- Record JSON: https://awesomecua.com/resources/url-8933977bb0a57940ed23/record.json
 
 ## Structured profile
 

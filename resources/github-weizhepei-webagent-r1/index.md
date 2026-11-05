@@ -2,7 +2,7 @@
 
 Environment setup, multi-turn reinforcement-learning and evaluation tooling for browser agents interacting with WebArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-weizhepei-webagent-r1/
+- Catalog URL: https://awesomecua.com/resources/github-weizhepei-webagent-r1/
 - Original source: https://github.com/weizhepei/WebAgent-R1
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Environment setup, multi-turn reinforcement-learning and evaluation tooling for 
 
 The implementation is inside the WebAgent-R1 subdirectory and includes training, evaluation and WebArena setup components. Root source licensing is Apache-2.0. No downloadable author checkpoint was established by the reviewed README, so this entry represents code.
 
-- Record JSON: https://awesomecua.github.io/resources/github-weizhepei-webagent-r1/record.json
+- Record JSON: https://awesomecua.com/resources/github-weizhepei-webagent-r1/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Benchmark of semantic world modeling for mobile agents, with question-answering tasks and GPT-judged generation tasks, plus training data built on AitW and AndroidControl screens.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-jacklishufan-mobileworld/
+- Catalog URL: https://awesomecua.com/resources/github-jacklishufan-mobileworld/
 - Original source: https://github.com/jacklishufan/MobileWorld
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Benchmark of semantic world modeling for mobile agents, with question-answering 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-jacklishufan-mobileworld/record.json
+- Record JSON: https://awesomecua.com/resources/github-jacklishufan-mobileworld/record.json
 
 ## License declarations
 

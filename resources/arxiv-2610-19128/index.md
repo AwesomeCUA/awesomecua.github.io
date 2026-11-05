@@ -2,7 +2,7 @@
 
 Introduces CLASHarness, generating verifiable computer-use tasks with conflicting agent reports, shared-state constraints, and coordination requirements to evaluate conflict detection and resolution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-19128/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-19128/
 - Original source: https://arxiv.org/abs/2610.19128
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CLASHarness, generating verifiable computer-use tasks with conflictin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-19128/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-19128/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxiang Lai, Jike Zhong, Chengzhi Liu, Ming Li, Haonan Wang, Xiaofeng Yang, Lian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-19128/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-19128/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-19128/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-19128/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 UltraCUA trains a shared policy for primitive GUI actions and high-level tool calls using synthesized tasks and hybrid trajectories. Supervised fine-tuning followed by online reinforcement learning is evaluated on OSWorld and WindowsAgentArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-17790/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-17790/
 - Original source: https://arxiv.org/abs/2510.17790
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UltraCUA trains a shared policy for primitive GUI actions and high-level tool ca
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-17790/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-17790/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhao Yang, Zhen Yang, Zi-Yi Dou, Anh Nguyen, Keen You, Omar Attia, Andrew Szot,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-17790/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-17790/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-17790/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-17790/citation.csl.json
 
 ## Recorded arXiv snapshot
 

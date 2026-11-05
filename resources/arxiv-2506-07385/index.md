@@ -2,7 +2,7 @@
 
 Introduces GUIPilot, which compares mobile design mock-ups with implemented screens through widget alignment and tests expected transitions by executing inferred UI actions. It evaluates both visual inconsistencies and workflow-specific bugs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-07385/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-07385/
 - Original source: https://arxiv.org/abs/2506.07385
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUIPilot, which compares mobile design mock-ups with implemented scre
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-07385/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-07385/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruofan Liu, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, Jin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-07385/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-07385/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-07385/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-07385/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 EcoAgent splits mobile automation between cloud planning and on-device observation and verification. Compact screen descriptions and feedback reduce communication costs, with evaluation on AndroidWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-05440/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-05440/
 - Original source: https://arxiv.org/abs/2505.05440
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ EcoAgent splits mobile automation between cloud planning and on-device observati
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-05440/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-05440/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Biao Yi, Xavier Hu, Yurun Chen, Shengyu Zhang, Hongxia Yang, Fan Wu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-05440/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-05440/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-05440/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-05440/citation.csl.json
 
 ## Recorded arXiv snapshot
 

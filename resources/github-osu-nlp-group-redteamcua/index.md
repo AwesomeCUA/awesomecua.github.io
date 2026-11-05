@@ -2,7 +2,7 @@
 
 A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-redteamcua/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-redteamcua/
 - Original source: https://github.com/OSU-NLP-Group/RedTeamCUA
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ A controlled testing framework that combines desktop virtual machines and replic
 
 The release includes environment code, adversarial scenario configuration and RTC-Bench task-generation assets. The project declares Apache-2.0, while incorporated environments retain their licenses. It distinguishes full task runs from tests initialized at injection locations; those settings must not be treated as interchangeable results.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-redteamcua/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-redteamcua/record.json
 
 ## License declarations
 

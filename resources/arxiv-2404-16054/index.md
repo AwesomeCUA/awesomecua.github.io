@@ -2,7 +2,7 @@
 
 LlamaTouch executes mobile tasks on devices and evaluates whether an agent visits manually annotated essential application or system states. Screenshot and hierarchy annotations, combined with exact and fuzzy state matching, support evaluation of 496 tasks across multiple agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-16054/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-16054/
 - Original source: https://arxiv.org/abs/2404.16054
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LlamaTouch executes mobile tasks on devices and evaluates whether an agent visit
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-16054/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-16054/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Li Zhang, Shihe Wang, Xianqing Jia, Zhihan Zheng, Yunhe Yan, Longxi Gao, Yuanchu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-16054/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-16054/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-16054/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-16054/citation.csl.json
 
 ## Recorded arXiv snapshot
 

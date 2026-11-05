@@ -2,7 +2,7 @@
 
 Bibliographic record for PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-02240/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-02240/
 - Original source: https://arxiv.org/abs/2605.02240
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PhysicianBench: Evaluating LLM Agents in Real-World EHR
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-02240/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-02240/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruoqi Liu, Imran Q. Mohiuddin, Austin J. Schoeffler, Kavita Renduchintala, Ashwi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-02240/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-02240/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-02240/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-02240/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 An end-to-end web-testing benchmark where agents derive test checklists from development instructions, interact with deployed applications and report functional or constraint-related defects.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-friedrichor-webtestbench/
+- Catalog URL: https://awesomecua.com/resources/github-friedrichor-webtestbench/
 - Original source: https://github.com/friedrichor/WebTestBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ An end-to-end web-testing benchmark where agents derive test checklists from dev
 
 Public evaluation/deployment scripts accompany an ungated Hub release with JSON/JSONL metadata and 100 application ZIP files. The ZIP count is an artifact inventory, not an asserted test-case or defect count. The documented baseline uses Claude Agent SDK and a pinned Playwright MCP version with external model credentials; these were not installed or run. Code and data Apache-2.0 declarations are retained separately.
 
-- Record JSON: https://awesomecua.github.io/resources/github-friedrichor-webtestbench/record.json
+- Record JSON: https://awesomecua.com/resources/github-friedrichor-webtestbench/record.json
 
 ## Structured profile
 

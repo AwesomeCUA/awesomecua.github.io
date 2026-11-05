@@ -2,7 +2,7 @@
 
 Reinforcement-learning infrastructure for computer-use agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-thudm-computerrl/
+- Catalog URL: https://awesomecua.com/resources/github-thudm-computerrl/
 - Original source: https://github.com/THUDM/ComputerRL
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Reinforcement-learning infrastructure for computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-thudm-computerrl/record.json
+- Record JSON: https://awesomecua.com/resources/github-thudm-computerrl/record.json
 
 ## License declarations
 

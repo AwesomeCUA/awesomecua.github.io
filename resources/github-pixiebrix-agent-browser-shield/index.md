@@ -2,7 +2,7 @@
 
 Browser extension for filtering potentially unsafe agent input.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-pixiebrix-agent-browser-shield/
+- Catalog URL: https://awesomecua.com/resources/github-pixiebrix-agent-browser-shield/
 - Original source: https://github.com/pixiebrix/agent-browser-shield
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Browser extension for filtering potentially unsafe agent input.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-pixiebrix-agent-browser-shield/record.json
+- Record JSON: https://awesomecua.com/resources/github-pixiebrix-agent-browser-shield/record.json
 
 ## License declarations
 

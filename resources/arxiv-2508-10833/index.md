@@ -2,7 +2,7 @@
 
 Studies screenshot-based GUI grounding and navigation using curated interaction data, reward design, and reinforcement fine-tuning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-10833/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-10833/
 - Original source: https://arxiv.org/abs/2508.10833
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies screenshot-based GUI grounding and navigation using curated interaction 
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-10833/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-10833/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhangxuan Gu, Zhengwen Zeng, Zhenyu Xu, Xingran Zhou, Shuheng Shen, Yunfei Liu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-10833/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-10833/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-10833/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-10833/citation.csl.json
 
 ## Recorded arXiv snapshot
 

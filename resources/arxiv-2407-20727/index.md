@@ -2,7 +2,7 @@
 
 Bibliographic record for SceneTeller: Language-to-3D Scene Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-20727/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-20727/
 - Original source: https://arxiv.org/abs/2407.20727
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SceneTeller: Language-to-3D Scene Generation. Title, au
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-20727/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-20727/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Başak Melis Öcal, Maxim Tatarchenko, Sezer Karaoglu, Theo Gevers
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-20727/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-20727/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-20727/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-20727/citation.csl.json
 
 ## Recorded arXiv snapshot
 

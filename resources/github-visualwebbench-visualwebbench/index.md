@@ -2,7 +2,7 @@
 
 Evaluation of multimodal models on visual web understanding tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-visualwebbench-visualwebbench/
+- Catalog URL: https://awesomecua.com/resources/github-visualwebbench-visualwebbench/
 - Original source: https://github.com/VisualWebBench/VisualWebBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Evaluation of multimodal models on visual web understanding tasks.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-visualwebbench-visualwebbench/record.json
+- Record JSON: https://awesomecua.com/resources/github-visualwebbench-visualwebbench/record.json
 
 ## License declarations
 

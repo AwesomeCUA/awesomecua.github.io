@@ -2,7 +2,7 @@
 
 Bibliographic record for Plottery: A Code-Integrated GUI for Matplotlib. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-14306/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-14306/
 - Original source: https://arxiv.org/abs/2610.14306
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for Plottery: A Code-Integrated GUI for Matplotlib. Title, 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-14306/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-14306/record.json
 
 ## Recorded reviewer hold
 
 Scope hold after complete v1 main text \(Sections I–VII\) and Appendix VII\-A: Plottery is a human\-operated Jupyter plotting interface with direct manipulation, editable code and a prompt\-to\-code assistant\. Its evaluation studies people switching modalities; the inspected method does not establish an agent observing or operating the GUI, or a CUA execution/recording interface\. Need explicit agent interaction or directly used CUA\-support evidence before core/adjacent inclusion\. Preserve the metadata record; no scope exclusion is proposed\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Brian Hempel, Ruanqianqian Huang, Devamardeep Hayatpur, Sorin Lerner, Haijun Xia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-14306/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-14306/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-14306/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-14306/citation.csl.json
 
 ## Recorded arXiv snapshot
 

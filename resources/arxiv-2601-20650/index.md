@@ -2,7 +2,7 @@
 
 Introduces OS-Marathon to evaluate long repetitive computer-use workflows whose execution grows with the amount of input data. It studies failure accumulation under task decomposition and GraphDemo, which adapts agents using a demonstration of the recurring workflow.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-20650/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-20650/
 - Original source: https://arxiv.org/abs/2601.20650
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces OS-Marathon to evaluate long repetitive computer-use workflows whose 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-20650/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-20650/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jing Wu, Wenjie Ai, Daphne Barretto, Yiye Chen, Qingyu Chen, Yuhang He, Pranit C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-20650/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-20650/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-20650/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-20650/citation.csl.json
 
 ## Recorded arXiv snapshot
 

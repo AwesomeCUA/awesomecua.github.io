@@ -2,7 +2,7 @@
 
 Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium browser tools, screenshot callbacks and example web-navigation tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-5857c840372512cfe3fc/
+- Catalog URL: https://awesomecua.com/resources/url-5857c840372512cfe3fc/
 - Original source: https://huggingface.co/docs/smolagents/examples/web_browser
 - Kind: learning
 - Review: curated
@@ -16,7 +16,7 @@ Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium brows
 
 The reviewed v1.26.0 page matches all eight code blocks in its commit-pinned Markdown source. It uses InferenceClientModel and a vision model, unlike the retained v1.8.0 example. The shown setup starts a local visible Chrome session, and its installation command does not pin dependency versions. Runtime API compatibility, model-provider access and example outcomes were not tested. The inspected repository root contains Apache-2.0 terms, but explicit applicability to this Markdown tutorial was not established from retained sources; document reuse terms remain unknown. Model weights, visited websites and hosted-service terms are separate. No installation or notebook execution occurred.
 
-- Record JSON: https://awesomecua.github.io/resources/url-5857c840372512cfe3fc/record.json
+- Record JSON: https://awesomecua.com/resources/url-5857c840372512cfe3fc/record.json
 
 ## License declarations
 

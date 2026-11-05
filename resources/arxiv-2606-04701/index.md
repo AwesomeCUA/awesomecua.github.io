@@ -2,7 +2,7 @@
 
 LivingScreen evaluates agents in a browser-based short-video environment where observing content consumes time and affects subsequent actions. Its task suite scores accuracy together with information efficiency to diagnose over- and under-observation on continuously changing screens.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-04701/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-04701/
 - Original source: https://arxiv.org/abs/2606.04701
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LivingScreen evaluates agents in a browser-based short-video environment where o
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-04701/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-04701/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiashu Yao, Heyan Huang, Daiqing Wu, Wangke Chen, Huaxi Ai, Haoyu Wen, Zeming Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-04701/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-04701/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-04701/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-04701/citation.csl.json
 
 ## Recorded arXiv snapshot
 

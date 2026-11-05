@@ -2,7 +2,7 @@
 
 H browser extension for executing tasks through website interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-4a47a6df845735984bf1/
+- Catalog URL: https://awesomecua.com/resources/url-4a47a6df845735984bf1/
 - Original source: https://hcompany.ai/newsroom/meet-holotab
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ H browser extension for executing tasks through website interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-4a47a6df845735984bf1/record.json
+- Record JSON: https://awesomecua.com/resources/url-4a47a6df845735984bf1/record.json
 
 ## License declarations
 

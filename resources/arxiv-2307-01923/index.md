@@ -2,7 +2,7 @@
 
 Bibliographic record for An Algorithm for Persistent Homology Computation Using Homomorphic Encryption. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2307-01923/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2307-01923/
 - Original source: https://arxiv.org/abs/2307.01923
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for An Algorithm for Persistent Homology Computation Using 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-01923/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2307-01923/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dominic Gold, Koray Karabina, Francis C. Motta
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-01923/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-01923/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2307-01923/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2307-01923/citation.csl.json
 
 ## Recorded arXiv snapshot
 

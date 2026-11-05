@@ -2,7 +2,7 @@
 
 Bibliographic record for SafeSearch: Automated Red-Teaming of LLM-Based Search Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-23694/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-23694/
 - Original source: https://arxiv.org/abs/2509.23694
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SafeSearch: Automated Red-Teaming of LLM-Based Search A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-23694/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-23694/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jianshuo Dong, Sheng Guo, Hao Wang, Xun Chen, Zhuotao Liu, Tianwei Zhang, Ke Xu,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-23694/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-23694/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-23694/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-23694/citation.csl.json
 
 ## Recorded arXiv snapshot
 

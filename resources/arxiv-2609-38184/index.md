@@ -2,7 +2,7 @@
 
 Evaluates interactive GUI agents under varied realistic interface noise, comparing task completion, safety, and behavior with clean-environment runs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-38184/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-38184/
 - Original source: https://arxiv.org/abs/2609.38184
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates interactive GUI agents under varied realistic interface noise, compari
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-38184/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-38184/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yongjiang Wu, Junyuan Zhang, Ada Chen, Kuiyi Gao, Wenxuan Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-38184/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-38184/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-38184/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-38184/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 ScratchWorld evaluates program construction through the Scratch interface using fine-grained drag-and-drop actions and a complementary semantic-API mode. Runtime tests assess the resulting programs, allowing analysis of the gap between program reasoning and GUI manipulation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-10814/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-10814/
 - Original source: https://arxiv.org/abs/2602.10814
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ScratchWorld evaluates program construction through the Scratch interface using 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-10814/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-10814/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xingyi Zhang, Yulei Ye, Kaifeng Huang, Wenhao Li, Xiangfeng Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-10814/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-10814/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-10814/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-10814/citation.csl.json
 
 ## Recorded arXiv snapshot
 

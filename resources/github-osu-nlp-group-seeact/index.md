@@ -2,7 +2,7 @@
 
 Generalist web agent framework for large multimodal models such as GPT-4V, with a Playwright tool that runs agents on live websites, text-choice and set-of-mark grounding, and a crawler mode.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-seeact/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-seeact/
 - Original source: https://github.com/OSU-NLP-Group/SeeAct
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Generalist web agent framework for large multimodal models such as GPT-4V, with 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-seeact/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-seeact/record.json
 
 ## License declarations
 

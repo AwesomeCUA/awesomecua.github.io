@@ -2,7 +2,7 @@
 
 Bibliographic record for AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-14030/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-14030/
 - Original source: https://arxiv.org/abs/2505.14030
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AutoBio: A Simulation and Benchmark for Robotic Automat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14030/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-14030/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhiqian Lan, Yuxuan Jiang, Ruiqi Wang, Xuanbing Xie, Rongkui Zhang, Yicheng Zhu,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14030/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14030/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-14030/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-14030/citation.csl.json
 
 ## Recorded arXiv snapshot
 

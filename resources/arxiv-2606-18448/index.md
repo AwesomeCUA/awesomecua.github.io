@@ -2,7 +2,7 @@
 
 VISUALSKILL organizes application-specific text and figures into hierarchical skills retrieved on demand through an MCP tool. Skills combine authored documentation with live UI exploration, and matched multimodal/text-only comparisons test their utility for interface identification and workflow-state verification.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-18448/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-18448/
 - Original source: https://arxiv.org/abs/2606.18448
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VISUALSKILL organizes application-specific text and figures into hierarchical sk
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-18448/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-18448/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyan Jiang, Li An, Yujian Liu, Jiabao Ji, Qiucheng Wu, Jacob Andreas, Yang Zhan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-18448/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-18448/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-18448/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-18448/citation.csl.json
 
 ## Recorded arXiv snapshot
 

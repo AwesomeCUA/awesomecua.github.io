@@ -2,7 +2,7 @@
 
 Guides UI agents with symbolic planning over a UI transition graph initialized from app-code analysis and updated through online exploration, with evaluation on AndroidWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-06042/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-06042/
 - Original source: https://arxiv.org/abs/2510.06042
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Guides UI agents with symbolic planning over a UI transition graph initialized f
 
 Planning guarantees are relative to the modeled graph and selected target. They do not establish complete graphs, correct grounding or faithful goal translation. The described design depends on static source analysis; no experiments were reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 UI Automation to Classical Planning; 4.1 UTG Builder; 4.2 Node Selector; 4.3 Plan Generator; 4.4 UI Explorer; 5.1 Datasets); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-06042/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-06042/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shang Ma, Xusheng Xiao, Yanfang Ye
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-06042/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-06042/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-06042/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-06042/citation.csl.json
 
 ## Recorded arXiv snapshot
 

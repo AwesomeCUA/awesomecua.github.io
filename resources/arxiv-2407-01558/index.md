@@ -2,7 +2,7 @@
 
 Compares modular OCR-based and end-to-end methods for locating desktop GUI targets from natural-language instructions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-01558/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-01558/
 - Original source: https://arxiv.org/abs/2407.01558
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares modular OCR-based and end-to-end methods for locating desktop GUI targe
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-01558/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-01558/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ El Hassane Ettifouri, Jessica López Espejel, Laura Minkova, Tassnim Dardouri, W
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-01558/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-01558/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-01558/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-01558/citation.csl.json
 
 ## Recorded arXiv snapshot
 

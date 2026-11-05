@@ -2,7 +2,7 @@
 
 Infers UI elements and accessibility metadata from mobile screenshots to support screen-reader interaction with iOS applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2101-04893/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2101-04893/
 - Original source: https://arxiv.org/abs/2101.04893
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Infers UI elements and accessibility metadata from mobile screenshots to support
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2101-04893/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2101-04893/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2101-04893/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2101-04893/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2101-04893/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2101-04893/citation.csl.json
 
 ## Recorded arXiv snapshot
 

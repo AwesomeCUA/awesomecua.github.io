@@ -2,7 +2,7 @@
 
 Introduces MIRAGE, a web decision benchmark where agents must actively uncover evidence that can contradict the visible context. Separate investigation, reasoning, decision, and hallucination measures diagnose failures beyond reaching the right page.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-05354/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-05354/
 - Original source: https://arxiv.org/abs/2602.05354
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MIRAGE, a web decision benchmark where agents must actively uncover e
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-05354/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-05354/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Syed Nazmus Sakib, Nafiul Haque, Tapodhir Karmakar Taton, Shahrear Bin Amin, Shi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-05354/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-05354/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-05354/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-05354/citation.csl.json
 
 ## Recorded arXiv snapshot
 

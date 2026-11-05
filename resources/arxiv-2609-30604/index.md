@@ -2,7 +2,7 @@
 
 KNOWS benchmarks browser workflows that retrieve and synthesize information into documents, presentations and spreadsheets. Task-specific evaluators combine deterministic checks with model judgments, distinguishing partial progress from usable end-to-end artifact completion.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-30604/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-30604/
 - Original source: https://arxiv.org/abs/2609.30604
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ KNOWS benchmarks browser workflows that retrieve and synthesize information into
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-30604/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-30604/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Alexander Gill, Md Farhan Ishmam, Xuyen Nguyen, Neha Bhat, Parker Henry DeYoung,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-30604/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-30604/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-30604/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-30604/citation.csl.json
 
 ## Recorded arXiv snapshot
 

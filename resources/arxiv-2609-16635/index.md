@@ -2,7 +2,7 @@
 
 EchoPath turns validated GUI trajectories into parameterized replay procedures with explicit runtime preconditions. Image-based target matching adjusts stored coordinates, while ambiguous steps fall back to bounded repair or fresh planning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-16635/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-16635/
 - Original source: https://arxiv.org/abs/2609.16635
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ EchoPath turns validated GUI trajectories into parameterized replay procedures w
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-16635/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-16635/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yao Zhao, Aditya Shanmugham, Swastik Roy, Yanxun Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-16635/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-16635/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-16635/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-16635/citation.csl.json
 
 ## Recorded arXiv snapshot
 

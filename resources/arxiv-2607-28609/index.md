@@ -2,7 +2,7 @@
 
 Introduces OSReward and its harder and multidimensional variants for assessing judgments of computer-use trajectories. It also releases a reasoning-annotated judgment corpus and trains reward models, examining reliability, leniency bias, and evaluation cost.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-28609/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28609/
 - Original source: https://arxiv.org/abs/2607.28609
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces OSReward and its harder and multidimensional variants for assessing j
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28609/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28609/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qiushi Sun, Kanzhi Cheng, Yian Wang, Bowen Yang, Hang Yan, Liheng Chen, Fangzhi 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28609/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28609/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28609/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28609/citation.csl.json
 
 ## Recorded arXiv snapshot
 

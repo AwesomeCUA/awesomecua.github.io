@@ -2,7 +2,7 @@
 
 Extends Ferret-UI across device platforms with adaptive visual scaling and synthetic data for referring, grounding, and user-centered UI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-18967/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-18967/
 - Original source: https://arxiv.org/abs/2410.18967
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Extends Ferret-UI across device platforms with adaptive visual scaling and synth
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-18967/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-18967/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhangheng Li, Keen You, Haotian Zhang, Di Feng, Harsh Agrawal, Xiujun Li, Mohana
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-18967/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-18967/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-18967/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-18967/citation.csl.json
 
 ## Recorded arXiv snapshot
 

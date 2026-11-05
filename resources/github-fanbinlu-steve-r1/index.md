@@ -2,7 +2,7 @@
 
 Research code and linked models for step-verified computer-use training; the current repository describes STEVE-R1 and its trajectory releases.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-fanbinlu-steve-r1/
+- Catalog URL: https://awesomecua.com/resources/github-fanbinlu-steve-r1/
 - Original source: https://github.com/FanbinLu/STEVE-R1
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Research code and linked models for step-verified computer-use training; the cur
 
 The repository has moved to STEVE-R1. Its README reports an SFT release, with RL tuning in progress, and describes evaluations using multiple attempts per task. These results are not independently reproduced here.
 
-- Record JSON: https://awesomecua.github.io/resources/github-fanbinlu-steve-r1/record.json
+- Record JSON: https://awesomecua.com/resources/github-fanbinlu-steve-r1/record.json
 
 ## License declarations
 

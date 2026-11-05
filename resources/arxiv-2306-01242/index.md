@@ -2,7 +2,7 @@
 
 Presents ResponsibleTA, a coordinator-executor framework that checks command feasibility and task completion while using local memory for privacy-related controls. The paper compares prompted and learned implementations and evaluates them on UI task automation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2306-01242/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2306-01242/
 - Original source: https://arxiv.org/abs/2306.01242
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents ResponsibleTA, a coordinator-executor framework that checks command fea
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. UI task automation is stated in the abstract, but its platform and detailed evaluation protocol are not identified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-01242/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2306-01242/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhizheng Zhang, Xiaoyi Zhang, Wenxuan Xie, Yan Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-01242/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-01242/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2306-01242/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2306-01242/citation.csl.json
 
 ## Recorded arXiv snapshot
 

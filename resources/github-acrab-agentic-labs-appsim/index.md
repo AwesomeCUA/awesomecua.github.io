@@ -2,7 +2,7 @@
 
 Simulated mobile applications and evaluation tooling for reproducible GUI-agent tasks with controlled application state.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-acrab-agentic-labs-appsim/
+- Catalog URL: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim/
 - Original source: https://github.com/Acrab-Agentic-Labs/AppSim
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Simulated mobile applications and evaluation tooling for reproducible GUI-agent 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-acrab-agentic-labs-appsim/record.json
+- Record JSON: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim/record.json
 
 ## Structured profile
 

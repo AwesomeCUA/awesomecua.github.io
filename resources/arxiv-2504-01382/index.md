@@ -2,7 +2,7 @@
 
 Introduces Online-Mind2Web, with 300 tasks across 136 live websites, and examines how benchmark design affects assessments of web agents. It also develops an LLM judge for task completion and compares its judgments with human evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-01382/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-01382/
 - Original source: https://arxiv.org/abs/2504.01382
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Online-Mind2Web, with 300 tasks across 136 live websites, and examine
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-01382/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-01382/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-01382/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-01382/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-01382/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-01382/citation.csl.json
 
 ## Recorded arXiv snapshot
 

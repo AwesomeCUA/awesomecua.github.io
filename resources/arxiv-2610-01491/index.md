@@ -2,7 +2,7 @@
 
 Audits WebArena-Lite outcomes and trajectories with human review to identify automatic-evaluator false negatives and the first consequential execution errors. It also studies explicit execution-state memory and procedural guidance, showing why final task scores can miss substantial differences in agent behavior.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-01491/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-01491/
 - Original source: https://arxiv.org/abs/2610.01491
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Audits WebArena-Lite outcomes and trajectories with human review to identify aut
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-01491/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-01491/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chengguang Gan, Zimeng He, Yoshihiro Tsujii, Ken-ichiro Kobayashi, Hiroki Itoh, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-01491/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-01491/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-01491/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-01491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

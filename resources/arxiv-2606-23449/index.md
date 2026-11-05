@@ -2,7 +2,7 @@
 
 Bibliographic record for AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-23449/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-23449/
 - Original source: https://arxiv.org/abs/2606.23449
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AOHP: An Open-Source OS-Level Agent Harness for Persona
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-23449/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-23449/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shanhui Zhao, Jiacheng Liu, Guohong Liu, Jichao Yan, Jialei Ye, Yuhao Yang, Hao 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-23449/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-23449/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-23449/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-23449/citation.csl.json
 
 ## Recorded arXiv snapshot
 

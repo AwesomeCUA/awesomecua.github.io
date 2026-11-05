@@ -2,7 +2,7 @@
 
 FPWC builds and refines a task-oriented world model before planning mobile-device actions. It executes plans as code and evaluates the approach in simulated environments and on real mobile devices.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-16422/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-16422/
 - Original source: https://arxiv.org/abs/2505.16422
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ FPWC builds and refines a task-oriented world model before planning mobile-devic
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-16422/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-16422/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaoran Yin, Xu Luo, Hao Wu, Lianli Gao, Jingkuan Song
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-16422/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-16422/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-16422/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-16422/citation.csl.json
 
 ## Recorded arXiv snapshot
 

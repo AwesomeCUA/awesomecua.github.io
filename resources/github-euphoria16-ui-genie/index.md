@@ -2,7 +2,7 @@
 
 Training and evaluation code for a mobile-agent framework that iteratively generates trajectories using agent and reward-model feedback.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-euphoria16-ui-genie/
+- Catalog URL: https://awesomecua.com/resources/github-euphoria16-ui-genie/
 - Original source: https://github.com/Euphoria16/UI-Genie
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Training and evaluation code for a mobile-agent framework that iteratively gener
 
 The tree contains ms-swift-based training and AndroidControl evaluation scripts. The README says AndroidLab/Android Arena scripts and the 72B checkpoint are still forthcoming; these are not claimed released. It declares MIT but links a root LICENSE absent from the inspected tree, so the exact code-license scope remains unresolved. Separate Hub weights and data have their own declarations.
 
-- Record JSON: https://awesomecua.github.io/resources/github-euphoria16-ui-genie/record.json
+- Record JSON: https://awesomecua.com/resources/github-euphoria16-ui-genie/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Scalable communication for high-order stencil computations using CUDA-aware MPI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2103-01597/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2103-01597/
 - Original source: https://arxiv.org/abs/2103.01597
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Scalable communication for high-order stencil computati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2103-01597/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2103-01597/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Johannes Pekkilä, Miikka S. Väisälä, Maarit J. Käpylä, Matthias Rheinhardt
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2103-01597/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2103-01597/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2103-01597/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2103-01597/citation.csl.json
 
 ## Recorded arXiv snapshot
 

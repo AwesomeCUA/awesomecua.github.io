@@ -2,7 +2,7 @@
 
 Surveys virtual agents for browsers, applications and operating systems, organizing prior work by task type, observation and action spaces, model strategies and evaluation methods. It examines screen-based interaction and keyboard, mouse and touch control, alongside transferability and long-sequence decision-making challenges.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-10943/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-10943/
 - Original source: https://arxiv.org/abs/2411.10943
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Surveys virtual agents for browsers, applications and operating systems, organiz
 
 Reviewed the complete retained arXiv abstract and exact-version official HTML sections on browser/application/OS environments, screen observations, input actions and evaluation. The HTML abstract fingerprint and ordered authors match the retained Atom entry. Literature claims and experiments were not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-10943/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-10943/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Minghe Gao, Wendong Bu, Bingchen Miao, Yang Wu, Yunfei Li, Juncheng Li, Siliang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-10943/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-10943/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-10943/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-10943/citation.csl.json
 
 ## Recorded arXiv snapshot
 

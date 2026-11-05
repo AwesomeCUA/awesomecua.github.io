@@ -2,7 +2,7 @@
 
 Combines generalist and specialist models with hierarchical planning and multiple grounding methods for computer-use tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-00906/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-00906/
 - Original source: https://arxiv.org/abs/2504.00906
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines generalist and specialist models with hierarchical planning and multipl
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-00906/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-00906/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Saaket Agashe, Kyle Wong, Vincent Tu, Jiachen Yang, Ang Li, Xin Eric Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-00906/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-00906/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-00906/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-00906/citation.csl.json
 
 ## Recorded arXiv snapshot
 

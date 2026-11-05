@@ -2,7 +2,7 @@
 
 Bibliographic record for Do These LLM Benchmarks Agree? Fixing Benchmark Evaluation with BenchBench. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-13696/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-13696/
 - Original source: https://arxiv.org/abs/2407.13696
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Do These LLM Benchmarks Agree? Fixing Benchmark Evaluat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-13696/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-13696/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yotam Perlitz, Ariel Gera, Ofir Arviv, Asaf Yehudai, Elron Bandel, Eyal Shnarch,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-13696/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-13696/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-13696/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-13696/citation.csl.json
 
 ## Recorded arXiv snapshot
 

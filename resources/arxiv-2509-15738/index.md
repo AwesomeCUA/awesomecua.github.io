@@ -2,7 +2,7 @@
 
 GUI-ReWalk begins with stochastic interface exploration and then infers goals to generate coherent action trajectories. It supports long-horizon workflows across applications and studies training on the resulting data using grounding and navigation benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-15738/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-15738/
 - Original source: https://arxiv.org/abs/2509.15738
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-ReWalk begins with stochastic interface exploration and then infers goals to
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-15738/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-15738/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Musen Lin, Minghao Liu, Taoran Lu, Lichen Yuan, Yiwei Liu, Haonan Xu, Yu Miao, Y
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-15738/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-15738/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-15738/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-15738/citation.csl.json
 
 ## Recorded arXiv snapshot
 

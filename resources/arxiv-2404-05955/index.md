@@ -2,7 +2,7 @@
 
 Separately evaluates web-page reading, understanding, and element grounding across tasks drawn from real websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-05955/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-05955/
 - Original source: https://arxiv.org/abs/2404.05955
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Separately evaluates web-page reading, understanding, and element grounding acro
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-05955/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-05955/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junpeng Liu, Yifan Song, Bill Yuchen Lin, Wai Lam, Graham Neubig, Yuanzhi Li, Xi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-05955/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-05955/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-05955/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-05955/citation.csl.json
 
 ## Recorded arXiv snapshot
 

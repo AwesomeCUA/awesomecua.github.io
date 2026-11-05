@@ -2,7 +2,7 @@
 
 World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-webdreamer/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/
 - Original source: https://github.com/OSU-NLP-Group/WebDreamer
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ World-model and planning components that simulate web-action outcomes, with link
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-webdreamer/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/record.json
 
 ## License declarations
 

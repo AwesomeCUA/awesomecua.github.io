@@ -2,7 +2,7 @@
 
 22.6K human-annotated desktop computer-use tasks on Windows, macOS and Ubuntu, released with OpenCUA for training and evaluating vision-language-action models.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-964d70c40bfc5ca8e1ee/
+- Catalog URL: https://awesomecua.com/resources/url-964d70c40bfc5ca8e1ee/
 - Original source: https://huggingface.co/datasets/xlangai/AgentNet
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-964d70c40bfc5ca8e1ee/record.json
+- Record JSON: https://awesomecua.com/resources/url-964d70c40bfc5ca8e1ee/record.json
 
 ## Structured profile
 

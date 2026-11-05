@@ -2,7 +2,7 @@
 
 Presents an Android environment for training and evaluating reinforcement-learning agents through touchscreen interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2105-13231/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2105-13231/
 - Original source: https://arxiv.org/abs/2105.13231
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents an Android environment for training and evaluating reinforcement-learni
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2105-13231/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2105-13231/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Daniel Toyama, Philippe Hamel, Anita Gergely, Gheorghe Comanici, Amelia Glaese, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2105-13231/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2105-13231/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2105-13231/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2105-13231/citation.csl.json
 
 ## Recorded arXiv snapshot
 

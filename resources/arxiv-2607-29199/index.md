@@ -2,7 +2,7 @@
 
 Bibliographic record for Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-29199/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-29199/
 - Original source: https://arxiv.org/abs/2607.29199
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Alignment Is Local: A Paired Diagnostic for GUI Agents 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-29199/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-29199/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoxin An, Yunpeng Song, Zihao Bai, Zhongmin Cai, Guojun Xiong, Chenhao Lin, Wen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-29199/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-29199/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-29199/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-29199/citation.csl.json
 
 ## Recorded arXiv snapshot
 

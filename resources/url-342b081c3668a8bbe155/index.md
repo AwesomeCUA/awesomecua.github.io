@@ -2,7 +2,7 @@
 
 Task definitions for Mobile-Agent-E’s long-horizon, multi-app Android evaluation, packaged as a 25-record test split with rubrics and human-reference operation strings.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-342b081c3668a8bbe155/
+- Catalog URL: https://awesomecua.com/resources/url-342b081c3668a8bbe155/
 - Original source: https://huggingface.co/datasets/mikewang/mobile_eval_e
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Task definitions for Mobile-Agent-E’s long-horizon, multi-app Android evaluati
 
 The public Hub manifest contains one test Parquet file. This resource is the benchmark’s task-definition package, not a bundled phone environment or agent. Card metadata supplies rubrics/reference-operation fields but no data-license declaration or verified automated scorer; the code repository’s MIT license is not transferred to these records.
 
-- Record JSON: https://awesomecua.github.io/resources/url-342b081c3668a8bbe155/record.json
+- Record JSON: https://awesomecua.com/resources/url-342b081c3668a8bbe155/record.json
 
 ## Structured profile
 

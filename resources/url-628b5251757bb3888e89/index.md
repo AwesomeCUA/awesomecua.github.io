@@ -2,7 +2,7 @@
 
 Describes PLOW, which learns executable web-task models from a session combining demonstrations, natural-language explanations, and dialogue. Browser instrumentation connects user actions with DOM structure to support task generalization.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/
+- Catalog URL: https://awesomecua.com/resources/url-628b5251757bb3888e89/
 - Original source: https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes PLOW, which learns executable web-task models from a session combining
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes.
 
-- Record JSON: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/record.json
+- Record JSON: https://awesomecua.com/resources/url-628b5251757bb3888e89/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-628b5251757bb3888e89/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-628b5251757bb3888e89/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung
 - Authors: James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung, Mary Swift, William Taysom
 - Publication date (recorded precision): 2007
 - Publication source: https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf
-- Publication BibTeX: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-628b5251757bb3888e89/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-628b5251757bb3888e89/publication-citation.csl.json
 - venue: Twenty-Second AAAI National Conference on Artificial Intelligence
 - pages: 1514-1519
 - date basis: Supplied year precision: 2007. Papers section: AAAI-2007

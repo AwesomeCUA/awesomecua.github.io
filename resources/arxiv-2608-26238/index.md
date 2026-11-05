@@ -2,7 +2,7 @@
 
 Bibliographic record for Procedura: Agentic 3D Modeling with Procedural Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-26238/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-26238/
 - Original source: https://arxiv.org/abs/2608.26238
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Procedura: Agentic 3D Modeling with Procedural Control.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-26238/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-26238/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Youtian Lin, Yikang Yang, Zhanpeng Hu, Mengqi Zhou, Feihu Zhang, Xun Cao, Jiahen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-26238/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-26238/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-26238/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-26238/citation.csl.json
 
 ## Recorded arXiv snapshot
 

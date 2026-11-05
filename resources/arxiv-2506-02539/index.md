@@ -2,7 +2,7 @@
 
 Introduces VerificAgent, which grows domain-specific memories from task trajectories and subjects them to human fact-checking before deployment. Its OSWorld evaluation treats persistent memory as an auditable constraint on later agent behavior.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-02539/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-02539/
 - Original source: https://arxiv.org/abs/2506.02539
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces VerificAgent, which grows domain-specific memories from task trajecto
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-02539/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-02539/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Thong Q. Nguyen, Shubhang Desai, Raja Hasnain Anwar, Firoz Shaik, Vishwas Suryan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-02539/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-02539/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-02539/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-02539/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 MAG jointly evaluates browser task actions and user-facing guides grounded in screenshots through element marks or pixel coordinates. Its harness covers annotation, live evaluation and joint metrics, with an expert-trajectory-augmented GRPO training study.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-10079/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-10079/
 - Original source: https://arxiv.org/abs/2607.10079
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MAG jointly evaluates browser task actions and user-facing guides grounded in sc
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-10079/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-10079/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chengguang Gan, Hanjun Wei, Yunhao Liang, Zhixi Cai, Qinghao Zhang, Shiwen Ni
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-10079/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-10079/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-10079/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-10079/citation.csl.json
 
 ## Recorded arXiv snapshot
 

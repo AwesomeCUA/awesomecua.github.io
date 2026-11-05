@@ -2,7 +2,7 @@
 
 Bibliographic record for Connecting Vision and Language with Localized Narratives. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1912-03098/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1912-03098/
 - Original source: https://arxiv.org/abs/1912.03098
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Connecting Vision and Language with Localized Narrative
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1912-03098/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1912-03098/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jordi Pont-Tuset, Jasper Uijlings, Soravit Changpinyo, Radu Soricut, Vittorio Fe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1912-03098/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1912-03098/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1912-03098/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1912-03098/citation.csl.json
 
 ## Recorded arXiv snapshot
 

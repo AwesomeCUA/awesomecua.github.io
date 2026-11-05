@@ -2,7 +2,7 @@
 
 Proposes an online teaching framework that decides which web-agent episodes warrant a stronger teacher and which trajectory turns merit training. A solvability gate and score-guided trimming aim to preserve first-attempt performance while reducing teaching and training costs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-05513/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-05513/
 - Original source: https://arxiv.org/abs/2609.05513
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes an online teaching framework that decides which web-agent episodes warr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-05513/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-05513/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jianwei Zhang, Sihan Cao, Pengcheng Zheng, Ya Wen, Pei Ke, Kuien Liu, Shen Gao, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-05513/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-05513/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-05513/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-05513/citation.csl.json
 
 ## Recorded arXiv snapshot
 

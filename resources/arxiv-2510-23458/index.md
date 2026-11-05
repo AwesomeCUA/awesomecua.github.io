@@ -2,7 +2,7 @@
 
 Bibliographic record for BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-23458/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-23458/
 - Original source: https://arxiv.org/abs/2510.23458
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for BrowseConf: Confidence-Guided Test-Time Scaling for Web
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-23458/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-23458/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Litu Ou, Kuan Li, Huifeng Yin, Liwen Zhang, Zhongwang Zhang, Xixi Wu, Rui Ye, Zi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-23458/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-23458/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-23458/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-23458/citation.csl.json
 
 ## Recorded arXiv snapshot
 

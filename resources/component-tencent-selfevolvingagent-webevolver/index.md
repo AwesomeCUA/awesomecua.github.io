@@ -2,7 +2,7 @@
 
 Component for web-agent trajectory collection, supervised-data preparation and world-model-based trajectory synthesis.
 
-- Catalog URL: https://awesomecua.github.io/resources/component-tencent-selfevolvingagent-webevolver/
+- Catalog URL: https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/
 - Original source: https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebEvolver
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Component for web-agent trajectory collection, supervised-data preparation and w
 
 Scoped to the WebEvolver directory; the repository also hosts WebCoT and VScan, which are not merged into this resource. Training and model services require separate setup. Root License.txt explicitly declares MIT for SelfEvolvingAgent and separately identifies CogKernel’s Apache-2.0 dependency terms.
 
-- Record JSON: https://awesomecua.github.io/resources/component-tencent-selfevolvingagent-webevolver/record.json
+- Record JSON: https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/record.json
 
 ## License declarations
 

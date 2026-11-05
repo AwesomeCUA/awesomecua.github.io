@@ -2,7 +2,7 @@
 
 Multimodal web navigation agent and evaluation tasks on real websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-minorjerry-webvoyager/
+- Catalog URL: https://awesomecua.com/resources/github-minorjerry-webvoyager/
 - Original source: https://github.com/MinorJerry/WebVoyager
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Multimodal web navigation agent and evaluation tasks on real websites.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-minorjerry-webvoyager/record.json
+- Record JSON: https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Studies fine-tuning open language models on production web-workflow traces, including training choices for specialized web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-15004/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-15004/
 - Original source: https://arxiv.org/abs/2411.15004
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies fine-tuning open language models on production web-workflow traces, incl
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-15004/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-15004/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junhong Shen, Atishay Jain, Zedian Xiao, Ishan Amlekar, Mouad Hadji, Aaron Podol
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-15004/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-15004/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-15004/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-15004/citation.csl.json
 
 ## Recorded arXiv snapshot
 

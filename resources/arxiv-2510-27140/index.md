@@ -2,7 +2,7 @@
 
 Measures how untrusted third-party notifications, messages, and app content can hijack mobile LLM agents into executing unauthorized cross-app actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-27140/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-27140/
 - Original source: https://arxiv.org/abs/2510.27140
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Measures how untrusted third-party notifications, messages, and app content can 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-27140/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-27140/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chenghao Du, Quanfeng Huang, Tingxuan Tang, Zihao Wang, Adwait Nadkarni, Yue Xia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-27140/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-27140/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-27140/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-27140/citation.csl.json
 
 ## Recorded arXiv snapshot
 

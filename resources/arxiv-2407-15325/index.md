@@ -2,7 +2,7 @@
 
 Bibliographic record for Odyssey: Empowering Minecraft Agents with Open-World Skills. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-15325/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-15325/
 - Original source: https://arxiv.org/abs/2407.15325
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Odyssey: Empowering Minecraft Agents with Open-World Sk
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-15325/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-15325/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shunyu Liu, Yaoru Li, Kongcheng Zhang, Zhenyu Cui, Wenkai Fang, Yuxuan Zheng, To
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-15325/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-15325/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-15325/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-15325/citation.csl.json
 
 ## Recorded arXiv snapshot
 

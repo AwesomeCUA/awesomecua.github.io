@@ -2,7 +2,7 @@
 
 Bibliographic record for SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-19587/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-19587/
 - Original source: https://arxiv.org/abs/2605.19587
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SceneCode: Executable World Programs for Editable Indoo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-19587/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-19587/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Puyi Wang, Yuhao Wang, Linjie Li, Zhengyuan Yang, Kevin Qinghong Lin, Yangguang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-19587/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-19587/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-19587/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-19587/citation.csl.json
 
 ## Recorded arXiv snapshot
 

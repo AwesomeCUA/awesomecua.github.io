@@ -2,7 +2,7 @@
 
 Bibliographic record for ASPI: Seeking Ambiguity Clarification Amplifies Prompt Injection Vulnerability in LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-17324/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-17324/
 - Original source: https://arxiv.org/abs/2605.17324
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ASPI: Seeking Ambiguity Clarification Amplifies Prompt 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-17324/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-17324/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Udari Madhushani Sehwag, Zhengyang Shan, Heming Liu, Dileepa Lakshan, Joseph Bra
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-17324/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-17324/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-17324/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-17324/citation.csl.json
 
 ## Recorded arXiv snapshot
 

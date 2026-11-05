@@ -2,7 +2,7 @@
 
 Introduces CORA, which calibrates a risk model to choose between executing and abstaining from mobile GUI actions, then diagnoses rejected actions to suggest interventions. Phone-Harm provides step-level safety labels for evaluating this safeguarding process.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-09155/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-09155/
 - Original source: https://arxiv.org/abs/2604.09155
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CORA, which calibrates a risk model to choose between executing and a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The annotation describes risk calibration without asserting an unconditional safety guarantee.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-09155/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-09155/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yushi Feng, Junye Du, Qifan Wang, Zizhan Ma, Qian Niu, Yutaka Matsuo, Long Feng,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-09155/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-09155/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-09155/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-09155/citation.csl.json
 
 ## Recorded arXiv snapshot
 

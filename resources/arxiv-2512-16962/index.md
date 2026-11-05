@@ -2,7 +2,7 @@
 
 Bibliographic record for MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-16962/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-16962/
 - Original source: https://arxiv.org/abs/2512.16962
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MemoryGraft: Persistent Compromise of LLM Agents via Po
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-16962/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-16962/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Saksham Sahai Srivastava, Haoyu He
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-16962/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-16962/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-16962/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-16962/citation.csl.json
 
 ## Recorded arXiv snapshot
 

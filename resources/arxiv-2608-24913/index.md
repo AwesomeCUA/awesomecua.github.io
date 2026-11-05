@@ -2,7 +2,7 @@
 
 Builds a local browser-extension agent that generates and verifies additive CSS repairs for WCAG web accessibility violations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-24913/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-24913/
 - Original source: https://arxiv.org/abs/2608.24913
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds a local browser-extension agent that generates and verifies additive CSS 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24913/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-24913/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lily Bundgaard Wanscher, Markus Heidemann Lorensen, Mohammed Ammad Shafiq, Mahya
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24913/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24913/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-24913/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-24913/citation.csl.json
 
 ## Recorded arXiv snapshot
 

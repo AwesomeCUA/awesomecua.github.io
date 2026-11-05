@@ -2,7 +2,7 @@
 
 Introduces NeXUI, an assistive UI-agent benchmark that evaluates navigation together with interface-grounded explanations and user oversight in recorded interface states.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-09944/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-09944/
 - Original source: https://arxiv.org/abs/2608.09944
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces NeXUI, an assistive UI-agent benchmark that evaluates navigation toge
 
 Packaged tasks use recorded linear transition graphs. Reported model experiments use a text-input validation subset, so their results are not evidence of screenshot-based navigation performance. No results were independently reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 Interface states and task annotations; 3.4 Evaluation; 4.1 Models and experimental setup; 5 Discussion); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-09944/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-09944/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Santosh Patapati
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-09944/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-09944/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-09944/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-09944/citation.csl.json
 
 ## Recorded arXiv snapshot
 

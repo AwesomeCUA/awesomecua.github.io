@@ -2,7 +2,7 @@
 
 A TongUI-collected training corpus from multimodal web tutorials, distributed as annotation files and split screenshot archives for GUI trajectory supervision.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-8c9aaafb918aaf8b4e92/
+- Catalog URL: https://awesomecua.com/resources/url-8c9aaafb918aaf8b4e92/
 - Original source: https://huggingface.co/datasets/Bofeee5675/GUI-Net-1M
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ A TongUI-collected training corpus from multimodal web tutorials, distributed as
 
 The ungated manifest lists JSON annotations and multipart image archives. Training documentation describes roughly one million collected training trajectories from Wikihow, Baidu Experience and GUI videos; this is distinct from larger mixtures that add external datasets. Platform-specific distribution and exact row counts were not established from this release metadata. Apache-2.0 is the publisher dataset declaration, without a grant of additional rights to upstream tutorial content. No image archive or example record was downloaded.
 
-- Record JSON: https://awesomecua.github.io/resources/url-8c9aaafb918aaf8b4e92/record.json
+- Record JSON: https://awesomecua.com/resources/url-8c9aaafb918aaf8b4e92/record.json
 
 ## Structured profile
 

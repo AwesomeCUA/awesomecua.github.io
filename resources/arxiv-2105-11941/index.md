@@ -2,7 +2,7 @@
 
 Models mobile screens as atomic text and graphic components whose relationships are learned by a Screen Transformer. The work introduces RICO-PW annotations and evaluates metadata-free screen understanding on relation, clickability, retrieval, and app-classification tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2105-11941/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2105-11941/
 - Original source: https://arxiv.org/abs/2105.11941
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Models mobile screens as atomic text and graphic components whose relationships 
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2105-11941/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2105-11941/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingwen Fu, Xiaoyi Zhang, Yuwang Wang, Wenjun Zeng, Sam Yang, Grayson Hilliard
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2105-11941/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2105-11941/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2105-11941/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2105-11941/citation.csl.json
 
 ## Recorded arXiv snapshot
 

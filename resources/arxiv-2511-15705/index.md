@@ -2,7 +2,7 @@
 
 Bibliographic record for GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-15705/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-15705/
 - Original source: https://arxiv.org/abs/2511.15705
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for GeoVista: Web-Augmented Agentic Visual Reasoning for Ge
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-15705/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-15705/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yikun Wang, Zuyan Liu, Ziyi Wang, Han Hu, Pengfei Liu, Yongming Rao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-15705/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-15705/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-15705/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-15705/citation.csl.json
 
 ## Recorded arXiv snapshot
 

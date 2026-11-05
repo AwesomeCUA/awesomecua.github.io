@@ -2,7 +2,7 @@
 
 Collects rendered webpages and structural metadata for visual UI modeling, studying how web semantics transfer to interface-understanding tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2301-13280/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2301-13280/
 - Original source: https://arxiv.org/abs/2301.13280
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Collects rendered webpages and structural metadata for visual UI modeling, study
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2301-13280/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2301-13280/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jason Wu, Siyan Wang, Siman Shen, Yi-Hao Peng, Jeffrey Nichols, Jeffrey P. Bigha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2301-13280/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2301-13280/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2301-13280/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2301-13280/citation.csl.json
 
 ## Recorded arXiv snapshot
 

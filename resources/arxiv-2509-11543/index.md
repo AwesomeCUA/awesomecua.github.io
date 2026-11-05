@@ -2,7 +2,7 @@
 
 UI-S1 simulates multi-turn online learning over offline trajectories, using a patch module to recover divergences while retaining the model’s own outputs in context. It combines discounted future returns with step- and episode-level advantages and introduces a semi-online performance proxy.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-11543/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-11543/
 - Original source: https://arxiv.org/abs/2509.11543
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UI-S1 simulates multi-turn online learning over offline trajectories, using a pa
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-11543/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-11543/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhengxi Lu, Jiabo Ye, Fei Tang, Yongliang Shen, Haiyang Xu, Ziwei Zheng, Weiming
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-11543/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-11543/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-11543/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-11543/citation.csl.json
 
 ## Recorded arXiv snapshot
 

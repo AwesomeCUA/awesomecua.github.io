@@ -2,7 +2,7 @@
 
 MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-like simulator, combining feedback-driven attack evolution, separately admitted task expansions and evidence-grounded outcome adjudication.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-23303/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-23303/
 - Original source: https://arxiv.org/abs/2610.23303
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-lik
 
 Reviewed the complete retained abstract and selected exact-v1 threat-model, construction and evaluation sections. Execution uses a browser-based Android-like simulator, not real Android isolation or live services. The attacker controls instructions and designated carriers, not privileged simulator state/APIs or system/model/harness internals. Rates depend on release, budget and adjudication coverage. SAF labels track observable expressions and actions, not latent reasoning; unresolved episodes are excluded from rate denominators. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-23303/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-23303/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Songping Wang, Borui Li, Qinglong Liu, Yueming Lyu, Yi Huang, Fengting Li, Chao 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-23303/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-23303/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-23303/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-23303/citation.csl.json
 
 ## Recorded arXiv snapshot
 

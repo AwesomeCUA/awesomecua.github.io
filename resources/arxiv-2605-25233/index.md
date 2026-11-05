@@ -2,7 +2,7 @@
 
 Bibliographic record for Meta-Agent: From Task Descriptions to Verified Multi-Agent Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-25233/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-25233/
 - Original source: https://arxiv.org/abs/2605.25233
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Meta-Agent: From Task Descriptions to Verified Multi-Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-25233/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-25233/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Andy Xu, Yu-Wing Tai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-25233/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-25233/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-25233/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-25233/citation.csl.json
 
 ## Recorded arXiv snapshot
 

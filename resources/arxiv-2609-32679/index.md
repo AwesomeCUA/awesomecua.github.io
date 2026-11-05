@@ -2,7 +2,7 @@
 
 Introduces StateAliasBench to isolate GUI world-model ambiguities in which matching visible screens and actions can lead to different futures. It augments frozen world models with structured state recovered from interaction history and evaluates the effect on prediction and agent execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-32679/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-32679/
 - Original source: https://arxiv.org/abs/2609.32679
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces StateAliasBench to isolate GUI world-model ambiguities in which match
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32679/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-32679/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dongsheng Liu, Chao Jin, Wenkui Yang, Hejin Wang, Junwei Yang, Zeren Zhang, Ziwe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32679/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32679/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-32679/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-32679/citation.csl.json
 
 ## Recorded arXiv snapshot
 

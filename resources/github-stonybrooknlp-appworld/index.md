@@ -2,7 +2,7 @@
 
 Simulated applications, user data, and state-based task checks for evaluating agents that interact through APIs and code.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-stonybrooknlp-appworld/
+- Catalog URL: https://awesomecua.com/resources/github-stonybrooknlp-appworld/
 - Original source: https://github.com/StonyBrookNLP/appworld
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Simulated applications, user data, and state-based task checks for evaluating ag
 
 Primarily API and coding interaction; included as an adjacent comparison for GUI and hybrid agents.
 
-- Record JSON: https://awesomecua.github.io/resources/github-stonybrooknlp-appworld/record.json
+- Record JSON: https://awesomecua.com/resources/github-stonybrooknlp-appworld/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 SafePred uses world-model risk forecasts to guide action filtering and task replanning. Its desktop and web safety evaluations distinguish policy compliance, task success and success under the specified policy.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-01725/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-01725/
 - Original source: https://arxiv.org/abs/2602.01725
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SafePred uses world-model risk forecasts to guide action filtering and task repl
 
 The annotation was reviewed against the complete retained official abstract and the specified sections of the same recorded paper version. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-01725/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-01725/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yurun Chen, Zeyi Liao, Ping Yin, Taotao Xie, Keting Yin, Shengyu Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-01725/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-01725/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-01725/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-01725/citation.csl.json
 
 ## Recorded arXiv snapshot
 

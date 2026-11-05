@@ -2,7 +2,7 @@
 
 Introduces RiOSWorld, a computer-use risk benchmark separating user-originated and environmental threats. It evaluates both risky-goal intent and goal completion across web and other computer applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-00618/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-00618/
 - Original source: https://arxiv.org/abs/2506.00618
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces RiOSWorld, a computer-use risk benchmark separating user-originated a
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-00618/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-00618/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingyi Yang, Shuai Shao, Dongrui Liu, Jing Shao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-00618/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-00618/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-00618/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-00618/citation.csl.json
 
 ## Recorded arXiv snapshot
 

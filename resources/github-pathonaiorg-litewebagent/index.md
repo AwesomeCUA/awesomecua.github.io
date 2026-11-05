@@ -2,7 +2,7 @@
 
 Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-pathonaiorg-litewebagent/
+- Catalog URL: https://awesomecua.com/resources/github-pathonaiorg-litewebagent/
 - Original source: https://github.com/PathOnAIOrg/LiteWebAgent
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Modular web-agent framework with browser control, planning, workflow memory, and
 
 The repository is maintained by the PathOnAI.org research community; its README explicitly disclaims affiliation with a for-profit company.
 
-- Record JSON: https://awesomecua.github.io/resources/github-pathonaiorg-litewebagent/record.json
+- Record JSON: https://awesomecua.com/resources/github-pathonaiorg-litewebagent/record.json
 
 ## License declarations
 

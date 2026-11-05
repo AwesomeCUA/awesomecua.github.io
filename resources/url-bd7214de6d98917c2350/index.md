@@ -2,7 +2,7 @@
 
 Second version of the ScreenSpot grounding test set, published by OS-Copilot as separate desktop, mobile and web annotation files with a shared screenshot archive.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-bd7214de6d98917c2350/
+- Catalog URL: https://awesomecua.com/resources/url-bd7214de6d98917c2350/
 - Original source: https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Second version of the ScreenSpot grounding test set, published by OS-Copilot as 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-bd7214de6d98917c2350/record.json
+- Record JSON: https://awesomecua.com/resources/url-bd7214de6d98917c2350/record.json
 
 ## Structured profile
 

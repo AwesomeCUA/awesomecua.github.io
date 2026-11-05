@@ -2,7 +2,7 @@
 
 Studies backdoors that redirect GUI visual grounding even when the task plan is correct. VisualTrap evaluates whether poisoned grounding training transfers to downstream tasks and across web, mobile, and desktop interface settings.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-06899/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-06899/
 - Original source: https://arxiv.org/abs/2507.06899
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies backdoors that redirect GUI visual grounding even when the task plan is 
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-06899/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-06899/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziang Ye, Yang Zhang, Wentao Shi, Xiaoyu You, Fuli Feng, Tat-Seng Chua
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-06899/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-06899/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-06899/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-06899/citation.csl.json
 
 ## Recorded arXiv snapshot
 

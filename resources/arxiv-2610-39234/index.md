@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-39234/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-39234/
 - Original source: https://arxiv.org/abs/2610.39234
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentHeal: Evaluating Goal-Preserving Resource Recovery
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-39234/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-39234/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhiyi Liu, Haohua Du, Haoqi Sun, Haisheng Tan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-39234/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-39234/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-39234/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-39234/citation.csl.json
 
 ## Recorded arXiv snapshot
 

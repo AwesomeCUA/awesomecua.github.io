@@ -2,7 +2,7 @@
 
 CUAAudit examines vision-language models that judge computer-use task completion from an instruction and final environment state. Across macOS, Windows and Linux benchmarks, it measures accuracy, confidence calibration and disagreement between auditors.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-10577/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-10577/
 - Original source: https://arxiv.org/abs/2603.10577
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CUAAudit examines vision-language models that judge computer-use task completion
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-10577/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-10577/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Marta Sumyk, Oleksandr Kosovan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-10577/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-10577/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-10577/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-10577/citation.csl.json
 
 ## Recorded arXiv snapshot
 

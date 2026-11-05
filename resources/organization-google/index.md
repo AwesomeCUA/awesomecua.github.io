@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with Google computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-google/
+- Catalog URL: https://awesomecua.com/resources/organization-google/
 - Original source: https://ai.google.dev/gemini-api/docs/computer-use
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with Google computer-use or browser automa
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-google/record.json
+- Record JSON: https://awesomecua.com/resources/organization-google/record.json
 
 ## License declarations
 

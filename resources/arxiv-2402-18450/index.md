@@ -2,7 +2,7 @@
 
 Bibliographic record for Copula Approximate Bayesian Computation Using Distribution Random Forests. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-18450/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-18450/
 - Original source: https://arxiv.org/abs/2402.18450
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Copula Approximate Bayesian Computation Using Distribut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-18450/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-18450/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ George Karabatsos
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-18450/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-18450/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-18450/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-18450/citation.csl.json
 
 ## Recorded arXiv snapshot
 

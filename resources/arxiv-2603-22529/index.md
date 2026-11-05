@@ -2,7 +2,7 @@
 
 Ego2Web pairs first-person videos with online tasks that require agents to connect the user’s physical context to web actions. It also evaluates an automatic task judge against human judgments and analyzes failures in video understanding and web execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-22529/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-22529/
 - Original source: https://arxiv.org/abs/2603.22529
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Ego2Web pairs first-person videos with online tasks that require agents to conne
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-22529/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-22529/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shoubin Yu, Lei Shu, Antoine Yang, Yao Fu, Srinivas Sunkara, Maria Wang, Jindong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-22529/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-22529/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-22529/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-22529/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Guides visual GUI agents at inference time with a process-reward model that evaluates intermediate actions. It combines stepwise guidance with trajectory reflection and retry mechanisms in static and interactive navigation tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-16073/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-16073/
 - Original source: https://arxiv.org/abs/2504.16073
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Guides visual GUI agents at inference time with a process-reward model that eval
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-16073/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-16073/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhiyuan Hu, Shiyun Xiong, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, Shuich
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-16073/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-16073/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-16073/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-16073/citation.csl.json
 
 ## Recorded arXiv snapshot
 

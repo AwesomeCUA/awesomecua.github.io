@@ -2,7 +2,7 @@
 
 MUD combines LLM-guided Android app exploration, noise filtering and human annotation to collect modern UI screenshots. The study evaluates the resulting data for element detection and UI retrieval.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2405-07090/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2405-07090/
 - Original source: https://arxiv.org/abs/2405.07090
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MUD combines LLM-guided Android app exploration, noise filtering and human annot
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-07090/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2405-07090/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sidong Feng, Suyu Ma, Han Wang, David Kong, Chunyang Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-07090/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-07090/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2405-07090/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2405-07090/citation.csl.json
 
 ## Recorded arXiv snapshot
 

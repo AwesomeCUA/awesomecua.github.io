@@ -2,7 +2,7 @@
 
 Introduces CSAgent, which combines static access policies with user intent and context and enforces them through an operating-system service. A supporting toolchain constructs and refines policies for agents using API, CLI and GUI interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-22256/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-22256/
 - Original source: https://arxiv.org/abs/2509.22256
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CSAgent, which combines static access policies with user intent and c
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-22256/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-22256/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haochen Gong, Chenxiao Li, Rui Chang, Wenbo Shen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-22256/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-22256/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-22256/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-22256/citation.csl.json
 
 ## Recorded arXiv snapshot
 

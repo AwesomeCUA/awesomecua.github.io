@@ -2,7 +2,7 @@
 
 Bibliographic record for Framework for understanding quantum computing use cases from a multidisciplinary perspective and future research directions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2212-13909/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2212-13909/
 - Original source: https://arxiv.org/abs/2212.13909
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Framework for understanding quantum computing use cases
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2212-13909/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2212-13909/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dandison Ukpabi, Heikki Karjaluoto, Astrid Bötticher, Anastasija Nikiforova, Dr
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2212-13909/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2212-13909/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2212-13909/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2212-13909/citation.csl.json
 
 ## Recorded arXiv snapshot
 

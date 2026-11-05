@@ -2,7 +2,7 @@
 
 CONFLICTGUI evaluates termination under instruction conflicts and mismatches between instructions and interface context. CONFLICTGUARD couples feasibility checks with conditional action modulation to reduce unnecessary execution while tracking normal-task behavior.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-03438/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-03438/
 - Original source: https://arxiv.org/abs/2609.03438
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CONFLICTGUI evaluates termination under instruction conflicts and mismatches bet
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-03438/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-03438/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhaoyuan Huang, Tianjie Ju, Pengzhou Cheng, Zheng Wu, Yansi Li, Chuanbiao Song, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-03438/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-03438/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-03438/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-03438/citation.csl.json
 
 ## Recorded arXiv snapshot
 

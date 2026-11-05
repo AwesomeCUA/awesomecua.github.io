@@ -2,7 +2,7 @@
 
 This study tests vision-language models as task-completion judges using screenshots and instructions from 42 built-in macOS applications. It evaluates judgment accuracy on human-labeled tasks and separately studies how judge feedback affects agent task success.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-20067/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-20067/
 - Original source: https://arxiv.org/abs/2511.20067
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study tests vision-language models as task-completion judges using screensh
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-20067/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-20067/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Marta Sumyk, Oleksandr Kosovan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-20067/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-20067/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-20067/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-20067/citation.csl.json
 
 ## Recorded arXiv snapshot
 

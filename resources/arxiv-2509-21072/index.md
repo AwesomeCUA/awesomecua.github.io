@@ -2,7 +2,7 @@
 
 Bibliographic record for Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-21072/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-21072/
 - Original source: https://arxiv.org/abs/2509.21072
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Recon-Act: A Self-Evolving Multi-Agent Browser-Use Syst
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21072/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-21072/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kaiwen He, Zhiwei Wang, Chenyi Zhuang, Jinjie Gu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21072/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21072/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-21072/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-21072/citation.csl.json
 
 ## Recorded arXiv snapshot
 

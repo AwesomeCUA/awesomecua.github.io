@@ -2,7 +2,7 @@
 
 Gated Hindsight Distillation gives a teacher access to the next screenshot during training while the student sees only the available trajectory prefix. Distillation is applied when hindsight repairs a student failure, and the resulting policies are evaluated on Android tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-06065/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-06065/
 - Original source: https://arxiv.org/abs/2608.06065
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Gated Hindsight Distillation gives a teacher access to the next screenshot durin
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-06065/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-06065/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weiwei Li, Junzhuo Liu, Tong Chu, Hengfu Yu, Wen Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-06065/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-06065/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-06065/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-06065/citation.csl.json
 
 ## Recorded arXiv snapshot
 

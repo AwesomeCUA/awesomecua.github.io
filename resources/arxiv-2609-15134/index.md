@@ -2,7 +2,7 @@
 
 Bibliographic record for HazardAuditor: From Executable Threats to Safer Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-15134/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-15134/
 - Original source: https://arxiv.org/abs/2609.15134
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for HazardAuditor: From Executable Threats to Safer Compute
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-15134/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-15134/record.json
 
 ## Recorded reviewer hold
 
 The abstract trains safety guards from normalized events across Claude Code, Codex, Hermes and OpenClaw\. Browser interaction appears in the general motivation, but it does not identify actual GUI/browser tasks or the execution interface of its evaluated benchmarks\. Harness names and the computer\-use label alone do not establish material GUI evidence\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Yunhao Feng, Ruixiao Lin, Ming Wen, Yanming Guo, Xingjun Ma, Yutao Wu, Xinhao De
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-15134/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-15134/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-15134/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-15134/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Presents OS-Themis, a multi-agent critic that divides GUI trajectories into verifiable milestones and reviews their evidence before assigning an outcome. OGRBench evaluates GUI rewards across platforms, with AndroidWorld experiments examining training and trajectory filtering.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-19191/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-19191/
 - Original source: https://arxiv.org/abs/2603.19191
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents OS-Themis, a multi-agent critic that divides GUI trajectories into veri
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-19191/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-19191/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zehao Li, Zhenyu Wu, Yibo Zhao, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-19191/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-19191/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-19191/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-19191/citation.csl.json
 
 ## Recorded arXiv snapshot
 

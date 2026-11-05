@@ -2,7 +2,7 @@
 
 Bibliographic record for Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-07008/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-07008/
 - Original source: https://arxiv.org/abs/2602.07008
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Where Not to Learn: Prior-Aligned Training with Subset-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-07008/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-07008/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruoyu Chen, Shangquan Sun, Xiaoqing Guo, Kangwei Liu, Sanyi Zhang, Zhangcheng Wa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-07008/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-07008/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-07008/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-07008/citation.csl.json
 
 ## Recorded arXiv snapshot
 

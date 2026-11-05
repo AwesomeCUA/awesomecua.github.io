@@ -2,7 +2,7 @@
 
 Introduces WiserUI-Bench, pairing real UI variants from industry A/B tests with observed behavioral winners and expert explanations. It evaluates models’ ability to predict the more effective interface and explain its effect on user behavior.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-05026/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-05026/
 - Original source: https://arxiv.org/abs/2505.05026
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WiserUI-Bench, pairing real UI variants from industry A/B tests with 
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced. This benchmark measures UI/UX design understanding from static image pairs; it does not measure autonomous GUI action execution.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-05026/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-05026/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jaehyun Jeon, Min Soo Kim, Jang Han Yoon, Sumin Shim, Yejin Choi, Hanbin Kim, Da
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-05026/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-05026/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-05026/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-05026/citation.csl.json
 
 ## Recorded arXiv snapshot
 

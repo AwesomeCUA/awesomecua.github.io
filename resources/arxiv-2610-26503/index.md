@@ -2,7 +2,7 @@
 
 ScopeMem conditions latent-memory prefixes on a frozen GUI agent's initial action and trains them to correct errors while preserving correct decisions. Its evaluation separates action repairs from harmful revisions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26503/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-26503/
 - Original source: https://arxiv.org/abs/2610.26503
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ScopeMem conditions latent-memory prefixes on a frozen GUI agent's initial actio
 
 Reviewed the complete abstract and selected v1 controlled-study, method and limitations sections. Results are offline, step-level action matching; online task success is explicitly left untested. The frozen actor is queried twice per step. No independent reproduction or redistribution-license claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26503/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-26503/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhicheng Zheng, Cheng Zhang, Shengping Yu, Tianxiang Zhao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26503/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26503/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-26503/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-26503/citation.csl.json
 
 ## Recorded arXiv snapshot
 

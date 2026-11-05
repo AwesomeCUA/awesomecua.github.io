@@ -2,7 +2,7 @@
 
 Bibliographic record for WebAnything: From the Wild Web to Scalable Agent Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-37786/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-37786/
 - Original source: https://arxiv.org/abs/2610.37786
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for WebAnything: From the Wild Web to Scalable Agent Enviro
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-37786/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-37786/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianci Xie, Zikun Cai, Chaoyun Zhang, Pinxue Guo, Bingxuan Li, Rui Zheng, Hang Y
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-37786/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-37786/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-37786/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-37786/citation.csl.json
 
 ## Recorded arXiv snapshot
 

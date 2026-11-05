@@ -2,7 +2,7 @@
 
 Introduces AFRAgent, which uses adaptive feature renormalization to combine low-resolution visual embeddings with high-resolution details. The architecture is evaluated for smartphone GUI automation on Meta-GUI and AITW.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-00846/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-00846/
 - Original source: https://arxiv.org/abs/2512.00846
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AFRAgent, which uses adaptive feature renormalization to combine low-
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-00846/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-00846/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Neeraj Anand, Rishabh Jain, Sohan Patnaik, Balaji Krishnamurthy, Mausoom Sarkar
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-00846/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-00846/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-00846/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-00846/citation.csl.json
 
 ## Recorded arXiv snapshot
 

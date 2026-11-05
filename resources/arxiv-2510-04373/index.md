@@ -2,7 +2,7 @@
 
 Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps rather than full demonstration replay.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-04373/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-04373/
 - Original source: https://arxiv.org/abs/2510.04373
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces JEF-Hinter, which distills successful and failed trajectories into co
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-04373/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-04373/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hadi Nekoei, Aman Jaiswal, Patrice Bechard, Oleh Shliazhko, Orlando Marquez Ayal
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-04373/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-04373/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-04373/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-04373/citation.csl.json
 
 ## Recorded arXiv snapshot
 

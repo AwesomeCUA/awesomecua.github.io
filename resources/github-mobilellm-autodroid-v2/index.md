@@ -2,7 +2,7 @@
 
 An Android automation implementation that builds app documentation from exploration traces and evaluates language-model-generated execution code in emulator workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-mobilellm-autodroid-v2/
+- Catalog URL: https://awesomecua.com/resources/github-mobilellm-autodroid-v2/
 - Original source: https://github.com/MobileLLM/AutoDroid-V2
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ An Android automation implementation that builds app documentation from explorat
 
 The repository uses README_minimal.md rather than README.md and includes a documented App Launcher experiment, training setup and DroidTask/LlamaTouch evaluation scripts. Its supplied emulator setup targets x86_64 Linux and Android API 31. No repository-level code license was found; code, APK, data and weight terms are not inferred from one another. Dependencies, external evaluation files and model service are still required; no software was run.
 
-- Record JSON: https://awesomecua.github.io/resources/github-mobilellm-autodroid-v2/record.json
+- Record JSON: https://awesomecua.com/resources/github-mobilellm-autodroid-v2/record.json
 
 ## License declarations
 

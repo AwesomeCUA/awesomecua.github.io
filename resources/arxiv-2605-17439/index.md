@@ -2,7 +2,7 @@
 
 Bibliographic record for DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-17439/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-17439/
 - Original source: https://arxiv.org/abs/2605.17439
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for DiagEval: Trajectory-Conditioned Diagnosis for Reliable
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-17439/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-17439/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sirui Hong, Zhijie Liu, Tengfei Li, Wei Tao, Yifan Wu, Chenglin Wu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-17439/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-17439/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-17439/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-17439/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 UI-CUBE evaluates 226 tasks ranging from individual controls to copy-paste and enterprise workflows. Interface variations, multiple resolutions, and application-state validation support diagnosis of operational reliability beyond task accuracy alone.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-17131/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-17131/
 - Original source: https://arxiv.org/abs/2511.17131
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UI-CUBE evaluates 226 tasks ranging from individual controls to copy-paste and e
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-17131/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-17131/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Horia Cristescu, Charles Park, Trong Canh Nguyen, Sergiu Talmacel, Alexandru-Gab
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-17131/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-17131/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-17131/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-17131/citation.csl.json
 
 ## Recorded arXiv snapshot
 

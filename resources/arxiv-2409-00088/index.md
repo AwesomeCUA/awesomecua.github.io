@@ -2,7 +2,7 @@
 
 Bibliographic record for On-Device Language Models: A Comprehensive Review. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-00088/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-00088/
 - Original source: https://arxiv.org/abs/2409.00088
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for On-Device Language Models: A Comprehensive Review. Titl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-00088/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-00088/record.json
 
 ## Recorded reviewer hold
 
 This survey covers on\-device language\-model architectures, compression and deployment\. Further review is needed to establish substantive computer\-interface\-agent coverage\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Jiajun Xu, Zhiyuan Li, Wei Chen, Qun Wang, Xin Gao, Qi Cai, Ziyuan Ling
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-00088/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-00088/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-00088/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-00088/citation.csl.json
 
 ## Recorded arXiv snapshot
 

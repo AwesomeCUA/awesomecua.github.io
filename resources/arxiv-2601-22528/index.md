@@ -2,7 +2,7 @@
 
 Darwinian Memory splits GUI trajectories into reusable units and updates the memory by retaining useful paths and pruning poor ones. It evaluates this training-free memory mechanism on long multi-application tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-22528/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-22528/
 - Original source: https://arxiv.org/abs/2601.22528
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Darwinian Memory splits GUI trajectories into reusable units and updates the mem
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-22528/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-22528/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongze Mi, Yibo Feng, WenJie Lu, Song Cao, Jinyuan Li, Yanming Li, Xuelin Zhang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-22528/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-22528/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-22528/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-22528/citation.csl.json
 
 ## Recorded arXiv snapshot
 

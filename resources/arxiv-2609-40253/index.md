@@ -2,7 +2,7 @@
 
 Introduces ComputerSD, which turns feedback from executed GUI transitions into online self-distillation guidance and step-level scores. A GUI analyzer supplies these signals, which are combined with trajectory-level reinforcement learning in asynchronous training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-40253/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-40253/
 - Original source: https://arxiv.org/abs/2609.40253
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces ComputerSD, which turns feedback from executed GUI transitions into o
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-40253/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-40253/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yong Du, Tongbo Chen, Zhengxi Lu, Yizhou Liu, Bofan Chen, Tao Jiang, Wenhao Xu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-40253/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-40253/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-40253/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-40253/citation.csl.json
 
 ## Recorded arXiv snapshot
 

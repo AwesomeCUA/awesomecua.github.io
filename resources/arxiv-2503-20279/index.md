@@ -2,7 +2,7 @@
 
 Evaluates security failures of computer-use agents under adversarial requests and screen-context manipulation. The study examines refusal behavior while agents perform tasks in desktop and web environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-20279/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-20279/
 - Original source: https://arxiv.org/abs/2503.20279
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates security failures of computer-use agents under adversarial requests an
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-20279/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-20279/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sejin Lee, Jian Kim, Haon Park, Ashkan Yousefpour, Sangyoon Yu, Min Song
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-20279/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-20279/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-20279/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-20279/citation.csl.json
 
 ## Recorded arXiv snapshot
 

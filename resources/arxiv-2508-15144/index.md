@@ -2,7 +2,7 @@
 
 Introduces GUI-Owl models and Mobile-Agent-v3 orchestration, using environment-generated trajectories to support GUI capabilities.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-15144/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-15144/
 - Original source: https://arxiv.org/abs/2508.15144
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUI-Owl models and Mobile-Agent-v3 orchestration, using environment-g
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-15144/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-15144/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-15144/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-15144/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-15144/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-15144/citation.csl.json
 
 ## Recorded arXiv snapshot
 

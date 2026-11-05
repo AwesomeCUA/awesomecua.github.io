@@ -2,7 +2,7 @@
 
 Introduces CaptchaArena, a dataset of execution-verified interactive CAPTCHA solutions with screenshot–action trajectories, reasoning annotations, and pixel masks for irregular targets. The work trains a single policy across CAPTCHA types using supervised learning followed by verifier-reward reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-31957/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-31957/
 - Original source: https://arxiv.org/abs/2609.31957
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CaptchaArena, a dataset of execution-verified interactive CAPTCHA sol
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-31957/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-31957/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhenhao Zhang, Zhaoyu Fan, Haohan Ying, Jingwen Hu, Hancen Fan, Junhao Zhou, Zit
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-31957/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-31957/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-31957/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-31957/citation.csl.json
 
 ## Recorded arXiv snapshot
 

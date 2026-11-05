@@ -2,7 +2,7 @@
 
 CAAP converts screenshots into textual observations and plans keyboard-and-mouse actions using a prompt that examines task context from multiple perspectives. The agent is evaluated on MiniWoB++ and WebShop using only front-end visual observations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-06947/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-06947/
 - Original source: https://arxiv.org/abs/2406.06947
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CAAP converts screenshots into textual observations and plans keyboard-and-mouse
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-06947/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-06947/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junhee Cho, Jihoon Kim, Daseul Bae, Jinho Choo, Youngjune Gwon, Yeong-Dae Kwon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-06947/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-06947/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-06947/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-06947/citation.csl.json
 
 ## Recorded arXiv snapshot
 

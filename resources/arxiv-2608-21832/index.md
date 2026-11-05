@@ -2,7 +2,7 @@
 
 Introduces GUI-Primitives, a paired-instruction benchmark that changes a spatial relation while holding the screenshot and anchor fixed. Its diagnostics separate failure to localize either candidate from failure to choose the candidate satisfying the relation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-21832/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-21832/
 - Original source: https://arxiv.org/abs/2608.21832
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUI-Primitives, a paired-instruction benchmark that changes a spatial
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-21832/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-21832/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Md Abrar Jahin, Md Rizwan Parvez
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-21832/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-21832/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-21832/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-21832/citation.csl.json
 
 ## Recorded arXiv snapshot
 

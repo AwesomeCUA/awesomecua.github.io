@@ -2,7 +2,7 @@
 
 Bibliographic record for PRBench: End-to-end Paper Reproduction in Physics Research. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-27646/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-27646/
 - Original source: https://arxiv.org/abs/2603.27646
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PRBench: End-to-end Paper Reproduction in Physics Resea
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-27646/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-27646/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shi Qiu, Junyi Deng, Yiwei Deng, Haoran Dong, Jieyu Fu, Mao Li, Zeyu Li, Zhaolon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-27646/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-27646/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-27646/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-27646/citation.csl.json
 
 ## Recorded arXiv snapshot
 

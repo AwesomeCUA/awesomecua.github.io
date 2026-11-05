@@ -2,7 +2,7 @@
 
 Studies iterative UI grounding in which users refine or correct an agent's interpretation over multiple conversational turns.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2209-15099/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2209-15099/
 - Original source: https://arxiv.org/abs/2209.15099
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies iterative UI grounding in which users refine or correct an agent's inter
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2209-15099/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2209-15099/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tao Li, Gang Li, Jingjie Zheng, Purple Wang, Yang Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2209-15099/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2209-15099/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2209-15099/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2209-15099/citation.csl.json
 
 ## Recorded arXiv snapshot
 

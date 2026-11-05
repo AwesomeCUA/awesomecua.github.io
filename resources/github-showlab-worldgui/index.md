@@ -2,7 +2,7 @@
 
 611 desktop GUI tasks that agents must complete from varied starting points, shipped with instructional videos and project files, plus the self-reflective WorldGUI-Agent baseline.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-showlab-worldgui/
+- Catalog URL: https://awesomecua.com/resources/github-showlab-worldgui/
 - Original source: https://github.com/showlab/WorldGUI
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-showlab-worldgui/record.json
+- Record JSON: https://awesomecua.com/resources/github-showlab-worldgui/record.json
 
 ## License declarations
 

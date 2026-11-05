@@ -2,7 +2,7 @@
 
 HAR-GUI combines episodic reasoning and short-term memory to use earlier interactions when selecting GUI actions. Its training constructs reflective scenarios and correction guidance and applies a hybrid reinforcement-learning reward to the 3B policy.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-09127/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-09127/
 - Original source: https://arxiv.org/abs/2511.09127
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ HAR-GUI combines episodic reasoning and short-term memory to use earlier interac
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-09127/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-09127/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziwei Wang, Leyang Yang, Xiaoxuan Tang, Sheng Zhou, Dajun Chen, Wei Jiang, Yong 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-09127/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-09127/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-09127/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-09127/citation.csl.json
 
 ## Recorded arXiv snapshot
 

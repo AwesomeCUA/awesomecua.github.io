@@ -2,7 +2,7 @@
 
 Combines GUI perception data, instructional videos, real and simulated devices, and planning with reflection to develop a mobile agent.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-14548/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-14548/
 - Original source: https://arxiv.org/abs/2607.14548
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines GUI perception data, instructional videos, real and simulated devices, 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-14548/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-14548/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hy Vision Team, Huawen Shen, Zhengyang Tang, Shangpin Peng, Liang Wu, Anran Zhan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-14548/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-14548/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-14548/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-14548/citation.csl.json
 
 ## Recorded arXiv snapshot
 

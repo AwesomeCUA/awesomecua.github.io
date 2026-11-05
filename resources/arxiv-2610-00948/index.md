@@ -2,7 +2,7 @@
 
 Improves GUI-agent execution code by analyzing action effects and repeated-task failures, then validating bounded changes with frozen model weights.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-00948/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-00948/
 - Original source: https://arxiv.org/abs/2610.00948
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Improves GUI-agent execution code by analyzing action effects and repeated-task 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-00948/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-00948/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Geyi Yang, Zikun Qu, Xiang Li, Zhiyong Wang, Min Zhang, Shipei Zeng, Zhongxiang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-00948/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-00948/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-00948/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-00948/citation.csl.json
 
 ## Recorded arXiv snapshot
 

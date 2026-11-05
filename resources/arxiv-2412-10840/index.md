@@ -2,7 +2,7 @@
 
 Locates GUI targets by identifying and aggregating attention maps in pretrained multimodal models without task-specific fine-tuning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-10840/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-10840/
 - Original source: https://arxiv.org/abs/2412.10840
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Locates GUI targets by identifying and aggregating attention maps in pretrained 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-10840/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-10840/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hai-Ming Xu, Qi Chen, Lei Wang, Lingqiao Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-10840/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-10840/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-10840/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-10840/citation.csl.json
 
 ## Recorded arXiv snapshot
 

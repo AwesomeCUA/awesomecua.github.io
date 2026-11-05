@@ -2,7 +2,7 @@
 
 Bibliographic record for Interface Quilt: Modifying Applications with Computer Use Agents and Generative UI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2611-01891/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2611-01891/
 - Original source: https://arxiv.org/abs/2611.01891
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Interface Quilt: Modifying Applications with Computer U
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2611-01891/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2611-01891/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Leping Qiu, Jo Vermeulen, Tim Zindulka, George Fitzmaurice, Fraser Anderson
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2611-01891/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2611-01891/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2611-01891/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2611-01891/citation.csl.json
 
 ## Recorded arXiv snapshot
 

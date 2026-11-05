@@ -2,7 +2,7 @@
 
 Bibliographic record for SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2312-02976/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2312-02976/
 - Original source: https://arxiv.org/abs/2312.02976
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SPOC: Imitating Shortest Paths in Simulation Enables Ef
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-02976/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2312-02976/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kiana Ehsani, Tanmay Gupta, Rose Hendrix, Jordi Salvador, Luca Weihs, Kuo-Hao Ze
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-02976/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-02976/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2312-02976/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2312-02976/citation.csl.json
 
 ## Recorded arXiv snapshot
 

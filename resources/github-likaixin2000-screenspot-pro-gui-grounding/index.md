@@ -2,7 +2,7 @@
 
 GUI grounding benchmark focused on professional high-resolution interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-likaixin2000-screenspot-pro-gui-grounding/
+- Catalog URL: https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/
 - Original source: https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ GUI grounding benchmark focused on professional high-resolution interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-likaixin2000-screenspot-pro-gui-grounding/record.json
+- Record JSON: https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/record.json
 
 ## Structured profile
 

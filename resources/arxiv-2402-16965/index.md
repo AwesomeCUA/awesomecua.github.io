@@ -2,7 +2,7 @@
 
 Studies WIPI, a black-box indirect-instruction threat in which webpage content redirects LLM-driven web agents. Evaluation spans plugin-based agents, Web GPTs, and open-source web-agent implementations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-16965/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-16965/
 - Original source: https://arxiv.org/abs/2402.16965
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies WIPI, a black-box indirect-instruction threat in which webpage content r
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-16965/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-16965/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fangzhou Wu, Shutong Wu, Yulong Cao, Chaowei Xiao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-16965/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-16965/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-16965/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-16965/citation.csl.json
 
 ## Recorded arXiv snapshot
 

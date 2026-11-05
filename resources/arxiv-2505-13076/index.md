@@ -2,7 +2,7 @@
 
 Outlines an end-to-end threat model and empirical security evaluation across architectural layers of autonomous browser agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-13076/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-13076/
 - Original source: https://arxiv.org/abs/2505.13076
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Outlines an end-to-end threat model and empirical security evaluation across arc
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-13076/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-13076/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mykyta Mudryi, Markiyan Chaklosh, Grzegorz Wójcik
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-13076/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-13076/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-13076/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-13076/citation.csl.json
 
 ## Recorded arXiv snapshot
 

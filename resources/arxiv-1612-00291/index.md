@@ -2,7 +2,7 @@
 
 Bibliographic record for Aggressive Quadrotor Flight through Narrow Gaps with Onboard Sensing and Computing using Active Vision. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1612-00291/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1612-00291/
 - Original source: https://arxiv.org/abs/1612.00291
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Aggressive Quadrotor Flight through Narrow Gaps with On
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1612-00291/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1612-00291/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Davide Falanga, Elias Mueggler, Matthias Faessler, Davide Scaramuzza
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1612-00291/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1612-00291/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1612-00291/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1612-00291/citation.csl.json
 
 ## Recorded arXiv snapshot
 

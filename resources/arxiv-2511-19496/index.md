@@ -2,7 +2,7 @@
 
 Bibliographic record for Xmodel-2.5: 1.3B Data-Efficient Reasoning SLM. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-19496/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-19496/
 - Original source: https://arxiv.org/abs/2511.19496
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Xmodel-2.5: 1.3B Data-Efficient Reasoning SLM. Title, a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-19496/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-19496/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yang Liu, Xiaolong Zhong, Ling Jiang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-19496/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-19496/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-19496/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-19496/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Skill-Guided Continuation Distillation first lets a policy reach its own off-trajectory states, then uses skill guidance to collect successful continuations. Mixing those continuations with expert traces supplies supervision for recovery states absent from demonstrations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-18890/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-18890/
 - Original source: https://arxiv.org/abs/2606.18890
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Skill-Guided Continuation Distillation first lets a policy reach its own off-tra
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-18890/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-18890/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhimin Fan, Hongwei Yu, Yeqing Shen, Haolong Yan, Guozhen Peng, Tianhao Peng, Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-18890/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-18890/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-18890/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-18890/citation.csl.json
 
 ## Recorded arXiv snapshot
 

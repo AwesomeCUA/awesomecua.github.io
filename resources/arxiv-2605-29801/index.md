@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-29801/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-29801/
 - Original source: https://arxiv.org/abs/2605.29801
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentDoG 1.5: A Lightweight and Scalable Alignment Fram
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-29801/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-29801/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dongrui Liu, Yu Li, Zhonghao Yang, Peng Wang, Guanxu Chen, Yuejin Xie, Qinghua M
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-29801/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-29801/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-29801/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-29801/citation.csl.json
 
 ## Recorded arXiv snapshot
 

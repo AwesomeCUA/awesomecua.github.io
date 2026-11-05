@@ -2,7 +2,7 @@
 
 Builds browser-agent training trajectories with live and synthetic environments, solvers, user simulation, and complementary correctness and efficiency verifiers.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-20785/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-20785/
 - Original source: https://arxiv.org/abs/2606.20785
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds browser-agent training trajectories with live and synthetic environments,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-20785/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-20785/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ahmed Awadallah, Sahil Gupta, Yash Lara, Yadong Lu, Hussein Mozannar, Akshay Nam
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-20785/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-20785/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-20785/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-20785/citation.csl.json
 
 ## Recorded arXiv snapshot
 

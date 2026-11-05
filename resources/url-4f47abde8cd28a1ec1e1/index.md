@@ -2,7 +2,7 @@
 
 Browser-interaction data released with NNetNav for its live-website setting, with separate training and test files.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-4f47abde8cd28a1ec1e1/
+- Catalog URL: https://awesomecua.com/resources/url-4f47abde8cd28a1ec1e1/
 - Original source: https://huggingface.co/datasets/stanfordnlp/nnetnav-live
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Browser-interaction data released with NNetNav for its live-website setting, wit
 
 The Hub card supplies a license but no detailed schema. Dataset purpose is supported by the project's README; exact sample counts and annotation quality remain unverified.
 
-- Record JSON: https://awesomecua.github.io/resources/url-4f47abde8cd28a1ec1e1/record.json
+- Record JSON: https://awesomecua.com/resources/url-4f47abde8cd28a1ec1e1/record.json
 
 ## License declarations
 

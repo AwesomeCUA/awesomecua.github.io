@@ -2,7 +2,7 @@
 
 LegacyWorld evaluates Windows GUI workflows under an atomicity criterion: finish correctly or fail without persistent unintended changes. It compares expert prompts with prompts derived from recorded golden paths and separates useful completion, safe failure and non-atomic side effects.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-14131/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-14131/
 - Original source: https://arxiv.org/abs/2608.14131
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LegacyWorld evaluates Windows GUI workflows under an atomicity criterion: finish
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-14131/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-14131/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Thilo Reintjes, Sivajeet Chand, Derui Zhu, Sushant Kumar Pandey, Alexander Prets
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-14131/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-14131/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-14131/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-14131/citation.csl.json
 
 ## Recorded arXiv snapshot
 

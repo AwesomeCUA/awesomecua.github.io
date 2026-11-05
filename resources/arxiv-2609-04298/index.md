@@ -2,7 +2,7 @@
 
 Bibliographic record for Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-04298/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-04298/
 - Original source: https://arxiv.org/abs/2609.04298
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Harbor Adapters and Harbor-Index: Infrastructure and a 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-04298/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-04298/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lin Shi, Haowei Lin, Zixuan Zhu, Xiaoyue Zhou, Xiang Li, Xiangning Lin, Yaxuan D
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-04298/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-04298/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-04298/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-04298/citation.csl.json
 
 ## Recorded arXiv snapshot
 

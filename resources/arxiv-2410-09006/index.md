@@ -2,7 +2,7 @@
 
 Develops a taxonomy of mobile-action consequences and annotated interaction data to evaluate whether models recognize impactful or risky UI operations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-09006/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-09006/
 - Original source: https://arxiv.org/abs/2410.09006
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Develops a taxonomy of mobile-action consequences and annotated interaction data
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-09006/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-09006/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhuohao Jerry Zhang, Eldon Schoop, Jeffrey Nichols, Anuj Mahajan, Amanda Swearng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-09006/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-09006/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-09006/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-09006/citation.csl.json
 
 ## Recorded arXiv snapshot
 

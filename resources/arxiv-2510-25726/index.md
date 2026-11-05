@@ -2,7 +2,7 @@
 
 Bibliographic record for The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-25726/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-25726/
 - Original source: https://arxiv.org/abs/2510.25726
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for The Tool Decathlon: Benchmarking Language Agents for Di
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-25726/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-25726/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junlong Li, Wenshuo Zhao, Jian Zhao, Weihao Zeng, Haoze Wu, Xiaochen Wang, Rui G
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-25726/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-25726/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-25726/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-25726/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Presents a preliminary study of Claude 3.5 Computer Use across desktop tasks and software, analyzing planning, action, and critique behavior and providing a framework for deploying GUI-automation models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-10323/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-10323/
 - Original source: https://arxiv.org/abs/2411.10323
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents a preliminary study of Claude 3.5 Computer Use across desktop tasks and
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-10323/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-10323/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Siyuan Hu, Mingyu Ouyang, Difei Gao, Mike Zheng Shou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-10323/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-10323/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-10323/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-10323/citation.csl.json
 
 ## Recorded arXiv snapshot
 

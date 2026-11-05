@@ -2,7 +2,7 @@
 
 The public training archive linked by the Phi-Ground project for its Phi-Ground-Any model.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-d1830de02226155ee16d/
+- Catalog URL: https://awesomecua.com/resources/url-d1830de02226155ee16d/
 - Original source: https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ The public training archive linked by the Phi-Ground project for its Phi-Ground-
 
 The Hub exposes train.zip and a card containing only license/language metadata. The official repository marks this training-data release complete, but its Phi-Ground-Any paper is still pending. No binding to the earlier Phi-Ground paper, sample count, split structure or operating-system coverage is inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/url-d1830de02226155ee16d/record.json
+- Record JSON: https://awesomecua.com/resources/url-d1830de02226155ee16d/record.json
 
 ## License declarations
 

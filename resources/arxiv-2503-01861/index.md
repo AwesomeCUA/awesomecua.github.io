@@ -2,7 +2,7 @@
 
 Describes the CUGA enterprise-agent development process, emphasizing iterative evaluation, failure analysis, and refinement on software-task benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-01861/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-01861/
 - Original source: https://arxiv.org/abs/2503.01861
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes the CUGA enterprise-agent development process, emphasizing iterative e
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-01861/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-01861/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sami Marreed, Alon Oved, Avi Yaeli, Segev Shlomov, Ido Levy, Offer Akrabi, Aviad
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-01861/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-01861/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-01861/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-01861/citation.csl.json
 
 ## Recorded arXiv snapshot
 

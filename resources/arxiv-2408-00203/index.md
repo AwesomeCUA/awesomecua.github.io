@@ -2,7 +2,7 @@
 
 Parses screenshots into interactable regions and semantic element descriptions to support visually grounded agent actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2408-00203/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2408-00203/
 - Original source: https://arxiv.org/abs/2408.00203
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Parses screenshots into interactable regions and semantic element descriptions t
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-00203/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2408-00203/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yadong Lu, Jianwei Yang, Yelong Shen, Ahmed Awadallah
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-00203/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-00203/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2408-00203/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2408-00203/citation.csl.json
 
 ## Recorded arXiv snapshot
 

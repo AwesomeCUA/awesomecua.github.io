@@ -2,7 +2,7 @@
 
 CATTS allocates additional inference computation when an agent’s action votes show uncertainty. The paper compares voting and arbiter strategies and evaluates this selective scaling on WebArena-Lite, Online-Mind2Web and GoBrowse.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-12276/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-12276/
 - Original source: https://arxiv.org/abs/2602.12276
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CATTS allocates additional inference computation when an agent’s action votes 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-12276/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-12276/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nicholas Lee, Lutfi Eren Erdogan, Chris Joseph John, Surya Krishnapillai, Michae
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-12276/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-12276/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-12276/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-12276/citation.csl.json
 
 ## Recorded arXiv snapshot
 

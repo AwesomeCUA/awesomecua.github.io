@@ -2,7 +2,7 @@
 
 State-Grounded Dynamic Retrieval extracts reusable sub-procedures from completed web trajectories and represents them as paired text and code. Skills are retrieved against both the current webpage state and the task goal at intermediate execution steps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-04391/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-04391/
 - Original source: https://arxiv.org/abs/2606.04391
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ State-Grounded Dynamic Retrieval extracts reusable sub-procedures from completed
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-04391/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-04391/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiaxi Li, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu, Ni
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-04391/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-04391/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-04391/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-04391/citation.csl.json
 
 ## Recorded arXiv snapshot
 

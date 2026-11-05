@@ -2,7 +2,7 @@
 
 Bibliographic record for Evaluating Large Language Models Trained on Code. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2107-03374/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2107-03374/
 - Original source: https://arxiv.org/abs/2107.03374
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Evaluating Large Language Models Trained on Code. Title
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2107-03374/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2107-03374/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde de Oliveira Pin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2107-03374/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2107-03374/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2107-03374/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2107-03374/citation.csl.json
 
 ## Recorded arXiv snapshot
 

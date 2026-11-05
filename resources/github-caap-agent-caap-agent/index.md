@@ -2,7 +2,7 @@
 
 Screenshot-driven agent implementation for MiniWoB++ and WebShop, using a visual observer and context-aware prompts to issue mouse and keyboard actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-caap-agent-caap-agent/
+- Catalog URL: https://awesomecua.com/resources/github-caap-agent-caap-agent/
 - Original source: https://github.com/caap-agent/caap-agent
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Screenshot-driven agent implementation for MiniWoB++ and WebShop, using a visual
 
 Code is released for the two named browser benchmarks. Visual-observer checkpoints are linked separately through Google Drive and were not downloaded or access-tested. Root LICENSE begins with GNU AGPL v3 and includes third-party notices; this code declaration is not transferred to bundled/generated data or external weights.
 
-- Record JSON: https://awesomecua.github.io/resources/github-caap-agent-caap-agent/record.json
+- Record JSON: https://awesomecua.com/resources/github-caap-agent-caap-agent/record.json
 
 ## License declarations
 

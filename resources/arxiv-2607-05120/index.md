@@ -2,7 +2,7 @@
 
 This study examines agent data injection, where untrusted content impersonates trusted metadata or tool-context data. It reports arbitrary-click vulnerabilities in web agents alongside separate coding-agent attacks, highlighting trust-boundary failures beyond instruction injection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-05120/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-05120/
 - Original source: https://arxiv.org/abs/2607.05120
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study examines agent data injection, where untrusted content impersonates t
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-05120/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-05120/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Woohyuk Choi, Juhee Kim, Taehyun Kang, Jihyeon Jeong, Luyi Xing, Byoungyoung Lee
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-05120/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-05120/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-05120/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-05120/citation.csl.json
 
 ## Recorded arXiv snapshot
 

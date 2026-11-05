@@ -2,7 +2,7 @@
 
 Bibliographic record for Towards A Better Metric for Text-to-Video Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-07781/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-07781/
 - Original source: https://arxiv.org/abs/2401.07781
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Towards A Better Metric for Text-to-Video Generation. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-07781/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-07781/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jay Zhangjie Wu, Guian Fang, Haoning Wu, Xintao Wang, Yixiao Ge, Xiaodong Cun, D
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-07781/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-07781/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-07781/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-07781/citation.csl.json
 
 ## Recorded arXiv snapshot
 

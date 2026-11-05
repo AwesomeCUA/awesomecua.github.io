@@ -2,7 +2,7 @@
 
 Introduces FCPAgent, which attaches confirming and falsifying evidence to each skill-grounded plan step. A plan–test–repair loop checks actions and observations, then localizes contradictions so execution, skills, or plans can be revised at the appropriate level.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-24167/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-24167/
 - Original source: https://arxiv.org/abs/2607.24167
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces FCPAgent, which attaches confirming and falsifying evidence to each s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-24167/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-24167/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guangyi Liu, Huan Zhao, Quanming Yao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-24167/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-24167/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-24167/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-24167/citation.csl.json
 
 ## Recorded arXiv snapshot
 

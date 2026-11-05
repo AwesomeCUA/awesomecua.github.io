@@ -2,7 +2,7 @@
 
 Bibliographic record for "I Strongly Suspect This Website Is a Scam": Benchmarking PII Leakage and Detection without Defense in Autonomous Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-00497/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-00497/
 - Original source: https://arxiv.org/abs/2606.00497
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for "I Strongly Suspect This Website Is a Scam": Benchmarki
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-00497/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-00497/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Soham Roy, Sarthakbrata Halder, Arya Bharaty, Vaibhav Bhaskar, Yash Sinha, Dhruv
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-00497/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-00497/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-00497/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-00497/citation.csl.json
 
 ## Recorded arXiv snapshot
 

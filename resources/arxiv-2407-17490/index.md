@@ -2,7 +2,7 @@
 
 Introduces Android screenshots with element locations, functionality descriptions, and instructions linked to sequences of GUI actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-17490/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-17490/
 - Original source: https://arxiv.org/abs/2407.17490
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Android screenshots with element locations, functionality description
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-17490/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-17490/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxiang Chai, Siyuan Huang, Yazhe Niu, Han Xiao, Liang Liu, Dingyu Zhang, Shuai 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-17490/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-17490/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-17490/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-17490/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yuxiang Chai, Siyuan Huang, Yazhe Niu, Han Xiao, Liang Liu, Dingyu Zhang, Shuai 
 - Authors: Yuxiang Chai, Siyuan Huang, Yazhe Niu, Han Xiao, Liang Liu, Guozhi Wang, Dingyu Zhang, Shuai Ren, Hongsheng Li
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.findings-acl.110/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2407-17490/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-17490/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2407-17490/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2407-17490/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2025
 - publisher: Association for Computational Linguistics
 - pages: 2138-2156

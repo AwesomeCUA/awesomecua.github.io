@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with Anthropic computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-anthropic/
+- Catalog URL: https://awesomecua.com/resources/organization-anthropic/
 - Original source: https://claude.com/chrome
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with Anthropic computer-use or browser aut
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-anthropic/record.json
+- Record JSON: https://awesomecua.com/resources/organization-anthropic/record.json
 
 ## License declarations
 

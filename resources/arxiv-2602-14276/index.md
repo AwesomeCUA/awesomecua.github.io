@@ -2,7 +2,7 @@
 
 ScreenParse supplies dense annotations of UI elements, types and text in web screenshots through an automated rendering and filtering pipeline. ScreenVLM learns to output structured screen markup, and the study evaluates dense parsing and transfer to GUI grounding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-14276/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-14276/
 - Original source: https://arxiv.org/abs/2602.14276
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ScreenParse supplies dense annotations of UI elements, types and text in web scr
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14276/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-14276/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ A. Said Gurbuz, Sunghwan Hong, Ahmed Nassar, Marc Pollefeys, Peter Staar
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14276/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14276/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-14276/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-14276/citation.csl.json
 
 ## Recorded arXiv snapshot
 

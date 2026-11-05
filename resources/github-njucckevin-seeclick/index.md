@@ -2,7 +2,7 @@
 
 GUI grounding model trained to locate visual interface elements.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-njucckevin-seeclick/
+- Catalog URL: https://awesomecua.com/resources/github-njucckevin-seeclick/
 - Original source: https://github.com/njucckevin/SeeClick
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ GUI grounding model trained to locate visual interface elements.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-njucckevin-seeclick/record.json
+- Record JSON: https://awesomecua.com/resources/github-njucckevin-seeclick/record.json
 
 ## License declarations
 

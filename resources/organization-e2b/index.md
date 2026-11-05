@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with E2B computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-e2b/
+- Catalog URL: https://awesomecua.com/resources/organization-e2b/
 - Original source: https://e2b.dev/
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with E2B computer-use or browser automatio
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-e2b/record.json
+- Record JSON: https://awesomecua.com/resources/organization-e2b/record.json
 
 ## License declarations
 

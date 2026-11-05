@@ -2,7 +2,7 @@
 
 EvoCUA combines task synthesis with executable validators, asynchronous sandbox rollouts and iterative policy updates. It turns successful routines and analyzed failures into supervision and evaluates the evolving agent on OSWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-15876/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-15876/
 - Original source: https://arxiv.org/abs/2601.15876
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ EvoCUA combines task synthesis with executable validators, asynchronous sandbox 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-15876/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-15876/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Taofeng Xue, Chong Peng, Mianqiu Huang, Linsen Guo, Tiancheng Han, Haozhe Wang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-15876/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-15876/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-15876/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-15876/citation.csl.json
 
 ## Recorded arXiv snapshot
 

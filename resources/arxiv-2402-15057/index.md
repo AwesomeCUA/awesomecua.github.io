@@ -2,7 +2,7 @@
 
 MT-Mind2Web evaluates web navigation through sequences of conversational user instructions. Self-MAP combines memory-augmented planning with reflection to preserve context and dependencies across those interaction turns.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-15057/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-15057/
 - Original source: https://arxiv.org/abs/2402.15057
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MT-Mind2Web evaluates web navigation through sequences of conversational user in
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-15057/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-15057/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-15057/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-15057/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-15057/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-15057/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
 - Authors: Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See Kiong Ng, Tat-Seng Chua
 - Publication date (recorded precision): 2024-08
 - Publication source: https://aclanthology.org/2024.acl-long.477/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2402-15057/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-15057/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-15057/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-15057/publication-citation.csl.json
 - venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 8795-8812

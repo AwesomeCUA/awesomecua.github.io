@@ -2,7 +2,7 @@
 
 Adapts multimodal web agents to unfamiliar websites using a small number of human demonstrations through prompting or meta-learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-13451/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-13451/
 - Original source: https://arxiv.org/abs/2411.13451
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Adapts multimodal web agents to unfamiliar websites using a small number of huma
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-13451/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-13451/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gaurav Verma, Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Tucker Balch, Manuela
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-13451/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-13451/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-13451/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-13451/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Gaurav Verma, Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Tucker Balch, Manuela
 - Authors: Gaurav Verma, Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Tucker Balch, Manuela Veloso
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.acl-long.1008/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2411-13451/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-13451/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2411-13451/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2411-13451/publication-citation.csl.json
 - venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 20635-20651

@@ -2,7 +2,7 @@
 
 Synthetic mobile GUI trajectory supervision and screenshots released with the UI-Genie agent-training pipeline.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-2e1927450da2183a5abe/
+- Catalog URL: https://awesomecua.com/resources/url-2e1927450da2183a5abe/
 - Original source: https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Synthetic mobile GUI trajectory supervision and screenshots released with the UI
 
 Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels; this review does not infer a reliable trajectory count from them.
 
-- Record JSON: https://awesomecua.github.io/resources/url-2e1927450da2183a5abe/record.json
+- Record JSON: https://awesomecua.com/resources/url-2e1927450da2183a5abe/record.json
 
 ## Structured profile
 

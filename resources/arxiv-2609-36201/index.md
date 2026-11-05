@@ -2,7 +2,7 @@
 
 Introduces SCOUT, a safety verifier that first derives task-specific completion and safety rubrics from a computer-use trajectory, then actively probes the resulting environment for evidence. It evaluates whether these two stages detect harmful consequences that screenshots alone can miss.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-36201/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-36201/
 - Original source: https://arxiv.org/abs/2609.36201
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SCOUT, a safety verifier that first derives task-specific completion 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-36201/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-36201/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jianxing Chen, Xiao Yu, Shipra Agrawal, Zhou Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-36201/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-36201/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-36201/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-36201/citation.csl.json
 
 ## Recorded arXiv snapshot
 

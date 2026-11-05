@@ -2,7 +2,7 @@
 
 Frames conversational and on-screen reference resolution as language modeling, allowing textual representations of screen entities to support user-reference interpretation. Evaluation separately examines on-screen references against an existing resolver and language-model baselines.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-20329/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-20329/
 - Original source: https://arxiv.org/abs/2403.20329
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Frames conversational and on-screen reference resolution as language modeling, a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. This is reference resolution involving screen entities, not an evaluated end-to-end GUI controller.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-20329/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-20329/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Joel Ruben Antony Moniz, Soundarya Krishnan, Melis Ozyildirim, Prathamesh Saraf,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-20329/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-20329/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-20329/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-20329/citation.csl.json
 
 ## Recorded arXiv snapshot
 

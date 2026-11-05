@@ -2,7 +2,7 @@
 
 Introduces RUSS, which translates support instructions into a domain-specific language and grounds them in actionable web elements.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2103-16057/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2103-16057/
 - Original source: https://arxiv.org/abs/2103.16057
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces RUSS, which translates support instructions into a domain-specific la
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2103-16057/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2103-16057/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nancy Xu, Sam Masling, Michael Du, Giovanni Campagna, Larry Heck, James Landay, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2103-16057/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2103-16057/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2103-16057/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2103-16057/citation.csl.json
 
 ## Recorded arXiv snapshot
 

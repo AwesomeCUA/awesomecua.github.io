@@ -2,7 +2,7 @@
 
 PowerPoint creation and editing benchmark with API-based execution and checks of the resulting presentation files.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-gydpku-pptc/
+- Catalog URL: https://awesomecua.com/resources/github-gydpku-pptc/
 - Original source: https://github.com/gydpku/PPTC
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ PowerPoint creation and editing benchmark with API-based execution and checks of
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-gydpku-pptc/record.json
+- Record JSON: https://awesomecua.com/resources/github-gydpku-pptc/record.json
 
 ## License declarations
 

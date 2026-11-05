@@ -2,7 +2,7 @@
 
 Uses instruction screening and a safety-augmented world model to assess likely consequences of mobile GUI actions before execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-15550/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-15550/
 - Original source: https://arxiv.org/abs/2607.15550
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses instruction screening and a safety-augmented world model to assess likely c
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-15550/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-15550/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xue Yu, Bo Yuan, Kailin Zhao, Pengshuai Yang, Hong Hu, Junlan Feng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-15550/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-15550/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-15550/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-15550/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Experimental quantum mechanics in the class room: Testing basic ideas of quantum mechanics and quantum computing using IBM quantum computer. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1805-06275/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1805-06275/
 - Original source: https://arxiv.org/abs/1805.06275
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Experimental quantum mechanics in the class room: Testi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1805-06275/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1805-06275/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Anirban Pathak
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1805-06275/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1805-06275/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1805-06275/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1805-06275/citation.csl.json
 
 ## Recorded arXiv snapshot
 

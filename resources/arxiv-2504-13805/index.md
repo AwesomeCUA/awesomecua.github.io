@@ -2,7 +2,7 @@
 
 LearnAct parses human demonstrations into reusable knowledge, retrieves relevant examples, and uses them during mobile GUI task execution. The accompanying LearnGUI benchmark includes 2,252 offline tasks and 101 online tasks for studying adaptation from demonstrations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-13805/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-13805/
 - Original source: https://arxiv.org/abs/2504.13805
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LearnAct parses human demonstrations into reusable knowledge, retrieves relevant
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-13805/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-13805/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guangyi Liu, Pengxiang Zhao, Liang Liu, Zhiming Chen, Yuxiang Chai, Shuai Ren, H
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-13805/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-13805/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-13805/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-13805/citation.csl.json
 
 ## Recorded arXiv snapshot
 

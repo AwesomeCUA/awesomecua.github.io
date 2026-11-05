@@ -2,7 +2,7 @@
 
 Adapts web agents to execute natural-language test steps, verify assertions, and issue test verdicts. The study introduces 113 passing and failing test cases across three offline web applications and compares two agent implementations with qualitative failure analysis.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-01495/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-01495/
 - Original source: https://arxiv.org/abs/2504.01495
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Adapts web agents to execute natural-language test steps, verify assertions, and
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-01495/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-01495/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Antoine Chevrot, Alexandre Vernotte, Jean-Rémy Falleri, Xavier Blanc, Bruno Leg
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-01495/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-01495/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-01495/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-01495/citation.csl.json
 
 ## Recorded arXiv snapshot
 

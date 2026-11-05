@@ -2,7 +2,7 @@
 
 Bibliographic record for Agentic Reinforcement Learning with Implicit Step Rewards. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-19199/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-19199/
 - Original source: https://arxiv.org/abs/2509.19199
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Agentic Reinforcement Learning with Implicit Step Rewar
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-19199/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-19199/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaoqian Liu, Ke Wang, Yuchuan Wu, Fei Huang, Yongbin Li, Junge Zhang, Jianbin J
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-19199/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-19199/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-19199/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-19199/citation.csl.json
 
 ## Recorded arXiv snapshot
 

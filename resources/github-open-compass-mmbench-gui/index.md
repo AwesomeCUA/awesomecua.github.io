@@ -2,7 +2,7 @@
 
 Four-level GUI-agent benchmark across six platforms, from content understanding and element grounding to task automation and collaboration, scored with an efficiency-quality area metric.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-open-compass-mmbench-gui/
+- Catalog URL: https://awesomecua.com/resources/github-open-compass-mmbench-gui/
 - Original source: https://github.com/open-compass/MMBench-GUI
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Four-level GUI-agent benchmark across six platforms, from content understanding 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-open-compass-mmbench-gui/record.json
+- Record JSON: https://awesomecua.com/resources/github-open-compass-mmbench-gui/record.json
 
 ## Structured profile
 

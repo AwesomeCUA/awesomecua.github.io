@@ -2,7 +2,7 @@
 
 Bibliographic record for Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-30108/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-30108/
 - Original source: https://arxiv.org/abs/2610.30108
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Multimodal Embodied Agents: A Unified Capability-centri
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-30108/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-30108/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang, Ruihe An, Peiyao Xu, Hesen Yan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-30108/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-30108/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-30108/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-30108/citation.csl.json
 
 ## Recorded arXiv snapshot
 

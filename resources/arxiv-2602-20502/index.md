@@ -2,7 +2,7 @@
 
 ActionEngine explores web applications to build an updateable state-machine memory of GUI states, operations and transitions. It generates complete task programs from that memory, using reactive repair to handle changed interfaces or missing knowledge.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-20502/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-20502/
 - Original source: https://arxiv.org/abs/2602.20502
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ActionEngine explores web applications to build an updateable state-machine memo
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-20502/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-20502/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongbin Zhong, Fazle Faisal, Luis França, Tanakorn Leesatapornwongsa, Adriana S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-20502/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-20502/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-20502/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-20502/citation.csl.json
 
 ## Recorded arXiv snapshot
 

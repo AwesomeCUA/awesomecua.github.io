@@ -2,7 +2,7 @@
 
 Compares seven traditional and learned GUI element detectors on more than 50,000 interface images. The analysis motivates a coarse-to-fine non-text detector combined with a learned text detector to address GUI-specific localization requirements.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2008-05132/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2008-05132/
 - Original source: https://arxiv.org/abs/2008.05132
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares seven traditional and learned GUI element detectors on more than 50,000
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2008-05132/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2008-05132/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jieshan Chen, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu, G
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2008-05132/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2008-05132/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2008-05132/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2008-05132/citation.csl.json
 
 ## Recorded arXiv snapshot
 

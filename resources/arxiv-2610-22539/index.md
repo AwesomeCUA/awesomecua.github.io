@@ -2,7 +2,7 @@
 
 WebMix uses a scout-produced interface manual to route mixtures of source-trained LoRA adapters for web agents, adapting to target interfaces without target-time gradient updates.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22539/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-22539/
 - Original source: https://arxiv.org/abs/2610.22539
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebMix uses a scout-produced interface manual to route mixtures of source-traine
 
 Reviewed the complete retained abstract and selected exact-v1 method, evaluation and analysis sections. Adapter-bank and router training use source demonstrations. Domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free. No target-time gradients does not mean no target task information. No independent reproduction or artifact/license verification.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22539/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-22539/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Md Farhan Ishmam, Minh Pham Dinh, Kenneth Marino
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22539/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22539/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-22539/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-22539/citation.csl.json
 
 ## Recorded arXiv snapshot
 

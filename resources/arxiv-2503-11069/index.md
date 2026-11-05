@@ -2,7 +2,7 @@
 
 Compares API-driven and GUI-driven agents across architecture, development, and interaction considerations, discussing when hybrid approaches are useful.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-11069/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-11069/
 - Original source: https://arxiv.org/abs/2503.11069
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares API-driven and GUI-driven agents across architecture, development, and 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-11069/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-11069/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chaoyun Zhang, Shilin He, Liqun Li, Si Qin, Yu Kang, Qingwei Lin, Saravan Rajmoh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-11069/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-11069/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-11069/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-11069/citation.csl.json
 
 ## Recorded arXiv snapshot
 

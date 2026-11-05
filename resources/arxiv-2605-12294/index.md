@@ -2,7 +2,7 @@
 
 Executable Agentic Memory stores GUI routines in a knowledge graph built through state-aware exploration and action-group mining. A learned value model guides tree search over this executable memory for retrieval-based planning, with AndroidWorld and efficiency evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-12294/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-12294/
 - Original source: https://arxiv.org/abs/2605.12294
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Executable Agentic Memory stores GUI routines in a knowledge graph built through
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-12294/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-12294/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zerui Qin, Sheng Yue, Xingyuan Hua, Yongjian Fu, Ju Ren
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-12294/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-12294/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-12294/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-12294/citation.csl.json
 
 ## Recorded arXiv snapshot
 

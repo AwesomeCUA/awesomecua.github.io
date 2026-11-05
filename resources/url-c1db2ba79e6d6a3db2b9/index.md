@@ -2,7 +2,7 @@
 
 Annotation files, task recipes, and image manifests for ScreenRef; screenshots reside in the separately gated image repository.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-c1db2ba79e6d6a3db2b9/
+- Catalog URL: https://awesomecua.com/resources/url-c1db2ba79e6d6a3db2b9/
 - Original source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Annotation files, task recipes, and image manifests for ScreenRef; screenshots r
 
 The card declares restricted academic research use and no redistribution. Annotation coordinates use a normalized 1000 by 1000 space. Some source instructions name gestures other than the single-click target; the publisher recommends treating those as location supervision.
 
-- Record JSON: https://awesomecua.github.io/resources/url-c1db2ba79e6d6a3db2b9/record.json
+- Record JSON: https://awesomecua.com/resources/url-c1db2ba79e6d6a3db2b9/record.json
 
 ## Structured profile
 

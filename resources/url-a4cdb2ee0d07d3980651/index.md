@@ -2,7 +2,7 @@
 
 Introduces screenshot-based GUI search and visual scripting, using image patterns to locate interface targets and direct mouse and keyboard events. It evaluates screenshot queries and demonstrates automation and interactive-help tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/
+- Catalog URL: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/
 - Original source: https://doi.org/10.1145/1622176.1622213
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces screenshot-based GUI search and visual scripting, using image pattern
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. MIT identifies the retained content as an author final manuscript record. Its PDF download returned HTTP 429; no retry was made. The complete institutional abstract and bibliographic record were read.
 
-- Record JSON: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/record.json
+- Record JSON: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
 - Authors: Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
 - Publication date (recorded precision): 2009-10
 - Publication source: https://doi.org/10.1145/1622176.1622213
-- Publication BibTeX: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/publication-citation.csl.json
 - venue: Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)
 - pages: 183-192
 - doi: 10.1145/1622176.1622213

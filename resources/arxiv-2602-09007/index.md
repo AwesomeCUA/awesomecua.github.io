@@ -2,7 +2,7 @@
 
 GUI-GenBench tests image-generation models as action-conditioned GUI environments across five suites, including transitions, trajectories and grounding. Its VLM-based GUI-Score separates goal completion, interaction logic, consistency and visual properties.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-09007/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-09007/
 - Original source: https://arxiv.org/abs/2602.09007
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-GenBench tests image-generation models as action-conditioned GUI environment
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09007/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-09007/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haodong Li, Jingwei Wu, Quan Sun, Guopeng Li, Juanxi Tian, Ziyu Guo, Donghao Zho
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09007/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09007/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-09007/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-09007/citation.csl.json
 
 ## Recorded arXiv snapshot
 

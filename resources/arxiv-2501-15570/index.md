@@ -2,7 +2,7 @@
 
 Bibliographic record for ARWKV: Pretrain is not what we need, an RNN-Attention-Based Language Model Born from Transformer. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-15570/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2501-15570/
 - Original source: https://arxiv.org/abs/2501.15570
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ARWKV: Pretrain is not what we need, an RNN-Attention-B
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-15570/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2501-15570/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lin Yueyu, Li Zhiyuan, Peter Yue, Liu Xiao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-15570/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-15570/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2501-15570/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2501-15570/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for MindSearch: Mimicking Human Minds Elicits Deep AI Searcher. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-20183/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-20183/
 - Original source: https://arxiv.org/abs/2407.20183
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MindSearch: Mimicking Human Minds Elicits Deep AI Searc
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-20183/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-20183/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zehui Chen, Kuikun Liu, Qiuchen Wang, Jiangning Liu, Wenwei Zhang, Kai Chen, Fen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-20183/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-20183/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-20183/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-20183/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Web-world-model training data with prompts, images, action descriptions, and responses, released with the WebDreamer project.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-eadc6cba9ea46c38dd1d/
+- Catalog URL: https://awesomecua.com/resources/url-eadc6cba9ea46c38dd1d/
 - Original source: https://huggingface.co/datasets/osunlp/Dreamer-V1-Data
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Web-world-model training data with prompts, images, action descriptions, and res
 
 The card reports a cleaned size of 3.12M without explicitly defining its counting unit. The catalog leaves the exact sample count unknown. Its data license differs from the model-weight license.
 
-- Record JSON: https://awesomecua.github.io/resources/url-eadc6cba9ea46c38dd1d/record.json
+- Record JSON: https://awesomecua.com/resources/url-eadc6cba9ea46c38dd1d/record.json
 
 ## Structured profile
 

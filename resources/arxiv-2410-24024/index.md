@@ -2,7 +2,7 @@
 
 Provides a shared Android action environment, reproducible tasks, and instruction data for training and comparing language and multimodal agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-24024/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-24024/
 - Original source: https://arxiv.org/abs/2410.24024
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Provides a shared Android action environment, reproducible tasks, and instructio
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-24024/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-24024/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Da
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-24024/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-24024/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-24024/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-24024/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Da
 - Authors: Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu (余浩), Hanyu Lai, Shudan Zhang, Dan Zhang, Jie Tang, Yuxiao Dong
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.acl-long.107/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-24024/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-24024/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-24024/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-24024/publication-citation.csl.json
 - venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 2144-2166

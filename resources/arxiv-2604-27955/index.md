@@ -2,7 +2,7 @@
 
 Bibliographic record for GUI Agents with Reinforcement Learning: Toward Digital Inhabitants. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-27955/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-27955/
 - Original source: https://arxiv.org/abs/2604.27955
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for GUI Agents with Reinforcement Learning: Toward Digital 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-27955/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-27955/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junan Hu, Jian Liu, Jingxiang Lai, Jiarui Hu, Yiwei Sheng, Shuang Chen, Jian Li,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-27955/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-27955/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-27955/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-27955/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Studies a minimal terminal-based execution framework that lets digital agents construct tools and manage context across browser, desktop, and CAD tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-04116/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-04116/
 - Original source: https://arxiv.org/abs/2610.04116
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies a minimal terminal-based execution framework that lets digital agents co
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-04116/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-04116/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yadong Lu, Theodore Lee, Yifei Li, Lawrence Keunho Jang, Tianci Xue, Yu Su, Huan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-04116/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-04116/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-04116/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-04116/citation.csl.json
 
 ## Recorded arXiv snapshot
 

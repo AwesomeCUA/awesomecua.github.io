@@ -2,7 +2,7 @@
 
 Bibliographic record for CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-07871/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-07871/
 - Original source: https://arxiv.org/abs/2508.07871
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CATP: Contextually Adaptive Token Pruning for Efficient
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-07871/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-07871/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yanshu Li, Jianjiang Yang, Zhennan Shen, Ligong Han, Haoyan Xu, Ruixiang Tang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-07871/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-07871/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-07871/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-07871/citation.csl.json
 
 ## Recorded arXiv snapshot
 

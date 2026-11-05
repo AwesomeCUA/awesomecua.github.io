@@ -2,7 +2,7 @@
 
 Monorepo behind Cua Spaces, which gives agents full macOS or Linux desktops, plus Cua Driver for operating native apps, Lume for Apple Silicon VMs, Cua Bench and the CUA-S1 decision models.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-trycua-cua/
+- Catalog URL: https://awesomecua.com/resources/github-trycua-cua/
 - Original source: https://github.com/trycua/cua
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Monorepo behind Cua Spaces, which gives agents full macOS or Linux desktops, plu
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-trycua-cua/record.json
+- Record JSON: https://awesomecua.com/resources/github-trycua-cua/record.json
 
 ## License declarations
 

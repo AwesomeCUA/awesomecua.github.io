@@ -2,7 +2,7 @@
 
 Presents a privacy evaluation framework for browser agents covering component weaknesses, website defenses, tracking, privacy-related prompts and personal-data leakage. The framework is applied to deployed browser-agent tools.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-07725/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-07725/
 - Original source: https://arxiv.org/abs/2512.07725
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents a privacy evaluation framework for browser agents covering component we
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The abstract describes artifact release as planned; the annotation does not independently verify availability.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-07725/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-07725/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Alisha Ukani, Hamed Haddadi, Ali Shahin Shamsabadi, Peter Snyder
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-07725/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-07725/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-07725/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-07725/citation.csl.json
 
 ## Recorded arXiv snapshot
 

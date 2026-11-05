@@ -2,7 +2,7 @@
 
 VLAA-GUI combines mandatory checks for visually supported completion, multi-tier loop recovery and on-demand workflow search. Optional coding and grounding agents support execution, with component ablations on Linux and Windows GUI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-21375/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-21375/
 - Original source: https://arxiv.org/abs/2604.21375
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VLAA-GUI combines mandatory checks for visually supported completion, multi-tier
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-21375/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-21375/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qijun Han, Haoqin Tu, Zijun Wang, Haoyue Dai, Yiyang Zhou, Nancy Lau, Alvaro A. 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-21375/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-21375/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-21375/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-21375/citation.csl.json
 
 ## Recorded arXiv snapshot
 

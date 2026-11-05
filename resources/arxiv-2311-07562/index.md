@@ -2,7 +2,7 @@
 
 Studies MM-Navigator, a multimodal agent that interprets smartphone screenshots and predicts localized actions without task-specific training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2311-07562/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2311-07562/
 - Original source: https://arxiv.org/abs/2311.07562
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies MM-Navigator, a multimodal agent that interprets smartphone screenshots 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-07562/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2311-07562/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ An Yan, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-07562/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-07562/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2311-07562/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2311-07562/citation.csl.json
 
 ## Recorded arXiv snapshot
 

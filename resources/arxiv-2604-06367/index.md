@@ -2,7 +2,7 @@
 
 WebSP-Eval evaluates agents carrying out website security and privacy tasks such as preference changes and session management. A browser extension controls account and initial state across runs, enabling analysis of failures on stateful UI controls.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-06367/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-06367/
 - Original source: https://arxiv.org/abs/2604.06367
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebSP-Eval evaluates agents carrying out website security and privacy tasks such
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06367/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-06367/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guruprasad Viswanathan Ramesh, Asmit Nayak, Basieem Siddique, Kassem Fawaz
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06367/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06367/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-06367/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-06367/citation.csl.json
 
 ## Recorded arXiv snapshot
 

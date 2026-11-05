@@ -2,7 +2,7 @@
 
 Studies how to route different parts of GUI experience into model weights or runtime context rather than treating whole trajectories as a single unit. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-01787/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-01787/
 - Original source: https://arxiv.org/abs/2610.01787
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies how to route different parts of GUI experience into model weights or run
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-01787/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-01787/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Beining Wu, Zihao Ding, Jun Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-01787/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-01787/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-01787/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-01787/citation.csl.json
 
 ## Recorded arXiv snapshot
 

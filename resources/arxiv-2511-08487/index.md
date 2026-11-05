@@ -2,7 +2,7 @@
 
 Bibliographic record for How Brittle is Agent Safety? Rethinking Agent Risk under Intent Concealment and Task Complexity. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-08487/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-08487/
 - Original source: https://arxiv.org/abs/2511.08487
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for How Brittle is Agent Safety? Rethinking Agent Risk unde
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-08487/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-08487/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zihan Ma, Dongsheng Zhu, Shudong Liu, Taolin Zhang, Junnan Liu, Qingqiu Li, Minn
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-08487/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-08487/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-08487/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-08487/citation.csl.json
 
 ## Recorded arXiv snapshot
 

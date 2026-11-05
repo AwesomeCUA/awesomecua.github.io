@@ -2,7 +2,7 @@
 
 Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-copilot/
+- Catalog URL: https://awesomecua.com/resources/github-os-copilot-os-copilot/
 - Original source: https://github.com/OS-Copilot/OS-Copilot
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Open-source library for generalist agents acting on an operating system's web, t
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-os-copilot/record.json
+- Record JSON: https://awesomecua.com/resources/github-os-copilot-os-copilot/record.json
 
 ## License declarations
 

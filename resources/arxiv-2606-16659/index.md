@@ -2,7 +2,7 @@
 
 FraudSMSWalker tests browser agents on bilingual SMS-to-webpage fraud judgments while hiding URL and reputation shortcuts. Its controlled chains include difficult benign login/payment cases and evaluate whether classifications remain supported by the visible message and page evidence.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-16659/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-16659/
 - Original source: https://arxiv.org/abs/2606.16659
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ FraudSMSWalker tests browser agents on bilingual SMS-to-webpage fraud judgments 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-16659/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-16659/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Y. H. Zhou, Z. M. Ma, Y. J. Zhou, Y. T. Li, H. X. Xiang, Y. M. Cheng, T. L. Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-16659/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-16659/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-16659/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-16659/citation.csl.json
 
 ## Recorded arXiv snapshot
 

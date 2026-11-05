@@ -2,7 +2,7 @@
 
 Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from natural-language requests, built using scripts recorded from user actions and a collection of existing spreadsheets.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-14495/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-14495/
 - Original source: https://arxiv.org/abs/2310.14495
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from na
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. This is an application-specific automation benchmark grounded in recorded Excel user actions. Its execution interface is OfficeScripts, so it is adjacent rather than a visual GUI navigation benchmark.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-14495/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-14495/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Justin Payan, Swaroop Mishra, Mukul Singh, Carina Negreanu, Christian Poelitz, C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-14495/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-14495/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-14495/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-14495/citation.csl.json
 
 ## Recorded arXiv snapshot
 

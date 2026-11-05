@@ -2,7 +2,7 @@
 
 Bibliographic record for FCoT-VL:Advancing Text-oriented Large Vision-Language Models with Efficient Visual Token Compression. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-18512/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-18512/
 - Original source: https://arxiv.org/abs/2502.18512
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for FCoT-VL:Advancing Text-oriented Large Vision-Language M
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-18512/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-18512/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jianjian Li, Junquan Fan, Feng Tang, Gang Huang, Shitao Zhu, Songlin Liu, Nian X
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-18512/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-18512/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-18512/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-18512/citation.csl.json
 
 ## Recorded arXiv snapshot
 

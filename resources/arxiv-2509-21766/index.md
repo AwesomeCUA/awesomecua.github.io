@@ -2,7 +2,7 @@
 
 Bibliographic record for UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-21766/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-21766/
 - Original source: https://arxiv.org/abs/2509.21766
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for UltraHorizon: Benchmarking Agent Capabilities in Ultra 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21766/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-21766/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haotian Luo, Huaisong Zhang, Xuelin Zhang, Haoyu Wang, Zeyu Qin, Wenjie Lu, Guoz
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21766/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21766/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-21766/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-21766/citation.csl.json
 
 ## Recorded arXiv snapshot
 

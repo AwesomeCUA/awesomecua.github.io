@@ -2,7 +2,7 @@
 
 Introduces Evidence-First Reflection, which separates extraction of action-induced screen changes from judgment of whether an operation achieved its objective. It filters visual differences into relevant evidence before a desktop agent’s reflector decides how execution should continue.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-24015/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-24015/
 - Original source: https://arxiv.org/abs/2608.24015
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Evidence-First Reflection, which separates extraction of action-induc
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24015/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-24015/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yijie Ma, Chaoyue Niu, Fan Wu, Guihai Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24015/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24015/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-24015/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-24015/citation.csl.json
 
 ## Recorded arXiv snapshot
 

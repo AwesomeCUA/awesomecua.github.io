@@ -2,7 +2,7 @@
 
 Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-google-deepmind-android-env/
+- Catalog URL: https://awesomecua.com/resources/github-google-deepmind-android-env/
 - Original source: https://github.com/google-deepmind/android_env
 - Kind: infrastructure
 - Review: curated
@@ -16,7 +16,7 @@ Android device-control platform with screenshots, accessibility telemetry, input
 
 Formerly published as deepmind/android_env. That address now redirects to this repository, and both paths serve the same reviewed README, so the project is counted once.
 
-- Record JSON: https://awesomecua.github.io/resources/github-google-deepmind-android-env/record.json
+- Record JSON: https://awesomecua.com/resources/github-google-deepmind-android-env/record.json
 
 ## License declarations
 

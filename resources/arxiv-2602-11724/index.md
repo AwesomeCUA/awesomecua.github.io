@@ -2,7 +2,7 @@
 
 WebTestPilot turns natural-language requirements into web test steps with inferred preconditions and postconditions over symbolized GUI elements. A benchmark of bug-injected web applications tests whether these context-aware oracles distinguish application defects from agent mistakes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-11724/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-11724/
 - Original source: https://arxiv.org/abs/2602.11724
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebTestPilot turns natural-language requirements into web test steps with inferr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-11724/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-11724/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiwen Teoh, Yun Lin, Duc-Minh Nguyen, Ruofei Ren, Wenjie Zhang, Jin Song Dong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-11724/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-11724/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-11724/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-11724/citation.csl.json
 
 ## Recorded arXiv snapshot
 

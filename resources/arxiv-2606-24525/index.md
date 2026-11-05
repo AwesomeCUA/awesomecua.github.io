@@ -2,7 +2,7 @@
 
 VisCritic compares before/after screenshots through change-aware visual features and an action-conditioned critic. Weakly supervised samples from existing traces train judgments of action success, progress and error type for GUI-agent verification.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-24525/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-24525/
 - Original source: https://arxiv.org/abs/2606.24525
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VisCritic compares before/after screenshots through change-aware visual features
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-24525/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-24525/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiachen Qian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-24525/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-24525/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-24525/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-24525/citation.csl.json
 
 ## Recorded arXiv snapshot
 

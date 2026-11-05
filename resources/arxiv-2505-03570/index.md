@@ -2,7 +2,7 @@
 
 Introduces OSUniverse, a desktop GUI benchmark spanning precise clicks through multistep and multiapplication tasks. It provides both manual scoring and an automated validation mechanism.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-03570/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-03570/
 - Original source: https://arxiv.org/abs/2505.03570
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces OSUniverse, a desktop GUI benchmark spanning precise clicks through m
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-03570/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-03570/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mariya Davydova, Daniel Jeffries, Patrick Barker, Arturo Márquez Flores, Sinéa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-03570/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-03570/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-03570/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-03570/citation.csl.json
 
 ## Recorded arXiv snapshot
 

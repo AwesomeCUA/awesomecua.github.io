@@ -2,7 +2,7 @@
 
 Bibliographic record for One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-19741/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-19741/
 - Original source: https://arxiv.org/abs/2608.19741
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for One Success Isn't Reliability: Thinkingbox, a Sandbox a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-19741/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-19741/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhuochun Li, Youngmin Ko, Ali Keramati, Tuhin Kundu, Liang-Chun Tsai, Nicola Fer
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-19741/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-19741/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-19741/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-19741/citation.csl.json
 
 ## Recorded arXiv snapshot
 

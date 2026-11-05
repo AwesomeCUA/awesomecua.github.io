@@ -2,7 +2,7 @@
 
 Builds GUI trajectories by exploring environments first and deriving tasks retrospectively, with reward-model filtering of generated trajectories.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-19723/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-19723/
 - Original source: https://arxiv.org/abs/2412.19723
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds GUI trajectories by exploring environments first and deriving tasks retro
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-19723/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-19723/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-19723/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-19723/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-19723/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-19723/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhe
 - Authors: Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.acl-long.277/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2412-19723/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-19723/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-19723/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-19723/publication-citation.csl.json
 - venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 5555-5579

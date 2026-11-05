@@ -2,7 +2,7 @@
 
 Bibliographic record for WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-10912/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-10912/
 - Original source: https://arxiv.org/abs/2605.10912
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for WildClawBench: A Benchmark for Real-World, Long-Horizon
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-10912/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-10912/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuangrui Ding, Xuanlang Dai, Long Xing, Shengyuan Ding, Ziyu Liu, Yang JingYi, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-10912/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-10912/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-10912/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-10912/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Integrated probabilistic computer using voltage-controlled magnetic tunnel junctions as its entropy source. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-08017/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-08017/
 - Original source: https://arxiv.org/abs/2412.08017
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Integrated probabilistic computer using voltage-control
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-08017/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-08017/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Christian Duffee, Jordan Athas, Yixin Shao, Noraica Davila Melendez, Eleonora Ra
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-08017/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-08017/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-08017/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-08017/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces Lexi and UICaption to learn UI image-text representations from descriptions of interface functionality. Evaluation covers UI action entailment, instruction-based retrieval, referring-expression grounding, and UI entity recognition.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2301-10165/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2301-10165/
 - Original source: https://arxiv.org/abs/2301.10165
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Lexi and UICaption to learn UI image-text representations from descri
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2301-10165/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2301-10165/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pratyay Banerjee, Shweti Mahajan, Kushal Arora, Chitta Baral, Oriana Riva
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2301-10165/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2301-10165/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2301-10165/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2301-10165/citation.csl.json
 
 ## Recorded arXiv snapshot
 

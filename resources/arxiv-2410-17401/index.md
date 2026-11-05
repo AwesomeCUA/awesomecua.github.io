@@ -2,7 +2,7 @@
 
 Introduces a black-box web-agent red-teaming framework that learns adversarial prompts from agent feedback to study security weaknesses.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-17401/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-17401/
 - Original source: https://arxiv.org/abs/2410.17401
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a black-box web-agent red-teaming framework that learns adversarial p
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-17401/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-17401/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chejian Xu, Mintong Kang, Jiawei Zhang, Zeyi Liao, Lingbo Mo, Mengqi Yuan, Huan 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-17401/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-17401/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-17401/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-17401/citation.csl.json
 
 ## Recorded arXiv snapshot
 

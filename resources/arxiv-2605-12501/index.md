@@ -2,7 +2,7 @@
 
 Introduces CUActSpot to evaluate clicks, drags, drawing and other screen interactions across GUI, text, tables, canvases and natural images. A renderer-based pipeline records geometry and screenshots, then generates matching instructions and action traces for training a grounding model.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-12501/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-12501/
 - Original source: https://arxiv.org/abs/2605.12501
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CUActSpot to evaluate clicks, drags, drawing and other screen interac
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-12501/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-12501/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Miaosen Zhang, Xiaohan Zhao, Zhihong Tan, Zhou Huoshen, Yijia Fan, Yifan Yang, K
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-12501/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-12501/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-12501/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-12501/citation.csl.json
 
 ## Recorded arXiv snapshot
 

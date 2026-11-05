@@ -2,7 +2,7 @@
 
 Generates browser-agent demonstrations through autonomous exploration and retrospective task labeling, pruning trajectories that lack meaningful subtasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-02907/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-02907/
 - Original source: https://arxiv.org/abs/2410.02907
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Generates browser-agent demonstrations through autonomous exploration and retros
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-02907/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-02907/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shikhar Murty, Hao Zhu, Dzmitry Bahdanau, Christopher D. Manning
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-02907/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-02907/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-02907/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-02907/citation.csl.json
 
 ## Recorded arXiv snapshot
 

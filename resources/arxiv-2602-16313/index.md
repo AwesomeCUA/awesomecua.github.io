@@ -2,7 +2,7 @@
 
 MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-16313/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-16313/
 - Original source: https://arxiv.org/abs/2602.16313
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MemoryArena links tasks across sessions so that agents must distill earlier inte
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-16313/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-16313/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zexue He, Yu Wang, Churan Zhi, Yuanzhe Hu, Tzu-Ping Chen, Lang Yin, Ze Chen, Ton
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-16313/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-16313/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-16313/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-16313/citation.csl.json
 
 ## Recorded arXiv snapshot
 

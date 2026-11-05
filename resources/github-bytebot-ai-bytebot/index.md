@@ -2,7 +2,7 @@
 
 Open-source desktop agent that works inside its own Ubuntu Linux virtual desktop, with a web task interface, REST APIs for tasks and direct control, a takeover mode and password-manager logins.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-bytebot-ai-bytebot/
+- Catalog URL: https://awesomecua.com/resources/github-bytebot-ai-bytebot/
 - Original source: https://github.com/bytebot-ai/bytebot
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Open-source desktop agent that works inside its own Ubuntu Linux virtual desktop
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-bytebot-ai-bytebot/record.json
+- Record JSON: https://awesomecua.com/resources/github-bytebot-ai-bytebot/record.json
 
 ## License declarations
 

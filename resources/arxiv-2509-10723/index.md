@@ -2,7 +2,7 @@
 
 Studies how GUI agents, people, and human-agent teams respond to manipulative interface designs. The two-phase evaluation examines failure modes and the benefits and costs of human oversight.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-10723/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-10723/
 - Original source: https://arxiv.org/abs/2509.10723
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies how GUI agents, people, and human-agent teams respond to manipulative in
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-10723/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-10723/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingyu Tang, Chaoran Chen, Jiawen Li, Zhiping Zhang, Bingcan Guo, Ibrahim Khalil
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-10723/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-10723/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-10723/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-10723/citation.csl.json
 
 ## Recorded arXiv snapshot
 

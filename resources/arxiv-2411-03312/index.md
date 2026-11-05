@@ -2,7 +2,7 @@
 
 Bibliographic record for Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-03312/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-03312/
 - Original source: https://arxiv.org/abs/2411.03312
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Inference Optimal VLMs Need Fewer Visual Tokens and Mor
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-03312/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-03312/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kevin Y. Li, Sachin Goyal, Joao D. Semedo, J. Zico Kolter
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-03312/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-03312/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-03312/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-03312/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces GAIR, which combines information from specialized GUI models through a general-purpose coordinating model. When the available information is insufficient, group reflection sends targeted requests back to the specialists before selecting an operation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-09396/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-09396/
 - Original source: https://arxiv.org/abs/2512.09396
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GAIR, which combines information from specialized GUI models through 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-09396/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-09396/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zishu Wei, Qixiang Ma, Xavier Hu, Yuhang Liu, Hui Zang, Yudong Zhao, Tao Wang, S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-09396/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-09396/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-09396/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-09396/citation.csl.json
 
 ## Recorded arXiv snapshot
 

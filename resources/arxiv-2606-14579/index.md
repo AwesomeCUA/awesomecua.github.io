@@ -2,7 +2,7 @@
 
 VISTA forms GRPO comparison groups from target-preserving crops of the same GUI instance with exactly remapped target boxes. A conditional, advantage-weighted cross-view anchor supplies additional supervision without entering the group baseline, and evaluation includes view-consistency robustness.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-14579/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-14579/
 - Original source: https://arxiv.org/abs/2606.14579
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VISTA forms GRPO comparison groups from target-preserving crops of the same GUI 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-14579/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-14579/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinyu Qiu, Yunzhu Zhang, Heng Jia, Shuheng Shen, Changhua Meng, Linchao Zhu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-14579/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-14579/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-14579/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-14579/citation.csl.json
 
 ## Recorded arXiv snapshot
 

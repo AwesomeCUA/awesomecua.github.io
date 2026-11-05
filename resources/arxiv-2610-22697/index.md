@@ -2,7 +2,7 @@
 
 Intact records webpage element provenance and capabilities, isolates planning per element, and uses a browser harness to constrain actions and request consent for third-party interactions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22697/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-22697/
 - Original source: https://arxiv.org/abs/2610.22697
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Intact records webpage element provenance and capabilities, isolates planning pe
 
 Evaluation instructs the model to simulate compromise and measures planner outputs and permission appearance. Utility uses plan matching and LLM-judged element suitability; no steps are executed in that assessment. Assumes an honest first party, trusted browser/harness and untampered instrumentation; multi-page and availability attacks are outside scope. Parallel latency reduction is an unimplemented estimate. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22697/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-22697/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Umar Iqbal
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22697/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22697/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-22697/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-22697/citation.csl.json
 
 ## Recorded arXiv snapshot
 

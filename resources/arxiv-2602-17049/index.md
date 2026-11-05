@@ -2,7 +2,7 @@
 
 Bibliographic record for IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-17049/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-17049/
 - Original source: https://arxiv.org/abs/2602.17049
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for IntentCUA: Learning Intent-level Representations for Sk
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-17049/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-17049/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Seoyoung Lee, Seobin Yoon, Seongbeen Lee, Yoojung Chun, Dayoung Park, Doyeon Kim
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-17049/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-17049/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-17049/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-17049/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Workflow recording and documentation product adjacent to agent data collection.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-63ef8c7e455951a20281/
+- Catalog URL: https://awesomecua.com/resources/url-63ef8c7e455951a20281/
 - Original source: https://scribehow.com/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Workflow recording and documentation product adjacent to agent data collection.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-63ef8c7e455951a20281/record.json
+- Record JSON: https://awesomecua.com/resources/url-63ef8c7e455951a20281/record.json
 
 ## License declarations
 

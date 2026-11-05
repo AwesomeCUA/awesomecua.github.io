@@ -2,7 +2,7 @@
 
 Bibliographic record for Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-12920/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-12920/
 - Original source: https://arxiv.org/abs/2404.12920
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Zero-Shot Medical Phrase Grounding with Off-the-shelf D
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-12920/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-12920/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Konstantinos Vilouras, Pedro Sanchez, Alison Q. O'Neil, Sotirios A. Tsaftaris
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-12920/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-12920/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-12920/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-12920/citation.csl.json
 
 ## Recorded arXiv snapshot
 

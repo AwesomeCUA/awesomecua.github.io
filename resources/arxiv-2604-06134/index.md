@@ -2,7 +2,7 @@
 
 Bibliographic record for MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-06134/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-06134/
 - Original source: https://arxiv.org/abs/2604.06134
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MAESTRO: Adapting GUIs and Guiding Navigation with User
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06134/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-06134/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sangwook Lee, Adnan Abbas, Sang Won Lee, Young-Ho Kim, Yan Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06134/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06134/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-06134/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-06134/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Safety-checking environment and benchmark for mobile agents on AndroidWorld that judges proposed actions with rule-based and VLM-based checks, evaluated on the MobileRisk trajectory dataset.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-sentinel/
+- Catalog URL: https://awesomecua.com/resources/github-os-copilot-os-sentinel/
 - Original source: https://github.com/OS-Copilot/OS-Sentinel
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Safety-checking environment and benchmark for mobile agents on AndroidWorld that
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-os-sentinel/record.json
+- Record JSON: https://awesomecua.com/resources/github-os-copilot-os-sentinel/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Python toolkit and CLI for building, publishing and running multimodal agents that operate devices such as Ubuntu desktops, locally or on Kubernetes, with task trackers and an agent hub.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-agentsea-surfkit/
+- Catalog URL: https://awesomecua.com/resources/github-agentsea-surfkit/
 - Original source: https://github.com/agentsea/surfkit
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Python toolkit and CLI for building, publishing and running multimodal agents th
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-agentsea-surfkit/record.json
+- Record JSON: https://awesomecua.com/resources/github-agentsea-surfkit/record.json
 
 ## License declarations
 

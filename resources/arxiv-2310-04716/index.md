@@ -2,7 +2,7 @@
 
 Trains a screenshot-based instruction-grounding model to predict target coordinates, using reinforcement learning to improve spatial decoding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-04716/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-04716/
 - Original source: https://arxiv.org/abs/2310.04716
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains a screenshot-based instruction-grounding model to predict target coordina
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-04716/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-04716/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhizheng Zhang, Wenxuan Xie, Xiaoyi Zhang, Yan Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-04716/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-04716/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-04716/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-04716/citation.csl.json
 
 ## Recorded arXiv snapshot
 

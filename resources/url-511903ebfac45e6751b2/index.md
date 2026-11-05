@@ -2,7 +2,7 @@
 
 Cross-app Android interaction episodes with fine-grained step instructions, screen descriptions, action context, and target boxes.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-511903ebfac45e6751b2/
+- Catalog URL: https://awesomecua.com/resources/url-511903ebfac45e6751b2/
 - Original source: https://huggingface.co/datasets/hflqf88888/GUIOdyssey
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Cross-app Android interaction episodes with fine-grained step instructions, scre
 
 The project recommends this release over its earlier OpenGVLab/GUI-Odyssey upload. Episode count follows the current data card; conflicting repository prose is documented in the profile.
 
-- Record JSON: https://awesomecua.github.io/resources/url-511903ebfac45e6751b2/record.json
+- Record JSON: https://awesomecua.com/resources/url-511903ebfac45e6751b2/record.json
 
 ## Structured profile
 

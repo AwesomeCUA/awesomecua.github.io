@@ -2,7 +2,7 @@
 
 Introduces ParaGUIBench, with tasks and efficiency measurements for coordinated GUI agents operating separate desktop instances over a shared file system. Its ParaGUI planner-worker system decomposes tasks and dispatches concurrent subtasks for comparison with serial execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-22689/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-22689/
 - Original source: https://arxiv.org/abs/2607.22689
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces ParaGUIBench, with tasks and efficiency measurements for coordinated 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-22689/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-22689/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zedong Yu, Qianxing Li, Zhi Gao, Liuyu Xiang, Chenrui Shi, Yang Liu, Huiming Wu,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-22689/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-22689/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-22689/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-22689/citation.csl.json
 
 ## Recorded arXiv snapshot
 

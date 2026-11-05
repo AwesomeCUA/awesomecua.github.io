@@ -2,7 +2,7 @@
 
 Introduces UILoop, which inserts explicit UI-element localization, function and usage reasoning between screen observation and action. UI Comprehension-Bench evaluates these element-level capabilities with three metrics.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-06995/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-06995/
 - Original source: https://arxiv.org/abs/2604.06995
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces UILoop, which inserts explicit UI-element localization, function and 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06995/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-06995/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Songze Li, Xiaoke Guo, Tianqi Liu, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huajun C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06995/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06995/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-06995/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-06995/citation.csl.json
 
 ## Recorded arXiv snapshot
 

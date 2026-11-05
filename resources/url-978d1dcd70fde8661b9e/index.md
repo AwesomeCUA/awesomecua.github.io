@@ -2,7 +2,7 @@
 
 Managed browser infrastructure for agent applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-978d1dcd70fde8661b9e/
+- Catalog URL: https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/
 - Original source: https://www.browserbase.com/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Managed browser infrastructure for agent applications.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-978d1dcd70fde8661b9e/record.json
+- Record JSON: https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/record.json
 
 ## License declarations
 

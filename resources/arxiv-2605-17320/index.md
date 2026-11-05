@@ -2,7 +2,7 @@
 
 TClone versions live GUI workspaces through snapshots, isolated forks, rollback and selective commit or merge. It separates fast branch creation from durable checkpoints using copy-on-write sharing, filesystem versioning and asynchronous checkpointing, with end-to-end agent-loop latency measurements.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-17320/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-17320/
 - Original source: https://arxiv.org/abs/2605.17320
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ TClone versions live GUI workspaces through snapshots, isolated forks, rollback 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-17320/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-17320/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yutong Huang, Vikranth Srivatsa, Alex Asch, Hansin Tushar Patwa, Yiying Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-17320/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-17320/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-17320/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-17320/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26828/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-26828/
 - Original source: https://arxiv.org/abs/2610.26828
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface task
 
 Reviewed the complete abstract and selected v1 synthesis, training and evaluation sections. The system uses hybrid GUI/MCP/CLI interfaces. Evaluation includes benchmark subsets and model-based judgments, so reported scores are not treated as directly comparable GUI-only results. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26828/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-26828/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhaoyang Wang, Qianhui Wu, Haorui Wang, Simon Yu, Baolin Peng, Canwen Xu, Hao Ch
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26828/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26828/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-26828/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-26828/citation.csl.json
 
 ## Recorded arXiv snapshot
 

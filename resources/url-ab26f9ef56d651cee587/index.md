@@ -2,7 +2,7 @@
 
 18k trajectories with 98k steps from more than 50 Chinese mobile apps in domains such as e-commerce and social media, for building GUI agents on Chinese apps.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-ab26f9ef56d651cee587/
+- Catalog URL: https://awesomecua.com/resources/url-ab26f9ef56d651cee587/
 - Original source: https://huggingface.co/datasets/alibabagroup/CMGUI
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-ab26f9ef56d651cee587/record.json
+- Record JSON: https://awesomecua.com/resources/url-ab26f9ef56d651cee587/record.json
 
 ## License declarations
 

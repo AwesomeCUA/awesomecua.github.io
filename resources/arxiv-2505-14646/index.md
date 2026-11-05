@@ -2,7 +2,7 @@
 
 Bibliographic record for CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-14646/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-14646/
 - Original source: https://arxiv.org/abs/2505.14646
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CAD-Coder: An Open-Source Vision-Language Model for Com
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14646/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-14646/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Anna C. Doris, Md Ferdous Alam, Amin Heyrani Nobari, Faez Ahmed
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14646/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14646/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-14646/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-14646/citation.csl.json
 
 ## Recorded arXiv snapshot
 

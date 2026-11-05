@@ -2,7 +2,7 @@
 
 GUI-Shift trains an inverse-dynamics task that predicts the initial action connecting two GUI states, using trajectories without natural-language instructions. It combines rule-based reinforcement learning with data filtering and evaluates transfer to Android automation and screenshot grounding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-12493/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-12493/
 - Original source: https://arxiv.org/abs/2505.12493
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-Shift trains an inverse-dynamics task that predicts the initial action conne
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12493/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-12493/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Longxi Gao, Li Zhang, Pengzhi Gao, Wei Liu, Jian Luan, Mengwei Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12493/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12493/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-12493/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-12493/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Benchmark for safety of computer-use agents across misuse, prompt injection, and unintended model behavior.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-tml-epfl-os-harm/
+- Catalog URL: https://awesomecua.com/resources/github-tml-epfl-os-harm/
 - Original source: https://github.com/tml-epfl/os-harm
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Benchmark for safety of computer-use agents across misuse, prompt injection, and
 
 The retained task-ID manifests have 50 misuse, 10 injection and 50 misbehavior IDs. Prompt-injection execution expands vectors/goals; the reported 150-task total must not be read as 150 unique released IDs.
 
-- Record JSON: https://awesomecua.github.io/resources/github-tml-epfl-os-harm/record.json
+- Record JSON: https://awesomecua.com/resources/github-tml-epfl-os-harm/record.json
 
 ## Structured profile
 

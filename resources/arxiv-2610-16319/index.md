@@ -2,7 +2,7 @@
 
 Introduces HyWe, which switches between information search and browser operation within one trajectory, alongside a demonstration pipeline and a benchmark of hybrid web tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-16319/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-16319/
 - Original source: https://arxiv.org/abs/2610.16319
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces HyWe, which switches between information search and browser operation
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-16319/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-16319/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zijian Cai, Haowei Liu, Kailai Chen, Lin Peng, Cong Wan, Ziqi Zhang, Chunfeng Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-16319/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-16319/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-16319/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-16319/citation.csl.json
 
 ## Recorded arXiv snapshot
 

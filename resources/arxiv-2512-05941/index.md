@@ -2,7 +2,7 @@
 
 ZoomClick uses repeated zooming and context adjustment to improve GUI grounding without training. The paper studies zoom depth, crop sizes, and related choices and introduces GUIZoom-Bench to evaluate how grounding models respond to zoomed views.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-05941/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-05941/
 - Original source: https://arxiv.org/abs/2512.05941
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ZoomClick uses repeated zooming and context adjustment to improve GUI grounding 
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-05941/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-05941/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhiyuan Jiang, Shenghao Xie, Wenyi Li, Wenqiang Zu, Peihang Li, Jiahao Qiu, Siqi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-05941/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-05941/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-05941/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-05941/citation.csl.json
 
 ## Recorded arXiv snapshot
 

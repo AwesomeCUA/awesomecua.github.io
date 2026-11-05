@@ -2,7 +2,7 @@
 
 Introduces Chain-of-Action-Thought and Android-In-The-Zoo annotations that connect prior actions, screen observations, intended actions, and expected outcomes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-02713/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-02713/
 - Original source: https://arxiv.org/abs/2403.02713
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Chain-of-Action-Thought and Android-In-The-Zoo annotations that conne
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-02713/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-02713/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-02713/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-02713/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-02713/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-02713/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei,
 - Authors: Jiwen Zhang (张霁雯), Jihao Wu, Teng Yihua, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei (魏忠钰), Duyu Tang
 - Publication date (recorded precision): 2024-11
 - Publication source: https://aclanthology.org/2024.findings-emnlp.702/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2403-02713/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-02713/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2403-02713/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2403-02713/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: EMNLP 2024
 - publisher: Association for Computational Linguistics
 - pages: 12016-12031

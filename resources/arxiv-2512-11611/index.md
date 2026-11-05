@@ -2,7 +2,7 @@
 
 GUI-EDA collects more than 2,000 screenshot-answer-action pairs from engineers working across five CAD tools and five physical domains. The accompanying benchmark evaluates more than 30 GUI agents on specialized electronic-design workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-11611/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-11611/
 - Original source: https://arxiv.org/abs/2512.11611
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-EDA collects more than 2,000 screenshot-answer-action pairs from engineers w
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-11611/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-11611/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chunyi Li, Longfei Li, Zicheng Zhang, Xiaohong Liu, Min Tang, Weisi Lin, Guangta
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-11611/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-11611/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-11611/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-11611/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Trains GUI agents with a learned selector that removes repeated visual patches across consecutive screenshots while preserving spatial structure. ReVision evaluates this history representation on OSWorld, WebTailBench and AgentNetBench.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-11212/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-11212/
 - Original source: https://arxiv.org/abs/2605.11212
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains GUI agents with a learned selector that removes repeated visual patches a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-11212/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-11212/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Amirhossein Abaskohi, Yuhang He, Peter West, Giuseppe Carenini, Pranit Chawla, V
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-11212/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-11212/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-11212/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-11212/citation.csl.json
 
 ## Recorded arXiv snapshot
 

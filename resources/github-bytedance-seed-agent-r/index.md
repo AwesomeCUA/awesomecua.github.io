@@ -2,7 +2,7 @@
 
 Trajectory collection and revision utilities that use tree search and model-guided critique to train agents to recover from mistakes, including WebShop tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-bytedance-seed-agent-r/
+- Catalog URL: https://awesomecua.com/resources/github-bytedance-seed-agent-r/
 - Original source: https://github.com/ByteDance-Seed/Agent-R
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Trajectory collection and revision utilities that use tree search and model-guid
 
 The canonical repository is ByteDance-Seed/Agent-R and is archived but readable. MCTS collection, revision and evaluation scripts are released under Apache-2.0. It also supports non-GUI text environments; this entry covers its WebShop interaction component. No separate weight release was verified.
 
-- Record JSON: https://awesomecua.github.io/resources/github-bytedance-seed-agent-r/record.json
+- Record JSON: https://awesomecua.com/resources/github-bytedance-seed-agent-r/record.json
 
 ## License declarations
 

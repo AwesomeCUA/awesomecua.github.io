@@ -2,7 +2,7 @@
 
 GUI-Cursor treats GUI grounding as a sequence of cursor movements guided by visible feedback and movement history. Online reinforcement learning with trajectory rewards trains the model to refine the target location across multiple steps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-21552/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-21552/
 - Original source: https://arxiv.org/abs/2509.21552
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-Cursor treats GUI grounding as a sequence of cursor movements guided by visi
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21552/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-21552/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yu Zhao, Wei-Ning Chen, Huseyin Atahan Inan, Samuel Kessler, Lu Wang, Lukas Wuts
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21552/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21552/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-21552/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-21552/citation.csl.json
 
 ## Recorded arXiv snapshot
 

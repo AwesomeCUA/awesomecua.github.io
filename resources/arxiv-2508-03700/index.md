@@ -2,7 +2,7 @@
 
 Combines a mobile GUI data pipeline, perception and planning capabilities, and reinforcement fine-tuning for interactive task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-03700/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-03700/
 - Original source: https://arxiv.org/abs/2508.03700
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines a mobile GUI data pipeline, perception and planning capabilities, and r
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-03700/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-03700/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Liujian Tang, Shaokang Dong, Yijia Huang, Minqi Xiang, Hongtao Ruan, Bin Wang, S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-03700/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-03700/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-03700/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-03700/citation.csl.json
 
 ## Recorded arXiv snapshot
 

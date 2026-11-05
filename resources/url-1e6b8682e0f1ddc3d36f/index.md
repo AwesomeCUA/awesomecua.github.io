@@ -2,7 +2,7 @@
 
 Hosted browser infrastructure for automation applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-1e6b8682e0f1ddc3d36f/
+- Catalog URL: https://awesomecua.com/resources/url-1e6b8682e0f1ddc3d36f/
 - Original source: https://www.browserless.io/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Hosted browser infrastructure for automation applications.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-1e6b8682e0f1ddc3d36f/record.json
+- Record JSON: https://awesomecua.com/resources/url-1e6b8682e0f1ddc3d36f/record.json
 
 ## License declarations
 

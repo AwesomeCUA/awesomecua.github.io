@@ -2,7 +2,7 @@
 
 Uses execution uncertainty to trigger retrieval from application documentation, code, and past trajectories, organizing the results into structured AppCards for Android agent planning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-19306/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-19306/
 - Original source: https://arxiv.org/abs/2601.19306
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses execution uncertainty to trigger retrieval from application documentation, 
 
 The curiosity signal is a model-based proxy, not a calibrated probability of failure. Accurate external app information is a dependency, and AndroidWorld is the reported evaluation environment. No performance numbers were independently reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Problem Formulation; 3.2 Curiosity-Driven Information Gain Estimation; 3.3 Retrieving and Embedding External Knowledge); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-19306/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-19306/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sijia Li, Xiaoyu Tan, Shahir Ali, Niels Schmidt, Gengchen Ma, Xihe Qiu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-19306/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-19306/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-19306/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-19306/citation.csl.json
 
 ## Recorded arXiv snapshot
 

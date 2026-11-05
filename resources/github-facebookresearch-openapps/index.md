@@ -2,7 +2,7 @@
 
 Configurable browser apps and task rewards for testing computer-use agents under changes in content, layout and appearance.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-facebookresearch-openapps/
+- Catalog URL: https://awesomecua.com/resources/github-facebookresearch-openapps/
 - Original source: https://github.com/facebookresearch/OpenApps
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Configurable browser apps and task rewards for testing computer-use agents under
 
 Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and explicitly says even that tag is not a byte-exact snapshot of the published runs. CC-BY-NC-4.0 is the repository’s declared code license; third-party WebShop, map and icon content retain separate terms. No commercial-use permission or fixed downloadable task total is inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/github-facebookresearch-openapps/record.json
+- Record JSON: https://awesomecua.com/resources/github-facebookresearch-openapps/record.json
 
 ## Structured profile
 

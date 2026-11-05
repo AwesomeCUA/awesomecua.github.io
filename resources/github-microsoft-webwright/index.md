@@ -2,7 +2,7 @@
 
 Agent framework for browser and desktop tasks using automation code.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-webwright/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-webwright/
 - Original source: https://github.com/microsoft/Webwright
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Agent framework for browser and desktop tasks using automation code.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-webwright/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-webwright/record.json
 
 ## License declarations
 

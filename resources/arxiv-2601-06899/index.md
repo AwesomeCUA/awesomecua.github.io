@@ -2,7 +2,7 @@
 
 Bibliographic record for V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-06899/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-06899/
 - Original source: https://arxiv.org/abs/2601.06899
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for V2P: Visual Attention Calibration for GUI Grounding via
 
 The authors identify this arXiv entry as an intended replacement of arXiv:2508.13634 and direct subsequent updates to https://arxiv.org/abs/2508.13634. Retained as a bibliographic provenance record; not counted as an additional reviewed work.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-06899/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-06899/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jikai Chen, Long Chen, Dong Wang, Qinglin Su, Zhixuan Chu, Bingguang Hao, Leilei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-06899/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-06899/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-06899/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-06899/citation.csl.json
 
 ## Recorded arXiv snapshot
 

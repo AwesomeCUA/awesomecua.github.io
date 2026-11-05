@@ -2,7 +2,7 @@
 
 Presents a conceptual perception–reasoning–action framework and 12 potential attack scenarios for language agents, including hypothetical web-navigation attacks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-10196/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-10196/
 - Original source: https://arxiv.org/abs/2402.10196
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Presents a conceptual perception–reasoning–action framework and 12 potential
 
 Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent, rather than an implemented attack benchmark. Scope was checked against the retained abstract and full-text Sections 2.4 and 3; no results were independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-10196/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-10196/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lingbo Mo, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-10196/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-10196/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-10196/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-10196/citation.csl.json
 
 ## Recorded arXiv snapshot
 

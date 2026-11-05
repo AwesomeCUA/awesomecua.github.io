@@ -2,7 +2,7 @@
 
 FlashAdventure evaluates GUI agents on completing story arcs in 34 adventure games. It pairs an automated gameplay judge with COAST, a framework that keeps long-term clue memory to plan and complete sequential objectives.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-01052/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-01052/
 - Original source: https://arxiv.org/abs/2509.01052
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ FlashAdventure evaluates GUI agents on completing story arcs in 34 adventure gam
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-01052/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-01052/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jaewoo Ahn, Junseo Kim, Heeseung Yun, Jaehyeon Son, Dongmin Park, Jaewoong Cho, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-01052/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-01052/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-01052/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-01052/citation.csl.json
 
 ## Recorded arXiv snapshot
 

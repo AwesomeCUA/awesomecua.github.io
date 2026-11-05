@@ -2,7 +2,7 @@
 
 Open-source web agent framework where a World Model turns an objective and the current page into instructions and an Action Engine compiles them into Selenium or Playwright code to run.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-lavague-ai-lavague/
+- Catalog URL: https://awesomecua.com/resources/github-lavague-ai-lavague/
 - Original source: https://github.com/lavague-ai/LaVague
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Open-source web agent framework where a World Model turns an objective and the c
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-lavague-ai-lavague/record.json
+- Record JSON: https://awesomecua.com/resources/github-lavague-ai-lavague/record.json
 
 ## License declarations
 

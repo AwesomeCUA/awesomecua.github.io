@@ -2,7 +2,7 @@
 
 Introduces GUI-Xplore exploration videos and downstream tasks, with an agent that combines action-aware modeling and graph-based environment reasoning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-17709/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-17709/
 - Original source: https://arxiv.org/abs/2503.17709
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUI-Xplore exploration videos and downstream tasks, with an agent tha
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-17709/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-17709/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuchen Sun, Shanhui Zhao, Tao Yu, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-17709/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-17709/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-17709/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-17709/citation.csl.json
 
 ## Recorded arXiv snapshot
 

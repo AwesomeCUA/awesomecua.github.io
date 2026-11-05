@@ -2,7 +2,7 @@
 
 Introduces SecureWebArena with simulated interactive websites, an attack-vector taxonomy and labeled agent trajectories. Its evaluation separates failures in reasoning, behavioral traces and task outcomes across vision-language agent families.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-10073/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-10073/
 - Original source: https://arxiv.org/abs/2510.10073
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SecureWebArena with simulated interactive websites, an attack-vector 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-10073/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-10073/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zonghao Ying, Yangguang Shao, Jianle Gan, Gan Xu, Wenxin Zhang, Quanchen Zou, Ju
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-10073/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-10073/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-10073/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-10073/citation.csl.json
 
 ## Recorded arXiv snapshot
 

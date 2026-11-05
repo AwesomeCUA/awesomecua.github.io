@@ -2,7 +2,7 @@
 
 A shared evaluation harness for GUI-model perception, offline action prediction and multi-step interaction, using simple smolagents-based agents across existing benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-huggingface-screensuite/
+- Catalog URL: https://awesomecua.com/resources/github-huggingface-screensuite/
 - Original source: https://github.com/huggingface/screensuite
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ A shared evaluation harness for GUI-model perception, offline action prediction 
 
 The publisher states that the suite compares the underlying multimodal models rather than full agent implementations. Public source includes benchmark adapters and registry code. Multi-step environments require Docker and KVM; constituent datasets, remote model services and OSWorld account-dependent tasks retain their own setup and terms. Apache-2.0 is scoped to this repository code.
 
-- Record JSON: https://awesomecua.github.io/resources/github-huggingface-screensuite/record.json
+- Record JSON: https://awesomecua.com/resources/github-huggingface-screensuite/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 GUI-Spotlight trains a grounding model to reason over images and call tools that iteratively narrow its visual focus. The paper evaluates this refinement method on ScreenSpot-Pro after training on 18,500 samples.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-04039/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-04039/
 - Original source: https://arxiv.org/abs/2510.04039
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-Spotlight trains a grounding model to reason over images and call tools that
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-04039/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-04039/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bin Lei, Nuo Xu, Ali Payani, Mingyi Hong, Chunhua Liao, Yu Cao, Caiwen Ding
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-04039/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-04039/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-04039/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-04039/citation.csl.json
 
 ## Recorded arXiv snapshot
 

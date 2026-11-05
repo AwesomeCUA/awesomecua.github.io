@@ -2,7 +2,7 @@
 
 RankGround trains a lightweight reranker to select a promising screenshot crop before one VLM localization call. Ranking supervision uses containment and boundary-aware augmentation, with pointwise and listwise training stages.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-18690/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-18690/
 - Original source: https://arxiv.org/abs/2609.18690
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ RankGround trains a lightweight reranker to select a promising screenshot crop b
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-18690/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-18690/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Liyang Fan, Xinping Bi, Yitai Li, Shuaimin Li, Hui Li, Min Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-18690/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-18690/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-18690/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-18690/citation.csl.json
 
 ## Recorded arXiv snapshot
 

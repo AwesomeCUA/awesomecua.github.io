@@ -2,7 +2,7 @@
 
 WebAgentGuard separates prompt-injection detection from the operating web agent through a parallel multimodal guard. The guard is trained on synthetic visual/textual examples using reasoning-focused supervised fine-tuning followed by reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-12284/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-12284/
 - Original source: https://arxiv.org/abs/2604.12284
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebAgentGuard separates prompt-injection detection from the operating web agent 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-12284/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-12284/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yulin Chen, Tri Cao, Haoran Li, Yue Liu, Yibo Li, Yufei He, Le Minh Khoi, Yangqi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-12284/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-12284/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-12284/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-12284/citation.csl.json
 
 ## Recorded arXiv snapshot
 

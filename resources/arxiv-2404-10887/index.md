@@ -2,7 +2,7 @@
 
 Introduces GLAINTEL, a Flan-T5-based product-search web agent studied under unsupervised learning, demonstration-based training, and unsupervised domain adaptation. It compares ways to combine demonstrations with reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-10887/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-10887/
 - Original source: https://arxiv.org/abs/2404.10887
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GLAINTEL, a Flan-T5-based product-search web agent studied under unsu
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-10887/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-10887/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Moghis Fereidouni, Adib Mosharrof, A. B. Siddique
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-10887/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-10887/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-10887/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-10887/citation.csl.json
 
 ## Recorded arXiv snapshot
 

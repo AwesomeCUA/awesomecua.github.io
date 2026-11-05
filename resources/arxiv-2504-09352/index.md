@@ -2,7 +2,7 @@
 
 Explorer collects interactable GUI elements from a live target application and records user sessions for application-specific model training. It links repeated interface states into a navigation map that supports path planning and voice-directed interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-09352/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-09352/
 - Original source: https://arxiv.org/abs/2504.09352
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Explorer collects interactable GUI elements from a live target application and r
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-09352/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-09352/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Iason Chaimalas, Arnas Vyšniauskas, Gabriel Brostow
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-09352/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-09352/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-09352/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-09352/citation.csl.json
 
 ## Recorded arXiv snapshot
 

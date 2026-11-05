@@ -2,7 +2,7 @@
 
 Computer-use products and research from Simular.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-0bdd6b5ebf2e1f248828/
+- Catalog URL: https://awesomecua.com/resources/url-0bdd6b5ebf2e1f248828/
 - Original source: https://www.simular.ai/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Computer-use products and research from Simular.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-0bdd6b5ebf2e1f248828/record.json
+- Record JSON: https://awesomecua.com/resources/url-0bdd6b5ebf2e1f248828/record.json
 
 ## License declarations
 

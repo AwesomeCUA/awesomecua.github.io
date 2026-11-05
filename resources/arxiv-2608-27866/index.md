@@ -2,7 +2,7 @@
 
 Introduces Iron, a GUI-agent training framework that aligns low-level actions with high-level intent using cycle-consistency rewards. It also repurposes failed trajectories through hindsight reconstruction and evaluates transfer to other digital tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-27866/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-27866/
 - Original source: https://arxiv.org/abs/2608.27866
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Iron, a GUI-agent training framework that aligns low-level actions wi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-27866/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-27866/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiahe Ying, Wendong Bu, Kaihang Pan, Bingchen Miao, Siyu Chen, Wen Wang, Xueming
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-27866/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-27866/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-27866/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-27866/citation.csl.json
 
 ## Recorded arXiv snapshot
 

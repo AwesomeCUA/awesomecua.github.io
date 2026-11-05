@@ -2,7 +2,7 @@
 
 OmniGUI evaluates step-level action prediction from interleaved smartphone screenshots, synchronous audio and video. Expert demonstrations carry multimodal-dependency annotations, and initial baselines use native multimodal models as agent proxies to study temporal and audio-related failures.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-18758/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-18758/
 - Original source: https://arxiv.org/abs/2605.18758
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OmniGUI evaluates step-level action prediction from interleaved smartphone scree
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-18758/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-18758/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Felix Henry, Lihan Lin, Jiangyou Zhu, Yangfan, Bingqian Zhang, Min Chen, Shiyu H
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-18758/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-18758/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-18758/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-18758/citation.csl.json
 
 ## Recorded arXiv snapshot
 

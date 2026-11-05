@@ -2,7 +2,7 @@
 
 Describes BrowserGym's shared web interaction environment and AgentLab tooling for consistent experiments across multiple agent benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-05467/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-05467/
 - Original source: https://arxiv.org/abs/2412.05467
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes BrowserGym's shared web interaction environment and AgentLab tooling f
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-05467/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-05467/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Thibault Le Sellier De Chezelles, Maxime Gasse, Alexandre Drouin, Massimo Caccia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-05467/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-05467/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-05467/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-05467/citation.csl.json
 
 ## Recorded arXiv snapshot
 

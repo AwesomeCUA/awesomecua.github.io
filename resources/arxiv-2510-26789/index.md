@@ -2,7 +2,7 @@
 
 Bibliographic record for Entanglement-assisted circuit knitting: Distributed quantum computing using limited entanglement resources. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-26789/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-26789/
 - Original source: https://arxiv.org/abs/2510.26789
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Entanglement-assisted circuit knitting: Distributed qua
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-26789/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-26789/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shao-Hua Hu, Po-Sung Liu, Jun-Yi Wu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-26789/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-26789/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-26789/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-26789/citation.csl.json
 
 ## Recorded arXiv snapshot
 

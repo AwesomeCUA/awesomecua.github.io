@@ -2,7 +2,7 @@
 
 Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-charlypoly-web-context-bench-python/
+- Catalog URL: https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/
 - Original source: https://github.com/charlypoly/web-context-bench-python
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Local-page benchmark comparing six browser representations on token use, factual
 
 This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only. Selected scoring code was read, but no models, browser tasks or claimed results were run or reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/github-charlypoly-web-context-bench-python/record.json
+- Record JSON: https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/record.json
 
 ## Structured profile
 

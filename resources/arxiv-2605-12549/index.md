@@ -2,7 +2,7 @@
 
 Re-Prefill adds an attention-guided second prefill pass that revisits candidate screen regions before coordinate generation. The study evaluates this training-free intervention across GUI-grounding models and benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-12549/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-12549/
 - Original source: https://arxiv.org/abs/2605.12549
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Re-Prefill adds an attention-guided second prefill pass that revisits candidate 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-12549/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-12549/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiaping Lin, Fei Shen, Junzhe Li, Ping Nie, Fei Yu, Ming Li, Haizhou Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-12549/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-12549/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-12549/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-12549/citation.csl.json
 
 ## Recorded arXiv snapshot
 

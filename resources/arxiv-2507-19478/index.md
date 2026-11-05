@@ -2,7 +2,7 @@
 
 MMBench-GUI evaluates interface understanding, element grounding, task automation, and collaboration across six named desktop, mobile, and web platforms. It introduces the Efficiency-Quality Area metric for examining execution efficiency alongside task quality in online GUI automation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-19478/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-19478/
 - Original source: https://arxiv.org/abs/2507.19478
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MMBench-GUI evaluates interface understanding, element grounding, task automatio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-19478/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-19478/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xuehui Wang, Zhenyu Wu, JingJing Xie, Zichen Ding, Bowen Yang, Zehao Li, Zhaoyan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-19478/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-19478/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-19478/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-19478/citation.csl.json
 
 ## Recorded arXiv snapshot
 

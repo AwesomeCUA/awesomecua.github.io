@@ -2,7 +2,7 @@
 
 Multilingual variant of the AutoGLM phone-agent checkpoint for Open-AutoGLM, likewise fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-d236e7ec7a2b0028950a/
+- Catalog URL: https://awesomecua.com/resources/url-d236e7ec7a2b0028950a/
 - Original source: https://huggingface.co/zai-org/AutoGLM-Phone-9B-Multilingual
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Multilingual variant of the AutoGLM phone-agent checkpoint for Open-AutoGLM, lik
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-d236e7ec7a2b0028950a/record.json
+- Record JSON: https://awesomecua.com/resources/url-d236e7ec7a2b0028950a/record.json
 
 ## License declarations
 

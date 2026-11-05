@@ -2,7 +2,7 @@
 
 OSWorld-MCP evaluates how agents choose between GUI operations and MCP tool calls in computer tasks. It combines generated and curated tools, with 158 manually validated tools across seven applications, to examine tool use alongside task completion.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-24563/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-24563/
 - Original source: https://arxiv.org/abs/2510.24563
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OSWorld-MCP evaluates how agents choose between GUI operations and MCP tool call
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-24563/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-24563/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongrui Jia, Jitong Liao, Xi Zhang, Haiyang Xu, Tianbao Xie, Chaoya Jiang, Ming 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-24563/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-24563/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-24563/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-24563/citation.csl.json
 
 ## Recorded arXiv snapshot
 

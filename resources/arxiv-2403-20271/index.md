@@ -2,7 +2,7 @@
 
 Bibliographic record for Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-20271/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-20271/
 - Original source: https://arxiv.org/abs/2403.20271
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Draw-and-Understand: Leveraging Visual Prompts to Enabl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-20271/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-20271/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weifeng Lin, Xinyu Wei, Ruichuan An, Peng Gao, Bocheng Zou, Yulin Luo, Siyuan Hu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-20271/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-20271/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-20271/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-20271/citation.csl.json
 
 ## Recorded arXiv snapshot
 

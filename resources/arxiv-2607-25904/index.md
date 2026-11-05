@@ -2,7 +2,7 @@
 
 Introduces an Interactive Reward Agent that proposes completion conditions and verifies them using system, application, and GUI tools after execution. GUI-RewardBench provides annotated desktop trajectories for evaluating these evidence-based judgments and their use in reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-25904/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-25904/
 - Original source: https://arxiv.org/abs/2607.25904
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces an Interactive Reward Agent that proposes completion conditions and v
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-25904/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-25904/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chenrui Shi, Yuwei Wu, Yang Liu, Ruining Feng, Zirui Shang, Zhi Gao, Lifeng Fan,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-25904/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-25904/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-25904/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-25904/citation.csl.json
 
 ## Recorded arXiv snapshot
 

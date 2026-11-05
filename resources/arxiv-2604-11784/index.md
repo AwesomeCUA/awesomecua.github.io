@@ -2,7 +2,7 @@
 
 Presents ClawGUI, a shared harness for GUI-agent reinforcement learning, benchmark evaluation and deployment on mobile devices. It combines parallel virtual and physical environments, process rewards, and hybrid CLI-GUI execution with persistent memory.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-11784/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-11784/
 - Original source: https://arxiv.org/abs/2604.11784
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents ClawGUI, a shared harness for GUI-agent reinforcement learning, benchma
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-11784/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-11784/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fei Tang, Zhiqiong Lu, Boxuan Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongl
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-11784/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-11784/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-11784/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-11784/citation.csl.json
 
 ## Recorded arXiv snapshot
 

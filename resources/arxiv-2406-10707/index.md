@@ -2,7 +2,7 @@
 
 Bibliographic record for DataStates-LLM: Lazy Asynchronous Checkpointing for Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-10707/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-10707/
 - Original source: https://arxiv.org/abs/2406.10707
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for DataStates-LLM: Lazy Asynchronous Checkpointing for Lar
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-10707/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-10707/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Avinash Maurya, Robert Underwood, M. Mustafa Rafique, Franck Cappello, Bogdan Ni
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-10707/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-10707/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-10707/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-10707/citation.csl.json
 
 ## Recorded arXiv snapshot
 

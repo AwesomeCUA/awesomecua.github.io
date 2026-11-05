@@ -2,7 +2,7 @@
 
 Android GUI-agent adaptation framework combining app exploration, generated curricula and rollout feedback with hint-conditioned step-level GRPO; the documented public training path targets Qwen3-VL-8B.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-kwai-mobileforge/
+- Catalog URL: https://awesomecua.com/resources/github-kwai-mobileforge/
 - Original source: https://github.com/kwai/MobileForge
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Android GUI-agent adaptation framework combining app exploration, generated curr
 
 The root README describes MobileGym exploration/feedback and HiFPO optimization. The training README limits its public training path to the Qwen3-VL-8B experiment. Linked model and dataset collections, executable source completeness and benchmark results were not independently verified; the repository code license is not a model or dataset license.
 
-- Record JSON: https://awesomecua.github.io/resources/github-kwai-mobileforge/record.json
+- Record JSON: https://awesomecua.com/resources/github-kwai-mobileforge/record.json
 
 ## License declarations
 

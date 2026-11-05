@@ -2,7 +2,7 @@
 
 ViMo predicts the next mobile-app screenshot after a candidate action by separately modeling graphics and text. A symbolic placeholder representation preserves layout while a second predictor supplies readable text, enabling visual lookahead for GUI-agent planning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-13936/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-13936/
 - Original source: https://arxiv.org/abs/2504.13936
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ViMo predicts the next mobile-app screenshot after a candidate action by separat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-13936/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-13936/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dezhao Luo, Bohan Tang, Kang Li, Georgios Papoudakis, Jifei Song, Shaogang Gong,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-13936/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-13936/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-13936/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-13936/citation.csl.json
 
 ## Recorded arXiv snapshot
 

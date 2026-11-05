@@ -2,7 +2,7 @@
 
 Uses a staged curriculum from response-format alignment through action feedback to interactive task-level training for mobile agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-20332/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-20332/
 - Original source: https://arxiv.org/abs/2506.20332
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses a staged curriculum from response-format alignment through action feedback 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-20332/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-20332/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jihao Gu, Qihang Ai, Yingyao Wang, Pi Bu, Jingxuan Xing, Zekun Zhu, Wei Jiang, Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-20332/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-20332/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-20332/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-20332/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces MEGA-GUI, which separates coarse region selection from fine-grained interface-element grounding. Bidirectional zooming and context-aware instruction rewriting coordinate specialized vision-language agents across visual scales.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-13087/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-13087/
 - Original source: https://arxiv.org/abs/2511.13087
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MEGA-GUI, which separates coarse region selection from fine-grained i
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-13087/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-13087/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ SeokJoo Kwak, Jihoon Kim, Boyoun Kim, Jung Jae Yoon, Wooseok Jang, Jeonghoon Hon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-13087/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-13087/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-13087/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-13087/citation.csl.json
 
 ## Recorded arXiv snapshot
 

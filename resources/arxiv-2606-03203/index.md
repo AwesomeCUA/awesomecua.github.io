@@ -2,7 +2,7 @@
 
 MedCUA-Bench evaluates screenshot-only clinical interface workflows using paired intent- and step-level goals. It combines reconstructed medical interfaces with completion and clinical-safety checks, and separately reports results on a real OpenEMR system.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-03203/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-03203/
 - Original source: https://arxiv.org/abs/2606.03203
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MedCUA-Bench evaluates screenshot-only clinical interface workflows using paired
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-03203/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-03203/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jia Yu, Zilong Wang, Xinyang Jiang, Dongsheng Li, Shuo Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-03203/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-03203/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-03203/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-03203/citation.csl.json
 
 ## Recorded arXiv snapshot
 

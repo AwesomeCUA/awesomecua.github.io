@@ -2,7 +2,7 @@
 
 StructAgent maintains compact task state and regulates long-horizon execution through verified transitions and progress checkpoints. Its workflow supports evidence-based completion and targeted recovery, with desktop computer-use evaluation and a separate Minecraft extension.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-11388/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-11388/
 - Original source: https://arxiv.org/abs/2607.11388
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ StructAgent maintains compact task state and regulates long-horizon execution th
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-11388/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-11388/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenyi Wu, Sibo Zhu, Kun Zhou, Aayush Salvi, Zixuan Song, Biwei Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-11388/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-11388/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-11388/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-11388/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Builds ExeVR-53k from execution-video, instruction and reward triplets, including negative instructions with step annotations. A reward model uses spatiotemporal token pruning to judge task completion from the instruction and execution keyframes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-10178/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-10178/
 - Original source: https://arxiv.org/abs/2603.10178
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds ExeVR-53k from execution-video, instruction and reward triplets, includin
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-10178/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-10178/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Linxin Song, Jieyu Zhang, Huanxin Sheng, Taiwei Shi, Gupta Rahul, Yang Liu, Ranj
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-10178/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-10178/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-10178/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-10178/citation.csl.json
 
 ## Recorded arXiv snapshot
 

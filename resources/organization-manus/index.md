@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with Manus computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-manus/
+- Catalog URL: https://awesomecua.com/resources/organization-manus/
 - Original source: https://manus.im/
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with Manus computer-use or browser automat
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-manus/record.json
+- Record JSON: https://awesomecua.com/resources/organization-manus/record.json
 
 ## License declarations
 

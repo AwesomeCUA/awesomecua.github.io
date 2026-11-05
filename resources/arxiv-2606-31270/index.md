@@ -2,7 +2,7 @@
 
 Uses failed computer-use trajectories to diagnose failure modes and generate inference-time agent code patches, with light human verification. An OSWorld study evaluates this failure-driven improvement loop without additional model training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-31270/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-31270/
 - Original source: https://arxiv.org/abs/2606.31270
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses failed computer-use trajectories to diagnose failure modes and generate inf
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-31270/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-31270/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xueqiao Sun, Xiaohan Wang, Ludwig Schmidt, Serena Yeung-Levy, Yuhui Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-31270/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-31270/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-31270/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-31270/citation.csl.json
 
 ## Recorded arXiv snapshot
 

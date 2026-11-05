@@ -2,7 +2,7 @@
 
 Introduces Sidekick, a communication interface that uses ambient status cues, multimodal action summaries, and visual and verbal explanations of reasoning to help people monitor computer-use agents. A user study examines progress awareness, error traceability, and multitasking across background and foreground interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-17527/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-17527/
 - Original source: https://arxiv.org/abs/2607.17527
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Sidekick, a communication interface that uses ambient status cues, mu
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-17527/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-17527/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruei-Che Chang, Wenqian Xu, Dingzeyu Li, Bryan Wang, Anhong Guo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-17527/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-17527/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-17527/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-17527/citation.csl.json
 
 ## Recorded arXiv snapshot
 

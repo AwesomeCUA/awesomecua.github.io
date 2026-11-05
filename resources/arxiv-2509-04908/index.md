@@ -2,7 +2,7 @@
 
 Introduces SparkUI-Parser, which adds continuous coordinate decoding and a rejection mechanism for nonexistent targets to a multimodal model. It also presents ScreenParse for evaluating structural interface perception.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-04908/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-04908/
 - Original source: https://arxiv.org/abs/2509.04908
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SparkUI-Parser, which adds continuous coordinate decoding and a rejec
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-04908/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-04908/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongyi Jing, Jiafu Chen, Chen Rao, Ziqiang Dang, Jiajie Teng, Tianyi Chu, Junche
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-04908/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-04908/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-04908/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-04908/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Automatic and Universal Prompt Injection Attacks against Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-04957/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-04957/
 - Original source: https://arxiv.org/abs/2403.04957
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Automatic and Universal Prompt Injection Attacks agains
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-04957/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-04957/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaogeng Liu, Zhiyuan Yu, Yizhe Zhang, Ning Zhang, Chaowei Xiao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-04957/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-04957/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-04957/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-04957/citation.csl.json
 
 ## Recorded arXiv snapshot
 

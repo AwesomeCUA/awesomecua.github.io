@@ -2,7 +2,7 @@
 
 Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-60a95f34072aeb2771cc/
+- Catalog URL: https://awesomecua.com/resources/url-60a95f34072aeb2771cc/
 - Original source: https://huggingface.co/meituan/EvoCUA-32B-20260105
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-60a95f34072aeb2771cc/record.json
+- Record JSON: https://awesomecua.com/resources/url-60a95f34072aeb2771cc/record.json
 
 ## License declarations
 

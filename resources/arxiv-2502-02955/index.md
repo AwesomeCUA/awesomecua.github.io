@@ -2,7 +2,7 @@
 
 Splits mobile tasks into reaching the required page and operating on it, using subtask data and preferred GUI trajectories for training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-02955/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-02955/
 - Original source: https://arxiv.org/abs/2502.02955
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Splits mobile tasks into reaching the required page and operating on it, using s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-02955/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-02955/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qinzhuo Wu, Wei Liu, Jian Luan, Bin Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-02955/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-02955/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-02955/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-02955/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Qinzhuo Wu, Wei Liu, Jian Luan, Bin Wang
 - Authors: Qinzhuo Wu, Wei Liu, Jian Luan, Bin Wang
 - Publication date (recorded precision): 2025-04
 - Publication source: https://aclanthology.org/2025.naacl-long.244/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2502-02955/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-02955/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2502-02955/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2502-02955/publication-citation.csl.json
 - venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 4760-4775

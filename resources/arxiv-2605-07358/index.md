@@ -2,7 +2,7 @@
 
 Bibliographic record for A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-07358/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-07358/
 - Original source: https://arxiv.org/abs/2605.07358
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for A Comprehensive Survey on Agent Skills: Taxonomy, Techn
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-07358/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-07358/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yingli Zhou, Wang Shu, Yaodong Su, Wenchuan Du, Yixiang Fang, Xuemin Lin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-07358/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-07358/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-07358/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-07358/citation.csl.json
 
 ## Recorded arXiv snapshot
 

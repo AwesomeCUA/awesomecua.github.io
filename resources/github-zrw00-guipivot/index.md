@@ -2,7 +2,7 @@
 
 Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-zrw00-guipivot/
+- Catalog URL: https://awesomecua.com/resources/github-zrw00-guipivot/
 - Original source: https://github.com/ZrW00/GUIPivot
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Query-inference training tools connecting screenshot grounding with GUI action r
 
 The repository releases preprocessing/refinement/evaluation code and multipart ShareGPT-format JSON annotations. Evaluation matches recorded single-step action predictions on AndroidControl and AITZ; it does not run live device tasks. The README links a UIBERT training-JSON path that is not a standalone file in this revision; annotations are packaged in data/GUI.z01, data/GUI.z02 and data/GUI.zip. Original UIBERT/OS-Atlas, AITZ and AndroidControl images must be obtained separately. This entry does not claim a released trained checkpoint or transfer the GPL-3.0 code license to third-party datasets and images.
 
-- Record JSON: https://awesomecua.github.io/resources/github-zrw00-guipivot/record.json
+- Record JSON: https://awesomecua.com/resources/github-zrw00-guipivot/record.json
 
 ## License declarations
 

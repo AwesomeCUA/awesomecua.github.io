@@ -2,7 +2,7 @@
 
 Bibliographic record for Who Writes the Docs in SE 3.0? Agent vs. Human Documentation Pull Requests. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-20171/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-20171/
 - Original source: https://arxiv.org/abs/2601.20171
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Who Writes the Docs in SE 3.0? Agent vs. Human Document
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-20171/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-20171/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kazuma Yamasaki, Joseph Ayobami Joshua, Tasha Settewong, Mahmoud Alfadel, Kazuma
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-20171/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-20171/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-20171/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-20171/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 UI-E2I-Synth uses GPT-4o to synthesize GUI grounding instructions with varied complexity, addressing small elements, imbalanced element types, and implicit requests. The accompanying UI-I2E-Bench evaluates instruction-to-element localization across these annotation challenges.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-11257/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-11257/
 - Original source: https://arxiv.org/abs/2504.11257
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UI-E2I-Synth uses GPT-4o to synthesize GUI grounding instructions with varied co
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11257/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-11257/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinyi Liu, Xiaoyi Zhang, Ziyun Zhang, Yan Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11257/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11257/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-11257/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-11257/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Xinyi Liu, Xiaoyi Zhang, Ziyun Zhang, Yan Lu
 - Authors: Xinyi Liu, Xiaoyi Zhang, Ziyun Zhang, Yan Lu
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.findings-acl.809/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11257/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11257/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2504-11257/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2504-11257/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2025
 - publisher: Association for Computational Linguistics
 - pages: 15668-15684

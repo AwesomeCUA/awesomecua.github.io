@@ -2,7 +2,7 @@
 
 Evaluates web-task completion under explicit enterprise policies, measuring policy-compliant completion and safety violations separately.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-06703/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-06703/
 - Original source: https://arxiv.org/abs/2410.06703
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates web-task completion under explicit enterprise policies, measuring poli
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-06703/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-06703/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ido Levy, Ben Wiesel, Sami Marreed, Alon Oved, Avi Yaeli, Nir Mashkif, Segev Shl
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-06703/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-06703/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-06703/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-06703/citation.csl.json
 
 ## Recorded arXiv snapshot
 

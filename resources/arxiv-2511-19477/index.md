@@ -2,7 +2,7 @@
 
 Reports architectural and security lessons from building a browser agent, including hybrid accessibility-tree and visual context, browser tooling and programmatic constraints. A WebGames evaluation accompanies the discussion of reliability and specialization.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-19477/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-19477/
 - Original source: https://arxiv.org/abs/2511.19477
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Reports architectural and security lessons from building a browser agent, includ
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. Broader claims about the safety of general-purpose browsing are the paper's position, not a catalog conclusion.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-19477/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-19477/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Aram Vardanyan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-19477/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-19477/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-19477/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-19477/citation.csl.json
 
 ## Recorded arXiv snapshot
 

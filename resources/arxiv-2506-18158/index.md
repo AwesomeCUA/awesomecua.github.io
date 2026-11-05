@@ -2,7 +2,7 @@
 
 Chain-of-Memory explicitly records action descriptions and task-relevant screen information in short- and long-term memory for GUI navigation. GUI Odyssey-CoM provides 111,000 screen-action pairs with memory annotations for learning and evaluating information retention across applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-18158/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-18158/
 - Original source: https://arxiv.org/abs/2506.18158
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Chain-of-Memory explicitly records action descriptions and task-relevant screen 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-18158/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-18158/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinzge Gao, Chuanrui Hu, Bin Chen, Teng Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-18158/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-18158/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-18158/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-18158/citation.csl.json
 
 ## Recorded arXiv snapshot
 

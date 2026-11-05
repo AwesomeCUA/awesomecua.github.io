@@ -2,7 +2,7 @@
 
 PlayEval measures whether generated GUI applications remain logically playable, using PlayTester to execute task-oriented GUI playthroughs. PlayCoder closes the loop between repository-aware generation, interactive testing and targeted code repair.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-19742/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-19742/
 - Original source: https://arxiv.org/abs/2604.19742
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PlayEval measures whether generated GUI applications remain logically playable, 
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-19742/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-19742/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhiyuan Peng, Wei Tao, Xin Yin, Chenhao Ying, Yuan Luo, Yiwen Guo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-19742/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-19742/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-19742/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-19742/citation.csl.json
 
 ## Recorded arXiv snapshot
 

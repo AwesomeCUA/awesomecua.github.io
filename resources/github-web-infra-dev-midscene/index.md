@@ -2,7 +2,7 @@
 
 Visual automation toolkit for web, mobile, and desktop interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-web-infra-dev-midscene/
+- Catalog URL: https://awesomecua.com/resources/github-web-infra-dev-midscene/
 - Original source: https://github.com/web-infra-dev/midscene
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Visual automation toolkit for web, mobile, and desktop interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-web-infra-dev-midscene/record.json
+- Record JSON: https://awesomecua.com/resources/github-web-infra-dev-midscene/record.json
 
 ## License declarations
 

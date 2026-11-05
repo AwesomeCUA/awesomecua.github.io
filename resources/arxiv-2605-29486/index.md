@@ -2,7 +2,7 @@
 
 Introduces PhoneWorld, which converts observed app pages, transitions and state changes into executable Android environments through a build-inspect-repair process. Generated tasks and programmatic verifiers support benchmarking, trajectory collection and online training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-29486/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-29486/
 - Original source: https://arxiv.org/abs/2605.29486
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PhoneWorld, which converts observed app pages, transitions and state 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-29486/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-29486/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxuan Liu, Xin Lai, Junyi Li, Pengyuan Lyu, Jason, Yiduo Guo, Zhengyao Fang, Ya
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-29486/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-29486/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-29486/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-29486/citation.csl.json
 
 ## Recorded arXiv snapshot
 

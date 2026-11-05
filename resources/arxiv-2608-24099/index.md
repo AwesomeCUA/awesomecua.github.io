@@ -2,7 +2,7 @@
 
 Introduces AnTrap, which injects task-solvable runtime anomalies into Android GUI-agent trajectories using a layered failure taxonomy. It compares model robustness and adversarial reinforcement learning to distinguish recoverable interface traps from persistent contextual failures.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-24099/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-24099/
 - Original source: https://arxiv.org/abs/2608.24099
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AnTrap, which injects task-solvable runtime anomalies into Android GU
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24099/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-24099/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guo Gan, Yilun Zhao, Cong Chen, Jinbiao Wei, Tingyu Song, Zheyuan Yang, Lin Fu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24099/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24099/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-24099/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-24099/citation.csl.json
 
 ## Recorded arXiv snapshot
 

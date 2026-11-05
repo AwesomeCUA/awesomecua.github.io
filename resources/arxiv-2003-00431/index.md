@@ -2,7 +2,7 @@
 
 Bibliographic record for A Study on Multimodal and Interactive Explanations for Visual Question Answering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2003-00431/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2003-00431/
 - Original source: https://arxiv.org/abs/2003.00431
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for A Study on Multimodal and Interactive Explanations for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2003-00431/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2003-00431/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kamran Alipour, Jurgen P. Schulze, Yi Yao, Avi Ziskind, Giedrius Burachas
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2003-00431/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2003-00431/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2003-00431/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2003-00431/citation.csl.json
 
 ## Recorded arXiv snapshot
 

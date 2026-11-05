@@ -2,7 +2,7 @@
 
 macOSWorld provides 202 interactive tasks across 30 applications, with instructions and operating-system interfaces in five languages. It evaluates GUI agents on macOS workflows and includes a separate subset for deception-attack testing.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-04135/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-04135/
 - Original source: https://arxiv.org/abs/2506.04135
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ macOSWorld provides 202 interactive tasks across 30 applications, with instructi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-04135/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-04135/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pei Yang, Hai Ci, Mike Zheng Shou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-04135/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-04135/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-04135/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-04135/citation.csl.json
 
 ## Recorded arXiv snapshot
 

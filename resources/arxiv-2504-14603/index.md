@@ -2,7 +2,7 @@
 
 Introduces UFO2, a Windows desktop agent architecture combining a coordinating HostAgent, application-specialized agents, and a shared GUI/API action layer. It integrates UI Automation, visual parsing, speculative planning, and an isolated picture-in-picture desktop.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-14603/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-14603/
 - Original source: https://arxiv.org/abs/2504.14603
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces UFO2, a Windows desktop agent architecture combining a coordinating H
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-14603/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-14603/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chaoyun Zhang, He Huang, Chiming Ni, Jian Mu, Si Qin, Shilin He, Lu Wang, Fangka
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-14603/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-14603/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-14603/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-14603/citation.csl.json
 
 ## Recorded arXiv snapshot
 

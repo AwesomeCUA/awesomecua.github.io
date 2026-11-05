@@ -2,7 +2,7 @@
 
 Combines environment-grounded training with demonstration-conditioned workflows, and introduces OSWorkerBench for extended office-task evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-15930/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-15930/
 - Original source: https://arxiv.org/abs/2608.15930
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines environment-grounded training with demonstration-conditioned workflows,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-15930/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-15930/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zihan Ding, Longxu Dou, Qi Gao, Xiangwu Guo, Shengchao Hu, Zilong Huang, Zihang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-15930/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-15930/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-15930/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-15930/citation.csl.json
 
 ## Recorded arXiv snapshot
 

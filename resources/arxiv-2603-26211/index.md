@@ -2,7 +2,7 @@
 
 Adapts a discrete vision-language diffusion model to single-turn GUI action and bounding-box prediction, using a hybrid masking schedule for coordinate geometry. Experiments across web, desktop and mobile datasets examine grounding accuracy and inference tradeoffs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-26211/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-26211/
 - Original source: https://arxiv.org/abs/2603.26211
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Adapts a discrete vision-language diffusion model to single-turn GUI action and 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-26211/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-26211/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shrinidhi Kumbhar, Haofu Liao, Srikar Appalaraju, Kunwar Yashraj Singh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-26211/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-26211/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-26211/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-26211/citation.csl.json
 
 ## Recorded arXiv snapshot
 

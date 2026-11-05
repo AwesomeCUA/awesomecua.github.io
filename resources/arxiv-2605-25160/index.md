@@ -2,7 +2,7 @@
 
 Introduces ScaleWoB, which synthesizes interactive GUI environments as backend-free webpages with verifiable rewards. Its mobile-oriented benchmark evaluates agent execution and compares selected synthetic tasks with real-app behavior.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-25160/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-25160/
 - Original source: https://arxiv.org/abs/2605.25160
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces ScaleWoB, which synthesizes interactive GUI environments as backend-f
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Mobile, desktop and automotive interfaces are simulated as webpages; this does not assert native deployment on those platforms.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-25160/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-25160/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guohong Liu, Jialei Ye, Pengzhi Gao, Wei Liu, Jian Luan, Yunxin Liu, Yuanchun Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-25160/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-25160/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-25160/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-25160/citation.csl.json
 
 ## Recorded arXiv snapshot
 

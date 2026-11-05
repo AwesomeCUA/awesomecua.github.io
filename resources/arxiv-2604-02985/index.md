@@ -2,7 +2,7 @@
 
 Bibliographic record for Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-02985/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-02985/
 - Original source: https://arxiv.org/abs/2604.02985
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Prompt Compression in the Wild: Measuring Latency, Rate
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-02985/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-02985/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Cornelius Kummer, Lena Jurkschat, Michael Färber, Sahar Vahdati
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-02985/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-02985/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-02985/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-02985/citation.csl.json
 
 ## Recorded arXiv snapshot
 

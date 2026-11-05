@@ -2,7 +2,7 @@
 
 Adapts a compact Florence-2 model to map user instructions to screen coordinates using multitask training and augmented data.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-11871/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-11871/
 - Original source: https://arxiv.org/abs/2410.11871
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Adapts a compact Florence-2 model to map user instructions to screen coordinates
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-11871/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-11871/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pawel Pawlowski, Krystian Zawistowski, Wojciech Lapacz, Adam Wiacek, Marcin Skor
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-11871/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-11871/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-11871/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-11871/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-23559/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-23559/
 - Original source: https://arxiv.org/abs/2603.23559
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CAPTCHA Solving for Native GUI Agents: Automated Reason
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-23559/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-23559/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxi Chen, Haoyu Zhai, Chenkai Wang, Rui Yang, Lingming Zhang, Gang Wang, Huan Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-23559/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-23559/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-23559/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-23559/citation.csl.json
 
 ## Recorded arXiv snapshot
 

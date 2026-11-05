@@ -2,7 +2,7 @@
 
 WinDOM obtains bounding-box supervision from a Windows 11 web reimplementation driven through Playwright, and studies rejection-sampling distillation for small GUI grounders. It treats the depth of the supervised cold start as a GRPO choice, comparing same-size EMA and larger same-family teachers.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-25964/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-25964/
 - Original source: https://arxiv.org/abs/2606.25964
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WinDOM obtains bounding-box supervision from a Windows 11 web reimplementation d
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-25964/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-25964/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chengheng Li-Chen, Zhiqian Zhou, Hao Chen, Nicolas Chauvin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-25964/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-25964/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-25964/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-25964/citation.csl.json
 
 ## Recorded arXiv snapshot
 

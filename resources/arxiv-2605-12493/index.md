@@ -2,7 +2,7 @@
 
 LongMemEval-V2 asks memory systems to recover environment knowledge from long web-agent histories for question answering. Its AgentRunbook variants contrast indexed knowledge pools with coding-agent retrieval from stored trajectory files.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-12493/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-12493/
 - Original source: https://arxiv.org/abs/2605.12493
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LongMemEval-V2 asks memory systems to recover environment knowledge from long we
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-12493/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-12493/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Di Wu, Zixiang Ji, Asmi Kawatkar, Bryan Kwan, Jia-Chen Gu, Nanyun Peng, Kai-Wei 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-12493/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-12493/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-12493/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-12493/citation.csl.json
 
 ## Recorded arXiv snapshot
 

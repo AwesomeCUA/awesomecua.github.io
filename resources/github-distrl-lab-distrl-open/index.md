@@ -2,7 +2,7 @@
 
 Distributed online reinforcement-learning framework for Android agents, with environment setup and trajectory collection tools.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-distrl-lab-distrl-open/
+- Catalog URL: https://awesomecua.com/resources/github-distrl-lab-distrl-open/
 - Original source: https://github.com/DistRL-lab/distrl-open
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Distributed online reinforcement-learning framework for Android agents, with env
 
 The README identifies model weights and dataset release as pending; this entry covers the code framework.
 
-- Record JSON: https://awesomecua.github.io/resources/github-distrl-lab-distrl-open/record.json
+- Record JSON: https://awesomecua.com/resources/github-distrl-lab-distrl-open/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Securing Web Agents with the Compile-Then-Execute Paradigm. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2611-06039/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2611-06039/
 - Original source: https://arxiv.org/abs/2611.06039
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Securing Web Agents with the Compile-Then-Execute Parad
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2611-06039/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2611-06039/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Annabella Chow, Jinhao Zhu, Sylvie Venuto, Abdulaziz Alharbi, Basel Alomair, Ral
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2611-06039/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2611-06039/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2611-06039/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2611-06039/citation.csl.json
 
 ## Recorded arXiv snapshot
 

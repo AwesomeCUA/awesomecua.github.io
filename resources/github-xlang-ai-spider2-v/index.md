@@ -2,7 +2,7 @@
 
 Visual agent evaluation on data-science and engineering workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-xlang-ai-spider2-v/
+- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-spider2-v/
 - Original source: https://github.com/xlang-ai/Spider2-V
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Visual agent evaluation on data-science and engineering workflows.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-spider2-v/record.json
+- Record JSON: https://awesomecua.com/resources/github-xlang-ai-spider2-v/record.json
 
 ## Structured profile
 

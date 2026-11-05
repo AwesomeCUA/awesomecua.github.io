@@ -2,7 +2,7 @@
 
 Extends BrowseSafe with paired attacked and clean webpages in several representations, and studies text and screenshot detectors plus feedback-adapted prompt injections.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-17457/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-17457/
 - Original source: https://arxiv.org/abs/2610.17457
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Extends BrowseSafe with paired attacked and clean webpages in several representa
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-17457/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-17457/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-17457/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-17457/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-17457/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-17457/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-07929/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-07929/
 - Original source: https://arxiv.org/abs/2604.07929
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Same Outcomes, Different Journeys: A Trace-Level Framew
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-07929/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-07929/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Maria Movin, Claudia Hauff, Aron Henriksson, Panagiotis Papapetrou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-07929/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-07929/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-07929/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-07929/citation.csl.json
 
 ## Recorded arXiv snapshot
 

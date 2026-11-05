@@ -2,7 +2,7 @@
 
 Native GUI agent models; UI-TARS-1.5 adds reinforcement-learned reasoning before acting and an open 7B checkpoint, and UI-TARS-2 extends to games, code and tool use.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-bytedance-ui-tars/
+- Catalog URL: https://awesomecua.com/resources/github-bytedance-ui-tars/
 - Original source: https://github.com/bytedance/UI-TARS
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Native GUI agent models; UI-TARS-1.5 adds reinforcement-learned reasoning before
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-bytedance-ui-tars/record.json
+- Record JSON: https://awesomecua.com/resources/github-bytedance-ui-tars/record.json
 
 ## License declarations
 

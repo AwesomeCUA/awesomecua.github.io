@@ -2,7 +2,7 @@
 
 Magentic-UI combines browser interaction, code execution, file operations, and MCP tools in an interface for human-agent collaboration. It studies collaborative planning and task execution, action guards, and persistent memory through benchmark tasks, simulated users, user studies, and safety assessments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-22358/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-22358/
 - Original source: https://arxiv.org/abs/2507.22358
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Magentic-UI combines browser interaction, code execution, file operations, and M
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-22358/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-22358/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hussein Mozannar, Gagan Bansal, Cheng Tan, Adam Fourney, Victor Dibia, Jingya Ch
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-22358/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-22358/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-22358/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-22358/citation.csl.json
 
 ## Recorded arXiv snapshot
 

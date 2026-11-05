@@ -2,7 +2,7 @@
 
 DeskCraft evaluates professional desktop workflows and human-agent collaboration through mid-execution clarification, interruption and post-completion feedback. Its tasks cover creative applications and expose difficulties in long-horizon execution and proactive clarification.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-03103/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-03103/
 - Original source: https://arxiv.org/abs/2606.03103
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DeskCraft evaluates professional desktop workflows and human-agent collaboration
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-03103/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-03103/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenkai Wang, Tao Xiong, Jingchen Ni, Yunpeng Bao, Xiyun Li, Tianqi Liu, Hongcan 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-03103/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-03103/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-03103/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-03103/citation.csl.json
 
 ## Recorded arXiv snapshot
 

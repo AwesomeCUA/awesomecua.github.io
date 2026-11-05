@@ -2,7 +2,7 @@
 
 Bibliographic record for Less Is More -- Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-12042/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-12042/
 - Original source: https://arxiv.org/abs/2601.12042
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Less Is More -- Until It Breaks: Security Pitfalls of V
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-12042/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-12042/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaomei Zhang, Zhaoxi Zhang, Leo Yu Zhang, Yanjun Zhang, Guanhong Tao, Shirui Pa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-12042/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-12042/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-12042/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-12042/citation.csl.json
 
 ## Recorded arXiv snapshot
 

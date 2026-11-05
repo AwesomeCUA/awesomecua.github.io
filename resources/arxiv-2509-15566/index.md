@@ -2,7 +2,7 @@
 
 BTL-UI separates GUI interaction into screen-region attention, planning and executable-command generation. It adds an automated annotation pipeline and rule-based process/outcome rewards for training, with evaluation on both static understanding and dynamic interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-15566/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-15566/
 - Original source: https://arxiv.org/abs/2509.15566
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ BTL-UI separates GUI interaction into screen-region attention, planning and exec
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-15566/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-15566/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shaojie Zhang, Ruoceng Zhang, Pei Fu, Shaokang Wang, Jiahui Yang, Xin Du, Shiqi 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-15566/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-15566/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-15566/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-15566/citation.csl.json
 
 ## Recorded arXiv snapshot
 

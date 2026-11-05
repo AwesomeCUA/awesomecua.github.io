@@ -2,7 +2,7 @@
 
 BEAP-Agent treats GUI execution as depth-first search with coordinated planning, execution and task-state tracking. It supports backtracking across multiple levels of earlier states and evaluates recovery on OSWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-21352/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-21352/
 - Original source: https://arxiv.org/abs/2601.21352
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ BEAP-Agent treats GUI execution as depth-first search with coordinated planning,
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21352/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-21352/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyu Lu, Tengjin Weng, Yiying Yang, Yuhang Zhao, Xinxin Huang, Wenhao Jiang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21352/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21352/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-21352/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-21352/citation.csl.json
 
 ## Recorded arXiv snapshot
 

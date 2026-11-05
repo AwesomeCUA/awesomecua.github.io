@@ -2,7 +2,7 @@
 
 OdoBot builds a model of web-application behavior from successful task demonstrations and uses it to guide task execution. Its Canvas LMS evaluation compares token use and completion with existing web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-13491/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-13491/
 - Original source: https://arxiv.org/abs/2609.13491
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OdoBot builds a model of web-application behavior from successful task demonstra
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-13491/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-13491/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Alexandru Ianta, Eleni Stroulia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-13491/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-13491/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-13491/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-13491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

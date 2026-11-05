@@ -2,7 +2,7 @@
 
 Introduces GUIEnv, GUIAct, and GUIChat datasets to develop OCR, grounding, component knowledge, and interaction abilities in visual-language models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-11317/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-11317/
 - Original source: https://arxiv.org/abs/2406.11317
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUIEnv, GUIAct, and GUIChat datasets to develop OCR, grounding, compo
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-11317/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-11317/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, Yue Zhao, Chongyi Wan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-11317/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-11317/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-11317/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-11317/citation.csl.json
 
 ## Recorded arXiv snapshot
 

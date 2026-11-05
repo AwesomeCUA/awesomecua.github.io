@@ -2,7 +2,7 @@
 
 Bibliographic record for LHAW: Controllable Underspecification for Long-Horizon Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-10525/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-10525/
 - Original source: https://arxiv.org/abs/2602.10525
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for LHAW: Controllable Underspecification for Long-Horizon 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-10525/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-10525/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ George Pu, Michael S. Lee, Udari Madhushani Sehwag, David J. Lee, Bryan Zhu, Yas
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-10525/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-10525/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-10525/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-10525/citation.csl.json
 
 ## Recorded arXiv snapshot
 

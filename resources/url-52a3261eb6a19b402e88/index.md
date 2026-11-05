@@ -2,7 +2,7 @@
 
 Introduces World of Bits, a web-task platform combining human demonstrations, keyboard and mouse actions, and cached HTTP traffic for repeatable task environments. It evaluates agents trained through behavioral cloning and reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/
+- Catalog URL: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/
 - Original source: https://proceedings.mlr.press/v70/shi17a.html
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces World of Bits, a web-task platform combining human demonstrations, ke
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained.
 
-- Record JSON: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/record.json
+- Record JSON: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
 - Authors: Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
 - Publication date (recorded precision): 2017-07-17
 - Publication source: https://proceedings.mlr.press/v70/shi17a.html
-- Publication BibTeX: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/publication-citation.csl.json
 - venue: Proceedings of the 34th International Conference on Machine Learning
 - publisher: PMLR
 - series: Proceedings of Machine Learning Research

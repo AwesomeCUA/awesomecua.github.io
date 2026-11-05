@@ -2,7 +2,7 @@
 
 Introduces data and a generation pipeline for translating natural-language requests into Android intent invocations using compact language models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-00402/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-00402/
 - Original source: https://arxiv.org/abs/2412.00402
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces data and a generation pipeline for translating natural-language reque
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-00402/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-00402/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weikai Xie, Li Zhang, Shihe Wang, Rongjie Yi, Mengwei Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-00402/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-00402/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-00402/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-00402/citation.csl.json
 
 ## Recorded arXiv snapshot
 

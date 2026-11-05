@@ -2,7 +2,7 @@
 
 Introduces ScreenAI and screen-annotation training that supports UI question answering, navigation, and summarization data generation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-04615/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-04615/
 - Original source: https://arxiv.org/abs/2402.04615
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces ScreenAI and screen-annotation training that supports UI question ans
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-04615/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-04615/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gilles Baechler, Srinivas Sunkara, Maria Wang, Fedir Zubach, Hassan Mansoor, Vin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-04615/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-04615/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-04615/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-04615/citation.csl.json
 
 ## Recorded arXiv snapshot
 

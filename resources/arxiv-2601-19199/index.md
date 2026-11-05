@@ -2,7 +2,7 @@
 
 MAGNET maintains separate memories for stable interface functions and task procedures across changing layouts and workflows. It updates frequently used knowledge and evaluates adaptation in AndroidWorld and offline distribution-shift settings.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-19199/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-19199/
 - Original source: https://arxiv.org/abs/2601.19199
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MAGNET maintains separate memories for stable interface functions and task proce
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-19199/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-19199/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Libo Sun, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-19199/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-19199/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-19199/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-19199/citation.csl.json
 
 ## Recorded arXiv snapshot
 

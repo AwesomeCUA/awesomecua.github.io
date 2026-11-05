@@ -2,7 +2,7 @@
 
 Trains HTML-element relevance filters on Mind2Web trajectories and transfers them to WebArena to reduce irrelevant browser context. It also evaluates a zero-shot ColBERT retriever and documents baseline web-agent failure modes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-27770/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-27770/
 - Original source: https://arxiv.org/abs/2609.27770
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains HTML-element relevance filters on Mind2Web trajectories and transfers the
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27770/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-27770/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhitong Guo, Jing Yu Koh, Ruiyu Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27770/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27770/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-27770/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-27770/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Assistant framework combining code execution and computer interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-openinterpreter-open-interpreter/
+- Catalog URL: https://awesomecua.com/resources/github-openinterpreter-open-interpreter/
 - Original source: https://github.com/OpenInterpreter/open-interpreter
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Assistant framework combining code execution and computer interaction.
 
 The repository has evolved substantially; computer-use functionality is documented in its Computer Use section. Do not infer parity with historical releases.
 
-- Record JSON: https://awesomecua.github.io/resources/github-openinterpreter-open-interpreter/record.json
+- Record JSON: https://awesomecua.com/resources/github-openinterpreter-open-interpreter/record.json
 
 ## License declarations
 

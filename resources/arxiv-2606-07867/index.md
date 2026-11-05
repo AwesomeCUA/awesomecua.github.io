@@ -2,7 +2,7 @@
 
 Bibliographic record for The Cold-Start Safety Gap in LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-07867/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-07867/
 - Original source: https://arxiv.org/abs/2606.07867
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for The Cold-Start Safety Gap in LLM Agents. Title, authors
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-07867/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-07867/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chung-En Sun, Linbo Liu, Tsui-Wei Weng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-07867/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-07867/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-07867/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-07867/citation.csl.json
 
 ## Recorded arXiv snapshot
 

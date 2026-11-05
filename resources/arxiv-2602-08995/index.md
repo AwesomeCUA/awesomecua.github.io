@@ -2,7 +2,7 @@
 
 MisActBench provides action-level labels for task alignment, while DeAction checks proposed computer-use actions and requests revisions through structured feedback. The paper separately evaluates offline detection and interactive operation in OSWorld and RedTeamCUA.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-08995/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-08995/
 - Original source: https://arxiv.org/abs/2602.08995
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MisActBench provides action-level labels for task alignment, while DeAction chec
 
 The annotation was reviewed against the complete retained official abstract and the specified sections of the same recorded paper version. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-08995/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-08995/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuting Ning, Jaylen Jones, Zhehao Zhang, Chentao Ye, Weitong Ruan, Junyi Li, Rah
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-08995/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-08995/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-08995/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-08995/citation.csl.json
 
 ## Recorded arXiv snapshot
 

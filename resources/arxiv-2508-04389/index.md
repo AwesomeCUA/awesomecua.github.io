@@ -2,7 +2,7 @@
 
 Introduces GuirlVG, an empirical study of reinforcement fine-tuning for GUI visual grounding. It analyzes training components and adds an adaptive KL-based mechanism to limit reward over-optimization.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-04389/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-04389/
 - Original source: https://arxiv.org/abs/2508.04389
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GuirlVG, an empirical study of reinforcement fine-tuning for GUI visu
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04389/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-04389/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weitai Kang, Bin Lei, Gaowen Liu, Caiwen Ding, Yan Yan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04389/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04389/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-04389/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-04389/citation.csl.json
 
 ## Recorded arXiv snapshot
 

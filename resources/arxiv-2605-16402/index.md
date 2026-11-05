@@ -2,7 +2,7 @@
 
 WinDeskGround synthesizes multi-window desktop layouts with controlled occlusion, density and semantic similarity to test GUI grounding robustness. Its instruction-target benchmark measures how localization changes when interfaces depart from simple single-layer scenes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-16402/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-16402/
 - Original source: https://arxiv.org/abs/2605.16402
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WinDeskGround synthesizes multi-window desktop layouts with controlled occlusion
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-16402/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-16402/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoren Zhao, Tianyi Chen, Zhen Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-16402/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-16402/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-16402/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-16402/citation.csl.json
 
 ## Recorded arXiv snapshot
 

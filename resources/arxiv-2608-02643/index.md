@@ -2,7 +2,7 @@
 
 CUADebug combines a failure taxonomy and human-annotated OSWorld failure trajectories with an agent that locates causal steps and proposes corrections from screenshots and action traces. It evaluates root-cause diagnosis separately from controlled task re-execution and failure recovery.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-02643/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-02643/
 - Original source: https://arxiv.org/abs/2608.02643
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CUADebug combines a failure taxonomy and human-annotated OSWorld failure traject
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-02643/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-02643/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weijia Zhang, Kunlun Zhu, Zeyi Liu, Yinting Chen, Tianyi Ma, Jiateng Liu, Jiaxun
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-02643/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-02643/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-02643/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-02643/citation.csl.json
 
 ## Recorded arXiv snapshot
 

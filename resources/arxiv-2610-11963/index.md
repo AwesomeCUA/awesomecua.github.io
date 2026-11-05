@@ -2,7 +2,7 @@
 
 Tests natural-language no-code fixes through GUI execution in Linux Brave. Scripted fixed/buggy-state gates and issue-specific checkers distinguish fix outcomes from the executor's completion claims.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-11963/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-11963/
 - Original source: https://arxiv.org/abs/2610.11963
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Tests natural-language no-code fixes through GUI execution in Linux Brave. Scrip
 
 The evaluation reuses 322 fixes from 12 generation configurations and is restricted to nine of 51 candidate issues after environment setup and sanity checks. Resolution counts any success in three runs with a 20-step episode limit; executor harnesses and decoding settings differ. Opening the update page triggers a harness-controlled switch to the fixed browser build. Checker behavior, reconstructed starting states and the two-author human reference limit interpretation. The replication package was linked by the paper but was not inspected; no software, agent, model or result was run or reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-11963/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-11963/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Utku Boran Torun, Veli Karakaya, Eray Tüzün
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-11963/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-11963/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-11963/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-11963/citation.csl.json
 
 ## Recorded arXiv snapshot
 

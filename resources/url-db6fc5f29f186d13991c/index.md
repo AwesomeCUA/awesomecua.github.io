@@ -2,7 +2,7 @@
 
 UI-TARS-1.5-7B-derived checkpoint trained with ARPO on OSWorld desktop tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-db6fc5f29f186d13991c/
+- Catalog URL: https://awesomecua.com/resources/url-db6fc5f29f186d13991c/
 - Original source: https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ UI-TARS-1.5-7B-derived checkpoint trained with ARPO on OSWorld desktop tasks.
 
 The public Hub manifest lists four Safetensors shards, an index and configuration/tokenizer files. The model card reports a 15-step evaluation setting; no performance result is independently reproduced. No weight license is declared, despite Apache-2.0 being established for the separate code repository.
 
-- Record JSON: https://awesomecua.github.io/resources/url-db6fc5f29f186d13991c/record.json
+- Record JSON: https://awesomecua.com/resources/url-db6fc5f29f186d13991c/record.json
 
 ## License declarations
 

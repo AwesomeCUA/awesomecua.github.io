@@ -2,7 +2,7 @@
 
 Benchmark for desktop GUI tasks derived from instructional videos.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-showlab-videogui/
+- Catalog URL: https://awesomecua.com/resources/github-showlab-videogui/
 - Original source: https://github.com/showlab/videogui
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Benchmark for desktop GUI tasks derived from instructional videos.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-showlab-videogui/record.json
+- Record JSON: https://awesomecua.com/resources/github-showlab-videogui/record.json
 
 ## License declarations
 

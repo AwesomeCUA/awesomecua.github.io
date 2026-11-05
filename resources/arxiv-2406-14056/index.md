@@ -2,7 +2,7 @@
 
 Uses image-dependent question-answer data and staged fine-tuning to improve GUI comprehension and reduce unsupported visual answers.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-14056/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-14056/
 - Original source: https://arxiv.org/abs/2406.14056
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses image-dependent question-answer data and staged fine-tuning to improve GUI 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-14056/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-14056/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyang Meng, Yu Dai, Zezheng Gong, Shaoxiong Guo, Minglong Tang, Tongquan Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-14056/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-14056/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-14056/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-14056/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Ziyang Meng, Yu Dai, Zezheng Gong, Shaoxiong Guo, Minglong Tang, Tongquan Wei
 - Authors: Meng Ziyang, Yu Dai, Zezheng Gong, Shaoxiong Guo, Minglong Tang, Tongquan Wei
 - Publication date (recorded precision): 2024-11
 - Publication source: https://aclanthology.org/2024.findings-emnlp.68/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2406-14056/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-14056/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2406-14056/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2406-14056/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: EMNLP 2024
 - publisher: Association for Computational Linguistics
 - pages: 1261-1279

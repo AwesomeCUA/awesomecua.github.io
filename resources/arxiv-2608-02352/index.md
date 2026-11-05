@@ -2,7 +2,7 @@
 
 Qwen-CUA operates through screenshots and keyboard/mouse events while compressing older visual history into reusable context blocks. Its report combines verifiable task generation, trajectory-based training and separate browser and Bash-augmented studies.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-02352/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-02352/
 - Original source: https://arxiv.org/abs/2608.02352
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Qwen-CUA operates through screenshots and keyboard/mouse events while compressin
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-02352/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-02352/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dunjie Lu, Shuai Bai, Tianyi Bai, Sicheng Fan, Chang Gao, Jian Guan, Feng Hu, Mi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-02352/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-02352/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-02352/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-02352/citation.csl.json
 
 ## Recorded arXiv snapshot
 

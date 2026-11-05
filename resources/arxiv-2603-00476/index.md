@@ -2,7 +2,7 @@
 
 Identifies time-of-check to time-of-use (TOCTOU) race vulnerabilities when web pages mutate between agent planning and action execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-00476/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-00476/
 - Original source: https://arxiv.org/abs/2603.00476
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Identifies time-of-check to time-of-use (TOCTOU) race vulnerabilities when web p
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-00476/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-00476/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Linxi Jiang, Zhijie Liu, Haotian Luo, Zhiqiang Lin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-00476/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-00476/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-00476/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-00476/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Synthesizes visual UI defects from mobile screenshots and Android layout metadata to support GUI-testing experiments.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-zju-aces-ise-uidefectmocker/
+- Catalog URL: https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/
 - Original source: https://github.com/ZJU-ACES-ISE/UIDefectMocker
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Synthesizes visual UI defects from mobile screenshots and Android layout metadat
 
 This entry describes the released screenshot-defect tool, separately from the under-construction ChatUITest project hub.
 
-- Record JSON: https://awesomecua.github.io/resources/github-zju-aces-ise-uidefectmocker/record.json
+- Record JSON: https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Introduces PAIR for controlled evaluation of mobile GUI agents across user-conditioned application states and RePAIR for training from cross-user subgoal outcomes. The study examines failures when personalized interfaces change which items an agent must identify.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-07972/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-07972/
 - Original source: https://arxiv.org/abs/2610.07972
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PAIR for controlled evaluation of mobile GUI agents across user-condi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-07972/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-07972/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yeji Park, Jaeyun Shim, Taesik Gong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-07972/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-07972/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-07972/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-07972/citation.csl.json
 
 ## Recorded arXiv snapshot
 

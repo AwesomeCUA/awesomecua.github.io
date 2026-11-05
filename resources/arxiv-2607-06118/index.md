@@ -2,7 +2,7 @@
 
 WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success does not translate into useful task completion.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-06118/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-06118/
 - Original source: https://arxiv.org/abs/2607.06118
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-06118/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-06118/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wei Dong, Tianyu Fu, Zhe Yu, Hanning Wang, Anyang Su, Zhizhou Fang, Yuyang Chen,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-06118/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-06118/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-06118/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-06118/citation.csl.json
 
 ## Recorded arXiv snapshot
 

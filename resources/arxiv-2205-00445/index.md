@@ -2,7 +2,7 @@
 
 Bibliographic record for MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2205-00445/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2205-00445/
 - Original source: https://arxiv.org/abs/2205.00445
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MRKL Systems: A modular, neuro-symbolic architecture th
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2205-00445/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2205-00445/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ehud Karpas, Omri Abend, Yonatan Belinkov, Barak Lenz, Opher Lieber, Nir Ratner,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2205-00445/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2205-00445/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2205-00445/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2205-00445/citation.csl.json
 
 ## Recorded arXiv snapshot
 

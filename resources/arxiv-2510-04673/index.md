@@ -2,7 +2,7 @@
 
 Bibliographic record for Watch and Learn: Learning to Use Computers from Online Videos. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-04673/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-04673/
 - Original source: https://arxiv.org/abs/2510.04673
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Watch and Learn: Learning to Use Computers from Online 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-04673/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-04673/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chan Hee Song, Yiwen Song, Palash Goyal, Yu Su, Oriana Riva, Hamid Palangi, Toma
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-04673/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-04673/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-04673/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-04673/citation.csl.json
 
 ## Recorded arXiv snapshot
 

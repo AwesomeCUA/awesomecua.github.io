@@ -2,7 +2,7 @@
 
 Introduces GUI-CC, a benchmark for assessing GUI world models as multi-step agent environments. Separate reference-action and agent-loop tracks test whether generated screens preserve context, plausible transitions, and task progress throughout interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-00048/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-00048/
 - Original source: https://arxiv.org/abs/2609.00048
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUI-CC, a benchmark for assessing GUI world models as multi-step agen
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-00048/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-00048/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lin Fu, Zheyuan Yang, Tianhui Zhang, Jinbiao Wei, Guo Gan, Boxu Liu, Yilun Zhao,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-00048/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-00048/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-00048/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-00048/citation.csl.json
 
 ## Recorded arXiv snapshot
 

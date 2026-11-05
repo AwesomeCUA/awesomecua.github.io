@@ -2,7 +2,7 @@
 
 Surveys multimodal memory using representation and management axes, distinguishing fixed-policy updates from policy evolution and comparing GUI memory evaluation with other modalities.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-19366/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-19366/
 - Original source: https://arxiv.org/abs/2610.19366
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Surveys multimodal memory using representation and management axes, distinguishi
 
 A broad literature synthesis spanning images, video, audio, GUI and embodied settings. Its GUI section compares interface-state retention, action outcomes, cross-session reuse and visual evidence, but the paper does not provide a new GUI-agent experiment. Taxonomy corpus counts and benchmark classifications are authors' annotations, not independently audited field coverage. Updating stored content alone does not establish the survey's self-evolving-policy tier; endpoint task success does not isolate memory use. Lifecycle, resource-budget and provenance recommendations are proposed evaluation directions rather than demonstrated guarantees. Platform facets stay unspecified; cited systems and releases were not independently verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-19366/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-19366/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Minghao Guo, Qingyue Jiao, Xiujin Liu, Jianhong Pang, Ruimeng Yang, Naihao Xu, L
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-19366/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-19366/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-19366/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-19366/citation.csl.json
 
 ## Recorded arXiv snapshot
 

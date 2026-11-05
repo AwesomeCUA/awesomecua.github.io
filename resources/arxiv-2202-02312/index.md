@@ -2,7 +2,7 @@
 
 Introduces MoTIF mobile-app interactions with feasible and infeasible commands, feasibility explanations, and follow-up questions for ambiguous requests.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2202-02312/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2202-02312/
 - Original source: https://arxiv.org/abs/2202.02312
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MoTIF mobile-app interactions with feasible and infeasible commands, 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2202-02312/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2202-02312/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Andrea Burns, Deniz Arsan, Sanjna Agrawal, Ranjitha Kumar, Kate Saenko, Bryan A.
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2202-02312/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-02312/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2202-02312/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2202-02312/citation.csl.json
 
 ## Recorded arXiv snapshot
 

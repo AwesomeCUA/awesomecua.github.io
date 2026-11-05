@@ -2,7 +2,7 @@
 
 Structured website-exploration and data-processing code that revisits discovered pages, proposes tasks and collects trajectories for web-agent fine-tuning.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-apga-go-browse/
+- Catalog URL: https://awesomecua.com/resources/github-apga-go-browse/
 - Original source: https://github.com/ApGa/Go-Browse
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Structured website-exploration and data-processing code that revisits discovered
 
 The release contains exploration agents, data-processing scripts, fine-tuning and WebArena evaluation entry points under MIT. Checkpoints and processed datasets are separate Hub resources with separate license status. The arXiv badge image has an unrelated number; the linked paper and citation consistently identify 2506.03533.
 
-- Record JSON: https://awesomecua.github.io/resources/github-apga-go-browse/record.json
+- Record JSON: https://awesomecua.com/resources/github-apga-go-browse/record.json
 
 ## License declarations
 

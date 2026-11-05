@@ -2,7 +2,7 @@
 
 Bibliographic record for Bridging Offline and Online Reinforcement Learning for LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-21495/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-21495/
 - Original source: https://arxiv.org/abs/2506.21495
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Bridging Offline and Online Reinforcement Learning for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-21495/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-21495/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jack Lanchantin, Angelica Chen, Janice Lan, Xian Li, Swarnadeep Saha, Tianlu Wan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-21495/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-21495/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-21495/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-21495/citation.csl.json
 
 ## Recorded arXiv snapshot
 

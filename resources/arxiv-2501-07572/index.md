@@ -2,7 +2,7 @@
 
 Introduces WebWalkerQA and an exploration-and-critique framework for gathering information by traversing multiple levels of a website.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-07572/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2501-07572/
 - Original source: https://arxiv.org/abs/2501.07572
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebWalkerQA and an exploration-and-critique framework for gathering i
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-07572/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2501-07572/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jialong Wu, Wenbiao Yin, Yong Jiang, Zhenglin Wang, Zekun Xi, Runnan Fang, Linha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-07572/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-07572/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2501-07572/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2501-07572/citation.csl.json
 
 ## Recorded arXiv snapshot
 

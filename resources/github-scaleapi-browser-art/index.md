@@ -2,7 +2,7 @@
 
 Red-teaming benchmark and test suite from Scale AI evaluating whether refusal-trained language models can be jailbroken when deployed as browser agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-scaleapi-browser-art/
+- Catalog URL: https://awesomecua.com/resources/github-scaleapi-browser-art/
 - Original source: https://github.com/scaleapi/browser-art
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Red-teaming benchmark and test suite from Scale AI evaluating whether refusal-tr
 
 The retained README and LICENSE contain conflicting code-license declarations. The catalog leaves the code-license value unknown pending an upstream clarification; it does not infer data or model permissions.
 
-- Record JSON: https://awesomecua.github.io/resources/github-scaleapi-browser-art/record.json
+- Record JSON: https://awesomecua.com/resources/github-scaleapi-browser-art/record.json
 
 ## License declarations
 

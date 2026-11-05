@@ -2,7 +2,7 @@
 
 Untrusted Content Masking uses DOM structure to redact untrusted webpage regions before agent observation. A sandboxed interaction interface separates privileges so browser actions can proceed under the proposed trust-boundary model without exposing protected content to the planner.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-05277/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-05277/
 - Original source: https://arxiv.org/abs/2607.05277
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Untrusted Content Masking uses DOM structure to redact untrusted webpage regions
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-05277/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-05277/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kristina Nikolić, Egor Zverev, Javier Rando, Matthew Jagielski, Edoardo Debened
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-05277/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-05277/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-05277/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-05277/citation.csl.json
 
 ## Recorded arXiv snapshot
 

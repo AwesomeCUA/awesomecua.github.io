@@ -2,7 +2,7 @@
 
 JarvisGUI composes typed input-output task transformations into dynamic workflows spanning Android, Windows and Ubuntu devices. Its virtual-environment benchmark tests transfer of intermediate results, shared state and cross-device dependencies.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-10451/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-10451/
 - Original source: https://arxiv.org/abs/2609.10451
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ JarvisGUI composes typed input-output task transformations into dynamic workflow
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-10451/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-10451/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zixiang Chen, Yuheng Lu, Zihao Cheng, Zeming Liu, Jizeng Bai, Ziye Huang, Zhiyin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-10451/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-10451/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-10451/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-10451/citation.csl.json
 
 ## Recorded arXiv snapshot
 

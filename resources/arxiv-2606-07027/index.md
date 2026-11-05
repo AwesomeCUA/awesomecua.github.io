@@ -2,7 +2,7 @@
 
 StainFlow tracks visually verifiable task entities through GUI trajectories to identify phases and retrieve focused evidence windows. Its process-reward model is tested for both online policy learning and trajectory-completion judgments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-07027/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-07027/
 - Original source: https://arxiv.org/abs/2606.07027
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ StainFlow tracks visually verifiable task entities through GUI trajectories to i
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-07027/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-07027/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haojie Hao, Longkun Hao, Yihang Lou, Yan Bai, Zhenyang Li, Zhichao Yang, Dongshu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-07027/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-07027/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-07027/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-07027/citation.csl.json
 
 ## Recorded arXiv snapshot
 

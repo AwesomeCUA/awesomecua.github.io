@@ -2,7 +2,7 @@
 
 AniMINT evaluates how VLMs perceive, explain and interpret UI animations using densely annotated videos. The study distinguishes basic motion recognition from higher-level animation meaning and probes motion, context and perceptual cues.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-26148/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-26148/
 - Original source: https://arxiv.org/abs/2604.26148
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AniMINT evaluates how VLMs perceive, explain and interpret UI animations using d
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-26148/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-26148/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chen Liang, Xirui Jiang, Naihao Deng, Eytan Adar, Anhong Guo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-26148/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-26148/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-26148/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-26148/citation.csl.json
 
 ## Recorded arXiv snapshot
 

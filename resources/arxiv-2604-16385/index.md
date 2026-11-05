@@ -2,7 +2,7 @@
 
 Bibliographic record for StressWeb: A Diagnostic Benchmark for Web Agent Robustness under Realistic Interaction Variability. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-16385/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-16385/
 - Original source: https://arxiv.org/abs/2604.16385
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for StressWeb: A Diagnostic Benchmark for Web Agent Robustn
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-16385/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-16385/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoyue Bai, Dong Wang, Long Chen, Bingguang Hao, Pengyang Shao, Yonghui Yang, Yi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-16385/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-16385/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-16385/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-16385/citation.csl.json
 
 ## Recorded arXiv snapshot
 

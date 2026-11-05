@@ -2,7 +2,7 @@
 
 UI-Mem stores workflows, skills and failure patterns as reusable templates to guide online GUI reinforcement learning. It varies guidance within rollout groups and continually updates the memory so an unguided policy can learn from guided experiences.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-05832/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-05832/
 - Original source: https://arxiv.org/abs/2602.05832
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UI-Mem stores workflows, skills and failure patterns as reusable templates to gu
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-05832/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-05832/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Han Xiao, Guozhi Wang, Hao Wang, Shilong Liu, Yuxiang Chai, Yue Pan, Yufeng Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-05832/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-05832/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-05832/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-05832/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Understanding Reward Hacking in Text-to-Image Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-03468/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-03468/
 - Original source: https://arxiv.org/abs/2601.03468
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Understanding Reward Hacking in Text-to-Image Reinforce
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-03468/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-03468/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yunqi Hong, Kuei-Chun Kao, Hengguang Zhou, Cho-Jui Hsieh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-03468/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-03468/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-03468/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-03468/citation.csl.json
 
 ## Recorded arXiv snapshot
 

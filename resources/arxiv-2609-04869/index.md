@@ -2,7 +2,7 @@
 
 An online skill-evolution framework turns GUI interaction traces and evaluator feedback into a versioned library of reusable procedures without updating model parameters. Controlled OSWorld comparisons examine both the benefits of shared procedural memory and its domain-dependent instability under repeated revision.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-04869/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-04869/
 - Original source: https://arxiv.org/abs/2609.04869
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ An online skill-evolution framework turns GUI interaction traces and evaluator f
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-04869/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-04869/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Longtao Hu, Xiao Liang, Linchao Zhu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-04869/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-04869/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-04869/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-04869/citation.csl.json
 
 ## Recorded arXiv snapshot
 

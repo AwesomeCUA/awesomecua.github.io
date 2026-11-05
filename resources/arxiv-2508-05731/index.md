@@ -2,7 +2,7 @@
 
 Uses multiple candidate answers and adaptive exploration rewards to improve spatial and semantic alignment in GUI grounding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-05731/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-05731/
 - Original source: https://arxiv.org/abs/2508.05731
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses multiple candidate answers and adaptive exploration rewards to improve spat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05731/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-05731/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhang Liu, Zeyu Liu, Shuanghe Zhu, Pengxiang Li, Congkai Xie, Jiasheng Wang, Xa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05731/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05731/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-05731/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-05731/citation.csl.json
 
 ## Recorded arXiv snapshot
 

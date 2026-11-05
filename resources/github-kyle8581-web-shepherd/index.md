@@ -2,7 +2,7 @@
 
 Process-reward inference and benchmark-evaluation utilities that use task checklists to assess individual web-agent decisions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-kyle8581-web-shepherd/
+- Catalog URL: https://awesomecua.com/resources/github-kyle8581-web-shepherd/
 - Original source: https://github.com/kyle8581/Web-Shepherd
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Process-reward inference and benchmark-evaluation utilities that use task checkl
 
 The tree contains src/webprm modules and a WebRewardBench evaluation script. The README’s illustrative folder layout differs from the actual tree, so a complete training pipeline is not claimed. No root code license is declared. Some old checkpoint links are unavailable; current model releases are separately identified through the official Hub collection.
 
-- Record JSON: https://awesomecua.github.io/resources/github-kyle8581-web-shepherd/record.json
+- Record JSON: https://awesomecua.com/resources/github-kyle8581-web-shepherd/record.json
 
 ## License declarations
 

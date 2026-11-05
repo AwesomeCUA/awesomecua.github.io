@@ -2,7 +2,7 @@
 
 EvoCUA-1.5 trains multi-turn desktop agents through online reinforcement learning in executable sandboxes. It combines step-level policy optimization, task filtering and calibration, an adaptive curriculum, and asynchronous rollout handling with staleness control.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-09773/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-09773/
 - Original source: https://arxiv.org/abs/2607.09773
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ EvoCUA-1.5 trains multi-turn desktop agents through online reinforcement learnin
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-09773/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-09773/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mianqiu Huang, Taofeng Xue, Chong Peng, Jinrui Ding, Jie Yang, Sicheng Fan, Jial
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-09773/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-09773/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-09773/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-09773/citation.csl.json
 
 ## Recorded arXiv snapshot
 

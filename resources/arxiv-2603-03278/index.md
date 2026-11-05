@@ -2,7 +2,7 @@
 
 Bibliographic record for Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-03278/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-03278/
 - Original source: https://arxiv.org/abs/2603.03278
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Tether: Autonomous Functional Play with Correspondence-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-03278/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-03278/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ William Liang, Sam Wang, Hung-Ju Wang, Osbert Bastani, Yecheng Jason Ma, Dinesh 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-03278/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-03278/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-03278/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-03278/citation.csl.json
 
 ## Recorded arXiv snapshot
 

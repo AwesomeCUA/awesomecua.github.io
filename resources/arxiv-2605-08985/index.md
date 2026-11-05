@@ -2,7 +2,7 @@
 
 Bibliographic record for LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-08985/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-08985/
 - Original source: https://arxiv.org/abs/2605.08985
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for LLaVA-UHD v4: What Makes Efficient Visual Encoding in M
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-08985/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-08985/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kechen Fang, Yihua Qin, Chongyi Wang, Wenshuo Ma, Tianyu Yu, Yuan Yao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-08985/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-08985/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-08985/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-08985/citation.csl.json
 
 ## Recorded arXiv snapshot
 

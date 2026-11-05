@@ -2,7 +2,7 @@
 
 Computer-using model introduced with the Operator research preview.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-74eeb7c9fb20674fe6e2/
+- Catalog URL: https://awesomecua.com/resources/url-74eeb7c9fb20674fe6e2/
 - Original source: https://openai.com/index/computer-using-agent/
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Computer-using model introduced with the Operator research preview.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-74eeb7c9fb20674fe6e2/record.json
+- Record JSON: https://awesomecua.com/resources/url-74eeb7c9fb20674fe6e2/record.json
 
 ## License declarations
 

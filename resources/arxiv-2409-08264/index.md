@@ -2,7 +2,7 @@
 
 Adapts real-desktop evaluation to Windows applications and supports parallel execution of benchmark tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-08264/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-08264/
 - Original source: https://arxiv.org/abs/2409.08264
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Adapts real-desktop evaluation to Windows applications and supports parallel exe
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-08264/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-08264/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinhen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-08264/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-08264/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-08264/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-08264/citation.csl.json
 
 ## Recorded arXiv snapshot
 

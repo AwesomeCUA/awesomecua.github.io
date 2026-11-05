@@ -2,7 +2,7 @@
 
 AndroidEnv-based platform for building GUI agent benchmarks and training agents, where task definition files emit instructions, rewards and episode ends from screen text, view hierarchy or log events.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-x-lance-mobile-env/
+- Catalog URL: https://awesomecua.com/resources/github-x-lance-mobile-env/
 - Original source: https://github.com/X-LANCE/Mobile-Env
 - Kind: infrastructure
 - Review: curated
@@ -16,7 +16,7 @@ AndroidEnv-based platform for building GUI agent benchmarks and training agents,
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-x-lance-mobile-env/record.json
+- Record JSON: https://awesomecua.com/resources/github-x-lance-mobile-env/record.json
 
 ## License declarations
 

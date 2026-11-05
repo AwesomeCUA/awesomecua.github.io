@@ -2,7 +2,7 @@
 
 Maintains explicit task goals and evolving state descriptions to improve base-agent decisions across interactive tasks, including web shopping.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-02810/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-02810/
 - Original source: https://arxiv.org/abs/2410.02810
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Maintains explicit task goals and evolving state descriptions to improve base-ag
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-02810/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-02810/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nikolai Rozanov, Marek Rei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-02810/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-02810/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-02810/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-02810/citation.csl.json
 
 ## Recorded arXiv snapshot
 

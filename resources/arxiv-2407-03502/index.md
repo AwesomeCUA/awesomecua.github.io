@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentInstruct: Toward Generative Teaching with Agentic Flows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-03502/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-03502/
 - Original source: https://arxiv.org/abs/2407.03502
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentInstruct: Toward Generative Teaching with Agentic 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-03502/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-03502/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Arindam Mitra, Luciano Del Corro, Guoqing Zheng, Shweti Mahajan, Dany Rouhana, A
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-03502/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-03502/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-03502/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-03502/citation.csl.json
 
 ## Recorded arXiv snapshot
 

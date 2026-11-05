@@ -2,7 +2,7 @@
 
 AgentRAE studies notification-based visual backdoors that redirect mobile GUI-agent actions. Its training separates sensitivity to icon differences from trigger/action association, with evaluations of clean behavior and targeted redirection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-23007/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-23007/
 - Original source: https://arxiv.org/abs/2603.23007
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AgentRAE studies notification-based visual backdoors that redirect mobile GUI-ag
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-23007/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-23007/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yutao Luo, Haotian Zhu, Shuchao Pang, Zhigang Lu, Tian Dong, Yongbin Zhou, Minhu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-23007/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-23007/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-23007/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-23007/citation.csl.json
 
 ## Recorded arXiv snapshot
 

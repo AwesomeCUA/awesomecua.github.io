@@ -2,7 +2,7 @@
 
 Introduces MobileGym, a browser-hosted simulation of mobile app interactions whose configurable JSON state supports deterministic judging and parallel rollouts. MobileGym-Bench adds parameterized tasks, with experiments examining online training and transfer to real devices.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-26114/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-26114/
 - Original source: https://arxiv.org/abs/2605.26114
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MobileGym, a browser-hosted simulation of mobile app interactions who
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The simulator is browser-hosted; the abstract does not identify a native mobile operating system.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-26114/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-26114/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dingbang Wu, Rui Hao, Haiyang Wang, Shuzhe Wu, Han Xiao, Zhenghong Li, Bojiang Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-26114/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-26114/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-26114/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-26114/citation.csl.json
 
 ## Recorded arXiv snapshot
 

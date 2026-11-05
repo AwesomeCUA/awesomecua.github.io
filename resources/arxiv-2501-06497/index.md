@@ -2,7 +2,7 @@
 
 Bibliographic record for PASS: Presentation Automation for Slide Generation and Speech. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-06497/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2501-06497/
 - Original source: https://arxiv.org/abs/2501.06497
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PASS: Presentation Automation for Slide Generation and 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-06497/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2501-06497/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tushar Aggarwal, Aarohi Bhand
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-06497/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-06497/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2501-06497/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2501-06497/citation.csl.json
 
 ## Recorded arXiv snapshot
 

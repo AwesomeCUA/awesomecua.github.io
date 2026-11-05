@@ -2,7 +2,7 @@
 
 EvoSkill-GUI revises reusable skill files from execution feedback through an executor–critic loop. It studies how training-free updates to localization, recovery and procedure information help subsequent mobile and desktop tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-17653/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-17653/
 - Original source: https://arxiv.org/abs/2609.17653
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ EvoSkill-GUI revises reusable skill files from execution feedback through an exe
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-17653/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-17653/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bofan Chen, Boxuan Zhang, Fei Tang, Zhengxi Lu, Yong Du, Tongbo Chen, Weiming Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-17653/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-17653/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-17653/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-17653/citation.csl.json
 
 ## Recorded arXiv snapshot
 

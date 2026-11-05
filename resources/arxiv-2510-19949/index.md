@@ -2,7 +2,7 @@
 
 Surfer2 combines hierarchical context management with separate planning and execution, self-verification, and recovery for visual computer use. It evaluates the framework across web, desktop, and Android tasks without task-specific fine-tuning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-19949/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-19949/
 - Original source: https://arxiv.org/abs/2510.19949
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Surfer2 combines hierarchical context management with separate planning and exec
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-19949/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-19949/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mathieu Andreux, Märt Bakler, Yanael Barbier, Hamza Benchekroun, Emilien Biré,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-19949/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-19949/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-19949/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-19949/citation.csl.json
 
 ## Recorded arXiv snapshot
 

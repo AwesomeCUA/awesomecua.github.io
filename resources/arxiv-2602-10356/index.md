@@ -2,7 +2,7 @@
 
 ACuRL uses autonomous interface exploration and an adaptive task curriculum to continually train computer-use policies with reinforcement learning. CUAJudge supplies outcome feedback, and experiments study adaptation across desktop applications and environment changes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-10356/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-10356/
 - Original source: https://arxiv.org/abs/2602.10356
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ACuRL uses autonomous interface exploration and an adaptive task curriculum to c
 
 The annotation was reviewed against the complete retained official abstract and the specified sections of the same recorded paper version. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-10356/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-10356/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianci Xue, Zeyi Liao, Tianneng Shi, Zilu Wang, Kai Zhang, Dawn Song, Yu Su, Hua
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-10356/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-10356/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-10356/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-10356/citation.csl.json
 
 ## Recorded arXiv snapshot
 

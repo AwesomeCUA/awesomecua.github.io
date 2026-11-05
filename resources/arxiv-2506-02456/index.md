@@ -2,7 +2,7 @@
 
 Introduces VPI-Bench, interactive web-platform variants containing visually embedded malicious instructions. It evaluates computer-use and browser-use agents under these threats and examines system-prompt defenses.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-02456/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-02456/
 - Original source: https://arxiv.org/abs/2506.02456
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces VPI-Bench, interactive web-platform variants containing visually embe
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-02456/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-02456/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, Shumin Deng, Lin Lu, Nay Oo,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-02456/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-02456/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-02456/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-02456/citation.csl.json
 
 ## Recorded arXiv snapshot
 

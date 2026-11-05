@@ -2,7 +2,7 @@
 
 Pairs factual probes with next-action choices on frozen agent traces, including Mind2Web, to diagnose reading-decision gaps without closed-loop execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-18579/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-18579/
 - Original source: https://arxiv.org/abs/2610.18579
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Pairs factual probes with next-action choices on frozen agent traces, including 
 
 Adjacent diagnostic research across simulators, policies, tools, coding and an offline Mind2Web subset. Models choose among supplied admissible actions; they do not generate actions or execute a closed-loop browser policy in the reported evaluation. The paired probes measure selected visible facts, not complete understanding or internal causation. Pooled results are not a web-only leaderboard, and the paper reports coverage limits and label-sensitivity analyses. No benchmark release, code, data or weights were independently inspected.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-18579/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-18579/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yubo Li, Ramayya Krishnan, Rema Padman
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-18579/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-18579/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-18579/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-18579/citation.csl.json
 
 ## Recorded arXiv snapshot
 

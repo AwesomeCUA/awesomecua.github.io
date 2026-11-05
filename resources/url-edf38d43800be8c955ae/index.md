@@ -2,7 +2,7 @@
 
 Conversational GUI supervision with text-rich images and bounding boxes, organized as single-turn questions and multi-turn dialogues.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-edf38d43800be8c955ae/
+- Catalog URL: https://awesomecua.com/resources/url-edf38d43800be8c955ae/
 - Original source: https://huggingface.co/datasets/yiye2023/GUIChat
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Conversational GUI supervision with text-rich images and bounding boxes, organiz
 
 Public JSON annotations and Parquet image packages are present. The project README declares CC-BY-4.0 for datasets, while this Hub card declares Apache-2.0; these conflicting declarations are retained without asserting a single confirmed data license. The project code’s MIT declaration is separate.
 
-- Record JSON: https://awesomecua.github.io/resources/url-edf38d43800be8c955ae/record.json
+- Record JSON: https://awesomecua.com/resources/url-edf38d43800be8c955ae/record.json
 
 ## Structured profile
 

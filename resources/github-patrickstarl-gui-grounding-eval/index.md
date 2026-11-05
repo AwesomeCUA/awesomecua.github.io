@@ -2,7 +2,7 @@
 
 ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt and crop-based inference comparisons, and per-sample grounding accuracy and cost records.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-patrickstarl-gui-grounding-eval/
+- Catalog URL: https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/
 - Original source: https://github.com/PatrickStarL/gui-grounding-eval
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt an
 
 This is an independent harness using ScreenSpot-Pro, not a new dataset or verified leaderboard entry. The read code maps points back to original-image coordinates and scores point-in-box hits; documentation limits comparisons by prompt, model, subset and provider behavior. No OS support, code license or external data/weight license was established in this bounded review. Model calls, tests and reported results were not executed or reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/github-patrickstarl-gui-grounding-eval/record.json
+- Record JSON: https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/record.json
 
 ## License declarations
 

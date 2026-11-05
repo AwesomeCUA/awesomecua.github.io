@@ -2,7 +2,7 @@
 
 Bibliographic record for Qwen3Guard Technical Report. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-14276/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-14276/
 - Original source: https://arxiv.org/abs/2510.14276
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Qwen3Guard Technical Report. Title, authors and dates c
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-14276/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-14276/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haiquan Zhao, Chenhan Yuan, Fei Huang, Xiaomeng Hu, Yichang Zhang, An Yang, Bowe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-14276/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-14276/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-14276/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-14276/citation.csl.json
 
 ## Recorded arXiv snapshot
 

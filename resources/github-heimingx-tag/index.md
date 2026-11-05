@@ -2,7 +2,7 @@
 
 Grounding and evaluation code that aggregates a pretrained vision-language model’s attention maps to localize requested interface elements without fine-tuning.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-heimingx-tag/
+- Catalog URL: https://awesomecua.com/resources/github-heimingx-tag/
 - Original source: https://github.com/HeimingX/TAG
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Grounding and evaluation code that aggregates a pretrained vision-language model
 
 The release contains grounding and benchmark evaluation code. The inspected root repository metadata does not declare a code license. It uses external pretrained models rather than publishing a new trained checkpoint, and the README restricts redistribution of unzipped benchmark data.
 
-- Record JSON: https://awesomecua.github.io/resources/github-heimingx-tag/record.json
+- Record JSON: https://awesomecua.com/resources/github-heimingx-tag/record.json
 
 ## License declarations
 

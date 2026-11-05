@@ -2,7 +2,7 @@
 
 Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-baai-agents-cradle/
+- Catalog URL: https://awesomecua.com/resources/github-baai-agents-cradle/
 - Original source: https://github.com/BAAI-Agents/Cradle
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Framework in which foundation models control games and software from screenshots
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-baai-agents-cradle/record.json
+- Record JSON: https://awesomecua.com/resources/github-baai-agents-cradle/record.json
 
 ## License declarations
 

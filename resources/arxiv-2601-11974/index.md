@@ -2,7 +2,7 @@
 
 Bibliographic record for Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-11974/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-11974/
 - Original source: https://arxiv.org/abs/2601.11974
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Learn Like Humans: Use Meta-cognitive Reflection for Ef
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-11974/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-11974/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinmeng Hou, Peiliang Gong, Bohao Qu, Wuqi Wang, Qing Guo, Yang Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-11974/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-11974/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-11974/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-11974/citation.csl.json
 
 ## Recorded arXiv snapshot
 

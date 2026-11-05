@@ -2,7 +2,7 @@
 
 Presents demonstration collection infrastructure, the AgentNet dataset, and a training pipeline for open computer-use models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-09123/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-09123/
 - Original source: https://arxiv.org/abs/2508.09123
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents demonstration collection infrastructure, the AgentNet dataset, and a tr
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-09123/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-09123/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinyuan Wang, Bowen Wang, Dunjie Lu, Junlin Yang, Tianbao Xie, Junli Wang, Jiaqi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-09123/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-09123/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-09123/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-09123/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Toolformer: Language Models Can Teach Themselves to Use Tools. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2302-04761/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2302-04761/
 - Original source: https://arxiv.org/abs/2302.04761
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Toolformer: Language Models Can Teach Themselves to Use
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2302-04761/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2302-04761/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2302-04761/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2302-04761/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2302-04761/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2302-04761/citation.csl.json
 
 ## Recorded arXiv snapshot
 

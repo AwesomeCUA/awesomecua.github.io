@@ -2,7 +2,7 @@
 
 Bibliographic record for MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-13186/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-13186/
 - Original source: https://arxiv.org/abs/2508.13186
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MM-BrowseComp: A Comprehensive Benchmark for Multimodal
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-13186/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-13186/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shilong Li, Xingyuan Bu, Wenjie Wang, Jiaheng Liu, Jun Dong, Haoyang He, Hao Lu,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-13186/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-13186/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-13186/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-13186/citation.csl.json
 
 ## Recorded arXiv snapshot
 

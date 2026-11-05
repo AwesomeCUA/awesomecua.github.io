@@ -2,7 +2,7 @@
 
 Reinforcement learning for autonomous mobile device control.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-digirl-agent-digirl/
+- Catalog URL: https://awesomecua.com/resources/github-digirl-agent-digirl/
 - Original source: https://github.com/DigiRL-agent/digirl
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Reinforcement learning for autonomous mobile device control.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-digirl-agent-digirl/record.json
+- Record JSON: https://awesomecua.com/resources/github-digirl-agent-digirl/record.json
 
 ## License declarations
 

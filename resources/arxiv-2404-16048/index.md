@@ -2,7 +2,7 @@
 
 Introduces annotated website task trajectories with screenshots, prior actions, reasoning, and grounded next actions for process automation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-16048/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-16048/
 - Original source: https://arxiv.org/abs/2404.16048
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces annotated website task trajectories with screenshots, prior actions, 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-16048/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-16048/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rajat Chawla, Adarsh Jha, Muskaan Kumar, Mukunda NS, Ishaan Bhola
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-16048/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-16048/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-16048/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-16048/citation.csl.json
 
 ## Recorded arXiv snapshot
 

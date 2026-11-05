@@ -2,7 +2,7 @@
 
 A11y-Compressor transforms linearized accessibility trees through modal detection, redundancy reduction and semantic structuring. Its OSWorld evaluation measures both observation-token reduction and task success.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-00551/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-00551/
 - Original source: https://arxiv.org/abs/2605.00551
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ A11y-Compressor transforms linearized accessibility trees through modal detectio
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-00551/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-00551/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Michito Takeshita, Takuro Kawada, Takumi Ohashi, Shunsuke Kitada, Hitoshi Iyatom
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-00551/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-00551/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-00551/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-00551/citation.csl.json
 
 ## Recorded arXiv snapshot
 

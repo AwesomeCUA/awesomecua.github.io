@@ -2,7 +2,7 @@
 
 PlaytestArena evaluates generated browser games using expected in-play behaviors adjudicated by GUI agents. Play2Code pairs a coding agent with a rubric-blind GUI playtester whose interaction traces and feedback guide iterative refinement, with a separate final judge.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-28258/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-28258/
 - Original source: https://arxiv.org/abs/2605.28258
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PlaytestArena evaluates generated browser games using expected in-play behaviors
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced. GUI agents actually load and play browser-game builds, providing an executable interface-testing signal for game-code generation; the central application remains game development.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-28258/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-28258/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yixu Huang, Bo Li, Na Li, Zhe Wang, Kaijie Chen, Haonan Ge, Qingyi Si, Yuanzhe S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-28258/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-28258/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-28258/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-28258/citation.csl.json
 
 ## Recorded arXiv snapshot
 

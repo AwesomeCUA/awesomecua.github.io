@@ -2,7 +2,7 @@
 
 NNetNav's WebArena-oriented browser-interaction data release, with separate training and test files.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-25a4d0ab29b60250863a/
+- Catalog URL: https://awesomecua.com/resources/url-25a4d0ab29b60250863a/
 - Original source: https://huggingface.co/datasets/stanfordnlp/nnetnav-wa
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ NNetNav's WebArena-oriented browser-interaction data release, with separate trai
 
 The Hub card supplies a license but no detailed schema. Dataset purpose is supported by the project's README; exact sample counts and annotation quality remain unverified.
 
-- Record JSON: https://awesomecua.github.io/resources/url-25a4d0ab29b60250863a/record.json
+- Record JSON: https://awesomecua.com/resources/url-25a4d0ab29b60250863a/record.json
 
 ## License declarations
 

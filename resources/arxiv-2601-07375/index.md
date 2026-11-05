@@ -2,7 +2,7 @@
 
 Bibliographic record for GROKE: Vision-Free Navigation Instruction Evaluation via Graph Reasoning on OpenStreetMap. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-07375/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-07375/
 - Original source: https://arxiv.org/abs/2601.07375
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for GROKE: Vision-Free Navigation Instruction Evaluation vi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-07375/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-07375/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Farzad Shami, Subhrasankha Dey, Nico Van de Weghe, Henrikki Tenkanen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-07375/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-07375/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-07375/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-07375/citation.csl.json
 
 ## Recorded arXiv snapshot
 

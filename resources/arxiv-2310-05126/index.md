@@ -2,7 +2,7 @@
 
 Introduces UReader, which combines unified instruction tuning, auxiliary text-reading tasks and shape-adaptive image crops for OCR-free visual language understanding. Its evaluation includes webpage screenshots alongside documents, tables, charts and natural images.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-05126/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-05126/
 - Original source: https://arxiv.org/abs/2310.05126
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces UReader, which combines unified instruction tuning, auxiliary text-re
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The interface connection is static webpage-screenshot understanding; browser control is not claimed.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-05126/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-05126/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiabo Ye, Anwen Hu, Haiyang Xu, Qinghao Ye, Ming Yan, Guohai Xu, Chenliang Li, J
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-05126/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-05126/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-05126/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-05126/citation.csl.json
 
 ## Recorded arXiv snapshot
 

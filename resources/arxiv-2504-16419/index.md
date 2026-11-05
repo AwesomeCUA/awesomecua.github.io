@@ -2,7 +2,7 @@
 
 Introduces PixelWeb, a webpage GUI dataset with element images, contours, and pixel masks. Its annotation pipeline combines bitmap channel information with DOM-based visibility and stacking analysis to address occlusion and overlapping elements.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-16419/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-16419/
 - Original source: https://arxiv.org/abs/2504.16419
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PixelWeb, a webpage GUI dataset with element images, contours, and pi
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-16419/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-16419/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qi Yang, Weichen Bi, Haiyang Shen, Yaoqi Guo, Yun Ma
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-16419/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-16419/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-16419/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-16419/citation.csl.json
 
 ## Recorded arXiv snapshot
 

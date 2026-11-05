@@ -2,7 +2,7 @@
 
 GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-screen descriptions, hybrid trajectory training and reinforcement learning to select navigation shortcuts and recover through GUI control.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-30887/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-30887/
 - Original source: https://arxiv.org/abs/2609.30887
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-s
 
 Reviewed the complete retained Atom abstract and selected exact-v1 full text. The Atom has incomplete clauses; its text/hash remain unchanged and this annotation uses the explicit methods. Evaluation is Android-only, with a selected real-app subset. Landing-Activity verification is not task completion. Model/catalog release is prospective in the paper. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-30887/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-30887/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuchen Sun, Chenglin Cai, Gongjie Zhang, Tianyu Xia, Quyu Kong, Panrong Tong, Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-30887/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-30887/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-30887/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-30887/citation.csl.json
 
 ## Recorded arXiv snapshot
 

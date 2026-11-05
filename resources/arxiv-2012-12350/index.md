@@ -2,7 +2,7 @@
 
 Pretrains ActionBert on user interaction traces to combine visual, linguistic, and UI-structure features. It evaluates the resulting UI representations on tasks including icon classification and description-based component retrieval.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2012-12350/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2012-12350/
 - Original source: https://arxiv.org/abs/2012.12350
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Pretrains ActionBert on user interaction traces to combine visual, linguistic, a
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2012-12350/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2012-12350/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zecheng He, Srinivas Sunkara, Xiaoxue Zang, Ying Xu, Lijuan Liu, Nevan Wichers, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2012-12350/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2012-12350/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2012-12350/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2012-12350/citation.csl.json
 
 ## Recorded arXiv snapshot
 

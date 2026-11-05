@@ -2,7 +2,7 @@
 
 Bibliographic record for Privacy-Preserving Support Vector Machine Computing Using Random Unitary Transformation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1908-07915/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1908-07915/
 - Original source: https://arxiv.org/abs/1908.07915
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Privacy-Preserving Support Vector Machine Computing Usi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1908-07915/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1908-07915/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Takahiro Maekawa, Ayana Kawamura, Takayuki Nakachi, Hitoshi Kiya
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1908-07915/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1908-07915/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1908-07915/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1908-07915/citation.csl.json
 
 ## Recorded arXiv snapshot
 

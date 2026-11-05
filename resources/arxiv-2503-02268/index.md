@@ -2,7 +2,7 @@
 
 Records interaction history and converts repeated action sequences into reusable high-level shortcuts for mobile GUI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-02268/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-02268/
 - Original source: https://arxiv.org/abs/2503.02268
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Records interaction history and converts repeated action sequences into reusable
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-02268/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-02268/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenjia Jiang, Yangyang Zhuang, Chenxi Song, Xu Yang, Joey Tianyi Zhou, Chi Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-02268/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-02268/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-02268/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-02268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

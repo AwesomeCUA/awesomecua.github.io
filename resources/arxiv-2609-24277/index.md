@@ -2,7 +2,7 @@
 
 PACE weights coordinate-digit entropy by place value to estimate confidence in GUI clicks from one forward pass. It evaluates correctness ranking and selective accuracy against repeated-sampling alternatives on ScreenSpot-Pro and ScreenSpot-v2.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-24277/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-24277/
 - Original source: https://arxiv.org/abs/2609.24277
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PACE weights coordinate-digit entropy by place value to estimate confidence in G
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-24277/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-24277/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yunxiang Li, Xixin Wu, Helen Meng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-24277/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-24277/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-24277/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-24277/citation.csl.json
 
 ## Recorded arXiv snapshot
 

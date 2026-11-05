@@ -2,7 +2,7 @@
 
 Microsoft Phi-Ground GUI grounding checkpoint fine-tuned from Phi-3.5-vision-instruct, shipped as two PyTorch weight shards with custom Phi-3-V configuration and processing code under MIT.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-cee45b940d5fbff3ccca/
+- Catalog URL: https://awesomecua.com/resources/url-cee45b940d5fbff3ccca/
 - Original source: https://huggingface.co/microsoft/Phi-Ground
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Microsoft Phi-Ground GUI grounding checkpoint fine-tuned from Phi-3.5-vision-ins
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-cee45b940d5fbff3ccca/record.json
+- Record JSON: https://awesomecua.com/resources/url-cee45b940d5fbff3ccca/record.json
 
 ## License declarations
 

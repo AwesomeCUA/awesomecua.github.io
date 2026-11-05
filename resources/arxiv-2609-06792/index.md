@@ -2,7 +2,7 @@
 
 DroidTool generates application-state tools through proposal, implementation, testing and repair. Relational tests connect the tools’ preconditions and effects, and the resulting tools are evaluated as additions to Android GUI agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-06792/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-06792/
 - Original source: https://arxiv.org/abs/2609.06792
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DroidTool generates application-state tools through proposal, implementation, te
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-06792/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-06792/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Juyong Lee, Woogyeol Jin, Kimin Lee
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-06792/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-06792/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-06792/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-06792/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Provides a simulated shopping environment where language agents search, configure, and select products from natural-language requirements.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2207-01206/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2207-01206/
 - Original source: https://arxiv.org/abs/2207.01206
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Provides a simulated shopping environment where language agents search, configur
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2207-01206/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2207-01206/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2207-01206/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2207-01206/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2207-01206/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2207-01206/citation.csl.json
 
 ## Recorded arXiv snapshot
 

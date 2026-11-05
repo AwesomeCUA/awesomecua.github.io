@@ -2,7 +2,7 @@
 
 Introduces ActReal, which translates semantic mobile-agent actions into coordinated touch and sensor signals to study automation-detection weaknesses. It evaluates detectors that observe touch events alone or together with inertial measurements under a privileged executor threat model.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-30038/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-30038/
 - Original source: https://arxiv.org/abs/2608.30038
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces ActReal, which translates semantic mobile-agent actions into coordina
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-30038/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-30038/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mingshuo Wang, Hanqing Guo, Huining Li, Yuliang Fu, Jing Xu, Chenhan Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-30038/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-30038/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-30038/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-30038/citation.csl.json
 
 ## Recorded arXiv snapshot
 

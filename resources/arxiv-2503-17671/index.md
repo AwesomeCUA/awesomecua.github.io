@@ -2,7 +2,7 @@
 
 Bibliographic record for ComfyGPT: A Self-Optimizing Multi-Agent System for Comprehensive ComfyUI Workflow Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-17671/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-17671/
 - Original source: https://arxiv.org/abs/2503.17671
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ComfyGPT: A Self-Optimizing Multi-Agent System for Comp
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-17671/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-17671/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Oucheng Huang, Yuhang Ma, Zeng Zhao, Mingrui Wu, Jiayi Ji, Rongsheng Zhang, Zhip
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-17671/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-17671/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-17671/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-17671/citation.csl.json
 
 ## Recorded arXiv snapshot
 

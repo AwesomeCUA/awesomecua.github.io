@@ -2,7 +2,7 @@
 
 Bibliographic record for Persona Inconstancy in Multi-Agent LLM Collaboration: Conformity, Confabulation, and Impersonation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2405-03862/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2405-03862/
 - Original source: https://arxiv.org/abs/2405.03862
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Persona Inconstancy in Multi-Agent LLM Collaboration: C
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-03862/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2405-03862/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Razan Baltaji, Babak Hemmatian, Lav R. Varshney
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-03862/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-03862/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2405-03862/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2405-03862/citation.csl.json
 
 ## Recorded arXiv snapshot
 

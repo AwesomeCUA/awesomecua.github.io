@@ -2,7 +2,7 @@
 
 Introduces MHVF, a training-free grounding method that explores several candidate screen regions, verifies them in local views, and uses those checks to guide further search.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-17792/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-17792/
 - Original source: https://arxiv.org/abs/2610.17792
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MHVF, a training-free grounding method that explores several candidat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-17792/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-17792/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Minghua Chen, Xingming Liao, Weiqiang Zhong, Zhuowei Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-17792/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-17792/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-17792/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-17792/citation.csl.json
 
 ## Recorded arXiv snapshot
 

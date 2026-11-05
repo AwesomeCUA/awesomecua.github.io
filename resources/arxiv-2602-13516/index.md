@@ -2,7 +2,7 @@
 
 Formalizes and measures natural agentic oversharing when browser agents handle private user emails and calendars across live websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-13516/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-13516/
 - Original source: https://arxiv.org/abs/2602.13516
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Formalizes and measures natural agentic oversharing when browser agents handle p
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-13516/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-13516/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jaechul Roh, Eugene Bagdasarian, Hamed Haddadi, Ali Shahin Shamsabadi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-13516/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-13516/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-13516/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-13516/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Proposes general user models that turn computer-use observations into confidence-weighted propositions and revise them as new context arrives. Demonstrations use this memory to contextualize assistants, manage notifications, and support proactive actions across apps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-10831/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-10831/
 - Original source: https://arxiv.org/abs/2505.10831
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes general user models that turn computer-use observations into confidence
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-10831/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-10831/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Omar Shaikh, Shardul Sapkota, Shan Rizvi, Eric Horvitz, Joon Sung Park, Diyi Yan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-10831/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-10831/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-10831/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-10831/citation.csl.json
 
 ## Recorded arXiv snapshot
 

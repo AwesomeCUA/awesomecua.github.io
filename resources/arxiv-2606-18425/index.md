@@ -2,7 +2,7 @@
 
 Bibliographic record for Complexity and Scale in AI-Assisted Workflow Management: A Federated Learning Case Study. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-18425/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-18425/
 - Original source: https://arxiv.org/abs/2606.18425
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Complexity and Scale in AI-Assisted Workflow Management
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-18425/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-18425/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Komal Thareja, Hamza Safri, Rajiv Mayani, Anirban Mandal, Ewa Deelman
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-18425/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-18425/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-18425/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-18425/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Mobile GUI agent research release with technical report, benchmark data, and evaluation tooling from vivo AI Lab.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-vivo-ai-lab-bluelm-gui/
+- Catalog URL: https://awesomecua.com/resources/github-vivo-ai-lab-bluelm-gui/
 - Original source: https://github.com/vivo-ai-lab/BlueLM-GUI
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Mobile GUI agent research release with technical report, benchmark data, and eva
 
 The repository lists the agent as in-house. Public model weights were not established by this review; linked benchmark assets have their own access terms.
 
-- Record JSON: https://awesomecua.github.io/resources/github-vivo-ai-lab-bluelm-gui/record.json
+- Record JSON: https://awesomecua.com/resources/github-vivo-ai-lab-bluelm-gui/record.json
 
 ## License declarations
 

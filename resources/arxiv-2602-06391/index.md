@@ -2,7 +2,7 @@
 
 Studies GUI-grounding development from a weakly grounded base model through data preparation, visual training, and verifiable rewards.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-06391/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-06391/
 - Original source: https://arxiv.org/abs/2602.06391
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies GUI-grounding development from a weakly grounded base model through data
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-06391/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-06391/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhongyin Zhao, Yuan Liu, Yikun Liu, Haicheng Wang, Le Tian, Xiao Zhou, Yangxiu Y
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-06391/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-06391/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-06391/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-06391/citation.csl.json
 
 ## Recorded arXiv snapshot
 

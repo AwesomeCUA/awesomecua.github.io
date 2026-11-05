@@ -2,7 +2,7 @@
 
 Introduces BrowserART and studies whether chat-model refusal behavior transfers to browser agents carrying out potentially harmful instructions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-13886/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-13886/
 - Original source: https://arxiv.org/abs/2410.13886
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces BrowserART and studies whether chat-model refusal behavior transfers 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-13886/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-13886/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Priyanshu Kumar, Elaine Lau, Saranya Vijayakumar, Tu Trinh, Scale Red Team, Elai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-13886/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-13886/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-13886/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-13886/citation.csl.json
 
 ## Recorded arXiv snapshot
 

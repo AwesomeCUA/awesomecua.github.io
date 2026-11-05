@@ -2,7 +2,7 @@
 
 Trains discriminative web world models to distinguish the true next state from outcomes of alternative actions. Branching web trajectories support training, followed by tests of predicted-state matching, process-reward action ranking and end-to-end WebArena-Lite selection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-02885/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-02885/
 - Original source: https://arxiv.org/abs/2609.02885
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains discriminative web world models to distinguish the true next state from o
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-02885/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-02885/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kelvin Li, Dhruv Pendharkar, Anish Pahilajani, Chuyi Shang, Leon Oks, Leonid Kar
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-02885/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-02885/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-02885/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-02885/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Trains a GUI grounding proposer together with a visual critic that evaluates candidate locations rendered on screenshots. An adaptive reinforcement-learning schedule balances their development, using proposal diversity and critic feedback during training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-21268/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-21268/
 - Original source: https://arxiv.org/abs/2604.21268
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains a GUI grounding proposer together with a visual critic that evaluates can
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-21268/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-21268/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenkai Wang, Xiyun Li, Hongcan Guo, Wenhao Yu, Tianqing Fang, Haitao Mi, Dong Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-21268/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-21268/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-21268/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-21268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment and expanded task configurations for measuring breadth and depth of computer interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-map/
+- Catalog URL: https://awesomecua.com/resources/github-os-copilot-os-map/
 - Original source: https://github.com/OS-Copilot/OS-Map
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment 
 
 Public task manifests, agent runner and evaluator code are present, and the linked ungated Hub manifest lists Ubuntu0.zip and task files. The main setup supports x86 VMware Workstation and says ARM/Docker alternatives are still in development. An inherited evaluation-examples README still mentions Windows 10 and under-construction status; those statements are retained as a documentation inconsistency, not interpreted as verified Windows support. The manifest has 416 category/task references but 412 globally distinct ID strings.
 
-- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-os-map/record.json
+- Record JSON: https://awesomecua.com/resources/github-os-copilot-os-map/record.json
 
 ## Structured profile
 

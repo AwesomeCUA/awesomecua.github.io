@@ -2,7 +2,7 @@
 
 A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions and dialogue, predicting browser actions from a textual state representation.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-7c3e8c4ba52428584079/
+- Catalog URL: https://awesomecua.com/resources/url-7c3e8c4ba52428584079/
 - Original source: https://huggingface.co/McGill-NLP/Llama-3-8B-Web
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions
 
 The ungated Hub manifest includes model.safetensors, pytorch_model.bin, config and tokenizer files; the two weight formats represent the same checkpoint and are not counted separately. The card describes an approximately 24K-example curated WebLINX training subset and evaluates dialogue-guided web navigation. Predictions still require parsing and execution in an external browser environment. The retained weight license is the Meta Llama 3 Community License Agreement, not WebLlama code MIT. No weights were downloaded, model used, or agreement accepted.
 
-- Record JSON: https://awesomecua.github.io/resources/url-7c3e8c4ba52428584079/record.json
+- Record JSON: https://awesomecua.com/resources/url-7c3e8c4ba52428584079/record.json
 
 ## License declarations
 

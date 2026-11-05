@@ -2,7 +2,7 @@
 
 Extracts operational guidance from video for mobile task execution and introduces Mobile-Knowledge to evaluate the contribution of external knowledge.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-17110/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-17110/
 - Original source: https://arxiv.org/abs/2502.17110
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Extracts operational guidance from video for mobile task execution and introduce
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The authors identify arXiv:2505.13887 as an accidental duplicate and direct future updates to this record.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-17110/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-17110/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junyang Wang, Haiyang Xu, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Jitao Sang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-17110/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-17110/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-17110/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-17110/citation.csl.json
 
 ## Recorded arXiv snapshot
 

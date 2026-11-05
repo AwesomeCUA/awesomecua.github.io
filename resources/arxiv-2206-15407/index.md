@@ -2,7 +2,7 @@
 
 Bibliographic record for Shifts 2.0: Extending The Dataset of Real Distributional Shifts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2206-15407/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2206-15407/
 - Original source: https://arxiv.org/abs/2206.15407
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Shifts 2.0: Extending The Dataset of Real Distributiona
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2206-15407/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2206-15407/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Andrey Malinin, Andreas Athanasopoulos, Muhamed Barakovic, Meritxell Bach Cuadra
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2206-15407/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2206-15407/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2206-15407/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2206-15407/citation.csl.json
 
 ## Recorded arXiv snapshot
 

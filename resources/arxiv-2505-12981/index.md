@@ -2,7 +2,7 @@
 
 Analyzes security vulnerabilities across OEM system-level, third-party, and research mobile LLM agents, covering GUI and cross-application attack surfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-12981/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-12981/
 - Original source: https://arxiv.org/abs/2505.12981
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Analyzes security vulnerabilities across OEM system-level, third-party, and rese
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12981/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-12981/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Liangxuan Wu, Chao Wang, Tianming Liu, Yanjie Zhao, Haoyu Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12981/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12981/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-12981/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-12981/citation.csl.json
 
 ## Recorded arXiv snapshot
 

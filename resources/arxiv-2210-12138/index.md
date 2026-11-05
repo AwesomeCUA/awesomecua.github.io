@@ -2,7 +2,7 @@
 
 Bibliographic record for A quantum algorithm for solving open system dynamics on quantum computers using noise. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2210-12138/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2210-12138/
 - Original source: https://arxiv.org/abs/2210.12138
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for A quantum algorithm for solving open system dynamics on
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-12138/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2210-12138/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Juha Leppäkangas, Nicolas Vogt, Keith R. Fratus, Kirsten Bark, Jesse A. Vaitkus
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-12138/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-12138/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2210-12138/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2210-12138/citation.csl.json
 
 ## Recorded arXiv snapshot
 

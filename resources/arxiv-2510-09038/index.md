@@ -2,7 +2,7 @@
 
 Encodes GUI trajectories into compact continuous embeddings that can be retrieved directly into an agent’s input. An automated environment-discovery and rollout pipeline expands this memory for long tasks and unfamiliar interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-09038/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-09038/
 - Original source: https://arxiv.org/abs/2510.09038
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Encodes GUI trajectories into compact continuous embeddings that can be retrieve
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-09038/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-09038/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenyi Wu, Kun Zhou, Ruoxin Yuan, Vivian Yu, Stephen Wang, Zhiting Hu, Biwei Huan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-09038/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-09038/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-09038/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-09038/citation.csl.json
 
 ## Recorded arXiv snapshot
 

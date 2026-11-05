@@ -2,7 +2,7 @@
 
 General agent platform with browser-based task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-d3414794302313051ff0/
+- Catalog URL: https://awesomecua.com/resources/url-d3414794302313051ff0/
 - Original source: https://manus.im/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ General agent platform with browser-based task execution.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-d3414794302313051ff0/record.json
+- Record JSON: https://awesomecua.com/resources/url-d3414794302313051ff0/record.json
 
 ## License declarations
 

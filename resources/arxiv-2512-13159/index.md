@@ -2,7 +2,7 @@
 
 Bibliographic record for SpeakRL: Synergizing Reasoning, Speaking, and Acting in Language Models with Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-13159/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-13159/
 - Original source: https://arxiv.org/abs/2512.13159
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SpeakRL: Synergizing Reasoning, Speaking, and Acting in
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-13159/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-13159/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Emre Can Acikgoz, Jinoh Oh, Jie Hao, Joo Hyuk Jeon, Heng Ji, Dilek Hakkani-Tür,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-13159/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-13159/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-13159/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-13159/citation.csl.json
 
 ## Recorded arXiv snapshot
 

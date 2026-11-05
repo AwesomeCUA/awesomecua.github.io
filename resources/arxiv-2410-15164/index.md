@@ -2,7 +2,7 @@
 
 Introduces a smartphone-agent benchmark with English and Chinese tasks, real-time Android interaction, and completion and resource-use metrics.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-15164/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-15164/
 - Original source: https://arxiv.org/abs/2410.15164
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a smartphone-agent benchmark with English and Chinese tasks, real-tim
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-15164/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-15164/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-15164/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-15164/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-15164/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-15164/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixi
 - Authors: Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixing, Xurui Zhou, Weiwen Liu, Shuai Wang, Kaiwen Zhou, Rui Shao, Liqiang Nie, Yasheng Wang, Jianye HAO, Jun Wang, Kun Shao
 - Publication date (recorded precision): 2025-05-01
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-15164/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-15164/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-15164/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-15164/publication-citation.csl.json
 - venue: International Conference on Learning Representations
 - volume: 2025
 - pages: 61769-61806

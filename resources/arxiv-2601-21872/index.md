@@ -2,7 +2,7 @@
 
 WebArbiter generates reasoned action-preference verdicts for web navigation, using reasoning distillation followed by reinforcement learning. It introduces WebPRMBench and evaluates both preference judgments and reward-guided trajectory search.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-21872/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-21872/
 - Original source: https://arxiv.org/abs/2601.21872
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebArbiter generates reasoned action-preference verdicts for web navigation, usi
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21872/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-21872/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yao Zhang, Shijie Tang, Zeyu Li, Zhen Han, Volker Tresp
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21872/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21872/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-21872/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-21872/citation.csl.json
 
 ## Recorded arXiv snapshot
 

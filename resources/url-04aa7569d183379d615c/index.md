@@ -2,7 +2,7 @@
 
 Computer-use checkpoint fine-tuned on PC-Agent-E trajectories; the model-card prose identifies Qwen2.5-VL-72B-Instruct as its starting model.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-04aa7569d183379d615c/
+- Catalog URL: https://awesomecua.com/resources/url-04aa7569d183379d615c/
 - Original source: https://huggingface.co/henryhe0123/PC-Agent-E
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Computer-use checkpoint fine-tuned on PC-Agent-E trajectories; the model-card pr
 
 Public manifest lists 31 Safetensors shards and their index. The card prose names Qwen2.5-VL-72B-Instruct while its YAML base_model field self-references PC-Agent-E; no base-model relationship is imported from that inconsistent metadata. The model-card MIT declaration is recorded for weights only.
 
-- Record JSON: https://awesomecua.github.io/resources/url-04aa7569d183379d615c/record.json
+- Record JSON: https://awesomecua.com/resources/url-04aa7569d183379d615c/record.json
 
 ## License declarations
 

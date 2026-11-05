@@ -2,7 +2,7 @@
 
 Bibliographic record for Salamandra Technical Report. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-08489/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-08489/
 - Original source: https://arxiv.org/abs/2502.08489
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Salamandra Technical Report. Title, authors and dates c
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-08489/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-08489/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Aitor Gonzalez-Agirre, Marc Pàmies, Joan Llop, Irene Baucells, Severino Da Dalt
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-08489/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-08489/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-08489/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-08489/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Surveys modular agentic skill architectures, skill lifecycles, and security risks in autonomous tool- and interface-using agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-29596/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-29596/
 - Original source: https://arxiv.org/abs/2608.29596
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Surveys modular agentic skill architectures, skill lifecycles, and security risk
 
 Adjacent broad survey of procedural agent skills. Full-text Section 4.4.2 explicitly covers desktop, mobile, and web interface skills; surveyed systems and their reported results are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-29596/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-29596/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sanket Badhe, Deep Shah, Priyanka Tiwari, Nehal Kathrotia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-29596/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-29596/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-29596/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-29596/citation.csl.json
 
 ## Recorded arXiv snapshot
 

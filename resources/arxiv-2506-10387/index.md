@@ -2,7 +2,7 @@
 
 Mirage-1 organizes interaction trajectories into execution, core, and meta-skills, then uses them to guide Monte Carlo tree search during online GUI tasks. It introduces AndroidLH for long-horizon evaluation and tests the approach on Android and web-navigation benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-10387/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-10387/
 - Original source: https://arxiv.org/abs/2506.10387
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Mirage-1 organizes interaction trajectories into execution, core, and meta-skill
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-10387/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-10387/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuquan Xie, Zaijing Li, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Dongme
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-10387/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-10387/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-10387/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-10387/citation.csl.json
 
 ## Recorded arXiv snapshot
 

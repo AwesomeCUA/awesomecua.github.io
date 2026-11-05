@@ -2,7 +2,7 @@
 
 Evaluates GUI grounding models under natural image noise, untargeted adversarial perturbations, and targeted image attacks. Experiments cover mobile, desktop, and web interfaces and analyze sensitivity to image resolution and adversarial changes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-04716/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-04716/
 - Original source: https://arxiv.org/abs/2504.04716
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates GUI grounding models under natural image noise, untargeted adversarial
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-04716/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-04716/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoren Zhao, Tianyi Chen, Zhen Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-04716/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-04716/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-04716/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-04716/citation.csl.json
 
 ## Recorded arXiv snapshot
 

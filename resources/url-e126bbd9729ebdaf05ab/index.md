@@ -2,7 +2,7 @@
 
 Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and web world model.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-e126bbd9729ebdaf05ab/
+- Catalog URL: https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/
 - Original source: https://huggingface.co/datasets/CognitiveKernel/WebEvolver
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and
 
 The card and public manifest identify separate policy-model and world-model JSONL files. No row total or complete record schema is documented in the inspected card; the files were not downloaded as training samples. MIT is the publisher’s data declaration.
 
-- Record JSON: https://awesomecua.github.io/resources/url-e126bbd9729ebdaf05ab/record.json
+- Record JSON: https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/record.json
 
 ## Structured profile
 

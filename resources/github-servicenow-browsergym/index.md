@@ -2,7 +2,7 @@
 
 Unified interfaces for browser-agent tasks and benchmark environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-servicenow-browsergym/
+- Catalog URL: https://awesomecua.com/resources/github-servicenow-browsergym/
 - Original source: https://github.com/ServiceNow/BrowserGym
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Unified interfaces for browser-agent tasks and benchmark environments.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-servicenow-browsergym/record.json
+- Record JSON: https://awesomecua.com/resources/github-servicenow-browsergym/record.json
 
 ## Structured profile
 

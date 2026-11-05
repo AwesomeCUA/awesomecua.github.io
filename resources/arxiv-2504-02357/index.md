@@ -2,7 +2,7 @@
 
 ReuseDroid migrates Android GUI tests between functionally similar apps using VLM agents that separate shared test intent from app-specific interaction flows. It introduces LinPro, a dataset of 578 migration tasks across 39 apps, to evaluate test transfer.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-02357/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-02357/
 - Original source: https://arxiv.org/abs/2504.02357
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ReuseDroid migrates Android GUI tests between functionally similar apps using VL
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The platform or GUI evaluation setting was additionally checked in the primary full text.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-02357/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-02357/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaolei Li, Jialun Cao, Yepang Liu, Shing-Chi Cheung, Hailong Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-02357/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-02357/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-02357/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-02357/citation.csl.json
 
 ## Recorded arXiv snapshot
 

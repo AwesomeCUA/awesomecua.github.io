@@ -2,7 +2,7 @@
 
 Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-wlanderson0-orbit/
+- Catalog URL: https://awesomecua.com/resources/github-wlanderson0-orbit/
 - Original source: https://github.com/wlanderson0/orbit
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Inspect-based multi-agent evaluation framework with role, scheduling and communi
 
 Reviewed version 1.0.3 source at commit 588b3035, not an asserted reproduction of the paper. BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task, not SMTP delivery. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.
 
-- Record JSON: https://awesomecua.github.io/resources/github-wlanderson0-orbit/record.json
+- Record JSON: https://awesomecua.com/resources/github-wlanderson0-orbit/record.json
 
 ## License declarations
 

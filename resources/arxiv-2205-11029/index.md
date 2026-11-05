@@ -2,7 +2,7 @@
 
 Introduces GUI-based task-oriented dialogue and a dataset pairing mobile-interface operations with conversational responses.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2205-11029/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2205-11029/
 - Original source: https://arxiv.org/abs/2205.11029
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUI-based task-oriented dialogue and a dataset pairing mobile-interfa
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2205-11029/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2205-11029/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Liangtai Sun, Xingyu Chen, Lu Chen, Tianle Dai, Zichen Zhu, Kai Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2205-11029/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2205-11029/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2205-11029/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2205-11029/citation.csl.json
 
 ## Recorded arXiv snapshot
 

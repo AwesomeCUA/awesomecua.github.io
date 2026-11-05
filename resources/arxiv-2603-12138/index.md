@@ -2,7 +2,7 @@
 
 Introduces HATS, which directs GUI trajectory exploration toward semantically ambiguous actions and iteratively checks instruction-execution alignment. Feedback from trajectory refinement updates the exploration signal used to collect subsequent training examples.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-12138/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-12138/
 - Original source: https://arxiv.org/abs/2603.12138
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces HATS, which directs GUI trajectory exploration toward semantically am
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-12138/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-12138/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rui Shao, Ruize Gao, Bin Xie, Yixing Li, Kaiwen Zhou, Shuai Wang, Weili Guan, Go
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-12138/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-12138/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-12138/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-12138/citation.csl.json
 
 ## Recorded arXiv snapshot
 

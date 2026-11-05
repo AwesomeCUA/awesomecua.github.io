@@ -2,7 +2,7 @@
 
 Bibliographic record for ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-23781/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-23781/
 - Original source: https://arxiv.org/abs/2604.23781
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ClawMark: A Living-World Benchmark for Multi-Turn, Mult
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-23781/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-23781/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fanqing Meng, Lingxiao Du, Zijian Wu, Guanzheng Chen, Xiangyan Liu, Jiaqi Liao, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-23781/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-23781/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-23781/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-23781/citation.csl.json
 
 ## Recorded arXiv snapshot
 

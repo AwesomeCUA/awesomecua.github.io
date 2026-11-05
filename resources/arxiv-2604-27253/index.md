@@ -2,7 +2,7 @@
 
 AutoSurfer explores website actions breadth-first, retaining page and trajectory knowledge to guide task synthesis and trajectory refinement. It evaluates the resulting training data by fine-tuning a web agent on WebArena and examining synthesized-task diversity.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-27253/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-27253/
 - Original source: https://arxiv.org/abs/2604.27253
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AutoSurfer explores website actions breadth-first, retaining page and trajectory
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-27253/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-27253/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fazle Elahi Faisal, Qianhui Wu, Baolin Peng, Jianfeng Gao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-27253/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-27253/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-27253/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-27253/citation.csl.json
 
 ## Recorded arXiv snapshot
 

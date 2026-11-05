@@ -2,7 +2,7 @@
 
 Introduces a vision-based grounding model trained with diverse synthetic instructions and action histories for context-sensitive GUI targeting.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-16256/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-16256/
 - Original source: https://arxiv.org/abs/2412.16256
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a vision-based grounding model trained with diverse synthetic instruc
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-16256/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-16256/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhao Yang, Yue Wang, Dongxu Li, Ziyang Luo, Bei Chen, Chao Huang, Junnan Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-16256/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-16256/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-16256/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-16256/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yuhao Yang, Yue Wang, Dongxu Li, Ziyang Luo, Bei Chen, Chao Huang, Junnan Li
 - Authors: Yuhao Yang, Yue Wang, Dongxu Li, Ziyang Luo, Bei Chen, Chao Huang, Junnan Li
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.findings-acl.1152/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2412-16256/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-16256/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-16256/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-16256/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2025
 - publisher: Association for Computational Linguistics
 - pages: 22418-22433

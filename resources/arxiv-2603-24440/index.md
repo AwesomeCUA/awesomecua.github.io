@@ -2,7 +2,7 @@
 
 CUA-Suite combines continuous expert desktop demonstrations in VideoCUA with the UI-Vision evaluation benchmark and GroundCUA grounding data. Screen recordings, cursor traces and layered annotations support study of temporal behavior and professional software workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-24440/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-24440/
 - Original source: https://arxiv.org/abs/2603.24440
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CUA-Suite combines continuous expert desktop demonstrations in VideoCUA with the
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-24440/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-24440/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiangru Jian, Shravan Nayak, Kevin Qinghong Lin, Aarash Feizi, Kaixin Li, Patric
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-24440/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-24440/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-24440/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-24440/citation.csl.json
 
 ## Recorded arXiv snapshot
 

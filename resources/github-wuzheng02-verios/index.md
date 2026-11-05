@@ -2,7 +2,7 @@
 
 Research code for proactive human–GUI-agent verification, including offline interaction-loop and dual-agent evaluation scripts plus LLaMA-Factory fine-tuning configurations.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-wuzheng02-verios/
+- Catalog URL: https://awesomecua.com/resources/github-wuzheng02-verios/
 - Original source: https://github.com/Wuzheng02/VeriOS
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Research code for proactive human–GUI-agent verification, including offline in
 
 The released scripts evaluate recorded task inputs; the retained README does not establish a live Android execution environment. No runtime behavior or reported results were independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/github-wuzheng02-verios/record.json
+- Record JSON: https://awesomecua.com/resources/github-wuzheng02-verios/record.json
 
 ## License declarations
 

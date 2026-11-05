@@ -2,7 +2,7 @@
 
 Optimizes GUI-agent execution code from repeated rollout evidence and checks proposed changes against fixed validation gates.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-garyyang12345-gui-harvest/
+- Catalog URL: https://awesomecua.com/resources/github-garyyang12345-gui-harvest/
 - Original source: https://github.com/GaryYang12345/GUI-HARVEST
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Optimizes GUI-agent execution code from repeated rollout evidence and checks pro
 
 Requires a separately installed benchmark and seed agent harness; benchmark tasks and model weights remain fixed during its optimization procedure.
 
-- Record JSON: https://awesomecua.github.io/resources/github-garyyang12345-gui-harvest/record.json
+- Record JSON: https://awesomecua.com/resources/github-garyyang12345-gui-harvest/record.json
 
 ## License declarations
 

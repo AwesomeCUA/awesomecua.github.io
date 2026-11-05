@@ -2,7 +2,7 @@
 
 Bibliographic record for General Computation using Slidable Tiles with Deterministic Global Forces. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-06574/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-06574/
 - Original source: https://arxiv.org/abs/2512.06574
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for General Computation using Slidable Tiles with Determini
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-06574/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-06574/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Alberto Avila-Jimenez, David Barreda, Sarah-Laurie Evans, Austin Luchsinger, Aid
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-06574/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-06574/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-06574/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-06574/citation.csl.json
 
 ## Recorded arXiv snapshot
 

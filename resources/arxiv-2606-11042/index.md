@@ -2,7 +2,7 @@
 
 Workflow-GYM evaluates long GUI workflows in professional software rather than isolated interface actions. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-11042/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-11042/
 - Original source: https://arxiv.org/abs/2606.11042
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Workflow-GYM evaluates long GUI workflows in professional software rather than i
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-11042/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-11042/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Liya Zhu, Jingzhe Ding, Jian Zhang, Jianbo Xue, Shihao Liang, Ge Zhang, Yi Zhu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-11042/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-11042/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-11042/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-11042/citation.csl.json
 
 ## Recorded arXiv snapshot
 

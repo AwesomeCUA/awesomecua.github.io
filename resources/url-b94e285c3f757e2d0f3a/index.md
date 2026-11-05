@@ -2,7 +2,7 @@
 
 The released UI-AGILE model for GUI grounding with reward shaping, crop-based resampling and decomposed selection during inference.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-b94e285c3f757e2d0f3a/
+- Catalog URL: https://awesomecua.com/resources/url-b94e285c3f757e2d0f3a/
 - Original source: https://huggingface.co/KDEGroup/UI-AGILE
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ The released UI-AGILE model for GUI grounding with reward shaping, crop-based re
 
 Four safetensors shards and model/tokenizer files are public. The card declares MIT for these weights; the companion dataset has no declared license and is separate. The short card does not state a parameter count, so this entry does not infer one from shard sizes.
 
-- Record JSON: https://awesomecua.github.io/resources/url-b94e285c3f757e2d0f3a/record.json
+- Record JSON: https://awesomecua.com/resources/url-b94e285c3f757e2d0f3a/record.json
 
 ## License declarations
 

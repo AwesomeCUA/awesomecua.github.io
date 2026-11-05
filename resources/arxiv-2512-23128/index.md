@@ -2,7 +2,7 @@
 
 Introduces TRAP, which evaluates task-redirection attacks embedded in realistic web interfaces. Controlled website clones and a modular injection framework support comparisons of persuasion techniques and contextual changes across agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-23128/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-23128/
 - Original source: https://arxiv.org/abs/2512.23128
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces TRAP, which evaluates task-redirection attacks embedded in realistic 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-23128/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-23128/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Karolina Korgul, Yushi Yang, Arkadiusz Drohomirecki, Piotr Błaszczyk, Will Howa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-23128/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-23128/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-23128/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-23128/citation.csl.json
 
 ## Recorded arXiv snapshot
 

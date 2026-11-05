@@ -2,7 +2,7 @@
 
 Combines API and GUI actions with distributed desktop reinforcement learning and alternating supervised training to address training instability.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-14040/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-14040/
 - Original source: https://arxiv.org/abs/2508.14040
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines API and GUI actions with distributed desktop reinforcement learning and
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-14040/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-14040/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hanyu Lai, Xiao Liu, Yanxiao Zhao, Han Xu, Hanchen Zhang, Bohao Jing, Yanyu Ren,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-14040/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-14040/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-14040/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-14040/citation.csl.json
 
 ## Recorded arXiv snapshot
 

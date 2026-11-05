@@ -2,7 +2,7 @@
 
 LabOSBench evaluates GUI agents on browser-based scientific instrument simulators with configurable tasks and execution-based checks. Its subtask and end-to-end tests examine feedback-driven adjustment and long workflows without controlling physical instruments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-16802/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-16802/
 - Original source: https://arxiv.org/abs/2606.16802
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LabOSBench evaluates GUI agents on browser-based scientific instrument simulator
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-16802/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-16802/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Anqi Zou, Han Deng, Chengyu Zhang, Junquan Hu, Yu Wang, Yuxiang Xing, Aokai Zhan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-16802/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-16802/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-16802/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-16802/citation.csl.json
 
 ## Recorded arXiv snapshot
 

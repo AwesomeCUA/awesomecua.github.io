@@ -2,7 +2,7 @@
 
 Bibliographic record for Agents-K1: Towards Agent-native Knowledge Orchestration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-13669/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-13669/
 - Original source: https://arxiv.org/abs/2606.13669
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Agents-K1: Towards Agent-native Knowledge Orchestration
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-13669/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-13669/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zongsheng Cao, Bihao Zhan, Jinxin Shi, Jiong Wang, Fangchen Yu, Zhijie Zhong, Yi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-13669/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-13669/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-13669/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-13669/citation.csl.json
 
 ## Recorded arXiv snapshot
 

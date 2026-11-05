@@ -2,7 +2,7 @@
 
 D-GARA evaluates Android GUI agents under runtime anomalies such as permission dialogs, battery warnings, and update prompts. Its modular environment embeds these interruptions in Android applications to study recovery and robustness.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-16590/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-16590/
 - Original source: https://arxiv.org/abs/2511.16590
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ D-GARA evaluates Android GUI agents under runtime anomalies such as permission d
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-16590/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-16590/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sen Chen, Tong Zhao, Yi Bin, Fei Ma, Wenqi Shao, Zheng Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-16590/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-16590/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-16590/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-16590/citation.csl.json
 
 ## Recorded arXiv snapshot
 

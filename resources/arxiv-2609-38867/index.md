@@ -2,7 +2,7 @@
 
 Introduces Talk2Agent, a benchmark of spoken instructions for computer-use tasks that measures whether voice interfaces preserve task-critical information. It pairs human speech with an execution-free intention-based metric and checks how that metric relates to downstream task completion.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-38867/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-38867/
 - Original source: https://arxiv.org/abs/2609.38867
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Talk2Agent, a benchmark of spoken instructions for computer-use tasks
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-38867/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-38867/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Terumi Chiba, Guangzhi Sun, Zheqi Yuan, Chao Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-38867/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-38867/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-38867/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-38867/citation.csl.json
 
 ## Recorded arXiv snapshot
 

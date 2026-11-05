@@ -2,7 +2,7 @@
 
 Measures source-attribution limits in Android accessibility and separately tests application-history and selected-WebView-object checks for authorizing AppFunctions actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-15502/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-15502/
 - Original source: https://arxiv.org/abs/2610.15502
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Measures source-attribution limits in Android accessibility and separately tests
 
 The two prototypes use different workloads and trust assumptions on patched Android/WebView components. Approval is simulated; authenticated browser delivery and atomic capture remain unimplemented. Coarse source history can withhold benign work and persist across tasks. Direct-call checks and limited live-agent trials are separate, and writes are in-memory. No production vulnerability, general defense rate or released artifact is established.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-15502/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-15502/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hyobin Ahn, Dongjae Lee
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-15502/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-15502/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-15502/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-15502/citation.csl.json
 
 ## Recorded arXiv snapshot
 

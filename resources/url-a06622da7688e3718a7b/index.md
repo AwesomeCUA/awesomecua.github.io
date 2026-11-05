@@ -2,7 +2,7 @@
 
 Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track for widgets and OCR text and an agent track for multi-step tasks in Chinese apps.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-a06622da7688e3718a7b/
+- Catalog URL: https://awesomecua.com/resources/url-a06622da7688e3718a7b/
 - Original source: https://huggingface.co/datasets/openbmb/CAGUI
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-a06622da7688e3718a7b/record.json
+- Record JSON: https://awesomecua.com/resources/url-a06622da7688e3718a7b/record.json
 
 ## License declarations
 

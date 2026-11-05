@@ -2,7 +2,7 @@
 
 Introduces PastForward, which reuses earlier output sequences as verified decoding proposals and starts future action computation from predicted GUI transitions. Screen checks determine whether speculative computation and cached model states can be retained.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-32166/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-32166/
 - Original source: https://arxiv.org/abs/2609.32166
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PastForward, which reuses earlier output sequences as verified decodi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32166/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-32166/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Taehwan Park, Changmin Lee, Hayeon Lee, Taesik Gong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32166/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32166/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-32166/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-32166/citation.csl.json
 
 ## Recorded arXiv snapshot
 

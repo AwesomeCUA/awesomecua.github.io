@@ -2,7 +2,7 @@
 
 Introduces AdaPlanner, which revises code-structured plans in response to environmental feedback and reuses successful plans as exemplars. Experiments include MiniWoB++ web tasks alongside ALFWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2305-16653/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2305-16653/
 - Original source: https://arxiv.org/abs/2305.16653
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AdaPlanner, which revises code-structured plans in response to enviro
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. This is a general planning framework; MiniWoB++ supplies the interface-agent evidence, while ALFWorld is a separate environment.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-16653/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2305-16653/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haotian Sun, Yuchen Zhuang, Lingkai Kong, Bo Dai, Chao Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-16653/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-16653/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2305-16653/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2305-16653/citation.csl.json
 
 ## Recorded arXiv snapshot
 

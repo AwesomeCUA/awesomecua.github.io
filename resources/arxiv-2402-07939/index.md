@@ -2,7 +2,7 @@
 
 UFO uses two agents to inspect Windows application interfaces and their control metadata, then grounds and executes user requests within and across applications. The study evaluates this UI-focused architecture on nine Windows applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-07939/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-07939/
 - Original source: https://arxiv.org/abs/2402.07939
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UFO uses two agents to inspect Windows application interfaces and their control 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-07939/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-07939/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Ka
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-07939/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-07939/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-07939/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-07939/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Ka
 - Authors: Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
 - Publication date (recorded precision): 2025-04
 - Publication source: https://aclanthology.org/2025.naacl-long.26/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2402-07939/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-07939/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-07939/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-07939/publication-citation.csl.json
 - venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 597-622

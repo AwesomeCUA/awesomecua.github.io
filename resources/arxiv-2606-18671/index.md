@@ -2,7 +2,7 @@
 
 HANSEL extracts evidence pages and snippets from browser-agent traces and preserves relevant page state in interactive verification views. It flags untraceable answers and evaluates evidence selection and human verification effort separately.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-18671/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-18671/
 - Original source: https://arxiv.org/abs/2606.18671
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ HANSEL extracts evidence pages and snippets from browser-agent traces and preser
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-18671/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-18671/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yujin Zhang, Daye Nam
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-18671/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-18671/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-18671/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-18671/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Released inference and evaluation code for demonstration-conditioned mobile GUI agents on LearnGUI-Offline. The repository describes a multi-agent adaptation method and links the LearnGUI demonstrations.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-lgy0404-learnact/
+- Catalog URL: https://awesomecua.com/resources/github-lgy0404-learnact/
 - Original source: https://github.com/lgy0404/LearnAct
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Released inference and evaluation code for demonstration-conditioned mobile GUI 
 
 At the retained README snapshot, LearnGUI-Online code and the real-world deployment implementation were marked coming soon. The mobile operating system is not established by the reviewed release instructions; no code was executed.
 
-- Record JSON: https://awesomecua.github.io/resources/github-lgy0404-learnact/record.json
+- Record JSON: https://awesomecua.com/resources/github-lgy0404-learnact/record.json
 
 ## License declarations
 

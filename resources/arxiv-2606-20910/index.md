@@ -2,7 +2,7 @@
 
 Builds a logging framework that combines network/protocol fingerprints with browser interaction behavior to attribute web-agent traffic. A decision-tree classifier is evaluated across six agent implementations, human browsing and conventional crawlers.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-20910/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-20910/
 - Original source: https://arxiv.org/abs/2606.20910
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds a logging framework that combines network/protocol fingerprints with brow
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-20910/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-20910/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dayeon Kang, Hyejun Jeong, Jade Sheffey, Pubali Datta, Amir Houmansadr
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-20910/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-20910/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-20910/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-20910/citation.csl.json
 
 ## Recorded arXiv snapshot
 

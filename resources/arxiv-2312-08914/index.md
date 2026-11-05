@@ -2,7 +2,7 @@
 
 Introduces a visual-language model with low- and high-resolution image encoders for screenshot understanding and GUI navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2312-08914/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2312-08914/
 - Original source: https://arxiv.org/abs/2312.08914
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a visual-language model with low- and high-resolution image encoders 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-08914/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2312-08914/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-08914/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-08914/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2312-08914/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2312-08914/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wa
 - Authors: Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxiao Dong, Ming Ding, Jie Tang
 - Publication date (recorded precision): 2024-06
 - Publication source: https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2312-08914/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-08914/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2312-08914/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2312-08914/publication-citation.csl.json
 - venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 - pages: 14281-14290
 - date basis: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.

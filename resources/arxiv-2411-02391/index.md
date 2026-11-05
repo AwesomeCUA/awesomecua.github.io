@@ -2,7 +2,7 @@
 
 Tests whether adversarial visual pop-ups divert computer agents from intended tasks in desktop and web benchmark environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-02391/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-02391/
 - Original source: https://arxiv.org/abs/2411.02391
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Tests whether adversarial visual pop-ups divert computer agents from intended ta
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-02391/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-02391/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yanzhe Zhang, Tao Yu, Diyi Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-02391/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-02391/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-02391/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-02391/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yanzhe Zhang, Tao Yu, Diyi Yang
 - Authors: Yanzhe Zhang, Tao Yu, Diyi Yang
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.acl-long.411/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2411-02391/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-02391/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2411-02391/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2411-02391/publication-citation.csl.json
 - venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 8387-8401

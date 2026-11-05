@@ -2,7 +2,7 @@
 
 Bibliographic record for Learning Sidewalk Autopilot from Multi-Scale Imitation with Corrective Behavior Expansion. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-22527/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-22527/
 - Original source: https://arxiv.org/abs/2603.22527
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Learning Sidewalk Autopilot from Multi-Scale Imitation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-22527/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-22527/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Honglin He, Yukai Ma, Brad Squicciarini, Wayne Wu, Bolei Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-22527/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-22527/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-22527/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-22527/citation.csl.json
 
 ## Recorded arXiv snapshot
 

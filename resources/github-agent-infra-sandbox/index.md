@@ -2,7 +2,7 @@
 
 Sandbox environments supporting computer and browser interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-agent-infra-sandbox/
+- Catalog URL: https://awesomecua.com/resources/github-agent-infra-sandbox/
 - Original source: https://github.com/agent-infra/sandbox
 - Kind: infrastructure
 - Review: curated
@@ -16,7 +16,7 @@ Sandbox environments supporting computer and browser interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-agent-infra-sandbox/record.json
+- Record JSON: https://awesomecua.com/resources/github-agent-infra-sandbox/record.json
 
 ## License declarations
 

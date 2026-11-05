@@ -2,7 +2,7 @@
 
 Treats alternative instruction formulations as reasoning paths and trains GUI-grounding models to select and combine useful perspectives.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-20286/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-20286/
 - Original source: https://arxiv.org/abs/2510.20286
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Treats alternative instruction formulations as reasoning paths and trains GUI-gr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-20286/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-20286/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Liangyu Chen, Hanzhang Zhou, Chenglin Cai, Jianan Zhang, Panrong Tong, Quyu Kong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-20286/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-20286/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-20286/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-20286/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces asynchronous distributed reinforcement learning with centralized updates and decentralized interaction collection for device-control agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-14803/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-14803/
 - Original source: https://arxiv.org/abs/2410.14803
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces asynchronous distributed reinforcement learning with centralized upda
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-14803/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-14803/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Taiyi Wang, Zhihao Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-14803/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-14803/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-14803/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-14803/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Taiyi Wang, Zhihao Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao
 - Authors: Taiyi Wang, Zhihao Wu, Jianheng Liu, Jianye HAO, Jun Wang, Kun Shao
 - Publication date (recorded precision): 2025-05-01
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2025/hash/b9e472cd579c83e2f6aa3459f46aac28-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-14803/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-14803/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-14803/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-14803/publication-citation.csl.json
 - venue: International Conference on Learning Representations
 - volume: 2025
 - pages: 74757-74782

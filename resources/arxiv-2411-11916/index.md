@@ -2,7 +2,7 @@
 
 Bibliographic record for From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-11916/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-11916/
 - Original source: https://arxiv.org/abs/2411.11916
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for From Words to Structured Visuals: A Benchmark and Frame
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-11916/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-11916/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingxuan Wei, Cheng Tan, Qi Chen, Gaowei Wu, Siyuan Li, Zhangyang Gao, Linzhuang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-11916/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-11916/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-11916/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-11916/citation.csl.json
 
 ## Recorded arXiv snapshot
 

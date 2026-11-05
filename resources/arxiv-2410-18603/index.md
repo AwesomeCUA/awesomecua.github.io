@@ -2,7 +2,7 @@
 
 Introduces a platform that integrates specialized agents under a coordinating MetaAgent for varied computer tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-18603/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-18603/
 - Original source: https://arxiv.org/abs/2410.18603
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a platform that integrates specialized agents under a coordinating Me
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-18603/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-18603/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-18603/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-18603/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-18603/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-18603/citation.csl.json
 
 ## Recorded arXiv snapshot
 

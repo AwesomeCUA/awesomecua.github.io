@@ -2,7 +2,7 @@
 
 MobileRL adapts GRPO to mobile GUI training with difficulty-dependent replay of successes and filtering of failure curricula. A shortest-path reward adjustment accounts for task length, with evaluations on AndroidWorld and AndroidLab.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-18119/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-18119/
 - Original source: https://arxiv.org/abs/2509.18119
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileRL adapts GRPO to mobile GUI training with difficulty-dependent replay of 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-18119/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-18119/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yifan Xu, Xiao Liu, Xinghan Liu, Jiaqi Fu, Hanchen Zhang, Bohao Jing, Shudan Zha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-18119/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-18119/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-18119/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-18119/citation.csl.json
 
 ## Recorded arXiv snapshot
 

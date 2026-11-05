@@ -2,7 +2,7 @@
 
 Studies context manipulation in web agents by altering stored task representations rather than webpage prompts alone. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-17318/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-17318/
 - Original source: https://arxiv.org/abs/2506.17318
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies context manipulation in web agents by altering stored task representatio
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-17318/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-17318/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Atharv Singh Patlan, Ashwin Hebbar, Pramod Viswanath, Prateek Mittal
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-17318/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-17318/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-17318/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-17318/citation.csl.json
 
 ## Recorded arXiv snapshot
 

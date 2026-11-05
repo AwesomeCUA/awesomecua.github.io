@@ -2,7 +2,7 @@
 
 Studies a compact encoder-decoder grounding model and progressive training-data refinement for resource-constrained GUI interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-23941/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-23941/
 - Original source: https://arxiv.org/abs/2604.23941
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies a compact encoder-decoder grounding model and progressive training-data 
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-23941/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-23941/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongxin Li, Yuntao Chen, Zhaoxiang Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-23941/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-23941/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-23941/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-23941/citation.csl.json
 
 ## Recorded arXiv snapshot
 

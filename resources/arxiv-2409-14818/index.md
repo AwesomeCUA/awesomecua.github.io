@@ -2,7 +2,7 @@
 
 MobileVLM adds two pretraining stages and four UI tasks to learn element detail and relationships between successive screens. Its Mobile3M dataset contains three million Chinese mobile UI pages connected by recorded transition actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-14818/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-14818/
 - Original source: https://arxiv.org/abs/2409.14818
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileVLM adds two pretraining stages and four UI tasks to learn element detail 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-14818/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-14818/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qinzhuo Wu, Weikai Xu, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-14818/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-14818/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-14818/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-14818/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Qinzhuo Wu, Weikai Xu, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wa
 - Authors: Qinzhuo Wu, Weikai Xu, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wang, Shuo Shang
 - Publication date (recorded precision): 2024-11
 - Publication source: https://aclanthology.org/2024.findings-emnlp.599/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2409-14818/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-14818/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2409-14818/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2409-14818/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: EMNLP 2024
 - publisher: Association for Computational Linguistics
 - pages: 10231-10251

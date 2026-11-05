@@ -2,7 +2,7 @@
 
 Bibliographic record for Choosing How to Remember: Adaptive Memory Structures for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-14038/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-14038/
 - Original source: https://arxiv.org/abs/2602.14038
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Choosing How to Remember: Adaptive Memory Structures fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14038/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-14038/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mingfei Lu, Mengjia Wu, Feng Liu, Jiawei Xu, Weikai Li, Haoyang Wang, Zhengdong 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14038/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14038/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-14038/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-14038/citation.csl.json
 
 ## Recorded arXiv snapshot
 

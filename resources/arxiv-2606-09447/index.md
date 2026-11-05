@@ -2,7 +2,7 @@
 
 AliyunConsoleAgent trains browser agents to verify documented procedures against changing cloud-console UIs through trajectory distillation and online GRPO. Provisioned rollout environments and backend audit-log checks support training and outcome evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-09447/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-09447/
 - Original source: https://arxiv.org/abs/2606.09447
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AliyunConsoleAgent trains browser agents to verify documented procedures against
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-09447/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-09447/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bojie Rong, Zheyu Shen, Qiaoping Wang, Pengfei Kang, Yang Xu, Yawen Wei, Hanyu W
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-09447/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-09447/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-09447/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-09447/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for ML-Dev-Bench: Comparative Analysis of AI Agents on ML development workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-00964/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-00964/
 - Original source: https://arxiv.org/abs/2502.00964
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ML-Dev-Bench: Comparative Analysis of AI Agents on ML d
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-00964/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-00964/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Harshith Padigela, Chintan Shah, Dinkar Juyal
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-00964/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-00964/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-00964/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-00964/citation.csl.json
 
 ## Recorded arXiv snapshot
 

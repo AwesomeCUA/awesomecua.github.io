@@ -2,7 +2,7 @@
 
 Introduces UI-Zoomer, a training-free grounding method that uses candidate agreement and token confidence to decide when to crop and retry. Prediction variance determines a separate crop radius for each uncertain interface target.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-14113/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-14113/
 - Original source: https://arxiv.org/abs/2604.14113
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces UI-Zoomer, a training-free grounding method that uses candidate agree
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-14113/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-14113/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fei Tang, Bofan Chen, Zhengxi Lu, Tongbo Chen, Songqin Nong, Tao Jiang, Wenhao X
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-14113/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-14113/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-14113/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-14113/citation.csl.json
 
 ## Recorded arXiv snapshot
 

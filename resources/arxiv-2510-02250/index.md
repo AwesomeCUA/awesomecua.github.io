@@ -2,7 +2,7 @@
 
 Introduces Behavior Judge, which converts execution trajectories into behavior narratives and compares multiple candidate rollouts. Experiments examine this selection approach on OSWorld, WindowsAgentArena and AndroidWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-02250/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-02250/
 - Original source: https://arxiv.org/abs/2510.02250
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Behavior Judge, which converts execution trajectories into behavior n
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-02250/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-02250/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee, Jiachen Yang, Ang Li, Xin 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-02250/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-02250/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-02250/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-02250/citation.csl.json
 
 ## Recorded arXiv snapshot
 

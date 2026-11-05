@@ -2,7 +2,7 @@
 
 Bibliographic record for ApET: Approximation-Error Guided Token Compression for Efficient VLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-19870/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-19870/
 - Original source: https://arxiv.org/abs/2602.19870
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ApET: Approximation-Error Guided Token Compression for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-19870/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-19870/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qiankun Ma, Ziyao Zhang, Haofei Wang, Jie Chen, Zhen Song, Hairong Zheng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-19870/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-19870/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-19870/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-19870/citation.csl.json
 
 ## Recorded arXiv snapshot
 

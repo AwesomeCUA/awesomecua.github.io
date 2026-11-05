@@ -2,7 +2,7 @@
 
 NaviMaster trains a shared policy for GUI and embodied navigation using a common visual-trajectory formulation. It combines trajectory collection, reinforcement learning and distance-aware rewards, with evaluation across both task families.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-02046/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-02046/
 - Original source: https://arxiv.org/abs/2508.02046
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ NaviMaster trains a shared policy for GUI and embodied navigation using a common
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-02046/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-02046/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-02046/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-02046/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-02046/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-02046/citation.csl.json
 
 ## Recorded arXiv snapshot
 

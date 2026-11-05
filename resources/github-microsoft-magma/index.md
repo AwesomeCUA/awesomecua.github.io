@@ -2,7 +2,7 @@
 
 Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark and Trace-of-Mark objectives on UI, robotics and video data and fine-tunable for web and mobile UI navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-magma/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-magma/
 - Original source: https://github.com/microsoft/Magma
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark an
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-magma/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-magma/record.json
 
 ## License declarations
 

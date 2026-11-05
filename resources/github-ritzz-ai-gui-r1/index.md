@@ -2,7 +2,7 @@
 
 GUI action-model training and evaluation code with verifiable rewards, plus linked reinforcement-learning data and checkpoints.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-ritzz-ai-gui-r1/
+- Catalog URL: https://awesomecua.com/resources/github-ritzz-ai-gui-r1/
 - Original source: https://github.com/ritzz-ai/GUI-R1
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ GUI action-model training and evaluation code with verifiable rewards, plus link
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-ritzz-ai-gui-r1/record.json
+- Record JSON: https://awesomecua.com/resources/github-ritzz-ai-gui-r1/record.json
 
 ## License declarations
 

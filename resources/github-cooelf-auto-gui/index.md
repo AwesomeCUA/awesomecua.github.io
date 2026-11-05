@@ -2,7 +2,7 @@
 
 Screenshot-based mobile agent implementation with training and inference code for chain-of-action prediction.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-cooelf-auto-gui/
+- Catalog URL: https://awesomecua.com/resources/github-cooelf-auto-gui/
 - Original source: https://github.com/cooelf/Auto-GUI
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Screenshot-based mobile agent implementation with training and inference code fo
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-cooelf-auto-gui/record.json
+- Record JSON: https://awesomecua.com/resources/github-cooelf-auto-gui/record.json
 
 ## License declarations
 

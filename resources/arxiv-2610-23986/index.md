@@ -2,7 +2,7 @@
 
 Benchmarks agents creating editable Blender projects through shell, Python and MCP tools, judging delivered scenes with multi-view renders, task-specific rubrics and visual-quality ratings.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-23986/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-23986/
 - Original source: https://arxiv.org/abs/2610.23986
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Benchmarks agents creating editable Blender projects through shell, Python and M
 
 The evaluated agents use Linux shell/Python/MCP tools and can inspect viewport screenshots; graphical CUA control and Windows/macOS are future work. Each agent is run once per task, with different Codex/Claude Code harnesses across systems. Scores combine weighted rubric satisfaction and model-rated visual quality. Tool counts include unsuccessful calls and do not establish matched compute or successful actions. No independent reproduction or artifact-release verification.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-23986/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-23986/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinyu Fang, Yuchi Wang, Weihao Yu, Rongyao Fang, Zhaohai Li, Zhixun Li, Tianchen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-23986/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-23986/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-23986/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-23986/citation.csl.json
 
 ## Recorded arXiv snapshot
 

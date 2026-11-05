@@ -2,7 +2,7 @@
 
 EmbeWebAgent embeds agent access into existing web applications through frontend observations and a page-specific function registry. Its workflow combines GUI primitives, composite actions and MCP tools, demonstrated in a live interface.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-14865/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-14865/
 - Original source: https://arxiv.org/abs/2602.14865
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ EmbeWebAgent embeds agent access into existing web applications through frontend
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14865/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-14865/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chenyang Ma, Clyde Fare, Matthew Wilson, Dave Braines
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14865/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14865/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-14865/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-14865/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-13352/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-13352/
 - Original source: https://arxiv.org/abs/2406.13352
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentDojo: A Dynamic Environment to Evaluate Prompt Inj
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-13352/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-13352/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Edoardo Debenedetti, Jie Zhang, Mislav Balunović, Luca Beurer-Kellner, Marc Fis
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-13352/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-13352/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-13352/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-13352/citation.csl.json
 
 ## Recorded arXiv snapshot
 

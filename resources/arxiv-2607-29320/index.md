@@ -2,7 +2,7 @@
 
 MAGA distills specialized GUI agents into one policy by allocating supervision according to structured-action correctness rather than treating all response tokens equally. A training-only teacher hint supports fusion across mobile, web and desktop settings without changing student inputs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-29320/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-29320/
 - Original source: https://arxiv.org/abs/2607.29320
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MAGA distills specialized GUI agents into one policy by allocating supervision a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-29320/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-29320/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hang Yan, Zhangxuan GU, Beitong Zhou, Jiaxuan Chen, Runze Li, Yusong Hu, Shuheng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-29320/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-29320/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-29320/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-29320/citation.csl.json
 
 ## Recorded arXiv snapshot
 

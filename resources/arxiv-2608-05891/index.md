@@ -2,7 +2,7 @@
 
 AppDeltaWorld predicts executable code updates for the next mobile UI state, using transition-constrained retrieval and rendered visual assets. It evaluates reconstruction fidelity separately from policy training and adaptation using generated environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-05891/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-05891/
 - Original source: https://arxiv.org/abs/2608.05891
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AppDeltaWorld predicts executable code updates for the next mobile UI state, usi
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-05891/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-05891/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weikai Xu, Yunren Feng, Haoxiang Lei, Kun Huang, Yuxuan Liu, Kang Zhao, Xiaolin 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-05891/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-05891/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-05891/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-05891/citation.csl.json
 
 ## Recorded arXiv snapshot
 

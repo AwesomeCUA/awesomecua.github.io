@@ -2,7 +2,7 @@
 
 Studies in-context defenses for computer agents exposed to misleading pop-ups and other environmental instructions. It examines defensive reasoning before action planning and how a small set of examples changes resistance to these attacks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-09241/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-09241/
 - Original source: https://arxiv.org/abs/2503.09241
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies in-context defenses for computer agents exposed to misleading pop-ups an
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-09241/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-09241/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pei Yang, Hai Ci, Mike Zheng Shou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-09241/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-09241/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-09241/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-09241/citation.csl.json
 
 ## Recorded arXiv snapshot
 

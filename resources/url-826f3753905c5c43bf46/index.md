@@ -2,7 +2,7 @@
 
 Seg2Click checkpoint pairing a 9B Qwen3.5 backbone with a decoder for valid GUI click regions.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-826f3753905c5c43bf46/
+- Catalog URL: https://awesomecua.com/resources/url-826f3753905c5c43bf46/
 - Original source: https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Seg2Click checkpoint pairing a 9B Qwen3.5 backbone with a decoder for valid GUI 
 
 The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
 
-- Record JSON: https://awesomecua.github.io/resources/url-826f3753905c5c43bf46/record.json
+- Record JSON: https://awesomecua.com/resources/url-826f3753905c5c43bf46/record.json
 
 ## License declarations
 

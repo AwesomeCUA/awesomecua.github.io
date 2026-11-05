@@ -2,7 +2,7 @@
 
 Drag-grounding training and evaluation data pairing each screenshot instruction with start and end boxes, across text highlighting, spreadsheet cells, slide resizing and sliders.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-b854ff53e497da3a5ad8/
+- Catalog URL: https://awesomecua.com/resources/url-b854ff53e497da3a5ad8/
 - Original source: https://huggingface.co/datasets/Hcompany/DragOn
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Drag-grounding training and evaluation data pairing each screenshot instruction 
 
 The card cites a workshop paper titled "DragOn: A Drag-Grounding Benchmark and Training Dataset for GUI Agents" without an arXiv link. arXiv 2606.06322 has a different title, so no paper relation is recorded.
 
-- Record JSON: https://awesomecua.github.io/resources/url-b854ff53e497da3a5ad8/record.json
+- Record JSON: https://awesomecua.com/resources/url-b854ff53e497da3a5ad8/record.json
 
 ## License declarations
 

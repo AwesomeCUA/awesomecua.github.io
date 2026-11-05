@@ -2,7 +2,7 @@
 
 Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-nottelabs-notte/
+- Catalog URL: https://awesomecua.com/resources/github-nottelabs-notte/
 - Original source: https://github.com/nottelabs/notte
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-nottelabs-notte/record.json
+- Record JSON: https://awesomecua.com/resources/github-nottelabs-notte/record.json
 
 ## License declarations
 

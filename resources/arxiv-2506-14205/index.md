@@ -2,7 +2,7 @@
 
 AgentSynth composes easily generated subtasks into longer computer-use tasks and trajectories with adjustable difficulty. Its evaluation uses the number of subtasks to probe how agent success changes as task complexity grows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-14205/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-14205/
 - Original source: https://arxiv.org/abs/2506.14205
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AgentSynth composes easily generated subtasks into longer computer-use tasks and
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-14205/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-14205/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingxu Xie, Dylan Xu, Xuandong Zhao, Dawn Song
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-14205/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-14205/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-14205/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-14205/citation.csl.json
 
 ## Recorded arXiv snapshot
 

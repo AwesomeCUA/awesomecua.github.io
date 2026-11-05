@@ -2,7 +2,7 @@
 
 PC Agent-E augments 312 human computer-use trajectories with alternative action decisions synthesized by Claude 3.7 Sonnet. It studies training with this combination and introduces WindowsAgentArena-V2 as an updated evaluation benchmark.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-13909/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-13909/
 - Original source: https://arxiv.org/abs/2505.13909
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PC Agent-E augments 312 human computer-use trajectories with alternative action 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-13909/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-13909/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yanheng He, Jiahe Jin, Pengfei Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-13909/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-13909/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-13909/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-13909/citation.csl.json
 
 ## Recorded arXiv snapshot
 

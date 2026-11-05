@@ -2,7 +2,7 @@
 
 150 client-side web challenges in five capability domains, built to be easy for humans but hard for browsing agents, each revealing a password when solved.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-convergence-ai-webgames/
+- Catalog URL: https://awesomecua.com/resources/github-convergence-ai-webgames/
 - Original source: https://github.com/convergence-ai/webgames
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-convergence-ai-webgames/record.json
+- Record JSON: https://awesomecua.com/resources/github-convergence-ai-webgames/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Uses an LLM judge to evaluate and filter synthetic GUI interaction trajectories for training a compact vision-language agent. OSWorld experiments assess the policy designed for local execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-03095/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-03095/
 - Original source: https://arxiv.org/abs/2506.03095
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses an LLM judge to evaluate and filter synthetic GUI interaction trajectories 
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-03095/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-03095/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Man Luo, David Cobbley, Xin Su, Shachar Rosenman, Vasudev Lal, Shao-Yen Tseng, P
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-03095/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-03095/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-03095/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-03095/citation.csl.json
 
 ## Recorded arXiv snapshot
 

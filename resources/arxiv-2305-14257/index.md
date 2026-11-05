@@ -2,7 +2,7 @@
 
 Separates web navigation prompting into a SUMMARIZER that extracts action-relevant observations and an ACTOR that chooses the next action from the condensed context.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2305-14257/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2305-14257/
 - Original source: https://arxiv.org/abs/2305.14257
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Separates web navigation prompting into a SUMMARIZER that extracts action-releva
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-14257/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2305-14257/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Abishek Sridhar, Robert Lo, Frank F. Xu, Hao Zhu, Shuyan Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-14257/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-14257/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2305-14257/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2305-14257/citation.csl.json
 
 ## Recorded arXiv snapshot
 

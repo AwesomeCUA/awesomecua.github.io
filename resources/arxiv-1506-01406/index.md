@@ -2,7 +2,7 @@
 
 Bibliographic record for M-Flash: Fast Billion-scale Graph Computation Using a Bimodal Block Processing Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1506-01406/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1506-01406/
 - Original source: https://arxiv.org/abs/1506.01406
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for M-Flash: Fast Billion-scale Graph Computation Using a B
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1506-01406/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1506-01406/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hugo Gualdron, Robson Cordeiro, Jose Rodrigues-Jr, Duen Chau, Minsuk Kahng, U Ka
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1506-01406/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1506-01406/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1506-01406/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1506-01406/citation.csl.json
 
 ## Recorded arXiv snapshot
 

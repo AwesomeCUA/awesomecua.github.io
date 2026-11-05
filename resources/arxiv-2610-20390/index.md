@@ -2,7 +2,7 @@
 
 Introduces STP-GUI, which selects spatially coherent screenshot windows conditioned on the instruction to reduce visual tokens while retaining useful interface structure.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-20390/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-20390/
 - Original source: https://arxiv.org/abs/2610.20390
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces STP-GUI, which selects spatially coherent screenshot windows conditio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-20390/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-20390/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuo Wang, Sifan Zhou, Xiaobo Wang, Tianyu Fu, Chenxu Zhao, Anyang Su, Hanning W
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-20390/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-20390/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-20390/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-20390/citation.csl.json
 
 ## Recorded arXiv snapshot
 

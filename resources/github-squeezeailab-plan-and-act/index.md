@@ -2,7 +2,7 @@
 
 A web-agent framework that separates high-level planning from action execution, with replanning and synthetic planner-data generation components.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-squeezeailab-plan-and-act/
+- Catalog URL: https://awesomecua.com/resources/github-squeezeailab-plan-and-act/
 - Original source: https://github.com/SqueezeAILab/plan-and-act
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ A web-agent framework that separates high-level planning from action execution, 
 
 Runnable entry points, framework modules and synthetic-data tooling are published. The repository code declares MIT; separate model and dataset cards have their own declarations. Its setup targets WebArena-Lite and requires that external environment.
 
-- Record JSON: https://awesomecua.github.io/resources/github-squeezeailab-plan-and-act/record.json
+- Record JSON: https://awesomecua.com/resources/github-squeezeailab-plan-and-act/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 OS-Atlas base checkpoint fine-tuned from Qwen2-VL-7B-Instruct, using the standard Qwen2-VL architecture in Transformers with about 8.3B BF16 parameters.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-82a30f45d9e855f423c7/
+- Catalog URL: https://awesomecua.com/resources/url-82a30f45d9e855f423c7/
 - Original source: https://huggingface.co/OS-Copilot/OS-Atlas-Base-7B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ OS-Atlas base checkpoint fine-tuned from Qwen2-VL-7B-Instruct, using the standar
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-82a30f45d9e855f423c7/record.json
+- Record JSON: https://awesomecua.com/resources/url-82a30f45d9e855f423c7/record.json
 
 ## License declarations
 

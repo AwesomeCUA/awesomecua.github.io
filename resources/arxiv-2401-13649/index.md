@@ -2,7 +2,7 @@
 
 Introduces visually grounded website tasks for evaluating multimodal agents that must interpret both images and text.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-13649/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-13649/
 - Original source: https://arxiv.org/abs/2401.13649
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces visually grounded website tasks for evaluating multimodal agents that
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-13649/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-13649/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-13649/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-13649/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-13649/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-13649/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huan
 - Authors: Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, Daniel Fried
 - Publication date (recorded precision): 2024-08
 - Publication source: https://aclanthology.org/2024.acl-long.50/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2401-13649/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-13649/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2401-13649/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2401-13649/publication-citation.csl.json
 - venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 881-905

@@ -2,7 +2,7 @@
 
 Bibliographic record for Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-16930/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-16930/
 - Original source: https://arxiv.org/abs/2602.16930
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Say It My Way: Exploring Control in Conversational Visu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-16930/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-16930/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Farnaz Zamiri Zeraati, Yang Trista Cao, Yuehan Qiao, Hal Daumé, Hernisa Kacorri
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-16930/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-16930/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-16930/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-16930/citation.csl.json
 
 ## Recorded arXiv snapshot
 

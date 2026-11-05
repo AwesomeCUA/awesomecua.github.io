@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with Simular computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-simular/
+- Catalog URL: https://awesomecua.com/resources/organization-simular/
 - Original source: https://www.simular.ai/
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with Simular computer-use or browser autom
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-simular/record.json
+- Record JSON: https://awesomecua.com/resources/organization-simular/record.json
 
 ## License declarations
 

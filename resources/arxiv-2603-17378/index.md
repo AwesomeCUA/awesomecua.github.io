@@ -2,7 +2,7 @@
 
 Bibliographic record for Efficient Exploration at Scale. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-17378/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-17378/
 - Original source: https://arxiv.org/abs/2603.17378
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Efficient Exploration at Scale. Title, authors and date
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-17378/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-17378/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Seyed Mohammad Asghari, Chris Chute, Vikranth Dwaracherla, Xiuyuan Lu, Mehdi Jaf
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-17378/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-17378/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-17378/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-17378/citation.csl.json
 
 ## Recorded arXiv snapshot
 

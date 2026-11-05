@@ -2,7 +2,7 @@
 
 Combines information-sensitive image cropping with a learning loop between element description and grounding for complex interface understanding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-10342/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-10342/
 - Original source: https://arxiv.org/abs/2412.10342
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines information-sensitive image cropping with a learning loop between eleme
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-10342/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-10342/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhiqi Ge, Juncheng Li, Xinglei Pang, Minghe Gao, Kaihang Pan, Wang Lin, Hao Fei,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-10342/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-10342/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-10342/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-10342/citation.csl.json
 
 ## Recorded arXiv snapshot
 

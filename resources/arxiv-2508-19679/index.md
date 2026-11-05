@@ -2,7 +2,7 @@
 
 InquireMobile trains mobile agents to seek human confirmation at critical decisions using staged reinforcement fine-tuning and pre-action reasoning. InquireBench evaluates safe interaction and proactive inquiry, distinguishing asking for help from completing the underlying task.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-19679/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-19679/
 - Original source: https://arxiv.org/abs/2508.19679
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ InquireMobile trains mobile agents to seek human confirmation at critical decisi
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-19679/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-19679/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qihang Ai, Pi Bu, Yue Cao, Yingyao Wang, Jihao Gu, Jingxuan Xing, Zekun Zhu, Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-19679/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-19679/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-19679/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-19679/citation.csl.json
 
 ## Recorded arXiv snapshot
 

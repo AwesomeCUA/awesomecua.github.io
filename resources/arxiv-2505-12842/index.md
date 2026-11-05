@@ -2,7 +2,7 @@
 
 GEM detects instructions outside a GUI agent’s capabilities by modeling distances in its input-embedding space with a Gaussian mixture. Experiments across mobile, computer and browser data also examine selective escalation to a cloud model when an input is detected as unfamiliar.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-12842/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-12842/
 - Original source: https://arxiv.org/abs/2505.12842
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GEM detects instructions outside a GUI agent’s capabilities by modeling distan
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12842/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-12842/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zheng Wu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12842/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12842/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-12842/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-12842/citation.csl.json
 
 ## Recorded arXiv snapshot
 

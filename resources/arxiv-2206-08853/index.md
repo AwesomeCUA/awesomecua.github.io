@@ -2,7 +2,7 @@
 
 Bibliographic record for MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2206-08853/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2206-08853/
 - Original source: https://arxiv.org/abs/2206.08853
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MineDojo: Building Open-Ended Embodied Agents with Inte
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2206-08853/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2206-08853/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2206-08853/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2206-08853/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2206-08853/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2206-08853/citation.csl.json
 
 ## Recorded arXiv snapshot
 

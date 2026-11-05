@@ -2,7 +2,7 @@
 
 Introduces a Declarative Model Interface that maps existing GUIs to access, state and observation primitives while handling low-level interactions. Evaluation uses Word, PowerPoint and Excel on Windows with a GUI-agent baseline.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-04607/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-04607/
 - Original source: https://arxiv.org/abs/2510.04607
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a Declarative Model Interface that maps existing GUIs to access, stat
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-04607/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-04607/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuan Wang, Mingyu Li, Haibo Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-04607/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-04607/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-04607/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-04607/citation.csl.json
 
 ## Recorded arXiv snapshot
 

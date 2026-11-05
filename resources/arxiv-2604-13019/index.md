@@ -2,7 +2,7 @@
 
 Studies iterative cursor grounding in dense code-editor interfaces, using visual feedback from earlier attempts to correct displacement. PrecisionCUA evaluates this closed-loop process across multiple model families on coding-interface tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-13019/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-13019/
 - Original source: https://arxiv.org/abs/2604.13019
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies iterative cursor grounding in dense code-editor interfaces, using visual
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13019/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-13019/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Himangi Mittal, Gaurav Mittal, Nelson Daniel Troncoso, Yu Hu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13019/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13019/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-13019/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-13019/citation.csl.json
 
 ## Recorded arXiv snapshot
 

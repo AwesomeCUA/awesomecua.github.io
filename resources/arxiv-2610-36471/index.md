@@ -2,7 +2,7 @@
 
 Bibliographic record for When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-36471/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-36471/
 - Original source: https://arxiv.org/abs/2610.36471
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for When to Intervene? An Empirical Study of Errors and Sel
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-36471/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-36471/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chiming Duan, Tong Jia, Yingxi Chen, Minghua He, Lingzhe Zhang, Ying Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-36471/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-36471/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-36471/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-36471/citation.csl.json
 
 ## Recorded arXiv snapshot
 

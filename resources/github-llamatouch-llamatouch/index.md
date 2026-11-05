@@ -2,7 +2,7 @@
 
 Mobile UI task evaluation using application state information.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-llamatouch-llamatouch/
+- Catalog URL: https://awesomecua.com/resources/github-llamatouch-llamatouch/
 - Original source: https://github.com/LlamaTouch/LlamaTouch
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Mobile UI task evaluation using application state information.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-llamatouch-llamatouch/record.json
+- Record JSON: https://awesomecua.com/resources/github-llamatouch-llamatouch/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Agent evaluation suite with containerized tasks and a function-calling interface, including operating-system and shopping environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-thudm-agentbench/
+- Catalog URL: https://awesomecua.com/resources/github-thudm-agentbench/
 - Original source: https://github.com/THUDM/AgentBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Agent evaluation suite with containerized tasks and a function-calling interface
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-thudm-agentbench/record.json
+- Record JSON: https://awesomecua.com/resources/github-thudm-agentbench/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Introduces StateAct, a code-first computer-use harness that manipulates program state directly and delegates screenshot-and-click subgoals to a GUI agent. An independent completion gate checks saved outputs, while fresh subagents handle subgoals to limit accumulated context.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-22798/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-22798/
 - Original source: https://arxiv.org/abs/2607.22798
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces StateAct, a code-first computer-use harness that manipulates program 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-22798/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-22798/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yan Yang, Xiangru Jian, Ziyang Luo, Zirui Zhao, Yutong Dai, Ziji Shi, Hanshu Yan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-22798/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-22798/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-22798/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-22798/citation.csl.json
 
 ## Recorded arXiv snapshot
 

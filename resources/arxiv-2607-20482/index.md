@@ -2,7 +2,7 @@
 
 Bibliographic record for PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-20482/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-20482/
 - Original source: https://arxiv.org/abs/2607.20482
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PersonaTrail: Benchmarking Personalized Web Agents thro
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-20482/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-20482/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Seungbin Yang, Chaewoon Ki, Dohyun Lee, Jaegul Choo, ChaeHun Park
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-20482/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-20482/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-20482/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-20482/citation.csl.json
 
 ## Recorded arXiv snapshot
 

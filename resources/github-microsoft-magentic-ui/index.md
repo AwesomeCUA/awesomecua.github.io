@@ -2,7 +2,7 @@
 
 Microsoft agent application combining orchestration with browser interaction; successor to Magentic UI.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-magentic-ui/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-magentic-ui/
 - Original source: https://github.com/microsoft/magentic-ui
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Microsoft agent application combining orchestration with browser interaction; su
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-magentic-ui/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-magentic-ui/record.json
 
 ## License declarations
 

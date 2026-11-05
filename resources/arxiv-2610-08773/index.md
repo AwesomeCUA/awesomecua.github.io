@@ -2,7 +2,7 @@
 
 Presents AdvSim2Real, which jointly adapts web-task curricula, prompt-injection adversaries, and agent policies inside a frozen web world model. It evaluates robustness against an unseen adversary and transfer from simulated interaction to a real browser.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-08773/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-08773/
 - Original source: https://arxiv.org/abs/2610.08773
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents AdvSim2Real, which jointly adapts web-task curricula, prompt-injection 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-08773/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-08773/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomm
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-08773/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-08773/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-08773/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-08773/citation.csl.json
 
 ## Recorded arXiv snapshot
 

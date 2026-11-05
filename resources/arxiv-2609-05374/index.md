@@ -2,7 +2,7 @@
 
 Turns desktop applications into reproducible GUI-and-CLI environments and generates verified hybrid trajectories for agent post-training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-05374/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-05374/
 - Original source: https://arxiv.org/abs/2609.05374
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Turns desktop applications into reproducible GUI-and-CLI environments and genera
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-05374/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-05374/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoting Shi, Wenhao Wang, Weicheng Fang, Yaozhong Liang, Tian Jin, Pengxiang Zha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-05374/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-05374/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-05374/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-05374/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 BrowserGym-based benchmark for evaluating the safety and policy compliance of enterprise web agents across six trustworthiness risk dimensions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-segev-shlomov-st-webagentbench/
+- Catalog URL: https://awesomecua.com/resources/github-segev-shlomov-st-webagentbench/
 - Original source: https://github.com/segev-shlomov/ST-WebAgentBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ BrowserGym-based benchmark for evaluating the safety and policy compliance of en
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-segev-shlomov-st-webagentbench/record.json
+- Record JSON: https://awesomecua.com/resources/github-segev-shlomov-st-webagentbench/record.json
 
 ## License declarations
 

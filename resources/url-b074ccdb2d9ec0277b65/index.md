@@ -2,7 +2,7 @@
 
 Hosted agent combining browser interaction, tools, and computer-based tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-b074ccdb2d9ec0277b65/
+- Catalog URL: https://awesomecua.com/resources/url-b074ccdb2d9ec0277b65/
 - Original source: https://openai.com/index/introducing-chatgpt-agent/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Hosted agent combining browser interaction, tools, and computer-based tasks.
 
 The launch page identifies itself as outdated. This entry records the product introduction, not current availability, limits, or pricing.
 
-- Record JSON: https://awesomecua.github.io/resources/url-b074ccdb2d9ec0277b65/record.json
+- Record JSON: https://awesomecua.com/resources/url-b074ccdb2d9ec0277b65/record.json
 
 ## License declarations
 

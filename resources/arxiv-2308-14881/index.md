@@ -2,7 +2,7 @@
 
 Bibliographic record for Universal quantum computation using atoms in cross-cavity systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2308-14881/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2308-14881/
 - Original source: https://arxiv.org/abs/2308.14881
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Universal quantum computation using atoms in cross-cavi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-14881/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2308-14881/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Luiz O. R. Solak, Daniel Z. Rossatto, Celso J. Villas-Boas
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-14881/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-14881/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2308-14881/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2308-14881/citation.csl.json
 
 ## Recorded arXiv snapshot
 

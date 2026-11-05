@@ -2,7 +2,7 @@
 
 Proposes computer-using personal agents connected to user-controlled data repositories, discussing privacy, interoperability, and collaborative tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-15515/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-15515/
 - Original source: https://arxiv.org/abs/2503.15515
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes computer-using personal agents connected to user-controlled data reposi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-15515/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-15515/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Piero A. Bonatti, John Domingue, Anna Lisa Gentile, Andreas Harth, Olaf Hartig, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-15515/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-15515/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-15515/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-15515/citation.csl.json
 
 ## Recorded arXiv snapshot
 

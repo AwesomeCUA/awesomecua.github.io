@@ -2,7 +2,7 @@
 
 ShareMem consolidates reusable experience across users while keeping preference retrieval user-bound; its web evaluation predicts target elements and actions on recorded Mind2Web states.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-32511/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-32511/
 - Original source: https://arxiv.org/abs/2609.32511
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ShareMem consolidates reusable experience across users while keeping preference 
 
 Main Mind2Web evaluation uses 252 recorded tasks assigned to 20 simulated users, frozen demonstration-derived memory and task-macro step metrics; it is not a live-browser completion test. The main split withholds same-site local experience, and sharing gains shrink when local coverage rises. Mind2Web has no preference channel; preference claims come from separate service and coding settings. User-bound retrieval is not a demonstrated privacy or security guarantee. Selected sections were source-read; no independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32511/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-32511/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jinming Hu, Haodong Zhao, Qi Jia, Die Chen, Tianhang Zhao, Sufeng Duan, Gongshen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32511/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32511/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-32511/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-32511/citation.csl.json
 
 ## Recorded arXiv snapshot
 

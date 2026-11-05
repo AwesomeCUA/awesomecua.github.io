@@ -2,7 +2,7 @@
 
 GUI-GENESIS reconstructs applications as lightweight web environments with executable assertions for reward computation. It evaluates the cost of these training environments and transfer from synthetic interaction training to held-out real tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-14093/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-14093/
 - Original source: https://arxiv.org/abs/2602.14093
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-GENESIS reconstructs applications as lightweight web environments with execu
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14093/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-14093/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuan Cao, Dezhi Ran, Mengzhou Wu, Yuzhe Guo, Xin Chen, Ang Li, Gang Cao, Gong Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14093/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14093/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-14093/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-14093/citation.csl.json
 
 ## Recorded arXiv snapshot
 

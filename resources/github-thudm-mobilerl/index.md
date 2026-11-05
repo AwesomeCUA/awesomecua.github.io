@@ -2,7 +2,7 @@
 
 Online agentic RL framework for mobile GUI agents built around the difficulty-adaptive ADAGRPO algorithm, with Dockerized AndroidWorld and AndroidLab evaluation and a MobileRL-9B checkpoint.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-thudm-mobilerl/
+- Catalog URL: https://awesomecua.com/resources/github-thudm-mobilerl/
 - Original source: https://github.com/THUDM/MobileRL
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Online agentic RL framework for mobile GUI agents built around the difficulty-ad
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-thudm-mobilerl/record.json
+- Record JSON: https://awesomecua.com/resources/github-thudm-mobilerl/record.json
 
 ## License declarations
 

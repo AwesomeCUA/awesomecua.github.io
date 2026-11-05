@@ -2,7 +2,7 @@
 
 Introduces question answering over individual screens, multiple web pages, and navigation traces to test information synthesis across views.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-13711/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-13711/
 - Original source: https://arxiv.org/abs/2409.13711
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces question answering over individual screens, multiple web pages, and n
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-13711/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-13711/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Maria Wang, Srinivas Sunkara, Gilles Baechler, Jason Lin, Yun Zhu, Fedir Zubach,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-13711/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-13711/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-13711/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-13711/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for ParamMem: Augmenting Language Agents with Parametric Reflective Memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-23320/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-23320/
 - Original source: https://arxiv.org/abs/2602.23320
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ParamMem: Augmenting Language Agents with Parametric Re
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-23320/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-23320/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianjun Yao, Yongqiang Chen, Yujia Zheng, Pan Li, Zhiqiang Shen, Kun Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-23320/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-23320/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-23320/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-23320/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Generates mobile GUI interactions from natural-language test requirements and checks application behavior against those requirements.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-bz-lab-auitestagent/
+- Catalog URL: https://awesomecua.com/resources/github-bz-lab-auitestagent/
 - Original source: https://github.com/bz-lab/AUITestAgent
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Generates mobile GUI interactions from natural-language test requirements and ch
 
 Its README describes mobile apps without naming an operating system.
 
-- Record JSON: https://awesomecua.github.io/resources/github-bz-lab-auitestagent/record.json
+- Record JSON: https://awesomecua.com/resources/github-bz-lab-auitestagent/record.json
 
 ## License declarations
 

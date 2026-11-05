@@ -2,7 +2,7 @@
 
 Research scripts that generate screen descriptions, action reasoning and expected outcomes, then predict Android GUI actions using the resulting Chain-of-Action-Thought context.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-imnearth-coat/
+- Catalog URL: https://awesomecua.com/resources/github-imnearth-coat/
 - Original source: https://github.com/IMNearth/CoAT
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Research scripts that generate screen descriptions, action reasoning and expecte
 
 The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with API-backed model configuration. This verifies a released annotation/prediction implementation, not a live phone controller or a released checkpoint. AiTZ screens/annotations are linked through external Drive/Baidu bundles whose complete download inventory was not verified here. The README has an Apache-2.0 badge, but no license file or explicit component grant is present; code/data/weight rights remain unestablished.
 
-- Record JSON: https://awesomecua.github.io/resources/github-imnearth-coat/record.json
+- Record JSON: https://awesomecua.com/resources/github-imnearth-coat/record.json
 
 ## License declarations
 

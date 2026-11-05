@@ -2,7 +2,7 @@
 
 Separates textual and iconic UI elements and iteratively focuses visual regions to refine grounding without additional model training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-00008/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-00008/
 - Original source: https://arxiv.org/abs/2507.00008
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Separates textual and iconic UI elements and iteratively focuses visual regions 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-00008/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-00008/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hang Wu, Hongkai Chen, Yujun Cai, Chang Liu, Qingwen Ye, Ming-Hsuan Yang, Yiwei 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-00008/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-00008/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-00008/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-00008/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 LUMOS converts native accessibility metadata and browser UI structure into semantic interface blueprints with stable element identifiers and available actions. It combines live pointer-to-element grounding with an observe-act loop constrained to visible-UI primitives.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-30697/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-30697/
 - Original source: https://arxiv.org/abs/2606.30697
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LUMOS converts native accessibility metadata and browser UI structure into seman
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-30697/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-30697/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yogeswar Reddy Thota
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-30697/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-30697/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-30697/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-30697/citation.csl.json
 
 ## Recorded arXiv snapshot
 

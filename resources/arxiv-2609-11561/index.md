@@ -2,7 +2,7 @@
 
 Bibliographic record for Memory as Plans: World-Action Modeling with Memory-Grounded Planning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-11561/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-11561/
 - Original source: https://arxiv.org/abs/2609.11561
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Memory as Plans: World-Action Modeling with Memory-Grou
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-11561/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-11561/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sizhe Zhao, Haozhe Xie, Weiyu Zhao, Chenchu Zhang, Huan Wang, Chenyang Wang, Qin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-11561/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-11561/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-11561/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-11561/citation.csl.json
 
 ## Recorded arXiv snapshot
 

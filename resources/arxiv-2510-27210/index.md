@@ -2,7 +2,7 @@
 
 Combines structured progress-and-decision reasoning with history summarization to improve cross-domain generalization in GUI navigation agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-27210/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-27210/
 - Original source: https://arxiv.org/abs/2510.27210
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines structured progress-and-decision reasoning with history summarization t
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-27210/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-27210/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tao Liu, Chongyu Wang, Rongjie Li, Yingchen Yu, Xuming He, Bai Song
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-27210/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-27210/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-27210/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-27210/citation.csl.json
 
 ## Recorded arXiv snapshot
 

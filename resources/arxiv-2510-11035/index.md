@@ -2,7 +2,7 @@
 
 Introduces SusBench, an online benchmark that inserts dark-pattern designs into consumer websites for agent evaluation. A human study checks the realism of the interventions, and agent trials compare susceptibility across pattern types.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-11035/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-11035/
 - Original source: https://arxiv.org/abs/2510.11035
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SusBench, an online benchmark that inserts dark-pattern designs into 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-11035/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-11035/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Longjie Guo, Chenjie Yuan, Mingyuan Zhong, Robert Wolfe, Ruican Zhong, Yue Xu, B
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-11035/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-11035/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-11035/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-11035/citation.csl.json
 
 ## Recorded arXiv snapshot
 

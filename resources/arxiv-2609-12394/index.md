@@ -2,7 +2,7 @@
 
 Describes a mobile-agent training pipeline centered on real-device rollouts, recovery of useful supervision from failures, and evolving evaluation tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-12394/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-12394/
 - Original source: https://arxiv.org/abs/2609.12394
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes a mobile-agent training pipeline centered on real-device rollouts, rec
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-12394/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-12394/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tong Ye, Kunyang Han, Guozhi Wang, Longqiang Luo, Zhifeng Ding, Yongxiang Zhang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-12394/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-12394/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-12394/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-12394/citation.csl.json
 
 ## Recorded arXiv snapshot
 

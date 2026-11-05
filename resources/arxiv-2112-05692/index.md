@@ -2,7 +2,7 @@
 
 The Versatile UI Transformer jointly models interface screenshots, structure, and language for five UI tasks. Its encoder supports element detection when structural metadata is absent, while an autoregressive component handles UI question answering and command grounding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2112-05692/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2112-05692/
 - Original source: https://arxiv.org/abs/2112.05692
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ The Versatile UI Transformer jointly models interface screenshots, structure, an
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2112-05692/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2112-05692/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yang Li, Gang Li, Xin Zhou, Mostafa Dehghani, Alexey Gritsenko
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2112-05692/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2112-05692/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2112-05692/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2112-05692/citation.csl.json
 
 ## Recorded arXiv snapshot
 

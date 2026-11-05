@@ -2,7 +2,7 @@
 
 MementoGUI learns a controller for selecting, compressing and retrieving textual and region-level visual memories while leaving the GUI-agent backbone fixed. It also converts computer-use traces into controller training data and evaluates semantic actions, progress and memory consistency on long-horizon tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-18652/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-18652/
 - Original source: https://arxiv.org/abs/2605.18652
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MementoGUI learns a controller for selecting, compressing and retrieving textual
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-18652/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-18652/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyun Zeng, Hang Hua, Bocheng Zou, Mu Cai, Rogerio Feris, Jiebo Luo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-18652/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-18652/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-18652/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-18652/citation.csl.json
 
 ## Recorded arXiv snapshot
 

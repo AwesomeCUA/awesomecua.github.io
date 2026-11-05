@@ -2,7 +2,7 @@
 
 GUI-Eyes trains GUI grounders to decide when and how to use visual tools such as crops and zooms. Its coarse-to-fine policy uses dense spatial rewards based on location proximity and region overlap, with evaluation on ScreenSpot-Pro.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-09770/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-09770/
 - Original source: https://arxiv.org/abs/2601.09770
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-Eyes trains GUI grounders to decide when and how to use visual tools such as
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-09770/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-09770/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chen Chen, Jiawei Shao, Dakuan Lu, Haoyi Hu, Xiangcheng Liu, Hantao Yao, Wu Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-09770/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-09770/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-09770/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-09770/citation.csl.json
 
 ## Recorded arXiv snapshot
 

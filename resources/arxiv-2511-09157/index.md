@@ -2,7 +2,7 @@
 
 ProBench extends mobile GUI evaluation with tasks whose correctness depends on the interaction process as well as the final state. Its ProcessProvider supplies process information for assessing agent behavior and analyzing failure modes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-09157/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-09157/
 - Original source: https://arxiv.org/abs/2511.09157
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ProBench extends mobile GUI evaluation with tasks whose correctness depends on t
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-09157/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-09157/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Leyang Yang, Ziwei Wang, Xiaoxuan Tang, Sheng Zhou, Dajun Chen, Wei Jiang, Yong 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-09157/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-09157/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-09157/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-09157/citation.csl.json
 
 ## Recorded arXiv snapshot
 

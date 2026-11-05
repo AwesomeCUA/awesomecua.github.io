@@ -2,7 +2,7 @@
 
 Browser workflow automation that relies on vision LLMs and a swarm of agents instead of fixed XPath selectors, offered as a Playwright-compatible SDK and a no-code workflow builder.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-skyvern-ai-skyvern/
+- Catalog URL: https://awesomecua.com/resources/github-skyvern-ai-skyvern/
 - Original source: https://github.com/Skyvern-AI/skyvern
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Browser workflow automation that relies on vision LLMs and a swarm of agents ins
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-skyvern-ai-skyvern/record.json
+- Record JSON: https://awesomecua.com/resources/github-skyvern-ai-skyvern/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 UI-Oceanus converts autonomous GUI exploration and execution feedback into supervision for predicting future interface states. It compares forward and inverse objectives during continual pretraining and examines downstream offline and online navigation as synthetic data scales.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-02345/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-02345/
 - Original source: https://arxiv.org/abs/2604.02345
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UI-Oceanus converts autonomous GUI exploration and execution feedback into super
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-02345/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-02345/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mengzhou Wu, Yuzhe Guo, Yuan Cao, Haochuan Lu, Songhe Zhu, Pingzhe Qu, Xin Chen,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-02345/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-02345/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-02345/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-02345/citation.csl.json
 
 ## Recorded arXiv snapshot
 

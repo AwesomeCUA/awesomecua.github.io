@@ -2,7 +2,7 @@
 
 Introduces WebTestBench for end-to-end website testing, separating checklist generation from defect detection. Its WebTester baseline evaluates test coverage, detection and sustained interaction across web application categories.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-25226/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-25226/
 - Original source: https://arxiv.org/abs/2603.25226
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebTestBench for end-to-end website testing, separating checklist gen
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-25226/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-25226/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fanheng Kong, Jingyuan Zhang, Yang Yue, Chenxi Sun, Yang Tian, Shi Feng, Xiaocui
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-25226/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-25226/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-25226/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-25226/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 The Agent-Computer Observation Interface separates continuous perception from discrete computer actions using captured frames, audio transcription and persistent visual narration. DynaCU-Bench tests these components on dynamic browser tasks and static controls, with model-specific ablations showing that additional observations can also hurt.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-29472/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-29472/
 - Original source: https://arxiv.org/abs/2606.29472
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ The Agent-Computer Observation Interface separates continuous perception from di
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-29472/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-29472/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bojie Li, Noah Shi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-29472/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-29472/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-29472/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-29472/citation.csl.json
 
 ## Recorded arXiv snapshot
 

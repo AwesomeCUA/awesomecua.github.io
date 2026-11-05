@@ -2,7 +2,7 @@
 
 Bibliographic record for ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-41272/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-41272/
 - Original source: https://arxiv.org/abs/2610.41272
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ANGLER: Verifier-Grounded Benchmarking with an Adaptive
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-41272/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-41272/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yini Huang, Aiwen LU, Zhen Sun, Yi Han, Yuzhi Zhao, Jiaheng Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-41272/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-41272/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-41272/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-41272/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Uses rule-based action rewards and policy optimization to train GUI action prediction from a compact set of mobile tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-21620/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-21620/
 - Original source: https://arxiv.org/abs/2503.21620
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses rule-based action rewards and policy optimization to train GUI action predi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-21620/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-21620/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhengxi Lu, Yuxiang Chai, Yaxuan Guo, Xi Yin, Liang Liu, Hao Wang, Han Xiao, Shu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-21620/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-21620/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-21620/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-21620/citation.csl.json
 
 ## Recorded arXiv snapshot
 

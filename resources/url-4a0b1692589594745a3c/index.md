@@ -2,7 +2,7 @@
 
 A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and reflective reasoning to predict executable desktop actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-4a0b1692589594745a3c/
+- Catalog URL: https://awesomecua.com/resources/url-4a0b1692589594745a3c/
 - Original source: https://huggingface.co/xlangai/OpenCUA-72B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and 
 
 The former OpenCUA-72B-preview API redirects to the canonical xlangai/OpenCUA-72B repository. The public manifest lists 82 safetensors weight shards plus an index and custom model/tokenizer code. The card declares MIT for the released model and describes absolute coordinates after smart resizing. Weight files and remote code were not downloaded or executed.
 
-- Record JSON: https://awesomecua.github.io/resources/url-4a0b1692589594745a3c/record.json
+- Record JSON: https://awesomecua.com/resources/url-4a0b1692589594745a3c/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Presents MobiAgent, combining MobiMind agent models, the AgentRR acceleration framework, and MobiFlow evaluation. It also introduces an AI-assisted data-collection pipeline for mobile GUI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-00531/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-00531/
 - Original source: https://arxiv.org/abs/2509.00531
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents MobiAgent, combining MobiMind agent models, the AgentRR acceleration fr
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-00531/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-00531/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Cheng Zhang, Erhu Feng, Xi Zhao, Yisheng Zhao, Wangbo Gong, Jiahui Sun, Dong Du,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-00531/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-00531/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-00531/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-00531/citation.csl.json
 
 ## Recorded arXiv snapshot
 

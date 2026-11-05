@@ -2,7 +2,7 @@
 
 Introduces GSAR, which synthesizes GUI tasks and successful goal states, then annotates task-relevant interface elements as reward anchors. These anchors support offline trajectory verification and online policy training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-22847/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-22847/
 - Original source: https://arxiv.org/abs/2608.22847
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GSAR, which synthesizes GUI tasks and successful goal states, then an
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-22847/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-22847/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Long Zhang, Yuhan Chen, Chaoran Zhang, Wanxia Cao, Kun Huang, Pengzhi Gao, Wei L
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-22847/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-22847/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-22847/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-22847/citation.csl.json
 
 ## Recorded arXiv snapshot
 

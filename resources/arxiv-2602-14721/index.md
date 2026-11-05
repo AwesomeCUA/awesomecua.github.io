@@ -2,7 +2,7 @@
 
 Introduces WebWorld, an open-web simulator trained on interaction trajectories for generating agent training data and testing candidate actions. WebWorld-Bench evaluates simulated transitions, alongside downstream web-agent training experiments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-14721/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-14721/
 - Original source: https://arxiv.org/abs/2602.14721
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebWorld, an open-web simulator trained on interaction trajectories f
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14721/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-14721/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zikai Xiao, Jianhong Tu, Chuhang Zou, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14721/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14721/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-14721/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-14721/citation.csl.json
 
 ## Recorded arXiv snapshot
 

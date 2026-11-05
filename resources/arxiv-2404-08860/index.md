@@ -2,7 +2,7 @@
 
 Executes instructions from mobile how-to search results inside a controlled Android environment, then uses the observed success of those instructions to verify and rerank technical-support results.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-08860/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-08860/
 - Original source: https://arxiv.org/abs/2404.08860
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Executes instructions from mobile how-to search results inside a controlled Andr
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-08860/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-08860/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lei Ding, Jeshwanth Bheemanpally, Yi Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-08860/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-08860/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-08860/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-08860/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 GUI-Lens uses OCR and detected interface components as coordinate references while a general-purpose VLM selects progressively enlarged screenshot crops. Instruction-conditioned checks constrain the crop and click proposals before mapping the final location back to the original screen.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-03270/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-03270/
 - Original source: https://arxiv.org/abs/2608.03270
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-Lens uses OCR and detected interface components as coordinate references whi
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-03270/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-03270/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zichuan Fu, Shirong Wang, Wenlin Zhang, Guojing Li, Yimin Deng, Jingtong Gao, Ju
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-03270/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-03270/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-03270/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-03270/citation.csl.json
 
 ## Recorded arXiv snapshot
 

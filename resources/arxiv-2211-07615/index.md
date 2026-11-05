@@ -2,7 +2,7 @@
 
 Introduces multilingual smartphone instruction-following data and a pipeline that retrieves help instructions and maps them to UI actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2211-07615/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2211-07615/
 - Original source: https://arxiv.org/abs/2211.07615
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces multilingual smartphone instruction-following data and a pipeline tha
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2211-07615/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2211-07615/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sagar Gubbi Venkatesh, Partha Talukdar, Srini Narayanan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2211-07615/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2211-07615/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2211-07615/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2211-07615/citation.csl.json
 
 ## Recorded arXiv snapshot
 

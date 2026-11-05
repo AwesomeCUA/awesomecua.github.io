@@ -2,7 +2,7 @@
 
 Introduces CUA-HandCrafted, a browser-agent red-teaming benchmark that varies attack templates, tasks and system prompts. Its domain comparison and reproducibility audit caution against transferring browser-surface safety conclusions to coding agents or unreleased optimized injections.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-05233/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-05233/
 - Original source: https://arxiv.org/abs/2606.05233
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CUA-HandCrafted, a browser-agent red-teaming benchmark that varies at
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-05233/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-05233/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nicholas Saban
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-05233/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-05233/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-05233/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-05233/citation.csl.json
 
 ## Recorded arXiv snapshot
 

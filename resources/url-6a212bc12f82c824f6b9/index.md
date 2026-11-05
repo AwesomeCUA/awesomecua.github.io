@@ -2,7 +2,7 @@
 
 Computer-use benchmark mixing graphical interaction and code execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-6a212bc12f82c824f6b9/
+- Catalog URL: https://awesomecua.com/resources/url-6a212bc12f82c824f6b9/
 - Original source: https://huggingface.co/datasets/wanlilll/WeaveBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Computer-use benchmark mixing graphical interaction and code execution.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-6a212bc12f82c824f6b9/record.json
+- Record JSON: https://awesomecua.com/resources/url-6a212bc12f82c824f6b9/record.json
 
 ## License declarations
 

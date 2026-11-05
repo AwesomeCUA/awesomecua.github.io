@@ -2,7 +2,7 @@
 
 Trains IntentScore on offline desktop GUI interactions to assess candidate actions using both their state relevance and planning intent. The reward model is evaluated as an action reranker for Agent S3 on OSWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-05157/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-05157/
 - Original source: https://arxiv.org/abs/2604.05157
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains IntentScore on offline desktop GUI interactions to assess candidate actio
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-05157/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-05157/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rongqian Chen, Yu Li, Zeyu Fang, Sizhe Tang, Weidong Cao, Tian Lan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-05157/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-05157/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-05157/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-05157/citation.csl.json
 
 ## Recorded arXiv snapshot
 

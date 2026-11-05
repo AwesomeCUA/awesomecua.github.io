@@ -2,7 +2,7 @@
 
 VenusBench-GD is a bilingual, cross-platform GUI grounding benchmark organized into basic and advanced tasks. Its annotation pipeline and six-subtask taxonomy support comparisons of general multimodal models and GUI-specialized models across different grounding demands.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-16501/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-16501/
 - Original source: https://arxiv.org/abs/2512.16501
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VenusBench-GD is a bilingual, cross-platform GUI grounding benchmark organized i
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-16501/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-16501/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Beitong Zhou, Zhexiao Huang, Yuan Guo, Zhangxuan Gu, Tianyu Xia, Zichen Luo, Fei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-16501/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-16501/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-16501/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-16501/citation.csl.json
 
 ## Recorded arXiv snapshot
 

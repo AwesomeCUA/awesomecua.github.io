@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with Browser Use computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-browser-use/
+- Catalog URL: https://awesomecua.com/resources/organization-browser-use/
 - Original source: https://browser-use.com/
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with Browser Use computer-use or browser a
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-browser-use/record.json
+- Record JSON: https://awesomecua.com/resources/organization-browser-use/record.json
 
 ## License declarations
 

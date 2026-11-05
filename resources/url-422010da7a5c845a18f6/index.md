@@ -2,7 +2,7 @@
 
 A released GUI-agent mid-training mixture and supporting domain datasets, together with a post-training trajectory file and image archives for web and mobile interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-422010da7a5c845a18f6/
+- Catalog URL: https://awesomecua.com/resources/url-422010da7a5c845a18f6/
 - Original source: https://huggingface.co/datasets/hkust-nlp/GUIMid
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ A released GUI-agent mid-training mixture and supporting domain datasets, togeth
 
 The public manifest includes GUIMid.json, mavis.tar.gz, GUI_trajectory.json, traj.tar.gz and domain-specific JSON files. The card says image data for some individual domains is still forthcoming and its overview inconsistently says nine tasks while later enumerating seven vision-language plus four language-only domains; no aggregate task/sample count is inferred. Training code remains marked coming soon in the repository. MIT is the publisher dataset declaration, not a relicensing of all upstream content.
 
-- Record JSON: https://awesomecua.github.io/resources/url-422010da7a5c845a18f6/record.json
+- Record JSON: https://awesomecua.com/resources/url-422010da7a5c845a18f6/record.json
 
 ## Structured profile
 

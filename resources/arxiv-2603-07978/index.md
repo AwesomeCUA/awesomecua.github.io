@@ -2,7 +2,7 @@
 
 Uses GUI-based depth-first exploration to verify elementary software functions, assemble action primitives, and construct curricula of composed skills. OSExpert-Eval examines how the resulting procedural knowledge supports complex computer-use tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-07978/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-07978/
 - Original source: https://arxiv.org/abs/2603.07978
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses GUI-based depth-first exploration to verify elementary software functions, 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-07978/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-07978/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiateng Liu, Zhenhailong Wang, Rushi Wang, Bingxuan Li, Jeonghwan Kim, Aditi Tiw
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-07978/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-07978/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-07978/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-07978/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Generates labeled slides and interface visuals through code to support visual element detection, description, and classification with less manual annotation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-00201/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-00201/
 - Original source: https://arxiv.org/abs/2410.00201
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Generates labeled slides and interface visuals through code to support visual el
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-00201/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-00201/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yi-Hao Peng, Faria Huq, Yue Jiang, Jason Wu, Amanda Xin Yue Li, Jeffrey Bigham, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-00201/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-00201/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-00201/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-00201/citation.csl.json
 
 ## Recorded arXiv snapshot
 

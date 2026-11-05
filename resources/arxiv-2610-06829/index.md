@@ -2,7 +2,7 @@
 
 Introduces CLIFT, which certifies agent-generated verification signals against training-time judges and reuses them for per-step rewards and trajectory selection. At inference, a frozen question bank helps compare candidate web rollouts without querying an external judge.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-06829/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-06829/
 - Original source: https://arxiv.org/abs/2610.06829
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CLIFT, which certifies agent-generated verification signals against t
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-06829/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-06829/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yifan Zhang, Yutong Dai, Viraj Prabhu, Zhiyuan Hu, Ran Xu, Zeyuan Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-06829/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-06829/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-06829/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-06829/citation.csl.json
 
 ## Recorded arXiv snapshot
 

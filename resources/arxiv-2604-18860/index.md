@@ -2,7 +2,7 @@
 
 This study examines UI changes between a desktop agent’s screenshot observation and action dispatch. Its pre-execution state checks address overlay and focus manipulation, while the reported DOM-injection blind spot limits the defense’s coverage.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-18860/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-18860/
 - Original source: https://arxiv.org/abs/2604.18860
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study examines UI changes between a desktop agent’s screenshot observatio
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-18860/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-18860/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenpeng Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-18860/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-18860/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-18860/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-18860/citation.csl.json
 
 ## Recorded arXiv snapshot
 

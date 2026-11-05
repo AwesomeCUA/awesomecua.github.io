@@ -2,7 +2,7 @@
 
 MVP addresses unstable GUI coordinates by predicting across several attention-guided cropped views. It clusters the resulting coordinates and selects the densest cluster centroid, evaluating this training-free inference method across grounding models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-08529/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-08529/
 - Original source: https://arxiv.org/abs/2512.08529
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MVP addresses unstable GUI coordinates by predicting across several attention-gu
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-08529/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-08529/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yunzhu Zhang, Zeyu Pan, Zhengwen Zeng, Shuheng Shen, Changhua Meng, Linchao Zhu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-08529/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-08529/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-08529/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-08529/citation.csl.json
 
 ## Recorded arXiv snapshot
 

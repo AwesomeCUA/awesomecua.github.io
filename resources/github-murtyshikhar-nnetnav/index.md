@@ -2,7 +2,7 @@
 
 Collects and labels browser-exploration trajectories for agent training, with code for data processing, fine-tuning, and web evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-murtyshikhar-nnetnav/
+- Catalog URL: https://awesomecua.com/resources/github-murtyshikhar-nnetnav/
 - Original source: https://github.com/MurtyShikhar/NNetnav
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Collects and labels browser-exploration trajectories for agent training, with co
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-murtyshikhar-nnetnav/record.json
+- Record JSON: https://awesomecua.com/resources/github-murtyshikhar-nnetnav/record.json
 
 ## License declarations
 

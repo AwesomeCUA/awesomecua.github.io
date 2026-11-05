@@ -2,7 +2,7 @@
 
 A mobile GUI checkpoint trained with semi-online reinforcement learning that uses offline trajectories to improve multi-turn action prediction.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-1c4ee99a9a55ae71a7ac/
+- Catalog URL: https://awesomecua.com/resources/url-1c4ee99a9a55ae71a7ac/
 - Original source: https://huggingface.co/mPLUG/UI-S1-7B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A mobile GUI checkpoint trained with semi-online reinforcement learning that use
 
 Four public safetensors shards are present. The card declares Apache-2.0 for the weights. The project publishes only a portion of its training data; no complete training corpus or independent reproduction is inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/url-1c4ee99a9a55ae71a7ac/record.json
+- Record JSON: https://awesomecua.com/resources/url-1c4ee99a9a55ae71a7ac/record.json
 
 ## License declarations
 

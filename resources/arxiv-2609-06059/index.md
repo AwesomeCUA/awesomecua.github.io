@@ -2,7 +2,7 @@
 
 Bibliographic record for OmniStepBench: Deployment-Aware Agent Evaluation across Modalities and Task Complexity. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-06059/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-06059/
 - Original source: https://arxiv.org/abs/2609.06059
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for OmniStepBench: Deployment-Aware Agent Evaluation across
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-06059/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-06059/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yu Liu, Zhilin Liu, Zhiwei Yang, Shaojie Zhang, Zheyuan Deng, Tingwei Huang, Zhe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-06059/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-06059/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-06059/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-06059/citation.csl.json
 
 ## Recorded arXiv snapshot
 

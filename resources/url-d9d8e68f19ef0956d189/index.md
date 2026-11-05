@@ -2,7 +2,7 @@
 
 Tasks for recreating reference applications with hybrid computer interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-d9d8e68f19ef0956d189/
+- Catalog URL: https://awesomecua.com/resources/url-d9d8e68f19ef0956d189/
 - Original source: https://huggingface.co/datasets/Qwen/RecreationBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Tasks for recreating reference applications with hybrid computer interaction.
 
 Dataset card declares multiple upstream licenses; do not treat the package as having one blanket permissive license.
 
-- Record JSON: https://awesomecua.github.io/resources/url-d9d8e68f19ef0956d189/record.json
+- Record JSON: https://awesomecua.com/resources/url-d9d8e68f19ef0956d189/record.json
 
 ## License declarations
 

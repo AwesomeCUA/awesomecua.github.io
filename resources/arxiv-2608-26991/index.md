@@ -2,7 +2,7 @@
 
 ASIL exposes application state as structured JSON and provides code-executable semantic actions. Its application benchmark compares this interface with screenshot control and application-native APIs, and studies supervised and reinforcement learning on the structured interface.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-26991/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-26991/
 - Original source: https://arxiv.org/abs/2608.26991
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ASIL exposes application state as structured JSON and provides code-executable s
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-26991/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-26991/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rui Xie, Lu Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-26991/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-26991/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-26991/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-26991/citation.csl.json
 
 ## Recorded arXiv snapshot
 

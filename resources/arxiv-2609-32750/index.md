@@ -2,7 +2,7 @@
 
 Introduces CUA-Sandbox, which separates each rollout’s mutable state from shared initialized software runtimes. State-scoped execution and transactional resets or branches aim to reduce training-environment costs while retaining original interfaces and evaluators.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-32750/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-32750/
 - Original source: https://arxiv.org/abs/2609.32750
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CUA-Sandbox, which separates each rollout’s mutable state from shar
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32750/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-32750/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xin Yan, Zhengbo Jiao, Jiaqi Liu, Zhenglin Wan, SiYuan Ma, Xuliang Yu, Tianyi Ji
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32750/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32750/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-32750/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-32750/citation.csl.json
 
 ## Recorded arXiv snapshot
 

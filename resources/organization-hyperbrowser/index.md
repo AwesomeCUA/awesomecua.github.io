@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with Hyperbrowser computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-hyperbrowser/
+- Catalog URL: https://awesomecua.com/resources/organization-hyperbrowser/
 - Original source: https://www.hyperbrowser.ai/
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with Hyperbrowser computer-use or browser 
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-hyperbrowser/record.json
+- Record JSON: https://awesomecua.com/resources/organization-hyperbrowser/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Compares mobile world models that predict state changes as delta text, full text, images or renderable code. Downstream Android benchmarks examine synthetic training trajectories and test-time guidance, including limits of post-action reflection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-10347/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-10347/
 - Original source: https://arxiv.org/abs/2605.10347
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares mobile world models that predict state changes as delta text, full text
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-10347/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-10347/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weikai Xu, Kun Huang, Yunren Feng, Jiaxing Li, Yuhan Chen, Yuxuan Liu, Zhizheng 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-10347/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-10347/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-10347/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-10347/citation.csl.json
 
 ## Recorded arXiv snapshot
 

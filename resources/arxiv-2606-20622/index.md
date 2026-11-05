@@ -2,7 +2,7 @@
 
 Describes asynchronous reinforcement-learning infrastructure using parallel cloud-hosted Android instances, explicit task lifecycles, and persistent-state management for mobile GUI interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-20622/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-20622/
 - Original source: https://arxiv.org/abs/2606.20622
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes asynchronous reinforcement-learning infrastructure using parallel clou
 
 The implemented stage uses selected tasks, an external judge and heuristic history management. Autonomous curricula, verification and memory are roadmap directions, not completed capabilities established by this record. No runtime or results were reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (2 Agent-Environment Interface and Policy Optimisation; 3 Scalable Asynchronous Mobile Environment; 3.2 Persistent State Management; 3.3 Task Lifecycle; 4.2 Rollout and Optimisation; 4.3 Anatomy of the Self-Evolving Agent); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-20622/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-20622/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Daniel Beechey, Derek Yuen, Jianheng Liu, Dezhao Luo, Tiantian He, Weilin Luo, J
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-20622/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-20622/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-20622/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-20622/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Mobile app screenshots, view hierarchies, and interaction traces for UI research.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-0b134b082a7bd507fc6a/
+- Catalog URL: https://awesomecua.com/resources/url-0b134b082a7bd507fc6a/
 - Original source: https://www.interactionmining.org/archive/rico
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Mobile app screenshots, view hierarchies, and interaction traces for UI research
 
 The official project page cites the 2017 Rico paper. The project page reports more than 66,000 screens, while the original publication reports more than 72,000. These source-specific counts are kept separate; the reason for the difference is not established by these sources. App counts also differ: the official project page reports more than 9.3k Android apps and the retained published abstract more than 9.7k. Profile counts use the project-page scope; no reconciliation is inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/url-0b134b082a7bd507fc6a/record.json
+- Record JSON: https://awesomecua.com/resources/url-0b134b082a7bd507fc6a/record.json
 
 ## Structured profile
 

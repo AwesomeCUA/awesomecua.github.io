@@ -2,7 +2,7 @@
 
 Bibliographic record for Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-33568/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-33568/
 - Original source: https://arxiv.org/abs/2610.33568
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Trajectory2Gym: Decision-Grounded Compositional Interac
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-33568/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-33568/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yihao Hu, Zhihao Wen, Yitong Lin, Siyuan Lu, Pan Wang, Wei Wu, Jiang-Ming Yang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-33568/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-33568/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-33568/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-33568/citation.csl.json
 
 ## Recorded arXiv snapshot
 

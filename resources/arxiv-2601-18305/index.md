@@ -2,7 +2,7 @@
 
 Introduces SwipeGen for synthesizing varied swipe trajectories and SwipeBench for assessing their execution quality. The study examines how richer control of trajectory, speed, and timing changes GUI agents’ interaction performance.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-18305/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-18305/
 - Original source: https://arxiv.org/abs/2601.18305
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SwipeGen for synthesizing varied swipe trajectories and SwipeBench fo
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-18305/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-18305/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xuan Wang, Siyuan Su, Quantong Fu, Yongxiang Hu, Yangfan Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-18305/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-18305/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-18305/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-18305/citation.csl.json
 
 ## Recorded arXiv snapshot
 

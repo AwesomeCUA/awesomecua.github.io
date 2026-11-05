@@ -2,7 +2,7 @@
 
 Bibliographic record for StructRL: Online Structured Reinforcement Learning for Long-Horizon Vision-Language-Action Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-36352/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-36352/
 - Original source: https://arxiv.org/abs/2609.36352
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for StructRL: Online Structured Reinforcement Learning for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-36352/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-36352/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyi Yin, Sangmin Woo, Kang Zhou, Sungyeon Kim, Aosong Feng, Haibo Ding, Jun Hua
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-36352/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-36352/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-36352/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-36352/citation.csl.json
 
 ## Recorded arXiv snapshot
 

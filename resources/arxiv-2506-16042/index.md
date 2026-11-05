@@ -2,7 +2,7 @@
 
 OSWorld-Human adds human-determined trajectories to OSWorld to evaluate the efficiency of desktop computer-use agents. The study compares 16 agents and analyzes model-call latency, changes in step duration during task execution, and excess action steps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-16042/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-16042/
 - Original source: https://arxiv.org/abs/2506.16042
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OSWorld-Human adds human-determined trajectories to OSWorld to evaluate the effi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-16042/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-16042/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Reyna Abhyankar, Qi Qi, Yiying Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-16042/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-16042/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-16042/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-16042/citation.csl.json
 
 ## Recorded arXiv snapshot
 

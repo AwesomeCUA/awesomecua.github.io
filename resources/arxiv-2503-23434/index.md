@@ -2,7 +2,7 @@
 
 Frames GUI-agent trustworthiness as an execution gap and reviews failures, attacks, and defenses across perception, reasoning, and interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-23434/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-23434/
 - Original source: https://arxiv.org/abs/2503.23434
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Frames GUI-agent trustworthiness as an execution gap and reviews failures, attac
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-23434/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-23434/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yucheng Shi, Wenhao Yu, Jingyuan Huang, Wenlin Yao, Wenhu Chen, Ninghao Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-23434/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-23434/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-23434/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-23434/citation.csl.json
 
 ## Recorded arXiv snapshot
 

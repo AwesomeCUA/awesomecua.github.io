@@ -2,7 +2,7 @@
 
 Bibliographic record for AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-00425/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-00425/
 - Original source: https://arxiv.org/abs/2605.00425
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AEM: Adaptive Entropy Modulation for Multi-Turn Agentic
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-00425/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-00425/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haotian Zhao, Songlin Zhou, Yuxin Zhang, Stephen S. -T. Yau, Wenyu Zhang, Lun Ti
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-00425/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-00425/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-00425/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-00425/citation.csl.json
 
 ## Recorded arXiv snapshot
 

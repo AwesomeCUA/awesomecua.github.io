@@ -2,7 +2,7 @@
 
 Bibliographic record for Feasibility study of quantum computing using trapped electrons. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2112-04034/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2112-04034/
 - Original source: https://arxiv.org/abs/2112.04034
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Feasibility study of quantum computing using trapped el
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2112-04034/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2112-04034/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qian Yu, Alberto M. Alonso, Jackie Caminiti, Kristin M. Beck, R. Tyler Sutherlan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2112-04034/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2112-04034/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2112-04034/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2112-04034/citation.csl.json
 
 ## Recorded arXiv snapshot
 

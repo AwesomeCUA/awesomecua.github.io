@@ -2,7 +2,7 @@
 
 Overlays labeled image regions to help multimodal models refer to and reason about visual targets; a general visual-prompting method relevant to GUI grounding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-11441/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-11441/
 - Original source: https://arxiv.org/abs/2310.11441
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Overlays labeled image regions to help multimodal models refer to and reason abo
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-11441/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-11441/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-11441/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-11441/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-11441/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-11441/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces Test-Time Environment Decomposition, which uses trial interaction to break complex web observations into simpler modules. A label-free adaptation procedure learns from these sub-environments and studies whether their gains compose in full web tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-29305/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-29305/
 - Original source: https://arxiv.org/abs/2608.29305
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Test-Time Environment Decomposition, which uses trial interaction to 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-29305/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-29305/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junxuan Li, Zijun Liu, Ziyi Huang, Peng Li, Yuzhou Liu, Ming Yan, Yang Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-29305/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-29305/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-29305/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-29305/citation.csl.json
 
 ## Recorded arXiv snapshot
 

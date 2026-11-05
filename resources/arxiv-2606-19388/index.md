@@ -2,7 +2,7 @@
 
 This study compares general coding agents using mobile command-line access with reproducible GUI agents on AndroidWorld and MobileWorld. It also supplies oracle CLI analyses and a separate task suite for operations such as bulk changes, filtering and hidden device state.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-19388/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-19388/
 - Original source: https://arxiv.org/abs/2606.19388
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study compares general coding agents using mobile command-line access with 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-19388/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-19388/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Li Gu, Zihuan Jiang, Linqiang Guo, Zhixiang Chi, Ziqiang Wang, Huan Liu, Yuanhao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-19388/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-19388/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-19388/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-19388/citation.csl.json
 
 ## Recorded arXiv snapshot
 

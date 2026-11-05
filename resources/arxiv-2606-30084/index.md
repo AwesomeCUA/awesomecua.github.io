@@ -2,7 +2,7 @@
 
 InnerZoom preserves target-region cues from intermediate decoder layers and reinjects a compact evidence state during coordinate decoding. Its single-forward GUI grounder is compared with crop-and-rerun zooming and matched supervised/RL baselines for accuracy and inference cost.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-30084/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-30084/
 - Original source: https://arxiv.org/abs/2606.30084
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ InnerZoom preserves target-region cues from intermediate decoder layers and rein
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-30084/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-30084/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chen Liu, Ling Chen, Hanzhang Zhou, Liangyu Chen, Chenglin Cai, Xin Yu, Steven H
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-30084/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-30084/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-30084/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-30084/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces AndroidWorld-Generalization with separate tests for unseen task instances, templates, and applications. A GRPO training system combines containerized environments with asynchronous trajectory collection to study these generalization regimes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-07432/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-07432/
 - Original source: https://arxiv.org/abs/2603.07432
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AndroidWorld-Generalization with separate tests for unseen task insta
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-07432/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-07432/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Li Gu, Zihuan Jiang, Zhixiang Chi, Huan Liu, Ziqiang Wang, Yuanhao Yu, Glen Bers
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-07432/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-07432/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-07432/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-07432/citation.csl.json
 
 ## Recorded arXiv snapshot
 

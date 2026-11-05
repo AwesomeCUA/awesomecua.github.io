@@ -2,7 +2,7 @@
 
 Data-generation, fine-tuning and evaluation utilities for teaching small language models to invoke Android intents through predefined functions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-ubiquitouslearning-droidcall/
+- Catalog URL: https://awesomecua.com/resources/github-ubiquitouslearning-droidcall/
 - Original source: https://github.com/UbiquitousLearning/DroidCall
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Data-generation, fine-tuning and evaluation utilities for teaching small languag
 
 Source utilities are published under MIT. This component operates through Android intent functions and is marked adjacent to visual GUI agents. Training data is separately released under its own card declaration; no checkpoint release is inferred from the fine-tuning instructions.
 
-- Record JSON: https://awesomecua.github.io/resources/github-ubiquitouslearning-droidcall/record.json
+- Record JSON: https://awesomecua.com/resources/github-ubiquitouslearning-droidcall/record.json
 
 ## License declarations
 

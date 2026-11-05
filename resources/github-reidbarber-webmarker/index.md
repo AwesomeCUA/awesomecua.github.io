@@ -2,7 +2,7 @@
 
 A browser library that labels interactive elements and their boxes for visual prompting, preserving element mappings that automation code can use to execute selected actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-reidbarber-webmarker/
+- Catalog URL: https://awesomecua.com/resources/github-reidbarber-webmarker/
 - Original source: https://github.com/reidbarber/webmarker
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ A browser library that labels interactive elements and their boxes for visual pr
 
 Source and npm release metadata for webmarker-js 0.7.0 are public. The documented mark/unmark API supports screenshot prompts and Playwright interaction, but this utility is not itself a language model or autonomous agent. The WebVoyager/Set-of-Mark references are usage inspiration and are not asserted as papers introducing this library. No package was installed or executed.
 
-- Record JSON: https://awesomecua.github.io/resources/github-reidbarber-webmarker/record.json
+- Record JSON: https://awesomecua.com/resources/github-reidbarber-webmarker/record.json
 
 ## License declarations
 

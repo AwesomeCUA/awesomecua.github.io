@@ -2,7 +2,7 @@
 
 Bibliographic record for Response to "Comment on "Ultra-low-energy non-volatile straintronic computing using single multiferroic composites"" [Appl. Phys. Lett. 103, 173110 (2013)]. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1412-2200/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1412-2200/
 - Original source: https://arxiv.org/abs/1412.2200
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Response to "Comment on "Ultra-low-energy non-volatile 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1412-2200/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1412-2200/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kuntal Roy
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1412-2200/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1412-2200/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1412-2200/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1412-2200/citation.csl.json
 
 ## Recorded arXiv snapshot
 

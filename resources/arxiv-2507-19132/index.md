@@ -2,7 +2,7 @@
 
 OS-MAP organizes 416 computer-use tasks across 15 applications by a five-level automation taxonomy and a hierarchy of user demands. The benchmark separates required autonomy from generalization scope to diagnose where agents struggle as task demands increase.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-19132/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-19132/
 - Original source: https://arxiv.org/abs/2507.19132
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OS-MAP organizes 416 computer-use tasks across 15 applications by a five-level a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-19132/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-19132/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhouji
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-19132/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-19132/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-19132/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-19132/citation.csl.json
 
 ## Recorded arXiv snapshot
 

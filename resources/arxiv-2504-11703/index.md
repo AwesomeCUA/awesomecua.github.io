@@ -2,7 +2,7 @@
 
 Bibliographic record for Progent: Securing AI Agents with Privilege Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-11703/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-11703/
 - Original source: https://arxiv.org/abs/2504.11703
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for Progent: Securing AI Agents with Privilege Control. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11703/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-11703/record.json
 
 ## Recorded reviewer hold
 
 Reviewer hold: the retained abstract and full\-text Sections 8–9 evaluate typed tool\-call policies on AgentDojo/ASB and MCP integrations\. Section 9 explicitly excludes graphical\-interface tool calls from the current method\. Preserve the bibliographic record as metadata\-only; do not describe this as a web/GUI defense\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Tianneng Shi, Jingxuan He, Zhun Wang, Hongwei Li, Linyu Wu, Wenbo Guo, Dawn Song
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11703/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11703/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-11703/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-11703/citation.csl.json
 
 ## Recorded arXiv snapshot
 

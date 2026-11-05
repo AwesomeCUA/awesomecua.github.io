@@ -2,7 +2,7 @@
 
 Bibliographic record for Perspective on unconventional computing using magnetic skyrmions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2303-00708/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2303-00708/
 - Original source: https://arxiv.org/abs/2303.00708
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Perspective on unconventional computing using magnetic 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-00708/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2303-00708/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Oscar Lee, Robin Msiska, Maarten A. Brems, Mathias Klaui, Hidekazu Kurebayashi, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-00708/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-00708/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2303-00708/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2303-00708/citation.csl.json
 
 ## Recorded arXiv snapshot
 

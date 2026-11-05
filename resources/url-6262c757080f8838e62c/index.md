@@ -2,7 +2,7 @@
 
 Presents visual GUI test scripts that use images to specify actions and expected screen feedback. Recording both input events and screenshots can generate tests from demonstrations, supporting unit, regression, and test-driven workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/
+- Catalog URL: https://awesomecua.com/resources/url-6262c757080f8838e62c/
 - Original source: https://doi.org/10.1145/1753326.1753555
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents visual GUI test scripts that use images to specify actions and expected
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. This is a separate visual-testing contribution from the 2009 Sikuli paper, not another version of the same article. MIT PDF download returned HTTP 429; its complete institutional abstract and citation metadata remain the retained review source.
 
-- Record JSON: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/record.json
+- Record JSON: https://awesomecua.com/resources/url-6262c757080f8838e62c/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-6262c757080f8838e62c/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-6262c757080f8838e62c/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
 - Authors: Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
 - Publication date (recorded precision): 2010-04
 - Publication source: https://doi.org/10.1145/1753326.1753555
-- Publication BibTeX: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-6262c757080f8838e62c/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-6262c757080f8838e62c/publication-citation.csl.json
 - venue: Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)
 - pages: 1535-1544
 - doi: 10.1145/1753326.1753555

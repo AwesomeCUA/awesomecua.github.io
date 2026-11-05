@@ -2,7 +2,7 @@
 
 Bibliographic record for Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2312-11865/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2312-11865/
 - Original source: https://arxiv.org/abs/2312.11865
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Large Language Models Play StarCraft II: Benchmarks and
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-11865/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2312-11865/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weiyu Ma, Qirui Mi, Yongcheng Zeng, Xue Yan, Yuqiao Wu, Runji Lin, Haifeng Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-11865/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-11865/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2312-11865/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2312-11865/citation.csl.json
 
 ## Recorded arXiv snapshot
 

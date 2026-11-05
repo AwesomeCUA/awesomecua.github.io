@@ -2,7 +2,7 @@
 
 Introduces WebMirage, a visual red-teaming framework that models webpage element competition and action post-processing to test whether manipulated grounding decisions lead to executed browser actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-09240/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-09240/
 - Original source: https://arxiv.org/abs/2610.09240
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebMirage, a visual red-teaming framework that models webpage element
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-09240/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-09240/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wanjing Han, Levi Taiji Li, Mu Zhang, Yue Jiang, Guanhong Tao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-09240/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-09240/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-09240/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-09240/citation.csl.json
 
 ## Recorded arXiv snapshot
 

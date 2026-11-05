@@ -2,7 +2,7 @@
 
 Long-horizon agentic web search benchmark whose Agent-as-a-Judge framework scores time-varying, citation-backed answers, with evaluation scripts for its dev and test sets.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web-2/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/
 - Original source: https://github.com/OSU-NLP-Group/Mind2Web-2
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Long-horizon agentic web search benchmark whose Agent-as-a-Judge framework score
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web-2/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/record.json
 
 ## License declarations
 

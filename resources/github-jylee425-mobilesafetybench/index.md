@@ -2,7 +2,7 @@
 
 Android emulator testbed that scores mobile device-control agents on both safety and helpfulness, using ADB and Appium for observations, actions and success checks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-jylee425-mobilesafetybench/
+- Catalog URL: https://awesomecua.com/resources/github-jylee425-mobilesafetybench/
 - Original source: https://github.com/jylee425/mobilesafetybench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Android emulator testbed that scores mobile device-control agents on both safety
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-jylee425-mobilesafetybench/record.json
+- Record JSON: https://awesomecua.com/resources/github-jylee425-mobilesafetybench/record.json
 
 ## Structured profile
 

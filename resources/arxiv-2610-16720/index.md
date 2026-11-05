@@ -2,7 +2,7 @@
 
 Introduces LatentGUIWorld to test learning interface semantics and dynamics through interaction, and studies finer movement actions with intermediate visual feedback and exploration demonstrations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-16720/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-16720/
 - Original source: https://arxiv.org/abs/2610.16720
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces LatentGUIWorld to test learning interface semantics and dynamics thro
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-16720/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-16720/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiahao Lu, Yize Shen, Chuanyuan Tan, Mianqiu Huang, Shicheng Fang, Xinchi Chen, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-16720/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-16720/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-16720/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-16720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

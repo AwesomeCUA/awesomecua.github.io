@@ -2,7 +2,7 @@
 
 Mobile control benchmark with varied interface configurations.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-jylee425-b-moca/
+- Catalog URL: https://awesomecua.com/resources/github-jylee425-b-moca/
 - Original source: https://github.com/jylee425/b-moca
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Mobile control benchmark with varied interface configurations.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-jylee425-b-moca/record.json
+- Record JSON: https://awesomecua.com/resources/github-jylee425-b-moca/record.json
 
 ## Structured profile
 

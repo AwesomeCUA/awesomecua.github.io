@@ -2,7 +2,7 @@
 
 Introduces MatToolBench, a Windows-based materials-science benchmark combining GUI operation, scientific-software scripting, and database queries. Expert-defined subcriteria support partial-credit scoring, while the evaluation examines domain knowledge gaps and cross-tool handoff failures.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-37053/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-37053/
 - Original source: https://arxiv.org/abs/2609.37053
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MatToolBench, a Windows-based materials-science benchmark combining G
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-37053/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-37053/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mei Wu, Rui Xie, Runyu Zhang, Yuqiang Li, Tianfan Fu, Bo Chen, Kai Yu, Xin Chen,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-37053/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-37053/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-37053/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-37053/citation.csl.json
 
 ## Recorded arXiv snapshot
 

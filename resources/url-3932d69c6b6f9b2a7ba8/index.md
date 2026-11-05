@@ -2,7 +2,7 @@
 
 The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-3932d69c6b6f9b2a7ba8/
+- Catalog URL: https://awesomecua.com/resources/url-3932d69c6b6f9b2a7ba8/
 - Original source: https://huggingface.co/xTRam1/plan-and-act-planner-70b
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ The planner component of Plan-and-Act, generating structured high-level plans th
 
 The Hub manifest contains 17 safetensors shards and tokenizer/configuration files. Card metadata declares MIT and Llama-3.3-70B-Instruct as the base, but retains template comments asking the publisher to update those fields if needed. These are recorded as publisher declarations, without claiming they override upstream model terms.
 
-- Record JSON: https://awesomecua.github.io/resources/url-3932d69c6b6f9b2a7ba8/record.json
+- Record JSON: https://awesomecua.com/resources/url-3932d69c6b6f9b2a7ba8/record.json
 
 ## License declarations
 

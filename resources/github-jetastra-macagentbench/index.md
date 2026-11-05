@@ -2,7 +2,7 @@
 
 676 macOS tasks across 25 applications, each run in its own Docker container and scored by deterministic rule-based checks with multiple checkpoints.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-jetastra-macagentbench/
+- Catalog URL: https://awesomecua.com/resources/github-jetastra-macagentbench/
 - Original source: https://github.com/JetAstra/MacAgentBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-jetastra-macagentbench/record.json
+- Record JSON: https://awesomecua.com/resources/github-jetastra-macagentbench/record.json
 
 ## Structured profile
 

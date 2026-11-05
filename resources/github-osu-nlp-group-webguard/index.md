@@ -2,7 +2,7 @@
 
 Codebase, annotation toolkit, and action-level risk dataset for training and evaluating guardrail models that flag unsafe browser-agent actions before execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-webguard/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-webguard/
 - Original source: https://github.com/OSU-NLP-Group/WebGuard
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Codebase, annotation toolkit, and action-level risk dataset for training and eva
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-webguard/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-webguard/record.json
 
 ## License declarations
 

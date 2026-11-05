@@ -2,7 +2,7 @@
 
 Bibliographic record for CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-10613/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-10613/
 - Original source: https://arxiv.org/abs/2503.10613
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-tu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-10613/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-10613/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Advait Gupta, NandaKiran Velaga, Dang Nguyen, Tianyi Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-10613/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-10613/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-10613/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-10613/citation.csl.json
 
 ## Recorded arXiv snapshot
 

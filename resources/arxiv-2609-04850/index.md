@@ -2,7 +2,7 @@
 
 ElderBench evaluates mobile GUI agents on smartphone requests elicited from older adults, including indirect and underspecified language. Online and offline tests, instruction normalization and linguistic analyses examine how these request patterns contribute to failures.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-04850/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-04850/
 - Original source: https://arxiv.org/abs/2609.04850
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ElderBench evaluates mobile GUI agents on smartphone requests elicited from olde
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-04850/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-04850/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weide Zhan, Qumu Shaqu, Yuanqing Liu, Peng Zhang, Jiahao Liu, Kam Him Lam, Ning 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-04850/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-04850/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-04850/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-04850/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces AndroTMem-Bench for Android tasks whose later actions depend on earlier UI states. Anchored State Memory retains causally linked intermediate states for subgoal-specific retrieval and evaluates them against full-history and summary-based memory.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-18429/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-18429/
 - Original source: https://arxiv.org/abs/2603.18429
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AndroTMem-Bench for Android tasks whose later actions depend on earli
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-18429/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-18429/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yibo Shi, Jungang Li, Linghao Zhang, Zihao Dongfang, Biao Wu, Sicheng Tao, Yibo 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-18429/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-18429/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-18429/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-18429/citation.csl.json
 
 ## Recorded arXiv snapshot
 

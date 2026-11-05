@@ -2,7 +2,7 @@
 
 This study finds that full-image visual memory can reduce some state errors while worsening action-level failures. Its AGMem alternative stores local crops associated with successful actions or recovery and evaluates their use in desktop GUI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-14106/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-14106/
 - Original source: https://arxiv.org/abs/2606.14106
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study finds that full-image visual memory can reduce some state errors whil
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-14106/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-14106/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Seoyoung Choi, Minseok Ko, Hyunseok Lee, Kunwoong Kim, Woomin Song, Chanseok Jeo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-14106/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-14106/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-14106/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-14106/citation.csl.json
 
 ## Recorded arXiv snapshot
 

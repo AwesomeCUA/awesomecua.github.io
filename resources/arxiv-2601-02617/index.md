@@ -2,7 +2,7 @@
 
 Bibliographic record for Implementation of Reservoir Computing Using Coupled Microelectromechanical Drum Resonators via Sideband-Pumped Phonon-Cavity Dynamics. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-02617/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-02617/
 - Original source: https://arxiv.org/abs/2601.02617
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Implementation of Reservoir Computing Using Coupled Mic
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-02617/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-02617/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Theresa Farah, Loïc Flis, Pierre Laly, Guo-En Chang, Jun-Yu Ou, Yoshishige Tsuc
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-02617/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-02617/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-02617/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-02617/citation.csl.json
 
 ## Recorded arXiv snapshot
 

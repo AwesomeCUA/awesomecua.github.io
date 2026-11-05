@@ -2,7 +2,7 @@
 
 A processed screenshot and bounding-box collection released for training GUI-Actor visual grounding models.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-66096ad4057a3d3726f5/
+- Catalog URL: https://awesomecua.com/resources/url-66096ad4057a3d3726f5/
 - Original source: https://huggingface.co/datasets/cckevinn/GUI-Actor-Data
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ A processed screenshot and bounding-box collection released for training GUI-Act
 
 Public JSON annotations and image archives are present. The card has no data-license declaration. Its source list contains mismatched hyperlinks and says six datasets while naming fewer distinct entries; no source-derivation relationships or aggregate count are imported from that list.
 
-- Record JSON: https://awesomecua.github.io/resources/url-66096ad4057a3d3726f5/record.json
+- Record JSON: https://awesomecua.com/resources/url-66096ad4057a3d3726f5/record.json
 
 ## Structured profile
 

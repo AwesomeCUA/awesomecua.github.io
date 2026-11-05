@@ -2,7 +2,7 @@
 
 Defines when phone agents should request user interaction and introduces AndroidInteraction annotations for deciding whether and how to engage the user.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-19537/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-19537/
 - Original source: https://arxiv.org/abs/2503.19537
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Defines when phone agents should request user interaction and introduces Android
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-19537/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-19537/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Noam Kahlon, Guy Rom, Anatoly Efros, Filippo Galgani, Omri Berkovitch, Sapir Cad
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-19537/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-19537/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-19537/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-19537/citation.csl.json
 
 ## Recorded arXiv snapshot
 

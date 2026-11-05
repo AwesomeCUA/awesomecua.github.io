@@ -2,7 +2,7 @@
 
 Open mobile GUI agent stack pairing a 4B model that runs on consumer hardware with local multi-device infrastructure, an MCP server, and AndroidDaily benchmark tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-stepfun-ai-gelab-zero/
+- Catalog URL: https://awesomecua.com/resources/github-stepfun-ai-gelab-zero/
 - Original source: https://github.com/stepfun-ai/gelab-zero
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Open mobile GUI agent stack pairing a 4B model that runs on consumer hardware wi
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-stepfun-ai-gelab-zero/record.json
+- Record JSON: https://awesomecua.com/resources/github-stepfun-ai-gelab-zero/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 This permission-literacy study tests whether mobile GUI agents grant only task-necessary permissions. Controlled changes to task context and requester identity expose authorization biases and the trade-off between suppressing unnecessary and legitimate grants.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-04755/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-04755/
 - Original source: https://arxiv.org/abs/2608.04755
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This permission-literacy study tests whether mobile GUI agents grant only task-n
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-04755/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-04755/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dongsheng Chen, Yuxuan Li, Guanhua Chen, Jiaxin Zhang, Xiangyu Zhao, Lei Ma, Xin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-04755/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-04755/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-04755/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-04755/citation.csl.json
 
 ## Recorded arXiv snapshot
 

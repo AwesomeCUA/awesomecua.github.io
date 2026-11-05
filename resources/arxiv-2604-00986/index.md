@@ -2,7 +2,7 @@
 
 Introduces MyPhoneBench to verify whether phone-use agents minimize personal data disclosure when filling forms during benign mobile tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-00986/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-00986/
 - Original source: https://arxiv.org/abs/2604.00986
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MyPhoneBench to verify whether phone-use agents minimize personal dat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-00986/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-00986/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhengyang Tang, Ke Ji, Xidong Wang, Zihan Ye, Xinyuan Wang, Yiduo Guo, Ziniu Li,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-00986/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-00986/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-00986/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-00986/citation.csl.json
 
 ## Recorded arXiv snapshot
 

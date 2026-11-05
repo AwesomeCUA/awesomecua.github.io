@@ -2,7 +2,7 @@
 
 Introduces VeriGUI, which checks expected action effects and reasons about recovery before subsequent GUI actions. Training combines synthetic failure trajectories with verification-weighted GRPO, evaluated on an AndroidControl-based robustness benchmark.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-05477/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-05477/
 - Original source: https://arxiv.org/abs/2604.05477
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces VeriGUI, which checks expected action effects and reasons about recov
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-05477/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-05477/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuzhe Zhang, Xianwei Xue, Xingyong Wu, Mengke Chen, Chen Liu, Xinran He, Run Sha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-05477/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-05477/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-05477/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-05477/citation.csl.json
 
 ## Recorded arXiv snapshot
 

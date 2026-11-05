@@ -2,7 +2,7 @@
 
 Combines cross-platform GUI grounding data synthesis with action-model training to study generalization to unfamiliar interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-23218/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-23218/
 - Original source: https://arxiv.org/abs/2410.23218
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines cross-platform GUI grounding data synthesis with action-model training 
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-23218/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-23218/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, Chengyou Jia, Kanzhi C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-23218/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-23218/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-23218/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-23218/citation.csl.json
 
 ## Recorded arXiv snapshot
 

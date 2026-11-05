@@ -2,7 +2,7 @@
 
 This study compares specialized, computer-use and coding agents on scientific visualization workflows. It examines GUI, CLI, code and tool-call interaction modes, including how persistent memory changes performance across repeated trials.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-27996/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-27996/
 - Original source: https://arxiv.org/abs/2604.27996
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study compares specialized, computer-use and coding agents on scientific vi
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-27996/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-27996/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jackson Vonderhorst, Kuangshi Ai, Haichao Miao, Shusen Liu, Chaoli Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-27996/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-27996/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-27996/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-27996/citation.csl.json
 
 ## Recorded arXiv snapshot
 

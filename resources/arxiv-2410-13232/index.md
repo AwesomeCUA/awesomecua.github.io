@@ -2,7 +2,7 @@
 
 Uses a learned web world model to predict important state changes and compare candidate actions before executing them.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-13232/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-13232/
 - Original source: https://arxiv.org/abs/2410.13232
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses a learned web world model to predict important state changes and compare ca
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-13232/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-13232/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hyungjoo Chae, Namyoung Kim, Kai Tzu-iunn Ong, Minju Gwak, Gwanwoo Song, Jihoon 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-13232/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-13232/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-13232/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-13232/citation.csl.json
 
 ## Recorded arXiv snapshot
 

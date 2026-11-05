@@ -2,7 +2,7 @@
 
 Browser infrastructure and automation services for AI agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-053ebfe0afac66c86222/
+- Catalog URL: https://awesomecua.com/resources/url-053ebfe0afac66c86222/
 - Original source: https://www.hyperbrowser.ai/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Browser infrastructure and automation services for AI agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-053ebfe0afac66c86222/record.json
+- Record JSON: https://awesomecua.com/resources/url-053ebfe0afac66c86222/record.json
 
 ## License declarations
 

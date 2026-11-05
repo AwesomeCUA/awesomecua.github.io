@@ -2,7 +2,7 @@
 
 Bibliographic record for Sample, Scrutinize and Scale: Effective Inference-Time Search by Scaling Verification. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-01839/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-01839/
 - Original source: https://arxiv.org/abs/2502.01839
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Sample, Scrutinize and Scale: Effective Inference-Time 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-01839/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-01839/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Eric Zhao, Pranjal Awasthi, Sreenivas Gollapudi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-01839/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-01839/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-01839/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-01839/citation.csl.json
 
 ## Recorded arXiv snapshot
 

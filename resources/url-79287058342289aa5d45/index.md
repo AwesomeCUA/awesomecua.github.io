@@ -2,7 +2,7 @@
 
 Screenshot-based grounding and captioning samples with UI functionality descriptions, target coordinates, and bounding boxes.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-79287058342289aa5d45/
+- Catalog URL: https://awesomecua.com/resources/url-79287058342289aa5d45/
 - Original source: https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Screenshot-based grounding and captioning samples with UI functionality descript
 
 The row count is not a unique-screen count. The data card documents image scaling conventions that affect coordinate interpretation.
 
-- Record JSON: https://awesomecua.github.io/resources/url-79287058342289aa5d45/record.json
+- Record JSON: https://awesomecua.com/resources/url-79287058342289aa5d45/record.json
 
 ## Structured profile
 

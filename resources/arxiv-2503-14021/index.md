@@ -2,7 +2,7 @@
 
 Uses specialized graphical, textual, and spatial perception components with a data-collection pipeline to improve GUI understanding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-14021/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-14021/
 - Original source: https://arxiv.org/abs/2503.14021
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses specialized graphical, textual, and spatial perception components with a da
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-14021/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-14021/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziwei Wang, Weizhi Chen, Leyang Yang, Sheng Zhou, Shengchu Zhao, Hanbei Zhan, Ji
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-14021/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-14021/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-14021/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-14021/citation.csl.json
 
 ## Recorded arXiv snapshot
 

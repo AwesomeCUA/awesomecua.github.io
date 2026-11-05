@@ -2,7 +2,7 @@
 
 Bibliographic record for Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-23803/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-23803/
 - Original source: https://arxiv.org/abs/2503.23803
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Thinking Longer, Not Larger: Enhancing Software Enginee
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-23803/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-23803/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yingwei Ma, Yongbin Li, Yihong Dong, Xue Jiang, Rongyu Cao, Jue Chen, Fei Huang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-23803/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-23803/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-23803/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-23803/citation.csl.json
 
 ## Recorded arXiv snapshot
 

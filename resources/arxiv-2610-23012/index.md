@@ -2,7 +2,7 @@
 
 MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-23012/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-23012/
 - Original source: https://arxiv.org/abs/2610.23012
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MAGE retrieves software-manual sections into fixed execution plans and generates
 
 Reviewed the complete retained abstract and selected exact-v1 methods, evaluation and validation sections. Execution plans stay fixed per episode; policy training is separate and application-specific. Screenshot-based training/Slack judgments can miss task conditions, and OSWorld tasks may overlap backbone pretraining. No independent reproduction, safe-deployment guarantee or artifact-release verification.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-23012/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-23012/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chulhoon Yoon, Kyungri Park, Jinyeong Yun, Daeyun Jeong, Sukmin Yun, Woohwan Jun
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-23012/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-23012/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-23012/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-23012/citation.csl.json
 
 ## Recorded arXiv snapshot
 

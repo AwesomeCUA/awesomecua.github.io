@@ -2,7 +2,7 @@
 
 Introduces desktop interaction videos and a framework combining synthetic examples with hierarchical contrastive learning for interface classification.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-10170/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-10170/
 - Original source: https://arxiv.org/abs/2403.10170
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces desktop interaction videos and a framework combining synthetic exampl
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-10170/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-10170/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Andrés Muñoz, Daniel Borrajo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-10170/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-10170/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-10170/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-10170/citation.csl.json
 
 ## Recorded arXiv snapshot
 

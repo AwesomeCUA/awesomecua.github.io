@@ -2,7 +2,7 @@
 
 Bibliographic record for You Told Me to Do It: Measuring Instructional Text-induced Private Data Leakage in LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-11862/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-11862/
 - Original source: https://arxiv.org/abs/2603.11862
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for You Told Me to Do It: Measuring Instructional Text-indu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-11862/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-11862/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ching-Yu Kao, Xinfeng Li, Shenyu Dai, Tianze Qiu, Pengcheng Zhou, Eric Hanchen J
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-11862/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-11862/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-11862/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-11862/citation.csl.json
 
 ## Recorded arXiv snapshot
 

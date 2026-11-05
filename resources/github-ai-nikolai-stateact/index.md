@@ -2,7 +2,7 @@
 
 State-tracking prompts and experiment runners for language agents, including a WebShop implementation alongside text-based environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-ai-nikolai-stateact/
+- Catalog URL: https://awesomecua.com/resources/github-ai-nikolai-stateact/
 - Original source: https://github.com/ai-nikolai/StateAct
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ State-tracking prompts and experiment runners for language agents, including a W
 
 The repository contains a WebShop runner as well as ALFWorld and TextCraft experiments. Inclusion concerns its web-shopping interaction component. No code license or downloadable trained checkpoint is declared in the inspected root metadata.
 
-- Record JSON: https://awesomecua.github.io/resources/github-ai-nikolai-stateact/record.json
+- Record JSON: https://awesomecua.com/resources/github-ai-nikolai-stateact/record.json
 
 ## License declarations
 

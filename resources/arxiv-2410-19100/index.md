@@ -2,7 +2,7 @@
 
 Evaluates whether web agents can retain procedural skills and factual information from long video tutorials and use them during tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-19100/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-19100/
 - Original source: https://arxiv.org/abs/2410.19100
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates whether web agents can retain procedural skills and factual informatio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-19100/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-19100/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lawrence Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Ro
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-19100/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-19100/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-19100/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-19100/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Lawrence Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Ro
 - Authors: Lawrence Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Rogerio Bonatti, Kazuhito Koishida
 - Publication date (recorded precision): 2025-05-01
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-19100/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-19100/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-19100/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-19100/publication-citation.csl.json
 - venue: International Conference on Learning Representations
 - volume: 2025
 - pages: 36934-36958

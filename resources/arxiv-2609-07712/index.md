@@ -2,7 +2,7 @@
 
 Introduces controlled simulated mobile apps with deterministic backend data and outcome checks for reproducible evaluation of realistic interactions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-07712/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-07712/
 - Original source: https://arxiv.org/abs/2609.07712
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces controlled simulated mobile apps with deterministic backend data and 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-07712/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-07712/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jintian Feng, Long Chen, Xiao Yu, Jiayi Dai, Chenglong Liu, Haoru Wang, Zizhen X
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-07712/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-07712/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-07712/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-07712/citation.csl.json
 
 ## Recorded arXiv snapshot
 

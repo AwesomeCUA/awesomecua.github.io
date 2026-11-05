@@ -2,7 +2,7 @@
 
 Combines generated tasks, estimated success rewards, and online reinforcement learning to automate GUI-agent interaction training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-23762/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-23762/
 - Original source: https://arxiv.org/abs/2505.23762
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines generated tasks, estimated success rewards, and online reinforcement le
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-23762/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-23762/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chenyu Yang, Shiqian Su, Shi Liu, Xuan Dong, Yue Yu, Weijie Su, Xuehui Wang, Zha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-23762/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-23762/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-23762/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-23762/citation.csl.json
 
 ## Recorded arXiv snapshot
 

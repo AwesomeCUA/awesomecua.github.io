@@ -2,7 +2,7 @@
 
 Web-agent benchmark for measuring unnecessary use of sensitive personal information during end-to-end task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-facebookresearch-ai-agent-privacy/
+- Catalog URL: https://awesomecua.com/resources/github-facebookresearch-ai-agent-privacy/
 - Original source: https://github.com/facebookresearch/ai-agent-privacy
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Web-agent benchmark for measuring unnecessary use of sensitive personal informat
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-facebookresearch-ai-agent-privacy/record.json
+- Record JSON: https://awesomecua.com/resources/github-facebookresearch-ai-agent-privacy/record.json
 
 ## License declarations
 

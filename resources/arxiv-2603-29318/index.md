@@ -2,7 +2,7 @@
 
 PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences rather than measuring generic task completion alone.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-29318/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-29318/
 - Original source: https://arxiv.org/abs/2603.29318
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific in
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-29318/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-29318/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongyi Nie, Xunyuan Liu, Yudong Bai, Yaqing Wang, Yang Liu, Quanming Yao, Zhen W
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-29318/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-29318/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-29318/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-29318/citation.csl.json
 
 ## Recorded arXiv snapshot
 

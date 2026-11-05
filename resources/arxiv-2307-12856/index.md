@@ -2,7 +2,7 @@
 
 Combines task decomposition, HTML summarization, and generated Python programs to carry out instructions on websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2307-12856/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2307-12856/
 - Original source: https://arxiv.org/abs/2307.12856
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines task decomposition, HTML summarization, and generated Python programs t
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-12856/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2307-12856/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Dougl
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-12856/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-12856/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2307-12856/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2307-12856/citation.csl.json
 
 ## Recorded arXiv snapshot
 

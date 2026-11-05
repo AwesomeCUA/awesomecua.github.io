@@ -2,7 +2,7 @@
 
 Introduces SoftwareGym, a pipeline that synthesizes runnable GUI applications and iteratively repairs them using execution checks. It also provides a task benchmark and studies whether training on synthesized application trajectories transfers to other computer-use environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-12611/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-12611/
 - Original source: https://arxiv.org/abs/2610.12611
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SoftwareGym, a pipeline that synthesizes runnable GUI applications an
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-12611/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-12611/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tian Jin, Wenhao Wang, Jing Kang, Haoting Shi, Rui Ye, Yijun Lu, Siheng Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-12611/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-12611/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-12611/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-12611/citation.csl.json
 
 ## Recorded arXiv snapshot
 

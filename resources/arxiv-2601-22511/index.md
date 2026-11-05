@@ -2,7 +2,7 @@
 
 Bibliographic record for Mock Worlds, Real Skills: Building Small Agentic Language Models with Synthetic Tasks, Simulated Environments, and Rubric-Based Rewards. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-22511/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-22511/
 - Original source: https://arxiv.org/abs/2601.22511
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Mock Worlds, Real Skills: Building Small Agentic Langua
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-22511/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-22511/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuanjie Lyu, Chengyu Wang, Lei Shen, Jun Huang, Tong Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-22511/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-22511/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-22511/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-22511/citation.csl.json
 
 ## Recorded arXiv snapshot
 

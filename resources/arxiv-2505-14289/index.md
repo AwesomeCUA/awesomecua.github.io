@@ -2,7 +2,7 @@
 
 Introduces EVA, a red-teaming framework that evolves semantic payloads for GUI environmental-injection tests. It studies the contribution of semantic versus visual deception and distills discovered patterns into reusable evaluation rules.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-14289/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-14289/
 - Original source: https://arxiv.org/abs/2505.14289
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces EVA, a red-teaming framework that evolves semantic payloads for GUI e
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14289/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-14289/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yijie Lu, Manman Zhao, Tianjie Ju, Zihe Yan, Xinbei Ma, Yuan Guo, Daizong Ding, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14289/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14289/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-14289/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-14289/citation.csl.json
 
 ## Recorded arXiv snapshot
 

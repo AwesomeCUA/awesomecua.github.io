@@ -2,7 +2,7 @@
 
 DUDE combines asymmetric hybrid-reward learning with summaries of deceptive-interface failures to guide safer web actions. Its RUC benchmark evaluates deception susceptibility alongside ordinary task performance across interface scenarios.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-09497/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-09497/
 - Original source: https://arxiv.org/abs/2605.09497
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DUDE combines asymmetric hybrid-reward learning with summaries of deceptive-inte
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-09497/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-09497/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yilin Zhang, Yingkai Hua, Chunyu Wei, Xin Wang, Yueguo Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-09497/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-09497/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-09497/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-09497/citation.csl.json
 
 ## Recorded arXiv snapshot
 

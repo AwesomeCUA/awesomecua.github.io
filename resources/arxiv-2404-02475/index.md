@@ -2,7 +2,7 @@
 
 Prompt2Task converts textual goals or procedures into smartphone UI automation using agents for intent interpretation, external-information handling, and execution. User feedback and accumulated task knowledge support subsequent task generation and operation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-02475/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-02475/
 - Original source: https://arxiv.org/abs/2404.02475
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Prompt2Task converts textual goals or procedures into smartphone UI automation u
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-02475/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-02475/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tian Huang, Chun Yu, Weinan Shi, Zijian Peng, David Yang, Weiqi Sun, Yuanchun Sh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-02475/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-02475/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-02475/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-02475/citation.csl.json
 
 ## Recorded arXiv snapshot
 

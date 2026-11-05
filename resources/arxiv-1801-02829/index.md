@@ -2,7 +2,7 @@
 
 Bibliographic record for Improvement of accuracy of the spectral element method for elastic wave computation using modified numerical integration operators. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1801-02829/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1801-02829/
 - Original source: https://arxiv.org/abs/1801.02829
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Improvement of accuracy of the spectral element method 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1801-02829/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1801-02829/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kei Hasegawa, Nobuaki Fuji, Kensuke Konishi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1801-02829/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1801-02829/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1801-02829/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1801-02829/citation.csl.json
 
 ## Recorded arXiv snapshot
 

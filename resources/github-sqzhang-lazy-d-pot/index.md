@@ -2,7 +2,7 @@
 
 Offline prompting and evaluation code for Dynamic Planning of Thoughts on Android-in-the-Wild, including action extraction and comparison with reference actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-sqzhang-lazy-d-pot/
+- Catalog URL: https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/
 - Original source: https://github.com/sqzhang-lazy/D-PoT
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Offline prompting and evaluation code for Dynamic Planning of Thoughts on Androi
 
 README describes AITW test sampling and preprocessing reused from Auto-GUI, followed by prediction/action-extraction/evaluation scripts. This is not claimed as a ready-to-run interactive phone controller. No project-level license declaration appears in the inspected README/API/non-truncated tree; code, dataset and model rights remain unestablished here.
 
-- Record JSON: https://awesomecua.github.io/resources/github-sqzhang-lazy-d-pot/record.json
+- Record JSON: https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/record.json
 
 ## License declarations
 

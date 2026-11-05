@@ -2,7 +2,7 @@
 
 Browser automation agent on the AG2 framework that pairs a planner agent with a browser navigation agent to fill forms, search shops and work through sites, also callable over a local HTTP API.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-emergenceai-agent-e/
+- Catalog URL: https://awesomecua.com/resources/github-emergenceai-agent-e/
 - Original source: https://github.com/EmergenceAI/Agent-E
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Browser automation agent on the AG2 framework that pairs a planner agent with a 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-emergenceai-agent-e/record.json
+- Record JSON: https://awesomecua.com/resources/github-emergenceai-agent-e/record.json
 
 ## License declarations
 

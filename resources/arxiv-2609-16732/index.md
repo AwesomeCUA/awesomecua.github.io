@@ -2,7 +2,7 @@
 
 Investigates mismatches between what humans see on a mobile display and what agents receive through screenshots or accessibility metadata. An automated evaluation framework embeds instruction-agnostic perturbations into functional APK clones and compares static and dynamic agent deviations with human noticeability.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-16732/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-16732/
 - Original source: https://arxiv.org/abs/2609.16732
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Investigates mismatches between what humans see on a mobile display and what age
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-16732/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-16732/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Heng Li, Fulin Zhao, Zhe Geng, Zhiyuan Yao, Wei Yuan, Xiapu Luo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-16732/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-16732/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-16732/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-16732/citation.csl.json
 
 ## Recorded arXiv snapshot
 

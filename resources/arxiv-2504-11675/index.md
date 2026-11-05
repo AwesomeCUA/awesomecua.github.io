@@ -2,7 +2,7 @@
 
 VLM-Fuzz combines depth-first UI exploration with Android manifest analysis, runtime widget hierarchies, and on-demand visual reasoning to generate app test inputs. It evaluates coverage on 59 benchmark apps and uses additional Google Play apps to study crash discovery.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-11675/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-11675/
 - Original source: https://arxiv.org/abs/2504.11675
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VLM-Fuzz combines depth-first UI exploration with Android manifest analysis, run
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11675/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-11675/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Biniam Fisseha Demissie, Yan Naing Tun, Lwin Khin Shar, Mariano Ceccato
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11675/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11675/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-11675/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-11675/citation.csl.json
 
 ## Recorded arXiv snapshot
 

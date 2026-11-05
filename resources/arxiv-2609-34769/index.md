@@ -2,7 +2,7 @@
 
 LongPuzzleBench evaluates coherent long-horizon planning on persistent visual puzzle boards through native GUI actions. It compares GUI-only and code-assisted agents and uses controlled hints and memory diagnostics to examine decisions that preserve or eliminate future solutions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-34769/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-34769/
 - Original source: https://arxiv.org/abs/2609.34769
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LongPuzzleBench evaluates coherent long-horizon planning on persistent visual pu
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced. Agents execute real GUI moves in six puzzle games; the tasks diagnose computer-control planning but remain game-based rather than general productivity workflows.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-34769/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-34769/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bingo Zhang, Haochuan Lu, Zongjie Li, Genjian Li, Ari Yu Zhang, Chaozheng Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-34769/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-34769/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-34769/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-34769/citation.csl.json
 
 ## Recorded arXiv snapshot
 

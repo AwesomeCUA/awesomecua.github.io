@@ -2,7 +2,7 @@
 
 Introduces WebFactory, a GUI-agent training pipeline that synthesizes websites, generates tasks and trajectories, and trains with decomposed rewards. Offline and online transfer evaluations examine agents trained on the generated environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-05044/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-05044/
 - Original source: https://arxiv.org/abs/2603.05044
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebFactory, a GUI-agent training pipeline that synthesizes websites, 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-05044/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-05044/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sicheng Fan, Qingyun Shi, Shengze Xu, Shengbo Cai, Tieyong Zeng, Li Ling, Yanyi 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-05044/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-05044/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-05044/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-05044/citation.csl.json
 
 ## Recorded arXiv snapshot
 

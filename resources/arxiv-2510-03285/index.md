@@ -2,7 +2,7 @@
 
 WAREX augments existing web-agent benchmarks with reliability challenges arising from unstable systems and changing or disruptive website behavior. Evaluation on WebArena, WebVoyager and REAL examines how these disturbances affect task completion.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-03285/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-03285/
 - Original source: https://arxiv.org/abs/2510.03285
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WAREX augments existing web-agent benchmarks with reliability challenges arising
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-03285/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-03285/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Su Kara, Fazle Faisal, Suman Nath
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-03285/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-03285/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-03285/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-03285/citation.csl.json
 
 ## Recorded arXiv snapshot
 

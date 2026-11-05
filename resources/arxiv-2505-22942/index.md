@@ -2,7 +2,7 @@
 
 Uses rule-based rewards for output structure and action correctness to train reasoning for enterprise web navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-22942/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-22942/
 - Original source: https://arxiv.org/abs/2505.22942
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses rule-based rewards for output structure and action correctness to train rea
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-22942/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-22942/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuchen Zhuang, Di Jin, Jiaao Chen, Wenqi Shi, Hanrui Wang, Chao Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-22942/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-22942/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-22942/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-22942/citation.csl.json
 
 ## Recorded arXiv snapshot
 

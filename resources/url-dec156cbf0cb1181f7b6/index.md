@@ -2,7 +2,7 @@
 
 AWS service for building and deploying agents that automate browser-based UI workflows from natural language and Python, powered by a custom Nova 2 Lite model.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-dec156cbf0cb1181f7b6/
+- Catalog URL: https://awesomecua.com/resources/url-dec156cbf0cb1181f7b6/
 - Original source: https://aws.amazon.com/nova/act/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ AWS service for building and deploying agents that automate browser-based UI wor
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-dec156cbf0cb1181f7b6/record.json
+- Record JSON: https://awesomecua.com/resources/url-dec156cbf0cb1181f7b6/record.json
 
 ## License declarations
 

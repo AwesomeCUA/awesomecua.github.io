@@ -2,7 +2,7 @@
 
 Introduces questions that test assistant reasoning, multimodal understanding, browsing, and tool use beyond screen-action execution alone.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2311-12983/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2311-12983/
 - Original source: https://arxiv.org/abs/2311.12983
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces questions that test assistant reasoning, multimodal understanding, br
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-12983/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2311-12983/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Th
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-12983/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-12983/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2311-12983/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2311-12983/citation.csl.json
 
 ## Recorded arXiv snapshot
 

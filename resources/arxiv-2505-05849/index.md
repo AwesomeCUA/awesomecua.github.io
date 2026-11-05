@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-05849/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-05849/
 - Original source: https://arxiv.org/abs/2505.05849
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentVigil: Generic Black-Box Red-teaming for Indirect 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-05849/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-05849/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhun Wang, Vincent Siu, Zhe Ye, Tianneng Shi, Yuzhou Nie, Xuandong Zhao, Chengua
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-05849/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-05849/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-05849/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-05849/citation.csl.json
 
 ## Recorded arXiv snapshot
 

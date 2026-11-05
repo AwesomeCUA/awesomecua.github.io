@@ -2,7 +2,7 @@
 
 Introduces MobileRisk-Live and OS-Sentinel, combining a formal verifier for system-level violations with a multimodal judge for contextual risks in mobile GUI workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-24411/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-24411/
 - Original source: https://arxiv.org/abs/2510.24411
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MobileRisk-Live and OS-Sentinel, combining a formal verifier for syst
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-24411/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-24411/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qiushi Sun, Mukai Li, Zhoumianze Liu, Zhihui Xie, Fangzhi Xu, Zhangyue Yin, Kanz
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-24411/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-24411/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-24411/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-24411/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 DigitalCoach records expert–novice software coaching conversations aligned with screen and input events. Automated and interactive evaluations examine how model coaches differ from humans in explanation, error diagnosis and visual grounding when helping a learner operate software.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-31980/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-31980/
 - Original source: https://arxiv.org/abs/2606.31980
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DigitalCoach records expert–novice software coaching conversations aligned wit
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-31980/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-31980/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Meng Chen, Anya Ji, Tsung-Han Wu, Tobias Maringgele, David M. Chan, Alane Suhr, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-31980/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-31980/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-31980/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-31980/citation.csl.json
 
 ## Recorded arXiv snapshot
 

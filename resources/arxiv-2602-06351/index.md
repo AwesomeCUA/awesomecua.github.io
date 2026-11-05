@@ -2,7 +2,7 @@
 
 Trifuse combines attention-based localization with OCR text cues and icon captions to ground GUI instructions. Its fusion procedure favors cross-modal agreement and sharp location peaks, and is evaluated without task-specific fine-tuning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-06351/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-06351/
 - Original source: https://arxiv.org/abs/2602.06351
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trifuse combines attention-based localization with OCR text cues and icon captio
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-06351/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-06351/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Longhui Ma, Di Zhao, Siwei Wang, Zhao Lv, Miao Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-06351/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-06351/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-06351/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-06351/citation.csl.json
 
 ## Recorded arXiv snapshot
 

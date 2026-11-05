@@ -2,7 +2,7 @@
 
 Planner and action-executor training examples for WebArena-Lite and WebVoyager, with model-specific processed files and raw trajectory annotations.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-ba6453cfdae0eb049ced/
+- Catalog URL: https://awesomecua.com/resources/url-ba6453cfdae0eb049ced/
 - Original source: https://huggingface.co/datasets/xTRam1/plan-and-act-data
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Planner and action-executor training examples for WebArena-Lite and WebVoyager, 
 
 The public manifest exposes JSON/JSONL data for planner and actor roles, including train and validation variants. The card declares MIT. Its loading examples use a different Hub repository identifier and omit the data/ prefix for one file; use the inspected xTRam1 manifest rather than copying those examples verbatim. Third-party site content retains its own terms.
 
-- Record JSON: https://awesomecua.github.io/resources/url-ba6453cfdae0eb049ced/record.json
+- Record JSON: https://awesomecua.com/resources/url-ba6453cfdae0eb049ced/record.json
 
 ## Structured profile
 

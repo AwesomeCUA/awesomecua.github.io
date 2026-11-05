@@ -2,7 +2,7 @@
 
 Mobile-control research implementation combining operating-procedure context with human interaction for personalized task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-alipay-mobile-agent/
+- Catalog URL: https://awesomecua.com/resources/github-alipay-mobile-agent/
 - Original source: https://github.com/alipay/mobile-agent
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Mobile-control research implementation combining operating-procedure context wit
 
 Distinct from the X-PLUG/MobileAgent project despite the similar name.
 
-- Record JSON: https://awesomecua.github.io/resources/github-alipay-mobile-agent/record.json
+- Record JSON: https://awesomecua.com/resources/github-alipay-mobile-agent/record.json
 
 ## License declarations
 

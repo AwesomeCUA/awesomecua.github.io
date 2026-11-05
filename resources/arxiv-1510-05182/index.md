@@ -2,7 +2,7 @@
 
 Bibliographic record for Sustainability-Aware Cloud Computing Using Virtual Carbon Tax. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1510-05182/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1510-05182/
 - Original source: https://arxiv.org/abs/1510.05182
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Sustainability-Aware Cloud Computing Using Virtual Carb
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1510-05182/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1510-05182/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fereydoun Farrahi Moghaddam, Mohamed Cheriet
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1510-05182/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1510-05182/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1510-05182/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1510-05182/citation.csl.json
 
 ## Recorded arXiv snapshot
 

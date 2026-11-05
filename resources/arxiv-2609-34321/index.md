@@ -2,7 +2,7 @@
 
 Defines a test-time adaptation setting with one counted attempt per arriving GUI task and no ground-truth feedback. Its SOLO method filters or relabels completed episodes, then updates a small adapter from a short window of the agent’s own experience.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-34321/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-34321/
 - Original source: https://arxiv.org/abs/2609.34321
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Defines a test-time adaptation setting with one counted attempt per arriving GUI
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-34321/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-34321/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziqiang Wang, Li Gu, Zhixiang Chi, Linlian Jiang, Zihuan Jiang, Linqiang Guo, Si
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-34321/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-34321/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-34321/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-34321/citation.csl.json
 
 ## Recorded arXiv snapshot
 

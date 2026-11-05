@@ -2,7 +2,7 @@
 
 Develops a taxonomy of computer-use-agent interaction design through system review and practitioner interviews. A Wizard-of-Oz study then examines how users respond to normal, erroneous, and risky web-based execution, focusing on control, explanation, prompts, and mental models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-07283/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-07283/
 - Original source: https://arxiv.org/abs/2602.07283
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Develops a taxonomy of computer-use-agent interaction design through system revi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-07283/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-07283/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruijia Cheng, Jenny T. Liang, Eldon Schoop, Jeffrey Nichols
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-07283/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-07283/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-07283/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-07283/citation.csl.json
 
 ## Recorded arXiv snapshot
 

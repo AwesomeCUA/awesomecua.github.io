@@ -2,7 +2,7 @@
 
 Trident combines exploration, monitoring, and detection agents to identify functional bugs that do not crash a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-03037/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-03037/
 - Original source: https://arxiv.org/abs/2407.03037
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trident combines exploration, monitoring, and detection agents to identify funct
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-03037/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-03037/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhe Liu, Cheng Li, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yawen Wan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-03037/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-03037/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-03037/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-03037/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 ILuvUI generates 335,000 conversational training examples paired with UI screenshots, covering questions, descriptions, and plans. The resulting vision-language model is assessed on element detection, response quality, and examples of multi-step UI navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-04869/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-04869/
 - Original source: https://arxiv.org/abs/2310.04869
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ILuvUI generates 335,000 conversational training examples paired with UI screens
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-04869/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-04869/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yue Jiang, Eldon Schoop, Amanda Swearngin, Jeffrey Nichols
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-04869/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-04869/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-04869/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-04869/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 A visual trajectory judge that retains selected intermediate screenshots to evaluate whether a web agent completed its task.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-772161f06c2b3d4978b5/
+- Catalog URL: https://awesomecua.com/resources/url-772161f06c2b3d4978b5/
 - Original source: https://huggingface.co/osunlp/WebJudge-7B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A visual trajectory judge that retains selected intermediate screenshots to eval
 
 Four public safetensors shards are present. Apache-2.0 is declared for the weights. This is an evaluator checkpoint rather than a navigation policy; human-agreement rates are not treated as task-success scores.
 
-- Record JSON: https://awesomecua.github.io/resources/url-772161f06c2b3d4978b5/record.json
+- Record JSON: https://awesomecua.com/resources/url-772161f06c2b3d4978b5/record.json
 
 ## License declarations
 

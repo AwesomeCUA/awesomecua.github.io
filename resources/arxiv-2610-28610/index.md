@@ -2,7 +2,7 @@
 
 Bibliographic record for InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-28610/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-28610/
 - Original source: https://arxiv.org/abs/2610.28610
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for InterWebCoder: Learning Interactive Webpage Generation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-28610/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-28610/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingyu Xiao, Dasen Dai, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Hongyu Zhang, Mi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-28610/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-28610/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-28610/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-28610/citation.csl.json
 
 ## Recorded arXiv snapshot
 

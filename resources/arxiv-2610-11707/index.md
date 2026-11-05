@@ -2,7 +2,7 @@
 
 Introduces DeltaReplay, which stores mobile GUI trajectories as transition graphs and decides at each step whether to reuse an action, substitute task-specific parameters, or defer to the base agent. This supports reuse of partially matching experiences without rewriting stored memory.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-11707/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-11707/
 - Original source: https://arxiv.org/abs/2610.11707
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces DeltaReplay, which stores mobile GUI trajectories as transition graph
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-11707/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-11707/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yudong Bai, Yihong Chen, Quanming Yao, Yaqing Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-11707/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-11707/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-11707/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-11707/citation.csl.json
 
 ## Recorded arXiv snapshot
 

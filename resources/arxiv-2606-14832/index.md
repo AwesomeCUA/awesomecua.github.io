@@ -2,7 +2,7 @@
 
 PhoneHarness routes phone workflows across GUI actions, device-side commands and host tools while retaining auditable execution traces. Its accompanying benchmark checks observable task side effects, separating mixed-action execution from plausible final-answer generation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-14832/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-14832/
 - Original source: https://arxiv.org/abs/2606.14832
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PhoneHarness routes phone workflows across GUI actions, device-side commands and
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-14832/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-14832/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chenxin Li, Zhengyao Fang, Zhengyang Tang, Pengyuan Lyu, Xingran Zhou, Xin Lai, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-14832/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-14832/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-14832/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-14832/citation.csl.json
 
 ## Recorded arXiv snapshot
 

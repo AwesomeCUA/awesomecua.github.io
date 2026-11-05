@@ -2,7 +2,7 @@
 
 Bibliographic record for LLMC+: Benchmarking Vision-Language Model Compression with a Plug-and-play Toolkit. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-09981/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-09981/
 - Original source: https://arxiv.org/abs/2508.09981
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for LLMC+: Benchmarking Vision-Language Model Compression w
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-09981/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-09981/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chengtao Lv, Bilang Zhang, Yang Yong, Ruihao Gong, Yushi Huang, Shiqiao Gu, Jiaj
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-09981/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-09981/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-09981/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-09981/citation.csl.json
 
 ## Recorded arXiv snapshot
 

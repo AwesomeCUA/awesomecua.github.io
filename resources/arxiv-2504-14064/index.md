@@ -2,7 +2,7 @@
 
 Presents a modular security testing framework that plugs into BrowserGym and tool-use benchmarks to evaluate agents under configurable threat models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-14064/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-14064/
 - Original source: https://arxiv.org/abs/2504.14064
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents a modular security testing framework that plugs into BrowserGym and too
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-14064/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-14064/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Leo Boisvert, Mihir Bansal, Chandra Kiran Reddy Evuru, Gabriel Huang, Abhay Puri
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-14064/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-14064/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-14064/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-14064/citation.csl.json
 
 ## Recorded arXiv snapshot
 

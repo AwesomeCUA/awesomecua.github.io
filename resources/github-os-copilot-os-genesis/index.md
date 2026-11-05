@@ -2,7 +2,7 @@
 
 Interaction-driven pipeline that synthesizes mobile and web GUI agent trajectories without human supervision or predefined tasks, via reverse task synthesis and a trajectory reward model.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-genesis/
+- Catalog URL: https://awesomecua.com/resources/github-os-copilot-os-genesis/
 - Original source: https://github.com/OS-Copilot/OS-Genesis
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Interaction-driven pipeline that synthesizes mobile and web GUI agent trajectori
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-os-genesis/record.json
+- Record JSON: https://awesomecua.com/resources/github-os-copilot-os-genesis/record.json
 
 ## Structured profile
 

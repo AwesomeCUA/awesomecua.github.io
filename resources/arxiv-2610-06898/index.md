@@ -2,7 +2,7 @@
 
 Evaluates whether deceptive UI content steers mobile agents away from instruction-consistent choices, using paired benign and injected decision states and decision-integrity metrics.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-06898/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-06898/
 - Original source: https://arxiv.org/abs/2610.06898
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates whether deceptive UI content steers mobile agents away from instructio
 
 The commercial-app protocol uses fixed screenshots and context for selection decisions, rather than live end-to-end transactions. Android is supported by the paper's emulator setup. Completion and integrity are distinct measures; no reported scores were reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Benchmark components; 3.2 Instance generation; 3.3 Paired protocol/metrics; 5 Limitations/Ethics; Appendix B (Android emulator setup)); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-06898/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-06898/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Li Hu, Kanghua Mo, Yingbin Jin, Qingqing Ye, Haibo Hu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-06898/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-06898/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-06898/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-06898/citation.csl.json
 
 ## Recorded arXiv snapshot
 

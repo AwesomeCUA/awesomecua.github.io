@@ -2,7 +2,7 @@
 
 Introduces Web$hell, an interface that compiles live pages into persistent information and action objects so agents can gather evidence, navigate websites, and reuse acquired content through shared operations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-13416/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-13416/
 - Original source: https://arxiv.org/abs/2610.13416
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Web$hell, an interface that compiles live pages into persistent infor
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-13416/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-13416/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sunghwan Kim, Deogyong Kim, Sangam Lee, Donguk Kwon, Dongha Lee
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-13416/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-13416/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-13416/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-13416/citation.csl.json
 
 ## Recorded arXiv snapshot
 

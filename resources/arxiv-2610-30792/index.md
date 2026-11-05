@@ -2,7 +2,7 @@
 
 Bibliographic record for Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-30792/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-30792/
 - Original source: https://arxiv.org/abs/2610.30792
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Trace2World: Reconstructing App Worlds from Real Intera
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-30792/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-30792/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zezhou Wang, Hanzhang Zhou, Panrong Tong, Quyu Kong, Pengxiang Li, Steven Hoi, Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-30792/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-30792/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-30792/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-30792/citation.csl.json
 
 ## Recorded arXiv snapshot
 

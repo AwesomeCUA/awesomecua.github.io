@@ -2,7 +2,7 @@
 
 Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-21776/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-21776/
 - Original source: https://arxiv.org/abs/2504.21776
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines iterative web search and link-following with interleaved reasoning and 
 
 Adjacent web-research method. The retained abstract and full-text Section 3 and Appendix A describe search APIs and Crawl4AI URL retrieval; no visual GUI execution is inferred. Results were not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-21776/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-21776/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaoxi Li, Jiajie Jin, Guanting Dong, Hongjin Qian, Yongkang Wu, Ji-Rong Wen, Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-21776/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-21776/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-21776/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-21776/citation.csl.json
 
 ## Recorded arXiv snapshot
 

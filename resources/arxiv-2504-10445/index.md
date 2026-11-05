@@ -2,7 +2,7 @@
 
 RealWebAssist evaluates web assistance through sequences of instructions collected from real users across multiple websites. It tests intent interpretation, user-specific routines, long-term context, and visual grounding when instructions are ambiguous or evolve during interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-10445/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-10445/
 - Original source: https://arxiv.org/abs/2504.10445
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ RealWebAssist evaluates web assistance through sequences of instructions collect
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-10445/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-10445/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Suyu Ye, Haojun Shi, Darren Shih, Hyokun Yun, Tanya Roosta, Tianmin Shu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-10445/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-10445/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-10445/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-10445/citation.csl.json
 
 ## Recorded arXiv snapshot
 

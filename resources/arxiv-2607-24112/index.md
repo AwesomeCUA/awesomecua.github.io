@@ -2,7 +2,7 @@
 
 Introduces State Transition Pretraining, which jointly learns to infer actions from GUI changes and predict future states from current screens and actions. Subsequent instruction-trajectory fine-tuning tests whether these representations transfer to desktop and mobile agent tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-24112/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-24112/
 - Original source: https://arxiv.org/abs/2607.24112
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces State Transition Pretraining, which jointly learns to infer actions f
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-24112/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-24112/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiangyan Liu, Kaixin Li, Haonan Wang, Biao Wu, Meng Fang, Longxu Dou, Chao Du, M
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-24112/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-24112/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-24112/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-24112/citation.csl.json
 
 ## Recorded arXiv snapshot
 

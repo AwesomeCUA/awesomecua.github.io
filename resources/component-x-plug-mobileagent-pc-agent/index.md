@@ -2,7 +2,7 @@
 
 Multi-agent desktop automation component for Windows and macOS, combining active perception, task decomposition and reflection for workflows spanning applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/component-x-plug-mobileagent-pc-agent/
+- Catalog URL: https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/
 - Original source: https://github.com/X-PLUG/MobileAgent/tree/main/PC-Agent
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Multi-agent desktop automation component for Windows and macOS, combining active
 
 Scoped to PC-Agent in the MobileAgent monorepo and distinct from GAIR-NLP/PC-Agent. The source tree contains current and v1 implementations; the README states a March 2025 code update. Root MIT covers repository code; the separately linked PC-Eval tasks and application software are not assigned that license by this record.
 
-- Record JSON: https://awesomecua.github.io/resources/component-x-plug-mobileagent-pc-agent/record.json
+- Record JSON: https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/record.json
 
 ## License declarations
 

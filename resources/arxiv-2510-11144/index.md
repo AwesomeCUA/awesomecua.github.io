@@ -2,7 +2,7 @@
 
 Bibliographic record for $How^{2}$: How to learn from procedural How-to questions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-11144/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-11144/
 - Original source: https://arxiv.org/abs/2510.11144
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for $How^{2}$: How to learn from procedural How-to question
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-11144/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-11144/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gautier Dagan, Frank Keller, Alex Lascarides
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-11144/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-11144/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-11144/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-11144/citation.csl.json
 
 ## Recorded arXiv snapshot
 

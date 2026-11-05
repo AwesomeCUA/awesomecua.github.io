@@ -2,7 +2,7 @@
 
 Presents CaptchaAgent, which builds an explicit visual representation of objects and relations, refines ambiguous regions, and checks counterfactual consistency before acting on interactive CAPTCHAs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-12866/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-12866/
 - Original source: https://arxiv.org/abs/2610.12866
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents CaptchaAgent, which builds an explicit visual representation of objects
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-12866/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-12866/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shangquan Sun, Ruoyu Chen, Zhirui Liu, Xiang Liu, Chenghao Qian, Wenqi Ren, Xiao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-12866/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-12866/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-12866/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-12866/citation.csl.json
 
 ## Recorded arXiv snapshot
 

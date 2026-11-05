@@ -2,7 +2,7 @@
 
 Introduces a dataset and benchmark for generating executable task scripts from screenshots and visually grounded desktop or web instructions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-17553/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-17553/
 - Original source: https://arxiv.org/abs/2402.17553
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a dataset and benchmark for generating executable task scripts from s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-17553/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-17553/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Wase
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-17553/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-17553/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-17553/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-17553/citation.csl.json
 
 ## Recorded arXiv snapshot
 

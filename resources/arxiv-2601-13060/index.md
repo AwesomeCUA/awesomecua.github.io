@@ -2,7 +2,7 @@
 
 MagicGUI-RMS combines domain-specific and general reward models to assess GUI actions and propose corrections. A structured data pipeline and feedback-recycling process support repeated reward-model and agent improvement.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-13060/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-13060/
 - Original source: https://arxiv.org/abs/2601.13060
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MagicGUI-RMS combines domain-specific and general reward models to assess GUI ac
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-13060/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-13060/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zecheng Li, Zhihui Cao, Wenke Huang, Yudong Zhang, Keying Qi, Rui Wang, Zeyu Zhe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-13060/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-13060/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-13060/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-13060/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces a real-computer evaluation environment with execution-based checks for tasks spanning desktop applications and operating-system state.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-07972/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-07972/
 - Original source: https://arxiv.org/abs/2404.07972
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a real-computer evaluation environment with execution-based checks fo
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-07972/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-07972/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-07972/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-07972/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-07972/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-07972/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao
 - Authors: Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh J. Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu
 - Publication date (recorded precision): 2024-12-16
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2404-07972/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-07972/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2404-07972/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2404-07972/publication-citation.csl.json
 - venue: Advances in Neural Information Processing Systems
 - volume: 37
 - pages: 52040-52094

@@ -2,7 +2,7 @@
 
 Measures how autonomous LLM browser agents interact with commercial bot-management and anti-automation defenses on the web.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-18659/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-18659/
 - Original source: https://arxiv.org/abs/2607.18659
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Measures how autonomous LLM browser agents interact with commercial bot-manageme
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-18659/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-18659/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Behzad Ousat, Nikita Turkmen, Lalchandra Rampersaud, Dillan Bailey, Amin Kharraz
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-18659/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-18659/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-18659/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-18659/citation.csl.json
 
 ## Recorded arXiv snapshot
 

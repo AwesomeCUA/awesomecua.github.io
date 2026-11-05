@@ -2,7 +2,7 @@
 
 Bibliographic record for Manipulating Multimodal Agents via Cross-Modal Prompt Injection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-14348/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-14348/
 - Original source: https://arxiv.org/abs/2504.14348
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Manipulating Multimodal Agents via Cross-Modal Prompt I
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-14348/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-14348/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Le Wang, Zonghao Ying, Tianyuan Zhang, Siyuan Liang, Shengshan Hu, Mingchuan Zha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-14348/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-14348/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-14348/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-14348/citation.csl.json
 
 ## Recorded arXiv snapshot
 

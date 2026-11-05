@@ -2,7 +2,7 @@
 
 Introduces PIXELHELP for predicting mobile UI action sequences from instructions, together with action-phrase annotations and synthetic UI action descriptions for training. Separate Transformers extract instruction steps and ground object descriptions using interface content and screen position.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2005-03776/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2005-03776/
 - Original source: https://arxiv.org/abs/2005.03776
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PIXELHELP for predicting mobile UI action sequences from instructions
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2005-03776/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2005-03776/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2005-03776/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2005-03776/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2005-03776/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2005-03776/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 - Authors: Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 - Publication date (recorded precision): 2020-07
 - Publication source: https://aclanthology.org/2020.acl-main.729/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2005-03776/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2005-03776/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2005-03776/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2005-03776/publication-citation.csl.json
 - venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
 - publisher: Association for Computational Linguistics
 - pages: 8198-8210

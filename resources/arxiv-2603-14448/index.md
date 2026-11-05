@@ -2,7 +2,7 @@
 
 Presents ZoomUI, a training-free grounding method that expresses instructions as visual element descriptions and uses model attention to zoom progressively into relevant interface regions. Evaluation examines instruction-to-element localization on GUI benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-14448/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-14448/
 - Original source: https://arxiv.org/abs/2603.14448
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents ZoomUI, a training-free grounding method that expresses instructions as
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-14448/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-14448/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziwei Liu, Tao Feng, Borui Kang, Yanbing Yang, Jun Luo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-14448/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-14448/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-14448/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-14448/citation.csl.json
 
 ## Recorded arXiv snapshot
 

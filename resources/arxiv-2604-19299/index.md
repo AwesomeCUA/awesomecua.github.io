@@ -2,7 +2,7 @@
 
 Bibliographic record for Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-19299/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-19299/
 - Original source: https://arxiv.org/abs/2604.19299
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for Rethinking Scale: Deployment Trade-offs of Small Langua
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-19299/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-19299/record.json
 
 ## Recorded reviewer hold
 
 The abstract compares base models, tool\-equipped agents and multi\-agent systems without identifying interface\-interaction tasks\. Retain as metadata pending a task\-level scope check\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Xinlin Wang, Mats Brorsson
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-19299/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-19299/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-19299/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-19299/citation.csl.json
 
 ## Recorded arXiv snapshot
 

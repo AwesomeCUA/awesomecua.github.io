@@ -2,7 +2,7 @@
 
 Tools for learning and automating workflows from desktop demonstrations.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-openadaptai-openadapt/
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt/
 - Original source: https://github.com/OpenAdaptAI/OpenAdapt
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Tools for learning and automating workflows from desktop demonstrations.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-openadaptai-openadapt/record.json
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt/record.json
 
 ## License declarations
 

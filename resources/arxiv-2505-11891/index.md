@@ -2,7 +2,7 @@
 
 Mobile-Bench-v2 evaluates mobile GUI agents using multiple acceptable offline action paths, noisy interfaces with ads or pop-ups, and ambiguous instructions with scripted clarification exchanges. These splits separate step-level execution, robustness, and proactive interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-11891/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-11891/
 - Original source: https://arxiv.org/abs/2505.11891
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Mobile-Bench-v2 evaluates mobile GUI agents using multiple acceptable offline ac
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-11891/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-11891/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yuanchun
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-11891/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-11891/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-11891/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-11891/citation.csl.json
 
 ## Recorded arXiv snapshot
 

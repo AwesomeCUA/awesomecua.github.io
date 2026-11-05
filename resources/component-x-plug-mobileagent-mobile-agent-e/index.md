@@ -2,7 +2,7 @@
 
 Android automation component with hierarchical planning, reflection and persistent tips/shortcuts learned across task sequences.
 
-- Catalog URL: https://awesomecua.github.io/resources/component-x-plug-mobileagent-mobile-agent-e/
+- Catalog URL: https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/
 - Original source: https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-E
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Android automation component with hierarchical planning, reflection and persiste
 
 The inspected README explicitly supports Android only, with experiments on Samsung Galaxy A15; host-machine macOS/Linux instructions do not imply control of those operating systems. Agent code, launch scripts and benchmark definitions are present. The root MIT code license does not establish terms for the separately published task dataset or external models.
 
-- Record JSON: https://awesomecua.github.io/resources/component-x-plug-mobileagent-mobile-agent-e/record.json
+- Record JSON: https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/record.json
 
 ## License declarations
 

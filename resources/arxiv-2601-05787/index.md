@@ -2,7 +2,7 @@
 
 BEPA adapts a small set of expert GUI traces into policy-aligned guidance through trajectories reachable by the learner and a dynamically updated task cache. It evaluates this two-level approach to reinforcement learning on desktop and web benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-05787/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-05787/
 - Original source: https://arxiv.org/abs/2601.05787
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ BEPA adapts a small set of expert GUI traces into policy-aligned guidance throug
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-05787/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-05787/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zezhou Wang, Ziyun Zhang, Xiaoyi Zhang, Zhuzhong Qian, Yan Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-05787/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-05787/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-05787/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-05787/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-39251/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-39251/
 - Original source: https://arxiv.org/abs/2610.39251
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Where to Learn and How Far to Roll Out: Efficient Adapt
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-39251/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-39251/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxiang Chai, Quyu Kong, Panrong Tong, Steven Hoi, Yue Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-39251/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-39251/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-39251/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-39251/citation.csl.json
 
 ## Recorded arXiv snapshot
 

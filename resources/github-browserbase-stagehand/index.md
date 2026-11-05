@@ -2,7 +2,7 @@
 
 Browser automation framework combining code and natural-language actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-browserbase-stagehand/
+- Catalog URL: https://awesomecua.com/resources/github-browserbase-stagehand/
 - Original source: https://github.com/browserbase/stagehand
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Browser automation framework combining code and natural-language actions.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-browserbase-stagehand/record.json
+- Record JSON: https://awesomecua.com/resources/github-browserbase-stagehand/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-agentsea-agentdesk/
+- Catalog URL: https://awesomecua.com/resources/github-agentsea-agentdesk/
 - Original source: https://github.com/agentsea/agentdesk
 - Kind: infrastructure
 - Review: curated
@@ -16,7 +16,7 @@ Desktop environments that AI agents control programmatically, run locally with D
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-agentsea-agentdesk/record.json
+- Record JSON: https://awesomecua.com/resources/github-agentsea-agentdesk/record.json
 
 ## License declarations
 

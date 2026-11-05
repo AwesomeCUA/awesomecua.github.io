@@ -2,7 +2,7 @@
 
 Introduces Chameleon, an environmental-injection evaluation framework that varies webpage content and trigger context. It combines simulated page variation with attention-based optimization and tests GUI agents across realistic websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-11250/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-11250/
 - Original source: https://arxiv.org/abs/2509.11250
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Chameleon, an environmental-injection evaluation framework that varie
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-11250/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-11250/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yitong Zhang, Ximo Li, Liyi Cai, Jia Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-11250/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-11250/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-11250/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-11250/citation.csl.json
 
 ## Recorded arXiv snapshot
 

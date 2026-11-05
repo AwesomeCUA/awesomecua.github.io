@@ -2,7 +2,7 @@
 
 Bibliographic record for Tool Learning with Foundation Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2304-08354/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2304-08354/
 - Original source: https://arxiv.org/abs/2304.08354
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Tool Learning with Foundation Models. Title, authors an
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2304-08354/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2304-08354/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2304-08354/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2304-08354/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2304-08354/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2304-08354/citation.csl.json
 
 ## Recorded arXiv snapshot
 

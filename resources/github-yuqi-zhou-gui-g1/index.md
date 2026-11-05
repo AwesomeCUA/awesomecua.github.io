@@ -2,7 +2,7 @@
 
 GUI-grounding training code that modifies reasoning templates, reward functions, and the GRPO objective, with a linked model release.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-yuqi-zhou-gui-g1/
+- Catalog URL: https://awesomecua.com/resources/github-yuqi-zhou-gui-g1/
 - Original source: https://github.com/Yuqi-Zhou/GUI-G1
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ GUI-grounding training code that modifies reasoning templates, reward functions,
 
 The README retains an older release-pending notice alongside a later checkpoint-release announcement. Check the linked model card for current weight availability and terms.
 
-- Record JSON: https://awesomecua.github.io/resources/github-yuqi-zhou-gui-g1/record.json
+- Record JSON: https://awesomecua.com/resources/github-yuqi-zhou-gui-g1/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Introduces OpenApps, a configurable app ecosystem for measuring UI-agent reliability under changes in appearance and content. Its evaluation compares task success and failure behavior across many versions of the same apps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-20766/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-20766/
 - Original source: https://arxiv.org/abs/2511.20766
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces OpenApps, a configurable app ecosystem for measuring UI-agent reliabi
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-20766/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-20766/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Karen Ullrich, Jingtong Su, Claudia Shi, Arjun Subramonian, Amir Bar, Ivan Evtim
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-20766/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-20766/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-20766/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-20766/citation.csl.json
 
 ## Recorded arXiv snapshot
 

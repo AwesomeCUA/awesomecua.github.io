@@ -2,7 +2,7 @@
 
 OpAgent combines multi-task GUI fine-tuning with online web reinforcement learning using outcome judgments and rule-based progress rewards. A modular planner, grounder, reflector and summarizer support navigation and recovery, evaluated separately from the underlying trained policy.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-13559/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-13559/
 - Original source: https://arxiv.org/abs/2602.13559
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OpAgent combines multi-task GUI fine-tuning with online web reinforcement learni
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-13559/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-13559/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuyu Guo, Wenjie Yang, Siyuan Yang, Ziyang Liu, Cheng Chen, Yuan Wei, Yun Hu, Ya
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-13559/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-13559/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-13559/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-13559/citation.csl.json
 
 ## Recorded arXiv snapshot
 

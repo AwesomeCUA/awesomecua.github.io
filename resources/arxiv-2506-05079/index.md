@@ -2,7 +2,7 @@
 
 ScenGen organizes mobile GUI testing around business scenarios rather than unrestricted exploration. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-05079/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-05079/
 - Original source: https://arxiv.org/abs/2506.05079
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ScenGen organizes mobile GUI testing around business scenarios rather than unres
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-05079/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-05079/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shengcheng Yu, Yuchen Ling, Chunrong Fang, Quan Zhou, Yi Zhao, Chunyang Chen, Sh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-05079/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-05079/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-05079/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-05079/citation.csl.json
 
 ## Recorded arXiv snapshot
 

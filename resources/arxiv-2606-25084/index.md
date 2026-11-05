@@ -2,7 +2,7 @@
 
 Bibliographic record for Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-25084/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-25084/
 - Original source: https://arxiv.org/abs/2606.25084
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Are We There Yet? Exploring the Capabilities of MLLMs i
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-25084/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-25084/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shayon Dasgupta, Avijit Dasgupta, C. V. Jawahar
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-25084/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-25084/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-25084/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-25084/citation.csl.json
 
 ## Recorded arXiv snapshot
 

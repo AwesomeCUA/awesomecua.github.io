@@ -2,7 +2,7 @@
 
 FocusUI selects instruction-relevant screenshot patches while preserving their positional structure for GUI grounding. Its PosPad scheme replaces runs of dropped tokens with positional markers and is evaluated under reduced token budgets.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-03928/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-03928/
 - Original source: https://arxiv.org/abs/2601.03928
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ FocusUI selects instruction-relevant screenshot patches while preserving their p
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-03928/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-03928/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mingyu Ouyang, Kevin Qinghong Lin, Mike Zheng Shou, Hwee Tou Ng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-03928/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-03928/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-03928/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-03928/citation.csl.json
 
 ## Recorded arXiv snapshot
 

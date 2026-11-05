@@ -2,7 +2,7 @@
 
 MVISU-Bench evaluates bilingual mobile tasks involving cross-app work, vague requests, user interaction and unethical instructions alongside ordinary single-app tasks. Its Aider prompting module is designed to clarify intent and mitigate risky execution within agent workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-09057/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-09057/
 - Original source: https://arxiv.org/abs/2508.09057
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MVISU-Bench evaluates bilingual mobile tasks involving cross-app work, vague req
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-09057/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-09057/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zeyu Huang, Juyuan Wang, Longfeng Chen, Boyi Xiao, Leng Cai, Yawen Zeng, Jin Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-09057/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-09057/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-09057/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-09057/citation.csl.json
 
 ## Recorded arXiv snapshot
 

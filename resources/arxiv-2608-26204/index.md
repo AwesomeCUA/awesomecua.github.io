@@ -2,7 +2,7 @@
 
 Evaluates interface-embedded threats and whether computer-use agents seek clarification when mobile or desktop instructions are ambiguous.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-26204/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-26204/
 - Original source: https://arxiv.org/abs/2608.26204
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates interface-embedded threats and whether computer-use agents seek clarif
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-26204/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-26204/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Joy Chen, Alejandro Castillejo Munoz, Pierluca D'Oro, Yuxuan Sun, Chloe Evans, J
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-26204/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-26204/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-26204/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-26204/citation.csl.json
 
 ## Recorded arXiv snapshot
 

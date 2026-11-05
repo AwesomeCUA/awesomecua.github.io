@@ -2,7 +2,7 @@
 
 Data for learning text-dragging interactions in graphical interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-aa28e1329a52e341d285/
+- Catalog URL: https://awesomecua.com/resources/url-aa28e1329a52e341d285/
 - Original source: https://huggingface.co/datasets/osunlp/GUI-Drag-dataset
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Data for learning text-dragging interactions in graphical interfaces.
 
 The card links its paper (arXiv 2601.06031) and code repository (OSU-NLP-Group/GUI-Drag). Neither is a reviewed catalog record yet, so no relation is recorded.
 
-- Record JSON: https://awesomecua.github.io/resources/url-aa28e1329a52e341d285/record.json
+- Record JSON: https://awesomecua.com/resources/url-aa28e1329a52e341d285/record.json
 
 ## License declarations
 

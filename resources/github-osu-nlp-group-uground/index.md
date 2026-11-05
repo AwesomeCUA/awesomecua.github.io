@@ -2,7 +2,7 @@
 
 Code, training data and weights for universal visual grounding of GUI elements from screenshots, including Qwen2-VL-based UGround-V1 at 2B, 7B and 72B and offline and online evaluation suites.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-uground/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-uground/
 - Original source: https://github.com/OSU-NLP-Group/UGround
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Code, training data and weights for universal visual grounding of GUI elements f
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-uground/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-uground/record.json
 
 ## License declarations
 

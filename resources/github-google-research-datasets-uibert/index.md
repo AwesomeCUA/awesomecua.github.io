@@ -2,7 +2,7 @@
 
 Two Rico-derived UI component retrieval datasets: AppSim pairs semantically similar elements across screens, while RefExp links referring expressions to target elements.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-google-research-datasets-uibert/
+- Catalog URL: https://awesomecua.com/resources/github-google-research-datasets-uibert/
 - Original source: https://github.com/google-research-datasets/uibert
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Two Rico-derived UI component retrieval datasets: AppSim pairs semantically simi
 
 The archived repository retains TFRecord train/dev/test files for AppSim and RefExp. These are annotation and UI-structure records with Rico image identifiers, not a republished complete screenshot collection or a UIBert checkpoint. The README’s 72k figure describes the upstream Rico source, not the number of released AppSim/RefExp examples; no sample total is inferred. The publisher explicitly assigns CC-BY-4.0 to these datasets.
 
-- Record JSON: https://awesomecua.github.io/resources/github-google-research-datasets-uibert/record.json
+- Record JSON: https://awesomecua.com/resources/github-google-research-datasets-uibert/record.json
 
 ## Structured profile
 

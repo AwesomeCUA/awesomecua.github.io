@@ -2,7 +2,7 @@
 
 Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-verisafeagent-verisafeagent/
+- Catalog URL: https://awesomecua.com/resources/github-verisafeagent-verisafeagent/
 - Original source: https://github.com/VeriSafeAgent/VeriSafeAgent
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Runtime verification framework for Android GUI agents that checks proposed actio
 
 The verification method requires developers to supply app-state predicates and transition hooks. The paper-to-repository relation is supported by the exact-version paper, not inferred from the repository name.
 
-- Record JSON: https://awesomecua.github.io/resources/github-verisafeagent-verisafeagent/record.json
+- Record JSON: https://awesomecua.com/resources/github-verisafeagent-verisafeagent/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Correlation between Multivariate Datasets, from Inter-Graph Distance computed using Graphical Models Learnt With Uncertainties. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1710-11292/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1710-11292/
 - Original source: https://arxiv.org/abs/1710.11292
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Correlation between Multivariate Datasets, from Inter-G
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1710-11292/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1710-11292/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kangrui Wang, Dalia Chakrabarty
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1710-11292/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1710-11292/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1710-11292/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1710-11292/citation.csl.json
 
 ## Recorded arXiv snapshot
 

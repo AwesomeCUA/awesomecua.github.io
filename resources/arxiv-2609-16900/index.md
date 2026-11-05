@@ -2,7 +2,7 @@
 
 Bibliographic record for RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-16900/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-16900/
 - Original source: https://arxiv.org/abs/2609.16900
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for RiskChainBench: A Benchmark for Obfuscated Platform Mes
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-16900/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-16900/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ ZhuoXin Liu, Zhiming Ma, Ying Zhang, Mengzheng Yang, Yifan Wang, Zhengqi Huang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-16900/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-16900/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-16900/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-16900/citation.csl.json
 
 ## Recorded arXiv snapshot
 

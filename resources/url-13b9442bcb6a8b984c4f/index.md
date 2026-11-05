@@ -2,7 +2,7 @@
 
 Web screenshot and interface data for UI research.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-13b9442bcb6a8b984c4f/
+- Catalog URL: https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/
 - Original source: https://huggingface.co/datasets/biglab/webui-all
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Web screenshot and interface data for UI research.
 
 The card links the WebUI project's ACM publication (DOI 10.1145/3544548.3581158) and website, not an arXiv record or a catalogued repository, so no paper or family relation is recorded.
 
-- Record JSON: https://awesomecua.github.io/resources/url-13b9442bcb6a8b984c4f/record.json
+- Record JSON: https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for HippoCamp: Benchmarking Contextual Agents on Personal Computers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-01221/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-01221/
 - Original source: https://arxiv.org/abs/2604.01221
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for HippoCamp: Benchmarking Contextual Agents on Personal C
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-01221/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-01221/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhe Yang, Shulin Tian, Kairui Hu, Shuai Liu, Hoang-Nhat Nguyen, Yichi Zhang, Zuj
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-01221/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-01221/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-01221/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-01221/citation.csl.json
 
 ## Recorded arXiv snapshot
 

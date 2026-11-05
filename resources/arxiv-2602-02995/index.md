@@ -2,7 +2,7 @@
 
 Agent Alpha uses step-level Monte Carlo tree search to reuse successful prefixes and recover from early GUI mistakes. Comparison-based evaluation and diversity-constrained expansion guide the search, with experiments on OSWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-02995/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-02995/
 - Original source: https://arxiv.org/abs/2602.02995
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Agent Alpha uses step-level Monte Carlo tree search to reuse successful prefixes
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-02995/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-02995/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sizhe Tang, Rongqian Chen, Tian Lan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-02995/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-02995/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-02995/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-02995/citation.csl.json
 
 ## Recorded arXiv snapshot
 

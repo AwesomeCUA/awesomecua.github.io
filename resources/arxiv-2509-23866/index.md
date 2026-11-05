@@ -2,7 +2,7 @@
 
 DART separates GUI reinforcement learning into asynchronous environment, rollout, data-management, and training services. It curates experience by task difficulty, successful trajectories, and step uncertainty while correcting rollout-policy mismatch, with evaluation on OSWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-23866/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-23866/
 - Original source: https://arxiv.org/abs/2509.23866
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DART separates GUI reinforcement learning into asynchronous environment, rollout
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-23866/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-23866/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pengxiang Li, Zechen Hu, Zirui Shang, Jingrong Wu, Yang Liu, Hui Liu, Zhi Gao, C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-23866/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-23866/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-23866/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-23866/citation.csl.json
 
 ## Recorded arXiv snapshot
 

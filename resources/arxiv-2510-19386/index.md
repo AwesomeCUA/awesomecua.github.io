@@ -2,7 +2,7 @@
 
 Bibliographic record for ColorAgent: Building A Robust, Personalized, and Interactive OS Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-19386/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-19386/
 - Original source: https://arxiv.org/abs/2510.19386
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ColorAgent: Building A Robust, Personalized, and Intera
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-19386/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-19386/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ning Li, Qiqiang Lin, Zheng Wu, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-19386/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-19386/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-19386/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-19386/citation.csl.json
 
 ## Recorded arXiv snapshot
 

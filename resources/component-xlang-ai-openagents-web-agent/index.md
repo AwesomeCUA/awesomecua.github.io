@@ -2,7 +2,7 @@
 
 The OpenAgents browser-control component, connecting a Chrome extension to a web agent and local chat platform for navigating sites and completing interface tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/component-xlang-ai-openagents-web-agent/
+- Catalog URL: https://awesomecua.com/resources/component-xlang-ai-openagents-web-agent/
 - Original source: https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/web_agent
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ The OpenAgents browser-control component, connecting a Chrome extension to a web
 
 This component record covers real_agents/web_agent and the documented WeBot Chrome-extension integration. The broader Data Agent and Plugins Agent are not treated as GUI-control assets. The source manifest includes the agent implementation and frontend/webot_extension.zip; the archive was not downloaded or executed. The README describes Docker deployment as under development and recommends source deployment. Apache-2.0 applies to project source; third-party extension/dependency notices remain separate.
 
-- Record JSON: https://awesomecua.github.io/resources/component-xlang-ai-openagents-web-agent/record.json
+- Record JSON: https://awesomecua.com/resources/component-xlang-ai-openagents-web-agent/record.json
 
 ## License declarations
 

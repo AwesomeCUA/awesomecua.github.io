@@ -2,7 +2,7 @@
 
 Categorizes GUI-agent benchmarks, evaluation metrics, architectures, and training methods, and proposes a unified perception, reasoning, planning, and acting framework.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-13501/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-13501/
 - Original source: https://arxiv.org/abs/2412.13501
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Categorizes GUI-agent benchmarks, evaluation metrics, architectures, and trainin
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-13501/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-13501/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-13501/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-13501/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-13501/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-13501/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Nova3D: Code-Native Generation of Programmable 3D Assets. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-22738/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-22738/
 - Original source: https://arxiv.org/abs/2607.22738
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Nova3D: Code-Native Generation of Programmable 3D Asset
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-22738/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-22738/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nimra Noor, Muhammad Bilal, Abdullah Hussain, Hassan Baig
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-22738/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-22738/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-22738/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-22738/citation.csl.json
 
 ## Recorded arXiv snapshot
 

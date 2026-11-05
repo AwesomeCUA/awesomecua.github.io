@@ -2,7 +2,7 @@
 
 V2P trains GUI grounding by suppressing attention to background regions and emphasizing the center of the target element. It represents target importance with size-dependent Gaussian heatmaps and evaluates the contribution of each component on ScreenSpot-v2 and ScreenSpot-Pro.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-13634/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-13634/
 - Original source: https://arxiv.org/abs/2508.13634
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ V2P trains GUI grounding by suppressing attention to background regions and emph
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-13634/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-13634/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jikai Chen, Long Chen, Dong Wang, Qinglin Su, Zhixuan Chu, Bingguang Hao, Leilei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-13634/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-13634/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-13634/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-13634/citation.csl.json
 
 ## Recorded arXiv snapshot
 

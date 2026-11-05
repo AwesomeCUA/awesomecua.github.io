@@ -2,7 +2,7 @@
 
 Introduces ClawBench, 153 everyday tasks on production websites in 15 categories; an interception layer blocks each final submission so bookings, purchases and job applications are scored without side effects.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-08523/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-08523/
 - Original source: https://arxiv.org/abs/2604.08523
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces ClawBench, 153 everyday tasks on production websites in 15 categories
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-08523/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-08523/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Zhuofeng 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-08523/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-08523/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-08523/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-08523/citation.csl.json
 
 ## Recorded arXiv snapshot
 

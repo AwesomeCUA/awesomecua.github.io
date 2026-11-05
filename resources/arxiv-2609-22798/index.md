@@ -2,7 +2,7 @@
 
 Bibliographic record for Expert-Play Contouring Control: Faster-than-Demonstration Planning from Slow Expert and Fast Play. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-22798/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-22798/
 - Original source: https://arxiv.org/abs/2609.22798
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Expert-Play Contouring Control: Faster-than-Demonstrati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-22798/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-22798/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Seunghoon Cho, Wonsuhk Jung, Sundhar Vinodh Sangeetha, Shreyas Kousik
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-22798/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-22798/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-22798/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-22798/citation.csl.json
 
 ## Recorded arXiv snapshot
 

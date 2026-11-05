@@ -2,7 +2,7 @@
 
 Introduces AutoGUIWorld, which combines task planning and image editing to synthesize action-grounded GUI trajectories without running the depicted software. It filters generated transitions and tests whether training on them improves agents operating real desktop and scientific applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-01215/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-01215/
 - Original source: https://arxiv.org/abs/2610.01215
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AutoGUIWorld, which combines task planning and image editing to synth
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-01215/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-01215/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Cheng Yang, Yifan Wu, Yutao Huang, Zhaohua Zhang, Beiduo Chen, Muxi Chen, Chench
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-01215/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-01215/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-01215/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-01215/citation.csl.json
 
 ## Recorded arXiv snapshot
 

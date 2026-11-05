@@ -2,7 +2,7 @@
 
 This study separates tool-adoption behavior from task competence in hybrid GUIâ€“MCP agents. It tests tool-use incentives and screenshot-history compression, showing why changed action preferences alone need not improve held-out accuracy.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-03327/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-03327/
 - Original source: https://arxiv.org/abs/2608.03327
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study separates tool-adoption behavior from task competence in hybrid GUIâ€
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-03327/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-03327/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Siqi Fan, Minghao Li, Xiaoqian Ma, Wenhui Tan, Xiusheng Huang, Juntong Wu, Liuji
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-03327/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-03327/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-03327/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-03327/citation.csl.json
 
 ## Recorded arXiv snapshot
 

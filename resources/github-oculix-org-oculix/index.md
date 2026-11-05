@@ -2,7 +2,7 @@
 
 A maintained continuation of SikuliX that locates on-screen targets with image matching and OCR, drives desktop or Android interfaces, and exposes scripting and optional MCP interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-oculix-org-oculix/
+- Catalog URL: https://awesomecua.com/resources/github-oculix-org-oculix/
 - Original source: https://github.com/oculix-org/Oculix
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ A maintained continuation of SikuliX that locates on-screen targets with image m
 
 The official stable-release API lists v4.0.0 with platform-specific API/IDE JARs and an MCP server JAR; no binary was downloaded. The default README still advertises 3.0.3, so release-specific compatibility follows the release notes rather than that older badge. The RaiMan/SikuliX1 API resolves to oculix-org/SikuliX1, whose README calls itself a historical mirror and directs current users here; it is not separately counted. MIT describes the project source. Retained dependency notices also include GPL/LGPL, Apache, BSD and MPL declarations; a bundled artifact is not asserted to be uniformly MIT.
 
-- Record JSON: https://awesomecua.github.io/resources/github-oculix-org-oculix/record.json
+- Record JSON: https://awesomecua.com/resources/github-oculix-org-oculix/record.json
 
 ## License declarations
 

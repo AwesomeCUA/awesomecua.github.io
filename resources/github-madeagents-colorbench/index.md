@@ -2,7 +2,7 @@
 
 A graph-based mobile GUI benchmark that evaluates long tasks through screenshot states and multiple valid or erroneous transitions, including reflection, replanning and backtracking.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-madeagents-colorbench/
+- Catalog URL: https://awesomecua.com/resources/github-madeagents-colorbench/
 - Original source: https://github.com/MadeAgents/ColorBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ A graph-based mobile GUI benchmark that evaluates long tasks through screenshot 
 
 The source tree contains graph and task JSON files plus construction/evaluation code; the linked ungated Hub provides the screenshot archive. The environment is static but interactive and graph-based, not a live-device deployment. Counts are publisher-reported task/app inventories. Apache-2.0 declarations for repository code and the Hub dataset are separately retained; third-party application visuals are not granted additional rights by this catalog.
 
-- Record JSON: https://awesomecua.github.io/resources/github-madeagents-colorbench/record.json
+- Record JSON: https://awesomecua.com/resources/github-madeagents-colorbench/record.json
 
 ## Structured profile
 

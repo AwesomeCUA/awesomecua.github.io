@@ -2,7 +2,7 @@
 
 Introduces WebDreamer, which simulates candidate web actions with language-model world models and value estimates before acting.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-06559/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-06559/
 - Original source: https://arxiv.org/abs/2411.06559
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebDreamer, which simulates candidate web actions with language-model
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-06559/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-06559/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yu Gu, Kai Zhang, Yuting Ning, Boyuan Zheng, Boyu Gou, Tianci Xue, Cheng Chang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-06559/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-06559/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-06559/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-06559/citation.csl.json
 
 ## Recorded arXiv snapshot
 

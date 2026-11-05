@@ -2,7 +2,7 @@
 
 Presents a desktop world model that predicts textual UI changes before synthesizing the next screenshot. It learns from Microsoft Office transitions and is evaluated by letting a frozen agent compare simulated actions before execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-17365/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-17365/
 - Original source: https://arxiv.org/abs/2602.17365
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents a desktop world model that predicts textual UI changes before synthesiz
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-17365/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-17365/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yiming Guan, Rui Yu, John Zhang, Lu Wang, Chaoyun Zhang, Liqun Li, Bo Qiao, Si Q
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-17365/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-17365/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-17365/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-17365/citation.csl.json
 
 ## Recorded arXiv snapshot
 

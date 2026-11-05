@@ -2,7 +2,7 @@
 
 MAP annotates computer-use traces at linked operation, function/consequence, method and goal levels, then compares human and agent workflows through sequence, pattern and effort metrics.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26703/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-26703/
 - Original source: https://arxiv.org/abs/2610.26703
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MAP annotates computer-use traces at linked operation, function/consequence, met
 
 Reviewed the complete abstract and selected v1 taxonomy, annotation, evaluation and limitations sections. MAP analyzes existing human/agent traces rather than deploying a new acting policy. Annotation and timing coverage depend on the source datasets; manual agreement reflects a particular labeling scheme. Behavioral findings do not establish a privacy guarantee. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26703/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-26703/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ananya Gubbi Mohanbabu, Rosiana Natalie, Anhong Guo, Amy Pavel
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26703/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26703/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-26703/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-26703/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces a benchmark for binary GUI-toggle instructions and State-aware Reasoning, which compares the observed control state with the requested state before choosing an action. It evaluates agents on toggle tasks and broader interactive benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-13615/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-13615/
 - Original source: https://arxiv.org/abs/2509.13615
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a benchmark for binary GUI-toggle instructions and State-aware Reason
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-13615/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-13615/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, Zheng Wu, Lingzhon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-13615/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-13615/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-13615/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-13615/citation.csl.json
 
 ## Recorded arXiv snapshot
 

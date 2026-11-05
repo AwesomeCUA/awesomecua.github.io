@@ -2,7 +2,7 @@
 
 Introduces annotated cross-application mobile trajectories and studies history-aware navigation over long task sequences.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-08451/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-08451/
 - Original source: https://arxiv.org/abs/2406.08451
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces annotated cross-application mobile trajectories and studies history-a
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-08451/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-08451/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Quanfeng Lu, Wenqi Shao, Zitao Liu, Lingxiao Du, Fanqing Meng, Boxuan Li, Botong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-08451/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-08451/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-08451/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-08451/citation.csl.json
 
 ## Recorded arXiv snapshot
 

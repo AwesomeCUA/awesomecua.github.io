@@ -2,7 +2,7 @@
 
 Bibliographic record for OpenAGI: When LLM Meets Domain Experts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2304-04370/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2304-04370/
 - Original source: https://arxiv.org/abs/2304.04370
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for OpenAGI: When LLM Meets Domain Experts. Title, authors 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2304-04370/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2304-04370/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yingqiang Ge, Wenyue Hua, Kai Mei, Jianchao Ji, Juntao Tan, Shuyuan Xu, Zelong L
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2304-04370/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2304-04370/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2304-04370/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2304-04370/citation.csl.json
 
 ## Recorded arXiv snapshot
 

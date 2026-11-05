@@ -2,7 +2,7 @@
 
 Introduces an app-content instrumentation framework and complementary interactive and static test suites for mobile GUI agents. It studies how untrusted third-party content changes task execution and state understanding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-04227/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-04227/
 - Original source: https://arxiv.org/abs/2507.04227
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces an app-content instrumentation framework and complementary interactiv
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-04227/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-04227/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guohong Liu, Jialei Ye, Jiacheng Liu, Yuanchun Li, Wei Liu, Pengzhi Gao, Jian Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-04227/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-04227/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-04227/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-04227/citation.csl.json
 
 ## Recorded arXiv snapshot
 

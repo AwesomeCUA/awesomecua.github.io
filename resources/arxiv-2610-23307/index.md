@@ -2,7 +2,7 @@
 
 MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-23307/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-23307/
 - Original source: https://arxiv.org/abs/2610.23307
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileInject evaluates visual/textual observation injection in stateful Android 
 
 Reviewed the complete abstract and selected v1 construction, threat-model and evaluation sections. The attacker modifies observation surfaces, not system instructions, model parameters or the OS. State oracles are distinct from emitted-rationale diagnoses, whose labels include outcome-dependent constraints. Those diagnostics are not independent evidence of hidden-reasoning causality. No reproduction or release verification.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-23307/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-23307/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Songping Wang, Peiyang Li, Yi Huang, Fengting Li, Xuhao Ran, Yueming Lyu, Chao F
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-23307/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-23307/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-23307/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-23307/citation.csl.json
 
 ## Recorded arXiv snapshot
 

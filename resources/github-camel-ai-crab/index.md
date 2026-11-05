@@ -2,7 +2,7 @@
 
 Cross-environment benchmark framework for multimodal agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-camel-ai-crab/
+- Catalog URL: https://awesomecua.com/resources/github-camel-ai-crab/
 - Original source: https://github.com/camel-ai/crab
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Cross-environment benchmark framework for multimodal agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-camel-ai-crab/record.json
+- Record JSON: https://awesomecua.com/resources/github-camel-ai-crab/record.json
 
 ## Structured profile
 

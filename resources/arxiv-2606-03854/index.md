@@ -2,7 +2,7 @@
 
 CLI-Anything argues for application interfaces built around structured commands, explicit state and execution feedback. It describes transforming existing software into command-line harnesses and organizing that approach through CLI-Hub.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-03854/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-03854/
 - Original source: https://arxiv.org/abs/2606.03854
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CLI-Anything argues for application interfaces built around structured commands,
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced. Adjacent computer-interface architecture: the described application command harnesses concern computer operation, but no GUI execution or comparative benchmark result is established in the abstract.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-03854/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-03854/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhao Yang, Tianyu Fan, Chao Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-03854/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-03854/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-03854/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-03854/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Agent-SafetyBench: Evaluating the Safety of LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-14470/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-14470/
 - Original source: https://arxiv.org/abs/2412.14470
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for Agent-SafetyBench: Evaluating the Safety of LLM Agents.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-14470/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-14470/record.json
 
 ## Recorded reviewer hold
 
 Reviewer hold after a separate follow\-up review of the prior adjacent approval: the retained abstract and full\-text Section 3\.2\.1 and Appendix C describe JSON\-schema/Python simulated tool environments and content\-safety cases, without a specific GUI or browser execution basis\. Preserve the bibliography as metadata\-only pending a supported adjacent\-scope rationale; this is not a scope exclusion\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Zhexin Zhang, Shiyao Cui, Yida Lu, Jingzhuo Zhou, Junxiao Yang, Hongning Wang, M
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-14470/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-14470/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-14470/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-14470/citation.csl.json
 
 ## Recorded arXiv snapshot
 

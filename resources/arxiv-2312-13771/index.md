@@ -2,7 +2,7 @@
 
 Builds app knowledge through exploration or human demonstrations and uses it to guide multimodal smartphone interactions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2312-13771/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2312-13771/
 - Original source: https://arxiv.org/abs/2312.13771
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds app knowledge through exploration or human demonstrations and uses it to 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-13771/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2312-13771/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chi Zhang, Zhao Yang, Jiaxuan Liu, Yanda Li, Yucheng Han, Xin Chen, Zebiao Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-13771/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-13771/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2312-13771/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2312-13771/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for CALA-$n$: A Quantum Library for Realizing Cost-Effective 2-, 3-, 4-, and 5-bit Gates on IBM Quantum Computers using Bloch Sphere Approach, Clifford+T Gates, and Layouts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2408-01025/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2408-01025/
 - Original source: https://arxiv.org/abs/2408.01025
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CALA-$n$: A Quantum Library for Realizing Cost-Effectiv
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-01025/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2408-01025/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ali Al-Bayaty, Xiaoyu Song, Marek Perkowski
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-01025/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-01025/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2408-01025/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2408-01025/citation.csl.json
 
 ## Recorded arXiv snapshot
 

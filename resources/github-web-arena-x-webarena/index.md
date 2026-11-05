@@ -2,7 +2,7 @@
 
 Self-hosted web environments and tasks for evaluating autonomous web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-web-arena-x-webarena/
+- Catalog URL: https://awesomecua.com/resources/github-web-arena-x-webarena/
 - Original source: https://github.com/web-arena-x/webarena
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Self-hosted web environments and tasks for evaluating autonomous web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-web-arena-x-webarena/record.json
+- Record JSON: https://awesomecua.com/resources/github-web-arena-x-webarena/record.json
 
 ## Structured profile
 

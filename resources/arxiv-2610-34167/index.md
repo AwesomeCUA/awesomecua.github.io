@@ -2,7 +2,7 @@
 
 Bibliographic record for Task Success Is Not Enough: Side-effect-Aware Evaluation of Tool-Using Language Model Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-34167/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-34167/
 - Original source: https://arxiv.org/abs/2610.34167
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Task Success Is Not Enough: Side-effect-Aware Evaluatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-34167/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-34167/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiaju Huang, Shaobin Chen, Xinglong Liang, Xinyu Ma, Hao Yang, Wei Ke, Tao Tan, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-34167/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-34167/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-34167/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-34167/citation.csl.json
 
 ## Recorded arXiv snapshot
 

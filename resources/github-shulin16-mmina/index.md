@@ -2,7 +2,7 @@
 
 Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hops across sites such as a shopping store and Wikipedia, testing long-chain reasoning.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-shulin16-mmina/
+- Catalog URL: https://awesomecua.com/resources/github-shulin16-mmina/
 - Original source: https://github.com/shulin16/MMInA
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hop
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-shulin16-mmina/record.json
+- Record JSON: https://awesomecua.com/resources/github-shulin16-mmina/record.json
 
 ## License declarations
 

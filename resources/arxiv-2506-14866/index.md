@@ -2,7 +2,7 @@
 
 Extends OSWorld with tasks covering user misuse, prompt injection, and model misbehavior, with assessment of both task success and safety.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-14866/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-14866/
 - Original source: https://arxiv.org/abs/2506.14866
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Extends OSWorld with tasks covering user misuse, prompt injection, and model mis
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-14866/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-14866/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Thomas Kuntz, Agatha Duzan, Hao Zhao, Francesco Croce, Zico Kolter, Nicolas Flam
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-14866/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-14866/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-14866/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-14866/citation.csl.json
 
 ## Recorded arXiv snapshot
 

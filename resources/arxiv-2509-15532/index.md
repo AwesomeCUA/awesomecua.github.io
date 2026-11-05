@@ -2,7 +2,7 @@
 
 GUI-ARP uses visual attention to crop relevant screenshot regions and decides whether a target needs single-stage or multi-stage analysis. Supervised fine-tuning followed by GRPO trains this adaptive procedure for high-resolution GUI grounding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-15532/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-15532/
 - Original source: https://arxiv.org/abs/2509.15532
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-ARP uses visual attention to crop relevant screenshot regions and decides wh
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-15532/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-15532/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xianhang Ye, Yiqing Li, Wei Dai, Miancan Liu, Ziyuan Chen, Zhangye Han, Hongbo M
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-15532/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-15532/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-15532/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-15532/citation.csl.json
 
 ## Recorded arXiv snapshot
 

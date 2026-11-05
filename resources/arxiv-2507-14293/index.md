@@ -2,7 +2,7 @@
 
 Introduces WebGuard, a human-annotated dataset for predicting outcomes and risk levels of state-changing website actions. It provides generalization splits and evaluates specialized guardrail models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-14293/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-14293/
 - Original source: https://arxiv.org/abs/2507.14293
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WebGuard, a human-annotated dataset for predicting outcomes and risk 
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-14293/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-14293/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Boyuan Zheng, Zeyi Liao, Scott Salisbury, Zeyuan Liu, Michael Lin, Qinyuan Zheng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-14293/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-14293/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-14293/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-14293/citation.csl.json
 
 ## Recorded arXiv snapshot
 

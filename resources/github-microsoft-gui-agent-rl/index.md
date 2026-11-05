@@ -2,7 +2,7 @@
 
 Training code that learns a value environment model from offline Android interaction data and uses its frozen value estimates to guide GUI policy optimization.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-gui-agent-rl/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-gui-agent-rl/
 - Original source: https://github.com/microsoft/GUI-Agent-RL
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Training code that learns a value environment model from offline Android interac
 
 The public tree includes critic-training configurations, policy training and offline/online evaluation scripts. The README obtains base models and AITW imagery separately, then instructs users to train critic and policy checkpoints locally; this entry does not claim that VEM-trained weights are released. MIT applies to repository code only.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-gui-agent-rl/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-gui-agent-rl/record.json
 
 ## License declarations
 

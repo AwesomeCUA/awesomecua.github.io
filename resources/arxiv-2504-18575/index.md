@@ -2,7 +2,7 @@
 
 Introduces WASP, an end-to-end benchmark for prompt-injection security in web agents. Its evaluation separates partial attack progress from completion of the attacker’s full objective.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-18575/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-18575/
 - Original source: https://arxiv.org/abs/2504.18575
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WASP, an end-to-end benchmark for prompt-injection security in web ag
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-18575/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-18575/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ivan Evtimov, Arman Zharmagambetov, Aaron Grattafiori, Chuan Guo, Kamalika Chaud
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-18575/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-18575/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-18575/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-18575/citation.csl.json
 
 ## Recorded arXiv snapshot
 

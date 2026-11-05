@@ -2,7 +2,7 @@
 
 Introduces CAVEAT, a controlled marketplace benchmark for testing whether delegated agents preserve user objectives when interfaces favor other outcomes. It diagnoses decision failures and studies harness interventions and targeted training to improve resistance to marketplace steering.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-27273/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-27273/
 - Original source: https://arxiv.org/abs/2609.27273
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CAVEAT, a controlled marketplace benchmark for testing whether delega
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27273/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-27273/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxuan Li, Will Epperson, Wesley Deng, Zezhou Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27273/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27273/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-27273/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-27273/citation.csl.json
 
 ## Recorded arXiv snapshot
 

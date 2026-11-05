@@ -2,7 +2,7 @@
 
 Introduces SeekJudge, which iteratively searches and analyzes GUI trajectories to assess instruction fulfillment. The work combines dense judgment-data synthesis, a step-label benchmark, and reward-server scheduling to study accurate and practical reward feedback for agent training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-23263/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-23263/
 - Original source: https://arxiv.org/abs/2607.23263
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SeekJudge, which iteratively searches and analyzes GUI trajectories t
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-23263/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-23263/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yang Wan, Zhenhao Zhang, Jierui Wang, Xiangxin Zhou, Linchao Zhu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-23263/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-23263/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-23263/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-23263/citation.csl.json
 
 ## Recorded arXiv snapshot
 

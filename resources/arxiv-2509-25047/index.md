@@ -2,7 +2,7 @@
 
 AutoPlay explores application states and functions to generate tasks, then uses a model executor and verifier to construct demonstrations. It produces 20,000 tasks across 20 Android apps and 10,000 tasks across 13 Ubuntu apps for supervised and reinforcement learning of UI agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-25047/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-25047/
 - Original source: https://arxiv.org/abs/2509.25047
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AutoPlay explores application states and functions to generate tasks, then uses 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-25047/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-25047/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ram Ramrakhya, Andrew Szot, Omar Attia, Yuhao Yang, Anh Nguyen, Bogdan Mazoure, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-25047/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-25047/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-25047/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-25047/citation.csl.json
 
 ## Recorded arXiv snapshot
 

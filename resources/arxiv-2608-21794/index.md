@@ -2,7 +2,7 @@
 
 Studies whether text-embedding GUI grounding scores reflect semantic matching or recovery of visible labels. Same-screen ranking comparisons with lexical baselines expose differences between deployable fusion, oracle selection, and performance on label-poor targets.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-21794/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-21794/
 - Original source: https://arxiv.org/abs/2608.21794
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies whether text-embedding GUI grounding scores reflect semantic matching or
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-21794/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-21794/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qijia Chen, Giulio Jacucci
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-21794/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-21794/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-21794/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-21794/citation.csl.json
 
 ## Recorded arXiv snapshot
 

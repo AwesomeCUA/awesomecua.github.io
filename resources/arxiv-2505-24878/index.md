@@ -2,7 +2,7 @@
 
 Open CaptchaWorld evaluates multimodal agents on interactive browser-based CAPTCHA puzzles. Its benchmark distinguishes task success from the depth of visual reasoning and interaction needed to complete a puzzle.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-24878/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-24878/
 - Original source: https://arxiv.org/abs/2505.24878
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Open CaptchaWorld evaluates multimodal agents on interactive browser-based CAPTC
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-24878/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-24878/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yaxin Luo, Zhaoyi Li, Jiacheng Liu, Jiacheng Cui, Xiaohan Zhao, Zhiqiang Shen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-24878/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-24878/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-24878/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-24878/citation.csl.json
 
 ## Recorded arXiv snapshot
 

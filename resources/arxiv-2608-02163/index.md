@@ -2,7 +2,7 @@
 
 Bibliographic record for From Simple QA to Deep Research: A Verifiable Benchmark Constructed through Iterative Task Evolution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-02163/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-02163/
 - Original source: https://arxiv.org/abs/2608.02163
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for From Simple QA to Deep Research: A Verifiable Benchmark
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-02163/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-02163/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Can Wang, Haoran Chen, Haowen Gao, Hao Ding, Zhaoyang Liu, Zhiying Tu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-02163/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-02163/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-02163/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-02163/citation.csl.json
 
 ## Recorded arXiv snapshot
 

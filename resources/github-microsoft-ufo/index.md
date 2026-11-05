@@ -2,7 +2,7 @@
 
 Windows agent framework for application and desktop automation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-ufo/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-ufo/
 - Original source: https://github.com/microsoft/UFO
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Windows agent framework for application and desktop automation.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-ufo/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-ufo/record.json
 
 ## License declarations
 

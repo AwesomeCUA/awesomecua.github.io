@@ -2,7 +2,7 @@
 
 Introduces SafeGround, which estimates GUI-grounding uncertainty from the spatial dispersion of sampled predictions and calibrates a decision threshold before testing. It studies risk-aware selection on ScreenSpot-Pro, with statistical control scoped to the threshold’s false-discovery rate.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-02419/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-02419/
 - Original source: https://arxiv.org/abs/2602.02419
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SafeGround, which estimates GUI-grounding uncertainty from the spatia
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-02419/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-02419/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qingni Wang, Yue Fan, Xin Eric Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-02419/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-02419/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-02419/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-02419/citation.csl.json
 
 ## Recorded arXiv snapshot
 

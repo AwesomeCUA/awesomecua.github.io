@@ -2,7 +2,7 @@
 
 Bibliographic record for PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-31274/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-31274/
 - Original source: https://arxiv.org/abs/2610.31274
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PointerBench: A Diagnostic Benchmark for Fine-Grained G
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-31274/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-31274/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Valentino Sacco, Saurabh Pandey, Alexander Florian Jercher, Maximilian Schilling
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-31274/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-31274/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-31274/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-31274/citation.csl.json
 
 ## Recorded arXiv snapshot
 

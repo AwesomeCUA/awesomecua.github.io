@@ -2,7 +2,7 @@
 
 Mobile-agent checkpoint trained on OpenMobile-Data-v2 for screenshot actions and app-native tool calls.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-d35224f787e7ec21ce36/
+- Catalog URL: https://awesomecua.com/resources/url-d35224f787e7ec21ce36/
 - Original source: https://huggingface.co/OpenMobile-2/OpenMobile-2-9B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Mobile-agent checkpoint trained on OpenMobile-Data-v2 for screenshot actions and
 
 The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
 
-- Record JSON: https://awesomecua.github.io/resources/url-d35224f787e7ec21ce36/record.json
+- Record JSON: https://awesomecua.com/resources/url-d35224f787e7ec21ce36/record.json
 
 ## License declarations
 

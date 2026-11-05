@@ -2,7 +2,7 @@
 
 DAVE trains a vision encoder for document images and web agents using self-supervised pretraining followed by supervised parsing and localization. It combines decoder-specific encoder merging with feature fusion and evaluates web localization and agent benchmarks alongside document tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-17221/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-17221/
 - Original source: https://arxiv.org/abs/2512.17221
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DAVE trains a vision encoder for document images and web agents using self-super
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-17221/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-17221/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Brandon Huang, Hang Hua, Zhuoran Yu, Trevor Darrell, Rogerio Feris, Roei Herzig
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-17221/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-17221/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-17221/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-17221/citation.csl.json
 
 ## Recorded arXiv snapshot
 

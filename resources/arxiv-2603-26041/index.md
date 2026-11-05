@@ -2,7 +2,7 @@
 
 Studies visual token pruning for GUI navigation, separating reusable screenshot encoder embeddings from later language-model computation. The analysis examines foreground-background token allocation and spatial coverage when pruning historical screenshots.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-26041/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-26041/
 - Original source: https://arxiv.org/abs/2603.26041
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies visual token pruning for GUI navigation, separating reusable screenshot 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-26041/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-26041/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Daiqiang Li, Zihao Pan, Zeyu Zhang, Xuyang Liu, Shijia Xu, Ronghao Chen, Huacan 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-26041/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-26041/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-26041/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-26041/citation.csl.json
 
 ## Recorded arXiv snapshot
 

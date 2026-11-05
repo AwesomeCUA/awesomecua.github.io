@@ -2,7 +2,7 @@
 
 RAG-GUI trains a small guidance adapter to filter and summarize retrieved web tutorials while keeping the acting agent fixed. Supervised and rejection-sampling stages prepare the adapter for inference-time assistance, tested on offline web/mobile tasks and interactive Android tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-24183/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-24183/
 - Original source: https://arxiv.org/abs/2509.24183
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ RAG-GUI trains a small guidance adapter to filter and summarize retrieved web tu
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-24183/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-24183/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ran Xu, Kaixin Ma, Wenhao Yu, Hongming Zhang, Joyce C. Ho, Carl Yang, Dong Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-24183/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-24183/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-24183/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-24183/citation.csl.json
 
 ## Recorded arXiv snapshot
 

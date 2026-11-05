@@ -2,7 +2,7 @@
 
 Characterizes six forms of GUI-content injection and studies their effects on GUI agents and human users using adversarial webpages. The analysis examines privacy failures and the limits of human oversight.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-11281/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-11281/
 - Original source: https://arxiv.org/abs/2504.11281
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Characterizes six forms of GUI-content injection and studies their effects on GU
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11281/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-11281/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chaoran Chen, Zhiping Zhang, Bingcan Guo, Shang Ma, Ibrahim Khalilov, Simret A G
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11281/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11281/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-11281/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-11281/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 AmbiBench evaluates mobile GUI agents under four levels of instruction clarity, including tasks requiring active clarification. Its MUSE evaluator separately audits outcomes, execution quality and interaction quality to study alignment with user intent.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-11750/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-11750/
 - Original source: https://arxiv.org/abs/2602.11750
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AmbiBench evaluates mobile GUI agents under four levels of instruction clarity, 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-11750/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-11750/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiazheng Sun, Mingxuan Li, Yingying Zhang, Jiayang Niu, Yachen Wu, Ruihan Jin, S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-11750/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-11750/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-11750/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-11750/citation.csl.json
 
 ## Recorded arXiv snapshot
 

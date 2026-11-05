@@ -2,7 +2,7 @@
 
 Trains BrowserAgent to use Playwright-based scrolling, clicking and typing directly on webpages for information-seeking tasks. Supervised and rejection fine-tuning are paired with explicit memory for conclusions carried across steps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-10666/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-10666/
 - Original source: https://arxiv.org/abs/2510.10666
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains BrowserAgent to use Playwright-based scrolling, clicking and typing direc
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-10666/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-10666/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tao Yu, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxua
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-10666/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-10666/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-10666/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-10666/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Combines visual token selection, interleaved visual-action history, and curated instruction data in a compact GUI action model.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-17465/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-17465/
 - Original source: https://arxiv.org/abs/2411.17465
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines visual token selection, interleaved visual-action history, and curated 
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-17465/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-17465/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-17465/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-17465/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-17465/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-17465/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai,
 - Authors: Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Stan Weixian Lei, Lijuan Wang, Mike Zheng Shou
 - Publication date (recorded precision): 2025-06
 - Publication source: https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2411-17465/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-17465/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2411-17465/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2411-17465/publication-citation.csl.json
 - venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 - pages: 19498-19508
 - date basis: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.

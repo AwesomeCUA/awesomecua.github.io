@@ -2,7 +2,7 @@
 
 Live-web task definitions and rubrics for evaluating computer-use agents, with preserved original tasks, a refreshed V2 task suite and a separate refusal set.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-3b6dfd52f98bfe76bc7f/
+- Catalog URL: https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/
 - Original source: https://huggingface.co/datasets/microsoft/WebTailBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Live-web task definitions and rubrics for evaluating computer-use agents, with p
 
 Public TSV files contain V1, V2 and refusal task definitions. The card declares MIT for the dataset. V1 and V2 share the same 609 task identities and must not be summed as distinct tasks. The May 2026 refresh supersedes calendar-bound task wording; live-site availability is not established by this metadata review.
 
-- Record JSON: https://awesomecua.github.io/resources/url-3b6dfd52f98bfe76bc7f/record.json
+- Record JSON: https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-12406/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-12406/
 - Original source: https://arxiv.org/abs/2607.12406
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Isolation as a First-Class Principle for LLM-Agent Syst
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-12406/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-12406/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Huihao Jing, Wenbin Hu, Shaojin Chen, Haochen Shi, Sirui Zhang, Hanyu Yang, Chan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-12406/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-12406/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-12406/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-12406/citation.csl.json
 
 ## Recorded arXiv snapshot
 

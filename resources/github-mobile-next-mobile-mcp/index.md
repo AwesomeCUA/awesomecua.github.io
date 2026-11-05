@@ -2,7 +2,7 @@
 
 An MCP server exposing mobile accessibility snapshots, screenshots and device interactions across real devices, simulators and emulators.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-mobile-next-mobile-mcp/
+- Catalog URL: https://awesomecua.com/resources/github-mobile-next-mobile-mcp/
 - Original source: https://github.com/mobile-next/mobile-mcp
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ An MCP server exposing mobile accessibility snapshots, screenshots and device in
 
 Source and release 1.0.11 are public. The README specifies iOS and Android device setup and supports local devices as well as a separate cloud offering. Apache-2.0 is declared for this code; no cloud-service pricing or permissions are inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/github-mobile-next-mobile-mcp/record.json
+- Record JSON: https://awesomecua.com/resources/github-mobile-next-mobile-mcp/record.json
 
 ## License declarations
 

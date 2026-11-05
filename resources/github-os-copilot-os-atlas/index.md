@@ -2,7 +2,7 @@
 
 OS-Atlas GUI action models, including grounding bases fine-tuned from InternVL2-4B and Qwen2-VL-7B-Instruct that accept any image size and output 0-1000 relative coordinates.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-atlas/
+- Catalog URL: https://awesomecua.com/resources/github-os-copilot-os-atlas/
 - Original source: https://github.com/OS-Copilot/OS-Atlas
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ OS-Atlas GUI action models, including grounding bases fine-tuned from InternVL2-
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-os-atlas/record.json
+- Record JSON: https://awesomecua.com/resources/github-os-copilot-os-atlas/record.json
 
 ## License declarations
 

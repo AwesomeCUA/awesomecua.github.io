@@ -2,7 +2,7 @@
 
 Introduces WAInjectBench with a threat-model taxonomy and malicious and benign text-image datasets for web-agent prompt-injection detection. It compares detector families across explicit and less visible forms of injected content.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-01354/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-01354/
 - Original source: https://arxiv.org/abs/2510.01354
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WAInjectBench with a threat-model taxonomy and malicious and benign t
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The reported contribution evaluates attack detection; end-to-end prevention of browser-agent compromise is not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-01354/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-01354/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yinuo Liu, Xilong Wang, Ruohan Xu, Yuqi Jia, Neil Zhenqiang Gong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-01354/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-01354/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-01354/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-01354/citation.csl.json
 
 ## Recorded arXiv snapshot
 

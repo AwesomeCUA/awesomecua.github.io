@@ -2,7 +2,7 @@
 
 The first-stage Aguvis training collection, packaging GUI element-grounding annotations and image archives from multiple interface-data sources.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-06dd5ac7917c45d48509/
+- Catalog URL: https://awesomecua.com/resources/url-06dd5ac7917c45d48509/
 - Original source: https://huggingface.co/datasets/xlangai/aguvis-stage1
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ The first-stage Aguvis training collection, packaging GUI element-grounding anno
 
 The manifest contains grounding JSON annotations and packaged images. The card declares Apache-2.0, which is recorded for this release without overriding source-dataset rights. This first-stage grounding collection is distinct from the project’s second-stage trajectory collection. No archive or training sample was downloaded.
 
-- Record JSON: https://awesomecua.github.io/resources/url-06dd5ac7917c45d48509/record.json
+- Record JSON: https://awesomecua.com/resources/url-06dd5ac7917c45d48509/record.json
 
 ## Structured profile
 

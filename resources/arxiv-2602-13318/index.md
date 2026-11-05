@@ -2,7 +2,7 @@
 
 Bibliographic record for DECKBench: Benchmarking Multi-Agent Frameworks for Academic Slide Generation and Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-13318/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-13318/
 - Original source: https://arxiv.org/abs/2602.13318
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for DECKBench: Benchmarking Multi-Agent Frameworks for Acad
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-13318/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-13318/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Daesik Jang, Morgan Lindsay Heisler, Linzi Xing, Yifei Li, Edward Wang, Ying Xio
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-13318/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-13318/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-13318/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-13318/citation.csl.json
 
 ## Recorded arXiv snapshot
 

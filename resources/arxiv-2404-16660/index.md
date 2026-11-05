@@ -2,7 +2,7 @@
 
 Introduces B-MoCA, an interactive mobile-control benchmark that varies device settings, layouts, and languages to test generalization.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-16660/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-16660/
 - Original source: https://arxiv.org/abs/2404.16660
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces B-MoCA, an interactive mobile-control benchmark that varies device se
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-16660/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-16660/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Juyong Lee, Taywon Min, Minyong An, Dongyoon Hahm, Haeone Lee, Changyeon Kim, Ki
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-16660/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-16660/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-16660/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-16660/citation.csl.json
 
 ## Recorded arXiv snapshot
 

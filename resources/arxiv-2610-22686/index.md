@@ -2,7 +2,7 @@
 
 Bibliographic record for Multimodal Filesystem Memory For Long-Horizon Embodied Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22686/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-22686/
 - Original source: https://arxiv.org/abs/2610.22686
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Multimodal Filesystem Memory For Long-Horizon Embodied 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22686/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-22686/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chloe Su, Jiahan Li, Zhenting Qi, Chaoran Cheng, Haoyu Chen, Sejoon Jun, Weirui 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22686/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22686/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-22686/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-22686/citation.csl.json
 
 ## Recorded arXiv snapshot
 

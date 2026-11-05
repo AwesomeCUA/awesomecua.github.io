@@ -2,7 +2,7 @@
 
 WebCoT turns reflection, look-ahead, branching and rollback procedures into chain-of-thought training rationales. Fine-tuning on these reconstructed trajectories is evaluated for web-agent self-improvement and transfer across navigation tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-20013/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-20013/
 - Original source: https://arxiv.org/abs/2505.20013
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebCoT turns reflection, look-ahead, branching and rollback procedures into chai
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-20013/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-20013/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Minda Hu, Tianqing Fang, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, H
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-20013/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-20013/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-20013/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-20013/citation.csl.json
 
 ## Recorded arXiv snapshot
 

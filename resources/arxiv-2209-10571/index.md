@@ -2,7 +2,7 @@
 
 Bibliographic record for Subspace Diagonalization on Quantum Computers using Eigenvector Continuation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2209-10571/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2209-10571/
 - Original source: https://arxiv.org/abs/2209.10571
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Subspace Diagonalization on Quantum Computers using Eig
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2209-10571/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2209-10571/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Akhil Francis, Anjali A. Agrawal, Jack H. Howard, Efekan Kökcü, A. F. Kemper
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2209-10571/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2209-10571/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2209-10571/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2209-10571/citation.csl.json
 
 ## Recorded arXiv snapshot
 

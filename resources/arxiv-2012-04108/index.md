@@ -2,7 +2,7 @@
 
 Bibliographic record for Building a fault-tolerant quantum computer using concatenated cat codes. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2012-04108/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2012-04108/
 - Original source: https://arxiv.org/abs/2012.04108
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Building a fault-tolerant quantum computer using concat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2012-04108/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2012-04108/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Christopher Chamberland, Kyungjoo Noh, Patricio Arrangoiz-Arriola, Earl T. Campb
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2012-04108/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2012-04108/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2012-04108/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2012-04108/citation.csl.json
 
 ## Recorded arXiv snapshot
 

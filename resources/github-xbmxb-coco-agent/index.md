@@ -2,7 +2,7 @@
 
 Research implementation combining screen and layout perception with conditional action prediction for smartphone automation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-xbmxb-coco-agent/
+- Catalog URL: https://awesomecua.com/resources/github-xbmxb-coco-agent/
 - Original source: https://github.com/xbmxb/CoCo-Agent
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Research implementation combining screen and layout perception with conditional 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-xbmxb-coco-agent/record.json
+- Record JSON: https://awesomecua.com/resources/github-xbmxb-coco-agent/record.json
 
 ## License declarations
 

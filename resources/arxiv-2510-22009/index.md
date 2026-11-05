@@ -2,7 +2,7 @@
 
 OpenPhone trains a compact mobile policy with supervised learning followed by GRPO on synthetic GUI data, incorporating reasoning and memory management. Its device-cloud design handles routine work locally and delegates complex subtasks, with online evaluation on AndroidLab.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-22009/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-22009/
 - Original source: https://arxiv.org/abs/2510.22009
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OpenPhone trains a compact mobile policy with supervised learning followed by GR
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-22009/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-22009/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yangqin Jiang, Chao Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-22009/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-22009/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-22009/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-22009/citation.csl.json
 
 ## Recorded arXiv snapshot
 

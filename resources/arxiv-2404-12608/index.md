@@ -2,7 +2,7 @@
 
 Bibliographic record for Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-12608/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-12608/
 - Original source: https://arxiv.org/abs/2404.12608
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Auto-Formula: Recommend Formulas in Spreadsheets using 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-12608/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-12608/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sibei Chen, Yeye He, Weiwei Cui, Ju Fan, Song Ge, Haidong Zhang, Dongmei Zhang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-12608/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-12608/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-12608/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-12608/citation.csl.json
 
 ## Recorded arXiv snapshot
 

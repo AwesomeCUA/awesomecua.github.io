@@ -2,7 +2,7 @@
 
 Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-appium-appium/
+- Catalog URL: https://awesomecua.com/resources/github-appium-appium/
 - Original source: https://github.com/appium/appium
 - Kind: infrastructure
 - Review: curated
@@ -16,7 +16,7 @@ Open-source WebDriver-based automation server for mobile, desktop and IoT apps, 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-appium-appium/record.json
+- Record JSON: https://awesomecua.com/resources/github-appium-appium/record.json
 
 ## License declarations
 

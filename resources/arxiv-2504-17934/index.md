@@ -2,7 +2,7 @@
 
 Presents a position paper on privacy and security evaluation for GUI agents, identifying risk categories and challenges in involving human evaluators. It proposes risk-aware assessment and in-context consent as design directions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-17934/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-17934/
 - Original source: https://arxiv.org/abs/2504.17934
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents a position paper on privacy and security evaluation for GUI agents, ide
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. This is a position paper proposing an evaluation framework; the abstract does not report a new benchmark or empirical validation of the proposed framework.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-17934/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-17934/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chaoran Chen, Zhiping Zhang, Ibrahim Khalilov, Bingcan Guo, Simret A Gebreegziab
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-17934/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-17934/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-17934/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-17934/citation.csl.json
 
 ## Recorded arXiv snapshot
 

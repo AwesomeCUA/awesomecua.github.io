@@ -2,7 +2,7 @@
 
 Introduces an open generalist computer-use stack combining visual and programmatic interaction, with model-controlled observation and task-state decisions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22200/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-22200/
 - Original source: https://arxiv.org/abs/2610.22200
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces an open generalist computer-use stack combining visual and programmat
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22200/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-22200/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hanzhang Zhou, Long Li, Quyu Kong, Lei Wang, Panrong Tong, Long Chen, Tianyu Xia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22200/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22200/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-22200/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-22200/citation.csl.json
 
 ## Recorded arXiv snapshot
 

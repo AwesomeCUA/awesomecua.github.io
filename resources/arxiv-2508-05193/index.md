@@ -2,7 +2,7 @@
 
 Bibliographic record for STEPWISE-CODEX-Bench: Evaluating Complex Multi-Function Comprehension and Fine-Grained Execution Reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-05193/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-05193/
 - Original source: https://arxiv.org/abs/2508.05193
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for STEPWISE-CODEX-Bench: Evaluating Complex Multi-Function
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05193/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-05193/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kaiwen Yan, Yuhang Chang, Zirui Guo, Yaling Mou, Jiang Ming, Jingwei Sun
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05193/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05193/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-05193/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-05193/citation.csl.json
 
 ## Recorded arXiv snapshot
 

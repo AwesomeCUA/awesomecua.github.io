@@ -2,7 +2,7 @@
 
 GUI-RC aggregates multiple grounding predictions into spatial voting grids to choose a consensus region. GUI-RCPO then turns agreement with that region into a reward for test-time policy updates on unlabeled GUI screenshots.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-05615/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-05615/
 - Original source: https://arxiv.org/abs/2508.05615
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-RC aggregates multiple grounding predictions into spatial voting grids to ch
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05615/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-05615/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yong Du, Yuchen Yan, Fei Tang, Zhengxi Lu, Chang Zong, Weiming Lu, Shengpei Jian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05615/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05615/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-05615/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-05615/citation.csl.json
 
 ## Recorded arXiv snapshot
 

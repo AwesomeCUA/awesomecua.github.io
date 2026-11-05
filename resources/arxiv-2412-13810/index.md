@@ -2,7 +2,7 @@
 
 Bibliographic record for CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-13810/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-13810/
 - Original source: https://arxiv.org/abs/2412.13810
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-13810/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-13810/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dimitrios Mallis, Ahmet Serdar Karadeniz, Sebastian Cavada, Danila Rukhovich, Ni
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-13810/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-13810/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-13810/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-13810/citation.csl.json
 
 ## Recorded arXiv snapshot
 

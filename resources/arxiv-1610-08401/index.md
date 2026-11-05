@@ -2,7 +2,7 @@
 
 Bibliographic record for Universal adversarial perturbations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1610-08401/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1610-08401/
 - Original source: https://arxiv.org/abs/1610.08401
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Universal adversarial perturbations. Title, authors and
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1610-08401/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1610-08401/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Omar Fawzi, Pascal Frossard
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1610-08401/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1610-08401/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1610-08401/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1610-08401/citation.csl.json
 
 ## Recorded arXiv snapshot
 

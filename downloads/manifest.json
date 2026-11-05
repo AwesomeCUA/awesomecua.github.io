@@ -92,8 +92,8 @@
         "unit": "documents"
       },
       "scope": "reviewed",
-      "bytes": 7211900,
-      "sha256": "403acee1ed475b70ea73be4a2b011c18f3c095ce2caa8bd7e0c5954dff536875"
+      "bytes": 7191812,
+      "sha256": "1cc7f564b4a05d006ea843604f8ea17d6b3386cb53dce36c577724f6d919c70a"
     },
     {
       "id": "rag-all",
@@ -114,8 +114,8 @@
         "unit": "documents"
       },
       "scope": "active",
-      "bytes": 12898816,
-      "sha256": "08830f4607ed04209320a31f43263f5546877a816e4b384b8ac2ec038b7ebf22"
+      "bytes": 12858292,
+      "sha256": "807e24de4bb39575157880bcf8805372def1133787a08c5855c4346685bb126c"
     },
     {
       "id": "rag-manifest",
@@ -137,7 +137,7 @@
       },
       "scope": "provenance",
       "bytes": 958,
-      "sha256": "4dc2de9a44df93f14bf5815baaa6e8aff4b56771e37c681dcb32ad1dab27cf5a"
+      "sha256": "7be98dfc2f217631ea645de03e2ef1472cb2de2b21362ea771a8c1b5d6fa21ff"
     },
     {
       "id": "citations-bib",
@@ -642,8 +642,8 @@
         "unit": "schemas"
       },
       "scope": "contract",
-      "bytes": 2724,
-      "sha256": "a5f5e04cec54b2472179a45188cb72311745b84850fa92e71ba809a25e392a10"
+      "bytes": 2718,
+      "sha256": "eea0d823b0e9efee4f741399eb8590f87cce3f72ca17575e116ac73afd04f77d"
     },
     {
       "id": "repository-alias-schema-json",
@@ -664,8 +664,8 @@
         "unit": "schemas"
       },
       "scope": "contract",
-      "bytes": 3880,
-      "sha256": "45f91e0464bf1703a5e2952f2fc92c57bb48fb03828d302012d3f968f248d8b1"
+      "bytes": 3874,
+      "sha256": "6ef1abdd681fde518b468a7bad47fc5921dda91db8b115db86ce3ed205a99679"
     },
     {
       "id": "github-candidate-observation-schema-json",
@@ -686,8 +686,8 @@
         "unit": "schemas"
       },
       "scope": "contract",
-      "bytes": 5241,
-      "sha256": "1e124948940cd43199d18d1297d1312d26b1890f140728bf87a500fda959fc6d"
+      "bytes": 5235,
+      "sha256": "092193106b87ca7f3d9d259232a0f19d603256c7f5c3dafea4f11fd1ab772f24"
     },
     {
       "id": "github-candidate-observation-manifest-schema-json",
@@ -708,8 +708,8 @@
         "unit": "schemas"
       },
       "scope": "contract",
-      "bytes": 22421,
-      "sha256": "0564338b7a6febd690a7887ad2f69379c995dfb6c0cbf1f19d4b9239879975c4"
+      "bytes": 22415,
+      "sha256": "4aba30cde65a78fdfbc99db32d75223b3b17218ed421a08c676e6f23f6e797bd"
     }
   ]
 }

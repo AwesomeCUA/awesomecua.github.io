@@ -2,7 +2,7 @@
 
 Systematizes safety and security threats to computer-using agents, with taxonomies of threats and defensive strategies.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-10924/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-10924/
 - Original source: https://arxiv.org/abs/2505.10924
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Systematizes safety and security threats to computer-using agents, with taxonomi
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-10924/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-10924/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-10924/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-10924/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-10924/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-10924/citation.csl.json
 
 ## Recorded arXiv snapshot
 

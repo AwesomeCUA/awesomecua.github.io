@@ -2,7 +2,7 @@
 
 Defines visual state reliance and probes whether GUI agents resolve screenshot/structure conflicts using pixels, serialized interface structure or prior beliefs. Paired interventions and live multi-step tests connect misattributed state beliefs to failures and compare consistency-based mitigations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-04334/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-04334/
 - Original source: https://arxiv.org/abs/2607.04334
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Defines visual state reliance and probes whether GUI agents resolve screenshot/s
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-04334/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-04334/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guijia Zhang, Yuxun Chen, Yuheng Qi, Harry Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-04334/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-04334/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-04334/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-04334/citation.csl.json
 
 ## Recorded arXiv snapshot
 

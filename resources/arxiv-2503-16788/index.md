@@ -2,7 +2,7 @@
 
 This study compares matched reasoning and non-reasoning vision-language models on static mobile GUI tasks and interactive AndroidWorld navigation. It finds that chain-of-thought effects vary across tasks and model families.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-16788/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-16788/
 - Original source: https://arxiv.org/abs/2503.16788
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This study compares matched reasoning and non-reasoning vision-language models o
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-16788/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-16788/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Li Zhang, Longxi Gao, Mengwei Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-16788/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-16788/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-16788/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-16788/citation.csl.json
 
 ## Recorded arXiv snapshot
 

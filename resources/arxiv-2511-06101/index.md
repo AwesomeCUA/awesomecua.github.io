@@ -2,7 +2,7 @@
 
 Introduces SynthAgent, which generates tasks by exploring website elements and refines them when observations reveal conflicts. A later trajectory-refinement stage removes misaligned behavior before fine-tuning agents for the target websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-06101/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-06101/
 - Original source: https://arxiv.org/abs/2511.06101
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SynthAgent, which generates tasks by exploring website elements and r
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-06101/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-06101/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhaoyang Wang, Yiming Liang, Xuchao Zhang, Qianhui Wu, Siwei Han, Anson Bastos, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-06101/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-06101/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-06101/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-06101/citation.csl.json
 
 ## Recorded arXiv snapshot
 

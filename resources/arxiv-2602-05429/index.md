@@ -2,7 +2,7 @@
 
 M2-Miner uses multi-agent-guided Monte Carlo tree search to collect mobile GUI intent–trajectory pairs. Intent recycling and progressive collector training aim to increase the diversity and usefulness of the mined interaction data.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-05429/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-05429/
 - Original source: https://arxiv.org/abs/2602.05429
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ M2-Miner uses multi-agent-guided Monte Carlo tree search to collect mobile GUI i
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-05429/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-05429/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rui Lv, Juncheng Mo, Tianyi Chu, Chen Rao, Hongyi Jing, Jiajie Teng, Jiafu Chen,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-05429/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-05429/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-05429/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-05429/citation.csl.json
 
 ## Recorded arXiv snapshot
 

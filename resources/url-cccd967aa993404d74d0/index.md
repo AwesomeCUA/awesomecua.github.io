@@ -2,7 +2,7 @@
 
 Introduces Koala, a collaborative web automation system that records browser interactions as editable pseudo-natural-language scripts. Scripts are shared through a wiki and instantiated with personal or corporate data for reuse by other users.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/
+- Catalog URL: https://awesomecua.com/resources/url-cccd967aa993404d74d0/
 - Original source: https://doi.org/10.1145/1240624.1240767
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Koala, a collaborative web automation system that records browser int
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record.
 
-- Record JSON: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/record.json
+- Record JSON: https://awesomecua.com/resources/url-cccd967aa993404d74d0/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-cccd967aa993404d74d0/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-cccd967aa993404d74d0/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
 - Authors: Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
 - Publication date (recorded precision): 2007
 - Publication source: https://doi.org/10.1145/1240624.1240767
-- Publication BibTeX: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-cccd967aa993404d74d0/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-cccd967aa993404d74d0/publication-citation.csl.json
 - venue: CHI 2007 Proceedings
 - pages: 943-946
 - doi: 10.1145/1240624.1240767

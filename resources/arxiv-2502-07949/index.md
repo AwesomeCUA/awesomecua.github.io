@@ -2,7 +2,7 @@
 
 Uses variational subgoal-conditioned reinforcement learning to improve learning efficiency on sparse-reward mobile and web-control tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-07949/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-07949/
 - Original source: https://arxiv.org/abs/2502.07949
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses variational subgoal-conditioned reinforcement learning to improve learning 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-07949/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-07949/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qingyuan Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-07949/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-07949/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-07949/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-07949/citation.csl.json
 
 ## Recorded arXiv snapshot
 

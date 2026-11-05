@@ -2,7 +2,7 @@
 
 Bibliographic record for From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-01039/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-01039/
 - Original source: https://arxiv.org/abs/2410.01039
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for From Facts to Insights: A Study on the Generation and E
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-01039/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-01039/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tomas Goldsack, Yang Wang, Chenghua Lin, Chung-Chi Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-01039/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-01039/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-01039/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-01039/citation.csl.json
 
 ## Recorded arXiv snapshot
 

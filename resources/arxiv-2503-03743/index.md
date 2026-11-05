@@ -2,7 +2,7 @@
 
 Uses human-planned subtasks to constrain and refine the intermediate plans connecting user goals with executable mobile operations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-03743/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-03743/
 - Original source: https://arxiv.org/abs/2503.03743
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses human-planned subtasks to constrain and refine the intermediate plans conne
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-03743/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-03743/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuqi Zhou, Shuai Wang, Sunhao Dai, Qinglin Jia, Zhaocheng Du, Zhenhua Dong, Jun 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-03743/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-03743/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-03743/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-03743/citation.csl.json
 
 ## Recorded arXiv snapshot
 

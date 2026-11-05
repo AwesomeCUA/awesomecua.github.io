@@ -2,7 +2,7 @@
 
 AnchorGUI compares expected and observed UI transitions and selectively retains screenshots when they disagree. This asymmetric memory supports immediate correction and focuses cross-attempt experience distillation on likely failure steps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-15457/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-15457/
 - Original source: https://arxiv.org/abs/2609.15457
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AnchorGUI compares expected and observed UI transitions and selectively retains 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-15457/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-15457/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shengjie Jin, Zelong Sun, Hengbo Xu, Yanbiao Ma, Zhiwu Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-15457/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-15457/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-15457/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-15457/citation.csl.json
 
 ## Recorded arXiv snapshot
 

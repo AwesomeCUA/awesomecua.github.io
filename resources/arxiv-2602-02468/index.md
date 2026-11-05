@@ -2,7 +2,7 @@
 
 Avenir-Web combines multiple grounding specialists with procedural experience, a task checklist and adaptive memory. It evaluates this planning and execution framework on live Online-Mind2Web tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-02468/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-02468/
 - Original source: https://arxiv.org/abs/2602.02468
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Avenir-Web combines multiple grounding specialists with procedural experience, a
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-02468/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-02468/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Aiden Yiliu Li, Xinyue Hao, Shilong Liu, Mengdi Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-02468/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-02468/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-02468/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-02468/citation.csl.json
 
 ## Recorded arXiv snapshot
 

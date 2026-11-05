@@ -2,7 +2,7 @@
 
 UIPro pretrains GUI understanding on 20.6 million tasks and then harmonizes interaction datasets through a unified action space. Continued fine-tuning uses the merged multi-platform data to train action prediction for generalist GUI operation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-17328/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-17328/
 - Original source: https://arxiv.org/abs/2509.17328
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UIPro pretrains GUI understanding on 20.6 million tasks and then harmonizes inte
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-17328/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-17328/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongxin Li, Jingran Su, Jingfan Chen, Zheng Ju, Yuntao Chen, Qing Li, Zhaoxiang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-17328/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-17328/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-17328/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-17328/citation.csl.json
 
 ## Recorded arXiv snapshot
 

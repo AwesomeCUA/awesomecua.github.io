@@ -2,7 +2,7 @@
 
 Argus benchmarks post-hoc uncertainty methods for single-step GUI grounding across open-weight and closed-source observation regimes. It tests calibration, rejection, error severity and conformal click regions, finding that uncertainty rankings transfer less reliably across model/interface regimes than across datasets for one model.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-25760/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-25760/
 - Original source: https://arxiv.org/abs/2606.25760
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Argus benchmarks post-hoc uncertainty methods for single-step GUI grounding acro
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-25760/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-25760/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Ome
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-25760/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-25760/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-25760/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-25760/citation.csl.json
 
 ## Recorded arXiv snapshot
 

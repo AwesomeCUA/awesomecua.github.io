@@ -2,7 +2,7 @@
 
 A compact visual-action checkpoint that predicts continuous GUI drag trajectories from a screenshot and a natural-language instruction.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-f70aa7c95824a8729516/
+- Catalog URL: https://awesomecua.com/resources/url-f70aa7c95824a8729516/
 - Original source: https://huggingface.co/showlab/ShowUI-pi
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A compact visual-action checkpoint that predicts continuous GUI drag trajectorie
 
 A model.safetensors file and policy pre/postprocessor configuration are publicly ungated. The card describes a SmolVLA-based GUI drag-and-drop model despite its generic robotics pipeline tag. No weight-license declaration or specific operating-system coverage is provided.
 
-- Record JSON: https://awesomecua.github.io/resources/url-f70aa7c95824a8729516/record.json
+- Record JSON: https://awesomecua.com/resources/url-f70aa7c95824a8729516/record.json
 
 ## License declarations
 

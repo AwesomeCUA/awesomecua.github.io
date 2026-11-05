@@ -2,7 +2,7 @@
 
 Bibliographic record for Memory-Driven Role-Playing: Evaluation and Enhancement of Persona Knowledge Utilization in LLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-19313/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-19313/
 - Original source: https://arxiv.org/abs/2603.19313
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Memory-Driven Role-Playing: Evaluation and Enhancement 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-19313/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-19313/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kai Wang, Haoyang You, Yang Zhang, Zhongjie Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-19313/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-19313/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-19313/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-19313/citation.csl.json
 
 ## Recorded arXiv snapshot
 

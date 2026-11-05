@@ -2,7 +2,7 @@
 
 Web and Android GUI action-instruction data, with single-step, multi-step and smartphone partitions.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-6cd150ec23361b4d2e84/
+- Catalog URL: https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/
 - Original source: https://huggingface.co/datasets/yiye2023/GUIAct
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Web and Android GUI action-instruction data, with single-step, multi-step and sm
 
 Public JSON annotations and Parquet image packages are present. The project README declares CC-BY-4.0 for datasets, while this Hub card declares Apache-2.0; these conflicting declarations are retained without asserting a single confirmed data license. The project code’s MIT declaration is separate.
 
-- Record JSON: https://awesomecua.github.io/resources/url-6cd150ec23361b4d2e84/record.json
+- Record JSON: https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/record.json
 
 ## Structured profile
 

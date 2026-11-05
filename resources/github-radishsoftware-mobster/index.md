@@ -2,7 +2,7 @@
 
 iOS agent engine organized around an observe, decide, verify and act loop, using WebDriverAgent screen state and phone actions such as taps, typing, swipes and app switches.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-radishsoftware-mobster/
+- Catalog URL: https://awesomecua.com/resources/github-radishsoftware-mobster/
 - Original source: https://github.com/RadishSoftware/mobster
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ iOS agent engine organized around an observe, decide, verify and act loop, using
 
 This entry covers the published engine, not the separate Mobster for Mac product. The documented reference example requires an already-serving WebDriverAgent runner for an iPhone and a model-service key; it performs a fixed read-only Settings task and declines approvals. The repository lists benchmark/evaluation tooling, but dated simulator subsets, real-device trials and earlier engine results are different evaluation populations. The README explicitly places several product modules outside this repository. Source inspection confirms WDA dispatch paths, not task success, security guarantees or reproducible performance; no phone, simulator, model or benchmark was run. MIT applies to the inspected repository software, not automatically to external WDA code, images or other data.
 
-- Record JSON: https://awesomecua.github.io/resources/github-radishsoftware-mobster/record.json
+- Record JSON: https://awesomecua.com/resources/github-radishsoftware-mobster/record.json
 
 ## License declarations
 

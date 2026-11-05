@@ -2,7 +2,7 @@
 
 Introduces HackWorld for evaluating visual computer-use agents in a capture-the-flag collection of web applications. The benchmark examines interface navigation and multistep planning during vulnerability discovery and exploitation tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-12200/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-12200/
 - Original source: https://arxiv.org/abs/2510.12200
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces HackWorld for evaluating visual computer-use agents in a capture-the-
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-12200/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-12200/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaoxue Ren, Penghao Jiang, Kaixin Li, Zhiyong Huang, Xiaoning Du, Jiaojiao Jian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-12200/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-12200/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-12200/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-12200/citation.csl.json
 
 ## Recorded arXiv snapshot
 

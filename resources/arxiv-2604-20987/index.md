@@ -2,7 +2,7 @@
 
 Bibliographic record for Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-20987/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-20987/
 - Original source: https://arxiv.org/abs/2604.20987
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Co-Evolving LLM Decision and Skill Bank Agents for Long
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-20987/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-20987/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiyang Wu, Zongxia Li, Guangyao Shi, Alexander Duffy, Tyler Marques, Matthew Lyl
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-20987/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-20987/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-20987/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-20987/citation.csl.json
 
 ## Recorded arXiv snapshot
 

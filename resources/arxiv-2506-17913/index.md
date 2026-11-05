@@ -2,7 +2,7 @@
 
 CogniGUI combines hierarchical visual parsing of interface elements with a GRPO-based grounding agent that compares alternative interaction paths. Its ScreenSeek benchmark evaluates navigation across applications, changing interface states, and consistency between interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-17913/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-17913/
 - Original source: https://arxiv.org/abs/2506.17913
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CogniGUI combines hierarchical visual parsing of interface elements with a GRPO-
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-17913/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-17913/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jinjie Wei, Jiyao Liu, Lihao Liu, Ming Hu, Junzhi Ning, Mingcheng Li, Weijie Yin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-17913/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-17913/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-17913/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-17913/citation.csl.json
 
 ## Recorded arXiv snapshot
 

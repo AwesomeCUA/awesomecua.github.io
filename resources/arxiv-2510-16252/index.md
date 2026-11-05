@@ -2,7 +2,7 @@
 
 WebServ combines copy-on-write container environments with a compact DOM-derived browser interface for training web agents. Network-aware waiting supports action execution in single-page applications, with evaluations and reinforcement-learning experiments on WebArena-Lite.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-16252/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-16252/
 - Original source: https://arxiv.org/abs/2510.16252
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebServ combines copy-on-write container environments with a compact DOM-derived
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-16252/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-16252/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxuan Lu, Ziyi Wang, Jing Huang, Hui Liu, Jiri Gesi, Yan Han, Shihan Fu, Tianqi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-16252/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-16252/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-16252/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-16252/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces EconWebArena, a curated benchmark of economic-data tasks requiring live website navigation, multimodal interpretation, and precise extraction. It evaluates visual grounding, planning, and interaction design within multistep workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-08136/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-08136/
 - Original source: https://arxiv.org/abs/2506.08136
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces EconWebArena, a curated benchmark of economic-data tasks requiring li
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-08136/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-08136/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zefang Liu, Yinzhu Quan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-08136/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-08136/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-08136/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-08136/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for RoboCLIP: One Demonstration is Enough to Learn Robot Policies. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-07899/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-07899/
 - Original source: https://arxiv.org/abs/2310.07899
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for RoboCLIP: One Demonstration is Enough to Learn Robot Po
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-07899/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-07899/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sumedh A Sontakke, Jesse Zhang, Sébastien M. R. Arnold, Karl Pertsch, Erdem Bı
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-07899/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-07899/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-07899/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-07899/citation.csl.json
 
 ## Recorded arXiv snapshot
 

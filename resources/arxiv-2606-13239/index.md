@@ -2,7 +2,7 @@
 
 ComAct proposes COM program synthesis as an alternative interface for manipulating professional software and introduces ComCADBench with GUI-based comparison agents. ComActor adds a staged training and correction approach, supported by a Windows-container training platform.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-13239/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-13239/
 - Original source: https://arxiv.org/abs/2606.13239
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ComAct proposes COM program synthesis as an alternative interface for manipulati
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-13239/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-13239/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiaxin Ai, Tao Hu, Xuemeng Yang, Shu Zou, Hairong Zhang, Daocheng Fu, Yu Yang, H
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-13239/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-13239/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-13239/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-13239/citation.csl.json
 
 ## Recorded arXiv snapshot
 

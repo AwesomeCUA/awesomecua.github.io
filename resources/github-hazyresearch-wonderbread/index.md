@@ -2,7 +2,7 @@
 
 An offline benchmark of workflow documentation, quality assessment and knowledge transfer using human web-navigation demonstrations, action traces and written procedures.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-hazyresearch-wonderbread/
+- Catalog URL: https://awesomecua.com/resources/github-hazyresearch-wonderbread/
 - Original source: https://github.com/HazyResearch/wonderbread
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ An offline benchmark of workflow documentation, quality assessment and knowledge
 
 The repository contains evaluation and collection code; the linked Zenodo release exposes the full, gold and debug demonstration archives and metadata. This measures workflow understanding rather than interactive agent task completion. Zenodo declares CC-BY-4.0 for that dataset; no repository-level code license was found. Archives and human demonstration records were not downloaded.
 
-- Record JSON: https://awesomecua.github.io/resources/github-hazyresearch-wonderbread/record.json
+- Record JSON: https://awesomecua.com/resources/github-hazyresearch-wonderbread/record.json
 
 ## Structured profile
 

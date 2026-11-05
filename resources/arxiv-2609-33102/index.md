@@ -2,7 +2,7 @@
 
 Inspect-based framework that varies multi-agent roles, communication, attacks and defenses, with BrowserGym and virtual-desktop GUI adapters alongside coding and other tool scenarios.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-33102/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-33102/
 - Original source: https://arxiv.org/abs/2609.33102
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Inspect-based framework that varies multi-agent roles, communication, attacks an
 
 BrowserART uses an accessibility-tree action interface, while the desktop adapter uses mouse, keyboard and screenshots. The adapted tasks are not claimed to preserve the constructs of their source benchmarks. Experiments cover a representative configuration slice with fixed attack templates; the OS-Harm results are imported from prior work using a different model and stack. Browser defense tables also differ in baseline versus defended judges and in judged benign denominators. Human judge validation used one grader. These results do not establish a universally effective defense. The linked repository and its code/data licenses were not independently inspected, and no experiment was run.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-33102/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-33102/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ben Hagag, William L. Anderson, Srija Chakraborty, Christian Schroeder de Witt
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-33102/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-33102/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-33102/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-33102/citation.csl.json
 
 ## Recorded arXiv snapshot
 

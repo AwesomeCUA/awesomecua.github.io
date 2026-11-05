@@ -2,7 +2,7 @@
 
 Studies language-model generation of mobile text inputs, comparing UI representations, execution feedback, and human assistance for app testing.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-08948/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-08948/
 - Original source: https://arxiv.org/abs/2404.08948
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies language-model generation of mobile text inputs, comparing UI representa
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-08948/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-08948/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chenhui Cui, Tao Li, Junjie Wang, Chunyang Chen, Dave Towey, Rubing Huang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-08948/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-08948/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-08948/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-08948/citation.csl.json
 
 ## Recorded arXiv snapshot
 

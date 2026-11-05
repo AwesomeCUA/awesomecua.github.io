@@ -2,7 +2,7 @@
 
 Execution-based evaluation of agents performing tasks in real desktop environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-xlang-ai-osworld/
+- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-osworld/
 - Original source: https://github.com/xlang-ai/OSWorld
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Execution-based evaluation of agents performing tasks in real desktop environmen
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-osworld/record.json
+- Record JSON: https://awesomecua.com/resources/github-xlang-ai-osworld/record.json
 
 ## Structured profile
 

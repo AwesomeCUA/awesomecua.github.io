@@ -2,7 +2,7 @@
 
 Bibliographic record for Do As I Can, Not As I Say: Grounding Language in Robotic Affordances. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2204-01691/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2204-01691/
 - Original source: https://arxiv.org/abs/2204.01691
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Do As I Can, Not As I Say: Grounding Language in Roboti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2204-01691/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2204-01691/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron Dav
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2204-01691/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2204-01691/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2204-01691/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2204-01691/citation.csl.json
 
 ## Recorded arXiv snapshot
 

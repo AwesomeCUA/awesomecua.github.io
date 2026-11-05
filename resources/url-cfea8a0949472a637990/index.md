@@ -2,7 +2,7 @@
 
 The released SeeClick visual grounding checkpoint for mapping an interface screenshot and referring instruction to a point or bounding box.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-cfea8a0949472a637990/
+- Catalog URL: https://awesomecua.com/resources/url-cfea8a0949472a637990/
 - Original source: https://huggingface.co/cckevinn/SeeClick
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ The released SeeClick visual grounding checkpoint for mapping an interface scree
 
 The public ungated Hub manifest contains ten safetensors shards and model configuration/code but no README model card or explicit weight-license field. The official repository identifies the checkpoint and says incorporated checkpoints follow their original licenses, without resolving a specific standalone weight license. No source or model code was executed.
 
-- Record JSON: https://awesomecua.github.io/resources/url-cfea8a0949472a637990/record.json
+- Record JSON: https://awesomecua.com/resources/url-cfea8a0949472a637990/record.json
 
 ## License declarations
 

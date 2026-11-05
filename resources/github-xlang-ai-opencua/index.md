@@ -2,7 +2,7 @@
 
 Open computer-use research stack including models and training resources.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-xlang-ai-opencua/
+- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-opencua/
 - Original source: https://github.com/xlang-ai/OpenCUA
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Open computer-use research stack including models and training resources.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-opencua/record.json
+- Record JSON: https://awesomecua.com/resources/github-xlang-ai-opencua/record.json
 
 ## License declarations
 

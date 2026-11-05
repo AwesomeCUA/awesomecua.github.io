@@ -2,7 +2,7 @@
 
 WALT explores website functionality and converts demonstrated interactions into validated, reusable tools combining DOM actions, URL navigation, and agentic fallbacks. It evaluates this expanded browser action space on WebArena and VisualWebArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-01524/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-01524/
 - Original source: https://arxiv.org/abs/2510.01524
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WALT explores website functionality and converts demonstrated interactions into 
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-01524/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-01524/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Viraj Prabhu, Yutong Dai, Matthew Fernandez, Jing Gu, Krithika Ramakrishnan, Yan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-01524/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-01524/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-01524/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-01524/citation.csl.json
 
 ## Recorded arXiv snapshot
 

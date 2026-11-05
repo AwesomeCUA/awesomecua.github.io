@@ -2,7 +2,7 @@
 
 Bibliographic record for Large Language Models can be Guided to Evade AI-Generated Text Detection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2305-10847/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2305-10847/
 - Original source: https://arxiv.org/abs/2305.10847
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Large Language Models can be Guided to Evade AI-Generat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-10847/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2305-10847/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ning Lu, Shengcai Liu, Rui He, Qi Wang, Yew-Soon Ong, Ke Tang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-10847/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-10847/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2305-10847/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2305-10847/citation.csl.json
 
 ## Recorded arXiv snapshot
 

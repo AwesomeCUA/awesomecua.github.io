@@ -2,7 +2,7 @@
 
 Bibliographic record for Scalable massively parallel computing using continuous-time data representation in nanoscale crossbar array. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2109-07976/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2109-07976/
 - Original source: https://arxiv.org/abs/2109.07976
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Scalable massively parallel computing using continuous-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2109-07976/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2109-07976/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Cong Wang, Shi-Jun Liang, Chen-Yu Wang, Zai-Zheng Yang, Yingmeng Ge, Chen Pan, X
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2109-07976/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2109-07976/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2109-07976/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2109-07976/citation.csl.json
 
 ## Recorded arXiv snapshot
 

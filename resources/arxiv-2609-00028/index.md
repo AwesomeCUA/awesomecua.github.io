@@ -2,7 +2,7 @@
 
 Describes a GUI foundation agent trained through expanded environments, function-grounded tasks, and trajectory verification with safety-aware execution mechanisms.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-00028/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-00028/
 - Original source: https://arxiv.org/abs/2609.00028
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes a GUI foundation agent trained through expanded environments, function
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-00028/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-00028/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Venus Team, Zhuohan Cai, Haoxing Chen, Jiaxuan Chen, Weizhi Chen, Changlong Gao,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-00028/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-00028/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-00028/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-00028/citation.csl.json
 
 ## Recorded arXiv snapshot
 

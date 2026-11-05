@@ -2,7 +2,7 @@
 
 Desktop GUI trajectory data supporting multiple interface understanding tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-0b590d03a3d5103a79e4/
+- Catalog URL: https://awesomecua.com/resources/url-0b590d03a3d5103a79e4/
 - Original source: https://huggingface.co/datasets/vyokky/GUI-360
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Desktop GUI trajectory data supporting multiple interface understanding tasks.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-0b590d03a3d5103a79e4/record.json
+- Record JSON: https://awesomecua.com/resources/url-0b590d03a3d5103a79e4/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Builds synthetic websites with verified navigation, backend state, and feasible tasks to provide reliable supervision for web-agent training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-21898/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-21898/
 - Original source: https://arxiv.org/abs/2608.21898
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds synthetic websites with verified navigation, backend state, and feasible 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-21898/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-21898/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chenghao Zhang, Yuxi Cheng, Saisai Hu, Canran Xiao, Yikai Mao, Dan Roth
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-21898/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-21898/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-21898/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-21898/citation.csl.json
 
 ## Recorded arXiv snapshot
 

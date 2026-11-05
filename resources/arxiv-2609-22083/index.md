@@ -2,7 +2,7 @@
 
 MintAct trains a visual-agent family for grounding, navigation and tool use across mobile, desktop and web environments. Its shared infrastructure supports trajectory collection and asynchronous online RL while controlling cross-domain sampling and off-policy drift.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-22083/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-22083/
 - Original source: https://arxiv.org/abs/2609.22083
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MintAct trains a visual-agent family for grounding, navigation and tool use acro
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-22083/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-22083/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mingfei Gao, Rui Tian, Haiming Gang, Bohan Zhai, Le Zhang, Yuanzheng Gong, Di Fe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-22083/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-22083/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-22083/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-22083/citation.csl.json
 
 ## Recorded arXiv snapshot
 

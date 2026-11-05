@@ -2,7 +2,7 @@
 
 Orienter detects interactable GUI elements in XR applications by interpreting scene context and revisiting candidate elements through a validation and reflection loop. It addresses open-vocabulary element types and context-dependent interactability.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-10811/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-10811/
 - Original source: https://arxiv.org/abs/2409.10811
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Orienter detects interactable GUI elements in XR applications by interpreting sc
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced. The described environment is XR/VR applications; the operating system is not specified in the abstract.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-10811/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-10811/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuqing Li, Binchang Li, Yepang Liu, Cuiyun Gao, Jianping Zhang, Shing-Chi Cheun
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-10811/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-10811/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-10811/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-10811/citation.csl.json
 
 ## Recorded arXiv snapshot
 

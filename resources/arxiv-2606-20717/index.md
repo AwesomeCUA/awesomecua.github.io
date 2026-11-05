@@ -2,7 +2,7 @@
 
 MIRAGE evaluates targeted next-action hijacking from adversarial images restricted to legitimate third-party webpage regions. It combines diffusion-based image generation with execution-aware optimization and tests the constrained visual-injection setting on web-agent frameworks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-20717/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-20717/
 - Original source: https://arxiv.org/abs/2606.20717
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MIRAGE evaluates targeted next-action hijacking from adversarial images restrict
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-20717/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-20717/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xuelong Dai, Jianyu Ma, Boyang Ma, Biwei Yan, Yijun Yang, Yue Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-20717/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-20717/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-20717/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-20717/citation.csl.json
 
 ## Recorded arXiv snapshot
 

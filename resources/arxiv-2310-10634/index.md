@@ -2,7 +2,7 @@
 
 OpenAgents hosts three language agents, for data analysis, API plugins and autonomous web browsing, behind a web interface for non-expert users, with local deployment for developers.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-10634/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-10634/
 - Original source: https://arxiv.org/abs/2310.10634
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OpenAgents hosts three language agents, for data analysis, API plugins and auton
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Scope is adjacent: autonomous web browsing is one of three hosted agents, beside data-analysis and API-plugin agents.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-10634/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-10634/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianbao Xie, Fan Zhou, Zhoujun Cheng, Peng Shi, Luoxuan Weng, Yitao Liu, Toh Jin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-10634/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-10634/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-10634/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-10634/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-14438/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-14438/
 - Original source: https://arxiv.org/abs/2510.14438
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for WebAggregator: Enhancing Compositional Reasoning Capabi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-14438/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-14438/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Rui Wang, Ce Zhang, Jun-Yu Ma, Jianshu Zhang, Hongru Wang, Yi Chen, Boyang Xue, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-14438/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-14438/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-14438/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-14438/citation.csl.json
 
 ## Recorded arXiv snapshot
 

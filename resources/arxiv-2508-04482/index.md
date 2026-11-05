@@ -2,7 +2,7 @@
 
 Surveys agents that operate computers and phones through operating-system interfaces, covering components, capabilities, foundation models, frameworks, and benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-04482/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-04482/
 - Original source: https://arxiv.org/abs/2508.04482
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Surveys agents that operate computers and phones through operating-system interf
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04482/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-04482/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04482/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04482/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-04482/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-04482/citation.csl.json
 
 ## Recorded arXiv snapshot
 

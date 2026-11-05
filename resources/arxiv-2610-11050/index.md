@@ -2,7 +2,7 @@
 
 Introduces AgentHorizon, a benchmark for judging long computer-use trajectories using closely related instructions paired with recorded actions and screenshots. It tests whether judges can detect constraint violations and distinguish successful tasks from similar but incompatible requests.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-11050/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-11050/
 - Original source: https://arxiv.org/abs/2610.11050
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AgentHorizon, a benchmark for judging long computer-use trajectories 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-11050/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-11050/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xing Han Lù, Dheeraj Vattikonda, Sina Hajimiri, Fatemeh Pesaran Zadeh, Parishad
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-11050/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-11050/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-11050/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-11050/citation.csl.json
 
 ## Recorded arXiv snapshot
 

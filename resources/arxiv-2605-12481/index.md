@@ -2,7 +2,7 @@
 
 ToolCUA synthesizes interleaved GUI/tool trajectories and trains agents to choose between graphical actions and higher-level tools. Staged supervised and reinforcement learning culminate in online hybrid-environment training with a reward for efficient execution paths.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-12481/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-12481/
 - Original source: https://arxiv.org/abs/2605.12481
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ToolCUA synthesizes interleaved GUI/tool trajectories and trains agents to choos
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-12481/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-12481/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xuhao Hu, Xi Zhang, Haiyang Xu, Kyle Qiao, Jingyi Yang, Xuanjing Huang, Jing Sha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-12481/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-12481/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-12481/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-12481/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 StakeBench evaluates prompt-injection harm to different stakeholders in shopping web-agent workflows. Its executable cases separate attack objectives and assess both outcomes and execution processes to reveal how the same attack pattern can affect different parties.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-13385/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-13385/
 - Original source: https://arxiv.org/abs/2606.13385
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ StakeBench evaluates prompt-injection harm to different stakeholders in shopping
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-13385/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-13385/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zihao Wang, Yiming Li, Yutong Wu, Kangjie Chen, Zheyu Liu, Fok Kar Wai, Pin-Yu C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-13385/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-13385/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-13385/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-13385/citation.csl.json
 
 ## Recorded arXiv snapshot
 

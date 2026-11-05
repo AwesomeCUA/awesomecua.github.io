@@ -2,7 +2,7 @@
 
 Introduces SUGILITE, which combines spoken instructions, demonstrated Android actions, and UI hierarchies to generate reusable automation scripts. Its interface includes context checking and repairs for unfamiliar situations and changing app interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/
+- Catalog URL: https://awesomecua.com/resources/url-392a602c660ffa91be46/
 - Original source: https://doi.org/10.1145/3025453.3025483
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SUGILITE, which combines spoken instructions, demonstrated Android ac
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution.
 
-- Record JSON: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/record.json
+- Record JSON: https://awesomecua.com/resources/url-392a602c660ffa91be46/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-392a602c660ffa91be46/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-392a602c660ffa91be46/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
 - Authors: Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
 - Publication date (recorded precision): 2017
 - Publication source: https://doi.org/10.1145/3025453.3025483
-- Publication BibTeX: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-392a602c660ffa91be46/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-392a602c660ffa91be46/publication-citation.csl.json
 - venue: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
 - pages: 6038-6049
 - doi: 10.1145/3025453.3025483

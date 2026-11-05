@@ -2,7 +2,7 @@
 
 Evaluation framework spanning visual GUI, embodied, and design tasks, including mobile and WebArena-based environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-thudm-visualagentbench/
+- Catalog URL: https://awesomecua.com/resources/github-thudm-visualagentbench/
 - Original source: https://github.com/THUDM/VisualAgentBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Evaluation framework spanning visual GUI, embodied, and design tasks, including 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-thudm-visualagentbench/record.json
+- Record JSON: https://awesomecua.com/resources/github-thudm-visualagentbench/record.json
 
 ## License declarations
 

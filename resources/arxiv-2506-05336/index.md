@@ -2,7 +2,7 @@
 
 Bibliographic record for VideoMolmo: Spatio-Temporal Grounding Meets Pointing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-05336/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-05336/
 - Original source: https://arxiv.org/abs/2506.05336
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for VideoMolmo: Spatio-Temporal Grounding Meets Pointing. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-05336/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-05336/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ghazi Shazan Ahmad, Ahmed Heakl, Hanan Gani, Abdelrahman Shaker, Zhiqiang Shen, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-05336/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-05336/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-05336/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-05336/citation.csl.json
 
 ## Recorded arXiv snapshot
 

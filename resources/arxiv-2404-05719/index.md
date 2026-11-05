@@ -2,7 +2,7 @@
 
 Adapts multimodal modeling to mobile interfaces through detailed screen crops, region annotations, and UI reasoning tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-05719/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-05719/
 - Original source: https://arxiv.org/abs/2404.05719
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Adapts multimodal modeling to mobile interfaces through detailed screen crops, r
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-05719/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-05719/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Keen You, Haotian Zhang, Eldon Schoop, Floris Weers, Amanda Swearngin, Jeffrey N
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-05719/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-05719/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-05719/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-05719/citation.csl.json
 
 ## Recorded arXiv snapshot
 

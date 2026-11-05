@@ -2,7 +2,7 @@
 
 Uses learned world models for mobile-agent training rollouts and for reasoning about the consequences of candidate GUI actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-27508/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-27508/
 - Original source: https://arxiv.org/abs/2608.27508
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses learned world models for mobile-agent training rollouts and for reasoning a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-27508/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-27508/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yu Han, Tianwen Qian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-27508/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-27508/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-27508/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-27508/citation.csl.json
 
 ## Recorded arXiv snapshot
 

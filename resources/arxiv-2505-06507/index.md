@@ -2,7 +2,7 @@
 
 Bibliographic record for Text-to-CadQuery: A New Paradigm for CAD Generation with Scalable Large Model Capabilities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-06507/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-06507/
 - Original source: https://arxiv.org/abs/2505.06507
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Text-to-CadQuery: A New Paradigm for CAD Generation wit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-06507/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-06507/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoyang Xie, Feng Ju
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-06507/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-06507/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-06507/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-06507/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces CUA-SWE, a benchmark and execution environment that combines code changes with graphical interaction and visual inspection of running software. Task-specific tests verify repairs and changes whose required information may be available only through the application interface.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-32600/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-32600/
 - Original source: https://arxiv.org/abs/2609.32600
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CUA-SWE, a benchmark and execution environment that combines code cha
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32600/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-32600/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Prince Zizhuang Wang, Chenhao Liang, Zelong Xu, Aojie Yuan, Xiaolin Zhou, Haiyue
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32600/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32600/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-32600/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-32600/citation.csl.json
 
 ## Recorded arXiv snapshot
 

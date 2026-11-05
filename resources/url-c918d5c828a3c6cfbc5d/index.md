@@ -2,7 +2,7 @@
 
 AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters and tagged for Chinese.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-c918d5c828a3c6cfbc5d/
+- Catalog URL: https://awesomecua.com/resources/url-c918d5c828a3c6cfbc5d/
 - Original source: https://huggingface.co/zai-org/AutoGLM-Phone-9B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Bas
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-c918d5c828a3c6cfbc5d/record.json
+- Record JSON: https://awesomecua.com/resources/url-c918d5c828a3c6cfbc5d/record.json
 
 ## License declarations
 

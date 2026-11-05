@@ -2,7 +2,7 @@
 
 Action narration resources for GUI interaction trajectories.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-showlab-gui-action-narrator/
+- Catalog URL: https://awesomecua.com/resources/github-showlab-gui-action-narrator/
 - Original source: https://github.com/showlab/GUI-Action-Narrator
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Action narration resources for GUI interaction trajectories.
 
 Original repository URL redirects to showlab/GUI-Narrator.
 
-- Record JSON: https://awesomecua.github.io/resources/github-showlab-gui-action-narrator/record.json
+- Record JSON: https://awesomecua.com/resources/github-showlab-gui-action-narrator/record.json
 
 ## Structured profile
 

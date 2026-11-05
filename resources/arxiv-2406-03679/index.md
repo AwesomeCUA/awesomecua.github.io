@@ -2,7 +2,7 @@
 
 Studies how Android task performance changes with demonstration scale and releases AndroidControl with high- and low-level instructions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-03679/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-03679/
 - Original source: https://arxiv.org/abs/2406.03679
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies how Android task performance changes with demonstration scale and releas
 
 Annotation reviewed against the primary abstract. Original dataset scale and experimental results are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-03679/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-03679/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wei Li, William Bishop, Alice Li, Chris Rawles, Folawiyo Campbell-Ajala, Divya T
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-03679/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-03679/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-03679/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-03679/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Wei Li, William Bishop, Alice Li, Chris Rawles, Folawiyo Campbell-Ajala, Divya T
 - Authors: Wei Li, William Bishop, Alice Li, Chris Rawles, Folawiyo Campbell-Ajala, Divya Tyamagundlu, Oriana Riva
 - Publication date (recorded precision): 2024-12-16
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2024/hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_Benchmarks_Track.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2406-03679/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-03679/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2406-03679/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2406-03679/publication-citation.csl.json
 - venue: Advances in Neural Information Processing Systems
 - volume: 37
 - pages: 92130-92154

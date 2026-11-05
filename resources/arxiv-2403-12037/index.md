@@ -2,7 +2,7 @@
 
 Bibliographic record for MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-12037/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-12037/
 - Original source: https://arxiv.org/abs/2403.12037
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MineDreamer: Learning to Follow Instructions via Chain-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-12037/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-12037/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Enshen Zhou, Yiran Qin, Zhenfei Yin, Yuzhou Huang, Ruimao Zhang, Lu Sheng, Yu Qi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-12037/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-12037/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-12037/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-12037/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 A cross-platform GUI-critic benchmark with mobile, desktop and web JSONL splits and screenshot assets, accompanied by public inference and accuracy-scoring scripts.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-c73ba0618d1b3c505887/
+- Catalog URL: https://awesomecua.com/resources/url-c73ba0618d1b3c505887/
 - Original source: https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ A cross-platform GUI-critic benchmark with mobile, desktop and web JSONL splits 
 
 The Hub card provides split/format/license metadata, while the official OS-Oracle README establishes critic-evaluation purpose and platform scope. The repository currently releases only benchmark inference/scoring components; data-synthesis code, training datasets and model checkpoints remain unchecked TODOs and are not counted as released assets. Apache-2.0 is recorded for benchmark data only; the evaluation code has no inspected license declaration.
 
-- Record JSON: https://awesomecua.github.io/resources/url-c73ba0618d1b3c505887/record.json
+- Record JSON: https://awesomecua.com/resources/url-c73ba0618d1b3c505887/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Chain-of-Ground uses iterative visual reasoning and reference feedback to refine GUI localization without additional training. It evaluates on ScreenSpot-Pro and introduces TPanel-UI to probe grounding on industrial control panels with visual distortions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-01979/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-01979/
 - Original source: https://arxiv.org/abs/2512.01979
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Chain-of-Ground uses iterative visual reasoning and reference feedback to refine
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-01979/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-01979/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Aiden Yiliu Li, Bizhi Yu, Daoan Lei, Tianhe Ren, Shilong Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-01979/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-01979/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-01979/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-01979/citation.csl.json
 
 ## Recorded arXiv snapshot
 

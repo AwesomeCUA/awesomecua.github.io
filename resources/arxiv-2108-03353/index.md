@@ -2,7 +2,7 @@
 
 Studies mobile-screen summarization using visual, textual, and structural UI information, with a dataset of human-written descriptions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2108-03353/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2108-03353/
 - Original source: https://arxiv.org/abs/2108.03353
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies mobile-screen summarization using visual, textual, and structural UI inf
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2108-03353/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2108-03353/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bryan Wang, Gang Li, Xin Zhou, Zhourong Chen, Tovi Grossman, Yang Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2108-03353/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2108-03353/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2108-03353/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2108-03353/citation.csl.json
 
 ## Recorded arXiv snapshot
 

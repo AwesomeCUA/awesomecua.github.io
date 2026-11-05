@@ -2,7 +2,7 @@
 
 Bibliographic record for Towards adiabatic quantum computing using compressed quantum circuits. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2311-05544/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2311-05544/
 - Original source: https://arxiv.org/abs/2311.05544
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Towards adiabatic quantum computing using compressed qu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-05544/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2311-05544/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Conor Mc Keever, Michael Lubasch
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-05544/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-05544/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2311-05544/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2311-05544/citation.csl.json
 
 ## Recorded arXiv snapshot
 

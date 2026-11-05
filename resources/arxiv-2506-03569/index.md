@@ -2,7 +2,7 @@
 
 Bibliographic record for MiMo-VL Technical Report. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-03569/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-03569/
 - Original source: https://arxiv.org/abs/2506.03569
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MiMo-VL Technical Report. Title, authors and dates chec
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-03569/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-03569/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaomi LLM-Core Team, :, Zihao Yue, Zhenru Lin, Yifan Song, Weikun Wang, Shuhuai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-03569/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-03569/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-03569/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-03569/citation.csl.json
 
 ## Recorded arXiv snapshot
 

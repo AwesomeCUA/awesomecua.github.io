@@ -2,7 +2,7 @@
 
 Introduces AdaptArena to test whether web agents can infer unstated user preferences from relevant past trajectories and carry those preferences into new tasks. Its AdaptiveAgent baseline separates preference-retrieval challenges from failures in downstream web execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-36488/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-36488/
 - Original source: https://arxiv.org/abs/2609.36488
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AdaptArena to test whether web agents can infer unstated user prefere
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-36488/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-36488/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dongchan Shin, Xing Han Lù, Jiaqi Deng, Jay Gala, Tomás Vergara Browne, Jaewon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-36488/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-36488/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-36488/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-36488/citation.csl.json
 
 ## Recorded arXiv snapshot
 

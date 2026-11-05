@@ -2,7 +2,7 @@
 
 Audits failure-scored computer-use trajectories to distinguish agent errors from broken tasks and evaluator false negatives. It organizes reliability issues across task construction, trajectory evidence, scoring, and reporting, then derives corresponding evaluation design practices.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-28367/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28367/
 - Original source: https://arxiv.org/abs/2607.28367
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Audits failure-scored computer-use trajectories to distinguish agent errors from
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28367/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28367/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zihan Dong, Zhiyuan Ma, Zekun Wang, Yunqing Li, Zirou Liu, Ruixuan Deng, Qishi Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28367/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28367/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28367/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28367/citation.csl.json
 
 ## Recorded arXiv snapshot
 

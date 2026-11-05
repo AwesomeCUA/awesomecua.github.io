@@ -2,7 +2,7 @@
 
 CoAct-1 delegates subtasks between a GUI operator and a programmer that executes Python or Bash. Its OSWorld evaluation studies a hybrid action space in which scripts handle suitable file and data operations while visual interaction handles other steps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-03923/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-03923/
 - Original source: https://arxiv.org/abs/2508.03923
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CoAct-1 delegates subtasks between a GUI operator and a programmer that executes
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-03923/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-03923/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Linxin Song, Yutong Dai, Viraj Prabhu, Jieyu Zhang, Taiwei Shi, Li Li, Junnan Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-03923/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-03923/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-03923/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-03923/citation.csl.json
 
 ## Recorded arXiv snapshot
 

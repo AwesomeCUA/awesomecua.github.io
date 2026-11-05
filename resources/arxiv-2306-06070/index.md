@@ -2,7 +2,7 @@
 
 Introduces a web-task dataset spanning diverse websites and evaluates generalization to unseen sites and domains.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2306-06070/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2306-06070/
 - Original source: https://arxiv.org/abs/2306.06070
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a web-task dataset spanning diverse websites and evaluates generaliza
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-06070/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2306-06070/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-06070/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-06070/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2306-06070/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2306-06070/citation.csl.json
 
 ## Recorded arXiv snapshot
 

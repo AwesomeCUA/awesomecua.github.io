@@ -2,7 +2,7 @@
 
 MACU represents computer-use objectives as a dependency graph whose manager dispatches parallel subagents and revises tasks as new information arrives. Desktop and web experiments examine coordination, information handoff and task-completion time.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-01533/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-01533/
 - Original source: https://arxiv.org/abs/2606.01533
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MACU represents computer-use objectives as a dependency graph whose manager disp
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-01533/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-01533/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-01533/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-01533/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-01533/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-01533/citation.csl.json
 
 ## Recorded arXiv snapshot
 

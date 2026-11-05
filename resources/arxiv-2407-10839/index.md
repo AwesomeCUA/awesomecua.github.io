@@ -2,7 +2,7 @@
 
 Bibliographic record for Offline Reinforcement Learning with Imputed Rewards. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-10839/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-10839/
 - Original source: https://arxiv.org/abs/2407.10839
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Offline Reinforcement Learning with Imputed Rewards. Ti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-10839/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-10839/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Carlo Romeo, Andrew D. Bagdanov
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-10839/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-10839/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-10839/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-10839/citation.csl.json
 
 ## Recorded arXiv snapshot
 

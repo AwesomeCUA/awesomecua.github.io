@@ -2,7 +2,7 @@
 
 GUI-explorer generates exploration goals from screenshots and interface structure, then mines observation-action-outcome triples for app-specific transition knowledge. The resulting training-free agent uses this knowledge during mobile task execution, evaluated on SPA-Bench and AndroidWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-16827/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-16827/
 - Original source: https://arxiv.org/abs/2505.16827
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-explorer generates exploration goals from screenshots and interface structur
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-16827/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-16827/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, L
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-16827/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-16827/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-16827/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-16827/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, L
 - Authors: Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, Liqiang Nie
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.acl-long.282/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2505-16827/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-16827/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2505-16827/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2505-16827/publication-citation.csl.json
 - venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 5650-5667

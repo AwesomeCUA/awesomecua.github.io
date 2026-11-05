@@ -2,7 +2,7 @@
 
 Managed browser infrastructure associated with Steel Browser.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-b940a884f200a916a61b/
+- Catalog URL: https://awesomecua.com/resources/url-b940a884f200a916a61b/
 - Original source: https://steel.dev/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Managed browser infrastructure associated with Steel Browser.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-b940a884f200a916a61b/record.json
+- Record JSON: https://awesomecua.com/resources/url-b940a884f200a916a61b/record.json
 
 ## License declarations
 

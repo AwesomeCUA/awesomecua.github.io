@@ -2,7 +2,7 @@
 
 BacktrackAgent adds verification, judgment, and reflection modules to detect erroneous GUI actions and guide recovery. It develops backtracking-oriented training data that includes post-action pages and evaluates task completion and step accuracy on Mobile3M and Auto-UI.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-20660/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-20660/
 - Original source: https://arxiv.org/abs/2505.20660
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ BacktrackAgent adds verification, judgment, and reflection modules to detect err
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-20660/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-20660/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qinzhuo Wu, Pengzhi Gao, Wei Liu, Jian Luan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-20660/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-20660/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-20660/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-20660/citation.csl.json
 
 ## Recorded arXiv snapshot
 

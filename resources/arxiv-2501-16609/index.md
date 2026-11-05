@@ -2,7 +2,7 @@
 
 Introduces CowPilot, a web-navigation framework where agents suggest actions and users can pause, reject, override, or resume them. It evaluates autonomous and collaborative use through task success and human effort.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-16609/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2501-16609/
 - Original source: https://arxiv.org/abs/2501.16609
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CowPilot, a web-navigation framework where agents suggest actions and
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-16609/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2501-16609/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, Shuyan Zhou, Jeffrey P. Bi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-16609/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-16609/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2501-16609/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2501-16609/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, Shuyan Zhou, Jeffrey P. Bi
 - Authors: Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, Shuyan Zhou, Jeffrey P. Bigham, Graham Neubig
 - Publication date (recorded precision): 2025-04
 - Publication source: https://aclanthology.org/2025.naacl-demo.17/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2501-16609/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-16609/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2501-16609/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2501-16609/publication-citation.csl.json
 - venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)
 - publisher: Association for Computational Linguistics
 - pages: 163-172

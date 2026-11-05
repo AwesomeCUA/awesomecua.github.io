@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with Browserbase computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-browserbase/
+- Catalog URL: https://awesomecua.com/resources/organization-browserbase/
 - Original source: https://www.browserbase.com/
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with Browserbase computer-use or browser a
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-browserbase/record.json
+- Record JSON: https://awesomecua.com/resources/organization-browserbase/record.json
 
 ## License declarations
 

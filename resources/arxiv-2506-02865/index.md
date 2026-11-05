@@ -2,7 +2,7 @@
 
 Describes Surfer-H, a web agent paired with the Holo1 vision-language model family trained on web content, synthetic examples, and agent-generated data. The work introduces WebClick for web-interface localization and evaluates browser task execution on WebVoyager.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-02865/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-02865/
 - Original source: https://arxiv.org/abs/2506.02865
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes Surfer-H, a web agent paired with the Holo1 vision-language model fami
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-02865/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-02865/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mathieu Andreux, Breno Baldas Skuk, Hamza Benchekroun, Emilien Biré, Antoine Bo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-02865/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-02865/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-02865/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-02865/citation.csl.json
 
 ## Recorded arXiv snapshot
 

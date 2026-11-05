@@ -2,7 +2,7 @@
 
 Bibliographic record for GROOT: Learning to Follow Instructions by Watching Gameplay Videos. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-08235/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-08235/
 - Original source: https://arxiv.org/abs/2310.08235
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for GROOT: Learning to Follow Instructions by Watching Game
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-08235/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-08235/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shaofei Cai, Bowei Zhang, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-08235/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-08235/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-08235/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-08235/citation.csl.json
 
 ## Recorded arXiv snapshot
 

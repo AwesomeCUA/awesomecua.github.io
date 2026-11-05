@@ -2,7 +2,7 @@
 
 PriMobiBench evaluates direct privacy leakage and user profiling from mobile GUI screenshot trajectories, supported by the MobiLeak trace dataset. It also tests masking sensitive, task-irrelevant interface elements before cloud processing and measures the resulting privacy and utility trade-off.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-13873/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-13873/
 - Original source: https://arxiv.org/abs/2609.13873
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PriMobiBench evaluates direct privacy leakage and user profiling from mobile GUI
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-13873/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-13873/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qihang Cen, Tianshuo Cong, Da Song, Xinlei He, Jiaxing Song, Ke Xu, Qi Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-13873/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-13873/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-13873/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-13873/citation.csl.json
 
 ## Recorded arXiv snapshot
 

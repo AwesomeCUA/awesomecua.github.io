@@ -2,7 +2,7 @@
 
 Extends AndroidWorld with controlled state, transition, and action perturbations to test mobile-agent robustness, and studies a training-free introspective recovery mechanism.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-07775/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-07775/
 - Original source: https://arxiv.org/abs/2608.07775
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Extends AndroidWorld with controlled state, transition, and action perturbations
 
 The reviewed protocol normally activates one perturbation type at a time while preserving task semantics and reward. Results do not establish robustness to arbitrary combined deployment disturbances; experiments were not independently reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Perturbation formulation; 3.2 Injection; 3.3 Evaluation protocol; 4.3 Error analysis); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-07775/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-07775/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaoou Liu, Longchao Da, Hanyang Chen, Yuan Ling, Hua Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-07775/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-07775/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-07775/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-07775/citation.csl.json
 
 ## Recorded arXiv snapshot
 

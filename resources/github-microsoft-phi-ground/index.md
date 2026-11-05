@@ -2,7 +2,7 @@
 
 Microsoft GUI grounding models from an empirical study of grounding training, from data collection to model training, released as Phi-Ground-4B-7C with evaluation code.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-phi-ground/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-phi-ground/
 - Original source: https://github.com/microsoft/Phi-Ground
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Microsoft GUI grounding models from an empirical study of grounding training, fr
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-phi-ground/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-phi-ground/record.json
 
 ## License declarations
 

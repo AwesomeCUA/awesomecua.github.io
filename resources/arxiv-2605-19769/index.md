@@ -2,7 +2,7 @@
 
 Introduces OpenComputer, which builds desktop tasks around application-state verifiers and refines those verifiers using execution feedback. An evaluation harness records trajectories and assigns auditable partial credit across professional software workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-19769/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-19769/
 - Original source: https://arxiv.org/abs/2605.19769
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces OpenComputer, which builds desktop tasks around application-state ver
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-19769/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-19769/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jinbiao Wei, Qianran Ma, Yilun Zhao, Xiao Zhou, Kangqi Ni, Guo Gan, Arman Cohan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-19769/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-19769/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-19769/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-19769/citation.csl.json
 
 ## Recorded arXiv snapshot
 

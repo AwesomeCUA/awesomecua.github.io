@@ -2,7 +2,7 @@
 
 Bibliographic record for Brain-Inspired Reservoir Computing Using Memristors with Tunable Dynamics and Short-Term Plasticity. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-16331/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-16331/
 - Original source: https://arxiv.org/abs/2310.16331
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Brain-Inspired Reservoir Computing Using Memristors wit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-16331/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-16331/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nicholas X. Armendarez, Ahmed S. Mohamed, Anurag Dhungel, Md Razuan Hossain, Md 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-16331/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-16331/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-16331/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-16331/citation.csl.json
 
 ## Recorded arXiv snapshot
 

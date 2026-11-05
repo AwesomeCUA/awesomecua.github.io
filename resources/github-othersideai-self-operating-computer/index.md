@@ -2,7 +2,7 @@
 
 Framework, released in November 2023, in which a multimodal model views the screen and picks mouse and keyboard actions toward a goal, with backends such as GPT-4o, Claude 3, Gemini and LLaVA.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-othersideai-self-operating-computer/
+- Catalog URL: https://awesomecua.com/resources/github-othersideai-self-operating-computer/
 - Original source: https://github.com/OthersideAI/self-operating-computer
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Framework, released in November 2023, in which a multimodal model views the scre
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-othersideai-self-operating-computer/record.json
+- Record JSON: https://awesomecua.com/resources/github-othersideai-self-operating-computer/record.json
 
 ## License declarations
 

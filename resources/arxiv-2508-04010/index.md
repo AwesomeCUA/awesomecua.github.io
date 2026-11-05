@@ -2,7 +2,7 @@
 
 Bibliographic record for HarmonyGuard: Toward Safety and Utility in Web Agents via Adaptive Policy Enhancement and Dual-Objective Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-04010/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-04010/
 - Original source: https://arxiv.org/abs/2508.04010
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for HarmonyGuard: Toward Safety and Utility in Web Agents v
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04010/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-04010/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yurun Chen, Xavier Hu, Yuhan Liu, Keting Yin, Juncheng Li, Zhuosheng Zhang, Shen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04010/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04010/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-04010/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-04010/citation.csl.json
 
 ## Recorded arXiv snapshot
 

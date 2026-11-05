@@ -2,7 +2,7 @@
 
 Introduces Auto-Explorer, an automated GUI exploration method that records software states for training-data collection. UIXplore evaluates exploration coverage, and collected data is used to fine-tune and test GUI element grounding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-06417/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-06417/
 - Original source: https://arxiv.org/abs/2511.06417
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Auto-Explorer, an automated GUI exploration method that records softw
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-06417/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-06417/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiangwu Guo, Difei Gao, Mike Zheng Shou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-06417/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-06417/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-06417/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-06417/citation.csl.json
 
 ## Recorded arXiv snapshot
 

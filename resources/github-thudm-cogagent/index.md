@@ -2,7 +2,7 @@
 
 Visual language model for GUI understanding and interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-thudm-cogagent/
+- Catalog URL: https://awesomecua.com/resources/github-thudm-cogagent/
 - Original source: https://github.com/THUDM/CogAgent
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Visual language model for GUI understanding and interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-thudm-cogagent/record.json
+- Record JSON: https://awesomecua.com/resources/github-thudm-cogagent/record.json
 
 ## License declarations
 

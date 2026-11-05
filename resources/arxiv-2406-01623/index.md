@@ -2,7 +2,7 @@
 
 WebSuite organizes browser operations into an action taxonomy and tests both isolated controls and complete workflows. Its diagnostic tasks attribute failures to specific actions, enabling comparison of text-based and multimodal web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-01623/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-01623/
 - Original source: https://arxiv.org/abs/2406.01623
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebSuite organizes browser operations into an action taxonomy and tests both iso
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-01623/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-01623/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Eric Li, Jim Waldo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-01623/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-01623/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-01623/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-01623/citation.csl.json
 
 ## Recorded arXiv snapshot
 

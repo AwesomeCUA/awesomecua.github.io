@@ -2,7 +2,7 @@
 
 DSAgentBench evaluates end-to-end data-science workflows spanning analysis, modeling and visualization inside a real desktop environment. Task evaluators check produced analytical and visual artifacts, while the released interface supports screenshot or accessibility observations and GUI actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-10366/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-10366/
 - Original source: https://arxiv.org/abs/2608.10366
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DSAgentBench evaluates end-to-end data-science workflows spanning analysis, mode
 
 The paper abstract and official project README were reviewed. The README documents an Ubuntu desktop and GUI action interface and includes LLM-assisted evaluators; this annotation does not assert that every evaluator is deterministic. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-10366/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-10366/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mizanur Rahman, Mohammed Saidul Islam, Ridwan Mahbub, Md Tahmid Rahman Laskar, S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-10366/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-10366/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-10366/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-10366/citation.csl.json
 
 ## Recorded arXiv snapshot
 

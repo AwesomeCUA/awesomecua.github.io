@@ -2,7 +2,7 @@
 
 CovAgent augments Android GUI fuzzers by analyzing decompiled app code and component transitions to identify unsatisfied activation conditions. A second agent generates instrumentation that enables otherwise difficult-to-reach activities, with coverage-based evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-21253/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-21253/
 - Original source: https://arxiv.org/abs/2601.21253
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CovAgent augments Android GUI fuzzers by analyzing decompiled app code and compo
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21253/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-21253/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wei Minn, Biniam Fisseha Demissie, Yan Naing Tun, Jiakun Liu, Mariano Ceccato, L
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21253/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21253/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-21253/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-21253/citation.csl.json
 
 ## Recorded arXiv snapshot
 

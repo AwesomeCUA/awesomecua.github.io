@@ -2,7 +2,7 @@
 
 Bibliographic record for Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-14929/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-14929/
 - Original source: https://arxiv.org/abs/2608.14929
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Training Leaves Traces: Centered Residual Signatures fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-14929/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-14929/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Aman Singh Thakur, Rayan Khoury
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-14929/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-14929/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-14929/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-14929/citation.csl.json
 
 ## Recorded arXiv snapshot
 

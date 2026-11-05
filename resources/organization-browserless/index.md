@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with Browserless computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-browserless/
+- Catalog URL: https://awesomecua.com/resources/organization-browserless/
 - Original source: https://www.browserless.io/
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with Browserless computer-use or browser a
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-browserless/record.json
+- Record JSON: https://awesomecua.com/resources/organization-browserless/record.json
 
 ## License declarations
 

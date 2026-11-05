@@ -2,7 +2,7 @@
 
 Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-19843/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-19843/
 - Original source: https://arxiv.org/abs/2609.19843
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies how automatic defaults and reflective social-influence cues affect GUI-a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-19843/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-19843/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haya Halimeh, Sascha Kaltenpoth, Kevin Bösch, Oliver Müller
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-19843/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-19843/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-19843/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-19843/citation.csl.json
 
 ## Recorded arXiv snapshot
 

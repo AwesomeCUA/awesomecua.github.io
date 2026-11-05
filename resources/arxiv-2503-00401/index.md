@@ -2,7 +2,7 @@
 
 Uses inference of possible user queries from screenshots and target coordinates as a training bridge between GUI grounding and action reasoning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-00401/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-00401/
 - Original source: https://arxiv.org/abs/2503.00401
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses inference of possible user queries from screenshots and target coordinates 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-00401/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-00401/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zongru Wu, Pengzhou Cheng, Zheng Wu, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-00401/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-00401/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-00401/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-00401/citation.csl.json
 
 ## Recorded arXiv snapshot
 

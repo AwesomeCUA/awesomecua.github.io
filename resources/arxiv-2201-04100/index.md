@@ -2,7 +2,7 @@
 
 Introduces CLAY, a pipeline that repairs noisy mobile UI layouts by removing nodes without valid visual counterparts and assigning semantic element types, supported by human-annotated layouts for evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2201-04100/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2201-04100/
 - Original source: https://arxiv.org/abs/2201.04100
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CLAY, a pipeline that repairs noisy mobile UI layouts by removing nod
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2201-04100/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2201-04100/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gang Li, Gilles Baechler, Manuel Tragut, Yang Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2201-04100/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2201-04100/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2201-04100/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2201-04100/citation.csl.json
 
 ## Recorded arXiv snapshot
 

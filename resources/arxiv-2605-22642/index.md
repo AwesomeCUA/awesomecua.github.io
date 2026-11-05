@@ -2,7 +2,7 @@
 
 Bibliographic record for Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-22642/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-22642/
 - Original source: https://arxiv.org/abs/2605.22642
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Spreadsheet-RL: Advancing Large Language Model Agents o
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-22642/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-22642/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Banghao Chi, Yining Xie, Mingyuan Wu, Jingcheng Yang, Jize Jiang, Zhaoheng Li, S
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-22642/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-22642/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-22642/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-22642/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point state checkpoints, rollback-aware speculative decoding and idle power release between request bursts.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26660/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-26660/
 - Original source: https://arxiv.org/abs/2610.26660
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point sta
 
 Reviewed the complete abstract and selected v1 system/evaluation sections. Main latency measurements replay recorded requests and exclude app execution; the paper also reports instrumented real tasks. These are serving-time, energy and action-fidelity results, not a claimed task-success improvement. Hardware, cooling and model configurations matter. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26660/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-26660/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhuomin Chen, Jingchao Ni, Xu Zheng, Yong Chen, Mo Sha, Wei Cheng, Dongsheng Luo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26660/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26660/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-26660/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-26660/citation.csl.json
 
 ## Recorded arXiv snapshot
 

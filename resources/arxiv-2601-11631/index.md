@@ -2,7 +2,7 @@
 
 CCPO couples GUI policy optimization with coordinate-guided compression of past visual observations. It aggregates targets across rollouts to focus retained context and uses distance-based advantages to train grounding and compression together.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-11631/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-11631/
 - Original source: https://arxiv.org/abs/2601.11631
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CCPO couples GUI policy optimization with coordinate-guided compression of past 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-11631/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-11631/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yurun Song, Jiong Yin, Rongjunchen Zhang, Ian G. Harris
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-11631/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-11631/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-11631/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-11631/citation.csl.json
 
 ## Recorded arXiv snapshot
 

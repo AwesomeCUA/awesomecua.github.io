@@ -2,7 +2,7 @@
 
 Studies how simplifying and aligning a web agent's observations and actions with language-model capabilities affects task completion.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-13825/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-13825/
 - Original source: https://arxiv.org/abs/2410.13825
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies how simplifying and aligning a web agent's observations and actions with
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-13825/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-13825/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ke Yang, Yao Liu, Sapana Chaudhary, Rasool Fakoor, Pratik Chaudhari, George Kary
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-13825/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-13825/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-13825/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-13825/citation.csl.json
 
 ## Recorded arXiv snapshot
 

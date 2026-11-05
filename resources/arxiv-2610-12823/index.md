@@ -2,7 +2,7 @@
 
 Introduces MisVisAgentBench, a paired executable benchmark that changes chart evidence while holding web tasks fixed, to trace how misleading visualizations affect agent decisions and downstream actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-12823/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-12823/
 - Original source: https://arxiv.org/abs/2610.12823
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MisVisAgentBench, a paired executable benchmark that changes chart ev
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-12823/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-12823/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yisheng Li, Dongming Han, Hongkun Pan, Bingcheng Mao, Zijian Wang, Yunlong Mao, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-12823/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-12823/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-12823/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-12823/citation.csl.json
 
 ## Recorded arXiv snapshot
 

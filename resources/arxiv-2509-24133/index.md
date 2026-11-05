@@ -2,7 +2,7 @@
 
 GMS pairs a general vision-language scanner that proposes interface regions with a specialist locator that predicts coordinates within them. Hierarchical coarse-to-fine search coordinates the two components for GUI grounding on ScreenSpot-Pro.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-24133/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-24133/
 - Original source: https://arxiv.org/abs/2509.24133
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GMS pairs a general vision-language scanner that proposes interface regions with
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-24133/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-24133/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhecheng Li, Guoxian Song, Yiwei Wang, Zhen Xiong, Junsong Yuan, Yujun Cai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-24133/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-24133/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-24133/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-24133/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces CURA, a telemetry-based runtime monitor that turns computer-use trajectories into sequential failure alarms and can trigger mid-task oversight. Its certificate controls false alarms, while the study separately reports detection performance and limits of retrospective monitoring.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-27808/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-27808/
 - Original source: https://arxiv.org/abs/2608.27808
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CURA, a telemetry-based runtime monitor that turns computer-use traje
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-27808/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-27808/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Ome
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-27808/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-27808/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-27808/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-27808/citation.csl.json
 
 ## Recorded arXiv snapshot
 

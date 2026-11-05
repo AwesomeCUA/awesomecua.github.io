@@ -2,7 +2,7 @@
 
 Bibliographic record for Octopus: Embodied Vision-Language Programmer from Environmental Feedback. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-08588/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-08588/
 - Original source: https://arxiv.org/abs/2310.08588
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Octopus: Embodied Vision-Language Programmer from Envir
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-08588/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-08588/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingkang Yang, Yuhao Dong, Shuai Liu, Bo Li, Ziyue Wang, Chencheng Jiang, Haoran
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-08588/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-08588/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-08588/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-08588/citation.csl.json
 
 ## Recorded arXiv snapshot
 

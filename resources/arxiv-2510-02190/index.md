@@ -2,7 +2,7 @@
 
 Bibliographic record for Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-02190/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-02190/
 - Original source: https://arxiv.org/abs/2510.02190
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Dr. Bench: A Multidimensional Evaluation for Deep Resea
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-02190/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-02190/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yang Yao, Yixu Wang, Yuxuan Zhang, Yi Lu, Tianle Gu, Lingyu Li, Dingyi Zhao, Kem
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-02190/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-02190/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-02190/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-02190/citation.csl.json
 
 ## Recorded arXiv snapshot
 

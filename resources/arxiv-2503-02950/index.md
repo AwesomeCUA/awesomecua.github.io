@@ -2,7 +2,7 @@
 
 Introduces a modular visual web-agent stack with planning and memory components, exposed through a remote-browser application and Chrome extension.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-02950/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-02950/
 - Original source: https://arxiv.org/abs/2503.02950
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a modular visual web-agent stack with planning and memory components,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-02950/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-02950/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-02950/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-02950/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-02950/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-02950/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold C
 - Authors: Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold Chen, Junyu Cao
 - Publication date (recorded precision): 2025-04
 - Publication source: https://aclanthology.org/2025.naacl-demo.36/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2503-02950/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-02950/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2503-02950/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2503-02950/publication-citation.csl.json
 - venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)
 - publisher: Association for Computational Linguistics
 - pages: 449-455

@@ -2,7 +2,7 @@
 
 Bibliographic record for Ask-before-Plan: Proactive Language Agents for Real-World Planning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-12639/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-12639/
 - Original source: https://arxiv.org/abs/2406.12639
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Ask-before-Plan: Proactive Language Agents for Real-Wor
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-12639/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-12639/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xuan Zhang, Yang Deng, Zifeng Ren, See-Kiong Ng, Tat-Seng Chua
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-12639/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-12639/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-12639/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-12639/citation.csl.json
 
 ## Recorded arXiv snapshot
 

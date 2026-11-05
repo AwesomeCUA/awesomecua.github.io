@@ -2,7 +2,7 @@
 
 Provides annotated desktop demonstrations for evaluating element grounding, layout grounding, and action prediction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-15661/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-15661/
 - Original source: https://arxiv.org/abs/2503.15661
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Provides annotated desktop demonstrations for evaluating element grounding, layo
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-15661/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-15661/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Juan A. Rodriguez, Montek Kalsi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-15661/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-15661/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-15661/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-15661/citation.csl.json
 
 ## Recorded arXiv snapshot
 

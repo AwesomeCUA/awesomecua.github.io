@@ -2,7 +2,7 @@
 
 NOVA separates trusted task planning from screen-derived observations by producing a branching plan before execution and resolving runtime values through perception. Its OSWorld study examines security and utility while identifying remaining risks from perception-driven branch steering.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-09923/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-09923/
 - Original source: https://arxiv.org/abs/2601.09923
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ NOVA separates trusted task planning from screen-derived observations by produci
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-09923/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-09923/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hanna Foerster, Tom Blanchard, Kristina Nikolić, Ilia Shumailov, Cheng Zhang, R
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-09923/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-09923/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-09923/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-09923/citation.csl.json
 
 ## Recorded arXiv snapshot
 

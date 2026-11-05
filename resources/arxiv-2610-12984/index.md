@@ -2,7 +2,7 @@
 
 Aligns human screen recordings, input events, and accessibility information to derive reusable workflow skills from desktop demonstrations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-12984/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-12984/
 - Original source: https://arxiv.org/abs/2610.12984
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Aligns human screen recordings, input events, and accessibility information to d
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-12984/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-12984/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuqi Huang, Hui Li, Yifei Cao, Zikun Cai, Tianci Xie, Yangfan Gao, Pinxue Guo, C
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-12984/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-12984/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-12984/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-12984/citation.csl.json
 
 ## Recorded arXiv snapshot
 

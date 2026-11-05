@@ -2,7 +2,7 @@
 
 Combines rapid target prediction with deliberate interface analysis, adaptively selecting the grounding process according to task complexity.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-06470/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-06470/
 - Original source: https://arxiv.org/abs/2503.06470
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines rapid target prediction with deliberate interface analysis, adaptively 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-06470/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-06470/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fei Tang, Yongliang Shen, Hang Zhang, Siqi Chen, Guiyang Hou, Wenqi Zhang, Wenqi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-06470/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-06470/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-06470/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-06470/citation.csl.json
 
 ## Recorded arXiv snapshot
 

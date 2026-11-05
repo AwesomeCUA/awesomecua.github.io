@@ -2,7 +2,7 @@
 
 Introduces adversarial tasks on VisualWebArena and an evaluation framework that tracks how manipulated information passes between agent components. The analysis examines vulnerabilities introduced by reflection and tree-search evaluators as well as direct action generation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-12814/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-12814/
 - Original source: https://arxiv.org/abs/2406.12814
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces adversarial tasks on VisualWebArena and an evaluation framework that 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-12814/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-12814/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chen Henry Wu, Rishi Shah, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Adit
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-12814/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-12814/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-12814/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-12814/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Chen Henry Wu, Rishi Shah, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Adit
 - Authors: Chen Wu, Rishi Shah, Jing Yu Koh, Russ Salakhutdinov, Daniel Fried, Aditi Raghunathan
 - Publication date (recorded precision): 2025-05-01
 - Publication source: https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2406-12814/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-12814/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2406-12814/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2406-12814/publication-citation.csl.json
 - venue: International Conference on Learning Representations
 - volume: 2025
 - pages: 28362-28383

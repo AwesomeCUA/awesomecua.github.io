@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentSearchBench: A Benchmark for AI Agent Search in the Wild. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-22436/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-22436/
 - Original source: https://arxiv.org/abs/2604.22436
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentSearchBench: A Benchmark for AI Agent Search in th
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-22436/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-22436/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bin Wu, Arastun Mammadli, Xiaoyu Zhang, Emine Yilmaz
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-22436/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-22436/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-22436/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-22436/citation.csl.json
 
 ## Recorded arXiv snapshot
 

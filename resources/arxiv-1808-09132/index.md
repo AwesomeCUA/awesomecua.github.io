@@ -2,7 +2,7 @@
 
 Defines language grounding on webpages as choosing the UI element targeted by a natural-language command. A collection of more than 50,000 commands and three baseline models study functional references, relationships between elements, and visual position cues.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1808-09132/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1808-09132/
 - Original source: https://arxiv.org/abs/1808.09132
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Defines language grounding on webpages as choosing the UI element targeted by a 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1808-09132/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1808-09132/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Panupong Pasupat, Tian-Shun Jiang, Evan Zheran Liu, Kelvin Guu, Percy Liang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1808-09132/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1808-09132/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1808-09132/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1808-09132/citation.csl.json
 
 ## Recorded arXiv snapshot
 

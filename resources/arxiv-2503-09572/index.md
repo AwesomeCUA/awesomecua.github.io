@@ -2,7 +2,7 @@
 
 Separates planning from execution and creates synthetic plan annotations for training agents on extended web-navigation tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-09572/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-09572/
 - Original source: https://arxiv.org/abs/2503.09572
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Separates planning from execution and creates synthetic plan annotations for tra
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-09572/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-09572/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-09572/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-09572/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-09572/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-09572/citation.csl.json
 
 ## Recorded arXiv snapshot
 

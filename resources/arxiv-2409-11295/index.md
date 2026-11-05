@@ -2,7 +2,7 @@
 
 Evaluates privacy-directed webpage instruction injection against generalist web agents using PII-related interaction steps from Mind2Web, including attempts to expose specific user information or entire requests.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-11295/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-11295/
 - Original source: https://arxiv.org/abs/2409.11295
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates privacy-directed webpage instruction injection against generalist web 
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-11295/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-11295/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zeyi Liao, Lingbo Mo, Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-11295/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-11295/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-11295/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-11295/citation.csl.json
 
 ## Recorded arXiv snapshot
 

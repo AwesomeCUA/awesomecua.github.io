@@ -2,7 +2,7 @@
 
 WebUncertainty adapts planning mode to task uncertainty and guides action-level tree search with confidence-derived uncertainty estimates. Its evaluations examine autonomous execution of dynamic, long-horizon web tasks on WebArena and WebVoyager.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-17821/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-17821/
 - Original source: https://arxiv.org/abs/2604.17821
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebUncertainty adapts planning mode to task uncertainty and guides action-level 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-17821/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-17821/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lingfeng Zhang, Yongan Sun, Jinpeng Hu, Hui Ma, Yang Ying, Kuien Liu, Zenglin Sh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-17821/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-17821/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-17821/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-17821/citation.csl.json
 
 ## Recorded arXiv snapshot
 

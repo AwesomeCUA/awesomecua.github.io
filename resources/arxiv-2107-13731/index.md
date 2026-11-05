@@ -2,7 +2,7 @@
 
 Learns shared image, text, and structural UI representations through self-supervised tasks based on relationships among interface components.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2107-13731/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2107-13731/
 - Original source: https://arxiv.org/abs/2107.13731
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Learns shared image, text, and structural UI representations through self-superv
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2107-13731/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2107-13731/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chongyang Bai, Xiaoxue Zang, Ying Xu, Srinivas Sunkara, Abhinav Rastogi, Jindong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2107-13731/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2107-13731/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2107-13731/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2107-13731/citation.csl.json
 
 ## Recorded arXiv snapshot
 

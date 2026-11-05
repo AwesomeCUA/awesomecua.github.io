@@ -2,7 +2,7 @@
 
 Benchmarks multimodal agents on data-science and engineering workflows involving enterprise applications, code, and GUI operations in real computer environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-10956/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-10956/
 - Original source: https://arxiv.org/abs/2407.10956
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Benchmarks multimodal agents on data-science and engineering workflows involving
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-10956/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-10956/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-10956/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-10956/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-10956/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-10956/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xin
 - Authors: Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xinzhuang Xiong, Hanchong Zhang, Yuchen Mao, Wenjing Hu, Tianbao Xie, Hongshen Xu, Danyang Zhang, Sida Wang, Ruoxi Sun, Pengcheng Yin, Caiming Xiong, Ansong Ni, Qian Liu, Victor Zhong, Lu Chen, Kai Yu, Tao Yu
 - Publication date (recorded precision): 2024-12-16
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2407-10956/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-10956/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2407-10956/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2407-10956/publication-citation.csl.json
 - venue: Advances in Neural Information Processing Systems
 - volume: 37
 - pages: 107703-107744

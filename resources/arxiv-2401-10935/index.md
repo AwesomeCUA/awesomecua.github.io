@@ -2,7 +2,7 @@
 
 Trains a screenshot-driven GUI agent with grounding pretraining and introduces ScreenSpot for evaluating interface target localization.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-10935/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-10935/
 - Original source: https://arxiv.org/abs/2401.10935
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains a screenshot-driven GUI agent with grounding pretraining and introduces S
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-10935/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-10935/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-10935/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-10935/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-10935/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-10935/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zh
 - Authors: Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
 - Publication date (recorded precision): 2024-08
 - Publication source: https://aclanthology.org/2024.acl-long.505/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2401-10935/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-10935/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2401-10935/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2401-10935/publication-citation.csl.json
 - venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 9313-9332

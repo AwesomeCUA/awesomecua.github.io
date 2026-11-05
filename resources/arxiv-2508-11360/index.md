@@ -2,7 +2,7 @@
 
 CRAFT-GUI organizes GUI trajectories by difficulty for curriculum-based GRPO training. Its reward combines rule-based signals with model judgments, with evaluation on Android Control and an internal online benchmark.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-11360/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-11360/
 - Original source: https://arxiv.org/abs/2508.11360
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CRAFT-GUI organizes GUI trajectories by difficulty for curriculum-based GRPO tra
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-11360/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-11360/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Songqin Nong, Xiaoxuan Tang, Jingxuan Xu, Sheng Zhou, Jianfeng Chen, Tao Jiang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-11360/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-11360/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-11360/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-11360/citation.csl.json
 
 ## Recorded arXiv snapshot
 

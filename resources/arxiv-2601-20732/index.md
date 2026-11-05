@@ -2,7 +2,7 @@
 
 Continual GUI Agents defines grounding under changing application domains and screen resolutions. Its GUI-AiF training framework uses separate point- and region-alignment rewards to adapt grounding as these distributions shift.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-20732/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-20732/
 - Original source: https://arxiv.org/abs/2601.20732
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Continual GUI Agents defines grounding under changing application domains and sc
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-20732/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-20732/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, Yifan Zhu, Tao Feng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-20732/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-20732/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-20732/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-20732/citation.csl.json
 
 ## Recorded arXiv snapshot
 

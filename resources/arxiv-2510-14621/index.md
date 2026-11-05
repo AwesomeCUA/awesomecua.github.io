@@ -2,7 +2,7 @@
 
 ColorBench represents mobile tasks as graphs of states collected from real devices, providing a quasi-dynamic environment with multiple valid paths and error paths. It evaluates single-app and cross-app tasks using completion, subtask progress, and atomic diagnostics.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-14621/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-14621/
 - Original source: https://arxiv.org/abs/2510.14621
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ColorBench represents mobile tasks as graphs of states collected from real devic
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-14621/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-14621/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuanyi Song, Heyuan Huang, Qiqiang Lin, Yin Zhao, Xiangmou Qu, Jun Wang, Xingyu 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-14621/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-14621/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-14621/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-14621/citation.csl.json
 
 ## Recorded arXiv snapshot
 

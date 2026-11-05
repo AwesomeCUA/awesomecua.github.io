@@ -2,7 +2,7 @@
 
 Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales rather than agent actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-31364/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-31364/
 - Original source: https://arxiv.org/abs/2609.31364
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines dense saliency prediction with explanations of attended elements, inclu
 
 Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment do not establish causal explanations of gaze or temporal scanpaths. Several baseline scores come from prior papers. Code/data/weight releases and licenses were not verified; no independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-31364/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-31364/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kiana Hooshanfar, Amirhossein Kazerouni, Alireza Hosseini, Michael Brudno, Babak
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-31364/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-31364/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-31364/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-31364/citation.csl.json
 
 ## Recorded arXiv snapshot
 

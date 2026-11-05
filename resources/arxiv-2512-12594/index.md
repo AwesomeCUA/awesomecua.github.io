@@ -2,7 +2,7 @@
 
 ceLLMate constrains browser-agent authority through an extension that applies policies at the HTTP layer. It evaluates this sandbox against prompt-injection attacks in WASP, avoiding dependence on brittle low-level click and keystroke policies.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-12594/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-12594/
 - Original source: https://arxiv.org/abs/2512.12594
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ceLLMate constrains browser-agent authority through an extension that applies po
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-12594/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-12594/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Luoxi Meng, Henry Feng, Ilia Shumailov, Earlence Fernandes
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-12594/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-12594/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-12594/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-12594/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces recursive criticism and improvement prompting for language-model agents performing computer tasks, evaluated on MiniWoB++ with a small number of demonstrations per task.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2303-17491/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2303-17491/
 - Original source: https://arxiv.org/abs/2303.17491
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces recursive criticism and improvement prompting for language-model agen
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-17491/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2303-17491/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Geunwoo Kim, Pierre Baldi, Stephen McAleer
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-17491/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-17491/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2303-17491/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2303-17491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

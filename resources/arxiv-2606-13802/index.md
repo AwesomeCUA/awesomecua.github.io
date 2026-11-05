@@ -2,7 +2,7 @@
 
 Bibliographic record for A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-13802/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-13802/
 - Original source: https://arxiv.org/abs/2606.13802
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for A Benchmark and Framework for Evaluating Next Action Pr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-13802/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-13802/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tejas Agrawal, Vu Le, Sumit Gulwani, Gust Verbruggen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-13802/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-13802/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-13802/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-13802/citation.csl.json
 
 ## Recorded arXiv snapshot
 

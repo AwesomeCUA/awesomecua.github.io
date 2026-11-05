@@ -2,7 +2,7 @@
 
 Introduces environments that couple 3D physical-world simulations with functional web interfaces. The accompanying benchmark evaluates tasks requiring agents to coordinate online information and physical actions across cooking, navigation and shopping scenarios.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-15677/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-15677/
 - Original source: https://arxiv.org/abs/2506.15677
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces environments that couple 3D physical-world simulations with functiona
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The physical component is a simulation; the supported catalog connection is its functional web interaction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-15677/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-15677/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yining Hong, Rui Sun, Bingxuan Li, Xingcheng Yao, Maxine Wu, Alexander Chien, Da
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-15677/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-15677/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-15677/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-15677/citation.csl.json
 
 ## Recorded arXiv snapshot
 

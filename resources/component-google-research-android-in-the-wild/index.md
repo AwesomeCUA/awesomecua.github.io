@@ -2,7 +2,7 @@
 
 Human demonstrations of Android tasks with screenshots and touch actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/component-google-research-android-in-the-wild/
+- Catalog URL: https://awesomecua.com/resources/component-google-research-android-in-the-wild/
 - Original source: https://github.com/google-research/google-research/tree/master/android_in_the_wild
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Human demonstrations of Android tasks with screenshots and touch actions.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/component-google-research-android-in-the-wild/record.json
+- Record JSON: https://awesomecua.com/resources/component-google-research-android-in-the-wild/record.json
 
 ## Structured profile
 

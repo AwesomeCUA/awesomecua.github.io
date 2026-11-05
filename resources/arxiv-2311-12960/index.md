@@ -2,7 +2,7 @@
 
 Bibliographic record for Teaching Quantum Computing using Microsoft Quantum Development Kit and Azure Quantum. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2311-12960/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2311-12960/
 - Original source: https://arxiv.org/abs/2311.12960
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Teaching Quantum Computing using Microsoft Quantum Deve
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-12960/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2311-12960/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mariia Mykhailova
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-12960/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-12960/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2311-12960/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2311-12960/citation.csl.json
 
 ## Recorded arXiv snapshot
 

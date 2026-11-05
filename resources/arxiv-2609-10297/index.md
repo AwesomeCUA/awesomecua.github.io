@@ -2,7 +2,7 @@
 
 TRACE orders screenshot evidence for monotonic visual-token reduction using layout priors, instruction relevance and feature novelty. Spatial token reserves and incremental KV contraction aim to preserve useful evidence for future GUI targets without repeatedly encoding retired frames.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-10297/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-10297/
 - Original source: https://arxiv.org/abs/2609.10297
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ TRACE orders screenshot evidence for monotonic visual-token reduction using layo
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-10297/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-10297/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhao Wang, Mu Qiao, Xindong Zhang, Yunzhi Zhuge, Lei Zhang, Huchuan Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-10297/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-10297/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-10297/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-10297/citation.csl.json
 
 ## Recorded arXiv snapshot
 

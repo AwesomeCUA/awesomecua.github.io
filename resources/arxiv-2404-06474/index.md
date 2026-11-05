@@ -2,7 +2,7 @@
 
 Compares automatic trajectory evaluators for web navigation and device control against oracle judgments. The resulting feedback is used for agent fine-tuning and inference-time guidance, including experiments on WebArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-06474/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-06474/
 - Original source: https://arxiv.org/abs/2404.06474
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares automatic trajectory evaluators for web navigation and device control a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-06474/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-06474/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-06474/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-06474/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-06474/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-06474/citation.csl.json
 
 ## Recorded arXiv snapshot
 

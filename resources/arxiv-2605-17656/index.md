@@ -2,7 +2,7 @@
 
 MUIAnno provides expert labels for elements in manually explored mobile-app screens, with a web annotation tool that emits structured JSON. It also supplies UI-element detection baselines for the dataset.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-17656/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-17656/
 - Original source: https://arxiv.org/abs/2605.17656
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MUIAnno provides expert labels for elements in manually explored mobile-app scre
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-17656/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-17656/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Athar Parvez, Muhammad Jawad Mufti, Muqaddas Gull, Omar Hammad
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-17656/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-17656/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-17656/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-17656/citation.csl.json
 
 ## Recorded arXiv snapshot
 

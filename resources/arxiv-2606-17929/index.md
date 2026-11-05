@@ -2,7 +2,7 @@
 
 PreAct compiles successful screen-interaction runs into guarded state-machine programs for repeated tasks. It validates programs from clean states before storage and returns control to the agent when replayed screen expectations fail, with tests across mobile, desktop and web.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-17929/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-17929/
 - Original source: https://arxiv.org/abs/2606.17929
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PreAct compiles successful screen-interaction runs into guarded state-machine pr
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-17929/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-17929/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bojie Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-17929/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-17929/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-17929/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-17929/citation.csl.json
 
 ## Recorded arXiv snapshot
 

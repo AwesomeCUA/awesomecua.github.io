@@ -2,7 +2,7 @@
 
 Bibliographic record for The Declaratron, semantic specification for scientific computation using MathML. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1307-3088/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1307-3088/
 - Original source: https://arxiv.org/abs/1307.3088
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for The Declaratron, semantic specification for scientific 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1307-3088/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1307-3088/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dave Murray-Rust, Peter Murray-Rust
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1307-3088/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1307-3088/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1307-3088/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1307-3088/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Studies the gap between latent visual grounding and explicit coordinate output in general vision-language models. Three zero-shot methods add axes, grids, or labeled intersections to GUI screenshots so models can express spatial locations without fine-tuning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-11548/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-11548/
 - Original source: https://arxiv.org/abs/2509.11548
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies the gap between latent visual grounding and explicit coordinate output i
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-11548/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-11548/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weiming Li, Yan Shao, Jing Yang, Yujing Lu, Ling Zhong, Yuhan Wang, Min Yu, Tong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-11548/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-11548/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-11548/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-11548/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Studies advertising delivery as an indirect-injection channel for web agents under a black-box threat model. AdInject evaluates how static ad content shaped by website context can redirect browser actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-21499/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-21499/
 - Original source: https://arxiv.org/abs/2505.21499
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies advertising delivery as an indirect-injection channel for web agents und
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-21499/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-21499/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haowei Wang, Junjie Wang, Xiaojun Jia, Rupeng Zhang, Mingyang Li, Zhe Liu, Yang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-21499/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-21499/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-21499/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-21499/citation.csl.json
 
 ## Recorded arXiv snapshot
 

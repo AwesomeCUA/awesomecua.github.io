@@ -2,7 +2,7 @@
 
 MAS-Bench evaluates mobile agents that combine GUI actions with APIs, deep links, and reusable scripts. Its 139 tasks across 11 apps test use of 88 predefined shortcuts as well as the ability to generate new reusable workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-06477/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-06477/
 - Original source: https://arxiv.org/abs/2509.06477
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MAS-Bench evaluates mobile agents that combine GUI actions with APIs, deep links
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-06477/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-06477/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pengxiang Zhao, Guangyi Liu, YaoZhen Liang, Weiqing He, Zhengxi Lu, WenHao Wang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-06477/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-06477/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-06477/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-06477/citation.csl.json
 
 ## Recorded arXiv snapshot
 

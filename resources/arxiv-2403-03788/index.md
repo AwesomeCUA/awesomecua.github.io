@@ -2,7 +2,7 @@
 
 Benchmarks robustness of API-based PowerPoint completion under sentence-level, semantic, and multilingual instruction perturbations and changes to the available API set.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-03788/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-03788/
 - Original source: https://arxiv.org/abs/2403.03788
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Benchmarks robustness of API-based PowerPoint completion under sentence-level, s
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The benchmark directly concerns PowerPoint task automation but executes through APIs, so it remains adjacent.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-03788/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-03788/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zekai Zhang, Yiduo Guo, Yaobo Liang, Dongyan Zhao, Nan Duan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-03788/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-03788/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-03788/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-03788/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 About 86,000 human-written question-answer pairs over 35,000 Rico mobile screenshots, plus ScreenQA Short and ComplexQA variants, for benchmarking screen content understanding.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-google-research-datasets-screen-qa/
+- Catalog URL: https://awesomecua.com/resources/github-google-research-datasets-screen-qa/
 - Original source: https://github.com/google-research-datasets/screen_qa
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ About 86,000 human-written question-answer pairs over 35,000 Rico mobile screens
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-google-research-datasets-screen-qa/record.json
+- Record JSON: https://awesomecua.com/resources/github-google-research-datasets-screen-qa/record.json
 
 ## Structured profile
 

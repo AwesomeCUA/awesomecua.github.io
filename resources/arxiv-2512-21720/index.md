@@ -2,7 +2,7 @@
 
 Bibliographic record for An Information Theoretic Perspective on Agentic System Design. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-21720/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-21720/
 - Original source: https://arxiv.org/abs/2512.21720
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for An Information Theoretic Perspective on Agentic System 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-21720/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-21720/record.json
 
 ## Recorded reviewer hold
 
 The abstract studies compressor\-predictor language\-model systems and Deep Research\. A concrete connection to GUI, browser or operating\-system interaction needs further primary\-source review\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Shizhe He, Avanika Narayan, Ishan S. Khare, Scott W. Linderman, Christopher Ré,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-21720/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-21720/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-21720/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-21720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

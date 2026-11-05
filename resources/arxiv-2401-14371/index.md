@@ -2,7 +2,7 @@
 
 Bibliographic record for Efficient Optimisation of Physical Reservoir Computers using only a Delayed Input. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-14371/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-14371/
 - Original source: https://arxiv.org/abs/2401.14371
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Efficient Optimisation of Physical Reservoir Computers 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-14371/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-14371/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Enrico Picco, Lina Jaurigue, Kathy Lüdge, Serge Massar
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-14371/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-14371/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-14371/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-14371/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Pairs benign and harmful web tasks to assess deliberate misuse risks and categorize agent behavior by risk level.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-04957/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-04957/
 - Original source: https://arxiv.org/abs/2503.04957
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Pairs benign and harmful web tasks to assess deliberate misuse risks and categor
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-04957/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-04957/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ada Defne Tur, Nicholas Meade, Xing Han Lù, Alejandra Zambrano, Arkil Patel, Es
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-04957/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-04957/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-04957/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-04957/citation.csl.json
 
 ## Recorded arXiv snapshot
 

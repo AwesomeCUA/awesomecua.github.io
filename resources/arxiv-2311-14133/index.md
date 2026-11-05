@@ -2,7 +2,7 @@
 
 Bibliographic record for A robust framework for quantum computation using quasi-hidden molecular degrees of freedom. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2311-14133/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2311-14133/
 - Original source: https://arxiv.org/abs/2311.14133
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for A robust framework for quantum computation using quasi-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-14133/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2311-14133/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Martin Zeppenfeld
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-14133/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-14133/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2311-14133/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2311-14133/citation.csl.json
 
 ## Recorded arXiv snapshot
 

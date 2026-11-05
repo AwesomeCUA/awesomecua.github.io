@@ -2,7 +2,7 @@
 
 Introduces a pipeline that filters individual steps from noisy computer-agent rollouts and augments them with reasoning for training. WebSTAR and WebSCORE support GUI-policy supervision and a distilled process reward model, StepRM.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-10962/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-10962/
 - Original source: https://arxiv.org/abs/2512.10962
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a pipeline that filters individual steps from noisy computer-agent ro
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-10962/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-10962/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yifei He, Pranit Chawla, Yaser Souri, Subhojit Som, Xia Song
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-10962/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-10962/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-10962/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-10962/citation.csl.json
 
 ## Recorded arXiv snapshot
 

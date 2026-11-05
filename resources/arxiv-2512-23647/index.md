@@ -2,7 +2,7 @@
 
 NestBrowse organizes browser actions in a nested framework that separates interaction control from page exploration. It evaluates this design for deep information seeking beyond snippet retrieval and direct URL fetching.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-23647/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-23647/
 - Original source: https://arxiv.org/abs/2512.23647
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ NestBrowse organizes browser actions in a nested framework that separates intera
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-23647/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-23647/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Baixuan Li, Jialong Wu, Wenbiao Yin, Kuan Li, Zhongwang Zhang, Huifeng Yin, Zhen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-23647/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-23647/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-23647/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-23647/citation.csl.json
 
 ## Recorded arXiv snapshot
 

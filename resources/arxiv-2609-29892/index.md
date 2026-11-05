@@ -2,7 +2,7 @@
 
 Trains a mobile planner with supervised trajectories and competence-adaptive RL, then couples typed tool execution with memory, skills and offline model-harness refinement.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-29892/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-29892/
 - Original source: https://arxiv.org/abs/2609.29892
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains a mobile planner with supervised trajectories and competence-adaptive RL,
 
 Primarily typed tool actions and structured feedback, not pixel-coordinate GUI control; backends combine programmatic sandboxes, LLM simulation and selected real-device sessions. No specific OS is established. Model/harness updates are reviewed offline, not autonomous serving-time changes. Co-evolution scores use an evolve/development set; output-cost estimates exclude input, tools, devices and harness processing. Memory comparisons differ in history access and processing cost; user authorization relies on trusted upstream services. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-29892/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-29892/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tingyu Qu, Weigao Sun, Yuecheng Liu, Yucheng Zhao, Yi Zhu, Yifeng Ding, Qiyi Wan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-29892/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-29892/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-29892/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-29892/citation.csl.json
 
 ## Recorded arXiv snapshot
 

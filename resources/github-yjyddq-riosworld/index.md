@@ -2,7 +2,7 @@
 
 Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual machine, with risk scenarios such as phishing emails and released evaluation trajectories.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-yjyddq-riosworld/
+- Catalog URL: https://awesomecua.com/resources/github-yjyddq-riosworld/
 - Original source: https://github.com/yjyddq/RiOSWorld
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual m
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-yjyddq-riosworld/record.json
+- Record JSON: https://awesomecua.com/resources/github-yjyddq-riosworld/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 EconSkills converts verified economic-data browsing traces into parameterized procedures with navigation, verification and recovery guidance. Its evaluation separates known-skill transfer from library retrieval, exposing the limits of approximate matches to new tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-19523/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-19523/
 - Original source: https://arxiv.org/abs/2609.19523
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ EconSkills converts verified economic-data browsing traces into parameterized pr
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-19523/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-19523/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yinzhu Quan, Zefang Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-19523/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-19523/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-19523/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-19523/citation.csl.json
 
 ## Recorded arXiv snapshot
 

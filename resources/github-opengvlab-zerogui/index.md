@@ -2,7 +2,7 @@
 
 Online RL framework for GUI agents in which VLMs generate the training tasks and judge success from trajectory screenshots, with OSWorld and AndroidLab checkpoints trained from UI-TARS-7B-DPO.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-opengvlab-zerogui/
+- Catalog URL: https://awesomecua.com/resources/github-opengvlab-zerogui/
 - Original source: https://github.com/OpenGVLab/ZeroGUI
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Online RL framework for GUI agents in which VLMs generate the training tasks and
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-opengvlab-zerogui/record.json
+- Record JSON: https://awesomecua.com/resources/github-opengvlab-zerogui/record.json
 
 ## License declarations
 

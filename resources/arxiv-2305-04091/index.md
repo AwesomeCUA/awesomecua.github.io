@@ -2,7 +2,7 @@
 
 Bibliographic record for Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2305-04091/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2305-04091/
 - Original source: https://arxiv.org/abs/2305.04091
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-04091/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2305-04091/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-04091/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-04091/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2305-04091/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2305-04091/citation.csl.json
 
 ## Recorded arXiv snapshot
 

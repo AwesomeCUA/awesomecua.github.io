@@ -2,7 +2,7 @@
 
 A benchmark and evaluation toolkit for comparing automatic web-agent judges against expert judgments of task success, side effects and repetition.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-mcgill-nlp-agent-reward-bench/
+- Catalog URL: https://awesomecua.com/resources/github-mcgill-nlp-agent-reward-bench/
 - Original source: https://github.com/McGill-NLP/agent-reward-bench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ A benchmark and evaluation toolkit for comparing automatic web-agent judges agai
 
 The public repository contains judges, evaluation utilities and annotation files; the linked Hub hosts trajectory/screenshot manifests. No root code license is declared. Dataset Terms of Use are custom and retain third-party restrictions rather than declaring an SPDX license. The paper-reported 1,302 trajectories describe its reviewed study population, not a count recomputed from current Hub files.
 
-- Record JSON: https://awesomecua.github.io/resources/github-mcgill-nlp-agent-reward-bench/record.json
+- Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-agent-reward-bench/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Measures the complementarity, cost and rerun variability of six browser observation modes on WebArena and VisualWebArena. Its routing experiments distinguish an oracle cost opportunity from policies that fail to robustly outperform a fixed observation mode.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-06171/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-06171/
 - Original source: https://arxiv.org/abs/2608.06171
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Measures the complementarity, cost and rerun variability of six browser observat
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-06171/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-06171/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiaming Wei, Zekun Wu, Adriano Koshiyama, Maria Perez-Ortiz
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-06171/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-06171/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-06171/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-06171/citation.csl.json
 
 ## Recorded arXiv snapshot
 

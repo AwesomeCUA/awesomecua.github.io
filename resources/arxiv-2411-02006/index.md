@@ -2,7 +2,7 @@
 
 Surveys multimodal mobile agents, organizing prompt-based and training-based approaches alongside evaluation benchmarks, supporting technologies, and open challenges in mobile task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-02006/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-02006/
 - Original source: https://arxiv.org/abs/2411.02006
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Surveys multimodal mobile agents, organizing prompt-based and training-based app
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-02006/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-02006/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Biao Wu, Yanda Li, Zhiwei Zhang, Yunchao Wei, Meng Fang, Ling Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-02006/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-02006/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-02006/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-02006/citation.csl.json
 
 ## Recorded arXiv snapshot
 

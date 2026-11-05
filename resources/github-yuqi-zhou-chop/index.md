@@ -2,7 +2,7 @@
 
 Mobile automation framework that uses reusable basis subtasks to constrain and refine planning between user goals and executable actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-yuqi-zhou-chop/
+- Catalog URL: https://awesomecua.com/resources/github-yuqi-zhou-chop/
 - Original source: https://github.com/Yuqi-Zhou/CHOP
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Mobile automation framework that uses reusable basis subtasks to constrain and r
 
 The README says the complete CHOP-ZH dataset remains unreleased. Android and HarmonyOS compatibility is publisher-documented and has not been runtime-tested here.
 
-- Record JSON: https://awesomecua.github.io/resources/github-yuqi-zhou-chop/record.json
+- Record JSON: https://awesomecua.com/resources/github-yuqi-zhou-chop/record.json
 
 ## License declarations
 

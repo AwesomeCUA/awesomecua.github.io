@@ -2,7 +2,7 @@
 
 GUI-CIDER turns GUI trajectories into textual planning and causal interface knowledge, reselects exemplars for causal structure and low redundancy, then mid-trains GUI agents on that corpus.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-28534/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-28534/
 - Original source: https://arxiv.org/abs/2605.28534
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-CIDER turns GUI trajectories into textual planning and causal interface know
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-28534/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-28534/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zheng Wu, Chengcheng Han, Zhengxi Lu, Tianjie Ju, Yanyu Chen, Qi Gu, Xunliang Ca
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-28534/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-28534/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-28534/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-28534/citation.csl.json
 
 ## Recorded arXiv snapshot
 

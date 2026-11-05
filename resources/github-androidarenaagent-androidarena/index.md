@@ -2,7 +2,7 @@
 
 Android environment for evaluating language-model-driven agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-androidarenaagent-androidarena/
+- Catalog URL: https://awesomecua.com/resources/github-androidarenaagent-androidarena/
 - Original source: https://github.com/AndroidArenaAgent/AndroidArena
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Android environment for evaluating language-model-driven agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-androidarenaagent-androidarena/record.json
+- Record JSON: https://awesomecua.com/resources/github-androidarenaagent-androidarena/record.json
 
 ## Structured profile
 

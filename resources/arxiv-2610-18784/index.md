@@ -2,7 +2,7 @@
 
 Introduces CarryOn, which maintains evidence-linked task objects and remaining-work context across history compression, with evaluations on desktop tasks and web research.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-18784/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-18784/
 - Original source: https://arxiv.org/abs/2610.18784
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CarryOn, which maintains evidence-linked task objects and remaining-w
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-18784/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-18784/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuchen Lu, Julian McAuley, Lei Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-18784/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-18784/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-18784/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-18784/citation.csl.json
 
 ## Recorded arXiv snapshot
 

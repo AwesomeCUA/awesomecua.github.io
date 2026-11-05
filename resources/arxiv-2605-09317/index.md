@@ -2,7 +2,7 @@
 
 Introduces Mem-W, which compresses previous trajectories and current-session segments into latent memory tokens used directly by the GUI policy. Self-distillation and outcome supervision train this memory representation for web and mobile navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-09317/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-09317/
 - Original source: https://arxiv.org/abs/2605.09317
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Mem-W, which compresses previous trajectories and current-session seg
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-09317/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-09317/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guibin Zhang, Yaohui Ling, Fanci Meng, Kun Wang, Shuicheng Yan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-09317/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-09317/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-09317/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-09317/citation.csl.json
 
 ## Recorded arXiv snapshot
 

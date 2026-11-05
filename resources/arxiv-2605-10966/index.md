@@ -2,7 +2,7 @@
 
 MultiMedia-TerminalBench evaluates agents that use terminal tools to work with audio and video files. The Terminus-MM harness adds multimedia perception to study how accessible evidence changes executable workflows and task outcomes.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-10966/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-10966/
 - Original source: https://arxiv.org/abs/2605.10966
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MultiMedia-TerminalBench evaluates agents that use terminal tools to work with a
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent computer-automation benchmark using terminal workflows, explicitly separated from graphical-interface control.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-10966/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-10966/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chiyeong Heo, Jaechang Kim, Junhyuk Kwon, Hoyoung Kim, Dongmin Park, Jonghyun Le
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-10966/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-10966/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-10966/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-10966/citation.csl.json
 
 ## Recorded arXiv snapshot
 

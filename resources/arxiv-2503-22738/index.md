@@ -2,7 +2,7 @@
 
 Proposes a guardrail agent that reasons over explicit safety policies and checks action trajectories, with a web-agent safety benchmark.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-22738/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-22738/
 - Original source: https://arxiv.org/abs/2503.22738
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes a guardrail agent that reasons over explicit safety policies and checks
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-22738/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-22738/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhaorun Chen, Mintong Kang, Bo Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-22738/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-22738/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-22738/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-22738/citation.csl.json
 
 ## Recorded arXiv snapshot
 

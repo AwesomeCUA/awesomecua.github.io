@@ -2,7 +2,7 @@
 
 Bibliographic record for Introducing v0.5 of the AI Safety Benchmark from MLCommons. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-12241/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-12241/
 - Original source: https://arxiv.org/abs/2404.12241
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Introducing v0.5 of the AI Safety Benchmark from MLComm
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-12241/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-12241/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bertie Vidgen, Adarsh Agrawal, Ahmed M. Ahmed, Victor Akinwande, Namir Al-Nuaimi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-12241/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-12241/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-12241/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-12241/citation.csl.json
 
 ## Recorded arXiv snapshot
 

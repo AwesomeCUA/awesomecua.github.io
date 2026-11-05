@@ -2,7 +2,7 @@
 
 Evaluation environment combining computer interaction with tool access.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-saagent-mcpworld/
+- Catalog URL: https://awesomecua.com/resources/github-saagent-mcpworld/
 - Original source: https://github.com/SAAgent/MCPWorld
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Evaluation environment combining computer interaction with tool access.
 
 The retained paper reports 201 tasks, whereas the retained repository README describes approximately 170. These are separate source descriptions; their release/version difference has not been established.
 
-- Record JSON: https://awesomecua.github.io/resources/github-saagent-mcpworld/record.json
+- Record JSON: https://awesomecua.com/resources/github-saagent-mcpworld/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Introduces IconDesc, which generates mobile icon alt-text from partial UI context such as element identifiers, bounds, nearby text and hierarchy. Model evaluation and a user study examine the resulting accessibility descriptions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-18060/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-18060/
 - Original source: https://arxiv.org/abs/2409.18060
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces IconDesc, which generates mobile icon alt-text from partial UI contex
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. This is a UI accessibility and element-description method; autonomous GUI control is not evaluated.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-18060/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-18060/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sabrina Haque, Christoph Csallner
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-18060/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-18060/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-18060/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-18060/citation.csl.json
 
 ## Recorded arXiv snapshot
 

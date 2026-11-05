@@ -2,7 +2,7 @@
 
 Bibliographic record for YORO -- Lightweight End to End Visual Grounding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2211-07912/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2211-07912/
 - Original source: https://arxiv.org/abs/2211.07912
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for YORO -- Lightweight End to End Visual Grounding. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2211-07912/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2211-07912/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chih-Hui Ho, Srikar Appalaraju, Bhavan Jasani, R. Manmatha, Nuno Vasconcelos
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2211-07912/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2211-07912/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2211-07912/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2211-07912/citation.csl.json
 
 ## Recorded arXiv snapshot
 

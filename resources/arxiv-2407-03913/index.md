@@ -2,7 +2,7 @@
 
 Introduces MobileExperts, which assembles mobile-agent teams, lets agents explore and formulate tools, and coordinates them through two levels of planning. A benchmark organizes tasks by hierarchical intelligence levels.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-03913/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-03913/
 - Original source: https://arxiv.org/abs/2407.03913
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MobileExperts, which assembles mobile-agent teams, lets agents explor
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-03913/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-03913/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiayi Zhang, Chuang Zhao, Yihan Zhao, Zhaoyang Yu, Ming He, Jianping Fan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-03913/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-03913/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-03913/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-03913/citation.csl.json
 
 ## Recorded arXiv snapshot
 

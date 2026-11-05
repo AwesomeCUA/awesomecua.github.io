@@ -2,7 +2,7 @@
 
 SkillWeaver explores websites, practices interactions, and converts the resulting experience into a reusable library of callable skill APIs. Its WebArena and live-website experiments examine skill refinement, composition, and transfer from stronger agents to weaker ones.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-07079/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-07079/
 - Original source: https://arxiv.org/abs/2504.07079
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SkillWeaver explores websites, practices interactions, and converts the resultin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-07079/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-07079/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Boyuan Zheng, Michael Y. Fatemi, Xiaolong Jin, Zora Zhiruo Wang, Apurva Gandhi, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-07079/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-07079/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-07079/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-07079/citation.csl.json
 
 ## Recorded arXiv snapshot
 

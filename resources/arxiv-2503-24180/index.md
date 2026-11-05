@@ -2,7 +2,7 @@
 
 Navi-plus evaluates GUI agents that ask follow-up questions to complete ambiguous user instructions. It provides GUI clarification question-answer pairs and Dual-Stream Trajectory Evaluation for this interactive setting.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-24180/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-24180/
 - Original source: https://arxiv.org/abs/2503.24180
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Navi-plus evaluates GUI agents that ask follow-up questions to complete ambiguou
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-24180/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-24180/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziming Cheng, Zhiyuan Huang, Junting Pan, Zhaohui Hou, Mingjie Zhan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-24180/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-24180/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-24180/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-24180/citation.csl.json
 
 ## Recorded arXiv snapshot
 

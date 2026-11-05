@@ -2,7 +2,7 @@
 
 Introduces iSHIFT, which combines latent reasoning with perception-control tokens to adapt GUI inference. The agent switches between detailed regional grounding and faster use of global visual cues.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-22009/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-22009/
 - Original source: https://arxiv.org/abs/2512.22009
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces iSHIFT, which combines latent reasoning with perception-control token
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-22009/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-22009/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sarthak Mehrotra, Sairam V C Rebbapragada, Mani Hemanth Reddy Bonthu, Vineeth N 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-22009/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-22009/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-22009/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-22009/citation.csl.json
 
 ## Recorded arXiv snapshot
 

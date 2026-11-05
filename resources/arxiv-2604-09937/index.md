@@ -2,7 +2,7 @@
 
 Introduces HealthAdminBench with GUI environments for an electronic health record, payer portals and fax handling. Expert-defined administrative tasks are decomposed into verifiable subtasks to compare local progress with end-to-end workflow completion.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-09937/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-09937/
 - Original source: https://arxiv.org/abs/2604.09937
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces HealthAdminBench with GUI environments for an electronic health recor
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-09937/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-09937/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Suhana Bedi, Ryan Welch, Ethan Steinberg, Michael Wornow, Taeil Matthew Kim, Har
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-09937/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-09937/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-09937/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-09937/citation.csl.json
 
 ## Recorded arXiv snapshot
 

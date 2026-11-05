@@ -2,7 +2,7 @@
 
 Studies proactive assistance in visual-analytics interfaces, using interaction logs to detect support needs and provide context-aware suggestions and guidance.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-18165/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-18165/
 - Original source: https://arxiv.org/abs/2507.18165
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies proactive assistance in visual-analytics interfaces, using interaction l
 
 Adjacent work on embedded assistance in two instrumented visual-analytics systems. Its in-lab user-study evidence is context-specific, and the paper discusses clarification and intervention-control trade-offs. General GUI-agent performance is not inferred. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (5.3 User study; 5.3.2 Observed issues; 6.1 Design trade-off; 6.2 Limitations); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-18165/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-18165/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuheng Zhao, Xueli Shu, Liwen Fan, Lin Gao, Yu Zhang, Siming Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-18165/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-18165/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-18165/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-18165/citation.csl.json
 
 ## Recorded arXiv snapshot
 

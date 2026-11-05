@@ -2,7 +2,7 @@
 
 Studies backdoor risks in mobile GUI agents through AgentGhost, which combines goal-level and interaction-history triggers during model training. The paper evaluates multiple mobile agents and a tailored defense.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-14418/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-14418/
 - Original source: https://arxiv.org/abs/2505.14418
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies backdoor risks in mobile GUI agents through AgentGhost, which combines g
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14418/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-14418/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pengzhou Cheng, Haowen Hu, Zheng Wu, Zongru Wu, Tianjie Ju, Zhuosheng Zhang, Gon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14418/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14418/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-14418/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-14418/citation.csl.json
 
 ## Recorded arXiv snapshot
 

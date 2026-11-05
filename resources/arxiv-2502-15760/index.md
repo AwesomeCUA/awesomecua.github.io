@@ -2,7 +2,7 @@
 
 Learns action-value functions from offline device-control experience and uses them to rank candidate actions for policy improvement.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-15760/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-15760/
 - Original source: https://arxiv.org/abs/2502.15760
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Learns action-value functions from offline device-control experience and uses th
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-15760/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-15760/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hao Bai, Yifei Zhou, Li Erran Li, Sergey Levine, Aviral Kumar
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-15760/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-15760/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-15760/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-15760/citation.csl.json
 
 ## Recorded arXiv snapshot
 

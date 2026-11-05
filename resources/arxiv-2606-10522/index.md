@@ -2,7 +2,7 @@
 
 GUI-AC uses grounding certainty to adjust advantage weighting and policy-clipping bounds during continual reinforcement fine-tuning. Its mechanisms aim to suppress noisy confidence updates while retaining exploration under shifting GUI domains and resolutions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-10522/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-10522/
 - Original source: https://arxiv.org/abs/2606.10522
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUI-AC uses grounding certainty to adjust advantage weighting and policy-clippin
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-10522/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-10522/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Can Lin, Tao Feng, Hangjie Yuan, Dan Zhang, Yifan Zhu, Zhonghong Ou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-10522/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-10522/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-10522/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-10522/citation.csl.json
 
 ## Recorded arXiv snapshot
 

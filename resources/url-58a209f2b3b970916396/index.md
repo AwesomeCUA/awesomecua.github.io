@@ -2,7 +2,7 @@
 
 Published AgentSynth task definitions and recorded GUI trajectories, with OSWorld and InSTA training configurations and packaged screenshots, thoughts and commands.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-58a209f2b3b970916396/
+- Catalog URL: https://awesomecua.com/resources/url-58a209f2b3b970916396/
 - Original source: https://huggingface.co/datasets/sunblaze-ucb/AgentSynth
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Published AgentSynth task definitions and recorded GUI trajectories, with OSWorl
 
 Public Hub manifest contains JSONL task files and trajectory ZIP packages. Counts describe the publisher-reported task collection, not independently counted archive rows or numbers inferred from ZIP filenames.
 
-- Record JSON: https://awesomecua.github.io/resources/url-58a209f2b3b970916396/record.json
+- Record JSON: https://awesomecua.com/resources/url-58a209f2b3b970916396/record.json
 
 ## Structured profile
 

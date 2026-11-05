@@ -2,7 +2,7 @@
 
 Ferret-UI Lite develops a 3B GUI agent using mixed real and synthetic data, reasoning with visual tools at inference, and reinforcement learning. It evaluates grounding and navigation across mobile, web, and desktop settings, including AndroidWorld and OSWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-26539/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-26539/
 - Original source: https://arxiv.org/abs/2509.26539
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Ferret-UI Lite develops a 3B GUI agent using mixed real and synthetic data, reas
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-26539/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-26539/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhen Yang, Zi-Yi Dou, Di Feng, Forrest Huang, Anh Nguyen, Keen You, Omar Attia, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-26539/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-26539/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-26539/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-26539/citation.csl.json
 
 ## Recorded arXiv snapshot
 

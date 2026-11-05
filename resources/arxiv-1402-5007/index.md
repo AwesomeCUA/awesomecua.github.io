@@ -2,7 +2,7 @@
 
 Bibliographic record for Efficient periodic band diagram computation using a finite element method, Arnoldi eigensolver and sparse linear system solver. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1402-5007/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1402-5007/
 - Original source: https://arxiv.org/abs/1402.5007
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Efficient periodic band diagram computation using a fin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1402-5007/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1402-5007/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Romain Garnier, André Barka, Olivier Pascal
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1402-5007/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1402-5007/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1402-5007/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1402-5007/citation.csl.json
 
 ## Recorded arXiv snapshot
 

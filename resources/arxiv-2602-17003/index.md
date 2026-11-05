@@ -2,7 +2,7 @@
 
 Persona2Web tests whether web agents can resolve ambiguous requests using preferences implicit in a user’s history. Its reasoning-aware evaluation compares agent architectures and history-access strategies on personalized tasks on the open web.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-17003/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-17003/
 - Original source: https://arxiv.org/abs/2602.17003
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Persona2Web tests whether web agents can resolve ambiguous requests using prefer
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-17003/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-17003/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Serin Kim, Sangam Lee, Dongha Lee
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-17003/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-17003/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-17003/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-17003/citation.csl.json
 
 ## Recorded arXiv snapshot
 

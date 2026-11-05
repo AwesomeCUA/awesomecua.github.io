@@ -2,7 +2,7 @@
 
 Combines a screenshot-and-action dataset with a planning, acting, and reflecting loop for computer control through mouse and keyboard actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-07945/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-07945/
 - Original source: https://arxiv.org/abs/2402.07945
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines a screenshot-and-action dataset with a planning, acting, and reflecting
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-07945/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-07945/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Y
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-07945/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-07945/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-07945/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-07945/citation.csl.json
 
 ## Recorded arXiv snapshot
 

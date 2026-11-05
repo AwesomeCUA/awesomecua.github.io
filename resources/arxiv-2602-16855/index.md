@@ -2,7 +2,7 @@
 
 Presents GUI-Owl-1.5 variants and a hybrid data pipeline for multimodal GUI interaction, tool use, memory, and multi-platform tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-16855/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-16855/
 - Original source: https://arxiv.org/abs/2602.16855
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents GUI-Owl-1.5 variants and a hybrid data pipeline for multimodal GUI inte
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-16855/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-16855/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haiyang Xu, Xi Zhang, Haowei Liu, Junyang Wang, Zhaozai Zhu, Shengjie Zhou, Xuha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-16855/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-16855/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-16855/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-16855/citation.csl.json
 
 ## Recorded arXiv snapshot
 

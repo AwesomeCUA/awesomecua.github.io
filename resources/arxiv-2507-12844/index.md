@@ -2,7 +2,7 @@
 
 Compares DOM-based and pixel-based web agents on a cloned news site containing advertisements, consent dialogs and paywalls. The study examines how interface presentation affects ad interaction and consequential subscription choices.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-12844/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-12844/
 - Original source: https://arxiv.org/abs/2507.12844
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares DOM-based and pixel-based web agents on a cloned news site containing a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-12844/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-12844/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Joel Nitu, Heidrun Mühle, Andreas Stöckl
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-12844/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-12844/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-12844/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-12844/citation.csl.json
 
 ## Recorded arXiv snapshot
 

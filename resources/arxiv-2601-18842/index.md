@@ -2,7 +2,7 @@
 
 Introduces GUIGuard-Bench, which annotates private regions in GUI trajectories with categories, risk levels, and relevance to the user’s task. It evaluates privacy recognition and the effect of screenshot protection on offline planning and task utility.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-18842/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-18842/
 - Original source: https://arxiv.org/abs/2601.18842
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUIGuard-Bench, which annotates private regions in GUI trajectories w
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-18842/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-18842/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yanxi Wang, Zhiling Zhang, Wenbo Zhou, Weiming Zhang, Jie Zhang, Qiannan Zhu, Yu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-18842/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-18842/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-18842/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-18842/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-00210/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-00210/
 - Original source: https://arxiv.org/abs/2507.00210
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LineRetriever uses a language model to select observation lines that matter for 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-00210/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-00210/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Imene Kerboua, Sahar Omidi Shayegan, Megh Thakkar, Xing Han Lù, Massimo Caccia,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-00210/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-00210/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-00210/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-00210/citation.csl.json
 
 ## Recorded arXiv snapshot
 

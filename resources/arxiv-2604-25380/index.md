@@ -2,7 +2,7 @@
 
 Introduces DynamicGUIBench for applications whose interfaces change between actions, together with DynamicUI, an agent that processes screen recordings. The agent selects informative frames, filters inconsistent action reasoning and uses trajectory reflection for subsequent decisions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-25380/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-25380/
 - Original source: https://arxiv.org/abs/2604.25380
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces DynamicGUIBench for applications whose interfaces change between acti
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-25380/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-25380/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Enqi Liu, Liyuan Pan, Zhi Gao, Yan Yang, Chenrui Shi, Yang Liu, Jingrong Wu, Qin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-25380/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-25380/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-25380/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-25380/citation.csl.json
 
 ## Recorded arXiv snapshot
 

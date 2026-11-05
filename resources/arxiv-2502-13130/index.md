@@ -2,7 +2,7 @@
 
 Bibliographic record for Magma: A Foundation Model for Multimodal AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-13130/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-13130/
 - Original source: https://arxiv.org/abs/2502.13130
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Magma: A Foundation Model for Multimodal AI Agents. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-13130/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-13130/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jianwei Yang, Reuben Tan, Qianhui Wu, Ruijie Zheng, Baolin Peng, Yongyuan Liang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-13130/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-13130/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-13130/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-13130/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Augments RICO screens and view hierarchies with human labels for icon shape and meaning and for links between UI elements and text labels. It compares image-only and multimodal models on semantic understanding of previously unseen apps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2210-02663/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2210-02663/
 - Original source: https://arxiv.org/abs/2210.02663
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Augments RICO screens and view hierarchies with human labels for icon shape and 
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-02663/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2210-02663/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Srinivas Sunkara, Maria Wang, Lijuan Liu, Gilles Baechler, Yu-Chung Hsiao, Jindo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-02663/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-02663/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2210-02663/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2210-02663/citation.csl.json
 
 ## Recorded arXiv snapshot
 

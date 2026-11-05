@@ -2,7 +2,7 @@
 
 AgentCIBench evaluates whether computer-use agents disclose information in ways that violate its original context. Deterministically scored scenarios test nearby sensitive UI content, ambiguous requests and recipient mismatches, including end-to-end agent execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-23189/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-23189/
 - Original source: https://arxiv.org/abs/2606.23189
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AgentCIBench evaluates whether computer-use agents disclose information in ways 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-23189/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-23189/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Anmol Goel, Iryna Gurevych
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-23189/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-23189/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-23189/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-23189/citation.csl.json
 
 ## Recorded arXiv snapshot
 

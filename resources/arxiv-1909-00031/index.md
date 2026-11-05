@@ -2,7 +2,7 @@
 
 Introduces PUMICE, an agent that learns mobile-app procedures and conditional concepts through natural-language conversation and GUI demonstrations, recursively resolving ambiguous instructions with users.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1909-00031/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1909-00031/
 - Original source: https://arxiv.org/abs/1909.00031
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces PUMICE, an agent that learns mobile-app procedures and conditional co
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1909-00031/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1909-00031/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Toby Jia-Jun Li, Marissa Radensky, Justin Jia, Kirielle Singarajah, Tom M. Mitch
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1909-00031/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1909-00031/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1909-00031/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1909-00031/citation.csl.json
 
 ## Recorded arXiv snapshot
 

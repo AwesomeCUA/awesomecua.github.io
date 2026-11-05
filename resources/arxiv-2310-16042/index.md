@@ -2,7 +2,7 @@
 
 WebWISE filters DOM elements into observations and generates short programs for click, scroll, and text-entry steps. It evaluates in-context learning from either one supplied example or an example collected during a successful zero-shot MiniWoB++ trial.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-16042/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-16042/
 - Original source: https://arxiv.org/abs/2310.16042
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebWISE filters DOM elements into observations and generates short programs for 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-16042/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-16042/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Heyi Tao, Sethuraman T, Michal Shlapentokh-Rothman, Derek Hoiem
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-16042/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-16042/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-16042/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-16042/citation.csl.json
 
 ## Recorded arXiv snapshot
 

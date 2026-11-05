@@ -2,7 +2,7 @@
 
 A published JSONL corpus of synthesized planning and causal knowledge for GUI-agent mid-training, linked directly from the official GUI-CIDER project.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-d0300db5ba754b1a64fa/
+- Catalog URL: https://awesomecua.com/resources/url-d0300db5ba754b1a64fa/
 - Original source: https://huggingface.co/datasets/wuuuuuz/GUI-CIDER
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ A published JSONL corpus of synthesized planning and causal knowledge for GUI-ag
 
 The official project explicitly links this corpus, and the ungated Hub API lists GUI-CIDER.jsonl. The repository has no README card at the Hub (404); purpose and Android context are therefore supported by the project README and dataset guide, while the API supports only identity/file availability. No sample count, split inventory, or data license was established. The project README’s MIT badge is not transferred to this data artifact.
 
-- Record JSON: https://awesomecua.github.io/resources/url-d0300db5ba754b1a64fa/record.json
+- Record JSON: https://awesomecua.com/resources/url-d0300db5ba754b1a64fa/record.json
 
 ## Structured profile
 

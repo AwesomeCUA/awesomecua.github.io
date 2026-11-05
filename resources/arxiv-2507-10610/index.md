@@ -2,7 +2,7 @@
 
 Introduces LaSM, a training-free defense that selectively scales attention and MLP components to improve alignment with task-relevant screen regions. It evaluates the approach against pop-up-based GUI injection attacks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-10610/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-10610/
 - Original source: https://arxiv.org/abs/2507.10610
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces LaSM, a training-free defense that selectively scales attention and M
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-10610/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-10610/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zihe Yan, Jiaping Gui, Zhuosheng Zhang, Gongshen Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-10610/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-10610/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-10610/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-10610/citation.csl.json
 
 ## Recorded arXiv snapshot
 

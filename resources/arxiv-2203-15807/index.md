@@ -2,7 +2,7 @@
 
 Bibliographic record for High Speed Photonic Neuromorphic Computing Using Recurrent Optical Spectrum Slicing Neural Networks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2203-15807/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2203-15807/
 - Original source: https://arxiv.org/abs/2203.15807
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for High Speed Photonic Neuromorphic Computing Using Recurr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2203-15807/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2203-15807/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ K. Sozos, A. Bogris, P. Bienstman, G. Sarantoglou, S. Deligiannidis, C. Mesarita
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2203-15807/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2203-15807/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2203-15807/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2203-15807/citation.csl.json
 
 ## Recorded arXiv snapshot
 

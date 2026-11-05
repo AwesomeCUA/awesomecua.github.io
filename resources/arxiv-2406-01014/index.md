@@ -2,7 +2,7 @@
 
 Separates mobile planning, decision-making, and reflection, with a memory unit for task progress and relevant content.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-01014/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-01014/
 - Original source: https://arxiv.org/abs/2406.01014
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Separates mobile planning, decision-making, and reflection, with a memory unit f
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-01014/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-01014/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junyang Wang, Haiyang Xu, Haitao Jia, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-01014/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-01014/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-01014/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-01014/citation.csl.json
 
 ## Recorded arXiv snapshot
 

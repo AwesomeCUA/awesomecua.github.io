@@ -2,7 +2,7 @@
 
 Over 20,000 human Android episodes across 500+ apps with user context and long-term usage patterns, plus tracks for proactive intent prediction and personalized execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-tsinghua-fib-lab-fingertip-20k/
+- Catalog URL: https://awesomecua.com/resources/github-tsinghua-fib-lab-fingertip-20k/
 - Original source: https://github.com/tsinghua-fib-lab/FingerTip-20K
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Over 20,000 human Android episodes across 500+ apps with user context and long-t
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-tsinghua-fib-lab-fingertip-20k/record.json
+- Record JSON: https://awesomecua.com/resources/github-tsinghua-fib-lab-fingertip-20k/record.json
 
 ## License declarations
 

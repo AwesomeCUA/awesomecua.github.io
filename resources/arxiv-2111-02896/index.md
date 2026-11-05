@@ -2,7 +2,7 @@
 
 Bibliographic record for Experimenting quantum phenomena on NISQ computers using high level quantum programming. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2111-02896/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2111-02896/
 - Original source: https://arxiv.org/abs/2111.02896
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Experimenting quantum phenomena on NISQ computers using
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2111-02896/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2111-02896/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Duc M. Tran, Duy V. Nguyen, Le Bin Ho, Hung Q. Nguyen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2111-02896/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2111-02896/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2111-02896/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2111-02896/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Recasts mobile UI automation as on-device code generation, using app-specific documentation and synthetic tasks to guide smaller models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-18116/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-18116/
 - Original source: https://arxiv.org/abs/2412.18116
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Recasts mobile UI automation as on-device code generation, using app-specific do
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-18116/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-18116/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-18116/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-18116/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-18116/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-18116/citation.csl.json
 
 ## Recorded arXiv snapshot
 

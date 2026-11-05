@@ -2,7 +2,7 @@
 
 Published MAI-UI grounding and navigation-agent implementations with inference demos and evaluation scripts.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-tongyi-mai-mai-ui/
+- Catalog URL: https://awesomecua.com/resources/github-tongyi-mai-mai-ui/
 - Original source: https://github.com/Tongyi-MAI/MAI-UI
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Published MAI-UI grounding and navigation-agent implementations with inference d
 
 The original implementation is in the MAI-UI/ subdirectory, with an Apache-2.0 LICENSE there. The current root README also promotes Qwen-UI-Agent, but that follow-up directory contains only documentation/display assets in the inspected tree. This entry does not claim the follow-up runtime, training system or weights are released.
 
-- Record JSON: https://awesomecua.github.io/resources/github-tongyi-mai-mai-ui/record.json
+- Record JSON: https://awesomecua.com/resources/github-tongyi-mai-mai-ui/record.json
 
 ## License declarations
 

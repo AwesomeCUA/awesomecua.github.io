@@ -2,7 +2,7 @@
 
 Studies indirect prompt injection through HTML content consumed as accessibility trees. The evaluation tests how manipulated page observations redirect browser-agent actions on real websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-14799/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-14799/
 - Original source: https://arxiv.org/abs/2507.14799
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies indirect prompt injection through HTML content consumed as accessibility
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-14799/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-14799/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sam Johnson, Viet Pham, Thai Le
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-14799/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-14799/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-14799/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-14799/citation.csl.json
 
 ## Recorded arXiv snapshot
 

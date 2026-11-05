@@ -2,7 +2,7 @@
 
 Introduces Auto-GUI, a screenshot-based agent using previous actions and future action plans to guide device interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2309-11436/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2309-11436/
 - Original source: https://arxiv.org/abs/2309.11436
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Auto-GUI, a screenshot-based agent using previous actions and future 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-11436/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2309-11436/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhuosheng Zhang, Aston Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-11436/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-11436/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2309-11436/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2309-11436/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Zhuosheng Zhang, Aston Zhang
 - Authors: Zhuosheng Zhang, Aston Zhang
 - Publication date (recorded precision): 2024-08
 - Publication source: https://aclanthology.org/2024.findings-acl.186/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2309-11436/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-11436/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2309-11436/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2309-11436/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2024
 - publisher: Association for Computational Linguistics
 - pages: 3132-3149

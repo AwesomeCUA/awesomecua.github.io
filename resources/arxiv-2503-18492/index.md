@@ -2,7 +2,7 @@
 
 Translates user instructions into formal specifications and applies runtime logic-based checks to proposed mobile GUI actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-18492/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-18492/
 - Original source: https://arxiv.org/abs/2503.18492
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Translates user instructions into formal specifications and applies runtime logi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-18492/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-18492/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jungjae Lee, Dongjae Lee, Chihun Choi, Youngmin Im, Jaeyoung Wi, Kihong Heo, San
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-18492/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-18492/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-18492/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-18492/citation.csl.json
 
 ## Recorded arXiv snapshot
 

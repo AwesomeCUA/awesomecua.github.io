@@ -2,7 +2,7 @@
 
 A diary study deploys the screen-reader-accessible OLLA computer-use prototype with blind users across desktop applications. Recorded commands and interaction traces support model comparisons and analysis of grounding, planning, constraint tracking and termination failures.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-00524/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-00524/
 - Original source: https://arxiv.org/abs/2609.00524
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ A diary study deploys the screen-reader-accessible OLLA computer-use prototype w
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-00524/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-00524/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Satwik Ram Kodandaram, Monalika Padma Reddy, Xiaojun Bi, Jiawei Zhou, I. V. Rama
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-00524/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-00524/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-00524/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-00524/citation.csl.json
 
 ## Recorded arXiv snapshot
 

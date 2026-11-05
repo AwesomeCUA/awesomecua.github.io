@@ -2,7 +2,7 @@
 
 PAL-UI combines observation/action summaries with selective retrieval of historical screenshots during planning. It trains mobile navigation models from step-level supervision and evaluates transfer to web navigation without additional training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-00413/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-00413/
 - Original source: https://arxiv.org/abs/2510.00413
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PAL-UI combines observation/action summaries with selective retrieval of histori
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-00413/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-00413/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zikang Liu, Junyi Li, Wayne Xin Zhao, Dawei Gao, Yaliang Li, Ji-rong Wen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-00413/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-00413/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-00413/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-00413/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Studies compute allocation for web-agent post-training with teacher-generated supervised fine-tuning followed by on-policy reinforcement learning. It samples 1,370 training configurations and uses bootstrap analysis to examine hyperparameter sensitivity on WorkArena and MiniWoB++.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-04103/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-04103/
 - Original source: https://arxiv.org/abs/2507.04103
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies compute allocation for web-agent post-training with teacher-generated su
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-04103/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-04103/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dheeraj Vattikonda, Santhoshi Ravichandran, Emiliano Penaloza, Hadi Nekoei, Megh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-04103/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-04103/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-04103/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-04103/citation.csl.json
 
 ## Recorded arXiv snapshot
 

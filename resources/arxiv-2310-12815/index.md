@@ -2,7 +2,7 @@
 
 Bibliographic record for Formalizing and Benchmarking Prompt Injection Attacks and Defenses. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-12815/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-12815/
 - Original source: https://arxiv.org/abs/2310.12815
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Formalizing and Benchmarking Prompt Injection Attacks a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-12815/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-12815/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yupei Liu, Yuqi Jia, Runpeng Geng, Jinyuan Jia, Neil Zhenqiang Gong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-12815/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-12815/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-12815/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-12815/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Desktop grounding prompts selected from GroundCUA and formatted for click-based reinforcement learning with target-box rewards.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-4e71dc456c4112eed727/
+- Catalog URL: https://awesomecua.com/resources/url-4e71dc456c4112eed727/
 - Original source: https://huggingface.co/datasets/PrentisAI/GroundGUI_RL
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Desktop grounding prompts selected from GroundCUA and formatted for click-based 
 
 The card declares MIT and attributes the source examples to GroundCUA. Its separate claim about UI-Vision overlap is not independently validated by this catalog.
 
-- Record JSON: https://awesomecua.github.io/resources/url-4e71dc456c4112eed727/record.json
+- Record JSON: https://awesomecua.com/resources/url-4e71dc456c4112eed727/record.json
 
 ## Structured profile
 

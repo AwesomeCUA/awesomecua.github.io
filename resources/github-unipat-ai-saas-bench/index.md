@@ -2,7 +2,7 @@
 
 106 browser-driven business workflows across 23 self-hosted SaaS apps in six domains, scored by per-task verifiers that read each app's database and give partial credit.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-unipat-ai-saas-bench/
+- Catalog URL: https://awesomecua.com/resources/github-unipat-ai-saas-bench/
 - Original source: https://github.com/UniPat-AI/SaaS-Bench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-unipat-ai-saas-bench/record.json
+- Record JSON: https://awesomecua.com/resources/github-unipat-ai-saas-bench/record.json
 
 ## License declarations
 

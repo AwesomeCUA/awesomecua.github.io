@@ -2,7 +2,7 @@
 
 Uses weak-agent uncertainty to decide when to escalate to a stronger model and monitor its subsequent task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22280/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-22280/
 - Original source: https://arxiv.org/abs/2610.22280
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses weak-agent uncertainty to decide when to escalate to a stronger model and m
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22280/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-22280/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qingni Wang, Changdae Oh, Yuzhe Yang, Sharon Li, Jiachen Yang, Ang Li, Xin Eric 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22280/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22280/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-22280/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-22280/citation.csl.json
 
 ## Recorded arXiv snapshot
 

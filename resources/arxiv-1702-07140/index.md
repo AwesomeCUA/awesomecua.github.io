@@ -2,7 +2,7 @@
 
 Bibliographic record for An Efficient Framework for Information Security in Cloud Computing Using Auditing Algorithm Shell (AAS). Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1702-07140/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1702-07140/
 - Original source: https://arxiv.org/abs/1702.07140
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for An Efficient Framework for Information Security in Clou
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1702-07140/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1702-07140/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ M. Omer Mushtaq, Furrakh Shahzad, M. Owais Tariq, Mahina Riaz, Bushra Majeed
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1702-07140/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1702-07140/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1702-07140/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1702-07140/citation.csl.json
 
 ## Recorded arXiv snapshot
 

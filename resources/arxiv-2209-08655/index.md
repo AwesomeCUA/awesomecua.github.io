@@ -2,7 +2,7 @@
 
 Studies few-shot prompting of a single language model for four mobile-UI interaction tasks, aiming to support conversational interface use without a separate trained model for each task.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2209-08655/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2209-08655/
 - Original source: https://arxiv.org/abs/2209.08655
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies few-shot prompting of a single language model for four mobile-UI interac
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2209-08655/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2209-08655/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bryan Wang, Gang Li, Yang Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2209-08655/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2209-08655/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2209-08655/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2209-08655/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 TUA-Bench evaluates terminal-use agents on general digital tasks, including document editing, email, web information seeking and specialist software workflows. Tasks run in real terminals with deterministic setup and execution-based scoring.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-28480/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-28480/
 - Original source: https://arxiv.org/abs/2606.28480
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ TUA-Bench evaluates terminal-use agents on general digital tasks, including docu
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent general computer-operation benchmark: the evaluated interface is a terminal; GUI benchmarks are a contrast, not its execution modality.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-28480/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-28480/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shoufa Chen, Luyuan Wang, Xuan Yang, Zhiheng Liu, Yuren Cong, Yuanfeng Ji, Feiya
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-28480/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-28480/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-28480/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-28480/citation.csl.json
 
 ## Recorded arXiv snapshot
 

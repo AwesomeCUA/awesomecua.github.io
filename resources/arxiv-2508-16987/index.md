@@ -2,7 +2,7 @@
 
 WebSight uses a vision-language model trained on web-interface examples within a modular agent with planning, action, verification, and episodic memory components. It evaluates element clicking on Showdown Clicks and full browsing tasks on WebVoyager using visual observations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-16987/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-16987/
 - Original source: https://arxiv.org/abs/2508.16987
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebSight uses a vision-language model trained on web-interface examples within a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-16987/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-16987/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tanvir Bhathal, Asanshay Gupta
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-16987/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-16987/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-16987/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-16987/citation.csl.json
 
 ## Recorded arXiv snapshot
 

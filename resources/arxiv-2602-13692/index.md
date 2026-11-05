@@ -2,7 +2,7 @@
 
 Bibliographic record for ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-13692/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-13692/
 - Original source: https://arxiv.org/abs/2602.13692
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ThunderAgent: A Simple, Fast and Program-Aware Agentic 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-13692/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-13692/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hao Kang, Ziyang Li, Weili Xu, Xinyu Yang, Yinfang Chen, Junxiong Wang, Beidi Ch
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-13692/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-13692/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-13692/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-13692/citation.csl.json
 
 ## Recorded arXiv snapshot
 

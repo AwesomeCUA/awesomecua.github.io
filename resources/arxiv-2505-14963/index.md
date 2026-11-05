@@ -2,7 +2,7 @@
 
 Bibliographic record for MedBrowseComp: Benchmarking Medical Deep Research and Computer Use. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-14963/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-14963/
 - Original source: https://arxiv.org/abs/2505.14963
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MedBrowseComp: Benchmarking Medical Deep Research and C
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14963/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-14963/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shan Chen, Pedro Moreira, Yuxin Xiao, Sam Schmidgall, Jeremy Warner, Hugo Aerts,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14963/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14963/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-14963/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-14963/citation.csl.json
 
 ## Recorded arXiv snapshot
 

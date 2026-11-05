@@ -2,7 +2,7 @@
 
 HiViG combines a compact history of completed actions with a visually grounded critic that checks proposed coordinates before execution. Its evaluations separate history-related planning failures from errors caused by targeting the wrong screen element.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-11078/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-11078/
 - Original source: https://arxiv.org/abs/2606.11078
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ HiViG combines a compact history of completed actions with a visually grounded c
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-11078/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-11078/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jaewoo Lee, Zaid Khan, Archiki Prasad, Justin Chih-Yao Chen, Supriyo Chakraborty
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-11078/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-11078/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-11078/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-11078/citation.csl.json
 
 ## Recorded arXiv snapshot
 

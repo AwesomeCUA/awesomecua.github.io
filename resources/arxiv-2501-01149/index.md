@@ -2,7 +2,7 @@
 
 Introduces Android Agent Arena with online application tasks and procedural evaluation based on reaching essential intermediate states.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-01149/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2501-01149/
 - Original source: https://arxiv.org/abs/2501.01149
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Android Agent Arena with online application tasks and procedural eval
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-01149/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2501-01149/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxiang Chai, Shunye Tang, Han Xiao, Weifeng Lin, Hanhao Li, Jiayu Zhang, Liang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-01149/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-01149/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2501-01149/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2501-01149/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Web-CogReasoner separates factual and conceptual web knowledge from procedural reasoning, using a structured curriculum to train a multimodal agent. Web-CogDataset and Web-CogBench support study of these capabilities alongside web-navigation evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-01858/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-01858/
 - Original source: https://arxiv.org/abs/2508.01858
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Web-CogReasoner separates factual and conceptual web knowledge from procedural r
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-01858/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-01858/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhan Guo, Cong Guo, Aiwen Sun, Hongliang He, Xinyu Yang, Yue Lu, Yingji Zhang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-01858/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-01858/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-01858/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-01858/citation.csl.json
 
 ## Recorded arXiv snapshot
 

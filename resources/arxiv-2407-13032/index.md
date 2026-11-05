@@ -2,7 +2,7 @@
 
 Agent-E combines hierarchical web-task control with DOM distillation and observations of interface changes. WebVoyager experiments inform a broader discussion of primitive skills, observation reduction, and self-improvement in agent architecture.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-13032/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-13032/
 - Original source: https://arxiv.org/abs/2407.13032
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Agent-E combines hierarchical web-task control with DOM distillation and observa
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-13032/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-13032/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tamer Abuelsaad, Deepak Akkil, Prasenjit Dey, Ashish Jagmohan, Aditya Vempaty, R
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-13032/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-13032/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-13032/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-13032/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-01084/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-01084/
 - Original source: https://arxiv.org/abs/2607.01084
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Can Agents Generalize to the Open World? Unveiling the 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-01084/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-01084/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Song-Lin Lv, Weiming Wu, Rui Zhu, Zi-Jian Cheng, Lan-Zhe Guo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-01084/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-01084/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-01084/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-01084/citation.csl.json
 
 ## Recorded arXiv snapshot
 

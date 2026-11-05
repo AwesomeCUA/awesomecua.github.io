@@ -2,7 +2,7 @@
 
 Bibliographic record for On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-14744/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-14744/
 - Original source: https://arxiv.org/abs/2509.14744
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for On the Use of Agentic Coding Manifests: An Empirical St
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-14744/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-14744/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Worawalan Chatlatanagulchai, Kundjanasith Thonglek, Brittany Reid, Yutaro Kashiw
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-14744/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-14744/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-14744/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-14744/citation.csl.json
 
 ## Recorded arXiv snapshot
 

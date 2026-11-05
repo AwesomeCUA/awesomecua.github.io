@@ -2,7 +2,7 @@
 
 Evaluates Jev as a bounded action selector inside three AndroidWorld agents and two text-based ALFWorld agents, separating decision savings from task success, recovery and resources per delivered outcome.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-13092/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-13092/
 - Original source: https://arxiv.org/abs/2610.13092
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates Jev as a bounded action selector inside three AndroidWorld agents and 
 
 The mobile evaluation uses text UI observations and one fixed instance for each of 116 AndroidWorld task types; three repeats share seed 0. Five agent families use different budgets, with candidate-interface and tool-call granularity changes in some variants. Reported costs use fixed experimental prices, and outcome-selected trace labels are not population failure rates. Faster selection does not imply faster or more reliable task completion. Selected sections were source-read; no independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-13092/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-13092/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuchen Ling, Shengcheng Yu, Zhenyu Chen, Chunrong Fang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-13092/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-13092/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-13092/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-13092/citation.csl.json
 
 ## Recorded arXiv snapshot
 

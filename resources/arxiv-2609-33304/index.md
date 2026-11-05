@@ -2,7 +2,7 @@
 
 Introduces ExpActivator, which matches the current GUI state to relevant historical states before supplying past actions as guidance. A separate activation rule decides whether a recurring user intent is warranted by the current time and situation or should be withheld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-33304/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-33304/
 - Original source: https://arxiv.org/abs/2609.33304
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces ExpActivator, which matches the current GUI state to relevant histori
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-33304/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-33304/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fuyao Zhang, Xuan Wang, Zherui Li, Jiaming Zhang, Longtao Huang, Wei Yang Bryan 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-33304/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-33304/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-33304/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-33304/citation.csl.json
 
 ## Recorded arXiv snapshot
 

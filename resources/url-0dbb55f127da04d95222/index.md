@@ -2,7 +2,7 @@
 
 Screenshot-instruction records with target boxes and UI metadata such as OCR, source, element type and platform.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-0dbb55f127da04d95222/
+- Catalog URL: https://awesomecua.com/resources/url-0dbb55f127da04d95222/
 - Original source: https://huggingface.co/datasets/agentsea/wave-ui
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Screenshot-instruction records with target boxes and UI metadata such as OCR, so
 
 Train, validation and test Parquet files are publicly listed. The compilation license explicitly preserves each image’s original source terms and grants no extra rights to those images. The card exposes a platform column without listing its values, so operating-system coverage remains unspecified.
 
-- Record JSON: https://awesomecua.github.io/resources/url-0dbb55f127da04d95222/record.json
+- Record JSON: https://awesomecua.com/resources/url-0dbb55f127da04d95222/record.json
 
 ## Structured profile
 

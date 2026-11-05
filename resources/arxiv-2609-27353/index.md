@@ -2,7 +2,7 @@
 
 WebMRE pairs guidance sentences with grounded actions in an offline benchmark derived from successful WebArena traces. Controlled decoding-prefix interventions test how guide content affects action selection, while separating offline prediction metrics from live browser task success.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-27353/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-27353/
 - Original source: https://arxiv.org/abs/2609.27353
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebMRE pairs guidance sentences with grounded actions in an offline benchmark de
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27353/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-27353/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chengguang Gan, Yunhao Liang, QingHao Zhang, Shiwen Ni
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27353/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27353/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-27353/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-27353/citation.csl.json
 
 ## Recorded arXiv snapshot
 

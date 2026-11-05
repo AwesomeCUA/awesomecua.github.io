@@ -2,7 +2,7 @@
 
 EE-MCP studies application-dependent mixtures of GUI actions and MCP calls using generated environments, trajectory collection and filtered training. An experience bank extracts rules from trajectory comparisons for inference-time improvement, distinct from model distillation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-09815/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-09815/
 - Original source: https://arxiv.org/abs/2604.09815
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ EE-MCP studies application-dependent mixtures of GUI actions and MCP calls using
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-09815/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-09815/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tiantian He, Yihang Chen, Keyue Jiang, Ka Yiu Lee, Kaiwen Zhou, Kun Shao, Shuai 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-09815/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-09815/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-09815/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-09815/citation.csl.json
 
 ## Recorded arXiv snapshot
 

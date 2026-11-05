@@ -2,7 +2,7 @@
 
 GAIA trains a GUI action critic on positive and negative examples, then uses that critic to collect improved examples for another training round. It studies how recycling these data affects the test-time action choices of different GUI agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-18197/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-18197/
 - Original source: https://arxiv.org/abs/2601.18197
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GAIA trains a GUI action critic on positive and negative examples, then uses tha
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-18197/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-18197/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shaokang Wang, Pei Fu, Ruoceng Zhang, Shaojie Zhang, Xiuwen Xi, Jiahui Yang, Bin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-18197/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-18197/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-18197/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-18197/citation.csl.json
 
 ## Recorded arXiv snapshot
 

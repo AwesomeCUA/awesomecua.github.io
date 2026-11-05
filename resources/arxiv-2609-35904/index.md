@@ -2,7 +2,7 @@
 
 Describes a WebRetriever agent that combines semantic webpage operations with visual localization when structured representations are insufficient. Hierarchical context management and fault-aware execution support processing tasks across concurrent browsers.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-35904/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-35904/
 - Original source: https://arxiv.org/abs/2609.35904
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes a WebRetriever agent that combines semantic webpage operations with vi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-35904/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-35904/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziqi Zhang, Shaohui Li, Bing Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-35904/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-35904/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-35904/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-35904/citation.csl.json
 
 ## Recorded arXiv snapshot
 

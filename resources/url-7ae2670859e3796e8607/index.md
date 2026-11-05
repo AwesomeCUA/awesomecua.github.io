@@ -2,7 +2,7 @@
 
 Managed web scraping platform with reusable browser interaction workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-7ae2670859e3796e8607/
+- Catalog URL: https://awesomecua.com/resources/url-7ae2670859e3796e8607/
 - Original source: https://www.browseract.com/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Managed web scraping platform with reusable browser interaction workflows.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-7ae2670859e3796e8607/record.json
+- Record JSON: https://awesomecua.com/resources/url-7ae2670859e3796e8607/record.json
 
 ## License declarations
 

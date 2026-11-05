@@ -2,7 +2,7 @@
 
 Introduces AgentProg, organizing mobile-agent interaction history as a program with variables and control flow to decide what context to retain. A global belief state handles partial observability, with evaluation on AndroidWorld and extended long-horizon tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-10371/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-10371/
 - Original source: https://arxiv.org/abs/2512.10371
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AgentProg, organizing mobile-agent interaction history as a program w
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-10371/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-10371/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shizuo Tian, Hao Wen, Yuxuan Chen, Jiacheng Liu, Shanhui Zhao, Guohong Liu, Ju R
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-10371/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-10371/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-10371/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-10371/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for PartHackBench: Certified Equal-Progress Stress Tests for Partial-Credit Tool-Agent Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-29578/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-29578/
 - Original source: https://arxiv.org/abs/2609.29578
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PartHackBench: Certified Equal-Progress Stress Tests fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-29578/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-29578/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongye Yang, Zhihao Xie, Shengjun Xiong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-29578/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-29578/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-29578/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-29578/citation.csl.json
 
 ## Recorded arXiv snapshot
 

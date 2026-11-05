@@ -2,7 +2,7 @@
 
 CUA-Skill encodes Windows application knowledge in parameterized skills and execution/composition graphs. Its agent retrieves and instantiates these skills and uses memory for failure recovery, with end-to-end evaluation on WindowsAgentArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-21123/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-21123/
 - Original source: https://arxiv.org/abs/2601.21123
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CUA-Skill encodes Windows application knowledge in parameterized skills and exec
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21123/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-21123/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianyi Chen, Yinheng Li, Michael Solodko, Sen Wang, Nan Jiang, Tingyuan Cui, Jun
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21123/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21123/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-21123/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-21123/citation.csl.json
 
 ## Recorded arXiv snapshot
 

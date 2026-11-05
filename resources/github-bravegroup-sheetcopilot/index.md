@@ -2,7 +2,7 @@
 
 Spreadsheet automation agent for Windows/Excel, with benchmark assets and a separately released headless Ubuntu evaluation backend.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-bravegroup-sheetcopilot/
+- Catalog URL: https://awesomecua.com/resources/github-bravegroup-sheetcopilot/
 - Original source: https://github.com/BraveGroup/SheetCopilot
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Spreadsheet automation agent for Windows/Excel, with benchmark assets and a sepa
 
 The original agent and the later Ubuntu evaluator have different roles; the repository does not establish that the original agent runs on Ubuntu. Code licensing is unresolved because the retained README and LICENSE contain conflicting declarations.
 
-- Record JSON: https://awesomecua.github.io/resources/github-bravegroup-sheetcopilot/record.json
+- Record JSON: https://awesomecua.com/resources/github-bravegroup-sheetcopilot/record.json
 
 ## License declarations
 

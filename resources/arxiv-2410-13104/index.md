@@ -2,7 +2,7 @@
 
 Bibliographic record for Cost-Effective Realization of n-Bit Toffoli Gates for IBM Quantum Computers Using the Bloch Sphere Approach and IBM Native Gates. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-13104/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-13104/
 - Original source: https://arxiv.org/abs/2410.13104
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Cost-Effective Realization of n-Bit Toffoli Gates for I
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-13104/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-13104/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ali Al-Bayaty, Marek Perkowski
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-13104/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-13104/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-13104/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-13104/citation.csl.json
 
 ## Recorded arXiv snapshot
 

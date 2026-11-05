@@ -2,7 +2,7 @@
 
 An anonymization framework replaces sensitive screen content and instructions with consistent, type-preserving placeholders while mediating actions through a local interaction proxy. Experiments on AndroidLab and PrivScreen examine the privacy–utility trade-off when mobile GUI agents operate over these transformed interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-10139/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-10139/
 - Original source: https://arxiv.org/abs/2602.10139
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ An anonymization framework replaces sensitive screen content and instructions wi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-10139/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-10139/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lepeng Zhao, Zhenhua Zou, Shuo Li, Zhuotao Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-10139/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-10139/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-10139/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-10139/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Symmetry-Protected Quantum Computing using Metamaterials. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-00254/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-00254/
 - Original source: https://arxiv.org/abs/2606.00254
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Symmetry-Protected Quantum Computing using Metamaterial
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-00254/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-00254/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Neil F. Johnson, Ferney J. Rodriguez, Luis Quiroga
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-00254/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-00254/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-00254/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-00254/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for AutoData: A Multi-Agent System for Open Web Data Collection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-15859/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-15859/
 - Original source: https://arxiv.org/abs/2505.15859
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AutoData: A Multi-Agent System for Open Web Data Collec
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-15859/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-15859/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianyi Ma, Yiyue Qian, Zheyuan Zhang, Zehong Wang, Xiaoye Qian, Feifan Bai, Yifa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-15859/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-15859/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-15859/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-15859/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-kwai-memgui-agent/
+- Catalog URL: https://awesomecua.com/resources/github-kwai-memgui-agent/
 - Original source: https://github.com/kwai/MemGUI-Agent
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ MemGUI-Agent training and offline evaluation tools provide trajectory conversion
 
 The inspected release documentation describes dataset utilities, a LoRA SFT template and gold-step offline evaluation; live Android rollouts are explicitly outside that evaluator and linked to separate benchmark repositories. Executable source files, external datasets/checkpoints and reported results were not independently verified in this bounded review.
 
-- Record JSON: https://awesomecua.github.io/resources/github-kwai-memgui-agent/record.json
+- Record JSON: https://awesomecua.com/resources/github-kwai-memgui-agent/record.json
 
 ## License declarations
 

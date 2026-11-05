@@ -2,7 +2,7 @@
 
 Derives task graphs from demonstrated Android app interactions and layers a conversational question-answer interface over those graphs. The evaluation examines task-model extraction and developer use of the resulting bot templates.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/
+- Catalog URL: https://awesomecua.com/resources/url-901ca855640457dfe2f1/
 - Original source: https://doi.org/10.1145/3210240.3210339
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Derives task graphs from demonstrated Android app interactions and layers a conv
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/record.json
+- Record JSON: https://awesomecua.com/resources/url-901ca855640457dfe2f1/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Toby Jia-Jun Li, Oriana Riva
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-901ca855640457dfe2f1/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-901ca855640457dfe2f1/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Toby Jia-Jun Li, Oriana Riva
 - Authors: Toby Jia-Jun Li, Oriana Riva
 - Publication date (recorded precision): 2018-06
 - Publication source: https://doi.org/10.1145/3210240.3210339
-- Publication BibTeX: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-901ca855640457dfe2f1/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-901ca855640457dfe2f1/publication-citation.csl.json
 - venue: The 16th Annual International Conference on Mobile Systems, Applications, and Services
 - doi: 10.1145/3210240.3210339
 - date basis: Supplied month precision: 2018-06. Publication line: MobiSys 2018, June 2018

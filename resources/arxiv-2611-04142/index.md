@@ -2,7 +2,7 @@
 
 Bibliographic record for Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2611-04142/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2611-04142/
 - Original source: https://arxiv.org/abs/2611.04142
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Interpretable Early Termination of Web Navigation Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2611-04142/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2611-04142/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sergio Talavera, Magdalini Eirinaki
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2611-04142/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2611-04142/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2611-04142/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2611-04142/citation.csl.json
 
 ## Recorded arXiv snapshot
 

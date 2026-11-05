@@ -2,7 +2,7 @@
 
 Combines screenshots, layout information, and action history with a factored action predictor for smartphone automation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-11941/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-11941/
 - Original source: https://arxiv.org/abs/2402.11941
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines screenshots, layout information, and action history with a factored act
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-11941/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-11941/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinbei Ma, Zhuosheng Zhang, Hai Zhao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-11941/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-11941/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-11941/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-11941/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Xinbei Ma, Zhuosheng Zhang, Hai Zhao
 - Authors: Xinbei Ma, Zhuosheng Zhang, Hai Zhao (赵海)
 - Publication date (recorded precision): 2024-08
 - Publication source: https://aclanthology.org/2024.findings-acl.539
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2402-11941/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-11941/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-11941/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-11941/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2024
 - publisher: Association for Computational Linguistics
 - pages: 9097-9110

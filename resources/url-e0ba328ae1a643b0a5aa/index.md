@@ -2,7 +2,7 @@
 
 Webpage segments, questions, answers, HTML, screenshots and layout metadata for structural reading comprehension.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-e0ba328ae1a643b0a5aa/
+- Catalog URL: https://awesomecua.com/resources/url-e0ba328ae1a643b0a5aa/
 - Original source: https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Webpage segments, questions, answers, HTML, screenshots and layout metadata for 
 
 Public release includes train+dev and test ZIP packages plus a test-answer JSON file. The v1.0 card’s exact split table differs from the older project-page headline of 0.44M questions/6.5K pages; counts are kept with their sources. This is static webpage understanding, not an interactive browser-agent trajectory dataset. CC-BY-4.0 is the data-card declaration.
 
-- Record JSON: https://awesomecua.github.io/resources/url-e0ba328ae1a643b0a5aa/record.json
+- Record JSON: https://awesomecua.com/resources/url-e0ba328ae1a643b0a5aa/record.json
 
 ## Structured profile
 

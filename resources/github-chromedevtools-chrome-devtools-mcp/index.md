@@ -2,7 +2,7 @@
 
 MCP tools for browser control and inspection through Chrome DevTools.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-chromedevtools-chrome-devtools-mcp/
+- Catalog URL: https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/
 - Original source: https://github.com/ChromeDevTools/chrome-devtools-mcp
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ MCP tools for browser control and inspection through Chrome DevTools.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-chromedevtools-chrome-devtools-mcp/record.json
+- Record JSON: https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/record.json
 
 ## License declarations
 

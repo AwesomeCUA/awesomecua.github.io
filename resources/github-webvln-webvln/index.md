@@ -2,7 +2,7 @@
 
 Training and evaluation code for question-guided website navigation that combines visual observations with web-specific HTML information.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-webvln-webvln/
+- Catalog URL: https://awesomecua.com/resources/github-webvln-webvln/
 - Original source: https://github.com/WebVLN/WebVLN
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Training and evaluation code for question-guided website navigation that combine
 
 The released tree contains navigation models, an environment wrapper, scoring utilities and train/eval scripts. Full WebVLN-v1 data and pretrained files are linked through an external Drive folder; their complete contents and data/weight terms were not verified, so no separate benchmark download or checkpoint is approved here. The README MIT badge has no matching repository license file or explicit component scope; code permissions remain unestablished.
 
-- Record JSON: https://awesomecua.github.io/resources/github-webvln-webvln/record.json
+- Record JSON: https://awesomecua.com/resources/github-webvln-webvln/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Code for AMEX Android GUI data that converts its three annotation levels into question-answer pairs and fine-tunes a LLaMA2-Accessory model, with a released checkpoint.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-yuxiangchai-amex-codebase/
+- Catalog URL: https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/
 - Original source: https://github.com/YuxiangChai/AMEX-codebase
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Code for AMEX Android GUI data that converts its three annotation levels into qu
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-yuxiangchai-amex-codebase/record.json
+- Record JSON: https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/record.json
 
 ## Structured profile
 

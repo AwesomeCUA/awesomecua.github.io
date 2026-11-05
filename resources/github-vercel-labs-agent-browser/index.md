@@ -2,7 +2,7 @@
 
 A browser-automation command-line interface that exposes browser state and interaction commands for AI agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-vercel-labs-agent-browser/
+- Catalog URL: https://awesomecua.com/resources/github-vercel-labs-agent-browser/
 - Original source: https://github.com/vercel-labs/agent-browser
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ A browser-automation command-line interface that exposes browser state and inter
 
 The repository publishes a Rust-based CLI and platform-specific release binaries. The inspected release is v0.39.1. Apache-2.0 is declared for the code; Chrome and other external browser components retain separate terms. No package or browser was installed.
 
-- Record JSON: https://awesomecua.github.io/resources/github-vercel-labs-agent-browser/record.json
+- Record JSON: https://awesomecua.com/resources/github-vercel-labs-agent-browser/record.json
 
 ## License declarations
 

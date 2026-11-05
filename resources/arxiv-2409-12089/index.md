@@ -2,7 +2,7 @@
 
 Studies how the ordering of UI elements in an agent observation affects web and desktop performance. A pixel-based element detector and dimensionality-reduction ordering are evaluated on OmniACT when document hierarchy is unavailable.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-12089/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-12089/
 - Original source: https://arxiv.org/abs/2409.12089
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies how the ordering of UI elements in an agent observation affects web and 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-12089/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-12089/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wayne Chi, Ameet Talwalkar, Chris Donahue
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-12089/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-12089/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-12089/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-12089/citation.csl.json
 
 ## Recorded arXiv snapshot
 

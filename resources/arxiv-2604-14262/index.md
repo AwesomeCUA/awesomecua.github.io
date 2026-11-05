@@ -2,7 +2,7 @@
 
 Introduces GUI-Perturbed, which varies screenshot appearance and instruction wording independently to diagnose grounding failures. Experiments on three related model architectures examine relational instructions, browser zoom and augmentation-based fine-tuning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-14262/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-14262/
 - Original source: https://arxiv.org/abs/2604.14262
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces GUI-Perturbed, which varies screenshot appearance and instruction wor
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-14262/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-14262/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yangyue Wang, Harshvardhan Sikka, Yash Mathur, Tony Zhou, Jinu Nyachhyon, Pranav
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-14262/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-14262/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-14262/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-14262/citation.csl.json
 
 ## Recorded arXiv snapshot
 

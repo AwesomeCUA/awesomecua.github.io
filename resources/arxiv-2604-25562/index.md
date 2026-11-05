@@ -2,7 +2,7 @@
 
 SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings, rather than establishing universal runtime prevention.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-25562/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-25562/
 - Original source: https://arxiv.org/abs/2604.25562
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SnapGuard detects screenshot-based prompt injection through complementary visual
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-25562/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-25562/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mengyao Du, Han Fang, Haokai Ma, Jiahao Chen, Kai Xu, Quanjun Yin, Ee-Chien Chan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-25562/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-25562/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-25562/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-25562/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Windows 11 benchmark for multimodal desktop agents in a reproducible VM that runs locally or in parallel on Azure ML, with a harder mode where agents must set tasks up themselves.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-windowsagentarena/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-windowsagentarena/
 - Original source: https://github.com/microsoft/WindowsAgentArena
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Windows 11 benchmark for multimodal desktop agents in a reproducible VM that run
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-windowsagentarena/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-windowsagentarena/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 GUI grounding research using modality-aware visual reasoning and test-time scaling.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-vivo-dimo-gui/
+- Catalog URL: https://awesomecua.com/resources/github-vivo-dimo-gui/
 - Original source: https://github.com/vivo/DiMo-GUI
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ GUI grounding research using modality-aware visual reasoning and test-time scali
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-vivo-dimo-gui/record.json
+- Record JSON: https://awesomecua.com/resources/github-vivo-dimo-gui/record.json
 
 ## License declarations
 

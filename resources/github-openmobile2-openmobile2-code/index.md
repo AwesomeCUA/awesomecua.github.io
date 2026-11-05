@@ -2,7 +2,7 @@
 
 Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-openmobile2-openmobile2-code/
+- Catalog URL: https://awesomecua.com/resources/github-openmobile2-openmobile2-code/
 - Original source: https://github.com/OpenMobile2/OpenMobile2-Code
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Evaluation adapters and training guidance for OpenMobile-2 across Android emulat
 
 The README marks evaluation code, checkpoints, environments, and data as released; data-construction scripts and other resources remain pending. Each benchmark runtime is started separately. Code terms do not establish dataset permissions.
 
-- Record JSON: https://awesomecua.github.io/resources/github-openmobile2-openmobile2-code/record.json
+- Record JSON: https://awesomecua.com/resources/github-openmobile2-openmobile2-code/record.json
 
 ## License declarations
 

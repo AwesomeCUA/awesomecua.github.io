@@ -2,7 +2,7 @@
 
 ScienceBoard combines an interactive environment with professional scientific software and 169 human-curated tasks in areas including biochemistry, astronomy, and geoinformatics. It evaluates computer-use agents on visually rich research workflows and analyzes their execution limitations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-19897/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-19897/
 - Original source: https://arxiv.org/abs/2505.19897
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ScienceBoard combines an interactive environment with professional scientific so
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-19897/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-19897/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Hai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-19897/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-19897/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-19897/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-19897/citation.csl.json
 
 ## Recorded arXiv snapshot
 

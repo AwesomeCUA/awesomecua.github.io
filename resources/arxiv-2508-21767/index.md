@@ -2,7 +2,7 @@
 
 UItron combines GUI perception and planning data engineering with supervised training and curriculum reinforcement learning in connected mobile and PC environments. It also collects more than one million operation steps across 100 Chinese apps and builds offline and online evaluation environments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-21767/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-21767/
 - Original source: https://arxiv.org/abs/2508.21767
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UItron combines GUI perception and planning data engineering with supervised tra
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-21767/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-21767/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhixiong Zeng, Jing Huang, Liming Zheng, Wenkang Han, Yufeng Zhong, Lei Chen, Lo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-21767/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-21767/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-21767/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-21767/citation.csl.json
 
 ## Recorded arXiv snapshot
 

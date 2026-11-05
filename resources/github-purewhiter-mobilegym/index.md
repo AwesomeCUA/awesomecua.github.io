@@ -2,7 +2,7 @@
 
 A browser-hosted mobile-app simulator with programmable state, parameterized tasks and deterministic state-checking judges for parallel GUI-agent evaluation and online reinforcement learning.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-purewhiter-mobilegym/
+- Catalog URL: https://awesomecua.com/resources/github-purewhiter-mobilegym/
 - Original source: https://github.com/Purewhiter/mobilegym
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ A browser-hosted mobile-app simulator with programmable state, parameterized tas
 
 The inspected code release is v0.1.0, with a separately listed data-v0.1.0 archive. The interaction target is a browser-hosted Android-like simulation; real-device transfer results are separate publisher-reported experiments. Source split manifests contain 160 training IDs and 256 test IDs with no duplicates or overlap. Platform/training code declares Apache-2.0. LICENSE-DATA applies CC-BY-NC-4.0 only to maintainer-created compilation, curation and synthetic content, and explicitly leaves third-party UGC/API terms and author rights separate. No runtime, archive or model was executed/downloaded.
 
-- Record JSON: https://awesomecua.github.io/resources/github-purewhiter-mobilegym/record.json
+- Record JSON: https://awesomecua.com/resources/github-purewhiter-mobilegym/record.json
 
 ## Structured profile
 

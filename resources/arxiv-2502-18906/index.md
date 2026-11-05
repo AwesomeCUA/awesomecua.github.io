@@ -2,7 +2,7 @@
 
 Trains GUI agents with a frozen value model learned from offline interactions, guiding action exploration without predicting complete next observations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-18906/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-18906/
 - Original source: https://arxiv.org/abs/2502.18906
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains GUI agents with a frozen value model learned from offline interactions, g
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-18906/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-18906/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiani Zheng, Lu Wang, Fangkai Yang, Chaoyun Zhang, Lingrui Mei, Wenjie Yin, Qing
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-18906/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-18906/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-18906/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-18906/citation.csl.json
 
 ## Recorded arXiv snapshot
 

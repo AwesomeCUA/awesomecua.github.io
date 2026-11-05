@@ -2,7 +2,7 @@
 
 Studies repeated rejected edits while optimizing a screenshot-only GUI agent, contrasting static probes with reached loop states and testing how rejection wording changes subsequent edit proposals.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-15738/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-15738/
 - Original source: https://arxiv.org/abs/2610.15738
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies repeated rejected edits while optimizing a screenshot-only GUI agent, co
 
 The downstream test uses one screenshot-only agent, nine synthetic apps and 60 cached development items, with TAP-tag or text-answer outputs; this is not demonstrated live-app completion. Two catalogs reword the same 40 edits. Re-proposal effects do not establish internal causal mechanisms or task-success gains. Main serving providers were unpinned; rationale labels came from LLM annotators. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-15738/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-15738/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jianlin Chen, Wenhui Chen, Chi Man Vong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-15738/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-15738/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-15738/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-15738/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Blueprint for quantum computing using electrons on helium. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2303-03688/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2303-03688/
 - Original source: https://arxiv.org/abs/2303.03688
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Blueprint for quantum computing using electrons on heli
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-03688/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2303-03688/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Erika Kawakami, Jiabao Chen, Mónica Benito, Denis Konstantinov
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-03688/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-03688/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2303-03688/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2303-03688/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-skyworkai-agent-studio/
+- Catalog URL: https://awesomecua.com/resources/github-skyworkai-agent-studio/
 - Original source: https://github.com/skyworkai/agent-studio
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Toolkit and Ubuntu-based environment for building and evaluating generalist comp
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-skyworkai-agent-studio/record.json
+- Record JSON: https://awesomecua.com/resources/github-skyworkai-agent-studio/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Mobile agent research using accumulated interaction experience.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-westlake-agi-lab-appagentx/
+- Catalog URL: https://awesomecua.com/resources/github-westlake-agi-lab-appagentx/
 - Original source: https://github.com/Westlake-AGI-Lab/AppAgentX
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Mobile agent research using accumulated interaction experience.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-westlake-agi-lab-appagentx/record.json
+- Record JSON: https://awesomecua.com/resources/github-westlake-agi-lab-appagentx/record.json
 
 ## License declarations
 

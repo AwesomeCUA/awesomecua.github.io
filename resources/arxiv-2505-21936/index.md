@@ -2,7 +2,7 @@
 
 RedTeamCUA combines a virtual-machine OS environment with containerized websites for controlled prompt-injection tests spanning both interfaces. Its RTC-Bench contains 864 examples and can initialize agents at injection points to separate attack susceptibility from navigation failures.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-21936/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-21936/
 - Original source: https://arxiv.org/abs/2505.21936
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ RedTeamCUA combines a virtual-machine OS environment with containerized websites
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-21936/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-21936/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zeyi Liao, Jaylen Jones, Linxi Jiang, Yuting Ning, Eric Fosler-Lussier, Yu Su, Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-21936/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-21936/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-21936/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-21936/citation.csl.json
 
 ## Recorded arXiv snapshot
 

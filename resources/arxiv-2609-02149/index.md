@@ -2,7 +2,7 @@
 
 OmegaUse-SOP converts expert GUI demonstrations into configurable procedures and refines them with domain rules and human input. It records, abstracts, grounds and verifies live execution, with a case study of photovoltaic simulation workflows in PVsyst 7.2.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-02149/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-02149/
 - Original source: https://arxiv.org/abs/2609.02149
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OmegaUse-SOP converts expert GUI demonstrations into configurable procedures and
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-02149/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-02149/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yixiong Xiao, Lang An, Hucheng Yang, Pinxue Ma, Yongquan Chen, Jingjia Cao, Yusa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-02149/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-02149/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-02149/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-02149/citation.csl.json
 
 ## Recorded arXiv snapshot
 

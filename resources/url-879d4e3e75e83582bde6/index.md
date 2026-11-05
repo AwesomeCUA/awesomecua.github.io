@@ -2,7 +2,7 @@
 
 Gemini capability for generating interface actions from screenshots.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-879d4e3e75e83582bde6/
+- Catalog URL: https://awesomecua.com/resources/url-879d4e3e75e83582bde6/
 - Original source: https://ai.google.dev/gemini-api/docs/computer-use
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Gemini capability for generating interface actions from screenshots.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-879d4e3e75e83582bde6/record.json
+- Record JSON: https://awesomecua.com/resources/url-879d4e3e75e83582bde6/record.json
 
 ## License declarations
 

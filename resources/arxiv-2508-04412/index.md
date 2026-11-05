@@ -2,7 +2,7 @@
 
 D2Snap reduces serialized DOM observations while preserving actionable elements and features that distinguish their uses. The study compares reduced DOM inputs with screenshot-based observations for a web agent on tasks sampled from Online-Mind2Web.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-04412/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-04412/
 - Original source: https://arxiv.org/abs/2508.04412
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ D2Snap reduces serialized DOM observations while preserving actionable elements 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04412/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-04412/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Thassilo M. Schiepanski, Nicholas Piël
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04412/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04412/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-04412/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-04412/citation.csl.json
 
 ## Recorded arXiv snapshot
 

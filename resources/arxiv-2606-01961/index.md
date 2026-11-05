@@ -2,7 +2,7 @@
 
 Bibliographic record for AutoMedBench: Towards Medical AutoResearch with Agentic AI Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-01961/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-01961/
 - Original source: https://arxiv.org/abs/2606.01961
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AutoMedBench: Towards Medical AutoResearch with Agentic
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-01961/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-01961/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junqi Liu, Selena Song, Yuhan Wang, Jiawei Mao, Hardy Chen, Xiaoke Huang, Tianha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-01961/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-01961/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-01961/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-01961/citation.csl.json
 
 ## Recorded arXiv snapshot
 

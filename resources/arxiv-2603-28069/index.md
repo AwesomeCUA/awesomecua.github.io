@@ -2,7 +2,7 @@
 
 MolmoPoint replaces textual coordinate generation with pointing tokens that select visual regions and refine them through subpatches. The general image/video method includes GUI-pointing evaluation on ScreenSpotPro alongside other visual grounding tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-28069/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-28069/
 - Original source: https://arxiv.org/abs/2603.28069
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MolmoPoint replaces textual coordinate generation with pointing tokens that sele
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent general VLM pointing method with an explicit GUI-grounding experiment; no autonomous GUI-task execution is established.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-28069/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-28069/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Christopher Clark, Yue Yang, Jae Sung Park, Zixian Ma, Jieyu Zhang, Rohun Tripat
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-28069/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-28069/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-28069/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-28069/citation.csl.json
 
 ## Recorded arXiv snapshot
 

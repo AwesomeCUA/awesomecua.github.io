@@ -2,7 +2,7 @@
 
 Provides an evaluation toolkit for joint safety, efficiency, and multimodal robustness analysis of operating-system GUI agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-24348/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-24348/
 - Original source: https://arxiv.org/abs/2604.24348
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Provides an evaluation toolkit for joint safety, efficiency, and multimodal robu
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-24348/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-24348/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zheng Wu, Yi Hua, Zhaoyuan Huang, Chenhao Xue, Yijie Lu, Pengzhou Cheng, Zongru 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-24348/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-24348/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-24348/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-24348/citation.csl.json
 
 ## Recorded arXiv snapshot
 

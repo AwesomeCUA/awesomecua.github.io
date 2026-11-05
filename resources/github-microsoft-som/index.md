@@ -2,7 +2,7 @@
 
 Visual-prompting toolbox that labels image regions for multimodal reference and grounding, including GUI applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-som/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-som/
 - Original source: https://github.com/microsoft/SoM
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Visual-prompting toolbox that labels image regions for multimodal reference and 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-som/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-som/record.json
 
 ## License declarations
 

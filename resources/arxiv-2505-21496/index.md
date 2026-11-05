@@ -2,7 +2,7 @@
 
 UI-Genie jointly improves a mobile GUI agent and a reward model that processes screenshots with interaction history and supplies action- and task-level feedback. Its data pipeline uses rule-based verification, corrupted trajectories, and hard negatives to support reward-guided exploration and iterative training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-21496/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-21496/
 - Original source: https://arxiv.org/abs/2505.21496
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UI-Genie jointly improves a mobile GUI agent and a reward model that processes s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-21496/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-21496/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Han Xiao, Guozhi Wang, Yuxiang Chai, Zimu Lu, Weifeng Lin, Hao He, Lue Fan, Liuy
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-21496/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-21496/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-21496/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-21496/citation.csl.json
 
 ## Recorded arXiv snapshot
 

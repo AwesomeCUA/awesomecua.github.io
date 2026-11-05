@@ -2,7 +2,7 @@
 
 Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mobile Tools Android apps, installed as a Python library that detects task completion.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-mobileagentbench-mobile-agent-bench/
+- Catalog URL: https://awesomecua.com/resources/github-mobileagentbench-mobile-agent-bench/
 - Original source: https://github.com/MobileAgentBench/mobile-agent-bench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mob
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-mobileagentbench-mobile-agent-bench/record.json
+- Record JSON: https://awesomecua.com/resources/github-mobileagentbench-mobile-agent-bench/record.json
 
 ## License declarations
 

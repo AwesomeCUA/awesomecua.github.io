@@ -2,7 +2,7 @@
 
 Extracts structured GUI actions from screen-recorded tutorials using inverse dynamics, then uses the inferred trajectories for computer-use training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-19488/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-19488/
 - Original source: https://arxiv.org/abs/2510.19488
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Extracts structured GUI actions from screen-recorded tutorials using inverse dyn
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-19488/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-19488/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dunjie Lu, Yiheng Xu, Junli Wang, Haoyuan Wu, Xinyuan Wang, Zekun Wang, Junlin Y
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-19488/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-19488/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-19488/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-19488/citation.csl.json
 
 ## Recorded arXiv snapshot
 

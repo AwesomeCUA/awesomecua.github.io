@@ -2,7 +2,7 @@
 
 Syll combines tool calls, shell execution and visual GUI control in a personal-automation runtime. It turns user demonstrations into reusable skills and exposes execution logs, keyframes and approval checkpoints for inspection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-07594/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-07594/
 - Original source: https://arxiv.org/abs/2606.07594
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Syll combines tool calls, shell execution and visual GUI control in a personal-a
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-07594/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-07594/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bo Zhang, Borui Zhang, Chenghao Jiang, Minglei Shi, Xiaofeng Wang, Zheng Zhu, Ji
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-07594/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-07594/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-07594/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-07594/citation.csl.json
 
 ## Recorded arXiv snapshot
 

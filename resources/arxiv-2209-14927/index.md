@@ -2,7 +2,7 @@
 
 Introduces Spotlight, a vision-language model conditioned on a UI screenshot and a selected region of interest. It evaluates screenshot-based mobile UI understanding and explores multitask learning and few-shot prompting.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2209-14927/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2209-14927/
 - Original source: https://arxiv.org/abs/2209.14927
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Spotlight, a vision-language model conditioned on a UI screenshot and
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2209-14927/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2209-14927/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gang Li, Yang Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2209-14927/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2209-14927/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2209-14927/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2209-14927/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Environment and agent in which a vision-language model controls real desktops over VNC with mouse and keyboard in plan, act and reflect stages, plus a hand-annotated dataset of daily computer tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-niuzaisheng-screenagent/
+- Catalog URL: https://awesomecua.com/resources/github-niuzaisheng-screenagent/
 - Original source: https://github.com/niuzaisheng/ScreenAgent
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Environment and agent in which a vision-language model controls real desktops ov
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-niuzaisheng-screenagent/record.json
+- Record JSON: https://awesomecua.com/resources/github-niuzaisheng-screenagent/record.json
 
 ## License declarations
 

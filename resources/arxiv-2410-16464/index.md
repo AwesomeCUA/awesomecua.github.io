@@ -2,7 +2,7 @@
 
 Compares browsing-only, API-only, and hybrid web agents on WebArena, examining how access to application APIs changes task execution alongside browser interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-16464/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-16464/
 - Original source: https://arxiv.org/abs/2410.16464
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares browsing-only, API-only, and hybrid web agents on WebArena, examining h
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-16464/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-16464/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yueqi Song, Frank Xu, Shuyan Zhou, Graham Neubig
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-16464/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-16464/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-16464/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-16464/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yueqi Song, Frank Xu, Shuyan Zhou, Graham Neubig
 - Authors: Yueqi Song, Frank F. Xu, Shuyan Zhou, Graham Neubig
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.findings-acl.577/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-16464/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-16464/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-16464/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-16464/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2025
 - publisher: Association for Computational Linguistics
 - pages: 11066-11085

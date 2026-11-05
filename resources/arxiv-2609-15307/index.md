@@ -2,7 +2,7 @@
 
 Confidence-Anchored Learning uses coordinate-token confidence to filter pseudo-supervision for GUI grounding. Its negative-only variant performs label-free test-time updates to reduce reliance on potentially incorrect positive examples.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-15307/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-15307/
 - Original source: https://arxiv.org/abs/2609.15307
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Confidence-Anchored Learning uses coordinate-token confidence to filter pseudo-s
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-15307/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-15307/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yizhou Liu, Fei Tang, Yuchen Yan, Zhengxi Lu, Songqin Nong, Tao Jiang, Wenhao Xu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-15307/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-15307/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-15307/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-15307/citation.csl.json
 
 ## Recorded arXiv snapshot
 

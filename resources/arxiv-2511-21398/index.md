@@ -2,7 +2,7 @@
 
 Introduces Prune4Web, where generated scoring programs filter DOM elements according to decomposed subtasks before grounding. An annotation pipeline and two-turn training procedure coordinate the planner, programmatic filter and grounder.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-21398/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-21398/
 - Original source: https://arxiv.org/abs/2511.21398
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Prune4Web, where generated scoring programs filter DOM elements accor
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-21398/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-21398/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiayuan Zhang, Kaiquan Chen, Zhihao Lu, Enshen Zhou, Qian Yu, Jing Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-21398/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-21398/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-21398/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-21398/citation.csl.json
 
 ## Recorded arXiv snapshot
 

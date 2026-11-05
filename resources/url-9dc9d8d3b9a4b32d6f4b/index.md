@@ -2,7 +2,7 @@
 
 A Qwen2.5-VL-3B checkpoint released for R1-style visual grounding experiments, predicting interface target locations from screenshots and instructions.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-9dc9d8d3b9a4b32d6f4b/
+- Catalog URL: https://awesomecua.com/resources/url-9dc9d8d3b9a4b32d6f4b/
 - Original source: https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A Qwen2.5-VL-3B checkpoint released for R1-style visual grounding experiments, p
 
 Two public safetensors shards and model/tokenizer configuration are present. The card declares MIT. Its inference example loads the v1 model but names a different 0.1K processor checkpoint; that example was not executed, and compatibility is not asserted.
 
-- Record JSON: https://awesomecua.github.io/resources/url-9dc9d8d3b9a4b32d6f4b/record.json
+- Record JSON: https://awesomecua.com/resources/url-9dc9d8d3b9a4b32d6f4b/record.json
 
 ## License declarations
 

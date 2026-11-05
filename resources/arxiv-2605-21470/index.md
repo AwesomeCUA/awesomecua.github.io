@@ -2,7 +2,7 @@
 
 Agent JIT compilation turns browser task descriptions into validated executable plans containing model calls, tools and parallel work. A cost-based scheduler and pre/postcondition protocol target latency and incorrect tool use in web-agent execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-21470/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-21470/
 - Original source: https://arxiv.org/abs/2605.21470
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Agent JIT compilation turns browser task descriptions into validated executable 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-21470/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-21470/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Caleb Winston, Ron Yifeng Wang, Azalia Mirhoseini, Christos Kozyrakis
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-21470/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-21470/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-21470/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-21470/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Evaluates duration following, runtime forecasts and elapsed-time estimates in native agent harnesses, including OSWorld desktop tasks, with external timers, native graders and work-versus-wait analysis.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-09944/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-09944/
 - Original source: https://arxiv.org/abs/2610.09944
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates duration following, runtime forecasts and elapsed-time estimates in na
 
 This cross-domain suite includes 16 OSWorld 2.0 tasks among 222 tasks from 18 sources. A single run per task and requested duration, provider effects and incomplete native grades limit comparisons; elapsed time is not evidence of productive work. The OSWorld task 092 video judge was skipped without an API key. The inspected repository README identifies desktop-VM timing and states that the current 222-task forecasting runs will be added; its existing forecasting code covers an earlier study, and transcript work/wait labels are not public. No code or benchmark was executed and no license was verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-09944/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-09944/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Michael Ofengenden, Maksym Andriushchenko
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-09944/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-09944/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-09944/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-09944/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-bytedance-gui-rewalk/
+- Catalog URL: https://awesomecua.com/resources/github-bytedance-gui-rewalk/
 - Original source: https://github.com/bytedance/GUI-ReWalk
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ A desktop trajectory-generation framework that moves from stochastic GUI explora
 
 The inspected source tree contains the random walker, desktop environment integration and run_rewalk.sh. The documented runnable setup uses OSWorld and OmniParser. The README also discusses mobile data and a GUI-ReWalk-7B model, but no separately published corpus or model checkpoint was verified; those are not counted as released assets. Apache-2.0 is scoped to the implementation.
 
-- Record JSON: https://awesomecua.github.io/resources/github-bytedance-gui-rewalk/record.json
+- Record JSON: https://awesomecua.com/resources/github-bytedance-gui-rewalk/record.json
 
 ## License declarations
 

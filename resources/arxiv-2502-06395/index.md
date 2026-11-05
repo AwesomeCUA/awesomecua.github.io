@@ -2,7 +2,7 @@
 
 AppVLM first learns app actions from AndroidControl and then refines its policy through data collected in AndroidWorld. The study compares offline action prediction and online task completion for a lightweight vision-language smartphone agent.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-06395/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-06395/
 - Original source: https://arxiv.org/abs/2502.06395
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AppVLM first learns app actions from AndroidControl and then refines its policy 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-06395/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-06395/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Georgios Papoudakis, Thomas Coste, Zhihao Wu, Jianye Hao, Jun Wang, Kun Shao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-06395/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-06395/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-06395/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-06395/citation.csl.json
 
 ## Recorded arXiv snapshot
 

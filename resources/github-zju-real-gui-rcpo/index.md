@@ -2,7 +2,7 @@
 
 GUI-grounding research code for spatial voting across sampled predictions and test-time policy optimization using region-consistency rewards.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-zju-real-gui-rcpo/
+- Catalog URL: https://awesomecua.com/resources/github-zju-real-gui-rcpo/
 - Original source: https://github.com/ZJU-REAL/GUI-RCPO
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ GUI-grounding research code for spatial voting across sampled predictions and te
 
 The tree contains GUI-RC evaluation code and VLM-R1-based training scripts, with example JSONL-format paths. It requires separately supplied models and benchmark images; no released trained checkpoint is established here. Apache-2.0 files exist inside VLM-R1 subdirectories, but no repository-wide license is present for all newly added code, so the code slot remains unknown and the component notices are retained.
 
-- Record JSON: https://awesomecua.github.io/resources/github-zju-real-gui-rcpo/record.json
+- Record JSON: https://awesomecua.com/resources/github-zju-real-gui-rcpo/record.json
 
 ## License declarations
 

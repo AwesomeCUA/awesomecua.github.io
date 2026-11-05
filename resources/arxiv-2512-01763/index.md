@@ -2,7 +2,7 @@
 
 HiconAgent trains GUI policies to use history through variable-length context sampling and paired policy updates with compressed and complete histories. Its compression retains past actions while removing historical observations, and an alignment loss couples the two branches.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-01763/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-01763/
 - Original source: https://arxiv.org/abs/2512.01763
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ HiconAgent trains GUI policies to use history through variable-length context sa
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-01763/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-01763/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xurui Zhou, Gongwei Chen, Yuquan Xie, Zaijing Li, Kaiwen Zhou, Shuai Wang, Shuo 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-01763/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-01763/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-01763/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-01763/citation.csl.json
 
 ## Recorded arXiv snapshot
 

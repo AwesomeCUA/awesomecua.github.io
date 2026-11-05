@@ -2,7 +2,7 @@
 
 A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-omxyz-lumen/
+- Catalog URL: https://awesomecua.com/resources/github-omxyz-lumen/
 - Original source: https://github.com/omxyz/lumen
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable 
 
 Public TypeScript source and npm package metadata are available; the inspected package version is 0.2.0. The package declares Node ^20.19.0 or >=22.12.0 and requires a browser and model provider. Its README benchmark is explicitly preliminary and uses a small WebVoyager subset; this catalog makes no comparative performance or independent safety claim. Referenced research influences are not asserted as papers introducing Lumen.
 
-- Record JSON: https://awesomecua.github.io/resources/github-omxyz-lumen/record.json
+- Record JSON: https://awesomecua.com/resources/github-omxyz-lumen/record.json
 
 ## License declarations
 

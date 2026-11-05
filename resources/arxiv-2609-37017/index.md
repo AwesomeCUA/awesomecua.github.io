@@ -2,7 +2,7 @@
 
 Bibliographic record for LatCom: Cross-Agent Latent Compression for Efficient Multi-Agent Collaboration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-37017/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-37017/
 - Original source: https://arxiv.org/abs/2609.37017
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for LatCom: Cross-Agent Latent Compression for Efficient Mu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-37017/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-37017/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shinan Zhang, Tao Zhang, Qihui Zhu, Mengjie Zhang, Dong Jin, Yunpeng Hou, Shuang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-37017/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-37017/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-37017/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-37017/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for WebTrap: Stealthy Mid-Task Hijacking of Browser Agents During Navigation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-08310/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-08310/
 - Original source: https://arxiv.org/abs/2605.08310
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for WebTrap: Stealthy Mid-Task Hijacking of Browser Agents 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-08310/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-08310/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhichao Liu, Wenbo Pan, Haining Yu, Ge Gao, Tianqing Zhu, Xiaohua Jia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-08310/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-08310/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-08310/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-08310/citation.csl.json
 
 ## Recorded arXiv snapshot
 

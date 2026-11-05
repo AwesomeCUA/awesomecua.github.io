@@ -2,7 +2,7 @@
 
 Presents OpenMobile, which builds exploration-based environment memory to synthesize task instructions and switches between learner and expert policies during trajectory collection. The resulting data includes recovery behavior and is tested through mobile-agent training and benchmark-overlap analysis.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-15093/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-15093/
 - Original source: https://arxiv.org/abs/2604.15093
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents OpenMobile, which builds exploration-based environment memory to synthe
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-15093/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-15093/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kanzhi Cheng, Zehao Li, Zheng Ma, Nuo Chen, Jialin Cao, Qiushi Sun, Zichen Ding,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-15093/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-15093/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-15093/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-15093/citation.csl.json
 
 ## Recorded arXiv snapshot
 

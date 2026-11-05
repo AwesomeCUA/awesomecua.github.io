@@ -2,7 +2,7 @@
 
 Separates multimodal reasoning and action planning from a dedicated UI localization model, with evaluation on Android devices.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-11872/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-11872/
 - Original source: https://arxiv.org/abs/2410.11872
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Separates multimodal reasoning and action planning from a dedicated UI localizat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-11872/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-11872/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jakub Hoscilowicz, Bartosz Maj, Bartosz Kozakiewicz, Oleksii Tymoshchuk, Artur J
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-11872/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-11872/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-11872/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-11872/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Jakub Hoscilowicz, Bartosz Maj, Bartosz Kozakiewicz, Oleksii Tymoshchuk, Artur J
 - Authors: Jakub Hoscilowicz, Bartosz Maj, Bartosz Kozakiewicz, Oleksii Tymoshchuk, Artur Janicki
 - Publication date (recorded precision): 2025-08
 - Publication source: https://aclanthology.org/2025.sigdial-1.38/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-11872/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-11872/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-11872/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-11872/publication-citation.csl.json
 - venue: Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue
 - publisher: Association for Computational Linguistics
 - pages: 471-476

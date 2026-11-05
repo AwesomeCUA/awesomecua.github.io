@@ -2,7 +2,7 @@
 
 OpenForgeRL connects stateful agent harnesses to reinforcement-learning infrastructure through a model-call recording proxy and isolated rollout containers. Its validation includes browser and computer-use agents, alongside tool-oriented agents, and examines how harness choice affects learned reliability.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-21557/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-21557/
 - Original source: https://arxiv.org/abs/2607.21557
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OpenForgeRL connects stateful agent harnesses to reinforcement-learning infrastr
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-21557/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-21557/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, Qianhui Wu, Hao Cheng, Wenlin Yao, Nikh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-21557/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-21557/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-21557/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-21557/citation.csl.json
 
 ## Recorded arXiv snapshot
 

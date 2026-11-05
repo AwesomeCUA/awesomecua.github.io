@@ -2,7 +2,7 @@
 
 Audits sources of ambiguity and operational variation in WebVoyager evaluation and introduces standardized guidance for task setup, failure handling, annotation and reporting. Emergence WebVoyager applies this protocol to a web-agent evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-29020/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-29020/
 - Original source: https://arxiv.org/abs/2603.29020
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Audits sources of ambiguity and operational variation in WebVoyager evaluation a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-29020/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-29020/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Deepak Akkil, Mowafak Allaham, Amal Raj, Tamer Abuelsaad, Ravi Kokku
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-29020/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-29020/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-29020/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-29020/citation.csl.json
 
 ## Recorded arXiv snapshot
 

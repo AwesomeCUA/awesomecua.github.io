@@ -2,7 +2,7 @@
 
 Bibliographic record for SNC: A Cloud Service Platform for Symbolic-Numeric Computation using Just-In-Time Compilation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1802-04766/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1802-04766/
 - Original source: https://arxiv.org/abs/1802.04766
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SNC: A Cloud Service Platform for Symbolic-Numeric Comp
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1802-04766/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1802-04766/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Peng Zhang, Yueming Liu, Meikang Qiu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1802-04766/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1802-04766/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1802-04766/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1802-04766/citation.csl.json
 
 ## Recorded arXiv snapshot
 

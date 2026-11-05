@@ -2,7 +2,7 @@
 
 Studies a controlled setting where GRPO fails to improve a strong small web agent and can reduce text-track performance. Matched reachable-reward tasks and component grafting distinguish limited optimization headroom from learning-rate-dependent failure mechanisms.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-12640/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-12640/
 - Original source: https://arxiv.org/abs/2607.12640
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies a controlled setting where GRPO fails to improve a strong small web agen
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-12640/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-12640/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chengguang Gan, Zhixi Cai, Yunhao Liang, Hanjun Wei, Shiwen Ni, Qinghao Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-12640/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-12640/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-12640/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-12640/citation.csl.json
 
 ## Recorded arXiv snapshot
 

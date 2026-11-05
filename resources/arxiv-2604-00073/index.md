@@ -2,7 +2,7 @@
 
 Bibliographic record for Terminal Agents Suffice for Enterprise Automation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-00073/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-00073/
 - Original source: https://arxiv.org/abs/2604.00073
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Terminal Agents Suffice for Enterprise Automation. Titl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-00073/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-00073/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Patrice Bechard, Orlando Marquez Ayala, Emily Chen, Jordan Skelton, Sagar Davasa
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-00073/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-00073/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-00073/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-00073/citation.csl.json
 
 ## Recorded arXiv snapshot
 

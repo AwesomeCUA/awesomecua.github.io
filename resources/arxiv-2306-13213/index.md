@@ -2,7 +2,7 @@
 
 Bibliographic record for Visual Adversarial Examples Jailbreak Aligned Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2306-13213/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2306-13213/
 - Original source: https://arxiv.org/abs/2306.13213
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Visual Adversarial Examples Jailbreak Aligned Large Lan
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-13213/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2306-13213/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiangyu Qi, Kaixuan Huang, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-13213/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-13213/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2306-13213/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2306-13213/citation.csl.json
 
 ## Recorded arXiv snapshot
 

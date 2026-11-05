@@ -2,7 +2,7 @@
 
 StepReflect predicts structured per-action reflections from transition specifications and paired visual evidence. The paper distinguishes offline transition-label accuracy from online task success when the reflection model is integrated into mobile agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-05587/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-05587/
 - Original source: https://arxiv.org/abs/2608.05587
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ StepReflect predicts structured per-action reflections from transition specifica
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-05587/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-05587/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Linqiang Guo, Wei Liu, Li Gu, Yang Wang, Tse-Hsun, Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-05587/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-05587/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-05587/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-05587/citation.csl.json
 
 ## Recorded arXiv snapshot
 

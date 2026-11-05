@@ -2,7 +2,7 @@
 
 Bibliographic record for PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-11880/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-11880/
 - Original source: https://arxiv.org/abs/2401.11880
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PsySafe: A Comprehensive Framework for Psychological-ba
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-11880/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-11880/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zaibin Zhang, Yongting Zhang, Lijun Li, Hongzhi Gao, Lijun Wang, Huchuan Lu, Fen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-11880/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-11880/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-11880/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-11880/citation.csl.json
 
 ## Recorded arXiv snapshot
 

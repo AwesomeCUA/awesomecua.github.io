@@ -2,7 +2,7 @@
 
 Open-source browser agent library that runs locally with any LLM against a local or cloud browser, and also serves as a CLI for coding agents and as a driver for Claude's browser toolset.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-browser-use-browser-use/
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-browser-use/
 - Original source: https://github.com/browser-use/browser-use
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Open-source browser agent library that runs locally with any LLM against a local
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-browser-use-browser-use/record.json
+- Record JSON: https://awesomecua.com/resources/github-browser-use-browser-use/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2205-11622/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2205-11622/
 - Original source: https://arxiv.org/abs/2205.11622
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SparseLNR: Accelerating Sparse Tensor Computations Usin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2205-11622/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2205-11622/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Adhitha Dias, Kirshanthan Sundararajah, Charitha Saumya, Milind Kulkarni
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2205-11622/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2205-11622/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2205-11622/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2205-11622/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Presents an agent-engineering framework combining runtime goal clarification, an observable component architecture and evolving execution memory. The Fairy mobile GUI agent evaluates these mechanisms on ambiguous tasks and through controlled and user studies.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-20729/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-20729/
 - Original source: https://arxiv.org/abs/2509.20729
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents an agent-engineering framework combining runtime goal clarification, an
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-20729/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-20729/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiazheng Sun, Ruimeng Yang, Xu Han, Jiayang Niu, Mingxuan Li, Te Yang, Yongyong 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-20729/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-20729/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-20729/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-20729/citation.csl.json
 
 ## Recorded arXiv snapshot
 

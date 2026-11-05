@@ -2,7 +2,7 @@
 
 Evaluates multimodal LLMs on web interface reasoning, visual perturbation robustness, and safety-critical web understanding tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-21782/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-21782/
 - Original source: https://arxiv.org/abs/2509.21782
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates multimodal LLMs on web interface reasoning, visual perturbation robust
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21782/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-21782/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junliang Liu, Jingyu Xiao, Wenxin Tang, Zhixian Wang, Zipeng Xie, Wenxuan Wang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21782/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21782/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-21782/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-21782/citation.csl.json
 
 ## Recorded arXiv snapshot
 

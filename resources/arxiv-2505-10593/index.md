@@ -2,7 +2,7 @@
 
 LLM-Explorer uses language models to maintain compact knowledge for mobile app exploration, then generates actions without invoking the model at every step. The study compares exploration coverage and cost across twenty apps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-10593/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-10593/
 - Original source: https://arxiv.org/abs/2505.10593
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LLM-Explorer uses language models to maintain compact knowledge for mobile app e
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-10593/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-10593/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shanhui Zhao, Hao Wen, Wenjie Du, Cheng Liang, Yunxin Liu, Xiaozhou Ye, Ye Ouyan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-10593/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-10593/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-10593/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-10593/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Builds a web agent through simplified HTML observations, human-and-AI browsing data, curriculum training, and reinforcement-learning refinement.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-03648/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-03648/
 - Original source: https://arxiv.org/abs/2404.03648
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Builds a web agent through simplified HTML observations, human-and-AI browsing d
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-03648/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-03648/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hanyu Lai, Xiao Liu, Iat Long Iong, Shuntian Yao, Yuxuan Chen, Pengbo Shen, Hao 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-03648/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-03648/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-03648/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-03648/citation.csl.json
 
 ## Recorded arXiv snapshot
 

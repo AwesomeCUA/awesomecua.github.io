@@ -2,7 +2,7 @@
 
 Introduces AgentBoard, a multiturn agent evaluation framework with intermediate progress metrics and analysis tools. Its broader task suite includes WebShop and WebArena interactions with stepwise progress measurements.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-13178/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2401-13178/
 - Original source: https://arxiv.org/abs/2401.13178
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AgentBoard, a multiturn agent evaluation framework with intermediate 
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The full paper documents search/click WebShop actions and 11 browser actions in WebArena, while the overall benchmark also covers non-web domains.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-13178/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2401-13178/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-13178/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-13178/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2401-13178/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2401-13178/citation.csl.json
 
 ## Recorded arXiv snapshot
 

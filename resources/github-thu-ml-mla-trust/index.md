@@ -2,7 +2,7 @@
 
 Unified evaluation framework measuring truthfulness, controllability, safety, and privacy of multimodal LLM agents across interactive web and mobile GUI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-thu-ml-mla-trust/
+- Catalog URL: https://awesomecua.com/resources/github-thu-ml-mla-trust/
 - Original source: https://github.com/thu-ml/MLA-Trust
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Unified evaluation framework measuring truthfulness, controllability, safety, an
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-thu-ml-mla-trust/record.json
+- Record JSON: https://awesomecua.com/resources/github-thu-ml-mla-trust/record.json
 
 ## License declarations
 

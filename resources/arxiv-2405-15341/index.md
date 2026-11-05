@@ -2,7 +2,7 @@
 
 Describes V-Zen, a multimodal GUI model with dual-resolution image encoders for grounding and next-action prediction, fine-tuned using GUIDE interface elements and task sequences.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2405-15341/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2405-15341/
 - Original source: https://arxiv.org/abs/2405.15341
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes V-Zen, a multimodal GUI model with dual-resolution image encoders for 
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. The related GUIDE dataset paper remains a separate record; this annotation describes the V-Zen model contribution.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-15341/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2405-15341/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Abdur Rahman, Rajat Chawla, Muskaan Kumar, Arkajit Datta, Adarsh Jha, Mukunda NS
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-15341/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-15341/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2405-15341/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2405-15341/citation.csl.json
 
 ## Recorded arXiv snapshot
 

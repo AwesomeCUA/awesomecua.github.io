@@ -2,7 +2,7 @@
 
 Studies explicit textual estimates of latent UI state, including whether commanded actions occurred and how far a task has progressed. The experiments compare agents that reason with these estimates against agents that omit them across public and internal task benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2405-11120/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2405-11120/
 - Original source: https://arxiv.org/abs/2405.11120
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies explicit textual estimates of latent UI state, including whether command
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-11120/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2405-11120/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ William E Bishop, Alice Li, Christopher Rawles, Oriana Riva
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-11120/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-11120/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2405-11120/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2405-11120/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Proposes WebMCP-Phalanx, a browser-integrated runtime that binds page-exposed tools to their registering principals and separates content inspection from privileged invocation. It studies lifecycle and prompt-injection attacks, including a timing bypass that motivates validating all visible metadata before tool use.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-24017/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-24017/
 - Original source: https://arxiv.org/abs/2608.24017
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes WebMCP-Phalanx, a browser-integrated runtime that binds page-exposed to
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24017/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-24017/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lin-Fa Lee, YI-YU Chang, Kuo-Hui Yeh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24017/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24017/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-24017/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-24017/citation.csl.json
 
 ## Recorded arXiv snapshot
 

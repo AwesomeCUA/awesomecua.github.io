@@ -2,7 +2,7 @@
 
 VideoCADFormer training, action-log preprocessing and evaluation code for learning CAD interface action sequences from screen recordings of browser-based Onshape.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-ghadinehme-videocad/
+- Catalog URL: https://awesomecua.com/resources/github-ghadinehme-videocad/
 - Original source: https://github.com/ghadinehme/VideoCAD
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ VideoCADFormer training, action-log preprocessing and evaluation code for learni
 
 The paper links this author repository. Training, preprocessing, model and evaluation source files are released; runtime behavior has not been independently reproduced. Onshape is a browser-based CAD environment; supported operating systems are not inferred. The full dataset and a checkpoint are linked separately, and their payloads were not downloaded for this review. MIT is recorded only for this repository code; external data and weight licenses remain unknown.
 
-- Record JSON: https://awesomecua.github.io/resources/github-ghadinehme-videocad/record.json
+- Record JSON: https://awesomecua.com/resources/github-ghadinehme-videocad/record.json
 
 ## License declarations
 

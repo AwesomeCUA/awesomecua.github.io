@@ -2,7 +2,7 @@
 
 Browser automation library used as an execution layer by agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-playwright/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-playwright/
 - Original source: https://github.com/microsoft/playwright
 - Kind: infrastructure
 - Review: curated
@@ -16,7 +16,7 @@ Browser automation library used as an execution layer by agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-playwright/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-playwright/record.json
 
 ## License declarations
 

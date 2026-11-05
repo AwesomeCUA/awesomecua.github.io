@@ -2,7 +2,7 @@
 
 Bibliographic record for OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-08876/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-08876/
 - Original source: https://arxiv.org/abs/2605.08876
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for OTora: A Unified Red Teaming Framework for Reasoning-Le
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-08876/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-08876/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinyu Li, Ronghui Mu, Lin Li, Tianjin Huang, Gaojie Jin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-08876/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-08876/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-08876/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-08876/citation.csl.json
 
 ## Recorded arXiv snapshot
 

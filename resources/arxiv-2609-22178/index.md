@@ -2,7 +2,7 @@
 
 Introduces SCOPE, which trains computer-use agents on ordinary task demonstrations, safe continuations around hazards, and explicit refusals. Its SCOPE-Gen pipeline pairs verifiable tasks with environmental-risk variants to support joint capability and safety training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-22178/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-22178/
 - Original source: https://arxiv.org/abs/2609.22178
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SCOPE, which trains computer-use agents on ordinary task demonstratio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-22178/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-22178/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zeyu Kang, Zhenyun Yin, Yang Zhang, Shan He, Shanzhe Lei, Yanjiu Zhong, Xinquan 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-22178/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-22178/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-22178/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-22178/citation.csl.json
 
 ## Recorded arXiv snapshot
 

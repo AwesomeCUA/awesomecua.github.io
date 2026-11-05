@@ -2,7 +2,7 @@
 
 HTML and annotation release used for Code2World’s action-conditioned GUI-state prediction training, constructed from mobile GUI trajectories.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-cf4d2d45a7314cb16acb/
+- Catalog URL: https://awesomecua.com/resources/url-cf4d2d45a7314cb16acb/
 - Original source: https://huggingface.co/datasets/GD-ML/AndroidCode
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ HTML and annotation release used for Code2World’s action-conditioned GUI-state
 
 The Hub card is license-only; semantic description and reported scale come from the official Code2World README. The public manifest contains HTML files, Android-Control train/test JSON files and extraction/loading scripts. It does not list standalone screenshot image files, and embedded/reference image packaging was not inspected. MIT is the data-card declaration, not a grant for every upstream source dataset.
 
-- Record JSON: https://awesomecua.github.io/resources/url-cf4d2d45a7314cb16acb/record.json
+- Record JSON: https://awesomecua.com/resources/url-cf4d2d45a7314cb16acb/record.json
 
 ## Structured profile
 

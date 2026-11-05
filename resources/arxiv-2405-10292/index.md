@@ -2,7 +2,7 @@
 
 Bibliographic record for Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2405-10292/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2405-10292/
 - Original source: https://arxiv.org/abs/2405.10292
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Fine-Tuning Large Vision-Language Models as Decision-Ma
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-10292/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2405-10292/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuexiang Zhai, Hao Bai, Zipeng Lin, Jiayi Pan, Shengbang Tong, Yifei Zhou, Alane
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-10292/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-10292/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2405-10292/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2405-10292/citation.csl.json
 
 ## Recorded arXiv snapshot
 

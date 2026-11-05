@@ -2,7 +2,7 @@
 
 AJ-Bench evaluates judge agents that actively gather evidence from search, data systems and graphical interfaces. Its annotated tasks and trajectories test information acquisition, state verification and process verification.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-18240/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-18240/
 - Original source: https://arxiv.org/abs/2604.18240
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AJ-Bench evaluates judge agents that actively gather evidence from search, data 
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-18240/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-18240/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wentao Shi, Yu Wang, Yuyang Zhao, Yuxin Chen, Fuli Feng, Xueyuan Hao, Xi Su, Qi 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-18240/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-18240/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-18240/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-18240/citation.csl.json
 
 ## Recorded arXiv snapshot
 

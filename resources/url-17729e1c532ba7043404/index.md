@@ -2,7 +2,7 @@
 
 Instruction variants over ScreenSpot-v2 screenshots that distinguish original commands, explicit actions, target descriptions and impossible operations.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-17729e1c532ba7043404/
+- Catalog URL: https://awesomecua.com/resources/url-17729e1c532ba7043404/
 - Original source: https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Instruction variants over ScreenSpot-v2 screenshots that distinguish original co
 
 Public image files and desktop/mobile/web annotation JSON files are listed. This is a changed instruction set over an existing screenshot collection, not an independent new screenshot corpus. No data license or precise example count is declared in the card; no paper relationship is inferred from its generic project/PDF links.
 
-- Record JSON: https://awesomecua.github.io/resources/url-17729e1c532ba7043404/record.json
+- Record JSON: https://awesomecua.com/resources/url-17729e1c532ba7043404/record.json
 
 ## Structured profile
 

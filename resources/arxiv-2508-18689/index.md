@@ -2,7 +2,7 @@
 
 Proposes a proactive GUI assistant that gathers information across domains in response to user requests and anticipated information needs.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-18689/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-18689/
 - Original source: https://arxiv.org/abs/2508.18689
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes a proactive GUI assistant that gathers information across domains in re
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-18689/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-18689/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuyang Zhao, Wentao Shi, Fuli Feng, Xiangnan He
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-18689/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-18689/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-18689/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-18689/citation.csl.json
 
 ## Recorded arXiv snapshot
 

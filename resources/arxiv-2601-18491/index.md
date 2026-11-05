@@ -2,7 +2,7 @@
 
 Bibliographic record for AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-18491/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-18491/
 - Original source: https://arxiv.org/abs/2601.18491
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AgentDoG: A Diagnostic Guardrail Framework for AI Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-18491/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-18491/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dongrui Liu, Qihan Ren, Chen Qian, Shuai Shao, Yuejin Xie, Yu Li, Zhonghao Yang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-18491/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-18491/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-18491/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-18491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

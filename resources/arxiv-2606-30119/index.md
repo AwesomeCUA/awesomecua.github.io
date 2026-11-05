@@ -2,7 +2,7 @@
 
 Evaluates web agents against anti-bot mechanisms on instrumented honeysites and analyzes network, HTTP and browser fingerprints. The study compares resistance to blocking with the ability to distinguish agents, humans and agent implementations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-30119/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-30119/
 - Original source: https://arxiv.org/abs/2606.30119
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates web agents against anti-bot mechanisms on instrumented honeysites and 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-30119/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-30119/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Iliana Fayolle, Sihem Bouhenniche, Samuel Pélissier, Pierre Laperdrix, Clément
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-30119/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-30119/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-30119/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-30119/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 FingerTip 20K gathers 20K human Android demonstrations from users' long-term everyday app use, with user context, to evaluate proactive task suggestion and preference-aware task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-21071/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-21071/
 - Original source: https://arxiv.org/abs/2507.21071
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ FingerTip 20K gathers 20K human Android demonstrations from users' long-term eve
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-21071/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-21071/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qinglong Yang, Haoming Li, Haotian Zhao, Xiaokai Yan, Jingtao Ding, Fengli Xu, Y
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-21071/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-21071/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-21071/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-21071/citation.csl.json
 
 ## Recorded arXiv snapshot
 

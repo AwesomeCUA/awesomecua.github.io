@@ -2,7 +2,7 @@
 
 ERPBench evaluates screenshot-only agents in enterprise software using database values to check the business records produced by their actions. It pairs these state-based checks with a harness for human approval and analyzes cases where visible completion masks incorrect persisted data.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-17885/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-17885/
 - Original source: https://arxiv.org/abs/2609.17885
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ERPBench evaluates screenshot-only agents in enterprise software using database 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-17885/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-17885/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kratika Bhagtani, Kusha Sridhar, Maziyar Baran Pouyan, Yuying Zhao, Eugene Siow
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-17885/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-17885/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-17885/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-17885/citation.csl.json
 
 ## Recorded arXiv snapshot
 

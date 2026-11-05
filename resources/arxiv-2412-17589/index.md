@@ -2,7 +2,7 @@
 
 Combines PC Tracker interaction capture, completion of action and reasoning annotations, and planning and grounding agents for desktop workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-17589/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-17589/
 - Original source: https://arxiv.org/abs/2412.17589
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines PC Tracker interaction capture, completion of action and reasoning anno
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-17589/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-17589/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yanheng He, Jiahe Jin, Shijie Xia, Jiadi Su, Runze Fan, Haoyang Zou, Xiangkun Hu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-17589/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-17589/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-17589/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-17589/citation.csl.json
 
 ## Recorded arXiv snapshot
 

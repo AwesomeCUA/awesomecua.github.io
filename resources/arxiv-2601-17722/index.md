@@ -2,7 +2,7 @@
 
 Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks rather than screenshot similarity alone.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-17722/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-17722/
 - Original source: https://arxiv.org/abs/2601.17722
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic fr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-17722/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-17722/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ying Mo, Yu Bai, Dapeng Sun, Yuqian Shi, Yukai Miao, Li Chen, Dan Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-17722/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-17722/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-17722/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-17722/citation.csl.json
 
 ## Recorded arXiv snapshot
 

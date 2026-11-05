@@ -2,7 +2,7 @@
 
 Bibliographic record for GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-15715/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-15715/
 - Original source: https://arxiv.org/abs/2604.15715
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for GTA-2: Benchmarking General Tool Agents from Atomic Too
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-15715/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-15715/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jize Wang, Xuanxuan Liu, Yining Li, Songyang Zhang, Yijun Wang, Zifei Shan, Xiny
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-15715/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-15715/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-15715/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-15715/citation.csl.json
 
 ## Recorded arXiv snapshot
 

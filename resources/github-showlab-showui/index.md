@@ -2,7 +2,7 @@
 
 Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, released with UI-guided token selection, training code, the ShowUI-web and ShowUI-desktop datasets and vLLM inference.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-showlab-showui/
+- Catalog URL: https://awesomecua.com/resources/github-showlab-showui/
 - Original source: https://github.com/showlab/ShowUI
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-showlab-showui/record.json
+- Record JSON: https://awesomecua.com/resources/github-showlab-showui/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Last Translation Benchmark. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-04173/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-04173/
 - Original source: https://arxiv.org/abs/2609.04173
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Last Translation Benchmark. Title, authors and dates ch
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-04173/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-04173/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Vilém Zouhar, Niyati Bafna, Mukund Choudhary, Maike Züfle, Sara Rajaee, Pinzhe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-04173/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-04173/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-04173/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-04173/citation.csl.json
 
 ## Recorded arXiv snapshot
 

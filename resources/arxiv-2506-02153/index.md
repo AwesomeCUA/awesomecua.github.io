@@ -2,7 +2,7 @@
 
 Bibliographic record for Small Language Models are the Future of Agentic AI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-02153/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-02153/
 - Original source: https://arxiv.org/abs/2506.02153
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for Small Language Models are the Future of Agentic AI. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-02153/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-02153/record.json
 
 ## Recorded reviewer hold
 
 This is a general position on small language models in agentic architectures\. The abstract does not establish a specific computer\-interface application for adjacent inclusion\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Peter Belcak, Greg Heinrich, Shizhe Diao, Yonggan Fu, Xin Dong, Saurav Muralidha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-02153/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-02153/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-02153/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-02153/citation.csl.json
 
 ## Recorded arXiv snapshot
 

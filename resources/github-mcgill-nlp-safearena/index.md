@@ -2,7 +2,7 @@
 
 Web-agent benchmark pairing benign and harmful tasks to study deliberate misuse risks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-mcgill-nlp-safearena/
+- Catalog URL: https://awesomecua.com/resources/github-mcgill-nlp-safearena/
 - Original source: https://github.com/McGill-NLP/safearena
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Web-agent benchmark pairing benign and harmful tasks to study deliberate misuse 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-mcgill-nlp-safearena/record.json
+- Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-safearena/record.json
 
 ## Structured profile
 

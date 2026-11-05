@@ -2,7 +2,7 @@
 
 Introduces MobileGPT, which organizes mobile-app experience into reusable subtasks using an explore, select, derive, and recall cycle. Its memory supports learning task procedures and adapting them to new contexts.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2312-03003/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2312-03003/
 - Original source: https://arxiv.org/abs/2312.03003
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MobileGPT, which organizes mobile-app experience into reusable subtas
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-03003/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2312-03003/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sunjae Lee, Junyoung Choi, Jungjae Lee, Munim Hasan Wasi, Hojun Choi, Steven Y. 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-03003/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-03003/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2312-03003/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2312-03003/citation.csl.json
 
 ## Recorded arXiv snapshot
 

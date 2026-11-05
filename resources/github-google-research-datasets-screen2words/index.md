@@ -2,7 +2,7 @@
 
 Mobile screen descriptions for language-based screen understanding.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-google-research-datasets-screen2words/
+- Catalog URL: https://awesomecua.com/resources/github-google-research-datasets-screen2words/
 - Original source: https://github.com/google-research-datasets/screen2words
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Mobile screen descriptions for language-based screen understanding.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-google-research-datasets-screen2words/record.json
+- Record JSON: https://awesomecua.com/resources/github-google-research-datasets-screen2words/record.json
 
 ## Structured profile
 

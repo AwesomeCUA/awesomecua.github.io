@@ -2,7 +2,7 @@
 
 Introduces CogniWeb, which switches between fast reactive processing and slower deliberative reasoning according to task complexity. WebArena experiments examine this combination of learned behaviors and online planning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-05081/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-05081/
 - Original source: https://arxiv.org/abs/2508.05081
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CogniWeb, which switches between fast reactive processing and slower 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05081/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-05081/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiarun Liu, Chunhong Zhang, Zheng Hu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05081/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05081/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-05081/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-05081/citation.csl.json
 
 ## Recorded arXiv snapshot
 

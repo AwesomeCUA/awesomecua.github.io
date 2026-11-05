@@ -2,7 +2,7 @@
 
 Bibliographic record for ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-16116/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-16116/
 - Original source: https://arxiv.org/abs/2605.16116
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for ShopGym: An Integrated Framework for Realistic Simulati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-16116/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-16116/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chinmay Savadikar, Mingyu Zhao, Yuanzheng Zhu, Han Li, Shuang Xie, Alberto Caste
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-16116/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-16116/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-16116/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-16116/citation.csl.json
 
 ## Recorded arXiv snapshot
 

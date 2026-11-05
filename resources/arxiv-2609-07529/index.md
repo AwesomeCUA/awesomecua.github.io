@@ -2,7 +2,7 @@
 
 Bibliographic record for CoER: Defending against Adaptive Indirect Prompt Injection via Adversarial Co-Evolution and Refinement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-07529/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-07529/
 - Original source: https://arxiv.org/abs/2609.07529
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CoER: Defending against Adaptive Indirect Prompt Inject
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-07529/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-07529/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Boyang Zhang, Qingxin Xiao, Lingwei Dang, Qingyao Wu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-07529/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-07529/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-07529/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-07529/citation.csl.json
 
 ## Recorded arXiv snapshot
 

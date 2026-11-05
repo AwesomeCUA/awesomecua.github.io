@@ -2,7 +2,7 @@
 
 Introduces Gym-Anything, where a setup agent configures software environments and an independent auditor checks the resulting evidence. CUA-World supplies long-horizon tasks across professional applications, with experiments on trajectory distillation and test-time auditing.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-06126/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-06126/
 - Original source: https://arxiv.org/abs/2604.06126
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Gym-Anything, where a setup agent configures software environments an
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06126/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-06126/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pranjal Aggarwal, Graham Neubig, Sean Welleck
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06126/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06126/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-06126/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-06126/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-570654ff67ecefa2b955/
+- Catalog URL: https://awesomecua.com/resources/url-570654ff67ecefa2b955/
 - Original source: https://huggingface.co/datasets/runamu/MONDAY
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Video-derived mobile navigation annotations that pair scene boundaries and scree
 
 The ungated Hub publishes four Parquet splits containing video identifiers and annotations. Original videos and extracted screenshots must be obtained separately; the code README explains that consumers download source videos from YouTube. A Windows Mobile unseen-OS test split is documented but is not labeled desktop Windows here. The companion code has an Apache-2.0 file, while the data card declares no data license and the repository defers third-party materials to original terms. Training scripts, pretrained checkpoints and the full generation pipeline remain planned updates.
 
-- Record JSON: https://awesomecua.github.io/resources/url-570654ff67ecefa2b955/record.json
+- Record JSON: https://awesomecua.com/resources/url-570654ff67ecefa2b955/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-14884/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-14884/
 - Original source: https://arxiv.org/abs/2406.14884
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for FlowBench: Revisiting and Benchmarking Workflow-Guided 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-14884/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-14884/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruixuan Xiao, Wentao Ma, Ke Wang, Yuchuan Wu, Junbo Zhao, Haobo Wang, Fei Huang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-14884/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-14884/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-14884/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-14884/citation.csl.json
 
 ## Recorded arXiv snapshot
 

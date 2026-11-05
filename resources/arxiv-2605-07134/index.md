@@ -2,7 +2,7 @@
 
 Reorganizes webpage accessibility trees into functional regions through hierarchical decomposition and semantic abstraction. PageDigest supplies a persistent region-level observation to web agents, evaluated on WebArena.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-07134/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-07134/
 - Original source: https://arxiv.org/abs/2605.07134
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Reorganizes webpage accessibility trees into functional regions through hierarch
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-07134/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-07134/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Donguk Kwon, Dongha Lee
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-07134/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-07134/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-07134/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-07134/citation.csl.json
 
 ## Recorded arXiv snapshot
 

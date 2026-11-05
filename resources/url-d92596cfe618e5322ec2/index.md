@@ -2,7 +2,7 @@
 
 Browser-agent API for executing web tasks and extracting structured results.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-d92596cfe618e5322ec2/
+- Catalog URL: https://awesomecua.com/resources/url-d92596cfe618e5322ec2/
 - Original source: https://www.tinyfish.ai/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Browser-agent API for executing web tasks and extracting structured results.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-d92596cfe618e5322ec2/record.json
+- Record JSON: https://awesomecua.com/resources/url-d92596cfe618e5322ec2/record.json
 
 ## License declarations
 

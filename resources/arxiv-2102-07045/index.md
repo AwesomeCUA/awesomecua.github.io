@@ -2,7 +2,7 @@
 
 Bibliographic record for Optimizing Electronic Structure Simulations on a Trapped-ion Quantum Computer using Problem Decomposition. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2102-07045/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2102-07045/
 - Original source: https://arxiv.org/abs/2102.07045
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Optimizing Electronic Structure Simulations on a Trappe
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2102-07045/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2102-07045/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yukio Kawashima, Erika Lloyd, Marc P. Coons, Yunseong Nam, Shunji Matsuura, Alej
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2102-07045/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2102-07045/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2102-07045/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2102-07045/citation.csl.json
 
 ## Recorded arXiv snapshot
 

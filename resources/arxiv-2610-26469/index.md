@@ -2,7 +2,7 @@
 
 VeriCUA trains a Judge to select verification checks and stopping decisions while a frozen Probe inspects the post-task GUI. Single-attempt reinforcement learning balances verdict correctness and Probe use.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26469/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-26469/
 - Original source: https://arxiv.org/abs/2610.26469
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VeriCUA trains a Judge to select verification checks and stopping decisions whil
 
 Reviewed the complete abstract and selected v1 method/evaluation sections. The Judge is trained on OSWorld and frozen for MobileWorld/WebArena transfer; downstream Actor RL is separate. Evaluation uses screened terminal outcomes, and reported cost counts Probe tokens. No independent reproduction.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26469/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-26469/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhizhou Wang, Yaxi Lu, Zhong Zhang, Zikun Hu, Xin Cong, Yankai Lin, Fangming Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26469/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26469/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-26469/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-26469/citation.csl.json
 
 ## Recorded arXiv snapshot
 

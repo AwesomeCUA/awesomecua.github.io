@@ -2,7 +2,7 @@
 
 Memory-routing implementation that chooses text or image demonstrations for a frozen GUI actor, with offline evaluation and Android transfer experiments.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-dmis-lab-switchmem/
+- Catalog URL: https://awesomecua.com/resources/github-dmis-lab-switchmem/
 - Original source: https://github.com/dmis-lab/SwitchMem
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Memory-routing implementation that chooses text or image demonstrations for a fr
 
 The implementation distinguishes step-level AITW/LearnGUI scores from terminal task success on MobileMiniWoB++. Benchmark outcomes and local smoke-test outputs are different claims; neither was independently reproduced here.
 
-- Record JSON: https://awesomecua.github.io/resources/github-dmis-lab-switchmem/record.json
+- Record JSON: https://awesomecua.com/resources/github-dmis-lab-switchmem/record.json
 
 ## License declarations
 

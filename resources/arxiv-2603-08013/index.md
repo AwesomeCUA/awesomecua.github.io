@@ -2,7 +2,7 @@
 
 PIRA-Bench evaluates proactive intent recommendations from noisy GUI screenshot sequences containing interleaved tasks and user context. Its PIRF baseline combines memory and state tracking to maintain multiple task threads and identify opportunities to assist.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-08013/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-08013/
 - Original source: https://arxiv.org/abs/2603.08013
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PIRA-Bench evaluates proactive intent recommendations from noisy GUI screenshot 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-08013/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-08013/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxiang Chai, Shunye Tang, Han Xiao, Rui Liu, Hongsheng Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-08013/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-08013/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-08013/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-08013/citation.csl.json
 
 ## Recorded arXiv snapshot
 

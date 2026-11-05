@@ -2,7 +2,7 @@
 
 Replay-based policy-optimization framework for GUI agents, with distributed OSWorld rollouts and screenshot/action histories.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-jia-lab-research-arpo/
+- Catalog URL: https://awesomecua.com/resources/github-jia-lab-research-arpo/
 - Original source: https://github.com/JIA-Lab-research/ARPO
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Replay-based policy-optimization framework for GUI agents, with distributed OSWo
 
 Official GitHub API resolves the former dvlab-research/ARPO URL to JIA-Lab-research/ARPO with the same numeric repository ID. Training/evaluation scripts are released; OSWorld environments and the separate model checkpoint are not bundled into this code record. Reported benchmark scores were not reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/github-jia-lab-research-arpo/record.json
+- Record JSON: https://awesomecua.com/resources/github-jia-lab-research-arpo/record.json
 
 ## License declarations
 

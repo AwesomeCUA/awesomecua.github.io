@@ -2,7 +2,7 @@
 
 The context-aware Aria-UI release that uses interaction context to support grounding in dynamic Android and desktop agent tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-085b6811ddd6f797475d/
+- Catalog URL: https://awesomecua.com/resources/url-085b6811ddd6f797475d/
 - Original source: https://huggingface.co/Aria-UI/Aria-UI-context-aware
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ The context-aware Aria-UI release that uses interaction context to support groun
 
 The Hub manifest exposes twelve safetensors shards and model code/configuration, but no README card or model-license declaration. The official repository explicitly announces this context-aware release separately from the base model. Code or base-model licenses are not inherited.
 
-- Record JSON: https://awesomecua.github.io/resources/url-085b6811ddd6f797475d/record.json
+- Record JSON: https://awesomecua.com/resources/url-085b6811ddd6f797475d/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-dongping-chen-gui-world/
+- Catalog URL: https://awesomecua.com/resources/github-dongping-chen-gui-world/
 - Original source: https://github.com/Dongping-Chen/GUI-World
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ GUI video benchmark and training data covering six scenarios, from Android and i
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-dongping-chen-gui-world/record.json
+- Record JSON: https://awesomecua.com/resources/github-dongping-chen-gui-world/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 The framework separates inference-time subgoal planning from MiRA, a reinforcement-learning method that supplies milestone rewards. WebArena-Lite experiments evaluate these mechanisms for long-horizon web navigation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-19685/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-19685/
 - Original source: https://arxiv.org/abs/2603.19685
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ The framework separates inference-time subgoal planning from MiRA, a reinforceme
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-19685/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-19685/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Taiyi Wang, Sian Gooding, Florian Hartmann, Oriana Riva, Edward Grefenstette
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-19685/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-19685/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-19685/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-19685/citation.csl.json
 
 ## Recorded arXiv snapshot
 

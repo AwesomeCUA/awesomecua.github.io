@@ -2,7 +2,7 @@
 
 Combines supervised and reinforcement fine-tuning for continual GUI learning, using policy entropy to adjust their proportions and gradient projection to limit conflicting updates. AndroidControl-CL groups applications into sequential tasks to evaluate adaptation and retention.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-02951/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-02951/
 - Original source: https://arxiv.org/abs/2603.02951
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines supervised and reinforcement fine-tuning for continual GUI learning, us
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract describes artifact release as future work; this annotation does not assert current availability.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-02951/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-02951/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhenquan Yao, Zitong Huang, Yihan Zeng, Jianhua Han, Hang Xu, Chun-Mei Feng, Jia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-02951/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-02951/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-02951/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-02951/citation.csl.json
 
 ## Recorded arXiv snapshot
 

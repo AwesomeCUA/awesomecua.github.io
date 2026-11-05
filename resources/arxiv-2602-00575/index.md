@@ -2,7 +2,7 @@
 
 VAGEN verifies GUI trajectories by first extracting readily available evidence and escalating to tool-based environment probes when needed. Evaluation on OSWorld-Verified and AndroidWorld studies verification accuracy and its cost.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-00575/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-00575/
 - Original source: https://arxiv.org/abs/2602.00575
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ VAGEN verifies GUI trajectories by first extracting readily available evidence a
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-00575/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-00575/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chaoqun Cui, Jing Huang, Shijing Wang, Liming Zheng, Qingchao Kong, Zhixiong Zen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-00575/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-00575/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-00575/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-00575/citation.csl.json
 
 ## Recorded arXiv snapshot
 

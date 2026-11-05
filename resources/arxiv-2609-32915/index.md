@@ -2,7 +2,7 @@
 
 Introduces AgentTell, a benchmark for privacy leakage through browser actions after an agent learns a private fact on another website. It examines whether agents choose revealing options despite nondisclosure instructions and whether their final reports accurately describe that behavior.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-32915/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-32915/
 - Original source: https://arxiv.org/abs/2609.32915
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AgentTell, a benchmark for privacy leakage through browser actions af
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32915/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-32915/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Asif Shahriar, Md Nafiu Rahman, Sadif Ahmed, Farig Sadeque, Md Rizwan Parvez
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32915/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32915/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-32915/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-32915/citation.csl.json
 
 ## Recorded arXiv snapshot
 

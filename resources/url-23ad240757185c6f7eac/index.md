@@ -2,7 +2,7 @@
 
 Seg2Click checkpoint based on Qwen2.5-VL-3B with a custom action-mask decoder.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-23ad240757185c6f7eac/
+- Catalog URL: https://awesomecua.com/resources/url-23ad240757185c6f7eac/
 - Original source: https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Seg2Click checkpoint based on Qwen2.5-VL-3B with a custom action-mask decoder.
 
 The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference. The card names the Qwen Research license, unlike the Apache-2.0 declarations on the Qwen3.5 variants.
 
-- Record JSON: https://awesomecua.github.io/resources/url-23ad240757185c6f7eac/record.json
+- Record JSON: https://awesomecua.com/resources/url-23ad240757185c6f7eac/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Agentic test-automation platform running plain-language test cases from pixels rather than selectors on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-69d6afe38a9a128ba9f7/
+- Catalog URL: https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/
 - Original source: https://www.askui.com/
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Agentic test-automation platform running plain-language test cases from pixels r
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-69d6afe38a9a128ba9f7/record.json
+- Record JSON: https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/record.json
 
 ## License declarations
 

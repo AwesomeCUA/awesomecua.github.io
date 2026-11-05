@@ -2,7 +2,7 @@
 
 Introduces Uni-GUI, a collection of executable desktop and mobile trajectories, and UI-MOPD, which trains a shared policy from its own rollouts using platform-specific teachers. The distillation procedure routes each visited state to the appropriate teacher to preserve distinct interaction conventions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-04425/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-04425/
 - Original source: https://arxiv.org/abs/2607.04425
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Uni-GUI, a collection of executable desktop and mobile trajectories, 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-04425/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-04425/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Niu Lian, Tongbo Chen, Zhehao Yu, Chengzhen Duan, Fazhan Liu, Hui Liu, Pei Fu, J
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-04425/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-04425/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-04425/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-04425/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Vision-Language Models as Success Detectors. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2303-07280/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2303-07280/
 - Original source: https://arxiv.org/abs/2303.07280
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Vision-Language Models as Success Detectors. Title, aut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-07280/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2303-07280/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuqing Du, Ksenia Konyushkova, Misha Denil, Akhil Raju, Jessica Landon, Felix Hi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-07280/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-07280/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2303-07280/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2303-07280/citation.csl.json
 
 ## Recorded arXiv snapshot
 

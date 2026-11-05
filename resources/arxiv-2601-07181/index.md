@@ -2,7 +2,7 @@
 
 Transforms human screen recordings and input events into annotated demonstrations used by planning and execution components for GUI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-07181/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-07181/
 - Original source: https://arxiv.org/abs/2601.07181
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Transforms human screen recordings and input events into annotated demonstration
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-07181/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-07181/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yichun Zhang, Xiangwu Guo, Yauhong Goh, Jessica Hu, Zhiheng Chen, Xin Wang, Dife
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-07181/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-07181/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-07181/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-07181/citation.csl.json
 
 ## Recorded arXiv snapshot
 

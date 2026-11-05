@@ -2,7 +2,7 @@
 
 Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-gair-nlp-pc-agent/
+- Catalog URL: https://awesomecua.com/resources/github-gair-nlp-pc-agent/
 - Original source: https://github.com/GAIR-NLP/PC-Agent
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Human-cognition-transfer framework for PC agents: PC Tracker logs human computer
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-gair-nlp-pc-agent/record.json
+- Record JSON: https://awesomecua.com/resources/github-gair-nlp-pc-agent/record.json
 
 ## License declarations
 

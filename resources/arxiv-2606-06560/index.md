@@ -2,7 +2,7 @@
 
 MacArena runs computer-use tasks through Apple’s virtualization framework on Apple Silicon, combining task ports with macOS-native workloads. It distinguishes the ported and native subsets when examining agent performance and cross-platform transfer.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-06560/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-06560/
 - Original source: https://arxiv.org/abs/2606.06560
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MacArena runs computer-use tasks through Apple’s virtualization framework on A
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-06560/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-06560/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Victor Muryn, Maksym Shamrai, Sofiia Mazepa, Yehor Khodysko
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-06560/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-06560/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-06560/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-06560/citation.csl.json
 
 ## Recorded arXiv snapshot
 

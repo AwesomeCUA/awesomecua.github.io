@@ -2,7 +2,7 @@
 
 Pairs OSWorld tasks with harmful side objectives to evaluate monitors that detect malicious behavior in computer-use agent trajectories.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-03818/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-03818/
 - Original source: https://arxiv.org/abs/2610.03818
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Pairs OSWorld tasks with harmful side objectives to evaluate monitors that detec
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-03818/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-03818/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Maria Sanchez del Rio, Mikhail Terekhov
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-03818/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-03818/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-03818/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-03818/citation.csl.json
 
 ## Recorded arXiv snapshot
 

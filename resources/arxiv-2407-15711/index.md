@@ -2,7 +2,7 @@
 
 Introduces realistic open-web tasks and the SeePlanAct agent, analyzing the limitations of browsing and retrieval in time-consuming assistant work.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-15711/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-15711/
 - Original source: https://arxiv.org/abs/2407.15711
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces realistic open-web tasks and the SeePlanAct agent, analyzing the limi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-15711/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-15711/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-15711/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-15711/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-15711/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-15711/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jon
 - Authors: Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jonathan Berant
 - Publication date (recorded precision): 2024-11
 - Publication source: https://aclanthology.org/2024.emnlp-main.505/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2407-15711/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-15711/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2407-15711/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2407-15711/publication-citation.csl.json
 - venue: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing
 - publisher: Association for Computational Linguistics
 - pages: 8938-8968

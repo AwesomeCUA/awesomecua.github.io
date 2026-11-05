@@ -2,7 +2,7 @@
 
 Go-Browse frames web-environment exploration as graph search so that information can be reused across data-collection episodes. It collects 10,000 successful trajectories and 40,000 interaction steps on WebArena and uses them to fine-tune a web agent.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-03533/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-03533/
 - Original source: https://arxiv.org/abs/2506.03533
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Go-Browse frames web-environment exploration as graph search so that information
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-03533/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-03533/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Apurva Gandhi, Graham Neubig
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-03533/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-03533/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-03533/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-03533/citation.csl.json
 
 ## Recorded arXiv snapshot
 

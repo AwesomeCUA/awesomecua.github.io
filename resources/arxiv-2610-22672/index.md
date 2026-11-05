@@ -2,7 +2,7 @@
 
 TAG-Nav supplies Android GUI agents with destination and route memory distilled from offline app exploration. DestBench measures arrival at a reference pre-action screen, separately from downstream task execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22672/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-22672/
 - Original source: https://arxiv.org/abs/2610.22672
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ TAG-Nav supplies Android GUI agents with destination and route memory distilled 
 
 The controlled cohort has 84 tasks across six apps; the broader inventory spans 20 apps. Main results use human destination labels. DroidTask and SPA-Bench are converted to navigation-only protocols. Some comparison cells received another graph condition’s memory, with sensitivity analyses reported. Cross-family runs differ in app versions, state and denominators. A small stale-graph probe does not establish robustness. Models, code, artifacts and performance were not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22672/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-22672/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Adamo Orsini, Seyed Mehdi Ayyoubzadeh, Sadman Rakib Pinon, Hannuo Zhang, Koosha 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22672/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22672/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-22672/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-22672/citation.csl.json
 
 ## Recorded arXiv snapshot
 

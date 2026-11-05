@@ -2,7 +2,7 @@
 
 Presents a man-in-the-middle network red-teaming framework for evaluating autonomous OpenClaw agents under live traffic manipulation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-18762/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-18762/
 - Original source: https://arxiv.org/abs/2603.18762
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents a man-in-the-middle network red-teaming framework for evaluating autono
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-18762/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-18762/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haochen Zhao, Shaoyang Cui
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-18762/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-18762/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-18762/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-18762/citation.csl.json
 
 ## Recorded arXiv snapshot
 

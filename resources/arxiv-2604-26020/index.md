@@ -2,7 +2,7 @@
 
 uxCUA learns to assess interface usability by choosing interaction flows, executing them and predicting a numerical usability score. Training uses interactive UIs with usability labels and human preferences, with evaluations on synthetic and real interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-26020/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-26020/
 - Original source: https://arxiv.org/abs/2604.26020
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ uxCUA learns to assess interface usability by choosing interaction flows, execut
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-26020/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-26020/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Alice Gao, Weixi Tong, Rishab Vempati, Katharina Reinecke, R. Benjamin Shapiro, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-26020/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-26020/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-26020/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-26020/citation.csl.json
 
 ## Recorded arXiv snapshot
 

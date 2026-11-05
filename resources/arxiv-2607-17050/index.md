@@ -2,7 +2,7 @@
 
 Introduces EvoGUI, which derives temporal ordering, inverse action/value prediction, and successor-discrimination probes from recorded GUI trajectories. Its web-derived benchmark isolates transition understanding from the other abilities involved in end-to-end task success.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-17050/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-17050/
 - Original source: https://arxiv.org/abs/2607.17050
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces EvoGUI, which derives temporal ordering, inverse action/value predict
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-17050/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-17050/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yaohan Yang, Minglei Shi, Borui Zhang, Jie Zhou, Jiwen Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-17050/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-17050/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-17050/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-17050/citation.csl.json
 
 ## Recorded arXiv snapshot
 

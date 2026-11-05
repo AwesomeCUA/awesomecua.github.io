@@ -2,7 +2,7 @@
 
 Bibliographic record for The Amazing Agent Race: Strong Tool Users, Weak Navigators. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-10261/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-10261/
 - Original source: https://arxiv.org/abs/2604.10261
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for The Amazing Agent Race: Strong Tool Users, Weak Navigat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-10261/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-10261/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zae Myung Kim, Dongseok Lee, Jaehyung Kim, Vipul Raheja, Dongyeop Kang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-10261/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-10261/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-10261/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-10261/citation.csl.json
 
 ## Recorded arXiv snapshot
 

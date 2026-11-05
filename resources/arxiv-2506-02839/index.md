@@ -2,7 +2,7 @@
 
 DeepShop evaluates shopping agents with evolving query complexity across product attributes, filters and sorting preferences. Its evaluation combines checks of these individual requirements with overall task success.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-02839/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-02839/
 - Original source: https://arxiv.org/abs/2506.02839
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DeepShop evaluates shopping agents with evolving query complexity across product
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-02839/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-02839/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yougang Lyu, Xiaoyu Zhang, Lingyong Yan, Maarten de Rijke, Zhaochun Ren, Xiuying
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-02839/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-02839/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-02839/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-02839/citation.csl.json
 
 ## Recorded arXiv snapshot
 

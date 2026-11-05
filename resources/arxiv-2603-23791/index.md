@@ -2,7 +2,7 @@
 
 Proposes a split-compute browser defense pairing a local visual sentinel, a cloud planner, and deterministic policy enforcement against indirect prompt injection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-23791/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-23791/
 - Original source: https://arxiv.org/abs/2603.23791
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Proposes a split-compute browser defense pairing a local visual sentinel, a clou
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-23791/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-23791/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qianlong Lan, Anuj Kaul
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-23791/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-23791/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-23791/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-23791/citation.csl.json
 
 ## Recorded arXiv snapshot
 

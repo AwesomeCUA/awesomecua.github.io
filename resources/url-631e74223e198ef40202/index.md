@@ -2,7 +2,7 @@
 
 Cross-platform training data released with ScaleCUA, with grounding and navigation annotations for Ubuntu, Windows, macOS, Android, iPhone and web screenshots.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-631e74223e198ef40202/
+- Catalog URL: https://awesomecua.com/resources/url-631e74223e198ef40202/
 - Original source: https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Cross-platform training data released with ScaleCUA, with grounding and navigati
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-631e74223e198ef40202/record.json
+- Record JSON: https://awesomecua.com/resources/url-631e74223e198ef40202/record.json
 
 ## Structured profile
 

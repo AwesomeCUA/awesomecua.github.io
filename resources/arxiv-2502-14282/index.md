@@ -2,7 +2,7 @@
 
 Uses active perception and hierarchical agents for instruction decomposition, progress tracking, action selection, and reflection in PC workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-14282/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-14282/
 - Original source: https://arxiv.org/abs/2502.14282
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses active perception and hierarchical agents for instruction decomposition, pr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-14282/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-14282/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haowei Liu, Xi Zhang, Haiyang Xu, Yuyang Wanyan, Junyang Wang, Ming Yan, Ji Zhan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-14282/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-14282/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-14282/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-14282/citation.csl.json
 
 ## Recorded arXiv snapshot
 

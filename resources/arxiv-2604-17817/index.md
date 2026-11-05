@@ -2,7 +2,7 @@
 
 DailyDroid compares text-only and text-plus-screenshot agents on everyday Android tasks across multiple apps and difficulty levels. Its failure analysis examines accessibility, observation modality and agent/application behavior.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-17817/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-17817/
 - Original source: https://arxiv.org/abs/2604.17817
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DailyDroid compares text-only and text-plus-screenshot agents on everyday Androi
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-17817/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-17817/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shiquan Zhang, Tianyi Zhang, Le Fang, Simon D'Alfonso, Hong Jia, Vassilis Kostak
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-17817/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-17817/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-17817/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-17817/citation.csl.json
 
 ## Recorded arXiv snapshot
 

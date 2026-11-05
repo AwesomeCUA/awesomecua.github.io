@@ -2,7 +2,7 @@
 
 Bibliographic record for Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-09523/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-09523/
 - Original source: https://arxiv.org/abs/2411.09523
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Navigating the Risks: A Survey of Security, Privacy, an
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-09523/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-09523/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuyou Gan, Yong Yang, Zhe Ma, Ping He, Rui Zeng, Yiming Wang, Qingming Li, Chuny
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-09523/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-09523/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-09523/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-09523/citation.csl.json
 
 ## Recorded arXiv snapshot
 

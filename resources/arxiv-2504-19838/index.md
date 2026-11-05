@@ -2,7 +2,7 @@
 
 Reviews LLM-driven phone GUI agents with a taxonomy of agent frameworks, prompt- and training-based modeling, datasets, and benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-19838/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-19838/
 - Original source: https://arxiv.org/abs/2504.19838
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Reviews LLM-driven phone GUI agents with a taxonomy of agent frameworks, prompt-
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-19838/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-19838/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Liang Liu, Yaxuan Guo, Han Xiao, Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-19838/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-19838/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-19838/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-19838/citation.csl.json
 
 ## Recorded arXiv snapshot
 

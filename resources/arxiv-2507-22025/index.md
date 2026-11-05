@@ -2,7 +2,7 @@
 
 Combines grounding-oriented reward and sampling improvements with inference-time image decomposition and target selection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-22025/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-22025/
 - Original source: https://arxiv.org/abs/2507.22025
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines grounding-oriented reward and sampling improvements with inference-time
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-22025/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-22025/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuquan Lian, Yuhang Wu, Jia Ma, Yifan Ding, Zihan Song, Bingqi Chen, Xiawu Zhen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-22025/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-22025/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-22025/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-22025/citation.csl.json
 
 ## Recorded arXiv snapshot
 

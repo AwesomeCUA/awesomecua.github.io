@@ -2,7 +2,7 @@
 
 Introduces VeriOS-Agent, which learns when to execute GUI actions autonomously and when to query a user under untrustworthy conditions. Its staged training combines supervised learning and group-relative policy optimization.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-07553/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-07553/
 - Original source: https://arxiv.org/abs/2509.07553
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces VeriOS-Agent, which learns when to execute GUI actions autonomously a
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-07553/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-07553/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zheng Wu, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiw
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-07553/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-07553/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-07553/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-07553/citation.csl.json
 
 ## Recorded arXiv snapshot
 

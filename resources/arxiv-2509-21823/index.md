@@ -2,7 +2,7 @@
 
 ProRe evaluates GUI task outcomes by having a reasoner assign targeted environment-probing tasks to specialist actors. The additional observations support reward judgments, with separate evaluation of judge accuracy and downstream agent task success.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-21823/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-21823/
 - Original source: https://arxiv.org/abs/2509.21823
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ProRe evaluates GUI task outcomes by having a reasoner assign targeted environme
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21823/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-21823/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Gaole Dai, Shiqi Jiang, Ting Cao, Yuqing Yang, Yuanchun Li, Rui Tan, Mo Li, Lili
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21823/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21823/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-21823/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-21823/citation.csl.json
 
 ## Recorded arXiv snapshot
 

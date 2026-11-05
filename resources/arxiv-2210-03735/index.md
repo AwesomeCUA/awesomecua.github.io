@@ -2,7 +2,7 @@
 
 Bibliographic record for "Help Me Help the AI": Understanding How Explainability Can Support Human-AI Interaction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2210-03735/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2210-03735/
 - Original source: https://arxiv.org/abs/2210.03735
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for "Help Me Help the AI": Understanding How Explainability
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-03735/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2210-03735/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sunnie S. Y. Kim, Elizabeth Anne Watkins, Olga Russakovsky, Ruth Fong, Andrés M
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-03735/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-03735/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2210-03735/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2210-03735/citation.csl.json
 
 ## Recorded arXiv snapshot
 

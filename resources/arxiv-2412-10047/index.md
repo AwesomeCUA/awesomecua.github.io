@@ -2,7 +2,7 @@
 
 Uses a Windows-agent case study to describe a development workflow for large action models, covering data collection, training, grounding, environment integration, and evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-10047/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-10047/
 - Original source: https://arxiv.org/abs/2412.10047
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses a Windows-agent case study to describe a development workflow for large act
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-10047/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-10047/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lu Wang, Fangkai Yang, Chaoyun Zhang, Junting Lu, Jiaxu Qian, Shilin He, Pu Zhao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-10047/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-10047/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-10047/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-10047/citation.csl.json
 
 ## Recorded arXiv snapshot
 

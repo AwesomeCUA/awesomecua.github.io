@@ -2,7 +2,7 @@
 
 Windows tray utility that records primary-display screenshots, keyboard key codes and mouse events as local JPEG and JSON files for training-data collection.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-anikasomaia-local-activity-recorder/
+- Catalog URL: https://awesomecua.com/resources/github-anikasomaia-local-activity-recorder/
 - Original source: https://github.com/anikasomaia/local-activity-recorder
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ Windows tray utility that records primary-display screenshots, keyboard key code
 
 Recording is started and stopped from the tray; screenshots use a five-second timer. The manual Upload Data action uses a built-in third-party demonstration endpoint unless changed in code, sending recorded files as base64 JSON. Successful uploads move files into uploaded subfolders rather than delete them; no automatic expiry policy was found in the inspected capture/upload path. Sensitive-application filters are listed as future work. The README's .NET version requirements are inconsistent, and long-session behavior was not established. No license declaration was found in the inspected files or complete tree's license-file names, so code permission remains unknown. No activity was captured and no uploader or executable was run.
 
-- Record JSON: https://awesomecua.github.io/resources/github-anikasomaia-local-activity-recorder/record.json
+- Record JSON: https://awesomecua.com/resources/github-anikasomaia-local-activity-recorder/record.json
 
 ## License declarations
 

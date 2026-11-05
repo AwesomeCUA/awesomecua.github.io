@@ -2,7 +2,7 @@
 
 CADWorld evaluates screenshot-and-GUI agents on long FreeCAD workflows, from modeling and assembly to manufacturing and simulation. Executable checks inspect saved engineering artifacts for geometry, constraints, construction structure and downstream state.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-16251/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-16251/
 - Original source: https://arxiv.org/abs/2609.16251
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CADWorld evaluates screenshot-and-GUI agents on long FreeCAD workflows, from mod
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-16251/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-16251/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zihan Dong, Yuanzhe Liu, Zhiyuan Ma, Qishi Zhan, Dehan Kong, Guohao Li, Kaixin L
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-16251/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-16251/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-16251/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-16251/citation.csl.json
 
 ## Recorded arXiv snapshot
 

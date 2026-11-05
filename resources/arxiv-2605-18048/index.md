@@ -2,7 +2,7 @@
 
 DocOS benchmarks agents that search online documentation and translate procedural instructions into GUI actions in interactive web environments. It separates failures to retrieve useful procedures from failures to ground retrieved instructions into executable actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-18048/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-18048/
 - Original source: https://arxiv.org/abs/2605.18048
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DocOS benchmarks agents that search online documentation and translate procedura
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-18048/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-18048/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jingjing Liu, Ziye Huang, Zihao Cheng, Zeming Liu, Jiahong Wu, Yuhang Guo, Kehai
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-18048/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-18048/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-18048/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-18048/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Evaluates web agents on multimodal annotation tasks adapted from HTML interfaces originally built for crowdsourcing workers.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-11905/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-11905/
 - Original source: https://arxiv.org/abs/2403.11905
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates web agents on multimodal annotation tasks adapted from HTML interfaces
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-11905/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-11905/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kevin Xu, Yeganeh Kordi, Tanay Nayak, Adi Asija, Yizhong Wang, Kate Sanders, Ada
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-11905/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-11905/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-11905/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-11905/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Kevin Xu, Yeganeh Kordi, Tanay Nayak, Adi Asija, Yizhong Wang, Kate Sanders, Ada
 - Authors: Kevin Xu, Yeganeh Kordi, Tanay Nayak, Adi Asija, Yizhong Wang, Kate Sanders, Adam Byerly, Jingyu Zhang, Benjamin Van Durme, Daniel Khashabi
 - Publication date (recorded precision): 2025-04
 - Publication source: https://aclanthology.org/2025.naacl-long.188/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2403-11905/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-11905/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2403-11905/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2403-11905/publication-citation.csl.json
 - venue: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
 - publisher: Association for Computational Linguistics
 - pages: 3694-3710

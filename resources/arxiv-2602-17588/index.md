@@ -2,7 +2,7 @@
 
 CowCorpus records interleaved human and agent actions during web navigation and identifies distinct patterns of user intervention. Models trained to anticipate these interventions are integrated into live web agents and assessed in a user study.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-17588/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-17588/
 - Original source: https://arxiv.org/abs/2602.17588
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CowCorpus records interleaved human and agent actions during web navigation and 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-17588/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-17588/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Faria Huq, Zora Zhiruo Wang, Zhanqiu Guo, Venu Arvind Arangarajan, Tianyue Ou, F
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-17588/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-17588/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-17588/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-17588/citation.csl.json
 
 ## Recorded arXiv snapshot
 

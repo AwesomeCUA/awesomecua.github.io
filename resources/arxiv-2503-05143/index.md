@@ -2,7 +2,7 @@
 
 Introduces a benchmark for federated mobile-agent training under heterogeneous user and application distributions, combining datasets, algorithms, and base models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-05143/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-05143/
 - Original source: https://arxiv.org/abs/2503.05143
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a benchmark for federated mobile-agent training under heterogeneous u
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-05143/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-05143/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenhao Wang, Zijie Yu, Rui Ye, Jianqing Zhang, Siheng Chen, Yanfeng Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-05143/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-05143/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-05143/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-05143/citation.csl.json
 
 ## Recorded arXiv snapshot
 

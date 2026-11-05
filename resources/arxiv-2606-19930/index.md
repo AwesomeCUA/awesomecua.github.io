@@ -2,7 +2,7 @@
 
 MobileForge couples real-app exploration and generated tasks with hierarchical feedback for mobile-agent adaptation. Its optimizer turns trajectory outcomes, step feedback and corrective hints into contextualized GRPO updates, with evaluation on AndroidWorld and a GUI-only MobileWorld split.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-19930/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-19930/
 - Original source: https://arxiv.org/abs/2606.19930
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileForge couples real-app exploration and generated tasks with hierarchical f
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-19930/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-19930/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guangyi Liu, Pengxiang Zhao, Gao Wu, Yiwen Yin, Mading Li, Liang Liu, Congxiao L
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-19930/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-19930/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-19930/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-19930/citation.csl.json
 
 ## Recorded arXiv snapshot
 

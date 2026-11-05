@@ -2,7 +2,7 @@
 
 GraphPilot builds app-specific knowledge graphs from explored pages, elements and transitions, then uses them to plan action sequences. It requests additional interface observations when uncertain and checks plans against graph transition rules before correction and execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-17418/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-17418/
 - Original source: https://arxiv.org/abs/2601.17418
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GraphPilot builds app-specific knowledge graphs from explored pages, elements an
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-17418/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-17418/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mingxian Yu, Siqi Luo, Xu Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-17418/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-17418/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-17418/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-17418/citation.csl.json
 
 ## Recorded arXiv snapshot
 

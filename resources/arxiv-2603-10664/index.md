@@ -2,7 +2,7 @@
 
 This position paper derives interface design principles from terminal-based human-agent collaboration: representational compatibility, transparent actions and low participation barriers. It argues that graphical and other agent-facing modalities should provide these properties explicitly.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-10664/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-10664/
 - Original source: https://arxiv.org/abs/2603.10664
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This position paper derives interface design principles from terminal-based huma
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent conceptual HCI work about agent-facing interfaces; the abstract does not report GUI task experiments or a new evaluated CUA.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-10664/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-10664/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Alexandre De Masi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-10664/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-10664/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-10664/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-10664/citation.csl.json
 
 ## Recorded arXiv snapshot
 

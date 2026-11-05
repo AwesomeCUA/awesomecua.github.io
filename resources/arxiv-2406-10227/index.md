@@ -2,7 +2,7 @@
 
 Evaluates GUI automation from instructional videos at separate levels of high-level planning, action narration, and primitive execution.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-10227/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-10227/
 - Original source: https://arxiv.org/abs/2406.10227
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates GUI automation from instructional videos at separate levels of high-le
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-10227/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-10227/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kevin Qinghong Lin, Linjie Li, Difei Gao, Qinchen WU, Mingyi Yan, Zhengyuan Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-10227/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-10227/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-10227/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-10227/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Kevin Qinghong Lin, Linjie Li, Difei Gao, Qinchen WU, Mingyi Yan, Zhengyuan Yang
 - Authors: Kevin Q. Lin, Linjie Li, Difei Gao, Qinchen Wu, Mingyi Yan, Zhengyuan Yang, Lijuan Wang, Mike Z. Shou
 - Publication date (recorded precision): 2024-12-16
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2406-10227/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-10227/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2406-10227/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2406-10227/publication-citation.csl.json
 - venue: Advances in Neural Information Processing Systems
 - volume: 37
 - pages: 69329-69360

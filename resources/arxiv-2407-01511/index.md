@@ -2,7 +2,7 @@
 
 Introduces CRAB, a framework for cross-environment agent tasks with graph-based evaluation and a benchmark spanning desktop and phone interactions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-01511/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-01511/
 - Original source: https://arxiv.org/abs/2407.01511
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CRAB, a framework for cross-environment agent tasks with graph-based 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-01511/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-01511/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianqi Xu, Linyao Chen, Dai-Jie Wu, Yanjun Chen, Zecheng Zhang, Xiang Yao, Zhiqi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-01511/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-01511/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-01511/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-01511/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Tianqi Xu, Linyao Chen, Dai-Jie Wu, Yanjun Chen, Zecheng Zhang, Xiang Yao, Zhiqi
 - Authors: Tianqi Xu, Linyao Chen, Dai-Jie Wu, Yanjun Chen, Zecheng Zhang, Xiang Yao, Zhiqiang Xie (谢志强), Yongchao Chen, Shilong Liu, Bochen Qian, Anjie Yang, Zhaoxuan Jin, Jianbo Deng, Philip Torr, Bernard Ghanem, Guohao Li
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.findings-acl.1113/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2407-01511/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-01511/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2407-01511/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2407-01511/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2025
 - publisher: Association for Computational Linguistics
 - pages: 21607-21647

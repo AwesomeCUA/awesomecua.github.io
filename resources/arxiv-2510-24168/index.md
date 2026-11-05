@@ -2,7 +2,7 @@
 
 Introduces MGA, which separates task-agnostic screen-state reading from decision making and connects steps through structured state memory. Validated state deltas replace full trajectory replay, evaluated on OSWorld and application tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-24168/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-24168/
 - Original source: https://arxiv.org/abs/2510.24168
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces MGA, which separates task-agnostic screen-state reading from decision
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-24168/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-24168/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weihua Cheng, Junming Liu, Yifei Sun, Botian Shi, Yirong Chen, Ding Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-24168/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-24168/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-24168/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-24168/citation.csl.json
 
 ## Recorded arXiv snapshot
 

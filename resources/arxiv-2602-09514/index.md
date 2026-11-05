@@ -2,7 +2,7 @@
 
 Bibliographic record for EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economies. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-09514/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-09514/
 - Original source: https://arxiv.org/abs/2602.09514
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09514/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-09514/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xavier Hu, Jinxiang Xia, Shengze Xu, Kangqi Song, Yishuo Yuan, Guibin Zhang, Jin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09514/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09514/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-09514/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-09514/citation.csl.json
 
 ## Recorded arXiv snapshot
 

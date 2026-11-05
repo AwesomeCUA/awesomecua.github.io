@@ -2,7 +2,7 @@
 
 Announced GUI trajectory synthesis resources for recovery from policy-induced errors; the inspected repository marks code and data releases as in preparation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-alibabaresearch-rots/
+- Catalog URL: https://awesomecua.com/resources/github-alibabaresearch-rots/
 - Original source: https://github.com/AlibabaResearch/RoTS
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Announced GUI trajectory synthesis resources for recovery from policy-induced er
 
 The 800k figure describes training samples in the study, not an independently counted public download. The repository code-license declaration does not establish terms for an unreleased dataset.
 
-- Record JSON: https://awesomecua.github.io/resources/github-alibabaresearch-rots/record.json
+- Record JSON: https://awesomecua.com/resources/github-alibabaresearch-rots/record.json
 
 ## Structured profile
 

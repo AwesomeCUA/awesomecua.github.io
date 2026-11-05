@@ -2,7 +2,7 @@
 
 CAP builds cross-site browser workflows by decomposing websites into operation and perception requirements and recomposing them into tasks. Its judge-based evaluation diagnoses complex interactions and visual-perception failures across real websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-08392/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-08392/
 - Original source: https://arxiv.org/abs/2608.08392
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CAP builds cross-site browser workflows by decomposing websites into operation a
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-08392/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-08392/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zejun Xu, Taiyi Chen, Jin Li, Yongtong Gu, Qi Cheng, Aixuan Lv, Shuai Zhu, Pengf
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-08392/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-08392/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-08392/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-08392/citation.csl.json
 
 ## Recorded arXiv snapshot
 

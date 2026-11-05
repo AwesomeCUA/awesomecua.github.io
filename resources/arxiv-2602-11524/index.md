@@ -2,7 +2,7 @@
 
 ADMIRE extracts milestones from successful GUI explorations to provide adaptive intermediate rewards. It assigns credit differently to successful and failed trajectories and evaluates training on AndroidWorld, with additional transfer studies in web and embodied settings.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-11524/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-11524/
 - Original source: https://arxiv.org/abs/2602.11524
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ADMIRE extracts milestones from successful GUI explorations to provide adaptive 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-11524/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-11524/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Congmin Zheng, Xiaoyun Mo, Xinbei Ma, Qiqiang Lin, Yin Zhao, Jiachen Zhu, Xingyu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-11524/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-11524/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-11524/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-11524/citation.csl.json
 
 ## Recorded arXiv snapshot
 

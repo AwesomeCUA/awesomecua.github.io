@@ -2,7 +2,7 @@
 
 Converts public tutorials into task specifications and executes them with an agent to synthesize multimodal interaction trajectories.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-09605/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-09605/
 - Original source: https://arxiv.org/abs/2412.09605
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Converts public tutorials into task specifications and executes them with an age
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-09605/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-09605/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yiheng Xu, Dunjie Lu, Zhennan Shen, Junli Wang, Zekun Wang, Yuchen Mao, Caiming 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-09605/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-09605/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-09605/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-09605/citation.csl.json
 
 ## Recorded arXiv snapshot
 

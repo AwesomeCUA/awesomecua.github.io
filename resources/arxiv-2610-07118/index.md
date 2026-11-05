@@ -2,7 +2,7 @@
 
 Introduces AMBER, an append-only memory framework in which a web agent learns to reason, act, and retain evidence using outcome-reward reinforcement learning. It studies whether preserving entries avoids the loss of facts and corrective feedback seen with rewritten memory.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-07118/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-07118/
 - Original source: https://arxiv.org/abs/2610.07118
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AMBER, an append-only memory framework in which a web agent learns to
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-07118/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-07118/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chinmay Savadikar, Zhaoyu Zhang, Mingyu Zhao, Shuang Xie, Han Li, Tianfu Wu, Lin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-07118/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-07118/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-07118/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-07118/citation.csl.json
 
 ## Recorded arXiv snapshot
 

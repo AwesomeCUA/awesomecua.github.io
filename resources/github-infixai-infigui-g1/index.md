@@ -2,7 +2,7 @@
 
 InfiGUI-G1 3B and 7B grounding models trained with Adaptive Exploration Policy Optimization, which samples several candidate answers per pass under an adaptive exploration reward.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-infixai-infigui-g1/
+- Catalog URL: https://awesomecua.com/resources/github-infixai-infigui-g1/
 - Original source: https://github.com/InfiXAI/InfiGUI-G1
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ InfiGUI-G1 3B and 7B grounding models trained with Adaptive Exploration Policy O
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-infixai-infigui-g1/record.json
+- Record JSON: https://awesomecua.com/resources/github-infixai-infigui-g1/record.json
 
 ## License declarations
 

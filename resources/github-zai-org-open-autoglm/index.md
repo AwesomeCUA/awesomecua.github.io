@@ -2,7 +2,7 @@
 
 Phone agent model and framework with device interaction tooling.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-zai-org-open-autoglm/
+- Catalog URL: https://awesomecua.com/resources/github-zai-org-open-autoglm/
 - Original source: https://github.com/zai-org/Open-AutoGLM
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Phone agent model and framework with device interaction tooling.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-zai-org-open-autoglm/record.json
+- Record JSON: https://awesomecua.com/resources/github-zai-org-open-autoglm/record.json
 
 ## License declarations
 

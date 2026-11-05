@@ -2,7 +2,7 @@
 
 Introduces a mobile-agent benchmark with tasks across open-source applications, organized by difficulty to reduce manual evaluation effort.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-08184/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-08184/
 - Original source: https://arxiv.org/abs/2406.08184
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces a mobile-agent benchmark with tasks across open-source applications, 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-08184/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-08184/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Luyuan Wang, Yongyu Deng, Yiwei Zha, Guodong Mao, Qinmin Wang, Tianchen Min, Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-08184/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-08184/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-08184/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-08184/citation.csl.json
 
 ## Recorded arXiv snapshot
 

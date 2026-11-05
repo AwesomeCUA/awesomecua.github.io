@@ -2,7 +2,7 @@
 
 Reverse-task-synthesis mobile trajectories released in separate AndroidControl and AndroidWorld training annotation files.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-d3ec5122a2b52fd5ae4b/
+- Catalog URL: https://awesomecua.com/resources/url-d3ec5122a2b52fd5ae4b/
 - Original source: https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Reverse-task-synthesis mobile trajectories released in separate AndroidControl a
 
 The public manifest contains AC/AW JSONL training annotations and a screenshot archive. MIT is declared for the data in its own card, separately from Apache-2.0 declarations on some model checkpoints. The gated web-data release is not included in this asset.
 
-- Record JSON: https://awesomecua.github.io/resources/url-d3ec5122a2b52fd5ae4b/record.json
+- Record JSON: https://awesomecua.com/resources/url-d3ec5122a2b52fd5ae4b/record.json
 
 ## Structured profile
 

@@ -2,7 +2,7 @@
 
 LASER builds preference data for multi-step GUI perception by combining Monte Carlo quality estimates with region-overlap evaluation. Its self-evolving training encourages relevant region selection and adapts the amount of reasoning before predicting screen coordinates.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-04243/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-04243/
 - Original source: https://arxiv.org/abs/2509.04243
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LASER builds preference data for multi-step GUI perception by combining Monte Ca
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-04243/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-04243/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wanfu Wang, Qipeng Huang, Guangquan Xue, Xiaobo Liang, Juntao Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-04243/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-04243/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-04243/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-04243/citation.csl.json
 
 ## Recorded arXiv snapshot
 

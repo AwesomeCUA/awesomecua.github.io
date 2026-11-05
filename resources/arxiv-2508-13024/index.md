@@ -2,7 +2,7 @@
 
 WebMall provides four simulated online shops with heterogeneous product data for comparison shopping, related-product searches, and checkout tasks. It evaluates web agents with different observation formats and memory configurations in a fixed offline environment.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-13024/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-13024/
 - Original source: https://arxiv.org/abs/2508.13024
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebMall provides four simulated online shops with heterogeneous product data for
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-13024/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-13024/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ralph Peeters, Aaron Steiner, Luca Schwarz, Julian Yuya Caspary, Christian Bizer
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-13024/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-13024/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-13024/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-13024/citation.csl.json
 
 ## Recorded arXiv snapshot
 

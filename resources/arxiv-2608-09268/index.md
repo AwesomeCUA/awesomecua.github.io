@@ -2,7 +2,7 @@
 
 Bibliographic record for Can Coding Agents Solve Repository-Level Issues with Rendered Code? An Exploratory Study of Visual Representations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-09268/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-09268/
 - Original source: https://arxiv.org/abs/2608.09268
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Can Coding Agents Solve Repository-Level Issues with Re
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-09268/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-09268/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Weijie Liang, Yuanfeng Song, Xing Chen, Caleb Chen Cao, Sirui Han, Yike Guo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-09268/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-09268/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-09268/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-09268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for EnvOS: Auditing Computer-Use Agents When the World Moves On : Phenomenon-Based Task Construction, Certification, and Evidence-Based Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-40246/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-40246/
 - Original source: https://arxiv.org/abs/2610.40246
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for EnvOS: Auditing Computer-Use Agents When the World Move
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-40246/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-40246/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ankush Kadu, Athira Gopal, Niharika Singh, Arpit Jain, Aswanth Krishnan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-40246/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-40246/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-40246/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-40246/citation.csl.json
 
 ## Recorded arXiv snapshot
 

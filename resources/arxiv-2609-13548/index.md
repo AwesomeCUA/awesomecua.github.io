@@ -2,7 +2,7 @@
 
 AutoTailor compiles web trajectories into reusable browser-automation APIs, then filters and dynamically revises the capability inventory. WebArena experiments distinguish API-only operation from an agent that can fall back to ordinary reasoning and browser actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-13548/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-13548/
 - Original source: https://arxiv.org/abs/2609.13548
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AutoTailor compiles web trajectories into reusable browser-automation APIs, then
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-13548/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-13548/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinyun Cao, Adriana Szekeres, Fazle Elahi Faisal
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-13548/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-13548/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-13548/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-13548/citation.csl.json
 
 ## Recorded arXiv snapshot
 

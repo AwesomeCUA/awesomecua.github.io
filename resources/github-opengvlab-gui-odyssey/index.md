@@ -2,7 +2,7 @@
 
 Human-demonstrated Android episodes for cross-app navigation, spanning six task types, 212 apps and about 1,400 app combinations, for training and evaluating agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-opengvlab-gui-odyssey/
+- Catalog URL: https://awesomecua.com/resources/github-opengvlab-gui-odyssey/
 - Original source: https://github.com/OpenGVLab/GUI-Odyssey
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Human-demonstrated Android episodes for cross-app navigation, spanning six task 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-opengvlab-gui-odyssey/record.json
+- Record JSON: https://awesomecua.com/resources/github-opengvlab-gui-odyssey/record.json
 
 ## Structured profile
 

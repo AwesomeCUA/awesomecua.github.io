@@ -2,7 +2,7 @@
 
 Evaluates agentic browsers against classical web attacks and visual social-engineering lures beyond indirect prompt injection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-05509/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-05509/
 - Original source: https://arxiv.org/abs/2605.05509
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates agentic browsers against classical web attacks and visual social-engin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-05509/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-05509/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sohom Datta, Alex Nahapetyan, William Enck, Alexandros Kapravelos
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-05509/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-05509/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-05509/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-05509/citation.csl.json
 
 ## Recorded arXiv snapshot
 

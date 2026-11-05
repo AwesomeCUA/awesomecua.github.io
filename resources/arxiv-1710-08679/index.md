@@ -2,7 +2,7 @@
 
 Bibliographic record for Implicit Low-Order Unstructured Finite-Element Multiple Simulation Enhanced by Dense Computation using OpenACC. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1710-08679/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1710-08679/
 - Original source: https://arxiv.org/abs/1710.08679
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Implicit Low-Order Unstructured Finite-Element Multiple
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1710-08679/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1710-08679/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Takuma Yamaguchi, Kohei Fujita, Tsuyoshi Ichimura, Muneo Hori, Maddegedara Lalit
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1710-08679/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1710-08679/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1710-08679/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1710-08679/citation.csl.json
 
 ## Recorded arXiv snapshot
 

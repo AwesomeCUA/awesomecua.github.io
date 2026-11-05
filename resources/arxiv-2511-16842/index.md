@@ -2,7 +2,7 @@
 
 Bibliographic record for Fantastic Bugs and Where to Find Them in AI Benchmarks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-16842/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-16842/
 - Original source: https://arxiv.org/abs/2511.16842
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Fantastic Bugs and Where to Find Them in AI Benchmarks.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-16842/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-16842/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sang Truong, Yuheng Tu, Michael Hardy, Anka Reuel, Zeyu Tang, Jirayu Burapacheep
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-16842/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-16842/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-16842/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-16842/citation.csl.json
 
 ## Recorded arXiv snapshot
 

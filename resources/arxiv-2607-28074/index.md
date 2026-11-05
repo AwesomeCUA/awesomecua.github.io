@@ -2,7 +2,7 @@
 
 Introduces Echoverse, which compiles specifications into stateful applications with database-grounded graders and uses rollouts to improve both the environments and agent policies. It examines behavioral depth, targeted interface practice, and environment repair as sources of training value.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-28074/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28074/
 - Original source: https://arxiv.org/abs/2607.28074
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Echoverse, which compiles specifications into stateful applications w
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28074/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28074/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yash Pandya, Sahil Gupta, Sarthak Harne, Archana Yadav, Kavyansh Chourasia, Huss
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28074/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28074/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28074/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28074/citation.csl.json
 
 ## Recorded arXiv snapshot
 

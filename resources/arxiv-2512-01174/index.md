@@ -2,7 +2,7 @@
 
 DrawingBench evaluates sequences of low-level mouse-based GUI actions through 250 drawing prompts and rule-based criteria. Action inspection and multi-turn external feedback support analysis of spatial reasoning, tool-state management, and refinement.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-01174/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-01174/
 - Original source: https://arxiv.org/abs/2512.01174
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DrawingBench evaluates sequences of low-level mouse-based GUI actions through 25
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-01174/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-01174/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hyunjun Kim, Sooyoung Ryu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-01174/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-01174/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-01174/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-01174/citation.csl.json
 
 ## Recorded arXiv snapshot
 

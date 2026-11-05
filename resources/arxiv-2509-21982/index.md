@@ -2,7 +2,7 @@
 
 RISK combines browser-interaction training data, a benchmark, and reinforcement fine-tuning for e-commerce risk-management workflows. Its trajectories and rewards distinguish individual actions from multi-step stateful tasks involving deeply embedded web content.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-21982/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-21982/
 - Original source: https://arxiv.org/abs/2509.21982
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ RISK combines browser-interaction training data, a benchmark, and reinforcement 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21982/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-21982/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Renqi Chen, Zeyin Tao, Jianming Guo, Jingzhe Zhu, Yiheng Peng, Qingqing Sun, Tia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21982/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21982/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-21982/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-21982/citation.csl.json
 
 ## Recorded arXiv snapshot
 

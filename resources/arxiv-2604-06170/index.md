@@ -2,7 +2,7 @@
 
 Bibliographic record for Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-06170/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-06170/
 - Original source: https://arxiv.org/abs/2604.06170
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Paper Circle: An Open-source Multi-agent Research Disco
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06170/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-06170/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Komal Kumar, Aman Chadha, Salman Khan, Fahad Shahbaz Khan, Hisham Cholakkal
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06170/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06170/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-06170/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-06170/citation.csl.json
 
 ## Recorded arXiv snapshot
 

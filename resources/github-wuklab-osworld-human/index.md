@@ -2,7 +2,7 @@
 
 Human reference trajectories and scoring code for measuring the action efficiency of computer-use agents on OSWorld tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-wuklab-osworld-human/
+- Catalog URL: https://awesomecua.com/resources/github-wuklab-osworld-human/
 - Original source: https://github.com/WukLab/osworld-human
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Human reference trajectories and scoring code for measuring the action efficienc
 
 The repository publishes per-application reference JSON files and score.py. It explicitly states that these evaluation solutions should not be used for training. No root code or data-license declaration was found; no license is inherited from OSWorld, and the score script was not executed.
 
-- Record JSON: https://awesomecua.github.io/resources/github-wuklab-osworld-human/record.json
+- Record JSON: https://awesomecua.com/resources/github-wuklab-osworld-human/record.json
 
 ## Structured profile
 

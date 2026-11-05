@@ -2,7 +2,7 @@
 
 Bibliographic record for IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-13368/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-13368/
 - Original source: https://arxiv.org/abs/2606.13368
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for IterCAD: An Iterative Multimodal Agent for Visually-Gro
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-13368/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-13368/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tao Hu, Jiaxin Ai, Licheng Wen, Xueheng Li, Shu Zou, Siqi Li, Nianchen Deng, Xin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-13368/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-13368/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-13368/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-13368/citation.csl.json
 
 ## Recorded arXiv snapshot
 

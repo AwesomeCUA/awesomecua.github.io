@@ -2,7 +2,7 @@
 
 Synthesizes multimodal web trajectories through exploration and refinement, then trains a browser agent to study the effect of scaling interaction data.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-11357/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-11357/
 - Original source: https://arxiv.org/abs/2502.11357
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Synthesizes multimodal web trajectories through exploration and refinement, then
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-11357/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-11357/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whiteh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-11357/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-11357/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-11357/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-11357/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whiteh
 - Authors: Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whitehead, Yu Su, Ahmed Awadallah
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.findings-acl.326/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2502-11357/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-11357/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2502-11357/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2502-11357/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2025
 - publisher: Association for Computational Linguistics
 - pages: 6300-6323

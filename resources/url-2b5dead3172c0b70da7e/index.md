@@ -2,7 +2,7 @@
 
 CAD screen recordings paired with action logs and target model images for studying precise interface control and long-horizon visual imitation.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-2b5dead3172c0b70da7e/
+- Catalog URL: https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/
 - Original source: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WX8PCK
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ CAD screen recordings paired with action logs and target model images for studyi
 
 Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1.0 dataset declaration. Archive count is not a video or trajectory count. The author repository documents the action and video formats, and Section 3 of the v2 paper identifies the recorded Onshape browser interface. No archives or training samples were downloaded; operating-system coverage is unspecified.
 
-- Record JSON: https://awesomecua.github.io/resources/url-2b5dead3172c0b70da7e/record.json
+- Record JSON: https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/record.json
 
 ## Structured profile
 

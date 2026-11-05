@@ -2,7 +2,7 @@
 
 Bibliographic record for MemGym: a Long-Horizon Memory Environment for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-20833/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-20833/
 - Original source: https://arxiv.org/abs/2605.20833
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for MemGym: a Long-Horizon Memory Environment for LLM Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-20833/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-20833/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wujiang Xu, Yu Wang, Kai Mei, Kaiqu Liang, Zhenting Wang, Mingyu Jin, Han Zhang,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-20833/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-20833/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-20833/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-20833/citation.csl.json
 
 ## Recorded arXiv snapshot
 

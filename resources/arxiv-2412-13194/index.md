@@ -2,7 +2,7 @@
 
 Combines autonomous task proposal, web interaction, and visual success evaluation to discover skills and improve browser-agent policies.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-13194/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-13194/
 - Original source: https://arxiv.org/abs/2412.13194
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines autonomous task proposal, web interaction, and visual success evaluatio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-13194/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-13194/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yifei Zhou, Qianlan Yang, Kaixiang Lin, Min Bai, Xiong Zhou, Yu-Xiong Wang, Serg
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-13194/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-13194/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-13194/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-13194/citation.csl.json
 
 ## Recorded arXiv snapshot
 

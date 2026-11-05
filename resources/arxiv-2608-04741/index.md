@@ -2,7 +2,7 @@
 
 Introduces LoginTrap, a black-box indirect-injection evaluation in which attacker-controlled page context and login flows induce unauthorized authentication. It measures end-to-end private-data leakage across web-agent backbones, architectures and defenses.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-04741/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-04741/
 - Original source: https://arxiv.org/abs/2608.04741
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces LoginTrap, a black-box indirect-injection evaluation in which attacke
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-04741/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-04741/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Longtao Guo, Zelin Zhang, Kaifeng Huang, Yang Shi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-04741/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-04741/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-04741/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-04741/citation.csl.json
 
 ## Recorded arXiv snapshot
 

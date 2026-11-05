@@ -2,7 +2,7 @@
 
 Claude browser extension for interacting with websites.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-07b6bbce7ce26a847f79/
+- Catalog URL: https://awesomecua.com/resources/url-07b6bbce7ce26a847f79/
 - Original source: https://claude.com/chrome
 - Kind: product
 - Review: curated
@@ -16,7 +16,7 @@ Claude browser extension for interacting with websites.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-07b6bbce7ce26a847f79/record.json
+- Record JSON: https://awesomecua.com/resources/url-07b6bbce7ce26a847f79/record.json
 
 ## License declarations
 

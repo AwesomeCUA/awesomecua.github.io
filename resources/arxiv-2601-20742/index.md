@@ -2,7 +2,7 @@
 
 Bibliographic record for Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-20742/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-20742/
 - Original source: https://arxiv.org/abs/2601.20742
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Compression Tells Intelligence: Visual Coding, Visual T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-20742/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-20742/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xin Jin, Jinming Liu, Yuntao Wei, Junyan Lin, Zhicheng Wang, Jianguo Huang, Xudo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-20742/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-20742/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-20742/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-20742/citation.csl.json
 
 ## Recorded arXiv snapshot
 

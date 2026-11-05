@@ -2,7 +2,7 @@
 
 MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-playwright-mcp/
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-playwright-mcp/
 - Original source: https://github.com/microsoft/playwright-mcp
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ MCP server that lets LLM clients drive Playwright browsers through structured ac
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-microsoft-playwright-mcp/record.json
+- Record JSON: https://awesomecua.com/resources/github-microsoft-playwright-mcp/record.json
 
 ## License declarations
 

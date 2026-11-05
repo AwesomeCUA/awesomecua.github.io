@@ -2,7 +2,7 @@
 
 Surveys GUI-agent efficiency beyond task success: observation, context and memory, action, and planner or runtime cost.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-02309/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-02309/
 - Original source: https://arxiv.org/abs/2609.02309
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Surveys GUI-agent efficiency beyond task success: observation, context and memor
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-02309/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-02309/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bizhe Bai, Jiakang Yuan, Hongming Wu, Xinyue Wang, Jie Ren, Siyao Chen, Yuchen Y
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-02309/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-02309/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-02309/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-02309/citation.csl.json
 
 ## Recorded arXiv snapshot
 

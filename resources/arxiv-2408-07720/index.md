@@ -2,7 +2,7 @@
 
 Bibliographic record for Re-Thinking Process Mining in the AI-Based Agents Era. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2408-07720/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2408-07720/
 - Original source: https://arxiv.org/abs/2408.07720
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Re-Thinking Process Mining in the AI-Based Agents Era. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-07720/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2408-07720/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Alessandro Berti, Mayssa Maatallah, Urszula Jessen, Michal Sroka, Sonia Ayachi G
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-07720/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-07720/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2408-07720/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2408-07720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

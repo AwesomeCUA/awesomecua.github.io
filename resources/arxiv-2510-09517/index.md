@@ -2,7 +2,7 @@
 
 Bibliographic record for StatEval: A Comprehensive Benchmark for Large Language Models in Statistics. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-09517/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-09517/
 - Original source: https://arxiv.org/abs/2510.09517
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for StatEval: A Comprehensive Benchmark for Large Language 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-09517/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-09517/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuchen Lu, Run Yang, Yichen Zhang, Shuguang Yu, Ziwei Wang, Jiayi Xiang, Wenxin 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-09517/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-09517/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-09517/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-09517/citation.csl.json
 
 ## Recorded arXiv snapshot
 

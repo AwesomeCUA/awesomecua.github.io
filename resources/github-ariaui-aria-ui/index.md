@@ -2,7 +2,7 @@
 
 Mixture-of-experts GUI grounding model with 3.9B activated parameters that can use text or interleaved image history, with released training data and an AndroidWorld agent.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-ariaui-aria-ui/
+- Catalog URL: https://awesomecua.com/resources/github-ariaui-aria-ui/
 - Original source: https://github.com/AriaUI/Aria-UI
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Mixture-of-experts GUI grounding model with 3.9B activated parameters that can u
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-ariaui-aria-ui/record.json
+- Record JSON: https://awesomecua.com/resources/github-ariaui-aria-ui/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Evaluates GUI testing through test-intent generation, execution, and defect detection using real, modified, and synthetic mobile application data.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-18426/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2412-18426/
 - Original source: https://arxiv.org/abs/2412.18426
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates GUI testing through test-intent generation, execution, and defect dete
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-18426/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2412-18426/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kangjia Zhao, Jiahui Song, Leigang Sha, Haozhan Shen, Zhi Chen, Tiancheng Zhao, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-18426/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-18426/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2412-18426/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2412-18426/citation.csl.json
 
 ## Recorded arXiv snapshot
 

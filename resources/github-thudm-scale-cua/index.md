@@ -2,7 +2,7 @@
 
 Computer-use training framework with VeriGen task synthesis, adaptive rollout sampling, and visual-context segmentation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-thudm-scale-cua/
+- Catalog URL: https://awesomecua.com/resources/github-thudm-scale-cua/
 - Original source: https://github.com/THUDM/SCALE-CUA
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Computer-use training framework with VeriGen task synthesis, adaptive rollout sa
 
 A distinct project from OpenGVLab/ScaleCUA, which documents arXiv:2509.15221. Similar names do not establish a shared project identity.
 
-- Record JSON: https://awesomecua.github.io/resources/github-thudm-scale-cua/record.json
+- Record JSON: https://awesomecua.com/resources/github-thudm-scale-cua/record.json
 
 ## License declarations
 

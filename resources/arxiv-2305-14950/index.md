@@ -2,7 +2,7 @@
 
 Bibliographic record for Adversarial Demonstration Attacks on Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2305-14950/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2305-14950/
 - Original source: https://arxiv.org/abs/2305.14950
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Adversarial Demonstration Attacks on Large Language Mod
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-14950/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2305-14950/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiongxiao Wang, Zichen Liu, Keun Hee Park, Zhuojun Jiang, Zhaoheng Zheng, Zhuofe
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-14950/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-14950/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2305-14950/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2305-14950/citation.csl.json
 
 ## Recorded arXiv snapshot
 

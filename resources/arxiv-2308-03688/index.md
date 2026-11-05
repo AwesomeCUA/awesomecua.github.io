@@ -2,7 +2,7 @@
 
 Evaluates language agents across eight interactive environments and analyzes failures in reasoning, decisions, and instruction following.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2308-03688/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2308-03688/
 - Original source: https://arxiv.org/abs/2308.03688
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates language agents across eight interactive environments and analyzes fai
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-03688/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2308-03688/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hanglia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-03688/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-03688/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2308-03688/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2308-03688/citation.csl.json
 
 ## Recorded arXiv snapshot
 

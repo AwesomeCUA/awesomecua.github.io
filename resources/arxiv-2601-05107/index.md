@@ -2,7 +2,7 @@
 
 Bibliographic record for Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-05107/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-05107/
 - Original source: https://arxiv.org/abs/2601.05107
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Controllable Memory Usage: Balancing Anchoring and Inno
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-05107/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-05107/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Muzhao Tian, Zisu Huang, Xiaohua Wang, Jingwen Xu, Zhengkang Guo, Qi Qian, Yuanz
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-05107/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-05107/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-05107/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-05107/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Compares human think-aloud web-task behavior with web-agent planning, action, and reflection. The analysis highlights differences in updating plans, handling ambiguity, and investigating failures.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2405-04497/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2405-04497/
 - Original source: https://arxiv.org/abs/2405.04497
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares human think-aloud web-task behavior with web-agent planning, action, an
 
 Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-04497/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2405-04497/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kihoon Son, Jinhyeon Kwon, DaEun Choi, Tae Soo Kim, Young-Ho Kim, Sangdoo Yun, J
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-04497/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-04497/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2405-04497/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2405-04497/citation.csl.json
 
 ## Recorded arXiv snapshot
 

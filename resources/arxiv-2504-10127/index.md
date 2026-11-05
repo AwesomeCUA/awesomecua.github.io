@@ -2,7 +2,7 @@
 
 Studies whether mid-training on GUI perception, multimodal reasoning, and text reasoning transfers to GUI-agent planning. Experiments compare 11 task sources and curated mixtures using WebArena and AndroidWorld to investigate training-data choices when GUI trajectories are scarce.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-10127/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-10127/
 - Original source: https://arxiv.org/abs/2504.10127
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies whether mid-training on GUI perception, multimodal reasoning, and text r
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-10127/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-10127/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junlei Zhang, Zichen Ding, Chang Ma, Zijie Chen, Qiushi Sun, Zhenzhong Lan, Junx
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-10127/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-10127/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-10127/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-10127/citation.csl.json
 
 ## Recorded arXiv snapshot
 

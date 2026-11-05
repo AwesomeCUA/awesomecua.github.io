@@ -2,7 +2,7 @@
 
 Bibliographic record for Multipartite entanglement. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-04566/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-04566/
 - Original source: https://arxiv.org/abs/2409.04566
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Multipartite entanglement. Title, authors and dates che
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-04566/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-04566/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Pawel Horodecki, Łukasz Rudnicki, Karol Życzkowski
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-04566/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-04566/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-04566/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-04566/citation.csl.json
 
 ## Recorded arXiv snapshot
 

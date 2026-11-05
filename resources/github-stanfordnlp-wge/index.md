@@ -2,7 +2,7 @@
 
 Research code that learns browser-control policies by constraining exploration with workflows induced from demonstrations, with a Selenium-based MiniWoB environment and experiment harness.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-stanfordnlp-wge/
+- Catalog URL: https://awesomecua.com/resources/github-stanfordnlp-wge/
 - Original source: https://github.com/stanfordnlp/wge
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Research code that learns browser-control policies by constraining exploration w
 
 The released repository includes training policies, experiment configuration and a MiniWoB sandbox extended for the 2018 paper. This is the WGE implementation, not another copy of the already cataloged Farama MiniWoB++ benchmark and not the original OpenAI MiniWoB release. Its documented dependency is PyTorch 0.1.12, and current runtime compatibility was not tested. Stanford code declares Apache-2.0; bundled third-party browser tasks and externally downloaded demonstration/embedding data retain their own terms.
 
-- Record JSON: https://awesomecua.github.io/resources/github-stanfordnlp-wge/record.json
+- Record JSON: https://awesomecua.com/resources/github-stanfordnlp-wge/record.json
 
 ## License declarations
 

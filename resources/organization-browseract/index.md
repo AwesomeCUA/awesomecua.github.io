@@ -2,7 +2,7 @@
 
 Publisher or product brand associated with BrowserAct computer-use or browser automation offerings.
 
-- Catalog URL: https://awesomecua.github.io/resources/organization-browseract/
+- Catalog URL: https://awesomecua.com/resources/organization-browseract/
 - Original source: https://www.browseract.com/
 - Kind: company
 - Review: curated
@@ -16,7 +16,7 @@ Publisher or product brand associated with BrowserAct computer-use or browser au
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
-- Record JSON: https://awesomecua.github.io/resources/organization-browseract/record.json
+- Record JSON: https://awesomecua.com/resources/organization-browseract/record.json
 
 ## License declarations
 

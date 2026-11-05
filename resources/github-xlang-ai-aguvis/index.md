@@ -2,7 +2,7 @@
 
 Vision-based GUI agent models with unified action representations.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-xlang-ai-aguvis/
+- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-aguvis/
 - Original source: https://github.com/xlang-ai/aguvis
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Vision-based GUI agent models with unified action representations.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-aguvis/record.json
+- Record JSON: https://awesomecua.com/resources/github-xlang-ai-aguvis/record.json
 
 ## License declarations
 

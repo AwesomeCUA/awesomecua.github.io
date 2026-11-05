@@ -2,7 +2,7 @@
 
 Human demonstrations and tasks for generalist web navigation research.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web/
+- Catalog URL: https://awesomecua.com/resources/github-osu-nlp-group-mind2web/
 - Original source: https://github.com/OSU-NLP-Group/Mind2Web
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Human demonstrations and tasks for generalist web navigation research.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web/record.json
+- Record JSON: https://awesomecua.com/resources/github-osu-nlp-group-mind2web/record.json
 
 ## Structured profile
 

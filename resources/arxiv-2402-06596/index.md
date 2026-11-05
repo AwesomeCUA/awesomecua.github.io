@@ -2,7 +2,7 @@
 
 Introduces AndroidArena and analyzes agent limitations in cross-application tasks, user constraints, exploration, and reflection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-06596/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-06596/
 - Original source: https://arxiv.org/abs/2402.06596
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AndroidArena and analyzes agent limitations in cross-application task
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-06596/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-06596/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Mingzhe Xing, Rongkai Zhang, Hui Xue, Qi Chen, Fan Yang, Zhen Xiao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-06596/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-06596/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-06596/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-06596/citation.csl.json
 
 ## Recorded arXiv snapshot
 

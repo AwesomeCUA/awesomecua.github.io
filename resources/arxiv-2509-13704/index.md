@@ -2,7 +2,7 @@
 
 InfraMind explores industrial management GUIs using virtual-machine snapshots and builds memory for planning and hierarchical state recognition. Its framework also studies knowledge distillation and safety checks on open-source and commercial data-center management platforms.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-13704/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-13704/
 - Original source: https://arxiv.org/abs/2509.13704
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ InfraMind explores industrial management GUIs using virtual-machine snapshots an
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-13704/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-13704/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Liangtao Lin, Zhaomeng Zhu, Tianwei Zhang, Yonggang Wen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-13704/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-13704/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-13704/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-13704/citation.csl.json
 
 ## Recorded arXiv snapshot
 

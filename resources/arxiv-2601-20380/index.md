@@ -2,7 +2,7 @@
 
 OmegaUse combines exploratory and taxonomy-guided data synthesis with supervised fine-tuning followed by GRPO for GUI control. The report introduces OS-Nav for offline Android and Ubuntu evaluation alongside established grounding and action-prediction benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-20380/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-20380/
 - Original source: https://arxiv.org/abs/2601.20380
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OmegaUse combines exploratory and taxonomy-guided data synthesis with supervised
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-20380/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-20380/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Le Zhang, Yixiong Xiao, Xinjiang Lu, Jingjia Cao, Yusai Zhao, Jingbo Zhou, Lang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-20380/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-20380/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-20380/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-20380/citation.csl.json
 
 ## Recorded arXiv snapshot
 

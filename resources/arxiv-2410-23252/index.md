@@ -2,7 +2,7 @@
 
 Introduces CASA to assess web agents' responses to cultural and social norms in shopping and forum tasks, including misleading observations.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-23252/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-23252/
 - Original source: https://arxiv.org/abs/2410.23252
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces CASA to assess web agents' responses to cultural and social norms in 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-23252/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-23252/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoyi Qiu, Alexander R. Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-23252/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-23252/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-23252/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-23252/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Haoyi Qiu, Alexander R. Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, 
 - Authors: Haoyi Qiu, Alexander Richard Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, Nanyun Peng, Chien-Sheng Wu
 - Publication date (recorded precision): 2025-04
 - Publication source: https://aclanthology.org/2025.findings-naacl.222/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2410-23252/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-23252/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2410-23252/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2410-23252/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: NAACL 2025
 - publisher: Association for Computational Linguistics
 - pages: 3978-4005

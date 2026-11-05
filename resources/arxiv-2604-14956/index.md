@@ -2,7 +2,7 @@
 
 Introduces FedGUI, a federated GUI-learning benchmark built from six datasets spanning mobile, web and desktop interfaces. Its experiments separate platform, device, operating-system and data-source heterogeneity when evaluating collaborative training.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-14956/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-14956/
 - Original source: https://arxiv.org/abs/2604.14956
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces FedGUI, a federated GUI-learning benchmark built from six datasets sp
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-14956/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-14956/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenhao Wang, Haoting Shi, Mengying Yuan, Yiquan Lin, Panrong Tong, Hanzhang Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-14956/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-14956/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-14956/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-14956/citation.csl.json
 
 ## Recorded arXiv snapshot
 

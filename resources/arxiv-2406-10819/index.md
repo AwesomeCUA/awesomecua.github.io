@@ -2,7 +2,7 @@
 
 Introduces video-based GUI questions and annotations for studying temporal interface understanding across varied interaction settings.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-10819/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-10819/
 - Original source: https://arxiv.org/abs/2406.10819
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces video-based GUI questions and annotations for studying temporal inter
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-10819/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-10819/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Dongping Chen, Yue Huang, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-10819/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-10819/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-10819/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-10819/citation.csl.json
 
 ## Recorded arXiv snapshot
 

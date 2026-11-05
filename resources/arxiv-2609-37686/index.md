@@ -2,7 +2,7 @@
 
 Introduces professional engineering tasks across software domains, with GUI and CLI access and artifact checks for geometric, physical, and design validity.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-37686/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-37686/
 - Original source: https://arxiv.org/abs/2609.37686
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces professional engineering tasks across software domains, with GUI and 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-37686/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-37686/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongcheng Gao, Hailong Qu, Yu Lei, Henghui Sun, Haoyang Li, Yipeng Wei, Naihao X
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-37686/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-37686/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-37686/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-37686/citation.csl.json
 
 ## Recorded arXiv snapshot
 

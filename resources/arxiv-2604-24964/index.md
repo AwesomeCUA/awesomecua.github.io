@@ -2,7 +2,7 @@
 
 Introduces Odysseys, a live-web benchmark of long, multi-site tasks derived from browsing sessions. Graded task rubrics and a rubric-score-per-step measure evaluate both partial progress and trajectory efficiency.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-24964/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-24964/
 - Original source: https://arxiv.org/abs/2604.24964
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Odysseys, a live-web benchmark of long, multi-site tasks derived from
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-24964/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-24964/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Lawrence Keunho Jang, Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-24964/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-24964/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-24964/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-24964/citation.csl.json
 
 ## Recorded arXiv snapshot
 

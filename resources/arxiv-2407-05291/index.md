@@ -2,7 +2,7 @@
 
 Defines compositional enterprise workflows to evaluate planning and reasoning, with generation of ground-truth interaction traces.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-05291/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-05291/
 - Original source: https://arxiv.org/abs/2407.05291
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Defines compositional enterprise workflows to evaluate planning and reasoning, w
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-05291/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-05291/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Léo Boisvert, Megh Thakkar, Maxime Gasse, Massimo Caccia, Thibault Le Sellier D
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-05291/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-05291/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-05291/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-05291/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Léo Boisvert, Megh Thakkar, Maxime Gasse, Massimo Caccia, Thibault Le Sellier D
 - Authors: Léo Boisvert, Megh Thakkar, Maxime Gasse, Massimo Caccia, Thibault L. De Chezelles, Quentin Cappart, Nicolas Chapados, Alexandre Lacoste, Alexandre Drouin
 - Publication date (recorded precision): 2024-12-16
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2407-05291/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-05291/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2407-05291/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2407-05291/publication-citation.csl.json
 - venue: Advances in Neural Information Processing Systems
 - volume: 37
 - pages: 5996-6051

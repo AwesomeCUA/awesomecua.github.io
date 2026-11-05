@@ -2,7 +2,7 @@
 
 GUI agent trained by RL with a continuous reward, a simple-thinking reward and cropping-based resampling on about 9k samples, plus a plug-in decomposed grounding-and-selection inference method.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-kdegroup-ui-agile/
+- Catalog URL: https://awesomecua.com/resources/github-kdegroup-ui-agile/
 - Original source: https://github.com/KDEGroup/UI-AGILE
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ GUI agent trained by RL with a continuous reward, a simple-thinking reward and c
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-kdegroup-ui-agile/record.json
+- Record JSON: https://awesomecua.com/resources/github-kdegroup-ui-agile/record.json
 
 ## License declarations
 

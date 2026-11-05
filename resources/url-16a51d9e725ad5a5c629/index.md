@@ -2,7 +2,7 @@
 
 A Qwen3-VL-based checkpoint for navigation and multi-step GUI actions across web, desktop and mobile interfaces.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-16a51d9e725ad5a5c629/
+- Catalog URL: https://awesomecua.com/resources/url-16a51d9e725ad5a5c629/
 - Original source: https://huggingface.co/Hcompany/Holo2-4B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ A Qwen3-VL-based checkpoint for navigation and multi-step GUI actions across web
 
 Two public safetensors shards are present and this 4B model card declares Apache-2.0. The same card assigns different terms to the 30B family member, so the 4B declaration is not generalized to the family. Scores and proprietary training data are not treated as independently verified or publicly released.
 
-- Record JSON: https://awesomecua.github.io/resources/url-16a51d9e725ad5a5c629/record.json
+- Record JSON: https://awesomecua.com/resources/url-16a51d9e725ad5a5c629/record.json
 
 ## License declarations
 

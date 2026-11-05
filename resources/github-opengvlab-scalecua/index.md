@@ -2,7 +2,7 @@
 
 Computer-use model family trained with cross-platform interaction data.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-opengvlab-scalecua/
+- Catalog URL: https://awesomecua.com/resources/github-opengvlab-scalecua/
 - Original source: https://github.com/OpenGVLab/ScaleCUA
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Computer-use model family trained with cross-platform interaction data.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-opengvlab-scalecua/record.json
+- Record JSON: https://awesomecua.com/resources/github-opengvlab-scalecua/record.json
 
 ## License declarations
 

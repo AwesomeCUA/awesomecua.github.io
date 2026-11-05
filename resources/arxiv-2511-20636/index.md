@@ -2,7 +2,7 @@
 
 Bibliographic record for Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-20636/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-20636/
 - Original source: https://arxiv.org/abs/2511.20636
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Image2Gcode: Image-to-G-code Generation for Additive Ma
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-20636/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-20636/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyue Wang, Yayati Jadhav, Peter Pak, Amir Barati Farimani
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-20636/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-20636/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-20636/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-20636/citation.csl.json
 
 ## Recorded arXiv snapshot
 

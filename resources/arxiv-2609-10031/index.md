@@ -2,7 +2,7 @@
 
 GraphDroid combines clustered memory of visited GUI states with asynchronous test-intent generation. A hybrid executor reserves LLM calls for complex intents and uses heuristics for simpler ones, evaluated through Android app coverage, bug discovery and crash detection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-10031/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-10031/
 - Original source: https://arxiv.org/abs/2609.10031
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GraphDroid combines clustered memory of visited GUI states with asynchronous tes
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-10031/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-10031/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaolei Li, Jialun Cao, Zhijian Hou, Yuzhi Zhao, Yepang Liu, Shing-Chi Cheung
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-10031/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-10031/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-10031/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-10031/citation.csl.json
 
 ## Recorded arXiv snapshot
 

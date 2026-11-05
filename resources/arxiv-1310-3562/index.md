@@ -2,7 +2,7 @@
 
 Bibliographic record for Adiabatic computing using 2-local Hamiltonians on a line. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1310-3562/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1310-3562/
 - Original source: https://arxiv.org/abs/1310.3562
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Adiabatic computing using 2-local Hamiltonians on a lin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1310-3562/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1310-3562/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Brian Pepper
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1310-3562/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1310-3562/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1310-3562/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1310-3562/citation.csl.json
 
 ## Recorded arXiv snapshot
 

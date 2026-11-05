@@ -2,7 +2,7 @@
 
 Over 100 web-interaction environments extending OpenAI's MiniWoB, controlled from Python through a Gymnasium API that drives the browser with Selenium.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-farama-foundation-miniwob-plusplus/
+- Catalog URL: https://awesomecua.com/resources/github-farama-foundation-miniwob-plusplus/
 - Original source: https://github.com/Farama-Foundation/miniwob-plusplus
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Over 100 web-interaction environments extending OpenAI's MiniWoB, controlled fro
 
 The maintainer README identifies MiniWoB++ as the extension introduced in the 2018 workflow-guided exploration paper. It separately links World of Bits as the source for the original MiniWoB predecessor. The current Farama interface, environment inventory, and maintenance status belong to the retained repository snapshot.
 
-- Record JSON: https://awesomecua.github.io/resources/github-farama-foundation-miniwob-plusplus/record.json
+- Record JSON: https://awesomecua.com/resources/github-farama-foundation-miniwob-plusplus/record.json
 
 ## Structured profile
 

@@ -19,5 +19,5 @@
     "status": "excluded",
     "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "ledger_url": "https://awesomecua.github.io/downloads/exclusions.json"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

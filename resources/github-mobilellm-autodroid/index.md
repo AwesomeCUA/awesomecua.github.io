@@ -2,7 +2,7 @@
 
 LLM-powered Android task automation built on DroidBot, released with DroidTask, a dataset of per-app screenshots, view hierarchies, exploration records and ground-truth task files.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-mobilellm-autodroid/
+- Catalog URL: https://awesomecua.com/resources/github-mobilellm-autodroid/
 - Original source: https://github.com/MobileLLM/AutoDroid
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ LLM-powered Android task automation built on DroidBot, released with DroidTask, 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-mobilellm-autodroid/record.json
+- Record JSON: https://awesomecua.com/resources/github-mobilellm-autodroid/record.json
 
 ## License declarations
 

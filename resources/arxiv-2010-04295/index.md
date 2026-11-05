@@ -2,7 +2,7 @@
 
 Introduces crowdsourced descriptions of mobile UI elements and studies multimodal models that generate useful widget captions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2010-04295/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2010-04295/
 - Original source: https://arxiv.org/abs/2010.04295
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces crowdsourced descriptions of mobile UI elements and studies multimoda
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2010-04295/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2010-04295/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2010-04295/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2010-04295/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2010-04295/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2010-04295/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 - Authors: Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 - Publication date (recorded precision): 2020-11
 - Publication source: https://aclanthology.org/2020.emnlp-main.443/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2010-04295/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2010-04295/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2010-04295/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2010-04295/publication-citation.csl.json
 - venue: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
 - publisher: Association for Computational Linguistics
 - pages: 5495-5510

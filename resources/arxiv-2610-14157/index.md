@@ -2,7 +2,7 @@
 
 Introduces OpenMobile-2, combining simulated mobile apps, emulator tasks, released training data, and policies that can alternate GUI interaction with app-native tools.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-14157/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-14157/
 - Original source: https://arxiv.org/abs/2610.14157
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces OpenMobile-2, combining simulated mobile apps, emulator tasks, releas
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-14157/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-14157/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chenyang Yan, Yingying Zhang, Kanzhi Cheng, Qiushi Sun, Zhengyuan Pan, Zheng Ma,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-14157/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-14157/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-14157/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-14157/citation.csl.json
 
 ## Recorded arXiv snapshot
 

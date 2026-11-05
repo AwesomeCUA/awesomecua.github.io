@@ -2,7 +2,7 @@
 
 ComponentBench evaluates short interactions with canonical web UI components using verified tasks and matched human reference trajectories. Its diagnostic pipeline compares observation/action representations and analyzes structural difficulty, failure patterns and interaction efficiency.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-18307/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-18307/
 - Original source: https://arxiv.org/abs/2608.18307
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ ComponentBench evaluates short interactions with canonical web UI components usi
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-18307/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-18307/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tianchen Guan, Xinlei Lin, Royce Cheng-Yue, Xiangjun Wang, Shuyan Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-18307/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-18307/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-18307/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-18307/citation.csl.json
 
 ## Recorded arXiv snapshot
 

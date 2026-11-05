@@ -2,7 +2,7 @@
 
 Bibliographic record for Template-Based Financial Report Generation in Agentic and Decomposed Information Retrieval. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-14233/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-14233/
 - Original source: https://arxiv.org/abs/2504.14233
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Template-Based Financial Report Generation in Agentic a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-14233/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-14233/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yong-En Tian, Yu-Chien Tang, Kuang-Da Wang, An-Zi Yen, Wen-Chih Peng
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-14233/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-14233/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-14233/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-14233/citation.csl.json
 
 ## Recorded arXiv snapshot
 

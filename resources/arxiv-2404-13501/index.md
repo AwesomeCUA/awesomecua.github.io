@@ -2,7 +2,7 @@
 
 Bibliographic record for A Survey on the Memory Mechanism of Large Language Model based Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-13501/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-13501/
 - Original source: https://arxiv.org/abs/2404.13501
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for A Survey on the Memory Mechanism of Large Language Mode
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-13501/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-13501/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, Xu Chen, Quanyu Dai, Jieming Zhu, Zhenhu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-13501/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-13501/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-13501/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-13501/citation.csl.json
 
 ## Recorded arXiv snapshot
 

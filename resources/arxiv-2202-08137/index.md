@@ -2,7 +2,7 @@
 
 Combines reinforcement learning with behavioral priors from human interactions to learn computer control through keyboard and mouse actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2202-08137/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2202-08137/
 - Original source: https://arxiv.org/abs/2202.08137
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Combines reinforcement learning with behavioral priors from human interactions t
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2202-08137/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2202-08137/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhapari
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2202-08137/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-08137/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2202-08137/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2202-08137/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhapari
 - Authors: Peter Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Adam Santoro, Timothy Lillicrap
 - Publication date (recorded precision): 2022-06-28
 - Publication source: https://proceedings.mlr.press/v162/humphreys22a.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2202-08137/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-08137/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2202-08137/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2202-08137/publication-citation.csl.json
 - venue: Proceedings of the 39th International Conference on Machine Learning
 - publisher: PMLR
 - series: Proceedings of Machine Learning Research

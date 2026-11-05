@@ -2,7 +2,7 @@
 
 Android GUI-agent research implementation that uses confidence-guided interaction to choose between autonomous actions and human assistance.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-wuzheng02-os-kairos/
+- Catalog URL: https://awesomecua.com/resources/github-wuzheng02-os-kairos/
 - Original source: https://github.com/Wuzheng02/OS-Kairos
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Android GUI-agent research implementation that uses confidence-guided interactio
 
 The documented evaluation modes distinguish model-simulated human feedback from actual human interaction; preserve that distinction when interpreting results.
 
-- Record JSON: https://awesomecua.github.io/resources/github-wuzheng02-os-kairos/record.json
+- Record JSON: https://awesomecua.com/resources/github-wuzheng02-os-kairos/record.json
 
 ## License declarations
 

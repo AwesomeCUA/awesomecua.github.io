@@ -2,7 +2,7 @@
 
 Collects expert demonstrations of conversational web navigation and studies retrieval-based element selection for processing large pages.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-05930/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-05930/
 - Original source: https://arxiv.org/abs/2402.05930
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Collects expert demonstrations of conversational web navigation and studies retr
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-05930/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-05930/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xing Han Lù, Zdeněk Kasner, Siva Reddy
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-05930/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-05930/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-05930/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-05930/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Xing Han Lù, Zdeněk Kasner, Siva Reddy
 - Authors: Xing Han Lù, Zdeněk Kasner, Siva Reddy
 - Publication date (recorded precision): 2024-07-08
 - Publication source: https://proceedings.mlr.press/v235/lu24e.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2402-05930/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-05930/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2402-05930/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2402-05930/publication-citation.csl.json
 - venue: Proceedings of the 41st International Conference on Machine Learning
 - publisher: PMLR
 - series: Proceedings of Machine Learning Research

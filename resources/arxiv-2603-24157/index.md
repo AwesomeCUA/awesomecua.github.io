@@ -2,7 +2,7 @@
 
 CareFlow benchmarks long healthcare-software workflows, while CarePilot coordinates action proposals, execution checks and corrective feedback using short- and long-term memory. Its actor consumes visual interfaces and system state to select semantic actions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-24157/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-24157/
 - Original source: https://arxiv.org/abs/2603.24157
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ CareFlow benchmarks long healthcare-software workflows, while CarePilot coordina
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-24157/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-24157/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Akash Ghosh, Tajamul Ashraf, Rishu Kumar Singh, Numan Saeed, Sriparna Saha, Xiuy
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-24157/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-24157/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-24157/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-24157/citation.csl.json
 
 ## Recorded arXiv snapshot
 

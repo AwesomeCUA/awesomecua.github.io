@@ -2,7 +2,7 @@
 
 Bibliographic record for Apple Intelligence Foundation Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-21075/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-21075/
 - Original source: https://arxiv.org/abs/2407.21075
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Apple Intelligence Foundation Language Models. Title, a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-21075/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-21075/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tom Gunter, Zirui Wang, Chong Wang, Ruoming Pang, Andy Narayanan, Aonan Zhang, B
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-21075/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-21075/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-21075/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-21075/citation.csl.json
 
 ## Recorded arXiv snapshot
 

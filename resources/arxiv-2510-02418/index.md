@@ -2,7 +2,7 @@
 
 Introduces BrowserArena, a live-web platform for head-to-head agent comparisons on user-submitted tasks. Step-level human annotations support targeted analysis of navigation, pop-up handling and CAPTCHA-related failures.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-02418/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-02418/
 - Original source: https://arxiv.org/abs/2510.02418
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces BrowserArena, a live-web platform for head-to-head agent comparisons 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-02418/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-02418/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sagnik Anupam, Davis Brown, Shuo Li, Eric Wong, Hamed Hassani, Osbert Bastani
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-02418/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-02418/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-02418/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-02418/citation.csl.json
 
 ## Recorded arXiv snapshot
 

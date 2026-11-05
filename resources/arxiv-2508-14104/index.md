@@ -2,7 +2,7 @@
 
 RealDevWorld evaluates generated software repositories with 194 development tasks and AppEvalPilot, an agent judge that operates the resulting GUIs. The evaluation examines functional behavior, visual fidelity, and runtime responses to produce task-specific diagnostic feedback.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-14104/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-14104/
 - Original source: https://arxiv.org/abs/2508.14104
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ RealDevWorld evaluates generated software repositories with 194 development task
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-14104/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-14104/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yutong Bian, Xianhao Lin, Yupeng Xie, Tianyang Liu, Mingchen Zhuge, Siyuan Lu, H
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-14104/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-14104/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-14104/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-14104/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-03499/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-03499/
 - Original source: https://arxiv.org/abs/2608.03499
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for WeClawArena: An Auditable Sandbox and Benchmark for Cro
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-03499/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-03499/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Prince Zizhuang Wang, Aojie Yuan, Haiyue Zhang, Xiyang Hu, Yue Zhao, Shuli Jiang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-03499/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-03499/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-03499/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-03499/citation.csl.json
 
 ## Recorded arXiv snapshot
 

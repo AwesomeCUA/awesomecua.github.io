@@ -2,7 +2,7 @@
 
 gWorld predicts future mobile GUI states as renderable web code and supplies an automated pipeline for code-based training data. The study evaluates visual state prediction and how stronger world models affect downstream mobile policies.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-01576/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-01576/
 - Original source: https://arxiv.org/abs/2602.01576
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ gWorld predicts future mobile GUI states as renderable web code and supplies an 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-01576/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-01576/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Woosung Koh, Sungjun Han, Segyu Lee, Se-Young Yun, Jamin Shin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-01576/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-01576/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-01576/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-01576/citation.csl.json
 
 ## Recorded arXiv snapshot
 

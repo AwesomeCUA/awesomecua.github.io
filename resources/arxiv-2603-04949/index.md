@@ -2,7 +2,7 @@
 
 TimeWarp tests web agents across multiple versions of the same sites, varying visual design, frontend code and workflows. TimeTraj transfers plans across versions to collect training trajectories and study robustness to interface change.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-04949/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-04949/
 - Original source: https://arxiv.org/abs/2603.04949
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ TimeWarp tests web agents across multiple versions of the same sites, varying vi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-04949/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-04949/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Md Farhan Ishmam, Kenneth Marino
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-04949/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-04949/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-04949/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-04949/citation.csl.json
 
 ## Recorded arXiv snapshot
 

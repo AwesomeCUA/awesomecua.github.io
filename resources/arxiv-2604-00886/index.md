@@ -2,7 +2,7 @@
 
 PixelPrune removes pixel-redundant patches before the vision encoder, reducing both encoding and downstream language-model work. The training-free method evaluates lossless and controlled-lossy compression on document and GUI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-00886/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-00886/
 - Original source: https://arxiv.org/abs/2604.00886
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ PixelPrune removes pixel-redundant patches before the vision encoder, reducing b
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent cross-domain VLM compression method with actual GUI-benchmark evaluation; the abstract does not establish a full computer-use policy.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-00886/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-00886/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nan Wang, Zhiwei Jin, Chen Chen, Haonan Lu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-00886/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-00886/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-00886/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-00886/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 EchoTrail-GUI builds a memory of successful GUI trajectories through autonomous exploration filtered by a reward model. It retrieves relevant trajectories as in-context guidance for new tasks and evaluates the approach on AndroidWorld and AndroidLab.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-19396/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-19396/
 - Original source: https://arxiv.org/abs/2512.19396
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ EchoTrail-GUI builds a memory of successful GUI trajectories through autonomous 
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-19396/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-19396/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Runze Li, Yuwen Zhai, Bo Xu, LiWu Xu, Nian Shi, Wei Zhang, Ran Lin, Liang Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-19396/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-19396/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-19396/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-19396/citation.csl.json
 
 ## Recorded arXiv snapshot
 

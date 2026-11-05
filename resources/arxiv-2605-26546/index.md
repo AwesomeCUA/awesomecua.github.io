@@ -2,7 +2,7 @@
 
 MobileExplorer probes relevant UI elements while an on-device model is reasoning, then supplies the exploration trace as compact context. A two-level rollback mechanism restores the working state when simple backtracking fails.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-26546/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-26546/
 - Original source: https://arxiv.org/abs/2605.26546
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileExplorer probes relevant UI elements while an on-device model is reasoning
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-26546/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-26546/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Runxi Huang, Liyu Zhang, Shengzhong Liu, Xiaomin Ouyang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-26546/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-26546/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-26546/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-26546/citation.csl.json
 
 ## Recorded arXiv snapshot
 

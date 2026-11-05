@@ -2,7 +2,7 @@
 
 Bibliographic record for The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-03690/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-03690/
 - Original source: https://arxiv.org/abs/2511.03690
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for The OpenHands Software Agent SDK: A Composable and Exte
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-03690/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-03690/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xingyao Wang, Simon Rosenberg, Juan Michelini, Calvin Smith, Hoang Tran, Engel N
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-03690/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-03690/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-03690/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-03690/citation.csl.json
 
 ## Recorded arXiv snapshot
 

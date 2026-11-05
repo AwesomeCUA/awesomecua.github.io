@@ -2,7 +2,7 @@
 
 Step-GUI uses calibrated trajectory rewards to turn generated GUI interaction data into training signals for compact agent models. The report also introduces GUI-MCP for hierarchical GUI operations and local task delegation, and AndroidDaily for static-action and end-to-end mobile evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-15431/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-15431/
 - Original source: https://arxiv.org/abs/2512.15431
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Step-GUI uses calibrated trajectory rewards to turn generated GUI interaction da
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-15431/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-15431/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haolong Yan, Jia Wang, Xin Huang, Yeqing Shen, Ziyang Meng, Zhimin Fan, Kaijun T
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-15431/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-15431/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-15431/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-15431/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Separates web-agent planning and grounding evaluations on Mind2Web to analyze which components limit task performance.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-01927/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-01927/
 - Original source: https://arxiv.org/abs/2409.01927
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Separates web-agent planning and grounding evaluations on Mind2Web to analyze wh
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-01927/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-01927/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Segev Shlomov, Ben wiesel, Aviad Sela, Ido Levy, Liane Galanti, Roy Abitbol
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-01927/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-01927/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-01927/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-01927/citation.csl.json
 
 ## Recorded arXiv snapshot
 

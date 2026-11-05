@@ -2,7 +2,7 @@
 
 Bibliographic record for CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-19484/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-19484/
 - Original source: https://arxiv.org/abs/2605.19484
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CutVerse: A Compositional GUI Agents Benchmark for Medi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-19484/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-19484/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haobo Hu, Xiangwu Guo, Zhiheng Chen, Difei Gao, Haotian Liu, Libiao Jin, Qi Mao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-19484/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-19484/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-19484/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-19484/citation.csl.json
 
 ## Recorded arXiv snapshot
 

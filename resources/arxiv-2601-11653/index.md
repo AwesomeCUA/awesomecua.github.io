@@ -2,7 +2,7 @@
 
 Bibliographic record for AI Agents Need Memory Control Over More Context. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-11653/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-11653/
 - Original source: https://arxiv.org/abs/2601.11653
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for AI Agents Need Memory Control Over More Context. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-11653/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-11653/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fouad Bousetouane
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-11653/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-11653/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-11653/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-11653/citation.csl.json
 
 ## Recorded arXiv snapshot
 

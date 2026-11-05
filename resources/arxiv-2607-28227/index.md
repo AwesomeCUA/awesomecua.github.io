@@ -2,7 +2,7 @@
 
 Describes a foundation GUI agent with combined GUI and command-line actions, large-scale interaction infrastructure, and iterative environment and task generation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-28227/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28227/
 - Original source: https://arxiv.org/abs/2607.28227
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes a foundation GUI agent with combined GUI and command-line actions, lar
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28227/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28227/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hanzhang Zhou, Panrong Tong, Xu Zhang, Quyu Kong, Chenglin Cai, Tianyu Xia, Gong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28227/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28227/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28227/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28227/citation.csl.json
 
 ## Recorded arXiv snapshot
 

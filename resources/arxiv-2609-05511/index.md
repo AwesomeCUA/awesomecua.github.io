@@ -2,7 +2,7 @@
 
 Introduces SCAFFOLD, which extracts executable skills from web trajectories, composes them into a hierarchy, and compresses redundant skills through behavioral checks. It periodically distills skill-guided trajectories into the policy and studies repeated improvement across web benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-05511/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-05511/
 - Original source: https://arxiv.org/abs/2609.05511
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces SCAFFOLD, which extracts executable skills from web trajectories, com
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-05511/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-05511/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bowei He, Xiaokun Zhang, Meng Ding, Xue Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-05511/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-05511/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-05511/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-05511/citation.csl.json
 
 ## Recorded arXiv snapshot
 

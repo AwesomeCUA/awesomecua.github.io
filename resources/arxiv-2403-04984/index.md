@@ -2,7 +2,7 @@
 
 UISCGD detects semantic groups of adjacent text and non-text UI elements. It learns from Android and iOS screenshots to support interface retrieval, UI-to-code structure and screen-reader accessibility.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-04984/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-04984/
 - Original source: https://arxiv.org/abs/2403.04984
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UISCGD detects semantic groups of adjacent text and non-text UI elements. It lea
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-04984/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-04984/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuhong Xiao, Yunnong Chen, Yaxuan Song, Liuqing Chen, Lingyun Sun, Yankun Zhen,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-04984/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-04984/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-04984/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-04984/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Scales computer-agent reinforcement learning through verifiable task generation, capability-aware rollout allocation, and segmented visual context.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-11185/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-11185/
 - Original source: https://arxiv.org/abs/2607.11185
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Scales computer-agent reinforcement learning through verifiable task generation,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-11185/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-11185/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bowen Lv, Xiao Liu, Yanyu Ren, Hanyu Lai, Bohao Jing, Hanchen Zhang, Yanxiao Zha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-11185/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-11185/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-11185/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-11185/citation.csl.json
 
 ## Recorded arXiv snapshot
 

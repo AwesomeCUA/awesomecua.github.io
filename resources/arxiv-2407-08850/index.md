@@ -2,7 +2,7 @@
 
 Introduces designer-authored mobile UI critiques and quality ratings, studying how targeted examples improve automated design feedback.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-08850/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-08850/
 - Original source: https://arxiv.org/abs/2407.08850
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces designer-authored mobile UI critiques and quality ratings, studying h
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-08850/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-08850/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Peitong Duan, Chin-yi Chen, Gang Li, Bjoern Hartmann, Yang Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-08850/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-08850/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-08850/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-08850/citation.csl.json
 
 ## Recorded arXiv snapshot
 

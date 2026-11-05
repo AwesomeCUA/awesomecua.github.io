@@ -2,7 +2,7 @@
 
 An Android agent that combines global task planning and memory with a local action executor, using reflection to revise mobile interaction steps.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-opendfm-moba/
+- Catalog URL: https://awesomecua.com/resources/github-opendfm-moba/
 - Original source: https://github.com/OpenDFM/MobA
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ An Android agent that combines global task planning and memory with a local acti
 
 The repository releases a configurable Python executor and Android ADB integration; its setup documents a Windows host, but the controlled interface is Android. The source is marked under continuing development and requires external model credentials. The inspected repository has no license file; the separately hosted MobBench data declaration is not transferred to this code.
 
-- Record JSON: https://awesomecua.github.io/resources/github-opendfm-moba/record.json
+- Record JSON: https://awesomecua.com/resources/github-opendfm-moba/record.json
 
 ## License declarations
 

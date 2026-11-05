@@ -2,7 +2,7 @@
 
 Survey of (M)LLM-based GUI agents organized around their datasets and benchmarks, a unified agent framework with a taxonomy, and commercial applications.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-04890/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-04890/
 - Original source: https://arxiv.org/abs/2411.04890
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Survey of (M)LLM-based GUI agents organized around their datasets and benchmarks
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-04890/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-04890/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-04890/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-04890/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-04890/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-04890/citation.csl.json
 
 ## Recorded arXiv snapshot
 

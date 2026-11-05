@@ -2,7 +2,7 @@
 
 Visually grounded web tasks extending the WebArena evaluation setting.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-web-arena-x-visualwebarena/
+- Catalog URL: https://awesomecua.com/resources/github-web-arena-x-visualwebarena/
 - Original source: https://github.com/web-arena-x/visualwebarena
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Visually grounded web tasks extending the WebArena evaluation setting.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-web-arena-x-visualwebarena/record.json
+- Record JSON: https://awesomecua.com/resources/github-web-arena-x-visualwebarena/record.json
 
 ## Structured profile
 

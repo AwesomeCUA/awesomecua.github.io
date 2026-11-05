@@ -2,7 +2,7 @@
 
 Screen understanding research within the Ferret model family.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-apple-ml-ferret/
+- Catalog URL: https://awesomecua.com/resources/github-apple-ml-ferret/
 - Original source: https://github.com/apple/ml-ferret
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Screen understanding research within the Ferret model family.
 
 The repository has moved from apple/ml-ferret to apple-aiml-research/ml-ferret; evidence uses the dedicated ferretui component.
 
-- Record JSON: https://awesomecua.github.io/resources/github-apple-ml-ferret/record.json
+- Record JSON: https://awesomecua.com/resources/github-apple-ml-ferret/record.json
 
 ## License declarations
 

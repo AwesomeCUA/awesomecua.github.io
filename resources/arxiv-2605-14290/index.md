@@ -2,7 +2,7 @@
 
 Argues for compiling web tasks into predefined execution graphs before exposing an agent to untrusted runtime content. Its WebArena task analysis identifies typed, semantically complete website tools as a prerequisite and distinguishes this interface proposal from reactive click-level control.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-14290/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-14290/
 - Original source: https://arxiv.org/abs/2605.14290
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Argues for compiling web tasks into predefined execution graphs before exposing 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced. Directly analyzes browser-agent prompt-injection boundaries and WebArena task structure, but advocates typed website operations rather than demonstrating a new GUI-control policy.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-14290/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-14290/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Julien Piet, Annabella Chow, Yiwei Hou, Muxi Lyu, Sylvie Venuto, Jinhao Zhu, Ral
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-14290/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-14290/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-14290/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-14290/citation.csl.json
 
 ## Recorded arXiv snapshot
 

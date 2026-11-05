@@ -2,7 +2,7 @@
 
 Code for screenshot grounding through supervised training, teacher-guided distillation, reinforcement learning, and benchmark evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-prentisai-groundgui/
+- Catalog URL: https://awesomecua.com/resources/github-prentisai-groundgui/
 - Original source: https://github.com/PrentisAI/GroundGUI
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Code for screenshot grounding through supervised training, teacher-guided distil
 
 The repository documents separate training-stage environments. Code, model weights, and ScreenRef data have distinct license declarations; no training or benchmark execution was reproduced here.
 
-- Record JSON: https://awesomecua.github.io/resources/github-prentisai-groundgui/record.json
+- Record JSON: https://awesomecua.com/resources/github-prentisai-groundgui/record.json
 
 ## License declarations
 

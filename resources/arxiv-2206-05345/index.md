@@ -2,7 +2,7 @@
 
 Bibliographic record for The Capacity of Low Earth Orbit Computed using Source-sink Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2206-05345/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2206-05345/
 - Original source: https://arxiv.org/abs/2206.05345
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for The Capacity of Low Earth Orbit Computed using Source-s
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2206-05345/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2206-05345/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Andrea D'Ambrosio, Miles Lifson, Richard Linares
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2206-05345/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2206-05345/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2206-05345/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2206-05345/citation.csl.json
 
 ## Recorded arXiv snapshot
 

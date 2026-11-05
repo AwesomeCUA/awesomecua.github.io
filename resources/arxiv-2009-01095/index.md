@@ -2,7 +2,7 @@
 
 Bibliographic record for Efficient encoding of the weighted MAX k-CUT on a quantum computer using QAOA. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2009-01095/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2009-01095/
 - Original source: https://arxiv.org/abs/2009.01095
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Efficient encoding of the weighted MAX k-CUT on a quant
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2009-01095/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2009-01095/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Franz Georg Fuchs, Herman Øie Kolden, Niels Henrik Aase, Giorgio Sartor
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2009-01095/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2009-01095/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2009-01095/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2009-01095/citation.csl.json
 
 ## Recorded arXiv snapshot
 

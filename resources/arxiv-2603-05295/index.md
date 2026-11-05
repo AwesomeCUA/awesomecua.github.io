@@ -2,7 +2,7 @@
 
 WebChain aligns human web-interaction trajectories with visual, structural and action data for agent training. It also introduces WebChainBench and a mid-training approach that separates spatial grounding from planning.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-05295/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-05295/
 - Original source: https://arxiv.org/abs/2603.05295
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebChain aligns human web-interaction trajectories with visual, structural and a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-05295/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-05295/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sicheng Fan, Rui Wan, Yifei Leng, Gaoning Liang, Li Ling, Yanyi Shang, Dehan Kon
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-05295/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-05295/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-05295/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-05295/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces Probe to Act, which lets browser agents request visual evidence linking DOM handles and screen regions before committing an operation. It retains selected interaction evidence as memory and studies both prompted use and distillation into open models.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-33646/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-33646/
 - Original source: https://arxiv.org/abs/2609.33646
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Probe to Act, which lets browser agents request visual evidence linki
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-33646/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-33646/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Keliang Li, Heng Wang, Chen Hu, Daxin Jiang, Hong Chang, Shiguang Shan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-33646/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-33646/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-33646/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-33646/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Released dataset used to train PC-Agent-E, linked by the official pipeline for refining human trajectories and synthesizing action reasoning.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-14449fe321e0a1ca34ea/
+- Catalog URL: https://awesomecua.com/resources/url-14449fe321e0a1ca34ea/
 - Original source: https://huggingface.co/datasets/henryhe0123/PC-Agent-E
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Released dataset used to train PC-Agent-E, linked by the official pipeline for r
 
 Hub release contains data.zip. The archive was not downloaded and its internal schema/example total were not independently inspected. Training-purpose and platform descriptions come from the official pipeline README; the brief card establishes the paper association and MIT data declaration.
 
-- Record JSON: https://awesomecua.github.io/resources/url-14449fe321e0a1ca34ea/record.json
+- Record JSON: https://awesomecua.com/resources/url-14449fe321e0a1ca34ea/record.json
 
 ## Structured profile
 

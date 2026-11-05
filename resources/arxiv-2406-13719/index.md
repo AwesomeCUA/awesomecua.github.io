@@ -2,7 +2,7 @@
 
 Introduces Act2Cap and a cursor-guided method for describing GUI actions from video, with temporal and spatial localization challenges.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-13719/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-13719/
 - Original source: https://arxiv.org/abs/2406.13719
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Act2Cap and a cursor-guided method for describing GUI actions from vi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-13719/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-13719/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Qinchen Wu, Difei Gao, Kevin Qinghong Lin, Zhuoyu Wu, Xiangwu Guo, Peiran Li, We
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-13719/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-13719/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-13719/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-13719/citation.csl.json
 
 ## Recorded arXiv snapshot
 

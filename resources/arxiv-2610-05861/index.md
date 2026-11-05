@@ -2,7 +2,7 @@
 
 Introduces Infinite-Dreamer, which learns action-conditioned screenshot editing from structured descriptions of GUI changes and uses it to synthesize robustness examples and multi-step trajectories. The synthetic data trains a mobile GUI agent evaluated on AndroidWorld, MobileWorld, and AndroidControl-Curated.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-05861/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-05861/
 - Original source: https://arxiv.org/abs/2610.05861
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Infinite-Dreamer, which learns action-conditioned screenshot editing 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-05861/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-05861/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yongxin Ning, Runliang Niu, Qianli Xing, Zhiyi Duan, Qingzu He, Pan Wang, Qi Wan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-05861/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-05861/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-05861/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-05861/citation.csl.json
 
 ## Recorded arXiv snapshot
 

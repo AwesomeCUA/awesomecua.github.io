@@ -2,7 +2,7 @@
 
 SPIDES propagates HTML integrity and confidentiality labels into agent context and mediates browser actions with information-flow policies and approval gates, evaluated in the labeled MicroNet ecosystem.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-24277/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-24277/
 - Original source: https://arxiv.org/abs/2610.24277
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SPIDES propagates HTML integrity and confidentiality labels into agent context a
 
 Reviewed the complete abstract and selected v1 threat-model, policy, evaluation and limitations sections. Guarantees assume correct labels/trusted origins and a trusted browser/harness mediating actions; evaluation uses idealized approvals. Origin-level reader sets can miss recipient distinctions within one origin. No unrestricted prompt-injection immunity or independent reproduction is claimed.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-24277/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-24277/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Egor Zverev, Juhee Kim, Leon Trampert, Boris Köpf, Aashish Kolluri, Shruti Topl
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-24277/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-24277/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-24277/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-24277/citation.csl.json
 
 ## Recorded arXiv snapshot
 

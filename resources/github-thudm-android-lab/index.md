@@ -2,7 +2,7 @@
 
 Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-thudm-android-lab/
+- Catalog URL: https://awesomecua.com/resources/github-thudm-android-lab/
 - Original source: https://github.com/THUDM/Android-Lab
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Reproducible Android benchmark of 138 tasks across nine apps on predefined virtu
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-thudm-android-lab/record.json
+- Record JSON: https://awesomecua.com/resources/github-thudm-android-lab/record.json
 
 ## Structured profile
 

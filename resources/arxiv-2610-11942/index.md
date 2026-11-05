@@ -2,7 +2,7 @@
 
 Presents LGWM, a decoder-free GUI world model that predicts the next screen representation from an action and compares it with the observed state to verify transitions. Its paired diagnostic separates legitimate and hijacked transitions that lead to the same credential screen.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-11942/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-11942/
 - Original source: https://arxiv.org/abs/2610.11942
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents LGWM, a decoder-free GUI world model that predicts the next screen repr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-11942/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-11942/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiaming Zhang, Xuan Wang, Fuyao Zhang, Yang Cao, Lingjuan Lyu, Wei Yang Bryan Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-11942/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-11942/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-11942/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-11942/citation.csl.json
 
 ## Recorded arXiv snapshot
 

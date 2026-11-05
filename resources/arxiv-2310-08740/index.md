@@ -2,7 +2,7 @@
 
 Studies a zero-shot computer-control agent that plans executable actions and organizes its own reflections after mistakes. MiniWoB++ experiments examine learning to complete tasks without supplied expert trajectories.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-08740/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2310-08740/
 - Original source: https://arxiv.org/abs/2310.08740
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies a zero-shot computer-control agent that plans executable actions and org
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-08740/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2310-08740/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-08740/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-08740/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2310-08740/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2310-08740/citation.csl.json
 
 ## Recorded arXiv snapshot
 

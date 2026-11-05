@@ -2,7 +2,7 @@
 
 Surveys foundation-model web agents through their architectures, training methods and trustworthiness. It organizes research on completing browser tasks from user instructions and identifies directions for further development.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-23350/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-23350/
 - Original source: https://arxiv.org/abs/2503.23350
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Surveys foundation-model web agents through their architectures, training method
 
 Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-23350/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-23350/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Liangbo Ning, Ziran Liang, Zhuohang Jiang, Haohao Qu, Yujuan Ding, Wenqi Fan, Xi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-23350/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-23350/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-23350/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-23350/citation.csl.json
 
 ## Recorded arXiv snapshot
 

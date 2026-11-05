@@ -2,7 +2,7 @@
 
 UI-KOBE explores mobile applications to build graphs of UI states and executable transitions. A lightweight agent then matches its current screenshot to the graph and chooses a transition, local action, completion signal or fallback action.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-29534/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-29534/
 - Original source: https://arxiv.org/abs/2605.29534
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ UI-KOBE explores mobile applications to build graphs of UI states and executable
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-29534/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-29534/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuxiang Chai, Han Xiao, Xinyu Fu, Jinpeng Chen, Rui Liu, Hongsheng Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-29534/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-29534/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-29534/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-29534/citation.csl.json
 
 ## Recorded arXiv snapshot
 

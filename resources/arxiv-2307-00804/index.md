@@ -2,7 +2,7 @@
 
 Bibliographic record for SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2307-00804/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2307-00804/
 - Original source: https://arxiv.org/abs/2307.00804
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for SketchMetaFace: A Learning-based Sketching Interface fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-00804/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2307-00804/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhongjin Luo, Dong Du, Heming Zhu, Yizhou Yu, Hongbo Fu, Xiaoguang Han
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-00804/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-00804/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2307-00804/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2307-00804/citation.csl.json
 
 ## Recorded arXiv snapshot
 

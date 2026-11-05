@@ -2,7 +2,7 @@
 
 Adds annotated intermediate subgoals to computer-use tasks and uses process-oriented evaluation to identify action and progress failures.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-24890/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-24890/
 - Original source: https://arxiv.org/abs/2609.24890
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Adds annotated intermediate subgoals to computer-use tasks and uses process-orie
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-24890/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-24890/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhilin Wang, Shaokun Zhang, Yifan Zhang, Hao Zhang, Jin Xu, Binfeng Xu, Jian Hu,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-24890/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-24890/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-24890/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-24890/citation.csl.json
 
 ## Recorded arXiv snapshot
 

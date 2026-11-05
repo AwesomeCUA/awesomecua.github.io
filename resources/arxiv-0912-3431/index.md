@@ -2,7 +2,7 @@
 
 Bibliographic record for Comment on "Electron transport through correlated molecules computed using the time-independent Wigner function: Two critical tests". Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-0912-3431/
+- Catalog URL: https://awesomecua.com/resources/arxiv-0912-3431/
 - Original source: https://arxiv.org/abs/0912.3431
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Comment on "Electron transport through correlated molec
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-0912-3431/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-0912-3431/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ J. C. Greer, P. Delaney, G. Fagas
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-0912-3431/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-0912-3431/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-0912-3431/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-0912-3431/citation.csl.json
 
 ## Recorded arXiv snapshot
 

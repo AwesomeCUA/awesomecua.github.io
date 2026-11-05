@@ -2,7 +2,7 @@
 
 MobileIPL samples trees of action-planning thoughts, propagates rule-based leaf rewards backward, and forms preference pairs for reasoning-level optimization. It also expands screenshot-based instruction data through staged evolution before evaluation on mobile GUI-agent benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-12299/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-12299/
 - Original source: https://arxiv.org/abs/2505.12299
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileIPL samples trees of action-planning thoughts, propagates rule-based leaf 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12299/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-12299/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kun Huang, Weikai Xu, Yuxuan Liu, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12299/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12299/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-12299/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-12299/citation.csl.json
 
 ## Recorded arXiv snapshot
 

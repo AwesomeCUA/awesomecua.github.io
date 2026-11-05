@@ -2,7 +2,7 @@
 
 Training and evaluation pipeline for conversational mobile GUI agents, with action prediction, response generation, and dataset processing.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-x-lance-meta-gui-baseline/
+- Catalog URL: https://awesomecua.com/resources/github-x-lance-meta-gui-baseline/
 - Original source: https://github.com/X-LANCE/META-GUI-baseline
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Training and evaluation pipeline for conversational mobile GUI agents, with acti
 
 Its README describes mobile GUI agents without naming an operating system.
 
-- Record JSON: https://awesomecua.github.io/resources/github-x-lance-meta-gui-baseline/record.json
+- Record JSON: https://awesomecua.com/resources/github-x-lance-meta-gui-baseline/record.json
 
 ## License declarations
 

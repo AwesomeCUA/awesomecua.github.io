@@ -2,7 +2,7 @@
 
 Analyzes web-agent vulnerabilities at the component level, examining goal placement in prompts, multistep action generation, and observations as sources of increased susceptibility.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2502-20383/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2502-20383/
 - Original source: https://arxiv.org/abs/2502.20383
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Analyzes web-agent vulnerabilities at the component level, examining goal placem
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-20383/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2502-20383/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jeffrey Yang Fan Chiang, Seungjae Lee, Jia-Bin Huang, Furong Huang, Yizheng Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-20383/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-20383/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2502-20383/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2502-20383/citation.csl.json
 
 ## Recorded arXiv snapshot
 

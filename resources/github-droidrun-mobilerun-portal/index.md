@@ -2,7 +2,7 @@
 
 An Android accessibility service that exposes UI-element inspection, device-control interfaces and screen feedback to mobile automation agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-droidrun-mobilerun-portal/
+- Catalog URL: https://awesomecua.com/resources/github-droidrun-mobilerun-portal/
 - Original source: https://github.com/droidrun/mobilerun-portal
 - Kind: tool
 - Review: curated
@@ -16,7 +16,7 @@ An Android accessibility service that exposes UI-element inspection, device-cont
 
 The official API resolves the former Droidrun Portal path to mobilerun-portal. Release metadata lists a v0.7.25 Android APK. Although GitHub labels its license NOASSERTION, the inspected LICENSE explicitly grants AGPL version 3 or later for the program. Accessibility-dependent UI functions require the service; no permissions were granted or device operated.
 
-- Record JSON: https://awesomecua.github.io/resources/github-droidrun-mobilerun-portal/record.json
+- Record JSON: https://awesomecua.com/resources/github-droidrun-mobilerun-portal/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Bibliographic record for Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-08964/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-08964/
 - Original source: https://arxiv.org/abs/2607.08964
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Long-Horizon-Terminal-Bench: Testing the Limits of Agen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-08964/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-08964/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zongxia Li, Zhongzhi Li, Yucheng Shi, Ruhan Wang, Junyao Yang, Zhichao Liu, Xiya
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-08964/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-08964/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-08964/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-08964/citation.csl.json
 
 ## Recorded arXiv snapshot
 

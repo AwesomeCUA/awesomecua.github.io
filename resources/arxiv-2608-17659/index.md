@@ -2,7 +2,7 @@
 
 Evaluates environmental injection risks in Android tasks using programmatic risk checks and model-based adjudication of ambiguous cases.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-17659/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-17659/
 - Original source: https://arxiv.org/abs/2608.17659
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates environmental injection risks in Android tasks using programmatic risk
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-17659/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-17659/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sujin Chen, Lijun Li, Tianyi Du, Jing Shao
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-17659/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-17659/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-17659/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-17659/citation.csl.json
 
 ## Recorded arXiv snapshot
 

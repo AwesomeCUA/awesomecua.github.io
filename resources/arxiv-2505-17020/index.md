@@ -2,7 +2,7 @@
 
 Bibliographic record for CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-17020/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-17020/
 - Original source: https://arxiv.org/abs/2505.17020
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for CrossLMM: Decoupling Long Video Sequences from LMMs via
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-17020/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-17020/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shilin Yan, Jiaming Han, Joey Tsai, Hongwei Xue, Rongyao Fang, Lingyi Hong, Ziyu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-17020/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-17020/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-17020/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-17020/citation.csl.json
 
 ## Recorded arXiv snapshot
 

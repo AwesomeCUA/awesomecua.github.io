@@ -2,7 +2,7 @@
 
 KG-RAG converts UI transition graphs into a searchable vector store and uses intent-guided retrieval to construct actionable navigation paths. It introduces KG-Android-Bench and KG-Harmony-Bench and evaluates transfer from mobile apps to web and desktop tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-00366/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-00366/
 - Original source: https://arxiv.org/abs/2509.00366
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ KG-RAG converts UI transition graphs into a searchable vector store and uses int
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-00366/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-00366/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Yuzhi Zha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-00366/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-00366/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-00366/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-00366/citation.csl.json
 
 ## Recorded arXiv snapshot
 

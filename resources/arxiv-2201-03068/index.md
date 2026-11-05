@@ -2,7 +2,7 @@
 
 Bibliographic record for Study of the effect of quantum noise on the accuracy of the Schrodinger equation simulation on a quantum computer using the Zalka-Wiesner method. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2201-03068/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2201-03068/
 - Original source: https://arxiv.org/abs/2201.03068
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Study of the effect of quantum noise on the accuracy of
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2201-03068/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2201-03068/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yu. I. Bogdanov, N. A. Bogdanova, D. V. Fastovets, V. F. Lukichev
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2201-03068/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2201-03068/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2201-03068/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2201-03068/citation.csl.json
 
 ## Recorded arXiv snapshot
 

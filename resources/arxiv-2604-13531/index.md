@@ -2,7 +2,7 @@
 
 Bibliographic record for RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-13531/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-13531/
 - Original source: https://arxiv.org/abs/2604.13531
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for RiskWebWorld: A Realistic Interactive Benchmark for GUI
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13531/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-13531/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Renqi Chen, Zeyin Tao, Jianming Guo, Jing Wang, Zezhou Xu, Jingzhe Zhu, Qingqing
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13531/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13531/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-13531/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-13531/citation.csl.json
 
 ## Recorded arXiv snapshot
 

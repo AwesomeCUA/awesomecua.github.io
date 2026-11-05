@@ -2,7 +2,7 @@
 
 FineState-Bench evaluates fine-grained GUI perception and control across desktop, web, and mobile interfaces. Its Visual Diagnostic Assistant separates perception and localization contributions in controlled interaction experiments.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-09241/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2508-09241/
 - Original source: https://arxiv.org/abs/2508.09241
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ FineState-Bench evaluates fine-grained GUI perception and control across desktop
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-09241/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2508-09241/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fengxian Ji, Jingpu Yang, Zirui Song, Yuanxi Wang, Zhexuan Cui, Yuke Li, Qian Ji
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-09241/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-09241/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2508-09241/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2508-09241/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Uses staged supervised training to combine GUI understanding and grounding with hierarchical reasoning and expectation-based reflection.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-04575/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2501-04575/
 - Original source: https://arxiv.org/abs/2501.04575
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses staged supervised training to combine GUI understanding and grounding with 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-04575/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2501-04575/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuhang Liu, Pengxiang Li, Zishu Wei, Congkai Xie, Xueyu Hu, Xinchen Xu, Shengyu 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-04575/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-04575/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2501-04575/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2501-04575/citation.csl.json
 
 ## Recorded arXiv snapshot
 

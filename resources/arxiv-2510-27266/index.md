@@ -2,7 +2,7 @@
 
 HyperClick trains GUI grounders to produce a click and an accompanying confidence estimate using rewards for correctness and confidence alignment. Its evaluation examines localization, calibration, and abstention behavior.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-27266/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-27266/
 - Original source: https://arxiv.org/abs/2510.27266
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ HyperClick trains GUI grounders to produce a click and an accompanying confidenc
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-27266/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-27266/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shaojie Zhang, Pei Fu, Ruoceng Zhang, Jiahui Yang, Anan Du, Xiuwen Xi, Shaokang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-27266/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-27266/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-27266/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-27266/citation.csl.json
 
 ## Recorded arXiv snapshot
 

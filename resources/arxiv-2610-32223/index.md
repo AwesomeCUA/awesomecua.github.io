@@ -2,7 +2,7 @@
 
 Bibliographic record for Correct Answers, Closed Gates: SolveBind for GUI Agents at the Verification Barrier. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-32223/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-32223/
 - Original source: https://arxiv.org/abs/2610.32223
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Correct Answers, Closed Gates: SolveBind for GUI Agents
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-32223/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-32223/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xinhao Song, Haoxuan Peng, Su Su, Hongliang Wu, Sirui Song, Gongshen Liu, Linfen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-32223/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-32223/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-32223/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-32223/citation.csl.json
 
 ## Recorded arXiv snapshot
 

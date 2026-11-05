@@ -2,7 +2,7 @@
 
 DynaWeb learns a world model that predicts web-page representations after actions and uses it to generate policy-training rollouts. It interleaves these rollouts with expert trajectories and evaluates the trained web agents on WebArena and WebVoyager.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-22149/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-22149/
 - Original source: https://arxiv.org/abs/2601.22149
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ DynaWeb learns a world model that predicts web-page representations after action
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-22149/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-22149/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hang Ding, Peidong Liu, Junqiao Wang, Ziwei Ji, Meng Cao, Rongzhao Zhang, Lynn A
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-22149/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-22149/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-22149/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-22149/citation.csl.json
 
 ## Recorded arXiv snapshot
 

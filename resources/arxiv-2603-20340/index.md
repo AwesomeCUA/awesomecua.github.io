@@ -2,7 +2,7 @@
 
 Turns draft web-agent skills into structured executable artifacts that support deterministic checks, fault localization and local repair. VisualWebArena and MiniWoB experiments examine execution and reuse within the same benchmark family.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-20340/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-20340/
 - Original source: https://arxiv.org/abs/2603.20340
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Turns draft web-agent skills into structured executable artifacts that support d
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract limits its portability evidence to transfer within a benchmark family, not generalization across arbitrary benchmarks.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-20340/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-20340/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zijian Lu, Yiping Zuo, Yupeng Nie, Xin He, Weibei Fan, Lianyong Qi, Shi Jin
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-20340/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-20340/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-20340/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-20340/citation.csl.json
 
 ## Recorded arXiv snapshot
 

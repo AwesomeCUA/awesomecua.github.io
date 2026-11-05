@@ -2,7 +2,7 @@
 
 The Entry–Propagation–Recovery framework traces where conflicting memory first changes an agent action, how the effect propagates and whether recovery occurs. WebArena and the controlled MemTrapBench separate memory-consumption failures across these stages.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-10608/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-10608/
 - Original source: https://arxiv.org/abs/2607.10608
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ The Entry–Propagation–Recovery framework traces where conflicting memory fir
 
 Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-10608/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-10608/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yixiong Chen, Xinyi Bai, Alan Yuille
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-10608/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-10608/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-10608/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-10608/citation.csl.json
 
 ## Recorded arXiv snapshot
 

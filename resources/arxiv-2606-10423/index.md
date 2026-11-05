@@ -2,7 +2,7 @@
 
 WebChallenger builds a hierarchical DOM-derived page representation for selective observation, reusable site maps and compound actions. The framework combines these mechanisms without model fine-tuning and evaluates generalization across multiple web-agent benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-10423/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-10423/
 - Original source: https://arxiv.org/abs/2606.10423
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebChallenger builds a hierarchical DOM-derived page representation for selectiv
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-10423/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-10423/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jayoo Hwang, Xiaowen Zhang, Vedant Padwal
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-10423/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-10423/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-10423/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-10423/citation.csl.json
 
 ## Recorded arXiv snapshot
 

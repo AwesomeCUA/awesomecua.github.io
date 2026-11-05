@@ -2,7 +2,7 @@
 
 Bibliographic record for Privacy-Preserving Multimedia Mobile Cloud Computing Using Protective Perturbation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-01710/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2409-01710/
 - Original source: https://arxiv.org/abs/2409.01710
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Privacy-Preserving Multimedia Mobile Cloud Computing Us
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-01710/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2409-01710/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhongze Tang, Mengmei Ye, Yao Liu, Sheng Wei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-01710/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-01710/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2409-01710/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2409-01710/citation.csl.json
 
 ## Recorded arXiv snapshot
 

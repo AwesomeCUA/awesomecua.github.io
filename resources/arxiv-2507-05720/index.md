@@ -2,7 +2,7 @@
 
 MobileGUI-RL constructs an online training curriculum through agent exploration and task filtering. It adapts GRPO with trajectory-aware advantages and rewards for task completion and execution efficiency, evaluated on three online mobile-agent benchmarks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-05720/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-05720/
 - Original source: https://arxiv.org/abs/2507.05720
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileGUI-RL constructs an online training curriculum through agent exploration 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05720/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-05720/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yucheng Shi, Wenhao Yu, Zaitang Li, Yonglin Wang, Hongming Zhang, Ninghao Liu, H
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05720/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05720/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-05720/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-05720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

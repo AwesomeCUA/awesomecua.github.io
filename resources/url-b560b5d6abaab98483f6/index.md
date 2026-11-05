@@ -2,7 +2,7 @@
 
 Introduces Rico, collecting Android interface designs and interaction traces through crowdsourced use followed by automated exploration. The paper demonstrates UI-layout retrieval using learned representations and describes visual, textual, structural, and interaction data.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/
+- Catalog URL: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/
 - Original source: https://doi.org/10.1145/3126594.3126651
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Rico, collecting Android interface designs and interaction traces thr
 
 The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim.
 
-- Record JSON: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/record.json
+- Record JSON: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang 
 - Authors: Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar
 - Publication date (recorded precision): 2017-10-20
 - Publication source: https://doi.org/10.1145/3126594.3126651
-- Publication BibTeX: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/publication-citation.csl.json
 - venue: UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology
 - pages: 845-854
 - doi: 10.1145/3126594.3126651

@@ -2,7 +2,7 @@
 
 Introduces UITron-Speech, which predicts GUI actions from spoken instructions and screenshots. It combines synthetic speech data and mixed-modality training with a training-free grounding refinement step.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-11127/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-11127/
 - Original source: https://arxiv.org/abs/2506.11127
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces UITron-Speech, which predicts GUI actions from spoken instructions an
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-11127/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-11127/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wenkang Han, Zhixiong Zeng, Jing Huang, Shu Jiang, Liming Zheng, Longrong Yang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-11127/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-11127/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-11127/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-11127/citation.csl.json
 
 ## Recorded arXiv snapshot
 

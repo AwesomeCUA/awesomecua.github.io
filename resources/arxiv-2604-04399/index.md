@@ -2,7 +2,7 @@
 
 GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces rather than relying on one holistic trajectory score.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-04399/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-04399/
 - Original source: https://arxiv.org/abs/2604.04399
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing ea
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-04399/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-04399/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yuwen Zhai, Runze Li, Liang Wang, Nian Shi, Liwu Xu, Wei Zhang, Ran Lin, Bo Xu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-04399/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-04399/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-04399/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-04399/citation.csl.json
 
 ## Recorded arXiv snapshot
 

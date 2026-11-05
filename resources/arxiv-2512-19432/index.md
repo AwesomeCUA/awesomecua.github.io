@@ -2,7 +2,7 @@
 
 Introduces long mobile workflows that combine agent-user interaction, cross-application tasks, and MCP-based tool access.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-19432/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-19432/
 - Original source: https://arxiv.org/abs/2512.19432
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces long mobile workflows that combine agent-user interaction, cross-appl
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-19432/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-19432/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Quyu Kong, Xu Zhang, Zhenyu Yang, Nolan Gao, Chen Liu, Panrong Tong, Chenglin Ca
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-19432/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-19432/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-19432/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-19432/citation.csl.json
 
 ## Recorded arXiv snapshot
 

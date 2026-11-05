@@ -2,7 +2,7 @@
 
 Introduces WindowsWorld for professional workflows spanning multiple desktop applications, with generated tasks refined through human review. Intermediate subgoals support process-oriented evaluation of cross-application reasoning and execution efficiency.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-27776/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-27776/
 - Original source: https://arxiv.org/abs/2604.27776
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces WindowsWorld for professional workflows spanning multiple desktop app
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Desktop use is explicit; no additional operating-system claim is inferred solely from the benchmark name.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-27776/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-27776/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jinchao Li, Yunxin Li, Chenrui Zhao, Zhenran Xu, Baotian Hu, Min Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-27776/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-27776/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-27776/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-27776/citation.csl.json
 
 ## Recorded arXiv snapshot
 

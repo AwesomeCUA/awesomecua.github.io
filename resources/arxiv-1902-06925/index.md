@@ -2,7 +2,7 @@
 
 Bibliographic record for Spin-wave mediated interactions for Majority Computation using Skyrmions and Spin-torque Nano-oscillators. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1902-06925/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1902-06925/
 - Original source: https://arxiv.org/abs/1902.06925
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Spin-wave mediated interactions for Majority Computatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1902-06925/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1902-06925/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Venkata Pavan Kumar Miriyala, Zhifeng Zhu, Gengchiau Liang, Xuanyao Fong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1902-06925/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1902-06925/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1902-06925/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1902-06925/citation.csl.json
 
 ## Recorded arXiv snapshot
 

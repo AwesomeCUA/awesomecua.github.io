@@ -2,7 +2,7 @@
 
 Bibliographic record for DyCraft: An Agentic System for Long-Horizon 4D Scene Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-40754/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-40754/
 - Original source: https://arxiv.org/abs/2610.40754
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for DyCraft: An Agentic System for Long-Horizon 4D Scene Ge
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-40754/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-40754/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jeff Tan, Hang Dai, Zeqian Long, Yanzhe Lyu, R. Kenny Jones, Shangzhe Wu, Chen G
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-40754/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-40754/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-40754/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-40754/citation.csl.json
 
 ## Recorded arXiv snapshot
 

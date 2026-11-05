@@ -2,7 +2,7 @@
 
 IDA helps business users create web UI automation through guided demonstrations, a semantic programming model, and a teaching-oriented interface. A prototype user study examines automation creation with enterprise applications by users without programming backgrounds.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-15673/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2407-15673/
 - Original source: https://arxiv.org/abs/2407.15673
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ IDA helps business users create web UI automation through guided demonstrations,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-15673/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2407-15673/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Segev Shlomov, Avi Yaeli, Sami Marreed, Sivan Schwartz, Netanel Eder, Offer Akra
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-15673/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-15673/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2407-15673/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2407-15673/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 AgentHijack evaluates whether visual patch effects propagate from screenshots through model outputs and action parsing into real environment changes. Its controlled web-page experiments distinguish intermediate attack signals from verified end-to-end consequences.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-09212/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-09212/
 - Original source: https://arxiv.org/abs/2609.09212
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AgentHijack evaluates whether visual patch effects propagate from screenshots th
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-09212/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-09212/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhihao Liu, Hongyu Sun, Zhiyuan Fu, Xiaonan Duan, Jice Wang, Shangru Zhao, Weizh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-09212/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-09212/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-09212/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-09212/citation.csl.json
 
 ## Recorded arXiv snapshot
 

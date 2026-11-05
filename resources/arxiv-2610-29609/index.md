@@ -2,7 +2,7 @@
 
 Bibliographic record for Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-29609/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-29609/
 - Original source: https://arxiv.org/abs/2610.29609
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Who Verifies the Agent's Success Claim? Self-Report Lea
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-29609/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-29609/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yunfeng Zhu, Shengcheng Yu, Zihan Li, Zhenyu Chen
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-29609/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-29609/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-29609/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-29609/citation.csl.json
 
 ## Recorded arXiv snapshot
 

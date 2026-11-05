@@ -2,7 +2,7 @@
 
 Bibliographic record for FailureMem: A Failure-Aware Multimodal Framework for Autonomous Software Repair. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-17826/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-17826/
 - Original source: https://arxiv.org/abs/2603.17826
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for FailureMem: A Failure-Aware Multimodal Framework for Au
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-17826/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-17826/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruize Ma, Yilei Jiang, Shilin Zhang, Zheng Ma, Yi Feng, Vincent Ng, Zhi Wang, Xi
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-17826/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-17826/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-17826/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-17826/citation.csl.json
 
 ## Recorded arXiv snapshot
 

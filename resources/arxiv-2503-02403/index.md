@@ -2,7 +2,7 @@
 
 Generates reward signals from UI-state changes and uses a judging system to evaluate mobile agents with reduced manual evaluator construction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-02403/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-02403/
 - Original source: https://arxiv.org/abs/2503.02403
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Generates reward signals from UI-state changes and uses a judging system to eval
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-02403/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-02403/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Jiahui Sun, Zhichao Hua, Yubin Xia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-02403/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-02403/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-02403/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-02403/citation.csl.json
 
 ## Recorded arXiv snapshot
 

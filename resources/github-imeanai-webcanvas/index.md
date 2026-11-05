@@ -2,7 +2,7 @@
 
 Framework and evaluation resources for real-world web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-imeanai-webcanvas/
+- Catalog URL: https://awesomecua.com/resources/github-imeanai-webcanvas/
 - Original source: https://github.com/iMeanAI/WebCanvas
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Framework and evaluation resources for real-world web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-imeanai-webcanvas/record.json
+- Record JSON: https://awesomecua.com/resources/github-imeanai-webcanvas/record.json
 
 ## License declarations
 

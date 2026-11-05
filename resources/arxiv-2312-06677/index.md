@@ -2,7 +2,7 @@
 
 Presents LLMPA, a mobile process-automation architecture that decomposes requests, identifies interface elements, predicts actions and checks errors. Demonstrations evaluate multistep operations in Alipay.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2312-06677/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2312-06677/
 - Original source: https://arxiv.org/abs/2312.06677
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Presents LLMPA, a mobile process-automation architecture that decomposes request
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The abstract names Alipay but does not establish Android or iOS specifically.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-06677/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2312-06677/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yanchu Guan, Dong Wang, Zhixuan Chu, Shiyu Wang, Feiyue Ni, Ruihua Song, Longfei
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-06677/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-06677/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2312-06677/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2312-06677/citation.csl.json
 
 ## Recorded arXiv snapshot
 

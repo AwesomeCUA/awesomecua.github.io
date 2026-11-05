@@ -2,7 +2,7 @@
 
 Plover exposes GUI-agent plans and replanning as persistent artifacts that users can inspect and edit during execution. Its planner–executor design supports localized correction through plan edits, language guidance and screenshot-grounded interventions, studied through failure repair and workflow scenarios.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2607-15193/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-15193/
 - Original source: https://arxiv.org/abs/2607.15193
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Plover exposes GUI-agent plans and replanning as persistent artifacts that users
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-15193/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-15193/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Madhumitha Venkatesan, Shicheng Wen, Jiajing Guo, Jorge Piazentin Ono, Liu Ren, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-15193/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-15193/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-15193/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-15193/citation.csl.json
 
 ## Recorded arXiv snapshot
 

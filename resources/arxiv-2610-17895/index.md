@@ -2,7 +2,7 @@
 
 Uses computer-use agents to interact with generated applications, studying whether interaction improves preference judging, requirement checks, and feedback for application generation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-17895/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-17895/
 - Original source: https://arxiv.org/abs/2610.17895
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Uses computer-use agents to interact with generated applications, studying wheth
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-17895/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-17895/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Wayne Chi, I-Hung Hsu, Li Chen, Wei-Lin Chiang, Ion Stoica, Anastasios Nikolas A
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-17895/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-17895/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-17895/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-17895/citation.csl.json
 
 ## Recorded arXiv snapshot
 

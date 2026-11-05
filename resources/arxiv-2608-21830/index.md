@@ -2,7 +2,7 @@
 
 Introduces LACL-GUI, a contrastive learning objective that distinguishes trajectory quality within both successful and failed GUI executions. It favors concise successes and uses divergence from successful trajectories to differentiate failures during policy optimization.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-21830/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-21830/
 - Original source: https://arxiv.org/abs/2608.21830
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces LACL-GUI, a contrastive learning objective that distinguishes traject
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-21830/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-21830/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Chengyang Gu, Le Zhang, Jingbo Zhou, Yize Chen, Yu Shi, Siqi Bao, Zheng-Fan Wu, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-21830/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-21830/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-21830/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-21830/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Introduces reasoning gates that require agents to solve generated, verifiable puzzles before receiving access to resources. The throttling approach is deployed on a custom website and MCP servers and evaluated with web agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-01619/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-01619/
 - Original source: https://arxiv.org/abs/2509.01619
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces reasoning gates that require agents to solve generated, verifiable pu
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The contribution is an access-cost mechanism spanning websites and MCP servers, not a GUI navigation policy.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-01619/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-01619/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Abhinav Kumar, Jaechul Roh, Ali Naseh, Amir Houmansadr, Eugene Bagdasarian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-01619/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-01619/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-01619/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-01619/citation.csl.json
 
 ## Recorded arXiv snapshot
 

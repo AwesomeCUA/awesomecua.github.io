@@ -2,7 +2,7 @@
 
 This framework learns an agentic-Q model to estimate individual actions’ contributions to GUI task completion. It then optimizes a policy with step-level samples from its own trajectories, decoupling policy updates from environment interaction.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-13653/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-13653/
 - Original source: https://arxiv.org/abs/2602.13653
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This framework learns an agentic-Q model to estimate individual actions’ contr
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-13653/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-13653/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yibo Wang, Guangda Huzhang, Yuwei Hu, Yu Xia, Shiyin Lu, Qing-Guo Chen, Zhao Xu,
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-13653/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-13653/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-13653/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-13653/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 WebSentinel identifies suspicious webpage segments and checks each against its surrounding page context to detect and locate prompt injections. Its evaluation uses both contaminated and clean webpage datasets.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-03792/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-03792/
 - Original source: https://arxiv.org/abs/2602.03792
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WebSentinel identifies suspicious webpage segments and checks each against its s
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-03792/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-03792/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xilong Wang, Yinuo Liu, Zhun Wang, Dawn Song, Neil Gong
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-03792/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-03792/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-03792/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-03792/citation.csl.json
 
 ## Recorded arXiv snapshot
 

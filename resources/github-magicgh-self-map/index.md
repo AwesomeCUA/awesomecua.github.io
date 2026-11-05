@@ -2,7 +2,7 @@
 
 A conversational web-agent implementation with candidate ranking and memory-assisted action planning, including optional memory simplification, refinement and self-reflection modules.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-magicgh-self-map/
+- Catalog URL: https://awesomecua.com/resources/github-magicgh-self-map/
 - Original source: https://github.com/magicgh/Self-MAP
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ A conversational web-agent implementation with candidate ranking and memory-assi
 
 The source tree provides candidate-generation and action-prediction training/evaluation scripts. Its documented workflow requires separately downloaded MT-Mind2Web data and configured model/API paths. The README cites the ACL publication by DOI; a retained original arXiv abstract explicitly names Self-MAP and MT-Mind2Web and supplies the catalog paper relation without a new bibliography entity. MIT is the code license; the separate data artifact declares CC-BY-4.0.
 
-- Record JSON: https://awesomecua.github.io/resources/github-magicgh-self-map/record.json
+- Record JSON: https://awesomecua.com/resources/github-magicgh-self-map/record.json
 
 ## License declarations
 

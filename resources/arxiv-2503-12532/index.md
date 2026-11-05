@@ -2,7 +2,7 @@
 
 Labels individual computer-use actions by comparing surrounding screenshots, then trains agents from both successful and unsuccessful steps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-12532/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2503-12532/
 - Original source: https://arxiv.org/abs/2503.12532
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Labels individual computer-use actions by comparing surrounding screenshots, the
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-12532/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2503-12532/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fanbin Lu, Zhisheng Zhong, Ziqin Wei, Shu Liu, Chi-Wing Fu, Jiaya Jia
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-12532/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-12532/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2503-12532/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2503-12532/citation.csl.json
 
 ## Recorded arXiv snapshot
 

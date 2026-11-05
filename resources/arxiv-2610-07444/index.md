@@ -2,7 +2,7 @@
 
 Compares ways to condition a small GUI grounding model on action type under matched training conditions on Android in the Wild. The study traces apparent gains to a coordinate-serialization choice and reports limited evidence that the gains persist with predicted action types.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-07444/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-07444/
 - Original source: https://arxiv.org/abs/2610.07444
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Compares ways to condition a small GUI grounding model on action type under matc
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-07444/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-07444/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Aadi Chauhan, Arthur Ilyasov
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-07444/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-07444/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-07444/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-07444/citation.csl.json
 
 ## Recorded arXiv snapshot
 

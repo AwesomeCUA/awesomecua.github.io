@@ -2,7 +2,7 @@
 
 Trains ScreenExplorer with reinforcement learning in dynamic GUI environments, using a world-model curiosity reward and experience-stream distillation to support sustained exploration.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-19095/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-19095/
 - Original source: https://arxiv.org/abs/2505.19095
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Trains ScreenExplorer with reinforcement learning in dynamic GUI environments, u
 
 Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-19095/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-19095/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Runliang Niu, Jinglong Ji, Yi Chang, Qi Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-19095/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-19095/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-19095/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-19095/citation.csl.json
 
 ## Recorded arXiv snapshot
 

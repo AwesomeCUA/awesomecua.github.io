@@ -2,7 +2,7 @@
 
 Introduces Screen Point-and-Read and a hierarchical layout approach that interprets screen regions indicated by a user-selected point.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-19263/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2406-19263/
 - Original source: https://arxiv.org/abs/2406.19263
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Screen Point-and-Read and a hierarchical layout approach that interpr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-19263/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2406-19263/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yue Fan, Lei Ding, Ching-Chen Kuo, Shan Jiang, Yang Zhao, Xinze Guan, Jie Yang, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-19263/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-19263/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2406-19263/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2406-19263/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Yue Fan, Lei Ding, Ching-Chen Kuo, Shan Jiang, Yang Zhao, Xinze Guan, Jie Yang, 
 - Authors: Yue Fan, Lei Ding, Ching-Chen Kuo, Shan Jiang, Yang Zhao, Xinze Guan, Jie Yang, Yi Zhang, Xin Eric Wang
 - Publication date (recorded precision): 2024-11
 - Publication source: https://aclanthology.org/2024.emnlp-main.533/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2406-19263/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-19263/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2406-19263/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2406-19263/publication-citation.csl.json
 - venue: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing
 - publisher: Association for Computational Linguistics
 - pages: 9503-9522

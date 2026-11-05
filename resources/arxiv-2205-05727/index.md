@@ -2,7 +2,7 @@
 
 Bibliographic record for 3-Qubit Circular Quantum Convolution Computation using Fourier Transform with Illustrative Examples. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2205-05727/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2205-05727/
 - Original source: https://arxiv.org/abs/2205.05727
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for 3-Qubit Circular Quantum Convolution Computation using 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2205-05727/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2205-05727/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Artyom M. Grigoryan, Sos S. Agaian
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2205-05727/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2205-05727/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2205-05727/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2205-05727/citation.csl.json
 
 ## Recorded arXiv snapshot
 

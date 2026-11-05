@@ -2,7 +2,7 @@
 
 MIRAGE constructs mobile screenshot injections in ordinary user-content regions through localization, contextual payload generation and realism curation. Its evaluation separates visual realism from attack effectiveness against pixel-observing GUI agents.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-28116/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-28116/
 - Original source: https://arxiv.org/abs/2605.28116
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MIRAGE constructs mobile screenshot injections in ordinary user-content regions 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-28116/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-28116/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruoqi Guo, Yi Liu, Gelei Deng, Yiheng Xiong, Yuekang Li, Ying Zhang, Leo Yu Zhan
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-28116/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-28116/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-28116/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-28116/citation.csl.json
 
 ## Recorded arXiv snapshot
 

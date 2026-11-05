@@ -2,7 +2,7 @@
 
 Describes a web-trajectory verifier built around structured rubrics, separate process and outcome judgments, and explicit treatment of uncontrollable failures. CUAVerifierBench supplies human labels for evaluating these choices and screenshot-based context management.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-06240/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-06240/
 - Original source: https://arxiv.org/abs/2604.06240
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes a web-trajectory verifier built around structured rubrics, separate pr
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06240/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-06240/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Corby Rosset, Pratyusha Sharma, Andrew Zhao, Miguel Gonzalez-Fernandez, Ahmed Aw
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06240/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06240/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-06240/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-06240/citation.csl.json
 
 ## Recorded arXiv snapshot
 

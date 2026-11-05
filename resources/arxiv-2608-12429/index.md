@@ -2,7 +2,7 @@
 
 SynWeaver explores a website to build a map of page states and executable interactions, then learns website priors for task proposals. Joint task/trajectory synthesis revises inconsistent pairs and verifies or repairs the resulting supervision.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-12429/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-12429/
 - Original source: https://arxiv.org/abs/2608.12429
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SynWeaver explores a website to build a map of page states and executable intera
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-12429/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-12429/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruitao Wang, Yuwen Hao, Menglin Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-12429/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-12429/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-12429/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-12429/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Desktop app for a local GUI agent driven by UI-TARS and Seed-1.5-VL/1.6 models, offering local and remote operators for computers and browsers; the repository also ships the Agent TARS CLI and web UI.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-bytedance-ui-tars-desktop/
+- Catalog URL: https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/
 - Original source: https://github.com/bytedance/UI-TARS-desktop
 - Kind: agent
 - Review: curated
@@ -16,7 +16,7 @@ Desktop app for a local GUI agent driven by UI-TARS and Seed-1.5-VL/1.6 models, 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-bytedance-ui-tars-desktop/record.json
+- Record JSON: https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/record.json
 
 ## License declarations
 

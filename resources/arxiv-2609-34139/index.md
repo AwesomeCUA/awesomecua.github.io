@@ -2,7 +2,7 @@
 
 Introduces AnyAppBench, a live Android benchmark that holds user goals fixed while changing the application used to achieve them. It combines category-controlled task pairs with failure annotations to distinguish task understanding from application-specific execution skill.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-34139/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-34139/
 - Original source: https://arxiv.org/abs/2609.34139
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces AnyAppBench, a live Android benchmark that holds user goals fixed whi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-34139/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-34139/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Tien Tran, Namho Koh, Daiki E. Matsunaga, Ayush Jain, Kee Eung Kim
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-34139/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-34139/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-34139/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-34139/citation.csl.json
 
 ## Recorded arXiv snapshot
 

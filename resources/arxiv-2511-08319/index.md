@@ -2,7 +2,7 @@
 
 Bibliographic record for Adaptive Multi-Agent Response Refinement in Conversational Systems. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-08319/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-08319/
 - Original source: https://arxiv.org/abs/2511.08319
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Adaptive Multi-Agent Response Refinement in Conversatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-08319/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-08319/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Soyeong Jeong, Aparna Elangovan, Emine Yilmaz, Oleg Rokhlenko
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-08319/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-08319/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-08319/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-08319/citation.csl.json
 
 ## Recorded arXiv snapshot
 

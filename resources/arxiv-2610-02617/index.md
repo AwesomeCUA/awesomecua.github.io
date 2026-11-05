@@ -2,7 +2,7 @@
 
 Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-02617/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-02617/
 - Original source: https://arxiv.org/abs/2610.02617
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces an execution-based benchmark for generated web interfaces, with a hea
 
 Adjacent evaluation infrastructure: the target is generated WebUI functionality, not a general score for computer-use agents. This annotation is based on the complete retained abstract; released artifacts and experimental results were not independently inspected or reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-02617/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-02617/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yun-Yun Tsai, Yuning Mao, Shiqi Wang, Junfeng Yang, Sinong Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-02617/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-02617/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-02617/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-02617/citation.csl.json
 
 ## Recorded arXiv snapshot
 

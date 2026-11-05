@@ -2,7 +2,7 @@
 
 An InternVL2-based visual GUI checkpoint distributed for grounding and interface navigation, with the publisher recommending task-specific fine-tuning of the base release.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-52b7de0e43b1afc9c226/
+- Catalog URL: https://awesomecua.com/resources/url-52b7de0e43b1afc9c226/
 - Original source: https://huggingface.co/SenseLLM/SpiritSight-Agent-8B
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ An InternVL2-based visual GUI checkpoint distributed for grounding and interface
 
 The Hub manifest exposes four safetensors shards under SpiritSight-Agent-8B-base. The card declares Apache-2.0 and separately links InternVL terms in its model table. This is the published base checkpoint; benchmark-specific fine-tuning is discussed separately. No model code was executed.
 
-- Record JSON: https://awesomecua.github.io/resources/url-52b7de0e43b1afc9c226/record.json
+- Record JSON: https://awesomecua.com/resources/url-52b7de0e43b1afc9c226/record.json
 
 ## License declarations
 

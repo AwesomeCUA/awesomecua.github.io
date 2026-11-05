@@ -2,7 +2,7 @@
 
 Bibliographic record for Design and Construction of a Brain-Like Computer: A New Class of Frequency-Fractal Computing Using Wireless Communication in a Supramolecular Organic, Inorganic System. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1401-7411/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1401-7411/
 - Original source: https://arxiv.org/abs/1401.7411
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Design and Construction of a Brain-Like Computer: A New
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1401-7411/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1401-7411/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Subrata Ghosh, Krishna Aswani, Surabhi Singh, Satyajit Sahu, Daisuke Fujita, Ani
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1401-7411/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1401-7411/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1401-7411/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1401-7411/citation.csl.json
 
 ## Recorded arXiv snapshot
 

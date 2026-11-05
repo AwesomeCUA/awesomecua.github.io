@@ -2,7 +2,7 @@
 
 Analyzes LLM-based GUI agents through four components (perception, exploration, planning, and interaction) and the methods used to evaluate them.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-13865/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2504-13865/
 - Original source: https://arxiv.org/abs/2504.13865
 - Kind: survey
 - Review: curated
@@ -16,7 +16,7 @@ Analyzes LLM-based GUI agents through four components (perception, exploration, 
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-13865/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2504-13865/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Fei Tang, Haolei Xu, Hang Zhang, Siqi Chen, Xingyu Wu, Yongliang Shen, Wenqi Zha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-13865/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-13865/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2504-13865/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2504-13865/citation.csl.json
 
 ## Recorded arXiv snapshot
 

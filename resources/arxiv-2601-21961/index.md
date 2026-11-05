@@ -2,7 +2,7 @@
 
 Introduces VAF, a controlled pipeline that varies webpage appearance while retaining item semantics. It measures both agent clicks and reasoning references to study which visual design factors change browsing decisions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-21961/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-21961/
 - Original source: https://arxiv.org/abs/2601.21961
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces VAF, a controlled pipeline that varies webpage appearance while retai
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21961/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-21961/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kuai Yu, Naicheng Yu, Han Wang, Rui Yang, Huan Zhang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21961/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21961/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-21961/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-21961/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 Categorizes structural attack surfaces that emerge when single-agent browser systems are decomposed into multi-agent web workflows.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-00202/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-00202/
 - Original source: https://arxiv.org/abs/2608.00202
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Categorizes structural attack surfaces that emerge when single-agent browser sys
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-00202/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-00202/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yashaswi Malla, Sandra Siby
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-00202/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-00202/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-00202/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-00202/citation.csl.json
 
 ## Recorded arXiv snapshot
 

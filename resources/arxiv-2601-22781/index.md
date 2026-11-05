@@ -2,7 +2,7 @@
 
 MobileGen estimates a mobile agent’s strengths across structural and semantic task difficulty, then samples new training targets around that profile. A controllable multi-agent generator creates the corresponding instructions and GUI trajectories.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-22781/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-22781/
 - Original source: https://arxiv.org/abs/2601.22781
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MobileGen estimates a mobile agent’s strengths across structural and semantic 
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-22781/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-22781/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Linjia Kang, Zhimin Wang, Yongkang Zhang, Duo Wu, Jinghe Wang, Ming Ma, Haopeng 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-22781/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-22781/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-22781/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-22781/citation.csl.json
 
 ## Recorded arXiv snapshot
 

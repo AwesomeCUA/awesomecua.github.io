@@ -2,7 +2,7 @@
 
 Computer-use model and training resources from the EvoCUA project.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-meituan-evocua/
+- Catalog URL: https://awesomecua.com/resources/github-meituan-evocua/
 - Original source: https://github.com/meituan/EvoCUA
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@ Computer-use model and training resources from the EvoCUA project.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-meituan-evocua/record.json
+- Record JSON: https://awesomecua.com/resources/github-meituan-evocua/record.json
 
 ## License declarations
 

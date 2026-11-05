@@ -2,7 +2,7 @@
 
 Synthesizes browser-agent trajectories by replaying web tutorials as guidance, releasing the trajectory data with multimodal grounding and reasoning and an AgentTrek-32B agent.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-xlang-ai-agenttrek/
+- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-agenttrek/
 - Original source: https://github.com/xlang-ai/AgentTrek
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Synthesizes browser-agent trajectories by replaying web tutorials as guidance, r
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-agenttrek/record.json
+- Record JSON: https://awesomecua.com/resources/github-xlang-ai-agenttrek/record.json
 
 ## License declarations
 

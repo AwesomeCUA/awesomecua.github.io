@@ -2,7 +2,7 @@
 
 Bibliographic record for $C^3$-Bench: The Things Real Disturbing LLM based Agent in Multi-Tasking. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-18746/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-18746/
 - Original source: https://arxiv.org/abs/2505.18746
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for $C^3$-Bench: The Things Real Disturbing LLM based Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-18746/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-18746/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Peijie Yu, Yifan Yang, Jinjian Li, Zelong Zhang, Haorui Wang, Xiao Feng, Feng Zh
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-18746/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-18746/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-18746/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-18746/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 3B GUI agent trained in two stages: distilling spatial reasoning from teacher models, then reinforcement learning that rewards accurate sub-goals and trains error recovery.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-reallm-labs-infigui-r1/
+- Catalog URL: https://awesomecua.com/resources/github-reallm-labs-infigui-r1/
 - Original source: https://github.com/Reallm-Labs/InfiGUI-R1
 - Kind: model
 - Review: curated
@@ -16,7 +16,7 @@
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-reallm-labs-infigui-r1/record.json
+- Record JSON: https://awesomecua.com/resources/github-reallm-labs-infigui-r1/record.json
 
 ## License declarations
 

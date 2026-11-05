@@ -2,7 +2,7 @@
 
 Bibliographic record for PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-04692/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2403-04692/
 - Original source: https://arxiv.org/abs/2403.04692
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for PixArt-Σ: Weak-to-Strong Training of Diffusion Transfo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-04692/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2403-04692/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Junsong Chen, Chongjian Ge, Enze Xie, Yue Wu, Lewei Yao, Xiaozhe Ren, Zhongdao W
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-04692/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-04692/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2403-04692/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2403-04692/citation.csl.json
 
 ## Recorded arXiv snapshot
 

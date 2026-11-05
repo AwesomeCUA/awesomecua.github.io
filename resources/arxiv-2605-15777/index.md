@@ -2,7 +2,7 @@
 
 SaaS-Bench evaluates browser agents on professional workflows across self-hosted applications. Weighted checkpoints measure task completion and partial progress, with application-state checks and configured content judges documented in the official harness.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-15777/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-15777/
 - Original source: https://arxiv.org/abs/2605.15777
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ SaaS-Bench evaluates browser agents on professional workflows across self-hosted
 
 The complete retained official abstract and cached official README were reviewed. The README establishes browser execution against running SaaS applications; no repository code was executed and benchmark results were not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-15777/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-15777/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Kean Shi, Zihang Li, Tianyi Ma, Zengji Tu, Jialong Wu, Xinbo Xu, Qingyao Yang, R
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-15777/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-15777/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-15777/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-15777/citation.csl.json
 
 ## Recorded arXiv snapshot
 

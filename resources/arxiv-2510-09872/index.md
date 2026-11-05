@@ -2,7 +2,7 @@
 
 WARC-Bench packages dynamic web pages as replayable archives and evaluates short navigation subtasks involving components such as date pickers and scrollable containers. It also studies supervised training followed by reinforcement learning with verifiable rewards on these browser interactions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-09872/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2510-09872/
 - Original source: https://arxiv.org/abs/2510.09872
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ WARC-Bench packages dynamic web pages as replayable archives and evaluates short
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-09872/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2510-09872/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Sanjari Srivastava, Gang Li, Cheng Chang, Rishu Garg, Manpreet Kaur, Charlene Y.
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-09872/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-09872/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2510-09872/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2510-09872/citation.csl.json
 
 ## Recorded arXiv snapshot
 

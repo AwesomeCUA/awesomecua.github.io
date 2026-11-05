@@ -2,7 +2,7 @@
 
 LookAgain treats a GUI coordinate as a revisable hypothesis, rendering its marker and a local screenshot patch before confirmation. Reflective supervised trajectories provide a cold start, followed by GRPO using terminal grounding correctness.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-09723/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-09723/
 - Original source: https://arxiv.org/abs/2608.09723
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ LookAgain treats a GUI coordinate as a revisable hypothesis, rendering its marke
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-09723/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-09723/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Renshan Zhang, Haoyang Meng, Yixiao He, Rui Shao, April Hua Liu, Liqiang Nie
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-09723/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-09723/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-09723/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-09723/citation.csl.json
 
 ## Recorded arXiv snapshot
 

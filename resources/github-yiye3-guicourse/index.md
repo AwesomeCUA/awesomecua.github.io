@@ -2,7 +2,7 @@
 
 Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grounding, GUIAct with 67k single-step and 15k multi-step web and Android actions, and GUIChat dialogues.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-yiye3-guicourse/
+- Catalog URL: https://awesomecua.com/resources/github-yiye3-guicourse/
 - Original source: https://github.com/yiye3/GUICourse
 - Kind: dataset
 - Review: curated
@@ -16,7 +16,7 @@ Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grou
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-yiye3-guicourse/record.json
+- Record JSON: https://awesomecua.com/resources/github-yiye3-guicourse/record.json
 
 ## License declarations
 

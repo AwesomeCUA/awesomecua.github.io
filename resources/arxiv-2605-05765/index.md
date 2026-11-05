@@ -2,7 +2,7 @@
 
 Describes an Android agent architecture combining multimodal perception, working and personal memory, hybrid XML/visual grounding, and reusable skills captured from user interactions.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-05765/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-05765/
 - Original source: https://arxiv.org/abs/2605.05765
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Describes an Android agent architecture combining multimodal perception, working
 
 The report presents demonstrations. Its behavior-cloning component captures runtime skills; it does not establish policy-weight imitation training, and literal trace replay is described as future work. No general benchmark result or release completeness is inferred. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (2 Framework; 3 Omni Perception; 4 Omni Memory; 5.1 Omni Action in App Ecosystem; 5.2 Trajectory Cloned Execution); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-05765/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-05765/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiaoming Ren, Ru Zhen, Chao Li, Yang Song, Qiuxia Hou, Yanhao Zhang, Peng Liu, Q
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-05765/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-05765/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-05765/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-05765/citation.csl.json
 
 ## Recorded arXiv snapshot
 

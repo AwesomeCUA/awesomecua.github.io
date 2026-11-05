@@ -2,7 +2,7 @@
 
 This work retrieves online video tutorials and converts them into structured GUI action demonstrations with short objectives. A two-stage selection process supplies a relevant local trajectory as in-context guidance at each execution step.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-04137/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2511-04137/
 - Original source: https://arxiv.org/abs/2511.04137
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ This work retrieves online video tutorials and converts them into structured GUI
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-04137/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2511-04137/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yujian Liu, Ze Wang, Hao Chen, Ximeng Sun, Xiaodong Yu, Jialian Wu, Jiang Liu, E
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-04137/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-04137/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2511-04137/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2511-04137/citation.csl.json
 
 ## Recorded arXiv snapshot
 

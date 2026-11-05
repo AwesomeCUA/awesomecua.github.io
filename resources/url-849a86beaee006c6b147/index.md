@@ -2,7 +2,7 @@
 
 Dataset and benchmark for generating computer interaction programs.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-849a86beaee006c6b147/
+- Catalog URL: https://awesomecua.com/resources/url-849a86beaee006c6b147/
 - Original source: https://huggingface.co/datasets/Writer/omniact
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Dataset and benchmark for generating computer interaction programs.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/url-849a86beaee006c6b147/record.json
+- Record JSON: https://awesomecua.com/resources/url-849a86beaee006c6b147/record.json
 
 ## Structured profile
 

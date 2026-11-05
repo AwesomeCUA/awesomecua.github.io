@@ -2,7 +2,7 @@
 
 Collects Android interaction demonstrations with screens, actions, and instructions across device and platform variations for robustness evaluation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2307-10088/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2307-10088/
 - Original source: https://arxiv.org/abs/2307.10088
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Collects Android interaction demonstrations with screens, actions, and instructi
 
 Annotation reviewed against the primary abstract. Original dataset scale and experimental results are not independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-10088/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2307-10088/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-10088/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-10088/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2307-10088/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2307-10088/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 - Authors: Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 - Publication date (recorded precision): 2023-12-15
 - Publication source: https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2307-10088/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-10088/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2307-10088/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2307-10088/publication-citation.csl.json
 - venue: Advances in Neural Information Processing Systems
 - volume: 36
 - pages: 59708-59728

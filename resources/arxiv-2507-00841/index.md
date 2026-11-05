@@ -2,7 +2,7 @@
 
 Studies chain-level risk detection for mobile multimodal agents and a language-model-assisted evaluator, assessing safety interventions together with functional preservation.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-00841/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-00841/
 - Original source: https://arxiv.org/abs/2507.00841
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies chain-level risk detection for mobile multimodal agents and a language-m
 
 The reviewed evaluation uses Android emulation and a specific MobileSafetyBench-derived setup. Its judge and score threshold are evaluator choices, not universal safety measurements, and its task population is not the whole later MobileSafetyBench corpus. No results were reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (II.B Defense objective; III Chain-level guard and GPTJudge; IV.B Evaluation setup; V.D Judge validity); not an entire-paper reading or reproduction claim.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-00841/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-00841/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Siyuan Liang, Tianmeng Fang, Zhe Liu, Aishan Liu, Yan Xiao, Jinyuan He, Ee-Chien
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-00841/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-00841/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-00841/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-00841/citation.csl.json
 
 ## Recorded arXiv snapshot
 

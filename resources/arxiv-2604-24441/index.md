@@ -2,7 +2,7 @@
 
 AutoGUI-v2 evaluates interface functionality, grounding and predicted interaction outcomes using hierarchical regions derived through VLM-human annotation. Its tasks span multiple operating systems and expose differences between functional localization, captioning and transition-logic understanding.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-24441/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-24441/
 - Original source: https://arxiv.org/abs/2604.24441
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ AutoGUI-v2 evaluates interface functionality, grounding and predicted interactio
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-24441/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-24441/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Hongxin Li, Xiping Wang, Jingran Su, Zheng Ju, Yuntao Chen, Qing Li, Zhaoxiang Z
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-24441/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-24441/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-24441/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-24441/citation.csl.json
 
 ## Recorded arXiv snapshot
 

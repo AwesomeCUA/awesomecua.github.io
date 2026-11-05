@@ -2,7 +2,7 @@
 
 Benchmarks truthfulness, controllability, safety, and privacy of multimodal LLM agents across interactive web and mobile GUI tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-01616/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-01616/
 - Original source: https://arxiv.org/abs/2506.01616
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Benchmarks truthfulness, controllability, safety, and privacy of multimodal LLM 
 
 The contribution was reviewed from the retained paper abstract; Android setup is supported separately by the official project README. No benchmark results were independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-01616/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-01616/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xiao Yang, Jiawei Chen, Jun Luo, Zhengwei Fang, Yinpeng Dong, Hang Su, Jun Zhu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-01616/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-01616/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-01616/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-01616/citation.csl.json
 
 ## Recorded arXiv snapshot
 

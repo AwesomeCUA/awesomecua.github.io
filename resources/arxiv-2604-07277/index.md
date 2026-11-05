@@ -2,7 +2,7 @@
 
 Introduces Android Coach, which uses a learned critic to evaluate multiple candidate actions at each observed emulator state. Process rewards and a group-wise advantage estimator support online training, evaluated on AndroidLab and AndroidWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-07277/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-07277/
 - Original source: https://arxiv.org/abs/2604.07277
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces Android Coach, which uses a learned critic to evaluate multiple candi
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-07277/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-07277/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Guo Gan, Yuxuan Ding, Cong Chen, Yuwei Ren, Yin Huang, Hong Zhou
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-07277/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-07277/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-07277/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-07277/citation.csl.json
 
 ## Recorded arXiv snapshot
 

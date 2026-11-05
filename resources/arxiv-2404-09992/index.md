@@ -2,7 +2,7 @@
 
 Evaluates multimodal agents on compositional tasks across changing websites and studies replaying prior trajectories as memory support.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2404-09992/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2404-09992/
 - Original source: https://arxiv.org/abs/2404.09992
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Evaluates multimodal agents on compositional tasks across changing websites and 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-09992/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2404-09992/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shulin Tian, Ziniu Zhang, Liangyu Chen, Ziwei Liu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-09992/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-09992/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2404-09992/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2404-09992/citation.csl.json
 
 ## Publication record
 
@@ -33,8 +33,8 @@ Shulin Tian, Ziniu Zhang, Liangyu Chen, Ziwei Liu
 - Authors: Shulin Tian, Ziniu Zhang, Liang-Yu Chen, Ziwei Liu
 - Publication date (recorded precision): 2025-07
 - Publication source: https://aclanthology.org/2025.findings-acl.703/
-- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2404-09992/publication-citation.bib
-- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-09992/publication-citation.csl.json
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2404-09992/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2404-09992/publication-citation.csl.json
 - venue: Findings of the Association for Computational Linguistics: ACL 2025
 - publisher: Association for Computational Linguistics
 - pages: 13682-13697

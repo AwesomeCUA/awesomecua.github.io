@@ -2,7 +2,7 @@
 
 OS-Symphony coordinates milestone-based reflection and memory with tools that build visually aligned tutorials through browser interaction. The framework evaluates trajectory correction and adaptation on online computer-use benchmarks including OSWorld.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-07779/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2601-07779/
 - Original source: https://arxiv.org/abs/2601.07779
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ OS-Symphony coordinates milestone-based reflection and memory with tools that bu
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-07779/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2601-07779/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Bowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-07779/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-07779/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2601-07779/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2601-07779/citation.csl.json
 
 ## Recorded arXiv snapshot
 

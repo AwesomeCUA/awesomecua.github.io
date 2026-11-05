@@ -2,7 +2,7 @@
 
 MPR-GUI evaluates GUI perception and reasoning through strictly aligned tasks in six languages. GUI-XLI adjusts non-English hidden representations toward English representations at language-sensitive layers during inference to address the measured cross-language gaps.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2512-00756/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2512-00756/
 - Original source: https://arxiv.org/abs/2512.00756
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ MPR-GUI evaluates GUI perception and reasoning through strictly aligned tasks in
 
 The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-00756/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2512-00756/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ruihan Chen, Qiming Li, Xiaocheng Feng, Weihong Zhong, Xiaoliang Yang, Yuxuan Gu
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-00756/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-00756/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2512-00756/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2512-00756/citation.csl.json
 
 ## Recorded arXiv snapshot
 

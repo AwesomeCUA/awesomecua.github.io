@@ -2,7 +2,7 @@
 
 Offline mobile-agent task data spanning common tasks and released noisy, contaminated and ambiguous-instruction subsets.
 
-- Catalog URL: https://awesomecua.github.io/resources/url-1d5b85321b98765141fc/
+- Catalog URL: https://awesomecua.com/resources/url-1d5b85321b98765141fc/
 - Original source: https://huggingface.co/datasets/xwk123/MobileBench-v2
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Offline mobile-agent task data spanning common tasks and released noisy, contami
 
 The card distinguishes complete common-simple/common-complex JSON files from sampled noisy and ambiguous subsets; common tasks also require the separately cataloged Mobile3M dataset. Card metadata says Apache-2.0, while the prose explicitly assigns Apache-2.0 to code and CC-BY-NC-SA-4.0 to data. Do not apply the permissive header to dataset payloads, and do not describe every announced split as fully released.
 
-- Record JSON: https://awesomecua.github.io/resources/url-1d5b85321b98765141fc/record.json
+- Record JSON: https://awesomecua.com/resources/url-1d5b85321b98765141fc/record.json
 
 ## Structured profile
 

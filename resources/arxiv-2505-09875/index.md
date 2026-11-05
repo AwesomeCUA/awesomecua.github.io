@@ -2,7 +2,7 @@
 
 Studies unintended consequences of collaborative web browsing with GUI agents through social-media analysis and interviews. It organizes observed failures, user impacts, and mitigation practices around planning, interface interaction, feedback, privacy, and trust.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-09875/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2505-09875/
 - Original source: https://arxiv.org/abs/2505.09875
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Studies unintended consequences of collaborative web browsing with GUI agents th
 
 Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-09875/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2505-09875/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shuning Zhang, Jingruo Chen, Zhiqi Gao, Jiajing Gao, Xin Yi, Hewu Li
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-09875/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-09875/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2505-09875/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2505-09875/citation.csl.json
 
 ## Recorded arXiv snapshot
 

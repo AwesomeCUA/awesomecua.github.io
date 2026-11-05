@@ -2,7 +2,7 @@
 
 Analyzes how interaction history and webpage representation affect multiturn web-agent generalization across unfamiliar websites, task categories, and geographic settings.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-23555/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2410-23555/
 - Original source: https://arxiv.org/abs/2410.23555
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Analyzes how interaction history and webpage representation affect multiturn web
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-23555/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2410-23555/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Nalin Tiwary, Vardhan Dongre, Sanil Arun Chawla, Ashwin Lamani, Dilek Hakkani-TÃ
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-23555/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-23555/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2410-23555/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2410-23555/citation.csl.json
 
 ## Recorded arXiv snapshot
 

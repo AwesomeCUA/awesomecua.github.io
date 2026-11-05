@@ -2,7 +2,7 @@
 
 Bibliographic record for Scaling Agentic Data for Long-Horizon Terminal Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-13166/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-13166/
 - Original source: https://arxiv.org/abs/2610.13166
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Scaling Agentic Data for Long-Horizon Terminal Intellig
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-13166/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-13166/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Shun Zou, Ziyu Ma, Yi Zou, Yong Wang, Lin Chen, Zehui Chen, Guanhua Chen, Xiangx
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-13166/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-13166/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-13166/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-13166/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -2,7 +2,7 @@
 
 TreeCUA organizes GUI exploration trajectories as reusable trees and balances deeper tasks against broader coverage. Its data pipeline combines action verification, memory-backed recovery and a DPO variant that uses information from adjacent branches.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-09662/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2602-09662/
 - Original source: https://arxiv.org/abs/2602.09662
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ TreeCUA organizes GUI exploration trajectories as reusable trees and balances de
 
 The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09662/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2602-09662/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Deyang Jiang, Jing Huang, Xuanle Zhao, Lei Chen, Liming Zheng, Fanfan Liu, Haibo
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09662/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09662/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2602-09662/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2602-09662/citation.csl.json
 
 ## Recorded arXiv snapshot
 

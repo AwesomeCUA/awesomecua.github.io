@@ -2,7 +2,7 @@
 
 Bibliographic record for PEAM: On-device Communication Agent for Personalized, Efficient and Autonomous Mobile Network Configuration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-14855/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-14855/
 - Original source: https://arxiv.org/abs/2610.14855
 - Kind: paper
 - Review: metadata_verified
@@ -16,13 +16,13 @@ Bibliographic record for PEAM: On-device Communication Agent for Personalized, E
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-14855/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-14855/record.json
 
 ## Recorded reviewer hold
 
 Scope hold after v1 Methodology, Evaluation and Appendices A \(On\-Device Deployment\), B and D\. PEAM generates background network\-configuration rules and reports real cellular/Wi\-Fi switching on Android 16; active rules execute after explicit user acceptance\. The inspected work does not establish GUI observation/action control or a component actually used by a CUA workflow\. Native network switching alone does not establish that broader role\. Need direct interface/control or CUA\-support evidence before inclusion\. Preserve metadata; no permanent exclusion is proposed\.
 
-- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -30,8 +30,8 @@ Haowen Wan, Shangzhuo Xie, Syue-Ju Syue, Xianyue Wu, Runhua Li, Qianqian Yang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-14855/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-14855/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-14855/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-14855/citation.csl.json
 
 ## Recorded arXiv snapshot
 

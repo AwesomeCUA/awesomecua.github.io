@@ -2,7 +2,7 @@
 
 Introduces OmniActor, which shares shallow model layers while separating deeper parameters to train jointly on GUI and embodied interactions. A unified action representation and mixed training data support evaluation in both task families.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2509-02322/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2509-02322/
 - Original source: https://arxiv.org/abs/2509.02322
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces OmniActor, which shares shallow model layers while separating deeper 
 
 The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-02322/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2509-02322/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Longrong Yang, Zhixiong Zeng, Yufeng Zhong, Jing Huang, Liming Zheng, Lei Chen, 
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-02322/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-02322/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2509-02322/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2509-02322/citation.csl.json
 
 ## Recorded arXiv snapshot
 

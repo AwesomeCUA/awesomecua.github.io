@@ -2,7 +2,7 @@
 
 Measures hallucination in UI-element parsing by matching the boxes and descriptions a model lists for 1,000 English and 1,000 Chinese screenshots against human annotations.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-ant-research-guihallubench/
+- Catalog URL: https://awesomecua.com/resources/github-ant-research-guihallubench/
 - Original source: https://github.com/ant-research/GUIHalluBench
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Measures hallucination in UI-element parsing by matching the boxes and descripti
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-ant-research-guihallubench/record.json
+- Record JSON: https://awesomecua.com/resources/github-ant-research-guihallubench/record.json
 
 ## Structured profile
 

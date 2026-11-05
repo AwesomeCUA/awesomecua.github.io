@@ -2,7 +2,7 @@
 
 SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-hud-evals-hud-python/
+- Catalog URL: https://awesomecua.com/resources/github-hud-evals-hud-python/
 - Original source: https://github.com/hud-evals/hud-python
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ SDK for RL environments and evals spanning coding, browser, computer-use and rob
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-hud-evals-hud-python/record.json
+- Record JSON: https://awesomecua.com/resources/github-hud-evals-hud-python/record.json
 
 ## License declarations
 

@@ -2,7 +2,7 @@
 
 Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-mcgill-nlp-webllama/
+- Catalog URL: https://awesomecua.com/resources/github-mcgill-nlp-webllama/
 - Original source: https://github.com/McGill-NLP/webllama
 - Kind: framework
 - Review: curated
@@ -16,7 +16,7 @@ Training, evaluation and integration tooling for dialogue-guided web agents, inc
 
 The manifest contains modeling/training code, BrowserGym examples, documentation and a results viewer. The README distinguishes currently available components from planned additional benchmarks and deployment integrations. It requests citation of WebLINX as the foundation for data, training and evaluation; this is not a claim that the WebLINX paper first introduced every later WebLlama component. MIT applies to repository code, subject to file-header exceptions; weights and datasets have their own terms.
 
-- Record JSON: https://awesomecua.github.io/resources/github-mcgill-nlp-webllama/record.json
+- Record JSON: https://awesomecua.com/resources/github-mcgill-nlp-webllama/record.json
 
 ## License declarations
 

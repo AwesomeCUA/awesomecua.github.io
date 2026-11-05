@@ -2,7 +2,7 @@
 
 Introduces StepAgent, which compares agent and expert actions to supply intermediate rewards for policy learning, with implicit-reward and inverse-RL variants. Evaluation includes WebShop and Mind2Web alongside non-web tasks.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-03817/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2411-03817/
 - Original source: https://arxiv.org/abs/2411.03817
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Introduces StepAgent, which compares agent and expert actions to supply intermed
 
 Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. Official full-paper experimental sections explicitly evaluate WebShop and Mind2Web; the overall optimization method also covers embodied and question-answering tasks.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-03817/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2411-03817/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Zhirui Deng, Zhicheng Dou, Yutao Zhu, Ji-Rong Wen, Ruibin Xiong, Mang Wang, Weip
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-03817/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-03817/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2411-03817/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2411-03817/citation.csl.json
 
 ## Recorded arXiv snapshot
 

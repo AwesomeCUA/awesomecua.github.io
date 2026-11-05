@@ -2,7 +2,7 @@
 
 Bibliographic record for Sparse implicitization by interpolation: Geometric computations using matrix representations. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-1411-2846/
+- Catalog URL: https://awesomecua.com/resources/arxiv-1411-2846/
 - Original source: https://arxiv.org/abs/1411.2846
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Sparse implicitization by interpolation: Geometric comp
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-1411-2846/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-1411-2846/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Ioannis Emiris, Tatjana Kalinka, Christos Konaxis
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-1411-2846/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-1411-2846/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-1411-2846/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-1411-2846/citation.csl.json
 
 ## Recorded arXiv snapshot
 

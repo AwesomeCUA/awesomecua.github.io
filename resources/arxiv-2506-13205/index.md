@@ -2,7 +2,7 @@
 
 Demonstrates clean-text visual backdoor attacks (VIBMA) that compromise fine-tuned VLM mobile agents through visual triggers while keeping text instructions intact.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-13205/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2506-13205/
 - Original source: https://arxiv.org/abs/2506.13205
 - Kind: paper
 - Review: curated
@@ -16,7 +16,7 @@ Demonstrates clean-text visual backdoor attacks (VIBMA) that compromise fine-tun
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-13205/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2506-13205/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Xuan Wang, Siyuan Liang, Zhe Liu, Yi Yu, Aishan Liu, Yuliang Lu, Xitong Gao, Ee-
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-13205/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-13205/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2506-13205/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2506-13205/citation.csl.json
 
 ## Recorded arXiv snapshot
 

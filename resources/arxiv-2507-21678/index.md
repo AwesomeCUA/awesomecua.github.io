@@ -2,7 +2,7 @@
 
 Bibliographic record for Predicting Abandonment of Open Source Software Projects with An Integrated Feature Framework. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-21678/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2507-21678/
 - Original source: https://arxiv.org/abs/2507.21678
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for Predicting Abandonment of Open Source Software Projects
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-21678/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2507-21678/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Yiming Xu, Runzhi He, Hengzhi Ye, Minghui Zhou, Huaimin Wang
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-21678/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-21678/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2507-21678/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2507-21678/citation.csl.json
 
 ## Recorded arXiv snapshot
 

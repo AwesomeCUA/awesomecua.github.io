@@ -2,7 +2,7 @@
 
 Bibliographic record for $π$-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-14678/
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-14678/
 - Original source: https://arxiv.org/abs/2605.14678
 - Kind: paper
 - Review: metadata_verified
@@ -16,7 +16,7 @@ Bibliographic record for $π$-Bench: Evaluating Proactive Personal Assistant Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-14678/record.json
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-14678/record.json
 
 ## Authors
 
@@ -24,8 +24,8 @@ Haoran Zhang, Luxin Xu, Zhilin Wang, Runquan Gui, Shunkai Zhang, Haodi Lei, Ziha
 
 ## Citation exports
 
-- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-14678/citation.bib
-- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-14678/citation.csl.json
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-14678/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-14678/citation.csl.json
 
 ## Recorded arXiv snapshot
 

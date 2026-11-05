@@ -2,7 +2,7 @@
 
 Resources for evaluating GUI agents under malicious popup instructions.
 
-- Catalog URL: https://awesomecua.github.io/resources/github-salt-nlp-popupattack/
+- Catalog URL: https://awesomecua.com/resources/github-salt-nlp-popupattack/
 - Original source: https://github.com/SALT-NLP/PopupAttack
 - Kind: benchmark
 - Review: curated
@@ -16,7 +16,7 @@ Resources for evaluating GUI agents under malicious popup instructions.
 
 Inclusion does not establish reproducibility or endorsement.
 
-- Record JSON: https://awesomecua.github.io/resources/github-salt-nlp-popupattack/record.json
+- Record JSON: https://awesomecua.com/resources/github-salt-nlp-popupattack/record.json
 
 ## License declarations
 
