@@ -18980,17 +18980,17 @@
     {
       "path": "/agents/",
       "indexable": true,
-      "sha256": "027c337d0b235d3fbf7d40dfba45196b54941d4fb2927f1e39e1a3c792c94483"
+      "sha256": "b0a027a52638d51f917f1bb7bd6937bdaa06373b09dd81ad57c286c260830a53"
     },
     {
       "path": "/zh/agents/",
       "indexable": true,
-      "sha256": "53fc86818285f5a6653bd5b8387d8ed246ab1e9e584b9fcdde637eb9a060bd4a"
+      "sha256": "01760e5058f647cf64d1bbfe6ef98f0fb82abfa906e8a196e722f977a4320ec6"
     },
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "230bee2f756207a0b20e3b2ca24f5a5c34cd23e9afcd4bad3ac54a4a6a299584"
+      "sha256": "6f1a939bca654b28af1a02d85a75a8f16f64e1fd825d2224895c97219b083b01"
     },
     {
       "path": "/badges/",
@@ -19040,7 +19040,7 @@
     {
       "path": "/",
       "indexable": true,
-      "sha256": "33340ce4f95bc9d9ccb65eb60dddec4eaaec410678b6aa0780d271a06f87b90a"
+      "sha256": "38e3cd6bf30d0c253e90dffa1c71c117b5e0b6af5cab0b5f8c52c593104cd80b"
     }
   ]
 }
