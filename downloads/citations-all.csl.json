@@ -10871,6 +10871,391 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2108.07258v3",
+    "archive": "arXiv",
+    "archive_location": "2108.07258",
+    "author": [
+      {
+        "literal": "Rishi Bommasani"
+      },
+      {
+        "literal": "Drew A. Hudson"
+      },
+      {
+        "literal": "Ehsan Adeli"
+      },
+      {
+        "literal": "Russ Altman"
+      },
+      {
+        "literal": "Simran Arora"
+      },
+      {
+        "literal": "Sydney von Arx"
+      },
+      {
+        "literal": "Michael S. Bernstein"
+      },
+      {
+        "literal": "Jeannette Bohg"
+      },
+      {
+        "literal": "Antoine Bosselut"
+      },
+      {
+        "literal": "Emma Brunskill"
+      },
+      {
+        "literal": "Erik Brynjolfsson"
+      },
+      {
+        "literal": "Shyamal Buch"
+      },
+      {
+        "literal": "Dallas Card"
+      },
+      {
+        "literal": "Rodrigo Castellon"
+      },
+      {
+        "literal": "Niladri Chatterji"
+      },
+      {
+        "literal": "Annie Chen"
+      },
+      {
+        "literal": "Kathleen Creel"
+      },
+      {
+        "literal": "Jared Quincy Davis"
+      },
+      {
+        "literal": "Dora Demszky"
+      },
+      {
+        "literal": "Chris Donahue"
+      },
+      {
+        "literal": "Moussa Doumbouya"
+      },
+      {
+        "literal": "Esin Durmus"
+      },
+      {
+        "literal": "Stefano Ermon"
+      },
+      {
+        "literal": "John Etchemendy"
+      },
+      {
+        "literal": "Kawin Ethayarajh"
+      },
+      {
+        "literal": "Li Fei-Fei"
+      },
+      {
+        "literal": "Chelsea Finn"
+      },
+      {
+        "literal": "Trevor Gale"
+      },
+      {
+        "literal": "Lauren Gillespie"
+      },
+      {
+        "literal": "Karan Goel"
+      },
+      {
+        "literal": "Noah Goodman"
+      },
+      {
+        "literal": "Shelby Grossman"
+      },
+      {
+        "literal": "Neel Guha"
+      },
+      {
+        "literal": "Tatsunori Hashimoto"
+      },
+      {
+        "literal": "Peter Henderson"
+      },
+      {
+        "literal": "John Hewitt"
+      },
+      {
+        "literal": "Daniel E. Ho"
+      },
+      {
+        "literal": "Jenny Hong"
+      },
+      {
+        "literal": "Kyle Hsu"
+      },
+      {
+        "literal": "Jing Huang"
+      },
+      {
+        "literal": "Thomas Icard"
+      },
+      {
+        "literal": "Saahil Jain"
+      },
+      {
+        "literal": "Dan Jurafsky"
+      },
+      {
+        "literal": "Pratyusha Kalluri"
+      },
+      {
+        "literal": "Siddharth Karamcheti"
+      },
+      {
+        "literal": "Geoff Keeling"
+      },
+      {
+        "literal": "Fereshte Khani"
+      },
+      {
+        "literal": "Omar Khattab"
+      },
+      {
+        "literal": "Pang Wei Koh"
+      },
+      {
+        "literal": "Mark Krass"
+      },
+      {
+        "literal": "Ranjay Krishna"
+      },
+      {
+        "literal": "Rohith Kuditipudi"
+      },
+      {
+        "literal": "Ananya Kumar"
+      },
+      {
+        "literal": "Faisal Ladhak"
+      },
+      {
+        "literal": "Mina Lee"
+      },
+      {
+        "literal": "Tony Lee"
+      },
+      {
+        "literal": "Jure Leskovec"
+      },
+      {
+        "literal": "Isabelle Levent"
+      },
+      {
+        "literal": "Xiang Lisa Li"
+      },
+      {
+        "literal": "Xuechen Li"
+      },
+      {
+        "literal": "Tengyu Ma"
+      },
+      {
+        "literal": "Ali Malik"
+      },
+      {
+        "literal": "Christopher D. Manning"
+      },
+      {
+        "literal": "Suvir Mirchandani"
+      },
+      {
+        "literal": "Eric Mitchell"
+      },
+      {
+        "literal": "Zanele Munyikwa"
+      },
+      {
+        "literal": "Suraj Nair"
+      },
+      {
+        "literal": "Avanika Narayan"
+      },
+      {
+        "literal": "Deepak Narayanan"
+      },
+      {
+        "literal": "Ben Newman"
+      },
+      {
+        "literal": "Allen Nie"
+      },
+      {
+        "literal": "Juan Carlos Niebles"
+      },
+      {
+        "literal": "Hamed Nilforoshan"
+      },
+      {
+        "literal": "Julian Nyarko"
+      },
+      {
+        "literal": "Giray Ogut"
+      },
+      {
+        "literal": "Laurel Orr"
+      },
+      {
+        "literal": "Isabel Papadimitriou"
+      },
+      {
+        "literal": "Joon Sung Park"
+      },
+      {
+        "literal": "Chris Piech"
+      },
+      {
+        "literal": "Eva Portelance"
+      },
+      {
+        "literal": "Christopher Potts"
+      },
+      {
+        "literal": "Aditi Raghunathan"
+      },
+      {
+        "literal": "Rob Reich"
+      },
+      {
+        "literal": "Hongyu Ren"
+      },
+      {
+        "literal": "Frieda Rong"
+      },
+      {
+        "literal": "Yusuf Roohani"
+      },
+      {
+        "literal": "Camilo Ruiz"
+      },
+      {
+        "literal": "Jack Ryan"
+      },
+      {
+        "literal": "Christopher Ré"
+      },
+      {
+        "literal": "Dorsa Sadigh"
+      },
+      {
+        "literal": "Shiori Sagawa"
+      },
+      {
+        "literal": "Keshav Santhanam"
+      },
+      {
+        "literal": "Andy Shih"
+      },
+      {
+        "literal": "Krishnan Srinivasan"
+      },
+      {
+        "literal": "Alex Tamkin"
+      },
+      {
+        "literal": "Rohan Taori"
+      },
+      {
+        "literal": "Armin W. Thomas"
+      },
+      {
+        "literal": "Florian Tramèr"
+      },
+      {
+        "literal": "Rose E. Wang"
+      },
+      {
+        "literal": "William Wang"
+      },
+      {
+        "literal": "Bohan Wu"
+      },
+      {
+        "literal": "Jiajun Wu"
+      },
+      {
+        "literal": "Yuhuai Wu"
+      },
+      {
+        "literal": "Sang Michael Xie"
+      },
+      {
+        "literal": "Michihiro Yasunaga"
+      },
+      {
+        "literal": "Jiaxuan You"
+      },
+      {
+        "literal": "Matei Zaharia"
+      },
+      {
+        "literal": "Michael Zhang"
+      },
+      {
+        "literal": "Tianyi Zhang"
+      },
+      {
+        "literal": "Xikun Zhang"
+      },
+      {
+        "literal": "Yuhui Zhang"
+      },
+      {
+        "literal": "Lucia Zheng"
+      },
+      {
+        "literal": "Kaitlyn Zhou"
+      },
+      {
+        "literal": "Percy Liang"
+      }
+    ],
+    "citation-key": "arxiv_2108_07258",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9c675a283bd748d112a75aa5e7e1baecc74783aaf0f7d6dc5a4ffd9ec652db15",
+        "submitted_at": "2021-08-16T17:50:08Z",
+        "updated_at": "2022-07-12T23:45:14Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2108.07258v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2108.07258",
+      "catalog_id": "arxiv:2108.07258",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2021-08-16",
+      "identifiers": {
+        "arxiv": "2108.07258"
+      },
+      "record_updated_at": "2022-07-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2108.07258",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2021-08-16; Recorded arXiv version: v3; Recorded version updated: 2022-07-12T23:45:14Z.",
+    "title": "On the Opportunities and Risks of Foundation Models",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2109.00137v1",
     "archive": "arXiv",
     "archive_location": "2109.00137",
@@ -18425,6 +18810,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2212.08681v1",
+    "archive": "arXiv",
+    "archive_location": "2212.08681",
+    "author": [
+      {
+        "literal": "Vishal Pallagani"
+      },
+      {
+        "literal": "Bharath Muppasani"
+      },
+      {
+        "literal": "Keerthiram Murugesan"
+      },
+      {
+        "literal": "Francesca Rossi"
+      },
+      {
+        "literal": "Lior Horesh"
+      },
+      {
+        "literal": "Biplav Srivastava"
+      },
+      {
+        "literal": "Francesco Fabiano"
+      },
+      {
+        "literal": "Andrea Loreggia"
+      }
+    ],
+    "citation-key": "arxiv_2212_08681",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5eee0e57e4828c5fa5fb869997ac445be1df3a1ead3bd000b43eae3eba732c3a",
+        "submitted_at": "2022-12-16T19:06:49Z",
+        "updated_at": "2022-12-16T19:06:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2212.08681v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2212.08681",
+      "catalog_id": "arxiv:2212.08681",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2022-12-16",
+      "identifiers": {
+        "arxiv": "2212.08681"
+      },
+      "record_updated_at": "2022-12-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2212.08681",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2022-12-16; Recorded arXiv version: v1; Recorded version updated: 2022-12-16T19:06:49Z.",
+    "title": "Plansformer: Generating Symbolic Plans using Transformers",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2212.11141v1",
     "archive": "arXiv",
     "archive_location": "2212.11141",
@@ -25347,6 +25799,76 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2307.06435v10",
+    "archive": "arXiv",
+    "archive_location": "2307.06435",
+    "author": [
+      {
+        "literal": "Humza Naveed"
+      },
+      {
+        "literal": "Asad Ullah Khan"
+      },
+      {
+        "literal": "Shi Qiu"
+      },
+      {
+        "literal": "Muhammad Saqib"
+      },
+      {
+        "literal": "Saeed Anwar"
+      },
+      {
+        "literal": "Muhammad Usman"
+      },
+      {
+        "literal": "Naveed Akhtar"
+      },
+      {
+        "literal": "Nick Barnes"
+      },
+      {
+        "literal": "Ajmal Mian"
+      }
+    ],
+    "citation-key": "arxiv_2307_06435",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "61496c6be867fd909ce91c0bae5194b5b77a295d4be772fd956f634ebd137e3f",
+        "submitted_at": "2023-07-12T20:01:52Z",
+        "updated_at": "2024-10-17T01:10:40Z",
+        "version": 10,
+        "versioned_url": "https://arxiv.org/abs/2307.06435v10"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2307.06435",
+      "catalog_id": "arxiv:2307.06435",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2023-07-12",
+      "identifiers": {
+        "arxiv": "2307.06435"
+      },
+      "record_updated_at": "2024-10-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2307.06435",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2023-07-12; Recorded arXiv version: v10; Recorded version updated: 2024-10-17T01:10:40Z.",
+    "title": "A Comprehensive Overview of Large Language Models",
+    "type": "article",
+    "version": "10"
+  },
+  {
     "URL": "https://arxiv.org/abs/2307.07924v5",
     "archive": "arXiv",
     "archive_location": "2307.07924",
@@ -25430,6 +25952,253 @@
     "title": "ChatDev: Communicative Agents for Software Development",
     "type": "article",
     "version": "5"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2307.09288v2",
+    "archive": "arXiv",
+    "archive_location": "2307.09288",
+    "author": [
+      {
+        "literal": "Hugo Touvron"
+      },
+      {
+        "literal": "Louis Martin"
+      },
+      {
+        "literal": "Kevin Stone"
+      },
+      {
+        "literal": "Peter Albert"
+      },
+      {
+        "literal": "Amjad Almahairi"
+      },
+      {
+        "literal": "Yasmine Babaei"
+      },
+      {
+        "literal": "Nikolay Bashlykov"
+      },
+      {
+        "literal": "Soumya Batra"
+      },
+      {
+        "literal": "Prajjwal Bhargava"
+      },
+      {
+        "literal": "Shruti Bhosale"
+      },
+      {
+        "literal": "Dan Bikel"
+      },
+      {
+        "literal": "Lukas Blecher"
+      },
+      {
+        "literal": "Cristian Canton Ferrer"
+      },
+      {
+        "literal": "Moya Chen"
+      },
+      {
+        "literal": "Guillem Cucurull"
+      },
+      {
+        "literal": "David Esiobu"
+      },
+      {
+        "literal": "Jude Fernandes"
+      },
+      {
+        "literal": "Jeremy Fu"
+      },
+      {
+        "literal": "Wenyin Fu"
+      },
+      {
+        "literal": "Brian Fuller"
+      },
+      {
+        "literal": "Cynthia Gao"
+      },
+      {
+        "literal": "Vedanuj Goswami"
+      },
+      {
+        "literal": "Naman Goyal"
+      },
+      {
+        "literal": "Anthony Hartshorn"
+      },
+      {
+        "literal": "Saghar Hosseini"
+      },
+      {
+        "literal": "Rui Hou"
+      },
+      {
+        "literal": "Hakan Inan"
+      },
+      {
+        "literal": "Marcin Kardas"
+      },
+      {
+        "literal": "Viktor Kerkez"
+      },
+      {
+        "literal": "Madian Khabsa"
+      },
+      {
+        "literal": "Isabel Kloumann"
+      },
+      {
+        "literal": "Artem Korenev"
+      },
+      {
+        "literal": "Punit Singh Koura"
+      },
+      {
+        "literal": "Marie-Anne Lachaux"
+      },
+      {
+        "literal": "Thibaut Lavril"
+      },
+      {
+        "literal": "Jenya Lee"
+      },
+      {
+        "literal": "Diana Liskovich"
+      },
+      {
+        "literal": "Yinghai Lu"
+      },
+      {
+        "literal": "Yuning Mao"
+      },
+      {
+        "literal": "Xavier Martinet"
+      },
+      {
+        "literal": "Todor Mihaylov"
+      },
+      {
+        "literal": "Pushkar Mishra"
+      },
+      {
+        "literal": "Igor Molybog"
+      },
+      {
+        "literal": "Yixin Nie"
+      },
+      {
+        "literal": "Andrew Poulton"
+      },
+      {
+        "literal": "Jeremy Reizenstein"
+      },
+      {
+        "literal": "Rashi Rungta"
+      },
+      {
+        "literal": "Kalyan Saladi"
+      },
+      {
+        "literal": "Alan Schelten"
+      },
+      {
+        "literal": "Ruan Silva"
+      },
+      {
+        "literal": "Eric Michael Smith"
+      },
+      {
+        "literal": "Ranjan Subramanian"
+      },
+      {
+        "literal": "Xiaoqing Ellen Tan"
+      },
+      {
+        "literal": "Binh Tang"
+      },
+      {
+        "literal": "Ross Taylor"
+      },
+      {
+        "literal": "Adina Williams"
+      },
+      {
+        "literal": "Jian Xiang Kuan"
+      },
+      {
+        "literal": "Puxin Xu"
+      },
+      {
+        "literal": "Zheng Yan"
+      },
+      {
+        "literal": "Iliyan Zarov"
+      },
+      {
+        "literal": "Yuchen Zhang"
+      },
+      {
+        "literal": "Angela Fan"
+      },
+      {
+        "literal": "Melanie Kambadur"
+      },
+      {
+        "literal": "Sharan Narang"
+      },
+      {
+        "literal": "Aurelien Rodriguez"
+      },
+      {
+        "literal": "Robert Stojnic"
+      },
+      {
+        "literal": "Sergey Edunov"
+      },
+      {
+        "literal": "Thomas Scialom"
+      }
+    ],
+    "citation-key": "arxiv_2307_09288",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "65939421678834a4fc6c819884bcae45a9b62f0b5fe9e243d130d3f8293812a6",
+        "submitted_at": "2023-07-18T14:31:57Z",
+        "updated_at": "2023-07-19T17:08:59Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2307.09288v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2307.09288",
+      "catalog_id": "arxiv:2307.09288",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2023-07-18",
+      "identifiers": {
+        "arxiv": "2307.09288"
+      },
+      "record_updated_at": "2023-07-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2307.09288",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2023-07-18; Recorded arXiv version: v2; Recorded version updated: 2023-07-19T17:08:59Z.",
+    "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2307.10088v2",
@@ -28748,6 +29517,58 @@
     "version": "4"
   },
   {
+    "URL": "https://arxiv.org/abs/2310.03965v3",
+    "archive": "arXiv",
+    "archive_location": "2310.03965",
+    "author": [
+      {
+        "literal": "Junchi Yu"
+      },
+      {
+        "literal": "Ran He"
+      },
+      {
+        "literal": "Rex Ying"
+      }
+    ],
+    "citation-key": "arxiv_2310_03965",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "308238b7466b04128d6646ea3a1e8bff8098930dedbdf784e4f7c74199899384",
+        "submitted_at": "2023-10-06T01:40:09Z",
+        "updated_at": "2024-06-17T05:56:00Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2310.03965v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.03965",
+      "catalog_id": "arxiv:2310.03965",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2023-10-06",
+      "identifiers": {
+        "arxiv": "2310.03965"
+      },
+      "record_updated_at": "2024-06-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.03965",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-06; Recorded arXiv version: v3; Recorded version updated: 2024-06-17T05:56:00Z.",
+    "title": "Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2310.04119v3",
     "archive": "arXiv",
     "archive_location": "2310.04119",
@@ -28799,6 +29620,64 @@
     },
     "note": "First published: 2023-10-06; Recorded arXiv version: v3; Recorded version updated: 2023-12-28T07:23:16Z.",
     "title": "Quantum computing using floating electrons on cryogenic substrates: Potential And Challenges",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2310.04406v3",
+    "archive": "arXiv",
+    "archive_location": "2310.04406",
+    "author": [
+      {
+        "literal": "Andy Zhou"
+      },
+      {
+        "literal": "Kai Yan"
+      },
+      {
+        "literal": "Michal Shlapentokh-Rothman"
+      },
+      {
+        "literal": "Haohan Wang"
+      },
+      {
+        "literal": "Yu-Xiong Wang"
+      }
+    ],
+    "citation-key": "arxiv_2310_04406",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a36bc3f6bd0df54f655d02524aac2b271e45726ad71de02e971b8bc436869120",
+        "submitted_at": "2023-10-06T17:55:11Z",
+        "updated_at": "2024-06-06T02:51:17Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2310.04406v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.04406",
+      "catalog_id": "arxiv:2310.04406",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2023-10-06",
+      "identifiers": {
+        "arxiv": "2310.04406"
+      },
+      "record_updated_at": "2024-06-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.04406",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-06; Recorded arXiv version: v3; Recorded version updated: 2024-06-06T02:51:17Z.",
+    "title": "Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models",
     "type": "article",
     "version": "3"
   },
@@ -30398,6 +31277,73 @@
     "title": "CCIL: Continuity-based Data Augmentation for Corrective Imitation Learning",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2310.13227v1",
+    "archive": "arXiv",
+    "archive_location": "2310.13227",
+    "author": [
+      {
+        "literal": "Yuchen Zhuang"
+      },
+      {
+        "literal": "Xiang Chen"
+      },
+      {
+        "literal": "Tong Yu"
+      },
+      {
+        "literal": "Saayan Mitra"
+      },
+      {
+        "literal": "Victor Bursztyn"
+      },
+      {
+        "literal": "Ryan A. Rossi"
+      },
+      {
+        "literal": "Somdeb Sarkhel"
+      },
+      {
+        "literal": "Chao Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2310_13227",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "49cbabba6dec716d051e9cbca0e96e1e4eb3d70a273de572353d96e99730b0fe",
+        "submitted_at": "2023-10-20T02:24:35Z",
+        "updated_at": "2023-10-20T02:24:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2310.13227v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.13227",
+      "catalog_id": "arxiv:2310.13227",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2023-10-20",
+      "identifiers": {
+        "arxiv": "2310.13227"
+      },
+      "record_updated_at": "2023-10-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.13227",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-20; Recorded arXiv version: v1; Recorded version updated: 2023-10-20T02:24:35Z.",
+    "title": "ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2310.13289v2",
@@ -37660,6 +38606,67 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2402.06853v3",
+    "archive": "arXiv",
+    "archive_location": "2402.06853",
+    "author": [
+      {
+        "literal": "Zichong Wang"
+      },
+      {
+        "literal": "Zhibo Chu"
+      },
+      {
+        "literal": "Thang Viet Doan"
+      },
+      {
+        "literal": "Shiwen Ni"
+      },
+      {
+        "literal": "Min Yang"
+      },
+      {
+        "literal": "Wenbin Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2402_06853",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b692009d42d81db38f4d103ab5211271ac93c08086b286cb0b7d5a02d0cdd65d",
+        "submitted_at": "2024-02-10T01:18:15Z",
+        "updated_at": "2024-09-23T14:12:40Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2402.06853v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.06853",
+      "catalog_id": "arxiv:2402.06853",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-02-10",
+      "identifiers": {
+        "arxiv": "2402.06853"
+      },
+      "record_updated_at": "2024-09-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2402.06853",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2024-02-10; Recorded arXiv version: v3; Recorded version updated: 2024-09-23T14:12:40Z.",
+    "title": "History, Development, and Principles of Large Language Models-An Introductory Survey",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2402.07456v2",
     "archive": "arXiv",
     "archive_location": "2402.07456",
@@ -40708,6 +41715,124 @@
     "title": "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?",
     "type": "article",
     "version": "5"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2403.07918v1",
+    "archive": "arXiv",
+    "archive_location": "2403.07918",
+    "author": [
+      {
+        "literal": "Sayash Kapoor"
+      },
+      {
+        "literal": "Rishi Bommasani"
+      },
+      {
+        "literal": "Kevin Klyman"
+      },
+      {
+        "literal": "Shayne Longpre"
+      },
+      {
+        "literal": "Ashwin Ramaswami"
+      },
+      {
+        "literal": "Peter Cihon"
+      },
+      {
+        "literal": "Aspen Hopkins"
+      },
+      {
+        "literal": "Kevin Bankston"
+      },
+      {
+        "literal": "Stella Biderman"
+      },
+      {
+        "literal": "Miranda Bogen"
+      },
+      {
+        "literal": "Rumman Chowdhury"
+      },
+      {
+        "literal": "Alex Engler"
+      },
+      {
+        "literal": "Peter Henderson"
+      },
+      {
+        "literal": "Yacine Jernite"
+      },
+      {
+        "literal": "Seth Lazar"
+      },
+      {
+        "literal": "Stefano Maffulli"
+      },
+      {
+        "literal": "Alondra Nelson"
+      },
+      {
+        "literal": "Joelle Pineau"
+      },
+      {
+        "literal": "Aviya Skowron"
+      },
+      {
+        "literal": "Dawn Song"
+      },
+      {
+        "literal": "Victor Storchan"
+      },
+      {
+        "literal": "Daniel Zhang"
+      },
+      {
+        "literal": "Daniel E. Ho"
+      },
+      {
+        "literal": "Percy Liang"
+      },
+      {
+        "literal": "Arvind Narayanan"
+      }
+    ],
+    "citation-key": "arxiv_2403_07918",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e952ab7be973f9987fd1a72f69b3db50b670d61197f8a1c60ea5f59e07ba12ad",
+        "submitted_at": "2024-02-27T16:49:53Z",
+        "updated_at": "2024-02-27T16:49:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2403.07918v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.07918",
+      "catalog_id": "arxiv:2403.07918",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-02-27",
+      "identifiers": {
+        "arxiv": "2403.07918"
+      },
+      "record_updated_at": "2024-02-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.07918",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2024-02-27; Recorded arXiv version: v1; Recorded version updated: 2024-02-27T16:49:53Z.",
+    "title": "On the Societal Impact of Open Foundation Models",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2403.08295v4",
@@ -46107,6 +47232,88 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2405.10739v3",
+    "archive": "arXiv",
+    "archive_location": "2405.10739",
+    "author": [
+      {
+        "literal": "Yizhang Jin"
+      },
+      {
+        "literal": "Jian Li"
+      },
+      {
+        "literal": "Yexin Liu"
+      },
+      {
+        "literal": "Tianjun Gu"
+      },
+      {
+        "literal": "Kai Wu"
+      },
+      {
+        "literal": "Zhengkai Jiang"
+      },
+      {
+        "literal": "Muyang He"
+      },
+      {
+        "literal": "Bo Zhao"
+      },
+      {
+        "literal": "Xin Tan"
+      },
+      {
+        "literal": "Zhenye Gan"
+      },
+      {
+        "literal": "Yabiao Wang"
+      },
+      {
+        "literal": "Chengjie Wang"
+      },
+      {
+        "literal": "Lizhuang Ma"
+      }
+    ],
+    "citation-key": "arxiv_2405_10739",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ee954ae9dd1aa0742c63a4c79a30996cd1b111e8df008081e5076e432bcd8608",
+        "submitted_at": "2024-05-17T12:37:10Z",
+        "updated_at": "2026-01-22T02:53:40Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2405.10739v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2405.10739",
+      "catalog_id": "arxiv:2405.10739",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-05-17",
+      "identifiers": {
+        "arxiv": "2405.10739"
+      },
+      "record_updated_at": "2026-01-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2405.10739",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-05-17; Recorded arXiv version: v3; Recorded version updated: 2026-01-22T02:53:40Z.",
+    "title": "Efficient Multimodal Large Language Models: A Survey",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2405.11106v1",
     "archive": "arXiv",
     "archive_location": "2405.11106",
@@ -46952,6 +48159,82 @@
     "title": "HETHUB: A Distributed Training System with Heterogeneous Cluster for Large-Scale Models",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2405.19119v3",
+    "archive": "arXiv",
+    "archive_location": "2405.19119",
+    "author": [
+      {
+        "literal": "Xixi Wu"
+      },
+      {
+        "literal": "Yifei Shen"
+      },
+      {
+        "literal": "Caihua Shan"
+      },
+      {
+        "literal": "Kaitao Song"
+      },
+      {
+        "literal": "Siwei Wang"
+      },
+      {
+        "literal": "Bohang Zhang"
+      },
+      {
+        "literal": "Jiarui Feng"
+      },
+      {
+        "literal": "Hong Cheng"
+      },
+      {
+        "literal": "Wei Chen"
+      },
+      {
+        "literal": "Yun Xiong"
+      },
+      {
+        "literal": "Dongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2405_19119",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4c19c13d33252b2b4b45e9b9d57cbeca2c9562ebf1dd1dc0d9f68b49e11acd37",
+        "submitted_at": "2024-05-29T14:26:24Z",
+        "updated_at": "2024-10-26T07:41:36Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2405.19119v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2405.19119",
+      "catalog_id": "arxiv:2405.19119",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-05-29",
+      "identifiers": {
+        "arxiv": "2405.19119"
+      },
+      "record_updated_at": "2024-10-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2405.19119",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2024-05-29; Recorded arXiv version: v3; Recorded version updated: 2024-10-26T07:41:36Z.",
+    "title": "Can Graph Learning Improve Planning in LLM-based Agents?",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2405.20309v2",
@@ -49921,6 +51204,61 @@
     "title": "Probabilistic Subgoal Representations for Hierarchical Reinforcement learning",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.16937v2",
+    "archive": "arXiv",
+    "archive_location": "2406.16937",
+    "author": [
+      {
+        "literal": "Sumit Kumar Dam"
+      },
+      {
+        "literal": "Choong Seon Hong"
+      },
+      {
+        "literal": "Yu Qiao"
+      },
+      {
+        "literal": "Chaoning Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2406_16937",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6e32c661e79c8cc751d4a19de095d7f4db83b8f9ebb779be9a921675dae0ec2e",
+        "submitted_at": "2024-06-17T09:39:34Z",
+        "updated_at": "2024-11-18T12:36:13Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2406.16937v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.16937",
+      "catalog_id": "arxiv:2406.16937",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-06-17",
+      "identifiers": {
+        "arxiv": "2406.16937"
+      },
+      "record_updated_at": "2024-11-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.16937",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-17; Recorded arXiv version: v2; Recorded version updated: 2024-11-18T12:36:13Z.",
+    "title": "A Complete Survey on LLM-based AI Chatbots",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2406.18082v2",
@@ -53320,6 +54658,67 @@
     "title": "OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2407.19354v2",
+    "archive": "arXiv",
+    "archive_location": "2407.19354",
+    "author": [
+      {
+        "literal": "Feng He"
+      },
+      {
+        "literal": "Tianqing Zhu"
+      },
+      {
+        "literal": "Dayong Ye"
+      },
+      {
+        "literal": "Bo Liu"
+      },
+      {
+        "literal": "Wanlei Zhou"
+      },
+      {
+        "literal": "Philip S. Yu"
+      }
+    ],
+    "citation-key": "arxiv_2407_19354",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "515be6887549a058a13d25e4bed04c9cec042cfd5980f7f19dcfd5489f25bc52",
+        "submitted_at": "2024-07-28T00:26:24Z",
+        "updated_at": "2025-11-02T06:38:40Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2407.19354v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.19354",
+      "catalog_id": "arxiv:2407.19354",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-07-28",
+      "identifiers": {
+        "arxiv": "2407.19354"
+      },
+      "record_updated_at": "2025-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2407.19354",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2024-07-28; Recorded arXiv version: v2; Recorded version updated: 2025-11-02T06:38:40Z.",
+    "title": "The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2407.20143v4",
@@ -64709,6 +66108,85 @@
     "title": "AutoGLM: Autonomous Foundation Agents for GUIs",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2411.01747v3",
+    "archive": "arXiv",
+    "archive_location": "2411.01747",
+    "author": [
+      {
+        "literal": "Dang Nguyen"
+      },
+      {
+        "literal": "Viet Dac Lai"
+      },
+      {
+        "literal": "Seunghyun Yoon"
+      },
+      {
+        "literal": "Ryan A. Rossi"
+      },
+      {
+        "literal": "Handong Zhao"
+      },
+      {
+        "literal": "Ruiyi Zhang"
+      },
+      {
+        "literal": "Puneet Mathur"
+      },
+      {
+        "literal": "Nedim Lipka"
+      },
+      {
+        "literal": "Yu Wang"
+      },
+      {
+        "literal": "Trung Bui"
+      },
+      {
+        "literal": "Franck Dernoncourt"
+      },
+      {
+        "literal": "Tianyi Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2411_01747",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d4a3c8b0a6d871d49815b6f40fd0f89948dcc21cd041b1cb9861c1ba7b154858",
+        "submitted_at": "2024-11-04T02:08:59Z",
+        "updated_at": "2025-09-04T16:22:32Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2411.01747v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.01747",
+      "catalog_id": "arxiv:2411.01747",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-11-04",
+      "identifiers": {
+        "arxiv": "2411.01747"
+      },
+      "record_updated_at": "2025-09-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.01747",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-04; Recorded arXiv version: v3; Recorded version updated: 2025-09-04T16:22:32Z.",
+    "title": "DynaSaur: Large Language Agents Beyond Predefined Actions",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2411.02006v3",
@@ -79631,6 +81109,61 @@
     },
     "note": "First published: 2025-03-31; Recorded arXiv version: v2; Recorded version updated: 2025-04-08T12:36:08Z.",
     "title": "Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.23959v2",
+    "archive": "arXiv",
+    "archive_location": "2503.23959",
+    "author": [
+      {
+        "literal": "Bizhe Bai"
+      },
+      {
+        "literal": "Jianjian Cao"
+      },
+      {
+        "literal": "Yadan Luo"
+      },
+      {
+        "literal": "Tao Chen"
+      }
+    ],
+    "citation-key": "arxiv_2503_23959",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "75c32d3838214cb8d14c52fa9abb169ce1bf90018685e029341ae1fdf0429f14",
+        "submitted_at": "2025-03-31T11:18:27Z",
+        "updated_at": "2025-04-01T08:34:57Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.23959v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.23959",
+      "catalog_id": "arxiv:2503.23959",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-03-31",
+      "identifiers": {
+        "arxiv": "2503.23959"
+      },
+      "record_updated_at": "2025-04-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.23959",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-31; Recorded arXiv version: v2; Recorded version updated: 2025-04-01T08:34:57Z.",
+    "title": "Local Information Matters: Inference Acceleration For Grounded Conversation Generation Models Through Adaptive Local-Aware Token Pruning",
     "type": "article",
     "version": "2"
   },
@@ -131508,6 +133041,94 @@
     "title": "SpatialBench-UC: Uncertainty-Aware Evaluation of Spatial Prompt Following in Text-to-Image Generation",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.14192v2",
+    "archive": "arXiv",
+    "archive_location": "2601.14192",
+    "author": [
+      {
+        "literal": "Xiaofang Yang"
+      },
+      {
+        "literal": "Lijun Li"
+      },
+      {
+        "literal": "Heng Zhou"
+      },
+      {
+        "literal": "Tong Zhu"
+      },
+      {
+        "literal": "Xiaoye Qu"
+      },
+      {
+        "literal": "Yuchen Fan"
+      },
+      {
+        "literal": "Qianshan Wei"
+      },
+      {
+        "literal": "Rui Ye"
+      },
+      {
+        "literal": "Li Kang"
+      },
+      {
+        "literal": "Yiran Qin"
+      },
+      {
+        "literal": "Daizong Liu"
+      },
+      {
+        "literal": "Qi Li"
+      },
+      {
+        "literal": "Ning Ding"
+      },
+      {
+        "literal": "Siheng Chen"
+      },
+      {
+        "literal": "Jing Shao"
+      }
+    ],
+    "citation-key": "arxiv_2601_14192",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f4af41e42621c99f38145a295522c4b09eae16de4e50f3fdc61b51de1430ef9a",
+        "submitted_at": "2026-01-20T17:51:56Z",
+        "updated_at": "2026-07-03T11:26:58Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2601.14192v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.14192",
+      "catalog_id": "arxiv:2601.14192",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-01-20",
+      "identifiers": {
+        "arxiv": "2601.14192"
+      },
+      "record_updated_at": "2026-07-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.14192",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-20; Recorded arXiv version: v2; Recorded version updated: 2026-07-03T11:26:58Z.",
+    "title": "Toward Efficient Agents: Memory, Tool learning, and Planning",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2601.14232v2",
@@ -219036,6 +220657,77 @@
     "title": "Visual Token Routing: Learning to keep tokens that matter",
     "type": "article",
     "version": "1"
+  },
+  {
+    "DOI": "10.21203/rs.3.rs-4653823/v1",
+    "URL": "https://www.researchsquare.com/article/rs-4653823/v1",
+    "author": [
+      {
+        "literal": "Husam Barham"
+      },
+      {
+        "literal": "Mohammed Fasha"
+      }
+    ],
+    "citation-key": "cua_d196f528f656d445e753ab68",
+    "container-title": "Research Square (preprint)",
+    "custom": {
+      "canonical_source_url": "https://www.researchsquare.com/article/rs-4653823/v1",
+      "catalog_id": "url:0eb4d29a37f569e51186",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "citation_edition": "publication",
+      "first_published_at": "2024-07-22",
+      "identifiers": {
+        "doi": "10.21203/rs.3.rs-4653823/v1"
+      },
+      "publication": {
+        "authors": [
+          "Husam Barham",
+          "Mohammed Fasha"
+        ],
+        "date_basis": "Research Square posted date 2024-07-22 (citation_publication_date and Crossref posted-content date).",
+        "date_parts": [
+          2024,
+          7,
+          22
+        ],
+        "doi": "10.21203/rs.3.rs-4653823/v1",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.21203/rs.3.rs-4653823/v1",
+          "https://www.researchsquare.com/article/rs-4653823/v1"
+        ],
+        "identity_basis": "Crossref DOI record and the Research Square landing page name the same title, authors, DOI and posted date.",
+        "issue": null,
+        "notes": "A preprint; no arXiv version was found. The OS Agents survey (arXiv 2508.04482) cites it as Barham and Fasha (2024) without a link. Relevance awaits editorial review.",
+        "pages": null,
+        "pdf_url": null,
+        "publisher": "Springer Science and Business Media LLC",
+        "series": null,
+        "title": "Towards LLMCI - Multimodal AI for LLM-Vision UI Operation",
+        "type": "other",
+        "url": "https://www.researchsquare.com/article/rs-4653823/v1",
+        "venue": "Research Square (preprint)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:0eb4d29a37f569e51186",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          22
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-07-22.",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "Towards LLMCI - Multimodal AI for LLM-Vision UI Operation",
+    "type": "article"
   },
   {
     "DOI": "10.1145/2983990.2984020",

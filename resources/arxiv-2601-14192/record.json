@@ -1,0 +1,78 @@
+{
+  "aliases": [],
+  "authors": [
+    "Xiaofang Yang",
+    "Lijun Li",
+    "Heng Zhou",
+    "Tong Zhu",
+    "Xiaoye Qu",
+    "Yuchen Fan",
+    "Qianshan Wei",
+    "Rui Ye",
+    "Li Kang",
+    "Yiran Qin",
+    "Daizong Liu",
+    "Qi Li",
+    "Ning Ding",
+    "Siheng Chen",
+    "Jing Shao"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f4af41e42621c99f38145a295522c4b09eae16de4e50f3fdc61b51de1430ef9a",
+      "submitted_at": "2026-01-20T17:51:56Z",
+      "updated_at": "2026-07-03T11:26:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.14192v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-05T22:45:59Z",
+      "role": "primary",
+      "sha256": "64f97144291fff3db4017aa98232c8ab4835b963924ad791e4a24f9b6e06735e",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2405.10739%2C2503.23959%2C2601.14192&max_results=3"
+    }
+  ],
+  "id": "arxiv:2601.14192",
+  "identifiers": {
+    "arxiv": "2601.14192"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-05T22:45:59Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2601.14192"
+    }
+  ],
+  "name": "Toward Efficient Agents: Memory, Tool learning, and Planning",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-01-20",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-07-03",
+  "url": "https://arxiv.org/abs/2601.14192"
+}

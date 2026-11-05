@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yizhang Jin",
+    "Jian Li",
+    "Yexin Liu",
+    "Tianjun Gu",
+    "Kai Wu",
+    "Zhengkai Jiang",
+    "Muyang He",
+    "Bo Zhao",
+    "Xin Tan",
+    "Zhenye Gan",
+    "Yabiao Wang",
+    "Chengjie Wang",
+    "Lizhuang Ma"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ee954ae9dd1aa0742c63a4c79a30996cd1b111e8df008081e5076e432bcd8608",
+      "submitted_at": "2024-05-17T12:37:10Z",
+      "updated_at": "2026-01-22T02:53:40Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2405.10739v3"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-05T22:45:59Z",
+      "role": "primary",
+      "sha256": "64f97144291fff3db4017aa98232c8ab4835b963924ad791e4a24f9b6e06735e",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2405.10739%2C2503.23959%2C2601.14192&max_results=3"
+    }
+  ],
+  "id": "arxiv:2405.10739",
+  "identifiers": {
+    "arxiv": "2405.10739"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-05T22:45:59Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2405.10739"
+    }
+  ],
+  "name": "Efficient Multimodal Large Language Models: A Survey",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2024-05-17",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-01-22",
+  "url": "https://arxiv.org/abs/2405.10739"
+}

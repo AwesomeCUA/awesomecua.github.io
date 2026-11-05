@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "authors": [
+    "Bizhe Bai",
+    "Jianjian Cao",
+    "Yadan Luo",
+    "Tao Chen"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "75c32d3838214cb8d14c52fa9abb169ce1bf90018685e029341ae1fdf0429f14",
+      "submitted_at": "2025-03-31T11:18:27Z",
+      "updated_at": "2025-04-01T08:34:57Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.23959v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-05T22:45:59Z",
+      "role": "primary",
+      "sha256": "64f97144291fff3db4017aa98232c8ab4835b963924ad791e4a24f9b6e06735e",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2405.10739%2C2503.23959%2C2601.14192&max_results=3"
+    }
+  ],
+  "id": "arxiv:2503.23959",
+  "identifiers": {
+    "arxiv": "2503.23959"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-05T22:45:59Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2503.23959"
+    }
+  ],
+  "name": "Local Information Matters: Inference Acceleration For Grounded Conversation Generation Models Through Adaptive Local-Aware Token Pruning",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2025-03-31",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2025-04-01",
+  "url": "https://arxiv.org/abs/2503.23959"
+}

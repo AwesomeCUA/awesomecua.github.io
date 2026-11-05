@@ -1,0 +1,385 @@
+{
+  "id": "arxiv:2108.07258",
+  "citation-key": "arxiv_2108_07258",
+  "type": "article",
+  "title": "On the Opportunities and Risks of Foundation Models",
+  "URL": "https://arxiv.org/abs/2108.07258v3",
+  "custom": {
+    "catalog_id": "arxiv:2108.07258",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2108.07258",
+    "identifiers": {
+      "arxiv": "2108.07258"
+    },
+    "first_published_at": "2021-08-16",
+    "record_updated_at": "2022-07-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9c675a283bd748d112a75aa5e7e1baecc74783aaf0f7d6dc5a4ffd9ec652db15",
+      "submitted_at": "2021-08-16T17:50:08Z",
+      "updated_at": "2022-07-12T23:45:14Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2108.07258v3"
+    }
+  },
+  "note": "First published: 2021-08-16; Recorded arXiv version: v3; Recorded version updated: 2022-07-12T23:45:14Z.",
+  "author": [
+    {
+      "literal": "Rishi Bommasani"
+    },
+    {
+      "literal": "Drew A. Hudson"
+    },
+    {
+      "literal": "Ehsan Adeli"
+    },
+    {
+      "literal": "Russ Altman"
+    },
+    {
+      "literal": "Simran Arora"
+    },
+    {
+      "literal": "Sydney von Arx"
+    },
+    {
+      "literal": "Michael S. Bernstein"
+    },
+    {
+      "literal": "Jeannette Bohg"
+    },
+    {
+      "literal": "Antoine Bosselut"
+    },
+    {
+      "literal": "Emma Brunskill"
+    },
+    {
+      "literal": "Erik Brynjolfsson"
+    },
+    {
+      "literal": "Shyamal Buch"
+    },
+    {
+      "literal": "Dallas Card"
+    },
+    {
+      "literal": "Rodrigo Castellon"
+    },
+    {
+      "literal": "Niladri Chatterji"
+    },
+    {
+      "literal": "Annie Chen"
+    },
+    {
+      "literal": "Kathleen Creel"
+    },
+    {
+      "literal": "Jared Quincy Davis"
+    },
+    {
+      "literal": "Dora Demszky"
+    },
+    {
+      "literal": "Chris Donahue"
+    },
+    {
+      "literal": "Moussa Doumbouya"
+    },
+    {
+      "literal": "Esin Durmus"
+    },
+    {
+      "literal": "Stefano Ermon"
+    },
+    {
+      "literal": "John Etchemendy"
+    },
+    {
+      "literal": "Kawin Ethayarajh"
+    },
+    {
+      "literal": "Li Fei-Fei"
+    },
+    {
+      "literal": "Chelsea Finn"
+    },
+    {
+      "literal": "Trevor Gale"
+    },
+    {
+      "literal": "Lauren Gillespie"
+    },
+    {
+      "literal": "Karan Goel"
+    },
+    {
+      "literal": "Noah Goodman"
+    },
+    {
+      "literal": "Shelby Grossman"
+    },
+    {
+      "literal": "Neel Guha"
+    },
+    {
+      "literal": "Tatsunori Hashimoto"
+    },
+    {
+      "literal": "Peter Henderson"
+    },
+    {
+      "literal": "John Hewitt"
+    },
+    {
+      "literal": "Daniel E. Ho"
+    },
+    {
+      "literal": "Jenny Hong"
+    },
+    {
+      "literal": "Kyle Hsu"
+    },
+    {
+      "literal": "Jing Huang"
+    },
+    {
+      "literal": "Thomas Icard"
+    },
+    {
+      "literal": "Saahil Jain"
+    },
+    {
+      "literal": "Dan Jurafsky"
+    },
+    {
+      "literal": "Pratyusha Kalluri"
+    },
+    {
+      "literal": "Siddharth Karamcheti"
+    },
+    {
+      "literal": "Geoff Keeling"
+    },
+    {
+      "literal": "Fereshte Khani"
+    },
+    {
+      "literal": "Omar Khattab"
+    },
+    {
+      "literal": "Pang Wei Koh"
+    },
+    {
+      "literal": "Mark Krass"
+    },
+    {
+      "literal": "Ranjay Krishna"
+    },
+    {
+      "literal": "Rohith Kuditipudi"
+    },
+    {
+      "literal": "Ananya Kumar"
+    },
+    {
+      "literal": "Faisal Ladhak"
+    },
+    {
+      "literal": "Mina Lee"
+    },
+    {
+      "literal": "Tony Lee"
+    },
+    {
+      "literal": "Jure Leskovec"
+    },
+    {
+      "literal": "Isabelle Levent"
+    },
+    {
+      "literal": "Xiang Lisa Li"
+    },
+    {
+      "literal": "Xuechen Li"
+    },
+    {
+      "literal": "Tengyu Ma"
+    },
+    {
+      "literal": "Ali Malik"
+    },
+    {
+      "literal": "Christopher D. Manning"
+    },
+    {
+      "literal": "Suvir Mirchandani"
+    },
+    {
+      "literal": "Eric Mitchell"
+    },
+    {
+      "literal": "Zanele Munyikwa"
+    },
+    {
+      "literal": "Suraj Nair"
+    },
+    {
+      "literal": "Avanika Narayan"
+    },
+    {
+      "literal": "Deepak Narayanan"
+    },
+    {
+      "literal": "Ben Newman"
+    },
+    {
+      "literal": "Allen Nie"
+    },
+    {
+      "literal": "Juan Carlos Niebles"
+    },
+    {
+      "literal": "Hamed Nilforoshan"
+    },
+    {
+      "literal": "Julian Nyarko"
+    },
+    {
+      "literal": "Giray Ogut"
+    },
+    {
+      "literal": "Laurel Orr"
+    },
+    {
+      "literal": "Isabel Papadimitriou"
+    },
+    {
+      "literal": "Joon Sung Park"
+    },
+    {
+      "literal": "Chris Piech"
+    },
+    {
+      "literal": "Eva Portelance"
+    },
+    {
+      "literal": "Christopher Potts"
+    },
+    {
+      "literal": "Aditi Raghunathan"
+    },
+    {
+      "literal": "Rob Reich"
+    },
+    {
+      "literal": "Hongyu Ren"
+    },
+    {
+      "literal": "Frieda Rong"
+    },
+    {
+      "literal": "Yusuf Roohani"
+    },
+    {
+      "literal": "Camilo Ruiz"
+    },
+    {
+      "literal": "Jack Ryan"
+    },
+    {
+      "literal": "Christopher Ré"
+    },
+    {
+      "literal": "Dorsa Sadigh"
+    },
+    {
+      "literal": "Shiori Sagawa"
+    },
+    {
+      "literal": "Keshav Santhanam"
+    },
+    {
+      "literal": "Andy Shih"
+    },
+    {
+      "literal": "Krishnan Srinivasan"
+    },
+    {
+      "literal": "Alex Tamkin"
+    },
+    {
+      "literal": "Rohan Taori"
+    },
+    {
+      "literal": "Armin W. Thomas"
+    },
+    {
+      "literal": "Florian Tramèr"
+    },
+    {
+      "literal": "Rose E. Wang"
+    },
+    {
+      "literal": "William Wang"
+    },
+    {
+      "literal": "Bohan Wu"
+    },
+    {
+      "literal": "Jiajun Wu"
+    },
+    {
+      "literal": "Yuhuai Wu"
+    },
+    {
+      "literal": "Sang Michael Xie"
+    },
+    {
+      "literal": "Michihiro Yasunaga"
+    },
+    {
+      "literal": "Jiaxuan You"
+    },
+    {
+      "literal": "Matei Zaharia"
+    },
+    {
+      "literal": "Michael Zhang"
+    },
+    {
+      "literal": "Tianyi Zhang"
+    },
+    {
+      "literal": "Xikun Zhang"
+    },
+    {
+      "literal": "Yuhui Zhang"
+    },
+    {
+      "literal": "Lucia Zheng"
+    },
+    {
+      "literal": "Kaitlyn Zhou"
+    },
+    {
+      "literal": "Percy Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        8,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2108.07258",
+  "genre": "preprint",
+  "version": "3"
+}

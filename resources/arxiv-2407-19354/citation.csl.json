@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2407.19354",
+  "citation-key": "arxiv_2407_19354",
+  "type": "article",
+  "title": "The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies",
+  "URL": "https://arxiv.org/abs/2407.19354v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.19354",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.19354",
+    "identifiers": {
+      "arxiv": "2407.19354"
+    },
+    "first_published_at": "2024-07-28",
+    "record_updated_at": "2025-11-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "515be6887549a058a13d25e4bed04c9cec042cfd5980f7f19dcfd5489f25bc52",
+      "submitted_at": "2024-07-28T00:26:24Z",
+      "updated_at": "2025-11-02T06:38:40Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.19354v2"
+    }
+  },
+  "note": "First published: 2024-07-28; Recorded arXiv version: v2; Recorded version updated: 2025-11-02T06:38:40Z.",
+  "author": [
+    {
+      "literal": "Feng He"
+    },
+    {
+      "literal": "Tianqing Zhu"
+    },
+    {
+      "literal": "Dayong Ye"
+    },
+    {
+      "literal": "Bo Liu"
+    },
+    {
+      "literal": "Wanlei Zhou"
+    },
+    {
+      "literal": "Philip S. Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.19354",
+  "genre": "preprint",
+  "version": "2"
+}

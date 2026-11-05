@@ -1,0 +1,104 @@
+{
+  "aliases": [],
+  "authors": [
+    "Husam Barham",
+    "Mohammed Fasha"
+  ],
+  "details": {
+    "publication": {
+      "authors": [
+        "Husam Barham",
+        "Mohammed Fasha"
+      ],
+      "date_basis": "Research Square posted date 2024-07-22 (citation_publication_date and Crossref posted-content date).",
+      "date_parts": [
+        2024,
+        7,
+        22
+      ],
+      "doi": "10.21203/rs.3.rs-4653823/v1",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://api.crossref.org/works/10.21203/rs.3.rs-4653823/v1",
+        "https://www.researchsquare.com/article/rs-4653823/v1"
+      ],
+      "identity_basis": "Crossref DOI record and the Research Square landing page name the same title, authors, DOI and posted date.",
+      "issue": null,
+      "notes": "A preprint; no arXiv version was found. The OS Agents survey (arXiv 2508.04482) cites it as Barham and Fasha (2024) without a link. Relevance awaits editorial review.",
+      "pages": null,
+      "pdf_url": null,
+      "publisher": "Springer Science and Business Media LLC",
+      "series": null,
+      "title": "Towards LLMCI - Multimodal AI for LLM-Vision UI Operation",
+      "type": "other",
+      "url": "https://www.researchsquare.com/article/rs-4653823/v1",
+      "venue": "Research Square (preprint)",
+      "volume": null
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T22:43:55Z",
+      "role": "primary",
+      "sha256": "ba07c58aeb5a1d0e47c118fecd2d24a5271ffb3575109f6dfe0e5d197290e358",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.publisher",
+        "details.publication.title",
+        "details.publication.type"
+      ],
+      "url": "https://api.crossref.org/works/10.21203/rs.3.rs-4653823/v1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T22:43:56Z",
+      "role": "primary",
+      "sha256": "21423a072033a118b2fad889fdc216e52317c95ab5d07dc95d5f43986ac47681",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.title",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-4653823/v1"
+    }
+  ],
+  "id": "url:0eb4d29a37f569e51186",
+  "identifiers": {
+    "doi": "10.21203/rs.3.rs-4653823/v1"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-05T22:43:56Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://www.researchsquare.com/article/rs-4653823/v1"
+    }
+  ],
+  "name": "Towards LLMCI - Multimodal AI for LLM-Vision UI Operation",
+  "notes": "Bibliographic facts reviewed against retained publication sources; relevance awaits editorial review.",
+  "published_at": "2024-07-22",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": null,
+  "url": "https://www.researchsquare.com/article/rs-4653823/v1"
+}

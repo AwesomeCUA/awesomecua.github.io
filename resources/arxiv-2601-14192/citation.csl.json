@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2601.14192",
+  "citation-key": "arxiv_2601_14192",
+  "type": "article",
+  "title": "Toward Efficient Agents: Memory, Tool learning, and Planning",
+  "URL": "https://arxiv.org/abs/2601.14192v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.14192",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.14192",
+    "identifiers": {
+      "arxiv": "2601.14192"
+    },
+    "first_published_at": "2026-01-20",
+    "record_updated_at": "2026-07-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f4af41e42621c99f38145a295522c4b09eae16de4e50f3fdc61b51de1430ef9a",
+      "submitted_at": "2026-01-20T17:51:56Z",
+      "updated_at": "2026-07-03T11:26:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.14192v2"
+    }
+  },
+  "note": "First published: 2026-01-20; Recorded arXiv version: v2; Recorded version updated: 2026-07-03T11:26:58Z.",
+  "author": [
+    {
+      "literal": "Xiaofang Yang"
+    },
+    {
+      "literal": "Lijun Li"
+    },
+    {
+      "literal": "Heng Zhou"
+    },
+    {
+      "literal": "Tong Zhu"
+    },
+    {
+      "literal": "Xiaoye Qu"
+    },
+    {
+      "literal": "Yuchen Fan"
+    },
+    {
+      "literal": "Qianshan Wei"
+    },
+    {
+      "literal": "Rui Ye"
+    },
+    {
+      "literal": "Li Kang"
+    },
+    {
+      "literal": "Yiran Qin"
+    },
+    {
+      "literal": "Daizong Liu"
+    },
+    {
+      "literal": "Qi Li"
+    },
+    {
+      "literal": "Ning Ding"
+    },
+    {
+      "literal": "Siheng Chen"
+    },
+    {
+      "literal": "Jing Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.14192",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -44,9 +44,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**3,636 resource records** · **1,674 curated** · **3,164 paper and survey records** · **101 discovery documents**
+**3,653 resource records** · **1,674 curated** · **3,181 paper and survey records** · **103 discovery documents**
 
-Evidence snapshot: 2026-11-05T21:14:44Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-11-05T22:51:37Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -56,7 +56,7 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 
 | Category | Records | Browse |
 | --- | ---: | --- |
-| Research papers | 3,145 | [Open directory](https://awesomecua.com/categories/paper/) |
+| Research papers | 3,162 | [Open directory](https://awesomecua.com/categories/paper/) |
 | Surveys | 19 | [Open directory](https://awesomecua.com/categories/survey/) |
 | Learning resources | 2 | [Open directory](https://awesomecua.com/categories/learning/) |
 | Models and checkpoints | 98 | [Open directory](https://awesomecua.com/categories/model/) |

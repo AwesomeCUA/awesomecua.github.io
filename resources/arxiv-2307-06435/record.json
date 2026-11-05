@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "authors": [
+    "Humza Naveed",
+    "Asad Ullah Khan",
+    "Shi Qiu",
+    "Muhammad Saqib",
+    "Saeed Anwar",
+    "Muhammad Usman",
+    "Naveed Akhtar",
+    "Nick Barnes",
+    "Ajmal Mian"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "61496c6be867fd909ce91c0bae5194b5b77a295d4be772fd956f634ebd137e3f",
+      "submitted_at": "2023-07-12T20:01:52Z",
+      "updated_at": "2024-10-17T01:10:40Z",
+      "version": 10,
+      "versioned_url": "https://arxiv.org/abs/2307.06435v10"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-05T22:51:37Z",
+      "role": "primary",
+      "sha256": "37764bc2320cd276186b5d58298d91eff164662dbc905cef8e3d8654096fb20d",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2108.07258%2C2212.08681%2C2307.06435%2C2307.09288%2C2310.03965%2C2310.04406%2C2310.13227%2C2402.06853%2C2403.07918%2C2405.19119%2C2406.16937%2C2407.19354%2C2411.01747&max_results=13"
+    }
+  ],
+  "id": "arxiv:2307.06435",
+  "identifiers": {
+    "arxiv": "2307.06435"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-05T22:51:37Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2307.06435"
+    }
+  ],
+  "name": "A Comprehensive Overview of Large Language Models",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2023-07-12",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2024-10-17",
+  "url": "https://arxiv.org/abs/2307.06435"
+}
