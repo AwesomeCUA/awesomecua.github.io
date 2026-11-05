@@ -198600,6 +198600,174 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.04073v1",
+    "archive": "arXiv",
+    "archive_location": "2611.04073",
+    "author": [
+      {
+        "literal": "Anh Nguyen"
+      },
+      {
+        "literal": "Tianyi Xu"
+      },
+      {
+        "literal": "Phat Tran"
+      },
+      {
+        "literal": "Harry Yu"
+      },
+      {
+        "literal": "Huazheng Wang"
+      },
+      {
+        "literal": "Stefan Lee"
+      }
+    ],
+    "citation-key": "arxiv_2611_04073",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a3f0c35acf12f5cd92fd0a4852f40a7f16ce25f4eb9d8c2b38ceb0c609be6c1f",
+        "submitted_at": "2026-11-02T23:36:18Z",
+        "updated_at": "2026-11-02T23:36:18Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.04073v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.04073",
+      "catalog_id": "arxiv:2611.04073",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-02",
+      "identifiers": {
+        "arxiv": "2611.04073"
+      },
+      "record_updated_at": "2026-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.04073",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T23:36:18Z.",
+    "title": "Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.04142v1",
+    "archive": "arXiv",
+    "archive_location": "2611.04142",
+    "author": [
+      {
+        "literal": "Sergio Talavera"
+      },
+      {
+        "literal": "Magdalini Eirinaki"
+      }
+    ],
+    "citation-key": "arxiv_2611_04142",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e1ff50b49e0c52184de430ed1ba90dba50025d7d708829d5b4e3593d4e65b5fd",
+        "submitted_at": "2026-11-03T01:35:51Z",
+        "updated_at": "2026-11-03T01:35:51Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.04142v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.04142",
+      "catalog_id": "arxiv:2611.04142",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-03",
+      "identifiers": {
+        "arxiv": "2611.04142"
+      },
+      "record_updated_at": "2026-11-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.04142",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T01:35:51Z.",
+    "title": "Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.04393v1",
+    "archive": "arXiv",
+    "archive_location": "2611.04393",
+    "author": [
+      {
+        "literal": "Ilan Zendel"
+      },
+      {
+        "literal": "Matan Levy"
+      },
+      {
+        "literal": "Stav Cohen"
+      },
+      {
+        "literal": "Avi Mendelson"
+      },
+      {
+        "literal": "Amit LeVi"
+      }
+    ],
+    "citation-key": "arxiv_2611_04393",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c25dafeb54cd2f4cfa8a0f0f16884e968d1d636e94c4c3f2627b0b8429429d8a",
+        "submitted_at": "2026-11-03T06:26:58Z",
+        "updated_at": "2026-11-03T06:26:58Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.04393v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.04393",
+      "catalog_id": "arxiv:2611.04393",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-03",
+      "identifiers": {
+        "arxiv": "2611.04393"
+      },
+      "record_updated_at": "2026-11-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.04393",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T06:26:58Z.",
+    "title": "Voluntary Servitude: Weaponized Safety Warning Mechanisms for Controlling AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2611.04785v1",
     "archive": "arXiv",
     "archive_location": "2611.04785",
@@ -198645,6 +198813,67 @@
     },
     "note": "First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T12:23:08Z.",
     "title": "Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.04879v1",
+    "archive": "arXiv",
+    "archive_location": "2611.04879",
+    "author": [
+      {
+        "literal": "Yutao Wu"
+      },
+      {
+        "literal": "Xiao Liu"
+      },
+      {
+        "literal": "Ming Wen"
+      },
+      {
+        "literal": "Hanxun Huang"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Xingjun Ma"
+      }
+    ],
+    "citation-key": "arxiv_2611_04879",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "38bea9ec7fe85545123b0d761e8c243a86bc41978cbf4c35b7ff7fbb38232707",
+        "submitted_at": "2026-11-03T13:31:11Z",
+        "updated_at": "2026-11-03T13:31:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.04879v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.04879",
+      "catalog_id": "arxiv:2611.04879",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-03",
+      "identifiers": {
+        "arxiv": "2611.04879"
+      },
+      "record_updated_at": "2026-11-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.04879",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T13:31:11Z.",
+    "title": "ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud",
     "type": "article",
     "version": "1"
   },
@@ -198763,6 +198992,55 @@
     },
     "note": "First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T15:09:01Z.",
     "title": "ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.05263v1",
+    "archive": "arXiv",
+    "archive_location": "2611.05263",
+    "author": [
+      {
+        "literal": "Shanka Subhra Mondal"
+      },
+      {
+        "literal": "Jiayun Wang"
+      }
+    ],
+    "citation-key": "arxiv_2611_05263",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e42f103be8242057b269ea33c0b3db191b526f6d9a50e1d590495d11cafab8dc",
+        "submitted_at": "2026-11-03T17:49:14Z",
+        "updated_at": "2026-11-03T17:49:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.05263v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.05263",
+      "catalog_id": "arxiv:2611.05263",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-03",
+      "identifiers": {
+        "arxiv": "2611.05263"
+      },
+      "record_updated_at": "2026-11-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.05263",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T17:49:14Z.",
+    "title": "JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks",
     "type": "article",
     "version": "1"
   },

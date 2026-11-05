@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2611.04879",
+  "citation-key": "arxiv_2611_04879",
+  "type": "article",
+  "title": "ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud",
+  "URL": "https://arxiv.org/abs/2611.04879v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.04879",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.04879",
+    "identifiers": {
+      "arxiv": "2611.04879"
+    },
+    "first_published_at": "2026-11-03",
+    "record_updated_at": "2026-11-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "38bea9ec7fe85545123b0d761e8c243a86bc41978cbf4c35b7ff7fbb38232707",
+      "submitted_at": "2026-11-03T13:31:11Z",
+      "updated_at": "2026-11-03T13:31:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.04879v1"
+    }
+  },
+  "note": "First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T13:31:11Z.",
+  "author": [
+    {
+      "literal": "Yutao Wu"
+    },
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Ming Wen"
+    },
+    {
+      "literal": "Hanxun Huang"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Xingjun Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.04879",
+  "genre": "preprint",
+  "version": "1"
+}

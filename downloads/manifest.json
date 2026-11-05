@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "4240e467647fed4034315908beeb4301ed2fa630e66d0365541e472009a690bc",
+  "catalog_sha256": "1bfc58ddc7181854b45a653c5b35a690d154adffa173d4f7369b38d21d136428",
   "source_repository": "https://github.com/reacher-z/Awesome-CUA",
   "source_catalog": "/downloads/catalog.jsonl",
   "publication_build_info": "/data/build-info.json",
@@ -22,12 +22,12 @@
       "format": "JSONL",
       "media_type": "application/x-ndjson",
       "count": {
-        "value": 3367,
+        "value": 3372,
         "unit": "resources"
       },
       "scope": "active",
-      "bytes": 8686617,
-      "sha256": "4240e467647fed4034315908beeb4301ed2fa630e66d0365541e472009a690bc"
+      "bytes": 8696944,
+      "sha256": "1bfc58ddc7181854b45a653c5b35a690d154adffa173d4f7369b38d21d136428"
     },
     {
       "id": "catalog-json",
@@ -44,12 +44,12 @@
       "format": "JSON",
       "media_type": "application/json",
       "count": {
-        "value": 3367,
+        "value": 3372,
         "unit": "resources"
       },
       "scope": "active",
-      "bytes": 8345838,
-      "sha256": "0c7788cfa8652e3cf5fa1d9c2d1e955c1044deecbe656b456ca5e8662f8a67c6"
+      "bytes": 8355749,
+      "sha256": "d8650b35cf0c5e1f494becfdbd3c02fd46ff8c814f75dc593a570df1f1c785a5"
     },
     {
       "id": "catalog-sqlite",
@@ -66,12 +66,12 @@
       "format": "SQLite",
       "media_type": "application/vnd.sqlite3",
       "count": {
-        "value": 3367,
+        "value": 3372,
         "unit": "resources"
       },
       "scope": "active",
-      "bytes": 16887808,
-      "sha256": "3643befb6b855c4f120d148dd4c552565abf1ff2d9070ce00e5e165f7481420f"
+      "bytes": 16912384,
+      "sha256": "534a532140808ee9b6c1637285d41cce49ba7760cfa64175a8c2a99578b95712"
     },
     {
       "id": "rag-reviewed",
@@ -110,12 +110,12 @@
       "format": "JSONL",
       "media_type": "application/x-ndjson",
       "count": {
-        "value": 3367,
+        "value": 3372,
         "unit": "documents"
       },
       "scope": "active",
-      "bytes": 12868776,
-      "sha256": "4c753406be1f15c8799864844c729f1f5d5751761b39270e98e43ff9b7cfdfaf"
+      "bytes": 12884998,
+      "sha256": "cdf72a87e323b1f9c114a1ca9757fbe33bebe98ebfc95730d60e44dde2e2872f"
     },
     {
       "id": "rag-manifest",
@@ -137,7 +137,7 @@
       },
       "scope": "provenance",
       "bytes": 958,
-      "sha256": "c6f8a7e6e36d312ca338c13c12f82ea201a310554791d419eff5174662b16ac2"
+      "sha256": "1e497e3088873ed440dfe30d66213e14accc13eb5ebe1d5986ab321256bec6a3"
     },
     {
       "id": "citations-bib",
@@ -198,12 +198,12 @@
       "format": "BibTeX",
       "media_type": "application/x-bibtex",
       "count": {
-        "value": 2895,
+        "value": 2900,
         "unit": "citations"
       },
       "scope": "active",
-      "bytes": 2084124,
-      "sha256": "6217d7c38b27e2e6b8d15295d6a956998e74384888d905da7c925f782bec6f98"
+      "bytes": 2087249,
+      "sha256": "c5f0faf79a45902f10c7ba0d0d12ff71e55e9379319cd30c6d85afe8e66d0861"
     },
     {
       "id": "citations-all-csl-json",
@@ -220,12 +220,12 @@
       "format": "CSL JSON",
       "media_type": "application/vnd.citationstyles.csl+json",
       "count": {
-        "value": 2895,
+        "value": 2900,
         "unit": "citations"
       },
       "scope": "active",
-      "bytes": 5336091,
-      "sha256": "0c0d927c2301ad50b4a0f0fea2abddc2d008e5f15d0ac238acbfaa43b81f5273"
+      "bytes": 5344143,
+      "sha256": "748d34812f2f4ea75785b85651bbadcbcb959b469cb33b0644295051b9b94a35"
     },
     {
       "id": "publication-citations-bib",
@@ -291,7 +291,7 @@
       },
       "scope": "provenance",
       "bytes": 3593,
-      "sha256": "3110cb1edb7a2d61867fb71a65023c3b55a8bb906762de9a3002824d9fcd67a7"
+      "sha256": "3d5fc410dc0bb716c7a8b8e1335ee81dab166501de827a21068bcc36a5d92dea"
     },
     {
       "id": "topics",
@@ -313,7 +313,7 @@
       },
       "scope": "reviewed",
       "bytes": 185882,
-      "sha256": "582ae4a2d1993348342a305c96c23a8470e4aa6b4a0225c62850c04a5c2576d9"
+      "sha256": "b527887690018e72505451f79eec47e446084aaff1726abd3d65d7bb5919946b"
     },
     {
       "id": "benchmarks-profiles",
@@ -401,7 +401,7 @@
       },
       "scope": "provenance",
       "bytes": 216122,
-      "sha256": "a258c1f7857cbd6d0c2d5dad3ea7c64e3e25e728b827f218ed3e9177cde05c24"
+      "sha256": "d01c826f7b9c3c40fcd015bd4f97352fc64c8ea9311472ea2871c812ae1f2b6b"
     },
     {
       "id": "sources",
@@ -462,12 +462,12 @@
       "format": "JSONL",
       "media_type": "application/x-ndjson",
       "count": {
-        "value": 3020,
+        "value": 3025,
         "unit": "papers"
       },
       "scope": "archive",
-      "bytes": 6135479,
-      "sha256": "1563d9ddf71d86d2dfddc02effe3ebe9163e52097d954646e21cd40cecc72b0e"
+      "bytes": 6145656,
+      "sha256": "09f9cbce2695435b9fff569bcadd2b1fd69319ee54418c76a02a8aaae9933f38"
     },
     {
       "id": "publications",
@@ -528,12 +528,12 @@
       "format": "JSONL",
       "media_type": "application/x-ndjson",
       "count": {
-        "value": 9850,
+        "value": 9898,
         "unit": "repositories"
       },
       "scope": "candidate-observations",
-      "bytes": 27536050,
-      "sha256": "487bb94749845aa8e668e8ccfbadebcacbe3c9f694a6e1b5f0fad2262dd45460"
+      "bytes": 27627614,
+      "sha256": "ae8f5ffec93dd09d676db751ddf754023a14f23325bf81b2fe604faf981dd9dc"
     },
     {
       "id": "github-candidates-manifest",
@@ -554,8 +554,8 @@
         "unit": "reports"
       },
       "scope": "candidate-observations",
-      "bytes": 232191,
-      "sha256": "c3a7a42670b3674ac2d27a469c67881be3905ea11eca38a13bfaf070601c68f9"
+      "bytes": 240792,
+      "sha256": "bc5b095375db8567f1ce05c516e12ba75b9871d5d13d6dec195cfb470a0bc074"
     },
     {
       "id": "resource-schema-json",
