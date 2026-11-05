@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2303.11381",
+  "citation-key": "arxiv_2303_11381",
+  "type": "article",
+  "title": "MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action",
+  "URL": "https://arxiv.org/abs/2303.11381v1",
+  "custom": {
+    "catalog_id": "arxiv:2303.11381",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.11381",
+    "identifiers": {
+      "arxiv": "2303.11381"
+    },
+    "first_published_at": "2023-03-20",
+    "record_updated_at": "2023-03-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "32f6bc1db5ba643c05958e1fbbb299c410b9788fc6cb8b3bd10d8eb81f4165d4",
+      "submitted_at": "2023-03-20T18:31:47Z",
+      "updated_at": "2023-03-20T18:31:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2303.11381v1"
+    }
+  },
+  "note": "First published: 2023-03-20; Recorded arXiv version: v1; Recorded version updated: 2023-03-20T18:31:47Z.",
+  "author": [
+    {
+      "literal": "Zhengyuan Yang"
+    },
+    {
+      "literal": "Linjie Li"
+    },
+    {
+      "literal": "Jianfeng Wang"
+    },
+    {
+      "literal": "Kevin Lin"
+    },
+    {
+      "literal": "Ehsan Azarnasab"
+    },
+    {
+      "literal": "Faisal Ahmed"
+    },
+    {
+      "literal": "Zicheng Liu"
+    },
+    {
+      "literal": "Ce Liu"
+    },
+    {
+      "literal": "Michael Zeng"
+    },
+    {
+      "literal": "Lijuan Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.11381",
+  "genre": "preprint",
+  "version": "1"
+}

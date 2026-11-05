@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1805.01954",
+  "citation-key": "arxiv_1805_01954",
+  "type": "article",
+  "title": "Behavioral Cloning from Observation",
+  "URL": "https://arxiv.org/abs/1805.01954v2",
+  "custom": {
+    "catalog_id": "arxiv:1805.01954",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1805.01954",
+    "identifiers": {
+      "arxiv": "1805.01954"
+    },
+    "first_published_at": "2018-05-04",
+    "record_updated_at": "2018-05-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4a105e40363df412a33c7af41c2b2388d8b8dc4072b61fad37b51c69a7ba409e",
+      "submitted_at": "2018-05-04T22:36:58Z",
+      "updated_at": "2018-05-11T21:48:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1805.01954v2"
+    }
+  },
+  "note": "First published: 2018-05-04; Recorded arXiv version: v2; Recorded version updated: 2018-05-11T21:48:52Z.",
+  "author": [
+    {
+      "literal": "Faraz Torabi"
+    },
+    {
+      "literal": "Garrett Warnell"
+    },
+    {
+      "literal": "Peter Stone"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1805.01954",
+  "genre": "preprint",
+  "version": "2"
+}

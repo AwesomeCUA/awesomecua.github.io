@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1812.09195",
+  "citation-key": "arxiv_1812_09195",
+  "type": "article",
+  "title": "Learning to Navigate the Web",
+  "URL": "https://arxiv.org/abs/1812.09195v1",
+  "custom": {
+    "catalog_id": "arxiv:1812.09195",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1812.09195",
+    "identifiers": {
+      "arxiv": "1812.09195"
+    },
+    "first_published_at": "2018-12-21",
+    "record_updated_at": "2018-12-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5d8be69f732a853a091815e4f5c3a26778f955287feca28d3810a1f72d46c57f",
+      "submitted_at": "2018-12-21T15:32:59Z",
+      "updated_at": "2018-12-21T15:32:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1812.09195v1"
+    }
+  },
+  "note": "First published: 2018-12-21; Recorded arXiv version: v1; Recorded version updated: 2018-12-21T15:32:59Z.",
+  "author": [
+    {
+      "literal": "Izzeddin Gur"
+    },
+    {
+      "literal": "Ulrich Rueckert"
+    },
+    {
+      "literal": "Aleksandra Faust"
+    },
+    {
+      "literal": "Dilek Hakkani-Tur"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        12,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1812.09195",
+  "genre": "preprint",
+  "version": "1"
+}

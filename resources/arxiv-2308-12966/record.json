@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jinze Bai",
+    "Shuai Bai",
+    "Shusheng Yang",
+    "Shijie Wang",
+    "Sinan Tan",
+    "Peng Wang",
+    "Junyang Lin",
+    "Chang Zhou",
+    "Jingren Zhou"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "853fa158c2d3866337d2156aaef3a78d17c7610097d71a967b20d4843154e8d2",
+      "submitted_at": "2023-08-24T17:59:17Z",
+      "updated_at": "2023-10-13T02:41:28Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2308.12966v3"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-05T21:13:36Z",
+      "role": "primary",
+      "sha256": "4490f8d57c320dc1cce6bf3818c7bae7a4d86cab96ab3a1c924160b63c251995",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=1103.0086%2C1310.4774%2C1701.01216%2C1805.01954%2C1812.09195%2C1812.11470%2C1902.07257%2C1909.07646%2C1909.08053%2C1910.00177%2C1911.08265%2C2006.04779%2C2007.09554%2C2009.09158%2C2010.01083%2C2106.00133%2C2106.01345%2C2109.00137%2C2109.07914%2C2110.06169%2C2208.02685%2C2212.04732%2C2212.08073%2C2303.11381%2C2303.17651%2C2303.18223%2C2304.11277%2C2305.18290%2C2306.01987%2C2306.08129%2C2306.14824%2C2308.01399%2C2308.05898%2C2308.12966%2C2309.00267%2C2309.06180%2C2309.07864%2C2309.14365%2C2309.16609%2C2310.02424%2C2310.05915%2C2310.06830%2C2310.07128%2C2310.12823%2C2310.13289%2C2310.13518%2C2310.15780%2C2310.17796%2C2311.05437%2C2311.09724&max_results=50"
+    }
+  ],
+  "id": "arxiv:2308.12966",
+  "identifiers": {
+    "arxiv": "2308.12966"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-05T21:13:36Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2308.12966"
+    }
+  ],
+  "name": "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2023-08-24",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2023-10-13",
+  "url": "https://arxiv.org/abs/2308.12966"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2604.27974",
+  "citation-key": "arxiv_2604_27974",
+  "type": "article",
+  "title": "FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting",
+  "URL": "https://arxiv.org/abs/2604.27974v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.27974",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.27974",
+    "identifiers": {
+      "arxiv": "2604.27974"
+    },
+    "first_published_at": "2026-04-30",
+    "record_updated_at": "2026-04-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cefc1dc40ead09d3b420738c1da4aeace955493485b47012d17bc50410013ed7",
+      "submitted_at": "2026-04-30T15:03:56Z",
+      "updated_at": "2026-04-30T15:03:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.27974v1"
+    }
+  },
+  "note": "First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T15:03:56Z.",
+  "author": [
+    {
+      "literal": "Fengxian Ji"
+    },
+    {
+      "literal": "Jingpu Yang"
+    },
+    {
+      "literal": "Zirui Song"
+    },
+    {
+      "literal": "Yuanxi Wang"
+    },
+    {
+      "literal": "Zhexuan Cui"
+    },
+    {
+      "literal": "Yuke Li"
+    },
+    {
+      "literal": "Qian Jiang"
+    },
+    {
+      "literal": "Xiuying Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.27974",
+  "genre": "preprint",
+  "version": "1"
+}

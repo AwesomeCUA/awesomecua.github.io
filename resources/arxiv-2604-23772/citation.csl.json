@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2604.23772",
+  "citation-key": "arxiv_2604_23772",
+  "type": "article",
+  "title": "PageGuide: Browser extension to assist users in navigating a webpage and locating information",
+  "URL": "https://arxiv.org/abs/2604.23772v5",
+  "custom": {
+    "catalog_id": "arxiv:2604.23772",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.23772",
+    "identifiers": {
+      "arxiv": "2604.23772"
+    },
+    "first_published_at": "2026-04-26",
+    "record_updated_at": "2026-09-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1da030c59dca89bb64d046c97b747e53d138884c9e097c088da522c5ed125737",
+      "submitted_at": "2026-04-26T15:49:12Z",
+      "updated_at": "2026-09-12T18:39:05Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2604.23772v5"
+    }
+  },
+  "note": "First published: 2026-04-26; Recorded arXiv version: v5; Recorded version updated: 2026-09-12T18:39:05Z.",
+  "author": [
+    {
+      "literal": "Tin Nguyen"
+    },
+    {
+      "literal": "Thang T. Truong"
+    },
+    {
+      "literal": "Runtao Zhou"
+    },
+    {
+      "literal": "Trung Bui"
+    },
+    {
+      "literal": "Chirag Agarwal"
+    },
+    {
+      "literal": "Anh Totti Nguyen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.23772",
+  "genre": "preprint",
+  "version": "5"
+}

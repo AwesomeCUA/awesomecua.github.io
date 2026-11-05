@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2502.20694",
+  "citation-key": "arxiv_2502_20694",
+  "type": "article",
+  "title": "WorldModelBench: Judging Video Generation Models As World Models",
+  "URL": "https://arxiv.org/abs/2502.20694v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.20694",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.20694",
+    "identifiers": {
+      "arxiv": "2502.20694"
+    },
+    "first_published_at": "2025-02-28",
+    "record_updated_at": "2025-02-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4dd262a2f8d2b435ce4e3791299557679f9dd28203d95365b5e3b70bcbff35b0",
+      "submitted_at": "2025-02-28T03:58:23Z",
+      "updated_at": "2025-02-28T03:58:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.20694v1"
+    }
+  },
+  "note": "First published: 2025-02-28; Recorded arXiv version: v1; Recorded version updated: 2025-02-28T03:58:23Z.",
+  "author": [
+    {
+      "literal": "Dacheng Li"
+    },
+    {
+      "literal": "Yunhao Fang"
+    },
+    {
+      "literal": "Yukang Chen"
+    },
+    {
+      "literal": "Shuo Yang"
+    },
+    {
+      "literal": "Shiyi Cao"
+    },
+    {
+      "literal": "Justin Wong"
+    },
+    {
+      "literal": "Michael Luo"
+    },
+    {
+      "literal": "Xiaolong Wang"
+    },
+    {
+      "literal": "Hongxu Yin"
+    },
+    {
+      "literal": "Joseph E. Gonzalez"
+    },
+    {
+      "literal": "Ion Stoica"
+    },
+    {
+      "literal": "Song Han"
+    },
+    {
+      "literal": "Yao Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.20694",
+  "genre": "preprint",
+  "version": "1"
+}

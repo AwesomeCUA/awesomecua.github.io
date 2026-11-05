@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2510.19838",
+  "citation-key": "arxiv_2510_19838",
+  "type": "article",
+  "title": "Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory",
+  "URL": "https://arxiv.org/abs/2510.19838v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.19838",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.19838",
+    "identifiers": {
+      "arxiv": "2510.19838"
+    },
+    "first_published_at": "2025-10-18",
+    "record_updated_at": "2026-06-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0b8c9d01aef93de13d3f16043e7245855df93ff8305ea6d978b00ea6798e3c25",
+      "submitted_at": "2025-10-18T00:45:37Z",
+      "updated_at": "2026-06-16T02:29:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.19838v2"
+    }
+  },
+  "note": "First published: 2025-10-18; Recorded arXiv version: v2; Recorded version updated: 2026-06-16T02:29:48Z.",
+  "author": [
+    {
+      "literal": "Shiqi He"
+    },
+    {
+      "literal": "Yue Cui"
+    },
+    {
+      "literal": "Xinyu Ma"
+    },
+    {
+      "literal": "Yaliang Li"
+    },
+    {
+      "literal": "Bolin Ding"
+    },
+    {
+      "literal": "Mosharaf Chowdhury"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.19838",
+  "genre": "preprint",
+  "version": "2"
+}

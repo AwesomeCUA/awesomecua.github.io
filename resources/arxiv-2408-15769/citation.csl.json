@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2408.15769",
+  "citation-key": "arxiv_2408_15769",
+  "type": "article",
+  "title": "A Survey on Evaluation of Multimodal Large Language Models",
+  "URL": "https://arxiv.org/abs/2408.15769v1",
+  "custom": {
+    "catalog_id": "arxiv:2408.15769",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.15769",
+    "identifiers": {
+      "arxiv": "2408.15769"
+    },
+    "first_published_at": "2024-08-28",
+    "record_updated_at": "2024-08-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "712a444ac51421b5615f8e4fe55437c3077897ac47cde1ed0bee0bcc9545d830",
+      "submitted_at": "2024-08-28T13:05:55Z",
+      "updated_at": "2024-08-28T13:05:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2408.15769v1"
+    }
+  },
+  "note": "First published: 2024-08-28; Recorded arXiv version: v1; Recorded version updated: 2024-08-28T13:05:55Z.",
+  "author": [
+    {
+      "literal": "Jiaxing Huang"
+    },
+    {
+      "literal": "Jingyi Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.15769",
+  "genre": "preprint",
+  "version": "1"
+}

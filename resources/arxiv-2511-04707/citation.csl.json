@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2511.04707",
+  "citation-key": "arxiv_2511_04707",
+  "type": "article",
+  "title": "Jailbreaking in the Haystack",
+  "URL": "https://arxiv.org/abs/2511.04707v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.04707",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.04707",
+    "identifiers": {
+      "arxiv": "2511.04707"
+    },
+    "first_published_at": "2025-11-05",
+    "record_updated_at": "2026-08-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a8b43cd6ccef201951acfb008f57d1a0935748e7c20aa0b764de7aaf88e99cb9",
+      "submitted_at": "2025-11-05T01:12:50Z",
+      "updated_at": "2026-08-19T05:55:49Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.04707v2"
+    }
+  },
+  "note": "First published: 2025-11-05; Recorded arXiv version: v2; Recorded version updated: 2026-08-19T05:55:49Z.",
+  "author": [
+    {
+      "literal": "Rishi Rajesh Shah"
+    },
+    {
+      "literal": "Chen Henry Wu"
+    },
+    {
+      "literal": "Shashwat Saxena"
+    },
+    {
+      "literal": "Ziqian Zhong"
+    },
+    {
+      "literal": "Alexander Robey"
+    },
+    {
+      "literal": "Aditi Raghunathan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.04707",
+  "genre": "preprint",
+  "version": "2"
+}

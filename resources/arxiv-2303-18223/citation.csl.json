@@ -1,0 +1,109 @@
+{
+  "id": "arxiv:2303.18223",
+  "citation-key": "arxiv_2303_18223",
+  "type": "article",
+  "title": "A Survey of Large Language Models",
+  "URL": "https://arxiv.org/abs/2303.18223v19",
+  "custom": {
+    "catalog_id": "arxiv:2303.18223",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.18223",
+    "identifiers": {
+      "arxiv": "2303.18223"
+    },
+    "first_published_at": "2023-03-31",
+    "record_updated_at": "2026-03-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "41a5e23a7240920f5d59e795f1714447bacc28a82969da0cacdc661a4e4ada59",
+      "submitted_at": "2023-03-31T17:28:46Z",
+      "updated_at": "2026-03-18T05:34:39Z",
+      "version": 19,
+      "versioned_url": "https://arxiv.org/abs/2303.18223v19"
+    }
+  },
+  "note": "First published: 2023-03-31; Recorded arXiv version: v19; Recorded version updated: 2026-03-18T05:34:39Z.",
+  "author": [
+    {
+      "literal": "Wayne Xin Zhao"
+    },
+    {
+      "literal": "Kun Zhou"
+    },
+    {
+      "literal": "Junyi Li"
+    },
+    {
+      "literal": "Tianyi Tang"
+    },
+    {
+      "literal": "Xiaolei Wang"
+    },
+    {
+      "literal": "Yupeng Hou"
+    },
+    {
+      "literal": "Yingqian Min"
+    },
+    {
+      "literal": "Beichen Zhang"
+    },
+    {
+      "literal": "Junjie Zhang"
+    },
+    {
+      "literal": "Zican Dong"
+    },
+    {
+      "literal": "Yifan Du"
+    },
+    {
+      "literal": "Chen Yang"
+    },
+    {
+      "literal": "Yushuo Chen"
+    },
+    {
+      "literal": "Zhipeng Chen"
+    },
+    {
+      "literal": "Jinhao Jiang"
+    },
+    {
+      "literal": "Ruiyang Ren"
+    },
+    {
+      "literal": "Yifan Li"
+    },
+    {
+      "literal": "Xinyu Tang"
+    },
+    {
+      "literal": "Zikang Liu"
+    },
+    {
+      "literal": "Peiyu Liu"
+    },
+    {
+      "literal": "Jian-Yun Nie"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.18223",
+  "genre": "preprint",
+  "version": "19"
+}

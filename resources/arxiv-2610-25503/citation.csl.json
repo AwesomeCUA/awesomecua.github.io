@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2610.25503",
+  "citation-key": "arxiv_2610_25503",
+  "type": "article",
+  "title": "From Seeing to Reporting: A Theory of Reliable Visual Set Generation in Vision-Language Models",
+  "URL": "https://arxiv.org/abs/2610.25503v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.25503",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.25503",
+    "identifiers": {
+      "arxiv": "2610.25503"
+    },
+    "first_published_at": "2026-10-18",
+    "record_updated_at": "2026-10-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0dfea1312a3b6fcfff7c1047a3722fe2dfaa1fe93ab572a5528343d58c2501b7",
+      "submitted_at": "2026-10-18T19:43:28Z",
+      "updated_at": "2026-10-18T19:43:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.25503v1"
+    }
+  },
+  "note": "First published: 2026-10-18; Recorded arXiv version: v1; Recorded version updated: 2026-10-18T19:43:28Z.",
+  "author": [
+    {
+      "literal": "Junzhe Shi"
+    },
+    {
+      "literal": "Yuan Gan"
+    },
+    {
+      "literal": "Shida Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.25503",
+  "genre": "preprint",
+  "version": "1"
+}

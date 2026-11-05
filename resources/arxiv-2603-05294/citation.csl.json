@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2603.05294",
+  "citation-key": "arxiv_2603_05294",
+  "type": "article",
+  "title": "STRUCTUREDAGENT: Planning with AND/OR Trees for Long-Horizon Web Tasks",
+  "URL": "https://arxiv.org/abs/2603.05294v3",
+  "custom": {
+    "catalog_id": "arxiv:2603.05294",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.05294",
+    "identifiers": {
+      "arxiv": "2603.05294"
+    },
+    "first_published_at": "2026-03-05",
+    "record_updated_at": "2026-09-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6fafc6eb1268bceb065f8e5c2acd1f7c9138bd51cba74592e98815b6666676b2",
+      "submitted_at": "2026-03-05T15:37:06Z",
+      "updated_at": "2026-09-19T02:21:42Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2603.05294v3"
+    }
+  },
+  "note": "First published: 2026-03-05; Recorded arXiv version: v3; Recorded version updated: 2026-09-19T02:21:42Z.",
+  "author": [
+    {
+      "literal": "ELita Lobo"
+    },
+    {
+      "literal": "Xu Chen"
+    },
+    {
+      "literal": "Jingjing Meng"
+    },
+    {
+      "literal": "Nan Xi"
+    },
+    {
+      "literal": "Yang Jiao"
+    },
+    {
+      "literal": "Chirag Agarwal"
+    },
+    {
+      "literal": "Yair Zick"
+    },
+    {
+      "literal": "Yan Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.05294",
+  "genre": "preprint",
+  "version": "3"
+}

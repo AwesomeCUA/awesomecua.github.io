@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2605.26994",
+  "citation-key": "arxiv_2605_26994",
+  "type": "article",
+  "title": "ChartAct: A Benchmark for Dynamic Chart Understanding",
+  "URL": "https://arxiv.org/abs/2605.26994v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.26994",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.26994",
+    "identifiers": {
+      "arxiv": "2605.26994"
+    },
+    "first_published_at": "2026-05-26",
+    "record_updated_at": "2026-05-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0ca4cdfa65255d8f5c69b4bda2f340fd9522e84f841aecd92b71bee2a098a65e",
+      "submitted_at": "2026-05-26T13:15:21Z",
+      "updated_at": "2026-05-28T02:54:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.26994v2"
+    }
+  },
+  "note": "First published: 2026-05-26; Recorded arXiv version: v2; Recorded version updated: 2026-05-28T02:54:42Z.",
+  "author": [
+    {
+      "literal": "Muye Huang"
+    },
+    {
+      "literal": "Lin Wu"
+    },
+    {
+      "literal": "Lingling Zhang"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Zhiyuan Wang"
+    },
+    {
+      "literal": "Yumeng Fu"
+    },
+    {
+      "literal": "Zesheng Yang"
+    },
+    {
+      "literal": "Jun Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.26994",
+  "genre": "preprint",
+  "version": "2"
+}

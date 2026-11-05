@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2603.23526",
+  "citation-key": "arxiv_2603_23526",
+  "type": "article",
+  "title": "Plato's Cave: A Human-Centered Research Verification System",
+  "URL": "https://arxiv.org/abs/2603.23526v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.23526",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.23526",
+    "identifiers": {
+      "arxiv": "2603.23526"
+    },
+    "first_published_at": "2026-03-06",
+    "record_updated_at": "2026-03-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d8afba01bf44d41e54154cd61ea6d6a34cf5f60d56594b9aacae9758a45719d6",
+      "submitted_at": "2026-03-06T22:15:38Z",
+      "updated_at": "2026-03-06T22:15:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.23526v1"
+    }
+  },
+  "note": "First published: 2026-03-06; Recorded arXiv version: v1; Recorded version updated: 2026-03-06T22:15:38Z.",
+  "author": [
+    {
+      "literal": "Matheus Kunzler Maldaner"
+    },
+    {
+      "literal": "Raul Valle"
+    },
+    {
+      "literal": "Junsung Kim"
+    },
+    {
+      "literal": "Tonuka Sultan"
+    },
+    {
+      "literal": "Pranav Bhargava"
+    },
+    {
+      "literal": "Matthew Maloni"
+    },
+    {
+      "literal": "John Courtney"
+    },
+    {
+      "literal": "Hoang Nguyen"
+    },
+    {
+      "literal": "Aamogh Sawant"
+    },
+    {
+      "literal": "Kristian O'Connor"
+    },
+    {
+      "literal": "Stephen Wormald"
+    },
+    {
+      "literal": "Damon L. Woodard"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.23526",
+  "genre": "preprint",
+  "version": "1"
+}

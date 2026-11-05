@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2506.14079",
+  "citation-key": "arxiv_2506_14079",
+  "type": "article",
+  "title": "FormGym: Doing Paperwork with Agents",
+  "URL": "https://arxiv.org/abs/2506.14079v4",
+  "custom": {
+    "catalog_id": "arxiv:2506.14079",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.14079",
+    "identifiers": {
+      "arxiv": "2506.14079"
+    },
+    "first_published_at": "2025-06-17",
+    "record_updated_at": "2026-07-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fc719bddad358d7c8bb051f406a853128dc5d7cb2d0421b38f74bd841dde5d6f",
+      "submitted_at": "2025-06-17T00:32:25Z",
+      "updated_at": "2026-07-21T01:09:57Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2506.14079v4"
+    }
+  },
+  "note": "First published: 2025-06-17; Recorded arXiv version: v4; Recorded version updated: 2026-07-21T01:09:57Z.",
+  "author": [
+    {
+      "literal": "Matthew Toles"
+    },
+    {
+      "literal": "Rattandeep Singh"
+    },
+    {
+      "literal": "Isaac Song"
+    },
+    {
+      "literal": "Zhou Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.14079",
+  "genre": "preprint",
+  "version": "4"
+}

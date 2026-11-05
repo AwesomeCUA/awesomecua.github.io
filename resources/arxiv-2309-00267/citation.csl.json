@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2309.00267",
+  "citation-key": "arxiv_2309_00267",
+  "type": "article",
+  "title": "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback",
+  "URL": "https://arxiv.org/abs/2309.00267v3",
+  "custom": {
+    "catalog_id": "arxiv:2309.00267",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.00267",
+    "identifiers": {
+      "arxiv": "2309.00267"
+    },
+    "first_published_at": "2023-09-01",
+    "record_updated_at": "2024-09-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3f0d6c566c1fce1534014cde99f5bc13e144252be61db18ac031eb84a9201608",
+      "submitted_at": "2023-09-01T05:53:33Z",
+      "updated_at": "2024-09-03T14:01:54Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2309.00267v3"
+    }
+  },
+  "note": "First published: 2023-09-01; Recorded arXiv version: v3; Recorded version updated: 2024-09-03T14:01:54Z.",
+  "author": [
+    {
+      "literal": "Harrison Lee"
+    },
+    {
+      "literal": "Samrat Phatale"
+    },
+    {
+      "literal": "Hassan Mansoor"
+    },
+    {
+      "literal": "Thomas Mesnard"
+    },
+    {
+      "literal": "Johan Ferret"
+    },
+    {
+      "literal": "Kellie Lu"
+    },
+    {
+      "literal": "Colton Bishop"
+    },
+    {
+      "literal": "Ethan Hall"
+    },
+    {
+      "literal": "Victor Carbune"
+    },
+    {
+      "literal": "Abhinav Rastogi"
+    },
+    {
+      "literal": "Sushant Prakash"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.00267",
+  "genre": "preprint",
+  "version": "3"
+}

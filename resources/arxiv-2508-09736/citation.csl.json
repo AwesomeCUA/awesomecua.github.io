@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2508.09736",
+  "citation-key": "arxiv_2508_09736",
+  "type": "article",
+  "title": "Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory",
+  "URL": "https://arxiv.org/abs/2508.09736v4",
+  "custom": {
+    "catalog_id": "arxiv:2508.09736",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.09736",
+    "identifiers": {
+      "arxiv": "2508.09736"
+    },
+    "first_published_at": "2025-08-13",
+    "record_updated_at": "2025-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f72325c93732637c483cd90cfcc94b7843c05f3edc6ae27eb1728b2a8c5b3374",
+      "submitted_at": "2025-08-13T12:03:03Z",
+      "updated_at": "2025-10-09T02:31:15Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2508.09736v4"
+    }
+  },
+  "note": "First published: 2025-08-13; Recorded arXiv version: v4; Recorded version updated: 2025-10-09T02:31:15Z.",
+  "author": [
+    {
+      "literal": "Lin Long"
+    },
+    {
+      "literal": "Yichen He"
+    },
+    {
+      "literal": "Wentao Ye"
+    },
+    {
+      "literal": "Yiyuan Pan"
+    },
+    {
+      "literal": "Yuan Lin"
+    },
+    {
+      "literal": "Hang Li"
+    },
+    {
+      "literal": "Junbo Zhao"
+    },
+    {
+      "literal": "Wei Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.09736",
+  "genre": "preprint",
+  "version": "4"
+}

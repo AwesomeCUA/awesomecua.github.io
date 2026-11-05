@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "authors": [
+    "Ke Yang",
+    "Zixi Chen",
+    "Xuan He",
+    "Jize Jiang",
+    "Michel Galley",
+    "Chenglong Wang",
+    "Jianfeng Gao",
+    "Jiawei Han",
+    "ChengXiang Zhai"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1cd919db3e15d99eea20b74b089e7449ee1623f0493cd5f1c681e52d3f772e87",
+      "submitted_at": "2026-02-06T18:55:38Z",
+      "updated_at": "2026-02-06T18:55:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.03296v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-05T21:14:07Z",
+      "role": "primary",
+      "sha256": "410a4c48b9605a531d3e6008c561ce3e3e9d92609168f5d49fadc04f5f943289",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2509.22644%2C2510.00078%2C2510.00507%2C2510.02608%2C2510.04536%2C2510.04791%2C2510.05137%2C2510.10049%2C2510.10991%2C2510.14308%2C2510.14545%2C2510.16720%2C2510.19838%2C2510.20707%2C2510.22102%2C2510.24284%2C2510.26098%2C2511.02805%2C2511.03628%2C2511.03773%2C2511.04707%2C2511.08325%2C2511.09309%2C2511.19957%2C2511.21631%2C2511.23281%2C2512.06641%2C2512.09458%2C2512.11506%2C2512.20237%2C2512.21481%2C2512.23646%2C2601.04203%2C2601.09668%2C2601.10611%2C2601.19923%2C2601.22352%2C2601.22770%2C2602.06485%2C2602.10863%2C2602.16165%2C2602.22897%2C2603.01104%2C2603.03296%2C2603.05294%2C2603.07915%2C2603.23526%2C2603.25764%2C2604.05015%2C2604.09718&max_results=50"
+    }
+  ],
+  "id": "arxiv:2603.03296",
+  "identifiers": {
+    "arxiv": "2603.03296"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-05T21:14:07Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2603.03296"
+    }
+  ],
+  "name": "PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-02-06",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-02-06",
+  "url": "https://arxiv.org/abs/2603.03296"
+}

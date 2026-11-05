@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2306.08129",
+  "citation-key": "arxiv_2306_08129",
+  "type": "article",
+  "title": "AVIS: Autonomous Visual Information Seeking with Large Language Model Agent",
+  "URL": "https://arxiv.org/abs/2306.08129v3",
+  "custom": {
+    "catalog_id": "arxiv:2306.08129",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2306.08129",
+    "identifiers": {
+      "arxiv": "2306.08129"
+    },
+    "first_published_at": "2023-06-13",
+    "record_updated_at": "2023-11-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9d6c5a8b4fe47288768bce234d1e8eb1cd4d1ce493823e46eb5f31143848975a",
+      "submitted_at": "2023-06-13T20:50:22Z",
+      "updated_at": "2023-11-02T07:54:37Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2306.08129v3"
+    }
+  },
+  "note": "First published: 2023-06-13; Recorded arXiv version: v3; Recorded version updated: 2023-11-02T07:54:37Z.",
+  "author": [
+    {
+      "literal": "Ziniu Hu"
+    },
+    {
+      "literal": "Ahmet Iscen"
+    },
+    {
+      "literal": "Chen Sun"
+    },
+    {
+      "literal": "Kai-Wei Chang"
+    },
+    {
+      "literal": "Yizhou Sun"
+    },
+    {
+      "literal": "David A Ross"
+    },
+    {
+      "literal": "Cordelia Schmid"
+    },
+    {
+      "literal": "Alireza Fathi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.08129",
+  "genre": "preprint",
+  "version": "3"
+}

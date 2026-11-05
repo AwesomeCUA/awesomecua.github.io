@@ -1,0 +1,130 @@
+{
+  "id": "arxiv:2309.07864",
+  "citation-key": "arxiv_2309_07864",
+  "type": "article",
+  "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+  "URL": "https://arxiv.org/abs/2309.07864v3",
+  "custom": {
+    "catalog_id": "arxiv:2309.07864",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.07864",
+    "identifiers": {
+      "arxiv": "2309.07864"
+    },
+    "first_published_at": "2023-09-14",
+    "record_updated_at": "2023-09-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9f7d4b4a5d95cb0d668dfed0c9f25045fd7c3ac8fe7181dc280b4eeae3f9112b",
+      "submitted_at": "2023-09-14T17:12:03Z",
+      "updated_at": "2023-09-19T08:29:18Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2309.07864v3"
+    }
+  },
+  "note": "First published: 2023-09-14; Recorded arXiv version: v3; Recorded version updated: 2023-09-19T08:29:18Z.",
+  "author": [
+    {
+      "literal": "Zhiheng Xi"
+    },
+    {
+      "literal": "Wenxiang Chen"
+    },
+    {
+      "literal": "Xin Guo"
+    },
+    {
+      "literal": "Wei He"
+    },
+    {
+      "literal": "Yiwen Ding"
+    },
+    {
+      "literal": "Boyang Hong"
+    },
+    {
+      "literal": "Ming Zhang"
+    },
+    {
+      "literal": "Junzhe Wang"
+    },
+    {
+      "literal": "Senjie Jin"
+    },
+    {
+      "literal": "Enyu Zhou"
+    },
+    {
+      "literal": "Rui Zheng"
+    },
+    {
+      "literal": "Xiaoran Fan"
+    },
+    {
+      "literal": "Xiao Wang"
+    },
+    {
+      "literal": "Limao Xiong"
+    },
+    {
+      "literal": "Yuhao Zhou"
+    },
+    {
+      "literal": "Weiran Wang"
+    },
+    {
+      "literal": "Changhao Jiang"
+    },
+    {
+      "literal": "Yicheng Zou"
+    },
+    {
+      "literal": "Xiangyang Liu"
+    },
+    {
+      "literal": "Zhangyue Yin"
+    },
+    {
+      "literal": "Shihan Dou"
+    },
+    {
+      "literal": "Rongxiang Weng"
+    },
+    {
+      "literal": "Wensen Cheng"
+    },
+    {
+      "literal": "Qi Zhang"
+    },
+    {
+      "literal": "Wenjuan Qin"
+    },
+    {
+      "literal": "Yongyan Zheng"
+    },
+    {
+      "literal": "Xipeng Qiu"
+    },
+    {
+      "literal": "Xuanjing Huang"
+    },
+    {
+      "literal": "Tao Gui"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.07864",
+  "genre": "preprint",
+  "version": "3"
+}

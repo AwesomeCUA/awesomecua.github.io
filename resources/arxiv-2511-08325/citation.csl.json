@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2511.08325",
+  "citation-key": "arxiv_2511_08325",
+  "type": "article",
+  "title": "AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress",
+  "URL": "https://arxiv.org/abs/2511.08325v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.08325",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.08325",
+    "identifiers": {
+      "arxiv": "2511.08325"
+    },
+    "first_published_at": "2025-11-11",
+    "record_updated_at": "2025-11-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0f63a95024e622a5f7a11ba7c7a74f66d87f4e562efd21771e76043dacbb847a",
+      "submitted_at": "2025-11-11T14:57:54Z",
+      "updated_at": "2025-11-11T14:57:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.08325v1"
+    }
+  },
+  "note": "First published: 2025-11-11; Recorded arXiv version: v1; Recorded version updated: 2025-11-11T14:57:54Z.",
+  "author": [
+    {
+      "literal": "Zhiheng Xi"
+    },
+    {
+      "literal": "Chenyang Liao"
+    },
+    {
+      "literal": "Guanyu Li"
+    },
+    {
+      "literal": "Yajie Yang"
+    },
+    {
+      "literal": "Wenxiang Chen"
+    },
+    {
+      "literal": "Zhihao Zhang"
+    },
+    {
+      "literal": "Binghai Wang"
+    },
+    {
+      "literal": "Senjie Jin"
+    },
+    {
+      "literal": "Yuhao Zhou"
+    },
+    {
+      "literal": "Jian Guan"
+    },
+    {
+      "literal": "Wei Wu"
+    },
+    {
+      "literal": "Tao Ji"
+    },
+    {
+      "literal": "Tao Gui"
+    },
+    {
+      "literal": "Qi Zhang"
+    },
+    {
+      "literal": "Xuanjing Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.08325",
+  "genre": "preprint",
+  "version": "1"
+}

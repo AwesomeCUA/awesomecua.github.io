@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2602.16165",
+  "citation-key": "arxiv_2602_16165",
+  "type": "article",
+  "title": "HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents",
+  "URL": "https://arxiv.org/abs/2602.16165v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.16165",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.16165",
+    "identifiers": {
+      "arxiv": "2602.16165"
+    },
+    "first_published_at": "2026-02-18",
+    "record_updated_at": "2026-05-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "20f263c5837065ee57514386fe36e38725c25d1304fef3c521abed36d2b46d05",
+      "submitted_at": "2026-02-18T03:31:34Z",
+      "updated_at": "2026-05-29T05:19:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.16165v2"
+    }
+  },
+  "note": "First published: 2026-02-18; Recorded arXiv version: v2; Recorded version updated: 2026-05-29T05:19:17Z.",
+  "author": [
+    {
+      "literal": "Jiangweizhi Peng"
+    },
+    {
+      "literal": "Yuanxin Liu"
+    },
+    {
+      "literal": "Ruida Zhou"
+    },
+    {
+      "literal": "Charles Fleming"
+    },
+    {
+      "literal": "Zhaoran Wang"
+    },
+    {
+      "literal": "Alfredo Garcia"
+    },
+    {
+      "literal": "Mingyi Hong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.16165",
+  "genre": "preprint",
+  "version": "2"
+}

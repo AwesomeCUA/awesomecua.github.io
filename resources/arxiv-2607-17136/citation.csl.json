@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2607.17136",
+  "citation-key": "arxiv_2607_17136",
+  "type": "article",
+  "title": "Teach it to stop, not just to click",
+  "URL": "https://arxiv.org/abs/2607.17136v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.17136",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.17136",
+    "identifiers": {
+      "arxiv": "2607.17136"
+    },
+    "first_published_at": "2026-07-19",
+    "record_updated_at": "2026-07-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "25ccfe030fd46882d23f65e4a855ca5551089ee4db42703eb2d37b2e0d0d5a75",
+      "submitted_at": "2026-07-19T08:46:06Z",
+      "updated_at": "2026-07-19T08:46:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.17136v1"
+    }
+  },
+  "note": "First published: 2026-07-19; Recorded arXiv version: v1; Recorded version updated: 2026-07-19T08:46:06Z.",
+  "author": [
+    {
+      "literal": "Barada Sahu"
+    },
+    {
+      "literal": "Shivesh Pandey"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.17136",
+  "genre": "preprint",
+  "version": "1"
+}

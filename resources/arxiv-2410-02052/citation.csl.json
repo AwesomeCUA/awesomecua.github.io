@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2410.02052",
+  "citation-key": "arxiv_2410_02052",
+  "type": "article",
+  "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+  "URL": "https://arxiv.org/abs/2410.02052v5",
+  "custom": {
+    "catalog_id": "arxiv:2410.02052",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.02052",
+    "identifiers": {
+      "arxiv": "2410.02052"
+    },
+    "first_published_at": "2024-10-02",
+    "record_updated_at": "2025-02-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "60bd77e2472ab62679e980b02fbc40b2c16eed3e2644a536d6a7d644ade4eb8e",
+      "submitted_at": "2024-10-02T21:42:35Z",
+      "updated_at": "2025-02-27T20:13:19Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2410.02052v5"
+    }
+  },
+  "note": "First published: 2024-10-02; Recorded arXiv version: v5; Recorded version updated: 2025-02-27T20:13:19Z.",
+  "author": [
+    {
+      "literal": "Xiao Yu"
+    },
+    {
+      "literal": "Baolin Peng"
+    },
+    {
+      "literal": "Vineeth Vajipey"
+    },
+    {
+      "literal": "Hao Cheng"
+    },
+    {
+      "literal": "Michel Galley"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    },
+    {
+      "literal": "Zhou Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.02052",
+  "genre": "preprint",
+  "version": "5"
+}

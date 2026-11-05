@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2106.01345",
+  "citation-key": "arxiv_2106_01345",
+  "type": "article",
+  "title": "Decision Transformer: Reinforcement Learning via Sequence Modeling",
+  "URL": "https://arxiv.org/abs/2106.01345v2",
+  "custom": {
+    "catalog_id": "arxiv:2106.01345",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2106.01345",
+    "identifiers": {
+      "arxiv": "2106.01345"
+    },
+    "first_published_at": "2021-06-02",
+    "record_updated_at": "2021-06-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0dfbbf45e8163cc6fcae6d6340f8681e40c39c7ebfa1cc805979341080023fc0",
+      "submitted_at": "2021-06-02T17:53:39Z",
+      "updated_at": "2021-06-24T17:09:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2106.01345v2"
+    }
+  },
+  "note": "First published: 2021-06-02; Recorded arXiv version: v2; Recorded version updated: 2021-06-24T17:09:59Z.",
+  "author": [
+    {
+      "literal": "Lili Chen"
+    },
+    {
+      "literal": "Kevin Lu"
+    },
+    {
+      "literal": "Aravind Rajeswaran"
+    },
+    {
+      "literal": "Kimin Lee"
+    },
+    {
+      "literal": "Aditya Grover"
+    },
+    {
+      "literal": "Michael Laskin"
+    },
+    {
+      "literal": "Pieter Abbeel"
+    },
+    {
+      "literal": "Aravind Srinivas"
+    },
+    {
+      "literal": "Igor Mordatch"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2106.01345",
+  "genre": "preprint",
+  "version": "2"
+}

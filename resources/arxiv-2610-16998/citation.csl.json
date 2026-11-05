@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2610.16998",
+  "citation-key": "arxiv_2610_16998",
+  "type": "article",
+  "title": "Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents",
+  "URL": "https://arxiv.org/abs/2610.16998v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.16998",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.16998",
+    "identifiers": {
+      "arxiv": "2610.16998"
+    },
+    "first_published_at": "2026-10-12",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "329ea6b9a2736fb0318c0760b6da648b722ac01168b1156efd9fc004d782a5b9",
+      "submitted_at": "2026-10-12T15:48:45Z",
+      "updated_at": "2026-10-12T15:48:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.16998v1"
+    }
+  },
+  "note": "First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T15:48:45Z.",
+  "author": [
+    {
+      "literal": "Cong Pang"
+    },
+    {
+      "literal": "Jiaqi Su"
+    },
+    {
+      "literal": "Chengrui Wu"
+    },
+    {
+      "literal": "Kuihao Yan"
+    },
+    {
+      "literal": "Tianrui Zhang"
+    },
+    {
+      "literal": "Zixuan Qiu"
+    },
+    {
+      "literal": "Chao Lin"
+    },
+    {
+      "literal": "Zixiu Lin"
+    },
+    {
+      "literal": "Zixuan Chen"
+    },
+    {
+      "literal": "Zelin Xiao"
+    },
+    {
+      "literal": "Tiankuo Yao"
+    },
+    {
+      "literal": "Jiawei Hong"
+    },
+    {
+      "literal": "Zixuan Chen"
+    },
+    {
+      "literal": "Dan Xu"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Wenjie Wang"
+    },
+    {
+      "literal": "Xin Lou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.16998",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2607.00007",
+  "citation-key": "arxiv_2607_00007",
+  "type": "article",
+  "title": "BaRA: Budget-constrained and Reliable Web Data Collection Agent",
+  "URL": "https://arxiv.org/abs/2607.00007v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.00007",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.00007",
+    "identifiers": {
+      "arxiv": "2607.00007"
+    },
+    "first_published_at": "2026-05-02",
+    "record_updated_at": "2026-07-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b564b795c6df353a4c6ac7f3cd6ceb72f341f9ec331cb20ba0f2e9b2147ef1ed",
+      "submitted_at": "2026-05-02T08:09:10Z",
+      "updated_at": "2026-07-02T06:17:26Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.00007v2"
+    }
+  },
+  "note": "First published: 2026-05-02; Recorded arXiv version: v2; Recorded version updated: 2026-07-02T06:17:26Z.",
+  "author": [
+    {
+      "literal": "Soojeong Lee"
+    },
+    {
+      "literal": "Joseph Lee"
+    },
+    {
+      "literal": "Yongseong Cho"
+    },
+    {
+      "literal": "Sunjae Kim"
+    },
+    {
+      "literal": "Youngwoo Moon"
+    },
+    {
+      "literal": "Kyungwoo Song"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.00007",
+  "genre": "preprint",
+  "version": "2"
+}

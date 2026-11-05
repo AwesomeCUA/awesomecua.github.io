@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2505.10978",
+  "citation-key": "arxiv_2505_10978",
+  "type": "article",
+  "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+  "URL": "https://arxiv.org/abs/2505.10978v3",
+  "custom": {
+    "catalog_id": "arxiv:2505.10978",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.10978",
+    "identifiers": {
+      "arxiv": "2505.10978"
+    },
+    "first_published_at": "2025-05-16",
+    "record_updated_at": "2025-10-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a3faa5753692553b6ef3309532d37c2607e3cd9733475979ff456f588fc2a542",
+      "submitted_at": "2025-05-16T08:26:59Z",
+      "updated_at": "2025-10-28T15:11:36Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2505.10978v3"
+    }
+  },
+  "note": "First published: 2025-05-16; Recorded arXiv version: v3; Recorded version updated: 2025-10-28T15:11:36Z.",
+  "author": [
+    {
+      "literal": "Lang Feng"
+    },
+    {
+      "literal": "Zhenghai Xue"
+    },
+    {
+      "literal": "Tingcong Liu"
+    },
+    {
+      "literal": "Bo An"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.10978",
+  "genre": "preprint",
+  "version": "3"
+}

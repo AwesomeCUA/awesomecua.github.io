@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2502.12561",
+  "citation-key": "arxiv_2502_12561",
+  "type": "article",
+  "title": "UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design",
+  "URL": "https://arxiv.org/abs/2502.12561v3",
+  "custom": {
+    "catalog_id": "arxiv:2502.12561",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.12561",
+    "identifiers": {
+      "arxiv": "2502.12561"
+    },
+    "first_published_at": "2025-02-18",
+    "record_updated_at": "2025-04-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1254a25462ad781b4509df2946fcfe395190d4b7cddd353b01d87a8d68bf3a15",
+      "submitted_at": "2025-02-18T05:55:18Z",
+      "updated_at": "2025-04-05T01:55:09Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2502.12561v3"
+    }
+  },
+  "note": "First published: 2025-02-18; Recorded arXiv version: v3; Recorded version updated: 2025-04-05T01:55:09Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Lu"
+    },
+    {
+      "literal": "Bingsheng Yao"
+    },
+    {
+      "literal": "Hansu Gu"
+    },
+    {
+      "literal": "Jing Huang"
+    },
+    {
+      "literal": "Jessie Wang"
+    },
+    {
+      "literal": "Yang Li"
+    },
+    {
+      "literal": "Jiri Gesi"
+    },
+    {
+      "literal": "Qi He"
+    },
+    {
+      "literal": "Toby Jia-Jun Li"
+    },
+    {
+      "literal": "Dakuo Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.12561",
+  "genre": "preprint",
+  "version": "3"
+}

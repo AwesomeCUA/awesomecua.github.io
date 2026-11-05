@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2306.14824",
+  "citation-key": "arxiv_2306_14824",
+  "type": "article",
+  "title": "Kosmos-2: Grounding Multimodal Large Language Models to the World",
+  "URL": "https://arxiv.org/abs/2306.14824v3",
+  "custom": {
+    "catalog_id": "arxiv:2306.14824",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2306.14824",
+    "identifiers": {
+      "arxiv": "2306.14824"
+    },
+    "first_published_at": "2023-06-26",
+    "record_updated_at": "2023-07-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b048d0157d384c9029c8d321b9bb1c5af08aa3eec70947bfae6a8fe5db1ad1fe",
+      "submitted_at": "2023-06-26T16:32:47Z",
+      "updated_at": "2023-07-13T05:41:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2306.14824v3"
+    }
+  },
+  "note": "First published: 2023-06-26; Recorded arXiv version: v3; Recorded version updated: 2023-07-13T05:41:34Z.",
+  "author": [
+    {
+      "literal": "Zhiliang Peng"
+    },
+    {
+      "literal": "Wenhui Wang"
+    },
+    {
+      "literal": "Li Dong"
+    },
+    {
+      "literal": "Yaru Hao"
+    },
+    {
+      "literal": "Shaohan Huang"
+    },
+    {
+      "literal": "Shuming Ma"
+    },
+    {
+      "literal": "Furu Wei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.14824",
+  "genre": "preprint",
+  "version": "3"
+}

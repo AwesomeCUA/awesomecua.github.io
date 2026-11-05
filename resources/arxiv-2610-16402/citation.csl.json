@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.16402",
+  "citation-key": "arxiv_2610_16402",
+  "type": "article",
+  "title": "EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications",
+  "URL": "https://arxiv.org/abs/2610.16402v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.16402",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.16402",
+    "identifiers": {
+      "arxiv": "2610.16402"
+    },
+    "first_published_at": "2026-10-12",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c9f6e4174e936cdbc4217a919961f9c855b3444955118f9bd4d50780af90fc4f",
+      "submitted_at": "2026-10-12T08:42:42Z",
+      "updated_at": "2026-10-12T08:42:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.16402v1"
+    }
+  },
+  "note": "First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T08:42:42Z.",
+  "author": [
+    {
+      "literal": "David Nukrai"
+    },
+    {
+      "literal": "Bar Alon"
+    },
+    {
+      "literal": "Nativ Levy"
+    },
+    {
+      "literal": "Ido Andrew Atad"
+    },
+    {
+      "literal": "Ido Cohen"
+    },
+    {
+      "literal": "Itamar Zimerman"
+    },
+    {
+      "literal": "Lior Wolf"
+    },
+    {
+      "literal": "Eli David"
+    },
+    {
+      "literal": "Ilan Naiman"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.16402",
+  "genre": "preprint",
+  "version": "1"
+}

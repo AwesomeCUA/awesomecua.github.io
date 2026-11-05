@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2509.13313",
+  "citation-key": "arxiv_2509_13313",
+  "type": "article",
+  "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+  "URL": "https://arxiv.org/abs/2509.13313v3",
+  "custom": {
+    "catalog_id": "arxiv:2509.13313",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.13313",
+    "identifiers": {
+      "arxiv": "2509.13313"
+    },
+    "first_published_at": "2025-09-16",
+    "record_updated_at": "2026-03-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6afac9f2c391467a0588d7406fa7f7bdb2c86549fcae032f36d51092b52ff78c",
+      "submitted_at": "2025-09-16T17:57:22Z",
+      "updated_at": "2026-03-26T06:50:32Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2509.13313v3"
+    }
+  },
+  "note": "First published: 2025-09-16; Recorded arXiv version: v3; Recorded version updated: 2026-03-26T06:50:32Z.",
+  "author": [
+    {
+      "literal": "Xixi Wu"
+    },
+    {
+      "literal": "Kuan Li"
+    },
+    {
+      "literal": "Yida Zhao"
+    },
+    {
+      "literal": "Liwen Zhang"
+    },
+    {
+      "literal": "Litu Ou"
+    },
+    {
+      "literal": "Huifeng Yin"
+    },
+    {
+      "literal": "Zhongwang Zhang"
+    },
+    {
+      "literal": "Xinmiao Yu"
+    },
+    {
+      "literal": "Dingchu Zhang"
+    },
+    {
+      "literal": "Yong Jiang"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Minhao Cheng"
+    },
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Hong Cheng"
+    },
+    {
+      "literal": "Jingren Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.13313",
+  "genre": "preprint",
+  "version": "3"
+}

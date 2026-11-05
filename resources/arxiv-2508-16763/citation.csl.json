@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2508.16763",
+  "citation-key": "arxiv_2508_16763",
+  "type": "article",
+  "title": "WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation",
+  "URL": "https://arxiv.org/abs/2508.16763v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.16763",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.16763",
+    "identifiers": {
+      "arxiv": "2508.16763"
+    },
+    "first_published_at": "2025-08-22",
+    "record_updated_at": "2025-08-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d78aa1620f6cc1f93fee8d1d38dc40bd560ca2c2486e312e213b0cc5cc9390c8",
+      "submitted_at": "2025-08-22T19:41:02Z",
+      "updated_at": "2025-08-22T19:41:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.16763v1"
+    }
+  },
+  "note": "First published: 2025-08-22; Recorded arXiv version: v1; Recorded version updated: 2025-08-22T19:41:02Z.",
+  "author": [
+    {
+      "literal": "Rabiul Awal"
+    },
+    {
+      "literal": "Mahsa Massoud"
+    },
+    {
+      "literal": "Aarash Feizi"
+    },
+    {
+      "literal": "Zichao Li"
+    },
+    {
+      "literal": "Suyuchen Wang"
+    },
+    {
+      "literal": "Christopher Pal"
+    },
+    {
+      "literal": "Aishwarya Agrawal"
+    },
+    {
+      "literal": "David Vazquez"
+    },
+    {
+      "literal": "Siva Reddy"
+    },
+    {
+      "literal": "Juan A. Rodriguez"
+    },
+    {
+      "literal": "Perouz Taslakian"
+    },
+    {
+      "literal": "Spandana Gella"
+    },
+    {
+      "literal": "Sai Rajeswar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.16763",
+  "genre": "preprint",
+  "version": "1"
+}

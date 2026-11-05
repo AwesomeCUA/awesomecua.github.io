@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2106.00133",
+  "citation-key": "arxiv_2106_00133",
+  "type": "article",
+  "title": "AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2106.00133v2",
+  "custom": {
+    "catalog_id": "arxiv:2106.00133",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2106.00133",
+    "identifiers": {
+      "arxiv": "2106.00133"
+    },
+    "first_published_at": "2021-05-31",
+    "record_updated_at": "2021-06-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "861f231a3751fa1346e81a1fc1c3d7450f5739b730bed77d9d4834b53d0ee561",
+      "submitted_at": "2021-05-31T23:02:38Z",
+      "updated_at": "2021-06-06T17:56:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2106.00133v2"
+    }
+  },
+  "note": "First published: 2021-05-31; Recorded arXiv version: v2; Recorded version updated: 2021-06-06T17:56:58Z.",
+  "author": [
+    {
+      "literal": "Maayan Shvo"
+    },
+    {
+      "literal": "Zhiming Hu"
+    },
+    {
+      "literal": "Rodrigo Toro Icarte"
+    },
+    {
+      "literal": "Iqbal Mohomed"
+    },
+    {
+      "literal": "Allan Jepson"
+    },
+    {
+      "literal": "Sheila A. McIlraith"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        5,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2106.00133",
+  "genre": "preprint",
+  "version": "2"
+}

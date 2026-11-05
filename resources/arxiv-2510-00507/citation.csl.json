@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2510.00507",
+  "citation-key": "arxiv_2510_00507",
+  "type": "article",
+  "title": "Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs",
+  "URL": "https://arxiv.org/abs/2510.00507v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.00507",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.00507",
+    "identifiers": {
+      "arxiv": "2510.00507"
+    },
+    "first_published_at": "2025-10-01",
+    "record_updated_at": "2026-03-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ccfe56bd904d7f696688e5044aaaafe7d9a82f1cf0e45c2f008b9101aca16ff5",
+      "submitted_at": "2025-10-01T04:37:54Z",
+      "updated_at": "2026-03-05T05:47:50Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.00507v3"
+    }
+  },
+  "note": "First published: 2025-10-01; Recorded arXiv version: v3; Recorded version updated: 2026-03-05T05:47:50Z.",
+  "author": [
+    {
+      "literal": "Yurun Chen"
+    },
+    {
+      "literal": "Xavier Hu"
+    },
+    {
+      "literal": "Yuhan Liu"
+    },
+    {
+      "literal": "Ziqi Wang"
+    },
+    {
+      "literal": "Zeyi Liao"
+    },
+    {
+      "literal": "Lin Chen"
+    },
+    {
+      "literal": "Feng Wei"
+    },
+    {
+      "literal": "Yuxi Qian"
+    },
+    {
+      "literal": "Bo Zheng"
+    },
+    {
+      "literal": "Keting Yin"
+    },
+    {
+      "literal": "Shengyu Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.00507",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2508.16271",
+  "citation-key": "arxiv_2508_16271",
+  "type": "article",
+  "title": "Structuring GUI Elements through Vision Language Models: Towards Action Space Generation",
+  "URL": "https://arxiv.org/abs/2508.16271v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.16271",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.16271",
+    "identifiers": {
+      "arxiv": "2508.16271"
+    },
+    "first_published_at": "2025-08-22",
+    "record_updated_at": "2025-08-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf0f78281b84f2997f3cbe7ac5834f194947b3dfece23147b6282704e68382a8",
+      "submitted_at": "2025-08-22T10:14:15Z",
+      "updated_at": "2025-08-30T03:46:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.16271v2"
+    }
+  },
+  "note": "First published: 2025-08-22; Recorded arXiv version: v2; Recorded version updated: 2025-08-30T03:46:19Z.",
+  "author": [
+    {
+      "literal": "Yi Xu"
+    },
+    {
+      "literal": "Yesheng Zhang"
+    },
+    {
+      "literal": "Jiajia Liu"
+    },
+    {
+      "literal": "Jingdong Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.16271",
+  "genre": "preprint",
+  "version": "2"
+}

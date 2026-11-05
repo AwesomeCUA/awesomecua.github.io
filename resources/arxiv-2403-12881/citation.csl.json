@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2403.12881",
+  "citation-key": "arxiv_2403_12881",
+  "type": "article",
+  "title": "Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models",
+  "URL": "https://arxiv.org/abs/2403.12881v1",
+  "custom": {
+    "catalog_id": "arxiv:2403.12881",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.12881",
+    "identifiers": {
+      "arxiv": "2403.12881"
+    },
+    "first_published_at": "2024-03-19",
+    "record_updated_at": "2024-03-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8cca8edb35abf290150bfc1fa6e658325f11c4c7e35ba8ed1c09d54ffd29658f",
+      "submitted_at": "2024-03-19T16:26:10Z",
+      "updated_at": "2024-03-19T16:26:10Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2403.12881v1"
+    }
+  },
+  "note": "First published: 2024-03-19; Recorded arXiv version: v1; Recorded version updated: 2024-03-19T16:26:10Z.",
+  "author": [
+    {
+      "literal": "Zehui Chen"
+    },
+    {
+      "literal": "Kuikun Liu"
+    },
+    {
+      "literal": "Qiuchen Wang"
+    },
+    {
+      "literal": "Wenwei Zhang"
+    },
+    {
+      "literal": "Jiangning Liu"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Kai Chen"
+    },
+    {
+      "literal": "Feng Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.12881",
+  "genre": "preprint",
+  "version": "1"
+}

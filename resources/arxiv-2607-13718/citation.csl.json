@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2607.13718",
+  "citation-key": "arxiv_2607_13718",
+  "type": "article",
+  "title": "How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement",
+  "URL": "https://arxiv.org/abs/2607.13718v3",
+  "custom": {
+    "catalog_id": "arxiv:2607.13718",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.13718",
+    "identifiers": {
+      "arxiv": "2607.13718"
+    },
+    "first_published_at": "2026-07-15",
+    "record_updated_at": "2026-10-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "23c40e48ccfb5991e60e1b8916d0819377c71efb82e49f7364743028cd8fcad8",
+      "submitted_at": "2026-07-15T11:36:22Z",
+      "updated_at": "2026-10-15T22:49:38Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2607.13718v3"
+    }
+  },
+  "note": "First published: 2026-07-15; Recorded arXiv version: v3; Recorded version updated: 2026-10-15T22:49:38Z.",
+  "author": [
+    {
+      "literal": "Alexandra E. Michael"
+    },
+    {
+      "literal": "Franziska Roesner"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.13718",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,196 @@
+{
+  "id": "arxiv:2212.08073",
+  "citation-key": "arxiv_2212_08073",
+  "type": "article",
+  "title": "Constitutional AI: Harmlessness from AI Feedback",
+  "URL": "https://arxiv.org/abs/2212.08073v1",
+  "custom": {
+    "catalog_id": "arxiv:2212.08073",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2212.08073",
+    "identifiers": {
+      "arxiv": "2212.08073"
+    },
+    "first_published_at": "2022-12-15",
+    "record_updated_at": "2022-12-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "52151077bf334f68c0b5c6b32cdbda22b28124b2f9be62743797645b15218e1c",
+      "submitted_at": "2022-12-15T06:19:23Z",
+      "updated_at": "2022-12-15T06:19:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2212.08073v1"
+    }
+  },
+  "note": "First published: 2022-12-15; Recorded arXiv version: v1; Recorded version updated: 2022-12-15T06:19:23Z.",
+  "author": [
+    {
+      "literal": "Yuntao Bai"
+    },
+    {
+      "literal": "Saurav Kadavath"
+    },
+    {
+      "literal": "Sandipan Kundu"
+    },
+    {
+      "literal": "Amanda Askell"
+    },
+    {
+      "literal": "Jackson Kernion"
+    },
+    {
+      "literal": "Andy Jones"
+    },
+    {
+      "literal": "Anna Chen"
+    },
+    {
+      "literal": "Anna Goldie"
+    },
+    {
+      "literal": "Azalia Mirhoseini"
+    },
+    {
+      "literal": "Cameron McKinnon"
+    },
+    {
+      "literal": "Carol Chen"
+    },
+    {
+      "literal": "Catherine Olsson"
+    },
+    {
+      "literal": "Christopher Olah"
+    },
+    {
+      "literal": "Danny Hernandez"
+    },
+    {
+      "literal": "Dawn Drain"
+    },
+    {
+      "literal": "Deep Ganguli"
+    },
+    {
+      "literal": "Dustin Li"
+    },
+    {
+      "literal": "Eli Tran-Johnson"
+    },
+    {
+      "literal": "Ethan Perez"
+    },
+    {
+      "literal": "Jamie Kerr"
+    },
+    {
+      "literal": "Jared Mueller"
+    },
+    {
+      "literal": "Jeffrey Ladish"
+    },
+    {
+      "literal": "Joshua Landau"
+    },
+    {
+      "literal": "Kamal Ndousse"
+    },
+    {
+      "literal": "Kamile Lukosuite"
+    },
+    {
+      "literal": "Liane Lovitt"
+    },
+    {
+      "literal": "Michael Sellitto"
+    },
+    {
+      "literal": "Nelson Elhage"
+    },
+    {
+      "literal": "Nicholas Schiefer"
+    },
+    {
+      "literal": "Noemi Mercado"
+    },
+    {
+      "literal": "Nova DasSarma"
+    },
+    {
+      "literal": "Robert Lasenby"
+    },
+    {
+      "literal": "Robin Larson"
+    },
+    {
+      "literal": "Sam Ringer"
+    },
+    {
+      "literal": "Scott Johnston"
+    },
+    {
+      "literal": "Shauna Kravec"
+    },
+    {
+      "literal": "Sheer El Showk"
+    },
+    {
+      "literal": "Stanislav Fort"
+    },
+    {
+      "literal": "Tamera Lanham"
+    },
+    {
+      "literal": "Timothy Telleen-Lawton"
+    },
+    {
+      "literal": "Tom Conerly"
+    },
+    {
+      "literal": "Tom Henighan"
+    },
+    {
+      "literal": "Tristan Hume"
+    },
+    {
+      "literal": "Samuel R. Bowman"
+    },
+    {
+      "literal": "Zac Hatfield-Dodds"
+    },
+    {
+      "literal": "Ben Mann"
+    },
+    {
+      "literal": "Dario Amodei"
+    },
+    {
+      "literal": "Nicholas Joseph"
+    },
+    {
+      "literal": "Sam McCandlish"
+    },
+    {
+      "literal": "Tom Brown"
+    },
+    {
+      "literal": "Jared Kaplan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2212.08073",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.05171",
+  "citation-key": "arxiv_2606_05171",
+  "type": "article",
+  "title": "AppAgent-Claw: CLI Is All You Need for GUI Automation",
+  "URL": "https://arxiv.org/abs/2606.05171v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.05171",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.05171",
+    "identifiers": {
+      "arxiv": "2606.05171"
+    },
+    "first_published_at": "2026-04-15",
+    "record_updated_at": "2026-04-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "03585e55e343411c5a86b852e68dc23bc4cc9be3d041add890b758b737db35a1",
+      "submitted_at": "2026-04-15T17:02:09Z",
+      "updated_at": "2026-04-15T17:02:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.05171v1"
+    }
+  },
+  "note": "First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T17:02:09Z.",
+  "author": [
+    {
+      "literal": "Zhixue Song"
+    },
+    {
+      "literal": "Zhiheng Zhang"
+    },
+    {
+      "literal": "Yi Song"
+    },
+    {
+      "literal": "Chi Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.05171",
+  "genre": "preprint",
+  "version": "1"
+}

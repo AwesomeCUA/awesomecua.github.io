@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2602.22897",
+  "citation-key": "arxiv_2602_22897",
+  "type": "article",
+  "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+  "URL": "https://arxiv.org/abs/2602.22897v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.22897",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.22897",
+    "identifiers": {
+      "arxiv": "2602.22897"
+    },
+    "first_published_at": "2026-02-26",
+    "record_updated_at": "2026-07-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "20a1ed1605f6428aa60897cb5eab7d95697036d8b6759ab9a03ce6959df86d03",
+      "submitted_at": "2026-02-26T11:35:04Z",
+      "updated_at": "2026-07-02T15:39:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.22897v3"
+    }
+  },
+  "note": "First published: 2026-02-26; Recorded arXiv version: v3; Recorded version updated: 2026-07-02T15:39:17Z.",
+  "author": [
+    {
+      "literal": "Xiaoxi Li"
+    },
+    {
+      "literal": "Wenxiang Jiao"
+    },
+    {
+      "literal": "Jiarui Jin"
+    },
+    {
+      "literal": "Haoxuan Li"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Shijian Wang"
+    },
+    {
+      "literal": "Guanting Dong"
+    },
+    {
+      "literal": "Jiajie Jin"
+    },
+    {
+      "literal": "Yinuo Wang"
+    },
+    {
+      "literal": "Yuan Lu"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    },
+    {
+      "literal": "Zhicheng Dou"
+    },
+    {
+      "literal": "Zhouchen Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.22897",
+  "genre": "preprint",
+  "version": "3"
+}

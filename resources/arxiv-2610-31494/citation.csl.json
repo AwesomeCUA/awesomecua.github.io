@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.31494",
+  "citation-key": "arxiv_2610_31494",
+  "type": "article",
+  "title": "AgentVQA: A Unified Benchmark for Agentic Visual Understanding",
+  "URL": "https://arxiv.org/abs/2610.31494v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.31494",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.31494",
+    "identifiers": {
+      "arxiv": "2610.31494"
+    },
+    "first_published_at": "2026-10-22",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5e57f8583e9e40ad722df47a2d7e3085740e6e9b9ffb3f9baf8d82db256a3046",
+      "submitted_at": "2026-10-22T16:13:35Z",
+      "updated_at": "2026-10-22T16:13:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.31494v1"
+    }
+  },
+  "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T16:13:35Z.",
+  "author": [
+    {
+      "literal": "Advait Gupta"
+    },
+    {
+      "literal": "Sachin Konan"
+    },
+    {
+      "literal": "Tom Yin"
+    },
+    {
+      "literal": "Gabriel Sarch"
+    },
+    {
+      "literal": "Zhuang Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.31494",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2508.21475",
+  "citation-key": "arxiv_2508_21475",
+  "type": "article",
+  "title": "MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents",
+  "URL": "https://arxiv.org/abs/2508.21475v3",
+  "custom": {
+    "catalog_id": "arxiv:2508.21475",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.21475",
+    "identifiers": {
+      "arxiv": "2508.21475"
+    },
+    "first_published_at": "2025-08-29",
+    "record_updated_at": "2026-03-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "56bb6e4a97686941b94ac210bfe8133f06eabb6fa200d1f9a3f9a0906da56f55",
+      "submitted_at": "2025-08-29T09:58:27Z",
+      "updated_at": "2026-03-18T09:07:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2508.21475v3"
+    }
+  },
+  "note": "First published: 2025-08-29; Recorded arXiv version: v3; Recorded version updated: 2026-03-18T09:07:34Z.",
+  "author": [
+    {
+      "literal": "Xijia Tao"
+    },
+    {
+      "literal": "Yihua Teng"
+    },
+    {
+      "literal": "Xinxing Su"
+    },
+    {
+      "literal": "Xinyu Fu"
+    },
+    {
+      "literal": "Jihao Wu"
+    },
+    {
+      "literal": "Chaofan Tao"
+    },
+    {
+      "literal": "Ziru Liu"
+    },
+    {
+      "literal": "Haoli Bai"
+    },
+    {
+      "literal": "Rui Liu"
+    },
+    {
+      "literal": "Lingpeng Kong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.21475",
+  "genre": "preprint",
+  "version": "3"
+}

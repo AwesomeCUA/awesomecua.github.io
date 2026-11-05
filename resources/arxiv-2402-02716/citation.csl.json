@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2402.02716",
+  "citation-key": "arxiv_2402_02716",
+  "type": "article",
+  "title": "Understanding the planning of LLM agents: A survey",
+  "URL": "https://arxiv.org/abs/2402.02716v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.02716",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.02716",
+    "identifiers": {
+      "arxiv": "2402.02716"
+    },
+    "first_published_at": "2024-02-05",
+    "record_updated_at": "2024-02-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8e9c6af5829d33e1d46c03c43f4a0cddb76af2ea2ae1797974b5f2057a58dbf4",
+      "submitted_at": "2024-02-05T04:25:24Z",
+      "updated_at": "2024-02-05T04:25:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.02716v1"
+    }
+  },
+  "note": "First published: 2024-02-05; Recorded arXiv version: v1; Recorded version updated: 2024-02-05T04:25:24Z.",
+  "author": [
+    {
+      "literal": "Xu Huang"
+    },
+    {
+      "literal": "Weiwen Liu"
+    },
+    {
+      "literal": "Xiaolong Chen"
+    },
+    {
+      "literal": "Xingmei Wang"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Defu Lian"
+    },
+    {
+      "literal": "Yasheng Wang"
+    },
+    {
+      "literal": "Ruiming Tang"
+    },
+    {
+      "literal": "Enhong Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.02716",
+  "genre": "preprint",
+  "version": "1"
+}

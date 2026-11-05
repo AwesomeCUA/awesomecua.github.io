@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:1701.01216",
+  "citation-key": "arxiv_1701_01216",
+  "type": "article",
+  "title": "Crowdsourcing with Tullock contests: A new perspective",
+  "URL": "https://arxiv.org/abs/1701.01216v1",
+  "custom": {
+    "catalog_id": "arxiv:1701.01216",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1701.01216",
+    "identifiers": {
+      "arxiv": "1701.01216"
+    },
+    "first_published_at": "2017-01-05",
+    "record_updated_at": "2017-01-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "30df81e329399745cbb8bb52cbc463e5e2f14b7e35bd811344419088593113c8",
+      "submitted_at": "2017-01-05T05:44:25Z",
+      "updated_at": "2017-01-05T05:44:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1701.01216v1"
+    }
+  },
+  "note": "First published: 2017-01-05; Recorded arXiv version: v1; Recorded version updated: 2017-01-05T05:44:25Z.",
+  "author": [
+    {
+      "literal": "T. Luo"
+    },
+    {
+      "literal": "S. S. Kanhere"
+    },
+    {
+      "literal": "H-P. Tan"
+    },
+    {
+      "literal": "F. Wu"
+    },
+    {
+      "literal": "H. Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        1,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1701.01216",
+  "genre": "preprint",
+  "version": "1"
+}

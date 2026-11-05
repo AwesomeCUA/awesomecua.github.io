@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2510.24284",
+  "citation-key": "arxiv_2510_24284",
+  "type": "article",
+  "title": "MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools",
+  "URL": "https://arxiv.org/abs/2510.24284v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.24284",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.24284",
+    "identifiers": {
+      "arxiv": "2510.24284"
+    },
+    "first_published_at": "2025-10-28",
+    "record_updated_at": "2026-04-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2344d8807ce63eb887b9e137e75a3542b038c6bb40976d842cca826686e16d7d",
+      "submitted_at": "2025-10-28T10:42:17Z",
+      "updated_at": "2026-04-16T11:42:35Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.24284v3"
+    }
+  },
+  "note": "First published: 2025-10-28; Recorded arXiv version: v3; Recorded version updated: 2026-04-16T11:42:35Z.",
+  "author": [
+    {
+      "literal": "Wenhao Wang"
+    },
+    {
+      "literal": "Peizhi Niu"
+    },
+    {
+      "literal": "Zhao Xu"
+    },
+    {
+      "literal": "Zhaoyu Chen"
+    },
+    {
+      "literal": "Jian Du"
+    },
+    {
+      "literal": "Yaxin Du"
+    },
+    {
+      "literal": "Xianghe Pang"
+    },
+    {
+      "literal": "Keduan Huang"
+    },
+    {
+      "literal": "Yanfeng Wang"
+    },
+    {
+      "literal": "Qiang Yan"
+    },
+    {
+      "literal": "Siheng Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.24284",
+  "genre": "preprint",
+  "version": "3"
+}

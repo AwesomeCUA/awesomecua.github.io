@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2601.22770",
+  "citation-key": "arxiv_2601_22770",
+  "type": "article",
+  "title": "Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models",
+  "URL": "https://arxiv.org/abs/2601.22770v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.22770",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.22770",
+    "identifiers": {
+      "arxiv": "2601.22770"
+    },
+    "first_published_at": "2026-01-30",
+    "record_updated_at": "2026-03-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "662f6dd923b7fb38a78913d0b7a90e30a1c394610fee314bfe4f153e53ee4351",
+      "submitted_at": "2026-01-30T09:49:09Z",
+      "updated_at": "2026-03-17T11:27:35Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.22770v2"
+    }
+  },
+  "note": "First published: 2026-01-30; Recorded arXiv version: v2; Recorded version updated: 2026-03-17T11:27:35Z.",
+  "author": [
+    {
+      "literal": "Haoyun Yang"
+    },
+    {
+      "literal": "Ronghong Huang"
+    },
+    {
+      "literal": "Yong Fang"
+    },
+    {
+      "literal": "Beizeng Zhang"
+    },
+    {
+      "literal": "Junpu Guo"
+    },
+    {
+      "literal": "Zhanyu Wu"
+    },
+    {
+      "literal": "Xianghang Mi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.22770",
+  "genre": "preprint",
+  "version": "2"
+}

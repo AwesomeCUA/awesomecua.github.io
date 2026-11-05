@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2606.17861",
+  "citation-key": "arxiv_2606_17861",
+  "type": "article",
+  "title": "GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?",
+  "URL": "https://arxiv.org/abs/2606.17861v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.17861",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.17861",
+    "identifiers": {
+      "arxiv": "2606.17861"
+    },
+    "first_published_at": "2026-06-16",
+    "record_updated_at": "2026-06-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b336afa8325d0a119ccd0226e5594c566c7591d868e89bec34d622f2903a88bb",
+      "submitted_at": "2026-06-16T12:34:39Z",
+      "updated_at": "2026-06-16T12:34:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.17861v1"
+    },
+    "authors_omitted": true
+  },
+  "note": "First published: 2026-06-16; Recorded arXiv version: v1; Recorded version updated: 2026-06-16T12:34:39Z; Authors: see the paper (https://arxiv.org/abs/2606.17861v1); this catalog does not list them.",
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.17861",
+  "genre": "preprint",
+  "version": "1"
+}

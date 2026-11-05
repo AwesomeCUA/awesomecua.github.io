@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2601.04203",
+  "citation-key": "arxiv_2601_04203",
+  "type": "article",
+  "title": "FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback",
+  "URL": "https://arxiv.org/abs/2601.04203v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.04203",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.04203",
+    "identifiers": {
+      "arxiv": "2601.04203"
+    },
+    "first_published_at": "2025-12-05",
+    "record_updated_at": "2026-08-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cff29f0ec84d79d9ac51654bc21f08ddf497be343a6fdd59456c47bac89ee0a4",
+      "submitted_at": "2025-12-05T23:28:09Z",
+      "updated_at": "2026-08-09T08:10:47Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.04203v3"
+    }
+  },
+  "note": "First published: 2025-12-05; Recorded arXiv version: v3; Recorded version updated: 2026-08-09T08:10:47Z.",
+  "author": [
+    {
+      "literal": "Xueqing Wu"
+    },
+    {
+      "literal": "Zihan Xue"
+    },
+    {
+      "literal": "Da Yin"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    },
+    {
+      "literal": "Kai-Wei Chang"
+    },
+    {
+      "literal": "Nanyun Peng"
+    },
+    {
+      "literal": "Yeming Wen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.04203",
+  "genre": "preprint",
+  "version": "3"
+}

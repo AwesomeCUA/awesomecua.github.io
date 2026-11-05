@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2509.11067",
+  "citation-key": "arxiv_2509_11067",
+  "type": "article",
+  "title": "Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration",
+  "URL": "https://arxiv.org/abs/2509.11067v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.11067",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.11067",
+    "identifiers": {
+      "arxiv": "2509.11067"
+    },
+    "first_published_at": "2025-09-14",
+    "record_updated_at": "2025-09-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2f6b37031618a03023dc9140ad54b6e1d82dbc619fa53591a92a047591e921db",
+      "submitted_at": "2025-09-14T03:22:27Z",
+      "updated_at": "2025-09-16T02:49:53Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.11067v2"
+    }
+  },
+  "note": "First published: 2025-09-14; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T02:49:53Z.",
+  "author": [
+    {
+      "literal": "Liangxuan Guo"
+    },
+    {
+      "literal": "Bin Zhu"
+    },
+    {
+      "literal": "Qingqian Tao"
+    },
+    {
+      "literal": "Kangning Liu"
+    },
+    {
+      "literal": "Xun Zhao"
+    },
+    {
+      "literal": "Xianzhe Qin"
+    },
+    {
+      "literal": "Jin Gao"
+    },
+    {
+      "literal": "Guangfu Hao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.11067",
+  "genre": "preprint",
+  "version": "2"
+}

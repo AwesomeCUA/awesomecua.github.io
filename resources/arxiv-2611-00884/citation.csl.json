@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2611.00884",
+  "citation-key": "arxiv_2611_00884",
+  "type": "article",
+  "title": "When 200 OK Is Not an Answer: Silent Fetch Failures in Agentic Web Content Acquisition",
+  "URL": "https://arxiv.org/abs/2611.00884v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.00884",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.00884",
+    "identifiers": {
+      "arxiv": "2611.00884"
+    },
+    "first_published_at": "2026-10-31",
+    "record_updated_at": "2026-10-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "56d4b81344e942baa5ffb8b1e89742c8510bed1498c0493b3e7985f2abf713ab",
+      "submitted_at": "2026-10-31T12:42:45Z",
+      "updated_at": "2026-10-31T12:42:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.00884v1"
+    }
+  },
+  "note": "First published: 2026-10-31; Recorded arXiv version: v1; Recorded version updated: 2026-10-31T12:42:45Z.",
+  "author": [
+    {
+      "literal": "Shuyang Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.00884",
+  "genre": "preprint",
+  "version": "1"
+}

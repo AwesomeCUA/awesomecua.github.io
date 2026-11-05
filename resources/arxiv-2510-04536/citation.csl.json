@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2510.04536",
+  "citation-key": "arxiv_2510_04536",
+  "type": "article",
+  "title": "3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG",
+  "URL": "https://arxiv.org/abs/2510.04536v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.04536",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.04536",
+    "identifiers": {
+      "arxiv": "2510.04536"
+    },
+    "first_published_at": "2025-10-06",
+    "record_updated_at": "2025-10-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1d190c586a2b20a2fd7d1ed0b963c05da560f923de466de25235e37cbede6a20",
+      "submitted_at": "2025-10-06T07:00:06Z",
+      "updated_at": "2025-10-06T07:00:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.04536v1"
+    }
+  },
+  "note": "First published: 2025-10-06; Recorded arXiv version: v1; Recorded version updated: 2025-10-06T07:00:06Z.",
+  "author": [
+    {
+      "literal": "Shun-ichiro Hayashi"
+    },
+    {
+      "literal": "Daichi Mukunoki"
+    },
+    {
+      "literal": "Tetsuya Hoshino"
+    },
+    {
+      "literal": "Satoshi Ohshima"
+    },
+    {
+      "literal": "Takahiro Katagiri"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.04536",
+  "genre": "preprint",
+  "version": "1"
+}

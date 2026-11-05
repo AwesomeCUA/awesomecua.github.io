@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.38648",
+  "citation-key": "arxiv_2609_38648",
+  "type": "article",
+  "title": "StateFork: Branchable Infrastructure for Agent Exploration",
+  "URL": "https://arxiv.org/abs/2609.38648v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.38648",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.38648",
+    "identifiers": {
+      "arxiv": "2609.38648"
+    },
+    "first_published_at": "2026-09-29",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "67e743be7394e4e791f26590494e05e6ac54f4c38198791a99f860cbc7105871",
+      "submitted_at": "2026-09-29T23:11:44Z",
+      "updated_at": "2026-09-29T23:11:44Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.38648v1"
+    }
+  },
+  "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T23:11:44Z.",
+  "author": [
+    {
+      "literal": "Jiakai Xu"
+    },
+    {
+      "literal": "Tianle Zhou"
+    },
+    {
+      "literal": "Georgios Liargkovas"
+    },
+    {
+      "literal": "Danielle Gillai"
+    },
+    {
+      "literal": "Ruizhe Fu"
+    },
+    {
+      "literal": "Patrick Shen"
+    },
+    {
+      "literal": "Eugene Wu"
+    },
+    {
+      "literal": "Kostis Kaffes"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.38648",
+  "genre": "preprint",
+  "version": "1"
+}

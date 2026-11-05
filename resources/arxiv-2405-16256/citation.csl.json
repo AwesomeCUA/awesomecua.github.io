@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2405.16256",
+  "citation-key": "arxiv_2405_16256",
+  "type": "article",
+  "title": "HETHUB: A Distributed Training System with Heterogeneous Cluster for Large-Scale Models",
+  "URL": "https://arxiv.org/abs/2405.16256v2",
+  "custom": {
+    "catalog_id": "arxiv:2405.16256",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.16256",
+    "identifiers": {
+      "arxiv": "2405.16256"
+    },
+    "first_published_at": "2024-05-25",
+    "record_updated_at": "2024-08-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "00613986383b6305eadd90825cd64452d3fd819e6a2b6e720ef8048ec09d581a",
+      "submitted_at": "2024-05-25T14:36:35Z",
+      "updated_at": "2024-08-09T02:38:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2405.16256v2"
+    }
+  },
+  "note": "First published: 2024-05-25; Recorded arXiv version: v2; Recorded version updated: 2024-08-09T02:38:07Z.",
+  "author": [
+    {
+      "literal": "Si Xu"
+    },
+    {
+      "literal": "Zixiao Huang"
+    },
+    {
+      "literal": "Yan Zeng"
+    },
+    {
+      "literal": "Shengen Yan"
+    },
+    {
+      "literal": "Xuefei Ning"
+    },
+    {
+      "literal": "Quanlu Zhang"
+    },
+    {
+      "literal": "Haolin Ye"
+    },
+    {
+      "literal": "Sipei Gu"
+    },
+    {
+      "literal": "Chunsheng Shui"
+    },
+    {
+      "literal": "Zhezheng Lin"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Sheng Wang"
+    },
+    {
+      "literal": "Guohao Dai"
+    },
+    {
+      "literal": "Yu Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.16256",
+  "genre": "preprint",
+  "version": "2"
+}

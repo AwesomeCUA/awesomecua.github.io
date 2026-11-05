@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2507.10644",
+  "citation-key": "arxiv_2507_10644",
+  "type": "article",
+  "title": "From Multi-Agent Systems and the Semantic Web to Agentic AI: A Unified Narrative of the Web of Agents",
+  "URL": "https://arxiv.org/abs/2507.10644v4",
+  "custom": {
+    "catalog_id": "arxiv:2507.10644",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.10644",
+    "identifiers": {
+      "arxiv": "2507.10644"
+    },
+    "first_published_at": "2025-07-14",
+    "record_updated_at": "2026-05-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c5554720ae65dab43ec67e73b31d2514fc89363ffadce0042f9dd93960433fdf",
+      "submitted_at": "2025-07-14T16:47:19Z",
+      "updated_at": "2026-05-24T14:18:12Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2507.10644v4"
+    }
+  },
+  "note": "First published: 2025-07-14; Recorded arXiv version: v4; Recorded version updated: 2026-05-24T14:18:12Z.",
+  "author": [
+    {
+      "literal": "Tatiana Petrova"
+    },
+    {
+      "literal": "Boris Bliznioukov"
+    },
+    {
+      "literal": "Aleksandr Puzikov"
+    },
+    {
+      "literal": "Radu State"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.10644",
+  "genre": "preprint",
+  "version": "4"
+}

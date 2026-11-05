@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2409.19256",
+  "citation-key": "arxiv_2409_19256",
+  "type": "article",
+  "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+  "URL": "https://arxiv.org/abs/2409.19256v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.19256",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.19256",
+    "identifiers": {
+      "arxiv": "2409.19256"
+    },
+    "first_published_at": "2024-09-28",
+    "record_updated_at": "2024-10-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d0222684db0e07b013f57e1828ac32c246cb4e6828dcedf159a62c700658d399",
+      "submitted_at": "2024-09-28T06:20:03Z",
+      "updated_at": "2024-10-02T04:01:47Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.19256v2"
+    }
+  },
+  "note": "First published: 2024-09-28; Recorded arXiv version: v2; Recorded version updated: 2024-10-02T04:01:47Z.",
+  "author": [
+    {
+      "literal": "Guangming Sheng"
+    },
+    {
+      "literal": "Chi Zhang"
+    },
+    {
+      "literal": "Zilingfeng Ye"
+    },
+    {
+      "literal": "Xibin Wu"
+    },
+    {
+      "literal": "Wang Zhang"
+    },
+    {
+      "literal": "Ru Zhang"
+    },
+    {
+      "literal": "Yanghua Peng"
+    },
+    {
+      "literal": "Haibin Lin"
+    },
+    {
+      "literal": "Chuan Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.19256",
+  "genre": "preprint",
+  "version": "2"
+}

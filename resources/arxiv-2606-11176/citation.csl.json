@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.11176",
+  "citation-key": "arxiv_2606_11176",
+  "type": "article",
+  "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+  "URL": "https://arxiv.org/abs/2606.11176v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.11176",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.11176",
+    "identifiers": {
+      "arxiv": "2606.11176"
+    },
+    "first_published_at": "2026-06-09",
+    "record_updated_at": "2026-09-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d8516326a863dc4518b2439a7848e94c22568aa5fafad5acf989c11e39d97539",
+      "submitted_at": "2026-06-09T17:51:55Z",
+      "updated_at": "2026-09-17T17:30:43Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.11176v2"
+    }
+  },
+  "note": "First published: 2026-06-09; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T17:30:43Z.",
+  "author": [
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Batu EI"
+    },
+    {
+      "literal": "Yuhong Shi"
+    },
+    {
+      "literal": "Pan Lu"
+    },
+    {
+      "literal": "Juil Sock"
+    },
+    {
+      "literal": "Djordje Padejski"
+    },
+    {
+      "literal": "Philip Torr"
+    },
+    {
+      "literal": "James Zou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.11176",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2609.24352",
+  "citation-key": "arxiv_2609_24352",
+  "type": "article",
+  "title": "Few-Shot Demonstrations Elicit the Use of In-Context World Representations in LLMs",
+  "URL": "https://arxiv.org/abs/2609.24352v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.24352",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.24352",
+    "identifiers": {
+      "arxiv": "2609.24352"
+    },
+    "first_published_at": "2026-09-21",
+    "record_updated_at": "2026-09-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7ebce9481d1271aa93cb0ff069ef4a6e11c1be0feadf3b15bd3d8530a809d0df",
+      "submitted_at": "2026-09-21T09:44:24Z",
+      "updated_at": "2026-09-21T09:44:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.24352v1"
+    }
+  },
+  "note": "First published: 2026-09-21; Recorded arXiv version: v1; Recorded version updated: 2026-09-21T09:44:24Z.",
+  "author": [
+    {
+      "literal": "Kohsei Matsutani"
+    },
+    {
+      "literal": "Gouki Minegishi"
+    },
+    {
+      "literal": "Core Francisco Park"
+    },
+    {
+      "literal": "Takeshi Kojima"
+    },
+    {
+      "literal": "Yusuke Iwasawa"
+    },
+    {
+      "literal": "Yutaka Matsuo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.24352",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2405.11143",
+  "citation-key": "arxiv_2405_11143",
+  "type": "article",
+  "title": "OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework",
+  "URL": "https://arxiv.org/abs/2405.11143v6",
+  "custom": {
+    "catalog_id": "arxiv:2405.11143",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.11143",
+    "identifiers": {
+      "arxiv": "2405.11143"
+    },
+    "first_published_at": "2024-05-20",
+    "record_updated_at": "2025-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b1bf7c2f2527546cd5dfd06c56a4700f65cf60f1e93b4dea4645b336a3d27c3a",
+      "submitted_at": "2024-05-20T01:04:40Z",
+      "updated_at": "2025-10-09T12:22:46Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2405.11143v6"
+    }
+  },
+  "note": "First published: 2024-05-20; Recorded arXiv version: v6; Recorded version updated: 2025-10-09T12:22:46Z.",
+  "author": [
+    {
+      "literal": "Jian Hu"
+    },
+    {
+      "literal": "Xibin Wu"
+    },
+    {
+      "literal": "Wei Shen"
+    },
+    {
+      "literal": "Jason Klein Liu"
+    },
+    {
+      "literal": "Zilin Zhu"
+    },
+    {
+      "literal": "Weixun Wang"
+    },
+    {
+      "literal": "Songlin Jiang"
+    },
+    {
+      "literal": "Haoran Wang"
+    },
+    {
+      "literal": "Hao Chen"
+    },
+    {
+      "literal": "Bin Chen"
+    },
+    {
+      "literal": "Weikai Fang"
+    },
+    {
+      "literal": "Xianyu"
+    },
+    {
+      "literal": "Yu Cao"
+    },
+    {
+      "literal": "Haotian Xu"
+    },
+    {
+      "literal": "Yiming Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.11143",
+  "genre": "preprint",
+  "version": "6"
+}

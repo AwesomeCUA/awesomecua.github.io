@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2611.00926",
+  "citation-key": "arxiv_2611_00926",
+  "type": "article",
+  "title": "UI-UG 2: Advancing Mobile UI Understanding and Generation with Fine-Grained Supervision and Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2611.00926v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.00926",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.00926",
+    "identifiers": {
+      "arxiv": "2611.00926"
+    },
+    "first_published_at": "2026-10-31",
+    "record_updated_at": "2026-10-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "807a92a35a6e29aa4a0fbc9c4883271f4084d045e7c5347362d6f47ffe88337f",
+      "submitted_at": "2026-10-31T13:24:05Z",
+      "updated_at": "2026-10-31T13:24:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.00926v1"
+    }
+  },
+  "note": "First published: 2026-10-31; Recorded arXiv version: v1; Recorded version updated: 2026-10-31T13:24:05Z.",
+  "author": [
+    {
+      "literal": "Hao Yang"
+    },
+    {
+      "literal": "Shuoyang Liu"
+    },
+    {
+      "literal": "Xiaoyu Lin"
+    },
+    {
+      "literal": "Zhou Fang"
+    },
+    {
+      "literal": "Maji Huang"
+    },
+    {
+      "literal": "Zhaosong Huang"
+    },
+    {
+      "literal": "Ruichao Mao"
+    },
+    {
+      "literal": "Teng Guo"
+    },
+    {
+      "literal": "Hai Rao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.00926",
+  "genre": "preprint",
+  "version": "1"
+}

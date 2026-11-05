@@ -1,0 +1,97 @@
+{
+  "id": "arxiv:2511.03773",
+  "citation-key": "arxiv_2511_03773",
+  "type": "article",
+  "title": "Scaling Agent Learning via Experience Synthesis",
+  "URL": "https://arxiv.org/abs/2511.03773v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.03773",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.03773",
+    "identifiers": {
+      "arxiv": "2511.03773"
+    },
+    "first_published_at": "2025-11-05",
+    "record_updated_at": "2025-11-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bfcc6992f612c8ede2ec8076be9a7c2e151a6b9fc95d237d78a82b6dd43262a5",
+      "submitted_at": "2025-11-05T18:58:48Z",
+      "updated_at": "2025-11-10T05:02:36Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.03773v2"
+    }
+  },
+  "note": "First published: 2025-11-05; Recorded arXiv version: v2; Recorded version updated: 2025-11-10T05:02:36Z.",
+  "author": [
+    {
+      "literal": "Zhaorun Chen"
+    },
+    {
+      "literal": "Zhuokai Zhao"
+    },
+    {
+      "literal": "Kai Zhang"
+    },
+    {
+      "literal": "Bo Liu"
+    },
+    {
+      "literal": "Qi Qi"
+    },
+    {
+      "literal": "Yifan Wu"
+    },
+    {
+      "literal": "Tarun Kalluri"
+    },
+    {
+      "literal": "Sara Cao"
+    },
+    {
+      "literal": "Yuanhao Xiong"
+    },
+    {
+      "literal": "Haibo Tong"
+    },
+    {
+      "literal": "Huaxiu Yao"
+    },
+    {
+      "literal": "Hengduo Li"
+    },
+    {
+      "literal": "Jiacheng Zhu"
+    },
+    {
+      "literal": "Xian Li"
+    },
+    {
+      "literal": "Dawn Song"
+    },
+    {
+      "literal": "Bo Li"
+    },
+    {
+      "literal": "Jason Weston"
+    },
+    {
+      "literal": "Dat Huynh"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.03773",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2405.11106",
+  "citation-key": "arxiv_2405_11106",
+  "type": "article",
+  "title": "LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions",
+  "URL": "https://arxiv.org/abs/2405.11106v1",
+  "custom": {
+    "catalog_id": "arxiv:2405.11106",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.11106",
+    "identifiers": {
+      "arxiv": "2405.11106"
+    },
+    "first_published_at": "2024-05-17",
+    "record_updated_at": "2024-05-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f37901f2fbf0b891f9d18c8e7f7db8ff850e32dfb92910398b36b35682e3d618",
+      "submitted_at": "2024-05-17T22:10:23Z",
+      "updated_at": "2024-05-17T22:10:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2405.11106v1"
+    }
+  },
+  "note": "First published: 2024-05-17; Recorded arXiv version: v1; Recorded version updated: 2024-05-17T22:10:23Z.",
+  "author": [
+    {
+      "literal": "Chuanneng Sun"
+    },
+    {
+      "literal": "Songjun Huang"
+    },
+    {
+      "literal": "Dario Pompili"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.11106",
+  "genre": "preprint",
+  "version": "1"
+}

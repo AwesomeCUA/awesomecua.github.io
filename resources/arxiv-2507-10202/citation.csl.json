@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2507.10202",
+  "citation-key": "arxiv_2507_10202",
+  "type": "article",
+  "title": "A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images",
+  "URL": "https://arxiv.org/abs/2507.10202v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.10202",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.10202",
+    "identifiers": {
+      "arxiv": "2507.10202"
+    },
+    "first_published_at": "2025-07-14",
+    "record_updated_at": "2025-07-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2c73207679d34946e6f77fc573bac45c8b77de1772cd7b2c7211cd1b653da931",
+      "submitted_at": "2025-07-14T12:14:53Z",
+      "updated_at": "2025-07-14T12:14:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.10202v1"
+    }
+  },
+  "note": "First published: 2025-07-14; Recorded arXiv version: v1; Recorded version updated: 2025-07-14T12:14:53Z.",
+  "author": [
+    {
+      "literal": "Jaeseong Lee"
+    },
+    {
+      "literal": "Yeeun Choi"
+    },
+    {
+      "literal": "Heechan Choi"
+    },
+    {
+      "literal": "Hanjung Kim"
+    },
+    {
+      "literal": "Seonjoo Kim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.10202",
+  "genre": "preprint",
+  "version": "1"
+}

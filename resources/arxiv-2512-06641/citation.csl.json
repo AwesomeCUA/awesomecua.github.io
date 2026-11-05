@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2512.06641",
+  "citation-key": "arxiv_2512_06641",
+  "type": "article",
+  "title": "An Index-based Approach for Efficient and Effective Web Content Extraction",
+  "URL": "https://arxiv.org/abs/2512.06641v1",
+  "custom": {
+    "catalog_id": "arxiv:2512.06641",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.06641",
+    "identifiers": {
+      "arxiv": "2512.06641"
+    },
+    "first_published_at": "2025-12-07",
+    "record_updated_at": "2025-12-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ecd118582b5cfcdc98b8e6f2c1e203fde70acde0ff908fd0da42df8218627d02",
+      "submitted_at": "2025-12-07T03:18:19Z",
+      "updated_at": "2025-12-07T03:18:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.06641v1"
+    }
+  },
+  "note": "First published: 2025-12-07; Recorded arXiv version: v1; Recorded version updated: 2025-12-07T03:18:19Z.",
+  "author": [
+    {
+      "literal": "Yihan Chen"
+    },
+    {
+      "literal": "Benfeng Xu"
+    },
+    {
+      "literal": "Xiaorui Wang"
+    },
+    {
+      "literal": "Zhendong Mao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.06641",
+  "genre": "preprint",
+  "version": "1"
+}

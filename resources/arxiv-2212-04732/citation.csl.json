@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2212.04732",
+  "citation-key": "arxiv_2212_04732",
+  "type": "article",
+  "title": "Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing",
+  "URL": "https://arxiv.org/abs/2212.04732v1",
+  "custom": {
+    "catalog_id": "arxiv:2212.04732",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2212.04732",
+    "identifiers": {
+      "arxiv": "2212.04732"
+    },
+    "first_published_at": "2022-12-09",
+    "record_updated_at": "2022-12-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b147719291128e86cbdb279ef6d0cc2bea6660d9cc0efb3277bd160dacbadd37",
+      "submitted_at": "2022-12-09T09:00:38Z",
+      "updated_at": "2022-12-09T09:00:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2212.04732v1"
+    }
+  },
+  "note": "First published: 2022-12-09; Recorded arXiv version: v1; Recorded version updated: 2022-12-09T09:00:38Z.",
+  "author": [
+    {
+      "literal": "Zhe Liu"
+    },
+    {
+      "literal": "Chunyang Chen"
+    },
+    {
+      "literal": "Junjie Wang"
+    },
+    {
+      "literal": "Xing Che"
+    },
+    {
+      "literal": "Yuekai Huang"
+    },
+    {
+      "literal": "Jun Hu"
+    },
+    {
+      "literal": "Qing Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2212.04732",
+  "genre": "preprint",
+  "version": "1"
+}

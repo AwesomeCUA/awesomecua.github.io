@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2409.18807",
+  "citation-key": "arxiv_2409_18807",
+  "type": "article",
+  "title": "LLM With Tools: A Survey",
+  "URL": "https://arxiv.org/abs/2409.18807v1",
+  "custom": {
+    "catalog_id": "arxiv:2409.18807",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.18807",
+    "identifiers": {
+      "arxiv": "2409.18807"
+    },
+    "first_published_at": "2024-09-24",
+    "record_updated_at": "2024-09-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "010046f15a4e43b5c9036e9563ae425e4d99a584424779d777c7bac519e87bf2",
+      "submitted_at": "2024-09-24T14:08:11Z",
+      "updated_at": "2024-09-24T14:08:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2409.18807v1"
+    }
+  },
+  "note": "First published: 2024-09-24; Recorded arXiv version: v1; Recorded version updated: 2024-09-24T14:08:11Z.",
+  "author": [
+    {
+      "literal": "Zhuocheng Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.18807",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2505.17629",
+  "citation-key": "arxiv_2505_17629",
+  "type": "article",
+  "title": "TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments",
+  "URL": "https://arxiv.org/abs/2505.17629v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.17629",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.17629",
+    "identifiers": {
+      "arxiv": "2505.17629"
+    },
+    "first_published_at": "2025-05-23",
+    "record_updated_at": "2025-05-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b0d87cf010efb0eb7a1fdeaffc16a01829f689103f364d62c853092b990c8962",
+      "submitted_at": "2025-05-23T08:39:06Z",
+      "updated_at": "2025-05-27T07:41:51Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.17629v2"
+    }
+  },
+  "note": "First published: 2025-05-23; Recorded arXiv version: v2; Recorded version updated: 2025-05-27T07:41:51Z.",
+  "author": [
+    {
+      "literal": "Yuheng Lu"
+    },
+    {
+      "literal": "Qian Yu"
+    },
+    {
+      "literal": "Hongru Wang"
+    },
+    {
+      "literal": "Zeming Liu"
+    },
+    {
+      "literal": "Wei Su"
+    },
+    {
+      "literal": "Yanping Liu"
+    },
+    {
+      "literal": "Yuhang Guo"
+    },
+    {
+      "literal": "Maocheng Liang"
+    },
+    {
+      "literal": "Yunhong Wang"
+    },
+    {
+      "literal": "Haifeng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.17629",
+  "genre": "preprint",
+  "version": "2"
+}

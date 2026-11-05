@@ -1,0 +1,268 @@
+{
+  "id": "arxiv:2508.18265",
+  "citation-key": "arxiv_2508_18265",
+  "type": "article",
+  "title": "InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency",
+  "URL": "https://arxiv.org/abs/2508.18265v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.18265",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.18265",
+    "identifiers": {
+      "arxiv": "2508.18265"
+    },
+    "first_published_at": "2025-08-25",
+    "record_updated_at": "2025-08-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "543df10a69a8803c955bac76b3f2ed22a56cf9da31c74c22d1ce9dd0bab2da94",
+      "submitted_at": "2025-08-25T17:58:17Z",
+      "updated_at": "2025-08-27T14:39:45Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.18265v2"
+    }
+  },
+  "note": "First published: 2025-08-25; Recorded arXiv version: v2; Recorded version updated: 2025-08-27T14:39:45Z.",
+  "author": [
+    {
+      "literal": "Weiyun Wang"
+    },
+    {
+      "literal": "Zhangwei Gao"
+    },
+    {
+      "literal": "Lixin Gu"
+    },
+    {
+      "literal": "Hengjun Pu"
+    },
+    {
+      "literal": "Long Cui"
+    },
+    {
+      "literal": "Xingguang Wei"
+    },
+    {
+      "literal": "Zhaoyang Liu"
+    },
+    {
+      "literal": "Linglin Jing"
+    },
+    {
+      "literal": "Shenglong Ye"
+    },
+    {
+      "literal": "Jie Shao"
+    },
+    {
+      "literal": "Zhaokai Wang"
+    },
+    {
+      "literal": "Zhe Chen"
+    },
+    {
+      "literal": "Hongjie Zhang"
+    },
+    {
+      "literal": "Ganlin Yang"
+    },
+    {
+      "literal": "Haomin Wang"
+    },
+    {
+      "literal": "Qi Wei"
+    },
+    {
+      "literal": "Jinhui Yin"
+    },
+    {
+      "literal": "Wenhao Li"
+    },
+    {
+      "literal": "Erfei Cui"
+    },
+    {
+      "literal": "Guanzhou Chen"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Changyao Tian"
+    },
+    {
+      "literal": "Zhenyu Wu"
+    },
+    {
+      "literal": "Jingjing Xie"
+    },
+    {
+      "literal": "Zehao Li"
+    },
+    {
+      "literal": "Bowen Yang"
+    },
+    {
+      "literal": "Yuchen Duan"
+    },
+    {
+      "literal": "Xuehui Wang"
+    },
+    {
+      "literal": "Zhi Hou"
+    },
+    {
+      "literal": "Haoran Hao"
+    },
+    {
+      "literal": "Tianyi Zhang"
+    },
+    {
+      "literal": "Songze Li"
+    },
+    {
+      "literal": "Xiangyu Zhao"
+    },
+    {
+      "literal": "Haodong Duan"
+    },
+    {
+      "literal": "Nianchen Deng"
+    },
+    {
+      "literal": "Bin Fu"
+    },
+    {
+      "literal": "Yinan He"
+    },
+    {
+      "literal": "Yi Wang"
+    },
+    {
+      "literal": "Conghui He"
+    },
+    {
+      "literal": "Botian Shi"
+    },
+    {
+      "literal": "Junjun He"
+    },
+    {
+      "literal": "Yingtong Xiong"
+    },
+    {
+      "literal": "Han Lv"
+    },
+    {
+      "literal": "Lijun Wu"
+    },
+    {
+      "literal": "Wenqi Shao"
+    },
+    {
+      "literal": "Kaipeng Zhang"
+    },
+    {
+      "literal": "Huipeng Deng"
+    },
+    {
+      "literal": "Biqing Qi"
+    },
+    {
+      "literal": "Jiaye Ge"
+    },
+    {
+      "literal": "Qipeng Guo"
+    },
+    {
+      "literal": "Wenwei Zhang"
+    },
+    {
+      "literal": "Songyang Zhang"
+    },
+    {
+      "literal": "Maosong Cao"
+    },
+    {
+      "literal": "Junyao Lin"
+    },
+    {
+      "literal": "Kexian Tang"
+    },
+    {
+      "literal": "Jianfei Gao"
+    },
+    {
+      "literal": "Haian Huang"
+    },
+    {
+      "literal": "Yuzhe Gu"
+    },
+    {
+      "literal": "Chengqi Lyu"
+    },
+    {
+      "literal": "Huanze Tang"
+    },
+    {
+      "literal": "Rui Wang"
+    },
+    {
+      "literal": "Haijun Lv"
+    },
+    {
+      "literal": "Wanli Ouyang"
+    },
+    {
+      "literal": "Limin Wang"
+    },
+    {
+      "literal": "Min Dou"
+    },
+    {
+      "literal": "Xizhou Zhu"
+    },
+    {
+      "literal": "Tong Lu"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Jifeng Dai"
+    },
+    {
+      "literal": "Weijie Su"
+    },
+    {
+      "literal": "Bowen Zhou"
+    },
+    {
+      "literal": "Kai Chen"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Wenhai Wang"
+    },
+    {
+      "literal": "Gen Luo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.18265",
+  "genre": "preprint",
+  "version": "2"
+}

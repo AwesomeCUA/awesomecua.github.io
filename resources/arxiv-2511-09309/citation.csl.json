@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2511.09309",
+  "citation-key": "arxiv_2511_09309",
+  "type": "article",
+  "title": "TaskSense: Cognitive Chain Modeling and Difficulty Estimation for GUI Tasks",
+  "URL": "https://arxiv.org/abs/2511.09309v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.09309",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.09309",
+    "identifiers": {
+      "arxiv": "2511.09309"
+    },
+    "first_published_at": "2025-11-12",
+    "record_updated_at": "2025-11-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ad8bba83f1e3ee7dbd0d062906bf6cb0d65d005fa7e8d8a95bb8b986dd45dcf2",
+      "submitted_at": "2025-11-12T13:20:35Z",
+      "updated_at": "2025-11-12T13:20:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.09309v1"
+    }
+  },
+  "note": "First published: 2025-11-12; Recorded arXiv version: v1; Recorded version updated: 2025-11-12T13:20:35Z.",
+  "author": [
+    {
+      "literal": "Yiwen Yin"
+    },
+    {
+      "literal": "Zhian Hu"
+    },
+    {
+      "literal": "Xiaoxi Xu"
+    },
+    {
+      "literal": "Chun Yu"
+    },
+    {
+      "literal": "Xintong Wu"
+    },
+    {
+      "literal": "Wenyu Fan"
+    },
+    {
+      "literal": "Yuanchun Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.09309",
+  "genre": "preprint",
+  "version": "1"
+}

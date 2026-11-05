@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2306.01987",
+  "citation-key": "arxiv_2306_01987",
+  "type": "article",
+  "title": "Prompting Is All You Need: Automated Android Bug Replay with Large Language Models",
+  "URL": "https://arxiv.org/abs/2306.01987v3",
+  "custom": {
+    "catalog_id": "arxiv:2306.01987",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2306.01987",
+    "identifiers": {
+      "arxiv": "2306.01987"
+    },
+    "first_published_at": "2023-06-03",
+    "record_updated_at": "2024-05-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1b3cdeb55d958fa8c4cae655eddcad36f26f7e9cca20f67395da444ca9d9f6d3",
+      "submitted_at": "2023-06-03T03:03:52Z",
+      "updated_at": "2024-05-08T07:36:56Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2306.01987v3"
+    }
+  },
+  "note": "First published: 2023-06-03; Recorded arXiv version: v3; Recorded version updated: 2024-05-08T07:36:56Z.",
+  "author": [
+    {
+      "literal": "Sidong Feng"
+    },
+    {
+      "literal": "Chunyang Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.01987",
+  "genre": "preprint",
+  "version": "3"
+}

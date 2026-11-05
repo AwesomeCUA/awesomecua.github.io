@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2310.02424",
+  "citation-key": "arxiv_2310_02424",
+  "type": "article",
+  "title": "AXNav: Replaying Accessibility Tests from Natural Language",
+  "URL": "https://arxiv.org/abs/2310.02424v3",
+  "custom": {
+    "catalog_id": "arxiv:2310.02424",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.02424",
+    "identifiers": {
+      "arxiv": "2310.02424"
+    },
+    "first_published_at": "2023-10-03",
+    "record_updated_at": "2024-03-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cdf6ca927e82a2828762dc74f80fe16de433cc36e2ee6413692d8d2cf1544dce",
+      "submitted_at": "2023-10-03T20:37:58Z",
+      "updated_at": "2024-03-05T01:28:25Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2310.02424v3"
+    }
+  },
+  "note": "First published: 2023-10-03; Recorded arXiv version: v3; Recorded version updated: 2024-03-05T01:28:25Z.",
+  "author": [
+    {
+      "literal": "Maryam Taeb"
+    },
+    {
+      "literal": "Amanda Swearngin"
+    },
+    {
+      "literal": "Eldon Schoop"
+    },
+    {
+      "literal": "Ruijia Cheng"
+    },
+    {
+      "literal": "Yue Jiang"
+    },
+    {
+      "literal": "Jeffrey Nichols"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.02424",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "arxiv:2407.11691",
+  "citation-key": "arxiv_2407_11691",
+  "type": "article",
+  "title": "VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models",
+  "URL": "https://arxiv.org/abs/2407.11691v5",
+  "custom": {
+    "catalog_id": "arxiv:2407.11691",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.11691",
+    "identifiers": {
+      "arxiv": "2407.11691"
+    },
+    "first_published_at": "2024-07-16",
+    "record_updated_at": "2026-07-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5968424bfa1ffc5b9e042d403e546b806ecc075e0a954150bfa209a8e31c4cc3",
+      "submitted_at": "2024-07-16T13:06:15Z",
+      "updated_at": "2026-07-06T12:07:21Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2407.11691v5"
+    }
+  },
+  "note": "First published: 2024-07-16; Recorded arXiv version: v5; Recorded version updated: 2026-07-06T12:07:21Z.",
+  "author": [
+    {
+      "literal": "Haodong Duan"
+    },
+    {
+      "literal": "Xinyu Fang"
+    },
+    {
+      "literal": "Junming Yang"
+    },
+    {
+      "literal": "Xiangyu Zhao"
+    },
+    {
+      "literal": "Zerun Ma"
+    },
+    {
+      "literal": "Yuxuan Qiao"
+    },
+    {
+      "literal": "Mo Li"
+    },
+    {
+      "literal": "Tianhao Liang"
+    },
+    {
+      "literal": "Lin Zhu"
+    },
+    {
+      "literal": "Amit Agarwal"
+    },
+    {
+      "literal": "Xiaozhe Li"
+    },
+    {
+      "literal": "Shengyuan Ding"
+    },
+    {
+      "literal": "Jiazi Bu"
+    },
+    {
+      "literal": "Ziyu Liu"
+    },
+    {
+      "literal": "Zhangyang Qi"
+    },
+    {
+      "literal": "Yifei Li"
+    },
+    {
+      "literal": "Yuhang Zang"
+    },
+    {
+      "literal": "Zhe Chen"
+    },
+    {
+      "literal": "Lin Chen"
+    },
+    {
+      "literal": "Yuan Liu"
+    },
+    {
+      "literal": "Yubo Ma"
+    },
+    {
+      "literal": "Hailong Sun"
+    },
+    {
+      "literal": "Yifan Zhang"
+    },
+    {
+      "literal": "Shiyin Lu"
+    },
+    {
+      "literal": "Tack Hwa Wong"
+    },
+    {
+      "literal": "Weiyun Wang"
+    },
+    {
+      "literal": "Peiheng Zhou"
+    },
+    {
+      "literal": "Chaoyou Fu"
+    },
+    {
+      "literal": "Junbo Cui"
+    },
+    {
+      "literal": "Jixuan Chen"
+    },
+    {
+      "literal": "Enxin Song"
+    },
+    {
+      "literal": "Song Mao"
+    },
+    {
+      "literal": "Junming Lin"
+    },
+    {
+      "literal": "Xilin Wei"
+    },
+    {
+      "literal": "Jinsong Li"
+    },
+    {
+      "literal": "Zeyi Sun"
+    },
+    {
+      "literal": "Zhaowei Wang"
+    },
+    {
+      "literal": "Zicheng Zhang"
+    },
+    {
+      "literal": "Xiaoyi Dong"
+    },
+    {
+      "literal": "Junjun He"
+    },
+    {
+      "literal": "Pan Zhang"
+    },
+    {
+      "literal": "Jiaqi Wang"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Kai Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.11691",
+  "genre": "preprint",
+  "version": "5"
+}

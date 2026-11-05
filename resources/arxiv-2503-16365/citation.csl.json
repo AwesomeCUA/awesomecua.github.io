@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2503.16365",
+  "citation-key": "arxiv_2503_16365",
+  "type": "article",
+  "title": "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse",
+  "URL": "https://arxiv.org/abs/2503.16365v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.16365",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.16365",
+    "identifiers": {
+      "arxiv": "2503.16365"
+    },
+    "first_published_at": "2025-03-20",
+    "record_updated_at": "2025-09-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1408808b2bcbc399907098dfe63a9cdb46afa50699be3997bcf77c2968d63f0c",
+      "submitted_at": "2025-03-20T17:21:58Z",
+      "updated_at": "2025-09-12T17:56:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.16365v2"
+    }
+  },
+  "note": "First published: 2025-03-20; Recorded arXiv version: v2; Recorded version updated: 2025-09-12T17:56:19Z.",
+  "author": [
+    {
+      "literal": "Muyao Li"
+    },
+    {
+      "literal": "Zihao Wang"
+    },
+    {
+      "literal": "Kaichen He"
+    },
+    {
+      "literal": "Xiaojian Ma"
+    },
+    {
+      "literal": "Yitao Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.16365",
+  "genre": "preprint",
+  "version": "2"
+}

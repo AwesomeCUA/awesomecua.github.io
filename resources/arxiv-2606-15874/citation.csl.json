@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2606.15874",
+  "citation-key": "arxiv_2606_15874",
+  "type": "article",
+  "title": "LLM-as-Code: Agentic Programming for Agent Harness",
+  "URL": "https://arxiv.org/abs/2606.15874v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.15874",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.15874",
+    "identifiers": {
+      "arxiv": "2606.15874"
+    },
+    "first_published_at": "2026-06-14",
+    "record_updated_at": "2026-06-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e44d63470995c99e6e56ce27c207c368ea1d9b74614133e7696b584e10438f98",
+      "submitted_at": "2026-06-14T15:47:27Z",
+      "updated_at": "2026-06-22T08:52:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.15874v2"
+    }
+  },
+  "note": "First published: 2026-06-14; Recorded arXiv version: v2; Recorded version updated: 2026-06-22T08:52:52Z.",
+  "author": [
+    {
+      "literal": "Junjia Qi"
+    },
+    {
+      "literal": "Zichuan Fu"
+    },
+    {
+      "literal": "Jingtong Gao"
+    },
+    {
+      "literal": "Wenlin Zhang"
+    },
+    {
+      "literal": "Hanyu Yan"
+    },
+    {
+      "literal": "Xian Wu"
+    },
+    {
+      "literal": "Xiangyu Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.15874",
+  "genre": "preprint",
+  "version": "2"
+}

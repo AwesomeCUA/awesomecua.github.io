@@ -1,0 +1,235 @@
+{
+  "id": "arxiv:2511.21631",
+  "citation-key": "arxiv_2511_21631",
+  "type": "article",
+  "title": "Qwen3-VL Technical Report",
+  "URL": "https://arxiv.org/abs/2511.21631v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.21631",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.21631",
+    "identifiers": {
+      "arxiv": "2511.21631"
+    },
+    "first_published_at": "2025-11-26",
+    "record_updated_at": "2025-11-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e63970fa0051ac89cf45d6d3204bb128d464d8cc367763f867d638bfc7034fa4",
+      "submitted_at": "2025-11-26T17:59:08Z",
+      "updated_at": "2025-11-27T12:16:54Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.21631v2"
+    }
+  },
+  "note": "First published: 2025-11-26; Recorded arXiv version: v2; Recorded version updated: 2025-11-27T12:16:54Z.",
+  "author": [
+    {
+      "literal": "Shuai Bai"
+    },
+    {
+      "literal": "Yuxuan Cai"
+    },
+    {
+      "literal": "Ruizhe Chen"
+    },
+    {
+      "literal": "Keqin Chen"
+    },
+    {
+      "literal": "Xionghui Chen"
+    },
+    {
+      "literal": "Zesen Cheng"
+    },
+    {
+      "literal": "Lianghao Deng"
+    },
+    {
+      "literal": "Wei Ding"
+    },
+    {
+      "literal": "Chang Gao"
+    },
+    {
+      "literal": "Chunjiang Ge"
+    },
+    {
+      "literal": "Wenbin Ge"
+    },
+    {
+      "literal": "Zhifang Guo"
+    },
+    {
+      "literal": "Qidong Huang"
+    },
+    {
+      "literal": "Jie Huang"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Binyuan Hui"
+    },
+    {
+      "literal": "Shutong Jiang"
+    },
+    {
+      "literal": "Zhaohai Li"
+    },
+    {
+      "literal": "Mingsheng Li"
+    },
+    {
+      "literal": "Mei Li"
+    },
+    {
+      "literal": "Kaixin Li"
+    },
+    {
+      "literal": "Zicheng Lin"
+    },
+    {
+      "literal": "Junyang Lin"
+    },
+    {
+      "literal": "Xuejing Liu"
+    },
+    {
+      "literal": "Jiawei Liu"
+    },
+    {
+      "literal": "Chenglong Liu"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Dayiheng Liu"
+    },
+    {
+      "literal": "Shixuan Liu"
+    },
+    {
+      "literal": "Dunjie Lu"
+    },
+    {
+      "literal": "Ruilin Luo"
+    },
+    {
+      "literal": "Chenxu Lv"
+    },
+    {
+      "literal": "Rui Men"
+    },
+    {
+      "literal": "Lingchen Meng"
+    },
+    {
+      "literal": "Xuancheng Ren"
+    },
+    {
+      "literal": "Xingzhang Ren"
+    },
+    {
+      "literal": "Sibo Song"
+    },
+    {
+      "literal": "Yuchong Sun"
+    },
+    {
+      "literal": "Jun Tang"
+    },
+    {
+      "literal": "Jianhong Tu"
+    },
+    {
+      "literal": "Jianqiang Wan"
+    },
+    {
+      "literal": "Peng Wang"
+    },
+    {
+      "literal": "Pengfei Wang"
+    },
+    {
+      "literal": "Qiuyue Wang"
+    },
+    {
+      "literal": "Yuxuan Wang"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Yiheng Xu"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Jin Xu"
+    },
+    {
+      "literal": "Zhibo Yang"
+    },
+    {
+      "literal": "Mingkun Yang"
+    },
+    {
+      "literal": "Jianxin Yang"
+    },
+    {
+      "literal": "An Yang"
+    },
+    {
+      "literal": "Bowen Yu"
+    },
+    {
+      "literal": "Fei Zhang"
+    },
+    {
+      "literal": "Hang Zhang"
+    },
+    {
+      "literal": "Xi Zhang"
+    },
+    {
+      "literal": "Bo Zheng"
+    },
+    {
+      "literal": "Humen Zhong"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Fan Zhou"
+    },
+    {
+      "literal": "Jing Zhou"
+    },
+    {
+      "literal": "Yuanzhi Zhu"
+    },
+    {
+      "literal": "Ke Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.21631",
+  "genre": "preprint",
+  "version": "2"
+}

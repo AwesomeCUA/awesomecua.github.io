@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2409.04465",
+  "citation-key": "arxiv_2409_04465",
+  "type": "article",
+  "title": "Here's Charlie! Realising the Semantic Web vision of Agents in the age of LLMs",
+  "URL": "https://arxiv.org/abs/2409.04465v1",
+  "custom": {
+    "catalog_id": "arxiv:2409.04465",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.04465",
+    "identifiers": {
+      "arxiv": "2409.04465"
+    },
+    "first_published_at": "2024-09-03",
+    "record_updated_at": "2024-09-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a815507d5cbf20add18bd80f82e35199413e206610da9d32c5a54989413ce61f",
+      "submitted_at": "2024-09-03T10:32:47Z",
+      "updated_at": "2024-09-03T10:32:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2409.04465v1"
+    }
+  },
+  "note": "First published: 2024-09-03; Recorded arXiv version: v1; Recorded version updated: 2024-09-03T10:32:47Z.",
+  "author": [
+    {
+      "literal": "Jesse Wright"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.04465",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,328 @@
+{
+  "id": "arxiv:2504.07491",
+  "citation-key": "arxiv_2504_07491",
+  "type": "article",
+  "title": "Kimi-VL Technical Report",
+  "URL": "https://arxiv.org/abs/2504.07491v3",
+  "custom": {
+    "catalog_id": "arxiv:2504.07491",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.07491",
+    "identifiers": {
+      "arxiv": "2504.07491"
+    },
+    "first_published_at": "2025-04-10",
+    "record_updated_at": "2025-06-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8fd0393bcbcbc6a083e76b7730e49a4f2345a1a0246f8921e330a1436832d222",
+      "submitted_at": "2025-04-10T06:48:26Z",
+      "updated_at": "2025-06-23T13:45:50Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2504.07491v3"
+    }
+  },
+  "note": "First published: 2025-04-10; Recorded arXiv version: v3; Recorded version updated: 2025-06-23T13:45:50Z.",
+  "author": [
+    {
+      "literal": "Kimi Team"
+    },
+    {
+      "literal": "Angang Du"
+    },
+    {
+      "literal": "Bohong Yin"
+    },
+    {
+      "literal": "Bowei Xing"
+    },
+    {
+      "literal": "Bowen Qu"
+    },
+    {
+      "literal": "Bowen Wang"
+    },
+    {
+      "literal": "Cheng Chen"
+    },
+    {
+      "literal": "Chenlin Zhang"
+    },
+    {
+      "literal": "Chenzhuang Du"
+    },
+    {
+      "literal": "Chu Wei"
+    },
+    {
+      "literal": "Congcong Wang"
+    },
+    {
+      "literal": "Dehao Zhang"
+    },
+    {
+      "literal": "Dikang Du"
+    },
+    {
+      "literal": "Dongliang Wang"
+    },
+    {
+      "literal": "Enming Yuan"
+    },
+    {
+      "literal": "Enzhe Lu"
+    },
+    {
+      "literal": "Fang Li"
+    },
+    {
+      "literal": "Flood Sung"
+    },
+    {
+      "literal": "Guangda Wei"
+    },
+    {
+      "literal": "Guokun Lai"
+    },
+    {
+      "literal": "Han Zhu"
+    },
+    {
+      "literal": "Hao Ding"
+    },
+    {
+      "literal": "Hao Hu"
+    },
+    {
+      "literal": "Hao Yang"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Haoning Wu"
+    },
+    {
+      "literal": "Haotian Yao"
+    },
+    {
+      "literal": "Haoyu Lu"
+    },
+    {
+      "literal": "Heng Wang"
+    },
+    {
+      "literal": "Hongcheng Gao"
+    },
+    {
+      "literal": "Huabin Zheng"
+    },
+    {
+      "literal": "Jiaming Li"
+    },
+    {
+      "literal": "Jianlin Su"
+    },
+    {
+      "literal": "Jianzhou Wang"
+    },
+    {
+      "literal": "Jiaqi Deng"
+    },
+    {
+      "literal": "Jiezhong Qiu"
+    },
+    {
+      "literal": "Jin Xie"
+    },
+    {
+      "literal": "Jinhong Wang"
+    },
+    {
+      "literal": "Jingyuan Liu"
+    },
+    {
+      "literal": "Junjie Yan"
+    },
+    {
+      "literal": "Kun Ouyang"
+    },
+    {
+      "literal": "Liang Chen"
+    },
+    {
+      "literal": "Lin Sui"
+    },
+    {
+      "literal": "Longhui Yu"
+    },
+    {
+      "literal": "Mengfan Dong"
+    },
+    {
+      "literal": "Mengnan Dong"
+    },
+    {
+      "literal": "Nuo Xu"
+    },
+    {
+      "literal": "Pengyu Cheng"
+    },
+    {
+      "literal": "Qizheng Gu"
+    },
+    {
+      "literal": "Runjie Zhou"
+    },
+    {
+      "literal": "Shaowei Liu"
+    },
+    {
+      "literal": "Sihan Cao"
+    },
+    {
+      "literal": "Tao Yu"
+    },
+    {
+      "literal": "Tianhui Song"
+    },
+    {
+      "literal": "Tongtong Bai"
+    },
+    {
+      "literal": "Wei Song"
+    },
+    {
+      "literal": "Weiran He"
+    },
+    {
+      "literal": "Weixiao Huang"
+    },
+    {
+      "literal": "Weixin Xu"
+    },
+    {
+      "literal": "Xiaokun Yuan"
+    },
+    {
+      "literal": "Xingcheng Yao"
+    },
+    {
+      "literal": "Xingzhe Wu"
+    },
+    {
+      "literal": "Xinhao Li"
+    },
+    {
+      "literal": "Xinxing Zu"
+    },
+    {
+      "literal": "Xinyu Zhou"
+    },
+    {
+      "literal": "Xinyuan Wang"
+    },
+    {
+      "literal": "Y. Charles"
+    },
+    {
+      "literal": "Yan Zhong"
+    },
+    {
+      "literal": "Yang Li"
+    },
+    {
+      "literal": "Yangyang Hu"
+    },
+    {
+      "literal": "Yanru Chen"
+    },
+    {
+      "literal": "Yejie Wang"
+    },
+    {
+      "literal": "Yibo Liu"
+    },
+    {
+      "literal": "Yibo Miao"
+    },
+    {
+      "literal": "Yidao Qin"
+    },
+    {
+      "literal": "Yimin Chen"
+    },
+    {
+      "literal": "Yiping Bao"
+    },
+    {
+      "literal": "Yiqin Wang"
+    },
+    {
+      "literal": "Yongsheng Kang"
+    },
+    {
+      "literal": "Yuanxin Liu"
+    },
+    {
+      "literal": "Yuhao Dong"
+    },
+    {
+      "literal": "Yulun Du"
+    },
+    {
+      "literal": "Yuxin Wu"
+    },
+    {
+      "literal": "Yuzhi Wang"
+    },
+    {
+      "literal": "Yuzi Yan"
+    },
+    {
+      "literal": "Zaida Zhou"
+    },
+    {
+      "literal": "Zhaowei Li"
+    },
+    {
+      "literal": "Zhejun Jiang"
+    },
+    {
+      "literal": "Zheng Zhang"
+    },
+    {
+      "literal": "Zhilin Yang"
+    },
+    {
+      "literal": "Zhiqi Huang"
+    },
+    {
+      "literal": "Zihao Huang"
+    },
+    {
+      "literal": "Zijia Zhao"
+    },
+    {
+      "literal": "Ziwei Chen"
+    },
+    {
+      "literal": "Zongyu Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.07491",
+  "genre": "preprint",
+  "version": "3"
+}
