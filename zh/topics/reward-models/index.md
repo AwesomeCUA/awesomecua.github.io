@@ -88,12 +88,26 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   GUI-G2 replaces binary grounding rewards with Gaussian point rewards and spatial-coverage rewards. An adaptive variance tied to element dimensions supplies continuous training feedback for targets of different sizes, evaluated on the ScreenSpot benchmark family.
 - [WebGuard: Building a Generalizable Guardrail for Web Agents](https://awesomecua.com/resources/arxiv-2507-14293/) — 2025-07-18
   Introduces WebGuard, a human-annotated dataset for predicting outcomes and risk levels of state-changing website actions. It provides generalization splits and evaluates specialized guardrail models.
+- [Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification](https://awesomecua.com/resources/arxiv-2507-11662/) — 2025-07-15
+  Studies agreement bias in multimodal agent verifiers across web navigation and computer use, and introduces SGV to assess trajectories using self-generated priors.
+- [Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents](https://awesomecua.com/resources/arxiv-2506-21252/) — 2025-06-26
+  Introduces Agent-RewardBench to evaluate step-level reward models for multimodal agents across perception, planning, and safety; web navigation is among its scenarios.
+- [SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution](https://awesomecua.com/resources/arxiv-2505-20732/) — 2025-05-27
+  Introduces SPA, a reward redistribution method for multi-step LLM agents that estimates each action’s contribution to task completion; Webshop is among its evaluations.
+- [Group-in-Group Policy Optimization for LLM Agent Training](https://awesomecua.com/resources/arxiv-2505-10978/) — 2025-05-16
+  Introduces Group-in-Group Policy Optimization (GiGPO), an RL method for assigning step-level credit in multi-turn agents, evaluated on WebShop among other tasks.
 - [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://awesomecua.com/resources/arxiv-2504-16073/) — 2025-04-22
   Guides visual GUI agents at inference time with a process-reward model that evaluates intermediate actions. It combines stepwise guidance with trajectory reflection and retry mechanisms in static and interactive navigation tasks.
+- [Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization](https://awesomecua.com/resources/arxiv-2502-14496/) — 2025-02-20
+  Introduces CollabUIAgents, a multi-agent RL framework that assigns LLM-based process rewards to help agents generalize across interactive settings including mobile operations and web browsing.
+- [Scaling Autonomous Agents via Automatic Reward Modeling And Planning](https://awesomecua.com/resources/arxiv-2502-12130/) — 2025-02-17
+  Introduces a framework that learns a reward model from agent trajectories to guide multi-step planning, with online shopping among its decision-making settings.
 - [From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](https://awesomecua.com/resources/arxiv-2411-03817/) — 2024-11-06
   Introduces StepAgent, which compares agent and expert actions to supply intermediate rewards for policy learning, with implicit-reward and inverse-RL variants. Evaluation includes WebShop and Mind2Web alongside non-web tasks.
 - [Autonomous Evaluation and Refinement of Digital Agents](https://awesomecua.com/resources/arxiv-2404-06474/) — 2024-04-09
   Compares automatic trajectory evaluators for web navigation and device control against oracle judgments. The resulting feedback is used for agent fine-tuning and inference-time guidance, including experiments on WebArena.
+- [WebGPT: Browser-assisted question-answering with human feedback](https://awesomecua.com/resources/arxiv-2112-09332/) — 2021-12-17
+  Trains a question-answering model to search and navigate a text-based web browser, collect references and improve long-form answers using demonstrations and human feedback.
 
 ## 评测基准
 

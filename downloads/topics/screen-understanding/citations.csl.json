@@ -1,5 +1,57 @@
 [
   {
+    "URL": "https://arxiv.org/abs/1902.07257v1",
+    "archive": "arXiv",
+    "archive_location": "1902.07257",
+    "author": [
+      {
+        "literal": "Sheng Jia"
+      },
+      {
+        "literal": "Jamie Kiros"
+      },
+      {
+        "literal": "Jimmy Ba"
+      }
+    ],
+    "citation-key": "arxiv_1902_07257",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cbb9df92fcb1f933538a100fe4c3c98d4c2b2ead234dcc033c0a426d197457b3",
+        "submitted_at": "2019-02-19T19:54:15Z",
+        "updated_at": "2019-02-19T19:54:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/1902.07257v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/1902.07257",
+      "catalog_id": "arxiv:1902.07257",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2019-02-19",
+      "identifiers": {
+        "arxiv": "1902.07257"
+      },
+      "record_updated_at": "2019-02-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:1902.07257",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2019-02-19; Recorded arXiv version: v1; Recorded version updated: 2019-02-19T19:54:15Z.",
+    "title": "DOM-Q-NET: Grounded RL on Structured Language",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2008.05132v2",
     "archive": "arXiv",
     "archive_location": "2008.05132",
@@ -1060,6 +1112,70 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2212.04732v1",
+    "archive": "arXiv",
+    "archive_location": "2212.04732",
+    "author": [
+      {
+        "literal": "Zhe Liu"
+      },
+      {
+        "literal": "Chunyang Chen"
+      },
+      {
+        "literal": "Junjie Wang"
+      },
+      {
+        "literal": "Xing Che"
+      },
+      {
+        "literal": "Yuekai Huang"
+      },
+      {
+        "literal": "Jun Hu"
+      },
+      {
+        "literal": "Qing Wang"
+      }
+    ],
+    "citation-key": "arxiv_2212_04732",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b147719291128e86cbdb279ef6d0cc2bea6660d9cc0efb3277bd160dacbadd37",
+        "submitted_at": "2022-12-09T09:00:38Z",
+        "updated_at": "2022-12-09T09:00:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2212.04732v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2212.04732",
+      "catalog_id": "arxiv:2212.04732",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2022-12-09",
+      "identifiers": {
+        "arxiv": "2212.04732"
+      },
+      "record_updated_at": "2022-12-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2212.04732",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2022-12-09; Recorded arXiv version: v1; Recorded version updated: 2022-12-09T09:00:38Z.",
+    "title": "Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2301.10165v1",
     "archive": "arXiv",
     "archive_location": "2301.10165",
@@ -1177,6 +1293,192 @@
     "title": "WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2305.09699v1",
+    "archive": "arXiv",
+    "archive_location": "2305.09699",
+    "author": [
+      {
+        "literal": "Zhangxuan Gu"
+      },
+      {
+        "literal": "Zhuoer Xu"
+      },
+      {
+        "literal": "Haoxing Chen"
+      },
+      {
+        "literal": "Jun Lan"
+      },
+      {
+        "literal": "Changhua Meng"
+      },
+      {
+        "literal": "Weiqiang Wang"
+      }
+    ],
+    "citation-key": "arxiv_2305_09699",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cbd23cad847d29812a6adca85eedfafb4a55bb33395d6e9907e34b8cd1218745",
+        "submitted_at": "2023-05-16T07:16:36Z",
+        "updated_at": "2023-05-16T07:16:36Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2305.09699v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2305.09699",
+      "catalog_id": "arxiv:2305.09699",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-05-16",
+      "identifiers": {
+        "arxiv": "2305.09699"
+      },
+      "record_updated_at": "2023-05-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2305.09699",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2023-05-16; Recorded arXiv version: v1; Recorded version updated: 2023-05-16T07:16:36Z.",
+    "title": "Mobile User Interface Element Detection Via Adaptively Prompt Tuning",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2308.05898v2",
+    "archive": "arXiv",
+    "archive_location": "2308.05898",
+    "author": [
+      {
+        "literal": "Jieshan Chen"
+      },
+      {
+        "literal": "Jiamou Sun"
+      },
+      {
+        "literal": "Sidong Feng"
+      },
+      {
+        "literal": "Zhenchang Xing"
+      },
+      {
+        "literal": "Qinghua Lu"
+      },
+      {
+        "literal": "Xiwei Xu"
+      },
+      {
+        "literal": "Chunyang Chen"
+      }
+    ],
+    "citation-key": "arxiv_2308_05898",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d758750525a78e746ec4bcc8f603006b9ff6e2864fc28fc05635d30a53609aaf",
+        "submitted_at": "2023-08-11T01:18:56Z",
+        "updated_at": "2024-11-28T00:01:03Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2308.05898v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2308.05898",
+      "catalog_id": "arxiv:2308.05898",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2023-08-11",
+      "identifiers": {
+        "arxiv": "2308.05898"
+      },
+      "record_updated_at": "2024-11-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2308.05898",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2023-08-11; Recorded arXiv version: v2; Recorded version updated: 2024-11-28T00:01:03Z.",
+    "title": "Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2310.02424v3",
+    "archive": "arXiv",
+    "archive_location": "2310.02424",
+    "author": [
+      {
+        "literal": "Maryam Taeb"
+      },
+      {
+        "literal": "Amanda Swearngin"
+      },
+      {
+        "literal": "Eldon Schoop"
+      },
+      {
+        "literal": "Ruijia Cheng"
+      },
+      {
+        "literal": "Yue Jiang"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      }
+    ],
+    "citation-key": "arxiv_2310_02424",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cdf6ca927e82a2828762dc74f80fe16de433cc36e2ee6413692d8d2cf1544dce",
+        "submitted_at": "2023-10-03T20:37:58Z",
+        "updated_at": "2024-03-05T01:28:25Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2310.02424v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.02424",
+      "catalog_id": "arxiv:2310.02424",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-10-03",
+      "identifiers": {
+        "arxiv": "2310.02424"
+      },
+      "record_updated_at": "2024-03-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.02424",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-03; Recorded arXiv version: v3; Recorded version updated: 2024-03-05T01:28:25Z.",
+    "title": "AXNav: Replaying Accessibility Tests from Natural Language",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2310.04869v1",
@@ -1315,6 +1617,137 @@
     },
     "note": "First published: 2023-10-08; Recorded arXiv version: v1; Recorded version updated: 2023-10-08T11:33:09Z.",
     "title": "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2310.13518v3",
+    "archive": "arXiv",
+    "archive_location": "2310.13518",
+    "author": [
+      {
+        "literal": "Shengcheng Yu"
+      },
+      {
+        "literal": "Chunrong Fang"
+      },
+      {
+        "literal": "Ziyuan Tuo"
+      },
+      {
+        "literal": "Quanjun Zhang"
+      },
+      {
+        "literal": "Chunyang Chen"
+      },
+      {
+        "literal": "Zhenyu Chen"
+      },
+      {
+        "literal": "Zhendong Su"
+      }
+    ],
+    "citation-key": "arxiv_2310_13518",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b8749aabd4cab3ac9bf906f13f369df7e428c416cd61120d0dda2f6f6f380f99",
+        "submitted_at": "2023-10-20T14:04:04Z",
+        "updated_at": "2025-10-20T12:56:54Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2310.13518v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.13518",
+      "catalog_id": "arxiv:2310.13518",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-10-20",
+      "identifiers": {
+        "arxiv": "2310.13518"
+      },
+      "record_updated_at": "2025-10-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.13518",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-20; Recorded arXiv version: v3; Recorded version updated: 2025-10-20T12:56:54Z.",
+    "title": "Vision-Based Mobile App GUI Testing: A Survey",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2310.15780v1",
+    "archive": "arXiv",
+    "archive_location": "2310.15780",
+    "author": [
+      {
+        "literal": "Zhe Liu"
+      },
+      {
+        "literal": "Chunyang Chen"
+      },
+      {
+        "literal": "Junjie Wang"
+      },
+      {
+        "literal": "Mengzhuo Chen"
+      },
+      {
+        "literal": "Boyu Wu"
+      },
+      {
+        "literal": "Xing Che"
+      },
+      {
+        "literal": "Dandan Wang"
+      },
+      {
+        "literal": "Qing Wang"
+      }
+    ],
+    "citation-key": "arxiv_2310_15780",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1a9d6515db610c41e595e795749a51ac32569419795811ff8e9a6ef400879cfd",
+        "submitted_at": "2023-10-24T12:30:26Z",
+        "updated_at": "2023-10-24T12:30:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2310.15780v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.15780",
+      "catalog_id": "arxiv:2310.15780",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-10-24",
+      "identifiers": {
+        "arxiv": "2310.15780"
+      },
+      "record_updated_at": "2023-10-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.15780",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-24; Recorded arXiv version: v1; Recorded version updated: 2023-10-24T12:30:26Z.",
+    "title": "Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions",
     "type": "article",
     "version": "1"
   },
@@ -1578,6 +2011,67 @@
     "title": "ScreenAI: A Vision-Language Model for UI and Infographics Understanding",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2402.05202v1",
+    "archive": "arXiv",
+    "archive_location": "2402.05202",
+    "author": [
+      {
+        "literal": "Yue Jiang"
+      },
+      {
+        "literal": "Luis A. Leiva"
+      },
+      {
+        "literal": "Paul R. B. Houssel"
+      },
+      {
+        "literal": "Hamed R. Tavakoli"
+      },
+      {
+        "literal": "Julia Kylmälä"
+      },
+      {
+        "literal": "Antti Oulasvirta"
+      }
+    ],
+    "citation-key": "arxiv_2402_05202",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1a1b1dc5d3541b11902569ff4a0d2248a2e1ca8e969d7630054ecd15a921c3f3",
+        "submitted_at": "2024-02-07T19:15:30Z",
+        "updated_at": "2024-02-07T19:15:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2402.05202v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.05202",
+      "catalog_id": "arxiv:2402.05202",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-02-07",
+      "identifiers": {
+        "arxiv": "2402.05202"
+      },
+      "record_updated_at": "2024-02-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2402.05202",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2024-02-07; Recorded arXiv version: v1; Recorded version updated: 2024-02-07T19:15:30Z.",
+    "title": "UEyes: An Eye-Tracking Dataset across User Interface Types",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2402.11941v3",
@@ -2011,6 +2505,76 @@
     "title": "Computer User Interface Understanding. A New Dataset and a Learning Framework",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2403.20271v3",
+    "archive": "arXiv",
+    "archive_location": "2403.20271",
+    "author": [
+      {
+        "literal": "Weifeng Lin"
+      },
+      {
+        "literal": "Xinyu Wei"
+      },
+      {
+        "literal": "Ruichuan An"
+      },
+      {
+        "literal": "Peng Gao"
+      },
+      {
+        "literal": "Bocheng Zou"
+      },
+      {
+        "literal": "Yulin Luo"
+      },
+      {
+        "literal": "Siyuan Huang"
+      },
+      {
+        "literal": "Shanghang Zhang"
+      },
+      {
+        "literal": "Hongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2403_20271",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c6636a8203076662b5d06ffd29c6578d68b8a79a11d9f3b58483fc2dbbf2c96b",
+        "submitted_at": "2024-03-29T16:26:20Z",
+        "updated_at": "2025-02-22T14:02:39Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2403.20271v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.20271",
+      "catalog_id": "arxiv:2403.20271",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-29",
+      "identifiers": {
+        "arxiv": "2403.20271"
+      },
+      "record_updated_at": "2025-02-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.20271",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-29; Recorded arXiv version: v3; Recorded version updated: 2025-02-22T14:02:39Z.",
+    "title": "Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2403.20329v2",
@@ -3893,6 +4457,118 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2409.20566v1",
+    "archive": "arXiv",
+    "archive_location": "2409.20566",
+    "author": [
+      {
+        "literal": "Haotian Zhang"
+      },
+      {
+        "literal": "Mingfei Gao"
+      },
+      {
+        "literal": "Zhe Gan"
+      },
+      {
+        "literal": "Philipp Dufter"
+      },
+      {
+        "literal": "Nina Wenzel"
+      },
+      {
+        "literal": "Forrest Huang"
+      },
+      {
+        "literal": "Dhruti Shah"
+      },
+      {
+        "literal": "Xianzhi Du"
+      },
+      {
+        "literal": "Bowen Zhang"
+      },
+      {
+        "literal": "Yanghao Li"
+      },
+      {
+        "literal": "Sam Dodge"
+      },
+      {
+        "literal": "Keen You"
+      },
+      {
+        "literal": "Zhen Yang"
+      },
+      {
+        "literal": "Aleksei Timofeev"
+      },
+      {
+        "literal": "Mingze Xu"
+      },
+      {
+        "literal": "Hong-You Chen"
+      },
+      {
+        "literal": "Jean-Philippe Fauconnier"
+      },
+      {
+        "literal": "Zhengfeng Lai"
+      },
+      {
+        "literal": "Haoxuan You"
+      },
+      {
+        "literal": "Zirui Wang"
+      },
+      {
+        "literal": "Afshin Dehghan"
+      },
+      {
+        "literal": "Peter Grasch"
+      },
+      {
+        "literal": "Yinfei Yang"
+      }
+    ],
+    "citation-key": "arxiv_2409_20566",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2e066b476434bf2899de8dc6b96d6e10219e731f47d848255702d68c99bf5d3e",
+        "submitted_at": "2024-09-30T17:59:34Z",
+        "updated_at": "2024-09-30T17:59:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2409.20566v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.20566",
+      "catalog_id": "arxiv:2409.20566",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-09-30",
+      "identifiers": {
+        "arxiv": "2409.20566"
+      },
+      "record_updated_at": "2024-09-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2409.20566",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2024-09-30; Recorded arXiv version: v1; Recorded version updated: 2024-09-30T17:59:34Z.",
+    "title": "MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2410.00201v1",
     "archive": "arXiv",
     "archive_location": "2410.00201",
@@ -4195,6 +4871,178 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2412.04626v2",
+    "archive": "arXiv",
+    "archive_location": "2412.04626",
+    "author": [
+      {
+        "literal": "Juan Rodriguez"
+      },
+      {
+        "literal": "Xiangru Jian"
+      },
+      {
+        "literal": "Siba Smarak Panigrahi"
+      },
+      {
+        "literal": "Tianyu Zhang"
+      },
+      {
+        "literal": "Aarash Feizi"
+      },
+      {
+        "literal": "Abhay Puri"
+      },
+      {
+        "literal": "Akshay Kalkunte"
+      },
+      {
+        "literal": "François Savard"
+      },
+      {
+        "literal": "Ahmed Masry"
+      },
+      {
+        "literal": "Shravan Nayak"
+      },
+      {
+        "literal": "Rabiul Awal"
+      },
+      {
+        "literal": "Mahsa Massoud"
+      },
+      {
+        "literal": "Amirhossein Abaskohi"
+      },
+      {
+        "literal": "Zichao Li"
+      },
+      {
+        "literal": "Suyuchen Wang"
+      },
+      {
+        "literal": "Pierre-André Noël"
+      },
+      {
+        "literal": "Mats Leon Richter"
+      },
+      {
+        "literal": "Saverio Vadacchino"
+      },
+      {
+        "literal": "Shubham Agarwal"
+      },
+      {
+        "literal": "Sanket Biswas"
+      },
+      {
+        "literal": "Sara Shanian"
+      },
+      {
+        "literal": "Ying Zhang"
+      },
+      {
+        "literal": "Noah Bolger"
+      },
+      {
+        "literal": "Kurt MacDonald"
+      },
+      {
+        "literal": "Simon Fauvel"
+      },
+      {
+        "literal": "Sathwik Tejaswi"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Joao Monteiro"
+      },
+      {
+        "literal": "Krishnamurthy DJ Dvijotham"
+      },
+      {
+        "literal": "Torsten Scholak"
+      },
+      {
+        "literal": "Nicolas Chapados"
+      },
+      {
+        "literal": "Sepideh Kharagani"
+      },
+      {
+        "literal": "Sean Hughes"
+      },
+      {
+        "literal": "M. Özsu"
+      },
+      {
+        "literal": "Siva Reddy"
+      },
+      {
+        "literal": "Marco Pedersoli"
+      },
+      {
+        "literal": "Yoshua Bengio"
+      },
+      {
+        "literal": "Christopher Pal"
+      },
+      {
+        "literal": "Issam Laradji"
+      },
+      {
+        "literal": "Spandana Gella"
+      },
+      {
+        "literal": "Perouz Taslakian"
+      },
+      {
+        "literal": "David Vazquez"
+      },
+      {
+        "literal": "Sai Rajeswar"
+      }
+    ],
+    "citation-key": "arxiv_2412_04626",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "84b72716d09298ff04a3b54e4c17f56b86a54927fddcb8f481890dbea7fb7e2b",
+        "submitted_at": "2024-12-05T21:41:20Z",
+        "updated_at": "2025-03-17T16:32:24Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2412.04626v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.04626",
+      "catalog_id": "arxiv:2412.04626",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-12-05",
+      "identifiers": {
+        "arxiv": "2412.04626"
+      },
+      "record_updated_at": "2025-03-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2412.04626",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2024-12-05; Recorded arXiv version: v2; Recorded version updated: 2025-03-17T16:32:24Z.",
+    "title": "BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2412.09362v1",
     "archive": "arXiv",
     "archive_location": "2412.09362",
@@ -4332,6 +5180,55 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2502.03971v1",
+    "archive": "arXiv",
+    "archive_location": "2502.03971",
+    "author": [
+      {
+        "literal": "Jiaxi Yang"
+      },
+      {
+        "literal": "Haowen Hou"
+      }
+    ],
+    "citation-key": "arxiv_2502_03971",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "30fc6f087de93b602e80a121070134ca5946dfcbc4f59888e4400367488acacf",
+        "submitted_at": "2025-02-06T11:02:40Z",
+        "updated_at": "2025-02-06T11:02:40Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.03971v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.03971",
+      "catalog_id": "arxiv:2502.03971",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-06",
+      "identifiers": {
+        "arxiv": "2502.03971"
+      },
+      "record_updated_at": "2025-02-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.03971",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-06; Recorded arXiv version: v1; Recorded version updated: 2025-02-06T11:02:40Z.",
+    "title": "RWKV-UI: UI Understanding with Enhanced Perception and Reasoning",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2502.08226v2",
     "archive": "arXiv",
     "archive_location": "2502.08226",
@@ -4382,6 +5279,130 @@
     "title": "TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.13923v1",
+    "archive": "arXiv",
+    "archive_location": "2502.13923",
+    "author": [
+      {
+        "literal": "Shuai Bai"
+      },
+      {
+        "literal": "Keqin Chen"
+      },
+      {
+        "literal": "Xuejing Liu"
+      },
+      {
+        "literal": "Jialin Wang"
+      },
+      {
+        "literal": "Wenbin Ge"
+      },
+      {
+        "literal": "Sibo Song"
+      },
+      {
+        "literal": "Kai Dang"
+      },
+      {
+        "literal": "Peng Wang"
+      },
+      {
+        "literal": "Shijie Wang"
+      },
+      {
+        "literal": "Jun Tang"
+      },
+      {
+        "literal": "Humen Zhong"
+      },
+      {
+        "literal": "Yuanzhi Zhu"
+      },
+      {
+        "literal": "Mingkun Yang"
+      },
+      {
+        "literal": "Zhaohai Li"
+      },
+      {
+        "literal": "Jianqiang Wan"
+      },
+      {
+        "literal": "Pengfei Wang"
+      },
+      {
+        "literal": "Wei Ding"
+      },
+      {
+        "literal": "Zheren Fu"
+      },
+      {
+        "literal": "Yiheng Xu"
+      },
+      {
+        "literal": "Jiabo Ye"
+      },
+      {
+        "literal": "Xi Zhang"
+      },
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Zesen Cheng"
+      },
+      {
+        "literal": "Hang Zhang"
+      },
+      {
+        "literal": "Zhibo Yang"
+      },
+      {
+        "literal": "Haiyang Xu"
+      },
+      {
+        "literal": "Junyang Lin"
+      }
+    ],
+    "citation-key": "arxiv_2502_13923",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "da29b5cb2aa57ccdde2a365faa41657e05d0017ea0f932664f3a06a6dcdfb8c6",
+        "submitted_at": "2025-02-19T18:00:14Z",
+        "updated_at": "2025-02-19T18:00:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.13923v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.13923",
+      "catalog_id": "arxiv:2502.13923",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-02-19",
+      "identifiers": {
+        "arxiv": "2502.13923"
+      },
+      "record_updated_at": "2025-02-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.13923",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-19; Recorded arXiv version: v1; Recorded version updated: 2025-02-19T18:00:14Z.",
+    "title": "Qwen2.5-VL Technical Report",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2503.03196v2",
@@ -4440,6 +5461,67 @@
     "title": "SpiritSight Agent: Advanced GUI Agent with One Look",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.10809v3",
+    "archive": "arXiv",
+    "archive_location": "2503.10809",
+    "author": [
+      {
+        "literal": "Lukas Aichberger"
+      },
+      {
+        "literal": "Alasdair Paren"
+      },
+      {
+        "literal": "Guohao Li"
+      },
+      {
+        "literal": "Philip Torr"
+      },
+      {
+        "literal": "Yarin Gal"
+      },
+      {
+        "literal": "Adel Bibi"
+      }
+    ],
+    "citation-key": "arxiv_2503_10809",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7e5622a83d74c18761a7ab88c98682d3903ce0b6700c7e9814f069bfba26e796",
+        "submitted_at": "2025-03-13T18:59:12Z",
+        "updated_at": "2026-01-27T18:10:17Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2503.10809v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.10809",
+      "catalog_id": "arxiv:2503.10809",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-13",
+      "identifiers": {
+        "arxiv": "2503.10809"
+      },
+      "record_updated_at": "2026-01-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.10809",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-13; Recorded arXiv version: v3; Recorded version updated: 2026-01-27T18:10:17Z.",
+    "title": "MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2503.11170v1",
@@ -4501,6 +5583,55 @@
     "title": "DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.13843v2",
+    "archive": "arXiv",
+    "archive_location": "2503.13843",
+    "author": [
+      {
+        "literal": "Trisanth Srinivasan"
+      },
+      {
+        "literal": "Santosh Patapati"
+      }
+    ],
+    "citation-key": "arxiv_2503_13843",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ad657a8e90b268ba60790caf8c6d9f872a86efca8852e1408d40a8583bf96061",
+        "submitted_at": "2025-03-18T02:33:27Z",
+        "updated_at": "2025-07-06T08:41:00Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.13843v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.13843",
+      "catalog_id": "arxiv:2503.13843",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-18",
+      "identifiers": {
+        "arxiv": "2503.13843"
+      },
+      "record_updated_at": "2025-07-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.13843",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-18; Recorded arXiv version: v2; Recorded version updated: 2025-07-06T08:41:00Z.",
+    "title": "WebNav: An Intelligent Agent for Voice-Controlled Web Navigation",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2503.14021v1",
@@ -4716,6 +5847,334 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2504.07491v3",
+    "archive": "arXiv",
+    "archive_location": "2504.07491",
+    "author": [
+      {
+        "literal": "Kimi Team"
+      },
+      {
+        "literal": "Angang Du"
+      },
+      {
+        "literal": "Bohong Yin"
+      },
+      {
+        "literal": "Bowei Xing"
+      },
+      {
+        "literal": "Bowen Qu"
+      },
+      {
+        "literal": "Bowen Wang"
+      },
+      {
+        "literal": "Cheng Chen"
+      },
+      {
+        "literal": "Chenlin Zhang"
+      },
+      {
+        "literal": "Chenzhuang Du"
+      },
+      {
+        "literal": "Chu Wei"
+      },
+      {
+        "literal": "Congcong Wang"
+      },
+      {
+        "literal": "Dehao Zhang"
+      },
+      {
+        "literal": "Dikang Du"
+      },
+      {
+        "literal": "Dongliang Wang"
+      },
+      {
+        "literal": "Enming Yuan"
+      },
+      {
+        "literal": "Enzhe Lu"
+      },
+      {
+        "literal": "Fang Li"
+      },
+      {
+        "literal": "Flood Sung"
+      },
+      {
+        "literal": "Guangda Wei"
+      },
+      {
+        "literal": "Guokun Lai"
+      },
+      {
+        "literal": "Han Zhu"
+      },
+      {
+        "literal": "Hao Ding"
+      },
+      {
+        "literal": "Hao Hu"
+      },
+      {
+        "literal": "Hao Yang"
+      },
+      {
+        "literal": "Hao Zhang"
+      },
+      {
+        "literal": "Haoning Wu"
+      },
+      {
+        "literal": "Haotian Yao"
+      },
+      {
+        "literal": "Haoyu Lu"
+      },
+      {
+        "literal": "Heng Wang"
+      },
+      {
+        "literal": "Hongcheng Gao"
+      },
+      {
+        "literal": "Huabin Zheng"
+      },
+      {
+        "literal": "Jiaming Li"
+      },
+      {
+        "literal": "Jianlin Su"
+      },
+      {
+        "literal": "Jianzhou Wang"
+      },
+      {
+        "literal": "Jiaqi Deng"
+      },
+      {
+        "literal": "Jiezhong Qiu"
+      },
+      {
+        "literal": "Jin Xie"
+      },
+      {
+        "literal": "Jinhong Wang"
+      },
+      {
+        "literal": "Jingyuan Liu"
+      },
+      {
+        "literal": "Junjie Yan"
+      },
+      {
+        "literal": "Kun Ouyang"
+      },
+      {
+        "literal": "Liang Chen"
+      },
+      {
+        "literal": "Lin Sui"
+      },
+      {
+        "literal": "Longhui Yu"
+      },
+      {
+        "literal": "Mengfan Dong"
+      },
+      {
+        "literal": "Mengnan Dong"
+      },
+      {
+        "literal": "Nuo Xu"
+      },
+      {
+        "literal": "Pengyu Cheng"
+      },
+      {
+        "literal": "Qizheng Gu"
+      },
+      {
+        "literal": "Runjie Zhou"
+      },
+      {
+        "literal": "Shaowei Liu"
+      },
+      {
+        "literal": "Sihan Cao"
+      },
+      {
+        "literal": "Tao Yu"
+      },
+      {
+        "literal": "Tianhui Song"
+      },
+      {
+        "literal": "Tongtong Bai"
+      },
+      {
+        "literal": "Wei Song"
+      },
+      {
+        "literal": "Weiran He"
+      },
+      {
+        "literal": "Weixiao Huang"
+      },
+      {
+        "literal": "Weixin Xu"
+      },
+      {
+        "literal": "Xiaokun Yuan"
+      },
+      {
+        "literal": "Xingcheng Yao"
+      },
+      {
+        "literal": "Xingzhe Wu"
+      },
+      {
+        "literal": "Xinhao Li"
+      },
+      {
+        "literal": "Xinxing Zu"
+      },
+      {
+        "literal": "Xinyu Zhou"
+      },
+      {
+        "literal": "Xinyuan Wang"
+      },
+      {
+        "literal": "Y. Charles"
+      },
+      {
+        "literal": "Yan Zhong"
+      },
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Yangyang Hu"
+      },
+      {
+        "literal": "Yanru Chen"
+      },
+      {
+        "literal": "Yejie Wang"
+      },
+      {
+        "literal": "Yibo Liu"
+      },
+      {
+        "literal": "Yibo Miao"
+      },
+      {
+        "literal": "Yidao Qin"
+      },
+      {
+        "literal": "Yimin Chen"
+      },
+      {
+        "literal": "Yiping Bao"
+      },
+      {
+        "literal": "Yiqin Wang"
+      },
+      {
+        "literal": "Yongsheng Kang"
+      },
+      {
+        "literal": "Yuanxin Liu"
+      },
+      {
+        "literal": "Yuhao Dong"
+      },
+      {
+        "literal": "Yulun Du"
+      },
+      {
+        "literal": "Yuxin Wu"
+      },
+      {
+        "literal": "Yuzhi Wang"
+      },
+      {
+        "literal": "Yuzi Yan"
+      },
+      {
+        "literal": "Zaida Zhou"
+      },
+      {
+        "literal": "Zhaowei Li"
+      },
+      {
+        "literal": "Zhejun Jiang"
+      },
+      {
+        "literal": "Zheng Zhang"
+      },
+      {
+        "literal": "Zhilin Yang"
+      },
+      {
+        "literal": "Zhiqi Huang"
+      },
+      {
+        "literal": "Zihao Huang"
+      },
+      {
+        "literal": "Zijia Zhao"
+      },
+      {
+        "literal": "Ziwei Chen"
+      },
+      {
+        "literal": "Zongyu Lin"
+      }
+    ],
+    "citation-key": "arxiv_2504_07491",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8fd0393bcbcbc6a083e76b7730e49a4f2345a1a0246f8921e330a1436832d222",
+        "submitted_at": "2025-04-10T06:48:26Z",
+        "updated_at": "2025-06-23T13:45:50Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2504.07491v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.07491",
+      "catalog_id": "arxiv:2504.07491",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-04-10",
+      "identifiers": {
+        "arxiv": "2504.07491"
+      },
+      "record_updated_at": "2025-06-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.07491",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-10; Recorded arXiv version: v3; Recorded version updated: 2025-06-23T13:45:50Z.",
+    "title": "Kimi-VL Technical Report",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2504.16419v2",
     "archive": "arXiv",
     "archive_location": "2504.16419",
@@ -4896,6 +6355,704 @@
     "version": "5"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.07062v1",
+    "archive": "arXiv",
+    "archive_location": "2505.07062",
+    "author": [
+      {
+        "literal": "Dong Guo"
+      },
+      {
+        "literal": "Faming Wu"
+      },
+      {
+        "literal": "Feida Zhu"
+      },
+      {
+        "literal": "Fuxing Leng"
+      },
+      {
+        "literal": "Guang Shi"
+      },
+      {
+        "literal": "Haobin Chen"
+      },
+      {
+        "literal": "Haoqi Fan"
+      },
+      {
+        "literal": "Jian Wang"
+      },
+      {
+        "literal": "Jianyu Jiang"
+      },
+      {
+        "literal": "Jiawei Wang"
+      },
+      {
+        "literal": "Jingji Chen"
+      },
+      {
+        "literal": "Jingjia Huang"
+      },
+      {
+        "literal": "Kang Lei"
+      },
+      {
+        "literal": "Liping Yuan"
+      },
+      {
+        "literal": "Lishu Luo"
+      },
+      {
+        "literal": "Pengfei Liu"
+      },
+      {
+        "literal": "Qinghao Ye"
+      },
+      {
+        "literal": "Rui Qian"
+      },
+      {
+        "literal": "Shen Yan"
+      },
+      {
+        "literal": "Shixiong Zhao"
+      },
+      {
+        "literal": "Shuai Peng"
+      },
+      {
+        "literal": "Shuangye Li"
+      },
+      {
+        "literal": "Sihang Yuan"
+      },
+      {
+        "literal": "Sijin Wu"
+      },
+      {
+        "literal": "Tianheng Cheng"
+      },
+      {
+        "literal": "Weiwei Liu"
+      },
+      {
+        "literal": "Wenqian Wang"
+      },
+      {
+        "literal": "Xianhan Zeng"
+      },
+      {
+        "literal": "Xiao Liu"
+      },
+      {
+        "literal": "Xiaobo Qin"
+      },
+      {
+        "literal": "Xiaohan Ding"
+      },
+      {
+        "literal": "Xiaojun Xiao"
+      },
+      {
+        "literal": "Xiaoying Zhang"
+      },
+      {
+        "literal": "Xuanwei Zhang"
+      },
+      {
+        "literal": "Xuehan Xiong"
+      },
+      {
+        "literal": "Yanghua Peng"
+      },
+      {
+        "literal": "Yangrui Chen"
+      },
+      {
+        "literal": "Yanwei Li"
+      },
+      {
+        "literal": "Yanxu Hu"
+      },
+      {
+        "literal": "Yi Lin"
+      },
+      {
+        "literal": "Yiyuan Hu"
+      },
+      {
+        "literal": "Yiyuan Zhang"
+      },
+      {
+        "literal": "Youbin Wu"
+      },
+      {
+        "literal": "Yu Li"
+      },
+      {
+        "literal": "Yudong Liu"
+      },
+      {
+        "literal": "Yue Ling"
+      },
+      {
+        "literal": "Yujia Qin"
+      },
+      {
+        "literal": "Zanbo Wang"
+      },
+      {
+        "literal": "Zhiwu He"
+      },
+      {
+        "literal": "Aoxue Zhang"
+      },
+      {
+        "literal": "Bairen Yi"
+      },
+      {
+        "literal": "Bencheng Liao"
+      },
+      {
+        "literal": "Can Huang"
+      },
+      {
+        "literal": "Can Zhang"
+      },
+      {
+        "literal": "Chaorui Deng"
+      },
+      {
+        "literal": "Chaoyi Deng"
+      },
+      {
+        "literal": "Cheng Lin"
+      },
+      {
+        "literal": "Cheng Yuan"
+      },
+      {
+        "literal": "Chenggang Li"
+      },
+      {
+        "literal": "Chenhui Gou"
+      },
+      {
+        "literal": "Chenwei Lou"
+      },
+      {
+        "literal": "Chengzhi Wei"
+      },
+      {
+        "literal": "Chundian Liu"
+      },
+      {
+        "literal": "Chunyuan Li"
+      },
+      {
+        "literal": "Deyao Zhu"
+      },
+      {
+        "literal": "Donghong Zhong"
+      },
+      {
+        "literal": "Feng Li"
+      },
+      {
+        "literal": "Feng Zhang"
+      },
+      {
+        "literal": "Gang Wu"
+      },
+      {
+        "literal": "Guodong Li"
+      },
+      {
+        "literal": "Guohong Xiao"
+      },
+      {
+        "literal": "Haibin Lin"
+      },
+      {
+        "literal": "Haihua Yang"
+      },
+      {
+        "literal": "Haoming Wang"
+      },
+      {
+        "literal": "Heng Ji"
+      },
+      {
+        "literal": "Hongxiang Hao"
+      },
+      {
+        "literal": "Hui Shen"
+      },
+      {
+        "literal": "Huixia Li"
+      },
+      {
+        "literal": "Jiahao Li"
+      },
+      {
+        "literal": "Jialong Wu"
+      },
+      {
+        "literal": "Jianhua Zhu"
+      },
+      {
+        "literal": "Jianpeng Jiao"
+      },
+      {
+        "literal": "Jiashi Feng"
+      },
+      {
+        "literal": "Jiaze Chen"
+      },
+      {
+        "literal": "Jianhui Duan"
+      },
+      {
+        "literal": "Jihao Liu"
+      },
+      {
+        "literal": "Jin Zeng"
+      },
+      {
+        "literal": "Jingqun Tang"
+      },
+      {
+        "literal": "Jingyu Sun"
+      },
+      {
+        "literal": "Joya Chen"
+      },
+      {
+        "literal": "Jun Long"
+      },
+      {
+        "literal": "Junda Feng"
+      },
+      {
+        "literal": "Junfeng Zhan"
+      },
+      {
+        "literal": "Junjie Fang"
+      },
+      {
+        "literal": "Junting Lu"
+      },
+      {
+        "literal": "Kai Hua"
+      },
+      {
+        "literal": "Kai Liu"
+      },
+      {
+        "literal": "Kai Shen"
+      },
+      {
+        "literal": "Kaiyuan Zhang"
+      },
+      {
+        "literal": "Ke Shen"
+      },
+      {
+        "literal": "Ke Wang"
+      },
+      {
+        "literal": "Keyu Pan"
+      },
+      {
+        "literal": "Kun Zhang"
+      },
+      {
+        "literal": "Kunchang Li"
+      },
+      {
+        "literal": "Lanxin Li"
+      },
+      {
+        "literal": "Lei Li"
+      },
+      {
+        "literal": "Lei Shi"
+      },
+      {
+        "literal": "Li Han"
+      },
+      {
+        "literal": "Liang Xiang"
+      },
+      {
+        "literal": "Liangqiang Chen"
+      },
+      {
+        "literal": "Lin Chen"
+      },
+      {
+        "literal": "Lin Li"
+      },
+      {
+        "literal": "Lin Yan"
+      },
+      {
+        "literal": "Liying Chi"
+      },
+      {
+        "literal": "Longxiang Liu"
+      },
+      {
+        "literal": "Mengfei Du"
+      },
+      {
+        "literal": "Mingxuan Wang"
+      },
+      {
+        "literal": "Ningxin Pan"
+      },
+      {
+        "literal": "Peibin Chen"
+      },
+      {
+        "literal": "Pengfei Chen"
+      },
+      {
+        "literal": "Pengfei Wu"
+      },
+      {
+        "literal": "Qingqing Yuan"
+      },
+      {
+        "literal": "Qingyao Shuai"
+      },
+      {
+        "literal": "Qiuyan Tao"
+      },
+      {
+        "literal": "Renjie Zheng"
+      },
+      {
+        "literal": "Renrui Zhang"
+      },
+      {
+        "literal": "Ru Zhang"
+      },
+      {
+        "literal": "Rui Wang"
+      },
+      {
+        "literal": "Rui Yang"
+      },
+      {
+        "literal": "Rui Zhao"
+      },
+      {
+        "literal": "Shaoqiang Xu"
+      },
+      {
+        "literal": "Shihao Liang"
+      },
+      {
+        "literal": "Shipeng Yan"
+      },
+      {
+        "literal": "Shu Zhong"
+      },
+      {
+        "literal": "Shuaishuai Cao"
+      },
+      {
+        "literal": "Shuangzhi Wu"
+      },
+      {
+        "literal": "Shufan Liu"
+      },
+      {
+        "literal": "Shuhan Chang"
+      },
+      {
+        "literal": "Songhua Cai"
+      },
+      {
+        "literal": "Tenglong Ao"
+      },
+      {
+        "literal": "Tianhao Yang"
+      },
+      {
+        "literal": "Tingting Zhang"
+      },
+      {
+        "literal": "Wanjun Zhong"
+      },
+      {
+        "literal": "Wei Jia"
+      },
+      {
+        "literal": "Wei Weng"
+      },
+      {
+        "literal": "Weihao Yu"
+      },
+      {
+        "literal": "Wenhao Huang"
+      },
+      {
+        "literal": "Wenjia Zhu"
+      },
+      {
+        "literal": "Wenli Yang"
+      },
+      {
+        "literal": "Wenzhi Wang"
+      },
+      {
+        "literal": "Xiang Long"
+      },
+      {
+        "literal": "XiangRui Yin"
+      },
+      {
+        "literal": "Xiao Li"
+      },
+      {
+        "literal": "Xiaolei Zhu"
+      },
+      {
+        "literal": "Xiaoying Jia"
+      },
+      {
+        "literal": "Xijin Zhang"
+      },
+      {
+        "literal": "Xin Liu"
+      },
+      {
+        "literal": "Xinchen Zhang"
+      },
+      {
+        "literal": "Xinyu Yang"
+      },
+      {
+        "literal": "Xiongcai Luo"
+      },
+      {
+        "literal": "Xiuli Chen"
+      },
+      {
+        "literal": "Xuantong Zhong"
+      },
+      {
+        "literal": "Xuefeng Xiao"
+      },
+      {
+        "literal": "Xujing Li"
+      },
+      {
+        "literal": "Yan Wu"
+      },
+      {
+        "literal": "Yawei Wen"
+      },
+      {
+        "literal": "Yifan Du"
+      },
+      {
+        "literal": "Yihao Zhang"
+      },
+      {
+        "literal": "Yining Ye"
+      },
+      {
+        "literal": "Yonghui Wu"
+      },
+      {
+        "literal": "Yu Liu"
+      },
+      {
+        "literal": "Yu Yue"
+      },
+      {
+        "literal": "Yufeng Zhou"
+      },
+      {
+        "literal": "Yufeng Yuan"
+      },
+      {
+        "literal": "Yuhang Xu"
+      },
+      {
+        "literal": "Yuhong Yang"
+      },
+      {
+        "literal": "Yun Zhang"
+      },
+      {
+        "literal": "Yunhao Fang"
+      },
+      {
+        "literal": "Yuntao Li"
+      },
+      {
+        "literal": "Yurui Ren"
+      },
+      {
+        "literal": "Yuwen Xiong"
+      },
+      {
+        "literal": "Zehua Hong"
+      },
+      {
+        "literal": "Zehua Wang"
+      },
+      {
+        "literal": "Zewei Sun"
+      },
+      {
+        "literal": "Zeyu Wang"
+      },
+      {
+        "literal": "Zhao Cai"
+      },
+      {
+        "literal": "Zhaoyue Zha"
+      },
+      {
+        "literal": "Zhecheng An"
+      },
+      {
+        "literal": "Zhehui Zhao"
+      },
+      {
+        "literal": "Zhengzhuo Xu"
+      },
+      {
+        "literal": "Zhipeng Chen"
+      },
+      {
+        "literal": "Zhiyong Wu"
+      },
+      {
+        "literal": "Zhuofan Zheng"
+      },
+      {
+        "literal": "Zihao Wang"
+      },
+      {
+        "literal": "Zilong Huang"
+      },
+      {
+        "literal": "Ziyu Zhu"
+      },
+      {
+        "literal": "Zuquan Song"
+      }
+    ],
+    "citation-key": "arxiv_2505_07062",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3f64de3784ee62393b50c3e56950736d7eb83bc26d4525fd603dddbaefc9b81f",
+        "submitted_at": "2025-05-11T17:28:30Z",
+        "updated_at": "2025-05-11T17:28:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.07062v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.07062",
+      "catalog_id": "arxiv:2505.07062",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-11",
+      "identifiers": {
+        "arxiv": "2505.07062"
+      },
+      "record_updated_at": "2025-05-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.07062",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-11; Recorded arXiv version: v1; Recorded version updated: 2025-05-11T17:28:30Z.",
+    "title": "Seed1.5-VL Technical Report",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.23678v3",
+    "archive": "arXiv",
+    "archive_location": "2505.23678",
+    "author": [
+      {
+        "literal": "Gabriel Sarch"
+      },
+      {
+        "literal": "Snigdha Saha"
+      },
+      {
+        "literal": "Naitik Khandelwal"
+      },
+      {
+        "literal": "Ayush Jain"
+      },
+      {
+        "literal": "Michael J. Tarr"
+      },
+      {
+        "literal": "Aviral Kumar"
+      },
+      {
+        "literal": "Katerina Fragkiadaki"
+      }
+    ],
+    "citation-key": "arxiv_2505_23678",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0a88e661433c5d2d92f1787c8257a05b0ad7590523c5cc2adf1a88362f6cbcd5",
+        "submitted_at": "2025-05-29T17:20:26Z",
+        "updated_at": "2026-05-15T17:27:46Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2505.23678v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.23678",
+      "catalog_id": "arxiv:2505.23678",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-29",
+      "identifiers": {
+        "arxiv": "2505.23678"
+      },
+      "record_updated_at": "2026-05-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.23678",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-29; Recorded arXiv version: v3; Recorded version updated: 2026-05-15T17:27:46Z.",
+    "title": "Grounded Reinforcement Learning for Visual Reasoning",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.24878v1",
     "archive": "arXiv",
     "archive_location": "2505.24878",
@@ -4953,6 +7110,70 @@
     },
     "note": "First published: 2025-05-30; Recorded arXiv version: v1; Recorded version updated: 2025-05-30T17:59:55Z.",
     "title": "Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.01520v1",
+    "archive": "arXiv",
+    "archive_location": "2506.01520",
+    "author": [
+      {
+        "literal": "Bobo Li"
+      },
+      {
+        "literal": "Yuheng Wang"
+      },
+      {
+        "literal": "Hao Fei"
+      },
+      {
+        "literal": "Juncheng Li"
+      },
+      {
+        "literal": "Wei Ji"
+      },
+      {
+        "literal": "Mong-Li Lee"
+      },
+      {
+        "literal": "Wynne Hsu"
+      }
+    ],
+    "citation-key": "arxiv_2506_01520",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d76a3740a32d528b3ee123b1b504be0ade628c6c44b842d835fddaa68ba649f7",
+        "submitted_at": "2025-06-02T10:34:57Z",
+        "updated_at": "2025-06-02T10:34:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.01520v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.01520",
+      "catalog_id": "arxiv:2506.01520",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-02",
+      "identifiers": {
+        "arxiv": "2506.01520"
+      },
+      "record_updated_at": "2025-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.01520",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-02; Recorded arXiv version: v1; Recorded version updated: 2025-06-02T10:34:57Z.",
+    "title": "FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents",
     "type": "article",
     "version": "1"
   },
@@ -5081,6 +7302,64 @@
     },
     "note": "First published: 2025-07-08; Recorded arXiv version: v1; Recorded version updated: 2025-07-08T04:56:57Z.",
     "title": "R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.10202v1",
+    "archive": "arXiv",
+    "archive_location": "2507.10202",
+    "author": [
+      {
+        "literal": "Jaeseong Lee"
+      },
+      {
+        "literal": "Yeeun Choi"
+      },
+      {
+        "literal": "Heechan Choi"
+      },
+      {
+        "literal": "Hanjung Kim"
+      },
+      {
+        "literal": "Seonjoo Kim"
+      }
+    ],
+    "citation-key": "arxiv_2507_10202",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2c73207679d34946e6f77fc573bac45c8b77de1772cd7b2c7211cd1b653da931",
+        "submitted_at": "2025-07-14T12:14:53Z",
+        "updated_at": "2025-07-14T12:14:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.10202v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.10202",
+      "catalog_id": "arxiv:2507.10202",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-07-14",
+      "identifiers": {
+        "arxiv": "2507.10202"
+      },
+      "record_updated_at": "2025-07-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.10202",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-14; Recorded arXiv version: v1; Recorded version updated: 2025-07-14T12:14:53Z.",
+    "title": "A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images",
     "type": "article",
     "version": "1"
   },

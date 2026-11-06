@@ -26,8 +26,12 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
   InfraMind explores industrial management GUIs using virtual-machine snapshots and builds memory for planning and hierarchical state recognition. Its framework also studies knowledge distillation and safety checks on open-source and commercial data-center management platforms.
 - [BIMgent: Towards Autonomous Building Modeling via Computer-use Agents](https://awesomecua.com/resources/arxiv-2506-07217/) — 2025-06-08
   BIMgent plans software-specific workflows and executes GUI actions for building-information modeling. It evaluates multimodal building design and reconstruction tasks in professional authoring software.
+- [Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation](https://awesomecua.com/resources/arxiv-2501-02863/) — 2025-01-06
+  Sphinx benchmarks foundation models on goal-based mobile UI navigation, using app test cases and a toolkit that identifies different failure modes.
 - [IDA: Breaking Barriers in No-code UI Automation Through Large Language Models and Human-Centric Design](https://awesomecua.com/resources/arxiv-2407-15673/) — 2024-07-22
   IDA helps business users create web UI automation through guided demonstrations, a semantic programming model, and a teaching-oriented interface. A prototype user study examines automation creation with enterprise applications by users without programming backgrounds.
+- [Automating the Enterprise with Foundation Models](https://awesomecua.com/resources/arxiv-2405-03710/) — 2024-05-03
+  ECLAIR uses multimodal foundation models to automate enterprise workflows from natural-language descriptions, with initial studies of workflow understanding and completion.
 
 ## Engineering & industry
 

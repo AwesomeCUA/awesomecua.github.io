@@ -94,10 +94,18 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
   Studies backdoor risks in mobile GUI agents through AgentGhost, which combines goal-level and interaction-history triggers during model training. The paper evaluates multiple mobile agents and a tailored defense.
 - [ScaleTrack: Scaling and back-tracking Automated GUI Agents](https://awesomecua.com/resources/arxiv-2505-00416/) — 2025-05-01
   ScaleTrack combines a unified collection of GUI grounding samples with a planning objective that predicts the next action while reconstructing prior actions. This backward prediction links the current screenshot to interaction history during agent training.
+- [R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory](https://awesomecua.com/resources/arxiv-2501-12485/) — 2025-01-21
+  R2D2 gives web agents a replay-buffer map of visited pages and a reflection step for analyzing errors and revising navigation strategies.
+- [Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments](https://awesomecua.com/resources/arxiv-2501-10893/) — 2025-01-18
+  Learn-by-interact synthesizes agent interaction trajectories from documentation and derives instructions from their histories for training or in-context use across web and desktop tasks.
 - [From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents](https://awesomecua.com/resources/arxiv-2410-23555/) — 2024-10-31
   Analyzes how interaction history and webpage representation affect multiturn web-agent generalization across unfamiliar websites, task categories, and geographic settings.
 - [Lightweight Neural App Control](https://awesomecua.com/resources/arxiv-2410-17883/) — 2024-10-23
   LiMAC combines a compact Action Transformer with a fine-tuned vision-language model for Android app control. It uses textual goals and histories of screenshots and UI trees to predict actions, with evaluation on two mobile-control datasets.
+- [Large Language Models Empowered Personalized Web Agents](https://awesomecua.com/resources/arxiv-2410-17236/) — 2024-10-22
+  PersonalWAB benchmarks personalized web tasks, while PUMA retrieves relevant past web behavior to adapt agents' instruction handling and actions.
+- [ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning](https://awesomecua.com/resources/arxiv-2410-02052/) — 2024-10-02
+  ExACT combines reflective tree search with learning from search experience to help web agents explore, assess states and backtrack on VisualWebArena.
 - [Dynamic Planning for LLM-based Graphical User Interface Automation](https://awesomecua.com/resources/arxiv-2410-00467/) — 2024-10-01
   Dynamic Planning of Thoughts revises a mobile GUI plan using current environmental feedback and execution history. The study compares this planning strategy with long-dialogue prompting and examines its behavior on unfamiliar tasks and different language-model backbones.
 - [Identifying User Goals from UI Trajectories](https://awesomecua.com/resources/arxiv-2406-14314/) — 2024-06-20

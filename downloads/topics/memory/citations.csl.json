@@ -128,6 +128,73 @@
     "version": "4"
   },
   {
+    "URL": "https://arxiv.org/abs/2310.15780v1",
+    "archive": "arXiv",
+    "archive_location": "2310.15780",
+    "author": [
+      {
+        "literal": "Zhe Liu"
+      },
+      {
+        "literal": "Chunyang Chen"
+      },
+      {
+        "literal": "Junjie Wang"
+      },
+      {
+        "literal": "Mengzhuo Chen"
+      },
+      {
+        "literal": "Boyu Wu"
+      },
+      {
+        "literal": "Xing Che"
+      },
+      {
+        "literal": "Dandan Wang"
+      },
+      {
+        "literal": "Qing Wang"
+      }
+    ],
+    "citation-key": "arxiv_2310_15780",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1a9d6515db610c41e595e795749a51ac32569419795811ff8e9a6ef400879cfd",
+        "submitted_at": "2023-10-24T12:30:26Z",
+        "updated_at": "2023-10-24T12:30:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2310.15780v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.15780",
+      "catalog_id": "arxiv:2310.15780",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-10-24",
+      "identifiers": {
+        "arxiv": "2310.15780"
+      },
+      "record_updated_at": "2023-10-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.15780",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-24; Recorded arXiv version: v1; Recorded version updated: 2023-10-24T12:30:26Z.",
+    "title": "Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2312.03003v3",
     "archive": "arXiv",
     "archive_location": "2312.03003",
@@ -484,6 +551,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2403.08978v2",
+    "archive": "arXiv",
+    "archive_location": "2403.08978",
+    "author": [
+      {
+        "literal": "Yao Fu"
+      },
+      {
+        "literal": "Dong-Ki Kim"
+      },
+      {
+        "literal": "Jaekyeom Kim"
+      },
+      {
+        "literal": "Sungryull Sohn"
+      },
+      {
+        "literal": "Lajanugen Logeswaran"
+      },
+      {
+        "literal": "Kyunghoon Bae"
+      },
+      {
+        "literal": "Honglak Lee"
+      }
+    ],
+    "citation-key": "arxiv_2403_08978",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ed88ff5de413ffb0a0090d56f1ea565f89ce7b60230dcde458e3045ad4446323",
+        "submitted_at": "2024-03-13T22:06:03Z",
+        "updated_at": "2024-12-03T07:36:47Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2403.08978v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.08978",
+      "catalog_id": "arxiv:2403.08978",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-13",
+      "identifiers": {
+        "arxiv": "2403.08978"
+      },
+      "record_updated_at": "2024-12-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.08978",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-13; Recorded arXiv version: v2; Recorded version updated: 2024-12-03T07:36:47Z.",
+    "title": "AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2404.05902v1",
     "archive": "arXiv",
     "archive_location": "2404.05902",
@@ -696,6 +827,67 @@
     "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.14596v6",
+    "archive": "arXiv",
+    "archive_location": "2406.14596",
+    "author": [
+      {
+        "literal": "Gabriel Sarch"
+      },
+      {
+        "literal": "Lawrence Jang"
+      },
+      {
+        "literal": "Michael J. Tarr"
+      },
+      {
+        "literal": "William W. Cohen"
+      },
+      {
+        "literal": "Kenneth Marino"
+      },
+      {
+        "literal": "Katerina Fragkiadaki"
+      }
+    ],
+    "citation-key": "arxiv_2406_14596",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "698e2c444a587a109bbc7b3d64b812a3d0cf2ef7148ff02e3e6fe13f19f193fd",
+        "submitted_at": "2024-06-20T17:45:02Z",
+        "updated_at": "2025-09-18T02:44:34Z",
+        "version": 6,
+        "versioned_url": "https://arxiv.org/abs/2406.14596v6"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.14596",
+      "catalog_id": "arxiv:2406.14596",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-06-20",
+      "identifiers": {
+        "arxiv": "2406.14596"
+      },
+      "record_updated_at": "2025-09-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.14596",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-20; Recorded arXiv version: v6; Recorded version updated: 2025-09-18T02:44:34Z.",
+    "title": "VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought",
+    "type": "article",
+    "version": "6"
   },
   {
     "URL": "https://arxiv.org/abs/2408.11824v4",
@@ -1101,6 +1293,70 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2410.17236v2",
+    "archive": "arXiv",
+    "archive_location": "2410.17236",
+    "author": [
+      {
+        "literal": "Hongru Cai"
+      },
+      {
+        "literal": "Yongqi Li"
+      },
+      {
+        "literal": "Wenjie Wang"
+      },
+      {
+        "literal": "Fengbin Zhu"
+      },
+      {
+        "literal": "Xiaoyu Shen"
+      },
+      {
+        "literal": "Wenjie Li"
+      },
+      {
+        "literal": "Tat-Seng Chua"
+      }
+    ],
+    "citation-key": "arxiv_2410_17236",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "08321196802dd2784d3bd45df49e6659de09e00c98319cee83107d4978d7ce7b",
+        "submitted_at": "2024-10-22T17:54:45Z",
+        "updated_at": "2025-03-24T17:51:54Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2410.17236v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.17236",
+      "catalog_id": "arxiv:2410.17236",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-10-22",
+      "identifiers": {
+        "arxiv": "2410.17236"
+      },
+      "record_updated_at": "2025-03-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.17236",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-22; Recorded arXiv version: v2; Recorded version updated: 2025-03-24T17:51:54Z.",
+    "title": "Large Language Models Empowered Personalized Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2410.19100v3",
     "archive": "arXiv",
     "archive_location": "2410.19100",
@@ -1367,6 +1623,128 @@
     "title": "Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2501.12485v3",
+    "archive": "arXiv",
+    "archive_location": "2501.12485",
+    "author": [
+      {
+        "literal": "Tenghao Huang"
+      },
+      {
+        "literal": "Kinjal Basu"
+      },
+      {
+        "literal": "Ibrahim Abdelaziz"
+      },
+      {
+        "literal": "Pavan Kapanipathi"
+      },
+      {
+        "literal": "Jonathan May"
+      },
+      {
+        "literal": "Muhao Chen"
+      }
+    ],
+    "citation-key": "arxiv_2501_12485",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c45259cebe93114242bc189aeaea7d3789f30ebf41af9ca3f8ef327ea4e71f82",
+        "submitted_at": "2025-01-21T20:21:58Z",
+        "updated_at": "2025-07-22T04:14:16Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2501.12485v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2501.12485",
+      "catalog_id": "arxiv:2501.12485",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-01-21",
+      "identifiers": {
+        "arxiv": "2501.12485"
+      },
+      "record_updated_at": "2025-07-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2501.12485",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2025-01-21; Recorded arXiv version: v3; Recorded version updated: 2025-07-22T04:14:16Z.",
+    "title": "R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.16796v1",
+    "archive": "arXiv",
+    "archive_location": "2502.16796",
+    "author": [
+      {
+        "literal": "Yuxuan Liu"
+      },
+      {
+        "literal": "Hongda Sun"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Bo Du"
+      },
+      {
+        "literal": "Rui Yan"
+      }
+    ],
+    "citation-key": "arxiv_2502_16796",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3522393279755638a2ca417e42a664f17fdad6991b9ce1103f2ef792090d4966",
+        "submitted_at": "2025-02-24T03:12:45Z",
+        "updated_at": "2025-02-24T03:12:45Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.16796v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.16796",
+      "catalog_id": "arxiv:2502.16796",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-24",
+      "identifiers": {
+        "arxiv": "2502.16796"
+      },
+      "record_updated_at": "2025-02-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.16796",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-24; Recorded arXiv version: v1; Recorded version updated: 2025-02-24T03:12:45Z.",
+    "title": "MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2502.17110v3",
@@ -1750,6 +2128,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2504.06821v2",
+    "archive": "arXiv",
+    "archive_location": "2504.06821",
+    "author": [
+      {
+        "literal": "Zora Zhiruo Wang"
+      },
+      {
+        "literal": "Apurva Gandhi"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Daniel Fried"
+      }
+    ],
+    "citation-key": "arxiv_2504_06821",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54688f083a219d1f6b871967cecb7319dfe17c3eb69f6a25affe25a53149fae4",
+        "submitted_at": "2025-04-09T12:25:37Z",
+        "updated_at": "2025-08-29T15:46:04Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2504.06821v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.06821",
+      "catalog_id": "arxiv:2504.06821",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-09",
+      "identifiers": {
+        "arxiv": "2504.06821"
+      },
+      "record_updated_at": "2025-08-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.06821",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-09; Recorded arXiv version: v2; Recorded version updated: 2025-08-29T15:46:04Z.",
+    "title": "Inducing Programmatic Skills for Agentic Tasks",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2504.13805v1",
     "archive": "arXiv",
     "archive_location": "2504.13805",
@@ -2106,6 +2539,85 @@
     "title": "Agent-SAMA: State-Aware Mobile Assistant",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.01952v2",
+    "archive": "arXiv",
+    "archive_location": "2506.01952",
+    "author": [
+      {
+        "literal": "Atsuyuki Miyai"
+      },
+      {
+        "literal": "Zaiying Zhao"
+      },
+      {
+        "literal": "Kazuki Egashira"
+      },
+      {
+        "literal": "Atsuki Sato"
+      },
+      {
+        "literal": "Tatsumi Sunada"
+      },
+      {
+        "literal": "Shota Onohara"
+      },
+      {
+        "literal": "Hiromasa Yamanishi"
+      },
+      {
+        "literal": "Mashiro Toyooka"
+      },
+      {
+        "literal": "Kunato Nishina"
+      },
+      {
+        "literal": "Ryoma Maeda"
+      },
+      {
+        "literal": "Kiyoharu Aizawa"
+      },
+      {
+        "literal": "Toshihiko Yamasaki"
+      }
+    ],
+    "citation-key": "arxiv_2506_01952",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3bbf69a32f626ae8cf012d670aeae75d5d9585448f744ff441a764fe58141f4d",
+        "submitted_at": "2025-06-02T17:59:45Z",
+        "updated_at": "2026-08-08T16:12:12Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2506.01952v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.01952",
+      "catalog_id": "arxiv:2506.01952",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-02",
+      "identifiers": {
+        "arxiv": "2506.01952"
+      },
+      "record_updated_at": "2026-08-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.01952",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-02; Recorded arXiv version: v2; Recorded version updated: 2026-08-08T16:12:12Z.",
+    "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2506.02539v3",

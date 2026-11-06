@@ -70,6 +70,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2106.00133v2",
+    "archive": "arXiv",
+    "archive_location": "2106.00133",
+    "author": [
+      {
+        "literal": "Maayan Shvo"
+      },
+      {
+        "literal": "Zhiming Hu"
+      },
+      {
+        "literal": "Rodrigo Toro Icarte"
+      },
+      {
+        "literal": "Iqbal Mohomed"
+      },
+      {
+        "literal": "Allan Jepson"
+      },
+      {
+        "literal": "Sheila A. McIlraith"
+      }
+    ],
+    "citation-key": "arxiv_2106_00133",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "861f231a3751fa1346e81a1fc1c3d7450f5739b730bed77d9d4834b53d0ee561",
+        "submitted_at": "2021-05-31T23:02:38Z",
+        "updated_at": "2021-06-06T17:56:58Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2106.00133v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2106.00133",
+      "catalog_id": "arxiv:2106.00133",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2021-05-31",
+      "identifiers": {
+        "arxiv": "2106.00133"
+      },
+      "record_updated_at": "2021-06-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2106.00133",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2021-05-31; Recorded arXiv version: v2; Recorded version updated: 2021-06-06T17:56:58Z.",
+    "title": "AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2305.08144v4",
     "archive": "arXiv",
     "archive_location": "2305.08144",
@@ -207,6 +268,121 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2407.16741v3",
+    "archive": "arXiv",
+    "archive_location": "2407.16741",
+    "author": [
+      {
+        "literal": "Xingyao Wang"
+      },
+      {
+        "literal": "Boxuan Li"
+      },
+      {
+        "literal": "Yufan Song"
+      },
+      {
+        "literal": "Frank F. Xu"
+      },
+      {
+        "literal": "Xiangru Tang"
+      },
+      {
+        "literal": "Mingchen Zhuge"
+      },
+      {
+        "literal": "Jiayi Pan"
+      },
+      {
+        "literal": "Yueqi Song"
+      },
+      {
+        "literal": "Bowen Li"
+      },
+      {
+        "literal": "Jaskirat Singh"
+      },
+      {
+        "literal": "Hoang H. Tran"
+      },
+      {
+        "literal": "Fuqiang Li"
+      },
+      {
+        "literal": "Ren Ma"
+      },
+      {
+        "literal": "Mingzhang Zheng"
+      },
+      {
+        "literal": "Bill Qian"
+      },
+      {
+        "literal": "Yanjun Shao"
+      },
+      {
+        "literal": "Niklas Muennighoff"
+      },
+      {
+        "literal": "Yizhe Zhang"
+      },
+      {
+        "literal": "Binyuan Hui"
+      },
+      {
+        "literal": "Junyang Lin"
+      },
+      {
+        "literal": "Robert Brennan"
+      },
+      {
+        "literal": "Hao Peng"
+      },
+      {
+        "literal": "Heng Ji"
+      },
+      {
+        "literal": "Graham Neubig"
+      }
+    ],
+    "citation-key": "arxiv_2407_16741",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cb94bd5d52d4abf7ff8511a64ac49d4699c795baa0446cd47e2b79616cc10408",
+        "submitted_at": "2024-07-23T17:50:43Z",
+        "updated_at": "2025-04-18T18:14:31Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2407.16741v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.16741",
+      "catalog_id": "arxiv:2407.16741",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-07-23",
+      "identifiers": {
+        "arxiv": "2407.16741"
+      },
+      "record_updated_at": "2025-04-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2407.16741",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2024-07-23; Recorded arXiv version: v3; Recorded version updated: 2025-04-18T18:14:31Z.",
+    "title": "OpenHands: An Open Platform for AI Software Developers as Generalist Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2412.05467v4",
     "archive": "arXiv",
     "archive_location": "2412.05467",
@@ -308,6 +484,170 @@
     "title": "The BrowserGym Ecosystem for Web Agent Research",
     "type": "article",
     "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.18356v1",
+    "archive": "arXiv",
+    "archive_location": "2502.18356",
+    "author": [
+      {
+        "literal": "George Thomas"
+      },
+      {
+        "literal": "Alex J. Chan"
+      },
+      {
+        "literal": "Jikun Kang"
+      },
+      {
+        "literal": "Wenqi Wu"
+      },
+      {
+        "literal": "Filippos Christianos"
+      },
+      {
+        "literal": "Fraser Greenlee"
+      },
+      {
+        "literal": "Andy Toulis"
+      },
+      {
+        "literal": "Marvin Purtorab"
+      }
+    ],
+    "citation-key": "arxiv_2502_18356",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c21fbd381caec6348dfdc183a57331e316d8747715425843451b563b3ad17999",
+        "submitted_at": "2025-02-25T16:45:08Z",
+        "updated_at": "2025-02-25T16:45:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.18356v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.18356",
+      "catalog_id": "arxiv:2502.18356",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-25",
+      "identifiers": {
+        "arxiv": "2502.18356"
+      },
+      "record_updated_at": "2025-02-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.18356",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-25; Recorded arXiv version: v1; Recorded version updated: 2025-02-25T16:45:08Z.",
+    "title": "WebGames: Challenging General-Purpose Web-Browsing AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.11543v2",
+    "archive": "arXiv",
+    "archive_location": "2504.11543",
+    "author": [
+      {
+        "literal": "Divyansh Garg"
+      },
+      {
+        "literal": "Shaun VanWeelden"
+      },
+      {
+        "literal": "Diego Caples"
+      },
+      {
+        "literal": "Andis Draguns"
+      },
+      {
+        "literal": "Nikil Ravi"
+      },
+      {
+        "literal": "Pranav Putta"
+      },
+      {
+        "literal": "Naman Garg"
+      },
+      {
+        "literal": "Tomas Abraham"
+      },
+      {
+        "literal": "Michael Lara"
+      },
+      {
+        "literal": "Federico Lopez"
+      },
+      {
+        "literal": "James Liu"
+      },
+      {
+        "literal": "Atharva Gundawar"
+      },
+      {
+        "literal": "Prannay Hebbar"
+      },
+      {
+        "literal": "Youngchul Joo"
+      },
+      {
+        "literal": "Jindong Gu"
+      },
+      {
+        "literal": "Charles London"
+      },
+      {
+        "literal": "Christian Schroeder de Witt"
+      },
+      {
+        "literal": "Sumeet Motwani"
+      }
+    ],
+    "citation-key": "arxiv_2504_11543",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d8fe0d8b34d167311d1c37934fdb06e81939652ea579b2578a40b6a709fbfb91",
+        "submitted_at": "2025-04-15T18:22:55Z",
+        "updated_at": "2025-04-17T16:28:46Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2504.11543v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.11543",
+      "catalog_id": "arxiv:2504.11543",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-15",
+      "identifiers": {
+        "arxiv": "2504.11543"
+      },
+      "record_updated_at": "2025-04-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.11543",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-15; Recorded arXiv version: v2; Recorded version updated: 2025-04-17T16:28:46Z.",
+    "title": "REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2505.21936v5",

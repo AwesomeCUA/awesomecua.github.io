@@ -37,6 +37,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=1103.0086%2C1310.4774%2C1701.01216%2C1805.01954%2C1812.09195%2C1812.11470%2C1902.07257%2C1909.07646%2C1909.08053%2C1910.00177%2C1911.08265%2C2006.04779%2C2007.09554%2C2009.09158%2C2010.01083%2C2106.00133%2C2106.01345%2C2109.00137%2C2109.07914%2C2110.06169%2C2208.02685%2C2212.04732%2C2212.08073%2C2303.11381%2C2303.17651%2C2303.18223%2C2304.11277%2C2305.18290%2C2306.01987%2C2306.08129%2C2306.14824%2C2308.01399%2C2308.05898%2C2308.12966%2C2309.00267%2C2309.06180%2C2309.07864%2C2309.14365%2C2309.16609%2C2310.02424%2C2310.05915%2C2310.06830%2C2310.07128%2C2310.12823%2C2310.13289%2C2310.13518%2C2310.15780%2C2310.17796%2C2311.05437%2C2311.09724&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:00:44Z",
+      "role": "primary",
+      "sha256": "6ac8680b427e4419b7e741230038a08b4f6b4e7da18c516f78297c3179dbc271",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2308.01552%2C2308.01990%2C2308.03427%2C2308.04192%2C2308.05391%2C2308.05822%2C2308.05898%2C2308.06595%2C2308.07201%2C2308.08155%2C2308.09289%2C2308.11522%2C2308.11782%2C2308.12966%2C2308.14504%2C2308.14881%2C2309.00267%2C2309.02319%2C2309.04561%2C2309.05251%2C2309.05693%2C2309.06055%2C2309.06180%2C2309.07550%2C2309.07820%2C2309.07864%2C2309.09958%2C2309.10094%2C2309.10253%2C2309.13965%2C2309.14365%2C2309.15056%2C2309.15817%2C2309.16609%2C2310.01557%2C2310.02424%2C2310.02446%2C2310.04119%2C2310.05915%2C2310.06387%2C2310.06770%2C2310.06830%2C2310.07128%2C2310.07433%2C2310.07899%2C2310.08235%2C2310.08367%2C2310.08588%2C2310.09103%2C2310.10077&max_results=50"
     }
   ],
   "id": "arxiv:2308.05898",
@@ -44,7 +60,7 @@
     "arxiv": "2308.05898"
   },
   "kind": "paper",
-  "last_verified_at": "2026-11-05T21:13:36Z",
+  "last_verified_at": "2026-11-05T23:00:44Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -53,18 +69,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2308.05898"
     }
   ],
   "name": "Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The work analyzes interface designs rather than having an agent operate mobile apps. Experiments, reported performance and artifact availability have not been independently reproduced.",
   "published_at": "2023-08-11",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Introduces UIGuard, a system that examines mobile UI visuals and text to detect dark patterns, together with a labeled dataset of benign and malicious interfaces.",
+  "topics": [
+    "ui-design",
+    "screen-understanding",
+    "data-generation"
+  ],
   "updated_at": "2024-11-28",
   "url": "https://arxiv.org/abs/2308.05898"
 }

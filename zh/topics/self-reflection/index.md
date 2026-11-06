@@ -50,14 +50,28 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   Distills generalizable reasoning strategies from both successful and failed agent trajectories into a persistent memory bank for test-time retrieval.
 - [MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](https://awesomecua.com/resources/arxiv-2507-16853/) — 2025-07-21
   MobileUse reflects on errors at action and task timescales, invoking reflection when needed and using proactive exploration to learn unfamiliar apps. It evaluates this mobile execution framework on AndroidWorld and AndroidLab and describes a toolkit for physical-device operation.
+- [Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification](https://awesomecua.com/resources/arxiv-2507-11662/) — 2025-07-15
+  Studies agreement bias in multimodal agent verifiers across web navigation and computer use, and introduces SGV to assess trajectories using self-generated priors.
 - [UI-Evol: Automatic Knowledge Evolving for Computer Use Agents](https://awesomecua.com/resources/arxiv-2505-21964/) — 2025-05-28
   Introduces UI-Evol, which extracts action sequences from agent interactions and critiques external guidance against those traces. Evaluation on OSWorld examines how revised operational knowledge affects execution and behavioral consistency.
+- [Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking](https://awesomecua.com/resources/arxiv-2505-20023/) — 2025-05-26
+  Introduces STeP, which trains agents on synthetic trajectories containing error reflections and corrections while masking poor steps; WebShop is one of three evaluated tasks.
 - [WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback](https://awesomecua.com/resources/arxiv-2505-20013/) — 2025-05-26
   WebCoT turns reflection, look-ahead, branching and rollback procedures into chain-of-thought training rationales. Fine-tuning on these reconstructed trajectories is evaluated for web-agent self-improvement and transfer across navigation tasks.
 - [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://awesomecua.com/resources/arxiv-2504-16073/) — 2025-04-22
   Guides visual GUI agents at inference time with a process-reward model that evaluates intermediate actions. It combines stepwise guidance with trajectory reflection and retry mechanisms in static and interactive navigation tasks.
+- [R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory](https://awesomecua.com/resources/arxiv-2501-12485/) — 2025-01-21
+  R2D2 gives web agents a replay-buffer map of visited pages and a reflection step for analyzing errors and revising navigation strategies.
 - [From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](https://awesomecua.com/resources/arxiv-2411-03817/) — 2024-11-06
   Introduces StepAgent, which compares agent and expert actions to supply intermediate rewards for policy learning, with implicit-reward and inverse-RL variants. Evaluation includes WebShop and Mind2Web alongside non-web tasks.
+- [ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning](https://awesomecua.com/resources/arxiv-2410-02052/) — 2024-10-02
+  ExACT combines reflective tree search with learning from search experience to help web agents explore, assess states and backtrack on VisualWebArena.
+- [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://awesomecua.com/resources/arxiv-2408-07199/) — 2024-08-13
+  Agent Q combines guided tree search, self-critique and preference-based fine-tuning to train web agents from successful and unsuccessful interactions.
+- [VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought](https://awesomecua.com/resources/arxiv-2406-14596/) — 2024-06-20
+  ICAL turns imperfect agent trajectories into reusable strategies and action annotations through reflection and human feedback, with VisualWebArena among its evaluations.
+- [SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models](https://awesomecua.com/resources/arxiv-2403-03636/) — 2024-03-06
+  Introduces SheetRM, a benchmark of long-horizon spreadsheet tasks, and SheetAgent, an LLM agent that plans, retrieves information and reflects while manipulating spreadsheets.
 - [On the Multi-turn Instruction Following for Conversational Web Agents](https://awesomecua.com/resources/arxiv-2402-15057/) — 2024-02-23
   MT-Mind2Web evaluates web navigation through sequences of conversational user instructions. Self-MAP combines memory-augmented planning with reflection to preserve context and dependencies across those interaction turns.
 - [A Zero-Shot Language Agent for Computer Control with Structured Reflection](https://awesomecua.com/resources/arxiv-2310-08740/) — 2023-10-12

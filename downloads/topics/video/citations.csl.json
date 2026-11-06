@@ -1,5 +1,66 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2310.02424v3",
+    "archive": "arXiv",
+    "archive_location": "2310.02424",
+    "author": [
+      {
+        "literal": "Maryam Taeb"
+      },
+      {
+        "literal": "Amanda Swearngin"
+      },
+      {
+        "literal": "Eldon Schoop"
+      },
+      {
+        "literal": "Ruijia Cheng"
+      },
+      {
+        "literal": "Yue Jiang"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      }
+    ],
+    "citation-key": "arxiv_2310_02424",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cdf6ca927e82a2828762dc74f80fe16de433cc36e2ee6413692d8d2cf1544dce",
+        "submitted_at": "2023-10-03T20:37:58Z",
+        "updated_at": "2024-03-05T01:28:25Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2310.02424v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.02424",
+      "catalog_id": "arxiv:2310.02424",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-10-03",
+      "identifiers": {
+        "arxiv": "2310.02424"
+      },
+      "record_updated_at": "2024-03-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.02424",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-03; Recorded arXiv version: v3; Recorded version updated: 2024-03-05T01:28:25Z.",
+    "title": "AXNav: Replaying Accessibility Tests from Natural Language",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2403.10170v2",
     "archive": "arXiv",
     "archive_location": "2403.10170",
@@ -584,6 +645,161 @@
     "title": "VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.12561v3",
+    "archive": "arXiv",
+    "archive_location": "2502.12561",
+    "author": [
+      {
+        "literal": "Yuxuan Lu"
+      },
+      {
+        "literal": "Bingsheng Yao"
+      },
+      {
+        "literal": "Hansu Gu"
+      },
+      {
+        "literal": "Jing Huang"
+      },
+      {
+        "literal": "Jessie Wang"
+      },
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Jiri Gesi"
+      },
+      {
+        "literal": "Qi He"
+      },
+      {
+        "literal": "Toby Jia-Jun Li"
+      },
+      {
+        "literal": "Dakuo Wang"
+      }
+    ],
+    "citation-key": "arxiv_2502_12561",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1254a25462ad781b4509df2946fcfe395190d4b7cddd353b01d87a8d68bf3a15",
+        "submitted_at": "2025-02-18T05:55:18Z",
+        "updated_at": "2025-04-05T01:55:09Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2502.12561v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.12561",
+      "catalog_id": "arxiv:2502.12561",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-18",
+      "identifiers": {
+        "arxiv": "2502.12561"
+      },
+      "record_updated_at": "2025-04-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.12561",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-18; Recorded arXiv version: v3; Recorded version updated: 2025-04-05T01:55:09Z.",
+    "title": "UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.13130v1",
+    "archive": "arXiv",
+    "archive_location": "2502.13130",
+    "author": [
+      {
+        "literal": "Jianwei Yang"
+      },
+      {
+        "literal": "Reuben Tan"
+      },
+      {
+        "literal": "Qianhui Wu"
+      },
+      {
+        "literal": "Ruijie Zheng"
+      },
+      {
+        "literal": "Baolin Peng"
+      },
+      {
+        "literal": "Yongyuan Liang"
+      },
+      {
+        "literal": "Yu Gu"
+      },
+      {
+        "literal": "Mu Cai"
+      },
+      {
+        "literal": "Seonghyeon Ye"
+      },
+      {
+        "literal": "Joel Jang"
+      },
+      {
+        "literal": "Yuquan Deng"
+      },
+      {
+        "literal": "Lars Liden"
+      },
+      {
+        "literal": "Jianfeng Gao"
+      }
+    ],
+    "citation-key": "arxiv_2502_13130",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2d126515d15bc1d6749a2f2fc0419b6812906524562b5877b690be751ff4f61a",
+        "submitted_at": "2025-02-18T18:55:21Z",
+        "updated_at": "2025-02-18T18:55:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.13130v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.13130",
+      "catalog_id": "arxiv:2502.13130",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-02-18",
+      "identifiers": {
+        "arxiv": "2502.13130"
+      },
+      "record_updated_at": "2025-02-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.13130",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-18; Recorded arXiv version: v1; Recorded version updated: 2025-02-18T18:55:21Z.",
+    "title": "Magma: A Foundation Model for Multimodal AI Agents",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2502.17110v3",

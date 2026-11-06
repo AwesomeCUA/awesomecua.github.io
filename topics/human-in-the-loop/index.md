@@ -136,20 +136,30 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Studies agent-system and interface co-design that incorporates user interruptions and intermediate feedback to reduce planning latency.
 - [IDA: Breaking Barriers in No-code UI Automation Through Large Language Models and Human-Centric Design](https://awesomecua.com/resources/arxiv-2407-15673/) — 2024-07-22
   IDA helps business users create web UI automation through guided demonstrations, a semantic programming model, and a teaching-oriented interface. A prototype user study examines automation creation with enterprise applications by users without programming backgrounds.
+- [VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought](https://awesomecua.com/resources/arxiv-2406-14596/) — 2024-06-20
+  ICAL turns imperfect agent trajectories into reusable strategies and action annotations through reflection and human feedback, with VisualWebArena among its evaluations.
 - [Unveiling Disparities in Web Task Handling Between Human and Web Agent](https://awesomecua.com/resources/arxiv-2405-04497/) — 2024-05-07
   Compares human think-aloud web-task behavior with web-agent planning, action, and reflection. The analysis highlights differences in updating plans, handling ambiguity, and investigating failures.
 - [Prompt2Task: Automating UI Tasks on Smartphones from Textual Prompts](https://awesomecua.com/resources/arxiv-2404-02475/) — 2024-04-03
   Prompt2Task converts textual goals or procedures into smartphone UI automation using agents for intent interpretation, external-information handling, and execution. User feedback and accumulated task knowledge support subsequent task generation and operation.
+- [FlowMind: Automatic Workflow Generation with LLMs](https://awesomecua.com/resources/arxiv-2404-13050/) — 2024-03-17
+  FlowMind generates API-based workflows from user requests for process automation and presents workflow descriptions that users can inspect and comment on.
 - [GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning](https://awesomecua.com/resources/arxiv-2401-14268/) — 2024-01-25
   Introduces GPTVoiceTasker, a mobile assistant that interprets user commands, executes device interactions, and learns from prior commands to streamline later task execution. The work includes a user study of task efficiency.
 - [MobileAgent: enhancing mobile control via human-machine interaction and SOP integration](https://awesomecua.com/resources/arxiv-2401-04124/) — 2024-01-04
   Combines operating-procedure context with user interaction to guide mobile task automation and handle personalized or sensitive requests.
+- [UINav: A Practical Approach to Train On-Device Automation Agents](https://awesomecua.com/resources/arxiv-2312-10170/) — 2023-12-15
+  Introduces UINav, a demonstration-based method for training mobile UI automation agents, with a referee model for failure feedback and automatic augmentation of examples.
 - [MUG: Interactive Multimodal Grounding on User Interfaces](https://awesomecua.com/resources/arxiv-2209-15099/) — 2022-09-29
   Studies iterative UI grounding in which users refine or correct an agent's interpretation over multiple conversational turns.
 - [META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://awesomecua.com/resources/arxiv-2205-11029/) — 2022-05-23
   Introduces GUI-based task-oriented dialogue and a dataset pairing mobile-interface operations with conversational responses.
 - [A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility](https://awesomecua.com/resources/arxiv-2202-02312/) — 2022-02-04
   Introduces MoTIF mobile-app interactions with feasible and infeasible commands, feasibility explanations, and follow-up questions for ambiguous requests.
+- [WebGPT: Browser-assisted question-answering with human feedback](https://awesomecua.com/resources/arxiv-2112-09332/) — 2021-12-17
+  Trains a question-answering model to search and navigate a text-based web browser, collect references and improve long-form answers using demonstrations and human feedback.
+- [Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments](https://awesomecua.com/resources/arxiv-2104-08560/) — 2021-04-17
+  Introduces MoTIF, a dataset of natural-language requests for interactive mobile apps, including infeasible requests and follow-up questions for studying task feasibility.
 - [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations](https://awesomecua.com/resources/arxiv-1909-00031/) — 2019-08-30
   Introduces PUMICE, an agent that learns mobile-app procedures and conditional concepts through natural-language conversation and GUI demonstrations, recursively resolving ambiguous instructions with users.
 - [Kite: Building Conversational Bots from Mobile Apps](https://awesomecua.com/resources/url-901ca855640457dfe2f1/) — 2018-06

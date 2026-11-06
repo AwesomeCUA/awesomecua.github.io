@@ -48,6 +48,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   GUI-ReWalk begins with stochastic interface exploration and then infers goals to generate coherent action trajectories. It supports long-horizon workflows across applications and studies training on the resulting data using grounding and navigation benchmarks.
 - [Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation](https://awesomecua.com/resources/arxiv-2506-18158/) — 2025-06-22
   Chain-of-Memory explicitly records action descriptions and task-relevant screen information in short- and long-term memory for GUI navigation. GUI Odyssey-CoM provides 111,000 screen-action pairs with memory annotations for learning and evaluating information retention across applications.
+- [TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments](https://awesomecua.com/resources/arxiv-2505-17629/) — 2025-05-23
+  Introduces TransBench to evaluate GUI grounding transfer across app versions, iOS, Android, Web, and functionally distinct applications.
 - [Creating General User Models from Computer Use](https://awesomecua.com/resources/arxiv-2505-10831/) — 2025-05-16
   Proposes general user models that turn computer-use observations into confidence-weighted propositions and revise them as new context arrives. Demonstrations use this memory to contextualize assistants, manage notifications, and support proactive actions across apps.
 - [OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents](https://awesomecua.com/resources/arxiv-2505-03570/) — 2025-05-06
@@ -56,10 +58,18 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Introduces UFO2, a Windows desktop agent architecture combining a coordinating HostAgent, application-specialized agents, and a shared GUI/API action layer. It integrates UI Automation, visual parsing, speculative planning, and an isolated picture-in-picture desktop.
 - [ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback](https://awesomecua.com/resources/arxiv-2504-02357/) — 2025-04-03
   ReuseDroid migrates Android GUI tests between functionally similar apps using VLM agents that separate shared test intent from app-specific interaction flows. It introduces LinPro, a dataset of 578 migration tasks across 39 apps, to evaluate test transfer.
+- [MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions](https://awesomecua.com/resources/arxiv-2502-16796/) — 2025-02-24
+  Introduces MobileSteward, which coordinates app-specific phone agents, schedules cross-app tasks, and reuses successful experience; CAPBench evaluates cross-app instructions.
 - [PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC](https://awesomecua.com/resources/arxiv-2502-14282/) — 2025-02-20
   Uses active perception and hierarchical agents for instruction decomposition, progress tracking, action selection, and reflection in PC workflows.
+- [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://awesomecua.com/resources/arxiv-2502-01600/) — 2025-02-03
+  LOOP trains interactive digital agents with reinforcement learning in stateful, multi-app environments where tasks are performed through API calls.
+- [Automated Test Transfer Across Android Apps Using Large Language Models](https://awesomecua.com/resources/arxiv-2411-17933/) — 2024-11-26
+  LLMigrate uses LLMs to transfer usage-based UI tests between mobile apps with similar functions, reducing the need to write tests for each app.
 - [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](https://awesomecua.com/resources/arxiv-2409-08264/) — 2024-09-12
   Adapts real-desktop evaluation to Windows applications and supports parallel execution of benchmark tasks.
+- [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://awesomecua.com/resources/arxiv-2407-20183/) — 2024-07-29
+  MindSearch uses a planner and searcher agents to split information requests into subquestions and gather answers across web pages.
 - [OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation](https://awesomecua.com/resources/arxiv-2407-19056/) — 2024-07-26
   Evaluates language agents on office workflows requiring information integration, long-term planning, and switching between applications.
 - [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://awesomecua.com/resources/arxiv-2407-18901/) — 2024-07-26

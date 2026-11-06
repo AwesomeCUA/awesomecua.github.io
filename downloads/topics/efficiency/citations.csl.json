@@ -1075,6 +1075,70 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2502.01600v3",
+    "archive": "arXiv",
+    "archive_location": "2502.01600",
+    "author": [
+      {
+        "literal": "Kevin Chen"
+      },
+      {
+        "literal": "Marco Cusumano-Towner"
+      },
+      {
+        "literal": "Brody Huval"
+      },
+      {
+        "literal": "Aleksei Petrenko"
+      },
+      {
+        "literal": "Jackson Hamburger"
+      },
+      {
+        "literal": "Vladlen Koltun"
+      },
+      {
+        "literal": "Philipp Krähenbühl"
+      }
+    ],
+    "citation-key": "arxiv_2502_01600",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e04fe57f9bc51d03f3fff4bf177ff512316ee9df20aaea034662f3ea3104cd97",
+        "submitted_at": "2025-02-03T18:35:42Z",
+        "updated_at": "2025-03-08T05:23:57Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2502.01600v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.01600",
+      "catalog_id": "arxiv:2502.01600",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-02-03",
+      "identifiers": {
+        "arxiv": "2502.01600"
+      },
+      "record_updated_at": "2025-03-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.01600",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-03; Recorded arXiv version: v3; Recorded version updated: 2025-03-08T05:23:57Z.",
+    "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2502.06395v1",
     "archive": "arXiv",
     "archive_location": "2502.06395",
@@ -1444,6 +1508,55 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2503.02878v3",
+    "archive": "arXiv",
+    "archive_location": "2503.02878",
+    "author": [
+      {
+        "literal": "Ethan Mendes"
+      },
+      {
+        "literal": "Alan Ritter"
+      }
+    ],
+    "citation-key": "arxiv_2503_02878",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "50cf772cf321e8daac4124f5e55e2d295fb751b53e10a73b4fb36f87f1854b35",
+        "submitted_at": "2025-03-04T18:58:11Z",
+        "updated_at": "2025-10-29T22:28:23Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2503.02878v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.02878",
+      "catalog_id": "arxiv:2503.02878",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-04",
+      "identifiers": {
+        "arxiv": "2503.02878"
+      },
+      "record_updated_at": "2025-10-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.02878",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-04; Recorded arXiv version: v3; Recorded version updated: 2025-10-29T22:28:23Z.",
+    "title": "Language Models can Self-Improve at State-Value Estimation for Better Search",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2503.06470v1",
     "archive": "arXiv",
     "archive_location": "2503.06470",
@@ -1582,6 +1695,61 @@
     "title": "Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment",
     "type": "article",
     "version": "5"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.06821v2",
+    "archive": "arXiv",
+    "archive_location": "2504.06821",
+    "author": [
+      {
+        "literal": "Zora Zhiruo Wang"
+      },
+      {
+        "literal": "Apurva Gandhi"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Daniel Fried"
+      }
+    ],
+    "citation-key": "arxiv_2504_06821",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54688f083a219d1f6b871967cecb7319dfe17c3eb69f6a25affe25a53149fae4",
+        "submitted_at": "2025-04-09T12:25:37Z",
+        "updated_at": "2025-08-29T15:46:04Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2504.06821v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.06821",
+      "catalog_id": "arxiv:2504.06821",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-09",
+      "identifiers": {
+        "arxiv": "2504.06821"
+      },
+      "record_updated_at": "2025-08-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.06821",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-09; Recorded arXiv version: v2; Recorded version updated: 2025-08-29T15:46:04Z.",
+    "title": "Inducing Programmatic Skills for Agentic Tasks",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2505.05440v3",
@@ -1770,6 +1938,85 @@
     "version": "4"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.15859v1",
+    "archive": "arXiv",
+    "archive_location": "2505.15859",
+    "author": [
+      {
+        "literal": "Tianyi Ma"
+      },
+      {
+        "literal": "Yiyue Qian"
+      },
+      {
+        "literal": "Zheyuan Zhang"
+      },
+      {
+        "literal": "Zehong Wang"
+      },
+      {
+        "literal": "Xiaoye Qian"
+      },
+      {
+        "literal": "Feifan Bai"
+      },
+      {
+        "literal": "Yifan Ding"
+      },
+      {
+        "literal": "Xuwei Luo"
+      },
+      {
+        "literal": "Shinan Zhang"
+      },
+      {
+        "literal": "Keerthiram Murugesan"
+      },
+      {
+        "literal": "Chuxu Zhang"
+      },
+      {
+        "literal": "Yanfang Ye"
+      }
+    ],
+    "citation-key": "arxiv_2505_15859",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f83130cb80d73287ecbc2a548ba0422c35adec45541f22e76c4ee5b1750d7a7f",
+        "submitted_at": "2025-05-21T04:32:35Z",
+        "updated_at": "2025-05-21T04:32:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.15859v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.15859",
+      "catalog_id": "arxiv:2505.15859",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-21",
+      "identifiers": {
+        "arxiv": "2505.15859"
+      },
+      "record_updated_at": "2025-05-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.15859",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-21; Recorded arXiv version: v1; Recorded version updated: 2025-05-21T04:32:35Z.",
+    "title": "AutoData: A Multi-Agent System for Open Web Data Collection",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2506.03095v1",
     "archive": "arXiv",
     "archive_location": "2506.03095",
@@ -1830,6 +2077,61 @@
     },
     "note": "First published: 2025-06-03; Recorded arXiv version: v1; Recorded version updated: 2025-06-03T17:27:04Z.",
     "title": "DPO Learning with LLMs-Judge Signal for Computer Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.10953v1",
+    "archive": "arXiv",
+    "archive_location": "2506.10953",
+    "author": [
+      {
+        "literal": "Xing Han Lù"
+      },
+      {
+        "literal": "Gaurav Kamath"
+      },
+      {
+        "literal": "Marius Mosbach"
+      },
+      {
+        "literal": "Siva Reddy"
+      }
+    ],
+    "citation-key": "arxiv_2506_10953",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c73f4a7361e714b57de5a49631caa8b342850c79a1a6fa5354ec01b9f8b648ef",
+        "submitted_at": "2025-06-12T17:53:58Z",
+        "updated_at": "2025-06-12T17:53:58Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.10953v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.10953",
+      "catalog_id": "arxiv:2506.10953",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-12",
+      "identifiers": {
+        "arxiv": "2506.10953"
+      },
+      "record_updated_at": "2025-06-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.10953",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-12; Recorded arXiv version: v1; Recorded version updated: 2025-06-12T17:53:58Z.",
+    "title": "Build the web for agents, not agents for the web",
     "type": "article",
     "version": "1"
   },

@@ -606,6 +606,121 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2407.16741v3",
+    "archive": "arXiv",
+    "archive_location": "2407.16741",
+    "author": [
+      {
+        "literal": "Xingyao Wang"
+      },
+      {
+        "literal": "Boxuan Li"
+      },
+      {
+        "literal": "Yufan Song"
+      },
+      {
+        "literal": "Frank F. Xu"
+      },
+      {
+        "literal": "Xiangru Tang"
+      },
+      {
+        "literal": "Mingchen Zhuge"
+      },
+      {
+        "literal": "Jiayi Pan"
+      },
+      {
+        "literal": "Yueqi Song"
+      },
+      {
+        "literal": "Bowen Li"
+      },
+      {
+        "literal": "Jaskirat Singh"
+      },
+      {
+        "literal": "Hoang H. Tran"
+      },
+      {
+        "literal": "Fuqiang Li"
+      },
+      {
+        "literal": "Ren Ma"
+      },
+      {
+        "literal": "Mingzhang Zheng"
+      },
+      {
+        "literal": "Bill Qian"
+      },
+      {
+        "literal": "Yanjun Shao"
+      },
+      {
+        "literal": "Niklas Muennighoff"
+      },
+      {
+        "literal": "Yizhe Zhang"
+      },
+      {
+        "literal": "Binyuan Hui"
+      },
+      {
+        "literal": "Junyang Lin"
+      },
+      {
+        "literal": "Robert Brennan"
+      },
+      {
+        "literal": "Hao Peng"
+      },
+      {
+        "literal": "Heng Ji"
+      },
+      {
+        "literal": "Graham Neubig"
+      }
+    ],
+    "citation-key": "arxiv_2407_16741",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cb94bd5d52d4abf7ff8511a64ac49d4699c795baa0446cd47e2b79616cc10408",
+        "submitted_at": "2024-07-23T17:50:43Z",
+        "updated_at": "2025-04-18T18:14:31Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2407.16741v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.16741",
+      "catalog_id": "arxiv:2407.16741",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-07-23",
+      "identifiers": {
+        "arxiv": "2407.16741"
+      },
+      "record_updated_at": "2025-04-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2407.16741",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2024-07-23; Recorded arXiv version: v3; Recorded version updated: 2025-04-18T18:14:31Z.",
+    "title": "OpenHands: An Open Platform for AI Software Developers as Generalist Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2407.18901v1",
     "archive": "arXiv",
     "archive_location": "2407.18901",
@@ -988,6 +1103,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2410.19054v1",
+    "archive": "arXiv",
+    "archive_location": "2410.19054",
+    "author": [
+      {
+        "literal": "Revanth Gangi Reddy"
+      },
+      {
+        "literal": "Sagnik Mukherjee"
+      },
+      {
+        "literal": "Jeonghwan Kim"
+      },
+      {
+        "literal": "Zhenhailong Wang"
+      },
+      {
+        "literal": "Dilek Hakkani-Tur"
+      },
+      {
+        "literal": "Heng Ji"
+      }
+    ],
+    "citation-key": "arxiv_2410_19054",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2b9938c5caccd6d0d76e817b0ba1e9f174a203b8b9f6d6d562b0079c2f2ed103",
+        "submitted_at": "2024-10-24T18:01:28Z",
+        "updated_at": "2024-10-24T18:01:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2410.19054v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.19054",
+      "catalog_id": "arxiv:2410.19054",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-10-24",
+      "identifiers": {
+        "arxiv": "2410.19054"
+      },
+      "record_updated_at": "2024-10-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.19054",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-24; Recorded arXiv version: v1; Recorded version updated: 2024-10-24T18:01:28Z.",
+    "title": "Infogent: An Agent-Based Framework for Web Information Aggregation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2411.04468v1",
     "archive": "arXiv",
     "archive_location": "2411.04468",
@@ -1149,6 +1325,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2412.13810v3",
+    "archive": "arXiv",
+    "archive_location": "2412.13810",
+    "author": [
+      {
+        "literal": "Dimitrios Mallis"
+      },
+      {
+        "literal": "Ahmet Serdar Karadeniz"
+      },
+      {
+        "literal": "Sebastian Cavada"
+      },
+      {
+        "literal": "Danila Rukhovich"
+      },
+      {
+        "literal": "Niki Foteinopoulou"
+      },
+      {
+        "literal": "Kseniya Cherenkova"
+      },
+      {
+        "literal": "Anis Kacem"
+      },
+      {
+        "literal": "Djamila Aouada"
+      }
+    ],
+    "citation-key": "arxiv_2412_13810",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f60272fa5cd2d012e0203f53440d834e996011e4577ed087e4783eae189a9c83",
+        "submitted_at": "2024-12-18T12:57:56Z",
+        "updated_at": "2025-08-26T14:18:02Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2412.13810v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.13810",
+      "catalog_id": "arxiv:2412.13810",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-12-18",
+      "identifiers": {
+        "arxiv": "2412.13810"
+      },
+      "record_updated_at": "2025-08-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2412.13810",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-08-26T14:18:02Z.",
+    "title": "CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2412.18116v3",
     "archive": "arXiv",
     "archive_location": "2412.18116",
@@ -1223,6 +1466,130 @@
     "title": "AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.13923v1",
+    "archive": "arXiv",
+    "archive_location": "2502.13923",
+    "author": [
+      {
+        "literal": "Shuai Bai"
+      },
+      {
+        "literal": "Keqin Chen"
+      },
+      {
+        "literal": "Xuejing Liu"
+      },
+      {
+        "literal": "Jialin Wang"
+      },
+      {
+        "literal": "Wenbin Ge"
+      },
+      {
+        "literal": "Sibo Song"
+      },
+      {
+        "literal": "Kai Dang"
+      },
+      {
+        "literal": "Peng Wang"
+      },
+      {
+        "literal": "Shijie Wang"
+      },
+      {
+        "literal": "Jun Tang"
+      },
+      {
+        "literal": "Humen Zhong"
+      },
+      {
+        "literal": "Yuanzhi Zhu"
+      },
+      {
+        "literal": "Mingkun Yang"
+      },
+      {
+        "literal": "Zhaohai Li"
+      },
+      {
+        "literal": "Jianqiang Wan"
+      },
+      {
+        "literal": "Pengfei Wang"
+      },
+      {
+        "literal": "Wei Ding"
+      },
+      {
+        "literal": "Zheren Fu"
+      },
+      {
+        "literal": "Yiheng Xu"
+      },
+      {
+        "literal": "Jiabo Ye"
+      },
+      {
+        "literal": "Xi Zhang"
+      },
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Zesen Cheng"
+      },
+      {
+        "literal": "Hang Zhang"
+      },
+      {
+        "literal": "Zhibo Yang"
+      },
+      {
+        "literal": "Haiyang Xu"
+      },
+      {
+        "literal": "Junyang Lin"
+      }
+    ],
+    "citation-key": "arxiv_2502_13923",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "da29b5cb2aa57ccdde2a365faa41657e05d0017ea0f932664f3a06a6dcdfb8c6",
+        "submitted_at": "2025-02-19T18:00:14Z",
+        "updated_at": "2025-02-19T18:00:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.13923v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.13923",
+      "catalog_id": "arxiv:2502.13923",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-02-19",
+      "identifiers": {
+        "arxiv": "2502.13923"
+      },
+      "record_updated_at": "2025-02-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.13923",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-19; Recorded arXiv version: v1; Recorded version updated: 2025-02-19T18:00:14Z.",
+    "title": "Qwen2.5-VL Technical Report",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2502.18525v2",
@@ -1692,6 +2059,82 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.10887v3",
+    "archive": "arXiv",
+    "archive_location": "2505.10887",
+    "author": [
+      {
+        "literal": "Bin Lei"
+      },
+      {
+        "literal": "Weitai Kang"
+      },
+      {
+        "literal": "Zijian Zhang"
+      },
+      {
+        "literal": "Winson Chen"
+      },
+      {
+        "literal": "Xi Xie"
+      },
+      {
+        "literal": "Shan Zuo"
+      },
+      {
+        "literal": "Mimi Xie"
+      },
+      {
+        "literal": "Ali Payani"
+      },
+      {
+        "literal": "Mingyi Hong"
+      },
+      {
+        "literal": "Yan Yan"
+      },
+      {
+        "literal": "Caiwen Ding"
+      }
+    ],
+    "citation-key": "arxiv_2505_10887",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3e5e0ff8846bd74cf0ba92f1ef65ef0309967274d7da347c62cda2940ceba25a",
+        "submitted_at": "2025-05-16T05:43:27Z",
+        "updated_at": "2026-05-01T07:44:01Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2505.10887v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.10887",
+      "catalog_id": "arxiv:2505.10887",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-16",
+      "identifiers": {
+        "arxiv": "2505.10887"
+      },
+      "record_updated_at": "2026-05-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.10887",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-16; Recorded arXiv version: v3; Recorded version updated: 2026-05-01T07:44:01Z.",
+    "title": "InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.18829v2",
     "archive": "arXiv",
     "archive_location": "2505.18829",
@@ -1746,6 +2189,91 @@
     },
     "note": "First published: 2025-05-24; Recorded arXiv version: v2; Recorded version updated: 2025-10-31T21:48:48Z.",
     "title": "LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.24876v2",
+    "archive": "arXiv",
+    "archive_location": "2505.24876",
+    "author": [
+      {
+        "literal": "Tajamul Ashraf"
+      },
+      {
+        "literal": "Amal Saqib"
+      },
+      {
+        "literal": "Hanan Ghani"
+      },
+      {
+        "literal": "Muhra AlMahri"
+      },
+      {
+        "literal": "Yuhao Li"
+      },
+      {
+        "literal": "Noor Ahsan"
+      },
+      {
+        "literal": "Umair Nawaz"
+      },
+      {
+        "literal": "Jean Lahoud"
+      },
+      {
+        "literal": "Hisham Cholakkal"
+      },
+      {
+        "literal": "Mubarak Shah"
+      },
+      {
+        "literal": "Philip Torr"
+      },
+      {
+        "literal": "Fahad Shahbaz Khan"
+      },
+      {
+        "literal": "Rao Muhammad Anwer"
+      },
+      {
+        "literal": "Salman Khan"
+      }
+    ],
+    "citation-key": "arxiv_2505_24876",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c22205d287f5cae660fe8b7abf568e7be0b372cd75af76d5357347ef1e3b20e8",
+        "submitted_at": "2025-05-30T17:59:53Z",
+        "updated_at": "2026-05-24T03:59:43Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2505.24876v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.24876",
+      "catalog_id": "arxiv:2505.24876",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-30",
+      "identifiers": {
+        "arxiv": "2505.24876"
+      },
+      "record_updated_at": "2026-05-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.24876",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-30; Recorded arXiv version: v2; Recorded version updated: 2026-05-24T03:59:43Z.",
+    "title": "Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks",
     "type": "article",
     "version": "2"
   },
@@ -1834,6 +2362,64 @@
     },
     "note": "First published: 2025-06-09; Recorded arXiv version: v1; Recorded version updated: 2025-06-09T11:50:33Z.",
     "title": "MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.19998v1",
+    "archive": "arXiv",
+    "archive_location": "2506.19998",
+    "author": [
+      {
+        "literal": "Xinyi Ni"
+      },
+      {
+        "literal": "Haonan Jian"
+      },
+      {
+        "literal": "Qiuyang Wang"
+      },
+      {
+        "literal": "Vedanshi Chetan Shah"
+      },
+      {
+        "literal": "Pengyu Hong"
+      }
+    ],
+    "citation-key": "arxiv_2506_19998",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b69a1d194f6a5daf658307cdbc6699bef9598538773ccc58bf1e08d01feafaf2",
+        "submitted_at": "2025-06-24T20:30:44Z",
+        "updated_at": "2025-06-24T20:30:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.19998v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.19998",
+      "catalog_id": "arxiv:2506.19998",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-06-24",
+      "identifiers": {
+        "arxiv": "2506.19998"
+      },
+      "record_updated_at": "2025-06-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.19998",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-24; Recorded arXiv version: v1; Recorded version updated: 2025-06-24T20:30:44Z.",
+    "title": "Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation",
     "type": "article",
     "version": "1"
   },

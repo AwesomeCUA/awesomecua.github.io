@@ -348,6 +348,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Combines a mobile GUI data pipeline, perception and planning capabilities, and reinforcement fine-tuning for interactive task execution.
 - [MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](https://awesomecua.com/resources/arxiv-2507-05720/) — 2025-07-08
   MobileGUI-RL constructs an online training curriculum through agent exploration and task filtering. It adapts GRPO with trajectory-aware advantages and rewards for task completion and execution efficiency, evaluated on three online mobile-agent benchmarks.
+- [WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis](https://awesomecua.com/resources/arxiv-2507-04370/) — 2025-07-06
+  Introduces WebSynthesis, which uses a learned web world model and tree-based planning to synthesize interaction trajectories for training web agents.
 - [ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding](https://awesomecua.com/resources/arxiv-2506-23491/) — 2025-06-30
   ZonUI-3B trains GUI grounding with a curated 24,000-example collection of mobile, desktop, and web screenshots. Its two-stage procedure first learns across platforms and then specializes on high-resolution images, with ablations on data diversity and redundant examples.
 - [Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation](https://awesomecua.com/resources/arxiv-2506-18158/) — 2025-06-22
@@ -376,6 +378,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   UI-Genie jointly improves a mobile GUI agent and a reward model that processes screenshots with interaction history and supplies action- and task-level feedback. Its data pipeline uses rule-based verification, corrupted trajectories, and hard negatives to support reward-guided exploration and iterative training.
 - [BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism](https://awesomecua.com/resources/arxiv-2505-20660/) — 2025-05-27
   BacktrackAgent adds verification, judgment, and reflection modules to detect erroneous GUI actions and guide recovery. It develops backtracking-oriented training data that includes post-action pages and evaluates task completion and step accuracy on Mobile3M and Auto-UI.
+- [Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking](https://awesomecua.com/resources/arxiv-2505-20023/) — 2025-05-26
+  Introduces STeP, which trains agents on synthetic trajectories containing error reflections and corrections while masking poor steps; WebShop is one of three evaluated tasks.
 - [WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback](https://awesomecua.com/resources/arxiv-2505-20013/) — 2025-05-26
   WebCoT turns reflection, look-ahead, branching and rollback procedures into chain-of-thought training rationales. Fine-tuning on these reconstructed trajectories is evaluated for web-agent self-improvement and transfer across navigation tasks.
 - [ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World](https://awesomecua.com/resources/arxiv-2505-19095/) — 2025-05-25
@@ -384,6 +388,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   ProgRM predicts per-step task completion progress to provide intermediate rewards during online GUI-agent training. It derives progress labels by using longest common subsequences to identify key trajectory steps, allowing useful partial progress to contribute even when a trajectory ultimately fails.
 - [GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent](https://awesomecua.com/resources/arxiv-2505-16827/) — 2025-05-22
   GUI-explorer generates exploration goals from screenshots and interface structure, then mines observation-action-outcome triples for app-specific transition knowledge. The resulting training-free agent uses this knowledge during mobile task execution, evaluated on SPA-Bench and AndroidWorld.
+- [AutoData: A Multi-Agent System for Open Web Data Collection](https://awesomecua.com/resources/arxiv-2505-15859/) — 2025-05-21
+  Introduces AutoData, a multi-agent system that collects web datasets from a natural-language request, and Instruct2DS, a benchmark for live collection across three domains.
 - [Web-Shepherd: Advancing PRMs for Reinforcing Web Agents](https://awesomecua.com/resources/arxiv-2505-15277/) — 2025-05-21
   Web-Shepherd is a process reward model for assessing individual steps of web-navigation trajectories. It introduces a collection of 40,000 step-level preference pairs with checklists and a separate benchmark for comparing reward models, then evaluates verification during WebArena-lite navigation.
 - [Efficient Agent Training for Computer Use](https://awesomecua.com/resources/arxiv-2505-13909/) — 2025-05-20
@@ -396,6 +402,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   GUI-Shift trains an inverse-dynamics task that predicts the initial action connecting two GUI states, using trajectories without natural-language instructions. It combines rule-based reinforcement learning with data filtering and evaluates transfer to Android automation and screenshot grounding.
 - [MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](https://awesomecua.com/resources/arxiv-2505-12299/) — 2025-05-18
   MobileIPL samples trees of action-planning thoughts, propagates rule-based leaf rewards backward, and forms preference pairs for reasoning-level optimization. It also expands screenshot-based instruction data through staged evolution before evaluation on mobile GUI-agent benchmarks.
+- [Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI](https://awesomecua.com/resources/arxiv-2505-05895/) — 2025-05-09
+  Introduces AutomotiveUI-Bench-4K and a fine-tuned vision-language model for locating elements and evaluating automotive infotainment interfaces.
 - [ScaleTrack: Scaling and back-tracking Automated GUI Agents](https://awesomecua.com/resources/arxiv-2505-00416/) — 2025-05-01
   ScaleTrack combines a unified collection of GUI grounding samples with a planning objective that predicts the next action while reconstructing prior actions. This backward prediction links the current screenshot to interaction history during agent training.
 - [WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model](https://awesomecua.com/resources/arxiv-2504-21024/) — 2025-04-23
@@ -424,10 +432,14 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Introduces SpiritSight and GUI-Lasagne data, combining multilevel GUI annotations with visual block parsing for high-resolution interface navigation.
 - [ATLaS: Agent Tuning via Learning Critical Steps](https://awesomecua.com/resources/arxiv-2503-02197/) — 2025-03-04
   Selects critical steps from expert interaction trajectories for targeted agent fine-tuning, studying efficiency and generalization across tasks.
+- [Scaling Autonomous Agents via Automatic Reward Modeling And Planning](https://awesomecua.com/resources/arxiv-2502-12130/) — 2025-02-17
+  Introduces a framework that learns a reward model from agent trajectories to guide multi-step planning, with online shopping among its decision-making settings.
 - [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents](https://awesomecua.com/resources/arxiv-2502-11357/) — 2025-02-17
   Synthesizes multimodal web trajectories through exploration and refinement, then trains a browser agent to study the effect of scaling interaction data.
 - [Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs](https://awesomecua.com/resources/arxiv-2502-07942/) — 2025-02-11
   Couples large- and small-model web-agent exploration with trajectory synthesis and distillation to improve both model types iteratively.
+- [InSTA: Towards Internet-Scale Training For Agents](https://awesomecua.com/resources/arxiv-2502-06776/) — 2025-02-10
+  InSTA builds a pipeline that creates website tasks, collects web-agent trajectories and filters them by judged success to train smaller web navigation agents.
 - [AppVLM: A Lightweight Vision Language Model for Online App Control](https://awesomecua.com/resources/arxiv-2502-06395/) — 2025-02-10
   AppVLM first learns app actions from AndroidControl and then refines its policy through data collected in AndroidWorld. The study compares offline action prediction and online task completion for a lightweight vision-language smartphone agent.
 - [MobileA3gent: Training Mobile GUI Agents Using Decentralized Self-Sourced Data from Diverse Users](https://awesomecua.com/resources/arxiv-2502-02982/) — 2025-02-05
@@ -442,6 +454,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Studies a screenshot-driven native GUI model with unified actions, deliberate reasoning, and iterative training on interaction traces.
 - [Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training](https://awesomecua.com/resources/arxiv-2501-11425/) — 2025-01-20
   Builds self-critique training examples from searched recovery paths to improve agents' ability to detect and correct errors during interaction.
+- [Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments](https://awesomecua.com/resources/arxiv-2501-10893/) — 2025-01-18
+  Learn-by-interact synthesizes agent interaction trajectories from documentation and derives instructions from their histories for training or in-context use across web and desktop tasks.
 - [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://awesomecua.com/resources/arxiv-2412-19723/) — 2024-12-27
   Builds GUI trajectories by exploring environments first and deriving tasks retrospectively, with reward-model filtering of generated trajectories.
 - [PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World](https://awesomecua.com/resources/arxiv-2412-17589/) — 2024-12-23
@@ -454,12 +468,16 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Converts public tutorials into task specifications and executes them with an agent to synthesize multimodal interaction trajectories.
 - [Falcon-UI: Understanding GUI Before Following User Instructions](https://awesomecua.com/resources/arxiv-2412-09362/) — 2024-12-12
   Pretrains GUI-context understanding with instruction-free web interactions before fine-tuning Falcon-UI on instructed GUI tasks.
+- [BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks](https://awesomecua.com/resources/arxiv-2412-04626/) — 2024-12-05
+  BigDocs-7.5M provides multimodal document data, while BigDocs-Bench includes GUI reasoning and image-to-code tasks relevant to screen understanding.
 - [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](https://awesomecua.com/resources/arxiv-2412-04454/) — 2024-12-05
   Uses screenshots, a unified action space, and staged grounding and reasoning training for cross-platform GUI interaction.
 - [DroidCall: A Dataset for LLM-powered Android Intent Invocation](https://awesomecua.com/resources/arxiv-2412-00402/) — 2024-11-30
   Introduces data and a generation pipeline for translating natural-language requests into Android intent invocations using compact language models.
 - [AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations](https://awesomecua.com/resources/arxiv-2411-13451/) — 2024-11-20
   Adapts multimodal web agents to unfamiliar websites using a small number of human demonstrations through prompting or meta-learning.
+- [WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models](https://awesomecua.com/resources/arxiv-2411-05451/) — 2024-11-08
+  WorkflowLLM builds WorkflowBench from application API workflows and synthetic queries, then trains WorkflowLlama to generate multi-application workflows.
 - [AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents](https://awesomecua.com/resources/arxiv-2410-24024/) — 2024-10-31
   Provides a shared Android action environment, reproducible tasks, and instruction data for training and comparing language and multimodal agents.
 - [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://awesomecua.com/resources/arxiv-2410-23218/) — 2024-10-30
@@ -476,6 +494,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Generates browser-agent demonstrations through autonomous exploration and retrospective task labeling, pruning trajectories that lack meaningful subtasks.
 - [DreamStruct: Understanding Slides and User Interfaces via Synthetic Data Generation](https://awesomecua.com/resources/arxiv-2410-00201/) — 2024-09-30
   Generates labeled slides and interface visuals through code to support visual element detection, description, and classification with less manual annotation.
+- [MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning](https://awesomecua.com/resources/arxiv-2409-20566/) — 2024-09-30
+  MM1.5 is a multimodal model family trained with curated data mixtures; its MM1.5-UI variant targets mobile UI understanding.
 - [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://awesomecua.com/resources/arxiv-2409-15637/) — 2024-09-24
   Synatra converts indirect procedural knowledge, including human-oriented tutorials, into direct demonstrations for digital agents. It trains a 7B CodeLlama on 100,000 synthesized demonstrations and evaluates the resulting policy on Mind2Web, MiniWoB++, and WebArena.
 - [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding](https://awesomecua.com/resources/arxiv-2409-14818/) — 2024-09-23
@@ -484,6 +504,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Builds mobile screenshot and view-hierarchy pairs through automated application traversal and evaluates their usefulness for GUI grounding.
 - [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](https://awesomecua.com/resources/arxiv-2408-06327/) — 2024-08-12
   Benchmarks visual agents across GUI, embodied, and design tasks, with training trajectories collected through solvers, agents, and human demonstrations.
+- [VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought](https://awesomecua.com/resources/arxiv-2406-14596/) — 2024-06-20
+  ICAL turns imperfect agent trajectories into reusable strategies and action annotations through reflection and human feedback, with VisualWebArena among its evaluations.
 - [GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](https://awesomecua.com/resources/arxiv-2406-08451/) — 2024-06-12
   Introduces annotated cross-application mobile trajectories and studies history-aware navigation over long task sequences.
 - [Tell Me What's Next: Textual Foresight for Generic UI Representations](https://awesomecua.com/resources/arxiv-2406-07822/) — 2024-06-12
@@ -494,32 +516,50 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Examines self-improvement by fine-tuning web agents on three mixtures of model-generated training data. WebArena experiments and trajectory-level evaluation measures study task performance, robustness, and behavior beyond aggregate success rates.
 - [MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling](https://awesomecua.com/resources/arxiv-2405-07090/) — 2024-05-11
   MUD combines LLM-guided Android app exploration, noise filtering and human annotation to collect modern UI screenshots. The study evaluates the resulting data for element detection and UI retrieval.
+- [AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation](https://awesomecua.com/resources/arxiv-2404-12753/) — 2024-04-19
+  Introduces AutoScraper, a two-stage framework that uses HTML structure and similarities across pages to generate scrapers for data collection from websites.
+- [UIClip: A Data-driven Model for Assessing User Interface Design](https://awesomecua.com/resources/arxiv-2404-12500/) — 2024-04-18
+  UIClip assesses UI design quality and visual relevance from screenshots and descriptions, using crawled, augmented and human-rated interfaces for training.
 - [GUIDE: Graphical User Interface Data for Execution](https://awesomecua.com/resources/arxiv-2404-16048/) — 2024-04-09
   Introduces annotated website task trajectories with screenshots, prior actions, reasoning, and grounded next actions for process automation.
 - [WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents](https://awesomecua.com/resources/arxiv-2404-05902/) — 2024-04-08
   WILBUR learns to rank prior task demonstrations for a web agent’s prompt and synthesizes instructions from past runs. A generated task curriculum and a backtracking mechanism support adaptation and recovery, evaluated on WebVoyager.
 - [AutoWebGLM: A Large Language Model-based Web Navigating Agent](https://awesomecua.com/resources/arxiv-2404-03648/) — 2024-04-04
   Builds a web agent through simplified HTML observations, human-and-AI browsing data, curriculum training, and reinforcement-learning refinement.
+- [Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want](https://awesomecua.com/resources/arxiv-2403-20271/) — 2024-03-29
+  Introduces Draw-and-Understand and MDVP-Bench for understanding visual prompts such as points and boxes; its multi-domain data includes mobile and web screenshots.
 - [Computer User Interface Understanding. A New Dataset and a Learning Framework](https://awesomecua.com/resources/arxiv-2403-10170/) — 2024-03-15
   Introduces desktop interaction videos and a framework combining synthetic examples with hierarchical contrastive learning for interface classification.
 - [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://awesomecua.com/resources/arxiv-2402-05930/) — 2024-02-08
   Collects expert demonstrations of conversational web navigation and studies retrieval-based element selection for processing large pages.
+- [UEyes: An Eye-Tracking Dataset across User Interface Types](https://awesomecua.com/resources/arxiv-2402-05202/) — 2024-02-07
+  Introduces UEyes, an eye-tracking dataset of webpage, desktop, mobile, and poster interfaces, and analyzes how people view these different UI types.
 - [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://awesomecua.com/resources/arxiv-2402-04615/) — 2024-02-07
   Introduces ScreenAI and screen-annotation training that supports UI question answering, navigation, and summarization data generation.
 - [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://awesomecua.com/resources/arxiv-2401-10935/) — 2024-01-17
   Trains a screenshot-driven GUI agent with grounding pretraining and introduces ScreenSpot for evaluating interface target localization.
 - [WebVLN: Vision-and-Language Navigation on Websites](https://awesomecua.com/resources/arxiv-2312-15820/) — 2023-12-25
   WebVLN trains website navigation from question-based instructions using both rendered visual information and underlying HTML. It introduces WebVLN-v1 and a website-aware navigation network to study this digital variant of vision-and-language navigation.
+- [UINav: A Practical Approach to Train On-Device Automation Agents](https://awesomecua.com/resources/arxiv-2312-10170/) — 2023-12-15
+  Introduces UINav, a demonstration-based method for training mobile UI automation agents, with a referee model for failure feedback and automatic augmentation of examples.
 - [ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations](https://awesomecua.com/resources/arxiv-2310-04869/) — 2023-10-07
   ILuvUI generates 335,000 conversational training examples paired with UI screenshots, covering questions, descriptions, and plans. The resulting vision-language model is assessed on element detection, response quality, and examples of multi-step UI navigation.
+- [Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications](https://awesomecua.com/resources/arxiv-2308-05898/) — 2023-08-11
+  Introduces UIGuard, a system that examines mobile UI visuals and text to detect dark patterns, together with a labeled dataset of benign and malicious interfaces.
 - [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://awesomecua.com/resources/arxiv-2307-10088/) — 2023-07-19
   Collects Android interaction demonstrations with screens, actions, and instructions across device and platform variations for robustness evaluation.
 - [Mind2Web: Towards a Generalist Agent for the Web](https://awesomecua.com/resources/arxiv-2306-06070/) — 2023-06-09
   Introduces a web-task dataset spanning diverse websites and evaluates generalization to unseen sites and domains.
+- [Mobile User Interface Element Detection Via Adaptively Prompt Tuning](https://awesomecua.com/resources/arxiv-2305-09699/) — 2023-05-16
+  Introduces MUI-zh and APT for detecting mobile UI elements, combining visual features with OCR descriptions to adjust category prompts in CLIP-based detectors.
+- [FLAME: A small language model for spreadsheet formulas](https://awesomecua.com/resources/arxiv-2301-13779/) — 2023-01-31
+  Introduces FLAME, a model trained on Excel formulas for spreadsheet formula repair, completion and retrieval, supporting formula authoring in spreadsheet software.
 - [WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics](https://awesomecua.com/resources/arxiv-2301-13280/) — 2023-01-30
   Collects rendered webpages and structural metadata for visual UI modeling, studying how web semantics transfer to interface-understanding tasks.
 - [Lexi: Self-Supervised Learning of the UI Language](https://awesomecua.com/resources/arxiv-2301-10165/) — 2023-01-23
   Introduces Lexi and UICaption to learn UI image-text representations from descriptions of interface functionality. Evaluation covers UI action entailment, instruction-based retrieval, referring-expression grounding, and UI entity recognition.
+- [Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2212-04732/) — 2022-12-09
+  Introduces QTypist, an LLM-based method that generates text inputs from mobile GUI context and integrates with automated testing tools to help them reach further app pages.
 - [Understanding HTML with Large Language Models](https://awesomecua.com/resources/arxiv-2210-03945/) — 2022-10-08
   Studies language models for HTML element classification, page description and autonomous web navigation. Fine-tuned models are evaluated on MiniWoB, and a distilled, automatically labeled CommonCrawl HTML corpus supports the training approach.
 - [Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding](https://awesomecua.com/resources/arxiv-2210-03347/) — 2022-10-07
@@ -530,6 +570,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Introduces CLAY, a pipeline that repairs noisy mobile UI layouts by removing nodes without valid visual counterparts and assigning semantic element types, supported by human-annotated layouts for evaluation.
 - [Understanding Mobile GUI: from Pixel-Words to Screen-Sentences](https://awesomecua.com/resources/arxiv-2105-11941/) — 2021-05-25
   Models mobile screens as atomic text and graphic components whose relationships are learned by a Screen Transformer. The work introduces RICO-PW annotations and evaluates metadata-free screen understanding on relation, clickability, retrieval, and app-classification tasks.
+- [Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments](https://awesomecua.com/resources/arxiv-2104-08560/) — 2021-04-17
+  Introduces MoTIF, a dataset of natural-language requests for interactive mobile apps, including infeasible requests and follow-up questions for studying task feasibility.
 - [Mapping Natural Language Instructions to Mobile UI Action Sequences](https://awesomecua.com/resources/arxiv-2005-03776/) — 2020-05-07
   Introduces PIXELHELP for predicting mobile UI action sequences from instructions, together with action-phrase annotations and synthetic UI action descriptions for training. Separate Transformers extract instruction steps and ground object descriptions using interface content and screen position.
 - [Mapping Natural Language Commands to Web Elements](https://awesomecua.com/resources/arxiv-1808-09132/) — 2018-08-28

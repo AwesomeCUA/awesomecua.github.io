@@ -1,5 +1,69 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2310.13518v3",
+    "archive": "arXiv",
+    "archive_location": "2310.13518",
+    "author": [
+      {
+        "literal": "Shengcheng Yu"
+      },
+      {
+        "literal": "Chunrong Fang"
+      },
+      {
+        "literal": "Ziyuan Tuo"
+      },
+      {
+        "literal": "Quanjun Zhang"
+      },
+      {
+        "literal": "Chunyang Chen"
+      },
+      {
+        "literal": "Zhenyu Chen"
+      },
+      {
+        "literal": "Zhendong Su"
+      }
+    ],
+    "citation-key": "arxiv_2310_13518",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b8749aabd4cab3ac9bf906f13f369df7e428c416cd61120d0dda2f6f6f380f99",
+        "submitted_at": "2023-10-20T14:04:04Z",
+        "updated_at": "2025-10-20T12:56:54Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2310.13518v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.13518",
+      "catalog_id": "arxiv:2310.13518",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-10-20",
+      "identifiers": {
+        "arxiv": "2310.13518"
+      },
+      "record_updated_at": "2025-10-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.13518",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-20; Recorded arXiv version: v3; Recorded version updated: 2025-10-20T12:56:54Z.",
+    "title": "Vision-Based Mobile App GUI Testing: A Survey",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2412.17589v1",
     "archive": "arXiv",
     "archive_location": "2412.17589",

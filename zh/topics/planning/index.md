@@ -246,8 +246,12 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Studies proactive assistance in visual-analytics interfaces, using interaction logs to detect support needs and provide context-aware suggestions and guidance.
 - [GTA1: GUI Test-time Scaling Agent](https://awesomecua.com/resources/arxiv-2507-05791/) — 2025-07-08
   GTA1 samples multiple action proposals at each GUI step and uses a judge to select among them. A separate grounding model is trained with reinforcement learning to map selected proposals to visual targets, linking planning-time search with click localization.
+- [WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis](https://awesomecua.com/resources/arxiv-2507-04370/) — 2025-07-06
+  Introduces WebSynthesis, which uses a learned web world model and tree-based planning to synthesize interaction trajectories for training web agents.
 - [LineRetriever: Planning-Aware Observation Reduction for Web Agents](https://awesomecua.com/resources/arxiv-2507-00210/) — 2025-06-30
   LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
+- [Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents](https://awesomecua.com/resources/arxiv-2506-21252/) — 2025-06-26
+  Introduces Agent-RewardBench to evaluate step-level reward models for multimodal agents across perception, planning, and safety; web navigation is among its scenarios.
 - [Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](https://awesomecua.com/resources/arxiv-2506-17913/) — 2025-06-22
   CogniGUI combines hierarchical visual parsing of interface elements with a GRPO-based grounding agent that compares alternative interaction paths. Its ScreenSeek benchmark evaluates navigation across applications, changing interface states, and consistency between interfaces.
 - [Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence](https://awesomecua.com/resources/arxiv-2506-15677/) — 2025-06-18
@@ -266,6 +270,10 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   ScenGen organizes mobile GUI testing around business scenarios rather than unrestricted exploration. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
 - [Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation](https://awesomecua.com/resources/arxiv-2506-04614/) — 2025-06-05
   Uses a pre-execution critic and reinforcement training to evaluate proposed GUI actions and provide corrective suggestions before execution.
+- [ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing](https://awesomecua.com/resources/arxiv-2506-00520/) — 2025-05-31
+  Introduces ResTest, which uses coverage reports and a state transition graph to infer untested web functions, then directs a GUI agent to execute them.
+- [Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks](https://awesomecua.com/resources/arxiv-2505-24876/) — 2025-05-30
+  Introduces Agent-X, a benchmark of multi-step visual reasoning and tool use with step-level grading across six settings, including web browsing.
 - [Agent-SAMA: State-Aware Mobile Assistant](https://awesomecua.com/resources/arxiv-2505-23596/) — 2025-05-29
   Models mobile application execution as a finite-state machine to support planning, verification, and recovery across interface transitions.
 - [BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism](https://awesomecua.com/resources/arxiv-2505-20660/) — 2025-05-27
@@ -280,6 +288,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   SPlanner models mobile-app functions and configurations with extended finite-state machines, traverses them to construct execution paths, and converts those paths into natural-language plans. A VLM follows these plans to perform GUI actions, with evaluation on AndroidWorld.
 - [MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](https://awesomecua.com/resources/arxiv-2505-12299/) — 2025-05-18
   MobileIPL samples trees of action-planning thoughts, propagates rule-based leaf rewards backward, and forms preference pairs for reasoning-level optimization. It also expands screenshot-based instruction data through staged evolution before evaluation on mobile GUI-agent benchmarks.
+- [InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction](https://awesomecua.com/resources/arxiv-2505-10887/) — 2025-05-16
+  Introduces InfantAgent-Next, a modular multimodal computer agent that combines tool-based and vision agents for stepwise tasks, with evaluation on OSWorld and other benchmarks.
 - [EcoAgent: An Efficient Device-Cloud Collaborative Multi-Agent Framework for Mobile Automation](https://awesomecua.com/resources/arxiv-2505-05440/) — 2025-05-08
   EcoAgent splits mobile automation between cloud planning and on-device observation and verification. Compact screen descriptions and feedback reduce communication costs, with evaluation on AndroidWorld.
 - [ScaleTrack: Scaling and back-tracking Automated GUI Agents](https://awesomecua.com/resources/arxiv-2505-00416/) — 2025-05-01
@@ -304,12 +314,16 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Combines generalist and specialist models with hierarchical planning and multiple grounding methods for computer-use tasks.
 - [Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up Questions](https://awesomecua.com/resources/arxiv-2503-24180/) — 2025-03-31
   Navi-plus evaluates GUI agents that ask follow-up questions to complete ambiguous user instructions. It provides GUI clarification question-answer pairs and Dual-Stream Trajectory Evaluation for this interactive setting.
+- [Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft](https://awesomecua.com/resources/arxiv-2503-20036/) — 2025-03-25
+  Introduces BugCraft, which turns Minecraft crash reports into steps and has a vision-based agent execute them through a macro API; BugCraft-Bench supports evaluation.
 - [GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](https://awesomecua.com/resources/arxiv-2503-17709/) — 2025-03-22
   Introduces GUI-Xplore exploration videos and downstream tasks, with an agent that combines action-aware modeling and graph-based environment reasoning.
 - [Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study](https://awesomecua.com/resources/arxiv-2503-16788/) — 2025-03-21
   This study compares matched reasoning and non-reasoning vision-language models on static mobile GUI tasks and interactive AndroidWorld navigation. It finds that chain-of-thought effects vary across tasks and model families.
 - [Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://awesomecua.com/resources/arxiv-2503-15937/) — 2025-03-20
   Introduces V-Droid, which verifies candidate actions in a discrete action space rather than directly generating each mobile operation.
+- [WebNav: An Intelligent Agent for Voice-Controlled Web Navigation](https://awesomecua.com/resources/arxiv-2503-13843/) — 2025-03-18
+  Introduces WebNav, a web navigation agent that turns natural-language commands into GUI actions using screenshot context, DOM labels, and separate LLMs for planning and action parameters.
 - [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](https://awesomecua.com/resources/arxiv-2503-09572/) — 2025-03-12
   Separates planning from execution and creates synthetic plan annotations for training agents on extended web-navigation tasks.
 - [COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation](https://awesomecua.com/resources/arxiv-2503-09263/) — 2025-03-12
@@ -320,18 +334,28 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Uses human-planned subtasks to constrain and refine the intermediate plans connecting user goals with executable mobile operations.
 - [LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications](https://awesomecua.com/resources/arxiv-2503-02950/) — 2025-03-04
   Introduces a modular visual web-agent stack with planning and memory components, exposed through a remote-browser application and Chrome extension.
+- [Language Models can Self-Improve at State-Value Estimation for Better Search](https://awesomecua.com/resources/arxiv-2503-02878/) — 2025-03-04
+  Introduces Self-Taught Lookahead (STL), which trains a value model to predict actions and resulting states for more efficient search, with evaluation on web-agent tasks.
 - [MPO: Boosting LLM Agents with Meta Plan Optimization](https://awesomecua.com/resources/arxiv-2503-02682/) — 2025-03-04
   Refines reusable high-level meta plans with execution feedback to guide language-agent planning across interactive environments.
 - [ATLaS: Agent Tuning via Learning Critical Steps](https://awesomecua.com/resources/arxiv-2503-02197/) — 2025-03-04
   Selects critical steps from expert interaction trajectories for targeted agent fine-tuning, studying efficiency and generalization across tasks.
 - [Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks](https://awesomecua.com/resources/arxiv-2503-00401/) — 2025-03-01
   Uses inference of possible user queries from screenshots and target coordinates as a training bridge between GUI grounding and action reasoning.
+- [MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions](https://awesomecua.com/resources/arxiv-2502-16796/) — 2025-02-24
+  Introduces MobileSteward, which coordinates app-specific phone agents, schedules cross-app tasks, and reuses successful experience; CAPBench evaluates cross-app instructions.
 - [PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC](https://awesomecua.com/resources/arxiv-2502-14282/) — 2025-02-20
   Uses active perception and hierarchical agents for instruction decomposition, progress tracking, action selection, and reflection in PC workflows.
+- [Magma: A Foundation Model for Multimodal AI Agents](https://awesomecua.com/resources/arxiv-2502-13130/) — 2025-02-18
+  Introduces Magma, a multimodal agent model trained with labels for clickable GUI elements and video motion traces, and evaluated on UI navigation and robot tasks.
+- [Scaling Autonomous Agents via Automatic Reward Modeling And Planning](https://awesomecua.com/resources/arxiv-2502-12130/) — 2025-02-17
+  Introduces a framework that learns a reward model from agent trajectories to guide multi-step planning, with online shopping among its decision-making settings.
 - [WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point](https://awesomecua.com/resources/arxiv-2502-08047/) — 2025-02-12
   Introduces desktop and web tasks with varied initial states to test planning recovery and adaptability beyond canonical starting configurations.
 - [Advancing Autonomous VLM Agents via Variational Subgoal-Conditioned Reinforcement Learning](https://awesomecua.com/resources/arxiv-2502-07949/) — 2025-02-11
   Uses variational subgoal-conditioned reinforcement learning to improve learning efficiency on sparse-reward mobile and web-control tasks.
+- [RWKV-UI: UI Understanding with Enhanced Perception and Reasoning](https://awesomecua.com/resources/arxiv-2502-03971/) — 2025-02-06
+  RWKV-UI is a visual language model for high-resolution web interfaces that uses layout detection and reasoning-chain visual prompts to understand pages.
 - [ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation](https://awesomecua.com/resources/arxiv-2502-02955/) — 2025-02-05
   Splits mobile tasks into reaching the required page and operating on it, using subtask data and preferred GUI trajectories for training.
 - [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://awesomecua.com/resources/arxiv-2501-12326/) — 2025-01-21
@@ -342,6 +366,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Uses staged supervised training to combine GUI understanding and grounding with hierarchical reasoning and expectation-based reflection.
 - [PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World](https://awesomecua.com/resources/arxiv-2412-17589/) — 2024-12-23
   Combines PC Tracker interaction capture, completion of action and reasoning annotations, and planning and grounding agents for desktop workflows.
+- [CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers](https://awesomecua.com/resources/arxiv-2412-13810/) — 2024-12-18
+  CAD-Assistant plans CAD tasks and executes actions through FreeCAD's Python API, using the changing design state to guide later commands.
 - [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](https://awesomecua.com/resources/arxiv-2412-04454/) — 2024-12-05
   Uses screenshots, a unified action space, and staged grounding and reasoning training for cross-platform GUI interaction.
 - [Ponder & Press: Advancing Visual GUI Agent towards General Computer Control](https://awesomecua.com/resources/arxiv-2412-01268/) — 2024-12-02
@@ -366,6 +392,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Uses a learned web world model to predict important state changes and compare candidate actions before executing them.
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://awesomecua.com/resources/arxiv-2410-08164/) — 2024-10-10
   Combines hierarchical planning, retrieved experience, and a computer interaction interface to execute multistep GUI tasks.
+- [ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning](https://awesomecua.com/resources/arxiv-2410-02052/) — 2024-10-02
+  ExACT combines reflective tree search with learning from search experience to help web agents explore, assess states and backtrack on VisualWebArena.
 - [Dynamic Planning for LLM-based Graphical User Interface Automation](https://awesomecua.com/resources/arxiv-2410-00467/) — 2024-10-01
   Dynamic Planning of Thoughts revises a mobile GUI plan using current environmental feedback and execution history. The study compares this planning strategy with long-dialogue prompting and examines its behavior on unfamiliar tasks and different language-model backbones.
 - [Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface](https://awesomecua.com/resources/arxiv-2410-00079/) — 2024-09-30
@@ -376,6 +404,10 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Separates web-agent planning and grounding evaluations on Mind2Web to analyze which components limit task performance.
 - [WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration](https://awesomecua.com/resources/arxiv-2408-15978/) — 2024-08-28
   WebPilot separates global subtask planning from local Monte Carlo tree search during web execution. It continually refines the high-level plan and adapts local search to uncertain transitions and incomplete observations, evaluated on WebArena and MiniWoB++.
+- [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://awesomecua.com/resources/arxiv-2408-07199/) — 2024-08-13
+  Agent Q combines guided tree search, self-critique and preference-based fine-tuning to train web agents from successful and unsuccessful interactions.
+- [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://awesomecua.com/resources/arxiv-2407-20183/) — 2024-07-29
+  MindSearch uses a planner and searcher agents to split information requests into subquestions and gather answers across web pages.
 - [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?](https://awesomecua.com/resources/arxiv-2407-15711/) — 2024-07-22
   Introduces realistic open-web tasks and the SeePlanAct agent, analyzing the limitations of browsing and retrieval in time-consuming assistant work.
 - [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://awesomecua.com/resources/arxiv-2407-13032/) — 2024-07-17
@@ -398,6 +430,12 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Compares human think-aloud web-task behavior with web-agent planning, action, and reflection. The analysis highlights differences in updating plans, handling ambiguity, and investigating failures.
 - [MMAC-Copilot: Multi-modal Agent Collaboration Operating Copilot](https://awesomecua.com/resources/arxiv-2404-18074/) — 2024-04-28
   Introduces MMAC-Copilot, which coordinates agents with different expertise to operate PC applications. VIBench evaluates visual interaction with applications that lack usable APIs, spanning office, recreation and game tasks.
+- [MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control](https://awesomecua.com/resources/arxiv-2403-12037/) — 2024-03-18
+  Introduces MineDreamer, a Minecraft agent that imagines stages of an instruction and turns them into keyboard-and-mouse actions in a simulated world.
+- [AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents](https://awesomecua.com/resources/arxiv-2403-08978/) — 2024-03-13
+  Introduces AutoGuide, which generates conditional, context-aware guidelines from past agent experience to support decisions in sequential tasks, including web navigation.
+- [SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models](https://awesomecua.com/resources/arxiv-2403-03636/) — 2024-03-06
+  Introduces SheetRM, a benchmark of long-horizon spreadsheet tasks, and SheetAgent, an LLM agent that plans, retrieves information and reflects while manipulating spreadsheets.
 - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://awesomecua.com/resources/arxiv-2403-03186/) — 2024-03-05
   Uses screenshot observations, planning modules, and generated low-level keyboard and mouse control for general computer interaction.
 - [Android in the Zoo: Chain-of-Action-Thought for GUI Agents](https://awesomecua.com/resources/arxiv-2403-02713/) — 2024-03-05
@@ -418,10 +456,14 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Presents LLMPA, a mobile process-automation architecture that decomposes requests, identifies interface elements, predicts actions and checks errors. Demonstrations evaluate multistep operations in Alipay.
 - [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://awesomecua.com/resources/arxiv-2312-03003/) — 2023-12-04
   Introduces MobileGPT, which organizes mobile-app experience into reusable subtasks using an explore, select, derive, and recall cycle. Its memory supports learning task procedures and adapting them to new contexts.
+- [ProAgent: From Robotic Process Automation to Agentic Process Automation](https://awesomecua.com/resources/arxiv-2311-10751/) — 2023-11-02
+  Introduces ProAgent, an LLM-based agent that builds automation workflows from human instructions and coordinates specialized agents during workflow execution.
 - [WebWISE: Web Interface Control and Sequential Exploration with Large Language Models](https://awesomecua.com/resources/arxiv-2310-16042/) — 2023-10-24
   WebWISE filters DOM elements into observations and generates short programs for click, scroll, and text-entry steps. It evaluates in-context learning from either one supplied example or an example collected during a successful zero-shot MiniWoB++ trial.
 - [A Zero-Shot Language Agent for Computer Control with Structured Reflection](https://awesomecua.com/resources/arxiv-2310-08740/) — 2023-10-12
   Studies a zero-shot computer-control agent that plans executable actions and organizes its own reflections after mistakes. MiniWoB++ experiments examine learning to complete tasks without supplied expert trajectories.
+- [CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace](https://awesomecua.com/resources/arxiv-2310-07128/) — 2023-10-11
+  Introduces CrashTranslator, which predicts GUI exploration steps from stack traces with an LLM and uses RL-guided search to reproduce crashes in Android apps.
 - [ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations](https://awesomecua.com/resources/arxiv-2310-04869/) — 2023-10-07
   ILuvUI generates 335,000 conversational training examples paired with UI screenshots, covering questions, descriptions, and plans. The resulting vision-language model is assessed on element detection, response quality, and examples of multi-step UI navigation.
 - [SteP: Stacked LLM Policies for Web Actions](https://awesomecua.com/resources/arxiv-2310-03720/) — 2023-10-05
@@ -440,6 +482,10 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Introduces AdaPlanner, which revises code-structured plans in response to environmental feedback and reuses successful plans as exemplars. Experiments include MiniWoB++ web tasks alongside ALFWorld.
 - [Hierarchical Prompting Assists Large Language Model on Web Navigation](https://awesomecua.com/resources/arxiv-2305-14257/) — 2023-05-23
   Separates web navigation prompting into a SUMMARIZER that extracts action-relevant observations and an ACTOR that chooses the next action from the condensed context.
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://awesomecua.com/resources/arxiv-2210-03629/) — 2022-10-06
+  Introduces ReAct, a method that interleaves reasoning traces and actions for language-model agents; WebShop is one of its interactive decision-making evaluations.
+- [Learning to Navigate the Web](https://awesomecua.com/resources/arxiv-1812-09195/) — 2018-12-21
+  Introduces guided RL for QWeb, using a curriculum of smaller instructions and generated tasks to train an agent that follows instructions and fills forms on web pages.
 - [End-to-End Goal-Driven Web Navigation](https://awesomecua.com/resources/arxiv-1602-02261/) — 2016-02-06
   Introduces WebNav for converting websites into goal-directed hyperlink navigation tasks and WikiNav for evaluating language-conditioned navigation and question answering on Wikipedia.
 - [PLOW: A Collaborative Task Learning Agent](https://awesomecua.com/resources/url-628b5251757bb3888e89/) — 2007

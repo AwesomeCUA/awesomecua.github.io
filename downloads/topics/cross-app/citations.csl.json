@@ -796,6 +796,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2407.20183v2",
+    "archive": "arXiv",
+    "archive_location": "2407.20183",
+    "author": [
+      {
+        "literal": "Zehui Chen"
+      },
+      {
+        "literal": "Kuikun Liu"
+      },
+      {
+        "literal": "Qiuchen Wang"
+      },
+      {
+        "literal": "Jiangning Liu"
+      },
+      {
+        "literal": "Wenwei Zhang"
+      },
+      {
+        "literal": "Kai Chen"
+      },
+      {
+        "literal": "Feng Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2407_20183",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "652a6381d2a6f960a2775168711be531e4994daeca95bc022716a2babae7c2ed",
+        "submitted_at": "2024-07-29T17:12:40Z",
+        "updated_at": "2025-10-31T02:40:42Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2407.20183v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.20183",
+      "catalog_id": "arxiv:2407.20183",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-07-29",
+      "identifiers": {
+        "arxiv": "2407.20183"
+      },
+      "record_updated_at": "2025-10-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2407.20183",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2024-07-29; Recorded arXiv version: v2; Recorded version updated: 2025-10-31T02:40:42Z.",
+    "title": "MindSearch: Mimicking Human Minds Elicits Deep AI Searcher",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2409.08264v2",
     "archive": "arXiv",
     "archive_location": "2409.08264",
@@ -875,6 +939,128 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2411.17933v2",
+    "archive": "arXiv",
+    "archive_location": "2411.17933",
+    "author": [
+      {
+        "literal": "Benyamin Beyzaei"
+      },
+      {
+        "literal": "Saghar Talebipour"
+      },
+      {
+        "literal": "Ghazal Rafiei"
+      },
+      {
+        "literal": "Nenad Medvidovic"
+      },
+      {
+        "literal": "Sam Malek"
+      }
+    ],
+    "citation-key": "arxiv_2411_17933",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "aa0515fc5d6219f5bfb6a3563e3a776edcacdcd7a6ce4a8ed6a4a4d9e542cef8",
+        "submitted_at": "2024-11-26T23:06:09Z",
+        "updated_at": "2025-04-20T09:29:20Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2411.17933v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.17933",
+      "catalog_id": "arxiv:2411.17933",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-11-26",
+      "identifiers": {
+        "arxiv": "2411.17933"
+      },
+      "record_updated_at": "2025-04-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.17933",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-26; Recorded arXiv version: v2; Recorded version updated: 2025-04-20T09:29:20Z.",
+    "title": "Automated Test Transfer Across Android Apps Using Large Language Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.01600v3",
+    "archive": "arXiv",
+    "archive_location": "2502.01600",
+    "author": [
+      {
+        "literal": "Kevin Chen"
+      },
+      {
+        "literal": "Marco Cusumano-Towner"
+      },
+      {
+        "literal": "Brody Huval"
+      },
+      {
+        "literal": "Aleksei Petrenko"
+      },
+      {
+        "literal": "Jackson Hamburger"
+      },
+      {
+        "literal": "Vladlen Koltun"
+      },
+      {
+        "literal": "Philipp Krähenbühl"
+      }
+    ],
+    "citation-key": "arxiv_2502_01600",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e04fe57f9bc51d03f3fff4bf177ff512316ee9df20aaea034662f3ea3104cd97",
+        "submitted_at": "2025-02-03T18:35:42Z",
+        "updated_at": "2025-03-08T05:23:57Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2502.01600v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.01600",
+      "catalog_id": "arxiv:2502.01600",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-02-03",
+      "identifiers": {
+        "arxiv": "2502.01600"
+      },
+      "record_updated_at": "2025-03-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.01600",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-03; Recorded arXiv version: v3; Recorded version updated: 2025-03-08T05:23:57Z.",
+    "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2502.14282v2",
     "archive": "arXiv",
     "archive_location": "2502.14282",
@@ -949,6 +1135,67 @@
     "title": "PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.16796v1",
+    "archive": "arXiv",
+    "archive_location": "2502.16796",
+    "author": [
+      {
+        "literal": "Yuxuan Liu"
+      },
+      {
+        "literal": "Hongda Sun"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Bo Du"
+      },
+      {
+        "literal": "Rui Yan"
+      }
+    ],
+    "citation-key": "arxiv_2502_16796",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3522393279755638a2ca417e42a664f17fdad6991b9ce1103f2ef792090d4966",
+        "submitted_at": "2025-02-24T03:12:45Z",
+        "updated_at": "2025-02-24T03:12:45Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.16796v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.16796",
+      "catalog_id": "arxiv:2502.16796",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-24",
+      "identifiers": {
+        "arxiv": "2502.16796"
+      },
+      "record_updated_at": "2025-02-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.16796",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-24; Recorded arXiv version: v1; Recorded version updated: 2025-02-24T03:12:45Z.",
+    "title": "MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2504.02357v1",
@@ -1235,6 +1482,79 @@
     "title": "Creating General User Models from Computer Use",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.17629v2",
+    "archive": "arXiv",
+    "archive_location": "2505.17629",
+    "author": [
+      {
+        "literal": "Yuheng Lu"
+      },
+      {
+        "literal": "Qian Yu"
+      },
+      {
+        "literal": "Hongru Wang"
+      },
+      {
+        "literal": "Zeming Liu"
+      },
+      {
+        "literal": "Wei Su"
+      },
+      {
+        "literal": "Yanping Liu"
+      },
+      {
+        "literal": "Yuhang Guo"
+      },
+      {
+        "literal": "Maocheng Liang"
+      },
+      {
+        "literal": "Yunhong Wang"
+      },
+      {
+        "literal": "Haifeng Wang"
+      }
+    ],
+    "citation-key": "arxiv_2505_17629",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b0d87cf010efb0eb7a1fdeaffc16a01829f689103f364d62c853092b990c8962",
+        "submitted_at": "2025-05-23T08:39:06Z",
+        "updated_at": "2025-05-27T07:41:51Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2505.17629v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.17629",
+      "catalog_id": "arxiv:2505.17629",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-23",
+      "identifiers": {
+        "arxiv": "2505.17629"
+      },
+      "record_updated_at": "2025-05-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.17629",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-23; Recorded arXiv version: v2; Recorded version updated: 2025-05-27T07:41:51Z.",
+    "title": "TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2506.18158v1",

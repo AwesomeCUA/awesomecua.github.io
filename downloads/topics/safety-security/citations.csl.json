@@ -116,6 +116,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2402.11208v2",
+    "archive": "arXiv",
+    "archive_location": "2402.11208",
+    "author": [
+      {
+        "literal": "Wenkai Yang"
+      },
+      {
+        "literal": "Xiaohan Bi"
+      },
+      {
+        "literal": "Yankai Lin"
+      },
+      {
+        "literal": "Sishuo Chen"
+      },
+      {
+        "literal": "Jie Zhou"
+      },
+      {
+        "literal": "Xu Sun"
+      }
+    ],
+    "citation-key": "arxiv_2402_11208",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8a00f68d32c29b7ab49b837363d41242db0bc2a4d2c4483a29eaf1d2c7aa88d2",
+        "submitted_at": "2024-02-17T06:48:45Z",
+        "updated_at": "2024-10-29T15:32:04Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2402.11208v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.11208",
+      "catalog_id": "arxiv:2402.11208",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-02-17",
+      "identifiers": {
+        "arxiv": "2402.11208"
+      },
+      "record_updated_at": "2024-10-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2402.11208",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-02-17; Recorded arXiv version: v2; Recorded version updated: 2024-10-29T15:32:04Z.",
+    "title": "Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2402.16965v1",
     "archive": "arXiv",
     "archive_location": "2402.16965",
@@ -1348,6 +1409,67 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2503.10809v3",
+    "archive": "arXiv",
+    "archive_location": "2503.10809",
+    "author": [
+      {
+        "literal": "Lukas Aichberger"
+      },
+      {
+        "literal": "Alasdair Paren"
+      },
+      {
+        "literal": "Guohao Li"
+      },
+      {
+        "literal": "Philip Torr"
+      },
+      {
+        "literal": "Yarin Gal"
+      },
+      {
+        "literal": "Adel Bibi"
+      }
+    ],
+    "citation-key": "arxiv_2503_10809",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7e5622a83d74c18761a7ab88c98682d3903ce0b6700c7e9814f069bfba26e796",
+        "submitted_at": "2025-03-13T18:59:12Z",
+        "updated_at": "2026-01-27T18:10:17Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2503.10809v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.10809",
+      "catalog_id": "arxiv:2503.10809",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-13",
+      "identifiers": {
+        "arxiv": "2503.10809"
+      },
+      "record_updated_at": "2026-01-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.10809",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-13; Recorded arXiv version: v3; Recorded version updated: 2026-01-27T18:10:17Z.",
+    "title": "MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2503.15515v1",
     "archive": "arXiv",
     "archive_location": "2503.15515",
@@ -2146,6 +2268,76 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.05849v4",
+    "archive": "arXiv",
+    "archive_location": "2505.05849",
+    "author": [
+      {
+        "literal": "Zhun Wang"
+      },
+      {
+        "literal": "Vincent Siu"
+      },
+      {
+        "literal": "Zhe Ye"
+      },
+      {
+        "literal": "Tianneng Shi"
+      },
+      {
+        "literal": "Yuzhou Nie"
+      },
+      {
+        "literal": "Xuandong Zhao"
+      },
+      {
+        "literal": "Chenguang Wang"
+      },
+      {
+        "literal": "Wenbo Guo"
+      },
+      {
+        "literal": "Dawn Song"
+      }
+    ],
+    "citation-key": "arxiv_2505_05849",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "eabcb9e11b41d2b2ca7d167f925effc243976a1215d6cb3ea42bb499dd6cce9c",
+        "submitted_at": "2025-05-09T07:40:17Z",
+        "updated_at": "2025-06-14T01:50:21Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2505.05849v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.05849",
+      "catalog_id": "arxiv:2505.05849",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-09",
+      "identifiers": {
+        "arxiv": "2505.05849"
+      },
+      "record_updated_at": "2025-06-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.05849",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-09; Recorded arXiv version: v4; Recorded version updated: 2025-06-14T01:50:21Z.",
+    "title": "AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents",
+    "type": "article",
+    "version": "4"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.09875v2",
     "archive": "arXiv",
     "archive_location": "2505.09875",
@@ -2273,6 +2465,67 @@
     },
     "note": "First published: 2025-05-16; Recorded arXiv version: v4; Recorded version updated: 2026-04-29T05:56:22Z.",
     "title": "A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.11717v4",
+    "archive": "arXiv",
+    "archive_location": "2505.11717",
+    "author": [
+      {
+        "literal": "Xilong Wang"
+      },
+      {
+        "literal": "John Bloch"
+      },
+      {
+        "literal": "Zedian Shao"
+      },
+      {
+        "literal": "Yuepeng Hu"
+      },
+      {
+        "literal": "Shuyan Zhou"
+      },
+      {
+        "literal": "Neil Zhenqiang Gong"
+      }
+    ],
+    "citation-key": "arxiv_2505_11717",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "989673e9cb9103f8c7a28a0b4d838bd83c6e5d87b7f5e44bdb6753d7f0c69a88",
+        "submitted_at": "2025-05-16T22:00:26Z",
+        "updated_at": "2025-10-17T01:52:39Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2505.11717v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.11717",
+      "catalog_id": "arxiv:2505.11717",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-16",
+      "identifiers": {
+        "arxiv": "2505.11717"
+      },
+      "record_updated_at": "2025-10-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.11717",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-16; Recorded arXiv version: v4; Recorded version updated: 2025-10-17T01:52:39Z.",
+    "title": "WebInject: Prompt Injection Attack to Web Agents",
     "type": "article",
     "version": "4"
   },
@@ -3018,6 +3271,61 @@
     "version": "4"
   },
   {
+    "URL": "https://arxiv.org/abs/2506.10953v1",
+    "archive": "arXiv",
+    "archive_location": "2506.10953",
+    "author": [
+      {
+        "literal": "Xing Han Lù"
+      },
+      {
+        "literal": "Gaurav Kamath"
+      },
+      {
+        "literal": "Marius Mosbach"
+      },
+      {
+        "literal": "Siva Reddy"
+      }
+    ],
+    "citation-key": "arxiv_2506_10953",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c73f4a7361e714b57de5a49631caa8b342850c79a1a6fa5354ec01b9f8b648ef",
+        "submitted_at": "2025-06-12T17:53:58Z",
+        "updated_at": "2025-06-12T17:53:58Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.10953v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.10953",
+      "catalog_id": "arxiv:2506.10953",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-12",
+      "identifiers": {
+        "arxiv": "2506.10953"
+      },
+      "record_updated_at": "2025-06-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.10953",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-12; Recorded arXiv version: v1; Recorded version updated: 2025-06-12T17:53:58Z.",
+    "title": "Build the web for agents, not agents for the web",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2506.13205v6",
     "archive": "arXiv",
     "archive_location": "2506.13205",
@@ -3200,6 +3508,67 @@
     },
     "note": "First published: 2025-06-18; Recorded arXiv version: v1; Recorded version updated: 2025-06-18T14:29:02Z.",
     "title": "Context manipulation attacks : Web agents are susceptible to corrupted memory",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.21252v1",
+    "archive": "arXiv",
+    "archive_location": "2506.21252",
+    "author": [
+      {
+        "literal": "Tianyi Men"
+      },
+      {
+        "literal": "Zhuoran Jin"
+      },
+      {
+        "literal": "Pengfei Cao"
+      },
+      {
+        "literal": "Yubo Chen"
+      },
+      {
+        "literal": "Kang Liu"
+      },
+      {
+        "literal": "Jun Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2506_21252",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b251895e2b99f01d6a80038fa5b99c5bab17ee6c38fd515c5ef00244575b2525",
+        "submitted_at": "2025-06-26T13:36:12Z",
+        "updated_at": "2025-06-26T13:36:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.21252v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.21252",
+      "catalog_id": "arxiv:2506.21252",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-06-26",
+      "identifiers": {
+        "arxiv": "2506.21252"
+      },
+      "record_updated_at": "2025-06-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.21252",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-26; Recorded arXiv version: v1; Recorded version updated: 2025-06-26T13:36:12Z.",
+    "title": "Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents",
     "type": "article",
     "version": "1"
   },

@@ -34,6 +34,8 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
   Introduces synthetic CAD interaction videos, a model for learning interface actions from video, and evaluation tasks for spatial and long-horizon reasoning.
 - [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://awesomecua.com/resources/arxiv-2505-19897/) — 2025-05-26
   ScienceBoard combines an interactive environment with professional scientific software and 169 human-curated tasks in areas including biochemistry, astronomy, and geoinformatics. It evaluates computer-use agents on visually rich research workflows and analyzes their execution limitations.
+- [CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers](https://awesomecua.com/resources/arxiv-2412-13810/) — 2024-12-18
+  CAD-Assistant plans CAD tasks and executes actions through FreeCAD's Python API, using the changing design state to guide later commands.
 - [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://awesomecua.com/resources/arxiv-2407-10956/) — 2024-07-15
   Benchmarks multimodal agents on data-science and engineering workflows involving enterprise applications, code, and GUI operations in real computer environments.
 

@@ -50,6 +50,10 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   BEARCUBS provides 111 live-web information-seeking questions with short answers and human-validated browsing trajectories. Its tasks require multimodal computer interaction, including video understanding and navigation of interactive 3D content.
 - [Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation](https://awesomecua.com/resources/arxiv-2502-17110/) — 2025-02-24
   Extracts operational guidance from video for mobile task execution and introduces Mobile-Knowledge to evaluate the contribution of external knowledge.
+- [Magma: A Foundation Model for Multimodal AI Agents](https://awesomecua.com/resources/arxiv-2502-13130/) — 2025-02-18
+  Introduces Magma, a multimodal agent model trained with labels for clickable GUI elements and video motion traces, and evaluated on UI navigation and robot tasks.
+- [UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design](https://awesomecua.com/resources/arxiv-2502-12561/) — 2025-02-18
+  Introduces UXAgent, which uses simulated users and a browser connector to test website usability and present their actions, responses, and recordings to UX researchers.
 - [VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks](https://awesomecua.com/resources/arxiv-2410-19100/) — 2024-10-24
   Evaluates whether web agents can retain procedural skills and factual information from long video tutorials and use them during tasks.
 - [GUI Action Narrator: Where and When Did That Action Take Place?](https://awesomecua.com/resources/arxiv-2406-13719/) — 2024-06-19
@@ -64,6 +68,8 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   AgentStudio combines an interactive GUI/API environment with tools for creating tasks, annotating interface elements, and labeling actions in videos. Its online suite and GroundUI, IDMBench, and CriticBench datasets examine interaction, grounding, learning from video, and success detection.
 - [Computer User Interface Understanding. A New Dataset and a Learning Framework](https://awesomecua.com/resources/arxiv-2403-10170/) — 2024-03-15
   Introduces desktop interaction videos and a framework combining synthetic examples with hierarchical contrastive learning for interface classification.
+- [AXNav: Replaying Accessibility Tests from Natural Language](https://awesomecua.com/resources/arxiv-2310-02424/) — 2023-10-03
+  Introduces an LLM and pixel-based UI system that executes natural-language accessibility tests, records navigable videos and flags potential interface issues.
 
 ## Benchmarks
 

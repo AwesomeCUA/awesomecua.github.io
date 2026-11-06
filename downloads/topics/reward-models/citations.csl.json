@@ -1,5 +1,102 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2112.09332v3",
+    "archive": "arXiv",
+    "archive_location": "2112.09332",
+    "author": [
+      {
+        "literal": "Reiichiro Nakano"
+      },
+      {
+        "literal": "Jacob Hilton"
+      },
+      {
+        "literal": "Suchir Balaji"
+      },
+      {
+        "literal": "Jeff Wu"
+      },
+      {
+        "literal": "Long Ouyang"
+      },
+      {
+        "literal": "Christina Kim"
+      },
+      {
+        "literal": "Christopher Hesse"
+      },
+      {
+        "literal": "Shantanu Jain"
+      },
+      {
+        "literal": "Vineet Kosaraju"
+      },
+      {
+        "literal": "William Saunders"
+      },
+      {
+        "literal": "Xu Jiang"
+      },
+      {
+        "literal": "Karl Cobbe"
+      },
+      {
+        "literal": "Tyna Eloundou"
+      },
+      {
+        "literal": "Gretchen Krueger"
+      },
+      {
+        "literal": "Kevin Button"
+      },
+      {
+        "literal": "Matthew Knight"
+      },
+      {
+        "literal": "Benjamin Chess"
+      },
+      {
+        "literal": "John Schulman"
+      }
+    ],
+    "citation-key": "arxiv_2112_09332",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8a9122bd2c771071f93250e9e330b1f923f1e50c0d829cc3144be43c6b575195",
+        "submitted_at": "2021-12-17T05:43:43Z",
+        "updated_at": "2022-06-01T19:08:11Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2112.09332v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2112.09332",
+      "catalog_id": "arxiv:2112.09332",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2021-12-17",
+      "identifiers": {
+        "arxiv": "2112.09332"
+      },
+      "record_updated_at": "2022-06-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2112.09332",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2021-12-17; Recorded arXiv version: v3; Recorded version updated: 2022-06-01T19:08:11Z.",
+    "title": "WebGPT: Browser-assisted question-answering with human feedback",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2404.06474v3",
     "archive": "arXiv",
     "archive_location": "2404.06474",
@@ -125,6 +222,131 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2502.12130v1",
+    "archive": "arXiv",
+    "archive_location": "2502.12130",
+    "author": [
+      {
+        "literal": "Zhenfang Chen"
+      },
+      {
+        "literal": "Delin Chen"
+      },
+      {
+        "literal": "Rui Sun"
+      },
+      {
+        "literal": "Wenjun Liu"
+      },
+      {
+        "literal": "Chuang Gan"
+      }
+    ],
+    "citation-key": "arxiv_2502_12130",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5cde1d02d18500109d1190869f27eadc5f14d56fd09507d7a415e462c66aca6e",
+        "submitted_at": "2025-02-17T18:49:25Z",
+        "updated_at": "2025-02-17T18:49:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.12130v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.12130",
+      "catalog_id": "arxiv:2502.12130",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-02-17",
+      "identifiers": {
+        "arxiv": "2502.12130"
+      },
+      "record_updated_at": "2025-02-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.12130",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-17; Recorded arXiv version: v1; Recorded version updated: 2025-02-17T18:49:25Z.",
+    "title": "Scaling Autonomous Agents via Automatic Reward Modeling And Planning",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.14496v3",
+    "archive": "arXiv",
+    "archive_location": "2502.14496",
+    "author": [
+      {
+        "literal": "Zhitao He"
+      },
+      {
+        "literal": "Zijun Liu"
+      },
+      {
+        "literal": "Peng Li"
+      },
+      {
+        "literal": "Yi R. Fung"
+      },
+      {
+        "literal": "Ming Yan"
+      },
+      {
+        "literal": "Ji Zhang"
+      },
+      {
+        "literal": "Fei Huang"
+      },
+      {
+        "literal": "Yang Liu"
+      }
+    ],
+    "citation-key": "arxiv_2502_14496",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9dc80d2365e9134283f2094edb5f4d1025d32617b45f33320edb4d825264b318",
+        "submitted_at": "2025-02-20T12:26:15Z",
+        "updated_at": "2025-08-20T09:42:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2502.14496v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.14496",
+      "catalog_id": "arxiv:2502.14496",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-20",
+      "identifiers": {
+        "arxiv": "2502.14496"
+      },
+      "record_updated_at": "2025-08-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.14496",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-20; Recorded arXiv version: v3; Recorded version updated: 2025-08-20T09:42:24Z.",
+    "title": "Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2504.16073v1",
     "archive": "arXiv",
     "archive_location": "2504.16073",
@@ -190,6 +412,241 @@
     "title": "Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.10978v3",
+    "archive": "arXiv",
+    "archive_location": "2505.10978",
+    "author": [
+      {
+        "literal": "Lang Feng"
+      },
+      {
+        "literal": "Zhenghai Xue"
+      },
+      {
+        "literal": "Tingcong Liu"
+      },
+      {
+        "literal": "Bo An"
+      }
+    ],
+    "citation-key": "arxiv_2505_10978",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a3faa5753692553b6ef3309532d37c2607e3cd9733475979ff456f588fc2a542",
+        "submitted_at": "2025-05-16T08:26:59Z",
+        "updated_at": "2025-10-28T15:11:36Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2505.10978v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.10978",
+      "catalog_id": "arxiv:2505.10978",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-16",
+      "identifiers": {
+        "arxiv": "2505.10978"
+      },
+      "record_updated_at": "2025-10-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.10978",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-16; Recorded arXiv version: v3; Recorded version updated: 2025-10-28T15:11:36Z.",
+    "title": "Group-in-Group Policy Optimization for LLM Agent Training",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.20732v1",
+    "archive": "arXiv",
+    "archive_location": "2505.20732",
+    "author": [
+      {
+        "literal": "Hanlin Wang"
+      },
+      {
+        "literal": "Chak Tou Leong"
+      },
+      {
+        "literal": "Jiashuo Wang"
+      },
+      {
+        "literal": "Jian Wang"
+      },
+      {
+        "literal": "Wenjie Li"
+      }
+    ],
+    "citation-key": "arxiv_2505_20732",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "08018a5f5d286f25179700b010fe737b3d9c0fe9973236f3ab833f45bf860bb9",
+        "submitted_at": "2025-05-27T05:21:04Z",
+        "updated_at": "2025-05-27T05:21:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.20732v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.20732",
+      "catalog_id": "arxiv:2505.20732",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-27",
+      "identifiers": {
+        "arxiv": "2505.20732"
+      },
+      "record_updated_at": "2025-05-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.20732",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-27; Recorded arXiv version: v1; Recorded version updated: 2025-05-27T05:21:04Z.",
+    "title": "SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.21252v1",
+    "archive": "arXiv",
+    "archive_location": "2506.21252",
+    "author": [
+      {
+        "literal": "Tianyi Men"
+      },
+      {
+        "literal": "Zhuoran Jin"
+      },
+      {
+        "literal": "Pengfei Cao"
+      },
+      {
+        "literal": "Yubo Chen"
+      },
+      {
+        "literal": "Kang Liu"
+      },
+      {
+        "literal": "Jun Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2506_21252",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b251895e2b99f01d6a80038fa5b99c5bab17ee6c38fd515c5ef00244575b2525",
+        "submitted_at": "2025-06-26T13:36:12Z",
+        "updated_at": "2025-06-26T13:36:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.21252v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.21252",
+      "catalog_id": "arxiv:2506.21252",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-06-26",
+      "identifiers": {
+        "arxiv": "2506.21252"
+      },
+      "record_updated_at": "2025-06-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.21252",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-26; Recorded arXiv version: v1; Recorded version updated: 2025-06-26T13:36:12Z.",
+    "title": "Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.11662v3",
+    "archive": "arXiv",
+    "archive_location": "2507.11662",
+    "author": [
+      {
+        "literal": "Moises Andrade"
+      },
+      {
+        "literal": "Joonhyuk Cha"
+      },
+      {
+        "literal": "Brandon Ho"
+      },
+      {
+        "literal": "Vriksha Srihari"
+      },
+      {
+        "literal": "Karmesh Yadav"
+      },
+      {
+        "literal": "Zsolt Kira"
+      }
+    ],
+    "citation-key": "arxiv_2507_11662",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "86c4cb97fcf46fc15619ca481261d42518d84e94d43978cdddbf2cbae2b6ae33",
+        "submitted_at": "2025-07-15T18:50:29Z",
+        "updated_at": "2026-03-08T00:45:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2507.11662v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.11662",
+      "catalog_id": "arxiv:2507.11662",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-15",
+      "identifiers": {
+        "arxiv": "2507.11662"
+      },
+      "record_updated_at": "2026-03-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.11662",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-15; Recorded arXiv version: v3; Recorded version updated: 2026-03-08T00:45:24Z.",
+    "title": "Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2507.14293v1",

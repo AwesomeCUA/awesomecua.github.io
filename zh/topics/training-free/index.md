@@ -56,12 +56,20 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
   Studies the gap between latent visual grounding and explicit coordinate output in general vision-language models. Three zero-shot methods add axes, grids, or labeled intersections to GUI screenshots so models can express spatial locations without fine-tuning.
 - [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://awesomecua.com/resources/arxiv-2508-05615/) — 2025-08-07
   GUI-RC aggregates multiple grounding predictions into spatial voting grids to choose a consensus region. GUI-RCPO then turns agreement with that region into a reward for test-time policy updates on unlabeled GUI screenshots.
+- [A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images](https://awesomecua.com/resources/arxiv-2507-10202/) — 2025-07-14
+  Introduces Extract Candidate then Predict (ECP), a training-free two-stage method for high-resolution images, evaluated partly on 4K GUI grounding.
 - [LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://awesomecua.com/resources/arxiv-2507-10610/) — 2025-07-13
   Introduces LaSM, a training-free defense that selectively scales attention and MLP components to improve alignment with task-relevant screen regions. It evaluates the approach against pop-up-based GUI injection attacks.
 - [Understanding GUI Agent Localization Biases through Logit Sharpness](https://awesomecua.com/resources/arxiv-2506-15425/) — 2025-06-18
   Introduces a finer-grained taxonomy of GUI localization errors and a logit-based Peak Sharpness Score for analyzing coordinate-prediction uncertainty. A context-aware cropping method refines the visual input without retraining the grounding model.
+- [Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments](https://awesomecua.com/resources/arxiv-2501-10893/) — 2025-01-18
+  Learn-by-interact synthesizes agent interaction trajectories from documentation and derives instructions from their histories for training or in-context use across web and desktop tasks.
+- [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](https://awesomecua.com/resources/arxiv-2306-01987/) — 2023-06-03
+  Introduces AdbGPT, a prompting-based approach that uses LLMs to replay app bugs from written reports, applying few-shot examples and reasoning without model training.
 - [Language Models can Solve Computer Tasks](https://awesomecua.com/resources/arxiv-2303-17491/) — 2023-03-30
   Introduces recursive criticism and improvement prompting for language-model agents performing computer tasks, evaluated on MiniWoB++ with a small number of demonstrations per task.
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://awesomecua.com/resources/arxiv-2210-03629/) — 2022-10-06
+  Introduces ReAct, a method that interleaves reasoning traces and actions for language-model agents; WebShop is one of its interactive decision-making evaluations.
 - [Enabling Conversational Interaction with Mobile UI using Large Language Models](https://awesomecua.com/resources/arxiv-2209-08655/) — 2022-09-18
   Studies few-shot prompting of a single language model for four mobile-UI interaction tasks, aiming to support conversational interface use without a separate trained model for each task.
 

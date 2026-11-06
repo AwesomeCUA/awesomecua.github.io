@@ -98,18 +98,30 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   CoAct-1 delegates subtasks between a GUI operator and a programmer that executes Python or Bash. Its OSWorld evaluation studies a hybrid action space in which scripts handle suitable file and data operations while visual interaction handles other steps.
 - [OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?](https://awesomecua.com/resources/arxiv-2507-19132/) — 2025-07-25
   OS-MAP organizes 416 computer-use tasks across 15 applications by a five-level automation taxonomy and a hierarchy of user demands. The benchmark separates required autonomy from generalization scope to diagnose where agents struggle as task demands increase.
+- [Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation](https://awesomecua.com/resources/arxiv-2506-19998/) — 2025-06-24
+  Introduces Doc2Agent, a pipeline that generates and refines Python tools from API documentation for tool-using agents, with WebArena APIs among its evaluations.
 - [Scenario-Guided LLM-based Mobile App GUI Testing](https://awesomecua.com/resources/arxiv-2506-05079/) — 2025-06-05
   ScenGen organizes mobile GUI testing around business scenarios rather than unrestricted exploration. Five collaborating agents observe the interface, choose and execute actions, check scenario completion, and record operations and runtime bugs.
+- [ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing](https://awesomecua.com/resources/arxiv-2506-00520/) — 2025-05-31
+  Introduces ResTest, which uses coverage reports and a state transition graph to infer untested web functions, then directs a GUI agent to execute them.
 - [LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS](https://awesomecua.com/resources/arxiv-2505-18829/) — 2025-05-24
   AIOS 1.0 exposes computer states and actions through an MCP server to provide structured environmental context for agents. LiteCUA is a lightweight agent built on this interface, evaluated on OSWorld to study the effect of computer-environment contextualization.
+- [AutoData: A Multi-Agent System for Open Web Data Collection](https://awesomecua.com/resources/arxiv-2505-15859/) — 2025-05-21
+  Introduces AutoData, a multi-agent system that collects web datasets from a natural-language request, and Instruct2DS, a benchmark for live collection across three domains.
 - [UFO2: The Desktop AgentOS](https://awesomecua.com/resources/arxiv-2504-14603/) — 2025-04-20
   Introduces UFO2, a Windows desktop agent architecture combining a coordinating HostAgent, application-specialized agents, and a shared GUI/API action layer. It integrates UI Automation, visual parsing, speculative planning, and an isolated picture-in-picture desktop.
+- [WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents](https://awesomecua.com/resources/arxiv-2504-12682/) — 2025-04-17
+  Introduces WebLists, a benchmark for structured extraction from interactive websites, and BardeenAgent, which turns web-agent runs into replayable CSS-selector programs.
 - [VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps](https://awesomecua.com/resources/arxiv-2504-11675/) — 2025-04-16
   VLM-Fuzz combines depth-first UI exploration with Android manifest analysis, runtime widget hierarchies, and on-demand visual reasoning to generate app test inputs. It evaluates coverage on 59 benchmark apps and uses additional Google Play apps to study crash discovery.
+- [Inducing Programmatic Skills for Agentic Tasks](https://awesomecua.com/resources/arxiv-2504-06821/) — 2025-04-09
+  Introduces agent skill induction (ASI), which creates, checks, and reuses program-based skills for web tasks by combining primitive actions into higher-level routines.
 - [ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback](https://awesomecua.com/resources/arxiv-2504-02357/) — 2025-04-03
   ReuseDroid migrates Android GUI tests between functionally similar apps using VLM agents that separate shared test intent from app-specific interaction flows. It introduces LinPro, a dataset of 578 migration tasks across 39 apps, to evaluate test transfer.
 - [Are Autonomous Web Agents Good Testers?](https://awesomecua.com/resources/arxiv-2504-01495/) — 2025-04-02
   Adapts web agents to execute natural-language test steps, verify assertions, and issue test verdicts. The study introduces 113 passing and failing test cases across three offline web applications and compares two agent implementations with qualitative failure analysis.
+- [Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft](https://awesomecua.com/resources/arxiv-2503-20036/) — 2025-03-25
+  Introduces BugCraft, which turns Minecraft crash reports into steps and has a vision-based agent execute them through a macro API; BugCraft-Bench supports evaluation.
 - [API Agents vs. GUI Agents: Divergence and Convergence](https://awesomecua.com/resources/arxiv-2503-11069/) — 2025-03-14
   Compares API-driven and GUI-driven agents across architecture, development, and interaction considerations, discussing when hybrid approaches are useful.
 - [Towards Enterprise-Ready Computer Using Generalist Agent](https://awesomecua.com/resources/arxiv-2503-01861/) — 2025-02-24
@@ -120,8 +132,12 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Evaluates GUI testing through test-intent generation, execution, and defect detection using real, modified, and synthetic mobile application data.
 - [Large Action Models: From Inception to Implementation](https://awesomecua.com/resources/arxiv-2412-10047/) — 2024-12-13
   Uses a Windows-agent case study to describe a development workflow for large action models, covering data collection, training, grounding, environment integration, and evaluation.
+- [Automated Test Transfer Across Android Apps Using Large Language Models](https://awesomecua.com/resources/arxiv-2411-17933/) — 2024-11-26
+  LLMigrate uses LLMs to transfer usage-based UI tests between mobile apps with similar functions, reducing the need to write tests for each app.
 - [The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use](https://awesomecua.com/resources/arxiv-2411-10323/) — 2024-11-15
   Presents a preliminary study of Claude 3.5 Computer Use across desktop tasks and software, analyzing planning, action, and critique behavior and providing a framework for deploying GUI-automation models.
+- [WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models](https://awesomecua.com/resources/arxiv-2411-05451/) — 2024-11-08
+  WorkflowLLM builds WorkflowBench from application API workflows and synthetic queries, then trains WorkflowLlama to generate multi-application workflows.
 - [AutoGLM: Autonomous Foundation Agents for GUIs](https://awesomecua.com/resources/arxiv-2411-00820/) — 2024-10-28
   Presents AutoGLM agents for browser and phone control, separating planning from grounding and training through an evolving interaction curriculum.
 - [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://awesomecua.com/resources/arxiv-2410-18603/) — 2024-10-24
@@ -140,30 +156,62 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Automates mobile GUI tests from natural-language requirements, combining action generation with verification based on interaction traces.
 - [Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps](https://awesomecua.com/resources/arxiv-2407-03037/) — 2024-07-03
   Trident combines exploration, monitoring, and detection agents to identify functional bugs that do not crash a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
+- [SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation](https://awesomecua.com/resources/arxiv-2406-14991/) — 2024-06-21
+  SpreadsheetBench evaluates LLM spreadsheet manipulation with 912 questions from Excel forums and multiple spreadsheet files as test cases for each instruction.
 - [Practical, Automated Scenario-based Mobile App Testing](https://awesomecua.com/resources/arxiv-2406-08340/) — 2024-06-12
   ScenTest builds scenario-specific event knowledge graphs from crowdsourced test reports containing GUI and action information. It uses the current app state and testing context to generate scenario tests across applications.
 - [SmartFlow: Robotic Process Automation using LLMs](https://awesomecua.com/resources/arxiv-2405-12842/) — 2024-05-21
   Presents SmartFlow, which converts visible GUI elements into text for language-model action planning and executes the plan through a scripting engine. A collection of enterprise applications evaluates adaptation to different layouts and tasks.
+- [Automating the Enterprise with Foundation Models](https://awesomecua.com/resources/arxiv-2405-03710/) — 2024-05-03
+  ECLAIR uses multimodal foundation models to automate enterprise workflows from natural-language descriptions, with initial studies of workflow understanding and completion.
 - [MMAC-Copilot: Multi-modal Agent Collaboration Operating Copilot](https://awesomecua.com/resources/arxiv-2404-18074/) — 2024-04-28
   Introduces MMAC-Copilot, which coordinates agents with different expertise to operate PC applications. VIBench evaluates visual interaction with applications that lack usable APIs, spanning office, recreation and game tasks.
+- [AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation](https://awesomecua.com/resources/arxiv-2404-12753/) — 2024-04-19
+  Introduces AutoScraper, a two-stage framework that uses HTML structure and similarities across pages to generate scrapers for data collection from websites.
+- [Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations](https://awesomecua.com/resources/arxiv-2404-12608/) — 2024-04-19
+  Auto-Formula recommends formulas for target spreadsheet cells by adapting formulas from similar spreadsheets within an organization.
 - [Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](https://awesomecua.com/resources/arxiv-2404-08948/) — 2024-04-13
   Studies language-model generation of mobile text inputs, comparing UI representations, execution feedback, and human assistance for app testing.
 - [Enhancing Mobile "How-to" Queries with Automated Search Results Verification and Reranking](https://awesomecua.com/resources/arxiv-2404-08860/) — 2024-04-13
   Executes instructions from mobile how-to search results inside a controlled Android environment, then uses the observed success of those instructions to verify and rerank technical-support results.
+- [FlowMind: Automatic Workflow Generation with LLMs](https://awesomecua.com/resources/arxiv-2404-13050/) — 2024-03-17
+  FlowMind generates API-based workflows from user requests for process automation and presents workflow descriptions that users can inspect and comment on.
 - [ScreenAgent: A Vision Language Model-driven Computer Control Agent](https://awesomecua.com/resources/arxiv-2402-07945/) — 2024-02-09
   Combines a screenshot-and-action dataset with a planning, acting, and reflecting loop for computer control through mouse and keyboard actions.
 - [UFO: A UI-Focused Agent for Windows OS Interaction](https://awesomecua.com/resources/arxiv-2402-07939/) — 2024-02-08
   UFO uses two agents to inspect Windows application interfaces and their control metadata, then grounds and executes user requests within and across applications. The study evaluates this UI-focused architecture on nine Windows applications.
+- [UINav: A Practical Approach to Train On-Device Automation Agents](https://awesomecua.com/resources/arxiv-2312-10170/) — 2023-12-15
+  Introduces UINav, a demonstration-based method for training mobile UI automation agents, with a referee model for failure feedback and automatic augmentation of examples.
 - [Intelligent Virtual Assistants with LLM-based Process Automation](https://awesomecua.com/resources/arxiv-2312-06677/) — 2023-12-04
   Presents LLMPA, a mobile process-automation architecture that decomposes requests, identifies interface elements, predicts actions and checks errors. Demonstrations evaluate multistep operations in Alipay.
+- [ProAgent: From Robotic Process Automation to Agentic Process Automation](https://awesomecua.com/resources/arxiv-2311-10751/) — 2023-11-02
+  Introduces ProAgent, an LLM-based agent that builds automation workflows from human instructions and coordinates specialized agents during workflow execution.
+- [Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions](https://awesomecua.com/resources/arxiv-2310-15780/) — 2023-10-24
+  Introduces GPTDroid for mobile GUI testing: it feeds app page information to an LLM, runs generated test scripts and uses feedback and memory to guide further exploration.
 - [InstructExcel: A Benchmark for Natural Language Instruction in Excel](https://awesomecua.com/resources/arxiv-2310-14495/) — 2023-10-23
   Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from natural-language requests, built using scripts recorded from user actions and a collection of existing spreadsheets.
+- [Vision-Based Mobile App GUI Testing: A Survey](https://awesomecua.com/resources/arxiv-2310-13518/) — 2023-10-20
+  Surveys vision-based mobile app GUI testing across test generation, record-and-replay and testing frameworks, drawing on 271 papers including 92 vision-based studies.
+- [CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace](https://awesomecua.com/resources/arxiv-2310-07128/) — 2023-10-11
+  Introduces CrashTranslator, which predicts GUI exploration steps from stack traces with an LLM and uses RL-guided search to reproduce crashes in Android apps.
+- [AXNav: Replaying Accessibility Tests from Natural Language](https://awesomecua.com/resources/arxiv-2310-02424/) — 2023-10-03
+  Introduces an LLM and pixel-based UI system that executes natural-language accessibility tests, records navigable videos and flags potential interface issues.
+- [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](https://awesomecua.com/resources/arxiv-2306-01987/) — 2023-06-03
+  Introduces AdbGPT, a prompting-based approach that uses LLMs to replay app bugs from written reports, applying few-shot examples and reasoning without model training.
 - [Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators](https://awesomecua.com/resources/arxiv-2306-01242/) — 2023-06-02
   Presents ResponsibleTA, a coordinator-executor framework that checks command feasibility and task completion while using local memory for privacy-related controls. The paper compares prompted and learned implementations and evaluates them on UI task automation.
 - [DroidBot-GPT: GPT-powered UI Automation for Android](https://awesomecua.com/resources/arxiv-2304-07061/) — 2023-04-14
   Transforms Android UI states and available actions into language prompts for an LLM to choose and execute task steps.
+- [FLAME: A small language model for spreadsheet formulas](https://awesomecua.com/resources/arxiv-2301-13779/) — 2023-01-31
+  Introduces FLAME, a model trained on Excel formulas for spreadsheet formula repair, completion and retrieval, supporting formula authoring in spreadsheet software.
+- [Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2212-04732/) — 2022-12-09
+  Introduces QTypist, an LLM-based method that generates text inputs from mobile GUI context and integrates with automated testing tools to help them reach further app pages.
+- [CORNET: Learning Table Formatting Rules By Example](https://awesomecua.com/resources/arxiv-2208-06032/) — 2022-08-11
+  Introduces CORNET, a system that learns spreadsheet conditional-formatting rules from cells formatted by users, using symbolic rule enumeration and a neural ranker.
 - [A data-driven approach for learning to control computers](https://awesomecua.com/resources/arxiv-2202-08137/) — 2022-02-16
   Combines reinforcement learning with behavioral priors from human interactions to learn computer control through keyboard and mouse actions.
+- [A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications](https://awesomecua.com/resources/arxiv-1812-11470/) — 2018-12-30
+  Surveys automated functional GUI testing techniques for mobile apps, comparing the effectiveness, efficiency and practicality of approaches reported in 25 studies.
 - [Rousillon: Scraping Distributed Hierarchical Web Data](https://awesomecua.com/resources/url-97c0b1896525632434e2/) — 2018
   Introduces Rousillon, which generalizes a demonstration of collecting one hierarchical data row into a browser-automation program that traverses related pages. The paper develops relation-selection and generalization methods and evaluates users building such scripts.
 - [GUI Testing Using Computer Vision](https://awesomecua.com/resources/url-6262c757080f8838e62c/) — 2010-04

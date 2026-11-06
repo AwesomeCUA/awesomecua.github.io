@@ -254,16 +254,24 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Magentic-UI combines browser interaction, code execution, file operations, and MCP tools in an interface for human-agent collaboration. It studies collaborative planning and task execution, action guards, and persistent memory through benchmark tasks, simulated users, user studies, and safety assessments.
 - [Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree](https://awesomecua.com/resources/arxiv-2507-14799/) — 2025-07-20
   Studies indirect prompt injection through HTML content consumed as accessibility trees. The evaluation tests how manipulated page observations redirect browser-agent actions on real websites.
+- [Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification](https://awesomecua.com/resources/arxiv-2507-11662/) — 2025-07-15
+  Studies agreement bias in multimodal agent verifiers across web navigation and computer use, and introduces SGV to assess trajectories using self-generated priors.
 - [R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding](https://awesomecua.com/resources/arxiv-2507-05673/) — 2025-07-08
   R-VLM localizes GUI elements through zoomed-in region proposals and an intersection-over-union-aware training objective. It evaluates the grounding model on ScreenSpot and AgentStudio and studies its effect on navigation in AITW and Mind2Web.
+- [WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis](https://awesomecua.com/resources/arxiv-2507-04370/) — 2025-07-06
+  Introduces WebSynthesis, which uses a learned web world model and tree-based planning to synthesize interaction trajectories for training web agents.
 - [Less is More: Empowering GUI Agent with Context-Aware Simplification](https://awesomecua.com/resources/arxiv-2507-03730/) — 2025-07-04
   SimpAgent prunes distracting interface elements with visual masks and compresses interaction history using consistency-based guidance. The study evaluates these two forms of context reduction during GUI navigation in web and mobile environments.
 - [WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks](https://awesomecua.com/resources/arxiv-2507-00938/) — 2025-07-01
   WebArxiv provides 510 static-snapshot tasks with deterministic answers for scholarly browsing, including constrained paper retrieval, content extraction, and cross-paper comparison. The study also tests dynamic retrieval of interaction history to address repetitive or incomplete agent reasoning.
 - [LineRetriever: Planning-Aware Observation Reduction for Web Agents](https://awesomecua.com/resources/arxiv-2507-00210/) — 2025-06-30
   LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
+- [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://awesomecua.com/resources/arxiv-2506-21506/) — 2025-06-26
+  Introduces Mind2Web 2, 130 long-horizon tasks requiring live web browsing and information synthesis, plus an Agent-as-a-Judge framework for grading answers and sources.
 - [Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence](https://awesomecua.com/resources/arxiv-2506-15677/) — 2025-06-18
   Introduces environments that couple 3D physical-world simulations with functional web interfaces. The accompanying benchmark evaluates tasks requiring agents to coordinate online information and physical actions across cooking, navigation and shopping scenarios.
+- [Build the web for agents, not agents for the web](https://awesomecua.com/resources/arxiv-2506-10953/) — 2025-06-12
+  Proposes Agentic Web Interface (AWI), a website interface intended for agent navigation, and sets out six design principles for web-agent use.
 - [Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills](https://awesomecua.com/resources/arxiv-2506-10387/) — 2025-06-12
   Mirage-1 organizes interaction trajectories into execution, core, and meta-skills, then uses them to guide Monte Carlo tree search during online GUI tasks. It introduces AndroidLH for long-horizon evaluation and tests the approach on Android and web-navigation benchmarks.
 - [EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments](https://awesomecua.com/resources/arxiv-2506-08136/) — 2025-06-09
@@ -276,6 +284,10 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Describes Surfer-H, a web agent paired with the Holo1 vision-language model family trained on web content, synthetic examples, and agent-generated data. The work introduces WebClick for web-interface localization and evaluates browser task execution on WebVoyager.
 - [DeepShop: A Benchmark for Deep Research Shopping Agents](https://awesomecua.com/resources/arxiv-2506-02839/) — 2025-06-03
   DeepShop evaluates shopping agents with evolving query complexity across product attributes, filters and sorting preferences. Its evaluation combines checks of these individual requirements with overall task success.
+- [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://awesomecua.com/resources/arxiv-2506-01952/) — 2025-06-02
+  Introduces WebChoreArena, 532 web chores built on WebArena environments to evaluate agents’ retention of page information, calculation, and tracking across pages.
+- [ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing](https://awesomecua.com/resources/arxiv-2506-00520/) — 2025-05-31
+  Introduces ResTest, which uses coverage reports and a state transition graph to infer untested web functions, then directs a GUI agent to execute them.
 - [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents](https://awesomecua.com/resources/arxiv-2505-24878/) — 2025-05-30
   Open CaptchaWorld evaluates multimodal agents on interactive browser-based CAPTCHA puzzles. Its benchmark distinguishes task success from the depth of visual reasoning and interaction needed to complete a puzzle.
 - [AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery](https://awesomecua.com/resources/arxiv-2505-21499/) — 2025-05-27
@@ -288,6 +300,12 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Web-Shepherd is a process reward model for assessing individual steps of web-navigation trajectories. It introduces a collection of 40,000 step-level preference pairs with checklists and a separate benchmark for comparing reward models, then evaluates verification during WebArena-lite navigation.
 - [The Hidden Dangers of Browsing AI Agents](https://awesomecua.com/resources/arxiv-2505-13076/) — 2025-05-19
   Outlines an end-to-end threat model and empirical security evaluation across architectural layers of autonomous browser agents.
+- [WebInject: Prompt Injection Attack to Web Agents](https://awesomecua.com/resources/arxiv-2505-11717/) — 2025-05-16
+  Introduces WebInject, a prompt-injection attack that optimizes rendered webpage pixels to make screenshot-based web agents take attacker-chosen actions.
+- [AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents](https://awesomecua.com/resources/arxiv-2505-05849/) — 2025-05-09
+  Introduces AgentVigil, a black-box fuzzing framework for finding indirect prompt injections against LLM agents, including attacks that redirect web navigation.
+- [WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch](https://awesomecua.com/resources/arxiv-2505-03733/) — 2025-05-06
+  Introduces WebGen-Bench for evaluating agents that generate multi-file websites, using a web-navigation agent to check whether the resulting pages pass interaction tests.
 - [Visual Test-time Scaling for GUI Agent Grounding](https://awesomecua.com/resources/arxiv-2505-00684/) — 2025-05-01
   RegionFocus adds visual test-time scaling by zooming into selected screenshot regions and maintaining an image-based map of landmarks and actions. It evaluates this grounding procedure with UI-TARS and Qwen2.5-VL on ScreenSpot-Pro and WebVoyager.
 - [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://awesomecua.com/resources/arxiv-2504-21776/) — 2025-04-30
@@ -296,30 +314,48 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   WebEvolver trains a co-evolving world model to predict web observations and generate additional agent-training trajectories. The same model supports look-ahead action selection at inference, with evaluation on live web-task benchmarks.
 - [WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks](https://awesomecua.com/resources/arxiv-2504-18575/) — 2025-04-22
   Introduces WASP, an end-to-end benchmark for prompt-injection security in web agents. Its evaluation separates partial attack progress from completion of the attacker’s full objective.
+- [WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents](https://awesomecua.com/resources/arxiv-2504-12682/) — 2025-04-17
+  Introduces WebLists, a benchmark for structured extraction from interactive websites, and BardeenAgent, which turns web-agent runs into replayable CSS-selector programs.
 - [WebRollback: Enhancing Web Agents with Explicit Rollback Mechanisms](https://awesomecua.com/resources/arxiv-2504-11788/) — 2025-04-16
   WebRollback gives a web agent an explicit action for returning to an earlier state in its navigation trajectory. It studies this recovery mechanism on two live web-navigation benchmarks under both zero-shot and fine-tuned settings.
+- [REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites](https://awesomecua.com/resources/arxiv-2504-11543/) — 2025-04-15
+  Introduces REAL, a benchmark of deterministic website replicas with 112 tasks covering information retrieval and state-changing browser actions.
+- [AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents](https://awesomecua.com/resources/arxiv-2504-09723/) — 2025-04-13
+  Introduces AgentA/B, which uses persona-based LLM agents to navigate real webpages and perform shopping interactions for simulated web A/B tests.
 - [AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories](https://awesomecua.com/resources/arxiv-2504-08942/) — 2025-04-11
   AgentRewardBench evaluates automated web-agent judges against expert reviews of 1,302 trajectories from five benchmarks. The annotations cover completion, side effects, and repetition, enabling comparison of LLM judges and rule-based task evaluators.
 - [SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](https://awesomecua.com/resources/arxiv-2504-07079/) — 2025-04-09
   SkillWeaver explores websites, practices interactions, and converts the resulting experience into a reusable library of callable skill APIs. Its WebArena and live-website experiments examine skill refinement, composition, and transfer from stronger agents to weaker ones.
+- [Inducing Programmatic Skills for Agentic Tasks](https://awesomecua.com/resources/arxiv-2504-06821/) — 2025-04-09
+  Introduces agent skill induction (ASI), which creates, checks, and reuses program-based skills for web tasks by combining primitive actions into higher-level routines.
 - [Are Autonomous Web Agents Good Testers?](https://awesomecua.com/resources/arxiv-2504-01495/) — 2025-04-02
   Adapts web agents to execute natural-language test steps, verify assertions, and issue test verdicts. The study introduces 113 passing and failing test cases across three offline web applications and compares two agent implementations with qualitative failure analysis.
 - [An Illusion of Progress? Assessing the Current State of Web Agents](https://awesomecua.com/resources/arxiv-2504-01382/) — 2025-04-02
   Introduces Online-Mind2Web, with 300 tasks across 136 live websites, and examines how benchmark design affects assessments of web agents. It also develops an LLM judge for task completion and compares its judgments with human evaluation.
 - [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/) — 2025-03-30
   Surveys foundation-model web agents through their architectures, training methods and trustworthiness. It organizes research on completing browser tasks from user instructions and identifies directions for further development.
+- [WebNav: An Intelligent Agent for Voice-Controlled Web Navigation](https://awesomecua.com/resources/arxiv-2503-13843/) — 2025-03-18
+  Introduces WebNav, a web navigation agent that turns natural-language commands into GUI actions using screenshot context, DOM labels, and separate LLMs for planning and action parameters.
 - [BEARCUBS: A benchmark for computer-using web agents](https://awesomecua.com/resources/arxiv-2503-07919/) — 2025-03-10
   BEARCUBS provides 111 live-web information-seeking questions with short answers and human-validated browsing trajectories. Its tasks require multimodal computer interaction, including video understanding and navigation of interactive 3D content.
 - [LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications](https://awesomecua.com/resources/arxiv-2503-02950/) — 2025-03-04
   Introduces a modular visual web-agent stack with planning and memory components, exposed through a remote-browser application and Chrome extension.
 - [Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis](https://awesomecua.com/resources/arxiv-2502-20383/) — 2025-02-27
   Analyzes web-agent vulnerabilities at the component level, examining goal placement in prompts, multistep action generation, and observations as sources of increased susceptibility.
+- [WebGames: Challenging General-Purpose Web-Browsing AI Agents](https://awesomecua.com/resources/arxiv-2502-18356/) — 2025-02-25
+  Introduces WebGames, a browser-agent benchmark with 50+ interactive challenges in a self-contained test environment and verifiable solutions.
+- [UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design](https://awesomecua.com/resources/arxiv-2502-12561/) — 2025-02-18
+  Introduces UXAgent, which uses simulated users and a browser connector to test website usability and present their actions, responses, and recordings to UX researchers.
 - [Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents](https://awesomecua.com/resources/arxiv-2502-11357/) — 2025-02-17
   Synthesizes multimodal web trajectories through exploration and refinement, then trains a browser agent to study the effect of scaling interaction data.
 - [Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs](https://awesomecua.com/resources/arxiv-2502-07942/) — 2025-02-11
   Couples large- and small-model web-agent exploration with trajectory synthesis and distillation to improve both model types iteratively.
+- [InSTA: Towards Internet-Scale Training For Agents](https://awesomecua.com/resources/arxiv-2502-06776/) — 2025-02-10
+  InSTA builds a pipeline that creates website tasks, collects web-agent trajectories and filters them by judged success to train smaller web navigation agents.
 - [CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://awesomecua.com/resources/arxiv-2501-16609/) — 2025-01-28
   Introduces CowPilot, a web-navigation framework where agents suggest actions and users can pause, reject, override, or resume them. It evaluates autonomous and collaborative use through task success and human effort.
+- [R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory](https://awesomecua.com/resources/arxiv-2501-12485/) — 2025-01-21
+  R2D2 gives web agents a replay-buffer map of visited pages and a reflection step for analyzing errors and revising navigation strategies.
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://awesomecua.com/resources/arxiv-2501-07572/) — 2025-01-13
   Introduces WebWalkerQA and an exploration-and-critique framework for gathering information by traversing multiple levels of a website.
 - [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://awesomecua.com/resources/arxiv-2412-13194/) — 2024-12-17
@@ -342,12 +378,18 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Discovers compact intents from demonstrations and uses intent predictions to guide a language-model web agent's decisions and exploration.
 - [OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization](https://awesomecua.com/resources/arxiv-2410-19609/) — 2024-10-25
   Develops multimodal browser agents through repeated cycles of real-web exploration, trajectory feedback, and policy optimization.
+- [Infogent: An Agent-Based Framework for Web Information Aggregation](https://awesomecua.com/resources/arxiv-2410-19054/) — 2024-10-24
+  Infogent separates navigation, extraction and aggregation for web information gathering, including browser interaction through webpage screenshots.
+- [Large Language Models Empowered Personalized Web Agents](https://awesomecua.com/resources/arxiv-2410-17236/) — 2024-10-22
+  PersonalWAB benchmarks personalized web tasks, while PUMA retrieves relevant past web behavior to adapt agents' instruction handling and actions.
 - [Beyond Browsing: API-Based Web Agents](https://awesomecua.com/resources/arxiv-2410-16464/) — 2024-10-21
   Compares browsing-only, API-only, and hybrid web agents on WebArena, examining how access to application APIs changes task execution alongside browser interaction.
 - [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](https://awesomecua.com/resources/arxiv-2410-13825/) — 2024-10-17
   Studies how simplifying and aligning a web agent's observations and actions with language-model capabilities affects task completion.
 - [NNetNav: Unsupervised Learning of Browser Agents Through Environment Interaction in the Wild](https://awesomecua.com/resources/arxiv-2410-02907/) — 2024-10-03
   Generates browser-agent demonstrations through autonomous exploration and retrospective task labeling, pruning trajectories that lack meaningful subtasks.
+- [ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning](https://awesomecua.com/resources/arxiv-2410-02052/) — 2024-10-02
+  ExACT combines reflective tree search with learning from search experience to help web agents explore, assess states and backtrack on VisualWebArena.
 - [Multimodal Auto Validation For Self-Refinement in Web Agents](https://awesomecua.com/resources/arxiv-2410-00689/) — 2024-10-01
   Studies text and visual validation for web agents and uses the resulting validator to detect failures and guide workflow self-refinement.
 - [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://awesomecua.com/resources/arxiv-2409-15637/) — 2024-09-24
@@ -362,6 +404,10 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Agent Workflow Memory extracts reusable task routines and selectively supplies them to guide later web actions. It studies both offline workflow induction from training examples and online induction from test experience on Mind2Web and WebArena.
 - [WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration](https://awesomecua.com/resources/arxiv-2408-15978/) — 2024-08-28
   WebPilot separates global subtask planning from local Monte Carlo tree search during web execution. It continually refines the high-level plan and adapts local search to uncertain transitions and incomplete observations, evaluated on WebArena and MiniWoB++.
+- [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://awesomecua.com/resources/arxiv-2408-07199/) — 2024-08-13
+  Agent Q combines guided tree search, self-critique and preference-based fine-tuning to train web agents from successful and unsuccessful interactions.
+- [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://awesomecua.com/resources/arxiv-2407-20183/) — 2024-07-29
+  MindSearch uses a planner and searcher agents to split information requests into subquestions and gather answers across web pages.
 - [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?](https://awesomecua.com/resources/arxiv-2407-15711/) — 2024-07-22
   Introduces realistic open-web tasks and the SeePlanAct agent, analyzing the limitations of browsing and retrieval in time-consuming assistant work.
 - [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://awesomecua.com/resources/arxiv-2407-13032/) — 2024-07-17
@@ -386,6 +432,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Builds a web agent through simplified HTML observations, human-and-AI browsing data, curriculum training, and reinforcement-learning refinement.
 - [Tur\[k\]ingBench: A Challenge Benchmark for Web Agents](https://awesomecua.com/resources/arxiv-2403-11905/) — 2024-03-18
   Evaluates web agents on multimodal annotation tasks adapted from HTML interfaces originally built for crowdsourcing workers.
+- [AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents](https://awesomecua.com/resources/arxiv-2403-08978/) — 2024-03-13
+  Introduces AutoGuide, which generates conditional, context-aware guidelines from past agent experience to support decisions in sequential tasks, including web navigation.
 - [WIPI: A New Web Threat for LLM-Driven Web Agents](https://awesomecua.com/resources/arxiv-2402-16965/) — 2024-02-26
   Studies WIPI, a black-box indirect-instruction threat in which webpage content redirects LLM-driven web agents. Evaluation spans plugin-based agents, Web GPTs, and open-source web-agent implementations.
 - [On the Multi-turn Instruction Following for Conversational Web Agents](https://awesomecua.com/resources/arxiv-2402-15057/) — 2024-02-23
@@ -438,8 +486,14 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Studies language models for HTML element classification, page description and autonomous web navigation. Fine-tuned models are evaluated on MiniWoB, and a distilled, automatically labeled CommonCrawl HTML corpus supports the training approach.
 - [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://awesomecua.com/resources/arxiv-2207-01206/) — 2022-07-04
   Provides a simulated shopping environment where language agents search, configure, and select products from natural-language requirements.
+- [WebGPT: Browser-assisted question-answering with human feedback](https://awesomecua.com/resources/arxiv-2112-09332/) — 2021-12-17
+  Trains a question-answering model to search and navigate a text-based web browser, collect references and improve long-form answers using demonstrations and human feedback.
 - [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://awesomecua.com/resources/arxiv-2103-16057/) — 2021-03-30
   Introduces RUSS, which translates support instructions into a domain-specific language and grounds them in actionable web elements.
+- [DOM-Q-NET: Grounded RL on Structured Language](https://awesomecua.com/resources/arxiv-1902-07257/) — 2019-02-19
+  Introduces DOM-Q-NET, an RL architecture for web navigation that represents HTML as a tree and uses separate Q-function networks for clicking elements and typing text.
+- [Learning to Navigate the Web](https://awesomecua.com/resources/arxiv-1812-09195/) — 2018-12-21
+  Introduces guided RL for QWeb, using a curriculum of smaller instructions and generated tasks to train an agent that follows instructions and fills forms on web pages.
 - [Rousillon: Scraping Distributed Hierarchical Web Data](https://awesomecua.com/resources/url-97c0b1896525632434e2/) — 2018
   Introduces Rousillon, which generalizes a demonstration of collecting one hierarchical data row into a browser-automation program that traverses related pages. The paper develops relation-selection and generalization methods and evaluates users building such scripts.
 - [World of Bits: An Open-Domain Platform for Web-Based Agents](https://awesomecua.com/resources/url-52a3261eb6a19b402e88/) — 2017-07-17

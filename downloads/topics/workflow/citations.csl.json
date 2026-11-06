@@ -244,6 +244,85 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2311.10751v2",
+    "archive": "arXiv",
+    "archive_location": "2311.10751",
+    "author": [
+      {
+        "literal": "Yining Ye"
+      },
+      {
+        "literal": "Xin Cong"
+      },
+      {
+        "literal": "Shizuo Tian"
+      },
+      {
+        "literal": "Jiannan Cao"
+      },
+      {
+        "literal": "Hao Wang"
+      },
+      {
+        "literal": "Yujia Qin"
+      },
+      {
+        "literal": "Yaxi Lu"
+      },
+      {
+        "literal": "Heyang Yu"
+      },
+      {
+        "literal": "Huadong Wang"
+      },
+      {
+        "literal": "Yankai Lin"
+      },
+      {
+        "literal": "Zhiyuan Liu"
+      },
+      {
+        "literal": "Maosong Sun"
+      }
+    ],
+    "citation-key": "arxiv_2311_10751",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1cb7c2d81302a2dfa8179c5f83e940f5b2015c591dc779c770a8382694b67801",
+        "submitted_at": "2023-11-02T14:32:16Z",
+        "updated_at": "2023-11-23T12:14:08Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2311.10751v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2311.10751",
+      "catalog_id": "arxiv:2311.10751",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2023-11-02",
+      "identifiers": {
+        "arxiv": "2311.10751"
+      },
+      "record_updated_at": "2023-11-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2311.10751",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2023-11-02; Recorded arXiv version: v2; Recorded version updated: 2023-11-23T12:14:08Z.",
+    "title": "ProAgent: From Robotic Process Automation to Agentic Process Automation",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2401.04124v3",
     "archive": "arXiv",
     "archive_location": "2401.04124",
@@ -489,6 +568,131 @@
     "title": "Prompt2Task: Automating UI Tasks on Smartphones from Textual Prompts",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2404.13050v1",
+    "archive": "arXiv",
+    "archive_location": "2404.13050",
+    "author": [
+      {
+        "literal": "Zhen Zeng"
+      },
+      {
+        "literal": "William Watson"
+      },
+      {
+        "literal": "Nicole Cho"
+      },
+      {
+        "literal": "Saba Rahimi"
+      },
+      {
+        "literal": "Shayleen Reynolds"
+      },
+      {
+        "literal": "Tucker Balch"
+      },
+      {
+        "literal": "Manuela Veloso"
+      }
+    ],
+    "citation-key": "arxiv_2404_13050",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c8fc04e8daa1bc15092e24f755abee6f963a34a568894ad3fb12ce3f9a092f6d",
+        "submitted_at": "2024-03-17T00:36:37Z",
+        "updated_at": "2024-03-17T00:36:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2404.13050v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.13050",
+      "catalog_id": "arxiv:2404.13050",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-17",
+      "identifiers": {
+        "arxiv": "2404.13050"
+      },
+      "record_updated_at": "2024-03-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.13050",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-17; Recorded arXiv version: v1; Recorded version updated: 2024-03-17T00:36:37Z.",
+    "title": "FlowMind: Automatic Workflow Generation with LLMs",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2405.03710v1",
+    "archive": "arXiv",
+    "archive_location": "2405.03710",
+    "author": [
+      {
+        "literal": "Michael Wornow"
+      },
+      {
+        "literal": "Avanika Narayan"
+      },
+      {
+        "literal": "Krista Opsahl-Ong"
+      },
+      {
+        "literal": "Quinn McIntyre"
+      },
+      {
+        "literal": "Nigam H. Shah"
+      },
+      {
+        "literal": "Christopher Re"
+      }
+    ],
+    "citation-key": "arxiv_2405_03710",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e19c81e6b6000f3e609fbc8c77aab7be6e4e231d4ee467d7924d07e336df2017",
+        "submitted_at": "2024-05-03T23:25:15Z",
+        "updated_at": "2024-05-03T23:25:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2405.03710v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2405.03710",
+      "catalog_id": "arxiv:2405.03710",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-05-03",
+      "identifiers": {
+        "arxiv": "2405.03710"
+      },
+      "record_updated_at": "2024-05-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2405.03710",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2024-05-03; Recorded arXiv version: v1; Recorded version updated: 2024-05-03T23:25:15Z.",
+    "title": "Automating the Enterprise with Foundation Models",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2405.12842v1",
@@ -1035,6 +1239,140 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2410.19054v1",
+    "archive": "arXiv",
+    "archive_location": "2410.19054",
+    "author": [
+      {
+        "literal": "Revanth Gangi Reddy"
+      },
+      {
+        "literal": "Sagnik Mukherjee"
+      },
+      {
+        "literal": "Jeonghwan Kim"
+      },
+      {
+        "literal": "Zhenhailong Wang"
+      },
+      {
+        "literal": "Dilek Hakkani-Tur"
+      },
+      {
+        "literal": "Heng Ji"
+      }
+    ],
+    "citation-key": "arxiv_2410_19054",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2b9938c5caccd6d0d76e817b0ba1e9f174a203b8b9f6d6d562b0079c2f2ed103",
+        "submitted_at": "2024-10-24T18:01:28Z",
+        "updated_at": "2024-10-24T18:01:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2410.19054v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.19054",
+      "catalog_id": "arxiv:2410.19054",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-10-24",
+      "identifiers": {
+        "arxiv": "2410.19054"
+      },
+      "record_updated_at": "2024-10-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.19054",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-24; Recorded arXiv version: v1; Recorded version updated: 2024-10-24T18:01:28Z.",
+    "title": "Infogent: An Agent-Based Framework for Web Information Aggregation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2411.05451v1",
+    "archive": "arXiv",
+    "archive_location": "2411.05451",
+    "author": [
+      {
+        "literal": "Shengda Fan"
+      },
+      {
+        "literal": "Xin Cong"
+      },
+      {
+        "literal": "Yuepeng Fu"
+      },
+      {
+        "literal": "Zhong Zhang"
+      },
+      {
+        "literal": "Shuyan Zhang"
+      },
+      {
+        "literal": "Yuanwei Liu"
+      },
+      {
+        "literal": "Yesai Wu"
+      },
+      {
+        "literal": "Yankai Lin"
+      },
+      {
+        "literal": "Zhiyuan Liu"
+      },
+      {
+        "literal": "Maosong Sun"
+      }
+    ],
+    "citation-key": "arxiv_2411_05451",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2407fd35164680db7422e4dc57c51855ba8d244f997e5a4cfe75d8dfba8ab691",
+        "submitted_at": "2024-11-08T09:58:02Z",
+        "updated_at": "2024-11-08T09:58:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2411.05451v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.05451",
+      "catalog_id": "arxiv:2411.05451",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-11-08",
+      "identifiers": {
+        "arxiv": "2411.05451"
+      },
+      "record_updated_at": "2024-11-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.05451",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-08; Recorded arXiv version: v1; Recorded version updated: 2024-11-08T09:58:02Z.",
+    "title": "WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2411.15004v2",
     "archive": "arXiv",
     "archive_location": "2411.15004",
@@ -1201,6 +1539,70 @@
     },
     "note": "First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-09-10T08:35:19Z.",
     "title": "TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.01600v3",
+    "archive": "arXiv",
+    "archive_location": "2502.01600",
+    "author": [
+      {
+        "literal": "Kevin Chen"
+      },
+      {
+        "literal": "Marco Cusumano-Towner"
+      },
+      {
+        "literal": "Brody Huval"
+      },
+      {
+        "literal": "Aleksei Petrenko"
+      },
+      {
+        "literal": "Jackson Hamburger"
+      },
+      {
+        "literal": "Vladlen Koltun"
+      },
+      {
+        "literal": "Philipp Krähenbühl"
+      }
+    ],
+    "citation-key": "arxiv_2502_01600",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e04fe57f9bc51d03f3fff4bf177ff512316ee9df20aaea034662f3ea3104cd97",
+        "submitted_at": "2025-02-03T18:35:42Z",
+        "updated_at": "2025-03-08T05:23:57Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2502.01600v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.01600",
+      "catalog_id": "arxiv:2502.01600",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-02-03",
+      "identifiers": {
+        "arxiv": "2502.01600"
+      },
+      "record_updated_at": "2025-03-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.01600",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-03; Recorded arXiv version: v3; Recorded version updated: 2025-03-08T05:23:57Z.",
+    "title": "Reinforcement Learning for Long-Horizon Interactive LLM Agents",
     "type": "article",
     "version": "3"
   },

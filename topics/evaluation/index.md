@@ -826,6 +826,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces WebGuard, a human-annotated dataset for predicting outcomes and risk levels of state-changing website actions. It provides generalization splits and evaluates specialized guardrail models.
 - [Machine-Readable Ads: Accessibility and Trust Patterns for AI Web Agents interacting with Online Advertisements](https://awesomecua.com/resources/arxiv-2507-12844/) — 2025-07-17
   Compares DOM-based and pixel-based web agents on a cloned news site containing advertisements, consent dialogs and paywalls. The study examines how interface presentation affects ad interaction and consequential subscription choices.
+- [Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification](https://awesomecua.com/resources/arxiv-2507-11662/) — 2025-07-15
+  Studies agreement bias in multimodal agent verifiers across web navigation and computer use, and introduces SGV to assess trajectories using self-generated priors.
 - [VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](https://awesomecua.com/resources/arxiv-2507-06899/) — 2025-07-09
   Studies backdoors that redirect GUI visual grounding even when the task plan is correct. VisualTrap evaluates whether poisoned grounding training transfers to downstream tasks and across web, mobile, and desktop interface settings.
 - [OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety](https://awesomecua.com/resources/arxiv-2507-06134/) — 2025-07-08
@@ -836,10 +838,16 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces an app-content instrumentation framework and complementary interactive and static test suites for mobile GUI agents. It studies how untrusted third-party content changes task execution and state understanding.
 - [How to Train Your LLM Web Agent: A Statistical Diagnosis](https://awesomecua.com/resources/arxiv-2507-04103/) — 2025-07-05
   Studies compute allocation for web-agent post-training with teacher-generated supervised fine-tuning followed by on-policy reinforcement learning. It samples 1,370 training configurations and uses bootstrap analysis to examine hyperparameter sensitivity on WorkArena and MiniWoB++.
+- [GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://awesomecua.com/resources/arxiv-2507-01006/) — 2025-07-01
+  Reports the GLM-4.1V-Thinking, GLM-4.5V, and GLM-4.6V vision-language model family and curriculum-based RL training, with GUI agents among its evaluated tasks.
 - [WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks](https://awesomecua.com/resources/arxiv-2507-00938/) — 2025-07-01
   WebArxiv provides 510 static-snapshot tasks with deterministic answers for scholarly browsing, including constrained paper retrieval, content extraction, and cross-paper comparison. The study also tests dynamic retrieval of interaction history to address repetitive or incomplete agent reasoning.
 - [SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents](https://awesomecua.com/resources/arxiv-2507-00841/) — 2025-07-01
   Studies chain-level risk detection for mobile multimodal agents and a language-model-assisted evaluator, assessing safety interventions together with functional preservation.
+- [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://awesomecua.com/resources/arxiv-2506-21506/) — 2025-06-26
+  Introduces Mind2Web 2, 130 long-horizon tasks requiring live web browsing and information synthesis, plus an Agent-as-a-Judge framework for grading answers and sources.
+- [Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents](https://awesomecua.com/resources/arxiv-2506-21252/) — 2025-06-26
+  Introduces Agent-RewardBench to evaluate step-level reward models for multimodal agents across perception, planning, and safety; web navigation is among its scenarios.
 - [Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](https://awesomecua.com/resources/arxiv-2506-17913/) — 2025-06-22
   CogniGUI combines hierarchical visual parsing of interface elements with a GRPO-based grounding agent that compares alternative interaction paths. Its ScreenSeek benchmark evaluates navigation across applications, changing interface states, and consistency between interfaces.
 - [OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-16042/) — 2025-06-19
@@ -872,6 +880,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   BIMgent plans software-specific workflows and executes GUI actions for building-information modeling. It evaluates multimodal building design and reconstruction tasks in professional authoring software.
 - [macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](https://awesomecua.com/resources/arxiv-2506-04135/) — 2025-06-04
   macOSWorld provides 202 interactive tasks across 30 applications, with instructions and operating-system interfaces in five languages. It evaluates GUI agents on macOS workflows and includes a separate subset for deception-attack testing.
+- [MiMo-VL Technical Report](https://awesomecua.com/resources/arxiv-2506-03569/) — 2025-06-04
+  Reports MiMo-VL-7B-SFT and MiMo-VL-7B-RL, general vision-language models trained with staged pre-training and mixed RL, with GUI grounding evaluated on OSWorld-G.
 - [DPO Learning with LLMs-Judge Signal for Computer Use Agents](https://awesomecua.com/resources/arxiv-2506-03095/) — 2025-06-03
   Uses an LLM judge to evaluate and filter synthetic GUI interaction trajectories for training a compact vision-language agent. OSWorld experiments assess the policy designed for local execution.
 - [Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights](https://awesomecua.com/resources/arxiv-2506-02865/) — 2025-06-03
@@ -880,12 +890,18 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   DeepShop evaluates shopping agents with evolving query complexity across product attributes, filters and sorting preferences. Its evaluation combines checks of these individual requirements with overall task success.
 - [VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-02456/) — 2025-06-03
   Introduces VPI-Bench, interactive web-platform variants containing visually embedded malicious instructions. It evaluates computer-use and browser-use agents under these threats and examines system-prompt defenses.
+- [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://awesomecua.com/resources/arxiv-2506-01952/) — 2025-06-02
+  Introduces WebChoreArena, 532 web chores built on WebArena environments to evaluate agents’ retention of page information, calculation, and tracking across pages.
 - [MLA-Trust: Benchmarking Trustworthiness of Multimodal LLM Agents in GUI Environments](https://awesomecua.com/resources/arxiv-2506-01616/) — 2025-06-02
   Benchmarks truthfulness, controllability, safety, and privacy of multimodal LLM agents across interactive web and mobile GUI tasks.
+- [FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents](https://awesomecua.com/resources/arxiv-2506-01520/) — 2025-06-02
+  Introduces FormFactory, an interactive web-based benchmark for agents filling online forms, with varied field formats and evaluation of instruction-to-field alignment.
 - [RiOSWorld: Benchmarking the Risk of Multimodal Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-00618/) — 2025-05-31
   Introduces RiOSWorld, a computer-use risk benchmark separating user-originated and environmental threats. It evaluates both risky-goal intent and goal completion across web and other computer applications.
 - [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents](https://awesomecua.com/resources/arxiv-2505-24878/) — 2025-05-30
   Open CaptchaWorld evaluates multimodal agents on interactive browser-based CAPTCHA puzzles. Its benchmark distinguishes task success from the depth of visual reasoning and interaction needed to complete a puzzle.
+- [Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks](https://awesomecua.com/resources/arxiv-2505-24876/) — 2025-05-30
+  Introduces Agent-X, a benchmark of multi-step visual reasoning and tool use with step-level grading across six settings, including web browsing.
 - [RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](https://awesomecua.com/resources/arxiv-2505-21936/) — 2025-05-28
   RedTeamCUA combines a virtual-machine OS environment with containerized websites for controlled prompt-injection tests spanning both interfaces. Its RTC-Bench contains 864 examples and can initialize agents at injection points to separate attack susceptibility from navigation failures.
 - [AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery](https://awesomecua.com/resources/arxiv-2505-21499/) — 2025-05-27
@@ -894,8 +910,14 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   XBOUND evaluates GUI agents at the level of a screen state, considering multiple instructions and possible target actions within it. The study separates action matching from instruction unification and compares effects of grounding and trajectory data.
 - [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://awesomecua.com/resources/arxiv-2505-19897/) — 2025-05-26
   ScienceBoard combines an interactive environment with professional scientific software and 169 human-curated tasks in areas including biochemistry, astronomy, and geoinformatics. It evaluates computer-use agents on visually rich research workflows and analyzes their execution limitations.
+- [TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments](https://awesomecua.com/resources/arxiv-2505-17629/) — 2025-05-23
+  Introduces TransBench to evaluate GUI grounding transfer across app versions, iOS, Android, Web, and functionally distinct applications.
+- [AutoData: A Multi-Agent System for Open Web Data Collection](https://awesomecua.com/resources/arxiv-2505-15859/) — 2025-05-21
+  Introduces AutoData, a multi-agent system that collects web datasets from a natural-language request, and Instruct2DS, a benchmark for live collection across three domains.
 - [Web-Shepherd: Advancing PRMs for Reinforcing Web Agents](https://awesomecua.com/resources/arxiv-2505-15277/) — 2025-05-21
   Web-Shepherd is a process reward model for assessing individual steps of web-navigation trajectories. It introduces a collection of 40,000 step-level preference pairs with checklists and a separate benchmark for comparing reward models, then evaluates verification during WebArena-lite navigation.
+- [MedBrowseComp: Benchmarking Medical Deep Research and Computer Use](https://awesomecua.com/resources/arxiv-2505-14963/) — 2025-05-20
+  Introduces MedBrowseComp, a benchmark of human-curated, multi-hop medical questions for agents retrieving and synthesizing facts from live knowledge bases in a computer-use setting.
 - [EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks](https://awesomecua.com/resources/arxiv-2505-14289/) — 2025-05-20
   Introduces EVA, a red-teaming framework that evolves semantic payloads for GUI environmental-injection tests. It studies the contribution of semantic versus visual deception and distills discovered patterns into reusable evaluation rules.
 - [Efficient Agent Training for Computer Use](https://awesomecua.com/resources/arxiv-2505-13909/) — 2025-05-20
@@ -912,8 +934,16 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Mobile-Bench-v2 evaluates mobile GUI agents using multiple acceptable offline action paths, noisy interfaces with ads or pop-ups, and ambiguous instructions with scripted clarification exchanges. These splits separate step-level execution, robustness, and proactive interaction.
 - [Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing](https://awesomecua.com/resources/arxiv-2505-09875/) — 2025-05-15
   Studies unintended consequences of collaborative web browsing with GUI agents through social-media analysis and interviews. It organizes observed failures, user impacts, and mitigation practices around planning, interface interaction, feedback, privacy, and trust.
+- [Seed1.5-VL Technical Report](https://awesomecua.com/resources/arxiv-2505-07062/) — 2025-05-11
+  Reports Seed1.5-VL, a general vision-language model evaluated on GUI control and gameplay alongside visual understanding and reasoning tasks.
+- [AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents](https://awesomecua.com/resources/arxiv-2505-05849/) — 2025-05-09
+  Introduces AgentVigil, a black-box fuzzing framework for finding indirect prompt injections against LLM agents, including attacks that redirect web navigation.
 - [Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding](https://awesomecua.com/resources/arxiv-2505-05026/) — 2025-05-08
   Introduces WiserUI-Bench, pairing real UI variants from industry A/B tests with observed behavioral winners and expert explanations. It evaluates models’ ability to predict the more effective interface and explain its effect on user behavior.
+- [Deep Research Bench: Evaluating AI Web Research Agents](https://awesomecua.com/resources/arxiv-2506-06287/) — 2025-05-06
+  Introduces Deep Research Bench, 89 multi-step web research tasks and a frozen collection of scraped pages for evaluating search agents and their traces over time.
+- [WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch](https://awesomecua.com/resources/arxiv-2505-03733/) — 2025-05-06
+  Introduces WebGen-Bench for evaluating agents that generate multi-file websites, using a web-navigation agent to check whether the resulting pages pass interaction tests.
 - [OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents](https://awesomecua.com/resources/arxiv-2505-03570/) — 2025-05-06
   Introduces OSUniverse, a desktop GUI benchmark spanning precise clicks through multistep and multiapplication tasks. It provides both manual scoring and an automated validation mechanism.
 - [Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents](https://awesomecua.com/resources/arxiv-2504-17934/) — 2025-04-24
@@ -924,8 +954,12 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Presents a modular security testing framework that plugs into BrowserGym and tool-use benchmarks to evaluate agents under configurable threat models.
 - [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://awesomecua.com/resources/arxiv-2504-13805/) — 2025-04-18
   LearnAct parses human demonstrations into reusable knowledge, retrieves relevant examples, and uses them during mobile GUI task execution. The accompanying LearnGUI benchmark includes 2,252 offline tasks and 101 online tasks for studying adaptation from demonstrations.
+- [WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents](https://awesomecua.com/resources/arxiv-2504-12682/) — 2025-04-17
+  Introduces WebLists, a benchmark for structured extraction from interactive websites, and BardeenAgent, which turns web-agent runs into replayable CSS-selector programs.
 - [VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps](https://awesomecua.com/resources/arxiv-2504-11675/) — 2025-04-16
   VLM-Fuzz combines depth-first UI exploration with Android manifest analysis, runtime widget hierarchies, and on-demand visual reasoning to generate app test inputs. It evaluates coverage on 59 benchmark apps and uses additional Google Play apps to study crash discovery.
+- [REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites](https://awesomecua.com/resources/arxiv-2504-11543/) — 2025-04-15
+  Introduces REAL, a benchmark of deterministic website replicas with 112 tasks covering information retrieval and state-changing browser actions.
 - [The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections](https://awesomecua.com/resources/arxiv-2504-11281/) — 2025-04-15
   Characterizes six forms of GUI-content injection and studies their effects on GUI agents and human users using adversarial webpages. The analysis examines privacy failures and the limits of human oversight.
 - [UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis](https://awesomecua.com/resources/arxiv-2504-11257/) — 2025-04-15
@@ -934,8 +968,12 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   RealWebAssist evaluates web assistance through sequences of instructions collected from real users across multiple websites. It tests intent interpretation, user-specific routines, long-term context, and visual grounding when instructions are ambiguous or evolve during interaction.
 - [Breaking the Data Barrier -- Building GUI Agents Through Task Generalization](https://awesomecua.com/resources/arxiv-2504-10127/) — 2025-04-14
   Studies whether mid-training on GUI perception, multimodal reasoning, and text reasoning transfers to GUI-agent planning. Experiments compare 11 task sources and curated mixtures using WebArena and AndroidWorld to investigate training-data choices when GUI trajectories are scarce.
+- [AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents](https://awesomecua.com/resources/arxiv-2504-09723/) — 2025-04-13
+  Introduces AgentA/B, which uses persona-based LLM agents to navigate real webpages and perform shopping interactions for simulated web A/B tests.
 - [AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories](https://awesomecua.com/resources/arxiv-2504-08942/) — 2025-04-11
   AgentRewardBench evaluates automated web-agent judges against expert reviews of 1,302 trajectories from five benchmarks. The annotations cover completion, side effects, and repetition, enabling comparison of LLM judges and rule-based task evaluators.
+- [Kimi-VL Technical Report](https://awesomecua.com/resources/arxiv-2504-07491/) — 2025-04-10
+  Presents Kimi-VL, a general vision-language model evaluated on multi-turn agent tasks including OSWorld and on ScreenSpot-Pro alongside other vision-language tasks.
 - [On the Robustness of GUI Grounding Models Against Image Attacks](https://awesomecua.com/resources/arxiv-2504-04716/) — 2025-04-07
   Evaluates GUI grounding models under natural image noise, untargeted adversarial perturbations, and targeted image attacks. Experiments cover mobile, desktop, and web interfaces and analyze sensitivity to image resolution and adversarial changes.
 - [ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use](https://awesomecua.com/resources/arxiv-2504-07981/) — 2025-04-04
@@ -950,6 +988,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Navi-plus evaluates GUI agents that ask follow-up questions to complete ambiguous user instructions. It provides GUI clarification question-answer pairs and Dual-Stream Trajectory Evaluation for this interactive setting.
 - [sudo rm -rf agentic_security](https://awesomecua.com/resources/arxiv-2503-20279/) — 2025-03-26
   Evaluates security failures of computer-use agents under adversarial requests and screen-context manipulation. The study examines refusal behavior while agents perform tasks in desktop and web environments.
+- [Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft](https://awesomecua.com/resources/arxiv-2503-20036/) — 2025-03-25
+  Introduces BugCraft, which turns Minecraft crash reports into steps and has a vision-based agent execute them through a macro API; BugCraft-Bench supports evaluation.
 - [Agent-Initiated Interaction in Phone UI Automation](https://awesomecua.com/resources/arxiv-2503-19537/) — 2025-03-25
   Defines when phone agents should request user interaction and introduces AndroidInteraction annotations for deciding whether and how to engage the user.
 - [Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study](https://awesomecua.com/resources/arxiv-2503-16788/) — 2025-03-21
@@ -972,6 +1012,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Generates reward signals from UI-state changes and uses a judging system to evaluate mobile agents with reduced manual evaluator construction.
 - [Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis](https://awesomecua.com/resources/arxiv-2502-20383/) — 2025-02-27
   Analyzes web-agent vulnerabilities at the component level, examining goal placement in prompts, multistep action generation, and observations as sources of increased susceptibility.
+- [WebGames: Challenging General-Purpose Web-Browsing AI Agents](https://awesomecua.com/resources/arxiv-2502-18356/) — 2025-02-25
+  Introduces WebGames, a browser-agent benchmark with 50+ interactive challenges in a self-contained test environment and verifiable solutions.
 - [Towards Sustainable Web Agents: A Plea for Transparency and Dedicated Metrics for Energy Consumption](https://awesomecua.com/resources/arxiv-2502-17903/) — 2025-02-25
   Examines energy and carbon-accounting limitations in web-agent evaluation and argues for transparent, dedicated sustainability measurements.
 - [Towards Enterprise-Ready Computer Using Generalist Agent](https://awesomecua.com/resources/arxiv-2503-01861/) — 2025-02-24
@@ -980,14 +1022,20 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces a visual IDE environment and benchmark for software-engineering tasks, comparing screenshot-based control with access to editing and shell tools.
 - [Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks](https://awesomecua.com/resources/arxiv-2502-13053/) — 2025-02-18
   Examines active environmental injection against mobile agents, testing whether adversarial interface content redirects decisions during task execution.
+- [UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design](https://awesomecua.com/resources/arxiv-2502-12561/) — 2025-02-18
+  Introduces UXAgent, which uses simulated users and a browser connector to test website usability and present their actions, responses, and recordings to UX researchers.
 - [WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point](https://awesomecua.com/resources/arxiv-2502-08047/) — 2025-02-12
   Introduces desktop and web tasks with varied initial states to test planning recovery and adaptability beyond canonical starting configurations.
+- [InSTA: Towards Internet-Scale Training For Agents](https://awesomecua.com/resources/arxiv-2502-06776/) — 2025-02-10
+  InSTA builds a pipeline that creates website tasks, collects web-agent trajectories and filters them by judged success to train smaller web navigation agents.
 - [CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://awesomecua.com/resources/arxiv-2501-16609/) — 2025-01-28
   Introduces CowPilot, a web-navigation framework where agents suggest actions and users can pause, reject, override, or resume them. It evaluates autonomous and collaborative use through task success and human effort.
 - [WinClick: GUI Grounding with Multimodal Large Language Models](https://awesomecua.com/resources/arxiv-2503-04730/) — 2025-01-27
   Introduces a screenshot-based Windows GUI agent and the WinSpot benchmark for evaluating localization of actionable interface regions.
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://awesomecua.com/resources/arxiv-2501-07572/) — 2025-01-13
   Introduces WebWalkerQA and an exploration-and-critique framework for gathering information by traversing multiple levels of a website.
+- [Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation](https://awesomecua.com/resources/arxiv-2501-02863/) — 2025-01-06
+  Sphinx benchmarks foundation models on goal-based mobile UI navigation, using app test cases and a toolkit that identifies different failure modes.
 - [A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation](https://awesomecua.com/resources/arxiv-2501-01149/) — 2025-01-02
   Introduces Android Agent Arena with online application tasks and procedural evaluation based on reaching essential intermediate states.
 - [GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent](https://awesomecua.com/resources/arxiv-2412-18426/) — 2024-12-24
@@ -998,6 +1046,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Uses a Windows-agent case study to describe a development workflow for large action models, covering data collection, training, grounding, environment integration, and evaluation.
 - [The BrowserGym Ecosystem for Web Agent Research](https://awesomecua.com/resources/arxiv-2412-05467/) — 2024-12-06
   Describes BrowserGym's shared web interaction environment and AgentLab tooling for consistent experiments across multiple agent benchmarks.
+- [BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks](https://awesomecua.com/resources/arxiv-2412-04626/) — 2024-12-05
+  BigDocs-7.5M provides multimodal document data, while BigDocs-Bench includes GUI reasoning and image-to-code tasks relevant to screen understanding.
 - [Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms](https://awesomecua.com/resources/arxiv-2411-10943/) — 2024-11-17
   Surveys virtual agents for browsers, applications and operating systems, organizing prior work by task type, observation and action spaces, model strategies and evaluation methods. It examines screen-based interaction and keyboard, mouse and touch control, alongside transferability and long-sequence decision-making challenges.
 - [The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use](https://awesomecua.com/resources/arxiv-2411-10323/) — 2024-11-15
@@ -1016,6 +1066,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Evaluates mobile agents on misuse, side effects, and indirect prompt-injection risks in an Android emulator environment.
 - [AdvAgent: Controllable Blackbox Red-teaming on Web Agents](https://awesomecua.com/resources/arxiv-2410-17401/) — 2024-10-22
   Introduces a black-box web-agent red-teaming framework that learns adversarial prompts from agent feedback to study security weaknesses.
+- [Large Language Models Empowered Personalized Web Agents](https://awesomecua.com/resources/arxiv-2410-17236/) — 2024-10-22
+  PersonalWAB benchmarks personalized web tasks, while PUMA retrieves relevant past web behavior to adapt agents' instruction handling and actions.
 - [Beyond Browsing: API-Based Web Agents](https://awesomecua.com/resources/arxiv-2410-16464/) — 2024-10-21
   Compares browsing-only, API-only, and hybrid web agents on WebArena, examining how access to application APIs changes task execution alongside browser interaction.
 - [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](https://awesomecua.com/resources/arxiv-2410-15164/) — 2024-10-19
@@ -1048,6 +1100,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Evaluates language agents on office workflows requiring information integration, long-term planning, and switching between applications.
 - [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://awesomecua.com/resources/arxiv-2407-18901/) — 2024-07-26
   Introduces simulated application APIs and state-based task evaluation for interactive coding agents performing everyday digital workflows.
+- [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://awesomecua.com/resources/arxiv-2407-16741/) — 2024-07-23
+  OpenHands is a platform for agents that write code, use a command line and browse the web, with sandboxed execution and support for agent evaluation.
 - [AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?](https://awesomecua.com/resources/arxiv-2407-15711/) — 2024-07-22
   Introduces realistic open-web tasks and the SeePlanAct agent, analyzing the limitations of browsing and retrieval in time-consuming assistant work.
 - [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://awesomecua.com/resources/arxiv-2407-10956/) — 2024-07-15
@@ -1068,6 +1122,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Applies best-first search to agent actions within interactive web environments, allowing exploration and multistep planning at inference time. WebArena and VisualWebArena experiments examine search behavior and test-time computation.
 - [Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents](https://awesomecua.com/resources/arxiv-2407-00993/) — 2024-07-01
   Evaluates mobile agents using combined UI and API actions, tasks with varying app scope, and checkpoints for intermediate progress.
+- [SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation](https://awesomecua.com/resources/arxiv-2406-14991/) — 2024-06-21
+  SpreadsheetBench evaluates LLM spreadsheet manipulation with 912 questions from Excel forums and multiple spreadsheet files as test cases for each instruction.
 - [Identifying User Goals from UI Trajectories](https://awesomecua.com/resources/arxiv-2406-14314/) — 2024-06-20
   Defines goal identification from observed UI trajectories and an evaluation method for comparing intent descriptions within the same interface context. Experiments reuse Android and web automation data to compare human and model inference of users’ detailed goals.
 - [E-ANT: A Large-Scale Dataset for Efficient Automatic GUI NavigaTion](https://awesomecua.com/resources/arxiv-2406-14250/) — 2024-06-20
@@ -1108,6 +1164,10 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces MMAC-Copilot, which coordinates agents with different expertise to operate PC applications. VIBench evaluates visual interaction with applications that lack usable APIs, spanning office, recreation and game tasks.
 - [Benchmarking Mobile Device Control Agents across Diverse Configurations](https://awesomecua.com/resources/arxiv-2404-16660/) — 2024-04-25
   Introduces B-MoCA, an interactive mobile-control benchmark that varies device settings, layouts, and languages to test generalization.
+- [AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation](https://awesomecua.com/resources/arxiv-2404-12753/) — 2024-04-19
+  Introduces AutoScraper, a two-stage framework that uses HTML structure and similarities across pages to generate scrapers for data collection from websites.
+- [UIClip: A Data-driven Model for Assessing User Interface Design](https://awesomecua.com/resources/arxiv-2404-12500/) — 2024-04-18
+  UIClip assesses UI design quality and visual relevance from screenshots and descriptions, using crawled, augmented and human-rated interfaces for training.
 - [MMInA: Benchmarking Multihop Multimodal Internet Agents](https://awesomecua.com/resources/arxiv-2404-09992/) — 2024-04-15
   Evaluates multimodal agents on compositional tasks across changing websites and studies replaying prior trajectories as memory support.
 - [Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](https://awesomecua.com/resources/arxiv-2404-08948/) — 2024-04-13
@@ -1122,6 +1182,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Compares automatic trajectory evaluators for web navigation and device control against oracle judgments. The resulting feedback is used for agent fine-tuning and inference-time guidance, including experiments on WebArena.
 - [VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?](https://awesomecua.com/resources/arxiv-2404-05955/) — 2024-04-09
   Separately evaluates web-page reading, understanding, and element grounding across tasks drawn from real websites.
+- [Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want](https://awesomecua.com/resources/arxiv-2403-20271/) — 2024-03-29
+  Introduces Draw-and-Understand and MDVP-Bench for understanding visual prompts such as points and boxes; its multi-domain data includes mobile and web screenshots.
 - [AgentStudio: A Toolkit for Building General Virtual Agents](https://awesomecua.com/resources/arxiv-2403-17918/) — 2024-03-26
   AgentStudio combines an interactive GUI/API environment with tools for creating tasks, annotating interface elements, and labeling actions in videos. Its online suite and GroundUI, IDMBench, and CriticBench datasets examine interaction, grounding, learning from video, and success detection.
 - [Tur\[k\]ingBench: A Challenge Benchmark for Web Agents](https://awesomecua.com/resources/arxiv-2403-11905/) — 2024-03-18
@@ -1130,12 +1192,16 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces enterprise web tasks on ServiceNow and BrowserGym interfaces for evaluating browser-based agents.
 - [PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion](https://awesomecua.com/resources/arxiv-2403-03788/) — 2024-03-06
   Benchmarks robustness of API-based PowerPoint completion under sentence-level, semantic, and multilingual instruction perturbations and changes to the available API set.
+- [SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models](https://awesomecua.com/resources/arxiv-2403-03636/) — 2024-03-06
+  Introduces SheetRM, a benchmark of long-horizon spreadsheet tasks, and SheetAgent, an LLM agent that plans, retrieves information and reflects while manipulating spreadsheets.
 - [OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web](https://awesomecua.com/resources/arxiv-2402-17553/) — 2024-02-27
   Introduces a dataset and benchmark for generating executable task scripts from screenshots and visually grounded desktop or web instructions.
 - [WIPI: A New Web Threat for LLM-Driven Web Agents](https://awesomecua.com/resources/arxiv-2402-16965/) — 2024-02-26
   Studies WIPI, a black-box indirect-instruction threat in which webpage content redirects LLM-driven web agents. Evaluation spans plugin-based agents, Web GPTs, and open-source web-agent implementations.
 - [On the Multi-turn Instruction Following for Conversational Web Agents](https://awesomecua.com/resources/arxiv-2402-15057/) — 2024-02-23
   MT-Mind2Web evaluates web navigation through sequences of conversational user instructions. Self-MAP combines memory-augmented planning with reflection to preserve context and dependencies across those interaction turns.
+- [Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents](https://awesomecua.com/resources/arxiv-2402-11208/) — 2024-02-17
+  Studies backdoor attacks on LLM agents, including triggers in user queries or intermediate observations, with web shopping among the evaluated agent tasks.
 - [Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://awesomecua.com/resources/arxiv-2402-06596/) — 2024-02-09
   Introduces AndroidArena and analyzes agent limitations in cross-application tasks, user constraints, exploration, and reflection.
 - [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://awesomecua.com/resources/arxiv-2402-05930/) — 2024-02-08
@@ -1160,6 +1226,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from natural-language requests, built using scripts recorded from user actions and a collection of existing spreadsheets.
 - [AllTogether: Investigating the Efficacy of Spliced Prompt for Web Navigation using Large Language Models](https://awesomecua.com/resources/arxiv-2310-18331/) — 2023-10-20
   AllTogether standardizes prompts for HTML-based web navigation and compares prompting with instruction fine-tuning. Its analysis examines how HTML context, interaction history, and current environmental feedback affect task execution.
+- [AXNav: Replaying Accessibility Tests from Natural Language](https://awesomecua.com/resources/arxiv-2310-02424/) — 2023-10-03
+  Introduces an LLM and pixel-based UI system that executes natural-language accessibility tests, records navigable videos and flags potential interface issues.
 - [AgentBench: Evaluating LLMs as Agents](https://awesomecua.com/resources/arxiv-2308-03688/) — 2023-08-07
   Evaluates language agents across eight interactive environments and analyzes failures in reasoning, decisions, and instruction following.
 - [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://awesomecua.com/resources/arxiv-2307-13854/) — 2023-07-25
@@ -1174,18 +1242,26 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces SheetCopilot, an agent that steers spreadsheet software via atomic virtual APIs, along with a 221-task spreadsheet manipulation benchmark.
 - [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://awesomecua.com/resources/arxiv-2305-16653/) — 2023-05-26
   Introduces AdaPlanner, which revises code-structured plans in response to environmental feedback and reuses successful plans as exemplars. Experiments include MiniWoB++ web tasks alongside ALFWorld.
+- [Mobile User Interface Element Detection Via Adaptively Prompt Tuning](https://awesomecua.com/resources/arxiv-2305-09699/) — 2023-05-16
+  Introduces MUI-zh and APT for detecting mobile UI elements, combining visual features with OCR descriptions to adjust category prompts in CLIP-based detectors.
 - [Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction](https://awesomecua.com/resources/arxiv-2305-08144/) — 2023-05-14
   Provides an Android benchmark toolkit with controlled environments, intermediate feedback, and task sets for reproducible GUI-agent evaluation.
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://awesomecua.com/resources/arxiv-2210-03629/) — 2022-10-06
+  Introduces ReAct, a method that interleaves reasoning traces and actions for language-model agents; WebShop is one of its interactive decision-making evaluations.
 - [ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots](https://awesomecua.com/resources/arxiv-2209-08199/) — 2022-09-16
   Introduces screenshot question answering over mobile interfaces, linking answers to screen content and bounding boxes.
 - [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://awesomecua.com/resources/arxiv-2207-01206/) — 2022-07-04
   Provides a simulated shopping environment where language agents search, configure, and select products from natural-language requirements.
 - [A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility](https://awesomecua.com/resources/arxiv-2202-02312/) — 2022-02-04
   Introduces MoTIF mobile-app interactions with feasible and infeasible commands, feasibility explanations, and follow-up questions for ambiguous requests.
+- [Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments](https://awesomecua.com/resources/arxiv-2104-08560/) — 2021-04-17
+  Introduces MoTIF, a dataset of natural-language requests for interactive mobile apps, including infeasible requests and follow-up questions for studying task feasibility.
 - [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://awesomecua.com/resources/arxiv-2101-09465/) — 2021-01-23
   Introduces question answering over webpage text and structure, with aligned HTML, screenshots, and metadata for structural reading comprehension.
 - [Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?](https://awesomecua.com/resources/arxiv-2008-05132/) — 2020-08-12
   Compares seven traditional and learned GUI element detectors on more than 50,000 interface images. The analysis motivates a coarse-to-fine non-text detector combined with a learned text detector to address GUI-specific localization requirements.
+- [A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications](https://awesomecua.com/resources/arxiv-1812-11470/) — 2018-12-30
+  Surveys automated functional GUI testing techniques for mobile apps, comparing the effectiveness, efficiency and practicality of approaches reported in 25 studies.
 - [Mapping Natural Language Commands to Web Elements](https://awesomecua.com/resources/arxiv-1808-09132/) — 2018-08-28
   Defines language grounding on webpages as choosing the UI element targeted by a natural-language command. A collection of more than 50,000 commands and three baseline models study functional references, relationships between elements, and visual position cues.
 - [World of Bits: An Open-Domain Platform for Web-Based Agents](https://awesomecua.com/resources/url-52a3261eb6a19b402e88/) — 2017-07-17

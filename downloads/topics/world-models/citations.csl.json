@@ -1,5 +1,72 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2403.12037v2",
+    "archive": "arXiv",
+    "archive_location": "2403.12037",
+    "author": [
+      {
+        "literal": "Enshen Zhou"
+      },
+      {
+        "literal": "Yiran Qin"
+      },
+      {
+        "literal": "Zhenfei Yin"
+      },
+      {
+        "literal": "Yuzhou Huang"
+      },
+      {
+        "literal": "Ruimao Zhang"
+      },
+      {
+        "literal": "Lu Sheng"
+      },
+      {
+        "literal": "Yu Qiao"
+      },
+      {
+        "literal": "Jing Shao"
+      }
+    ],
+    "citation-key": "arxiv_2403_12037",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "973133be9a1bc8ed5d6d1d9c6efb554d9114b1f16381456f7966b314ff8b1133",
+        "submitted_at": "2024-03-18T17:59:42Z",
+        "updated_at": "2024-03-19T14:52:28Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2403.12037v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.12037",
+      "catalog_id": "arxiv:2403.12037",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-18",
+      "identifiers": {
+        "arxiv": "2403.12037"
+      },
+      "record_updated_at": "2024-03-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.12037",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-18; Recorded arXiv version: v2; Recorded version updated: 2024-03-19T14:52:28Z.",
+    "title": "MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2406.07822v2",
     "archive": "arXiv",
     "archive_location": "2406.07822",
@@ -274,6 +341,55 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2503.02878v3",
+    "archive": "arXiv",
+    "archive_location": "2503.02878",
+    "author": [
+      {
+        "literal": "Ethan Mendes"
+      },
+      {
+        "literal": "Alan Ritter"
+      }
+    ],
+    "citation-key": "arxiv_2503_02878",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "50cf772cf321e8daac4124f5e55e2d295fb751b53e10a73b4fb36f87f1854b35",
+        "submitted_at": "2025-03-04T18:58:11Z",
+        "updated_at": "2025-10-29T22:28:23Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2503.02878v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.02878",
+      "catalog_id": "arxiv:2503.02878",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-04",
+      "identifiers": {
+        "arxiv": "2503.02878"
+      },
+      "record_updated_at": "2025-10-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.02878",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-04; Recorded arXiv version: v3; Recorded version updated: 2025-10-29T22:28:23Z.",
+    "title": "Language Models can Self-Improve at State-Value Estimation for Better Search",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2504.13936v2",
     "archive": "arXiv",
     "archive_location": "2504.13936",
@@ -517,6 +633,61 @@
     },
     "note": "First published: 2025-05-25; Recorded arXiv version: v1; Recorded version updated: 2025-05-25T11:13:03Z.",
     "title": "ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.04370v1",
+    "archive": "arXiv",
+    "archive_location": "2507.04370",
+    "author": [
+      {
+        "literal": "Yifei Gao"
+      },
+      {
+        "literal": "Junhong Ye"
+      },
+      {
+        "literal": "Jiaqi Wang"
+      },
+      {
+        "literal": "Jitao Sang"
+      }
+    ],
+    "citation-key": "arxiv_2507_04370",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "14b2fdc0dbafa60f279c4a7530bf7e66dca471c67d9767235224f65a023c5f25",
+        "submitted_at": "2025-07-06T12:31:10Z",
+        "updated_at": "2025-07-06T12:31:10Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.04370v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.04370",
+      "catalog_id": "arxiv:2507.04370",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-06",
+      "identifiers": {
+        "arxiv": "2507.04370"
+      },
+      "record_updated_at": "2025-07-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.04370",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-06; Recorded arXiv version: v1; Recorded version updated: 2025-07-06T12:31:10Z.",
+    "title": "WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis",
     "type": "article",
     "version": "1"
   },

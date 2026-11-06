@@ -4630,6 +4630,88 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2502.13130v1",
+    "archive": "arXiv",
+    "archive_location": "2502.13130",
+    "author": [
+      {
+        "literal": "Jianwei Yang"
+      },
+      {
+        "literal": "Reuben Tan"
+      },
+      {
+        "literal": "Qianhui Wu"
+      },
+      {
+        "literal": "Ruijie Zheng"
+      },
+      {
+        "literal": "Baolin Peng"
+      },
+      {
+        "literal": "Yongyuan Liang"
+      },
+      {
+        "literal": "Yu Gu"
+      },
+      {
+        "literal": "Mu Cai"
+      },
+      {
+        "literal": "Seonghyeon Ye"
+      },
+      {
+        "literal": "Joel Jang"
+      },
+      {
+        "literal": "Yuquan Deng"
+      },
+      {
+        "literal": "Lars Liden"
+      },
+      {
+        "literal": "Jianfeng Gao"
+      }
+    ],
+    "citation-key": "arxiv_2502_13130",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2d126515d15bc1d6749a2f2fc0419b6812906524562b5877b690be751ff4f61a",
+        "submitted_at": "2025-02-18T18:55:21Z",
+        "updated_at": "2025-02-18T18:55:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.13130v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.13130",
+      "catalog_id": "arxiv:2502.13130",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-02-18",
+      "identifiers": {
+        "arxiv": "2502.13130"
+      },
+      "record_updated_at": "2025-02-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.13130",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-18; Recorded arXiv version: v1; Recorded version updated: 2025-02-18T18:55:21Z.",
+    "title": "Magma: A Foundation Model for Multimodal AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2503.00401v2",
     "archive": "arXiv",
     "archive_location": "2503.00401",
@@ -5935,6 +6017,61 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.05895v3",
+    "archive": "arXiv",
+    "archive_location": "2505.05895",
+    "author": [
+      {
+        "literal": "Benjamin Raphael Ernhofer"
+      },
+      {
+        "literal": "Daniil Prokhorov"
+      },
+      {
+        "literal": "Jannica Langner"
+      },
+      {
+        "literal": "Dominik Bollmann"
+      }
+    ],
+    "citation-key": "arxiv_2505_05895",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "408b0161343817cce64f149f8bdbb7f91211fd86dc8efb5ff1258f3373370d41",
+        "submitted_at": "2025-05-09T09:01:52Z",
+        "updated_at": "2025-08-05T16:23:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2505.05895v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.05895",
+      "catalog_id": "arxiv:2505.05895",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-09",
+      "identifiers": {
+        "arxiv": "2505.05895"
+      },
+      "record_updated_at": "2025-08-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.05895",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-09; Recorded arXiv version: v3; Recorded version updated: 2025-08-05T16:23:24Z.",
+    "title": "Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.12370v2",
     "archive": "arXiv",
     "archive_location": "2505.12370",
@@ -6294,6 +6431,79 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.17629v2",
+    "archive": "arXiv",
+    "archive_location": "2505.17629",
+    "author": [
+      {
+        "literal": "Yuheng Lu"
+      },
+      {
+        "literal": "Qian Yu"
+      },
+      {
+        "literal": "Hongru Wang"
+      },
+      {
+        "literal": "Zeming Liu"
+      },
+      {
+        "literal": "Wei Su"
+      },
+      {
+        "literal": "Yanping Liu"
+      },
+      {
+        "literal": "Yuhang Guo"
+      },
+      {
+        "literal": "Maocheng Liang"
+      },
+      {
+        "literal": "Yunhong Wang"
+      },
+      {
+        "literal": "Haifeng Wang"
+      }
+    ],
+    "citation-key": "arxiv_2505_17629",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b0d87cf010efb0eb7a1fdeaffc16a01829f689103f364d62c853092b990c8962",
+        "submitted_at": "2025-05-23T08:39:06Z",
+        "updated_at": "2025-05-27T07:41:51Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2505.17629v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.17629",
+      "catalog_id": "arxiv:2505.17629",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-23",
+      "identifiers": {
+        "arxiv": "2505.17629"
+      },
+      "record_updated_at": "2025-05-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.17629",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-23; Recorded arXiv version: v2; Recorded version updated: 2025-05-27T07:41:51Z.",
+    "title": "TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.21279v2",
     "archive": "arXiv",
     "archive_location": "2505.21279",
@@ -6356,6 +6566,70 @@
     "title": "XBOUND: Exploring Capability Boundaries of Device-Control Agents at the State Level",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.23678v3",
+    "archive": "arXiv",
+    "archive_location": "2505.23678",
+    "author": [
+      {
+        "literal": "Gabriel Sarch"
+      },
+      {
+        "literal": "Snigdha Saha"
+      },
+      {
+        "literal": "Naitik Khandelwal"
+      },
+      {
+        "literal": "Ayush Jain"
+      },
+      {
+        "literal": "Michael J. Tarr"
+      },
+      {
+        "literal": "Aviral Kumar"
+      },
+      {
+        "literal": "Katerina Fragkiadaki"
+      }
+    ],
+    "citation-key": "arxiv_2505_23678",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0a88e661433c5d2d92f1787c8257a05b0ad7590523c5cc2adf1a88362f6cbcd5",
+        "submitted_at": "2025-05-29T17:20:26Z",
+        "updated_at": "2026-05-15T17:27:46Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2505.23678v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.23678",
+      "catalog_id": "arxiv:2505.23678",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-29",
+      "identifiers": {
+        "arxiv": "2505.23678"
+      },
+      "record_updated_at": "2026-05-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.23678",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-29; Recorded arXiv version: v3; Recorded version updated: 2026-05-15T17:27:46Z.",
+    "title": "Grounded Reinforcement Learning for Visual Reasoning",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2506.02865v2",
@@ -6626,6 +6900,274 @@
     },
     "note": "First published: 2025-06-03; Recorded arXiv version: v1; Recorded version updated: 2025-06-03T17:59:08Z.",
     "title": "GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.03569v1",
+    "archive": "arXiv",
+    "archive_location": "2506.03569",
+    "author": [
+      {
+        "literal": "Xiaomi LLM-Core Team"
+      },
+      {
+        "literal": ":"
+      },
+      {
+        "literal": "Zihao Yue"
+      },
+      {
+        "literal": "Zhenru Lin"
+      },
+      {
+        "literal": "Yifan Song"
+      },
+      {
+        "literal": "Weikun Wang"
+      },
+      {
+        "literal": "Shuhuai Ren"
+      },
+      {
+        "literal": "Shuhao Gu"
+      },
+      {
+        "literal": "Shicheng Li"
+      },
+      {
+        "literal": "Peidian Li"
+      },
+      {
+        "literal": "Liang Zhao"
+      },
+      {
+        "literal": "Lei Li"
+      },
+      {
+        "literal": "Kainan Bao"
+      },
+      {
+        "literal": "Hao Tian"
+      },
+      {
+        "literal": "Hailin Zhang"
+      },
+      {
+        "literal": "Gang Wang"
+      },
+      {
+        "literal": "Dawei Zhu"
+      },
+      {
+        "literal": "Cici"
+      },
+      {
+        "literal": "Chenhong He"
+      },
+      {
+        "literal": "Bowen Ye"
+      },
+      {
+        "literal": "Bowen Shen"
+      },
+      {
+        "literal": "Zihan Zhang"
+      },
+      {
+        "literal": "Zihan Jiang"
+      },
+      {
+        "literal": "Zhixian Zheng"
+      },
+      {
+        "literal": "Zhichao Song"
+      },
+      {
+        "literal": "Zhenbo Luo"
+      },
+      {
+        "literal": "Yue Yu"
+      },
+      {
+        "literal": "Yudong Wang"
+      },
+      {
+        "literal": "Yuanyuan Tian"
+      },
+      {
+        "literal": "Yu Tu"
+      },
+      {
+        "literal": "Yihan Yan"
+      },
+      {
+        "literal": "Yi Huang"
+      },
+      {
+        "literal": "Xu Wang"
+      },
+      {
+        "literal": "Xinzhe Xu"
+      },
+      {
+        "literal": "Xingchen Song"
+      },
+      {
+        "literal": "Xing Zhang"
+      },
+      {
+        "literal": "Xing Yong"
+      },
+      {
+        "literal": "Xin Zhang"
+      },
+      {
+        "literal": "Xiangwei Deng"
+      },
+      {
+        "literal": "Wenyu Yang"
+      },
+      {
+        "literal": "Wenhan Ma"
+      },
+      {
+        "literal": "Weiwei Lv"
+      },
+      {
+        "literal": "Weiji Zhuang"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Sirui Deng"
+      },
+      {
+        "literal": "Shuo Liu"
+      },
+      {
+        "literal": "Shimao Chen"
+      },
+      {
+        "literal": "Shihua Yu"
+      },
+      {
+        "literal": "Shaohui Liu"
+      },
+      {
+        "literal": "Shande Wang"
+      },
+      {
+        "literal": "Rui Ma"
+      },
+      {
+        "literal": "Qiantong Wang"
+      },
+      {
+        "literal": "Peng Wang"
+      },
+      {
+        "literal": "Nuo Chen"
+      },
+      {
+        "literal": "Menghang Zhu"
+      },
+      {
+        "literal": "Kangyang Zhou"
+      },
+      {
+        "literal": "Kang Zhou"
+      },
+      {
+        "literal": "Kai Fang"
+      },
+      {
+        "literal": "Jun Shi"
+      },
+      {
+        "literal": "Jinhao Dong"
+      },
+      {
+        "literal": "Jiebao Xiao"
+      },
+      {
+        "literal": "Jiaming Xu"
+      },
+      {
+        "literal": "Huaqiu Liu"
+      },
+      {
+        "literal": "Hongshen Xu"
+      },
+      {
+        "literal": "Heng Qu"
+      },
+      {
+        "literal": "Haochen Zhao"
+      },
+      {
+        "literal": "Hanglong Lv"
+      },
+      {
+        "literal": "Guoan Wang"
+      },
+      {
+        "literal": "Duo Zhang"
+      },
+      {
+        "literal": "Dong Zhang"
+      },
+      {
+        "literal": "Di Zhang"
+      },
+      {
+        "literal": "Chong Ma"
+      },
+      {
+        "literal": "Chang Liu"
+      },
+      {
+        "literal": "Can Cai"
+      },
+      {
+        "literal": "Bingquan Xia"
+      }
+    ],
+    "citation-key": "arxiv_2506_03569",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dc758c8428d7265d34ff261790d97c979daf93599f76d3bfa7735603280ef742",
+        "submitted_at": "2025-06-04T04:32:54Z",
+        "updated_at": "2025-06-04T04:32:54Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.03569v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.03569",
+      "catalog_id": "arxiv:2506.03569",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-06-04",
+      "identifiers": {
+        "arxiv": "2506.03569"
+      },
+      "record_updated_at": "2025-06-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.03569",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-04; Recorded arXiv version: v1; Recorded version updated: 2025-06-04T04:32:54Z.",
+    "title": "MiMo-VL Technical Report",
     "type": "article",
     "version": "1"
   },
@@ -7243,6 +7785,64 @@
     "title": "VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.10202v1",
+    "archive": "arXiv",
+    "archive_location": "2507.10202",
+    "author": [
+      {
+        "literal": "Jaeseong Lee"
+      },
+      {
+        "literal": "Yeeun Choi"
+      },
+      {
+        "literal": "Heechan Choi"
+      },
+      {
+        "literal": "Hanjung Kim"
+      },
+      {
+        "literal": "Seonjoo Kim"
+      }
+    ],
+    "citation-key": "arxiv_2507_10202",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2c73207679d34946e6f77fc573bac45c8b77de1772cd7b2c7211cd1b653da931",
+        "submitted_at": "2025-07-14T12:14:53Z",
+        "updated_at": "2025-07-14T12:14:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.10202v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.10202",
+      "catalog_id": "arxiv:2507.10202",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-07-14",
+      "identifiers": {
+        "arxiv": "2507.10202"
+      },
+      "record_updated_at": "2025-07-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.10202",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-14; Recorded arXiv version: v1; Recorded version updated: 2025-07-14T12:14:53Z.",
+    "title": "A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2507.10610v3",

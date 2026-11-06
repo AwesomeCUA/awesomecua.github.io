@@ -160,6 +160,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   NaturalGAIA builds verifiable long-horizon GUI tasks from human interaction intents while separating causal task structure from its verbal description. Its LightManus-Jarvis framework divides dynamic planning and context management from execution based on visual and structural interface information.
 - [MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](https://awesomecua.com/resources/arxiv-2507-16853/) — 2025-07-21
   MobileUse reflects on errors at action and task timescales, invoking reflection when needed and using proactive exploration to learn unfamiliar apps. It evaluates this mobile execution framework on AndroidWorld and AndroidLab and describes a toolkit for physical-device operation.
+- [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://awesomecua.com/resources/arxiv-2506-21506/) — 2025-06-26
+  Introduces Mind2Web 2, 130 long-horizon tasks requiring live web browsing and information synthesis, plus an Agent-as-a-Judge framework for grading answers and sources.
 - [AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-14205/) — 2025-06-17
   AgentSynth composes easily generated subtasks into longer computer-use tasks and trajectories with adjustable difficulty. Its evaluation uses the number of subtasks to probe how agent success changes as task complexity grows.
 - [Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills](https://awesomecua.com/resources/arxiv-2506-10387/) — 2025-06-12
@@ -168,10 +170,18 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   UI-NEXUS evaluates compositional mobile tasks in local utility apps and online Chinese and English service apps. AGENT-NEXUS decomposes those long tasks into self-contained atomic subtasks to study generalization beyond isolated screens or short action chains.
 - [Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction](https://awesomecua.com/resources/arxiv-2506-07976/) — 2025-06-09
   Test-Time Interaction scales the interaction horizon so web agents can explore, backtrack and revise plans within a rollout. Its online reinforcement-learning curriculum adjusts rollout lengths and is evaluated on WebVoyager and WebArena.
+- [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://awesomecua.com/resources/arxiv-2506-01952/) — 2025-06-02
+  Introduces WebChoreArena, 532 web chores built on WebArena environments to evaluate agents’ retention of page information, calculation, and tracking across pages.
 - [VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video](https://awesomecua.com/resources/arxiv-2505-24838/) — 2025-05-30
   Introduces synthetic CAD interaction videos, a model for learning interface actions from video, and evaluation tasks for spatial and long-horizon reasoning.
+- [SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution](https://awesomecua.com/resources/arxiv-2505-20732/) — 2025-05-27
+  Introduces SPA, a reward redistribution method for multi-step LLM agents that estimates each action’s contribution to task completion; Webshop is among its evaluations.
 - [ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay](https://awesomecua.com/resources/arxiv-2505-16282/) — 2025-05-22
   ARPO extends group-relative policy optimization with a replay buffer that reuses successful GUI trajectories across training iterations. It filters tasks using baseline performance and compares end-to-end reinforcement learning with offline preference optimization on OSWorld.
+- [MedBrowseComp: Benchmarking Medical Deep Research and Computer Use](https://awesomecua.com/resources/arxiv-2505-14963/) — 2025-05-20
+  Introduces MedBrowseComp, a benchmark of human-curated, multi-hop medical questions for agents retrieving and synthesizing facts from live knowledge bases in a computer-use setting.
+- [Deep Research Bench: Evaluating AI Web Research Agents](https://awesomecua.com/resources/arxiv-2506-06287/) — 2025-05-06
+  Introduces Deep Research Bench, 89 multi-step web research tasks and a frozen collection of scraped pages for evaluating search agents and their traces over time.
 - [OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents](https://awesomecua.com/resources/arxiv-2505-03570/) — 2025-05-06
   Introduces OSUniverse, a desktop GUI benchmark spanning precise clicks through multistep and multiapplication tasks. It provides both manual scoring and an automated validation mechanism.
 - [RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users](https://awesomecua.com/resources/arxiv-2504-10445/) — 2025-04-14
@@ -188,10 +198,14 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Evaluates language agents on office workflows requiring information integration, long-term planning, and switching between applications.
 - [MMInA: Benchmarking Multihop Multimodal Internet Agents](https://awesomecua.com/resources/arxiv-2404-09992/) — 2024-04-15
   Evaluates multimodal agents on compositional tasks across changing websites and studies replaying prior trajectories as memory support.
+- [SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models](https://awesomecua.com/resources/arxiv-2403-03636/) — 2024-03-06
+  Introduces SheetRM, a benchmark of long-horizon spreadsheet tasks, and SheetAgent, an LLM agent that plans, retrieves information and reflects while manipulating spreadsheets.
 - [Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web](https://awesomecua.com/resources/arxiv-2311-18751/) — 2023-11-30
   CompWoB adds 50 composed web-automation tasks to study generalization from simpler interactions. The paper compares prompted and fine-tuned agents, balances task training data, and probes sensitivity to changes in instruction order.
 - [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://awesomecua.com/resources/arxiv-2307-13854/) — 2023-07-25
   Introduces reproducible web environments with task-completion checks for evaluating autonomous web agents.
+- [AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning](https://awesomecua.com/resources/arxiv-2106-00133/) — 2021-05-31
+  Introduces AppBuddy, an RL training platform and task suite for mobile apps where agents use on-screen element states and tap or type to complete multi-step tasks.
 
 ## Benchmarks
 

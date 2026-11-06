@@ -294,12 +294,16 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Introduces an app-content instrumentation framework and complementary interactive and static test suites for mobile GUI agents. It studies how untrusted third-party content changes task execution and state understanding.
 - [SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents](https://awesomecua.com/resources/arxiv-2507-00841/) — 2025-07-01
   Studies chain-level risk detection for mobile multimodal agents and a language-model-assisted evaluator, assessing safety interventions together with functional preservation.
+- [Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents](https://awesomecua.com/resources/arxiv-2506-21252/) — 2025-06-26
+  Introduces Agent-RewardBench to evaluate step-level reward models for multimodal agents across perception, planning, and safety; web navigation is among its scenarios.
 - [Context manipulation attacks : Web agents are susceptible to corrupted memory](https://awesomecua.com/resources/arxiv-2506-17318/) — 2025-06-18
   Studies context manipulation in web agents by altering stored task representations rather than webpage prompts alone. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
 - [OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents](https://awesomecua.com/resources/arxiv-2506-14866/) — 2025-06-17
   Extends OSWorld with tasks covering user misuse, prompt injection, and model misbehavior, with assessment of both task success and safety.
 - [Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents](https://awesomecua.com/resources/arxiv-2506-13205/) — 2025-06-16
   Demonstrates clean-text visual backdoor attacks (VIBMA) that compromise fine-tuned VLM mobile agents through visual triggers while keeping text instructions intact.
+- [Build the web for agents, not agents for the web](https://awesomecua.com/resources/arxiv-2506-10953/) — 2025-06-12
+  Proposes Agentic Web Interface (AWI), a website interface intended for agent navigation, and sets out six design principles for web-agent use.
 - [macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](https://awesomecua.com/resources/arxiv-2506-04135/) — 2025-06-04
   macOSWorld provides 202 interactive tasks across 30 applications, with instructions and operating-system interfaces in five languages. It evaluates GUI agents on macOS workflows and includes a separate subset for deception-attack testing.
 - [VerificAgent: Domain-Specific Memory Verification for Scalable Oversight of Aligned Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-02539/) — 2025-06-03
@@ -324,10 +328,14 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Analyzes security vulnerabilities across OEM system-level, third-party, and research mobile LLM agents, covering GUI and cross-application attack surfaces.
 - [GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents](https://awesomecua.com/resources/arxiv-2505-12842/) — 2025-05-19
   GEM detects instructions outside a GUI agent’s capabilities by modeling distances in its input-embedding space with a Gaussian mixture. Experiments across mobile, computer and browser data also examine selective escalation to a cloud model when an input is detected as unfamiliar.
+- [WebInject: Prompt Injection Attack to Web Agents](https://awesomecua.com/resources/arxiv-2505-11717/) — 2025-05-16
+  Introduces WebInject, a prompt-injection attack that optimizes rendered webpage pixels to make screenshot-based web agents take attacker-chosen actions.
 - [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://awesomecua.com/resources/arxiv-2505-10924/) — 2025-05-16
   Systematizes safety and security threats to computer-using agents, with taxonomies of threats and defensive strategies.
 - [Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing](https://awesomecua.com/resources/arxiv-2505-09875/) — 2025-05-15
   Studies unintended consequences of collaborative web browsing with GUI agents through social-media analysis and interviews. It organizes observed failures, user impacts, and mitigation practices around planning, interface interaction, feedback, privacy, and trust.
+- [AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents](https://awesomecua.com/resources/arxiv-2505-05849/) — 2025-05-09
+  Introduces AgentVigil, a black-box fuzzing framework for finding indirect prompt injections against LLM agents, including attacks that redirect web navigation.
 - [Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents](https://awesomecua.com/resources/arxiv-2504-17934/) — 2025-04-24
   Presents a position paper on privacy and security evaluation for GUI agents, identifying risk categories and challenges in involving human evaluators. It proposes risk-aware assessment and in-context consent as design directions.
 - [WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks](https://awesomecua.com/resources/arxiv-2504-18575/) — 2025-04-22
@@ -348,6 +356,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Evaluates security failures of computer-use agents under adversarial requests and screen-context manipulation. The study examines refusal behavior while agents perform tasks in desktop and web environments.
 - [VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification](https://awesomecua.com/resources/arxiv-2503-18492/) — 2025-03-24
   Translates user instructions into formal specifications and applies runtime logic-based checks to proposed mobile GUI actions.
+- [MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents](https://awesomecua.com/resources/arxiv-2503-10809/) — 2025-03-13
+  Studies Malicious Image Patches (MIPs), altered screen regions that can steer screenshot-based OS agents into harmful mouse and keyboard actions.
 - [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://awesomecua.com/resources/arxiv-2503-09780/) — 2025-03-12
   Evaluates whether autonomous web agents minimize use of sensitive personal information when completing tasks that expose unnecessary private data.
 - [In-Context Defense in Computer Agents: An Empirical Study](https://awesomecua.com/resources/arxiv-2503-09241/) — 2025-03-12
@@ -388,6 +398,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Introduces GuardAgent, which translates safety requests into executable guardrail code using plans and retrieved demonstrations. Mind2Web-SC supplies a web-agent safety-policy evaluation alongside a separate healthcare access-control benchmark.
 - [WIPI: A New Web Threat for LLM-Driven Web Agents](https://awesomecua.com/resources/arxiv-2402-16965/) — 2024-02-26
   Studies WIPI, a black-box indirect-instruction threat in which webpage content redirects LLM-driven web agents. Evaluation spans plugin-based agents, Web GPTs, and open-source web-agent implementations.
+- [Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents](https://awesomecua.com/resources/arxiv-2402-11208/) — 2024-02-17
+  Studies backdoor attacks on LLM agents, including triggers in user queries or intermediate observations, with web shopping among the evaluated agent tasks.
 - [A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://awesomecua.com/resources/arxiv-2402-10196/) — 2024-02-15
   Presents a conceptual perception–reasoning–action framework and 12 potential attack scenarios for language agents, including hypothetical web-navigation attacks.
 - [Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators](https://awesomecua.com/resources/arxiv-2306-01242/) — 2023-06-02

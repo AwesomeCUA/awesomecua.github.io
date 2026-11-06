@@ -1,5 +1,66 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2405.03710v1",
+    "archive": "arXiv",
+    "archive_location": "2405.03710",
+    "author": [
+      {
+        "literal": "Michael Wornow"
+      },
+      {
+        "literal": "Avanika Narayan"
+      },
+      {
+        "literal": "Krista Opsahl-Ong"
+      },
+      {
+        "literal": "Quinn McIntyre"
+      },
+      {
+        "literal": "Nigam H. Shah"
+      },
+      {
+        "literal": "Christopher Re"
+      }
+    ],
+    "citation-key": "arxiv_2405_03710",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e19c81e6b6000f3e609fbc8c77aab7be6e4e231d4ee467d7924d07e336df2017",
+        "submitted_at": "2024-05-03T23:25:15Z",
+        "updated_at": "2024-05-03T23:25:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2405.03710v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2405.03710",
+      "catalog_id": "arxiv:2405.03710",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-05-03",
+      "identifiers": {
+        "arxiv": "2405.03710"
+      },
+      "record_updated_at": "2024-05-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2405.03710",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2024-05-03; Recorded arXiv version: v1; Recorded version updated: 2024-05-03T23:25:15Z.",
+    "title": "Automating the Enterprise with Foundation Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2407.15673v3",
     "archive": "arXiv",
     "archive_location": "2407.15673",
@@ -62,6 +123,103 @@
     "title": "IDA: Breaking Barriers in No-code UI Automation Through Large Language Models and Human-Centric Design",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2501.02863v2",
+    "archive": "arXiv",
+    "archive_location": "2501.02863",
+    "author": [
+      {
+        "literal": "Dezhi Ran"
+      },
+      {
+        "literal": "Mengzhou Wu"
+      },
+      {
+        "literal": "Hao Yu"
+      },
+      {
+        "literal": "Yuetong Li"
+      },
+      {
+        "literal": "Jun Ren"
+      },
+      {
+        "literal": "Yuan Cao"
+      },
+      {
+        "literal": "Xia Zeng"
+      },
+      {
+        "literal": "Haochuan Lu"
+      },
+      {
+        "literal": "Zexin Xu"
+      },
+      {
+        "literal": "Mengqian Xu"
+      },
+      {
+        "literal": "Ting Su"
+      },
+      {
+        "literal": "Liangchao Yao"
+      },
+      {
+        "literal": "Ting Xiong"
+      },
+      {
+        "literal": "Wei Yang"
+      },
+      {
+        "literal": "Yuetang Deng"
+      },
+      {
+        "literal": "Assaf Marron"
+      },
+      {
+        "literal": "David Harel"
+      },
+      {
+        "literal": "Tao Xie"
+      }
+    ],
+    "citation-key": "arxiv_2501_02863",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f6923f325ffccf753a58787ccd03eb9c882ec9784fb665703cfb5773b5d8b3d2",
+        "submitted_at": "2025-01-06T09:10:11Z",
+        "updated_at": "2025-02-11T13:34:12Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2501.02863v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2501.02863",
+      "catalog_id": "arxiv:2501.02863",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-01-06",
+      "identifiers": {
+        "arxiv": "2501.02863"
+      },
+      "record_updated_at": "2025-02-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2501.02863",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-01-06; Recorded arXiv version: v2; Recorded version updated: 2025-02-11T13:34:12Z.",
+    "title": "Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2506.07217v2",

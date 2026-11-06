@@ -125,6 +125,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:01:33Z",
+      "role": "primary",
+      "sha256": "b7001e189c17d6fa072573558661e37a7cb4c7709d33080603d72a969cc4ba39",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2503.02878%2C2503.06378%2C2503.06580%2C2503.07365%2C2503.07701%2C2503.08026%2C2503.08175%2C2503.10613%2C2503.10809%2C2503.11579%2C2503.12228%2C2503.12461%2C2503.12687%2C2503.13843%2C2503.14495%2C2503.15426%2C2503.16036%2C2503.16248%2C2503.16365%2C2503.16975%2C2503.17671%2C2503.18102%2C2503.20036%2C2503.21889%2C2503.21949%2C2503.23803%2C2504.01328%2C2504.01377%2C2504.03206%2C2504.03601%2C2504.06821%2C2504.07491%2C2504.09723%2C2504.10147%2C2504.11301%2C2504.11543%2C2504.11703%2C2504.12609%2C2504.12682%2C2504.14233%2C2504.14348%2C2504.17892%2C2504.18580%2C2504.20965%2C2505.00019%2C2505.00693%2C2505.01578%2C2505.02094%2C2505.03574%2C2505.03733&max_results=50"
     }
   ],
   "id": "arxiv:2504.07491",
@@ -132,7 +148,7 @@
     "arxiv": "2504.07491"
   },
   "kind": "paper",
-  "last_verified_at": "2026-11-05T21:13:58Z",
+  "last_verified_at": "2026-11-05T23:01:33Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -141,18 +157,21 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2504.07491"
     }
   ],
   "name": "Kimi-VL Technical Report",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Computer-use tasks are among several domains evaluated for this general-purpose model. Experiments, reported performance and artifact availability have not been independently reproduced.",
   "published_at": "2025-04-10",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Presents Kimi-VL, a general vision-language model evaluated on multi-turn agent tasks including OSWorld and on ScreenSpot-Pro alongside other vision-language tasks.",
+  "topics": [
+    "evaluation",
+    "screen-understanding"
+  ],
   "updated_at": "2025-06-23",
   "url": "https://arxiv.org/abs/2504.07491"
 }

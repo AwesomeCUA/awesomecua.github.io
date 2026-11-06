@@ -182,34 +182,54 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   RecAgent narrows attention to recommended UI components and requests user feedback when task intent or decisions remain uncertain. It introduces ComplexAction to evaluate specified single-step GUI actions in difficult interface scenarios.
 - [Phi-Ground Tech Report: Advancing Perception in GUI Grounding](https://awesomecua.com/resources/arxiv-2507-23779/) — 2025-07-31
   Reports a GUI-grounding model family and empirical design choices covering source data, perception training, and coordinate prediction.
+- [A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images](https://awesomecua.com/resources/arxiv-2507-10202/) — 2025-07-14
+  Introduces Extract Candidate then Predict (ECP), a training-free two-stage method for high-resolution images, evaluated partly on 4K GUI grounding.
 - [R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding](https://awesomecua.com/resources/arxiv-2507-05673/) — 2025-07-08
   R-VLM localizes GUI elements through zoomed-in region proposals and an intersection-over-union-aware training objective. It evaluates the grounding model on ScreenSpot and AgentStudio and studies its effect on navigation in AITW and Mind2Web.
 - [DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning](https://awesomecua.com/resources/arxiv-2507-00008/) — 2025-06-12
   Separates textual and iconic UI elements and iteratively focuses visual regions to refine grounding without additional model training.
+- [FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents](https://awesomecua.com/resources/arxiv-2506-01520/) — 2025-06-02
+  Introduces FormFactory, an interactive web-based benchmark for agents filling online forms, with varied field formats and evaluation of instruction-to-field alignment.
 - [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents](https://awesomecua.com/resources/arxiv-2505-24878/) — 2025-05-30
   Open CaptchaWorld evaluates multimodal agents on interactive browser-based CAPTCHA puzzles. Its benchmark distinguishes task success from the depth of visual reasoning and interaction needed to complete a puzzle.
+- [Grounded Reinforcement Learning for Visual Reasoning](https://awesomecua.com/resources/arxiv-2505-23678/) — 2025-05-29
+  Introduces ViGoRL, a visual reasoning model trained to reference image coordinates and zoom during reasoning; its evaluations include GUI element localization.
+- [Seed1.5-VL Technical Report](https://awesomecua.com/resources/arxiv-2505-07062/) — 2025-05-11
+  Reports Seed1.5-VL, a general vision-language model evaluated on GUI control and gameplay alongside visual understanding and reasoning tasks.
 - [Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding](https://awesomecua.com/resources/arxiv-2505-05026/) — 2025-05-08
   Introduces WiserUI-Bench, pairing real UI variants from industry A/B tests with observed behavioral winners and expert explanations. It evaluates models’ ability to predict the more effective interface and explain its effect on user behavior.
 - [Visual Test-time Scaling for GUI Agent Grounding](https://awesomecua.com/resources/arxiv-2505-00684/) — 2025-05-01
   RegionFocus adds visual test-time scaling by zooming into selected screenshot regions and maintaining an image-based map of landmarks and actions. It evaluates this grounding procedure with UI-TARS and Qwen2.5-VL on ScreenSpot-Pro and WebVoyager.
 - [PixelWeb: The First Web GUI Dataset with Pixel-Wise Labels](https://awesomecua.com/resources/arxiv-2504-16419/) — 2025-04-23
   Introduces PixelWeb, a webpage GUI dataset with element images, contours, and pixel masks. Its annotation pipeline combines bitmap channel information with DOM-based visibility and stacking analysis to address occlusion and overlapping elements.
+- [Kimi-VL Technical Report](https://awesomecua.com/resources/arxiv-2504-07491/) — 2025-04-10
+  Presents Kimi-VL, a general vision-language model evaluated on multi-turn agent tasks including OSWorld and on ScreenSpot-Pro alongside other vision-language tasks.
 - [ScreenLLM: Stateful Screen Schema for Efficient Action Understanding and Prediction](https://awesomecua.com/resources/arxiv-2503-20978/) — 2025-03-26
   Represents interface interactions with a stateful screen schema to model user behavior and support action understanding and prediction.
 - [UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction](https://awesomecua.com/resources/arxiv-2503-15661/) — 2025-03-19
   Provides annotated desktop demonstrations for evaluating element grounding, layout grounding, and action prediction.
 - [MP-GUI: Modality Perception with MLLMs for GUI Understanding](https://awesomecua.com/resources/arxiv-2503-14021/) — 2025-03-18
   Uses specialized graphical, textual, and spatial perception components with a data-collection pipeline to improve GUI understanding.
+- [WebNav: An Intelligent Agent for Voice-Controlled Web Navigation](https://awesomecua.com/resources/arxiv-2503-13843/) — 2025-03-18
+  Introduces WebNav, a web navigation agent that turns natural-language commands into GUI actions using screenshot context, DOM labels, and separate LLMs for planning and action parameters.
 - [DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents](https://awesomecua.com/resources/arxiv-2503-11170/) — 2025-03-14
   Introduces AutoCaptioner, DeskVision, and GUIExplorer for generating desktop region descriptions and training interface-understanding models.
+- [MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents](https://awesomecua.com/resources/arxiv-2503-10809/) — 2025-03-13
+  Studies Malicious Image Patches (MIPs), altered screen regions that can steer screenshot-based OS agents into harmful mouse and keyboard actions.
 - [SpiritSight Agent: Advanced GUI Agent with One Look](https://awesomecua.com/resources/arxiv-2503-03196/) — 2025-03-05
   Introduces SpiritSight and GUI-Lasagne data, combining multilevel GUI annotations with visual block parsing for high-resolution interface navigation.
+- [Qwen2.5-VL Technical Report](https://awesomecua.com/resources/arxiv-2502-13923/) — 2025-02-19
+  Reports Qwen2.5-VL, a vision-language model that can act as a visual agent for tasks involving computer and mobile-device operation, alongside broader visual tasks.
 - [TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents](https://awesomecua.com/resources/arxiv-2502-08226/) — 2025-02-12
   Combines hierarchical screen parsing with spatially enriched element descriptions to support both locating GUI targets and describing indicated elements.
+- [RWKV-UI: UI Understanding with Enhanced Perception and Reasoning](https://awesomecua.com/resources/arxiv-2502-03971/) — 2025-02-06
+  RWKV-UI is a visual language model for high-resolution web interfaces that uses layout detection and reasoning-chain visual prompts to understand pages.
 - [Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining](https://awesomecua.com/resources/arxiv-2412-10342/) — 2024-12-13
   Combines information-sensitive image cropping with a learning loop between element description and grounding for complex interface understanding.
 - [Falcon-UI: Understanding GUI Before Following User Instructions](https://awesomecua.com/resources/arxiv-2412-09362/) — 2024-12-12
   Pretrains GUI-context understanding with instruction-free web interactions before fine-tuning Falcon-UI on instructed GUI tasks.
+- [BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks](https://awesomecua.com/resources/arxiv-2412-04626/) — 2024-12-05
+  BigDocs-7.5M provides multimodal document data, while BigDocs-Bench includes GUI reasoning and image-to-code tasks relevant to screen understanding.
 - [EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data](https://awesomecua.com/resources/arxiv-2410-19461/) — 2024-10-25
   Synthesizes GUI training examples at multiple levels of detail from webpages and studies transfer of learned understanding to other interface environments.
 - [Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms](https://awesomecua.com/resources/arxiv-2410-18967/) — 2024-10-24
@@ -218,6 +238,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Builds MultiUI by generating instructions from webpage accessibility trees and pairing them with screenshots for multimodal training. Evaluation examines web-interface understanding, including VisualWebBench and Mind2Web, and transfer to other text-rich visual tasks.
 - [DreamStruct: Understanding Slides and User Interfaces via Synthetic Data Generation](https://awesomecua.com/resources/arxiv-2410-00201/) — 2024-09-30
   Generates labeled slides and interface visuals through code to support visual element detection, description, and classification with less manual annotation.
+- [MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning](https://awesomecua.com/resources/arxiv-2409-20566/) — 2024-09-30
+  MM1.5 is a multimodal model family trained with curated data mixtures; its MM1.5-UI variant targets mobile UI understanding.
 - [Inferring Alt-text For UI Icons With Large Language Models During App Development](https://awesomecua.com/resources/arxiv-2409-18060/) — 2024-09-26
   Introduces IconDesc, which generates mobile icon alt-text from partial UI context such as element identifiers, bounds, nearby text and hierarchy. Model evaluation and a user study examine the resulting accessibility descriptions.
 - [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding](https://awesomecua.com/resources/arxiv-2409-14818/) — 2024-09-23
@@ -272,6 +294,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Adapts multimodal modeling to mobile interfaces through detailed screen crops, region annotations, and UI reasoning tasks.
 - [ReALM: Reference Resolution As Language Modeling](https://awesomecua.com/resources/arxiv-2403-20329/) — 2024-03-29
   Frames conversational and on-screen reference resolution as language modeling, allowing textual representations of screen entities to support user-reference interpretation. Evaluation separately examines on-screen references against an existing resolver and language-model baselines.
+- [Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want](https://awesomecua.com/resources/arxiv-2403-20271/) — 2024-03-29
+  Introduces Draw-and-Understand and MDVP-Bench for understanding visual prompts such as points and boxes; its multi-domain data includes mobile and web screenshots.
 - [Computer User Interface Understanding. A New Dataset and a Learning Framework](https://awesomecua.com/resources/arxiv-2403-10170/) — 2024-03-15
   Introduces desktop interaction videos and a framework combining synthetic examples with hierarchical contrastive learning for interface classification.
 - [UI Semantic Group Detection: Grouping UI Elements with Similar Semantics in Mobile Graphical User Interface](https://awesomecua.com/resources/arxiv-2403-04984/) — 2024-03-08
@@ -282,6 +306,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Studies language understanding from text-rendered screenshots using joint image-patch and text prediction; a perception foundation relevant to screen-reading models.
 - [CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation](https://awesomecua.com/resources/arxiv-2402-11941/) — 2024-02-19
   Combines screenshots, layout information, and action history with a factored action predictor for smartphone automation.
+- [UEyes: An Eye-Tracking Dataset across User Interface Types](https://awesomecua.com/resources/arxiv-2402-05202/) — 2024-02-07
+  Introduces UEyes, an eye-tracking dataset of webpage, desktop, mobile, and poster interfaces, and analyzes how people view these different UI types.
 - [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://awesomecua.com/resources/arxiv-2402-04615/) — 2024-02-07
   Introduces ScreenAI and screen-annotation training that supports UI question answering, navigation, and summarization data generation.
 - [Dual-View Visual Contextualization for Web Navigation](https://awesomecua.com/resources/arxiv-2402-04476/) — 2024-02-06
@@ -290,14 +316,26 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   VisionTasker converts screenshots into textual UI interpretations and presents one interface at a time to an LLM planner for action selection. It evaluates visual representations and execution of 147 tasks on an Android smartphone, including integration with programming by demonstration.
 - [CogAgent: A Visual Language Model for GUI Agents](https://awesomecua.com/resources/arxiv-2312-08914/) — 2023-12-14
   Introduces a visual-language model with low- and high-resolution image encoders for screenshot understanding and GUI navigation.
+- [Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions](https://awesomecua.com/resources/arxiv-2310-15780/) — 2023-10-24
+  Introduces GPTDroid for mobile GUI testing: it feeds app page information to an LLM, runs generated test scripts and uses feedback and memory to guide further exploration.
+- [Vision-Based Mobile App GUI Testing: A Survey](https://awesomecua.com/resources/arxiv-2310-13518/) — 2023-10-20
+  Surveys vision-based mobile app GUI testing across test generation, record-and-replay and testing frameworks, drawing on 271 papers including 92 vision-based studies.
 - [UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model](https://awesomecua.com/resources/arxiv-2310-05126/) — 2023-10-08
   Introduces UReader, which combines unified instruction tuning, auxiliary text-reading tasks and shape-adaptive image crops for OCR-free visual language understanding. Its evaluation includes webpage screenshots alongside documents, tables, charts and natural images.
 - [ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations](https://awesomecua.com/resources/arxiv-2310-04869/) — 2023-10-07
   ILuvUI generates 335,000 conversational training examples paired with UI screenshots, covering questions, descriptions, and plans. The resulting vision-language model is assessed on element detection, response quality, and examples of multi-step UI navigation.
+- [AXNav: Replaying Accessibility Tests from Natural Language](https://awesomecua.com/resources/arxiv-2310-02424/) — 2023-10-03
+  Introduces an LLM and pixel-based UI system that executes natural-language accessibility tests, records navigable videos and flags potential interface issues.
+- [Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications](https://awesomecua.com/resources/arxiv-2308-05898/) — 2023-08-11
+  Introduces UIGuard, a system that examines mobile UI visuals and text to detect dark patterns, together with a labeled dataset of benign and malicious interfaces.
+- [Mobile User Interface Element Detection Via Adaptively Prompt Tuning](https://awesomecua.com/resources/arxiv-2305-09699/) — 2023-05-16
+  Introduces MUI-zh and APT for detecting mobile UI elements, combining visual features with OCR descriptions to adjust category prompts in CLIP-based detectors.
 - [WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics](https://awesomecua.com/resources/arxiv-2301-13280/) — 2023-01-30
   Collects rendered webpages and structural metadata for visual UI modeling, studying how web semantics transfer to interface-understanding tasks.
 - [Lexi: Self-Supervised Learning of the UI Language](https://awesomecua.com/resources/arxiv-2301-10165/) — 2023-01-23
   Introduces Lexi and UICaption to learn UI image-text representations from descriptions of interface functionality. Evaluation covers UI action entailment, instruction-based retrieval, referring-expression grounding, and UI entity recognition.
+- [Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2212-04732/) — 2022-12-09
+  Introduces QTypist, an LLM-based method that generates text inputs from mobile GUI context and integrates with automated testing tools to help them reach further app pages.
 - [Understanding HTML with Large Language Models](https://awesomecua.com/resources/arxiv-2210-03945/) — 2022-10-08
   Studies language models for HTML element classification, page description and autonomous web navigation. Fine-tuned models are evaluated on MiniWoB, and a distilled, automatically labeled CommonCrawl HTML corpus supports the training approach.
 - [Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding](https://awesomecua.com/resources/arxiv-2210-03347/) — 2022-10-07
@@ -330,6 +368,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Introduces crowdsourced descriptions of mobile UI elements and studies multimodal models that generate useful widget captions.
 - [Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?](https://awesomecua.com/resources/arxiv-2008-05132/) — 2020-08-12
   Compares seven traditional and learned GUI element detectors on more than 50,000 interface images. The analysis motivates a coarse-to-fine non-text detector combined with a learned text detector to address GUI-specific localization requirements.
+- [DOM-Q-NET: Grounded RL on Structured Language](https://awesomecua.com/resources/arxiv-1902-07257/) — 2019-02-19
+  Introduces DOM-Q-NET, an RL architecture for web navigation that represents HTML as a tree and uses separate Q-function networks for clicking elements and typing text.
 - [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://awesomecua.com/resources/url-b560b5d6abaab98483f6/) — 2017-10-20
   Introduces Rico, collecting Android interface designs and interaction traces through crowdsourced use followed by automated exploration. The paper demonstrates UI-layout retrieval using learned representations and describes visual, textual, structural, and interaction data.
 - [Sikuli: Using GUI screenshots for search and automation](https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/) — 2009-10

@@ -40,6 +40,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2410.06212%2C2410.06215%2C2410.07283%2C2410.07331%2C2410.07869%2C2410.08209%2C2410.08368%2C2410.10570%2C2410.12481%2C2410.12669%2C2410.15549%2C2410.16950%2C2410.21909%2C2410.22584%2C2410.22770%2C2410.23022%2C2410.23555%2C2411.02006%2C2411.02393%2C2411.02479%2C2411.03312%2C2411.03817%2C2411.05451%2C2411.11145%2C2411.11904%2C2411.11916%2C2411.12990%2C2411.14228%2C2411.15397%2C2412.01857%2C2412.04144%2C2412.04383%2C2412.05819%2C2412.06224%2C2412.06771%2C2412.09530%2C2412.09613%2C2412.10047%2C2412.10380%2C2412.10673%2C2412.12004%2C2412.13178%2C2412.13810%2C2412.14203%2C2412.14222%2C2412.16359%2C2412.19638%2C2412.20206%2C2501.03895%2C2501.05179&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:01:26Z",
+      "role": "primary",
+      "sha256": "7fa92d39039726a3f51350539f60aa0a2adcacebfad20896d29053c1fde611c6",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2410.22770%2C2410.23022%2C2410.23734%2C2411.02393%2C2411.02479%2C2411.03312%2C2411.05451%2C2411.05755%2C2411.07618%2C2411.09523%2C2411.11145%2C2411.11904%2C2411.11916%2C2411.12049%2C2411.12990%2C2411.13142%2C2411.13543%2C2411.14228%2C2411.15397%2C2411.17933%2C2412.01547%2C2412.01857%2C2412.04144%2C2412.04383%2C2412.04626%2C2412.05260%2C2412.05819%2C2412.06224%2C2412.06771%2C2412.08017%2C2412.08611%2C2412.09530%2C2412.09613%2C2412.10380%2C2412.10400%2C2412.10673%2C2412.12004%2C2412.13103%2C2412.13178%2C2412.13810%2C2412.14171%2C2412.14203%2C2412.14222%2C2412.14470%2C2412.16359%2C2412.19638%2C2412.20206%2C2412.20717%2C2501.01702%2C2501.02189&max_results=50"
     }
   ],
   "id": "arxiv:2411.05451",
@@ -47,7 +63,7 @@
     "arxiv": "2411.05451"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-17T07:57:41Z",
+  "last_verified_at": "2026-11-05T23:01:26Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -56,18 +72,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2411.05451"
     }
   ],
   "name": "WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The workflows are represented as Python-style code over APIs; GUI control is not described. Experiments, reported performance and artifact availability have not been independently reproduced.",
   "published_at": "2024-11-08",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "WorkflowLLM builds WorkflowBench from application API workflows and synthetic queries, then trains WorkflowLlama to generate multi-application workflows.",
+  "topics": [
+    "workflow",
+    "data-generation",
+    "automation"
+  ],
   "updated_at": "2024-11-08",
   "url": "https://arxiv.org/abs/2411.05451"
 }

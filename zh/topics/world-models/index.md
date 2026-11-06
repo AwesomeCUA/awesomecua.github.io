@@ -64,6 +64,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   R-WoM evaluates how well world models predict nearby GUI states, align complete procedures, and recognize milestone transitions. It retrieves external tutorials to guide simulated future interactions, with experiments on subsets of OSWorld and WebArena.
 - [SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](https://awesomecua.com/resources/arxiv-2508-04700/) — 2025-08-06
   SEAgent explores unfamiliar software using a world-state assessor and an automatically generated task curriculum. It learns from failed and successful interactions through adversarial imitation and GRPO, then combines specialist experience into a generalist agent evaluated on five OSWorld software environments.
+- [WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis](https://awesomecua.com/resources/arxiv-2507-04370/) — 2025-07-06
+  Introduces WebSynthesis, which uses a learned web world model and tree-based planning to synthesize interaction trajectories for training web agents.
 - [ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World](https://awesomecua.com/resources/arxiv-2505-19095/) — 2025-05-25
   Trains ScreenExplorer with reinforcement learning in dynamic GUI environments, using a world-model curiosity reward and experience-stream distillation to support sustained exploration.
 - [Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach](https://awesomecua.com/resources/arxiv-2505-16422/) — 2025-05-22
@@ -72,6 +74,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   WebEvolver trains a co-evolving world model to predict web observations and generate additional agent-training trajectories. The same model supports look-ahead action selection at inference, with evaluation on live web-task benchmarks.
 - [ViMo: A Generative Visual GUI World Model for App Agents](https://awesomecua.com/resources/arxiv-2504-13936/) — 2025-04-15
   ViMo predicts the next mobile-app screenshot after a candidate action by separately modeling graphics and text. A symbolic placeholder representation preserves layout while a second predictor supplies readable text, enabling visual lookahead for GUI-agent planning.
+- [Language Models can Self-Improve at State-Value Estimation for Better Search](https://awesomecua.com/resources/arxiv-2503-02878/) — 2025-03-04
+  Introduces Self-Taught Lookahead (STL), which trains a value model to predict actions and resulting states for more efficient search, with evaluation on web-agent tasks.
 - [VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model](https://awesomecua.com/resources/arxiv-2502-18906/) — 2025-02-26
   Trains GUI agents with a frozen value model learned from offline interactions, guiding action exploration without predicting complete next observations.
 - [Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents](https://awesomecua.com/resources/arxiv-2411-06559/) — 2024-11-10
@@ -80,6 +84,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   Uses a learned web world model to predict important state changes and compare candidate actions before executing them.
 - [Tell Me What's Next: Textual Foresight for Generic UI Representations](https://awesomecua.com/resources/arxiv-2406-07822/) — 2024-06-12
   Textual Foresight learns UI representations by describing the future screen expected after an action on the current interface. The OpenApp dataset supports pretraining and downstream evaluation of representations that connect individual elements with whole-screen changes.
+- [MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control](https://awesomecua.com/resources/arxiv-2403-12037/) — 2024-03-18
+  Introduces MineDreamer, a Minecraft agent that imagines stages of an instruction and turns them into keyboard-and-mouse actions in a simulated world.
 
 ## 数据集
 

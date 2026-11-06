@@ -100,14 +100,30 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   SEAgent explores unfamiliar software using a world-state assessor and an automatically generated task curriculum. It learns from failed and successful interactions through adversarial imitation and GRPO, then combines specialist experience into a generalist agent evaluated on five OSWorld software environments.
 - [How to Train Your LLM Web Agent: A Statistical Diagnosis](https://awesomecua.com/resources/arxiv-2507-04103/) — 2025-07-05
   Studies compute allocation for web-agent post-training with teacher-generated supervised fine-tuning followed by on-policy reinforcement learning. It samples 1,370 training configurations and uses bootstrap analysis to examine hyperparameter sensitivity on WorkArena and MiniWoB++.
+- [Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking](https://awesomecua.com/resources/arxiv-2505-20023/) — 2025-05-26
+  Introduces STeP, which trains agents on synthetic trajectories containing error reflections and corrections while masking poor steps; WebShop is one of three evaluated tasks.
+- [JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse](https://awesomecua.com/resources/arxiv-2503-16365/) — 2025-03-20
+  Introduces Act from Visual Language Post-Training, a method for agents that follow instructions in Minecraft through visual input and actions, adjacent to interface operation.
+- [InSTA: Towards Internet-Scale Training For Agents](https://awesomecua.com/resources/arxiv-2502-06776/) — 2025-02-10
+  InSTA builds a pipeline that creates website tasks, collects web-agent trajectories and filters them by judged success to train smaller web navigation agents.
 - [AppVLM: A Lightweight Vision Language Model for Online App Control](https://awesomecua.com/resources/arxiv-2502-06395/) — 2025-02-10
   AppVLM first learns app actions from AndroidControl and then refines its policy through data collected in AndroidWorld. The study compares offline action prediction and online task completion for a lightweight vision-language smartphone agent.
 - [Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale](https://awesomecua.com/resources/arxiv-2409-15637/) — 2024-09-24
   Synatra converts indirect procedural knowledge, including human-oriented tutorials, into direct demonstrations for digital agents. It trains a 7B CodeLlama on 100,000 synthesized demonstrations and evaluates the resulting policy on Mind2Web, MiniWoB++, and WebArena.
+- [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://awesomecua.com/resources/arxiv-2408-07199/) — 2024-08-13
+  Agent Q combines guided tree search, self-critique and preference-based fine-tuning to train web agents from successful and unsuccessful interactions.
 - [Grounded Language Agent for Product Search via Intelligent Web Interactions](https://awesomecua.com/resources/arxiv-2404-10887/) — 2024-04-16
   Introduces GLAINTEL, a Flan-T5-based product-search web agent studied under unsupervised learning, demonstration-based training, and unsupervised domain adaptation. It compares ways to combine demonstrations with reinforcement learning.
+- [Scaling Instructable Agents Across Many Simulated Worlds](https://awesomecua.com/resources/arxiv-2404-10179/) — 2024-03-13
+  The SIMA project trains agents to follow language instructions in simulated 3D worlds, using images as input and keyboard-and-mouse actions as output.
+- [UINav: A Practical Approach to Train On-Device Automation Agents](https://awesomecua.com/resources/arxiv-2312-10170/) — 2023-12-15
+  Introduces UINav, a demonstration-based method for training mobile UI automation agents, with a referee model for failure feedback and automatic augmentation of examples.
 - [Multimodal Web Navigation with Instruction-Finetuned Foundation Models](https://awesomecua.com/resources/arxiv-2305-11854/) — 2023-05-19
   Trains WebGUM offline from demonstrations by jointly tuning an instruction-following language model and a vision encoder over webpage screenshots and HTML. The agent predicts browser actions and is evaluated on MiniWoB, WebShop, and Mind2Web.
+- [CORNET: Learning Table Formatting Rules By Example](https://awesomecua.com/resources/arxiv-2208-06032/) — 2022-08-11
+  Introduces CORNET, a system that learns spreadsheet conditional-formatting rules from cells formatted by users, using symbolic rule enumeration and a neural ranker.
+- [WebGPT: Browser-assisted question-answering with human feedback](https://awesomecua.com/resources/arxiv-2112-09332/) — 2021-12-17
+  Trains a question-answering model to search and navigate a text-based web browser, collect references and improve long-form answers using demonstrations and human feedback.
 - [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations](https://awesomecua.com/resources/arxiv-1909-00031/) — 2019-08-30
   Introduces PUMICE, an agent that learns mobile-app procedures and conditional concepts through natural-language conversation and GUI demonstrations, recursively resolving ambiguous instructions with users.
 

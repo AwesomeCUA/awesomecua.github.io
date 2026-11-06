@@ -371,6 +371,73 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2403.12037v2",
+    "archive": "arXiv",
+    "archive_location": "2403.12037",
+    "author": [
+      {
+        "literal": "Enshen Zhou"
+      },
+      {
+        "literal": "Yiran Qin"
+      },
+      {
+        "literal": "Zhenfei Yin"
+      },
+      {
+        "literal": "Yuzhou Huang"
+      },
+      {
+        "literal": "Ruimao Zhang"
+      },
+      {
+        "literal": "Lu Sheng"
+      },
+      {
+        "literal": "Yu Qiao"
+      },
+      {
+        "literal": "Jing Shao"
+      }
+    ],
+    "citation-key": "arxiv_2403_12037",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "973133be9a1bc8ed5d6d1d9c6efb554d9114b1f16381456f7966b314ff8b1133",
+        "submitted_at": "2024-03-18T17:59:42Z",
+        "updated_at": "2024-03-19T14:52:28Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2403.12037v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.12037",
+      "catalog_id": "arxiv:2403.12037",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-18",
+      "identifiers": {
+        "arxiv": "2403.12037"
+      },
+      "record_updated_at": "2024-03-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.12037",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-18; Recorded arXiv version: v2; Recorded version updated: 2024-03-19T14:52:28Z.",
+    "title": "MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2404.08755v1",
     "archive": "arXiv",
     "archive_location": "2404.08755",
@@ -419,6 +486,398 @@
     },
     "note": "First published: 2024-04-12; Recorded arXiv version: v1; Recorded version updated: 2024-04-12T18:28:44Z.",
     "title": "Training a Vision Language Model as Smartphone Assistant",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2404.10179v3",
+    "archive": "arXiv",
+    "archive_location": "2404.10179",
+    "author": [
+      {
+        "literal": "SIMA Team"
+      },
+      {
+        "literal": "Maria Abi Raad"
+      },
+      {
+        "literal": "Arun Ahuja"
+      },
+      {
+        "literal": "Catarina Barros"
+      },
+      {
+        "literal": "Frederic Besse"
+      },
+      {
+        "literal": "Andrew Bolt"
+      },
+      {
+        "literal": "Adrian Bolton"
+      },
+      {
+        "literal": "Bethanie Brownfield"
+      },
+      {
+        "literal": "Gavin Buttimore"
+      },
+      {
+        "literal": "Max Cant"
+      },
+      {
+        "literal": "Sarah Chakera"
+      },
+      {
+        "literal": "Stephanie C. Y. Chan"
+      },
+      {
+        "literal": "Jeff Clune"
+      },
+      {
+        "literal": "Adrian Collister"
+      },
+      {
+        "literal": "Vikki Copeman"
+      },
+      {
+        "literal": "Alex Cullum"
+      },
+      {
+        "literal": "Ishita Dasgupta"
+      },
+      {
+        "literal": "Dario de Cesare"
+      },
+      {
+        "literal": "Julia Di Trapani"
+      },
+      {
+        "literal": "Yani Donchev"
+      },
+      {
+        "literal": "Emma Dunleavy"
+      },
+      {
+        "literal": "Martin Engelcke"
+      },
+      {
+        "literal": "Ryan Faulkner"
+      },
+      {
+        "literal": "Frankie Garcia"
+      },
+      {
+        "literal": "Charles Gbadamosi"
+      },
+      {
+        "literal": "Zhitao Gong"
+      },
+      {
+        "literal": "Lucy Gonzales"
+      },
+      {
+        "literal": "Kshitij Gupta"
+      },
+      {
+        "literal": "Karol Gregor"
+      },
+      {
+        "literal": "Arne Olav Hallingstad"
+      },
+      {
+        "literal": "Tim Harley"
+      },
+      {
+        "literal": "Sam Haves"
+      },
+      {
+        "literal": "Felix Hill"
+      },
+      {
+        "literal": "Ed Hirst"
+      },
+      {
+        "literal": "Drew A. Hudson"
+      },
+      {
+        "literal": "Jony Hudson"
+      },
+      {
+        "literal": "Steph Hughes-Fitt"
+      },
+      {
+        "literal": "Danilo J. Rezende"
+      },
+      {
+        "literal": "Mimi Jasarevic"
+      },
+      {
+        "literal": "Laura Kampis"
+      },
+      {
+        "literal": "Rosemary Ke"
+      },
+      {
+        "literal": "Thomas Keck"
+      },
+      {
+        "literal": "Junkyung Kim"
+      },
+      {
+        "literal": "Oscar Knagg"
+      },
+      {
+        "literal": "Kavya Kopparapu"
+      },
+      {
+        "literal": "Rory Lawton"
+      },
+      {
+        "literal": "Andrew Lampinen"
+      },
+      {
+        "literal": "Shane Legg"
+      },
+      {
+        "literal": "Alexander Lerchner"
+      },
+      {
+        "literal": "Marjorie Limont"
+      },
+      {
+        "literal": "Yulan Liu"
+      },
+      {
+        "literal": "Maria Loks-Thompson"
+      },
+      {
+        "literal": "Joseph Marino"
+      },
+      {
+        "literal": "Kathryn Martin Cussons"
+      },
+      {
+        "literal": "Loic Matthey"
+      },
+      {
+        "literal": "Siobhan Mcloughlin"
+      },
+      {
+        "literal": "Piermaria Mendolicchio"
+      },
+      {
+        "literal": "Hamza Merzic"
+      },
+      {
+        "literal": "Anna Mitenkova"
+      },
+      {
+        "literal": "Alexandre Moufarek"
+      },
+      {
+        "literal": "Valeria Oliveira"
+      },
+      {
+        "literal": "Yanko Oliveira"
+      },
+      {
+        "literal": "Hannah Openshaw"
+      },
+      {
+        "literal": "Renke Pan"
+      },
+      {
+        "literal": "Aneesh Pappu"
+      },
+      {
+        "literal": "Alex Platonov"
+      },
+      {
+        "literal": "Ollie Purkiss"
+      },
+      {
+        "literal": "David Reichert"
+      },
+      {
+        "literal": "John Reid"
+      },
+      {
+        "literal": "Pierre Harvey Richemond"
+      },
+      {
+        "literal": "Tyson Roberts"
+      },
+      {
+        "literal": "Giles Ruscoe"
+      },
+      {
+        "literal": "Jaume Sanchez Elias"
+      },
+      {
+        "literal": "Tasha Sandars"
+      },
+      {
+        "literal": "Daniel P. Sawyer"
+      },
+      {
+        "literal": "Tim Scholtes"
+      },
+      {
+        "literal": "Guy Simmons"
+      },
+      {
+        "literal": "Daniel Slater"
+      },
+      {
+        "literal": "Hubert Soyer"
+      },
+      {
+        "literal": "Heiko Strathmann"
+      },
+      {
+        "literal": "Peter Stys"
+      },
+      {
+        "literal": "Allison C. Tam"
+      },
+      {
+        "literal": "Denis Teplyashin"
+      },
+      {
+        "literal": "Tayfun Terzi"
+      },
+      {
+        "literal": "Davide Vercelli"
+      },
+      {
+        "literal": "Bojan Vujatovic"
+      },
+      {
+        "literal": "Marcus Wainwright"
+      },
+      {
+        "literal": "Jane X. Wang"
+      },
+      {
+        "literal": "Zhengdong Wang"
+      },
+      {
+        "literal": "Daan Wierstra"
+      },
+      {
+        "literal": "Duncan Williams"
+      },
+      {
+        "literal": "Nathaniel Wong"
+      },
+      {
+        "literal": "Sarah York"
+      },
+      {
+        "literal": "Nick Young"
+      }
+    ],
+    "citation-key": "arxiv_2404_10179",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cbfdedf6a9130e395a06c97b46079dc7a158483cffebe8a8b2b6961f19ab5a46",
+        "submitted_at": "2024-03-13T17:50:32Z",
+        "updated_at": "2024-10-11T16:30:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2404.10179v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.10179",
+      "catalog_id": "arxiv:2404.10179",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-13",
+      "identifiers": {
+        "arxiv": "2404.10179"
+      },
+      "record_updated_at": "2024-10-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.10179",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-13; Recorded arXiv version: v3; Recorded version updated: 2024-10-11T16:30:24Z.",
+    "title": "Scaling Instructable Agents Across Many Simulated Worlds",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2404.12608v1",
+    "archive": "arXiv",
+    "archive_location": "2404.12608",
+    "author": [
+      {
+        "literal": "Sibei Chen"
+      },
+      {
+        "literal": "Yeye He"
+      },
+      {
+        "literal": "Weiwei Cui"
+      },
+      {
+        "literal": "Ju Fan"
+      },
+      {
+        "literal": "Song Ge"
+      },
+      {
+        "literal": "Haidong Zhang"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      },
+      {
+        "literal": "Surajit Chaudhuri"
+      }
+    ],
+    "citation-key": "arxiv_2404_12608",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c1e475bcf09106aab4e7757dd8858cf82a5fbbe14577798945cf1e91109a3f4b",
+        "submitted_at": "2024-04-19T03:28:18Z",
+        "updated_at": "2024-04-19T03:28:18Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2404.12608v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.12608",
+      "catalog_id": "arxiv:2404.12608",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-04-19",
+      "identifiers": {
+        "arxiv": "2404.12608"
+      },
+      "record_updated_at": "2024-04-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.12608",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2024-04-19; Recorded arXiv version: v1; Recorded version updated: 2024-04-19T03:28:18Z.",
+    "title": "Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations",
     "type": "article",
     "version": "1"
   },
@@ -651,6 +1110,64 @@
     },
     "note": "First published: 2024-10-23; Recorded arXiv version: v2; Recorded version updated: 2025-02-12T17:51:51Z.",
     "title": "Lightweight Neural App Control",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.16365v2",
+    "archive": "arXiv",
+    "archive_location": "2503.16365",
+    "author": [
+      {
+        "literal": "Muyao Li"
+      },
+      {
+        "literal": "Zihao Wang"
+      },
+      {
+        "literal": "Kaichen He"
+      },
+      {
+        "literal": "Xiaojian Ma"
+      },
+      {
+        "literal": "Yitao Liang"
+      }
+    ],
+    "citation-key": "arxiv_2503_16365",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1408808b2bcbc399907098dfe63a9cdb46afa50699be3997bcf77c2968d63f0c",
+        "submitted_at": "2025-03-20T17:21:58Z",
+        "updated_at": "2025-09-12T17:56:19Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.16365v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.16365",
+      "catalog_id": "arxiv:2503.16365",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-03-20",
+      "identifiers": {
+        "arxiv": "2503.16365"
+      },
+      "record_updated_at": "2025-09-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.16365",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-20; Recorded arXiv version: v2; Recorded version updated: 2025-09-12T17:56:19Z.",
+    "title": "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse",
     "type": "article",
     "version": "2"
   },

@@ -262,6 +262,265 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2403.03636v3",
+    "archive": "arXiv",
+    "archive_location": "2403.03636",
+    "author": [
+      {
+        "literal": "Yibin Chen"
+      },
+      {
+        "literal": "Yifu Yuan"
+      },
+      {
+        "literal": "Zeyu Zhang"
+      },
+      {
+        "literal": "Yan Zheng"
+      },
+      {
+        "literal": "Jinyi Liu"
+      },
+      {
+        "literal": "Fei Ni"
+      },
+      {
+        "literal": "Jianye Hao"
+      },
+      {
+        "literal": "Hangyu Mao"
+      },
+      {
+        "literal": "Fuzheng Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2403_03636",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f1fde01350fea1db3d607c19efee666875d94a0d057069266fdf2b46293ada28",
+        "submitted_at": "2024-03-06T11:48:08Z",
+        "updated_at": "2025-03-03T06:56:29Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2403.03636v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.03636",
+      "catalog_id": "arxiv:2403.03636",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-06",
+      "identifiers": {
+        "arxiv": "2403.03636"
+      },
+      "record_updated_at": "2025-03-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.03636",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-06; Recorded arXiv version: v3; Recorded version updated: 2025-03-03T06:56:29Z.",
+    "title": "SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.14596v6",
+    "archive": "arXiv",
+    "archive_location": "2406.14596",
+    "author": [
+      {
+        "literal": "Gabriel Sarch"
+      },
+      {
+        "literal": "Lawrence Jang"
+      },
+      {
+        "literal": "Michael J. Tarr"
+      },
+      {
+        "literal": "William W. Cohen"
+      },
+      {
+        "literal": "Kenneth Marino"
+      },
+      {
+        "literal": "Katerina Fragkiadaki"
+      }
+    ],
+    "citation-key": "arxiv_2406_14596",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "698e2c444a587a109bbc7b3d64b812a3d0cf2ef7148ff02e3e6fe13f19f193fd",
+        "submitted_at": "2024-06-20T17:45:02Z",
+        "updated_at": "2025-09-18T02:44:34Z",
+        "version": 6,
+        "versioned_url": "https://arxiv.org/abs/2406.14596v6"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.14596",
+      "catalog_id": "arxiv:2406.14596",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-06-20",
+      "identifiers": {
+        "arxiv": "2406.14596"
+      },
+      "record_updated_at": "2025-09-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.14596",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-20; Recorded arXiv version: v6; Recorded version updated: 2025-09-18T02:44:34Z.",
+    "title": "VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought",
+    "type": "article",
+    "version": "6"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2408.07199v1",
+    "archive": "arXiv",
+    "archive_location": "2408.07199",
+    "author": [
+      {
+        "literal": "Pranav Putta"
+      },
+      {
+        "literal": "Edmund Mills"
+      },
+      {
+        "literal": "Naman Garg"
+      },
+      {
+        "literal": "Sumeet Motwani"
+      },
+      {
+        "literal": "Chelsea Finn"
+      },
+      {
+        "literal": "Divyansh Garg"
+      },
+      {
+        "literal": "Rafael Rafailov"
+      }
+    ],
+    "citation-key": "arxiv_2408_07199",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d7171ec4f2a16cb7c0416172e93b04197aac992ec0d324bfbc13ddae8253450c",
+        "submitted_at": "2024-08-13T20:52:13Z",
+        "updated_at": "2024-08-13T20:52:13Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2408.07199v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2408.07199",
+      "catalog_id": "arxiv:2408.07199",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-08-13",
+      "identifiers": {
+        "arxiv": "2408.07199"
+      },
+      "record_updated_at": "2024-08-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2408.07199",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2024-08-13; Recorded arXiv version: v1; Recorded version updated: 2024-08-13T20:52:13Z.",
+    "title": "Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2410.02052v5",
+    "archive": "arXiv",
+    "archive_location": "2410.02052",
+    "author": [
+      {
+        "literal": "Xiao Yu"
+      },
+      {
+        "literal": "Baolin Peng"
+      },
+      {
+        "literal": "Vineeth Vajipey"
+      },
+      {
+        "literal": "Hao Cheng"
+      },
+      {
+        "literal": "Michel Galley"
+      },
+      {
+        "literal": "Jianfeng Gao"
+      },
+      {
+        "literal": "Zhou Yu"
+      }
+    ],
+    "citation-key": "arxiv_2410_02052",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "60bd77e2472ab62679e980b02fbc40b2c16eed3e2644a536d6a7d644ade4eb8e",
+        "submitted_at": "2024-10-02T21:42:35Z",
+        "updated_at": "2025-02-27T20:13:19Z",
+        "version": 5,
+        "versioned_url": "https://arxiv.org/abs/2410.02052v5"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.02052",
+      "catalog_id": "arxiv:2410.02052",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-10-02",
+      "identifiers": {
+        "arxiv": "2410.02052"
+      },
+      "record_updated_at": "2025-02-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.02052",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-02; Recorded arXiv version: v5; Recorded version updated: 2025-02-27T20:13:19Z.",
+    "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+    "type": "article",
+    "version": "5"
+  },
+  {
     "URL": "https://arxiv.org/abs/2411.03817v3",
     "archive": "arXiv",
     "archive_location": "2411.03817",
@@ -322,6 +581,67 @@
     },
     "note": "First published: 2024-11-06; Recorded arXiv version: v3; Recorded version updated: 2024-12-09T09:20:11Z.",
     "title": "From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2501.12485v3",
+    "archive": "arXiv",
+    "archive_location": "2501.12485",
+    "author": [
+      {
+        "literal": "Tenghao Huang"
+      },
+      {
+        "literal": "Kinjal Basu"
+      },
+      {
+        "literal": "Ibrahim Abdelaziz"
+      },
+      {
+        "literal": "Pavan Kapanipathi"
+      },
+      {
+        "literal": "Jonathan May"
+      },
+      {
+        "literal": "Muhao Chen"
+      }
+    ],
+    "citation-key": "arxiv_2501_12485",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c45259cebe93114242bc189aeaea7d3789f30ebf41af9ca3f8ef327ea4e71f82",
+        "submitted_at": "2025-01-21T20:21:58Z",
+        "updated_at": "2025-07-22T04:14:16Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2501.12485v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2501.12485",
+      "catalog_id": "arxiv:2501.12485",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-01-21",
+      "identifiers": {
+        "arxiv": "2501.12485"
+      },
+      "record_updated_at": "2025-07-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2501.12485",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2025-01-21; Recorded arXiv version: v3; Recorded version updated: 2025-07-22T04:14:16Z.",
+    "title": "R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory",
     "type": "article",
     "version": "3"
   },
@@ -466,6 +786,64 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.20023v1",
+    "archive": "arXiv",
+    "archive_location": "2505.20023",
+    "author": [
+      {
+        "literal": "Yihan Chen"
+      },
+      {
+        "literal": "Benfeng Xu"
+      },
+      {
+        "literal": "Xiaorui Wang"
+      },
+      {
+        "literal": "Yongdong Zhang"
+      },
+      {
+        "literal": "Zhendong Mao"
+      }
+    ],
+    "citation-key": "arxiv_2505_20023",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f3c91f5b701650968bb2f3bbb468adf0fabedc476ecb04ba3f1a5206005102be",
+        "submitted_at": "2025-05-26T14:11:12Z",
+        "updated_at": "2025-05-26T14:11:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.20023v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.20023",
+      "catalog_id": "arxiv:2505.20023",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-26",
+      "identifiers": {
+        "arxiv": "2505.20023"
+      },
+      "record_updated_at": "2025-05-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.20023",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-26; Recorded arXiv version: v1; Recorded version updated: 2025-05-26T14:11:12Z.",
+    "title": "Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.21964v2",
     "archive": "arXiv",
     "archive_location": "2505.21964",
@@ -525,6 +903,67 @@
     "title": "UI-Evol: Automatic Knowledge Evolving for Computer Use Agents",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.11662v3",
+    "archive": "arXiv",
+    "archive_location": "2507.11662",
+    "author": [
+      {
+        "literal": "Moises Andrade"
+      },
+      {
+        "literal": "Joonhyuk Cha"
+      },
+      {
+        "literal": "Brandon Ho"
+      },
+      {
+        "literal": "Vriksha Srihari"
+      },
+      {
+        "literal": "Karmesh Yadav"
+      },
+      {
+        "literal": "Zsolt Kira"
+      }
+    ],
+    "citation-key": "arxiv_2507_11662",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "86c4cb97fcf46fc15619ca481261d42518d84e94d43978cdddbf2cbae2b6ae33",
+        "submitted_at": "2025-07-15T18:50:29Z",
+        "updated_at": "2026-03-08T00:45:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2507.11662v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.11662",
+      "catalog_id": "arxiv:2507.11662",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-15",
+      "identifiers": {
+        "arxiv": "2507.11662"
+      },
+      "record_updated_at": "2026-03-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.11662",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-15; Recorded arXiv version: v3; Recorded version updated: 2026-03-08T00:45:24Z.",
+    "title": "Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2507.16853v1",

@@ -263,6 +263,134 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2410.02052v5",
+    "archive": "arXiv",
+    "archive_location": "2410.02052",
+    "author": [
+      {
+        "literal": "Xiao Yu"
+      },
+      {
+        "literal": "Baolin Peng"
+      },
+      {
+        "literal": "Vineeth Vajipey"
+      },
+      {
+        "literal": "Hao Cheng"
+      },
+      {
+        "literal": "Michel Galley"
+      },
+      {
+        "literal": "Jianfeng Gao"
+      },
+      {
+        "literal": "Zhou Yu"
+      }
+    ],
+    "citation-key": "arxiv_2410_02052",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "60bd77e2472ab62679e980b02fbc40b2c16eed3e2644a536d6a7d644ade4eb8e",
+        "submitted_at": "2024-10-02T21:42:35Z",
+        "updated_at": "2025-02-27T20:13:19Z",
+        "version": 5,
+        "versioned_url": "https://arxiv.org/abs/2410.02052v5"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.02052",
+      "catalog_id": "arxiv:2410.02052",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-10-02",
+      "identifiers": {
+        "arxiv": "2410.02052"
+      },
+      "record_updated_at": "2025-02-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.02052",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-02; Recorded arXiv version: v5; Recorded version updated: 2025-02-27T20:13:19Z.",
+    "title": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
+    "type": "article",
+    "version": "5"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2410.17236v2",
+    "archive": "arXiv",
+    "archive_location": "2410.17236",
+    "author": [
+      {
+        "literal": "Hongru Cai"
+      },
+      {
+        "literal": "Yongqi Li"
+      },
+      {
+        "literal": "Wenjie Wang"
+      },
+      {
+        "literal": "Fengbin Zhu"
+      },
+      {
+        "literal": "Xiaoyu Shen"
+      },
+      {
+        "literal": "Wenjie Li"
+      },
+      {
+        "literal": "Tat-Seng Chua"
+      }
+    ],
+    "citation-key": "arxiv_2410_17236",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "08321196802dd2784d3bd45df49e6659de09e00c98319cee83107d4978d7ce7b",
+        "submitted_at": "2024-10-22T17:54:45Z",
+        "updated_at": "2025-03-24T17:51:54Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2410.17236v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.17236",
+      "catalog_id": "arxiv:2410.17236",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-10-22",
+      "identifiers": {
+        "arxiv": "2410.17236"
+      },
+      "record_updated_at": "2025-03-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.17236",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-22; Recorded arXiv version: v2; Recorded version updated: 2025-03-24T17:51:54Z.",
+    "title": "Large Language Models Empowered Personalized Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2410.17883v2",
     "archive": "arXiv",
     "archive_location": "2410.17883",
@@ -380,6 +508,128 @@
     "title": "From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2501.10893v1",
+    "archive": "arXiv",
+    "archive_location": "2501.10893",
+    "author": [
+      {
+        "literal": "Hongjin Su"
+      },
+      {
+        "literal": "Ruoxi Sun"
+      },
+      {
+        "literal": "Jinsung Yoon"
+      },
+      {
+        "literal": "Pengcheng Yin"
+      },
+      {
+        "literal": "Tao Yu"
+      },
+      {
+        "literal": "Sercan Ö. Arık"
+      }
+    ],
+    "citation-key": "arxiv_2501_10893",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cd2a8cf1ddaced56f7a2a74ef2c1a6b8b0822b3fdbdde30796d08635b68484b0",
+        "submitted_at": "2025-01-18T22:34:41Z",
+        "updated_at": "2025-01-18T22:34:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2501.10893v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2501.10893",
+      "catalog_id": "arxiv:2501.10893",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-01-18",
+      "identifiers": {
+        "arxiv": "2501.10893"
+      },
+      "record_updated_at": "2025-01-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2501.10893",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-01-18; Recorded arXiv version: v1; Recorded version updated: 2025-01-18T22:34:41Z.",
+    "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2501.12485v3",
+    "archive": "arXiv",
+    "archive_location": "2501.12485",
+    "author": [
+      {
+        "literal": "Tenghao Huang"
+      },
+      {
+        "literal": "Kinjal Basu"
+      },
+      {
+        "literal": "Ibrahim Abdelaziz"
+      },
+      {
+        "literal": "Pavan Kapanipathi"
+      },
+      {
+        "literal": "Jonathan May"
+      },
+      {
+        "literal": "Muhao Chen"
+      }
+    ],
+    "citation-key": "arxiv_2501_12485",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c45259cebe93114242bc189aeaea7d3789f30ebf41af9ca3f8ef327ea4e71f82",
+        "submitted_at": "2025-01-21T20:21:58Z",
+        "updated_at": "2025-07-22T04:14:16Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2501.12485v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2501.12485",
+      "catalog_id": "arxiv:2501.12485",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-01-21",
+      "identifiers": {
+        "arxiv": "2501.12485"
+      },
+      "record_updated_at": "2025-07-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2501.12485",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2025-01-21; Recorded arXiv version: v3; Recorded version updated: 2025-07-22T04:14:16Z.",
+    "title": "R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2505.00416v1",

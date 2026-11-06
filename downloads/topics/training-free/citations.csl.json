@@ -52,6 +52,70 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2210.03629v3",
+    "archive": "arXiv",
+    "archive_location": "2210.03629",
+    "author": [
+      {
+        "literal": "Shunyu Yao"
+      },
+      {
+        "literal": "Jeffrey Zhao"
+      },
+      {
+        "literal": "Dian Yu"
+      },
+      {
+        "literal": "Nan Du"
+      },
+      {
+        "literal": "Izhak Shafran"
+      },
+      {
+        "literal": "Karthik Narasimhan"
+      },
+      {
+        "literal": "Yuan Cao"
+      }
+    ],
+    "citation-key": "arxiv_2210_03629",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d54d4d76519ed21b2bfeedd94901a9bb559802e0c0bde7e09fb1e0a8bcdb3679",
+        "submitted_at": "2022-10-06T01:00:32Z",
+        "updated_at": "2023-03-10T01:00:17Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2210.03629v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2210.03629",
+      "catalog_id": "arxiv:2210.03629",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2022-10-06",
+      "identifiers": {
+        "arxiv": "2210.03629"
+      },
+      "record_updated_at": "2023-03-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2210.03629",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2022-10-06; Recorded arXiv version: v3; Recorded version updated: 2023-03-10T01:00:17Z.",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2303.17491v3",
     "archive": "arXiv",
     "archive_location": "2303.17491",
@@ -102,6 +166,116 @@
     "title": "Language Models can Solve Computer Tasks",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2306.01987v3",
+    "archive": "arXiv",
+    "archive_location": "2306.01987",
+    "author": [
+      {
+        "literal": "Sidong Feng"
+      },
+      {
+        "literal": "Chunyang Chen"
+      }
+    ],
+    "citation-key": "arxiv_2306_01987",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1b3cdeb55d958fa8c4cae655eddcad36f26f7e9cca20f67395da444ca9d9f6d3",
+        "submitted_at": "2023-06-03T03:03:52Z",
+        "updated_at": "2024-05-08T07:36:56Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2306.01987v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2306.01987",
+      "catalog_id": "arxiv:2306.01987",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-06-03",
+      "identifiers": {
+        "arxiv": "2306.01987"
+      },
+      "record_updated_at": "2024-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2306.01987",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2023-06-03; Recorded arXiv version: v3; Recorded version updated: 2024-05-08T07:36:56Z.",
+    "title": "Prompting Is All You Need: Automated Android Bug Replay with Large Language Models",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2501.10893v1",
+    "archive": "arXiv",
+    "archive_location": "2501.10893",
+    "author": [
+      {
+        "literal": "Hongjin Su"
+      },
+      {
+        "literal": "Ruoxi Sun"
+      },
+      {
+        "literal": "Jinsung Yoon"
+      },
+      {
+        "literal": "Pengcheng Yin"
+      },
+      {
+        "literal": "Tao Yu"
+      },
+      {
+        "literal": "Sercan Ö. Arık"
+      }
+    ],
+    "citation-key": "arxiv_2501_10893",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cd2a8cf1ddaced56f7a2a74ef2c1a6b8b0822b3fdbdde30796d08635b68484b0",
+        "submitted_at": "2025-01-18T22:34:41Z",
+        "updated_at": "2025-01-18T22:34:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2501.10893v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2501.10893",
+      "catalog_id": "arxiv:2501.10893",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-01-18",
+      "identifiers": {
+        "arxiv": "2501.10893"
+      },
+      "record_updated_at": "2025-01-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2501.10893",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-01-18; Recorded arXiv version: v1; Recorded version updated: 2025-01-18T22:34:41Z.",
+    "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2506.15425v1",
@@ -158,6 +332,64 @@
     },
     "note": "First published: 2025-06-18; Recorded arXiv version: v1; Recorded version updated: 2025-06-18T12:55:35Z.",
     "title": "Understanding GUI Agent Localization Biases through Logit Sharpness",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.10202v1",
+    "archive": "arXiv",
+    "archive_location": "2507.10202",
+    "author": [
+      {
+        "literal": "Jaeseong Lee"
+      },
+      {
+        "literal": "Yeeun Choi"
+      },
+      {
+        "literal": "Heechan Choi"
+      },
+      {
+        "literal": "Hanjung Kim"
+      },
+      {
+        "literal": "Seonjoo Kim"
+      }
+    ],
+    "citation-key": "arxiv_2507_10202",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2c73207679d34946e6f77fc573bac45c8b77de1772cd7b2c7211cd1b653da931",
+        "submitted_at": "2025-07-14T12:14:53Z",
+        "updated_at": "2025-07-14T12:14:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.10202v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.10202",
+      "catalog_id": "arxiv:2507.10202",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-07-14",
+      "identifiers": {
+        "arxiv": "2507.10202"
+      },
+      "record_updated_at": "2025-07-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.10202",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-14; Recorded arXiv version: v1; Recorded version updated: 2025-07-14T12:14:53Z.",
+    "title": "A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images",
     "type": "article",
     "version": "1"
   },

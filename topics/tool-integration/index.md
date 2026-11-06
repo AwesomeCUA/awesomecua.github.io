@@ -150,10 +150,16 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   CoAct-1 delegates subtasks between a GUI operator and a programmer that executes Python or Bash. Its OSWorld evaluation studies a hybrid action space in which scripts handle suitable file and data operations while visual interaction handles other steps.
 - [Magentic-UI: Towards Human-in-the-loop Agentic Systems](https://awesomecua.com/resources/arxiv-2507-22358/) — 2025-07-30
   Magentic-UI combines browser interaction, code execution, file operations, and MCP tools in an interface for human-agent collaboration. It studies collaborative planning and task execution, action guards, and persistent memory through benchmark tasks, simulated users, user studies, and safety assessments.
+- [Doc2Agent: Scalable Generation of Tool-Using Agents from API Documentation](https://awesomecua.com/resources/arxiv-2506-19998/) — 2025-06-24
+  Introduces Doc2Agent, a pipeline that generates and refines Python tools from API documentation for tool-using agents, with WebArena APIs among its evaluations.
 - [MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents](https://awesomecua.com/resources/arxiv-2506-07672/) — 2025-06-09
   MCPWorld evaluates API, GUI, and hybrid computer-use agents with 201 tasks in applications whose source can be instrumented and extended with MCP support. It verifies completion from application behavior and packages the testbed in containers with GPU support.
+- [Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks](https://awesomecua.com/resources/arxiv-2505-24876/) — 2025-05-30
+  Introduces Agent-X, a benchmark of multi-step visual reasoning and tool use with step-level grading across six settings, including web browsing.
 - [LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS](https://awesomecua.com/resources/arxiv-2505-18829/) — 2025-05-24
   AIOS 1.0 exposes computer states and actions through an MCP server to provide structured environmental context for agents. LiteCUA is a lightweight agent built on this interface, evaluated on OSWorld to study the effect of computer-environment contextualization.
+- [InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction](https://awesomecua.com/resources/arxiv-2505-10887/) — 2025-05-16
+  Introduces InfantAgent-Next, a modular multimodal computer agent that combines tool-based and vision agents for stepwise tasks, with evaluation on OSWorld and other benchmarks.
 - [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://awesomecua.com/resources/arxiv-2504-21776/) — 2025-04-30
   Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
 - [UFO2: The Desktop AgentOS](https://awesomecua.com/resources/arxiv-2504-14603/) — 2025-04-20
@@ -166,12 +172,18 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Introduces a modular visual web-agent stack with planning and memory components, exposed through a remote-browser application and Chrome extension.
 - [Programming with Pixels: Can Computer-Use Agents do Software Engineering?](https://awesomecua.com/resources/arxiv-2502-18525/) — 2025-02-24
   Introduces a visual IDE environment and benchmark for software-engineering tasks, comparing screenshot-based control with access to editing and shell tools.
+- [Qwen2.5-VL Technical Report](https://awesomecua.com/resources/arxiv-2502-13923/) — 2025-02-19
+  Reports Qwen2.5-VL, a vision-language model that can act as a visual agent for tasks involving computer and mobile-device operation, alongside broader visual tasks.
 - [AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation](https://awesomecua.com/resources/arxiv-2412-18116/) — 2024-12-24
   Recasts mobile UI automation as on-device code generation, using app-specific documentation and synthetic tasks to guide smaller models.
+- [CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers](https://awesomecua.com/resources/arxiv-2412-13810/) — 2024-12-18
+  CAD-Assistant plans CAD tasks and executes actions through FreeCAD's Python API, using the changing design state to guide later commands.
 - [DroidCall: A Dataset for LLM-powered Android Intent Invocation](https://awesomecua.com/resources/arxiv-2412-00402/) — 2024-11-30
   Introduces data and a generation pipeline for translating natural-language requests into Android intent invocations using compact language models.
 - [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://awesomecua.com/resources/arxiv-2411-04468/) — 2024-11-07
   Introduces an orchestrated team of browsing, file, and coding agents with progress tracking and error recovery for general digital tasks.
+- [Infogent: An Agent-Based Framework for Web Information Aggregation](https://awesomecua.com/resources/arxiv-2410-19054/) — 2024-10-24
+  Infogent separates navigation, extraction and aggregation for web information gathering, including browser interaction through webpage screenshots.
 - [OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning](https://awesomecua.com/resources/arxiv-2410-18963/) — 2024-10-24
   OSCAR translates user instructions into Python control code while observing screen images and acting through mouse and keyboard operations. A state-machine controller handles errors and replans tasks during execution across desktop and mobile applications.
 - [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://awesomecua.com/resources/arxiv-2410-18603/) — 2024-10-24
@@ -182,6 +194,8 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Introduces AXIS, an API-first application agent that can use UI actions and expand its available APIs through automated application exploration. The work evaluates the approach on Microsoft Word tasks.
 - [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://awesomecua.com/resources/arxiv-2407-18901/) — 2024-07-26
   Introduces simulated application APIs and state-based task evaluation for interactive coding agents performing everyday digital workflows.
+- [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://awesomecua.com/resources/arxiv-2407-16741/) — 2024-07-23
+  OpenHands is a platform for agents that write code, use a command line and browse the web, with sandboxed execution and support for agent evaluation.
 - [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://awesomecua.com/resources/arxiv-2407-03913/) — 2024-07-04
   Introduces MobileExperts, which assembles mobile-agent teams, lets agents explore and formulate tools, and coordinates them through two levels of planning. A benchmark organizes tasks by hierarchical intelligence levels.
 - [Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents](https://awesomecua.com/resources/arxiv-2407-00993/) — 2024-07-01

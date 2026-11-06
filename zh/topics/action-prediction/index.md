@@ -48,14 +48,22 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Introduces OmniActor, which shares shallow model layers while separating deeper parameters to train jointly on GUI and embodied interactions. A unified action representation and mixed training data support evaluation in both task families.
 - [UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions](https://awesomecua.com/resources/arxiv-2506-11127/) — 2025-06-10
   Introduces UITron-Speech, which predicts GUI actions from spoken instructions and screenshots. It combines synthetic speech data and mixed-modality training with a training-free grounding refinement step.
+- [JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse](https://awesomecua.com/resources/arxiv-2503-16365/) — 2025-03-20
+  Introduces Act from Visual Language Post-Training, a method for agents that follow instructions in Minecraft through visual input and actions, adjacent to interface operation.
 - [Lightweight Neural App Control](https://awesomecua.com/resources/arxiv-2410-17883/) — 2024-10-23
   LiMAC combines a compact Action Transformer with a fine-tuned vision-language model for Android app control. It uses textual goals and histories of screenshots and UI trees to predict actions, with evaluation on two mobile-control datasets.
 - [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding](https://awesomecua.com/resources/arxiv-2409-14818/) — 2024-09-23
   MobileVLM adds two pretraining stages and four UI tasks to learn element detail and relationships between successive screens. Its Mobile3M dataset contains three million Chinese mobile UI pages connected by recorded transition actions.
 - [V-Zen: Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM](https://awesomecua.com/resources/arxiv-2405-15341/) — 2024-05-24
   Describes V-Zen, a multimodal GUI model with dual-resolution image encoders for grounding and next-action prediction, fine-tuned using GUIDE interface elements and task sequences.
+- [Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations](https://awesomecua.com/resources/arxiv-2404-12608/) — 2024-04-19
+  Auto-Formula recommends formulas for target spreadsheet cells by adapting formulas from similar spreadsheets within an organization.
 - [Training a Vision Language Model as Smartphone Assistant](https://awesomecua.com/resources/arxiv-2404-08755/) — 2024-04-12
   Trains a smartphone assistant from sequences of screenshots paired with earlier actions. The model predicts UI-only interactions such as taps and swipes, with evaluation on Android in the Wild.
+- [MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control](https://awesomecua.com/resources/arxiv-2403-12037/) — 2024-03-18
+  Introduces MineDreamer, a Minecraft agent that imagines stages of an instruction and turns them into keyboard-and-mouse actions in a simulated world.
+- [Scaling Instructable Agents Across Many Simulated Worlds](https://awesomecua.com/resources/arxiv-2404-10179/) — 2024-03-13
+  The SIMA project trains agents to follow language instructions in simulated 3D worlds, using images as input and keyboard-and-mouse actions as output.
 - [From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces](https://awesomecua.com/resources/arxiv-2306-00245/) — 2023-05-31
   Studies instruction-following agents that observe screenshots and act through a generic mouse-and-keyboard action space, evaluating pixel-based pretraining for GUI tasks on MiniWoB++.
 - [Multimodal Web Navigation with Instruction-Finetuned Foundation Models](https://awesomecua.com/resources/arxiv-2305-11854/) — 2023-05-19

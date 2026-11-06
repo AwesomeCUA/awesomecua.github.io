@@ -306,6 +306,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   MobileGUI-RL constructs an online training curriculum through agent exploration and task filtering. It adapts GRPO with trajectory-aware advantages and rewards for task completion and execution efficiency, evaluated on three online mobile-agent benchmarks.
 - [How to Train Your LLM Web Agent: A Statistical Diagnosis](https://awesomecua.com/resources/arxiv-2507-04103/) — 2025-07-05
   Studies compute allocation for web-agent post-training with teacher-generated supervised fine-tuning followed by on-policy reinforcement learning. It samples 1,370 training configurations and uses bootstrap analysis to examine hyperparameter sensitivity on WorkArena and MiniWoB++.
+- [GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://awesomecua.com/resources/arxiv-2507-01006/) — 2025-07-01
+  Reports the GLM-4.1V-Thinking, GLM-4.5V, and GLM-4.6V vision-language model family and curriculum-based RL training, with GUI agents among its evaluated tasks.
 - [Mobile-R1: Towards Interactive Capability for VLM-Based Mobile Agent via Systematic Training](https://awesomecua.com/resources/arxiv-2506-20332/) — 2025-06-25
   Uses a staged curriculum from response-format alignment through action feedback to interactive task-level training for mobile agents.
 - [Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](https://awesomecua.com/resources/arxiv-2506-17913/) — 2025-06-22
@@ -314,14 +316,20 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Location Preference Optimization uses an information-entropy signal to select interaction regions and a distance-based reward to assess click locations. It trains GUI localization through preference optimization and evaluates both offline grounding and online interaction.
 - [Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction](https://awesomecua.com/resources/arxiv-2506-07976/) — 2025-06-09
   Test-Time Interaction scales the interaction horizon so web agents can explore, backtrack and revise plans within a rollout. Its online reinforcement-learning curriculum adjusts rollout lengths and is evaluated on WebVoyager and WebArena.
+- [MiMo-VL Technical Report](https://awesomecua.com/resources/arxiv-2506-03569/) — 2025-06-04
+  Reports MiMo-VL-7B-SFT and MiMo-VL-7B-RL, general vision-language models trained with staged pre-training and mixed RL, with GUI grounding evaluated on OSWorld-G.
 - [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://awesomecua.com/resources/arxiv-2506-01391/) — 2025-06-02
   Combines grounding pretraining, bilingual interaction trajectories, and reinforcement fine-tuning for mobile GUI actions.
 - [ZeroGUI: Automating Online GUI Learning at Zero Human Cost](https://awesomecua.com/resources/arxiv-2505-23762/) — 2025-05-29
   Combines generated tasks, estimated success rewards, and online reinforcement learning to automate GUI-agent interaction training.
+- [Grounded Reinforcement Learning for Visual Reasoning](https://awesomecua.com/resources/arxiv-2505-23678/) — 2025-05-29
+  Introduces ViGoRL, a visual reasoning model trained to reference image coordinates and zoom during reasoning; its evaluations include GUI element localization.
 - [WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning](https://awesomecua.com/resources/arxiv-2505-22942/) — 2025-05-28
   Uses rule-based rewards for output structure and action correctness to train reasoning for enterprise web navigation.
 - [UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2505-21496/) — 2025-05-27
   UI-Genie jointly improves a mobile GUI agent and a reward model that processes screenshots with interaction history and supplies action- and task-level feedback. Its data pipeline uses rule-based verification, corrupted trajectories, and hard negatives to support reward-guided exploration and iterative training.
+- [SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution](https://awesomecua.com/resources/arxiv-2505-20732/) — 2025-05-27
+  Introduces SPA, a reward redistribution method for multi-step LLM agents that estimates each action’s contribution to task completion; Webshop is among its evaluations.
 - [ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World](https://awesomecua.com/resources/arxiv-2505-19095/) — 2025-05-25
   Trains ScreenExplorer with reinforcement learning in dynamic GUI environments, using a world-model curiosity reward and experience-stream distillation to support sustained exploration.
 - [ProgRM: Build Better GUI Agents with Progress Rewards](https://awesomecua.com/resources/arxiv-2505-18121/) — 2025-05-23
@@ -342,6 +350,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Proposes GUI grounding training that combines curated seed examples, continuous location-dependent policy feedback, and iterative refinement guided by attention maps. The study evaluates the resulting reinforcement-learning procedure on three grounding benchmarks, including ScreenSpot-Pro.
 - [MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](https://awesomecua.com/resources/arxiv-2505-12299/) — 2025-05-18
   MobileIPL samples trees of action-planning thoughts, propagates rule-based leaf rewards backward, and forms preference pairs for reasoning-level optimization. It also expands screenshot-based instruction data through staged evolution before evaluation on mobile GUI-agent benchmarks.
+- [Group-in-Group Policy Optimization for LLM Agent Training](https://awesomecua.com/resources/arxiv-2505-10978/) — 2025-05-16
+  Introduces Group-in-Group Policy Optimization (GiGPO), an RL method for assigning step-level credit in multi-turn agents, evaluated on WebShop among other tasks.
 - [A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning](https://awesomecua.com/resources/arxiv-2504-20464/) — 2025-04-29
   Formalizes GUI tasks as Markov decision processes and traces agent training from prompting through supervised fine-tuning to reinforcement learning.
 - [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://awesomecua.com/resources/arxiv-2504-14239/) — 2025-04-19
@@ -354,10 +364,14 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Labels individual computer-use actions by comparing surrounding screenshots, then trains agents from both successful and unsuccessful steps.
 - [VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model](https://awesomecua.com/resources/arxiv-2502-18906/) — 2025-02-26
   Trains GUI agents with a frozen value model learned from offline interactions, guiding action exploration without predicting complete next observations.
+- [Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization](https://awesomecua.com/resources/arxiv-2502-14496/) — 2025-02-20
+  Introduces CollabUIAgents, a multi-agent RL framework that assigns LLM-based process rewards to help agents generalize across interactive settings including mobile operations and web browsing.
 - [Digi-Q: Learning Q-Value Functions for Training Device-Control Agents](https://awesomecua.com/resources/arxiv-2502-15760/) — 2025-02-13
   Learns action-value functions from offline device-control experience and uses them to rank candidate actions for policy improvement.
 - [Advancing Autonomous VLM Agents via Variational Subgoal-Conditioned Reinforcement Learning](https://awesomecua.com/resources/arxiv-2502-07949/) — 2025-02-11
   Uses variational subgoal-conditioned reinforcement learning to improve learning efficiency on sparse-reward mobile and web-control tasks.
+- [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://awesomecua.com/resources/arxiv-2502-01600/) — 2025-02-03
+  LOOP trains interactive digital agents with reinforcement learning in stateful, multi-app environments where tasks are performed through API calls.
 - [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://awesomecua.com/resources/arxiv-2412-13194/) — 2024-12-17
   Combines autonomous task proposal, web interaction, and visual success evaluation to discover skills and improve browser-agent policies.
 - [From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning](https://awesomecua.com/resources/arxiv-2411-03817/) — 2024-11-06
@@ -376,12 +390,20 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Introduces GLAINTEL, a Flan-T5-based product-search web agent studied under unsupervised learning, demonstration-based training, and unsupervised domain adaptation. It compares ways to combine demonstrations with reinforcement learning.
 - [AutoWebGLM: A Large Language Model-based Web Navigating Agent](https://awesomecua.com/resources/arxiv-2404-03648/) — 2024-04-04
   Builds a web agent through simplified HTML observations, human-and-AI browsing data, curriculum training, and reinforcement-learning refinement.
+- [CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace](https://awesomecua.com/resources/arxiv-2310-07128/) — 2023-10-11
+  Introduces CrashTranslator, which predicts GUI exploration steps from stack traces with an LLM and uses RL-guided search to reproduce crashes in Android apps.
 - [Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API](https://awesomecua.com/resources/arxiv-2310-04716/) — 2023-10-07
   Trains a screenshot-based instruction-grounding model to predict target coordinates, using reinforcement learning to improve spatial decoding.
 - [A data-driven approach for learning to control computers](https://awesomecua.com/resources/arxiv-2202-08137/) — 2022-02-16
   Combines reinforcement learning with behavioral priors from human interactions to learn computer control through keyboard and mouse actions.
+- [AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning](https://awesomecua.com/resources/arxiv-2106-00133/) — 2021-05-31
+  Introduces AppBuddy, an RL training platform and task suite for mobile apps where agents use on-screen element states and tap or type to complete multi-step tasks.
 - [AndroidEnv: A Reinforcement Learning Platform for Android](https://awesomecua.com/resources/arxiv-2105-13231/) — 2021-05-27
   Presents an Android environment for training and evaluating reinforcement-learning agents through touchscreen interaction.
+- [DOM-Q-NET: Grounded RL on Structured Language](https://awesomecua.com/resources/arxiv-1902-07257/) — 2019-02-19
+  Introduces DOM-Q-NET, an RL architecture for web navigation that represents HTML as a tree and uses separate Q-function networks for clicking elements and typing text.
+- [Learning to Navigate the Web](https://awesomecua.com/resources/arxiv-1812-09195/) — 2018-12-21
+  Introduces guided RL for QWeb, using a curriculum of smaller instructions and generated tasks to train an agent that follows instructions and fills forms on web pages.
 - [Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration](https://awesomecua.com/resources/arxiv-1802-08802/) — 2018-02-24
   Uses workflows extracted from demonstrations to constrain reinforcement-learning exploration for interactive web tasks.
 - [World of Bits: An Open-Domain Platform for Web-Based Agents](https://awesomecua.com/resources/url-52a3261eb6a19b402e88/) — 2017-07-17

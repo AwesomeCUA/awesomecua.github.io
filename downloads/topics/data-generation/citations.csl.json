@@ -148,6 +148,67 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2104.08560v1",
+    "archive": "arXiv",
+    "archive_location": "2104.08560",
+    "author": [
+      {
+        "literal": "Andrea Burns"
+      },
+      {
+        "literal": "Deniz Arsan"
+      },
+      {
+        "literal": "Sanjna Agrawal"
+      },
+      {
+        "literal": "Ranjitha Kumar"
+      },
+      {
+        "literal": "Kate Saenko"
+      },
+      {
+        "literal": "Bryan A. Plummer"
+      }
+    ],
+    "citation-key": "arxiv_2104_08560",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "da0efe4e827a9d5ac3a662b6d4a792bf6573eb596c61b72c3227cd556ff6afb7",
+        "submitted_at": "2021-04-17T14:48:02Z",
+        "updated_at": "2021-04-17T14:48:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2104.08560v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2104.08560",
+      "catalog_id": "arxiv:2104.08560",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2021-04-17",
+      "identifiers": {
+        "arxiv": "2104.08560"
+      },
+      "record_updated_at": "2021-04-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2104.08560",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2021-04-17; Recorded arXiv version: v1; Recorded version updated: 2021-04-17T14:48:02Z.",
+    "title": "Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2105.11941v2",
     "archive": "arXiv",
     "archive_location": "2105.11941",
@@ -477,6 +538,70 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2212.04732v1",
+    "archive": "arXiv",
+    "archive_location": "2212.04732",
+    "author": [
+      {
+        "literal": "Zhe Liu"
+      },
+      {
+        "literal": "Chunyang Chen"
+      },
+      {
+        "literal": "Junjie Wang"
+      },
+      {
+        "literal": "Xing Che"
+      },
+      {
+        "literal": "Yuekai Huang"
+      },
+      {
+        "literal": "Jun Hu"
+      },
+      {
+        "literal": "Qing Wang"
+      }
+    ],
+    "citation-key": "arxiv_2212_04732",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b147719291128e86cbdb279ef6d0cc2bea6660d9cc0efb3277bd160dacbadd37",
+        "submitted_at": "2022-12-09T09:00:38Z",
+        "updated_at": "2022-12-09T09:00:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2212.04732v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2212.04732",
+      "catalog_id": "arxiv:2212.04732",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2022-12-09",
+      "identifiers": {
+        "arxiv": "2212.04732"
+      },
+      "record_updated_at": "2022-12-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2212.04732",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2022-12-09; Recorded arXiv version: v1; Recorded version updated: 2022-12-09T09:00:38Z.",
+    "title": "Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2301.10165v1",
     "archive": "arXiv",
     "archive_location": "2301.10165",
@@ -592,6 +717,134 @@
     },
     "note": "First published: 2023-01-30; Recorded arXiv version: v1; Recorded version updated: 2023-01-30T20:47:12Z.",
     "title": "WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2301.13779v2",
+    "archive": "arXiv",
+    "archive_location": "2301.13779",
+    "author": [
+      {
+        "literal": "Harshit Joshi"
+      },
+      {
+        "literal": "Abishai Ebenezer"
+      },
+      {
+        "literal": "José Cambronero"
+      },
+      {
+        "literal": "Sumit Gulwani"
+      },
+      {
+        "literal": "Aditya Kanade"
+      },
+      {
+        "literal": "Vu Le"
+      },
+      {
+        "literal": "Ivan Radiček"
+      },
+      {
+        "literal": "Gust Verbruggen"
+      }
+    ],
+    "citation-key": "arxiv_2301_13779",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff6e0dbc7f7ba22430915cac58358a3afe5c6167beecfca06acdf3f8b0f15859",
+        "submitted_at": "2023-01-31T17:29:43Z",
+        "updated_at": "2023-12-19T22:56:39Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2301.13779v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2301.13779",
+      "catalog_id": "arxiv:2301.13779",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2023-01-31",
+      "identifiers": {
+        "arxiv": "2301.13779"
+      },
+      "record_updated_at": "2023-12-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2301.13779",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2023-01-31; Recorded arXiv version: v2; Recorded version updated: 2023-12-19T22:56:39Z.",
+    "title": "FLAME: A small language model for spreadsheet formulas",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2305.09699v1",
+    "archive": "arXiv",
+    "archive_location": "2305.09699",
+    "author": [
+      {
+        "literal": "Zhangxuan Gu"
+      },
+      {
+        "literal": "Zhuoer Xu"
+      },
+      {
+        "literal": "Haoxing Chen"
+      },
+      {
+        "literal": "Jun Lan"
+      },
+      {
+        "literal": "Changhua Meng"
+      },
+      {
+        "literal": "Weiqiang Wang"
+      }
+    ],
+    "citation-key": "arxiv_2305_09699",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cbd23cad847d29812a6adca85eedfafb4a55bb33395d6e9907e34b8cd1218745",
+        "submitted_at": "2023-05-16T07:16:36Z",
+        "updated_at": "2023-05-16T07:16:36Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2305.09699v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2305.09699",
+      "catalog_id": "arxiv:2305.09699",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-05-16",
+      "identifiers": {
+        "arxiv": "2305.09699"
+      },
+      "record_updated_at": "2023-05-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2305.09699",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2023-05-16; Recorded arXiv version: v1; Recorded version updated: 2023-05-16T07:16:36Z.",
+    "title": "Mobile User Interface Element Detection Via Adaptively Prompt Tuning",
     "type": "article",
     "version": "1"
   },
@@ -754,6 +1007,70 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2308.05898v2",
+    "archive": "arXiv",
+    "archive_location": "2308.05898",
+    "author": [
+      {
+        "literal": "Jieshan Chen"
+      },
+      {
+        "literal": "Jiamou Sun"
+      },
+      {
+        "literal": "Sidong Feng"
+      },
+      {
+        "literal": "Zhenchang Xing"
+      },
+      {
+        "literal": "Qinghua Lu"
+      },
+      {
+        "literal": "Xiwei Xu"
+      },
+      {
+        "literal": "Chunyang Chen"
+      }
+    ],
+    "citation-key": "arxiv_2308_05898",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d758750525a78e746ec4bcc8f603006b9ff6e2864fc28fc05635d30a53609aaf",
+        "submitted_at": "2023-08-11T01:18:56Z",
+        "updated_at": "2024-11-28T00:01:03Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2308.05898v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2308.05898",
+      "catalog_id": "arxiv:2308.05898",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2023-08-11",
+      "identifiers": {
+        "arxiv": "2308.05898"
+      },
+      "record_updated_at": "2024-11-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2308.05898",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2023-08-11; Recorded arXiv version: v2; Recorded version updated: 2024-11-28T00:01:03Z.",
+    "title": "Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2310.04869v1",
     "archive": "arXiv",
     "archive_location": "2310.04869",
@@ -807,6 +1124,67 @@
     "title": "ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2312.10170v4",
+    "archive": "arXiv",
+    "archive_location": "2312.10170",
+    "author": [
+      {
+        "literal": "Wei Li"
+      },
+      {
+        "literal": "Fu-Lin Hsu"
+      },
+      {
+        "literal": "Will Bishop"
+      },
+      {
+        "literal": "Folawiyo Campbell-Ajala"
+      },
+      {
+        "literal": "Max Lin"
+      },
+      {
+        "literal": "Oriana Riva"
+      }
+    ],
+    "citation-key": "arxiv_2312_10170",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "64345477c122c4e1ebefb4ba82c09d6ccce30038f92e0bcf26aac76ca108e8eb",
+        "submitted_at": "2023-12-15T19:37:39Z",
+        "updated_at": "2024-06-28T11:25:41Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2312.10170v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2312.10170",
+      "catalog_id": "arxiv:2312.10170",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-12-15",
+      "identifiers": {
+        "arxiv": "2312.10170"
+      },
+      "record_updated_at": "2024-06-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2312.10170",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2023-12-15; Recorded arXiv version: v4; Recorded version updated: 2024-06-28T11:25:41Z.",
+    "title": "UINav: A Practical Approach to Train On-Device Automation Agents",
+    "type": "article",
+    "version": "4"
   },
   {
     "URL": "https://arxiv.org/abs/2312.15820v1",
@@ -1042,6 +1420,67 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2402.05202v1",
+    "archive": "arXiv",
+    "archive_location": "2402.05202",
+    "author": [
+      {
+        "literal": "Yue Jiang"
+      },
+      {
+        "literal": "Luis A. Leiva"
+      },
+      {
+        "literal": "Paul R. B. Houssel"
+      },
+      {
+        "literal": "Hamed R. Tavakoli"
+      },
+      {
+        "literal": "Julia Kylmälä"
+      },
+      {
+        "literal": "Antti Oulasvirta"
+      }
+    ],
+    "citation-key": "arxiv_2402_05202",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1a1b1dc5d3541b11902569ff4a0d2248a2e1ca8e969d7630054ecd15a921c3f3",
+        "submitted_at": "2024-02-07T19:15:30Z",
+        "updated_at": "2024-02-07T19:15:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2402.05202v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.05202",
+      "catalog_id": "arxiv:2402.05202",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-02-07",
+      "identifiers": {
+        "arxiv": "2402.05202"
+      },
+      "record_updated_at": "2024-02-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2402.05202",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2024-02-07; Recorded arXiv version: v1; Recorded version updated: 2024-02-07T19:15:30Z.",
+    "title": "UEyes: An Eye-Tracking Dataset across User Interface Types",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2402.05930v2",
     "archive": "arXiv",
     "archive_location": "2402.05930",
@@ -1173,6 +1612,76 @@
     "title": "Computer User Interface Understanding. A New Dataset and a Learning Framework",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2403.20271v3",
+    "archive": "arXiv",
+    "archive_location": "2403.20271",
+    "author": [
+      {
+        "literal": "Weifeng Lin"
+      },
+      {
+        "literal": "Xinyu Wei"
+      },
+      {
+        "literal": "Ruichuan An"
+      },
+      {
+        "literal": "Peng Gao"
+      },
+      {
+        "literal": "Bocheng Zou"
+      },
+      {
+        "literal": "Yulin Luo"
+      },
+      {
+        "literal": "Siyuan Huang"
+      },
+      {
+        "literal": "Shanghang Zhang"
+      },
+      {
+        "literal": "Hongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2403_20271",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c6636a8203076662b5d06ffd29c6578d68b8a79a11d9f3b58483fc2dbbf2c96b",
+        "submitted_at": "2024-03-29T16:26:20Z",
+        "updated_at": "2025-02-22T14:02:39Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2403.20271v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.20271",
+      "catalog_id": "arxiv:2403.20271",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-29",
+      "identifiers": {
+        "arxiv": "2403.20271"
+      },
+      "record_updated_at": "2025-02-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.20271",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-29; Recorded arXiv version: v3; Recorded version updated: 2025-02-22T14:02:39Z.",
+    "title": "Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2404.03648v2",
@@ -1307,6 +1816,134 @@
     "title": "WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2404.12500v1",
+    "archive": "arXiv",
+    "archive_location": "2404.12500",
+    "author": [
+      {
+        "literal": "Jason Wu"
+      },
+      {
+        "literal": "Yi-Hao Peng"
+      },
+      {
+        "literal": "Amanda Li"
+      },
+      {
+        "literal": "Amanda Swearngin"
+      },
+      {
+        "literal": "Jeffrey P. Bigham"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      }
+    ],
+    "citation-key": "arxiv_2404_12500",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cfdf150f6f3d5e398216664af758070525812c6970b756add9233728951f1845",
+        "submitted_at": "2024-04-18T20:43:08Z",
+        "updated_at": "2024-04-18T20:43:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2404.12500v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.12500",
+      "catalog_id": "arxiv:2404.12500",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-04-18",
+      "identifiers": {
+        "arxiv": "2404.12500"
+      },
+      "record_updated_at": "2024-04-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.12500",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2024-04-18; Recorded arXiv version: v1; Recorded version updated: 2024-04-18T20:43:08Z.",
+    "title": "UIClip: A Data-driven Model for Assessing User Interface Design",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2404.12753v2",
+    "archive": "arXiv",
+    "archive_location": "2404.12753",
+    "author": [
+      {
+        "literal": "Wenhao Huang"
+      },
+      {
+        "literal": "Zhouhong Gu"
+      },
+      {
+        "literal": "Chenghao Peng"
+      },
+      {
+        "literal": "Zhixu Li"
+      },
+      {
+        "literal": "Jiaqing Liang"
+      },
+      {
+        "literal": "Yanghua Xiao"
+      },
+      {
+        "literal": "Liqian Wen"
+      },
+      {
+        "literal": "Zulong Chen"
+      }
+    ],
+    "citation-key": "arxiv_2404_12753",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9197968c51e668d3737496aaebadaa324e2b20b182aad541cabb491e491d3b41",
+        "submitted_at": "2024-04-19T09:59:44Z",
+        "updated_at": "2024-09-26T09:17:10Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2404.12753v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.12753",
+      "catalog_id": "arxiv:2404.12753",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-04-19",
+      "identifiers": {
+        "arxiv": "2404.12753"
+      },
+      "record_updated_at": "2024-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.12753",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2024-04-19; Recorded arXiv version: v2; Recorded version updated: 2024-09-26T09:17:10Z.",
+    "title": "AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2404.16048v2",
@@ -1708,6 +2345,67 @@
     "title": "GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.14596v6",
+    "archive": "arXiv",
+    "archive_location": "2406.14596",
+    "author": [
+      {
+        "literal": "Gabriel Sarch"
+      },
+      {
+        "literal": "Lawrence Jang"
+      },
+      {
+        "literal": "Michael J. Tarr"
+      },
+      {
+        "literal": "William W. Cohen"
+      },
+      {
+        "literal": "Kenneth Marino"
+      },
+      {
+        "literal": "Katerina Fragkiadaki"
+      }
+    ],
+    "citation-key": "arxiv_2406_14596",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "698e2c444a587a109bbc7b3d64b812a3d0cf2ef7148ff02e3e6fe13f19f193fd",
+        "submitted_at": "2024-06-20T17:45:02Z",
+        "updated_at": "2025-09-18T02:44:34Z",
+        "version": 6,
+        "versioned_url": "https://arxiv.org/abs/2406.14596v6"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.14596",
+      "catalog_id": "arxiv:2406.14596",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-06-20",
+      "identifiers": {
+        "arxiv": "2406.14596"
+      },
+      "record_updated_at": "2025-09-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.14596",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-20; Recorded arXiv version: v6; Recorded version updated: 2025-09-18T02:44:34Z.",
+    "title": "VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought",
+    "type": "article",
+    "version": "6"
   },
   {
     "URL": "https://arxiv.org/abs/2408.06327v1",
@@ -2129,6 +2827,118 @@
     "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2409.20566v1",
+    "archive": "arXiv",
+    "archive_location": "2409.20566",
+    "author": [
+      {
+        "literal": "Haotian Zhang"
+      },
+      {
+        "literal": "Mingfei Gao"
+      },
+      {
+        "literal": "Zhe Gan"
+      },
+      {
+        "literal": "Philipp Dufter"
+      },
+      {
+        "literal": "Nina Wenzel"
+      },
+      {
+        "literal": "Forrest Huang"
+      },
+      {
+        "literal": "Dhruti Shah"
+      },
+      {
+        "literal": "Xianzhi Du"
+      },
+      {
+        "literal": "Bowen Zhang"
+      },
+      {
+        "literal": "Yanghao Li"
+      },
+      {
+        "literal": "Sam Dodge"
+      },
+      {
+        "literal": "Keen You"
+      },
+      {
+        "literal": "Zhen Yang"
+      },
+      {
+        "literal": "Aleksei Timofeev"
+      },
+      {
+        "literal": "Mingze Xu"
+      },
+      {
+        "literal": "Hong-You Chen"
+      },
+      {
+        "literal": "Jean-Philippe Fauconnier"
+      },
+      {
+        "literal": "Zhengfeng Lai"
+      },
+      {
+        "literal": "Haoxuan You"
+      },
+      {
+        "literal": "Zirui Wang"
+      },
+      {
+        "literal": "Afshin Dehghan"
+      },
+      {
+        "literal": "Peter Grasch"
+      },
+      {
+        "literal": "Yinfei Yang"
+      }
+    ],
+    "citation-key": "arxiv_2409_20566",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2e066b476434bf2899de8dc6b96d6e10219e731f47d848255702d68c99bf5d3e",
+        "submitted_at": "2024-09-30T17:59:34Z",
+        "updated_at": "2024-09-30T17:59:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2409.20566v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.20566",
+      "catalog_id": "arxiv:2409.20566",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-09-30",
+      "identifiers": {
+        "arxiv": "2409.20566"
+      },
+      "record_updated_at": "2024-09-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2409.20566",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2024-09-30; Recorded arXiv version: v1; Recorded version updated: 2024-09-30T17:59:34Z.",
+    "title": "MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2410.00201v1",
@@ -2806,6 +3616,79 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2411.05451v1",
+    "archive": "arXiv",
+    "archive_location": "2411.05451",
+    "author": [
+      {
+        "literal": "Shengda Fan"
+      },
+      {
+        "literal": "Xin Cong"
+      },
+      {
+        "literal": "Yuepeng Fu"
+      },
+      {
+        "literal": "Zhong Zhang"
+      },
+      {
+        "literal": "Shuyan Zhang"
+      },
+      {
+        "literal": "Yuanwei Liu"
+      },
+      {
+        "literal": "Yesai Wu"
+      },
+      {
+        "literal": "Yankai Lin"
+      },
+      {
+        "literal": "Zhiyuan Liu"
+      },
+      {
+        "literal": "Maosong Sun"
+      }
+    ],
+    "citation-key": "arxiv_2411_05451",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2407fd35164680db7422e4dc57c51855ba8d244f997e5a4cfe75d8dfba8ab691",
+        "submitted_at": "2024-11-08T09:58:02Z",
+        "updated_at": "2024-11-08T09:58:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2411.05451v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.05451",
+      "catalog_id": "arxiv:2411.05451",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-11-08",
+      "identifiers": {
+        "arxiv": "2411.05451"
+      },
+      "record_updated_at": "2024-11-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.05451",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-08; Recorded arXiv version: v1; Recorded version updated: 2024-11-08T09:58:02Z.",
+    "title": "WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2411.13451v1",
     "archive": "arXiv",
     "archive_location": "2411.13451",
@@ -3024,6 +3907,178 @@
     },
     "note": "First published: 2024-12-05; Recorded arXiv version: v2; Recorded version updated: 2025-05-05T16:17:20Z.",
     "title": "Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2412.04626v2",
+    "archive": "arXiv",
+    "archive_location": "2412.04626",
+    "author": [
+      {
+        "literal": "Juan Rodriguez"
+      },
+      {
+        "literal": "Xiangru Jian"
+      },
+      {
+        "literal": "Siba Smarak Panigrahi"
+      },
+      {
+        "literal": "Tianyu Zhang"
+      },
+      {
+        "literal": "Aarash Feizi"
+      },
+      {
+        "literal": "Abhay Puri"
+      },
+      {
+        "literal": "Akshay Kalkunte"
+      },
+      {
+        "literal": "François Savard"
+      },
+      {
+        "literal": "Ahmed Masry"
+      },
+      {
+        "literal": "Shravan Nayak"
+      },
+      {
+        "literal": "Rabiul Awal"
+      },
+      {
+        "literal": "Mahsa Massoud"
+      },
+      {
+        "literal": "Amirhossein Abaskohi"
+      },
+      {
+        "literal": "Zichao Li"
+      },
+      {
+        "literal": "Suyuchen Wang"
+      },
+      {
+        "literal": "Pierre-André Noël"
+      },
+      {
+        "literal": "Mats Leon Richter"
+      },
+      {
+        "literal": "Saverio Vadacchino"
+      },
+      {
+        "literal": "Shubham Agarwal"
+      },
+      {
+        "literal": "Sanket Biswas"
+      },
+      {
+        "literal": "Sara Shanian"
+      },
+      {
+        "literal": "Ying Zhang"
+      },
+      {
+        "literal": "Noah Bolger"
+      },
+      {
+        "literal": "Kurt MacDonald"
+      },
+      {
+        "literal": "Simon Fauvel"
+      },
+      {
+        "literal": "Sathwik Tejaswi"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Joao Monteiro"
+      },
+      {
+        "literal": "Krishnamurthy DJ Dvijotham"
+      },
+      {
+        "literal": "Torsten Scholak"
+      },
+      {
+        "literal": "Nicolas Chapados"
+      },
+      {
+        "literal": "Sepideh Kharagani"
+      },
+      {
+        "literal": "Sean Hughes"
+      },
+      {
+        "literal": "M. Özsu"
+      },
+      {
+        "literal": "Siva Reddy"
+      },
+      {
+        "literal": "Marco Pedersoli"
+      },
+      {
+        "literal": "Yoshua Bengio"
+      },
+      {
+        "literal": "Christopher Pal"
+      },
+      {
+        "literal": "Issam Laradji"
+      },
+      {
+        "literal": "Spandana Gella"
+      },
+      {
+        "literal": "Perouz Taslakian"
+      },
+      {
+        "literal": "David Vazquez"
+      },
+      {
+        "literal": "Sai Rajeswar"
+      }
+    ],
+    "citation-key": "arxiv_2412_04626",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "84b72716d09298ff04a3b54e4c17f56b86a54927fddcb8f481890dbea7fb7e2b",
+        "submitted_at": "2024-12-05T21:41:20Z",
+        "updated_at": "2025-03-17T16:32:24Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2412.04626v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.04626",
+      "catalog_id": "arxiv:2412.04626",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-12-05",
+      "identifiers": {
+        "arxiv": "2412.04626"
+      },
+      "record_updated_at": "2025-03-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2412.04626",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2024-12-05; Recorded arXiv version: v2; Recorded version updated: 2025-03-17T16:32:24Z.",
+    "title": "BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks",
     "type": "article",
     "version": "2"
   },
@@ -3518,6 +4573,67 @@
     "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2501.10893v1",
+    "archive": "arXiv",
+    "archive_location": "2501.10893",
+    "author": [
+      {
+        "literal": "Hongjin Su"
+      },
+      {
+        "literal": "Ruoxi Sun"
+      },
+      {
+        "literal": "Jinsung Yoon"
+      },
+      {
+        "literal": "Pengcheng Yin"
+      },
+      {
+        "literal": "Tao Yu"
+      },
+      {
+        "literal": "Sercan Ö. Arık"
+      }
+    ],
+    "citation-key": "arxiv_2501_10893",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cd2a8cf1ddaced56f7a2a74ef2c1a6b8b0822b3fdbdde30796d08635b68484b0",
+        "submitted_at": "2025-01-18T22:34:41Z",
+        "updated_at": "2025-01-18T22:34:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2501.10893v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2501.10893",
+      "catalog_id": "arxiv:2501.10893",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-01-18",
+      "identifiers": {
+        "arxiv": "2501.10893"
+      },
+      "record_updated_at": "2025-01-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2501.10893",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-01-18; Recorded arXiv version: v1; Recorded version updated: 2025-01-18T22:34:41Z.",
+    "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2501.11425v3",
@@ -4065,6 +5181,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2502.06776v2",
+    "archive": "arXiv",
+    "archive_location": "2502.06776",
+    "author": [
+      {
+        "literal": "Brandon Trabucco"
+      },
+      {
+        "literal": "Gunnar Sigurdsson"
+      },
+      {
+        "literal": "Robinson Piramuthu"
+      },
+      {
+        "literal": "Ruslan Salakhutdinov"
+      }
+    ],
+    "citation-key": "arxiv_2502_06776",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9d56f00548abc3dfcaa9421726d6eb43cc2b025a96d144a729cda807ded32dce",
+        "submitted_at": "2025-02-10T18:54:05Z",
+        "updated_at": "2025-05-22T17:59:11Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2502.06776v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.06776",
+      "catalog_id": "arxiv:2502.06776",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-10",
+      "identifiers": {
+        "arxiv": "2502.06776"
+      },
+      "record_updated_at": "2025-05-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.06776",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-10; Recorded arXiv version: v2; Recorded version updated: 2025-05-22T17:59:11Z.",
+    "title": "InSTA: Towards Internet-Scale Training For Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2502.07942v2",
     "archive": "arXiv",
     "archive_location": "2502.07942",
@@ -4239,6 +5410,64 @@
     "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
     "type": "article",
     "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.12130v1",
+    "archive": "arXiv",
+    "archive_location": "2502.12130",
+    "author": [
+      {
+        "literal": "Zhenfang Chen"
+      },
+      {
+        "literal": "Delin Chen"
+      },
+      {
+        "literal": "Rui Sun"
+      },
+      {
+        "literal": "Wenjun Liu"
+      },
+      {
+        "literal": "Chuang Gan"
+      }
+    ],
+    "citation-key": "arxiv_2502_12130",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5cde1d02d18500109d1190869f27eadc5f14d56fd09507d7a415e462c66aca6e",
+        "submitted_at": "2025-02-17T18:49:25Z",
+        "updated_at": "2025-02-17T18:49:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.12130v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.12130",
+      "catalog_id": "arxiv:2502.12130",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-02-17",
+      "identifiers": {
+        "arxiv": "2502.12130"
+      },
+      "record_updated_at": "2025-02-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.12130",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-17; Recorded arXiv version: v1; Recorded version updated: 2025-02-17T18:49:25Z.",
+    "title": "Scaling Autonomous Agents via Automatic Reward Modeling And Planning",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2503.02197v2",
@@ -5153,6 +6382,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.05895v3",
+    "archive": "arXiv",
+    "archive_location": "2505.05895",
+    "author": [
+      {
+        "literal": "Benjamin Raphael Ernhofer"
+      },
+      {
+        "literal": "Daniil Prokhorov"
+      },
+      {
+        "literal": "Jannica Langner"
+      },
+      {
+        "literal": "Dominik Bollmann"
+      }
+    ],
+    "citation-key": "arxiv_2505_05895",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "408b0161343817cce64f149f8bdbb7f91211fd86dc8efb5ff1258f3373370d41",
+        "submitted_at": "2025-05-09T09:01:52Z",
+        "updated_at": "2025-08-05T16:23:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2505.05895v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.05895",
+      "catalog_id": "arxiv:2505.05895",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-09",
+      "identifiers": {
+        "arxiv": "2505.05895"
+      },
+      "record_updated_at": "2025-08-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.05895",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-09; Recorded arXiv version: v3; Recorded version updated: 2025-08-05T16:23:24Z.",
+    "title": "Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.12299v4",
     "archive": "arXiv",
     "archive_location": "2505.12299",
@@ -5597,6 +6881,85 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.15859v1",
+    "archive": "arXiv",
+    "archive_location": "2505.15859",
+    "author": [
+      {
+        "literal": "Tianyi Ma"
+      },
+      {
+        "literal": "Yiyue Qian"
+      },
+      {
+        "literal": "Zheyuan Zhang"
+      },
+      {
+        "literal": "Zehong Wang"
+      },
+      {
+        "literal": "Xiaoye Qian"
+      },
+      {
+        "literal": "Feifan Bai"
+      },
+      {
+        "literal": "Yifan Ding"
+      },
+      {
+        "literal": "Xuwei Luo"
+      },
+      {
+        "literal": "Shinan Zhang"
+      },
+      {
+        "literal": "Keerthiram Murugesan"
+      },
+      {
+        "literal": "Chuxu Zhang"
+      },
+      {
+        "literal": "Yanfang Ye"
+      }
+    ],
+    "citation-key": "arxiv_2505_15859",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f83130cb80d73287ecbc2a548ba0422c35adec45541f22e76c4ee5b1750d7a7f",
+        "submitted_at": "2025-05-21T04:32:35Z",
+        "updated_at": "2025-05-21T04:32:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.15859v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.15859",
+      "catalog_id": "arxiv:2505.15859",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-21",
+      "identifiers": {
+        "arxiv": "2505.15859"
+      },
+      "record_updated_at": "2025-05-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.15859",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-21; Recorded arXiv version: v1; Recorded version updated: 2025-05-21T04:32:35Z.",
+    "title": "AutoData: A Multi-Agent System for Open Web Data Collection",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.16827v1",
     "archive": "arXiv",
     "archive_location": "2505.16827",
@@ -5892,6 +7255,64 @@
     "title": "WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.20023v1",
+    "archive": "arXiv",
+    "archive_location": "2505.20023",
+    "author": [
+      {
+        "literal": "Yihan Chen"
+      },
+      {
+        "literal": "Benfeng Xu"
+      },
+      {
+        "literal": "Xiaorui Wang"
+      },
+      {
+        "literal": "Yongdong Zhang"
+      },
+      {
+        "literal": "Zhendong Mao"
+      }
+    ],
+    "citation-key": "arxiv_2505_20023",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f3c91f5b701650968bb2f3bbb468adf0fabedc476ecb04ba3f1a5206005102be",
+        "submitted_at": "2025-05-26T14:11:12Z",
+        "updated_at": "2025-05-26T14:11:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.20023v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.20023",
+      "catalog_id": "arxiv:2505.20023",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-26",
+      "identifiers": {
+        "arxiv": "2505.20023"
+      },
+      "record_updated_at": "2025-05-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.20023",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-26; Recorded arXiv version: v1; Recorded version updated: 2025-05-26T14:11:12Z.",
+    "title": "Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2505.20660v1",
@@ -6829,6 +8250,61 @@
     "title": "ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.04370v1",
+    "archive": "arXiv",
+    "archive_location": "2507.04370",
+    "author": [
+      {
+        "literal": "Yifei Gao"
+      },
+      {
+        "literal": "Junhong Ye"
+      },
+      {
+        "literal": "Jiaqi Wang"
+      },
+      {
+        "literal": "Jitao Sang"
+      }
+    ],
+    "citation-key": "arxiv_2507_04370",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "14b2fdc0dbafa60f279c4a7530bf7e66dca471c67d9767235224f65a023c5f25",
+        "submitted_at": "2025-07-06T12:31:10Z",
+        "updated_at": "2025-07-06T12:31:10Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.04370v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.04370",
+      "catalog_id": "arxiv:2507.04370",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-06",
+      "identifiers": {
+        "arxiv": "2507.04370"
+      },
+      "record_updated_at": "2025-07-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.04370",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-06; Recorded arXiv version: v1; Recorded version updated: 2025-07-06T12:31:10Z.",
+    "title": "WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2507.05720v1",

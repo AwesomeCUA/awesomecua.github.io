@@ -312,6 +312,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Uses step-level confidence estimates to decide when a GUI agent should act autonomously or request human intervention in complex situations.
 - [Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation](https://awesomecua.com/resources/arxiv-2502-17110/) — 2025-02-24
   Extracts operational guidance from video for mobile task execution and introduces Mobile-Knowledge to evaluate the contribution of external knowledge.
+- [MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions](https://awesomecua.com/resources/arxiv-2502-16796/) — 2025-02-24
+  Introduces MobileSteward, which coordinates app-specific phone agents, schedules cross-app tasks, and reuses successful experience; CAPBench evaluates cross-app instructions.
 - [AppVLM: A Lightweight Vision Language Model for Online App Control](https://awesomecua.com/resources/arxiv-2502-06395/) — 2025-02-10
   AppVLM first learns app actions from AndroidControl and then refines its policy through data collected in AndroidWorld. The study compares offline action prediction and online task completion for a lightweight vision-language smartphone agent.
 - [MobileA3gent: Training Mobile GUI Agents Using Decentralized Self-Sourced Data from Diverse Users](https://awesomecua.com/resources/arxiv-2502-02982/) — 2025-02-05
@@ -320,12 +322,16 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Splits mobile tasks into reaching the required page and operating on it, using subtask data and preferred GUI trajectories for training.
 - [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://awesomecua.com/resources/arxiv-2501-11733/) — 2025-01-20
   Uses hierarchical mobile agents and persistent tips and reusable action shortcuts to improve complex tasks from accumulated experience.
+- [Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation](https://awesomecua.com/resources/arxiv-2501-02863/) — 2025-01-06
+  Sphinx benchmarks foundation models on goal-based mobile UI navigation, using app test cases and a toolkit that identifies different failure modes.
 - [A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation](https://awesomecua.com/resources/arxiv-2501-01149/) — 2025-01-02
   Introduces Android Agent Arena with online application tasks and procedural evaluation based on reaching essential intermediate states.
 - [GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent](https://awesomecua.com/resources/arxiv-2412-18426/) — 2024-12-24
   Evaluates GUI testing through test-intent generation, execution, and defect detection using real, modified, and synthetic mobile application data.
 - [AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation](https://awesomecua.com/resources/arxiv-2412-18116/) — 2024-12-24
   Recasts mobile UI automation as on-device code generation, using app-specific documentation and synthetic tasks to guide smaller models.
+- [Automated Test Transfer Across Android Apps Using Large Language Models](https://awesomecua.com/resources/arxiv-2411-17933/) — 2024-11-26
+  LLMigrate uses LLMs to transfer usage-based UI tests between mobile apps with similar functions, reducing the need to write tests for each app.
 - [Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms](https://awesomecua.com/resources/arxiv-2411-10943/) — 2024-11-17
   Surveys virtual agents for browsers, applications and operating systems, organizing prior work by task type, observation and action spaces, model strategies and evaluation methods. It examines screen-based interaction and keyboard, mouse and touch control, alongside transferability and long-sequence decision-making challenges.
 - [Foundations and Recent Trends in Multimodal Mobile Agents: A Survey](https://awesomecua.com/resources/arxiv-2411-02006/) — 2024-11-04
@@ -396,12 +402,18 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Introduces MobileGPT, which organizes mobile-app experience into reusable subtasks using an explore, select, derive, and recall cycle. Its memory supports learning task procedures and adapting them to new contexts.
 - [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://awesomecua.com/resources/arxiv-2311-07562/) — 2023-11-13
   Studies MM-Navigator, a multimodal agent that interprets smartphone screenshots and predicts localized actions without task-specific training.
+- [Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions](https://awesomecua.com/resources/arxiv-2310-15780/) — 2023-10-24
+  Introduces GPTDroid for mobile GUI testing: it feeds app page information to an LLM, runs generated test scripts and uses feedback and memory to guide further exploration.
+- [CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace](https://awesomecua.com/resources/arxiv-2310-07128/) — 2023-10-11
+  Introduces CrashTranslator, which predicts GUI exploration steps from stack traces with an LLM and uses RL-guided search to reproduce crashes in Android apps.
 - [You Only Look at Screens: Multimodal Chain-of-Action Agents](https://awesomecua.com/resources/arxiv-2309-11436/) — 2023-09-20
   Introduces Auto-GUI, a screenshot-based agent using previous actions and future action plans to guide device interaction.
 - [AutoDroid: LLM-powered Task Automation in Android](https://awesomecua.com/resources/arxiv-2308-15272/) — 2023-08-29
   Combines language-model reasoning with app analysis, UI representations, and exploration-derived memory for Android task automation.
 - [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://awesomecua.com/resources/arxiv-2307-10088/) — 2023-07-19
   Collects Android interaction demonstrations with screens, actions, and instructions across device and platform variations for robustness evaluation.
+- [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](https://awesomecua.com/resources/arxiv-2306-01987/) — 2023-06-03
+  Introduces AdbGPT, a prompting-based approach that uses LLMs to replay app bugs from written reports, applying few-shot examples and reasoning without model training.
 - [DroidBot-GPT: GPT-powered UI Automation for Android](https://awesomecua.com/resources/arxiv-2304-07061/) — 2023-04-14
   Transforms Android UI states and available actions into language prompts for an LLM to choose and execute task steps.
 - [UGIF: UI Grounded Instruction Following](https://awesomecua.com/resources/arxiv-2211-07615/) — 2022-11-14
@@ -412,6 +424,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Introduces GUI-based task-oriented dialogue and a dataset pairing mobile-interface operations with conversational responses.
 - [A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility](https://awesomecua.com/resources/arxiv-2202-02312/) — 2022-02-04
   Introduces MoTIF mobile-app interactions with feasible and infeasible commands, feasibility explanations, and follow-up questions for ambiguous requests.
+- [AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning](https://awesomecua.com/resources/arxiv-2106-00133/) — 2021-05-31
+  Introduces AppBuddy, an RL training platform and task suite for mobile apps where agents use on-screen element states and tap or type to complete multi-step tasks.
 - [Mapping Natural Language Instructions to Mobile UI Action Sequences](https://awesomecua.com/resources/arxiv-2005-03776/) — 2020-05-07
   Introduces PIXELHELP for predicting mobile UI action sequences from instructions, together with action-phrase annotations and synthetic UI action descriptions for training. Separate Transformers extract instruction steps and ground object descriptions using interface content and screen position.
 - [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations](https://awesomecua.com/resources/arxiv-1909-00031/) — 2019-08-30

@@ -163,6 +163,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2412.13810v3",
+    "archive": "arXiv",
+    "archive_location": "2412.13810",
+    "author": [
+      {
+        "literal": "Dimitrios Mallis"
+      },
+      {
+        "literal": "Ahmet Serdar Karadeniz"
+      },
+      {
+        "literal": "Sebastian Cavada"
+      },
+      {
+        "literal": "Danila Rukhovich"
+      },
+      {
+        "literal": "Niki Foteinopoulou"
+      },
+      {
+        "literal": "Kseniya Cherenkova"
+      },
+      {
+        "literal": "Anis Kacem"
+      },
+      {
+        "literal": "Djamila Aouada"
+      }
+    ],
+    "citation-key": "arxiv_2412_13810",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f60272fa5cd2d012e0203f53440d834e996011e4577ed087e4783eae189a9c83",
+        "submitted_at": "2024-12-18T12:57:56Z",
+        "updated_at": "2025-08-26T14:18:02Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2412.13810v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.13810",
+      "catalog_id": "arxiv:2412.13810",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-12-18",
+      "identifiers": {
+        "arxiv": "2412.13810"
+      },
+      "record_updated_at": "2025-08-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2412.13810",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-08-26T14:18:02Z.",
+    "title": "CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.19897v3",
     "archive": "arXiv",
     "archive_location": "2505.19897",

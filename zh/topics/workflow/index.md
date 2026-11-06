@@ -140,10 +140,16 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   ScienceBoard combines an interactive environment with professional scientific software and 169 human-curated tasks in areas including biochemistry, astronomy, and geoinformatics. It evaluates computer-use agents on visually rich research workflows and analyzes their execution limitations.
 - [Towards Enterprise-Ready Computer Using Generalist Agent](https://awesomecua.com/resources/arxiv-2503-01861/) — 2025-02-24
   Describes the CUGA enterprise-agent development process, emphasizing iterative evaluation, failure analysis, and refinement on software-task benchmarks.
+- [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://awesomecua.com/resources/arxiv-2502-01600/) — 2025-02-03
+  LOOP trains interactive digital agents with reinforcement learning in stateful, multi-app environments where tasks are performed through API calls.
 - [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://awesomecua.com/resources/arxiv-2412-14161/) — 2024-12-18
   Simulates a software-company workplace to evaluate agents on professional tasks involving websites, programs, files, and coworker communication.
 - [ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data](https://awesomecua.com/resources/arxiv-2411-15004/) — 2024-11-22
   Studies fine-tuning open language models on production web-workflow traces, including training choices for specialized web agents.
+- [WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models](https://awesomecua.com/resources/arxiv-2411-05451/) — 2024-11-08
+  WorkflowLLM builds WorkflowBench from application API workflows and synthetic queries, then trains WorkflowLlama to generate multi-application workflows.
+- [Infogent: An Agent-Based Framework for Web Information Aggregation](https://awesomecua.com/resources/arxiv-2410-19054/) — 2024-10-24
+  Infogent separates navigation, extraction and aggregation for web information gathering, including browser interaction through webpage screenshots.
 - [Agent Workflow Memory](https://awesomecua.com/resources/arxiv-2409-07429/) — 2024-09-11
   Agent Workflow Memory extracts reusable task routines and selectively supplies them to guide later web actions. It studies both offline workflow induction from training examples and online induction from test experience on Mind2Web and WebArena.
 - [IDA: Breaking Barriers in No-code UI Automation Through Large Language Models and Human-Centric Design](https://awesomecua.com/resources/arxiv-2407-15673/) — 2024-07-22
@@ -156,14 +162,20 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Introduces WONDERBREAD, a benchmark pairing human WebArena workflow demonstrations with screen recordings, action logs, and written procedures. Six evaluation tasks cover documentation, knowledge transfer, and process improvement beyond end-to-end execution.
 - [SmartFlow: Robotic Process Automation using LLMs](https://awesomecua.com/resources/arxiv-2405-12842/) — 2024-05-21
   Presents SmartFlow, which converts visible GUI elements into text for language-model action planning and executes the plan through a scripting engine. A collection of enterprise applications evaluates adaptation to different layouts and tasks.
+- [Automating the Enterprise with Foundation Models](https://awesomecua.com/resources/arxiv-2405-03710/) — 2024-05-03
+  ECLAIR uses multimodal foundation models to automate enterprise workflows from natural-language descriptions, with initial studies of workflow understanding and completion.
 - [Prompt2Task: Automating UI Tasks on Smartphones from Textual Prompts](https://awesomecua.com/resources/arxiv-2404-02475/) — 2024-04-03
   Prompt2Task converts textual goals or procedures into smartphone UI automation using agents for intent interpretation, external-information handling, and execution. User feedback and accumulated task knowledge support subsequent task generation and operation.
+- [FlowMind: Automatic Workflow Generation with LLMs](https://awesomecua.com/resources/arxiv-2404-13050/) — 2024-03-17
+  FlowMind generates API-based workflows from user requests for process automation and presents workflow descriptions that users can inspect and comment on.
 - [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://awesomecua.com/resources/arxiv-2403-07718/) — 2024-03-12
   Introduces enterprise web tasks on ServiceNow and BrowserGym interfaces for evaluating browser-based agents.
 - [PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion](https://awesomecua.com/resources/arxiv-2403-03788/) — 2024-03-06
   Benchmarks robustness of API-based PowerPoint completion under sentence-level, semantic, and multilingual instruction perturbations and changes to the available API set.
 - [MobileAgent: enhancing mobile control via human-machine interaction and SOP integration](https://awesomecua.com/resources/arxiv-2401-04124/) — 2024-01-04
   Combines operating-procedure context with user interaction to guide mobile task automation and handle personalized or sensitive requests.
+- [ProAgent: From Robotic Process Automation to Agentic Process Automation](https://awesomecua.com/resources/arxiv-2311-10751/) — 2023-11-02
+  Introduces ProAgent, an LLM-based agent that builds automation workflows from human instructions and coordinates specialized agents during workflow execution.
 - [InstructExcel: A Benchmark for Natural Language Instruction in Excel](https://awesomecua.com/resources/arxiv-2310-14495/) — 2023-10-23
   Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from natural-language requests, built using scripts recorded from user actions and a collection of existing spreadsheets.
 - [SteP: Stacked LLM Policies for Web Actions](https://awesomecua.com/resources/arxiv-2310-03720/) — 2023-10-05

@@ -1,5 +1,66 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2106.00133v2",
+    "archive": "arXiv",
+    "archive_location": "2106.00133",
+    "author": [
+      {
+        "literal": "Maayan Shvo"
+      },
+      {
+        "literal": "Zhiming Hu"
+      },
+      {
+        "literal": "Rodrigo Toro Icarte"
+      },
+      {
+        "literal": "Iqbal Mohomed"
+      },
+      {
+        "literal": "Allan Jepson"
+      },
+      {
+        "literal": "Sheila A. McIlraith"
+      }
+    ],
+    "citation-key": "arxiv_2106_00133",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "861f231a3751fa1346e81a1fc1c3d7450f5739b730bed77d9d4834b53d0ee561",
+        "submitted_at": "2021-05-31T23:02:38Z",
+        "updated_at": "2021-06-06T17:56:58Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2106.00133v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2106.00133",
+      "catalog_id": "arxiv:2106.00133",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2021-05-31",
+      "identifiers": {
+        "arxiv": "2106.00133"
+      },
+      "record_updated_at": "2021-06-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2106.00133",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2021-05-31; Recorded arXiv version: v2; Recorded version updated: 2021-06-06T17:56:58Z.",
+    "title": "AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2307.13854v4",
     "archive": "arXiv",
     "archive_location": "2307.13854",
@@ -130,6 +191,76 @@
     },
     "note": "First published: 2023-11-30; Recorded arXiv version: v3; Recorded version updated: 2024-12-31T04:24:16Z.",
     "title": "Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2403.03636v3",
+    "archive": "arXiv",
+    "archive_location": "2403.03636",
+    "author": [
+      {
+        "literal": "Yibin Chen"
+      },
+      {
+        "literal": "Yifu Yuan"
+      },
+      {
+        "literal": "Zeyu Zhang"
+      },
+      {
+        "literal": "Yan Zheng"
+      },
+      {
+        "literal": "Jinyi Liu"
+      },
+      {
+        "literal": "Fei Ni"
+      },
+      {
+        "literal": "Jianye Hao"
+      },
+      {
+        "literal": "Hangyu Mao"
+      },
+      {
+        "literal": "Fuzheng Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2403_03636",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f1fde01350fea1db3d607c19efee666875d94a0d057069266fdf2b46293ada28",
+        "submitted_at": "2024-03-06T11:48:08Z",
+        "updated_at": "2025-03-03T06:56:29Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2403.03636v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.03636",
+      "catalog_id": "arxiv:2403.03636",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-06",
+      "identifiers": {
+        "arxiv": "2403.03636"
+      },
+      "record_updated_at": "2025-03-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.03636",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-06; Recorded arXiv version: v3; Recorded version updated: 2025-03-03T06:56:29Z.",
+    "title": "SheetAgent: Towards A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models",
     "type": "article",
     "version": "3"
   },
@@ -704,6 +835,76 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.14963v1",
+    "archive": "arXiv",
+    "archive_location": "2505.14963",
+    "author": [
+      {
+        "literal": "Shan Chen"
+      },
+      {
+        "literal": "Pedro Moreira"
+      },
+      {
+        "literal": "Yuxin Xiao"
+      },
+      {
+        "literal": "Sam Schmidgall"
+      },
+      {
+        "literal": "Jeremy Warner"
+      },
+      {
+        "literal": "Hugo Aerts"
+      },
+      {
+        "literal": "Thomas Hartvigsen"
+      },
+      {
+        "literal": "Jack Gallifant"
+      },
+      {
+        "literal": "Danielle S. Bitterman"
+      }
+    ],
+    "citation-key": "arxiv_2505_14963",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a227e1d3ab5d05be9df0de9df0de1ae4842c2757ba522304feca3b6008473661",
+        "submitted_at": "2025-05-20T22:42:33Z",
+        "updated_at": "2025-05-20T22:42:33Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.14963v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.14963",
+      "catalog_id": "arxiv:2505.14963",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-20",
+      "identifiers": {
+        "arxiv": "2505.14963"
+      },
+      "record_updated_at": "2025-05-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.14963",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-20; Recorded arXiv version: v1; Recorded version updated: 2025-05-20T22:42:33Z.",
+    "title": "MedBrowseComp: Benchmarking Medical Deep Research and Computer Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.16282v1",
     "archive": "arXiv",
     "archive_location": "2505.16282",
@@ -762,6 +963,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.20732v1",
+    "archive": "arXiv",
+    "archive_location": "2505.20732",
+    "author": [
+      {
+        "literal": "Hanlin Wang"
+      },
+      {
+        "literal": "Chak Tou Leong"
+      },
+      {
+        "literal": "Jiashuo Wang"
+      },
+      {
+        "literal": "Jian Wang"
+      },
+      {
+        "literal": "Wenjie Li"
+      }
+    ],
+    "citation-key": "arxiv_2505_20732",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "08018a5f5d286f25179700b010fe737b3d9c0fe9973236f3ab833f45bf860bb9",
+        "submitted_at": "2025-05-27T05:21:04Z",
+        "updated_at": "2025-05-27T05:21:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.20732v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.20732",
+      "catalog_id": "arxiv:2505.20732",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-27",
+      "identifiers": {
+        "arxiv": "2505.20732"
+      },
+      "record_updated_at": "2025-05-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.20732",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-27; Recorded arXiv version: v1; Recorded version updated: 2025-05-27T05:21:04Z.",
+    "title": "SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.24838v2",
     "archive": "arXiv",
     "archive_location": "2505.24838",
@@ -815,6 +1074,158 @@
     "title": "VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.01952v2",
+    "archive": "arXiv",
+    "archive_location": "2506.01952",
+    "author": [
+      {
+        "literal": "Atsuyuki Miyai"
+      },
+      {
+        "literal": "Zaiying Zhao"
+      },
+      {
+        "literal": "Kazuki Egashira"
+      },
+      {
+        "literal": "Atsuki Sato"
+      },
+      {
+        "literal": "Tatsumi Sunada"
+      },
+      {
+        "literal": "Shota Onohara"
+      },
+      {
+        "literal": "Hiromasa Yamanishi"
+      },
+      {
+        "literal": "Mashiro Toyooka"
+      },
+      {
+        "literal": "Kunato Nishina"
+      },
+      {
+        "literal": "Ryoma Maeda"
+      },
+      {
+        "literal": "Kiyoharu Aizawa"
+      },
+      {
+        "literal": "Toshihiko Yamasaki"
+      }
+    ],
+    "citation-key": "arxiv_2506_01952",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3bbf69a32f626ae8cf012d670aeae75d5d9585448f744ff441a764fe58141f4d",
+        "submitted_at": "2025-06-02T17:59:45Z",
+        "updated_at": "2026-08-08T16:12:12Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2506.01952v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.01952",
+      "catalog_id": "arxiv:2506.01952",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-02",
+      "identifiers": {
+        "arxiv": "2506.01952"
+      },
+      "record_updated_at": "2026-08-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.01952",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-02; Recorded arXiv version: v2; Recorded version updated: 2026-08-08T16:12:12Z.",
+    "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.06287v1",
+    "archive": "arXiv",
+    "archive_location": "2506.06287",
+    "author": [
+      {
+        "literal": "FutureSearch"
+      },
+      {
+        "literal": ":"
+      },
+      {
+        "literal": "Nikos I. Bosse"
+      },
+      {
+        "literal": "Jon Evans"
+      },
+      {
+        "literal": "Robert G. Gambee"
+      },
+      {
+        "literal": "Daniel Hnyk"
+      },
+      {
+        "literal": "Peter Mühlbacher"
+      },
+      {
+        "literal": "Lawrence Phillips"
+      },
+      {
+        "literal": "Dan Schwarz"
+      },
+      {
+        "literal": "Jack Wildman"
+      }
+    ],
+    "citation-key": "arxiv_2506_06287",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "46c17e0a57fe00b8b90aecae86629eb19b83814d5cb0b3b870a03cd89594ee0f",
+        "submitted_at": "2025-05-06T15:28:50Z",
+        "updated_at": "2025-05-06T15:28:50Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.06287v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.06287",
+      "catalog_id": "arxiv:2506.06287",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-06",
+      "identifiers": {
+        "arxiv": "2506.06287"
+      },
+      "record_updated_at": "2025-05-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.06287",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-06; Recorded arXiv version: v1; Recorded version updated: 2025-05-06T15:28:50Z.",
+    "title": "Deep Research Bench: Evaluating AI Web Research Agents",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2506.07976v2",
@@ -1072,6 +1483,127 @@
     },
     "note": "First published: 2025-06-17; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T00:51:36Z.",
     "title": "AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.21506v2",
+    "archive": "arXiv",
+    "archive_location": "2506.21506",
+    "author": [
+      {
+        "literal": "Boyu Gou"
+      },
+      {
+        "literal": "Zanming Huang"
+      },
+      {
+        "literal": "Yuting Ning"
+      },
+      {
+        "literal": "Yu Gu"
+      },
+      {
+        "literal": "Michael Lin"
+      },
+      {
+        "literal": "Weijian Qi"
+      },
+      {
+        "literal": "Andrei Kopanev"
+      },
+      {
+        "literal": "Botao Yu"
+      },
+      {
+        "literal": "Bernal Jiménez Gutiérrez"
+      },
+      {
+        "literal": "Yiheng Shu"
+      },
+      {
+        "literal": "Chan Hee Song"
+      },
+      {
+        "literal": "Jiaman Wu"
+      },
+      {
+        "literal": "Shijie Chen"
+      },
+      {
+        "literal": "Hanane Nour Moussa"
+      },
+      {
+        "literal": "Tianshu Zhang"
+      },
+      {
+        "literal": "Jian Xie"
+      },
+      {
+        "literal": "Yifei Li"
+      },
+      {
+        "literal": "Tianci Xue"
+      },
+      {
+        "literal": "Zeyi Liao"
+      },
+      {
+        "literal": "Kai Zhang"
+      },
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Zhaowei Cai"
+      },
+      {
+        "literal": "Viktor Rozgic"
+      },
+      {
+        "literal": "Morteza Ziyadi"
+      },
+      {
+        "literal": "Huan Sun"
+      },
+      {
+        "literal": "Yu Su"
+      }
+    ],
+    "citation-key": "arxiv_2506_21506",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f0b614feb7733b9d8b287e370d7b61c491b51ef935e46451719002c85dc9ed6f",
+        "submitted_at": "2025-06-26T17:32:50Z",
+        "updated_at": "2025-07-03T15:47:40Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2506.21506v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.21506",
+      "catalog_id": "arxiv:2506.21506",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-06-26",
+      "identifiers": {
+        "arxiv": "2506.21506"
+      },
+      "record_updated_at": "2025-07-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.21506",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-26; Recorded arXiv version: v2; Recorded version updated: 2025-07-03T15:47:40Z.",
+    "title": "Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge",
     "type": "article",
     "version": "2"
   },

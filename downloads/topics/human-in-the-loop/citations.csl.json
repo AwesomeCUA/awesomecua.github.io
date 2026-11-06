@@ -61,6 +61,164 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2104.08560v1",
+    "archive": "arXiv",
+    "archive_location": "2104.08560",
+    "author": [
+      {
+        "literal": "Andrea Burns"
+      },
+      {
+        "literal": "Deniz Arsan"
+      },
+      {
+        "literal": "Sanjna Agrawal"
+      },
+      {
+        "literal": "Ranjitha Kumar"
+      },
+      {
+        "literal": "Kate Saenko"
+      },
+      {
+        "literal": "Bryan A. Plummer"
+      }
+    ],
+    "citation-key": "arxiv_2104_08560",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "da0efe4e827a9d5ac3a662b6d4a792bf6573eb596c61b72c3227cd556ff6afb7",
+        "submitted_at": "2021-04-17T14:48:02Z",
+        "updated_at": "2021-04-17T14:48:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2104.08560v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2104.08560",
+      "catalog_id": "arxiv:2104.08560",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2021-04-17",
+      "identifiers": {
+        "arxiv": "2104.08560"
+      },
+      "record_updated_at": "2021-04-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2104.08560",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2021-04-17; Recorded arXiv version: v1; Recorded version updated: 2021-04-17T14:48:02Z.",
+    "title": "Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2112.09332v3",
+    "archive": "arXiv",
+    "archive_location": "2112.09332",
+    "author": [
+      {
+        "literal": "Reiichiro Nakano"
+      },
+      {
+        "literal": "Jacob Hilton"
+      },
+      {
+        "literal": "Suchir Balaji"
+      },
+      {
+        "literal": "Jeff Wu"
+      },
+      {
+        "literal": "Long Ouyang"
+      },
+      {
+        "literal": "Christina Kim"
+      },
+      {
+        "literal": "Christopher Hesse"
+      },
+      {
+        "literal": "Shantanu Jain"
+      },
+      {
+        "literal": "Vineet Kosaraju"
+      },
+      {
+        "literal": "William Saunders"
+      },
+      {
+        "literal": "Xu Jiang"
+      },
+      {
+        "literal": "Karl Cobbe"
+      },
+      {
+        "literal": "Tyna Eloundou"
+      },
+      {
+        "literal": "Gretchen Krueger"
+      },
+      {
+        "literal": "Kevin Button"
+      },
+      {
+        "literal": "Matthew Knight"
+      },
+      {
+        "literal": "Benjamin Chess"
+      },
+      {
+        "literal": "John Schulman"
+      }
+    ],
+    "citation-key": "arxiv_2112_09332",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8a9122bd2c771071f93250e9e330b1f923f1e50c0d829cc3144be43c6b575195",
+        "submitted_at": "2021-12-17T05:43:43Z",
+        "updated_at": "2022-06-01T19:08:11Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2112.09332v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2112.09332",
+      "catalog_id": "arxiv:2112.09332",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2021-12-17",
+      "identifiers": {
+        "arxiv": "2112.09332"
+      },
+      "record_updated_at": "2022-06-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2112.09332",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2021-12-17; Recorded arXiv version: v3; Recorded version updated: 2022-06-01T19:08:11Z.",
+    "title": "WebGPT: Browser-assisted question-answering with human feedback",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2202.02312v3",
     "archive": "arXiv",
     "archive_location": "2202.02312",
@@ -241,6 +399,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2312.10170v4",
+    "archive": "arXiv",
+    "archive_location": "2312.10170",
+    "author": [
+      {
+        "literal": "Wei Li"
+      },
+      {
+        "literal": "Fu-Lin Hsu"
+      },
+      {
+        "literal": "Will Bishop"
+      },
+      {
+        "literal": "Folawiyo Campbell-Ajala"
+      },
+      {
+        "literal": "Max Lin"
+      },
+      {
+        "literal": "Oriana Riva"
+      }
+    ],
+    "citation-key": "arxiv_2312_10170",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "64345477c122c4e1ebefb4ba82c09d6ccce30038f92e0bcf26aac76ca108e8eb",
+        "submitted_at": "2023-12-15T19:37:39Z",
+        "updated_at": "2024-06-28T11:25:41Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2312.10170v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2312.10170",
+      "catalog_id": "arxiv:2312.10170",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-12-15",
+      "identifiers": {
+        "arxiv": "2312.10170"
+      },
+      "record_updated_at": "2024-06-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2312.10170",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2023-12-15; Recorded arXiv version: v4; Recorded version updated: 2024-06-28T11:25:41Z.",
+    "title": "UINav: A Practical Approach to Train On-Device Automation Agents",
+    "type": "article",
+    "version": "4"
+  },
+  {
     "URL": "https://arxiv.org/abs/2401.04124v3",
     "archive": "arXiv",
     "archive_location": "2401.04124",
@@ -415,6 +634,70 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2404.13050v1",
+    "archive": "arXiv",
+    "archive_location": "2404.13050",
+    "author": [
+      {
+        "literal": "Zhen Zeng"
+      },
+      {
+        "literal": "William Watson"
+      },
+      {
+        "literal": "Nicole Cho"
+      },
+      {
+        "literal": "Saba Rahimi"
+      },
+      {
+        "literal": "Shayleen Reynolds"
+      },
+      {
+        "literal": "Tucker Balch"
+      },
+      {
+        "literal": "Manuela Veloso"
+      }
+    ],
+    "citation-key": "arxiv_2404_13050",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c8fc04e8daa1bc15092e24f755abee6f963a34a568894ad3fb12ce3f9a092f6d",
+        "submitted_at": "2024-03-17T00:36:37Z",
+        "updated_at": "2024-03-17T00:36:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2404.13050v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.13050",
+      "catalog_id": "arxiv:2404.13050",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-03-17",
+      "identifiers": {
+        "arxiv": "2404.13050"
+      },
+      "record_updated_at": "2024-03-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.13050",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-17; Recorded arXiv version: v1; Recorded version updated: 2024-03-17T00:36:37Z.",
+    "title": "FlowMind: Automatic Workflow Generation with LLMs",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2405.04497v2",
     "archive": "arXiv",
     "archive_location": "2405.04497",
@@ -477,6 +760,67 @@
     "title": "Unveiling Disparities in Web Task Handling Between Human and Web Agent",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.14596v6",
+    "archive": "arXiv",
+    "archive_location": "2406.14596",
+    "author": [
+      {
+        "literal": "Gabriel Sarch"
+      },
+      {
+        "literal": "Lawrence Jang"
+      },
+      {
+        "literal": "Michael J. Tarr"
+      },
+      {
+        "literal": "William W. Cohen"
+      },
+      {
+        "literal": "Kenneth Marino"
+      },
+      {
+        "literal": "Katerina Fragkiadaki"
+      }
+    ],
+    "citation-key": "arxiv_2406_14596",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "698e2c444a587a109bbc7b3d64b812a3d0cf2ef7148ff02e3e6fe13f19f193fd",
+        "submitted_at": "2024-06-20T17:45:02Z",
+        "updated_at": "2025-09-18T02:44:34Z",
+        "version": 6,
+        "versioned_url": "https://arxiv.org/abs/2406.14596v6"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.14596",
+      "catalog_id": "arxiv:2406.14596",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-06-20",
+      "identifiers": {
+        "arxiv": "2406.14596"
+      },
+      "record_updated_at": "2025-09-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.14596",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-20; Recorded arXiv version: v6; Recorded version updated: 2025-09-18T02:44:34Z.",
+    "title": "VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought",
+    "type": "article",
+    "version": "6"
   },
   {
     "URL": "https://arxiv.org/abs/2407.15673v3",

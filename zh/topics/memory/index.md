@@ -254,6 +254,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Mirage-1 organizes interaction trajectories into execution, core, and meta-skills, then uses them to guide Monte Carlo tree search during online GUI tasks. It introduces AndroidLH for long-horizon evaluation and tests the approach on Android and web-navigation benchmarks.
 - [VerificAgent: Domain-Specific Memory Verification for Scalable Oversight of Aligned Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-02539/) — 2025-06-03
   Introduces VerificAgent, which grows domain-specific memories from task trajectories and subjects them to human fact-checking before deployment. Its OSWorld evaluation treats persistent memory as an auditable constraint on later agent behavior.
+- [WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks](https://awesomecua.com/resources/arxiv-2506-01952/) — 2025-06-02
+  Introduces WebChoreArena, 532 web chores built on WebArena environments to evaluate agents’ retention of page information, calculation, and tracking across pages.
 - [Agent-SAMA: State-Aware Mobile Assistant](https://awesomecua.com/resources/arxiv-2505-23596/) — 2025-05-29
   Models mobile application execution as a finite-state machine to support planning, verification, and recovery across interface transitions.
 - [UI-Evol: Automatic Knowledge Evolving for Computer Use Agents](https://awesomecua.com/resources/arxiv-2505-21964/) — 2025-05-28
@@ -264,6 +266,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Proposes general user models that turn computer-use observations into confidence-weighted propositions and revise them as new context arrives. Demonstrations use this memory to contextualize assistants, manage notifications, and support proactive actions across apps.
 - [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://awesomecua.com/resources/arxiv-2504-13805/) — 2025-04-18
   LearnAct parses human demonstrations into reusable knowledge, retrieves relevant examples, and uses them during mobile GUI task execution. The accompanying LearnGUI benchmark includes 2,252 offline tasks and 101 online tasks for studying adaptation from demonstrations.
+- [Inducing Programmatic Skills for Agentic Tasks](https://awesomecua.com/resources/arxiv-2504-06821/) — 2025-04-09
+  Introduces agent skill induction (ASI), which creates, checks, and reuses program-based skills for web tasks by combining primitive actions into higher-level routines.
 - [ScreenLLM: Stateful Screen Schema for Efficient Action Understanding and Prediction](https://awesomecua.com/resources/arxiv-2503-20978/) — 2025-03-26
   Represents interface interactions with a stateful screen schema to model user behavior and support action understanding and prediction.
 - [COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation](https://awesomecua.com/resources/arxiv-2503-09263/) — 2025-03-12
@@ -274,14 +278,20 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Records interaction history and converts repeated action sequences into reusable high-level shortcuts for mobile GUI tasks.
 - [Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation](https://awesomecua.com/resources/arxiv-2502-17110/) — 2025-02-24
   Extracts operational guidance from video for mobile task execution and introduces Mobile-Knowledge to evaluate the contribution of external knowledge.
+- [MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions](https://awesomecua.com/resources/arxiv-2502-16796/) — 2025-02-24
+  Introduces MobileSteward, which coordinates app-specific phone agents, schedules cross-app tasks, and reuses successful experience; CAPBench evaluates cross-app instructions.
 - [Towards Computer-Using Personal Agents](https://awesomecua.com/resources/arxiv-2503-15515/) — 2025-01-31
   Proposes computer-using personal agents connected to user-controlled data repositories, discussing privacy, interoperability, and collaborative tasks.
+- [R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory](https://awesomecua.com/resources/arxiv-2501-12485/) — 2025-01-21
+  R2D2 gives web agents a replay-buffer map of visited pages and a reflection step for analyzing errors and revising navigation strategies.
 - [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://awesomecua.com/resources/arxiv-2501-11733/) — 2025-01-20
   Uses hierarchical mobile agents and persistent tips and reusable action shortcuts to improve complex tasks from accumulated experience.
 - [Aria-UI: Visual Grounding for GUI Instructions](https://awesomecua.com/resources/arxiv-2412-16256/) — 2024-12-20
   Introduces a vision-based grounding model trained with diverse synthetic instructions and action histories for context-sensitive GUI targeting.
 - [VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks](https://awesomecua.com/resources/arxiv-2410-19100/) — 2024-10-24
   Evaluates whether web agents can retain procedural skills and factual information from long video tutorials and use them during tasks.
+- [Large Language Models Empowered Personalized Web Agents](https://awesomecua.com/resources/arxiv-2410-17236/) — 2024-10-22
+  PersonalWAB benchmarks personalized web tasks, while PUMA retrieves relevant past web behavior to adapt agents' instruction handling and actions.
 - [MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation](https://awesomecua.com/resources/arxiv-2410-13757/) — 2024-10-17
   Combines adaptive mobile-task planning, reflection-based recovery, and multiple memory components, evaluated with MobBench and AndroidArena.
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://awesomecua.com/resources/arxiv-2410-08164/) — 2024-10-10
@@ -292,12 +302,16 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Agent Workflow Memory extracts reusable task routines and selectively supplies them to guide later web actions. It studies both offline workflow induction from training examples and online induction from test experience on Mind2Web and WebArena.
 - [AppAgent v2: Advanced Agent for Flexible Mobile Interactions](https://awesomecua.com/resources/arxiv-2408-11824/) — 2024-08-05
   Separates exploration and deployment while using a structured application knowledge base and retrieval to guide mobile workflows.
+- [VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought](https://awesomecua.com/resources/arxiv-2406-14596/) — 2024-06-20
+  ICAL turns imperfect agent trajectories into reusable strategies and action annotations through reflection and human feedback, with VisualWebArena among its evaluations.
 - [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://awesomecua.com/resources/arxiv-2406-01014/) — 2024-06-03
   Separates mobile planning, decision-making, and reflection, with a memory unit for task progress and relevant content.
 - [MMInA: Benchmarking Multihop Multimodal Internet Agents](https://awesomecua.com/resources/arxiv-2404-09992/) — 2024-04-15
   Evaluates multimodal agents on compositional tasks across changing websites and studies replaying prior trajectories as memory support.
 - [WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents](https://awesomecua.com/resources/arxiv-2404-05902/) — 2024-04-08
   WILBUR learns to rank prior task demonstrations for a web agent’s prompt and synthesizes instructions from past runs. A generated task curriculum and a backtracking mechanism support adaptation and recovery, evaluated on WebVoyager.
+- [AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents](https://awesomecua.com/resources/arxiv-2403-08978/) — 2024-03-13
+  Introduces AutoGuide, which generates conditional, context-aware guidelines from past agent experience to support decisions in sequential tasks, including web navigation.
 - [On the Multi-turn Instruction Following for Conversational Web Agents](https://awesomecua.com/resources/arxiv-2402-15057/) — 2024-02-23
   MT-Mind2Web evaluates web navigation through sequences of conversational user instructions. Self-MAP combines memory-augmented planning with reflection to preserve context and dependencies across those interaction turns.
 - [GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning](https://awesomecua.com/resources/arxiv-2401-14268/) — 2024-01-25
@@ -308,6 +322,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Builds app knowledge through exploration or human demonstrations and uses it to guide multimodal smartphone interactions.
 - [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://awesomecua.com/resources/arxiv-2312-03003/) — 2023-12-04
   Introduces MobileGPT, which organizes mobile-app experience into reusable subtasks using an explore, select, derive, and recall cycle. Its memory supports learning task procedures and adapting them to new contexts.
+- [Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions](https://awesomecua.com/resources/arxiv-2310-15780/) — 2023-10-24
+  Introduces GPTDroid for mobile GUI testing: it feeds app page information to an LLM, runs generated test scripts and uses feedback and memory to guide further exploration.
 - [AutoDroid: LLM-powered Task Automation in Android](https://awesomecua.com/resources/arxiv-2308-15272/) — 2023-08-29
   Combines language-model reasoning with app analysis, UI representations, and exploration-derived memory for Android task automation.
 - [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://awesomecua.com/resources/arxiv-2306-07863/) — 2023-06-13

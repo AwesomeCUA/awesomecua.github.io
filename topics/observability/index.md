@@ -78,6 +78,8 @@ Full source records: https://awesomecua.com/downloads/topics/observability/recor
   FineState-Bench evaluates fine-grained GUI perception and control across desktop, web, and mobile interfaces. Its Visual Diagnostic Assistant separates perception and localization contributions in controlled interaction experiments.
 - [OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-16042/) — 2025-06-19
   OSWorld-Human adds human-determined trajectories to OSWorld to evaluate the efficiency of desktop computer-use agents. The study compares 16 agents and analyzes model-call latency, changes in step duration during task execution, and excess action steps.
+- [Deep Research Bench: Evaluating AI Web Research Agents](https://awesomecua.com/resources/arxiv-2506-06287/) — 2025-05-06
+  Introduces Deep Research Bench, 89 multi-step web research tasks and a frozen collection of scraped pages for evaluating search agents and their traces over time.
 - [WebSuite: Systematically Evaluating Why Web Agents Fail](https://awesomecua.com/resources/arxiv-2406-01623/) — 2024-06-01
   WebSuite organizes browser operations into an action taxonomy and tests both isolated controls and complete workflows. Its diagnostic tasks attribute failures to specific actions, enabling comparison of text-based and multimodal web agents.
 - [AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents](https://awesomecua.com/resources/arxiv-2401-13178/) — 2024-01-24

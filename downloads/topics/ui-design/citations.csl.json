@@ -1,5 +1,130 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2308.05898v2",
+    "archive": "arXiv",
+    "archive_location": "2308.05898",
+    "author": [
+      {
+        "literal": "Jieshan Chen"
+      },
+      {
+        "literal": "Jiamou Sun"
+      },
+      {
+        "literal": "Sidong Feng"
+      },
+      {
+        "literal": "Zhenchang Xing"
+      },
+      {
+        "literal": "Qinghua Lu"
+      },
+      {
+        "literal": "Xiwei Xu"
+      },
+      {
+        "literal": "Chunyang Chen"
+      }
+    ],
+    "citation-key": "arxiv_2308_05898",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d758750525a78e746ec4bcc8f603006b9ff6e2864fc28fc05635d30a53609aaf",
+        "submitted_at": "2023-08-11T01:18:56Z",
+        "updated_at": "2024-11-28T00:01:03Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2308.05898v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2308.05898",
+      "catalog_id": "arxiv:2308.05898",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2023-08-11",
+      "identifiers": {
+        "arxiv": "2308.05898"
+      },
+      "record_updated_at": "2024-11-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2308.05898",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2023-08-11; Recorded arXiv version: v2; Recorded version updated: 2024-11-28T00:01:03Z.",
+    "title": "Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2404.12500v1",
+    "archive": "arXiv",
+    "archive_location": "2404.12500",
+    "author": [
+      {
+        "literal": "Jason Wu"
+      },
+      {
+        "literal": "Yi-Hao Peng"
+      },
+      {
+        "literal": "Amanda Li"
+      },
+      {
+        "literal": "Amanda Swearngin"
+      },
+      {
+        "literal": "Jeffrey P. Bigham"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      }
+    ],
+    "citation-key": "arxiv_2404_12500",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cfdf150f6f3d5e398216664af758070525812c6970b756add9233728951f1845",
+        "submitted_at": "2024-04-18T20:43:08Z",
+        "updated_at": "2024-04-18T20:43:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2404.12500v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.12500",
+      "catalog_id": "arxiv:2404.12500",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-04-18",
+      "identifiers": {
+        "arxiv": "2404.12500"
+      },
+      "record_updated_at": "2024-04-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.12500",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2024-04-18; Recorded arXiv version: v1; Recorded version updated: 2024-04-18T20:43:08Z.",
+    "title": "UIClip: A Data-driven Model for Assessing User Interface Design",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2409.18060v2",
     "archive": "arXiv",
     "archive_location": "2409.18060",
@@ -45,6 +170,231 @@
     },
     "note": "First published: 2024-09-26; Recorded arXiv version: v2; Recorded version updated: 2024-10-07T19:04:38Z.",
     "title": "Inferring Alt-text For UI Icons With Large Language Models During App Development",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.12561v3",
+    "archive": "arXiv",
+    "archive_location": "2502.12561",
+    "author": [
+      {
+        "literal": "Yuxuan Lu"
+      },
+      {
+        "literal": "Bingsheng Yao"
+      },
+      {
+        "literal": "Hansu Gu"
+      },
+      {
+        "literal": "Jing Huang"
+      },
+      {
+        "literal": "Jessie Wang"
+      },
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Jiri Gesi"
+      },
+      {
+        "literal": "Qi He"
+      },
+      {
+        "literal": "Toby Jia-Jun Li"
+      },
+      {
+        "literal": "Dakuo Wang"
+      }
+    ],
+    "citation-key": "arxiv_2502_12561",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1254a25462ad781b4509df2946fcfe395190d4b7cddd353b01d87a8d68bf3a15",
+        "submitted_at": "2025-02-18T05:55:18Z",
+        "updated_at": "2025-04-05T01:55:09Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2502.12561v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.12561",
+      "catalog_id": "arxiv:2502.12561",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-18",
+      "identifiers": {
+        "arxiv": "2502.12561"
+      },
+      "record_updated_at": "2025-04-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.12561",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-18; Recorded arXiv version: v3; Recorded version updated: 2025-04-05T01:55:09Z.",
+    "title": "UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.09723v4",
+    "archive": "arXiv",
+    "archive_location": "2504.09723",
+    "author": [
+      {
+        "literal": "Yuxuan Lu"
+      },
+      {
+        "literal": "Ting-Yao Hsu"
+      },
+      {
+        "literal": "Hansu Gu"
+      },
+      {
+        "literal": "Limeng Cui"
+      },
+      {
+        "literal": "Yaochen Xie"
+      },
+      {
+        "literal": "William Headden"
+      },
+      {
+        "literal": "Bingsheng Yao"
+      },
+      {
+        "literal": "Akash Veeragouni"
+      },
+      {
+        "literal": "Jiapeng Liu"
+      },
+      {
+        "literal": "Sreyashi Nag"
+      },
+      {
+        "literal": "Jessie Wang"
+      },
+      {
+        "literal": "Dakuo Wang"
+      }
+    ],
+    "citation-key": "arxiv_2504_09723",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "743ccb4cd6202f29784fe6df4cb0b46f6ca9e16c429cbd4cb48cbad99a8fd4d7",
+        "submitted_at": "2025-04-13T21:10:56Z",
+        "updated_at": "2026-03-10T20:51:15Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2504.09723v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.09723",
+      "catalog_id": "arxiv:2504.09723",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-13",
+      "identifiers": {
+        "arxiv": "2504.09723"
+      },
+      "record_updated_at": "2026-03-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.09723",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-13; Recorded arXiv version: v4; Recorded version updated: 2026-03-10T20:51:15Z.",
+    "title": "AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.03733v2",
+    "archive": "arXiv",
+    "archive_location": "2505.03733",
+    "author": [
+      {
+        "literal": "Zimu Lu"
+      },
+      {
+        "literal": "Yunqiao Yang"
+      },
+      {
+        "literal": "Houxing Ren"
+      },
+      {
+        "literal": "Haotian Hou"
+      },
+      {
+        "literal": "Han Xiao"
+      },
+      {
+        "literal": "Ke Wang"
+      },
+      {
+        "literal": "Weikang Shi"
+      },
+      {
+        "literal": "Aojun Zhou"
+      },
+      {
+        "literal": "Mingjie Zhan"
+      },
+      {
+        "literal": "Hongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2505_03733",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b64dd7067a1fd35ca6d4ae546a288fd0aa48fb7779cb971f15255b161695eafe",
+        "submitted_at": "2025-05-06T17:59:15Z",
+        "updated_at": "2025-08-11T07:13:00Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2505.03733v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.03733",
+      "catalog_id": "arxiv:2505.03733",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-06",
+      "identifiers": {
+        "arxiv": "2505.03733"
+      },
+      "record_updated_at": "2025-08-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.03733",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-06; Recorded arXiv version: v2; Recorded version updated: 2025-08-11T07:13:00Z.",
+    "title": "WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch",
     "type": "article",
     "version": "2"
   },
@@ -114,6 +464,116 @@
     "title": "Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding",
     "type": "article",
     "version": "5"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.05895v3",
+    "archive": "arXiv",
+    "archive_location": "2505.05895",
+    "author": [
+      {
+        "literal": "Benjamin Raphael Ernhofer"
+      },
+      {
+        "literal": "Daniil Prokhorov"
+      },
+      {
+        "literal": "Jannica Langner"
+      },
+      {
+        "literal": "Dominik Bollmann"
+      }
+    ],
+    "citation-key": "arxiv_2505_05895",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "408b0161343817cce64f149f8bdbb7f91211fd86dc8efb5ff1258f3373370d41",
+        "submitted_at": "2025-05-09T09:01:52Z",
+        "updated_at": "2025-08-05T16:23:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2505.05895v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.05895",
+      "catalog_id": "arxiv:2505.05895",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-09",
+      "identifiers": {
+        "arxiv": "2505.05895"
+      },
+      "record_updated_at": "2025-08-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.05895",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-09; Recorded arXiv version: v3; Recorded version updated: 2025-08-05T16:23:24Z.",
+    "title": "Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.10953v1",
+    "archive": "arXiv",
+    "archive_location": "2506.10953",
+    "author": [
+      {
+        "literal": "Xing Han Lù"
+      },
+      {
+        "literal": "Gaurav Kamath"
+      },
+      {
+        "literal": "Marius Mosbach"
+      },
+      {
+        "literal": "Siva Reddy"
+      }
+    ],
+    "citation-key": "arxiv_2506_10953",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c73f4a7361e714b57de5a49631caa8b342850c79a1a6fa5354ec01b9f8b648ef",
+        "submitted_at": "2025-06-12T17:53:58Z",
+        "updated_at": "2025-06-12T17:53:58Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.10953v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.10953",
+      "catalog_id": "arxiv:2506.10953",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-12",
+      "identifiers": {
+        "arxiv": "2506.10953"
+      },
+      "record_updated_at": "2025-06-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.10953",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-12; Recorded arXiv version: v1; Recorded version updated: 2025-06-12T17:53:58Z.",
+    "title": "Build the web for agents, not agents for the web",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2507.12844v2",
