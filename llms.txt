@@ -1,33 +1,105 @@
 # AwesomeCUA
 
-> A source-backed computer-use agent resource catalog. Distinguish curated entries from metadata-only bibliography records.
+> Source-backed catalog of computer-use, GUI, browser and mobile agents: 1,864 curated resources (1,391 papers and surveys, 473 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source with evidence, review dates and separate license declarations. 628 metadata-only bibliography records await relevance review and are labeled separately.
 
-Resource counts are not independent project counts. Primary-source retrieval does not establish reproducibility. Code, data, weights, and document licenses are separate.
+Counts are resources, not independent projects. Code, data, weights and document licenses are separate. Every resource, category, topic and research-library page has a Markdown version at `index.md` beside it, and every resource page its complete record at `record.json`.
 
-## Start here
+## Catalog by kind
 
-- [Catalog](https://awesomecua.com/catalog/): resource categories
-- [Research](https://awesomecua.com/papers/): reviewed papers and surveys
-- [中文论文库](https://awesomecua.com/zh/papers/): 按年份浏览论文与综述
-- [Guides](https://awesomecua.com/guides/): definitions and practical reading guides
-- [Editorial policy](https://awesomecua.com/about/): review states and limits
-- [Coverage](https://awesomecua.com/coverage/): source populations and known gaps
-- [Data downloads](https://awesomecua.com/data/): structured catalog with provenance
+- [Models and checkpoints](https://awesomecua.com/categories/model/index.md): 98 curated records
+- [Datasets](https://awesomecua.com/categories/dataset/index.md): 86 curated records
+- [Benchmarks](https://awesomecua.com/categories/benchmark/index.md): 91 curated records
+- [Agents](https://awesomecua.com/categories/agent/index.md): 45 curated records
+- [Frameworks](https://awesomecua.com/categories/framework/index.md): 79 curated records
+- [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md): 14 curated records
+- [Tools](https://awesomecua.com/categories/tool/index.md): 22 curated records
+- [Products](https://awesomecua.com/categories/product/index.md): 20 curated records
+- [Publishers](https://awesomecua.com/categories/company/index.md): 16 curated records
+- [Learning resources](https://awesomecua.com/categories/learning/index.md): 2 curated records
+- [Surveys](https://awesomecua.com/categories/survey/index.md): 23 curated records
+- [Research papers](https://awesomecua.com/categories/paper/index.md): 1,368 curated records; listed 60 per page in the research library below
 
-## Machine-readable access
+## Research library
 
-- [Full catalog JSONL](https://awesomecua.com/downloads/catalog.jsonl)
-- [Curated annotations in Markdown](https://awesomecua.com/llms-full.txt)
-- [Research Atom feed](https://awesomecua.com/feed.xml)
+Reviewed papers and surveys, newest publication first, 60 per page with full annotations. The same pages in Chinese: https://awesomecua.com/zh/papers/
 
-Resource HTML pages have a companion `index.md` at the same path. This file is an optional navigation aid, not an indexing requirement or a request to rank this site.
+- [Page 1](https://awesomecua.com/papers/index.md): published 2026-10-19 to 2026-10-08
+- [Page 2](https://awesomecua.com/papers/page/2/index.md): published 2026-10-08 to 2026-09-26
+- [Page 3](https://awesomecua.com/papers/page/3/index.md): published 2026-09-26 to 2026-08-28
+- [Page 4](https://awesomecua.com/papers/page/4/index.md): published 2026-08-28 to 2026-07-25
+- [Page 5](https://awesomecua.com/papers/page/5/index.md): published 2026-07-24 to 2026-06-15
+- [Page 6](https://awesomecua.com/papers/page/6/index.md): published 2026-06-15 to 2026-05-14
+- [Page 7](https://awesomecua.com/papers/page/7/index.md): published 2026-05-13 to 2026-04-08
+- [Page 8](https://awesomecua.com/papers/page/8/index.md): published 2026-04-08 to 2026-02-19
+- [Page 9](https://awesomecua.com/papers/page/9/index.md): published 2026-02-19 to 2026-01-30
+- [Page 10](https://awesomecua.com/papers/page/10/index.md): published 2026-01-29 to 2025-12-17
+- [Page 11](https://awesomecua.com/papers/page/11/index.md): published 2025-12-16 to 2025-10-28
+- [Page 12](https://awesomecua.com/papers/page/12/index.md): published 2025-10-28 to 2025-10-02
+- [Page 13](https://awesomecua.com/papers/page/13/index.md): published 2025-10-01 to 2025-09-01
+- [Page 14](https://awesomecua.com/papers/page/14/index.md): published 2025-09-01 to 2025-07-21
+- [Page 15](https://awesomecua.com/papers/page/15/index.md): published 2025-07-21 to 2025-06-03
+- [Page 16](https://awesomecua.com/papers/page/16/index.md): published 2025-06-03 to 2025-05-09
+- [Page 17](https://awesomecua.com/papers/page/17/index.md): published 2025-05-08 to 2025-03-18
+- [Page 18](https://awesomecua.com/papers/page/18/index.md): published 2025-03-16 to 2025-01-18
+- [Page 19](https://awesomecua.com/papers/page/19/index.md): published 2025-01-13 to 2024-10-18
+- [Page 20](https://awesomecua.com/papers/page/20/index.md): published 2024-10-17 to 2024-06-27
+- [Page 21](https://awesomecua.com/papers/page/21/index.md): published 2024-06-21 to 2024-03-13
+- [Page 22](https://awesomecua.com/papers/page/22/index.md): published 2024-03-12 to 2023-08-29
+- [Page 23](https://awesomecua.com/papers/page/23/index.md): published 2023-08-11 to 2018
+- [Page 24](https://awesomecua.com/papers/page/24/index.md): published 2018 to 1991
 
-## Compare source-reviewed specifications
+## Topics
 
-- [Benchmark protocols](https://awesomecua.com/compare/benchmarks/)
-- [Dataset profiles](https://awesomecua.com/compare/datasets/)
-- [Benchmark profiles JSON](https://awesomecua.com/downloads/benchmarks-profiles.json)
-- [Dataset profiles JSON](https://awesomecua.com/downloads/datasets-profiles.json)
+Reviewed topic membership; resources can belong to several topics, so counts overlap. Chinese topic pages: https://awesomecua.com/zh/topics/
+
+- [Action prediction](https://awesomecua.com/topics/action-prediction/index.md): 58 reviewed resources
+- [Automation](https://awesomecua.com/topics/automation/index.md): 141 reviewed resources
+- [Cross-app](https://awesomecua.com/topics/cross-app/index.md): 62 reviewed resources
+- [Data generation](https://awesomecua.com/topics/data-generation/index.md): 387 reviewed resources
+- [Efficiency](https://awesomecua.com/topics/efficiency/index.md): 177 reviewed resources
+- [Evaluation](https://awesomecua.com/topics/evaluation/index.md): 805 reviewed resources
+- [GUI grounding](https://awesomecua.com/topics/grounding/index.md): 393 reviewed resources
+- [Historical](https://awesomecua.com/topics/history/index.md): 4 reviewed resources
+- [Human in the loop](https://awesomecua.com/topics/human-in-the-loop/index.md): 97 reviewed resources
+- [Imitation learning](https://awesomecua.com/topics/imitation-learning/index.md): 94 reviewed resources
+- [Industry](https://awesomecua.com/topics/industry/index.md): 30 reviewed resources
+- [Interaction history](https://awesomecua.com/topics/interaction-history/index.md): 65 reviewed resources
+- [Long-horizon tasks](https://awesomecua.com/topics/long-horizon/index.md): 123 reviewed resources
+- [Memory](https://awesomecua.com/topics/memory/index.md): 187 reviewed resources
+- [Mobile navigation](https://awesomecua.com/topics/mobile-navigation/index.md): 298 reviewed resources
+- [Observability](https://awesomecua.com/topics/observability/index.md): 52 reviewed resources
+- [Planning](https://awesomecua.com/topics/planning/index.md): 325 reviewed resources
+- [Recording](https://awesomecua.com/topics/recording/index.md): 25 reviewed resources
+- [Reinforcement learning](https://awesomecua.com/topics/reinforcement-learning/index.md): 270 reviewed resources
+- [Reward models](https://awesomecua.com/topics/reward-models/index.md): 73 reviewed resources
+- [Robustness](https://awesomecua.com/topics/robustness/index.md): 190 reviewed resources
+- [Safety & security](https://awesomecua.com/topics/safety-security/index.md): 241 reviewed resources
+- [Sandboxes](https://awesomecua.com/topics/sandbox/index.md): 68 reviewed resources
+- [Scientific workflows](https://awesomecua.com/topics/science/index.md): 21 reviewed resources
+- [Screen understanding](https://awesomecua.com/topics/screen-understanding/index.md): 241 reviewed resources
+- [Self-reflection](https://awesomecua.com/topics/self-reflection/index.md): 54 reviewed resources
+- [State tracking](https://awesomecua.com/topics/state-tracking/index.md): 56 reviewed resources
+- [Survey](https://awesomecua.com/topics/survey/index.md): 24 reviewed resources
+- [Tool integration](https://awesomecua.com/topics/tool-integration/index.md): 153 reviewed resources
+- [Training-free methods](https://awesomecua.com/topics/training-free/index.md): 36 reviewed resources
+- [UI design](https://awesomecua.com/topics/ui-design/index.md): 39 reviewed resources
+- [Video](https://awesomecua.com/topics/video/index.md): 43 reviewed resources
+- [Web navigation](https://awesomecua.com/topics/web-navigation/index.md): 364 reviewed resources
+- [Workflows](https://awesomecua.com/topics/workflow/index.md): 132 reviewed resources
+- [World models](https://awesomecua.com/topics/world-models/index.md): 53 reviewed resources
+
+## Static API
+
+Versioned JSON and CSV under https://awesomecua.com/api/v1/; every file carries `version` and `generated_at`.
+
+- [API documentation](https://awesomecua.com/api/index.md): endpoints, fields, review states and versioning
+- [API index](https://awesomecua.com/api/v1/index.json): endpoint list with counts, byte sizes and SHA-256
+- [JSON Schema](https://awesomecua.com/api/v1/schema.json)
+- [resources.json](https://awesomecua.com/api/v1/resources.json) ([CSV](https://awesomecua.com/api/v1/resources.csv)): Curated resources other than papers: models, datasets, benchmarks, agents, frameworks, infrastructure, tools, products, publishers and learning resources.
+- [papers.json](https://awesomecua.com/api/v1/papers.json) ([CSV](https://awesomecua.com/api/v1/papers.csv)): Curated research papers and surveys, with authors, recorded publication dates, arXiv versions and citation files.
+- [categories.json](https://awesomecua.com/api/v1/categories.json) ([CSV](https://awesomecua.com/api/v1/categories.csv)): Resource kinds and research topics with curated counts and links to their pages, Markdown and data.
+- [changes.json](https://awesomecua.com/api/v1/changes.json) ([CSV](https://awesomecua.com/api/v1/changes.csv)): Catalog events in the 30 days before the snapshot: editorial reviews, new bibliography records and scope exclusions.
+- [candidates.json](https://awesomecua.com/api/v1/candidates.json) ([CSV](https://awesomecua.com/api/v1/candidates.csv)): UNREVIEWED rows, clearly flagged: bibliography records awaiting relevance review and discovered identifiers awaiting any review. Not part of the curated catalog.
 
 ## Agent and RAG access
 
@@ -41,54 +113,30 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 - [Reviewed retrieval documents](https://awesomecua.com/downloads/rag-documents.jsonl)
 - [All retrieval documents](https://awesomecua.com/downloads/rag-all-records.jsonl)
 - [Export manifest](https://awesomecua.com/downloads/rag-manifest.json)
+- [Full catalog JSONL](https://awesomecua.com/downloads/catalog.jsonl): every active record, including metadata-only ones
 
-## Individual records and citations
+## Guides and policies
 
-Each active resource page serves its complete record at `record.json`. Scope-excluded resources return a JSON object with `status: excluded`, not an active record.
+- [What are computer-use agents?](https://awesomecua.com/guides/what-are-computer-use-agents/): Understand the observe–plan–act loop, how GUI agents differ from browser automation, and which research resources help you get started.
+- [How to choose a GUI-agent benchmark](https://awesomecua.com/guides/gui-agent-benchmarks/): Compare desktop task execution, browser workflows, mobile environments, and GUI grounding, and preserve the evaluation conditions needed for meaningful comparisons.
+- [Where to find training data for GUI agents](https://awesomecua.com/guides/gui-agent-training-data/): Distinguish grounding examples, interaction trajectories, screen understanding data, and benchmark tasks, with primary dataset sources and separate licensing checks.
+- [Editorial policy](https://awesomecua.com/about/): review states, inclusion boundary and corrections
+- [Coverage ledger](https://awesomecua.com/coverage/): source populations and known gaps
+- [Catalog updates](https://awesomecua.com/updates/): scan schedule and the latest completed scan
 
-- [Reviewed paper BibTeX](https://awesomecua.com/downloads/citations.bib)
-- [Reviewed paper CSL JSON](https://awesomecua.com/downloads/citations.csl.json)
-- [Citation manifest](https://awesomecua.com/downloads/citations-manifest.json)
+## Optional
 
-## Publication editions
-
-Default arXiv citations retain the recorded preprint. Publication editions use their own title/authors/date and do not create extra catalog papers. Date components keep their recorded precision.
-
-- [Reviewed publication BibTeX](https://awesomecua.com/downloads/publication-citations.bib)
-- [Reviewed publication CSL JSON](https://awesomecua.com/downloads/publication-citations.csl.json)
-- [Publication observations](https://awesomecua.com/downloads/publications.jsonl)
-- [Publication observation schema](https://awesomecua.com/schemas/publication-observation.schema.json)
-
-Resources with publication metadata also serve `publication-citation.bib` and `publication-citation.csl.json` next to their retained-source citation files.
-
-## Topic collections
-
-- [Topic directory](https://awesomecua.com/topics/)
-- [中文主题目录](https://awesomecua.com/zh/topics/)
-- [Topic manifest](https://awesomecua.com/downloads/topics.json): exact reviewed resource IDs, counts, subset URLs and SHA-256 fingerprints. Topic memberships overlap; counts must not be summed.
-
-The first page of each topic has an index.md listing all of its resources. Each /downloads/topics/<topic>/ directory serves records.jsonl, citations.bib and citations.csl.json. Pass records.jsonl to export_rag.py --input to build a topic-specific retrieval corpus.
-
-## Repository identity
-
-- [Verified former repository names](https://awesomecua.com/downloads/repository-aliases.json): paired official API observations with the same GitHub or Hugging Face repository ID. Use the canonical returned ID for retrieval upserts; aliases add no resources. Record fields and RAG documents retain former names and their alias-scoped evidence.
-- [Repository identity schema](https://awesomecua.com/schemas/repository-alias.schema.json)
-
-## Download inventory
-
-- [Bilingual data hub](https://awesomecua.com/data/)
-- [中文数据中心](https://awesomecua.com/zh/data/)
-- [Download manifest](https://awesomecua.com/downloads/manifest.json): file paths, exact byte sizes, SHA-256 fingerprints, counts and units. Compare catalog_sha256 with the RAG, citation and topic manifests before combining artifacts.
-- [Download manifest schema](https://awesomecua.com/schemas/download-manifest.schema.json)
-- [Hugging Face dataset mirror](https://huggingface.co/datasets/AgPerry/awesome-cua): read-only Parquet and JSONL mirror of these downloads, one config per record type, refreshed every 2 hours. metadata_only and github_candidates are not curated.
-
-## Versioned data
-
-- [Tagged data releases](https://github.com/reacher-z/Awesome-CUA/releases): complete data bundles containing catalog, RAG, citations and topic subsets. Verify SHA256SUMS and retain release-manifest.json, source_commit and catalog_sha256. Repository CLI commands require a source clone at the recorded commit.
-
-## English research survey
-
-- [Computer-use agent survey](https://awesomecua.com/survey/): working manuscript with a separately frozen research inventory; not an additional catalog record.
+- [Complete curated catalog in one file](https://awesomecua.com/llms-full.txt): every curated record once, compactly; full annotations are in the per-kind files above
+- [Atom feed](https://awesomecua.com/feed.xml) and [JSON Feed](https://awesomecua.com/feed.json): the 100 newest reviewed resources
+- [Benchmark protocols](https://awesomecua.com/compare/benchmarks/) and [dataset profiles](https://awesomecua.com/compare/datasets/): source-reviewed specifications ([benchmarks JSON](https://awesomecua.com/downloads/benchmarks-profiles.json), [datasets JSON](https://awesomecua.com/downloads/datasets-profiles.json))
+- [Reviewed paper BibTeX](https://awesomecua.com/downloads/citations.bib), [CSL JSON](https://awesomecua.com/downloads/citations.csl.json) and [citation manifest](https://awesomecua.com/downloads/citations-manifest.json)
+- [Reviewed publication BibTeX](https://awesomecua.com/downloads/publication-citations.bib), [CSL JSON](https://awesomecua.com/downloads/publication-citations.csl.json), [publication observations](https://awesomecua.com/downloads/publications.jsonl) and [their schema](https://awesomecua.com/schemas/publication-observation.schema.json): default arXiv citations keep the recorded preprint; publication editions use their own title, authors and date
+- [Topic manifest](https://awesomecua.com/downloads/topics.json): exact reviewed resource IDs, counts, subset URLs and SHA-256 fingerprints; each /downloads/topics/<topic>/ directory serves records.jsonl, citations.bib and citations.csl.json
+- [Verified former repository names](https://awesomecua.com/downloads/repository-aliases.json) and [their schema](https://awesomecua.com/schemas/repository-alias.schema.json): use the canonical returned ID for retrieval upserts; aliases add no resources
+- [Bilingual data hub](https://awesomecua.com/data/), [中文数据中心](https://awesomecua.com/zh/data/) and [download manifest](https://awesomecua.com/downloads/manifest.json) ([schema](https://awesomecua.com/schemas/download-manifest.schema.json)): file paths, byte sizes, SHA-256 fingerprints, counts and units; compare catalog_sha256 across manifests before combining artifacts
+- [Tagged data releases](https://github.com/reacher-z/Awesome-CUA/releases): complete data bundles; verify SHA256SUMS and retain release-manifest.json, source_commit and catalog_sha256
+- [Hugging Face dataset mirror](https://huggingface.co/datasets/TIGER-Lab/awesome-cua): read-only Parquet and JSONL mirror of these downloads, one config per record type, refreshed every 2 hours. metadata_only and github_candidates are not curated.
+- [Computer-use agent survey](https://awesomecua.com/survey/): working manuscript with a separately frozen research inventory; not an additional catalog record
 - [Survey bibliography](https://awesomecua.com/survey/references.bib)
 - [Survey references JSON](https://awesomecua.com/survey/references.json)
 - [Source reading register](https://awesomecua.com/survey/evidence/reading-index.json)

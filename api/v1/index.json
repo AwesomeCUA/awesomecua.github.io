@@ -1,0 +1,99 @@
+{
+ "version": "1.0.0",
+ "generated_at": "2026-11-06T12:38:02Z",
+ "catalog_sha256": "93e693dfb04bdbbf0db9ec59f57d9e7d4ff68ec08f8c6ca29425f784644e3e6c",
+ "license": "Catalog annotations and these files: MIT. Linked resources, papers, data and weights keep their own terms.",
+ "documentation": "https://awesomecua.com/api/",
+ "schema": "https://awesomecua.com/api/v1/schema.json",
+ "counts": {
+  "curated": {
+   "total": 1864,
+   "papers_and_surveys": 1391,
+   "other_resources": 473,
+   "by_kind": {
+    "paper": 1368,
+    "survey": 23,
+    "learning": 2,
+    "model": 98,
+    "dataset": 86,
+    "benchmark": 91,
+    "agent": 45,
+    "framework": 79,
+    "infrastructure": 14,
+    "tool": 22,
+    "product": 20,
+    "company": 16
+   }
+  },
+  "awaiting_review": {
+   "metadata_only_records": 628,
+   "unresolved_candidate_identifiers": 1971,
+   "github_candidate_repositories": 10077
+  },
+  "active_records": 2492,
+  "snapshot": "2026-11-06T09:00:05Z",
+  "note": "Headline counts use curated, source-reviewed records only. Metadata-only bibliography records and discovered candidates await relevance review and are reported separately; these populations overlap and must not be added together."
+ },
+ "endpoints": [
+  {
+   "name": "resources",
+   "description": "Curated resources other than papers: models, datasets, benchmarks, agents, frameworks, infrastructure, tools, products, publishers and learning resources.",
+   "json": "https://awesomecua.com/api/v1/resources.json",
+   "csv": "https://awesomecua.com/api/v1/resources.csv",
+   "count": 473,
+   "json_bytes": 346925,
+   "json_sha256": "cede34514c397cf993cdac2a673f2767923d0cacd59cd1b78ec8a88bd84832a9",
+   "csv_bytes": 197939,
+   "csv_sha256": "c130e8dc8cee87f19353234976bb0b32c6f03d6d51408a0152ac787daab7e757"
+  },
+  {
+   "name": "papers",
+   "description": "Curated research papers and surveys, with authors, recorded publication dates, arXiv versions and citation files.",
+   "json": "https://awesomecua.com/api/v1/papers.json",
+   "csv": "https://awesomecua.com/api/v1/papers.csv",
+   "count": 1391,
+   "json_bytes": 1381095,
+   "json_sha256": "57aa76156385291ac9fc5ccc043caa94b09b38d490a5ccd0d9b88db6581fb524",
+   "csv_bytes": 950489,
+   "csv_sha256": "bd1860d4aeac2223ce39635cd71aed1f03c5215065dba006ff4a12a257186ba6"
+  },
+  {
+   "name": "categories",
+   "description": "Resource kinds and research topics with curated counts and links to their pages, Markdown and data.",
+   "json": "https://awesomecua.com/api/v1/categories.json",
+   "csv": "https://awesomecua.com/api/v1/categories.csv",
+   "count": 47,
+   "json_bytes": 16203,
+   "json_sha256": "64d47e62d0bcf16cdacf22a75d7a82c0da8823b1179518f663a12cc014a29059",
+   "csv_bytes": 10928,
+   "csv_sha256": "7a0eea4ccd3700dce58766f17bc4af52c933f828ee6415ecd5a13216043ad401"
+  },
+  {
+   "name": "changes",
+   "description": "Catalog events in the 30 days before the snapshot: editorial reviews, new bibliography records and scope exclusions.",
+   "json": "https://awesomecua.com/api/v1/changes.json",
+   "csv": "https://awesomecua.com/api/v1/changes.csv",
+   "count": 3851,
+   "json_bytes": 1461580,
+   "json_sha256": "76af0723e7c07d0bd7fd84d0d7bd4e168f55201af479157fa0dcc4a2112b7817",
+   "csv_bytes": 1188959,
+   "csv_sha256": "644be9b64a56af1e116f4e5d93dd1367a077f0de2dd75c583064eb7ae098ee3d"
+  },
+  {
+   "name": "candidates",
+   "description": "UNREVIEWED rows, clearly flagged: bibliography records awaiting relevance review and discovered identifiers awaiting any review. Not part of the curated catalog.",
+   "json": "https://awesomecua.com/api/v1/candidates.json",
+   "csv": "https://awesomecua.com/api/v1/candidates.csv",
+   "count": 2623,
+   "json_bytes": 1016394,
+   "json_sha256": "10f923999b847eca1f417e9697f91ad48eead5c953bd4325076ad35202ed1ffd",
+   "csv_bytes": 664730,
+   "csv_sha256": "26602976f8fc12ac482cb9eff2453fc64af9aad95b17c736ee7b9fe4c82161c2"
+  }
+ ],
+ "bulk_downloads": {
+  "catalog_jsonl": "https://awesomecua.com/downloads/catalog.jsonl",
+  "catalog_sqlite": "https://awesomecua.com/downloads/catalog.sqlite",
+  "download_manifest": "https://awesomecua.com/downloads/manifest.json"
+ }
+}

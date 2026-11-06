@@ -1,6 +1,7 @@
 https://awesomecua.com/
 https://awesomecua.com/about/
 https://awesomecua.com/agents/
+https://awesomecua.com/api/
 https://awesomecua.com/badges/
 https://awesomecua.com/catalog/
 https://awesomecua.com/categories/agent/

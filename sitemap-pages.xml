@@ -17,6 +17,10 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/agents/" />
   </url>
   <url>
+    <loc>https://awesomecua.com/api/</loc>
+    <lastmod>2026-11-06T09:00:05Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/badges/</loc>
   </url>
   <url>

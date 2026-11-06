@@ -1,0 +1,739 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://awesomecua.com/api/v1/schema.json",
+ "title": "AwesomeCUA static API v1",
+ "version": "1.0.0",
+ "generated_at": "2026-11-06T12:38:02Z",
+ "description": "JSON Schema for every file under /api/v1/. Validate a file against $defs/<name>, for example $defs/resources for resources.json. generated_at is the newest recorded data time in the snapshot (UTC), not the wall-clock build time.",
+ "$defs": {
+  "license": {
+   "type": "object",
+   "properties": {
+    "declared": {
+     "anyOf": [
+      {
+       "type": "string"
+      },
+      {
+       "type": "array",
+       "items": {
+        "type": "string"
+       }
+      }
+     ]
+    },
+    "url": {
+     "type": "string",
+     "pattern": "^https://"
+    }
+   },
+   "required": [
+    "declared",
+    "url"
+   ],
+   "additionalProperties": false
+  },
+  "licenses": {
+   "type": "object",
+   "properties": {
+    "code": {
+     "$ref": "#/$defs/license"
+    },
+    "data": {
+     "$ref": "#/$defs/license"
+    },
+    "document": {
+     "$ref": "#/$defs/license"
+    },
+    "weights": {
+     "$ref": "#/$defs/license"
+    }
+   },
+   "additionalProperties": false
+  },
+  "resource": {
+   "type": "object",
+   "properties": {
+    "id": {
+     "type": "string"
+    },
+    "name": {
+     "type": "string"
+    },
+    "kind": {
+     "type": "string"
+    },
+    "url": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "page_url": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "summary": {
+     "type": "string"
+    },
+    "scope": {
+     "enum": [
+      "core",
+      "adjacent"
+     ]
+    },
+    "review_status": {
+     "const": "curated"
+    },
+    "environments": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "topics": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "aliases": {
+     "type": "array"
+    },
+    "licenses": {
+     "$ref": "#/$defs/licenses"
+    },
+    "published_at": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "reviewed_at": {
+     "anyOf": [
+      {
+       "type": "string",
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "last_verified_at": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "relations": {
+     "type": "array",
+     "items": {
+      "type": "object",
+      "properties": {
+       "type": {
+        "type": "string"
+       },
+       "target_id": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "target_id",
+       "type"
+      ],
+      "additionalProperties": false
+     }
+    }
+   },
+   "required": [
+    "aliases",
+    "environments",
+    "id",
+    "kind",
+    "last_verified_at",
+    "licenses",
+    "name",
+    "page_url",
+    "published_at",
+    "relations",
+    "review_status",
+    "reviewed_at",
+    "scope",
+    "summary",
+    "topics",
+    "url"
+   ],
+   "additionalProperties": false
+  },
+  "paper": {
+   "type": "object",
+   "properties": {
+    "id": {
+     "type": "string"
+    },
+    "name": {
+     "type": "string"
+    },
+    "kind": {
+     "enum": [
+      "paper",
+      "survey"
+     ]
+    },
+    "url": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "page_url": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "summary": {
+     "type": "string"
+    },
+    "scope": {
+     "enum": [
+      "core",
+      "adjacent"
+     ]
+    },
+    "review_status": {
+     "const": "curated"
+    },
+    "authors": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "authors_omitted": {
+     "type": "boolean"
+    },
+    "published": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "arxiv_id": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "arxiv_version": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "arxiv_versioned_url": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "venue": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "doi": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "environments": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "topics": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "licenses": {
+     "$ref": "#/$defs/licenses"
+    },
+    "reviewed_at": {
+     "anyOf": [
+      {
+       "type": "string",
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "last_verified_at": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    }
+   },
+   "required": [
+    "arxiv_id",
+    "arxiv_version",
+    "arxiv_versioned_url",
+    "authors",
+    "authors_omitted",
+    "doi",
+    "environments",
+    "id",
+    "kind",
+    "last_verified_at",
+    "licenses",
+    "name",
+    "page_url",
+    "published",
+    "review_status",
+    "reviewed_at",
+    "scope",
+    "summary",
+    "topics",
+    "url",
+    "venue"
+   ],
+   "additionalProperties": false
+  },
+  "category": {
+   "type": "object",
+   "properties": {
+    "id": {
+     "type": "string"
+    },
+    "name": {
+     "type": "string"
+    },
+    "name_zh": {
+     "type": "string"
+    },
+    "type": {
+     "enum": [
+      "kind",
+      "topic"
+     ]
+    },
+    "curated_count": {
+     "type": "integer",
+     "minimum": 0
+    },
+    "active_count": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "page_url": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "markdown_url": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "api_url": {
+     "type": "string",
+     "pattern": "^https://"
+    }
+   },
+   "required": [
+    "active_count",
+    "api_url",
+    "curated_count",
+    "id",
+    "markdown_url",
+    "name",
+    "name_zh",
+    "page_url",
+    "type"
+   ],
+   "additionalProperties": false
+  },
+  "candidate": {
+   "type": "object",
+   "properties": {
+    "population": {
+     "enum": [
+      "relevance_pending_record",
+      "candidate_identifier"
+     ]
+    },
+    "curated": {
+     "const": false
+    },
+    "id": {
+     "type": "string"
+    },
+    "name": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "kind": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "url": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "page_url": {
+     "anyOf": [
+      {
+       "type": "string",
+       "pattern": "^https://"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "review_status": {
+     "enum": [
+      "metadata_verified",
+      "candidate"
+     ]
+    },
+    "scope": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "published": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "reason": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "first_discovered_at": {
+     "anyOf": [
+      {
+       "type": "string",
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    }
+   },
+   "required": [
+    "curated",
+    "first_discovered_at",
+    "id",
+    "kind",
+    "name",
+    "page_url",
+    "population",
+    "published",
+    "reason",
+    "review_status",
+    "scope",
+    "url"
+   ],
+   "additionalProperties": false
+  },
+  "change": {
+   "type": "object",
+   "properties": {
+    "date": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "event": {
+     "enum": [
+      "added_to_bibliography",
+      "excluded",
+      "reviewed"
+     ]
+    },
+    "id": {
+     "type": "string"
+    },
+    "name": {
+     "type": "string"
+    },
+    "kind": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "current_status": {
+     "type": "string"
+    },
+    "page_url": {
+     "anyOf": [
+      {
+       "type": "string",
+       "pattern": "^https://"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "url": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "note": {
+     "type": [
+      "string",
+      "null"
+     ]
+    }
+   },
+   "required": [
+    "current_status",
+    "date",
+    "event",
+    "id",
+    "kind",
+    "name",
+    "note",
+    "page_url",
+    "url"
+   ],
+   "additionalProperties": false
+  },
+  "envelope": {
+   "type": "object",
+   "required": [
+    "version",
+    "generated_at",
+    "catalog_sha256",
+    "license",
+    "documentation",
+    "schema",
+    "description",
+    "count",
+    "items"
+   ],
+   "properties": {
+    "version": {
+     "const": "1.0.0"
+    },
+    "generated_at": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "catalog_sha256": {
+     "type": "string",
+     "pattern": "^[0-9a-f]{64}$"
+    },
+    "count": {
+     "type": "integer",
+     "minimum": 0
+    },
+    "items": {
+     "type": "array"
+    }
+   }
+  },
+  "endpoint": {
+   "type": "object",
+   "properties": {
+    "name": {
+     "type": "string"
+    },
+    "description": {
+     "type": "string"
+    },
+    "json": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "csv": {
+     "type": "string",
+     "pattern": "^https://"
+    },
+    "count": {
+     "type": "integer"
+    },
+    "json_bytes": {
+     "type": "integer"
+    },
+    "json_sha256": {
+     "type": "string"
+    },
+    "csv_bytes": {
+     "type": "integer"
+    },
+    "csv_sha256": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "count",
+    "csv",
+    "csv_bytes",
+    "csv_sha256",
+    "description",
+    "json",
+    "json_bytes",
+    "json_sha256",
+    "name"
+   ],
+   "additionalProperties": false
+  },
+  "index": {
+   "type": "object",
+   "required": [
+    "version",
+    "generated_at",
+    "catalog_sha256",
+    "documentation",
+    "schema",
+    "counts",
+    "endpoints"
+   ],
+   "properties": {
+    "version": {
+     "const": "1.0.0"
+    },
+    "generated_at": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "endpoints": {
+     "type": "array",
+     "items": {
+      "$ref": "#/$defs/endpoint"
+     }
+    }
+   }
+  },
+  "resources": {
+   "allOf": [
+    {
+     "$ref": "#/$defs/envelope"
+    },
+    {
+     "properties": {
+      "items": {
+       "type": "array",
+       "items": {
+        "$ref": "#/$defs/resource"
+       }
+      }
+     }
+    }
+   ]
+  },
+  "papers": {
+   "allOf": [
+    {
+     "$ref": "#/$defs/envelope"
+    },
+    {
+     "properties": {
+      "items": {
+       "type": "array",
+       "items": {
+        "$ref": "#/$defs/paper"
+       }
+      }
+     }
+    }
+   ]
+  },
+  "categories": {
+   "allOf": [
+    {
+     "$ref": "#/$defs/envelope"
+    },
+    {
+     "properties": {
+      "items": {
+       "type": "array",
+       "items": {
+        "$ref": "#/$defs/category"
+       }
+      }
+     }
+    }
+   ]
+  },
+  "candidates": {
+   "allOf": [
+    {
+     "$ref": "#/$defs/envelope"
+    },
+    {
+     "properties": {
+      "items": {
+       "type": "array",
+       "items": {
+        "$ref": "#/$defs/candidate"
+       }
+      }
+     }
+    },
+    {
+     "required": [
+      "notice"
+     ],
+     "properties": {
+      "notice": {
+       "const": "UNREVIEWED: nothing in this file is part of the curated AwesomeCUA catalog. Rows are discovered identifiers or bibliography records whose relevance has not been reviewed; do not cite them as recommendations or count them as catalog resources."
+      },
+      "review_status": {
+       "const": "unreviewed"
+      }
+     }
+    }
+   ]
+  },
+  "changes": {
+   "allOf": [
+    {
+     "$ref": "#/$defs/envelope"
+    },
+    {
+     "properties": {
+      "items": {
+       "type": "array",
+       "items": {
+        "$ref": "#/$defs/change"
+       }
+      }
+     }
+    }
+   ]
+  }
+ },
+ "anyOf": [
+  {
+   "$ref": "#/$defs/resources"
+  },
+  {
+   "$ref": "#/$defs/papers"
+  },
+  {
+   "$ref": "#/$defs/categories"
+  },
+  {
+   "$ref": "#/$defs/candidates"
+  },
+  {
+   "$ref": "#/$defs/changes"
+  },
+  {
+   "$ref": "#/$defs/index"
+  }
+ ]
+}
