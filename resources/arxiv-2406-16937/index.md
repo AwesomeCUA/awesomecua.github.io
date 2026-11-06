@@ -1,48 +1,12 @@
 # A Complete Survey on LLM-based AI Chatbots
 
-Bibliographic record for A Complete Survey on LLM-based AI Chatbots. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-2406-16937/
-- Original source: https://arxiv.org/abs/2406.16937
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-11-05T22:51:37Z
-- ID: arxiv:2406.16937
+The abstract surveys the development and industry uses of LLM-based conversational chatbots. This chatbot survey does not involve agents operating graphical interfaces, web pages or devices.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2406.16937
+Evidence: https://export.arxiv.org/api/query?id_list=2108.07258%2C2212.08681%2C2307.06435%2C2307.09288%2C2310.03965%2C2310.04406%2C2310.13227%2C2402.06853%2C2403.07918%2C2405.19119%2C2406.16937%2C2407.19354%2C2411.01747&max_results=13
+Reviewed: 2026-11-06T00:00:33Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2406-16937/record.json
-
-## Authors
-
-Sumit Kumar Dam, Choong Seon Hong, Yu Qiao, Chaoning Zhang
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2406-16937/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2406-16937/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 2
-- Version source: https://arxiv.org/abs/2406.16937v2
-- First submission: 2024-06-17T09:39:34Z
-- Version updated: 2024-11-18T12:36:13Z
-- Abstract SHA-256: 6e32c661e79c8cc751d4a19de095d7f4db83b8f9ebb779be9a921675dae0ec2e
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?id_list=2108.07258%2C2212.08681%2C2307.06435%2C2307.09288%2C2310.03965%2C2310.04406%2C2310.13227%2C2402.06853%2C2403.07918%2C2405.19119%2C2406.16937%2C2407.19354%2C2411.01747&max_results=13 (retrieved 2026-11-05T22:51:37Z; SHA-256 37764bc2320cd276186b5d58298d91eff164662dbc905cef8e3d8654096fb20d)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

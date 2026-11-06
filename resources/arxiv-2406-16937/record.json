@@ -1,67 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Sumit Kumar Dam",
-    "Choong Seon Hong",
-    "Yu Qiao",
-    "Chaoning Zhang"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "6e32c661e79c8cc751d4a19de095d7f4db83b8f9ebb779be9a921675dae0ec2e",
-      "submitted_at": "2024-06-17T09:39:34Z",
-      "updated_at": "2024-11-18T12:36:13Z",
-      "version": 2,
-      "versioned_url": "https://arxiv.org/abs/2406.16937v2"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-11-05T22:51:37Z",
-      "role": "primary",
-      "sha256": "37764bc2320cd276186b5d58298d91eff164662dbc905cef8e3d8654096fb20d",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?id_list=2108.07258%2C2212.08681%2C2307.06435%2C2307.09288%2C2310.03965%2C2310.04406%2C2310.13227%2C2402.06853%2C2403.07918%2C2405.19119%2C2406.16937%2C2407.19354%2C2411.01747&max_results=13"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2406.16937",
-  "identifiers": {
-    "arxiv": "2406.16937"
+  "reason": "The abstract surveys the development and industry uses of LLM-based conversational chatbots. This chatbot survey does not involve agents operating graphical interfaces, web pages or devices.",
+  "decision": {
+    "id": "arxiv:2406.16937",
+    "name": "A Complete Survey on LLM-based AI Chatbots",
+    "url": "https://arxiv.org/abs/2406.16937",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract surveys the development and industry uses of LLM-based conversational chatbots. This chatbot survey does not involve agents operating graphical interfaces, web pages or devices.",
+    "reviewed_at": "2026-11-06T00:00:33Z",
+    "metadata_fingerprint": "32ab1d564d220e78be54cd472f3a03fd91ceb77ba69b414883fad4fe6beba887",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2108.07258%2C2212.08681%2C2307.06435%2C2307.09288%2C2310.03965%2C2310.04406%2C2310.13227%2C2402.06853%2C2403.07918%2C2405.19119%2C2406.16937%2C2407.19354%2C2411.01747&max_results=13",
+      "sha256": "37764bc2320cd276186b5d58298d91eff164662dbc905cef8e3d8654096fb20d",
+      "retrieved_at": "2026-11-05T22:51:37Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-11-05T22:51:37Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2406.16937"
-    }
-  ],
-  "name": "A Complete Survey on LLM-based AI Chatbots",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2024-06-17",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2024-11-18",
-  "url": "https://arxiv.org/abs/2406.16937"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

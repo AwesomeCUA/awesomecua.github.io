@@ -1,88 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Sayash Kapoor",
-    "Rishi Bommasani",
-    "Kevin Klyman",
-    "Shayne Longpre",
-    "Ashwin Ramaswami",
-    "Peter Cihon",
-    "Aspen Hopkins",
-    "Kevin Bankston",
-    "Stella Biderman",
-    "Miranda Bogen",
-    "Rumman Chowdhury",
-    "Alex Engler",
-    "Peter Henderson",
-    "Yacine Jernite",
-    "Seth Lazar",
-    "Stefano Maffulli",
-    "Alondra Nelson",
-    "Joelle Pineau",
-    "Aviya Skowron",
-    "Dawn Song",
-    "Victor Storchan",
-    "Daniel Zhang",
-    "Daniel E. Ho",
-    "Percy Liang",
-    "Arvind Narayanan"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "e952ab7be973f9987fd1a72f69b3db50b670d61197f8a1c60ea5f59e07ba12ad",
-      "submitted_at": "2024-02-27T16:49:53Z",
-      "updated_at": "2024-02-27T16:49:53Z",
-      "version": 1,
-      "versioned_url": "https://arxiv.org/abs/2403.07918v1"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-11-05T22:51:37Z",
-      "role": "primary",
-      "sha256": "37764bc2320cd276186b5d58298d91eff164662dbc905cef8e3d8654096fb20d",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?id_list=2108.07258%2C2212.08681%2C2307.06435%2C2307.09288%2C2310.03965%2C2310.04406%2C2310.13227%2C2402.06853%2C2403.07918%2C2405.19119%2C2406.16937%2C2407.19354%2C2411.01747&max_results=13"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2403.07918",
-  "identifiers": {
-    "arxiv": "2403.07918"
+  "reason": "The abstract assesses the benefits and marginal misuse risks of openly released foundation-model weights. This AI-policy analysis does not involve agents operating graphical interfaces, web pages or devices.",
+  "decision": {
+    "id": "arxiv:2403.07918",
+    "name": "On the Societal Impact of Open Foundation Models",
+    "url": "https://arxiv.org/abs/2403.07918",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract assesses the benefits and marginal misuse risks of openly released foundation-model weights. This AI-policy analysis does not involve agents operating graphical interfaces, web pages or devices.",
+    "reviewed_at": "2026-11-06T00:00:33Z",
+    "metadata_fingerprint": "1ad0fc8a1efca55d9a3b12abbb25b9b14b766bc7f729be4903fb0c40485d38d3",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2108.07258%2C2212.08681%2C2307.06435%2C2307.09288%2C2310.03965%2C2310.04406%2C2310.13227%2C2402.06853%2C2403.07918%2C2405.19119%2C2406.16937%2C2407.19354%2C2411.01747&max_results=13",
+      "sha256": "37764bc2320cd276186b5d58298d91eff164662dbc905cef8e3d8654096fb20d",
+      "retrieved_at": "2026-11-05T22:51:37Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-11-05T22:51:37Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2403.07918"
-    }
-  ],
-  "name": "On the Societal Impact of Open Foundation Models",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2024-02-27",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2024-02-27",
-  "url": "https://arxiv.org/abs/2403.07918"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }
