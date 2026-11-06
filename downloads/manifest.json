@@ -16,8 +16,8 @@
         "zh": "完整目录"
       },
       "description": {
-        "en": "Every active source record, including metadata-only discoveries. One JSON object per line.",
-        "zh": "全部当前资源及完整来源记录，包含仅核实书目的发现项。每行一个 JSON 对象。"
+        "en": "Every record, reviewed or awaiting review, with its full source history. One JSON object per line.",
+        "zh": "全部记录，含已审核与待审核，附完整来源记录。每行一个 JSON 对象。"
       },
       "format": "JSONL",
       "media_type": "application/x-ndjson",
@@ -104,8 +104,8 @@
         "zh": "全部检索文档"
       },
       "description": {
-        "en": "Complete active corpus; preserve the metadata-only review states when retrieving.",
-        "zh": "完整当前语料；检索时保留其中仅核实书目的待审状态。"
+        "en": "Every record as a document, with its review status for filtering.",
+        "zh": "全部记录的文档，附审核状态以便筛选。"
       },
       "format": "JSONL",
       "media_type": "application/x-ndjson",
@@ -192,8 +192,8 @@
         "zh": "全部书目引用"
       },
       "description": {
-        "en": "Includes metadata-only papers and surveys with their review state retained.",
-        "zh": "包含仅核实书目的论文与综述，并保留审阅状态。"
+        "en": "Every paper and survey in the catalog, with its review status.",
+        "zh": "目录中的全部论文与综述，附审核状态。"
       },
       "format": "BibTeX",
       "media_type": "application/x-bibtex",
@@ -214,8 +214,8 @@
         "zh": "全部书目引用"
       },
       "description": {
-        "en": "Includes metadata-only papers and surveys with their review state retained.",
-        "zh": "包含仅核实书目的论文与综述，并保留审阅状态。"
+        "en": "Every paper and survey in the catalog, with its review status.",
+        "zh": "目录中的全部论文与综述，附审核状态。"
       },
       "format": "CSL JSON",
       "media_type": "application/vnd.citationstyles.csl+json",
@@ -368,8 +368,8 @@
         "zh": "已审阅关系"
       },
       "description": {
-        "en": "Explicit source-backed relationships; incidental mentions and shared topics are separate.",
-        "zh": "有明确来源的关联关系；偶然提及和相同主题分别处理。"
+        "en": "Links between records that a primary source states, such as a paper and its code.",
+        "zh": "一手来源明确说明的记录间关联，例如论文与其代码。"
       },
       "format": "JSON",
       "media_type": "application/json",
@@ -390,8 +390,8 @@
         "zh": "覆盖台账"
       },
       "description": {
-        "en": "Observed source populations, review states and unresolved gaps.",
-        "zh": "已观察到的来源范围、审阅状态和待解决缺口。"
+        "en": "What each source holds, what has been reviewed and what remains.",
+        "zh": "每个来源的收录情况、已审核内容与待处理缺口。"
       },
       "format": "JSON",
       "media_type": "application/json",
@@ -401,19 +401,19 @@
       },
       "scope": "provenance",
       "bytes": 645139,
-      "sha256": "8a1700643f711c152e2007f0c2cab39a0a1e23fdd400af5cea1c4646be26a59b"
+      "sha256": "cff8e6ba7479e7e170aa2d510b68aab30483cfbbc28b78b148b111aa48fb7f6b"
     },
     {
       "id": "sources",
       "path": "/downloads/sources.json",
       "group": "provenance",
       "title": {
-        "en": "Discovery-source registry",
-        "zh": "发现来源登记"
+        "en": "Where the scans look",
+        "zh": "扫描来源登记"
       },
       "description": {
-        "en": "Community collections and search sources used to discover candidates.",
-        "zh": "用于发现候选条目的社区合集和来源文档。"
+        "en": "Community collections and search sources the scans read to find candidates.",
+        "zh": "扫描用于发现候选条目的社区合集和检索来源。"
       },
       "format": "JSON",
       "media_type": "application/json",
@@ -434,8 +434,8 @@
         "zh": "范围审阅决定"
       },
       "description": {
-        "en": "Exclusion reasons, original evidence and any decisions awaiting revalidation.",
-        "zh": "排除理由、原始证据，以及需要重新验证的决定。"
+        "en": "Why records were left out, with the evidence for each decision.",
+        "zh": "记录被排除的原因及每项决定的证据。"
       },
       "format": "JSON",
       "media_type": "application/json",
@@ -452,12 +452,12 @@
       "path": "/downloads/arxiv-archive.jsonl",
       "group": "provenance",
       "title": {
-        "en": "Raw arXiv metadata archive",
-        "zh": "原始 arXiv 元数据档案"
+        "en": "Raw arXiv harvest",
+        "zh": "原始 arXiv 采集档案"
       },
       "description": {
-        "en": "Retained ingestion snapshots, including excluded records. This is not the active catalog.",
-        "zh": "保留的采集快照，包含已排除记录；其范围不同于当前有效目录。"
+        "en": "Every arXiv snapshot the scans kept, including records later excluded.",
+        "zh": "扫描保留的全部 arXiv 快照，包括之后被排除的记录。"
       },
       "format": "JSONL",
       "media_type": "application/x-ndjson",
@@ -474,12 +474,12 @@
       "path": "/downloads/publications.jsonl",
       "group": "provenance",
       "title": {
-        "en": "Publication observations",
-        "zh": "出版来源记录"
+        "en": "Published editions of papers",
+        "zh": "论文的出版版本"
       },
       "description": {
-        "en": "Publication facts attached to canonical paper identities; not a second paper count.",
-        "zh": "附加到规范论文身份的出版事实，不作为另一篇论文重复计数。"
+        "en": "Venue, authors and dates for papers with a recorded published version.",
+        "zh": "已记录出版版本的论文的会议或期刊、作者与日期。"
       },
       "format": "JSONL",
       "media_type": "application/x-ndjson",
@@ -500,8 +500,8 @@
         "zh": "仓库旧地址映射"
       },
       "description": {
-        "en": "Former and canonical GitHub or Hugging Face names verified against the same repository ID. They do not add resources.",
-        "zh": "通过相同的 GitHub 或 Hugging Face 仓库 ID 核实旧名与规范名称。它们不增加资源记录。"
+        "en": "Earlier GitHub and Hugging Face names of catalog repositories, matched by repository ID.",
+        "zh": "目录中仓库在 GitHub 与 Hugging Face 上的旧名称，按仓库 ID 匹配。"
       },
       "format": "JSON",
       "media_type": "application/json",
@@ -522,8 +522,8 @@
         "zh": "GitHub 候选仓库"
       },
       "description": {
-        "en": "Public API metadata, counted by numeric repository ID. CUA relevance, availability and licenses await review; these observations are separate from and may overlap the active catalog.",
-        "zh": "公开 API 元数据，按数字仓库 ID 去重。CUA 相关性、可用性和许可仍待审阅；这些观察记录独立于当前目录且可能与其重叠。"
+        "en": "Repositories the scans found, from public API metadata, counted by numeric repository ID. Each one awaits review.",
+        "zh": "扫描发现的仓库，来自公开 API 元数据，按数字仓库 ID 去重。均待审核。"
       },
       "format": "JSONL",
       "media_type": "application/x-ndjson",
@@ -554,8 +554,8 @@
         "unit": "reports"
       },
       "scope": "candidate-observations",
-      "bytes": 272999,
-      "sha256": "c565014e55bee9a4b1bc65f64ae9a4521fa3c03afc92c2cfd8eb11db76e709e6"
+      "bytes": 274662,
+      "sha256": "b94e3c117d01535f27af17fa3ef7792b113a491ffe9bc07ec3049b6b0420fea5"
     },
     {
       "id": "resource-schema-json",
