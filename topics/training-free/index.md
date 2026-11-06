@@ -1,6 +1,6 @@
 # Training-free methods
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/training-free/records.jsonl
 

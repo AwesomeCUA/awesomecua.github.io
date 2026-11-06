@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "2ac2e107baf6b582ec86bab1770e4495b14159c8299b42a505d5dff8f1ddcd3a",
+  "catalog_sha256": "14e77ed714df9a36a027995629c192e2082e17e6107a262c9acfe89c843c24c7",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
-  "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
+  "count_policy": "A resource can belong to several topics.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 2146,
-  "resources_with_topics": 2146,
+  "reviewed_resources": 2170,
+  "resources_with_topics": 2170,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -136,12 +136,12 @@
         "zh": "自动化"
       },
       "counts": {
-        "total": 153,
+        "total": 173,
         "papers": 125,
         "benchmarks": 0,
         "datasets": 0,
         "models": 1,
-        "systems": 27,
+        "systems": 47,
         "learning": 0
       },
       "resource_ids": [
@@ -267,18 +267,31 @@
         "arxiv:2610.25601",
         "arxiv:2611.01891",
         "component:xlang-ai/openagents/web_agent",
+        "github:agent0ai/agent-zero",
         "github:alokia/cola-demo",
+        "github:alumnium-hq/alumnium",
         "github:appium/appium",
+        "github:ariya/phantomjs",
         "github:asweigart/pyautogui",
+        "github:berstend/puppeteer-extra",
         "github:bz-lab/auitestagent",
+        "github:cashew-labs/libretto",
         "github:chromedevtools/chrome-devtools-mcp",
+        "github:chromedp/chromedp",
+        "github:codeceptjs/codeceptjs",
         "github:cursortouch/windows-mcp",
         "github:droidrun/mobile-harness",
+        "github:executeautomation/mcp-playwright",
         "github:fanbinlu/steve-r1",
+        "github:firecrawl/firecrawl",
+        "github:foundationagents/openmanus",
         "github:gair-nlp/pc-agent-e",
         "github:garyyang12345/gui-harvest",
+        "github:gobii-ai/gobii-platform",
         "github:google-deepmind/android_env",
+        "github:injaneity/pi-computer-use",
         "github:jia-lab-research/arpo",
+        "github:mayt/browsergpt",
         "github:microsoft/playwright",
         "github:microsoft/playwright-mcp",
         "github:mobile-next/mobile-mcp",
@@ -287,10 +300,17 @@
         "github:oculix-org/oculix",
         "github:omxyz/lumen",
         "github:openai/universe",
+        "github:openonion/connectonion",
+        "github:qwenlm/qwen-code",
+        "github:saik0s/mcp-browser-use",
+        "github:seleniumbase/seleniumbase",
         "github:showlab/showui-aloha",
         "github:showlab/showui-pi",
         "github:sikuli/sikuli",
         "github:sunblaze-ucb/agentsynth",
+        "github:teamcapybara/capybara",
+        "github:test-zeus-ai/testzeus-hercules",
+        "github:testdriverai/testdriverai",
         "github:vercel-labs/agent-browser",
         "github:web-infra-dev/midscene",
         "url:6262c757080f8838e62c",
@@ -306,9 +326,9 @@
       "exports": [
         {
           "url": "/downloads/topics/automation/records.jsonl",
-          "records": 153,
-          "bytes": 480079,
-          "sha256": "d9c9e34e08c4fd3a17671b3f7309f784f29a367ac6435b6e87c445f8c2645f3e"
+          "records": 173,
+          "bytes": 511739,
+          "sha256": "2d021caca8437e9900119927d79ef368284939e78cb5d0e9f2b655722fbbb262"
         },
         {
           "url": "/downloads/topics/automation/citations.bib",
@@ -1175,12 +1195,12 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 948,
+        "total": 954,
         "papers": 818,
         "benchmarks": 89,
         "datasets": 9,
         "models": 1,
-        "systems": 31,
+        "systems": 37,
         "learning": 0
       },
       "resource_ids": [
@@ -2004,6 +2024,7 @@
         "github:ai-secure/advagent",
         "github:androidarenaagent/androidarena",
         "github:ant-research/guihallubench",
+        "github:ariya/phantomjs",
         "github:bravegroup/sheetcopilot",
         "github:bz-lab/auitestagent",
         "github:camel-ai/crab",
@@ -2064,9 +2085,11 @@
         "github:princeton-nlp/webshop",
         "github:purewhiter/mobilegym",
         "github:radishsoftware/mobster",
+        "github:refreshdotdev/web-eval-agent",
         "github:saagent/mcpworld",
         "github:scaleapi/browser-art",
         "github:segev-shlomov/st-webagentbench",
+        "github:seleniumbase/seleniumbase",
         "github:servicenow/agentlab",
         "github:servicenow/browsergym",
         "github:servicenow/workarena",
@@ -2076,6 +2099,9 @@
         "github:skyworkai/agent-studio",
         "github:sqzhang-lazy/d-pot",
         "github:stonybrooknlp/appworld",
+        "github:teamcapybara/capybara",
+        "github:test-zeus-ai/testzeus-hercules",
+        "github:testdriverai/testdriverai",
         "github:theagentcompany/theagentcompany",
         "github:thu-ml/mla-trust",
         "github:thudm/agentbench",
@@ -2140,9 +2166,9 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 948,
-          "bytes": 3013613,
-          "sha256": "85a2ebcabb6bdb1d9161039f47dcfd3c7508acd04ee6f804dc829c3be4011d1f"
+          "records": 954,
+          "bytes": 3022258,
+          "sha256": "55d75290fa1cd396a24a4e328b9eae128a7142b404562f0028b858bbf1434c50"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
@@ -2165,12 +2191,12 @@
         "zh": "GUI 定位"
       },
       "counts": {
-        "total": 419,
+        "total": 421,
         "papers": 288,
         "benchmarks": 10,
         "datasets": 32,
         "models": 67,
-        "systems": 22,
+        "systems": 24,
         "learning": 0
       },
       "resource_ids": [
@@ -2474,6 +2500,7 @@
         "github:kdegroup/ui-agile",
         "github:likaixin2000/screenspot-pro-gui-grounding",
         "github:lll6gg/ui-r1",
+        "github:mayt/browsergpt",
         "github:microsoft/gui-actor",
         "github:microsoft/magma",
         "github:microsoft/omniparser",
@@ -2506,6 +2533,7 @@
         "github:webvln/webvln",
         "github:xlang-ai/aguvis",
         "github:xlang-ai/osworld-g",
+        "github:yliust/tactile",
         "github:yuqi-zhou/gui-g1",
         "github:zju-real/gui-g2",
         "github:zju-real/gui-rcpo",
@@ -2601,9 +2629,9 @@
       "exports": [
         {
           "url": "/downloads/topics/grounding/records.jsonl",
-          "records": 419,
-          "bytes": 1256515,
-          "sha256": "ab9b91b28424934476c7f2c0dcca6413eab58caa21b1001a5f79e981b51cf1e3"
+          "records": 421,
+          "bytes": 1259624,
+          "sha256": "1ff8db03d68c8c506d344d990f207c1ed8b262576b3e9b5cbe27a29aaed77cd7"
         },
         {
           "url": "/downloads/topics/grounding/citations.bib",
@@ -2672,12 +2700,12 @@
         "zh": "人机协作"
       },
       "counts": {
-        "total": 112,
+        "total": 115,
         "papers": 103,
         "benchmarks": 1,
         "datasets": 0,
         "models": 0,
-        "systems": 8,
+        "systems": 11,
         "learning": 0
       },
       "resource_ids": [
@@ -2779,10 +2807,13 @@
         "arxiv:2610.22990",
         "arxiv:2610.24277",
         "arxiv:2610.34735",
+        "github:agent0ai/agent-zero",
         "github:alipay/mobile-agent",
         "github:alokia/cola-demo",
+        "github:eyalzh/browser-control-mcp",
         "github:microsoft/magentic-ui",
         "github:nanobrowser/nanobrowser",
+        "github:openonion/connectonion",
         "github:solplum/yunkai",
         "github:tongyi-mai/mobileworld",
         "github:wuzheng02/os-kairos",
@@ -2801,9 +2832,9 @@
       "exports": [
         {
           "url": "/downloads/topics/human-in-the-loop/records.jsonl",
-          "records": 112,
-          "bytes": 351959,
-          "sha256": "e7498060ddde563fb46e0803f313634ceabdb81450ca4c568beade27795c0f43"
+          "records": 115,
+          "bytes": 357486,
+          "sha256": "bc21df9763eeb2a504ccff34848500e80916dcc56d396c3d075b4c32a9bd41e7"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.bib",
@@ -3191,12 +3222,12 @@
         "zh": "长任务"
       },
       "counts": {
-        "total": 175,
+        "total": 176,
         "papers": 162,
         "benchmarks": 6,
         "datasets": 1,
         "models": 1,
-        "systems": 5,
+        "systems": 6,
         "learning": 0
       },
       "resource_ids": [
@@ -3363,6 +3394,7 @@
         "arxiv:2611.03116",
         "arxiv:2611.05263",
         "github:cvc2233/androtmem",
+        "github:gobii-ai/gobii-platform",
         "github:jia-lab-research/arpo",
         "github:kwai/memgui-agent",
         "github:madeagents/colorbench",
@@ -3383,9 +3415,9 @@
       "exports": [
         {
           "url": "/downloads/topics/long-horizon/records.jsonl",
-          "records": 175,
-          "bytes": 561710,
-          "sha256": "acf3bd53dc72db1e6b753ba81936eed942fc18d8a062fe431ff2cc4c747c06ad"
+          "records": 176,
+          "bytes": 563421,
+          "sha256": "2f9111da7d66111176700a0bbb1b527098306185035362c60e82431d96c6afba"
         },
         {
           "url": "/downloads/topics/long-horizon/citations.bib",
@@ -3408,12 +3440,12 @@
         "zh": "记忆"
       },
       "counts": {
-        "total": 229,
+        "total": 231,
         "papers": 210,
         "benchmarks": 1,
         "datasets": 2,
         "models": 0,
-        "systems": 16,
+        "systems": 18,
         "learning": 0
       },
       "resource_ids": [
@@ -3628,6 +3660,7 @@
         "arxiv:2611.03930",
         "arxiv:2611.05873",
         "component:x-plug/mobileagent/mobile-agent-e",
+        "github:agiresearch/aios",
         "github:baai-agents/cradle",
         "github:cvc2233/androtmem",
         "github:dmis-lab/switchmem",
@@ -3639,6 +3672,7 @@
         "github:mobilellm/agentprog",
         "github:omxyz/lumen",
         "github:opendfm/moba",
+        "github:openonion/connectonion",
         "github:pathonaiorg/litewebagent",
         "github:simular-ai/agent-s",
         "github:tencentqqgylab/appagent",
@@ -3654,9 +3688,9 @@
       "exports": [
         {
           "url": "/downloads/topics/memory/records.jsonl",
-          "records": 229,
-          "bytes": 715263,
-          "sha256": "39a32703197b036b69671da864d8d076b054f352eb320b19373e6489410b5ffe"
+          "records": 231,
+          "bytes": 718457,
+          "sha256": "2c3a426907bae5cdda06fcd1975a0d3310b5d8551356b1f33b3c63adcf5357dc"
         },
         {
           "url": "/downloads/topics/memory/citations.bib",
@@ -4051,12 +4085,12 @@
         "zh": "可观测性"
       },
       "counts": {
-        "total": 76,
+        "total": 78,
         "papers": 71,
         "benchmarks": 1,
         "datasets": 0,
         "models": 0,
-        "systems": 4,
+        "systems": 6,
         "learning": 0
       },
       "resource_ids": [
@@ -4132,8 +4166,10 @@
         "arxiv:2610.40578",
         "arxiv:2611.04142",
         "github:aaronlab/browsertrace",
+        "github:ariya/phantomjs",
         "github:garyyang12345/gui-harvest",
         "github:omxyz/lumen",
+        "github:refreshdotdev/web-eval-agent",
         "github:tiger-ai-lab/clawbench",
         "github:wlanderson0/orbit"
       ],
@@ -4144,9 +4180,9 @@
       "exports": [
         {
           "url": "/downloads/topics/observability/records.jsonl",
-          "records": 76,
-          "bytes": 234398,
-          "sha256": "24df6843f29975ee47eaef024485e55d78e9adef00b8f9e8ccb28be9e716a56a"
+          "records": 78,
+          "bytes": 237572,
+          "sha256": "a01da9aa48fff7e1fe3133959c9ca17211f593d5ad8fa791009d124c48313301"
         },
         {
           "url": "/downloads/topics/observability/citations.bib",
@@ -4576,12 +4612,12 @@
         "zh": "录制"
       },
       "counts": {
-        "total": 32,
+        "total": 34,
         "papers": 23,
         "benchmarks": 0,
         "datasets": 1,
         "models": 0,
-        "systems": 8,
+        "systems": 10,
         "learning": 0
       },
       "resource_ids": [
@@ -4607,8 +4643,10 @@
         "github:anikasomaia/local-activity-recorder",
         "github:browser-use/web-ui",
         "github:browseros-ai/browseros",
+        "github:cashew-labs/libretto",
         "github:china-qijizhifeng/work2skill",
         "github:openadaptai/openadapt",
+        "github:seleniumbase/seleniumbase",
         "github:showlab/showui-aloha",
         "github:skyworkai/agent-studio",
         "url:243ab00712ba19cc2089",
@@ -4625,9 +4663,9 @@
       "exports": [
         {
           "url": "/downloads/topics/recording/records.jsonl",
-          "records": 32,
-          "bytes": 100495,
-          "sha256": "7089852424e3d76ed7d2536ad51ffccc87b55b1235067e77592711e20081461d"
+          "records": 34,
+          "bytes": 103489,
+          "sha256": "f20d8f14a81e79ce628d96bd2371f101b0d9f28573e962a53d0bc69c710aae40"
         },
         {
           "url": "/downloads/topics/recording/citations.bib",
@@ -5385,12 +5423,12 @@
         "zh": "安全与防护"
       },
       "counts": {
-        "total": 288,
+        "total": 289,
         "papers": 268,
         "benchmarks": 12,
         "datasets": 0,
         "models": 0,
-        "systems": 8,
+        "systems": 9,
         "learning": 0
       },
       "resource_ids": [
@@ -5664,6 +5702,7 @@
         "arxiv:2611.06039",
         "github:ai-secure/advagent",
         "github:chenwu98/agent-attack",
+        "github:eyalzh/browser-control-mcp",
         "github:facebookresearch/ai-agent-privacy",
         "github:jylee425/mobilesafetybench",
         "github:mcgill-nlp/safearena",
@@ -5690,9 +5729,9 @@
       "exports": [
         {
           "url": "/downloads/topics/safety-security/records.jsonl",
-          "records": 288,
-          "bytes": 852315,
-          "sha256": "579112fcbd37775fe838b529863739643a25b856866333c91009db20f35e5609"
+          "records": 289,
+          "bytes": 854213,
+          "sha256": "f1f07afb8e28a58a24121eec59e987fb919e7719d26b93a286c08bda898f2526"
         },
         {
           "url": "/downloads/topics/safety-security/citations.bib",
@@ -5715,12 +5754,12 @@
         "zh": "沙箱"
       },
       "counts": {
-        "total": 85,
+        "total": 88,
         "papers": 68,
         "benchmarks": 3,
         "datasets": 0,
         "models": 0,
-        "systems": 14,
+        "systems": 17,
         "learning": 0
       },
       "resource_ids": [
@@ -5794,7 +5833,9 @@
         "arxiv:2611.03634",
         "github:acrab-agentic-labs/appsim",
         "github:agent-infra/sandbox",
+        "github:agent0ai/agent-zero",
         "github:agentsea/agentdesk",
+        "github:agiresearch/aios",
         "github:e2b-dev/desktop",
         "github:facebookresearch/openapps",
         "github:google-deepmind/android_env",
@@ -5802,6 +5843,7 @@
         "github:purewhiter/mobilegym",
         "github:skyworkai/agent-studio",
         "github:steel-dev/steel-browser",
+        "github:testdriverai/testdriverai",
         "github:trycua/lume",
         "url:053ebfe0afac66c86222",
         "url:1e6b8682e0f1ddc3d36f",
@@ -5817,9 +5859,9 @@
       "exports": [
         {
           "url": "/downloads/topics/sandbox/records.jsonl",
-          "records": 85,
-          "bytes": 255731,
-          "sha256": "f41236b1bbd5c35605b817a533007594e7ee3bd112b1f631216aaaee27cd6940"
+          "records": 88,
+          "bytes": 260098,
+          "sha256": "436d1ae6d821627d82c6632214eb49c45c82a676fdd49e10dc239390bee1ff65"
         },
         {
           "url": "/downloads/topics/sandbox/citations.bib",
@@ -5909,12 +5951,12 @@
         "zh": "界面理解"
       },
       "counts": {
-        "total": 271,
+        "total": 273,
         "papers": 223,
         "benchmarks": 6,
         "datasets": 19,
         "models": 10,
-        "systems": 12,
+        "systems": 14,
         "learning": 1
       },
       "resource_ids": [
@@ -6151,6 +6193,7 @@
         "github:google-research-datasets/uibert",
         "github:google-research-datasets/uicrit",
         "github:hazyresearch/wonderbread",
+        "github:injaneity/pi-computer-use",
         "github:jcwang0602/seg2click",
         "github:microsoft/omniparser",
         "github:neulab/multiui",
@@ -6163,6 +6206,7 @@
         "github:visualwebbench/visualwebbench",
         "github:web-arena-x/visualwebarena",
         "github:xbmxb/coco-agent",
+        "github:yliust/tactile",
         "github:zju-aces-ise/uidefectmocker",
         "url:0b134b082a7bd507fc6a",
         "url:0c5659ca9e59d942aea3",
@@ -6197,9 +6241,9 @@
       "exports": [
         {
           "url": "/downloads/topics/screen-understanding/records.jsonl",
-          "records": 271,
-          "bytes": 875527,
-          "sha256": "c10dcbaf8a2b369b768b2acf3cd00af0c8e92134e028ae2109f341cd075f84e0"
+          "records": 273,
+          "bytes": 878716,
+          "sha256": "bab9ddd044d43e1b4eac69370d28bf6dc093e6f6b31bebdb31094907a43084a7"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.bib",
@@ -6519,12 +6563,12 @@
         "zh": "工具集成"
       },
       "counts": {
-        "total": 180,
+        "total": 195,
         "papers": 141,
         "benchmarks": 9,
         "datasets": 2,
         "models": 4,
-        "systems": 24,
+        "systems": 39,
         "learning": 0
       },
       "resource_ids": [
@@ -6670,16 +6714,27 @@
         "arxiv:2610.41432",
         "arxiv:2611.06039",
         "component:xlang-ai/openagents/web_agent",
+        "github:agiresearch/aios",
+        "github:alumnium-hq/alumnium",
+        "github:berstend/puppeteer-extra",
         "github:bravegroup/sheetcopilot",
         "github:browser-use/web-ui",
         "github:browseros-ai/browseros",
+        "github:cashew-labs/libretto",
         "github:chromedevtools/chrome-devtools-mcp",
+        "github:codeceptjs/codeceptjs",
         "github:cursortouch/windows-mcp",
         "github:droidrun/mobile-harness",
         "github:droidrun/mobilerun",
         "github:droidrun/mobilerun-portal",
+        "github:executeautomation/mcp-playwright",
+        "github:eyalzh/browser-control-mcp",
+        "github:firecrawl/firecrawl",
+        "github:foundationagents/openmanus",
         "github:friedrichor/webtestbench",
         "github:gydpku/pptc",
+        "github:injaneity/pi-computer-use",
+        "github:mayt/browsergpt",
         "github:mcgill-nlp/webllama",
         "github:microsoft/playwright-mcp",
         "github:microsoft/webwright",
@@ -6689,17 +6744,21 @@
         "github:openinterpreter/open-interpreter",
         "github:openmobile2/mobilegym-plusplus",
         "github:openmobile2/openmobile2-code",
+        "github:openonion/connectonion",
         "github:os-copilot/os-copilot",
         "github:osu-nlp-group/skillweaver",
         "github:pathonaiorg/litewebagent",
+        "github:qwenlm/qwen-code",
         "github:reidbarber/webmarker",
         "github:saagent/mcpworld",
+        "github:saik0s/mcp-browser-use",
         "github:stonybrooknlp/appworld",
         "github:thudm/agentbench",
         "github:tongyi-mai/mai-ui",
         "github:tongyi-mai/mobileworld",
         "github:ubiquitouslearning/droidcall",
         "github:vercel-labs/agent-browser",
+        "github:yliust/tactile",
         "url:00b1a3abf9bcb424b264",
         "url:16083a0225a60882c704",
         "url:1611de0e6d606165d12d",
@@ -6716,9 +6775,9 @@
       "exports": [
         {
           "url": "/downloads/topics/tool-integration/records.jsonl",
-          "records": 180,
-          "bytes": 571534,
-          "sha256": "9a8aedf5dce4a3bee9c18775f54085010d8da935b350a6cea2ba52e6dd111540"
+          "records": 195,
+          "bytes": 596133,
+          "sha256": "c14ec944a6fde98a198514ef0e1a147248b375d88dd757cbbd1adf827675c8ac"
         },
         {
           "url": "/downloads/topics/tool-integration/citations.bib",
@@ -6907,8 +6966,8 @@
         {
           "url": "/downloads/topics/ui-design/records.jsonl",
           "records": 56,
-          "bytes": 179649,
-          "sha256": "6125e2b8b621adca62b7883398490dc15f1b1be370d224b66587ce3af492adbf"
+          "bytes": 179598,
+          "sha256": "3ac1d537769214b32e7c4d2755bb14864c117bd8f43009ae07b7cdcd2549187d"
         },
         {
           "url": "/downloads/topics/ui-design/citations.bib",
@@ -7021,12 +7080,12 @@
         "zh": "网页导航"
       },
       "counts": {
-        "total": 430,
+        "total": 442,
         "papers": 344,
         "benchmarks": 19,
         "datasets": 8,
         "models": 11,
-        "systems": 46,
+        "systems": 58,
         "learning": 2
       },
       "resource_ids": [
@@ -7380,13 +7439,21 @@
         "github:browseros-ai/browseros",
         "github:bytedance-seed/agent-r",
         "github:caap-agent/caap-agent",
+        "github:cashew-labs/libretto",
+        "github:chromedp/chromedp",
         "github:emergenceai/agent-e",
+        "github:executeautomation/mcp-playwright",
+        "github:eyalzh/browser-control-mcp",
+        "github:firecrawl/firecrawl",
+        "github:foundationagents/openmanus",
         "github:friedrichor/webtestbench",
+        "github:gobii-ai/gobii-platform",
         "github:hyperbrowserai/hyperagent",
         "github:kyle8581/web-shepherd",
         "github:lavague-ai/lavague",
         "github:ltzheng/synapse",
         "github:magicgh/self-map",
+        "github:mayt/browsergpt",
         "github:mcgill-nlp/agent-reward-bench",
         "github:mcgill-nlp/weblinx",
         "github:mcgill-nlp/webllama",
@@ -7407,12 +7474,16 @@
         "github:pathonaiorg/litewebagent",
         "github:posgnu/rci-agent",
         "github:princeton-nlp/webshop",
+        "github:refreshdotdev/web-eval-agent",
+        "github:saik0s/mcp-browser-use",
         "github:scaleapi/browser-art",
         "github:segev-shlomov/st-webagentbench",
         "github:squeezeailab/plan-and-act",
         "github:stanfordnlp/wge",
         "github:steel-dev/steel-browser",
         "github:steel-dev/surf.new",
+        "github:teamcapybara/capybara",
+        "github:test-zeus-ai/testzeus-hercules",
         "github:thudm/autowebglm",
         "github:thudm/webrl",
         "github:tiger-ai-lab/clawbench",
@@ -7468,9 +7539,9 @@
       "exports": [
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
-          "records": 430,
-          "bytes": 1340266,
-          "sha256": "7503fe0a7bdf9d45aac53688d90768a1e210a52ca16d87b41ec986a1a627f71e"
+          "records": 442,
+          "bytes": 1360732,
+          "sha256": "7df64a283b243988125b3c39afab88bac17b1d704098376fc433638ce1413f04"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",
@@ -7493,12 +7564,12 @@
         "zh": "工作流"
       },
       "counts": {
-        "total": 168,
+        "total": 171,
         "papers": 137,
         "benchmarks": 7,
         "datasets": 2,
         "models": 0,
-        "systems": 22,
+        "systems": 25,
         "learning": 0
       },
       "resource_ids": [
@@ -7639,13 +7710,16 @@
         "arxiv:2611.05873",
         "github:agentsea/surfkit",
         "github:alipay/mobile-agent",
+        "github:alumnium-hq/alumnium",
         "github:bravegroup/sheetcopilot",
         "github:bytebot-ai/bytebot",
         "github:bytedance/ui-tars-desktop",
         "github:china-qijizhifeng/work2skill",
+        "github:codeceptjs/codeceptjs",
         "github:fclab-skku/mobilegpt",
         "github:hazyresearch/wonderbread",
         "github:openadaptai/openadapt",
+        "github:qwenlm/qwen-code",
         "github:servicenow/workarena",
         "github:showlab/computer_use_ootb",
         "github:showlab/showui-aloha",
@@ -7678,9 +7752,9 @@
       "exports": [
         {
           "url": "/downloads/topics/workflow/records.jsonl",
-          "records": 168,
-          "bytes": 510774,
-          "sha256": "8304a8df0a8d2f56a3c3f3e29a09f12c466b32b227cfcf1f2ac66a7320c18bc7"
+          "records": 171,
+          "bytes": 515113,
+          "sha256": "6b7282429930d60f677cf3a5c98b3364de6d0b15deca0441ba37157e1053e24d"
         },
         {
           "url": "/downloads/topics/workflow/citations.bib",

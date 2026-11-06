@@ -1,6 +1,6 @@
 # GUI grounding
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/grounding/records.jsonl
 
@@ -816,6 +816,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Natural-language querying and interaction tools for web interfaces.
 - [AgentStudio](https://awesomecua.com/resources/github-skyworkai-agent-studio/) — Date not recorded
   Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
+- [BrowserGPT](https://awesomecua.com/resources/github-mayt-browsergpt/) — Date not recorded
+  BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.
 - [GroundGUI training and evaluation code](https://awesomecua.com/resources/github-prentisai-groundgui/) — Date not recorded
   Code for screenshot grounding through supervised training, teacher-guided distillation, reinforcement learning, and benchmark evaluation.
 - [GUI Grounding Evaluation Harness](https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/) — Date not recorded
@@ -844,6 +846,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Visual-prompting toolbox that labels image regions for multimodal reference and grounding, including GUI applications.
 - [Sikuli legacy research implementation](https://awesomecua.com/resources/github-sikuli-sikuli/) — Date not recorded
   The original Sikuli source distribution combines screenshot targets with a Jython scripting library and IDE for visual GUI automation and testing.
+- [Tactile](https://awesomecua.com/resources/github-yliust-tactile/) — Date not recorded
+  Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.
 - [TAG attention-driven GUI grounding](https://awesomecua.com/resources/github-heimingx-tag/) — Date not recorded
   Grounding and evaluation code that aggregates a pretrained vision-language model’s attention maps to localize requested interface elements without fine-tuning.
 - [TongUI training and inference framework](https://awesomecua.com/resources/github-tongui-agent-tongui-agent/) — Date not recorded

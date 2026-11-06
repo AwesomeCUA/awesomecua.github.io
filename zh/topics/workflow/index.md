@@ -1,6 +1,6 @@
 # 工作流
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/workflow/records.jsonl
 
@@ -309,6 +309,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
 
 - [Agent Workflow Memory implementation](https://awesomecua.com/resources/github-zorazrw-agent-workflow-memory/) — Date not recorded
   Research code that extracts reusable browser-task routines from demonstrations or prior executions, stores them as workflow memory and reuses them during subsequent navigation.
+- [Alumnium](https://awesomecua.com/resources/github-alumnium-hq-alumnium/) — Date not recorded
+  An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.
 - [AskUI](https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/) — Date not recorded
   Agentic test-automation platform running plain-language test cases from pixels rather than selectors on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
 - [BrowserAct](https://awesomecua.com/resources/url-7ae2670859e3796e8607/) — Date not recorded
@@ -319,6 +321,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Hosted agent combining browser interaction, tools, and computer-based tasks.
 - [CHOP](https://awesomecua.com/resources/github-yuqi-zhou-chop/) — Date not recorded
   Mobile automation framework that uses reusable basis subtasks to constrain and refine planning between user goals and executable actions.
+- [CodeceptJS](https://awesomecua.com/resources/github-codeceptjs-codeceptjs/) — Date not recorded
+  CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.
 - [Computer Use OOTB](https://awesomecua.com/resources/github-showlab-computer-use-ootb/) — Date not recorded
   Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claude 3.5 Computer Use over the API or ShowUI and UI-TARS run locally, with multi-display and phone remote control.
 - [Cua](https://awesomecua.com/resources/github-trycua-cua/) — Date not recorded
@@ -331,6 +335,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   An Android client and Python-server agent that learns reusable app subtasks through exploration, selection, derivation and memory recall.
 - [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/) — Date not recorded
   Tools for learning and automating workflows from desktop demonstrations.
+- [Qwen Code](https://awesomecua.com/resources/github-qwenlm-qwen-code/) — Date not recorded
+  Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.
 - [Scribe](https://awesomecua.com/resources/url-63ef8c7e455951a20281/) — Date not recorded
   Workflow recording and documentation product adjacent to agent data collection.
 - [SheetCopilot](https://awesomecua.com/resources/github-bravegroup-sheetcopilot/) — Date not recorded

@@ -4,7 +4,7 @@
 
 HTML page: https://awesomecua.com/papers/page/6/ · [Previous page](https://awesomecua.com/papers/page/5/index.md) · [Next page](https://awesomecua.com/papers/page/7/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
-Reviews are AI-assisted inspections of primary sources. Counts are resources, not independent projects. Code, data, weights and document licenses are recorded separately; unknown values stay unknown.
+Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 

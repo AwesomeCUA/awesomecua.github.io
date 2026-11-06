@@ -1,6 +1,6 @@
 {
   "relation_count": 414,
-  "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
+  "semantics": "Reviewed semantic links.",
   "relations": [
     {
       "source_id": "component:google-research/android_control",

@@ -1,10 +1,10 @@
 # Computer-use agent frameworks
 
-> 79 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T15:45:10Z.
+> 87 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T17:14:14Z.
 
 HTML page: https://awesomecua.com/categories/framework/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
-Reviews are AI-assisted inspections of primary sources. Counts are resources, not independent projects. Code, data, weights and document licenses are recorded separately; unknown values stay unknown.
+Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -270,6 +270,39 @@ Released code includes task-generation and training-format conversion scripts. O
 
 ---
 
+## Alumnium
+
+An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.
+
+- Catalog URL: https://awesomecua.com/resources/github-alumnium-hq-alumnium/
+- Original source: https://github.com/alumnium-hq/alumnium
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, tool-integration, workflow
+- Evidence checked: 2026-11-06T16:36:33Z
+- ID: github:alumnium-hq/alumnium
+
+### Limitations
+
+The README shows Java dependencies at version 0.24.0 and installation commands for Python and TypeScript. It works with Appium, Maestro, Playwright, and Selenium.
+
+- Record JSON: https://awesomecua.com/resources/github-alumnium-hq-alumnium/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/alumnium-hq/alumnium/286b211c33c6fec5399aca6b7b0fc6e6ed206090/README.md (retrieved 2026-11-06T16:36:33Z; SHA-256 200e675348aa332b3946a636249049532580146bb8f81afa71f46430fe770d31)
+
+---
+
 ## AndroTMem inference and evaluation code
 
 A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
@@ -386,6 +419,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Capybara
+
+Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.
+
+- Catalog URL: https://awesomecua.com/resources/github-teamcapybara-capybara/
+- Original source: https://github.com/teamcapybara/capybara
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, evaluation
+- Evidence checked: 2026-11-06T16:36:33Z
+- ID: github:teamcapybara/capybara
+
+### Limitations
+
+Capybara requires Ruby 3.0.0 or later. Its default RackTest driver does not support JavaScript or remote applications.
+
+- Record JSON: https://awesomecua.com/resources/github-teamcapybara-capybara/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/teamcapybara/capybara/265d2d175f4be3ddf785d7597bdfd19b231f844a/README.md (retrieved 2026-11-06T16:36:33Z; SHA-256 f0a832e3a8c188d7bf534e44afd6a1072953d593cb00d25eed323f02266e7808)
+
+---
+
 ## CHOP
 
 Mobile automation framework that uses reusable basis subtasks to constrain and refine planning between user goals and executable actions.
@@ -492,6 +558,39 @@ The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with 
 
 ---
 
+## CodeceptJS
+
+CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.
+
+- Catalog URL: https://awesomecua.com/resources/github-codeceptjs-codeceptjs/
+- Original source: https://github.com/codeceptjs/CodeceptJS
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: web, android
+- Topics: automation, tool-integration, workflow
+- Evidence checked: 2026-11-06T16:36:33Z
+- ID: github:codeceptjs/codeceptjs
+
+### Limitations
+
+The source declares an MIT license. CodeceptJS 4.2 requires Node.js 22.12.0 or later.
+
+- Record JSON: https://awesomecua.com/resources/github-codeceptjs-codeceptjs/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/codeceptjs/CodeceptJS/744dba8487487e78a6d561e6045039f88d91d050/README.md (retrieved 2026-11-06T16:36:33Z; SHA-256 8a0c16fdaca23041e69dc0ba2be73c25a905f045e63808629ae0821b6c5f63af)
+
+---
+
 ## Computer Use OOTB
 
 Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claude 3.5 Computer Use over the API or ShowUI and UI-TARS run locally, with multi-display and phone remote control.
@@ -558,6 +657,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/THUDM/ComputerRL/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 8b327dcd58c18e48e1e7f5b19ebf5673da4b5ff9320aa960e391844adf3a8a55)
 - https://raw.githubusercontent.com/THUDM/ComputerRL/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec)
+
+---
+
+## ConnectOnion
+
+ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.
+
+- Catalog URL: https://awesomecua.com/resources/github-openonion-connectonion/
+- Original source: https://github.com/openonion/connectonion
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: tool-integration, automation, memory, human-in-the-loop
+- Evidence checked: 2026-11-06T16:36:39Z
+- ID: github:openonion/connectonion
+
+### Limitations
+
+The README describes co rem version 1.9.2 and says its daily scheduling currently requires macOS. It says consequential writes preview until --yes, while risky co ai tool calls wait for approval.
+
+- Record JSON: https://awesomecua.com/resources/github-openonion-connectonion/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/openonion/connectonion/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/openonion/connectonion/9f80e63689da990cd423f8996960177a871f534a/README.md (retrieved 2026-11-06T16:36:39Z; SHA-256 32c34db17cfbce0a602412f1ee854521cbf313e05fe0ccc5f222f7411a0d7d16)
+- https://raw.githubusercontent.com/openonion/connectonion/HEAD/LICENSE (retrieved 2026-11-06T10:58:04Z; SHA-256 3a8d4240e986896bdfb44219bdc607e21edbb2ad78672f9378e601aea35d9f9e)
 
 ---
 
@@ -1529,6 +1662,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## OpenManus
+
+OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.
+
+- Catalog URL: https://awesomecua.com/resources/github-foundationagents-openmanus/
+- Original source: https://github.com/FoundationAgents/OpenManus
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, tool-integration, web-navigation
+- Evidence checked: 2026-11-06T16:36:34Z
+- ID: github:foundationagents/openmanus
+
+### Limitations
+
+The README declares an MIT license. It requires LLM API configuration and describes its multi-agent version as unstable.
+
+- Record JSON: https://awesomecua.com/resources/github-foundationagents-openmanus/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/FoundationAgents/OpenManus/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/FoundationAgents/OpenManus/3309bf4e416fb1c74b008f3e86494439a31bad53/README.md (retrieved 2026-11-06T16:36:34Z; SHA-256 47782e69584033d58236b5447fc61fd054170374d0c46ccdb863dad417423b57)
+- https://raw.githubusercontent.com/FoundationAgents/OpenManus/HEAD/LICENSE (retrieved 2026-11-06T10:58:03Z; SHA-256 79e3e521bf15d45421cdb731ed66ea66ff56c429e02a18a20e9f8958a3d1efcc)
+
+---
+
 ## OpenMobile-2 code
 
 Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
@@ -1753,6 +1920,39 @@ Source code and browser-environment modules are present. The repository LICENSE 
 
 ---
 
+## puppeteer-extra
+
+A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.
+
+- Catalog URL: https://awesomecua.com/resources/github-berstend-puppeteer-extra/
+- Original source: https://github.com/berstend/puppeteer-extra
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-06T16:36:31Z
+- ID: github:berstend/puppeteer-extra
+
+### Limitations
+
+The monorepo also includes playwright-extra for Playwright support. It uses Lerna and Yarn workspaces.
+
+- Record JSON: https://awesomecua.com/resources/github-berstend-puppeteer-extra/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/berstend/puppeteer-extra/39248f1f5deeb21b1e7eb6ae07b8ef73f1231ab9/README.md (retrieved 2026-11-06T16:36:31Z; SHA-256 0f0b47a7506bf234286008258421ab6be6b0532ef6fc972c88bae33bd257beb7)
+
+---
+
 ## RedTeamCUA
 
 A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.
@@ -1893,6 +2093,39 @@ The repository provides training, evaluation, and a custom mask decoder. Its cod
 
 - https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/README.md (retrieved 2026-10-17T01:46:05Z; SHA-256 2316acbef1207925b10b4770e14bdf69f6f4b6b3bc0ddb12e6be107d6f1425da)
 - https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/LICENSE (retrieved 2026-10-17T01:52:51Z; SHA-256 57bcc2eb985fa6036bf2bde7f28c4fd359c6b3479a658fea768162cac2a75ba5)
+
+---
+
+## SeleniumBase
+
+Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.
+
+- Catalog URL: https://awesomecua.com/resources/github-seleniumbase-seleniumbase/
+- Original source: https://github.com/seleniumbase/SeleniumBase
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, recording, evaluation
+- Evidence checked: 2026-11-06T16:36:31Z
+- ID: github:seleniumbase/seleniumbase
+
+### Limitations
+
+Release v4.57.1 dated 2026-11-05. Declared license MIT.
+
+- Record JSON: https://awesomecua.com/resources/github-seleniumbase-seleniumbase/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/seleniumbase/SeleniumBase/b806f54ab0c998c90654b59a817d959f7ff7920c/README.md (retrieved 2026-11-06T16:36:31Z; SHA-256 972f3699b8b5b3584a7ec980fcb1f464be33cddd822b2012e946f38ddb808116)
 
 ---
 
@@ -2215,6 +2448,39 @@ Training, memory-building and evaluation scripts for MiniWoB++ and Mind2Web are 
 - https://api.github.com/repos/ltzheng/Synapse/git/trees/main?recursive=1 (retrieved 2026-10-17T12:32:05Z; SHA-256 785a7163dac9f41b1d0ca97f8dd9311b6df6a09f3a5163438dd64db226a4ceaf)
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
 - https://raw.githubusercontent.com/ltzheng/Synapse/HEAD/LICENSE (retrieved 2026-10-17T12:34:09Z; SHA-256 cc4bce2274289d2b924fcc3c185c68b8e7c539365c5f8c72be865883244088ec)
+
+---
+
+## TestDriver SDK
+
+Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.
+
+- Catalog URL: https://awesomecua.com/resources/github-testdriverai-testdriverai/
+- Original source: https://github.com/testdriverai/testdriverai
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: automation, evaluation, sandbox
+- Evidence checked: 2026-11-06T16:36:27Z
+- ID: github:testdriverai/testdriverai
+
+### Limitations
+
+Release v7.4.5 dated 2026-02-27. GitHub reports no license for the repository.
+
+- Record JSON: https://awesomecua.com/resources/github-testdriverai-testdriverai/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/testdriverai/testdriverai/97d4d35d7727b2f83b1a73282aabf2e6e74824a2/README.md (retrieved 2026-11-06T16:36:27Z; SHA-256 ad59eb7c4a51282e1f3a06e906033df38d3056ced11fd0666d8f7e77f5c96db2)
 
 ---
 

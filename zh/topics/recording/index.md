@@ -1,6 +1,6 @@
 # 录制
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/recording/records.jsonl
 
@@ -68,10 +68,14 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   A Gradio interface for configuring and running Browser Use agents, including persistent browser sessions and interaction recordings.
 - [BrowserOS / BrowserOS neo](https://awesomecua.com/resources/github-browseros-ai-browseros/) — Date not recorded
   Chromium-based browser implementations for external agent control and built-in assistant workflows, with session visibility and replay facilities.
+- [Libretto](https://awesomecua.com/resources/github-cashew-labs-libretto/) — Date not recorded
+  Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.
 - [OpenAdapt](https://awesomecua.com/resources/github-openadaptai-openadapt/) — Date not recorded
   Tools for learning and automating workflows from desktop demonstrations.
 - [Scribe](https://awesomecua.com/resources/url-63ef8c7e455951a20281/) — Date not recorded
   Workflow recording and documentation product adjacent to agent data collection.
+- [SeleniumBase](https://awesomecua.com/resources/github-seleniumbase-seleniumbase/) — Date not recorded
+  Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.
 - [ShowUI-Aloha](https://awesomecua.com/resources/github-showlab-showui-aloha/) — Date not recorded
   Desktop agent that records demonstrations, derives semantic action traces, and uses them to plan and execute related workflows.
 - [Work2Skill](https://awesomecua.com/resources/github-china-qijizhifeng-work2skill/) — Date not recorded

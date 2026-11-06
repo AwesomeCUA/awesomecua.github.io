@@ -1,6 +1,6 @@
 # Safety & security
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/safety-security/records.jsonl
 
@@ -576,6 +576,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Research code for constructing and evaluating adversarial inputs to web agents, with a black-box red-team pipeline using Mind2Web data and SeeAct.
 - [Agent Browser Shield](https://awesomecua.com/resources/github-pixiebrix-agent-browser-shield/) — Date not recorded
   Browser extension for filtering potentially unsafe agent input.
+- [Browser Control MCP](https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/) — Date not recorded
+  An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.
 - [ORBIT framework](https://awesomecua.com/resources/github-wlanderson0-orbit/) — Date not recorded
   Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
 - [OS-Kairos](https://awesomecua.com/resources/github-wuzheng02-os-kairos/) — Date not recorded

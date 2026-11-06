@@ -1,10 +1,10 @@
 # AwesomeCUA curated catalog
 
-> All 2,146 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-06T15:45:10Z. Metadata-only bibliography records and unreviewed candidates are excluded.
+> All 2,170 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-06T17:14:14Z. Metadata-only bibliography records and unreviewed candidates are excluded.
 
 Each entry links its catalog page. Append `index.md` to that URL for the full annotation with evidence fingerprints, or `record.json` for the complete record. Full annotations by kind: [Models and checkpoints](https://awesomecua.com/categories/model/index.md), [Datasets](https://awesomecua.com/categories/dataset/index.md), [Benchmarks](https://awesomecua.com/categories/benchmark/index.md), [Agents](https://awesomecua.com/categories/agent/index.md), [Frameworks](https://awesomecua.com/categories/framework/index.md), [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md), [Tools](https://awesomecua.com/categories/tool/index.md), [Products](https://awesomecua.com/categories/product/index.md), [Publishers](https://awesomecua.com/categories/company/index.md), [Learning resources](https://awesomecua.com/categories/learning/index.md), [Surveys](https://awesomecua.com/categories/survey/index.md), [Research library](https://awesomecua.com/papers/index.md).
 
-Reviews are AI-assisted inspections of primary sources. Counts are resources, not independent projects. Code, data, weights and document licenses are recorded separately; unknown values stay unknown.
+Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
 
 Related reading: [English research survey](https://awesomecua.com/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
@@ -2131,7 +2131,7 @@ Browser-based enterprise workflow tasks built around ServiceNow.
 - https://awesomecua.com/resources/github-showlab-worldgui/ · source: https://github.com/showlab/WorldGUI
 - Benchmark · reviewed 2026-10-16 · environments: desktop · topics: evaluation, robustness
 
-## Agents (45)
+## Agents (49)
 
 ### Agent E
 
@@ -2148,6 +2148,14 @@ Simular's open-source framework for computer-use agents that click, type and scr
 - https://awesomecua.com/resources/github-simular-ai-agent-s/ · source: https://github.com/simular-ai/Agent-S
 - Agent · reviewed 2026-10-16 · environments: desktop · topics: planning, memory
 - Licenses: code Apache-2.0
+
+### Agent Zero
+
+Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.
+
+- https://awesomecua.com/resources/github-agent0ai-agent-zero/ · source: https://github.com/agent0ai/agent-zero
+- Agent · reviewed 2026-11-06 · environments: desktop, linux, web · topics: automation, sandbox, human-in-the-loop
+- Licenses: code MIT
 
 ### AppAgent
 
@@ -2208,6 +2216,14 @@ Web navigation agent built on ChatGLM3-6B that simplifies HTML for the model, is
 - https://awesomecua.com/resources/github-thudm-autowebglm/ · source: https://github.com/THUDM/AutoWebGLM
 - Agent · reviewed 2026-10-16 · environments: web · topics: web-navigation
 - Licenses: code Apache-2.0
+
+### BrowserGPT
+
+BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.
+
+- https://awesomecua.com/resources/github-mayt-browsergpt/ · source: https://github.com/mayt/BrowserGPT
+- Agent · reviewed 2026-11-06 · environments: web · topics: automation, web-navigation, grounding, tool-integration
+- Licenses: code MIT
 
 ### Bytebot
 
@@ -2395,6 +2411,14 @@ Multi-agent desktop automation component for Windows and macOS, combining active
 - Agent · reviewed 2026-10-18 · environments: desktop, windows, macos · topics: planning, cross-app, self-reflection
 - Licenses: code MIT
 
+### Qwen Code
+
+Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.
+
+- https://awesomecua.com/resources/github-qwenlm-qwen-code/ · source: https://github.com/QwenLM/qwen-code
+- Agent · reviewed 2026-11-06 · environments: desktop · topics: automation, tool-integration, workflow
+- Licenses: code Apache-2.0
+
 ### RCI Agent
 
 A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
@@ -2448,6 +2472,14 @@ Next.js and FastAPI playground from Steel for trying web agents in a controlled 
 - Agent · reviewed 2026-10-16 · environments: web · topics: web-navigation
 - Licenses: code MIT
 
+### TestZeus Hercules
+
+Open-source testing agent that takes Gherkin features and executes them end to end on web applications through Playwright.
+
+- https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/ · source: https://github.com/test-zeus-ai/testzeus-hercules
+- Agent · reviewed 2026-11-06 · environments: web · topics: automation, evaluation, web-navigation
+- Licenses: code AGPL-3.0
+
 ### UFO
 
 Windows agent framework for application and desktop automation.
@@ -2479,7 +2511,7 @@ Android phone assistant combining model-driven tool use with accessibility-tree 
 - Agent · reviewed 2026-10-20 · environments: android · topics: mobile-navigation, screen-understanding, human-in-the-loop
 - Licenses: code MIT
 
-## Frameworks (79)
+## Frameworks (87)
 
 ### AdvAgent (formerly AdvWeb)
 
@@ -2536,6 +2568,13 @@ Generates synthetic computer-use tasks and records trajectories in OSWorld deskt
 - Framework · reviewed 2026-10-18 · environments: desktop, web · topics: data-generation, long-horizon, automation
 - Licenses: code Apache-2.0
 
+### Alumnium
+
+An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.
+
+- https://awesomecua.com/resources/github-alumnium-hq-alumnium/ · source: https://github.com/alumnium-hq/alumnium
+- Framework · reviewed 2026-11-06 · environments: web · topics: automation, tool-integration, workflow
+
 ### AndroTMem inference and evaluation code
 
 A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
@@ -2560,6 +2599,13 @@ Open-source browser agent library that runs locally with any LLM against a local
 - Framework · reviewed 2026-10-16 · environments: web · topics: web-navigation
 - Licenses: code MIT
 
+### Capybara
+
+Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.
+
+- https://awesomecua.com/resources/github-teamcapybara-capybara/ · source: https://github.com/teamcapybara/capybara
+- Framework · reviewed 2026-11-06 · environments: web · topics: automation, web-navigation, evaluation
+
 ### CHOP
 
 Mobile automation framework that uses reusable basis subtasks to constrain and refine planning between user goals and executable actions.
@@ -2583,6 +2629,13 @@ Research scripts that generate screen descriptions, action reasoning and expecte
 - https://awesomecua.com/resources/github-imnearth-coat/ · source: https://github.com/IMNearth/CoAT
 - Framework · reviewed 2026-10-17 · environments: android · topics: planning, mobile-navigation, action-prediction
 
+### CodeceptJS
+
+CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.
+
+- https://awesomecua.com/resources/github-codeceptjs-codeceptjs/ · source: https://github.com/codeceptjs/CodeceptJS
+- Framework · reviewed 2026-11-06 · environments: web, android · topics: automation, tool-integration, workflow
+
 ### Computer Use OOTB
 
 Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claude 3.5 Computer Use over the API or ShowUI and UI-TARS run locally, with multi-display and phone remote control.
@@ -2597,6 +2650,14 @@ Reinforcement-learning infrastructure for computer-use agents.
 
 - https://awesomecua.com/resources/github-thudm-computerrl/ · source: https://github.com/THUDM/ComputerRL
 - Framework · reviewed 2026-10-16 · environments: desktop · topics: reinforcement-learning
+- Licenses: code Apache-2.0
+
+### ConnectOnion
+
+ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.
+
+- https://awesomecua.com/resources/github-openonion-connectonion/ · source: https://github.com/openonion/connectonion
+- Framework · reviewed 2026-11-06 · environments: web · topics: tool-integration, automation, memory, human-in-the-loop
 - Licenses: code Apache-2.0
 
 ### Cua
@@ -2808,6 +2869,14 @@ Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an
 - https://awesomecua.com/resources/github-nottelabs-notte/ · source: https://github.com/nottelabs/notte
 - Framework · reviewed 2026-10-16 · environments: web · topics: web-navigation
 
+### OpenManus
+
+OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.
+
+- https://awesomecua.com/resources/github-foundationagents-openmanus/ · source: https://github.com/FoundationAgents/OpenManus
+- Framework · reviewed 2026-11-06 · environments: web · topics: automation, tool-integration, web-navigation
+- Licenses: code MIT
+
 ### OpenMobile-2 code
 
 Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
@@ -2855,6 +2924,13 @@ A browser-agent training system that proposes tasks, collects visual interaction
 - https://awesomecua.com/resources/github-amazon-science-pae/ · source: https://github.com/amazon-science/PAE
 - Framework · reviewed 2026-10-17 · environments: web · topics: reinforcement-learning, web-navigation, data-generation
 
+### puppeteer-extra
+
+A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.
+
+- https://awesomecua.com/resources/github-berstend-puppeteer-extra/ · source: https://github.com/berstend/puppeteer-extra
+- Framework · reviewed 2026-11-06 · environments: web · topics: automation, tool-integration
+
 ### RedTeamCUA
 
 A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.
@@ -2885,6 +2961,13 @@ Training and inference implementation that predicts an executable-region mask an
 - https://awesomecua.com/resources/github-jcwang0602-seg2click/ · source: https://github.com/jcwang0602/Seg2Click
 - Framework · reviewed 2026-10-17 · environments: cross-platform · topics: grounding, screen-understanding
 - Licenses: code MIT
+
+### SeleniumBase
+
+Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.
+
+- https://awesomecua.com/resources/github-seleniumbase-seleniumbase/ · source: https://github.com/seleniumbase/SeleniumBase
+- Framework · reviewed 2026-11-06 · environments: web · topics: automation, recording, evaluation
 
 ### Self-MAP
 
@@ -2952,6 +3035,13 @@ A computer-control research implementation that retrieves example trajectories f
 
 - https://awesomecua.com/resources/github-ltzheng-synapse/ · source: https://github.com/ltzheng/Synapse
 - Framework · reviewed 2026-10-17 · environments: web · topics: memory, planning, web-navigation, imitation-learning
+
+### TestDriver SDK
+
+Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.
+
+- https://awesomecua.com/resources/github-testdriverai-testdriverai/ · source: https://github.com/testdriverai/testdriverai
+- Framework · reviewed 2026-11-06 · environments: desktop, web · topics: automation, evaluation, sandbox
 
 ### TongUI training and inference framework
 
@@ -3089,7 +3179,7 @@ Online RL framework for GUI agents in which VLMs generate the training tasks and
 - Framework · reviewed 2026-10-16 · environments: cross-platform · topics: reinforcement-learning, data-generation
 - Licenses: code Apache-2.0
 
-## Infrastructure (14)
+## Infrastructure (16)
 
 ### Agent Infra Sandbox
 
@@ -3106,6 +3196,13 @@ Desktop environments that AI agents control programmatically, run locally with D
 - https://awesomecua.com/resources/github-agentsea-agentdesk/ · source: https://github.com/agentsea/agentdesk
 - Infrastructure · reviewed 2026-10-16 · environments: desktop · topics: sandbox
 - Licenses: code MIT
+
+### AIOS
+
+AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.
+
+- https://awesomecua.com/resources/github-agiresearch-aios/ · source: https://github.com/agiresearch/AIOS
+- Infrastructure · reviewed 2026-11-06 · environments: desktop · topics: sandbox, tool-integration, memory
 
 ### AndroidEnv
 
@@ -3138,6 +3235,14 @@ Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driv
 - https://awesomecua.com/resources/github-e2b-dev-desktop/ · source: https://github.com/e2b-dev/desktop
 - Infrastructure · reviewed 2026-10-16 · environments: desktop, linux · topics: sandbox
 - Licenses: code Apache-2.0
+
+### Gobii Platform
+
+Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.
+
+- https://awesomecua.com/resources/github-gobii-ai-gobii-platform/ · source: https://github.com/gobii-ai/gobii-platform
+- Infrastructure · reviewed 2026-11-06 · environments: web · topics: automation, web-navigation, long-horizon
+- Licenses: code MIT
 
 ### Lume
 
@@ -3200,7 +3305,7 @@ An archived Gym-compatible client that exposes screen observations and keyboard/
 - Infrastructure · reviewed 2026-10-17 · environments: web, desktop · topics: automation, reinforcement-learning, history
 - Licenses: code MIT
 
-## Tools (22)
+## Tools (32)
 
 ### Activity Recorder
 
@@ -3231,6 +3336,14 @@ Generates mobile GUI interactions from natural-language test requirements and ch
 - https://awesomecua.com/resources/github-bz-lab-auitestagent/ · source: https://github.com/bz-lab/AUITestAgent
 - Tool · reviewed 2026-10-16 · environments: unspecified · topics: automation, evaluation
 
+### Browser Control MCP
+
+An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.
+
+- https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/ · source: https://github.com/eyalzh/browser-control-mcp
+- Tool · reviewed 2026-11-06 · environments: web · topics: tool-integration, web-navigation, human-in-the-loop, safety-security
+- Licenses: code MIT
+
 ### Browser Use WebUI
 
 A Gradio interface for configuring and running Browser Use agents, including persistent browser sessions and interaction recordings.
@@ -3255,12 +3368,43 @@ MCP tools for browser control and inspection through Chrome DevTools.
 - Tool · reviewed 2026-10-16 · environments: web · topics: automation, tool-integration
 - Licenses: code Apache-2.0
 
+### chromedp
+
+A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.
+
+- https://awesomecua.com/resources/github-chromedp-chromedp/ · source: https://github.com/chromedp/chromedp
+- Tool · reviewed 2026-11-06 · environments: web · topics: automation, web-navigation
+
+### Firecrawl
+
+Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.
+
+- https://awesomecua.com/resources/github-firecrawl-firecrawl/ · source: https://github.com/firecrawl/firecrawl
+- Tool · reviewed 2026-11-06 · environments: web · topics: web-navigation, automation, tool-integration
+- Licenses: code AGPL-3.0
+
 ### GUI Grounding Evaluation Harness
 
 ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt and crop-based inference comparisons, and per-sample grounding accuracy and cost records.
 
 - https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/ · source: https://github.com/PatrickStarL/gui-grounding-eval
 - Tool · reviewed 2026-10-20 · environments: unspecified · topics: grounding, evaluation, efficiency
+
+### Libretto
+
+Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.
+
+- https://awesomecua.com/resources/github-cashew-labs-libretto/ · source: https://github.com/cashew-labs/libretto
+- Tool · reviewed 2026-11-06 · environments: web · topics: automation, recording, tool-integration, web-navigation
+- Licenses: code MIT
+
+### mcp-server-browser-use
+
+MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.
+
+- https://awesomecua.com/resources/github-saik0s-mcp-browser-use/ · source: https://github.com/Saik0s/mcp-browser-use
+- Tool · reviewed 2026-11-06 · environments: web · topics: automation, web-navigation, tool-integration
+- Licenses: code MIT
 
 ### Mobile Harness
 
@@ -3301,6 +3445,21 @@ Screenshot parser that detects interactable regions and captions icons so vision
 - https://awesomecua.com/resources/github-microsoft-omniparser/ · source: https://github.com/microsoft/OmniParser
 - Tool · reviewed 2026-10-16 · environments: cross-platform · topics: screen-understanding, grounding
 
+### PhantomJS
+
+PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.
+
+- https://awesomecua.com/resources/github-ariya-phantomjs/ · source: https://github.com/ariya/phantomjs
+- Tool · reviewed 2026-11-06 · environments: web · topics: automation, evaluation, observability
+
+### pi-computer-use
+
+Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.
+
+- https://awesomecua.com/resources/github-injaneity-pi-computer-use/ · source: https://github.com/injaneity/pi-computer-use
+- Tool · reviewed 2026-11-06 · environments: desktop, macos, windows, linux · topics: automation, screen-understanding, tool-integration
+- Licenses: code MIT
+
 ### Playwright MCP
 
 MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
@@ -3308,6 +3467,14 @@ MCP server that lets LLM clients drive Playwright browsers through structured ac
 - https://awesomecua.com/resources/github-microsoft-playwright-mcp/ · source: https://github.com/microsoft/playwright-mcp
 - Tool · reviewed 2026-10-16 · environments: web · topics: automation, tool-integration
 - Licenses: code Apache-2.0
+
+### Playwright MCP Server (ExecuteAutomation)
+
+Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.
+
+- https://awesomecua.com/resources/github-executeautomation-mcp-playwright/ · source: https://github.com/executeautomation/mcp-playwright
+- Tool · reviewed 2026-11-06 · environments: web · topics: automation, web-navigation, tool-integration
+- Licenses: code MIT
 
 ### Set of Mark
 
@@ -3324,6 +3491,13 @@ The original Sikuli source distribution combines screenshot targets with a Jytho
 - https://awesomecua.com/resources/github-sikuli-sikuli/ · source: https://github.com/sikuli/sikuli
 - Tool · reviewed 2026-10-17 · environments: desktop, macos, linux, windows · topics: automation, grounding, screen-understanding, history
 - Licenses: code MIT
+
+### Tactile
+
+Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.
+
+- https://awesomecua.com/resources/github-yliust-tactile/ · source: https://github.com/yliust/Tactile
+- Tool · reviewed 2026-11-06 · environments: desktop, macos · topics: screen-understanding, grounding, tool-integration
 
 ### TAG attention-driven GUI grounding
 
@@ -3347,6 +3521,14 @@ Synthesizes visual UI defects from mobile screenshots and Android layout metadat
 - https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/ · source: https://github.com/ZJU-ACES-ISE/UIDefectMocker
 - Tool · reviewed 2026-10-16 · environments: android · topics: data-generation, evaluation, screen-understanding
 - Licenses: code MIT
+
+### web-eval-agent
+
+MCP server that launches a browser-use agent to run a web app, capture screenshots, console and network logs, and return a UX report to the coding agent.
+
+- https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/ · source: https://github.com/refreshdotdev/web-eval-agent
+- Tool · reviewed 2026-11-06 · environments: web · topics: evaluation, web-navigation, observability
+- Licenses: code Apache-2.0
 
 ### Web-Shepherd inference and evaluation
 

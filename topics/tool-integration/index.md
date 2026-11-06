@@ -1,6 +1,6 @@
 # Tool integration
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/tool-integration/records.jsonl
 
@@ -332,22 +332,40 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
 
 - [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/) — Date not recorded
   A browser-automation command-line interface that exposes browser state and interaction commands for AI agents.
+- [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/) — Date not recorded
+  AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.
+- [Alumnium](https://awesomecua.com/resources/github-alumnium-hq-alumnium/) — Date not recorded
+  An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.
 - [AutoDroid V2](https://awesomecua.com/resources/github-mobilellm-autodroid-v2/) — Date not recorded
   An Android automation implementation that builds app documentation from exploration traces and evaluates language-model-generated execution code in emulator workflows.
+- [Browser Control MCP](https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/) — Date not recorded
+  An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.
 - [Browser Use WebUI](https://awesomecua.com/resources/github-browser-use-web-ui/) — Date not recorded
   A Gradio interface for configuring and running Browser Use agents, including persistent browser sessions and interaction recordings.
+- [BrowserGPT](https://awesomecua.com/resources/github-mayt-browsergpt/) — Date not recorded
+  BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.
 - [BrowserOS / BrowserOS neo](https://awesomecua.com/resources/github-browseros-ai-browseros/) — Date not recorded
   Chromium-based browser implementations for external agent control and built-in assistant workflows, with session visibility and replay facilities.
 - [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) — Date not recorded
   MCP tools for browser control and inspection through Chrome DevTools.
+- [CodeceptJS](https://awesomecua.com/resources/github-codeceptjs-codeceptjs/) — Date not recorded
+  CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.
+- [ConnectOnion](https://awesomecua.com/resources/github-openonion-connectonion/) — Date not recorded
+  ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.
 - [CUAWright (formerly Webwright)](https://awesomecua.com/resources/github-microsoft-webwright/) — Date not recorded
   Agent framework for browser and desktop tasks using automation code.
 - [DroidCall generation and evaluation code](https://awesomecua.com/resources/github-ubiquitouslearning-droidcall/) — Date not recorded
   Data-generation, fine-tuning and evaluation utilities for teaching small language models to invoke Android intents through predefined functions.
+- [Firecrawl](https://awesomecua.com/resources/github-firecrawl-firecrawl/) — Date not recorded
+  Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.
+- [Libretto](https://awesomecua.com/resources/github-cashew-labs-libretto/) — Date not recorded
+  Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/) — Date not recorded
   Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.
 - [MAI-UI inference and evaluation code](https://awesomecua.com/resources/github-tongyi-mai-mai-ui/) — Date not recorded
   Published MAI-UI grounding and navigation-agent implementations with inference demos and evaluation scripts.
+- [mcp-server-browser-use](https://awesomecua.com/resources/github-saik0s-mcp-browser-use/) — Date not recorded
+  MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.
 - [Mobile Harness](https://awesomecua.com/resources/github-droidrun-mobile-harness/) — Date not recorded
   Portable agent instructions and integration tooling for local or cloud phone control through mobilerun-core.
 - [Mobile Next MCP](https://awesomecua.com/resources/github-mobile-next-mobile-mcp/) — Date not recorded
@@ -362,16 +380,28 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Assistant framework combining code execution and computer interaction.
 - [OpenAgents Web Agent](https://awesomecua.com/resources/component-xlang-ai-openagents-web-agent/) — Date not recorded
   The OpenAgents browser-control component, connecting a Chrome extension to a web agent and local chat platform for navigating sites and completing interface tasks.
+- [OpenManus](https://awesomecua.com/resources/github-foundationagents-openmanus/) — Date not recorded
+  OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.
 - [OpenMobile-2 code](https://awesomecua.com/resources/github-openmobile2-openmobile2-code/) — Date not recorded
   Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
 - [OS-Copilot](https://awesomecua.com/resources/github-os-copilot-os-copilot/) — Date not recorded
   Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.
+- [pi-computer-use](https://awesomecua.com/resources/github-injaneity-pi-computer-use/) — Date not recorded
+  Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.
 - [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) — Date not recorded
   MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
+- [Playwright MCP Server (ExecuteAutomation)](https://awesomecua.com/resources/github-executeautomation-mcp-playwright/) — Date not recorded
+  Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.
+- [puppeteer-extra](https://awesomecua.com/resources/github-berstend-puppeteer-extra/) — Date not recorded
+  A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.
+- [Qwen Code](https://awesomecua.com/resources/github-qwenlm-qwen-code/) — Date not recorded
+  Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.
 - [SheetCopilot](https://awesomecua.com/resources/github-bravegroup-sheetcopilot/) — Date not recorded
   Spreadsheet automation agent for Windows/Excel, with benchmark assets and a separately released headless Ubuntu evaluation backend.
 - [SkillWeaver](https://awesomecua.com/resources/github-osu-nlp-group-skillweaver/) — Date not recorded
   A web-agent framework that explores sites, synthesizes reusable interaction APIs and builds a skill library for later tasks.
+- [Tactile](https://awesomecua.com/resources/github-yliust-tactile/) — Date not recorded
+  Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.
 - [WebLlama](https://awesomecua.com/resources/github-mcgill-nlp-webllama/) — Date not recorded
   Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.
 - [WebMarker](https://awesomecua.com/resources/github-reidbarber-webmarker/) — Date not recorded

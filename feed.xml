@@ -3,7 +3,7 @@
   <title>AwesomeCUA: newly reviewed resources</title>
   <subtitle>Computer-use agent papers, models, datasets, benchmarks and tools as they pass source review, newest review first. Metadata-only bibliography records and unreviewed candidates are not included.</subtitle>
   <id>https://awesomecua.com/feed.xml</id>
-  <updated>2026-11-06T13:59:48Z</updated>
+  <updated>2026-11-06T16:36:39Z</updated>
   <link href="https://awesomecua.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://awesomecua.com/" rel="alternate" type="text/html" />
   <link href="https://awesomecua.com/feed.json" rel="alternate" type="application/feed+json" />
@@ -12,6 +12,270 @@
     <uri>https://awesomecua.com/</uri>
   </author>
   <rights>Catalog annotations: MIT. Linked resources keep their own terms.</rights>
+  <entry>
+    <title>Agent Zero</title>
+    <id>https://awesomecua.com/resources/github-agent0ai-agent-zero/</id>
+    <link href="https://awesomecua.com/resources/github-agent0ai-agent-zero/" rel="alternate" type="text/html" />
+    <link href="https://github.com/agent0ai/agent-zero" rel="related" />
+    <link href="https://awesomecua.com/resources/github-agent0ai-agent-zero/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:30Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.</summary>
+  </entry>
+  <entry>
+    <title>AIOS</title>
+    <id>https://awesomecua.com/resources/github-agiresearch-aios/</id>
+    <link href="https://awesomecua.com/resources/github-agiresearch-aios/" rel="alternate" type="text/html" />
+    <link href="https://github.com/agiresearch/AIOS" rel="related" />
+    <link href="https://awesomecua.com/resources/github-agiresearch-aios/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:39Z</updated>
+    <category term="infrastructure" label="Infrastructure" />
+    <summary>AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.</summary>
+  </entry>
+  <entry>
+    <title>Alumnium</title>
+    <id>https://awesomecua.com/resources/github-alumnium-hq-alumnium/</id>
+    <link href="https://awesomecua.com/resources/github-alumnium-hq-alumnium/" rel="alternate" type="text/html" />
+    <link href="https://github.com/alumnium-hq/alumnium" rel="related" />
+    <link href="https://awesomecua.com/resources/github-alumnium-hq-alumnium/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:33Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.</summary>
+  </entry>
+  <entry>
+    <title>Browser Control MCP</title>
+    <id>https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/</id>
+    <link href="https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/" rel="alternate" type="text/html" />
+    <link href="https://github.com/eyalzh/browser-control-mcp" rel="related" />
+    <link href="https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:31Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.</summary>
+  </entry>
+  <entry>
+    <title>BrowserGPT</title>
+    <id>https://awesomecua.com/resources/github-mayt-browsergpt/</id>
+    <link href="https://awesomecua.com/resources/github-mayt-browsergpt/" rel="alternate" type="text/html" />
+    <link href="https://github.com/mayt/BrowserGPT" rel="related" />
+    <link href="https://awesomecua.com/resources/github-mayt-browsergpt/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:33Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.</summary>
+  </entry>
+  <entry>
+    <title>Capybara</title>
+    <id>https://awesomecua.com/resources/github-teamcapybara-capybara/</id>
+    <link href="https://awesomecua.com/resources/github-teamcapybara-capybara/" rel="alternate" type="text/html" />
+    <link href="https://github.com/teamcapybara/capybara" rel="related" />
+    <link href="https://awesomecua.com/resources/github-teamcapybara-capybara/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:33Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.</summary>
+  </entry>
+  <entry>
+    <title>chromedp</title>
+    <id>https://awesomecua.com/resources/github-chromedp-chromedp/</id>
+    <link href="https://awesomecua.com/resources/github-chromedp-chromedp/" rel="alternate" type="text/html" />
+    <link href="https://github.com/chromedp/chromedp" rel="related" />
+    <link href="https://awesomecua.com/resources/github-chromedp-chromedp/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:32Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.</summary>
+  </entry>
+  <entry>
+    <title>CodeceptJS</title>
+    <id>https://awesomecua.com/resources/github-codeceptjs-codeceptjs/</id>
+    <link href="https://awesomecua.com/resources/github-codeceptjs-codeceptjs/" rel="alternate" type="text/html" />
+    <link href="https://github.com/codeceptjs/CodeceptJS" rel="related" />
+    <link href="https://awesomecua.com/resources/github-codeceptjs-codeceptjs/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:33Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.</summary>
+  </entry>
+  <entry>
+    <title>ConnectOnion</title>
+    <id>https://awesomecua.com/resources/github-openonion-connectonion/</id>
+    <link href="https://awesomecua.com/resources/github-openonion-connectonion/" rel="alternate" type="text/html" />
+    <link href="https://github.com/openonion/connectonion" rel="related" />
+    <link href="https://awesomecua.com/resources/github-openonion-connectonion/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:39Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.</summary>
+  </entry>
+  <entry>
+    <title>Firecrawl</title>
+    <id>https://awesomecua.com/resources/github-firecrawl-firecrawl/</id>
+    <link href="https://awesomecua.com/resources/github-firecrawl-firecrawl/" rel="alternate" type="text/html" />
+    <link href="https://github.com/firecrawl/firecrawl" rel="related" />
+    <link href="https://awesomecua.com/resources/github-firecrawl-firecrawl/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:39Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.</summary>
+  </entry>
+  <entry>
+    <title>Gobii Platform</title>
+    <id>https://awesomecua.com/resources/github-gobii-ai-gobii-platform/</id>
+    <link href="https://awesomecua.com/resources/github-gobii-ai-gobii-platform/" rel="alternate" type="text/html" />
+    <link href="https://github.com/gobii-ai/gobii-platform" rel="related" />
+    <link href="https://awesomecua.com/resources/github-gobii-ai-gobii-platform/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:28Z</updated>
+    <category term="infrastructure" label="Infrastructure" />
+    <summary>Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.</summary>
+  </entry>
+  <entry>
+    <title>Libretto</title>
+    <id>https://awesomecua.com/resources/github-cashew-labs-libretto/</id>
+    <link href="https://awesomecua.com/resources/github-cashew-labs-libretto/" rel="alternate" type="text/html" />
+    <link href="https://github.com/cashew-labs/libretto" rel="related" />
+    <link href="https://awesomecua.com/resources/github-cashew-labs-libretto/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:31Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.</summary>
+  </entry>
+  <entry>
+    <title>mcp-server-browser-use</title>
+    <id>https://awesomecua.com/resources/github-saik0s-mcp-browser-use/</id>
+    <link href="https://awesomecua.com/resources/github-saik0s-mcp-browser-use/" rel="alternate" type="text/html" />
+    <link href="https://github.com/Saik0s/mcp-browser-use" rel="related" />
+    <link href="https://awesomecua.com/resources/github-saik0s-mcp-browser-use/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:28Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.</summary>
+  </entry>
+  <entry>
+    <title>OpenManus</title>
+    <id>https://awesomecua.com/resources/github-foundationagents-openmanus/</id>
+    <link href="https://awesomecua.com/resources/github-foundationagents-openmanus/" rel="alternate" type="text/html" />
+    <link href="https://github.com/FoundationAgents/OpenManus" rel="related" />
+    <link href="https://awesomecua.com/resources/github-foundationagents-openmanus/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:34Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.</summary>
+  </entry>
+  <entry>
+    <title>PhantomJS</title>
+    <id>https://awesomecua.com/resources/github-ariya-phantomjs/</id>
+    <link href="https://awesomecua.com/resources/github-ariya-phantomjs/" rel="alternate" type="text/html" />
+    <link href="https://github.com/ariya/phantomjs" rel="related" />
+    <link href="https://awesomecua.com/resources/github-ariya-phantomjs/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:36Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.</summary>
+  </entry>
+  <entry>
+    <title>pi-computer-use</title>
+    <id>https://awesomecua.com/resources/github-injaneity-pi-computer-use/</id>
+    <link href="https://awesomecua.com/resources/github-injaneity-pi-computer-use/" rel="alternate" type="text/html" />
+    <link href="https://github.com/injaneity/pi-computer-use" rel="related" />
+    <link href="https://awesomecua.com/resources/github-injaneity-pi-computer-use/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:27Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.</summary>
+  </entry>
+  <entry>
+    <title>Playwright MCP Server (ExecuteAutomation)</title>
+    <id>https://awesomecua.com/resources/github-executeautomation-mcp-playwright/</id>
+    <link href="https://awesomecua.com/resources/github-executeautomation-mcp-playwright/" rel="alternate" type="text/html" />
+    <link href="https://github.com/executeautomation/mcp-playwright" rel="related" />
+    <link href="https://awesomecua.com/resources/github-executeautomation-mcp-playwright/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:28Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.</summary>
+  </entry>
+  <entry>
+    <title>puppeteer-extra</title>
+    <id>https://awesomecua.com/resources/github-berstend-puppeteer-extra/</id>
+    <link href="https://awesomecua.com/resources/github-berstend-puppeteer-extra/" rel="alternate" type="text/html" />
+    <link href="https://github.com/berstend/puppeteer-extra" rel="related" />
+    <link href="https://awesomecua.com/resources/github-berstend-puppeteer-extra/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:31Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.</summary>
+  </entry>
+  <entry>
+    <title>Qwen Code</title>
+    <id>https://awesomecua.com/resources/github-qwenlm-qwen-code/</id>
+    <link href="https://awesomecua.com/resources/github-qwenlm-qwen-code/" rel="alternate" type="text/html" />
+    <link href="https://github.com/QwenLM/qwen-code" rel="related" />
+    <link href="https://awesomecua.com/resources/github-qwenlm-qwen-code/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:39Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.</summary>
+  </entry>
+  <entry>
+    <title>SeleniumBase</title>
+    <id>https://awesomecua.com/resources/github-seleniumbase-seleniumbase/</id>
+    <link href="https://awesomecua.com/resources/github-seleniumbase-seleniumbase/" rel="alternate" type="text/html" />
+    <link href="https://github.com/seleniumbase/SeleniumBase" rel="related" />
+    <link href="https://awesomecua.com/resources/github-seleniumbase-seleniumbase/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:31Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.</summary>
+  </entry>
+  <entry>
+    <title>Tactile</title>
+    <id>https://awesomecua.com/resources/github-yliust-tactile/</id>
+    <link href="https://awesomecua.com/resources/github-yliust-tactile/" rel="alternate" type="text/html" />
+    <link href="https://github.com/yliust/Tactile" rel="related" />
+    <link href="https://awesomecua.com/resources/github-yliust-tactile/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:28Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.</summary>
+  </entry>
+  <entry>
+    <title>TestDriver SDK</title>
+    <id>https://awesomecua.com/resources/github-testdriverai-testdriverai/</id>
+    <link href="https://awesomecua.com/resources/github-testdriverai-testdriverai/" rel="alternate" type="text/html" />
+    <link href="https://github.com/testdriverai/testdriverai" rel="related" />
+    <link href="https://awesomecua.com/resources/github-testdriverai-testdriverai/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:27Z</updated>
+    <category term="framework" label="Frameworks" />
+    <summary>Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.</summary>
+  </entry>
+  <entry>
+    <title>TestZeus Hercules</title>
+    <id>https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/</id>
+    <link href="https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/" rel="alternate" type="text/html" />
+    <link href="https://github.com/test-zeus-ai/testzeus-hercules" rel="related" />
+    <link href="https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:27Z</updated>
+    <category term="agent" label="Agents" />
+    <summary>Open-source testing agent that takes Gherkin features and executes them end to end on web applications through Playwright.</summary>
+  </entry>
+  <entry>
+    <title>web-eval-agent</title>
+    <id>https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/</id>
+    <link href="https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/" rel="alternate" type="text/html" />
+    <link href="https://github.com/refreshdotdev/web-eval-agent" rel="related" />
+    <link href="https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-06T16:36:26Z</published>
+    <updated>2026-11-06T16:36:27Z</updated>
+    <category term="tool" label="Tools" />
+    <summary>MCP server that launches a browser-use agent to run a web app, capture screenshots, console and network logs, and return a UX report to the coding agent.</summary>
+  </entry>
   <entry>
     <title>"What Did It Actually Do?": Understanding Risk Awareness and Traceability for Computer-Use Agents</title>
     <id>https://awesomecua.com/resources/arxiv-2603-28551/</id>
@@ -847,269 +1111,5 @@
     <updated>2026-11-06T13:59:48Z</updated>
     <category term="paper" label="Research papers" />
     <summary>Introduces DocOps, a verifiable benchmark for agents handling complex digital-document workflows, with analysis of state tracking, semantic checks, and structural edits.</summary>
-  </entry>
-  <entry>
-    <title>DRIVE: Modeling Skills at the Reasoning and Interaction Levels for Web Agents under Continual Learning</title>
-    <id>https://awesomecua.com/resources/arxiv-2605-23939/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2605-23939/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2605.23939" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2605-23939/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>DRIVE separates reusable reasoning skills from page-specific interaction skills for web agents, retrieving both to plan tasks and execute actions on websites.</summary>
-  </entry>
-  <entry>
-    <title>DynaRev: Benchmarking Web Agents under Dynamic Goal Revision</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-40133/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-40133/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.40133" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-40133/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces DynaRev, a benchmark of 181 web-agent tasks whose goals change during execution, with trajectory-based measures of correctness, responsiveness, and efficiency.</summary>
-  </entry>
-  <entry>
-    <title>Enhancing Web Agents with a Hierarchical Memory Tree</title>
-    <id>https://awesomecua.com/resources/arxiv-2603-07024/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2603-07024/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2603.07024" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2603-07024/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces Hierarchical Memory Tree (HMT), which organizes web-agent trajectories by intent, stage and action, then uses the hierarchy to plan and act on websites.</summary>
-  </entry>
-  <entry>
-    <title>EnvOS: Auditing Computer-Use Agents When the World Moves On : Phenomenon-Based Task Construction, Certification, and Evidence-Based Evaluation</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-40246/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-40246/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.40246" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-40246/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces EnvOS, a framework for constructing and auditing changing computer-use environments, including checks of task changes, solvability, grading, and run evidence.</summary>
-  </entry>
-  <entry>
-    <title>Evolving Agent Interfaces</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-28601/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-28601/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.28601" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-28601/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Agent S4 uses task trajectories to evolve interfaces and usage guidance for a computer-use agent, selecting changes through validation tasks.</summary>
-  </entry>
-  <entry>
-    <title>EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-16402/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-16402/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.16402" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-16402/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces EvoWeb, a benchmark for coding agents that extend web applications through dependent requests; a multimodal web agent checks each version in a live browser.</summary>
-  </entry>
-  <entry>
-    <title>FinCUABuild: Can Agents Build Reliable Benchmarks for Dynamic Financial Computer Use?</title>
-    <id>https://awesomecua.com/resources/arxiv-2609-07603/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2609-07603/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2609.07603" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2609-07603/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces FinCUABuildBench for assessing financial computer-use task construction and FinCUABuildAgent for generating tasks, environments, and validators.</summary>
-  </entry>
-  <entry>
-    <title>FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting</title>
-    <id>https://awesomecua.com/resources/arxiv-2604-27974/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2604-27974/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2604.27974" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2604-27974/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>FineState-Bench tests whether GUI agents locate the intended control and set its exact state across desktop, web, and mobile interfaces, with stage-wise diagnostic metrics.</summary>
-  </entry>
-  <entry>
-    <title>FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory</title>
-    <id>https://awesomecua.com/resources/arxiv-2608-04530/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2608-04530/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2608.04530" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2608-04530/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces FocusMem, a latent memory interface for GUI agents that separates stored content, state-conditioned readout, and a gate for irrelevant retrieved experience.</summary>
-  </entry>
-  <entry>
-    <title>FormGym: Doing Paperwork with Agents</title>
-    <id>https://awesomecua.com/resources/arxiv-2506-14079/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2506-14079/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2506.14079" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2506-14079/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces FormGym, a benchmark for filling image-only forms, and FieldFinder, a tool that helps LLMs locate where to place text on those forms.</summary>
-  </entry>
-  <entry>
-    <title>From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation</title>
-    <id>https://awesomecua.com/resources/arxiv-2604-12666/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2604-12666/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2604.12666" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2604-12666/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces the Triton dataset and a staged training curriculum for text-based web navigation agents, using hard-negative HTML examples to train element discrimination and longer task execution.</summary>
-  </entry>
-  <entry>
-    <title>From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-37482/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-37482/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.37482" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-37482/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces Task Advancement Memory (TAM) for long GUI workflows, tracking task progress across applications and learning reusable operations from interactions with local results.</summary>
-  </entry>
-  <entry>
-    <title>From Local Skills to Long-Horizon Web Tasks: Progressive Skill Exploration for LLM Web Agents</title>
-    <id>https://awesomecua.com/resources/arxiv-2611-03116/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2611-03116/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2611.03116" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2611-03116/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces SCOPE, a training method for long web-agent tasks that discovers local skills from rollouts, composes them into chains, and expands them using failure experience.</summary>
-  </entry>
-  <entry>
-    <title>From Seeing to Reporting: A Theory of Reliable Visual Set Generation in Vision-Language Models</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-25503/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-25503/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.25503" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-25503/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>FSR models visual reporting and gives inference-time procedures for frozen vision-language models, including screen parsing and GUI target selection.</summary>
-  </entry>
-  <entry>
-    <title>fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-24729/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-24729/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.24729" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-24729/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces fxBench, a benchmark of spreadsheet formula suggestions, and examines context selection, intent understanding and formula writing for editing assistance.</summary>
-  </entry>
-  <entry>
-    <title>GameWAM: A World Action Model for Video Games</title>
-    <id>https://awesomecua.com/resources/arxiv-2608-26200/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2608-26200/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2608.26200" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2608-26200/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces GameWAM, a model for native game play and GUI control that predicts future visuals and keyboard-mouse actions from synchronized gameplay and GUI trajectories.</summary>
-  </entry>
-  <entry>
-    <title>GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents</title>
-    <id>https://awesomecua.com/resources/arxiv-2604-07429/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2604-07429/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2604.07429" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2604-07429/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces GameWorld, a browser-game benchmark that evaluates multimodal agents through keyboard and mouse controls or semantic actions using outcome checks.</summary>
-  </entry>
-  <entry>
-    <title>Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-16998/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-16998/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.16998" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-16998/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces Glasseek, a framework for deep-search agents that explore the open web, with trajectory construction, training across context compression, and a test-set leakage audit.</summary>
-  </entry>
-  <entry>
-    <title>GTA: Generating Long-Horizon Tasks for Web Agents at Scale</title>
-    <id>https://awesomecua.com/resources/arxiv-2605-29218/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2605-29218/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2605.29218" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2605-29218/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>GTA generates multi-hop web-agent tasks and executable trajectories through crawling, retrieval, and validation, releasing a benchmark built from over 50 websites.</summary>
-  </entry>
-  <entry>
-    <title>GUI-C$^2$: Coarse-to-Fine GUI Grounding via Difficulty-Aware Reinforcement Learning</title>
-    <id>https://awesomecua.com/resources/arxiv-2605-30884/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2605-30884/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2605.30884" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2605-30884/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces GUI-D to score training samples by difficulty and GUI-C² to refine screen-element locations through area-gated cropping and reinforcement learning.</summary>
-  </entry>
-  <entry>
-    <title>GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-36877/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-36877/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.36877" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-36877/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces GUI-JEPA, a mobile GUI policy that scores candidate actions from screenshot latents in a batched pass without decoding action text.</summary>
-  </entry>
-  <entry>
-    <title>GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL</title>
-    <id>https://awesomecua.com/resources/arxiv-2602-22190/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2602-22190/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2602.22190" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2602-22190/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>GUI-Libra trains GUI agents with action-aware supervision, a curated reasoning dataset and reinforcement learning adapted to partially verifiable actions across web and mobile tasks.</summary>
-  </entry>
-  <entry>
-    <title>GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-34959/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-34959/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.34959" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-34959/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Introduces GUIFlow, an incremental inference framework that reuses visual, language, and action computation across successive GUI-agent steps.</summary>
-  </entry>
-  <entry>
-    <title>Harness Evolution Hits a Ceiling: When Weight Training Should Begin</title>
-    <id>https://awesomecua.com/resources/arxiv-2610-11655/</id>
-    <link href="https://awesomecua.com/resources/arxiv-2610-11655/" rel="alternate" type="text/html" />
-    <link href="https://arxiv.org/abs/2610.11655" rel="related" />
-    <link href="https://awesomecua.com/resources/arxiv-2610-11655/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-06T13:59:48Z</published>
-    <updated>2026-11-06T13:59:48Z</updated>
-    <category term="paper" label="Research papers" />
-    <summary>Studies when to improve an LLM agent's runtime harness or train its weights by classifying failed trajectories; WebArena-Lite supplies a web-task transfer test.</summary>
   </entry>
 </feed>

@@ -1,10 +1,10 @@
 # Computer-use agent agents
 
-> 45 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T15:45:10Z.
+> 49 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T17:14:14Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
-Reviews are AI-assisted inspections of primary sources. Counts are resources, not independent projects. Code, data, weights and document licenses are recorded separately; unknown values stay unknown.
+Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -73,6 +73,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/README.md (retrieved 2026-10-16T06:36:02Z; SHA-256 9ea381fdb78eb326d988ea384b6f5074ef0ff4c0d5fab555a148eded385e88f1)
 - https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE (retrieved 2026-10-16T06:42:03Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
+
+---
+
+## Agent Zero
+
+Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.
+
+- Catalog URL: https://awesomecua.com/resources/github-agent0ai-agent-zero/
+- Original source: https://github.com/agent0ai/agent-zero
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: automation, sandbox, human-in-the-loop
+- Evidence checked: 2026-11-06T16:36:30Z
+- ID: github:agent0ai/agent-zero
+
+### Limitations
+
+MIT per LICENSE. Release v2.15 dated 2026-11-01. Needs a supported AI account, a provider API key or a local model server.
+
+- Record JSON: https://awesomecua.com/resources/github-agent0ai-agent-zero/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/agent0ai/agent-zero/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agent0ai/agent-zero/ba9b67df0f54ac78106ae85c552ef5d2458f7c9a/README.md (retrieved 2026-11-06T16:36:30Z; SHA-256 b776433681d02bbef0d04cc1da916d8ca0b80dbd1bf4fb518b040377afc9e33a)
+- https://raw.githubusercontent.com/agent0ai/agent-zero/HEAD/LICENSE (retrieved 2026-11-06T09:58:01Z; SHA-256 23844ed5fb9976b15e6c0be1b617918cb1c32e13e8d70b74100dae08d40fbf23)
 
 ---
 
@@ -352,6 +386,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/THUDM/AutoWebGLM/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 9d18b958cfefd47100aa32ab14374c22ababb997a637a80da98b1977dec83fe0)
 - https://raw.githubusercontent.com/THUDM/AutoWebGLM/HEAD/LICENSE (retrieved 2026-10-16T06:42:04Z; SHA-256 0d97778d2d5e7439d1fbb0ce628565e7bd49886b2e86e6e6ca3d481c7fdc3256)
+
+---
+
+## BrowserGPT
+
+BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-mayt-browsergpt/
+- Original source: https://github.com/mayt/BrowserGPT
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, web-navigation, grounding, tool-integration
+- Evidence checked: 2026-11-06T16:36:33Z
+- ID: github:mayt/browsergpt
+
+### Limitations
+
+The project is licensed under the MIT License. Generated code may fail to execute, and some websites may be too large to fit in a smaller model's prompt.
+
+- Record JSON: https://awesomecua.com/resources/github-mayt-browsergpt/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/mayt/BrowserGPT/HEAD/LICENSE.md
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mayt/BrowserGPT/86b56d6ba7b7d9121710704301940cb69f000632/README.md (retrieved 2026-11-06T16:36:33Z; SHA-256 d480f32c47f028dd5b5022e74c9496b2aebfdddf533c69de4904e422f33343e2)
+- https://raw.githubusercontent.com/mayt/BrowserGPT/HEAD/LICENSE.md (retrieved 2026-11-06T10:58:03Z; SHA-256 74f7798436f94af81d606282fd39eb994fc1313e66a75571fd6560ef45a88234)
 
 ---
 
@@ -1220,6 +1288,40 @@ Scoped to PC-Agent in the MobileAgent monorepo and distinct from GAIR-NLP/PC-Age
 
 ---
 
+## Qwen Code
+
+Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/github-qwenlm-qwen-code/
+- Original source: https://github.com/QwenLM/qwen-code
+- Kind: agent
+- Review: curated
+- Scope: adjacent
+- Environments: desktop
+- Topics: automation, tool-integration, workflow
+- Evidence checked: 2026-11-06T16:36:39Z
+- ID: github:qwenlm/qwen-code
+
+### Limitations
+
+The Web UI and daemon are marked experimental. The daemon listens on loopback without bearer authentication by default.
+
+- Record JSON: https://awesomecua.com/resources/github-qwenlm-qwen-code/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/QwenLM/qwen-code/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/QwenLM/qwen-code/3b39fc2a19bc2063df400e140d0bcdd7505e6152/README.md (retrieved 2026-11-06T16:36:39Z; SHA-256 7c35dd6657f02f3260e507445a0b4b4eb7b580e153e185f7daa5dd85c8e6a16b)
+- https://raw.githubusercontent.com/QwenLM/qwen-code/HEAD/LICENSE (retrieved 2026-11-06T10:58:04Z; SHA-256 55367b61ccd2a016a0159ad886bd66a3ee6cb5e873d0c75c803c897dd245b075)
+
+---
+
 ## RCI Agent
 
 A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
@@ -1462,6 +1564,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/steel-dev/surf.new/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 b92abb5fdf714e569cf9f0d2c85ac3fb91ed67365e371a4b322aafe6fab39a1d)
 - https://raw.githubusercontent.com/steel-dev/surf.new/HEAD/LICENSE (retrieved 2026-10-16T06:42:04Z; SHA-256 efae611b1201878994c77b110867dcb65fb24a098c398bf5dec6138a47662bbc)
+
+---
+
+## TestZeus Hercules
+
+Open-source testing agent that takes Gherkin features and executes them end to end on web applications through Playwright.
+
+- Catalog URL: https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/
+- Original source: https://github.com/test-zeus-ai/testzeus-hercules
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, evaluation, web-navigation
+- Evidence checked: 2026-11-06T16:36:27Z
+- ID: github:test-zeus-ai/testzeus-hercules
+
+### Limitations
+
+Declared license AGPL-3.0; release 1.0.2 dated 2026-08-03.
+
+- Record JSON: https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/record.json
+
+### License declarations
+
+- code: AGPL-3.0 — https://raw.githubusercontent.com/test-zeus-ai/testzeus-hercules/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/test-zeus-ai/testzeus-hercules/269c053fbf6a4a33b5a94c3f71b6333bd6c476f7/README.md (retrieved 2026-11-06T16:36:27Z; SHA-256 78cd6bcf71e7c1af4ce4ca7de84b76656e9e57d51b72fc02b5e415a78c11976b)
+- https://raw.githubusercontent.com/test-zeus-ai/testzeus-hercules/HEAD/LICENSE (retrieved 2026-11-06T09:57:50Z; SHA-256 20b067f86de375aae6db0f283ab2e65de24d537733b89bd58432c101259d84cf)
 
 ---
 

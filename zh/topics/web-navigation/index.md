@@ -1,6 +1,6 @@
 # 网页导航
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/web-navigation/records.jsonl
 
@@ -796,32 +796,48 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   AWS service for building and deploying agents that automate browser-based UI workflows from natural language and Python, powered by a custom Nova 2 Lite model.
 - [AutoWebGLM](https://awesomecua.com/resources/github-thudm-autowebglm/) — Date not recorded
   Web navigation agent built on ChatGLM3-6B that simplifies HTML for the model, is trained on hybrid human and AI data with RL and rejection sampling, and comes with the bilingual AutoWebBench.
+- [Browser Control MCP](https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/) — Date not recorded
+  An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.
 - [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) — Date not recorded
   Open-source browser agent library that runs locally with any LLM against a local or cloud browser, and also serves as a CLI for coding agents and as a driver for Claude's browser toolset.
 - [Browser Use Cloud](https://awesomecua.com/resources/url-ef244017b1460269fc68/) — Date not recorded
   Hosted browser-agent platform from Browser Use.
 - [Browser Use WebUI](https://awesomecua.com/resources/github-browser-use-web-ui/) — Date not recorded
   A Gradio interface for configuring and running Browser Use agents, including persistent browser sessions and interaction recordings.
+- [BrowserGPT](https://awesomecua.com/resources/github-mayt-browsergpt/) — Date not recorded
+  BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.
 - [BrowserOS / BrowserOS neo](https://awesomecua.com/resources/github-browseros-ai-browseros/) — Date not recorded
   Chromium-based browser implementations for external agent control and built-in assistant workflows, with session visibility and replay facilities.
 - [CAAP Agent](https://awesomecua.com/resources/github-caap-agent-caap-agent/) — Date not recorded
   Screenshot-driven agent implementation for MiniWoB++ and WebShop, using a visual observer and context-aware prompts to issue mouse and keyboard actions.
+- [Capybara](https://awesomecua.com/resources/github-teamcapybara-capybara/) — Date not recorded
+  Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.
 - [ChatGPT Atlas](https://awesomecua.com/resources/url-240a05c02f85d4da60dc/) — Date not recorded
   OpenAI browser product integrating ChatGPT and agent capabilities.
+- [chromedp](https://awesomecua.com/resources/github-chromedp-chromedp/) — Date not recorded
+  A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.
 - [Claude for Chrome](https://awesomecua.com/resources/url-07b6bbce7ce26a847f79/) — Date not recorded
   Claude browser extension for interacting with websites.
+- [Firecrawl](https://awesomecua.com/resources/github-firecrawl-firecrawl/) — Date not recorded
+  Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.
 - [Go-Browse](https://awesomecua.com/resources/github-apga-go-browse/) — Date not recorded
   Structured website-exploration and data-processing code that revisits discovered pages, proposes tasks and collects trajectories for web-agent fine-tuning.
+- [Gobii Platform](https://awesomecua.com/resources/github-gobii-ai-gobii-platform/) — Date not recorded
+  Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.
 - [HoloTab](https://awesomecua.com/resources/url-4a47a6df845735984bf1/) — Date not recorded
   H browser extension for executing tasks through website interfaces.
 - [HyperAgent](https://awesomecua.com/resources/github-hyperbrowserai-hyperagent/) — Date not recorded
   Library adding natural-language commands to Playwright: accessibility-tree single actions, multi-step tasks that can use screenshots, an MCP client and action caching for replay without LLM calls.
 - [LaVague](https://awesomecua.com/resources/github-lavague-ai-lavague/) — Date not recorded
   Open-source web agent framework where a World Model turns an objective and the current page into instructions and an Action Engine compiles them into Selenium or Playwright code to run.
+- [Libretto](https://awesomecua.com/resources/github-cashew-labs-libretto/) — Date not recorded
+  Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/) — Date not recorded
   Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.
 - [Lumen browser agent](https://awesomecua.com/resources/github-omxyz-lumen/) — Date not recorded
   A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.
+- [mcp-server-browser-use](https://awesomecua.com/resources/github-saik0s-mcp-browser-use/) — Date not recorded
+  MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.
 - [Nanobrowser](https://awesomecua.com/resources/github-nanobrowser-nanobrowser/) — Date not recorded
   A browser-extension agent that reads pages, interacts with elements and moves between tabs from a side-panel task interface.
 - [NNetNav](https://awesomecua.com/resources/github-murtyshikhar-nnetnav/) — Date not recorded
@@ -830,12 +846,16 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.
 - [OpenAgents Web Agent](https://awesomecua.com/resources/component-xlang-ai-openagents-web-agent/) — Date not recorded
   The OpenAgents browser-control component, connecting a Chrome extension to a web agent and local chat platform for navigating sites and completing interface tasks.
+- [OpenManus](https://awesomecua.com/resources/github-foundationagents-openmanus/) — Date not recorded
+  OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.
 - [Operator](https://awesomecua.com/resources/url-f0584842138a52158f51/) — Date not recorded
   Historical OpenAI browser-agent research preview.
 - [ORBIT framework](https://awesomecua.com/resources/github-wlanderson0-orbit/) — Date not recorded
   Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
 - [Plan-and-Act](https://awesomecua.com/resources/github-squeezeailab-plan-and-act/) — Date not recorded
   A web-agent framework that separates high-level planning from action execution, with replanning and synthetic planner-data generation components.
+- [Playwright MCP Server (ExecuteAutomation)](https://awesomecua.com/resources/github-executeautomation-mcp-playwright/) — Date not recorded
+  Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.
 - [Proposer-Agent-Evaluator (PAE)](https://awesomecua.com/resources/github-amazon-science-pae/) — Date not recorded
   A browser-agent training system that proposes tasks, collects visual interaction trajectories, and uses automated evaluation to drive policy improvement.
 - [RCI Agent](https://awesomecua.com/resources/github-posgnu-rci-agent/) — Date not recorded
@@ -856,8 +876,12 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Next.js and FastAPI playground from Steel for trying web agents in a controlled browser environment, with live views of browser interaction and support for providers such as Claude and GPT-4.
 - [Synapse](https://awesomecua.com/resources/github-ltzheng-synapse/) — Date not recorded
   A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
+- [TestZeus Hercules](https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/) — Date not recorded
+  Open-source testing agent that takes Gherkin features and executes them end to end on web applications through Playwright.
 - [TinyFish](https://awesomecua.com/resources/url-d92596cfe618e5322ec2/) — Date not recorded
   Browser-agent API for executing web tasks and extracting structured results.
+- [web-eval-agent](https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/) — Date not recorded
+  MCP server that launches a browser-use agent to run a web app, capture screenshots, console and network logs, and return a UX report to the coding agent.
 - [Web-Shepherd inference and evaluation](https://awesomecua.com/resources/github-kyle8581-web-shepherd/) — Date not recorded
   Process-reward inference and benchmark-evaluation utilities that use task checklists to assess individual web-agent decisions.
 - [WebAgent-R1](https://awesomecua.com/resources/github-weizhepei-webagent-r1/) — Date not recorded

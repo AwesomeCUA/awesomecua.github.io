@@ -1,6 +1,6 @@
 # Evaluation
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/evaluation/records.jsonl
 
@@ -1862,6 +1862,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
 - [AUITestAgent](https://awesomecua.com/resources/github-bz-lab-auitestagent/) — Date not recorded
   Generates mobile GUI interactions from natural-language test requirements and checks application behavior against those requirements.
+- [Capybara](https://awesomecua.com/resources/github-teamcapybara-capybara/) — Date not recorded
+  Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.
 - [ClawGUI](https://awesomecua.com/resources/github-zju-real-clawgui/) — Date not recorded
   Framework for GUI agent training, evaluation, and deployment.
 - [Cua](https://awesomecua.com/resources/github-trycua-cua/) — Date not recorded
@@ -1888,22 +1890,32 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
 - [ORBIT framework](https://awesomecua.com/resources/github-wlanderson0-orbit/) — Date not recorded
   Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
+- [PhantomJS](https://awesomecua.com/resources/github-ariya-phantomjs/) — Date not recorded
+  PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.
 - [RedTeamCUA](https://awesomecua.com/resources/github-osu-nlp-group-redteamcua/) — Date not recorded
   A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.
 - [ScienceBoard VMware environment](https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/) — Date not recorded
   A prebuilt Ubuntu virtual-machine archive containing the software environment used for ScienceBoard scientific computer-use tasks.
 - [ScreenSuite](https://awesomecua.com/resources/github-huggingface-screensuite/) — Date not recorded
   A shared evaluation harness for GUI-model perception, offline action prediction and multi-step interaction, using simple smolagents-based agents across existing benchmarks.
+- [SeleniumBase](https://awesomecua.com/resources/github-seleniumbase-seleniumbase/) — Date not recorded
+  Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.
 - [SheetCopilot](https://awesomecua.com/resources/github-bravegroup-sheetcopilot/) — Date not recorded
   Spreadsheet automation agent for Windows/Excel, with benchmark assets and a separately released headless Ubuntu evaluation backend.
 - [STEVE / STEVE-R1 research code](https://awesomecua.com/resources/github-fanbinlu-steve-r1/) — Date not recorded
   Research code and linked models for step-verified computer-use training; the current repository describes STEVE-R1 and its trajectory releases.
 - [TAG attention-driven GUI grounding](https://awesomecua.com/resources/github-heimingx-tag/) — Date not recorded
   Grounding and evaluation code that aggregates a pretrained vision-language model’s attention maps to localize requested interface elements without fine-tuning.
+- [TestDriver SDK](https://awesomecua.com/resources/github-testdriverai-testdriverai/) — Date not recorded
+  Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.
+- [TestZeus Hercules](https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/) — Date not recorded
+  Open-source testing agent that takes Gherkin features and executes them end to end on web applications through Playwright.
 - [UI Defect Mocker](https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/) — Date not recorded
   Synthesizes visual UI defects from mobile screenshots and Android layout metadata to support GUI-testing experiments.
 - [VideoCAD training and evaluation code](https://awesomecua.com/resources/github-ghadinehme-videocad/) — Date not recorded
   VideoCADFormer training, action-log preprocessing and evaluation code for learning CAD interface action sequences from screen recordings of browser-based Onshape.
+- [web-eval-agent](https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/) — Date not recorded
+  MCP server that launches a browser-use agent to run a web app, capture screenshots, console and network logs, and return a UX report to the coding agent.
 - [Web-Shepherd inference and evaluation](https://awesomecua.com/resources/github-kyle8581-web-shepherd/) — Date not recorded
   Process-reward inference and benchmark-evaluation utilities that use task checklists to assess individual web-agent decisions.
 - [WebAgent-R1](https://awesomecua.com/resources/github-weizhepei-webagent-r1/) — Date not recorded

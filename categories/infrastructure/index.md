@@ -1,10 +1,10 @@
 # Computer-use agent infrastructure
 
-> 14 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T15:45:10Z.
+> 16 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T17:14:14Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
-Reviews are AI-assisted inspections of primary sources. Counts are resources, not independent projects. Code, data, weights and document licenses are recorded separately; unknown values stay unknown.
+Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -73,6 +73,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/README.md (retrieved 2026-10-16T06:40:53Z; SHA-256 3ee6212ef10c39943546d20a3beeed412262f4a8a910120becb5409626569b0f)
 - https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE (retrieved 2026-10-16T06:42:07Z; SHA-256 40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499)
+
+---
+
+## AIOS
+
+AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.
+
+- Catalog URL: https://awesomecua.com/resources/github-agiresearch-aios/
+- Original source: https://github.com/agiresearch/AIOS
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: sandbox, tool-integration, memory
+- Evidence checked: 2026-11-06T16:36:39Z
+- ID: github:agiresearch/aios
+
+### Limitations
+
+The computer-use setup calls for a virtualized environment with a GUI. The README says local and remote kernel modes are supported; other deployment modes are ongoing.
+
+- Record JSON: https://awesomecua.com/resources/github-agiresearch-aios/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agiresearch/AIOS/292d98f78c835499df18cdb6de6325bba1895862/README.md (retrieved 2026-11-06T16:36:39Z; SHA-256 b830a4338058247c5739e035e67e419793a5275d8d6c84dd3a12f52883d02c5a)
 
 ---
 
@@ -217,6 +250,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 edb4293cb510888cdc2d5c9d1135a0500272aae96366710744d5b74b5289c462)
 - https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## Gobii Platform
+
+Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.
+
+- Catalog URL: https://awesomecua.com/resources/github-gobii-ai-gobii-platform/
+- Original source: https://github.com/gobii-ai/gobii-platform
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, web-navigation, long-horizon
+- Evidence checked: 2026-11-06T16:36:28Z
+- ID: github:gobii-ai/gobii-platform
+
+### Limitations
+
+Release 2.31.0 dated 2026-08-11. The hosted product is at gobii.ai. Declared license MIT.
+
+- Record JSON: https://awesomecua.com/resources/github-gobii-ai-gobii-platform/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/gobii-ai/gobii-platform/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gobii-ai/gobii-platform/c9929bf8ea59b4695b99dcab59aa6c97a09c5bdb/README.md (retrieved 2026-11-06T16:36:28Z; SHA-256 5d31163a404be6ae48567ad0bbbb522165d7f31564162b5f7b70becdf2c5b861)
+- https://raw.githubusercontent.com/gobii-ai/gobii-platform/HEAD/LICENSE (retrieved 2026-11-06T09:57:58Z; SHA-256 1a42ae4dd02e776bc265cae342b22900d0d44a50d5e11d4f011fb4c4558fdbbb)
 
 ---
 

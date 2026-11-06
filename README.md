@@ -43,9 +43,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**2,146 curated resources** · **1,673 reviewed papers and surveys** · **104 discovery documents**
+**2,170 curated resources** · **1,673 reviewed papers and surveys** · **104 discovery documents**
 
-Evidence snapshot: 2026-11-06T15:45:10Z. Only curated resources are counted. 448 records awaiting review and 2,025 discovered candidates are listed separately in the [coverage ledger](https://awesomecua.com/coverage/). Resources are not independent projects.
+Evidence snapshot: 2026-11-06T17:14:14Z. 450 records awaiting review and 2,062 discovered candidates are listed in the [coverage ledger](https://awesomecua.com/coverage/).
 
 ## What is a computer-use agent?
 
@@ -61,10 +61,10 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | Models and checkpoints | 98 | [Open directory](https://awesomecua.com/categories/model/) |
 | Datasets | 86 | [Open directory](https://awesomecua.com/categories/dataset/) |
 | Benchmarks | 91 | [Open directory](https://awesomecua.com/categories/benchmark/) |
-| Agents | 45 | [Open directory](https://awesomecua.com/categories/agent/) |
-| Frameworks | 79 | [Open directory](https://awesomecua.com/categories/framework/) |
-| Infrastructure | 14 | [Open directory](https://awesomecua.com/categories/infrastructure/) |
-| Tools | 22 | [Open directory](https://awesomecua.com/categories/tool/) |
+| Agents | 49 | [Open directory](https://awesomecua.com/categories/agent/) |
+| Frameworks | 87 | [Open directory](https://awesomecua.com/categories/framework/) |
+| Infrastructure | 16 | [Open directory](https://awesomecua.com/categories/infrastructure/) |
+| Tools | 32 | [Open directory](https://awesomecua.com/categories/tool/) |
 | Products | 20 | [Open directory](https://awesomecua.com/categories/product/) |
 | Publishers | 16 | [Open directory](https://awesomecua.com/categories/company/) |
 
@@ -83,7 +83,7 @@ Category pages highlight reviewed resources; the [interactive catalog](https://a
 - [Coati: Host-Grounded Execution for Installable Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2611-02644/) — Introduces Coati, an installable Android GUI agent that checks action outcomes with phone-side evidence, stores per-app procedures, and routes simpler steps to a fast executor. [Original paper](https://arxiv.org/abs/2611.02644).
 - [From Local Skills to Long-Horizon Web Tasks: Progressive Skill Exploration for LLM Web Agents](https://awesomecua.com/resources/arxiv-2611-03116/) — Introduces SCOPE, a training method for long web-agent tasks that discovers local skills from rollouts, composes them into chains, and expands them using failure experience. [Original paper](https://arxiv.org/abs/2611.03116).
 
-[All reviewed papers and surveys](https://awesomecua.com/papers/). Annotations do not independently reproduce experimental findings.
+[All reviewed papers and surveys](https://awesomecua.com/papers/).
 
 ## Papers connected to code and data
 
@@ -116,7 +116,7 @@ python3 -m http.server 4173 --bind 127.0.0.1
 
 GitHub Pages deploys the validated static artifact through the publication workflow. The `main` branch keeps an inspectable snapshot. Original code and annotations use [MIT](LICENSE); linked assets retain their own terms.
 
-[Suggest a resource or correction](https://github.com/reacher-z/Awesome-CUA/issues/new?template=resource.yml). Supply a primary source and explain uncertain facts. Global completeness is a goal, not a verified claim.
+[Suggest a resource or correction](https://github.com/reacher-z/Awesome-CUA/issues/new?template=resource.yml). Supply a primary source and explain uncertain facts.
 
 ## Automatic updates
 

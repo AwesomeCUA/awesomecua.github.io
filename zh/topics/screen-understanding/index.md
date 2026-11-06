@@ -1,6 +1,6 @@
 # 界面理解
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/screen-understanding/records.jsonl
 
@@ -542,10 +542,14 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   An Android accessibility service that exposes UI-element inspection, device-control interfaces and screen feedback to mobile automation agents.
 - [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) — Date not recorded
   Screenshot parser that detects interactable regions and captions icons so vision-language models can ground actions, released as V1.5 and V2 weights alongside OmniTool for driving a Windows 11 VM.
+- [pi-computer-use](https://awesomecua.com/resources/github-injaneity-pi-computer-use/) — Date not recorded
+  Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.
 - [Seg2Click](https://awesomecua.com/resources/github-jcwang0602-seg2click/) — Date not recorded
   Training and inference implementation that predicts an executable-region mask and derives a GUI click from that mask.
 - [Sikuli legacy research implementation](https://awesomecua.com/resources/github-sikuli-sikuli/) — Date not recorded
   The original Sikuli source distribution combines screenshot targets with a Jython scripting library and IDE for visual GUI automation and testing.
+- [Tactile](https://awesomecua.com/resources/github-yliust-tactile/) — Date not recorded
+  Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.
 - [Tarsier](https://awesomecua.com/resources/github-reworkd-tarsier/) — Date not recorded
   Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.
 - [UI Defect Mocker](https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/) — Date not recorded

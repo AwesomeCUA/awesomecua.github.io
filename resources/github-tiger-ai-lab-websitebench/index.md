@@ -14,7 +14,7 @@ Website reconstruction benchmark: agents explore a production-level site through
 
 ## Limitations
 
-Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 tasks and 46,916 hidden cases were checked by summing the docs/tasks.md table. The README's paper badge has no link and the project page says the paper is coming soon, so no paper relation is recorded. Apache-2.0 is the README's statement for benchmark code, task definitions and verifier. Leaderboard scores were not checked. Nothing was installed or run.
+Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 tasks and 46,916 hidden cases were checked by summing the docs/tasks.md table. The README's paper badge has no link, so no paper relation is recorded. Apache-2.0 is the README's statement for benchmark code, task definitions and verifier. Leaderboard scores were not checked. Nothing was installed or run.
 
 - Record JSON: https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/record.json
 

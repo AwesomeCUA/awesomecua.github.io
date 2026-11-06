@@ -1,10 +1,10 @@
 # Computer-use agent benchmarks
 
-> 91 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T15:45:10Z.
+> 91 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T17:14:14Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
-Reviews are AI-assisted inspections of primary sources. Counts are resources, not independent projects. Code, data, weights and document licenses are recorded separately; unknown values stay unknown.
+Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -3740,7 +3740,7 @@ Website reconstruction benchmark: agents explore a production-level site through
 
 ### Limitations
 
-Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 tasks and 46,916 hidden cases were checked by summing the docs/tasks.md table. The README's paper badge has no link and the project page says the paper is coming soon, so no paper relation is recorded. Apache-2.0 is the README's statement for benchmark code, task definitions and verifier. Leaderboard scores were not checked. Nothing was installed or run.
+Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 tasks and 46,916 hidden cases were checked by summing the docs/tasks.md table. The README's paper badge has no link, so no paper relation is recorded. Apache-2.0 is the README's statement for benchmark code, task definitions and verifier. Leaderboard scores were not checked. Nothing was installed or run.
 
 - Record JSON: https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/record.json
 

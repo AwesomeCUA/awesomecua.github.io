@@ -1,6 +1,6 @@
 # 人机协作
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/records.jsonl
 
@@ -220,8 +220,14 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
 
 ## 工程与产业
 
+- [Agent Zero](https://awesomecua.com/resources/github-agent0ai-agent-zero/) — Date not recorded
+  Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.
+- [Browser Control MCP](https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/) — Date not recorded
+  An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.
 - [COLA demo](https://awesomecua.com/resources/github-alokia-cola-demo/) — Date not recorded
   Research demonstration of collaborative Windows GUI automation with dynamic task scheduling and recovery mechanisms.
+- [ConnectOnion](https://awesomecua.com/resources/github-openonion-connectonion/) — Date not recorded
+  ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.
 - [MagenticLite / Magentic UI](https://awesomecua.com/resources/github-microsoft-magentic-ui/) — Date not recorded
   Microsoft agent application combining orchestration with browser interaction; successor to Magentic UI.
 - [META-GUI baseline](https://awesomecua.com/resources/github-x-lance-meta-gui-baseline/) — Date not recorded

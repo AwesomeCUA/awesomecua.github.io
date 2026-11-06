@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://awesomecua.com/catalog/</loc>
-    <lastmod>2026-11-06T15:45:10Z</lastmod>
+    <lastmod>2026-11-06T17:14:14Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/categories/agent/</loc>
-    <lastmod>2026-10-20T12:29:50Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/categories/benchmark/</loc>
@@ -22,11 +22,11 @@
   </url>
   <url>
     <loc>https://awesomecua.com/categories/framework/</loc>
-    <lastmod>2026-10-20T14:34:38Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/categories/infrastructure/</loc>
-    <lastmod>2026-10-17T15:37:20Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/categories/learning/</loc>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/categories/tool/</loc>
-    <lastmod>2026-10-20T12:29:50Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/compare/benchmarks/</loc>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/" />
@@ -83,21 +83,21 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/automation/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/automation/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/automation/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/automation/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/automation/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/automation/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/automation/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/automation/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/automation/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/automation/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/automation/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/automation/page/3/" />
@@ -202,164 +202,171 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/10/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/10/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/10/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/10/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/11/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/11/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/11/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/11/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/12/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/12/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/12/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/12/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/13/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/13/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/13/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/13/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/14/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/14/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/14/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/14/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/15/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/15/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/15/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/15/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/16/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/16/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/16/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/16/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/5/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/6/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/6/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/6/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/6/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/7/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/7/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/7/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/7/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/8/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/8/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/8/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/8/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/evaluation/page/9/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/9/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/9/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/9/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/grounding/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/grounding/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/grounding/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/grounding/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/grounding/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/5/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/grounding/page/6/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/6/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/6/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/6/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/grounding/page/7/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/7/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/7/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/7/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/topics/grounding/page/8/</loc>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/8/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/8/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/8/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/history/</loc>
@@ -370,14 +377,14 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/human-in-the-loop/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/human-in-the-loop/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/human-in-the-loop/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/human-in-the-loop/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/human-in-the-loop/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/human-in-the-loop/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/human-in-the-loop/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/human-in-the-loop/page/2/" />
@@ -419,49 +426,49 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/long-horizon/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/long-horizon/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/long-horizon/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/long-horizon/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/long-horizon/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/long-horizon/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/long-horizon/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/long-horizon/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/long-horizon/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/long-horizon/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/long-horizon/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/long-horizon/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/memory/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/memory/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/memory/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/memory/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/memory/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/memory/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/memory/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/memory/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/memory/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/memory/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/memory/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/memory/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/memory/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/memory/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/memory/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/memory/page/4/" />
@@ -510,14 +517,14 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/observability/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/observability/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/observability/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/observability/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/observability/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/observability/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/observability/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/observability/page/2/" />
@@ -573,7 +580,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/recording/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/recording/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/recording/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/recording/" />
@@ -664,49 +671,49 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/safety-security/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/safety-security/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/safety-security/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/safety-security/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/safety-security/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/page/5/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/sandbox/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/sandbox/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/sandbox/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/sandbox/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/sandbox/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/sandbox/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/sandbox/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/sandbox/page/2/" />
@@ -720,35 +727,35 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/screen-understanding/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/screen-understanding/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/screen-understanding/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/screen-understanding/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/screen-understanding/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/page/5/" />
@@ -790,24 +797,31 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/tool-integration/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/tool-integration/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/tool-integration/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/tool-integration/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/tool-integration/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/tool-integration/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/tool-integration/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/tool-integration/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/tool-integration/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/tool-integration/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/tool-integration/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/tool-integration/page/3/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/topics/tool-integration/page/4/</loc>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/tool-integration/page/4/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/tool-integration/page/4/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/tool-integration/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/training-free/</loc>
@@ -832,77 +846,77 @@
   </url>
   <url>
     <loc>https://awesomecua.com/topics/web-navigation/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/web-navigation/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/web-navigation/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/web-navigation/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/web-navigation/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/5/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/web-navigation/page/6/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/6/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/6/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/6/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/web-navigation/page/7/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/7/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/7/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/7/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/web-navigation/page/8/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/8/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/8/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/8/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/workflow/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/workflow/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/workflow/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/workflow/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/workflow/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/workflow/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/workflow/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/workflow/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/topics/workflow/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/workflow/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/workflow/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/workflow/page/3/" />
@@ -916,7 +930,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/" />
@@ -937,21 +951,21 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/automation/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/automation/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/automation/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/automation/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/automation/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/automation/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/automation/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/automation/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/automation/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/automation/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/automation/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/automation/page/3/" />
@@ -1056,164 +1070,171 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/10/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/10/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/10/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/10/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/11/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/11/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/11/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/11/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/12/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/12/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/12/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/12/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/13/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/13/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/13/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/13/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/14/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/14/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/14/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/14/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/15/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/15/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/15/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/15/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/16/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/16/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/16/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/16/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/5/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/6/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/6/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/6/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/6/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/7/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/7/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/7/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/7/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/8/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/8/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/8/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/8/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/evaluation/page/9/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/evaluation/page/9/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/evaluation/page/9/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/evaluation/page/9/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/grounding/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/grounding/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/grounding/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/grounding/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/grounding/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/5/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/grounding/page/6/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/6/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/6/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/6/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/grounding/page/7/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/7/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/7/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/7/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/topics/grounding/page/8/</loc>
+    <lastmod>2026-11-06T16:36:33Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/grounding/page/8/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/grounding/page/8/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/grounding/page/8/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/history/</loc>
@@ -1224,14 +1245,14 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/human-in-the-loop/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/human-in-the-loop/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/human-in-the-loop/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/human-in-the-loop/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/human-in-the-loop/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/human-in-the-loop/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/human-in-the-loop/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/human-in-the-loop/page/2/" />
@@ -1273,49 +1294,49 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/long-horizon/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/long-horizon/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/long-horizon/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/long-horizon/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/long-horizon/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/long-horizon/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/long-horizon/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/long-horizon/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/long-horizon/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/long-horizon/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/long-horizon/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/long-horizon/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/memory/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/memory/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/memory/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/memory/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/memory/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/memory/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/memory/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/memory/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/memory/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/memory/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/memory/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/memory/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/memory/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/memory/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/memory/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/memory/page/4/" />
@@ -1364,14 +1385,14 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/observability/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/observability/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/observability/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/observability/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/observability/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:36Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/observability/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/observability/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/observability/page/2/" />
@@ -1427,7 +1448,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/recording/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/recording/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/recording/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/recording/" />
@@ -1518,49 +1539,49 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/safety-security/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/safety-security/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/safety-security/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/safety-security/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/safety-security/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:31Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/safety-security/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/safety-security/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/safety-security/page/5/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/sandbox/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/sandbox/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/sandbox/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/sandbox/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/sandbox/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/sandbox/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/sandbox/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/sandbox/page/2/" />
@@ -1574,35 +1595,35 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/screen-understanding/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/screen-understanding/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/screen-understanding/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/screen-understanding/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/screen-understanding/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:28Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/screen-understanding/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/screen-understanding/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/screen-understanding/page/5/" />
@@ -1644,24 +1665,31 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/tool-integration/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/tool-integration/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/tool-integration/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/tool-integration/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/tool-integration/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/tool-integration/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/tool-integration/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/tool-integration/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/tool-integration/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/tool-integration/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/tool-integration/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/tool-integration/page/3/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/topics/tool-integration/page/4/</loc>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/tool-integration/page/4/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/tool-integration/page/4/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/tool-integration/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/training-free/</loc>
@@ -1686,77 +1714,77 @@
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/web-navigation/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/web-navigation/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/web-navigation/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/3/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/web-navigation/page/4/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/4/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/4/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/4/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/web-navigation/page/5/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/5/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/5/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/5/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/web-navigation/page/6/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/6/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/6/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/6/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/web-navigation/page/7/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/7/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/7/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/7/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/web-navigation/page/8/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/web-navigation/page/8/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/web-navigation/page/8/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/web-navigation/page/8/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/workflow/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/workflow/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/workflow/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/workflow/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/workflow/page/2/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/workflow/page/2/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/workflow/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/workflow/page/2/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/topics/workflow/page/3/</loc>
-    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <lastmod>2026-11-06T16:36:39Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/topics/workflow/page/3/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/topics/workflow/page/3/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/topics/workflow/page/3/" />

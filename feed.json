@@ -14,6 +14,616 @@
   ],
   "items": [
     {
+      "id": "https://awesomecua.com/resources/github-agent0ai-agent-zero/",
+      "url": "https://awesomecua.com/resources/github-agent0ai-agent-zero/",
+      "external_url": "https://github.com/agent0ai/agent-zero",
+      "title": "Agent Zero",
+      "content_text": "Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.",
+      "summary": "Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:30Z",
+      "tags": [
+        "agent",
+        "automation",
+        "sandbox",
+        "human-in-the-loop"
+      ],
+      "_awesomecua": {
+        "kind": "agent",
+        "review_status": "curated",
+        "environments": [
+          "desktop",
+          "linux",
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-agent0ai-agent-zero/record.json",
+        "markdown": "https://awesomecua.com/resources/github-agent0ai-agent-zero/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-agiresearch-aios/",
+      "url": "https://awesomecua.com/resources/github-agiresearch-aios/",
+      "external_url": "https://github.com/agiresearch/AIOS",
+      "title": "AIOS",
+      "content_text": "AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.",
+      "summary": "AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:39Z",
+      "tags": [
+        "infrastructure",
+        "sandbox",
+        "tool-integration",
+        "memory"
+      ],
+      "_awesomecua": {
+        "kind": "infrastructure",
+        "review_status": "curated",
+        "environments": [
+          "desktop"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-agiresearch-aios/record.json",
+        "markdown": "https://awesomecua.com/resources/github-agiresearch-aios/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-alumnium-hq-alumnium/",
+      "url": "https://awesomecua.com/resources/github-alumnium-hq-alumnium/",
+      "external_url": "https://github.com/alumnium-hq/alumnium",
+      "title": "Alumnium",
+      "content_text": "An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.",
+      "summary": "An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:33Z",
+      "tags": [
+        "framework",
+        "automation",
+        "tool-integration",
+        "workflow"
+      ],
+      "_awesomecua": {
+        "kind": "framework",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-alumnium-hq-alumnium/record.json",
+        "markdown": "https://awesomecua.com/resources/github-alumnium-hq-alumnium/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/",
+      "url": "https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/",
+      "external_url": "https://github.com/eyalzh/browser-control-mcp",
+      "title": "Browser Control MCP",
+      "content_text": "An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.",
+      "summary": "An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:31Z",
+      "tags": [
+        "tool",
+        "tool-integration",
+        "web-navigation",
+        "human-in-the-loop",
+        "safety-security"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/record.json",
+        "markdown": "https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-mayt-browsergpt/",
+      "url": "https://awesomecua.com/resources/github-mayt-browsergpt/",
+      "external_url": "https://github.com/mayt/BrowserGPT",
+      "title": "BrowserGPT",
+      "content_text": "BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.",
+      "summary": "BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:33Z",
+      "tags": [
+        "agent",
+        "automation",
+        "web-navigation",
+        "grounding",
+        "tool-integration"
+      ],
+      "_awesomecua": {
+        "kind": "agent",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-mayt-browsergpt/record.json",
+        "markdown": "https://awesomecua.com/resources/github-mayt-browsergpt/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-teamcapybara-capybara/",
+      "url": "https://awesomecua.com/resources/github-teamcapybara-capybara/",
+      "external_url": "https://github.com/teamcapybara/capybara",
+      "title": "Capybara",
+      "content_text": "Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.",
+      "summary": "Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:33Z",
+      "tags": [
+        "framework",
+        "automation",
+        "web-navigation",
+        "evaluation"
+      ],
+      "_awesomecua": {
+        "kind": "framework",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-teamcapybara-capybara/record.json",
+        "markdown": "https://awesomecua.com/resources/github-teamcapybara-capybara/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-chromedp-chromedp/",
+      "url": "https://awesomecua.com/resources/github-chromedp-chromedp/",
+      "external_url": "https://github.com/chromedp/chromedp",
+      "title": "chromedp",
+      "content_text": "A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.",
+      "summary": "A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:32Z",
+      "tags": [
+        "tool",
+        "automation",
+        "web-navigation"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-chromedp-chromedp/record.json",
+        "markdown": "https://awesomecua.com/resources/github-chromedp-chromedp/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-codeceptjs-codeceptjs/",
+      "url": "https://awesomecua.com/resources/github-codeceptjs-codeceptjs/",
+      "external_url": "https://github.com/codeceptjs/CodeceptJS",
+      "title": "CodeceptJS",
+      "content_text": "CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.",
+      "summary": "CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:33Z",
+      "tags": [
+        "framework",
+        "automation",
+        "tool-integration",
+        "workflow"
+      ],
+      "_awesomecua": {
+        "kind": "framework",
+        "review_status": "curated",
+        "environments": [
+          "web",
+          "android"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-codeceptjs-codeceptjs/record.json",
+        "markdown": "https://awesomecua.com/resources/github-codeceptjs-codeceptjs/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-openonion-connectonion/",
+      "url": "https://awesomecua.com/resources/github-openonion-connectonion/",
+      "external_url": "https://github.com/openonion/connectonion",
+      "title": "ConnectOnion",
+      "content_text": "ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.",
+      "summary": "ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:39Z",
+      "tags": [
+        "framework",
+        "tool-integration",
+        "automation",
+        "memory",
+        "human-in-the-loop"
+      ],
+      "_awesomecua": {
+        "kind": "framework",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-openonion-connectonion/record.json",
+        "markdown": "https://awesomecua.com/resources/github-openonion-connectonion/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-firecrawl-firecrawl/",
+      "url": "https://awesomecua.com/resources/github-firecrawl-firecrawl/",
+      "external_url": "https://github.com/firecrawl/firecrawl",
+      "title": "Firecrawl",
+      "content_text": "Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.",
+      "summary": "Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:39Z",
+      "tags": [
+        "tool",
+        "web-navigation",
+        "automation",
+        "tool-integration"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-firecrawl-firecrawl/record.json",
+        "markdown": "https://awesomecua.com/resources/github-firecrawl-firecrawl/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-gobii-ai-gobii-platform/",
+      "url": "https://awesomecua.com/resources/github-gobii-ai-gobii-platform/",
+      "external_url": "https://github.com/gobii-ai/gobii-platform",
+      "title": "Gobii Platform",
+      "content_text": "Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.",
+      "summary": "Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:28Z",
+      "tags": [
+        "infrastructure",
+        "automation",
+        "web-navigation",
+        "long-horizon"
+      ],
+      "_awesomecua": {
+        "kind": "infrastructure",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-gobii-ai-gobii-platform/record.json",
+        "markdown": "https://awesomecua.com/resources/github-gobii-ai-gobii-platform/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-cashew-labs-libretto/",
+      "url": "https://awesomecua.com/resources/github-cashew-labs-libretto/",
+      "external_url": "https://github.com/cashew-labs/libretto",
+      "title": "Libretto",
+      "content_text": "Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.",
+      "summary": "Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:31Z",
+      "tags": [
+        "tool",
+        "automation",
+        "recording",
+        "tool-integration",
+        "web-navigation"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-cashew-labs-libretto/record.json",
+        "markdown": "https://awesomecua.com/resources/github-cashew-labs-libretto/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-saik0s-mcp-browser-use/",
+      "url": "https://awesomecua.com/resources/github-saik0s-mcp-browser-use/",
+      "external_url": "https://github.com/Saik0s/mcp-browser-use",
+      "title": "mcp-server-browser-use",
+      "content_text": "MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.",
+      "summary": "MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:28Z",
+      "tags": [
+        "tool",
+        "automation",
+        "web-navigation",
+        "tool-integration"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-saik0s-mcp-browser-use/record.json",
+        "markdown": "https://awesomecua.com/resources/github-saik0s-mcp-browser-use/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-foundationagents-openmanus/",
+      "url": "https://awesomecua.com/resources/github-foundationagents-openmanus/",
+      "external_url": "https://github.com/FoundationAgents/OpenManus",
+      "title": "OpenManus",
+      "content_text": "OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.",
+      "summary": "OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:34Z",
+      "tags": [
+        "framework",
+        "automation",
+        "tool-integration",
+        "web-navigation"
+      ],
+      "_awesomecua": {
+        "kind": "framework",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-foundationagents-openmanus/record.json",
+        "markdown": "https://awesomecua.com/resources/github-foundationagents-openmanus/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-ariya-phantomjs/",
+      "url": "https://awesomecua.com/resources/github-ariya-phantomjs/",
+      "external_url": "https://github.com/ariya/phantomjs",
+      "title": "PhantomJS",
+      "content_text": "PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.",
+      "summary": "PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:36Z",
+      "tags": [
+        "tool",
+        "automation",
+        "evaluation",
+        "observability"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-ariya-phantomjs/record.json",
+        "markdown": "https://awesomecua.com/resources/github-ariya-phantomjs/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-injaneity-pi-computer-use/",
+      "url": "https://awesomecua.com/resources/github-injaneity-pi-computer-use/",
+      "external_url": "https://github.com/injaneity/pi-computer-use",
+      "title": "pi-computer-use",
+      "content_text": "Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.",
+      "summary": "Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:27Z",
+      "tags": [
+        "tool",
+        "automation",
+        "screen-understanding",
+        "tool-integration"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "desktop",
+          "macos",
+          "windows",
+          "linux"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-injaneity-pi-computer-use/record.json",
+        "markdown": "https://awesomecua.com/resources/github-injaneity-pi-computer-use/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-executeautomation-mcp-playwright/",
+      "url": "https://awesomecua.com/resources/github-executeautomation-mcp-playwright/",
+      "external_url": "https://github.com/executeautomation/mcp-playwright",
+      "title": "Playwright MCP Server (ExecuteAutomation)",
+      "content_text": "Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.",
+      "summary": "Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:28Z",
+      "tags": [
+        "tool",
+        "automation",
+        "web-navigation",
+        "tool-integration"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-executeautomation-mcp-playwright/record.json",
+        "markdown": "https://awesomecua.com/resources/github-executeautomation-mcp-playwright/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-berstend-puppeteer-extra/",
+      "url": "https://awesomecua.com/resources/github-berstend-puppeteer-extra/",
+      "external_url": "https://github.com/berstend/puppeteer-extra",
+      "title": "puppeteer-extra",
+      "content_text": "A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.",
+      "summary": "A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:31Z",
+      "tags": [
+        "framework",
+        "automation",
+        "tool-integration"
+      ],
+      "_awesomecua": {
+        "kind": "framework",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-berstend-puppeteer-extra/record.json",
+        "markdown": "https://awesomecua.com/resources/github-berstend-puppeteer-extra/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-qwenlm-qwen-code/",
+      "url": "https://awesomecua.com/resources/github-qwenlm-qwen-code/",
+      "external_url": "https://github.com/QwenLM/qwen-code",
+      "title": "Qwen Code",
+      "content_text": "Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.",
+      "summary": "Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:39Z",
+      "tags": [
+        "agent",
+        "automation",
+        "tool-integration",
+        "workflow"
+      ],
+      "_awesomecua": {
+        "kind": "agent",
+        "review_status": "curated",
+        "environments": [
+          "desktop"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-qwenlm-qwen-code/record.json",
+        "markdown": "https://awesomecua.com/resources/github-qwenlm-qwen-code/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-seleniumbase-seleniumbase/",
+      "url": "https://awesomecua.com/resources/github-seleniumbase-seleniumbase/",
+      "external_url": "https://github.com/seleniumbase/SeleniumBase",
+      "title": "SeleniumBase",
+      "content_text": "Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.",
+      "summary": "Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:31Z",
+      "tags": [
+        "framework",
+        "automation",
+        "recording",
+        "evaluation"
+      ],
+      "_awesomecua": {
+        "kind": "framework",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-seleniumbase-seleniumbase/record.json",
+        "markdown": "https://awesomecua.com/resources/github-seleniumbase-seleniumbase/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-yliust-tactile/",
+      "url": "https://awesomecua.com/resources/github-yliust-tactile/",
+      "external_url": "https://github.com/yliust/Tactile",
+      "title": "Tactile",
+      "content_text": "Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.",
+      "summary": "Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:28Z",
+      "tags": [
+        "tool",
+        "screen-understanding",
+        "grounding",
+        "tool-integration"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "desktop",
+          "macos"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-yliust-tactile/record.json",
+        "markdown": "https://awesomecua.com/resources/github-yliust-tactile/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-testdriverai-testdriverai/",
+      "url": "https://awesomecua.com/resources/github-testdriverai-testdriverai/",
+      "external_url": "https://github.com/testdriverai/testdriverai",
+      "title": "TestDriver SDK",
+      "content_text": "Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.",
+      "summary": "Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:27Z",
+      "tags": [
+        "framework",
+        "automation",
+        "evaluation",
+        "sandbox"
+      ],
+      "_awesomecua": {
+        "kind": "framework",
+        "review_status": "curated",
+        "environments": [
+          "desktop",
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-testdriverai-testdriverai/record.json",
+        "markdown": "https://awesomecua.com/resources/github-testdriverai-testdriverai/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/",
+      "url": "https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/",
+      "external_url": "https://github.com/test-zeus-ai/testzeus-hercules",
+      "title": "TestZeus Hercules",
+      "content_text": "Open-source testing agent that takes Gherkin features and executes them end to end on web applications through Playwright.",
+      "summary": "Open-source testing agent that takes Gherkin features and executes them end to end on web applications through Playwright.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:27Z",
+      "tags": [
+        "agent",
+        "automation",
+        "evaluation",
+        "web-navigation"
+      ],
+      "_awesomecua": {
+        "kind": "agent",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/record.json",
+        "markdown": "https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/",
+      "url": "https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/",
+      "external_url": "https://github.com/refreshdotdev/web-eval-agent",
+      "title": "web-eval-agent",
+      "content_text": "MCP server that launches a browser-use agent to run a web app, capture screenshots, console and network logs, and return a UX report to the coding agent.",
+      "summary": "MCP server that launches a browser-use agent to run a web app, capture screenshots, console and network logs, and return a UX report to the coding agent.",
+      "date_published": "2026-11-06T16:36:26Z",
+      "date_modified": "2026-11-06T16:36:27Z",
+      "tags": [
+        "tool",
+        "evaluation",
+        "web-navigation",
+        "observability"
+      ],
+      "_awesomecua": {
+        "kind": "tool",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/record.json",
+        "markdown": "https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/index.md"
+      }
+    },
+    {
       "id": "https://awesomecua.com/resources/arxiv-2603-28551/",
       "url": "https://awesomecua.com/resources/arxiv-2603-28551/",
       "external_url": "https://arxiv.org/abs/2603.28551",
@@ -1936,618 +2546,6 @@
         ],
         "record_json": "https://awesomecua.com/resources/arxiv-2607-19865/record.json",
         "markdown": "https://awesomecua.com/resources/arxiv-2607-19865/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2605-23939/",
-      "url": "https://awesomecua.com/resources/arxiv-2605-23939/",
-      "external_url": "https://arxiv.org/abs/2605.23939",
-      "title": "DRIVE: Modeling Skills at the Reasoning and Interaction Levels for Web Agents under Continual Learning",
-      "content_text": "DRIVE separates reusable reasoning skills from page-specific interaction skills for web agents, retrieving both to plan tasks and execute actions on websites.",
-      "summary": "DRIVE separates reusable reasoning skills from page-specific interaction skills for web agents, retrieving both to plan tasks and execute actions on websites.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "memory",
-        "planning",
-        "web-navigation",
-        "self-reflection"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2605-23939/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2605-23939/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-40133/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-40133/",
-      "external_url": "https://arxiv.org/abs/2610.40133",
-      "title": "DynaRev: Benchmarking Web Agents under Dynamic Goal Revision",
-      "content_text": "Introduces DynaRev, a benchmark of 181 web-agent tasks whose goals change during execution, with trajectory-based measures of correctness, responsiveness, and efficiency.",
-      "summary": "Introduces DynaRev, a benchmark of 181 web-agent tasks whose goals change during execution, with trajectory-based measures of correctness, responsiveness, and efficiency.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "evaluation",
-        "web-navigation",
-        "state-tracking"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-40133/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-40133/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2603-07024/",
-      "url": "https://awesomecua.com/resources/arxiv-2603-07024/",
-      "external_url": "https://arxiv.org/abs/2603.07024",
-      "title": "Enhancing Web Agents with a Hierarchical Memory Tree",
-      "content_text": "Introduces Hierarchical Memory Tree (HMT), which organizes web-agent trajectories by intent, stage and action, then uses the hierarchy to plan and act on websites.",
-      "summary": "Introduces Hierarchical Memory Tree (HMT), which organizes web-agent trajectories by intent, stage and action, then uses the hierarchy to plan and act on websites.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "memory",
-        "planning",
-        "web-navigation",
-        "interaction-history"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2603-07024/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2603-07024/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-40246/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-40246/",
-      "external_url": "https://arxiv.org/abs/2610.40246",
-      "title": "EnvOS: Auditing Computer-Use Agents When the World Moves On : Phenomenon-Based Task Construction, Certification, and Evidence-Based Evaluation",
-      "content_text": "Introduces EnvOS, a framework for constructing and auditing changing computer-use environments, including checks of task changes, solvability, grading, and run evidence.",
-      "summary": "Introduces EnvOS, a framework for constructing and auditing changing computer-use environments, including checks of task changes, solvability, grading, and run evidence.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "evaluation",
-        "robustness",
-        "observability"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-40246/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-40246/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-28601/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-28601/",
-      "external_url": "https://arxiv.org/abs/2610.28601",
-      "title": "Evolving Agent Interfaces",
-      "content_text": "Agent S4 uses task trajectories to evolve interfaces and usage guidance for a computer-use agent, selecting changes through validation tasks.",
-      "summary": "Agent S4 uses task trajectories to evolve interfaces and usage guidance for a computer-use agent, selecting changes through validation tasks.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "tool-integration",
-        "workflow",
-        "evaluation"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-28601/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-28601/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-16402/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-16402/",
-      "external_url": "https://arxiv.org/abs/2610.16402",
-      "title": "EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications",
-      "content_text": "Introduces EvoWeb, a benchmark for coding agents that extend web applications through dependent requests; a multimodal web agent checks each version in a live browser.",
-      "summary": "Introduces EvoWeb, a benchmark for coding agents that extend web applications through dependent requests; a multimodal web agent checks each version in a live browser.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "evaluation",
-        "long-horizon",
-        "workflow"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-16402/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-16402/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2609-07603/",
-      "url": "https://awesomecua.com/resources/arxiv-2609-07603/",
-      "external_url": "https://arxiv.org/abs/2609.07603",
-      "title": "FinCUABuild: Can Agents Build Reliable Benchmarks for Dynamic Financial Computer Use?",
-      "content_text": "Introduces FinCUABuildBench for assessing financial computer-use task construction and FinCUABuildAgent for generating tasks, environments, and validators.",
-      "summary": "Introduces FinCUABuildBench for assessing financial computer-use task construction and FinCUABuildAgent for generating tasks, environments, and validators.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "evaluation",
-        "data-generation",
-        "industry"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2609-07603/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2609-07603/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2604-27974/",
-      "url": "https://awesomecua.com/resources/arxiv-2604-27974/",
-      "external_url": "https://arxiv.org/abs/2604.27974",
-      "title": "FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting",
-      "content_text": "FineState-Bench tests whether GUI agents locate the intended control and set its exact state across desktop, web, and mobile interfaces, with stage-wise diagnostic metrics.",
-      "summary": "FineState-Bench tests whether GUI agents locate the intended control and set its exact state across desktop, web, and mobile interfaces, with stage-wise diagnostic metrics.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "evaluation",
-        "grounding",
-        "state-tracking"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "desktop",
-          "web",
-          "cross-platform"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2604-27974/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2604-27974/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2608-04530/",
-      "url": "https://awesomecua.com/resources/arxiv-2608-04530/",
-      "external_url": "https://arxiv.org/abs/2608.04530",
-      "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory",
-      "content_text": "Introduces FocusMem, a latent memory interface for GUI agents that separates stored content, state-conditioned readout, and a gate for irrelevant retrieved experience.",
-      "summary": "Introduces FocusMem, a latent memory interface for GUI agents that separates stored content, state-conditioned readout, and a gate for irrelevant retrieved experience.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "memory",
-        "interaction-history",
-        "state-tracking"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2608-04530/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2608-04530/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2506-14079/",
-      "url": "https://awesomecua.com/resources/arxiv-2506-14079/",
-      "external_url": "https://arxiv.org/abs/2506.14079",
-      "title": "FormGym: Doing Paperwork with Agents",
-      "content_text": "Introduces FormGym, a benchmark for filling image-only forms, and FieldFinder, a tool that helps LLMs locate where to place text on those forms.",
-      "summary": "Introduces FormGym, a benchmark for filling image-only forms, and FieldFinder, a tool that helps LLMs locate where to place text on those forms.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "evaluation",
-        "screen-understanding"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2506-14079/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2506-14079/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2604-12666/",
-      "url": "https://awesomecua.com/resources/arxiv-2604-12666/",
-      "external_url": "https://arxiv.org/abs/2604.12666",
-      "title": "From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation",
-      "content_text": "Introduces the Triton dataset and a staged training curriculum for text-based web navigation agents, using hard-negative HTML examples to train element discrimination and longer task execution.",
-      "summary": "Introduces the Triton dataset and a staged training curriculum for text-based web navigation agents, using hard-negative HTML examples to train element discrimination and longer task execution.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "data-generation",
-        "web-navigation",
-        "imitation-learning",
-        "reinforcement-learning"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2604-12666/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2604-12666/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-37482/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-37482/",
-      "external_url": "https://arxiv.org/abs/2610.37482",
-      "title": "From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents",
-      "content_text": "Introduces Task Advancement Memory (TAM) for long GUI workflows, tracking task progress across applications and learning reusable operations from interactions with local results.",
-      "summary": "Introduces Task Advancement Memory (TAM) for long GUI workflows, tracking task progress across applications and learning reusable operations from interactions with local results.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "memory",
-        "state-tracking",
-        "cross-app",
-        "long-horizon"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-37482/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-37482/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2611-03116/",
-      "url": "https://awesomecua.com/resources/arxiv-2611-03116/",
-      "external_url": "https://arxiv.org/abs/2611.03116",
-      "title": "From Local Skills to Long-Horizon Web Tasks: Progressive Skill Exploration for LLM Web Agents",
-      "content_text": "Introduces SCOPE, a training method for long web-agent tasks that discovers local skills from rollouts, composes them into chains, and expands them using failure experience.",
-      "summary": "Introduces SCOPE, a training method for long web-agent tasks that discovers local skills from rollouts, composes them into chains, and expands them using failure experience.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "long-horizon",
-        "planning",
-        "interaction-history",
-        "web-navigation"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2611-03116/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2611-03116/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-25503/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-25503/",
-      "external_url": "https://arxiv.org/abs/2610.25503",
-      "title": "From Seeing to Reporting: A Theory of Reliable Visual Set Generation in Vision-Language Models",
-      "content_text": "FSR models visual reporting and gives inference-time procedures for frozen vision-language models, including screen parsing and GUI target selection.",
-      "summary": "FSR models visual reporting and gives inference-time procedures for frozen vision-language models, including screen parsing and GUI target selection.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "screen-understanding",
-        "grounding",
-        "training-free"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-25503/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-25503/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-24729/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-24729/",
-      "external_url": "https://arxiv.org/abs/2610.24729",
-      "title": "fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets",
-      "content_text": "Introduces fxBench, a benchmark of spreadsheet formula suggestions, and examines context selection, intent understanding and formula writing for editing assistance.",
-      "summary": "Introduces fxBench, a benchmark of spreadsheet formula suggestions, and examines context selection, intent understanding and formula writing for editing assistance.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "evaluation",
-        "screen-understanding",
-        "efficiency"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-24729/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-24729/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2608-26200/",
-      "url": "https://awesomecua.com/resources/arxiv-2608-26200/",
-      "external_url": "https://arxiv.org/abs/2608.26200",
-      "title": "GameWAM: A World Action Model for Video Games",
-      "content_text": "Introduces GameWAM, a model for native game play and GUI control that predicts future visuals and keyboard-mouse actions from synchronized gameplay and GUI trajectories.",
-      "summary": "Introduces GameWAM, a model for native game play and GUI control that predicts future visuals and keyboard-mouse actions from synchronized gameplay and GUI trajectories.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "world-models",
-        "action-prediction",
-        "video",
-        "long-horizon"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2608-26200/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2608-26200/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2604-07429/",
-      "url": "https://awesomecua.com/resources/arxiv-2604-07429/",
-      "external_url": "https://arxiv.org/abs/2604.07429",
-      "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
-      "content_text": "Introduces GameWorld, a browser-game benchmark that evaluates multimodal agents through keyboard and mouse controls or semantic actions using outcome checks.",
-      "summary": "Introduces GameWorld, a browser-game benchmark that evaluates multimodal agents through keyboard and mouse controls or semantic actions using outcome checks.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "evaluation",
-        "long-horizon",
-        "action-prediction"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2604-07429/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2604-07429/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-16998/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-16998/",
-      "external_url": "https://arxiv.org/abs/2610.16998",
-      "title": "Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents",
-      "content_text": "Introduces Glasseek, a framework for deep-search agents that explore the open web, with trajectory construction, training across context compression, and a test-set leakage audit.",
-      "summary": "Introduces Glasseek, a framework for deep-search agents that explore the open web, with trajectory construction, training across context compression, and a test-set leakage audit.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "web-navigation",
-        "data-generation",
-        "reinforcement-learning",
-        "evaluation"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-16998/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-16998/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2605-29218/",
-      "url": "https://awesomecua.com/resources/arxiv-2605-29218/",
-      "external_url": "https://arxiv.org/abs/2605.29218",
-      "title": "GTA: Generating Long-Horizon Tasks for Web Agents at Scale",
-      "content_text": "GTA generates multi-hop web-agent tasks and executable trajectories through crawling, retrieval, and validation, releasing a benchmark built from over 50 websites.",
-      "summary": "GTA generates multi-hop web-agent tasks and executable trajectories through crawling, retrieval, and validation, releasing a benchmark built from over 50 websites.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "data-generation",
-        "evaluation",
-        "web-navigation",
-        "long-horizon"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2605-29218/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2605-29218/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2605-30884/",
-      "url": "https://awesomecua.com/resources/arxiv-2605-30884/",
-      "external_url": "https://arxiv.org/abs/2605.30884",
-      "title": "GUI-C$^2$: Coarse-to-Fine GUI Grounding via Difficulty-Aware Reinforcement Learning",
-      "content_text": "Introduces GUI-D to score training samples by difficulty and GUI-C² to refine screen-element locations through area-gated cropping and reinforcement learning.",
-      "summary": "Introduces GUI-D to score training samples by difficulty and GUI-C² to refine screen-element locations through area-gated cropping and reinforcement learning.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "grounding",
-        "reinforcement-learning",
-        "data-generation",
-        "efficiency"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2605-30884/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2605-30884/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-36877/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-36877/",
-      "external_url": "https://arxiv.org/abs/2610.36877",
-      "title": "GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents",
-      "content_text": "Introduces GUI-JEPA, a mobile GUI policy that scores candidate actions from screenshot latents in a batched pass without decoding action text.",
-      "summary": "Introduces GUI-JEPA, a mobile GUI policy that scores candidate actions from screenshot latents in a batched pass without decoding action text.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "action-prediction",
-        "efficiency",
-        "mobile-navigation"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "android"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-36877/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-36877/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2602-22190/",
-      "url": "https://awesomecua.com/resources/arxiv-2602-22190/",
-      "external_url": "https://arxiv.org/abs/2602.22190",
-      "title": "GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL",
-      "content_text": "GUI-Libra trains GUI agents with action-aware supervision, a curated reasoning dataset and reinforcement learning adapted to partially verifiable actions across web and mobile tasks.",
-      "summary": "GUI-Libra trains GUI agents with action-aware supervision, a curated reasoning dataset and reinforcement learning adapted to partially verifiable actions across web and mobile tasks.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "reinforcement-learning",
-        "data-generation",
-        "grounding",
-        "action-prediction"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "web",
-          "cross-platform"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2602-22190/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2602-22190/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-34959/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-34959/",
-      "external_url": "https://arxiv.org/abs/2610.34959",
-      "title": "GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents",
-      "content_text": "Introduces GUIFlow, an incremental inference framework that reuses visual, language, and action computation across successive GUI-agent steps.",
-      "summary": "Introduces GUIFlow, an incremental inference framework that reuses visual, language, and action computation across successive GUI-agent steps.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "efficiency",
-        "interaction-history",
-        "training-free"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-34959/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-34959/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/arxiv-2610-11655/",
-      "url": "https://awesomecua.com/resources/arxiv-2610-11655/",
-      "external_url": "https://arxiv.org/abs/2610.11655",
-      "title": "Harness Evolution Hits a Ceiling: When Weight Training Should Begin",
-      "content_text": "Studies when to improve an LLM agent's runtime harness or train its weights by classifying failed trajectories; WebArena-Lite supplies a web-task transfer test.",
-      "summary": "Studies when to improve an LLM agent's runtime harness or train its weights by classifying failed trajectories; WebArena-Lite supplies a web-task transfer test.",
-      "date_published": "2026-11-06T13:59:48Z",
-      "date_modified": "2026-11-06T13:59:48Z",
-      "tags": [
-        "paper",
-        "observability",
-        "training-free",
-        "imitation-learning"
-      ],
-      "_awesomecua": {
-        "kind": "paper",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/arxiv-2610-11655/record.json",
-        "markdown": "https://awesomecua.com/resources/arxiv-2610-11655/index.md"
       }
     }
   ]

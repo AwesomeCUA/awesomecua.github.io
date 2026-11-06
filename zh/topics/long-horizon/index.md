@@ -1,6 +1,6 @@
 # 长任务
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/long-horizon/records.jsonl
 
@@ -366,5 +366,7 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
 - [ARPO training framework](https://awesomecua.com/resources/github-jia-lab-research-arpo/) — Date not recorded
   Replay-based policy-optimization framework for GUI agents, with distributed OSWorld rollouts and screenshot/action histories.
+- [Gobii Platform](https://awesomecua.com/resources/github-gobii-ai-gobii-platform/) — Date not recorded
+  Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.
 - [MemGUI-Agent](https://awesomecua.com/resources/github-kwai-memgui-agent/) — Date not recorded
   MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.

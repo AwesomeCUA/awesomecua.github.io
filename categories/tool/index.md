@@ -1,10 +1,10 @@
 # Computer-use agent tools
 
-> 22 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T15:45:10Z.
+> 32 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T17:14:14Z.
 
 HTML page: https://awesomecua.com/categories/tool/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
-Reviews are AI-assisted inspections of primary sources. Counts are resources, not independent projects. Code, data, weights and document licenses are recorded separately; unknown values stay unknown.
+Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
 
 ---
 
@@ -153,6 +153,40 @@ Its README describes mobile apps without naming an operating system.
 
 ---
 
+## Browser Control MCP
+
+An MCP server and Firefox extension that let AI assistants manage tabs, search browser history, read webpage text, and capture screenshots with user consent.
+
+- Catalog URL: https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/
+- Original source: https://github.com/eyalzh/browser-control-mcp
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: tool-integration, web-navigation, human-in-the-loop, safety-security
+- Evidence checked: 2026-11-06T16:36:31Z
+- ID: github:eyalzh/browser-control-mcp
+
+### Limitations
+
+The source describes the project as experimental. It does not support webpage modification, page interactions, or arbitrary scripting. Screenshots require authorization for each tab.
+
+- Record JSON: https://awesomecua.com/resources/github-eyalzh-browser-control-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/eyalzh/browser-control-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/eyalzh/browser-control-mcp/e53f0e50e2778543d2c2b5dadbe565be82920fbf/README.md (retrieved 2026-11-06T16:36:31Z; SHA-256 034f5ea4d50e3e2a3e01387b0a8bc91a6324e6d79775c852a06e60e0436c9b1a)
+- https://raw.githubusercontent.com/eyalzh/browser-control-mcp/HEAD/LICENSE (retrieved 2026-11-06T10:58:02Z; SHA-256 8ec700410b3e2f6faa18b1972364160b9c8376bbaff45f64c86549475c685f3d)
+
+---
+
 ## Browser Use WebUI
 
 A Gradio interface for configuring and running Browser Use agents, including persistent browser sessions and interaction recordings.
@@ -259,6 +293,73 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## chromedp
+
+A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.
+
+- Catalog URL: https://awesomecua.com/resources/github-chromedp-chromedp/
+- Original source: https://github.com/chromedp/chromedp
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-06T16:36:32Z
+- ID: github:chromedp/chromedp
+
+### Limitations
+
+It needs Go 1.25 or newer and no external driver. Chrome runs in headless mode by default.
+
+- Record JSON: https://awesomecua.com/resources/github-chromedp-chromedp/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/chromedp/chromedp/94001c576609403535c275b745d4d8485976b4aa/README.md (retrieved 2026-11-06T16:36:32Z; SHA-256 c87f689b7e0cf2d4d46c5ef4991deb01dbf4ae66eca3691c2e3bf7b992835ca9)
+
+---
+
+## Firecrawl
+
+Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.
+
+- Catalog URL: https://awesomecua.com/resources/github-firecrawl-firecrawl/
+- Original source: https://github.com/firecrawl/firecrawl
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, automation, tool-integration
+- Evidence checked: 2026-11-06T16:36:39Z
+- ID: github:firecrawl/firecrawl
+
+### Limitations
+
+It is open source and available as a hosted service. Its Interact feature supports actions such as clicking, scrolling, writing, waiting, and pressing keys.
+
+- Record JSON: https://awesomecua.com/resources/github-firecrawl-firecrawl/record.json
+
+### License declarations
+
+- code: AGPL-3.0 — https://raw.githubusercontent.com/firecrawl/firecrawl/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/firecrawl/firecrawl/edf02642c8f002576e9f26b9bbbb7b327313558c/README.md (retrieved 2026-11-06T16:36:39Z; SHA-256 13ac2f319b675696004dc004f4e32084d08f138151424499f7239d2b9f0d8a67)
+- https://raw.githubusercontent.com/firecrawl/firecrawl/HEAD/LICENSE (retrieved 2026-11-06T10:58:04Z; SHA-256 9b4649365c4f29d8f41301f4cda1e5bd9da51cf1bbb19ab9d568ff57d56e3b33)
+
+---
+
 ## GUI Grounding Evaluation Harness
 
 ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt and crop-based inference comparisons, and per-sample grounding accuracy and cost records.
@@ -294,6 +395,74 @@ This is an independent harness using ScreenSpot-Pro, not a new dataset or verifi
 - https://raw.githubusercontent.com/PatrickStarL/gui-grounding-eval/d92b059caa0e0acf8db76f2164dd7be2617ccc72/ssp_eval/metrics.py (retrieved 2026-10-20T11:53:32.022035Z; SHA-256 c3eb1708b7d57dcde7478ca2f5063241b1ab567b2ba2ba28b9956b043da2b6c2)
 - https://raw.githubusercontent.com/PatrickStarL/gui-grounding-eval/d92b059caa0e0acf8db76f2164dd7be2617ccc72/ssp_eval/geometry.py (retrieved 2026-10-20T11:53:35.461491Z; SHA-256 66fa5940f0c4f6265cb162cb0596402848dd2a49fd48b07ee950dc866b8730a5)
 - https://raw.githubusercontent.com/PatrickStarL/gui-grounding-eval/d92b059caa0e0acf8db76f2164dd7be2617ccc72/ssp_eval/runner.py (retrieved 2026-10-20T11:53:38.931130Z; SHA-256 f83bc0632a616e7b01c8a46b0e435733f0cc47b4a19f0c709b221eaee8a0db5f)
+
+---
+
+## Libretto
+
+Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.
+
+- Catalog URL: https://awesomecua.com/resources/github-cashew-labs-libretto/
+- Original source: https://github.com/cashew-labs/libretto
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, recording, tool-integration, web-navigation
+- Evidence checked: 2026-11-06T16:36:31Z
+- ID: github:cashew-labs/libretto
+
+### Limitations
+
+The source declares an MIT license. It describes the project as early stage and says APIs may change before version 1.0.
+
+- Record JSON: https://awesomecua.com/resources/github-cashew-labs-libretto/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/cashew-labs/libretto/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cashew-labs/libretto/41ab782ccea765d7a9a3c9b56b1b2586723962e3/README.md (retrieved 2026-11-06T16:36:31Z; SHA-256 740b0a01d479cdfbdfb1880feb39f83dca391a7661e093a3c1c790c03b548f2f)
+- https://raw.githubusercontent.com/cashew-labs/libretto/HEAD/LICENSE (retrieved 2026-11-06T10:58:02Z; SHA-256 b683434c6cd04af4b3adf40c431de3ccbd769877f648d7b7cf1aed039809138d)
+
+---
+
+## mcp-server-browser-use
+
+MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.
+
+- Catalog URL: https://awesomecua.com/resources/github-saik0s-mcp-browser-use/
+- Original source: https://github.com/Saik0s/mcp-browser-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, web-navigation, tool-integration
+- Evidence checked: 2026-11-06T16:36:28Z
+- ID: github:saik0s/mcp-browser-use
+
+### Limitations
+
+MIT per the README badge and LICENSE. The skills system is marked experimental.
+
+- Record JSON: https://awesomecua.com/resources/github-saik0s-mcp-browser-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Saik0s/mcp-browser-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Saik0s/mcp-browser-use/03e0dad7f429568f922e0cc09b72849472cb867c/README.md (retrieved 2026-11-06T16:36:28Z; SHA-256 a0b22d3d9bf5a001cc3329c032df58e545f8e7d45e952cac8be133d05cc4b0a0)
+- https://raw.githubusercontent.com/Saik0s/mcp-browser-use/HEAD/LICENSE (retrieved 2026-11-06T09:57:58Z; SHA-256 e91c3457d2c94cc9f2d76459e2e1d5ea8ae46d0d3853a72b82c688b7d524db3b)
 
 ---
 
@@ -486,6 +655,73 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## PhantomJS
+
+PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.
+
+- Catalog URL: https://awesomecua.com/resources/github-ariya-phantomjs/
+- Original source: https://github.com/ariya/phantomjs
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, evaluation, observability
+- Evidence checked: 2026-11-06T16:36:36Z
+- ID: github:ariya/phantomjs
+
+### Limitations
+
+The README identifies version 2.1 as the latest stable release and says development is suspended until further notice. It declares a BSD license and notes that third-party code has separate license information.
+
+- Record JSON: https://awesomecua.com/resources/github-ariya-phantomjs/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ariya/phantomjs/0a0b0facb16acfbabb7804822ecaf4f4b9dce3d2/README.md (retrieved 2026-11-06T16:36:36Z; SHA-256 e74921d808484f2824f883775147c35ae635338cfbfa3baa405bc58cb1b67d37)
+
+---
+
+## pi-computer-use
+
+Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.
+
+- Catalog URL: https://awesomecua.com/resources/github-injaneity-pi-computer-use/
+- Original source: https://github.com/injaneity/pi-computer-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, windows, linux
+- Topics: automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-06T16:36:27Z
+- ID: github:injaneity/pi-computer-use
+
+### Limitations
+
+The macOS helper requires macOS 14 or newer. On Linux it runs inside a graphical session with a working AT-SPI2 accessibility bus. MIT per the README.
+
+- Record JSON: https://awesomecua.com/resources/github-injaneity-pi-computer-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/injaneity/pi-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/injaneity/pi-computer-use/67e9e2f77643f84605b738a3198048a88e92190e/README.md (retrieved 2026-11-06T16:36:27Z; SHA-256 a3e0a2af0b4ca7e87a090404ca6a114af1abd9946035db6c0a55f570d50678ea)
+- https://raw.githubusercontent.com/injaneity/pi-computer-use/HEAD/LICENSE (retrieved 2026-11-06T09:57:50Z; SHA-256 c269a9558b881ddb20c263823a393a101d2b8c7b668d51e9666e79d2614d4b2b)
+
+---
+
 ## Playwright MCP
 
 MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
@@ -517,6 +753,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/README.md (retrieved 2026-10-16T06:40:53Z; SHA-256 b33aa71a13d655e96e6b736d0c9de1e5ddea52f205916ca20b876387ff830e87)
 - https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/LICENSE (retrieved 2026-10-16T06:42:07Z; SHA-256 9a7110fc2d2f964038e5dc49128f908f29f47a574c961cba16085914e879cbda)
+
+---
+
+## Playwright MCP Server (ExecuteAutomation)
+
+Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.
+
+- Catalog URL: https://awesomecua.com/resources/github-executeautomation-mcp-playwright/
+- Original source: https://github.com/executeautomation/mcp-playwright
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, web-navigation, tool-integration
+- Evidence checked: 2026-11-06T16:36:28Z
+- ID: github:executeautomation/mcp-playwright
+
+### Limitations
+
+The README describes v1.0.10, which adds 143 device presets. Declared license MIT. It is a different project from Microsoft Playwright MCP.
+
+- Record JSON: https://awesomecua.com/resources/github-executeautomation-mcp-playwright/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/executeautomation/mcp-playwright/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/executeautomation/mcp-playwright/2349c2891e7c499c8c07b7d78c7f3fb4c797a1da/README.md (retrieved 2026-11-06T16:36:28Z; SHA-256 2ba1c85ad3facbe144b8b94d6d3256c45c3e43a0073a683073ff03d55aa9a8c3)
+- https://raw.githubusercontent.com/executeautomation/mcp-playwright/HEAD/LICENSE (retrieved 2026-11-06T09:58:00Z; SHA-256 b611f7feb097dac1235bc2901046f36ff85e753b075b741412b6a0447ab20390)
 
 ---
 
@@ -594,6 +864,39 @@ This is the retained Sikuli X-1.0rc3 source line, explicitly marked unsupported 
 - https://raw.githubusercontent.com/sikuli/sikuli/HEAD/build-linux.txt (retrieved 2026-10-17T11:28:13Z; SHA-256 28354a06091997d233cc5124958d85b75a5d815677c58b4fbabd492a6b0038d3)
 - https://raw.githubusercontent.com/sikuli/sikuli/HEAD/build-win32.txt (retrieved 2026-10-17T11:28:13Z; SHA-256 b7c66064d08c6a768a4ed93fee0f86f837b41d51e60785d44a59d7a13bd2452a)
 - https://raw.githubusercontent.com/sikuli/sikuli/HEAD/copyright.txt (retrieved 2026-10-17T11:23:03Z; SHA-256 717e5c54ef8201b2307c9828a6bacb7710385e5014adba93e5f1dc444339fdab)
+
+---
+
+## Tactile
+
+Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/github-yliust-tactile/
+- Original source: https://github.com/yliust/Tactile
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: screen-understanding, grounding, tool-integration
+- Evidence checked: 2026-11-06T16:36:28Z
+- ID: github:yliust/tactile
+
+### Limitations
+
+The first version connects to Codex as a skill, with a dedicated macOS MCP server as the recommended entry point. PolyForm Noncommercial 1.0.0 per LICENSE.
+
+- Record JSON: https://awesomecua.com/resources/github-yliust-tactile/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yliust/Tactile/73b77faece08752edd360e233f1184c44dcba701/README.md (retrieved 2026-11-06T16:36:28Z; SHA-256 889e3b0737fbca695403362cbd9e2868d0d4c3e2b261cd8db88ebf0941db2eb4)
 
 ---
 
@@ -697,6 +1000,40 @@ This entry describes the released screenshot-defect tool, separately from the un
 
 - https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/README.md (retrieved 2026-10-16T13:17:23Z; SHA-256 fc3009b355e46549c5128c933bb333aa37b1db5ac8ea8f2d0f300848d8a62200)
 - https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE (retrieved 2026-10-16T13:29:25Z; SHA-256 2b75b184f28b204d8e2c7b45a341e4583202cf4c9da8964f108770929d1193ba)
+
+---
+
+## web-eval-agent
+
+MCP server that launches a browser-use agent to run a web app, capture screenshots, console and network logs, and return a UX report to the coding agent.
+
+- Catalog URL: https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/
+- Original source: https://github.com/refreshdotdev/web-eval-agent
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, observability
+- Evidence checked: 2026-11-06T16:36:27Z
+- ID: github:refreshdotdev/web-eval-agent
+
+### Limitations
+
+The README says the project has been discontinued and the repository is archived. It required an operative.sh API key. Declared license Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/github-refreshdotdev-web-eval-agent/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/refreshdotdev/web-eval-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/refreshdotdev/web-eval-agent/4e1ad6e2c76a5c9463939f9508fede1f20e10f67/README.md (retrieved 2026-11-06T16:36:27Z; SHA-256 c26dc65b35833e8583e34d0d511a288c4909e4aa88324055663cf329c258ac0d)
+- https://raw.githubusercontent.com/refreshdotdev/web-eval-agent/HEAD/LICENSE (retrieved 2026-11-06T09:57:50Z; SHA-256 237df3f7346cc32d1a56b3015ebbaaa045abf2250ff055e9e821c35f0a758777)
 
 ---
 

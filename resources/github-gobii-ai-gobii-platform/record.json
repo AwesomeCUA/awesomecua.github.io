@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-06T16:36:28Z",
+      "role": "primary",
+      "sha256": "5d31163a404be6ae48567ad0bbbb522165d7f31564162b5f7b70becdf2c5b861",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/gobii-ai/gobii-platform/c9929bf8ea59b4695b99dcab59aa6c97a09c5bdb/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-11-06T09:57:58Z",
+      "role": "primary",
+      "sha256": "1a42ae4dd02e776bc265cae342b22900d0d44a50d5e11d4f011fb4c4558fdbbb",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/gobii-ai/gobii-platform/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:gobii-ai/gobii-platform",
+  "identifiers": {},
+  "kind": "infrastructure",
+  "last_verified_at": "2026-11-06T16:36:28Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-11-06T09:57:58Z",
+      "url": "https://raw.githubusercontent.com/gobii-ai/gobii-platform/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/gobii-ai/gobii-platform"
+    }
+  ],
+  "name": "Gobii Platform",
+  "notes": "Release 2.31.0 dated 2026-08-11. The hosted product is at gobii.ai. Declared license MIT.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.",
+  "topics": [
+    "automation",
+    "web-navigation",
+    "long-horizon"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/gobii-ai/gobii-platform"
+}

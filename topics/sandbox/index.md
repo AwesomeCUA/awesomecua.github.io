@@ -1,6 +1,6 @@
 # Sandboxes
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jsonl
 
@@ -156,10 +156,14 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
 
 - [Agent Infra Sandbox](https://awesomecua.com/resources/github-agent-infra-sandbox/) — Date not recorded
   Sandbox environments supporting computer and browser interaction.
+- [Agent Zero](https://awesomecua.com/resources/github-agent0ai-agent-zero/) — Date not recorded
+  Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.
 - [AgentDesk](https://awesomecua.com/resources/github-agentsea-agentdesk/) — Date not recorded
   Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
 - [AgentStudio](https://awesomecua.com/resources/github-skyworkai-agent-studio/) — Date not recorded
   Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
+- [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/) — Date not recorded
+  AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.
 - [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) — Date not recorded
   Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
 - [Browserbase Cloud](https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/) — Date not recorded
@@ -182,3 +186,5 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
 - [Steel Cloud](https://awesomecua.com/resources/url-b940a884f200a916a61b/) — Date not recorded
   Managed browser infrastructure associated with Steel Browser.
+- [TestDriver SDK](https://awesomecua.com/resources/github-testdriverai-testdriverai/) — Date not recorded
+  Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.

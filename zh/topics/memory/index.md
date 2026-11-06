@@ -1,6 +1,6 @@
 # 记忆
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/memory/records.jsonl
 
@@ -447,12 +447,16 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Research code that extracts reusable browser-task routines from demonstrations or prior executions, stores them as workflow memory and reuses them during subsequent navigation.
 - [AgentProg](https://awesomecua.com/resources/github-mobilellm-agentprog/) — Date not recorded
   Android GUI-agent framework that keeps long-running task context in structured programs, variables and control flow, with a CLI and AndroidWorld integration.
+- [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/) — Date not recorded
+  AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.
 - [AndroTMem inference and evaluation code](https://awesomecua.com/resources/github-cvc2233-androtmem/) — Date not recorded
   A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
 - [AppAgent](https://awesomecua.com/resources/github-tencentqqgylab-appagent/) — Date not recorded
   Multimodal agent that operates Android apps through taps and swipes without back-end access, building a reusable knowledge base from autonomous exploration or from watching human demonstrations.
 - [AppAgentX](https://awesomecua.com/resources/github-westlake-agi-lab-appagentx/) — Date not recorded
   Mobile agent research using accumulated interaction experience.
+- [ConnectOnion](https://awesomecua.com/resources/github-openonion-connectonion/) — Date not recorded
+  ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.
 - [Cradle](https://awesomecua.com/resources/github-baai-agents-cradle/) — Date not recorded
   Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/) — Date not recorded

@@ -1,6 +1,6 @@
 # Automation
 
-Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
+Reviewed topic membership; resources can appear in multiple topics.
 
 Full source records: https://awesomecua.com/downloads/topics/automation/records.jsonl
 
@@ -264,10 +264,14 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
 
 ## Engineering & industry
 
+- [Agent Zero](https://awesomecua.com/resources/github-agent0ai-agent-zero/) — Date not recorded
+  Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.
 - [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/) — Date not recorded
   A browser-automation command-line interface that exposes browser state and interaction commands for AI agents.
 - [AgentSynth task-generation pipeline](https://awesomecua.com/resources/github-sunblaze-ucb-agentsynth/) — Date not recorded
   Generates synthetic computer-use tasks and records trajectories in OSWorld desktop environments and InSTA browser environments.
+- [Alumnium](https://awesomecua.com/resources/github-alumnium-hq-alumnium/) — Date not recorded
+  An AI-native end-to-end testing library and MCP that lets agents interact with applications through automation drivers and verify assertions.
 - [Amazon Nova Act](https://awesomecua.com/resources/url-dec156cbf0cb1181f7b6/) — Date not recorded
   AWS service for building and deploying agents that automate browser-based UI workflows from natural language and Python, powered by a custom Nova 2 Lite model.
 - [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) — Date not recorded
@@ -278,14 +282,32 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Replay-based policy-optimization framework for GUI agents, with distributed OSWorld rollouts and screenshot/action histories.
 - [AUITestAgent](https://awesomecua.com/resources/github-bz-lab-auitestagent/) — Date not recorded
   Generates mobile GUI interactions from natural-language test requirements and checks application behavior against those requirements.
+- [BrowserGPT](https://awesomecua.com/resources/github-mayt-browsergpt/) — Date not recorded
+  BrowserGPT is a browser automation script that uses GPT-4 to generate Playwright code for navigating and interacting with web pages from natural-language tasks.
+- [Capybara](https://awesomecua.com/resources/github-teamcapybara-capybara/) — Date not recorded
+  Capybara is a web application acceptance testing framework that simulates user interactions through browser and headless drivers.
 - [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) — Date not recorded
   MCP tools for browser control and inspection through Chrome DevTools.
+- [chromedp](https://awesomecua.com/resources/github-chromedp-chromedp/) — Date not recorded
+  A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.
+- [CodeceptJS](https://awesomecua.com/resources/github-codeceptjs-codeceptjs/) — Date not recorded
+  CodeceptJS is an end-to-end testing framework that expresses browser and mobile interactions as user-facing steps through helpers such as Playwright, WebDriver, and Appium.
 - [COLA demo](https://awesomecua.com/resources/github-alokia-cola-demo/) — Date not recorded
   Research demonstration of collaborative Windows GUI automation with dynamic task scheduling and recovery mechanisms.
+- [ConnectOnion](https://awesomecua.com/resources/github-openonion-connectonion/) — Date not recorded
+  ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.
+- [Firecrawl](https://awesomecua.com/resources/github-firecrawl-firecrawl/) — Date not recorded
+  Firecrawl is an API that lets agents search and scrape web pages, then interact with pages through prompts or code.
+- [Gobii Platform](https://awesomecua.com/resources/github-gobii-ai-gobii-platform/) — Date not recorded
+  Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.
 - [GUI-HARVEST](https://awesomecua.com/resources/github-garyyang12345-gui-harvest/) — Date not recorded
   Optimizes GUI-agent execution code from repeated rollout evidence and checks proposed changes against fixed validation gates.
+- [Libretto](https://awesomecua.com/resources/github-cashew-labs-libretto/) — Date not recorded
+  Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.
 - [Lumen browser agent](https://awesomecua.com/resources/github-omxyz-lumen/) — Date not recorded
   A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.
+- [mcp-server-browser-use](https://awesomecua.com/resources/github-saik0s-mcp-browser-use/) — Date not recorded
+  MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.
 - [Midscene.js](https://awesomecua.com/resources/github-web-infra-dev-midscene/) — Date not recorded
   Visual automation toolkit for web, mobile, and desktop interfaces.
 - [Mobile Harness](https://awesomecua.com/resources/github-droidrun-mobile-harness/) — Date not recorded
@@ -300,20 +322,38 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A maintained continuation of SikuliX that locates on-screen targets with image matching and OCR, drives desktop or Android interfaces, and exposes scripting and optional MCP interfaces.
 - [OpenAgents Web Agent](https://awesomecua.com/resources/component-xlang-ai-openagents-web-agent/) — Date not recorded
   The OpenAgents browser-control component, connecting a Chrome extension to a web agent and local chat platform for navigating sites and completing interface tasks.
+- [OpenManus](https://awesomecua.com/resources/github-foundationagents-openmanus/) — Date not recorded
+  OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.
 - [PC-Agent-E training and deployment](https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/) — Date not recorded
   Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.
+- [PhantomJS](https://awesomecua.com/resources/github-ariya-phantomjs/) — Date not recorded
+  PhantomJS is a scriptable headless WebKit tool for automating web pages, capturing page contents, testing, and monitoring network activity.
+- [pi-computer-use](https://awesomecua.com/resources/github-injaneity-pi-computer-use/) — Date not recorded
+  Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.
 - [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) — Date not recorded
   Browser automation library used as an execution layer by agents.
 - [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) — Date not recorded
   MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
+- [Playwright MCP Server (ExecuteAutomation)](https://awesomecua.com/resources/github-executeautomation-mcp-playwright/) — Date not recorded
+  Community MCP server that gives LLMs Playwright browser automation for interacting with web pages, taking screenshots, generating test code and running JavaScript.
+- [puppeteer-extra](https://awesomecua.com/resources/github-berstend-puppeteer-extra/) — Date not recorded
+  A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.
 - [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) — Date not recorded
   Cross-platform Python module for scripted mouse and keyboard control, message boxes and screenshots with on-screen image search, working on the primary monitor under Windows, macOS and Linux.
+- [Qwen Code](https://awesomecua.com/resources/github-qwenlm-qwen-code/) — Date not recorded
+  Qwen Code is an open-source coding agent that supports desktop automation through computer-use tools alongside terminal, editor, web, and chat interfaces.
+- [SeleniumBase](https://awesomecua.com/resources/github-seleniumbase-seleniumbase/) — Date not recorded
+  Python browser automation framework for web crawling, end-to-end testing and scraping, with a recorder that generates tests and stealth options.
 - [ShowUI-Aloha](https://awesomecua.com/resources/github-showlab-showui-aloha/) — Date not recorded
   Desktop agent that records demonstrations, derives semantic action traces, and uses them to plan and execute related workflows.
 - [Sikuli legacy research implementation](https://awesomecua.com/resources/github-sikuli-sikuli/) — Date not recorded
   The original Sikuli source distribution combines screenshot targets with a Jython scripting library and IDE for visual GUI automation and testing.
 - [STEVE / STEVE-R1 research code](https://awesomecua.com/resources/github-fanbinlu-steve-r1/) — Date not recorded
   Research code and linked models for step-verified computer-use training; the current repository describes STEVE-R1 and its trajectory releases.
+- [TestDriver SDK](https://awesomecua.com/resources/github-testdriverai-testdriverai/) — Date not recorded
+  Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.
+- [TestZeus Hercules](https://awesomecua.com/resources/github-test-zeus-ai-testzeus-hercules/) — Date not recorded
+  Open-source testing agent that takes Gherkin features and executes them end to end on web applications through Playwright.
 - [Universe legacy GUI interaction client](https://awesomecua.com/resources/github-openai-universe/) — Date not recorded
   An archived Gym-compatible client that exposes screen observations and keyboard/mouse actions over VNC for remote application and browser environments, including the historical World of Bits integration.
 - [Windows-MCP](https://awesomecua.com/resources/github-cursortouch-windows-mcp/) — Date not recorded
