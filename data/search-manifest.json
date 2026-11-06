@@ -20310,7 +20310,7 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "821fe5a527a1f9abf47843bea64cdbef981965b4ed893d31f152e9e3bb23beb5"
+      "sha256": "1c273ddba1960ebddc509cd0a354a6270e39a198534f3a3a195b296e139cec55"
     },
     {
       "path": "/categories/paper/",
@@ -21560,7 +21560,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "9a41c6b4ff900e2e6e6e8d03026663cee9942abaa9cfc764149fe787ada8925a"
+      "sha256": "036f6116b02daa014be6db7d64661d7ff8977432424b8983acc9154c440fda7d"
     },
     {
       "path": "/agents/",
@@ -21575,7 +21575,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "d5bd238be7e690f37e498416a09b7c51c068e346eb4483eab3539a03a75a6a82"
+      "sha256": "44c750a9d773049866286e74eba70758480c6c4e6f87233adff343295f52e73c"
     },
     {
       "path": "/badges/",
@@ -21590,12 +21590,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "066db45453c748a5ec2be4fcf1c6a11f800a8b0a80ad0934915a3841a3a43711"
+      "sha256": "dc61cd2fb18c82d32c377e5169f12695c50e2cdf63a1dcb5c69e2e5661556541"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "72f408873f61ed973497653a39d5c55f3e87fa1c912c50fd48d9b80a626fcbb1"
+      "sha256": "ea89ae83e716688a9289d611f6ad7f1dff8d75976e47e5f49715b1bc30b1fbab"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -21620,12 +21620,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "c1afd963d6f6fb16ac82b48de4f7adde0d5fb645ae68c29ec809326cbe742d5f"
+      "sha256": "d265832a870cf446a5b0a1e3a1839e3f3dca008241f7b5e14755b5ab4c7b3edc"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "2a050545318cca0c94d22b20bb5a8b79d71bb2178df447c183bac6b9feb4ee10"
+      "sha256": "bb000213948c8668f6c8db54cabd0bab9fdeb1bfe8b3bec89cc3bb07cd730b55"
     }
   ]
 }

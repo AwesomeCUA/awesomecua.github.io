@@ -400,8 +400,8 @@
         "unit": "reports"
       },
       "scope": "provenance",
-      "bytes": 746493,
-      "sha256": "576c46182d5ad04cb7f427afa60f1efef38f8a8eb83ce1c0e9308315e819f54e"
+      "bytes": 746221,
+      "sha256": "9dfc1e776a7cf68acc05d22e3bf9a1d85bc0408cc0d933513b43911e1d2e65a3"
     },
     {
       "id": "sources",
@@ -528,12 +528,12 @@
       "format": "JSONL",
       "media_type": "application/x-ndjson",
       "count": {
-        "value": 10067,
+        "value": 10070,
         "unit": "repositories"
       },
       "scope": "candidate-observations",
-      "bytes": 28024149,
-      "sha256": "be8731c5466b7a07935f1cb733871cf7f1cd9f71057443a7fa3fd8d39f0a1daf"
+      "bytes": 28028656,
+      "sha256": "b4ba9964a5ad680072ba50ba67dc747d0a002ae47364c7bc34e32f932ff0f023"
     },
     {
       "id": "github-candidates-manifest",
@@ -554,8 +554,8 @@
         "unit": "reports"
       },
       "scope": "candidate-observations",
-      "bytes": 269531,
-      "sha256": "30fd58beee13c16444e154fcf23023a7271911f22a83ed822aa90806ccb6a22f"
+      "bytes": 271294,
+      "sha256": "66d052a84d86385e25a58f7f69e78b2d73df04ecbd6cf07f455c8cf116e4d799"
     },
     {
       "id": "resource-schema-json",
