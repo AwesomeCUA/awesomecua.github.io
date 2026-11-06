@@ -20,14 +20,13 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 
 ## Find by task
 
-| Your task | Start here | What you can find |
-| --- | --- | --- |
-| Find papers | [Research library](https://awesomecua.com/papers/) · [Topics](https://awesomecua.com/topics/) | Reviewed papers by year and topic, with original sources. |
-| Choose a benchmark | [Benchmark guide](https://awesomecua.com/guides/gui-agent-benchmarks/) | Platforms, tasks, evaluators, and versions to compare. |
-| Find training data | [Training-data guide](https://awesomecua.com/guides/gui-agent-training-data/) | Supervision, splits, count units, and data licenses. |
-| Build an agent | [Agents](https://awesomecua.com/categories/agent/) · [Frameworks](https://awesomecua.com/categories/framework/) | Implementation entry points, supported platforms, and papers. |
-| Use RAG or an agent | [Agent guide](https://awesomecua.com/agents/) · [Data hub](https://awesomecua.com/data/) | Complete records or retrieval documents with review states and sources. |
-| Trace papers to assets | [Paper–asset connections](https://awesomecua.com/connections/) | Code, datasets, and models linked through reviewed primary evidence. |
+| Your task           | Start here                                                                                                                                                     | What you can find                                                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Find papers         | [Research library](https://awesomecua.com/papers/) · [Topics](https://awesomecua.com/topics/) · [Paper–asset connections](https://awesomecua.com/connections/) | Reviewed papers by year and topic, with original sources and the code, datasets and models linked to them through reviewed primary evidence. |
+| Choose a benchmark  | [Benchmark guide](https://awesomecua.com/guides/gui-agent-benchmarks/)                                                                                         | Platforms, tasks, evaluators, and versions to compare.                                                                                       |
+| Find training data  | [Training-data guide](https://awesomecua.com/guides/gui-agent-training-data/)                                                                                  | Supervision, splits, count units, and data licenses.                                                                                         |
+| Build an agent      | [Agents](https://awesomecua.com/categories/agent/) · [Frameworks](https://awesomecua.com/categories/framework/)                                                | Implementation entry points, supported platforms, and papers.                                                                                |
+| Use RAG or an agent | [Agent guide](https://awesomecua.com/agents/) · [Data hub](https://awesomecua.com/data/)                                                                       | Complete records or retrieval documents with review states and sources.                                                                      |
 
 <details>
 <summary>Local examples (after cloning; Python 3.11+, no dependencies required)</summary>

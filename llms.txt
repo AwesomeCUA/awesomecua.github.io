@@ -80,6 +80,7 @@ The first page of each topic has an index.md listing all of its resources. Each 
 - [中文数据中心](https://awesomecua.com/zh/data/)
 - [Download manifest](https://awesomecua.com/downloads/manifest.json): file paths, exact byte sizes, SHA-256 fingerprints, counts and units. Compare catalog_sha256 with the RAG, citation and topic manifests before combining artifacts.
 - [Download manifest schema](https://awesomecua.com/schemas/download-manifest.schema.json)
+- [Hugging Face dataset mirror](https://huggingface.co/datasets/AgPerry/awesome-cua): read-only Parquet and JSONL mirror of these downloads, one config per record type, refreshed every 2 hours. metadata_only and github_candidates are not curated.
 
 ## Versioned data
 
