@@ -6,6 +6,24 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
 
 ## 论文与综述
 
+- [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](https://awesomecua.com/resources/arxiv-2611-05263/) — 2026-11-03
+  Introduces JHiMA-WebRL, which jointly trains a task decomposer and GUI actor with hierarchical RL for long-horizon web tasks in WebArena.
+- [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://awesomecua.com/resources/arxiv-2611-03634/) — 2026-11-02
+  Introduces WebHarbor, a suite of 153 executable website environments and 3,518 tasks for evaluating and training GUI web agents on interactive workflows.
+- [UI-UG 2: Advancing Mobile UI Understanding and Generation with Fine-Grained Supervision and Reinforcement Learning](https://awesomecua.com/resources/arxiv-2611-00926/) — 2026-10-31
+  Introduces UI-UG 2, a mobile UI model trained for component understanding, GUI grounding, and structured interface generation with render-aware RL.
+- [Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses](https://awesomecua.com/resources/arxiv-2610-40747/) — 2026-10-29
+  Introduces Mage-VL-Cowork, a computer-use agent trained for GUI, code, and terminal actions, with Mage-CUA-Forge generating desktop and web tasks for training.
+- [Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](https://awesomecua.com/resources/arxiv-2610-39264/) — 2026-10-29
+  Introduces online RL training for agents navigating live iOS apps, separating planning from UI grounding and using step-level and task-completion rewards.
+- [Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents](https://awesomecua.com/resources/arxiv-2610-39251/) — 2026-10-29
+  Introduces a two-stage GUI-agent RL framework that selects uncertain action checkpoints and expands rollout length as training progresses.
+- [Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding](https://awesomecua.com/resources/arxiv-2610-37093/) — 2026-10-27
+  Introduces LBS, a vision-language model trained with GUI grounding trajectories and crop-and-inspect decisions to study transfer of active visual observation.
+- [AndroidFlux: Evaluating and Reward Modeling Failure Recovery Capabilities in Mobile Use Multimodal Agents](https://awesomecua.com/resources/arxiv-2610-34384/) — 2026-10-25
+  Introduces AndroidFlux, a mobile-agent failure-recovery benchmark that restores trajectories to error checkpoints, plus a reward-modeling benchmark and offline RL dataset.
+- [InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning](https://awesomecua.com/resources/arxiv-2610-28610/) — 2026-10-20
+  InterWebCoder trains models to generate interactive webpage code using recorded interactions, executable tests and repair feedback, an adjacent web interface task.
 - [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://awesomecua.com/resources/arxiv-2610-26828/) — 2026-10-19
   WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning.
 - [VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards](https://awesomecua.com/resources/arxiv-2610-26469/) — 2026-10-19
@@ -14,12 +32,16 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks.
 - [Adaptation of Computer Use Agents to New Software with User Manuals](https://awesomecua.com/resources/arxiv-2610-23012/) — 2026-10-16
   MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.
+- [Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards](https://awesomecua.com/resources/arxiv-2610-22448/) — 2026-10-15
+  Lean4AgenticRL formalizes workflow stages and process rewards for reinforcement learning on software engineering and terminal-use tasks, an adjacent setting for interface agents.
 - [OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://awesomecua.com/resources/arxiv-2610-22234/) — 2026-10-15
   Trains native computer-use models to coordinate GUI actions and code execution using hybrid demonstrations and online reinforcement learning.
 - [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://awesomecua.com/resources/arxiv-2610-22408/) — 2026-10-14
   ECHOES learns recursive textual task memory through privileged screenshot-history distillation and GRPO, then predicts GUI actions from the current screenshot and memory.
 - [MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments](https://awesomecua.com/resources/arxiv-2610-20939/) — 2026-10-14
   Unifies GUI evaluation, trajectory collection, environment synthesis, and online reinforcement learning across mobile, computer, and web tasks.
+- [Co-Evolving Acting and Forecasting for Language Agents](https://awesomecua.com/resources/arxiv-2610-20597/) — 2026-10-14
+  Introduces CoPE, which trains language agents to forecast later actions from earlier histories during RL; WebShop is one of five evaluation benchmarks.
 - [Player-1: Learning to Play from Synthetic Experience](https://awesomecua.com/resources/arxiv-2610-20584/) — 2026-10-14
   Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games rather than ordinary productivity workflows.
 - [GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning](https://awesomecua.com/resources/arxiv-2610-19100/) — 2026-10-13
@@ -28,6 +50,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Synthesizes resettable workspaces with files, application observations and skills; repairs environment incompatibilities and trains long-task agents using verifier-linked turn credit.
 - [Adaptive-Group Process Rewards for GUI Agents](https://awesomecua.com/resources/arxiv-2610-17710/) — 2026-10-13
   Groups GUI trajectories by subgoal and combines action-level and group-level assessments into intermediate rewards for training agents with sparse task outcomes.
+- [Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents](https://awesomecua.com/resources/arxiv-2610-16998/) — 2026-10-12
+  Introduces Glasseek, a framework for deep-search agents that explore the open web, with trajectory construction, training across context compression, and a test-set leakage audit.
 - [Learn from Move: the Next Step for GUI Agents](https://awesomecua.com/resources/arxiv-2610-16720/) — 2026-10-12
   Introduces LatentGUIWorld to test learning interface semantics and dynamics through interaction, and studies finer movement actions with intermediate visual feedback and exploration demonstrations.
 - [OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools](https://awesomecua.com/resources/arxiv-2610-14157/) — 2026-10-09
@@ -58,6 +82,10 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   MintAct trains a visual-agent family for grounding, navigation and tool use across mobile, desktop and web environments. Its shared infrastructure supports trajectory collection and asynchronous online RL while controlling cross-domain sampling and off-policy drift.
 - [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2609-12394/) — 2026-09-11
   Describes a mobile-agent training pipeline centered on real-device rollouts, recovery of useful supervision from failures, and evolving evaluation tasks.
+- [Seeing Through Conflicts: Improving Instruction Hierarchy Alignment in Vision-Language Models](https://awesomecua.com/resources/arxiv-2609-22234/) — 2026-09-03
+  Studies reinforcement learning for vision-language models facing conflicting instructions across text and images, including evaluation on web-agent safety tasks.
+- [Tail-Likelihood Reinforcement Learning](https://awesomecua.com/resources/arxiv-2609-02987/) — 2026-09-02
+  Introduces Tail-Likelihood Reinforcement Learning (TailRL), an RL objective that favors rare high-reward rollouts; GUI grounding is one of several evaluation tasks.
 - [Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents](https://awesomecua.com/resources/arxiv-2608-27866/) — 2026-08-28
   Introduces Iron, a GUI-agent training framework that aligns low-level actions with high-level intent using cycle-consistency rewards. It also repurposes failed trajectories through hindsight reconstruction and evaluates transfer to other digital tasks.
 - [Beyond Task Completion: Training Capable and Safe Computer-Use Agents](https://awesomecua.com/resources/arxiv-2609-22178/) — 2026-08-27
@@ -78,22 +106,36 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Builds synthetic websites with verified navigation, backend state, and feasible tasks to provide reliable supervision for web-agent training.
 - [Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents](https://awesomecua.com/resources/arxiv-2608-21830/) — 2026-08-22
   Introduces LACL-GUI, a contrastive learning objective that distinguishes trajectory quality within both successful and failed GUI executions. It favors concise successes and uses divergence from successful trajectories to differentiate failures during policy optimization.
+- [Towards Faithful Simulation of Human Shopping Behavior](https://awesomecua.com/resources/arxiv-2608-20707/) — 2026-08-21
+  Presents RecVerse, a screenshot-based shopping simulation agent with hierarchical memory and trajectory-level RL, alongside USB, an interactive e-commerce GUI trajectory dataset.
 - [Wuying-Browser-Agent: Real-World Centric Fundamental Long-Horizon Browser Agents](https://awesomecua.com/resources/arxiv-2608-17319/) — 2026-08-18
   Combines a browser execution framework, recovery-oriented supervision, and online reinforcement learning, with a bilingual live-web task benchmark.
+- [Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://awesomecua.com/resources/arxiv-2608-17310/) — 2026-08-18
+  Introduces Agentic ESOpt, an evolution-strategies fine-tuning framework for long-horizon agents, evaluated on WebArena-Lite web tasks and automatic heuristic design.
+- [CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications](https://awesomecua.com/resources/arxiv-2608-11588/) — 2026-08-12
+  Introduces CoAdapt-GUI, which adapts workflow context and policy from a mobile GUI agent's own rollouts and rewards when it encounters unseen applications.
 - [LookAgain: Closed-Loop GUI Grounding with Visually Grounded Reflection](https://awesomecua.com/resources/arxiv-2608-09723/) — 2026-08-10
   LookAgain treats a GUI coordinate as a revisable hypothesis, rendering its marker and a local screenshot patch before confirmation. Reflective supervised trajectories provide a cold start, followed by GRPO using terminal grounding correctness.
+- [WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://awesomecua.com/resources/arxiv-2608-06474/) — 2026-08-06
+  Introduces WebGrader, a programmatic grader for website generation that plans interaction flows, runs them in a live browser, and uses observed outcomes as RL rewards.
 - [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2608-05891/) — 2026-08-06
   AppDeltaWorld predicts executable code updates for the next mobile UI state, using transition-constrained retrieval and rendered visual assets. It evaluates reconstruction fidelity separately from policy training and adaptation using generated environments.
 - [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](https://awesomecua.com/resources/arxiv-2608-03327/) — 2026-08-04
   This study separates tool-adoption behavior from task competence in hybrid GUI–MCP agents. It tests tool-use incentives and screenshot-history compression, showing why changed action preferences alone need not improve held-out accuracy.
 - [Qwen-CUA: Native Computer Use for (almost) Everything](https://awesomecua.com/resources/arxiv-2608-02352/) — 2026-08-03
   Qwen-CUA operates through screenshots and keyboard/mouse events while compressing older visual history into reusable context blocks. Its report combines verifiable task generation, trajectory-based training and separate browser and Bash-augmented studies.
+- [RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS for Web Agent Reinforcement Learning](https://awesomecua.com/resources/arxiv-2608-00335/) — 2026-07-31
+  Introduces RMSWeb, a training recipe for web agents that uses reflection retries, failure-mode mining, and Salvage-DS reward and sampling methods for web actions.
+- [MemHarness: Memory Is Reconstructed, Not Replayed](https://awesomecua.com/resources/arxiv-2607-28272/) — 2026-07-30
+  Introduces MemHarness, which trains agents to critique and reconstruct retrieved experience before acting; WebShop is one of two evaluation environments.
 - [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://awesomecua.com/resources/arxiv-2607-28227/) — 2026-07-30
   Describes a foundation GUI agent with combined GUI and command-line actions, large-scale interaction infrastructure, and iterative environment and task generation.
 - [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://awesomecua.com/resources/arxiv-2607-28074/) — 2026-07-30
   Introduces Echoverse, which compiles specifications into stateful applications with database-grounded graders and uses rollouts to improve both the environments and agent policies. It examines behavioral depth, targeted interface practice, and environment repair as sources of training value.
 - [OpenForgeRL: Train Harness-native Agents in Any Environment](https://awesomecua.com/resources/arxiv-2607-21557/) — 2026-07-23
   OpenForgeRL connects stateful agent harnesses to reinforcement-learning infrastructure through a model-call recording proxy and isolated rollout containers. Its validation includes browser and computer-use agents, alongside tool-oriented agents, and examines how harness choice affects learned reliability.
+- [Teach it to stop, not just to click](https://awesomecua.com/resources/arxiv-2607-17136/) — 2026-07-19
+  Studies verifier-guided repair of a 35B computer-use agent across five environments, examining variation across runs and data draws in done detection, GUI clicks, and field entry.
 - [A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism](https://awesomecua.com/resources/arxiv-2607-12640/) — 2026-07-14
   Studies a controlled setting where GRPO fails to improve a strong small web agent and can reduce text-track performance. Matched reachable-reward tasks and component grafting distinguish limited optimization headroom from learning-rate-dependent failure mechanisms.
 - [SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL](https://awesomecua.com/resources/arxiv-2607-11185/) — 2026-07-13
@@ -102,6 +144,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   MAG jointly evaluates browser task actions and user-facing guides grounded in screenshots through element marks or pixel coordinates. Its harness covers annotation, live evaluation and joint metrics, with an expert-trajectory-augmented GRPO training study.
 - [EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents](https://awesomecua.com/resources/arxiv-2607-09773/) — 2026-07-07
   EvoCUA-1.5 trains multi-turn desktop agents through online reinforcement learning in executable sandboxes. It combines step-level policy optimization, task filtering and calibration, an adaptive curriculum, and asynchronous rollout handling with staleness control.
+- [What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States](https://awesomecua.com/resources/arxiv-2606-31612/) — 2026-06-30
+  Proposes ATMem, an updated execution-state memory for long mobile GUI tasks, and STR-GRPO to train selective memory use; also introduces a mobile task benchmark.
 - [Xiaomi-GUI-0 Technical Report](https://awesomecua.com/resources/arxiv-2606-31410/) — 2026-06-30
   Describes a mobile GUI agent trained through real-device interaction, corrected failure trajectories, supervised learning, and reinforcement learning.
 - [GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://awesomecua.com/resources/arxiv-2606-29705/) — 2026-06-29
@@ -118,34 +162,66 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   MobileForge couples real-app exploration and generated tasks with hierarchical feedback for mobile-agent adaptation. Its optimizer turns trajectory outcomes, step feedback and corrective hints into contextualized GRPO updates, with evaluation on AndroidWorld and a GUI-only MobileWorld split.
 - [VISTA: View-Consistent Self-Verified Training for GUI Grounding](https://awesomecua.com/resources/arxiv-2606-14579/) — 2026-06-12
   VISTA forms GRPO comparison groups from target-preserving crops of the same GUI instance with exactly remapped target boxes. A conditional, advantage-weighted cross-view anchor supplies additional supervision without entering the group baseline, and evaluation includes view-consistency robustness.
+- [Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach](https://awesomecua.com/resources/arxiv-2606-13192/) — 2026-06-11
+  Introduces UXBench for diagnosing usability issues from UI screenshots and UI-UX, a reinforcement-trained model for reasoning about those interface problems.
 - [GUI-AC: Enhancing Continual Learning in GUI Agents](https://awesomecua.com/resources/arxiv-2606-10522/) — 2026-06-09
   GUI-AC uses grounding certainty to adjust advantage weighting and policy-clipping bounds during continual reinforcement fine-tuning. Its mechanisms aim to suppress noisy confidence updates while retaining exploration under shifting GUI domains and resolutions.
 - [AliyunConsoleAgent: Training Web Agents in Real-World Cloud Environments via Distillation and Reinforcement Learning](https://awesomecua.com/resources/arxiv-2606-09447/) — 2026-06-08
   AliyunConsoleAgent trains browser agents to verify documented procedures against changing cloud-console UIs through trajectory distillation and online GRPO. Provisioned rollout environments and backend audit-log checks support training and outcome evaluation.
+- [Self-evolving LLM agents with in-distribution Optimization](https://awesomecua.com/resources/arxiv-2606-07367/) — 2026-06-05
+  Introduces Q-Evolve, which derives step-wise rewards from an in-distribution critic for LLM agent learning; WebShop is one of its interactive evaluation settings.
 - [StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents](https://awesomecua.com/resources/arxiv-2606-07027/) — 2026-06-05
   StainFlow tracks visually verifiable task entities through GUI trajectories to identify phases and retrieve focused evidence windows. Its process-reward model is tested for both online policy learning and trajectory-completion judgments.
 - [AsyncWebRL: Efficient Asynchronous Reinforcement Learning for Multi-Step Visual Web Agents](https://awesomecua.com/resources/arxiv-2606-05597/) — 2026-06-04
   AsyncWebRL overlaps web-agent rollouts, updates and policy refresh while managing screenshot handling and a persistent rollout pool. It also replaces trajectory-length normalization in multi-step GRPO to reduce verbose failed trajectories, with throughput and out-of-distribution evaluation.
+- [OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents](https://awesomecua.com/resources/arxiv-2606-02031/) — 2026-06-01
+  Introduces OpenWebRL, a framework for training visual web agents with online multi-turn reinforcement learning on live websites, including browser infrastructure and success judging.
 - [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/) — 2026-06
   GUI-SAGE generates reasoning conditioned on known actions and weights policy updates using confidence and reward signals. Its experiments use AndroidControl and GUIOdyssey data and separately evaluate interactive AndroidWorld tasks.
+- [GUI-C$^2$: Coarse-to-Fine GUI Grounding via Difficulty-Aware Reinforcement Learning](https://awesomecua.com/resources/arxiv-2605-30884/) — 2026-05-29
+  Introduces GUI-D to score training samples by difficulty and GUI-C² to refine screen-element locations through area-gated cropping and reinforcement learning.
 - [PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents](https://awesomecua.com/resources/arxiv-2605-29486/) — 2026-05-28
   Introduces PhoneWorld, which converts observed app pages, transitions and state changes into executable Android environments through a build-inspect-repair process. Generated tasks and programmatic verifiers support benchmarking, trajectory collection and online training.
+- [STAMP: Training Explicit Memory for Mobile GUI Agents in Controllable and Scalable Virtual Environments](https://awesomecua.com/resources/arxiv-2605-29324/) — 2026-05-28
+  STAMP trains explicit memory for mobile GUI agents in virtual environments by injecting facts into generated tasks and using supervised data and online RL.
+- [PRO-CUA: Process-Reward Optimization for Computer Use Agents](https://awesomecua.com/resources/arxiv-2605-29119/) — 2026-05-27
+  PRO-CUA trains computer-use agents with step-level RL, scoring candidate actions from live rollouts with a process reward model and evaluating on live web benchmarks.
 - [Darwin Mobile Agent: A Roadmap for Self-Evolution](https://awesomecua.com/resources/arxiv-2606-20622/) — 2026-05-26
   Describes asynchronous reinforcement-learning infrastructure using parallel cloud-hosted Android instances, explicit task lifecycles, and persistent-state management for mobile GUI interaction.
 - [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://awesomecua.com/resources/arxiv-2605-26114/) — 2026-05-25
   Introduces MobileGym, a browser-hosted simulation of mobile app interactions whose configurable JSON state supports deterministic judging and parallel rollouts. MobileGym-Bench adds parameterized tasks, with experiments examining online training and transfer to real devices.
 - [CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2605-25624/) — 2026-05-25
   Presents CUA-Gym, which co-generates instructions, initial and target states, and executable reward checks through generator-discriminator iterations. Mock web applications expand training environments, with learned agents evaluated on OSWorld-Verified and WebArena.
+- [Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning](https://awesomecua.com/resources/arxiv-2605-22642/) — 2026-05-21
+  Spreadsheet-RL trains spreadsheet agents with RL in a Microsoft Excel environment exposed through a Python sandbox and supplies the Domain-Spreadsheet benchmark.
+- [What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents](https://awesomecua.com/resources/arxiv-2605-19447/) — 2026-05-19
+  SERL trains multi-turn agents by using task rewards and selective step feedback to weight updates, with WebShop among its evaluation settings.
+- [PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control](https://awesomecua.com/resources/arxiv-2605-15963/) — 2026-05-15
+  Introduces PAGE Bench for point-precise geometric GUI construction and PAGER, an agent that plans around primitive dependencies and executes pixel-level actions.
+- [Orchard: An Open-Source Agentic Modeling Framework](https://awesomecua.com/resources/arxiv-2605-15040/) — 2026-05-14
+  Orchard provides an environment service and training recipes for several agent domains, including Orchard-GUI, a vision-language computer-use agent.
 - [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://awesomecua.com/resources/arxiv-2605-12481/) — 2026-05-12
   ToolCUA synthesizes interleaved GUI/tool trajectories and trains agents to choose between graphical actions and higher-level tools. Staged supervised and reinforcement learning culminate in online hybrid-environment training with a reward for efficient execution paths.
 - [Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces](https://awesomecua.com/resources/arxiv-2605-09497/) — 2026-05-10
   DUDE combines asymmetric hybrid-reward learning with summaries of deceptive-interface failures to guide safer web actions. Its RUC benchmark evaluates deception susceptibility alongside ordinary task performance across interface scenarios.
+- [LiteGUI: Lightweight GUI Agents via Multi-Solution Guided Distillation and Dual-Level Reinforcement Learning](https://awesomecua.com/resources/arxiv-2605-07505/) — 2026-05-08
+  LiteGUI trains lightweight GUI agents on logged states with guided on-policy distillation and dual-level RL, supported by its multi-solution Lite-Dataset.
 - [Weblica: Scalable and Reproducible Training Environments for Visual Web Agents](https://awesomecua.com/resources/arxiv-2605-06761/) — 2026-05-07
   Introduces Weblica, which combines HTTP-level capture and replay with website-grounded environment synthesis. The resulting interactive web environments support reinforcement learning and tests of navigation transfer and inference-time scaling.
+- [Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning](https://awesomecua.com/resources/arxiv-2605-02168/) — 2026-05-04
+  A planner-centric RL framework divides agent automation among a planner, actor, and memory manager, with evaluations that include web navigation and OS control.
 - [Faithful Mobile GUI Agents with Guided Advantage Estimator](https://awesomecua.com/resources/arxiv-2605-01208/) — 2026-05-02
   Introduces Faithful-Agent, which first teaches abstention under perturbed evidence and then refines GUI policies with an anchor-based, variance-adaptive advantage estimator. A thought-action consistency reward encourages decisions grounded in displayed evidence and instructions.
+- [SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning](https://awesomecua.com/resources/arxiv-2604-22558/) — 2026-04-24
+  SOLAR-RL trains GUI navigation agents by reconstructing rollout candidates from static data and assigning step rewards that reflect trajectory quality.
 - [Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding](https://awesomecua.com/resources/arxiv-2604-21268/) — 2026-04-23
   Trains a GUI grounding proposer together with a visual critic that evaluates candidate locations rendered on screenshots. An adaptive reinforcement-learning schedule balances their development, using proposal diversity and critic feedback during training.
+- [RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management](https://awesomecua.com/resources/arxiv-2604-13531/) — 2026-04-15
+  Introduces RiskWebWorld, an interactive benchmark of e-commerce risk-management tasks for GUI agents on websites, with Gymnasium infrastructure for evaluation and agentic RL.
+- [Towards Scalable Lightweight GUI Agents via Multi-role Orchestration](https://awesomecua.com/resources/arxiv-2604-13488/) — 2026-04-15
+  Introduces LAMO, a training framework for a lightweight GUI agent that can execute tasks alone or serve as an action executor alongside planners in multi-agent workflows.
+- [From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation](https://awesomecua.com/resources/arxiv-2604-12666/) — 2026-04-14
+  Introduces the Triton dataset and a staged training curriculum for text-based web navigation agents, using hard-negative HTML examples to train element discrimination and longer task execution.
 - [WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents](https://awesomecua.com/resources/arxiv-2604-12284/) — 2026-04-14
   WebAgentGuard separates prompt-injection detection from the operating web agent through a parallel multimodal guard. The guard is trained on synthetic visual/textual examples using reasoning-focused supervised fine-tuning followed by reinforcement learning.
 - [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://awesomecua.com/resources/arxiv-2604-11784/) — 2026-04-13
@@ -162,8 +238,12 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Combines instruction rewriting with conditional second-stage zooming for small GUI targets. A grounding dataset and GRPO training support joint prediction of click coordinates and element bounding boxes.
 - [Safe and Scalable Web Agent Learning via Recreated Websites](https://awesomecua.com/resources/arxiv-2603-10505/) — 2026-03-11
   Introduces VeriEnv, which recreates websites as executable training environments and exposes internal state through a Python SDK for task generation and deterministic reward checks. Experiments examine web-agent learning across new and expanded site environments.
+- [Agentic Critical Training](https://awesomecua.com/resources/arxiv-2603-08706/) — 2026-03-09
+  Introduces Agentic Critical Training (ACT), a reinforcement-learning warm-up that teaches general agents to choose expert actions over alternatives, with WebShop among its evaluations.
 - [SecAgent: Efficient Mobile GUI Agent with Semantic Context](https://awesomecua.com/resources/arxiv-2603-08533/) — 2026-03-09
   Presents a Chinese mobile GUI dataset and navigation benchmark together with SecAgent, which compresses previous screenshots and actions into semantic summaries. The agent is trained with supervised and reinforcement fine-tuning to use this compact interaction context.
+- [SlowBA: An efficiency backdoor attack towards VLM-based GUI agents](https://awesomecua.com/resources/arxiv-2603-08316/) — 2026-03-09
+  Introduces SlowBA, a backdoor attack on vision-language GUI agents that uses pop-up triggers to induce longer reasoning chains and increase response latency.
 - [Generalization in Online Reinforcement Learning for Mobile Agents](https://awesomecua.com/resources/arxiv-2603-07432/) — 2026-03-08
   Introduces AndroidWorld-Generalization with separate tests for unseen task instances, templates, and applications. A GRPO training system combines containerized environments with asynchronous trajectory collection to study these generalization regimes.
 - [WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents](https://awesomecua.com/resources/arxiv-2603-05044/) — 2026-03-05
@@ -172,6 +252,12 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   Studies webpage injections that affect both screenshots and accessibility trees, then trains web agents through teacher imitation, supervised adversarial examples, and adversarial reinforcement learning. The evaluation tests defenses on MiniWoB++ and held-out tasks.
 - [CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning](https://awesomecua.com/resources/arxiv-2603-02951/) — 2026-03-03
   Combines supervised and reinforcement fine-tuning for continual GUI learning, using policy entropy to adjust their proportions and gradient projection to limit conflicting updates. AndroidControl-CL groups applications into sequential tasks to evaluate adaptation and retention.
+- [K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control](https://awesomecua.com/resources/arxiv-2603-00676/) — 2026-02-28
+  Introduces K2-Agent, a hierarchical mobile-control framework that refines task knowledge through a reasoning loop and trains an executor with curriculum-guided reinforcement learning.
+- [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://awesomecua.com/resources/arxiv-2602-22190/) — 2026-02-25
+  GUI-Libra trains GUI agents with action-aware supervision, a curated reasoning dataset and reinforcement learning adapted to partially verifiable actions across web and mobile tasks.
+- [HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents](https://awesomecua.com/resources/arxiv-2602-16165/) — 2026-02-18
+  HiPER trains interactive LLM agents with separate subgoal planning and multi-step execution, assigning reinforcement-learning credit at both levels.
 - [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://awesomecua.com/resources/arxiv-2602-16855/) — 2026-02-15
   Presents GUI-Owl-1.5 variants and a hybrid data pipeline for multimodal GUI interaction, tool use, memory, and multi-platform tasks.
 - [GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training](https://awesomecua.com/resources/arxiv-2602-14093/) — 2026-02-15
@@ -210,6 +296,8 @@ Full source records: https://awesomecua.com/downloads/topics/reinforcement-learn
   CCPO couples GUI policy optimization with coordinate-guided compression of past visual observations. It aggregates targets across rollouts to focus retained context and uses distance-based advantages to train grounding and compression together.
 - [GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents](https://awesomecua.com/resources/arxiv-2601-09770/) — 2026-01-14
   GUI-Eyes trains GUI grounders to decide when and how to use visual tools such as crops and zooms. Its coarse-to-fine policy uses dense spatial rewards based on location proximity and region overlap, with evaluation on ScreenSpot-Pro.
+- [Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk](https://awesomecua.com/resources/arxiv-2610-23857/) — 2026-01-12
+  Proposes constrained reinforcement learning for web agents that weighs request costs, latency and failure risk across multi-step website tasks.
 - [From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://awesomecua.com/resources/arxiv-2601-05787/) — 2026-01-09
   BEPA adapts a small set of expert GUI traces into policy-aligned guidance through trajectories reachable by the learner and a dynamically updated task cache. It evaluates this two-level approach to reinforcement learning on desktop and web benchmarks.
 - [InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://awesomecua.com/resources/arxiv-2601-04126/) — 2026-01-07

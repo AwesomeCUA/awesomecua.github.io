@@ -3323,6 +3323,338 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.18847v2",
+    "archive": "arXiv",
+    "archive_location": "2604.18847",
+    "author": [
+      {
+        "literal": "Christy Li"
+      },
+      {
+        "literal": "Sky CH-Wang"
+      },
+      {
+        "literal": "Andi Peng"
+      },
+      {
+        "literal": "Andreea Bobu"
+      }
+    ],
+    "citation-key": "arxiv_2604_18847",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9064a2efc0e8952870ac5c498ee597622238c9daa77a3a9b89549eb768c5f240",
+        "submitted_at": "2026-04-20T21:12:40Z",
+        "updated_at": "2026-05-28T03:46:47Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.18847v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.18847",
+      "catalog_id": "arxiv:2604.18847",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-20",
+      "identifiers": {
+        "arxiv": "2604.18847"
+      },
+      "record_updated_at": "2026-05-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.18847",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-20; Recorded arXiv version: v2; Recorded version updated: 2026-05-28T03:46:47Z.",
+    "title": "Human-Guided Harm Recovery for Computer Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.22558v1",
+    "archive": "arXiv",
+    "archive_location": "2604.22558",
+    "author": [
+      {
+        "literal": "Jichao Wang"
+      },
+      {
+        "literal": "Liuyang Bian"
+      },
+      {
+        "literal": "Yufeng Zhou"
+      },
+      {
+        "literal": "Han Xiao"
+      },
+      {
+        "literal": "Yue Pan"
+      },
+      {
+        "literal": "Guozhi Wang"
+      },
+      {
+        "literal": "Hao Wang"
+      },
+      {
+        "literal": "Zhaoxiong Wang"
+      },
+      {
+        "literal": "Yafei Wen"
+      },
+      {
+        "literal": "Xiaoxin Chen"
+      },
+      {
+        "literal": "Shuai Ren"
+      },
+      {
+        "literal": "Lingfang Zeng"
+      }
+    ],
+    "citation-key": "arxiv_2604_22558",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ebc20ecfdaea81b641bc128a1fe2575f1cbef7f329681d78aa011e5af8c448d1",
+        "submitted_at": "2026-04-24T13:53:39Z",
+        "updated_at": "2026-04-24T13:53:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.22558v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.22558",
+      "catalog_id": "arxiv:2604.22558",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-24",
+      "identifiers": {
+        "arxiv": "2604.22558"
+      },
+      "record_updated_at": "2026-04-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.22558",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-24; Recorded arXiv version: v1; Recorded version updated: 2026-04-24T13:53:39Z.",
+    "title": "SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.14311v2",
+    "archive": "arXiv",
+    "archive_location": "2605.14311",
+    "author": [
+      {
+        "literal": "Yuchen Sun"
+      },
+      {
+        "literal": "Pei Fu"
+      },
+      {
+        "literal": "Shaojie Zhang"
+      },
+      {
+        "literal": "Anan Du"
+      },
+      {
+        "literal": "Xiuwen Xi"
+      },
+      {
+        "literal": "Ruoceng Zhang"
+      },
+      {
+        "literal": "Zhenbo Luo"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Chongyang Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2605_14311",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b4409c4707b5998f2aa44436f1a93cd362f69aa5860e2f21bc679b0aedba7785",
+        "submitted_at": "2026-05-14T03:23:44Z",
+        "updated_at": "2026-05-15T06:09:21Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.14311v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.14311",
+      "catalog_id": "arxiv:2605.14311",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-14",
+      "identifiers": {
+        "arxiv": "2605.14311"
+      },
+      "record_updated_at": "2026-05-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.14311",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-14; Recorded arXiv version: v2; Recorded version updated: 2026-05-15T06:09:21Z.",
+    "title": "Beyond Binary: Reframing GUI Critique as Continuous Semantic Alignment",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.19447v1",
+    "archive": "arXiv",
+    "archive_location": "2605.19447",
+    "author": [
+      {
+        "literal": "Xiaozhe Li"
+      },
+      {
+        "literal": "Tianyi Lyu"
+      },
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Yichuan Ma"
+      },
+      {
+        "literal": "Peiji Li"
+      },
+      {
+        "literal": "Linyang Li"
+      },
+      {
+        "literal": "Qipeng Guo"
+      },
+      {
+        "literal": "Dahua Lin"
+      },
+      {
+        "literal": "Kai Chen"
+      }
+    ],
+    "citation-key": "arxiv_2605_19447",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "996f61455be8fc9839511d50e2930fe798c2355508d6d8ad0c73486d1a316967",
+        "submitted_at": "2026-05-19T07:00:55Z",
+        "updated_at": "2026-05-19T07:00:55Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.19447v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.19447",
+      "catalog_id": "arxiv:2605.19447",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-05-19",
+      "identifiers": {
+        "arxiv": "2605.19447"
+      },
+      "record_updated_at": "2026-05-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.19447",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T07:00:55Z.",
+    "title": "What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.29119v1",
+    "archive": "arXiv",
+    "archive_location": "2605.29119",
+    "author": [
+      {
+        "literal": "Yifei He"
+      },
+      {
+        "literal": "Rui Yang"
+      },
+      {
+        "literal": "Hao Bai"
+      },
+      {
+        "literal": "Tong Zhang"
+      },
+      {
+        "literal": "Han Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2605_29119",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "af13a82ab8469a5be0b5500f067cb32cb7ecb54ec15f7178c736d6470374def8",
+        "submitted_at": "2026-05-27T21:28:26Z",
+        "updated_at": "2026-05-27T21:28:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.29119v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.29119",
+      "catalog_id": "arxiv:2605.29119",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-27",
+      "identifiers": {
+        "arxiv": "2605.29119"
+      },
+      "record_updated_at": "2026-05-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.29119",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T21:28:26Z.",
+    "title": "PRO-CUA: Process-Reward Optimization for Computer Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.07027v2",
     "archive": "arXiv",
     "archive_location": "2606.07027",
@@ -3397,6 +3729,61 @@
     "title": "StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.07367v1",
+    "archive": "arXiv",
+    "archive_location": "2606.07367",
+    "author": [
+      {
+        "literal": "Yudi Zhang"
+      },
+      {
+        "literal": "Meng Fang"
+      },
+      {
+        "literal": "Zhenfang Chen"
+      },
+      {
+        "literal": "Mykola Pechenizkiy"
+      }
+    ],
+    "citation-key": "arxiv_2606_07367",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b94b2c62b2206d95323fb1a21d85e41ffcafdd4a67a5d7aa704853efd157ddc2",
+        "submitted_at": "2026-06-05T15:09:52Z",
+        "updated_at": "2026-06-05T15:09:52Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.07367v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.07367",
+      "catalog_id": "arxiv:2606.07367",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-06-05",
+      "identifiers": {
+        "arxiv": "2606.07367"
+      },
+      "record_updated_at": "2026-06-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.07367",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-05; Recorded arXiv version: v1; Recorded version updated: 2026-06-05T15:09:52Z.",
+    "title": "Self-evolving LLM agents with in-distribution Optimization",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2606.11078v1",
@@ -3865,6 +4252,58 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2608.06474v1",
+    "archive": "arXiv",
+    "archive_location": "2608.06474",
+    "author": [
+      {
+        "literal": "Boshui Chen"
+      },
+      {
+        "literal": "Huiping Liu"
+      },
+      {
+        "literal": "Shaolei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2608_06474",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "028ca6e3bcf407885cc590222b551d39935dd15d0f778137372f4bff09794c4c",
+        "submitted_at": "2026-08-06T18:06:12Z",
+        "updated_at": "2026-08-06T18:06:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.06474v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.06474",
+      "catalog_id": "arxiv:2608.06474",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-08-06",
+      "identifiers": {
+        "arxiv": "2608.06474"
+      },
+      "record_updated_at": "2026-08-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.06474",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T18:06:12Z.",
+    "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2608.11434v1",
     "archive": "arXiv",
     "archive_location": "2608.11434",
@@ -4142,6 +4581,91 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.02987v2",
+    "archive": "arXiv",
+    "archive_location": "2609.02987",
+    "author": [
+      {
+        "literal": "Shrinivas Ramasubramanian"
+      },
+      {
+        "literal": "Daman Arora"
+      },
+      {
+        "literal": "Fahim Tajwar"
+      },
+      {
+        "literal": "Guanning Zeng"
+      },
+      {
+        "literal": "Qingyang Wu"
+      },
+      {
+        "literal": "Zhongzhu Zhou"
+      },
+      {
+        "literal": "Chenfeng Xu"
+      },
+      {
+        "literal": "Haiwen Feng"
+      },
+      {
+        "literal": "Yuda Song"
+      },
+      {
+        "literal": "Aarti Singh"
+      },
+      {
+        "literal": "Ruslan Salakhutdinov"
+      },
+      {
+        "literal": "J. Andrew Bagnell"
+      },
+      {
+        "literal": "Jeff Schneider"
+      },
+      {
+        "literal": "Andrea Zanette"
+      }
+    ],
+    "citation-key": "arxiv_2609_02987",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3e923659836a36c4cad92193e8875ade706608398da18ad100cb6bbca93cb411",
+        "submitted_at": "2026-09-02T14:54:45Z",
+        "updated_at": "2026-09-09T16:07:49Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2609.02987v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.02987",
+      "catalog_id": "arxiv:2609.02987",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-09-02",
+      "identifiers": {
+        "arxiv": "2609.02987"
+      },
+      "record_updated_at": "2026-09-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.02987",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-02; Recorded arXiv version: v2; Recorded version updated: 2026-09-09T16:07:49Z.",
+    "title": "Tail-Likelihood Reinforcement Learning",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.32351v1",
     "archive": "arXiv",
     "archive_location": "2609.32351",
@@ -4294,6 +4818,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.22448v1",
+    "archive": "arXiv",
+    "archive_location": "2610.22448",
+    "author": [
+      {
+        "literal": "Ruida Wang"
+      },
+      {
+        "literal": "Gerald Friedland"
+      },
+      {
+        "literal": "Tong Zhang"
+      },
+      {
+        "literal": "Chris Kong"
+      }
+    ],
+    "citation-key": "arxiv_2610_22448",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "675d07a096cac3a71fde043d0c613ea212a8e8e6f5f4172d92d2db08579f9ac3",
+        "submitted_at": "2026-10-15T15:26:54Z",
+        "updated_at": "2026-10-15T15:26:54Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.22448v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.22448",
+      "catalog_id": "arxiv:2610.22448",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-15",
+      "identifiers": {
+        "arxiv": "2610.22448"
+      },
+      "record_updated_at": "2026-10-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.22448",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T15:26:54Z.",
+    "title": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.26469v1",
     "archive": "arXiv",
     "archive_location": "2610.26469",
@@ -4354,6 +4933,119 @@
     },
     "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T14:17:33Z.",
     "title": "VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.34384v1",
+    "archive": "arXiv",
+    "archive_location": "2610.34384",
+    "author": [
+      {
+        "literal": "Gyubeum Lim"
+      },
+      {
+        "literal": "Yemo Koo"
+      },
+      {
+        "literal": "Ghunwoo Jang"
+      },
+      {
+        "literal": "Zsolt Kira"
+      }
+    ],
+    "citation-key": "arxiv_2610_34384",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "51fdcbe20b8dcee283b320f5a6f69c00ace5d9460a5ba1f00fde38128310b41a",
+        "submitted_at": "2026-10-25T15:39:24Z",
+        "updated_at": "2026-10-25T15:39:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.34384v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.34384",
+      "catalog_id": "arxiv:2610.34384",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-25",
+      "identifiers": {
+        "arxiv": "2610.34384"
+      },
+      "record_updated_at": "2026-10-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.34384",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T15:39:24Z.",
+    "title": "AndroidFlux: Evaluating and Reward Modeling Failure Recovery Capabilities in Mobile Use Multimodal Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.39264v1",
+    "archive": "arXiv",
+    "archive_location": "2610.39264",
+    "author": [
+      {
+        "literal": "Peitong Duan"
+      },
+      {
+        "literal": "Khashayar Gatmiry"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      },
+      {
+        "literal": "Samy Bengio"
+      },
+      {
+        "literal": "Emmanuel Abbe"
+      }
+    ],
+    "citation-key": "arxiv_2610_39264",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3ea9ddf6602304009ae435c004cb3a0987b1b69b71dfcb209b6d29967db16e1d",
+        "submitted_at": "2026-10-29T03:17:33Z",
+        "updated_at": "2026-10-29T03:17:33Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.39264v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.39264",
+      "catalog_id": "arxiv:2610.39264",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-29",
+      "identifiers": {
+        "arxiv": "2610.39264"
+      },
+      "record_updated_at": "2026-10-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.39264",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T03:17:33Z.",
+    "title": "Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps",
     "type": "article",
     "version": "1"
   }

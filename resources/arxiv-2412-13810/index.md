@@ -14,7 +14,7 @@ CAD-Assistant plans CAD tasks and executes actions through FreeCAD's Python API,
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). It operates FreeCAD through a Python API; the abstract does not describe GUI control. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-13810/record.json
 

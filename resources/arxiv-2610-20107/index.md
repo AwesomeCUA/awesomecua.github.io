@@ -14,7 +14,7 @@ Adds decision heads to a frozen vision-language generator for selecting web acti
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-20107/record.json
 

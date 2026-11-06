@@ -14,7 +14,7 @@ Introduces WASP, an end-to-end benchmark for prompt-injection security in web ag
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-18575/record.json
 

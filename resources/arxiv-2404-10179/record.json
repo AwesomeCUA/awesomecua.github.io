@@ -161,7 +161,7 @@
     }
   ],
   "name": "Scaling Instructable Agents Across Many Simulated Worlds",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The setting is simulated 3D environments and video games. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The setting is simulated 3D environments and video games.",
   "published_at": "2024-03-13",
   "relations": [],
   "review_status": "curated",

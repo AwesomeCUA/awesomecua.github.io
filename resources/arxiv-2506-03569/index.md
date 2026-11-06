@@ -14,7 +14,7 @@ Reports MiMo-VL-7B-SFT and MiMo-VL-7B-RL, general vision-language models trained
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI grounding is one application within a broader multimodal model report. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI grounding is one application within a broader multimodal model report.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-03569/record.json
 

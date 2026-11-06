@@ -21,7 +21,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -38,6 +38,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:02:47Z",
+      "role": "primary",
+      "sha256": "11ea6f148f4267ab78e85b8f03a9b3855298f73a199b8d904ba553a647d43ee2",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2604.12666%2C2604.13018%2C2604.13346%2C2604.13488%2C2604.13531%2C2604.13954%2C2604.13969%2C2604.14872%2C2604.15376%2C2604.15579%2C2604.15715%2C2604.16385%2C2604.17562%2C2604.18779%2C2604.18847%2C2604.18934%2C2604.19299%2C2604.19572%2C2604.19667%2C2604.20279%2C2604.20987%2C2604.22436%2C2604.22558%2C2604.22748%2C2604.23772%2C2604.23781%2C2604.24479%2C2604.24696%2C2604.25235%2C2604.26653%2C2604.27955%2C2604.27974%2C2604.28093%2C2604.28138%2C2604.28139%2C2604.28181%2C2605.00425%2C2605.00497%2C2605.00642%2C2605.01462%2C2605.02168%2C2605.02240%2C2605.02661%2C2605.02729%2C2605.03042%2C2605.03231%2C2605.03242%2C2605.04811%2C2605.05191%2C2605.05811&max_results=50"
     }
   ],
   "id": "arxiv:2604.16385",
@@ -45,7 +61,7 @@
     "arxiv": "2604.16385"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-16T06:36:39Z",
+  "last_verified_at": "2026-11-05T23:02:47Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -54,18 +70,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2604.16385"
     }
   ],
   "name": "StressWeb: A Diagnostic Benchmark for Web Agent Robustness under Realistic Interaction Variability",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The tests use constructed, controllable web environments with clean workflows as baselines.",
   "published_at": "2026-03-27",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces a web-agent stress-testing benchmark with controlled changes to layouts, interaction semantics, and execution for diagnosing behavior under varied conditions.",
+  "topics": [
+    "evaluation",
+    "robustness",
+    "web-navigation"
+  ],
   "updated_at": "2026-03-27",
   "url": "https://arxiv.org/abs/2604.16385"
 }

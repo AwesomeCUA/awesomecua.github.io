@@ -14,7 +14,7 @@ Introduces reproducible web environments with task-completion checks for evaluat
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2307-13854/record.json
 

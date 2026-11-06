@@ -14,7 +14,7 @@ Compares human think-aloud web-task behavior with web-agent planning, action, an
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2405-04497/record.json
 

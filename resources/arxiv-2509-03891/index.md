@@ -14,7 +14,7 @@ MobileRAG combines retrieval and memory components to support mobile tasks that 
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-03891/record.json
 

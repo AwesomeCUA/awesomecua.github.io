@@ -69,7 +69,7 @@
     }
   ],
   "name": "Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-02-19",
   "relations": [],
   "review_status": "curated",

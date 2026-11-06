@@ -14,7 +14,7 @@ Introduces Spotlight, a vision-language model conditioned on a UI screenshot and
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2209-14927/record.json
 

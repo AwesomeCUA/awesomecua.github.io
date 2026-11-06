@@ -90,7 +90,7 @@
     }
   ],
   "name": "Mano Technical Report",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract reports evaluation on GUI benchmarks including Mind2Web and OSWorld. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract reports evaluation on GUI benchmarks including Mind2Web and OSWorld.",
   "published_at": "2025-09-22",
   "relations": [],
   "review_status": "curated",

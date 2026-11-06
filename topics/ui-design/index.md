@@ -6,24 +6,58 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
 
 ## Papers & surveys
 
+- [Interface Quilt: Modifying Applications with Computer Use Agents and Generative UI](https://awesomecua.com/resources/arxiv-2611-01891/) — 2026-11-01
+  Introduces Interface Quilt, which uses computer-use agents and generated UI overlays to modify how existing applications look and behave without source access.
+- [UI-UG 2: Advancing Mobile UI Understanding and Generation with Fine-Grained Supervision and Reinforcement Learning](https://awesomecua.com/resources/arxiv-2611-00926/) — 2026-10-31
+  Introduces UI-UG 2, a mobile UI model trained for component understanding, GUI grounding, and structured interface generation with render-aware RL.
+- [Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models](https://awesomecua.com/resources/arxiv-2610-35138/) — 2026-10-26
+  Introduces Co-Design Bench to evaluate coding agents that revise applications from multimodal user requests, including UI changes assessed with browser evidence.
+- [InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning](https://awesomecua.com/resources/arxiv-2610-28610/) — 2026-10-20
+  InterWebCoder trains models to generate interactive webpage code using recorded interactions, executable tests and repair feedback, an adjacent web interface task.
+- [A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution](https://awesomecua.com/resources/arxiv-2610-15765/) — 2026-10-11
+  Introduces DeskIF-Bench to study how desktop application interfaces affect agents, and ANIS to synthesize interfaces from installed application capabilities.
 - [WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness](https://awesomecua.com/resources/arxiv-2610-02617/) — 2026-10-02
   Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
 - [OpenVAM: Open-World Visual Attention Modeling with VLMs](https://awesomecua.com/resources/arxiv-2609-31364/) — 2026-09-25
   Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales rather than agent actions.
 - [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2609-19843/) — 2026-09-17
   Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
+- [Affora: A Design System for Agent-Friendly Interfaces](https://awesomecua.com/resources/arxiv-2609-19125/) — 2026-09-16
+  Presents Affora, a design system with reusable components and executable checks for interfaces used by computer-use agents, informed by studies of components and visual variation.
+- [WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://awesomecua.com/resources/arxiv-2608-06474/) — 2026-08-06
+  Introduces WebGrader, a programmatic grader for website generation that plans interaction flows, runs them in a live browser, and uses observed outcomes as RL rewards.
 - [From Blind Edits to Verified Repair: Building Trustworthy User-Side LLM Agents for Web Accessibility](https://awesomecua.com/resources/arxiv-2608-24913/) — 2026-07-26
   Builds a local browser-extension agent that generates and verifies additive CSS repairs for WCAG web accessibility violations.
+- [Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability](https://awesomecua.com/resources/arxiv-2607-12056/) — 2026-07-13
+  Proposes an agent-ready website design framework for e-commerce browser agents and compares it with a human-oriented site on shopping tasks, outcomes, steps, and token use.
+- [AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction](https://awesomecua.com/resources/arxiv-2606-23449/) — 2026-06-22
+  Introduces AOHP, an Android OS-level harness that treats agents as system actors and provides adaptive interfaces, agent interfaces, and information-flow controls.
+- [Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach](https://awesomecua.com/resources/arxiv-2606-13192/) — 2026-06-11
+  Introduces UXBench for diagnosing usability issues from UI screenshots and UI-UX, a reinforcement-trained model for reasoning about those interface problems.
+- [PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://awesomecua.com/resources/arxiv-2606-05697/) — 2026-06-04
+  Introduces PerceptUI, a persona-conditioned model for predicting how particular users answer questions about interfaces, supporting synthetic UI/UX evaluation.
 - [VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents](https://awesomecua.com/resources/arxiv-2605-26144/) — 2026-05-22
   VISTA evaluates coding agents that turn design handoffs into working web and Android applications. Its evaluator locates annotated interactive components and probes their behavior, keeping visual localization distinct from functional correctness.
+- [Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents](https://awesomecua.com/resources/arxiv-2605-02729/) — 2026-05-04
+  A study adapts interface usability heuristics for computer-use agents and evaluates augmented designs in UI-Verse, a suite of controlled interface environments.
 - [Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations](https://awesomecua.com/resources/arxiv-2604-26148/) — 2026-04-28
   AniMINT evaluates how VLMs perceive, explain and interpret UI animations using densely annotated videos. The study distinguishes basic motion recognition from higher-level animation meaning and probes motion, context and perceptual cues.
 - [Training Computer Use Agents to Assess the Usability of Graphical User Interfaces](https://awesomecua.com/resources/arxiv-2604-26020/) — 2026-04-28
   uxCUA learns to assess interface usability by choosing interaction flows, executing them and predicting a numerical usability score. Training uses interactive UIs with usability labels and human preferences, with evaluations on synthetic and real interfaces.
+- [AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2604-20279/) — 2026-04-22
+  Introduces AgentLens, a mobile GUI agent that shows full, partial, or generated interface views during background task execution to support user interaction.
 - [PlayCoder: Making LLM-Generated GUI Code Playable](https://awesomecua.com/resources/arxiv-2604-19742/) — 2026-04-21
   PlayEval measures whether generated GUI applications remain logically playable, using PlayTester to execute task-oriented GUI playthroughs. PlayCoder closes the loop between repository-aware generation, interactive testing and targeted code repair.
 - [Beyond Chat and Clicks: GUI Agents for In-Situ Assistance via Live Interface Transformation](https://awesomecua.com/resources/arxiv-2604-14668/) — 2026-04-16
   DOMSteer translates help requests and live page context into reversible DOM changes such as control highlighting, contextual tooltips and layout reorganization. The work evaluates in-place GUI assistance with interface tests, use cases and a comparative user study.
+- [MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://awesomecua.com/resources/arxiv-2604-06134/) — 2026-04-07
+  Introduces MAESTRO, a conversational GUI system that remembers user preferences, adapts interface options, and guides backtracking in multistep booking decisions.
+- ["What Did It Actually Do?": Understanding Risk Awareness and Traceability for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2603-28551/) — 2026-03-30
+  Presents an interview study of computer-use agent risks and AgentTrace, a prototype interface showing agent actions, resource access, permission history, and lasting changes.
+- [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://awesomecua.com/resources/arxiv-2603-26648/) — 2026-03-27
+  Introduces Vision2Web, a benchmark for website development from images, spanning UI-to-code, multi-page frontend and full-stack tasks, with a GUI agent verifier and VLM-based judge.
+- [IntentWeave: A Progressive Entry Ladder for Multi-Surface Browser Agents in Cloud Portals](https://awesomecua.com/resources/arxiv-2603-22917/) — 2026-03-24
+  Introduces IntentWeave, a design space and browser-extension prototype for placing web-agent assistance across browser surfaces, evaluated through a study of three entry strategies.
 - [Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration](https://awesomecua.com/resources/arxiv-2603-10664/) — 2026-03-11
   This position paper derives interface design principles from terminal-based human-agent collaboration: representational compatibility, transparent actions and low participation barriers. It argues that graphical and other agent-facing modalities should provide these properties explicitly.
 - [Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding](https://awesomecua.com/resources/arxiv-2604-09581/) — 2026-02-25

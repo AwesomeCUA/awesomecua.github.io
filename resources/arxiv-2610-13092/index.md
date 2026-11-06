@@ -14,7 +14,7 @@ Evaluates Jev as a bounded action selector inside three AndroidWorld agents and 
 
 ## Limitations
 
-The mobile evaluation uses text UI observations and one fixed instance for each of 116 AndroidWorld task types; three repeats share seed 0. Five agent families use different budgets, with candidate-interface and tool-call granularity changes in some variants. Reported costs use fixed experimental prices, and outcome-selected trace labels are not population failure rates. Faster selection does not imply faster or more reliable task completion. Selected sections were source-read; no independent reproduction.
+The mobile evaluation uses text UI observations and one fixed instance for each of 116 AndroidWorld task types; three repeats share seed 0. Five agent families use different budgets, with candidate-interface and tool-call granularity changes in some variants. Reported costs use fixed experimental prices, and outcome-selected trace labels are not population failure rates. Faster selection does not imply faster or more reliable task completion.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-13092/record.json
 

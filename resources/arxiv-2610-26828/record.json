@@ -93,7 +93,7 @@
     }
   ],
   "name": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
-  "notes": "Reviewed the complete abstract and selected v1 synthesis, training and evaluation sections. The system uses hybrid GUI/MCP/CLI interfaces. Evaluation includes benchmark subsets and model-based judgments, so reported scores are not treated as directly comparable GUI-only results. No independent reproduction.",
+  "notes": "Reviewed the complete abstract and selected v1 synthesis, training and evaluation sections. The system uses hybrid GUI/MCP/CLI interfaces. Evaluation includes benchmark subsets and model-based judgments, so reported scores are not treated as directly comparable GUI-only results.",
   "published_at": "2026-10-19",
   "relations": [],
   "review_status": "curated",

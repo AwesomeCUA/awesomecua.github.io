@@ -14,7 +14,7 @@ The agent data protocol (ADP) provides a shared format for agent training data a
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Browsing is one of several task domains covered by the protocol and its evaluations. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Browsing is one of several task domains covered by the protocol and its evaluations.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-24702/record.json
 

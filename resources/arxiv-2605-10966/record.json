@@ -73,7 +73,7 @@
     }
   ],
   "name": "MMTB: Evaluating Terminal Agents on Multimedia-File Tasks",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent computer-automation benchmark using terminal workflows, explicitly separated from graphical-interface control.",
+  "notes": "Reviewed against the complete retained official abstract. Adjacent computer-automation benchmark using terminal workflows, explicitly separated from graphical-interface control.",
   "published_at": "2026-05-08",
   "relations": [],
   "review_status": "curated",

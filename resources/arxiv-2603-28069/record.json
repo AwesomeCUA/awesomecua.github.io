@@ -77,7 +77,7 @@
     }
   ],
   "name": "MolmoPoint: Better Pointing for VLMs with Grounding Tokens",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent general VLM pointing method with an explicit GUI-grounding experiment; no autonomous GUI-task execution is established.",
+  "notes": "Reviewed against the complete retained official abstract. Adjacent general VLM pointing method with an explicit GUI-grounding experiment; no autonomous GUI-task execution is established.",
   "published_at": "2026-03-30",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Introduces Agent-RewardBench to evaluate step-level reward models for multimodal
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Web navigation is one scenario within a benchmark spanning seven agent scenarios. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Web navigation is one scenario within a benchmark spanning seven agent scenarios.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-21252/record.json
 

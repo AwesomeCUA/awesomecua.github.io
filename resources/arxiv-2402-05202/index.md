@@ -14,7 +14,7 @@ Introduces UEyes, an eye-tracking dataset of webpage, desktop, mobile, and poste
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study examines human viewing behavior rather than agents operating interfaces. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-05202/record.json
 

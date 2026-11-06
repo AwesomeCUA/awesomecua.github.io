@@ -94,7 +94,7 @@
     }
   ],
   "name": "Qwen2.5-VL Technical Report",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Computer and mobile-device operation is one application described within a broader vision-language model report. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Computer and mobile-device operation is one application described within a broader vision-language model report.",
   "published_at": "2025-02-19",
   "relations": [],
   "review_status": "curated",

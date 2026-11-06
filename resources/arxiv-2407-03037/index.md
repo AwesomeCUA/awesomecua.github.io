@@ -14,7 +14,7 @@ Trident combines exploration, monitoring, and detection agents to identify funct
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2407-03037/record.json
 

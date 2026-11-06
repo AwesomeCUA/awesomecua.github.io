@@ -6,20 +6,48 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 
 ## 论文与综述
 
+- [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](https://awesomecua.com/resources/arxiv-2611-05263/) — 2026-11-03
+  Introduces JHiMA-WebRL, which jointly trains a task decomposer and GUI actor with hierarchical RL for long-horizon web tasks in WebArena.
+- [From Local Skills to Long-Horizon Web Tasks: Progressive Skill Exploration for LLM Web Agents](https://awesomecua.com/resources/arxiv-2611-03116/) — 2026-11-02
+  Introduces SCOPE, a training method for long web-agent tasks that discovers local skills from rollouts, composes them into chains, and expands them using failure experience.
+- [PatchScout: Thematic Web Data Collection via Information Foraging](https://awesomecua.com/resources/arxiv-2611-00169/) — 2026-10-30
+  Introduces PatchScout, a multi-agent method for collecting thematic documents from the live web by deciding when to explore a new information region.
+- [From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents](https://awesomecua.com/resources/arxiv-2610-37482/) — 2026-10-27
+  Introduces Task Advancement Memory (TAM) for long GUI workflows, tracking task progress across applications and learning reusable operations from interactions with local results.
+- [Harness-Model Collaboration for Long-Horizon Continual Learning](https://awesomecua.com/resources/arxiv-2610-34724/) — 2026-10-26
+  Introduces HaMo, a continual-learning framework for web agents that retrieves strategy cards from past workflows and updates model parameters to reuse them.
+- [Subgoal-aware Memory Graph for GUI Agent](https://awesomecua.com/resources/arxiv-2610-31307/) — 2026-10-22
+  Proposes a subgoal-aware memory graph that turns past mobile GUI agent trajectories into reusable evidence for decisions across tasks.
+- [HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](https://awesomecua.com/resources/arxiv-2610-31162/) — 2026-10-22
+  HiSTEVE uses a hierarchical planner and a vision-only keyboard-and-mouse controller for Minecraft tasks that include GUI and non-GUI interactions.
+- [Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay](https://awesomecua.com/resources/arxiv-2610-27954/) — 2026-10-20
+  ReTrace evaluates how keyboard-and-mouse computer-use agents recover from injected errors by replaying actions and comparing downstream outcomes.
+- [CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents](https://awesomecua.com/resources/arxiv-2610-27645/) — 2026-10-20
+  CUA-Recovery benchmarks error detection and recovery across desktop applications, using agent failures to create test states and training trajectories.
+- [Deep Search in Real-World Web Environments](https://awesomecua.com/resources/arxiv-2610-30181/) — 2026-10-19
+  OpenDS-World benchmarks multi-step research on the live open Web, requiring agents to search, interact with browsers and combine evidence across sources.
 - [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://awesomecua.com/resources/arxiv-2610-26828/) — 2026-10-19
   WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning.
 - [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://awesomecua.com/resources/arxiv-2610-22408/) — 2026-10-14
   ECHOES learns recursive textual task memory through privileged screenshot-history distillation and GRPO, then predicts GUI actions from the current screenshot and memory.
+- [Co-Evolving Acting and Forecasting for Language Agents](https://awesomecua.com/resources/arxiv-2610-20597/) — 2026-10-14
+  Introduces CoPE, which trains language agents to forecast later actions from earlier histories during RL; WebShop is one of five evaluation benchmarks.
 - [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](https://awesomecua.com/resources/arxiv-2610-18784/) — 2026-10-13
   Introduces CarryOn, which maintains evidence-linked task objects and remaining-work context across history compression, with evaluations on desktop tasks and web research.
 - [WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution](https://awesomecua.com/resources/arxiv-2610-18067/) — 2026-10-13
   Synthesizes resettable workspaces with files, application observations and skills; repairs environment incompatibilities and trains long-task agents using verifier-linked turn credit.
 - [Adaptive-Group Process Rewards for GUI Agents](https://awesomecua.com/resources/arxiv-2610-17710/) — 2026-10-13
   Groups GUI trajectories by subgoal and combines action-level and group-level assessments into intermediate rewards for training agents with sparse task outcomes.
+- [EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications](https://awesomecua.com/resources/arxiv-2610-16402/) — 2026-10-12
+  Introduces EvoWeb, a benchmark for coding agents that extend web applications through dependent requests; a multimodal web agent checks each version in a live browser.
 - [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](https://awesomecua.com/resources/arxiv-2610-11050/) — 2026-10-08
   Introduces AgentHorizon, a benchmark for judging long computer-use trajectories using closely related instructions paired with recorded actions and screenshots. It tests whether judges can detect constraint violations and distinguish successful tasks from similar but incompatible requests.
+- [PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence](https://awesomecua.com/resources/arxiv-2610-07127/) — 2026-10-05
+  Introduces PlaySuite, a closed-loop video-game benchmark that evaluates interactive visual agents, including computer-use agents, over extended play.
 - [AMBER: Training Long-Horizon Web Agents through Append-Only Memory](https://awesomecua.com/resources/arxiv-2610-07118/) — 2026-10-05
   Introduces AMBER, an append-only memory framework in which a web agent learns to reason, act, and retain evidence using outcome-reward reinforcement learning. It studies whether preserving entries avoids the loss of facts and corrective feedback seen with rewritten memory.
+- [HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents](https://awesomecua.com/resources/arxiv-2610-03574/) — 2026-10-02
+  Introduces HyperBrowseComp, a multilingual benchmark for browsing agents that must connect evidence across open-web sources, including videos, scans, images, and maps.
 - [PrecogUI: Proactive GUI Agents via Pre-cognitive Simulation and Experience Retrieval](https://awesomecua.com/resources/arxiv-2609-36923/) — 2026-09-29
   Presents PrecogUI, which retrieves prior anomaly and success patterns and predicts symbolic UI transitions before choosing actions. It also introduces InterfereBench, generated for evaluating long GUI workflows with disruptive events and recovery requirements.
 - [LongPuzzleBench: Evaluating GUI Agents on Long-Horizon Visual Puzzles](https://awesomecua.com/resources/arxiv-2609-34769/) — 2026-09-28
@@ -34,24 +62,46 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   JarvisGUI composes typed input-output task transformations into dynamic workflows spanning Android, Windows and Ubuntu devices. Its virtual-environment benchmark tests transfer of intermediate results, shared state and cross-device dependencies.
 - [GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://awesomecua.com/resources/arxiv-2609-00048/) — 2026-08-30
   Introduces GUI-CC, a benchmark for assessing GUI world models as multi-step agent environments. Separate reference-action and agent-loop tracks test whether generated screens preserve context, plausible transitions, and task progress throughout interaction.
+- [GameWAM: A World Action Model for Video Games](https://awesomecua.com/resources/arxiv-2608-26200/) — 2026-08-25
+  Introduces GameWAM, a model for native game play and GUI control that predicts future visuals and keyboard-mouse actions from synchronized gameplay and GUI trajectories.
 - [CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents](https://awesomecua.com/resources/arxiv-2608-22577/) — 2026-08-23
   Introduces CausalCache, which selects archived screenshots to restore alongside text summaries under a fixed visual-memory budget. A history-gated adapter processes restored images, with evaluation distinguishing standard step limits from longer-horizon and mobile-transfer settings.
+- [Spine-Branch Coordination for Multi-agent Computer Use](https://awesomecua.com/resources/arxiv-2608-22077/) — 2026-08-22
+  Introduces Spine-Branch Coordination, which assigns a main task flow to one virtual-machine state and uses parallel branch machines to gather information for computer-use agents.
+- [Towards Faithful Simulation of Human Shopping Behavior](https://awesomecua.com/resources/arxiv-2608-20707/) — 2026-08-21
+  Presents RecVerse, a screenshot-based shopping simulation agent with hierarchical memory and trajectory-level RL, alongside USB, an interactive e-commerce GUI trajectory dataset.
 - [Wuying-Browser-Agent: Real-World Centric Fundamental Long-Horizon Browser Agents](https://awesomecua.com/resources/arxiv-2608-17319/) — 2026-08-18
   Combines a browser execution framework, recovery-oriented supervision, and online reinforcement learning, with a bilingual live-web task benchmark.
+- [Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://awesomecua.com/resources/arxiv-2608-17310/) — 2026-08-18
+  Introduces Agentic ESOpt, an evolution-strategies fine-tuning framework for long-horizon agents, evaluated on WebArena-Lite web tasks and automatic heuristic design.
 - [UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://awesomecua.com/resources/arxiv-2608-15930/) — 2026-08-16
   Combines environment-grounded training with demonstration-conditioned workflows, and introduces OSWorkerBench for extended office-task evaluation.
+- [StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling](https://awesomecua.com/resources/arxiv-2608-15089/) — 2026-08-15
+  Introduces StateM, a stateful runtime with checked transitions and reusable runbooks for long-horizon agents; its reported evaluations use terminal and business tasks.
 - [DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?](https://awesomecua.com/resources/arxiv-2608-10366/) — 2026-08-11
   DSAgentBench evaluates end-to-end data-science workflows spanning analysis, modeling and visualization inside a real desktop environment. Task evaluators check produced analytical and visual artifacts, while the released interface supports screenshot or accessibility observations and GUI actions.
+- [MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents](https://awesomecua.com/resources/arxiv-2608-06745/) — 2026-08-07
+  Introduces MemPrism, which records prior interactions and builds task-conditioned relational memory views for decisions in long-horizon web-agent tasks.
+- [StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection](https://awesomecua.com/resources/arxiv-2608-06477/) — 2026-08-06
+  Introduces StepJack, a benchmark of indirect prompt injections that split an adversarial goal across pages on a computer-use agent's web navigation path.
 - [Qwen-CUA: Native Computer Use for (almost) Everything](https://awesomecua.com/resources/arxiv-2608-02352/) — 2026-08-03
   Qwen-CUA operates through screenshots and keyboard/mouse events while compressing older visual history into reusable context blocks. Its report combines verifiable task generation, trajectory-based training and separate browser and Bash-augmented studies.
+- [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://awesomecua.com/resources/arxiv-2608-01964/) — 2026-08-03
+  Introduces LongHorizon-Harness, which maintains verified task state outside an agent's execution context and audits subtasks; its evaluations include OSWorld~2.0.
+- [Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion](https://awesomecua.com/resources/arxiv-2607-29199/) — 2026-07-31
+  Presents a paired diagnostic of prompt guardrails in GUI agents under screen-grounded user persuasion, comparing single-turn probes with four-turn escalation.
 - [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://awesomecua.com/resources/arxiv-2607-28227/) — 2026-07-30
   Describes a foundation GUI agent with combined GUI and command-line actions, large-scale interaction infrastructure, and iterative environment and task generation.
+- [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](https://awesomecua.com/resources/arxiv-2607-27155/) — 2026-07-29
+  Introduces OmegaUse-OfficeVal, a benchmark for long-horizon office-suite agent tasks with labor-time and price signals, plus rubric-based code verifiers.
 - [StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents](https://awesomecua.com/resources/arxiv-2607-22798/) — 2026-07-24
   Introduces StateAct, a code-first computer-use harness that manipulates program state directly and delegates screenshot-and-click subgoals to a GUI agent. An independent completion gate checks saved outputs, while fresh subagents handle subgoals to limit accumulated context.
 - [SEE: Structure-aware Exploring & Exploiting for Long-horizon GUI Agent Trajectory Synthesis](https://awesomecua.com/resources/arxiv-2607-18046/) — 2026-07-20
   Introduces SEE, which first explores mobile interfaces to build a screen-and-element transition graph, then composes task trajectories through graph planning and controlled sampling. It studies coverage, loop avoidance, and transfer after training agents on the generated sequences.
 - [Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents](https://awesomecua.com/resources/arxiv-2607-17527/) — 2026-07-20
   Introduces Sidekick, a communication interface that uses ambient status cues, multimodal action summaries, and visual and verbal explanations of reasoning to help people monitor computer-use agents. A user study examines progress awareness, error traceability, and multitasking across background and foreground interaction.
+- [Just A Rather Very Intelligent Spoken Agent](https://awesomecua.com/resources/arxiv-2607-16610/) — 2026-07-18
+  Introduces JarvisBench, a benchmark for spoken mediation during long-horizon agent workflows, measuring task collaboration and how users follow ongoing execution.
 - [Beyond Sequential Interaction: Benchmarking Parallel Execution and Coordination for GUI Agents](https://awesomecua.com/resources/arxiv-2607-22689/) — 2026-07-17
   Introduces ParaGUIBench, with tasks and efficiency measurements for coordinated GUI agents operating separate desktop instances over a shared file system. Its ParaGUI planner-worker system decomposes tasks and dispatches concurrent subtasks for comparison with serial execution.
 - [StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure](https://awesomecua.com/resources/arxiv-2607-11388/) — 2026-07-13
@@ -60,64 +110,118 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   The Entry–Propagation–Recovery framework traces where conflicting memory first changes an agent action, how the effect propagates and whether recovery occurs. WebArena and the controlled MemTrapBench separate memory-consumption failures across these stages.
 - [EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents](https://awesomecua.com/resources/arxiv-2607-09773/) — 2026-07-07
   EvoCUA-1.5 trains multi-turn desktop agents through online reinforcement learning in executable sandboxes. It combines step-level policy optimization, task filtering and calibration, an adaptive curriculum, and asynchronous rollout handling with staleness control.
+- [TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training](https://awesomecua.com/resources/arxiv-2607-05804/) — 2026-07-07
+  Proposes TurnOPD, a rollout-depth and loss-budgeting method for training long-horizon language agents; WebShop is one of its evaluation settings.
+- [A Task-State Representation for Long-Horizon Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2607-00502/) — 2026-07-01
+  Introduces TSR, a training-free wrapper for long-horizon mobile GUI agents that tracks instructions, subgoal progress, and action outcomes separately from screen observations.
 - [OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks](https://awesomecua.com/resources/arxiv-2606-29537/) — 2026-06-28
   Introduces extended computer-use workflows with realistic artifacts, changing information, hidden state, and partial-progress and safety assessments.
+- [Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction](https://awesomecua.com/resources/arxiv-2606-29445/) — 2026-06-28
+  Introduces VG-GUIBench to evaluate GUI agents following video tutorials, and TASKER to select task-relevant keyframes for video-guided tasks and VideoQA.
 - [ENVS: Environment-Native Verified Search for Long-Horizon GUI Agents](https://awesomecua.com/resources/arxiv-2606-22948/) — 2026-06-22
   ENVS branches over GUI actions in live desktop VMs, verifies successful leaves, and converts them into balanced step-level training supervision. It also introduces OSWorld-Noisy to test recovery from dynamic interruptions while retaining the underlying tasks.
 - [ChainWorld: Composing Long-Horizon Desktop Workloads from Atomic OSWorld Tasks](https://awesomecua.com/resources/arxiv-2606-21654/) — 2026-06-19
   ChainWorld composes compatible atomic OSWorld tasks into multi-objective desktop chains while preserving their evaluators. It compares giving the full sequence at once with revealing goals turn by turn, exposing different state and session-management failures.
 - [MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management](https://awesomecua.com/resources/arxiv-2606-19926/) — 2026-06-18
   MemGUI-Agent makes context management an action chosen by the same policy that controls the mobile UI. Structured history, UI-state and recent-step fields are trained from annotated trajectories to retain cross-app facts while limiting context growth.
+- [When Web Agents Finish but Still Fail: Reproducible Triggers and Trace Diagnostics for Parallel Web Exploration](https://awesomecua.com/resources/arxiv-2606-20724/) — 2026-06-16
+  Introduces Parallel WebBench for parallel web exploration and uses verified URL trajectories to diagnose search loops, incomplete answers, and failures after evidence retrieval.
 - [VISUALSKILL: Multimodal Skills for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-18448/) — 2026-06-16
   VISUALSKILL organizes application-specific text and figures into hierarchical skills retrieved on demand through an MCP tool. Skills combine authored documentation with live UI exploration, and matched multimodal/text-only comparisons test their utility for interface identification and workflow-state verification.
 - [LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control](https://awesomecua.com/resources/arxiv-2606-16802/) — 2026-06-15
   LabOSBench evaluates GUI agents on browser-based scientific instrument simulators with configurable tasks and execution-based checks. Its subtask and end-to-end tests examine feedback-driven adjustment and long workflows without controlling physical instruments.
+- [LLM-as-Code: Agentic Programming for Agent Harness](https://awesomecua.com/resources/arxiv-2606-15874/) — 2026-06-14
+  Proposes Agentic Programming, where code controls agent loops and invokes LLM-as-Code for reasoning; a computer-use case study examines long visual action sequences.
 - [A History-Aware Visually Grounded Critic for Computer Use Agents](https://awesomecua.com/resources/arxiv-2606-11078/) — 2026-06-09
   HiViG combines a compact history of completed actions with a visually grounded critic that checks proposed coordinates before execution. Its evaluations separate history-related planning failures from errors caused by targeting the wrong screen element.
 - [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://awesomecua.com/resources/arxiv-2606-11042/) — 2026-06-09
   Workflow-GYM evaluates long GUI workflows in professional software rather than isolated interface actions. Its analysis examines failures such as omitted stages, accumulated errors and goal drift during specialized end-to-end work.
 - [WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces](https://awesomecua.com/resources/arxiv-2606-09426/) — 2026-06-08
   WeaveBench requires agents to combine GUI, command-line and code operations within long tasks on an Ubuntu desktop. A trajectory-aware judge checks deliverables and interaction evidence, including shortcut behavior that outcome-only grading can miss.
+- [Self-evolving LLM agents with in-distribution Optimization](https://awesomecua.com/resources/arxiv-2606-07367/) — 2026-06-05
+  Introduces Q-Evolve, which derives step-wise rewards from an in-distribution critic for LLM agent learning; WebShop is one of its interactive evaluation settings.
 - [Signal-Driven Observation for Long-Horizon Web Agents](https://awesomecua.com/resources/arxiv-2606-06708/) — 2026-06-04
   Proposes Signal-Driven Observation: a separate call selects relevant DOM elements and selectors, and a detector requests new observations only after meaningful browser events or failures. The paper frames observation timing and compression as an architectural research problem for long-horizon web agents.
 - [DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration](https://awesomecua.com/resources/arxiv-2606-03103/) — 2026-06-02
   DeskCraft evaluates professional desktop workflows and human-agent collaboration through mid-execution clarification, interruption and post-completion feedback. Its tasks cover creative applications and expose difficulties in long-horizon execution and proactive clarification.
 - [Multi-Agent Computer Use](https://awesomecua.com/resources/arxiv-2606-01533/) — 2026-06-01
   MACU represents computer-use objectives as a dependency graph whose manager dispatches parallel subagents and revises tasks as new information arrives. Desktop and web experiments examine coordination, information handoff and task-completion time.
+- [GTA: Generating Long-Horizon Tasks for Web Agents at Scale](https://awesomecua.com/resources/arxiv-2605-29218/) — 2026-05-28
+  GTA generates multi-hop web-agent tasks and executable trajectories through crawling, retrieval, and validation, releasing a benchmark built from over 50 websites.
 - [AndroidDaily: A Verifiable Benchmark for Mobile GUI Agents on Real-World Closed-Source Applications](https://awesomecua.com/resources/arxiv-2605-27761/) — 2026-05-26
   AndroidDaily evaluates mobile GUI agents on daily workflows in closed-source Android apps. Its GRADE evaluator follows visual trajectories against operational obligations, output-quality requirements and negative constraints, producing process-level diagnostics without hidden app state.
+- [Anchor: Preventing Artifact Drift for Reliable Agent Verification](https://awesomecua.com/resources/arxiv-2605-26321/) — 2026-05-25
+  Anchor builds ERP-Bench by generating procurement and manufacturing tasks with shared state verifiers for evaluating browser and computer-use agents.
 - [Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World](https://awesomecua.com/resources/arxiv-2605-26086/) — 2026-05-25
   Claw-Anything benchmarks persistent personal assistance across activity histories, backend services and integrated GUI/CLI interaction. Its simulated event histories introduce irrelevant or conflicting context, and a separate generation pipeline supplies training environments.
+- [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://awesomecua.com/resources/arxiv-2605-20833/) — 2026-05-20
+  MemGym benchmarks agent memory across several task regimes, including computer use on WebArena-Infinity, with scores designed to isolate memory performance.
+- [CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing](https://awesomecua.com/resources/arxiv-2605-19484/) — 2026-05-19
+  Cutverse benchmarks GUI agents on long editing workflows across professional media applications and parses recordings and input logs into grounded action trajectories.
+- [What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents](https://awesomecua.com/resources/arxiv-2605-19447/) — 2026-05-19
+  SERL trains multi-turn agents by using task rewards and selective step feedback to weight updates, with WebShop among its evaluation settings.
 - [MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](https://awesomecua.com/resources/arxiv-2605-18652/) — 2026-05-18
   MementoGUI learns a controller for selecting, compressing and retrieving textual and region-level visual memories while leaving the GUI-agent backbone fixed. It also converts computer-use traces into controller training data and evaluates semantic actions, progress and memory consistency on long-horizon tasks.
 - [SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?](https://awesomecua.com/resources/arxiv-2605-15777/) — 2026-05-15
   SaaS-Bench evaluates browser agents on professional workflows across self-hosted applications. Weighted checkpoints measure task completion and partial progress, with application-state checks and configured content judges documented in the official harness.
 - [Executable Agentic Memory for GUI Agent](https://awesomecua.com/resources/arxiv-2605-12294/) — 2026-05-12
   Executable Agentic Memory stores GUI routines in a knowledge graph built through state-aware exploration and action-group mining. A learned value model guides tree search over this executable memory for retrieval-based planning, with AndroidWorld and efficiency evaluation.
+- [WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation](https://awesomecua.com/resources/arxiv-2605-10912/) — 2026-05-11
+  WildClawBench evaluates CLI agents on long, multimodal tasks in Docker containers with real tools, using task checks, side-effect audits, and a semantic judge.
 - [Mem-W: Latent Memory-Native GUI Agents](https://awesomecua.com/resources/arxiv-2605-09317/) — 2026-05-10
   Introduces Mem-W, which compresses previous trajectories and current-session segments into latent memory tokens used directly by the GUI policy. Self-distillation and outcome supervision train this memory representation for web and mobile navigation.
+- [WebTrap: Stealthy Mid-Task Hijacking of Browser Agents During Navigation](https://awesomecua.com/resources/arxiv-2605-08310/) — 2026-05-08
+  WebTrap injects mid-task instructions into browser-agent navigation to steer an agent toward an attacker goal before it resumes the user's task.
+- [cotomi Act: Learning to Automate Work by Watching You](https://awesomecua.com/resources/arxiv-2605-03231/) — 2026-05-04
+  cotomi Act is a browser agent that executes multi-step tasks and turns observed user browsing into persistent knowledge shared with users.
+- [AcademiClaw: When Students Set Challenges for AI Agents](https://awesomecua.com/resources/arxiv-2605-02661/) — 2026-05-04
+  AcademiClaw benchmarks OpenClaw agents on long academic workflows, scoring task completion in isolated Docker sandboxes with rubrics and a safety audit.
+- [Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning](https://awesomecua.com/resources/arxiv-2605-02168/) — 2026-05-04
+  A planner-centric RL framework divides agent automation among a planner, actor, and memory manager, with evaluations that include web navigation and OS control.
 - [Step-level Optimization for Efficient Computer-use Agents](https://awesomecua.com/resources/arxiv-2604-27151/) — 2026-04-29
   Proposes a step-level model cascade that runs a smaller computer-use policy until learned monitors flag stalled progress or semantic drift. Separate history-based stuck detection and milestone checks determine when to escalate for recovery or verification without retraining the larger model.
 - [Odysseys: Benchmarking Web Agents on Realistic Long Horizon Tasks](https://awesomecua.com/resources/arxiv-2604-24964/) — 2026-04-27
   Introduces Odysseys, a live-web benchmark of long, multi-site tasks derived from browsing sessions. Graded task rubrics and a rubric-score-per-step measure evaluate both partial progress and trajectory efficiency.
+- [SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning](https://awesomecua.com/resources/arxiv-2604-22558/) — 2026-04-24
+  SOLAR-RL trains GUI navigation agents by reconstructing rollout candidates from static data and assigning step rewards that reflect trajectory quality.
 - [WebUncertainty: Dual-Level Uncertainty Driven Planning and Reasoning For Autonomous Web Agent](https://awesomecua.com/resources/arxiv-2604-17821/) — 2026-04-20
   WebUncertainty adapts planning mode to task uncertainty and guides action-level tree search with confidence-derived uncertainty estimates. Its evaluations examine autonomous execution of dynamic, long-horizon web tasks on WebArena and WebVoyager.
 - [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://awesomecua.com/resources/arxiv-2604-13822/) — 2026-04-15
   UI-Copilot separates GUI execution from on-demand memory retrieval and numerical assistance. Its training procedure treats tool selection and multi-turn task execution as distinct optimization targets while keeping persistent observations outside transient context.
+- [CocoaBench: Evaluating Unified Digital Agents in the Wild](https://awesomecua.com/resources/arxiv-2604-11201/) — 2026-04-13
+  Introduces CocoaBench, a benchmark for unified digital agents on long-horizon tasks combining vision, search, and coding, including capabilities related to GUI automation.
+- [GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents](https://awesomecua.com/resources/arxiv-2604-07429/) — 2026-04-08
+  Introduces GameWorld, a browser-game benchmark that evaluates multimodal agents through keyboard and mouse controls or semantic actions using outcome checks.
 - [Gym-Anything: Turn any Software into an Agent Environment](https://awesomecua.com/resources/arxiv-2604-06126/) — 2026-04-07
   Introduces Gym-Anything, where a setup agent configures software environments and an independent auditor checks the resulting evidence. CUA-World supplies long-horizon tasks across professional applications, with experiments on trajectory distillation and test-time auditing.
 - [GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis](https://awesomecua.com/resources/arxiv-2604-04399/) — 2026-04-06
   GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces rather than relying on one holistic trajectory score.
 - [The Art of Building Verifiers for Computer Use Agents](https://awesomecua.com/resources/arxiv-2604-06240/) — 2026-04-05
   Describes a web-trajectory verifier built around structured rubrics, separate process and outcome judgments, and explicit treatment of uncontrollable failures. CUAVerifierBench supplies human labels for evaluating these choices and screenshot-based context management.
+- [AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-02947/) — 2026-04-03
+  Introduces AgentHazard, a benchmark of harmful multi-step behavior by computer-use agents acting through tools, files, and execution environments.
+- [When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation](https://awesomecua.com/resources/arxiv-2604-00892/) — 2026-04-01
+  Introduces InterruptBench, a WebArena-Lite-derived benchmark that tests how long-horizon web-navigation agents handle mid-task user additions, revisions, and retractions.
+- [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://awesomecua.com/resources/arxiv-2603-26648/) — 2026-03-27
+  Introduces Vision2Web, a benchmark for website development from images, spanning UI-to-code, multi-page frontend and full-stack tasks, with a GUI agent verifier and VLM-based judge.
 - [CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare](https://awesomecua.com/resources/arxiv-2603-24157/) — 2026-03-25
   CareFlow benchmarks long healthcare-software workflows, while CarePilot coordinates action proposals, execution checks and corrective feedback using short- and long-term memory. Its actor consumes visual interfaces and system state to select semantic actions.
 - [A Subgoal-driven Framework for Improving Long-Horizon LLM Agents](https://awesomecua.com/resources/arxiv-2603-19685/) — 2026-03-20
   The framework separates inference-time subgoal planning from MiRA, a reinforcement-learning method that supplies milestone rewards. WebArena-Lite experiments evaluate these mechanisms for long-horizon web navigation.
 - [AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents](https://awesomecua.com/resources/arxiv-2603-18429/) — 2026-03-19
   Introduces AndroTMem-Bench for Android tasks whose later actions depend on earlier UI states. Anchored State Memory retains causally linked intermediate states for subgoal-specific retrieval and evaluates them against full-history and summary-based memory.
+- [Hybrid Self-evolving Structured Memory for GUI Agents](https://awesomecua.com/resources/arxiv-2603-10291/) — 2026-03-11
+  Introduces HyMEM, a graph-based memory for GUI agents that links symbolic task knowledge with trajectory embeddings and refreshes working memory during computer-use tasks.
+- [STRUCTUREDAGENT: Planning with AND/OR Trees for Long-Horizon Web Tasks](https://awesomecua.com/resources/arxiv-2603-05294/) — 2026-03-05
+  Introduces STRUCTUREDAGENT, a web-agent planning framework that interleaves execution with dynamic AND/OR trees, supporting node repair and exploration of alternative plans.
+- [M$^2$: Dual-Memory Augmentation for Long-Horizon Web Agents via Trajectory Summarization and Insight Retrieval](https://awesomecua.com/resources/arxiv-2603-00503/) — 2026-02-28
+  Introduces M², a training-free memory framework for long-horizon web agents that summarizes interaction history and retrieves task guidance from an offline insight bank.
+- [IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2602-17049/) — 2026-02-19
+  IntentCUA coordinates planner and critic agents through shared intent-aligned memory, retrieving reusable skills for long-horizon automation across desktop applications.
 - [MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://awesomecua.com/resources/arxiv-2602-16313/) — 2026-02-18
   MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+- [HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents](https://awesomecua.com/resources/arxiv-2602-16165/) — 2026-02-18
+  HiPER trains interactive LLM agents with separate subgoal planning and multi-step execution, assigning reinforcement-learning credit at both levels.
 - [ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents](https://awesomecua.com/resources/arxiv-2602-10863/) — 2026-02-11
   Information-Aware Credit Assignment scores intermediate information gathered by web agents, using rendered webpage snapshots to compare evidence across trajectories.
 - [LHAW: Controllable Underspecification for Long-Horizon Tasks](https://awesomecua.com/resources/arxiv-2602-10525/) — 2026-02-11

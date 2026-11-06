@@ -74,12 +74,15 @@
     }
   ],
   "name": "GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.",
   "published_at": "2025-06-09",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces GUIPilot, which compares mobile design mock-ups with implemented screens through widget alignment and tests expected transitions by executing inferred UI actions. It evaluates both visual inconsistencies and workflow-specific bugs.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "evaluation",
     "mobile-navigation",

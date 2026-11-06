@@ -14,7 +14,7 @@ Uses separate retrieval systems for high-level mobile-task planning and precise 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-12254/record.json
 

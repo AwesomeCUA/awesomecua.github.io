@@ -6,6 +6,12 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 ## Papers & surveys
 
+- [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://awesomecua.com/resources/arxiv-2611-04073/) — 2026-11-02
+  RAG-PolicyJudge selects computer-use actions proposed with task-specific tutorials; the study compares its decisions with and without world-model rollouts.
+- [ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents](https://awesomecua.com/resources/arxiv-2611-03238/) — 2026-11-02
+  Introduces ScienceCUA, which turns scientific software documentation into reusable agent skills and revises them using execution feedback, with two audited evaluation variants.
+- [MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework](https://awesomecua.com/resources/arxiv-2611-02472/) — 2026-11-02
+  Introduces MAGAR-Bench for GUI-based 3D mechanical assembly decisions and recovery, and MAGAR, a selective correction method for assembly outputs and actions.
 - [MedImageOSWorld: Benchmarking GUI Agents for Medical Image Consoles](https://awesomecua.com/resources/arxiv-2610-04800/) — 2026-10-03
   Evaluates GUI agents in simulated medical-imaging consoles, separately checking workflow completion and acquisition outcomes against hidden anatomical targets.
 - [OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://awesomecua.com/resources/arxiv-2609-39903/) — 2026-09-30
@@ -20,6 +26,8 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
   DSAgentBench evaluates end-to-end data-science workflows spanning analysis, modeling and visualization inside a real desktop environment. Task evaluators check produced analytical and visual artifacts, while the released interface supports screenshot or accessibility observations and GUI actions.
 - [LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control](https://awesomecua.com/resources/arxiv-2606-16802/) — 2026-06-15
   LabOSBench evaluates GUI agents on browser-based scientific instrument simulators with configurable tasks and execution-based checks. Its subtask and end-to-end tests examine feedback-driven adjustment and long workflows without controlling physical instruments.
+- [Running the Gauntlet: Hard Agentic Tasks](https://awesomecua.com/resources/arxiv-2606-14397/) — 2026-06-12
+  Introduces GauntletBench, a web-based benchmark of vision-intensive tasks in five professional applications for assessing agent perception, 3D reasoning, and generalisation.
 - [ComAct: Reframing Professional Software Manipulation via COM-as-Action Paradigm](https://awesomecua.com/resources/arxiv-2606-13239/) — 2026-06-11
   ComAct proposes COM program synthesis as an alternative interface for manipulating professional software and introduces ComCADBench with GUI-based comparison agents. ComActor adds a staged training and correction approach, supported by a Windows-container training platform.
 - [MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-03203/) — 2026-06-02

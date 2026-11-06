@@ -14,7 +14,7 @@ Uses instruction screening and a safety-augmented world model to assess likely c
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-15550/record.json
 

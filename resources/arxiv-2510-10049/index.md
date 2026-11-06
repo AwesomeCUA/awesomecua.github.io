@@ -14,7 +14,7 @@ Introduces ALLOY, which turns user demonstrations into editable, reusable workfl
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study involved 12 participants performing complex web tasks. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study involved 12 participants performing complex web tasks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-10049/record.json
 

@@ -14,7 +14,7 @@ UltraCUA trains a shared policy for primitive GUI actions and high-level tool ca
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-17790/record.json
 

@@ -14,7 +14,7 @@ Introduces Agentic Entropy-Balanced Policy Optimization (AEPO), an RL method tha
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method is evaluated across tool-use datasets, including the WebWalker browsing benchmark. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method is evaluated across tool-use datasets, including the WebWalker browsing benchmark.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-14545/record.json
 

@@ -14,7 +14,7 @@ ECHOES learns recursive textual task memory through privileged screenshot-histor
 
 ## Limitations
 
-Privileged screenshot history is used during training, while deployment retains self-generated textual state. GUI results use action/step metrics and model-specific history settings; online Sokoban transfer is separate. GRPO rewards action correctness, valid output format and compression length. Diagnostic memory replay is distinct from the validation gap used to schedule training. No independent reproduction.
+Privileged screenshot history is used during training, while deployment retains self-generated textual state. GUI results use action/step metrics and model-specific history settings; online Sokoban transfer is separate. GRPO rewards action correctness, valid output format and compression length. Diagnostic memory replay is distinct from the validation gap used to schedule training.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-22408/record.json
 

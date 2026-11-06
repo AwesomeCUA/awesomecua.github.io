@@ -14,7 +14,7 @@ UI-E2I-Synth uses GPT-4o to synthesize GUI grounding instructions with varied co
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-11257/record.json
 

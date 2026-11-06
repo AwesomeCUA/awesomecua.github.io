@@ -14,7 +14,7 @@ V2P trains GUI grounding by suppressing attention to background regions and emph
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-13634/record.json
 

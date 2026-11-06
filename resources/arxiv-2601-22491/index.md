@@ -14,7 +14,7 @@ SSL uses progressively tiered rewards for agent training, including distance-bas
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI perception is one of several task types used to evaluate this general agent-training method. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI perception is one of several task types used to evaluate this general agent-training method.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-22491/record.json
 

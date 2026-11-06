@@ -14,7 +14,7 @@ Introduces WebGuard, a human-annotated dataset for predicting outcomes and risk 
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-14293/record.json
 

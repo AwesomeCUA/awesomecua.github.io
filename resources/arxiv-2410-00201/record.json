@@ -74,7 +74,7 @@
     }
   ],
   "name": "DreamStruct: Understanding Slides and User Interfaces via Synthetic Data Generation",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-09-30",
   "relations": [],
   "review_status": "curated",

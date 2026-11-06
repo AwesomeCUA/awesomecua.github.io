@@ -14,7 +14,7 @@ Introduces SEE, which first explores mobile interfaces to build a screen-and-ele
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-18046/record.json
 

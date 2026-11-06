@@ -91,7 +91,7 @@
     }
   ],
   "name": "UI-Venus Technical Report: Building High-performance UI Agents with RFT",
-  "notes": "Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.",
+  "notes": "Summary and topic tags reviewed against the primary abstract.",
   "published_at": "2025-08-14",
   "relations": [],
   "review_status": "curated",

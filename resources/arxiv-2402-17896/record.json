@@ -59,7 +59,7 @@
     }
   ],
   "name": "Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Bibliographic metadata checked against arXiv; relevance review pending.",
   "published_at": "2024-02-27",
   "relations": [],
   "review_status": "metadata_verified",

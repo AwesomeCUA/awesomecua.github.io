@@ -82,12 +82,15 @@
     }
   ],
   "name": "DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?",
-  "notes": "The paper abstract and official project README were reviewed. The README documents an Ubuntu desktop and GUI action interface and includes LLM-assisted evaluators; this annotation does not assert that every evaluator is deterministic. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The paper abstract and official project README were reviewed. The README documents an Ubuntu desktop and GUI action interface and includes LLM-assisted evaluators; this annotation does not assert that every evaluator is deterministic.",
   "published_at": "2026-08-11",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "DSAgentBench evaluates end-to-end data-science workflows spanning analysis, modeling and visualization inside a real desktop environment. Task evaluators check produced analytical and visual artifacts, while the released interface supports screenshot or accessibility observations and GUI actions.",
+  "task_classes": [
+    "R03.02.01.01"
+  ],
   "topics": [
     "evaluation",
     "workflow",

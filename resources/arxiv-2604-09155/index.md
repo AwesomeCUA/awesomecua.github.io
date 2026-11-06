@@ -14,7 +14,7 @@ Introduces CORA, which calibrates a risk model to choose between executing and a
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The annotation describes risk calibration without asserting an unconditional safety guarantee.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The annotation describes risk calibration without asserting an unconditional safety guarantee.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-09155/record.json
 

@@ -84,7 +84,7 @@
     }
   ],
   "name": "Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs",
-  "notes": "Reviewed the complete abstract and selected v1 system/evaluation sections. Main latency measurements replay recorded requests and exclude app execution; the paper also reports instrumented real tasks. These are serving-time, energy and action-fidelity results, not a claimed task-success improvement. Hardware, cooling and model configurations matter. No independent reproduction.",
+  "notes": "Reviewed the complete abstract and selected v1 system/evaluation sections. Main latency measurements replay recorded requests and exclude app execution; the paper also reports instrumented real tasks. These are serving-time, energy and action-fidelity results, not a claimed task-success improvement. Hardware, cooling and model configurations matter.",
   "published_at": "2026-10-19",
   "relations": [],
   "review_status": "curated",

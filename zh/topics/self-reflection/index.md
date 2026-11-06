@@ -6,6 +6,14 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
 
 ## 论文与综述
 
+- [ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents](https://awesomecua.com/resources/arxiv-2611-03238/) — 2026-11-02
+  Introduces ScienceCUA, which turns scientific software documentation into reusable agent skills and revises them using execution feedback, with two audited evaluation variants.
+- [MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework](https://awesomecua.com/resources/arxiv-2611-02472/) — 2026-11-02
+  Introduces MAGAR-Bench for GUI-based 3D mechanical assembly decisions and recovery, and MAGAR, a selective correction method for assembly outputs and actions.
+- [AdaGround: Token-Normalized Adaptive Zooming with Verifier-in-the-Loop Refinement for GUI Grounding](https://awesomecua.com/resources/arxiv-2610-36874/) — 2026-10-27
+  Introduces AdaGround, a training-free GUI grounding method that adjusts screenshot zoom to target size and uses a click verifier to refine or reject predictions.
+- [Step-Aligned Script Generation with Verification and Recovery for Web Automation Testing](https://awesomecua.com/resources/arxiv-2610-25601/) — 2026-10-19
+  Presents TESSARA, which turns natural-language web test intent into Playwright scripts, linking each browser interaction to selector evidence, outcomes, and repair history.
 - [When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows](https://awesomecua.com/resources/arxiv-2610-13092/) — 2026-10-09
   Evaluates Jev as a bounded action selector inside three AndroidWorld agents and two text-based ALFWorld agents, separating decision savings from task success, recovery and resources per delivered outcome.
 - [Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents](https://awesomecua.com/resources/arxiv-2609-17653/) — 2026-09-15
@@ -14,6 +22,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   AnchorGUI compares expected and observed UI transitions and selectively retains screenshots when they disagree. This asymmetric memory supports immediate correction and focuses cross-attempt experience distillation on likely failure steps.
 - [Reflection with Action-Induced Visual Differences for Desktop GUI Agents](https://awesomecua.com/resources/arxiv-2608-24015/) — 2026-08-25
   Introduces Evidence-First Reflection, which separates extraction of action-induced screen changes from judgment of whether an operation achieved its objective. It filters visual differences into relevant evidence before a desktop agent’s reflector decides how execution should continue.
+- [Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation](https://awesomecua.com/resources/arxiv-2608-11191/) — 2026-08-11
+  Introduces a Test-Time Self-Evolving framework for GUI grounding that explores unseen interfaces, reflects on predicted coordinates, and distills those reflections into the model.
 - [LookAgain: Closed-Loop GUI Grounding with Visually Grounded Reflection](https://awesomecua.com/resources/arxiv-2608-09723/) — 2026-08-10
   LookAgain treats a GUI coordinate as a revisable hypothesis, rendering its marker and a local screenshot patch before confirmation. Reflective supervised trajectories provide a cold start, followed by GRPO using terminal grounding correctness.
 - [AndroidReality: How Far Are Mobile Agents from the Real World?](https://awesomecua.com/resources/arxiv-2608-07775/) — 2026-08-07
@@ -22,14 +32,24 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   StepReflect predicts structured per-action reflections from transition specifications and paired visual evidence. The paper distinguishes offline transition-label accuracy from online task success when the reflection model is integrated into mobile agents.
 - [CUADebug: Diagnosing and Repairing Computer-Use Agent Failures](https://awesomecua.com/resources/arxiv-2608-02643/) — 2026-07-31
   CUADebug combines a failure taxonomy and human-annotated OSWorld failure trajectories with an agent that locates causal steps and proposes corrections from screenshots and action traces. It evaluates root-cause diagnosis separately from controlled task re-execution and failure recovery.
+- [MemHarness: Memory Is Reconstructed, Not Replayed](https://awesomecua.com/resources/arxiv-2607-28272/) — 2026-07-30
+  Introduces MemHarness, which trains agents to critique and reconstruct retrieved experience before acting; WebShop is one of two evaluation environments.
 - [Falsifiable Commitment Planning for Self-Correcting Web Agents](https://awesomecua.com/resources/arxiv-2607-24167/) — 2026-07-27
   Introduces FCPAgent, which attaches confirming and falsifying evidence to each skill-grounded plan step. A plan–test–repair loop checks actions and observations, then localizes contradictions so execution, skills, or plans can be revised at the appropriate level.
 - [Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-31270/) — 2026-06-30
   Uses failed computer-use trajectories to diagnose failure modes and generate inference-time agent code patches, with light human verification. An OSWorld study evaluates this failure-driven improvement loop without additional model training.
+- [Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration](https://awesomecua.com/resources/arxiv-2605-31365/) — 2026-05-29
+  Introduces SCALE, which uses exploration roles and graph planning to train web agents, and SCALE-20k, a dataset of tasks and demonstrations from real websites.
+- [BaRA: Budget-constrained and Reliable Web Data Collection Agent](https://awesomecua.com/resources/arxiv-2607-00007/) — 2026-05-02
+  Introduces BaRA, a web data-collection agent that discovers live site links, checks extracted text, images, and videos, and uses history to recover from failures.
+- [DRIVE: Modeling Skills at the Reasoning and Interaction Levels for Web Agents under Continual Learning](https://awesomecua.com/resources/arxiv-2605-23939/) — 2026-04-28
+  DRIVE separates reusable reasoning skills from page-specific interaction skills for web agents, retrieving both to plan tasks and execute actions on websites.
 - [VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://awesomecua.com/resources/arxiv-2604-21375/) — 2026-04-23
   VLAA-GUI combines mandatory checks for visually supported completion, multi-tier loop recovery and on-demand workflow search. Optional coding and grounding agents support execution, with component ablations on Linux and Windows GUI tasks.
 - [Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding](https://awesomecua.com/resources/arxiv-2604-21268/) — 2026-04-23
   Trains a GUI grounding proposer together with a visual critic that evaluates candidate locations rendered on screenshots. An adaptive reinforcement-learning schedule balances their development, using proposal diversity and critic feedback during training.
+- [CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://awesomecua.com/resources/arxiv-2603-23559/) — 2026-03-23
+  Introduces ReCAP, a native GUI agent for interactive CAPTCHA challenges, trained with generated interaction trajectories, reasoning traces and self-correction data.
 - [GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2603-15039/) — 2026-03-16
   GUI-CEval evaluates Chinese mobile GUI agents through a hierarchy of atomic abilities and application-level tasks collected on physical devices. Its diagnostics cover perception, planning, reflection, execution and post-action evaluation across a broad set of apps.
 - [World-Model-Augmented Web Agents with Action Correction](https://awesomecua.com/resources/arxiv-2602-15384/) — 2026-02-17

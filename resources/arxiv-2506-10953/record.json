@@ -71,7 +71,7 @@
     }
   ],
   "name": "Build the web for agents, not agents for the web",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). This is a position paper proposing interface design principles. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). This is a position paper proposing interface design principles.",
   "published_at": "2025-06-12",
   "relations": [],
   "review_status": "curated",

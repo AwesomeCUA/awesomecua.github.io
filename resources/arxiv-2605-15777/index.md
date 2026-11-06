@@ -14,7 +14,7 @@ SaaS-Bench evaluates browser agents on professional workflows across self-hosted
 
 ## Limitations
 
-The complete retained official abstract and cached official README were reviewed. The README establishes browser execution against running SaaS applications; no repository code was executed and benchmark results were not independently reproduced.
+The complete retained official abstract and cached official README were reviewed.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-15777/record.json
 

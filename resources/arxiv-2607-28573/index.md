@@ -14,7 +14,7 @@ Examines inference-time scaling for local computer-use models by varying context
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-28573/record.json
 

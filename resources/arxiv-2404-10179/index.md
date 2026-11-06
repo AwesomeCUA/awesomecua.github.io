@@ -14,7 +14,7 @@ The SIMA project trains agents to follow language instructions in simulated 3D w
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The setting is simulated 3D environments and video games. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The setting is simulated 3D environments and video games.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-10179/record.json
 

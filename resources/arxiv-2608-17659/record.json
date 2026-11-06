@@ -71,12 +71,15 @@
     }
   ],
   "name": "MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-08-18",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Evaluates environmental injection risks in Android tasks using programmatic risk checks and model-based adjudication of ambiguous cases.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security",
     "evaluation"

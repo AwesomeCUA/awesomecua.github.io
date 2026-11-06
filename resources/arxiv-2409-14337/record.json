@@ -76,7 +76,7 @@
     }
   ],
   "name": "MobileViews: A Million-scale and Diverse Mobile GUI Dataset",
-  "notes": "Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.",
+  "notes": "Summary and topic tags reviewed against the primary abstract.",
   "published_at": "2024-09-22",
   "relations": [],
   "review_status": "curated",

@@ -73,7 +73,7 @@
     }
   ],
   "name": "Agent-SAMA: State-Aware Mobile Assistant",
-  "notes": "Hugging Face discovery used the label MAPLE for this ID; the record follows the current primary arXiv title, Agent-SAMA. The secondary-title discrepancy is not treated as proof of a historical rename. Experiments not independently reproduced.",
+  "notes": "Hugging Face discovery used the label MAPLE for this ID; the record follows the current primary arXiv title, Agent-SAMA. The secondary-title discrepancy is not treated as proof of a historical rename.",
   "published_at": "2025-05-29",
   "relations": [],
   "review_status": "curated",

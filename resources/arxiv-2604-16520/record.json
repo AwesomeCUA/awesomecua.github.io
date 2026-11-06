@@ -69,7 +69,7 @@
     }
   ],
   "name": "AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent supervision interface: the browser UI is for human review of terminal agents; the abstract does not claim that those agents operate graphical interfaces.",
+  "notes": "Reviewed against the complete retained official abstract. Adjacent supervision interface: the browser UI is for human review of terminal agents; the abstract does not claim that those agents operate graphical interfaces.",
   "published_at": "2026-04-15",
   "relations": [],
   "review_status": "curated",

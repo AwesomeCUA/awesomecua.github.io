@@ -73,7 +73,7 @@
     }
   ],
   "name": "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2023-10-17",
   "relations": [],
   "review_status": "curated",

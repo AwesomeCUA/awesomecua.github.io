@@ -14,7 +14,7 @@ Studies context manipulation in web agents by altering stored task representatio
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-17318/record.json
 

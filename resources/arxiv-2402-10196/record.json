@@ -86,7 +86,7 @@
     }
   ],
   "name": "A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents",
-  "notes": "Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent, rather than an implemented attack benchmark. Scope was checked against the retained abstract and full-text Sections 2.4 and 3; no results were independently reproduced.",
+  "notes": "Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent, rather than an implemented attack benchmark. Scope was checked against the retained abstract and full-text Sections 2.4 and 3.",
   "published_at": "2024-02-15",
   "relations": [],
   "review_status": "curated",

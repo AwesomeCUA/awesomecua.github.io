@@ -14,7 +14,7 @@ Splits mobile tasks into reaching the required page and operating on it, using s
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-02955/record.json
 

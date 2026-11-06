@@ -81,7 +81,7 @@
     }
   ],
   "name": "Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Web browsing is one of six environments, alongside non-web tasks. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Web browsing is one of six environments, alongside non-web tasks.",
   "published_at": "2025-05-30",
   "relations": [],
   "review_status": "curated",

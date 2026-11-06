@@ -14,7 +14,7 @@ Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point sta
 
 ## Limitations
 
-Reviewed the complete abstract and selected v1 system/evaluation sections. Main latency measurements replay recorded requests and exclude app execution; the paper also reports instrumented real tasks. These are serving-time, energy and action-fidelity results, not a claimed task-success improvement. Hardware, cooling and model configurations matter. No independent reproduction.
+Reviewed the complete abstract and selected v1 system/evaluation sections. Main latency measurements replay recorded requests and exclude app execution; the paper also reports instrumented real tasks. These are serving-time, energy and action-fidelity results, not a claimed task-success improvement. Hardware, cooling and model configurations matter.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26660/record.json
 

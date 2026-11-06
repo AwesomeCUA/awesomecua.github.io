@@ -78,7 +78,7 @@
     }
   ],
   "name": "Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The framework also generates document-understanding tasks for RAG agents. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The framework also generates document-understanding tasks for RAG agents.",
   "published_at": "2025-10-01",
   "relations": [],
   "review_status": "curated",

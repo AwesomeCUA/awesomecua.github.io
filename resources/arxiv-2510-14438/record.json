@@ -80,7 +80,7 @@
     }
   ],
   "name": "WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The work centers on research questions and evidence aggregation across websites. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The work centers on research questions and evidence aggregation across websites.",
   "published_at": "2025-10-16",
   "relations": [],
   "review_status": "curated",

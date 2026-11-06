@@ -75,12 +75,15 @@
     }
   ],
   "name": "AUITestAgent: Automatic Requirements Oriented GUI Function Testing",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-07-12",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Automates mobile GUI tests from natural-language requirements, combining action generation with verification based on interaction traces.",
+  "task_classes": [
+    "R02.07.01.02"
+  ],
   "topics": [
     "automation",
     "evaluation"

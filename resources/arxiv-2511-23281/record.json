@@ -70,12 +70,16 @@
     }
   ],
   "name": "MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The comparison uses four simulated e-shops. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The comparison uses four simulated e-shops.",
   "published_at": "2025-11-28",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Compares HTML browsing, RAG, MCP, and NLWeb interfaces for web agents performing product search, comparison, and checkout tasks in four simulated e-shops.",
+  "task_classes": [
+    "R12.01.01.01",
+    "R12.01.01.02"
+  ],
   "topics": [
     "evaluation",
     "tool-integration",

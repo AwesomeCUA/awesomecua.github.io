@@ -14,7 +14,7 @@ MultiMedia-TerminalBench evaluates agents that use terminal tools to work with a
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent computer-automation benchmark using terminal workflows, explicitly separated from graphical-interface control.
+Reviewed against the complete retained official abstract. Adjacent computer-automation benchmark using terminal workflows, explicitly separated from graphical-interface control.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-10966/record.json
 

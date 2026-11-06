@@ -14,7 +14,7 @@ MCPWorld evaluates API, GUI, and hybrid computer-use agents with 201 tasks in ap
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The platform or GUI evaluation setting was additionally checked in the primary full text.
+The annotation and scope were reviewed against the primary paper abstract. The platform or GUI evaluation setting was additionally checked in the primary full text.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-07672/record.json
 

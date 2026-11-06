@@ -14,7 +14,7 @@ Trains a smartphone assistant from sequences of screenshots paired with earlier 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-08755/record.json
 

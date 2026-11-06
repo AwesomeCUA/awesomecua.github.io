@@ -14,7 +14,7 @@ Benchmarks robustness of API-based PowerPoint completion under sentence-level, s
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The benchmark directly concerns PowerPoint task automation but executes through APIs, so it remains adjacent.
+Reviewed against the retained original arXiv abstract. The benchmark directly concerns PowerPoint task automation but executes through APIs, so it remains adjacent.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2403-03788/record.json
 

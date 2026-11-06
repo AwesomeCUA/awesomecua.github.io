@@ -14,7 +14,7 @@ Succeed or Learn Slowly applies direct off-policy updates to successful interact
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-01720/record.json
 

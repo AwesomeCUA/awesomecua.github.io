@@ -14,7 +14,7 @@ Demonstrates that unsanitized Android accessibility tree metadata exposes mobile
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-08939/record.json
 

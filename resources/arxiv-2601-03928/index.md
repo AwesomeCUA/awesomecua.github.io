@@ -14,7 +14,7 @@ FocusUI selects instruction-relevant screenshot patches while preserving their p
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-03928/record.json
 

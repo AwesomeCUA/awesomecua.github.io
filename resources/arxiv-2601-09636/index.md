@@ -14,7 +14,7 @@ Introduces AndroidIntent to evaluate how GUI agents infer omitted preferences an
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-09636/record.json
 

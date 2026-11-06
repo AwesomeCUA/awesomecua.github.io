@@ -14,7 +14,7 @@ Introduces WebCanvas and Mind2Web-Live, evaluating online task progress through 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-12373/record.json
 

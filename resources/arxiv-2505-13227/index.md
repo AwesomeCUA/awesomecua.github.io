@@ -14,7 +14,7 @@ Introduces OSWorld-G grounding evaluation and the Jedi synthesis pipeline for ex
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-13227/record.json
 

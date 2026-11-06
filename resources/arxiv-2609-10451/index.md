@@ -14,7 +14,7 @@ JarvisGUI composes typed input-output task transformations into dynamic workflow
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-10451/record.json
 

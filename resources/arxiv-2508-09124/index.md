@@ -14,7 +14,7 @@ Introduces OdysseyBench for evaluating long-horizon workflows across office appl
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract names office applications but does not specify how agents interact with their interfaces. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-09124/record.json
 

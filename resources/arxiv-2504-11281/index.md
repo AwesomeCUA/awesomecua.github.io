@@ -14,7 +14,7 @@ Characterizes six forms of GUI-content injection and studies their effects on GU
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-11281/record.json
 

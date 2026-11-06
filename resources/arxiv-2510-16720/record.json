@@ -75,7 +75,7 @@
     }
   ],
   "name": "Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI agents are one application area within a broader survey of agentic AI. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI agents are one application area within a broader survey of agentic AI.",
   "published_at": "2025-10-19",
   "relations": [],
   "review_status": "curated",

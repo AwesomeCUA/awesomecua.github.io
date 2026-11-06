@@ -14,7 +14,7 @@ UIClip assesses UI design quality and visual relevance from screenshots and desc
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). It assesses interface designs and supports design suggestions; the abstract does not describe an agent operating a UI. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-12500/record.json
 

@@ -14,7 +14,7 @@ Bibliographic record for HippoCamp: Benchmarking Contextual Agents on Personal C
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-01221/record.json
 

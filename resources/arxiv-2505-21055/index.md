@@ -14,7 +14,7 @@ Bibliographic record for Agent-Environment Alignment via Automated Interface Gen
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-21055/record.json
 

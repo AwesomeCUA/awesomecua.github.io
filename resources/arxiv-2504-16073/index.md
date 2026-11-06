@@ -14,7 +14,7 @@ Guides visual GUI agents at inference time with a process-reward model that eval
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-16073/record.json
 

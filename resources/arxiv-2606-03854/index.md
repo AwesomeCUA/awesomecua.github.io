@@ -14,7 +14,7 @@ CLI-Anything argues for application interfaces built around structured commands,
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced. Adjacent computer-interface architecture: the described application command harnesses concern computer operation, but no GUI execution or comparative benchmark result is established in the abstract.
+The annotation was reviewed against the complete retained official abstract. Adjacent computer-interface architecture: the described application command harnesses concern computer operation, but no GUI execution or comparative benchmark result is established in the abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-03854/record.json
 

@@ -68,7 +68,7 @@
     }
   ],
   "name": "TimeWarp: Evaluating Web Agents by Revisiting the Past",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-03-05",
   "relations": [],
   "review_status": "curated",

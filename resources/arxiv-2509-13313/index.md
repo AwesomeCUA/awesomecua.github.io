@@ -14,7 +14,7 @@ Introduces ReSum, which compresses interaction histories during long web searche
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The setting is knowledge-intensive web search, rather than general website task execution. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-13313/record.json
 

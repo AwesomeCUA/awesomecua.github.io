@@ -14,7 +14,7 @@ LongMemEval-V2 asks memory systems to recover environment knowledge from long we
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-12493/record.json
 

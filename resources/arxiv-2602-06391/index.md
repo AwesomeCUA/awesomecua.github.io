@@ -14,7 +14,7 @@ Studies GUI-grounding development from a weakly grounded base model through data
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-06391/record.json
 

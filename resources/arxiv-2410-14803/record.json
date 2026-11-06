@@ -135,7 +135,7 @@
     }
   ],
   "name": "DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-10-18",
   "relations": [],
   "review_status": "curated",

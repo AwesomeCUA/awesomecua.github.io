@@ -14,7 +14,7 @@ Introduces UIGuard, a system that examines mobile UI visuals and text to detect 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The work analyzes interface designs rather than having an agent operate mobile apps. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2308-05898/record.json
 

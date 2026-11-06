@@ -14,7 +14,7 @@ Presents a conceptual perception–reasoning–action framework and 12 potential
 
 ## Limitations
 
-Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent, rather than an implemented attack benchmark. Scope was checked against the retained abstract and full-text Sections 2.4 and 3; no results were independently reproduced.
+Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent, rather than an implemented attack benchmark. Scope was checked against the retained abstract and full-text Sections 2.4 and 3.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-10196/record.json
 

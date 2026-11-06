@@ -14,7 +14,7 @@ Extends BrowseSafe with paired attacked and clean webpages in several representa
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-17457/record.json
 

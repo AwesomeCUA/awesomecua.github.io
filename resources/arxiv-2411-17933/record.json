@@ -72,12 +72,15 @@
     }
   ],
   "name": "Automated Test Transfer Across Android Apps Using Large Language Models",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract describes test transfer across mobile apps without naming a mobile operating system. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2024-11-26",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "LLMigrate uses LLMs to transfer usage-based UI tests between mobile apps with similar functions, reducing the need to write tests for each app.",
+  "task_classes": [
+    "R02.07.01.02"
+  ],
   "topics": [
     "mobile-navigation",
     "automation",

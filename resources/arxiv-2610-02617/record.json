@@ -72,7 +72,7 @@
     }
   ],
   "name": "WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness",
-  "notes": "Adjacent evaluation infrastructure: the target is generated WebUI functionality, not a general score for computer-use agents. This annotation is based on the complete retained abstract; released artifacts and experimental results were not independently inspected or reproduced.",
+  "notes": "Adjacent evaluation infrastructure: the target is generated WebUI functionality, not a general score for computer-use agents. This annotation is based on the complete retained abstract.",
   "published_at": "2026-10-02",
   "relations": [],
   "review_status": "curated",

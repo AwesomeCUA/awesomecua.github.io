@@ -14,7 +14,7 @@ Cognitive Chain estimates GUI task difficulty by extracting sequences of cogniti
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its difficulty estimates are compared with user completion time and agent success on cognitively demanding tasks. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its difficulty estimates are compared with user completion time and agent success on cognitively demanding tasks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-09309/record.json
 

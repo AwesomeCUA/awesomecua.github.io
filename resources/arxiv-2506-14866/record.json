@@ -74,7 +74,7 @@
     }
   ],
   "name": "OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents",
-  "notes": "Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.",
+  "notes": "Summary and topic tags reviewed against the primary abstract.",
   "published_at": "2025-06-17",
   "relations": [],
   "review_status": "curated",

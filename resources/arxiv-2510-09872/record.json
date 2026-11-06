@@ -77,12 +77,15 @@
     }
   ],
   "name": "WARC-Bench: Web Archive Based Benchmark for GUI Subtask Executions",
-  "notes": "The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.",
+  "notes": "The annotation was reviewed against the complete retained primary abstract.",
   "published_at": "2025-10-10",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "WARC-Bench packages dynamic web pages as replayable archives and evaluates short navigation subtasks involving components such as date pickers and scrollable containers. It also studies supervised training followed by reinforcement learning with verifiable rewards on these browser interactions.",
+  "task_classes": [
+    "R01.10.01.04"
+  ],
   "topics": [
     "evaluation",
     "web-navigation",

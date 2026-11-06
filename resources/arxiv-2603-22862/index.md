@@ -1,20 +1,20 @@
 # The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration
 
-Bibliographic record for The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Surveys multi-tool LLM agents across planning, training, safety, efficiency, and evaluation, including GUI and mobile systems among its application areas.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2603-22862/
 - Original source: https://arxiv.org/abs/2603.22862
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Kind: survey
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-30T15:04:11Z
+- Topics: survey, tool-integration, planning, evaluation
+- Evidence checked: 2026-11-05T23:02:39Z
 - ID: arxiv:2603.22862
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI and mobile systems are representative application areas within a broader survey of multi-tool agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-22862/record.json
 
@@ -46,3 +46,4 @@ Haoyuan Xu, Chang Li, Xinyan Ma, Xianhao Ou, Zihan Zhang, Tao He, Xiangyu Liu, Z
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2603.22862%2C2604.01707%2C2605.07937%2C2605.17634%2C2606.04329%2C2610.38174%2C2610.39924&max_results=7 (retrieved 2026-10-30T15:04:11Z; SHA-256 7f9256183f3e2b1fab34f9f3216857e7c0ebe0945482301c048fb28b4301a0dd)
+- https://export.arxiv.org/api/query?id_list=2603.00842%2C2603.00991%2C2603.01050%2C2603.01104%2C2603.01145%2C2603.01152%2C2603.02236%2C2603.02795%2C2603.03278%2C2603.03296%2C2603.04549%2C2603.05294%2C2603.06713%2C2603.07024%2C2603.07106%2C2603.07670%2C2603.07853%2C2603.07915%2C2603.08316%2C2603.08706%2C2603.08938%2C2603.09716%2C2603.10002%2C2603.10291%2C2603.11139%2C2603.11320%2C2603.11862%2C2603.12483%2C2603.12710%2C2603.13026%2C2603.13247%2C2603.14248%2C2603.16289%2C2603.16839%2C2603.17216%2C2603.17378%2C2603.17826%2C2603.18059%2C2603.19313%2C2603.19375%2C2603.20278%2C2603.20576%2C2603.21489%2C2603.22527%2C2603.22862%2C2603.22917%2C2603.23526%2C2603.23559%2C2603.23638%2C2603.24160&max_results=50 (retrieved 2026-11-05T23:02:39Z; SHA-256 f5b28ee113a96eb4a774bcdfd6a1e8ee51307a79bf0d99c8a0817e0be2dc82ab)

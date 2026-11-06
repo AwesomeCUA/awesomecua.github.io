@@ -6,12 +6,30 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
 
 ## 论文与综述
 
+- [Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2611-05873/) — 2026-11-04
+  AdaptiTest specifies scoped, revalidated memory for an LLM-based mobile GUI tester to reuse routes and locators across read-only Android test workflows.
+- [CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://awesomecua.com/resources/arxiv-2611-03126/) — 2026-11-02
+  Introduces CUA-Master, a computer-use training framework that mines workflows from instructional videos and turns them into synthesized tasks and trajectories.
+- [LADS: Lease-Aware Delivery Scheduling of Tool Results for Language Model Agents](https://awesomecua.com/resources/arxiv-2611-00881/) — 2026-10-31
+  Introduces LADS, a scheduler for returning browser-action results to web agents, using cache leases and estimated resumption delay to reduce workflow latency.
+- [Harness-Model Collaboration for Long-Horizon Continual Learning](https://awesomecua.com/resources/arxiv-2610-34724/) — 2026-10-26
+  Introduces HaMo, a continual-learning framework for web agents that retrieves strategy cards from past workflows and updates model parameters to reuse them.
+- [AgentProofBench: Benchmarking Reusable Verifiers for Web Agents](https://awesomecua.com/resources/arxiv-2610-34634/) — 2026-10-25
+  Introduces AgentProofBench, a benchmark linking tests of reusable web-agent verification rules to subsequent execution from saved web states.
+- [Evolving Agent Interfaces](https://awesomecua.com/resources/arxiv-2610-28601/) — 2026-10-20
+  Agent S4 uses task trajectories to evolve interfaces and usage guidance for a computer-use agent, selecting changes through validation tasks.
+- [Step-Aligned Script Generation with Verification and Recovery for Web Automation Testing](https://awesomecua.com/resources/arxiv-2610-25601/) — 2026-10-19
+  Presents TESSARA, which turns natural-language web test intent into Playwright scripts, linking each browser interaction to selector evidence, outcomes, and repair history.
+- [Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards](https://awesomecua.com/resources/arxiv-2610-22448/) — 2026-10-15
+  Lean4AgenticRL formalizes workflow stages and process rewards for reinforcement learning on software engineering and terminal-use tasks, an adjacent setting for interface agents.
 - [Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution](https://awesomecua.com/resources/arxiv-2610-20100/) — 2026-10-14
   Presents TaskVM, an interface for specifying desired and preserved application state, checking agent actions, and exposing whether changes can be reversed or compensated.
 - [CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline](https://awesomecua.com/resources/arxiv-2610-19128/) — 2026-10-13
   Introduces CLASHarness, generating verifiable computer-use tasks with conflicting agent reports, shared-state constraints, and coordination requirements to evaluate conflict detection and resolution.
 - [WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution](https://awesomecua.com/resources/arxiv-2610-18067/) — 2026-10-13
   Synthesizes resettable workspaces with files, application observations and skills; repairs environment incompatibilities and trains long-task agents using verifier-linked turn credit.
+- [EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications](https://awesomecua.com/resources/arxiv-2610-16402/) — 2026-10-12
+  Introduces EvoWeb, a benchmark for coding agents that extend web applications through dependent requests; a multimodal web agent checks each version in a live browser.
 - [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://awesomecua.com/resources/arxiv-2610-12984/) — 2026-10-09
   Aligns human screen recordings, input events, and accessibility information to derive reusable workflow skills from desktop demonstrations.
 - [TeleTune: Evolving Agent Skills From Offline Telemetry](https://awesomecua.com/resources/arxiv-2610-05437/) — 2026-10-04
@@ -38,6 +56,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   CADWorld evaluates screenshot-and-GUI agents on long FreeCAD workflows, from modeling and assembly to manufacturing and simulation. Executable checks inspect saved engineering artifacts for geometry, constraints, construction structure and downstream state.
 - [AutoTailor: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents](https://awesomecua.com/resources/arxiv-2609-13548/) — 2026-09-11
   AutoTailor compiles web trajectories into reusable browser-automation APIs, then filters and dynamically revises the capability inventory. WebArena experiments distinguish API-only operation from an agent that can fall back to ordinary reasoning and browser actions.
+- [OmniStepBench: Deployment-Aware Agent Evaluation across Modalities and Task Complexity](https://awesomecua.com/resources/arxiv-2609-06059/) — 2026-09-05
+  Introduces OmniStepBench, a shared-environment benchmark for evaluating multimodal agents on multi-step tasks, tool use, and delivered artifacts under one scoring protocol.
 - [From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2609-04869/) — 2026-09-04
   An online skill-evolution framework turns GUI interaction traces and evaluator feedback into a versioned library of reusable procedures without updating model parameters. Controlled OSWorld comparisons examine both the benefits of shared procedural memory and its domain-dependent instability under repeated revision.
 - [OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations](https://awesomecua.com/resources/arxiv-2609-02149/) — 2026-09-02
@@ -46,24 +66,46 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Uses typed browser interaction contracts to accept web-code improvements only when target progress and previously verified capabilities are preserved. Accepted transitions supply self-improvement data.
 - [A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security](https://awesomecua.com/resources/arxiv-2608-29596/) — 2026-08-30
   Surveys modular agentic skill architectures, skill lifecycles, and security risks in autonomous tool- and interface-using agents.
+- [Benchmarking General Mobile Assistants in Challenging Real-World Scenarios](https://awesomecua.com/resources/arxiv-2608-27477/) — 2026-08-21
+  Introduces GMA, a benchmark of 300 mobile-assistant tasks across seven applications, and studies how agent context retention and state tracking affect complex workflows.
 - [Inducing Task Models from Computer-Use Traces](https://awesomecua.com/resources/arxiv-2608-20319/) — 2026-08-20
   Task Model Induction disentangles concurrent activities in screenshot and mouse/keyboard traces, then constructs hierarchical goals and procedural control flow for each task. Evaluation tests reconstruction of observed execution and reuse of derived skills on held-out tasks.
 - [UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://awesomecua.com/resources/arxiv-2608-15930/) — 2026-08-16
   Combines environment-grounded training with demonstration-conditioned workflows, and introduces OSWorkerBench for extended office-task evaluation.
+- [StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling](https://awesomecua.com/resources/arxiv-2608-15089/) — 2026-08-15
+  Introduces StateM, a stateful runtime with checked transitions and reusable runbooks for long-horizon agents; its reported evaluations use terminal and business tasks.
 - [LegacyWorld: Atomicity-Aware Evaluation of GUI Agents for Legacy Workflows](https://awesomecua.com/resources/arxiv-2608-14131/) — 2026-08-14
   LegacyWorld evaluates Windows GUI workflows under an atomicity criterion: finish correctly or fail without persistent unintended changes. It compares expert prompts with prompts derived from recorded golden paths and separates useful completion, safe failure and non-atomic side effects.
+- [CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications](https://awesomecua.com/resources/arxiv-2608-11588/) — 2026-08-12
+  Introduces CoAdapt-GUI, which adapts workflow context and policy from a mobile GUI agent's own rollouts and rewards when it encounters unseen applications.
 - [DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?](https://awesomecua.com/resources/arxiv-2608-10366/) — 2026-08-11
   DSAgentBench evaluates end-to-end data-science workflows spanning analysis, modeling and visualization inside a real desktop environment. Task evaluators check produced analytical and visual artifacts, while the released interface supports screenshot or accessibility observations and GUI actions.
+- [SynChain: Inducing Computer-Use Agent Systems to Construct Their Own Attack Chains](https://awesomecua.com/resources/arxiv-2608-06862/) — 2026-08-07
+  Introduces SynChain, an attack that induces persistent agents to create poisoned skills or memory entries, and CUAChain for evaluating later attack-chain activation.
+- [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](https://awesomecua.com/resources/arxiv-2607-27155/) — 2026-07-29
+  Introduces OmegaUse-OfficeVal, a benchmark for long-horizon office-suite agent tasks with labor-time and price signals, plus rubric-based code verifiers.
+- [SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems](https://awesomecua.com/resources/arxiv-2607-25255/) — 2026-07-28
+  Introduces SafeFlow, a semantic information-flow defense for multi-agent delegation, evaluated on safety tasks that include harmful web-agent behavior.
+- [DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations](https://awesomecua.com/resources/arxiv-2607-19865/) — 2026-07-22
+  Introduces DocOps, a verifiable benchmark for agents handling complex digital-document workflows, with analysis of state tracking, semantic checks, and structural edits.
 - [Plover: Steering GUI Agents through Plan-Centric Interaction](https://awesomecua.com/resources/arxiv-2607-15193/) — 2026-07-16
   Plover exposes GUI-agent plans and replanning as persistent artifacts that users can inspect and edit during execution. Its planner–executor design supports localized correction through plan edits, language guidance and screenshot-grounded interventions, studied through failure repair and workflow scenarios.
+- [PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks](https://awesomecua.com/resources/arxiv-2606-31154/) — 2026-06-30
+  Introduces PPT-Eval, a benchmark of PowerPoint creation and editing tasks for computer-use agents, with rubrics that score partial progress and presentation quality.
+- [SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows](https://awesomecua.com/resources/arxiv-2606-29955/) — 2026-06-29
+  Introduces SpreadsheetBench 2, a benchmark of multi-sheet business spreadsheet workflows for agents, covering generation, debugging, and visualization tasks.
 - [OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks](https://awesomecua.com/resources/arxiv-2606-29537/) — 2026-06-28
   Introduces extended computer-use workflows with realistic artifacts, changing information, hidden state, and partial-progress and safety assessments.
 - [GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-24551/) — 2026-06-22
   This benchmark matches desktop goals, initial states and final-state verifiers across screen-only GUI and skill-mediated CLI agents. Its experiments separate graphical execution failures from missing CLI skill coverage, including a verifier-guided skill-augmentation condition.
 - [ChainWorld: Composing Long-Horizon Desktop Workloads from Atomic OSWorld Tasks](https://awesomecua.com/resources/arxiv-2606-21654/) — 2026-06-19
   ChainWorld composes compatible atomic OSWorld tasks into multi-objective desktop chains while preserving their evaluators. It compares giving the full sequence at once with revealing goals turn by turn, exposing different state and session-management failures.
+- [Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns](https://awesomecua.com/resources/arxiv-2606-17645/) — 2026-06-16
+  Introduces SkillMigrator, a web agent that turns successful interactions into reusable skills and transfers them between sites by matching page layouts and live element references.
 - [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-16748/) — 2026-06-15
   MyPCBench tests personal-assistant tasks on a Linux desktop with simulated web applications and data for a single fictional persona. A shared computer-and-shell interface enables evaluation of cross-application workflows that depend on personal context and account-like state.
+- [LLM-as-Code: Agentic Programming for Agent Harness](https://awesomecua.com/resources/arxiv-2606-15874/) — 2026-06-14
+  Proposes Agentic Programming, where code controls agent loops and invokes LLM-as-Code for reasoning; a computer-use case study examines long visual action sequences.
 - [PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions](https://awesomecua.com/resources/arxiv-2606-14832/) — 2026-06-12
   PhoneHarness routes phone workflows across GUI actions, device-side commands and host tools while retaining auditable execution traces. Its accompanying benchmark checks observable task side effects, separating mixed-action execution from plausible final-answer generation.
 - [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://awesomecua.com/resources/arxiv-2606-11042/) — 2026-06-09
@@ -74,18 +116,28 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   WeaveBench requires agents to combine GUI, command-line and code operations within long tasks on an Ubuntu desktop. A trajectory-aware judge checks deliverables and interaction evidence, including shortcut behavior that outcome-only grading can miss.
 - [Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](https://awesomecua.com/resources/arxiv-2606-04391/) — 2026-06-03
   State-Grounded Dynamic Retrieval extracts reusable sub-procedures from completed web trajectories and represents them as paired text and code. Skills are retrieved against both the current webpage state and the task goal at intermediate execution steps.
+- [SkillHarness: Harnessing Safe Skills for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-20636/) — 2026-06-02
+  Introduces SkillHarness, a framework for computer-use agents to learn and reuse skills under safety constraints when interactions include prompt injections or pop-ups.
+- [Demo2Tutorial: From Human Experience to Multimodal Software Tutorials](https://awesomecua.com/resources/arxiv-2606-03951/) — 2026-06-02
+  Introduces Demo2Tutorial, which turns recorded software interactions into multimodal tutorials with task graphs and reports benefits for GUI-agent planning.
 - [CLI-Anything: Towards Agent-Native Computer Use](https://awesomecua.com/resources/arxiv-2606-03854/) — 2026-06-02
   CLI-Anything argues for application interfaces built around structured commands, explicit state and execution feedback. It describes transforming existing software into command-line harnesses and organizing that approach through CLI-Hub.
 - [MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-03203/) — 2026-06-02
   MedCUA-Bench evaluates screenshot-only clinical interface workflows using paired intent- and step-level goals. It combines reconstructed medical interfaces with completion and clinical-safety checks, and separately reports results on a real OpenEMR system.
 - [DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration](https://awesomecua.com/resources/arxiv-2606-03103/) — 2026-06-02
   DeskCraft evaluates professional desktop workflows and human-agent collaboration through mid-execution clarification, interruption and post-completion feedback. Its tasks cover creative applications and expose difficulties in long-horizon execution and proactive clarification.
+- [Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models](https://awesomecua.com/resources/arxiv-2606-02208/) — 2026-06-01
+  Studies staged prompting for automated mobile UI element annotation, comparing workflow depths and element groupings on expert-annotated MUIAnno screens.
 - [Multi-Agent Computer Use](https://awesomecua.com/resources/arxiv-2606-01533/) — 2026-06-01
   MACU represents computer-use objectives as a dependency graph whose manager dispatches parallel subagents and revises tasks as new information arrives. Desktop and web experiments examine coordination, information handoff and task-completion time.
+- [BlueFin: Benchmarking LLM Agents on Financial Spreadsheets](https://awesomecua.com/resources/arxiv-2605-30907/) — 2026-05-29
+  Introduces BlueFin, a benchmark and evaluation framework for agents handling professional finance spreadsheet workbooks through synthesis, manipulation, and comprehension tasks.
 - [Syll: Open-Source Personal Automation with Cross-Surface Execution](https://awesomecua.com/resources/arxiv-2606-07594/) — 2026-05-28
   Syll combines tool calls, shell execution and visual GUI control in a personal-automation runtime. It turns user demonstrations into reusable skills and exposes execution logs, keyframes and approval checkpoints for inspection.
 - [GUI Agents for Continual Game Generation](https://awesomecua.com/resources/arxiv-2605-28258/) — 2026-05-27
   PlaytestArena evaluates generated browser games using expected in-play behaviors adjudicated by GUI agents. Play2Code pairs a coding agent with a rubric-blind GUI playtester whose interaction traces and feedback guide iterative refinement, with a separate final judge.
+- [Anchor: Preventing Artifact Drift for Reliable Agent Verification](https://awesomecua.com/resources/arxiv-2605-26321/) — 2026-05-25
+  Anchor builds ERP-Bench by generating procurement and manufacturing tasks with shared state verifiers for evaluating browser and computer-use agents.
 - [Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World](https://awesomecua.com/resources/arxiv-2605-26086/) — 2026-05-25
   Claw-Anything benchmarks persistent personal assistance across activity histories, backend services and integrated GUI/CLI interaction. Its simulated event histories introduce irrelevant or conflicting context, and a separate generation pipeline supplies training environments.
 - [SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?](https://awesomecua.com/resources/arxiv-2605-15777/) — 2026-05-15
@@ -98,18 +150,38 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Introduces WindowsWorld for professional workflows spanning multiple desktop applications, with generated tasks refined through human review. Intermediate subgoals support process-oriented evaluation of cross-application reasoning and execution efficiency.
 - [PlayCoder: Making LLM-Generated GUI Code Playable](https://awesomecua.com/resources/arxiv-2604-19742/) — 2026-04-21
   PlayEval measures whether generated GUI applications remain logically playable, using PlayTester to execute task-oriented GUI playthroughs. PlayCoder closes the loop between repository-aware generation, interactive testing and targeted code repair.
+- [AutomationBench](https://awesomecua.com/resources/arxiv-2604-18934/) — 2026-04-21
+  Introduces AutomationBench, a benchmark for agents coordinating business workflows across applications through REST APIs, including endpoint discovery and policy adherence.
+- [AppAgent-Claw: CLI Is All You Need for GUI Automation](https://awesomecua.com/resources/arxiv-2606-05171/) — 2026-04-15
+  Introduces AppAgent-Claw, which records demonstrated GUI workflows as reusable OpenClaw skills, locates visual targets during replay and checks intended on-screen effects.
 - [AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents](https://awesomecua.com/resources/arxiv-2604-16520/) — 2026-04-15
   AgentClick gives terminal-based agents a browser review interface for plans, drafts, execution traces and editable memory. A local server and skill plugin let users inspect proposed actions and provide structured feedback.
+- [Towards Scalable Lightweight GUI Agents via Multi-role Orchestration](https://awesomecua.com/resources/arxiv-2604-13488/) — 2026-04-15
+  Introduces LAMO, a training framework for a lightweight GUI agent that can execute tasks alone or serve as an action executor alongside planners in multi-agent workflows.
+- [Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization](https://awesomecua.com/resources/arxiv-2604-11259/) — 2026-04-13
+  Proposes Trajectory Induced Preference Optimization (TIPO) to train mobile GUI agents for differing user privacy preferences across structurally different task trajectories.
 - [HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks](https://awesomecua.com/resources/arxiv-2604-09937/) — 2026-04-10
   Introduces HealthAdminBench with GUI environments for an electronic health record, payer portals and fax handling. Expert-defined administrative tasks are decomposed into verifiable subtasks to compare local progress with end-to-end workflow completion.
 - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://awesomecua.com/resources/arxiv-2604-08523/) — 2026-04-09
   Introduces ClawBench, 153 everyday tasks on production websites in 15 categories; an interception layer blocks each final submission so bookings, purchases and job applications are scored without side effects.
+- [Agentic Compilation: Mitigating the LLM Rerun Crisis for Minimized-Inference-Cost Web Automation](https://awesomecua.com/resources/arxiv-2604-09718/) — 2026-04-08
+  Proposes Compile-and-Execute, which turns a sanitized DOM into a reusable JSON workflow so repetitive browser tasks can run without further model queries.
+- [MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://awesomecua.com/resources/arxiv-2604-06134/) — 2026-04-07
+  Introduces MAESTRO, a conversational GUI system that remembers user preferences, adapts interface options, and guides backtracking in multistep booking decisions.
 - [GPA: Learning GUI Process Automation from Demonstrations](https://awesomecua.com/resources/arxiv-2604-01676/) — 2026-04-02
   Presents demonstration-based GUI process replay with Sequential Monte Carlo localization and readiness checks. GPA executes the learned workflow locally and can serve as the GUI execution component of an agent using MCP or CLI tools.
 - [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2603-24440/) — 2026-03-25
   CUA-Suite combines continuous expert desktop demonstrations in VideoCUA with the UI-Vision evaluation benchmark and GroundCUA grounding data. Screen recordings, cursor traces and layered annotations support study of temporal behavior and professional software workflows.
+- [Towards Automated Crowdsourced Testing via Personified-LLM](https://awesomecua.com/resources/arxiv-2603-24160/) — 2026-03-25
+  Introduces PersonaTester, a framework that gives LLM agents tester personas to vary their exploration and interaction habits during automated crowdsourced GUI testing.
 - [CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare](https://awesomecua.com/resources/arxiv-2603-24157/) — 2026-03-25
   CareFlow benchmarks long healthcare-software workflows, while CarePilot coordinates action proposals, execution checks and corrective feedback using short- and long-term memory. Its actor consumes visual interfaces and system state to select semantic actions.
+- [AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://awesomecua.com/resources/arxiv-2603-08938/) — 2026-03-09
+  Proposes Personal Agent Operating System (AgentOS), with a natural language or voice portal and an Agent Kernel that coordinates agents and tasks in place of a GUI desktop.
+- [MobiFlow: Real-World Mobile Agent Benchmarking through Trajectory Fusion](https://awesomecua.com/resources/arxiv-2604-09587/) — 2026-02-28
+  Introduces MobiFlow, a mobile-agent evaluation framework that fuses task trajectories into a state graph for dynamic interaction with third-party apps and measures task outcomes.
+- [Web Agents Should Use Typed Actions Instead of Click-Based Browsing](https://awesomecua.com/resources/arxiv-2602-17245/) — 2026-02-19
+  Proposes web verbs as typed actions for web agents, exposing operations with structured inputs, outputs and conditions so agents can compose auditable workflows.
 - [EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://awesomecua.com/resources/arxiv-2602-14865/) — 2026-02-16
   EmbeWebAgent embeds agent access into existing web applications through frontend observations and a page-specific function registry. Its workflow combines GUI primitives, composite actions and MCP tools, demonstrated in a live interface.
 - [A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)](https://awesomecua.com/resources/arxiv-2602-14364/) — 2026-02-16

@@ -57,7 +57,7 @@
     }
   ],
   "name": "GroundGUI training and evaluation code",
-  "notes": "The repository documents separate training-stage environments. Code, model weights, and ScreenRef data have distinct license declarations; no training or benchmark execution was reproduced here.",
+  "notes": "The repository documents separate training-stage environments. Code, model weights, and ScreenRef data have distinct license declarations.",
   "published_at": null,
   "relations": [
     {

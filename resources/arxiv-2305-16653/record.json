@@ -72,7 +72,7 @@
     }
   ],
   "name": "AdaPlanner: Adaptive Planning from Feedback with Language Models",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. This is a general planning framework; MiniWoB++ supplies the interface-agent evidence, while ALFWorld is a separate environment.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. This is a general planning framework; MiniWoB++ supplies the interface-agent evidence, while ALFWorld is a separate environment.",
   "published_at": "2023-05-26",
   "relations": [],
   "review_status": "curated",

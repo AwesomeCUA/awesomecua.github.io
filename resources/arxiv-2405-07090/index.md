@@ -14,7 +14,7 @@ MUD combines LLM-guided Android app exploration, noise filtering and human annot
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2405-07090/record.json
 

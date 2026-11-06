@@ -41,7 +41,7 @@
     }
   ],
   "name": "VeriOS",
-  "notes": "The released scripts evaluate recorded task inputs; the retained README does not establish a live Android execution environment. No runtime behavior or reported results were independently reproduced.",
+  "notes": "The released scripts evaluate recorded task inputs; the retained README does not establish a live Android execution environment.",
   "published_at": null,
   "relations": [
     {

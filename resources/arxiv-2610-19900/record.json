@@ -83,7 +83,7 @@
     }
   ],
   "name": "How GUI Agents Fail: GraceBench for Execution Stability Diagnosis",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. Android platform tagging is additionally supported by the primary project documentation.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Android platform tagging is additionally supported by the primary project documentation.",
   "published_at": "2026-10-14",
   "relations": [],
   "review_status": "curated",

@@ -77,12 +77,15 @@
     }
   ],
   "name": "InstructExcel: A Benchmark for Natural Language Instruction in Excel",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. This is an application-specific automation benchmark grounded in recorded Excel user actions. Its execution interface is OfficeScripts, so it is adjacent rather than a visual GUI navigation benchmark.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. This is an application-specific automation benchmark grounded in recorded Excel user actions. Its execution interface is OfficeScripts, so it is adjacent rather than a visual GUI navigation benchmark.",
   "published_at": "2023-10-23",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from natural-language requests, built using scripts recorded from user actions and a collection of existing spreadsheets.",
+  "task_classes": [
+    "R04.03.01.06"
+  ],
   "topics": [
     "evaluation",
     "workflow",

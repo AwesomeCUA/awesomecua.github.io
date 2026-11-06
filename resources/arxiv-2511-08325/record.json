@@ -82,7 +82,7 @@
     }
   ],
   "name": "AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method addresses agent tasks broadly, with web shopping and browser navigation named as examples. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method addresses agent tasks broadly, with web shopping and browser navigation named as examples.",
   "published_at": "2025-11-11",
   "relations": [],
   "review_status": "curated",

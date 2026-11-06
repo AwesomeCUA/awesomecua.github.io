@@ -20,7 +20,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -37,6 +37,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2610.35138%2C2610.35215%2C2610.37786%2C2610.39488&max_results=4"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:03:27Z",
+      "role": "primary",
+      "sha256": "cd003d4cacebd66199af72512540e354913873d95494ac7a529d2a6b8d92e06b",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2610.34735%2C2610.34959%2C2610.35138%2C2610.35215%2C2610.35237%2C2610.35541%2C2610.35823%2C2610.36471%2C2610.36831%2C2610.36874%2C2610.36877%2C2610.37093%2C2610.37255%2C2610.37482%2C2610.37786%2C2610.38174%2C2610.38438%2C2610.39234%2C2610.39251%2C2610.39264%2C2610.39282%2C2610.39488%2C2610.39924%2C2610.40133%2C2610.40246%2C2610.40578%2C2610.40747%2C2610.40754%2C2610.41181%2C2610.41272%2C2610.41397%2C2610.41432%2C2610.41460%2C2610.41998%2C2611.00169%2C2611.00191%2C2611.00881%2C2611.00884%2C2611.00926%2C2611.01351%2C2611.01860%2C2611.01891%2C2611.02102%2C2611.02472%2C2611.02644%2C2611.03116%2C2611.03126%2C2611.03178%2C2611.03238%2C2611.03634&max_results=50"
     }
   ],
   "id": "arxiv:2610.39488",
@@ -44,7 +60,7 @@
     "arxiv": "2610.39488"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-30T05:50:33Z",
+  "last_verified_at": "2026-11-05T23:03:27Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -53,18 +69,25 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2610.39488"
     }
   ],
   "name": "InterA11y: Interactive Web Accessibility Error Detection with LLM Agents",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The evaluation covers 197 expert-annotated cases from 54 real webpages.",
   "published_at": "2026-10-29",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces InterA11y, a web accessibility evaluation system that guides LLM agents with rubrics and tools for inspecting and operating pages.",
+  "task_classes": [
+    "R02.07.01.03"
+  ],
+  "topics": [
+    "evaluation",
+    "web-navigation",
+    "tool-integration"
+  ],
   "updated_at": "2026-10-29",
   "url": "https://arxiv.org/abs/2610.39488"
 }

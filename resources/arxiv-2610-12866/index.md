@@ -14,7 +14,7 @@ Presents CaptchaAgent, which builds an explicit visual representation of objects
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-12866/record.json
 

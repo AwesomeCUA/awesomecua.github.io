@@ -84,7 +84,7 @@
     }
   ],
   "name": "AgentSentinel: An End-to-End and Real-Time Security Defense Framework for Computer-Use Agents",
-  "notes": "Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The official full paper confirms GUI/desktop interaction alongside Bash and file tools. Its abstract and body enumerate attack categories differently; no category count is promoted into this annotation.",
+  "notes": "Reviewed against the complete retained original arXiv abstract. The official full paper confirms GUI/desktop interaction alongside Bash and file tools. Its abstract and body enumerate attack categories differently; no category count is promoted into this annotation.",
   "published_at": "2025-09-09",
   "relations": [],
   "review_status": "curated",

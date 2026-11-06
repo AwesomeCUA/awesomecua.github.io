@@ -14,7 +14,7 @@ Infogent separates navigation, extraction and aggregation for web information ga
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its evaluation includes both API-driven access and interactive visual browser access. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its evaluation includes both API-driven access and interactive visual browser access.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-19054/record.json
 

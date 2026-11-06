@@ -14,7 +14,7 @@ The Self-Evolution Agent combines automatic generation of verifiable computer-us
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-04037/record.json
 

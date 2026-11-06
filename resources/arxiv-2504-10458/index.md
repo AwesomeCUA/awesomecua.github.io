@@ -14,7 +14,7 @@ Applies reinforcement fine-tuning with unified action rules and curated cross-pl
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-10458/record.json
 

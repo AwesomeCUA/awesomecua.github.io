@@ -14,7 +14,7 @@ Introduces GuirlVG, an empirical study of reinforcement fine-tuning for GUI visu
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-04389/record.json
 

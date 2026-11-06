@@ -841,6 +841,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.00073v4",
+    "archive": "arXiv",
+    "archive_location": "2604.00073",
+    "author": [
+      {
+        "literal": "Patrice Bechard"
+      },
+      {
+        "literal": "Orlando Marquez Ayala"
+      },
+      {
+        "literal": "Emily Chen"
+      },
+      {
+        "literal": "Jordan Skelton"
+      },
+      {
+        "literal": "Sagar Davasam"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Vikas Yadav"
+      },
+      {
+        "literal": "Sai Rajeswar"
+      }
+    ],
+    "citation-key": "arxiv_2604_00073",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "93eb667bf6af8fe98bdbf5930c6a2f67a7fa0b74dda8b3f0667ddefa58a0aa7b",
+        "submitted_at": "2026-03-31T14:14:47Z",
+        "updated_at": "2026-10-14T14:23:23Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2604.00073v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.00073",
+      "catalog_id": "arxiv:2604.00073",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-03-31",
+      "identifiers": {
+        "arxiv": "2604.00073"
+      },
+      "record_updated_at": "2026-10-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.00073",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-31; Recorded arXiv version: v4; Recorded version updated: 2026-10-14T14:23:23Z.",
+    "title": "Terminal Agents Suffice for Enterprise Automation",
+    "type": "article",
+    "version": "4"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.09937v1",
     "archive": "arXiv",
     "archive_location": "2604.09937",
@@ -925,6 +992,575 @@
     },
     "note": "First published: 2026-04-10; Recorded arXiv version: v1; Recorded version updated: 2026-04-10T22:33:39Z.",
     "title": "HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.13531v1",
+    "archive": "arXiv",
+    "archive_location": "2604.13531",
+    "author": [
+      {
+        "literal": "Renqi Chen"
+      },
+      {
+        "literal": "Zeyin Tao"
+      },
+      {
+        "literal": "Jianming Guo"
+      },
+      {
+        "literal": "Jing Wang"
+      },
+      {
+        "literal": "Zezhou Xu"
+      },
+      {
+        "literal": "Jingzhe Zhu"
+      },
+      {
+        "literal": "Qingqing Sun"
+      },
+      {
+        "literal": "Tianyi Zhang"
+      },
+      {
+        "literal": "Shuai Chen"
+      }
+    ],
+    "citation-key": "arxiv_2604_13531",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "580d3643d55d47160d790bda593ee07279ed6f7fd6ba62b3bfe3491a859db315",
+        "submitted_at": "2026-04-15T06:27:49Z",
+        "updated_at": "2026-04-15T06:27:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.13531v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.13531",
+      "catalog_id": "arxiv:2604.13531",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-15",
+      "identifiers": {
+        "arxiv": "2604.13531"
+      },
+      "record_updated_at": "2026-04-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.13531",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T06:27:49Z.",
+    "title": "RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.26321v2",
+    "archive": "arXiv",
+    "archive_location": "2605.26321",
+    "author": [
+      {
+        "literal": "Abhijay Rana"
+      },
+      {
+        "literal": "Maksim Ivanov"
+      }
+    ],
+    "citation-key": "arxiv_2605_26321",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "45c6dc021daac8281288c7f224fff56b3cb1b9f88c9486dc0c70dc8f82dc2c90",
+        "submitted_at": "2026-05-25T20:44:17Z",
+        "updated_at": "2026-10-30T18:47:40Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.26321v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.26321",
+      "catalog_id": "arxiv:2605.26321",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-25",
+      "identifiers": {
+        "arxiv": "2605.26321"
+      },
+      "record_updated_at": "2026-10-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.26321",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-25; Recorded arXiv version: v2; Recorded version updated: 2026-10-30T18:47:40Z.",
+    "title": "Anchor: Preventing Artifact Drift for Reliable Agent Verification",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.30907v1",
+    "archive": "arXiv",
+    "archive_location": "2605.30907",
+    "author": [
+      {
+        "literal": "Srivatsa Kundurthy"
+      },
+      {
+        "literal": "Clara Na"
+      },
+      {
+        "literal": "Colton Moraine"
+      },
+      {
+        "literal": "Anoushka Mohta"
+      },
+      {
+        "literal": "Case Winter"
+      },
+      {
+        "literal": "George Fang"
+      },
+      {
+        "literal": "John Ling"
+      },
+      {
+        "literal": "Emma Strubell"
+      },
+      {
+        "literal": "Zach Kirshner"
+      }
+    ],
+    "citation-key": "arxiv_2605_30907",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "60fcacb09c856c24b1afb35ff426e6bae0d03b02086333389cc301f270fd53d0",
+        "submitted_at": "2026-05-29T06:43:23Z",
+        "updated_at": "2026-05-29T06:43:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.30907v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.30907",
+      "catalog_id": "arxiv:2605.30907",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-05-29",
+      "identifiers": {
+        "arxiv": "2605.30907"
+      },
+      "record_updated_at": "2026-05-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.30907",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T06:43:23Z.",
+    "title": "BlueFin: Benchmarking LLM Agents on Financial Spreadsheets",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.29955v1",
+    "archive": "arXiv",
+    "archive_location": "2606.29955",
+    "author": [
+      {
+        "literal": "Jian Zhu"
+      },
+      {
+        "literal": "Yuzheng Zhang"
+      },
+      {
+        "literal": "Zeyao Ma"
+      },
+      {
+        "literal": "Bohan Zhang"
+      },
+      {
+        "literal": "Armin Schoepf"
+      },
+      {
+        "literal": "Daniel Woloch"
+      },
+      {
+        "literal": "Peter Yiliu Wang"
+      },
+      {
+        "literal": "Guangyu Robert Yang"
+      },
+      {
+        "literal": "Samuel Jacob"
+      },
+      {
+        "literal": "Siddharth Nagisetty"
+      },
+      {
+        "literal": "Abhiram Chundru"
+      },
+      {
+        "literal": "Jean Lin"
+      },
+      {
+        "literal": "Spencer Mateega"
+      },
+      {
+        "literal": "Jing Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2606_29955",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8b5691e4b07d0d9f49bdc3c3f5282d05b7a278f4aebe2dc341586ae275f5847c",
+        "submitted_at": "2026-06-29T08:33:52Z",
+        "updated_at": "2026-06-29T08:33:52Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.29955v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.29955",
+      "catalog_id": "arxiv:2606.29955",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-06-29",
+      "identifiers": {
+        "arxiv": "2606.29955"
+      },
+      "record_updated_at": "2026-06-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.29955",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-29; Recorded arXiv version: v1; Recorded version updated: 2026-06-29T08:33:52Z.",
+    "title": "SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.27155v2",
+    "archive": "arXiv",
+    "archive_location": "2607.27155",
+    "author": [
+      {
+        "literal": "Jingbo Zhou"
+      },
+      {
+        "literal": "Yusai Zhao"
+      },
+      {
+        "literal": "Qi Bao"
+      },
+      {
+        "literal": "Jingjia Cao"
+      },
+      {
+        "literal": "Zhenghai Chen"
+      },
+      {
+        "literal": "Chang Gao"
+      },
+      {
+        "literal": "Kaiqi Guo"
+      },
+      {
+        "literal": "Muxin Guo"
+      },
+      {
+        "literal": "Mingxuan Li"
+      },
+      {
+        "literal": "Xinjiang Lu"
+      },
+      {
+        "literal": "Yanru Ma"
+      },
+      {
+        "literal": "Yixiong Xiao"
+      },
+      {
+        "literal": "Zenghui Zhang"
+      },
+      {
+        "literal": "Le Zhang"
+      },
+      {
+        "literal": "Hua Wu"
+      }
+    ],
+    "citation-key": "arxiv_2607_27155",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8e743f464b2ca509f50d372e0f9dc9a49397ffb6f4d24be66452284557c97ad6",
+        "submitted_at": "2026-07-29T17:33:47Z",
+        "updated_at": "2026-08-18T12:27:28Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.27155v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.27155",
+      "catalog_id": "arxiv:2607.27155",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-07-29",
+      "identifiers": {
+        "arxiv": "2607.27155"
+      },
+      "record_updated_at": "2026-08-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.27155",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-29; Recorded arXiv version: v2; Recorded version updated: 2026-08-18T12:27:28Z.",
+    "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.07603v1",
+    "archive": "arXiv",
+    "archive_location": "2609.07603",
+    "author": [
+      {
+        "literal": "Jingpu Yang"
+      },
+      {
+        "literal": "Fengxian Ji"
+      },
+      {
+        "literal": "Jinri Guo"
+      },
+      {
+        "literal": "Tianhao Li"
+      },
+      {
+        "literal": "Qian Jiang"
+      },
+      {
+        "literal": "Fan Zhang"
+      },
+      {
+        "literal": "Min Peng"
+      },
+      {
+        "literal": "Qianqian Xie"
+      },
+      {
+        "literal": "Preslav Nakov"
+      },
+      {
+        "literal": "Zhuohan Xie"
+      }
+    ],
+    "citation-key": "arxiv_2609_07603",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "08972b7b01a189a42be94363db08d89c6f97bdcbd9e10860168b122cef29e8fa",
+        "submitted_at": "2026-09-07T15:13:23Z",
+        "updated_at": "2026-09-07T15:13:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.07603v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.07603",
+      "catalog_id": "arxiv:2609.07603",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-07",
+      "identifiers": {
+        "arxiv": "2609.07603"
+      },
+      "record_updated_at": "2026-09-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.07603",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-07; Recorded arXiv version: v1; Recorded version updated: 2026-09-07T15:13:23Z.",
+    "title": "FinCUABuild: Can Agents Build Reliable Benchmarks for Dynamic Financial Computer Use?",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.32482v1",
+    "archive": "arXiv",
+    "archive_location": "2610.32482",
+    "author": [
+      {
+        "literal": "Shika Ikeura"
+      },
+      {
+        "literal": "Xuan Wang"
+      },
+      {
+        "literal": "Ziyi Kuang"
+      },
+      {
+        "literal": "Jianping Xu"
+      },
+      {
+        "literal": "Chao Kang"
+      },
+      {
+        "literal": "Yongxiang Hu"
+      },
+      {
+        "literal": "Xiaoyu Wang"
+      },
+      {
+        "literal": "Juxing Yuan"
+      },
+      {
+        "literal": "Yangfan Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2610_32482",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "872daa88a641b4719553d210a82d6d91a446387dcab1110f591213ffebc205eb",
+        "submitted_at": "2026-10-23T10:54:18Z",
+        "updated_at": "2026-10-23T10:54:18Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.32482v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.32482",
+      "catalog_id": "arxiv:2610.32482",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-23",
+      "identifiers": {
+        "arxiv": "2610.32482"
+      },
+      "record_updated_at": "2026-10-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.32482",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T10:54:18Z.",
+    "title": "WaitLens: Temporal VLM-Based Adaptive Waiting for Industrial GUI Testing Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.33636v1",
+    "archive": "arXiv",
+    "archive_location": "2610.33636",
+    "author": [
+      {
+        "literal": "Arsham Gholamzadeh Khoee"
+      },
+      {
+        "literal": "Ruyu Fu"
+      },
+      {
+        "literal": "Jiaqi Wei"
+      },
+      {
+        "literal": "Ruikun Deng"
+      },
+      {
+        "literal": "Robert Feldt"
+      },
+      {
+        "literal": "Dhasarathy Parthasarathy"
+      },
+      {
+        "literal": "Yinan Yu"
+      }
+    ],
+    "citation-key": "arxiv_2610_33636",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b2b5eed57acd0ea714177c56d0a00c604145c27998f4dc6c43a90a2667106b6f",
+        "submitted_at": "2026-10-24T12:32:16Z",
+        "updated_at": "2026-10-24T12:32:16Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.33636v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.33636",
+      "catalog_id": "arxiv:2610.33636",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-24",
+      "identifiers": {
+        "arxiv": "2610.33636"
+      },
+      "record_updated_at": "2026-10-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.33636",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-24; Recorded arXiv version: v1; Recorded version updated: 2026-10-24T12:32:16Z.",
+    "title": "Build or Adopt? Custom-Built vs. General-Purpose LLM Agent Harnesses for Automotive GUI Testing",
     "type": "article",
     "version": "1"
   }

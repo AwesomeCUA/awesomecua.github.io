@@ -171,7 +171,7 @@
     }
   ],
   "name": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-07-15",
   "relations": [],
   "review_status": "curated",

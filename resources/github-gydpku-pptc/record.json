@@ -67,6 +67,10 @@
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "PowerPoint creation and editing benchmark with API-based execution and checks of the resulting presentation files.",
+  "task_classes": [
+    "R04.04.01.01",
+    "R04.04.01.06"
+  ],
   "topics": [
     "evaluation",
     "tool-integration"

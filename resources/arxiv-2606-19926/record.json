@@ -77,7 +77,7 @@
     }
   ],
   "name": "MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract.",
   "published_at": "2026-06-18",
   "relations": [],
   "review_status": "curated",

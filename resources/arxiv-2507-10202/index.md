@@ -14,7 +14,7 @@ Introduces Extract Candidate then Predict (ECP), a training-free two-stage metho
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method is task-agnostic and is also evaluated on 4K and 8K image perception. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method is task-agnostic and is also evaluated on 4K and 8K image perception.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-10202/record.json
 

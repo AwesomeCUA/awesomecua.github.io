@@ -14,7 +14,7 @@ GUI-SAGE generates reasoning conditioned on known actions and weights policy upd
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. New work proposal from the official CVF accepted open-access version. No invented day, DOI, or arXiv identifier; original annotations describe the reviewed sources and not independent reproduction.
+The annotation was reviewed against retained primary publication sources. New work proposal from the official CVF accepted open-access version. No invented day, DOI, or arXiv identifier.
 
 - Record JSON: https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/record.json
 

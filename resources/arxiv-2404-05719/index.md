@@ -14,7 +14,7 @@ Adapts multimodal modeling to mobile interfaces through detailed screen crops, r
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-05719/record.json
 

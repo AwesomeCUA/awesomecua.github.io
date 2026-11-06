@@ -14,7 +14,7 @@ This work trains high-level schedulers with staged reinforcement learning driven
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-22235/record.json
 

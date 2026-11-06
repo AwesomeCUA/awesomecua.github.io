@@ -75,7 +75,7 @@
     }
   ],
   "name": "Not All Graphs Are Maps: A Task-Agnostic Exploration Framework for Mobile GUI Navigation",
-  "notes": "The controlled cohort has 84 tasks across six apps; the broader inventory spans 20 apps. Main results use human destination labels. DroidTask and SPA-Bench are converted to navigation-only protocols. Some comparison cells received another graph condition’s memory, with sensitivity analyses reported. Cross-family runs differ in app versions, state and denominators. A small stale-graph probe does not establish robustness. Models, code, artifacts and performance were not independently reproduced.",
+  "notes": "The controlled cohort has 84 tasks across six apps; the broader inventory spans 20 apps. Main results use human destination labels. DroidTask and SPA-Bench are converted to navigation-only protocols. Some comparison cells received another graph condition’s memory, with sensitivity analyses reported. Cross-family runs differ in app versions, state and denominators. A small stale-graph probe does not establish robustness.",
   "published_at": "2026-10-15",
   "relations": [],
   "review_status": "curated",

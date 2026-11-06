@@ -14,7 +14,7 @@ Bibliographic record for Small Language Models are the Future of Agentic AI. Tit
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-02153/record.json
 

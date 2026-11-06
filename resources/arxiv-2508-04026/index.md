@@ -14,7 +14,7 @@ Introduces VeriWeb, a benchmark of long-chain web information-seeking tasks with
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark focuses on web information seeking and synthesis. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark focuses on web information seeking and synthesis.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-04026/record.json
 

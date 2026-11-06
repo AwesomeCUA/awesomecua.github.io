@@ -14,7 +14,7 @@ Introduces GPTDroid for mobile GUI testing: it feeds app page information to an 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation uses 93 apps from Google Play. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation uses 93 apps from Google Play.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-15780/record.json
 

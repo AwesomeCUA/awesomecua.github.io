@@ -14,7 +14,7 @@ This study compares specialized, computer-use and coding agents on scientific vi
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-27996/record.json
 

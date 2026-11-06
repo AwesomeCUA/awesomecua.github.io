@@ -14,7 +14,7 @@ Studies a compact encoder-decoder grounding model and progressive training-data 
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-23941/record.json
 

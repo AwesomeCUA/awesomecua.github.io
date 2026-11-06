@@ -14,7 +14,7 @@ Introduces MineDreamer, a Minecraft agent that imagines stages of an instruction
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The setting is simulated Minecraft control, not operation of a conventional application interface. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2403-12037/record.json
 

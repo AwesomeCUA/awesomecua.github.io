@@ -14,7 +14,7 @@ Introduces MUI-zh and APT for detecting mobile UI elements, combining visual fea
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract evaluates element detection, not an agent carrying out mobile app tasks. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2305-09699/record.json
 

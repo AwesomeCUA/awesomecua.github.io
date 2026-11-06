@@ -14,7 +14,7 @@ LongPuzzleBench evaluates coherent long-horizon planning on persistent visual pu
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced. Agents execute real GUI moves in six puzzle games; the tasks diagnose computer-control planning but remain game-based rather than general productivity workflows.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Agents execute real GUI moves in six puzzle games; the tasks diagnose computer-control planning but remain game-based rather than general productivity workflows.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-34769/record.json
 

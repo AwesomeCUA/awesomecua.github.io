@@ -72,7 +72,7 @@
     }
   ],
   "name": "ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-06-30",
   "relations": [],
   "review_status": "curated",

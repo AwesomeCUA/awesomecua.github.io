@@ -14,7 +14,7 @@ Introduces RUSS, which translates support instructions into a domain-specific la
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2103-16057/record.json
 

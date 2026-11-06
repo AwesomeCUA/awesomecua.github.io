@@ -14,7 +14,7 @@ Trains a screenshot-driven GUI agent with grounding pretraining and introduces S
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2401-10935/record.json
 

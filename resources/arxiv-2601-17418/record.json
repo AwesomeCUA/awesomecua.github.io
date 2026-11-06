@@ -69,7 +69,7 @@
     }
   ],
   "name": "GraphPilot: GUI Task Automation with One-Step LLM Reasoning Powered by Knowledge Graph",
-  "notes": "The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.",
+  "notes": "The annotation was reviewed against the complete retained official abstract.",
   "published_at": "2026-01-24",
   "relations": [],
   "review_status": "curated",

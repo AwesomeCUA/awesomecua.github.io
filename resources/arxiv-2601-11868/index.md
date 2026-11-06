@@ -14,7 +14,7 @@ Terminal-Bench 2.0 benchmarks agents on 89 workflow-inspired tasks in computer t
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The tasks take place in computer terminals rather than graphical interfaces. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-11868/record.json
 

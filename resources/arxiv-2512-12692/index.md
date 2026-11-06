@@ -14,7 +14,7 @@ WebOperator uses tree search, action filtering, and path checks before replay to
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract reports experiments on WebArena and WebVoyager. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract reports experiments on WebArena and WebVoyager.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-12692/record.json
 

@@ -73,7 +73,7 @@
     }
   ],
   "name": "Advancing Autonomous VLM Agents via Variational Subgoal-Conditioned Reinforcement Learning",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-02-11",
   "relations": [],
   "review_status": "curated",

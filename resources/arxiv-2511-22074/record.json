@@ -70,7 +70,7 @@
     }
   ],
   "name": "Real-Time Procedural Learning From Experience for AI Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract reports only preliminary generalization to unseen tasks in similar environments. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract reports only preliminary generalization to unseen tasks in similar environments.",
   "published_at": "2025-11-27",
   "relations": [],
   "review_status": "curated",

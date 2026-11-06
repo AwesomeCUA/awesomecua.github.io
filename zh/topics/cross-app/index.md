@@ -6,12 +6,16 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 
 ## 论文与综述
 
+- [From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents](https://awesomecua.com/resources/arxiv-2610-37482/) — 2026-10-27
+  Introduces Task Advancement Memory (TAM) for long GUI workflows, tracking task progress across applications and learning reusable operations from interactions with local results.
 - [MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection](https://awesomecua.com/resources/arxiv-2610-23307/) — 2026-10-16
   MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions.
 - [MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents](https://awesomecua.com/resources/arxiv-2610-23303/) — 2026-10-16
   MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-like simulator, combining feedback-driven attack evolution, separately admitted task expansions and evidence-grounded outcome adjudication.
 - [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](https://awesomecua.com/resources/arxiv-2610-11050/) — 2026-10-08
   Introduces AgentHorizon, a benchmark for judging long computer-use trajectories using closely related instructions paired with recorded actions and screenshots. It tests whether judges can detect constraint violations and distinguish successful tasks from similar but incompatible requests.
+- [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://awesomecua.com/resources/arxiv-2610-08699/) — 2026-10-06
+  Presents nanoMuse, an open-source personal agent designed to act on phone and computer screens, with a shared conversation, action-checking Sentinel, and readable file memory.
 - [EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?](https://awesomecua.com/resources/arxiv-2609-37686/) — 2026-09-29
   Introduces professional engineering tasks across software domains, with GUI and CLI access and artifact checks for geometric, physical, and design validity.
 - [MatToolBench: Benchmarking Multimodal Agents in Real-World Materials Science Workflows](https://awesomecua.com/resources/arxiv-2609-37053/) — 2026-09-29
@@ -24,6 +28,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   AgentCIBench evaluates whether computer-use agents disclose information in ways that violate its original context. Deterministically scored scenarios test nearby sensitive UI content, ambiguous requests and recipient mismatches, including end-to-end agent execution.
 - [MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop](https://awesomecua.com/resources/arxiv-2606-22557/) — 2026-06-21
   Introduces macOS tasks spanning GUI and command-line interaction, with deterministic checks and intermediate-progress scoring for application workflows.
+- [OctoNest: Adaptive Cross-Device Execution through Stateful Control](https://awesomecua.com/resources/arxiv-2606-20487/) — 2026-06-18
+  Introduces OctoNest, which coordinates device agents, revises task assignments from execution feedback, and switches local interaction modalities; CAPEBench evaluates cross-device tasks.
 - [Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?](https://awesomecua.com/resources/arxiv-2606-19388/) — 2026-06-16
   This study compares general coding agents using mobile command-line access with reproducible GUI agents on AndroidWorld and MobileWorld. It also supplies oracle CLI analyses and a separate task suite for operations such as bulk changes, filtering and hidden device state.
 - [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-16748/) — 2026-06-15
@@ -34,6 +40,10 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   SaaS-Bench evaluates browser agents on professional workflows across self-hosted applications. Weighted checkpoints measure task completion and partial progress, with application-state checks and configured content judges documented in the official harness.
 - [WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments](https://awesomecua.com/resources/arxiv-2604-27776/) — 2026-04-30
   Introduces WindowsWorld for professional workflows spanning multiple desktop applications, with generated tasks refined through human review. Intermediate subgoals support process-oriented evaluation of cross-application reasoning and execution efficiency.
+- [AutomationBench](https://awesomecua.com/resources/arxiv-2604-18934/) — 2026-04-21
+  Introduces AutomationBench, a benchmark for agents coordinating business workflows across applications through REST APIs, including endpoint discovery and policy adherence.
+- [IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2602-17049/) — 2026-02-19
+  IntentCUA coordinates planner and critic agents through shared intent-aligned memory, retrieving reusable skills for long-horizon automation across desktop applications.
 - [UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2602-05832/) — 2026-02-05
   UI-Mem stores workflows, skills and failure patterns as reusable templates to guide online GUI reinforcement learning. It varies guidance within rollout groups and continually updates the memory so an unguided policy can learn from guided experiences.
 - [MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://awesomecua.com/resources/arxiv-2602-06075/) — 2026-02-03

@@ -75,7 +75,7 @@
     }
   ],
   "name": "E-ANT: A Large-Scale Dataset for Efficient Automatic GUI NavigaTion",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-06-20",
   "relations": [],
   "review_status": "curated",

@@ -72,12 +72,15 @@
     }
   ],
   "name": "BEARCUBS: A benchmark for computer-using web agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-03-10",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "BEARCUBS provides 111 live-web information-seeking questions with short answers and human-validated browsing trajectories. Its tasks require multimodal computer interaction, including video understanding and navigation of interactive 3D content.",
+  "task_classes": [
+    "R04.01.02.03"
+  ],
   "topics": [
     "evaluation",
     "web-navigation",

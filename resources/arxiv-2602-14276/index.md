@@ -14,7 +14,7 @@ ScreenParse supplies dense annotations of UI elements, types and text in web scr
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-14276/record.json
 

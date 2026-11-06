@@ -14,7 +14,7 @@ WebVLN trains website navigation from question-based instructions using both ren
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2312-15820/record.json
 

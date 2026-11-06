@@ -98,7 +98,7 @@
     }
   ],
   "name": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution",
-  "notes": "App WorkEnvs expose UI observations and interaction interfaces alongside file and tool workflows; no specific operating system or pixel-control success is established. Verifier shaping depends on deterministic-check and dependency coverage. External reference scores use differing harnesses or subsets; GDPval Elo is not comparable to percentage metrics. A successful-trace analysis subset is separate from online RL outcomes. No implementation release or independent reproduction was verified.",
+  "notes": "App WorkEnvs expose UI observations and interaction interfaces alongside file and tool workflows; no specific operating system or pixel-control success is established. Verifier shaping depends on deterministic-check and dependency coverage. External reference scores use differing harnesses or subsets; GDPval Elo is not comparable to percentage metrics. A successful-trace analysis subset is separate from online RL outcomes.",
   "published_at": "2026-10-13",
   "relations": [],
   "review_status": "curated",

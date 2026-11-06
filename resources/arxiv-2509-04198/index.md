@@ -14,7 +14,7 @@ Compares an agent using computer interfaces with UiPath RPA on enterprise data e
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The comparison covers three enterprise RPA challenges. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The comparison covers three enterprise RPA challenges.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-04198/record.json
 

@@ -14,7 +14,7 @@ Bibliographic record for IntelligentWeb Agent for Search Engines. Title, authors
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-1310-4774/record.json
 

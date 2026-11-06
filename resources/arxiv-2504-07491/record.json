@@ -162,7 +162,7 @@
     }
   ],
   "name": "Kimi-VL Technical Report",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Computer-use tasks are among several domains evaluated for this general-purpose model. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Computer-use tasks are among several domains evaluated for this general-purpose model.",
   "published_at": "2025-04-10",
   "relations": [],
   "review_status": "curated",

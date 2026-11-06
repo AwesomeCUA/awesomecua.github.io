@@ -14,7 +14,7 @@ Introduces WebSynthesis, which uses a learned web world model and tree-based pla
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its trajectory generation takes place in simulated virtual web environments. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its trajectory generation takes place in simulated virtual web environments.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-04370/record.json
 

@@ -74,7 +74,7 @@
     }
   ],
   "name": "ReALM: Reference Resolution As Language Modeling",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. This is reference resolution involving screen entities, not an evaluated end-to-end GUI controller.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. This is reference resolution involving screen entities, not an evaluated end-to-end GUI controller.",
   "published_at": "2024-03-29",
   "relations": [],
   "review_status": "curated",

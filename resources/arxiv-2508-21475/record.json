@@ -77,7 +77,7 @@
     }
   ],
   "name": "MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The tasks seek facts beyond images through browsing, rather than carrying out website transactions or workflows. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2025-08-29",
   "relations": [],
   "review_status": "curated",

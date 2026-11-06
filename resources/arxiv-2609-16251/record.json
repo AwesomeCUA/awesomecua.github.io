@@ -73,12 +73,15 @@
     }
   ],
   "name": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-09-14",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "CADWorld evaluates screenshot-and-GUI agents on long FreeCAD workflows, from modeling and assembly to manufacturing and simulation. Executable checks inspect saved engineering artifacts for geometry, constraints, construction structure and downstream state.",
+  "task_classes": [
+    "R07.01.01.03"
+  ],
   "topics": [
     "evaluation",
     "long-horizon",

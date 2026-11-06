@@ -74,12 +74,15 @@
     }
   ],
   "name": "Vision-Based Mobile App GUI Testing: A Survey",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The subject is mobile app testing research rather than a single agent or test system. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2023-10-20",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Surveys vision-based mobile app GUI testing across test generation, record-and-replay and testing frameworks, drawing on 271 papers including 92 vision-based studies.",
+  "task_classes": [
+    "R02.07.01.02"
+  ],
   "topics": [
     "survey",
     "screen-understanding",

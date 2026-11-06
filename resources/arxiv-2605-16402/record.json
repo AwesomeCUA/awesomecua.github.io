@@ -70,7 +70,7 @@
     }
   ],
   "name": "WinDeskGround: A Benchmark for Robust GUI Grounding in Complex Multi-Window Desktop Environments",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract.",
   "published_at": "2026-05-13",
   "relations": [],
   "review_status": "curated",

@@ -75,7 +75,7 @@
     }
   ],
   "name": "Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced. This benchmark measures UI/UX design understanding from static image pairs; it does not measure autonomous GUI action execution.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. This benchmark measures UI/UX design understanding from static image pairs; it does not measure autonomous GUI action execution.",
   "published_at": "2025-05-08",
   "relations": [],
   "review_status": "curated",

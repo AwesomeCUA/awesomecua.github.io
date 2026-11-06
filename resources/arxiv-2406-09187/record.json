@@ -79,7 +79,7 @@
     }
   ],
   "name": "GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The web-agent evidence is Mind2Web-SC; the healthcare benchmark does not independently establish GUI control.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The web-agent evidence is Mind2Web-SC; the healthcare benchmark does not independently establish GUI control.",
   "published_at": "2024-06-13",
   "relations": [],
   "review_status": "curated",

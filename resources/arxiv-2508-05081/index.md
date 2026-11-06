@@ -14,7 +14,7 @@ Introduces CogniWeb, which switches between fast reactive processing and slower 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-05081/record.json
 

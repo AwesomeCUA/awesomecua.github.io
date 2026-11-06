@@ -77,7 +77,7 @@
     }
   ],
   "name": "SecAgent: Efficient Mobile GUI Agent with Semantic Context",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Mobile use is explicit, but the abstract does not identify a mobile operating system.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Mobile use is explicit, but the abstract does not identify a mobile operating system.",
   "published_at": "2026-03-09",
   "relations": [],
   "review_status": "curated",

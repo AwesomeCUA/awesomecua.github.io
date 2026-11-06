@@ -14,7 +14,7 @@ Introduces activation-conditioned gradient control for GUI agents learning succe
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-06530/record.json
 

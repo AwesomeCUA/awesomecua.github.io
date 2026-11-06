@@ -14,7 +14,7 @@ Introduces MedBrowseComp, a benchmark of human-curated, multi-hop medical questi
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract describes knowledge-base retrieval, without specifying a GUI or browser interface. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-14963/record.json
 

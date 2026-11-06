@@ -14,7 +14,7 @@ Introduces screenshot-based GUI search and visual scripting, using image pattern
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. MIT identifies the retained content as an author final manuscript record. Its PDF download returned HTTP 429; no retry was made. The complete institutional abstract and bibliographic record were read.
+The annotation was reviewed against retained primary publication sources. MIT identifies the retained content as an author final manuscript record. Its PDF download returned HTTP 429; no retry was made. The complete institutional abstract and bibliographic record were read.
 
 - Record JSON: https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/record.json
 

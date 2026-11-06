@@ -14,7 +14,7 @@ WebVIA combines a web UI exploration agent, interactive UI-to-Code generation, a
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its main objective is UI code generation; the agent explores interface states to support that process. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its main objective is UI code generation; the agent explores interface states to support that process.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-06251/record.json
 

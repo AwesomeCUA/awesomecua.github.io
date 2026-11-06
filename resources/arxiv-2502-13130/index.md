@@ -14,7 +14,7 @@ Introduces Magma, a multimodal agent model trained with labels for clickable GUI
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). UI navigation is evaluated alongside robot manipulation and broader multimodal tasks. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). UI navigation is evaluated alongside robot manipulation and broader multimodal tasks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-13130/record.json
 

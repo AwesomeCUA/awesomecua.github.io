@@ -72,7 +72,7 @@
     }
   ],
   "name": "A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method is task-agnostic and is also evaluated on 4K and 8K image perception. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method is task-agnostic and is also evaluated on 4K and 8K image perception.",
   "published_at": "2025-07-14",
   "relations": [],
   "review_status": "curated",

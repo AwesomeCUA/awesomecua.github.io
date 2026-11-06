@@ -14,7 +14,7 @@ Introduces AgentProg, organizing mobile-agent interaction history as a program w
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-10371/record.json
 

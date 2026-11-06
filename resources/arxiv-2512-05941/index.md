@@ -14,7 +14,7 @@ ZoomClick uses repeated zooming and context adjustment to improve GUI grounding 
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-05941/record.json
 

@@ -14,7 +14,7 @@ Introduces PerPilot and the PerInstruct dataset for completing user-specific mob
 
 ## Limitations
 
-Personalization depends on the validity of stored or inferred user information and retrieval access. This is instruction completion with interaction, not demonstrated permanent model-weight personalization. No specific operating system or reproduced result is asserted. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (The Framework of PerPilot; Personalization Perception; Personalization Completion; PerInstruct Data Construction); not an entire-paper reading or reproduction claim.
+Personalization depends on the validity of stored or inferred user information and retrieval access. This is instruction completion with interaction, not demonstrated permanent model-weight personalization. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (The Framework of PerPilot; Personalization Perception; Personalization Completion; PerInstruct Data Construction).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-18040/record.json
 

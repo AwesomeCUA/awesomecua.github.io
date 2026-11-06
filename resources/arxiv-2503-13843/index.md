@@ -14,7 +14,7 @@ Introduces WebNav, a web navigation agent that turns natural-language commands i
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract presents the system architecture and implementation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract presents the system architecture and implementation.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-13843/record.json
 

@@ -14,7 +14,7 @@ Bibliographic record for Language Agent Tree Search Unifies Reasoning Acting and
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-04406/record.json
 

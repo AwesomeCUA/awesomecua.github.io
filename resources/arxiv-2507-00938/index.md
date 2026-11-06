@@ -14,7 +14,7 @@ WebArxiv provides 510 static-snapshot tasks with deterministic answers for schol
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-00938/record.json
 

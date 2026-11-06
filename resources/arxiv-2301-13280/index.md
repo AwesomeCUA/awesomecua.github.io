@@ -14,7 +14,7 @@ Collects rendered webpages and structural metadata for visual UI modeling, study
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2301-13280/record.json
 

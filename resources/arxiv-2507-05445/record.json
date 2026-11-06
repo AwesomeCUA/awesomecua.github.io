@@ -77,7 +77,7 @@
     }
   ],
   "name": "A Systematization of Security Vulnerabilities in Computer Use Agents",
-  "notes": "Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. This is a threat analysis with case studies; the annotation does not imply a standardized public benchmark or independently validated defenses.",
+  "notes": "Reviewed against the complete retained original arXiv abstract. This is a threat analysis with case studies; the annotation does not imply a standardized public benchmark or independently validated defenses.",
   "published_at": "2025-07-07",
   "relations": [],
   "review_status": "curated",

@@ -71,12 +71,15 @@
     }
   ],
   "name": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2022-07-04",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Provides a simulated shopping environment where language agents search, configure, and select products from natural-language requirements.",
+  "task_classes": [
+    "R12.01.01.02"
+  ],
   "topics": [
     "evaluation",
     "web-navigation"

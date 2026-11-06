@@ -14,7 +14,7 @@ Qwen-CUA operates through screenshots and keyboard/mouse events while compressin
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-02352/record.json
 

@@ -14,7 +14,7 @@ Bibliographic record for PlanGenLLMs: A Modern Survey of LLM Planning Capabiliti
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-11221/record.json
 

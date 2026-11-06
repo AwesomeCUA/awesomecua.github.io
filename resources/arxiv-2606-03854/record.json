@@ -70,7 +70,7 @@
     }
   ],
   "name": "CLI-Anything: Towards Agent-Native Computer Use",
-  "notes": "The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced. Adjacent computer-interface architecture: the described application command harnesses concern computer operation, but no GUI execution or comparative benchmark result is established in the abstract.",
+  "notes": "The annotation was reviewed against the complete retained official abstract. Adjacent computer-interface architecture: the described application command harnesses concern computer operation, but no GUI execution or comparative benchmark result is established in the abstract.",
   "published_at": "2026-06-02",
   "relations": [],
   "review_status": "curated",

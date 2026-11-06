@@ -71,7 +71,7 @@
     }
   ],
   "name": "Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract.",
   "published_at": "2026-07-05",
   "relations": [],
   "review_status": "curated",

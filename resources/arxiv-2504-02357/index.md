@@ -14,7 +14,7 @@ ReuseDroid migrates Android GUI tests between functionally similar apps using VL
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The platform or GUI evaluation setting was additionally checked in the primary full text.
+The annotation and scope were reviewed against the primary paper abstract. The platform or GUI evaluation setting was additionally checked in the primary full text.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-02357/record.json
 

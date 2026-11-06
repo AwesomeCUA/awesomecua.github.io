@@ -14,7 +14,7 @@ ShareMem consolidates reusable experience across users while keeping preference 
 
 ## Limitations
 
-Main Mind2Web evaluation uses 252 recorded tasks assigned to 20 simulated users, frozen demonstration-derived memory and task-macro step metrics; it is not a live-browser completion test. The main split withholds same-site local experience, and sharing gains shrink when local coverage rises. Mind2Web has no preference channel; preference claims come from separate service and coding settings. User-bound retrieval is not a demonstrated privacy or security guarantee. Selected sections were source-read; no independent reproduction.
+Main Mind2Web evaluation uses 252 recorded tasks assigned to 20 simulated users, frozen demonstration-derived memory and task-macro step metrics; it is not a live-browser completion test. The main split withholds same-site local experience, and sharing gains shrink when local coverage rises. Mind2Web has no preference channel; preference claims come from separate service and coding settings. User-bound retrieval is not a demonstrated privacy or security guarantee.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-32511/record.json
 

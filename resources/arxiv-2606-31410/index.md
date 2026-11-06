@@ -14,7 +14,7 @@ Describes a mobile GUI agent trained through real-device interaction, corrected 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-31410/record.json
 

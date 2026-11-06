@@ -14,7 +14,7 @@ Studies a zero-shot computer-control agent that plans executable actions and org
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-08740/record.json
 

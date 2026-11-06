@@ -14,7 +14,7 @@ Tests natural-language no-code fixes through GUI execution in Linux Brave. Scrip
 
 ## Limitations
 
-The evaluation reuses 322 fixes from 12 generation configurations and is restricted to nine of 51 candidate issues after environment setup and sanity checks. Resolution counts any success in three runs with a 20-step episode limit; executor harnesses and decoding settings differ. Opening the update page triggers a harness-controlled switch to the fixed browser build. Checker behavior, reconstructed starting states and the two-author human reference limit interpretation. The replication package was linked by the paper but was not inspected; no software, agent, model or result was run or reproduced.
+The evaluation reuses 322 fixes from 12 generation configurations and is restricted to nine of 51 candidate issues after environment setup and sanity checks. Resolution counts any success in three runs with a 20-step episode limit; executor harnesses and decoding settings differ. Opening the update page triggers a harness-controlled switch to the fixed browser build. Checker behavior, reconstructed starting states and the two-author human reference limit interpretation. The replication package was linked by the paper but was not inspected.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-11963/record.json
 

@@ -14,7 +14,7 @@ Introduces WebLists, a benchmark for structured extraction from interactive webs
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark covers data extraction across four business and enterprise use cases. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark covers data extraction across four business and enterprise use cases.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-12682/record.json
 

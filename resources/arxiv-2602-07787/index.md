@@ -14,7 +14,7 @@ Minitap coordinates six specialized agents for AndroidWorld tasks, checking text
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported task-success result is on the AndroidWorld benchmark. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported task-success result is on the AndroidWorld benchmark.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-07787/record.json
 

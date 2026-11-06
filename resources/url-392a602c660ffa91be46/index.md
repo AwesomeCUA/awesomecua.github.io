@@ -14,7 +14,7 @@ Introduces SUGILITE, which combines spoken instructions, demonstrated Android ac
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution.
+The annotation was reviewed against retained primary publication sources. Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution.
 
 - Record JSON: https://awesomecua.com/resources/url-392a602c660ffa91be46/record.json
 

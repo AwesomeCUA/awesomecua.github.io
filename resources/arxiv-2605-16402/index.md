@@ -14,7 +14,7 @@ WinDeskGround synthesizes multi-window desktop layouts with controlled occlusion
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-16402/record.json
 

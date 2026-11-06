@@ -14,7 +14,7 @@ Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic fr
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-17722/record.json
 

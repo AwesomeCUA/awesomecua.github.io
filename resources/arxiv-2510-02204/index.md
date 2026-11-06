@@ -14,7 +14,7 @@ Introduces an evaluation framework for mobile GUI agents that compares actions i
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study measures reasoning and execution gaps across mobile interaction tasks. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study measures reasoning and execution gaps across mobile interaction tasks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-02204/record.json
 

@@ -14,7 +14,7 @@ Introduces AutomotiveUI-Bench-4K and a fine-tuned vision-language model for loca
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Automotive interfaces are the primary setting; ScreenSpot is reported as a separate cross-domain evaluation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Automotive interfaces are the primary setting; ScreenSpot is reported as a separate cross-domain evaluation.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-05895/record.json
 

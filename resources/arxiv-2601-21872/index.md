@@ -14,7 +14,7 @@ WebArbiter generates reasoned action-preference verdicts for web navigation, usi
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-21872/record.json
 

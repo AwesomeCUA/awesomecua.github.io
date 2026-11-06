@@ -14,7 +14,7 @@ Introduces SheetBrain, a spreadsheet question-answering and manipulation agent t
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Spreadsheet operations use a Python sandbox and helper toolkit; GUI control is not described. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-19247/record.json
 

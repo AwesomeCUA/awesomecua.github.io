@@ -14,7 +14,7 @@ Introduces VPI-Bench, interactive web-platform variants containing visually embe
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-02456/record.json
 

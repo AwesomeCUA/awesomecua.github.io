@@ -14,7 +14,7 @@ Trains a mobile planner with supervised trajectories and competence-adaptive RL,
 
 ## Limitations
 
-Primarily typed tool actions and structured feedback, not pixel-coordinate GUI control; backends combine programmatic sandboxes, LLM simulation and selected real-device sessions. No specific OS is established. Model/harness updates are reviewed offline, not autonomous serving-time changes. Co-evolution scores use an evolve/development set; output-cost estimates exclude input, tools, devices and harness processing. Memory comparisons differ in history access and processing cost; user authorization relies on trusted upstream services. No independent reproduction.
+Primarily typed tool actions and structured feedback, not pixel-coordinate GUI control; backends combine programmatic sandboxes, LLM simulation and selected real-device sessions. No specific OS is established. Model/harness updates are reviewed offline, not autonomous serving-time changes. Co-evolution scores use an evolve/development set; output-cost estimates exclude input, tools, devices and harness processing. Memory comparisons differ in history access and processing cost; user authorization relies on trusted upstream services.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-29892/record.json
 

@@ -80,7 +80,7 @@
     }
   ],
   "name": "Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract describes general tool-based reasoning and deep-search evaluations, without a specific browser interaction method. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2025-09-29",
   "relations": [],
   "review_status": "curated",

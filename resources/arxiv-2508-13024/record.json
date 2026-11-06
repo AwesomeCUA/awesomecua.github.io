@@ -72,12 +72,16 @@
     }
   ],
   "name": "WebMall -- A Multi-Shop Benchmark for Evaluating Web Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-08-18",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "WebMall provides four simulated online shops with heterogeneous product data for comparison shopping, related-product searches, and checkout tasks. It evaluates web agents with different observation formats and memory configurations in a fixed offline environment.",
+  "task_classes": [
+    "R12.01.01.01",
+    "R12.01.01.02"
+  ],
   "topics": [
     "evaluation",
     "web-navigation",

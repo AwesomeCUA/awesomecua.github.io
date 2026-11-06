@@ -73,7 +73,7 @@
     }
   ],
   "name": "OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract names office applications but does not specify how agents interact with their interfaces. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2025-08-12",
   "relations": [],
   "review_status": "curated",

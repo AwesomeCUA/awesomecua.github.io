@@ -14,7 +14,7 @@ This study examines UI changes between a desktop agent’s screenshot observatio
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-18860/record.json
 

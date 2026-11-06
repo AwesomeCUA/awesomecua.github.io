@@ -14,7 +14,7 @@ MAGNET maintains separate memories for stable interface functions and task proce
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-19199/record.json
 

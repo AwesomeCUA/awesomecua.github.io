@@ -70,7 +70,7 @@
     }
   ],
   "name": "Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree",
-  "notes": "Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.",
+  "notes": "Reviewed against the complete retained original arXiv abstract.",
   "published_at": "2025-07-20",
   "relations": [],
   "review_status": "curated",

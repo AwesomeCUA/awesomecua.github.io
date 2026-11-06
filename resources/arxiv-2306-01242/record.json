@@ -71,7 +71,7 @@
     }
   ],
   "name": "Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. UI task automation is stated in the abstract, but its platform and detailed evaluation protocol are not identified.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. UI task automation is stated in the abstract, but its platform and detailed evaluation protocol are not identified.",
   "published_at": "2023-06-02",
   "relations": [],
   "review_status": "curated",

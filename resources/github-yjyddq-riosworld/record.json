@@ -53,6 +53,9 @@
   "review_status": "curated",
   "scope": "core",
   "summary": "Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual machine, with risk scenarios such as phishing emails and released evaluation trajectories.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "evaluation"
   ],

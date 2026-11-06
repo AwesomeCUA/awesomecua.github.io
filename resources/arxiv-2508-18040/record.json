@@ -93,7 +93,7 @@
     }
   ],
   "name": "PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration",
-  "notes": "Personalization depends on the validity of stored or inferred user information and retrieval access. This is instruction completion with interaction, not demonstrated permanent model-weight personalization. No specific operating system or reproduced result is asserted. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (The Framework of PerPilot; Personalization Perception; Personalization Completion; PerInstruct Data Construction); not an entire-paper reading or reproduction claim.",
+  "notes": "Personalization depends on the validity of stored or inferred user information and retrieval access. This is instruction completion with interaction, not demonstrated permanent model-weight personalization. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (The Framework of PerPilot; Personalization Perception; Personalization Completion; PerInstruct Data Construction).",
   "published_at": "2025-08-25",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ FronTalk benchmarks multi-turn front-end code generation from text and visual fe
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Its main task is front-end code generation; web agents explore generated sites to assess and critique implementations. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Its main task is front-end code generation; web agents explore generated sites to assess and critique implementations.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-04203/record.json
 

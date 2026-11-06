@@ -14,7 +14,7 @@ This work retrieves online video tutorials and converts them into structured GUI
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-04137/record.json
 

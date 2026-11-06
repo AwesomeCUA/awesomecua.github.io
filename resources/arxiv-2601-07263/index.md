@@ -14,7 +14,7 @@ Studies deceptive social-engineering web patterns targeting browser automation a
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-07263/record.json
 

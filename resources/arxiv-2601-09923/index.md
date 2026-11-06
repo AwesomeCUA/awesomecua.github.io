@@ -14,7 +14,7 @@ NOVA separates trusted task planning from screen-derived observations by produci
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-09923/record.json
 

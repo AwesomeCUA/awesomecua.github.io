@@ -14,7 +14,7 @@ Introduces InfantAgent-Next, a modular multimodal computer agent that combines t
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Its evaluation also includes GAIA and SWE-Bench, beyond the computer-interaction benchmark OSWorld. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Its evaluation also includes GAIA and SWE-Bench, beyond the computer-interaction benchmark OSWorld.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-10887/record.json
 

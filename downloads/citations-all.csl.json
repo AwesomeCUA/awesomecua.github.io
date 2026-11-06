@@ -42473,8 +42473,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2506.14079",
       "catalog_id": "arxiv:2506.14079",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-06-17",
       "identifiers": {
         "arxiv": "2506.14079"
@@ -60753,8 +60753,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.22102",
       "catalog_id": "arxiv:2510.22102",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-25",
       "identifiers": {
         "arxiv": "2510.22102"
@@ -77322,8 +77322,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2602.16165",
       "catalog_id": "arxiv:2602.16165",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-02-18",
       "identifiers": {
         "arxiv": "2602.16165"
@@ -77684,8 +77684,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2602.17049",
       "catalog_id": "arxiv:2602.17049",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-19",
       "identifiers": {
         "arxiv": "2602.17049"
@@ -77745,8 +77745,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2602.17245",
       "catalog_id": "arxiv:2602.17245",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-19",
       "identifiers": {
         "arxiv": "2602.17245"
@@ -78064,8 +78064,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2602.21858",
       "catalog_id": "arxiv:2602.21858",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-02-25",
       "identifiers": {
         "arxiv": "2602.21858"
@@ -78140,8 +78140,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2602.22190",
       "catalog_id": "arxiv:2602.22190",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-25",
       "identifiers": {
         "arxiv": "2602.22190"
@@ -78362,8 +78362,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2602.23235",
       "catalog_id": "arxiv:2602.23235",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-26",
       "identifiers": {
         "arxiv": "2602.23235"
@@ -78441,8 +78441,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2602.24142",
       "catalog_id": "arxiv:2602.24142",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-27",
       "identifiers": {
         "arxiv": "2602.24142"
@@ -78502,8 +78502,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.00188",
       "catalog_id": "arxiv:2603.00188",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-27",
       "identifiers": {
         "arxiv": "2603.00188"
@@ -78633,8 +78633,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.00503",
       "catalog_id": "arxiv:2603.00503",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-28",
       "identifiers": {
         "arxiv": "2603.00503"
@@ -78706,8 +78706,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.00676",
       "catalog_id": "arxiv:2603.00676",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-28",
       "identifiers": {
         "arxiv": "2603.00676"
@@ -79108,8 +79108,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.03296",
       "catalog_id": "arxiv:2603.03296",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-02-06",
       "identifiers": {
         "arxiv": "2603.03296"
@@ -79346,8 +79346,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.05294",
       "catalog_id": "arxiv:2603.05294",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-05",
       "identifiers": {
         "arxiv": "2603.05294"
@@ -79462,8 +79462,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.07024",
       "catalog_id": "arxiv:2603.07024",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-07",
       "identifiers": {
         "arxiv": "2603.07024"
@@ -79721,8 +79721,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.07915",
       "catalog_id": "arxiv:2603.07915",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-03-09",
       "identifiers": {
         "arxiv": "2603.07915"
@@ -79907,8 +79907,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.08316",
       "catalog_id": "arxiv:2603.08316",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-09",
       "identifiers": {
         "arxiv": "2603.08316"
@@ -80047,8 +80047,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.08706",
       "catalog_id": "arxiv:2603.08706",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-03-09",
       "identifiers": {
         "arxiv": "2603.08706"
@@ -80114,8 +80114,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.08938",
       "catalog_id": "arxiv:2603.08938",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-03-09",
       "identifiers": {
         "arxiv": "2603.08938"
@@ -80364,8 +80364,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.10291",
       "catalog_id": "arxiv:2603.10291",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-11",
       "identifiers": {
         "arxiv": "2603.10291"
@@ -80575,8 +80575,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.11862",
       "catalog_id": "arxiv:2603.11862",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-03-12",
       "identifiers": {
         "arxiv": "2603.11862"
@@ -80691,8 +80691,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.12710",
       "catalog_id": "arxiv:2603.12710",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-13",
       "identifiers": {
         "arxiv": "2603.12710"
@@ -80804,8 +80804,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.14248",
       "catalog_id": "arxiv:2603.14248",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-15",
       "identifiers": {
         "arxiv": "2603.14248"
@@ -82211,9 +82211,9 @@
       },
       "canonical_source_url": "https://arxiv.org/abs/2603.22862",
       "catalog_id": "arxiv:2603.22862",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-03-24",
       "identifiers": {
         "arxiv": "2603.22862"
@@ -82264,8 +82264,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.22917",
       "catalog_id": "arxiv:2603.22917",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-24",
       "identifiers": {
         "arxiv": "2603.22917"
@@ -82471,8 +82471,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.23559",
       "catalog_id": "arxiv:2603.23559",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-23",
       "identifiers": {
         "arxiv": "2603.23559"
@@ -82642,8 +82642,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.24160",
       "catalog_id": "arxiv:2603.24160",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-25",
       "identifiers": {
         "arxiv": "2603.24160"
@@ -83190,8 +83190,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.26648",
       "catalog_id": "arxiv:2603.26648",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-03-27",
       "identifiers": {
         "arxiv": "2603.26648"
@@ -83524,8 +83524,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.28551",
       "catalog_id": "arxiv:2603.28551",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-03-30",
       "identifiers": {
         "arxiv": "2603.28551"
@@ -83713,8 +83713,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.00073",
       "catalog_id": "arxiv:2604.00073",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-03-31",
       "identifiers": {
         "arxiv": "2604.00073"
@@ -83941,8 +83941,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.00892",
       "catalog_id": "arxiv:2604.00892",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-01",
       "identifiers": {
         "arxiv": "2604.00892"
@@ -84306,8 +84306,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.01535",
       "catalog_id": "arxiv:2604.01535",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-02",
       "identifiers": {
         "arxiv": "2604.01535"
@@ -84616,8 +84616,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.02947",
       "catalog_id": "arxiv:2604.02947",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-04-03",
       "identifiers": {
         "arxiv": "2604.02947"
@@ -84683,8 +84683,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.03465",
       "catalog_id": "arxiv:2604.03465",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-03",
       "identifiers": {
         "arxiv": "2604.03465"
@@ -84908,8 +84908,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.04759",
       "catalog_id": "arxiv:2604.04759",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-04-06",
       "identifiers": {
         "arxiv": "2604.04759"
@@ -85380,8 +85380,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.06134",
       "catalog_id": "arxiv:2604.06134",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-04-07",
       "identifiers": {
         "arxiv": "2604.06134"
@@ -85511,8 +85511,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.06182",
       "catalog_id": "arxiv:2604.06182",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-06",
       "identifiers": {
         "arxiv": "2604.06182"
@@ -85810,8 +85810,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.07429",
       "catalog_id": "arxiv:2604.07429",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-04-08",
       "identifiers": {
         "arxiv": "2604.07429"
@@ -85859,8 +85859,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.07776",
       "catalog_id": "arxiv:2604.07776",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-09",
       "identifiers": {
         "arxiv": "2604.07776"
@@ -85987,8 +85987,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.07929",
       "catalog_id": "arxiv:2604.07929",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-09",
       "identifiers": {
         "arxiv": "2604.07929"
@@ -86036,8 +86036,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.08005",
       "catalog_id": "arxiv:2604.08005",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-09",
       "identifiers": {
         "arxiv": "2604.08005"
@@ -86127,8 +86127,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.08455",
       "catalog_id": "arxiv:2604.08455",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-09",
       "identifiers": {
         "arxiv": "2604.08455"
@@ -86397,8 +86397,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.09574",
       "catalog_id": "arxiv:2604.09574",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-24",
       "identifiers": {
         "arxiv": "2604.09574"
@@ -86522,8 +86522,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.09587",
       "catalog_id": "arxiv:2604.09587",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-28",
       "identifiers": {
         "arxiv": "2604.09587"
@@ -86568,8 +86568,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.09718",
       "catalog_id": "arxiv:2604.09718",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-08",
       "identifiers": {
         "arxiv": "2604.09718"
@@ -86848,8 +86848,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.10577",
       "catalog_id": "arxiv:2604.10577",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-12",
       "identifiers": {
         "arxiv": "2604.10577"
@@ -87094,8 +87094,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.11201",
       "catalog_id": "arxiv:2604.11201",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-04-13",
       "identifiers": {
         "arxiv": "2604.11201"
@@ -87161,8 +87161,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.11259",
       "catalog_id": "arxiv:2604.11259",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-13",
       "identifiers": {
         "arxiv": "2604.11259"
@@ -87493,8 +87493,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.12666",
       "catalog_id": "arxiv:2604.12666",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-14",
       "identifiers": {
         "arxiv": "2604.12666"
@@ -87709,8 +87709,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.13488",
       "catalog_id": "arxiv:2604.13488",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-15",
       "identifiers": {
         "arxiv": "2604.13488"
@@ -87779,8 +87779,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.13531",
       "catalog_id": "arxiv:2604.13531",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-15",
       "identifiers": {
         "arxiv": "2604.13531"
@@ -88102,8 +88102,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.14872",
       "catalog_id": "arxiv:2604.14872",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-16",
       "identifiers": {
         "arxiv": "2604.14872"
@@ -88309,8 +88309,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.15376",
       "catalog_id": "arxiv:2604.15376",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-15",
       "identifiers": {
         "arxiv": "2604.15376"
@@ -88449,8 +88449,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.16385",
       "catalog_id": "arxiv:2604.16385",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-27",
       "identifiers": {
         "arxiv": "2604.16385"
@@ -89001,8 +89001,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.18779",
       "catalog_id": "arxiv:2604.18779",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-20",
       "identifiers": {
         "arxiv": "2604.18779"
@@ -89056,8 +89056,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.18847",
       "catalog_id": "arxiv:2604.18847",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-20",
       "identifiers": {
         "arxiv": "2604.18847"
@@ -89151,8 +89151,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.18934",
       "catalog_id": "arxiv:2604.18934",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-04-21",
       "identifiers": {
         "arxiv": "2604.18934"
@@ -89462,8 +89462,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.20279",
       "catalog_id": "arxiv:2604.20279",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-22",
       "identifiers": {
         "arxiv": "2604.20279"
@@ -89693,8 +89693,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.22558",
       "catalog_id": "arxiv:2604.22558",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-24",
       "identifiers": {
         "arxiv": "2604.22558"
@@ -89885,9 +89885,9 @@
       },
       "canonical_source_url": "https://arxiv.org/abs/2604.22748",
       "catalog_id": "arxiv:2604.22748",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-04-24",
       "identifiers": {
         "arxiv": "2604.22748"
@@ -89947,8 +89947,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.23772",
       "catalog_id": "arxiv:2604.23772",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-04-26",
       "identifiers": {
         "arxiv": "2604.23772"
@@ -91021,8 +91021,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.27974",
       "catalog_id": "arxiv:2604.27974",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-30",
       "identifiers": {
         "arxiv": "2604.27974"
@@ -91570,8 +91570,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.00642",
       "catalog_id": "arxiv:2605.00642",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-01",
       "identifiers": {
         "arxiv": "2605.00642"
@@ -91686,8 +91686,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.02168",
       "catalog_id": "arxiv:2605.02168",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-04",
       "identifiers": {
         "arxiv": "2605.02168"
@@ -92103,8 +92103,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.02661",
       "catalog_id": "arxiv:2605.02661",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-04",
       "identifiers": {
         "arxiv": "2605.02661"
@@ -92173,8 +92173,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.02729",
       "catalog_id": "arxiv:2605.02729",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-04",
       "identifiers": {
         "arxiv": "2605.02729"
@@ -92240,8 +92240,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.03231",
       "catalog_id": "arxiv:2605.03231",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-04",
       "identifiers": {
         "arxiv": "2605.03231"
@@ -92557,8 +92557,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.06393",
       "catalog_id": "arxiv:2605.06393",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-07",
       "identifiers": {
         "arxiv": "2605.06393"
@@ -92627,8 +92627,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.06664",
       "catalog_id": "arxiv:2605.06664",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-07",
       "identifiers": {
         "arxiv": "2605.06664"
@@ -92754,9 +92754,9 @@
       },
       "canonical_source_url": "https://arxiv.org/abs/2605.07110",
       "catalog_id": "arxiv:2605.07110",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-08",
       "identifiers": {
         "arxiv": "2605.07110"
@@ -92929,8 +92929,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.07505",
       "catalog_id": "arxiv:2605.07505",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-08",
       "identifiers": {
         "arxiv": "2605.07505"
@@ -93057,8 +93057,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.08261",
       "catalog_id": "arxiv:2605.08261",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-07",
       "identifiers": {
         "arxiv": "2605.08261"
@@ -93118,8 +93118,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.08310",
       "catalog_id": "arxiv:2605.08310",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-08",
       "identifiers": {
         "arxiv": "2605.08310"
@@ -93176,8 +93176,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.08876",
       "catalog_id": "arxiv:2605.08876",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-09",
       "identifiers": {
         "arxiv": "2605.08876"
@@ -93468,8 +93468,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.10912",
       "catalog_id": "arxiv:2605.10912",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-11",
       "identifiers": {
         "arxiv": "2605.10912"
@@ -94382,8 +94382,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.14205",
       "catalog_id": "arxiv:2605.14205",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-14",
       "identifiers": {
         "arxiv": "2605.14205"
@@ -94519,8 +94519,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.14311",
       "catalog_id": "arxiv:2605.14311",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-14",
       "identifiers": {
         "arxiv": "2605.14311"
@@ -94671,8 +94671,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.14747",
       "catalog_id": "arxiv:2605.14747",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "citation_edition": "record",
       "first_published_at": "2026-05-14",
       "identifiers": {
@@ -94765,8 +94765,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.14786",
       "catalog_id": "arxiv:2605.14786",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-14",
       "identifiers": {
         "arxiv": "2605.14786"
@@ -94841,8 +94841,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.15030",
       "catalog_id": "arxiv:2605.15030",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-14",
       "identifiers": {
         "arxiv": "2605.15030"
@@ -94926,8 +94926,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.15040",
       "catalog_id": "arxiv:2605.15040",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-14",
       "identifiers": {
         "arxiv": "2605.15040"
@@ -95130,8 +95130,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.15962",
       "catalog_id": "arxiv:2605.15962",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-15",
       "identifiers": {
         "arxiv": "2605.15962"
@@ -95206,8 +95206,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.15963",
       "catalog_id": "arxiv:2605.15963",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-15",
       "identifiers": {
         "arxiv": "2605.15963"
@@ -95255,8 +95255,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.16024",
       "catalog_id": "arxiv:2605.16024",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-15",
       "identifiers": {
         "arxiv": "2605.16024"
@@ -95322,8 +95322,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.16116",
       "catalog_id": "arxiv:2605.16116",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-15",
       "identifiers": {
         "arxiv": "2605.16116"
@@ -95475,8 +95475,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.16565",
       "catalog_id": "arxiv:2605.16565",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-15",
       "identifiers": {
         "arxiv": "2605.16565"
@@ -95643,8 +95643,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.17170",
       "catalog_id": "arxiv:2605.17170",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-16",
       "identifiers": {
         "arxiv": "2605.17170"
@@ -95762,8 +95762,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.17439",
       "catalog_id": "arxiv:2605.17439",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-17",
       "identifiers": {
         "arxiv": "2605.17439"
@@ -96170,8 +96170,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.19260",
       "catalog_id": "arxiv:2605.19260",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-19",
       "identifiers": {
         "arxiv": "2605.19260"
@@ -96240,8 +96240,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.19447",
       "catalog_id": "arxiv:2605.19447",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-19",
       "identifiers": {
         "arxiv": "2605.19447"
@@ -96304,8 +96304,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.19484",
       "catalog_id": "arxiv:2605.19484",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-19",
       "identifiers": {
         "arxiv": "2605.19484"
@@ -96502,8 +96502,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.20833",
       "catalog_id": "arxiv:2605.20833",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-20",
       "identifiers": {
         "arxiv": "2605.20833"
@@ -96636,8 +96636,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.22642",
       "catalog_id": "arxiv:2605.22642",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-21",
       "identifiers": {
         "arxiv": "2605.22642"
@@ -96779,8 +96779,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.23939",
       "catalog_id": "arxiv:2605.23939",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-28",
       "identifiers": {
         "arxiv": "2605.23939"
@@ -97044,8 +97044,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.25707",
       "catalog_id": "arxiv:2605.25707",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-25",
       "identifiers": {
         "arxiv": "2605.25707"
@@ -97373,8 +97373,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.26321",
       "catalog_id": "arxiv:2605.26321",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-25",
       "identifiers": {
         "arxiv": "2605.26321"
@@ -97495,8 +97495,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.26994",
       "catalog_id": "arxiv:2605.26994",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-26",
       "identifiers": {
         "arxiv": "2605.26994"
@@ -97559,8 +97559,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.27134",
       "catalog_id": "arxiv:2605.27134",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-26",
       "identifiers": {
         "arxiv": "2605.27134"
@@ -98113,8 +98113,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.28629",
       "catalog_id": "arxiv:2605.28629",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-27",
       "identifiers": {
         "arxiv": "2605.28629"
@@ -98226,8 +98226,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.28775",
       "catalog_id": "arxiv:2605.28775",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-27",
       "identifiers": {
         "arxiv": "2605.28775"
@@ -98284,8 +98284,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.29119",
       "catalog_id": "arxiv:2605.29119",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-27",
       "identifiers": {
         "arxiv": "2605.29119"
@@ -98348,8 +98348,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.29218",
       "catalog_id": "arxiv:2605.29218",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-28",
       "identifiers": {
         "arxiv": "2605.29218"
@@ -98412,8 +98412,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.29324",
       "catalog_id": "arxiv:2605.29324",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-28",
       "identifiers": {
         "arxiv": "2605.29324"
@@ -98561,8 +98561,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.29397",
       "catalog_id": "arxiv:2605.29397",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-28",
       "identifiers": {
         "arxiv": "2605.29397"
@@ -98634,8 +98634,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.29447",
       "catalog_id": "arxiv:2605.29447",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-28",
       "identifiers": {
         "arxiv": "2605.29447"
@@ -98865,8 +98865,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.29615",
       "catalog_id": "arxiv:2605.29615",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-28",
       "identifiers": {
         "arxiv": "2605.29615"
@@ -99171,8 +99171,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.30884",
       "catalog_id": "arxiv:2605.30884",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-29",
       "identifiers": {
         "arxiv": "2605.30884"
@@ -99241,8 +99241,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.30907",
       "catalog_id": "arxiv:2605.30907",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-29",
       "identifiers": {
         "arxiv": "2605.30907"
@@ -99311,8 +99311,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.31365",
       "catalog_id": "arxiv:2605.31365",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-29",
       "identifiers": {
         "arxiv": "2605.31365"
@@ -99436,8 +99436,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.00408",
       "catalog_id": "arxiv:2606.00408",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-29",
       "identifiers": {
         "arxiv": "2606.00408"
@@ -99719,8 +99719,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.01166",
       "catalog_id": "arxiv:2606.01166",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-31",
       "identifiers": {
         "arxiv": "2606.01166"
@@ -99908,8 +99908,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.02031",
       "catalog_id": "arxiv:2606.02031",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-01",
       "identifiers": {
         "arxiv": "2606.02031"
@@ -99963,8 +99963,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.02208",
       "catalog_id": "arxiv:2606.02208",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-01",
       "identifiers": {
         "arxiv": "2606.02208"
@@ -100237,8 +100237,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.03236",
       "catalog_id": "arxiv:2606.03236",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-02",
       "identifiers": {
         "arxiv": "2606.03236"
@@ -100475,8 +100475,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.03951",
       "catalog_id": "arxiv:2606.03951",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-02",
       "identifiers": {
         "arxiv": "2606.03951"
@@ -100615,8 +100615,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.04627",
       "catalog_id": "arxiv:2606.04627",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-03",
       "identifiers": {
         "arxiv": "2606.04627"
@@ -100737,8 +100737,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.05171",
       "catalog_id": "arxiv:2606.05171",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-15",
       "identifiers": {
         "arxiv": "2606.05171"
@@ -101015,8 +101015,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.05697",
       "catalog_id": "arxiv:2606.05697",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-06-04",
       "identifiers": {
         "arxiv": "2606.05697"
@@ -101366,8 +101366,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.07367",
       "catalog_id": "arxiv:2606.07367",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-06-05",
       "identifiers": {
         "arxiv": "2606.07367"
@@ -102028,8 +102028,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.10742",
       "catalog_id": "arxiv:2606.10742",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-09",
       "identifiers": {
         "arxiv": "2606.10742"
@@ -102499,8 +102499,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.13192",
       "catalog_id": "arxiv:2606.13192",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-06-11",
       "identifiers": {
         "arxiv": "2606.13192"
@@ -102712,8 +102712,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.13686",
       "catalog_id": "arxiv:2606.13686",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-26",
       "identifiers": {
         "arxiv": "2606.13686"
@@ -102767,8 +102767,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.13802",
       "catalog_id": "arxiv:2606.13802",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-06-11",
       "identifiers": {
         "arxiv": "2606.13802"
@@ -102943,8 +102943,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.14397",
       "catalog_id": "arxiv:2606.14397",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-12",
       "identifiers": {
         "arxiv": "2606.14397"
@@ -103336,8 +103336,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.15673",
       "catalog_id": "arxiv:2606.15673",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-08",
       "identifiers": {
         "arxiv": "2606.15673"
@@ -103400,8 +103400,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.15874",
       "catalog_id": "arxiv:2606.15874",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-14",
       "identifiers": {
         "arxiv": "2606.15874"
@@ -103923,8 +103923,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.17645",
       "catalog_id": "arxiv:2606.17645",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-16",
       "identifiers": {
         "arxiv": "2606.17645"
@@ -104630,8 +104630,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.20487",
       "catalog_id": "arxiv:2606.20487",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-18",
       "identifiers": {
         "arxiv": "2606.20487"
@@ -104752,8 +104752,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.20636",
       "catalog_id": "arxiv:2606.20636",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-02",
       "identifiers": {
         "arxiv": "2606.20636"
@@ -104874,8 +104874,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.20724",
       "catalog_id": "arxiv:2606.20724",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-06-16",
       "identifiers": {
         "arxiv": "2606.20724"
@@ -105230,8 +105230,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.22673",
       "catalog_id": "arxiv:2606.22673",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-06-21",
       "identifiers": {
         "arxiv": "2606.22673"
@@ -105282,8 +105282,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.22864",
       "catalog_id": "arxiv:2606.22864",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-22",
       "identifiers": {
         "arxiv": "2606.22864"
@@ -105483,8 +105483,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.23449",
       "catalog_id": "arxiv:2606.23449",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-22",
       "identifiers": {
         "arxiv": "2606.23449"
@@ -106196,8 +106196,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.27595",
       "catalog_id": "arxiv:2606.27595",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-06-25",
       "identifiers": {
         "arxiv": "2606.27595"
@@ -106327,8 +106327,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.29445",
       "catalog_id": "arxiv:2606.29445",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-28",
       "identifiers": {
         "arxiv": "2606.29445"
@@ -106676,8 +106676,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.29955",
       "catalog_id": "arxiv:2606.29955",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-06-29",
       "identifiers": {
         "arxiv": "2606.29955"
@@ -107122,8 +107122,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.31154",
       "catalog_id": "arxiv:2606.31154",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-30",
       "identifiers": {
         "arxiv": "2606.31154"
@@ -107392,8 +107392,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.31612",
       "catalog_id": "arxiv:2606.31612",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-30",
       "identifiers": {
         "arxiv": "2606.31612"
@@ -107517,8 +107517,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.00007",
       "catalog_id": "arxiv:2607.00007",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-05-02",
       "identifiers": {
         "arxiv": "2607.00007"
@@ -107627,8 +107627,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.00502",
       "catalog_id": "arxiv:2607.00502",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-01",
       "identifiers": {
         "arxiv": "2607.00502"
@@ -108063,8 +108063,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.05804",
       "catalog_id": "arxiv:2607.05804",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-07-07",
       "identifiers": {
         "arxiv": "2607.05804"
@@ -108456,8 +108456,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.08147",
       "catalog_id": "arxiv:2607.08147",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-09",
       "identifiers": {
         "arxiv": "2607.08147"
@@ -108520,8 +108520,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.08768",
       "catalog_id": "arxiv:2607.08768",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-07-09",
       "identifiers": {
         "arxiv": "2607.08768"
@@ -109105,8 +109105,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.12056",
       "catalog_id": "arxiv:2607.12056",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-13",
       "identifiers": {
         "arxiv": "2607.12056"
@@ -109376,8 +109376,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.13027",
       "catalog_id": "arxiv:2607.13027",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-07-14",
       "identifiers": {
         "arxiv": "2607.13027"
@@ -109657,8 +109657,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.14277",
       "catalog_id": "arxiv:2607.14277",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-07-15",
       "identifiers": {
         "arxiv": "2607.14277"
@@ -109992,8 +109992,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.16610",
       "catalog_id": "arxiv:2607.16610",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-07-18",
       "identifiers": {
         "arxiv": "2607.16610"
@@ -110212,8 +110212,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.17136",
       "catalog_id": "arxiv:2607.17136",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-19",
       "identifiers": {
         "arxiv": "2607.17136"
@@ -110529,8 +110529,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.19865",
       "catalog_id": "arxiv:2607.19865",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-07-22",
       "identifiers": {
         "arxiv": "2607.19865"
@@ -110645,8 +110645,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.20482",
       "catalog_id": "arxiv:2607.20482",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-30",
       "identifiers": {
         "arxiv": "2607.20482"
@@ -110925,8 +110925,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.22708",
       "catalog_id": "arxiv:2607.22708",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-20",
       "identifiers": {
         "arxiv": "2607.22708"
@@ -111327,8 +111327,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.25255",
       "catalog_id": "arxiv:2607.25255",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-07-28",
       "identifiers": {
         "arxiv": "2607.25255"
@@ -111589,8 +111589,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.27155",
       "catalog_id": "arxiv:2607.27155",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-07-29",
       "identifiers": {
         "arxiv": "2607.27155"
@@ -111926,8 +111926,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.28272",
       "catalog_id": "arxiv:2607.28272",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-07-30",
       "identifiers": {
         "arxiv": "2607.28272"
@@ -112285,8 +112285,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.29199",
       "catalog_id": "arxiv:2607.29199",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-31",
       "identifiers": {
         "arxiv": "2607.29199"
@@ -112477,8 +112477,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.00335",
       "catalog_id": "arxiv:2608.00335",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-31",
       "identifiers": {
         "arxiv": "2608.00335"
@@ -112611,8 +112611,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.01964",
       "catalog_id": "arxiv:2608.01964",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-08-03",
       "identifiers": {
         "arxiv": "2608.01964"
@@ -112663,8 +112663,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.02018",
       "catalog_id": "arxiv:2608.02018",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-03",
       "identifiers": {
         "arxiv": "2608.02018"
@@ -113377,8 +113377,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.04530",
       "catalog_id": "arxiv:2608.04530",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-05",
       "identifiers": {
         "arxiv": "2608.04530"
@@ -113719,8 +113719,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.05784",
       "catalog_id": "arxiv:2608.05784",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-06",
       "identifiers": {
         "arxiv": "2608.05784"
@@ -113954,8 +113954,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.06474",
       "catalog_id": "arxiv:2608.06474",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-08-06",
       "identifiers": {
         "arxiv": "2608.06474"
@@ -114012,8 +114012,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.06477",
       "catalog_id": "arxiv:2608.06477",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-06",
       "identifiers": {
         "arxiv": "2608.06477"
@@ -114070,8 +114070,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.06704",
       "catalog_id": "arxiv:2608.06704",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-07",
       "identifiers": {
         "arxiv": "2608.06704"
@@ -114146,8 +114146,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.06745",
       "catalog_id": "arxiv:2608.06745",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-07",
       "identifiers": {
         "arxiv": "2608.06745"
@@ -114219,8 +114219,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.06862",
       "catalog_id": "arxiv:2608.06862",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-08-07",
       "identifiers": {
         "arxiv": "2608.06862"
@@ -114344,8 +114344,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.07873",
       "catalog_id": "arxiv:2608.07873",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-08-08",
       "identifiers": {
         "arxiv": "2608.07873"
@@ -114553,9 +114553,9 @@
       },
       "canonical_source_url": "https://arxiv.org/abs/2608.09278",
       "catalog_id": "arxiv:2608.09278",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-10",
       "identifiers": {
         "arxiv": "2608.09278"
@@ -115002,8 +115002,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.10775",
       "catalog_id": "arxiv:2608.10775",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-11",
       "identifiers": {
         "arxiv": "2608.10775"
@@ -115051,8 +115051,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.11191",
       "catalog_id": "arxiv:2608.11191",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-11",
       "identifiers": {
         "arxiv": "2608.11191"
@@ -115246,8 +115246,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.11588",
       "catalog_id": "arxiv:2608.11588",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-12",
       "identifiers": {
         "arxiv": "2608.11588"
@@ -115466,8 +115466,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.15089",
       "catalog_id": "arxiv:2608.15089",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-08-15",
       "identifiers": {
         "arxiv": "2608.15089"
@@ -115657,8 +115657,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.17310",
       "catalog_id": "arxiv:2608.17310",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-08-18",
       "identifiers": {
         "arxiv": "2608.17310"
@@ -116158,8 +116158,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.20707",
       "catalog_id": "arxiv:2608.20707",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-21",
       "identifiers": {
         "arxiv": "2608.20707"
@@ -116219,8 +116219,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.20797",
       "catalog_id": "arxiv:2608.20797",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-21",
       "identifiers": {
         "arxiv": "2608.20797"
@@ -116570,8 +116570,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.22077",
       "catalog_id": "arxiv:2608.22077",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-22",
       "identifiers": {
         "arxiv": "2608.22077"
@@ -116616,8 +116616,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.22510",
       "catalog_id": "arxiv:2608.22510",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-08-23",
       "identifiers": {
         "arxiv": "2608.22510"
@@ -117341,8 +117341,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.24898",
       "catalog_id": "arxiv:2608.24898",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-13",
       "identifiers": {
         "arxiv": "2608.24898"
@@ -117506,8 +117506,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.26200",
       "catalog_id": "arxiv:2608.26200",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-08-25",
       "identifiers": {
         "arxiv": "2608.26200"
@@ -117862,8 +117862,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.27477",
       "catalog_id": "arxiv:2608.27477",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-21",
       "identifiers": {
         "arxiv": "2608.27477"
@@ -118924,8 +118924,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.02401",
       "catalog_id": "arxiv:2609.02401",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-09-02",
       "identifiers": {
         "arxiv": "2609.02401"
@@ -119079,8 +119079,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.02987",
       "catalog_id": "arxiv:2609.02987",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-09-02",
       "identifiers": {
         "arxiv": "2609.02987"
@@ -119942,8 +119942,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.05535",
       "catalog_id": "arxiv:2609.05535",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-02",
       "identifiers": {
         "arxiv": "2609.05535"
@@ -120015,8 +120015,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.06059",
       "catalog_id": "arxiv:2609.06059",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-09-05",
       "identifiers": {
         "arxiv": "2609.06059"
@@ -120201,8 +120201,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.07603",
       "catalog_id": "arxiv:2609.07603",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-07",
       "identifiers": {
         "arxiv": "2609.07603"
@@ -120727,8 +120727,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.12404",
       "catalog_id": "arxiv:2609.12404",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-11",
       "identifiers": {
         "arxiv": "2609.12404"
@@ -121111,8 +121111,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.14239",
       "catalog_id": "arxiv:2609.14239",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-13",
       "identifiers": {
         "arxiv": "2609.14239"
@@ -121315,8 +121315,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.15364",
       "catalog_id": "arxiv:2609.15364",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-14",
       "identifiers": {
         "arxiv": "2609.15364"
@@ -121635,8 +121635,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.16900",
       "catalog_id": "arxiv:2609.16900",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-15",
       "identifiers": {
         "arxiv": "2609.16900"
@@ -121824,8 +121824,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.18411",
       "catalog_id": "arxiv:2609.18411",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-16",
       "identifiers": {
         "arxiv": "2609.18411"
@@ -121931,8 +121931,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.19125",
       "catalog_id": "arxiv:2609.19125",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-16",
       "identifiers": {
         "arxiv": "2609.19125"
@@ -122445,8 +122445,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.22234",
       "catalog_id": "arxiv:2609.22234",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-09-03",
       "identifiers": {
         "arxiv": "2609.22234"
@@ -122506,8 +122506,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.22724",
       "catalog_id": "arxiv:2609.22724",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-19",
       "identifiers": {
         "arxiv": "2609.22724"
@@ -124865,8 +124865,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.35775",
       "catalog_id": "arxiv:2609.35775",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-31",
       "identifiers": {
         "arxiv": "2609.35775"
@@ -125954,8 +125954,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.38397",
       "catalog_id": "arxiv:2609.38397",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-29",
       "identifiers": {
         "arxiv": "2609.38397"
@@ -126021,8 +126021,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.38648",
       "catalog_id": "arxiv:2609.38648",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-09-29",
       "identifiers": {
         "arxiv": "2609.38648"
@@ -126277,8 +126277,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.39306",
       "catalog_id": "arxiv:2609.39306",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-09-30",
       "identifiers": {
         "arxiv": "2609.39306"
@@ -127483,8 +127483,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.03574",
       "catalog_id": "arxiv:2610.03574",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-02",
       "identifiers": {
         "arxiv": "2610.03574"
@@ -128342,8 +128342,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.07127",
       "catalog_id": "arxiv:2610.07127",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-05",
       "identifiers": {
         "arxiv": "2610.07127"
@@ -128495,8 +128495,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.08699",
       "catalog_id": "arxiv:2610.08699",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-06",
       "identifiers": {
         "arxiv": "2610.08699"
@@ -128934,8 +128934,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.11655",
       "catalog_id": "arxiv:2610.11655",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-08",
       "identifiers": {
         "arxiv": "2610.11655"
@@ -130410,8 +130410,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.15765",
       "catalog_id": "arxiv:2610.15765",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-11",
       "identifiers": {
         "arxiv": "2610.15765"
@@ -130663,8 +130663,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.16402",
       "catalog_id": "arxiv:2610.16402",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-12",
       "identifiers": {
         "arxiv": "2610.16402"
@@ -130876,8 +130876,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.16998",
       "catalog_id": "arxiv:2610.16998",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-12",
       "identifiers": {
         "arxiv": "2610.16998"
@@ -132667,8 +132667,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.20597",
       "catalog_id": "arxiv:2610.20597",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-14",
       "identifiers": {
         "arxiv": "2610.20597"
@@ -133166,8 +133166,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.22448",
       "catalog_id": "arxiv:2610.22448",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-15",
       "identifiers": {
         "arxiv": "2610.22448"
@@ -133772,8 +133772,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.23857",
       "catalog_id": "arxiv:2610.23857",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-01-12",
       "identifiers": {
         "arxiv": "2610.23857"
@@ -134156,8 +134156,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.24729",
       "catalog_id": "arxiv:2610.24729",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-17",
       "identifiers": {
         "arxiv": "2610.24729"
@@ -134208,8 +134208,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.25503",
       "catalog_id": "arxiv:2610.25503",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-18",
       "identifiers": {
         "arxiv": "2610.25503"
@@ -134263,8 +134263,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.25601",
       "catalog_id": "arxiv:2610.25601",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-19",
       "identifiers": {
         "arxiv": "2610.25601"
@@ -134869,8 +134869,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.27645",
       "catalog_id": "arxiv:2610.27645",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-20",
       "identifiers": {
         "arxiv": "2610.27645"
@@ -134930,8 +134930,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.27954",
       "catalog_id": "arxiv:2610.27954",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-20",
       "identifiers": {
         "arxiv": "2610.27954"
@@ -134997,8 +134997,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.28601",
       "catalog_id": "arxiv:2610.28601",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-20",
       "identifiers": {
         "arxiv": "2610.28601"
@@ -135061,8 +135061,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.28610",
       "catalog_id": "arxiv:2610.28610",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-20",
       "identifiers": {
         "arxiv": "2610.28610"
@@ -135189,8 +135189,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.29139",
       "catalog_id": "arxiv:2610.29139",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-21",
       "identifiers": {
         "arxiv": "2610.29139"
@@ -135244,8 +135244,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.29609",
       "catalog_id": "arxiv:2610.29609",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-21",
       "identifiers": {
         "arxiv": "2610.29609"
@@ -135337,9 +135337,9 @@
       },
       "canonical_source_url": "https://arxiv.org/abs/2610.30108",
       "catalog_id": "arxiv:2610.30108",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-21",
       "identifiers": {
         "arxiv": "2610.30108"
@@ -135456,8 +135456,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.30181",
       "catalog_id": "arxiv:2610.30181",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-19",
       "identifiers": {
         "arxiv": "2610.30181"
@@ -135505,8 +135505,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.30202",
       "catalog_id": "arxiv:2610.30202",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-21",
       "identifiers": {
         "arxiv": "2610.30202"
@@ -135575,8 +135575,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.30573",
       "catalog_id": "arxiv:2610.30573",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-22",
       "identifiers": {
         "arxiv": "2610.30573"
@@ -135764,8 +135764,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.31162",
       "catalog_id": "arxiv:2610.31162",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-22",
       "identifiers": {
         "arxiv": "2610.31162"
@@ -135819,8 +135819,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.31274",
       "catalog_id": "arxiv:2610.31274",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-22",
       "identifiers": {
         "arxiv": "2610.31274"
@@ -135874,8 +135874,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.31307",
       "catalog_id": "arxiv:2610.31307",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-22",
       "identifiers": {
         "arxiv": "2610.31307"
@@ -135984,8 +135984,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.31494",
       "catalog_id": "arxiv:2610.31494",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-22",
       "identifiers": {
         "arxiv": "2610.31494"
@@ -136054,8 +136054,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.31698",
       "catalog_id": "arxiv:2610.31698",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-21",
       "identifiers": {
         "arxiv": "2610.31698"
@@ -136106,8 +136106,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.31712",
       "catalog_id": "arxiv:2610.31712",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-22",
       "identifiers": {
         "arxiv": "2610.31712"
@@ -136237,8 +136237,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.32223",
       "catalog_id": "arxiv:2610.32223",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-23",
       "identifiers": {
         "arxiv": "2610.32223"
@@ -136307,8 +136307,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.32482",
       "catalog_id": "arxiv:2610.32482",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-23",
       "identifiers": {
         "arxiv": "2610.32482"
@@ -136359,8 +136359,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.32536",
       "catalog_id": "arxiv:2610.32536",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-23",
       "identifiers": {
         "arxiv": "2610.32536"
@@ -136411,8 +136411,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.33528",
       "catalog_id": "arxiv:2610.33528",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-24",
       "identifiers": {
         "arxiv": "2610.33528"
@@ -136475,8 +136475,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.33636",
       "catalog_id": "arxiv:2610.33636",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-24",
       "identifiers": {
         "arxiv": "2610.33636"
@@ -136524,8 +136524,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.33645",
       "catalog_id": "arxiv:2610.33645",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-24",
       "identifiers": {
         "arxiv": "2610.33645"
@@ -136768,8 +136768,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.34384",
       "catalog_id": "arxiv:2610.34384",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-25",
       "identifiers": {
         "arxiv": "2610.34384"
@@ -136881,8 +136881,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.34582",
       "catalog_id": "arxiv:2610.34582",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-25",
       "identifiers": {
         "arxiv": "2610.34582"
@@ -136936,8 +136936,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.34634",
       "catalog_id": "arxiv:2610.34634",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-25",
       "identifiers": {
         "arxiv": "2610.34634"
@@ -137006,8 +137006,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.34724",
       "catalog_id": "arxiv:2610.34724",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-26",
       "identifiers": {
         "arxiv": "2610.34724"
@@ -137079,8 +137079,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.34735",
       "catalog_id": "arxiv:2610.34735",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-26",
       "identifiers": {
         "arxiv": "2610.34735"
@@ -137161,8 +137161,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.34959",
       "catalog_id": "arxiv:2610.34959",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-26",
       "identifiers": {
         "arxiv": "2610.34959"
@@ -137252,8 +137252,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.35138",
       "catalog_id": "arxiv:2610.35138",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-26",
       "identifiers": {
         "arxiv": "2610.35138"
@@ -137365,8 +137365,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.35237",
       "catalog_id": "arxiv:2610.35237",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-26",
       "identifiers": {
         "arxiv": "2610.35237"
@@ -137478,8 +137478,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.35823",
       "catalog_id": "arxiv:2610.35823",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-26",
       "identifiers": {
         "arxiv": "2610.35823"
@@ -137539,8 +137539,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.36471",
       "catalog_id": "arxiv:2610.36471",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-27",
       "identifiers": {
         "arxiv": "2610.36471"
@@ -137597,8 +137597,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.36831",
       "catalog_id": "arxiv:2610.36831",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-27",
       "identifiers": {
         "arxiv": "2610.36831"
@@ -137661,8 +137661,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.36874",
       "catalog_id": "arxiv:2610.36874",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-27",
       "identifiers": {
         "arxiv": "2610.36874"
@@ -137728,8 +137728,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.36877",
       "catalog_id": "arxiv:2610.36877",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-27",
       "identifiers": {
         "arxiv": "2610.36877"
@@ -137792,8 +137792,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.37093",
       "catalog_id": "arxiv:2610.37093",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-27",
       "identifiers": {
         "arxiv": "2610.37093"
@@ -137896,8 +137896,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.37482",
       "catalog_id": "arxiv:2610.37482",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-27",
       "identifiers": {
         "arxiv": "2610.37482"
@@ -137960,8 +137960,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.37786",
       "catalog_id": "arxiv:2610.37786",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-27",
       "identifiers": {
         "arxiv": "2610.37786"
@@ -138070,8 +138070,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.39234",
       "catalog_id": "arxiv:2610.39234",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-29",
       "identifiers": {
         "arxiv": "2610.39234"
@@ -138128,8 +138128,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.39251",
       "catalog_id": "arxiv:2610.39251",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-29",
       "identifiers": {
         "arxiv": "2610.39251"
@@ -138186,8 +138186,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.39264",
       "catalog_id": "arxiv:2610.39264",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-29",
       "identifiers": {
         "arxiv": "2610.39264"
@@ -138232,8 +138232,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.39282",
       "catalog_id": "arxiv:2610.39282",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-29",
       "identifiers": {
         "arxiv": "2610.39282"
@@ -138296,8 +138296,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.39488",
       "catalog_id": "arxiv:2610.39488",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-29",
       "identifiers": {
         "arxiv": "2610.39488"
@@ -138354,8 +138354,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.40133",
       "catalog_id": "arxiv:2610.40133",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-29",
       "identifiers": {
         "arxiv": "2610.40133"
@@ -138412,8 +138412,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.40246",
       "catalog_id": "arxiv:2610.40246",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-29",
       "identifiers": {
         "arxiv": "2610.40246"
@@ -138479,8 +138479,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.40578",
       "catalog_id": "arxiv:2610.40578",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-29",
       "identifiers": {
         "arxiv": "2610.40578"
@@ -138588,8 +138588,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.40747",
       "catalog_id": "arxiv:2610.40747",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-29",
       "identifiers": {
         "arxiv": "2610.40747"
@@ -138649,8 +138649,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.41181",
       "catalog_id": "arxiv:2610.41181",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-30",
       "identifiers": {
         "arxiv": "2610.41181"
@@ -138710,8 +138710,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.41272",
       "catalog_id": "arxiv:2610.41272",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-30",
       "identifiers": {
         "arxiv": "2610.41272"
@@ -138759,8 +138759,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.41397",
       "catalog_id": "arxiv:2610.41397",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-30",
       "identifiers": {
         "arxiv": "2610.41397"
@@ -138826,8 +138826,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.41432",
       "catalog_id": "arxiv:2610.41432",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-30",
       "identifiers": {
         "arxiv": "2610.41432"
@@ -138933,8 +138933,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.00169",
       "catalog_id": "arxiv:2611.00169",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-30",
       "identifiers": {
         "arxiv": "2611.00169"
@@ -139021,8 +139021,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.00191",
       "catalog_id": "arxiv:2611.00191",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-30",
       "identifiers": {
         "arxiv": "2611.00191"
@@ -139070,8 +139070,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.00881",
       "catalog_id": "arxiv:2611.00881",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-31",
       "identifiers": {
         "arxiv": "2611.00881"
@@ -139116,8 +139116,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.00884",
       "catalog_id": "arxiv:2611.00884",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-31",
       "identifiers": {
         "arxiv": "2611.00884"
@@ -139186,8 +139186,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.00926",
       "catalog_id": "arxiv:2611.00926",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-31",
       "identifiers": {
         "arxiv": "2611.00926"
@@ -139247,8 +139247,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.01351",
       "catalog_id": "arxiv:2611.01351",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-31",
       "identifiers": {
         "arxiv": "2611.01351"
@@ -139390,8 +139390,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.01891",
       "catalog_id": "arxiv:2611.01891",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-01",
       "identifiers": {
         "arxiv": "2611.01891"
@@ -139590,8 +139590,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.02472",
       "catalog_id": "arxiv:2611.02472",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-02",
       "identifiers": {
         "arxiv": "2611.02472"
@@ -139645,8 +139645,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.02644",
       "catalog_id": "arxiv:2611.02644",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-02",
       "identifiers": {
         "arxiv": "2611.02644"
@@ -139703,8 +139703,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.03116",
       "catalog_id": "arxiv:2611.03116",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-02",
       "identifiers": {
         "arxiv": "2611.03116"
@@ -139800,8 +139800,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.03126",
       "catalog_id": "arxiv:2611.03126",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-02",
       "identifiers": {
         "arxiv": "2611.03126"
@@ -140036,8 +140036,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.03238",
       "catalog_id": "arxiv:2611.03238",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-02",
       "identifiers": {
         "arxiv": "2611.03238"
@@ -140078,8 +140078,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.03634",
       "catalog_id": "arxiv:2611.03634",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-02",
       "identifiers": {
         "arxiv": "2611.03634"
@@ -140133,8 +140133,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.03930",
       "catalog_id": "arxiv:2611.03930",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-11-02",
       "identifiers": {
         "arxiv": "2611.03930"
@@ -140194,8 +140194,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.04073",
       "catalog_id": "arxiv:2611.04073",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-02",
       "identifiers": {
         "arxiv": "2611.04073"
@@ -140243,8 +140243,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.04142",
       "catalog_id": "arxiv:2611.04142",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-03",
       "identifiers": {
         "arxiv": "2611.04142"
@@ -140301,8 +140301,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.04393",
       "catalog_id": "arxiv:2611.04393",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-11-03",
       "identifiers": {
         "arxiv": "2611.04393"
@@ -140411,8 +140411,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.05263",
       "catalog_id": "arxiv:2611.05263",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-03",
       "identifiers": {
         "arxiv": "2611.05263"
@@ -140527,8 +140527,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.05873",
       "catalog_id": "arxiv:2611.05873",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-04",
       "identifiers": {
         "arxiv": "2611.05873"
@@ -140594,8 +140594,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.06039",
       "catalog_id": "arxiv:2611.06039",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-04",
       "identifiers": {
         "arxiv": "2611.06039"
@@ -140780,8 +140780,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.06544",
       "catalog_id": "arxiv:2611.06544",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-04",
       "identifiers": {
         "arxiv": "2611.06544"
@@ -140829,8 +140829,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2611.06854",
       "catalog_id": "arxiv:2611.06854",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-11-04",
       "identifiers": {
         "arxiv": "2611.06854"

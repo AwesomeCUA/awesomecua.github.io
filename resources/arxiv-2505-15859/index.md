@@ -14,7 +14,7 @@ Introduces AutoData, a multi-agent system that collects web datasets from a natu
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The work addresses web data collection rather than describing interactive page operation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-15859/record.json
 

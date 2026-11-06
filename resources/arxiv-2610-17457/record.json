@@ -76,12 +76,15 @@
     }
   ],
   "name": "BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-10-12",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Extends BrowseSafe with paired attacked and clean webpages in several representations, and studies text and screenshot detectors plus feedback-adapted prompt injections.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security",
     "evaluation",

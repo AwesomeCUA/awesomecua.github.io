@@ -14,7 +14,7 @@ DailyDroid compares text-only and text-plus-screenshot agents on everyday Androi
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-17817/record.json
 

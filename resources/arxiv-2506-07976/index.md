@@ -14,7 +14,7 @@ Test-Time Interaction scales the interaction horizon so web agents can explore, 
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-07976/record.json
 

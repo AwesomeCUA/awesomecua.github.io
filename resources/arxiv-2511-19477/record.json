@@ -68,7 +68,7 @@
     }
   ],
   "name": "Building Browser Agents: Architecture, Security, and Practical Solutions",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. Broader claims about the safety of general-purpose browsing are the paper's position, not a catalog conclusion.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Broader claims about the safety of general-purpose browsing are the paper's position, not a catalog conclusion.",
   "published_at": "2025-11-22",
   "relations": [],
   "review_status": "curated",

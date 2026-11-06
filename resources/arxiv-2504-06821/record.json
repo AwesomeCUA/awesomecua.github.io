@@ -71,7 +71,7 @@
     }
   ],
   "name": "Inducing Programmatic Skills for Agentic Tasks",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract evaluates ASI on WebArena and examines skill transfer between websites. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract evaluates ASI on WebArena and examines skill transfer between websites.",
   "published_at": "2025-04-09",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Describes V-Zen, a multimodal GUI model with dual-resolution image encoders for 
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. The related GUIDE dataset paper remains a separate record; this annotation describes the V-Zen model contribution.
+Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The related GUIDE dataset paper remains a separate record; this annotation describes the V-Zen model contribution.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2405-15341/record.json
 

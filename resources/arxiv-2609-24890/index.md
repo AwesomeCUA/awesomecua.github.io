@@ -14,7 +14,7 @@ Adds annotated intermediate subgoals to computer-use tasks and uses process-orie
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-24890/record.json
 

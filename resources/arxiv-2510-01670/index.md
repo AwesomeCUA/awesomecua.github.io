@@ -14,7 +14,7 @@ BLIND-ACT tests whether computer-use agents persist with ambiguous, contradictor
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-01670/record.json
 

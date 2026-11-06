@@ -14,7 +14,7 @@ Introduces AgentBoard, a multiturn agent evaluation framework with intermediate 
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The full paper documents search/click WebShop actions and 11 browser actions in WebArena, while the overall benchmark also covers non-web domains.
+Reviewed against the retained original arXiv abstract. The full paper documents search/click WebShop actions and 11 browser actions in WebArena, while the overall benchmark also covers non-web domains.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2401-13178/record.json
 

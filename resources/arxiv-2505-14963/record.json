@@ -76,12 +76,15 @@
     }
   ],
   "name": "MedBrowseComp: Benchmarking Medical Deep Research and Computer Use",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract describes knowledge-base retrieval, without specifying a GUI or browser interface. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2025-05-20",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces MedBrowseComp, a benchmark of human-curated, multi-hop medical questions for agents retrieving and synthesizing facts from live knowledge bases in a computer-use setting.",
+  "task_classes": [
+    "R04.01.01.01"
+  ],
   "topics": [
     "evaluation",
     "long-horizon"

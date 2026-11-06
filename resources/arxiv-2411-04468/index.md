@@ -14,7 +14,7 @@ Introduces an orchestrated team of browsing, file, and coding agents with progre
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-04468/record.json
 

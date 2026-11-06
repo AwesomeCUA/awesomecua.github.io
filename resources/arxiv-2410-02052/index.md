@@ -14,7 +14,7 @@ ExACT combines reflective tree search with learning from search experience to he
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v5). The reported agent evaluation is on VisualWebArena. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v5). The reported agent evaluation is on VisualWebArena.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-02052/record.json
 

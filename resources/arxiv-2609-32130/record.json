@@ -70,7 +70,7 @@
     }
   ],
   "name": "REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-09-26",
   "relations": [],
   "review_status": "curated",

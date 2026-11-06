@@ -14,7 +14,7 @@ Bibliographic record for Code4Scene: Benchmarking Coding Agents for Constructing
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-36777/record.json
 

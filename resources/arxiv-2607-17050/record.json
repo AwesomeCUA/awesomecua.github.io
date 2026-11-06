@@ -72,7 +72,7 @@
     }
   ],
   "name": "EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-07-19",
   "relations": [],
   "review_status": "curated",

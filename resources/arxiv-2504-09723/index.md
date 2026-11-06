@@ -14,7 +14,7 @@ Introduces AgentA/B, which uses persona-based LLM agents to navigate real webpag
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v4). The abstract describes a controlled shopping-site experiment comparing simulated agents with human behavior. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v4). The abstract describes a controlled shopping-site experiment comparing simulated agents with human behavior.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-09723/record.json
 

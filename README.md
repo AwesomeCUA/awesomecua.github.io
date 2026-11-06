@@ -43,9 +43,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**1,864 curated resources** · **1,391 reviewed papers and surveys** · **103 discovery documents**
+**2,146 curated resources** · **1,673 reviewed papers and surveys** · **104 discovery documents**
 
-Evidence snapshot: 2026-11-06T09:00:05Z. Only curated resources are counted. 628 records awaiting review and 1,971 discovered candidates are listed separately in the [coverage ledger](https://awesomecua.com/coverage/). Resources are not independent projects.
+Evidence snapshot: 2026-11-06T09:00:05Z. Only curated resources are counted. 346 records awaiting review and 1,971 discovered candidates are listed separately in the [coverage ledger](https://awesomecua.com/coverage/). Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -55,8 +55,8 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 
 | Category | Curated | Browse |
 | --- | ---: | --- |
-| Research papers | 1,368 | [Open directory](https://awesomecua.com/categories/paper/) |
-| Surveys | 23 | [Open directory](https://awesomecua.com/categories/survey/) |
+| Research papers | 1,645 | [Open directory](https://awesomecua.com/categories/paper/) |
+| Surveys | 28 | [Open directory](https://awesomecua.com/categories/survey/) |
 | Learning resources | 2 | [Open directory](https://awesomecua.com/categories/learning/) |
 | Models and checkpoints | 98 | [Open directory](https://awesomecua.com/categories/model/) |
 | Datasets | 86 | [Open directory](https://awesomecua.com/categories/dataset/) |
@@ -72,16 +72,16 @@ Category pages highlight reviewed resources; the [interactive catalog](https://a
 
 ## Research reading list
 
-- [CUA-Lite: An Open Platform for Computer Use Agents](https://awesomecua.com/resources/arxiv-2610-26071/) — CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks. [Original paper](https://arxiv.org/abs/2610.26071).
-- [Focused Omni-Modal GUI Agents](https://awesomecua.com/resources/arxiv-2610-26203/) — FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs. [Original paper](https://arxiv.org/abs/2610.26203).
-- [VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards](https://awesomecua.com/resources/arxiv-2610-26469/) — VeriCUA trains a Judge to select verification checks and stopping decisions while a frozen Probe inspects the post-task GUI. Single-attempt reinforcement learning balances verdict correctness and Probe use. [Original paper](https://arxiv.org/abs/2610.26469).
-- [ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents](https://awesomecua.com/resources/arxiv-2610-26503/) — ScopeMem conditions latent-memory prefixes on a frozen GUI agent's initial action and trains them to correct errors while preserving correct decisions. Its evaluation separates action repairs from harmful revisions. [Original paper](https://arxiv.org/abs/2610.26503).
-- [Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs](https://awesomecua.com/resources/arxiv-2610-26660/) — Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point state checkpoints, rollback-aware speculative decoding and idle power release between request bursts. [Original paper](https://arxiv.org/abs/2610.26660).
-- [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://awesomecua.com/resources/arxiv-2610-26703/) — MAP annotates computer-use traces at linked operation, function/consequence, method and goal levels, then compares human and agent workflows through sequence, pattern and effort metrics. [Original paper](https://arxiv.org/abs/2610.26703).
-- [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://awesomecua.com/resources/arxiv-2610-26828/) — WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning. [Original paper](https://arxiv.org/abs/2610.26828).
-- [Beyond Next-Screen Prediction: The Decision Value of GUI World Models](https://awesomecua.com/resources/arxiv-2610-24372/) — Separates next-screen prediction from action evaluation in GUI lookahead and trains Direct Action Ranking on reference actions, comparing prediction-augmented scoring under matched offline supervision. [Original paper](https://arxiv.org/abs/2610.24372).
-- [PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas](https://awesomecua.com/resources/arxiv-2610-22990/) — PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings. [Original paper](https://arxiv.org/abs/2610.22990).
-- [Adaptation of Computer Use Agents to New Software with User Manuals](https://awesomecua.com/resources/arxiv-2610-23012/) — MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO. [Original paper](https://arxiv.org/abs/2610.23012).
+- [Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2611-05873/) — AdaptiTest specifies scoped, revalidated memory for an LLM-based mobile GUI tester to reuse routes and locators across read-only Android test workflows. [Original paper](https://arxiv.org/abs/2611.05873).
+- [Securing Web Agents with the Compile-Then-Execute Paradigm](https://awesomecua.com/resources/arxiv-2611-06039/) — Baya compiles a web task into a program using a Trusted Website API before viewing live content, limiting how webpage prompt injections can alter agent control flow. [Original paper](https://arxiv.org/abs/2611.06039).
+- [MKD2World: A Typed Spatial MarkDown World Model For Web Agents](https://awesomecua.com/resources/arxiv-2611-06544/) — Introduces MKD2World, a desktop web world model that represents interface elements in Typed Spatial Markdown and predicts post-action states, supported by AtomBlock-WebUI annotations. [Original paper](https://arxiv.org/abs/2611.06544).
+- [Visual Token Routing: Learning to keep tokens that matter](https://awesomecua.com/resources/arxiv-2611-06854/) — Introduces Visual Token Routing (VTR), which selects visual tokens from current and earlier screenshots to reduce computer-use agent inference cost while retaining action-relevant information. [Original paper](https://arxiv.org/abs/2611.06854).
+- [Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining](https://awesomecua.com/resources/arxiv-2611-04142/) — Applies sequential pattern mining to MiniWoB++ web-agent traces, producing reviewable failure signatures and an early-termination policy to reduce token use. [Original paper](https://arxiv.org/abs/2611.04142).
+- [Voluntary Servitude: Weaponized Safety Warning Mechanisms for Controlling AI Agents](https://awesomecua.com/resources/arxiv-2611-04393/) — Studies fabricated hazard warnings in reviews that steer agents’ choices without explicit commands, including transfer to browser agents, and tests a corroboration requirement. [Original paper](https://arxiv.org/abs/2611.04393).
+- [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](https://awesomecua.com/resources/arxiv-2611-05263/) — Introduces JHiMA-WebRL, which jointly trains a task decomposer and GUI actor with hierarchical RL for long-horizon web tasks in WebArena. [Original paper](https://arxiv.org/abs/2611.05263).
+- [MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework](https://awesomecua.com/resources/arxiv-2611-02472/) — Introduces MAGAR-Bench for GUI-based 3D mechanical assembly decisions and recovery, and MAGAR, a selective correction method for assembly outputs and actions. [Original paper](https://arxiv.org/abs/2611.02472).
+- [Coati: Host-Grounded Execution for Installable Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2611-02644/) — Introduces Coati, an installable Android GUI agent that checks action outcomes with phone-side evidence, stores per-app procedures, and routes simpler steps to a fast executor. [Original paper](https://arxiv.org/abs/2611.02644).
+- [From Local Skills to Long-Horizon Web Tasks: Progressive Skill Exploration for LLM Web Agents](https://awesomecua.com/resources/arxiv-2611-03116/) — Introduces SCOPE, a training method for long web-agent tasks that discovers local skills from rollouts, composes them into chains, and expands them using failure experience. [Original paper](https://arxiv.org/abs/2611.03116).
 
 [All reviewed papers and surveys](https://awesomecua.com/papers/). Annotations do not independently reproduce experimental findings.
 

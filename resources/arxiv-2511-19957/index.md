@@ -14,7 +14,7 @@ AppSelectBench evaluates whether computer-using agents choose the right desktop 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). It assesses application choice before fine-grained tool use, rather than execution within the chosen app. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-19957/record.json
 

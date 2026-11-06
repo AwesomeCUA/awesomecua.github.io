@@ -78,7 +78,7 @@
     }
   ],
   "name": "Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2023-05-14",
   "relations": [],
   "review_status": "curated",

@@ -141,7 +141,7 @@
     }
   ],
   "name": "VideoGUI: A Benchmark for GUI Automation from Instructional Videos",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-06-14",
   "relations": [],
   "review_status": "curated",

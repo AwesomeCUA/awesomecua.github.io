@@ -14,7 +14,7 @@ Uses a staged curriculum from response-format alignment through action feedback 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-20332/record.json
 

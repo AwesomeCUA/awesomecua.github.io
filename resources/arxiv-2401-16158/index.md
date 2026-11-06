@@ -14,7 +14,7 @@ Uses visual perception tools and task decomposition to operate mobile applicatio
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2401-16158/record.json
 

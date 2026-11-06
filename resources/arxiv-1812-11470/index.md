@@ -14,7 +14,7 @@ Surveys automated functional GUI testing techniques for mobile apps, comparing t
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The review concerns mobile GUI testing techniques rather than agents operating apps to fulfill user requests. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-1812-11470/record.json
 

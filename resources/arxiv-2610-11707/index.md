@@ -14,7 +14,7 @@ Introduces DeltaReplay, which stores mobile GUI trajectories as transition graph
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-11707/record.json
 

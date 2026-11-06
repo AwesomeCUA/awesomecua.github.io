@@ -14,7 +14,7 @@ OpenAgents hosts three language agents, for data analysis, API plugins and auton
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Scope is adjacent: autonomous web browsing is one of three hosted agents, beside data-analysis and API-plugin agents.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Scope is adjacent: autonomous web browsing is one of three hosted agents, beside data-analysis and API-plugin agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-10634/record.json
 

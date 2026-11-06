@@ -75,7 +75,7 @@
     }
   ],
   "name": "ElderBench: Benchmarking Autonomous Mobile Agents for Older Adults",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-09-04",
   "relations": [],
   "review_status": "curated",

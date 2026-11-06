@@ -14,7 +14,7 @@ Introduces a finer-grained taxonomy of GUI localization errors and a logit-based
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-15425/record.json
 

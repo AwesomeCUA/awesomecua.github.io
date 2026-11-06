@@ -14,7 +14,7 @@ Presents ResponsibleTA, a coordinator-executor framework that checks command fea
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. UI task automation is stated in the abstract, but its platform and detailed evaluation protocol are not identified.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. UI task automation is stated in the abstract, but its platform and detailed evaluation protocol are not identified.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2306-01242/record.json
 

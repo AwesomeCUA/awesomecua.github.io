@@ -14,7 +14,7 @@ R2D2 gives web agents a replay-buffer map of visited pages and a reflection step
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract evaluates R2D2 on WebArena. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract evaluates R2D2 on WebArena.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-12485/record.json
 

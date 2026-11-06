@@ -74,7 +74,7 @@
     }
   ],
   "name": "AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The framework is evaluated across multiple domains; web navigation is one of them. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The framework is evaluated across multiple domains; web navigation is one of them.",
   "published_at": "2024-03-13",
   "relations": [],
   "review_status": "curated",

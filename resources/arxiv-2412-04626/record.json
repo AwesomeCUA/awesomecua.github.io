@@ -110,7 +110,7 @@
     }
   ],
   "name": "BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI reasoning is part of a broader document and code benchmark suite. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI reasoning is part of a broader document and code benchmark suite.",
   "published_at": "2024-12-05",
   "relations": [],
   "review_status": "curated",

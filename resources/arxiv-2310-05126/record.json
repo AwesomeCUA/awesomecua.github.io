@@ -81,7 +81,7 @@
     }
   ],
   "name": "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The interface connection is static webpage-screenshot understanding; browser control is not claimed.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The interface connection is static webpage-screenshot understanding; browser control is not claimed.",
   "published_at": "2023-10-08",
   "relations": [],
   "review_status": "curated",

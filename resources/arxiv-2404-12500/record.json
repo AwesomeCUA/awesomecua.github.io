@@ -73,7 +73,7 @@
     }
   ],
   "name": "UIClip: A Data-driven Model for Assessing User Interface Design",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). It assesses interface designs and supports design suggestions; the abstract does not describe an agent operating a UI. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2024-04-18",
   "relations": [],
   "review_status": "curated",

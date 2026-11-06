@@ -14,7 +14,7 @@ Introduces V-Droid, which verifies candidate actions in a discrete action space 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-15937/record.json
 

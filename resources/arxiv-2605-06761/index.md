@@ -14,7 +14,7 @@ Introduces Weblica, which combines HTTP-level capture and replay with website-gr
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-06761/record.json
 

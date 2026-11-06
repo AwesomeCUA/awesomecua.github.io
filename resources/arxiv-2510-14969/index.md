@@ -14,7 +14,7 @@ Introduces UI-Simulator, which generates UI states and transitions for agent-tra
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract reports evaluations on WebArena and AndroidWorld, but does not identify one platform as the simulator's setting. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-14969/record.json
 

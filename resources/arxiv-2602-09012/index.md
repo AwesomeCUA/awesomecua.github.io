@@ -14,7 +14,7 @@ Next-Gen CAPTCHAs introduces generated interactive challenges intended to distin
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-09012/record.json
 

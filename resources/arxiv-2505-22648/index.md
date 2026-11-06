@@ -14,7 +14,7 @@ Bibliographic record for WebDancer: Towards Autonomous Information Seeking Agenc
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-22648/record.json
 

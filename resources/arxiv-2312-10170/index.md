@@ -14,7 +14,7 @@ Introduces UINav, a demonstration-based method for training mobile UI automation
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v4). The abstract reports accuracy at specified demonstration counts without naming the evaluated apps. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v4).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2312-10170/record.json
 

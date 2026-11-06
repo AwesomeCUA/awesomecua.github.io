@@ -74,7 +74,7 @@
     }
   ],
   "name": "TaskSense: Cognitive Chain Modeling and Difficulty Estimation for GUI Tasks",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its difficulty estimates are compared with user completion time and agent success on cognitively demanding tasks. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its difficulty estimates are compared with user completion time and agent success on cognitively demanding tasks.",
   "published_at": "2025-11-12",
   "relations": [],
   "review_status": "curated",

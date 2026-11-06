@@ -73,7 +73,7 @@
     }
   ],
   "name": "Infogent: An Agent-Based Framework for Web Information Aggregation",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its evaluation includes both API-driven access and interactive visual browser access. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its evaluation includes both API-driven access and interactive visual browser access.",
   "published_at": "2024-10-24",
   "relations": [],
   "review_status": "curated",

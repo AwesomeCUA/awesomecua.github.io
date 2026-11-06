@@ -14,7 +14,7 @@ Introduces GUISpector, an MLLM agent framework that operates GUI prototypes to c
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The evaluation uses 150 requirements based on 900 acceptance-criteria annotations. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The evaluation uses 150 requirements based on 900 acceptance-criteria annotations.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-04791/record.json
 

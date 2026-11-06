@@ -74,7 +74,7 @@
     }
   ],
   "name": "ExACT: Teaching AI Agents to Explore with Reflective-MCTS and Exploratory Learning",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v5). The reported agent evaluation is on VisualWebArena. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v5). The reported agent evaluation is on VisualWebArena.",
   "published_at": "2024-10-02",
   "relations": [],
   "review_status": "curated",

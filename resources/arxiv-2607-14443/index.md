@@ -14,7 +14,7 @@ Tactile turns accessibility, OCR and visual evidence into explicit desktop targe
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-14443/record.json
 

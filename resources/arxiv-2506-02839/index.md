@@ -14,7 +14,7 @@ DeepShop evaluates shopping agents with evolving query complexity across product
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-02839/record.json
 

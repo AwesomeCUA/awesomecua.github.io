@@ -14,7 +14,7 @@ DOMSteer translates help requests and live page context into reversible DOM chan
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-14668/record.json
 

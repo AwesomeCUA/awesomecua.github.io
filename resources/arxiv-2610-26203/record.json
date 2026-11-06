@@ -86,7 +86,7 @@
     }
   ],
   "name": "Focused Omni-Modal GUI Agents",
-  "notes": "Reviewed the complete retained abstract and selected v1 method/evaluation sections. OmniGUI uses episode-disjoint reference-action evaluation; Type Match, Exact Match and Goal Progress are not presented as independently demonstrated live task-success gains. The Android role is explicit in Appendix D.1. No reproduction or artifact-release verification.",
+  "notes": "Reviewed the complete retained abstract and selected v1 method/evaluation sections. OmniGUI uses episode-disjoint reference-action evaluation; Type Match, Exact Match and Goal Progress are not presented as independently demonstrated live task-success gains. The Android role is explicit in Appendix D.1.",
   "published_at": "2026-10-19",
   "relations": [],
   "review_status": "curated",

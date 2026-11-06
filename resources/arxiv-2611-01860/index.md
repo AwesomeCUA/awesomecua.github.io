@@ -14,7 +14,7 @@ Bibliographic record for Advances in Agentic Computer Graphics. Title, authors a
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2611-01860/record.json
 

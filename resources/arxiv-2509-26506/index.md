@@ -14,7 +14,7 @@ SCUBA evaluates enterprise UI navigation and CRM workflows with 300 task instanc
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-26506/record.json
 

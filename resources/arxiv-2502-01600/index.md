@@ -14,7 +14,7 @@ LOOP trains interactive digital agents with reinforcement learning in stateful, 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The described agents use direct API calls in AppWorld; GUI operation is not described. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-01600/record.json
 

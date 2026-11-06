@@ -73,12 +73,15 @@
     }
   ],
   "name": "IDA: Breaking Barriers in No-code UI Automation Through Large Language Models and Human-Centric Design",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-07-22",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "IDA helps business users create web UI automation through guided demonstrations, a semantic programming model, and a teaching-oriented interface. A prototype user study examines automation creation with enterprise applications by users without programming backgrounds.",
+  "task_classes": [
+    "R01.06.01.03"
+  ],
   "topics": [
     "human-in-the-loop",
     "automation",

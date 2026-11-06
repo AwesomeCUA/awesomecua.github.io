@@ -14,7 +14,7 @@ Introduces WAInjectBench with a threat-model taxonomy and malicious and benign t
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The reported contribution evaluates attack detection; end-to-end prevention of browser-agent compromise is not inferred.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The reported contribution evaluates attack detection; end-to-end prevention of browser-agent compromise is not inferred.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-01354/record.json
 

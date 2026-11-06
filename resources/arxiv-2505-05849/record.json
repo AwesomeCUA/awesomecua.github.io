@@ -76,7 +76,7 @@
     }
   ],
   "name": "AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v4). The framework targets LLM agents broadly; web navigation is one attack outcome reported in the abstract. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v4). The framework targets LLM agents broadly; web navigation is one attack outcome reported in the abstract.",
   "published_at": "2025-05-09",
   "relations": [],
   "review_status": "curated",

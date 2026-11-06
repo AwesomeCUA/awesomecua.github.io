@@ -14,7 +14,7 @@ Combines iterative web search and link-following with interleaved reasoning and 
 
 ## Limitations
 
-Adjacent web-research method. The retained abstract and full-text Section 3 and Appendix A describe search APIs and Crawl4AI URL retrieval; no visual GUI execution is inferred. Results were not independently reproduced.
+Adjacent web-research method. The retained abstract and full-text Section 3 and Appendix A describe search APIs and Crawl4AI URL retrieval; no visual GUI execution is inferred.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-21776/record.json
 

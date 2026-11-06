@@ -6,6 +6,28 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
 
 ## Papers & surveys
 
+- [Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2611-05873/) — 2026-11-04
+  AdaptiTest specifies scoped, revalidated memory for an LLM-based mobile GUI tester to reuse routes and locators across read-only Android test workflows.
+- [Coati: Host-Grounded Execution for Installable Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2611-02644/) — 2026-11-02
+  Introduces Coati, an installable Android GUI agent that checks action outcomes with phone-side evidence, stores per-app procedures, and routes simpler steps to a fast executor.
+- [MAPLE: A Multimodal Mobile Agent with Playbook-Learned Experience](https://awesomecua.com/resources/arxiv-2611-01351/) — 2026-10-31
+  Introduces MAPLE, a training-free multi-agent framework that shares step-level experience while navigating mobile GUIs and updates prompts during execution.
+- [MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions](https://awesomecua.com/resources/arxiv-2611-00191/) — 2026-10-30
+  Introduces MemU-Bench for mobile GUI tasks that depend on past user interactions, alongside AppMem, a training-free memory framework for retrieving app-specific context.
+- [GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2610-36877/) — 2026-10-27
+  Introduces GUI-JEPA, a mobile GUI policy that scores candidate actions from screenshot latents in a batched pass without decoding action text.
+- [Chart the Invisible: Interactive Perception for Hidden-Target Exploration in GUI Agents](https://awesomecua.com/resources/arxiv-2610-35237/) — 2026-10-26
+  Introduces Hagasu, a scrollable-region perception model that helps GUI agents decide where to swipe to reveal hidden targets, especially on mobile screens.
+- [iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents](https://awesomecua.com/resources/arxiv-2610-34735/) — 2026-10-26
+  Introduces iPrefBench, an iOS benchmark for mobile agents that tests when they infer missing user preferences from activity history and when they ask the user.
+- [AndroidFlux: Evaluating and Reward Modeling Failure Recovery Capabilities in Mobile Use Multimodal Agents](https://awesomecua.com/resources/arxiv-2610-34384/) — 2026-10-25
+  Introduces AndroidFlux, a mobile-agent failure-recovery benchmark that restores trajectories to error checkpoints, plus a reward-modeling benchmark and offline RL dataset.
+- [Reuse, Rewrite, or Reject: Evidence-Constrained Trace Reuse for Repeated Mobile GUI Control](https://awesomecua.com/resources/arxiv-2610-31712/) — 2026-10-22
+  Proposes graph-text templates that let mobile GUI agents reuse, adapt, or discard steps from earlier executions based on the current instruction and UI state.
+- [Subgoal-aware Memory Graph for GUI Agent](https://awesomecua.com/resources/arxiv-2610-31307/) — 2026-10-22
+  Proposes a subgoal-aware memory graph that turns past mobile GUI agent trajectories into reusable evidence for decisions across tasks.
+- [Diagnosing Personalization Failures in Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2610-30573/) — 2026-10-22
+  PrefDiag-Bench diagnoses when and how user preferences should affect sequential mobile GUI agent actions, using staged probes and user context.
 - [Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs](https://awesomecua.com/resources/arxiv-2610-26660/) — 2026-10-19
   Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point state checkpoints, rollback-aware speculative decoding and idle power release between request bursts.
 - [Focused Omni-Modal GUI Agents](https://awesomecua.com/resources/arxiv-2610-26203/) — 2026-10-19
@@ -50,6 +72,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Trains a mobile planner with supervised trajectories and competence-adaptive RL, then couples typed tool execution with memory, skills and offline model-harness refinement.
 - [Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents](https://awesomecua.com/resources/arxiv-2609-27307/) — 2026-09-23
   GUI-SD-v2 extends on-policy self-distillation from grounding to multi-turn GUI interaction. It first strengthens responses to privileged guidance, then selectively distills step-specific reasoning and memory support for later actions.
+- [MATE: Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven Trajectory Learning](https://awesomecua.com/resources/arxiv-2609-22724/) — 2026-09-19
+  Introduces MATE, a policy-conditioned auditor for mobile-agent trajectories, and MATEBench for evaluating whether those trajectories violate app security policies.
 - [PriMobiBench: Characterizing Visual Privacy Leakage in VLM-Driven Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2609-13873/) — 2026-09-12
   PriMobiBench evaluates direct privacy leakage and user profiling from mobile GUI screenshot trajectories, supported by the MobiLeak trace dataset. It also tests masking sensitive, task-irrelevant interface elements before cloud processing and measures the resulting privacy and utility trade-off.
 - [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2609-12394/) — 2026-09-11
@@ -64,8 +88,14 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   ElderBench evaluates mobile GUI agents on smartphone requests elicited from older adults, including indirect and underspecified language. Online and offline tests, instruction normalization and linguistic analyses examine how these request patterns contribute to failures.
 - [ActReal: System-Level Mobile Agents Challenge Mobile Automation Detection](https://awesomecua.com/resources/arxiv-2608-30038/) — 2026-08-30
   Introduces ActReal, which translates semantic mobile-agent actions into coordinated touch and sensor signals to study automation-detection weaknesses. It evaluates detectors that observe touch events alone or together with inertial measurements under a privileged executor threat model.
+- [Benchmarking General Mobile Assistants in Challenging Real-World Scenarios](https://awesomecua.com/resources/arxiv-2608-27477/) — 2026-08-21
+  Introduces GMA, a benchmark of 300 mobile-assistant tasks across seven applications, and studies how agent context retention and state tracking affect complex workflows.
+- [Automated Trajectory Evaluation for Mobile Agents via Step-Level Consequence Reasoning and Aggregation](https://awesomecua.com/resources/arxiv-2608-20797/) — 2026-08-21
+  Introduces CRATE, a step-level visual judge for mobile-agent trajectories, and CRATE-S for assessing operational safety from action-conditioned state changes.
 - [Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions](https://awesomecua.com/resources/arxiv-2608-14132/) — 2026-08-14
   Introduces intention understanding, prediction, and confirmed execution tasks over mobile GUI trajectories, with a proactive agent combining personalized intention models and experience-guided actions.
+- [CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications](https://awesomecua.com/resources/arxiv-2608-11588/) — 2026-08-12
+  Introduces CoAdapt-GUI, which adapts workflow context and policy from a mobile GUI agent's own rollouts and rewards when it encounters unseen applications.
 - [Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection](https://awesomecua.com/resources/arxiv-2608-08939/) — 2026-08-09
   Demonstrates that unsanitized Android accessibility tree metadata exposes mobile GUI agents to stealthy indirect prompt injection attacks.
 - [AndroidReality: How Far Are Mobile Agents from the Real World?](https://awesomecua.com/resources/arxiv-2608-07775/) — 2026-08-07
@@ -78,10 +108,16 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Introduces SEE, which first explores mobile interfaces to build a screen-and-element transition graph, then composes task trajectories through graph planning and controlled sampling. It studies coverage, loop avoidance, and transfer after training agents on the generated sequences.
 - [HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://awesomecua.com/resources/arxiv-2607-14548/) — 2026-07-16
   Combines GUI perception data, instructional videos, real and simulated devices, and planning with reflection to develop a mobile agent.
+- [PalmClaw: A Native On-Device Agent Framework for Mobile Phones](https://awesomecua.com/resources/arxiv-2607-13027/) — 2026-07-14
+  Introduces PalmClaw, an on-device phone agent framework that manages sessions, memory, and tools, exposing mobile capabilities through structured device-tool calls.
 - [KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill](https://awesomecua.com/resources/arxiv-2607-12625/) — 2026-07-14
   KnowAct-GUIClaw combines a host planner with pluggable GUI subagents, attributable experience memory and an evolving skill library. It uses user profiles and feedback for task decomposition and evaluates transfer across Android, iOS, HarmonyOS and Windows.
+- [A Task-State Representation for Long-Horizon Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2607-00502/) — 2026-07-01
+  Introduces TSR, a training-free wrapper for long-horizon mobile GUI agents that tracks instructions, subgoal progress, and action outcomes separately from screen observations.
 - [(A)I Sees What You Don't: Exploiting New Attack Surfaces in Third-Party Mobile Agents](https://awesomecua.com/resources/arxiv-2607-00333/) — 2026-07-01
   Analyzes cross-app privilege escalation and visual attack surfaces introduced by third-party VLM-powered mobile agents.
+- [What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States](https://awesomecua.com/resources/arxiv-2606-31612/) — 2026-06-30
+  Proposes ATMem, an updated execution-state memory for long mobile GUI tasks, and STR-GRPO to train selective memory use; also introduces a mobile task benchmark.
 - [Xiaomi-GUI-0 Technical Report](https://awesomecua.com/resources/arxiv-2606-31410/) — 2026-06-30
   Describes a mobile GUI agent trained through real-device interaction, corrected failure trajectories, supervised learning, and reinforcement learning.
 - [MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://awesomecua.com/resources/arxiv-2606-19930/) — 2026-06-18
@@ -90,30 +126,50 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   PhoneHarness routes phone workflows across GUI actions, device-side commands and host tools while retaining auditable execution traces. Its accompanying benchmark checks observable task side effects, separating mixed-action execution from plausible final-answer generation.
 - [CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2606-12666/) — 2026-06-10
   CAPED filters mobile screenshots before upload by combining task requirements, screen context and parsed UI elements to mask incidental private content. AndroidWorld and a controlled seeded privacy evaluation examine leakage reduction alongside task utility and prototype costs.
+- [MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models](https://awesomecua.com/resources/arxiv-2606-04627/) — 2026-06-03
+  Introduces MIRAGE, which trains mobile app agents to reason in compact latent states and anticipate future screenshots, reducing generated tokens during action selection.
+- [Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents](https://awesomecua.com/resources/arxiv-2606-03236/) — 2026-06-02
+  Introduces PRPF, a two-stage framework for proactive mobile agents that gates intervention with MPP and invokes PAR only when assistance is warranted.
 - [UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents](https://awesomecua.com/resources/arxiv-2605-29534/) — 2026-05-28
   UI-KOBE explores mobile applications to build graphs of UI states and executable transitions. A lightweight agent then matches its current screenshot to the graph and chooses a transition, local action, completion signal or fallback action.
+- [STAMP: Training Explicit Memory for Mobile GUI Agents in Controllable and Scalable Virtual Environments](https://awesomecua.com/resources/arxiv-2605-29324/) — 2026-05-28
+  STAMP trains explicit memory for mobile GUI agents in virtual environments by injecting facts into generated tasks and using supervised data and online RL.
+- [Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents](https://awesomecua.com/resources/arxiv-2605-28629/) — 2026-05-27
+  Mobile-Aptus trains mobile agents to output actions and confidence scores, then corrects confidence bias to guide when they request human help.
 - [Darwin Mobile Agent: A Roadmap for Self-Evolution](https://awesomecua.com/resources/arxiv-2606-20622/) — 2026-05-26
   Describes asynchronous reinforcement-learning infrastructure using parallel cloud-hosted Android instances, explicit task lifecycles, and persistent-state management for mobile GUI interaction.
 - [AndroidDaily: A Verifiable Benchmark for Mobile GUI Agents on Real-World Closed-Source Applications](https://awesomecua.com/resources/arxiv-2605-27761/) — 2026-05-26
   AndroidDaily evaluates mobile GUI agents on daily workflows in closed-source Android apps. Its GRADE evaluator follows visual trajectories against operational obligations, output-quality requirements and negative constraints, producing process-level diagnostics without hidden app state.
+- [Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](https://awesomecua.com/resources/arxiv-2605-27134/) — 2026-05-26
+  HyperTrack provides mobile GUI navigation tasks across Chinese apps, while GUIEvalKit benchmarks VLM agents offline and supports analysis of training scale and history.
 - [MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration](https://awesomecua.com/resources/arxiv-2605-26546/) — 2026-05-26
   MobileExplorer probes relevant UI elements while an on-device model is reasoning, then supplies the exploration trace as compact context. A two-level rollback mechanism restores the working state when simple backtracking fails.
 - [SE-GA: Memory-Augmented Self-Evolution for GUI Agents](https://awesomecua.com/resources/arxiv-2605-16883/) — 2026-05-16
   SE-GA retrieves hierarchical memories during inference and uses the collected experience in a separate policy-improvement pipeline. Its evaluation includes offline grounding/action tasks and online Android interaction, which measure different capabilities.
+- [Computer Use at the Edge of the Statistical Precipice](https://awesomecua.com/resources/arxiv-2605-08261/) — 2026-05-07
+  DigiWorld is a sandboxed mobile-app benchmark for computer-use agents, paired with PRISM environment principles and a confidence-interval aggregation method.
 - [X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction](https://awesomecua.com/resources/arxiv-2605-05765/) — 2026-05-07
   Describes an Android agent architecture combining multimodal perception, working and personal memory, hybrid XML/visual grounding, and reusable skills captured from user interactions.
 - [Faithful Mobile GUI Agents with Guided Advantage Estimator](https://awesomecua.com/resources/arxiv-2605-01208/) — 2026-05-02
   Introduces Faithful-Agent, which first teaches abstention under perturbed evidence and then refines GUI policies with an anchor-based, variance-adaptive advantage estimator. A thought-action consistency reward encourages decisions grounded in displayed evidence and instructions.
+- [AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2604-20279/) — 2026-04-22
+  Introduces AgentLens, a mobile GUI agent that shows full, partial, or generated interface views during background task execution to support user interaction.
 - [Do LLMs Need to See Everything? A Benchmark and Study of Failures in LLM-driven Smartphone Automation using Screentext vs. Screenshots](https://awesomecua.com/resources/arxiv-2604-17817/) — 2026-04-20
   DailyDroid compares text-only and text-plus-screenshot agents on everyday Android tasks across multiple apps and difficulty levels. Its failure analysis examines accessibility, observation modality and agent/application behavior.
 - [OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](https://awesomecua.com/resources/arxiv-2604-15093/) — 2026-04-16
   Presents OpenMobile, which builds exploration-based environment memory to synthesize task instructions and switches between learner and expert policies during trajectory collection. The resulting data includes recovery behavior and is tested through mobile-agent training and benchmark-overlap analysis.
+- [SkillDroid: Compile Once, Reuse Forever](https://awesomecua.com/resources/arxiv-2604-14872/) — 2026-04-16
+  Introduces SkillDroid, which compiles successful mobile GUI trajectories into reusable action templates and replays them without model calls, recompiling when they degrade.
 - [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://awesomecua.com/resources/arxiv-2604-13822/) — 2026-04-15
   UI-Copilot separates GUI execution from on-demand memory retrieval and numerical assistance. Its training procedure treats tool selection and multi-turn task execution as distinct optimization targets while keeping persistent observations outside transient context.
 - [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://awesomecua.com/resources/arxiv-2604-11784/) — 2026-04-13
   Presents ClawGUI, a shared harness for GUI-agent reinforcement learning, benchmark evaluation and deployment on mobile devices. It combines parallel virtual and physical environments, process rewards, and hybrid CLI-GUI execution with persistent memory.
+- [Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization](https://awesomecua.com/resources/arxiv-2604-11259/) — 2026-04-13
+  Proposes Trajectory Induced Preference Optimization (TIPO) to train mobile GUI agents for differing user privacy preferences across structurally different task trajectories.
 - [CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation](https://awesomecua.com/resources/arxiv-2604-09155/) — 2026-04-10
   Introduces CORA, which calibrates a risk model to choose between executing and abstaining from mobile GUI actions, then diagnoses rejected actions to suggest interventions. Phone-Harm provides step-level safety labels for evaluating this safeguarding process.
+- [KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation](https://awesomecua.com/resources/arxiv-2604-08455/) — 2026-04-09
+  Introduces KnowU-Bench, an Android emulator benchmark for mobile agents that evaluates preference elicitation, proactive decisions, consent and GUI task execution.
 - [OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments](https://awesomecua.com/resources/arxiv-2605-18758/) — 2026-04-03
   OmniGUI evaluates step-level action prediction from interleaved smartphone screenshots, synchronous audio and video. Expert demonstrations carry multimodal-dependency annotations, and initial baselines use native multimodal models as agent proxies to study temporal and audio-related failures.
 - [Do Phone-Use Agents Respect Your Privacy?](https://awesomecua.com/resources/arxiv-2604-00986/) — 2026-04-01
@@ -128,6 +184,12 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   GUI-CEval evaluates Chinese mobile GUI agents through a hierarchy of atomic abilities and application-level tasks collected on physical devices. Its diagnostics cover perception, planning, reflection, execution and post-action evaluation across a broad set of apps.
 - [SecAgent: Efficient Mobile GUI Agent with Semantic Context](https://awesomecua.com/resources/arxiv-2603-08533/) — 2026-03-09
   Presents a Chinese mobile GUI dataset and navigation benchmark together with SecAgent, which compresses previous screenshots and actions into semantic summaries. The agent is trained with supervised and reinforcement fine-tuning to use this compact interaction context.
+- [MobiFlow: Real-World Mobile Agent Benchmarking through Trajectory Fusion](https://awesomecua.com/resources/arxiv-2604-09587/) — 2026-02-28
+  Introduces MobiFlow, a mobile-agent evaluation framework that fuses task trajectories into a state graph for dynamic interaction with third-party apps and measures task outcomes.
+- [K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control](https://awesomecua.com/resources/arxiv-2603-00676/) — 2026-02-28
+  Introduces K2-Agent, a hierarchical mobile-control framework that refines task knowledge through a reasoning loop and trains an executor with curriculum-guided reinforcement learning.
+- [Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization](https://awesomecua.com/resources/arxiv-2604-09574/) — 2026-02-24
+  Introduces the Agent Humanization Benchmark (AHB) and mobile touch-dynamics data to assess whether GUI agents' interactions resemble human touch behavior.
 - [AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild](https://awesomecua.com/resources/arxiv-2602-11750/) — 2026-02-12
   AmbiBench evaluates mobile GUI agents under four levels of instruction clarity, including tasks requiring active clarification. Its MUSE evaluator separately audits outcomes, execution quality and interaction quality to study alignment with user intent.
 - [Adaptive Milestone Reward for GUI Agents](https://awesomecua.com/resources/arxiv-2602-11524/) — 2026-02-12
@@ -142,6 +204,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   An anonymization framework replaces sensitive screen content and instructions with consistent, type-preserving placeholders while mediating actions through a local interaction proxy. Experiments on AndroidLab and PrivScreen examine the privacy–utility trade-off when mobile GUI agents operate over these transformed interfaces.
 - [Do Multi-Agents Dream of Electric Screens? Achieving Perfect Accuracy on AndroidWorld Through Task Decomposition](https://awesomecua.com/resources/arxiv-2602-07787/) — 2026-02-08
   Minitap coordinates six specialized agents for AndroidWorld tasks, checking text input against device state and detecting action loops to revise its strategy.
+- [VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](https://awesomecua.com/resources/arxiv-2604-06182/) — 2026-02-06
+  Introduces VenusBench-Mobile, an online benchmark for mobile GUI agents with user-intent-driven tasks and capability annotations for analyzing agent behavior and failures.
 - [M$^2$-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining](https://awesomecua.com/resources/arxiv-2602-05429/) — 2026-02-05
   M2-Miner uses multi-agent-guided Monte Carlo tree search to collect mobile GUI intent–trajectory pairs. Intent recycling and progressive collector training aim to increase the diversity and usefulness of the mined interaction data.
 - [MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://awesomecua.com/resources/arxiv-2602-06075/) — 2026-02-03

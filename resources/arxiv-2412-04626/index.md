@@ -14,7 +14,7 @@ BigDocs-7.5M provides multimodal document data, while BigDocs-Bench includes GUI
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI reasoning is part of a broader document and code benchmark suite. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI reasoning is part of a broader document and code benchmark suite.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-04626/record.json
 

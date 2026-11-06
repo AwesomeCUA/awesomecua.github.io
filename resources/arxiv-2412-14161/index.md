@@ -14,7 +14,7 @@ Simulates a software-company workplace to evaluate agents on professional tasks 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-14161/record.json
 

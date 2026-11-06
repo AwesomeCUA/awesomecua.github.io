@@ -14,7 +14,7 @@ Bibliographic record for Vision Search Assistant: Empower Vision-Language Models
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-21220/record.json
 

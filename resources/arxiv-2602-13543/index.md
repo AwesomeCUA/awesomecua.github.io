@@ -14,7 +14,7 @@ Bibliographic record for LiveNewsBench: Evaluating LLM Web Search Capabilities w
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-13543/record.json
 

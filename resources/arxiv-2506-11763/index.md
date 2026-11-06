@@ -14,7 +14,7 @@ Bibliographic record for DeepResearch Bench: A Comprehensive Benchmark for Deep 
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-11763/record.json
 

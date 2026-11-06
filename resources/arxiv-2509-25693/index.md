@@ -14,7 +14,7 @@ Bibliographic record for ScheduleMe: Multi-Agent Calendar Assistant. Title, auth
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-25693/record.json
 

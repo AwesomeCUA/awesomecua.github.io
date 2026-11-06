@@ -14,7 +14,7 @@ Local-page benchmark comparing six browser representations on token use, factual
 
 ## Limitations
 
-This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only. Selected scoring code was read, but no models, browser tasks or claimed results were run or reproduced.
+This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/record.json
 

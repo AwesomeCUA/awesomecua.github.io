@@ -14,7 +14,7 @@ Proposes an in-browser fuzzing framework that uses language-model guidance to te
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The short abstract supplies the framework and threat setting but no quantitative evaluation details.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The short abstract supplies the framework and threat setting but no quantitative evaluation details.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-13543/record.json
 

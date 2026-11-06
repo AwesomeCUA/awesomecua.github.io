@@ -194,7 +194,7 @@ UI-TARS-1.5-7B-derived checkpoint trained with ARPO on OSWorld desktop tasks.
 
 ### Limitations
 
-The public Hub manifest lists four Safetensors shards, an index and configuration/tokenizer files. The model card reports a 15-step evaluation setting; no performance result is independently reproduced. No weight license is declared, despite Apache-2.0 being established for the separate code repository.
+The public Hub manifest lists four Safetensors shards, an index and configuration/tokenizer files. No weight license is declared, despite Apache-2.0 being established for the separate code repository.
 
 - Record JSON: https://awesomecua.com/resources/url-db6fc5f29f186d13991c/record.json
 
@@ -888,7 +888,7 @@ Screenshot grounding checkpoint that emits a single click in a normalized coordi
 
 ### Limitations
 
-The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
+License declarations apply to this checkpoint separately from code and training data.
 
 - Record JSON: https://awesomecua.com/resources/url-de31b07ff24ab15d9bdf/record.json
 
@@ -1875,7 +1875,7 @@ Mobile-agent checkpoint based on Qwen3.6-27B for GUI and app-native tool interac
 
 ### Limitations
 
-The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
+License declarations apply to this checkpoint separately from code and training data.
 
 - Record JSON: https://awesomecua.com/resources/url-1611de0e6d606165d12d/record.json
 
@@ -1913,7 +1913,7 @@ Mobile-agent checkpoint trained on OpenMobile-Data-v2 for screenshot actions and
 
 ### Limitations
 
-The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
+License declarations apply to this checkpoint separately from code and training data.
 
 - Record JSON: https://awesomecua.com/resources/url-d35224f787e7ec21ce36/record.json
 
@@ -2474,7 +2474,7 @@ Seg2Click checkpoint based on Qwen2.5-VL-3B with a custom action-mask decoder.
 
 ### Limitations
 
-The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference. The card names the Qwen Research license, unlike the Apache-2.0 declarations on the Qwen3.5 variants.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference. The card names the Qwen Research license, unlike the Apache-2.0 declarations on the Qwen3.5 variants.
 
 - Record JSON: https://awesomecua.com/resources/url-23ad240757185c6f7eac/record.json
 
@@ -2509,7 +2509,7 @@ Compact Seg2Click checkpoint with a merged Qwen3.5 backbone and an action-mask d
 
 ### Limitations
 
-The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
 
 - Record JSON: https://awesomecua.com/resources/url-7405463ba56f9a41e79a/record.json
 
@@ -2544,7 +2544,7 @@ Seg2Click checkpoint using a 2B Qwen3.5 backbone to predict a mask and select an
 
 ### Limitations
 
-The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
 
 - Record JSON: https://awesomecua.com/resources/url-fec1c5aa8fd93cb78923/record.json
 
@@ -2579,7 +2579,7 @@ Seg2Click checkpoint pairing a 4B Qwen3.5 backbone with pixel-level action-mask 
 
 ### Limitations
 
-The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
 
 - Record JSON: https://awesomecua.com/resources/url-29588aa5651b5839c045/record.json
 
@@ -2614,7 +2614,7 @@ Seg2Click checkpoint pairing a 9B Qwen3.5 backbone with a decoder for valid GUI 
 
 ### Limitations
 
-The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
 
 - Record JSON: https://awesomecua.com/resources/url-826f3753905c5c43bf46/record.json
 
@@ -3062,7 +3062,7 @@ A mobile GUI checkpoint trained with semi-online reinforcement learning that use
 
 ### Limitations
 
-Four public safetensors shards are present. The card declares Apache-2.0 for the weights. The project publishes only a portion of its training data; no complete training corpus or independent reproduction is inferred.
+Four public safetensors shards are present. The card declares Apache-2.0 for the weights. The project publishes only a portion of its training data.
 
 - Record JSON: https://awesomecua.com/resources/url-1c4ee99a9a55ae71a7ac/record.json
 
@@ -3417,7 +3417,7 @@ Qwen2.5-VL-3B-based GUI grounding checkpoint that predicts click locations from 
 
 ### Limitations
 
-The Hub manifest lists four-part PyTorch and Safetensors files as alternative representations of one checkpoint, plus configuration/tokenizer files. The card’s example rescales predicted locations through the resized image dimensions. No checkpoint was loaded and no benchmark score was reproduced. Apache-2.0 is the model-card weight declaration; the separate code repository has no project-level license in the inspected tree.
+The Hub manifest lists four-part PyTorch and Safetensors files as alternative representations of one checkpoint, plus configuration/tokenizer files. The card’s example rescales predicted locations through the resized image dimensions. Apache-2.0 is the model-card weight declaration; the separate code repository has no project-level license in the inspected tree.
 
 - Record JSON: https://awesomecua.com/resources/url-c8c046847f829fea4821/record.json
 

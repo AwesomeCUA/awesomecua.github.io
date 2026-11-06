@@ -74,7 +74,7 @@
     }
   ],
   "name": "Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents",
-  "notes": "Main Mind2Web evaluation uses 252 recorded tasks assigned to 20 simulated users, frozen demonstration-derived memory and task-macro step metrics; it is not a live-browser completion test. The main split withholds same-site local experience, and sharing gains shrink when local coverage rises. Mind2Web has no preference channel; preference claims come from separate service and coding settings. User-bound retrieval is not a demonstrated privacy or security guarantee. Selected sections were source-read; no independent reproduction.",
+  "notes": "Main Mind2Web evaluation uses 252 recorded tasks assigned to 20 simulated users, frozen demonstration-derived memory and task-macro step metrics; it is not a live-browser completion test. The main split withholds same-site local experience, and sharing gains shrink when local coverage rises. Mind2Web has no preference channel; preference claims come from separate service and coding settings. User-bound retrieval is not a demonstrated privacy or security guarantee.",
   "published_at": "2026-09-26",
   "relations": [],
   "review_status": "curated",

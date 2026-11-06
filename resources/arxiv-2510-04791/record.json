@@ -72,12 +72,15 @@
     }
   ],
   "name": "GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The evaluation uses 150 requirements based on 900 acceptance-criteria annotations. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The evaluation uses 150 requirements based on 900 acceptance-criteria annotations.",
   "published_at": "2025-10-06",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces GUISpector, an MLLM agent framework that operates GUI prototypes to check natural-language requirements and produces feedback for developers.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "automation",
     "planning",

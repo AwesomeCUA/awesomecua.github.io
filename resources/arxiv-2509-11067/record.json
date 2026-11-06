@@ -75,7 +75,7 @@
     }
   ],
   "name": "Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported result is from evaluation on OSWorld. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported result is from evaluation on OSWorld.",
   "published_at": "2025-09-14",
   "relations": [],
   "review_status": "curated",

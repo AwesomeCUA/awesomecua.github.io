@@ -72,12 +72,15 @@
     }
   ],
   "name": "Are Autonomous Web Agents Good Testers?",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-04-02",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Adapts web agents to execute natural-language test steps, verify assertions, and issue test verdicts. The study introduces 113 passing and failing test cases across three offline web applications and compares two agent implementations with qualitative failure analysis.",
+  "task_classes": [
+    "R02.07.01.02"
+  ],
   "topics": [
     "automation",
     "evaluation",

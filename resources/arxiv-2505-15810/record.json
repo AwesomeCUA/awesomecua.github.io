@@ -73,7 +73,7 @@
     }
   ],
   "name": "GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-05-21",
   "relations": [],
   "review_status": "curated",

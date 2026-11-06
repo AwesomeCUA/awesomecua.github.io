@@ -83,12 +83,15 @@
     }
   ],
   "name": "OpenAgents: An Open Platform for Language Agents in the Wild",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Scope is adjacent: autonomous web browsing is one of three hosted agents, beside data-analysis and API-plugin agents.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Scope is adjacent: autonomous web browsing is one of three hosted agents, beside data-analysis and API-plugin agents.",
   "published_at": "2023-10-16",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "OpenAgents hosts three language agents, for data analysis, API plugins and autonomous web browsing, behind a web interface for non-expert users, with local deployment for developers.",
+  "task_classes": [
+    "R03.02.01.01"
+  ],
   "topics": [
     "web-navigation",
     "tool-integration"

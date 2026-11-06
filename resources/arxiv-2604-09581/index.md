@@ -14,7 +14,7 @@ Avenir-UX combines grounded web interaction with simulated user profiles and str
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-09581/record.json
 

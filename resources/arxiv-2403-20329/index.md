@@ -14,7 +14,7 @@ Frames conversational and on-screen reference resolution as language modeling, a
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. This is reference resolution involving screen entities, not an evaluated end-to-end GUI controller.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. This is reference resolution involving screen entities, not an evaluated end-to-end GUI controller.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2403-20329/record.json
 

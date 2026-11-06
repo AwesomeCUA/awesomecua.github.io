@@ -80,12 +80,15 @@
     }
   ],
   "name": "WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). It evaluates website understanding and code generation, not direct operation of website tasks. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2025-08-22",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces WebMMU, a multilingual benchmark for website visual question answering, element grounding, code editing, and mockup-to-code generation.",
+  "task_classes": [
+    "R02.04.01.01"
+  ],
   "topics": [
     "evaluation",
     "grounding",

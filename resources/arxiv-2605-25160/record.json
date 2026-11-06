@@ -74,7 +74,7 @@
     }
   ],
   "name": "ScaleWoB: Guiding GUI Agents with Coding Agents via Large-Scale Environmental Synthesis",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Mobile, desktop and automotive interfaces are simulated as webpages; this does not assert native deployment on those platforms.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Mobile, desktop and automotive interfaces are simulated as webpages; this does not assert native deployment on those platforms.",
   "published_at": "2026-05-24",
   "relations": [],
   "review_status": "curated",

@@ -76,7 +76,7 @@
     }
   ],
   "name": "Detect Anything via Next Point Prediction",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI grounding is one evaluated capability of a general visual perception model. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI grounding is one evaluated capability of a general visual perception model.",
   "published_at": "2025-10-14",
   "relations": [],
   "review_status": "curated",

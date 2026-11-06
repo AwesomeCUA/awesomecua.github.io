@@ -14,7 +14,7 @@ GUI Knowledge Bench tests knowledge of widgets, interactions, and procedures acr
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark uses multiple-choice and yes/no questions to assess GUI knowledge. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-26098/record.json
 

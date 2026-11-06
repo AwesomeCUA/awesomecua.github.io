@@ -74,7 +74,7 @@
     }
   ],
   "name": "V-Zen: Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. The related GUIDE dataset paper remains a separate record; this annotation describes the V-Zen model contribution.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The related GUIDE dataset paper remains a separate record; this annotation describes the V-Zen model contribution.",
   "published_at": "2024-05-24",
   "relations": [],
   "review_status": "curated",

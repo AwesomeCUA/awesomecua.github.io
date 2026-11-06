@@ -14,7 +14,7 @@ Presents demonstration-based GUI process replay with Sequential Monte Carlo loca
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-01676/record.json
 

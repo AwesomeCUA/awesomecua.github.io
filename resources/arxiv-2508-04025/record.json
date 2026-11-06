@@ -70,12 +70,15 @@
     }
   ],
   "name": "Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-08-06",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "RecAgent narrows attention to recommended UI components and requests user feedback when task intent or decisions remain uncertain. It introduces ComplexAction to evaluate specified single-step GUI actions in difficult interface scenarios.",
+  "task_classes": [
+    "R11.07.01.01"
+  ],
   "topics": [
     "mobile-navigation",
     "human-in-the-loop",

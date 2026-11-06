@@ -71,7 +71,7 @@
     }
   ],
   "name": "Group-in-Group Policy Optimization for LLM Agent Training",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several agent benchmarks used to evaluate the general training method. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several agent benchmarks used to evaluate the general training method.",
   "published_at": "2025-05-16",
   "relations": [],
   "review_status": "curated",

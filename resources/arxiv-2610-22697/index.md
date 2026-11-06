@@ -14,7 +14,7 @@ Intact records webpage element provenance and capabilities, isolates planning pe
 
 ## Limitations
 
-Evaluation instructs the model to simulate compromise and measures planner outputs and permission appearance. Utility uses plan matching and LLM-judged element suitability; no steps are executed in that assessment. Assumes an honest first party, trusted browser/harness and untampered instrumentation; multi-page and availability attacks are outside scope. Parallel latency reduction is an unimplemented estimate. No independent reproduction.
+Evaluation instructs the model to simulate compromise and measures planner outputs and permission appearance. Utility uses plan matching and LLM-judged element suitability; no steps are executed in that assessment. Assumes an honest first party, trusted browser/harness and untampered instrumentation; multi-page and availability attacks are outside scope. Parallel latency reduction is an unimplemented estimate.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-22697/record.json
 

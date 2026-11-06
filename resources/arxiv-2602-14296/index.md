@@ -14,7 +14,7 @@ AutoWebWorld turns finite-state task models into interactive websites whose acti
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-14296/record.json
 

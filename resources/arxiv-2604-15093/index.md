@@ -14,7 +14,7 @@ Presents OpenMobile, which builds exploration-based environment memory to synthe
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-15093/record.json
 

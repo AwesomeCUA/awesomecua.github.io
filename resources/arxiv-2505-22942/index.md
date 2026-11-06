@@ -14,7 +14,7 @@ Uses rule-based rewards for output structure and action correctness to train rea
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-22942/record.json
 

@@ -14,7 +14,7 @@ D2Snap reduces serialized DOM observations while preserving actionable elements 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-04412/record.json
 

@@ -72,7 +72,7 @@
     }
   ],
   "name": "MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control",
-  "notes": "Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.",
+  "notes": "Summary and topic tags reviewed against the primary abstract.",
   "published_at": "2024-10-23",
   "relations": [],
   "review_status": "curated",

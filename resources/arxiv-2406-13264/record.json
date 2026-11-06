@@ -96,7 +96,7 @@
     }
   ],
   "name": "WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. The demonstrations were rehearsed, so their completion rate is not a zero-shot human performance estimate.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The demonstrations were rehearsed, so their completion rate is not a zero-shot human performance estimate.",
   "published_at": "2024-06-19",
   "relations": [],
   "review_status": "curated",

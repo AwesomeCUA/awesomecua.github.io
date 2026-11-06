@@ -14,7 +14,7 @@ Executable Agentic Memory stores GUI routines in a knowledge graph built through
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-12294/record.json
 

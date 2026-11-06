@@ -14,7 +14,7 @@ Evaluates multi-turn PowerPoint creation and editing, scoring the resulting pres
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2311-01767/record.json
 

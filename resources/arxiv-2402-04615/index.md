@@ -14,7 +14,7 @@ Introduces ScreenAI and screen-annotation training that supports UI question ans
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-04615/record.json
 

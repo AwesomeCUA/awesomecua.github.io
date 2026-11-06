@@ -14,7 +14,7 @@ LabOSBench evaluates GUI agents on browser-based scientific instrument simulator
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-16802/record.json
 

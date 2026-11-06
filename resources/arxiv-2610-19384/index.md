@@ -14,7 +14,7 @@ Builds trajectory-guided visual-injection tests for web, desktop and mobile obse
 
 ## Limitations
 
-ASR measures predicted coordinates inside an annotated target or compromised generated content; actual clicks, environment changes and downstream harm are not verified. SCR additionally counts adopted adversarial intent or task/schema disruption. Clean-task and attacked-trajectory denominators differ, including 42 clean desktop tasks versus 209 adversarial desktop trajectories. Payloads and injection points are fixed, and neutral prompts change both compliance cues and instruction-priority guidance. GPT-5 judging has a 300-trajectory human-label check, with borderline disagreements. Android-style mobile dialogs do not establish an Android runtime. Code/data links were identified but not inspected; no independent reproduction.
+ASR measures predicted coordinates inside an annotated target or compromised generated content; actual clicks, environment changes and downstream harm are not verified. SCR additionally counts adopted adversarial intent or task/schema disruption. Clean-task and attacked-trajectory denominators differ, including 42 clean desktop tasks versus 209 adversarial desktop trajectories. Payloads and injection points are fixed, and neutral prompts change both compliance cues and instruction-priority guidance. GPT-5 judging has a 300-trajectory human-label check, with borderline disagreements. Android-style mobile dialogs do not establish an Android runtime.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-19384/record.json
 

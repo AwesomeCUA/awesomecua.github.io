@@ -71,12 +71,15 @@
     }
   ],
   "name": "Morae: Proactively Pausing UI Agents for User Choices",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.",
   "published_at": "2025-08-29",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces Morae, a UI agent that detects decision points and pauses for user choices using interface code and screenshots. A study with blind and low-vision participants evaluates this mixed-initiative approach on real web tasks.",
+  "task_classes": [
+    "R11.07.01.01"
+  ],
   "topics": [
     "human-in-the-loop",
     "web-navigation",

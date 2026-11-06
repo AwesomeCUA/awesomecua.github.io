@@ -83,7 +83,7 @@
     }
   ],
   "name": "MolmoWeb: Open Visual Web Agent and Open Data for the Open Web",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract states that artifacts will be released; this annotation does not independently verify release status or licenses.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract states that artifacts will be released; this annotation does not independently verify release status or licenses.",
   "published_at": "2026-04-09",
   "relations": [],
   "review_status": "curated",

@@ -101,12 +101,15 @@
     }
   ],
   "name": "VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark focuses on web information seeking and synthesis. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark focuses on web information seeking and synthesis.",
   "published_at": "2025-08-06",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces VeriWeb, a benchmark of long-chain web information-seeking tasks with verifiable subtasks and a complete human-annotated trajectory for each task.",
+  "task_classes": [
+    "R04.01.01.01"
+  ],
   "topics": [
     "evaluation",
     "long-horizon",

@@ -70,7 +70,7 @@
     }
   ],
   "name": "Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Web navigation and computer use are parts of a broader survey of LLM agents. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Web navigation and computer use are parts of a broader survey of LLM agents.",
   "published_at": "2026-01-18",
   "relations": [],
   "review_status": "curated",

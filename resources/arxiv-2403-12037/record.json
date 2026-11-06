@@ -75,7 +75,7 @@
     }
   ],
   "name": "MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The setting is simulated Minecraft control, not operation of a conventional application interface. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2024-03-18",
   "relations": [],
   "review_status": "curated",

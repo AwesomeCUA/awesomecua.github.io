@@ -77,12 +77,15 @@
     }
   ],
   "name": "Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-05-17",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Mobile-Bench-v2 evaluates mobile GUI agents using multiple acceptable offline action paths, noisy interfaces with ads or pop-ups, and ambiguous instructions with scripted clarification exchanges. These splits separate step-level execution, robustness, and proactive interaction.",
+  "task_classes": [
+    "R11.07.01.01"
+  ],
   "topics": [
     "evaluation",
     "mobile-navigation",

@@ -14,7 +14,7 @@ Introduces Mind2Web 2, 130 long-horizon tasks requiring live web browsing and in
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark assesses agentic search answers and source attribution. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark assesses agentic search answers and source attribution.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-21506/record.json
 

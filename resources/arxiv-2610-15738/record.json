@@ -84,7 +84,7 @@
     }
   ],
   "name": "Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops",
-  "notes": "The downstream test uses one screenshot-only agent, nine synthetic apps and 60 cached development items, with TAP-tag or text-answer outputs; this is not demonstrated live-app completion. Two catalogs reword the same 40 edits. Re-proposal effects do not establish internal causal mechanisms or task-success gains. Main serving providers were unpinned; rationale labels came from LLM annotators. No independent reproduction.",
+  "notes": "The downstream test uses one screenshot-only agent, nine synthetic apps and 60 cached development items, with TAP-tag or text-answer outputs; this is not demonstrated live-app completion. Two catalogs reword the same 40 edits. Re-proposal effects do not establish internal causal mechanisms or task-success gains. Main serving providers were unpinned; rationale labels came from LLM annotators.",
   "published_at": "2026-10-11",
   "relations": [],
   "review_status": "curated",

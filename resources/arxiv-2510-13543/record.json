@@ -68,7 +68,7 @@
     }
   ],
   "name": "In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The short abstract supplies the framework and threat setting but no quantitative evaluation details.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The short abstract supplies the framework and threat setting but no quantitative evaluation details.",
   "published_at": "2025-10-15",
   "relations": [],
   "review_status": "curated",

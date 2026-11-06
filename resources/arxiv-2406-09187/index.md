@@ -14,7 +14,7 @@ Introduces GuardAgent, which translates safety requests into executable guardrai
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The web-agent evidence is Mind2Web-SC; the healthcare benchmark does not independently establish GUI control.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The web-agent evidence is Mind2Web-SC; the healthcare benchmark does not independently establish GUI control.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-09187/record.json
 

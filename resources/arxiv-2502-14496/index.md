@@ -14,7 +14,7 @@ Introduces CollabUIAgents, a multi-agent RL framework that assigns LLM-based pro
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-14496/record.json
 

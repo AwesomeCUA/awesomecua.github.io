@@ -14,7 +14,7 @@ Bibliographic record for Isolation as a First-Class Principle for LLM-Agent Syst
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-12406/record.json
 

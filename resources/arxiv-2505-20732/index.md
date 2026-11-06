@@ -14,7 +14,7 @@ Introduces SPA, a reward redistribution method for multi-step LLM agents that es
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Webshop is evaluated alongside ALFWorld and VirtualHome; the method is presented for general agents. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Webshop is evaluated alongside ALFWorld and VirtualHome; the method is presented for general agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-20732/record.json
 

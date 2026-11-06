@@ -108,6 +108,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2604.24696%2C2605.02661%2C2605.06717%2C2605.08703%2C2605.13831%2C2605.14271%2C2605.14678%2C2605.27882%2C2607.05804%2C2607.08768&max_results=10"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:02:47Z",
+      "role": "primary",
+      "sha256": "11ea6f148f4267ab78e85b8f03a9b3855298f73a199b8d904ba553a647d43ee2",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2604.12666%2C2604.13018%2C2604.13346%2C2604.13488%2C2604.13531%2C2604.13954%2C2604.13969%2C2604.14872%2C2604.15376%2C2604.15579%2C2604.15715%2C2604.16385%2C2604.17562%2C2604.18779%2C2604.18847%2C2604.18934%2C2604.19299%2C2604.19572%2C2604.19667%2C2604.20279%2C2604.20987%2C2604.22436%2C2604.22558%2C2604.22748%2C2604.23772%2C2604.23781%2C2604.24479%2C2604.24696%2C2604.25235%2C2604.26653%2C2604.27955%2C2604.27974%2C2604.28093%2C2604.28138%2C2604.28139%2C2604.28181%2C2605.00425%2C2605.00497%2C2605.00642%2C2605.01462%2C2605.02168%2C2605.02240%2C2605.02661%2C2605.02729%2C2605.03042%2C2605.03231%2C2605.03242%2C2605.04811%2C2605.05191%2C2605.05811&max_results=50"
     }
   ],
   "id": "arxiv:2605.02661",
@@ -115,7 +131,7 @@
     "arxiv": "2605.02661"
   },
   "kind": "paper",
-  "last_verified_at": "2026-11-01T20:31:09Z",
+  "last_verified_at": "2026-11-05T23:02:47Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -124,18 +140,23 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2605.02661"
     }
   ],
   "name": "AcademiClaw: When Students Set Challenges for AI Agents",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2026-05-04",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "AcademiClaw benchmarks OpenClaw agents on long academic workflows, scoring task completion in isolated Docker sandboxes with rubrics and a safety audit.",
+  "topics": [
+    "evaluation",
+    "long-horizon",
+    "sandbox",
+    "safety-security"
+  ],
   "updated_at": "2026-05-04",
   "url": "https://arxiv.org/abs/2605.02661"
 }

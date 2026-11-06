@@ -14,7 +14,7 @@ Uses hierarchical mobile agents and persistent tips and reusable action shortcut
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-11733/record.json
 

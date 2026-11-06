@@ -14,7 +14,7 @@ Bibliographic record for TOBench: A Task-Oriented Omni-Modal Benchmark for Real-
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-16909/record.json
 

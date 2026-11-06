@@ -14,7 +14,7 @@ Introduces an execution-based benchmark for generated web interfaces, with a hea
 
 ## Limitations
 
-Adjacent evaluation infrastructure: the target is generated WebUI functionality, not a general score for computer-use agents. This annotation is based on the complete retained abstract; released artifacts and experimental results were not independently inspected or reproduced.
+Adjacent evaluation infrastructure: the target is generated WebUI functionality, not a general score for computer-use agents. This annotation is based on the complete retained abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-02617/record.json
 

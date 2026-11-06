@@ -70,7 +70,7 @@
     }
   ],
   "name": "DOM-Q-NET: Grounded RL on Structured Language",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Evaluation is reported on the MiniWoB environment. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Evaluation is reported on the MiniWoB environment.",
   "published_at": "2019-02-19",
   "relations": [],
   "review_status": "curated",

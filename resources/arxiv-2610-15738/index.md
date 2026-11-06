@@ -14,7 +14,7 @@ Studies repeated rejected edits while optimizing a screenshot-only GUI agent, co
 
 ## Limitations
 
-The downstream test uses one screenshot-only agent, nine synthetic apps and 60 cached development items, with TAP-tag or text-answer outputs; this is not demonstrated live-app completion. Two catalogs reword the same 40 edits. Re-proposal effects do not establish internal causal mechanisms or task-success gains. Main serving providers were unpinned; rationale labels came from LLM annotators. No independent reproduction.
+The downstream test uses one screenshot-only agent, nine synthetic apps and 60 cached development items, with TAP-tag or text-answer outputs; this is not demonstrated live-app completion. Two catalogs reword the same 40 edits. Re-proposal effects do not establish internal causal mechanisms or task-success gains. Main serving providers were unpinned; rationale labels came from LLM annotators.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-15738/record.json
 

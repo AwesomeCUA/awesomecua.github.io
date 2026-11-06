@@ -14,7 +14,7 @@ AgentPRM scores sequential agent decisions by their promise and progress toward 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method addresses agent tasks broadly, with web shopping and browser navigation named as examples. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method addresses agent tasks broadly, with web shopping and browser navigation named as examples.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-08325/record.json
 

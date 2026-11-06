@@ -107,7 +107,7 @@
     }
   ],
   "name": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
-  "notes": "Primarily typed tool actions and structured feedback, not pixel-coordinate GUI control; backends combine programmatic sandboxes, LLM simulation and selected real-device sessions. No specific OS is established. Model/harness updates are reviewed offline, not autonomous serving-time changes. Co-evolution scores use an evolve/development set; output-cost estimates exclude input, tools, devices and harness processing. Memory comparisons differ in history access and processing cost; user authorization relies on trusted upstream services. No independent reproduction.",
+  "notes": "Primarily typed tool actions and structured feedback, not pixel-coordinate GUI control; backends combine programmatic sandboxes, LLM simulation and selected real-device sessions. No specific OS is established. Model/harness updates are reviewed offline, not autonomous serving-time changes. Co-evolution scores use an evolve/development set; output-cost estimates exclude input, tools, devices and harness processing. Memory comparisons differ in history access and processing cost; user authorization relies on trusted upstream services.",
   "published_at": "2026-09-24",
   "relations": [],
   "review_status": "curated",

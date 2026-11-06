@@ -14,7 +14,7 @@ Generates browser-agent demonstrations through autonomous exploration and retros
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-02907/record.json
 

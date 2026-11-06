@@ -14,7 +14,7 @@ AndroidLens provides 571 extended mobile tasks in Chinese and English, with mult
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-21302/record.json
 

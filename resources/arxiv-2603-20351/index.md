@@ -14,7 +14,7 @@ MANA combines visual, temporal and exploration signals to guide navigation towar
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-20351/record.json
 

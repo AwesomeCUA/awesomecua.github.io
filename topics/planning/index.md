@@ -6,6 +6,28 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 
 ## Papers & surveys
 
+- [MKD2World: A Typed Spatial MarkDown World Model For Web Agents](https://awesomecua.com/resources/arxiv-2611-06544/) — 2026-11-04
+  Introduces MKD2World, a desktop web world model that represents interface elements in Typed Spatial Markdown and predicts post-action states, supported by AtomBlock-WebUI annotations.
+- [Securing Web Agents with the Compile-Then-Execute Paradigm](https://awesomecua.com/resources/arxiv-2611-06039/) — 2026-11-04
+  Baya compiles a web task into a program using a Trusted Website API before viewing live content, limiting how webpage prompt injections can alter agent control flow.
+- [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](https://awesomecua.com/resources/arxiv-2611-05263/) — 2026-11-03
+  Introduces JHiMA-WebRL, which jointly trains a task decomposer and GUI actor with hierarchical RL for long-horizon web tasks in WebArena.
+- [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://awesomecua.com/resources/arxiv-2611-04073/) — 2026-11-02
+  RAG-PolicyJudge selects computer-use actions proposed with task-specific tutorials; the study compares its decisions with and without world-model rollouts.
+- [From Local Skills to Long-Horizon Web Tasks: Progressive Skill Exploration for LLM Web Agents](https://awesomecua.com/resources/arxiv-2611-03116/) — 2026-11-02
+  Introduces SCOPE, a training method for long web-agent tasks that discovers local skills from rollouts, composes them into chains, and expands them using failure experience.
+- [Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](https://awesomecua.com/resources/arxiv-2610-39264/) — 2026-10-29
+  Introduces online RL training for agents navigating live iOS apps, separating planning from UI grounding and using step-level and task-completion rewards.
+- [Back to Basics: A Skill-Centric Approach to Generalist Web Agents](https://awesomecua.com/resources/arxiv-2610-35823/) — 2026-10-26
+  Introduces MiniWeb for skill-labeled browser tasks, MiniWebGen for generating training trajectories, and MiniWebAgent for composing learned skills into web workflows.
+- [Correct Answers, Closed Gates: SolveBind for GUI Agents at the Verification Barrier](https://awesomecua.com/resources/arxiv-2610-32223/) — 2026-10-23
+  Introduces SolveBind, a GUI-agent framework that decomposes verification tasks and uses runtime evidence to guide interactions with protected websites and applications.
+- [HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](https://awesomecua.com/resources/arxiv-2610-31162/) — 2026-10-22
+  HiSTEVE uses a hierarchical planner and a vision-only keyboard-and-mouse controller for Minecraft tasks that include GUI and non-GUI interactions.
+- [Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://awesomecua.com/resources/arxiv-2610-30108/) — 2026-10-21
+  PAPAV is a capability framework and survey comparing computer-use agents with physical agents through perception, anticipation, planning, action and verification.
+- [Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model](https://awesomecua.com/resources/arxiv-2610-29139/) — 2026-10-21
+  PAWM predicts likely multi-step pitfalls and selectively guides black-box agents; its evaluations include a web-agent benchmark.
 - [Adaptation of Computer Use Agents to New Software with User Manuals](https://awesomecua.com/resources/arxiv-2610-23012/) — 2026-10-16
   MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.
 - [What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics](https://awesomecua.com/resources/arxiv-2610-22697/) — 2026-10-15
@@ -28,6 +50,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Introduces STEER-Bench to study branch-steering attacks that manipulate untrusted web data toward hazardous paths already permitted by an agent’s plan. Its COBRA architecture combines trusted branching plans with advance constraints on the parameters and destinations each branch can use.
 - [How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling](https://awesomecua.com/resources/arxiv-2610-02542/) — 2026-10-01
   Compares fine-tuned, retrieval-based and hybrid language-model world models for next-observation prediction and action selection in text environments including WebShop.
+- [StateFork: Branchable Infrastructure for Agent Exploration](https://awesomecua.com/resources/arxiv-2609-38648/) — 2026-09-29
+  Introduces StateFork and Waypoint for branching and restoring terminal-agent sessions so agents can explore multiple paths while preserving execution state.
 - [Before Acting, Change the State: Prospective State Intervention for Web Agents under Deceptive Interfaces](https://awesomecua.com/resources/arxiv-2609-34974/) — 2026-09-28
   Introduces Veer, a runtime defense that changes task-relevant web state when an otherwise valid proposed action would produce an unauthorized consequence. It plans a prospective intervention and grounds and verifies its execution before the base agent continues.
 - [LongPuzzleBench: Evaluating GUI Agents on Long-Horizon Visual Puzzles](https://awesomecua.com/resources/arxiv-2609-34769/) — 2026-09-28
@@ -42,6 +66,10 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Trains a mobile planner with supervised trajectories and competence-adaptive RL, then couples typed tool execution with memory, skills and offline model-harness refinement.
 - [Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction](https://awesomecua.com/resources/arxiv-2609-25769/) — 2026-09-22
   MaP unifies GUI-navigation objectives by masking and predicting components of multi-turn trajectories. Role-aware adapters address heterogeneous training data, and evaluations compare the approach with direct task-mixture training across navigation benchmarks.
+- [RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments](https://awesomecua.com/resources/arxiv-2609-15364/) — 2026-09-14
+  Introduces RSIAgent, a training-free framework that explores unfamiliar digital interfaces, stores environment-specific action knowledge, and reuses that memory for later tasks.
+- [VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets](https://awesomecua.com/resources/arxiv-2609-12404/) — 2026-09-11
+  Introduces VRL-Bench to compare trial-and-error learning for computer-control agents under limited attempts, and VEX² to schedule exploration and exploitation.
 - [JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](https://awesomecua.com/resources/arxiv-2609-10451/) — 2026-09-09
   JarvisGUI composes typed input-output task transformations into dynamic workflows spanning Android, Windows and Ubuntu devices. Its virtual-environment benchmark tests transfer of intermediate results, shared state and cross-device dependencies.
 - [Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents](https://awesomecua.com/resources/arxiv-2609-03438/) — 2026-09-03
@@ -52,8 +80,14 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Introduces Test-Time Environment Decomposition, which uses trial interaction to break complex web observations into simpler modules. A label-free adaptation procedure learns from these sub-environments and studies whether their gains compose in full web tasks.
 - [LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents](https://awesomecua.com/resources/arxiv-2608-25777/) — 2026-08-26
   Introduces LocalLSTC, a training-free control architecture that maintains persistent task state and uses it to form short execution commitments. Outcomes feed back into that state for progress checks, recovery, and termination in locally deployed desktop agents.
+- [Spine-Branch Coordination for Multi-agent Computer Use](https://awesomecua.com/resources/arxiv-2608-22077/) — 2026-08-22
+  Introduces Spine-Branch Coordination, which assigns a main task flow to one virtual-machine state and uses parallel branch machines to gather information for computer-use agents.
 - [Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions](https://awesomecua.com/resources/arxiv-2608-14132/) — 2026-08-14
   Introduces intention understanding, prediction, and confirmed execution tasks over mobile GUI trajectories, with a proactive agent combining personalized intention models and experience-guided actions.
+- [WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance](https://awesomecua.com/resources/arxiv-2608-06704/) — 2026-08-07
+  Introduces WebRider, a live-web agent that maintains intent contracts while carrying out guarded browser actions, and RiderBench for auditing those contracts across websites.
+- [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://awesomecua.com/resources/arxiv-2608-01964/) — 2026-08-03
+  Introduces LongHorizon-Harness, which maintains verified task state outside an agent's execution context and audits subtasks; its evaluations include OSWorld~2.0.
 - [From Monoliths to Swarms: A Study of Attack Surface Evolution in the Transition to Multi-Agent Web Systems](https://awesomecua.com/resources/arxiv-2608-00202/) — 2026-07-31
   Categorizes structural attack surfaces that emerge when single-agent browser systems are decomposed into multi-agent web workflows.
 - [Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees](https://awesomecua.com/resources/arxiv-2607-28399/) — 2026-07-30
@@ -72,22 +106,36 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   StructAgent maintains compact task state and regulates long-horizon execution through verified transitions and progress checkpoints. Its workflow supports evidence-based completion and targeted recovery, with desktop computer-use evaluation and a separate Minecraft extension.
 - [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://awesomecua.com/resources/arxiv-2606-27330/) — 2026-06-25
   PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone does not ensure planning generalization across websites.
+- [OctoNest: Adaptive Cross-Device Execution through Stateful Control](https://awesomecua.com/resources/arxiv-2606-20487/) — 2026-06-18
+  Introduces OctoNest, which coordinates device agents, revises task assignments from execution feedback, and switches local interaction modalities; CAPEBench evaluates cross-device tasks.
 - [Skill-Guided Continuation Distillation for GUI Agents](https://awesomecua.com/resources/arxiv-2606-18890/) — 2026-06-17
   Skill-Guided Continuation Distillation first lets a policy reach its own off-trajectory states, then uses skill guidance to collect successful continuations. Mixing those continuations with expert traces supplies supervision for recovery states absent from demonstrations.
 - [RunAgent SuperBrowser: A Theory of Autonomous Web Navigation Grounded in Human Browsing Behaviour](https://awesomecua.com/resources/arxiv-2606-09399/) — 2026-06-08
   SUPERBROWSER combines screenshot-based target proposals with separate orchestration, planning and action roles. A bounded ledger and context-eviction process retain recent actions, task facts and checkpoints during browser execution.
 - [Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](https://awesomecua.com/resources/arxiv-2606-04391/) — 2026-06-03
   State-Grounded Dynamic Retrieval extracts reusable sub-procedures from completed web trajectories and represents them as paired text and code. Skills are retrieved against both the current webpage state and the task goal at intermediate execution steps.
+- [Demo2Tutorial: From Human Experience to Multimodal Software Tutorials](https://awesomecua.com/resources/arxiv-2606-03951/) — 2026-06-02
+  Introduces Demo2Tutorial, which turns recorded software interactions into multimodal tutorials with task graphs and reports benefits for GUI-agent planning.
+- [Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents](https://awesomecua.com/resources/arxiv-2606-03236/) — 2026-06-02
+  Introduces PRPF, a two-stage framework for proactive mobile agents that gates intervention with MPP and invokes PAR only when assistance is warranted.
 - [Multi-Agent Computer Use](https://awesomecua.com/resources/arxiv-2606-01533/) — 2026-06-01
   MACU represents computer-use objectives as a dependency graph whose manager dispatches parallel subagents and revises tasks as new information arrives. Desktop and web experiments examine coordination, information handoff and task-completion time.
+- [Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration](https://awesomecua.com/resources/arxiv-2605-31365/) — 2026-05-29
+  Introduces SCALE, which uses exploration roles and graph planning to train web agents, and SCALE-20k, a dataset of tasks and demonstrations from real websites.
 - [UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents](https://awesomecua.com/resources/arxiv-2605-29534/) — 2026-05-28
   UI-KOBE explores mobile applications to build graphs of UI states and executable transitions. A lightweight agent then matches its current screenshot to the graph and chooses a transition, local action, completion signal or fallback action.
+- [Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents](https://awesomecua.com/resources/arxiv-2605-28775/) — 2026-05-27
+  LearnWeak specializes small computer-use agents by finding domain-specific weaknesses, generating targeted tasks, and training separately for planning and execution errors.
 - [GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](https://awesomecua.com/resources/arxiv-2605-28534/) — 2026-05-27
   GUI-CIDER turns GUI trajectories into textual planning and causal interface knowledge, reselects exemplars for causal structure and low redundancy, then mid-trains GUI agents on that corpus.
 - [Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling](https://awesomecua.com/resources/arxiv-2605-21470/) — 2026-05-20
   Agent JIT compilation turns browser task descriptions into validated executable plans containing model calls, tools and parallel work. A cost-based scheduler and pre/postcondition protocol target latency and incorrect tool use in web-agent execution.
 - [DocOS: Towards Proactive Document-Guided Actions in GUI Agents](https://awesomecua.com/resources/arxiv-2605-18048/) — 2026-05-18
   DocOS benchmarks agents that search online documentation and translate procedural instructions into GUI actions in interactive web environments. It separates failures to retrieve useful procedures from failures to ground retrieved instructions into executable actions.
+- [ScreenSearch: Uncertainty-Aware OS Exploration](https://awesomecua.com/resources/arxiv-2605-16024/) — 2026-05-15
+  ScreenSearch explores desktop GUI states by indexing and deduplicating UIA-tree screens, then using outcome ambiguity and frontier rewards to guide graph search.
+- [PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control](https://awesomecua.com/resources/arxiv-2605-15963/) — 2026-05-15
+  Introduces PAGE Bench for point-precise geometric GUI construction and PAGER, an agent that plans around primitive dependencies and executes pixel-level actions.
 - [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](https://awesomecua.com/resources/arxiv-2605-15542/) — 2026-05-15
   DRS-GUI searches screenshot regions through focus, shift and scatter operations selected by a tree-search planner. A region-quality reward guides this training-free perceptual search before final GUI grounding.
 - [Web Agents Should Adopt the Plan-Then-Execute Paradigm](https://awesomecua.com/resources/arxiv-2605-14290/) — 2026-05-14
@@ -96,10 +144,20 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   ToolCUA synthesizes interleaved GUI/tool trajectories and trains agents to choose between graphical actions and higher-level tools. Staged supervised and reinforcement learning culminate in online hybrid-environment training with a reward for efficient execution paths.
 - [Executable Agentic Memory for GUI Agent](https://awesomecua.com/resources/arxiv-2605-12294/) — 2026-05-12
   Executable Agentic Memory stores GUI routines in a knowledge graph built through state-aware exploration and action-group mining. A learned value model guides tree search over this executable memory for retrieval-based planning, with AndroidWorld and efficiency evaluation.
+- [LiteGUI: Lightweight GUI Agents via Multi-Solution Guided Distillation and Dual-Level Reinforcement Learning](https://awesomecua.com/resources/arxiv-2605-07505/) — 2026-05-08
+  LiteGUI trains lightweight GUI agents on logged states with guided on-policy distillation and dual-level RL, supported by its multi-solution Lite-Dataset.
+- [Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning](https://awesomecua.com/resources/arxiv-2605-02168/) — 2026-05-04
+  A planner-centric RL framework divides agent automation among a planner, actor, and memory manager, with evaluations that include web navigation and OS control.
+- [DRIVE: Modeling Skills at the Reasoning and Interaction Levels for Web Agents under Continual Learning](https://awesomecua.com/resources/arxiv-2605-23939/) — 2026-04-28
+  DRIVE separates reusable reasoning skills from page-specific interaction skills for web agents, retrieving both to plan tasks and execute actions on websites.
+- [Mango: Multi-Agent Web Navigation via Global-View Optimization](https://awesomecua.com/resources/arxiv-2604-18779/) — 2026-04-20
+  Proposes Mango, a multi-agent web-navigation method that selects starting URLs using Thompson Sampling and stores navigation history to inform later attempts.
 - [WebUncertainty: Dual-Level Uncertainty Driven Planning and Reasoning For Autonomous Web Agent](https://awesomecua.com/resources/arxiv-2604-17821/) — 2026-04-20
   WebUncertainty adapts planning mode to task uncertainty and guides action-level tree search with confidence-derived uncertainty estimates. Its evaluations examine autonomous execution of dynamic, long-horizon web tasks on WebArena and WebVoyager.
 - [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://awesomecua.com/resources/arxiv-2604-13822/) — 2026-04-15
   UI-Copilot separates GUI execution from on-demand memory retrieval and numerical assistance. Its training procedure treats tool selection and multi-turn task execution as distinct optimization targets while keeping persistent observations outside transient context.
+- [Towards Scalable Lightweight GUI Agents via Multi-role Orchestration](https://awesomecua.com/resources/arxiv-2604-13488/) — 2026-04-15
+  Introduces LAMO, a training framework for a lightweight GUI agent that can execute tasks alone or serve as an action executor alongside planners in multi-agent workflows.
 - [WebXSkill: Skill Learning for Autonomous Web Agents](https://awesomecua.com/resources/arxiv-2604-13318/) — 2026-04-14
   WebXSkill pairs parameterized action programs with step-level language guidance, mining reusable skills from synthetic browser-agent traces. A URL-based graph supports retrieval, and deployment alternates between direct program execution and guided native planning.
 - [IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-05157/) — 2026-04-06
@@ -108,24 +166,44 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   GUIDE retrieves relevant software tutorials through subtitle-based video search, then infers planning and grounding knowledge from consecutive annotated keyframes. It inserts that knowledge into existing GUI-agent modules without parameter updates and evaluates the plug-in on OSWorld.
 - [CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare](https://awesomecua.com/resources/arxiv-2603-24157/) — 2026-03-25
   CareFlow benchmarks long healthcare-software workflows, while CarePilot coordinates action proposals, execution checks and corrective feedback using short- and long-term memory. Its actor consumes visual interfaces and system state to select semantic actions.
+- [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](https://awesomecua.com/resources/arxiv-2603-22862/) — 2026-03-24
+  Surveys multi-tool LLM agents across planning, training, safety, efficiency, and evaluation, including GUI and mobile systems among its application areas.
 - [Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos](https://awesomecua.com/resources/arxiv-2603-22529/) — 2026-03-23
   Ego2Web pairs first-person videos with online tasks that require agents to connect the user’s physical context to web actions. It also evaluates an automatic task judge against human judgments and analyzes failures in video understanding and web execution.
 - [ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents](https://awesomecua.com/resources/arxiv-2603-20340/) — 2026-03-20
   Turns draft web-agent skills into structured executable artifacts that support deterministic checks, fault localization and local repair. VisualWebArena and MiniWoB experiments examine execution and reuse within the same benchmark family.
 - [A Subgoal-driven Framework for Improving Long-Horizon LLM Agents](https://awesomecua.com/resources/arxiv-2603-19685/) — 2026-03-20
   The framework separates inference-time subgoal planning from MiRA, a reinforcement-learning method that supplies milestone rewards. WebArena-Lite experiments evaluate these mechanisms for long-horizon web navigation.
+- [Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective](https://awesomecua.com/resources/arxiv-2603-14248/) — 2026-03-15
+  Presents a hierarchical planning framework for evaluating web agents at planning, execution and replanning stages, and reports low-level execution as the main failure source.
+- [AI Planning Framework for LLM-Based Web Agents](https://awesomecua.com/resources/arxiv-2603-12710/) — 2026-03-13
+  Introduces a planning taxonomy and trajectory-quality metrics for web agents, supported by 794 human-labeled WebArena trajectories and a comparison of two planning styles.
 - [SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments](https://awesomecua.com/resources/arxiv-2603-10268/) — 2026-03-10
   SpecOps divides testing of GUI-based agents into test generation, environment setup, execution and validation handled by specialist agents. Its evaluation spans five real-world agents, including web applications and browser extensions, and measures execution reliability and bug discovery.
+- [AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem](https://awesomecua.com/resources/arxiv-2603-08938/) — 2026-03-09
+  Proposes Personal Agent Operating System (AgentOS), with a natural language or voice portal and an Agent Kernel that coordinates agents and tasks in place of a GUI desktop.
 - [OSExpert: Computer-Use Agents Learning Professional Skills via Exploration](https://awesomecua.com/resources/arxiv-2603-07978/) — 2026-03-09
   Uses GUI-based depth-first exploration to verify elementary software functions, assemble action primitives, and construct curricula of composed skills. OSExpert-Eval examines how the resulting procedural knowledge supports complex computer-use tasks.
+- [Enhancing Web Agents with a Hierarchical Memory Tree](https://awesomecua.com/resources/arxiv-2603-07024/) — 2026-03-07
+  Introduces Hierarchical Memory Tree (HMT), which organizes web-agent trajectories by intent, stage and action, then uses the hierarchy to plan and act on websites.
 - [WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces](https://awesomecua.com/resources/arxiv-2603-05295/) — 2026-03-05
   WebChain aligns human web-interaction trajectories with visual, structural and action data for agent training. It also introduces WebChainBench and a mid-training approach that separates spatial grounding from planning.
+- [STRUCTUREDAGENT: Planning with AND/OR Trees for Long-Horizon Web Tasks](https://awesomecua.com/resources/arxiv-2603-05294/) — 2026-03-05
+  Introduces STRUCTUREDAGENT, a web-agent planning framework that interleaves execution with dynamic AND/OR trees, supporting node repair and exploration of alternative plans.
+- [K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control](https://awesomecua.com/resources/arxiv-2603-00676/) — 2026-02-28
+  Introduces K2-Agent, a hierarchical mobile-control framework that refines task knowledge through a reasoning loop and trains an executor with curriculum-guided reinforcement learning.
+- [CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](https://awesomecua.com/resources/arxiv-2602-24142/) — 2026-02-27
+  Introduces Channel-of-Mobile-Experts (CoME), a mobile agent with experts for screen summary, subtask planning, action decisions and action functions, trained in stages with InfoGain-Driven DPO (Info-DPO).
 - [ActionEngine: From Reactive to Programmatic Web Agents via State Machine Memory](https://awesomecua.com/resources/arxiv-2602-20502/) — 2026-02-24
   ActionEngine explores web applications to build an updateable state-machine memory of GUI states, operations and transitions. It generates complete task programs from that memory, using reactive repair to handle changed interfaces or missing knowledge.
 - [Computer-Using World Model](https://awesomecua.com/resources/arxiv-2602-17365/) — 2026-02-19
   Presents a desktop world model that predicts textual UI changes before synthesizing the next screenshot. It learns from Microsoft Office transitions and is evaluated by letting a frozen agent compare simulated actions before execution.
+- [IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2602-17049/) — 2026-02-19
+  IntentCUA coordinates planner and critic agents through shared intent-aligned memory, retrieving reusable skills for long-horizon automation across desktop applications.
 - [MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://awesomecua.com/resources/arxiv-2602-16313/) — 2026-02-18
   MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+- [HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents](https://awesomecua.com/resources/arxiv-2602-16165/) — 2026-02-18
+  HiPER trains interactive LLM agents with separate subgoal planning and multi-step execution, assigning reinforcement-learning credit at both levels.
 - [World-Model-Augmented Web Agents with Action Correction](https://awesomecua.com/resources/arxiv-2602-15384/) — 2026-02-17
   WAC has a web-agent action model consult a world model, simulate action outcomes and use judge feedback to correct actions before execution.
 - [OpAgent: Operator Agent for Web Navigation](https://awesomecua.com/resources/arxiv-2602-13559/) — 2026-02-14
@@ -166,6 +244,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   NOVA separates trusted task planning from screen-derived observations by producing a branching plan before execution and resolving runtime values through perception. Its OSWorld study examines security and utility while identifying remaining risks from perception-driven branch steering.
 - [ExpSeek: Self-Triggered Experience Seeking for Web Agents](https://awesomecua.com/resources/arxiv-2601-08605/) — 2026-01-13
   ExpSeek uses step-level entropy signals to decide when a web agent should request experience-based guidance. It supplies guidance tailored to the current step and evaluates the intervention across web-agent benchmarks.
+- [Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk](https://awesomecua.com/resources/arxiv-2610-23857/) — 2026-01-12
+  Proposes constrained reinforcement learning for web agents that weighs request costs, latency and failure risk across multi-step website tasks.
 - [OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://awesomecua.com/resources/arxiv-2601-07779/) — 2026-01-12
   OS-Symphony coordinates milestone-based reflection and memory with tools that build visually aligned tutorials through browser interaction. The framework evaluates trajectory correction and adaptation on online computer-use benchmarks including OSWorld.
 - [MobileDreamer: Generative Sketch World Model for GUI Agent](https://awesomecua.com/resources/arxiv-2601-04035/) — 2026-01-07

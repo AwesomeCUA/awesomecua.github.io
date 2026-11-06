@@ -14,7 +14,7 @@ Introduces CrashTranslator, which predicts GUI exploration steps from stack trac
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation uses 75 crash reports involving 58 Android apps. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation uses 75 crash reports involving 58 Android apps.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-07128/record.json
 

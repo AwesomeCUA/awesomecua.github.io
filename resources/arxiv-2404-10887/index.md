@@ -14,7 +14,7 @@ Introduces GLAINTEL, a Flan-T5-based product-search web agent studied under unsu
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-10887/record.json
 

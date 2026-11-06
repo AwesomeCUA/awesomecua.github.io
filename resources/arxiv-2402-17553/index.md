@@ -14,7 +14,7 @@ Introduces a dataset and benchmark for generating executable task scripts from s
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-17553/record.json
 

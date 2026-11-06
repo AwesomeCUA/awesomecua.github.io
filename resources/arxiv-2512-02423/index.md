@@ -14,7 +14,7 @@ Introduces GUI Exploration Lab, a simulation engine for composing screens, inter
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-02423/record.json
 

@@ -14,7 +14,7 @@ Extends OSWorld with tasks covering user misuse, prompt injection, and model mis
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-14866/record.json
 

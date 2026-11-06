@@ -14,7 +14,7 @@ KillBench evaluates external prompt-style signals intended to halt maliciously o
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v5). The benchmark tests external prompt-style payloads without access to agents' internal parameters or serving stack. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v5).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-13725/record.json
 

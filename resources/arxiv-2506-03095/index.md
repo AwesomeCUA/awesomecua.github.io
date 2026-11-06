@@ -14,7 +14,7 @@ Uses an LLM judge to evaluate and filter synthetic GUI interaction trajectories 
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-03095/record.json
 

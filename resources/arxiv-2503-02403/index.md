@@ -14,7 +14,7 @@ Generates reward signals from UI-state changes and uses a judging system to eval
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-02403/record.json
 

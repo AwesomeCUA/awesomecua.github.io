@@ -74,7 +74,7 @@
     }
   ],
   "name": "R-WoM: Retrieval-augmented World Model For Computer-use Agents",
-  "notes": "The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.",
+  "notes": "The annotation was reviewed against the complete retained primary abstract.",
   "published_at": "2025-10-13",
   "relations": [],
   "review_status": "curated",

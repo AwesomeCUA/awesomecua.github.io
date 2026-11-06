@@ -14,7 +14,7 @@ Introduces CRAB, a framework for cross-environment agent tasks with graph-based 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2407-01511/record.json
 

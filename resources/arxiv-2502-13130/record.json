@@ -80,7 +80,7 @@
     }
   ],
   "name": "Magma: A Foundation Model for Multimodal AI Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). UI navigation is evaluated alongside robot manipulation and broader multimodal tasks. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). UI navigation is evaluated alongside robot manipulation and broader multimodal tasks.",
   "published_at": "2025-02-18",
   "relations": [],
   "review_status": "curated",

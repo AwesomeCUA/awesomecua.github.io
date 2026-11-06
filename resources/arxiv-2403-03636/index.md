@@ -14,7 +14,7 @@ Introduces SheetRM, a benchmark of long-horizon spreadsheet tasks, and SheetAgen
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract describes spreadsheet manipulation without specifying GUI interaction. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2403-03636/record.json
 

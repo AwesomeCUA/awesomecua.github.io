@@ -14,7 +14,7 @@ OpenHands is a platform for agents that write code, use a command line and brows
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Web browsing is one setting within a broader software-development agent platform. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Web browsing is one setting within a broader software-development agent platform.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2407-16741/record.json
 

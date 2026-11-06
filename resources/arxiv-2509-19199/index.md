@@ -14,7 +14,7 @@ Introduces iStar, a general agentic RL method that learns implicit step rewards;
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one evaluation domain alongside VisualSokoban and SOTOPIA; the method is not specific to web agents. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-19199/record.json
 

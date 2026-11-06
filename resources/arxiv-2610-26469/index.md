@@ -14,7 +14,7 @@ VeriCUA trains a Judge to select verification checks and stopping decisions whil
 
 ## Limitations
 
-Reviewed the complete abstract and selected v1 method/evaluation sections. The Judge is trained on OSWorld and frozen for MobileWorld/WebArena transfer; downstream Actor RL is separate. Evaluation uses screened terminal outcomes, and reported cost counts Probe tokens. No independent reproduction.
+Reviewed the complete abstract and selected v1 method/evaluation sections. The Judge is trained on OSWorld and frozen for MobileWorld/WebArena transfer; downstream Actor RL is separate. Evaluation uses screened terminal outcomes, and reported cost counts Probe tokens.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26469/record.json
 

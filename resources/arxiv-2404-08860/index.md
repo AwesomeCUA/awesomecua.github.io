@@ -14,7 +14,7 @@ Executes instructions from mobile how-to search results inside a controlled Andr
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-08860/record.json
 

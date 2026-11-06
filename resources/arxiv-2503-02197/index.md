@@ -14,7 +14,7 @@ Selects critical steps from expert interaction trajectories for targeted agent f
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The full paper was also inspected to confirm WebShop evaluation; the broader agent-learning method is classified as adjacent.
+The annotation and scope were reviewed against the primary paper abstract. The full paper was also inspected to confirm WebShop evaluation; the broader agent-learning method is classified as adjacent.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-02197/record.json
 

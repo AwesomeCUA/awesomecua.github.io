@@ -71,7 +71,7 @@
     }
   ],
   "name": "ALLOY: Generating Reusable Agent Workflows from User Demonstration",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study involved 12 participants performing complex web tasks. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study involved 12 participants performing complex web tasks.",
   "published_at": "2025-10-11",
   "relations": [],
   "review_status": "curated",

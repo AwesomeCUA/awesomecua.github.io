@@ -14,7 +14,7 @@ Builds MultiUI by generating instructions from webpage accessibility trees and p
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-13824/record.json
 

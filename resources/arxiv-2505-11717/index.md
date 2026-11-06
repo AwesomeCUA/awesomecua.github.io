@@ -14,7 +14,7 @@ Introduces WebInject, a prompt-injection attack that optimizes rendered webpage 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v4). Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v4).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-11717/record.json
 

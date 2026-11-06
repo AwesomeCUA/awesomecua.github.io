@@ -14,7 +14,7 @@ GAIA trains a GUI action critic on positive and negative examples, then uses tha
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-18197/record.json
 

@@ -14,7 +14,7 @@ UI-Mem stores workflows, skills and failure patterns as reusable templates to gu
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-05832/record.json
 

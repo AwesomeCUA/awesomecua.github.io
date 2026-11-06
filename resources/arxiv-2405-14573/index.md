@@ -14,7 +14,7 @@ Introduces parameterized Android tasks with initialization, success checks, and 
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2405-14573/record.json
 

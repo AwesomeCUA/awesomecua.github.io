@@ -14,7 +14,7 @@ This position paper derives interface design principles from terminal-based huma
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent conceptual HCI work about agent-facing interfaces; the abstract does not report GUI task experiments or a new evaluated CUA.
+Reviewed against the complete retained official abstract. Adjacent conceptual HCI work about agent-facing interfaces; the abstract does not report GUI task experiments or a new evaluated CUA.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-10664/record.json
 

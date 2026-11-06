@@ -14,7 +14,7 @@ MemoryArena links tasks across sessions so that agents must distill earlier inte
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-16313/record.json
 

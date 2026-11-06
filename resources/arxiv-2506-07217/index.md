@@ -14,7 +14,7 @@ BIMgent plans software-specific workflows and executes GUI actions for building-
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-07217/record.json
 

@@ -91,7 +91,7 @@
     }
   ],
   "name": "OpenHands: An Open Platform for AI Software Developers as Generalist Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Web browsing is one setting within a broader software-development agent platform. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Web browsing is one setting within a broader software-development agent platform.",
   "published_at": "2024-07-23",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ AutoTailor compiles web trajectories into reusable browser-automation APIs, then
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-13548/record.json
 

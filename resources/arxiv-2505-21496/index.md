@@ -14,7 +14,7 @@ UI-Genie jointly improves a mobile GUI agent and a reward model that processes s
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-21496/record.json
 

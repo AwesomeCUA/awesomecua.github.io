@@ -92,12 +92,15 @@
     }
   ],
   "name": "MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark evaluates evidence retrieval and reasoning during browsing, rather than completing website workflows. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2025-08-14",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces MM-BrowseComp, a benchmark for browsing agents that must use evidence from web images and videos to answer multimodal search questions.",
+  "task_classes": [
+    "R04.01.02.03"
+  ],
   "topics": [
     "evaluation",
     "web-navigation",

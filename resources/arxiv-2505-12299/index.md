@@ -14,7 +14,7 @@ MobileIPL samples trees of action-planning thoughts, propagates rule-based leaf 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-12299/record.json
 

@@ -70,7 +70,7 @@
     }
   ],
   "name": "PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent cross-domain VLM compression method with actual GUI-benchmark evaluation; the abstract does not establish a full computer-use policy.",
+  "notes": "Reviewed against the complete retained official abstract. Adjacent cross-domain VLM compression method with actual GUI-benchmark evaluation; the abstract does not establish a full computer-use policy.",
   "published_at": "2026-04-01",
   "relations": [],
   "review_status": "curated",

@@ -78,7 +78,7 @@
     }
   ],
   "name": "Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v6). GUI-agent click decisions are one of two evaluation settings; the other is image classification. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v6). GUI-agent click decisions are one of two evaluation settings; the other is image classification.",
   "published_at": "2026-01-30",
   "relations": [],
   "review_status": "curated",

@@ -60,7 +60,7 @@ Research code that extracts reusable browser-task routines from demonstrations o
 
 ### Limitations
 
-The repository releases separate WebArena and Mind2Web pipelines for online or offline workflow induction and use. WebArena execution requires separately configured browser environments, while Mind2Web workflows require the original dataset and rankings. Publisher performance claims were not reproduced. Apache-2.0 is recorded for this implementation; external benchmark, model and service terms remain separate.
+The repository releases separate WebArena and Mind2Web pipelines for online or offline workflow induction and use. WebArena execution requires separately configured browser environments, while Mind2Web workflows require the original dataset and rankings. Apache-2.0 is recorded for this implementation; external benchmark, model and service terms remain separate.
 
 - Record JSON: https://awesomecua.com/resources/github-zorazrw-agent-workflow-memory/record.json
 
@@ -326,7 +326,7 @@ Replay-based policy-optimization framework for GUI agents, with distributed OSWo
 
 ### Limitations
 
-Official GitHub API resolves the former dvlab-research/ARPO URL to JIA-Lab-research/ARPO with the same numeric repository ID. Training/evaluation scripts are released; OSWorld environments and the separate model checkpoint are not bundled into this code record. Reported benchmark scores were not reproduced.
+Official GitHub API resolves the former dvlab-research/ARPO URL to JIA-Lab-research/ARPO with the same numeric repository ID. Training/evaluation scripts are released; OSWorld environments and the separate model checkpoint are not bundled into this code record.
 
 - Record JSON: https://awesomecua.com/resources/github-jia-lab-research-arpo/record.json
 
@@ -860,7 +860,7 @@ Code for screenshot grounding through supervised training, teacher-guided distil
 
 ### Limitations
 
-The repository documents separate training-stage environments. Code, model weights, and ScreenRef data have distinct license declarations; no training or benchmark execution was reproduced here.
+The repository documents separate training-stage environments. Code, model weights, and ScreenRef data have distinct license declarations.
 
 - Record JSON: https://awesomecua.com/resources/github-prentisai-groundgui/record.json
 
@@ -1579,7 +1579,7 @@ Inspect-based multi-agent evaluation framework with role, scheduling and communi
 
 ### Limitations
 
-Reviewed version 1.0.3 source at commit 588b3035, not an asserted reproduction of the paper. BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task, not SMTP delivery. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.
+BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task, not SMTP delivery. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.
 
 - Record JSON: https://awesomecua.com/resources/github-wlanderson0-orbit/record.json
 
@@ -2092,7 +2092,7 @@ Research code and linked models for step-verified computer-use training; the cur
 
 ### Limitations
 
-The repository has moved to STEVE-R1. Its README reports an SFT release, with RL tuning in progress, and describes evaluations using multiple attempts per task. These results are not independently reproduced here.
+The repository has moved to STEVE-R1. Its README reports an SFT release, with RL tuning in progress, and describes evaluations using multiple attempts per task.
 
 - Record JSON: https://awesomecua.com/resources/github-fanbinlu-steve-r1/record.json
 
@@ -2160,7 +2160,7 @@ Memory-routing implementation that chooses text or image demonstrations for a fr
 
 ### Limitations
 
-The implementation distinguishes step-level AITW/LearnGUI scores from terminal task success on MobileMiniWoB++. Benchmark outcomes and local smoke-test outputs are different claims; neither was independently reproduced here.
+The implementation distinguishes step-level AITW/LearnGUI scores from terminal task success on MobileMiniWoB++. Benchmark outcomes and local smoke-test outputs are different claims.
 
 - Record JSON: https://awesomecua.com/resources/github-dmis-lab-switchmem/record.json
 
@@ -2384,7 +2384,7 @@ Research code for proactive human–GUI-agent verification, including offline in
 
 ### Limitations
 
-The released scripts evaluate recorded task inputs; the retained README does not establish a live Android execution environment. No runtime behavior or reported results were independently reproduced.
+The released scripts evaluate recorded task inputs; the retained README does not establish a live Android execution environment.
 
 - Record JSON: https://awesomecua.com/resources/github-wuzheng02-verios/record.json
 
@@ -2451,7 +2451,7 @@ VideoCADFormer training, action-log preprocessing and evaluation code for learni
 
 ### Limitations
 
-The paper links this author repository. Training, preprocessing, model and evaluation source files are released; runtime behavior has not been independently reproduced. Onshape is a browser-based CAD environment; supported operating systems are not inferred. The full dataset and a checkpoint are linked separately, and their payloads were not downloaded for this review. MIT is recorded only for this repository code; external data and weight licenses remain unknown.
+The paper links this author repository. Onshape is a browser-based CAD environment; supported operating systems are not inferred. The full dataset and a checkpoint are linked separately, and their payloads were not downloaded for this review. MIT is recorded only for this repository code; external data and weight licenses remain unknown.
 
 - Record JSON: https://awesomecua.com/resources/github-ghadinehme-videocad/record.json
 

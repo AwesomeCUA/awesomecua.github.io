@@ -72,12 +72,15 @@
     }
   ],
   "name": "Scaling Autonomous Agents via Automatic Reward Modeling And Planning",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Online shopping is one of several decision-making domains discussed, alongside scientific reasoning and mathematics. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Online shopping is one of several decision-making domains discussed, alongside scientific reasoning and mathematics.",
   "published_at": "2025-02-17",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces a framework that learns a reward model from agent trajectories to guide multi-step planning, with online shopping among its decision-making settings.",
+  "task_classes": [
+    "R12.01.01.02"
+  ],
   "topics": [
     "reward-models",
     "planning",

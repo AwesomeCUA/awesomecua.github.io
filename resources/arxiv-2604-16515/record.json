@@ -70,7 +70,7 @@
     }
   ],
   "name": "Penny Wise, Pixel Foolish: Bypassing Price Constraints in Multimodal Agents via Visual Adversarial Perturbations",
-  "notes": "Scope is screenshot-based interface understanding and safety. The retained abstract does not establish a specific operating system or live transaction execution; no attack results were independently reproduced.",
+  "notes": "Scope is screenshot-based interface understanding and safety. The retained abstract does not establish a specific operating system or live transaction execution.",
   "published_at": "2026-04-15",
   "relations": [],
   "review_status": "curated",

@@ -71,7 +71,7 @@
     }
   ],
   "name": "PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Reported evaluations include seen and unseen websites and Mind2Web. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Reported evaluations include seen and unseen websites and Mind2Web.",
   "published_at": "2025-10-17",
   "relations": [],
   "review_status": "curated",

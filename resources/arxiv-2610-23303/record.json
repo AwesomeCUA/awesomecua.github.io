@@ -85,7 +85,7 @@
     }
   ],
   "name": "MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents",
-  "notes": "Reviewed the complete retained abstract and selected exact-v1 threat-model, construction and evaluation sections. Execution uses a browser-based Android-like simulator, not real Android isolation or live services. The attacker controls instructions and designated carriers, not privileged simulator state/APIs or system/model/harness internals. Rates depend on release, budget and adjudication coverage. SAF labels track observable expressions and actions, not latent reasoning; unresolved episodes are excluded from rate denominators. No independent reproduction.",
+  "notes": "Reviewed the complete retained abstract and selected exact-v1 threat-model, construction and evaluation sections. Execution uses a browser-based Android-like simulator, not real Android isolation or live services. The attacker controls instructions and designated carriers, not privileged simulator state/APIs or system/model/harness internals. Rates depend on release, budget and adjudication coverage. SAF labels track observable expressions and actions, not latent reasoning; unresolved episodes are excluded from rate denominators.",
   "published_at": "2026-10-16",
   "relations": [],
   "review_status": "curated",

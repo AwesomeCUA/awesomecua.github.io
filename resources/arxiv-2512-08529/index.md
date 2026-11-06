@@ -14,7 +14,7 @@ MVP addresses unstable GUI coordinates by predicting across several attention-gu
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-08529/record.json
 

@@ -103,7 +103,7 @@
     }
   ],
   "name": "PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas",
-  "notes": "Reviewed the complete retained abstract and selected exact-v1 construction, evaluation and limitations sections. Main interactions and satisfaction ratings use LLM-simulated personas; human annotators validate selected outputs. The harness observes page text, with screenshots only for auditing. Results are not evidence about real demographic populations or desktop agents. No independent reproduction.",
+  "notes": "Reviewed the complete retained abstract and selected exact-v1 construction, evaluation and limitations sections. Main interactions and satisfaction ratings use LLM-simulated personas; human annotators validate selected outputs. The harness observes page text, with screenshots only for auditing. Results are not evidence about real demographic populations or desktop agents.",
   "published_at": "2026-10-16",
   "relations": [],
   "review_status": "curated",

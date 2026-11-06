@@ -14,7 +14,7 @@ Studies indirect prompt injection through HTML content consumed as accessibility
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-14799/record.json
 

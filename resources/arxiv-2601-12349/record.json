@@ -76,7 +76,7 @@
     }
   ],
   "name": "Mind the Gap: Action Rebinding Attacks against Android GUI Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-01-18",
   "relations": [],
   "review_status": "curated",

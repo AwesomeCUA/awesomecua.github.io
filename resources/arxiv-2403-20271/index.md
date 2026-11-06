@@ -14,7 +14,7 @@ Introduces Draw-and-Understand and MDVP-Bench for understanding visual prompts s
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Mobile and web screenshots are among several image domains; the abstract does not describe operating those interfaces. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2403-20271/record.json
 

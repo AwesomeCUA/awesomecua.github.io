@@ -74,12 +74,15 @@
     }
   ],
   "name": "VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent GUI-application generation benchmark with real component interaction probes; its main evaluated agents are application coders, not general GUI task executors.",
+  "notes": "Reviewed against the complete retained official abstract. Adjacent GUI-application generation benchmark with real component interaction probes; its main evaluated agents are application coders, not general GUI task executors.",
   "published_at": "2026-05-22",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "VISTA evaluates coding agents that turn design handoffs into working web and Android applications. Its evaluator locates annotated interactive components and probes their behavior, keeping visual localization distinct from functional correctness.",
+  "task_classes": [
+    "R02.04.01.01"
+  ],
   "topics": [
     "evaluation",
     "ui-design",

@@ -14,7 +14,7 @@ MemGUI-Bench evaluates short-term retention and cross-session experience reuse i
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-06075/record.json
 

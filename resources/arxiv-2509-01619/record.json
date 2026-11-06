@@ -72,7 +72,7 @@
     }
   ],
   "name": "Throttling Web Agents Using Reasoning Gates",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The contribution is an access-cost mechanism spanning websites and MCP servers, not a GUI navigation policy.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The contribution is an access-cost mechanism spanning websites and MCP servers, not a GUI navigation policy.",
   "published_at": "2025-09-01",
   "relations": [],
   "review_status": "curated",

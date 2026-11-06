@@ -14,7 +14,7 @@ Measures how autonomous LLM browser agents interact with commercial bot-manageme
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-18659/record.json
 

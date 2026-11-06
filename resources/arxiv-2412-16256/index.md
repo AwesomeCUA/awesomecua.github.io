@@ -14,7 +14,7 @@ Introduces a vision-based grounding model trained with diverse synthetic instruc
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-16256/record.json
 

@@ -14,7 +14,7 @@ Introduces PG-Agent, which turns GUI operation episodes into page graphs and ret
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-03536/record.json
 

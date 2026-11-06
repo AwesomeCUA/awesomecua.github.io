@@ -14,7 +14,7 @@ Introduces IconDesc, which generates mobile icon alt-text from partial UI contex
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. This is a UI accessibility and element-description method; autonomous GUI control is not evaluated.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. This is a UI accessibility and element-description method; autonomous GUI control is not evaluated.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-18060/record.json
 

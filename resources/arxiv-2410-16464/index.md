@@ -14,7 +14,7 @@ Compares browsing-only, API-only, and hybrid web agents on WebArena, examining h
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-16464/record.json
 

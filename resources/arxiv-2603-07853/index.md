@@ -14,7 +14,7 @@ Bibliographic record for SynPlanResearch-R1: Encouraging Tool Exploration for De
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-07853/record.json
 

@@ -305,6 +305,317 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.03231v1",
+    "archive": "arXiv",
+    "archive_location": "2605.03231",
+    "author": [
+      {
+        "literal": "Masafumi Oyamada"
+      },
+      {
+        "literal": "Kunihiro Takeoka"
+      },
+      {
+        "literal": "Kosuke Akimoto"
+      },
+      {
+        "literal": "Ryoma Obara"
+      },
+      {
+        "literal": "Masafumi Enomoto"
+      },
+      {
+        "literal": "Haochen Zhang"
+      },
+      {
+        "literal": "Daichi Haraguchi"
+      },
+      {
+        "literal": "Takuya Tamura"
+      }
+    ],
+    "citation-key": "arxiv_2605_03231",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0d8bf357a11c2040113d92af1dc57fcbf6404f84efe7f96a980faad5ee7dcfc9",
+        "submitted_at": "2026-05-04T23:50:20Z",
+        "updated_at": "2026-05-04T23:50:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.03231v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.03231",
+      "catalog_id": "arxiv:2605.03231",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-04",
+      "identifiers": {
+        "arxiv": "2605.03231"
+      },
+      "record_updated_at": "2026-05-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.03231",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T23:50:20Z.",
+    "title": "cotomi Act: Learning to Automate Work by Watching You",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.14786v1",
+    "archive": "arXiv",
+    "archive_location": "2605.14786",
+    "author": [
+      {
+        "literal": "William Lugoloobi"
+      },
+      {
+        "literal": "Samuelle Marro"
+      },
+      {
+        "literal": "Jabez Magomere"
+      },
+      {
+        "literal": "Joss Wright"
+      },
+      {
+        "literal": "Chris Russell"
+      }
+    ],
+    "citation-key": "arxiv_2605_14786",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "69afd6b998ab3d284ef83513914b3892c6dc8d2a383f332467176b4dd7b03c7d",
+        "submitted_at": "2026-05-14T12:55:19Z",
+        "updated_at": "2026-05-14T12:55:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.14786v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.14786",
+      "catalog_id": "arxiv:2605.14786",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-14",
+      "identifiers": {
+        "arxiv": "2605.14786"
+      },
+      "record_updated_at": "2026-05-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.14786",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T12:55:19Z.",
+    "title": "Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.19484v1",
+    "archive": "arXiv",
+    "archive_location": "2605.19484",
+    "author": [
+      {
+        "literal": "Haobo Hu"
+      },
+      {
+        "literal": "Xiangwu Guo"
+      },
+      {
+        "literal": "Zhiheng Chen"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Haotian Liu"
+      },
+      {
+        "literal": "Libiao Jin"
+      },
+      {
+        "literal": "Qi Mao"
+      }
+    ],
+    "citation-key": "arxiv_2605_19484",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fd78832d2550ce38e5147e8779455242a62f1aabdab652c676f7324c19578d4c",
+        "submitted_at": "2026-05-19T07:35:22Z",
+        "updated_at": "2026-05-19T07:35:22Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.19484v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.19484",
+      "catalog_id": "arxiv:2605.19484",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-19",
+      "identifiers": {
+        "arxiv": "2605.19484"
+      },
+      "record_updated_at": "2026-05-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.19484",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T07:35:22Z.",
+    "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.03951v1",
+    "archive": "arXiv",
+    "archive_location": "2606.03951",
+    "author": [
+      {
+        "literal": "Zechen Bai"
+      },
+      {
+        "literal": "Zhiheng Chen"
+      },
+      {
+        "literal": "Yiqi Lin"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Xiangwu Guo"
+      },
+      {
+        "literal": "Xin Wang"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2606_03951",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "20baed183b31118c23112d6396ad9ea15329ee8b54ef435caf003907f18d9c28",
+        "submitted_at": "2026-06-02T17:39:07Z",
+        "updated_at": "2026-06-02T17:39:07Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.03951v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.03951",
+      "catalog_id": "arxiv:2606.03951",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-02",
+      "identifiers": {
+        "arxiv": "2606.03951"
+      },
+      "record_updated_at": "2026-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.03951",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T17:39:07Z.",
+    "title": "Demo2Tutorial: From Human Experience to Multimodal Software Tutorials",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.05171v1",
+    "archive": "arXiv",
+    "archive_location": "2606.05171",
+    "author": [
+      {
+        "literal": "Zhixue Song"
+      },
+      {
+        "literal": "Zhiheng Zhang"
+      },
+      {
+        "literal": "Yi Song"
+      },
+      {
+        "literal": "Chi Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2606_05171",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "03585e55e343411c5a86b852e68dc23bc4cc9be3d041add890b758b737db35a1",
+        "submitted_at": "2026-04-15T17:02:09Z",
+        "updated_at": "2026-04-15T17:02:09Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.05171v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.05171",
+      "catalog_id": "arxiv:2606.05171",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-15",
+      "identifiers": {
+        "arxiv": "2606.05171"
+      },
+      "record_updated_at": "2026-04-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.05171",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T17:02:09Z.",
+    "title": "AppAgent-Claw: CLI Is All You Need for GUI Automation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.07594v1",
     "archive": "arXiv",
     "archive_location": "2606.07594",
@@ -463,6 +774,52 @@
     },
     "note": "First published: 2026-06-17; Recorded arXiv version: v1; Recorded version updated: 2026-06-17T04:13:20Z.",
     "title": "HANSEL: Extracting Breadcrumbs from Web Agent Trajectories for Interactive Verification",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.05784v1",
+    "archive": "arXiv",
+    "archive_location": "2608.05784",
+    "author": [
+      {
+        "literal": "Nossa Iyamu"
+      }
+    ],
+    "citation-key": "arxiv_2608_05784",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e5a48c8436a16957f1bda4f45cd412af32a39d075774a2d28cb8fb98d418664d",
+        "submitted_at": "2026-08-06T09:17:43Z",
+        "updated_at": "2026-08-06T09:17:43Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.05784v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.05784",
+      "catalog_id": "arxiv:2608.05784",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-06",
+      "identifiers": {
+        "arxiv": "2608.05784"
+      },
+      "record_updated_at": "2026-08-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.05784",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T09:17:43Z.",
+    "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
     "type": "article",
     "version": "1"
   },
@@ -734,6 +1091,70 @@
     },
     "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T04:32:02Z.",
     "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.28610v1",
+    "archive": "arXiv",
+    "archive_location": "2610.28610",
+    "author": [
+      {
+        "literal": "Jingyu Xiao"
+      },
+      {
+        "literal": "Dasen Dai"
+      },
+      {
+        "literal": "Yuxuan Wan"
+      },
+      {
+        "literal": "Jen-tse Huang"
+      },
+      {
+        "literal": "Yintong Huo"
+      },
+      {
+        "literal": "Hongyu Zhang"
+      },
+      {
+        "literal": "Michael R. Lyu"
+      }
+    ],
+    "citation-key": "arxiv_2610_28610",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d674ff8ea7ca3ce481e0c1d595a1f13fd0079d6a4f2752ed8bc6aedfea3db220",
+        "submitted_at": "2026-10-20T17:53:24Z",
+        "updated_at": "2026-10-20T17:53:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.28610v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.28610",
+      "catalog_id": "arxiv:2610.28610",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-20",
+      "identifiers": {
+        "arxiv": "2610.28610"
+      },
+      "record_updated_at": "2026-10-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.28610",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T17:53:24Z.",
+    "title": "InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning",
     "type": "article",
     "version": "1"
   },

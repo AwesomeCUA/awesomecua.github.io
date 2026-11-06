@@ -56,7 +56,7 @@
     }
   ],
   "name": "Mobile Harness",
-  "notes": "The publisher describes this as a Markdown harness, not an agent runtime. Published benchmark results have not been independently reproduced.",
+  "notes": "The publisher describes this as a Markdown harness, not an agent runtime.",
   "published_at": null,
   "relations": [],
   "review_status": "curated",

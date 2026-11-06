@@ -111,7 +111,7 @@
     }
   ],
   "name": "ZonUI-3B checkpoint",
-  "notes": "The Hub manifest lists four-part PyTorch and Safetensors files as alternative representations of one checkpoint, plus configuration/tokenizer files. The card’s example rescales predicted locations through the resized image dimensions. No checkpoint was loaded and no benchmark score was reproduced. Apache-2.0 is the model-card weight declaration; the separate code repository has no project-level license in the inspected tree.",
+  "notes": "The Hub manifest lists four-part PyTorch and Safetensors files as alternative representations of one checkpoint, plus configuration/tokenizer files. The card’s example rescales predicted locations through the resized image dimensions. Apache-2.0 is the model-card weight declaration; the separate code repository has no project-level license in the inspected tree.",
   "published_at": null,
   "relations": [
     {

@@ -14,7 +14,7 @@ RedTeamCUA combines a virtual-machine OS environment with containerized websites
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-21936/record.json
 

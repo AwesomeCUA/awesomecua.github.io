@@ -78,12 +78,15 @@
     }
   ],
   "name": "LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-06-15",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "LabOSBench evaluates GUI agents on browser-based scientific instrument simulators with configurable tasks and execution-based checks. Its subtask and end-to-end tests examine feedback-driven adjustment and long workflows without controlling physical instruments.",
+  "task_classes": [
+    "R08.12.01.03"
+  ],
   "topics": [
     "evaluation",
     "science",

@@ -14,7 +14,7 @@ Introduces WebAggregator, a pipeline for synthesizing compositional questions fr
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The work centers on research questions and evidence aggregation across websites. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The work centers on research questions and evidence aggregation across websites.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-14438/record.json
 

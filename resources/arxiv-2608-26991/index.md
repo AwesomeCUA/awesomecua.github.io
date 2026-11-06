@@ -14,7 +14,7 @@ ASIL exposes application state as structured JSON and provides code-executable s
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-26991/record.json
 

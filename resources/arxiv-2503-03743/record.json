@@ -74,7 +74,7 @@
     }
   ],
   "name": "CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-03-05",
   "relations": [],
   "review_status": "curated",

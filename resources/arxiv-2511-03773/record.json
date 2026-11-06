@@ -85,7 +85,7 @@
     }
   ],
   "name": "Scaling Agent Learning via Experience Synthesis",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). WebArena is one of several environments used to evaluate this general agent training framework. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). WebArena is one of several environments used to evaluate this general agent training framework.",
   "published_at": "2025-11-05",
   "relations": [],
   "review_status": "curated",

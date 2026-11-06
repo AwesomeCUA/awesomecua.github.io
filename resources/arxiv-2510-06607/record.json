@@ -79,7 +79,7 @@
     }
   ],
   "name": "Your Harness is Not Secure: Benchmarking Real-world Threat of Command Line Interface Agent",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). AdvCLI evaluates command-line agents and operating-system effects, rather than GUI interaction. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2025-10-08",
   "relations": [],
   "review_status": "curated",

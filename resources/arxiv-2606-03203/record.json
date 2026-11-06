@@ -72,7 +72,7 @@
     }
   ],
   "name": "MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents",
-  "notes": "The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.",
+  "notes": "The annotation was reviewed against the complete retained official abstract.",
   "published_at": "2026-06-02",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Introduces Mano, a GUI agent trained with simulated data, supervised fine-tuning
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract reports evaluation on GUI benchmarks including Mind2Web and OSWorld. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract reports evaluation on GUI benchmarks including Mind2Web and OSWorld.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-17336/record.json
 

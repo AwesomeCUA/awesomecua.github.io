@@ -14,7 +14,7 @@ WebRollback gives a web agent an explicit action for returning to an earlier sta
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-11788/record.json
 

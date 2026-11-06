@@ -14,7 +14,7 @@ Introduces Graph2Eval, which generates multimodal agent evaluation tasks from kn
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The framework also generates document-understanding tasks for RAG agents. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The framework also generates document-understanding tasks for RAG agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-00507/record.json
 

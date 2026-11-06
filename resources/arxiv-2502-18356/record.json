@@ -75,7 +75,7 @@
     }
   ],
   "name": "WebGames: Challenging General-Purpose Web-Browsing AI Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported comparisons are from the benchmark's interactive challenges. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported comparisons are from the benchmark's interactive challenges.",
   "published_at": "2025-02-25",
   "relations": [],
   "review_status": "curated",

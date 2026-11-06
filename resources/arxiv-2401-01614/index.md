@@ -14,7 +14,7 @@ Introduces SeeAct and live-website evaluation, examining how visual planning and
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2401-01614/record.json
 

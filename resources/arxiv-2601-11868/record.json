@@ -152,7 +152,7 @@
     }
   ],
   "name": "Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The tasks take place in computer terminals rather than graphical interfaces. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2026-01-17",
   "relations": [],
   "review_status": "curated",

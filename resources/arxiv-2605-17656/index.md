@@ -14,7 +14,7 @@ MUIAnno provides expert labels for elements in manually explored mobile-app scre
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-17656/record.json
 

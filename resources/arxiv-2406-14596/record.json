@@ -73,7 +73,7 @@
     }
   ],
   "name": "VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v6). VisualWebArena is one of several evaluation settings for this general VLM-agent method. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v6). VisualWebArena is one of several evaluation settings for this general VLM-agent method.",
   "published_at": "2024-06-20",
   "relations": [],
   "review_status": "curated",

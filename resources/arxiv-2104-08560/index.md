@@ -14,7 +14,7 @@ Introduces MoTIF, a dataset of natural-language requests for interactive mobile 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract reports initial feasibility classification experiments, not app-task execution by an agent. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2104-08560/record.json
 

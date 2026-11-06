@@ -14,7 +14,7 @@ CovAgent augments Android GUI fuzzers by analyzing decompiled app code and compo
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-21253/record.json
 

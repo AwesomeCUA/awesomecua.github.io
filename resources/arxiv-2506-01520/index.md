@@ -14,7 +14,7 @@ Introduces FormFactory, an interactive web-based benchmark for agents filling on
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The evaluated MLLMs did not exceed 5% accuracy on this benchmark. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-01520/record.json
 

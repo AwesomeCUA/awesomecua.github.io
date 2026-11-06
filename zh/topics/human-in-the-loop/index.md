@@ -6,6 +6,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
 
 ## 论文与综述
 
+- [iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents](https://awesomecua.com/resources/arxiv-2610-34735/) — 2026-10-26
+  Introduces iPrefBench, an iOS benchmark for mobile agents that tests when they infer missing user preferences from activity history and when they ask the user.
 - [SPIDES: Information-Flow Control for Browser Agents](https://awesomecua.com/resources/arxiv-2610-24277/) — 2026-10-16
   SPIDES propagates HTML integrity and confidentiality labels into agent context and mediates browser actions with information-flow policies and approval gates, evaluated in the labeled MicroNet ecosystem.
 - [PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas](https://awesomecua.com/resources/arxiv-2610-22990/) — 2026-10-16
@@ -14,8 +16,12 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Intact records webpage element provenance and capabilities, isolates planning per element, and uses a browser harness to constrain actions and request consent for third-party interactions.
 - [Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution](https://awesomecua.com/resources/arxiv-2610-20100/) — 2026-10-14
   Presents TaskVM, an interface for specifying desired and preserved application state, checking agent actions, and exposing whether changes can be reversed or compensated.
+- [The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents](https://awesomecua.com/resources/arxiv-2609-18411/) — 2026-09-16
+  Presents the Verifiable Action Card (VAC), a browser approval mechanism that derives confirmations from pending actions and binds user approval to execution.
 - [ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software](https://awesomecua.com/resources/arxiv-2609-17885/) — 2026-09-15
   ERPBench evaluates screenshot-only agents in enterprise software using database values to check the business records produced by their actions. It pairs these state-based checks with a harness for human approval and analyzes cases where visible completion masks incorrect persisted data.
+- [CoArena: Evaluating Computer-Use and Multi-Agent Systems in Real Time](https://awesomecua.com/resources/arxiv-2609-14239/) — 2026-09-13
+  Introduces CoArena, an evaluation method where user tasks run concurrently in sandboxed desktops and blind pairwise judgments update a public leaderboard.
 - [ElderBench: Benchmarking Autonomous Mobile Agents for Older Adults](https://awesomecua.com/resources/arxiv-2609-04850/) — 2026-09-04
   ElderBench evaluates mobile GUI agents on smartphone requests elicited from older adults, including indirect and underspecified language. Online and offline tests, instruction normalization and linguistic analyses examine how these request patterns contribute to failures.
 - [OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations](https://awesomecua.com/resources/arxiv-2609-02149/) — 2026-09-02
@@ -26,10 +32,16 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Evaluates interface-embedded threats and whether computer-use agents seek clarification when mobile or desktop instructions are ambiguous.
 - [Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions](https://awesomecua.com/resources/arxiv-2608-14132/) — 2026-08-14
   Introduces intention understanding, prediction, and confirmed execution tasks over mobile GUI trajectories, with a proactive agent combining personalized intention models and experience-guided actions.
+- [Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2608-02018/) — 2026-08-03
+  Introduces II-Bench for low-harm indirect prompt injections against computer-use agents and HITLCUA for testing them in virtual-machine and web environments with simulated user review.
 - [Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents](https://awesomecua.com/resources/arxiv-2607-17527/) — 2026-07-20
   Introduces Sidekick, a communication interface that uses ambient status cues, multimodal action summaries, and visual and verbal explanations of reasoning to help people monitor computer-use agents. A user study examines progress awareness, error traceability, and multitasking across background and foreground interaction.
+- [Just A Rather Very Intelligent Spoken Agent](https://awesomecua.com/resources/arxiv-2607-16610/) — 2026-07-18
+  Introduces JarvisBench, a benchmark for spoken mediation during long-horizon agent workflows, measuring task collaboration and how users follow ongoing execution.
 - [Plover: Steering GUI Agents through Plan-Centric Interaction](https://awesomecua.com/resources/arxiv-2607-15193/) — 2026-07-16
   Plover exposes GUI-agent plans and replanning as persistent artifacts that users can inspect and edit during execution. Its planner–executor design supports localized correction through plan edits, language guidance and screenshot-grounded interventions, studied through failure repair and workflow scenarios.
+- [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](https://awesomecua.com/resources/arxiv-2607-08768/) — 2026-07-09
+  Introduces UniClawBench, a benchmark of proactive agents on bilingual real-world tasks, evaluated in live Docker containers with stepwise checkpoints and simulated user feedback.
 - [Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents](https://awesomecua.com/resources/arxiv-2608-09944/) — 2026-07-01
   Introduces NeXUI, an assistive UI-agent benchmark that evaluates navigation together with interface-grounded explanations and user oversight in recorded interface states.
 - [DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching](https://awesomecua.com/resources/arxiv-2606-31980/) — 2026-06-30
@@ -44,14 +56,32 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Syll combines tool calls, shell execution and visual GUI control in a personal-automation runtime. It turns user demonstrations into reusable skills and exposes execution logs, keyframes and approval checkpoints for inspection.
 - [MaskClaw: Edge-Side Personalized Privacy Arbitration for GUI Agents with Behavior-Driven Skill Evolution](https://awesomecua.com/resources/arxiv-2605-28646/) — 2026-05-27
   MaskClaw makes local Allow, Mask or Ask decisions before GUI screenshots leave a trusted environment, using visual evidence and personalized policy memory. Its benchmark and designed evolution scenarios test how corrections and edits can become privacy skills checked by a sandbox gate.
+- [Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents](https://awesomecua.com/resources/arxiv-2605-28629/) — 2026-05-27
+  Mobile-Aptus trains mobile agents to output actions and confidence scores, then corrects confidence bias to guide when they request human help.
+- [PageGuide: Browser extension to assist users in navigating a webpage and locating information](https://awesomecua.com/resources/arxiv-2604-23772/) — 2026-04-26
+  PageGuide is a browser extension that highlights evidence for answers on a page and guides users through web pages with evidence captured at each step.
+- [AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2604-20279/) — 2026-04-22
+  Introduces AgentLens, a mobile GUI agent that shows full, partial, or generated interface views during background task execution to support user interaction.
+- [Human-Guided Harm Recovery for Computer Use Agents](https://awesomecua.com/resources/arxiv-2604-18847/) — 2026-04-20
+  Introduces a preference-trained reward model for guiding computer-use agents out of harmful states and BackBench, a benchmark of recovery tasks.
 - [Beyond Chat and Clicks: GUI Agents for In-Situ Assistance via Live Interface Transformation](https://awesomecua.com/resources/arxiv-2604-14668/) — 2026-04-16
   DOMSteer translates help requests and live page context into reversible DOM changes such as control highlighting, contextual tooltips and layout reorganization. The work evaluates in-place GUI assistance with interface tests, use cases and a comparative user study.
 - [AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents](https://awesomecua.com/resources/arxiv-2604-16520/) — 2026-04-15
   AgentClick gives terminal-based agents a browser review interface for plans, drafts, execution traces and editable memory. A local server and skill plugin let users inspect proposed actions and provide structured feedback.
+- [KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation](https://awesomecua.com/resources/arxiv-2604-08455/) — 2026-04-09
+  Introduces KnowU-Bench, an Android emulator benchmark for mobile agents that evaluates preference elicitation, proactive decisions, consent and GUI task execution.
+- [Agentic Compilation: Mitigating the LLM Rerun Crisis for Minimized-Inference-Cost Web Automation](https://awesomecua.com/resources/arxiv-2604-09718/) — 2026-04-08
+  Proposes Compile-and-Execute, which turns a sanitized DOM into a reusable JSON workflow so repetitive browser tasks can run without further model queries.
+- [MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs](https://awesomecua.com/resources/arxiv-2604-06134/) — 2026-04-07
+  Introduces MAESTRO, a conversational GUI system that remembers user preferences, adapts interface options, and guides backtracking in multistep booking decisions.
 - [Comparing Human Oversight Strategies for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-04918/) — 2026-04-06
   Compares four human oversight strategies during live web-agent sessions, examining exposure to problematic actions and opportunities to intervene. The analysis identifies timing and attention problems in control handoffs and upfront plan approval.
+- [When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation](https://awesomecua.com/resources/arxiv-2604-00892/) — 2026-04-01
+  Introduces InterruptBench, a WebArena-Lite-derived benchmark that tests how long-horizon web-navigation agents handle mid-task user additions, revisions, and retractions.
 - [GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](https://awesomecua.com/resources/arxiv-2603-25864/) — 2026-03-26
   GUIDE evaluates whether models can recognize a user’s behavior, infer intent and decide when to offer help during open-ended software tasks. It uses narrated screen recordings of novice users and studies the effect of additional user context on these assistance decisions.
+- [IntentWeave: A Progressive Entry Ladder for Multi-Surface Browser Agents in Cloud Portals](https://awesomecua.com/resources/arxiv-2603-22917/) — 2026-03-24
+  Introduces IntentWeave, a design space and browser-extension prototype for placing web-agent assistance across browser surfaces, evaluated through a study of three entry strategies.
 - [Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration](https://awesomecua.com/resources/arxiv-2603-10664/) — 2026-03-11
   This position paper derives interface design principles from terminal-based human-agent collaboration: representational compatibility, transparent actions and low participation barriers. It argues that graphical and other agent-facing modalities should provide these properties explicitly.
 - [PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents](https://awesomecua.com/resources/arxiv-2603-08013/) — 2026-03-09

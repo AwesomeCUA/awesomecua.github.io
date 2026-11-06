@@ -14,7 +14,7 @@ Introduces an LLM and pixel-based UI system that executes natural-language acces
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract describes an accessibility testing workflow and a 10-participant user study. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract describes an accessibility testing workflow and a 10-participant user study.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-02424/record.json
 

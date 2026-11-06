@@ -72,7 +72,7 @@
     }
   ],
   "name": "MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI",
-  "notes": "Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.",
+  "notes": "Editorial summary based on the primary paper abstract.",
   "published_at": "2026-03-20",
   "relations": [],
   "review_status": "curated",

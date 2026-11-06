@@ -70,7 +70,7 @@
     }
   ],
   "name": "CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-06-10",
   "relations": [],
   "review_status": "curated",

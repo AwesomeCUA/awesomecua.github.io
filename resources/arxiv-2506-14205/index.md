@@ -14,7 +14,7 @@ AgentSynth composes easily generated subtasks into longer computer-use tasks and
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-14205/record.json
 

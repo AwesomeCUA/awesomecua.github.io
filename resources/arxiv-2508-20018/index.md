@@ -14,7 +14,7 @@ Introduces SWIRL, staged interleaved RL for mobile GUI control, pairing a Naviga
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract also applies SWIRL to mathematical reasoning; the GUI application is mobile control. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract also applies SWIRL to mathematical reasoning; the GUI application is mobile control.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-20018/record.json
 

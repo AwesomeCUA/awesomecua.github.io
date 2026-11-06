@@ -14,7 +14,7 @@ Magentic-UI combines browser interaction, code execution, file operations, and M
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-22358/record.json
 

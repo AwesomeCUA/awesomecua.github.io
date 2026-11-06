@@ -14,7 +14,7 @@ Studies WIPI, a black-box indirect-instruction threat in which webpage content r
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-16965/record.json
 

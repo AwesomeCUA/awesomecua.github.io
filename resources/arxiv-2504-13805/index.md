@@ -14,7 +14,7 @@ LearnAct parses human demonstrations into reusable knowledge, retrieves relevant
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-13805/record.json
 

@@ -70,7 +70,7 @@
     }
   ],
   "name": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction",
-  "notes": "Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.",
+  "notes": "Editorial summary based on the primary paper abstract.",
   "published_at": "2026-04-27",
   "relations": [],
   "review_status": "curated",

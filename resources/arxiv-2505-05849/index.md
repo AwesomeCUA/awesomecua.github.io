@@ -14,7 +14,7 @@ Introduces AgentVigil, a black-box fuzzing framework for finding indirect prompt
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v4). The framework targets LLM agents broadly; web navigation is one attack outcome reported in the abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v4). The framework targets LLM agents broadly; web navigation is one attack outcome reported in the abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-05849/record.json
 

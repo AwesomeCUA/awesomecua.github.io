@@ -14,7 +14,7 @@ Benchmarks agents creating editable Blender projects through shell, Python and M
 
 ## Limitations
 
-The evaluated agents use Linux shell/Python/MCP tools and can inspect viewport screenshots; graphical CUA control and Windows/macOS are future work. Each agent is run once per task, with different Codex/Claude Code harnesses across systems. Scores combine weighted rubric satisfaction and model-rated visual quality. Tool counts include unsuccessful calls and do not establish matched compute or successful actions. No independent reproduction or artifact-release verification.
+The evaluated agents use Linux shell/Python/MCP tools and can inspect viewport screenshots; graphical CUA control and Windows/macOS are future work. Each agent is run once per task, with different Codex/Claude Code harnesses across systems. Scores combine weighted rubric satisfaction and model-rated visual quality. Tool counts include unsuccessful calls and do not establish matched compute or successful actions.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-23986/record.json
 

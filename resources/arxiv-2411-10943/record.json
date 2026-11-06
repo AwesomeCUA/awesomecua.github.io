@@ -80,7 +80,7 @@
     }
   ],
   "name": "Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms",
-  "notes": "Reviewed the complete retained arXiv abstract and exact-version official HTML sections on browser/application/OS environments, screen observations, input actions and evaluation. The HTML abstract fingerprint and ordered authors match the retained Atom entry. Literature claims and experiments were not independently reproduced.",
+  "notes": "Reviewed the complete retained arXiv abstract and exact-version official HTML sections on browser/application/OS environments, screen observations, input actions and evaluation. The HTML abstract fingerprint and ordered authors match the retained Atom entry.",
   "published_at": "2024-11-17",
   "relations": [],
   "review_status": "curated",

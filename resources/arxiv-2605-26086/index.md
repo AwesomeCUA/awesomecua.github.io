@@ -14,7 +14,7 @@ Claw-Anything benchmarks persistent personal assistance across activity historie
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-26086/record.json
 

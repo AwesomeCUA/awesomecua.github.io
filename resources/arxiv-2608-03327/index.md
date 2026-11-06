@@ -14,7 +14,7 @@ This study separates tool-adoption behavior from task competence in hybrid GUIâ€
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-03327/record.json
 

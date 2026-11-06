@@ -101,7 +101,7 @@
     }
   ],
   "name": "GUI Grounding Evaluation Harness",
-  "notes": "This is an independent harness using ScreenSpot-Pro, not a new dataset or verified leaderboard entry. The read code maps points back to original-image coordinates and scores point-in-box hits; documentation limits comparisons by prompt, model, subset and provider behavior. No OS support, code license or external data/weight license was established in this bounded review. Model calls, tests and reported results were not executed or reproduced.",
+  "notes": "This is an independent harness using ScreenSpot-Pro, not a new dataset or verified leaderboard entry. The read code maps points back to original-image coordinates and scores point-in-box hits; documentation limits comparisons by prompt, model, subset and provider behavior. No OS support, code license or external data/weight license was established in this bounded review.",
   "published_at": null,
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Introduces CUARewardBench for evaluating outcome and process reward models on an
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark evaluates reward judgments on annotated trajectories, rather than agent task execution. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-18596/record.json
 

@@ -14,7 +14,7 @@ Introduces World of Bits, a web-task platform combining human demonstrations, ke
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained.
+The annotation was reviewed against retained primary publication sources. Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained.
 
 - Record JSON: https://awesomecua.com/resources/url-52a3261eb6a19b402e88/record.json
 

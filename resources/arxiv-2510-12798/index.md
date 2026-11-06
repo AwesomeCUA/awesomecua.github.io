@@ -14,7 +14,7 @@ Introduces Rex-Omni, a general visual perception model trained for coordinate pr
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI grounding is one evaluated capability of a general visual perception model. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI grounding is one evaluated capability of a general visual perception model.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-12798/record.json
 

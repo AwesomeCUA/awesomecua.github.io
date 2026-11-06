@@ -14,7 +14,7 @@ Introduces intention understanding, prediction, and confirmed execution tasks ov
 
 ## Limitations
 
-The benchmark combines real and generated trajectory material. Opportune intervention timing and real-user acceptance are stated limitations. Section 4.2.2 specifies Android emulator instances for generated action trajectories. No results were independently reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3 Task definition; 4.1 Raw data collection; 4.2 Trajectory construction; 7 Limitations and future directions); not an entire-paper reading or reproduction claim.
+The benchmark combines real and generated trajectory material. Opportune intervention timing and real-user acceptance are stated limitations. Section 4.2.2 specifies Android emulator instances for generated action trajectories. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3 Task definition; 4.1 Raw data collection; 4.2 Trajectory construction; 7 Limitations and future directions).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-14132/record.json
 

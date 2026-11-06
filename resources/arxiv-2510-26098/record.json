@@ -84,7 +84,7 @@
     }
   ],
   "name": "GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark uses multiple-choice and yes/no questions to assess GUI knowledge. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2025-10-30",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Trains GUI agents with a frozen value model learned from offline interactions, g
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-18906/record.json
 

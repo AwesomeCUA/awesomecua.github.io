@@ -83,7 +83,7 @@
     }
   ],
   "name": "A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security",
-  "notes": "Adjacent broad survey of procedural agent skills. Full-text Section 4.4.2 explicitly covers desktop, mobile, and web interface skills; surveyed systems and their reported results are not independently reproduced.",
+  "notes": "Adjacent broad survey of procedural agent skills.",
   "published_at": "2026-08-30",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Introduces WebDetective, a deep-search benchmark with a traceable Wikipedia sand
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The benchmark tests deep search on hint-free multi-hop questions in a controlled Wikipedia sandbox. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The benchmark tests deep search on hint-free multi-hop questions in a controlled Wikipedia sandbox.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-05137/record.json
 

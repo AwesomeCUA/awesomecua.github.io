@@ -14,7 +14,7 @@ SteP dynamically composes specialized web-action policies through a stack that r
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-03720/record.json
 

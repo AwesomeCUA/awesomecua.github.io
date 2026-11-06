@@ -14,7 +14,7 @@ HiconAgent trains GUI policies to use history through variable-length context sa
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-01763/record.json
 

@@ -75,7 +75,7 @@
     }
   ],
   "name": "Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v4). GUI agents are one of the domains used to evaluate this general continual-learning method. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v4). GUI agents are one of the domains used to evaluate this general continual-learning method.",
   "published_at": "2026-01-07",
   "relations": [],
   "review_status": "curated",

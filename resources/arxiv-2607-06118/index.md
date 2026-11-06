@@ -14,7 +14,7 @@ WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-06118/record.json
 

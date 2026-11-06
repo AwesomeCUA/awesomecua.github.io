@@ -14,7 +14,7 @@ Describes an Android agent architecture combining multimodal perception, working
 
 ## Limitations
 
-The report presents demonstrations. Its behavior-cloning component captures runtime skills; it does not establish policy-weight imitation training, and literal trace replay is described as future work. No general benchmark result or release completeness is inferred. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (2 Framework; 3 Omni Perception; 4 Omni Memory; 5.1 Omni Action in App Ecosystem; 5.2 Trajectory Cloned Execution); not an entire-paper reading or reproduction claim.
+The report presents demonstrations. Its behavior-cloning component captures runtime skills; it does not establish policy-weight imitation training, and literal trace replay is described as future work. No general benchmark result or release completeness is inferred. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (2 Framework; 3 Omni Perception; 4 Omni Memory; 5.1 Omni Action in App Ecosystem; 5.2 Trajectory Cloned Execution).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-05765/record.json
 

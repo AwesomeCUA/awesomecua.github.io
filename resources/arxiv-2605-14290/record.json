@@ -75,7 +75,7 @@
     }
   ],
   "name": "Web Agents Should Adopt the Plan-Then-Execute Paradigm",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced. Directly analyzes browser-agent prompt-injection boundaries and WebArena task structure, but advocates typed website operations rather than demonstrating a new GUI-control policy.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Directly analyzes browser-agent prompt-injection boundaries and WebArena task structure, but advocates typed website operations rather than demonstrating a new GUI-control policy.",
   "published_at": "2026-05-14",
   "relations": [],
   "review_status": "curated",

@@ -74,7 +74,7 @@
     }
   ],
   "name": "Large Language Models Empowered Personalized Web Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark represents actions with Web functions; page-level GUI operation is not described. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2024-10-22",
   "relations": [],
   "review_status": "curated",

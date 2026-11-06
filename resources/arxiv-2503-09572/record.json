@@ -75,7 +75,7 @@
     }
   ],
   "name": "Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-03-12",
   "relations": [],
   "review_status": "curated",

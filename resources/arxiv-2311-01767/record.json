@@ -72,12 +72,15 @@
     }
   ],
   "name": "PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2023-11-03",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Evaluates multi-turn PowerPoint creation and editing, scoring the resulting presentation files rather than requiring a fixed API sequence.",
+  "task_classes": [
+    "R04.04.01.01"
+  ],
   "topics": [
     "evaluation",
     "tool-integration"

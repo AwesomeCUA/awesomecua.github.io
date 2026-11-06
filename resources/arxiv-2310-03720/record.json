@@ -70,7 +70,7 @@
     }
   ],
   "name": "SteP: Stacked LLM Policies for Web Actions",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2023-10-05",
   "relations": [],
   "review_status": "curated",

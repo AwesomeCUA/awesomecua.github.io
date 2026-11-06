@@ -14,7 +14,7 @@ Introduces Screen2AX, which creates hierarchical accessibility metadata from mac
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-16704/record.json
 

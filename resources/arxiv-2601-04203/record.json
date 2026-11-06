@@ -74,12 +74,15 @@
     }
   ],
   "name": "FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Its main task is front-end code generation; web agents explore generated sites to assess and critique implementations. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Its main task is front-end code generation; web agents explore generated sites to assess and critique implementations.",
   "published_at": "2025-12-05",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "FronTalk benchmarks multi-turn front-end code generation from text and visual feedback; a web agent explores generated sites for evaluation and in AceCoder.",
+  "task_classes": [
+    "R02.04.01.01"
+  ],
   "topics": [
     "ui-design",
     "evaluation",

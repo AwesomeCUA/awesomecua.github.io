@@ -14,7 +14,7 @@ Orienter detects interactable GUI elements in XR applications by interpreting sc
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced. The described environment is XR/VR applications; the operating system is not specified in the abstract.
+Reviewed against the complete official arXiv abstract. The described environment is XR/VR applications; the operating system is not specified in the abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-10811/record.json
 

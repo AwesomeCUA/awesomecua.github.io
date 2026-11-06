@@ -14,7 +14,7 @@ Combines generalist and specialist models with hierarchical planning and multipl
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-00906/record.json
 

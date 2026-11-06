@@ -85,7 +85,7 @@
     }
   ],
   "name": "From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. Official full-paper experimental sections explicitly evaluate WebShop and Mind2Web; the overall optimization method also covers embodied and question-answering tasks.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. Official full-paper experimental sections explicitly evaluate WebShop and Mind2Web; the overall optimization method also covers embodied and question-answering tasks.",
   "published_at": "2024-11-06",
   "relations": [],
   "review_status": "curated",

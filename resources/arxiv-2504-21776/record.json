@@ -87,7 +87,7 @@
     }
   ],
   "name": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
-  "notes": "Adjacent web-research method. The retained abstract and full-text Section 3 and Appendix A describe search APIs and Crawl4AI URL retrieval; no visual GUI execution is inferred. Results were not independently reproduced.",
+  "notes": "Adjacent web-research method. The retained abstract and full-text Section 3 and Appendix A describe search APIs and Crawl4AI URL retrieval; no visual GUI execution is inferred.",
   "published_at": "2025-04-30",
   "relations": [],
   "review_status": "curated",

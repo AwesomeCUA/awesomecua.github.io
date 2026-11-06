@@ -14,7 +14,7 @@ WebATLAS is a web agent that stores interaction outcomes and simulates candidate
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported success rate is measured on WebArena-Lite. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported success rate is measured on WebArena-Lite.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-22732/record.json
 

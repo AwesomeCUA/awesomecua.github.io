@@ -14,7 +14,7 @@ Introduces Auto-GUI, a screenshot-based agent using previous actions and future 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2309-11436/record.json
 

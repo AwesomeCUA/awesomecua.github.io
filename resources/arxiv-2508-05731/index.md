@@ -14,7 +14,7 @@ Uses multiple candidate answers and adaptive exploration rewards to improve spat
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-05731/record.json
 

@@ -14,7 +14,7 @@ Introduces a visual IDE environment and benchmark for software-engineering tasks
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-18525/record.json
 

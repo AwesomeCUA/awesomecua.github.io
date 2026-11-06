@@ -14,7 +14,7 @@ RWKV-UI is a visual language model for high-resolution web interfaces that uses 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract describes web UI understanding and reasoning, rather than an agent operating websites. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-03971/record.json
 

@@ -72,12 +72,15 @@
     }
   ],
   "name": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-06-15",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "MyPCBench tests personal-assistant tasks on a Linux desktop with simulated web applications and data for a single fictional persona. A shared computer-and-shell interface enables evaluation of cross-application workflows that depend on personal context and account-like state.",
+  "task_classes": [
+    "R12.11.01.01"
+  ],
   "topics": [
     "evaluation",
     "cross-app",

@@ -6,18 +6,40 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
 
 ## Papers & surveys
 
+- [Visual Token Routing: Learning to keep tokens that matter](https://awesomecua.com/resources/arxiv-2611-06854/) — 2026-11-04
+  Introduces Visual Token Routing (VTR), which selects visual tokens from current and earlier screenshots to reduce computer-use agent inference cost while retaining action-relevant information.
+- [MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework](https://awesomecua.com/resources/arxiv-2611-02472/) — 2026-11-02
+  Introduces MAGAR-Bench for GUI-based 3D mechanical assembly decisions and recovery, and MAGAR, a selective correction method for assembly outputs and actions.
+- [Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents](https://awesomecua.com/resources/arxiv-2610-39251/) — 2026-10-29
+  Introduces a two-stage GUI-agent RL framework that selects uncertain action checkpoints and expands rollout length as training progresses.
+- [GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2610-36877/) — 2026-10-27
+  Introduces GUI-JEPA, a mobile GUI policy that scores candidate actions from screenshot latents in a batched pass without decoding action text.
+- [HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget](https://awesomecua.com/resources/arxiv-2610-34582/) — 2026-10-25
+  Describes HobbyLM, a small model family whose post-trained variants include a computer-use agent and an on-device macOS computer-use adapter.
 - [Beyond Next-Screen Prediction: The Decision Value of GUI World Models](https://awesomecua.com/resources/arxiv-2610-24372/) — 2026-10-17
   Separates next-screen prediction from action evaluation in GUI lookahead and trains Direct Action Ranking on reference actions, comparing prediction-augmented scoring under matched offline supervision.
+- [Co-Evolving Acting and Forecasting for Language Agents](https://awesomecua.com/resources/arxiv-2610-20597/) — 2026-10-14
+  Introduces CoPE, which trains language agents to forecast later actions from earlier histories during RL; WebShop is one of five evaluation benchmarks.
 - [When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows](https://awesomecua.com/resources/arxiv-2610-13092/) — 2026-10-09
   Evaluates Jev as a bounded action selector inside three AndroidWorld agents and two text-based ALFWorld agents, separating decision savings from task success, recovery and resources per delivered outcome.
+- [ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation](https://awesomecua.com/resources/arxiv-2609-39306/) — 2026-09-30
+  Introduces ReSAIL, an augmentation for iterative agent self-distillation that selects informative interaction steps; it also tests GUI-agent action prediction.
+- [SimTrace: Grounded Multimodal User Trajectories Generation for Online User Modeling](https://awesomecua.com/resources/arxiv-2609-38397/) — 2026-09-29
+  Introduces SimTrace, a framework that generates synthetic multimodal web clickstreams by pairing a computer-use client agent's actions with web observations and user context.
 - [Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents](https://awesomecua.com/resources/arxiv-2609-32511/) — 2026-09-26
   ShareMem consolidates reusable experience across users while keeping preference retrieval user-bound; its web evaluation predicts target elements and actions on recorded Mind2Web states.
 - [Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents](https://awesomecua.com/resources/arxiv-2609-27353/) — 2026-09-23
   WebMRE pairs guidance sentences with grounded actions in an offline benchmark derived from successful WebArena traces. Controlled decoding-prefix interventions test how guide content affects action selection, while separating offline prediction metrics from live browser task success.
 - [Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction](https://awesomecua.com/resources/arxiv-2609-25769/) — 2026-09-22
   MaP unifies GUI-navigation objectives by masking and predicting components of multi-turn trajectories. Role-aware adapters address heterogeneous training data, and evaluations compare the approach with direct task-mixture training across navigation benchmarks.
+- [GameWAM: A World Action Model for Video Games](https://awesomecua.com/resources/arxiv-2608-26200/) — 2026-08-25
+  Introduces GameWAM, a model for native game play and GUI control that predicts future visuals and keyboard-mouse actions from synchronized gameplay and GUI trajectories.
 - [Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents](https://awesomecua.com/resources/arxiv-2608-21830/) — 2026-08-22
   Introduces LACL-GUI, a contrastive learning objective that distinguishes trajectory quality within both successful and failed GUI executions. It favors concise successes and uses divergence from successful trajectories to differentiate failures during policy optimization.
+- [Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation](https://awesomecua.com/resources/arxiv-2608-11191/) — 2026-08-11
+  Introduces a Test-Time Self-Evolving framework for GUI grounding that explores unseen interfaces, reflects on predicted coordinates, and distills those reflections into the model.
+- [SkillLens: Visual Skill Cards for Retrieval-Augmented GUI Action Prediction and On-Policy Distillation](https://awesomecua.com/resources/arxiv-2608-10775/) — 2026-08-11
+  Introduces SkillLens visual skill cards for retrieved GUI action guidance and CardDistill for training an action-prediction student that runs without retrieval on website tasks.
 - [Scaling GUI Agents with Visual State Transitions](https://awesomecua.com/resources/arxiv-2607-24112/) — 2026-07-27
   Introduces State Transition Pretraining, which jointly learns to infer actions from GUI changes and predict future states from current screens and actions. Subsequent instruction-trajectory fine-tuning tests whether these representations transfer to desktop and mobile agent tasks.
 - [EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding](https://awesomecua.com/resources/arxiv-2607-17050/) — 2026-07-19
@@ -26,14 +48,34 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   MAG jointly evaluates browser task actions and user-facing guides grounded in screenshots through element marks or pixel coordinates. Its harness covers annotation, live evaluation and joint metrics, with an expert-trajectory-augmented GRPO training study.
 - [UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents](https://awesomecua.com/resources/arxiv-2607-04425/) — 2026-07-05
   Introduces Uni-GUI, a collection of executable desktop and mobile trajectories, and UI-MOPD, which trains a shared policy from its own rollouts using platform-specific teachers. The distillation procedure routes each visited state to the appropriate teacher to preserve distinct interaction conventions.
+- [A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets](https://awesomecua.com/resources/arxiv-2606-13802/) — 2026-06-11
+  Introduces a benchmark and online evaluation method for predicting the next spreadsheet action from a user's action history, using curated action sequences.
+- [MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models](https://awesomecua.com/resources/arxiv-2606-04627/) — 2026-06-03
+  Introduces MIRAGE, which trains mobile app agents to reason in compact latent states and anticipate future screenshots, reducing generated tokens during action selection.
+- [Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents](https://awesomecua.com/resources/arxiv-2605-28775/) — 2026-05-27
+  LearnWeak specializes small computer-use agents by finding domain-specific weaknesses, generating targeted tasks, and training separately for planning and execution errors.
+- [Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents](https://awesomecua.com/resources/arxiv-2605-28629/) — 2026-05-27
+  Mobile-Aptus trains mobile agents to output actions and confidence scores, then corrects confidence bias to guide when they request human help.
+- [Beyond Binary: Reframing GUI Critique as Continuous Semantic Alignment](https://awesomecua.com/resources/arxiv-2605-14311/) — 2026-05-14
+  BBCritic ranks candidate GUI-agent actions through instruction–action alignment, while BBBench evaluates fine-grained ranking with a hierarchical action taxonomy.
 - [Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](https://awesomecua.com/resources/arxiv-2605-12501/) — 2026-05-12
   Introduces CUActSpot to evaluate clicks, drags, drawing and other screen interactions across GUI, text, tables, canvases and natural images. A renderer-based pipeline records geometry and screenshots, then generates matching instructions and action traces for training a grounding model.
+- [GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents](https://awesomecua.com/resources/arxiv-2604-07429/) — 2026-04-08
+  Introduces GameWorld, a browser-game benchmark that evaluates multimodal agents through keyboard and mouse controls or semantic actions using outcome checks.
 - [OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments](https://awesomecua.com/resources/arxiv-2605-18758/) — 2026-04-03
   OmniGUI evaluates step-level action prediction from interleaved smartphone screenshots, synchronous audio and video. Expert demonstrations carry multimodal-dependency annotations, and initial baselines use native multimodal models as agent proxies to study temporal and audio-related failures.
 - [Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding](https://awesomecua.com/resources/arxiv-2603-26211/) — 2026-03-27
   Adapts a discrete vision-language diffusion model to single-turn GUI action and bounding-box prediction, using a hybrid masking schedule for coordinate geometry. Experiments across web, desktop and mobile datasets examine grounding accuracy and inference tradeoffs.
 - [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](https://awesomecua.com/resources/arxiv-2603-12138/) — 2026-03-12
   Introduces HATS, which directs GUI trajectory exploration toward semantically ambiguous actions and iteratively checks instruction-execution alignment. Feedback from trajectory refinement updates the exploration signal used to collect subsequent training examples.
+- [Agentic Critical Training](https://awesomecua.com/resources/arxiv-2603-08706/) — 2026-03-09
+  Introduces Agentic Critical Training (ACT), a reinforcement-learning warm-up that teaches general agents to choose expert actions over alternatives, with WebShop among its evaluations.
+- [CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](https://awesomecua.com/resources/arxiv-2602-24142/) — 2026-02-27
+  Introduces Channel-of-Mobile-Experts (CoME), a mobile agent with experts for screen summary, subtask planning, action decisions and action functions, trained in stages with InfoGain-Driven DPO (Info-DPO).
+- [GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://awesomecua.com/resources/arxiv-2602-22190/) — 2026-02-25
+  GUI-Libra trains GUI agents with action-aware supervision, a curated reasoning dataset and reinforcement learning adapted to partially verifiable actions across web and mobile tasks.
+- [ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices](https://awesomecua.com/resources/arxiv-2602-21858/) — 2026-02-25
+  ProactiveMobile benchmarks mobile agents on inferring latent user intent from device context and generating executable sequences from a pool of 63 APIs.
 - [Modeling Distinct Human Interaction in Web Agents](https://awesomecua.com/resources/arxiv-2602-17588/) — 2026-02-19
   CowCorpus records interleaved human and agent actions during web navigation and identifies distinct patterns of user intervention. Models trained to anticipate these interventions are integrated into live web agents and assessed in a user study.
 - [Computer-Using World Model](https://awesomecua.com/resources/arxiv-2602-17365/) — 2026-02-19

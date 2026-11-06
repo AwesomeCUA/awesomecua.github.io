@@ -21,7 +21,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -38,6 +38,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2611.05873%2C2611.06039%2C2611.06544%2C2611.06854&max_results=4"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:03:30Z",
+      "role": "primary",
+      "sha256": "0c7bfb6af7650b096faabf37eb8c024f2877842018cf9aa212c0a3b9aef98252",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2611.03930%2C2611.04073%2C2611.04142%2C2611.04393%2C2611.04785%2C2611.04879%2C2611.05036%2C2611.05263%2C2611.05873%2C2611.06039%2C2611.06544%2C2611.06854&max_results=12"
     }
   ],
   "id": "arxiv:2611.06039",
@@ -45,7 +61,7 @@
     "arxiv": "2611.06039"
   },
   "kind": "paper",
-  "last_verified_at": "2026-11-05T08:25:56Z",
+  "last_verified_at": "2026-11-05T23:03:30Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -54,18 +70,23 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2611.06039"
     }
   ],
   "name": "Securing Web Agents with the Compile-Then-Execute Paradigm",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported utility and attack results come from WebArena Verified and WASP evaluations.",
   "published_at": "2026-11-04",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Baya compiles a web task into a program using a Trusted Website API before viewing live content, limiting how webpage prompt injections can alter agent control flow.",
+  "topics": [
+    "safety-security",
+    "web-navigation",
+    "planning",
+    "tool-integration"
+  ],
   "updated_at": "2026-11-04",
   "url": "https://arxiv.org/abs/2611.06039"
 }

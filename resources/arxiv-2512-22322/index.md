@@ -14,7 +14,7 @@ SmartSnap trains GUI agents to collect concise screenshot evidence of task compl
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract describes experiments on mobile tasks without naming a mobile operating system. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-22322/record.json
 

@@ -14,7 +14,7 @@ Studies whether mid-training on GUI perception, multimodal reasoning, and text r
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-10127/record.json
 

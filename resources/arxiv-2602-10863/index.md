@@ -14,7 +14,7 @@ Information-Aware Credit Assignment scores intermediate information gathered by 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-10863/record.json
 

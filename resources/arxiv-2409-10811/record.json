@@ -74,7 +74,7 @@
     }
   ],
   "name": "Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps",
-  "notes": "Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced. The described environment is XR/VR applications; the operating system is not specified in the abstract.",
+  "notes": "Reviewed against the complete official arXiv abstract. The described environment is XR/VR applications; the operating system is not specified in the abstract.",
   "published_at": "2024-09-17",
   "relations": [],
   "review_status": "curated",

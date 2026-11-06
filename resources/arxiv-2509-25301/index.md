@@ -14,7 +14,7 @@ Introduces Flash-Searcher, a parallel agent framework that organizes dependent s
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract describes general tool-based reasoning and deep-search evaluations, without a specific browser interaction method. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-25301/record.json
 

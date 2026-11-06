@@ -14,7 +14,7 @@ GUI-G2 replaces binary grounding rewards with Gaussian point rewards and spatial
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-15846/record.json
 

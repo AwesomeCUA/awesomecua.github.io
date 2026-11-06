@@ -1,20 +1,20 @@
 # OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents
 
-Bibliographic record for OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+OTora generates attacks that increase reasoning and tool use in multi-step LLM agents while preserving task outcomes; evaluations include WebShop agents.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2605-08876/
 - Original source: https://arxiv.org/abs/2605.08876
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-18T10:54:12Z
+- Topics: safety-security, efficiency, evaluation
+- Evidence checked: 2026-11-05T23:02:51Z
 - ID: arxiv:2605.08876
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several agent settings used to evaluate the general attack framework.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-08876/record.json
 
@@ -46,3 +46,4 @@ Xinyu Li, Ronghui Mu, Lin Li, Tianjin Huang, Gaojie Jin
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2508.19461%2C2508.19493%2C2509.21782%2C2509.25140%2C2510.03485%2C2510.07809%2C2510.14276%2C2510.27140%2C2510.27210%2C2511.13248%2C2512.08417%2C2601.07263%2C2602.13516%2C2603.00476%2C2603.11862%2C2603.18762%2C2603.23791%2C2604.00986%2C2604.16515%2C2604.16548%2C2604.24348%2C2605.05509%2C2605.08876%2C2605.20833%2C2605.24785%2C2607.00333%2C2607.18659%2C2607.25255%2C2608.00202%2C2608.08939%2C2608.24913%2C2608.29596&max_results=32 (retrieved 2026-10-18T10:54:12Z; SHA-256 5f5bae19420f79231516d4bcf604ea18d4f930fc7790cde5a3e7fcb8d41a1126)
+- https://export.arxiv.org/api/query?id_list=2605.06110%2C2605.06393%2C2605.06664%2C2605.06717%2C2605.06727%2C2605.07073%2C2605.07110%2C2605.07358%2C2605.07505%2C2605.07937%2C2605.08261%2C2605.08310%2C2605.08374%2C2605.08703%2C2605.08876%2C2605.08985%2C2605.10912%2C2605.11363%2C2605.11732%2C2605.11817%2C2605.12233%2C2605.12978%2C2605.13631%2C2605.13831%2C2605.14133%2C2605.14205%2C2605.14271%2C2605.14311%2C2605.14649%2C2605.14678%2C2605.14747%2C2605.14786%2C2605.15030%2C2605.15040%2C2605.15962%2C2605.15963%2C2605.16024%2C2605.16116%2C2605.16265%2C2605.16565%2C2605.16909%2C2605.17170%2C2605.17260%2C2605.17324%2C2605.17439%2C2605.17448%2C2605.17634%2C2605.17721%2C2605.18859%2C2605.19260&max_results=50 (retrieved 2026-11-05T23:02:51Z; SHA-256 5bf7e3875a29a94f6652cd7ddff6b805e411aaef8d8ac1f96946fe9aa51c9d3d)

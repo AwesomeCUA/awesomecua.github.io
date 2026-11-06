@@ -14,7 +14,7 @@ Presents an MCP architecture that exposes an application's GUI navigation graph 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The assistant uses application-exposed tools and navigation semantics. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The assistant uses application-exposed tools and navigation semantics.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-06223/record.json
 

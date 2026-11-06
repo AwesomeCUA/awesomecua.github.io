@@ -14,7 +14,7 @@ Introduces Iron, a GUI-agent training framework that aligns low-level actions wi
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-27866/record.json
 

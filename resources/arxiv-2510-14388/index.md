@@ -14,7 +14,7 @@ Introduces Hi-Agent, jointly training a high-level reasoning model and a low-lev
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced. This Hi-Agent has a distinct author team and method from the earlier HiAgent working-memory paper; the shared project-name prefix is not treated as an identity match.
+Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. This Hi-Agent has a distinct author team and method from the earlier HiAgent working-memory paper; the shared project-name prefix is not treated as an identity match.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-14388/record.json
 

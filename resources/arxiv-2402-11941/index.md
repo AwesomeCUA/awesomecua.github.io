@@ -14,7 +14,7 @@ Combines screenshots, layout information, and action history with a factored act
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-11941/record.json
 

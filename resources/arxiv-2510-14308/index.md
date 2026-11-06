@@ -14,7 +14,7 @@ Introduces ReUseIt, which synthesizes reusable web-agent workflows from successf
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported task results cover fifteen repetitive tasks; the user study involved nine people. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported task results cover fifteen repetitive tasks; the user study involved nine people.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-14308/record.json
 

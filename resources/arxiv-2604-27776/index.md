@@ -14,7 +14,7 @@ Introduces WindowsWorld for professional workflows spanning multiple desktop app
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Desktop use is explicit; no additional operating-system claim is inferred solely from the benchmark name.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Desktop use is explicit; no additional operating-system claim is inferred solely from the benchmark name.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-27776/record.json
 

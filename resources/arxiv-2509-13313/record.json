@@ -83,7 +83,7 @@
     }
   ],
   "name": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The setting is knowledge-intensive web search, rather than general website task execution. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2025-09-16",
   "relations": [],
   "review_status": "curated",

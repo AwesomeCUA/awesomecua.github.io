@@ -14,7 +14,7 @@ LlamaTouch executes mobile tasks on devices and evaluates whether an agent visit
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-16054/record.json
 

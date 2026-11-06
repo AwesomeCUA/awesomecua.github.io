@@ -14,7 +14,7 @@ Turns draft web-agent skills into structured executable artifacts that support d
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract limits its portability evidence to transfer within a benchmark family, not generalization across arbitrary benchmarks.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract limits its portability evidence to transfer within a benchmark family, not generalization across arbitrary benchmarks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-20340/record.json
 

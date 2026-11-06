@@ -14,7 +14,7 @@ Introduces AppBuddy, an RL training platform and task suite for mobile apps wher
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract reports experiments on a number of mobile apps and describes cross-app generalization as modest. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract reports experiments on a number of mobile apps and describes cross-app generalization as modest.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2106-00133/record.json
 

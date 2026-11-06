@@ -14,7 +14,7 @@ The framework separates inference-time subgoal planning from MiRA, a reinforceme
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-19685/record.json
 

@@ -14,7 +14,7 @@ Introduces InternVL3.5, a multimodal model family trained with Cascade RL and de
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI interaction is listed alongside other capabilities; the abstract does not describe a GUI-specific evaluation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-18265/record.json
 

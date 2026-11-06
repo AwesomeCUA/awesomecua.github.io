@@ -139,7 +139,7 @@
     }
   ],
   "name": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
-  "notes": "Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.",
+  "notes": "Summary and topic tags reviewed against the primary abstract.",
   "published_at": "2024-11-26",
   "relations": [],
   "review_status": "curated",

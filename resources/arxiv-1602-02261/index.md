@@ -14,7 +14,7 @@ Introduces WebNav for converting websites into goal-directed hyperlink navigatio
 
 ## Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-1602-02261/record.json
 

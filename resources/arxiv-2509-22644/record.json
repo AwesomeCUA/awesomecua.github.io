@@ -75,7 +75,7 @@
     }
   ],
   "name": "WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI agents provide testing feedback for generated websites; WebGen-Agent itself generates website code. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI agents provide testing feedback for generated websites; WebGen-Agent itself generates website code.",
   "published_at": "2025-09-26",
   "relations": [],
   "review_status": "curated",

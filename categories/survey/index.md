@@ -1,6 +1,6 @@
 # Computer-use agent surveys
 
-> 23 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T09:00:05Z.
+> 28 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-06T09:00:05Z.
 
 HTML page: https://awesomecua.com/categories/survey/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/papers.json
 
@@ -76,7 +76,7 @@ Surveys foundation-model web agents through their architectures, training method
 
 ### Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-23350/record.json
 
@@ -337,7 +337,7 @@ Surveys automated functional GUI testing techniques for mobile apps, comparing t
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The review concerns mobile GUI testing techniques rather than agents operating apps to fulfill user requests. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-1812-11470/record.json
 
@@ -389,7 +389,7 @@ Surveys modular agentic skill architectures, skill lifecycles, and security risk
 
 ### Limitations
 
-Adjacent broad survey of procedural agent skills. Full-text Section 4.4.2 explicitly covers desktop, mobile, and web interface skills; surveyed systems and their reported results are not independently reproduced.
+Adjacent broad survey of procedural agent skills.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-29596/record.json
 
@@ -442,7 +442,7 @@ Presents a conceptual perception–reasoning–action framework and 12 potential
 
 ### Limitations
 
-Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent, rather than an implemented attack benchmark. Scope was checked against the retained abstract and full-text Sections 2.4 and 3; no results were independently reproduced.
+Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent, rather than an implemented attack benchmark. Scope was checked against the retained abstract and full-text Sections 2.4 and 3.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-10196/record.json
 
@@ -495,7 +495,7 @@ This survey organizes agent skills by architecture, acquisition, deployment and 
 
 ### Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent survey of the skill layer: CUA deployment and GUI grounding are explicit parts of the review, but its overall scope extends well beyond interface agents.
+Reviewed against the complete retained official abstract. Adjacent survey of the skill layer: CUA deployment and GUI grounding are explicit parts of the review, but its overall scope extends well beyond interface agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-12430/record.json
 
@@ -547,7 +547,7 @@ Surveys LLM agent architectures, operating environments and evaluation, covering
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Web navigation and computer use are parts of a broader survey of LLM agents. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Web navigation and computer use are parts of a broader survey of LLM agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-12560/record.json
 
@@ -583,6 +583,58 @@ Arunkumar V, Gangadharan G. R., Rajkumar Buyya
 
 ---
 
+## Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
+
+Survey of agentic world models that classifies predictive capabilities and governing laws, including the digital setting of web and GUI agents.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2604-22748/
+- Original source: https://arxiv.org/abs/2604.22748
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: survey, world-models, evaluation
+- Evidence checked: 2026-11-05T23:02:47Z
+- ID: arxiv:2604.22748
+
+### Limitations
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Web and GUI agents are one part of a survey that also covers physical, social, and scientific settings.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2604-22748/record.json
+
+### Authors
+
+Meng Chu, Xuan Billy Zhang, Kevin Qinghong Lin, Lingdong Kong, Jize Zhang, Teng Tu, Weijian Ma, Ziqi Huang, Senqiao Yang, Wei Huang, Yeying Jin, Zhefan Rao, Jinhui Ye, Xinyu Lin, Xichen Zhang, Qisheng Hu, Shuai Yang, Leyang Shen, Wei Chow, Yifei Dong, Fengyi Wu, Quanyu Long, Bin Xia, Shaozuo Yu, Mingkang Zhu, Wenhu Zhang, Jiehui Huang, Haokun Gui, Runyi Li, Chenyu Tang, Dong Huang, Xuhang Chen, Rui Liu, Chengzu Li, Shiyi Du, Xu Huang, Haoxuan Che, Long Chen, Qifeng Chen, Wenya Wang, Wenxuan Zhang, Xiaojuan Qi, Yang Deng, Yanwei Li, Mike Zheng Shou, Zhi-Qi Cheng, See-Kiong Ng, Ziwei Liu, Philip Torr, Jiaya Jia
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2604-22748/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2604-22748/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2604.22748v3
+- First submission: 2026-04-24T17:48:47Z
+- Version updated: 2026-06-16T15:11:54Z
+- Abstract SHA-256: e2c92d9e4856af3b5f6dafacea9340bff43e45b50703b8923bcee825ca028b00
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2604.12666%2C2604.14872%2C2604.15376%2C2604.18779%2C2604.22558%2C2604.22748%2C2604.23772%2C2604.25235%2C2604.26653%2C2604.27974%2C2604.28138%2C2605.03231%2C2605.14205%2C2605.14311%2C2605.15962%2C2605.15963%2C2605.17170%2C2605.18859%2C2605.22781%2C2605.26321%2C2605.26994%2C2606.00408%2C2606.00756%2C2606.05171%2C2606.08919%2C2606.09863%2C2606.11176%2C2606.13192%2C2606.15874%2C2606.16295%2C2606.17861%2C2606.20487%2C2606.24597%2C2607.00007%2C2607.11119%2C2607.13718%2C2607.17136%2C2607.21655%2C2607.22708%2C2608.06474%2C2608.06704%2C2608.06745%2C2608.10775%2C2608.11191%2C2608.24898%2C2609.02401%2C2609.02987%2C2609.22234%2C2609.24352%2C2609.38648&max_results=50 (retrieved 2026-11-05T21:14:27Z; SHA-256 1aa81a55c2c3c980dccbf79a9fc7eff7b06ea4ba527ce1a180cc5e0d55346a61)
+- https://export.arxiv.org/api/query?id_list=2604.12666%2C2604.13018%2C2604.13346%2C2604.13488%2C2604.13531%2C2604.13954%2C2604.13969%2C2604.14872%2C2604.15376%2C2604.15579%2C2604.15715%2C2604.16385%2C2604.17562%2C2604.18779%2C2604.18847%2C2604.18934%2C2604.19299%2C2604.19572%2C2604.19667%2C2604.20279%2C2604.20987%2C2604.22436%2C2604.22558%2C2604.22748%2C2604.23772%2C2604.23781%2C2604.24479%2C2604.24696%2C2604.25235%2C2604.26653%2C2604.27955%2C2604.27974%2C2604.28093%2C2604.28138%2C2604.28139%2C2604.28181%2C2605.00425%2C2605.00497%2C2605.00642%2C2605.01462%2C2605.02168%2C2605.02240%2C2605.02661%2C2605.02729%2C2605.03042%2C2605.03231%2C2605.03242%2C2605.04811%2C2605.05191%2C2605.05811&max_results=50 (retrieved 2026-11-05T23:02:47Z; SHA-256 11ea6f148f4267ab78e85b8f03a9b3855298f73a199b8d904ba553a647d43ee2)
+
+---
+
 ## Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI
 
 Surveys model-native agentic AI and the role of RL in learned planning, tool use and memory, covering GUI agents as one application alongside deep-research agents.
@@ -599,7 +651,7 @@ Surveys model-native agentic AI and the role of RL in learned planning, tool use
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI agents are one application area within a broader survey of agentic AI. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI agents are one application area within a broader survey of agentic AI.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-16720/record.json
 
@@ -703,7 +755,7 @@ Surveys multimodal mobile agents, organizing prompt-based and training-based app
 
 ### Limitations
 
-Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-02006/record.json
 
@@ -755,7 +807,7 @@ Surveys virtual agents for browsers, applications and operating systems, organiz
 
 ### Limitations
 
-Reviewed the complete retained arXiv abstract and exact-version official HTML sections on browser/application/OS environments, screen observations, input actions and evaluation. The HTML abstract fingerprint and ordered authors match the retained Atom entry. Literature claims and experiments were not independently reproduced.
+Reviewed the complete retained arXiv abstract and exact-version official HTML sections on browser/application/OS environments, screen observations, input actions and evaluation. The HTML abstract fingerprint and ordered authors match the retained Atom entry.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-10943/record.json
 
@@ -999,6 +1051,58 @@ Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Liang Liu, Yaxuan Guo, Han Xiao, Wei
 
 ---
 
+## Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use
+
+PAPAV is a capability framework and survey comparing computer-use agents with physical agents through perception, anticipation, planning, action and verification.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-30108/
+- Original source: https://arxiv.org/abs/2610.30108
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: survey, evaluation, planning
+- Evidence checked: 2026-11-05T23:03:23Z
+- ID: arxiv:2610.30108
+
+### Limitations
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-30108/record.json
+
+### Authors
+
+Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang, Ruihe An, Peiyao Xu, Hesen Yang, Runda Liu, Chang Gong, Zhijun Cao, Zechen Bai, Wenzheng Zeng, Yiqi Lin, Guoqiang Liang, Kevin Yuchen Ma, Kevin Qinghong Lin, Mike Zheng Shou
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-30108/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-30108/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.30108v1
+- First submission: 2026-10-21T17:52:48Z
+- Version updated: 2026-10-21T17:52:48Z
+- Abstract SHA-256: 5be9e96cd0e1b7574aa96426b1bff6e6f93db605a2e803e39b0f2314d2293fb7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22+OR+ti%3AGUI+OR+ti%3A%22Android+agent%22+OR+abs%3A%22computer-use+agents%22+OR+abs%3A%22GUI+agents%22+OR+abs%3A%22browser+agents%22+OR+abs%3A%22mobile+GUI%22+OR+abs%3A%22web+navigation%22+OR+abs%3AAndroidWorld+OR+abs%3AMind2Web%29+AND+submittedDate%3A%5B202610080000+TO+202610220000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-22T04:46:44Z; SHA-256 68c5c99210c4150b1c361241e24caf254eddfd302e1b2152db9907417c46e650)
+- https://export.arxiv.org/api/query?id_list=2610.22448%2C2610.22686%2C2610.23857%2C2610.24451%2C2610.24453%2C2610.24729%2C2610.25503%2C2610.25601%2C2610.26679%2C2610.27205%2C2610.27645%2C2610.27861%2C2610.27954%2C2610.28601%2C2610.28610%2C2610.28679%2C2610.29139%2C2610.29609%2C2610.30108%2C2610.30181%2C2610.30202%2C2610.30573%2C2610.30792%2C2610.31107%2C2610.31162%2C2610.31274%2C2610.31307%2C2610.31404%2C2610.31494%2C2610.31698%2C2610.31712%2C2610.31846%2C2610.32223%2C2610.32441%2C2610.32482%2C2610.32536%2C2610.33528%2C2610.33568%2C2610.33636%2C2610.33645%2C2610.33702%2C2610.33907%2C2610.34167%2C2610.34241%2C2610.34384%2C2610.34577%2C2610.34582%2C2610.34634%2C2610.34649%2C2610.34724&max_results=50 (retrieved 2026-11-05T23:03:23Z; SHA-256 2822f711f79353d5d16a9fb58020f4944c49f35477b25fb78ee0e21ddc4f5e01)
+
+---
+
 ## OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use
 
 Surveys agents that operate computers and phones through operating-system interfaces, covering components, capabilities, foundation models, frameworks, and benchmarks.
@@ -1048,6 +1152,58 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 
 - https://export.arxiv.org/api/query?id_list=2506.10387%2C2506.14866%2C2506.20332%2C2507.00008%2C2507.02592%2C2507.03730%2C2507.04227%2C2507.05445%2C2507.05673%2C2507.05720%2C2507.05791%2C2507.14293%2C2507.14799%2C2507.15846%2C2507.16853%2C2507.19132%2C2507.19478%2C2507.21071%2C2507.22025%2C2507.22358%2C2507.23779%2C2508.00935%2C2508.01330%2C2508.03700%2C2508.03923%2C2508.04010%2C2508.04026%2C2508.04482%2C2508.04700%2C2508.05615%2C2508.05731%2C2508.09057%2C2508.09123%2C2508.13167%2C2508.14040%2C2508.15144%2C2508.18689%2C2508.19679%2C2508.20096%2C2509.02544%2C2509.03891%2C2509.06477%2C2509.10723%2C2509.11250%2C2509.11543%2C2509.15221%2C2509.15566%2C2509.15738%2C2509.18119%2C2510.01354&max_results=50 (retrieved 2026-10-16T06:31:49Z; SHA-256 c208e36ae75cef4b32cfcb2f8182dd4aaaa218e3119bb3d4a2c20a5832f8b1ee)
 - https://export.arxiv.org/api/query?id_list=2506.10387%2C2506.14866%2C2506.20332%2C2507.00008%2C2507.02592%2C2507.03730%2C2507.04227%2C2507.05445%2C2507.05673%2C2507.05720%2C2507.05791%2C2507.14293%2C2507.14799%2C2507.15846%2C2507.16853%2C2507.19132%2C2507.19478%2C2507.21071%2C2507.22025%2C2507.22358%2C2507.23779%2C2508.00935%2C2508.01330%2C2508.03700%2C2508.03923%2C2508.04010%2C2508.04026%2C2508.04482%2C2508.04700%2C2508.05615%2C2508.05731%2C2508.09057%2C2508.09123%2C2508.13167%2C2508.14040%2C2508.15144%2C2508.18689%2C2508.19679%2C2508.20096%2C2509.02544%2C2509.03891%2C2509.06477%2C2509.10723%2C2509.11250%2C2509.11543%2C2509.15221%2C2509.15566%2C2509.15738%2C2509.18119%2C2510.01354&max_results=50 (retrieved 2026-10-16T06:31:49Z; SHA-256 c208e36ae75cef4b32cfcb2f8182dd4aaaa218e3119bb3d4a2c20a5832f8b1ee)
+
+---
+
+## Securing Computer-Use Agents: A Unified Architecture-Lifecycle Framework for Deployment-Grounded Reliability
+
+Survey of computer-use agent reliability and security across browsers, desktops, and mobile apps, using architecture and lifecycle views to map failures and controls.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2605-07110/
+- Original source: https://arxiv.org/abs/2605.07110
+- Kind: survey
+- Review: curated
+- Scope: core
+- Environments: web, desktop, cross-platform
+- Topics: survey, safety-security, robustness, observability
+- Evidence checked: 2026-11-05T23:02:51Z
+- ID: arxiv:2605.07110
+
+### Limitations
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2605-07110/record.json
+
+### Authors
+
+Zejian Chen, Zhanyuan Liu, Chaozhuo Li, Mengxiang Han, Songyang Liu, Litian Zhang, Feng Gao, Yiming Hei, Xi Zhang
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2605-07110/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2605-07110/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.07110v1
+- First submission: 2026-05-08T01:38:46Z
+- Version updated: 2026-05-08T01:38:46Z
+- Abstract SHA-256: 8d7751a82a92b1864f1afa63a2f2019c6606875767abd1f59815da55b1cd8a32
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:39Z; SHA-256 27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918)
+- https://export.arxiv.org/api/query?id_list=2605.06110%2C2605.06393%2C2605.06664%2C2605.06717%2C2605.06727%2C2605.07073%2C2605.07110%2C2605.07358%2C2605.07505%2C2605.07937%2C2605.08261%2C2605.08310%2C2605.08374%2C2605.08703%2C2605.08876%2C2605.08985%2C2605.10912%2C2605.11363%2C2605.11732%2C2605.11817%2C2605.12233%2C2605.12978%2C2605.13631%2C2605.13831%2C2605.14133%2C2605.14205%2C2605.14271%2C2605.14311%2C2605.14649%2C2605.14678%2C2605.14747%2C2605.14786%2C2605.15030%2C2605.15040%2C2605.15962%2C2605.15963%2C2605.16024%2C2605.16116%2C2605.16265%2C2605.16565%2C2605.16909%2C2605.17170%2C2605.17260%2C2605.17324%2C2605.17439%2C2605.17448%2C2605.17634%2C2605.17721%2C2605.18859%2C2605.19260&max_results=50 (retrieved 2026-11-05T23:02:51Z; SHA-256 5bf7e3875a29a94f6652cd7ddff6b805e411aaef8d8ac1f96946fe9aa51c9d3d)
 
 ---
 
@@ -1103,6 +1259,110 @@ Minghao Guo, Qingyue Jiao, Xiujin Liu, Jianhong Pang, Ruimeng Yang, Naihao Xu, L
 
 - https://export.arxiv.org/api/query?id_list=2609.39924%2C2610.00346%2C2610.00583%2C2610.01939%2C2610.05099%2C2610.09127%2C2610.09484%2C2610.09633%2C2610.11251%2C2610.11922%2C2610.13098%2C2610.13166%2C2610.13361%2C2610.13623%2C2610.16117%2C2610.17953%2C2610.18067%2C2610.19366%2C2610.20424&max_results=19 (retrieved 2026-10-17T12:31:39Z; SHA-256 c52e4e283e0dae88ef8b3ce67b7424b1d4b48e8f41015d872f4da69f98782eaa)
 - https://arxiv.org/html/2610.19366v1 (retrieved 2026-10-20T19:02:22.864948+00:00; SHA-256 308796868bf9b1cb042bc6008e1e6f4ba6e776a2d4e13d40ad5684b477861563)
+
+---
+
+## Software Engineering for and with GUI Agent
+
+Surveys 336 GUI-agent papers through a software engineering lens, covering architectures, evaluation, and lifecycle concerns in mobile and web settings.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2608-09278/
+- Original source: https://arxiv.org/abs/2608.09278
+- Kind: survey
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: survey, evaluation, observability
+- Evidence checked: 2026-11-05T23:03:12Z
+- ID: arxiv:2608.09278
+
+### Limitations
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2608-09278/record.json
+
+### Authors
+
+Shengcheng Yu, Yuchen Ling, Junyang Xing, Quan Zhou, Chunrong Fang, Zhenyu Chen
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2608-09278/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2608-09278/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.09278v1
+- First submission: 2026-08-10T08:33:19Z
+- Version updated: 2026-08-10T08:33:19Z
+- Abstract SHA-256: fdd7c1df0fdb4999d4297a943bdee6f6da55e49c1170d9aaf292c000688a44c4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+- https://export.arxiv.org/api/query?id_list=2607.29199%2C2608.00335%2C2608.00548%2C2608.01964%2C2608.02018%2C2608.02163%2C2608.03223%2C2608.03451%2C2608.03499%2C2608.04530%2C2608.04734%2C2608.05013%2C2608.05430%2C2608.05784%2C2608.06474%2C2608.06477%2C2608.06704%2C2608.06745%2C2608.06811%2C2608.06862%2C2608.07873%2C2608.09268%2C2608.09278%2C2608.10357%2C2608.10669%2C2608.10692%2C2608.10775%2C2608.11191%2C2608.11274%2C2608.11362%2C2608.11588%2C2608.13991%2C2608.14427%2C2608.14929%2C2608.15089%2C2608.16211%2C2608.16391%2C2608.17067%2C2608.17310%2C2608.17975%2C2608.19741%2C2608.20707%2C2608.20797%2C2608.21500%2C2608.22077%2C2608.22510%2C2608.22533%2C2608.23035%2C2608.24680%2C2608.24898&max_results=50 (retrieved 2026-11-05T23:03:12Z; SHA-256 8d9570c61ec2defc8c17615be17ddc6dc726f06a9948068d290ec118164298a7)
+
+---
+
+## The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration
+
+Surveys multi-tool LLM agents across planning, training, safety, efficiency, and evaluation, including GUI and mobile systems among its application areas.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2603-22862/
+- Original source: https://arxiv.org/abs/2603.22862
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: survey, tool-integration, planning, evaluation
+- Evidence checked: 2026-11-05T23:02:39Z
+- ID: arxiv:2603.22862
+
+### Limitations
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI and mobile systems are representative application areas within a broader survey of multi-tool agents.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2603-22862/record.json
+
+### Authors
+
+Haoyuan Xu, Chang Li, Xinyan Ma, Xianhao Ou, Zihan Zhang, Tao He, Xiangyu Liu, Zixiang Wang, Jiafeng Liang, Zheng Chu, Runxuan Liu, Rongchuan Mu, Dandan Tu, Ming Liu, Bing Qin
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2603-22862/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2603-22862/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.22862v2
+- First submission: 2026-03-24T07:05:05Z
+- Version updated: 2026-04-02T02:54:00Z
+- Abstract SHA-256: 7675ed4966084f420448bd1ccc0b8e635ec7c70da74f4e4f6e88cd6f37b4de51
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2603.22862%2C2604.01707%2C2605.07937%2C2605.17634%2C2606.04329%2C2610.38174%2C2610.39924&max_results=7 (retrieved 2026-10-30T15:04:11Z; SHA-256 7f9256183f3e2b1fab34f9f3216857e7c0ebe0945482301c048fb28b4301a0dd)
+- https://export.arxiv.org/api/query?id_list=2603.00842%2C2603.00991%2C2603.01050%2C2603.01104%2C2603.01145%2C2603.01152%2C2603.02236%2C2603.02795%2C2603.03278%2C2603.03296%2C2603.04549%2C2603.05294%2C2603.06713%2C2603.07024%2C2603.07106%2C2603.07670%2C2603.07853%2C2603.07915%2C2603.08316%2C2603.08706%2C2603.08938%2C2603.09716%2C2603.10002%2C2603.10291%2C2603.11139%2C2603.11320%2C2603.11862%2C2603.12483%2C2603.12710%2C2603.13026%2C2603.13247%2C2603.14248%2C2603.16289%2C2603.16839%2C2603.17216%2C2603.17378%2C2603.17826%2C2603.18059%2C2603.19313%2C2603.19375%2C2603.20278%2C2603.20576%2C2603.21489%2C2603.22527%2C2603.22862%2C2603.22917%2C2603.23526%2C2603.23559%2C2603.23638%2C2603.24160&max_results=50 (retrieved 2026-11-05T23:02:39Z; SHA-256 f5b28ee113a96eb4a774bcdfd6a1e8ee51307a79bf0d99c8a0817e0be2dc82ab)
 
 ---
 
@@ -1174,7 +1434,7 @@ Surveys vision-based mobile app GUI testing across test generation, record-and-r
 
 ### Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The subject is mobile app testing research rather than a single agent or test system. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-13518/record.json
 

@@ -14,7 +14,7 @@ Records interaction history and converts repeated action sequences into reusable
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-02268/record.json
 

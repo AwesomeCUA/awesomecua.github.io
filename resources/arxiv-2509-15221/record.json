@@ -97,7 +97,7 @@
     }
   ],
   "name": "ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-09-18",
   "relations": [],
   "review_status": "curated",

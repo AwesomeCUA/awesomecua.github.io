@@ -14,7 +14,7 @@ Introduces CORNET, a system that learns spreadsheet conditional-formatting rules
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v4). It learns spreadsheet formatting rules from examples; the abstract does not describe operating a GUI. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v4).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2208-06032/record.json
 

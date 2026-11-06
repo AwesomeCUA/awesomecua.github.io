@@ -14,7 +14,7 @@ Introduces AutoScraper, a two-stage framework that uses HTML structure and simil
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its task is generating web scrapers for data collection. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its task is generating web scrapers for data collection.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-12753/record.json
 

@@ -14,7 +14,7 @@ SimGym runs traffic-grounded synthetic buyers as browser agents to compare e-com
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported validation compares simulated results with human outcomes from UI changes on one major e-commerce platform. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported validation compares simulated results with human outcomes from UI changes on one major e-commerce platform.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-01443/record.json
 

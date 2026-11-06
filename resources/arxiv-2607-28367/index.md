@@ -14,7 +14,7 @@ Audits failure-scored computer-use trajectories to distinguish agent errors from
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-28367/record.json
 

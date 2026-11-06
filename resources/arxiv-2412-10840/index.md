@@ -14,7 +14,7 @@ Locates GUI targets by identifying and aggregating attention maps in pretrained 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-10840/record.json
 

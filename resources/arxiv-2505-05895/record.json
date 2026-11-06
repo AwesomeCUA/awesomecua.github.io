@@ -71,7 +71,7 @@
     }
   ],
   "name": "Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Automotive interfaces are the primary setting; ScreenSpot is reported as a separate cross-domain evaluation. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Automotive interfaces are the primary setting; ScreenSpot is reported as a separate cross-domain evaluation.",
   "published_at": "2025-05-09",
   "relations": [],
   "review_status": "curated",

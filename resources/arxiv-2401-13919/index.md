@@ -14,7 +14,7 @@ Combines multimodal web interaction with a real-website task collection and an a
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2401-13919/record.json
 

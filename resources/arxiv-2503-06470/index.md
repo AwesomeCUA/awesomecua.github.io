@@ -14,7 +14,7 @@ Combines rapid target prediction with deliberate interface analysis, adaptively 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-06470/record.json
 

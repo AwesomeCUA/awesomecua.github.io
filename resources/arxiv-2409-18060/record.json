@@ -69,7 +69,7 @@
     }
   ],
   "name": "Inferring Alt-text For UI Icons With Large Language Models During App Development",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. This is a UI accessibility and element-description method; autonomous GUI control is not evaluated.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. This is a UI accessibility and element-description method; autonomous GUI control is not evaluated.",
   "published_at": "2024-09-26",
   "relations": [],
   "review_status": "curated",

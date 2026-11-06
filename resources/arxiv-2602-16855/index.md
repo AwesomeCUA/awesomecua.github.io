@@ -14,7 +14,7 @@ Presents GUI-Owl-1.5 variants and a hybrid data pipeline for multimodal GUI inte
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-16855/record.json
 

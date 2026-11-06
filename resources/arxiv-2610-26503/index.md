@@ -14,7 +14,7 @@ ScopeMem conditions latent-memory prefixes on a frozen GUI agent's initial actio
 
 ## Limitations
 
-Reviewed the complete abstract and selected v1 controlled-study, method and limitations sections. Results are offline, step-level action matching; online task success is explicitly left untested. The frozen actor is queried twice per step. No independent reproduction or redistribution-license claim.
+Reviewed the complete abstract and selected v1 controlled-study, method and limitations sections. Results are offline, step-level action matching; online task success is explicitly left untested. The frozen actor is queried twice per step.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26503/record.json
 

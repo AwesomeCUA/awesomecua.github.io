@@ -3334,7 +3334,7 @@ Local-page benchmark comparing six browser representations on token use, factual
 
 ### Limitations
 
-This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only. Selected scoring code was read, but no models, browser tasks or claimed results were run or reproduced.
+This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only.
 
 - Record JSON: https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/record.json
 
@@ -3740,7 +3740,7 @@ Website reconstruction benchmark: agents explore a production-level site through
 
 ### Limitations
 
-Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 tasks and 46,916 hidden cases were checked by summing the docs/tasks.md table. The README's paper badge has no link and the project page says the paper is coming soon, so no paper relation is recorded. Apache-2.0 is the README's statement for benchmark code, task definitions and verifier; the README says the reference websites reproduce third-party sites, belong to their owners and are provided for non-commercial research only. Leaderboard scores were not checked. This catalog's maintainers also publish this benchmark, so this review is not independent. Nothing was installed or run.
+Read at commit 78f5558e. The README and docs/tasks.md were reviewed; the 70 tasks and 46,916 hidden cases were checked by summing the docs/tasks.md table. The README's paper badge has no link and the project page says the paper is coming soon, so no paper relation is recorded. Apache-2.0 is the README's statement for benchmark code, task definitions and verifier. Leaderboard scores were not checked. Nothing was installed or run.
 
 - Record JSON: https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/record.json
 

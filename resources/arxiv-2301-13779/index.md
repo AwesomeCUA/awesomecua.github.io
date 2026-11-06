@@ -14,7 +14,7 @@ Introduces FLAME, a model trained on Excel formulas for spreadsheet formula repa
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The work concerns formula assistance; the abstract does not describe an agent operating a spreadsheet GUI. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2301-13779/record.json
 

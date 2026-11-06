@@ -14,7 +14,7 @@ PlaytestArena evaluates generated browser games using expected in-play behaviors
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced. GUI agents actually load and play browser-game builds, providing an executable interface-testing signal for game-code generation; the central application remains game development.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. GUI agents actually load and play browser-game builds, providing an executable interface-testing signal for game-code generation; the central application remains game development.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-28258/record.json
 

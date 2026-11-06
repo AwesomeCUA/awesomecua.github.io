@@ -14,7 +14,7 @@ Bibliographic record for PhysicianBench: Evaluating LLM Agents in Real-World EHR
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-02240/record.json
 

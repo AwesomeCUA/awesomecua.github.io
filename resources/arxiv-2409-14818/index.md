@@ -14,7 +14,7 @@ MobileVLM adds two pretraining stages and four UI tasks to learn element detail 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-14818/record.json
 

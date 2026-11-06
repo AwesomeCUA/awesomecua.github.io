@@ -75,7 +75,7 @@
     }
   ],
   "name": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its evaluations also include coding tasks alongside web and desktop environments. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its evaluations also include coding tasks alongside web and desktop environments.",
   "published_at": "2025-01-18",
   "relations": [],
   "review_status": "curated",

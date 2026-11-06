@@ -14,7 +14,7 @@ Introduces Chameleon, an environmental-injection evaluation framework that varie
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-11250/record.json
 

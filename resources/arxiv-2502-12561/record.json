@@ -77,12 +77,15 @@
     }
   ],
   "name": "UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The system is intended to help researchers refine study designs before conducting studies with human participants. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The system is intended to help researchers refine study designs before conducting studies with human participants.",
   "published_at": "2025-02-18",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces UXAgent, which uses simulated users and a browser connector to test website usability and present their actions, responses, and recordings to UX researchers.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "ui-design",
     "web-navigation",

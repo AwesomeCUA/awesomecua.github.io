@@ -6,8 +6,32 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 
 ## Papers & surveys
 
+- [Visual Token Routing: Learning to keep tokens that matter](https://awesomecua.com/resources/arxiv-2611-06854/) — 2026-11-04
+  Introduces Visual Token Routing (VTR), which selects visual tokens from current and earlier screenshots to reduce computer-use agent inference cost while retaining action-relevant information.
+- [MKD2World: A Typed Spatial MarkDown World Model For Web Agents](https://awesomecua.com/resources/arxiv-2611-06544/) — 2026-11-04
+  Introduces MKD2World, a desktop web world model that represents interface elements in Typed Spatial Markdown and predicts post-action states, supported by AtomBlock-WebUI annotations.
+- [UI-UG 2: Advancing Mobile UI Understanding and Generation with Fine-Grained Supervision and Reinforcement Learning](https://awesomecua.com/resources/arxiv-2611-00926/) — 2026-10-31
+  Introduces UI-UG 2, a mobile UI model trained for component understanding, GUI grounding, and structured interface generation with render-aware RL.
+- [Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding](https://awesomecua.com/resources/arxiv-2610-37093/) — 2026-10-27
+  Introduces LBS, a vision-language model trained with GUI grounding trajectories and crop-and-inspect decisions to study transfer of active visual observation.
+- [Chart the Invisible: Interactive Perception for Hidden-Target Exploration in GUI Agents](https://awesomecua.com/resources/arxiv-2610-35237/) — 2026-10-26
+  Introduces Hagasu, a scrollable-region perception model that helps GUI agents decide where to swipe to reveal hidden targets, especially on mobile screens.
+- [PreView: Enhancing GUI Grounding with Preprocessed Views and Cues](https://awesomecua.com/resources/arxiv-2610-33645/) — 2026-10-24
+  Introduces PreView, a screenshot preprocessor that adds cropped views and candidate cues to help existing GUI grounding models identify controls for clicks.
+- [IGG: A Benchmark for Interactive GUI Grounding under Visibility Constraints](https://awesomecua.com/resources/arxiv-2610-32536/) — 2026-10-23
+  Introduces Interactive GUI Grounding (IGG), a benchmark that tests whether agents can reveal hidden interface targets through interaction before clicking them.
+- [WaitLens: Temporal VLM-Based Adaptive Waiting for Industrial GUI Testing Agents](https://awesomecua.com/resources/arxiv-2610-32482/) — 2026-10-23
+  Introduces WaitLens, a vision-language model trained on GUI loading trajectories to decide when testing agents can stop waiting for an interface to load.
+- [AgentVQA: A Unified Benchmark for Agentic Visual Understanding](https://awesomecua.com/resources/arxiv-2610-31494/) — 2026-10-22
+  AgentVQA is an offline visual question-answering benchmark across five agent domains, including web agents and questions involving UI element location.
+- [PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding](https://awesomecua.com/resources/arxiv-2610-31274/) — 2026-10-22
+  POINTERBENCH is a diagnostic GUI grounding suite covering spreadsheet sub-elements, document characters and targets across professional applications.
 - [Focused Omni-Modal GUI Agents](https://awesomecua.com/resources/arxiv-2610-26203/) — 2026-10-19
   FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs.
+- [From Seeing to Reporting: A Theory of Reliable Visual Set Generation in Vision-Language Models](https://awesomecua.com/resources/arxiv-2610-25503/) — 2026-10-18
+  FSR models visual reporting and gives inference-time procedures for frozen vision-language models, including screen parsing and GUI target selection.
+- [fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets](https://awesomecua.com/resources/arxiv-2610-24729/) — 2026-10-17
+  Introduces fxBench, a benchmark of spreadsheet formula suggestions, and examines context selection, intent understanding and formula writing for editing assistance.
 - [STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents](https://awesomecua.com/resources/arxiv-2610-20390/) — 2026-10-14
   Introduces STP-GUI, which selects spatially coherent screenshot windows conditioned on the instruction to reduce visual tokens while retaining useful interface structure.
 - [Towards Safe Autonomy for Computer Use](https://awesomecua.com/resources/arxiv-2610-18508/) — 2026-10-13
@@ -20,6 +44,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Presents CaptchaAgent, which builds an explicit visual representation of objects and relations, refines ambiguous regions, and checks counterfactual consistency before acting on interactive CAPTCHAs.
 - [When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks](https://awesomecua.com/resources/arxiv-2610-12823/) — 2026-10-09
   Introduces MisVisAgentBench, a paired executable benchmark that changes chart evidence while holding web tasks fixed, to trace how misleading visualizations affect agent decisions and downstream actions.
+- [PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence](https://awesomecua.com/resources/arxiv-2610-07127/) — 2026-10-05
+  Introduces PlaySuite, a closed-loop video-game benchmark that evaluates interactive visual agents, including computer-use agents, over extended play.
 - [Recurrent Latent Visual Search for GUI Grounding](https://awesomecua.com/resources/arxiv-2610-05185/) — 2026-10-04
   Introduces ReLaViS, which performs recurrent visual search inside a grounding model by repeatedly querying screenshot tokens and feeding the resulting spatial evidence back into the model. Coarse-to-fine supervision is constructed from existing interface-element annotations.
 - [OpenVAM: Open-World Visual Attention Modeling with VLMs](https://awesomecua.com/resources/arxiv-2609-31364/) — 2026-09-25
@@ -36,6 +62,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   LLaDA-UI adapts block-wise diffusion generation to a vision-language GUI agent through multimodal pretraining and GUI supervised fine-tuning. It evaluates grounding and navigation across multiple platform settings.
 - [TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents](https://awesomecua.com/resources/arxiv-2609-10297/) — 2026-09-09
   TRACE orders screenshot evidence for monotonic visual-token reduction using layout priors, instruction relevance and feature novelty. Spatial token reserves and incremental KV contraction aim to preserve useful evidence for future GUI targets without repeatedly encoding retired frames.
+- [Beyond the Verdict: Evidence-Aligned Evaluation of Visual Prompt-Injection Guardrails](https://awesomecua.com/resources/arxiv-2609-05535/) — 2026-09-02
+  Introduces Mind2Web-Injection, a benchmark for evaluating web-agent guardrail decisions on instruction-screenshot pairs using evidence boxes and image-side counterfactuals.
 - [Reflection with Action-Induced Visual Differences for Desktop GUI Agents](https://awesomecua.com/resources/arxiv-2608-24015/) — 2026-08-25
   Introduces Evidence-First Reflection, which separates extraction of action-induced screen changes from judgment of whether an operation achieved its objective. It filters visual differences into relevant evidence before a desktop agent’s reflector decides how execution should continue.
 - [GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding](https://awesomecua.com/resources/arxiv-2608-21832/) — 2026-08-22
@@ -58,6 +86,10 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   GUI-Lens uses OCR and detected interface components as coordinate references while a general-purpose VLM selects progressively enlarged screenshot crops. Instruction-conditioned checks constrain the crop and click proposals before mapping the final location back to the original screen.
 - [Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?](https://awesomecua.com/resources/arxiv-2607-26041/) — 2026-07-28
   Introduces Desktop-Delta Bench, an offline diagnostic of GUI transition understanding using temporal-ordering tasks and before/after action inference. It includes decoy observations to test whether models track the source and task relevance of screen changes.
+- [StepX-Edge: An On-Device UI Vision-Language Model via Architecture-Training-Deployment Co-Design](https://awesomecua.com/resources/arxiv-2607-22708/) — 2026-07-20
+  Introduces StepX-Edge, an on-device UI vision-language model for screen understanding, OCR, question answering, and element grounding on mobile chips.
+- [MCP-Driven Accessibility Tree Standardization for AI-Powered Screen Reader Agents](https://awesomecua.com/resources/arxiv-2608-24898/) — 2026-07-13
+  Proposes an MCP architecture that presents accessibility trees from Windows, macOS, Android, and web frameworks in a common form for LLM assistive agents interacting with GUIs.
 - [Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure](https://awesomecua.com/resources/arxiv-2607-04334/) — 2026-07-05
   Defines visual state reliance and probes whether GUI agents resolve screenshot/structure conflicts using pixels, serialized interface structure or prior beliefs. Paired interventions and live multi-step tests connect misattributed state beliefs to failures and compare consistency-based mitigations.
 - [LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents](https://awesomecua.com/resources/arxiv-2606-30697/) — 2026-06-29
@@ -70,6 +102,10 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   The Agent-Computer Observation Interface separates continuous perception from discrete computer actions using captured frames, audio transcription and persistent visual narration. DynaCU-Bench tests these components on dynamic browser tasks and static controls, with model-specific ablations showing that additional observations can also hurt.
 - [VISUALSKILL: Multimodal Skills for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-18448/) — 2026-06-16
   VISUALSKILL organizes application-specific text and figures into hierarchical skills retrieved on demand through an MCP tool. Skills combine authored documentation with live UI exploration, and matched multimodal/text-only comparisons test their utility for interface identification and workflow-state verification.
+- [Running the Gauntlet: Hard Agentic Tasks](https://awesomecua.com/resources/arxiv-2606-14397/) — 2026-06-12
+  Introduces GauntletBench, a web-based benchmark of vision-intensive tasks in five professional applications for assessing agent perception, 3D reasoning, and generalisation.
+- [Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach](https://awesomecua.com/resources/arxiv-2606-13192/) — 2026-06-11
+  Introduces UXBench for diagnosing usability issues from UI screenshots and UI-UX, a reinforcement-trained model for reasoning about those interface problems.
 - [CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2606-12666/) — 2026-06-10
   CAPED filters mobile screenshots before upload by combining task requirements, screen context and parsed UI elements to mask incidental private content. AndroidWorld and a controlled seeded privacy evaluation examine leakage reduction alongside task utility and prototype costs.
 - [Signal-Driven Observation for Long-Horizon Web Agents](https://awesomecua.com/resources/arxiv-2606-06708/) — 2026-06-04
@@ -78,10 +114,20 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   DragOn supplies drag-grounding training data and a held-out benchmark for highlighting text, selecting cells, resizing elements and moving sliders. It evaluates existing vision-language models and a model fine-tuned on the drag tasks.
 - [Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms](https://awesomecua.com/resources/arxiv-2606-04701/) — 2026-06-03
   LivingScreen evaluates agents in a browser-based short-video environment where observing content consumes time and affects subsequent actions. Its task suite scores accuracy together with information efficiency to diagnose over- and under-observation on continuously changing screens.
+- [Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models](https://awesomecua.com/resources/arxiv-2606-02208/) — 2026-06-01
+  Studies staged prompting for automated mobile UI element annotation, comparing workflow depths and element groupings on expert-annotated MUIAnno screens.
 - [STaR-KV: Spatio-Temporal Adaptive Re-weighting for KV Cache Compression in GUI Vision-Language Models](https://awesomecua.com/resources/arxiv-2606-01790/) — 2026-06-01
   STaR-KV compresses GUI-agent KV caches by calibrating visual-token importance across attention subspaces and interaction time. Its training-free scoring combines spatial specialization, temporal redundancy and an adaptive temperature, evaluated at matched cache budgets.
+- [DiffSpot: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?](https://awesomecua.com/resources/arxiv-2605-29615/) — 2026-05-28
+  DiffSpot benchmarks detection of fine visual changes in rendered web interfaces using image pairs created by single-property CSS mutations.
+- [ChartAct: A Benchmark for Dynamic Chart Understanding](https://awesomecua.com/resources/arxiv-2605-26994/) — 2026-05-26
+  ChartAct benchmarks multimodal models and GUI agents on interactive charts from websites, requiring actions such as hovering or zooming to answer questions.
+- [AQuaUI: Visual Token Reduction for GUI Agents with Adaptive Quadtrees](https://awesomecua.com/resources/arxiv-2605-19260/) — 2026-05-19
+  AQuaUI reduces screenshot tokens for GUI agents at inference time with adaptive quadtrees that retain spatial positions and reuse prior tree structure across steps.
 - [MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding](https://awesomecua.com/resources/arxiv-2605-17656/) — 2026-05-17
   MUIAnno provides expert labels for elements in manually explored mobile-app screens, with a web annotation tool that emits structured JSON. It also supplies UI-element detection baselines for the dataset.
+- [ScreenSearch: Uncertainty-Aware OS Exploration](https://awesomecua.com/resources/arxiv-2605-16024/) — 2026-05-15
+  ScreenSearch explores desktop GUI states by indexing and deduplicating UIA-tree screens, then using outcome ambiguity and frontier rewards to guide graph search.
 - [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](https://awesomecua.com/resources/arxiv-2605-15542/) — 2026-05-15
   DRS-GUI searches screenshot regions through focus, shift and scatter operations selected by a tree-search planner. A region-quality reward guides this training-free perceptual search before final GUI grounding.
 - [ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction](https://awesomecua.com/resources/arxiv-2605-11212/) — 2026-05-11
@@ -90,6 +136,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Re-Prefill adds an attention-guided second prefill pass that revisits candidate screen regions before coordinate generation. The study evaluates this training-free intervention across GUI-grounding models and benchmarks.
 - [Region4Web: Rethinking Observation Space Granularity for Web Agents](https://awesomecua.com/resources/arxiv-2605-07134/) — 2026-05-08
   Reorganizes webpage accessibility trees into functional regions through hierarchical decomposition and semantic abstraction. PageDigest supplies a persistent region-level observation to web agents, evaluated on WebArena.
+- [BAMI: Training-Free Bias Mitigation in GUI Grounding](https://awesomecua.com/resources/arxiv-2605-06664/) — 2026-05-07
+  BAMI uses coarse-to-fine focus and candidate selection at inference time to address precision and ambiguity errors in GUI grounding.
 - [AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](https://awesomecua.com/resources/arxiv-2605-02630/) — 2026-05-04
   Presents AutoFocus, a training-free grounding method that turns sampled coordinates and token uncertainty into spatial region proposals. Shape-aware crops and visual comparison select a target while retaining surrounding interface context.
 - [A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction](https://awesomecua.com/resources/arxiv-2605-00551/) — 2026-05-01
@@ -100,12 +148,18 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings, rather than establishing universal runtime prevention.
 - [AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark](https://awesomecua.com/resources/arxiv-2604-24441/) — 2026-04-27
   AutoGUI-v2 evaluates interface functionality, grounding and predicted interaction outcomes using hierarchical regions derived through VLM-human annotation. Its tasks span multiple operating systems and expose differences between functional localization, captioning and transition-logic understanding.
+- [PageGuide: Browser extension to assist users in navigating a webpage and locating information](https://awesomecua.com/resources/arxiv-2604-23772/) — 2026-04-26
+  PageGuide is a browser extension that highlights evidence for answers on a page and guides users through web pages with evidence captured at each step.
 - [Do LLMs Need to See Everything? A Benchmark and Study of Failures in LLM-driven Smartphone Automation using Screentext vs. Screenshots](https://awesomecua.com/resources/arxiv-2604-17817/) — 2026-04-20
   DailyDroid compares text-only and text-plus-screenshot agents on everyday Android tasks across multiple apps and difficulty levels. Its failure analysis examines accessibility, observation modality and agent/application behavior.
 - [PrecisionCUA: Iterative Visual Refinement for Pixel-Precise Cursor Grounding in Code Editors](https://awesomecua.com/resources/arxiv-2604-13019/) — 2026-04-14
   Studies iterative cursor grounding in dense code-editor interfaces, using visual feedback from earlier attempts to correct displacement. PrecisionCUA evaluates this closed-loop process across multiple model families on coding-interface tasks.
+- [Preference Redirection via Attention Concentration: An Attack on Computer Use Agents](https://awesomecua.com/resources/arxiv-2604-08005/) — 2026-04-09
+  Introduces PRAC, an adversarial-patch attack that redirects a computer-use agent's visual attention to steer product selection on an online shopping platform.
 - [What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning](https://awesomecua.com/resources/arxiv-2604-06995/) — 2026-04-08
   Introduces UILoop, which inserts explicit UI-element localization, function and usage reasoning between screen observation and action. UI Comprehension-Bench evaluates these element-level capabilities with three metrics.
+- [Read More, Think More: Revisiting Observation Reduction for Web Agents](https://awesomecua.com/resources/arxiv-2604-01535/) — 2026-04-02
+  Studies HTML and accessibility-tree observations for web agents, relating their usefulness to model capability and thinking budget, and proposes diff-based observation history to save tokens.
 - [PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding](https://awesomecua.com/resources/arxiv-2604-00886/) — 2026-04-01
   PixelPrune removes pixel-redundant patches before the vision encoder, reducing both encoding and downstream language-model work. The training-free method evaluates lossless and controlled-lossy compression on document and GUI tasks.
 - [MolmoPoint: Better Pointing for VLMs with Grounding Tokens](https://awesomecua.com/resources/arxiv-2603-28069/) — 2026-03-30
@@ -126,6 +180,10 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Presents ZoomUI, a training-free grounding method that expresses instructions as visual element descriptions and uses model attention to zoom progressively into relevant interface regions. Evaluation examines instruction-to-element localization on GUI benchmarks.
 - [PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents](https://awesomecua.com/resources/arxiv-2603-08013/) — 2026-03-09
   PIRA-Bench evaluates proactive intent recommendations from noisy GUI screenshot sequences containing interleaved tasks and user context. Its PIRF baseline combines memory and state tracking to maintain multiple task threads and identify opportunities to assist.
+- [ST-Lite: Training-Free KV Cache Compression with Spatio-Trajectory Guidance for Long-Horizon GUI Agents](https://awesomecua.com/resources/arxiv-2603-00188/) — 2026-02-27
+  Introduces ST-Lite, a training-free KV cache compression scheme for vision-language GUI agents that filters redundant frames and preserves small UI elements in interaction traces.
+- [CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](https://awesomecua.com/resources/arxiv-2602-24142/) — 2026-02-27
+  Introduces Channel-of-Mobile-Experts (CoME), a mobile agent with experts for screen summary, subtask planning, action decisions and action functions, trained in stages with InfoGain-Driven DPO (Info-DPO).
 - [ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision](https://awesomecua.com/resources/arxiv-2602-14276/) — 2026-02-15
   ScreenParse supplies dense annotations of UI elements, types and text in web screenshots through an automated rendering and filtering pipeline. ScreenVLM learns to output structured screen markup, and the study evaluates dense parsing and transfer to GUI grounding.
 - [GUI-GenBench: Evaluating Image Generation Models as Interactive GUI Environments](https://awesomecua.com/resources/arxiv-2602-09007/) — 2026-02-09
@@ -204,6 +262,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Introduces Extract Candidate then Predict (ECP), a training-free two-stage method for high-resolution images, evaluated partly on 4K GUI grounding.
 - [R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding](https://awesomecua.com/resources/arxiv-2507-05673/) — 2025-07-08
   R-VLM localizes GUI elements through zoomed-in region proposals and an intersection-over-union-aware training objective. It evaluates the grounding model on ScreenSpot and AgentStudio and studies its effect on navigation in AITW and Mind2Web.
+- [FormGym: Doing Paperwork with Agents](https://awesomecua.com/resources/arxiv-2506-14079/) — 2025-06-17
+  Introduces FormGym, a benchmark for filling image-only forms, and FieldFinder, a tool that helps LLMs locate where to place text on those forms.
 - [DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning](https://awesomecua.com/resources/arxiv-2507-00008/) — 2025-06-12
   Separates textual and iconic UI elements and iteratively focuses visual regions to refine grounding without additional model training.
 - [FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents](https://awesomecua.com/resources/arxiv-2506-01520/) — 2025-06-02

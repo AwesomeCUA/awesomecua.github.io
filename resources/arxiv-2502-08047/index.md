@@ -14,7 +14,7 @@ Introduces desktop and web tasks with varied initial states to test planning rec
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-08047/record.json
 

@@ -14,7 +14,7 @@ Presents TaskVM, an interface for specifying desired and preserved application s
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-20100/record.json
 

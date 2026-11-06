@@ -14,7 +14,7 @@ Introduces WebGames, a browser-agent benchmark with 50+ interactive challenges i
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported comparisons are from the benchmark's interactive challenges. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported comparisons are from the benchmark's interactive challenges.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-18356/record.json
 

@@ -110,7 +110,7 @@
     }
   ],
   "name": "Agent Workflow Memory implementation",
-  "notes": "The repository releases separate WebArena and Mind2Web pipelines for online or offline workflow induction and use. WebArena execution requires separately configured browser environments, while Mind2Web workflows require the original dataset and rankings. Publisher performance claims were not reproduced. Apache-2.0 is recorded for this implementation; external benchmark, model and service terms remain separate.",
+  "notes": "The repository releases separate WebArena and Mind2Web pipelines for online or offline workflow induction and use. WebArena execution requires separately configured browser environments, while Mind2Web workflows require the original dataset and rankings. Apache-2.0 is recorded for this implementation; external benchmark, model and service terms remain separate.",
   "published_at": null,
   "relations": [
     {

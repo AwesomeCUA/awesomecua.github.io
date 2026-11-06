@@ -85,7 +85,7 @@
     }
   ],
   "name": "AndroidReality: How Far Are Mobile Agents from the Real World?",
-  "notes": "The reviewed protocol normally activates one perturbation type at a time while preserving task semantics and reward. Results do not establish robustness to arbitrary combined deployment disturbances; experiments were not independently reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Perturbation formulation; 3.2 Injection; 3.3 Evaluation protocol; 4.3 Error analysis); not an entire-paper reading or reproduction claim.",
+  "notes": "The reviewed protocol normally activates one perturbation type at a time while preserving task semantics and reward. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Perturbation formulation; 3.2 Injection; 3.3 Evaluation protocol; 4.3 Error analysis).",
   "published_at": "2026-08-07",
   "relations": [],
   "review_status": "curated",

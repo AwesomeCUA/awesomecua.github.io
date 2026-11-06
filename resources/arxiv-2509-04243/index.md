@@ -14,7 +14,7 @@ LASER builds preference data for multi-step GUI perception by combining Monte Ca
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-04243/record.json
 

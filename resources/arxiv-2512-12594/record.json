@@ -70,12 +70,15 @@
     }
   ],
   "name": "ceLLMate: Sandboxing Browser AI Agents",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.",
+  "notes": "Reviewed against the complete retained official abstract.",
   "published_at": "2025-12-14",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "ceLLMate constrains browser-agent authority through an extension that applies policies at the HTTP layer. It evaluates this sandbox against prompt-injection attacks in WASP, avoiding dependence on brittle low-level click and keystroke policies.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security",
     "sandbox",

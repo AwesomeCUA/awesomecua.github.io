@@ -14,7 +14,7 @@ WebServ combines copy-on-write container environments with a compact DOM-derived
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-16252/record.json
 

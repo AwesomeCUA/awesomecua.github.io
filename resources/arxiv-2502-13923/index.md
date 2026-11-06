@@ -14,7 +14,7 @@ Reports Qwen2.5-VL, a vision-language model that can act as a visual agent for t
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Computer and mobile-device operation is one application described within a broader vision-language model report. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Computer and mobile-device operation is one application described within a broader vision-language model report.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-13923/record.json
 

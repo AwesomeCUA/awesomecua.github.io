@@ -14,7 +14,7 @@ OSWorld-Human adds human-determined trajectories to OSWorld to evaluate the effi
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-16042/record.json
 

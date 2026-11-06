@@ -14,7 +14,7 @@ Uses step-level confidence estimates to decide when a GUI agent should act auton
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-16465/record.json
 

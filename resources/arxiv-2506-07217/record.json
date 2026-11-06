@@ -70,12 +70,15 @@
     }
   ],
   "name": "BIMgent: Towards Autonomous Building Modeling via Computer-use Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-06-08",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "BIMgent plans software-specific workflows and executes GUI actions for building-information modeling. It evaluates multimodal building design and reconstruction tasks in professional authoring software.",
+  "task_classes": [
+    "R07.05.01.02"
+  ],
   "topics": [
     "industry",
     "planning",

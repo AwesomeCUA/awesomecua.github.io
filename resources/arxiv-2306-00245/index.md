@@ -14,7 +14,7 @@ Studies instruction-following agents that observe screenshots and act through a 
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2306-00245/record.json
 

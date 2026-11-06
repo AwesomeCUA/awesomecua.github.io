@@ -14,7 +14,7 @@ Introduces Mem-W, which compresses previous trajectories and current-session seg
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-09317/record.json
 

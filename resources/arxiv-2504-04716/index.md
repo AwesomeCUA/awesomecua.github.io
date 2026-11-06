@@ -14,7 +14,7 @@ Evaluates GUI grounding models under natural image noise, untargeted adversarial
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-04716/record.json
 

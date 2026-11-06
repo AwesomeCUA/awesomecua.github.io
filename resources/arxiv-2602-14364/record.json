@@ -72,7 +72,7 @@
     }
   ],
   "name": "A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The audited agent uses tools across local and web workflows; the abstract does not state that it operates a GUI. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2026-02-16",
   "relations": [],
   "review_status": "curated",

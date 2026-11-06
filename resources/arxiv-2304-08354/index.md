@@ -14,7 +14,7 @@ Bibliographic record for Tool Learning with Foundation Models. Title, authors an
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2304-08354/record.json
 

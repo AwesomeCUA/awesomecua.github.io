@@ -14,7 +14,7 @@ DSAgentBench evaluates end-to-end data-science workflows spanning analysis, mode
 
 ## Limitations
 
-The paper abstract and official project README were reviewed. The README documents an Ubuntu desktop and GUI action interface and includes LLM-assisted evaluators; this annotation does not assert that every evaluator is deterministic. Experimental results and released artifacts have not been independently reproduced.
+The paper abstract and official project README were reviewed. The README documents an Ubuntu desktop and GUI action interface and includes LLM-assisted evaluators; this annotation does not assert that every evaluator is deterministic.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-10366/record.json
 

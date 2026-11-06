@@ -74,7 +74,7 @@
     }
   ],
   "name": "AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents",
-  "notes": "The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.",
+  "notes": "The annotation was reviewed against the complete retained official abstract.",
   "published_at": "2026-03-24",
   "relations": [],
   "review_status": "curated",

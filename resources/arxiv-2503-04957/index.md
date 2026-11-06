@@ -14,7 +14,7 @@ Pairs benign and harmful web tasks to assess deliberate misuse risks and categor
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-04957/record.json
 

@@ -71,7 +71,7 @@
     }
   ],
   "name": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
-  "notes": "The mobile evaluation uses text UI observations and one fixed instance for each of 116 AndroidWorld task types; three repeats share seed 0. Five agent families use different budgets, with candidate-interface and tool-call granularity changes in some variants. Reported costs use fixed experimental prices, and outcome-selected trace labels are not population failure rates. Faster selection does not imply faster or more reliable task completion. Selected sections were source-read; no independent reproduction.",
+  "notes": "The mobile evaluation uses text UI observations and one fixed instance for each of 116 AndroidWorld task types; three repeats share seed 0. Five agent families use different budgets, with candidate-interface and tool-call granularity changes in some variants. Reported costs use fixed experimental prices, and outcome-selected trace labels are not population failure rates. Faster selection does not imply faster or more reliable task completion.",
   "published_at": "2026-10-09",
   "relations": [],
   "review_status": "curated",

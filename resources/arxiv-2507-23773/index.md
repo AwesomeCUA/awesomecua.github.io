@@ -14,7 +14,7 @@ Introduces SiRA, an agent architecture that uses a language-based world model to
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Evaluation covers three task categories within a web-browser environment. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Evaluation covers three task categories within a web-browser environment.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-23773/record.json
 

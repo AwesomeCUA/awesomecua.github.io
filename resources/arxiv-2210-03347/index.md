@@ -14,7 +14,7 @@ Pix2Struct pretrains an image-to-text model by reconstructing simplified HTML fr
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced. Adjacent visual-language pretraining: webpage screenshot parsing and explicit UI evaluation support interface understanding; the paper does not establish an autonomous GUI policy.
+Reviewed against the complete official arXiv abstract. Adjacent visual-language pretraining: webpage screenshot parsing and explicit UI evaluation support interface understanding; the paper does not establish an autonomous GUI policy.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2210-03347/record.json
 

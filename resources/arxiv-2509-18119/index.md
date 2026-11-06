@@ -14,7 +14,7 @@ MobileRL adapts GRPO to mobile GUI training with difficulty-dependent replay of 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-18119/record.json
 

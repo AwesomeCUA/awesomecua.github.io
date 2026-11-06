@@ -14,7 +14,7 @@ MAGE retrieves software-manual sections into fixed execution plans and generates
 
 ## Limitations
 
-Reviewed the complete retained abstract and selected exact-v1 methods, evaluation and validation sections. Execution plans stay fixed per episode; policy training is separate and application-specific. Screenshot-based training/Slack judgments can miss task conditions, and OSWorld tasks may overlap backbone pretraining. No independent reproduction, safe-deployment guarantee or artifact-release verification.
+Reviewed the complete retained abstract and selected exact-v1 methods, evaluation and validation sections. Execution plans stay fixed per episode; policy training is separate and application-specific. Screenshot-based training/Slack judgments can miss task conditions, and OSWorld tasks may overlap backbone pretraining.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-23012/record.json
 

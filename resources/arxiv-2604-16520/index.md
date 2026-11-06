@@ -14,7 +14,7 @@ AgentClick gives terminal-based agents a browser review interface for plans, dra
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent supervision interface: the browser UI is for human review of terminal agents; the abstract does not claim that those agents operate graphical interfaces.
+Reviewed against the complete retained official abstract. Adjacent supervision interface: the browser UI is for human review of terminal agents; the abstract does not claim that those agents operate graphical interfaces.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-16520/record.json
 

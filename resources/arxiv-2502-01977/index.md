@@ -14,7 +14,7 @@ Infers element functionality from UI changes before and after interaction to pro
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-01977/record.json
 

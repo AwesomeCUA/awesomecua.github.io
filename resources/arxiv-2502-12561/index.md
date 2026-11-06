@@ -14,7 +14,7 @@ Introduces UXAgent, which uses simulated users and a browser connector to test w
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The system is intended to help researchers refine study designs before conducting studies with human participants. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The system is intended to help researchers refine study designs before conducting studies with human participants.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-12561/record.json
 

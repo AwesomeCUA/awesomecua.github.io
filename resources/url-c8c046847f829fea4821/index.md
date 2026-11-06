@@ -14,7 +14,7 @@ Qwen2.5-VL-3B-based GUI grounding checkpoint that predicts click locations from 
 
 ## Limitations
 
-The Hub manifest lists four-part PyTorch and Safetensors files as alternative representations of one checkpoint, plus configuration/tokenizer files. The card’s example rescales predicted locations through the resized image dimensions. No checkpoint was loaded and no benchmark score was reproduced. Apache-2.0 is the model-card weight declaration; the separate code repository has no project-level license in the inspected tree.
+The Hub manifest lists four-part PyTorch and Safetensors files as alternative representations of one checkpoint, plus configuration/tokenizer files. The card’s example rescales predicted locations through the resized image dimensions. Apache-2.0 is the model-card weight declaration; the separate code repository has no project-level license in the inspected tree.
 
 - Record JSON: https://awesomecua.com/resources/url-c8c046847f829fea4821/record.json
 

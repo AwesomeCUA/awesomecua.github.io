@@ -14,7 +14,7 @@ Bibliographic record for Understanding the planning of LLM agents: A survey. Tit
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-02716/record.json
 

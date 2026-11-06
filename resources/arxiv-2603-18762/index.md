@@ -14,7 +14,7 @@ Presents a man-in-the-middle network red-teaming framework for evaluating autono
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-18762/record.json
 

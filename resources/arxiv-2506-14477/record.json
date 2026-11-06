@@ -76,7 +76,7 @@
     }
   ],
   "name": "GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-06-17",
   "relations": [],
   "review_status": "curated",

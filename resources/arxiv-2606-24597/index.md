@@ -14,7 +14,7 @@ Bibliographic record for Qwen-AgentWorld: Language World Models for General Agen
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-24597/record.json
 

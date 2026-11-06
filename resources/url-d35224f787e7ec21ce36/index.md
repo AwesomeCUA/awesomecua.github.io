@@ -14,7 +14,7 @@ Mobile-agent checkpoint trained on OpenMobile-Data-v2 for screenshot actions and
 
 ## Limitations
 
-The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
+License declarations apply to this checkpoint separately from code and training data.
 
 - Record JSON: https://awesomecua.com/resources/url-d35224f787e7ec21ce36/record.json
 

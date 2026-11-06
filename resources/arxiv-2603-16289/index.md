@@ -14,7 +14,7 @@ Bibliographic record for VisBrowse-Bench: Benchmarking Visual-Native Search for 
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-16289/record.json
 

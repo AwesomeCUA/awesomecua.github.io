@@ -14,7 +14,7 @@ Introduces FocusAgent, which uses a lightweight LLM to select task-relevant line
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Results are reported on WorkArena and WebArena; the injection result concerns a FocusAgent variant. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Results are reported on WorkArena and WebArena; the injection result concerns a FocusAgent variant.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-03204/record.json
 

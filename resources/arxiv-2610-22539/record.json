@@ -80,7 +80,7 @@
     }
   ],
   "name": "Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks",
-  "notes": "Reviewed the complete retained abstract and selected exact-v1 method, evaluation and analysis sections. Adapter-bank and router training use source demonstrations. Domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free. No target-time gradients does not mean no target task information. No independent reproduction or artifact/license verification.",
+  "notes": "Reviewed the complete retained abstract and selected exact-v1 method, evaluation and analysis sections. Adapter-bank and router training use source demonstrations. Domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free. No target-time gradients does not mean no target task information.",
   "published_at": "2026-10-15",
   "relations": [],
   "review_status": "curated",

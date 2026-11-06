@@ -14,7 +14,7 @@ Me-Agent personalizes mobile agent behavior through a preference reward model an
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-20162/record.json
 

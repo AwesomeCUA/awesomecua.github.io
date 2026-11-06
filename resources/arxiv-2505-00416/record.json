@@ -75,7 +75,7 @@
     }
   ],
   "name": "ScaleTrack: Scaling and back-tracking Automated GUI Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-05-01",
   "relations": [],
   "review_status": "curated",

@@ -75,12 +75,15 @@
     }
   ],
   "name": "CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation uses 75 crash reports involving 58 Android apps. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation uses 75 crash reports involving 58 Android apps.",
   "published_at": "2023-10-11",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces CrashTranslator, which predicts GUI exploration steps from stack traces with an LLM and uses RL-guided search to reproduce crashes in Android apps.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "mobile-navigation",
     "reinforcement-learning",

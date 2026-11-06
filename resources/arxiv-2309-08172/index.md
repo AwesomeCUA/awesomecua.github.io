@@ -14,7 +14,7 @@ LASER represents web navigation as exploration over a defined set of states, all
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2309-08172/record.json
 

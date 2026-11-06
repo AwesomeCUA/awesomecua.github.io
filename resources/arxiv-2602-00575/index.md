@@ -14,7 +14,7 @@ VAGEN verifies GUI trajectories by first extracting readily available evidence a
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-00575/record.json
 

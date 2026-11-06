@@ -14,7 +14,7 @@ Reports the GLM-4.1V-Thinking, GLM-4.5V, and GLM-4.6V vision-language model fami
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v6). GUI agents are one task area in a general multimodal model evaluation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v6). GUI agents are one task area in a general multimodal model evaluation.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-01006/record.json
 

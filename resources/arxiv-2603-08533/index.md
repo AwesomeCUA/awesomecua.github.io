@@ -14,7 +14,7 @@ Presents a Chinese mobile GUI dataset and navigation benchmark together with Sec
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Mobile use is explicit, but the abstract does not identify a mobile operating system.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Mobile use is explicit, but the abstract does not identify a mobile operating system.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-08533/record.json
 

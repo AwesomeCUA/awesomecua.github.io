@@ -14,7 +14,7 @@ Describes a mobile-agent stack combining region-based coordinate correction, hie
 
 ## Limitations
 
-Trace reuse assumes stable layouts and fixed tasks. The described function-call routes are user-selected, and coordinate calibration depends on valid detected widgets. No particular operating-system coverage, latency guarantee or reproduced result is asserted. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (4.2 OCR/OR Region Localization; 4.2.2 Coordinate Calibration; 4.3 Multi-Agent Voting; 5.2 Task Decomposition; 6.2 Experience Reuse; 6.3 Function Calling); not an entire-paper reading or reproduction claim.
+Trace reuse assumes stable layouts and fixed tasks. The described function-call routes are user-selected, and coordinate calibration depends on valid detected widgets. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (4.2 OCR/OR Region Localization; 4.2.2 Coordinate Calibration; 4.3 Multi-Agent Voting; 5.2 Task Decomposition; 6.2 Experience Reuse; 6.3 Function Calling).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-02444/record.json
 

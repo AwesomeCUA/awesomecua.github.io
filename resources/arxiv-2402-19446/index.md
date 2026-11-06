@@ -14,7 +14,7 @@ Bibliographic record for ArCHer: Training Language Model Agents via Hierarchical
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-19446/record.json
 

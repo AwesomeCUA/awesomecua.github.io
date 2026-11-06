@@ -89,7 +89,7 @@
     }
   ],
   "name": "VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards",
-  "notes": "Reviewed the complete abstract and selected v1 method/evaluation sections. The Judge is trained on OSWorld and frozen for MobileWorld/WebArena transfer; downstream Actor RL is separate. Evaluation uses screened terminal outcomes, and reported cost counts Probe tokens. No independent reproduction.",
+  "notes": "Reviewed the complete abstract and selected v1 method/evaluation sections. The Judge is trained on OSWorld and frozen for MobileWorld/WebArena transfer; downstream Actor RL is separate. Evaluation uses screened terminal outcomes, and reported cost counts Probe tokens.",
   "published_at": "2026-10-19",
   "relations": [],
   "review_status": "curated",

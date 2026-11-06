@@ -14,7 +14,7 @@ Introduces ReAct, a method that interleaves reasoning traces and actions for lan
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several evaluation tasks, alongside question answering, fact verification and ALFWorld. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several evaluation tasks, alongside question answering, fact verification and ALFWorld.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2210-03629/record.json
 

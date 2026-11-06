@@ -14,7 +14,7 @@ Studies how Android task performance changes with demonstration scale and releas
 
 ## Limitations
 
-Annotation reviewed against the primary abstract. Original dataset scale and experimental results are not independently reproduced.
+Annotation reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-03679/record.json
 

@@ -14,7 +14,7 @@ Bibliographic record for Robust Context-Aware Detection of Malicious Instruction
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-05430/record.json
 

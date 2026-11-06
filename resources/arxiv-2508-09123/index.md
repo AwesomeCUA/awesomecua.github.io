@@ -14,7 +14,7 @@ Presents demonstration collection infrastructure, the AgentNet dataset, and a tr
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-09123/record.json
 

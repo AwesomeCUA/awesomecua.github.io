@@ -14,7 +14,7 @@ LLMigrate uses LLMs to transfer usage-based UI tests between mobile apps with si
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract describes test transfer across mobile apps without naming a mobile operating system. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-17933/record.json
 

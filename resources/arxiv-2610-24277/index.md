@@ -14,7 +14,7 @@ SPIDES propagates HTML integrity and confidentiality labels into agent context a
 
 ## Limitations
 
-Reviewed the complete abstract and selected v1 threat-model, policy, evaluation and limitations sections. Guarantees assume correct labels/trusted origins and a trusted browser/harness mediating actions; evaluation uses idealized approvals. Origin-level reader sets can miss recipient distinctions within one origin. No unrestricted prompt-injection immunity or independent reproduction is claimed.
+Reviewed the complete abstract and selected v1 threat-model, policy, evaluation and limitations sections. Guarantees assume correct labels/trusted origins and a trusted browser/harness mediating actions; evaluation uses idealized approvals. Origin-level reader sets can miss recipient distinctions within one origin.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-24277/record.json
 

@@ -82,7 +82,7 @@
     }
   ],
   "name": "VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video",
-  "notes": "The contribution was reviewed from the retained abstract. Sections 1 and 3 of the exact-version v2 paper identify Onshape as the browser-based interaction environment; the use of pixel-level input does not make the operated surface a desktop application. No experimental results were independently reproduced.",
+  "notes": "The contribution was reviewed from the retained abstract. Sections 1 and 3 of the exact-version v2 paper identify Onshape as the browser-based interaction environment; the use of pixel-level input does not make the operated surface a desktop application.",
   "published_at": "2025-05-30",
   "relations": [],
   "review_status": "curated",

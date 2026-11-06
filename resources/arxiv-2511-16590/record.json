@@ -72,12 +72,15 @@
     }
   ],
   "name": "D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies",
-  "notes": "The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.",
+  "notes": "The annotation was reviewed against the complete retained primary abstract.",
   "published_at": "2025-11-20",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "D-GARA evaluates Android GUI agents under runtime anomalies such as permission dialogs, battery warnings, and update prompts. Its modular environment embeds these interruptions in Android applications to study recovery and robustness.",
+  "task_classes": [
+    "R01.11.01.02"
+  ],
   "topics": [
     "evaluation",
     "robustness",

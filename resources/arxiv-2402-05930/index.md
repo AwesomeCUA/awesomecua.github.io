@@ -14,7 +14,7 @@ Collects expert demonstrations of conversational web navigation and studies retr
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-05930/record.json
 

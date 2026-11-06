@@ -14,7 +14,7 @@ ColorBench represents mobile tasks as graphs of states collected from real devic
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-14621/record.json
 

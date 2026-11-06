@@ -14,7 +14,7 @@ Mobile-Bench-v2 evaluates mobile GUI agents using multiple acceptable offline ac
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-11891/record.json
 

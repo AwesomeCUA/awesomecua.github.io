@@ -14,7 +14,7 @@ FocusGUI learns step-specific weights over screenshot, audio, video and interact
 
 ## Limitations
 
-Reviewed the complete retained abstract and selected v1 method/evaluation sections. OmniGUI uses episode-disjoint reference-action evaluation; Type Match, Exact Match and Goal Progress are not presented as independently demonstrated live task-success gains. The Android role is explicit in Appendix D.1. No reproduction or artifact-release verification.
+Reviewed the complete retained abstract and selected v1 method/evaluation sections. OmniGUI uses episode-disjoint reference-action evaluation; Type Match, Exact Match and Goal Progress are not presented as independently demonstrated live task-success gains. The Android role is explicit in Appendix D.1.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-26203/record.json
 

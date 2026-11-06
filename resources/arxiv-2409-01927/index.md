@@ -14,7 +14,7 @@ Separates web-agent planning and grounding evaluations on Mind2Web to analyze wh
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-01927/record.json
 

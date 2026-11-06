@@ -87,7 +87,7 @@
     }
   ],
   "name": "MLA-Trust: Benchmarking Trustworthiness of Multimodal LLM Agents in GUI Environments",
-  "notes": "The contribution was reviewed from the retained paper abstract; Android setup is supported separately by the official project README. No benchmark results were independently reproduced.",
+  "notes": "The contribution was reviewed from the retained paper abstract; Android setup is supported separately by the official project README.",
   "published_at": "2025-06-02",
   "relations": [],
   "review_status": "curated",

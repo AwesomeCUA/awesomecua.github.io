@@ -70,12 +70,15 @@
     }
   ],
   "name": "SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-03-10",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "SpecOps divides testing of GUI-based agents into test generation, environment setup, execution and validation handled by specialist agents. Its evaluation spans five real-world agents, including web applications and browser extensions, and measures execution reliability and bug discovery.",
+  "task_classes": [
+    "R02.02.01.02"
+  ],
   "topics": [
     "automation",
     "evaluation",

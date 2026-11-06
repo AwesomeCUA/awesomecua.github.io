@@ -6,6 +6,82 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
 
 ## Papers & surveys
 
+- [Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining](https://awesomecua.com/resources/arxiv-2611-04142/) — 2026-11-03
+  Applies sequential pattern mining to MiniWoB++ web-agent traces, producing reviewable failure signatures and an early-termination policy to reduce token use.
+- [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://awesomecua.com/resources/arxiv-2611-04073/) — 2026-11-02
+  RAG-PolicyJudge selects computer-use actions proposed with task-specific tutorials; the study compares its decisions with and without world-model rollouts.
+- [What Is This Memory Useful For? Measuring Task-Conditioned Utility in Long-Term Agent Memory](https://awesomecua.com/resources/arxiv-2611-03930/) — 2026-11-02
+  Introduces task-conditioned measurements and a dataset for assessing whether stored agent memories help later tasks, using factual-recall tasks built from web-agent memories.
+- [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://awesomecua.com/resources/arxiv-2611-03634/) — 2026-11-02
+  Introduces WebHarbor, a suite of 153 executable website environments and 3,518 tasks for evaluating and training GUI web agents on interactive workflows.
+- [ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents](https://awesomecua.com/resources/arxiv-2611-03238/) — 2026-11-02
+  Introduces ScienceCUA, which turns scientific software documentation into reusable agent skills and revises them using execution feedback, with two audited evaluation variants.
+- [MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework](https://awesomecua.com/resources/arxiv-2611-02472/) — 2026-11-02
+  Introduces MAGAR-Bench for GUI-based 3D mechanical assembly decisions and recovery, and MAGAR, a selective correction method for assembly outputs and actions.
+- [When 200 OK Is Not an Answer: Silent Fetch Failures in Agentic Web Content Acquisition](https://awesomecua.com/resources/arxiv-2611-00884/) — 2026-10-31
+  Studies silent failures in web content fetched by static and rendered-browser clients, and evaluates checks for whether HTTP 200 pages contain usable content.
+- [MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions](https://awesomecua.com/resources/arxiv-2611-00191/) — 2026-10-30
+  Introduces MemU-Bench for mobile GUI tasks that depend on past user interactions, alongside AppMem, a training-free memory framework for retrieving app-specific context.
+- [ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents](https://awesomecua.com/resources/arxiv-2610-41272/) — 2026-10-30
+  Introduces REEF, a website benchmark with state-based attack verification, and ANGLER, which adapts attack lures using outcomes from web-agent rollouts.
+- [AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers](https://awesomecua.com/resources/arxiv-2610-41181/) — 2026-10-30
+  Evaluates agentic browsers against web anti-bot defenses and introduces AgentShield, a behavioral fingerprinting framework for distinguishing agents from people.
+- [VeriCUA: Verification as Agentic Exploration for Computer-Using Agents](https://awesomecua.com/resources/arxiv-2610-40578/) — 2026-10-29
+  Introduces VeriCUA, a cross-platform task verifier that gathers evidence through GUI or code checks to assess computer-use agent completion.
+- [EnvOS: Auditing Computer-Use Agents When the World Moves On : Phenomenon-Based Task Construction, Certification, and Evidence-Based Evaluation](https://awesomecua.com/resources/arxiv-2610-40246/) — 2026-10-29
+  Introduces EnvOS, a framework for constructing and auditing changing computer-use environments, including checks of task changes, solvability, grading, and run evidence.
+- [DynaRev: Benchmarking Web Agents under Dynamic Goal Revision](https://awesomecua.com/resources/arxiv-2610-40133/) — 2026-10-29
+  Introduces DynaRev, a benchmark of 181 web-agent tasks whose goals change during execution, with trajectory-based measures of correctness, responsiveness, and efficiency.
+- [InterA11y: Interactive Web Accessibility Error Detection with LLM Agents](https://awesomecua.com/resources/arxiv-2610-39488/) — 2026-10-29
+  Introduces InterA11y, a web accessibility evaluation system that guides LLM agents with rubrics and tools for inspecting and operating pages.
+- [What Does "Now" Mean to Your Computer-Use Agent? Stale Screenshots, Page Loads, and Which Check to Run Before a Click](https://awesomecua.com/resources/arxiv-2610-39282/) — 2026-10-29
+  Studies clicks made from stale screenshots on web pages and provides a benchmark generator and pre-click checks for pages that change during loading.
+- [AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers](https://awesomecua.com/resources/arxiv-2610-39234/) — 2026-10-29
+  Introduces AgentHeal, a benchmark of whether web agents detect access barriers, find legitimate alternative sources, and preserve the user's original goal.
+- [WebAnything: From the Wild Web to Scalable Agent Environments](https://awesomecua.com/resources/arxiv-2610-37786/) — 2026-10-27
+  Introduces WebAnything, a framework that reconstructs reusable, resettable website environments from real URLs for web-agent training and evaluation.
+- [Right Click, Wrong Box: Grading GUI Grounding by What a Click Does](https://awesomecua.com/resources/arxiv-2610-36831/) — 2026-10-27
+  Proposes grading GUI grounding clicks by their executed outcomes and audits box-based scores on live web applications and ScreenSpot-v2 screenshots.
+- [When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents](https://awesomecua.com/resources/arxiv-2610-36471/) — 2026-10-27
+  Introduces ReInBench, annotated computer-use and web-agent error traces, and ReCoF, a method for predicting whether an agent will recover without intervention.
+- [Back to Basics: A Skill-Centric Approach to Generalist Web Agents](https://awesomecua.com/resources/arxiv-2610-35823/) — 2026-10-26
+  Introduces MiniWeb for skill-labeled browser tasks, MiniWebGen for generating training trajectories, and MiniWebAgent for composing learned skills into web workflows.
+- [Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models](https://awesomecua.com/resources/arxiv-2610-35138/) — 2026-10-26
+  Introduces Co-Design Bench to evaluate coding agents that revise applications from multimodal user requests, including UI changes assessed with browser evidence.
+- [iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents](https://awesomecua.com/resources/arxiv-2610-34735/) — 2026-10-26
+  Introduces iPrefBench, an iOS benchmark for mobile agents that tests when they infer missing user preferences from activity history and when they ask the user.
+- [AgentProofBench: Benchmarking Reusable Verifiers for Web Agents](https://awesomecua.com/resources/arxiv-2610-34634/) — 2026-10-25
+  Introduces AgentProofBench, a benchmark linking tests of reusable web-agent verification rules to subsequent execution from saved web states.
+- [AndroidFlux: Evaluating and Reward Modeling Failure Recovery Capabilities in Mobile Use Multimodal Agents](https://awesomecua.com/resources/arxiv-2610-34384/) — 2026-10-25
+  Introduces AndroidFlux, a mobile-agent failure-recovery benchmark that restores trajectories to error checkpoints, plus a reward-modeling benchmark and offline RL dataset.
+- [Build or Adopt? Custom-Built vs. General-Purpose LLM Agent Harnesses for Automotive GUI Testing](https://awesomecua.com/resources/arxiv-2610-33636/) — 2026-10-24
+  Compares a custom harness with general-purpose LLM agent harnesses for GUI testing of Android-based vehicle interfaces and tasks in public apps.
+- [SkillShift-Bench: Benchmarking Skill Learning under Environment Evolution for Web Agents](https://awesomecua.com/resources/arxiv-2610-33528/) — 2026-10-24
+  Introduces SkillShift-Bench to evaluate how web agents reuse learned skills when task context, visual perception, or execution conditions change across web systems.
+- [IGG: A Benchmark for Interactive GUI Grounding under Visibility Constraints](https://awesomecua.com/resources/arxiv-2610-32536/) — 2026-10-23
+  Introduces Interactive GUI Grounding (IGG), a benchmark that tests whether agents can reveal hidden interface targets through interaction before clicking them.
+- [AgentVQA: A Unified Benchmark for Agentic Visual Understanding](https://awesomecua.com/resources/arxiv-2610-31494/) — 2026-10-22
+  AgentVQA is an offline visual question-answering benchmark across five agent domains, including web agents and questions involving UI element location.
+- [PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding](https://awesomecua.com/resources/arxiv-2610-31274/) — 2026-10-22
+  POINTERBENCH is a diagnostic GUI grounding suite covering spreadsheet sub-elements, document characters and targets across professional applications.
+- [Diagnosing Personalization Failures in Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2610-30573/) — 2026-10-22
+  PrefDiag-Bench diagnoses when and how user preferences should affect sequential mobile GUI agent actions, using staged probes and user context.
+- [Understanding Tool-Mediated Interaction Failures in Agentic GUI Software: An Empirical Study](https://awesomecua.com/resources/arxiv-2610-31698/) — 2026-10-21
+  Malva catalogs failures that make GUI agents' tool-mediated view diverge from the live interface; MalvaGuard checks related tool contracts before deployment.
+- [MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning](https://awesomecua.com/resources/arxiv-2610-30202/) — 2026-10-21
+  MPIDetector uses few-shot prompts to detect text and visual prompt injections, with environmental web-agent injections included in its evaluation.
+- [Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://awesomecua.com/resources/arxiv-2610-30108/) — 2026-10-21
+  PAPAV is a capability framework and survey comparing computer-use agents with physical agents through perception, anticipation, planning, action and verification.
+- [Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging](https://awesomecua.com/resources/arxiv-2610-29609/) — 2026-10-21
+  Studies how GUI agents' success claims affect completion judgments and builds a claim-blind auditor that checks reports against recorded traces.
+- [Evolving Agent Interfaces](https://awesomecua.com/resources/arxiv-2610-28601/) — 2026-10-20
+  Agent S4 uses task trajectories to evolve interfaces and usage guidance for a computer-use agent, selecting changes through validation tasks.
+- [Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay](https://awesomecua.com/resources/arxiv-2610-27954/) — 2026-10-20
+  ReTrace evaluates how keyboard-and-mouse computer-use agents recover from injected errors by replaying actions and comparing downstream outcomes.
+- [CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents](https://awesomecua.com/resources/arxiv-2610-27645/) — 2026-10-20
+  CUA-Recovery benchmarks error detection and recovery across desktop applications, using agent failures to create test states and training trajectories.
+- [Deep Search in Real-World Web Environments](https://awesomecua.com/resources/arxiv-2610-30181/) — 2026-10-19
+  OpenDS-World benchmarks multi-step research on the live open Web, requiring agents to search, interact with browsers and combine evidence across sources.
 - [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://awesomecua.com/resources/arxiv-2610-26703/) — 2026-10-19
   MAP annotates computer-use traces at linked operation, function/consequence, method and goal levels, then compares human and agent workflows through sequence, pattern and effort metrics.
 - [ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents](https://awesomecua.com/resources/arxiv-2610-26503/) — 2026-10-19
@@ -14,6 +90,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   VeriCUA trains a Judge to select verification checks and stopping decisions while a frozen Probe inspects the post-task GUI. Single-attempt reinforcement learning balances verdict correctness and Probe use.
 - [CUA-Lite: An Open Platform for Computer Use Agents](https://awesomecua.com/resources/arxiv-2610-26071/) — 2026-10-19
   CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks.
+- [fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets](https://awesomecua.com/resources/arxiv-2610-24729/) — 2026-10-17
+  Introduces fxBench, a benchmark of spreadsheet formula suggestions, and examines context selection, intent understanding and formula writing for editing assistance.
 - [Beyond Next-Screen Prediction: The Decision Value of GUI World Models](https://awesomecua.com/resources/arxiv-2610-24372/) — 2026-10-17
   Separates next-screen prediction from action evaluation in GUI lookahead and trains Direct Action Ranking on reference actions, comparing prediction-augmented scoring under matched offline supervision.
 - [SPIDES: Information-Flow Control for Browser Agents](https://awesomecua.com/resources/arxiv-2610-24277/) — 2026-10-16
@@ -50,10 +128,16 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Uses computer-use agents to interact with generated applications, studying whether interaction improves preference judging, requirement checks, and feedback for application generation.
 - [BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views](https://awesomecua.com/resources/arxiv-2610-17457/) — 2026-10-12
   Extends BrowseSafe with paired attacked and clean webpages in several representations, and studies text and screenshot detectors plus feedback-adapted prompt injections.
+- [Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents](https://awesomecua.com/resources/arxiv-2610-16998/) — 2026-10-12
+  Introduces Glasseek, a framework for deep-search agents that explore the open web, with trajectory construction, training across context compression, and a test-set leakage audit.
 - [PrivacyGuard: Source-Linked Sanitization and Locally Resolvable PII References for Cloud GUI Agents](https://awesomecua.com/resources/arxiv-2610-16778/) — 2026-10-12
   Introduces PrivacyGuard, which sanitizes source-linked personal information and maintains locally resolvable references across mobile-agent turns to reduce exposure to remote planners.
 - [Learn from Move: the Next Step for GUI Agents](https://awesomecua.com/resources/arxiv-2610-16720/) — 2026-10-12
   Introduces LatentGUIWorld to test learning interface semantics and dynamics through interaction, and studies finer movement actions with intermediate visual feedback and exploration demonstrations.
+- [EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications](https://awesomecua.com/resources/arxiv-2610-16402/) — 2026-10-12
+  Introduces EvoWeb, a benchmark for coding agents that extend web applications through dependent requests; a multimodal web agent checks each version in a live browser.
+- [A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution](https://awesomecua.com/resources/arxiv-2610-15765/) — 2026-10-11
+  Introduces DeskIF-Bench to study how desktop application interfaces affect agents, and ANIS to synthesize interfaces from installed application capabilities.
 - [Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops](https://awesomecua.com/resources/arxiv-2610-15738/) — 2026-10-11
   Studies repeated rejected edits while optimizing a screenshot-only GUI agent, contrasting static probes with reached loop states and testing how rejection wording changes subsequent edit proposals.
 - [The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named](https://awesomecua.com/resources/arxiv-2610-15138/) — 2026-10-10
@@ -82,12 +166,16 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces PAIR for controlled evaluation of mobile GUI agents across user-conditioned application states and RePAIR for training from cross-user subgoal outcomes. The study examines failures when personalized interfaces change which items an agent must identify.
 - [Decoupling What from Where: How Should a Small GUI Grounding Model Receive the Action Type?](https://awesomecua.com/resources/arxiv-2610-07444/) — 2026-10-05
   Compares ways to condition a small GUI grounding model on action type under matched training conditions on Android in the Wild. The study traces apparent gains to a coordinate-serialization choice and reports limited evidence that the gains persist with predicted action types.
+- [PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence](https://awesomecua.com/resources/arxiv-2610-07127/) — 2026-10-05
+  Introduces PlaySuite, a closed-loop video-game benchmark that evaluates interactive visual agents, including computer-use agents, over extended play.
 - [CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](https://awesomecua.com/resources/arxiv-2610-06829/) — 2026-10-05
   Introduces CLIFT, which certifies agent-generated verification signals against training-time judges and reuses them for per-step rewards and trajectory selection. At inference, a frozen question bank helps compare candidate web rollouts without querying an external judge.
 - [MedImageOSWorld: Benchmarking GUI Agents for Medical Image Consoles](https://awesomecua.com/resources/arxiv-2610-04800/) — 2026-10-03
   Evaluates GUI agents in simulated medical-imaging consoles, separately checking workflow completion and acquisition outcomes against hidden anatomical targets.
 - [Control OSWorld: An AI Control Environment for GUI Computer Use Agents](https://awesomecua.com/resources/arxiv-2610-03818/) — 2026-10-02
   Pairs OSWorld tasks with harmful side objectives to evaluate monitors that detect malicious behavior in computer-use agent trajectories.
+- [HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents](https://awesomecua.com/resources/arxiv-2610-03574/) — 2026-10-02
+  Introduces HyperBrowseComp, a multilingual benchmark for browsing agents that must connect evidence across open-web sources, including videos, scans, images, and maps.
 - [Securing Computer-Use Agents Against Branch Steering Attacks](https://awesomecua.com/resources/arxiv-2610-03089/) — 2026-10-02
   Introduces STEER-Bench to study branch-steering attacks that manipulate untrusted web data toward hazardous paths already permitted by an agent’s plan. Its COBRA architecture combines trusted branching plans with advance constraints on the parameters and destinations each branch can use.
 - [WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness](https://awesomecua.com/resources/arxiv-2610-02617/) — 2026-10-02
@@ -158,38 +246,56 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   PACE weights coordinate-digit entropy by place value to estimate confidence in GUI clicks from one forward pass. It evaluates correctness ranking and selective accuracy against repeated-sampling alternatives on ScreenSpot-Pro and ScreenSpot-v2.
 - [Constructing Challenging Browser-Use Tasks by Controlled Environment Interventions](https://awesomecua.com/resources/arxiv-2609-35814/) — 2026-09-20
   BreakingWeb pairs solvable browser tasks with controlled environment interventions that preserve the goal, target and backend success criterion. The paired evaluations isolate robustness failures, including agents declaring completion without the required state change.
+- [MATE: Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven Trajectory Learning](https://awesomecua.com/resources/arxiv-2609-22724/) — 2026-09-19
+  Introduces MATE, a policy-conditioned auditor for mobile-agent trajectories, and MATEBench for evaluating whether those trajectories violate app security policies.
 - [RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents](https://awesomecua.com/resources/arxiv-2609-22000/) — 2026-09-18
   RecreationWorld gives hybrid agents running reference applications to explore and recreate using native GUI controls and coding tools. Its multi-platform benchmark checks interaction-dependent behavior with programmatic and visual assertions, while trajectory-training transfer is evaluated separately.
 - [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2609-19843/) — 2026-09-17
   Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
 - [EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data](https://awesomecua.com/resources/arxiv-2609-19523/) — 2026-09-17
   EconSkills converts verified economic-data browsing traces into parameterized procedures with navigation, verification and recovery guidance. Its evaluation separates known-skill transfer from library retrieval, exposing the limits of approximate matches to new tasks.
+- [Affora: A Design System for Agent-Friendly Interfaces](https://awesomecua.com/resources/arxiv-2609-19125/) — 2026-09-16
+  Presents Affora, a design system with reusable components and executable checks for interfaces used by computer-use agents, informed by studies of components and visual variation.
 - [ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software](https://awesomecua.com/resources/arxiv-2609-17885/) — 2026-09-15
   ERPBench evaluates screenshot-only agents in enterprise software using database values to check the business records produced by their actions. It pairs these state-based checks with a harness for human approval and analyzes cases where visible completion masks incorrect persisted data.
+- [RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation](https://awesomecua.com/resources/arxiv-2609-16900/) — 2026-09-15
+  Introduces RiskChainBench, pairing obfuscated-message restoration with web-agent investigation of linked sites in labeled local web environments.
 - [When Agents See Differently: Exposing UI Desynchronization Threats in Mobile Agents](https://awesomecua.com/resources/arxiv-2609-16732/) — 2026-09-15
   Investigates mismatches between what humans see on a mobile display and what agents receive through screenshots or accessibility metadata. An automated evaluation framework embeds instruction-agnostic perturbations into functional APK clones and compares static and dynamic agent deviations with human noticeability.
 - [CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design](https://awesomecua.com/resources/arxiv-2609-16251/) — 2026-09-14
   CADWorld evaluates screenshot-and-GUI agents on long FreeCAD workflows, from modeling and assembly to manufacturing and simulation. Executable checks inspect saved engineering artifacts for geometry, constraints, construction structure and downstream state.
 - [Learning from Reliable Negatives: Confidence-Anchored Test-Time Adaptation for GUI Grounding](https://awesomecua.com/resources/arxiv-2609-15307/) — 2026-09-14
   Confidence-Anchored Learning uses coordinate-token confidence to filter pseudo-supervision for GUI grounding. Its negative-only variant performs label-free test-time updates to reduce reliance on potentially incorrect positive examples.
+- [CoArena: Evaluating Computer-Use and Multi-Agent Systems in Real Time](https://awesomecua.com/resources/arxiv-2609-14239/) — 2026-09-13
+  Introduces CoArena, an evaluation method where user tasks run concurrently in sandboxed desktops and blind pairwise judgments update a public leaderboard.
 - [PriMobiBench: Characterizing Visual Privacy Leakage in VLM-Driven Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2609-13873/) — 2026-09-12
   PriMobiBench evaluates direct privacy leakage and user profiling from mobile GUI screenshot trajectories, supported by the MobiLeak trace dataset. It also tests masking sensitive, task-irrelevant interface elements before cloud processing and measures the resulting privacy and utility trade-off.
+- [VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets](https://awesomecua.com/resources/arxiv-2609-12404/) — 2026-09-11
+  Introduces VRL-Bench to compare trial-and-error learning for computer-control agents under limited attempts, and VEX² to schedule exploration and exploitation.
 - [JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](https://awesomecua.com/resources/arxiv-2609-10451/) — 2026-09-09
   JarvisGUI composes typed input-output task transformations into dynamic workflows spanning Android, Windows and Ubuntu devices. Its virtual-environment benchmark tests transfer of intermediate results, shared state and cross-device dependencies.
 - [GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment](https://awesomecua.com/resources/arxiv-2609-10031/) — 2026-09-09
   GraphDroid combines clustered memory of visited GUI states with asynchronous test-intent generation. A hybrid executor reserves LLM calls for complex intents and uses heuristics for simpler ones, evaluated through Android app coverage, bug discovery and crash detection.
 - [APPSim-Bench: Bridging Real-world Apps and Reproducible Evaluation for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2609-07712/) — 2026-09-07
   Introduces controlled simulated mobile apps with deterministic backend data and outcome checks for reproducible evaluation of realistic interactions.
+- [FinCUABuild: Can Agents Build Reliable Benchmarks for Dynamic Financial Computer Use?](https://awesomecua.com/resources/arxiv-2609-07603/) — 2026-09-07
+  Introduces FinCUABuildBench for assessing financial computer-use task construction and FinCUABuildAgent for generating tasks, environments, and validators.
 - [AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents](https://awesomecua.com/resources/arxiv-2609-09212/) — 2026-09-06
   AgentHijack evaluates whether visual patch effects propagate from screenshots through model outputs and action parsing into real environment changes. Its controlled web-page experiments distinguish intermediate attack signals from verified end-to-end consequences.
+- [OmniStepBench: Deployment-Aware Agent Evaluation across Modalities and Task Complexity](https://awesomecua.com/resources/arxiv-2609-06059/) — 2026-09-05
+  Introduces OmniStepBench, a shared-environment benchmark for evaluating multimodal agents on multi-step tasks, tool use, and delivered artifacts under one scoring protocol.
 - [From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2609-04869/) — 2026-09-04
   An online skill-evolution framework turns GUI interaction traces and evaluator feedback into a versioned library of reusable procedures without updating model parameters. Controlled OSWorld comparisons examine both the benefits of shared procedural memory and its domain-dependent instability under repeated revision.
 - [ElderBench: Benchmarking Autonomous Mobile Agents for Older Adults](https://awesomecua.com/resources/arxiv-2609-04850/) — 2026-09-04
   ElderBench evaluates mobile GUI agents on smartphone requests elicited from older adults, including indirect and underspecified language. Online and offline tests, instruction normalization and linguistic analyses examine how these request patterns contribute to failures.
 - [Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents](https://awesomecua.com/resources/arxiv-2609-03438/) — 2026-09-03
   CONFLICTGUI evaluates termination under instruction conflicts and mismatches between instructions and interface context. CONFLICTGUARD couples feasibility checks with conditional action modulation to reduce unnecessary execution while tracking normal-task behavior.
+- [Beyond the Verdict: Evidence-Aligned Evaluation of Visual Prompt-Injection Guardrails](https://awesomecua.com/resources/arxiv-2609-05535/) — 2026-09-02
+  Introduces Mind2Web-Injection, a benchmark for evaluating web-agent guardrail decisions on instruction-screenshot pairs using evidence boxes and image-side counterfactuals.
 - [Discriminative World Models for Web Agents](https://awesomecua.com/resources/arxiv-2609-02885/) — 2026-09-02
   Trains discriminative web world models to distinguish the true next state from outcomes of alternative actions. Branching web trajectories support training, followed by tests of predicted-state matching, process-reward action ranking and end-to-end WebArena-Lite selection.
+- [CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction](https://awesomecua.com/resources/arxiv-2609-02401/) — 2026-09-02
+  Introduces CA-OPD, a confidence-guided distillation method for visual prediction, evaluated on GUI grounding and optical character recognition benchmarks.
 - [WiP: Characterizing and Defending Against Mobile-Agent-Driven MFA Automation](https://awesomecua.com/resources/arxiv-2609-02154/) — 2026-09-02
   Studies how mobile automation can combine authentication factors within one agent environment and evaluates motion sensing as a user-presence signal.
 - [Monitoring Web Agents Without Internal Signals: Observable Trajectories and Key-Step Supervision](https://awesomecua.com/resources/arxiv-2609-02057/) — 2026-09-02
@@ -214,14 +320,22 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces AdaptRubric, which retrieves reusable criteria for a GUI task family and then generates instruction-specific checks for concrete values and constraints. It evaluates these adaptive rubrics in offline reward assessment and online agent optimization.
 - [Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments](https://awesomecua.com/resources/arxiv-2608-24099/) — 2026-08-25
   Introduces AnTrap, which injects task-solvable runtime anomalies into Android GUI-agent trajectories using a layered failure taxonomy. It compares model robustness and adversarial reinforcement learning to distinguish recoverable interface traps from persistent contextual failures.
+- [ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts](https://awesomecua.com/resources/arxiv-2608-22510/) — 2026-08-23
+  Introduces ClawProBench, a trace-aware benchmark for agents on OpenClaw that scores workspace and native-runtime tasks using execution traces, safety checks, and process quality.
 - [GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding](https://awesomecua.com/resources/arxiv-2608-21832/) — 2026-08-22
   Introduces GUI-Primitives, a paired-instruction benchmark that changes a spatial relation while holding the screenshot and anchor fixed. Its diagnostics separate failure to localize either candidate from failure to choose the candidate satisfying the relation.
 - [Lexical Coupling in GUI Element Grounding: Sentence Embeddings Track Labels across Mobile and Web](https://awesomecua.com/resources/arxiv-2608-21794/) — 2026-08-22
   Studies whether text-embedding GUI grounding scores reflect semantic matching or recovery of visible labels. Same-screen ranking comparisons with lexical baselines expose differences between deployable fusion, oracle selection, and performance on label-poor targets.
+- [Benchmarking General Mobile Assistants in Challenging Real-World Scenarios](https://awesomecua.com/resources/arxiv-2608-27477/) — 2026-08-21
+  Introduces GMA, a benchmark of 300 mobile-assistant tasks across seven applications, and studies how agent context retention and state tracking affect complex workflows.
+- [Automated Trajectory Evaluation for Mobile Agents via Step-Level Consequence Reasoning and Aggregation](https://awesomecua.com/resources/arxiv-2608-20797/) — 2026-08-21
+  Introduces CRATE, a step-level visual judge for mobile-agent trajectories, and CRATE-S for assessing operational safety from action-conditioned state changes.
 - [ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2608-18307/) — 2026-08-18
   ComponentBench evaluates short interactions with canonical web UI components using verified tasks and matched human reference trajectories. Its diagnostic pipeline compares observation/action representations and analyzes structural difficulty, failure patterns and interaction efficiency.
 - [MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps](https://awesomecua.com/resources/arxiv-2608-17659/) — 2026-08-18
   Evaluates environmental injection risks in Android tasks using programmatic risk checks and model-based adjudication of ambiguous cases.
+- [Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://awesomecua.com/resources/arxiv-2608-17310/) — 2026-08-18
+  Introduces Agentic ESOpt, an evolution-strategies fine-tuning framework for long-horizon agents, evaluated on WebArena-Lite web tasks and automatic heuristic design.
 - [Improving LLM-based Autonomous Web Agents with Filtering](https://awesomecua.com/resources/arxiv-2609-27770/) — 2026-08-16
   Trains HTML-element relevance filters on Mind2Web trajectories and transfers them to WebArena to reduce irrelevant browser context. It also evaluates a zero-shot ColBERT retriever and documents baseline web-agent failure modes.
 - [Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions](https://awesomecua.com/resources/arxiv-2608-14132/) — 2026-08-14
@@ -234,12 +348,24 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   DSAgentBench evaluates end-to-end data-science workflows spanning analysis, modeling and visualization inside a real desktop environment. Task evaluators check produced analytical and visual artifacts, while the released interface supports screenshot or accessibility observations and GUI actions.
 - [Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching](https://awesomecua.com/resources/arxiv-2608-09654/) — 2026-08-10
   This framework separates frozen-model instruction expansion from a trained layout-aware matcher that localizes GUI elements without coordinate regression. Binary text/icon supervision supports the matcher, with evaluations on GUI grounding and Mind2Web element-selection tasks.
+- [Software Engineering for and with GUI Agent](https://awesomecua.com/resources/arxiv-2608-09278/) — 2026-08-10
+  Surveys 336 GUI-agent papers through a software engineering lens, covering architectures, evaluation, and lifecycle concerns in mobile and web settings.
 - [CAP: A Scalable Benchmark for Evaluating Cross-Site Browser Agents with Complex Actions and Perception](https://awesomecua.com/resources/arxiv-2608-08392/) — 2026-08-09
   CAP builds cross-site browser workflows by decomposing websites into operation and perception requirements and recomposing them into tasks. Its judge-based evaluation diagnoses complex interactions and visual-perception failures across real websites.
+- [Back to the Future: A workbook time machine for spread sheet creation benchmarks](https://awesomecua.com/resources/arxiv-2608-07873/) — 2026-08-08
+  Introduces the workbook time machine to create spreadsheet-object tasks and wtmbench to evaluate spreadsheet manipulation agents using different control interfaces.
 - [RealGUINoise: An Interactive Cross-Platform Benchmark for GUI Agent Robustness under Real-World Interface Noise](https://awesomecua.com/resources/arxiv-2609-38184/) — 2026-08-07
   Evaluates interactive GUI agents under varied realistic interface noise, comparing task completion, safety, and behavior with clean-environment runs.
 - [AndroidReality: How Far Are Mobile Agents from the Real World?](https://awesomecua.com/resources/arxiv-2608-07775/) — 2026-08-07
   Extends AndroidWorld with controlled state, transition, and action perturbations to test mobile-agent robustness, and studies a training-free introspective recovery mechanism.
+- [SynChain: Inducing Computer-Use Agent Systems to Construct Their Own Attack Chains](https://awesomecua.com/resources/arxiv-2608-06862/) — 2026-08-07
+  Introduces SynChain, an attack that induces persistent agents to create poisoned skills or memory entries, and CUAChain for evaluating later attack-chain activation.
+- [WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance](https://awesomecua.com/resources/arxiv-2608-06704/) — 2026-08-07
+  Introduces WebRider, a live-web agent that maintains intent contracts while carrying out guarded browser actions, and RiderBench for auditing those contracts across websites.
+- [StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection](https://awesomecua.com/resources/arxiv-2608-06477/) — 2026-08-06
+  Introduces StepJack, a benchmark of indirect prompt injections that split an adversarial goal across pages on a computer-use agent's web navigation path.
+- [WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://awesomecua.com/resources/arxiv-2608-06474/) — 2026-08-06
+  Introduces WebGrader, a programmatic grader for website generation that plans interaction flows, runs them in a live browser, and uses observed outcomes as RL rewards.
 - [Routing Is Least Learnable Where It Is Most Valuable: Bounds on Representation Routing for Web Agents](https://awesomecua.com/resources/arxiv-2608-06171/) — 2026-08-06
   Measures the complementarity, cost and rerun variability of six browser observation modes on WebArena and VisualWebArena. Its routing experiments distinguish an oracle cost opportunity from policies that fail to robustly outperform a fixed observation mode.
 - [StepReflect: Structured UI Transition Reflection for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2608-05587/) — 2026-08-06
@@ -256,34 +382,52 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   GUI-Lens uses OCR and detected interface components as coordinate references while a general-purpose VLM selects progressively enlarged screenshot crops. Instruction-conditioned checks constrain the crop and click proposals before mapping the final location back to the original screen.
 - [Qwen-CUA: Native Computer Use for (almost) Everything](https://awesomecua.com/resources/arxiv-2608-02352/) — 2026-08-03
   Qwen-CUA operates through screenshots and keyboard/mouse events while compressing older visual history into reusable context blocks. Its report combines verifiable task generation, trajectory-based training and separate browser and Bash-augmented studies.
+- [Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2608-02018/) — 2026-08-03
+  Introduces II-Bench for low-harm indirect prompt injections against computer-use agents and HITLCUA for testing them in virtual-machine and web environments with simulated user review.
+- [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://awesomecua.com/resources/arxiv-2608-01964/) — 2026-08-03
+  Introduces LongHorizon-Harness, which maintains verified task state outside an agent's execution context and audits subtasks; its evaluations include OSWorld~2.0.
 - [CUADebug: Diagnosing and Repairing Computer-Use Agent Failures](https://awesomecua.com/resources/arxiv-2608-02643/) — 2026-07-31
   CUADebug combines a failure taxonomy and human-annotated OSWorld failure trajectories with an agent that locates causal steps and proposes corrections from screenshots and action traces. It evaluates root-cause diagnosis separately from controlled task re-execution and failure recovery.
+- [Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion](https://awesomecua.com/resources/arxiv-2607-29199/) — 2026-07-31
+  Presents a paired diagnostic of prompt guardrails in GUI agents under screen-grounded user persuasion, comparing single-turn probes with four-turn escalation.
 - [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://awesomecua.com/resources/arxiv-2607-28609/) — 2026-07-30
   Introduces OSReward and its harder and multidimensional variants for assessing judgments of computer-use trajectories. It also releases a reasoning-annotated judgment corpus and trains reward models, examining reliability, leniency bias, and evaluation cost.
 - [Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs](https://awesomecua.com/resources/arxiv-2607-28573/) — 2026-07-30
   Examines inference-time scaling for local computer-use models by varying context, step budgets, decomposition, and parallel execution. OSWorld experiments track both task performance and changing failure modes, exposing cases where extra computation extends errors or adds coordination overhead.
 - [How Benchmarks Mis-Score Computer-Use Agents](https://awesomecua.com/resources/arxiv-2607-28367/) — 2026-07-30
   Audits failure-scored computer-use trajectories to distinguish agent errors from broken tasks and evaluator false negatives. It organizes reliability issues across task construction, trajectory evidence, scoring, and reporting, then derives corresponding evaluation design practices.
+- [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](https://awesomecua.com/resources/arxiv-2607-27155/) — 2026-07-29
+  Introduces OmegaUse-OfficeVal, a benchmark for long-horizon office-suite agent tasks with labor-time and price signals, plus rubric-based code verifiers.
 - [Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?](https://awesomecua.com/resources/arxiv-2607-26041/) — 2026-07-28
   Introduces Desktop-Delta Bench, an offline diagnostic of GUI transition understanding using temporal-ordering tasks and before/after action inference. It includes decoy observations to test whether models track the source and task relevance of screen changes.
 - [Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification](https://awesomecua.com/resources/arxiv-2607-25904/) — 2026-07-28
   Introduces an Interactive Reward Agent that proposes completion conditions and verifies them using system, application, and GUI tools after execution. GUI-RewardBench provides annotated desktop trajectories for evaluating these evidence-based judgments and their use in reinforcement learning.
 - [SeekJudge: A Practical Reward Framework for Reinforcement Learning in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2607-23263/) — 2026-07-25
   Introduces SeekJudge, which iteratively searches and analyzes GUI trajectories to assess instruction fulfillment. The work combines dense judgment-data synthesis, a step-label benchmark, and reward-server scheduling to study accurate and practical reward feedback for agent training.
+- [DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations](https://awesomecua.com/resources/arxiv-2607-19865/) — 2026-07-22
+  Introduces DocOps, a verifiable benchmark for agents handling complex digital-document workflows, with analysis of state tracking, semantic checks, and structural edits.
 - [Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents](https://awesomecua.com/resources/arxiv-2607-18659/) — 2026-07-21
   Measures how autonomous LLM browser agents interact with commercial bot-management and anti-automation defenses on the web.
+- [Teach it to stop, not just to click](https://awesomecua.com/resources/arxiv-2607-17136/) — 2026-07-19
+  Studies verifier-guided repair of a 35B computer-use agent across five environments, examining variation across runs and data draws in done detection, GUI clicks, and field entry.
 - [EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding](https://awesomecua.com/resources/arxiv-2607-17050/) — 2026-07-19
   Introduces EvoGUI, which derives temporal ordering, inverse action/value prediction, and successor-discrimination probes from recorded GUI trajectories. Its web-derived benchmark isolates transition understanding from the other abilities involved in end-to-end task success.
+- [Just A Rather Very Intelligent Spoken Agent](https://awesomecua.com/resources/arxiv-2607-16610/) — 2026-07-18
+  Introduces JarvisBench, a benchmark for spoken mediation during long-horizon agent workflows, measuring task collaboration and how users follow ongoing execution.
 - [Beyond Sequential Interaction: Benchmarking Parallel Execution and Coordination for GUI Agents](https://awesomecua.com/resources/arxiv-2607-22689/) — 2026-07-17
   Introduces ParaGUIBench, with tasks and efficiency measurements for coordinated GUI agents operating separate desktop instances over a shared file system. Its ParaGUI planner-worker system decomposes tasks and dispatches concurrent subtasks for comparison with serial execution.
 - [Tactile: Giving Computer-Using Agents Hands and Feet](https://awesomecua.com/resources/arxiv-2607-14443/) — 2026-07-16
   Tactile turns accessibility, OCR and visual evidence into explicit desktop targets with executable actions and verification cues. Its execution loop chooses semantic actions or coordinate fallbacks while retaining provenance for replay and diagnosis.
 - [A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism](https://awesomecua.com/resources/arxiv-2607-12640/) — 2026-07-14
   Studies a controlled setting where GRPO fails to improve a strong small web agent and can reduce text-track performance. Matched reachable-reward tasks and component grafting distinguish limited optimization headroom from learning-rate-dependent failure mechanisms.
+- [Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability](https://awesomecua.com/resources/arxiv-2607-12056/) — 2026-07-13
+  Proposes an agent-ready website design framework for e-commerce browser agents and compares it with a human-oriented site on shopping tasks, outcomes, steps, and token use.
 - [The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory](https://awesomecua.com/resources/arxiv-2607-10608/) — 2026-07-12
   The Entry–Propagation–Recovery framework traces where conflicting memory first changes an agent action, how the effect propagates and whether recovery occurs. WebArena and the controlled MemTrapBench separate memory-consumption failures across these stages.
 - [MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation](https://awesomecua.com/resources/arxiv-2607-10079/) — 2026-07-11
   MAG jointly evaluates browser task actions and user-facing guides grounded in screenshots through element marks or pixel coordinates. Its harness covers annotation, live evaluation and joint metrics, with an expert-trajectory-augmented GRPO training study.
+- [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](https://awesomecua.com/resources/arxiv-2607-08768/) — 2026-07-09
+  Introduces UniClawBench, a benchmark of proactive agents on bilingual real-world tasks, evaluated in live Docker containers with stepwise checkpoints and simulated user feedback.
 - [WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation](https://awesomecua.com/resources/arxiv-2607-06118/) — 2026-07-07
   WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success does not translate into useful task completion.
 - [Agent Data Injection Attacks are Realistic Threats to AI Agents](https://awesomecua.com/resources/arxiv-2607-05120/) — 2026-07-06
@@ -296,16 +440,24 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   DigitalCoach records expert–novice software coaching conversations aligned with screen and input events. Automated and interactive evaluations examine how model coaches differ from humans in explanation, error diagnosis and visual grounding when helping a learner operate software.
 - [Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-31270/) — 2026-06-30
   Uses failed computer-use trajectories to diagnose failure modes and generate inference-time agent code patches, with light human verification. An OSWorld study evaluates this failure-driven improvement loop without additional model training.
+- [PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks](https://awesomecua.com/resources/arxiv-2606-31154/) — 2026-06-30
+  Introduces PPT-Eval, a benchmark of PowerPoint creation and editing tasks for computer-use agents, with rubrics that score partial progress and presentation quality.
 - [On the Internet, Nobody Knows You're an LLM Bot: Unmasking Web Agents with Multi-Layer Fingerprinting](https://awesomecua.com/resources/arxiv-2606-30119/) — 2026-06-29
   Evaluates web agents against anti-bot mechanisms on instrumented honeysites and analyzes network, HTTP and browser fingerprints. The study compares resistance to blocking with the ability to distinguish agents, humans and agent implementations.
 - [One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding](https://awesomecua.com/resources/arxiv-2606-30084/) — 2026-06-29
   InnerZoom preserves target-region cues from intermediate decoder layers and reinjects a compact evidence state during coordinate decoding. Its single-forward GUI grounder is compared with crop-and-rerun zooming and matched supervised/RL baselines for accuracy and inference cost.
+- [SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows](https://awesomecua.com/resources/arxiv-2606-29955/) — 2026-06-29
+  Introduces SpreadsheetBench 2, a benchmark of multi-sheet business spreadsheet workflows for agents, covering generation, debugging, and visualization tasks.
 - [OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks](https://awesomecua.com/resources/arxiv-2606-29537/) — 2026-06-28
   Introduces extended computer-use workflows with realistic artifacts, changing information, hidden state, and partial-progress and safety assessments.
 - [Agent-Computer Observation Interfaces Enable Dynamic Computer Use](https://awesomecua.com/resources/arxiv-2606-29472/) — 2026-06-28
   The Agent-Computer Observation Interface separates continuous perception from discrete computer actions using captured frames, audio transcription and persistent visual narration. DynaCU-Bench tests these components on dynamic browser tasks and static controls, with model-specific ablations showing that additional observations can also hurt.
+- [Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction](https://awesomecua.com/resources/arxiv-2606-29445/) — 2026-06-28
+  Introduces VG-GUIBench to evaluate GUI agents following video tutorials, and TASKER to select task-relevant keyframes for video-guided tasks and VideoQA.
 - [TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents](https://awesomecua.com/resources/arxiv-2606-28480/) — 2026-06-26
   TUA-Bench evaluates terminal-use agents on general digital tasks, including document editing, email, web information seeking and specialist software workflows. Tasks run in real terminals with deterministic setup and execution-based scoring.
+- [Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents](https://awesomecua.com/resources/arxiv-2606-27595/) — 2026-06-25
+  Introduces Ko-WideSearch, a Korean web-agent benchmark that asks agents to find every member of a set and fill a table of attributes for each member.
 - [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://awesomecua.com/resources/arxiv-2606-25760/) — 2026-06-24
   Argus benchmarks post-hoc uncertainty methods for single-step GUI grounding across open-weight and closed-source observation regimes. It tests calibration, rejection, error severity and conformal click regions, finding that uncertainty rankings transfer less reliably across model/interface regimes than across datasets for one model.
 - [VisCritic: Visual State Comparison as Process Reward for GUI Agents](https://awesomecua.com/resources/arxiv-2606-24525/) — 2026-06-23
@@ -318,6 +470,10 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   AgentCIBench evaluates whether computer-use agents disclose information in ways that violate its original context. Deterministically scored scenarios test nearby sensitive UI content, ambiguous requests and recipient mismatches, including end-to-end agent execution.
 - [ENVS: Environment-Native Verified Search for Long-Horizon GUI Agents](https://awesomecua.com/resources/arxiv-2606-22948/) — 2026-06-22
   ENVS branches over GUI actions in live desktop VMs, verifies successful leaves, and converts them into balanced step-level training supervision. It also introduces OSWorld-Noisy to test recovery from dynamic interruptions while retaining the underlying tasks.
+- [When AUC 0.998 Is Not Enough: A Candidate Evaluation Protocol for Hidden-State Probes of Indirect Prompt Injection in Multimodal Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-22864/) — 2026-06-22
+  Proposes diagnostic controls for hidden-state probes of indirect prompt injection in multimodal computer-use agents, using a teacher-forced Mind2Web case study.
+- [Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents](https://awesomecua.com/resources/arxiv-2606-22673/) — 2026-06-21
+  Introduces Agent MechSuits, a framework that detects unsafe states and steers multi-turn CLI agents through hidden-representation interventions, alongside the MAS trajectory benchmark.
 - [MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop](https://awesomecua.com/resources/arxiv-2606-22557/) — 2026-06-21
   Introduces macOS tasks spanning GUI and command-line interaction, with deterministic checks and intermediate-progress scoring for application workflows.
 - [ChainWorld: Composing Long-Horizon Desktop Workloads from Atomic OSWorld Tasks](https://awesomecua.com/resources/arxiv-2606-21654/) — 2026-06-19
@@ -326,12 +482,16 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Builds a logging framework that combines network/protocol fingerprints with browser interaction behavior to attribute web-agent traffic. A decision-tree classifier is evaluated across six agent implementations, human browsing and conventional crawlers.
 - [Fara-1.5: Scalable Learning Environments for Computer Use Agents](https://awesomecua.com/resources/arxiv-2606-20785/) — 2026-06-18
   Builds browser-agent training trajectories with live and synthetic environments, solvers, user simulation, and complementary correctness and efficiency verifiers.
+- [OctoNest: Adaptive Cross-Device Execution through Stateful Control](https://awesomecua.com/resources/arxiv-2606-20487/) — 2026-06-18
+  Introduces OctoNest, which coordinates device agents, revises task assignments from execution feedback, and switches local interaction modalities; CAPEBench evaluates cross-device tasks.
 - [Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining](https://awesomecua.com/resources/arxiv-2606-20363/) — 2026-06-18
   Segments and clusters GUI trajectories into inspectable skills, then trains a skill-aware policy from those annotations. Its diagnostic results distinguish readable source-domain clusters from reliable transfer and report limited or absent downstream gains.
 - [MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://awesomecua.com/resources/arxiv-2606-19930/) — 2026-06-18
   MobileForge couples real-app exploration and generated tasks with hierarchical feedback for mobile-agent adaptation. Its optimizer turns trajectory outcomes, step feedback and corrective hints into contextualized GRPO updates, with evaluation on AndroidWorld and a GUI-only MobileWorld split.
 - [HANSEL: Extracting Breadcrumbs from Web Agent Trajectories for Interactive Verification](https://awesomecua.com/resources/arxiv-2606-18671/) — 2026-06-17
   HANSEL extracts evidence pages and snippets from browser-agent traces and preserves relevant page state in interactive verification views. It flags untraceable answers and evaluates evidence selection and human verification effort separately.
+- [When Web Agents Finish but Still Fail: Reproducible Triggers and Trace Diagnostics for Parallel Web Exploration](https://awesomecua.com/resources/arxiv-2606-20724/) — 2026-06-16
+  Introduces Parallel WebBench for parallel web exploration and uses verified URL trajectories to diagnose search loops, incomplete answers, and failures after evidence retrieval.
 - [MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents](https://awesomecua.com/resources/arxiv-2606-20717/) — 2026-06-16
   MIRAGE evaluates targeted next-action hijacking from adversarial images restricted to legitimate third-party webpage regions. It combines diffusion-based image generation with execution-aware optimization and tests the constrained visual-injection setting on web-agent frameworks.
 - [Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?](https://awesomecua.com/resources/arxiv-2606-19388/) — 2026-06-16
@@ -352,12 +512,18 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Compares online skill and memory augmentations with a vanilla web agent given the same total inference-token budget. Across WebArena and WorkArena settings, it studies when module overhead removes aggregate gains and how rerun variability changes conclusions.
 - [PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions](https://awesomecua.com/resources/arxiv-2606-14832/) — 2026-06-12
   PhoneHarness routes phone workflows across GUI actions, device-side commands and host tools while retaining auditable execution traces. Its accompanying benchmark checks observable task side effects, separating mixed-action execution from plausible final-answer generation.
+- [Running the Gauntlet: Hard Agentic Tasks](https://awesomecua.com/resources/arxiv-2606-14397/) — 2026-06-12
+  Introduces GauntletBench, a web-based benchmark of vision-intensive tasks in five professional applications for assessing agent perception, 3D reasoning, and generalisation.
 - [Naive Visual Memory is Not Enough: A Failure-Mode Study of GUI Agents](https://awesomecua.com/resources/arxiv-2606-14106/) — 2026-06-12
   This study finds that full-image visual memory can reduce some state errors while worsening action-level failures. Its AGMem alternative stores local crops associated with successful actions or recovery and evaluates their use in desktop GUI tasks.
+- [A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets](https://awesomecua.com/resources/arxiv-2606-13802/) — 2026-06-11
+  Introduces a benchmark and online evaluation method for predicting the next spreadsheet action from a user's action history, using curated action sequences.
 - [Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents](https://awesomecua.com/resources/arxiv-2606-13385/) — 2026-06-11
   StakeBench evaluates prompt-injection harm to different stakeholders in shopping web-agent workflows. Its executable cases separate attack objectives and assess both outcomes and execution processes to reveal how the same attack pattern can affect different parties.
 - [ComAct: Reframing Professional Software Manipulation via COM-as-Action Paradigm](https://awesomecua.com/resources/arxiv-2606-13239/) — 2026-06-11
   ComAct proposes COM program synthesis as an alternative interface for manipulating professional software and introduces ComCADBench with GUI-based comparison agents. ComActor adds a staged training and correction approach, supported by a Windows-container training platform.
+- [Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach](https://awesomecua.com/resources/arxiv-2606-13192/) — 2026-06-11
+  Introduces UXBench for diagnosing usability issues from UI screenshots and UI-UX, a reinforcement-trained model for reasoning about those interface problems.
 - [A History-Aware Visually Grounded Critic for Computer Use Agents](https://awesomecua.com/resources/arxiv-2606-11078/) — 2026-06-09
   HiViG combines a compact history of completed actions with a visually grounded critic that checks proposed coordinates before execution. Its evaluations separate history-related planning failures from errors caused by targeting the wrong screen element.
 - [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://awesomecua.com/resources/arxiv-2606-11042/) — 2026-06-09
@@ -374,6 +540,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   MacArena runs computer-use tasks through Apple’s virtualization framework on Apple Silicon, combining task ports with macOS-native workloads. It distinguishes the ported and native subsets when examining agent performance and cross-platform transfer.
 - [DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions](https://awesomecua.com/resources/arxiv-2606-06322/) — 2026-06-04
   DragOn supplies drag-grounding training data and a held-out benchmark for highlighting text, selecting cells, resizing elements and moving sliders. It evaluates existing vision-language models and a model fine-tuned on the drag tasks.
+- [PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://awesomecua.com/resources/arxiv-2606-05697/) — 2026-06-04
+  Introduces PerceptUI, a persona-conditioned model for predicting how particular users answer questions about interfaces, supporting synthetic UI/UX evaluation.
 - [Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming](https://awesomecua.com/resources/arxiv-2606-05233/) — 2026-06-03
   Introduces CUA-HandCrafted, a browser-agent red-teaming benchmark that varies attack templates, tasks and system prompts. Its domain comparison and reproducibility audit caution against transferring browser-surface safety conclusions to coding agents or unreleased optimized injections.
 - [Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms](https://awesomecua.com/resources/arxiv-2606-04701/) — 2026-06-03
@@ -382,10 +550,28 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   MedCUA-Bench evaluates screenshot-only clinical interface workflows using paired intent- and step-level goals. It combines reconstructed medical interfaces with completion and clinical-safety checks, and separately reports results on a real OpenEMR system.
 - [DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration](https://awesomecua.com/resources/arxiv-2606-03103/) — 2026-06-02
   DeskCraft evaluates professional desktop workflows and human-agent collaboration through mid-execution clarification, interruption and post-completion feedback. Its tasks cover creative applications and expose difficulties in long-horizon execution and proactive clarification.
+- [Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models](https://awesomecua.com/resources/arxiv-2606-02208/) — 2026-06-01
+  Studies staged prompting for automated mobile UI element annotation, comparing workflow depths and element groupings on expert-annotated MUIAnno screens.
+- [OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents](https://awesomecua.com/resources/arxiv-2606-02031/) — 2026-06-01
+  Introduces OpenWebRL, a framework for training visual web agents with online multi-turn reinforcement learning on live websites, including browser infrastructure and success judging.
 - [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](https://awesomecua.com/resources/url-beb8f1fd6b945ffc9d93/) — 2026-06
   GUI-SAGE generates reasoning conditioned on known actions and weights policy updates using confidence and reward signals. Its experiments use AndroidControl and GUIOdyssey data and separately evaluate interactive AndroidWorld tasks.
+- [PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails](https://awesomecua.com/resources/arxiv-2607-20482/) — 2026-05-30
+  Introduces PersonaTrail, a benchmark for personalized web agents using browsing histories, and PACMem, a structured memory method for guiding navigation.
+- [Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism](https://awesomecua.com/resources/arxiv-2606-00408/) — 2026-05-29
+  Studies when masking older retrieved pages helps long-horizon search agents manage context, using offline and live-web search benchmarks and analysis of reopened pages.
+- [BlueFin: Benchmarking LLM Agents on Financial Spreadsheets](https://awesomecua.com/resources/arxiv-2605-30907/) — 2026-05-29
+  Introduces BlueFin, a benchmark and evaluation framework for agents handling professional finance spreadsheet workbooks through synthesis, manipulation, and comprehension tasks.
+- [DiffSpot: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?](https://awesomecua.com/resources/arxiv-2605-29615/) — 2026-05-28
+  DiffSpot benchmarks detection of fine visual changes in rendered web interfaces using image pairs created by single-property CSS mutations.
 - [PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents](https://awesomecua.com/resources/arxiv-2605-29486/) — 2026-05-28
   Introduces PhoneWorld, which converts observed app pages, transitions and state changes into executable Android environments through a build-inspect-repair process. Generated tasks and programmatic verifiers support benchmarking, trajectory collection and online training.
+- [Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](https://awesomecua.com/resources/arxiv-2605-29447/) — 2026-05-28
+  GUI-RobustEval measures how GUI agents recover from their own errors, while RoTS synthesizes recovery trajectories for training on varied failure modes.
+- [Revisiting Observation Reduction for Web Agents: Comprehensive Evaluation with a Lightweight Framework](https://awesomecua.com/resources/arxiv-2605-29397/) — 2026-05-28
+  Introduces a lightweight framework for evaluating HTML reduction in web agents, using Minimal Failure Set coverage to assess pruning and optimize latency.
+- [GTA: Generating Long-Horizon Tasks for Web Agents at Scale](https://awesomecua.com/resources/arxiv-2605-29218/) — 2026-05-28
+  GTA generates multi-hop web-agent tasks and executable trajectories through crawling, retrieval, and validation, releasing a benchmark built from over 50 websites.
 - [MaskClaw: Edge-Side Personalized Privacy Arbitration for GUI Agents with Behavior-Driven Skill Evolution](https://awesomecua.com/resources/arxiv-2605-28646/) — 2026-05-27
   MaskClaw makes local Allow, Mask or Ask decisions before GUI screenshots leave a trusted environment, using visual evidence and personalized policy memory. Its benchmark and designed evolution scenarios test how corrections and edits can become privacy skills checked by a sandbox gate.
 - [GUI Agents for Continual Game Generation](https://awesomecua.com/resources/arxiv-2605-28258/) — 2026-05-27
@@ -396,46 +582,82 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Describes asynchronous reinforcement-learning infrastructure using parallel cloud-hosted Android instances, explicit task lifecycles, and persistent-state management for mobile GUI interaction.
 - [AndroidDaily: A Verifiable Benchmark for Mobile GUI Agents on Real-World Closed-Source Applications](https://awesomecua.com/resources/arxiv-2605-27761/) — 2026-05-26
   AndroidDaily evaluates mobile GUI agents on daily workflows in closed-source Android apps. Its GRADE evaluator follows visual trajectories against operational obligations, output-quality requirements and negative constraints, producing process-level diagnostics without hidden app state.
+- [Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](https://awesomecua.com/resources/arxiv-2605-27134/) — 2026-05-26
+  HyperTrack provides mobile GUI navigation tasks across Chinese apps, while GUIEvalKit benchmarks VLM agents offline and supports analysis of training scale and history.
+- [ChartAct: A Benchmark for Dynamic Chart Understanding](https://awesomecua.com/resources/arxiv-2605-26994/) — 2026-05-26
+  ChartAct benchmarks multimodal models and GUI agents on interactive charts from websites, requiring actions such as hovering or zooming to answer questions.
+- [Anchor: Preventing Artifact Drift for Reliable Agent Verification](https://awesomecua.com/resources/arxiv-2605-26321/) — 2026-05-25
+  Anchor builds ERP-Bench by generating procurement and manufacturing tasks with shared state verifiers for evaluating browser and computer-use agents.
 - [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://awesomecua.com/resources/arxiv-2605-26114/) — 2026-05-25
   Introduces MobileGym, a browser-hosted simulation of mobile app interactions whose configurable JSON state supports deterministic judging and parallel rollouts. MobileGym-Bench adds parameterized tasks, with experiments examining online training and transfer to real devices.
 - [Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World](https://awesomecua.com/resources/arxiv-2605-26086/) — 2026-05-25
   Claw-Anything benchmarks persistent personal assistance across activity histories, backend services and integrated GUI/CLI interaction. Its simulated event histories introduce irrelevant or conflicting context, and a separate generation pipeline supplies training environments.
+- [AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions](https://awesomecua.com/resources/arxiv-2605-25707/) — 2026-05-25
+  Introduces AgentHijack, a benchmark for desktop computer-use agents facing pop-ups, resolution changes and other common corruptions, alongside an agent that checks its environment.
 - [ScaleWoB: Guiding GUI Agents with Coding Agents via Large-Scale Environmental Synthesis](https://awesomecua.com/resources/arxiv-2605-25160/) — 2026-05-24
   Introduces ScaleWoB, which synthesizes interactive GUI environments as backend-free webpages with verifiable rewards. Its mobile-oriented benchmark evaluates agent execution and compares selected synthetic tasks with real-app behavior.
 - [VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents](https://awesomecua.com/resources/arxiv-2605-26144/) — 2026-05-22
   VISTA evaluates coding agents that turn design handoffs into working web and Android applications. Its evaluator locates annotated interactive components and probes their behavior, keeping visual localization distinct from functional correctness.
+- [Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning](https://awesomecua.com/resources/arxiv-2605-22642/) — 2026-05-21
+  Spreadsheet-RL trains spreadsheet agents with RL in a Microsoft Excel environment exposed through a Python sandbox and supplies the Domain-Spreadsheet benchmark.
+- [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://awesomecua.com/resources/arxiv-2605-20833/) — 2026-05-20
+  MemGym benchmarks agent memory across several task regimes, including computer use on WebArena-Infinity, with scores designed to isolate memory performance.
 - [OpenComputer: Verifiable Software Worlds for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2605-19769/) — 2026-05-19
   Introduces OpenComputer, which builds desktop tasks around application-state verifiers and refines those verifiers using execution feedback. An evaluation harness records trajectories and assigns auditable partial credit across professional software workflows.
+- [CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing](https://awesomecua.com/resources/arxiv-2605-19484/) — 2026-05-19
+  Cutverse benchmarks GUI agents on long editing workflows across professional media applications and parses recordings and input logs into grounded action trajectories.
 - [MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](https://awesomecua.com/resources/arxiv-2605-18652/) — 2026-05-18
   MementoGUI learns a controller for selecting, compressing and retrieving textual and region-level visual memories while leaving the GUI-agent backbone fixed. It also converts computer-use traces into controller training data and evaluates semantic actions, progress and memory consistency on long-horizon tasks.
 - [DocOS: Towards Proactive Document-Guided Actions in GUI Agents](https://awesomecua.com/resources/arxiv-2605-18048/) — 2026-05-18
   DocOS benchmarks agents that search online documentation and translate procedural instructions into GUI actions in interactive web environments. It separates failures to retrieve useful procedures from failures to ground retrieved instructions into executable actions.
 - [MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding](https://awesomecua.com/resources/arxiv-2605-17656/) — 2026-05-17
   MUIAnno provides expert labels for elements in manually explored mobile-app screens, with a web annotation tool that emits structured JSON. It also supplies UI-element detection baselines for the dataset.
+- [DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents](https://awesomecua.com/resources/arxiv-2605-17439/) — 2026-05-17
+  DiagEval diagnoses failed GUI-agent evaluations of interactive software by reusing failed trajectories for targeted probes that distinguish execution errors from defects.
 - [SE-GA: Memory-Augmented Self-Evolution for GUI Agents](https://awesomecua.com/resources/arxiv-2605-16883/) — 2026-05-16
   SE-GA retrieves hierarchical memories during inference and uses the collected experience in a separate policy-improvement pipeline. Its evaluation includes offline grounding/action tasks and online Android interaction, which measure different capabilities.
+- [ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents](https://awesomecua.com/resources/arxiv-2605-16116/) — 2026-05-15
+  ShopGym builds sandbox e-commerce storefronts from live shops and generates catalog-grounded tasks for evaluating web shopping agents in resettable environments.
+- [PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control](https://awesomecua.com/resources/arxiv-2605-15963/) — 2026-05-15
+  Introduces PAGE Bench for point-precise geometric GUI construction and PAGER, an agent that plans around primitive dependencies and executes pixel-level actions.
 - [SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?](https://awesomecua.com/resources/arxiv-2605-15777/) — 2026-05-15
   SaaS-Bench evaluates browser agents on professional workflows across self-hosted applications. Weighted checkpoints measure task completion and partial progress, with application-state checks and configured content judges documented in the official harness.
+- [Orchard: An Open-Source Agentic Modeling Framework](https://awesomecua.com/resources/arxiv-2605-15040/) — 2026-05-14
+  Orchard provides an environment service and training recipes for several agent domains, including Orchard-GUI, a vision-language computer-use agent.
+- [Beyond Binary: Reframing GUI Critique as Continuous Semantic Alignment](https://awesomecua.com/resources/arxiv-2605-14311/) — 2026-05-14
+  BBCritic ranks candidate GUI-agent actions through instruction–action alignment, while BBBench evaluates fine-grained ranking with a hierarchical action taxonomy.
 - [WinDeskGround: A Benchmark for Robust GUI Grounding in Complex Multi-Window Desktop Environments](https://awesomecua.com/resources/arxiv-2605-16402/) — 2026-05-13
   WinDeskGround synthesizes multi-window desktop layouts with controlled occlusion, density and semantic similarity to test GUI grounding robustness. Its instruction-target benchmark measures how localization changes when interfaces depart from simple single-layer scenes.
 - [Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](https://awesomecua.com/resources/arxiv-2605-12501/) — 2026-05-12
   Introduces CUActSpot to evaluate clicks, drags, drawing and other screen interactions across GUI, text, tables, canvases and natural images. A renderer-based pipeline records geometry and screenshots, then generates matching instructions and action traces for training a grounding model.
 - [LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues](https://awesomecua.com/resources/arxiv-2605-12493/) — 2026-05-12
   LongMemEval-V2 asks memory systems to recover environment knowledge from long web-agent histories for question answering. Its AgentRunbook variants contrast indexed knowledge pools with coding-agent retrieval from stored trajectory files.
+- [WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation](https://awesomecua.com/resources/arxiv-2605-10912/) — 2026-05-11
+  WildClawBench evaluates CLI agents on long, multimodal tasks in Docker containers with real tools, using task checks, side-effect audits, and a semantic judge.
 - [How Mobile World Model Guides GUI Agents?](https://awesomecua.com/resources/arxiv-2605-10347/) — 2026-05-11
   Compares mobile world models that predict state changes as delta text, full text, images or renderable code. Downstream Android benchmarks examine synthetic training trajectories and test-time guidance, including limits of post-action reflection.
 - [What Happens Before Decoding? Prefill Determines GUI Grounding in VLMs](https://awesomecua.com/resources/arxiv-2605-12549/) — 2026-05-10
   Re-Prefill adds an attention-guided second prefill pass that revisits candidate screen regions before coordinate generation. The study evaluates this training-free intervention across GUI-grounding models and benchmarks.
 - [Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces](https://awesomecua.com/resources/arxiv-2605-09497/) — 2026-05-10
   DUDE combines asymmetric hybrid-reward learning with summaries of deceptive-interface failures to guide safer web actions. Its RUC benchmark evaluates deception susceptibility alongside ordinary task performance across interface scenarios.
+- [OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents](https://awesomecua.com/resources/arxiv-2605-08876/) — 2026-05-09
+  OTora generates attacks that increase reasoning and tool use in multi-step LLM agents while preserving task outcomes; evaluations include WebShop agents.
 - [MMTB: Evaluating Terminal Agents on Multimedia-File Tasks](https://awesomecua.com/resources/arxiv-2605-10966/) — 2026-05-08
   MultiMedia-TerminalBench evaluates agents that use terminal tools to work with audio and video files. The Terminus-MM harness adds multimedia perception to study how accessible evidence changes executable workflows and task outcomes.
+- [Computer Use at the Edge of the Statistical Precipice](https://awesomecua.com/resources/arxiv-2605-08261/) — 2026-05-07
+  DigiWorld is a sandboxed mobile-app benchmark for computer-use agents, paired with PRISM environment principles and a confidence-interval aggregation method.
 - [WAAA! Web Adversaries Against Agentic Browsers](https://awesomecua.com/resources/arxiv-2605-05509/) — 2026-05-06
   Evaluates agentic browsers against classical web attacks and visual social-engineering lures beyond indirect prompt injection.
+- [Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents](https://awesomecua.com/resources/arxiv-2605-02729/) — 2026-05-04
+  A study adapts interface usability heuristics for computer-use agents and evaluates augmented designs in UI-Verse, a suite of controlled interface environments.
+- [AcademiClaw: When Students Set Challenges for AI Agents](https://awesomecua.com/resources/arxiv-2605-02661/) — 2026-05-04
+  AcademiClaw benchmarks OpenClaw agents on long academic workflows, scoring task completion in isolated Docker sandboxes with rubrics and a safety audit.
 - [A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction](https://awesomecua.com/resources/arxiv-2605-00551/) — 2026-05-01
   A11y-Compressor transforms linearized accessibility trees through modal detection, redundancy reduction and semantic structuring. Its OSWorld evaluation measures both observation-token reduction and task success.
 - [Exploring LLM Agent Designs and Interaction Modalities for Scientific Visualization](https://awesomecua.com/resources/arxiv-2604-27996/) — 2026-04-30
   This study compares specialized, computer-use and coding agents on scientific visualization workflows. It examines GUI, CLI, code and tool-call interaction modes, including how persistent memory changes performance across repeated trials.
+- [FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting](https://awesomecua.com/resources/arxiv-2604-27974/) — 2026-04-30
+  FineState-Bench tests whether GUI agents locate the intended control and set its exact state across desktop, web, and mobile interfaces, with stage-wise diagnostic metrics.
 - [WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments](https://awesomecua.com/resources/arxiv-2604-27776/) — 2026-04-30
   Introduces WindowsWorld for professional workflows spanning multiple desktop applications, with generated tasks refined through human review. Intermediate subgoals support process-oriented evaluation of cross-application reasoning and execution efficiency.
 - [AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling](https://awesomecua.com/resources/arxiv-2604-27253/) — 2026-04-29
@@ -454,12 +676,20 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   AutoGUI-v2 evaluates interface functionality, grounding and predicted interaction outcomes using hierarchical regions derived through VLM-human annotation. Its tasks span multiple operating systems and expose differences between functional localization, captioning and transition-logic understanding.
 - [OS-SPEAR: A Toolkit for the Safety, Performance,Efficiency, and Robustness Analysis of OS Agents](https://awesomecua.com/resources/arxiv-2604-24348/) — 2026-04-27
   Provides an evaluation toolkit for joint safety, efficiency, and multimodal robustness analysis of operating-system GUI agents.
+- [Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces](https://awesomecua.com/resources/arxiv-2606-13686/) — 2026-04-26
+  Introduces WebDecept, a plugin for injecting deceptive e-commerce interface patterns during web-agent tasks and evaluating how multimodal agents respond.
+- [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://awesomecua.com/resources/arxiv-2604-22748/) — 2026-04-24
+  Survey of agentic world models that classifies predictive capabilities and governing laws, including the digital setting of web and GUI agents.
 - [VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://awesomecua.com/resources/arxiv-2604-21375/) — 2026-04-23
   VLAA-GUI combines mandatory checks for visually supported completion, multi-tier loop recovery and on-demand workflow search. Optional coding and grounding agents support execution, with component ablations on Linux and Windows GUI tasks.
 - [PlayCoder: Making LLM-Generated GUI Code Playable](https://awesomecua.com/resources/arxiv-2604-19742/) — 2026-04-21
   PlayEval measures whether generated GUI applications remain logically playable, using PlayTester to execute task-oriented GUI playthroughs. PlayCoder closes the loop between repository-aware generation, interactive testing and targeted code repair.
+- [AutomationBench](https://awesomecua.com/resources/arxiv-2604-18934/) — 2026-04-21
+  Introduces AutomationBench, a benchmark for agents coordinating business workflows across applications through REST APIs, including endpoint discovery and policy adherence.
 - [Temporal UI State Inconsistency in Desktop GUI Agents: Formalizing and Defending Against TOCTOU Attacks on Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-18860/) — 2026-04-20
   This study examines UI changes between a desktop agent’s screenshot observation and action dispatch. Its pre-execution state checks address overlay and focus manipulation, while the reported DOM-injection blind spot limits the defense’s coverage.
+- [Human-Guided Harm Recovery for Computer Use Agents](https://awesomecua.com/resources/arxiv-2604-18847/) — 2026-04-20
+  Introduces a preference-trained reward model for guiding computer-use agents out of harmful states and BackBench, a benchmark of recovery tasks.
 - [AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation](https://awesomecua.com/resources/arxiv-2604-18240/) — 2026-04-20
   AJ-Bench evaluates judge agents that actively gather evidence from search, data systems and graphical interfaces. Its annotated tasks and trajectories test information acquisition, state verification and process verification.
 - [On the Reliability of Computer Use Agents](https://awesomecua.com/resources/arxiv-2604-17849/) — 2026-04-20
@@ -472,22 +702,38 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces FedGUI, a federated GUI-learning benchmark built from six datasets spanning mobile, web and desktop interfaces. Its experiments separate platform, device, operating-system and data-source heterogeneity when evaluating collaborative training.
 - [Beyond Chat and Clicks: GUI Agents for In-Situ Assistance via Live Interface Transformation](https://awesomecua.com/resources/arxiv-2604-14668/) — 2026-04-16
   DOMSteer translates help requests and live page context into reversible DOM changes such as control highlighting, contextual tooltips and layout reorganization. The work evaluates in-place GUI assistance with interface tests, use cases and a comparative user study.
+- [Zoom Consistency: A Free Confidence Signal in Multi-Step Visual Grounding Pipelines](https://awesomecua.com/resources/arxiv-2604-15376/) — 2026-04-15
+  Proposes zoom consistency as a confidence signal for multistep GUI grounding and uses it to route between specialist and generalist visual grounding models.
 - [GUI-Perturbed: Domain Randomization Reveals Systematic Brittleness in GUI Grounding Models](https://awesomecua.com/resources/arxiv-2604-14262/) — 2026-04-15
   Introduces GUI-Perturbed, which varies screenshot appearance and instruction wording independently to diagnose grounding failures. Experiments on three related model architectures examine relational instructions, browser zoom and augmentation-based fine-tuning.
+- [RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management](https://awesomecua.com/resources/arxiv-2604-13531/) — 2026-04-15
+  Introduces RiskWebWorld, an interactive benchmark of e-commerce risk-management tasks for GUI agents on websites, with Gymnasium infrastructure for evaluation and agentic RL.
 - [WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents](https://awesomecua.com/resources/arxiv-2604-12284/) — 2026-04-14
   WebAgentGuard separates prompt-injection detection from the operating web agent through a parallel multimodal guard. The guard is trained on synthetic visual/textual examples using reasoning-focused supervised fine-tuning followed by reinforcement learning.
 - [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://awesomecua.com/resources/arxiv-2604-11784/) — 2026-04-13
   Presents ClawGUI, a shared harness for GUI-agent reinforcement learning, benchmark evaluation and deployment on mobile devices. It combines parallel virtual and physical environments, process rewards, and hybrid CLI-GUI execution with persistent memory.
+- [CocoaBench: Evaluating Unified Digital Agents in the Wild](https://awesomecua.com/resources/arxiv-2604-11201/) — 2026-04-13
+  Introduces CocoaBench, a benchmark for unified digital agents on long-horizon tasks combining vision, search, and coding, including capabilities related to GUI automation.
 - [WebForge: Breaking the Realism-Reproducibility-Scalability Trilemma in Browser Agent Benchmark](https://awesomecua.com/resources/arxiv-2604-10988/) — 2026-04-13
   Presents WebForge, a pipeline that plans, generates, refines and validates self-contained interactive websites. WebForge-Bench uses these environments to evaluate browser agents across domains and controlled difficulty levels.
+- [The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-10577/) — 2026-04-12
+  Introduces OS-BLIND, a computer-use agent safety benchmark for harmful outcomes arising from benign instructions and threats in task environments.
 - [HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks](https://awesomecua.com/resources/arxiv-2604-09937/) — 2026-04-10
   Introduces HealthAdminBench with GUI environments for an electronic health record, payer portals and fax handling. Expert-defined administrative tasks are decomposed into verifiable subtasks to compare local progress with end-to-end workflow completion.
 - [CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation](https://awesomecua.com/resources/arxiv-2604-09155/) — 2026-04-10
   Introduces CORA, which calibrates a risk model to choose between executing and abstaining from mobile GUI actions, then diagnoses rejected actions to suggest interventions. Phone-Harm provides step-level safety labels for evaluating this safeguarding process.
 - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://awesomecua.com/resources/arxiv-2604-08523/) — 2026-04-09
   Introduces ClawBench, 153 everyday tasks on production websites in 15 categories; an interception layer blocks each final submission so bookings, purchases and job applications are scored without side effects.
+- [KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation](https://awesomecua.com/resources/arxiv-2604-08455/) — 2026-04-09
+  Introduces KnowU-Bench, an Android emulator benchmark for mobile agents that evaluates preference elicitation, proactive decisions, consent and GUI task execution.
+- [Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems](https://awesomecua.com/resources/arxiv-2604-07929/) — 2026-04-09
+  Presents a trace-level framework for comparing GUI agents with people on task outcomes, queries, and interface navigation in a production audio-search application.
 - [Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection](https://awesomecua.com/resources/arxiv-2604-07831/) — 2026-04-09
   This study tests black-box GUI-grounding failures caused by strategically added, innocuous-looking UI elements. Its iterative overlay search is compared with random injection and repeated independent grounding trials to distinguish persistent misdirection from incidental clutter.
+- [Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking](https://awesomecua.com/resources/arxiv-2606-15673/) — 2026-04-08
+  Introduces WebStep, a web-agent benchmark that records semantic states behind GUI interactions to analyze exploration, execution accuracy, and decisive errors across task steps.
+- [GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents](https://awesomecua.com/resources/arxiv-2604-07429/) — 2026-04-08
+  Introduces GameWorld, a browser-game benchmark that evaluates multimodal agents through keyboard and mouse controls or semantic actions using outcome checks.
 - [What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning](https://awesomecua.com/resources/arxiv-2604-06995/) — 2026-04-08
   Introduces UILoop, which inserts explicit UI-element localization, function and usage reasoning between screen observation and action. UI Comprehension-Bench evaluates these element-level capabilities with three metrics.
 - [WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks](https://awesomecua.com/resources/arxiv-2604-06367/) — 2026-04-07
@@ -498,30 +744,50 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Trains IntentScore on offline desktop GUI interactions to assess candidate actions using both their state relevance and planning intent. The reward model is evaluated as an action reranker for Agent S3 on OSWorld.
 - [Comparing Human Oversight Strategies for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-04918/) — 2026-04-06
   Compares four human oversight strategies during live web-agent sessions, examining exposure to problematic actions and opportunities to intervene. The analysis identifies timing and attention problems in control handoffs and upfront plan approval.
+- [Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw](https://awesomecua.com/resources/arxiv-2604-04759/) — 2026-04-06
+  Introduces a safety evaluation of OpenClaw and the CIK taxonomy for analyzing how changes to a personal agent's persistent state affect attacks on its local and service access.
 - [GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis](https://awesomecua.com/resources/arxiv-2604-04399/) — 2026-04-06
   GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces rather than relying on one holistic trajectory score.
 - [The Art of Building Verifiers for Computer Use Agents](https://awesomecua.com/resources/arxiv-2604-06240/) — 2026-04-05
   Describes a web-trajectory verifier built around structured rubrics, separate process and outcome judgments, and explicit treatment of uncontrollable failures. CUAVerifierBench supplies human labels for evaluating these choices and screenshot-based context management.
 - [OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments](https://awesomecua.com/resources/arxiv-2605-18758/) — 2026-04-03
   OmniGUI evaluates step-level action prediction from interleaved smartphone screenshots, synchronous audio and video. Expert demonstrations carry multimodal-dependency annotations, and initial baselines use native multimodal models as agent proxies to study temporal and audio-related failures.
+- [The Tool Illusion: Rethinking Tool Use in Web Agents](https://awesomecua.com/resources/arxiv-2604-03465/) — 2026-04-03
+  Presents a controlled study of higher-level tool use in web agents across tool sources, backbone models, frameworks, and evaluation benchmarks.
+- [AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-02947/) — 2026-04-03
+  Introduces AgentHazard, a benchmark of harmful multi-step behavior by computer-use agents acting through tools, files, and execution environments.
 - [Do Phone-Use Agents Respect Your Privacy?](https://awesomecua.com/resources/arxiv-2604-00986/) — 2026-04-01
   Introduces MyPhoneBench to verify whether phone-use agents minimize personal data disclosure when filling forms during benign mobile tasks.
+- [When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation](https://awesomecua.com/resources/arxiv-2604-00892/) — 2026-04-01
+  Introduces InterruptBench, a WebArena-Lite-derived benchmark that tests how long-horizon web-navigation agents handle mid-task user additions, revisions, and retractions.
 - [PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding](https://awesomecua.com/resources/arxiv-2604-00886/) — 2026-04-01
   PixelPrune removes pixel-redundant patches before the vision encoder, reducing both encoding and downstream language-model work. The training-free method evaluates lossless and controlled-lossy compression on document and GUI tasks.
+- [Terminal Agents Suffice for Enterprise Automation](https://awesomecua.com/resources/arxiv-2604-00073/) — 2026-03-31
+  Studies enterprise automation by terminal agents that call platform APIs, comparing their task results and cost with other agent approaches, including web agents using graphical interfaces.
 - [PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent](https://awesomecua.com/resources/arxiv-2603-29318/) — 2026-03-31
   PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences rather than measuring generic task completion alone.
 - [Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild](https://awesomecua.com/resources/arxiv-2603-29020/) — 2026-03-30
   Audits sources of ambiguity and operational variation in WebVoyager evaluation and introduces standardized guidance for task setup, failure handling, annotation and reporting. Emergence WebVoyager applies this protocol to a web-agent evaluation.
+- [StressWeb: A Diagnostic Benchmark for Web Agent Robustness under Realistic Interaction Variability](https://awesomecua.com/resources/arxiv-2604-16385/) — 2026-03-27
+  Introduces a web-agent stress-testing benchmark with controlled changes to layouts, interaction semantics, and execution for diagnosing behavior under varied conditions.
+- [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://awesomecua.com/resources/arxiv-2603-26648/) — 2026-03-27
+  Introduces Vision2Web, a benchmark for website development from images, spanning UI-to-code, multi-page frontend and full-stack tasks, with a GUI agent verifier and VLM-based judge.
 - [GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](https://awesomecua.com/resources/arxiv-2603-25864/) — 2026-03-26
   GUIDE evaluates whether models can recognize a user’s behavior, infer intent and decide when to offer help during open-ended software tasks. It uses narrated screen recordings of novice users and studies the effect of additional user context on these assistance decisions.
 - [WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing](https://awesomecua.com/resources/arxiv-2603-25226/) — 2026-03-26
   Introduces WebTestBench for end-to-end website testing, separating checklist generation from defect detection. Its WebTester baseline evaluates test coverage, detection and sustained interaction across web application categories.
 - [CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2603-24440/) — 2026-03-25
   CUA-Suite combines continuous expert desktop demonstrations in VideoCUA with the UI-Vision evaluation benchmark and GroundCUA grounding data. Screen recordings, cursor traces and layered annotations support study of temporal behavior and professional software workflows.
+- [Towards Automated Crowdsourced Testing via Personified-LLM](https://awesomecua.com/resources/arxiv-2603-24160/) — 2026-03-25
+  Introduces PersonaTester, a framework that gives LLM agents tester personas to vary their exploration and interaction habits during automated crowdsourced GUI testing.
 - [CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare](https://awesomecua.com/resources/arxiv-2603-24157/) — 2026-03-25
   CareFlow benchmarks long healthcare-software workflows, while CarePilot coordinates action proposals, execution checks and corrective feedback using short- and long-term memory. Its actor consumes visual interfaces and system state to select semantic actions.
 - [AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2603-23007/) — 2026-03-24
   AgentRAE studies notification-based visual backdoors that redirect mobile GUI-agent actions. Its training separates sensitivity to icon differences from trigger/action association, with evaluations of clean behavior and targeted redirection.
+- [IntentWeave: A Progressive Entry Ladder for Multi-Surface Browser Agents in Cloud Portals](https://awesomecua.com/resources/arxiv-2603-22917/) — 2026-03-24
+  Introduces IntentWeave, a design space and browser-extension prototype for placing web-agent assistance across browser surfaces, evaluated through a study of three entry strategies.
+- [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](https://awesomecua.com/resources/arxiv-2603-22862/) — 2026-03-24
+  Surveys multi-tool LLM agents across planning, training, safety, efficiency, and evaluation, including GUI and mobile systems among its application areas.
 - [Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos](https://awesomecua.com/resources/arxiv-2603-22529/) — 2026-03-23
   Ego2Web pairs first-person videos with online tasks that require agents to connect the user’s physical context to web actions. It also evaluates an automatic task judge against human judgments and analyzes failures in video understanding and web execution.
 - [MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI](https://awesomecua.com/resources/arxiv-2603-19993/) — 2026-03-20
@@ -540,8 +806,14 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   This public red-teaming study evaluates indirect prompt injection that both changes agent behavior and hides the compromise from the final response. Its scenarios include computer use alongside tool calling and coding, with analyses of transfer and model-dependent vulnerability.
 - [GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2603-15039/) — 2026-03-16
   GUI-CEval evaluates Chinese mobile GUI agents through a hierarchy of atomic abilities and application-level tasks collected on physical devices. Its diagnostics cover perception, planning, reflection, execution and post-action evaluation across a broad set of apps.
+- [Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective](https://awesomecua.com/resources/arxiv-2603-14248/) — 2026-03-15
+  Presents a hierarchical planning framework for evaluating web agents at planning, execution and replanning stages, and reports low-level execution as the main failure source.
 - [Adaptive Vision-Language Model Routing for Computer Use Agents](https://awesomecua.com/resources/arxiv-2603-12823/) — 2026-03-13
   Adaptive VLM Routing estimates GUI-action difficulty and small-model confidence to select a model under a predicted reliability threshold. Grounding and agent-routing benchmarks assess the cost–accuracy trade-off, with prior interaction context used for warm agents.
+- [AI Planning Framework for LLM-Based Web Agents](https://awesomecua.com/resources/arxiv-2603-12710/) — 2026-03-13
+  Introduces a planning taxonomy and trajectory-quality metrics for web agents, supported by 794 human-labeled WebArena trajectories and a comparison of two planning styles.
+- [You Told Me to Do It: Measuring Instructional Text-induced Private Data Leakage in LLM Agents](https://awesomecua.com/resources/arxiv-2603-11862/) — 2026-03-12
+  Introduces ReadSecBench, a README-based benchmark for measuring whether high-privilege agents follow injected instructions that leak private data; a computer-use agent is evaluated.
 - [CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents](https://awesomecua.com/resources/arxiv-2603-10577/) — 2026-03-11
   CUAAudit examines vision-language models that judge computer-use task completion from an instruction and final environment state. Across macOS, Windows and Linux benchmarks, it measures accuracy, confidence calibration and disagreement between auditors.
 - [SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments](https://awesomecua.com/resources/arxiv-2603-10268/) — 2026-03-10
@@ -562,8 +834,14 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Studies webpage injections that affect both screenshots and accessibility trees, then trains web agents through teacher imitation, supervised adversarial examples, and adversarial reinforcement learning. The evaluation tests defenses on MiniWoB++ and held-out tasks.
 - [CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning](https://awesomecua.com/resources/arxiv-2603-02951/) — 2026-03-03
   Combines supervised and reinforcement fine-tuning for continual GUI learning, using policy entropy to adjust their proportions and gradient projection to limit conflicting updates. AndroidControl-CL groups applications into sequential tasks to evaluate adaptation and retention.
+- [MobiFlow: Real-World Mobile Agent Benchmarking through Trajectory Fusion](https://awesomecua.com/resources/arxiv-2604-09587/) — 2026-02-28
+  Introduces MobiFlow, a mobile-agent evaluation framework that fuses task trajectories into a state graph for dynamic interaction with third-party apps and measures task outcomes.
 - [Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding](https://awesomecua.com/resources/arxiv-2604-09581/) — 2026-02-25
   Avenir-UX combines grounded web interaction with simulated user profiles and structured usability measures to produce evaluations of website journeys. The paper describes its architecture and use of SUS, step-wise ease questions and think-aloud traces for automated UX reporting.
+- [ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices](https://awesomecua.com/resources/arxiv-2602-21858/) — 2026-02-25
+  ProactiveMobile benchmarks mobile agents on inferring latent user intent from device context and generating executable sequences from a pool of 63 APIs.
+- [Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization](https://awesomecua.com/resources/arxiv-2604-09574/) — 2026-02-24
+  Introduces the Agent Humanization Benchmark (AHB) and mobile touch-dynamics data to assess whether GUI agents' interactions resemble human touch behavior.
 - [Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History](https://awesomecua.com/resources/arxiv-2602-17003/) — 2026-02-19
   Persona2Web tests whether web agents can resolve ambiguous requests using preferences implicit in a user’s history. Its reasoning-aware evaluation compares agent architectures and history-access strategies on personalized tasks on the open web.
 - [MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://awesomecua.com/resources/arxiv-2602-16313/) — 2026-02-18
@@ -610,6 +888,10 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   AutoElicit iteratively revises benign instructions using execution feedback to surface harmful unintended actions by computer-use agents in OS workflows.
 - [Mapping the Design Space of User Experience for Computer Use Agents](https://awesomecua.com/resources/arxiv-2602-07283/) — 2026-02-07
   Develops a taxonomy of computer-use-agent interaction design through system review and practitioner interviews. A Wizard-of-Oz study then examines how users respond to normal, erroneous, and risky web-based execution, focusing on control, explanation, prompts, and mental models.
+- [VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics](https://awesomecua.com/resources/arxiv-2604-06182/) — 2026-02-06
+  Introduces VenusBench-Mobile, an online benchmark for mobile GUI agents with user-intent-driven tasks and capability annotations for analyzing agent behavior and failures.
+- [PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents](https://awesomecua.com/resources/arxiv-2603-03296/) — 2026-02-06
+  Introduces PlugMem, a knowledge-graph memory module for general LLM agents, evaluated on web-agent tasks alongside conversational question answering and knowledge retrieval.
 - [ANCHOR: Branch-Point Data Generation for GUI Agents](https://awesomecua.com/resources/arxiv-2602-07153/) — 2026-02-06
   ANCHOR expands verified desktop demonstrations by generating new tasks at meaningful branch points and executing their instructions. State-aware verification and action filtering refine the resulting trajectories, which are evaluated through fine-tuned agents on OSWorld and WindowsAgentArena.
 - [Do Web Agents Investigate Before They Decide?](https://awesomecua.com/resources/arxiv-2602-05354/) — 2026-02-05
@@ -768,6 +1050,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   OSWorld-MCP evaluates how agents choose between GUI operations and MCP tool calls in computer tasks. It combines generated and curated tools, with 158 manually validated tools across seven applications, to examine tool use alongside task completion.
 - [OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://awesomecua.com/resources/arxiv-2510-24411/) — 2025-10-28
   Introduces MobileRisk-Live and OS-Sentinel, combining a formal verifier for system-level violations with a multimodal judge for contextual risks in mobile GUI workflows.
+- [Mitigating Coordinate Prediction Bias from Positional Encoding Failures](https://awesomecua.com/resources/arxiv-2510-22102/) — 2025-10-25
+  Introduces Vision-PE Shuffle Guidance (VPSG), a training-free correction for coordinate drift in visual models, evaluated for localization on ScreenSpot-Pro.
 - [GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](https://awesomecua.com/resources/arxiv-2510-20333/) — 2025-10-23
   Introduces GhostEI-Bench, a benchmark that injects deceptive UI events into Android emulator workflows to assess mobile agents and analyze failures from actions and screenshots.
 - [SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoning over Complex and Large Spreadsheets](https://awesomecua.com/resources/arxiv-2510-19247/) — 2025-10-22
@@ -950,6 +1234,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Builds GUI task data with real-world interaction anomalies and evaluates how agent behavior changes under those conditions.
 - [AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://awesomecua.com/resources/arxiv-2506-14205/) — 2025-06-17
   AgentSynth composes easily generated subtasks into longer computer-use tasks and trajectories with adjustable difficulty. Its evaluation uses the number of subtasks to probe how agent success changes as task complexity grows.
+- [FormGym: Doing Paperwork with Agents](https://awesomecua.com/resources/arxiv-2506-14079/) — 2025-06-17
+  Introduces FormGym, a benchmark for filling image-only forms, and FieldFinder, a tool that helps LLMs locate where to place text on those forms.
 - [Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System](https://awesomecua.com/resources/arxiv-2506-08972/) — 2025-06-10
   UI-NEXUS evaluates compositional mobile tasks in local utility apps and online Chinese and English service apps. AGENT-NEXUS decomposes those long tasks into self-contained atomic subtasks to study generalization beyond isolated screens or short action chains.
 - [FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents](https://awesomecua.com/resources/arxiv-2507-21071/) — 2025-06-09

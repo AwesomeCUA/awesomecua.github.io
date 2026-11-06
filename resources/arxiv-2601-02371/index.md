@@ -14,7 +14,7 @@ Proposes agent-permissions.json, a website manifest for declaring which interact
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract presents a proposed coordination mechanism, without reporting an empirical evaluation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-02371/record.json
 

@@ -14,7 +14,7 @@ CUADebug combines a failure taxonomy and human-annotated OSWorld failure traject
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-02643/record.json
 

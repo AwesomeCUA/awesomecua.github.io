@@ -14,7 +14,7 @@ Standardizes virtual machines, interaction pipelines, and agent interfaces to co
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-40284/record.json
 

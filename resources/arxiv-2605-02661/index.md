@@ -1,20 +1,20 @@
 # AcademiClaw: When Students Set Challenges for AI Agents
 
-Bibliographic record for AcademiClaw: When Students Set Challenges for AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+AcademiClaw benchmarks OpenClaw agents on long academic workflows, scoring task completion in isolated Docker sandboxes with rubrics and a safety audit.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2605-02661/
 - Original source: https://arxiv.org/abs/2605.02661
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-11-01T20:31:09Z
+- Topics: evaluation, long-horizon, sandbox, safety-security
+- Evidence checked: 2026-11-05T23:02:47Z
 - ID: arxiv:2605.02661
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-02661/record.json
 
@@ -46,3 +46,4 @@ Junjie Yu, Pengrui Lu, Weiye Si, Hongliang Lu, Jiabao Wu, Kaiwen Tao, Kun Wang, 
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2604.24696%2C2605.02661%2C2605.06717%2C2605.08703%2C2605.13831%2C2605.14271%2C2605.14678%2C2605.27882%2C2607.05804%2C2607.08768&max_results=10 (retrieved 2026-11-01T20:31:09Z; SHA-256 a36304119442bb445e509560a71f2425314b744898011b6026e4da97a82ba37d)
+- https://export.arxiv.org/api/query?id_list=2604.12666%2C2604.13018%2C2604.13346%2C2604.13488%2C2604.13531%2C2604.13954%2C2604.13969%2C2604.14872%2C2604.15376%2C2604.15579%2C2604.15715%2C2604.16385%2C2604.17562%2C2604.18779%2C2604.18847%2C2604.18934%2C2604.19299%2C2604.19572%2C2604.19667%2C2604.20279%2C2604.20987%2C2604.22436%2C2604.22558%2C2604.22748%2C2604.23772%2C2604.23781%2C2604.24479%2C2604.24696%2C2604.25235%2C2604.26653%2C2604.27955%2C2604.27974%2C2604.28093%2C2604.28138%2C2604.28139%2C2604.28181%2C2605.00425%2C2605.00497%2C2605.00642%2C2605.01462%2C2605.02168%2C2605.02240%2C2605.02661%2C2605.02729%2C2605.03042%2C2605.03231%2C2605.03242%2C2605.04811%2C2605.05191%2C2605.05811&max_results=50 (retrieved 2026-11-05T23:02:47Z; SHA-256 11ea6f148f4267ab78e85b8f03a9b3855298f73a199b8d904ba553a647d43ee2)

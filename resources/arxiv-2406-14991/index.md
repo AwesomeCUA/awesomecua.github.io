@@ -14,7 +14,7 @@ SpreadsheetBench evaluates LLM spreadsheet manipulation with 912 questions from 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark tests spreadsheet manipulation; the abstract does not specify GUI interaction. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-14991/record.json
 

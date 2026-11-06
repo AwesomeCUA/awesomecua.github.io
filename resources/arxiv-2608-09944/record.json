@@ -81,7 +81,7 @@
     }
   ],
   "name": "Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents",
-  "notes": "Packaged tasks use recorded linear transition graphs. Reported model experiments use a text-input validation subset, so their results are not evidence of screenshot-based navigation performance. No results were independently reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 Interface states and task annotations; 3.4 Evaluation; 4.1 Models and experimental setup; 5 Discussion); not an entire-paper reading or reproduction claim.",
+  "notes": "Packaged tasks use recorded linear transition graphs. Reported model experiments use a text-input validation subset, so their results are not evidence of screenshot-based navigation performance. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 Interface states and task annotations; 3.4 Evaluation; 4.1 Models and experimental setup; 5 Discussion).",
   "published_at": "2026-07-01",
   "relations": [],
   "review_status": "curated",

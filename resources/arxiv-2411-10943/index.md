@@ -14,7 +14,7 @@ Surveys virtual agents for browsers, applications and operating systems, organiz
 
 ## Limitations
 
-Reviewed the complete retained arXiv abstract and exact-version official HTML sections on browser/application/OS environments, screen observations, input actions and evaluation. The HTML abstract fingerprint and ordered authors match the retained Atom entry. Literature claims and experiments were not independently reproduced.
+Reviewed the complete retained arXiv abstract and exact-version official HTML sections on browser/application/OS environments, screen observations, input actions and evaluation. The HTML abstract fingerprint and ordered authors match the retained Atom entry.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-10943/record.json
 

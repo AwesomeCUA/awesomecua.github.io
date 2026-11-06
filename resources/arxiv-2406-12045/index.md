@@ -14,7 +14,7 @@ Bibliographic record for $τ$-bench: A Benchmark for Tool-Agent-User Interaction
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-12045/record.json
 

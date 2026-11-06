@@ -14,7 +14,7 @@ AUI-Gym evaluates generated websites by having computer-use agents attempt tasks
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-15567/record.json
 

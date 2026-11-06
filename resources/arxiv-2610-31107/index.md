@@ -14,7 +14,7 @@ Bibliographic record for Learning What to Ask for Tomorrow: Active Preference Ac
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-31107/record.json
 

@@ -14,7 +14,7 @@ Proposes Signal-Driven Observation: a separate call selects relevant DOM element
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced. The abstract presents an architecture proposal and open problems, without reporting an empirical evaluation.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract presents an architecture proposal and open problems, without reporting an empirical evaluation.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-06708/record.json
 

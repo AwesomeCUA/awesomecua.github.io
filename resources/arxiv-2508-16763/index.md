@@ -14,7 +14,7 @@ Introduces WebMMU, a multilingual benchmark for website visual question answerin
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). It evaluates website understanding and code generation, not direct operation of website tasks. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-16763/record.json
 

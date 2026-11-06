@@ -86,12 +86,15 @@
     }
   ],
   "name": "ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent",
-  "notes": "Adjacent work on embedded assistance in two instrumented visual-analytics systems. Its in-lab user-study evidence is context-specific, and the paper discusses clarification and intervention-control trade-offs. General GUI-agent performance is not inferred. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (5.3 User study; 5.3.2 Observed issues; 6.1 Design trade-off; 6.2 Limitations); not an entire-paper reading or reproduction claim.",
+  "notes": "Adjacent work on embedded assistance in two instrumented visual-analytics systems. Its in-lab user-study evidence is context-specific, and the paper discusses clarification and intervention-control trade-offs. General GUI-agent performance is not inferred. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (5.3 User study; 5.3.2 Observed issues; 6.1 Design trade-off; 6.2 Limitations).",
   "published_at": "2025-07-24",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Studies proactive assistance in visual-analytics interfaces, using interaction logs to detect support needs and provide context-aware suggestions and guidance.",
+  "task_classes": [
+    "R11.07.01.03"
+  ],
   "topics": [
     "human-in-the-loop",
     "planning"

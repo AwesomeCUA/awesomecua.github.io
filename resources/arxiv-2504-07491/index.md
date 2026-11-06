@@ -14,7 +14,7 @@ Presents Kimi-VL, a general vision-language model evaluated on multi-turn agent 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Computer-use tasks are among several domains evaluated for this general-purpose model. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Computer-use tasks are among several domains evaluated for this general-purpose model.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-07491/record.json
 

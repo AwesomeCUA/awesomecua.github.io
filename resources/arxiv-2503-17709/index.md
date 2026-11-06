@@ -14,7 +14,7 @@ Introduces GUI-Xplore exploration videos and downstream tasks, with an agent tha
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-17709/record.json
 

@@ -73,7 +73,7 @@
     }
   ],
   "name": "Foundations and Recent Trends in Multimodal Mobile Agents: A Survey",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot.",
   "published_at": "2024-11-04",
   "relations": [],
   "review_status": "curated",

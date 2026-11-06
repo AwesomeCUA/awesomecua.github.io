@@ -14,7 +14,7 @@ Studies backdoor risks in mobile GUI agents through AgentGhost, which combines g
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-14418/record.json
 

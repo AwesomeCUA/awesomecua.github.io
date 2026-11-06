@@ -85,7 +85,7 @@
     }
   ],
   "name": "REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). All evaluated interactions occur in controlled simulations of websites. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). All evaluated interactions occur in controlled simulations of websites.",
   "published_at": "2025-04-15",
   "relations": [],
   "review_status": "curated",

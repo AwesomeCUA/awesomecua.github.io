@@ -1,20 +1,20 @@
 # PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails
 
-Bibliographic record for PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Introduces PersonaTrail, a benchmark for personalized web agents using browsing histories, and PACMem, a structured memory method for guiding navigation.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2607-20482/
 - Original source: https://arxiv.org/abs/2607.20482
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:36:36Z
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, memory, interaction-history, web-navigation
+- Evidence checked: 2026-11-05T23:03:08Z
 - ID: arxiv:2607.20482
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-20482/record.json
 
@@ -46,3 +46,4 @@ Seungbin Yang, Chaewoon Ki, Dohyun Lee, Jaegul Choo, ChaeHun Park
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
+- https://export.arxiv.org/api/query?id_list=2607.06008%2C2607.06306%2C2607.06595%2C2607.07744%2C2607.07820%2C2607.08147%2C2607.08252%2C2607.08768%2C2607.08964%2C2607.10455%2C2607.10539%2C2607.11119%2C2607.12056%2C2607.12406%2C2607.12756%2C2607.13027%2C2607.13085%2C2607.13157%2C2607.13594%2C2607.13718%2C2607.13884%2C2607.13988%2C2607.14277%2C2607.15899%2C2607.16352%2C2607.16610%2C2607.16636%2C2607.16900%2C2607.17044%2C2607.17136%2C2607.17951%2C2607.19865%2C2607.20064%2C2607.20121%2C2607.20482%2C2607.21522%2C2607.21635%2C2607.21655%2C2607.22708%2C2607.22738%2C2607.23722%2C2607.24720%2C2607.25255%2C2607.26300%2C2607.26769%2C2607.27155%2C2607.28050%2C2607.28229%2C2607.28272%2C2607.28430&max_results=50 (retrieved 2026-11-05T23:03:08Z; SHA-256 f5cb74ee7fb32d9b32cee7b56cbdbf677efc8384fc55d53982a75090a5cf659e)

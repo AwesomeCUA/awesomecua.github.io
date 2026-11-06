@@ -14,7 +14,7 @@ SpecOps divides testing of GUI-based agents into test generation, environment se
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-10268/record.json
 

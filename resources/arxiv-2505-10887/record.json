@@ -78,7 +78,7 @@
     }
   ],
   "name": "InfantAgent-Next: A Multimodal Generalist Agent for Automated Computer Interaction",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Its evaluation also includes GAIA and SWE-Bench, beyond the computer-interaction benchmark OSWorld. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Its evaluation also includes GAIA and SWE-Bench, beyond the computer-interaction benchmark OSWorld.",
   "published_at": "2025-05-16",
   "relations": [],
   "review_status": "curated",

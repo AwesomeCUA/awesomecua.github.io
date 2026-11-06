@@ -75,12 +75,15 @@
     }
   ],
   "name": "Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-07-03",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Trident combines exploration, monitoring, and detection agents to identify functional bugs that do not crash a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "automation",
     "evaluation",

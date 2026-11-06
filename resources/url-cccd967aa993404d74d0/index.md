@@ -14,7 +14,7 @@ Introduces Koala, a collaborative web automation system that records browser int
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record.
+The annotation was reviewed against retained primary publication sources. This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record.
 
 - Record JSON: https://awesomecua.com/resources/url-cccd967aa993404d74d0/record.json
 

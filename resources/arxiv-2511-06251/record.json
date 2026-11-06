@@ -76,12 +76,15 @@
     }
   ],
   "name": "WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its main objective is UI code generation; the agent explores interface states to support that process. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its main objective is UI code generation; the agent explores interface states to support that process.",
   "published_at": "2025-11-09",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "WebVIA combines a web UI exploration agent, interactive UI-to-Code generation, and validation of generated code's interactivity.",
+  "task_classes": [
+    "R02.04.01.02"
+  ],
   "topics": [
     "ui-design",
     "evaluation",

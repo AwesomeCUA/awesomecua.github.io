@@ -77,7 +77,7 @@
     }
   ],
   "name": "WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark targets website code generation; browser navigation is used to test the generated sites. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark targets website code generation; browser navigation is used to test the generated sites.",
   "published_at": "2025-05-06",
   "relations": [],
   "review_status": "curated",

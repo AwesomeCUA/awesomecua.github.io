@@ -73,7 +73,7 @@
     }
   ],
   "name": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Desktop use is explicit; no additional operating-system claim is inferred solely from the benchmark name.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Desktop use is explicit; no additional operating-system claim is inferred solely from the benchmark name.",
   "published_at": "2026-04-30",
   "relations": [],
   "review_status": "curated",

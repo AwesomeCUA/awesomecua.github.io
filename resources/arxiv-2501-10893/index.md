@@ -14,7 +14,7 @@ Learn-by-interact synthesizes agent interaction trajectories from documentation 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its evaluations also include coding tasks alongside web and desktop environments. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its evaluations also include coding tasks alongside web and desktop environments.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-10893/record.json
 

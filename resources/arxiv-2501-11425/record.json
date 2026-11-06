@@ -82,7 +82,7 @@
     }
   ],
   "name": "Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The full paper was also inspected to confirm WebShop evaluation; the broader agent-learning method is classified as adjacent.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. The full paper was also inspected to confirm WebShop evaluation; the broader agent-learning method is classified as adjacent.",
   "published_at": "2025-01-20",
   "relations": [],
   "review_status": "curated",

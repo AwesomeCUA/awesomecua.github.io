@@ -14,7 +14,7 @@ Introduces a visual-language model with low- and high-resolution image encoders 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2312-08914/record.json
 

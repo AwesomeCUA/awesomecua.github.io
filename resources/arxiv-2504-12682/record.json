@@ -75,7 +75,7 @@
     }
   ],
   "name": "WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark covers data extraction across four business and enterprise use cases. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark covers data extraction across four business and enterprise use cases.",
   "published_at": "2025-04-17",
   "relations": [],
   "review_status": "curated",

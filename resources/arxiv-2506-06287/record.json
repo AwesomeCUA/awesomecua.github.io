@@ -77,7 +77,7 @@
     }
   ],
   "name": "Deep Research Bench: Evaluating AI Web Research Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). RetroSearch agents use a frozen set of scraped pages rather than the changing live web. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2025-05-06",
   "relations": [],
   "review_status": "curated",

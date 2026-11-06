@@ -14,7 +14,7 @@ Parses screenshots into interactable regions and semantic element descriptions t
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2408-00203/record.json
 

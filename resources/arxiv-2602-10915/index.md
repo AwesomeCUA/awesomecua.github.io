@@ -14,7 +14,7 @@ Analyzes security risks in screen-based mobile agents and proposes Aura, an agen
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The reported comparison with a screen-based mobile assistant uses MobileSafetyBench. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The reported comparison with a screen-based mobile assistant uses MobileSafetyBench.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-10915/record.json
 

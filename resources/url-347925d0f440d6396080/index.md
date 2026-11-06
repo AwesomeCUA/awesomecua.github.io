@@ -14,7 +14,7 @@ Introduces Ringer, which converts demonstrated webpage interactions into scripts
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved.
+The annotation was reviewed against retained primary publication sources. The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved.
 
 - Record JSON: https://awesomecua.com/resources/url-347925d0f440d6396080/record.json
 

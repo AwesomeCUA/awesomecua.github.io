@@ -71,7 +71,7 @@
     }
   ],
   "name": "WAAA! Web Adversaries Against Agentic Browsers",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-05-06",
   "relations": [],
   "review_status": "curated",

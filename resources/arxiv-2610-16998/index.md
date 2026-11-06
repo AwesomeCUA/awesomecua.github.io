@@ -1,20 +1,20 @@
 # Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents
 
-Bibliographic record for Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Introduces Glasseek, a framework for deep-search agents that explore the open web, with trajectory construction, training across context compression, and a test-set leakage audit.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2610-16998/
 - Original source: https://arxiv.org/abs/2610.16998
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-11-05T21:14:44Z
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, data-generation, reinforcement-learning, evaluation
+- Evidence checked: 2026-11-05T23:03:20Z
 - ID: arxiv:2610.16998
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-16998/record.json
 
@@ -46,3 +46,4 @@ Cong Pang, Jiaqi Su, Chengrui Wu, Kuihao Yan, Tianrui Zhang, Zixuan Qiu, Chao Li
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2610.16402%2C2610.16998%2C2610.25503%2C2610.31494%2C2610.34724%2C2610.38438%2C2610.41460%2C2611.00169%2C2611.00881%2C2611.00884%2C2611.00926%2C2611.03930&max_results=12 (retrieved 2026-11-05T21:14:44Z; SHA-256 b139108d48a4a5767b7fc2ddc45ec9c3698b12687eb930094976c7f9b275c297)
+- https://export.arxiv.org/api/query?id_list=2609.35002%2C2609.35232%2C2609.35394%2C2609.35775%2C2609.36071%2C2609.36352%2C2609.36777%2C2609.37017%2C2609.38397%2C2609.38648%2C2609.38923%2C2609.39222%2C2609.39306%2C2609.39924%2C2610.00042%2C2610.00346%2C2610.00450%2C2610.00583%2C2610.03574%2C2610.04184%2C2610.04906%2C2610.05099%2C2610.06514%2C2610.07127%2C2610.08699%2C2610.09127%2C2610.09484%2C2610.09633%2C2610.11251%2C2610.11655%2C2610.11922%2C2610.13098%2C2610.13166%2C2610.13361%2C2610.13623%2C2610.14306%2C2610.14855%2C2610.14966%2C2610.15765%2C2610.16117%2C2610.16260%2C2610.16402%2C2610.16998%2C2610.17816%2C2610.17953%2C2610.18868%2C2610.19368%2C2610.20424%2C2610.20597%2C2610.21109&max_results=50 (retrieved 2026-11-05T23:03:20Z; SHA-256 fbf9f07c95d8c1f4ad119a20a35d82b69f79d4bdc06b25aacac1a334dc54e034)

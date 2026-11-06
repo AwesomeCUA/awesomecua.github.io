@@ -14,7 +14,7 @@ Bibliographic record for AgentDoG 1.5: A Lightweight and Scalable Alignment Fram
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-29801/record.json
 

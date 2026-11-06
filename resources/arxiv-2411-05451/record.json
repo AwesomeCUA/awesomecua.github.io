@@ -77,7 +77,7 @@
     }
   ],
   "name": "WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The workflows are represented as Python-style code over APIs; GUI control is not described. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2024-11-08",
   "relations": [],
   "review_status": "curated",

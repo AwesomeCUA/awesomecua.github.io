@@ -14,7 +14,7 @@ Introduces Infinite-Dreamer, which learns action-conditioned screenshot editing 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-05861/record.json
 

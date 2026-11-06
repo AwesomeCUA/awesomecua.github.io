@@ -14,7 +14,7 @@ Surfer2 combines hierarchical context management with separate planning and exec
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-19949/record.json
 

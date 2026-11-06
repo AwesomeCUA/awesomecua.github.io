@@ -14,7 +14,7 @@ Evaluates agent safety across real browser, code, filesystem, shell, and messagi
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-06134/record.json
 

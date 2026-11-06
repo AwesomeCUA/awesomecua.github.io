@@ -14,7 +14,7 @@ Research code for proactive human–GUI-agent verification, including offline in
 
 ## Limitations
 
-The released scripts evaluate recorded task inputs; the retained README does not establish a live Android execution environment. No runtime behavior or reported results were independently reproduced.
+The released scripts evaluate recorded task inputs; the retained README does not establish a live Android execution environment.
 
 - Record JSON: https://awesomecua.com/resources/github-wuzheng02-verios/record.json
 

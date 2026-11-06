@@ -67,7 +67,7 @@
     }
   ],
   "name": "WebWorld: The Browser as a World Model for Self-Improving Web Code",
-  "notes": "Adjacent browser-backed artifact validation, not a GUI navigation benchmark or original-source recovery. Distinct from WebWorld: A Large-Scale World Model for Web Agent Training. Results have not been independently reproduced.",
+  "notes": "Adjacent browser-backed artifact validation, not a GUI navigation benchmark or original-source recovery. Distinct from WebWorld: A Large-Scale World Model for Web Agent Training.",
   "published_at": "2026-08-31",
   "relations": [],
   "review_status": "curated",

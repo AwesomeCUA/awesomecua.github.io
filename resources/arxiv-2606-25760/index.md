@@ -14,7 +14,7 @@ Argus benchmarks post-hoc uncertainty methods for single-step GUI grounding acro
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-25760/record.json
 

@@ -144,7 +144,7 @@
     }
   ],
   "name": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
-  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim.",
+  "notes": "The annotation was reviewed against retained primary publication sources. The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim.",
   "published_at": "2017-10-20",
   "relations": [],
   "review_status": "curated",

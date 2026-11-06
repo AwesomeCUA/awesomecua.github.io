@@ -14,7 +14,7 @@ Proposes GUI Agent Autonomy Levels (GAL), a six-level framework for describing a
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GAL is a conceptual framework. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GAL is a conceptual framework.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-11514/record.json
 

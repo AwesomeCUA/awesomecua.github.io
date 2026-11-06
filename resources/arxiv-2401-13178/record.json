@@ -87,7 +87,7 @@
     }
   ],
   "name": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
-  "notes": "Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The full paper documents search/click WebShop actions and 11 browser actions in WebArena, while the overall benchmark also covers non-web domains.",
+  "notes": "Reviewed against the retained original arXiv abstract. The full paper documents search/click WebShop actions and 11 browser actions in WebArena, while the overall benchmark also covers non-web domains.",
   "published_at": "2024-01-24",
   "relations": [],
   "review_status": "curated",

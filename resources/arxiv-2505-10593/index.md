@@ -14,7 +14,7 @@ LLM-Explorer uses language models to maintain compact knowledge for mobile app e
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-10593/record.json
 

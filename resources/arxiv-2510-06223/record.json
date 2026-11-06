@@ -68,7 +68,7 @@
     }
   ],
   "name": "A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The assistant uses application-exposed tools and navigation semantics. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The assistant uses application-exposed tools and navigation semantics.",
   "published_at": "2025-08-31",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Introduces a web-task dataset spanning diverse websites and evaluates generaliza
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2306-06070/record.json
 

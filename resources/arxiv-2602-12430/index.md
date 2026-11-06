@@ -14,7 +14,7 @@ This survey organizes agent skills by architecture, acquisition, deployment and 
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent survey of the skill layer: CUA deployment and GUI grounding are explicit parts of the review, but its overall scope extends well beyond interface agents.
+Reviewed against the complete retained official abstract. Adjacent survey of the skill layer: CUA deployment and GUI grounding are explicit parts of the review, but its overall scope extends well beyond interface agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-12430/record.json
 

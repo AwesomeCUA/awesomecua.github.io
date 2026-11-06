@@ -77,7 +77,7 @@
     }
   ],
   "name": "FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Results are reported on WorkArena and WebArena; the injection result concerns a FocusAgent variant. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Results are reported on WorkArena and WebArena; the injection result concerns a FocusAgent variant.",
   "published_at": "2025-10-03",
   "relations": [],
   "review_status": "curated",

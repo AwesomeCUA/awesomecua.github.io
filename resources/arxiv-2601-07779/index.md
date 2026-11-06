@@ -14,7 +14,7 @@ OS-Symphony coordinates milestone-based reflection and memory with tools that bu
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-07779/record.json
 

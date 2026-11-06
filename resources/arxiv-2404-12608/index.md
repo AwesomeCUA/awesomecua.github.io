@@ -14,7 +14,7 @@ Auto-Formula recommends formulas for target spreadsheet cells by adapting formul
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). It predicts cell formulas; the abstract does not describe operating the spreadsheet interface. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-12608/record.json
 

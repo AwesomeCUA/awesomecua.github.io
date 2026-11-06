@@ -14,7 +14,7 @@ ADMIRE extracts milestones from successful GUI explorations to provide adaptive 
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-11524/record.json
 

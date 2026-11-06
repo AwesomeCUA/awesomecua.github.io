@@ -77,7 +77,7 @@
     }
   ],
   "name": "Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding",
-  "notes": "Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced. Adjacent visual-language pretraining: webpage screenshot parsing and explicit UI evaluation support interface understanding; the paper does not establish an autonomous GUI policy.",
+  "notes": "Reviewed against the complete official arXiv abstract. Adjacent visual-language pretraining: webpage screenshot parsing and explicit UI evaluation support interface understanding; the paper does not establish an autonomous GUI policy.",
   "published_at": "2022-10-07",
   "relations": [],
   "review_status": "curated",

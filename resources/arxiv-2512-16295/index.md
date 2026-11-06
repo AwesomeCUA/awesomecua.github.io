@@ -14,7 +14,7 @@ OS-Oracle synthesizes GUI critic examples and trains a pre-action critic with su
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-16295/record.json
 

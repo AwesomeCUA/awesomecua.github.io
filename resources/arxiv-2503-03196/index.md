@@ -14,7 +14,7 @@ Introduces SpiritSight and GUI-Lasagne data, combining multilevel GUI annotation
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-03196/record.json
 

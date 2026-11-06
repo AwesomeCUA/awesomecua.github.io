@@ -72,12 +72,15 @@
     }
   ],
   "name": "Securing Computer-Use Agents Against Branch Steering Attacks",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-10-02",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces STEER-Bench to study branch-steering attacks that manipulate untrusted web data toward hazardous paths already permitted by an agent’s plan. Its COBRA architecture combines trusted branching plans with advance constraints on the parameters and destinations each branch can use.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security",
     "planning",

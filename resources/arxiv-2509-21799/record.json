@@ -82,7 +82,7 @@
     }
   ],
   "name": "D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract reports results on AndroidWorld and ScreenSpot-V2 but does not specify a mobile operating system. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2025-09-26",
   "relations": [],
   "review_status": "curated",

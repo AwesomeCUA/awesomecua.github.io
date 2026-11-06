@@ -14,7 +14,7 @@ MobileUse reflects on errors at action and task timescales, invoking reflection 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-16853/record.json
 

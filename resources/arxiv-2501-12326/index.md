@@ -14,7 +14,7 @@ Studies a screenshot-driven native GUI model with unified actions, deliberate re
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-12326/record.json
 

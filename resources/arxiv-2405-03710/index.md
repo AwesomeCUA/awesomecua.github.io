@@ -14,7 +14,7 @@ ECLAIR uses multimodal foundation models to automate enterprise workflows from n
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract reports initial experiments and does not specify GUI operation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2405-03710/record.json
 

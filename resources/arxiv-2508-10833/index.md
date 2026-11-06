@@ -14,7 +14,7 @@ Studies screenshot-based GUI grounding and navigation using curated interaction 
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-10833/record.json
 

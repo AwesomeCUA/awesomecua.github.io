@@ -76,7 +76,7 @@
     }
   ],
   "name": "Computer Environments Elicit General Agentic Intelligence in LLMs",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Computer interaction is through a code sandbox, with evaluations on general tasks rather than GUI operation. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2026-01-22",
   "relations": [],
   "review_status": "curated",

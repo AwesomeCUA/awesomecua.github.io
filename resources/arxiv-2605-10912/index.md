@@ -1,20 +1,20 @@
 # WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation
 
-Bibliographic record for WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+WildClawBench evaluates CLI agents on long, multimodal tasks in Docker containers with real tools, using task checks, side-effect audits, and a semantic judge.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2605-10912/
 - Original source: https://arxiv.org/abs/2605.10912
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-17T12:31:19Z
+- Topics: evaluation, long-horizon, sandbox, tool-integration
+- Evidence checked: 2026-11-05T23:02:51Z
 - ID: arxiv:2605.10912
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-10912/record.json
 
@@ -46,3 +46,4 @@ Shuangrui Ding, Xuanlang Dai, Long Xing, Shengyuan Ding, Ziyu Liu, Yang JingYi, 
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2604.03598%2C2604.04759%2C2604.05547%2C2604.06170%2C2604.07340%2C2604.10547%2C2604.10938%2C2604.11978%2C2604.12282%2C2604.13018%2C2604.13346%2C2604.13954%2C2604.15579%2C2604.15671%2C2604.15715%2C2604.16520%2C2604.18240%2C2604.18934%2C2604.19572%2C2604.19667%2C2604.19742%2C2604.20841%2C2604.20987%2C2604.22436%2C2604.23781%2C2604.24479%2C2604.26148%2C2604.27621%2C2604.27996%2C2604.28093%2C2604.28139%2C2604.28181%2C2605.00425%2C2605.01462%2C2605.02240%2C2605.03042%2C2605.03242%2C2605.04811%2C2605.05191%2C2605.05811%2C2605.06110%2C2605.07073%2C2605.07358%2C2605.08374%2C2605.08985%2C2605.10912%2C2605.10966%2C2605.11363%2C2605.11732%2C2605.11817&max_results=50 (retrieved 2026-10-17T12:31:19Z; SHA-256 05ec5d668ac75d3d7c5b71ea7d6e76a3fbf5ebeb742e0843db2329e5e41aa208)
+- https://export.arxiv.org/api/query?id_list=2605.06110%2C2605.06393%2C2605.06664%2C2605.06717%2C2605.06727%2C2605.07073%2C2605.07110%2C2605.07358%2C2605.07505%2C2605.07937%2C2605.08261%2C2605.08310%2C2605.08374%2C2605.08703%2C2605.08876%2C2605.08985%2C2605.10912%2C2605.11363%2C2605.11732%2C2605.11817%2C2605.12233%2C2605.12978%2C2605.13631%2C2605.13831%2C2605.14133%2C2605.14205%2C2605.14271%2C2605.14311%2C2605.14649%2C2605.14678%2C2605.14747%2C2605.14786%2C2605.15030%2C2605.15040%2C2605.15962%2C2605.15963%2C2605.16024%2C2605.16116%2C2605.16265%2C2605.16565%2C2605.16909%2C2605.17170%2C2605.17260%2C2605.17324%2C2605.17439%2C2605.17448%2C2605.17634%2C2605.17721%2C2605.18859%2C2605.19260&max_results=50 (retrieved 2026-11-05T23:02:51Z; SHA-256 5bf7e3875a29a94f6652cd7ddff6b805e411aaef8d8ac1f96946fe9aa51c9d3d)

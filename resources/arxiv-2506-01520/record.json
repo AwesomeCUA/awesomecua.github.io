@@ -74,7 +74,7 @@
     }
   ],
   "name": "FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The evaluated MLLMs did not exceed 5% accuracy on this benchmark. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2025-06-02",
   "relations": [],
   "review_status": "curated",

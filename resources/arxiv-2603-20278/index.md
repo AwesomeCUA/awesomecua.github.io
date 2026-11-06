@@ -14,7 +14,7 @@ Bibliographic record for OpenResearcher: A Fully Open Pipeline for Long-Horizon 
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-20278/record.json
 

@@ -14,7 +14,7 @@ Introduces RiOSWorld, a computer-use risk benchmark separating user-originated a
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-00618/record.json
 

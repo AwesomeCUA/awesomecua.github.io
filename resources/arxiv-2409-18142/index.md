@@ -14,7 +14,7 @@ Bibliographic record for A Survey on Multimodal Benchmarks: In the Era of Large 
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-18142/record.json
 

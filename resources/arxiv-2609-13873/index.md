@@ -14,7 +14,7 @@ PriMobiBench evaluates direct privacy leakage and user profiling from mobile GUI
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-13873/record.json
 

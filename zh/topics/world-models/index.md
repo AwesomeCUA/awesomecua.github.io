@@ -6,6 +6,12 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
 
 ## 论文与综述
 
+- [MKD2World: A Typed Spatial MarkDown World Model For Web Agents](https://awesomecua.com/resources/arxiv-2611-06544/) — 2026-11-04
+  Introduces MKD2World, a desktop web world model that represents interface elements in Typed Spatial Markdown and predicts post-action states, supported by AtomBlock-WebUI annotations.
+- [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://awesomecua.com/resources/arxiv-2611-04073/) — 2026-11-02
+  RAG-PolicyJudge selects computer-use actions proposed with task-specific tutorials; the study compares its decisions with and without world-model rollouts.
+- [Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model](https://awesomecua.com/resources/arxiv-2610-29139/) — 2026-10-21
+  PAWM predicts likely multi-step pitfalls and selectively guides black-box agents; its evaluations include a web-agent benchmark.
 - [Beyond Next-Screen Prediction: The Decision Value of GUI World Models](https://awesomecua.com/resources/arxiv-2610-24372/) — 2026-10-17
   Separates next-screen prediction from action evaluation in GUI lookahead and trains Direct Action Ranking on reference actions, comparing prediction-augmented scoring under matched offline supervision.
 - [Latent World Action Model for GUI Agents](https://awesomecua.com/resources/arxiv-2610-14228/) — 2026-10-09
@@ -30,6 +36,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   Introduces GUI-CC, a benchmark for assessing GUI world models as multi-step agent environments. Separate reference-action and agent-loop tracks test whether generated screens preserve context, plausible transitions, and task progress throughout interaction.
 - [WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning](https://awesomecua.com/resources/arxiv-2608-27508/) — 2026-08-27
   Uses learned world models for mobile-agent training rollouts and for reasoning about the consequences of candidate GUI actions.
+- [GameWAM: A World Action Model for Video Games](https://awesomecua.com/resources/arxiv-2608-26200/) — 2026-08-25
+  Introduces GameWAM, a model for native game play and GUI control that predicts future visuals and keyboard-mouse actions from synchronized gameplay and GUI trajectories.
 - [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2608-05891/) — 2026-08-06
   AppDeltaWorld predicts executable code updates for the next mobile UI state, using transition-constrained retrieval and rendered visual assets. It evaluates reconstruction fidelity separately from policy training and adaptation using generated environments.
 - [Scaling GUI Agents with Visual State Transitions](https://awesomecua.com/resources/arxiv-2607-24112/) — 2026-07-27
@@ -38,8 +46,12 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   Introduces EvoGUI, which derives temporal ordering, inverse action/value prediction, and successor-discrimination probes from recorded GUI trajectories. Its web-derived benchmark isolates transition understanding from the other abilities involved in end-to-end task success.
 - [SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction](https://awesomecua.com/resources/arxiv-2607-15550/) — 2026-07-17
   Uses instruction screening and a safety-augmented world model to assess likely consequences of mobile GUI actions before execution.
+- [MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models](https://awesomecua.com/resources/arxiv-2606-04627/) — 2026-06-03
+  Introduces MIRAGE, which trains mobile app agents to reason in compact latent states and anticipate future screenshots, reducing generated tokens during action selection.
 - [How Mobile World Model Guides GUI Agents?](https://awesomecua.com/resources/arxiv-2605-10347/) — 2026-05-11
   Compares mobile world models that predict state changes as delta text, full text, images or renderable code. Downstream Android benchmarks examine synthetic training trajectories and test-time guidance, including limits of post-action reflection.
+- [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://awesomecua.com/resources/arxiv-2604-22748/) — 2026-04-24
+  Survey of agentic world models that classifies predictive capabilities and governing laws, including the digital setting of web and GUI agents.
 - [Computer-Using World Model](https://awesomecua.com/resources/arxiv-2602-17365/) — 2026-02-19
   Presents a desktop world model that predicts textual UI changes before synthesizing the next screenshot. It learns from Microsoft Office transitions and is evaluated by letting a frozen agent compare simulated actions before execution.
 - [World-Model-Augmented Web Agents with Action Correction](https://awesomecua.com/resources/arxiv-2602-15384/) — 2026-02-17

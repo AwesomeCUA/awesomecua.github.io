@@ -14,7 +14,7 @@ Evaluates whether deceptive UI content steers mobile agents away from instructio
 
 ## Limitations
 
-The commercial-app protocol uses fixed screenshots and context for selection decisions, rather than live end-to-end transactions. Android is supported by the paper's emulator setup. Completion and integrity are distinct measures; no reported scores were reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Benchmark components; 3.2 Instance generation; 3.3 Paired protocol/metrics; 5 Limitations/Ethics; Appendix B (Android emulator setup)); not an entire-paper reading or reproduction claim.
+The commercial-app protocol uses fixed screenshots and context for selection decisions, rather than live end-to-end transactions. Android is supported by the paper's emulator setup. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Benchmark components; 3.2 Instance generation; 3.3 Paired protocol/metrics; 5 Limitations/Ethics; Appendix B (Android emulator setup)).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-06898/record.json
 

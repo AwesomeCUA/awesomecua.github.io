@@ -14,7 +14,7 @@ Introduces synthetic CAD interaction videos, a model for learning interface acti
 
 ## Limitations
 
-The contribution was reviewed from the retained abstract. Sections 1 and 3 of the exact-version v2 paper identify Onshape as the browser-based interaction environment; the use of pixel-level input does not make the operated surface a desktop application. No experimental results were independently reproduced.
+The contribution was reviewed from the retained abstract. Sections 1 and 3 of the exact-version v2 paper identify Onshape as the browser-based interaction environment; the use of pixel-level input does not make the operated surface a desktop application.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-24838/record.json
 

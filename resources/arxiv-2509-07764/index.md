@@ -14,7 +14,7 @@ Introduces AgentSentinel, which intercepts sensitive computer-agent operations a
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The official full paper confirms GUI/desktop interaction alongside Bash and file tools. Its abstract and body enumerate attack categories differently; no category count is promoted into this annotation.
+Reviewed against the complete retained original arXiv abstract. The official full paper confirms GUI/desktop interaction alongside Bash and file tools. Its abstract and body enumerate attack categories differently; no category count is promoted into this annotation.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-07764/record.json
 

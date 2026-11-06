@@ -14,7 +14,7 @@ Introduces an assistant that reads screenshots, application titles, and URLs to 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The assistant monitors activity and issues notifications; the abstract does not describe it operating interfaces. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-14513/record.json
 

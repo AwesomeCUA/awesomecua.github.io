@@ -14,7 +14,7 @@ NaturalGAIA builds verifiable long-horizon GUI tasks from human interaction inte
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-01330/record.json
 

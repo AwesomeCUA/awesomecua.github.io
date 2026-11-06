@@ -14,7 +14,7 @@ PRAXIS stores action outcomes and retrieves past state-action-result examples to
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract reports only preliminary generalization to unseen tasks in similar environments. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract reports only preliminary generalization to unseen tasks in similar environments.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-22074/record.json
 

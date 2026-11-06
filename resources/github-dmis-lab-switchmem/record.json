@@ -50,7 +50,7 @@
     }
   ],
   "name": "SwitchMem",
-  "notes": "The implementation distinguishes step-level AITW/LearnGUI scores from terminal task success on MobileMiniWoB++. Benchmark outcomes and local smoke-test outputs are different claims; neither was independently reproduced here.",
+  "notes": "The implementation distinguishes step-level AITW/LearnGUI scores from terminal task success on MobileMiniWoB++. Benchmark outcomes and local smoke-test outputs are different claims.",
   "published_at": null,
   "relations": [
     {

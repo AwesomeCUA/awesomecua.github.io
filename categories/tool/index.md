@@ -275,7 +275,7 @@ ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt an
 
 ### Limitations
 
-This is an independent harness using ScreenSpot-Pro, not a new dataset or verified leaderboard entry. The read code maps points back to original-image coordinates and scores point-in-box hits; documentation limits comparisons by prompt, model, subset and provider behavior. No OS support, code license or external data/weight license was established in this bounded review. Model calls, tests and reported results were not executed or reproduced.
+This is an independent harness using ScreenSpot-Pro, not a new dataset or verified leaderboard entry. The read code maps points back to original-image coordinates and scores point-in-box hits; documentation limits comparisons by prompt, model, subset and provider behavior. No OS support, code license or external data/weight license was established in this bounded review.
 
 - Record JSON: https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/record.json
 
@@ -313,7 +313,7 @@ Portable agent instructions and integration tooling for local or cloud phone con
 
 ### Limitations
 
-The publisher describes this as a Markdown harness, not an agent runtime. Published benchmark results have not been independently reproduced.
+The publisher describes this as a Markdown harness, not an agent runtime.
 
 - Record JSON: https://awesomecua.com/resources/github-droidrun-mobile-harness/record.json
 

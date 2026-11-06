@@ -14,7 +14,7 @@ ViMo predicts the next mobile-app screenshot after a candidate action by separat
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-13936/record.json
 

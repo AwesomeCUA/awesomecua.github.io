@@ -14,7 +14,7 @@ ToolCUA synthesizes interleaved GUI/tool trajectories and trains agents to choos
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-12481/record.json
 

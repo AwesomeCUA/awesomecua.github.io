@@ -14,7 +14,7 @@ Introduces annotated cross-application mobile trajectories and studies history-a
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-08451/record.json
 

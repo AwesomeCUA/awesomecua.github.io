@@ -14,7 +14,7 @@ Builds GUI task data with real-world interaction anomalies and evaluates how age
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-14477/record.json
 

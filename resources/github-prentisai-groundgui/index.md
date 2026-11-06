@@ -14,7 +14,7 @@ Code for screenshot grounding through supervised training, teacher-guided distil
 
 ## Limitations
 
-The repository documents separate training-stage environments. Code, model weights, and ScreenRef data have distinct license declarations; no training or benchmark execution was reproduced here.
+The repository documents separate training-stage environments. Code, model weights, and ScreenRef data have distinct license declarations.
 
 - Record JSON: https://awesomecua.com/resources/github-prentisai-groundgui/record.json
 

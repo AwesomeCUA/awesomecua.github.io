@@ -14,7 +14,7 @@ Introduces MMSearch-Plus, a multimodal browsing benchmark with iterative image-t
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The tasks seek facts beyond images through browsing, rather than carrying out website transactions or workflows. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-21475/record.json
 

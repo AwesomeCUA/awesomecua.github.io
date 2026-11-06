@@ -14,7 +14,7 @@ FingerTip 20K gathers 20K human Android demonstrations from users' long-term eve
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-21071/record.json
 

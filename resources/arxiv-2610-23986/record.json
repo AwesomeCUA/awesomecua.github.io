@@ -83,12 +83,15 @@
     }
   ],
   "name": "BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References",
-  "notes": "The evaluated agents use Linux shell/Python/MCP tools and can inspect viewport screenshots; graphical CUA control and Windows/macOS are future work. Each agent is run once per task, with different Codex/Claude Code harnesses across systems. Scores combine weighted rubric satisfaction and model-rated visual quality. Tool counts include unsuccessful calls and do not establish matched compute or successful actions. No independent reproduction or artifact-release verification.",
+  "notes": "The evaluated agents use Linux shell/Python/MCP tools and can inspect viewport screenshots; graphical CUA control and Windows/macOS are future work. Each agent is run once per task, with different Codex/Claude Code harnesses across systems. Scores combine weighted rubric satisfaction and model-rated visual quality. Tool counts include unsuccessful calls and do not establish matched compute or successful actions.",
   "published_at": "2026-10-14",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Benchmarks agents creating editable Blender projects through shell, Python and MCP tools, judging delivered scenes with multi-view renders, task-specific rubrics and visual-quality ratings.",
+  "task_classes": [
+    "R06.06.03.04"
+  ],
   "topics": [
     "evaluation",
     "tool-integration",

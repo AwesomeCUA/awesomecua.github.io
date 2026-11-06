@@ -72,12 +72,15 @@
     }
   ],
   "name": "PlayCoder: Making LLM-Generated GUI Code Playable",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.",
+  "notes": "Reviewed against the complete retained official abstract.",
   "published_at": "2026-04-21",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "PlayEval measures whether generated GUI applications remain logically playable, using PlayTester to execute task-oriented GUI playthroughs. PlayCoder closes the loop between repository-aware generation, interactive testing and targeted code repair.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "evaluation",
     "automation",

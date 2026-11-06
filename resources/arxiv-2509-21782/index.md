@@ -14,7 +14,7 @@ Evaluates multimodal LLMs on web interface reasoning, visual perturbation robust
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-21782/record.json
 

@@ -14,7 +14,7 @@ GUIDE retrieves relevant software tutorials through subtitle-based video search,
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-26266/record.json
 

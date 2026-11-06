@@ -14,7 +14,7 @@ Presents a privacy evaluation framework for browser agents covering component we
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The abstract describes artifact release as planned; the annotation does not independently verify availability.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes artifact release as planned; the annotation does not independently verify availability.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-07725/record.json
 

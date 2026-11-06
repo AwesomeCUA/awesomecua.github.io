@@ -69,7 +69,7 @@
     }
   ],
   "name": "Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-08-06",
   "relations": [],
   "review_status": "curated",

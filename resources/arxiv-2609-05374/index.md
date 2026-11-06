@@ -14,7 +14,7 @@ Turns desktop applications into reproducible GUI-and-CLI environments and genera
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-05374/record.json
 

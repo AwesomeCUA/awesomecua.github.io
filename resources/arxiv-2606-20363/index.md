@@ -14,7 +14,7 @@ Segments and clusters GUI trajectories into inspectable skills, then trains a sk
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-20363/record.json
 

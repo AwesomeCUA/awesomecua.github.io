@@ -14,7 +14,7 @@ Bibliographic record for EZBlender: Efficient 3D Editing with Plan-and-ReAct Age
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-07143/record.json
 

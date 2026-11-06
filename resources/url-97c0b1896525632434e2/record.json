@@ -130,12 +130,15 @@
     }
   ],
   "name": "Rousillon: Scraping Distributed Hierarchical Web Data",
-  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. This is browser interaction learned from demonstrations, rather than a generic server-side crawling library.",
+  "notes": "The annotation was reviewed against retained primary publication sources. This is browser interaction learned from demonstrations, rather than a generic server-side crawling library.",
   "published_at": null,
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces Rousillon, which generalizes a demonstration of collecting one hierarchical data row into a browser-automation program that traverses related pages. The paper develops relation-selection and generalization methods and evaluates users building such scripts.",
+  "task_classes": [
+    "R04.01.01.02"
+  ],
   "topics": [
     "web-navigation",
     "recording",

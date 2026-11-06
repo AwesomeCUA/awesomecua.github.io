@@ -14,7 +14,7 @@ CoAct-1 delegates subtasks between a GUI operator and a programmer that executes
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-03923/record.json
 

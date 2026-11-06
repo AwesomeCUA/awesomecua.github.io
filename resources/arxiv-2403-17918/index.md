@@ -14,7 +14,7 @@ AgentStudio combines an interactive GUI/API environment with tools for creating 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2403-17918/record.json
 

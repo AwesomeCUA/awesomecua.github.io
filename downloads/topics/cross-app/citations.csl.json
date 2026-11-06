@@ -2138,6 +2138,119 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.17049v2",
+    "archive": "arXiv",
+    "archive_location": "2602.17049",
+    "author": [
+      {
+        "literal": "Seoyoung Lee"
+      },
+      {
+        "literal": "Seobin Yoon"
+      },
+      {
+        "literal": "Seongbeen Lee"
+      },
+      {
+        "literal": "Yoojung Chun"
+      },
+      {
+        "literal": "Dayoung Park"
+      },
+      {
+        "literal": "Doyeon Kim"
+      },
+      {
+        "literal": "Joo Yong Sim"
+      }
+    ],
+    "citation-key": "arxiv_2602_17049",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "32c3c5005eddd3f748bdfbfdb9d82fefc77cf11e77fcc36d74aae648df8f3103",
+        "submitted_at": "2026-02-19T03:42:15Z",
+        "updated_at": "2026-02-27T03:23:32Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.17049v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.17049",
+      "catalog_id": "arxiv:2602.17049",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-19",
+      "identifiers": {
+        "arxiv": "2602.17049"
+      },
+      "record_updated_at": "2026-02-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.17049",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-19; Recorded arXiv version: v2; Recorded version updated: 2026-02-27T03:23:32Z.",
+    "title": "IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.18934v1",
+    "archive": "arXiv",
+    "archive_location": "2604.18934",
+    "author": [
+      {
+        "literal": "Daniel Shepard"
+      },
+      {
+        "literal": "Robin Salimans"
+      }
+    ],
+    "citation-key": "arxiv_2604_18934",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d0291c8077613d0836ee73cfbdca8a5dac82d1c6305e0eca6776a4667bac4b66",
+        "submitted_at": "2026-04-21T00:14:59Z",
+        "updated_at": "2026-04-21T00:14:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.18934v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.18934",
+      "catalog_id": "arxiv:2604.18934",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-04-21",
+      "identifiers": {
+        "arxiv": "2604.18934"
+      },
+      "record_updated_at": "2026-04-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.18934",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-21; Recorded arXiv version: v1; Recorded version updated: 2026-04-21T00:14:59Z.",
+    "title": "AutomationBench",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.27776v1",
     "archive": "arXiv",
     "archive_location": "2604.27776",
@@ -2474,6 +2587,79 @@
     "title": "Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.20487v2",
+    "archive": "arXiv",
+    "archive_location": "2606.20487",
+    "author": [
+      {
+        "literal": "Shu Yao"
+      },
+      {
+        "literal": "Yuhua Luo"
+      },
+      {
+        "literal": "Qian Long"
+      },
+      {
+        "literal": "Jingru Fan"
+      },
+      {
+        "literal": "Yuheng Wang"
+      },
+      {
+        "literal": "Lin Wu"
+      },
+      {
+        "literal": "Zhuoyuan Yu"
+      },
+      {
+        "literal": "Yufan Dang"
+      },
+      {
+        "literal": "Huatao Li"
+      },
+      {
+        "literal": "Chen Qian"
+      }
+    ],
+    "citation-key": "arxiv_2606_20487",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3c67975a5382d7c9b93835cac3dc565584fa69e2d25d12a072d9c2ed475506c3",
+        "submitted_at": "2026-06-18T17:04:17Z",
+        "updated_at": "2026-09-30T09:53:30Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2606.20487v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.20487",
+      "catalog_id": "arxiv:2606.20487",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-18",
+      "identifiers": {
+        "arxiv": "2606.20487"
+      },
+      "record_updated_at": "2026-09-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.20487",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-30T09:53:30Z.",
+    "title": "OctoNest: Adaptive Cross-Device Execution through Stateful Control",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2606.22557v1",
@@ -2953,6 +3139,58 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.08699v1",
+    "archive": "arXiv",
+    "archive_location": "2610.08699",
+    "author": [
+      {
+        "literal": "Guangyi Liu"
+      },
+      {
+        "literal": "Yong Liu"
+      },
+      {
+        "literal": "Jiangning Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2610_08699",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "356c7eb45841a33a2420fbe88fd4487c72461c64da7fc308ed97c480e849617c",
+        "submitted_at": "2026-10-06T17:13:53Z",
+        "updated_at": "2026-10-06T17:13:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.08699v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.08699",
+      "catalog_id": "arxiv:2610.08699",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-06",
+      "identifiers": {
+        "arxiv": "2610.08699"
+      },
+      "record_updated_at": "2026-10-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.08699",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T17:13:53Z.",
+    "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.11050v1",
     "archive": "arXiv",
     "archive_location": "2610.11050",
@@ -3156,6 +3394,58 @@
     },
     "note": "First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T11:10:30Z.",
     "title": "MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.37482v1",
+    "archive": "arXiv",
+    "archive_location": "2610.37482",
+    "author": [
+      {
+        "literal": "Ziyang Chen"
+      },
+      {
+        "literal": "Qian Li"
+      },
+      {
+        "literal": "Chengwei Qin"
+      }
+    ],
+    "citation-key": "arxiv_2610_37482",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4878e91f3b660546ab5d97d1212e9942767f5d46474565d500ed0e22623d6543",
+        "submitted_at": "2026-10-27T16:09:25Z",
+        "updated_at": "2026-10-27T16:09:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.37482v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.37482",
+      "catalog_id": "arxiv:2610.37482",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-27",
+      "identifiers": {
+        "arxiv": "2610.37482"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.37482",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T16:09:25Z.",
+    "title": "From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents",
     "type": "article",
     "version": "1"
   },

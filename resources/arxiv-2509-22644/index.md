@@ -14,7 +14,7 @@ Introduces WebGen-Agent for website code generation, using screenshot critiques 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI agents provide testing feedback for generated websites; WebGen-Agent itself generates website code. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI agents provide testing feedback for generated websites; WebGen-Agent itself generates website code.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-22644/record.json
 

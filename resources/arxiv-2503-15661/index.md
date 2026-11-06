@@ -14,7 +14,7 @@ Provides annotated desktop demonstrations for evaluating element grounding, layo
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-15661/record.json
 

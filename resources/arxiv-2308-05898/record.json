@@ -74,7 +74,7 @@
     }
   ],
   "name": "Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The work analyzes interface designs rather than having an agent operate mobile apps. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2023-08-11",
   "relations": [],
   "review_status": "curated",

@@ -70,12 +70,15 @@
     }
   ],
   "name": "Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The automated reproduction target is crash bugs in Minecraft. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The automated reproduction target is crash bugs in Minecraft.",
   "published_at": "2025-03-25",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces BugCraft, which turns Minecraft crash reports into steps and has a vision-based agent execute them through a macro API; BugCraft-Bench supports evaluation.",
+  "task_classes": [
+    "R13.03.01.01"
+  ],
   "topics": [
     "automation",
     "planning",

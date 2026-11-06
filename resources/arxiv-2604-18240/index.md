@@ -14,7 +14,7 @@ AJ-Bench evaluates judge agents that actively gather evidence from search, data 
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-18240/record.json
 

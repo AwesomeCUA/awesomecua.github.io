@@ -14,7 +14,7 @@ Separates web navigation prompting into a SUMMARIZER that extracts action-releva
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2305-14257/record.json
 

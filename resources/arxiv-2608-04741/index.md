@@ -14,7 +14,7 @@ Introduces LoginTrap, a black-box indirect-injection evaluation in which attacke
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-04741/record.json
 

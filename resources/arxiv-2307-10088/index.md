@@ -14,7 +14,7 @@ Collects Android interaction demonstrations with screens, actions, and instructi
 
 ## Limitations
 
-Annotation reviewed against the primary abstract. Original dataset scale and experimental results are not independently reproduced.
+Annotation reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2307-10088/record.json
 

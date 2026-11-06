@@ -1,20 +1,20 @@
 # TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training
 
-Bibliographic record for TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Proposes TurnOPD, a rollout-depth and loss-budgeting method for training long-horizon language agents; WebShop is one of its evaluation settings.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2607-05804/
 - Original source: https://arxiv.org/abs/2607.05804
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-11-01T20:31:09Z
+- Topics: efficiency, long-horizon
+- Evidence checked: 2026-11-05T23:03:05Z
 - ID: arxiv:2607.05804
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-05804/record.json
 
@@ -46,3 +46,4 @@ Yuhang Zhou, Kai Zheng, Haoling Li, Dengyun Peng, Can Xu, Jingjing Chen
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2604.24696%2C2605.02661%2C2605.06717%2C2605.08703%2C2605.13831%2C2605.14271%2C2605.14678%2C2605.27882%2C2607.05804%2C2607.08768&max_results=10 (retrieved 2026-11-01T20:31:09Z; SHA-256 a36304119442bb445e509560a71f2425314b744898011b6026e4da97a82ba37d)
+- https://export.arxiv.org/api/query?id_list=2606.15673%2C2606.15874%2C2606.16295%2C2606.17162%2C2606.17645%2C2606.17861%2C2606.18425%2C2606.19336%2C2606.19409%2C2606.19704%2C2606.20487%2C2606.20636%2C2606.20724%2C2606.20950%2C2606.21033%2C2606.21565%2C2606.22673%2C2606.22864%2C2606.23449%2C2606.23521%2C2606.23654%2C2606.24597%2C2606.24775%2C2606.25084%2C2606.26080%2C2606.27406%2C2606.27595%2C2606.27634%2C2606.28430%2C2606.29193%2C2606.29445%2C2606.29955%2C2606.30296%2C2606.30616%2C2606.31154%2C2606.31612%2C2607.00007%2C2607.00502%2C2607.00692%2C2607.01084%2C2607.01647%2C2607.02032%2C2607.02448%2C2607.02490%2C2607.02577%2C2607.02911%2C2607.03726%2C2607.05465%2C2607.05743%2C2607.05804&max_results=50 (retrieved 2026-11-05T23:03:05Z; SHA-256 3d44d185c972bf0d9fe3e9eef40e8ce3070b4c0c6d4fa554e928d4186b488306)

@@ -75,7 +75,7 @@
     }
   ],
   "name": "CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract describes artifact release as future work; this annotation does not assert current availability.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes artifact release as future work; this annotation does not assert current availability.",
   "published_at": "2026-03-03",
   "relations": [],
   "review_status": "curated",

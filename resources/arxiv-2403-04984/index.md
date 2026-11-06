@@ -14,7 +14,7 @@ UISCGD detects semantic groups of adjacent text and non-text UI elements. It lea
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2403-04984/record.json
 

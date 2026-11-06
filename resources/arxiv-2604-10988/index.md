@@ -14,7 +14,7 @@ Presents WebForge, a pipeline that plans, generates, refines and validates self-
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-10988/record.json
 

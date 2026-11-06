@@ -70,7 +70,7 @@
     }
   ],
   "name": "Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v5). The benchmark tests external prompt-style payloads without access to agents' internal parameters or serving stack. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v5).",
   "published_at": "2025-09-26",
   "relations": [],
   "review_status": "curated",

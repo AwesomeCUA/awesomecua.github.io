@@ -14,7 +14,7 @@ Uses web-element preference optimization with sampled negative HTML elements to 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-10742/record.json
 

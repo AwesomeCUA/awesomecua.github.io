@@ -77,7 +77,7 @@
     }
   ],
   "name": "MobiAgent: A Systematic Framework for Customizable Mobile Agents",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available.",
   "published_at": "2025-08-30",
   "relations": [],
   "review_status": "curated",

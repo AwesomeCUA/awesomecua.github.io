@@ -14,7 +14,7 @@ Introduces environments that couple 3D physical-world simulations with functiona
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The physical component is a simulation; the supported catalog connection is its functional web interaction.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The physical component is a simulation; the supported catalog connection is its functional web interaction.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-15677/record.json
 

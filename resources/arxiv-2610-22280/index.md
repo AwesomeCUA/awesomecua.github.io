@@ -14,7 +14,7 @@ Uses weak-agent uncertainty to decide when to escalate to a stronger model and m
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-22280/record.json
 

@@ -14,7 +14,7 @@ Surveys vision-based mobile app GUI testing across test generation, record-and-r
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The subject is mobile app testing research rather than a single agent or test system. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-13518/record.json
 

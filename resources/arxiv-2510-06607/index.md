@@ -14,7 +14,7 @@ Introduces AdvCLI, a sandbox benchmark for evaluating whether command-line agent
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). AdvCLI evaluates command-line agents and operating-system effects, rather than GUI interaction. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-06607/record.json
 

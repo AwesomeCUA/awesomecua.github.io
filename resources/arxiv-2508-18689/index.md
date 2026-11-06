@@ -14,7 +14,7 @@ Proposes a proactive GUI assistant that gathers information across domains in re
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-18689/record.json
 

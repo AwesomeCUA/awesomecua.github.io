@@ -14,7 +14,7 @@ GUIrilla systematically explores macOS interfaces to collect interaction traces 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-16051/record.json
 

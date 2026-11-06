@@ -14,7 +14,7 @@ GUI-Drag provides synthesized text-dragging examples, while ScreenDrag benchmark
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The dataset and benchmark focus on dragging to select and manipulate text. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The dataset and benchmark focus on dragging to select and manipulate text.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-06031/record.json
 

@@ -72,7 +72,7 @@
     }
   ],
   "name": "SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Webshop is evaluated alongside ALFWorld and VirtualHome; the method is presented for general agents. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Webshop is evaluated alongside ALFWorld and VirtualHome; the method is presented for general agents.",
   "published_at": "2025-05-27",
   "relations": [],
   "review_status": "curated",

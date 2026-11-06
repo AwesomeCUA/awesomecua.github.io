@@ -14,7 +14,7 @@ Introduces Watch & Learn (W&L), which converts human computer-use videos into UI
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The reported agent evaluations use OSWorld and WindowsAgentArena. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The reported agent evaluations use OSWorld and WindowsAgentArena.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-04673/record.json
 

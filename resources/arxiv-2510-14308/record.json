@@ -71,7 +71,7 @@
     }
   ],
   "name": "ReUseIt: Synthesizing Reusable AI Agent Workflows for Web Automation",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported task results cover fifteen repetitive tasks; the user study involved nine people. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported task results cover fifteen repetitive tasks; the user study involved nine people.",
   "published_at": "2025-10-16",
   "relations": [],
   "review_status": "curated",

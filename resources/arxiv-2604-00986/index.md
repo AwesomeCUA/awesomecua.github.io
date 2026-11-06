@@ -14,7 +14,7 @@ Introduces MyPhoneBench to verify whether phone-use agents minimize personal dat
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-00986/record.json
 

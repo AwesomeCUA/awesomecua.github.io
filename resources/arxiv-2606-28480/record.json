@@ -76,7 +76,7 @@
     }
   ],
   "name": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent general computer-operation benchmark: the evaluated interface is a terminal; GUI benchmarks are a contrast, not its execution modality.",
+  "notes": "Reviewed against the complete retained official abstract. Adjacent general computer-operation benchmark: the evaluated interface is a terminal; GUI benchmarks are a contrast, not its execution modality.",
   "published_at": "2026-06-26",
   "relations": [],
   "review_status": "curated",

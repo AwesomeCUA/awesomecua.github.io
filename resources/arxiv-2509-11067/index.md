@@ -14,7 +14,7 @@ Introduces Agentic Lybic, a desktop automation system that routes tasks among GU
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported result is from evaluation on OSWorld. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported result is from evaluation on OSWorld.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-11067/record.json
 

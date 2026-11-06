@@ -14,7 +14,7 @@ Introduces a real-computer evaluation environment with execution-based checks fo
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-07972/record.json
 

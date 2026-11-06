@@ -74,12 +74,15 @@
     }
   ],
   "name": "A Functionality-Grounded Benchmark for Evaluating Web Agents in E-commerce Domains",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-08-18",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Amazon-Bench generates functionality-specific web tasks from page content and interactive controls, covering operations beyond product search. Its evaluator checks task completion and unintended changes to account state, such as address or purchase settings.",
+  "task_classes": [
+    "R12.01.01.02"
+  ],
   "topics": [
     "evaluation",
     "safety-security",

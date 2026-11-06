@@ -14,7 +14,7 @@ Reports Seed1.5-VL, a general vision-language model evaluated on GUI control and
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI control is one agent task within a broader vision-language model report. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI control is one agent task within a broader vision-language model report.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-07062/record.json
 

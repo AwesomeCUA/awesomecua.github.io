@@ -72,7 +72,7 @@
     }
   ],
   "name": "From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation",
-  "notes": "The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.",
+  "notes": "The annotation was reviewed against the complete retained official abstract.",
   "published_at": "2026-01-09",
   "relations": [],
   "review_status": "curated",

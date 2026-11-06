@@ -14,7 +14,7 @@ Studies in-context defenses for computer agents exposed to misleading pop-ups an
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-09241/record.json
 

@@ -74,12 +74,15 @@
     }
   ],
   "name": "FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-09-01",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "FlashAdventure evaluates GUI agents on completing story arcs in 34 adventure games. It pairs an automated gameplay judge with COAST, a framework that keeps long-term clue memory to plan and complete sequential objectives.",
+  "task_classes": [
+    "R13.01.02.02"
+  ],
   "topics": [
     "evaluation",
     "long-horizon",

@@ -142,7 +142,7 @@
     }
   ],
   "name": "MiMo-VL Technical Report",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI grounding is one application within a broader multimodal model report. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI grounding is one application within a broader multimodal model report.",
   "published_at": "2025-06-04",
   "relations": [],
   "review_status": "curated",

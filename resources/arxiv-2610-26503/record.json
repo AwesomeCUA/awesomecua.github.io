@@ -83,7 +83,7 @@
     }
   ],
   "name": "ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents",
-  "notes": "Reviewed the complete abstract and selected v1 controlled-study, method and limitations sections. Results are offline, step-level action matching; online task success is explicitly left untested. The frozen actor is queried twice per step. No independent reproduction or redistribution-license claim.",
+  "notes": "Reviewed the complete abstract and selected v1 controlled-study, method and limitations sections. Results are offline, step-level action matching; online task success is explicitly left untested. The frozen actor is queried twice per step.",
   "published_at": "2026-10-19",
   "relations": [],
   "review_status": "curated",

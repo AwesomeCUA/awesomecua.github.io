@@ -14,7 +14,7 @@ Introduces MM-BrowseComp, a benchmark for browsing agents that must use evidence
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark evaluates evidence retrieval and reasoning during browsing, rather than completing website workflows. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-13186/record.json
 

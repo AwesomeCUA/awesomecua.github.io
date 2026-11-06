@@ -14,7 +14,7 @@ Introduces Genesis, a red-teaming framework that generates adversarial injection
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The experiments concern attacks across web tasks. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The experiments concern attacks across web tasks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-18314/record.json
 

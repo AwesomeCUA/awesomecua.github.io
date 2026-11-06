@@ -73,7 +73,7 @@
     }
   ],
   "name": "Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations",
-  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot.",
   "published_at": "2019-08-30",
   "relations": [],
   "review_status": "curated",

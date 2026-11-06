@@ -14,7 +14,7 @@ Introduces GhostEI-Bench, a benchmark that injects deceptive UI events into Andr
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The attacks are evaluated within Android emulators. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The attacks are evaluated within Android emulators.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-20333/record.json
 

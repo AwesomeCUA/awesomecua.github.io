@@ -14,7 +14,7 @@ Introduces QTypist, an LLM-based method that generates text inputs from mobile G
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation covers 106 apps from Google Play. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation covers 106 apps from Google Play.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2212-04732/record.json
 

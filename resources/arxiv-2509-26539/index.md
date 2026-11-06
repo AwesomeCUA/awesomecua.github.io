@@ -14,7 +14,7 @@ Ferret-UI Lite develops a 3B GUI agent using mixed real and synthetic data, reas
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-26539/record.json
 

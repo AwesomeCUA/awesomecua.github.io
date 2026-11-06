@@ -14,7 +14,7 @@ Introduces long mobile workflows that combine agent-user interaction, cross-appl
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-19432/record.json
 

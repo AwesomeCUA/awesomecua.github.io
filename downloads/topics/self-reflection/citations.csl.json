@@ -2209,6 +2209,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.23559v2",
+    "archive": "arXiv",
+    "archive_location": "2603.23559",
+    "author": [
+      {
+        "literal": "Yuxi Chen"
+      },
+      {
+        "literal": "Haoyu Zhai"
+      },
+      {
+        "literal": "Chenkai Wang"
+      },
+      {
+        "literal": "Rui Yang"
+      },
+      {
+        "literal": "Lingming Zhang"
+      },
+      {
+        "literal": "Gang Wang"
+      },
+      {
+        "literal": "Huan Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2603_23559",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2e699a4bd19fb8a0cd68ad47ee432a937323e21493da27e881b81f62c14c48ca",
+        "submitted_at": "2026-03-23T23:35:59Z",
+        "updated_at": "2026-06-29T04:46:30Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2603.23559v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.23559",
+      "catalog_id": "arxiv:2603.23559",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-23",
+      "identifiers": {
+        "arxiv": "2603.23559"
+      },
+      "record_updated_at": "2026-06-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.23559",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-23; Recorded arXiv version: v2; Recorded version updated: 2026-06-29T04:46:30Z.",
+    "title": "CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.21268v1",
     "archive": "arXiv",
     "archive_location": "2604.21268",
@@ -2361,6 +2425,146 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.23939v1",
+    "archive": "arXiv",
+    "archive_location": "2605.23939",
+    "author": [
+      {
+        "literal": "Xirui Liu"
+      },
+      {
+        "literal": "Sihang Zhou"
+      },
+      {
+        "literal": "Yanning Hou"
+      },
+      {
+        "literal": "Rong Zhou"
+      },
+      {
+        "literal": "Haoyuan Chen"
+      },
+      {
+        "literal": "Maolin He"
+      },
+      {
+        "literal": "Siwei Wang"
+      },
+      {
+        "literal": "Hao Chen"
+      },
+      {
+        "literal": "Jian Huang"
+      }
+    ],
+    "citation-key": "arxiv_2605_23939",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "afe80d68ecd01287a04d88f2afc64d4722677deefc5b670d80c188b4e16145c2",
+        "submitted_at": "2026-04-28T11:39:20Z",
+        "updated_at": "2026-04-28T11:39:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.23939v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.23939",
+      "catalog_id": "arxiv:2605.23939",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-28",
+      "identifiers": {
+        "arxiv": "2605.23939"
+      },
+      "record_updated_at": "2026-04-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.23939",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-28; Recorded arXiv version: v1; Recorded version updated: 2026-04-28T11:39:20Z.",
+    "title": "DRIVE: Modeling Skills at the Reasoning and Interaction Levels for Web Agents under Continual Learning",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.31365v1",
+    "archive": "arXiv",
+    "archive_location": "2605.31365",
+    "author": [
+      {
+        "literal": "Weile Chen"
+      },
+      {
+        "literal": "Bingchen Miao"
+      },
+      {
+        "literal": "Qifan Yu"
+      },
+      {
+        "literal": "Wendong Bu"
+      },
+      {
+        "literal": "Guoming Wang"
+      },
+      {
+        "literal": "Wenqiao Zhang"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      },
+      {
+        "literal": "Juncheng Li"
+      },
+      {
+        "literal": "Siliang Tang"
+      }
+    ],
+    "citation-key": "arxiv_2605_31365",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "46c624e47b943201cceba50f85331506d6044522d4a3b3ef876553d1d29a8e83",
+        "submitted_at": "2026-05-29T14:37:27Z",
+        "updated_at": "2026-05-29T14:37:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.31365v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.31365",
+      "catalog_id": "arxiv:2605.31365",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-29",
+      "identifiers": {
+        "arxiv": "2605.31365"
+      },
+      "record_updated_at": "2026-05-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.31365",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T14:37:27Z.",
+    "title": "Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.31270v1",
     "archive": "arXiv",
     "archive_location": "2606.31270",
@@ -2419,6 +2623,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2607.00007v2",
+    "archive": "arXiv",
+    "archive_location": "2607.00007",
+    "author": [
+      {
+        "literal": "Soojeong Lee"
+      },
+      {
+        "literal": "Joseph Lee"
+      },
+      {
+        "literal": "Yongseong Cho"
+      },
+      {
+        "literal": "Sunjae Kim"
+      },
+      {
+        "literal": "Youngwoo Moon"
+      },
+      {
+        "literal": "Kyungwoo Song"
+      }
+    ],
+    "citation-key": "arxiv_2607_00007",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b564b795c6df353a4c6ac7f3cd6ceb72f341f9ec331cb20ba0f2e9b2147ef1ed",
+        "submitted_at": "2026-05-02T08:09:10Z",
+        "updated_at": "2026-07-02T06:17:26Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.00007v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.00007",
+      "catalog_id": "arxiv:2607.00007",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-05-02",
+      "identifiers": {
+        "arxiv": "2607.00007"
+      },
+      "record_updated_at": "2026-07-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.00007",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-02; Recorded arXiv version: v2; Recorded version updated: 2026-07-02T06:17:26Z.",
+    "title": "BaRA: Budget-constrained and Reliable Web Data Collection Agent",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.24167v1",
     "archive": "arXiv",
     "archive_location": "2607.24167",
@@ -2467,6 +2732,88 @@
     },
     "note": "First published: 2026-07-27; Recorded arXiv version: v1; Recorded version updated: 2026-07-27T08:48:01Z.",
     "title": "Falsifiable Commitment Planning for Self-Correcting Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.28272v1",
+    "archive": "arXiv",
+    "archive_location": "2607.28272",
+    "author": [
+      {
+        "literal": "Rong Wu"
+      },
+      {
+        "literal": "Daocheng Fu"
+      },
+      {
+        "literal": "Licheng Wen"
+      },
+      {
+        "literal": "Xuemeng Yang"
+      },
+      {
+        "literal": "Shu Zou"
+      },
+      {
+        "literal": "Jianbiao Mei"
+      },
+      {
+        "literal": "Yuxin Wang"
+      },
+      {
+        "literal": "Hairong Zhang"
+      },
+      {
+        "literal": "Yu Yang"
+      },
+      {
+        "literal": "Tao Hu"
+      },
+      {
+        "literal": "Cong Zhang"
+      },
+      {
+        "literal": "Botian Shi"
+      },
+      {
+        "literal": "Pinlong Cai"
+      }
+    ],
+    "citation-key": "arxiv_2607_28272",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6470315f4b51c0dcd2cde5e1ea46c5b4cc873f5d4ab7ea462c518c7aec5d0fd2",
+        "submitted_at": "2026-07-30T14:25:49Z",
+        "updated_at": "2026-07-30T14:25:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.28272v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.28272",
+      "catalog_id": "arxiv:2607.28272",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-07-30",
+      "identifiers": {
+        "arxiv": "2607.28272"
+      },
+      "record_updated_at": "2026-07-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.28272",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T14:25:49Z.",
+    "title": "MemHarness: Memory Is Reconstructed, Not Replayed",
     "type": "article",
     "version": "1"
   },
@@ -2727,6 +3074,55 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2608.11191v1",
+    "archive": "arXiv",
+    "archive_location": "2608.11191",
+    "author": [
+      {
+        "literal": "Shiyu Xuan"
+      },
+      {
+        "literal": "Zechao Li"
+      }
+    ],
+    "citation-key": "arxiv_2608_11191",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a973f0bd8b1fef4601ab686274591905753c33f6360beb3a497d1b7a3343e226",
+        "submitted_at": "2026-08-11T17:50:25Z",
+        "updated_at": "2026-08-11T17:50:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.11191v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.11191",
+      "catalog_id": "arxiv:2608.11191",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-11",
+      "identifiers": {
+        "arxiv": "2608.11191"
+      },
+      "record_updated_at": "2026-08-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.11191",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T17:50:25Z.",
+    "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2608.24015v1",
     "archive": "arXiv",
     "archive_location": "2608.24015",
@@ -2964,6 +3360,265 @@
     },
     "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T06:45:23Z.",
     "title": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.25601v1",
+    "archive": "arXiv",
+    "archive_location": "2610.25601",
+    "author": [
+      {
+        "literal": "Hridya Dhulipala"
+      },
+      {
+        "literal": "Xiaokai Rong"
+      },
+      {
+        "literal": "Aashish Yadavally"
+      },
+      {
+        "literal": "Tien N. Nguyen"
+      }
+    ],
+    "citation-key": "arxiv_2610_25601",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2e03ebe24ed7c3d3283d4c71f9244bf42e682f4e2ffa4f8e4482cfcab67b8ddb",
+        "submitted_at": "2026-10-19T00:07:30Z",
+        "updated_at": "2026-10-19T00:07:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.25601v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.25601",
+      "catalog_id": "arxiv:2610.25601",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-19",
+      "identifiers": {
+        "arxiv": "2610.25601"
+      },
+      "record_updated_at": "2026-10-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.25601",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T00:07:30Z.",
+    "title": "Step-Aligned Script Generation with Verification and Recovery for Web Automation Testing",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.36874v1",
+    "archive": "arXiv",
+    "archive_location": "2610.36874",
+    "author": [
+      {
+        "literal": "Bingchao Wang"
+      },
+      {
+        "literal": "Yongcheng Jing"
+      },
+      {
+        "literal": "Chengyu Wang"
+      },
+      {
+        "literal": "Jun Huang"
+      },
+      {
+        "literal": "Jie Yang"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Dacheng Tao"
+      }
+    ],
+    "citation-key": "arxiv_2610_36874",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f2ffbd7506bc1fac0f749e516ad2fb3d4da6b6be5403194104167c8388163f67",
+        "submitted_at": "2026-10-27T09:12:35Z",
+        "updated_at": "2026-10-27T09:12:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.36874v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.36874",
+      "catalog_id": "arxiv:2610.36874",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-27",
+      "identifiers": {
+        "arxiv": "2610.36874"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.36874",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T09:12:35Z.",
+    "title": "AdaGround: Token-Normalized Adaptive Zooming with Verifier-in-the-Loop Refinement for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.02472v1",
+    "archive": "arXiv",
+    "archive_location": "2611.02472",
+    "author": [
+      {
+        "literal": "Jingxuan Wei"
+      },
+      {
+        "literal": "Jiahao Fu"
+      },
+      {
+        "literal": "Fuqiang Wang"
+      },
+      {
+        "literal": "Xiaoming Wu"
+      },
+      {
+        "literal": "Yuwen Liu"
+      },
+      {
+        "literal": "Kaiwen Wei"
+      },
+      {
+        "literal": "Ming Yang"
+      },
+      {
+        "literal": "Junnan Zhu"
+      }
+    ],
+    "citation-key": "arxiv_2611_02472",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "587df3e746fbd39394bd52b68d984d2efbeb56ce5810c0983b4dd378bb033b8a",
+        "submitted_at": "2026-11-02T03:40:49Z",
+        "updated_at": "2026-11-02T03:40:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.02472v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.02472",
+      "catalog_id": "arxiv:2611.02472",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-11-02",
+      "identifiers": {
+        "arxiv": "2611.02472"
+      },
+      "record_updated_at": "2026-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.02472",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T03:40:49Z.",
+    "title": "MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.03238v1",
+    "archive": "arXiv",
+    "archive_location": "2611.03238",
+    "author": [
+      {
+        "literal": "Daiqiang Li"
+      },
+      {
+        "literal": "Jingyi Peng"
+      },
+      {
+        "literal": "Rui Hu"
+      },
+      {
+        "literal": "Jia Li"
+      },
+      {
+        "literal": "Xuyang Liu"
+      },
+      {
+        "literal": "Guanren Qiao"
+      },
+      {
+        "literal": "Yujia Xiang"
+      },
+      {
+        "literal": "Qiuzhuang Sun"
+      },
+      {
+        "literal": "Zhiping Xu"
+      },
+      {
+        "literal": "Mingrui Luo"
+      }
+    ],
+    "citation-key": "arxiv_2611_03238",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "17f294fd8318b9bd60a3044d784432f62dcbc36101e74aa9b28806aa6890e4a6",
+        "submitted_at": "2026-11-02T14:50:06Z",
+        "updated_at": "2026-11-02T14:50:06Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.03238v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.03238",
+      "catalog_id": "arxiv:2611.03238",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-11-02",
+      "identifiers": {
+        "arxiv": "2611.03238"
+      },
+      "record_updated_at": "2026-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.03238",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T14:50:06Z.",
+    "title": "ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents",
     "type": "article",
     "version": "1"
   }

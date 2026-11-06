@@ -14,7 +14,7 @@ This permission-literacy study tests whether mobile GUI agents grant only task-n
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-04755/record.json
 

@@ -14,7 +14,7 @@ FineState-Bench evaluates fine-grained GUI perception and control across desktop
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-09241/record.json
 

@@ -75,7 +75,7 @@
     }
   ],
   "name": "CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). It operates FreeCAD through a Python API; the abstract does not describe GUI control. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2024-12-18",
   "relations": [],
   "review_status": "curated",

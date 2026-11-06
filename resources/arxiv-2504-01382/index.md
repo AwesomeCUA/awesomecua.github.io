@@ -14,7 +14,7 @@ Introduces Online-Mind2Web, with 300 tasks across 136 live websites, and examine
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-01382/record.json
 

@@ -14,7 +14,7 @@ Bibliographic record for ViBench 2.0: A Benchmark for Long-Horizon Software Buil
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2611-05620/record.json
 

@@ -14,7 +14,7 @@ Presents ColorAgent, an operating system agent for long-horizon user instruction
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract says current benchmarks are insufficient for comprehensive evaluation of OS agents. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract says current benchmarks are insufficient for comprehensive evaluation of OS agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-19386/record.json
 

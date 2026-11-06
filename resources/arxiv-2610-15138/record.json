@@ -68,12 +68,15 @@
     }
   ],
   "name": "The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-10-10",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Studies prompt-injected account-access approvals in browser agents and proposes a service-side authority envelope that checks authorization requests against the user task before allowing them to complete.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security",
     "evaluation"

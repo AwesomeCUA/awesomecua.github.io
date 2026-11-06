@@ -76,7 +76,7 @@
     }
   ],
   "name": "Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The reported comparison with a screen-based mobile assistant uses MobileSafetyBench. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The reported comparison with a screen-based mobile assistant uses MobileSafetyBench.",
   "published_at": "2026-02-11",
   "relations": [],
   "review_status": "curated",

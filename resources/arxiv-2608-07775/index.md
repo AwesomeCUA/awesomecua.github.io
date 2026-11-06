@@ -14,7 +14,7 @@ Extends AndroidWorld with controlled state, transition, and action perturbations
 
 ## Limitations
 
-The reviewed protocol normally activates one perturbation type at a time while preserving task semantics and reward. Results do not establish robustness to arbitrary combined deployment disturbances; experiments were not independently reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Perturbation formulation; 3.2 Injection; 3.3 Evaluation protocol; 4.3 Error analysis); not an entire-paper reading or reproduction claim.
+The reviewed protocol normally activates one perturbation type at a time while preserving task semantics and reward. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Perturbation formulation; 3.2 Injection; 3.3 Evaluation protocol; 4.3 Error analysis).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-07775/record.json
 

@@ -14,7 +14,7 @@ Bibliographic record for Preference-conditioned Pixel-based AI Agent For Game Te
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2308-09289/record.json
 

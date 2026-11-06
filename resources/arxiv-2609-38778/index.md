@@ -14,7 +14,7 @@ Defines a GUI-memory merge rule that treats two states as equivalent only when s
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-38778/record.json
 

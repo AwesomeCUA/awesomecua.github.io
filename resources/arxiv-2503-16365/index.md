@@ -14,7 +14,7 @@ Introduces Act from Visual Language Post-Training, a method for agents that foll
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported tasks are Minecraft gameplay tasks. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported tasks are Minecraft gameplay tasks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-16365/record.json
 

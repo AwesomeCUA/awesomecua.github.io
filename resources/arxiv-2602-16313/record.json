@@ -80,7 +80,7 @@
     }
   ],
   "name": "MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.",
+  "notes": "Reviewed against the complete retained official abstract.",
   "published_at": "2026-02-18",
   "relations": [],
   "review_status": "curated",

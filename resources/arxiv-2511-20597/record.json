@@ -73,12 +73,15 @@
     }
   ],
   "name": "BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2025-11-25",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "BrowseSafe builds a benchmark of prompt injections in realistic HTML for browser agents and evaluates defenses against attacks that can affect agent actions.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security",
     "evaluation",

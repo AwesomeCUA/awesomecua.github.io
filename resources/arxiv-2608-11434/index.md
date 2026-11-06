@@ -14,7 +14,7 @@ MobileJudgeBench compares completion judges against human labels on mobile-agent
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-11434/record.json
 

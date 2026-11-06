@@ -14,7 +14,7 @@ Combines operating-procedure context with user interaction to guide mobile task 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2401-04124/record.json
 

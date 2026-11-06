@@ -74,12 +74,15 @@
     }
   ],
   "name": "CORNET: Learning Table Formatting Rules By Example",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v4). It learns spreadsheet formatting rules from examples; the abstract does not describe operating a GUI. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v4).",
   "published_at": "2022-08-11",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces CORNET, a system that learns spreadsheet conditional-formatting rules from cells formatted by users, using symbolic rule enumeration and a neural ranker.",
+  "task_classes": [
+    "R04.03.01.04"
+  ],
   "topics": [
     "automation",
     "imitation-learning"

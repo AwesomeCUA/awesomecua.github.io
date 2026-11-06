@@ -14,7 +14,7 @@ Improves GUI-agent execution code by analyzing action effects and repeated-task 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-00948/record.json
 

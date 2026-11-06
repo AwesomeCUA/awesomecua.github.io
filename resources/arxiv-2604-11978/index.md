@@ -14,7 +14,7 @@ Bibliographic record for The Long-Horizon Task Mirage? Diagnosing Where and Why 
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-11978/record.json
 

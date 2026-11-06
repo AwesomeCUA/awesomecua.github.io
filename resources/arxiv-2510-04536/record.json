@@ -72,12 +72,15 @@
     }
   ],
   "name": "3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI operation is a fallback within a 3D content-generation framework. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI operation is a fallback within a 3D content-generation framework.",
   "published_at": "2025-10-06",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces 3Dify, a natural-language 3D graphics framework that operates creation tools through MCP and uses a computer-using agent for GUI operations when MCP is unavailable.",
+  "task_classes": [
+    "R06.06.01.03"
+  ],
   "topics": [
     "automation",
     "tool-integration",

@@ -14,7 +14,7 @@ Introduces GUI-Owl models and Mobile-Agent-v3 orchestration, using environment-g
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-15144/record.json
 

@@ -93,7 +93,7 @@
     }
   ],
   "name": "Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark assesses agentic search answers and source attribution. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark assesses agentic search answers and source attribution.",
   "published_at": "2025-06-26",
   "relations": [],
   "review_status": "curated",

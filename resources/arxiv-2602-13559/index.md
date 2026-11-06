@@ -14,7 +14,7 @@ OpAgent combines multi-task GUI fine-tuning with online web reinforcement learni
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-13559/record.json
 

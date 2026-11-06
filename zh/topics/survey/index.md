@@ -6,14 +6,24 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
 
 ## 论文与综述
 
+- [Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://awesomecua.com/resources/arxiv-2610-30108/) — 2026-10-21
+  PAPAV is a capability framework and survey comparing computer-use agents with physical agents through perception, anticipation, planning, action and verification.
 - [Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory](https://awesomecua.com/resources/arxiv-2610-19366/) — 2026-10-14
   Surveys multimodal memory using representation and management axes, distinguishing fixed-policy updates from policy evolution and comparing GUI memory evaluation with other modalities.
 - [Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization](https://awesomecua.com/resources/arxiv-2609-02309/) — 2026-09-02
   Surveys GUI-agent efficiency beyond task success: observation, context and memory, action, and planner or runtime cost.
 - [A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security](https://awesomecua.com/resources/arxiv-2608-29596/) — 2026-08-30
   Surveys modular agentic skill architectures, skill lifecycles, and security risks in autonomous tool- and interface-using agents.
+- [Software Engineering for and with GUI Agent](https://awesomecua.com/resources/arxiv-2608-09278/) — 2026-08-10
+  Surveys 336 GUI-agent papers through a software engineering lens, covering architectures, evaluation, and lifecycle concerns in mobile and web settings.
+- [Securing Computer-Use Agents: A Unified Architecture-Lifecycle Framework for Deployment-Grounded Reliability](https://awesomecua.com/resources/arxiv-2605-07110/) — 2026-05-08
+  Survey of computer-use agent reliability and security across browsers, desktops, and mobile apps, using architecture and lifecycle views to map failures and controls.
+- [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://awesomecua.com/resources/arxiv-2604-22748/) — 2026-04-24
+  Survey of agentic world models that classifies predictive capabilities and governing laws, including the digital setting of web and GUI agents.
 - [A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](https://awesomecua.com/resources/arxiv-2604-16548/) — 2026-04-17
   Organizes security risks and defenses for persistent agent memory into six lifecycle phases and proposes five verifiable governance primitives.
+- [The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration](https://awesomecua.com/resources/arxiv-2603-22862/) — 2026-03-24
+  Surveys multi-tool LLM agents across planning, training, safety, efficiency, and evaluation, including GUI and mobile systems among its application areas.
 - [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://awesomecua.com/resources/arxiv-2602-12430/) — 2026-02-12
   This survey organizes agent skills by architecture, acquisition, deployment and security, including their role in computer-use systems and GUI grounding. It also proposes a permission and lifecycle governance framework for skill deployment.
 - [Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents](https://awesomecua.com/resources/arxiv-2601-12560/) — 2026-01-18

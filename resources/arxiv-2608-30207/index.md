@@ -14,7 +14,7 @@ Introduces SIR, which iteratively refines a reusable library of prompt-injection
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-30207/record.json
 

@@ -14,7 +14,7 @@ Derives task graphs from demonstrated Android app interactions and layers a conv
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced.
+The annotation was reviewed against retained primary publication sources.
 
 - Record JSON: https://awesomecua.com/resources/url-901ca855640457dfe2f1/record.json
 

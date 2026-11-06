@@ -14,7 +14,7 @@ Introduces UITron-Speech, which predicts GUI actions from spoken instructions an
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-11127/record.json
 

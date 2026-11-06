@@ -14,7 +14,7 @@ Introduces BugCraft, which turns Minecraft crash reports into steps and has a vi
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The automated reproduction target is crash bugs in Minecraft. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The automated reproduction target is crash bugs in Minecraft.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-20036/record.json
 

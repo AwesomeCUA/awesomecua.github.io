@@ -74,7 +74,7 @@
     }
   ],
   "name": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-  "notes": "Privileged screenshot history is used during training, while deployment retains self-generated textual state. GUI results use action/step metrics and model-specific history settings; online Sokoban transfer is separate. GRPO rewards action correctness, valid output format and compression length. Diagnostic memory replay is distinct from the validation gap used to schedule training. No independent reproduction.",
+  "notes": "Privileged screenshot history is used during training, while deployment retains self-generated textual state. GUI results use action/step metrics and model-specific history settings; online Sokoban transfer is separate. GRPO rewards action correctness, valid output format and compression length. Diagnostic memory replay is distinct from the validation gap used to schedule training.",
   "published_at": "2026-10-14",
   "relations": [],
   "review_status": "curated",

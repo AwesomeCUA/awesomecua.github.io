@@ -14,7 +14,7 @@ Agent-E combines hierarchical web-task control with DOM distillation and observa
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2407-13032/record.json
 

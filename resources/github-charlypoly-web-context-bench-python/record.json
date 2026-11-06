@@ -156,7 +156,7 @@
     }
   ],
   "name": "Web Context Bench (Python)",
-  "notes": "This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only. Selected scoring code was read, but no models, browser tasks or claimed results were run or reproduced.",
+  "notes": "This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only.",
   "published_at": null,
   "relations": [],
   "review_status": "curated",

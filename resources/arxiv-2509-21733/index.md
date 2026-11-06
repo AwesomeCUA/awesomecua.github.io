@@ -14,7 +14,7 @@ Introduces UISim, an image-based mobile UI simulator that predicts the next scre
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Planning for agent navigation is described as a potential application of the simulator. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Planning for agent navigation is described as a potential application of the simulator.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-21733/record.json
 

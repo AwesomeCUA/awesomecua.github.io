@@ -14,7 +14,7 @@ Builds synthetic websites with verified navigation, backend state, and feasible 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-21898/record.json
 

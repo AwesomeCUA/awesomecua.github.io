@@ -14,7 +14,7 @@ Benchmarks truthfulness, controllability, safety, and privacy of multimodal LLM 
 
 ## Limitations
 
-The contribution was reviewed from the retained paper abstract; Android setup is supported separately by the official project README. No benchmark results were independently reproduced.
+The contribution was reviewed from the retained paper abstract; Android setup is supported separately by the official project README.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-01616/record.json
 

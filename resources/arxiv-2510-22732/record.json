@@ -77,7 +77,7 @@
     }
   ],
   "name": "WebATLAS: An LLM Agent with Experience-Driven Memory and Action Simulation",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported success rate is measured on WebArena-Lite. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The reported success rate is measured on WebArena-Lite.",
   "published_at": "2025-10-26",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Describes a foundation GUI agent with combined GUI and command-line actions, lar
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-28227/record.json
 

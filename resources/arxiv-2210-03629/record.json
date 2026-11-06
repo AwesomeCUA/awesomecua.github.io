@@ -74,7 +74,7 @@
     }
   ],
   "name": "ReAct: Synergizing Reasoning and Acting in Language Models",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several evaluation tasks, alongside question answering, fact verification and ALFWorld. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several evaluation tasks, alongside question answering, fact verification and ALFWorld.",
   "published_at": "2022-10-06",
   "relations": [],
   "review_status": "curated",

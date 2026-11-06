@@ -68,7 +68,7 @@
     }
   ],
   "name": "What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics",
-  "notes": "Evaluation instructs the model to simulate compromise and measures planner outputs and permission appearance. Utility uses plan matching and LLM-judged element suitability; no steps are executed in that assessment. Assumes an honest first party, trusted browser/harness and untampered instrumentation; multi-page and availability attacks are outside scope. Parallel latency reduction is an unimplemented estimate. No independent reproduction.",
+  "notes": "Evaluation instructs the model to simulate compromise and measures planner outputs and permission appearance. Utility uses plan matching and LLM-judged element suitability; no steps are executed in that assessment. Assumes an honest first party, trusted browser/harness and untampered instrumentation; multi-page and availability attacks are outside scope. Parallel latency reduction is an unimplemented estimate.",
   "published_at": "2026-10-15",
   "relations": [],
   "review_status": "curated",

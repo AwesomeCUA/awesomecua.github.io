@@ -14,7 +14,7 @@ Coordinates specialized Windows UI agents with dynamic task scheduling, shared m
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-09263/record.json
 

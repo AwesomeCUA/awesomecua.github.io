@@ -14,7 +14,7 @@ EcoAgent splits mobile automation between cloud planning and on-device observati
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-05440/record.json
 

@@ -82,7 +82,7 @@
     }
   ],
   "name": "CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract promises future open sourcing; this annotation does not independently verify artifact release or licensing.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract promises future open sourcing; this annotation does not independently verify artifact release or licensing.",
   "published_at": "2026-05-25",
   "relations": [],
   "review_status": "curated",

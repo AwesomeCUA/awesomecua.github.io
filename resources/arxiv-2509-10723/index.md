@@ -14,7 +14,7 @@ Studies how GUI agents, people, and human-agent teams respond to manipulative in
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-10723/record.json
 

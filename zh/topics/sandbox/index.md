@@ -6,6 +6,10 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
 
 ## 论文与综述
 
+- [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://awesomecua.com/resources/arxiv-2611-03634/) — 2026-11-02
+  Introduces WebHarbor, a suite of 153 executable website environments and 3,518 tasks for evaluating and training GUI web agents on interactive workflows.
+- [WebAnything: From the Wild Web to Scalable Agent Environments](https://awesomecua.com/resources/arxiv-2610-37786/) — 2026-10-27
+  Introduces WebAnything, a framework that reconstructs reusable, resettable website environments from real URLs for web-agent training and evaluation.
 - [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://awesomecua.com/resources/arxiv-2610-26828/) — 2026-10-19
   WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning.
 - [CUA-Lite: An Open Platform for Computer Use Agents](https://awesomecua.com/resources/arxiv-2610-26071/) — 2026-10-19
@@ -16,24 +20,40 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Unifies GUI evaluation, trajectory collection, environment synthesis, and online reinforcement learning across mobile, computer, and web tasks.
 - [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://awesomecua.com/resources/arxiv-2610-12611/) — 2026-10-08
   Introduces SoftwareGym, a pipeline that synthesizes runnable GUI applications and iteratively repairs them using execution checks. It also provides a task benchmark and studies whether training on synthesized application trajectories transfers to other computer-use environments.
+- [StateFork: Branchable Infrastructure for Agent Exploration](https://awesomecua.com/resources/arxiv-2609-38648/) — 2026-09-29
+  Introduces StateFork and Waypoint for branching and restoring terminal-agent sessions so agents can explore multiple paths while preserving execution state.
 - [CUA-Sandbox: Efficient Environments for Computer-Use Agent Reinforcement Learning](https://awesomecua.com/resources/arxiv-2609-32750/) — 2026-09-26
   Introduces CUA-Sandbox, which separates each rollout’s mutable state from shared initialized software runtimes. State-scoped execution and transactional resets or branches aim to reduce training-environment costs while retaining original interfaces and evaluators.
+- [RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation](https://awesomecua.com/resources/arxiv-2609-16900/) — 2026-09-15
+  Introduces RiskChainBench, pairing obfuscated-message restoration with web-agent investigation of linked sites in labeled local web environments.
+- [CoArena: Evaluating Computer-Use and Multi-Agent Systems in Real Time](https://awesomecua.com/resources/arxiv-2609-14239/) — 2026-09-13
+  Introduces CoArena, an evaluation method where user tasks run concurrently in sandboxed desktops and blind pairwise judgments update a public leaderboard.
 - [APPSim-Bench: Bridging Real-world Apps and Reproducible Evaluation for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2609-07712/) — 2026-09-07
   Introduces controlled simulated mobile apps with deterministic backend data and outcome checks for reproducible evaluation of realistic interactions.
 - [CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents](https://awesomecua.com/resources/arxiv-2609-05374/) — 2026-09-04
   Turns desktop applications into reproducible GUI-and-CLI environments and generates verified hybrid trajectories for agent post-training.
 - [BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](https://awesomecua.com/resources/arxiv-2608-24848/) — 2026-08-25
   Introduces BrowserForge, which combines broad website sourcing, parallel browser sandboxes, and task-proposer/solver interaction to collect verified web trajectories. The pipeline uses page structure during synthesis but trains a policy that acts from screenshots.
+- [Spine-Branch Coordination for Multi-agent Computer Use](https://awesomecua.com/resources/arxiv-2608-22077/) — 2026-08-22
+  Introduces Spine-Branch Coordination, which assigns a main task flow to one virtual-machine state and uses parallel branch machines to gather information for computer-use agents.
 - [Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning](https://awesomecua.com/resources/arxiv-2608-21898/) — 2026-08-22
   Builds synthetic websites with verified navigation, backend state, and feasible tasks to provide reliable supervision for web-agent training.
+- [Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents](https://awesomecua.com/resources/arxiv-2608-02018/) — 2026-08-03
+  Introduces II-Bench for low-harm indirect prompt injections against computer-use agents and HITLCUA for testing them in virtual-machine and web environments with simulated user review.
 - [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://awesomecua.com/resources/arxiv-2607-28074/) — 2026-07-30
   Introduces Echoverse, which compiles specifications into stateful applications with database-grounded graders and uses rollouts to improve both the environments and agent policies. It examines behavioral depth, targeted interface practice, and environment repair as sources of training value.
 - [OpenForgeRL: Train Harness-native Agents in Any Environment](https://awesomecua.com/resources/arxiv-2607-21557/) — 2026-07-23
   OpenForgeRL connects stateful agent harnesses to reinforcement-learning infrastructure through a model-call recording proxy and isolated rollout containers. Its validation includes browser and computer-use agents, alongside tool-oriented agents, and examines how harness choice affects learned reliability.
+- [UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](https://awesomecua.com/resources/arxiv-2607-08768/) — 2026-07-09
+  Introduces UniClawBench, a benchmark of proactive agents on bilingual real-world tasks, evaluated in live Docker containers with stepwise checkpoints and simulated user feedback.
 - [EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents](https://awesomecua.com/resources/arxiv-2607-09773/) — 2026-07-07
   EvoCUA-1.5 trains multi-turn desktop agents through online reinforcement learning in executable sandboxes. It combines step-level policy optimization, task filtering and calibration, an adaptive curriculum, and asynchronous rollout handling with staleness control.
 - [Untrusted Content Masking for Web Agents with Security Guarantees](https://awesomecua.com/resources/arxiv-2607-05277/) — 2026-07-06
   Untrusted Content Masking uses DOM structure to redact untrusted webpage regions before agent observation. A sandboxed interaction interface separates privileges so browser actions can proceed under the proposed trust-boundary model without exposing protected content to the planner.
+- [AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction](https://awesomecua.com/resources/arxiv-2606-23449/) — 2026-06-22
+  Introduces AOHP, an Android OS-level harness that treats agents as system actors and provides adaptive interfaces, agent interfaces, and information-flow controls.
+- [OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents](https://awesomecua.com/resources/arxiv-2606-02031/) — 2026-06-01
+  Introduces OpenWebRL, a framework for training visual web agents with online multi-turn reinforcement learning on live websites, including browser infrastructure and success judging.
 - [PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents](https://awesomecua.com/resources/arxiv-2605-29486/) — 2026-05-28
   Introduces PhoneWorld, which converts observed app pages, transitions and state changes into executable Android environments through a build-inspect-repair process. Generated tasks and programmatic verifiers support benchmarking, trajectory collection and online training.
 - [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://awesomecua.com/resources/arxiv-2605-26114/) — 2026-05-25
@@ -44,8 +64,22 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   Introduces ScaleWoB, which synthesizes interactive GUI environments as backend-free webpages with verifiable rewards. Its mobile-oriented benchmark evaluates agent execution and compares selected synthetic tasks with real-app behavior.
 - [TClone: Low-Latency Forking of Live GUI Environments for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2605-17320/) — 2026-05-17
   TClone versions live GUI workspaces through snapshots, isolated forks, rollback and selective commit or merge. It separates fast branch creation from durable checkpoints using copy-on-write sharing, filesystem versioning and asynchronous checkpointing, with end-to-end agent-loop latency measurements.
+- [ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents](https://awesomecua.com/resources/arxiv-2605-16116/) — 2026-05-15
+  ShopGym builds sandbox e-commerce storefronts from live shops and generates catalog-grounded tasks for evaluating web shopping agents in resettable environments.
+- [Orchard: An Open-Source Agentic Modeling Framework](https://awesomecua.com/resources/arxiv-2605-15040/) — 2026-05-14
+  Orchard provides an environment service and training recipes for several agent domains, including Orchard-GUI, a vision-language computer-use agent.
+- [WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation](https://awesomecua.com/resources/arxiv-2605-10912/) — 2026-05-11
+  WildClawBench evaluates CLI agents on long, multimodal tasks in Docker containers with real tools, using task checks, side-effect audits, and a semantic judge.
+- [Computer Use at the Edge of the Statistical Precipice](https://awesomecua.com/resources/arxiv-2605-08261/) — 2026-05-07
+  DigiWorld is a sandboxed mobile-app benchmark for computer-use agents, paired with PRISM environment principles and a confidence-interval aggregation method.
 - [Weblica: Scalable and Reproducible Training Environments for Visual Web Agents](https://awesomecua.com/resources/arxiv-2605-06761/) — 2026-05-07
   Introduces Weblica, which combines HTTP-level capture and replay with website-grounded environment synthesis. The resulting interactive web environments support reinforcement learning and tests of navigation transfer and inference-time scaling.
+- [Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation](https://awesomecua.com/resources/arxiv-2605-06393/) — 2026-05-07
+  A TEE-backed design confines host operations by self-hosted computer-use agents, classifying and authorizing actions before constrained local execution.
+- [AcademiClaw: When Students Set Challenges for AI Agents](https://awesomecua.com/resources/arxiv-2605-02661/) — 2026-05-04
+  AcademiClaw benchmarks OpenClaw agents on long academic workflows, scoring task completion in isolated Docker sandboxes with rubrics and a safety audit.
+- [KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation](https://awesomecua.com/resources/arxiv-2604-08455/) — 2026-04-09
+  Introduces KnowU-Bench, an Android emulator benchmark for mobile agents that evaluates preference elicitation, proactive decisions, consent and GUI task execution.
 - [Gym-Anything: Turn any Software into an Agent Environment](https://awesomecua.com/resources/arxiv-2604-06126/) — 2026-04-07
   Introduces Gym-Anything, where a setup agent configures software environments and an independent auditor checks the resulting evidence. CUA-World supplies long-horizon tasks across professional applications, with experiments on trajectory distillation and test-time auditing.
 - [Safe and Scalable Web Agent Learning via Recreated Websites](https://awesomecua.com/resources/arxiv-2603-10505/) — 2026-03-11

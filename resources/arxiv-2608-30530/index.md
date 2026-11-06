@@ -14,7 +14,7 @@ Uses typed browser interaction contracts to accept web-code improvements only wh
 
 ## Limitations
 
-Adjacent browser-backed artifact validation, not a GUI navigation benchmark or original-source recovery. Distinct from WebWorld: A Large-Scale World Model for Web Agent Training. Results have not been independently reproduced.
+Adjacent browser-backed artifact validation, not a GUI navigation benchmark or original-source recovery. Distinct from WebWorld: A Large-Scale World Model for Web Agent Training.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-30530/record.json
 

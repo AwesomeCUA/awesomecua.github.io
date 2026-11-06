@@ -14,7 +14,7 @@ LegacyWorld evaluates Windows GUI workflows under an atomicity criterion: finish
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-14131/record.json
 

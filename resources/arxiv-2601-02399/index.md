@@ -14,7 +14,7 @@ ProSoftArena evaluates 436 professional-software tasks across six disciplines an
 
 ## Limitations
 
-The paper abstract and official full-text sections were reviewed. The full text supports Windows 11 virtual-machine execution, screenshot/state observations, and mouse/keyboard actions. Experimental results and released artifacts have not been independently reproduced.
+The paper abstract and official full-text sections were reviewed. The full text supports Windows 11 virtual-machine execution, screenshot/state observations, and mouse/keyboard actions.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-02399/record.json
 

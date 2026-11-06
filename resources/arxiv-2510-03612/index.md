@@ -14,7 +14,7 @@ Introduces Cross-Modal Preference Steering (CPS), a black-box attack that edits 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The attacker can edit only their own listing's images and textual metadata. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The attacker can edit only their own listing's images and textual metadata.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-03612/record.json
 

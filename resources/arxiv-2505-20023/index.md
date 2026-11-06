@@ -14,7 +14,7 @@ Introduces STeP, which trains agents on synthetic trajectories containing error 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). WebShop is one evaluation task alongside ALFWorld and SciWorld. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). WebShop is one evaluation task alongside ALFWorld and SciWorld.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-20023/record.json
 

@@ -14,7 +14,7 @@ Introduces PolySkill, which separates a web-agent skill's goal from its executio
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Reported evaluations include seen and unseen websites and Mind2Web. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Reported evaluations include seen and unseen websites and Mind2Web.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-15863/record.json
 

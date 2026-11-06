@@ -78,7 +78,7 @@
     }
   ],
   "name": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The simulator is browser-hosted; the abstract does not identify a native mobile operating system.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The simulator is browser-hosted; the abstract does not identify a native mobile operating system.",
   "published_at": "2026-05-25",
   "relations": [],
   "review_status": "curated",

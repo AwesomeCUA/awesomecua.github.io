@@ -77,7 +77,7 @@
     }
   ],
   "name": "Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents",
-  "notes": "Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. This is a position paper proposing an evaluation framework; the abstract does not report a new benchmark or empirical validation of the proposed framework.",
+  "notes": "Reviewed against the complete retained original arXiv abstract. This is a position paper proposing an evaluation framework; the abstract does not report a new benchmark or empirical validation of the proposed framework.",
   "published_at": "2025-04-24",
   "relations": [],
   "review_status": "curated",

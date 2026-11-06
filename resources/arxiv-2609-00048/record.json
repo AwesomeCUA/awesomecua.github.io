@@ -75,7 +75,7 @@
     }
   ],
   "name": "GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-08-30",
   "relations": [],
   "review_status": "curated",

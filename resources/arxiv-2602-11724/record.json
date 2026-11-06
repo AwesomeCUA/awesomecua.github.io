@@ -72,12 +72,15 @@
     }
   ],
   "name": "WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-02-12",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "WebTestPilot turns natural-language requirements into web test steps with inferred preconditions and postconditions over symbolized GUI elements. A benchmark of bug-injected web applications tests whether these context-aware oracles distinguish application defects from agent mistakes.",
+  "task_classes": [
+    "R02.07.01.02"
+  ],
   "topics": [
     "automation",
     "evaluation",

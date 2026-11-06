@@ -75,12 +75,15 @@
     }
   ],
   "name": "State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The assistant monitors activity and issues notifications; the abstract does not describe it operating interfaces. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2025-10-16",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces an assistant that reads screenshots, application titles, and URLs to compare computer activity with a user's stated intention and send notifications when it diverges.",
+  "task_classes": [
+    "R11.07.01.03"
+  ],
   "topics": [
     "screen-understanding",
     "human-in-the-loop",

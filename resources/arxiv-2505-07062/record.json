@@ -264,7 +264,7 @@
     }
   ],
   "name": "Seed1.5-VL Technical Report",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI control is one agent task within a broader vision-language model report. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI control is one agent task within a broader vision-language model report.",
   "published_at": "2025-05-11",
   "relations": [],
   "review_status": "curated",

@@ -75,7 +75,7 @@
     }
   ],
   "name": "AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its task is generating web scrapers for data collection. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its task is generating web scrapers for data collection.",
   "published_at": "2024-04-19",
   "relations": [],
   "review_status": "curated",

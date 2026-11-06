@@ -14,7 +14,7 @@ CareFlow benchmarks long healthcare-software workflows, while CarePilot coordina
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-24157/record.json
 

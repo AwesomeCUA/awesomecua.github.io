@@ -14,7 +14,7 @@ DAVE trains a vision encoder for document images and web agents using self-super
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-17221/record.json
 

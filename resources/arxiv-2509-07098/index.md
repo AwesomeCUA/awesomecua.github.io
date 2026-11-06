@@ -14,7 +14,7 @@ Introduces Instruction Agent, a GUI agent that follows instructions extracted fr
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its reported success rate concerns a selected set of OSWorld tasks that other top-ranked agents failed. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Its reported success rate concerns a selected set of OSWorld tasks that other top-ranked agents failed.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-07098/record.json
 

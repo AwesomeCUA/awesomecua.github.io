@@ -14,7 +14,7 @@ ICAL turns imperfect agent trajectories into reusable strategies and action anno
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v6). VisualWebArena is one of several evaluation settings for this general VLM-agent method. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v6). VisualWebArena is one of several evaluation settings for this general VLM-agent method.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-14596/record.json
 

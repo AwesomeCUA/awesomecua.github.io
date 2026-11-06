@@ -14,7 +14,7 @@ Introduces 3Dify, a natural-language 3D graphics framework that operates creatio
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI operation is a fallback within a 3D content-generation framework. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI operation is a fallback within a 3D content-generation framework.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-04536/record.json
 

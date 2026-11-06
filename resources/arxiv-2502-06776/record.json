@@ -71,7 +71,7 @@
     }
   ],
   "name": "InSTA: Towards Internet-Scale Training For Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its data pipeline uses LLMs to propose tasks and judge trajectory success. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its data pipeline uses LLMs to propose tasks and judge trajectory success.",
   "published_at": "2025-02-10",
   "relations": [],
   "review_status": "curated",

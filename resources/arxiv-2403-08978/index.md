@@ -14,7 +14,7 @@ Introduces AutoGuide, which generates conditional, context-aware guidelines from
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The framework is evaluated across multiple domains; web navigation is one of them. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The framework is evaluated across multiple domains; web navigation is one of them.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2403-08978/record.json
 

@@ -14,7 +14,7 @@ Introduces UReader, which combines unified instruction tuning, auxiliary text-re
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The interface connection is static webpage-screenshot understanding; browser control is not claimed.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. The interface connection is static webpage-screenshot understanding; browser control is not claimed.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-05126/record.json
 

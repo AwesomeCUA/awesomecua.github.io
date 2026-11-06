@@ -73,12 +73,15 @@
     }
   ],
   "name": "MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions",
-  "notes": "The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.",
+  "notes": "The annotation was reviewed against the complete retained primary abstract.",
   "published_at": "2025-08-12",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "MVISU-Bench evaluates bilingual mobile tasks involving cross-app work, vague requests, user interaction and unethical instructions alongside ordinary single-app tasks. Its Aider prompting module is designed to clarify intent and mitigate risky execution within agent workflows.",
+  "task_classes": [
+    "R11.07.01.01"
+  ],
   "topics": [
     "evaluation",
     "mobile-navigation",

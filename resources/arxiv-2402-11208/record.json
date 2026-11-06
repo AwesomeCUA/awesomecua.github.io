@@ -73,12 +73,15 @@
     }
   ],
   "name": "Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Web shopping is one of two task settings; the other is tool utilization. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Web shopping is one of two task settings; the other is tool utilization.",
   "published_at": "2024-02-17",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Studies backdoor attacks on LLM agents, including triggers in user queries or intermediate observations, with web shopping among the evaluated agent tasks.",
+  "task_classes": [
+    "R12.01.01.02"
+  ],
   "topics": [
     "safety-security",
     "evaluation"

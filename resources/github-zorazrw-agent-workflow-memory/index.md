@@ -14,7 +14,7 @@ Research code that extracts reusable browser-task routines from demonstrations o
 
 ## Limitations
 
-The repository releases separate WebArena and Mind2Web pipelines for online or offline workflow induction and use. WebArena execution requires separately configured browser environments, while Mind2Web workflows require the original dataset and rankings. Publisher performance claims were not reproduced. Apache-2.0 is recorded for this implementation; external benchmark, model and service terms remain separate.
+The repository releases separate WebArena and Mind2Web pipelines for online or offline workflow induction and use. WebArena execution requires separately configured browser environments, while Mind2Web workflows require the original dataset and rankings. Apache-2.0 is recorded for this implementation; external benchmark, model and service terms remain separate.
 
 - Record JSON: https://awesomecua.com/resources/github-zorazrw-agent-workflow-memory/record.json
 

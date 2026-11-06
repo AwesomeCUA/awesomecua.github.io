@@ -176,6 +176,9 @@
   "review_status": "curated",
   "scope": "core",
   "summary": "An end-to-end web-testing benchmark where agents derive test checklists from development instructions, interact with deployed applications and report functional or constraint-related defects.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "evaluation",
     "web-navigation",

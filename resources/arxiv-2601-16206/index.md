@@ -14,7 +14,7 @@ LLM-in-Sandbox gives agents a minimal computer environment for resource access, 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Computer interaction is through a code sandbox, with evaluations on general tasks rather than GUI operation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-16206/record.json
 

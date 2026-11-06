@@ -14,7 +14,7 @@ MindSearch uses a planner and searcher agents to split information requests into
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). It focuses on web information retrieval and integration. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). It focuses on web information retrieval and integration.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2407-20183/record.json
 

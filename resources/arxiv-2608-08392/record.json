@@ -83,7 +83,7 @@
     }
   ],
   "name": "CAP: A Scalable Benchmark for Evaluating Cross-Site Browser Agents with Complex Actions and Perception",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract.",
   "published_at": "2026-08-09",
   "relations": [],
   "review_status": "curated",

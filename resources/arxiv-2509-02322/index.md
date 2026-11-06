@@ -14,7 +14,7 @@ Introduces OmniActor, which shares shallow model layers while separating deeper 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-02322/record.json
 

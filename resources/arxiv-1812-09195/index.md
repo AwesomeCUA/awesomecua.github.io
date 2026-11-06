@@ -14,7 +14,7 @@ Introduces guided RL for QWeb, using a curriculum of smaller instructions and ge
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported generalization evaluation uses the World of Bits benchmark. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported generalization evaluation uses the World of Bits benchmark.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-1812-09195/record.json
 

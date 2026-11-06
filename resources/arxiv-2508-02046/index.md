@@ -14,7 +14,7 @@ NaviMaster trains a shared policy for GUI and embodied navigation using a common
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-02046/record.json
 

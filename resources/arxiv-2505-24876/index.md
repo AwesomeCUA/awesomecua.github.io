@@ -14,7 +14,7 @@ Introduces Agent-X, a benchmark of multi-step visual reasoning and tool use with
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Web browsing is one of six environments, alongside non-web tasks. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Web browsing is one of six environments, alongside non-web tasks.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-24876/record.json
 

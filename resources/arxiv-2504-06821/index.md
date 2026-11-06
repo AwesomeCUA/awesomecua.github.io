@@ -14,7 +14,7 @@ Introduces agent skill induction (ASI), which creates, checks, and reuses progra
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract evaluates ASI on WebArena and examines skill transfer between websites. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract evaluates ASI on WebArena and examines skill transfer between websites.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-06821/record.json
 

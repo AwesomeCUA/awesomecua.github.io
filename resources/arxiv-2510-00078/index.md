@@ -14,7 +14,7 @@ Bibliographic record for Adaptive and Resource-efficient Agentic AI Systems for 
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-00078/record.json
 

@@ -69,12 +69,15 @@
     }
   ],
   "name": "Prompting Is All You Need: Automated Android Bug Replay with Large Language Models",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract describes bug replay from reports but does not name a mobile operating system. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2023-06-03",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces AdbGPT, a prompting-based approach that uses LLMs to replay app bugs from written reports, applying few-shot examples and reasoning without model training.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "automation",
     "training-free",

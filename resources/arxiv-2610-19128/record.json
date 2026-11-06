@@ -76,12 +76,15 @@
     }
   ],
   "name": "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-10-13",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces CLASHarness, generating verifiable computer-use tasks with conflicting agent reports, shared-state constraints, and coordination requirements to evaluate conflict detection and resolution.",
+  "task_classes": [
+    "R11.07.01.02"
+  ],
   "topics": [
     "evaluation",
     "robustness",

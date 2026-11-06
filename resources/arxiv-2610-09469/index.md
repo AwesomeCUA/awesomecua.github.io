@@ -14,7 +14,7 @@ Proposes Secure-CUA, which commits to per-action transactions before reading unt
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-09469/record.json
 

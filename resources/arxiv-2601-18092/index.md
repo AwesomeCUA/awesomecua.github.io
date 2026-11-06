@@ -14,7 +14,7 @@ Introduces AskEase, an on-demand assistant that combines contextual information 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-18092/record.json
 

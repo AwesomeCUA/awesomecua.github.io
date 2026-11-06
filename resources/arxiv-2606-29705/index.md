@@ -14,7 +14,7 @@ GUICrafter first learns grounding from large collections of unannotated screensh
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-29705/record.json
 

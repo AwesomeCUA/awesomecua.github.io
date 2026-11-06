@@ -14,7 +14,7 @@ Introduces APPINITE, a conversational interface for specifying the intended targ
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations.
+The annotation was reviewed against retained primary publication sources. The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations.
 
 - Record JSON: https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/record.json
 

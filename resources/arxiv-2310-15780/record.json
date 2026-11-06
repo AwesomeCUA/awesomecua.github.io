@@ -75,12 +75,15 @@
     }
   ],
   "name": "Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation uses 93 apps from Google Play. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported evaluation uses 93 apps from Google Play.",
   "published_at": "2023-10-24",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces GPTDroid for mobile GUI testing: it feeds app page information to an LLM, runs generated test scripts and uses feedback and memory to guide further exploration.",
+  "task_classes": [
+    "R02.07.01.02"
+  ],
   "topics": [
     "automation",
     "memory",

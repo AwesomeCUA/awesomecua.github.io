@@ -14,7 +14,7 @@ Provides a simulated shopping environment where language agents search, configur
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2207-01206/record.json
 

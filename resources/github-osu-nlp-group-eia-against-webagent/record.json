@@ -67,6 +67,9 @@
   "review_status": "curated",
   "scope": "core",
   "summary": "Evaluation suite for Environmental Injection Attacks that embed invisible malicious HTML elements into benign websites to test privacy leakage in generalist web agents.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security",
     "evaluation",

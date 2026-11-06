@@ -71,7 +71,7 @@
     }
   ],
   "name": "Learning to Navigate the Web",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported generalization evaluation uses the World of Bits benchmark. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported generalization evaluation uses the World of Bits benchmark.",
   "published_at": "2018-12-21",
   "relations": [],
   "review_status": "curated",

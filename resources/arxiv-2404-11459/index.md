@@ -14,7 +14,7 @@ Bibliographic record for Octopus v3: Technical Report for On-device Sub-billion 
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-11459/record.json
 

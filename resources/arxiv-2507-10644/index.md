@@ -14,7 +14,7 @@ Bibliographic record for From Multi-Agent Systems and the Semantic Web to Agenti
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-10644/record.json
 

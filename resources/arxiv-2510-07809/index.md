@@ -14,7 +14,7 @@ Uses the near-zero contact-touch signals of automated mobile agents to expose ma
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-07809/record.json
 

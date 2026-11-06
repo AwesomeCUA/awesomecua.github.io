@@ -14,7 +14,7 @@ Introduces PIXELHELP for predicting mobile UI action sequences from instructions
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2005-03776/record.json
 

@@ -14,7 +14,7 @@ Untrusted Content Masking uses DOM structure to redact untrusted webpage regions
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-05277/record.json
 

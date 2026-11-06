@@ -14,7 +14,7 @@ Introduces Gym-Anything, where a setup agent configures software environments an
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-06126/record.json
 

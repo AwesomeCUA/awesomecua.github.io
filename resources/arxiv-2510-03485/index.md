@@ -14,7 +14,7 @@ Introduces PolicyGuardBench for detecting policy violations in full web-agent tr
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark addresses policy compliance in web-agent trajectories. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The benchmark addresses policy compliance in web-agent trajectories.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-03485/record.json
 

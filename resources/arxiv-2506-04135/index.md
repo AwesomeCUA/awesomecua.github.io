@@ -14,7 +14,7 @@ macOSWorld provides 202 interactive tasks across 30 applications, with instructi
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-04135/record.json
 

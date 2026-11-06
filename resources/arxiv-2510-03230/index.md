@@ -14,7 +14,7 @@ This work addresses GUI localization errors caused by mismatches between visual 
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-03230/record.json
 

@@ -70,7 +70,7 @@
     }
   ],
   "name": "Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2023-11-30",
   "relations": [],
   "review_status": "curated",

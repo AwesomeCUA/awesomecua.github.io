@@ -14,7 +14,7 @@ Introduces ResTest, which uses coverage reports and a state transition graph to 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its reported coverage results come from ten open-source web applications. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its reported coverage results come from ten open-source web applications.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-00520/record.json
 

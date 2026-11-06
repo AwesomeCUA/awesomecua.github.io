@@ -14,7 +14,7 @@ PixelPrune removes pixel-redundant patches before the vision encoder, reducing b
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent cross-domain VLM compression method with actual GUI-benchmark evaluation; the abstract does not establish a full computer-use policy.
+Reviewed against the complete retained official abstract. Adjacent cross-domain VLM compression method with actual GUI-benchmark evaluation; the abstract does not establish a full computer-use policy.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-00886/record.json
 

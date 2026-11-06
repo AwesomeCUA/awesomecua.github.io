@@ -71,12 +71,15 @@
     }
   ],
   "name": "A11y-CUA Dataset: Characterizing the Accessibility Gap in Computer Use Agents",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-02-10",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces A11y-CUA, a dataset comparing how blind or low-vision users and sighted users perform everyday computer tasks. It contrasts those traces with agent behavior under default, keyboard-only, and magnifier conditions to identify barriers to shared control.",
+  "task_classes": [
+    "R01.09.01.02"
+  ],
   "topics": [
     "human-in-the-loop",
     "evaluation",

@@ -73,7 +73,7 @@
     }
   ],
   "name": "Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its reported task success and execution time results are from WebArena. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its reported task success and execution time results are from WebArena.",
   "published_at": "2025-10-18",
   "relations": [],
   "review_status": "curated",

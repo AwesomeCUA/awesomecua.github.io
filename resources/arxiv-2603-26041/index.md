@@ -14,7 +14,7 @@ Studies visual token pruning for GUI navigation, separating reusable screenshot 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-26041/record.json
 

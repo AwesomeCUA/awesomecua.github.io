@@ -14,7 +14,7 @@ Introduces CUA-SHADE-Arena and a red-teaming workflow for testing monitors that 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study also examines tool-calling agents in SHADE-Arena; CUA-SHADE-Arena is its computer-use setting. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study also examines tool-calling agents in SHADE-Arena; CUA-SHADE-Arena is its computer-use setting.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-19461/record.json
 

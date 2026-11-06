@@ -14,7 +14,7 @@ Introduces AdaPlanner, which revises code-structured plans in response to enviro
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. This is a general planning framework; MiniWoB++ supplies the interface-agent evidence, while ALFWorld is a separate environment.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. This is a general planning framework; MiniWoB++ supplies the interface-agent evidence, while ALFWorld is a separate environment.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2305-16653/record.json
 

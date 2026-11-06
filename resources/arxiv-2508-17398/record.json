@@ -145,12 +145,15 @@
     }
   ],
   "name": "DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark centers on interactive dashboards from Tableau Public. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark centers on interactive dashboards from Tableau Public.",
   "published_at": "2025-08-24",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces DashboardQA to evaluate how vision-language GUI agents answer questions by interacting with dashboards, grounding elements, and planning actions.",
+  "task_classes": [
+    "R03.02.01.03"
+  ],
   "topics": [
     "evaluation",
     "grounding",

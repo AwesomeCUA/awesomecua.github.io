@@ -14,7 +14,7 @@ AutoElicit iteratively revises benign instructions using execution feedback to s
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-08235/record.json
 

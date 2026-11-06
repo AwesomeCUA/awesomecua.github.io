@@ -82,12 +82,15 @@
     }
   ],
   "name": "ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The platform or GUI evaluation setting was additionally checked in the primary full text.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. The platform or GUI evaluation setting was additionally checked in the primary full text.",
   "published_at": "2025-04-03",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "ReuseDroid migrates Android GUI tests between functionally similar apps using VLM agents that separate shared test intent from app-specific interaction flows. It introduces LinPro, a dataset of 578 migration tasks across 39 apps, to evaluate test transfer.",
+  "task_classes": [
+    "R02.07.01.02"
+  ],
   "topics": [
     "automation",
     "evaluation",

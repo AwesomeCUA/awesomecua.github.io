@@ -14,7 +14,7 @@ Introduces REBASE, a device–cloud protocol for repairing cached GUI experience
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-32130/record.json
 

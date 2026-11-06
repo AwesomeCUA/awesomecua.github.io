@@ -81,12 +81,15 @@
     }
   ],
   "name": "You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-08-17",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "RealDevWorld evaluates generated software repositories with 194 development tasks and AppEvalPilot, an agent judge that operates the resulting GUIs. The evaluation examines functional behavior, visual fidelity, and runtime responses to produce task-specific diagnostic feedback.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "evaluation",
     "automation",

@@ -14,7 +14,7 @@ WebWISE filters DOM elements into observations and generates short programs for 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-16042/record.json
 

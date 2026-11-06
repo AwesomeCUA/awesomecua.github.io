@@ -14,7 +14,7 @@ Introduces CUAHarm, 104 computer-use misuse tasks in a sandbox with verifiable r
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The misuse tasks are evaluated in a sandbox. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The misuse tasks are evaluated in a sandbox.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-00935/record.json
 

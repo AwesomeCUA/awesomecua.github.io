@@ -14,7 +14,7 @@ MM1.5 is a multimodal model family trained with curated data mixtures; its MM1.5
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Mobile UI understanding is one specialized variant of a broader multimodal model family. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Mobile UI understanding is one specialized variant of a broader multimodal model family.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-20566/record.json
 

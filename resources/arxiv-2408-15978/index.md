@@ -14,7 +14,7 @@ WebPilot separates global subtask planning from local Monte Carlo tree search du
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2408-15978/record.json
 

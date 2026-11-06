@@ -73,7 +73,7 @@
     }
   ],
   "name": "Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract reports initial feasibility classification experiments, not app-task execution by an agent. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2021-04-17",
   "relations": [],
   "review_status": "curated",

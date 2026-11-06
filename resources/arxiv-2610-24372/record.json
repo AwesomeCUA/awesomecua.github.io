@@ -72,7 +72,7 @@
     }
   ],
   "name": "Beyond Next-Screen Prediction: The Decision Value of GUI World Models",
-  "notes": "The matched augmentation experiment measures offline ranking; AndroidWorld task-success comparisons use differently trained evaluators and do not isolate prediction value. A separate web evaluator is trained on Mind2Web, and web results do not uniformly favor direct scoring. The main study concerns one-step selection. No independent reproduction.",
+  "notes": "The matched augmentation experiment measures offline ranking; AndroidWorld task-success comparisons use differently trained evaluators and do not isolate prediction value. A separate web evaluator is trained on Mind2Web, and web results do not uniformly favor direct scoring. The main study concerns one-step selection.",
   "published_at": "2026-10-17",
   "relations": [],
   "review_status": "curated",

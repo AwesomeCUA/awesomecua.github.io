@@ -14,7 +14,7 @@ Studies backdoor attacks on LLM agents, including triggers in user queries or in
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Web shopping is one of two task settings; the other is tool utilization. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Web shopping is one of two task settings; the other is tool utilization.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-11208/record.json
 

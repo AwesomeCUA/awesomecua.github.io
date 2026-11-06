@@ -14,7 +14,7 @@ Introduces GUI-CC, a benchmark for assessing GUI world models as multi-step agen
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-00048/record.json
 

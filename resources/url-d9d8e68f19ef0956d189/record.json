@@ -49,6 +49,9 @@
   "review_status": "curated",
   "scope": "core",
   "summary": "Tasks for recreating reference applications with hybrid computer interaction.",
+  "task_classes": [
+    "R02.01.02.02"
+  ],
   "topics": [
     "evaluation",
     "tool-integration"

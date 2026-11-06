@@ -14,7 +14,7 @@ Proposes training with subset-based attribution constraints so models attend to 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v6). GUI-agent click decisions are one of two evaluation settings; the other is image classification. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v6). GUI-agent click decisions are one of two evaluation settings; the other is image classification.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-07008/record.json
 

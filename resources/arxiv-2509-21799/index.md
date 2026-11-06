@@ -14,7 +14,7 @@ Introduces D-Artemis, a mobile GUI agent framework that retrieves app-specific t
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract reports results on AndroidWorld and ScreenSpot-V2 but does not specify a mobile operating system. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-21799/record.json
 

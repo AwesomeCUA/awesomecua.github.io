@@ -14,7 +14,7 @@ Presents a preliminary study of Claude 3.5 Computer Use across desktop tasks and
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-10323/record.json
 

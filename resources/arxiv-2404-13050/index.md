@@ -14,7 +14,7 @@ FlowMind generates API-based workflows from user requests for process automation
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The described workflows use APIs; the abstract does not describe GUI operation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-13050/record.json
 

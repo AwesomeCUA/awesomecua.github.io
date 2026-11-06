@@ -14,7 +14,7 @@ IDA helps business users create web UI automation through guided demonstrations,
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2407-15673/record.json
 

@@ -14,7 +14,7 @@ Presents SmartFlow, which converts visible GUI elements into text for language-m
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2405-12842/record.json
 

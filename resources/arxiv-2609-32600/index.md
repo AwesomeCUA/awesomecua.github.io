@@ -14,7 +14,7 @@ Introduces CUA-SWE, a benchmark and execution environment that combines code cha
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-32600/record.json
 

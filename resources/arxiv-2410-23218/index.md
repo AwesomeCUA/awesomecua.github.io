@@ -14,7 +14,7 @@ Combines cross-platform GUI grounding data synthesis with action-model training 
 
 ## Limitations
 
-Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+Summary and topic tags reviewed against the primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-23218/record.json
 

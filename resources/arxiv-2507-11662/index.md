@@ -14,7 +14,7 @@ Studies agreement bias in multimodal agent verifiers across web navigation and c
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The verifier study also covers robotics, beyond web and computer-use agents. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The verifier study also covers robotics, beyond web and computer-use agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-11662/record.json
 

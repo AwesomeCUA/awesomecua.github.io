@@ -14,7 +14,7 @@ Audits WebArena-Lite outcomes and trajectories with human review to identify aut
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-01491/record.json
 

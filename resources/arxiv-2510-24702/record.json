@@ -88,7 +88,7 @@
     }
   ],
   "name": "Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Browsing is one of several task domains covered by the protocol and its evaluations. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Browsing is one of several task domains covered by the protocol and its evaluations.",
   "published_at": "2025-10-28",
   "relations": [],
   "review_status": "curated",

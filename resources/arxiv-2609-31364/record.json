@@ -86,7 +86,7 @@
     }
   ],
   "name": "OpenVAM: Open-World Visual Attention Modeling with VLMs",
-  "notes": "Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment do not establish causal explanations of gaze or temporal scanpaths. Several baseline scores come from prior papers. Code/data/weight releases and licenses were not verified; no independent reproduction.",
+  "notes": "Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment do not establish causal explanations of gaze or temporal scanpaths. Several baseline scores come from prior papers.",
   "published_at": "2026-09-25",
   "relations": [],
   "review_status": "curated",

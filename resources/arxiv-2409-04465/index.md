@@ -14,7 +14,7 @@ Bibliographic record for Here's Charlie! Realising the Semantic Web vision of Ag
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-04465/record.json
 

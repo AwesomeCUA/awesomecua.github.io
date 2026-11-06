@@ -72,7 +72,7 @@
     }
   ],
   "name": "Understanding User Experiences of Computer Use Agents: Design Space and Opportunities for Building Agent UX Prototypes",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). AgentUXlab prototypes agent experiences for a website and runs them in a browser. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). AgentUXlab prototypes agent experiences for a website and runs them in a browser.",
   "published_at": "2025-10-06",
   "relations": [],
   "review_status": "curated",

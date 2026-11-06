@@ -14,7 +14,7 @@ HANSEL extracts evidence pages and snippets from browser-agent traces and preser
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-18671/record.json
 

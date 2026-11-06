@@ -14,7 +14,7 @@ Introduces Rico, collecting Android interface designs and interaction traces thr
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim.
+The annotation was reviewed against retained primary publication sources. The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim.
 
 - Record JSON: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/record.json
 

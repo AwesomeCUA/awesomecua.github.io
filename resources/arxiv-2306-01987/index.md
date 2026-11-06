@@ -14,7 +14,7 @@ Introduces AdbGPT, a prompting-based approach that uses LLMs to replay app bugs 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract describes bug replay from reports but does not name a mobile operating system. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2306-01987/record.json
 

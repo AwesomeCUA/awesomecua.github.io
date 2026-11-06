@@ -14,7 +14,7 @@ Introduces MobileRisk-Live and OS-Sentinel, combining a formal verifier for syst
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-24411/record.json
 

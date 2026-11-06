@@ -73,7 +73,7 @@
     }
   ],
   "name": "ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-12-31",
   "relations": [],
   "review_status": "curated",

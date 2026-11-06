@@ -14,7 +14,7 @@ Introduces VerificAgent, which grows domain-specific memories from task trajecto
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-02539/record.json
 

@@ -80,7 +80,7 @@
     }
   ],
   "name": "UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-10-20",
   "relations": [],
   "review_status": "curated",

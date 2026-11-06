@@ -14,7 +14,7 @@ Compares HTML browsing, RAG, MCP, and NLWeb interfaces for web agents performing
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The comparison uses four simulated e-shops. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The comparison uses four simulated e-shops.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-23281/record.json
 

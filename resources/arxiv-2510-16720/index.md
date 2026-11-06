@@ -14,7 +14,7 @@ Surveys model-native agentic AI and the role of RL in learned planning, tool use
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI agents are one application area within a broader survey of agentic AI. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI agents are one application area within a broader survey of agentic AI.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-16720/record.json
 

@@ -14,7 +14,7 @@ DreamGym synthesizes agent experiences with a reasoning-based environment model 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). WebArena is one of several environments used to evaluate this general agent training framework. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). WebArena is one of several environments used to evaluate this general agent training framework.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-03773/record.json
 

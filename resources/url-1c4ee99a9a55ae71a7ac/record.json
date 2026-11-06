@@ -83,7 +83,7 @@
     }
   ],
   "name": "UI-S1 7B",
-  "notes": "Four public safetensors shards are present. The card declares Apache-2.0 for the weights. The project publishes only a portion of its training data; no complete training corpus or independent reproduction is inferred.",
+  "notes": "Four public safetensors shards are present. The card declares Apache-2.0 for the weights. The project publishes only a portion of its training data.",
   "published_at": null,
   "relations": [
     {

@@ -122,7 +122,7 @@
     }
   ],
   "name": "OpenMobile-2 27B",
-  "notes": "The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.",
+  "notes": "License declarations apply to this checkpoint separately from code and training data.",
   "published_at": null,
   "relations": [
     {

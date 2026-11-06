@@ -14,7 +14,7 @@ Combines language-model reasoning with app analysis, UI representations, and exp
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2308-15272/record.json
 

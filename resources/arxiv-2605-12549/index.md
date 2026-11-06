@@ -14,7 +14,7 @@ Re-Prefill adds an attention-guided second prefill pass that revisits candidate 
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-12549/record.json
 

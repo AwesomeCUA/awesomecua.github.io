@@ -14,7 +14,7 @@ Proposes Agentic Web Interface (AWI), a website interface intended for agent nav
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). This is a position paper proposing interface design principles. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). This is a position paper proposing interface design principles.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-10953/record.json
 

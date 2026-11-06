@@ -14,7 +14,7 @@ InSTA builds a pipeline that creates website tasks, collects web-agent trajector
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its data pipeline uses LLMs to propose tasks and judge trajectory success. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its data pipeline uses LLMs to propose tasks and judge trajectory success.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-06776/record.json
 

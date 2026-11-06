@@ -14,7 +14,7 @@ Introduces GraceBench, using application transition graphs and recorded interact
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. Android platform tagging is additionally supported by the primary project documentation.
+The annotation and scope were reviewed against the primary paper abstract. Android platform tagging is additionally supported by the primary project documentation.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-19900/record.json
 

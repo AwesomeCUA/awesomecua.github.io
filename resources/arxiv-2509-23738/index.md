@@ -14,7 +14,7 @@ Introduces GUI-Shepherd, a process reward model trained on annotated GUI interac
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-23738/record.json
 

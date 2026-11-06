@@ -14,7 +14,7 @@ ToolTok represents GUI operations with learned tool tokens and frames interactio
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-02548/record.json
 

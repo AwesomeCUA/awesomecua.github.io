@@ -75,12 +75,15 @@
     }
   ],
   "name": "DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.",
+  "notes": "Reviewed against the complete retained official abstract.",
   "published_at": "2026-06-02",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "DeskCraft evaluates professional desktop workflows and human-agent collaboration through mid-execution clarification, interruption and post-completion feedback. Its tasks cover creative applications and expose difficulties in long-horizon execution and proactive clarification.",
+  "task_classes": [
+    "R11.07.01.01"
+  ],
   "topics": [
     "evaluation",
     "human-in-the-loop",

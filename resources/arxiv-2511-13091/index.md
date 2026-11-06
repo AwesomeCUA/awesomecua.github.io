@@ -14,7 +14,7 @@ STEP allocates RL sampling by task success rate and trains on individual steps f
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract reports evaluations on OSWorld and AndroidWorld without naming a platform as the method's setting. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-13091/record.json
 

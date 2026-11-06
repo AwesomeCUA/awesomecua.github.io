@@ -72,12 +72,15 @@
     }
   ],
   "name": "Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract.",
   "published_at": "2026-05-10",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "DUDE combines asymmetric hybrid-reward learning with summaries of deceptive-interface failures to guide safer web actions. Its RUC benchmark evaluates deception susceptibility alongside ordinary task performance across interface scenarios.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security",
     "reinforcement-learning",

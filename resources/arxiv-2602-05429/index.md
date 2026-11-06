@@ -14,7 +14,7 @@ M2-Miner uses multi-agent-guided Monte Carlo tree search to collect mobile GUI i
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-05429/record.json
 

@@ -74,12 +74,15 @@
     }
   ],
   "name": "ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its reported coverage results come from ten open-source web applications. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its reported coverage results come from ten open-source web applications.",
   "published_at": "2025-05-31",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces ResTest, which uses coverage reports and a state transition graph to infer untested web functions, then directs a GUI agent to execute them.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "automation",
     "web-navigation",

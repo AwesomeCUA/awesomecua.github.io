@@ -14,7 +14,7 @@ Introduces recursive criticism and improvement prompting for language-model agen
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2303-17491/record.json
 

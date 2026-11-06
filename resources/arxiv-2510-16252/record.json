@@ -79,7 +79,7 @@
     }
   ],
   "name": "WEBSERV: A Full-Stack and RL-Ready Web Environment for Training Web Agents at Scale",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-10-17",
   "relations": [],
   "review_status": "curated",

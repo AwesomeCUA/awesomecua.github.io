@@ -14,7 +14,7 @@ Studies online shopper action prediction with VLM agents using webpage screensho
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study concerns simulated shopper behavior and action prediction. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study concerns simulated shopper behavior and action prediction.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-19245/record.json
 

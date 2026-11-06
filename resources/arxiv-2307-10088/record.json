@@ -134,7 +134,7 @@
     }
   ],
   "name": "Android in the Wild: A Large-Scale Dataset for Android Device Control",
-  "notes": "Annotation reviewed against the primary abstract. Original dataset scale and experimental results are not independently reproduced.",
+  "notes": "Annotation reviewed against the primary abstract.",
   "published_at": "2023-07-19",
   "relations": [],
   "review_status": "curated",

@@ -46,6 +46,9 @@
   "review_status": "curated",
   "scope": "core",
   "summary": "Resources for evaluating GUI agents under malicious popup instructions.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security"
   ],

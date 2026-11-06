@@ -14,7 +14,7 @@ Evaluates security failures of computer-use agents under adversarial requests an
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-20279/record.json
 

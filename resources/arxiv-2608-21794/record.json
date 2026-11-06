@@ -70,7 +70,7 @@
     }
   ],
   "name": "Lexical Coupling in GUI Element Grounding: Sentence Embeddings Track Labels across Mobile and Web",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-08-22",
   "relations": [],
   "review_status": "curated",

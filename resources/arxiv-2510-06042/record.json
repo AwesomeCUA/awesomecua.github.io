@@ -83,7 +83,7 @@
     }
   ],
   "name": "Agent+P: Guiding UI Agents via Symbolic Planning",
-  "notes": "Planning guarantees are relative to the modeled graph and selected target. They do not establish complete graphs, correct grounding or faithful goal translation. The described design depends on static source analysis; no experiments were reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 UI Automation to Classical Planning; 4.1 UTG Builder; 4.2 Node Selector; 4.3 Plan Generator; 4.4 UI Explorer; 5.1 Datasets); not an entire-paper reading or reproduction claim.",
+  "notes": "Planning guarantees are relative to the modeled graph and selected target. They do not establish complete graphs, correct grounding or faithful goal translation. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 UI Automation to Classical Planning; 4.1 UTG Builder; 4.2 Node Selector; 4.3 Plan Generator; 4.4 UI Explorer; 5.1 Datasets).",
   "published_at": "2025-10-07",
   "relations": [],
   "review_status": "curated",

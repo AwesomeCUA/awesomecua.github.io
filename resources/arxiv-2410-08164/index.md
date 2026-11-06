@@ -14,7 +14,7 @@ Combines hierarchical planning, retrieved experience, and a computer interaction
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-08164/record.json
 

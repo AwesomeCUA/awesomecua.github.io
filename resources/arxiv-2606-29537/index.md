@@ -14,7 +14,7 @@ Introduces extended computer-use workflows with realistic artifacts, changing in
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-29537/record.json
 

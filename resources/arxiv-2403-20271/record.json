@@ -76,7 +76,7 @@
     }
   ],
   "name": "Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Mobile and web screenshots are among several image domains; the abstract does not describe operating those interfaces. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3).",
   "published_at": "2024-03-29",
   "relations": [],
   "review_status": "curated",

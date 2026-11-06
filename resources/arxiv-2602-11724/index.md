@@ -14,7 +14,7 @@ WebTestPilot turns natural-language requirements into web test steps with inferr
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-11724/record.json
 

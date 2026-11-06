@@ -78,12 +78,15 @@
     }
   ],
   "name": "WebWalker: Benchmarking LLMs in Web Traversal",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-01-13",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Introduces WebWalkerQA and an exploration-and-critique framework for gathering information by traversing multiple levels of a website.",
+  "task_classes": [
+    "R04.01.02.04"
+  ],
   "topics": [
     "evaluation",
     "web-navigation"

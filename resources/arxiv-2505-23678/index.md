@@ -14,7 +14,7 @@ Introduces ViGoRL, a visual reasoning model trained to reference image coordinat
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). GUI localization is one part of a broader visual reasoning evaluation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). GUI localization is one part of a broader visual reasoning evaluation.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-23678/record.json
 

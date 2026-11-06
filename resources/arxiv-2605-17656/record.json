@@ -70,7 +70,7 @@
     }
   ],
   "name": "MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.",
+  "notes": "Reviewed against the complete retained official abstract.",
   "published_at": "2026-05-17",
   "relations": [],
   "review_status": "curated",

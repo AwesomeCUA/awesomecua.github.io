@@ -71,7 +71,7 @@
     }
   ],
   "name": "SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-01-26",
   "relations": [],
   "review_status": "curated",

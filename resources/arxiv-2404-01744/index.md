@@ -14,7 +14,7 @@ Bibliographic record for Octopus v2: On-device language model for super agent. T
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-01744/record.json
 

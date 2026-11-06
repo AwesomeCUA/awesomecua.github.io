@@ -14,7 +14,7 @@ GUI-Eyes trains GUI grounders to decide when and how to use visual tools such as
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-09770/record.json
 

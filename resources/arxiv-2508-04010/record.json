@@ -74,7 +74,7 @@
     }
   ],
   "name": "HarmonyGuard: Toward Safety and Utility in Web Agents via Adaptive Policy Enhancement and Dual-Objective Optimization",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported policy-compliance and task-completion gains are from the paper’s benchmark evaluations. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The reported policy-compliance and task-completion gains are from the paper’s benchmark evaluations.",
   "published_at": "2025-08-06",
   "relations": [],
   "review_status": "curated",

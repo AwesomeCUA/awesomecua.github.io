@@ -14,7 +14,7 @@ DrawingBench evaluates sequences of low-level mouse-based GUI actions through 25
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-01174/record.json
 

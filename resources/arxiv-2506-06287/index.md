@@ -14,7 +14,7 @@ Introduces Deep Research Bench, 89 multi-step web research tasks and a frozen co
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). RetroSearch agents use a frozen set of scraped pages rather than the changing live web. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-06287/record.json
 

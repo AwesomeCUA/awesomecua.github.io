@@ -14,7 +14,7 @@ Audits Clawdbot safety through logged action and tool-call trajectories across l
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The audited agent uses tools across local and web workflows; the abstract does not state that it operates a GUI. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-14364/record.json
 

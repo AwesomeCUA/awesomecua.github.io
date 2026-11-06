@@ -78,7 +78,7 @@
     }
   ],
   "name": "LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract reports evaluations on WebArena and AndroidWorld, but does not identify one platform as the simulator's setting. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1).",
   "published_at": "2025-10-16",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ ScenGen organizes mobile GUI testing around business scenarios rather than unres
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-05079/record.json
 

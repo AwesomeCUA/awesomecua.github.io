@@ -14,7 +14,7 @@ EvoCUA-1.5 trains multi-turn desktop agents through online reinforcement learnin
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-09773/record.json
 

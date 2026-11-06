@@ -75,7 +75,7 @@
     }
   ],
   "name": "OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety",
-  "notes": "Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.",
+  "notes": "Editorial summary based on the primary paper abstract.",
   "published_at": "2025-07-08",
   "relations": [],
   "review_status": "curated",

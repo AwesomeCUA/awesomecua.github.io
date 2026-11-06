@@ -71,7 +71,7 @@
     }
   ],
   "name": "Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract says the implementation has reached Level 3 of its proposed roadmap, with limited human intervention. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract says the implementation has reached Level 3 of its proposed roadmap, with limited human intervention.",
   "published_at": "2025-09-25",
   "relations": [],
   "review_status": "curated",

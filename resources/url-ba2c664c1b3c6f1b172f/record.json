@@ -159,7 +159,7 @@
     }
   ],
   "name": "APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions",
-  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations.",
+  "notes": "The annotation was reviewed against retained primary publication sources. The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations.",
   "published_at": null,
   "relations": [],
   "review_status": "curated",

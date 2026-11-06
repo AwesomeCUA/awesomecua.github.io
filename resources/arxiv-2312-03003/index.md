@@ -14,7 +14,7 @@ Introduces MobileGPT, which organizes mobile-app experience into reusable subtas
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2312-03003/record.json
 

@@ -14,7 +14,7 @@ Introduces ProAgent, an LLM-based agent that builds automation workflows from hu
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract describes workflow construction and execution, without specifying direct GUI operation. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2311-10751/record.json
 

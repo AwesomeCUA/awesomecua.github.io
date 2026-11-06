@@ -73,7 +73,7 @@
     }
   ],
   "name": "LookAgain: Closed-Loop GUI Grounding with Visually Grounded Reflection",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract.",
   "published_at": "2026-08-10",
   "relations": [],
   "review_status": "curated",

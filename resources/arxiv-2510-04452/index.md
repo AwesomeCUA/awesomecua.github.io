@@ -14,7 +14,7 @@ Maps design considerations for computer-use agent experiences and introduces Age
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). AgentUXlab prototypes agent experiences for a website and runs them in a browser. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). AgentUXlab prototypes agent experiences for a website and runs them in a browser.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-04452/record.json
 

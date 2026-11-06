@@ -14,7 +14,7 @@ Agent Q combines guided tree search, self-critique and preference-based fine-tun
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract evaluates it in WebShop and booking scenarios. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract evaluates it in WebShop and booking scenarios.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2408-07199/record.json
 

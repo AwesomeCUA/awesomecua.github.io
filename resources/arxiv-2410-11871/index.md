@@ -14,7 +14,7 @@ Adapts a compact Florence-2 model to map user instructions to screen coordinates
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-11871/record.json
 

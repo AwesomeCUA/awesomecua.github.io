@@ -71,7 +71,7 @@
     }
   ],
   "name": "General Agentic Planning Through Simulative Reasoning with World Models",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Evaluation covers three task categories within a web-browser environment. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v3). Evaluation covers three task categories within a web-browser environment.",
   "published_at": "2025-07-31",
   "relations": [],
   "review_status": "curated",

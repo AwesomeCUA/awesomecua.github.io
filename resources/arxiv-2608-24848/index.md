@@ -14,7 +14,7 @@ Introduces BrowserForge, which combines broad website sourcing, parallel browser
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-24848/record.json
 

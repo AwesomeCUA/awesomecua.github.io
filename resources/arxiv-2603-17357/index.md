@@ -14,7 +14,7 @@ WebPII provides synthetic e-commerce screenshots with fine-grained annotations f
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-17357/record.json
 

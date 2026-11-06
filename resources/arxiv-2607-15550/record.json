@@ -73,7 +73,7 @@
     }
   ],
   "name": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-07-17",
   "relations": [],
   "review_status": "curated",

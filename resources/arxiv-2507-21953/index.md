@@ -14,7 +14,7 @@ Builds reusable page memories from past mobile trajectories and retrieves them t
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-21953/record.json
 

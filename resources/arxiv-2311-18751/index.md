@@ -14,7 +14,7 @@ CompWoB adds 50 composed web-automation tasks to study generalization from simpl
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2311-18751/record.json
 

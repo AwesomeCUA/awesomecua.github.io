@@ -14,7 +14,7 @@ Introduces GPTVoiceTasker, a mobile assistant that interprets user commands, exe
 
 ## Limitations
 
-Reviewed against the retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2401-14268/record.json
 

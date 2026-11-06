@@ -14,7 +14,7 @@ Introduces Group-in-Group Policy Optimization (GiGPO), an RL method for assignin
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several agent benchmarks used to evaluate the general training method. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). WebShop is one of several agent benchmarks used to evaluate the general training method.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-10978/record.json
 

@@ -14,7 +14,7 @@ MobileForge couples real-app exploration and generated tasks with hierarchical f
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-19930/record.json
 

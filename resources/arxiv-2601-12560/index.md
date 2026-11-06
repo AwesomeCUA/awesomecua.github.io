@@ -14,7 +14,7 @@ Surveys LLM agent architectures, operating environments and evaluation, covering
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Web navigation and computer use are parts of a broader survey of LLM agents. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Web navigation and computer use are parts of a broader survey of LLM agents.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-12560/record.json
 

@@ -70,12 +70,15 @@
     }
   ],
   "name": "Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The comparison covers three enterprise RPA challenges. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The comparison covers three enterprise RPA challenges.",
   "published_at": "2025-09-04",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Compares an agent using computer interfaces with UiPath RPA on enterprise data entry, monitoring, and document extraction, measuring speed, reliability, and development effort.",
+  "task_classes": [
+    "R04.07.01.01"
+  ],
   "topics": [
     "evaluation",
     "automation",

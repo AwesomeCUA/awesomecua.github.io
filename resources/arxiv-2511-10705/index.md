@@ -14,7 +14,7 @@ Co-EPG alternates reinforcement learning for a planner with updates to a groundi
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-10705/record.json
 

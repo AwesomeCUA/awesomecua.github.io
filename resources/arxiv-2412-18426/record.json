@@ -75,12 +75,15 @@
     }
   ],
   "name": "GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-12-24",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Evaluates GUI testing through test-intent generation, execution, and defect detection using real, modified, and synthetic mobile application data.",
+  "task_classes": [
+    "R02.07.01.01"
+  ],
   "topics": [
     "evaluation",
     "automation",

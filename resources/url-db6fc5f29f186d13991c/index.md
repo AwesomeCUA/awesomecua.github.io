@@ -14,7 +14,7 @@ UI-TARS-1.5-7B-derived checkpoint trained with ARPO on OSWorld desktop tasks.
 
 ## Limitations
 
-The public Hub manifest lists four Safetensors shards, an index and configuration/tokenizer files. The model card reports a 15-step evaluation setting; no performance result is independently reproduced. No weight license is declared, despite Apache-2.0 being established for the separate code repository.
+The public Hub manifest lists four Safetensors shards, an index and configuration/tokenizer files. No weight license is declared, despite Apache-2.0 being established for the separate code repository.
 
 - Record JSON: https://awesomecua.com/resources/url-db6fc5f29f186d13991c/record.json
 

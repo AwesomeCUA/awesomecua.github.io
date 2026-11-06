@@ -14,7 +14,7 @@ XBOUND evaluates GUI agents at the level of a screen state, considering multiple
 
 ## Limitations
 
-Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.
+Reviewed against the complete official arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-21279/record.json
 

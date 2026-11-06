@@ -14,7 +14,7 @@ Introduces DashboardQA to evaluate how vision-language GUI agents answer questio
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark centers on interactive dashboards from Tableau Public. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark centers on interactive dashboards from Tableau Public.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-17398/record.json
 

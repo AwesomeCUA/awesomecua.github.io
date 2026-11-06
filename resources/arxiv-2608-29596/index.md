@@ -14,7 +14,7 @@ Surveys modular agentic skill architectures, skill lifecycles, and security risk
 
 ## Limitations
 
-Adjacent broad survey of procedural agent skills. Full-text Section 4.4.2 explicitly covers desktop, mobile, and web interface skills; surveyed systems and their reported results are not independently reproduced.
+Adjacent broad survey of procedural agent skills.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-29596/record.json
 

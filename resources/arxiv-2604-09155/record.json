@@ -75,7 +75,7 @@
     }
   ],
   "name": "CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The annotation describes risk calibration without asserting an unconditional safety guarantee.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The annotation describes risk calibration without asserting an unconditional safety guarantee.",
   "published_at": "2026-04-10",
   "relations": [],
   "review_status": "curated",

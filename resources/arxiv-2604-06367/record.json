@@ -71,12 +71,15 @@
     }
   ],
   "name": "WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks",
-  "notes": "The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.",
+  "notes": "The annotation was reviewed against the complete retained official abstract.",
   "published_at": "2026-04-07",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "WebSP-Eval evaluates agents carrying out website security and privacy tasks such as preference changes and session management. A browser extension controls account and initial state across runs, enabling analysis of failures on stateful UI controls.",
+  "task_classes": [
+    "R01.01.01.05"
+  ],
   "topics": [
     "safety-security",
     "evaluation",

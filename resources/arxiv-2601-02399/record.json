@@ -87,7 +87,7 @@
     }
   ],
   "name": "ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments",
-  "notes": "The paper abstract and official full-text sections were reviewed. The full text supports Windows 11 virtual-machine execution, screenshot/state observations, and mouse/keyboard actions. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The paper abstract and official full-text sections were reviewed. The full text supports Windows 11 virtual-machine execution, screenshot/state observations, and mouse/keyboard actions.",
   "published_at": "2025-12-30",
   "relations": [],
   "review_status": "curated",

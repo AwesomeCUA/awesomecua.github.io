@@ -76,7 +76,7 @@
     }
   ],
   "name": "Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study measures reasoning and execution gaps across mobile interaction tasks. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study measures reasoning and execution gaps across mobile interaction tasks.",
   "published_at": "2025-10-02",
   "relations": [],
   "review_status": "curated",

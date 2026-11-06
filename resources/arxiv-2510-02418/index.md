@@ -14,7 +14,7 @@ Introduces BrowserArena, a live-web platform for head-to-head agent comparisons 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-02418/record.json
 

@@ -14,7 +14,7 @@ Introduces GUI-based task-oriented dialogue and a dataset pairing mobile-interfa
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2205-11029/record.json
 

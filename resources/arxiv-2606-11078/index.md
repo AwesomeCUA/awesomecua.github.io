@@ -14,7 +14,7 @@ HiViG combines a compact history of completed actions with a visually grounded c
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-11078/record.json
 

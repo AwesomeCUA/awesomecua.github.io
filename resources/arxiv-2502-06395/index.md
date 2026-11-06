@@ -14,7 +14,7 @@ AppVLM first learns app actions from AndroidControl and then refines its policy 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-06395/record.json
 

@@ -14,7 +14,7 @@ Introduces AutoCaptioner, DeskVision, and GUIExplorer for generating desktop reg
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-11170/record.json
 

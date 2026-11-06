@@ -74,7 +74,7 @@
     }
   ],
   "name": "OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-07-26",
   "relations": [],
   "review_status": "curated",

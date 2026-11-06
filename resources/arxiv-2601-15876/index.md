@@ -14,7 +14,7 @@ EvoCUA combines task synthesis with executable validators, asynchronous sandbox 
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-15876/record.json
 

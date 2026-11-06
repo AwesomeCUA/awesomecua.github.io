@@ -72,7 +72,7 @@
     }
   ],
   "name": "WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The reported contribution evaluates attack detection; end-to-end prevention of browser-agent compromise is not inferred.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The reported contribution evaluates attack detection; end-to-end prevention of browser-agent compromise is not inferred.",
   "published_at": "2025-10-01",
   "relations": [],
   "review_status": "curated",

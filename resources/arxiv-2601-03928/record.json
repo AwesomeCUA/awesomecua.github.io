@@ -70,7 +70,7 @@
     }
   ],
   "name": "FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.",
+  "notes": "Reviewed against the complete retained official abstract.",
   "published_at": "2026-01-07",
   "relations": [],
   "review_status": "curated",

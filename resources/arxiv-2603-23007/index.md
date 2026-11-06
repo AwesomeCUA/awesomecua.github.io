@@ -14,7 +14,7 @@ AgentRAE studies notification-based visual backdoors that redirect mobile GUI-ag
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-23007/record.json
 

@@ -14,7 +14,7 @@ Combines dense saliency prediction with explanations of attended elements, inclu
 
 ## Limitations
 
-Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment do not establish causal explanations of gaze or temporal scanpaths. Several baseline scores come from prior papers. Code/data/weight releases and licenses were not verified; no independent reproduction.
+Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment do not establish causal explanations of gaze or temporal scanpaths. Several baseline scores come from prior papers.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-31364/record.json
 

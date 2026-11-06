@@ -14,7 +14,7 @@ Compares seven traditional and learned GUI element detectors on more than 50,000
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2008-05132/record.json
 

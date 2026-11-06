@@ -72,7 +72,7 @@
     }
   ],
   "name": "On the Robustness of GUI Grounding Models Against Image Attacks",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2025-04-07",
   "relations": [],
   "review_status": "curated",

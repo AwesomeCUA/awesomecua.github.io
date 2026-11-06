@@ -14,7 +14,7 @@ Introduces MHVF, a training-free grounding method that explores several candidat
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-17792/record.json
 

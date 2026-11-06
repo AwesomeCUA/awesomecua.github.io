@@ -88,7 +88,7 @@
     }
   ],
   "name": "From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks",
-  "notes": "Reviewed the complete retained Atom abstract and selected exact-v1 full text. The Atom has incomplete clauses; its text/hash remain unchanged and this annotation uses the explicit methods. Evaluation is Android-only, with a selected real-app subset. Landing-Activity verification is not task completion. Model/catalog release is prospective in the paper. No independent reproduction.",
+  "notes": "Reviewed the complete retained Atom abstract and selected exact-v1 full text. The Atom has incomplete clauses; its text/hash remain unchanged and this annotation uses the explicit methods. Evaluation is Android-only, with a selected real-app subset. Landing-Activity verification is not task completion. Model/catalog release is prospective in the paper.",
   "published_at": "2026-09-25",
   "relations": [],
   "review_status": "curated",

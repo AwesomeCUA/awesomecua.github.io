@@ -14,7 +14,7 @@ This short paper develops an explorer agent that expands from a demonstrated GUI
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-25705/record.json
 

@@ -1,20 +1,20 @@
 # Visual Token Routing: Learning to keep tokens that matter
 
-Bibliographic record for Visual Token Routing: Learning to keep tokens that matter. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Introduces Visual Token Routing (VTR), which selects visual tokens from current and earlier screenshots to reduce computer-use agent inference cost while retaining action-relevant information.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2611-06854/
 - Original source: https://arxiv.org/abs/2611.06854
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: core
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-11-05T08:25:56Z
+- Topics: efficiency, action-prediction, interaction-history, screen-understanding
+- Evidence checked: 2026-11-05T23:03:30Z
 - ID: arxiv:2611.06854
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract reports evaluation on OSWorld, CUA-World, and video-game action prediction.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2611-06854/record.json
 
@@ -46,3 +46,4 @@ Pranjal Aggarwal, Sean Welleck
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2611.05873%2C2611.06039%2C2611.06544%2C2611.06854&max_results=4 (retrieved 2026-11-05T08:25:56Z; SHA-256 f0738ff787e6bcacf21df5c9c49e73a06b1c446d146cd9f29f407b284eed10e2)
+- https://export.arxiv.org/api/query?id_list=2611.03930%2C2611.04073%2C2611.04142%2C2611.04393%2C2611.04785%2C2611.04879%2C2611.05036%2C2611.05263%2C2611.05873%2C2611.06039%2C2611.06544%2C2611.06854&max_results=12 (retrieved 2026-11-05T23:03:30Z; SHA-256 0c7bfb6af7650b096faabf37eb8c024f2877842018cf9aa212c0a3b9aef98252)

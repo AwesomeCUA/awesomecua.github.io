@@ -74,7 +74,7 @@
     }
   ],
   "name": "Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced. The abstract describes a simulated dataset; real-browser deployment is not asserted.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract describes a simulated dataset; real-browser deployment is not asserted.",
   "published_at": "2024-08-05",
   "relations": [],
   "review_status": "curated",

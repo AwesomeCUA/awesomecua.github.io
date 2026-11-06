@@ -14,7 +14,7 @@ Agent-Dice fuses parameter updates to support continual learning in LLM agents, 
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v4). GUI agents are one of the domains used to evaluate this general continual-learning method. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v4). GUI agents are one of the domains used to evaluate this general continual-learning method.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-03641/record.json
 

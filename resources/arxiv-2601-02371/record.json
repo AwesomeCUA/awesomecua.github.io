@@ -82,7 +82,7 @@
     }
   ],
   "name": "Permission Manifests for Web Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract presents a proposed coordination mechanism, without reporting an empirical evaluation. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2025-12-07",
   "relations": [],
   "review_status": "curated",

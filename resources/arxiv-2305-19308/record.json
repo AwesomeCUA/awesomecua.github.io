@@ -84,7 +84,7 @@
     }
   ],
   "name": "SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models",
-  "notes": "The contribution was reviewed from the retained paper abstract. The original Windows/Excel implementation is identified in the separately retained project README; the later Ubuntu evaluator is not treated as a paper result. No results were independently reproduced.",
+  "notes": "The contribution was reviewed from the retained paper abstract. The original Windows/Excel implementation is identified in the separately retained project README; the later Ubuntu evaluator is not treated as a paper result.",
   "published_at": "2023-05-30",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ GUI-Cursor treats GUI grounding as a sequence of cursor movements guided by visi
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-21552/record.json
 

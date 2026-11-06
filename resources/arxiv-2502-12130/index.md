@@ -14,7 +14,7 @@ Introduces a framework that learns a reward model from agent trajectories to gui
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Online shopping is one of several decision-making domains discussed, alongside scientific reasoning and mathematics. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Online shopping is one of several decision-making domains discussed, alongside scientific reasoning and mathematics.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-12130/record.json
 

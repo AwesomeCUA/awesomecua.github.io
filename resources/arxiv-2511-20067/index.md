@@ -14,7 +14,7 @@ This study tests vision-language models as task-completion judges using screensh
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-20067/record.json
 

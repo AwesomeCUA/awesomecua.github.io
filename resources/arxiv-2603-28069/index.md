@@ -14,7 +14,7 @@ MolmoPoint replaces textual coordinate generation with pointing tokens that sele
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent general VLM pointing method with an explicit GUI-grounding experiment; no autonomous GUI-task execution is established.
+Reviewed against the complete retained official abstract. Adjacent general VLM pointing method with an explicit GUI-grounding experiment; no autonomous GUI-task execution is established.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-28069/record.json
 

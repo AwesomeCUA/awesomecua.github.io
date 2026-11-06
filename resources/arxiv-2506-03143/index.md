@@ -14,7 +14,7 @@ Uses an attention-based action head and a verifier to select relevant screen reg
 
 ## Limitations
 
-Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
+Editorial summary based on the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-03143/record.json
 

@@ -1499,6 +1499,94 @@
     "version": "4"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.22862v2",
+    "archive": "arXiv",
+    "archive_location": "2603.22862",
+    "author": [
+      {
+        "literal": "Haoyuan Xu"
+      },
+      {
+        "literal": "Chang Li"
+      },
+      {
+        "literal": "Xinyan Ma"
+      },
+      {
+        "literal": "Xianhao Ou"
+      },
+      {
+        "literal": "Zihan Zhang"
+      },
+      {
+        "literal": "Tao He"
+      },
+      {
+        "literal": "Xiangyu Liu"
+      },
+      {
+        "literal": "Zixiang Wang"
+      },
+      {
+        "literal": "Jiafeng Liang"
+      },
+      {
+        "literal": "Zheng Chu"
+      },
+      {
+        "literal": "Runxuan Liu"
+      },
+      {
+        "literal": "Rongchuan Mu"
+      },
+      {
+        "literal": "Dandan Tu"
+      },
+      {
+        "literal": "Ming Liu"
+      },
+      {
+        "literal": "Bing Qin"
+      }
+    ],
+    "citation-key": "arxiv_2603_22862",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7675ed4966084f420448bd1ccc0b8e635ec7c70da74f4e4f6e88cd6f37b4de51",
+        "submitted_at": "2026-03-24T07:05:05Z",
+        "updated_at": "2026-04-02T02:54:00Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2603.22862v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.22862",
+      "catalog_id": "arxiv:2603.22862",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-03-24",
+      "identifiers": {
+        "arxiv": "2603.22862"
+      },
+      "record_updated_at": "2026-04-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.22862",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-24; Recorded arXiv version: v2; Recorded version updated: 2026-04-02T02:54:00Z.",
+    "title": "The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.16548v3",
     "archive": "arXiv",
     "archive_location": "2604.16548",
@@ -1564,6 +1652,330 @@
     "title": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.22748v3",
+    "archive": "arXiv",
+    "archive_location": "2604.22748",
+    "author": [
+      {
+        "literal": "Meng Chu"
+      },
+      {
+        "literal": "Xuan Billy Zhang"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Lingdong Kong"
+      },
+      {
+        "literal": "Jize Zhang"
+      },
+      {
+        "literal": "Teng Tu"
+      },
+      {
+        "literal": "Weijian Ma"
+      },
+      {
+        "literal": "Ziqi Huang"
+      },
+      {
+        "literal": "Senqiao Yang"
+      },
+      {
+        "literal": "Wei Huang"
+      },
+      {
+        "literal": "Yeying Jin"
+      },
+      {
+        "literal": "Zhefan Rao"
+      },
+      {
+        "literal": "Jinhui Ye"
+      },
+      {
+        "literal": "Xinyu Lin"
+      },
+      {
+        "literal": "Xichen Zhang"
+      },
+      {
+        "literal": "Qisheng Hu"
+      },
+      {
+        "literal": "Shuai Yang"
+      },
+      {
+        "literal": "Leyang Shen"
+      },
+      {
+        "literal": "Wei Chow"
+      },
+      {
+        "literal": "Yifei Dong"
+      },
+      {
+        "literal": "Fengyi Wu"
+      },
+      {
+        "literal": "Quanyu Long"
+      },
+      {
+        "literal": "Bin Xia"
+      },
+      {
+        "literal": "Shaozuo Yu"
+      },
+      {
+        "literal": "Mingkang Zhu"
+      },
+      {
+        "literal": "Wenhu Zhang"
+      },
+      {
+        "literal": "Jiehui Huang"
+      },
+      {
+        "literal": "Haokun Gui"
+      },
+      {
+        "literal": "Runyi Li"
+      },
+      {
+        "literal": "Chenyu Tang"
+      },
+      {
+        "literal": "Dong Huang"
+      },
+      {
+        "literal": "Xuhang Chen"
+      },
+      {
+        "literal": "Rui Liu"
+      },
+      {
+        "literal": "Chengzu Li"
+      },
+      {
+        "literal": "Shiyi Du"
+      },
+      {
+        "literal": "Xu Huang"
+      },
+      {
+        "literal": "Haoxuan Che"
+      },
+      {
+        "literal": "Long Chen"
+      },
+      {
+        "literal": "Qifeng Chen"
+      },
+      {
+        "literal": "Wenya Wang"
+      },
+      {
+        "literal": "Wenxuan Zhang"
+      },
+      {
+        "literal": "Xiaojuan Qi"
+      },
+      {
+        "literal": "Yang Deng"
+      },
+      {
+        "literal": "Yanwei Li"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      },
+      {
+        "literal": "Zhi-Qi Cheng"
+      },
+      {
+        "literal": "See-Kiong Ng"
+      },
+      {
+        "literal": "Ziwei Liu"
+      },
+      {
+        "literal": "Philip Torr"
+      },
+      {
+        "literal": "Jiaya Jia"
+      }
+    ],
+    "citation-key": "arxiv_2604_22748",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e2c92d9e4856af3b5f6dafacea9340bff43e45b50703b8923bcee825ca028b00",
+        "submitted_at": "2026-04-24T17:48:47Z",
+        "updated_at": "2026-06-16T15:11:54Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.22748v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.22748",
+      "catalog_id": "arxiv:2604.22748",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-04-24",
+      "identifiers": {
+        "arxiv": "2604.22748"
+      },
+      "record_updated_at": "2026-06-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.22748",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-24; Recorded arXiv version: v3; Recorded version updated: 2026-06-16T15:11:54Z.",
+    "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.07110v1",
+    "archive": "arXiv",
+    "archive_location": "2605.07110",
+    "author": [
+      {
+        "literal": "Zejian Chen"
+      },
+      {
+        "literal": "Zhanyuan Liu"
+      },
+      {
+        "literal": "Chaozhuo Li"
+      },
+      {
+        "literal": "Mengxiang Han"
+      },
+      {
+        "literal": "Songyang Liu"
+      },
+      {
+        "literal": "Litian Zhang"
+      },
+      {
+        "literal": "Feng Gao"
+      },
+      {
+        "literal": "Yiming Hei"
+      },
+      {
+        "literal": "Xi Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2605_07110",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8d7751a82a92b1864f1afa63a2f2019c6606875767abd1f59815da55b1cd8a32",
+        "submitted_at": "2026-05-08T01:38:46Z",
+        "updated_at": "2026-05-08T01:38:46Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.07110v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.07110",
+      "catalog_id": "arxiv:2605.07110",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-08",
+      "identifiers": {
+        "arxiv": "2605.07110"
+      },
+      "record_updated_at": "2026-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.07110",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T01:38:46Z.",
+    "title": "Securing Computer-Use Agents: A Unified Architecture-Lifecycle Framework for Deployment-Grounded Reliability",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.09278v1",
+    "archive": "arXiv",
+    "archive_location": "2608.09278",
+    "author": [
+      {
+        "literal": "Shengcheng Yu"
+      },
+      {
+        "literal": "Yuchen Ling"
+      },
+      {
+        "literal": "Junyang Xing"
+      },
+      {
+        "literal": "Quan Zhou"
+      },
+      {
+        "literal": "Chunrong Fang"
+      },
+      {
+        "literal": "Zhenyu Chen"
+      }
+    ],
+    "citation-key": "arxiv_2608_09278",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fdd7c1df0fdb4999d4297a943bdee6f6da55e49c1170d9aaf292c000688a44c4",
+        "submitted_at": "2026-08-10T08:33:19Z",
+        "updated_at": "2026-08-10T08:33:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.09278v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.09278",
+      "catalog_id": "arxiv:2608.09278",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-10",
+      "identifiers": {
+        "arxiv": "2608.09278"
+      },
+      "record_updated_at": "2026-08-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.09278",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-10; Recorded arXiv version: v1; Recorded version updated: 2026-08-10T08:33:19Z.",
+    "title": "Software Engineering for and with GUI Agent",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2608.29596v2",
@@ -1976,6 +2388,100 @@
     },
     "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T01:11:57Z.",
     "title": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.30108v1",
+    "archive": "arXiv",
+    "archive_location": "2610.30108",
+    "author": [
+      {
+        "literal": "Yanzhe Chen"
+      },
+      {
+        "literal": "Ziyi Yang"
+      },
+      {
+        "literal": "Jifeng Zhu"
+      },
+      {
+        "literal": "Qiming Huang"
+      },
+      {
+        "literal": "Ruihe An"
+      },
+      {
+        "literal": "Peiyao Xu"
+      },
+      {
+        "literal": "Hesen Yang"
+      },
+      {
+        "literal": "Runda Liu"
+      },
+      {
+        "literal": "Chang Gong"
+      },
+      {
+        "literal": "Zhijun Cao"
+      },
+      {
+        "literal": "Zechen Bai"
+      },
+      {
+        "literal": "Wenzheng Zeng"
+      },
+      {
+        "literal": "Yiqi Lin"
+      },
+      {
+        "literal": "Guoqiang Liang"
+      },
+      {
+        "literal": "Kevin Yuchen Ma"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2610_30108",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5be9e96cd0e1b7574aa96426b1bff6e6f93db605a2e803e39b0f2314d2293fb7",
+        "submitted_at": "2026-10-21T17:52:48Z",
+        "updated_at": "2026-10-21T17:52:48Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.30108v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.30108",
+      "catalog_id": "arxiv:2610.30108",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-21",
+      "identifiers": {
+        "arxiv": "2610.30108"
+      },
+      "record_updated_at": "2026-10-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.30108",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T17:52:48Z.",
+    "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
     "type": "article",
     "version": "1"
   }

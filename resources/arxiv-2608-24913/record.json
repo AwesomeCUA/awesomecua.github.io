@@ -72,12 +72,15 @@
     }
   ],
   "name": "From Blind Edits to Verified Repair: Building Trustworthy User-Side LLM Agents for Web Accessibility",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-07-26",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Builds a local browser-extension agent that generates and verifies additive CSS repairs for WCAG web accessibility violations.",
+  "task_classes": [
+    "R02.07.01.03"
+  ],
   "topics": [
     "ui-design",
     "web-navigation",

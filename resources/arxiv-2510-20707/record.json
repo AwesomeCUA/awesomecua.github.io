@@ -71,7 +71,7 @@
     }
   ],
   "name": "Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI grounding is one evaluation setting for a general vision-language model compression method. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). GUI grounding is one evaluation setting for a general vision-language model compression method.",
   "published_at": "2025-10-23",
   "relations": [],
   "review_status": "curated",

@@ -74,7 +74,7 @@
     }
   ],
   "name": "Genesis: Evolving Attack Strategies for LLM Web Agent Red-Teaming",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The experiments concern attacks across web tasks. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The experiments concern attacks across web tasks.",
   "published_at": "2025-10-21",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Uses human-planned subtasks to constrain and refine the intermediate plans conne
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-03743/record.json
 

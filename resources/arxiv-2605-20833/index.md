@@ -1,20 +1,20 @@
 # MemGym: a Long-Horizon Memory Environment for LLM Agents
 
-Bibliographic record for MemGym: a Long-Horizon Memory Environment for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+MemGym benchmarks agent memory across several task regimes, including computer use on WebArena-Infinity, with scores designed to isolate memory performance.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2605-20833/
 - Original source: https://arxiv.org/abs/2605.20833
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-18T10:54:12Z
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: memory, evaluation, long-horizon
+- Evidence checked: 2026-11-05T23:02:57Z
 - ID: arxiv:2605.20833
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Computer use is one track among dialogue, research, and coding evaluations.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-20833/record.json
 
@@ -46,3 +46,4 @@ Wujiang Xu, Yu Wang, Kai Mei, Kaiqu Liang, Zhenting Wang, Mingyu Jin, Han Zhang,
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2508.19461%2C2508.19493%2C2509.21782%2C2509.25140%2C2510.03485%2C2510.07809%2C2510.14276%2C2510.27140%2C2510.27210%2C2511.13248%2C2512.08417%2C2601.07263%2C2602.13516%2C2603.00476%2C2603.11862%2C2603.18762%2C2603.23791%2C2604.00986%2C2604.16515%2C2604.16548%2C2604.24348%2C2605.05509%2C2605.08876%2C2605.20833%2C2605.24785%2C2607.00333%2C2607.18659%2C2607.25255%2C2608.00202%2C2608.08939%2C2608.24913%2C2608.29596&max_results=32 (retrieved 2026-10-18T10:54:12Z; SHA-256 5f5bae19420f79231516d4bcf604ea18d4f930fc7790cde5a3e7fcb8d41a1126)
+- https://export.arxiv.org/api/query?id_list=2605.19447%2C2605.19484%2C2605.19587%2C2605.20833%2C2605.22642%2C2605.22781%2C2605.22916%2C2605.23204%2C2605.23939%2C2605.25233%2C2605.25707%2C2605.25901%2C2605.26079%2C2605.26252%2C2605.26321%2C2605.26646%2C2605.26994%2C2605.27134%2C2605.27209%2C2605.27705%2C2605.27882%2C2605.27898%2C2605.28158%2C2605.28255%2C2605.28629%2C2605.28775%2C2605.29119%2C2605.29218%2C2605.29324%2C2605.29341%2C2605.29397%2C2605.29447%2C2605.29463%2C2605.29615%2C2605.29801%2C2605.29927%2C2605.30010%2C2605.30052%2C2605.30126%2C2605.30434%2C2605.30884%2C2605.30907%2C2605.31264%2C2605.31365%2C2605.31557%2C2606.00254%2C2606.00341%2C2606.00408%2C2606.00497%2C2606.00530&max_results=50 (retrieved 2026-11-05T23:02:57Z; SHA-256 07bff2e80d81fb334aa9573a6ebebc0de70c44b65516d45c5796c8b1fc840ed3)

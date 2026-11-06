@@ -14,7 +14,7 @@ Introduces ReInAgent, coordinating information management, planning, and reflect
 
 ## Limitations
 
-Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+Reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-07988/record.json
 

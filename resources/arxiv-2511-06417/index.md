@@ -14,7 +14,7 @@ Introduces Auto-Explorer, an automated GUI exploration method that records softw
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-06417/record.json
 

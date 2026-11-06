@@ -14,7 +14,7 @@ Trains a question-answering model to search and navigate a text-based web browse
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The browser interaction serves long-form question answering, evaluated on ELI5. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The browser interaction serves long-form question answering, evaluated on ELI5.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2112-09332/record.json
 

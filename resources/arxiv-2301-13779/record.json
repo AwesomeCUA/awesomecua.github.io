@@ -75,12 +75,15 @@
     }
   ],
   "name": "FLAME: A small language model for spreadsheet formulas",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The work concerns formula assistance; the abstract does not describe an agent operating a spreadsheet GUI. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2023-01-31",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces FLAME, a model trained on Excel formulas for spreadsheet formula repair, completion and retrieval, supporting formula authoring in spreadsheet software.",
+  "task_classes": [
+    "R04.03.01.01"
+  ],
   "topics": [
     "automation",
     "data-generation"

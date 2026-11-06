@@ -14,7 +14,7 @@ UItron combines GUI perception and planning data engineering with supervised tra
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2508-21767/record.json
 

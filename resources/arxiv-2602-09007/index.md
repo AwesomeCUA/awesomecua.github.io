@@ -14,7 +14,7 @@ GUI-GenBench tests image-generation models as action-conditioned GUI environment
 
 ## Limitations
 
-Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.
+Reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-09007/record.json
 

@@ -14,7 +14,7 @@ Introduces Recon-Act, a browser-use framework that compares failed and successfu
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract says the implementation has reached Level 3 of its proposed roadmap, with limited human intervention. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract says the implementation has reached Level 3 of its proposed roadmap, with limited human intervention.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-21072/record.json
 

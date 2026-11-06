@@ -67,7 +67,7 @@
     }
   ],
   "name": "Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration",
-  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified. Adjacent conceptual HCI work about agent-facing interfaces; the abstract does not report GUI task experiments or a new evaluated CUA.",
+  "notes": "Reviewed against the complete retained official abstract. Adjacent conceptual HCI work about agent-facing interfaces; the abstract does not report GUI task experiments or a new evaluated CUA.",
   "published_at": "2026-03-11",
   "relations": [],
   "review_status": "curated",

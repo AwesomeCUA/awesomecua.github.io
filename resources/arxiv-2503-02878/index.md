@@ -14,7 +14,7 @@ Introduces Self-Taught Lookahead (STL), which trains a value model to predict ac
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract also reports evaluations on multi-hop question answering and math puzzles. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v3). The abstract also reports evaluations on multi-hop question answering and math puzzles.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2503-02878/record.json
 

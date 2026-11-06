@@ -14,7 +14,7 @@ MT-Mind2Web evaluates web navigation through sequences of conversational user in
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2402-15057/record.json
 

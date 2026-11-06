@@ -14,7 +14,7 @@ Describes PLOW, which learns executable web-task models from a session combining
 
 ## Limitations
 
-The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes.
+The annotation was reviewed against retained primary publication sources. The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes.
 
 - Record JSON: https://awesomecua.com/resources/url-628b5251757bb3888e89/record.json
 

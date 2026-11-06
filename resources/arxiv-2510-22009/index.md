@@ -14,7 +14,7 @@ OpenPhone trains a compact mobile policy with supervised learning followed by GR
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-22009/record.json
 

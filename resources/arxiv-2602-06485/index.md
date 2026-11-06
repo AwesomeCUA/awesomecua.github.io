@@ -14,7 +14,7 @@ Bibliographic record for AgentCPM-Explore: Realizing Long-Horizon Deep Explorati
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-06485/record.json
 

@@ -70,7 +70,7 @@
     }
   ],
   "name": "ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning",
-  "notes": "Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.",
+  "notes": "Editorial summary based on the primary paper abstract.",
   "published_at": "2025-03-26",
   "relations": [],
   "review_status": "curated",

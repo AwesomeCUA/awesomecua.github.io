@@ -14,7 +14,7 @@ GEM detects instructions outside a GUI agent’s capabilities by modeling distan
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2505-12842/record.json
 

@@ -14,7 +14,7 @@ MisActBench provides action-level labels for task alignment, while DeAction chec
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract and the specified sections of the same recorded paper version. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract and the specified sections of the same recorded paper version.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-08995/record.json
 

@@ -14,7 +14,7 @@ Introduces WebDreamer, which simulates candidate web actions with language-model
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2411-06559/record.json
 

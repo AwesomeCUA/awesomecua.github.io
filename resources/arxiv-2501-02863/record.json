@@ -85,7 +85,7 @@
     }
   ],
   "name": "Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract names mobile apps but no mobile operating system. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2025-01-06",
   "relations": [],
   "review_status": "curated",

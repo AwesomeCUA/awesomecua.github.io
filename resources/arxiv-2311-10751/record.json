@@ -79,12 +79,15 @@
     }
   ],
   "name": "ProAgent: From Robotic Process Automation to Agentic Process Automation",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract describes workflow construction and execution, without specifying direct GUI operation. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2).",
   "published_at": "2023-11-02",
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
   "summary": "Introduces ProAgent, an LLM-based agent that builds automation workflows from human instructions and coordinates specialized agents during workflow execution.",
+  "task_classes": [
+    "R01.06.01.03"
+  ],
   "topics": [
     "workflow",
     "planning",

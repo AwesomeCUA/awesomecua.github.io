@@ -14,7 +14,7 @@ Introduces Android Agent Arena with online application tasks and procedural eval
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-01149/record.json
 

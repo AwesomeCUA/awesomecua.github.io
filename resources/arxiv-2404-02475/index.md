@@ -14,7 +14,7 @@ Prompt2Task converts textual goals or procedures into smartphone UI automation u
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-02475/record.json
 

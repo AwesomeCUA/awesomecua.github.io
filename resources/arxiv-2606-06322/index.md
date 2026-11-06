@@ -14,7 +14,7 @@ DragOn supplies drag-grounding training data and a held-out benchmark for highli
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-06322/record.json
 

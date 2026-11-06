@@ -86,7 +86,7 @@
     }
   ],
   "name": "Curiosity Driven Knowledge Retrieval for Mobile Agents",
-  "notes": "The curiosity signal is a model-based proxy, not a calibrated probability of failure. Accurate external app information is a dependency, and AndroidWorld is the reported evaluation environment. No performance numbers were independently reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Problem Formulation; 3.2 Curiosity-Driven Information Gain Estimation; 3.3 Retrieving and Embedding External Knowledge); not an entire-paper reading or reproduction claim.",
+  "notes": "The curiosity signal is a model-based proxy, not a calibrated probability of failure. Accurate external app information is a dependency, and AndroidWorld is the reported evaluation environment. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Problem Formulation; 3.2 Curiosity-Driven Information Gain Estimation; 3.3 Retrieving and Embedding External Knowledge).",
   "published_at": "2026-01-27",
   "relations": [],
   "review_status": "curated",

@@ -14,7 +14,7 @@ Introduces WebChoreArena, 532 web chores built on WebArena environments to evalu
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2).
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-01952/record.json
 

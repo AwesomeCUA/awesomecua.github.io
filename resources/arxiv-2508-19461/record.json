@@ -75,7 +75,7 @@
     }
   ],
   "name": "Reliable Weak-to-Strong Monitoring of LLM Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study also examines tool-calling agents in SHADE-Arena; CUA-SHADE-Arena is its computer-use setting. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study also examines tool-calling agents in SHADE-Arena; CUA-SHADE-Arena is its computer-use setting.",
   "published_at": "2025-08-26",
   "relations": [],
   "review_status": "curated",

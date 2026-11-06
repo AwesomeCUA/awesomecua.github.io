@@ -14,7 +14,7 @@ Combines GUI perception data, instructional videos, real and simulated devices, 
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-14548/record.json
 

@@ -14,7 +14,7 @@ Branch-and-Browse is a web agent framework that uses tree-structured subtasks, w
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its reported task success and execution time results are from WebArena. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its reported task success and execution time results are from WebArena.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-19838/record.json
 

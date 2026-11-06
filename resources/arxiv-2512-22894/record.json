@@ -70,12 +70,15 @@
     }
   ],
   "name": "DECEPTICON: How Dark Patterns Manipulate Web Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its tasks comprise 600 generated and 100 real-world cases. Experiments, reported performance and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Its tasks comprise 600 generated and 100 real-world cases.",
   "published_at": "2025-12-28",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "DECEPTICON is an environment of 700 web navigation tasks that isolates dark patterns to measure how deceptive interface designs steer agent actions.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "evaluation",
     "ui-design",

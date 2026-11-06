@@ -14,7 +14,7 @@ StakeBench evaluates prompt-injection harm to different stakeholders in shopping
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-13385/record.json
 

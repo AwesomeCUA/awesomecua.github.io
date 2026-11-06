@@ -84,7 +84,7 @@
     }
   ],
   "name": "SPIDES: Information-Flow Control for Browser Agents",
-  "notes": "Reviewed the complete abstract and selected v1 threat-model, policy, evaluation and limitations sections. Guarantees assume correct labels/trusted origins and a trusted browser/harness mediating actions; evaluation uses idealized approvals. Origin-level reader sets can miss recipient distinctions within one origin. No unrestricted prompt-injection immunity or independent reproduction is claimed.",
+  "notes": "Reviewed the complete abstract and selected v1 threat-model, policy, evaluation and limitations sections. Guarantees assume correct labels/trusted origins and a trusted browser/harness mediating actions; evaluation uses idealized approvals. Origin-level reader sets can miss recipient distinctions within one origin.",
   "published_at": "2026-10-16",
   "relations": [],
   "review_status": "curated",

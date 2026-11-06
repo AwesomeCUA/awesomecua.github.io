@@ -14,7 +14,7 @@ Studies webpage injections that affect both screenshots and accessibility trees,
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-04364/record.json
 

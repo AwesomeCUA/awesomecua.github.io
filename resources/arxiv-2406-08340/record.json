@@ -72,12 +72,15 @@
     }
   ],
   "name": "Practical, Automated Scenario-based Mobile App Testing",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2024-06-12",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "ScenTest builds scenario-specific event knowledge graphs from crowdsourced test reports containing GUI and action information. It uses the current app state and testing context to generate scenario tests across applications.",
+  "task_classes": [
+    "R02.07.01.02"
+  ],
   "topics": [
     "automation",
     "cross-app",

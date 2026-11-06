@@ -2129,6 +2129,109 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.14747v1",
+    "archive": "arXiv",
+    "archive_location": "2605.14747",
+    "author": [
+      {
+        "literal": "Weimin Xiong"
+      },
+      {
+        "literal": "Shuhao Gu"
+      },
+      {
+        "literal": "Bowen Ye"
+      },
+      {
+        "literal": "Zihao Yue"
+      },
+      {
+        "literal": "Lei Li"
+      },
+      {
+        "literal": "Feifan Song"
+      },
+      {
+        "literal": "Sujian Li"
+      },
+      {
+        "literal": "Hao Tian"
+      }
+    ],
+    "citation-key": "arxiv_2605_14747",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d0403b56b03da2f8264cbfbd6083c37bfdd32e47fdd2e39b4543d9ef2070c610",
+        "submitted_at": "2026-05-14T12:14:24Z",
+        "updated_at": "2026-05-14T12:14:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.14747v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.14747",
+      "catalog_id": "arxiv:2605.14747",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "record",
+      "first_published_at": "2026-05-14",
+      "identifiers": {
+        "arxiv": "2605.14747"
+      },
+      "publication": {
+        "authors": [
+          "Weimin Xiong",
+          "Shuhao Gu",
+          "Bowen Ye",
+          "Zihao Yue",
+          "Lei Li",
+          "Feifan Song",
+          "Sujian Li",
+          "Hao Tian"
+        ],
+        "date_basis": "Explicit publisher metadata: 2026/09/29; precision=day.",
+        "date_parts": [
+          2026,
+          9,
+          29
+        ],
+        "doi": null,
+        "event_dates": "06--11 Jul 2026",
+        "evidence_urls": [
+          "https://proceedings.mlr.press/v306/xiong26c.html"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "This work already exists as metadata_verified arxiv:2605.14747. The official publication abstract still promises a future release; current release status is not inferred from publication. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "140253-140283",
+        "pdf_url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiong26c/xiong26c.pdf",
+        "publisher": "PMLR",
+        "series": "Proceedings of Machine Learning Research",
+        "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+        "type": "conference-paper",
+        "url": "https://proceedings.mlr.press/v306/xiong26c.html",
+        "venue": "Proceedings of the 43rd International Conference on Machine Learning",
+        "volume": "306"
+      },
+      "record_updated_at": "2026-05-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.14747",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T12:14:24Z.",
+    "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.18758v2",
     "archive": "arXiv",
     "archive_location": "2605.18758",
@@ -2191,6 +2294,73 @@
     "title": "OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.03951v1",
+    "archive": "arXiv",
+    "archive_location": "2606.03951",
+    "author": [
+      {
+        "literal": "Zechen Bai"
+      },
+      {
+        "literal": "Zhiheng Chen"
+      },
+      {
+        "literal": "Yiqi Lin"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Xiangwu Guo"
+      },
+      {
+        "literal": "Xin Wang"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2606_03951",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "20baed183b31118c23112d6396ad9ea15329ee8b54ef435caf003907f18d9c28",
+        "submitted_at": "2026-06-02T17:39:07Z",
+        "updated_at": "2026-06-02T17:39:07Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.03951v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.03951",
+      "catalog_id": "arxiv:2606.03951",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-02",
+      "identifiers": {
+        "arxiv": "2606.03951"
+      },
+      "record_updated_at": "2026-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.03951",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T17:39:07Z.",
+    "title": "Demo2Tutorial: From Human Experience to Multimodal Software Tutorials",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2606.04701v1",
@@ -2256,6 +2426,64 @@
     },
     "note": "First published: 2026-06-03; Recorded arXiv version: v1; Recorded version updated: 2026-06-03T10:25:46Z.",
     "title": "Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.29445v1",
+    "archive": "arXiv",
+    "archive_location": "2606.29445",
+    "author": [
+      {
+        "literal": "Sunqi Fan"
+      },
+      {
+        "literal": "Qingle Liu"
+      },
+      {
+        "literal": "Runqi Yin"
+      },
+      {
+        "literal": "Meng-Hao Guo"
+      },
+      {
+        "literal": "Shuojin Yang"
+      }
+    ],
+    "citation-key": "arxiv_2606_29445",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "21fd84f29b0f5892d79714794b92b9534adb5eb459e32638163b6d062fe6f047",
+        "submitted_at": "2026-06-28T15:11:19Z",
+        "updated_at": "2026-06-28T15:11:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.29445v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.29445",
+      "catalog_id": "arxiv:2606.29445",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-28",
+      "identifiers": {
+        "arxiv": "2606.29445"
+      },
+      "record_updated_at": "2026-06-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.29445",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T15:11:19Z.",
+    "title": "Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction",
     "type": "article",
     "version": "1"
   },
@@ -2373,6 +2601,61 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2608.26200v2",
+    "archive": "arXiv",
+    "archive_location": "2608.26200",
+    "author": [
+      {
+        "literal": "Yuncheng Guo"
+      },
+      {
+        "literal": "Zhanqiu Zhang"
+      },
+      {
+        "literal": "Yiwen Guo"
+      },
+      {
+        "literal": "Weijia Li"
+      }
+    ],
+    "citation-key": "arxiv_2608_26200",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "58f3e6aa42b8233eb5165d111ee12e40ef78963df7acb56cdd8608bee429f372",
+        "submitted_at": "2026-08-25T17:21:15Z",
+        "updated_at": "2026-09-10T16:56:05Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2608.26200v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.26200",
+      "catalog_id": "arxiv:2608.26200",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-08-25",
+      "identifiers": {
+        "arxiv": "2608.26200"
+      },
+      "record_updated_at": "2026-09-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.26200",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-25; Recorded arXiv version: v2; Recorded version updated: 2026-09-10T16:56:05Z.",
+    "title": "GameWAM: A World Action Model for Video Games",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.27461v1",
     "archive": "arXiv",
     "archive_location": "2609.27461",
@@ -2430,6 +2713,103 @@
     },
     "note": "First published: 2026-09-23; Recorded arXiv version: v1; Recorded version updated: 2026-09-23T07:27:23Z.",
     "title": "Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.03126v1",
+    "archive": "arXiv",
+    "archive_location": "2611.03126",
+    "author": [
+      {
+        "literal": "Xinlei Yu"
+      },
+      {
+        "literal": "Gen Li"
+      },
+      {
+        "literal": "Ji Zhao"
+      },
+      {
+        "literal": "Zhangquan Chen"
+      },
+      {
+        "literal": "Congcong Wang"
+      },
+      {
+        "literal": "Shuai Dong"
+      },
+      {
+        "literal": "Zelin Peng"
+      },
+      {
+        "literal": "Yuqi Xu"
+      },
+      {
+        "literal": "Hongrui Wu"
+      },
+      {
+        "literal": "Kaiwen Tuo"
+      },
+      {
+        "literal": "Cheng Yang"
+      },
+      {
+        "literal": "Kaituo Feng"
+      },
+      {
+        "literal": "Yifan Wu"
+      },
+      {
+        "literal": "Jiayi Zhang"
+      },
+      {
+        "literal": "Dongming Wu"
+      },
+      {
+        "literal": "Wenqi Shao"
+      },
+      {
+        "literal": "Jiaqi Wang"
+      },
+      {
+        "literal": "Xiangyu Yue"
+      }
+    ],
+    "citation-key": "arxiv_2611_03126",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b2baba048e4ada1e1d65899fc63c9285c751eb62fea5d53469d765f297759817",
+        "submitted_at": "2026-11-02T13:41:14Z",
+        "updated_at": "2026-11-02T13:41:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.03126v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.03126",
+      "catalog_id": "arxiv:2611.03126",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-11-02",
+      "identifiers": {
+        "arxiv": "2611.03126"
+      },
+      "record_updated_at": "2026-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.03126",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T13:41:14Z.",
+    "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
     "type": "article",
     "version": "1"
   }

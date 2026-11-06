@@ -14,7 +14,7 @@ Bibliographic record for AutoUE: Automated Generation of 3D Games in Unreal Engi
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Bibliographic metadata checked against arXiv; relevance review pending.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-07106/record.json
 

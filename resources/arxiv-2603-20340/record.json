@@ -74,7 +74,7 @@
     }
   ],
   "name": "ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The abstract limits its portability evidence to transfer within a benchmark family, not generalization across arbitrary benchmarks.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. The abstract limits its portability evidence to transfer within a benchmark family, not generalization across arbitrary benchmarks.",
   "published_at": "2026-03-20",
   "relations": [],
   "review_status": "curated",

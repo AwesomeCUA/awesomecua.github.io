@@ -14,7 +14,7 @@ Introduces AMBER, an append-only memory framework in which a web agent learns to
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The annotation and scope were reviewed against the primary paper abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-07118/record.json
 

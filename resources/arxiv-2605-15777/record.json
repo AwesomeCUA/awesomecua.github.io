@@ -93,7 +93,7 @@
     }
   ],
   "name": "SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?",
-  "notes": "The complete retained official abstract and cached official README were reviewed. The README establishes browser execution against running SaaS applications; no repository code was executed and benchmark results were not independently reproduced.",
+  "notes": "The complete retained official abstract and cached official README were reviewed.",
   "published_at": "2026-05-15",
   "relations": [],
   "review_status": "curated",

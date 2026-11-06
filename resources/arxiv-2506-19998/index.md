@@ -14,7 +14,7 @@ Introduces Doc2Agent, a pipeline that generates and refines Python tools from AP
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The pipeline uses APIs; WebArena is one evaluation setting alongside other API domains. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The pipeline uses APIs; WebArena is one evaluation setting alongside other API domains.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-19998/record.json
 

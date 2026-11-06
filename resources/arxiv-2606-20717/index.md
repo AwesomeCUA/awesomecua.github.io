@@ -14,7 +14,7 @@ MIRAGE evaluates targeted next-action hijacking from adversarial images restrict
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-20717/record.json
 

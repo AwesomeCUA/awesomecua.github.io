@@ -14,7 +14,7 @@ WALT explores website functionality and converts demonstrated interactions into 
 
 ## Limitations
 
-The annotation was reviewed against the complete retained primary abstract. Experiments and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained primary abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-01524/record.json
 

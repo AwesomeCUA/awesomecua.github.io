@@ -14,7 +14,7 @@ AndroidDaily evaluates mobile GUI agents on daily workflows in closed-source And
 
 ## Limitations
 
-The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+The annotation and scope were reviewed against the complete retained original arXiv abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-27761/record.json
 

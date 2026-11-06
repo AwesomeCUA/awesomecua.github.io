@@ -73,7 +73,7 @@
     }
   ],
   "name": "IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents",
-  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract.",
   "published_at": "2026-04-06",
   "relations": [],
   "review_status": "curated",

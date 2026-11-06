@@ -72,12 +72,15 @@
     }
   ],
   "name": "Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection",
-  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract.",
   "published_at": "2026-08-09",
   "relations": [],
   "review_status": "curated",
   "scope": "core",
   "summary": "Demonstrates that unsanitized Android accessibility tree metadata exposes mobile GUI agents to stealthy indirect prompt injection attacks.",
+  "task_classes": [
+    "R01.05.02.01"
+  ],
   "topics": [
     "safety-security",
     "mobile-navigation",

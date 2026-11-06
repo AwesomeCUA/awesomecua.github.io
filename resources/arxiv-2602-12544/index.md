@@ -14,7 +14,7 @@ This work uses constraint-based progress evaluation to retain partially successf
 
 ## Limitations
 
-The annotation was reviewed against the complete retained official abstract. Experimental findings and released artifacts have not been independently reproduced.
+The annotation was reviewed against the complete retained official abstract.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-12544/record.json
 
