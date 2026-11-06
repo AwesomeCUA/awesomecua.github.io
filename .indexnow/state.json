@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "site": "https://awesomecua.com",
-  "accepted_at": "2026-11-06T09:44:13+00:00",
-  "manifest_sha256": "d4d2afda4877787fb4be19be8b55641aea7c8eba966ba9c2b78f2ec220ef2fbb",
+  "accepted_at": "2026-11-06T10:23:05+00:00",
+  "manifest_sha256": "4e822d63b7d99389724e62b30803b53456491cd07ecbb4e54e0cfa700d8b5d0f",
   "source_commit": "60f5df4c589c7ae3ca6c7e51c6ee28784ed64d75",
   "accepted_pages": {
     "/survey/": "e089dad624432c927a636561ab84c58c5f77d4e966256516cd933b1e4457a672",
@@ -2166,7 +2166,7 @@
     "/guides/gui-agent-benchmarks/": "945d094821b8014a23bbbb8c1e9a3837889949675651081ace5a878ba0a5f6ed",
     "/guides/gui-agent-training-data/": "70d1c0350d675efd5be53a32fb4094c737828c8819057be5b30da7901e7bb880",
     "/guides/": "943dd7e2fb35ca5d19d368cb4fe40279c4d31863bc2589043b470b76cc6c05b8",
-    "/zh/": "a630c11affb3a2e0d616b4a23958aa2a81211ccf967338efb8be0046840fc895",
-    "/": "e711e8c54ce4ece2b8a009c6642ac843eff8ef7e0d49ee0c7e0a0c0f57c0f388"
+    "/zh/": "e8b35d95b18b71a02c08f5e77a3d9e78e01c1a0234c54ccb69bea9ceeaf03016",
+    "/": "ab3187459f71b1cc5a811047c41b1087367e316ca51777f82325b8745111a232"
   }
 }
