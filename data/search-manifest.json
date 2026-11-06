@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.com",
   "indexable_pages": 2163,
-  "metadata_only_pages": 627,
+  "metadata_only_pages": 628,
   "excluded_pages": 1308,
   "pages": [
     {
@@ -9208,6 +9208,11 @@
       "path": "/resources/arxiv-2610-14306/",
       "indexable": false,
       "sha256": "f07dbf863a77e88b516d881d998e0b0f72829874c5627803ff592725f4befb8c"
+    },
+    {
+      "path": "/resources/arxiv-2610-14488/",
+      "indexable": false,
+      "sha256": "9673ae6beb73d34bf65f8f9ef9d683621992d3bb0e9d8b971effee72afb19dd1"
     },
     {
       "path": "/resources/arxiv-2610-14855/",
@@ -20315,7 +20320,7 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "8effe40de8a2871c549dc516a231711aa19b32e03d17081987060d9e0110314f"
+      "sha256": "2786c7035222be0df42d4801957be449aa873c58901ad97b44dbb4e1d324ae78"
     },
     {
       "path": "/categories/paper/",
@@ -21735,7 +21740,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "8777a16ac9a13cc50692e9291dce72a983d510feea2b7922b5de8b9c4e187e22"
+      "sha256": "eac069b564625a394ffd158191c7d277a9fdb1475769f87ec32d4ff4177d2d2a"
     },
     {
       "path": "/agents/",
@@ -21750,7 +21755,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "61194eb9f39d5a18ba54c918cd1607972a38f52be0bf5b78c2e44c9a747e0a64"
+      "sha256": "9a982dd6516fbc5b0429703fedea5e4aaae103f0e35eedb141dba26a6fc4fe57"
     },
     {
       "path": "/badges/",
@@ -21765,12 +21770,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "710e629b78b3e05584fbf94d8ac9998ca33323d785aa91f8e10a6dcb49fb1ec8"
+      "sha256": "d71688468f7ffa2792fd1af36a5859f9d1dbcab5c6d0ea4a99fbb40b46b3fe40"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "9200fb1fcb1366d3de47e6151450a56353ddd34a91a9edec22fc7d729f8b5e43"
+      "sha256": "e112078a0eebcae19691a8e7b261e3f7eb4db25f4792929a2070253ce703cd60"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -21795,17 +21800,17 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "b4a480501a9edd3ea046fffdb51362944643063a87d502a59491a4d7fa233764"
+      "sha256": "a630c11affb3a2e0d616b4a23958aa2a81211ccf967338efb8be0046840fc895"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "3cf67f0a5440f0d98977744b5e4440a6d74df67dbf79b9dc10082f125a8d0a5f"
+      "sha256": "e711e8c54ce4ece2b8a009c6642ac843eff8ef7e0d49ee0c7e0a0c0f57c0f388"
     },
     {
       "path": "/explore/",
       "indexable": false,
-      "sha256": "6c50614c02a121c6ae3da71ebfb0530eba577827d0833a7c237c6b29320b91a1",
+      "sha256": "7e0f1bd60fbf2f7e22a73c22391f0e9ca344d147a8f19760d01ac81b5e8ecf9e",
       "utility": true
     }
   ]
