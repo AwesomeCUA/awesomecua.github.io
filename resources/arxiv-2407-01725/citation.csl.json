@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2407.01725",
+  "citation-key": "arxiv_2407_01725",
+  "type": "article",
+  "title": "DiscoveryBench: Towards Data-Driven Discovery with Large Language Models",
+  "URL": "https://arxiv.org/abs/2407.01725v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.01725",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.01725",
+    "identifiers": {
+      "arxiv": "2407.01725"
+    },
+    "first_published_at": "2024-07-01",
+    "record_updated_at": "2024-07-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db562cf30292ee0c81fe8fa42d5cfcb80838ba9b2b2757c2f44c62a46e583c03",
+      "submitted_at": "2024-07-01T18:58:22Z",
+      "updated_at": "2024-07-01T18:58:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.01725v1"
+    }
+  },
+  "note": "First published: 2024-07-01; Recorded arXiv version: v1; Recorded version updated: 2024-07-01T18:58:22Z.",
+  "author": [
+    {
+      "literal": "Bodhisattwa Prasad Majumder"
+    },
+    {
+      "literal": "Harshit Surana"
+    },
+    {
+      "literal": "Dhruv Agarwal"
+    },
+    {
+      "literal": "Bhavana Dalvi Mishra"
+    },
+    {
+      "literal": "Abhijeetsingh Meena"
+    },
+    {
+      "literal": "Aryan Prakhar"
+    },
+    {
+      "literal": "Tirth Vora"
+    },
+    {
+      "literal": "Tushar Khot"
+    },
+    {
+      "literal": "Ashish Sabharwal"
+    },
+    {
+      "literal": "Peter Clark"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.01725",
+  "genre": "preprint",
+  "version": "1"
+}

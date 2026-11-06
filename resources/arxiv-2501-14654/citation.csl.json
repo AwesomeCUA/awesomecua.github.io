@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2501.14654",
+  "citation-key": "arxiv_2501_14654",
+  "type": "article",
+  "title": "MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents",
+  "URL": "https://arxiv.org/abs/2501.14654v2",
+  "custom": {
+    "catalog_id": "arxiv:2501.14654",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.14654",
+    "identifiers": {
+      "arxiv": "2501.14654"
+    },
+    "first_published_at": "2025-01-24",
+    "record_updated_at": "2025-02-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "55f288293b76081c4e47764ccc70819c1931d89f27cd08e85d8e683c89633b13",
+      "submitted_at": "2025-01-24T17:21:01Z",
+      "updated_at": "2025-02-12T05:32:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2501.14654v2"
+    }
+  },
+  "note": "First published: 2025-01-24; Recorded arXiv version: v2; Recorded version updated: 2025-02-12T05:32:07Z.",
+  "author": [
+    {
+      "literal": "Yixing Jiang"
+    },
+    {
+      "literal": "Kameron C. Black"
+    },
+    {
+      "literal": "Gloria Geng"
+    },
+    {
+      "literal": "Danny Park"
+    },
+    {
+      "literal": "James Zou"
+    },
+    {
+      "literal": "Andrew Y. Ng"
+    },
+    {
+      "literal": "Jonathan H. Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.14654",
+  "genre": "preprint",
+  "version": "2"
+}

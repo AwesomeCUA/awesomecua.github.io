@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2601.14242",
+  "citation-key": "arxiv_2601_14242",
+  "type": "article",
+  "title": "APEX-Agents",
+  "URL": "https://arxiv.org/abs/2601.14242v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.14242",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.14242",
+    "identifiers": {
+      "arxiv": "2601.14242"
+    },
+    "first_published_at": "2026-01-20",
+    "record_updated_at": "2026-02-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f7b913726b66d422e07fe3a1f61236b8ebfd6ee659bf2bc10db4c441fb3b4410",
+      "submitted_at": "2026-01-20T18:53:44Z",
+      "updated_at": "2026-02-23T17:49:38Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.14242v3"
+    }
+  },
+  "note": "First published: 2026-01-20; Recorded arXiv version: v3; Recorded version updated: 2026-02-23T17:49:38Z.",
+  "author": [
+    {
+      "literal": "Bertie Vidgen"
+    },
+    {
+      "literal": "Austin Mann"
+    },
+    {
+      "literal": "Abby Fennelly"
+    },
+    {
+      "literal": "John Wright Stanly"
+    },
+    {
+      "literal": "Lucas Rothman"
+    },
+    {
+      "literal": "Marco Burstein"
+    },
+    {
+      "literal": "Julien Benchek"
+    },
+    {
+      "literal": "David Ostrofsky"
+    },
+    {
+      "literal": "Anirudh Ravichandran"
+    },
+    {
+      "literal": "Debnil Sur"
+    },
+    {
+      "literal": "Neel Venugopal"
+    },
+    {
+      "literal": "Alannah Hsia"
+    },
+    {
+      "literal": "Isaac Robinson"
+    },
+    {
+      "literal": "Calix Huang"
+    },
+    {
+      "literal": "Olivia Varones"
+    },
+    {
+      "literal": "Daniyal Khan"
+    },
+    {
+      "literal": "Michael Haines"
+    },
+    {
+      "literal": "Austin Bridges"
+    },
+    {
+      "literal": "Jesse Boyle"
+    },
+    {
+      "literal": "Koby Twist"
+    },
+    {
+      "literal": "Zach Richards"
+    },
+    {
+      "literal": "Chirag Mahapatra"
+    },
+    {
+      "literal": "Brendan Foody"
+    },
+    {
+      "literal": "Osvald Nitski"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.14242",
+  "genre": "preprint",
+  "version": "3"
+}

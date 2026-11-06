@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2504.11571",
+  "citation-key": "arxiv_2504_11571",
+  "type": "article",
+  "title": "GraphicBench: A Planning Benchmark for Graphic Design with Language Agents",
+  "URL": "https://arxiv.org/abs/2504.11571v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.11571",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.11571",
+    "identifiers": {
+      "arxiv": "2504.11571"
+    },
+    "first_published_at": "2025-04-15",
+    "record_updated_at": "2025-04-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9b980fcd9a51009c9adf36873690982155871390be47ccc18283020c398c3688",
+      "submitted_at": "2025-04-15T19:26:59Z",
+      "updated_at": "2025-04-15T19:26:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.11571v1"
+    }
+  },
+  "note": "First published: 2025-04-15; Recorded arXiv version: v1; Recorded version updated: 2025-04-15T19:26:59Z.",
+  "author": [
+    {
+      "literal": "Dayeon Ki"
+    },
+    {
+      "literal": "Tianyi Zhou"
+    },
+    {
+      "literal": "Marine Carpuat"
+    },
+    {
+      "literal": "Gang Wu"
+    },
+    {
+      "literal": "Puneet Mathur"
+    },
+    {
+      "literal": "Viswanathan Swaminathan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.11571",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,238 @@
+{
+  "id": "arxiv:2509.16204",
+  "citation-key": "arxiv_2509_16204",
+  "type": "article",
+  "title": "Toward Engineering AGI: Benchmarking the Engineering Design Capabilities of LLMs",
+  "URL": "https://arxiv.org/abs/2509.16204v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.16204",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.16204",
+    "identifiers": {
+      "arxiv": "2509.16204"
+    },
+    "first_published_at": "2025-07-01",
+    "record_updated_at": "2025-11-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "10d8d069b9f9c0186c3b994efcdabf8d9b213ce06bd8cb017847867eb7f9b256",
+      "submitted_at": "2025-07-01T17:59:09Z",
+      "updated_at": "2025-11-06T21:47:24Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.16204v2"
+    }
+  },
+  "note": "First published: 2025-07-01; Recorded arXiv version: v2; Recorded version updated: 2025-11-06T21:47:24Z.",
+  "author": [
+    {
+      "literal": "Xingang Guo"
+    },
+    {
+      "literal": "Yaxin Li"
+    },
+    {
+      "literal": "Xiangyi Kong"
+    },
+    {
+      "literal": "Yilan Jiang"
+    },
+    {
+      "literal": "Xiayu Zhao"
+    },
+    {
+      "literal": "Zhihua Gong"
+    },
+    {
+      "literal": "Yufan Zhang"
+    },
+    {
+      "literal": "Daixuan Li"
+    },
+    {
+      "literal": "Tianle Sang"
+    },
+    {
+      "literal": "Beixiao Zhu"
+    },
+    {
+      "literal": "Gregory Jun"
+    },
+    {
+      "literal": "Yingbing Huang"
+    },
+    {
+      "literal": "Yiqi Liu"
+    },
+    {
+      "literal": "Yuqi Xue"
+    },
+    {
+      "literal": "Rahul Dev Kundu"
+    },
+    {
+      "literal": "Qi Jian Lim"
+    },
+    {
+      "literal": "Yizhou Zhao"
+    },
+    {
+      "literal": "Luke Alexander Granger"
+    },
+    {
+      "literal": "Mohamed Badr Younis"
+    },
+    {
+      "literal": "Darioush Keivan"
+    },
+    {
+      "literal": "Nippun Sabharwal"
+    },
+    {
+      "literal": "Shreyanka Sinha"
+    },
+    {
+      "literal": "Prakhar Agarwal"
+    },
+    {
+      "literal": "Kojo Vandyck"
+    },
+    {
+      "literal": "Hanlin Mai"
+    },
+    {
+      "literal": "Zichen Wang"
+    },
+    {
+      "literal": "Aditya Venkatesh"
+    },
+    {
+      "literal": "Ayush Barik"
+    },
+    {
+      "literal": "Jiankun Yang"
+    },
+    {
+      "literal": "Chongying Yue"
+    },
+    {
+      "literal": "Jingjie He"
+    },
+    {
+      "literal": "Libin Wang"
+    },
+    {
+      "literal": "Licheng Xu"
+    },
+    {
+      "literal": "Hao Chen"
+    },
+    {
+      "literal": "Jinwen Wang"
+    },
+    {
+      "literal": "Liujun Xu"
+    },
+    {
+      "literal": "Rushabh Shetty"
+    },
+    {
+      "literal": "Ziheng Guo"
+    },
+    {
+      "literal": "Dahui Song"
+    },
+    {
+      "literal": "Manvi Jha"
+    },
+    {
+      "literal": "Weijie Liang"
+    },
+    {
+      "literal": "Weiman Yan"
+    },
+    {
+      "literal": "Bryan Zhang"
+    },
+    {
+      "literal": "Sahil Bhandary Karnoor"
+    },
+    {
+      "literal": "Jialiang Zhang"
+    },
+    {
+      "literal": "Rutva Pandya"
+    },
+    {
+      "literal": "Xinyi Gong"
+    },
+    {
+      "literal": "Mithesh Ballae Ganesh"
+    },
+    {
+      "literal": "Feize Shi"
+    },
+    {
+      "literal": "Ruiling Xu"
+    },
+    {
+      "literal": "Yifan Zhang"
+    },
+    {
+      "literal": "Yanfeng Ouyang"
+    },
+    {
+      "literal": "Lianhui Qin"
+    },
+    {
+      "literal": "Elyse Rosenbaum"
+    },
+    {
+      "literal": "Corey Snyder"
+    },
+    {
+      "literal": "Peter Seiler"
+    },
+    {
+      "literal": "Geir Dullerud"
+    },
+    {
+      "literal": "Xiaojia Shelly Zhang"
+    },
+    {
+      "literal": "Zuofu Cheng"
+    },
+    {
+      "literal": "Pavan Kumar Hanumolu"
+    },
+    {
+      "literal": "Jian Huang"
+    },
+    {
+      "literal": "Mayank Kulkarni"
+    },
+    {
+      "literal": "Mahdi Namazifar"
+    },
+    {
+      "literal": "Huan Zhang"
+    },
+    {
+      "literal": "Bin Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.16204",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2504.06260",
+  "citation-key": "arxiv_2504_06260",
+  "type": "article",
+  "title": "FEABench: Evaluating Language Models on Multiphysics Reasoning Ability",
+  "URL": "https://arxiv.org/abs/2504.06260v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.06260",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.06260",
+    "identifiers": {
+      "arxiv": "2504.06260"
+    },
+    "first_published_at": "2025-04-08",
+    "record_updated_at": "2025-04-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "294cbd9eaa1d50a6348f0234602724e015e260196c17a9801990604486126f44",
+      "submitted_at": "2025-04-08T17:59:39Z",
+      "updated_at": "2025-04-08T17:59:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.06260v1"
+    }
+  },
+  "note": "First published: 2025-04-08; Recorded arXiv version: v1; Recorded version updated: 2025-04-08T17:59:39Z.",
+  "author": [
+    {
+      "literal": "Nayantara Mudur"
+    },
+    {
+      "literal": "Hao Cui"
+    },
+    {
+      "literal": "Subhashini Venugopalan"
+    },
+    {
+      "literal": "Paul Raccuglia"
+    },
+    {
+      "literal": "Michael P. Brenner"
+    },
+    {
+      "literal": "Peter Norgaard"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.06260",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "arxiv:2506.13651",
+  "citation-key": "arxiv_2506_13651",
+  "type": "article",
+  "title": "xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations",
+  "URL": "https://arxiv.org/abs/2506.13651v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.13651",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.13651",
+    "identifiers": {
+      "arxiv": "2506.13651"
+    },
+    "first_published_at": "2025-06-16",
+    "record_updated_at": "2025-06-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f42fc47d91fbe993eab3c43ad67cf7f9ce8174bb193527097e309eda3c704187",
+      "submitted_at": "2025-06-16T16:16:14Z",
+      "updated_at": "2025-06-16T16:16:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.13651v1"
+    }
+  },
+  "note": "First published: 2025-06-16; Recorded arXiv version: v1; Recorded version updated: 2025-06-16T16:16:14Z.",
+  "author": [
+    {
+      "literal": "Kaiyuan Chen"
+    },
+    {
+      "literal": "Yixin Ren"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Xiaobo Hu"
+    },
+    {
+      "literal": "Haotong Tian"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Fangfu Liu"
+    },
+    {
+      "literal": "Haoye Zhang"
+    },
+    {
+      "literal": "Hongzhang Liu"
+    },
+    {
+      "literal": "Yuan Gong"
+    },
+    {
+      "literal": "Chen Sun"
+    },
+    {
+      "literal": "Han Hou"
+    },
+    {
+      "literal": "Hui Yang"
+    },
+    {
+      "literal": "James Pan"
+    },
+    {
+      "literal": "Jianan Lou"
+    },
+    {
+      "literal": "Jiayi Mao"
+    },
+    {
+      "literal": "Jizheng Liu"
+    },
+    {
+      "literal": "Jinpeng Li"
+    },
+    {
+      "literal": "Kangyi Liu"
+    },
+    {
+      "literal": "Kenkun Liu"
+    },
+    {
+      "literal": "Rui Wang"
+    },
+    {
+      "literal": "Run Li"
+    },
+    {
+      "literal": "Tong Niu"
+    },
+    {
+      "literal": "Wenlong Zhang"
+    },
+    {
+      "literal": "Wenqi Yan"
+    },
+    {
+      "literal": "Xuanzheng Wang"
+    },
+    {
+      "literal": "Yuchen Zhang"
+    },
+    {
+      "literal": "Yi-Hsin Hung"
+    },
+    {
+      "literal": "Yuan Jiang"
+    },
+    {
+      "literal": "Zexuan Liu"
+    },
+    {
+      "literal": "Zihan Yin"
+    },
+    {
+      "literal": "Zijian Ma"
+    },
+    {
+      "literal": "Zhiwen Mo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.13651",
+  "genre": "preprint",
+  "version": "1"
+}

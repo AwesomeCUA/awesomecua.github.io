@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2411.03205",
+  "citation-key": "arxiv_2411_03205",
+  "type": "article",
+  "title": "GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis",
+  "URL": "https://arxiv.org/abs/2411.03205v4",
+  "custom": {
+    "catalog_id": "arxiv:2411.03205",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.03205",
+    "identifiers": {
+      "arxiv": "2411.03205"
+    },
+    "first_published_at": "2024-11-05",
+    "record_updated_at": "2024-11-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ca9cd994c24c03c4565690a45f98324e1c745dc5bb6f069688d359757622e36d",
+      "submitted_at": "2024-11-05T15:53:59Z",
+      "updated_at": "2024-11-22T02:00:21Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2411.03205v4"
+    }
+  },
+  "note": "First published: 2024-11-05; Recorded arXiv version: v4; Recorded version updated: 2024-11-22T02:00:21Z.",
+  "author": [
+    {
+      "literal": "Temitope Akinboyewa"
+    },
+    {
+      "literal": "Zhenlong Li"
+    },
+    {
+      "literal": "Huan Ning"
+    },
+    {
+      "literal": "M. Naser Lessani"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.03205",
+  "genre": "preprint",
+  "version": "4"
+}

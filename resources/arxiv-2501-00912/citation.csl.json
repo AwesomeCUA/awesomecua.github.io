@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2501.00912",
+  "citation-key": "arxiv_2501_00912",
+  "type": "article",
+  "title": "AutoPresent: Designing Structured Visuals from Scratch",
+  "URL": "https://arxiv.org/abs/2501.00912v2",
+  "custom": {
+    "catalog_id": "arxiv:2501.00912",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.00912",
+    "identifiers": {
+      "arxiv": "2501.00912"
+    },
+    "first_published_at": "2025-01-01",
+    "record_updated_at": "2025-06-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "269e00f4f6a563c9b5bafb22ee46a28e92b173505999383bda4cf49cd020191f",
+      "submitted_at": "2025-01-01T18:09:32Z",
+      "updated_at": "2025-06-19T19:27:02Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2501.00912v2"
+    }
+  },
+  "note": "First published: 2025-01-01; Recorded arXiv version: v2; Recorded version updated: 2025-06-19T19:27:02Z.",
+  "author": [
+    {
+      "literal": "Jiaxin Ge"
+    },
+    {
+      "literal": "Zora Zhiruo Wang"
+    },
+    {
+      "literal": "Xuhui Zhou"
+    },
+    {
+      "literal": "Yi-Hao Peng"
+    },
+    {
+      "literal": "Sanjay Subramanian"
+    },
+    {
+      "literal": "Qinyue Tan"
+    },
+    {
+      "literal": "Maarten Sap"
+    },
+    {
+      "literal": "Alane Suhr"
+    },
+    {
+      "literal": "Daniel Fried"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Trevor Darrell"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.00912",
+  "genre": "preprint",
+  "version": "2"
+}

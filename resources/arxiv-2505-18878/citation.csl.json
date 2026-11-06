@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2505.18878",
+  "citation-key": "arxiv_2505_18878",
+  "type": "article",
+  "title": "CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions",
+  "URL": "https://arxiv.org/abs/2505.18878v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.18878",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.18878",
+    "identifiers": {
+      "arxiv": "2505.18878"
+    },
+    "first_published_at": "2025-05-24",
+    "record_updated_at": "2025-05-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "62d0e33d7cd2cdac62054296fff33ac67b7c01db9b818c4a2a711fc2efae453f",
+      "submitted_at": "2025-05-24T21:33:22Z",
+      "updated_at": "2025-05-24T21:33:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.18878v1"
+    }
+  },
+  "note": "First published: 2025-05-24; Recorded arXiv version: v1; Recorded version updated: 2025-05-24T21:33:22Z.",
+  "author": [
+    {
+      "literal": "Kung-Hsiang Huang"
+    },
+    {
+      "literal": "Akshara Prabhakar"
+    },
+    {
+      "literal": "Onkar Thorat"
+    },
+    {
+      "literal": "Divyansh Agarwal"
+    },
+    {
+      "literal": "Prafulla Kumar Choubey"
+    },
+    {
+      "literal": "Yixin Mao"
+    },
+    {
+      "literal": "Silvio Savarese"
+    },
+    {
+      "literal": "Caiming Xiong"
+    },
+    {
+      "literal": "Chien-Sheng Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.18878",
+  "genre": "preprint",
+  "version": "1"
+}

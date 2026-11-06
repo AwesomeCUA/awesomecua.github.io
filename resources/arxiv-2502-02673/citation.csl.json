@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2502.02673",
+  "citation-key": "arxiv_2502_02673",
+  "type": "article",
+  "title": "MedRAX: Medical Reasoning Agent for Chest X-ray",
+  "URL": "https://arxiv.org/abs/2502.02673v2",
+  "custom": {
+    "catalog_id": "arxiv:2502.02673",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.02673",
+    "identifiers": {
+      "arxiv": "2502.02673"
+    },
+    "first_published_at": "2025-02-04",
+    "record_updated_at": "2025-05-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "39b82603a2d08a0fb7fcb279f84091801aec3e9f74202d562f38bba96059dacf",
+      "submitted_at": "2025-02-04T19:31:00Z",
+      "updated_at": "2025-05-29T01:45:45Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2502.02673v2"
+    }
+  },
+  "note": "First published: 2025-02-04; Recorded arXiv version: v2; Recorded version updated: 2025-05-29T01:45:45Z.",
+  "author": [
+    {
+      "literal": "Adibvafa Fallahpour"
+    },
+    {
+      "literal": "Jun Ma"
+    },
+    {
+      "literal": "Alif Munim"
+    },
+    {
+      "literal": "Hongwei Lyu"
+    },
+    {
+      "literal": "Bo Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.02673",
+  "genre": "preprint",
+  "version": "2"
+}

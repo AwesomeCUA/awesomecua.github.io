@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2502.09560",
+  "citation-key": "arxiv_2502_09560",
+  "type": "article",
+  "title": "EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents",
+  "URL": "https://arxiv.org/abs/2502.09560v3",
+  "custom": {
+    "catalog_id": "arxiv:2502.09560",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.09560",
+    "identifiers": {
+      "arxiv": "2502.09560"
+    },
+    "first_published_at": "2025-02-13",
+    "record_updated_at": "2025-06-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "df3d62069a9e688eedf2e890433c2a0f3717cdd93dbf59cbcf409f891e355a03",
+      "submitted_at": "2025-02-13T18:11:34Z",
+      "updated_at": "2025-06-05T07:22:50Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2502.09560v3"
+    }
+  },
+  "note": "First published: 2025-02-13; Recorded arXiv version: v3; Recorded version updated: 2025-06-05T07:22:50Z.",
+  "author": [
+    {
+      "literal": "Rui Yang"
+    },
+    {
+      "literal": "Hanyang Chen"
+    },
+    {
+      "literal": "Junyu Zhang"
+    },
+    {
+      "literal": "Mark Zhao"
+    },
+    {
+      "literal": "Cheng Qian"
+    },
+    {
+      "literal": "Kangrui Wang"
+    },
+    {
+      "literal": "Qineng Wang"
+    },
+    {
+      "literal": "Teja Venkat Koripella"
+    },
+    {
+      "literal": "Marziyeh Movahedi"
+    },
+    {
+      "literal": "Manling Li"
+    },
+    {
+      "literal": "Heng Ji"
+    },
+    {
+      "literal": "Huan Zhang"
+    },
+    {
+      "literal": "Tong Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.09560",
+  "genre": "preprint",
+  "version": "3"
+}

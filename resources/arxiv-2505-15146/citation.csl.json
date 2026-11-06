@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2505.15146",
+  "citation-key": "arxiv_2505_15146",
+  "type": "article",
+  "title": "lmgame-Bench: How Good are LLMs at Playing Games?",
+  "URL": "https://arxiv.org/abs/2505.15146v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.15146",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.15146",
+    "identifiers": {
+      "arxiv": "2505.15146"
+    },
+    "first_published_at": "2025-05-21",
+    "record_updated_at": "2025-06-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e00391ab389bb924ef896e691aca06b4486d9e15d6388951040815618403d1fa",
+      "submitted_at": "2025-05-21T06:02:55Z",
+      "updated_at": "2025-06-03T09:53:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.15146v2"
+    },
+    "authors_omitted": true
+  },
+  "note": "First published: 2025-05-21; Recorded arXiv version: v2; Recorded version updated: 2025-06-03T09:53:37Z; Authors: see the paper (https://arxiv.org/abs/2505.15146v2); this catalog does not list them.",
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.15146",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2412.17259",
+  "citation-key": "arxiv_2412_17259",
+  "type": "article",
+  "title": "LegalAgentBench: Evaluating LLM Agents in Legal Domain",
+  "URL": "https://arxiv.org/abs/2412.17259v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.17259",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.17259",
+    "identifiers": {
+      "arxiv": "2412.17259"
+    },
+    "first_published_at": "2024-12-23",
+    "record_updated_at": "2024-12-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7ea64227c2574acac4553683404a79b44037081b753322887b9c1765542e7581",
+      "submitted_at": "2024-12-23T04:02:46Z",
+      "updated_at": "2024-12-23T04:02:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.17259v1"
+    }
+  },
+  "note": "First published: 2024-12-23; Recorded arXiv version: v1; Recorded version updated: 2024-12-23T04:02:46Z.",
+  "author": [
+    {
+      "literal": "Haitao Li"
+    },
+    {
+      "literal": "Junjie Chen"
+    },
+    {
+      "literal": "Jingli Yang"
+    },
+    {
+      "literal": "Qingyao Ai"
+    },
+    {
+      "literal": "Wei Jia"
+    },
+    {
+      "literal": "Youfeng Liu"
+    },
+    {
+      "literal": "Kai Lin"
+    },
+    {
+      "literal": "Yueyue Wu"
+    },
+    {
+      "literal": "Guozhi Yuan"
+    },
+    {
+      "literal": "Yiran Hu"
+    },
+    {
+      "literal": "Wuyue Wang"
+    },
+    {
+      "literal": "Yiqun Liu"
+    },
+    {
+      "literal": "Minlie Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.17259",
+  "genre": "preprint",
+  "version": "1"
+}

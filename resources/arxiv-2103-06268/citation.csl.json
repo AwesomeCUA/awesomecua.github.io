@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2103.06268",
+  "citation-key": "arxiv_2103_06268",
+  "type": "article",
+  "title": "CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review",
+  "URL": "https://arxiv.org/abs/2103.06268v2",
+  "custom": {
+    "catalog_id": "arxiv:2103.06268",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2103.06268",
+    "identifiers": {
+      "arxiv": "2103.06268"
+    },
+    "first_published_at": "2021-03-10",
+    "record_updated_at": "2021-11-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "98f5a3093cddeee990db51c0641723b9e4e52f2a35b301495eaa555c97c11dda",
+      "submitted_at": "2021-03-10T18:59:34Z",
+      "updated_at": "2021-11-08T21:23:22Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2103.06268v2"
+    }
+  },
+  "note": "First published: 2021-03-10; Recorded arXiv version: v2; Recorded version updated: 2021-11-08T21:23:22Z.",
+  "author": [
+    {
+      "literal": "Dan Hendrycks"
+    },
+    {
+      "literal": "Collin Burns"
+    },
+    {
+      "literal": "Anya Chen"
+    },
+    {
+      "literal": "Spencer Ball"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2103.06268",
+  "genre": "preprint",
+  "version": "2"
+}

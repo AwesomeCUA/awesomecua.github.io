@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2311.11944",
+  "citation-key": "arxiv_2311_11944",
+  "type": "article",
+  "title": "FinanceBench: A New Benchmark for Financial Question Answering",
+  "URL": "https://arxiv.org/abs/2311.11944v1",
+  "custom": {
+    "catalog_id": "arxiv:2311.11944",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.11944",
+    "identifiers": {
+      "arxiv": "2311.11944"
+    },
+    "first_published_at": "2023-11-20",
+    "record_updated_at": "2023-11-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "587fadcd8ed2150125225876c9815399ff9b68c30df2e37460be50860078ea52",
+      "submitted_at": "2023-11-20T17:28:02Z",
+      "updated_at": "2023-11-20T17:28:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2311.11944v1"
+    }
+  },
+  "note": "First published: 2023-11-20; Recorded arXiv version: v1; Recorded version updated: 2023-11-20T17:28:02Z.",
+  "author": [
+    {
+      "literal": "Pranab Islam"
+    },
+    {
+      "literal": "Anand Kannappan"
+    },
+    {
+      "literal": "Douwe Kiela"
+    },
+    {
+      "literal": "Rebecca Qian"
+    },
+    {
+      "literal": "Nino Scherrer"
+    },
+    {
+      "literal": "Bertie Vidgen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.11944",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2506.04405",
+  "citation-key": "arxiv_2506_04405",
+  "type": "article",
+  "title": "MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science",
+  "URL": "https://arxiv.org/abs/2506.04405v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.04405",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.04405",
+    "identifiers": {
+      "arxiv": "2506.04405"
+    },
+    "first_published_at": "2025-06-04",
+    "record_updated_at": "2025-10-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2368b0819eaba0012b811b656f4eda1444becbd9797348fc71b86be2313746c2",
+      "submitted_at": "2025-06-04T19:38:55Z",
+      "updated_at": "2025-10-05T17:59:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.04405v2"
+    }
+  },
+  "note": "First published: 2025-06-04; Recorded arXiv version: v2; Recorded version updated: 2025-10-05T17:59:37Z.",
+  "author": [
+    {
+      "literal": "Ran Xu"
+    },
+    {
+      "literal": "Yuchen Zhuang"
+    },
+    {
+      "literal": "Yishan Zhong"
+    },
+    {
+      "literal": "Yue Yu"
+    },
+    {
+      "literal": "Zifeng Wang"
+    },
+    {
+      "literal": "Xiangru Tang"
+    },
+    {
+      "literal": "Hang Wu"
+    },
+    {
+      "literal": "May D. Wang"
+    },
+    {
+      "literal": "Peifeng Ruan"
+    },
+    {
+      "literal": "Donghan Yang"
+    },
+    {
+      "literal": "Tao Wang"
+    },
+    {
+      "literal": "Guanghua Xiao"
+    },
+    {
+      "literal": "Xin Liu"
+    },
+    {
+      "literal": "Carl Yang"
+    },
+    {
+      "literal": "Yang Xie"
+    },
+    {
+      "literal": "Wenqi Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.04405",
+  "genre": "preprint",
+  "version": "2"
+}

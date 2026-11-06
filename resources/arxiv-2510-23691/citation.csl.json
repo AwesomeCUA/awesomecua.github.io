@@ -1,0 +1,124 @@
+{
+  "id": "arxiv:2510.23691",
+  "citation-key": "arxiv_2510_23691",
+  "type": "article",
+  "title": "Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents",
+  "URL": "https://arxiv.org/abs/2510.23691v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.23691",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.23691",
+    "identifiers": {
+      "arxiv": "2510.23691"
+    },
+    "first_published_at": "2025-10-27",
+    "record_updated_at": "2025-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "15639e4bf9ee451bac9d69ae03be7609386ecfb2862fabbc509f96c8eb37fbd2",
+      "submitted_at": "2025-10-27T17:43:51Z",
+      "updated_at": "2025-10-27T17:43:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.23691v1"
+    }
+  },
+  "note": "First published: 2025-10-27; Recorded arXiv version: v1; Recorded version updated: 2025-10-27T17:43:51Z.",
+  "author": [
+    {
+      "literal": "Zihao Wang"
+    },
+    {
+      "literal": "Xujing Li"
+    },
+    {
+      "literal": "Yining Ye"
+    },
+    {
+      "literal": "Junjie Fang"
+    },
+    {
+      "literal": "Haoming Wang"
+    },
+    {
+      "literal": "Longxiang Liu"
+    },
+    {
+      "literal": "Shihao Liang"
+    },
+    {
+      "literal": "Junting Lu"
+    },
+    {
+      "literal": "Zhiyong Wu"
+    },
+    {
+      "literal": "Jiazhan Feng"
+    },
+    {
+      "literal": "Wanjun Zhong"
+    },
+    {
+      "literal": "Zili Li"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Yu Miao"
+    },
+    {
+      "literal": "Bo Zhou"
+    },
+    {
+      "literal": "Yuanfan Li"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Zhongkai Zhao"
+    },
+    {
+      "literal": "Faming Wu"
+    },
+    {
+      "literal": "Zhengxuan Jiang"
+    },
+    {
+      "literal": "Weihao Tan"
+    },
+    {
+      "literal": "Heyuan Yao"
+    },
+    {
+      "literal": "Shi Yan"
+    },
+    {
+      "literal": "Xiangyang Li"
+    },
+    {
+      "literal": "Yitao Liang"
+    },
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Guang Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.23691",
+  "genre": "preprint",
+  "version": "1"
+}

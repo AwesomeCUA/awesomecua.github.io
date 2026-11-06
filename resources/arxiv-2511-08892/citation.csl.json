@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2511.08892",
+  "citation-key": "arxiv_2511_08892",
+  "type": "article",
+  "title": "Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds",
+  "URL": "https://arxiv.org/abs/2511.08892v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.08892",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.08892",
+    "identifiers": {
+      "arxiv": "2511.08892"
+    },
+    "first_published_at": "2025-11-12",
+    "record_updated_at": "2025-11-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "470b7d1ba33ae956a376436cc86c931d770b130c7d35a20c0984c82d66925ed3",
+      "submitted_at": "2025-11-12T02:01:26Z",
+      "updated_at": "2025-11-12T02:01:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.08892v1"
+    }
+  },
+  "note": "First published: 2025-11-12; Recorded arXiv version: v1; Recorded version updated: 2025-11-12T02:01:26Z.",
+  "author": [
+    {
+      "literal": "Weihao Tan"
+    },
+    {
+      "literal": "Xiangyang Li"
+    },
+    {
+      "literal": "Yunhao Fang"
+    },
+    {
+      "literal": "Heyuan Yao"
+    },
+    {
+      "literal": "Shi Yan"
+    },
+    {
+      "literal": "Hao Luo"
+    },
+    {
+      "literal": "Tenglong Ao"
+    },
+    {
+      "literal": "Huihui Li"
+    },
+    {
+      "literal": "Hongbin Ren"
+    },
+    {
+      "literal": "Bairen Yi"
+    },
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Bo An"
+    },
+    {
+      "literal": "Libin Liu"
+    },
+    {
+      "literal": "Guang Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.08892",
+  "genre": "preprint",
+  "version": "1"
+}

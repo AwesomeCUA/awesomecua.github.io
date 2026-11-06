@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2604.04192",
+  "citation-key": "arxiv_2604_04192",
+  "type": "article",
+  "title": "Graphic-Design-Bench: A Comprehensive Benchmark for Evaluating AI on Graphic Design Tasks",
+  "URL": "https://arxiv.org/abs/2604.04192v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.04192",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.04192",
+    "identifiers": {
+      "arxiv": "2604.04192"
+    },
+    "first_published_at": "2026-04-05",
+    "record_updated_at": "2026-04-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "719c371128bc8abb6e417b55603ee94220373bb467911a25136d836eeb313162",
+      "submitted_at": "2026-04-05T17:20:08Z",
+      "updated_at": "2026-04-07T16:58:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.04192v2"
+    }
+  },
+  "note": "First published: 2026-04-05; Recorded arXiv version: v2; Recorded version updated: 2026-04-07T16:58:37Z.",
+  "author": [
+    {
+      "literal": "Adrienne Deganutti"
+    },
+    {
+      "literal": "Elad Hirsch"
+    },
+    {
+      "literal": "Haonan Zhu"
+    },
+    {
+      "literal": "Jaejung Seol"
+    },
+    {
+      "literal": "Purvanshi Mehta"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.04192",
+  "genre": "preprint",
+  "version": "2"
+}

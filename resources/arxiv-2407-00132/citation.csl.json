@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2407.00132",
+  "citation-key": "arxiv_2407_00132",
+  "type": "article",
+  "title": "ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents",
+  "URL": "https://arxiv.org/abs/2407.00132v3",
+  "custom": {
+    "catalog_id": "arxiv:2407.00132",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.00132",
+    "identifiers": {
+      "arxiv": "2407.00132"
+    },
+    "first_published_at": "2024-06-28",
+    "record_updated_at": "2025-01-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f45f9e641869f39768a12316f29f23c9f9e6675ebab2a0973d7e4a87d0f62726",
+      "submitted_at": "2024-06-28T08:45:02Z",
+      "updated_at": "2025-01-23T11:22:20Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2407.00132v3"
+    }
+  },
+  "note": "First published: 2024-06-28; Recorded arXiv version: v3; Recorded version updated: 2025-01-23T11:22:20Z.",
+  "author": [
+    {
+      "literal": "Haiyang Shen"
+    },
+    {
+      "literal": "Yue Li"
+    },
+    {
+      "literal": "Desong Meng"
+    },
+    {
+      "literal": "Dongqi Cai"
+    },
+    {
+      "literal": "Sheng Qi"
+    },
+    {
+      "literal": "Li Zhang"
+    },
+    {
+      "literal": "Mengwei Xu"
+    },
+    {
+      "literal": "Yun Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.00132",
+  "genre": "preprint",
+  "version": "3"
+}

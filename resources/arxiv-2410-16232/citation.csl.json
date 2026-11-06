@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2410.16232",
+  "citation-key": "arxiv_2410_16232",
+  "type": "article",
+  "title": "Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping",
+  "URL": "https://arxiv.org/abs/2410.16232v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.16232",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.16232",
+    "identifiers": {
+      "arxiv": "2410.16232"
+    },
+    "first_published_at": "2024-10-21",
+    "record_updated_at": "2024-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0dba931a5be1451258eb05c925c28efa73b3719eff090f5ad6d073ae384f6e31",
+      "submitted_at": "2024-10-21T17:39:49Z",
+      "updated_at": "2024-10-21T17:39:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.16232v1"
+    }
+  },
+  "note": "First published: 2024-10-21; Recorded arXiv version: v1; Recorded version updated: 2024-10-21T17:39:49Z.",
+  "author": [
+    {
+      "literal": "Ryan Li"
+    },
+    {
+      "literal": "Yanzhe Zhang"
+    },
+    {
+      "literal": "Diyi Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.16232",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.20146",
+  "citation-key": "arxiv_2606_20146",
+  "type": "article",
+  "title": "BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling",
+  "URL": "https://arxiv.org/abs/2606.20146v3",
+  "custom": {
+    "catalog_id": "arxiv:2606.20146",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.20146",
+    "identifiers": {
+      "arxiv": "2606.20146"
+    },
+    "first_published_at": "2026-06-18",
+    "record_updated_at": "2026-06-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2c0438dc1858d1bf822bcd51b89851fcce07e43d924592b9b0bb87f2f65d1680",
+      "submitted_at": "2026-06-18T12:08:04Z",
+      "updated_at": "2026-06-23T06:59:35Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2606.20146v3"
+    }
+  },
+  "note": "First published: 2026-06-18; Recorded arXiv version: v3; Recorded version updated: 2026-06-23T06:59:35Z.",
+  "author": [
+    {
+      "literal": "Bharathi Kannan Nithyanantham"
+    },
+    {
+      "literal": "Clemens Kujat"
+    },
+    {
+      "literal": "Tobias Sesterhenn"
+    },
+    {
+      "literal": "Stefan Telgmann"
+    },
+    {
+      "literal": "Ashwin Nedungadi"
+    },
+    {
+      "literal": "Jörn Plönnigs"
+    },
+    {
+      "literal": "Christian Bartelt"
+    },
+    {
+      "literal": "Stefan Lüdtke"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.20146",
+  "genre": "preprint",
+  "version": "3"
+}

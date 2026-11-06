@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2601.20882",
+  "citation-key": "arxiv_2601_20882",
+  "type": "article",
+  "title": "DevOps-Gym: Benchmarking AI Agents in Software DevOps Cycle",
+  "URL": "https://arxiv.org/abs/2601.20882v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.20882",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.20882",
+    "identifiers": {
+      "arxiv": "2601.20882"
+    },
+    "first_published_at": "2026-01-27",
+    "record_updated_at": "2026-01-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "897b3f1b95386b9c7968c780e3b870a958cce00b29f2bb92589c33b81a9263ee",
+      "submitted_at": "2026-01-27T18:43:46Z",
+      "updated_at": "2026-01-27T18:43:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.20882v1"
+    }
+  },
+  "note": "First published: 2026-01-27; Recorded arXiv version: v1; Recorded version updated: 2026-01-27T18:43:46Z.",
+  "author": [
+    {
+      "literal": "Yuheng Tang"
+    },
+    {
+      "literal": "Kaijie Zhu"
+    },
+    {
+      "literal": "Bonan Ruan"
+    },
+    {
+      "literal": "Chuqi Zhang"
+    },
+    {
+      "literal": "Michael Yang"
+    },
+    {
+      "literal": "Hongwei Li"
+    },
+    {
+      "literal": "Suyue Guo"
+    },
+    {
+      "literal": "Tianneng Shi"
+    },
+    {
+      "literal": "Zekun Li"
+    },
+    {
+      "literal": "Christopher Kruegel"
+    },
+    {
+      "literal": "Giovanni Vigna"
+    },
+    {
+      "literal": "Dawn Song"
+    },
+    {
+      "literal": "William Yang Wang"
+    },
+    {
+      "literal": "Lun Wang"
+    },
+    {
+      "literal": "Yangruibo Ding"
+    },
+    {
+      "literal": "Zhenkai Liang"
+    },
+    {
+      "literal": "Wenbo Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.20882",
+  "genre": "preprint",
+  "version": "1"
+}

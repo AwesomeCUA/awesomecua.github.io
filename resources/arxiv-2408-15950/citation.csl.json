@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2408.15950",
+  "citation-key": "arxiv_2408_15950",
+  "type": "article",
+  "title": "Atari-GPT: Benchmarking Multimodal Large Language Models as Low-Level Policies in Atari Games",
+  "URL": "https://arxiv.org/abs/2408.15950v2",
+  "custom": {
+    "catalog_id": "arxiv:2408.15950",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.15950",
+    "identifiers": {
+      "arxiv": "2408.15950"
+    },
+    "first_published_at": "2024-08-28",
+    "record_updated_at": "2024-12-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0a0959ed0b0de76dfa80c929f13bc818851984e816e5c7230ec8819b08945357",
+      "submitted_at": "2024-08-28T17:08:56Z",
+      "updated_at": "2024-12-02T03:48:43Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2408.15950v2"
+    }
+  },
+  "note": "First published: 2024-08-28; Recorded arXiv version: v2; Recorded version updated: 2024-12-02T03:48:43Z.",
+  "author": [
+    {
+      "literal": "Nicholas R. Waytowich"
+    },
+    {
+      "literal": "Devin White"
+    },
+    {
+      "literal": "MD Sunbeam"
+    },
+    {
+      "literal": "Vinicius G. Goecks"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.15950",
+  "genre": "preprint",
+  "version": "2"
+}

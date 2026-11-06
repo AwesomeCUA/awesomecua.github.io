@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2601.01366",
+  "citation-key": "arxiv_2601_01366",
+  "type": "article",
+  "title": "KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models",
+  "URL": "https://arxiv.org/abs/2601.01366v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.01366",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.01366",
+    "identifiers": {
+      "arxiv": "2601.01366"
+    },
+    "first_published_at": "2026-01-04",
+    "record_updated_at": "2026-01-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3a3a787c87f9a5a6b9a553e5fd4d210741a927f0bb3df910e73eb27f214986f4",
+      "submitted_at": "2026-01-04T04:39:39Z",
+      "updated_at": "2026-01-04T04:39:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.01366v1"
+    }
+  },
+  "note": "First published: 2026-01-04; Recorded arXiv version: v1; Recorded version updated: 2026-01-04T04:39:39Z.",
+  "author": [
+    {
+      "literal": "Zixian Liu"
+    },
+    {
+      "literal": "Sihao Liu"
+    },
+    {
+      "literal": "Yuqi Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.01366",
+  "genre": "preprint",
+  "version": "1"
+}

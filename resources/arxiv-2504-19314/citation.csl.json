@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2504.19314",
+  "citation-key": "arxiv_2504_19314",
+  "type": "article",
+  "title": "BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese",
+  "URL": "https://arxiv.org/abs/2504.19314v2",
+  "custom": {
+    "catalog_id": "arxiv:2504.19314",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.19314",
+    "identifiers": {
+      "arxiv": "2504.19314"
+    },
+    "first_published_at": "2025-04-27",
+    "record_updated_at": "2025-05-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3ef136e3cc45b421bde2947117e80730604f94372a647e8b2160fd8422ebed5b",
+      "submitted_at": "2025-04-27T17:32:43Z",
+      "updated_at": "2025-05-01T05:02:57Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2504.19314v2"
+    }
+  },
+  "note": "First published: 2025-04-27; Recorded arXiv version: v2; Recorded version updated: 2025-05-01T05:02:57Z.",
+  "author": [
+    {
+      "literal": "Peilin Zhou"
+    },
+    {
+      "literal": "Bruce Leon"
+    },
+    {
+      "literal": "Xiang Ying"
+    },
+    {
+      "literal": "Can Zhang"
+    },
+    {
+      "literal": "Yifan Shao"
+    },
+    {
+      "literal": "Qichen Ye"
+    },
+    {
+      "literal": "Dading Chong"
+    },
+    {
+      "literal": "Zhiling Jin"
+    },
+    {
+      "literal": "Chenxuan Xie"
+    },
+    {
+      "literal": "Meng Cao"
+    },
+    {
+      "literal": "Yuxin Gu"
+    },
+    {
+      "literal": "Sixin Hong"
+    },
+    {
+      "literal": "Jing Ren"
+    },
+    {
+      "literal": "Jian Chen"
+    },
+    {
+      "literal": "Chao Liu"
+    },
+    {
+      "literal": "Yining Hua"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.19314",
+  "genre": "preprint",
+  "version": "2"
+}

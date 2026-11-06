@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2509.21143",
+  "citation-key": "arxiv_2509_21143",
+  "type": "article",
+  "title": "Automotive-ENV: Benchmarking Multimodal Models in Automotive Cockpit Environments",
+  "URL": "https://arxiv.org/abs/2509.21143v3",
+  "custom": {
+    "catalog_id": "arxiv:2509.21143",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.21143",
+    "identifiers": {
+      "arxiv": "2509.21143"
+    },
+    "first_published_at": "2025-09-25",
+    "record_updated_at": "2026-10-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b85fbf010dd61009e80e08bb07c6dfdc44dc6fea292b8396415ef73b96c1cdfa",
+      "submitted_at": "2025-09-25T13:30:13Z",
+      "updated_at": "2026-10-24T04:28:23Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2509.21143v3"
+    }
+  },
+  "note": "First published: 2025-09-25; Recorded arXiv version: v3; Recorded version updated: 2026-10-24T04:28:23Z.",
+  "author": [
+    {
+      "literal": "Junfeng Yan"
+    },
+    {
+      "literal": "Biao Wu"
+    },
+    {
+      "literal": "Meng Fang"
+    },
+    {
+      "literal": "Ling Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.21143",
+  "genre": "preprint",
+  "version": "3"
+}

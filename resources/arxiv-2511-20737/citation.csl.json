@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2511.20737",
+  "citation-key": "arxiv_2511_20737",
+  "type": "article",
+  "title": "CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design",
+  "URL": "https://arxiv.org/abs/2511.20737v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.20737",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.20737",
+    "identifiers": {
+      "arxiv": "2511.20737"
+    },
+    "first_published_at": "2025-11-25",
+    "record_updated_at": "2025-11-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "470c383136ac62e68e0e73146e64108176b5c3739e6443895072231d53a882ac",
+      "submitted_at": "2025-11-25T16:13:20Z",
+      "updated_at": "2025-11-27T06:30:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.20737v2"
+    }
+  },
+  "note": "First published: 2025-11-25; Recorded arXiv version: v2; Recorded version updated: 2025-11-27T06:30:58Z.",
+  "author": [
+    {
+      "literal": "Daeheon Jeong"
+    },
+    {
+      "literal": "Seoyeon Byun"
+    },
+    {
+      "literal": "Kihoon Son"
+    },
+    {
+      "literal": "Dae Hyun Kim"
+    },
+    {
+      "literal": "Juho Kim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.20737",
+  "genre": "preprint",
+  "version": "2"
+}

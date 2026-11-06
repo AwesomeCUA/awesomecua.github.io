@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2302.05658",
+  "citation-key": "arxiv_2302_05658",
+  "type": "article",
+  "title": "DocILE Benchmark for Document Information Localization and Extraction",
+  "URL": "https://arxiv.org/abs/2302.05658v2",
+  "custom": {
+    "catalog_id": "arxiv:2302.05658",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2302.05658",
+    "identifiers": {
+      "arxiv": "2302.05658"
+    },
+    "first_published_at": "2023-02-11",
+    "record_updated_at": "2023-05-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "515481061dcaadbd23e952e9a863b28796129bc83098986d2cac91d174dfa81f",
+      "submitted_at": "2023-02-11T11:32:10Z",
+      "updated_at": "2023-05-03T16:24:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2302.05658v2"
+    }
+  },
+  "note": "First published: 2023-02-11; Recorded arXiv version: v2; Recorded version updated: 2023-05-03T16:24:58Z.",
+  "author": [
+    {
+      "literal": "Štěpán Šimsa"
+    },
+    {
+      "literal": "Milan Šulc"
+    },
+    {
+      "literal": "Michal Uřičář"
+    },
+    {
+      "literal": "Yash Patel"
+    },
+    {
+      "literal": "Ahmed Hamdi"
+    },
+    {
+      "literal": "Matěj Kocián"
+    },
+    {
+      "literal": "Matyáš Skalický"
+    },
+    {
+      "literal": "Jiří Matas"
+    },
+    {
+      "literal": "Antoine Doucet"
+    },
+    {
+      "literal": "Mickaël Coustaty"
+    },
+    {
+      "literal": "Dimosthenis Karatzas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        2,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2302.05658",
+  "genre": "preprint",
+  "version": "2"
+}

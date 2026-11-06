@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2510.04374",
+  "citation-key": "arxiv_2510_04374",
+  "type": "article",
+  "title": "GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks",
+  "URL": "https://arxiv.org/abs/2510.04374v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.04374",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.04374",
+    "identifiers": {
+      "arxiv": "2510.04374"
+    },
+    "first_published_at": "2025-10-05",
+    "record_updated_at": "2025-10-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5a9c3a4ec7c1383929f5aff95716b9b34a4ac43c7ec0f021555ce92f9b1ecdb1",
+      "submitted_at": "2025-10-05T21:36:43Z",
+      "updated_at": "2025-10-05T21:36:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.04374v1"
+    }
+  },
+  "note": "First published: 2025-10-05; Recorded arXiv version: v1; Recorded version updated: 2025-10-05T21:36:43Z.",
+  "author": [
+    {
+      "literal": "Tejal Patwardhan"
+    },
+    {
+      "literal": "Rachel Dias"
+    },
+    {
+      "literal": "Elizabeth Proehl"
+    },
+    {
+      "literal": "Grace Kim"
+    },
+    {
+      "literal": "Michele Wang"
+    },
+    {
+      "literal": "Olivia Watkins"
+    },
+    {
+      "literal": "Simón Posada Fishman"
+    },
+    {
+      "literal": "Marwan Aljubeh"
+    },
+    {
+      "literal": "Phoebe Thacker"
+    },
+    {
+      "literal": "Laurance Fauconnet"
+    },
+    {
+      "literal": "Natalie S. Kim"
+    },
+    {
+      "literal": "Patrick Chao"
+    },
+    {
+      "literal": "Samuel Miserendino"
+    },
+    {
+      "literal": "Gildas Chabot"
+    },
+    {
+      "literal": "David Li"
+    },
+    {
+      "literal": "Michael Sharman"
+    },
+    {
+      "literal": "Alexandra Barr"
+    },
+    {
+      "literal": "Amelia Glaese"
+    },
+    {
+      "literal": "Jerry Tworek"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.04374",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2401.05443",
+  "citation-key": "arxiv_2401_05443",
+  "type": "article",
+  "title": "LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems",
+  "URL": "https://arxiv.org/abs/2401.05443v1",
+  "custom": {
+    "catalog_id": "arxiv:2401.05443",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.05443",
+    "identifiers": {
+      "arxiv": "2401.05443"
+    },
+    "first_published_at": "2024-01-08",
+    "record_updated_at": "2024-01-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c7d98801fd5f774bcab75eb5805c2507a3a97a49a0783459958dd05a73be98a4",
+      "submitted_at": "2024-01-08T23:52:42Z",
+      "updated_at": "2024-01-08T23:52:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2401.05443v1"
+    }
+  },
+  "note": "First published: 2024-01-08; Recorded arXiv version: v1; Recorded version updated: 2024-01-08T23:52:42Z.",
+  "author": [
+    {
+      "literal": "Mohamad Fakih"
+    },
+    {
+      "literal": "Rahul Dharmaji"
+    },
+    {
+      "literal": "Yasamin Moghaddas"
+    },
+    {
+      "literal": "Gustavo Quiros Araya"
+    },
+    {
+      "literal": "Oluwatosin Ogundare"
+    },
+    {
+      "literal": "Mohammad Abdullah Al Faruque"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.05443",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -2,7 +2,7 @@
 
 > A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 2,146 curated records (1,673 papers and surveys, 473 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
 
-Snapshot 2026-11-06T09:00:05Z. Awaiting review and not counted above: 346 metadata-only bibliography records and 1,971 discovered identifiers. Headline counts use curated, source-reviewed records only. Metadata-only bibliography records and discovered candidates await relevance review and are reported separately; these populations overlap and must not be added together.
+Snapshot 2026-11-06T15:45:10Z. Awaiting review and not counted above: 448 metadata-only bibliography records and 2,025 discovered identifiers. Headline counts use curated, source-reviewed records only. Metadata-only bibliography records and discovered candidates await relevance review and are reported separately; these populations overlap and must not be added together.
 
 HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agent index: https://awesomecua.com/llms.txt
 

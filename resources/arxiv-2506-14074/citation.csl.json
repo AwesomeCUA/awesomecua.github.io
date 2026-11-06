@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2506.14074",
+  "citation-key": "arxiv_2506_14074",
+  "type": "article",
+  "title": "Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification",
+  "URL": "https://arxiv.org/abs/2506.14074v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.14074",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.14074",
+    "identifiers": {
+      "arxiv": "2506.14074"
+    },
+    "first_published_at": "2025-06-17",
+    "record_updated_at": "2025-06-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "65a2db7cce1ccf5e9eaf5902fdc9e8ee8c4cfdd0f206d9e2b5ea7f74bd8bdda4",
+      "submitted_at": "2025-06-17T00:11:13Z",
+      "updated_at": "2025-06-17T00:11:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.14074v1"
+    }
+  },
+  "note": "First published: 2025-06-17; Recorded arXiv version: v1; Recorded version updated: 2025-06-17T00:11:13Z.",
+  "author": [
+    {
+      "literal": "Nathaniel Pinckney"
+    },
+    {
+      "literal": "Chenhui Deng"
+    },
+    {
+      "literal": "Chia-Tung Ho"
+    },
+    {
+      "literal": "Yun-Da Tsai"
+    },
+    {
+      "literal": "Mingjie Liu"
+    },
+    {
+      "literal": "Wenfei Zhou"
+    },
+    {
+      "literal": "Brucek Khailany"
+    },
+    {
+      "literal": "Haoxing Ren"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.14074",
+  "genre": "preprint",
+  "version": "1"
+}

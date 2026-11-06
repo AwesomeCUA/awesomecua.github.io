@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2508.10428",
+  "citation-key": "arxiv_2508_10428",
+  "type": "article",
+  "title": "SC2Arena and StarEvolve: Benchmark and Self-Improvement Framework for LLMs in Complex Decision-Making Tasks",
+  "URL": "https://arxiv.org/abs/2508.10428v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.10428",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.10428",
+    "identifiers": {
+      "arxiv": "2508.10428"
+    },
+    "first_published_at": "2025-08-14",
+    "record_updated_at": "2025-08-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3826c675caa97f981ccd2c3fd020708f6714237351c0ec904fb845d7cb2f6f76",
+      "submitted_at": "2025-08-14T07:58:01Z",
+      "updated_at": "2025-08-14T07:58:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.10428v1"
+    }
+  },
+  "note": "First published: 2025-08-14; Recorded arXiv version: v1; Recorded version updated: 2025-08-14T07:58:01Z.",
+  "author": [
+    {
+      "literal": "Pengbo Shen"
+    },
+    {
+      "literal": "Yaqing Wang"
+    },
+    {
+      "literal": "Ni Mu"
+    },
+    {
+      "literal": "Yao Luan"
+    },
+    {
+      "literal": "Runpeng Xie"
+    },
+    {
+      "literal": "Senhao Yang"
+    },
+    {
+      "literal": "Lexiang Wang"
+    },
+    {
+      "literal": "Hao Hu"
+    },
+    {
+      "literal": "Shuang Xu"
+    },
+    {
+      "literal": "Yiqin Yang"
+    },
+    {
+      "literal": "Bo Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.10428",
+  "genre": "preprint",
+  "version": "1"
+}

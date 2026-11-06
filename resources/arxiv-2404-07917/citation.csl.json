@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2404.07917",
+  "citation-key": "arxiv_2404_07917",
+  "type": "article",
+  "title": "DesignQA: A Multimodal Benchmark for Evaluating Large Language Models' Understanding of Engineering Documentation",
+  "URL": "https://arxiv.org/abs/2404.07917v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.07917",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.07917",
+    "identifiers": {
+      "arxiv": "2404.07917"
+    },
+    "first_published_at": "2024-04-11",
+    "record_updated_at": "2024-08-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a40ef39828aa6b6f36d8a4a8f02af4deb2701be61fa9e0f7eaeedb5a6e981d54",
+      "submitted_at": "2024-04-11T16:59:54Z",
+      "updated_at": "2024-08-23T17:19:18Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.07917v2"
+    }
+  },
+  "note": "First published: 2024-04-11; Recorded arXiv version: v2; Recorded version updated: 2024-08-23T17:19:18Z.",
+  "author": [
+    {
+      "literal": "Anna C. Doris"
+    },
+    {
+      "literal": "Daniele Grandi"
+    },
+    {
+      "literal": "Ryan Tomich"
+    },
+    {
+      "literal": "Md Ferdous Alam"
+    },
+    {
+      "literal": "Mohammadmehdi Ataei"
+    },
+    {
+      "literal": "Hyunmin Cheong"
+    },
+    {
+      "literal": "Faez Ahmed"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.07917",
+  "genre": "preprint",
+  "version": "2"
+}

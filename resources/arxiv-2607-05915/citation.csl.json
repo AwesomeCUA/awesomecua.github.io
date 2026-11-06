@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2607.05915",
+  "citation-key": "arxiv_2607_05915",
+  "type": "article",
+  "title": "PCBWorld: A Benchmark Environment for Engine-Grounded PCB Design Automation",
+  "URL": "https://arxiv.org/abs/2607.05915v4",
+  "custom": {
+    "catalog_id": "arxiv:2607.05915",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.05915",
+    "identifiers": {
+      "arxiv": "2607.05915"
+    },
+    "first_published_at": "2026-07-07",
+    "record_updated_at": "2026-09-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d2bd65d5e1b94a106efe3ef3f48077c41e9935f4fc5c571a1608badc26b2df2d",
+      "submitted_at": "2026-07-07T07:09:46Z",
+      "updated_at": "2026-09-11T12:16:22Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2607.05915v4"
+    }
+  },
+  "note": "First published: 2026-07-07; Recorded arXiv version: v4; Recorded version updated: 2026-09-11T12:16:22Z.",
+  "author": [
+    {
+      "literal": "Hyungseok Song"
+    },
+    {
+      "literal": "Junseok Park"
+    },
+    {
+      "literal": "Won-Seok Choi"
+    },
+    {
+      "literal": "Seohui Bae"
+    },
+    {
+      "literal": "Han-Seul Jeong"
+    },
+    {
+      "literal": "Youngjoon Park"
+    },
+    {
+      "literal": "Soonyoung Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.05915",
+  "genre": "preprint",
+  "version": "4"
+}

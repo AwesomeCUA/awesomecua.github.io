@@ -1,0 +1,103 @@
+{
+  "id": "arxiv:2508.06600",
+  "citation-key": "arxiv_2508_06600",
+  "type": "article",
+  "title": "BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent",
+  "URL": "https://arxiv.org/abs/2508.06600v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.06600",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.06600",
+    "identifiers": {
+      "arxiv": "2508.06600"
+    },
+    "first_published_at": "2025-08-08",
+    "record_updated_at": "2025-08-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9d6303a8c1d76d9b1d9aae1d424e96aa199057e2a82e4f5aac1005e63e63120c",
+      "submitted_at": "2025-08-08T17:55:11Z",
+      "updated_at": "2025-08-08T17:55:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.06600v1"
+    }
+  },
+  "note": "First published: 2025-08-08; Recorded arXiv version: v1; Recorded version updated: 2025-08-08T17:55:11Z.",
+  "author": [
+    {
+      "literal": "Zijian Chen"
+    },
+    {
+      "literal": "Xueguang Ma"
+    },
+    {
+      "literal": "Shengyao Zhuang"
+    },
+    {
+      "literal": "Ping Nie"
+    },
+    {
+      "literal": "Kai Zou"
+    },
+    {
+      "literal": "Andrew Liu"
+    },
+    {
+      "literal": "Joshua Green"
+    },
+    {
+      "literal": "Kshama Patel"
+    },
+    {
+      "literal": "Ruoxi Meng"
+    },
+    {
+      "literal": "Mingyi Su"
+    },
+    {
+      "literal": "Sahel Sharifymoghaddam"
+    },
+    {
+      "literal": "Yanxi Li"
+    },
+    {
+      "literal": "Haoran Hong"
+    },
+    {
+      "literal": "Xinyu Shi"
+    },
+    {
+      "literal": "Xuye Liu"
+    },
+    {
+      "literal": "Nandan Thakur"
+    },
+    {
+      "literal": "Crystina Zhang"
+    },
+    {
+      "literal": "Luyu Gao"
+    },
+    {
+      "literal": "Wenhu Chen"
+    },
+    {
+      "literal": "Jimmy Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.06600",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2406.06613",
+  "citation-key": "arxiv_2406_06613",
+  "type": "article",
+  "title": "GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents",
+  "URL": "https://arxiv.org/abs/2406.06613v2",
+  "custom": {
+    "catalog_id": "arxiv:2406.06613",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.06613",
+    "identifiers": {
+      "arxiv": "2406.06613"
+    },
+    "first_published_at": "2024-06-07",
+    "record_updated_at": "2024-07-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2917f275c22b1e21bf151239dff897d8f0ec20747e7a45503cbb52c515fae303",
+      "submitted_at": "2024-06-07T00:28:43Z",
+      "updated_at": "2024-07-22T14:32:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.06613v2"
+    }
+  },
+  "note": "First published: 2024-06-07; Recorded arXiv version: v2; Recorded version updated: 2024-07-22T14:32:33Z.",
+  "author": [
+    {
+      "literal": "Anthony Costarelli"
+    },
+    {
+      "literal": "Mat Allen"
+    },
+    {
+      "literal": "Roman Hauksson"
+    },
+    {
+      "literal": "Grace Sodunke"
+    },
+    {
+      "literal": "Suhas Hariharan"
+    },
+    {
+      "literal": "Carlson Cheng"
+    },
+    {
+      "literal": "Wenjie Li"
+    },
+    {
+      "literal": "Joshua Clymer"
+    },
+    {
+      "literal": "Arjun Yadav"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.06613",
+  "genre": "preprint",
+  "version": "2"
+}

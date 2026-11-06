@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2408.09667",
+  "citation-key": "arxiv_2408_09667",
+  "type": "article",
+  "title": "BLADE: Benchmarking Language Model Agents for Data-Driven Science",
+  "URL": "https://arxiv.org/abs/2408.09667v3",
+  "custom": {
+    "catalog_id": "arxiv:2408.09667",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.09667",
+    "identifiers": {
+      "arxiv": "2408.09667"
+    },
+    "first_published_at": "2024-08-19",
+    "record_updated_at": "2025-11-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5aecce6d3a0c59359be589f78a148506913970809d55d3bb661e2114f14f4795",
+      "submitted_at": "2024-08-19T02:59:35Z",
+      "updated_at": "2025-11-10T06:38:02Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2408.09667v3"
+    }
+  },
+  "note": "First published: 2024-08-19; Recorded arXiv version: v3; Recorded version updated: 2025-11-10T06:38:02Z.",
+  "author": [
+    {
+      "literal": "Ken Gu"
+    },
+    {
+      "literal": "Ruoxi Shang"
+    },
+    {
+      "literal": "Ruien Jiang"
+    },
+    {
+      "literal": "Keying Kuang"
+    },
+    {
+      "literal": "Richard-John Lin"
+    },
+    {
+      "literal": "Donghe Lyu"
+    },
+    {
+      "literal": "Yue Mao"
+    },
+    {
+      "literal": "Youran Pan"
+    },
+    {
+      "literal": "Teng Wu"
+    },
+    {
+      "literal": "Jiaqian Yu"
+    },
+    {
+      "literal": "Yikun Zhang"
+    },
+    {
+      "literal": "Tianmai M. Zhang"
+    },
+    {
+      "literal": "Lanyi Zhu"
+    },
+    {
+      "literal": "Mike A. Merrill"
+    },
+    {
+      "literal": "Jeffrey Heer"
+    },
+    {
+      "literal": "Tim Althoff"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.09667",
+  "genre": "preprint",
+  "version": "3"
+}

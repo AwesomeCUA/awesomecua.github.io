@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "authors": [
+    "Kung-Hsiang Huang",
+    "Akshara Prabhakar",
+    "Onkar Thorat",
+    "Divyansh Agarwal",
+    "Prafulla Kumar Choubey",
+    "Yixin Mao",
+    "Silvio Savarese",
+    "Caiming Xiong",
+    "Chien-Sheng Wu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "62d0e33d7cd2cdac62054296fff33ac67b7c01db9b818c4a2a711fc2efae453f",
+      "submitted_at": "2025-05-24T21:33:22Z",
+      "updated_at": "2025-05-24T21:33:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.18878v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-06T15:45:06Z",
+      "role": "primary",
+      "sha256": "0ced1e8ec3cbdfa2c9cd6250878ea99cebe73ccb55e01864c8951d89157efb5d",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2505.04997%2C2505.15146%2C2505.15952%2C2505.18878%2C2506.03610%2C2506.04405%2C2506.13651%2C2506.14074%2C2506.17612%2C2506.23719%2C2507.04952%2C2507.11527%2C2507.16126%2C2508.06600%2C2508.10428%2C2509.05303%2C2509.05881%2C2509.16204%2C2509.21143%2C2509.22170%2C2509.25721%2C2510.02209%2C2510.04374%2C2510.18941%2C2510.23691%2C2510.26787%2C2510.27287%2C2511.08892%2C2511.20737%2C2601.01366%2C2601.05187%2C2601.13142%2C2601.14242%2C2601.20882%2C2602.09084%2C2602.11103%2C2602.11685%2C2603.06739%2C2604.02409%2C2604.02648%2C2604.04192%2C2604.13107%2C2604.13888%2C2606.05238%2C2606.20146%2C2607.05915%2C2607.20478%2C2608.01645%2C2609.03773%2C2609.04667&max_results=50"
+    }
+  ],
+  "id": "arxiv:2505.18878",
+  "identifiers": {
+    "arxiv": "2505.18878"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-06T15:45:06Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2505.18878"
+    }
+  ],
+  "name": "CRMArena-Pro: Holistic Assessment of LLM Agents Across Diverse Business Scenarios and Interactions",
+  "notes": "Bibliographic metadata checked against arXiv; relevance review pending.",
+  "published_at": "2025-05-24",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2025-05-24",
+  "url": "https://arxiv.org/abs/2505.18878"
+}

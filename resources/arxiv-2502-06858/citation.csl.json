@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2502.06858",
+  "citation-key": "arxiv_2502_06858",
+  "type": "article",
+  "title": "LLM-Supported Natural Language to Bash Translation",
+  "URL": "https://arxiv.org/abs/2502.06858v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.06858",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.06858",
+    "identifiers": {
+      "arxiv": "2502.06858"
+    },
+    "first_published_at": "2025-02-07",
+    "record_updated_at": "2025-02-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9d5410730c78f419005ffa88baa671d805ca507b210e164cd6f175b203f62344",
+      "submitted_at": "2025-02-07T19:35:55Z",
+      "updated_at": "2025-02-07T19:35:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.06858v1"
+    }
+  },
+  "note": "First published: 2025-02-07; Recorded arXiv version: v1; Recorded version updated: 2025-02-07T19:35:55Z.",
+  "author": [
+    {
+      "literal": "Finnian Westenfelder"
+    },
+    {
+      "literal": "Erik Hemberg"
+    },
+    {
+      "literal": "Miguel Tulla"
+    },
+    {
+      "literal": "Stephen Moskal"
+    },
+    {
+      "literal": "Una-May O'Reilly"
+    },
+    {
+      "literal": "Silviu Chiricescu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.06858",
+  "genre": "preprint",
+  "version": "1"
+}

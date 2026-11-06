@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2405.00823",
+  "citation-key": "arxiv_2405_00823",
+  "type": "article",
+  "title": "WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting",
+  "URL": "https://arxiv.org/abs/2405.00823v2",
+  "custom": {
+    "catalog_id": "arxiv:2405.00823",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.00823",
+    "identifiers": {
+      "arxiv": "2405.00823"
+    },
+    "first_published_at": "2024-05-01",
+    "record_updated_at": "2024-08-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4471c4479e0466f31f093b4ff5e0e56e17c81872abfaba2123d5cf30dcfe6498",
+      "submitted_at": "2024-05-01T19:07:03Z",
+      "updated_at": "2024-08-03T12:41:29Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2405.00823v2"
+    }
+  },
+  "note": "First published: 2024-05-01; Recorded arXiv version: v2; Recorded version updated: 2024-08-03T12:41:29Z.",
+  "author": [
+    {
+      "literal": "Olly Styles"
+    },
+    {
+      "literal": "Sam Miller"
+    },
+    {
+      "literal": "Patricio Cerda-Mardini"
+    },
+    {
+      "literal": "Tanaya Guha"
+    },
+    {
+      "literal": "Victor Sanchez"
+    },
+    {
+      "literal": "Bertie Vidgen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.00823",
+  "genre": "preprint",
+  "version": "2"
+}

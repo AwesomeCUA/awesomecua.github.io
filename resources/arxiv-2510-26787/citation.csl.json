@@ -1,0 +1,184 @@
+{
+  "id": "arxiv:2510.26787",
+  "citation-key": "arxiv_2510_26787",
+  "type": "article",
+  "title": "Remote Labor Index: Measuring AI Automation of Remote Work",
+  "URL": "https://arxiv.org/abs/2510.26787v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.26787",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.26787",
+    "identifiers": {
+      "arxiv": "2510.26787"
+    },
+    "first_published_at": "2025-10-30",
+    "record_updated_at": "2025-10-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4e6ccee5d5c686c952e6c9c5c4f4f8df1376337db88ccb4db42d0b23fb185aff",
+      "submitted_at": "2025-10-30T17:58:04Z",
+      "updated_at": "2025-10-30T17:58:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.26787v1"
+    }
+  },
+  "note": "First published: 2025-10-30; Recorded arXiv version: v1; Recorded version updated: 2025-10-30T17:58:04Z.",
+  "author": [
+    {
+      "literal": "Mantas Mazeika"
+    },
+    {
+      "literal": "Alice Gatti"
+    },
+    {
+      "literal": "Cristina Menghini"
+    },
+    {
+      "literal": "Udari Madhushani Sehwag"
+    },
+    {
+      "literal": "Shivam Singhal"
+    },
+    {
+      "literal": "Yury Orlovskiy"
+    },
+    {
+      "literal": "Steven Basart"
+    },
+    {
+      "literal": "Manasi Sharma"
+    },
+    {
+      "literal": "Denis Peskoff"
+    },
+    {
+      "literal": "Elaine Lau"
+    },
+    {
+      "literal": "Jaehyuk Lim"
+    },
+    {
+      "literal": "Lachlan Carroll"
+    },
+    {
+      "literal": "Alice Blair"
+    },
+    {
+      "literal": "Vinaya Sivakumar"
+    },
+    {
+      "literal": "Sumana Basu"
+    },
+    {
+      "literal": "Brad Kenstler"
+    },
+    {
+      "literal": "Yuntao Ma"
+    },
+    {
+      "literal": "Julian Michael"
+    },
+    {
+      "literal": "Xiaoke Li"
+    },
+    {
+      "literal": "Oliver Ingebretsen"
+    },
+    {
+      "literal": "Aditya Mehta"
+    },
+    {
+      "literal": "Jean Mottola"
+    },
+    {
+      "literal": "John Teichmann"
+    },
+    {
+      "literal": "Kevin Yu"
+    },
+    {
+      "literal": "Zaina Shaik"
+    },
+    {
+      "literal": "Adam Khoja"
+    },
+    {
+      "literal": "Richard Ren"
+    },
+    {
+      "literal": "Jason Hausenloy"
+    },
+    {
+      "literal": "Long Phan"
+    },
+    {
+      "literal": "Ye Htet"
+    },
+    {
+      "literal": "Ankit Aich"
+    },
+    {
+      "literal": "Tahseen Rabbani"
+    },
+    {
+      "literal": "Vivswan Shah"
+    },
+    {
+      "literal": "Andriy Novykov"
+    },
+    {
+      "literal": "Felix Binder"
+    },
+    {
+      "literal": "Kirill Chugunov"
+    },
+    {
+      "literal": "Luis Ramirez"
+    },
+    {
+      "literal": "Matias Geralnik"
+    },
+    {
+      "literal": "Hernán Mesura"
+    },
+    {
+      "literal": "Dean Lee"
+    },
+    {
+      "literal": "Ed-Yeremai Hernandez Cardona"
+    },
+    {
+      "literal": "Annette Diamond"
+    },
+    {
+      "literal": "Summer Yue"
+    },
+    {
+      "literal": "Alexandr Wang"
+    },
+    {
+      "literal": "Bing Liu"
+    },
+    {
+      "literal": "Ernesto Hernandez"
+    },
+    {
+      "literal": "Dan Hendrycks"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.26787",
+  "genre": "preprint",
+  "version": "1"
+}

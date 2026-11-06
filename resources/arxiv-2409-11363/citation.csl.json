@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2409.11363",
+  "citation-key": "arxiv_2409_11363",
+  "type": "article",
+  "title": "CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark",
+  "URL": "https://arxiv.org/abs/2409.11363v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.11363",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.11363",
+    "identifiers": {
+      "arxiv": "2409.11363"
+    },
+    "first_published_at": "2024-09-17",
+    "record_updated_at": "2026-06-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "59ce1c131e3903fdbe914417cf36c2c51bfbc9f3232a1681e055e8abd0dd4b00",
+      "submitted_at": "2024-09-17T17:13:19Z",
+      "updated_at": "2026-06-22T22:36:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.11363v2"
+    }
+  },
+  "note": "First published: 2024-09-17; Recorded arXiv version: v2; Recorded version updated: 2026-06-22T22:36:12Z.",
+  "author": [
+    {
+      "literal": "Zachary S. Siegel"
+    },
+    {
+      "literal": "Sayash Kapoor"
+    },
+    {
+      "literal": "Nitya Nadgir"
+    },
+    {
+      "literal": "Benedikt Stroebl"
+    },
+    {
+      "literal": "Arvind Narayanan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.11363",
+  "genre": "preprint",
+  "version": "2"
+}
