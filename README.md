@@ -46,7 +46,7 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 **1,674 curated resources** · **1,202 reviewed papers and surveys** · **103 discovery documents**
 
-Evidence snapshot: 2026-11-05T22:51:37Z. Only curated resources are counted. 1,979 records awaiting review and 1,967 discovered candidates are listed separately in the [coverage ledger](https://awesomecua.com/coverage/). Resources are not independent projects.
+Evidence snapshot: 2026-11-06T00:36:32Z. Only curated resources are counted. 1,982 records awaiting review and 1,967 discovered candidates are listed separately in the [coverage ledger](https://awesomecua.com/coverage/). Resources are not independent projects.
 
 ## What is a computer-use agent?
 

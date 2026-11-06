@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2611.05620",
+  "citation-key": "arxiv_2611_05620",
+  "type": "article",
+  "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+  "URL": "https://arxiv.org/abs/2611.05620v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.05620",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.05620",
+    "identifiers": {
+      "arxiv": "2611.05620"
+    },
+    "first_published_at": "2026-11-03",
+    "record_updated_at": "2026-11-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6feac6fd7ab195a74fb0300b697eace9b410d4064c5e36d8d2fe3f7213e137e7",
+      "submitted_at": "2026-11-03T21:04:39Z",
+      "updated_at": "2026-11-03T21:04:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.05620v1"
+    }
+  },
+  "note": "First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T21:04:39Z.",
+  "author": [
+    {
+      "literal": "Daniel Furman"
+    },
+    {
+      "literal": "Preeya Kirani"
+    },
+    {
+      "literal": "Ibrahim Sheikh"
+    },
+    {
+      "literal": "Zhen Li"
+    },
+    {
+      "literal": "Peter Zhong"
+    },
+    {
+      "literal": "Michele Catasta"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.05620",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -220421,6 +220421,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.05620v1",
+    "archive": "arXiv",
+    "archive_location": "2611.05620",
+    "author": [
+      {
+        "literal": "Daniel Furman"
+      },
+      {
+        "literal": "Preeya Kirani"
+      },
+      {
+        "literal": "Ibrahim Sheikh"
+      },
+      {
+        "literal": "Zhen Li"
+      },
+      {
+        "literal": "Peter Zhong"
+      },
+      {
+        "literal": "Michele Catasta"
+      }
+    ],
+    "citation-key": "arxiv_2611_05620",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6feac6fd7ab195a74fb0300b697eace9b410d4064c5e36d8d2fe3f7213e137e7",
+        "submitted_at": "2026-11-03T21:04:39Z",
+        "updated_at": "2026-11-03T21:04:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.05620v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.05620",
+      "catalog_id": "arxiv:2611.05620",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-03",
+      "identifiers": {
+        "arxiv": "2611.05620"
+      },
+      "record_updated_at": "2026-11-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.05620",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T21:04:39Z.",
+    "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2611.05873v1",
     "archive": "arXiv",
     "archive_location": "2611.05873",
@@ -220539,6 +220600,125 @@
     },
     "note": "First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T06:42:35Z.",
     "title": "Securing Web Agents with the Compile-Then-Execute Paradigm",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.06075v1",
+    "archive": "arXiv",
+    "archive_location": "2611.06075",
+    "author": [
+      {
+        "literal": "Mingkang Liu"
+      },
+      {
+        "literal": "Peipei Jiao"
+      },
+      {
+        "literal": "Weiming Meng"
+      },
+      {
+        "literal": "Tianyuan Liu"
+      },
+      {
+        "literal": "Lichen Pang"
+      },
+      {
+        "literal": "Junyan Li"
+      }
+    ],
+    "citation-key": "arxiv_2611_06075",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "913c47f68bbe339e5e0270b61e055d482974d1efad8847440ba059f6f7686e27",
+        "submitted_at": "2026-11-04T07:18:55Z",
+        "updated_at": "2026-11-04T07:18:55Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.06075v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.06075",
+      "catalog_id": "arxiv:2611.06075",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-04",
+      "identifiers": {
+        "arxiv": "2611.06075"
+      },
+      "record_updated_at": "2026-11-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.06075",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T07:18:55Z.",
+    "title": "UniCompress: From Multi-LoRA Experts to One Compact Model for Edge Intelligence",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.06500v1",
+    "archive": "arXiv",
+    "archive_location": "2611.06500",
+    "author": [
+      {
+        "literal": "Yuetong Liu"
+      },
+      {
+        "literal": "Zhehao Zhou"
+      },
+      {
+        "literal": "Yitong Zhang"
+      },
+      {
+        "literal": "Haorui Chen"
+      },
+      {
+        "literal": "Jia Li"
+      }
+    ],
+    "citation-key": "arxiv_2611_06500",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "84b454d9d4640f9593803358a93ab31cf4aa99c93b5e10ec5d4c825b62bcd41c",
+        "submitted_at": "2026-11-04T13:32:36Z",
+        "updated_at": "2026-11-04T13:32:36Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.06500v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.06500",
+      "catalog_id": "arxiv:2611.06500",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-04",
+      "identifiers": {
+        "arxiv": "2611.06500"
+      },
+      "record_updated_at": "2026-11-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.06500",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-04; Recorded arXiv version: v1; Recorded version updated: 2026-11-04T13:32:36Z.",
+    "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
     "type": "article",
     "version": "1"
   },
