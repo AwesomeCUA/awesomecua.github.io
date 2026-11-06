@@ -22560,7 +22560,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "1ca4dc0b513501b1ab14dc0eac566093abe2be9cc9309982255e9a4ab2aaadc2"
+      "sha256": "fcb7974050062ef4ac5938fd73774fa5606d6937f3833705aad6567ed7b8ff09"
     },
     {
       "path": "/agents/",
@@ -22575,7 +22575,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "b0f715c9fc41511f8cde2e6ce26106dc8ea61432622b99051e3d4a174ffe0aae"
+      "sha256": "0ea49c329b7042d3941f910ee1251548b6ce2f510c1ab1b7c47fd66d3f826b0e"
     },
     {
       "path": "/badges/",
@@ -22590,12 +22590,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "c9cff12b3f87c97c6ddce6a20193d896ae1e706fc562d80cea8a8a6adf59c12f"
+      "sha256": "bbc7e917bbeb6e62a8b482b56c92998bdf1a39b51f57aa6e23d5f2cca3b7b945"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "86331af3fc8ecb0bff4394f70ec5cdc091dcaa93e6f11364ec2f9e10d6b86d8e"
+      "sha256": "00a7b1ae71eac3300440e94ac8f1f5c3e57c4f89f054c5d13b6821f15a114c59"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -22620,12 +22620,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "1660062a03e590f1f7901dbefd57785a51c08e1e53330d3b8892f472766b72ab"
+      "sha256": "d2178ae753c546a4aee808c7314392e819db8d84e7ac07ccace100e45ac951c1"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "3adf53db865b51053d23c37a4c27179376f4fa18bbba9334eca255540a38ec52"
+      "sha256": "7b695eaa67158f7a7ff39fd23982ae312b59f531b41d643d2f1ed964d174c2f7"
     },
     {
       "path": "/explore/",
@@ -22636,7 +22636,7 @@
     {
       "path": "/api/",
       "indexable": true,
-      "sha256": "104e58d65d82a445f4a9f3c6e354ca4d81dde2dfcf5ef84df0ee1df1ea085a4b"
+      "sha256": "eca06f4120a7a89251156fcf26066a41c0562e6ab0748e5df251ab5ec402a907"
     }
   ]
 }
