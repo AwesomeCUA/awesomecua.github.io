@@ -139,7 +139,7 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 - [Verified former repository names](https://awesomecua.com/downloads/repository-aliases.json) and [their schema](https://awesomecua.com/schemas/repository-alias.schema.json): use the canonical returned ID for retrieval upserts; aliases add no resources
 - [Bilingual data hub](https://awesomecua.com/data/), [中文数据中心](https://awesomecua.com/zh/data/) and [download manifest](https://awesomecua.com/downloads/manifest.json) ([schema](https://awesomecua.com/schemas/download-manifest.schema.json)): file paths, byte sizes, SHA-256 fingerprints, counts and units; compare catalog_sha256 across manifests before combining artifacts
 - [Tagged data releases](https://github.com/reacher-z/Awesome-CUA/releases): complete data bundles; verify SHA256SUMS and retain release-manifest.json, source_commit and catalog_sha256
-- [Hugging Face dataset mirror](https://huggingface.co/datasets/TIGER-Lab/awesome-cua): read-only Parquet and JSONL mirror of these downloads, one config per record type, refreshed every 2 hours. metadata_only and github_candidates are not curated.
+- [Hugging Face dataset mirror](https://huggingface.co/datasets/TIGER-Lab/AwesomeCUA): read-only Parquet and JSONL mirror of these downloads, one config per record type, refreshed every 2 hours. metadata_only and github_candidates are not curated.
 - [Computer-use agent survey](https://awesomecua.com/survey/): working manuscript with a separately frozen research inventory; not an additional catalog record
 - [Survey bibliography](https://awesomecua.com/survey/references.bib)
 - [Survey references JSON](https://awesomecua.com/survey/references.json)
