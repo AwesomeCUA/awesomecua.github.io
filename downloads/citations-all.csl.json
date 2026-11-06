@@ -220839,6 +220839,76 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.07765v1",
+    "archive": "arXiv",
+    "archive_location": "2611.07765",
+    "author": [
+      {
+        "literal": "Dengyao Shi"
+      },
+      {
+        "literal": "Tianyu Fu"
+      },
+      {
+        "literal": "Fei Hu"
+      },
+      {
+        "literal": "Anyang Su"
+      },
+      {
+        "literal": "Hanning Wang"
+      },
+      {
+        "literal": "Shuo Wang"
+      },
+      {
+        "literal": "Minghui Wu"
+      },
+      {
+        "literal": "Chenxu Zhao"
+      },
+      {
+        "literal": "Zhen Lei"
+      }
+    ],
+    "citation-key": "arxiv_2611_07765",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6bf229594749dadc7204f76bfbda241905511432fcdb65b8076d7b0d8435bca9",
+        "submitted_at": "2026-11-05T10:05:14Z",
+        "updated_at": "2026-11-05T10:05:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.07765v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.07765",
+      "catalog_id": "arxiv:2611.07765",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-05",
+      "identifiers": {
+        "arxiv": "2611.07765"
+      },
+      "record_updated_at": "2026-11-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.07765",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-05; Recorded arXiv version: v1; Recorded version updated: 2026-11-05T10:05:14Z.",
+    "title": "BiGrounder: Bidirectional Training Unlocks the Potential of GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "DOI": "10.21203/rs.3.rs-4653823/v1",
     "URL": "https://www.researchsquare.com/article/rs-4653823/v1",
     "author": [

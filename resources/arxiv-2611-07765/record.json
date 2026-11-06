@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "authors": [
+    "Dengyao Shi",
+    "Tianyu Fu",
+    "Fei Hu",
+    "Anyang Su",
+    "Hanning Wang",
+    "Shuo Wang",
+    "Minghui Wu",
+    "Chenxu Zhao",
+    "Zhen Lei"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6bf229594749dadc7204f76bfbda241905511432fcdb65b8076d7b0d8435bca9",
+      "submitted_at": "2026-11-05T10:05:14Z",
+      "updated_at": "2026-11-05T10:05:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.07765v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-06T04:18:34Z",
+      "role": "primary",
+      "sha256": "d9d2fe7a451475e0021d8d4d07779734583df3afbd3540803fb564ac9662834b",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2611.07765&max_results=1"
+    }
+  ],
+  "id": "arxiv:2611.07765",
+  "identifiers": {
+    "arxiv": "2611.07765"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-06T04:18:34Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2611.07765"
+    }
+  ],
+  "name": "BiGrounder: Bidirectional Training Unlocks the Potential of GUI Grounding",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-11-05",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-11-05",
+  "url": "https://arxiv.org/abs/2611.07765"
+}

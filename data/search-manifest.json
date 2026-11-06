@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.com",
   "indexable_pages": 1939,
-  "metadata_only_pages": 1982,
+  "metadata_only_pages": 1983,
   "excluded_pages": 141,
   "pages": [
     {
@@ -15860,6 +15860,11 @@
       "sha256": "0d30df3e4ecc6873e5f32f8416dcbad66839b06d159b4d660173f807ce13e001"
     },
     {
+      "path": "/resources/arxiv-2611-07765/",
+      "indexable": false,
+      "sha256": "2fa429d93cb0ba31507b763a3c215aeb70a560bd27c46c0457c4ddf3d49bb13c"
+    },
+    {
       "path": "/resources/component-google-research-android-control/",
       "indexable": true,
       "sha256": "8a1d0bf689ea61a3f58fc8f89da926d2ca8853c7d111f76a4ba77babd7ac544c"
@@ -19138,7 +19143,7 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "8c7b1a627818d41da45570e4303dc7d1f18a0272264dc5b5dc3f40cc217ddafa"
+      "sha256": "97ff695bed8ed07bf900cb8bf280506927896d441c105cde2d3282334cbbb88f"
     },
     {
       "path": "/categories/paper/",
@@ -20388,7 +20393,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "02d9a3ba3c31ce1e0e49c54ccc035282380370f1fd1c2b7831fddc6bfeaabf42"
+      "sha256": "694b3f80de89d68156a24b4ae6032551aa8c6ea96886d417207ea507be0ee526"
     },
     {
       "path": "/agents/",
@@ -20403,7 +20408,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "48d3db7c18ec420c58fb9f59a5a295ddc207b518845bbcea09eec35ff68e856c"
+      "sha256": "0465095b52783c65f889648b5ae130097fd4e4c523f7c23de9d76d4be9afedfe"
     },
     {
       "path": "/badges/",
@@ -20418,12 +20423,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "4328bac5b05ede661cf6d00cabf0826e69d14a0c5fbff55eba41c1521ceec3e0"
+      "sha256": "f0dc9efb580fa0a8693855f81f05a8faa818bb9e17da6ab69467eeb2c70a0a56"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "308dc7357880c408f397325c1df4e08b76cc1f1ca6532389dc017cc146339206"
+      "sha256": "5332cf263bb9ddce50e21c391cdb13534d63e255a3c5254dc8edf585ca025e2b"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -20448,12 +20453,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "a326fb7bd4d0f78912873f9becddaa9ddee8a37ad100d9a01a02620c41ccd1ee"
+      "sha256": "6e542e51838ad3f4a4dd91429d2a3a9d68d4b5cd37524e4175e37cc952d14006"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "f2ad3b1a8b89a5f01b4bd6c231f7eb2825024764249104ccde9ce32247e5274c"
+      "sha256": "7f23199b7bca5a680949f53a23b1619f5546de74e93086f25939d861f2ce6851"
     }
   ]
 }
