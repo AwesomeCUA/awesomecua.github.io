@@ -546,6 +546,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.07098v1",
+    "archive": "arXiv",
+    "archive_location": "2509.07098",
+    "author": [
+      {
+        "literal": "Yinheng Li"
+      },
+      {
+        "literal": "Hailey Hultquist"
+      },
+      {
+        "literal": "Justin Wagle"
+      },
+      {
+        "literal": "Kazuhito Koishida"
+      }
+    ],
+    "citation-key": "arxiv_2509_07098",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1f5e5d68ea5cfe04d3e4bdb31d3b6152d44db3de344ea7afa950b5400a9dba5c",
+        "submitted_at": "2025-09-08T18:00:12Z",
+        "updated_at": "2025-09-08T18:00:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.07098v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.07098",
+      "catalog_id": "arxiv:2509.07098",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-08",
+      "identifiers": {
+        "arxiv": "2509.07098"
+      },
+      "record_updated_at": "2025-09-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.07098",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-08; Recorded arXiv version: v1; Recorded version updated: 2025-09-08T18:00:12Z.",
+    "title": "Instruction Agent: Enhancing Agent with Expert Demonstration",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.13615v5",
     "archive": "arXiv",
     "archive_location": "2509.13615",
@@ -617,6 +672,128 @@
     "title": "See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles",
     "type": "article",
     "version": "5"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.14308v2",
+    "archive": "arXiv",
+    "archive_location": "2510.14308",
+    "author": [
+      {
+        "literal": "Yimeng Liu"
+      },
+      {
+        "literal": "Misha Sra"
+      },
+      {
+        "literal": "Jeevana Priya Inala"
+      },
+      {
+        "literal": "Chenglong Wang"
+      }
+    ],
+    "citation-key": "arxiv_2510_14308",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "943a16b7de023cac9da474b32d93918a81bc1c01126fcfcb4a5ead4b2e4639ec",
+        "submitted_at": "2025-10-16T05:11:00Z",
+        "updated_at": "2026-01-24T02:41:39Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.14308v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.14308",
+      "catalog_id": "arxiv:2510.14308",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-16",
+      "identifiers": {
+        "arxiv": "2510.14308"
+      },
+      "record_updated_at": "2026-01-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.14308",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-01-24T02:41:39Z.",
+    "title": "ReUseIt: Synthesizing Reusable AI Agent Workflows for Web Automation",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.14513v3",
+    "archive": "arXiv",
+    "archive_location": "2510.14513",
+    "author": [
+      {
+        "literal": "Juheon Choi"
+      },
+      {
+        "literal": "Juyong Lee"
+      },
+      {
+        "literal": "Jian Kim"
+      },
+      {
+        "literal": "Chanyoung Kim"
+      },
+      {
+        "literal": "Taywon Min"
+      },
+      {
+        "literal": "W. Bradley Knox"
+      },
+      {
+        "literal": "Min Kyung Lee"
+      },
+      {
+        "literal": "Kimin Lee"
+      }
+    ],
+    "citation-key": "arxiv_2510_14513",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ac902743c35419bd79603e55bc8a0cf47028e1974cd07ff43c3c0ada6f3a661a",
+        "submitted_at": "2025-10-16T09:57:35Z",
+        "updated_at": "2026-03-02T09:08:04Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.14513v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.14513",
+      "catalog_id": "arxiv:2510.14513",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-16",
+      "identifiers": {
+        "arxiv": "2510.14513"
+      },
+      "record_updated_at": "2026-03-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.14513",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-16; Recorded arXiv version: v3; Recorded version updated: 2026-03-02T09:08:04Z.",
+    "title": "State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2510.14621v1",
@@ -760,6 +937,79 @@
     "title": "MGA: Memory-Driven GUI Agent for Observation-Centric Interaction",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.26098v2",
+    "archive": "arXiv",
+    "archive_location": "2510.26098",
+    "author": [
+      {
+        "literal": "Chenrui Shi"
+      },
+      {
+        "literal": "Zedong Yu"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Ruining Feng"
+      },
+      {
+        "literal": "Enqi Liu"
+      },
+      {
+        "literal": "Yuwei Wu"
+      },
+      {
+        "literal": "Yunde Jia"
+      },
+      {
+        "literal": "Liuyu Xiang"
+      },
+      {
+        "literal": "Zhaofeng He"
+      },
+      {
+        "literal": "Qing Li"
+      }
+    ],
+    "citation-key": "arxiv_2510_26098",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "44514d3cb1824ef4c4194f89ef80cd56ac59d5539e815dc4c504009bce15d60d",
+        "submitted_at": "2025-10-30T03:22:30Z",
+        "updated_at": "2026-02-09T07:49:59Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.26098v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.26098",
+      "catalog_id": "arxiv:2510.26098",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-30",
+      "identifiers": {
+        "arxiv": "2510.26098"
+      },
+      "record_updated_at": "2026-02-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.26098",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-30; Recorded arXiv version: v2; Recorded version updated: 2026-02-09T07:49:59Z.",
+    "title": "GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2511.22235v2",
@@ -926,6 +1176,73 @@
     },
     "note": "First published: 2026-01-29; Recorded arXiv version: v1; Recorded version updated: 2026-01-29T07:22:50Z.",
     "title": "BEAP-Agent: Backtrackable Execution and Adaptive Planning for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.07787v1",
+    "archive": "arXiv",
+    "archive_location": "2602.07787",
+    "author": [
+      {
+        "literal": "Pierre-Louis Favreau"
+      },
+      {
+        "literal": "Jean-Pierre Lo"
+      },
+      {
+        "literal": "Clement Guiguet"
+      },
+      {
+        "literal": "Charles Simon-Meunier"
+      },
+      {
+        "literal": "Nicolas Dehandschoewercker"
+      },
+      {
+        "literal": "Allen G. Roush"
+      },
+      {
+        "literal": "Judah Goldfeder"
+      },
+      {
+        "literal": "Ravid Shwartz-Ziv"
+      }
+    ],
+    "citation-key": "arxiv_2602_07787",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ca42c9befea71d930c4b4f38a5eb4f6fb812a4966623556a56d417e3dec229af",
+        "submitted_at": "2026-02-08T03:02:13Z",
+        "updated_at": "2026-02-08T03:02:13Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.07787v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.07787",
+      "catalog_id": "arxiv:2602.07787",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-08",
+      "identifiers": {
+        "arxiv": "2602.07787"
+      },
+      "record_updated_at": "2026-02-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.07787",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-08; Recorded arXiv version: v1; Recorded version updated: 2026-02-08T03:02:13Z.",
+    "title": "Do Multi-Agents Dream of Electric Screens? Achieving Perfect Accuracy on AndroidWorld Through Task Decomposition",
     "type": "article",
     "version": "1"
   },

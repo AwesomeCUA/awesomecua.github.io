@@ -72,18 +72,28 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Identifies time-of-check to time-of-use (TOCTOU) race vulnerabilities when web pages mutate between agent planning and action execution.
 - [UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics](https://awesomecua.com/resources/arxiv-2604-02345/) — 2026-02-11
   UI-Oceanus converts autonomous GUI exploration and execution feedback into supervision for predicting future interface states. It compares forward and inverse objectives during continual pretraining and examines downstream offline and online navigation as synthetic data scales.
+- [Do Multi-Agents Dream of Electric Screens? Achieving Perfect Accuracy on AndroidWorld Through Task Decomposition](https://awesomecua.com/resources/arxiv-2602-07787/) — 2026-02-08
+  Minitap coordinates six specialized agents for AndroidWorld tasks, checking text input against device state and detecting action loops to revise its strategy.
 - [BEAP-Agent: Backtrackable Execution and Adaptive Planning for GUI Agents](https://awesomecua.com/resources/arxiv-2601-21352/) — 2026-01-29
   BEAP-Agent treats GUI execution as depth-first search with coordinated planning, execution and task-state tracking. It supports backtracking across multiple levels of earlier states and evaluates recovery on OSWorld.
 - [DrawingBench: Evaluating Spatial Reasoning and UI Interaction Capabilities of Large Language Models through Mouse-Based Drawing Tasks](https://awesomecua.com/resources/arxiv-2512-01174/) — 2025-12-01
   DrawingBench evaluates sequences of low-level mouse-based GUI actions through 250 drawing prompts and rule-based criteria. Action inspection and multi-turn external feedback support analysis of spatial reasoning, tool-state management, and refinement.
 - [Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://awesomecua.com/resources/arxiv-2511-22235/) — 2025-11-27
   This work trains high-level schedulers with staged reinforcement learning driven by execution feedback. Its CES framework separates a Coordinator for planning and decomposition, a StateTracker for compressed context, and a low-level Executor.
+- [GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks](https://awesomecua.com/resources/arxiv-2510-26098/) — 2025-10-30
+  GUI Knowledge Bench tests knowledge of widgets, interactions, and procedures across six named platforms and 292 applications to assess VLMs used for GUI tasks.
 - [MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://awesomecua.com/resources/arxiv-2510-24168/) — 2025-10-28
   Introduces MGA, which separates task-agnostic screen-state reading from decision making and connects steps through structured state memory. Validated state deltas replace full trajectory replay, evaluated on OSWorld and application tasks.
 - [ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks](https://awesomecua.com/resources/arxiv-2510-14621/) — 2025-10-16
   ColorBench represents mobile tasks as graphs of states collected from real devices, providing a quasi-dynamic environment with multiple valid paths and error paths. It evaluates single-app and cross-app tasks using completion, subtask progress, and atomic diagnostics.
+- [State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living](https://awesomecua.com/resources/arxiv-2510-14513/) — 2025-10-16
+  Introduces an assistant that reads screenshots, application titles, and URLs to compare computer activity with a user's stated intention and send notifications when it diverges.
+- [ReUseIt: Synthesizing Reusable AI Agent Workflows for Web Automation](https://awesomecua.com/resources/arxiv-2510-14308/) — 2025-10-16
+  Introduces ReUseIt, which synthesizes reusable web-agent workflows from successful and failed attempts and adds guards to detect and fix execution errors.
 - [See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles](https://awesomecua.com/resources/arxiv-2509-13615/) — 2025-09-17
   Introduces a benchmark for binary GUI-toggle instructions and State-aware Reasoning, which compares the observed control state with the requested state before choosing an action. It evaluates agents on toggle tasks and broader interactive benchmarks.
+- [Instruction Agent: Enhancing Agent with Expert Demonstration](https://awesomecua.com/resources/arxiv-2509-07098/) — 2025-09-08
+  Introduces Instruction Agent, a GUI agent that follows instructions extracted from one expert demonstration and uses verification and backtracking to handle interruptions.
 - [Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation](https://awesomecua.com/resources/arxiv-2506-18158/) — 2025-06-22
   Chain-of-Memory explicitly records action descriptions and task-relevant screen information in short- and long-term memory for GUI navigation. GUI Odyssey-CoM provides 111,000 screen-action pairs with memory annotations for learning and evaluating information retention across applications.
 - [ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing](https://awesomecua.com/resources/arxiv-2506-00520/) — 2025-05-31

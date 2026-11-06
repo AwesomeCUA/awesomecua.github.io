@@ -38,8 +38,14 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   CowCorpus records interleaved human and agent actions during web navigation and identifies distinct patterns of user intervention. Models trained to anticipate these interventions are integrated into live web agents and assessed in a user study.
 - [Computer-Using World Model](https://awesomecua.com/resources/arxiv-2602-17365/) — 2026-02-19
   Presents a desktop world model that predicts textual UI changes before synthesizing the next screenshot. It learns from Microsoft Office transitions and is evaluated by letting a frozen agent compare simulated actions before execution.
+- [Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints](https://awesomecua.com/resources/arxiv-2602-07008/) — 2026-01-30
+  Proposes training with subset-based attribution constraints so models attend to intended evidence, evaluated on image classification and GUI-agent click decisions.
 - [SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis](https://awesomecua.com/resources/arxiv-2601-18305/) — 2026-01-26
   Introduces SwipeGen for synthesizing varied swipe trajectories and SwipeBench for assessing their execution quality. The study examines how richer control of trajectory, speed, and timing changes GUI agents’ interaction performance.
+- [See, Think, Act: Online Shopper Behavior Simulation with VLM Agents](https://awesomecua.com/resources/arxiv-2510-19245/) — 2025-10-22
+  Studies online shopper action prediction with VLM agents using webpage screenshots, HTML, and action history from OPeRA, trained with SFT and hierarchical RL rewards.
+- [Watch and Learn: Learning to Use Computers from Online Videos](https://awesomecua.com/resources/arxiv-2510-04673/) — 2025-10-06
+  Introduces Watch & Learn (W&L), which converts human computer-use videos into UI action trajectories by predicting actions between consecutive screen states.
 - [Learning GUI Grounding with Spatial Reasoning from Visual Feedback](https://awesomecua.com/resources/arxiv-2509-21552/) — 2025-09-25
   GUI-Cursor treats GUI grounding as a sequence of cursor movements guided by visible feedback and movement history. Online reinforcement learning with trajectory rewards trains the model to refine the target location across multiple steps.
 - [UIPro: Unleashing Superior Interaction Capability For GUI Agents](https://awesomecua.com/resources/arxiv-2509-17328/) — 2025-09-22

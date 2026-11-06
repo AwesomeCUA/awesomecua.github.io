@@ -1,19 +1,69 @@
+# Crawl policy for https://awesomecua.com/
+# Search engines, AI search, AI assistants and AI training crawlers are all welcome.
+# Content Signals Policy: https://contentsignals.org/
+# Agent-readable index: https://awesomecua.com/llms.txt
+
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
+# A crawler that matches a named group ignores the * group (RFC 9309 2.2.1),
+# so every named crawler below shares one group with the same allow-all policy.
+# Also covered by *: 360Spider, Sogou spider, YisouSpider (outside the RFC 9309 token grammar or undocumented).
+
+# Search engines
 User-agent: Googlebot
-Allow: /
-
 User-agent: bingbot
-Allow: /
-
+User-agent: Applebot
+User-agent: DuckDuckBot
+User-agent: YandexBot
+User-agent: Baiduspider
+User-agent: Bytespider
+User-agent: PetalBot
+User-agent: Yeti
+User-agent: SeznamBot
+User-agent: YouBot
+# AI search and answer indexes
 User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
 User-agent: Claude-SearchBot
+User-agent: PerplexityBot
+User-agent: Amzn-SearchBot
+User-agent: meta-webindexer
+User-agent: DuckAssistBot
+User-agent: MistralAI-Index
+User-agent: Kimi-SearchBot
+User-agent: ExaSearchBot
+User-agent: YandexAdditional
+User-agent: YandexAdditionalBot
+# Assistants and agents fetching on a user's request
+User-agent: ChatGPT-User
+User-agent: Claude-User
+User-agent: Claude-Agent
+User-agent: Perplexity-User
+User-agent: Google-Agent
+User-agent: Amzn-User
+User-agent: meta-externalfetcher
+User-agent: MistralAI-User
+User-agent: Kimi-User
+User-agent: ExaUser
+# Model training, research and grounding (Google-Extended and Applebot-Extended are control tokens)
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: Google-CloudVertexBot
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: meta-externalagent
+User-agent: Amazonbot
+User-agent: MistralAI-Training
+User-agent: KimiBot
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+
+# AI-training usage preference (IETF draft-kelley-aipref-training-preference-signal-00).
+# Allow states a preference in favour of AI training. The * group never matches this token.
+User-agent: __usage_ai-training
 Allow: /
 
 Sitemap: https://awesomecua.com/sitemap.xml

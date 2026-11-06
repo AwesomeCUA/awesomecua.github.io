@@ -18,7 +18,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -35,6 +35,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:02:05Z",
+      "role": "primary",
+      "sha256": "c49404f2b2e210c30a4888bf384a5a168e07ba7943155fba5efa37e08035ff6d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2510.10909%2C2510.10991%2C2510.11144%2C2510.11221%2C2510.12798%2C2510.13913%2C2510.14276%2C2510.14308%2C2510.14438%2C2510.14513%2C2510.14545%2C2510.14969%2C2510.15863%2C2510.16156%2C2510.16720%2C2510.17017%2C2510.17800%2C2510.18314%2C2510.18596%2C2510.19207%2C2510.19245%2C2510.19247%2C2510.19386%2C2510.19838%2C2510.19864%2C2510.20333%2C2510.20707%2C2510.21652%2C2510.22102%2C2510.22443%2C2510.22732%2C2510.22936%2C2510.23458%2C2510.23519%2C2510.23730%2C2510.23883%2C2510.24284%2C2510.24699%2C2510.24702%2C2510.25726%2C2510.26098%2C2510.26328%2C2510.26789%2C2510.27135%2C2510.27410%2C2511.00153%2C2511.02650%2C2511.02687%2C2511.02805%2C2511.03628&max_results=50"
     }
   ],
   "id": "arxiv:2510.11221",
@@ -42,7 +58,7 @@
     "arxiv": "2510.11221"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-16T06:36:47Z",
+  "last_verified_at": "2026-11-05T23:02:05Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -51,18 +67,21 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2510.11221"
     }
   ],
   "name": "WebRouter: Query-specific Router via Variational Information Bottleneck for Cost-sensitive Web Agent",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Experiments cover five websites from WebVoyager. Experiments, reported performance and artifact availability have not been independently reproduced.",
   "published_at": "2025-10-13",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces WebRouter, a cost-aware router that compresses web-agent prompts to choose among LLMs, with cost and accuracy measured on WebVoyager websites.",
+  "topics": [
+    "efficiency",
+    "web-navigation"
+  ],
   "updated_at": "2025-10-13",
   "url": "https://arxiv.org/abs/2510.11221"
 }

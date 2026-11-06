@@ -2761,6 +2761,64 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.04452v3",
+    "archive": "arXiv",
+    "archive_location": "2510.04452",
+    "author": [
+      {
+        "literal": "Jenny T. Liang"
+      },
+      {
+        "literal": "Titus Barik"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      },
+      {
+        "literal": "Eldon Schoop"
+      },
+      {
+        "literal": "Ruijia Cheng"
+      }
+    ],
+    "citation-key": "arxiv_2510_04452",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "15bc41d6223eb659fd4d99cb55b83b1dc60cdc98cf990cb641311ab1879c841f",
+        "submitted_at": "2025-10-06T02:58:42Z",
+        "updated_at": "2026-07-28T07:01:45Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.04452v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.04452",
+      "catalog_id": "arxiv:2510.04452",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-06",
+      "identifiers": {
+        "arxiv": "2510.04452"
+      },
+      "record_updated_at": "2026-07-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.04452",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-06; Recorded arXiv version: v3; Recorded version updated: 2026-07-28T07:01:45Z.",
+    "title": "Understanding User Experiences of Computer Use Agents: Design Space and Opportunities for Building Agent UX Prototypes",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.07988v1",
     "archive": "arXiv",
     "archive_location": "2510.07988",
@@ -2820,6 +2878,240 @@
     "title": "ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.10049v1",
+    "archive": "arXiv",
+    "archive_location": "2510.10049",
+    "author": [
+      {
+        "literal": "Jiawen Li"
+      },
+      {
+        "literal": "Zheng Ning"
+      },
+      {
+        "literal": "Yuan Tian"
+      },
+      {
+        "literal": "Toby Jia-jun Li"
+      }
+    ],
+    "citation-key": "arxiv_2510_10049",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8bcc376559a7f97063decb38fdd86f20bbe2024ea633a1b3754917e033c82fee",
+        "submitted_at": "2025-10-11T06:30:34Z",
+        "updated_at": "2025-10-11T06:30:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.10049v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.10049",
+      "catalog_id": "arxiv:2510.10049",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-11",
+      "identifiers": {
+        "arxiv": "2510.10049"
+      },
+      "record_updated_at": "2025-10-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.10049",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-11; Recorded arXiv version: v1; Recorded version updated: 2025-10-11T06:30:34Z.",
+    "title": "ALLOY: Generating Reusable Agent Workflows from User Demonstration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.14513v3",
+    "archive": "arXiv",
+    "archive_location": "2510.14513",
+    "author": [
+      {
+        "literal": "Juheon Choi"
+      },
+      {
+        "literal": "Juyong Lee"
+      },
+      {
+        "literal": "Jian Kim"
+      },
+      {
+        "literal": "Chanyoung Kim"
+      },
+      {
+        "literal": "Taywon Min"
+      },
+      {
+        "literal": "W. Bradley Knox"
+      },
+      {
+        "literal": "Min Kyung Lee"
+      },
+      {
+        "literal": "Kimin Lee"
+      }
+    ],
+    "citation-key": "arxiv_2510_14513",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ac902743c35419bd79603e55bc8a0cf47028e1974cd07ff43c3c0ada6f3a661a",
+        "submitted_at": "2025-10-16T09:57:35Z",
+        "updated_at": "2026-03-02T09:08:04Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.14513v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.14513",
+      "catalog_id": "arxiv:2510.14513",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-16",
+      "identifiers": {
+        "arxiv": "2510.14513"
+      },
+      "record_updated_at": "2026-03-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.14513",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-16; Recorded arXiv version: v3; Recorded version updated: 2026-03-02T09:08:04Z.",
+    "title": "State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.19386v2",
+    "archive": "arXiv",
+    "archive_location": "2510.19386",
+    "author": [
+      {
+        "literal": "Ning Li"
+      },
+      {
+        "literal": "Qiqiang Lin"
+      },
+      {
+        "literal": "Zheng Wu"
+      },
+      {
+        "literal": "Xiaoyun Mo"
+      },
+      {
+        "literal": "Weiming Zhang"
+      },
+      {
+        "literal": "Yin Zhao"
+      },
+      {
+        "literal": "Xiangmou Qu"
+      },
+      {
+        "literal": "Jiamu Zhou"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Congmin Zheng"
+      },
+      {
+        "literal": "Yuanyi Song"
+      },
+      {
+        "literal": "Hongjiang Chen"
+      },
+      {
+        "literal": "Heyuan Huang"
+      },
+      {
+        "literal": "Jihong Wang"
+      },
+      {
+        "literal": "Jiaxin Yin"
+      },
+      {
+        "literal": "Jingwei Yu"
+      },
+      {
+        "literal": "Junwei Liao"
+      },
+      {
+        "literal": "Qiuying Peng"
+      },
+      {
+        "literal": "Xingyu Lou"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Weiwen Liu"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      },
+      {
+        "literal": "Weinan Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2510_19386",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d2ccedef5abd1b7219b1f0e05e4532519aed811de02eb763cfc4452a131444da",
+        "submitted_at": "2025-10-22T09:02:48Z",
+        "updated_at": "2025-10-24T07:32:03Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.19386v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.19386",
+      "catalog_id": "arxiv:2510.19386",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-22",
+      "identifiers": {
+        "arxiv": "2510.19386"
+      },
+      "record_updated_at": "2025-10-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.19386",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-22; Recorded arXiv version: v2; Recorded version updated: 2025-10-24T07:32:03Z.",
+    "title": "ColorAgent: Building A Robust, Personalized, and Interactive OS Agent",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2512.01174v1",
@@ -3387,6 +3679,76 @@
     "title": "A11y-CUA Dataset: Characterizing the Accessibility Gap in Computer Use Agents",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.10525v2",
+    "archive": "arXiv",
+    "archive_location": "2602.10525",
+    "author": [
+      {
+        "literal": "George Pu"
+      },
+      {
+        "literal": "Michael S. Lee"
+      },
+      {
+        "literal": "Udari Madhushani Sehwag"
+      },
+      {
+        "literal": "David J. Lee"
+      },
+      {
+        "literal": "Bryan Zhu"
+      },
+      {
+        "literal": "Yash Maurya"
+      },
+      {
+        "literal": "Mohit Raghavendra"
+      },
+      {
+        "literal": "Yuan Xue"
+      },
+      {
+        "literal": "Samuel Marc Denton"
+      }
+    ],
+    "citation-key": "arxiv_2602_10525",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "15c13bf220b8178b66da9151e013afd08d6b61cf029e4feed7c13a74202dbf0f",
+        "submitted_at": "2026-02-11T04:49:50Z",
+        "updated_at": "2026-03-20T17:00:33Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.10525v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.10525",
+      "catalog_id": "arxiv:2602.10525",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-02-11",
+      "identifiers": {
+        "arxiv": "2602.10525"
+      },
+      "record_updated_at": "2026-03-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.10525",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-11; Recorded arXiv version: v2; Recorded version updated: 2026-03-20T17:00:33Z.",
+    "title": "LHAW: Controllable Underspecification for Long-Horizon Tasks",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2602.11750v1",

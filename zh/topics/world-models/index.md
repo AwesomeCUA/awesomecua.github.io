@@ -42,6 +42,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   Compares mobile world models that predict state changes as delta text, full text, images or renderable code. Downstream Android benchmarks examine synthetic training trajectories and test-time guidance, including limits of post-action reflection.
 - [Computer-Using World Model](https://awesomecua.com/resources/arxiv-2602-17365/) — 2026-02-19
   Presents a desktop world model that predicts textual UI changes before synthesizing the next screenshot. It learns from Microsoft Office transitions and is evaluated by letting a frozen agent compare simulated actions before execution.
+- [World-Model-Augmented Web Agents with Action Correction](https://awesomecua.com/resources/arxiv-2602-15384/) — 2026-02-17
+  WAC has a web-agent action model consult a world model, simulate action outcomes and use judge feedback to correct actions before execution.
 - [WebWorld: A Large-Scale World Model for Web Agent Training](https://awesomecua.com/resources/arxiv-2602-14721/) — 2026-02-16
   Introduces WebWorld, an open-web simulator trained on interaction trajectories for generating agent training data and testing candidate actions. WebWorld-Bench evaluates simulated transitions, alongside downstream web-agent training experiments.
 - [UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics](https://awesomecua.com/resources/arxiv-2604-02345/) — 2026-02-11
@@ -60,10 +62,20 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   MobileDreamer predicts post-action GUI states as task-relevant textual sketches with an order-invariant learning objective. Agents use these predictions for lookahead action selection, evaluated on AndroidWorld.
 - [MobileWorldBench: Towards Semantic World Modeling For Mobile Agents](https://awesomecua.com/resources/arxiv-2512-14014/) — 2025-12-16
   Evaluates semantic world models for mobile interfaces and studies natural-language state transitions as a tool for agent planning.
+- [Scaling Agent Learning via Experience Synthesis](https://awesomecua.com/resources/arxiv-2511-03773/) — 2025-11-05
+  DreamGym synthesizes agent experiences with a reasoning-based environment model for online RL; its evaluations include the web task setting WebArena.
+- [WebATLAS: An LLM Agent with Experience-Driven Memory and Action Simulation](https://awesomecua.com/resources/arxiv-2510-22732/) — 2025-10-26
+  WebATLAS is a web agent that stores interaction outcomes and simulates candidate actions before acting, using past experience to plan navigation on unseen websites.
+- [LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training](https://awesomecua.com/resources/arxiv-2510-14969/) — 2025-10-16
+  Introduces UI-Simulator, which generates UI states and transitions for agent-training trajectories, and UI-Simulator-Grow, which prioritizes tasks and trajectory variants.
 - [R-WoM: Retrieval-augmented World Model For Computer-use Agents](https://awesomecua.com/resources/arxiv-2510-11892/) — 2025-10-13
   R-WoM evaluates how well world models predict nearby GUI states, align complete procedures, and recognize milestone transitions. It retrieves external tutorials to guide simulated future interactions, with experiments on subsets of OSWorld and WebArena.
+- [UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments](https://awesomecua.com/resources/arxiv-2509-21733/) — 2025-09-26
+  Introduces UISim, an image-based mobile UI simulator that predicts the next screen layout after an action and renders the resulting screen for testing and data generation.
 - [SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience](https://awesomecua.com/resources/arxiv-2508-04700/) — 2025-08-06
   SEAgent explores unfamiliar software using a world-state assessor and an automatically generated task curriculum. It learns from failed and successful interactions through adversarial imitation and GRPO, then combines specialist experience into a generalist agent evaluated on five OSWorld software environments.
+- [General Agentic Planning Through Simulative Reasoning with World Models](https://awesomecua.com/resources/arxiv-2507-23773/) — 2025-07-31
+  Introduces SiRA, an agent architecture that uses a language-based world model to simulate action outcomes for planning in web-browser tasks.
 - [WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis](https://awesomecua.com/resources/arxiv-2507-04370/) — 2025-07-06
   Introduces WebSynthesis, which uses a learned web world model and tree-based planning to synthesize interaction trajectories for training web agents.
 - [ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World](https://awesomecua.com/resources/arxiv-2505-19095/) — 2025-05-25

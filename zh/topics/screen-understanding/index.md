@@ -136,6 +136,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Trifuse combines attention-based localization with OCR text cues and icon captions to ground GUI instructions. Its fusion procedure favors cross-modal agreement and sharp location peaks, and is evaluated without task-specific fine-tuning.
 - [Generative Visual Code Mobile World Models](https://awesomecua.com/resources/arxiv-2602-01576/) — 2026-02-02
   gWorld predicts future mobile GUI states as renderable web code and supplies an automated pipeline for code-based training data. The study evaluates visual state prediction and how stronger world models affect downstream mobile policies.
+- [Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints](https://awesomecua.com/resources/arxiv-2602-07008/) — 2026-01-30
+  Proposes training with subset-based attribution constraints so models attend to intended evidence, evaluated on image classification and GUI-agent click decisions.
 - [GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents](https://awesomecua.com/resources/arxiv-2601-09770/) — 2026-01-14
   GUI-Eyes trains GUI grounders to decide when and how to use visual tools such as crops and zooms. Its coarse-to-fine policy uses dense spatial rewards based on location proximity and region overlap, with evaluation on ScreenSpot-Pro.
 - [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](https://awesomecua.com/resources/arxiv-2601-03928/) — 2026-01-07
@@ -154,10 +156,16 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Introduces MEGA-GUI, which separates coarse region selection from fine-grained interface-element grounding. Bidirectional zooming and context-aware instruction rewriting coordinate specialized vision-language agents across visual scales.
 - [GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding](https://awesomecua.com/resources/arxiv-2511-00810/) — 2025-11-02
   Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
+- [GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks](https://awesomecua.com/resources/arxiv-2510-26098/) — 2025-10-30
+  GUI Knowledge Bench tests knowledge of widgets, interactions, and procedures across six named platforms and 292 applications to assess VLMs used for GUI tasks.
 - [GUIrilla: A Scalable Framework for Automated Desktop UI Exploration](https://awesomecua.com/resources/arxiv-2510-16051/) — 2025-10-16
   GUIrilla systematically explores macOS interfaces to collect interaction traces and accessibility metadata for downstream GUI research. It organizes these observations into hierarchical MacApp Trees and describes an accessibility-driven collection library.
+- [State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living](https://awesomecua.com/resources/arxiv-2510-14513/) — 2025-10-16
+  Introduces an assistant that reads screenshots, application titles, and URLs to compare computer activity with a user's stated intention and send notifications when it diverges.
 - [Improving GUI Grounding with Explicit Position-to-Coordinate Mapping](https://awesomecua.com/resources/arxiv-2510-03230/) — 2025-10-03
   This work addresses GUI localization errors caused by mismatches between visual patch positions and output pixel coordinates. RULER tokens provide explicit coordinate references, while Interleaved MRoPE balances width and height encoding; evaluation uses the ScreenSpot benchmark family.
+- [FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents](https://awesomecua.com/resources/arxiv-2510-03204/) — 2025-10-03
+  Introduces FocusAgent, which uses a lightweight LLM to select task-relevant lines from web agents' accessibility-tree observations, reducing context size and exposure to prompt injection.
 - [GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness](https://awesomecua.com/resources/arxiv-2510-00536/) — 2025-10-01
   GUI-KV compresses vision-language agents’ attention caches using visual-token saliency and redundancy between screenshot frames. The method requires no retraining and evaluates how cache budgets affect GUI action accuracy and computational cost.
 - [GUI-PRA: Process Reward Agent for GUI Tasks](https://awesomecua.com/resources/arxiv-2509-23263/) — 2025-09-27
@@ -172,6 +180,14 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Introduces SparkUI-Parser, which adds continuous coordinate decoding and a rejection mechanism for nonexistent targets to a multimodal model. It also presents ScreenParse for evaluating structural interface perception.
 - [Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding](https://awesomecua.com/resources/arxiv-2509-04243/) — 2025-09-04
   LASER builds preference data for multi-step GUI perception by combining Monte Carlo quality estimates with region-overlap evaluation. Its self-evolving training encourages relevant region selection and adapts the amount of reasoning before predicting screen coordinates.
+- [PG-Agent: An Agent Powered by Page Graph](https://awesomecua.com/resources/arxiv-2509-03536/) — 2025-08-27
+  Introduces PG-Agent, which turns GUI operation episodes into page graphs and retrieves guidance from them to support task decomposition in new scenarios.
+- [DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards](https://awesomecua.com/resources/arxiv-2508-17398/) — 2025-08-24
+  Introduces DashboardQA to evaluate how vision-language GUI agents answer questions by interacting with dashboards, grounding elements, and planning actions.
+- [WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation](https://awesomecua.com/resources/arxiv-2508-16763/) — 2025-08-22
+  Introduces WebMMU, a multilingual benchmark for website visual question answering, element grounding, code editing, and mockup-to-code generation.
+- [Structuring GUI Elements through Vision Language Models: Towards Action Space Generation](https://awesomecua.com/resources/arxiv-2508-16271/) — 2025-08-22
+  Introduces IAML training, which augments coordinate samples to help multimodal models locate GUI elements from screen content and user instructions.
 - [V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking](https://awesomecua.com/resources/arxiv-2508-13634/) — 2025-08-19
   V2P trains GUI grounding by suppressing attention to background regions and emphasizing the center of the target element. It represents target importance with size-dependent Gaussian heatmaps and evaluates the contribution of each component on ScreenSpot-v2 and ScreenSpot-Pro.
 - [FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents](https://awesomecua.com/resources/arxiv-2508-09241/) — 2025-08-12
@@ -182,6 +198,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   RecAgent narrows attention to recommended UI components and requests user feedback when task intent or decisions remain uncertain. It introduces ComplexAction to evaluate specified single-step GUI actions in difficult interface scenarios.
 - [Phi-Ground Tech Report: Advancing Perception in GUI Grounding](https://awesomecua.com/resources/arxiv-2507-23779/) — 2025-07-31
   Reports a GUI-grounding model family and empirical design choices covering source data, perception training, and coordinate prediction.
+- [Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation](https://awesomecua.com/resources/arxiv-2507-16704/) — 2025-07-22
+  Introduces Screen2AX, which creates hierarchical accessibility metadata from macOS screenshots, plus datasets and Screen2AX-Task for desktop-agent evaluation.
 - [A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images](https://awesomecua.com/resources/arxiv-2507-10202/) — 2025-07-14
   Introduces Extract Candidate then Predict (ECP), a training-free two-stage method for high-resolution images, evaluated partly on 4K GUI grounding.
 - [R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding](https://awesomecua.com/resources/arxiv-2507-05673/) — 2025-07-08

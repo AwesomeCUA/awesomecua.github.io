@@ -38,6 +38,10 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   This work retrieves online video tutorials and converts them into structured GUI action demonstrations with short objectives. A two-stage selection process supplies a relevant local trajectory as in-context guidance at each execution step.
 - [VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos](https://awesomecua.com/resources/arxiv-2510-19488/) — 2025-10-22
   Extracts structured GUI actions from screen-recorded tutorials using inverse dynamics, then uses the inferred trajectories for computer-use training.
+- [Watch and Learn: Learning to Use Computers from Online Videos](https://awesomecua.com/resources/arxiv-2510-04673/) — 2025-10-06
+  Introduces Watch & Learn (W&L), which converts human computer-use videos into UI action trajectories by predicting actions between consecutive screen states.
+- [MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents](https://awesomecua.com/resources/arxiv-2508-13186/) — 2025-08-14
+  Introduces MM-BrowseComp, a benchmark for browsing agents that must use evidence from web images and videos to answer multimodal search questions.
 - [VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video](https://awesomecua.com/resources/arxiv-2505-24838/) — 2025-05-30
   Introduces synthetic CAD interaction videos, a model for learning interface actions from video, and evaluation tasks for spatial and long-horizon reasoning.
 - [Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents](https://awesomecua.com/resources/arxiv-2505-12632/) — 2025-05-19

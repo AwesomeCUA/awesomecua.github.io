@@ -244,6 +244,67 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2508.00935v3",
+    "archive": "arXiv",
+    "archive_location": "2508.00935",
+    "author": [
+      {
+        "literal": "Aaron Xuxiang Tian"
+      },
+      {
+        "literal": "Ruofan Zhang"
+      },
+      {
+        "literal": "Janet Tang"
+      },
+      {
+        "literal": "Ji Wang"
+      },
+      {
+        "literal": "Tianyu Shi"
+      },
+      {
+        "literal": "Jiaxin Wen"
+      }
+    ],
+    "citation-key": "arxiv_2508_00935",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6edb459a166897cbf878eea707817ba2f89c32968076ec14860fe0a619c33ddb",
+        "submitted_at": "2025-07-31T07:02:19Z",
+        "updated_at": "2026-09-03T03:59:53Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2508.00935v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.00935",
+      "catalog_id": "arxiv:2508.00935",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-31",
+      "identifiers": {
+        "arxiv": "2508.00935"
+      },
+      "record_updated_at": "2026-09-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.00935",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-31; Recorded arXiv version: v3; Recorded version updated: 2026-09-03T03:59:53Z.",
+    "title": "Measuring Harmfulness of Computer-Using Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2508.09241v1",
     "archive": "arXiv",
     "archive_location": "2508.09241",
@@ -395,6 +456,73 @@
     },
     "note": "First published: 2025-08-17; Recorded arXiv version: v1; Recorded version updated: 2025-08-17T07:31:11Z.",
     "title": "You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.19461v1",
+    "archive": "arXiv",
+    "archive_location": "2508.19461",
+    "author": [
+      {
+        "literal": "Neil Kale"
+      },
+      {
+        "literal": "Chen Bo Calvin Zhang"
+      },
+      {
+        "literal": "Kevin Zhu"
+      },
+      {
+        "literal": "Ankit Aich"
+      },
+      {
+        "literal": "Paula Rodriguez"
+      },
+      {
+        "literal": "Scale Red Team"
+      },
+      {
+        "literal": "Christina Q. Knight"
+      },
+      {
+        "literal": "Zifan Wang"
+      }
+    ],
+    "citation-key": "arxiv_2508_19461",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "72df2a296e56817a4bd0813d26f934254364a969a35c55f52496dbb793209ea6",
+        "submitted_at": "2025-08-26T22:29:31Z",
+        "updated_at": "2025-08-26T22:29:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2508.19461v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.19461",
+      "catalog_id": "arxiv:2508.19461",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-26",
+      "identifiers": {
+        "arxiv": "2508.19461"
+      },
+      "record_updated_at": "2025-08-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.19461",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-26; Recorded arXiv version: v1; Recorded version updated: 2025-08-26T22:29:31Z.",
+    "title": "Reliable Weak-to-Strong Monitoring of LLM Agents",
     "type": "article",
     "version": "1"
   },
@@ -576,6 +704,204 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.02204v1",
+    "archive": "arXiv",
+    "archive_location": "2510.02204",
+    "author": [
+      {
+        "literal": "Lingzhong Dong"
+      },
+      {
+        "literal": "Ziqi Zhou"
+      },
+      {
+        "literal": "Shuaibo Yang"
+      },
+      {
+        "literal": "Haiyue Sheng"
+      },
+      {
+        "literal": "Pengzhou Cheng"
+      },
+      {
+        "literal": "Zongru Wu"
+      },
+      {
+        "literal": "Zheng Wu"
+      },
+      {
+        "literal": "Gongshen Liu"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2510_02204",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cef1e2bf8449f4a79585492074cc80536b0af7c6e4d87c823de7005f888ec377",
+        "submitted_at": "2025-10-02T16:51:19Z",
+        "updated_at": "2025-10-02T16:51:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.02204v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.02204",
+      "catalog_id": "arxiv:2510.02204",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-02",
+      "identifiers": {
+        "arxiv": "2510.02204"
+      },
+      "record_updated_at": "2025-10-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.02204",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-02; Recorded arXiv version: v1; Recorded version updated: 2025-10-02T16:51:19Z.",
+    "title": "Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.04791v1",
+    "archive": "arXiv",
+    "archive_location": "2510.04791",
+    "author": [
+      {
+        "literal": "Kristian Kolthoff"
+      },
+      {
+        "literal": "Felix Kretzer"
+      },
+      {
+        "literal": "Simone Paolo Ponzetto"
+      },
+      {
+        "literal": "Alexander Maedche"
+      },
+      {
+        "literal": "Christian Bartelt"
+      }
+    ],
+    "citation-key": "arxiv_2510_04791",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5c4f2ff20a1742936e07f3be9ca646e6467768faac7ff80f4e3612933aa4cd1f",
+        "submitted_at": "2025-10-06T13:15:24Z",
+        "updated_at": "2025-10-06T13:15:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.04791v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.04791",
+      "catalog_id": "arxiv:2510.04791",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-06",
+      "identifiers": {
+        "arxiv": "2510.04791"
+      },
+      "record_updated_at": "2025-10-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.04791",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-06; Recorded arXiv version: v1; Recorded version updated: 2025-10-06T13:15:24Z.",
+    "title": "GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.05137v3",
+    "archive": "arXiv",
+    "archive_location": "2510.05137",
+    "author": [
+      {
+        "literal": "Maojia Song"
+      },
+      {
+        "literal": "Renhang Liu"
+      },
+      {
+        "literal": "Xinyu Wang"
+      },
+      {
+        "literal": "Yong Jiang"
+      },
+      {
+        "literal": "Pengjun Xie"
+      },
+      {
+        "literal": "Fei Huang"
+      },
+      {
+        "literal": "Jingren Zhou"
+      },
+      {
+        "literal": "Dorien Herremans"
+      },
+      {
+        "literal": "Soujanya Poria"
+      }
+    ],
+    "citation-key": "arxiv_2510_05137",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ac83ccd382e73778ac6834bb4bed22fc84ceb78f88a9f0026392b2ad965c8bcf",
+        "submitted_at": "2025-10-01T07:59:03Z",
+        "updated_at": "2025-12-10T06:18:13Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.05137v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.05137",
+      "catalog_id": "arxiv:2510.05137",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-01",
+      "identifiers": {
+        "arxiv": "2510.05137"
+      },
+      "record_updated_at": "2025-12-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.05137",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-01; Recorded arXiv version: v3; Recorded version updated: 2025-12-10T06:18:13Z.",
+    "title": "Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.19205v1",
     "archive": "arXiv",
     "archive_location": "2510.19205",
@@ -652,6 +978,79 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.20333v3",
+    "archive": "arXiv",
+    "archive_location": "2510.20333",
+    "author": [
+      {
+        "literal": "Chiyu Chen"
+      },
+      {
+        "literal": "Xinhao Song"
+      },
+      {
+        "literal": "Yunkai Chai"
+      },
+      {
+        "literal": "Yang Yao"
+      },
+      {
+        "literal": "Haodong Zhao"
+      },
+      {
+        "literal": "Lijun Li"
+      },
+      {
+        "literal": "Jie Li"
+      },
+      {
+        "literal": "Yan Teng"
+      },
+      {
+        "literal": "Gongshen Liu"
+      },
+      {
+        "literal": "Yingchun Wang"
+      }
+    ],
+    "citation-key": "arxiv_2510_20333",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8582fa41bb5f4d5c464c3bb74285a4ef17545cde34e48e4a1b36cd35937337ae",
+        "submitted_at": "2025-10-23T08:33:24Z",
+        "updated_at": "2026-03-05T06:51:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.20333v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.20333",
+      "catalog_id": "arxiv:2510.20333",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-23",
+      "identifiers": {
+        "arxiv": "2510.20333"
+      },
+      "record_updated_at": "2026-03-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.20333",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-23; Recorded arXiv version: v3; Recorded version updated: 2026-03-05T06:51:24Z.",
+    "title": "GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2511.09157v1",
     "archive": "arXiv",
     "archive_location": "2511.09157",
@@ -712,6 +1111,70 @@
     },
     "note": "First published: 2025-11-12; Recorded arXiv version: v1; Recorded version updated: 2025-11-12T09:49:31Z.",
     "title": "ProBench: Benchmarking GUI Agents with Accurate Process Information",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2511.09309v1",
+    "archive": "arXiv",
+    "archive_location": "2511.09309",
+    "author": [
+      {
+        "literal": "Yiwen Yin"
+      },
+      {
+        "literal": "Zhian Hu"
+      },
+      {
+        "literal": "Xiaoxi Xu"
+      },
+      {
+        "literal": "Chun Yu"
+      },
+      {
+        "literal": "Xintong Wu"
+      },
+      {
+        "literal": "Wenyu Fan"
+      },
+      {
+        "literal": "Yuanchun Shi"
+      }
+    ],
+    "citation-key": "arxiv_2511_09309",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ad8bba83f1e3ee7dbd0d062906bf6cb0d65d005fa7e8d8a95bb8b986dd45dcf2",
+        "submitted_at": "2025-11-12T13:20:35Z",
+        "updated_at": "2025-11-12T13:20:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2511.09309v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.09309",
+      "catalog_id": "arxiv:2511.09309",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-11-12",
+      "identifiers": {
+        "arxiv": "2511.09309"
+      },
+      "record_updated_at": "2025-11-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.09309",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-12; Recorded arXiv version: v1; Recorded version updated: 2025-11-12T13:20:35Z.",
+    "title": "TaskSense: Cognitive Chain Modeling and Difficulty Estimation for GUI Tasks",
     "type": "article",
     "version": "1"
   },
@@ -848,6 +1311,64 @@
     "title": "MobiBench: Multi-Branch, Modular Benchmark for Mobile GUI Agents",
     "type": "article",
     "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.14364v1",
+    "archive": "arXiv",
+    "archive_location": "2602.14364",
+    "author": [
+      {
+        "literal": "Tianyu Chen"
+      },
+      {
+        "literal": "Dongrui Liu"
+      },
+      {
+        "literal": "Xia Hu"
+      },
+      {
+        "literal": "Jingyi Yu"
+      },
+      {
+        "literal": "Wenjie Wang"
+      }
+    ],
+    "citation-key": "arxiv_2602_14364",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2ec0af138b01a510eabe6a062c077b1ae4ee02cfd5ba46b8fa40cf1b77c3f2ca",
+        "submitted_at": "2026-02-16T00:33:02Z",
+        "updated_at": "2026-02-16T00:33:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.14364v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.14364",
+      "catalog_id": "arxiv:2602.14364",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-02-16",
+      "identifiers": {
+        "arxiv": "2602.14364"
+      },
+      "record_updated_at": "2026-02-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.14364",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-16; Recorded arXiv version: v1; Recorded version updated: 2026-02-16T00:33:02Z.",
+    "title": "A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2603.10577v2",

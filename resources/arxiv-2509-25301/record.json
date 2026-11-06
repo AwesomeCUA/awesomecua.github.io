@@ -43,6 +43,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:02:00Z",
+      "role": "primary",
+      "sha256": "2343ea50b1761631c89f41f46494ffa8b9c95a6d6b1cf95d58720bf26271ce29",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2509.14547%2C2509.14744%2C2509.15061%2C2509.15237%2C2509.17336%2C2509.19185%2C2509.19199%2C2509.21072%2C2509.21291%2C2509.21733%2C2509.21766%2C2509.21799%2C2509.22644%2C2509.22715%2C2509.22830%2C2509.23694%2C2509.23738%2C2509.24704%2C2509.25301%2C2509.25455%2C2509.25693%2C2510.00078%2C2510.00172%2C2510.00507%2C2510.00515%2C2510.02190%2C2510.02204%2C2510.02608%2C2510.03204%2C2510.03485%2C2510.03612%2C2510.04452%2C2510.04491%2C2510.04536%2C2510.04673%2C2510.04791%2C2510.05096%2C2510.05137%2C2510.05156%2C2510.05788%2C2510.06223%2C2510.06607%2C2510.07284%2C2510.07532%2C2510.07915%2C2510.08787%2C2510.09116%2C2510.09517%2C2510.10049%2C2510.10587&max_results=50"
     }
   ],
   "id": "arxiv:2509.25301",
@@ -50,7 +66,7 @@
     "arxiv": "2509.25301"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-16T06:36:47Z",
+  "last_verified_at": "2026-11-05T23:02:00Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -59,18 +75,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2509.25301"
     }
   ],
   "name": "Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The abstract describes general tool-based reasoning and deep-search evaluations, without a specific browser interaction method. Experiments, reported performance and artifact availability have not been independently reproduced.",
   "published_at": "2025-09-29",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Introduces Flash-Searcher, a parallel agent framework that organizes dependent subtasks as a graph and runs independent paths concurrently; it is evaluated on deep-search benchmarks.",
+  "topics": [
+    "efficiency",
+    "planning",
+    "workflow"
+  ],
   "updated_at": "2025-09-29",
   "url": "https://arxiv.org/abs/2509.25301"
 }

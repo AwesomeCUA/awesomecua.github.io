@@ -467,6 +467,137 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.04536v1",
+    "archive": "arXiv",
+    "archive_location": "2510.04536",
+    "author": [
+      {
+        "literal": "Shun-ichiro Hayashi"
+      },
+      {
+        "literal": "Daichi Mukunoki"
+      },
+      {
+        "literal": "Tetsuya Hoshino"
+      },
+      {
+        "literal": "Satoshi Ohshima"
+      },
+      {
+        "literal": "Takahiro Katagiri"
+      }
+    ],
+    "citation-key": "arxiv_2510_04536",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1d190c586a2b20a2fd7d1ed0b963c05da560f923de466de25235e37cbede6a20",
+        "submitted_at": "2025-10-06T07:00:06Z",
+        "updated_at": "2025-10-06T07:00:06Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.04536v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.04536",
+      "catalog_id": "arxiv:2510.04536",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-06",
+      "identifiers": {
+        "arxiv": "2510.04536"
+      },
+      "record_updated_at": "2025-10-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.04536",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-06; Recorded arXiv version: v1; Recorded version updated: 2025-10-06T07:00:06Z.",
+    "title": "3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.19247v1",
+    "archive": "arXiv",
+    "archive_location": "2510.19247",
+    "author": [
+      {
+        "literal": "Ziwei Wang"
+      },
+      {
+        "literal": "Jiayuan Su"
+      },
+      {
+        "literal": "Mengyu Zhou"
+      },
+      {
+        "literal": "Huaxing Zeng"
+      },
+      {
+        "literal": "Mengni Jia"
+      },
+      {
+        "literal": "Xiao Lv"
+      },
+      {
+        "literal": "Haoyu Dong"
+      },
+      {
+        "literal": "Xiaojun Ma"
+      },
+      {
+        "literal": "Shi Han"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2510_19247",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e443bf41effee1ff02b35f973d5a412ea86298757f35c9c0068fa6cc172b21f1",
+        "submitted_at": "2025-10-22T05:09:44Z",
+        "updated_at": "2025-10-22T05:09:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.19247v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.19247",
+      "catalog_id": "arxiv:2510.19247",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-22",
+      "identifiers": {
+        "arxiv": "2510.19247"
+      },
+      "record_updated_at": "2025-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.19247",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T05:09:44Z.",
+    "title": "SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoning over Complex and Large Spreadsheets",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.02399v1",
     "archive": "arXiv",
     "archive_location": "2601.02399",

@@ -1,20 +1,20 @@
 # SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization
 
-Bibliographic record for SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+SSL uses progressively tiered rewards for agent training, including distance-based guidance on GUI perception tasks alongside planning and reasoning tasks.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2601-22491/
 - Original source: https://arxiv.org/abs/2601.22491
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:32:55Z
+- Topics: reinforcement-learning, reward-models, efficiency
+- Evidence checked: 2026-11-05T23:02:29Z
 - ID: arxiv:2601.22491
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). GUI perception is one of several task types used to evaluate this general agent-training method. Experiments, reported performance and artifact availability have not been independently reproduced.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-22491/record.json
 
@@ -46,3 +46,4 @@ Jinyang Wu, Changpeng Yang, Yuhao Shen, Fangzhi Xu, Bolin Ni, Chonghua Liao, Yuc
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2511.13091%2C2511.21398%2C2511.22235%2C2512.00756%2C2512.00846%2C2512.01174%2C2512.01763%2C2512.02423%2C2512.04105%2C2512.05941%2C2512.07725%2C2512.09396%2C2512.11611%2C2512.12692%2C2512.17221%2C2512.19396%2C2512.21302%2C2512.22009%2C2512.22047%2C2512.22322%2C2512.23128%2C2601.02371%2C2601.02439%2C2601.03641%2C2601.04035%2C2601.04126%2C2601.04500%2C2601.05787%2C2601.06899%2C2601.08605%2C2601.09636%2C2601.09770%2C2601.11631%2C2601.12349%2C2601.16356%2C2601.17418%2C2601.18197%2C2601.18305%2C2601.19199%2C2601.20732%2C2601.21352%2C2601.21872%2C2601.21961%2C2601.22149%2C2601.22491%2C2601.22528%2C2602.02468%2C2602.05354%2C2602.06090%2C2602.06351&max_results=50 (retrieved 2026-10-16T06:32:55Z; SHA-256 e6061c8dd9c00a70fcf1d4325b671c50a6912063ecbe2b6359175ae4622983a0)
+- https://export.arxiv.org/api/query?id_list=2601.10758%2C2601.11044%2C2601.11653%2C2601.11868%2C2601.11895%2C2601.11903%2C2601.11974%2C2601.12042%2C2601.12307%2C2601.12449%2C2601.12560%2C2601.12641%2C2601.13186%2C2601.13383%2C2601.13462%2C2601.14232%2C2601.15331%2C2601.16206%2C2601.16956%2C2601.17548%2C2601.18113%2C2601.18418%2C2601.18491%2C2601.18827%2C2601.19923%2C2601.20162%2C2601.20171%2C2601.20613%2C2601.20742%2C2601.21233%2C2601.21841%2C2601.22037%2C2601.22154%2C2601.22352%2C2601.22491%2C2601.22511%2C2601.22607%2C2601.22770%2C2602.01443%2C2602.01550%2C2602.03117%2C2602.03255%2C2602.05665%2C2602.05746%2C2602.05877%2C2602.06052%2C2602.06090%2C2602.06485%2C2602.06663%2C2602.07008&max_results=50 (retrieved 2026-11-05T23:02:29Z; SHA-256 250035ccb17077dd636d97f36146c3b2773879e07f5eccc4bb7a13c8fb2d5586)

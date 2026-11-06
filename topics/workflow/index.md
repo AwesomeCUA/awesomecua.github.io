@@ -112,20 +112,40 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   CareFlow benchmarks long healthcare-software workflows, while CarePilot coordinates action proposals, execution checks and corrective feedback using short- and long-term memory. Its actor consumes visual interfaces and system state to select semantic actions.
 - [EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://awesomecua.com/resources/arxiv-2602-14865/) — 2026-02-16
   EmbeWebAgent embeds agent access into existing web applications through frontend observations and a page-specific function registry. Its workflow combines GUI primitives, composite actions and MCP tools, demonstrated in a live interface.
+- [A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)](https://awesomecua.com/resources/arxiv-2602-14364/) — 2026-02-16
+  Audits Clawdbot safety through logged action and tool-call trajectories across local execution and web-mediated workflows, using automated and human review.
+- [When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents](https://awesomecua.com/resources/arxiv-2602-08235/) — 2026-02-09
+  AutoElicit iteratively revises benign instructions using execution feedback to surface harmful unintended actions by computer-use agents in OS workflows.
 - [From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use](https://awesomecua.com/resources/arxiv-2601-18092/) — 2026-01-26
   Introduces AskEase, an on-demand assistant that combines contextual information to provide screen-reader-friendly computer-use guidance. A study with screen-reader users evaluates task completion and perceived workload while preserving human control of the interaction.
 - [EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents](https://awesomecua.com/resources/arxiv-2601-17722/) — 2026-01-25
   Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic from database schemas. Long workflows across enterprise domains are assessed with deterministic SQL-based state checks rather than screenshot similarity alone.
+- [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://awesomecua.com/resources/arxiv-2601-11868/) — 2026-01-17
+  Terminal-Bench 2.0 benchmarks agents on 89 workflow-inspired tasks in computer terminal environments, with a distinct environment, human solution and verification tests for each task.
 - [ShowUI-Aloha: Human-Taught GUI Agent](https://awesomecua.com/resources/arxiv-2601-07181/) — 2026-01-12
   Transforms human screen recordings and input events into annotated demonstrations used by planning and execution components for GUI tasks.
 - [Using GUI Agent for Electronic Design Automation](https://awesomecua.com/resources/arxiv-2512-11611/) — 2025-12-12
   GUI-EDA collects more than 2,000 screenshot-answer-action pairs from engineers working across five CAD tools and five physical domains. The accompanying benchmark evaluates more than 30 GUI agents on specialized electronic-design workflows.
 - [UI-CUBE: Enterprise-Grade Computer Use Agent Benchmarking Beyond Task Accuracy to Operational Reliability](https://awesomecua.com/resources/arxiv-2511-17131/) — 2025-11-21
   UI-CUBE evaluates 226 tasks ranging from individual controls to copy-paste and enterprise workflows. Interface variations, multiple resolutions, and application-state validation support diagnosis of operational reliability beyond task accuracy alone.
+- [Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents](https://awesomecua.com/resources/arxiv-2510-24702/) — 2025-10-28
+  The agent data protocol (ADP) provides a shared format for agent training data across browsing, tool use, coding, and other tasks, including web agent workflows.
+- [PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction](https://awesomecua.com/resources/arxiv-2510-15863/) — 2025-10-17
+  Introduces PolySkill, which separates a web-agent skill's goal from its execution so agents can learn and reuse skills across websites.
+- [ReUseIt: Synthesizing Reusable AI Agent Workflows for Web Automation](https://awesomecua.com/resources/arxiv-2510-14308/) — 2025-10-16
+  Introduces ReUseIt, which synthesizes reusable web-agent workflows from successful and failed attempts and adds guards to detect and fix execution errors.
+- [ALLOY: Generating Reusable Agent Workflows from User Demonstration](https://awesomecua.com/resources/arxiv-2510-10049/) — 2025-10-11
+  Introduces ALLOY, which turns user demonstrations into editable, reusable workflows for LLM-based web agents carrying out preference-dependent tasks.
 - [SCUBA: Salesforce Computer Use Benchmark](https://awesomecua.com/resources/arxiv-2509-26506/) — 2025-09-30
   SCUBA evaluates enterprise UI navigation and CRM workflows with 300 task instances derived from Salesforce user interviews. Salesforce sandbox execution and milestone-based assessment support comparisons between zero-shot agents and agents given demonstrations.
+- [Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution](https://awesomecua.com/resources/arxiv-2509-25301/) — 2025-09-29
+  Introduces Flash-Searcher, a parallel agent framework that organizes dependent subtasks as a graph and runs independent paths concurrently; it is evaluated on deep-search benchmarks.
+- [Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration](https://awesomecua.com/resources/arxiv-2509-11067/) — 2025-09-14
+  Introduces Agentic Lybic, a desktop automation system that routes tasks among GUI, code, and decision-support workers using a finite-state machine and evaluator.
 - [MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2509-06477/) — 2025-09-08
   MAS-Bench evaluates mobile agents that combine GUI actions with APIs, deep links, and reusable scripts. Its 139 tasks across 11 apps test use of 88 predefined shortcuts as well as the ability to generate new reusable workflows.
+- [Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows](https://awesomecua.com/resources/arxiv-2509-04198/) — 2025-09-04
+  Compares an agent using computer interfaces with UiPath RPA on enterprise data entry, monitoring, and document extraction, measuring speed, reliability, and development effort.
 - [AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent](https://awesomecua.com/resources/arxiv-2509-02444/) — 2025-09-02
   Describes a mobile-agent stack combining region-based coordinate correction, hierarchical task planning, multi-agent voting, and reuse of successful interaction traces.
 - [AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance](https://awesomecua.com/resources/arxiv-2508-18689/) — 2025-08-26

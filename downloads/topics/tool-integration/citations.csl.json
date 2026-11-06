@@ -2679,6 +2679,79 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2508.21475v3",
+    "archive": "arXiv",
+    "archive_location": "2508.21475",
+    "author": [
+      {
+        "literal": "Xijia Tao"
+      },
+      {
+        "literal": "Yihua Teng"
+      },
+      {
+        "literal": "Xinxing Su"
+      },
+      {
+        "literal": "Xinyu Fu"
+      },
+      {
+        "literal": "Jihao Wu"
+      },
+      {
+        "literal": "Chaofan Tao"
+      },
+      {
+        "literal": "Ziru Liu"
+      },
+      {
+        "literal": "Haoli Bai"
+      },
+      {
+        "literal": "Rui Liu"
+      },
+      {
+        "literal": "Lingpeng Kong"
+      }
+    ],
+    "citation-key": "arxiv_2508_21475",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "56bb6e4a97686941b94ac210bfe8133f06eabb6fa200d1f9a3f9a0906da56f55",
+        "submitted_at": "2025-08-29T09:58:27Z",
+        "updated_at": "2026-03-18T09:07:34Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2508.21475v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.21475",
+      "catalog_id": "arxiv:2508.21475",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-08-29",
+      "identifiers": {
+        "arxiv": "2508.21475"
+      },
+      "record_updated_at": "2026-03-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.21475",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-29; Recorded arXiv version: v3; Recorded version updated: 2026-03-18T09:07:34Z.",
+    "title": "MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.01619v1",
     "archive": "arXiv",
     "archive_location": "2509.01619",
@@ -3201,6 +3274,128 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.11067v2",
+    "archive": "arXiv",
+    "archive_location": "2509.11067",
+    "author": [
+      {
+        "literal": "Liangxuan Guo"
+      },
+      {
+        "literal": "Bin Zhu"
+      },
+      {
+        "literal": "Qingqian Tao"
+      },
+      {
+        "literal": "Kangning Liu"
+      },
+      {
+        "literal": "Xun Zhao"
+      },
+      {
+        "literal": "Xianzhe Qin"
+      },
+      {
+        "literal": "Jin Gao"
+      },
+      {
+        "literal": "Guangfu Hao"
+      }
+    ],
+    "citation-key": "arxiv_2509_11067",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2f6b37031618a03023dc9140ad54b6e1d82dbc619fa53591a92a047591e921db",
+        "submitted_at": "2025-09-14T03:22:27Z",
+        "updated_at": "2025-09-16T02:49:53Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.11067v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.11067",
+      "catalog_id": "arxiv:2509.11067",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-14",
+      "identifiers": {
+        "arxiv": "2509.11067"
+      },
+      "record_updated_at": "2025-09-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.11067",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-14; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T02:49:53Z.",
+    "title": "Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.21072v1",
+    "archive": "arXiv",
+    "archive_location": "2509.21072",
+    "author": [
+      {
+        "literal": "Kaiwen He"
+      },
+      {
+        "literal": "Zhiwei Wang"
+      },
+      {
+        "literal": "Chenyi Zhuang"
+      },
+      {
+        "literal": "Jinjie Gu"
+      }
+    ],
+    "citation-key": "arxiv_2509_21072",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "db39ffa45c147739a737db392b25b1e731e7f4355e993d3df31a227f370323bb",
+        "submitted_at": "2025-09-25T12:23:49Z",
+        "updated_at": "2025-09-25T12:23:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.21072v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.21072",
+      "catalog_id": "arxiv:2509.21072",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-25",
+      "identifiers": {
+        "arxiv": "2509.21072"
+      },
+      "record_updated_at": "2025-09-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.21072",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-25; Recorded arXiv version: v1; Recorded version updated: 2025-09-25T12:23:49Z.",
+    "title": "Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.22256v4",
     "archive": "arXiv",
     "archive_location": "2509.22256",
@@ -3487,6 +3682,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.04536v1",
+    "archive": "arXiv",
+    "archive_location": "2510.04536",
+    "author": [
+      {
+        "literal": "Shun-ichiro Hayashi"
+      },
+      {
+        "literal": "Daichi Mukunoki"
+      },
+      {
+        "literal": "Tetsuya Hoshino"
+      },
+      {
+        "literal": "Satoshi Ohshima"
+      },
+      {
+        "literal": "Takahiro Katagiri"
+      }
+    ],
+    "citation-key": "arxiv_2510_04536",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1d190c586a2b20a2fd7d1ed0b963c05da560f923de466de25235e37cbede6a20",
+        "submitted_at": "2025-10-06T07:00:06Z",
+        "updated_at": "2025-10-06T07:00:06Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.04536v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.04536",
+      "catalog_id": "arxiv:2510.04536",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-06",
+      "identifiers": {
+        "arxiv": "2510.04536"
+      },
+      "record_updated_at": "2025-10-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.04536",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-06; Recorded arXiv version: v1; Recorded version updated: 2025-10-06T07:00:06Z.",
+    "title": "3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.04607v2",
     "archive": "arXiv",
     "archive_location": "2510.04607",
@@ -3535,6 +3788,52 @@
     },
     "note": "First published: 2025-10-06; Recorded arXiv version: v2; Recorded version updated: 2026-03-25T11:29:08Z.",
     "title": "From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.06223v2",
+    "archive": "arXiv",
+    "archive_location": "2510.06223",
+    "author": [
+      {
+        "literal": "Hans G. W. van Dam"
+      }
+    ],
+    "citation-key": "arxiv_2510_06223",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9538fa696994dc6ccb25cdc6c3f07e4745063f87bbfd9250e930100092965b83",
+        "submitted_at": "2025-08-31T14:40:11Z",
+        "updated_at": "2025-10-09T12:55:47Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.06223v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.06223",
+      "catalog_id": "arxiv:2510.06223",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-08-31",
+      "identifiers": {
+        "arxiv": "2510.06223"
+      },
+      "record_updated_at": "2025-10-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.06223",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-31; Recorded arXiv version: v2; Recorded version updated: 2025-10-09T12:55:47Z.",
+    "title": "A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants",
     "type": "article",
     "version": "2"
   },
@@ -3619,6 +3918,79 @@
     "title": "UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.19247v1",
+    "archive": "arXiv",
+    "archive_location": "2510.19247",
+    "author": [
+      {
+        "literal": "Ziwei Wang"
+      },
+      {
+        "literal": "Jiayuan Su"
+      },
+      {
+        "literal": "Mengyu Zhou"
+      },
+      {
+        "literal": "Huaxing Zeng"
+      },
+      {
+        "literal": "Mengni Jia"
+      },
+      {
+        "literal": "Xiao Lv"
+      },
+      {
+        "literal": "Haoyu Dong"
+      },
+      {
+        "literal": "Xiaojun Ma"
+      },
+      {
+        "literal": "Shi Han"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2510_19247",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e443bf41effee1ff02b35f973d5a412ea86298757f35c9c0068fa6cc172b21f1",
+        "submitted_at": "2025-10-22T05:09:44Z",
+        "updated_at": "2025-10-22T05:09:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.19247v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.19247",
+      "catalog_id": "arxiv:2510.19247",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-22",
+      "identifiers": {
+        "arxiv": "2510.19247"
+      },
+      "record_updated_at": "2025-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.19247",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T05:09:44Z.",
+    "title": "SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoning over Complex and Large Spreadsheets",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2510.24563v2",
@@ -3736,6 +4108,58 @@
     },
     "note": "First published: 2025-11-22; Recorded arXiv version: v1; Recorded version updated: 2025-11-22T12:18:35Z.",
     "title": "Building Browser Agents: Architecture, Security, and Practical Solutions",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2511.23281v1",
+    "archive": "arXiv",
+    "archive_location": "2511.23281",
+    "author": [
+      {
+        "literal": "Aaron Steiner"
+      },
+      {
+        "literal": "Ralph Peeters"
+      },
+      {
+        "literal": "Christian Bizer"
+      }
+    ],
+    "citation-key": "arxiv_2511_23281",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "324dc1d610b3eef0712522ac69dbf799028199d30801bebf8b89870ee2b31989",
+        "submitted_at": "2025-11-28T15:32:15Z",
+        "updated_at": "2025-11-28T15:32:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2511.23281v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.23281",
+      "catalog_id": "arxiv:2511.23281",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-11-28",
+      "identifiers": {
+        "arxiv": "2511.23281"
+      },
+      "record_updated_at": "2025-11-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.23281",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-28; Recorded arXiv version: v1; Recorded version updated: 2025-11-28T15:32:15Z.",
+    "title": "MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)",
     "type": "article",
     "version": "1"
   },
@@ -4314,6 +4738,94 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2601.02371v2",
+    "archive": "arXiv",
+    "archive_location": "2601.02371",
+    "author": [
+      {
+        "literal": "Samuele Marro"
+      },
+      {
+        "literal": "Alan Chan"
+      },
+      {
+        "literal": "Xinxing Ren"
+      },
+      {
+        "literal": "Lewis Hammond"
+      },
+      {
+        "literal": "Jesse Wright"
+      },
+      {
+        "literal": "Gurjyot Wanga"
+      },
+      {
+        "literal": "Tiziano Piccardi"
+      },
+      {
+        "literal": "Nuno Campos"
+      },
+      {
+        "literal": "Tobin South"
+      },
+      {
+        "literal": "Jialin Yu"
+      },
+      {
+        "literal": "Sunando Sengupta"
+      },
+      {
+        "literal": "Eric Sommerlade"
+      },
+      {
+        "literal": "Alex Pentland"
+      },
+      {
+        "literal": "Philip Torr"
+      },
+      {
+        "literal": "Jiaxin Pei"
+      }
+    ],
+    "citation-key": "arxiv_2601_02371",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c106bef05d24b48f12eac4702bf9600aebb5805eff075aac7c33b8056640ce9c",
+        "submitted_at": "2025-12-07T17:45:01Z",
+        "updated_at": "2026-01-12T23:23:48Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2601.02371v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.02371",
+      "catalog_id": "arxiv:2601.02371",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-07",
+      "identifiers": {
+        "arxiv": "2601.02371"
+      },
+      "record_updated_at": "2026-01-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.02371",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-07; Recorded arXiv version: v2; Recorded version updated: 2026-01-12T23:23:48Z.",
+    "title": "Permission Manifests for Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.07779v1",
     "archive": "arXiv",
     "archive_location": "2601.07779",
@@ -4464,6 +4976,128 @@
     "title": "GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.12560v1",
+    "archive": "arXiv",
+    "archive_location": "2601.12560",
+    "author": [
+      {
+        "literal": "Arunkumar V"
+      },
+      {
+        "literal": "Gangadharan G. R."
+      },
+      {
+        "literal": "Rajkumar Buyya"
+      }
+    ],
+    "citation-key": "arxiv_2601_12560",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3de4529325c90a0addd06938f81876283dc9a776e12ee7038efea5dda2a91e9b",
+        "submitted_at": "2026-01-18T19:51:16Z",
+        "updated_at": "2026-01-18T19:51:16Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.12560v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.12560",
+      "catalog_id": "arxiv:2601.12560",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-01-18",
+      "identifiers": {
+        "arxiv": "2601.12560"
+      },
+      "record_updated_at": "2026-01-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.12560",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-18; Recorded arXiv version: v1; Recorded version updated: 2026-01-18T19:51:16Z.",
+    "title": "Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.16206v3",
+    "archive": "arXiv",
+    "archive_location": "2601.16206",
+    "author": [
+      {
+        "literal": "Daixuan Cheng"
+      },
+      {
+        "literal": "Shaohan Huang"
+      },
+      {
+        "literal": "Yuxian Gu"
+      },
+      {
+        "literal": "Huatong Song"
+      },
+      {
+        "literal": "Guoxin Chen"
+      },
+      {
+        "literal": "Li Dong"
+      },
+      {
+        "literal": "Wayne Xin Zhao"
+      },
+      {
+        "literal": "Ji-Rong Wen"
+      },
+      {
+        "literal": "Furu Wei"
+      }
+    ],
+    "citation-key": "arxiv_2601_16206",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6418171ce26fffaa9debd94806b28d6018e5485ff991a359485558cebfefaebb",
+        "submitted_at": "2026-01-22T18:57:09Z",
+        "updated_at": "2026-04-08T06:37:40Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2601.16206v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.16206",
+      "catalog_id": "arxiv:2601.16206",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-01-22",
+      "identifiers": {
+        "arxiv": "2601.16206"
+      },
+      "record_updated_at": "2026-04-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.16206",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-22; Recorded arXiv version: v3; Recorded version updated: 2026-04-08T06:37:40Z.",
+    "title": "Computer Environments Elicit General Agentic Intelligence in LLMs",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2601.21123v2",

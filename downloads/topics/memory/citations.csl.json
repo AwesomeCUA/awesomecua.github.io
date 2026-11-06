@@ -3254,6 +3254,73 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.03536v1",
+    "archive": "arXiv",
+    "archive_location": "2509.03536",
+    "author": [
+      {
+        "literal": "Weizhi Chen"
+      },
+      {
+        "literal": "Ziwei Wang"
+      },
+      {
+        "literal": "Leyang Yang"
+      },
+      {
+        "literal": "Sheng Zhou"
+      },
+      {
+        "literal": "Xiaoxuan Tang"
+      },
+      {
+        "literal": "Jiajun Bu"
+      },
+      {
+        "literal": "Yong Li"
+      },
+      {
+        "literal": "Wei Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2509_03536",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "97bc25c43e1e431cb9db4cdc0ca1e94c65f0906438a8a627d5d2bbb2d92b8460",
+        "submitted_at": "2025-08-27T12:31:37Z",
+        "updated_at": "2025-08-27T12:31:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.03536v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.03536",
+      "catalog_id": "arxiv:2509.03536",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-27",
+      "identifiers": {
+        "arxiv": "2509.03536"
+      },
+      "record_updated_at": "2025-08-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.03536",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-27; Recorded arXiv version: v1; Recorded version updated: 2025-08-27T12:31:37Z.",
+    "title": "PG-Agent: An Agent Powered by Page Graph",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.03891v1",
     "archive": "arXiv",
     "archive_location": "2509.03891",
@@ -3438,6 +3505,94 @@
     "title": "Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.21799v3",
+    "archive": "arXiv",
+    "archive_location": "2509.21799",
+    "author": [
+      {
+        "literal": "Hongze Mi"
+      },
+      {
+        "literal": "Yibo Feng"
+      },
+      {
+        "literal": "Wenjie Lu"
+      },
+      {
+        "literal": "Yuqi Wang"
+      },
+      {
+        "literal": "Jinyuan Li"
+      },
+      {
+        "literal": "Song Cao"
+      },
+      {
+        "literal": "He Cui"
+      },
+      {
+        "literal": "Tengfei Tian"
+      },
+      {
+        "literal": "Xuelin Zhang"
+      },
+      {
+        "literal": "Haotian Luo"
+      },
+      {
+        "literal": "Di Sun"
+      },
+      {
+        "literal": "Jun Fang"
+      },
+      {
+        "literal": "Hua Chai"
+      },
+      {
+        "literal": "Naiqiang Tan"
+      },
+      {
+        "literal": "Gang Pan"
+      }
+    ],
+    "citation-key": "arxiv_2509_21799",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "df0c5cb2e891375c3e6dd8e0dbebd6a41273593a3186e9eda9b1d99b05489001",
+        "submitted_at": "2025-09-26T02:56:19Z",
+        "updated_at": "2026-01-07T02:57:38Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2509.21799v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.21799",
+      "catalog_id": "arxiv:2509.21799",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-26",
+      "identifiers": {
+        "arxiv": "2509.21799"
+      },
+      "record_updated_at": "2026-01-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.21799",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-26; Recorded arXiv version: v3; Recorded version updated: 2026-01-07T02:57:38Z.",
+    "title": "D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2509.24183v1",
@@ -3997,6 +4152,122 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.15863v2",
+    "archive": "arXiv",
+    "archive_location": "2510.15863",
+    "author": [
+      {
+        "literal": "Simon Yu"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Weiyan Shi"
+      },
+      {
+        "literal": "Peng Qi"
+      }
+    ],
+    "citation-key": "arxiv_2510_15863",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "864f797fd3d3ea317ca29d225d67db3ea635f840afdb30639b4bd0368bc5ac17",
+        "submitted_at": "2025-10-17T17:56:00Z",
+        "updated_at": "2026-03-02T03:34:00Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.15863v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.15863",
+      "catalog_id": "arxiv:2510.15863",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-17",
+      "identifiers": {
+        "arxiv": "2510.15863"
+      },
+      "record_updated_at": "2026-03-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.15863",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-17; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T03:34:00Z.",
+    "title": "PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.19838v2",
+    "archive": "arXiv",
+    "archive_location": "2510.19838",
+    "author": [
+      {
+        "literal": "Shiqi He"
+      },
+      {
+        "literal": "Yue Cui"
+      },
+      {
+        "literal": "Xinyu Ma"
+      },
+      {
+        "literal": "Yaliang Li"
+      },
+      {
+        "literal": "Bolin Ding"
+      },
+      {
+        "literal": "Mosharaf Chowdhury"
+      }
+    ],
+    "citation-key": "arxiv_2510_19838",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0b8c9d01aef93de13d3f16043e7245855df93ff8305ea6d978b00ea6798e3c25",
+        "submitted_at": "2025-10-18T00:45:37Z",
+        "updated_at": "2026-06-16T02:29:48Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.19838v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.19838",
+      "catalog_id": "arxiv:2510.19838",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-18",
+      "identifiers": {
+        "arxiv": "2510.19838"
+      },
+      "record_updated_at": "2026-06-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.19838",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-18; Recorded arXiv version: v2; Recorded version updated: 2026-06-16T02:29:48Z.",
+    "title": "Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.19949v2",
     "archive": "arXiv",
     "archive_location": "2510.19949",
@@ -4246,6 +4517,79 @@
     "title": "OpenPhone: Mobile Agentic Foundation Models",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.22732v2",
+    "archive": "arXiv",
+    "archive_location": "2510.22732",
+    "author": [
+      {
+        "literal": "Jiali Cheng"
+      },
+      {
+        "literal": "Anjishnu Kumar"
+      },
+      {
+        "literal": "Roshan Lal"
+      },
+      {
+        "literal": "Rishi Rajasekaran"
+      },
+      {
+        "literal": "Hani Ramezani"
+      },
+      {
+        "literal": "Omar Zia Khan"
+      },
+      {
+        "literal": "Oleg Rokhlenko"
+      },
+      {
+        "literal": "Sunny Chiu-Webster"
+      },
+      {
+        "literal": "Gang Hua"
+      },
+      {
+        "literal": "Hadi Amiri"
+      }
+    ],
+    "citation-key": "arxiv_2510_22732",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff353afdf50c851cbc3a5c29a068b7403712bc87e0e9b5ec1c75d8fae9e5745d",
+        "submitted_at": "2025-10-26T16:03:39Z",
+        "updated_at": "2025-12-19T23:16:01Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.22732v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.22732",
+      "catalog_id": "arxiv:2510.22732",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-26",
+      "identifiers": {
+        "arxiv": "2510.22732"
+      },
+      "record_updated_at": "2025-12-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.22732",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-26; Recorded arXiv version: v2; Recorded version updated: 2025-12-19T23:16:01Z.",
+    "title": "WebATLAS: An LLM Agent with Experience-Driven Memory and Action Simulation",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2510.24168v3",
@@ -4564,6 +4908,58 @@
     },
     "note": "First published: 2025-11-17; Recorded arXiv version: v2; Recorded version updated: 2026-07-22T21:19:00Z.",
     "title": "WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2511.22074v2",
+    "archive": "arXiv",
+    "archive_location": "2511.22074",
+    "author": [
+      {
+        "literal": "Dasheng Bi"
+      },
+      {
+        "literal": "Yubin Hu"
+      },
+      {
+        "literal": "Mohammed N. Nasir"
+      }
+    ],
+    "citation-key": "arxiv_2511_22074",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2d442f9547da046b1350d259207d61b0930553e7c6a190fc280fb6f61795e47d",
+        "submitted_at": "2025-11-27T03:51:49Z",
+        "updated_at": "2025-12-02T22:56:22Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2511.22074v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.22074",
+      "catalog_id": "arxiv:2511.22074",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-11-27",
+      "identifiers": {
+        "arxiv": "2511.22074"
+      },
+      "record_updated_at": "2025-12-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.22074",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-27; Recorded arXiv version: v2; Recorded version updated: 2025-12-02T22:56:22Z.",
+    "title": "Real-Time Procedural Learning From Experience for AI Agents",
     "type": "article",
     "version": "2"
   },
@@ -5225,6 +5621,73 @@
     },
     "note": "First published: 2026-01-27; Recorded arXiv version: v1; Recorded version updated: 2026-01-27T07:46:05Z.",
     "title": "Curiosity Driven Knowledge Retrieval for Mobile Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.20162v1",
+    "archive": "arXiv",
+    "archive_location": "2601.20162",
+    "author": [
+      {
+        "literal": "Shuoxin Wang"
+      },
+      {
+        "literal": "Chang Liu"
+      },
+      {
+        "literal": "Gowen Loo"
+      },
+      {
+        "literal": "Lifan Zheng"
+      },
+      {
+        "literal": "Kaiwen Wei"
+      },
+      {
+        "literal": "Xinyi Zeng"
+      },
+      {
+        "literal": "Jingyuan Zhang"
+      },
+      {
+        "literal": "Yu Tian"
+      }
+    ],
+    "citation-key": "arxiv_2601_20162",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dbe8e4ef8611f99058d6a23d2c414af318b672e8369bebf47e633830ab0652ff",
+        "submitted_at": "2026-01-28T01:44:19Z",
+        "updated_at": "2026-01-28T01:44:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.20162v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.20162",
+      "catalog_id": "arxiv:2601.20162",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-28",
+      "identifiers": {
+        "arxiv": "2601.20162"
+      },
+      "record_updated_at": "2026-01-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.20162",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-28; Recorded arXiv version: v1; Recorded version updated: 2026-01-28T01:44:19Z.",
+    "title": "Me-Agent: A Personalized Mobile Agent with Two-Level User Habit Learning for Enhanced Interaction",
     "type": "article",
     "version": "1"
   },

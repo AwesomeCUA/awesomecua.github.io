@@ -178,6 +178,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Darwinian Memory splits GUI trajectories into reusable units and updates the memory by retaining useful paths and pruning poor ones. It evaluates this training-free memory mechanism on long multi-application tasks.
 - [CUA-Skill: Develop Skills for Computer Using Agent](https://awesomecua.com/resources/arxiv-2601-21123/) — 2026-01-28
   CUA-Skill encodes Windows application knowledge in parameterized skills and execution/composition graphs. Its agent retrieves and instantiates these skills and uses memory for failure recovery, with end-to-end evaluation on WindowsAgentArena.
+- [Me-Agent: A Personalized Mobile Agent with Two-Level User Habit Learning for Enhanced Interaction](https://awesomecua.com/resources/arxiv-2601-20162/) — 2026-01-28
+  Me-Agent personalizes mobile agent behavior through a preference reward model and hierarchical memory for long-term and app-specific habits, and introduces User FingerTip.
 - [Curiosity Driven Knowledge Retrieval for Mobile Agents](https://awesomecua.com/resources/arxiv-2601-19306/) — 2026-01-27
   Uses execution uncertainty to trigger retrieval from application documentation, code, and past trajectories, organizing the results into structured AppCards for Android agent planning.
 - [MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution](https://awesomecua.com/resources/arxiv-2601-19199/) — 2026-01-27
@@ -198,6 +200,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Introduces AgentProg, organizing mobile-agent interaction history as a program with variables and control flow to decide what context to retain. A global belief state handles partial observability, with evaluation on AndroidWorld and extended long-horizon tasks.
 - [HiconAgent: History Context-aware Policy Optimization for GUI Agents](https://awesomecua.com/resources/arxiv-2512-01763/) — 2025-12-01
   HiconAgent trains GUI policies to use history through variable-length context sampling and paired policy updates with compressed and complete histories. Its compression retains past actions while removing historical observations, and an alignment loss couples the two branches.
+- [Real-Time Procedural Learning From Experience for AI Agents](https://awesomecua.com/resources/arxiv-2511-22074/) — 2025-11-27
+  PRAXIS stores action outcomes and retrieves past state-action-result examples to guide agent decisions, with evaluation on the REAL web browsing benchmark.
 - [WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance](https://awesomecua.com/resources/arxiv-2511-12997/) — 2025-11-17
   Introduces WebCoach, which condenses navigation logs into persistent episodic memory and retrieves experiences by similarity and recency. Runtime hooks selectively supply advice to browser agents, evaluated on WebVoyager without retraining the underlying models.
 - [Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation](https://awesomecua.com/resources/arxiv-2511-12254/) — 2025-11-15
@@ -208,10 +212,16 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   This work retrieves online video tutorials and converts them into structured GUI action demonstrations with short objectives. A two-stage selection process supplies a relevant local trajectory as in-context guidance at each execution step.
 - [MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://awesomecua.com/resources/arxiv-2510-24168/) — 2025-10-28
   Introduces MGA, which separates task-agnostic screen-state reading from decision making and connects steps through structured state memory. Validated state deltas replace full trajectory replay, evaluated on OSWorld and application tasks.
+- [WebATLAS: An LLM Agent with Experience-Driven Memory and Action Simulation](https://awesomecua.com/resources/arxiv-2510-22732/) — 2025-10-26
+  WebATLAS is a web agent that stores interaction outcomes and simulates candidate actions before acting, using past experience to plan navigation on unseen websites.
 - [OpenPhone: Mobile Agentic Foundation Models](https://awesomecua.com/resources/arxiv-2510-22009/) — 2025-10-24
   OpenPhone trains a compact mobile policy with supervised learning followed by GRPO on synthetic GUI data, incorporating reasoning and memory management. Its device-cloud design handles routine work locally and delegates complex subtasks, with online evaluation on AndroidLab.
 - [Surfer 2: The Next Generation of Cross-Platform Computer Use Agents](https://awesomecua.com/resources/arxiv-2510-19949/) — 2025-10-22
   Surfer2 combines hierarchical context management with separate planning and execution, self-verification, and recovery for visual computer use. It evaluates the framework across web, desktop, and Android tasks without task-specific fine-tuning.
+- [Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory](https://awesomecua.com/resources/arxiv-2510-19838/) — 2025-10-18
+  Branch-and-Browse is a web agent framework that uses tree-structured subtasks, web state replay, and page action memory to explore and complete tasks.
+- [PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction](https://awesomecua.com/resources/arxiv-2510-15863/) — 2025-10-17
+  Introduces PolySkill, which separates a web-agent skill's goal from its execution so agents can learn and reuse skills across websites.
 - [R-WoM: Retrieval-augmented World Model For Computer-use Agents](https://awesomecua.com/resources/arxiv-2510-11892/) — 2025-10-13
   R-WoM evaluates how well world models predict nearby GUI states, align complete procedures, and recognize milestone transitions. It retrieves external tutorials to guide simulated future interactions, with experiments on subsets of OSWorld and WebArena.
 - [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://awesomecua.com/resources/arxiv-2510-10666/) — 2025-10-12
@@ -228,6 +238,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Distills generalizable reasoning strategies from both successful and failed agent trajectories into a persistent memory bank for test-time retrieval.
 - [Retrieval-augmented GUI Agents with Generative Guidelines](https://awesomecua.com/resources/arxiv-2509-24183/) — 2025-09-29
   RAG-GUI trains a small guidance adapter to filter and summarize retrieved web tutorials while keeping the acting agent fixed. Supervised and rejection-sampling stages prepare the adapter for inference-time assistance, tested on offline web/mobile tasks and interactive Android tasks.
+- [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://awesomecua.com/resources/arxiv-2509-21799/) — 2025-09-26
+  Introduces D-Artemis, a mobile GUI agent framework that retrieves app-specific tips, checks actions before execution, and reflects on their outcomes without trajectory training.
 - [Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent](https://awesomecua.com/resources/arxiv-2509-20729/) — 2025-09-25
   Presents an agent-engineering framework combining runtime goal clarification, an observable component architecture and evolving execution memory. The Fairy mobile GUI agent evaluates these mechanisms on ambiguous tasks and through controlled and user studies.
 - [InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management](https://awesomecua.com/resources/arxiv-2509-13704/) — 2025-09-17
@@ -238,6 +250,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   FlashAdventure evaluates GUI agents on completing story arcs in 34 adventure games. It pairs an automated gameplay judge with COAST, a framework that keeps long-term clue memory to plan and complete sequential objectives.
 - [KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation](https://awesomecua.com/resources/arxiv-2509-00366/) — 2025-08-30
   KG-RAG converts UI transition graphs into a searchable vector store and uses intent-guided retrieval to construct actionable navigation paths. It introduces KG-Android-Bench and KG-Harmony-Bench and evaluates transfer from mobile apps to web and desktop tasks.
+- [PG-Agent: An Agent Powered by Page Graph](https://awesomecua.com/resources/arxiv-2509-03536/) — 2025-08-27
+  Introduces PG-Agent, which turns GUI operation episodes into page graphs and retrieves guidance from them to support task decomposition in new scenarios.
 - [PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration](https://awesomecua.com/resources/arxiv-2508-18040/) — 2025-08-25
   Introduces PerPilot and the PerInstruct dataset for completing user-specific mobile instructions through memory retrieval, app exploration, and clarification when missing context remains unresolved.
 - [WebSight: A Vision-First Architecture for Robust Web Agents](https://awesomecua.com/resources/arxiv-2508-16987/) — 2025-08-23

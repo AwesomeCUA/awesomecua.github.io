@@ -19,7 +19,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -36,6 +36,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:02:12Z",
+      "role": "primary",
+      "sha256": "20bdf96426e8120a0cbfdbebadfabbbd4cda26d2d35ab670885f58b35ea35d5d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2511.03690%2C2511.03773%2C2511.04220%2C2511.04359%2C2511.04481%2C2511.04707%2C2511.05797%2C2511.06251%2C2511.08319%2C2511.08325%2C2511.08487%2C2511.09309%2C2511.10110%2C2511.11332%2C2511.12000%2C2511.13091%2C2511.13725%2C2511.14210%2C2511.14945%2C2511.15705%2C2511.16842%2C2511.17649%2C2511.17775%2C2511.18423%2C2511.19496%2C2511.19516%2C2511.19957%2C2511.20597%2C2511.20636%2C2511.21631%2C2511.21990%2C2511.22074%2C2511.23281%2C2512.04302%2C2512.04529%2C2512.06574%2C2512.06641%2C2512.06726%2C2512.06866%2C2512.07287%2C2512.08417%2C2512.08769%2C2512.09458%2C2512.11002%2C2512.11506%2C2512.12692%2C2512.12730%2C2512.12818%2C2512.13159%2C2512.13564&max_results=50"
     }
   ],
   "id": "arxiv:2511.20597",
@@ -43,7 +59,7 @@
     "arxiv": "2511.20597"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-16T06:36:47Z",
+  "last_verified_at": "2026-11-05T23:02:12Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -52,18 +68,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2511.20597"
     }
   ],
   "name": "BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v2). Experiments, reported performance and artifact availability have not been independently reproduced.",
   "published_at": "2025-11-25",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "BrowseSafe builds a benchmark of prompt injections in realistic HTML for browser agents and evaluates defenses against attacks that can affect agent actions.",
+  "topics": [
+    "safety-security",
+    "evaluation",
+    "web-navigation"
+  ],
   "updated_at": "2026-08-12",
   "url": "https://arxiv.org/abs/2511.20597"
 }

@@ -805,6 +805,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2508.00935v3",
+    "archive": "arXiv",
+    "archive_location": "2508.00935",
+    "author": [
+      {
+        "literal": "Aaron Xuxiang Tian"
+      },
+      {
+        "literal": "Ruofan Zhang"
+      },
+      {
+        "literal": "Janet Tang"
+      },
+      {
+        "literal": "Ji Wang"
+      },
+      {
+        "literal": "Tianyu Shi"
+      },
+      {
+        "literal": "Jiaxin Wen"
+      }
+    ],
+    "citation-key": "arxiv_2508_00935",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6edb459a166897cbf878eea707817ba2f89c32968076ec14860fe0a619c33ddb",
+        "submitted_at": "2025-07-31T07:02:19Z",
+        "updated_at": "2026-09-03T03:59:53Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2508.00935v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.00935",
+      "catalog_id": "arxiv:2508.00935",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-31",
+      "identifiers": {
+        "arxiv": "2508.00935"
+      },
+      "record_updated_at": "2026-09-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.00935",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-31; Recorded arXiv version: v3; Recorded version updated: 2026-09-03T03:59:53Z.",
+    "title": "Measuring Harmfulness of Computer-Using Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2508.13024v3",
     "archive": "arXiv",
     "archive_location": "2508.13024",
@@ -1300,6 +1361,76 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.21733v1",
+    "archive": "arXiv",
+    "archive_location": "2509.21733",
+    "author": [
+      {
+        "literal": "Jiannan Xiang"
+      },
+      {
+        "literal": "Yun Zhu"
+      },
+      {
+        "literal": "Lei Shu"
+      },
+      {
+        "literal": "Maria Wang"
+      },
+      {
+        "literal": "Lijun Yu"
+      },
+      {
+        "literal": "Gabriel Barcik"
+      },
+      {
+        "literal": "James Lyon"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Jindong Chen"
+      }
+    ],
+    "citation-key": "arxiv_2509_21733",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3867e8ec9ed945044575f4e3f3231271d689222dab47d1aaca1ec16782ca3090",
+        "submitted_at": "2025-09-26T01:02:00Z",
+        "updated_at": "2025-09-26T01:02:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.21733v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.21733",
+      "catalog_id": "arxiv:2509.21733",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-26",
+      "identifiers": {
+        "arxiv": "2509.21733"
+      },
+      "record_updated_at": "2025-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.21733",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-26; Recorded arXiv version: v1; Recorded version updated: 2025-09-26T01:02:00Z.",
+    "title": "UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.23866v1",
     "archive": "arXiv",
     "archive_location": "2509.23866",
@@ -1473,6 +1604,85 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.06607v3",
+    "archive": "arXiv",
+    "archive_location": "2510.06607",
+    "author": [
+      {
+        "literal": "Weidi Luo"
+      },
+      {
+        "literal": "Qiming Zhang"
+      },
+      {
+        "literal": "Tianyu Lu"
+      },
+      {
+        "literal": "Xiaogeng Liu"
+      },
+      {
+        "literal": "Bin Hu"
+      },
+      {
+        "literal": "Hung-Chun Chiu"
+      },
+      {
+        "literal": "Siyuan Ma"
+      },
+      {
+        "literal": "Yizhe Zhang"
+      },
+      {
+        "literal": "Xusheng Xiao"
+      },
+      {
+        "literal": "Yinzhi Cao"
+      },
+      {
+        "literal": "Zhen Xiang"
+      },
+      {
+        "literal": "Chaowei Xiao"
+      }
+    ],
+    "citation-key": "arxiv_2510_06607",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "43be43a4abda0407e20693d43c0f6304e384d60becbcea81b4a6cdc64d852059",
+        "submitted_at": "2025-10-08T03:35:23Z",
+        "updated_at": "2026-08-21T05:20:06Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.06607v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.06607",
+      "catalog_id": "arxiv:2510.06607",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-08",
+      "identifiers": {
+        "arxiv": "2510.06607"
+      },
+      "record_updated_at": "2026-08-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.06607",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-08; Recorded arXiv version: v3; Recorded version updated: 2026-08-21T05:20:06Z.",
+    "title": "Your Harness is Not Secure: Benchmarking Real-world Threat of Command Line Interface Agent",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.09872v2",
     "archive": "arXiv",
     "archive_location": "2510.09872",
@@ -1629,6 +1839,79 @@
     "title": "WEBSERV: A Full-Stack and RL-Ready Web Environment for Training Web Agents at Scale",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.20333v3",
+    "archive": "arXiv",
+    "archive_location": "2510.20333",
+    "author": [
+      {
+        "literal": "Chiyu Chen"
+      },
+      {
+        "literal": "Xinhao Song"
+      },
+      {
+        "literal": "Yunkai Chai"
+      },
+      {
+        "literal": "Yang Yao"
+      },
+      {
+        "literal": "Haodong Zhao"
+      },
+      {
+        "literal": "Lijun Li"
+      },
+      {
+        "literal": "Jie Li"
+      },
+      {
+        "literal": "Yan Teng"
+      },
+      {
+        "literal": "Gongshen Liu"
+      },
+      {
+        "literal": "Yingchun Wang"
+      }
+    ],
+    "citation-key": "arxiv_2510_20333",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8582fa41bb5f4d5c464c3bb74285a4ef17545cde34e48e4a1b36cd35937337ae",
+        "submitted_at": "2025-10-23T08:33:24Z",
+        "updated_at": "2026-03-05T06:51:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.20333v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.20333",
+      "catalog_id": "arxiv:2510.20333",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-23",
+      "identifiers": {
+        "arxiv": "2510.20333"
+      },
+      "record_updated_at": "2026-03-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.20333",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-23; Recorded arXiv version: v3; Recorded version updated: 2026-03-05T06:51:24Z.",
+    "title": "GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2511.11672v5",
@@ -1917,6 +2200,146 @@
     "title": "EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.16206v3",
+    "archive": "arXiv",
+    "archive_location": "2601.16206",
+    "author": [
+      {
+        "literal": "Daixuan Cheng"
+      },
+      {
+        "literal": "Shaohan Huang"
+      },
+      {
+        "literal": "Yuxian Gu"
+      },
+      {
+        "literal": "Huatong Song"
+      },
+      {
+        "literal": "Guoxin Chen"
+      },
+      {
+        "literal": "Li Dong"
+      },
+      {
+        "literal": "Wayne Xin Zhao"
+      },
+      {
+        "literal": "Ji-Rong Wen"
+      },
+      {
+        "literal": "Furu Wei"
+      }
+    ],
+    "citation-key": "arxiv_2601_16206",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6418171ce26fffaa9debd94806b28d6018e5485ff991a359485558cebfefaebb",
+        "submitted_at": "2026-01-22T18:57:09Z",
+        "updated_at": "2026-04-08T06:37:40Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2601.16206v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.16206",
+      "catalog_id": "arxiv:2601.16206",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-01-22",
+      "identifiers": {
+        "arxiv": "2601.16206"
+      },
+      "record_updated_at": "2026-04-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.16206",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-22; Recorded arXiv version: v3; Recorded version updated: 2026-04-08T06:37:40Z.",
+    "title": "Computer Environments Elicit General Agentic Intelligence in LLMs",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.10915v3",
+    "archive": "arXiv",
+    "archive_location": "2602.10915",
+    "author": [
+      {
+        "literal": "Zhenhua Zou"
+      },
+      {
+        "literal": "Sheng Guo"
+      },
+      {
+        "literal": "Qiuyang Zhan"
+      },
+      {
+        "literal": "Lepeng Zhao"
+      },
+      {
+        "literal": "Shuo Li"
+      },
+      {
+        "literal": "Qi Li"
+      },
+      {
+        "literal": "Ke Xu"
+      },
+      {
+        "literal": "Mingwei Xu"
+      },
+      {
+        "literal": "Zhuotao Liu"
+      }
+    ],
+    "citation-key": "arxiv_2602_10915",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f973754a1630fac3c37307f39fc7346601f2bf269a0a2804e8c0841895d1a9d5",
+        "submitted_at": "2026-02-11T14:52:27Z",
+        "updated_at": "2026-02-13T12:42:39Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2602.10915v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.10915",
+      "catalog_id": "arxiv:2602.10915",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-11",
+      "identifiers": {
+        "arxiv": "2602.10915"
+      },
+      "record_updated_at": "2026-02-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.10915",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-11; Recorded arXiv version: v3; Recorded version updated: 2026-02-13T12:42:39Z.",
+    "title": "Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2602.14093v1",

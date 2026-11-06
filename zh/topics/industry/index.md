@@ -24,6 +24,8 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
   RISK combines browser-interaction training data, a benchmark, and reinforcement fine-tuning for e-commerce risk-management workflows. Its trajectories and rewards distinguish individual actions from multi-step stateful tasks involving deeply embedded web content.
 - [InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management](https://awesomecua.com/resources/arxiv-2509-13704/) — 2025-09-17
   InfraMind explores industrial management GUIs using virtual-machine snapshots and builds memory for planning and hierarchical state recognition. Its framework also studies knowledge distillation and safety checks on open-source and commercial data-center management platforms.
+- [Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows](https://awesomecua.com/resources/arxiv-2509-04198/) — 2025-09-04
+  Compares an agent using computer interfaces with UiPath RPA on enterprise data entry, monitoring, and document extraction, measuring speed, reliability, and development effort.
 - [BIMgent: Towards Autonomous Building Modeling via Computer-use Agents](https://awesomecua.com/resources/arxiv-2506-07217/) — 2025-06-08
   BIMgent plans software-specific workflows and executes GUI actions for building-information modeling. It evaluates multimodal building design and reconstruction tasks in professional authoring software.
 - [Beyond Pass or Fail: Multi-Dimensional Benchmarking of Foundation Models for Goal-based Mobile UI Navigation](https://awesomecua.com/resources/arxiv-2501-02863/) — 2025-01-06

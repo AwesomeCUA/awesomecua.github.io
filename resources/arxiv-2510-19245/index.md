@@ -1,20 +1,20 @@
 # See, Think, Act: Online Shopper Behavior Simulation with VLM Agents
 
-Bibliographic record for See, Think, Act: Online Shopper Behavior Simulation with VLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Studies online shopper action prediction with VLM agents using webpage screenshots, HTML, and action history from OPeRA, trained with SFT and hierarchical RL rewards.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2510-19245/
 - Original source: https://arxiv.org/abs/2510.19245
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-26T21:02:58Z
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: action-prediction, interaction-history, reinforcement-learning
+- Evidence checked: 2026-11-05T23:02:05Z
 - ID: arxiv:2510.19245
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The study concerns simulated shopper behavior and action prediction. Experiments, reported performance and artifact availability have not been independently reproduced.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-19245/record.json
 
@@ -46,3 +46,4 @@ Yimeng Zhang, Jiri Gesi, Ran Xue, Tian Wang, Ziyi Wang, Yuxuan Lu, Sinong Zhan, 
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2510.19245%2C2603.26512&max_results=2 (retrieved 2026-10-26T21:02:58Z; SHA-256 f305e8fc397cdc523c0158cc9554405d364a881f0ca2e124804118b070cf7599)
+- https://export.arxiv.org/api/query?id_list=2510.10909%2C2510.10991%2C2510.11144%2C2510.11221%2C2510.12798%2C2510.13913%2C2510.14276%2C2510.14308%2C2510.14438%2C2510.14513%2C2510.14545%2C2510.14969%2C2510.15863%2C2510.16156%2C2510.16720%2C2510.17017%2C2510.17800%2C2510.18314%2C2510.18596%2C2510.19207%2C2510.19245%2C2510.19247%2C2510.19386%2C2510.19838%2C2510.19864%2C2510.20333%2C2510.20707%2C2510.21652%2C2510.22102%2C2510.22443%2C2510.22732%2C2510.22936%2C2510.23458%2C2510.23519%2C2510.23730%2C2510.23883%2C2510.24284%2C2510.24699%2C2510.24702%2C2510.25726%2C2510.26098%2C2510.26328%2C2510.26789%2C2510.27135%2C2510.27410%2C2511.00153%2C2511.02650%2C2511.02687%2C2511.02805%2C2511.03628&max_results=50 (retrieved 2026-11-05T23:02:05Z; SHA-256 c49404f2b2e210c30a4888bf384a5a168e07ba7943155fba5efa37e08035ff6d)

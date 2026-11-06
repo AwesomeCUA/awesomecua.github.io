@@ -1189,6 +1189,188 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2508.13186v2",
+    "archive": "arXiv",
+    "archive_location": "2508.13186",
+    "author": [
+      {
+        "literal": "Shilong Li"
+      },
+      {
+        "literal": "Xingyuan Bu"
+      },
+      {
+        "literal": "Wenjie Wang"
+      },
+      {
+        "literal": "Jiaheng Liu"
+      },
+      {
+        "literal": "Jun Dong"
+      },
+      {
+        "literal": "Haoyang He"
+      },
+      {
+        "literal": "Hao Lu"
+      },
+      {
+        "literal": "Haozhe Zhang"
+      },
+      {
+        "literal": "Chenchen Jing"
+      },
+      {
+        "literal": "Zhen Li"
+      },
+      {
+        "literal": "Chuanhao Li"
+      },
+      {
+        "literal": "Jiayi Tian"
+      },
+      {
+        "literal": "Chenchen Zhang"
+      },
+      {
+        "literal": "Tianhao Peng"
+      },
+      {
+        "literal": "Yancheng He"
+      },
+      {
+        "literal": "Jihao Gu"
+      },
+      {
+        "literal": "Hui Huang"
+      },
+      {
+        "literal": "Donghao Zhou"
+      },
+      {
+        "literal": "Yuanxing Zhang"
+      },
+      {
+        "literal": "Jian Yang"
+      },
+      {
+        "literal": "Ge Zhang"
+      },
+      {
+        "literal": "Wenhao Huang"
+      },
+      {
+        "literal": "Zhaoxiang Zhang"
+      },
+      {
+        "literal": "Qiangpeng Yang"
+      },
+      {
+        "literal": "Shilei Wen"
+      }
+    ],
+    "citation-key": "arxiv_2508_13186",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1576451eea518cb7de11d96556874ffecd4e7c3e5025b2823b799a9ebb0d78b8",
+        "submitted_at": "2025-08-14T13:46:47Z",
+        "updated_at": "2026-08-31T07:06:50Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2508.13186v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.13186",
+      "catalog_id": "arxiv:2508.13186",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-08-14",
+      "identifiers": {
+        "arxiv": "2508.13186"
+      },
+      "record_updated_at": "2026-08-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.13186",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-14; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T07:06:50Z.",
+    "title": "MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.04673v3",
+    "archive": "arXiv",
+    "archive_location": "2510.04673",
+    "author": [
+      {
+        "literal": "Chan Hee Song"
+      },
+      {
+        "literal": "Yiwen Song"
+      },
+      {
+        "literal": "Palash Goyal"
+      },
+      {
+        "literal": "Yu Su"
+      },
+      {
+        "literal": "Oriana Riva"
+      },
+      {
+        "literal": "Hamid Palangi"
+      },
+      {
+        "literal": "Tomas Pfister"
+      }
+    ],
+    "citation-key": "arxiv_2510_04673",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2f2d5507adeb42d289dd3fe654c097d7772b331bdc1754011d9a53bdaab21a60",
+        "submitted_at": "2025-10-06T10:29:00Z",
+        "updated_at": "2026-03-16T04:38:26Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.04673v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.04673",
+      "catalog_id": "arxiv:2510.04673",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-06",
+      "identifiers": {
+        "arxiv": "2510.04673"
+      },
+      "record_updated_at": "2026-03-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.04673",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-06; Recorded arXiv version: v3; Recorded version updated: 2026-03-16T04:38:26Z.",
+    "title": "Watch and Learn: Learning to Use Computers from Online Videos",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.19488v1",
     "archive": "arXiv",
     "archive_location": "2510.19488",

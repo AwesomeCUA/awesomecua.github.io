@@ -692,6 +692,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2507.23773v3",
+    "archive": "arXiv",
+    "archive_location": "2507.23773",
+    "author": [
+      {
+        "literal": "Mingkai Deng"
+      },
+      {
+        "literal": "Jinyu Hou"
+      },
+      {
+        "literal": "Zhiting Hu"
+      },
+      {
+        "literal": "Eric Xing"
+      }
+    ],
+    "citation-key": "arxiv_2507_23773",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c2604809a10e8b47c16f97843d012730ca6a0ca4de175e730523241655f8cf03",
+        "submitted_at": "2025-07-31T17:57:20Z",
+        "updated_at": "2026-05-21T08:18:41Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2507.23773v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.23773",
+      "catalog_id": "arxiv:2507.23773",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-31",
+      "identifiers": {
+        "arxiv": "2507.23773"
+      },
+      "record_updated_at": "2026-05-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.23773",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-31; Recorded arXiv version: v3; Recorded version updated: 2026-05-21T08:18:41Z.",
+    "title": "General Agentic Planning Through Simulative Reasoning with World Models",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2508.04700v2",
     "archive": "arXiv",
     "archive_location": "2508.04700",
@@ -759,6 +814,76 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.21733v1",
+    "archive": "arXiv",
+    "archive_location": "2509.21733",
+    "author": [
+      {
+        "literal": "Jiannan Xiang"
+      },
+      {
+        "literal": "Yun Zhu"
+      },
+      {
+        "literal": "Lei Shu"
+      },
+      {
+        "literal": "Maria Wang"
+      },
+      {
+        "literal": "Lijun Yu"
+      },
+      {
+        "literal": "Gabriel Barcik"
+      },
+      {
+        "literal": "James Lyon"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Jindong Chen"
+      }
+    ],
+    "citation-key": "arxiv_2509_21733",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3867e8ec9ed945044575f4e3f3231271d689222dab47d1aaca1ec16782ca3090",
+        "submitted_at": "2025-09-26T01:02:00Z",
+        "updated_at": "2025-09-26T01:02:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.21733v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.21733",
+      "catalog_id": "arxiv:2509.21733",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-26",
+      "identifiers": {
+        "arxiv": "2509.21733"
+      },
+      "record_updated_at": "2025-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.21733",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-26; Recorded arXiv version: v1; Recorded version updated: 2025-09-26T01:02:00Z.",
+    "title": "UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.11892v2",
     "archive": "arXiv",
     "archive_location": "2510.11892",
@@ -819,6 +944,252 @@
     },
     "note": "First published: 2025-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-03-09T15:25:16Z.",
     "title": "R-WoM: Retrieval-augmented World Model For Computer-use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.14969v1",
+    "archive": "arXiv",
+    "archive_location": "2510.14969",
+    "author": [
+      {
+        "literal": "Yiming Wang"
+      },
+      {
+        "literal": "Da Yin"
+      },
+      {
+        "literal": "Yuedong Cui"
+      },
+      {
+        "literal": "Ruichen Zheng"
+      },
+      {
+        "literal": "Zhiqian Li"
+      },
+      {
+        "literal": "Zongyu Lin"
+      },
+      {
+        "literal": "Di Wu"
+      },
+      {
+        "literal": "Xueqing Wu"
+      },
+      {
+        "literal": "Chenchen Ye"
+      },
+      {
+        "literal": "Yu Zhou"
+      },
+      {
+        "literal": "Kai-Wei Chang"
+      }
+    ],
+    "citation-key": "arxiv_2510_14969",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1678260783771fea6cb5f7cdda9b260d341e5fff4f21432092d6cb7d771ad607",
+        "submitted_at": "2025-10-16T17:59:38Z",
+        "updated_at": "2025-10-16T17:59:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.14969v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.14969",
+      "catalog_id": "arxiv:2510.14969",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-16",
+      "identifiers": {
+        "arxiv": "2510.14969"
+      },
+      "record_updated_at": "2025-10-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.14969",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-16; Recorded arXiv version: v1; Recorded version updated: 2025-10-16T17:59:38Z.",
+    "title": "LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent Training",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.22732v2",
+    "archive": "arXiv",
+    "archive_location": "2510.22732",
+    "author": [
+      {
+        "literal": "Jiali Cheng"
+      },
+      {
+        "literal": "Anjishnu Kumar"
+      },
+      {
+        "literal": "Roshan Lal"
+      },
+      {
+        "literal": "Rishi Rajasekaran"
+      },
+      {
+        "literal": "Hani Ramezani"
+      },
+      {
+        "literal": "Omar Zia Khan"
+      },
+      {
+        "literal": "Oleg Rokhlenko"
+      },
+      {
+        "literal": "Sunny Chiu-Webster"
+      },
+      {
+        "literal": "Gang Hua"
+      },
+      {
+        "literal": "Hadi Amiri"
+      }
+    ],
+    "citation-key": "arxiv_2510_22732",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff353afdf50c851cbc3a5c29a068b7403712bc87e0e9b5ec1c75d8fae9e5745d",
+        "submitted_at": "2025-10-26T16:03:39Z",
+        "updated_at": "2025-12-19T23:16:01Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.22732v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.22732",
+      "catalog_id": "arxiv:2510.22732",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-26",
+      "identifiers": {
+        "arxiv": "2510.22732"
+      },
+      "record_updated_at": "2025-12-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.22732",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-26; Recorded arXiv version: v2; Recorded version updated: 2025-12-19T23:16:01Z.",
+    "title": "WebATLAS: An LLM Agent with Experience-Driven Memory and Action Simulation",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2511.03773v2",
+    "archive": "arXiv",
+    "archive_location": "2511.03773",
+    "author": [
+      {
+        "literal": "Zhaorun Chen"
+      },
+      {
+        "literal": "Zhuokai Zhao"
+      },
+      {
+        "literal": "Kai Zhang"
+      },
+      {
+        "literal": "Bo Liu"
+      },
+      {
+        "literal": "Qi Qi"
+      },
+      {
+        "literal": "Yifan Wu"
+      },
+      {
+        "literal": "Tarun Kalluri"
+      },
+      {
+        "literal": "Sara Cao"
+      },
+      {
+        "literal": "Yuanhao Xiong"
+      },
+      {
+        "literal": "Haibo Tong"
+      },
+      {
+        "literal": "Huaxiu Yao"
+      },
+      {
+        "literal": "Hengduo Li"
+      },
+      {
+        "literal": "Jiacheng Zhu"
+      },
+      {
+        "literal": "Xian Li"
+      },
+      {
+        "literal": "Dawn Song"
+      },
+      {
+        "literal": "Bo Li"
+      },
+      {
+        "literal": "Jason Weston"
+      },
+      {
+        "literal": "Dat Huynh"
+      }
+    ],
+    "citation-key": "arxiv_2511_03773",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bfcc6992f612c8ede2ec8076be9a7c2e151a6b9fc95d237d78a82b6dd43262a5",
+        "submitted_at": "2025-11-05T18:58:48Z",
+        "updated_at": "2025-11-10T05:02:36Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2511.03773v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.03773",
+      "catalog_id": "arxiv:2511.03773",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-11-05",
+      "identifiers": {
+        "arxiv": "2511.03773"
+      },
+      "record_updated_at": "2025-11-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.03773",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-05; Recorded arXiv version: v2; Recorded version updated: 2025-11-10T05:02:36Z.",
+    "title": "Scaling Agent Learning via Experience Synthesis",
     "type": "article",
     "version": "2"
   },
@@ -1385,6 +1756,67 @@
     },
     "note": "First published: 2026-02-16; Recorded arXiv version: v1; Recorded version updated: 2026-02-16T13:06:49Z.",
     "title": "WebWorld: A Large-Scale World Model for Web Agent Training",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.15384v1",
+    "archive": "arXiv",
+    "archive_location": "2602.15384",
+    "author": [
+      {
+        "literal": "Zhouzhou Shen"
+      },
+      {
+        "literal": "Xueyu Hu"
+      },
+      {
+        "literal": "Xiyun Li"
+      },
+      {
+        "literal": "Tianqing Fang"
+      },
+      {
+        "literal": "Juncheng Li"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2602_15384",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "29fa4927311278ad8ad8aabc8b77dfc05ad7d21b87969b5fb330d7a3a8fd727b",
+        "submitted_at": "2026-02-17T06:37:31Z",
+        "updated_at": "2026-02-17T06:37:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.15384v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.15384",
+      "catalog_id": "arxiv:2602.15384",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-17",
+      "identifiers": {
+        "arxiv": "2602.15384"
+      },
+      "record_updated_at": "2026-02-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.15384",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-17; Recorded arXiv version: v1; Recorded version updated: 2026-02-17T06:37:31Z.",
+    "title": "World-Model-Augmented Web Agents with Action Correction",
     "type": "article",
     "version": "1"
   },

@@ -236,16 +236,22 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   GroundCUA turns expert desktop demonstrations into densely annotated screenshots and grounding instructions. The GroundNext model family uses this supervision and subsequent reinforcement learning, with both grounding benchmarks and an OSWorld agent configuration used for evaluation.
 - [AUTO-Explorer: Automated Data Collection for GUI Agent](https://awesomecua.com/resources/arxiv-2511-06417/) — 2025-11-09
   Introduces Auto-Explorer, an automated GUI exploration method that records software states for training-data collection. UIXplore evaluates exploration coverage, and collected data is used to fine-tune and test GUI element grounding.
+- [Beyond Clicking:A Step Towards Generalist GUI Grounding via Text Dragging](https://awesomecua.com/resources/arxiv-2601-06031/) — 2025-11-07
+  GUI-Drag provides synthesized text-dragging examples, while ScreenDrag benchmarks selecting text by dragging across varied GUI contexts.
 - [GUI-360$^\circ$: A Comprehensive Dataset and Benchmark for Computer-Using Agents](https://awesomecua.com/resources/arxiv-2511-04307/) — 2025-11-06
   Collects Windows application trajectories with screenshots and action traces for grounding, screen parsing, and action prediction.
 - [GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding](https://awesomecua.com/resources/arxiv-2511-00810/) — 2025-11-02
   Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 - [Enhancing Trustworthy GUI Grounding via Self-Critiqued Reinforcement Learning](https://awesomecua.com/resources/arxiv-2510-27266/) — 2025-10-31
   HyperClick trains GUI grounders to produce a click and an accompanying confidence estimate using rewards for correctness and confidence alignment. Its evaluation examines localization, calibration, and abstention behavior.
+- [Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](https://awesomecua.com/resources/arxiv-2510-20707/) — 2025-10-23
+  MixKV compresses vision-language model KV caches by balancing importance and diversity; its evaluations include GUI grounding alongside broader multimodal tasks.
 - [UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction-as-Reasoning](https://awesomecua.com/resources/arxiv-2510-20286/) — 2025-10-23
   Treats alternative instruction formulations as reasoning paths and trains GUI-grounding models to select and combine useful perspectives.
 - [AndroidControl-Curated: Revealing the True Potential of GUI Agents through Benchmark Purification](https://awesomecua.com/resources/arxiv-2510-18488/) — 2025-10-21
   AndroidControl-Curated audits ambiguities and factual errors in AndroidControl and produces a refined evaluation dataset. The paper also studies post-training a small Magma-R1 model on a curated subset to examine the effect of data quality on GUI action assessment.
+- [Detect Anything via Next Point Prediction](https://awesomecua.com/resources/arxiv-2510-12798/) — 2025-10-14
+  Introduces Rex-Omni, a general visual perception model trained for coordinate prediction; GUI grounding is one capability evaluated alongside detection and OCR.
 - [\textsc{GUI-Spotlight}: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](https://awesomecua.com/resources/arxiv-2510-04039/) — 2025-10-05
   GUI-Spotlight trains a grounding model to reason over images and call tools that iteratively narrow its visual focus. The paper evaluates this refinement method on ScreenSpot-Pro after training on 18,500 samples.
 - [Improving GUI Grounding with Explicit Position-to-Coordinate Mapping](https://awesomecua.com/resources/arxiv-2510-03230/) — 2025-10-03
@@ -274,8 +280,16 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Describes a mobile-agent stack combining region-based coordinate correction, hierarchical task planning, multi-agent voting, and reuse of successful interaction traces.
 - [UItron: Foundational GUI Agent with Advanced Perception and Planning](https://awesomecua.com/resources/arxiv-2508-21767/) — 2025-08-29
   UItron combines GUI perception and planning data engineering with supervised training and curriculum reinforcement learning in connected mobile and PC environments. It also collects more than one million operation steps across 100 Chinese apps and builds offline and online evaluation environments.
+- [SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control](https://awesomecua.com/resources/arxiv-2508-20018/) — 2025-08-27
+  Introduces SWIRL, staged interleaved RL for mobile GUI control, pairing a Navigator that plans from screens and language with an Interactor that produces actions.
+- [DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards](https://awesomecua.com/resources/arxiv-2508-17398/) — 2025-08-24
+  Introduces DashboardQA to evaluate how vision-language GUI agents answer questions by interacting with dashboards, grounding elements, and planning actions.
 - [WebSight: A Vision-First Architecture for Robust Web Agents](https://awesomecua.com/resources/arxiv-2508-16987/) — 2025-08-23
   WebSight uses a vision-language model trained on web-interface examples within a modular agent with planning, action, verification, and episodic memory components. It evaluates element clicking on Showdown Clicks and full browsing tasks on WebVoyager using visual observations.
+- [WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation](https://awesomecua.com/resources/arxiv-2508-16763/) — 2025-08-22
+  Introduces WebMMU, a multilingual benchmark for website visual question answering, element grounding, code editing, and mockup-to-code generation.
+- [Structuring GUI Elements through Vision Language Models: Towards Action Space Generation](https://awesomecua.com/resources/arxiv-2508-16271/) — 2025-08-22
+  Introduces IAML training, which augments coordinate samples to help multimodal models locate GUI elements from screen content and user instructions.
 - [V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking](https://awesomecua.com/resources/arxiv-2508-13634/) — 2025-08-19
   V2P trains GUI grounding by suppressing attention to background regions and emphasizing the center of the target element. It represents target importance with size-dependent Gaussian heatmaps and evaluates the contribution of each component on ScreenSpot-v2 and ScreenSpot-Pro.
 - [UI-Venus Technical Report: Building High-performance UI Agents with RFT](https://awesomecua.com/resources/arxiv-2508-10833/) — 2025-08-14

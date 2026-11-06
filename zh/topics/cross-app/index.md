@@ -46,6 +46,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   ProSoftArena evaluates 436 professional-software tasks across six disciplines and 13 applications in a Windows 11 virtual-machine environment. Its capability hierarchy, execution-based checks, and human-in-the-loop evaluation cover precise GUI operations and multi-software workflows.
 - [GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](https://awesomecua.com/resources/arxiv-2509-15738/) — 2025-09-19
   GUI-ReWalk begins with stochastic interface exploration and then infers goals to generate coherent action trajectories. It supports long-horizon workflows across applications and studies training on the resulting data using grounding and navigation benchmarks.
+- [OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://awesomecua.com/resources/arxiv-2508-09124/) — 2025-08-12
+  Introduces OdysseyBench for evaluating long-horizon workflows across office applications, plus HomerAgents to generate tasks from environment exploration and dialogue synthesis.
 - [Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation](https://awesomecua.com/resources/arxiv-2506-18158/) — 2025-06-22
   Chain-of-Memory explicitly records action descriptions and task-relevant screen information in short- and long-term memory for GUI navigation. GUI Odyssey-CoM provides 111,000 screen-action pairs with memory annotations for learning and evaluating information retention across applications.
 - [TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments](https://awesomecua.com/resources/arxiv-2505-17629/) — 2025-05-23

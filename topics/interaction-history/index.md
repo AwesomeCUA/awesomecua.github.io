@@ -62,20 +62,30 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
   Studies visual token pruning for GUI navigation, separating reusable screenshot encoder embeddings from later language-model computation. The analysis examines foreground-background token allocation and spatial coverage when pruning historical screenshots.
 - [MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://awesomecua.com/resources/arxiv-2602-16313/) — 2026-02-18
   MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+- [MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks](https://awesomecua.com/resources/arxiv-2602-09222/) — 2026-02-09
+  MUZZLE evaluates web-agent exposure to indirect prompt injection by finding attack surfaces in agent trajectories and refining injected instructions from execution feedback.
+- [Me-Agent: A Personalized Mobile Agent with Two-Level User Habit Learning for Enhanced Interaction](https://awesomecua.com/resources/arxiv-2601-20162/) — 2026-01-28
+  Me-Agent personalizes mobile agent behavior through a preference reward model and hierarchical memory for long-term and app-specific habits, and introduces User FingerTip.
 - [Compress to Focus: Efficient Coordinate Compression for Policy Optimization in Multi-Turn GUI Agents](https://awesomecua.com/resources/arxiv-2601-11631/) — 2026-01-14
   CCPO couples GUI policy optimization with coordinate-guided compression of past visual observations. It aggregates targets across rollouts to focus retained context and uses distance-based advantages to train grounding and compression together.
 - [AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://awesomecua.com/resources/arxiv-2512-10371/) — 2025-12-11
   Introduces AgentProg, organizing mobile-agent interaction history as a program with variables and control flow to decide what context to retain. A global belief state handles partial observability, with evaluation on AndroidWorld and extended long-horizon tasks.
 - [HiconAgent: History Context-aware Policy Optimization for GUI Agents](https://awesomecua.com/resources/arxiv-2512-01763/) — 2025-12-01
   HiconAgent trains GUI policies to use history through variable-length context sampling and paired policy updates with compressed and complete histories. Its compression retains past actions while removing historical observations, and an alignment loss couples the two branches.
+- [Real-Time Procedural Learning From Experience for AI Agents](https://awesomecua.com/resources/arxiv-2511-22074/) — 2025-11-27
+  PRAXIS stores action outcomes and retrieves past state-action-result examples to guide agent decisions, with evaluation on the REAL web browsing benchmark.
 - [WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance](https://awesomecua.com/resources/arxiv-2511-12997/) — 2025-11-17
   Introduces WebCoach, which condenses navigation logs into persistent episodic memory and retrieves experiences by similarity and recency. Runtime hooks selectively supply advice to browser agents, evaluated on WebVoyager without retraining the underlying models.
 - [History-Aware Reasoning for GUI Agents](https://awesomecua.com/resources/arxiv-2511-09127/) — 2025-11-12
   HAR-GUI combines episodic reasoning and short-term memory to use earlier interactions when selecting GUI actions. Its training constructs reflective scenarios and correction guidance and applies a hybrid reinforcement-learning reward to the 3B policy.
 - [GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation](https://awesomecua.com/resources/arxiv-2510-27210/) — 2025-10-31
   Combines structured progress-and-decision reasoning with history summarization to improve cross-domain generalization in GUI navigation agents.
+- [See, Think, Act: Online Shopper Behavior Simulation with VLM Agents](https://awesomecua.com/resources/arxiv-2510-19245/) — 2025-10-22
+  Studies online shopper action prediction with VLM agents using webpage screenshots, HTML, and action history from OPeRA, trained with SFT and hierarchical RL rewards.
 - [WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation](https://awesomecua.com/resources/arxiv-2510-19205/) — 2025-10-22
   Introduces WebGraphEval, which merges multiple agents' trajectories into a weighted graph of canonical actions. Structural analyses examine recurring behavior, inefficient paths and important decision points beyond a final success score.
+- [Genesis: Evolving Attack Strategies for LLM Web Agent Red-Teaming](https://awesomecua.com/resources/arxiv-2510-18314/) — 2025-10-21
+  Introduces Genesis, a red-teaming framework that generates adversarial injections for web agents and revises attack strategies using responses and interaction logs.
 - [Auto-scaling Continuous Memory for GUI Agent](https://awesomecua.com/resources/arxiv-2510-09038/) — 2025-10-10
   Encodes GUI trajectories into compact continuous embeddings that can be retrieved directly into an agent’s input. An automated environment-discovery and rollout pipeline expands this memory for long tasks and unfamiliar interfaces.
 - [JEF-Hinter: Leveraging Offline Knowledge for Improving Web Agents Adaptation](https://awesomecua.com/resources/arxiv-2510-04373/) — 2025-10-05
@@ -84,6 +94,12 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
   GUI-KV compresses vision-language agents’ attention caches using visual-token saliency and redundancy between screenshot frames. The method requires no retraining and evaluates how cache budgets affect GUI action accuracy and computational cost.
 - [PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](https://awesomecua.com/resources/arxiv-2510-00413/) — 2025-10-01
   PAL-UI combines observation/action summaries with selective retrieval of historical screenshots during planning. It trains mobile navigation models from step-level supervision and evaluates transfer to web navigation without additional training.
+- [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://awesomecua.com/resources/arxiv-2509-13313/) — 2025-09-16
+  Introduces ReSum, which compresses interaction histories during long web searches, and ReSum-GRPO, which trains agents to reason across the resulting segments.
+- [PG-Agent: An Agent Powered by Page Graph](https://awesomecua.com/resources/arxiv-2509-03536/) — 2025-08-27
+  Introduces PG-Agent, which turns GUI operation episodes into page graphs and retrieves guidance from them to support task decomposition in new scenarios.
+- [OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://awesomecua.com/resources/arxiv-2508-09124/) — 2025-08-12
+  Introduces OdysseyBench for evaluating long-horizon workflows across office applications, plus HomerAgents to generate tasks from environment exploration and dialogue synthesis.
 - [Less is More: Empowering GUI Agent with Context-Aware Simplification](https://awesomecua.com/resources/arxiv-2507-03730/) — 2025-07-04
   SimpAgent prunes distracting interface elements with visual masks and compresses interaction history using consistency-based guidance. The study evaluates these two forms of context reduction during GUI navigation in web and mobile environments.
 - [FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents](https://awesomecua.com/resources/arxiv-2507-21071/) — 2025-06-09

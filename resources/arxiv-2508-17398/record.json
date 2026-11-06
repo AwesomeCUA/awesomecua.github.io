@@ -100,6 +100,22 @@
         "details.publication.venue"
       ],
       "url": "https://aclanthology.org/2026.findings-eacl.177/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-11-05T23:01:54Z",
+      "role": "primary",
+      "sha256": "ff100e932a2c0dd45e8c1fe7a886af54ba9927ac638f516c8082a14138bfa7cb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2508.05294%2C2508.05748%2C2508.06960%2C2508.07871%2C2508.07999%2C2508.08228%2C2508.08997%2C2508.09124%2C2508.09736%2C2508.09981%2C2508.13167%2C2508.13186%2C2508.15804%2C2508.16153%2C2508.16271%2C2508.16763%2C2508.17398%2C2508.18265%2C2508.18489%2C2508.19461%2C2508.19611%2C2508.19828%2C2508.20018%2C2508.20410%2C2508.20890%2C2508.21475%2C2509.00088%2C2509.00969%2C2509.01684%2C2509.02473%2C2509.02547%2C2509.03536%2C2509.04018%2C2509.04198%2C2509.05368%2C2509.05831%2C2509.06501%2C2509.06917%2C2509.07098%2C2509.08820%2C2509.08826%2C2509.08827%2C2509.09321%2C2509.10345%2C2509.10540%2C2509.11067%2C2509.11253%2C2509.12543%2C2509.12987%2C2509.13313&max_results=50"
     }
   ],
   "id": "arxiv:2508.17398",
@@ -107,7 +123,7 @@
     "arxiv": "2508.17398"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-17T07:57:51Z",
+  "last_verified_at": "2026-11-05T23:01:54Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -116,7 +132,7 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2508.17398"
     },
     {
@@ -129,13 +145,18 @@
     }
   ],
   "name": "DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The benchmark centers on interactive dashboards from Tableau Public. Experiments, reported performance and artifact availability have not been independently reproduced.",
   "published_at": "2025-08-24",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces DashboardQA to evaluate how vision-language GUI agents answer questions by interacting with dashboards, grounding elements, and planning actions.",
+  "topics": [
+    "evaluation",
+    "grounding",
+    "planning",
+    "screen-understanding"
+  ],
   "updated_at": "2025-08-24",
   "url": "https://arxiv.org/abs/2508.17398"
 }

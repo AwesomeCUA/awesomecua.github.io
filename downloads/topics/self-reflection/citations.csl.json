@@ -1039,6 +1039,328 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.07098v1",
+    "archive": "arXiv",
+    "archive_location": "2509.07098",
+    "author": [
+      {
+        "literal": "Yinheng Li"
+      },
+      {
+        "literal": "Hailey Hultquist"
+      },
+      {
+        "literal": "Justin Wagle"
+      },
+      {
+        "literal": "Kazuhito Koishida"
+      }
+    ],
+    "citation-key": "arxiv_2509_07098",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1f5e5d68ea5cfe04d3e4bdb31d3b6152d44db3de344ea7afa950b5400a9dba5c",
+        "submitted_at": "2025-09-08T18:00:12Z",
+        "updated_at": "2025-09-08T18:00:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.07098v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.07098",
+      "catalog_id": "arxiv:2509.07098",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-08",
+      "identifiers": {
+        "arxiv": "2509.07098"
+      },
+      "record_updated_at": "2025-09-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.07098",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-08; Recorded arXiv version: v1; Recorded version updated: 2025-09-08T18:00:12Z.",
+    "title": "Instruction Agent: Enhancing Agent with Expert Demonstration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.17336v3",
+    "archive": "arXiv",
+    "archive_location": "2509.17336",
+    "author": [
+      {
+        "literal": "Tianyu Fu"
+      },
+      {
+        "literal": "Anyang Su"
+      },
+      {
+        "literal": "Chenxu Zhao"
+      },
+      {
+        "literal": "Hanning Wang"
+      },
+      {
+        "literal": "Minghui Wu"
+      },
+      {
+        "literal": "Zhe Yu"
+      },
+      {
+        "literal": "Fei Hu"
+      },
+      {
+        "literal": "Mingjia Shi"
+      },
+      {
+        "literal": "Wei Dong"
+      },
+      {
+        "literal": "Jiayao Wang"
+      },
+      {
+        "literal": "Yuyang Chen"
+      },
+      {
+        "literal": "Ruiyang Yu"
+      },
+      {
+        "literal": "Siran Peng"
+      },
+      {
+        "literal": "Menglin Li"
+      },
+      {
+        "literal": "Nan Huang"
+      },
+      {
+        "literal": "Haitian Wei"
+      },
+      {
+        "literal": "Jiawei Yu"
+      },
+      {
+        "literal": "Yi Xin"
+      },
+      {
+        "literal": "Xilin Zhao"
+      },
+      {
+        "literal": "Kai Gu"
+      },
+      {
+        "literal": "Ping Jiang"
+      },
+      {
+        "literal": "Sifan Zhou"
+      },
+      {
+        "literal": "Shuo Wang"
+      }
+    ],
+    "citation-key": "arxiv_2509_17336",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2cc02862104494a2ecef577a0b466cb480c57ee43c611993e5d1c96716ab973d",
+        "submitted_at": "2025-09-22T03:13:58Z",
+        "updated_at": "2025-10-31T09:42:28Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2509.17336v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.17336",
+      "catalog_id": "arxiv:2509.17336",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-22",
+      "identifiers": {
+        "arxiv": "2509.17336"
+      },
+      "record_updated_at": "2025-10-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.17336",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-22; Recorded arXiv version: v3; Recorded version updated: 2025-10-31T09:42:28Z.",
+    "title": "Mano Technical Report",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.21799v3",
+    "archive": "arXiv",
+    "archive_location": "2509.21799",
+    "author": [
+      {
+        "literal": "Hongze Mi"
+      },
+      {
+        "literal": "Yibo Feng"
+      },
+      {
+        "literal": "Wenjie Lu"
+      },
+      {
+        "literal": "Yuqi Wang"
+      },
+      {
+        "literal": "Jinyuan Li"
+      },
+      {
+        "literal": "Song Cao"
+      },
+      {
+        "literal": "He Cui"
+      },
+      {
+        "literal": "Tengfei Tian"
+      },
+      {
+        "literal": "Xuelin Zhang"
+      },
+      {
+        "literal": "Haotian Luo"
+      },
+      {
+        "literal": "Di Sun"
+      },
+      {
+        "literal": "Jun Fang"
+      },
+      {
+        "literal": "Hua Chai"
+      },
+      {
+        "literal": "Naiqiang Tan"
+      },
+      {
+        "literal": "Gang Pan"
+      }
+    ],
+    "citation-key": "arxiv_2509_21799",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "df0c5cb2e891375c3e6dd8e0dbebd6a41273593a3186e9eda9b1d99b05489001",
+        "submitted_at": "2025-09-26T02:56:19Z",
+        "updated_at": "2026-01-07T02:57:38Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2509.21799v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.21799",
+      "catalog_id": "arxiv:2509.21799",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-26",
+      "identifiers": {
+        "arxiv": "2509.21799"
+      },
+      "record_updated_at": "2026-01-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.21799",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-26; Recorded arXiv version: v3; Recorded version updated: 2026-01-07T02:57:38Z.",
+    "title": "D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.22644v1",
+    "archive": "arXiv",
+    "archive_location": "2509.22644",
+    "author": [
+      {
+        "literal": "Zimu Lu"
+      },
+      {
+        "literal": "Houxing Ren"
+      },
+      {
+        "literal": "Yunqiao Yang"
+      },
+      {
+        "literal": "Ke Wang"
+      },
+      {
+        "literal": "Zhuofan Zong"
+      },
+      {
+        "literal": "Junting Pan"
+      },
+      {
+        "literal": "Mingjie Zhan"
+      },
+      {
+        "literal": "Hongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2509_22644",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f84e15c2ea604916be471ed27f1a4fa528d8cc85e4a6e3914698ebca8b12c804",
+        "submitted_at": "2025-09-26T17:59:51Z",
+        "updated_at": "2025-09-26T17:59:51Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.22644v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.22644",
+      "catalog_id": "arxiv:2509.22644",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-09-26",
+      "identifiers": {
+        "arxiv": "2509.22644"
+      },
+      "record_updated_at": "2025-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.22644",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-26; Recorded arXiv version: v1; Recorded version updated: 2025-09-26T17:59:51Z.",
+    "title": "WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.25140v2",
     "archive": "arXiv",
     "archive_location": "2509.25140",
@@ -1316,6 +1638,88 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2512.22322v2",
+    "archive": "arXiv",
+    "archive_location": "2512.22322",
+    "author": [
+      {
+        "literal": "Shaofei Cai"
+      },
+      {
+        "literal": "Yulei Qin"
+      },
+      {
+        "literal": "Haojia Lin"
+      },
+      {
+        "literal": "Zihan Xu"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Yuchen Shi"
+      },
+      {
+        "literal": "Zongyi Li"
+      },
+      {
+        "literal": "Yong Mao"
+      },
+      {
+        "literal": "Siqi Cai"
+      },
+      {
+        "literal": "Xiaoyu Tan"
+      },
+      {
+        "literal": "Yitao Liang"
+      },
+      {
+        "literal": "Ke Li"
+      },
+      {
+        "literal": "Xing Sun"
+      }
+    ],
+    "citation-key": "arxiv_2512_22322",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e101e5b98d02ddb5b48a7c1ff80d34a6a8ef783609995fcdc719fa1706aa2325",
+        "submitted_at": "2025-12-26T14:51:39Z",
+        "updated_at": "2026-01-06T03:31:29Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2512.22322v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.22322",
+      "catalog_id": "arxiv:2512.22322",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-26",
+      "identifiers": {
+        "arxiv": "2512.22322"
+      },
+      "record_updated_at": "2026-01-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.22322",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-26; Recorded arXiv version: v2; Recorded version updated: 2026-01-06T03:31:29Z.",
+    "title": "SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.04500v1",
     "archive": "arXiv",
     "archive_location": "2601.04500",
@@ -1513,6 +1917,73 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.07787v1",
+    "archive": "arXiv",
+    "archive_location": "2602.07787",
+    "author": [
+      {
+        "literal": "Pierre-Louis Favreau"
+      },
+      {
+        "literal": "Jean-Pierre Lo"
+      },
+      {
+        "literal": "Clement Guiguet"
+      },
+      {
+        "literal": "Charles Simon-Meunier"
+      },
+      {
+        "literal": "Nicolas Dehandschoewercker"
+      },
+      {
+        "literal": "Allen G. Roush"
+      },
+      {
+        "literal": "Judah Goldfeder"
+      },
+      {
+        "literal": "Ravid Shwartz-Ziv"
+      }
+    ],
+    "citation-key": "arxiv_2602_07787",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ca42c9befea71d930c4b4f38a5eb4f6fb812a4966623556a56d417e3dec229af",
+        "submitted_at": "2026-02-08T03:02:13Z",
+        "updated_at": "2026-02-08T03:02:13Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.07787v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.07787",
+      "catalog_id": "arxiv:2602.07787",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-08",
+      "identifiers": {
+        "arxiv": "2602.07787"
+      },
+      "record_updated_at": "2026-02-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.07787",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-08; Recorded arXiv version: v1; Recorded version updated: 2026-02-08T03:02:13Z.",
+    "title": "Do Multi-Agents Dream of Electric Screens? Achieving Perfect Accuracy on AndroidWorld Through Task Decomposition",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2602.13559v2",
     "archive": "arXiv",
     "archive_location": "2602.13559",
@@ -1599,6 +2070,67 @@
     "title": "OpAgent: Operator Agent for Web Navigation",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.15384v1",
+    "archive": "arXiv",
+    "archive_location": "2602.15384",
+    "author": [
+      {
+        "literal": "Zhouzhou Shen"
+      },
+      {
+        "literal": "Xueyu Hu"
+      },
+      {
+        "literal": "Xiyun Li"
+      },
+      {
+        "literal": "Tianqing Fang"
+      },
+      {
+        "literal": "Juncheng Li"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2602_15384",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "29fa4927311278ad8ad8aabc8b77dfc05ad7d21b87969b5fb330d7a3a8fd727b",
+        "submitted_at": "2026-02-17T06:37:31Z",
+        "updated_at": "2026-02-17T06:37:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.15384v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.15384",
+      "catalog_id": "arxiv:2602.15384",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-17",
+      "identifiers": {
+        "arxiv": "2602.15384"
+      },
+      "record_updated_at": "2026-02-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.15384",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-17; Recorded arXiv version: v1; Recorded version updated: 2026-02-17T06:37:31Z.",
+    "title": "World-Model-Augmented Web Agents with Action Correction",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2603.15039v1",

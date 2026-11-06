@@ -628,6 +628,259 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2508.16763v1",
+    "archive": "arXiv",
+    "archive_location": "2508.16763",
+    "author": [
+      {
+        "literal": "Rabiul Awal"
+      },
+      {
+        "literal": "Mahsa Massoud"
+      },
+      {
+        "literal": "Aarash Feizi"
+      },
+      {
+        "literal": "Zichao Li"
+      },
+      {
+        "literal": "Suyuchen Wang"
+      },
+      {
+        "literal": "Christopher Pal"
+      },
+      {
+        "literal": "Aishwarya Agrawal"
+      },
+      {
+        "literal": "David Vazquez"
+      },
+      {
+        "literal": "Siva Reddy"
+      },
+      {
+        "literal": "Juan A. Rodriguez"
+      },
+      {
+        "literal": "Perouz Taslakian"
+      },
+      {
+        "literal": "Spandana Gella"
+      },
+      {
+        "literal": "Sai Rajeswar"
+      }
+    ],
+    "citation-key": "arxiv_2508_16763",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d78aa1620f6cc1f93fee8d1d38dc40bd560ca2c2486e312e213b0cc5cc9390c8",
+        "submitted_at": "2025-08-22T19:41:02Z",
+        "updated_at": "2025-08-22T19:41:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2508.16763v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.16763",
+      "catalog_id": "arxiv:2508.16763",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-22",
+      "identifiers": {
+        "arxiv": "2508.16763"
+      },
+      "record_updated_at": "2025-08-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.16763",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-22; Recorded arXiv version: v1; Recorded version updated: 2025-08-22T19:41:02Z.",
+    "title": "WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.22644v1",
+    "archive": "arXiv",
+    "archive_location": "2509.22644",
+    "author": [
+      {
+        "literal": "Zimu Lu"
+      },
+      {
+        "literal": "Houxing Ren"
+      },
+      {
+        "literal": "Yunqiao Yang"
+      },
+      {
+        "literal": "Ke Wang"
+      },
+      {
+        "literal": "Zhuofan Zong"
+      },
+      {
+        "literal": "Junting Pan"
+      },
+      {
+        "literal": "Mingjie Zhan"
+      },
+      {
+        "literal": "Hongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2509_22644",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f84e15c2ea604916be471ed27f1a4fa528d8cc85e4a6e3914698ebca8b12c804",
+        "submitted_at": "2025-09-26T17:59:51Z",
+        "updated_at": "2025-09-26T17:59:51Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.22644v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.22644",
+      "catalog_id": "arxiv:2509.22644",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-09-26",
+      "identifiers": {
+        "arxiv": "2509.22644"
+      },
+      "record_updated_at": "2025-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.22644",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-26; Recorded arXiv version: v1; Recorded version updated: 2025-09-26T17:59:51Z.",
+    "title": "WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.04452v3",
+    "archive": "arXiv",
+    "archive_location": "2510.04452",
+    "author": [
+      {
+        "literal": "Jenny T. Liang"
+      },
+      {
+        "literal": "Titus Barik"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      },
+      {
+        "literal": "Eldon Schoop"
+      },
+      {
+        "literal": "Ruijia Cheng"
+      }
+    ],
+    "citation-key": "arxiv_2510_04452",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "15bc41d6223eb659fd4d99cb55b83b1dc60cdc98cf990cb641311ab1879c841f",
+        "submitted_at": "2025-10-06T02:58:42Z",
+        "updated_at": "2026-07-28T07:01:45Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.04452v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.04452",
+      "catalog_id": "arxiv:2510.04452",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-06",
+      "identifiers": {
+        "arxiv": "2510.04452"
+      },
+      "record_updated_at": "2026-07-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.04452",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-06; Recorded arXiv version: v3; Recorded version updated: 2026-07-28T07:01:45Z.",
+    "title": "Understanding User Experiences of Computer Use Agents: Design Space and Opportunities for Building Agent UX Prototypes",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.06223v2",
+    "archive": "arXiv",
+    "archive_location": "2510.06223",
+    "author": [
+      {
+        "literal": "Hans G. W. van Dam"
+      }
+    ],
+    "citation-key": "arxiv_2510_06223",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9538fa696994dc6ccb25cdc6c3f07e4745063f87bbfd9250e930100092965b83",
+        "submitted_at": "2025-08-31T14:40:11Z",
+        "updated_at": "2025-10-09T12:55:47Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.06223v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.06223",
+      "catalog_id": "arxiv:2510.06223",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-08-31",
+      "identifiers": {
+        "arxiv": "2510.06223"
+      },
+      "record_updated_at": "2025-10-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.06223",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-31; Recorded arXiv version: v2; Recorded version updated: 2025-10-09T12:55:47Z.",
+    "title": "A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.11035v2",
     "archive": "arXiv",
     "archive_location": "2510.11035",
@@ -765,6 +1018,76 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2511.06251v1",
+    "archive": "arXiv",
+    "archive_location": "2511.06251",
+    "author": [
+      {
+        "literal": "Mingde Xu"
+      },
+      {
+        "literal": "Zhen Yang"
+      },
+      {
+        "literal": "Wenyi Hong"
+      },
+      {
+        "literal": "Lihang Pan"
+      },
+      {
+        "literal": "Xinyue Fan"
+      },
+      {
+        "literal": "Yan Wang"
+      },
+      {
+        "literal": "Xiaotao Gu"
+      },
+      {
+        "literal": "Bin Xu"
+      },
+      {
+        "literal": "Jie Tang"
+      }
+    ],
+    "citation-key": "arxiv_2511_06251",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cde22b8d0792803657599b0f81729a165190a699a8044039edf86a80518921a3",
+        "submitted_at": "2025-11-09T06:58:52Z",
+        "updated_at": "2025-11-09T06:58:52Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2511.06251v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.06251",
+      "catalog_id": "arxiv:2511.06251",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-11-09",
+      "identifiers": {
+        "arxiv": "2511.06251"
+      },
+      "record_updated_at": "2025-11-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.06251",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-09; Recorded arXiv version: v1; Recorded version updated: 2025-11-09T06:58:52Z.",
+    "title": "WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2511.15567v1",
     "archive": "arXiv",
     "archive_location": "2511.15567",
@@ -827,6 +1150,58 @@
     "title": "Computer-Use Agents as Judges for Generative User Interface",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.22894v2",
+    "archive": "arXiv",
+    "archive_location": "2512.22894",
+    "author": [
+      {
+        "literal": "Phil Cuvin"
+      },
+      {
+        "literal": "Hao Zhu"
+      },
+      {
+        "literal": "Diyi Yang"
+      }
+    ],
+    "citation-key": "arxiv_2512_22894",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "454bc17ab0c9107da3caad1bd33bd4bd6f0ae086789a748b34a0e24e5f8c4505",
+        "submitted_at": "2025-12-28T11:55:20Z",
+        "updated_at": "2026-02-06T11:44:30Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2512.22894v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.22894",
+      "catalog_id": "arxiv:2512.22894",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-28",
+      "identifiers": {
+        "arxiv": "2512.22894"
+      },
+      "record_updated_at": "2026-02-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.22894",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-28; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T11:44:30Z.",
+    "title": "DECEPTICON: How Dark Patterns Manipulate Web Agents",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2512.23128v3",
@@ -898,6 +1273,70 @@
     },
     "note": "First published: 2025-12-29; Recorded arXiv version: v3; Recorded version updated: 2026-07-02T16:12:04Z.",
     "title": "It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.04203v3",
+    "archive": "arXiv",
+    "archive_location": "2601.04203",
+    "author": [
+      {
+        "literal": "Xueqing Wu"
+      },
+      {
+        "literal": "Zihan Xue"
+      },
+      {
+        "literal": "Da Yin"
+      },
+      {
+        "literal": "Shuyan Zhou"
+      },
+      {
+        "literal": "Kai-Wei Chang"
+      },
+      {
+        "literal": "Nanyun Peng"
+      },
+      {
+        "literal": "Yeming Wen"
+      }
+    ],
+    "citation-key": "arxiv_2601_04203",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cff29f0ec84d79d9ac51654bc21f08ddf497be343a6fdd59456c47bac89ee0a4",
+        "submitted_at": "2025-12-05T23:28:09Z",
+        "updated_at": "2026-08-09T08:10:47Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2601.04203v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.04203",
+      "catalog_id": "arxiv:2601.04203",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-12-05",
+      "identifiers": {
+        "arxiv": "2601.04203"
+      },
+      "record_updated_at": "2026-08-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.04203",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-05; Recorded arXiv version: v3; Recorded version updated: 2026-08-09T08:10:47Z.",
+    "title": "FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback",
     "type": "article",
     "version": "3"
   },
@@ -1031,6 +1470,109 @@
     "title": "How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.01443v1",
+    "archive": "arXiv",
+    "archive_location": "2602.01443",
+    "author": [
+      {
+        "literal": "Alberto Castelo"
+      },
+      {
+        "literal": "Zahra Zanjani Foumani"
+      },
+      {
+        "literal": "Ailin Fan"
+      },
+      {
+        "literal": "Keat Yang Koay"
+      },
+      {
+        "literal": "Vibhor Malik"
+      },
+      {
+        "literal": "Yuanzheng Zhu"
+      },
+      {
+        "literal": "Han Li"
+      },
+      {
+        "literal": "Meysam Feghhi"
+      },
+      {
+        "literal": "Ronie Uliana"
+      },
+      {
+        "literal": "Shuang Xie"
+      },
+      {
+        "literal": "Zhaoyu Zhang"
+      },
+      {
+        "literal": "Angelo Ocana Martins"
+      },
+      {
+        "literal": "Mingyu Zhao"
+      },
+      {
+        "literal": "Francis Pelland"
+      },
+      {
+        "literal": "Jonathan Faerman"
+      },
+      {
+        "literal": "Nikolas LeBlanc"
+      },
+      {
+        "literal": "Aaron Glazer"
+      },
+      {
+        "literal": "Andrew McNamara"
+      },
+      {
+        "literal": "Lingyun Wang"
+      },
+      {
+        "literal": "Zhong Wu"
+      }
+    ],
+    "citation-key": "arxiv_2602_01443",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6276599a10318323b7845753a0e0a3eecf518fbec32e3355d7ace6bff796660b",
+        "submitted_at": "2026-02-01T21:23:04Z",
+        "updated_at": "2026-02-01T21:23:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.01443v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.01443",
+      "catalog_id": "arxiv:2602.01443",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-01",
+      "identifiers": {
+        "arxiv": "2602.01443"
+      },
+      "record_updated_at": "2026-02-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.01443",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-01; Recorded arXiv version: v1; Recorded version updated: 2026-02-01T21:23:04Z.",
+    "title": "SimGym: Traffic-Grounded Browser Agents for Offline A/B Testing in E-Commerce",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2602.07283v1",

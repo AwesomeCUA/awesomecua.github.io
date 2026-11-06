@@ -16,6 +16,10 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
   Organizes security risks and defenses for persistent agent memory into six lifecycle phases and proposes five verifiable governance primitives.
 - [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://awesomecua.com/resources/arxiv-2602-12430/) — 2026-02-12
   This survey organizes agent skills by architecture, acquisition, deployment and security, including their role in computer-use systems and GUI grounding. It also proposes a permission and lifecycle governance framework for skill deployment.
+- [Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents](https://awesomecua.com/resources/arxiv-2601-12560/) — 2026-01-18
+  Surveys LLM agent architectures, operating environments and evaluation, covering web navigation and native computer use alongside other agent domains.
+- [Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI](https://awesomecua.com/resources/arxiv-2510-16720/) — 2025-10-19
+  Surveys model-native agentic AI and the role of RL in learned planning, tool use and memory, covering GUI agents as one application alongside deep-research agents.
 - [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://awesomecua.com/resources/arxiv-2508-04482/) — 2025-08-06
   Surveys agents that operate computers and phones through operating-system interfaces, covering components, capabilities, foundation models, frameworks, and benchmarks.
 - [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://awesomecua.com/resources/arxiv-2505-10924/) — 2025-05-16

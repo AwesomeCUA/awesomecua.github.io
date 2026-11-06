@@ -2073,6 +2073,58 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.04198v1",
+    "archive": "arXiv",
+    "archive_location": "2509.04198",
+    "author": [
+      {
+        "literal": "Petr Průcha"
+      },
+      {
+        "literal": "Michaela Matoušková"
+      },
+      {
+        "literal": "Jan Strnad"
+      }
+    ],
+    "citation-key": "arxiv_2509_04198",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9d2c3086aac59964b4c34a0ba890e6a9a1e55cf45c1af604f1f856180a5db746",
+        "submitted_at": "2025-09-04T13:22:44Z",
+        "updated_at": "2025-09-04T13:22:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.04198v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.04198",
+      "catalog_id": "arxiv:2509.04198",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-04",
+      "identifiers": {
+        "arxiv": "2509.04198"
+      },
+      "record_updated_at": "2025-09-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.04198",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-04; Recorded arXiv version: v1; Recorded version updated: 2025-09-04T13:22:44Z.",
+    "title": "Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.06477v2",
     "archive": "arXiv",
     "archive_location": "2509.06477",
@@ -2158,6 +2210,155 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.11067v2",
+    "archive": "arXiv",
+    "archive_location": "2509.11067",
+    "author": [
+      {
+        "literal": "Liangxuan Guo"
+      },
+      {
+        "literal": "Bin Zhu"
+      },
+      {
+        "literal": "Qingqian Tao"
+      },
+      {
+        "literal": "Kangning Liu"
+      },
+      {
+        "literal": "Xun Zhao"
+      },
+      {
+        "literal": "Xianzhe Qin"
+      },
+      {
+        "literal": "Jin Gao"
+      },
+      {
+        "literal": "Guangfu Hao"
+      }
+    ],
+    "citation-key": "arxiv_2509_11067",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2f6b37031618a03023dc9140ad54b6e1d82dbc619fa53591a92a047591e921db",
+        "submitted_at": "2025-09-14T03:22:27Z",
+        "updated_at": "2025-09-16T02:49:53Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.11067v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.11067",
+      "catalog_id": "arxiv:2509.11067",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-14",
+      "identifiers": {
+        "arxiv": "2509.11067"
+      },
+      "record_updated_at": "2025-09-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.11067",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-14; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T02:49:53Z.",
+    "title": "Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.25301v1",
+    "archive": "arXiv",
+    "archive_location": "2509.25301",
+    "author": [
+      {
+        "literal": "Tianrui Qin"
+      },
+      {
+        "literal": "Qianben Chen"
+      },
+      {
+        "literal": "Sinuo Wang"
+      },
+      {
+        "literal": "He Xing"
+      },
+      {
+        "literal": "King Zhu"
+      },
+      {
+        "literal": "He Zhu"
+      },
+      {
+        "literal": "Dingfeng Shi"
+      },
+      {
+        "literal": "Xinxin Liu"
+      },
+      {
+        "literal": "Ge Zhang"
+      },
+      {
+        "literal": "Jiaheng Liu"
+      },
+      {
+        "literal": "Yuchen Eleanor Jiang"
+      },
+      {
+        "literal": "Xitong Gao"
+      },
+      {
+        "literal": "Wangchunshu Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2509_25301",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dc9bcd3849ae08f4c8931cdf5e7a2e9bb482a29f2bab07a317bb604ca626979b",
+        "submitted_at": "2025-09-29T17:39:30Z",
+        "updated_at": "2025-09-29T17:39:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.25301v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.25301",
+      "catalog_id": "arxiv:2509.25301",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-09-29",
+      "identifiers": {
+        "arxiv": "2509.25301"
+      },
+      "record_updated_at": "2025-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.25301",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-29; Recorded arXiv version: v1; Recorded version updated: 2025-09-29T17:39:30Z.",
+    "title": "Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.26506v1",
     "archive": "arXiv",
     "archive_location": "2509.26506",
@@ -2232,6 +2433,277 @@
     "title": "SCUBA: Salesforce Computer Use Benchmark",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.10049v1",
+    "archive": "arXiv",
+    "archive_location": "2510.10049",
+    "author": [
+      {
+        "literal": "Jiawen Li"
+      },
+      {
+        "literal": "Zheng Ning"
+      },
+      {
+        "literal": "Yuan Tian"
+      },
+      {
+        "literal": "Toby Jia-jun Li"
+      }
+    ],
+    "citation-key": "arxiv_2510_10049",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8bcc376559a7f97063decb38fdd86f20bbe2024ea633a1b3754917e033c82fee",
+        "submitted_at": "2025-10-11T06:30:34Z",
+        "updated_at": "2025-10-11T06:30:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.10049v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.10049",
+      "catalog_id": "arxiv:2510.10049",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-11",
+      "identifiers": {
+        "arxiv": "2510.10049"
+      },
+      "record_updated_at": "2025-10-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.10049",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-11; Recorded arXiv version: v1; Recorded version updated: 2025-10-11T06:30:34Z.",
+    "title": "ALLOY: Generating Reusable Agent Workflows from User Demonstration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.14308v2",
+    "archive": "arXiv",
+    "archive_location": "2510.14308",
+    "author": [
+      {
+        "literal": "Yimeng Liu"
+      },
+      {
+        "literal": "Misha Sra"
+      },
+      {
+        "literal": "Jeevana Priya Inala"
+      },
+      {
+        "literal": "Chenglong Wang"
+      }
+    ],
+    "citation-key": "arxiv_2510_14308",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "943a16b7de023cac9da474b32d93918a81bc1c01126fcfcb4a5ead4b2e4639ec",
+        "submitted_at": "2025-10-16T05:11:00Z",
+        "updated_at": "2026-01-24T02:41:39Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.14308v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.14308",
+      "catalog_id": "arxiv:2510.14308",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-16",
+      "identifiers": {
+        "arxiv": "2510.14308"
+      },
+      "record_updated_at": "2026-01-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.14308",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-01-24T02:41:39Z.",
+    "title": "ReUseIt: Synthesizing Reusable AI Agent Workflows for Web Automation",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.15863v2",
+    "archive": "arXiv",
+    "archive_location": "2510.15863",
+    "author": [
+      {
+        "literal": "Simon Yu"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Weiyan Shi"
+      },
+      {
+        "literal": "Peng Qi"
+      }
+    ],
+    "citation-key": "arxiv_2510_15863",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "864f797fd3d3ea317ca29d225d67db3ea635f840afdb30639b4bd0368bc5ac17",
+        "submitted_at": "2025-10-17T17:56:00Z",
+        "updated_at": "2026-03-02T03:34:00Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.15863v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.15863",
+      "catalog_id": "arxiv:2510.15863",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-17",
+      "identifiers": {
+        "arxiv": "2510.15863"
+      },
+      "record_updated_at": "2026-03-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.15863",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-17; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T03:34:00Z.",
+    "title": "PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.24702v2",
+    "archive": "arXiv",
+    "archive_location": "2510.24702",
+    "author": [
+      {
+        "literal": "Yueqi Song"
+      },
+      {
+        "literal": "Ketan Ramaneti"
+      },
+      {
+        "literal": "Zaid Sheikh"
+      },
+      {
+        "literal": "Ziru Chen"
+      },
+      {
+        "literal": "Boyu Gou"
+      },
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Yiheng Xu"
+      },
+      {
+        "literal": "Danyang Zhang"
+      },
+      {
+        "literal": "Apurva Gandhi"
+      },
+      {
+        "literal": "Fan Yang"
+      },
+      {
+        "literal": "Joseph Liu"
+      },
+      {
+        "literal": "Tianyue Ou"
+      },
+      {
+        "literal": "Zhihao Yuan"
+      },
+      {
+        "literal": "Frank Xu"
+      },
+      {
+        "literal": "Shuyan Zhou"
+      },
+      {
+        "literal": "Xingyao Wang"
+      },
+      {
+        "literal": "Xiang Yue"
+      },
+      {
+        "literal": "Tao Yu"
+      },
+      {
+        "literal": "Huan Sun"
+      },
+      {
+        "literal": "Yu Su"
+      },
+      {
+        "literal": "Graham Neubig"
+      }
+    ],
+    "citation-key": "arxiv_2510_24702",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1babedca47327517bc12cd93ea8956180f4e6aa55f7104201019e9c31bb5043d",
+        "submitted_at": "2025-10-28T17:53:13Z",
+        "updated_at": "2026-03-04T04:17:07Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.24702v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.24702",
+      "catalog_id": "arxiv:2510.24702",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-28",
+      "identifiers": {
+        "arxiv": "2510.24702"
+      },
+      "record_updated_at": "2026-03-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.24702",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-28; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T04:17:07Z.",
+    "title": "Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2511.17131v1",
@@ -2426,6 +2898,304 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2601.11868v1",
+    "archive": "arXiv",
+    "archive_location": "2601.11868",
+    "author": [
+      {
+        "literal": "Mike A. Merrill"
+      },
+      {
+        "literal": "Alexander G. Shaw"
+      },
+      {
+        "literal": "Nicholas Carlini"
+      },
+      {
+        "literal": "Boxuan Li"
+      },
+      {
+        "literal": "Harsh Raj"
+      },
+      {
+        "literal": "Ivan Bercovich"
+      },
+      {
+        "literal": "Lin Shi"
+      },
+      {
+        "literal": "Jeong Yeon Shin"
+      },
+      {
+        "literal": "Thomas Walshe"
+      },
+      {
+        "literal": "E. Kelly Buchanan"
+      },
+      {
+        "literal": "Junhong Shen"
+      },
+      {
+        "literal": "Guanghao Ye"
+      },
+      {
+        "literal": "Haowei Lin"
+      },
+      {
+        "literal": "Jason Poulos"
+      },
+      {
+        "literal": "Maoyu Wang"
+      },
+      {
+        "literal": "Marianna Nezhurina"
+      },
+      {
+        "literal": "Jenia Jitsev"
+      },
+      {
+        "literal": "Di Lu"
+      },
+      {
+        "literal": "Orfeas Menis Mastromichalakis"
+      },
+      {
+        "literal": "Zhiwei Xu"
+      },
+      {
+        "literal": "Zizhao Chen"
+      },
+      {
+        "literal": "Yue Liu"
+      },
+      {
+        "literal": "Robert Zhang"
+      },
+      {
+        "literal": "Leon Liangyu Chen"
+      },
+      {
+        "literal": "Anurag Kashyap"
+      },
+      {
+        "literal": "Jan-Lucas Uslu"
+      },
+      {
+        "literal": "Jeffrey Li"
+      },
+      {
+        "literal": "Jianbo Wu"
+      },
+      {
+        "literal": "Minghao Yan"
+      },
+      {
+        "literal": "Song Bian"
+      },
+      {
+        "literal": "Vedang Sharma"
+      },
+      {
+        "literal": "Ke Sun"
+      },
+      {
+        "literal": "Steven Dillmann"
+      },
+      {
+        "literal": "Akshay Anand"
+      },
+      {
+        "literal": "Andrew Lanpouthakoun"
+      },
+      {
+        "literal": "Bardia Koopah"
+      },
+      {
+        "literal": "Changran Hu"
+      },
+      {
+        "literal": "Etash Guha"
+      },
+      {
+        "literal": "Gabriel H. S. Dreiman"
+      },
+      {
+        "literal": "Jiacheng Zhu"
+      },
+      {
+        "literal": "Karl Krauth"
+      },
+      {
+        "literal": "Li Zhong"
+      },
+      {
+        "literal": "Niklas Muennighoff"
+      },
+      {
+        "literal": "Robert Amanfu"
+      },
+      {
+        "literal": "Shangyin Tan"
+      },
+      {
+        "literal": "Shreyas Pimpalgaonkar"
+      },
+      {
+        "literal": "Tushar Aggarwal"
+      },
+      {
+        "literal": "Xiangning Lin"
+      },
+      {
+        "literal": "Xin Lan"
+      },
+      {
+        "literal": "Xuandong Zhao"
+      },
+      {
+        "literal": "Yiqing Liang"
+      },
+      {
+        "literal": "Yuanli Wang"
+      },
+      {
+        "literal": "Zilong Wang"
+      },
+      {
+        "literal": "Changzhi Zhou"
+      },
+      {
+        "literal": "David Heineman"
+      },
+      {
+        "literal": "Hange Liu"
+      },
+      {
+        "literal": "Harsh Trivedi"
+      },
+      {
+        "literal": "John Yang"
+      },
+      {
+        "literal": "Junhong Lin"
+      },
+      {
+        "literal": "Manish Shetty"
+      },
+      {
+        "literal": "Michael Yang"
+      },
+      {
+        "literal": "Nabil Omi"
+      },
+      {
+        "literal": "Negin Raoof"
+      },
+      {
+        "literal": "Shanda Li"
+      },
+      {
+        "literal": "Terry Yue Zhuo"
+      },
+      {
+        "literal": "Wuwei Lin"
+      },
+      {
+        "literal": "Yiwei Dai"
+      },
+      {
+        "literal": "Yuxin Wang"
+      },
+      {
+        "literal": "Wenhao Chai"
+      },
+      {
+        "literal": "Shang Zhou"
+      },
+      {
+        "literal": "Dariush Wahdany"
+      },
+      {
+        "literal": "Ziyu She"
+      },
+      {
+        "literal": "Jiaming Hu"
+      },
+      {
+        "literal": "Zhikang Dong"
+      },
+      {
+        "literal": "Yuxuan Zhu"
+      },
+      {
+        "literal": "Sasha Cui"
+      },
+      {
+        "literal": "Ahson Saiyed"
+      },
+      {
+        "literal": "Arinbjörn Kolbeinsson"
+      },
+      {
+        "literal": "Jesse Hu"
+      },
+      {
+        "literal": "Christopher Michael Rytting"
+      },
+      {
+        "literal": "Ryan Marten"
+      },
+      {
+        "literal": "Yixin Wang"
+      },
+      {
+        "literal": "Alex Dimakis"
+      },
+      {
+        "literal": "Andy Konwinski"
+      },
+      {
+        "literal": "Ludwig Schmidt"
+      }
+    ],
+    "citation-key": "arxiv_2601_11868",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "40586833a0a14c29a39920f0e44e8d375191af28fa96c2f6a29aabe1ed7d3c45",
+        "submitted_at": "2026-01-17T01:29:30Z",
+        "updated_at": "2026-01-17T01:29:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.11868v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.11868",
+      "catalog_id": "arxiv:2601.11868",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-01-17",
+      "identifiers": {
+        "arxiv": "2601.11868"
+      },
+      "record_updated_at": "2026-01-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.11868",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-17; Recorded arXiv version: v1; Recorded version updated: 2026-01-17T01:29:30Z.",
+    "title": "Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.17722v1",
     "archive": "arXiv",
     "archive_location": "2601.17722",
@@ -2547,6 +3317,134 @@
     },
     "note": "First published: 2026-01-26; Recorded arXiv version: v1; Recorded version updated: 2026-01-26T03:02:26Z.",
     "title": "From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.08235v2",
+    "archive": "arXiv",
+    "archive_location": "2602.08235",
+    "author": [
+      {
+        "literal": "Jaylen Jones"
+      },
+      {
+        "literal": "Zhehao Zhang"
+      },
+      {
+        "literal": "Yuting Ning"
+      },
+      {
+        "literal": "Eric Fosler-Lussier"
+      },
+      {
+        "literal": "Pierre-Luc St-Charles"
+      },
+      {
+        "literal": "Yoshua Bengio"
+      },
+      {
+        "literal": "Dawn Song"
+      },
+      {
+        "literal": "Yu Su"
+      },
+      {
+        "literal": "Huan Sun"
+      }
+    ],
+    "citation-key": "arxiv_2602_08235",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7d6e474c42c3e43b36530810134c68cf13491ceab43de3e2d5fcc0bc65587163",
+        "submitted_at": "2026-02-09T03:20:11Z",
+        "updated_at": "2026-06-06T21:46:49Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.08235v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.08235",
+      "catalog_id": "arxiv:2602.08235",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-09",
+      "identifiers": {
+        "arxiv": "2602.08235"
+      },
+      "record_updated_at": "2026-06-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.08235",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-06-06T21:46:49Z.",
+    "title": "When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.14364v1",
+    "archive": "arXiv",
+    "archive_location": "2602.14364",
+    "author": [
+      {
+        "literal": "Tianyu Chen"
+      },
+      {
+        "literal": "Dongrui Liu"
+      },
+      {
+        "literal": "Xia Hu"
+      },
+      {
+        "literal": "Jingyi Yu"
+      },
+      {
+        "literal": "Wenjie Wang"
+      }
+    ],
+    "citation-key": "arxiv_2602_14364",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2ec0af138b01a510eabe6a062c077b1ae4ee02cfd5ba46b8fa40cf1b77c3f2ca",
+        "submitted_at": "2026-02-16T00:33:02Z",
+        "updated_at": "2026-02-16T00:33:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.14364v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.14364",
+      "catalog_id": "arxiv:2602.14364",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-02-16",
+      "identifiers": {
+        "arxiv": "2602.14364"
+      },
+      "record_updated_at": "2026-02-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.14364",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-16; Recorded arXiv version: v1; Recorded version updated: 2026-02-16T00:33:02Z.",
+    "title": "A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)",
     "type": "article",
     "version": "1"
   },

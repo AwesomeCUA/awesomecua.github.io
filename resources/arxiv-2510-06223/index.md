@@ -1,20 +1,20 @@
 # A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants
 
-Bibliographic record for A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Presents an MCP architecture that exposes an application's GUI navigation graph and view-specific tools to speech-enabled LLM assistants for voice interaction.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2510-06223/
 - Original source: https://arxiv.org/abs/2510.06223
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:32:52Z
+- Topics: tool-integration, ui-design
+- Evidence checked: 2026-11-05T23:02:00Z
 - ID: arxiv:2510.06223
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The assistant uses application-exposed tools and navigation semantics. Experiments, reported performance and artifact availability have not been independently reproduced.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-06223/record.json
 
@@ -46,3 +46,4 @@ Hans G. W. van Dam
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2310.08588%2C2402.09205%2C2406.05720%2C2407.21075%2C2410.07166%2C2503.03743%2C2508.04037%2C2508.10833%2C2508.11360%2C2508.13024%2C2508.13186%2C2508.14104%2C2509.01619%2C2509.01720%2C2509.02322%2C2509.04198%2C2509.07764%2C2509.21823%2C2509.22256%2C2509.23263%2C2509.23866%2C2509.25047%2C2509.26539%2C2510.00413%2C2510.00536%2C2510.01524%2C2510.02204%2C2510.02250%2C2510.02418%2C2510.03204%2C2510.03612%2C2510.04039%2C2510.04373%2C2510.04607%2C2510.06223%2C2510.06607%2C2510.09872%2C2510.10666%2C2510.11035%2C2510.11221%2C2510.11892%2C2510.13543%2C2510.15455%2C2510.15863%2C2510.16252%2C2510.18113%2C2510.18314%2C2510.19205%2C2510.22732%2C2511.06101&max_results=50 (retrieved 2026-10-16T06:32:52Z; SHA-256 0b730323b2ce85c39aa7d534665901a480ff06540c73f1f80832fcc0735b8789)
+- https://export.arxiv.org/api/query?id_list=2509.14547%2C2509.14744%2C2509.15061%2C2509.15237%2C2509.17336%2C2509.19185%2C2509.19199%2C2509.21072%2C2509.21291%2C2509.21733%2C2509.21766%2C2509.21799%2C2509.22644%2C2509.22715%2C2509.22830%2C2509.23694%2C2509.23738%2C2509.24704%2C2509.25301%2C2509.25455%2C2509.25693%2C2510.00078%2C2510.00172%2C2510.00507%2C2510.00515%2C2510.02190%2C2510.02204%2C2510.02608%2C2510.03204%2C2510.03485%2C2510.03612%2C2510.04452%2C2510.04491%2C2510.04536%2C2510.04673%2C2510.04791%2C2510.05096%2C2510.05137%2C2510.05156%2C2510.05788%2C2510.06223%2C2510.06607%2C2510.07284%2C2510.07532%2C2510.07915%2C2510.08787%2C2510.09116%2C2510.09517%2C2510.10049%2C2510.10587&max_results=50 (retrieved 2026-11-05T23:02:00Z; SHA-256 2343ea50b1761631c89f41f46494ffa8b9c95a6d6b1cf95d58720bf26271ce29)

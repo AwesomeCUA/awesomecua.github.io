@@ -54,6 +54,10 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   AutoWebWorld turns finite-state task models into interactive websites whose actions and goal states can be checked programmatically. It generates verified trajectories for training and evaluates transfer to WebVoyager and Online-Mind2Web.
 - [GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training](https://awesomecua.com/resources/arxiv-2602-14093/) — 2026-02-15
   GUI-GENESIS reconstructs applications as lightweight web environments with executable assertions for reward computation. It evaluates the cost of these training environments and transfer from synthetic interaction training to held-out real tasks.
+- [Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System](https://awesomecua.com/resources/arxiv-2602-10915/) — 2026-02-11
+  Analyzes security risks in screen-based mobile agents and proposes Aura, an agent runtime with structured interactions, app-agent isolation and mediated communication.
+- [Computer Environments Elicit General Agentic Intelligence in LLMs](https://awesomecua.com/resources/arxiv-2601-16206/) — 2026-01-22
+  LLM-in-Sandbox gives agents a minimal computer environment for resource access, file management and code execution; LLM-in-Sandbox-RL trains models to use it.
 - [EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://awesomecua.com/resources/arxiv-2601-15876/) — 2026-01-22
   EvoCUA combines task synthesis with executable validators, asynchronous sandbox rollouts and iterative policy updates. It turns successful routines and analyzed failures into supervision and evaluates the evolving agent on OSWorld.
 - [InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://awesomecua.com/resources/arxiv-2601-04126/) — 2026-01-07
@@ -62,20 +66,28 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
   ceLLMate constrains browser-agent authority through an extension that applies policies at the HTTP layer. It evaluates this sandbox against prompt-injection attacks in WASP, avoiding dependence on brittle low-level click and keystroke policies.
 - [OSGym: Scalable OS Infra for Computer Use Agents](https://awesomecua.com/resources/arxiv-2511-11672/) — 2025-11-11
   OSGym supplies full operating-system sandboxes with GUIs for parallel computer-use data collection and training. It combines per-replica state management, hardware-aware orchestration, copy-on-write virtual-machine disks, and layered failure recovery.
+- [GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?](https://awesomecua.com/resources/arxiv-2510-20333/) — 2025-10-23
+  Introduces GhostEI-Bench, a benchmark that injects deceptive UI events into Android emulator workflows to assess mobile agents and analyze failures from actions and screenshots.
 - [WEBSERV: A Full-Stack and RL-Ready Web Environment for Training Web Agents at Scale](https://awesomecua.com/resources/arxiv-2510-16252/) — 2025-10-17
   WebServ combines copy-on-write container environments with a compact DOM-derived browser interface for training web agents. Network-aware waiting supports action execution in single-page applications, with evaluations and reinforcement-learning experiments on WebArena-Lite.
 - [WARC-Bench: Web Archive Based Benchmark for GUI Subtask Executions](https://awesomecua.com/resources/arxiv-2510-09872/) — 2025-10-10
   WARC-Bench packages dynamic web pages as replayable archives and evaluates short navigation subtasks involving components such as date pickers and scrollable containers. It also studies supervised training followed by reinforcement learning with verifiable rewards on these browser interactions.
+- [Your Harness is Not Secure: Benchmarking Real-world Threat of Command Line Interface Agent](https://awesomecua.com/resources/arxiv-2510-06607/) — 2025-10-08
+  Introduces AdvCLI, a sandbox benchmark for evaluating whether command-line agents carry out security-relevant operating-system tasks across multiple hosts.
 - [SCUBA: Salesforce Computer Use Benchmark](https://awesomecua.com/resources/arxiv-2509-26506/) — 2025-09-30
   SCUBA evaluates enterprise UI navigation and CRM workflows with 300 task instances derived from Salesforce user interviews. Salesforce sandbox execution and milestone-based assessment support comparisons between zero-shot agents and agents given demonstrations.
 - [Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation](https://awesomecua.com/resources/arxiv-2509-23866/) — 2025-09-28
   DART separates GUI reinforcement learning into asynchronous environment, rollout, data-management, and training services. It curates experience by task difficulty, successful trajectories, and step uncertainty while correcting rollout-policy mismatch, with evaluation on OSWorld.
+- [UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments](https://awesomecua.com/resources/arxiv-2509-21733/) — 2025-09-26
+  Introduces UISim, an image-based mobile UI simulator that predicts the next screen layout after an action and renders the resulting screen for testing and data generation.
 - [Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent](https://awesomecua.com/resources/arxiv-2509-17917/) — 2025-09-22
   Orcust combines principle-constrained reward modeling with GUI trajectory collection in instrumented virtual machines. Environment-checkable and model-derived principles guide stepwise feedback for grounding, basic operations, and complete task execution.
 - [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://awesomecua.com/resources/arxiv-2509-02544/) — 2025-09-02
   UI-TARS-2 combines scalable trajectory generation, stabilized multi-turn reinforcement learning, and a sandbox that supports GUI, filesystem, and terminal actions. The report evaluates the resulting agent across web, desktop, Android, and game tasks and analyzes training stability.
 - [WebMall -- A Multi-Shop Benchmark for Evaluating Web Agents](https://awesomecua.com/resources/arxiv-2508-13024/) — 2025-08-18
   WebMall provides four simulated online shops with heterogeneous product data for comparison shopping, related-product searches, and checkout tasks. It evaluates web agents with different observation formats and memory configurations in a fixed offline environment.
+- [Measuring Harmfulness of Computer-Using Agents](https://awesomecua.com/resources/arxiv-2508-00935/) — 2025-07-31
+  Introduces CUAHarm, 104 computer-use misuse tasks in a sandbox with verifiable rewards, and studies whether language models can monitor unsafe agent actions.
 - [MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents](https://awesomecua.com/resources/arxiv-2506-07672/) — 2025-06-09
   MCPWorld evaluates API, GUI, and hybrid computer-use agents with 201 tasks in applications whose source can be instrumented and extended with MCP support. It verifies completion from application behavior and packages the testbed in containers with GPU support.
 - [RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](https://awesomecua.com/resources/arxiv-2505-21936/) — 2025-05-28

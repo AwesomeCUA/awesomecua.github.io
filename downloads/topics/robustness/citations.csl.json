@@ -3537,6 +3537,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2601.03641v4",
+    "archive": "arXiv",
+    "archive_location": "2601.03641",
+    "author": [
+      {
+        "literal": "Zheng Wu"
+      },
+      {
+        "literal": "Xingyu Lou"
+      },
+      {
+        "literal": "Xinbei Ma"
+      },
+      {
+        "literal": "Yansi Li"
+      },
+      {
+        "literal": "Weiwen Liu"
+      },
+      {
+        "literal": "Weinan Zhang"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2601_03641",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1f0592eb3fbfbf8cd2842a6f873ebac8773bf86f66f12dd1376a894f749606df",
+        "submitted_at": "2026-01-07T06:43:50Z",
+        "updated_at": "2026-04-11T14:07:11Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2601.03641v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.03641",
+      "catalog_id": "arxiv:2601.03641",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-01-07",
+      "identifiers": {
+        "arxiv": "2601.03641"
+      },
+      "record_updated_at": "2026-04-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.03641",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-07; Recorded arXiv version: v4; Recorded version updated: 2026-04-11T14:07:11Z.",
+    "title": "Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning",
+    "type": "article",
+    "version": "4"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.07263v1",
     "archive": "arXiv",
     "archive_location": "2601.07263",

@@ -76,6 +76,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   WebTestPilot turns natural-language requirements into web test steps with inferred preconditions and postconditions over symbolized GUI elements. A benchmark of bug-injected web applications tests whether these context-aware oracles distinguish application defects from agent mistakes.
 - [See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch](https://awesomecua.com/resources/arxiv-2602-10814/) — 2026-02-11
   ScratchWorld evaluates program construction through the Scratch interface using fine-grained drag-and-drop actions and a complementary semantic-API mode. Runtime tests assess the resulting programs, allowing analysis of the gap between program reasoning and GUI manipulation.
+- [Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models](https://awesomecua.com/resources/arxiv-2601-22770/) — 2026-01-30
+  Okara uses foundation-model-driven GUI agents to explore Android apps for TLS vulnerability detection, then applies instrumentation and classification to attribute vulnerable code.
 - [CovAgent: Overcoming the 30% Curse of Mobile Application Coverage with Agentic AI and Dynamic Instrumentation](https://awesomecua.com/resources/arxiv-2601-21253/) — 2026-01-29
   CovAgent augments Android GUI fuzzers by analyzing decompiled app code and component transitions to identify unsatisfied activation conditions. A second agent generates instrumentation that enables otherwise difficult-to-reach activities, with coverage-based evaluation.
 - [CUA-Skill: Develop Skills for Computer Using Agent](https://awesomecua.com/resources/arxiv-2601-21123/) — 2026-01-28
@@ -84,14 +86,24 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Introduces GUITestBench for interactive defect discovery and GUITester, which separates task navigation from anomaly verification. Testing-oriented plans and history-based reflection help distinguish software defects from agent execution mistakes.
 - [GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection](https://awesomecua.com/resources/arxiv-2512-09396/) — 2025-12-10
   Introduces GAIR, which combines information from specialized GUI models through a general-purpose coordinating model. When the available information is insufficient, group reflection sends targeted requests back to the specialists before selecting an operation.
+- [ReUseIt: Synthesizing Reusable AI Agent Workflows for Web Automation](https://awesomecua.com/resources/arxiv-2510-14308/) — 2025-10-16
+  Introduces ReUseIt, which synthesizes reusable web-agent workflows from successful and failed attempts and adds guards to detect and fix execution errors.
 - [In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers](https://awesomecua.com/resources/arxiv-2510-13543/) — 2025-10-15
   Proposes an in-browser fuzzing framework that uses language-model guidance to test indirect prompt-injection vulnerabilities in agentic browsers. The work focuses on unwanted actions triggered by webpage instructions under the browser agent's user privileges.
+- [GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes](https://awesomecua.com/resources/arxiv-2510-04791/) — 2025-10-06
+  Introduces GUISpector, an MLLM agent framework that operates GUI prototypes to check natural-language requirements and produces feedback for developers.
 - [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](https://awesomecua.com/resources/arxiv-2510-04607/) — 2025-10-06
   Introduces a Declarative Model Interface that maps existing GUIs to access, state and observation primitives while handling low-level interactions. Evaluation uses Word, PowerPoint and Excel on Windows with a GUI-agent baseline.
+- [3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG](https://awesomecua.com/resources/arxiv-2510-04536/) — 2025-10-06
+  Introduces 3Dify, a natural-language 3D graphics framework that operates creation tools through MCP and uses a computer-using agent for GUI operations when MCP is unavailable.
 - [WALT: Web Agents that Learn Tools](https://awesomecua.com/resources/arxiv-2510-01524/) — 2025-10-01
   WALT explores website functionality and converts demonstrated interactions into validated, reusable tools combining DOM actions, URL navigation, and agentic fallbacks. It evaluates this expanded browser action space on WebArena and VisualWebArena.
 - [ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data](https://awesomecua.com/resources/arxiv-2509-15221/) — 2025-09-18
   Introduces a cross-platform computer-use dataset and agents trained with a collection pipeline combining automated interaction and human input.
+- [Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration](https://awesomecua.com/resources/arxiv-2509-11067/) — 2025-09-14
+  Introduces Agentic Lybic, a desktop automation system that routes tasks among GUI, code, and decision-support workers using a finite-state machine and evaluator.
+- [Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows](https://awesomecua.com/resources/arxiv-2509-04198/) — 2025-09-04
+  Compares an agent using computer interfaces with UiPath RPA on enterprise data entry, monitoring, and document extraction, measuring speed, reliability, and development effort.
 - [You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation](https://awesomecua.com/resources/arxiv-2508-14104/) — 2025-08-17
   RealDevWorld evaluates generated software repositories with 194 development tasks and AppEvalPilot, an agent judge that operates the resulting GUIs. The evaluation examines functional behavior, visual fidelity, and runtime responses to produce task-specific diagnostic feedback.
 - [CoAct-1: Computer-using Multi-Agent System with Coding Actions](https://awesomecua.com/resources/arxiv-2508-03923/) — 2025-08-05

@@ -4111,6 +4111,125 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.04198v1",
+    "archive": "arXiv",
+    "archive_location": "2509.04198",
+    "author": [
+      {
+        "literal": "Petr Průcha"
+      },
+      {
+        "literal": "Michaela Matoušková"
+      },
+      {
+        "literal": "Jan Strnad"
+      }
+    ],
+    "citation-key": "arxiv_2509_04198",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9d2c3086aac59964b4c34a0ba890e6a9a1e55cf45c1af604f1f856180a5db746",
+        "submitted_at": "2025-09-04T13:22:44Z",
+        "updated_at": "2025-09-04T13:22:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.04198v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.04198",
+      "catalog_id": "arxiv:2509.04198",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-04",
+      "identifiers": {
+        "arxiv": "2509.04198"
+      },
+      "record_updated_at": "2025-09-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.04198",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-04; Recorded arXiv version: v1; Recorded version updated: 2025-09-04T13:22:44Z.",
+    "title": "Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.11067v2",
+    "archive": "arXiv",
+    "archive_location": "2509.11067",
+    "author": [
+      {
+        "literal": "Liangxuan Guo"
+      },
+      {
+        "literal": "Bin Zhu"
+      },
+      {
+        "literal": "Qingqian Tao"
+      },
+      {
+        "literal": "Kangning Liu"
+      },
+      {
+        "literal": "Xun Zhao"
+      },
+      {
+        "literal": "Xianzhe Qin"
+      },
+      {
+        "literal": "Jin Gao"
+      },
+      {
+        "literal": "Guangfu Hao"
+      }
+    ],
+    "citation-key": "arxiv_2509_11067",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2f6b37031618a03023dc9140ad54b6e1d82dbc619fa53591a92a047591e921db",
+        "submitted_at": "2025-09-14T03:22:27Z",
+        "updated_at": "2025-09-16T02:49:53Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.11067v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.11067",
+      "catalog_id": "arxiv:2509.11067",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-14",
+      "identifiers": {
+        "arxiv": "2509.11067"
+      },
+      "record_updated_at": "2025-09-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.11067",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-14; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T02:49:53Z.",
+    "title": "Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.15221v2",
     "archive": "arXiv",
     "archive_location": "2509.15221",
@@ -4320,6 +4439,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.04536v1",
+    "archive": "arXiv",
+    "archive_location": "2510.04536",
+    "author": [
+      {
+        "literal": "Shun-ichiro Hayashi"
+      },
+      {
+        "literal": "Daichi Mukunoki"
+      },
+      {
+        "literal": "Tetsuya Hoshino"
+      },
+      {
+        "literal": "Satoshi Ohshima"
+      },
+      {
+        "literal": "Takahiro Katagiri"
+      }
+    ],
+    "citation-key": "arxiv_2510_04536",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1d190c586a2b20a2fd7d1ed0b963c05da560f923de466de25235e37cbede6a20",
+        "submitted_at": "2025-10-06T07:00:06Z",
+        "updated_at": "2025-10-06T07:00:06Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.04536v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.04536",
+      "catalog_id": "arxiv:2510.04536",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-06",
+      "identifiers": {
+        "arxiv": "2510.04536"
+      },
+      "record_updated_at": "2025-10-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.04536",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-06; Recorded arXiv version: v1; Recorded version updated: 2025-10-06T07:00:06Z.",
+    "title": "3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.04607v2",
     "archive": "arXiv",
     "archive_location": "2510.04607",
@@ -4372,6 +4549,64 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.04791v1",
+    "archive": "arXiv",
+    "archive_location": "2510.04791",
+    "author": [
+      {
+        "literal": "Kristian Kolthoff"
+      },
+      {
+        "literal": "Felix Kretzer"
+      },
+      {
+        "literal": "Simone Paolo Ponzetto"
+      },
+      {
+        "literal": "Alexander Maedche"
+      },
+      {
+        "literal": "Christian Bartelt"
+      }
+    ],
+    "citation-key": "arxiv_2510_04791",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5c4f2ff20a1742936e07f3be9ca646e6467768faac7ff80f4e3612933aa4cd1f",
+        "submitted_at": "2025-10-06T13:15:24Z",
+        "updated_at": "2025-10-06T13:15:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.04791v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.04791",
+      "catalog_id": "arxiv:2510.04791",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-06",
+      "identifiers": {
+        "arxiv": "2510.04791"
+      },
+      "record_updated_at": "2025-10-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.04791",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-06; Recorded arXiv version: v1; Recorded version updated: 2025-10-06T13:15:24Z.",
+    "title": "GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.13543v1",
     "archive": "arXiv",
     "archive_location": "2510.13543",
@@ -4416,6 +4651,61 @@
     "title": "In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.14308v2",
+    "archive": "arXiv",
+    "archive_location": "2510.14308",
+    "author": [
+      {
+        "literal": "Yimeng Liu"
+      },
+      {
+        "literal": "Misha Sra"
+      },
+      {
+        "literal": "Jeevana Priya Inala"
+      },
+      {
+        "literal": "Chenglong Wang"
+      }
+    ],
+    "citation-key": "arxiv_2510_14308",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "943a16b7de023cac9da474b32d93918a81bc1c01126fcfcb4a5ead4b2e4639ec",
+        "submitted_at": "2025-10-16T05:11:00Z",
+        "updated_at": "2026-01-24T02:41:39Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.14308v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.14308",
+      "catalog_id": "arxiv:2510.14308",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-16",
+      "identifiers": {
+        "arxiv": "2510.14308"
+      },
+      "record_updated_at": "2026-01-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.14308",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-01-24T02:41:39Z.",
+    "title": "ReUseIt: Synthesizing Reusable AI Agent Workflows for Web Automation",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2512.09396v1",
@@ -4705,6 +4995,70 @@
     "title": "CovAgent: Overcoming the 30% Curse of Mobile Application Coverage with Agentic AI and Dynamic Instrumentation",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.22770v2",
+    "archive": "arXiv",
+    "archive_location": "2601.22770",
+    "author": [
+      {
+        "literal": "Haoyun Yang"
+      },
+      {
+        "literal": "Ronghong Huang"
+      },
+      {
+        "literal": "Yong Fang"
+      },
+      {
+        "literal": "Beizeng Zhang"
+      },
+      {
+        "literal": "Junpu Guo"
+      },
+      {
+        "literal": "Zhanyu Wu"
+      },
+      {
+        "literal": "Xianghang Mi"
+      }
+    ],
+    "citation-key": "arxiv_2601_22770",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "662f6dd923b7fb38a78913d0b7a90e30a1c394610fee314bfe4f153e53ee4351",
+        "submitted_at": "2026-01-30T09:49:09Z",
+        "updated_at": "2026-03-17T11:27:35Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2601.22770v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.22770",
+      "catalog_id": "arxiv:2601.22770",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-30",
+      "identifiers": {
+        "arxiv": "2601.22770"
+      },
+      "record_updated_at": "2026-03-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.22770",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-30; Recorded arXiv version: v2; Recorded version updated: 2026-03-17T11:27:35Z.",
+    "title": "Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2602.10814v1",

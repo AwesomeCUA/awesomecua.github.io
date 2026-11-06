@@ -178,12 +178,18 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Agent Alpha uses step-level Monte Carlo tree search to reuse successful prefixes and recover from early GUI mistakes. Comparison-based evaluation and diversity-constrained expansion guide the search, with experiments on OSWorld.
 - [Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction](https://awesomecua.com/resources/arxiv-2602-00575/) — 2026-01-31
   VAGEN verifies GUI trajectories by first extracting readily available evidence and escalating to tool-based environment probes when needed. Evaluation on OSWorld-Verified and AndroidWorld studies verification accuracy and its cost.
+- [SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization](https://awesomecua.com/resources/arxiv-2601-22491/) — 2026-01-30
+  SSL uses progressively tiered rewards for agent training, including distance-based guidance on GUI perception tasks alongside planning and reasoning tasks.
 - [GraphPilot: GUI Task Automation with One-Step LLM Reasoning Powered by Knowledge Graph](https://awesomecua.com/resources/arxiv-2601-17418/) — 2026-01-24
   GraphPilot builds app-specific knowledge graphs from explored pages, elements and transitions, then uses them to plan action sequences. It requests additional interface observations when uncertain and checks plans against graph transition rules before correction and execution.
+- [Computer Environments Elicit General Agentic Intelligence in LLMs](https://awesomecua.com/resources/arxiv-2601-16206/) — 2026-01-22
+  LLM-in-Sandbox gives agents a minimal computer environment for resource access, file management and code execution; LLM-in-Sandbox-RL trains models to use it.
 - [Compress to Focus: Efficient Coordinate Compression for Policy Optimization in Multi-Turn GUI Agents](https://awesomecua.com/resources/arxiv-2601-11631/) — 2026-01-14
   CCPO couples GUI policy optimization with coordinate-guided compression of past visual observations. It aggregates targets across rollouts to focus retained context and uses distance-based advantages to train grounding and compression together.
 - [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](https://awesomecua.com/resources/arxiv-2601-03928/) — 2026-01-07
   FocusUI selects instruction-relevant screenshot patches while preserving their positional structure for GUI grounding. Its PosPad scheme replaces runs of dropped tokens with positional markers and is evaluated under reduced token budgets.
+- [Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://awesomecua.com/resources/arxiv-2601-03641/) — 2026-01-07
+  Agent-Dice fuses parameter updates to support continual learning in LLM agents, with GUI agent tasks evaluated alongside tool-use domains.
 - [WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks](https://awesomecua.com/resources/arxiv-2601-02439/) — 2026-01-05
   WebGym supplies realistic web tasks with rubric-based evaluation and an asynchronous rollout system for reinforcement learning. It studies how training on an agent’s own interaction traces scales with task coverage and transfers to unseen websites.
 - [Nested Browser-Use Learning for Agentic Information Seeking](https://awesomecua.com/resources/arxiv-2512-23647/) — 2025-12-29
@@ -196,36 +202,58 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   HiconAgent trains GUI policies to use history through variable-length context sampling and paired policy updates with compressed and complete histories. Its compression retains past actions while removing historical observations, and an alignment loss couples the two branches.
 - [AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent](https://awesomecua.com/resources/arxiv-2512-00846/) — 2025-11-30
   Introduces AFRAgent, which uses adaptive feature renormalization to combine low-resolution visual embeddings with high-resolution details. The architecture is evaluated for smartphone GUI automation on Meta-GUI and AITW.
+- [MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)](https://awesomecua.com/resources/arxiv-2511-23281/) — 2025-11-28
+  Compares HTML browsing, RAG, MCP, and NLWeb interfaces for web agents performing product search, comparison, and checkout tasks in four simulated e-shops.
 - [Prune4Web: DOM Tree Pruning Programming for Web Agent](https://awesomecua.com/resources/arxiv-2511-21398/) — 2025-11-26
   Introduces Prune4Web, where generated scoring programs filter DOM elements according to decomposed subtasks before grounding. An annotation pipeline and two-turn training procedure coordinate the planner, programmatic filter and grounder.
 - [Fara-7B: An Efficient Agentic Model for Computer Use](https://awesomecua.com/resources/arxiv-2511-19663/) — 2025-11-24
   Introduces FaraGen synthetic web trajectories, a compact screenshot-based action model, and WebTailBench for underrepresented browser tasks.
+- [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://awesomecua.com/resources/arxiv-2511-13091/) — 2025-11-17
+  STEP allocates RL sampling by task success rate and trains on individual steps from interaction trajectories, with evaluations on OSWorld and AndroidWorld.
 - [OSGym: Scalable OS Infra for Computer Use Agents](https://awesomecua.com/resources/arxiv-2511-11672/) — 2025-11-11
   OSGym supplies full operating-system sandboxes with GUIs for parallel computer-use data collection and training. It combines per-replica state management, hardware-aware orchestration, copy-on-write virtual-machine disks, and layered failure recovery.
 - [GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding](https://awesomecua.com/resources/arxiv-2511-00810/) — 2025-11-02
   Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 - [OpenPhone: Mobile Agentic Foundation Models](https://awesomecua.com/resources/arxiv-2510-22009/) — 2025-10-24
   OpenPhone trains a compact mobile policy with supervised learning followed by GRPO on synthetic GUI data, incorporating reasoning and memory management. Its device-cloud design handles routine work locally and delegates complex subtasks, with online evaluation on AndroidLab.
+- [Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models](https://awesomecua.com/resources/arxiv-2510-20707/) — 2025-10-23
+  MixKV compresses vision-language model KV caches by balancing importance and diversity; its evaluations include GUI grounding alongside broader multimodal tasks.
+- [Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory](https://awesomecua.com/resources/arxiv-2510-19838/) — 2025-10-18
+  Branch-and-Browse is a web agent framework that uses tree-structured subtasks, web state replay, and page action memory to explore and complete tasks.
 - [WEBSERV: A Full-Stack and RL-Ready Web Environment for Training Web Agents at Scale](https://awesomecua.com/resources/arxiv-2510-16252/) — 2025-10-17
   WebServ combines copy-on-write container environments with a compact DOM-derived browser interface for training web agents. Network-aware waiting supports action execution in single-page applications, with evaluations and reinforcement-learning experiments on WebArena-Lite.
 - [CORE: Reducing UI Exposure in Mobile Agents via Collaboration Between Cloud and Local LLMs](https://awesomecua.com/resources/arxiv-2510-15455/) — 2025-10-17
   Introduces CORE, which divides mobile UI hierarchies into semantic blocks and shares planning between local and cloud language models. Local ranking limits the screen information sent for cloud-side element selection, with a multi-round mechanism for correcting inadequate context.
+- [Agentic Entropy-Balanced Policy Optimization](https://awesomecua.com/resources/arxiv-2510-14545/) — 2025-10-16
+  Introduces Agentic Entropy-Balanced Policy Optimization (AEPO), an RL method that adjusts rollout sampling and policy updates for tool-using web agents.
+- [WebRouter: Query-specific Router via Variational Information Bottleneck for Cost-sensitive Web Agent](https://awesomecua.com/resources/arxiv-2510-11221/) — 2025-10-13
+  Introduces WebRouter, a cost-aware router that compresses web-agent prompts to choose among LLMs, with cost and accuracy measured on WebVoyager websites.
 - [Auto-scaling Continuous Memory for GUI Agent](https://awesomecua.com/resources/arxiv-2510-09038/) — 2025-10-10
   Encodes GUI trajectories into compact continuous embeddings that can be retrieved directly into an agent’s input. An automated environment-discovery and rollout pipeline expands this memory for long tasks and unfamiliar interfaces.
+- [Learning Efficient Guardrails for Compliance](https://awesomecua.com/resources/arxiv-2510-03485/) — 2025-10-03
+  Introduces PolicyGuardBench for detecting policy violations in full web-agent trajectories and their prefixes, and trains PolicyGuard as an efficient guardrail model.
+- [FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents](https://awesomecua.com/resources/arxiv-2510-03204/) — 2025-10-03
+  Introduces FocusAgent, which uses a lightweight LLM to select task-relevant lines from web agents' accessibility-tree observations, reducing context size and exposure to prompt injection.
 - [WALT: Web Agents that Learn Tools](https://awesomecua.com/resources/arxiv-2510-01524/) — 2025-10-01
   WALT explores website functionality and converts demonstrated interactions into validated, reusable tools combining DOM actions, URL navigation, and agentic fallbacks. It evaluates this expanded browser action space on WebArena and VisualWebArena.
 - [GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness](https://awesomecua.com/resources/arxiv-2510-00536/) — 2025-10-01
   GUI-KV compresses vision-language agents’ attention caches using visual-token saliency and redundancy between screenshot frames. The method requires no retraining and evaluates how cache budgets affect GUI action accuracy and computational cost.
 - [Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents](https://awesomecua.com/resources/arxiv-2509-26539/) — 2025-09-30
   Ferret-UI Lite develops a 3B GUI agent using mixed real and synthetic data, reasoning with visual tools at inference, and reinforcement learning. It evaluates grounding and navigation across mobile, web, and desktop settings, including AndroidWorld and OSWorld.
+- [Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution](https://awesomecua.com/resources/arxiv-2509-25301/) — 2025-09-29
+  Introduces Flash-Searcher, a parallel agent framework that organizes dependent subtasks as a graph and runs independent paths concurrently; it is evaluated on deep-search benchmarks.
 - [Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation](https://awesomecua.com/resources/arxiv-2509-23866/) — 2025-09-28
   DART separates GUI reinforcement learning into asynchronous environment, rollout, data-management, and training services. It curates experience by task difficulty, successful trajectories, and step uncertainty while correcting rollout-policy mismatch, with evaluation on OSWorld.
+- [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://awesomecua.com/resources/arxiv-2509-13313/) — 2025-09-16
+  Introduces ReSum, which compresses interaction histories during long web searches, and ReSum-GRPO, which trains agents to reason across the resulting segments.
 - [MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2509-18119/) — 2025-09-10
   MobileRL adapts GRPO to mobile GUI training with difficulty-dependent replay of successes and filtering of failure curricula. A shortest-path reward adjustment accounts for task length, with evaluations on AndroidWorld and AndroidLab.
 - [Succeed or Learn Slowly: Sample Efficient Off-Policy Reinforcement Learning for Mobile App Control](https://awesomecua.com/resources/arxiv-2509-01720/) — 2025-09-01
   Succeed or Learn Slowly applies direct off-policy updates to successful interactions and more conservative regularized updates to negative examples. Successful Transition Replay prioritizes successful experience during policy learning, with evaluation on AndroidWorld.
 - [MobiAgent: A Systematic Framework for Customizable Mobile Agents](https://awesomecua.com/resources/arxiv-2509-00531/) — 2025-08-30
   Presents MobiAgent, combining MobiMind agent models, the AgentRR acceleration framework, and MobiFlow evaluation. It also introduces an AI-assisted data-collection pipeline for mobile GUI tasks.
+- [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://awesomecua.com/resources/arxiv-2508-18265/) — 2025-08-25
+  Introduces InternVL3.5, a multimodal model family trained with Cascade RL and designed for more efficient inference; GUI interaction is among its stated capabilities.
 - [Cognitive Duality for Adaptive Web Agents](https://awesomecua.com/resources/arxiv-2508-05081/) — 2025-08-07
   Introduces CogniWeb, which switches between fast reactive processing and slower deliberative reasoning according to task complexity. WebArena experiments examine this combination of learned behaviors and online planning.
 - [Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents](https://awesomecua.com/resources/arxiv-2508-04412/) — 2025-08-06

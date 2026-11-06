@@ -52,6 +52,8 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
   Chain-of-Ground uses iterative visual reasoning and reference feedback to refine GUI localization without additional training. It evaluates on ScreenSpot-Pro and introduces TPanel-UI to probe grounding on industrial control panels with visual distortions.
 - [GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness](https://awesomecua.com/resources/arxiv-2510-00536/) — 2025-10-01
   GUI-KV compresses vision-language agents’ attention caches using visual-token saliency and redundancy between screenshot frames. The method requires no retraining and evaluates how cache budgets affect GUI action accuracy and computational cost.
+- [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://awesomecua.com/resources/arxiv-2509-21799/) — 2025-09-26
+  Introduces D-Artemis, a mobile GUI agent framework that retrieves app-specific tips, checks actions before execution, and reflects on their outcomes without trajectory training.
 - [How Auxiliary Reasoning Unleashes GUI Grounding in VLMs](https://awesomecua.com/resources/arxiv-2509-11548/) — 2025-09-15
   Studies the gap between latent visual grounding and explicit coordinate output in general vision-language models. Three zero-shot methods add axes, grids, or labeled intersections to GUI screenshots so models can express spatial locations without fine-tuning.
 - [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://awesomecua.com/resources/arxiv-2508-05615/) — 2025-08-07

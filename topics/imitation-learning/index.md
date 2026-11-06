@@ -86,12 +86,16 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Introduces SynthAgent, which generates tasks by exploring website elements and refines them when observations reveal conflicts. A later trajectory-refinement stage removes misaligned behavior before fine-tuning agents for the target websites.
 - [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://awesomecua.com/resources/arxiv-2510-10666/) — 2025-10-12
   Trains BrowserAgent to use Playwright-based scrolling, clicking and typing directly on webpages for information-seeking tasks. Supervised and rejection fine-tuning are paired with explicit memory for conclusions carried across steps.
+- [ALLOY: Generating Reusable Agent Workflows from User Demonstration](https://awesomecua.com/resources/arxiv-2510-10049/) — 2025-10-11
+  Introduces ALLOY, which turns user demonstrations into editable, reusable workflows for LLM-based web agents carrying out preference-dependent tasks.
 - [Scaling Synthetic Task Generation for Agents via Exploration](https://awesomecua.com/resources/arxiv-2509-25047/) — 2025-09-29
   AutoPlay explores application states and functions to generate tasks, then uses a model executor and verifier to construct demonstrations. It produces 20,000 tasks across 20 Android apps and 10,000 tasks across 13 Ubuntu apps for supervised and reinforcement learning of UI agents.
 - [Retrieval-augmented GUI Agents with Generative Guidelines](https://awesomecua.com/resources/arxiv-2509-24183/) — 2025-09-29
   RAG-GUI trains a small guidance adapter to filter and summarize retrieved web tutorials while keeping the acting agent fixed. Supervised and rejection-sampling stages prepare the adapter for inference-time assistance, tested on offline web/mobile tasks and interactive Android tasks.
 - [UIPro: Unleashing Superior Interaction Capability For GUI Agents](https://awesomecua.com/resources/arxiv-2509-17328/) — 2025-09-22
   UIPro pretrains GUI understanding on 20.6 million tasks and then harmonizes interaction datasets through a unified action space. Continued fine-tuning uses the merged multi-platform data to train action prediction for generalist GUI operation.
+- [Instruction Agent: Enhancing Agent with Expert Demonstration](https://awesomecua.com/resources/arxiv-2509-07098/) — 2025-09-08
+  Introduces Instruction Agent, a GUI agent that follows instructions extracted from one expert demonstration and uses verification and backtracking to handle interruptions.
 - [OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds](https://awesomecua.com/resources/arxiv-2509-02322/) — 2025-09-02
   Introduces OmniActor, which shares shallow model layers while separating deeper parameters to train jointly on GUI and embodied interactions. A unified action representation and mixed training data support evaluation in both task families.
 - [CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning](https://awesomecua.com/resources/arxiv-2508-20096/) — 2025-08-27

@@ -1331,6 +1331,125 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.16720v2",
+    "archive": "arXiv",
+    "archive_location": "2510.16720",
+    "author": [
+      {
+        "literal": "Jitao Sang"
+      },
+      {
+        "literal": "Jinlin Xiao"
+      },
+      {
+        "literal": "Jiarun Han"
+      },
+      {
+        "literal": "Jilin Chen"
+      },
+      {
+        "literal": "Xiaoyi Chen"
+      },
+      {
+        "literal": "Shuyu Wei"
+      },
+      {
+        "literal": "Yongjie Sun"
+      },
+      {
+        "literal": "Yuhang Wang"
+      }
+    ],
+    "citation-key": "arxiv_2510_16720",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4b766475744f4d8eb6476eacb8d70d95ee0987f4f5b3644e4c748943a100a571",
+        "submitted_at": "2025-10-19T05:23:43Z",
+        "updated_at": "2025-10-26T09:00:38Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.16720v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.16720",
+      "catalog_id": "arxiv:2510.16720",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-10-19",
+      "identifiers": {
+        "arxiv": "2510.16720"
+      },
+      "record_updated_at": "2025-10-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.16720",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-19; Recorded arXiv version: v2; Recorded version updated: 2025-10-26T09:00:38Z.",
+    "title": "Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.12560v1",
+    "archive": "arXiv",
+    "archive_location": "2601.12560",
+    "author": [
+      {
+        "literal": "Arunkumar V"
+      },
+      {
+        "literal": "Gangadharan G. R."
+      },
+      {
+        "literal": "Rajkumar Buyya"
+      }
+    ],
+    "citation-key": "arxiv_2601_12560",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3de4529325c90a0addd06938f81876283dc9a776e12ee7038efea5dda2a91e9b",
+        "submitted_at": "2026-01-18T19:51:16Z",
+        "updated_at": "2026-01-18T19:51:16Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.12560v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.12560",
+      "catalog_id": "arxiv:2601.12560",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-01-18",
+      "identifiers": {
+        "arxiv": "2601.12560"
+      },
+      "record_updated_at": "2026-01-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.12560",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-18; Recorded arXiv version: v1; Recorded version updated: 2026-01-18T19:51:16Z.",
+    "title": "Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2602.12430v4",
     "archive": "arXiv",
     "archive_location": "2602.12430",

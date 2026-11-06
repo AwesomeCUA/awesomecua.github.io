@@ -118,6 +118,10 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Introduces AndroTMem-Bench for Android tasks whose later actions depend on earlier UI states. Anchored State Memory retains causally linked intermediate states for subgoal-specific retrieval and evaluates them against full-history and summary-based memory.
 - [MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://awesomecua.com/resources/arxiv-2602-16313/) — 2026-02-18
   MemoryArena links tasks across sessions so that agents must distill earlier interaction experience and use it in later decisions. Its evaluation includes web navigation alongside planning, search and formal reasoning, testing memory through subsequent actions rather than recall alone.
+- [ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents](https://awesomecua.com/resources/arxiv-2602-10863/) — 2026-02-11
+  Information-Aware Credit Assignment scores intermediate information gathered by web agents, using rendered webpage snapshots to compare evidence across trajectories.
+- [LHAW: Controllable Underspecification for Long-Horizon Tasks](https://awesomecua.com/resources/arxiv-2602-10525/) — 2026-02-11
+  LHAW generates underspecified variants of long-horizon workflow tasks and uses agent trials to evaluate when missing information requires clarification.
 - [Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](https://awesomecua.com/resources/arxiv-2601-22528/) — 2026-01-30
   Darwinian Memory splits GUI trajectories into reusable units and updates the memory by retaining useful paths and pruning poor ones. It evaluates this training-free memory mechanism on long multi-application tasks.
 - [BEAP-Agent: Backtrackable Execution and Adaptive Planning for GUI Agents](https://awesomecua.com/resources/arxiv-2601-21352/) — 2026-01-29
@@ -126,6 +130,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Introduces OS-Marathon to evaluate long repetitive computer-use workflows whose execution grows with the amount of input data. It studies failure accumulation under task decomposition and GraphDemo, which adapts agents using a demonstration of the recurring workflow.
 - [EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://awesomecua.com/resources/arxiv-2601-15876/) — 2026-01-22
   EvoCUA combines task synthesis with executable validators, asynchronous sandbox rollouts and iterative policy updates. It turns successful routines and analyzed failures into supervision and evaluates the evolving agent on OSWorld.
+- [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://awesomecua.com/resources/arxiv-2601-11868/) — 2026-01-17
+  Terminal-Bench 2.0 benchmarks agents on 89 workflow-inspired tasks in computer terminal environments, with a distinct environment, human solution and verification tests for each task.
 - [ColorBrowserAgent: Complex Long-Horizon Browser Agent with Adaptive Knowledge Evolution](https://awesomecua.com/resources/arxiv-2601-07262/) — 2026-01-12
   ColorBrowserAgent converts human feedback into reusable website knowledge and uses that knowledge to guide progressive context summaries. It evaluates the resulting memory and adaptation mechanisms on long browser workflows.
 - [AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents](https://awesomecua.com/resources/arxiv-2512-21302/) — 2025-12-24
@@ -136,26 +142,40 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Introduces AgentProg, organizing mobile-agent interaction history as a program with variables and control flow to decide what context to retain. A global belief state handles partial observability, with evaluation on AndroidWorld and extended long-horizon tasks.
 - [Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://awesomecua.com/resources/arxiv-2511-22235/) — 2025-11-27
   This work trains high-level schedulers with staged reinforcement learning driven by execution feedback. Its CES framework separates a Coordinator for planning and decomposition, a StateTracker for compressed context, and a low-level Executor.
+- [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://awesomecua.com/resources/arxiv-2511-13091/) — 2025-11-17
+  STEP allocates RL sampling by task success rate and trains on individual steps from interaction trajectories, with evaluations on OSWorld and AndroidWorld.
 - [Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation](https://awesomecua.com/resources/arxiv-2511-12254/) — 2025-11-15
   Uses separate retrieval systems for high-level mobile-task planning and precise interface operations, with a benchmark for extended cross-app tasks.
 - [MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://awesomecua.com/resources/arxiv-2510-24168/) — 2025-10-28
   Introduces MGA, which separates task-agnostic screen-state reading from decision making and connects steps through structured state memory. Validated state deltas replace full trajectory replay, evaluated on OSWorld and application tasks.
 - [Surfer 2: The Next Generation of Cross-Platform Computer Use Agents](https://awesomecua.com/resources/arxiv-2510-19949/) — 2025-10-22
   Surfer2 combines hierarchical context management with separate planning and execution, self-verification, and recovery for visual computer use. It evaluates the framework across web, desktop, and Android tasks without task-specific fine-tuning.
+- [ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://awesomecua.com/resources/arxiv-2510-19386/) — 2025-10-22
+  Presents ColorAgent, an operating system agent for long-horizon user instructions, trained with step-wise RL and self-evolving training and evaluated on AndroidWorld and AndroidLab.
 - [ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks](https://awesomecua.com/resources/arxiv-2510-14621/) — 2025-10-16
   ColorBench represents mobile tasks as graphs of states collected from real devices, providing a quasi-dynamic environment with multiple valid paths and error paths. It evaluates single-app and cross-app tasks using completion, subtask progress, and atomic diagnostics.
 - [Agent+P: Guiding UI Agents via Symbolic Planning](https://awesomecua.com/resources/arxiv-2510-06042/) — 2025-10-07
   Guides UI agents with symbolic planning over a UI transition graph initialized from app-code analysis and updated through online exploration, with evaluation on AndroidWorld.
 - [Scaling Agents for Computer Use](https://awesomecua.com/resources/arxiv-2510-02250/) — 2025-10-02
   Introduces Behavior Judge, which converts execution trajectories into behavior narratives and compares multiple candidate rollouts. Experiments examine this selection approach on OSWorld, WindowsAgentArena and AndroidWorld.
+- [Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution](https://awesomecua.com/resources/arxiv-2509-21072/) — 2025-09-25
+  Introduces Recon-Act, a browser-use framework that compares failed and successful web trajectories to create reusable tools for planning and executing long-horizon website tasks.
 - [GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](https://awesomecua.com/resources/arxiv-2509-15738/) — 2025-09-19
   GUI-ReWalk begins with stochastic interface exploration and then infers goals to generate coherent action trajectories. It supports long-horizon workflows across applications and studies training on the resulting data using grounding and navigation benchmarks.
+- [Instruction Agent: Enhancing Agent with Expert Demonstration](https://awesomecua.com/resources/arxiv-2509-07098/) — 2025-09-08
+  Introduces Instruction Agent, a GUI agent that follows instructions extracted from one expert demonstration and uses verification and backtracking to handle interruptions.
 - [MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation](https://awesomecua.com/resources/arxiv-2509-03891/) — 2025-09-04
   MobileRAG combines retrieval and memory components to support mobile tasks that need external knowledge or long action sequences. MobileRAG-Eval is introduced to study these requirements on complex real-world app tasks.
 - [AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent](https://awesomecua.com/resources/arxiv-2509-02444/) — 2025-09-02
   Describes a mobile-agent stack combining region-based coordinate correction, hierarchical task planning, multi-agent voting, and reuse of successful interaction traces.
 - [FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games](https://awesomecua.com/resources/arxiv-2509-01052/) — 2025-09-01
   FlashAdventure evaluates GUI agents on completing story arcs in 34 adventure games. It pairs an automated gameplay judge with COAST, a framework that keeps long-term clue memory to plan and complete sequential objectives.
+- [MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents](https://awesomecua.com/resources/arxiv-2508-21475/) — 2025-08-29
+  Introduces MMSearch-Plus, a multimodal browsing benchmark with iterative image-text search, and an agent framework that marks and crops images for targeted retrieval.
+- [OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](https://awesomecua.com/resources/arxiv-2508-09124/) — 2025-08-12
+  Introduces OdysseyBench for evaluating long-horizon workflows across office applications, plus HomerAgents to generate tasks from environment exploration and dialogue synthesis.
+- [VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking](https://awesomecua.com/resources/arxiv-2508-04026/) — 2025-08-06
+  Introduces VeriWeb, a benchmark of long-chain web information-seeking tasks with verifiable subtasks and a complete human-annotated trajectory for each task.
 - [NaturalGAIA: A Verifiable Benchmark and Hierarchical Framework for Long-Horizon GUI Tasks](https://awesomecua.com/resources/arxiv-2508-01330/) — 2025-08-02
   NaturalGAIA builds verifiable long-horizon GUI tasks from human interaction intents while separating causal task structure from its verbal description. Its LightManus-Jarvis framework divides dynamic planning and context management from execution based on visual and structural interface information.
 - [MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](https://awesomecua.com/resources/arxiv-2507-16853/) — 2025-07-21

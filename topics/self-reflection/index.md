@@ -32,14 +32,20 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   Trains a GUI grounding proposer together with a visual critic that evaluates candidate locations rendered on screenshots. An adaptive reinforcement-learning schedule balances their development, using proposal diversity and critic feedback during training.
 - [GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2603-15039/) — 2026-03-16
   GUI-CEval evaluates Chinese mobile GUI agents through a hierarchy of atomic abilities and application-level tasks collected on physical devices. Its diagnostics cover perception, planning, reflection, execution and post-action evaluation across a broad set of apps.
+- [World-Model-Augmented Web Agents with Action Correction](https://awesomecua.com/resources/arxiv-2602-15384/) — 2026-02-17
+  WAC has a web-agent action model consult a world model, simulate action outcomes and use judge feedback to correct actions before execution.
 - [OpAgent: Operator Agent for Web Navigation](https://awesomecua.com/resources/arxiv-2602-13559/) — 2026-02-14
   OpAgent combines multi-task GUI fine-tuning with online web reinforcement learning using outcome judgments and rule-based progress rewards. A modular planner, grounder, reflector and summarizer support navigation and recovery, evaluated separately from the underlying trained policy.
+- [Do Multi-Agents Dream of Electric Screens? Achieving Perfect Accuracy on AndroidWorld Through Task Decomposition](https://awesomecua.com/resources/arxiv-2602-07787/) — 2026-02-08
+  Minitap coordinates six specialized agents for AndroidWorld tasks, checking text input against device state and detecting action loops to revise its strategy.
 - [EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](https://awesomecua.com/resources/arxiv-2601-15876/) — 2026-01-22
   EvoCUA combines task synthesis with executable validators, asynchronous sandbox rollouts and iterative policy updates. It turns successful routines and analyzed failures into supervision and evaluates the evolving agent on OSWorld.
 - [OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://awesomecua.com/resources/arxiv-2601-07779/) — 2026-01-12
   OS-Symphony coordinates milestone-based reflection and memory with tools that build visually aligned tutorials through browser interaction. The framework evaluates trajectory correction and adaptation on online computer-use benchmarks including OSWorld.
 - [GUITester: Enabling GUI Agents for Exploratory Defect Discovery](https://awesomecua.com/resources/arxiv-2601-04500/) — 2026-01-08
   Introduces GUITestBench for interactive defect discovery and GUITester, which separates task navigation from anomaly verification. Testing-oriented plans and history-based reflection help distinguish software defects from agent execution mistakes.
+- [SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents](https://awesomecua.com/resources/arxiv-2512-22322/) — 2025-12-26
+  SmartSnap trains GUI agents to collect concise screenshot evidence of task completion for an LLM judge, with experiments on mobile tasks.
 - [GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection](https://awesomecua.com/resources/arxiv-2512-09396/) — 2025-12-10
   Introduces GAIR, which combines information from specialized GUI models through a general-purpose coordinating model. When the available information is insufficient, group reflection sends targeted requests back to the specialists before selecting an operation.
 - ["Are We Done Yet?": A Vision-Based Judge for Autonomous Task Completion of Computer Use Agents](https://awesomecua.com/resources/arxiv-2511-20067/) — 2025-11-25
@@ -48,6 +54,14 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   HAR-GUI combines episodic reasoning and short-term memory to use earlier interactions when selecting GUI actions. Its training constructs reflective scenarios and correction guidance and applies a hybrid reinforcement-learning reward to the 3B policy.
 - [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://awesomecua.com/resources/arxiv-2509-25140/) — 2025-09-29
   Distills generalizable reasoning strategies from both successful and failed agent trajectories into a persistent memory bank for test-time retrieval.
+- [WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning](https://awesomecua.com/resources/arxiv-2509-22644/) — 2025-09-26
+  Introduces WebGen-Agent for website code generation, using screenshot critiques and GUI-agent tests to refine code and provide step-level training rewards.
+- [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://awesomecua.com/resources/arxiv-2509-21799/) — 2025-09-26
+  Introduces D-Artemis, a mobile GUI agent framework that retrieves app-specific tips, checks actions before execution, and reflects on their outcomes without trajectory training.
+- [Mano Technical Report](https://awesomecua.com/resources/arxiv-2509-17336/) — 2025-09-22
+  Introduces Mano, a GUI agent trained with simulated data, supervised fine-tuning, and offline and online RL, with a verification module for error recovery.
+- [Instruction Agent: Enhancing Agent with Expert Demonstration](https://awesomecua.com/resources/arxiv-2509-07098/) — 2025-09-08
+  Introduces Instruction Agent, a GUI agent that follows instructions extracted from one expert demonstration and uses verification and backtracking to handle interruptions.
 - [MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](https://awesomecua.com/resources/arxiv-2507-16853/) — 2025-07-21
   MobileUse reflects on errors at action and task timescales, invoking reflection when needed and using proactive exploration to learn unfamiliar apps. It evaluates this mobile execution framework on AndroidWorld and AndroidLab and describes a toolkit for physical-device operation.
 - [Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification](https://awesomecua.com/resources/arxiv-2507-11662/) — 2025-07-15

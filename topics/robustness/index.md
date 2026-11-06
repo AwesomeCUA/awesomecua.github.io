@@ -252,6 +252,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   NOVA separates trusted task planning from screen-derived observations by producing a branching plan before execution and resolving runtime values through perception. Its OSWorld study examines security and utility while identifying remaining risks from perception-driven branch steering.
 - [When Bots Take the Bait: Exposing and Mitigating the Emerging Social Engineering Attack in Web Automation Agent](https://awesomecua.com/resources/arxiv-2601-07263/) — 2026-01-12
   Studies deceptive social-engineering web patterns targeting browser automation agents and proposes defenses against bait-based manipulation.
+- [Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://awesomecua.com/resources/arxiv-2601-03641/) — 2026-01-07
+  Agent-Dice fuses parameter updates to support continual learning in LLM agents, with GUI agent tasks evaluated alongside tool-use domains.
 - [AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents](https://awesomecua.com/resources/arxiv-2512-21302/) — 2025-12-24
   AndroidLens provides 571 extended mobile tasks in Chinese and English, with multiple valid paths and preserved environmental anomalies. Its dynamic evaluation uses nested milestones and Average Task Progress to measure partial completion of long workflows.
 - [VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks](https://awesomecua.com/resources/arxiv-2512-16501/) — 2025-12-18

@@ -54,12 +54,18 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   This framework learns an agentic-Q model to estimate individual actions’ contributions to GUI task completion. It then optimizes a policy with step-level samples from its own trajectories, decoupling policy updates from environment interaction.
 - [Adaptive Milestone Reward for GUI Agents](https://awesomecua.com/resources/arxiv-2602-11524/) — 2026-02-12
   ADMIRE extracts milestones from successful GUI explorations to provide adaptive intermediate rewards. It assigns credit differently to successful and failed trajectories and evaluates training on AndroidWorld, with additional transfer studies in web and embodied settings.
+- [ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents](https://awesomecua.com/resources/arxiv-2602-10863/) — 2026-02-11
+  Information-Aware Credit Assignment scores intermediate information gathered by web agents, using rendered webpage snapshots to compare evidence across trajectories.
 - [Autonomous Continual Learning for Environment Adaptation of Computer-Use Agents](https://awesomecua.com/resources/arxiv-2602-10356/) — 2026-02-10
   ACuRL uses autonomous interface exploration and an adaptive task curriculum to continually train computer-use policies with reinforcement learning. CUAJudge supplies outcome feedback, and experiments study adaptation across desktop applications and environment changes.
 - [Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction](https://awesomecua.com/resources/arxiv-2602-00575/) — 2026-01-31
   VAGEN verifies GUI trajectories by first extracting readily available evidence and escalating to tool-based environment probes when needed. Evaluation on OSWorld-Verified and AndroidWorld studies verification accuracy and its cost.
+- [SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization](https://awesomecua.com/resources/arxiv-2601-22491/) — 2026-01-30
+  SSL uses progressively tiered rewards for agent training, including distance-based guidance on GUI perception tasks alongside planning and reasoning tasks.
 - [WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://awesomecua.com/resources/arxiv-2601-21872/) — 2026-01-29
   WebArbiter generates reasoned action-preference verdicts for web navigation, using reasoning distillation followed by reinforcement learning. It introduces WebPRMBench and evaluates both preference judgments and reward-guided trajectory search.
+- [Me-Agent: A Personalized Mobile Agent with Two-Level User Habit Learning for Enhanced Interaction](https://awesomecua.com/resources/arxiv-2601-20162/) — 2026-01-28
+  Me-Agent personalizes mobile agent behavior through a preference reward model and hierarchical memory for long-term and app-specific habits, and introduces User FingerTip.
 - [GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models](https://awesomecua.com/resources/arxiv-2601-18197/) — 2026-01-26
   GAIA trains a GUI action critic on positive and negative examples, then uses that critic to collect improved examples for another training round. It studies how recycling these data affects the test-time action choices of different GUI agents.
 - [MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux](https://awesomecua.com/resources/arxiv-2601-13060/) — 2026-01-19
@@ -72,12 +78,22 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   Step-GUI uses calibrated trajectory rewards to turn generated GUI interaction data into training signals for compact agent models. The report also introduces GUI-MCP for hierarchical GUI operations and local task delegation, and AndroidDaily for static-action and end-to-end mobile evaluation.
 - [WebSTAR: Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering](https://awesomecua.com/resources/arxiv-2512-10962/) — 2025-11-22
   Introduces a pipeline that filters individual steps from noisy computer-agent rollouts and augments them with reasoning for training. WebSTAR and WebSCORE support GUI-policy supervision and a distilled process reward model, StepRM.
+- [AgentPRM: Process Reward Models for LLM Agents via Step-Wise Promise and Progress](https://awesomecua.com/resources/arxiv-2511-08325/) — 2025-11-11
+  AgentPRM scores sequential agent decisions by their promise and progress toward a goal, with web shopping and browser navigation among the motivating tasks.
+- [CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent](https://awesomecua.com/resources/arxiv-2510-18596/) — 2025-10-21
+  Introduces CUARewardBench for evaluating outcome and process reward models on annotated computer-use trajectories, plus Unanimous Prompt Ensemble (UPE) for reward judgments.
 - [Scaling Agents for Computer Use](https://awesomecua.com/resources/arxiv-2510-02250/) — 2025-10-02
   Introduces Behavior Judge, which converts execution trajectories into behavior narratives and compares multiple candidate rollouts. Experiments examine this selection approach on OSWorld, WindowsAgentArena and AndroidWorld.
+- [GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks](https://awesomecua.com/resources/arxiv-2509-23738/) — 2025-09-28
+  Introduces GUI-Shepherd, a process reward model trained on annotated GUI interactions to give step-level feedback for agent training and verification on AndroidWorld and AndroidControl.
 - [GUI-PRA: Process Reward Agent for GUI Tasks](https://awesomecua.com/resources/arxiv-2509-23263/) — 2025-09-27
   GUI-PRA evaluates GUI progress by generating task-specific criteria and actively inspecting visual evidence with tools. It tests offline judgment on OS-Critic Bench and the effects of this feedback on online mobile policies in AndroidWorld.
+- [WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning](https://awesomecua.com/resources/arxiv-2509-22644/) — 2025-09-26
+  Introduces WebGen-Agent for website code generation, using screenshot critiques and GUI-agent tests to refine code and provide step-level training rewards.
 - [ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration](https://awesomecua.com/resources/arxiv-2509-21823/) — 2025-09-26
   ProRe evaluates GUI task outcomes by having a reasoner assign targeted environment-probing tasks to specialist actors. The additional observations support reward judgments, with separate evaluation of judge accuracy and downstream agent task success.
+- [Agentic Reinforcement Learning with Implicit Step Rewards](https://awesomecua.com/resources/arxiv-2509-19199/) — 2025-09-23
+  Introduces iStar, a general agentic RL method that learns implicit step rewards; WebShop is one of several interactive benchmarks used to evaluate it.
 - [Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent](https://awesomecua.com/resources/arxiv-2509-17917/) — 2025-09-22
   Orcust combines principle-constrained reward modeling with GUI trajectory collection in instrumented virtual machines. Environment-checkable and model-derived principles guide stepwise feedback for grounding, basic operations, and complete task execution.
 - [TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning](https://awesomecua.com/resources/arxiv-2509-14172/) — 2025-09-17

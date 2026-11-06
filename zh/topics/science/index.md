@@ -28,6 +28,10 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
   This study compares specialized, computer-use and coding agents on scientific visualization workflows. It examines GUI, CLI, code and tool-call interaction modes, including how persistent memory changes performance across repeated trials.
 - [ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments](https://awesomecua.com/resources/arxiv-2601-02399/) — 2025-12-30
   ProSoftArena evaluates 436 professional-software tasks across six disciplines and 13 applications in a Windows 11 virtual-machine environment. Its capability hierarchy, execution-based checks, and human-in-the-loop evaluation cover precise GUI operations and multi-software workflows.
+- [SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoning over Complex and Large Spreadsheets](https://awesomecua.com/resources/arxiv-2510-19247/) — 2025-10-22
+  Introduces SheetBrain, a spreadsheet question-answering and manipulation agent that uses a Python sandbox and Excel tools, plus the SheetBench benchmark.
+- [3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG](https://awesomecua.com/resources/arxiv-2510-04536/) — 2025-10-06
+  Introduces 3Dify, a natural-language 3D graphics framework that operates creation tools through MCP and uses a computer-using agent for GUI operations when MCP is unavailable.
 - [CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning](https://awesomecua.com/resources/arxiv-2508-20096/) — 2025-08-27
   CODA combines a generalist planner with a specialist GUI executor and trains application-specific planners through decoupled GRPO. Successful specialist trajectories then support supervised training of a consolidated planner, evaluated across four ScienceBoard applications.
 - [VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video](https://awesomecua.com/resources/arxiv-2505-24838/) — 2025-05-30

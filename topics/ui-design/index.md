@@ -30,18 +30,34 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Avenir-UX combines grounded web interaction with simulated user profiles and structured usability measures to produce evaluations of website journeys. The paper describes its architecture and use of SUS, step-wise ease questions and think-aloud traces for automated UX reporting.
 - [Mapping the Design Space of User Experience for Computer Use Agents](https://awesomecua.com/resources/arxiv-2602-07283/) — 2026-02-07
   Develops a taxonomy of computer-use-agent interaction design through system review and practitioner interviews. A Wizard-of-Oz study then examines how users respond to normal, erroneous, and risky web-based execution, focusing on control, explanation, prompts, and mental models.
+- [SimGym: Traffic-Grounded Browser Agents for Offline A/B Testing in E-Commerce](https://awesomecua.com/resources/arxiv-2602-01443/) — 2026-02-01
+  SimGym runs traffic-grounded synthetic buyers as browser agents to compare e-commerce storefront variants offline, using buyer profiles derived from production interactions.
 - [How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors](https://awesomecua.com/resources/arxiv-2601-21961/) — 2026-01-29
   Introduces VAF, a controlled pipeline that varies webpage appearance while retaining item semantics. It measures both agent clicks and reasoning references to study which visual design factors change browsing decisions.
 - [The Behavioral Fabric of LLM-Powered GUI Agents: Human Values and Interaction Outcomes](https://awesomecua.com/resources/arxiv-2601-16356/) — 2026-01-22
   Introduces a controlled web-task testbed for studying how stated preferences and human values influence GUI-agent decisions. It analyzes how personas alter navigation and how prominent interface cues can override the intended preference guidance.
 - [It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents](https://awesomecua.com/resources/arxiv-2512-23128/) — 2025-12-29
   Introduces TRAP, which evaluates task-redirection attacks embedded in realistic web interfaces. Controlled website clones and a modular injection framework support comparisons of persuasion techniques and contextual changes across agents.
+- [DECEPTICON: How Dark Patterns Manipulate Web Agents](https://awesomecua.com/resources/arxiv-2512-22894/) — 2025-12-28
+  DECEPTICON is an environment of 700 web navigation tasks that isolates dark patterns to measure how deceptive interface designs steer agent actions.
+- [FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback](https://awesomecua.com/resources/arxiv-2601-04203/) — 2025-12-05
+  FronTalk benchmarks multi-turn front-end code generation from text and visual feedback; a web agent explores generated sites for evaluation and in AceCoder.
 - [Computer-Use Agents as Judges for Generative User Interface](https://awesomecua.com/resources/arxiv-2511-15567/) — 2025-11-19
   AUI-Gym evaluates generated websites by having computer-use agents attempt tasks whose executability is checked programmatically. A feedback dashboard condenses navigation histories into visual summaries that a coding agent can use to revise an interface.
+- [WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation](https://awesomecua.com/resources/arxiv-2511-06251/) — 2025-11-09
+  WebVIA combines a web UI exploration agent, interactive UI-to-Code generation, and validation of generated code's interactivity.
 - [Investigating the Impact of Dark Patterns on LLM-Based Web Agents](https://awesomecua.com/resources/arxiv-2510-18113/) — 2025-10-20
   Presents LiteAgent for recording web-agent interactions and TrickyArena for enabling or disabling dark patterns in controlled websites. Experiments compare how individual patterns, combined patterns and visual or HTML changes affect agent decisions.
 - [SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents](https://awesomecua.com/resources/arxiv-2510-11035/) — 2025-10-13
   Introduces SusBench, an online benchmark that inserts dark-pattern designs into consumer websites for agent evaluation. A human study checks the realism of the interventions, and agent trials compare susceptibility across pattern types.
+- [Understanding User Experiences of Computer Use Agents: Design Space and Opportunities for Building Agent UX Prototypes](https://awesomecua.com/resources/arxiv-2510-04452/) — 2025-10-06
+  Maps design considerations for computer-use agent experiences and introduces AgentUXlab, a browser-based probe for prototyping and evaluating agent UX on a website.
+- [WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning](https://awesomecua.com/resources/arxiv-2509-22644/) — 2025-09-26
+  Introduces WebGen-Agent for website code generation, using screenshot critiques and GUI-agent tests to refine code and provide step-level training rewards.
+- [A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants](https://awesomecua.com/resources/arxiv-2510-06223/) — 2025-08-31
+  Presents an MCP architecture that exposes an application's GUI navigation graph and view-specific tools to speech-enabled LLM assistants for voice interaction.
+- [WebMMU: A Benchmark for Multimodal Multilingual Website Understanding and Code Generation](https://awesomecua.com/resources/arxiv-2508-16763/) — 2025-08-22
+  Introduces WebMMU, a multilingual benchmark for website visual question answering, element grounding, code editing, and mockup-to-code generation.
 - [Machine-Readable Ads: Accessibility and Trust Patterns for AI Web Agents interacting with Online Advertisements](https://awesomecua.com/resources/arxiv-2507-12844/) — 2025-07-17
   Compares DOM-based and pixel-based web agents on a cloned news site containing advertisements, consent dialogs and paywalls. The study examines how interface presentation affects ad interaction and consequential subscription choices.
 - [Build the web for agents, not agents for the web](https://awesomecua.com/resources/arxiv-2506-10953/) — 2025-06-12

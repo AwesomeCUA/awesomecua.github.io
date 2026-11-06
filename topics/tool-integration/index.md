@@ -110,6 +110,10 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   ToolTok represents GUI operations with learned tool tokens and frames interaction as progressive tool selection. Semantic anchoring and an easy-to-hard curriculum teach tool meanings before visual pathfinding, with evaluation across grounding scenarios.
 - [CUA-Skill: Develop Skills for Computer Using Agent](https://awesomecua.com/resources/arxiv-2601-21123/) — 2026-01-28
   CUA-Skill encodes Windows application knowledge in parameterized skills and execution/composition graphs. Its agent retrieves and instantiates these skills and uses memory for failure recovery, with end-to-end evaluation on WindowsAgentArena.
+- [Computer Environments Elicit General Agentic Intelligence in LLMs](https://awesomecua.com/resources/arxiv-2601-16206/) — 2026-01-22
+  LLM-in-Sandbox gives agents a minimal computer environment for resource access, file management and code execution; LLM-in-Sandbox-RL trains models to use it.
+- [Agentic Artificial Intelligence (AI): Architectures, Taxonomies, and Evaluation of Large Language Model Agents](https://awesomecua.com/resources/arxiv-2601-12560/) — 2026-01-18
+  Surveys LLM agent architectures, operating environments and evaluation, covering web navigation and native computer use alongside other agent domains.
 - [GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents](https://awesomecua.com/resources/arxiv-2601-09770/) — 2026-01-14
   GUI-Eyes trains GUI grounders to decide when and how to use visual tools such as crops and zooms. Its coarse-to-fine policy uses dense spatial rewards based on location proximity and region overlap, with evaluation on ScreenSpot-Pro.
 - [OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://awesomecua.com/resources/arxiv-2601-07779/) — 2026-01-12
@@ -122,14 +126,22 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Introduces long mobile workflows that combine agent-user interaction, cross-application tasks, and MCP-based tool access.
 - [Step-GUI Technical Report](https://awesomecua.com/resources/arxiv-2512-15431/) — 2025-12-17
   Step-GUI uses calibrated trajectory rewards to turn generated GUI interaction data into training signals for compact agent models. The report also introduces GUI-MCP for hierarchical GUI operations and local task delegation, and AndroidDaily for static-action and end-to-end mobile evaluation.
+- [Permission Manifests for Web Agents](https://awesomecua.com/resources/arxiv-2601-02371/) — 2025-12-07
+  Proposes agent-permissions.json, a website manifest for declaring which interactions web agents may perform, with optional references to APIs.
+- [MCP vs RAG vs NLWeb vs HTML: A Comparison of the Effectiveness and Efficiency of Different Agent Interfaces to the Web (Technical Report)](https://awesomecua.com/resources/arxiv-2511-23281/) — 2025-11-28
+  Compares HTML browsing, RAG, MCP, and NLWeb interfaces for web agents performing product search, comparison, and checkout tasks in four simulated e-shops.
 - [Building Browser Agents: Architecture, Security, and Practical Solutions](https://awesomecua.com/resources/arxiv-2511-19477/) — 2025-11-22
   Reports architectural and security lessons from building a browser agent, including hybrid accessibility-tree and visual context, browser tooling and programmatic constraints. A WebGames evaluation accompanies the discussion of reliability and specialization.
 - [OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents](https://awesomecua.com/resources/arxiv-2510-24563/) — 2025-10-28
   OSWorld-MCP evaluates how agents choose between GUI operations and MCP tool calls in computer tasks. It combines generated and curated tools, with 158 manually validated tools across seven applications, to examine tool use alongside task completion.
+- [SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoning over Complex and Large Spreadsheets](https://awesomecua.com/resources/arxiv-2510-19247/) — 2025-10-22
+  Introduces SheetBrain, a spreadsheet question-answering and manipulation agent that uses a Python sandbox and Excel tools, plus the SheetBench benchmark.
 - [UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action](https://awesomecua.com/resources/arxiv-2510-17790/) — 2025-10-20
   UltraCUA trains a shared policy for primitive GUI actions and high-level tool calls using synthesized tasks and hybrid trajectories. Supervised fine-tuning followed by online reinforcement learning is evaluated on OSWorld and WindowsAgentArena.
 - [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](https://awesomecua.com/resources/arxiv-2510-04607/) — 2025-10-06
   Introduces a Declarative Model Interface that maps existing GUIs to access, state and observation primitives while handling low-level interactions. Evaluation uses Word, PowerPoint and Excel on Windows with a GUI-agent baseline.
+- [3Dify: a Framework for Procedural 3D-CG Generation Assisted by LLMs Using MCP and RAG](https://awesomecua.com/resources/arxiv-2510-04536/) — 2025-10-06
+  Introduces 3Dify, a natural-language 3D graphics framework that operates creation tools through MCP and uses a computer-using agent for GUI operations when MCP is unavailable.
 - [\textsc{GUI-Spotlight}: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](https://awesomecua.com/resources/arxiv-2510-04039/) — 2025-10-05
   GUI-Spotlight trains a grounding model to reason over images and call tools that iteratively narrow its visual focus. The paper evaluates this refinement method on ScreenSpot-Pro after training on 18,500 samples.
 - [WALT: Web Agents that Learn Tools](https://awesomecua.com/resources/arxiv-2510-01524/) — 2025-10-01
@@ -138,12 +150,20 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Ferret-UI Lite develops a 3B GUI agent using mixed real and synthetic data, reasoning with visual tools at inference, and reinforcement learning. It evaluates grounding and navigation across mobile, web, and desktop settings, including AndroidWorld and OSWorld.
 - [Secure and Efficient Access Control for Computer-Use Agents via Context Space](https://awesomecua.com/resources/arxiv-2509-22256/) — 2025-09-26
   Introduces CSAgent, which combines static access policies with user intent and context and enforces them through an operating-system service. A supporting toolchain constructs and refines policies for agents using API, CLI and GUI interfaces.
+- [Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution](https://awesomecua.com/resources/arxiv-2509-21072/) — 2025-09-25
+  Introduces Recon-Act, a browser-use framework that compares failed and successful web trajectories to create reusable tools for planning and executing long-horizon website tasks.
+- [Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration](https://awesomecua.com/resources/arxiv-2509-11067/) — 2025-09-14
+  Introduces Agentic Lybic, a desktop automation system that routes tasks among GUI, code, and decision-support workers using a finite-state machine and evaluator.
 - [MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2509-06477/) — 2025-09-08
   MAS-Bench evaluates mobile agents that combine GUI actions with APIs, deep links, and reusable scripts. Its 139 tasks across 11 apps test use of 88 predefined shortcuts as well as the ability to generate new reusable workflows.
 - [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://awesomecua.com/resources/arxiv-2509-02544/) — 2025-09-02
   UI-TARS-2 combines scalable trajectory generation, stabilized multi-turn reinforcement learning, and a sandbox that supports GUI, filesystem, and terminal actions. The report evaluates the resulting agent across web, desktop, Android, and game tasks and analyzes training stability.
 - [Throttling Web Agents Using Reasoning Gates](https://awesomecua.com/resources/arxiv-2509-01619/) — 2025-09-01
   Introduces reasoning gates that require agents to solve generated, verifiable puzzles before receiving access to resources. The throttling approach is deployed on a custom website and MCP servers and evaluated with web agents.
+- [A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants](https://awesomecua.com/resources/arxiv-2510-06223/) — 2025-08-31
+  Presents an MCP architecture that exposes an application's GUI navigation graph and view-specific tools to speech-enabled LLM assistants for voice interaction.
+- [MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents](https://awesomecua.com/resources/arxiv-2508-21475/) — 2025-08-29
+  Introduces MMSearch-Plus, a multimodal browsing benchmark with iterative image-text search, and an agent framework that marks and crops images for targeted retrieval.
 - [ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents](https://awesomecua.com/resources/arxiv-2508-14040/) — 2025-08-19
   Combines API and GUI actions with distributed desktop reinforcement learning and alternating supervised training to address training instability.
 - [CoAct-1: Computer-using Multi-Agent System with Coding Actions](https://awesomecua.com/resources/arxiv-2508-03923/) — 2025-08-05

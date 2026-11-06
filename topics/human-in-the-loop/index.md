@@ -60,6 +60,8 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   CowCorpus records interleaved human and agent actions during web navigation and identifies distinct patterns of user intervention. Models trained to anticipate these interventions are integrated into live web agents and assessed in a user study.
 - [AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild](https://awesomecua.com/resources/arxiv-2602-11750/) — 2026-02-12
   AmbiBench evaluates mobile GUI agents under four levels of instruction clarity, including tasks requiring active clarification. Its MUSE evaluator separately audits outcomes, execution quality and interaction quality to study alignment with user intent.
+- [LHAW: Controllable Underspecification for Long-Horizon Tasks](https://awesomecua.com/resources/arxiv-2602-10525/) — 2026-02-11
+  LHAW generates underspecified variants of long-horizon workflow tasks and uses agent trials to evaluate when missing information requires clarification.
 - [A11y-CUA Dataset: Characterizing the Accessibility Gap in Computer Use Agents](https://awesomecua.com/resources/arxiv-2602-09310/) — 2026-02-10
   Introduces A11y-CUA, a dataset comparing how blind or low-vision users and sighted users perform everyday computer tasks. It contrasts those traces with agent behavior under default, keyboard-only, and magnifier conditions to identify barriers to shared control.
 - [Mapping the Design Space of User Experience for Computer Use Agents](https://awesomecua.com/resources/arxiv-2602-07283/) — 2026-02-07
@@ -78,8 +80,16 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   DrawingBench evaluates sequences of low-level mouse-based GUI actions through 250 drawing prompts and rule-based criteria. Action inspection and multi-turn external feedback support analysis of spatial reasoning, tool-state management, and refinement.
 - [LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents](https://awesomecua.com/resources/arxiv-2512-04105/) — 2025-11-28
   LegalWebAgent separates user-needs clarification, webpage browsing, and actions such as form completion or scheduling. A 15-task evaluation studies legal-service workflows relevant to Québec civil-law users, using HTML and screenshot observations.
+- [ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://awesomecua.com/resources/arxiv-2510-19386/) — 2025-10-22
+  Presents ColorAgent, an operating system agent for long-horizon user instructions, trained with step-wise RL and self-evolving training and evaluated on AndroidWorld and AndroidLab.
+- [State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living](https://awesomecua.com/resources/arxiv-2510-14513/) — 2025-10-16
+  Introduces an assistant that reads screenshots, application titles, and URLs to compare computer activity with a user's stated intention and send notifications when it diverges.
+- [ALLOY: Generating Reusable Agent Workflows from User Demonstration](https://awesomecua.com/resources/arxiv-2510-10049/) — 2025-10-11
+  Introduces ALLOY, which turns user demonstrations into editable, reusable workflows for LLM-based web agents carrying out preference-dependent tasks.
 - [ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation](https://awesomecua.com/resources/arxiv-2510-07988/) — 2025-10-09
   Introduces ReInAgent, coordinating information management, planning, and reflection around a shared memory for mobile tasks. It proactively asks users for information and checks consistency when instructions are ambiguous or change during execution.
+- [Understanding User Experiences of Computer Use Agents: Design Space and Opportunities for Building Agent UX Prototypes](https://awesomecua.com/resources/arxiv-2510-04452/) — 2025-10-06
+  Maps design considerations for computer-use agent experiences and introduces AgentUXlab, a browser-based probe for prototyping and evaluating agent UX on a website.
 - [BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks](https://awesomecua.com/resources/arxiv-2510-02418/) — 2025-10-02
   Introduces BrowserArena, a live-web platform for head-to-head agent comparisons on user-submitted tasks. Step-level human annotations support targeted analysis of navigation, pop-up handling and CAPTCHA-related failures.
 - [Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent](https://awesomecua.com/resources/arxiv-2509-20729/) — 2025-09-25

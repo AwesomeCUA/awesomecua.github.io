@@ -1,20 +1,20 @@
 # SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents
 
-Bibliographic record for SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+SmartSnap trains GUI agents to collect concise screenshot evidence of task completion for an LLM judge, with experiments on mobile tasks.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2512-22322/
 - Original source: https://arxiv.org/abs/2512.22322
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: core
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:32:55Z
+- Topics: self-reflection, evaluation, reinforcement-learning, mobile-navigation
+- Evidence checked: 2026-11-05T23:02:15Z
 - ID: arxiv:2512.22322
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained arXiv abstract (v2). The abstract describes experiments on mobile tasks without naming a mobile operating system. Experiments, reported performance and artifact availability have not been independently reproduced.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-22322/record.json
 
@@ -46,3 +46,4 @@ Shaofei Cai, Yulei Qin, Haojia Lin, Zihan Xu, Gang Li, Yuchen Shi, Zongyi Li, Yo
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2511.13091%2C2511.21398%2C2511.22235%2C2512.00756%2C2512.00846%2C2512.01174%2C2512.01763%2C2512.02423%2C2512.04105%2C2512.05941%2C2512.07725%2C2512.09396%2C2512.11611%2C2512.12692%2C2512.17221%2C2512.19396%2C2512.21302%2C2512.22009%2C2512.22047%2C2512.22322%2C2512.23128%2C2601.02371%2C2601.02439%2C2601.03641%2C2601.04035%2C2601.04126%2C2601.04500%2C2601.05787%2C2601.06899%2C2601.08605%2C2601.09636%2C2601.09770%2C2601.11631%2C2601.12349%2C2601.16356%2C2601.17418%2C2601.18197%2C2601.18305%2C2601.19199%2C2601.20732%2C2601.21352%2C2601.21872%2C2601.21961%2C2601.22149%2C2601.22491%2C2601.22528%2C2602.02468%2C2602.05354%2C2602.06090%2C2602.06351&max_results=50 (retrieved 2026-10-16T06:32:55Z; SHA-256 e6061c8dd9c00a70fcf1d4325b671c50a6912063ecbe2b6359175ae4622983a0)
+- https://export.arxiv.org/api/query?id_list=2512.14012%2C2512.15472%2C2512.16925%2C2512.16962%2C2512.16975%2C2512.20237%2C2512.21373%2C2512.21481%2C2512.21720%2C2512.22322%2C2512.22894%2C2512.23044%2C2512.23646%2C2512.23738%2C2601.01743%2C2601.02046%2C2601.02163%2C2601.02371%2C2601.02454%2C2601.02617%2C2601.02702%2C2601.03468%2C2601.03641%2C2601.04203%2C2601.04795%2C2601.05107%2C2601.05432%2C2601.06031%2C2601.06328%2C2601.06411%2C2601.06487%2C2601.06490%2C2601.06565%2C2601.06663%2C2601.06899%2C2601.07143%2C2601.07375%2C2601.08012%2C2601.08079%2C2601.08225%2C2601.08237%2C2601.08731%2C2601.09113%2C2601.09668%2C2601.09749%2C2601.09883%2C2601.09928%2C2601.10378%2C2601.10440%2C2601.10611&max_results=50 (retrieved 2026-11-05T23:02:15Z; SHA-256 75da6ac15da18c8af45938cceafc4df1bb67f525c8b7b05d50b392953a8e534f)
