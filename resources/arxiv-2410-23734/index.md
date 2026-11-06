@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-23734/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) found it outside the scope: The abstract gives a classical simulation algorithm for measurement\-based quantum computation using Bell polytopes\. This quantum information work does not involve agents operating graphical interfaces, web pages or devices\. The retained record is v1, so the scope decision waits until that snapshot is reconciled\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Cihan Okay, Atak Talay Yucel, Selman Ipek

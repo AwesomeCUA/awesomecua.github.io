@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-14133/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Generator\-backed benchmark of executable command\-line workflows with stale or conflicting state; terminal agents act on persistent files and services, with no GUI involved\. An open pull request \(\#3113\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Yuxiang Lai, Peng Xia, Haonian Ji, Kaiwen Xiong, Kaide Zeng, Jiaqi Liu, Fang Wu, Jike Zhong, Zeyu Zheng, Cihang Xie, Huaxiu Yao

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-03117/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Indirect prompt injection benchmark for agent defenses with Shopping, GitHub and Daily Life suites; the abstract does not say whether the agents act through web pages or through tool APIs\. An exclusion proposal is open in pull request \#3682\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Hao Li, Ruoyao Wen, Shanghao Shi, Ning Zhang, Yevgeniy Vorobeychik, Chaowei Xiao

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-16900/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Synthesizes stateful API\-calling trajectories with an LLM world model and evaluates on AppWorld and OfficeBench, i\.e\. app and office automation through APIs rather than GUI actions\. An open pull request \(\#2421\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Seanie Lee, Sanjoy Chowdhury, Chao Jiang, Cheng-Yu Hsieh, Ting-Yao Hu, Alexander T Toshev, Oncel Tuzel, Raviteja Vemulapalli

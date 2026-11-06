@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-06306/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Benchmark for generating runnable multi\-route web apps from static UI screenshots, scoring whether models infer interactions; a screenshot\-to\-code task rather than agent GUI control\. An open pull request \(\#2621\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Grace Man Chen, Litao Guo, Yifan Wu, Yiyu Chen, Yenchi Tseng, Sicheng Liu, Yuyu Luo, Ying-Cong Chen

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-06485/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Trains a compact 4B agent for long\-horizon exploration and reports GAIA results; the abstract does not say whether the agent browses web pages or only calls search and other tools\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Haotian Chen, Xin Cong, Shengda Fan, Yuyang Fu, Ziqin Gong, Yaxi Lu, Yishan Li, Boye Niu, Chengjun Pan, Zijun Song, Huadong Wang, Yesai Wu, Yueying Wu, Zihao Xie, Yukun Yan, Zhong Zhang, Yankai Lin, Zhiyuan Liu, Maosong Sun

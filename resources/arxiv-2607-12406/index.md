@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-12406/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Survey framing LLM\-agent safety through isolation boundaries, including environment\-originated context; the abstract does not say how far it covers web or GUI agents\. An curation proposal is open in pull request \#2837\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Huihao Jing, Wenbin Hu, Shaojin Chen, Haochen Shi, Sirui Zhang, Hanyu Yang, Changxuan Fan, Zhongwei Xie, Hongyu Luo, Wun Yu Chan, Wei Fan, Haoran Li, Yangqiu Song

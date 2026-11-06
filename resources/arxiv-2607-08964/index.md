@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-08964/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Long\-horizon terminal benchmark with dense graded subtasks spanning reproduction, software and scientific computing; agents operate a shell environment rather than a GUI\. An open pull request \(\#2811\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Zongxia Li, Zhongzhi Li, Yucheng Shi, Ruhan Wang, Junyao Yang, Zhichao Liu, Xiyang Wu, Anhao Li, Chengsong Huang, Ergan Shang, Yue Yu, Ninghao Liu, Lichao Sun, Haotao Mi, Leowei Liang

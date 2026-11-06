@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2311-18492/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Fusion 360 plugin that synthesizes CAD assembly programs through the application's API; unclear whether this CAD design synthesis counts as application automation for the catalog\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Constantin Chaumet, Jakob Rehof

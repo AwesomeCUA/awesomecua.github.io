@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2611-01860/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Report on LLM agents that write and refine graphics code, with a taxonomy and literature tool; the abstract does not say whether covered systems operate graphics applications through GUIs or scripting APIs\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Hengyu Liu, Jihyeon Je, Ruiqi Wang, Mingxuan Wu, Haven Feng, Qixing Huang, Georgios Pavlakos, Hao Zhang, Jiajun Wu, Maneesh Agrawala, Leonidas Guibas, R. Kenny Jones, Shangzhe Wu, Guandao Yang

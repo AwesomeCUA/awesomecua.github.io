@@ -1,77 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Si Xu",
-    "Zixiao Huang",
-    "Yan Zeng",
-    "Shengen Yan",
-    "Xuefei Ning",
-    "Quanlu Zhang",
-    "Haolin Ye",
-    "Sipei Gu",
-    "Chunsheng Shui",
-    "Zhezheng Lin",
-    "Hao Zhang",
-    "Sheng Wang",
-    "Guohao Dai",
-    "Yu Wang"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "00613986383b6305eadd90825cd64452d3fd819e6a2b6e720ef8048ec09d581a",
-      "submitted_at": "2024-05-25T14:36:35Z",
-      "updated_at": "2024-08-09T02:38:07Z",
-      "version": 2,
-      "versioned_url": "https://arxiv.org/abs/2405.16256v2"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-11-05T21:13:41Z",
-      "role": "primary",
-      "sha256": "4f8c52402475481097941fac66a689892def7057d6129b23f62f53f31e53690a",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?id_list=2312.02051%2C2312.10170%2C2312.11805%2C2401.03428%2C2401.03568%2C2401.04088%2C2402.01680%2C2402.01817%2C2402.02716%2C2402.03300%2C2402.03578%2C2402.15116%2C2403.05530%2C2403.07548%2C2403.08978%2C2403.09333%2C2403.11481%2C2403.12881%2C2403.14508%2C2404.00282%2C2404.04902%2C2405.11106%2C2405.11143%2C2405.14093%2C2405.16256%2C2406.09455%2C2406.14088%2C2406.16707%2C2407.06886%2C2407.11691%2C2408.09071%2C2408.15769%2C2409.02813%2C2409.03215%2C2409.04465%2C2409.12191%2C2409.17146%2C2409.18142%2C2409.18807%2C2409.19256%2C2410.02052%2C2410.21220%2C2410.21276%2C2411.05755%2C2411.17933%2C2412.10400%2C2412.14171%2C2501.02189%2C2501.02863%2C2501.07278&max_results=50"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2405.16256",
-  "identifiers": {
-    "arxiv": "2405.16256"
+  "reason": "The abstract builds a distributed training system for large models on heterogeneous GPU clusters. This systems work does not involve agents operating graphical interfaces, web pages or devices.",
+  "decision": {
+    "id": "arxiv:2405.16256",
+    "name": "HETHUB: A Distributed Training System with Heterogeneous Cluster for Large-Scale Models",
+    "url": "https://arxiv.org/abs/2405.16256",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract builds a distributed training system for large models on heterogeneous GPU clusters. This systems work does not involve agents operating graphical interfaces, web pages or devices.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "8cc593cb2ef4dad80daf0dd69d1256934ac32c14e17659217ff7caa3c3556f29",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2312.02051%2C2312.10170%2C2312.11805%2C2401.03428%2C2401.03568%2C2401.04088%2C2402.01680%2C2402.01817%2C2402.02716%2C2402.03300%2C2402.03578%2C2402.15116%2C2403.05530%2C2403.07548%2C2403.08978%2C2403.09333%2C2403.11481%2C2403.12881%2C2403.14508%2C2404.00282%2C2404.04902%2C2405.11106%2C2405.11143%2C2405.14093%2C2405.16256%2C2406.09455%2C2406.14088%2C2406.16707%2C2407.06886%2C2407.11691%2C2408.09071%2C2408.15769%2C2409.02813%2C2409.03215%2C2409.04465%2C2409.12191%2C2409.17146%2C2409.18142%2C2409.18807%2C2409.19256%2C2410.02052%2C2410.21220%2C2410.21276%2C2411.05755%2C2411.17933%2C2412.10400%2C2412.14171%2C2501.02189%2C2501.02863%2C2501.07278&max_results=50",
+      "sha256": "4f8c52402475481097941fac66a689892def7057d6129b23f62f53f31e53690a",
+      "retrieved_at": "2026-11-05T21:13:41Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-11-05T21:13:41Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2405.16256"
-    }
-  ],
-  "name": "HETHUB: A Distributed Training System with Heterogeneous Cluster for Large-Scale Models",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2024-05-25",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2024-08-09",
-  "url": "https://arxiv.org/abs/2405.16256"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

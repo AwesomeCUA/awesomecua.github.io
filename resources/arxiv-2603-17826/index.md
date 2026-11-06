@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-17826/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Multimodal program repair agent that grounds regions of GUI screenshots to fix visual software issues on SWE\-bench Multimodal; it reads UI screenshots to produce code fixes rather than operating the interface\. An open pull request \(\#3259\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Ruize Ma, Yilei Jiang, Shilin Zhang, Zheng Ma, Yi Feng, Vincent Ng, Zhi Wang, Xiangyu Yue, Chuanyi Li, Lewei Lu

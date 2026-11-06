@@ -1,48 +1,12 @@
 # Fast Stencil Computations using Fast Fourier Transforms
 
-Bibliographic record for Fast Stencil Computations using Fast Fourier Transforms. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-2105-06676/
-- Original source: https://arxiv.org/abs/2105.06676
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:37:05Z
-- ID: arxiv:2105.06676
+Gives FFT-based parallel algorithms for linear stencil computations. This algorithms work has no connection to computer-use or GUI agents.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2105.06676
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2105-06676/record.json
-
-## Authors
-
-Zafar Ahmad, Rezaul Chowdhury, Rathish Das, Pramod Ganapathi, Aaron Gregory, Yimin Zhu
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2105-06676/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2105-06676/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2105.06676v1
-- First submission: 2021-05-14T07:24:36Z
-- Version updated: 2021-05-14T07:24:36Z
-- Abstract SHA-256: 77deaa89199e6a22e888b78c34373256c3f050e758ddba1d803bae5f53f1baea
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:37:05Z; SHA-256 bb3d2692c294743a8d06d5065cc84b27b229a981c2c650ff20a2ec038797a0e3)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

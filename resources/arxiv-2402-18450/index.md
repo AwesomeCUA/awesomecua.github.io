@@ -1,48 +1,12 @@
 # Copula Approximate Bayesian Computation Using Distribution Random Forests
 
-Bibliographic record for Copula Approximate Bayesian Computation Using Distribution Random Forests. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-2402-18450/
-- Original source: https://arxiv.org/abs/2402.18450
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:36:58Z
-- ID: arxiv:2402.18450
+Proposes a copula-based approximate Bayesian computation framework using distribution random forests. This statistics work is unrelated to computer-use agents.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2402.18450
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2402-18450/record.json
-
-## Authors
-
-George Karabatsos
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2402-18450/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2402-18450/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 4
-- Version source: https://arxiv.org/abs/2402.18450v4
-- First submission: 2024-02-28T16:21:20Z
-- Version updated: 2024-09-11T17:44:35Z
-- Abstract SHA-256: a6589e8eed68504eef005067d0636cdec18449a4c972ae1fad3f73da2c747858
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

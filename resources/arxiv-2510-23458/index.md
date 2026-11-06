@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-23458/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Confidence\-guided test\-time scaling for LLM search agents; the title says web agents, but the abstract does not say whether they open and read pages or only query search tools\. An exclusion proposal is open in pull request \#3939\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Litu Ou, Kuan Li, Huifeng Yin, Liwen Zhang, Zhongwang Zhang, Xixi Wu, Rui Ye, Zile Qiao, Pengjun Xie, Jingren Zhou, Yong Jiang

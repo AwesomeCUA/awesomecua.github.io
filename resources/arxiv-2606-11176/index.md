@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-11176/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Multi\-agent system that writes evidence\-grounded multimedia data stories; computer\-use agents appear only as judges navigating the generated interactive articles, so it is unclear whether this is material GUI\-agent work\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Kevin Qinghong Lin, Batu EI, Yuhong Shi, Pan Lu, Juil Sock, Djordje Padejski, Philip Torr, James Zou

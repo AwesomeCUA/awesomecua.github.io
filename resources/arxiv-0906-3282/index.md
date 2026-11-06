@@ -1,48 +1,12 @@
 # Maximum Error Modeling for Fault-Tolerant Computation using Maximum a posteriori (MAP) Hypothesis
 
-Bibliographic record for Maximum Error Modeling for Fault-Tolerant Computation using Maximum a posteriori (MAP) Hypothesis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-0906-3282/
-- Original source: https://arxiv.org/abs/0906.3282
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:37:09Z
-- ID: arxiv:0906.3282
+The abstract models worst-case error probabilities of logic circuits for fault-tolerant computation via MAP estimation. This circuit reliability work does not involve agents operating graphical interfaces, web pages or devices.
 
-## Limitations
+Original paper: https://arxiv.org/abs/0906.3282
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-0906-3282/record.json
-
-## Authors
-
-Karthikeyan Lingasubramanian, Syed M. Alam, Sanjukta Bhanja
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-0906-3282/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-0906-3282/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 3
-- Version source: https://arxiv.org/abs/0906.3282v3
-- First submission: 2009-06-17T19:23:28Z
-- Version updated: 2009-10-27T13:57:19Z
-- Abstract SHA-256: 869f06d18cfbc038ec2d30c9575570966ea82a154caa8be3c7e724802f444c82
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:37:09Z; SHA-256 a3ebf2fcfa181413d078dc3408f17bfabfac87f9aee1c78994840197df701e9d)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

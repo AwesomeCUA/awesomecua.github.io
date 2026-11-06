@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-04220/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Defines a probabilistic reward and penalty model for scoring workflow quality in automation systems\. This formal workflow evaluation work does not involve agents operating interfaces\. The other marked it borderline: Defines a reward\-and\-penalty model for scoring automation workflows; the abstract does not say whether these workflows operate software interfaces \(RPA\-like\) or only orchestrate services\. An exclusion proposal is open in pull request \#3781\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Alan Seroul, Théo Fagnoni, Inès Adnani, Dana O. Mohamed, Phillip Kingston

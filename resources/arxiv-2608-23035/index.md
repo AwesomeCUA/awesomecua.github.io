@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-23035/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Benchmarks mobile planner agents that call 212 simulated mobile tools, memory, skills and sub\-agents; the abstract describes tool calls and state checks, not operation of phone GUIs\. An curation proposal is open in pull request \#2555\. The retained record is v2; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Yi Zhu, Xiongwei Wu, Qiyi Wang, Tingyu Qu, Jiajun Liu, Sihan Cao, Long Chen, Weigao Sun, Feida Zhu, Yiran Zhong, Steven Hoi

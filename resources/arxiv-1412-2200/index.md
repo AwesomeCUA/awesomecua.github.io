@@ -1,48 +1,12 @@
 # Response to "Comment on "Ultra-low-energy non-volatile straintronic computing using single multiferroic composites"" [Appl. Phys. Lett. 103, 173110 (2013)]
 
-Bibliographic record for Response to "Comment on "Ultra-low-energy non-volatile straintronic computing using single multiferroic composites"" [Appl. Phys. Lett. 103, 173110 (2013)]. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-1412-2200/
-- Original source: https://arxiv.org/abs/1412.2200
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:37:09Z
-- ID: arxiv:1412.2200
+A withdrawn reply about straintronic computing with multiferroic composites; its only abstract text is an admin note. This condensed-matter physics item does not involve agents operating graphical interfaces, web pages or devices.
 
-## Limitations
+Original paper: https://arxiv.org/abs/1412.2200
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-1412-2200/record.json
-
-## Authors
-
-Kuntal Roy
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-1412-2200/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-1412-2200/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 2
-- Version source: https://arxiv.org/abs/1412.2200v2
-- First submission: 2014-12-06T06:15:46Z
-- Version updated: 2015-01-22T20:53:34Z
-- Abstract SHA-256: 31eb4c33a8a0da280eb17388d1909206315555aae925d634e93ba2a93d130c87
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:37:09Z; SHA-256 a3ebf2fcfa181413d078dc3408f17bfabfac87f9aee1c78994840197df701e9d)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

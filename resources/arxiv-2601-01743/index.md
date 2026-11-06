@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-01743/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Survey of AI agent architectures, orchestration and evaluation; the abstract covers tools, APIs, code execution and multimodal perception but does not say whether GUI or web agents are covered\. An curation proposal is open in pull request \#3742\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Bin Xu

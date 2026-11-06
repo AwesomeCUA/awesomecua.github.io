@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2512-06641/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Structure\-aware HTML segmentation with index prediction to extract query\-relevant webpage content for web agents and RAG; evaluated only as a RAG step and on extraction accuracy, with no agent browsing or acting on pages\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Yihan Chen, Benfeng Xu, Xiaorui Wang, Zhendong Mao

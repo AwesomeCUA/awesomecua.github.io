@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-12945/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract uses LLM agents to turn scene descriptions into procedural\-generation parameters for 3D software such as Blender\. This 3D content\-creation work does not involve agents operating graphical interfaces, web pages or devices\. The other marked it borderline: LLM agents perform instruction\-driven procedural 3D modeling and drive Blender for asset creation; unclear whether controlling 3D software through code counts as application automation or falls outside as 3D content generation\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Chunyi Sun, Junlin Han, Weijian Deng, Xinlong Wang, Zishan Qin, Stephen Gould

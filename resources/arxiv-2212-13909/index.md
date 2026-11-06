@@ -1,48 +1,12 @@
 # Framework for understanding quantum computing use cases from a multidisciplinary perspective and future research directions
 
-Bibliographic record for Framework for understanding quantum computing use cases from a multidisciplinary perspective and future research directions. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-2212-13909/
-- Original source: https://arxiv.org/abs/2212.13909
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:37:01Z
-- ID: arxiv:2212.13909
+Reviews practical and social use cases of quantum computing and offers an adoption framework. This quantum-computing policy review does not involve agents operating interfaces.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2212.13909
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2212-13909/record.json
-
-## Authors
-
-Dandison Ukpabi, Heikki Karjaluoto, Astrid Bötticher, Anastasija Nikiforova, Dragoş Petrescu, Paulina Schindler, Visvaldis Valtenbergs, Lennard Lehmann, Abuzer Yakaryilmaz
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2212-13909/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2212-13909/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 2
-- Version source: https://arxiv.org/abs/2212.13909v2
-- First submission: 2022-12-19T12:27:12Z
-- Version updated: 2023-01-05T11:35:05Z
-- Abstract SHA-256: b365a86895c4b9e6e3c45f41b2e02847f0ca90659ba833d99ec49c4e5c01a4d2
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:37:01Z; SHA-256 8bfa074910574410d7988771270feded31e7e1bd1fd0924d4754850d4a5f1914)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

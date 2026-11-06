@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2410-21220/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Pairs VLMs with web agents for open\-world retrieval\-augmented visual QA; the abstract does not say whether the web agent opens and reads pages or only calls a search API\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Zhixin Zhang, Yiyuan Zhang, Xiaohan Ding, Xiangyu Yue

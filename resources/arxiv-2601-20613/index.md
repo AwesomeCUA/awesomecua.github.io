@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-20613/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Daily\-task instruction\-following benchmark for general AI agent products with attachments and file deliverables; the abstract does not say whether the agents work through browsers, GUIs or only APIs\. An exclusion proposal is open in pull request \#3653\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 [Authors: see the paper](https://arxiv.org/abs/2601.20613v2)

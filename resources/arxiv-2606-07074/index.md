@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-07074/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Efficiency\-aware SFT and RL for deep research web agents, evaluated on GAIA, BrowseComp and XBench\-DeepSearch browsing benchmarks\. An open pull request \(\#2843\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Zequn Xie, Junjie Wang, Dan Yang, Jie Feng, Yue Shen, Jian Wang, Jinjie Gu

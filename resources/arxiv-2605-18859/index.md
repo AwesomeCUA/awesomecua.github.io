@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-18859/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) could not settle the scope: Step\-level LLM routing benchmark for agentic workloads; computer\-use agents are named as a motivating application, but the tracks use SWE\-bench, BFCL, RAG and PinchBench with no GUI tasks described\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Pei Yang, Wanyi Chen, Tongyun Yang, Pengbin Feng, Jiarong Xing, Wentao Guo, Yuhang Yao, Yuhang Han, Hanchen Li, Xu Wang, Yuan Gao, Zeyu Wang, Jie Xiao, Anjie Yang, Liang Tian, Lynn Ai, Eric Yang, Tianyu Shi

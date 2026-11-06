@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-20121/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Safety benchmark of risky third\-party skills executed by CLI agent frameworks in sandboxes; terminal\-level computer agents rather than GUI agents\. An open pull request \(\#2367\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Qiyuan Liu, Tingfeng Hui, Kun Zhan, Kaike Zhang, Ning Miao

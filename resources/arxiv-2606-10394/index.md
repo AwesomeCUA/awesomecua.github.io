@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-10394/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Automated state\-based benchmark builder for claw\-style personal agents in personal\-computing environments, scored by final system state; no GUI is described\. An open pull request \(\#3045\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Sirui Liang, Bohan Yu, Peiyu Wang, Shiguang Guo, Wenxing Hu, Pengfei Cao, Jian Zhao, Cao Liu, Ke Zeng, Xunliang Cai, Kang Liu

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-16909/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Omni\-modal tool\-use benchmark run through MCP servers that contrasts itself with computer\-use evaluation; the abstract does not say whether any of its tools operate a GUI, browser or desktop\. An exclusion proposal is open in pull request \#3023\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Zhiqiang Liu, Wenhui Dong, Yilang Tan, Yuwen Qu, Haochen Yin, Chenyang Si

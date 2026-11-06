@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-17162/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Memory framework for personalized slide\-generation agents with tool\-based local revision; the abstract does not say whether edits drive presentation software or are plain content generation\. An exclusion proposal is open in pull request \#3015\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Ye Jin, Yangyang Xu, Jun Zhu, Yibo Yang

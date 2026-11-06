@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-02795/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Trains a multimodal search agent with SFT and RL to use text search, image search and web browsing over long horizons, plus a multimodal search benchmark\. An open pull request \(\#3333\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Ruiyang Zhang, Qianguo Sun, Chao Song, Yiyan Qi, Zhedong Zheng

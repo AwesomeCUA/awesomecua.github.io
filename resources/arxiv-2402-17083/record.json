@@ -1,65 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Rodrick Kuate Defo",
-    "Steven L. Richardson"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "60a0ced1950b0cfb1d3b23915fd66322f31d47095ffaf334d4612256705e75be",
-      "submitted_at": "2024-02-26T23:41:19Z",
-      "updated_at": "2024-05-05T03:23:32Z",
-      "version": 2,
-      "versioned_url": "https://arxiv.org/abs/2402.17083v2"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-10-16T06:36:58Z",
-      "role": "primary",
-      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2402.17083",
-  "identifiers": {
-    "arxiv": "2402.17083"
+  "reason": "The abstract proposes using NV-center charge states in diamond for quantum science and computation. This materials physics work does not involve agents operating graphical interfaces, web pages or devices.",
+  "decision": {
+    "id": "arxiv:2402.17083",
+    "name": "Computing Using Shallow NV-Center Charges in Diamond",
+    "url": "https://arxiv.org/abs/2402.17083",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract proposes using NV-center charge states in diamond for quantum science and computation. This materials physics work does not involve agents operating graphical interfaces, web pages or devices.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "c859fd8360666f6bf7bd6b604902a7182bd85393db770eb0023c3df72b4e184c",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "retrieved_at": "2026-10-16T06:36:58Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-10-16T06:36:58Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2402.17083"
-    }
-  ],
-  "name": "Computing Using Shallow NV-Center Charges in Diamond",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2024-02-26",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2024-05-05",
-  "url": "https://arxiv.org/abs/2402.17083"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

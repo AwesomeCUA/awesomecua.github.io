@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-06514/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract releases network\-traffic flows from LLM agent episodes to classify risk, scenario and behavior primitives\. This traffic\-analysis auditing work names no GUI, web\-page or device operation by the agents\. The other marked it borderline: Network\-traffic dataset for auditing LLM agent behavior inside organizational networks\. The abstract does not say whether the agents browse the web, operate GUIs or only call APIs\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Fan Li, Xiangyu Gao, Zixuan Liu, Tong Li, Chuanpu Fu, Ziqiang Wang, Ke Xu

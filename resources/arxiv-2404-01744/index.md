@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2404-01744/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v7 abstract \(5 November 2026\) could not settle the scope: On\-device function\-calling model for agents; the abstract mentions edge devices and software workflows but not whether the calls automate phone apps or generic APIs, so its relation to device automation is unclear\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Wei Chen, Zhiyuan Li

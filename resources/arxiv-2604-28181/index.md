@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-28181/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Builds synthetic computers with folders and office documents and runs long\-horizon productivity agents on them; the abstract does not say whether agents act through a GUI, a terminal or file tools\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Tao Ge, Baolin Peng, Hao Cheng, Jianfeng Gao

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-17548/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: SoK on prompt injection against coding assistants with shell, file system and MCP access; unclear whether this counts as terminal agents operating a computer or as out\-of\-scope coding\-agent security\. An exclusion proposal is open in pull request \#3589\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Narek Maloyan, Dmitry Namiot

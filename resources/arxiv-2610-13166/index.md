@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-13166/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Synthesizes long\-horizon task environments and trajectories for terminal agents and fine\-tunes a 27B model on them; a terminal\-agent data resource without GUI interaction\. An open pull request \(\#2565\) proposes to exclude it, so the scope needs a decision\. The retained record is v1; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Shun Zou, Ziyu Ma, Yi Zou, Yong Wang, Lin Chen, Zehui Chen, Guanhua Chen, Xiangxiang Chu, Feng Zhao

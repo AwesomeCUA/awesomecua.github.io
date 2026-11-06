@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2506-04301/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Measures resource use, latency, energy and datacenter power of tool\-using LLM agents under test\-time scaling\. This AI infrastructure analysis does not involve agents operating graphical interfaces, web pages or devices\. An open pull request \(\#4237\) proposes to curate it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Jiin Kim, Byeongjun Shin, Jinha Chung, Minsoo Rhu

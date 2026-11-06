@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2305-16504/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Improves open\-source LLMs at software tool manipulation and introduces a ToolBench for API\-style tool use\. The abstract names no web\-page, GUI, mobile or desktop interaction\. The other marked it borderline: Tool\-manipulation benchmark and alignment recipe for open LLMs; the abstract describes diverse software tools for real\-world tasks without saying whether any involve web or GUI environments or only API calls\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang

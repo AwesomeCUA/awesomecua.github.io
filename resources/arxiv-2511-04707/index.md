@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-04707/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract jailbreaks long\-context LMs by padding harmful goals with benign generated text, tested on HarmBench\. Computer\-use agents appear only as motivation; no agent operating interfaces is studied\. The other marked it borderline: Studies a long\-context jailbreak evaluated on HarmBench; computer\-use agents appear only as a motivating long\-context use case, and the abstract reports no agent or GUI experiments\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Rishi Rajesh Shah, Chen Henry Wu, Shashwat Saxena, Ziqian Zhong, Alexander Robey, Aditi Raghunathan

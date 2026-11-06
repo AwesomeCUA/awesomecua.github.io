@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-04503/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Memory and planning framework for deep research agents that search and analyze information; the abstract does not say whether the agents open and read web pages or only call search tools\. An exclusion proposal is open in pull request \#3361\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Jingyang Qiao, Weicheng Meng, Yu Cheng, Zhihang Lin, Zhizhong Zhang, Xin Tan, Jingyu Gong, Kun Shao, Yuan Xie

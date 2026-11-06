@@ -1,48 +1,12 @@
 # Enabling Privacy-Preserving, Compute- and Data-Intensive Computing using Heterogeneous Trusted Execution Environment
 
-Bibliographic record for Enabling Privacy-Preserving, Compute- and Data-Intensive Computing using Heterogeneous Trusted Execution Environment. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-1904-04782/
-- Original source: https://arxiv.org/abs/1904.04782
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:37:05Z
-- ID: arxiv:1904.04782
+Designs a heterogeneous trusted execution environment that protects GPU and accelerator workloads through a PCIe-attached security controller. This hardware security work does not involve GUI, web or device agents.
 
-## Limitations
+Original paper: https://arxiv.org/abs/1904.04782
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-1904-04782/record.json
-
-## Authors
-
-Jianping Zhu, Rui Hou, XiaoFeng Wang, Wenhao Wang, Jiangfeng Cao, Lutan Zhao, Fengkai Yuan, Peinan Li, Zhongpu Wang, Boyan Zhao, Lixin Zhang, Dan Meng
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-1904-04782/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-1904-04782/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 2
-- Version source: https://arxiv.org/abs/1904.04782v2
-- First submission: 2019-04-09T16:56:21Z
-- Version updated: 2019-04-10T07:19:40Z
-- Abstract SHA-256: f1c88da181a4409d49950dbeda6aac1e1fe78cdfafd310fb08ffde87ca4003d1
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:37:05Z; SHA-256 bb3d2692c294743a8d06d5065cc84b27b229a981c2c650ff20a2ec038797a0e3)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

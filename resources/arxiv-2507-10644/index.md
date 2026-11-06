@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2507-10644/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Narrative survey tracing the Web of Agents from multi\-agent systems and the Semantic Web to LLM agents and protocols; computer\-use agents are among the classified systems, but their share of coverage is unclear\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Tatiana Petrova, Boris Bliznioukov, Aleksandr Puzikov, Radu State

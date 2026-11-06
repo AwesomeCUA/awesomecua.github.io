@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2408-15769/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract surveys evaluation tasks, benchmarks and metrics for multimodal LLMs; AI agents appear only as one item in a long list\. This general MLLM review has no GUI or screen focus\. The other marked it borderline: Surveys MLLM evaluation and lists AI\-agent applications among many domains; the abstract does not say whether GUI or web agent benchmarks are covered or to what extent\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Jiaxing Huang, Jingyi Zhang

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-06090/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Multimodal program repair that parses bug\-report screenshots into GUI\-element scene graphs for a coding agent on SWE\-bench M; UI parsing supports code repair rather than GUI operation\. An open pull request \(\#3666\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Jincheng Wang, Liwei Luo, Xiaoxuan Tang, Jingxuan Xu, Sheng Zhou, Dajun Chen, Wei Jiang, Yong Li

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2408-09071/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Proposes policy languages so browsers can enforce users' cookie and data\-use preferences\. This web privacy\-governance vision has no agent that reads or operates web pages; Web agents appear only as future users\. The other marked it borderline: Vision for policy\-language cookie governance that browsers enforce on users' behalf, citing Web agents only as a future user\. Unclear whether any agent acting on web pages is involved\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Jesse Wright, Beatriz Esteves, Rui Zhao

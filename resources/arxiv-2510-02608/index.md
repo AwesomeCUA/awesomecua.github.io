@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-02608/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract studies cross\-modal attention imbalance and a data fix evaluated on vision\-language benchmarks\. Computer\-use agents appear only as motivation; the work makes no GUI or agent\-interaction contribution\. The other marked it borderline: General study of cross\-modal attention imbalance in foundation models; computer\-use agents are cited only as motivation, and the abstract does not say whether any GUI or screen data is evaluated\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Chen Henry Wu, Neil Kale, Aditi Raghunathan

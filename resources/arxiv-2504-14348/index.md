@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2504-14348/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Cross\-modal prompt\-injection attack on multimodal agents; the abstract does not say whether the targeted agents act in GUIs, web pages or physical settings\. An exclusion proposal is open in pull request \#4299\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Le Wang, Zonghao Ying, Tianyuan Zhang, Siyuan Liang, Shengshan Hu, Mingchuan Zhang, Aishan Liu, Xianglong Liu

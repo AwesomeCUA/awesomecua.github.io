@@ -1,75 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Zhaowei Wang",
-    "Lishu Luo",
-    "Haodong Duan",
-    "Weiwei Liu",
-    "Sijin Wu",
-    "Ji Luo",
-    "Shen Yan",
-    "Shuai Peng",
-    "Sihang Yuan",
-    "Chaoyi Huang",
-    "Yi Lin",
-    "Yangqiu Song"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "cf1a5446f2e93d895c9807bb5d7bb0bc2ca3f52435b8cb2dc800dccfbb26defb",
-      "submitted_at": "2026-05-13T17:52:53Z",
-      "updated_at": "2026-10-18T16:19:51Z",
-      "version": 2,
-      "versioned_url": "https://arxiv.org/abs/2605.13831v2"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-11-01T20:31:09Z",
-      "role": "primary",
-      "sha256": "a36304119442bb445e509560a71f2425314b744898011b6026e4da97a82ba37d",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?id_list=2604.24696%2C2605.02661%2C2605.06717%2C2605.08703%2C2605.13831%2C2605.14271%2C2605.14678%2C2605.27882%2C2607.05804%2C2607.08768&max_results=10"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2605.13831",
-  "identifiers": {
-    "arxiv": "2605.13831"
+  "reason": "Long-context continued pretraining recipe for VLMs centered on long-document VQA; a webpage needle-retrieval test is only a side evaluation, with no GUI or agent-interaction contribution.",
+  "decision": {
+    "id": "arxiv:2605.13831",
+    "name": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
+    "url": "https://arxiv.org/abs/2605.13831",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "Long-context continued pretraining recipe for VLMs centered on long-document VQA; a webpage needle-retrieval test is only a side evaluation, with no GUI or agent-interaction contribution.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "62e25cede12c0dd8cb795386b451b52dfb9febacefd9a094d0d1a5caa1b8c3fa",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2604.24696%2C2605.02661%2C2605.06717%2C2605.08703%2C2605.13831%2C2605.14271%2C2605.14678%2C2605.27882%2C2607.05804%2C2607.08768&max_results=10",
+      "sha256": "a36304119442bb445e509560a71f2425314b744898011b6026e4da97a82ba37d",
+      "retrieved_at": "2026-11-01T20:31:09Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-11-01T20:31:09Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2605.13831"
-    }
-  ],
-  "name": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2026-05-13",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2026-10-18",
-  "url": "https://arxiv.org/abs/2605.13831"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

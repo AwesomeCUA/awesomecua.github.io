@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-11363/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Agent that researches sources and assembles slides into narrated presentation videos; unclear whether its source gathering or slide building involves web browsing or application automation\. An exclusion proposal is open in pull request \#3073\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Wei Wu, Ziyang Xu, Zeyu Zhang, Yang Zhao, Hao Tang

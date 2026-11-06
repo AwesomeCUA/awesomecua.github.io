@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-23694/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v6 abstract \(5 November 2026\) could not settle the scope: Automated red\-teaming of LLM search agents fed unreliable search results; the abstract does not say whether these agents open and read web pages or only consume search\-API results\. An exclusion proposal is open in pull request \#3975\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Jianshuo Dong, Sheng Guo, Hao Wang, Xun Chen, Zhuotao Liu, Tianwei Zhang, Ke Xu, Minlie Huang, Han Qiu

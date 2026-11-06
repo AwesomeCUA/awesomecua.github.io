@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-05096/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Benchmark and multi\-agent system that generate academic presentation videos with slide generation and cursor grounding; unclear whether any part amounts to GUI grounding or application automation\. An exclusion proposal is open in pull request \#3911\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Zeyu Zhu, Kevin Qinghong Lin, Mike Zheng Shou

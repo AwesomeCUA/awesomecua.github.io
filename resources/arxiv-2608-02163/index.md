@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-02163/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Builds an automatically evolved, rubric\-verified benchmark of 500 deep research tasks; the abstract does not say whether agents browse and read web pages or only use retrieval, so its web\-agent relevance is unclear\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Can Wang, Haoran Chen, Haowen Gao, Hao Ding, Zhaoyang Liu, Zhiying Tu

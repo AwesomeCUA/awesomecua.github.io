@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-16839/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: RL environment where LLM agents research topics and produce HTML slide decks through tools, rewarded by rendering, aesthetic and inverse\-specification checks; slide generation via code rather than GUI operation\. An open pull request \(\#3277\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Karthik Ragunath Ananda Kumar, Subrahmanyam Arunachalam

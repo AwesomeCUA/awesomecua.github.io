@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-26328/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Shows prompt injections hidden in Agent Skill files that make a coding agent exfiltrate local files or passwords; unclear whether this counts as a computer\-operating CLI agent, and no GUI or web interaction is named\. An exclusion proposal is open in pull request \#3889\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 David Schmotz, Sahar Abdelnabi, Maksym Andriushchenko

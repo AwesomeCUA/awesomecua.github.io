@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-10669/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Benchmarks executable red\-teaming of tool\-using LLM agents in isolated service sandboxes\. The abstract names no web\-page, GUI or device interaction, so this agent\-safety work is outside the catalog\. The other marked it borderline: Executable red\-teaming benchmark for tool\-using LLM agents in sandboxed services across three harnesses\. The abstract does not say whether its five service surfaces involve web, GUI or terminal interaction\. An exclusion proposal is open in pull request \#2369\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Zixing Chen, Xingyuan Liu, Jie Zhu, Huaixia Dou, Shuo Jiang, Junhui Li, Lifan Guo, Feng Chen, Chi Zhang

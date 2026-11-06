@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2407-09025/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: SpreadsheetLLM compresses spreadsheets into compact encodings for LLM table detection and QA\. This data\-understanding work does not automate or operate spreadsheet applications, web pages or devices\. The other marked it borderline: Encodes spreadsheet content compactly for LLM table detection and spreadsheet QA; unclear whether spreadsheet understanding without operating the application fits the office\-automation precedent or is general table NLP\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Haoyu Dong, Jianbo Zhao, Yuzhang Tian, Junyu Xiong, Shiyu Xia, Mengyu Zhou, Yun Lin, José Cambronero, Yeye He, Shi Han, Dongmei Zhang

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2609-36071/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Multi\-agent deep research system for evidence\-grounded reports; the abstract says agents explore external sources but not whether they browse web pages or only call search APIs\. An exclusion proposal is open in pull request \#2499\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Meituan LongCat Team, He Zhu, Yue Xu, Wanli Wu, Haolin Ren, Yuxin Bian, Jiarui Zhao, Rongzhi Zhang, Quanchi Weng, Jinghao Cui, Yu Fan, Yuhan Liu, Yunhu Ye, Jiyuan Ren, Fengcheng Yuan, Zhao Yang, Jiacheng Zhang, Yuchuan Dai, Ruixuan Xiao, Haozhe Sun, Xiangyuan Liu, Cheng Sun, Yao Du, Yiming Hao, Hongbo Guo, Shuo He, Lei Wang, Xunliang Cai, Yan Chen, Fan Yang, Lingchuan Liu

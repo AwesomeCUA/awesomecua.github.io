@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-08079/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Executive memory model that prunes and folds reasoning steps for long\-horizon tool\-augmented agents, evaluated on the web\-browsing research benchmarks WebWalker and BrowseComp\-Plus along with GAIA\. An open pull request \(\#3557\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Hongjin Qian, Zhao Cao, Zheng Liu

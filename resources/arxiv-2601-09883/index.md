@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2601-09883/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Orchestrates multi\-agent systems through agent\-to\-agent communication instead of fixed workflows, evaluated on GAIA\. The abstract names no web\-page or GUI interaction\. The other marked it borderline: Multi\-agent orchestration via agent\-to\-agent messaging, evaluated on GAIA against OWL; the abstract does not say whether the agents browse web pages or only call tools, so web interaction is unclear\. An curation proposal is open in pull request \#3728\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Xinxing Ren, Quagmire Zang, Caelum Forder, Suman Deb, Ahsen Tahir, Roman J. Georgio, Peter Carroll, Zekun Guo

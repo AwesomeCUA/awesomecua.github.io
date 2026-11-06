@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-00756/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Cloud\-edge memory and insight sharing for weak LLM agents described as web agents; the abstract does not name its five benchmarks or say whether the agents navigate web pages\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Yannan Wang, Longli Yang, Zhen Liu, Abhishek Kumar, Carsten Maple

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-18142/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Surveys 211 benchmarks for multimodal LLMs across understanding, reasoning, generation and application\. This general benchmark survey indicates no GUI, screen or agent\-interaction coverage\. The other marked it borderline: Surveys 211 MLLM benchmarks spanning understanding, reasoning, generation and application; the abstract does not say whether GUI, screen\-understanding or web\-agent benchmarks are among those covered\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Lin Li, Guikun Chen, Hanrong Shi, Jun Xiao, Long Chen

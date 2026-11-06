@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-02189/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v7 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract surveys VLM architectures, benchmarks and post\-training through 2026\. This general vision\-language survey does not name GUI agents, screen understanding or agents operating interfaces\. The other marked it borderline: Broad VLM survey that mentions agentic workflows and perception\-action loops but emphasizes architectures, OCR, VQA, video and embodied benchmarks; the abstract does not say whether GUI agents or screen understanding are covered\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Zongxia Li, Xiyang Wu, Hongyang Du, Fuxiao Liu, Huy Nghiem, Guangyao Shi

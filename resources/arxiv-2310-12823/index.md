@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2310-12823/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Instruction\-tunes Llama 2 on general agent interaction trajectories while preserving general abilities\. The abstract names no web, GUI or device environment, so it is generic agent training\. The other marked it borderline: Instruction\-tunes Llama 2 on agent interaction trajectories for generalized agent tasks; the abstract does not name the environments, so whether web, OS or GUI tasks are included is unclear\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Aohan Zeng, Mingdao Liu, Rui Lu, Bowen Wang, Xiao Liu, Yuxiao Dong, Jie Tang

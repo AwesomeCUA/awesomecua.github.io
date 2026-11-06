@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2501-06497/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Generates presentation slides from Word documents and narrates them with synthetic speech\. This document\-to\-slide content generation does not involve agents operating graphical interfaces, web pages or devices\. The other marked it borderline: Generates slide decks and narration from Word documents; this is office content automation, but the abstract does not say whether presentation software or slide APIs are operated\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Tushar Aggarwal, Aarohi Bhand

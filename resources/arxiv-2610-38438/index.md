@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-38438/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Fuzzes simulated user behaviours to test LLM role\-specification adherence; a web agent under organisational policies is one of five roles, but the abstract does not say whether it acts on web pages\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Kshitish Ghate, Michael Saxon, Tadayoshi Kohno, Aylin Caliskan

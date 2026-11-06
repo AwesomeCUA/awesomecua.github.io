@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-17044/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Decomposes reliability gains of an enterprise agent on SpreadsheetBench, BullshitBench and GAIA; the abstract does not say whether it browses web pages or edits spreadsheets through an interface or code\. An exclusion proposal is open in pull request \#2397\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Arunabh Dastidar

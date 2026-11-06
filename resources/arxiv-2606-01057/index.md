@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-01057/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract benchmarks VLMs that write procedural code to build 3D models in modeling software\. This 3D code\-generation work does not involve agents operating graphical interfaces, web pages or devices\. The other marked it borderline: Benchmarks VLM agents writing procedural code against 3D modeling software APIs; unclear whether this script\-based use of desktop software counts as application automation or plain 3D content generation\. An exclusion proposal is open in pull request \#2987\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Yipeng Gao, Lei Shu, Genzhi Ye, Xi Xiong, Ameesh Makadia, Meiqi Guo, Laurent Itti, Jindong Chen

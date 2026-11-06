@@ -1,65 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Isaac Lera",
-    "Carlos Guerrero"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "5312785e1b1ba5b3b7566b5536a155e741b360438ace1186a567aa2cd794e3c0",
-      "submitted_at": "2026-05-14T10:06:49Z",
-      "updated_at": "2026-05-14T10:06:49Z",
-      "version": 1,
-      "versioned_url": "https://arxiv.org/abs/2605.14649v1"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-10-16T06:36:39Z",
-      "role": "primary",
-      "sha256": "27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2605.14649",
-  "identifiers": {
-    "arxiv": "2605.14649"
+  "reason": "Uses GNN-based deep RL for multi-objective application placement in fog computing. This distributed-systems optimization does not involve agents operating graphical interfaces, web pages or devices.",
+  "decision": {
+    "id": "arxiv:2605.14649",
+    "name": "Multi-objective application placement in fog computing using graph neural network-based reinforcement learning",
+    "url": "https://arxiv.org/abs/2605.14649",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "Uses GNN-based deep RL for multi-objective application placement in fog computing. This distributed-systems optimization does not involve agents operating graphical interfaces, web pages or devices.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "5b63840cd924f783a991c5cc9026f5aee636b58214e093653be1178ee6738a36",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918",
+      "retrieved_at": "2026-10-16T06:36:39Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-10-16T06:36:39Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2605.14649"
-    }
-  ],
-  "name": "Multi-objective application placement in fog computing using graph neural network-based reinforcement learning",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2026-05-14",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2026-05-14",
-  "url": "https://arxiv.org/abs/2605.14649"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2603-23526/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Research\-paper verification system that uses web agents to score claim credibility; the abstract does not say whether these agents browse pages or how they interact with the web\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Matheus Kunzler Maldaner, Raul Valle, Junsung Kim, Tonuka Sultan, Pranav Bhargava, Matthew Maloni, John Courtney, Hoang Nguyen, Aamogh Sawant, Kristian O'Connor, Stephen Wormald, Damon L. Woodard

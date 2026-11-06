@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-35215/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Security benchmark for reusable agent skills across code, version and runtime changes; it calls the agents web agents, but the abstract does not show whether tasks involve acting on web pages or only running skill code\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Chenxu Zhang, Zhou Liu, Wu Xin, Wentao Zhang

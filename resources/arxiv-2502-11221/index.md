@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2502-11221/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Surveys LLM planning along six performance criteria; web navigation appears only as an example planning task, so how much the survey covers web agents is unclear\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Hui Wei, Zihao Zhang, Shenghua He, Tian Xia, Shijia Pan, Fei Liu

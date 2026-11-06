@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-27705/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmarks multimodal agents on video post\-production tasks under different agent harnesses; the abstract does not say whether agents drive editing GUIs or only command\-line tools\. An exclusion proposal is open in pull request \#3041\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Zongheng Cao, Yi Zheng, Rui Song, Xinyu Hu

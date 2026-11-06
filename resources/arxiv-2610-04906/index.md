@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-04906/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v5 abstract \(5 November 2026\) could not settle the scope: Synthesizes verifiable file\-workspace environments for professional work agents and reports GDPVal and APEX gains; the abstract does not say whether agents act through a GUI, a terminal or only file tools\. The retained record is v3; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Jiazheng Zhang, Long Ma, Yunxian Yang, Zhiheng Xi, Zhikai Lei, Yajie Yang, Chenyang Liao, Enyu Zhou, Yang Nan, Yuchen Tian, Senjie Jin, Yibo Wang, Wei He, Boyang Liu, Jixuan Huang, Xin Guo, Shutong Jiang, Zhezheng Hao, Xinbing Liang, Zhihao Zhang, Changzhi Zhou, Wiggin Zhou, Tao Gui, Qi Zhang, Xuanjing Huang, Clarenceai, Aiden Adams

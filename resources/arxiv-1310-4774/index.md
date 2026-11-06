@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-1310-4774/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Reviews Internet growth, search engines and crawler or spider programs that harvest web content\. Crawling for search indexing is information retrieval, not agents acting on web pages through an interface\. The other marked it borderline: Reviews web crawlers, spiders and robots that harvest page content for search engines\. It is unclear whether this kind of automated crawling counts as agents acting on web pages or as plain retrieval infrastructure\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Avinash N Bhute, B. B. Meshram

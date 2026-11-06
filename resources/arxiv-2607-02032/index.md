@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-02032/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Predicts agentic benchmark scores from small subsets of non\-agentic evaluation items to cut evaluation cost\. This meta\-evaluation work contributes no agent that operates interfaces, web pages or devices\. The other marked it borderline: Builds cheap proxy benchmarks that predict LLM scores on agentic benchmarks; it cites SWE\-Bench and GAIA but does not name its four targets or say whether any involve web browsing or GUI tasks\. An exclusion proposal is open in pull request \#2807\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Yueqi Song, Lintang Sutawika, Jiarui Liu, Lindia Tjuatja, Jiayi Geng, Yunze Xiao, Daniel Lee, Aditya Bharat Soni, Vincent Lo, Xiang Yue, Graham Neubig

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-05831/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Dataset of web pages with prompt injections hidden in HTML attributes such as meta, aria\-label and alt, fed through a browser automation pipeline to LLM summarizers; web\-content security, not agents acting on pages\. An open pull request \(\#4021\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Ishaan Verma, Arsheya Yadav

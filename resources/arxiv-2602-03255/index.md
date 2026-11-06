@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-03255/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Framed as safety for computer\-use agents, but its 570 cases run in simulated MCP\-style toolkits; the abstract does not show agents operating GUIs, browsers or desktops\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Tianyu Chen, Chujia Hu, Dongrui Liu, Xia Hu, Wenjie Wang

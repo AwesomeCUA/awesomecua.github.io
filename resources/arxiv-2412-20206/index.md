@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2412-20206/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Survey of visual grounding and referring expression comprehension, including grounding multimodal LLMs; the abstract does not say whether GUI or screen grounding is among the covered settings\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Linhui Xiao, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu

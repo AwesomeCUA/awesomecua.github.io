@@ -1,66 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Mirza Cenanovic",
-    "Peter Hansbo",
-    "Mats G. Larson"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "70fbf2668ed9d36a00726c781fe09dc237ad6be02dc8be2f56e59d447ad302d2",
-      "submitted_at": "2014-03-14T11:25:26Z",
-      "updated_at": "2014-03-14T11:25:26Z",
-      "version": 1,
-      "versioned_url": "https://arxiv.org/abs/1403.3535v1"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-10-16T06:37:09Z",
-      "role": "primary",
-      "sha256": "a3ebf2fcfa181413d078dc3408f17bfabfac87f9aee1c78994840197df701e9d",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:1403.3535",
-  "identifiers": {
-    "arxiv": "1403.3535"
+  "reason": "Presents a finite element method for computing minimal surfaces on level-set surface representations. This numerical analysis work has no connection to computer-use or GUI agents.",
+  "decision": {
+    "id": "arxiv:1403.3535",
+    "name": "Minimal surface computation using a finite element method on an embedded surface",
+    "url": "https://arxiv.org/abs/1403.3535",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "Presents a finite element method for computing minimal surfaces on level-set surface representations. This numerical analysis work has no connection to computer-use or GUI agents.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "ba1b02652daa2c9225c18e3f9de019e33d117ea36ebf857e749a79db71c3190c",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "a3ebf2fcfa181413d078dc3408f17bfabfac87f9aee1c78994840197df701e9d",
+      "retrieved_at": "2026-10-16T06:37:09Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-10-16T06:37:09Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/1403.3535"
-    }
-  ],
-  "name": "Minimal surface computation using a finite element method on an embedded surface",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2014-03-14",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2014-03-14",
-  "url": "https://arxiv.org/abs/1403.3535"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

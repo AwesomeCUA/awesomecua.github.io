@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2604-28138/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Checkpoint/restore runtime for agent sandboxes, tested on shell\-intensive and code\-repair workloads; unclear whether it serves computer\-use environments or only coding agents\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Tianyuan Wu, Chaokun Chang, Lunxi Cao, Wei Gao, Wei Wang

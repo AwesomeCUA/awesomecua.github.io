@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-11520/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v4 abstract \(5 November 2026\) could not settle the scope: Synthesizes multi\-turn OS\-agent trajectories whose tool calls run in a live isolated OS workspace, improving ClawEval; claw\-style computer operation with no GUI\. An open pull request \(\#3077\) proposes to exclude it, so the scope needs a decision\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Siyuan Luo, Nairong Zheng, Lin Zhou, Tiankuo Yao, Shengyou Yuan, Haojia Yu, Cong Pang, Jiapeng Luo, Lewei Lu

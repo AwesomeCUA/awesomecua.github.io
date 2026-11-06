@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-12045/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmark of conversational agents that use domain API tools and policies with simulated users, such as in retail\. This function\-calling work names no web\-page, GUI or device interaction\. Codex review disputed this exclusion on that ground: the paper concerns application or workflow tasks carried out through scripts, APIs or tools, which the adjacent category may cover, and the abstract does not settle it\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan

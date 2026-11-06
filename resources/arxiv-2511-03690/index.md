@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-03690/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract presents an SDK for building software\-development agents with sandboxed execution; VNC and browser views serve human users\. This coding\-agent infrastructure does not have agents operating GUIs\. The other marked it borderline: Software\-development agent SDK with sandboxed execution; it mentions VNC and browser workspaces for human interaction, but the abstract does not say whether agents act through GUIs or browsers rather than code and CLI\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Xingyao Wang, Simon Rosenberg, Juan Michelini, Calvin Smith, Hoang Tran, Engel Nyst, Rohit Malhotra, Xuhui Zhou, Valerie Chen, Robert Brennan, Graham Neubig

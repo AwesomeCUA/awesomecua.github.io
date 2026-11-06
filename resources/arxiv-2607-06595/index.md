@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-06595/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Memory\-poisoning attack and defense for tool\-using personal agents handling email, calendars and code pushes; the abstract does not say whether these are OS\-level claw\-style agents or plain API tool callers\. An exclusion proposal is open in pull request \#2625\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 George Torres, Sharad Shrestha, Satyajayant Misra

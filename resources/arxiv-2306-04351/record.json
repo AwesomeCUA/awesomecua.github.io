@@ -1,65 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Joseph Harris",
-    "Elham Kashefi"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "ac195dda5e673407767878aa5c1cabfc65783aa82aac41fb748c8a49f366516a",
-      "submitted_at": "2023-06-07T11:35:21Z",
-      "updated_at": "2025-02-05T09:43:03Z",
-      "version": 3,
-      "versioned_url": "https://arxiv.org/abs/2306.04351v3"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-10-16T06:37:01Z",
-      "role": "primary",
-      "sha256": "8bfa074910574410d7988771270feded31e7e1bd1fd0924d4754850d4a5f1914",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2306.04351",
-  "identifiers": {
-    "arxiv": "2306.04351"
+  "reason": "Error-mitigation protocol for BQP computations on noisy quantum hardware using measurement-based verification. This quantum computing work does not involve agents operating graphical interfaces, web pages or devices.",
+  "decision": {
+    "id": "arxiv:2306.04351",
+    "name": "Error Mitigation of BQP Computations using Measurement-Based Verification",
+    "url": "https://arxiv.org/abs/2306.04351",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "Error-mitigation protocol for BQP computations on noisy quantum hardware using measurement-based verification. This quantum computing work does not involve agents operating graphical interfaces, web pages or devices.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "3a08d7e9d7b8afa53ba140fb900be1b6098deaf4e40e1d350b1ca7f1d1047ce4",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "8bfa074910574410d7988771270feded31e7e1bd1fd0924d4754850d4a5f1914",
+      "retrieved_at": "2026-10-16T06:37:01Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-10-16T06:37:01Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2306.04351"
-    }
-  ],
-  "name": "Error Mitigation of BQP Computations using Measurement-Based Verification",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2023-06-07",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2025-02-05",
-  "url": "https://arxiv.org/abs/2306.04351"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-25693/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Multi\-agent conversational assistant that manages Google Calendar events from natural language; the abstract does not say whether it acts through the calendar interface or an API, so its fit as application automation is unclear\. An exclusion proposal is open in pull request \#3947\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Oshadha Wijerathne, Amandi Nimasha, Dushan Fernando, Nisansa de Silva, Srinath Perera

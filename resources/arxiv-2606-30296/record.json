@@ -1,73 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Wenjia Jiang",
-    "Zongyuan Cai",
-    "Yuanhang Shao",
-    "Chenru Wang",
-    "Boyan Han",
-    "Zhixue Song",
-    "Keyu Chen",
-    "Shengwei An",
-    "Xu Yang",
-    "Zhou Yang"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "4185eaa6c5f99016f7f4ab808d89d580e7523c02de44c5bf992a58251ec7c72e",
-      "submitted_at": "2026-06-29T13:37:56Z",
-      "updated_at": "2026-10-22T04:27:09Z",
-      "version": 3,
-      "versioned_url": "https://arxiv.org/abs/2606.30296v3"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-11-04T08:24:14Z",
-      "role": "primary",
-      "sha256": "5a5fc319823f8b978dab8199281f918c402526c7a3665f464fb088bd983e76dd",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?id_list=2606.30296%2C2610.06514%2C2611.05036&max_results=3"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2606.30296",
-  "identifiers": {
-    "arxiv": "2606.30296"
+  "reason": "The abstract proposes a self-evolving agent with episodic memory that writes Manim Python code to render math animations. This code-generation work does not involve agents operating graphical interfaces, web pages or devices.",
+  "decision": {
+    "id": "arxiv:2606.30296",
+    "name": "ManimAgent: Self-Evolving Multimodal Agents for Visual Education",
+    "url": "https://arxiv.org/abs/2606.30296",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract proposes a self-evolving agent with episodic memory that writes Manim Python code to render math animations. This code-generation work does not involve agents operating graphical interfaces, web pages or devices.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "435f492010d9e36b024ed4019f064606d39ca3e6221415d784f03df29ac1ae00",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2606.30296%2C2610.06514%2C2611.05036&max_results=3",
+      "sha256": "5a5fc319823f8b978dab8199281f918c402526c7a3665f464fb088bd983e76dd",
+      "retrieved_at": "2026-11-04T08:24:14Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-11-04T08:24:14Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2606.30296"
-    }
-  ],
-  "name": "ManimAgent: Self-Evolving Multimodal Agents for Visual Education",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2026-06-29",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2026-10-22",
-  "url": "https://arxiv.org/abs/2606.30296"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

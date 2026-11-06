@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-23883/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Survey of agentic AI security threats, benchmarks and defenses that cites web and software environments; how much it covers web or GUI agents is unclear from the abstract\. An curation proposal is open in pull request \#4011\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Anshuman Chhabra, Shrestha Datta, Shahriar Kabir Nahin, Prasant Mohapatra

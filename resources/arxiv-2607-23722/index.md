@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-23722/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract benchmarks LLM agents composing state\-changing tool calls over synthetic product databases graded by state diffs\. Agents act through tool APIs, not GUIs, web pages or devices\. The other marked it borderline: Benchmarks multi\-step tool\-use agents on synthetic backends of consumer products \(a game, QQ Music, Tencent Meeting\); agents act only through tool calls, so it is unclear whether this is app automation or plain function calling\. An exclusion proposal is open in pull request \#2335\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Weihuang Zheng, Tianyuan Zou, Eileen Ye, Alphet Liu, Youyong Kong, Ya-Qin Zhang, Duran Zheng, Maxm Pan

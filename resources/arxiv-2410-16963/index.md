@@ -1,48 +1,12 @@
 # Scalable Constant-Time Logical Gates for Large-Scale Quantum Computation Using Window-Based Correlated Decoding
 
-Bibliographic record for Scalable Constant-Time Logical Gates for Large-Scale Quantum Computation Using Window-Based Correlated Decoding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-2410-16963/
-- Original source: https://arxiv.org/abs/2410.16963
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:36:58Z
-- ID: arxiv:2410.16963
+Architecture for scalable constant-time logical gates with window-based correlated decoding in fault-tolerant quantum computing. This quantum work does not involve agents operating graphical interfaces, web pages or devices.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2410.16963
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2410-16963/record.json
-
-## Authors
-
-Jiaxuan Zhang, Zhao-Yun Chen, Jia-Ning Li, Tian-Hao Wei, Huan-Yu Liu, Xi-Ning Zhuang, Qing-Song Li, Yu-Chun Wu, Guo-Ping Guo
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2410-16963/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2410-16963/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 2
-- Version source: https://arxiv.org/abs/2410.16963v2
-- First submission: 2024-10-22T12:44:41Z
-- Version updated: 2025-01-02T09:04:06Z
-- Abstract SHA-256: 7877e0507a3be6dc36cd543d484e24304715b6ebdeb6349cd7345d2d7f2cc595
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

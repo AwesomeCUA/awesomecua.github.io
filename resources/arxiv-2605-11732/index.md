@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-11732/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Deep research agent that refines search queries and outlines, plus a benchmark mined from users' browsing histories; the abstract does not say whether the agent opens and reads web pages or only consumes search results\. An exclusion proposal is open in pull request \#3095\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Jiarui Jin, Zexuan Yan, Shijian Wang, Wenxiang Jiao, Yuan Lu

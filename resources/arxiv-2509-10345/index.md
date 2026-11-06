@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2509-10345/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Survey of visual grounding in general\-purpose VLMs that mentions control in simulated and real environments; the abstract does not say whether GUI grounding is covered\. An curation proposal is open in pull request \#3961\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Georgios Pantazopoulos, Eda B. Özyiğit

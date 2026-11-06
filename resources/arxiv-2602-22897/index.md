@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2602-22897/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Omni\-modal benchmark and tool\-integrated agent for reasoning over video, audio and images\. The abstract describes only tool calls and names no web\-page browsing, GUI or device interaction\. The other marked it borderline: Omni\-modal agent benchmark and agent trained for multi\-turn tool use on real\-world multi\-hop queries; the abstract does not say whether the tools include web browsing or page navigation\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Haoxuan Li, Hao Wang, Shijian Wang, Guanting Dong, Jiajie Jin, Yinuo Wang, Yuan Lu, Ji-Rong Wen, Zhicheng Dou, Zhouchen Lin

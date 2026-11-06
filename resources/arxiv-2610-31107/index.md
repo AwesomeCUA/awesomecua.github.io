@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-31107/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Chooses which user preferences a personalized web agent should ask about by valuing reuse across future tasks; the abstract does not say whether ActiveWebPref tasks involve acting on web pages or only simulated task utilities\. The retained record is v1; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Yiqi Wang, Zizhi Zeng, Jiaqi Zhang, Yiqun Duan, Mingkai Zheng, Taotao Cai

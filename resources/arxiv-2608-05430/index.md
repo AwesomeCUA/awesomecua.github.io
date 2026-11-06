@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2608-05430/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) found it outside the scope: The abstract trains a context\- and query\-aware classifier to flag injected instructions in text for tool\-using agents\. This prompt\-injection defense names no web\-page, GUI or device interaction\. The retained record is v1, so the scope decision waits until that snapshot is reconciled\. An exclusion proposal is open in pull request \#2423\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Buzhao Liu, Xinhang Ma, Yevgeniy Vorobeychik

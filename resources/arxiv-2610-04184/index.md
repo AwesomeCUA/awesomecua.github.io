@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-04184/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract benchmarks agents that design compact evaluators approximating target benchmarks for self\-improvement\. This evaluation\-research agent work does not involve operating graphical interfaces, web pages or devices\. The other marked it borderline: Benchmarks agents that build compact evaluators for coding, co\-work and reasoning targets; the abstract does not say whether the co\-work domain involves desktop, GUI or web tasks\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Yaolun Zhang, Tianyi Xu, Yujie Zhao, Jishen Zhao, Qingyun Wu, Huazheng Wang

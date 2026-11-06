@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2510-19864/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Benchmarks LLMs on explaining spreadsheet manipulation code in natural language; it relates to spreadsheet automation scripts, but no agent acts on an application, so adjacent versus out of scope is unclear\. An curation proposal is open in pull request \#3855\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Amila Indika, Igor Molybog

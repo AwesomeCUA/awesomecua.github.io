@@ -1,83 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Tianyun Zhong",
-    "Wei Wang",
-    "Jialin Li",
-    "Jianhong Tu",
-    "Liyao Li",
-    "Chuqiao Kuang",
-    "Tianshi Zheng",
-    "Songchi Zhou",
-    "Weiqi Zhai",
-    "Qile Jin",
-    "Jiajia Li",
-    "Jiasheng Zheng",
-    "Boxi Cao",
-    "Yaojie Lu",
-    "Hongyu Lin",
-    "Shiwei Ye",
-    "Bing Zhao",
-    "Hu Wei",
-    "Lin Qu",
-    "Xianpei Han"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "626ca718e743df8d46ecaedf813583cef3af30b424c53985dd632f267dec4f6a",
-      "submitted_at": "2026-10-23T10:06:55Z",
-      "updated_at": "2026-10-23T10:06:55Z",
-      "version": 1,
-      "versioned_url": "https://arxiv.org/abs/2610.32441v1"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-11-03T16:21:27Z",
-      "role": "primary",
-      "sha256": "18ce79259e66e3d119e3d1bd854de36ca5e269fbe7ac1d9e5f9f41a30948432a",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?id_list=2605.28629%2C2610.32441%2C2610.40754%2C2611.01860%2C2611.03178%2C2611.03634&max_results=6"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2610.32441",
-  "identifiers": {
-    "arxiv": "2610.32441"
+  "reason": "Benchmarks LLM agents on expert-curated scientific research tasks that produce code and reports. This research-agent evaluation involves no GUI, web-page or device operation.",
+  "decision": {
+    "id": "arxiv:2610.32441",
+    "name": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
+    "url": "https://arxiv.org/abs/2610.32441",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "Benchmarks LLM agents on expert-curated scientific research tasks that produce code and reports. This research-agent evaluation involves no GUI, web-page or device operation.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "5795b37d34a9a82196da2e922cd0723c9c2f055f12a6741be152b08258da59c2",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2605.28629%2C2610.32441%2C2610.40754%2C2611.01860%2C2611.03178%2C2611.03634&max_results=6",
+      "sha256": "18ce79259e66e3d119e3d1bd854de36ca5e269fbe7ac1d9e5f9f41a30948432a",
+      "retrieved_at": "2026-11-03T16:21:27Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-11-03T16:21:27Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2610.32441"
-    }
-  ],
-  "name": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2026-10-23",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2026-10-23",
-  "url": "https://arxiv.org/abs/2610.32441"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

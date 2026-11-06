@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-20041/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: The abstract describes a multi\-agent planning and execution framework for industrial task automation\. RPA is only named as a possible application and no GUI, web or desktop interaction is described, so this generic framework is outside scope\. The other marked it borderline: Generic multi\-agent task\-automation framework for industrial use; it names robotic process automation as a target application but does not say whether agents operate GUIs, desktop software or only APIs\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski

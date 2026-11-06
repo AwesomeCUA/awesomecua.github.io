@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2610-35541/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Benchmarks how commercial agents calling agent\-facing backends of web applications can realize existing web vulnerabilities; the agents invoke service operations instead of navigating pages, so fit to web\-agent scope is unclear\. The retained record is v2; reconcile its metadata before approval\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Ruozhao Yang, Jiongchi Yu, Ming Hu, Xiaofei Xie

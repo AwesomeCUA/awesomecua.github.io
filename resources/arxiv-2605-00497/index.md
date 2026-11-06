@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2605-00497/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: User\-modeling system that infers life goals from observations of everyday computer use, with an editing interface and field study; the abstract does not say how activity is captured or whether any screen understanding is involved\. An curation proposal is open in pull request \#3281\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Shardul Sapkota, Matthew Jörke, Zane Sabbagh, Omar Shaikh, Grace Wang, James A. Landay

@@ -1,84 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Zhong-Zhi Li",
-    "Duzhen Zhang",
-    "Ming-Liang Zhang",
-    "Jiaxin Zhang",
-    "Zengyan Liu",
-    "Yuxuan Yao",
-    "Haotian Xu",
-    "Junhao Zheng",
-    "Pei-Jie Wang",
-    "Xiuyi Chen",
-    "Yingying Zhang",
-    "Fei Yin",
-    "Jiahua Dong",
-    "Zhiwei Li",
-    "Bao-Long Bi",
-    "Ling-Rui Mei",
-    "Junfeng Fang",
-    "Xiao Liang",
-    "Zhijiang Guo",
-    "Le Song",
-    "Cheng-Lin Liu"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "4052209ff73f24e326be1e49284bc939596878ce586c11b50d7479fcd18890d3",
-      "submitted_at": "2025-02-24T18:50:52Z",
-      "updated_at": "2025-06-25T02:24:46Z",
-      "version": 6,
-      "versioned_url": "https://arxiv.org/abs/2502.17419v6"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-11-05T21:13:58Z",
-      "role": "primary",
-      "sha256": "62b85cd4bee4c668046d5f6eb67dedef915ba699d6765891016403c863691a73",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2502.17419",
-  "identifiers": {
-    "arxiv": "2502.17419"
+  "reason": "Surveys reasoning LLMs such as o1 and R1, covering how they are built and reasoning benchmarks. This general LLM reasoning review does not cover agents operating GUIs, web pages or devices.",
+  "decision": {
+    "id": "arxiv:2502.17419",
+    "name": "From System 1 to System 2: A Survey of Reasoning Large Language Models",
+    "url": "https://arxiv.org/abs/2502.17419",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "Surveys reasoning LLMs such as o1 and R1, covering how they are built and reasoning benchmarks. This general LLM reasoning review does not cover agents operating GUIs, web pages or devices.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "ce166245189e9f614fe5d8a31ed776529898b1ca872b6951758fef8390b8fdcf",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2501.12485%2C2502.01456%2C2502.03214%2C2502.03971%2C2502.06776%2C2502.12561%2C2502.13417%2C2502.17419%2C2502.20694%2C2503.02878%2C2503.16365%2C2503.20036%2C2504.07491%2C2504.12682%2C2505.03733%2C2505.05262%2C2505.05895%2C2505.07062%2C2505.10978%2C2505.17629%2C2505.20075%2C2505.23678%2C2505.24298%2C2505.24876%2C2506.00520%2C2506.01952%2C2506.06287%2C2506.14079%2C2506.19998%2C2506.24045%2C2507.01006%2C2507.04370%2C2507.06261%2C2507.10202%2C2507.10644%2C2507.11662%2C2507.23773%2C2508.09736%2C2508.16271%2C2508.16763%2C2508.18265%2C2508.19828%2C2508.20018%2C2508.21475%2C2509.02547%2C2509.08826%2C2509.08827%2C2509.11067%2C2509.13313%2C2509.21733&max_results=50",
+      "sha256": "62b85cd4bee4c668046d5f6eb67dedef915ba699d6765891016403c863691a73",
+      "retrieved_at": "2026-11-05T21:13:58Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-11-05T21:13:58Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2502.17419"
-    }
-  ],
-  "name": "From System 1 to System 2: A Survey of Reasoning Large Language Models",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2025-02-24",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2025-06-25",
-  "url": "https://arxiv.org/abs/2502.17419"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

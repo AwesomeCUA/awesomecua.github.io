@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2606-05646/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) found it outside the scope: Closed\-loop memory optimization for software\-engineering agents that resolve repository issues\. This coding\-agent work does not involve operating graphical interfaces, web pages or devices\. The retained record is v1, so the scope decision waits until that snapshot is reconciled\. An exclusion proposal is open in pull request \#3007\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Xuehang Guo, Zora Zhiruo Wang, Qingyun Wang, Graham Neubig, Xingyao Wang

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2409-08831/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v1 abstract \(5 November 2026\) could not settle the scope: Solves reCAPTCHAv2 image challenges with YOLO models and studies how browser cookies and history affect bot detection; relevant to automated web bots, but the abstract centers on image classification, not agents acting on pages\. Needs a scope decision from the full text\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Andreas Plesner, Tobias Vontobel, Roger Wattenhofer
