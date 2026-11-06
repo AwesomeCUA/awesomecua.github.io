@@ -68,7 +68,7 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | Products | 20 | [Open directory](https://awesomecua.com/categories/product/) |
 | Publishers | 16 | [Open directory](https://awesomecua.com/categories/company/) |
 
-Category pages highlight reviewed resources; the [interactive catalog](https://awesomecua.com/#catalog) and downloads also expose metadata-only records with their review state.
+Category pages highlight reviewed resources; the [interactive catalog](https://awesomecua.com/explore/#catalog) and downloads also expose metadata-only records with their review state.
 
 ## Research reading list
 
