@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "site": "https://awesomecua.com",
-  "accepted_at": "2026-11-06T06:21:55+00:00",
-  "manifest_sha256": "971edc69dfec3bc15fa1498fde3f492aa4932da7415e6bfa6fc79300201d25b7",
-  "source_commit": "f4938fa3953961ac6b3a6c76b6dac8c03a587d33",
+  "accepted_at": "2026-11-06T07:13:45+00:00",
+  "manifest_sha256": "c54353ff3c15650e3d7a07ddc994382a501ce33c938811a0622ddb67223a548f",
+  "source_commit": "31f480f9a4f12502f073fe01f1856020a335627b",
   "accepted_pages": {
     "/survey/": "e089dad624432c927a636561ab84c58c5f77d4e966256516cd933b1e4457a672",
     "/resources/arxiv-1602-02261/": "d262cbf85f84c2a7f5afbffc84a0c3c2731764a1150039dcb414bf319140d8e7",
@@ -1680,7 +1680,7 @@
     "/resources/url-fe43af1801032be708cc/": "5d7f88ebe3eb9b330a51565130cdb197024e288ce0a29d1a0f2a06e12d48327e",
     "/resources/url-fec1c5aa8fd93cb78923/": "b5218d81f28cb47a53464de08332bd4dd10fb23402b873308546bab8b14f4cdd",
     "/resources/url-ff7b1873a3eead89607a/": "3f95a4644f76f09ff1666d1916705d9b3fa1126b0e145dbfa09a9044b2f3ca5c",
-    "/catalog/": "821fe5a527a1f9abf47843bea64cdbef981965b4ed893d31f152e9e3bb23beb5",
+    "/catalog/": "1c273ddba1960ebddc509cd0a354a6270e39a198534f3a3a195b296e139cec55",
     "/categories/paper/": "b2a965c5592d45a05c2da02c796427073f8879a3b8f2d7fce4d79bbdfff3f040",
     "/categories/survey/": "f892580b1a8dd11dd3349de32fa789bf166eeb984a7e380b830b81aa81503f83",
     "/categories/learning/": "ccbef0911871ec6af3dfa34bfe8ab6f08db4463a7869803fa4154252cb23cf46",
@@ -1930,19 +1930,19 @@
     "/zh/topics/workflow/page/2/": "465ca0c996b5d7a34b31e2420ec783a3bbe6ce6c30d63880c12adb3683ffe103",
     "/zh/topics/world-models/": "d1f0ea0234ec7fc5d254a94a5034c08be1d54e69add89d120fe85a74079d1042",
     "/connections/": "4d7db1e137903522ea860ce4d3c36a75edc784d6ad9eba3ed87a918ffd10982f",
-    "/coverage/": "9a41c6b4ff900e2e6e6e8d03026663cee9942abaa9cfc764149fe787ada8925a",
+    "/coverage/": "036f6116b02daa014be6db7d64661d7ff8977432424b8983acc9154c440fda7d",
     "/agents/": "b0a027a52638d51f917f1bb7bd6937bdaa06373b09dd81ad57c286c260830a53",
     "/zh/agents/": "01760e5058f647cf64d1bbfe6ef98f0fb82abfa906e8a196e722f977a4320ec6",
-    "/updates/": "d5bd238be7e690f37e498416a09b7c51c068e346eb4483eab3539a03a75a6a82",
+    "/updates/": "44c750a9d773049866286e74eba70758480c6c4e6f87233adff343295f52e73c",
     "/badges/": "a0e0a5f7e3e6769a1802422134e79dd2d44a6d3c554dc96d094ce1aedddded36",
     "/about/": "0da54744de556d69519a7252de763b6a671eb88107d2d1aaec9325829436e278",
-    "/data/": "066db45453c748a5ec2be4fcf1c6a11f800a8b0a80ad0934915a3841a3a43711",
-    "/zh/data/": "72f408873f61ed973497653a39d5c55f3e87fa1c912c50fd48d9b80a626fcbb1",
+    "/data/": "dc61cd2fb18c82d32c377e5169f12695c50e2cdf63a1dcb5c69e2e5661556541",
+    "/zh/data/": "ea89ae83e716688a9289d611f6ad7f1dff8d75976e47e5f49715b1bc30b1fbab",
     "/guides/what-are-computer-use-agents/": "4e430fc576afd6f53b7bcacf63ea9b333da55061b46bc239934696fbaf0a1ad4",
     "/guides/gui-agent-benchmarks/": "d564fbeec6d0cdf039768989ff469da541b83f183d6524fd096f7be35dca0870",
     "/guides/gui-agent-training-data/": "5db2c8e546187666cf6d4827af5de46298b2fef99c07d77041e917b22ad4ccf2",
     "/guides/": "18f41df36a8661f77e299a5cd47ec267ceb543a9256cc77b8c6d2ea6392d18ce",
-    "/zh/": "c1afd963d6f6fb16ac82b48de4f7adde0d5fb645ae68c29ec809326cbe742d5f",
-    "/": "2a050545318cca0c94d22b20bb5a8b79d71bb2178df447c183bac6b9feb4ee10"
+    "/zh/": "d265832a870cf446a5b0a1e3a1839e3f3dca008241f7b5e14755b5ab4c7b3edc",
+    "/": "bb000213948c8668f6c8db54cabd0bab9fdeb1bfe8b3bec89cc3bb07cd730b55"
   }
 }
