@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "site": "https://awesomecua.com",
-  "accepted_at": "2026-11-06T11:29:29+00:00",
-  "manifest_sha256": "8fe9eee2c5a36e4a494833626bc4f16df28b1e628bb02986c429eacb095b4f72",
-  "source_commit": "b6f05d71e9c919bbb8eb7eb0b1e1eb9bd6553245",
+  "accepted_at": "2026-11-06T11:47:34+00:00",
+  "manifest_sha256": "4acffdbf4bd92a8f163451175709aeeea4f7be332519f1a365de97f81da10470",
+  "source_commit": "c7320810345eda4689e297de408b79c3ed46d178",
   "accepted_pages": {
     "/survey/": "e089dad624432c927a636561ab84c58c5f77d4e966256516cd933b1e4457a672",
     "/resources/arxiv-1602-02261/": "d5df31150c146687ef25b4ee366ee557b10202bd45b9a391f3670bb05d1b82a0",
@@ -2157,16 +2157,16 @@
     "/coverage/": "685bb5925d8d7f3ee4522fc95a014897f696ea90e64c9f8f07a49ae80b5c8abd",
     "/agents/": "3f21c5da98d348a21815d342f23c0729f1810e93282efceee0dc13b766563750",
     "/zh/agents/": "bbe1b9f825bb1605e3f8da0b3bafb4e2a985349fa8ffdb1d465a3eb6946af0d1",
-    "/updates/": "05762946a17174a314d6480363ff8f7f2374b5fc763511b4043ed5440c3288f9",
+    "/updates/": "49e264b2cb9d1e0e8028435566f259a3c0b59328dfc97df84a8b30b9001690ff",
     "/badges/": "8ae417f009b336f795da3aeddb86096ebb2814d7364518dc6da744b544b6d206",
     "/about/": "5e8323c760b274b9cd616781c3611c86f3afc05d24bbf38062850a89c8c6c543",
-    "/data/": "89965a9ab179b55b1bfe6503b510ad8b9fac6f773f4105a7d252b36811978c84",
-    "/zh/data/": "c1933df4e82546f896c5ec4319e02f47584393a0cdaf0b8474da9b52354f0dd6",
+    "/data/": "5f583ed7be16d46e3b8809d8dcc0bcb7e07611c696575453c830d0f9d427c6db",
+    "/zh/data/": "994a344be872167cf76f42aa92fed1ee17f95d17ef3e2406dcfcf40c78638e3c",
     "/guides/what-are-computer-use-agents/": "37859b6998dd8d7d7ad4974364af084c0c826ba7fb914be25ba7eb37d39360c9",
     "/guides/gui-agent-benchmarks/": "1ad408efc0bc14f2d39c28b5ef06ed7092358bc9f819b644478870409a848252",
     "/guides/gui-agent-training-data/": "9764e320b3e933726cf611081afa1d5870af4210c71d1b0dd2e9d39aac1e6191",
     "/guides/": "d01e95817da06a0699da4e7a0f8a45b9a9f168081568ae16866acc9c0b61767f",
-    "/zh/": "681df83bb44a1126019d9f21fb70a86f2cda7a94c351d4959262feaec89f5314",
-    "/": "a6fbcfa866d34ecaede7b06cf767603048f627d8acc612fbab21b31baa2023d7"
+    "/zh/": "df62c89c878db99589b132f1162ce57c499f044833e68ffc097590dfad9005a0",
+    "/": "b0d0079729766c2b68f9ca86ad8645922ddeb7f21844a142c87e22796f8635ae"
   }
 }
