@@ -179,7 +179,7 @@ jobs:
     name: Notify search engines of published changes
     needs: [build, deploy]
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 30
     permissions:
       contents: write
     steps:
@@ -198,7 +198,28 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: '3.12'
+      # awesomecua.com is published by AwesomeCUA/awesomecua.com and can deploy after this repository does.
+      # IndexNow checks the live host against this build, so wait (bounded) until it serves the same source commit.
+      - name: Wait for awesomecua.com to serve this source commit
+        id: live
+        env:
+          SOURCE_COMMIT: ${{ needs.build.outputs.source_commit }}
+        run: |
+          host=$(python3 -c "import json;print(json.load(open('.pipeline/source/data/site-discovery.json'))['site_url'].rstrip('/'))" 2>/dev/null || true)
+          [ -n "$host" ] || host=https://awesomecua.com
+          deadline=$((SECONDS + 1200))
+          while :; do
+            served=$(curl -fsS --max-time 20 -H 'Cache-Control: no-cache' "$host/data/build-info.json?$RANDOM" 2>/dev/null | python3 -c "import json,sys;print(json.load(sys.stdin).get('source_commit',''))" 2>/dev/null || true)
+            if [ "$served" = "$SOURCE_COMMIT" ]; then echo "ready=true" >> "$GITHUB_OUTPUT"; echo "$host serves $SOURCE_COMMIT"; exit 0; fi
+            if [ "$SECONDS" -ge "$deadline" ]; then
+              echo "ready=false" >> "$GITHUB_OUTPUT"
+              echo "::warning title=IndexNow deferred::$host still serves '${served:-nothing}' after 20 minutes, not $SOURCE_COMMIT. Accepted state was not advanced; the next publication submits these changes."
+              exit 0
+            fi
+            sleep 30
+          done
       - name: Notify IndexNow after live-site and ownership checks
+        if: steps.live.outputs.ready == 'true'
         run: |
           python3 .pipeline/source/scripts/submit_indexnow.py --submit \
             --site-dir "$GITHUB_WORKSPACE" \
