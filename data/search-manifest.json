@@ -21770,12 +21770,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "5f583ed7be16d46e3b8809d8dcc0bcb7e07611c696575453c830d0f9d427c6db"
+      "sha256": "eaeb57ec0238fc42dec00ed9869b36d09610657330d29e014c2f5a8e1f2e8b9e"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "994a344be872167cf76f42aa92fed1ee17f95d17ef3e2406dcfcf40c78638e3c"
+      "sha256": "1de8d68b3a731372942bb4a10388d01e5deb5287130d685319580e3c565020d9"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -21800,12 +21800,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "df62c89c878db99589b132f1162ce57c499f044833e68ffc097590dfad9005a0"
+      "sha256": "0482b7bd518acf21168a731a34ba47df081734dfc8876cb4d56f1e7b1b1fabc7"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "b0d0079729766c2b68f9ca86ad8645922ddeb7f21844a142c87e22796f8635ae"
+      "sha256": "7a7484c2791edf66626fb57e9f39e38ccb6cbc1cef33ac30a8b21f0ce343294a"
     },
     {
       "path": "/explore/",
