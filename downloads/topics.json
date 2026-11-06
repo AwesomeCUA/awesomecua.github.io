@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "8c0debcf33a0b8e35b65b562f8b1525e74d78dae62972fb365f55097e1e6a24d",
+  "catalog_sha256": "c357ead5135b1168cf10e6d97f296cde95e46216203b1ccb667f8b5dba91c0e4",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 1863,
-  "resources_with_topics": 1863,
+  "reviewed_resources": 1864,
+  "resources_with_topics": 1864,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -1050,9 +1050,9 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 804,
+        "total": 805,
         "papers": 675,
-        "benchmarks": 88,
+        "benchmarks": 89,
         "datasets": 9,
         "models": 1,
         "systems": 31,
@@ -1814,6 +1814,7 @@
         "github:thudm/android-lab",
         "github:thudm/visualagentbench",
         "github:tiger-ai-lab/clawbench",
+        "github:tiger-ai-lab/websitebench",
         "github:tml-epfl/os-harm",
         "github:tongyi-mai/mobileworld",
         "github:trycua/cua",
@@ -1871,9 +1872,9 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 804,
-          "bytes": 2607476,
-          "sha256": "42ce62ce0bf6ec1454a55136f6766bf34d8edc90c88d9644e2467d952821c4de"
+          "records": 805,
+          "bytes": 2611987,
+          "sha256": "a0c46ceb429d8901cf7c6eba3b96a9bc92c66e5cac9ff8a07ad2ec1a5bdeeadf"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
@@ -2831,9 +2832,9 @@
         "zh": "长任务"
       },
       "counts": {
-        "total": 122,
+        "total": 123,
         "papers": 110,
-        "benchmarks": 5,
+        "benchmarks": 6,
         "datasets": 1,
         "models": 1,
         "systems": 5,
@@ -2959,6 +2960,7 @@
         "github:osu-nlp-group/mind2web-2",
         "github:shulin16/mmina",
         "github:sunblaze-ucb/agentsynth",
+        "github:tiger-ai-lab/websitebench",
         "url:342b081c3668a8bbe155",
         "url:3932d69c6b6f9b2a7ba8",
         "url:58a209f2b3b970916396"
@@ -2970,9 +2972,9 @@
       "exports": [
         {
           "url": "/downloads/topics/long-horizon/records.jsonl",
-          "records": 122,
-          "bytes": 399309,
-          "sha256": "32d441978ed0fc567f0ffa41bd059915d461b6997fb3397293858f4adcbf7c06"
+          "records": 123,
+          "bytes": 403820,
+          "sha256": "339ea3fb016b5916eb920b42b980ade872d0ad6880de13a18a275d07a312378f"
         },
         {
           "url": "/downloads/topics/long-horizon/citations.bib",
@@ -6023,9 +6025,9 @@
         "zh": "界面设计"
       },
       "counts": {
-        "total": 38,
+        "total": 39,
         "papers": 37,
-        "benchmarks": 0,
+        "benchmarks": 1,
         "datasets": 1,
         "models": 0,
         "systems": 0,
@@ -6069,6 +6071,7 @@
         "arxiv:2609.31364",
         "arxiv:2610.02617",
         "github:google-research-datasets/uicrit",
+        "github:tiger-ai-lab/websitebench",
         "url:b560b5d6abaab98483f6"
       ],
       "pages": {
@@ -6078,9 +6081,9 @@
       "exports": [
         {
           "url": "/downloads/topics/ui-design/records.jsonl",
-          "records": 38,
-          "bytes": 124110,
-          "sha256": "de92a94bd173eaf439b9273562d22d54ffecd35d4762f1d8def4540a901eb176"
+          "records": 39,
+          "bytes": 128621,
+          "sha256": "14a83ba7143303174bce0adcb1e4b4c002b63a94f3dc424eefb0602d752b210d"
         },
         {
           "url": "/downloads/topics/ui-design/citations.bib",
@@ -6188,9 +6191,9 @@
         "zh": "网页导航"
       },
       "counts": {
-        "total": 363,
+        "total": 364,
         "papers": 278,
-        "benchmarks": 18,
+        "benchmarks": 19,
         "datasets": 8,
         "models": 11,
         "systems": 46,
@@ -6517,6 +6520,7 @@
         "github:thudm/autowebglm",
         "github:thudm/webrl",
         "github:tiger-ai-lab/clawbench",
+        "github:tiger-ai-lab/websitebench",
         "github:vercel-labs/agent-browser",
         "github:web-arena-x/webarena",
         "github:webvln/webvln",
@@ -6568,9 +6572,9 @@
       "exports": [
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
-          "records": 363,
-          "bytes": 1152936,
-          "sha256": "86e8ebf1205a536132e908d9a623c99ea6f1d91c5697b77557853c98e62d5ec1"
+          "records": 364,
+          "bytes": 1157447,
+          "sha256": "e5e3bc393533340b82b57551bdc2d8d940c46e478e7de27eadbfcefbf82627e3"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",

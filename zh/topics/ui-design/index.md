@@ -81,6 +81,11 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
 - [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://awesomecua.com/resources/url-b560b5d6abaab98483f6/) — 2017-10-20
   Introduces Rico, collecting Android interface designs and interaction traces through crowdsourced use followed by automated exploration. The paper demonstrates UI-layout retrieval using learned representations and describes visual, textual, structural, and interaction data.
 
+## 评测基准
+
+- [WebsiteBench](https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/) — Date not recorded
+  Website reconstruction benchmark: agents explore a production-level site through a browser, rebuild a full-stack version, and are scored by hidden functional and visual test cases across 70 tasks.
+
 ## 数据集
 
 - [UICrit](https://awesomecua.com/resources/github-google-research-datasets-uicrit/) — Date not recorded

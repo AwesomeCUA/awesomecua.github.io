@@ -239,6 +239,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   Task definitions for Mobile-Agent-E’s long-horizon, multi-app Android evaluation, packaged as a 25-record test split with rubrics and human-reference operation strings.
 - [OS-Map](https://awesomecua.com/resources/github-os-copilot-os-map/) — Date not recorded
   An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment and expanded task configurations for measuring breadth and depth of computer interaction.
+- [WebsiteBench](https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/) — Date not recorded
+  Website reconstruction benchmark: agents explore a production-level site through a browser, rebuild a full-stack version, and are scored by hidden functional and visual test cases across 70 tasks.
 
 ## 数据集
 

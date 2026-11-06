@@ -43,9 +43,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**1,863 curated resources** · **1,391 reviewed papers and surveys** · **103 discovery documents**
+**1,864 curated resources** · **1,391 reviewed papers and surveys** · **103 discovery documents**
 
-Evidence snapshot: 2026-11-06T04:18:34Z. Only curated resources are counted. 627 records awaiting review and 1,971 discovered candidates are listed separately in the [coverage ledger](https://awesomecua.com/coverage/). Resources are not independent projects.
+Evidence snapshot: 2026-11-06T06:22:02Z. Only curated resources are counted. 627 records awaiting review and 1,971 discovered candidates are listed separately in the [coverage ledger](https://awesomecua.com/coverage/). Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -60,7 +60,7 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | Learning resources | 2 | [Open directory](https://awesomecua.com/categories/learning/) |
 | Models and checkpoints | 98 | [Open directory](https://awesomecua.com/categories/model/) |
 | Datasets | 86 | [Open directory](https://awesomecua.com/categories/dataset/) |
-| Benchmarks | 90 | [Open directory](https://awesomecua.com/categories/benchmark/) |
+| Benchmarks | 91 | [Open directory](https://awesomecua.com/categories/benchmark/) |
 | Agents | 45 | [Open directory](https://awesomecua.com/categories/agent/) |
 | Frameworks | 79 | [Open directory](https://awesomecua.com/categories/framework/) |
 | Infrastructure | 14 | [Open directory](https://awesomecua.com/categories/infrastructure/) |

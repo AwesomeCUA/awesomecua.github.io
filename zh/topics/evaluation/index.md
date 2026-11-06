@@ -1517,6 +1517,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   An offline preference-evaluation set for web process reward models, pairing page and trajectory context with preferred and rejected candidate decisions.
 - [WebShop](https://awesomecua.com/resources/github-princeton-nlp-webshop/) — Date not recorded
   Simulated shopping environment for instruction-following web agents.
+- [WebsiteBench](https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/) — Date not recorded
+  Website reconstruction benchmark: agents explore a production-level site through a browser, rebuild a full-stack version, and are scored by hidden functional and visual test cases across 70 tasks.
 - [WebTailBench](https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/) — Date not recorded
   Live-web task definitions and rubrics for evaluating computer-use agents, with preserved original tasks, a refreshed V2 task suite and a separate refusal set.
 - [WebTestBench](https://awesomecua.com/resources/github-friedrichor-webtestbench/) — Date not recorded

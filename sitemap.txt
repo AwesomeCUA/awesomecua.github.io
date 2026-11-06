@@ -1658,6 +1658,7 @@ https://awesomecua.com/resources/github-thudm-scale-cua/
 https://awesomecua.com/resources/github-thudm-visualagentbench/
 https://awesomecua.com/resources/github-thudm-webrl/
 https://awesomecua.com/resources/github-tiger-ai-lab-clawbench/
+https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/
 https://awesomecua.com/resources/github-tml-epfl-os-harm/
 https://awesomecua.com/resources/github-tongui-agent-tongui-agent/
 https://awesomecua.com/resources/github-tongyi-mai-mai-ui/
