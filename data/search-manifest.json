@@ -21800,12 +21800,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "a630c11affb3a2e0d616b4a23958aa2a81211ccf967338efb8be0046840fc895"
+      "sha256": "e8b35d95b18b71a02c08f5e77a3d9e78e01c1a0234c54ccb69bea9ceeaf03016"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "e711e8c54ce4ece2b8a009c6642ac843eff8ef7e0d49ee0c7e0a0c0f57c0f388"
+      "sha256": "ab3187459f71b1cc5a811047c41b1087367e316ca51777f82325b8745111a232"
     },
     {
       "path": "/explore/",
