@@ -1,48 +1,12 @@
 # Efficient Computation Using Spatial-Photonic Ising Machines: Utilizing Low-Rank and Circulant Matrix Constraints
 
-Bibliographic record for Efficient Computation Using Spatial-Photonic Ising Machines: Utilizing Low-Rank and Circulant Matrix Constraints. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-2406-01400/
-- Original source: https://arxiv.org/abs/2406.01400
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:36:58Z
-- ID: arxiv:2406.01400
+Extends spatial-photonic Ising machines to low-rank and circulant coupling matrices. This optical computing work has no connection to computer-use agents.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2406.01400
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2406-01400/record.json
-
-## Authors
-
-Richard Zhipeng Wang, James S. Cummins, Marvin Syed, Nikita Stroev, George Pastras, Jason Sakellariou, Symeon Tsintzos, Alexis Askitopoulos, Daniele Veraldi, Marcello Calvanese Strinati, Silvia Gentilini, Davide Pierangeli, Claudio Conti, Natalia G. Berloff
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2406-01400/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2406-01400/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2406.01400v1
-- First submission: 2024-06-03T15:03:31Z
-- Version updated: 2024-06-03T15:03:31Z
-- Abstract SHA-256: b8347ba74a375970bcf070c5a390ab3fceddfc255234024089b1ad5fb7fb6960
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

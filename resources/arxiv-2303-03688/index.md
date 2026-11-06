@@ -1,48 +1,12 @@
 # Blueprint for quantum computing using electrons on helium
 
-Bibliographic record for Blueprint for quantum computing using electrons on helium. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-2303-03688/
-- Original source: https://arxiv.org/abs/2303.03688
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:37:01Z
-- ID: arxiv:2303.03688
+Proposes a fault-tolerant quantum computer design using electron spins on liquid helium. This physics work does not involve agents operating interfaces.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2303.03688
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2303-03688/record.json
-
-## Authors
-
-Erika Kawakami, Jiabao Chen, Mónica Benito, Denis Konstantinov
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2303-03688/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2303-03688/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 3
-- Version source: https://arxiv.org/abs/2303.03688v3
-- First submission: 2023-03-07T07:13:04Z
-- Version updated: 2023-10-19T04:31:35Z
-- Abstract SHA-256: c6c35a50d40ec61800596081f99b24b7bf8402293f799886f505b71686b99405
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:37:01Z; SHA-256 8bfa074910574410d7988771270feded31e7e1bd1fd0924d4754850d4a5f1914)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

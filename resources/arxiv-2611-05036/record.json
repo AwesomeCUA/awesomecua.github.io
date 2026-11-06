@@ -1,88 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Guanting Dong",
-    "Zhichao Sun",
-    "Xinyu Yang",
-    "Rui Wang",
-    "Xin Deng",
-    "Jiajie Jin",
-    "Zhixiong Yang",
-    "Junhao Huang",
-    "Han Han",
-    "Mingyu Ma",
-    "Xiaotao Wang",
-    "Yuyang Hu",
-    "Xiaoshuai Song",
-    "Xiaoxi Li",
-    "Jiejun Tan",
-    "Zhecan Wang",
-    "Shihan Dou",
-    "Honglin Guo",
-    "Zhiheng Xi",
-    "Tao Gui",
-    "Tao Ji",
-    "Qi Zhang",
-    "Yutao Zhu",
-    "Ji-Rong Wen",
-    "Zhicheng Dou"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "a90d35be5683ce84b85664d8e0ad10a5297a4c3b959f1a05bb64d200f27af800",
-      "submitted_at": "2026-11-03T15:09:01Z",
-      "updated_at": "2026-11-03T15:09:01Z",
-      "version": 1,
-      "versioned_url": "https://arxiv.org/abs/2611.05036v1"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-11-04T08:24:14Z",
-      "role": "primary",
-      "sha256": "5a5fc319823f8b978dab8199281f918c402526c7a3665f464fb088bd983e76dd",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?id_list=2606.30296%2C2610.06514%2C2611.05036&max_results=3"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2611.05036",
-  "identifiers": {
-    "arxiv": "2611.05036"
+  "reason": "Synthesizes tool-composition environments from MCP execution traces to train long-horizon tool-use agents. This MCP tool-calling work names no web-page, GUI, mobile or desktop interaction.",
+  "decision": {
+    "id": "arxiv:2611.05036",
+    "name": "ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents",
+    "url": "https://arxiv.org/abs/2611.05036",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "Synthesizes tool-composition environments from MCP execution traces to train long-horizon tool-use agents. This MCP tool-calling work names no web-page, GUI, mobile or desktop interaction.",
+    "reviewed_at": "2026-11-05T23:58:03Z",
+    "metadata_fingerprint": "f64349384ad58e926ae60a57ff9c49df8ffab895585d5e43246f4f824741ebec",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2606.30296%2C2610.06514%2C2611.05036&max_results=3",
+      "sha256": "5a5fc319823f8b978dab8199281f918c402526c7a3665f464fb088bd983e76dd",
+      "retrieved_at": "2026-11-04T08:24:14Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-11-04T08:24:14Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2611.05036"
-    }
-  ],
-  "name": "ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2026-11-03",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2026-11-03",
-  "url": "https://arxiv.org/abs/2611.05036"
+  "ledger_url": "https://awesomecua.com/downloads/exclusions.json"
 }

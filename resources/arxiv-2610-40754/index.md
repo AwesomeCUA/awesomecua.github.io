@@ -1,48 +1,12 @@
 # DyCraft: An Agentic System for Long-Horizon 4D Scene Generation
 
-Bibliographic record for DyCraft: An Agentic System for Long-Horizon 4D Scene Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.com/resources/arxiv-2610-40754/
-- Original source: https://arxiv.org/abs/2610.40754
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-11-03T16:21:27Z
-- ID: arxiv:2610.40754
+Coding-agent system for long-horizon animated 3D scene generation using storyboards and motion authoring tools. This 3D content generation work does not involve agents operating graphical interfaces or web pages.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2610.40754
+Evidence: https://export.arxiv.org/api/query?id_list=2605.28629%2C2610.32441%2C2610.40754%2C2611.01860%2C2611.03178%2C2611.03634&max_results=6
+Reviewed: 2026-11-05T23:58:03Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2610-40754/record.json
-
-## Authors
-
-Jeff Tan, Hang Dai, Zeqian Long, Yanzhe Lyu, R. Kenny Jones, Shangzhe Wu, Chen Geng, Jiajun Wu
-
-## Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2610-40754/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2610-40754/citation.csl.json
-
-## Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2610.40754v1
-- First submission: 2026-10-29T16:42:04Z
-- Version updated: 2026-10-29T16:42:04Z
-- Abstract SHA-256: 054359e2a3045d7496964e54a0e050bc521b4d5e467e0779a50e50bb0b0080d4
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?id_list=2605.28629%2C2610.32441%2C2610.40754%2C2611.01860%2C2611.03178%2C2611.03634&max_results=6 (retrieved 2026-11-03T16:21:27Z; SHA-256 18ce79259e66e3d119e3d1bd854de36ca5e269fbe7ac1d9e5f9f41a30948432a)
+Scope decisions: https://awesomecua.com/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.com/downloads/arxiv-archive.jsonl

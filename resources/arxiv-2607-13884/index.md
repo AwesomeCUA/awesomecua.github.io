@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2607-13884/record.json
 
+## Recorded reviewer hold
+
+Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) found it outside the scope: Builds a graph memory of correction knowledge from agent trajectories, evaluated on ALFWorld and ScienceWorld\. These text\-simulated tasks involve no web, GUI or device interaction, so it is outside the catalog\. The retained record is v2, so the scope decision waits until that snapshot is reconciled\. An exclusion proposal is open in pull request \#2603\.
+
+- Review ledger: https://awesomecua.com/downloads/coverage.json
+
 ## Authors
 
 Wenjun Wang, Yuchen Fang, Fengrui Liu, Zibo Liang, Kai Zheng
