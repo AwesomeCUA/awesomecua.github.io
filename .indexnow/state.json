@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "site": "https://awesomecua.com",
-  "accepted_at": "2026-11-06T13:42:00+00:00",
-  "manifest_sha256": "62ed65ca7492ae7c5768760a1620c8532e374b9301b3aee76039681fe2e07b7e",
-  "source_commit": "9642f7dfea4902b3676d4563bebc5ee2c4b5dbdf",
+  "accepted_at": "2026-11-06T14:03:14+00:00",
+  "manifest_sha256": "0d77d2cefbba87777d21711c6eea84c8c4cbf49c0efbc5a00b361beeafd3c3f9",
+  "source_commit": "154c01de4acf87176aa0be7db6810f04232f2c0a",
   "accepted_pages": {
     "/survey/": "e089dad624432c927a636561ab84c58c5f77d4e966256516cd933b1e4457a672",
     "/resources/arxiv-1602-02261/": "81e6da8a46a002fd19f7cf329f80f64ca8fc98e0ac33b01361b0c39bdc3258af",
@@ -2154,20 +2154,20 @@
     "/zh/topics/workflow/page/3/": "181c4b91f9f6974660a56cfc6ed048959e144fa6cd2dd835d9638dbaec8ea471",
     "/zh/topics/world-models/": "8f668cd3e1ac865620a9387d8f6a35c2a88f165c7db03022833e649d5c1ecbb1",
     "/connections/": "6e536d8a6abac7401f9a1cfa8376b9de0b934a3971b70162ed9ffb01602c1a71",
-    "/coverage/": "480529585bf476e5920f09824481cb419f0adfa2af6362e159965b8739c402db",
+    "/coverage/": "d9103a200dbbee456fa4e3d65dacad14afb4672f4cd439968ad43b0a57a273a0",
     "/agents/": "eaecd9a71b913cf6dd0817bb43ee4a7a6e7a873b2ee0789b313ef8b2f5be467f",
     "/zh/agents/": "4e6410057ed36cd4e37c7c68348931eb3aa4d8495b33ddc5d7acc467d68a4545",
-    "/updates/": "5a50000a9b5ac76c9d4223d9e0b52ae052f890715e0ccb8766fcc1f4db95421c",
+    "/updates/": "9e3fadd33d6861b75e3590b97a20ee9e38b61d491b933d44d8534eee0c5ba118",
     "/badges/": "549085ba90a097711a013dd5cbff072b22a385660f67382dd1d550db407eb75f",
     "/about/": "662b4fa8615c4c03fb3acc505460d7f22a18655b5a1933501b954463684cf766",
-    "/data/": "c48f0597e3df31f6f0bd23d0353f6addfc54b1f433459546ec4d3e60e87f6dd0",
-    "/zh/data/": "fdce2d6aba83f98018d697b296a0fc3eb5f178b37bf78ac0785c2d0648d31cc8",
+    "/data/": "52099b2c20dff4f8e86c4a63975dbf80966411cceea374fde5d8e7f68346821c",
+    "/zh/data/": "ec5a598291a01a58f4280f91300e3229b1dc09c6bbfbbe941ca9a653ceb96d4a",
     "/guides/what-are-computer-use-agents/": "850b1c59c5f5b5fea26d69352fe55b55ee29b8965f646adc9a4071c9da541751",
     "/guides/gui-agent-benchmarks/": "12b2ec7789386463525431cea904b640703684596d7d0072e67de71428cf4e72",
     "/guides/gui-agent-training-data/": "703a5c91a57ccfce2c568f4709ca542b1992adbb79f025bfa44e6f3c016a7029",
     "/guides/": "ac80342b31e2f720ec211d4c8e85807dda49e45fdecec3b58f3e1ad19c12b15f",
-    "/zh/": "e3bae1c27eb9347912f27f332aca1339ae38080a6ed766fdb88eec1dfcdc366d",
-    "/": "749f0dbaf9e1a618a895326d1f09bc9df77633763dd53232ed15a3124f3a844f",
-    "/api/": "16b6c58c33ed6b7da0e387baa70a17b5eae3862a2622fd2c2b769b786f65f109"
+    "/zh/": "85bcc445f7a01892477797f37ec2c214b151ded969daf4ce4c336621abd24c13",
+    "/": "8fd6b2cb9ad59dcc8e7d613d7a6ea7bf8e1379f7487454950e5cce7802c5de78",
+    "/api/": "c8e6afb236cd55d48d5b7a20e3d1f6a13c6c3cbec4df41078575befe7aaacc15"
   }
 }
