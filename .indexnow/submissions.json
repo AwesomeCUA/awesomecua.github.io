@@ -45399,5 +45399,33 @@
     "meaning": "Submission not confirmed. Accepted state was not advanced; changes remain eligible for a later attempt.",
     "response": "Live site does not match the verified build; refusing a stale submission",
     "failure_phase": "preflight"
+  },
+  {
+    "submitted_at": "2026-11-07T00:18:30+00:00",
+    "provider": "IndexNow",
+    "endpoint": "https://api.indexnow.org/indexnow",
+    "site": "https://awesomecua.com",
+    "status": 200,
+    "url_count": 7,
+    "urls": [
+      "https://awesomecua.com/",
+      "https://awesomecua.com/api/",
+      "https://awesomecua.com/coverage/",
+      "https://awesomecua.com/data/",
+      "https://awesomecua.com/updates/",
+      "https://awesomecua.com/zh/",
+      "https://awesomecua.com/zh/data/"
+    ],
+    "changes": {
+      "new": 0,
+      "changed": 7,
+      "removed": 0
+    },
+    "indexable_pages": 2506,
+    "manifest_sha256": "75ef2980e0ab4c28ffd0526abfe50381bf8134a980ed8d10c59a6c5c452d8213",
+    "source_commit": "d77b7a6a9837e52bdf5d1a12c75c41b4b178a657",
+    "publication_run": "https://github.com/AwesomeCUA/awesomecua.github.io/actions/runs/42315482684",
+    "meaning": "Submission accepted; indexing is not guaranteed.",
+    "response": ""
   }
 ]
