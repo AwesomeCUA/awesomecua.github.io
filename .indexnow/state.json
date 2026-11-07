@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "site": "https://awesomecua.com",
-  "accepted_at": "2026-11-07T01:34:30+00:00",
-  "manifest_sha256": "7a05110379e16b52a28cc4ba86642b323e19949cf5c94dad09ea9b33b70bf4ad",
-  "source_commit": "b4061dab8e12ef7e4c44420497ddab3e46ff55a9",
+  "accepted_at": "2026-11-07T01:56:55+00:00",
+  "manifest_sha256": "fe67385ab5d560a0d13d49295488d6598cea44f8b18e4cc51dc980452fa39643",
+  "source_commit": "83e7aa5e5b4a238e37719004818584b60c0340e5",
   "accepted_pages": {
     "/survey/": "8a5eb2c1beb96561fe6d0a01cf190d699baa6318b6a91af0c161bcff530c14d7",
     "/resources/arxiv-1602-02261/": "aed84fcad430ff03a6ff97e96ea19504ea6c3e9625d5bfb0f9a0df34820b3bdc",
@@ -2499,17 +2499,17 @@
     "/coverage/": "ac1add235caa8a36f3a9b054b66a2e6f593de11c17a92bf960285c62c1bacddc",
     "/agents/": "6fe70e2965dfa78d1493b5c57d519a81fc7183e4f29b0f0b3477eda31f462996",
     "/zh/agents/": "6a5fa66fd89da4793f34ba6011d7ad5e3486783c859930f2221714b6598ea6f2",
-    "/updates/": "0c15b4718c0344164852951db385a016707a2d75d993b897a4b2251041ff67ec",
+    "/updates/": "52c122e8b81d8b718d30226a8b7a5aed84e9740616f245827d54e9a7d2c64f74",
     "/badges/": "5a310c4d3501ecc51091f87822131903b1f7b3cc027fad733d6b4fce3ad9384e",
     "/about/": "1a2a5f4203c36178aaa3ceb71e729cf3b2973dfb4fd8eabd1292a2b329426671",
-    "/data/": "2ac9004be08b9994659be042a013563bcb118a46f77892e9d2f8100425653bab",
-    "/zh/data/": "c9e8dbb781df9dfeeca4fbe882f47cd59d62d38afe1c60d7be76e91c29f49b79",
+    "/data/": "0b174f894bc6b7b20a92abbb78e3f63c4d8458b175d09eb58a97feab1a68eebb",
+    "/zh/data/": "94ef6e15d42712a3086e1c71858508be948b454d6babdd8177c46c01caf59065",
     "/guides/what-are-computer-use-agents/": "e64be0ca62d4f2513ee58ba2f3477130c7b23d52a06c981fb5b9cd5389d47df7",
     "/guides/gui-agent-benchmarks/": "eef3f1a49b41bacbc131f5a2fe8b704c61dfc15182ea47a4a72d48068cd1c23e",
     "/guides/gui-agent-training-data/": "97168082d5c2cd2f2f71070707b7b4917eed9d48c5668729b73ce58cf1e3f60f",
     "/guides/": "287c79db6810cbc48261007a628c0106d0b2fbe893b8db1e65bb7b52c15cb85f",
-    "/zh/": "016de1ca4326d679306c32342a2292ebfe061e500a2b15f55f229107cd2625ae",
-    "/": "b0548a27c4290f44e73b02b0bc86420557dbd0ebe4af5450dc218bdd788cf3d3",
-    "/api/": "64a0fbd3c088c2889d2d39495d46ee7f93ea89caee58de8b00ed3ca849757210"
+    "/zh/": "d41a01a7dc9af6834e2e6e201e06c2f5354e07f547a3331d0b48e61e1485f5ca",
+    "/": "c7c225cf3cb27e2a7ace68c43a769bcebbc7e72b0dfbb2f0c6da733e12c65d66",
+    "/api/": "066cb15b513da56ea3f17317abeacf2c30800bcce9f679db46f588937bfecd48"
   }
 }
