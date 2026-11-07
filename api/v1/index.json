@@ -1,6 +1,6 @@
 {
  "version": "1.0.0",
- "generated_at": "2026-11-07T11:16:01Z",
+ "generated_at": "2026-11-07T12:18:38Z",
  "catalog_sha256": "ef4f2355f58da79dc77518123e580af7427c2db3655e5422ce0ea3bf944f41ff",
  "license": "Catalog annotations and these files: MIT. Linked resources, papers, data and weights keep their own terms.",
  "documentation": "https://awesomecua.com/api/",
@@ -28,7 +28,7 @@
   "awaiting_review": {
    "metadata_only_records": 453,
    "unresolved_candidate_identifiers": 2063,
-   "github_candidate_repositories": 10239
+   "github_candidate_repositories": 10243
   },
   "active_records": 2623,
   "snapshot": "2026-11-07T05:19:53Z",
@@ -42,9 +42,9 @@
    "csv": "https://awesomecua.com/api/v1/resources.csv",
    "count": 497,
    "json_bytes": 363649,
-   "json_sha256": "7f6ff2aca2368087f873683547db6924e09013486ba5c723d74dd23f832d7794",
+   "json_sha256": "b4297d0737d8b8adf4f484f6d2d1122ed6249ff57dbd1cb615fcc29af8950357",
    "csv_bytes": 208531,
-   "csv_sha256": "cdc8188cbb20a4d18c5f6153dfd0148770decedb14b07e47dc843e330cf85bb7"
+   "csv_sha256": "b66baa980803adf438bd7aa82b3738d74a856217c14eb7cb1933d5842d1f28be"
   },
   {
    "name": "papers",
@@ -53,9 +53,9 @@
    "csv": "https://awesomecua.com/api/v1/papers.csv",
    "count": 1673,
    "json_bytes": 1642404,
-   "json_sha256": "456b3c034efbd64652624b2744ab47bb6f0307051fd833a0b4ed03610a3889c2",
+   "json_sha256": "ce7d77ab04fadaeb218d50284c322b5e3d5db1bcaeb91f990b8f0e0eecc8a4ff",
    "csv_bytes": 1124883,
-   "csv_sha256": "1ee3aff802640c736ef110b31c17d9b8e6fb4c84aa5eb776f4ce1596e61055c1"
+   "csv_sha256": "ef21b8d1f7f2600414549beaebfc27934758df2d7e274db2304f728ae6452dde"
   },
   {
    "name": "categories",
@@ -64,9 +64,9 @@
    "csv": "https://awesomecua.com/api/v1/categories.csv",
    "count": 47,
    "json_bytes": 16114,
-   "json_sha256": "6f39b2467e4233c5bdcdf557e74ca0a7a8c89f566204c1c689f3adc0561c0c40",
+   "json_sha256": "f389ffcd6ebba4a99e52d6c2bead2c58b02c859412e6073f071a5ed84f75f14a",
    "csv_bytes": 10930,
-   "csv_sha256": "6108e27d3e2dcf492d5d30daa2077aca59e8904f0afbc42088d41fe4681dc6c7"
+   "csv_sha256": "b7f16403a0833946be234a3e16a3315a4e8ef0396211a58ff523b50923aaee1e"
   },
   {
    "name": "changes",
@@ -75,9 +75,9 @@
    "csv": "https://awesomecua.com/api/v1/changes.csv",
    "count": 4264,
    "json_bytes": 1596502,
-   "json_sha256": "c801db7289429cbbc25803d1ab0d036db11c98e9416dc2396de97e6c89cd1fdf",
+   "json_sha256": "fa6c0deeaa192025d0bd7d825d875e6f54bbe2b4794ed3e91594b62d2876080f",
    "csv_bytes": 1294611,
-   "csv_sha256": "b6739b2478937be270dd61c22a0a635513ac86673229ec2b14f3f4ff73b392d8"
+   "csv_sha256": "1ded850ee45d7fead37f920681eab9e79f6f197045ccdde60205e6436e43f9a7"
   },
   {
    "name": "candidates",
@@ -86,9 +86,9 @@
    "csv": "https://awesomecua.com/api/v1/candidates.csv",
    "count": 2539,
    "json_bytes": 969662,
-   "json_sha256": "2351c79a609c8d4a9f13b97d9dbb8e7ca30913aa024aaf609995a56a764915ff",
+   "json_sha256": "8e992f7a9fa4061198c8ad6e6ccbdd4224681707d4e92a5f7655e6811034f09d",
    "csv_bytes": 627987,
-   "csv_sha256": "04fa94fd20be1d1eab708595780771648ef07ed784569401f3cc48505b852675"
+   "csv_sha256": "0f3516a71bc20339dae990d1769cac89b5f124cc0d784bd2ddf004b4ace5ceab"
   }
  ],
  "bulk_downloads": {
