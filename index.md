@@ -1,8 +1,8 @@
 # AwesomeCUA
 
-> A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 2,170 curated records (1,673 papers and surveys, 497 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
+> A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 3,919 curated records (1,673 papers and surveys, 2,246 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
 
-Snapshot 2026-11-07T05:19:53Z. Awaiting review and not counted above: 453 metadata-only bibliography records and 2,063 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
+Snapshot 2026-11-07T05:19:53Z. Awaiting review and not counted above: 453 metadata-only bibliography records and 1,448 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
 
 HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agent index: https://awesomecua.com/llms.txt
 
@@ -31,16 +31,16 @@ HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agen
 
 ## Browse by kind
 
-- [Models and checkpoints](https://awesomecua.com/categories/model/index.md): 98 curated records
-- [Datasets](https://awesomecua.com/categories/dataset/index.md): 86 curated records
-- [Benchmarks](https://awesomecua.com/categories/benchmark/index.md): 91 curated records
-- [Agents](https://awesomecua.com/categories/agent/index.md): 49 curated records
-- [Frameworks](https://awesomecua.com/categories/framework/index.md): 87 curated records
-- [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md): 16 curated records
-- [Tools](https://awesomecua.com/categories/tool/index.md): 32 curated records
+- [Models and checkpoints](https://awesomecua.com/categories/model/index.md): 124 curated records
+- [Datasets](https://awesomecua.com/categories/dataset/index.md): 99 curated records
+- [Benchmarks](https://awesomecua.com/categories/benchmark/index.md): 217 curated records
+- [Agents](https://awesomecua.com/categories/agent/index.md): 316 curated records
+- [Frameworks](https://awesomecua.com/categories/framework/index.md): 580 curated records
+- [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md): 55 curated records
+- [Tools](https://awesomecua.com/categories/tool/index.md): 809 curated records
 - [Products](https://awesomecua.com/categories/product/index.md): 20 curated records
 - [Publishers](https://awesomecua.com/categories/company/index.md): 16 curated records
-- [Learning resources](https://awesomecua.com/categories/learning/index.md): 2 curated records
+- [Learning resources](https://awesomecua.com/categories/learning/index.md): 10 curated records
 - [Surveys](https://awesomecua.com/categories/survey/index.md): 28 curated records
 - [Research papers](https://awesomecua.com/categories/paper/index.md): 1,645 curated records
 

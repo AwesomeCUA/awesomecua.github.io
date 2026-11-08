@@ -1,6 +1,6 @@
 # Computer-use agent models and checkpoints
 
-> 98 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 124 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/model/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -318,6 +318,39 @@ The repository lists the agent as in-house. Public model weights were not establ
 
 ---
 
+## browserground
+
+browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps screenshots and text targets to bounding-box JSON.
+
+- Catalog URL: https://awesomecua.com/resources/github-renezander030-browserground/
+- Original source: https://github.com/renezander030/browserground
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: grounding, screen-understanding, efficiency
+- Evidence checked: 2026-11-04T16:10:36Z
+- ID: github:renezander030/browserground
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-renezander030-browserground/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/renezander030/browserground/HEAD/README.md (retrieved 2026-11-04T16:10:36Z; SHA-256 d8e153a44312b17fb6e4e3b1aaa7089cfb46f64a87e2e9fd90dc187d4e640608)
+
+---
+
 ## Claude Computer Use
 
 Claude tool capability for screenshot-based computer interaction.
@@ -459,6 +492,141 @@ The former THUDM model URL resolves to zai-org. Six public safetensors shards ar
 - https://huggingface.co/zai-org/cogagent-9b-20241220/raw/main/README.md (retrieved 2026-10-17T02:44:29Z; SHA-256 de2c8e7a9792c3d129451ec813d458f83263460a5808cf87c45b04b260a376c9)
 - https://huggingface.co/api/models/THUDM/cogagent-9b-20241220 (retrieved 2026-10-17T19:15:13Z; SHA-256 35bbe72f95711e042dab7a94bf2711e30a3da50190c7315178c37de5725cc1d9)
 - https://huggingface.co/api/models/zai-org/cogagent-9b-20241220 (retrieved 2026-10-17T19:15:14Z; SHA-256 35bbe72f95711e042dab7a94bf2711e30a3da50190c7315178c37de5725cc1d9)
+
+---
+
+## CogVLM
+
+CogVLM provides official inference and fine-tuning code for the CogVLM vision-language foundation model and the CogAgent GUI agent.
+
+- Catalog URL: https://awesomecua.com/resources/github-thudm-cogvlm/
+- Original source: https://github.com/THUDM/CogVLM
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, android
+- Topics: screen-understanding, grounding
+- Evidence checked: 2026-11-04T13:12:39Z
+- ID: github:thudm/cogvlm
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-thudm-cogvlm/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/THUDM/CogVLM/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/THUDM/CogVLM/HEAD/README.md (retrieved 2026-11-04T13:12:39Z; SHA-256 845d0c7f8f13501791a18b61b3f312bdac112273ff742eded3c926b777f0e002)
+- https://raw.githubusercontent.com/THUDM/CogVLM/HEAD/LICENSE (retrieved 2026-11-04T13:22:40Z; SHA-256 9a827651650bf66778303e003ccba1b1cd0cfcf4f9e2aa5ed77001a1ef5cde7c)
+
+---
+
+## CogVLM2
+
+CogVLM2 releases high-resolution image and video vision-language models supporting visual grounding, document reading, and GUI understanding.
+
+- Catalog URL: https://awesomecua.com/resources/github-thudm-cogvlm2/
+- Original source: https://github.com/THUDM/CogVLM2
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: screen-understanding, video, grounding
+- Evidence checked: 2026-11-04T13:12:40Z
+- ID: github:thudm/cogvlm2
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-thudm-cogvlm2/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/THUDM/CogVLM2/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/THUDM/CogVLM2/HEAD/README.md (retrieved 2026-11-04T13:12:40Z; SHA-256 ac03b56804c539c2550c5ad6f90b35c04f3f15df8c91c583c81c3f3bd862bf9b)
+- https://raw.githubusercontent.com/THUDM/CogVLM2/HEAD/LICENSE (retrieved 2026-11-04T13:22:41Z; SHA-256 38c241871bdea2a35c5b724e543d8bf4229bc5efb8adb4420fb4620e70783d2a)
+
+---
+
+## CombatVLA
+
+CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.
+
+- Catalog URL: https://awesomecua.com/resources/github-chenvoid-combatvla/
+- Original source: https://github.com/ChenVoid/CombatVLA
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: action-prediction, video, efficiency
+- Evidence checked: 2026-11-04T13:12:10Z
+- ID: github:chenvoid/combatvla
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-chenvoid-combatvla/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ChenVoid/CombatVLA/HEAD/README.md (retrieved 2026-11-04T13:12:10Z; SHA-256 d398c8cec4d5e0625b71ecac6eb484a63d5ff077e57dbfaaa8704def6899e698)
+
+---
+
+## DeskMind Eyes
+
+DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for localizing click targets on desktop screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/github-deskmind-ai-eyes/
+- Original source: https://github.com/deskmind-ai/eyes
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, web
+- Topics: grounding, screen-understanding, efficiency
+- Evidence checked: 2026-11-04T14:02:44Z
+- ID: github:deskmind-ai/eyes
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-deskmind-ai-eyes/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/eyes/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/deskmind-ai/eyes/HEAD/README.md (retrieved 2026-11-04T14:02:44Z; SHA-256 d9b8b801f17d3448df37a7be1187f32149bac72a3427bf22f04192feea1042c4)
+- https://raw.githubusercontent.com/deskmind-ai/eyes/HEAD/LICENSE (retrieved 2026-11-04T14:07:24Z; SHA-256 1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d)
 
 ---
 
@@ -872,6 +1040,40 @@ Seven public safetensors shards and model/tokenizer files are present. The card 
 
 ---
 
+## GroundAnything
+
+GroundAnything is a 4B parallel-decoding diffusion grounding model for low-latency visual coordinate localization.
+
+- Catalog URL: https://awesomecua.com/resources/github-groundingpi-groundanything/
+- Original source: https://github.com/groundingpi/GroundAnything
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, android
+- Topics: grounding, screen-understanding, efficiency
+- Evidence checked: 2026-11-04T14:20:13Z
+- ID: github:groundingpi/groundanything
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-groundingpi-groundanything/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/groundingpi/GroundAnything/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/groundingpi/GroundAnything/HEAD/README.md (retrieved 2026-11-04T14:20:13Z; SHA-256 0ecc01454adad40a97ab0cbe37554e995cc9ba9076f2cd5bf33bb97744c46dac)
+- https://raw.githubusercontent.com/groundingpi/GroundAnything/HEAD/LICENSE (retrieved 2026-11-04T14:23:47Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 ## GroundGUI-8B
 
 Screenshot grounding checkpoint that emits a single click in a normalized coordinate space.
@@ -904,6 +1106,40 @@ License declarations apply to this checkpoint separately from code and training 
 - https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 73a4690fab49d3b08ea9b0b1e44d62d5ec1802614f5cf22c37ed92dca49aa520)
 - https://huggingface.co/api/models/PrentisAI/GroundGUI-8B (retrieved 2026-10-17T01:49:48Z; SHA-256 8b680b9a63e654fe0b43754201d30c91714859578f294f4781e035280e862657)
 - https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 73a4690fab49d3b08ea9b0b1e44d62d5ec1802614f5cf22c37ed92dca49aa520)
+
+---
+
+## GroundingPI
+
+GroundingPI is a 4B visual grounding foundation model that unifies bounding-box detection, referring expressions, and point localization.
+
+- Catalog URL: https://awesomecua.com/resources/github-groundingpi-groundingpi/
+- Original source: https://github.com/groundingpi/GroundingPI
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, android
+- Topics: grounding, screen-understanding, action-prediction
+- Evidence checked: 2026-11-04T14:20:13Z
+- ID: github:groundingpi/groundingpi
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-groundingpi-groundingpi/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/groundingpi/GroundingPI/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/groundingpi/GroundingPI/HEAD/README.md (retrieved 2026-11-04T14:20:13Z; SHA-256 65367d8d12e665dad4a2510a14a1e8740fbfe4080baa1911b976ff461be9bcf8)
+- https://raw.githubusercontent.com/groundingpi/GroundingPI/HEAD/LICENSE (retrieved 2026-11-04T14:23:47Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -972,6 +1208,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://huggingface.co/api/models/microsoft/GUI-Actor-7B-Qwen2-VL (retrieved 2026-10-16T06:50:49Z; SHA-256 c76d9811dc6152d1b33bec7f19e808c1882e86cca79bd3fea90075ac9df5c7e6)
 - https://huggingface.co/api/models/microsoft/GUI-Actor-7B-Qwen2-VL (retrieved 2026-10-16T06:50:49Z; SHA-256 c76d9811dc6152d1b33bec7f19e808c1882e86cca79bd3fea90075ac9df5c7e6)
+
+---
+
+## GUI-AIMA
+
+GUI-AIMA aligns intrinsic multimodal attention heads with context anchors for data-efficient visual GUI element grounding.
+
+- Catalog URL: https://awesomecua.com/resources/github-sjz5202-gui-aima/
+- Original source: https://github.com/sjz5202/GUI-AIMA
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-04T13:12:36Z
+- ID: github:sjz5202/gui-aima
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-sjz5202-gui-aima/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/sjz5202/GUI-AIMA/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sjz5202/GUI-AIMA/HEAD/README.md (retrieved 2026-11-04T13:12:36Z; SHA-256 46a4cb589fb2fdccae60ae3078e4a1d19f9804238b0e3884bc7f056b6ab88b34)
+- https://raw.githubusercontent.com/sjz5202/GUI-AIMA/HEAD/LICENSE (retrieved 2026-11-04T13:22:43Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
 
 ---
 
@@ -1112,6 +1382,39 @@ The model card and four public safetensors shards establish this specific releas
 
 ---
 
+## GUI-Libra
+
+GUI-Libra provides training and evaluation pipelines for native GUI agents using action-aware supervision and partially verifiable RL.
+
+- Catalog URL: https://awesomecua.com/resources/github-gui-libra-gui-libra/
+- Original source: https://github.com/GUI-Libra/GUI-Libra
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: reinforcement-learning, grounding, action-prediction
+- Evidence checked: 2026-11-04T13:12:16Z
+- ID: github:gui-libra/gui-libra
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-gui-libra-gui-libra/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/GUI-Libra/GUI-Libra/HEAD/README.md (retrieved 2026-11-04T13:12:16Z; SHA-256 f34c5bcf454368db37dde4bb2229fd14ae5e4a118684c6d7fbb6a25f9f246911)
+
+---
+
 ## GUI-Owl 7B
 
 A Qwen2.5-VL-based GUI checkpoint released with Mobile-Agent-v3 for grounded actions and specialized roles in its agent framework.
@@ -1214,6 +1517,73 @@ The manifest contains two safetensors shards in GUI-R1-3B and four in GUI-R1-7B.
 - https://huggingface.co/api/models/ritzzai/GUI-R1 (retrieved 2026-10-17T02:44:29Z; SHA-256 3eff86951de7c36dbd4af006ab3f1350213bdfea384494e59c8abc007793c979)
 - https://raw.githubusercontent.com/ritzz-ai/GUI-R1/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 94c7c78bede11dde727940f56592a04594c1c59438812dff47540bf53c1bed7d)
 - https://huggingface.co/ritzzai/GUI-R1/raw/main/README.md (retrieved 2026-10-17T02:44:30Z; SHA-256 7b14996d1a99675990cb2f3aeada2b2f9898f9daee46d3680988e16f6365abe3)
+
+---
+
+## GUI-Spotlight
+
+GUI-Spotlight is a think-with-image GUI visual grounding model that iteratively crops and refines focus regions on high-resolution screens.
+
+- Catalog URL: https://awesomecua.com/resources/github-bin123apple-gui-spotlight/
+- Original source: https://github.com/bin123apple/GUI_Spotlight
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, android
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-04T14:02:35Z
+- ID: github:bin123apple/gui_spotlight
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-bin123apple-gui-spotlight/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/bin123apple/GUI_Spotlight/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/bin123apple/GUI_Spotlight/HEAD/README.md (retrieved 2026-11-04T14:02:35Z; SHA-256 9beec1999aa27cc05918cb3f3e092a0f3155418bcfd8ecdefd2ffddbcae39cc5)
+- https://raw.githubusercontent.com/bin123apple/GUI_Spotlight/HEAD/LICENSE (retrieved 2026-11-04T14:07:23Z; SHA-256 13ffcb890d9bf315bc89617d32a4a4fb6e82738fcb5e0d24d99d7a4975ae4e07)
+
+---
+
+## gWorld (GuiWorld)
+
+gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step screen states via renderable web code generation.
+
+- Catalog URL: https://awesomecua.com/resources/github-trillion-labs-gworld/
+- Original source: https://github.com/trillion-labs/gWorld
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: world-models, mobile-navigation, action-prediction
+- Evidence checked: 2026-11-04T14:41:44Z
+- ID: github:trillion-labs/gworld
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-trillion-labs-gworld/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/trillion-labs/gWorld/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 f5ae4cdd0c25f724765729c5a9e860906e730d8c395b9c3fff65af8b14ae0803)
 
 ---
 
@@ -1390,6 +1760,40 @@ The public manifest contains 26 safetensors shards for the BF16 checkpoint and t
 
 ---
 
+## HTLM
+
+HTLM is a compact 350M browser-agent model fine-tuned on Mind2Web for fast on-device and in-browser DOM action prediction.
+
+- Catalog URL: https://awesomecua.com/resources/github-espetro-htlm/
+- Original source: https://github.com/espetro/HTLM
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, action-prediction, efficiency
+- Evidence checked: 2026-11-04T14:02:47Z
+- ID: github:espetro/htlm
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-espetro-htlm/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/espetro/HTLM/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/espetro/HTLM/HEAD/README.md (retrieved 2026-11-04T14:02:47Z; SHA-256 4ad3f8e9ff8ec550408684f13c7791448a02dcc347bc4cb773ef5f642a89fad8)
+- https://raw.githubusercontent.com/espetro/HTLM/HEAD/LICENSE (retrieved 2026-11-04T14:07:24Z; SHA-256 2806f9c1240c6bad712ef53fb49d810605345290fc261b85984cca211ec5ce16)
+
+---
+
 ## InfiGUI-G1
 
 InfiGUI-G1 3B and 7B grounding models trained with Adaptive Exploration Policy Optimization, which samples several candidate answers per pass under an adaptive exploration reward.
@@ -1533,6 +1937,108 @@ The official Hub API resolves the former Reallm-Labs model namespace to InfiX-ai
 
 ---
 
+## InternVL
+
+Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.
+
+- Catalog URL: https://awesomecua.com/resources/github-opengvlab-internvl/
+- Original source: https://github.com/OpenGVLab/InternVL
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: screen-understanding, grounding, video
+- Evidence checked: 2026-11-04T13:12:30Z
+- ID: github:opengvlab/internvl
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-opengvlab-internvl/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenGVLab/InternVL/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenGVLab/InternVL/HEAD/README.md (retrieved 2026-11-04T13:12:30Z; SHA-256 0d5338fba1508bf7ffc9ccb2479c852e20b195394376b3c648750706b1465e10)
+- https://raw.githubusercontent.com/OpenGVLab/InternVL/HEAD/LICENSE (retrieved 2026-11-04T13:41:37Z; SHA-256 8f03d25fbcffafa2254d4d1414bf2a38423a966006b4a6964ee21f728d610bff)
+
+---
+
+## kev-browser-use
+
+kev-browser-use is a compact 0.6B System-One action model fine-tuned on Mind2Web for low-latency browser element selection.
+
+- Catalog URL: https://awesomecua.com/resources/github-arbazsiddiqui-kev-browser-use/
+- Original source: https://github.com/arbazsiddiqui/kev-browser-use
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, action-prediction, efficiency
+- Evidence checked: 2026-11-04T14:41:48Z
+- ID: github:arbazsiddiqui/kev-browser-use
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-arbazsiddiqui-kev-browser-use/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/arbazsiddiqui/kev-browser-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/arbazsiddiqui/kev-browser-use/HEAD/README.md (retrieved 2026-11-04T14:41:48Z; SHA-256 daab246d4be8471a7603c12d52d19b4a1c1ddb27870d657efa1facc50d88c92d)
+- https://raw.githubusercontent.com/arbazsiddiqui/kev-browser-use/HEAD/LICENSE (retrieved 2026-11-04T14:45:11Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## Laya-Android
+
+Laya-Android is a compact 322M on-device decision model for Android GUI action selection.
+
+- Catalog URL: https://awesomecua.com/resources/github-byun11-laya-android/
+- Original source: https://github.com/Byun11/laya-android
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, action-prediction, efficiency
+- Evidence checked: 2026-11-04T14:20:16Z
+- ID: github:byun11/laya-android
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-byun11-laya-android/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Byun11/laya-android/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Byun11/laya-android/HEAD/README.md (retrieved 2026-11-04T14:20:16Z; SHA-256 a1e8e42f00cdad617bc11a04939d3d6269158f473c088da58e8f4cf33b34838c)
+- https://raw.githubusercontent.com/Byun11/laya-android/HEAD/LICENSE (retrieved 2026-11-04T14:23:48Z; SHA-256 a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9)
+
+---
+
 ## Llama-3-8B-Web
 
 A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions and dialogue, predicting browser actions from a textual state representation.
@@ -1640,6 +2146,108 @@ Four public safetensors shards are present and Apache-2.0 is declared. The card 
 
 ---
 
+## Mano-P
+
+Mano-P is an open-source GUI vision-language-action model optimized for edge devices and evaluated on OSWorld and Mind2Web.
+
+- Catalog URL: https://awesomecua.com/resources/github-mininglamp-ai-mano-p/
+- Original source: https://github.com/Mininglamp-AI/Mano-P
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, android
+- Topics: grounding, action-prediction, efficiency
+- Evidence checked: 2026-11-04T14:02:40Z
+- ID: github:mininglamp-ai/mano-p
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-mininglamp-ai-mano-p/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Mininglamp-AI/Mano-P/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Mininglamp-AI/Mano-P/HEAD/README.md (retrieved 2026-11-04T14:02:40Z; SHA-256 1c778701e5304c663970e6ec21cfba2d090ba3579faa428fef5b1183df30b4c9)
+- https://raw.githubusercontent.com/Mininglamp-AI/Mano-P/HEAD/LICENSE (retrieved 2026-11-04T14:07:24Z; SHA-256 583a43ea83ecccb3844708314c171032e9fd514fd4c6d2415a8bed7d924af3c2)
+
+---
+
+## Milo-Pointer
+
+Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and action selector for mobile phone agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-chayworks-milo-pointer/
+- Original source: https://github.com/chayworks/milo-pointer
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, efficiency, grounding
+- Evidence checked: 2026-11-04T14:20:16Z
+- ID: github:chayworks/milo-pointer
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-chayworks-milo-pointer/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/chayworks/milo-pointer/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/chayworks/milo-pointer/HEAD/README.md (retrieved 2026-11-04T14:20:16Z; SHA-256 eb4014518622cc0da35b9466383b6168b2b9deaf5789e80396b0d47610b18752)
+- https://raw.githubusercontent.com/chayworks/milo-pointer/HEAD/LICENSE (retrieved 2026-11-04T14:23:48Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## MM-Eureka
+
+MM-Eureka provides rule-based multimodal reinforcement learning code, models, and datasets based on OpenRLHF and InternVL.
+
+- Catalog URL: https://awesomecua.com/resources/github-modalminds-mm-eureka/
+- Original source: https://github.com/ModalMinds/MM-EUREKA
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: reinforcement-learning, screen-understanding
+- Evidence checked: 2026-11-04T13:12:26Z
+- ID: github:modalminds/mm-eureka
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-modalminds-mm-eureka/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/ModalMinds/MM-EUREKA/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ModalMinds/MM-EUREKA/HEAD/README.md (retrieved 2026-11-04T13:12:26Z; SHA-256 db5b32aa61f24b12f77b672b151d087390750f983d62eaf9b6b1bff33cae0b23)
+- https://raw.githubusercontent.com/ModalMinds/MM-EUREKA/HEAD/LICENSE (retrieved 2026-11-04T13:41:37Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
+
+---
+
 ## MobileRL 9B checkpoint
 
 A GLM-4.1V-based mobile action checkpoint released by the MobileRL project for Android interaction.
@@ -1673,6 +2281,73 @@ Five public safetensors shards are present. The short card declares Apache-2.0 a
 - https://huggingface.co/xuyifan/MobileRL-9B/raw/main/README.md (retrieved 2026-10-17T04:03:41Z; SHA-256 5c2d5eb247958f1af0646cbac831ecfbc7f839baa236a0d733075592da81f58e)
 - https://raw.githubusercontent.com/THUDM/MobileRL/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 752fad8ebd8b8eda03648329a6fc2585e5bcb2b96875b8aa2ce7d9f3fff78153)
 - https://huggingface.co/api/models/xuyifan/MobileRL-9B (retrieved 2026-10-17T04:03:40Z; SHA-256 a00f13f5a86f2de7eb9c866cc4d08b958d21b2ac30dc3b9e1662e4bb336b7cb3)
+
+---
+
+## MobileVLM
+
+MobileVLM is a vision-language model pre-trained on the Mobile3M UI transition graph for intra-screen and inter-screen mobile UI understanding.
+
+- Catalog URL: https://awesomecua.com/resources/github-xiaomi-mobilevlm/
+- Original source: https://github.com/XiaoMi/mobilevlm
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, mobile-navigation, action-prediction
+- Evidence checked: 2026-11-04T13:12:45Z
+- ID: github:xiaomi/mobilevlm
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-xiaomi-mobilevlm/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/XiaoMi/mobilevlm/HEAD/README.md (retrieved 2026-11-04T13:12:45Z; SHA-256 e8a92a783b6b65cacedf105e5ede583668f8774f2a81a2005dc6897da6fa88ef)
+
+---
+
+## MP-GUI
+
+MP-GUI provides multimodal perception training and evaluation code with graphical, textual, and spatial experts for GUI understanding.
+
+- Catalog URL: https://awesomecua.com/resources/github-bigtaige-mp-gui/
+- Original source: https://github.com/BigTaige/MP-GUI
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android, desktop
+- Topics: screen-understanding, grounding
+- Evidence checked: 2026-11-04T13:12:08Z
+- ID: github:bigtaige/mp-gui
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-bigtaige-mp-gui/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/BigTaige/MP-GUI/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/BigTaige/MP-GUI/HEAD/README.md (retrieved 2026-11-04T13:12:08Z; SHA-256 d6253125be06f3ab7f0fe96ca9dfc94559be5f7fab722b8e9e75e9cdfa2a102f)
+- https://raw.githubusercontent.com/BigTaige/MP-GUI/HEAD/LICENSE (retrieved 2026-11-04T13:22:42Z; SHA-256 5b1b6bd7af109e87cdde9905738be3747cad8a199609ac3ce7889aab59bd7f8f)
 
 ---
 
@@ -1714,6 +2389,40 @@ The manifest contains icon_detect/model.pt, icon_detect_v3/model.pt and icon_cap
 - https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect/LICENSE (retrieved 2026-10-17T04:09:13Z; SHA-256 4df3c306dddaaf4baffdff5ca820cc679ac8cd6dc263c6a74517783e42fa7a3b)
 - https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect_v3/LICENSE (retrieved 2026-10-17T04:06:57Z; SHA-256 646f8936b8ddcd14e13e578ff6857e368780b0d1a4f6066bee89211923a373e2)
 - https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_caption/LICENSE (retrieved 2026-10-17T04:09:13Z; SHA-256 d9a1b1e30d633d5732ea18e3cba9538d293ebc53e1a9e4e96ab739e0c5c4f1cb)
+
+---
+
+## OneJev
+
+OneJev is a multimodal System-One decision model based on Qwen that returns calibrated probabilities over typed action choices.
+
+- Catalog URL: https://awesomecua.com/resources/github-omnijev-onejev/
+- Original source: https://github.com/OmniJev/OneJev
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: action-prediction, efficiency
+- Evidence checked: 2026-11-04T14:41:48Z
+- ID: github:omnijev/onejev
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-omnijev-onejev/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/OmniJev/OneJev/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OmniJev/OneJev/HEAD/README.md (retrieved 2026-11-04T14:41:48Z; SHA-256 93f7ac68c4a05fa8e551d89f068d4546458b1bd4e7cd634eb5949bf2c3c6eb62)
+- https://raw.githubusercontent.com/OmniJev/OneJev/HEAD/LICENSE (retrieved 2026-11-04T14:45:10Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
 
 ---
 
@@ -2212,6 +2921,74 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Pix2Struct
+
+Pix2Struct provides official training and inference code for screenshot-parsing vision-language pretraining across web and mobile UI tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-google-research-pix2struct/
+- Original source: https://github.com/google-research/pix2struct
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web, android
+- Topics: screen-understanding, grounding
+- Evidence checked: 2026-11-04T13:12:16Z
+- ID: github:google-research/pix2struct
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-google-research-pix2struct/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/google-research/pix2struct/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/google-research/pix2struct/HEAD/README.md (retrieved 2026-11-04T13:12:16Z; SHA-256 ca99e7ffd4a4286e1eec2651d5733e0d9630e2e1f042caa93c22ce0eec465fa5)
+- https://raw.githubusercontent.com/google-research/pix2struct/HEAD/LICENSE (retrieved 2026-11-04T13:22:40Z; SHA-256 58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd)
+
+---
+
+## Plan-and-Act Actor 70B
+
+Llama-3.3-70B-Instruct-based executor checkpoint from the Plan-and-Act web-agent framework that translates high-level plans into browser actions.
+
+- Catalog URL: https://awesomecua.com/resources/url-8a284d122d7dcf23479d/
+- Original source: https://huggingface.co/xTRam1/plan-and-act-actor-70b
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: planning, action-prediction, web-navigation
+- Evidence checked: 2026-10-17T02:05:41Z
+- ID: url:8a284d122d7dcf23479d
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/url-8a284d122d7dcf23479d/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/xTRam1/plan-and-act-actor-70b
+
+### Primary evidence
+
+- https://huggingface.co/api/models/xTRam1/plan-and-act-actor-70b (retrieved 2026-10-17T02:05:41Z; SHA-256 a68db8fbf587c35e17526b0fbeb34649e6a03611e61d8be2f4cd36756e7356dd)
+- https://huggingface.co/api/models/xTRam1/plan-and-act-actor-70b (retrieved 2026-10-17T02:05:41Z; SHA-256 a68db8fbf587c35e17526b0fbeb34649e6a03611e61d8be2f4cd36756e7356dd)
+
+---
+
 ## Plan-and-Act Planner 70B
 
 The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.
@@ -2316,6 +3093,40 @@ Four safetensors shards and model code/configuration are public and ungated. The
 - https://huggingface.co/api/models/tencent/POINTS-GUI-G (retrieved 2026-10-17T02:03:33Z; SHA-256 3b97405c0a7f50298cf31a4933d31da356363c2ba5ecfaf73144cedeebc44db2)
 - https://raw.githubusercontent.com/Tencent/POINTS-GUI/HEAD/README.md (retrieved 2026-10-16T06:36:00Z; SHA-256 9f851237932688c15d261c016d51ff5ae80c43c5d0b4eaccac0b48d941118d80)
 - https://huggingface.co/tencent/POINTS-GUI-G/raw/main/README.md (retrieved 2026-10-17T02:03:33Z; SHA-256 ac679d3cfdda8754e945d127935c9ed9030e6c9d0c9872f6224909ab2abe5c3f)
+
+---
+
+## Qwen3-VL / Qwen2.5-VL
+
+Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
+
+- Catalog URL: https://awesomecua.com/resources/github-qwenlm-qwen3-vl/
+- Original source: https://github.com/QwenLM/Qwen3-VL
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: grounding, screen-understanding, action-prediction, video
+- Evidence checked: 2026-11-04T13:12:32Z
+- ID: github:qwenlm/qwen3-vl
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-qwenlm-qwen3-vl/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/QwenLM/Qwen3-VL/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/QwenLM/Qwen3-VL/HEAD/README.md (retrieved 2026-11-04T13:12:32Z; SHA-256 fc21106258c51e0b91a652eef12f5925becb146ea8b8c79a4251ac2e89a2f1ac)
+- https://raw.githubusercontent.com/QwenLM/Qwen3-VL/HEAD/LICENSE (retrieved 2026-11-04T13:41:34Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -2803,6 +3614,40 @@ The Hub manifest exposes four safetensors shards under SpiritSight-Agent-8B-base
 
 ---
 
+## Textual Foresight
+
+Textual Foresight pretrains UI representations by predicting textual descriptions of future screen states resulting from mobile UI actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-aburns4-textualforesight/
+- Original source: https://github.com/aburns4/textualforesight
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, action-prediction, world-models
+- Evidence checked: 2026-11-04T13:12:04Z
+- ID: github:aburns4/textualforesight
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-aburns4-textualforesight/record.json
+
+### License declarations
+
+- code: BSD-3-Clause — https://raw.githubusercontent.com/aburns4/textualforesight/HEAD/LICENSE.txt
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/aburns4/textualforesight/HEAD/README.md (retrieved 2026-11-04T13:12:04Z; SHA-256 1ce27542d1e6e9c883279b659758bdf534a446b97e2207bdea069a09999606a3)
+- https://raw.githubusercontent.com/aburns4/textualforesight/HEAD/LICENSE.txt (retrieved 2026-11-04T13:22:45Z; SHA-256 5aca00bff81e12a65992c7f2ecfece6ba7a923193c7a1d33a1b60f657e8cf11a)
+
+---
+
 ## UGround
 
 Code, training data and weights for universal visual grounding of GUI elements from screenshots, including Qwen2-VL-based UGround-V1 at 2B, 7B and 72B and offline and online evaluation suites.
@@ -3252,6 +4097,40 @@ Four public safetensors shards are present. The model card declares odc-by, a da
 - https://huggingface.co/api/models/neulab/UIX-Qwen2 (retrieved 2026-10-17T04:03:40Z; SHA-256 19bd4d126f3ccb4cb3049125d384c76964bd3169c051369ac0c7b64cef9f48b4)
 - https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md (retrieved 2026-10-16T06:36:01Z; SHA-256 fe0c03fe73529a29788d559103c4aed48dca6ed9ba3bfd5f151f902fa8858b38)
 - https://huggingface.co/neulab/UIX-Qwen2/raw/main/README.md (retrieved 2026-10-17T04:03:41Z; SHA-256 91f90e329b76c2ded26a62c41f648a73e685116aa732c86c201592e46a941c44)
+
+---
+
+## VGA (Vision GUI Assistant)
+
+Vision GUI Assistant (VGA) provides image-centric fine-tuning code and datasets to reduce hallucinations in vision-language GUI grounding.
+
+- Catalog URL: https://awesomecua.com/resources/github-linziyang1999-vision-gui-assistant/
+- Original source: https://github.com/Linziyang1999/Vision-GUI-assistant
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: screen-understanding, grounding
+- Evidence checked: 2026-11-04T13:12:21Z
+- ID: github:linziyang1999/vision-gui-assistant
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-linziyang1999-vision-gui-assistant/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Linziyang1999/Vision-GUI-assistant/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Linziyang1999/Vision-GUI-assistant/HEAD/README.md (retrieved 2026-11-04T13:12:21Z; SHA-256 90f65410bf548ea8f1798b6c9ff662c5e6f73ac8442e457d9b91f49d57fd954b)
+- https://raw.githubusercontent.com/Linziyang1999/Vision-GUI-assistant/HEAD/LICENSE (retrieved 2026-11-04T13:22:42Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 

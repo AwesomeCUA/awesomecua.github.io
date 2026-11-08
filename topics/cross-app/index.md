@@ -127,6 +127,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Execution-based evaluation of agents performing tasks in real desktop environments.
 - [TheAgentCompany](https://awesomecua.com/resources/github-theagentcompany-theagentcompany/) — Date not recorded
   Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.
+- [WebMall](https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/) — Date not recorded
+  WebMall is a multi-shop e-commerce web agent benchmark evaluating cross-site price comparison, product search, and cart checkout.
 - [WindowsAgentArena-V2](https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/) — Date not recorded
   Windows benchmark revision with task/evaluator fixes and VM-initialization support, documented alongside PC-Agent-E.
 - [WindowsWorld](https://awesomecua.com/resources/github-hitsz-tmg-windowsworld/) — Date not recorded
@@ -141,11 +143,19 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 
 ## Engineering & industry
 
+- [debug-kit](https://awesomecua.com/resources/github-dxiongya-debug-kit/) — Date not recorded
+  Cross-platform Agent Skill for driving, inspecting, and testing applications across macOS, iOS, Android, Web, Electron, Windows, and Linux.
 - [GUI-ReWalk](https://awesomecua.com/resources/github-bytedance-gui-rewalk/) — Date not recorded
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
+- [Lom Desktop (麓鸣)](https://awesomecua.com/resources/github-rfdiosuao-lom-desktop/) — Date not recorded
+  Lom is an open-source multi-agent workspace coordinating desktop coding agents with cross-device Android phone execution.
+- [Macuse MCP](https://awesomecua.com/resources/github-macuse-app-macuse-mcp/) — Date not recorded
+  Macuse MCP is a native macOS Model Context Protocol server granting AI agents direct control over Calendar, Mail, Notes, Messages, and GUI apps.
 - [PC-Agent](https://awesomecua.com/resources/github-gair-nlp-pc-agent/) — Date not recorded
   Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
 - [PC-Agent (X-PLUG component)](https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/) — Date not recorded
   Multi-agent desktop automation component for Windows and macOS, combining active perception, task decomposition and reflection for workflows spanning applications.
+- [Touchpoint](https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/) — Date not recorded
+  Touchpoint is a cross-platform desktop accessibility API and MCP server giving AI agents unified UI inspection and control.
 - [UFO](https://awesomecua.com/resources/github-microsoft-ufo/) — Date not recorded
   Windows agent framework for application and desktop automation.

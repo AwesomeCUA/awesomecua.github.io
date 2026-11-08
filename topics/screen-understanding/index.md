@@ -455,16 +455,32 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 
 ## Benchmarks
 
+- [Astra Game Arena](https://awesomecua.com/resources/github-gih10012-astra-game-arena/) — Date not recorded
+  Resumable, screen-only computer-use evaluation arena testing whether Codex agents can play locally installed desktop games.
+- [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/) — Date not recorded
+  Benchmarks dense versus global features across frozen vision backbones for pixel-coordinate GUI grounding.
+- [Gomoku Computer-Use Model Comparison](https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/) — Date not recorded
+  Controlled evaluation benchmark comparing frontier Claude models on interactive board-game reasoning and GUI execution.
+- [LMMs-Eval](https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/) — Date not recorded
+  LMMs-Eval is a standardized evaluation harness for large multimodal models covering GUI grounding, VQA, document, and video benchmarks.
+- [LongPuzzleBench](https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/) — Date not recorded
+  LongPuzzleBench evaluates GUI and computer-use agents on long-horizon visual puzzle games requiring multi-step spatial reasoning.
 - [OS-Critic Bench](https://awesomecua.com/resources/url-c73ba0618d1b3c505887/) — Date not recorded
   A cross-platform GUI-critic benchmark with mobile, desktop and web JSONL splits and screenshot assets, accompanied by public inference and accuracy-scoring scripts.
+- [OSWorld GPT-4o-mini Benchmark Evaluation](https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/) — Date not recorded
+  Evaluates GPT-4o-mini on OSWorld desktop automation tasks comparing screenshot-only, accessibility-tree, and Set-of-Mark observation modes.
 - [Screen Point-and-Read / Tree-of-Lens](https://awesomecua.com/resources/github-ucsb-ai-screen-point-and-read/) — Date not recorded
   Screen-reading benchmark and Tree-of-Lens implementation for interpreting user-indicated regions and their layout context.
+- [SWEeper-Bench](https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/) — Date not recorded
+  SWEeper-Bench evaluates whether interactive GUI and browser agents can autonomously discover and reproduce 200 real bugs in open-source software.
 - [VisualWebArena](https://awesomecua.com/resources/github-web-arena-x-visualwebarena/) — Date not recorded
   Visually grounded web tasks extending the WebArena evaluation setting.
 - [VisualWebBench](https://awesomecua.com/resources/github-visualwebbench-visualwebbench/) — Date not recorded
   Evaluation of multimodal models on visual web understanding tasks.
 - [Web Context Bench (Python)](https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/) — Date not recorded
   Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.
+- [WinDeskGround](https://awesomecua.com/resources/github-zzzhr-1-windeskground/) — Date not recorded
+  WinDeskGround benchmarks desktop GUI grounding in multi-window Windows environments with controlled occlusion, scaling, and interference levels.
 - [WONDERBREAD](https://awesomecua.com/resources/github-hazyresearch-wonderbread/) — Date not recorded
   An offline benchmark of workflow documentation, quality assessment and knowledge transfer using human web-navigation demonstrations, action traces and written procedures.
 
@@ -476,6 +492,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   GUI element descriptions and grounding instructions spanning web, mobile, and Ubuntu desktop interfaces.
 - [AutoGUI v1 training data](https://awesomecua.com/resources/url-79287058342289aa5d45/) — Date not recorded
   Screenshot-based grounding and captioning samples with UI functionality descriptions, target coordinates, and bounding boxes.
+- [GroundCUA](https://awesomecua.com/resources/github-servicenow-groundcua/) — Date not recorded
+  GroundCUA releases 56,000 desktop screenshots with 3.56M human-verified UI element annotations across 87 applications plus GroundNext models.
 - [GUI-Lasagne L1](https://awesomecua.com/resources/url-0c5659ca9e59d942aea3/) — Date not recorded
   The published GUI-Lasagne training-data collection used for SpiritSight, distributed as dated archive shards for visual interface learning.
 - [GUI-World](https://awesomecua.com/resources/github-dongping-chen-gui-world/) — Date not recorded
@@ -488,22 +506,32 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 Google Play apps, collected with an optimized DroidBot, with complete per-app traces.
 - [MultiUI](https://awesomecua.com/resources/github-neulab-multiui/) — Date not recorded
   7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.
+- [RelationGUI & RelationQA](https://awesomecua.com/resources/github-malonghui-relationgui/) — Date not recorded
+  RelationGUI provides datasets and training code for explicit spatial, hierarchical, and functional relational understanding in GUI agents.
 - [Rico](https://awesomecua.com/resources/url-0b134b082a7bd507fc6a/) — Date not recorded
   Mobile app screenshots, view hierarchies, and interaction traces for UI research.
+- [RICO Semantics](https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/) — Date not recorded
+  RICO Semantics provides 500,000 human annotations on RICO mobile screens covering icon shapes, semantic roles, and text-element associations.
 - [Screen2Words](https://awesomecua.com/resources/github-google-research-datasets-screen2words/) — Date not recorded
   Mobile screen descriptions for language-based screen understanding.
 - [ScreenQA](https://awesomecua.com/resources/github-google-research-datasets-screen-qa/) — Date not recorded
   About 86,000 human-written question-answer pairs over 35,000 Rico mobile screenshots, plus ScreenQA Short and ComplexQA variants, for benchmarking screen content understanding.
 - [ScreenRef](https://awesomecua.com/resources/url-56bda04bd8d3a438deb3/) — Date not recorded
   GUI screenshots paired with localization instructions and targets, including absent-target examples; image access is gated under publisher terms.
+- [UEyes](https://awesomecua.com/resources/github-yuejiang-nj-ueyes-chi2023/) — Date not recorded
+  UEyes is an eye-tracking dataset of 62 participants viewing 1,980 UI screenshots across webpages, desktop interfaces, mobile apps, and posters.
 - [UI-Vision](https://awesomecua.com/resources/url-2c2004baae4669f8169a/) — Date not recorded
   Desktop GUI data for interface understanding and interaction research.
 - [UIBert AppSim and RefExp annotations](https://awesomecua.com/resources/github-google-research-datasets-uibert/) — Date not recorded
   Two Rico-derived UI component retrieval datasets: AppSim pairs semantically similar elements across screens, while RefExp links referring expressions to target elements.
 - [UICrit](https://awesomecua.com/resources/github-google-research-datasets-uicrit/) — Date not recorded
   Mobile-interface critiques and quality ratings with region coordinates and RICO screen references, including a larger three-annotator release than the original paper dataset.
+- [VisualWebBench dataset](https://awesomecua.com/resources/url-149769d8bf07b7fbabdc/) — Date not recorded
+  Hugging Face dataset release for VisualWebBench spanning seven visual web understanding, OCR, element grounding, and action prediction tasks.
 - [Wave UI](https://awesomecua.com/resources/url-0dbb55f127da04d95222/) — Date not recorded
   Screenshot-instruction records with target boxes and UI metadata such as OCR, source, element type and platform.
+- [WebSRC](https://awesomecua.com/resources/github-x-lance-websrc-baseline/) — Date not recorded
+  WebSRC provides baseline models and processing pipelines for the Web-Based Structural Reading Comprehension dataset over HTML and screenshots.
 - [WebSRC v1.0](https://awesomecua.com/resources/url-e0ba328ae1a643b0a5aa/) — Date not recorded
   Webpage segments, questions, answers, HTML, screenshots and layout metadata for structural reading comprehension.
 - [WebUI](https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/) — Date not recorded
@@ -511,59 +539,815 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 
 ## Models
 
+- [browserground](https://awesomecua.com/resources/github-renezander030-browserground/) — Date not recorded
+  browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps screenshots and text targets to bounding-box JSON.
 - [Code2World-8B checkpoint](https://awesomecua.com/resources/url-bc3deaf8eeecf569e73b/) — Date not recorded
   Released GUI world-model checkpoint that turns a screenshot and proposed action into HTML for rendering a predicted next screen.
 - [CogAgent](https://awesomecua.com/resources/github-thudm-cogagent/) — Date not recorded
   Visual language model for GUI understanding and interaction.
 - [CogAgent 9B 20241220](https://awesomecua.com/resources/url-c5eb975c0d66f8a2954f/) — Date not recorded
   A bilingual GLM-4V-based execution model that uses screenshots, task instructions and action history to predict GUI operations.
+- [CogVLM](https://awesomecua.com/resources/github-thudm-cogvlm/) — Date not recorded
+  CogVLM provides official inference and fine-tuning code for the CogVLM vision-language foundation model and the CogAgent GUI agent.
+- [CogVLM2](https://awesomecua.com/resources/github-thudm-cogvlm2/) — Date not recorded
+  CogVLM2 releases high-resolution image and video vision-language models supporting visual grounding, document reading, and GUI understanding.
+- [DeskMind Eyes](https://awesomecua.com/resources/github-deskmind-ai-eyes/) — Date not recorded
+  DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for localizing click targets on desktop screenshots.
 - [Ferret-UI](https://awesomecua.com/resources/github-apple-ml-ferret/) — Date not recorded
   Screen understanding research within the Ferret model family.
+- [GroundAnything](https://awesomecua.com/resources/github-groundingpi-groundanything/) — Date not recorded
+  GroundAnything is a 4B parallel-decoding diffusion grounding model for low-latency visual coordinate localization.
 - [GroundGUI-8B](https://awesomecua.com/resources/url-de31b07ff24ab15d9bdf/) — Date not recorded
   Screenshot grounding checkpoint that emits a single click in a normalized coordinate space.
+- [GroundingPI](https://awesomecua.com/resources/github-groundingpi-groundingpi/) — Date not recorded
+  GroundingPI is a 4B visual grounding foundation model that unifies bounding-box detection, referring expressions, and point localization.
+- [GUI-AIMA](https://awesomecua.com/resources/github-sjz5202-gui-aima/) — Date not recorded
+  GUI-AIMA aligns intrinsic multimodal attention heads with context anchors for data-efficient visual GUI element grounding.
+- [GUI-Spotlight](https://awesomecua.com/resources/github-bin123apple-gui-spotlight/) — Date not recorded
+  GUI-Spotlight is a think-with-image GUI visual grounding model that iteratively crops and refines focus regions on high-resolution screens.
+- [InternVL](https://awesomecua.com/resources/github-opengvlab-internvl/) — Date not recorded
+  Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.
+- [MM-Eureka](https://awesomecua.com/resources/github-modalminds-mm-eureka/) — Date not recorded
+  MM-Eureka provides rule-based multimodal reinforcement learning code, models, and datasets based on OpenRLHF and InternVL.
+- [MobileVLM](https://awesomecua.com/resources/github-xiaomi-mobilevlm/) — Date not recorded
+  MobileVLM is a vision-language model pre-trained on the Mobile3M UI transition graph for intra-screen and inter-screen mobile UI understanding.
+- [MP-GUI](https://awesomecua.com/resources/github-bigtaige-mp-gui/) — Date not recorded
+  MP-GUI provides multimodal perception training and evaluation code with graphical, textual, and spatial experts for GUI understanding.
 - [OmniParser v2 model bundle](https://awesomecua.com/resources/url-e21ca7c859544dbf5fb6/) — Date not recorded
   A screen-parsing weight bundle containing icon-region detectors and an icon captioner for converting screenshots into agent-readable interface elements.
+- [Pix2Struct](https://awesomecua.com/resources/github-google-research-pix2struct/) — Date not recorded
+  Pix2Struct provides official training and inference code for screenshot-parsing vision-language pretraining across web and mobile UI tasks.
 - [POINTS-GUI-G 8B](https://awesomecua.com/resources/url-cc931199bda2bdf1f5f7/) — Date not recorded
   A specialized interface-grounding checkpoint that returns normalized point coordinates for a requested element in a screenshot.
+- [Qwen3-VL / Qwen2.5-VL](https://awesomecua.com/resources/github-qwenlm-qwen3-vl/) — Date not recorded
+  Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
 - [SpiritSight-Agent 8B base](https://awesomecua.com/resources/url-52b7de0e43b1afc9c226/) — Date not recorded
   An InternVL2-based visual GUI checkpoint distributed for grounding and interface navigation, with the publisher recommending task-specific fine-tuning of the base release.
+- [Textual Foresight](https://awesomecua.com/resources/github-aburns4-textualforesight/) — Date not recorded
+  Textual Foresight pretrains UI representations by predicting textual descriptions of future screen states resulting from mobile UI actions.
 - [UIX-Qwen2](https://awesomecua.com/resources/url-54997a3c67e54abdf319/) — Date not recorded
   A MultiUI-trained visual-language checkpoint for text-rich webpage understanding and interface tasks.
+- [VGA (Vision GUI Assistant)](https://awesomecua.com/resources/github-linziyang1999-vision-gui-assistant/) — Date not recorded
+  Vision GUI Assistant (VGA) provides image-centric fine-tuning code and datasets to reduce hallucinations in vision-language GUI grounding.
 - [ZonUI-3B checkpoint](https://awesomecua.com/resources/url-c8c046847f829fea4821/) — Date not recorded
   Qwen2.5-VL-3B-based GUI grounding checkpoint that predicts click locations from screenshots and text instructions across desktop, mobile and web screens.
 
 ## Engineering & industry
 
+- [988hj7tczd-oss dsh-computer-use](https://awesomecua.com/resources/github-988hj7tczd-oss-dsh-computer-use/) — Date not recorded
+  Cross-platform DeepSeek Harness computer-use plugin featuring an independent virtual cursor, UI grounding, and desktop input.
+- [a11y-computer-use](https://awesomecua.com/resources/github-perception-dynamics-inc-a11y-computer-use/) — Date not recorded
+  Accessibility-first computer-use runtime that feeds pruned accessibility-tree snapshots to AI agents so they click semantic UI elements.
+- [Active Desktop Context Engine](https://awesomecua.com/resources/github-amirf147-active-desktop-context-engine/) — Date not recorded
+  Zero-cloud Windows OS perception layer and Model Context Protocol server streaming real-time desktop UI context to AI agents.
+- [Aegis-Agent (Privacy Firewall Browser Agent)](https://awesomecua.com/resources/github-lukan-lawslaf-aegis-agent/) — Date not recorded
+  Privacy-first browser agent framework that blurs faces and redacts PII in screenshots before sending observations to cloud LLMs.
+- [Aeyes (Voice Browser Assistant)](https://awesomecua.com/resources/github-evalutik-ai-partner-catalyst/) — Date not recorded
+  Aeyes is a voice-controlled Chrome extension assistant designed to help blind and visually impaired users navigate websites.
+- [afa-cloud desktop-gui-automation-cua](https://awesomecua.com/resources/github-afa-cloud-desktop-gui-automation-cua/) — Date not recorded
+  macOS desktop GUI automation skill built on `cua-driver` combining Accessibility trees with pixel-level fallback.
+- [Agent Cursor & GroundSight](https://awesomecua.com/resources/github-dwstar79-agent-cursor/) — Date not recorded
+  Accuracy engine for computer-use agents pairing a machine-readable cursor overlay (Agent Cursor) with local visual verification (GroundSight).
+- [Agent Eyes](https://awesomecua.com/resources/github-jumpsy-agent-eyes/) — Date not recorded
+  Visual inspection toolkit for AI agents that captures rendered screenshots and extracts live CSS design tokens from the DOM.
+- [agent-desktop](https://awesomecua.com/resources/github-lahfir-agent-desktop/) — Date not recorded
+  agent-desktop is a Rust CLI that exposes cross-platform OS accessibility trees and native UI actions as compact JSON for AI agents.
+- [agent-eyes](https://awesomecua.com/resources/github-mohanli-eng-agent-eyes/) — Date not recorded
+  MCP server and workflow skill giving Claude Code live visual and DOM inspection over the browser runtime.
+- [Agent-OS (J.A.R.V.I.S. macOS Harness)](https://awesomecua.com/resources/github-my-cmdhub-agent-os/) — Date not recorded
+  Voice-first macOS accessibility agent that reads screen state as structured text and verifies every GUI action.
+- [agent-seat-linux](https://awesomecua.com/resources/github-muhibnayem-agent-seat-linux/) — Date not recorded
+  Provides application-scoped Wayland screen capture and isolated input seats for Linux automation agents.
+- [agent-vision-toolkit](https://awesomecua.com/resources/github-anionex-agent-vision-toolkit/) — Date not recorded
+  Vision toolkit and skill pack equipping text-only LLMs with multi-image reading, UI reconstruction, and GUI automation.
+- [AgentCursor](https://awesomecua.com/resources/github-kumard3-agentcursor/) — Date not recorded
+  Reads macOS application windows as compact text affordances (~9 tokens per click) and drives a human-like virtual cursor over MCP.
+- [Agentic Browser](https://awesomecua.com/resources/github-applejuice093-agentic-browser/) — Date not recorded
+  Agent-first Python browser runtime providing stable element references, compact observations, outcome verification, and an MCP server.
+- [AgentOCR](https://awesomecua.com/resources/github-agentmaker-agentocr/) — Date not recorded
+  AgentOCR provides compact visual-token and OCR screen compression for accelerating GUI and computer-use agents.
+- [AgentP](https://awesomecua.com/resources/github-omerfeyzioglu-agentp-macos/) — Date not recorded
+  AgentP is a fast macOS computer-use agent where Gemini plans once and a local Jev System-One model executes steps via the Accessibility API.
+- [AgentScope Browser MCP](https://awesomecua.com/resources/github-nazocatai-agent-scope-browser/) — Date not recorded
+  AI-agent-dedicated browser MCP server providing semantic page observations and stable `element_id` interactions.
+- [AgentSeat](https://awesomecua.com/resources/github-vimalinx-agentseat/) — Date not recorded
+  Lightweight Wayland scaffold isolating an AI agent to operate a single GUI application inside its own virtual seat.
+- [AI Vision (Chrome Screenshot Assistant)](https://awesomecua.com/resources/github-stiwarilbj-ai-vision/) — Date not recorded
+  Chrome extension that captures selected webpage regions for Gemini visual analysis, OCR extraction, and contextual Q&A.
+- [AILEEN Desktop](https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/) — Date not recorded
+  Windows desktop AI assistant combining a Live2D interactive character with screen perception and desktop tool execution.
+- [Airi-PC Computer Mode Runtime](https://awesomecua.com/resources/github-arancione3000-airi-pc-bootstrap/) — Date not recorded
+  Local Computer Mode runtime and reproducible bootstrap for the Airi-PC desktop agent.
+- [AIVANE](https://awesomecua.com/resources/github-taiyouqu-aivane/) — Date not recorded
+  AIVANE is a cross-platform GUI automation assistant that combines YOLO icon detection, OCR, and multimodal LLMs for desktop control.
+- [Altairpaca DSH Computer Use for Windows](https://awesomecua.com/resources/github-altairpaca-dsh-computer-use-windows/) — Date not recorded
+  Windows computer-use plugin for DeepSeek Harness providing window-bound screenshots, OCR grounding, and verified clicks.
+- [amajorai Ghost Desktop MCP](https://awesomecua.com/resources/github-amajorai-ghost/) — Date not recorded
+  Desktop-automation Model Context Protocol server providing screen perception and mouse/keyboard input control for AI agents.
+- [amcu (Another macOS Computer Use)](https://awesomecua.com/resources/github-uoox-amcu/) — Date not recorded
+  Single-binary, dependency-free macOS computer-use tool that reads and drives Mac apps without stealing cursor or window focus.
+- [Android Device Perception Skill](https://awesomecua.com/resources/github-worksonmyvm-android-device-perception-skill/) — Date not recorded
+  Portable, read-only Android state-snapshot skill via ADB for AI coding and mobile agents.
+- [AndroidClaw](https://awesomecua.com/resources/github-xiuqianli1996-androidclaw/) — Date not recorded
+  Android-native LLM phone agent operating directly on-device via Android AccessibilityService and screen hierarchy parsing.
+- [AnimaWatch](https://awesomecua.com/resources/github-rishitank-animawatch/) — Date not recorded
+  FastMCP server that records webpage animations and uses vision models to detect frame drops, jank, and visual layout artifacts.
+- [Anionex DSH Computer Use](https://awesomecua.com/resources/github-anionex-dsh-computer-use/) — Date not recorded
+  macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility observations, stale-state rejection, and scoped permissions.
+- [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/resources/github-19pine-ai-aoi/) — Date not recorded
+  AOI provides an adaptive video and audio perception layer for computer-use agents alongside the DynaCU-Bench dynamic GUI benchmark.
+- [ApexCommander-RS](https://awesomecua.com/resources/github-buckster123-apexcommander-rs/) — Date not recorded
+  AT-SPI-first Linux computer-use CLI and Model Context Protocol server written in Rust.
+- [argos-eye](https://awesomecua.com/resources/github-xhae123-argos-eye/) — Date not recorded
+  argos-eye is a visual grounding skill and tool for Claude Code that resolves natural-language UI targets to verified pixel coordinates.
+- [Argus (macOS Vision-AX MCP Plugin)](https://awesomecua.com/resources/github-korisame-argus/) — Date not recorded
+  Claude Code MCP plugin providing 40 macOS automation tools with a unified Accessibility, AppleScript, and Vision OCR resolver.
+- [asdasdsdsdasdasdasd DSH Linux X11 Computer Use](https://awesomecua.com/resources/github-asdasdsdsdasdasdasd-dsh-computer-use/) — Date not recorded
+  Linux X11 computer-use plugin for DeepSeek Harness supporting screenshots, mouse/keyboard control, and window management.
+- [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/resources/github-sharryxr-asil/) — Date not recorded
+  ASIL replaces screenshot-and-click loops with structured application state observations and semantic action interfaces for CUA.
+- [Astra AI (Windows Gemini Live Assistant)](https://awesomecua.com/resources/github-chinmaybitne-astra-ai/) — Date not recorded
+  Voice-first Windows AI desktop assistant powered by Gemini Live with screen vision and system control.
+- [AstraClaw Agent Computer Use MCP](https://awesomecua.com/resources/github-astraclawteam-agent-computer-use-mcp/) — Date not recorded
+  Evidence-driven Windows Computer Use MCP server providing semantic UI observation, secure screenshots, and verified actions.
+- [Atlas Desktop Agent](https://awesomecua.com/resources/github-dortanes-atlas/) — Date not recorded
+  Atlas is a voice-and-screen desktop agent that observes active windows and executes mouse and keyboard actions.
+- [atlas-desktop](https://awesomecua.com/resources/github-abydin-atlas-desktop/) — Date not recorded
+  macOS desktop-control CLI that reads any application's UI hierarchy as structured JSON and dispatches native actions.
+- [Auto_OS](https://awesomecua.com/resources/github-jaswanth1902-auto-os/) — Date not recorded
+  Sub-30ms Windows desktop automation primitive using direct Win32 UI Automation tree traversal and native input injection.
+- [autourgos-cua-coordinate-tool](https://awesomecua.com/resources/github-devxjitin-autourgos-cua-coordinate-tool/) — Date not recorded
+  Vision-based UI coordinate localization tool for Autourgos computer-use agents.
+- [axcli](https://awesomecua.com/resources/github-andelf-axcli/) — Date not recorded
+  axcli is a Rust command-line tool for querying, inspecting, and automating macOS application UIs through the native Accessibility API.
+- [Axon](https://awesomecua.com/resources/github-gxcsoccer-axon/) — Date not recorded
+  macOS computer-use automation server and CLI exposing Accessibility API element control, AppleScript/JXA execution, and screenshots.
+- [AXTree API](https://awesomecua.com/resources/github-amaar-mc-axtree-api/) — Date not recorded
+  Event-driven macOS Accessibility tree streaming server and action bridge for computer-use agents.
+- [AzaiSakura dsh-computer-use (macOS)](https://awesomecua.com/resources/github-azaisakura-dsh-computer-use/) — Date not recorded
+  Re-implementation of the OpenAI macOS Computer Use plugin tailored for DeepSeek Harness.
+- [BeijingWahw DSH Computer Use Plugin](https://awesomecua.com/resources/github-beijingwahw-dsh-computer-use-plugin/) — Date not recorded
+  Full-featured desktop computer-use plugin for DeepSeek Harness supporting multi-display capture, OCR, and GUI actions.
+- [Better AX for Computer Use](https://awesomecua.com/resources/github-hqhq1025-better-ax-for-computer-use/) — Date not recorded
+  Better AX for Computer Use prunes and formats macOS Accessibility trees and injects Chromium/Electron AX flags for low-token GUI grounding.
+- [Better Computer Use](https://awesomecua.com/resources/github-suge8-better-computer-use/) — Date not recorded
+  macOS background desktop control CLI for AI agents supporting window discovery, Accessibility-tree reads, and focus-free input.
+- [Better Computer Use (Accessibility MCP)](https://awesomecua.com/resources/github-ridelink0-claude-computer-use/) — Date not recorded
+  Provides an accessibility-tree MCP server for Claude Code to inspect and operate Windows and macOS desktop applications without screenshots.
+- [BLAXIN](https://awesomecua.com/resources/github-tasinxxx-blaxin/) — Date not recorded
+  Open-source AI desktop agent for Linux that plans, executes, and verifies GUI and shell workflows.
+- [BraveCowNoFear Windows Computer Use](https://awesomecua.com/resources/github-bravecownofear-windows-computer-use/) — Date not recorded
+  Local Windows computer-use plugin for Codex combining UIA3 semantic trees, MCP tools, SendInput, and window capture.
+- [browsegrab](https://awesomecua.com/resources/github-arknill-browsegrab/) — Date not recorded
+  Token-efficient browser agent and MCP server for local LLMs combining Playwright, accessibility trees, and Markdown extraction.
+- [Browser Perception](https://awesomecua.com/resources/github-rounakkm-browser-perception/) — Date not recorded
+  Privacy-preserving browser perception framework that redacts sensitive PII from DOM trees and screenshots before LLM ingestion.
+- [Browser-Use Vision](https://awesomecua.com/resources/github-raidriar7170-browser-use-vision/) — Date not recorded
+  Vision-grounding plugin for browser-use combining Set-of-Mark overlays, Florence-2 detection, and Vision-DOM alignment.
+- [BRYES (Brain-Eyes)](https://awesomecua.com/resources/github-alvseek-bryes/) — Date not recorded
+  BRYES decouples a high-level reasoning planner ('Brain') from swappable visual perception and grounding backends ('Eyes') for computer use.
+- [BX Browser](https://awesomecua.com/resources/github-painbaba-bx-browser/) — Date not recorded
+  DOM-first, vision-capable autonomous browser agent that plans and executes multi-step web tasks.
+- [bytehunt br (Agent Browser CLI)](https://awesomecua.com/resources/github-bytehunt-br/) — Date not recorded
+  Agent-oriented browser CLI powered by Bun WebView with terminal Kitty graphics rendering.
+- [c-vision (DSH Vision & Computer Use Plugin)](https://awesomecua.com/resources/github-cczzyy-cn-c-vision/) — Date not recorded
+  Autonomous vision and computer-use plugin for DeepSeek Harness providing screen capture, OCR, window listing, and GUI input.
 - [CAAP Agent](https://awesomecua.com/resources/github-caap-agent-caap-agent/) — Date not recorded
   Screenshot-driven agent implementation for MiniWoB++ and WebShop, using a visual observer and context-aware prompts to issue mouse and keyboard actions.
+- [CalebNewtonUSC Nova (Mac Operator)](https://awesomecua.com/resources/github-calebnewtonusc-nova/) — Date not recorded
+  Autonomous macOS desktop operator that inspects screen state and drives native Mac applications.
+- [Camel AI (Visual QA Agent)](https://awesomecua.com/resources/github-dilawarshafiq-camel-ai/) — Date not recorded
+  Screen-driven QA agent that tests web and desktop applications through their rendered UI and hands off edge cases to humans.
+- [CanpGrid](https://awesomecua.com/resources/github-yeqi99-canpgrid/) — Date not recorded
+  CanpGrid provides an adaptive recursive image grid overlay for progressive coarse-to-fine visual localization by multimodal agents.
+- [CaptiOCR](https://awesomecua.com/resources/github-carlosacchi-captiocr/) — Date not recorded
+  CaptiOCR is a real-time Windows screen region OCR and text extraction tool powered by Tesseract for desktop workflows.
+- [CEL OSS (Computer Experience Layer)](https://awesomecua.com/resources/github-dimpagk92-cellar/) — Date not recorded
+  Computer Experience Layer (CEL) provides structured macOS perception contracts and an MCP server for native computer use.
+- [cellar (Context Execution Layer)](https://awesomecua.com/resources/github-dilipod-cellar/) — Date not recorded
+  cellar implements the Context Execution Layer (CEL), a structured context and action execution protocol for computer-use agents.
+- [chatgpt-desktop-mcp](https://awesomecua.com/resources/github-cantbeblank96-chatgpt-mcp/) — Date not recorded
+  Model Context Protocol server exposing the official Ubuntu/Linux ChatGPT Desktop app via 6 AT-SPI2 accessibility tools.
+- [chrome-eye](https://awesomecua.com/resources/github-trvux-chrome-eye/) — Date not recorded
+  Model Context Protocol server exposing 56 structured-JSON Chrome CDP tools to Claude Code as a fast alternative to screenshots.
+- [chromium-screenshots](https://awesomecua.com/resources/github-samestrin-chromium-screenshots/) — Date not recorded
+  Playwright-based MCP server and API that captures zero-drift Chromium screenshots paired with authenticated DOM state for vision agents.
+- [Claude Codex Computer Use](https://awesomecua.com/resources/github-songkeys-claude-codex-computer-use/) — Date not recorded
+  Bridge allowing Claude Code to invoke OpenAI Codex's native macOS Computer Use engine.
+- [Claude Linux Desktop MCP](https://awesomecua.com/resources/github-lukelamb-claude-linux-mcp/) — Date not recorded
+  Model Context Protocol extension giving Claude full Linux X11 desktop control across screenshots, windows, clipboard, and input.
+- [Clawd Cursor](https://awesomecua.com/resources/github-amrdab-clawdcursor/) — Date not recorded
+  Local MCP server that compiles desktop screens into stable UI element maps with action verification and safety guardrails.
+- [clef-use](https://awesomecua.com/resources/github-kotori0919-clef-use/) — Date not recorded
+  clef-use is a local computer-use runtime combining structured accessibility, SigLIP2 visual tile grounding, OmniParser, and MCP tools.
+- [Clevrr Computer](https://awesomecua.com/resources/github-clevrr-ai-clevrr-computer/) — Date not recorded
+  Clevrr Computer is a PyAutoGUI-based desktop automation agent that captures screenshots and executes mouse and keyboard actions from LLM plans.
+- [CLIF](https://awesomecua.com/resources/github-cmalpass-clif/) — Date not recorded
+  CLIF is a Windows desktop UI automation CLI and local MCP server for inspecting and driving WPF, WinForms, and WinUI applications.
 - [CoCo-Agent](https://awesomecua.com/resources/github-xbmxb-coco-agent/) — Date not recorded
   Research implementation combining screen and layout perception with conditional action prediction for smartphone automation.
+- [Codex Computer Use Lab](https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/) — Date not recorded
+  Documents and reproduces the macOS Computer Use architecture, SkyLight window capture, and Accessibility action dispatch in the Codex desktop app.
+- [codex-computer-use-x11](https://awesomecua.com/resources/github-alekseiseleznev-codex-computer-use-x11/) — Date not recorded
+  Standalone Rust CLI and Model Context Protocol plugin enabling Codex Computer Use on Linux Cinnamon/X11 desktops.
+- [CompBuddy](https://awesomecua.com/resources/github-lewiswlker-compbuddy/) — Date not recorded
+  CompBuddy is a background macOS computer-use agent that observes target windows and dispatches Accessibility and CGEvent actions without stealing focus.
+- [Computer Use AI SDK](https://awesomecua.com/resources/github-mediar-ai-mcp-server-client-computer-use-ai-sdk/) — Date not recorded
+  Computer Use AI SDK provides an MCP server and client that drives desktop applications through native OS accessibility trees.
+- [Computer Use Vision (DSH Windows Plugin)](https://awesomecua.com/resources/github-xuanyuanluoxue-computer-use-vision/) — Date not recorded
+  Windows desktop visual recognition and simulated input plugin for DeepSeek Harness.
+- [computer-use-fallback-mac](https://awesomecua.com/resources/github-zss03040464-computer-use-fallback-mac/) — Date not recorded
+  Window-scoped macOS Computer Use MCP server providing background window capture and Accessibility control without foreground focus.
+- [computer-use-grid](https://awesomecua.com/resources/github-yxdgyxlf-computer-use-grid/) — Date not recorded
+  Enhances desktop clicking precision for AI computer-use agents via screenshot grid overlays and iterative zoom refinement.
+- [computer-use-linux](https://awesomecua.com/resources/github-agent-sh-computer-use-linux/) — Date not recorded
+  Native Linux desktop control server for AI agents over MCP, Pi tools, and CLI with semantic AT-SPI trees and screenshots.
+- [Control-Agent](https://awesomecua.com/resources/github-gekaixing-control-agent/) — Date not recorded
+  Unified multimodal control framework combining pure-vision desktop operation, structured DOM browser control, and ADB mobile automation.
+- [CrossHands](https://awesomecua.com/resources/github-caelaxie-crosshands/) — Date not recorded
+  Local computer-use runtime for coding agents exposing desktop inspection and input actions via a JSON CLI and stdio MCP.
+- [cu (Native GUI Automation CLI)](https://awesomecua.com/resources/github-killsng-cu/) — Date not recorded
+  Native GUI automation CLI written in Swift (macOS) and Rust (Windows) for ~50ms state reads and ~100ms clicks.
+- [cua-rs-mcp](https://awesomecua.com/resources/github-maestrojeong-cua-rs-mcp/) — Date not recorded
+  Rust Model Context Protocol server that drives native macOS apps through the Accessibility API without moving the user's cursor.
+- [Cursor Companion (MacScreenCompanion)](https://awesomecua.com/resources/github-pradyut-das-macscreencompanion/) — Date not recorded
+  Native screen-aware macOS AI assistant invoked via hotkey to inspect and act on whatever is currently on screen.
+- [CyberRaccoon](https://awesomecua.com/resources/github-chaoticpixelio-cyberraccoon/) — Date not recorded
+  Non-invasive physical computer-use agent that captures HDMI video and dispatches USB HID mouse and keyboard actions from a Raspberry Pi.
+- [dcc-cua](https://awesomecua.com/resources/github-dcc-mcp-dcc-cua/) — Date not recorded
+  Cross-platform Rust runtime and CLI for AI agents to observe and control scoped desktop application windows.
+- [DeepSeek Harness Mac Control](https://awesomecua.com/resources/github-18126295767-cell-dsh-mac-control/) — Date not recorded
+  macOS control plugin for DeepSeek Harness enabling browser tab inspection, app switching, and desktop GUI actions.
+- [DeepSeekEyes](https://awesomecua.com/resources/github-dttxorg-deepseekeyes/) — Date not recorded
+  Auditable vision and cross-platform computer-use runtime for DeepSeek Harness with cryptographic evidence receipts.
+- [DEIMOS (Environment-Aware Computer Agent)](https://awesomecua.com/resources/github-sakshamjuneja007-freaky-monkey/) — Date not recorded
+  Environment-aware autonomous computer-use agent that perceives OS state and executes multi-step desktop workflows.
+- [DeskCanvas](https://awesomecua.com/resources/github-sorry123luck-desk-canvas/) — Date not recorded
+  DeskCanvas converts live Windows application windows into structured semantic state with guarded action execution for AI agents.
+- [DeskCtl (Desktop Control Engine)](https://awesomecua.com/resources/github-mini-mind-deskctl/) — Date not recorded
+  Desktop control engine for GUI agents using UIA and AT-SPI accessibility trees as the primary path with visual fallback.
+- [deskpal](https://awesomecua.com/resources/github-b1tank-deskpal/) — Date not recorded
+  C-native Linux desktop-control MCP server supporting X11/Xwayland, AT-SPI accessibility trees, OCR, and isolated displays.
+- [Desktop Action Agent](https://awesomecua.com/resources/github-dax0056-desktop-action-agent/) — Date not recorded
+  Sandboxed local computer-automation agent reference architecture with window detection and action verification.
+- [Desktop Agent](https://awesomecua.com/resources/github-ruslankoroy-desktop-agent/) — Date not recorded
+  Desktop Agent controls a local computer via screenshot grid overlays, OCR text detection, voice commands, and mouse/keyboard execution.
+- [Desktop Pilot MCP](https://awesomecua.com/resources/github-versoxbt-desktop-pilot-mcp/) — Date not recorded
+  Native macOS Accessibility MCP server giving Claude and MCP clients low-latency structured control over desktop applications.
+- [desktop-touch-mcp](https://awesomecua.com/resources/github-harusame64-desktop-touch-mcp/) — Date not recorded
+  Windows computer-use MCP server that drives desktop applications via semantic discover-then-act UI Automation targeting.
+- [DesktopCtl](https://awesomecua.com/resources/github-yaroshevych-desktopctl/) — Date not recorded
+  GPU-accelerated local macOS CLI for AI agents to inspect screen text/controls and dispatch mouse and keyboard actions.
+- [DH.Window.UITool](https://awesomecua.com/resources/github-cyberkdh-dh-window-uitool/) — Date not recorded
+  Windows UI Automation inspection and scripting tool for analyzing UI element trees and building repeatable desktop workflows.
+- [Domstamp](https://awesomecua.com/resources/github-zuub-don-domstamp/) — Date not recorded
+  Framework-neutral browser-state snapshotter capturing compact, diffable DOM and accessibility states for AI web agents.
+- [DrishtiGuard](https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/) — Date not recorded
+  On-device visual privacy firewall that detects and masks sensitive screen regions before lightweight browser agents process frames.
+- [Drisp Browser MCP](https://awesomecua.com/resources/github-drisplabs-browser-mcp/) — Date not recorded
+  Drisp Browser is a token-efficient browser automation MCP server exposing compact semantic page snapshots and stateful actions.
+- [DSH Desktop Operator](https://awesomecua.com/resources/github-zjh02249-dsh-desktop-operator/) — Date not recorded
+  Safe Windows computer-use plugin for DeepSeek Harness providing window-scoped desktop automation and verification.
+- [dsh-browser-playwright](https://awesomecua.com/resources/github-chenyuheee-dsh-browser-playwright/) — Date not recorded
+  Snapshot-first Playwright browser automation plugin for DeepSeek Harness using accessibility-tree interactions.
+- [dsh-browser-vision](https://awesomecua.com/resources/github-tristan-mcinnis-dsh-browser-vision/) — Date not recorded
+  Vision-enabled browser automation plugin for DeepSeek Harness combining Browser-Use actions with page screenshot inspection.
+- [dsh-click](https://awesomecua.com/resources/github-perrylink-dsh-click/) — Date not recorded
+  Cross-platform native desktop control plugin for DeepSeek Harness supporting screenshots, UI element search, and mouse/keyboard actions.
+- [dsh-cua](https://awesomecua.com/resources/github-hutusion-dsh-cua/) — Date not recorded
+  Client-neutral Windows computer-use MCP server for DeepSeek Harness exposing UI Automation, screenshots, and desktop input tools.
+- [dsh-nuphus-mcp](https://awesomecua.com/resources/github-mrpulor-gh-dsh-nuphus-mcp/) — Date not recorded
+  DeepSeek Harness plugin that mounts `nuphus-mcp` desktop control tools natively inside DSH sessions.
+- [dsh-vision-click](https://awesomecua.com/resources/github-zdd3143-dsh-vision-click/) — Date not recorded
+  Windows computer-use plugin for DeepSeek Harness using offline `Windows.Media.Ocr` text localization and pre/post-click pixel verification.
+- [dsh_omnivision (OmniVision)](https://awesomecua.com/resources/github-xiaozhengdeng-dsh-omnivision/) — Date not recorded
+  OmniParser-powered GUI agent plugin for DeepSeek Harness providing screen element detection and desktop mouse/keyboard automation.
+- [Dunst (macOS Affordance-Graph MCP)](https://awesomecua.com/resources/github-azerozero-dunst/) — Date not recorded
+  Accessibility-first affordance-graph MCP server for macOS combining AX trees, Apple Vision OCR, and computer vision.
+- [DXcam](https://awesomecua.com/resources/github-ra1nty-dxcam/) — Date not recorded
+  DXcam is a high-frequency Python screen capture library for Windows using the Desktop Duplication API at up to 240Hz for GUI agents.
+- [ecobrowser (ai-browser)](https://awesomecua.com/resources/github-haidaresber-ai-browser/) — Date not recorded
+  AI-native browser framework with structured page perception, token-efficient state representation, and deterministic action tools.
+- [ESP (Echo-Skeleton Perception)](https://awesomecua.com/resources/github-badtheorylabs-esp/) — Date not recorded
+  Stateful, event-driven screen-perception runtime that converts UI changes into compact text events for text-only computer-use agents.
+- [ExactMac](https://awesomecua.com/resources/github-joeycumines-exactmac/) — Date not recorded
+  ExactMac provides local, Accessibility-first macOS desktop automation over MCP using a Swift gRPC host and Go MCP server.
+- [eyehands](https://awesomecua.com/resources/github-shameindemgg-eyehands/) — Date not recorded
+  Local HTTP server for Windows that provides low-latency UI Automation inspection and input execution for computer-use agents.
+- [FastCUA](https://awesomecua.com/resources/github-guojiz-fastcua/) — Date not recorded
+  Local, accessibility-first Windows control plane for AI agents exposing structured UI trees and multi-action execution.
+- [faster-browser-agent](https://awesomecua.com/resources/github-mikastiebitz-faster-browser-agent/) — Date not recorded
+  Fast MCP browser server for AI agents that navigates complex web apps by reading accessibility trees and application source.
+- [Fazm](https://awesomecua.com/resources/github-mediar-ai-fazm/) — Date not recorded
+  Fazm is a native macOS desktop and browser agent that observes screen state via Accessibility/OCR and automates cross-application workflows.
+- [FlowPilot Engine](https://awesomecua.com/resources/github-pensefact-flowpilot-engine/) — Date not recorded
+  Hybrid AI browser automation engine combining Claude's visual Computer Use API with deterministic Playwright execution.
+- [Front-End Operation Master (FEOM)](https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/) — Date not recorded
+  Windows native UI automation framework and MCP server operating over UIA trees with zero vision tokens and ~3.9ms action latency.
+- [GAZE](https://awesomecua.com/resources/github-kevintrinhdev-gaze/) — Date not recorded
+  Vision-first browser controller that observes and drives an already logged-in Chrome window.
+- [GenPark DOM Accessibility Tree Pruner Skill](https://awesomecua.com/resources/github-alpha-park-genpark-dom-semantic-accessibility-tree-pruner-skill/) — Date not recorded
+  Agent skill that compresses raw HTML DOM trees into token-efficient semantic accessibility snapshots.
+- [Geohotstan DSH Codex Computer Use](https://awesomecua.com/resources/github-geohotstan-dsh-computer-use/) — Date not recorded
+  macOS computer-use plugin for DeepSeek Harness providing app listing, Accessibility-tree window capture, and GUI input.
+- [Ghost (macOS Accessibility CLI)](https://awesomecua.com/resources/github-tylergibbs1-ghost/) — Date not recorded
+  Swift CLI and MCP tool that reads the native macOS Accessibility tree to expose GUI-only applications to AI agents.
+- [Ghost (Non-Interfering macOS CUA)](https://awesomecua.com/resources/github-fletcherholt-ghost/) — Date not recorded
+  Invisible, non-interfering macOS computer-use tool for Claude Code that drives native Mac apps in the background.
+- [Ghost Semantic OS](https://awesomecua.com/resources/github-zainmfjavaid-ghost-semantic-os/) — Date not recorded
+  Ghost Semantic OS provides a text-only semantic accessibility runtime for operating Linux desktop applications in OSWorld without screenshots.
+- [Ghosthand](https://awesomecua.com/resources/github-ameerhmz-ghosthand/) — Date not recorded
+  Ghosthand is a low-latency local voice and computer-use agent for Apple Silicon macOS powered by Laya models and native Accessibility APIs.
+- [GhostHands](https://awesomecua.com/resources/github-georgenijo-ghosthands/) — Date not recorded
+  Local Apple Silicon MLX computer-use bridge that drives native macOS apps via the Accessibility API without stealing the physical cursor.
+- [Glasswarp MCP Server](https://awesomecua.com/resources/github-glasswarp-mcp-server/) — Date not recorded
+  Remote Model Context Protocol server for observing and controlling physical or virtual Windows PCs via Glasswarp.
+- [Glasswarp Python SDK](https://awesomecua.com/resources/github-glasswarp-python-sdk/) — Date not recorded
+  Python SDK for the Glasswarp platform enabling AI agents to observe and control remote or local Windows PCs.
+- [gnome-wayland-computer-use](https://awesomecua.com/resources/github-ryanraposo-gnome-wayland-computer-use/) — Date not recorded
+  Computer-use bridge for driving Linux GNOME Wayland desktop sessions.
+- [godzilaa browser-agent Extension](https://awesomecua.com/resources/github-godzilaa-browser-agent/) — Date not recorded
+  Chrome Manifest V3 extension that converts any live webpage into structured JSON and executes agent actions.
+- [GoldenCut](https://awesomecua.com/resources/github-silbercue-goldencut/) — Date not recorded
+  Claude Code skill that measures live browser UI layouts and returns concrete golden-ratio spacing and typography fixes.
+- [GPT-4V-Act](https://awesomecua.com/resources/github-ddupont808-gpt-4v-act/) — Date not recorded
+  GPT-4V-Act combines Chromium DOM auto-labeling and Set-of-Mark visual prompting to drive web browser interactions with multimodal LLMs.
+- [gpuview](https://awesomecua.com/resources/github-onlyterp-gpuview/) — Date not recorded
+  GPU-native Windows screen perception tool capturing frames directly from the DXGI Desktop Duplication compositor handoff for AI agents.
+- [Grasp MCP](https://awesomecua.com/resources/github-jamshed7470-grasp-mcp/) — Date not recorded
+  Model Context Protocol server giving Claude and MCP clients full desktop screen vision and mouse/keyboard control.
+- [GUI Object Detection Benchmark & Models](https://awesomecua.com/resources/github-chenjshnn-object-detection-for-graphical-user-interface/) — Date not recorded
+  Provides training and evaluation code comparing classical and deep-learning GUI element detectors alongside the hybrid UIED model.
+- [hanzhangzzz dsh-computer-use](https://awesomecua.com/resources/github-hanzhangzzz-dsh-computer-use/) — Date not recorded
+  Structure-first browser and desktop computer-use plugin for DeepSeek Harness.
+- [Hemi](https://awesomecua.com/resources/github-piuqiupiaqia-hemi/) — Date not recorded
+  Desktop AI assistant for macOS and Windows featuring voice interaction, screen awareness, and local tool execution.
+- [hermes-hyprland-plugin](https://awesomecua.com/resources/github-xcaptain09-hermes-hyprland-plugin/) — Date not recorded
+  C++ Hyprland Wayland compositor plugin and Python D-Bus AT-SPI coordinate-fusion bridge for zero-mouse-stealing Linux GUI agents.
+- [HeySnap](https://awesomecua.com/resources/github-dhamani-aryan-heysnap/) — Date not recorded
+  AI-first workspace for capturing files, documents, and live browser context into structured agent memory.
+- [hfyydd dsh-cua](https://awesomecua.com/resources/github-hfyydd-dsh-cua/) — Date not recorded
+  DeepSeek Harness computer-use plugin backed by the `cua-driver` daemon for accessibility-first desktop automation.
+- [Hikari (光)](https://awesomecua.com/resources/github-codewithevilxd-hikari/) — Date not recorded
+  Autonomous AI desktop agent for Windows capable of GUI control, system management, and multi-step task execution.
+- [HumanAIE (Human AI Eyes)](https://awesomecua.com/resources/github-datboip-humanaie/) — Date not recorded
+  HumanAIE is a shared browser workspace for human-AI collaboration where users highlight visual regions and co-steer web agents.
+- [HumanHands](https://awesomecua.com/resources/github-thispc-humanhands/) — Date not recorded
+  macOS computer-use agent that combines Accessibility-tree semantics with visual fallback to operate Mac apps like a human.
+- [Hunch MCP](https://awesomecua.com/resources/github-prithviseran-hunch-mcp/) — Date not recorded
+  Focus-free background macOS automation MCP server combining OS APIs, AppleScript, Chrome CDP, and Accessibility trees.
+- [hwatu](https://awesomecua.com/resources/github-hongnoul-hwatu/) — Date not recorded
+  Headless verification browser for AI coding agents featuring 35ms one-call UI checks and pixel diffing.
+- [hypr-computer-use-mcp](https://awesomecua.com/resources/github-smirnov-labs-hypr-computer-use-mcp/) — Date not recorded
+  Hyprland/Wayland computer-use MCP server combining screenshot/click/type tools with tmux and CDP integration.
+- [hyprhands](https://awesomecua.com/resources/github-berker-z-hyprhands/) — Date not recorded
+  Hyprland Wayland computer-use MCP server giving AI agents semantic and pixel-level desktop control.
+- [hypruse](https://awesomecua.com/resources/github-ilyaskhallouki-hypruse/) — Date not recorded
+  Model Context Protocol server giving AI agents native window, input, and screenshot control on Linux Hyprland Wayland desktops.
+- [iphone-use](https://awesomecua.com/resources/github-leeguooooo-iphone-use/) — Date not recorded
+  MCP server and CLI that lets Claude Code, Codex, and MCP agents read real iPhone screens as structured text and execute taps/swipes.
+- [IrisGUI](https://awesomecua.com/resources/github-black-yt-irisgui/) — Date not recorded
+  IrisGUI is a cross-platform desktop GUI agent that perceives screens and automates mouse and keyboard workflows.
+- [jarvis-eyes-mcp](https://awesomecua.com/resources/github-harshil1502-jarvis-eyes-mcp/) — Date not recorded
+  macOS-native Model Context Protocol server for low-latency desktop awareness combining Accessibility tree extraction and screenshots.
+- [JasonWei04 dsh-computer-use](https://awesomecua.com/resources/github-jasonwei04-dsh-computer-use/) — Date not recorded
+  Equips text-only LLMs in DeepSeek Harness with desktop screen perception and mouse/keyboard control.
+- [jev-windows-agent](https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/) — Date not recorded
+  jev-windows-agent pairs Windows UI Automation inspection with a fast Jev System-One decision loop for low-latency desktop control.
+- [jing-hy computer-user (DSH Windows Plugin)](https://awesomecua.com/resources/github-jing-hy-computer-user/) — Date not recorded
+  Codex-style Windows computer-use plugin for DeepSeek Harness supporting screen reading and mouse/keyboard input.
+- [jmeguilos Computer Use MCP](https://awesomecua.com/resources/github-jmeguilos-computer-use-mcp/) — Date not recorded
+  Window-scoped macOS computer-use server over local stdio MCP using native ScreenCaptureKit and Accessibility APIs.
+- [Kagami Desktop (鏡)](https://awesomecua.com/resources/github-gytxtx-kagami-desktop/) — Date not recorded
+  Windows native CLI and MCP tool for desktop window observation, UI Automation control-tree parsing, and input interaction.
+- [kde-mcp](https://awesomecua.com/resources/github-atassis-kde-mcp/) — Date not recorded
+  Model Context Protocol server for observing and controlling Linux KDE Plasma 6 Wayland desktops.
+- [kimi-cu-pi](https://awesomecua.com/resources/github-johndfowler-kimi-cu-pi/) — Date not recorded
+  Extension connecting Kimi Computer Use (KimiCU) visual grounding and action capabilities to the Pi coding agent.
+- [kwin-mcp](https://awesomecua.com/resources/github-isac322-kwin-mcp/) — Date not recorded
+  Model Context Protocol server for Linux KDE Plasma 6 Wayland desktop GUI automation providing 29 tools for virtual KWin sessions, AT-SPI, and input.
+- [Label Controllers](https://awesomecua.com/resources/github-amywlp-label-controllers/) — Date not recorded
+  Label Controllers is a screenshot-to-controls API combining YOLO widget detection and RapidOCR with OpenAI/Anthropic computer-use tool schemas.
+- [LAI (Linux Native OS Agent)](https://awesomecua.com/resources/github-cufelix-lai/) — Date not recorded
+  Native OS agent runtime for Linux desktops providing system-wide screen observation, accessibility inspection, and input control.
+- [Larker](https://awesomecua.com/resources/github-qiadastrachen-bit-larker/) — Date not recorded
+  Larker is a vision-driven Windows desktop agent that automates GUI clients lacking DOM or Accessibility APIs via VLM grounding.
+- [LibreAutomate](https://awesomecua.com/resources/github-qgindi-libreautomate/) — Date not recorded
+  LibreAutomate is a C# script editor and Windows automation library supporting UI Automation, accessibility trees, image matching, and OCR.
+- [Linux CUA (5omeotherguy)](https://awesomecua.com/resources/github-5omeotherguy-linux-computer-use/) — Date not recorded
+  Linux desktop toolkit for computer-use agents providing isolated X11 workspaces, window capture, and input synthesis.
+- [linux-computer-use](https://awesomecua.com/resources/github-tak-uukti-linux-computer-use/) — Date not recorded
+  Linux/X11 computer-use toolkit and MCP server combining AT-SPI semantic trees, screenshots, and input control for coding agents.
+- [linux-use](https://awesomecua.com/resources/github-javimosch-linux-use/) — Date not recorded
+  Agent-first, CLI-first GUI control toolkit for Linux desktops operating over the AT-SPI2 accessibility tree.
+- [LKO Mark 3.4](https://awesomecua.com/resources/github-shubhransh-gupta-lko-mark-3-4/) — Date not recorded
+  Autonomous macOS desktop assistant with voice interaction, screen vision, and native AppleScript/system control.
+- [LOCR (Lightweight OCR)](https://awesomecua.com/resources/github-dmzlingyin-locr/) — Date not recorded
+  LOCR is a lightweight cross-platform clipboard and screen OCR utility based on RapidOCR.
+- [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/) — Date not recorded
+  Drives live web applications over CDP through a closed-loop visual look-decide-act cycle rather than brittle script replay.
+- [Lucy Screen Agent](https://awesomecua.com/resources/github-alzin-lucy-screen-agent/) — Date not recorded
+  Lucy is a voice-and-screen Android agent that perceives live app screens with Gemini vision and executes taps, swipes, and text input.
+- [mac-use-mcp](https://awesomecua.com/resources/github-antbotlab-mac-use-mcp/) — Date not recorded
+  Zero-dependency macOS desktop automation MCP server exposing 18 tools for Accessibility inspection, screenshots, and input control.
+- [MacControlKit](https://awesomecua.com/resources/github-tzafon-maccontrolkit/) — Date not recorded
+  MacControlKit is a Swift package by Tzafon for capturing macOS screens and dispatching native mouse and keyboard events.
+- [macMCP](https://awesomecua.com/resources/github-erwinzhang7-macmcp/) — Date not recorded
+  macOS Model Context Protocol server with per-application permission gating, Accessibility tree inspection, screenshots, and UI control.
+- [macOS Computer Use MCP Server (33 Tools)](https://awesomecua.com/resources/github-syedazharmbnr1-computer-use-mcp/) — Date not recorded
+  Python Model Context Protocol server exposing 33 tools for macOS screen capture, Accessibility inspection, and input control.
+- [macOS Visual Agent](https://awesomecua.com/resources/github-peakmojo-macos-visual-agent/) — Date not recorded
+  macOS Visual Agent inspects native Apple Accessibility trees, detects UI elements, and executes coordinate-accurate clicks on macOS.
+- [macOS-MCP](https://awesomecua.com/resources/github-cursortouch-macos-mcp/) — Date not recorded
+  Lightweight Model Context Protocol server for macOS computer use providing Accessibility tree traversal, screenshots, and input simulation.
+- [macOS-Use](https://awesomecua.com/resources/github-jeomon-macos-use/) — Date not recorded
+  macOS-Use is a GUI desktop agent that reads the macOS Accessibility tree and executes multi-step application workflows.
+- [MacosUseSDK](https://awesomecua.com/resources/github-mediar-ai-macosusesdk/) — Date not recorded
+  MacosUseSDK is a Swift library and CLI for traversing the macOS accessibility tree and simulating native mouse and keyboard input.
+- [macpilot-mcp](https://awesomecua.com/resources/github-passerby2049-macpilot-mcp/) — Date not recorded
+  macOS Model Context Protocol server for capturing displays, reading Accessibility trees, and invoking native UI actions.
+- [MacWork](https://awesomecua.com/resources/github-gklab-macwork/) — Date not recorded
+  MacWork is an open-source macOS computer-use agent and MCP server that drives desktop applications through the native Accessibility API.
+- [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/resources/github-mapleluvr-cu/) — Date not recorded
+  Evidence-bound computer-use CLI for Windows that pairs every UI action with pre/post window observations.
+- [Marey](https://awesomecua.com/resources/github-badalraj9-marey/) — Date not recorded
+  Marey is a modular perception engine for computer-use agents that tracks screen changes and extracts UI elements with minimal model calls.
+- [MarkForge](https://awesomecua.com/resources/github-lannistersyh-markforge/) — Date not recorded
+  MarkForge provides deterministic, auditable Set-of-Mark badge rendering and coordinate resolution for multimodal GUI agents.
+- [Marvi OS](https://awesomecua.com/resources/github-xretr00-marvi-os/) — Date not recorded
+  Conversational desktop agent shell that observes screen context and executes local OS and GUI actions.
+- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/) — Date not recorded
+  Ambient-intelligent macOS computer-use desktop client and personal AI operating environment.
+- [MAWR (Machine-Aware Web Runtime)](https://awesomecua.com/resources/github-iasolutionorg-mawr/) — Date not recorded
+  Open-source, Chromium-free lightweight web runtime engineered specifically for machines and AI web agents.
+- [MCP Virtual Cursor](https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/) — Date not recorded
+  macOS computer-use MCP server that operates applications via Accessibility actions and a virtual cursor without hijacking the physical mouse.
+- [mcp-linux-desktop](https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-linux-desktop/) — Date not recorded
+  Model Context Protocol server for full Linux desktop control spanning windows, mouse, keyboard, clipboard, audio, OCR, and accessibility.
+- [MEGA-GUI](https://awesomecua.com/resources/github-samsungsds-research-papers-mega-gui/) — Date not recorded
+  MEGA-GUI implements a multi-stage GUI grounding pipeline combining candidate region proposal, iterative zoom-in, and element localization.
+- [midscene-pc](https://awesomecua.com/resources/github-mofangbao-midscene-pc/) — Date not recorded
+  midscene-pc extends Midscene.js to local and remote PC desktops, enabling natural-language GUI automation across Windows, Linux, and macOS.
+- [Miiiuser dsh-browser-agent](https://awesomecua.com/resources/github-miiiuser-dsh-browser-agent/) — Date not recorded
+  Playwright browser automation and vision grounding toolkit for text-only LLMs on DeepSeek Harness.
+- [Milli-Agent](https://awesomecua.com/resources/github-abdullah-al-raju-milli-agent/) — Date not recorded
+  Milli-Agent is a real-time computer-use agent architecture designed for high-frequency in-memory screen capture and low-latency actuation.
+- [MindsEye (dsh-mindseye)](https://awesomecua.com/resources/github-kanchengw-dsh-mindseye/) — Date not recorded
+  Vision plugin for text-only models on DeepSeek Harness enabling interactive image and UI screenshot inspection.
+- [mllm](https://awesomecua.com/resources/github-ubiquitouslearning-mllm/) — Date not recorded
+  mllm is a C++ multimodal LLM inference engine optimized for on-device execution on mobile NPU/CPU hardware.
+- [MobileClaw](https://awesomecua.com/resources/github-eggbrid2-mobileclaw/) — Date not recorded
+  MobileClaw is an open Android AI agent runtime for phone control, VLM screen reading, and reusable mobile skill execution.
 - [Mobilerun Portal (formerly Droidrun Portal)](https://awesomecua.com/resources/github-droidrun-mobilerun-portal/) — Date not recorded
   An Android accessibility service that exposes UI-element inspection, device-control interfaces and screen feedback to mobile automation agents.
+- [MVP (Multiple View Prediction)](https://awesomecua.com/resources/github-zjuscl-mvp/) — Date not recorded
+  MVP improves GUI visual grounding by aggregating multi-view coordinate predictions across aspect-ratio and resolution transformations.
+- [my_tiny_agent](https://awesomecua.com/resources/github-yanjin101-my-tiny-agent/) — Date not recorded
+  Spec-driven small-LLM desktop agent that operates Windows end-to-end using OCR, YOLO icon detection, and Win32 APIs without a VLM.
+- [nanbbb dsh-computer-use-windows](https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/) — Date not recorded
+  Windows computer-use plugin for DeepSeek Harness combining window discovery, UI Automation inspection, and input synthesis.
+- [Navisual](https://awesomecua.com/resources/github-navisualguide-navisual/) — Date not recorded
+  Navisual is a non-intrusive visual desktop guide that observes the screen and highlights where the user should click next.
+- [NeuroSight (QiraBot Vision Runtime)](https://awesomecua.com/resources/github-vthanhhdev-qirabot-vision-runtime/) — Date not recorded
+  Selector-free AI vision automation runtime for desktop applications, mobile screens, and games.
+- [NextGen macOS Computer-Use Agent](https://awesomecua.com/resources/github-nextgen-agentics-computer-use-agent/) — Date not recorded
+  macOS desktop automation agent using a 5-layer perception cascade from native Accessibility trees to OCR and VLM grounding.
+- [NirvanaX AutoAgent](https://awesomecua.com/resources/github-sayantanthecmd-nirvanax-autoagent/) — Date not recorded
+  Multimodal personal AI assistant for Windows that combines voice input, screen vision, and desktop control.
+- [NormCap](https://awesomecua.com/resources/github-dynobo-normcap/) — Date not recorded
+  NormCap is a cross-platform OCR screen-capture tool that extracts text directly from selected screen regions on Linux, macOS, and Windows.
+- [NORTHTEK Ghost](https://awesomecua.com/resources/github-northtekdevs-ghost/) — Date not recorded
+  Provides verified desktop control for AI agents on Windows and Linux across native GUI applications lacking APIs.
+- [Nova (Rust Cross-Platform CUA MCP)](https://awesomecua.com/resources/github-bigduu-nova/) — Date not recorded
+  Cross-platform Rust computer-use MCP server for macOS and Windows combining AX/UIA accessibility trees, screenshots, OCR, and input.
+- [NOVA Computer Use](https://awesomecua.com/resources/github-theodorebeaupre-prog-nova-computer-use/) — Date not recorded
+  Native, local-first macOS Computer Use runtime for Codex on both Intel and Apple Silicon Macs.
+- [nuphus-mcp](https://awesomecua.com/resources/github-mrpulor-gh-nuphus-mcp/) — Date not recorded
+  Cross-platform desktop automation MCP server for controlling screens, windows, mouse, and keyboard.
+- [O-yuan (启原) v3.0](https://awesomecua.com/resources/github-znfr60-o-yuan-agent/) — Date not recorded
+  Cross-platform general-purpose agent equipped with 28+ built-in tools, multi-model deliberation, GUI automation, and persistent shell.
+- [Ocular](https://awesomecua.com/resources/github-guatxlabs-ocular/) — Date not recorded
+  Hardened web capture and hostile-HTML analysis engine with anti-bot reconnaissance for browser agents.
+- [Odin](https://awesomecua.com/resources/github-madanlalit-odin/) — Date not recorded
+  Odin is a macOS computer automation agent combining vision LLMs, Accessibility context extraction, and native input control.
+- [Offhand](https://awesomecua.com/resources/github-humzakhan-offhand/) — Date not recorded
+  Offhand is an offline, accessibility-first desktop agent for macOS and Windows powered by compact local vision-language models.
+- [Okno Windows Computer Use MCP](https://awesomecua.com/resources/github-vitalcc55-okno/) — Date not recorded
+  Windows-native Model Context Protocol runtime for AI agents providing desktop window inspection, OCR, and input control.
+- [Omarchy OMCP](https://awesomecua.com/resources/github-btsouth-omarchy-omcp/) — Date not recorded
+  Exposes an Omarchy Linux desktop session as a live, watchable Model Context Protocol server for AI agents.
+- [Ommatix](https://awesomecua.com/resources/github-yosoyepa-ommatix/) — Date not recorded
+  Ommatix is an incremental spatial-indexing perception engine that tracks stable UI element IDs and state diffs across desktop frames.
+- [omni-computer-use](https://awesomecua.com/resources/github-jason26214-omni-computer-use/) — Date not recorded
+  Windows computer-use Model Context Protocol server replicating Claude Desktop's computer-use tool surface.
+- [OmniInfer](https://awesomecua.com/resources/github-omnimind-ai-omniinfer/) — Date not recorded
+  OmniInfer is a local LLM and VLM inference engine with OpenAI-compatible APIs for desktop and edge agents.
 - [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) — Date not recorded
   Screenshot parser that detects interactable regions and captions icons so vision-language models can ground actions, released as V1.5 and V2 weights alongside OmniTool for driving a Windows 11 VM.
+- [OmniParser MCP Server](https://awesomecua.com/resources/github-cute-aaa-omniparser-mcp/) — Date not recorded
+  OmniParser MCP Server wraps Microsoft OmniParser V2 into a Model Context Protocol server that converts screenshots into structured UI elements.
+- [Open Codex Computer History](https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/) — Date not recorded
+  Clean-room macOS implementation of event-stream interaction recording using Accessibility hit-testing, CGEvent taps, and SkyLight window snapshots.
+- [Open Frame](https://awesomecua.com/resources/github-off-camber-open-frame/) — Date not recorded
+  Deterministic desktop automation engine for AI agents implementing a capture-recognize-act-verify loop.
+- [Openbrowser (Semantic Headless Runtime)](https://awesomecua.com/resources/github-datuomart5423-openbrowser/) — Date not recorded
+  Headless browser runtime that converts webpages into compact structured semantic state for AI agents.
+- [opencode-gui-bridge](https://awesomecua.com/resources/github-yueqi-wang-795-opencode-gui-bridge/) — Date not recorded
+  Model Context Protocol bridge giving OpenCode and MCP clients real Windows GUI control via UI Automation and vision.
+- [opencode-mobile-use](https://awesomecua.com/resources/github-system1970-opencode-mobile-use/) — Date not recorded
+  OpenCode plugin for controlling Android devices with a live phone screen in the TUI sidebar and resilient UI hierarchy dumps.
+- [OpenControl](https://awesomecua.com/resources/github-joshuaalawrence-opencontrol/) — Date not recorded
+  Single-binary ~2MB Rust Model Context Protocol server exposing 54 native Windows desktop control, UI Automation, and screenshot tools.
+- [OpenDesk](https://awesomecua.com/resources/github-shopable-ai-opendesk/) — Date not recorded
+  OpenDesk is an API-driven desktop automation runtime that lets AI agents control windows, mouse/keyboard, OCR, and files via JavaScript or MCP.
+- [OpenGUI (Windows Native Service)](https://awesomecua.com/resources/github-lessenings-prog-opengui/) — Date not recorded
+  Windows-native .NET 9 desktop automation service exposing sub-millisecond named-pipe IPC and UI Automation perception to LLM agents.
+- [OpenOCR](https://awesomecua.com/resources/github-topdu-openocr/) — Date not recorded
+  OpenOCR is an open-source scene and document text detection, recognition, and VLM-OCR toolkit used for screen text parsing.
+- [OpenUI](https://awesomecua.com/resources/github-wandb-openui/) — Date not recorded
+  OpenUI lets users and agents generate, preview, and iteratively edit live HTML/Tailwind/React UI components from natural language and screenshots.
+- [orangeofcarl0-sys dsh-computer-use](https://awesomecua.com/resources/github-orangeofcarl0-sys-dsh-computer-use/) — Date not recorded
+  Windows desktop computer-use plugin for DeepSeek Harness featuring numbered UI element grounding and background-first input delivery.
+- [Orbination AI Desktop Vision & Control](https://awesomecua.com/resources/github-amichail-1-orbination-ai-desktop-vision-control/) — Date not recorded
+  Native Windows MCP server combining UI Automation, dark-theme-aware OCR, visual grounding, and mouse/keyboard control.
+- [Orynn](https://awesomecua.com/resources/github-robomohit-orynn/) — Date not recorded
+  Orynn is a Windows desktop agent that controls native applications by UI Automation control names without screenshot loops.
+- [Ossabellator Bounded Computer-Use Runtime](https://awesomecua.com/resources/github-ossabellator-computer-use/) — Date not recorded
+  Bounded computer-use runtime and semantic browser engine with explicit capability and policy enforcement.
+- [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/) — Date not recorded
+  Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+- [PageLens](https://awesomecua.com/resources/github-heinevwinston-bot-pagelens/) — Date not recorded
+  Read-only Claude browser assistant that inspects live webpages and suggests UX and accessibility improvements.
+- [pagewatch-mcp](https://awesomecua.com/resources/github-toolshedlabs-hash-pagewatch-mcp/) — Date not recorded
+  Minimal 3-tool Model Context Protocol server for reading webpages as Markdown, capturing screenshots, and exporting PDFs.
+- [PANOPTES Screen MCP Server](https://awesomecua.com/resources/github-yxpil-panoptes/) — Date not recorded
+  Streamable HTTP Model Context Protocol server exposing 9 screen capture and mouse/keyboard control tools to AI agents.
+- [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/) — Date not recorded
+  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+- [pcbridge](https://awesomecua.com/resources/github-eymistaken-pcbridge/) — Date not recorded
+  Turns a Linux desktop into a Model Context Protocol server for shell execution, window management, and GUI automation.
+- [perceive](https://awesomecua.com/resources/github-gauthierpiarrette-perceive/) — Date not recorded
+  perceive is a reachability-filtered perception layer for browser agents that prunes non-interactive or occluded DOM elements.
 - [pi-computer-use](https://awesomecua.com/resources/github-injaneity-pi-computer-use/) — Date not recorded
   Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.
+- [pi-iphone-mirroring](https://awesomecua.com/resources/github-aniruddha-adhikary-pi-iphone-mirroring/) — Date not recorded
+  Vision-first iPhone Mirroring control package for the Pi coding agent on macOS.
+- [pinchtab-mcp](https://awesomecua.com/resources/github-maderwin-pinchtab-mcp/) — Date not recorded
+  Model Context Protocol server for PinchTab enabling AI agents to control Chromium browsers via accessibility trees and CDP.
+- [pixel-forge](https://awesomecua.com/resources/github-sjxbbdb-pixel-forge/) — Date not recorded
+  Desktop automation toolkit providing screenshot capture, OCR, pixel-diff change detection, and mouse/keyboard actions for AI agents.
+- [PixelCheck](https://awesomecua.com/resources/github-xcodethink-pixelcheck/) — Date not recorded
+  Drop-in MCP server providing five visual browser primitives for frontend coding agents to inspect, screenshot, and verify live web UIs.
+- [Plasmate](https://awesomecua.com/resources/github-plasmate-labs-plasmate/) — Date not recorded
+  Plasmate is a Rust browser engine for AI agents that transforms HTML and DOM state into a compact, actionable Semantic Object Model.
+- [Pointframe](https://awesomecua.com/resources/github-dimitar-radenkov-pointframe/) — Date not recorded
+  MCP server and CLI that lets coding agents inspect, drive, and verify native Windows UI applications with signed screenshot evidence.
+- [Polyform a11y-guide](https://awesomecua.com/resources/github-polyform-ai-a11y-guide/) — Date not recorded
+  Semantic accessibility page-guidance layer designed simultaneously for assistive technologies and AI browser agents.
+- [PortaMCP](https://awesomecua.com/resources/github-tnlegend-portamcp/) — Date not recorded
+  Client-neutral Model Context Protocol server and secure desktop Control Center for Windows automation.
+- [Prism AI Screen Reader](https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/) — Date not recorded
+  Prism is a macOS screen reader and activity analyzer that captures screenshots and summarizes user desktop workflows with vision-language models.
+- [PUDA guidriver](https://awesomecua.com/resources/github-pudap-guidriver/) — Date not recorded
+  Windows-first edge service for recording, verifying, and deterministically replaying reviewed GUI workflows.
+- [pursr](https://awesomecua.com/resources/github-0xheycat-pursr/) — Date not recorded
+  Visual QA, accessibility auditing, screenshot diffing, and MCP browser automation toolkit.
+- [pyside6-mcp](https://awesomecua.com/resources/github-com55-pyside6-mcp/) — Date not recorded
+  Playwright-style Model Context Protocol server that lets AI agents inspect, control, and debug Qt/PySide6 desktop GUI applications.
+- [Qirabot](https://awesomecua.com/resources/github-qirabot-qirabot/) — Date not recorded
+  Qirabot is a pure-vision multimodal GUI automation framework for operating browsers, mobile apps, desktops, and games without DOM selectors.
+- [QWebBridge](https://awesomecua.com/resources/github-hu-qi-qwebbridge/) — Date not recorded
+  Browser bridge that lets AI agents navigate, click, fill forms, and read Chrome pages via the accessibility tree.
+- [rdc (Remote Desktop Control for AI Agents)](https://awesomecua.com/resources/github-bscott-rdc/) — Date not recorded
+  Remote desktop control CLI and bridge allowing a coding agent to capture screenshots and send mouse/keyboard input to another machine.
+- [Reasonix Computer Use](https://awesomecua.com/resources/github-plocr-reasonix-computer-use/) — Date not recorded
+  Cross-platform desktop automation plugin combining native accessibility trees (UIA/AXAPI/AT-SPI2) with EasyOCR visual fallback.
+- [reflex-computer-use](https://awesomecua.com/resources/github-8itlab-reflex-cu/) — Date not recorded
+  reflex-computer-use is an MCP server for macOS and Windows that reads native UI accessibility trees and dispatches low-latency actions.
+- [Renoned dsh-computer-use](https://awesomecua.com/resources/github-renoned-dsh-computer-use/) — Date not recorded
+  Capability-aware macOS computer-use plugin for DeepSeek Harness combining Accessibility-first queries with Vision Router fallback.
+- [Roadmvn linux-computer-use](https://awesomecua.com/resources/github-roadmvn-linux-computer-use/) — Date not recorded
+  Linux computer-use Model Context Protocol server for Claude Code, OpenAI Codex, and MCP clients.
+- [RPA Desktop Canal Visual](https://awesomecua.com/resources/github-hab99-rpa-desktop-canal-visual/) — Date not recorded
+  Closed-loop visual desktop RPA runtime that drives isolated terminal and GUI applications purely from screen captures.
+- [rs_peekaboo](https://awesomecua.com/resources/github-undivisible-rs-peekaboo/) — Date not recorded
+  Rust-native cross-platform computer-use CLI and library for desktop window inspection, screenshots, and input automation.
+- [s1](https://awesomecua.com/resources/github-matthew-eucaristo-s1/) — Date not recorded
+  s1 is a voice-first macOS computer-use agent that inspects the Accessibility tree, executes UI actions, and displays an auditable step trail.
+- [Scout Browser Agent](https://awesomecua.com/resources/github-sanjeev29-scout-browser-agent/) — Date not recorded
+  Browser agent using a 4-layer perception cascade from lightweight HTTP text to accessibility trees and vision fallback.
+- [Screen Intelligence](https://awesomecua.com/resources/github-zacfink-screen-intelligence/) — Date not recorded
+  Screen Intelligence is a macOS desktop agent that reads screens with multimodal LLMs and drives mouse and keyboard actions.
+- [screen-mcp (Linux Wayland)](https://awesomecua.com/resources/github-88plug-screen-mcp/) — Date not recorded
+  Linux Wayland computer-use MCP server for Claude Code and Grok providing screenshot capture, clicking, typing, and scrolling.
+- [screen-use](https://awesomecua.com/resources/github-tongriyaotxt-screen-use/) — Date not recorded
+  Browser-Use-style framework for the entire desktop that gives AI agents visual screen perception and mouse/keyboard control.
+- [screen-vision](https://awesomecua.com/resources/github-daizedong-screen-vision/) — Date not recorded
+  Captures desktop windows and extracts UI elements and buttons with pixel coordinates combining accessibility trees and OCR.
+- [Screen2AX](https://awesomecua.com/resources/github-macpaw-screen2ax/) — Date not recorded
+  Screen2AX reconstructs macOS application accessibility trees from screenshots using vision detectors and releases the Maceka GUI dataset.
+- [ScreenHand](https://awesomecua.com/resources/github-manushi4-screenhand/) — Date not recorded
+  Open-source desktop automation MCP server that drives native macOS and Windows UI elements in ~50ms via OS accessibility APIs.
+- [screenshotting-gui](https://awesomecua.com/resources/github-evilfreelancer-screenshotting-gui/) — Date not recorded
+  Agent skill for Claude Code, Codex, and Cursor that captures repeatable, window-scoped screenshots of native desktop and browser GUI apps.
+- [ScreenWatch](https://awesomecua.com/resources/github-abnsapkota001-screenwatch/) — Date not recorded
+  Python library for detecting persistent visual state changes and UI settlement in desktop applications.
+- [secretxuan dsh-computer-use-win](https://awesomecua.com/resources/github-secretxuan-dsh-computer-use-win/) — Date not recorded
+  Windows computer-use bundle for DeepSeek Harness providing desktop screenshots, window management, and input automation.
+- [see_the_screen (DSH Windows Desktop Plugin)](https://awesomecua.com/resources/github-jaychouu-see-the-screen/) — Date not recorded
+  Windows desktop automation plugin for DeepSeek Harness agents providing screen observation and GUI control.
 - [Seg2Click](https://awesomecua.com/resources/github-jcwang0602-seg2click/) — Date not recorded
   Training and inference implementation that predicts an executable-region mask and derives a GUI click from that mask.
+- [Semantic Browser (agent-browser)](https://awesomecua.com/resources/github-atreasureboy-agent-browser/) — Date not recorded
+  Agent-readable semantic browser layer providing token-efficient webpage understanding and structured action execution.
+- [Semantic GUI Control Layer (SGCL)](https://awesomecua.com/resources/github-frankbria-semantic-gui-control/) — Date not recorded
+  SGCL is a cross-platform, text-first control layer that exposes graphical user interfaces to agents as structured semantic affordances.
+- [Sensory-Grounding MCP](https://awesomecua.com/resources/github-luclinocruz-lucross-sensory-grounding-mcp/) — Date not recorded
+  Closed-loop visual, audio, and video sensory grounding MCP server for verifying UI state in coding and computer-use agents.
+- [servo-agent](https://awesomecua.com/resources/github-parker-brown-family-servo-agent/) — Date not recorded
+  Agent-controllable web browser built on the Rust Servo engine that distills live rendered DOM layouts into compact agent observations.
+- [shadow-web](https://awesomecua.com/resources/github-ulinycoin-shadow-web/) — Date not recorded
+  Local-first Python SDK for web agents providing Shadow DOM flattening, Action Maps, SchemaSnap extraction, and form filling.
+- [Sidelook](https://awesomecua.com/resources/github-ucsandman-sidelook/) — Date not recorded
+  Windows desktop companion agent that observes active application context and executes user-approved UI actions.
+- [Sidemates](https://awesomecua.com/resources/github-prisacariurobert-sidemates/) — Date not recorded
+  Open-source desktop AI companion that observes active windows and assists with everyday computer tasks.
+- [SIH26 Privacy-Preserving Browser Agent](https://awesomecua.com/resources/github-dalwadi-aryan-pranavkumar-sih-26/) — Date not recorded
+  Privacy-preserving AI browser agent framework that sanitizes sensitive DOM and screen fields before LLM planning.
 - [Sikuli legacy research implementation](https://awesomecua.com/resources/github-sikuli-sikuli/) — Date not recorded
   The original Sikuli source distribution combines screenshot targets with a Jython scripting library and IDE for visual GUI automation and testing.
+- [Smart Pet Agent](https://awesomecua.com/resources/github-realstreetsmartnyc-smart-pet-agent/) — Date not recorded
+  Local-first ambient desktop pet agent that observes workspace context and automates routine desktop actions.
+- [Smouj AgentBrowser](https://awesomecua.com/resources/github-smouj-agent-browser/) — Date not recorded
+  AI-powered browser automation platform combining a REST API, live web dashboard, and vision-assisted DOM interaction.
+- [Snapsurf](https://awesomecua.com/resources/github-zumerlab-snapsurf/) — Date not recorded
+  Web navigation and verification layer for AI agents providing compact semantic page digests and typed post-action DOM diffs.
+- [SoftAuto MCP](https://awesomecua.com/resources/github-guangfubill-crypto-softauto-mcp/) — Date not recorded
+  Open-source Windows RPA and Model Context Protocol server providing UI Automation desktop control to AI agents.
+- [Solari Voice Agent](https://awesomecua.com/resources/github-muhammad-abdullahghani-solari-voice-agent/) — Date not recorded
+  Voice-directed autonomous computer-use agent built on Solari Desktop and LangGraph.
+- [SpectraBrowser MCP](https://awesomecua.com/resources/github-virajverse-spectra-browser-mcp/) — Date not recorded
+  Autonomous real-browser interaction engine and Chrome extension bridge exposing 99 MCP tools to AI agents.
+- [Spooky Action](https://awesomecua.com/resources/github-jumpsy-spooky-action/) — Date not recorded
+  Focus-free macOS computer-use tool that presses native Accessibility buttons in the background without moving the user's cursor.
+- [System Automation MCP](https://awesomecua.com/resources/github-aurafriday-system-mcp/) — Date not recorded
+  System Automation MCP exposes cross-platform desktop UI inspection, OCR, window management, and mouse/keyboard actions to MCP-compatible agents.
 - [Tactile](https://awesomecua.com/resources/github-yliust-tactile/) — Date not recorded
   Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.
+- [Tailorec Browser Orchestrator](https://awesomecua.com/resources/github-tailorec-tailorec-browser-orch/) — Date not recorded
+  Run-isolated browser orchestration service that converts webpages into semantic snapshots with stable element references.
+- [TankWork](https://awesomecua.com/resources/github-agenttankos-tankwork/) — Date not recorded
+  TankWork is a desktop agent framework combining OmniParser visual grounding, OCR, and PyAutoGUI actuation.
 - [Tarsier](https://awesomecua.com/resources/github-reworkd-tarsier/) — Date not recorded
   Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.
+- [Tarsier-AI](https://awesomecua.com/resources/github-siddzzzz-tarsier/) — Date not recorded
+  Tarsier-AI transforms desktop and web accessibility trees into portable semantic snapshots and deterministic action primitives for LLM agents.
+- [Tauri Dev Screen CLI](https://awesomecua.com/resources/github-johunsang-tauri-dev-screen-cli/) — Date not recorded
+  Node.js CLI for AI agents to inspect, screenshot, and control live Tauri desktop application windows during development.
+- [terminal-use-mcp](https://awesomecua.com/resources/github-hlh2023-terminal-use-mcp/) — Date not recorded
+  Model Context Protocol server for interactive terminal computer use, allowing AI agents to operate full-screen TUI applications (`vim`, `htop`, `lazygit`).
+- [THEIA Computer Use](https://awesomecua.com/resources/github-tree-ind-theia-ui-computer-use/) — Date not recorded
+  THEIA (The Human Environment Intelligence Aperture) is a visual perception and UI computer-use plugin and framework for AI agents.
+- [Third Eye](https://awesomecua.com/resources/github-slastrina-third-eye/) — Date not recorded
+  Local macOS computer-use agent with screen perception and verified action execution.
+- [ThreeBody6666 DSH Computer Use](https://awesomecua.com/resources/github-threebody6666-dsh-computer-use/) — Date not recorded
+  Native Windows computer-use and configurable vision plugin for DeepSeek Harness.
+- [TideSurf](https://awesomecua.com/resources/github-tidesurf-core/) — Date not recorded
+  TideSurf connects Chromium to LLM agents via compact structured DOM compression requiring 50 to 200 tokens per webpage.
+- [tine](https://awesomecua.com/resources/github-smythp-tine/) — Date not recorded
+  Command-line interface for AI agents to inspect and drive Linux GNOME Wayland desktops without portal consent dialogs.
+- [Touchline](https://awesomecua.com/resources/github-edenbuilds-touchline/) — Date not recorded
+  Multi-agent browser squad for evidence-led website inspection and frontend reconstruction.
+- [Touchpoint](https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/) — Date not recorded
+  Touchpoint is a cross-platform desktop accessibility API and MCP server giving AI agents unified UI inspection and control.
+- [Trope CUA](https://awesomecua.com/resources/github-tropeai-trope-cua/) — Date not recorded
+  Trope CUA enables background desktop inspection and GUI operation on Windows and macOS without interrupting foreground user work.
+- [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/) — Date not recorded
+  Local multi-brain Windows AI desktop agent with visible computer control and verified action execution.
+- [UI Annotator MCP](https://awesomecua.com/resources/github-mcpware-ui-annotator-mcp/) — Date not recorded
+  Model Context Protocol server that injects interactive Set-of-Mark hover labels into live webpages for visual browser agents.
 - [UI Defect Mocker](https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/) — Date not recorded
   Synthesizes visual UI defects from mobile screenshots and Android layout metadata to support GUI-testing experiments.
+- [UI Image to Code Studio](https://awesomecua.com/resources/github-zwq-top-ui-image-to-code-studio/) — Date not recorded
+  Codex skill for converting UI screenshots and live websites into React, Vue, or HTML code with visual browser verification.
+- [uia-agent](https://awesomecua.com/resources/github-supermarioyl-uia-agent/) — Date not recorded
+  uia-agent defines an open-source LLM agent action space that drives legacy Windows desktop applications through the UI Automation tree.
+- [uiacli (Windows UI Automation CLI)](https://awesomecua.com/resources/github-amitse-uiacli/) — Date not recorded
+  Exposes Windows desktop applications to AI agents via structured UI Automation trees and CLI commands.
+- [UIAutomationMcp](https://awesomecua.com/resources/github-trsdn-mcp-server-uiautomation/) — Date not recorded
+  Windows UI Automation toolkit providing a CLI, MCP server, and VS Code extension for inspecting and driving native desktop controls.
+- [uictl-mac-mcp](https://awesomecua.com/resources/github-byronjones-elsevier-uictl-mac-mcp/) — Date not recorded
+  macOS GUI-automation CLI and Model Context Protocol server for coding agents.
+- [uictl-win-mcp](https://awesomecua.com/resources/github-byronjones-elsevier-uictl-win-mcp/) — Date not recorded
+  Windows .NET/C# GUI-automation CLI and Model Context Protocol server for coding agents.
+- [UIED (UI Element Detection)](https://awesomecua.com/resources/github-mulongxie-uied/) — Date not recorded
+  UIED detects graphical widgets and text blocks in UI screenshots by combining flood-fill/Canny component analysis with deep text recognition.
+- [UltraTerm Computer Use](https://awesomecua.com/resources/github-michael-berardi-ultraterm-computer-use/) — Date not recorded
+  Local desktop automation plugin for MCP-capable agents on macOS, Linux, and Windows.
+- [UltraWin MCP](https://awesomecua.com/resources/github-jxoesneon-ultrawin-mcp/) — Date not recorded
+  Rust Model Context Protocol server for Windows desktop automation providing native UI Automation tree inspection and input control.
+- [Universal Computer Control MCP](https://awesomecua.com/resources/github-adkdev200-universal-computer-control/) — Date not recorded
+  Model Context Protocol server giving AI agents cross-platform screen capture, mouse, keyboard, and window control.
+- [Universal Computer Use](https://awesomecua.com/resources/github-nico0713520-universal-computer-use/) — Date not recorded
+  Lightweight, model-free Model Context Protocol plugin giving multimodal agents native macOS screen and input control.
+- [VACT (Vector Agent Context Transport)](https://awesomecua.com/resources/github-fy2ne-vact/) — Date not recorded
+  High-frequency GPU screen perception and low-latency input transport protocol for desktop computer-use agents.
+- [vadgr-computer-use](https://awesomecua.com/resources/github-montbrain-vadgr-computer-use/) — Date not recorded
+  Three-tier computer-use MCP server combining system shell tools, OS accessibility trees (UIA/AT-SPI/AX), and vision fallback.
+- [vco (Visual Computer Operate)](https://awesomecua.com/resources/github-lo2589-vco/) — Date not recorded
+  Shell-driven visual computer-use toolkit enabling LLMs to inspect and click web pages and desktop screens.
+- [Vigil](https://awesomecua.com/resources/github-bofstudios-vigil/) — Date not recorded
+  Native C# Windows desktop AI assistant invoked by voice wake-word or hotkey to execute system and GUI tasks.
+- [Vision Browser Agent](https://awesomecua.com/resources/github-zbcs-studiocr-cn-vision-browser-agent/) — Date not recorded
+  Pure-vision browser automation framework with built-in local Moondream3 inference, zero DOM dependency, and human-like mouse trajectories.
+- [Vision Primitives MCP](https://awesomecua.com/resources/github-zouyuanqing-vision-primitives-mcp/) — Date not recorded
+  Vision Primitives MCP equips text-only LLMs with 30 visual MCP tools for screen description, coordinate localization, OCR, and crop-zoom.
+- [vision-bridge](https://awesomecua.com/resources/github-rusnetru-vision-bridge/) — Date not recorded
+  Unified Windows vision and action MCP server for AI agents to inspect desktop windows and dispatch mouse/keyboard events.
+- [Vision-MCP](https://awesomecua.com/resources/github-haruhiyuki-vision-mcp/) — Date not recorded
+  Desktop application interaction MCP server combining visual UI element detection with mouse and keyboard automation.
+- [VisionAX](https://awesomecua.com/resources/github-rao-studios-visionax/) — Date not recorded
+  Computer-vision accessibility-tree (AX/A11Y) generator that synthesizes structured UI trees from raw desktop pixels.
+- [VisionDroid](https://awesomecua.com/resources/github-testtesta6-visiondroid/) — Date not recorded
+  VisionDroid uses multimodal LLMs to explore Android app screens and detect non-crash functional GUI logic bugs across page transitions.
+- [VisionGrid AI](https://awesomecua.com/resources/github-mohsinjutt62-autoplay-cv-engine-bot/) — Date not recorded
+  Computer-vision Android UI automation and heuristic gameplay engine built with OpenCV and ADB.
 - [VisionTasker](https://awesomecua.com/resources/github-akimotoayako-visiontasker/) — Date not recorded
   An Android automation implementation that translates screenshot-based UI understanding into language descriptions for step-by-step LLM planning and action execution.
+- [Visual Context Router](https://awesomecua.com/resources/github-fangsylar-pixel-visual-context-router/) — Date not recorded
+  Token-aware visual context router that crops, downscales, or replaces full screenshots with localized regions before sending to CUA models.
+- [visual-agent](https://awesomecua.com/resources/github-cloudsbeyond-visual-agent/) — Date not recorded
+  Protocol-first framework enabling visual-model hosts to safely inspect and operate software GUI interfaces.
+- [vnc-remote-control](https://awesomecua.com/resources/github-bitranox-vnc-remote-control/) — Date not recorded
+  Layout-aware VNC/RFB remote-control CLI providing typing, clicking, screenshot capture, and OCR against any VNC server.
+- [Voice and Vision System Controller](https://awesomecua.com/resources/github-muhammad-touseef-akhtar-voice-vision-system-controller/) — Date not recorded
+  Offline Python desktop automation system combining voice commands with computer-vision screen interaction.
+- [wangye520 codex-computer-use (Cursor Port)](https://awesomecua.com/resources/github-wangye520-codex-computer-use/) — Date not recorded
+  Port of OpenAI Codex's `@oai/sky` Computer Use engine to Cursor for screenshot-driven mouse and keyboard control.
+- [wangyong1972 dsh-computer-use-macos](https://awesomecua.com/resources/github-wangyong1972-dsh-computer-use-macos/) — Date not recorded
+  Native macOS computer-use plugin for DeepSeek Harness with trusted window targeting and Accessibility integration.
+- [wayhand-mcp](https://awesomecua.com/resources/github-timlai666-wayhand-mcp/) — Date not recorded
+  Local Model Context Protocol server enabling Claude Code and Codex to observe and operate GNOME Wayland desktops.
+- [wayland-computer-use](https://awesomecua.com/resources/github-wh0ami3-wayland-computer-use/) — Date not recorded
+  Native Wayland desktop control server using XDG RemoteDesktop portal input and PipeWire capture where X11 tools fail.
+- [Web Context Interface (WCI)](https://awesomecua.com/resources/github-amirrezaalasti-webcontextinterface/) — Date not recorded
+  Web Context Interface (WCI) is a three-layer specification and toolkit augmenting HTML with structured semantic metadata for AI web agents.
+- [WebFovea](https://awesomecua.com/resources/github-jianganghan-webfovea/) — Date not recorded
+  WebFovea is a vision-based web agent that combines foveated visual crop refinement with live browser interaction.
 - [WebMarker](https://awesomecua.com/resources/github-reidbarber-webmarker/) — Date not recorded
   A browser library that labels interactive elements and their boxes for visual prompting, preserving element mappings that automation code can use to execute selected actions.
+- [WebQA Agent](https://awesomecua.com/resources/github-migoxlab-webqa-agent/) — Date not recorded
+  WebQA Agent is an autonomous multimodal web testing agent that audits webpage functionality, performance, and visual UX without test scripts.
+- [WebSense MCP 2.0](https://awesomecua.com/resources/github-spliffspliff70-wq-websense-mcp/) — Date not recorded
+  Non-vision browser automation Model Context Protocol server exposing 7 compact DOM-sensing and action tools.
+- [WieslawSoltes Linux Computer Use for Codex](https://awesomecua.com/resources/github-wieslawsoltes-linuxcomputeruse/) — Date not recorded
+  Linux desktop and X11/Wayland GUI control skill for OpenAI Codex.
+- [Win32 MCP Server](https://awesomecua.com/resources/github-randynorthrup-win32-mcp-server/) — Date not recorded
+  Win32 MCP Server exposes 53 native Windows Win32 and UI Automation tools over the Model Context Protocol for desktop agents.
+- [winctl-mcp](https://awesomecua.com/resources/github-shult-winctl-mcp/) — Date not recorded
+  Local Model Context Protocol server giving AI agents full control over Windows desktop screens, windows, mouse, and keyboard.
+- [Windows Computer Use MCP (DXGI + UIA)](https://awesomecua.com/resources/github-betrayzl-windows-computer-use-mcp/) — Date not recorded
+  Windows Model Context Protocol server combining DXGI desktop duplication screen capture, UI Automation trees, and human-like input.
+- [Windows Sandbox Computer Use Skill](https://awesomecua.com/resources/github-2018wzh-windows-sandbox-computer-use/) — Date not recorded
+  Windows-only agent skill for provisioning an isolated Windows Sandbox VM and driving it via visual computer use.
+- [windows-gui-mcp](https://awesomecua.com/resources/github-dcl632-windows-gui-mcp/) — Date not recorded
+  Windows GUI automation Model Context Protocol server for AI coding and computer-use agents.
 - [Windows-MCP](https://awesomecua.com/resources/github-cursortouch-windows-mcp/) — Date not recorded
   A Windows MCP bridge exposing application, window, keyboard and mouse operations plus native UI-state inspection for agents.
+- [WinMind](https://awesomecua.com/resources/github-jhonpork1233-beep-win-mind/) — Date not recorded
+  WinMind is a Windows MCP server that lets AI agents inspect and drive desktop applications through the UI Automation accessibility tree.
+- [winuse-mcp](https://awesomecua.com/resources/github-ryanportfolio-winuse-mcp/) — Date not recorded
+  Model Context Protocol server enabling Claude and MCP agents to inspect and control Windows desktop applications.
+- [WinWright](https://awesomecua.com/resources/github-alegauss-winwright/) — Date not recorded
+  Playwright-inspired Windows desktop automation and testing framework that drives native apps and reports verified UI state.
+- [Workroom (MLX Computer-Use Agent)](https://awesomecua.com/resources/github-iamibrahimmemon-mlx-llm-workroom/) — Date not recorded
+  Workroom is a fully local macOS computer-use agent running an Apple Silicon MLX vision-language model to read screens and execute commands.
+- [x11-computer-use](https://awesomecua.com/resources/github-ja-plus-x11-computer-use/) — Date not recorded
+  x11-computer-use is an Agent Skills package for Linux X11 desktop control using xdotool input injection, ImageMagick screenshots, and AT-SPI trees.
+- [xa11y](https://awesomecua.com/resources/github-xa11y-xa11y/) — Date not recorded
+  xa11y is a cross-platform desktop accessibility library in Rust, Python, and Node.js for inspecting and driving native apps on macOS, Windows, and Linux.
+- [XiaoShuang (小双桌面女神)](https://awesomecua.com/resources/github-daixin315-xiaoshuang/) — Date not recorded
+  Cross-platform desktop AI companion with screen reading, real-time translation, and Hermes-linked app automation.
+- [yu-tao-li dsh-computer-use-win](https://awesomecua.com/resources/github-yu-tao-li-dsh-computer-use-win/) — Date not recorded
+  Windows computer-use npm package for DeepSeek Harness supporting UI Automation trees, OCR grounding, and background window control.
 - [Yunkai](https://awesomecua.com/resources/github-solplum-yunkai/) — Date not recorded
   Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.
+- [Zavora Computer Use MCP](https://awesomecua.com/resources/github-zavora-ai-computer-use-mcp/) — Date not recorded
+  Zavora Computer Use MCP is a Rust MCP server and client for discovering desktop applications, inspecting UI controls, and executing actions.
+- [zcode-computer-use](https://awesomecua.com/resources/github-sainzs-zcode-computer-use/) — Date not recorded
+  macOS computer-control MCP server for ZCode and coding agents combining screenshots, Accessibility trees, and input actions.
+- [zetakai desktop-mcp](https://awesomecua.com/resources/github-zetakai-desktop-mcp/) — Date not recorded
+  Desktop vision and input control Model Context Protocol server for Linux X11 and Wayland sessions.
+- [ZoomClick](https://awesomecua.com/resources/github-princeton-ai2-lab-zoomclick/) — Date not recorded
+  ZoomClick implements iterative zoom-in GUI grounding and behavior-based grounding evaluation across high-resolution interfaces.
+- [ZRui-C DSH Computer Use](https://awesomecua.com/resources/github-zrui-c-dsh-computer-use/) — Date not recorded
+  Text-first browser and background macOS window control plugin for DeepSeek Harness.
+- [zseven-w DSH Computer](https://awesomecua.com/resources/github-zseven-w-dsh-computer/) — Date not recorded
+  Background macOS desktop automation plugin for DeepSeek Harness that observes and controls apps without stealing focus.
 
 ## Learning resources
 
+- [Awesome Multimodal Agentic Coding](https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/) — Date not recorded
+  Comprehensive research map of papers, benchmarks, and tools for multimodal coding and UI-verifying agents.
 - [Web Browser Automation with Agents (smolagents tutorial)](https://awesomecua.com/resources/url-5857c840372512cfe3fc/) — Date not recorded
   Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium browser tools, screenshot callbacks and example web-navigation tasks.

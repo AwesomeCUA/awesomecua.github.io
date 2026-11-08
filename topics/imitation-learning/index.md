@@ -182,6 +182,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Reverse-task-synthesis mobile trajectories released in separate AndroidControl and AndroidWorld training annotation files.
 - [PC-Agent-E training data](https://awesomecua.com/resources/url-14449fe321e0a1ca34ea/) — Date not recorded
   Released dataset used to train PC-Agent-E, linked by the official pipeline for refining human trajectories and synthesizing action reasoning.
+- [PSAI Computer Use Dataset](https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/) — Date not recorded
+  PSAI Computer Use Dataset provides 3,167 human-computer interaction trajectories with synchronized screen video, input events, and DOM/AX snapshots.
 - [ShowUI-π training data](https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/) — Date not recorded
   Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, presentation, handwriting and other interface tasks.
 - [UI-Genie trajectory data](https://awesomecua.com/resources/url-2e1927450da2183a5abe/) — Date not recorded
@@ -206,27 +208,89 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
 
 ## Engineering & industry
 
+- [Agent Lumos](https://awesomecua.com/resources/github-allenai-lumos/) — Date not recorded
+  Agent Lumos provides unified training data and modular planning and grounding architectures for open-source language and web agents.
+- [Android-Skill-Agent](https://awesomecua.com/resources/github-xiru0834-eng-android-skill-agent/) — Date not recorded
+  Android-Skill-Agent extracts demonstration-guided, parameterized operational skills with accessibility-tree verification for Android apps.
+- [Apprentice](https://awesomecua.com/resources/github-bluzername-apprentice/) — Date not recorded
+  Apprentice is a local-first macOS agent that observes repeated user routines across allowlisted apps and replays them with click-by-click approval.
+- [Automata](https://awesomecua.com/resources/github-mindattic-automata/) — Date not recorded
+  Record-once, replay-many browser automation runtime for Windows that records live user actions into deterministic workflows.
+- [Avenir-Web](https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/) — Date not recorded
+  Avenir-Web trains human-experience-imitating multimodal web agents with mixture-of-grounding experts and experience-tracking memory.
+- [Browser Agent Recorder](https://awesomecua.com/resources/github-velvetabyss-browser-agent-recorder/) — Date not recorded
+  Records human browser workflows and exports them as both human-readable SOP documents and machine-readable Agent Skill Packs.
+- [clirec](https://awesomecua.com/resources/github-ellmos-ai-clirec/) — Date not recorded
+  Records human GUI demonstrations into human-readable, diffable CLI transcripts for training and prompting computer-use agents.
+- [CloudCrew Understudy](https://awesomecua.com/resources/github-cloudcrewatwork-understudy/) — Date not recorded
+  Records human UI workflows once and compiles them into parameterized, editable replay scripts for computer-use agents.
+- [dsh-record-replay](https://awesomecua.com/resources/github-humblebanana-dsh-record-replay/) — Date not recorded
+  DeepSeek Harness plugin that records macOS desktop demonstrations via Open Record/Replay and compiles them into agent skills.
+- [DuckTrack](https://awesomecua.com/resources/github-theduckai-ducktrack/) — Date not recorded
+  DuckTrack records synchronized screen video and low-level mouse and keyboard events for building multimodal computer-interaction datasets.
+- [ECLAIR](https://awesomecua.com/resources/github-hazyresearch-eclair-agents/) — Date not recorded
+  ECLAIR automates enterprise web and desktop workflows from human demonstrations with ground-truth SOP validation and step-level error recovery.
+- [ETO (Exploration-Based Trajectory Optimization)](https://awesomecua.com/resources/github-yifan-song793-eto/) — Date not recorded
+  ETO trains LLM agents on WebShop, ScienceWorld, and ALFWorld by contrasting failed exploration trajectories against expert demonstrations.
+- [Explorer](https://awesomecua.com/resources/github-osu-nlp-group-explorer/) — Date not recorded
+  Explorer synthesizes large-scale multimodal web trajectories through autonomous bottom-up web exploration for training GUI web agents.
 - [Go-Browse](https://awesomecua.com/resources/github-apga-go-browse/) — Date not recorded
   Structured website-exploration and data-processing code that revisits discovered pages, proposes tasks and collects trajectories for web-agent fine-tuning.
 - [GUI-CIDER research code](https://awesomecua.com/resources/github-wuzheng02-gui-cider/) — Date not recorded
   Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.
 - [GUIPivot](https://awesomecua.com/resources/github-zrw00-guipivot/) — Date not recorded
   Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
+- [hands-off](https://awesomecua.com/resources/github-niramay-kelkar-hands-off/) — Date not recorded
+  hands-off discovers UI workflows in legacy back-office software without APIs and compiles them into deterministic replay scripts.
+- [Intent Relay WebMCP](https://awesomecua.com/resources/github-midorikuramochi-intent-relay/) — Date not recorded
+  Demonstration-driven intent translator that carries user workflow preferences across WebMCP-enabled websites.
 - [LearnAct](https://awesomecua.com/resources/github-lgy0404-learnact/) — Date not recorded
   Released inference and evaluation code for demonstration-conditioned mobile GUI agents on LearnGUI-Offline. The repository describes a multi-agent adaptation method and links the LearnGUI demonstrations.
+- [Maestro (AI-Drivable RPA)](https://awesomecua.com/resources/github-rexchengm-maestro/) — Date not recorded
+  Records a desktop or browser task once and lets AI optimize, parameterize, and replay it as a deterministic RPA workflow.
 - [MemGUI-Agent](https://awesomecua.com/resources/github-kwai-memgui-agent/) — Date not recorded
   MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
+- [Neo Lab](https://awesomecua.com/resources/github-belarusian-neo-lab/) — Date not recorded
+  Neo Lab is a macOS computer-use sandbox for recording demonstrations, replaying skills, and testing GUI automation plans.
+- [Open Record/Replay](https://awesomecua.com/resources/github-humblebanana-open-record-replay/) — Date not recorded
+  Open Record/Replay records macOS user demonstrations with Accessibility metadata and compiles them into reusable agent skills.
+- [OpenWebVoyager](https://awesomecua.com/resources/github-minorjerry-openwebvoyager/) — Date not recorded
+  OpenWebVoyager trains multimodal web navigation agents through iterative real-world web exploration, feedback verification, and trajectory tuning.
+- [Operant](https://awesomecua.com/resources/github-alpharomerojl-operant/) — Date not recorded
+  Local-first desktop agent runtime that compiles exploratory AI trajectories into deterministic, invariant-gated skills.
+- [OysterWorkflow](https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/) — Date not recorded
+  OysterWorkflow captures real human computer work and extracts structured, reusable workflow graphs for AI agents.
 - [PC-Agent-E training and deployment](https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/) — Date not recorded
   Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.
+- [Pix2Act](https://awesomecua.com/resources/github-google-deepmind-pix2act/) — Date not recorded
+  Pix2Act provides JAX/T5X training and evaluation code for pixel-only GUI agents on MiniWoB++ using behavioral cloning and tree search.
+- [Protean](https://awesomecua.com/resources/github-aibrain-mnemis-protean/) — Date not recorded
+  Protean turns everyday human desktop and browser demonstrations into reusable, adaptive agent skills.
+- [record-and-replay-skill](https://awesomecua.com/resources/github-ugarchance-record-and-replay-skill/) — Date not recorded
+  Agent-agnostic skill that watches a user demonstrate a browser or desktop workflow once and compiles it into a replayable script.
+- [Replay (Teach-by-Demonstration)](https://awesomecua.com/resources/github-misb74-replay/) — Date not recorded
+  Converts human screen demonstrations of real desktop and web work into verifiable, repeatable AI agent workflows.
+- [RishabhP1508 Understudy](https://awesomecua.com/resources/github-rishabhp1508-understudy/) — Date not recorded
+  Records a single LLM-driven exploration of a legacy UI into a typed capability artifact for deterministic zero-LLM replay.
 - [Synapse](https://awesomecua.com/resources/github-ltzheng-synapse/) — Date not recorded
   A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
+- [Taprun (tap)](https://awesomecua.com/resources/github-leonting1010-tap/) — Date not recorded
+  Captures a logged-in browser task demonstration once and compiles it into a deterministic zero-token replay skill.
+- [TeachReplay](https://awesomecua.com/resources/github-ottohere-mourn-teachreplay/) — Date not recorded
+  TeachReplay is a harness-agnostic teach-by-demonstration engine that records human UI workflows and compiles them into parameterized skills.
 - [TongUI training and inference framework](https://awesomecua.com/resources/github-tongui-agent-tongui-agent/) — Date not recorded
   Training configurations, preprocessing and inference examples for tutorial-trained GUI models, with a LLaMA-Factory fine-tuning workflow and screenshot-grounding interfaces.
 - [UI-Genie](https://awesomecua.com/resources/github-euphoria16-ui-genie/) — Date not recorded
   Training and evaluation code for a mobile-agent framework that iteratively generates trajectories using agent and reward-model feedback.
+- [Understudy](https://awesomecua.com/resources/github-understudy-ai-understudy/) — Date not recorded
+  Understudy observes human desktop and browser demonstrations and compiles them into parameterized, replayable computer-use skills.
 - [VideoCAD training and evaluation code](https://awesomecua.com/resources/github-ghadinehme-videocad/) — Date not recorded
   VideoCADFormer training, action-log preprocessing and evaluation code for learning CAD interface action sequences from screen recordings of browser-based Onshape.
 - [WebLlama](https://awesomecua.com/resources/github-mcgill-nlp-webllama/) — Date not recorded
   Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.
 - [WinDOM code](https://awesomecua.com/resources/github-chenghengli-windom/) — Date not recorded
   GUI-grounding training and evaluation code with same-family distillation, GRPO recipes and point-in-box scoring, using a Windows-style web environment.
+- [Windows Local Action Recorder](https://awesomecua.com/resources/github-week833-windows-local-action-recorder/) — Date not recorded
+  Windows desktop action recorder and controlled replay tool that packages human UI demonstrations for Codex agents.
+- [Zhaozuo (照做)](https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/) — Date not recorded
+  Demonstration-driven Windows desktop automation framework compatible with the ActionParity protocol for third-party GUI software.

@@ -153,6 +153,10 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   A benchmark and evaluation toolkit for comparing automatic web-agent judges against expert judgments of task success, side effects and repetition.
 - [CUAVerifierBench](https://awesomecua.com/resources/url-d5140d438466c1e1348a/) — Date not recorded
   Human-annotated browser-agent trajectories for comparing automated task-success and process-quality verifiers against reviewer judgments.
+- [done-or-not](https://awesomecua.com/resources/github-tatra-labs-done-or-not/) — Date not recorded
+  done-or-not is an offline benchmark of 910 computer-use trajectories across three simulated computers for grading completion verifiers.
+- [LLM as a Judge for Computer-Use Agents](https://awesomecua.com/resources/github-anaishowland-llm-judge-psai/) — Date not recorded
+  LLM-as-a-Judge evaluation harness for assessing computer-use agent trajectories across web browsing and desktop interaction tasks.
 - [OS-Critic Bench](https://awesomecua.com/resources/url-c73ba0618d1b3c505887/) — Date not recorded
   A cross-platform GUI-critic benchmark with mobile, desktop and web JSONL splits and screenshot assets, accompanied by public inference and accuracy-scoring scripts.
 - [WebRewardBench](https://awesomecua.com/resources/url-ac6d0f80765f5a32255a/) — Date not recorded
@@ -160,6 +164,8 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
 
 ## 数据集
 
+- [AgentRewardBench dataset](https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/) — Date not recorded
+  Hugging Face dataset release for AgentRewardBench containing trajectory evaluation instances across WebArena, VisualWebArena, AssistantBench, WorkArena, and OSWorld.
 - [UI-Genie reward data](https://awesomecua.com/resources/url-84e5aeeffaf561baa966/) — Date not recorded
   Mobile GUI reward annotations released for training UI-Genie’s trajectory-assessment model.
 - [WebPRM checklist-generation data](https://awesomecua.com/resources/url-fcc98b149272bbf31b05/) — Date not recorded
@@ -180,8 +186,24 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
 
 ## 工程与产业
 
+- [Agentic Reward Modeling (RewardAgent)](https://awesomecua.com/resources/github-thu-keg-agentic-reward-modeling/) — Date not recorded
+  RewardAgent combines human-preference scores with verifiable factuality and instruction-following checks to judge agent trajectories.
+- [Autonomous Evaluation and Refinement of Digital Agents](https://awesomecua.com/resources/github-berkeley-nlp-agent-eval-refine/) — Date not recorded
+  Provides VLM evaluator and policy-refinement code for autonomous evaluation and filtered behavioral cloning on WebArena and AndroidInTheWild.
+- [CUA Evaluation & RL with Autonomous Feedback](https://awesomecua.com/resources/github-martasumyk-cua-eval-and-finetuning/) — Date not recorded
+  Implements reinforcement learning with autonomous evaluator feedback for fine-tuning and benchmarking computer-use agents.
+- [DeskForge](https://awesomecua.com/resources/github-saidgurbuz-deskforge/) — Date not recorded
+  DeskForge extracts dense step-level supervision signals from desktop execution environments to train and verify computer-use agents.
+- [LGWM (Latent GUI World Model)](https://awesomecua.com/resources/github-jiamingzhang94-lgwm/) — Date not recorded
+  LGWM is an action-conditioned latent GUI world model that predicts next-state representations to verify GUI agent transitions.
+- [nanoAWM (Agent World Model Lab)](https://awesomecua.com/resources/github-jlov7-nanoawm/) — Date not recorded
+  nanoAWM is an inspectable Agent World Model laboratory for simulating action consequences in long-horizon tool and computer-use agents.
+- [Q-Reflector](https://awesomecua.com/resources/github-pockyitachi-q-reflector/) — Date not recorded
+  Q-Reflector trains an 8B vision-language verifier with generated pre/post-action conditions to detect and correct GUI action errors.
 - [UI-Genie](https://awesomecua.com/resources/github-euphoria16-ui-genie/) — Date not recorded
   Training and evaluation code for a mobile-agent framework that iteratively generates trajectories using agent and reward-model feedback.
+- [V-Droid](https://awesomecua.com/resources/github-v-droid-agent-v-droid/) — Date not recorded
+  V-Droid pairs a mobile GUI actor with a generative verifier that scores candidate actions before execution on Android devices.
 - [VEM GUI-Agent-RL](https://awesomecua.com/resources/github-microsoft-gui-agent-rl/) — Date not recorded
   Training code that learns a value environment model from offline Android interaction data and uses its frozen value estimates to guide GUI policy optimization.
 - [Web-Shepherd inference and evaluation](https://awesomecua.com/resources/github-kyle8581-web-shepherd/) — Date not recorded

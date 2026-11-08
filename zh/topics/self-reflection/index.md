@@ -115,6 +115,21 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
 - [Language Models can Solve Computer Tasks](https://awesomecua.com/resources/arxiv-2303-17491/) — 2023-03-30
   Introduces recursive criticism and improvement prompting for language-model agents performing computer tasks, evaluated on MiniWoB++ with a small number of demonstrations per task.
 
+## 评测基准
+
+- [AgentForge](https://awesomecua.com/resources/github-moeenasim-agentforge-v5/) — Date not recorded
+  Multi-agent adversarial evaluation and safety-checking laboratory for stress-testing computer-use agents.
+- [cskwork vigil](https://awesomecua.com/resources/github-cskwork-vigil/) — Date not recorded
+  Continuous browser QA harness that reproduces reported bugs and autonomously expands end-to-end test coverage on live web URLs.
+- [done-or-not](https://awesomecua.com/resources/github-tatra-labs-done-or-not/) — Date not recorded
+  done-or-not is an offline benchmark of 910 computer-use trajectories across three simulated computers for grading completion verifiers.
+- [HoloSkill Gym](https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/) — Date not recorded
+  Gym environment and optimization framework for self-evolving CLI and computer-use agent skills.
+- [Kane](https://awesomecua.com/resources/github-venkat5599-kane/) — Date not recorded
+  Plain-English browser verification harness for AI-built web applications that reports UI failures back to coding agents.
+- [OmniWebBench](https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/) — Date not recorded
+  OmniWebBench evaluates agentic browsers across end-to-end web navigation, action execution, failure recovery, and evidence verification.
+
 ## 模型
 
 - [InfiGUI-R1 3B](https://awesomecua.com/resources/url-35b9879a351cc3b3d7d5/) — Date not recorded
@@ -126,17 +141,141 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
 
 ## 工程与产业
 
+- [Agent Q](https://awesomecua.com/resources/github-sentient-engineering-agent-q/) — Date not recorded
+  Agent Q combines Monte Carlo Tree Search, AI self-critique, and Direct Preference Optimization for autonomous web navigation.
 - [Agent-R](https://awesomecua.com/resources/github-bytedance-seed-agent-r/) — Date not recorded
   Trajectory collection and revision utilities that use tree search and model-guided critique to train agents to recover from mistakes, including WebShop tasks.
+- [Agentic Android](https://awesomecua.com/resources/github-xdope7137-agentic-android/) — Date not recorded
+  LLM-powered Android agent over ADB that reads the screen, executes tap/swipe/type actions, and verifies outcomes at each step.
+- [AgenticX-GUIAgent](https://awesomecua.com/resources/github-demondamon-agenticx-guiagent/) — Date not recorded
+  AgenticX-GUIAgent is a multi-agent Android GUI automation system with coordinated manager, executor, reflector, and notetaker roles.
+- [Anchor-Inference Daedalus](https://awesomecua.com/resources/github-anchor-inference-daedalus/) — Date not recorded
+  Self-developing personal AI agent with its own desktop app, persistent memory, and computer-use tools.
+- [Attest](https://awesomecua.com/resources/github-cyrus580529-attest/) — Date not recorded
+  Self-verifying web agent core where the model proposes candidate actions and the harness validates real DOM state transitions.
+- [AURA (Agent-User Remote Automation)](https://awesomecua.com/resources/github-lvusyy-aura/) — Date not recorded
+  Closed-loop screenshot-click-verify remote automation framework over MCP for desktop and mobile devices.
+- [AutoBot](https://awesomecua.com/resources/github-demeyer1-autobot/) — Date not recorded
+  AutoBot is a self-improving agent harness for ChatGPT and Codex on macOS featuring persistent on-disk memory and browser evaluation.
+- [AutoManual](https://awesomecua.com/resources/github-minghchen-automanual/) — Date not recorded
+  AutoManual enables LLM agents to construct and iteratively refine structured instruction manuals through online environmental interaction.
+- [Autonomous Evaluation and Refinement of Digital Agents](https://awesomecua.com/resources/github-berkeley-nlp-agent-eval-refine/) — Date not recorded
+  Provides VLM evaluator and policy-refinement code for autonomous evaluation and filtered behavioral cloning on WebArena and AndroidInTheWild.
+- [BLAXCY](https://awesomecua.com/resources/github-alex3430143-blaxcyds/) — Date not recorded
+  BLAXCY is a policy-gated, self-verifying Linux desktop computer-use agent with action confirmation and state verification.
+- [BLAXIN](https://awesomecua.com/resources/github-tasinxxx-blaxin/) — Date not recorded
+  Open-source AI desktop agent for Linux that plans, executes, and verifies GUI and shell workflows.
+- [Browser Reliability Runtime](https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/) — Date not recorded
+  Multimodal browser reliability runtime for failure diagnosis, policy-aware recovery, and action verification.
+- [ChangeShield](https://awesomecua.com/resources/github-kxvya18-chnage-shield/) — Date not recorded
+  Self-repairing browser automation prototype that detects and adapts to third-party UI selector drift.
+- [CompBuddy](https://awesomecua.com/resources/github-lewiswlker-compbuddy/) — Date not recorded
+  CompBuddy is a background macOS computer-use agent that observes target windows and dispatches Accessibility and CGEvent actions without stealing focus.
+- [Computer Use Studio Pro](https://awesomecua.com/resources/github-666xiaoniuzi-computer-use-skill/) — Date not recorded
+  Cross-agent skill for low-latency, verified desktop, browser, and window control.
+- [DSH Mobile GUI Agent](https://awesomecua.com/resources/github-kunjinkao-os-dsh-mobile-gui-agent/) — Date not recorded
+  Android Mobile GUI Agent plugin for DeepSeek Harness featuring ADB actuation, iterative screen verification, and error recovery.
+- [dsh-desktop-automation](https://awesomecua.com/resources/github-junkrat9527-dsh-desktop-automation/) — Date not recorded
+  macOS desktop automation plugin for DeepSeek Harness with a closed-loop screenshot-locate-click-verify pipeline.
+- [dsh-live-loop](https://awesomecua.com/resources/github-powerrrrrrrr-dsh-live-loop/) — Date not recorded
+  Frontend runtime verification plugin for DeepSeek Harness that detects, launches, previews, and tests web apps in a live browser.
+- [dsh-OpenLiulan (开放浏览)](https://awesomecua.com/resources/github-haodongzhang022-hue-openliulan/) — Date not recorded
+  Self-healing browser control framework for DeepSeek Harness featuring semantic page perception and automated fault recovery.
+- [dsh-preview](https://awesomecua.com/resources/github-viger1-dsh-preview/) — Date not recorded
+  Self-verification browser preview loop for DeepSeek Harness agents to inspect and validate live frontend changes.
+- [ENVISIONS](https://awesomecua.com/resources/github-xufangzhi-envisions/) — Date not recorded
+  ENVISIONS is an environment-guided neural-symbolic self-training framework for language agents across symbolic reasoning and WebShop tasks.
+- [ENVS (Environment-Native Verified Search)](https://awesomecua.com/resources/github-artysicistz-envs/) — Date not recorded
+  ENVS is a post-training and verified tree-search pipeline for long-horizon GUI agents operating in live desktop and web environments.
+- [GenericAgent](https://awesomecua.com/resources/github-lsdefine-genericagent/) — Date not recorded
+  GenericAgent is a minimal self-evolving agent framework that synthesizes reusable skills for browser, OS, and ADB mobile control.
+- [Genie](https://awesomecua.com/resources/github-vimalmathew26-genie/) — Date not recorded
+  Genie is an autonomous Linux desktop agent with 3-tier UI resolution across AT-SPI accessibility trees, Chrome CDP, and VLM vision.
+- [Hachifish](https://awesomecua.com/resources/github-momo-null-hachifish/) — Date not recorded
+  Hachifish is an on-device Android GUI agent that executes natural-language tasks via the native AccessibilityService with pre-completion checks.
+- [HarvestNet](https://awesomecua.com/resources/github-lethe044-harvestnet/) — Date not recorded
+  Self-healing web extraction and browser automation framework for .NET.
+- [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) — Date not recorded
+  Hermes Agent is a self-improving autonomous agent by Nous Research with procedural skill synthesis, browser control, and multi-platform sandboxes.
+- [Hosp2MES-Agent](https://awesomecua.com/resources/github-ctrl-cv-master-hosp2mes-agent-public/) — Date not recorded
+  Hosp2MES-Agent is a long-horizon browser GUI agent for executing multi-page Manufacturing Execution System (MES) workflows with state verification.
+- [Hoverclick](https://awesomecua.com/resources/github-neilyysun-ui-hoverclick/) — Date not recorded
+  Hoverclick introduces test-time cursor hover verification and visual attention guidance before committing GUI click actions.
+- [iOS Agent Harness](https://awesomecua.com/resources/github-a178960320-ios-agent-harness/) — Date not recorded
+  iOS Agent Harness runs a Manager-Executor-Reflector GUI agent loop on iPhones to automate cross-app tasks from natural language.
+- [JARVIS-1](https://awesomecua.com/resources/github-craftjarvis-jarvis-1/) — Date not recorded
+  JARVIS-1 is an open-world multimodal Minecraft agent with episodic multimodal memory and goal-conditioned keyboard/mouse control.
+- [Jcua (Jev Computer Use Agent)](https://awesomecua.com/resources/github-1deat0r-jcua/) — Date not recorded
+  Jcua is a cross-platform computer-use agent powered by Jev decision models across Linux, Windows, and macOS desktops.
+- [Kryptic](https://awesomecua.com/resources/github-adnqcr7-code-kryptic/) — Date not recorded
+  Local-first AI engineering and browser-control agent runtime with bounded execution, verification, and self-repair.
+- [Language Agent Tree Search (LATS)](https://awesomecua.com/resources/github-lapisrocks-languageagenttreesearch/) — Date not recorded
+  Language Agent Tree Search (LATS) unifies LLM reasoning, acting, and Monte Carlo Tree Search with self-reflection on WebShop and programming tasks.
+- [LGWM (Latent GUI World Model)](https://awesomecua.com/resources/github-jiamingzhang94-lgwm/) — Date not recorded
+  LGWM is an action-conditioned latent GUI world model that predicts next-state representations to verify GUI agent transitions.
+- [llm-browser-agent](https://awesomecua.com/resources/github-justifysiddh-llm-browser-agent/) — Date not recorded
+  Self-healing browser automation framework that replaces brittle CSS selectors with LLM-guided semantic element resolution.
+- [LongHorizon-Harness](https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/) — Date not recorded
+  LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify-recover loop for multi-hour autonomous computer-use workflows.
+- [Lynx Agent](https://awesomecua.com/resources/github-wangjiang314-lynx-agent/) — Date not recorded
+  Lynx Agent is a completion-first Android phone-use agent with evidence-based state verification, recovery, and safety checks.
+- [MAI](https://awesomecua.com/resources/github-fluxaster-mai/) — Date not recorded
+  MAI combines MaaFramework with multimodal LLMs in a Planner-Executor-Verifier loop for game and application GUI automation.
 - [MobA](https://awesomecua.com/resources/github-opendfm-moba/) — Date not recorded
   An Android agent that combines global task planning and memory with a local action executor, using reflection to revise mobile interaction steps.
 - [Mobile-Agent-E code component](https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/) — Date not recorded
   Android automation component with hierarchical planning, reflection and persistent tips/shortcuts learned across task sequences.
+- [MobilePilot Runtime](https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/) — Date not recorded
+  MobilePilot is an auditable Android GUI agent runtime with structured action verification, on-demand UI trees, and bounded error recovery.
+- [NORTHTEK Ghost](https://awesomecua.com/resources/github-northtekdevs-ghost/) — Date not recorded
+  Provides verified desktop control for AI agents on Windows and Linux across native GUI applications lacking APIs.
+- [Open Frame](https://awesomecua.com/resources/github-off-camber-open-frame/) — Date not recorded
+  Deterministic desktop automation engine for AI agents implementing a capture-recognize-act-verify loop.
+- [OpenAmer Agent](https://awesomecua.com/resources/github-openamer-openamer/) — Date not recorded
+  Self-hosted, self-improving AI desktop agent for Windows with native in-process system and UI tools.
+- [OpenVINO Autonomous GUI Agent](https://awesomecua.com/resources/github-shehrozkashif-openvino-autonomous-gui-agent/) — Date not recorded
+  Fully local desktop GUI agent running five INT4 OpenVINO models for screen perception, planning, action execution, and step verification.
+- [Orquestrador de Features](https://awesomecua.com/resources/github-gustavo-em-orchestrator-features/) — Date not recorded
+  Multi-agent loop that plans React Native mobile features, writes code, drives the simulator UI, and verifies visual results.
+- [OS-Symphony](https://awesomecua.com/resources/github-os-copilot-os-symphony/) — Date not recorded
+  OS-Symphony is a holistic computer-use agent framework combining a Reflection-Memory Agent, versatile toolset, and multimodal searcher.
+- [Pactora](https://awesomecua.com/resources/github-mrnetwork0001-pactora/) — Date not recorded
+  WebMCP marketplace and verification harness featuring a closed-loop self-healing browser verifier.
 - [PC-Agent (X-PLUG component)](https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/) — Date not recorded
   Multi-agent desktop automation component for Windows and macOS, combining active perception, task decomposition and reflection for workflows spanning applications.
+- [Q-Reflector](https://awesomecua.com/resources/github-pockyitachi-q-reflector/) — Date not recorded
+  Q-Reflector trains an 8B vision-language verifier with generated pre/post-action conditions to detect and correct GUI action errors.
+- [QAgent](https://awesomecua.com/resources/github-rishabhcli-qagent/) — Date not recorded
+  QAgent is a local-first web QA and repair agent with an Electron desktop UI, CLI, MCP server, and isolated Git worktree execution.
 - [RCI Agent](https://awesomecua.com/resources/github-posgnu-rci-agent/) — Date not recorded
   A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
+- [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/) — Date not recorded
+  SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.
+- [Self-Healing Browser Agent](https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/) — Date not recorded
+  Combines Claude planning with Playwright execution and ranked selector fallback to self-heal broken web automation steps.
 - [Self-MAP](https://awesomecua.com/resources/github-magicgh-self-map/) — Date not recorded
   A conversational web-agent implementation with candidate ranking and memory-assisted action planning, including optional memory simplification, refinement and self-reflection modules.
+- [Seven-Layer Web Agent & Benchmark](https://awesomecua.com/resources/github-xyyojl-web-agent/) — Date not recorded
+  Seven-layer LLM browser agent architecture paired with a 45-task hierarchical benchmark and reproducible execution artifacts.
+- [SOLO](https://awesomecua.com/resources/github-wzq975-solo/) — Date not recorded
+  SOLO performs single-rollout test-time adaptation for GUI agents using online self-supervised feedback during deployment.
+- [StatePilot](https://awesomecua.com/resources/github-newsbruno-statepilot/) — Date not recorded
+  StatePilot is a predictable browser runtime for AI agents with state validation, episodic memory, error recovery, and MCP tools.
+- [Svate](https://awesomecua.com/resources/github-jieao-re-svate/) — Date not recorded
+  Svate is an on-device Android UI automation agent combining Accessibility trees, screenshots, pre-action safety checks, and recovery.
+- [Third Eye](https://awesomecua.com/resources/github-slastrina-third-eye/) — Date not recorded
+  Local macOS computer-use agent with screen perception and verified action execution.
+- [Tsaagan](https://awesomecua.com/resources/github-michaelolmos-tsaagan/) — Date not recorded
+  Tsaagan is a verify-first browser control framework for AI agents that proves every click and form action succeeded before advancing.
+- [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/) — Date not recorded
+  Local multi-brain Windows AI desktop agent with visible computer control and verified action execution.
+- [UI-Voyager](https://awesomecua.com/resources/github-ui-voyager-ui-voyager/) — Date not recorded
+  UI-Voyager is a self-evolving mobile GUI agent framework that learns from failed execution trajectories via group-relative reflection.
+- [V-Droid](https://awesomecua.com/resources/github-v-droid-agent-v-droid/) — Date not recorded
+  V-Droid pairs a mobile GUI actor with a generative verifier that scores candidate actions before execution on Android devices.
+- [VLAA-GUI](https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/) — Date not recorded
+  VLAA-GUI provides a modular GUI automation framework that teaches agents when to stop, recover from errors, and search alternatives.
 - [WebEvolver code component](https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/) — Date not recorded
   Component for web-agent trajectory collection, supervised-data preparation and world-model-based trajectory synthesis.
+- [Zhaozuo (照做)](https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/) — Date not recorded
+  Demonstration-driven Windows desktop automation framework compatible with the ActionParity protocol for third-party GUI software.

@@ -117,10 +117,106 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
 
 ## 评测基准
 
+- [AgentReady](https://awesomecua.com/resources/github-williehems-agentready/) — Date not recorded
+  Cloud-browser evaluation harness that tests whether an autonomous AI agent can complete a website's primary conversion action.
+- [HumanQA](https://awesomecua.com/resources/github-hotragn-humanqa/) — Date not recorded
+  Evidence-first product quality and UX evaluation harness for testing web applications with browser agents.
+- [Open User](https://awesomecua.com/resources/github-tiacoo-open-user/) — Date not recorded
+  Black-box UX audit harness that dispatches AI browser personas to test web products and record friction points.
+- [Persona UX Test](https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/) — Date not recorded
+  Blind-tests web and desktop user interfaces using isolated AI personas that interact strictly through rendered screens.
+- [REFRACT-PPTX](https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/) — Date not recorded
+  Agent-guided generation and multi-dimensional visual evaluation benchmark for editable PowerPoint presentation decks.
+- [UserZero](https://awesomecua.com/resources/github-aafre-userzero/) — Date not recorded
+  Synthetic first-user evaluation harness that verifies web applications by attempting onboarding and core flows with AI browser agents.
 - [WebsiteBench](https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/) — Date not recorded
   Website reconstruction benchmark: agents explore a production-level site through a browser, rebuild a full-stack version, and are scored by hidden functional and visual test cases across 70 tasks.
 
 ## 数据集
 
+- [UEyes](https://awesomecua.com/resources/github-yuejiang-nj-ueyes-chi2023/) — Date not recorded
+  UEyes is an eye-tracking dataset of 62 participants viewing 1,980 UI screenshots across webpages, desktop interfaces, mobile apps, and posters.
 - [UICrit](https://awesomecua.com/resources/github-google-research-datasets-uicrit/) — Date not recorded
   Mobile-interface critiques and quality ratings with region coordinates and RICO screen references, including a larger three-annotator release than the original paper dataset.
+
+## 工程与产业
+
+- [Agent Eyes](https://awesomecua.com/resources/github-jumpsy-agent-eyes/) — Date not recorded
+  Visual inspection toolkit for AI agents that captures rendered screenshots and extracts live CSS design tokens from the DOM.
+- [agent-ready-ui](https://awesomecua.com/resources/github-dvnc-labs-agent-ready-ui/) — Date not recorded
+  agent-ready-ui instruments web frontend components with semantic attributes and action hooks so browser agents can operate them reliably.
+- [agent-vision-toolkit](https://awesomecua.com/resources/github-anionex-agent-vision-toolkit/) — Date not recorded
+  Vision toolkit and skill pack equipping text-only LLMs with multi-image reading, UI reconstruction, and GUI automation.
+- [Agentic Web Check](https://awesomecua.com/resources/github-ericovirgy-agentic-web-check/) — Date not recorded
+  Agentic Web Check is a Lighthouse-style auditor that scores websites across 43 checks for AI browser-agent accessibility and controllability.
+- [annotate-mcp](https://awesomecua.com/resources/github-elainemhr-annotate-mcp/) — Date not recorded
+  Model Context Protocol server that injects a drawing and comment overlay into live webpages so coding agents can read visual markup.
+- [Blender Computer Use Artist](https://awesomecua.com/resources/github-xiaof631-blender-computer-use-artist/) — Date not recorded
+  Codex computer-use skill for automating Blender 3D modeling, rendering, animation, and visual QA.
+- [CamouForge](https://awesomecua.com/resources/github-rycen7822-camouforge/) — Date not recorded
+  Native Windows GUI manager for configuring and launching isolated Camoufox stealth browser profiles.
+- [Celestea Harness Studio](https://awesomecua.com/resources/github-mcd0luo-celestea-harness-studio/) — Date not recorded
+  Self-hosted AI agent workbench combining a web UI, TypeScript backend, sandboxed tool execution, and browser control.
+- [DeepSeek Harness Desktop](https://awesomecua.com/resources/github-tengqi159-deepseek-harness-desktop/) — Date not recorded
+  macOS desktop companion app for DeepSeek Harness with research-file attachments and local tool management.
+- [DeepSeek Harness Desktop YukiRyou](https://awesomecua.com/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/) — Date not recorded
+  Enhanced desktop client distribution for DeepSeek Harness with pre-integrated computer-use and browser plugins.
+- [dsh-plugin-ui-debug](https://awesomecua.com/resources/github-featherhunter-dsh-plugin-ui-debug/) — Date not recorded
+  DeepSeek Harness plugin for inspecting live DOM styles, layout issues, and console errors during frontend UI debugging.
+- [flutter_copilot](https://awesomecua.com/resources/github-anasfik-flutter-copilot/) — Date not recorded
+  In-app SDK that exposes Flutter widget trees and semantic actions directly to AI agents without screenshots or OCR.
+- [Glyph Motion Studio for WebMCP](https://awesomecua.com/resources/github-varun-a-1010-glyph-motion-studio-webmcp/) — Date not recorded
+  WebMCP-native GSAP animation studio where browser agents safely co-direct and verify web motion timelines.
+- [GoldenCut](https://awesomecua.com/resources/github-silbercue-goldencut/) — Date not recorded
+  Claude Code skill that measures live browser UI layouts and returns concrete golden-ratio spacing and typography fixes.
+- [Jig WebMCP Workbench](https://awesomecua.com/resources/github-emadqureshikhi-jig/) — Date not recorded
+  Two-origin, agent-native design workbench built on WebMCP for collaborative human-agent UI editing.
+- [maestro-oss](https://awesomecua.com/resources/github-victorkaor-maestro-oss/) — Date not recorded
+  Open-source multi-agent spatial orchestration canvas integrating CLI agents, browser automation, and desktop tools.
+- [mcp-vroid](https://awesomecua.com/resources/github-nhodges-mcp-vroid/) — Date not recorded
+  Model Context Protocol server that drives VRoid Studio 3D character creation via Linux Wayland GUI automation.
+- [Microsoft Paint MCP Server](https://awesomecua.com/resources/github-miguelcespedes-microsoft-paint-mcp-server/) — Date not recorded
+  Semantic Model Context Protocol interface for Microsoft Paint allowing AI agents to draw geometry, diagrams, and canvas edits.
+- [Momos](https://awesomecua.com/resources/github-iyulab-momos/) — Date not recorded
+  Autonomous UI inspection agent that interacts with live applications to uncover runtime and UX flow defects missed by static analysis.
+- [naive-user](https://awesomecua.com/resources/github-techgardencode-naive-user/) — Date not recorded
+  Source-blind browser agent that explores live web applications as a first-time user to uncover UX friction and broken flows.
+- [OpenUI](https://awesomecua.com/resources/github-wandb-openui/) — Date not recorded
+  OpenUI lets users and agents generate, preview, and iteratively edit live HTML/Tailwind/React UI components from natural language and screenshots.
+- [page-agent-sdk](https://awesomecua.com/resources/github-whyymj-page-agent-sdk/) — Date not recorded
+  In-page AI assistant SDK that mounts a chat widget and lets LLMs safely read and mutate webpage state via schema-validated tools.
+- [PageLens](https://awesomecua.com/resources/github-heinevwinston-bot-pagelens/) — Date not recorded
+  Read-only Claude browser assistant that inspects live webpages and suggests UX and accessibility improvements.
+- [periscope-mcp](https://awesomecua.com/resources/github-segentic-lab-periscope-mcp/) — Date not recorded
+  Web-application QA and analysis MCP server exposing 74 Playwright tools for authenticated flows, visual regression, and accessibility audits.
+- [Pi Desktop for Windows](https://awesomecua.com/resources/github-ayouyi-pi-desktop-for-windows/) — Date not recorded
+  Native Windows desktop GUI client and workspace for the Pi coding and computer-use agent.
+- [PixelCheck](https://awesomecua.com/resources/github-xcodethink-pixelcheck/) — Date not recorded
+  Drop-in MCP server providing five visual browser primitives for frontend coding agents to inspect, screenshot, and verify live web UIs.
+- [Polyform a11y-guide](https://awesomecua.com/resources/github-polyform-ai-a11y-guide/) — Date not recorded
+  Semantic accessibility page-guidance layer designed simultaneously for assistive technologies and AI browser agents.
+- [pursr](https://awesomecua.com/resources/github-0xheycat-pursr/) — Date not recorded
+  Visual QA, accessibility auditing, screenshot diffing, and MCP browser automation toolkit.
+- [Richmack Browser OS](https://awesomecua.com/resources/github-iamrichmack111-richmack-browser/) — Date not recorded
+  Keyboard-driven Chromium browser environment with modular workspace panels for developer and agent workflows.
+- [SameState WebMCP](https://awesomecua.com/resources/github-breeznik-samestate-webmcp/) — Date not recorded
+  WebMCP reference architecture exposing Redux frontend state directly to browser agents for synchronized human-agent interaction.
+- [shoal](https://awesomecua.com/resources/github-raynan00-shoal/) — Date not recorded
+  Deploys a swarm of concurrent AI browser agents to stress-test websites and visualize UX bottlenecks.
+- [Touchline](https://awesomecua.com/resources/github-edenbuilds-touchline/) — Date not recorded
+  Multi-agent browser squad for evidence-led website inspection and frontend reconstruction.
+- [UI Image to Code Studio](https://awesomecua.com/resources/github-zwq-top-ui-image-to-code-studio/) — Date not recorded
+  Codex skill for converting UI screenshots and live websites into React, Vue, or HTML code with visual browser verification.
+- [Venxuix Dccide](https://awesomecua.com/resources/github-venxuix-dccide-venxuix/) — Date not recorded
+  2D/3D agentic operating environment layered above Windows where humans and AI agents co-orchestrate desktop tasks.
+- [Voice Mirror](https://awesomecua.com/resources/github-contextmirror-voice-mirror/) — Date not recorded
+  Voice Mirror is a Tauri desktop IDE where voice and multimodal agents inspect, click, and live-edit rendered web applications.
+- [WebMCPcss](https://awesomecua.com/resources/github-cochinoraptor-webmcpcss/) — Date not recorded
+  Extends the WebMCP standard by declaring agent-callable website actions and semantic affordances directly through CSS rules.
+- [wix-editor-mcp](https://awesomecua.com/resources/github-naieum-wix-editor-mcp/) — Date not recorded
+  Model Context Protocol server for automating page layout, text, images, and SEO inside the classic Wix Editor.
+
+## 学习资源
+
+- [Awesome Multimodal Agentic Coding](https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/) — Date not recorded
+  Comprehensive research map of papers, benchmarks, and tools for multimodal coding and UI-verifying agents.

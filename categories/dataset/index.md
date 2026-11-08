@@ -1,6 +1,6 @@
 # Computer-use agent datasets
 
-> 86 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 99 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/dataset/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -53,6 +53,40 @@ The card distinguishes human task instructions from generated summaries, reasoni
 - https://huggingface.co/api/datasets/xlangai/AgentNet (retrieved 2026-10-16T06:38:26Z; SHA-256 f23c588ea9fb27210f9d605e164a32527a24298ca516df98272ff7ca7110eac6)
 - https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md (retrieved 2026-10-16T11:40:46Z; SHA-256 327a77856df259db0a0c2405478f75a0d0f2bf17c51806abc7c509ad82c3ad57)
 - https://huggingface.co/api/datasets/xlangai/AgentNet (retrieved 2026-10-16T06:38:26Z; SHA-256 f23c588ea9fb27210f9d605e164a32527a24298ca516df98272ff7ca7110eac6)
+
+---
+
+## AgentRewardBench dataset
+
+Hugging Face dataset release for AgentRewardBench containing trajectory evaluation instances across WebArena, VisualWebArena, AssistantBench, WorkArena, and OSWorld.
+
+- Catalog URL: https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/
+- Original source: https://huggingface.co/datasets/McGill-NLP/agent-reward-bench
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web, desktop, cross-platform
+- Topics: evaluation, reward-models, web-navigation
+- Evidence checked: 2026-10-17T04:03:18Z
+- ID: url:866251b68d6bba8b8ba6
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/McGill-NLP/agent-reward-bench (retrieved 2026-10-17T04:03:18Z; SHA-256 20c910fad3ad45a0c8c39b182c53632a821d3b6b546278bea6b7a78fbcb3f6cb)
+- https://huggingface.co/api/datasets/McGill-NLP/agent-reward-bench (retrieved 2026-10-17T04:03:18Z; SHA-256 20c910fad3ad45a0c8c39b182c53632a821d3b6b546278bea6b7a78fbcb3f6cb)
 
 ---
 
@@ -436,6 +470,39 @@ Step instructions can be repeated across multiple actions. Each episode has one 
 
 ---
 
+## AndroidHowTo
+
+AndroidHowTo provides scripts and annotations for building instructional mobile UI action datasets linking how-to steps to Android screens.
+
+- Catalog URL: https://awesomecua.com/resources/github-debymf-generating-android-howto/
+- Original source: https://github.com/debymf/generating_android_howto
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, data-generation
+- Evidence checked: 2026-11-04T13:12:13Z
+- ID: github:debymf/generating_android_howto
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-debymf-generating-android-howto/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/debymf/generating_android_howto/HEAD/README.md (retrieved 2026-11-04T13:12:13Z; SHA-256 e8c73323ff5bc5cc82583a61dea9686206ded5771235cc52b06b8d58cabad546)
+
+---
+
 ## Aria-UI Context-aware Data
 
 Episode-based mobile GUI grounding data released with Aria-UI for incorporating interaction history into target localization.
@@ -632,6 +699,39 @@ Rows are not unique screenshots. The card documents image-downscaling convention
 
 - https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md (retrieved 2026-10-16T10:42:13Z; SHA-256 c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7)
 - https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md (retrieved 2026-10-16T10:42:13Z; SHA-256 c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7)
+
+---
+
+## Browser Agent Failure Corpus
+
+Browser Agent Failure Corpus is a versioned dataset of browser-agent action failures, execution traces, and guardrail counterexamples.
+
+- Catalog URL: https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/
+- Original source: https://github.com/MutantWeb/browser-agent-failure-corpus
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, robustness, safety-security
+- Evidence checked: 2026-11-04T14:20:12Z
+- ID: github:mutantweb/browser-agent-failure-corpus
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MutantWeb/browser-agent-failure-corpus/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 78d26a8dbaaca6da843cbacb71e271f652f5386831d6a4de1fcadbd16cb28f6a)
 
 ---
 
@@ -858,6 +958,39 @@ The release provides JSONL data and API annotations. This is Android intent-call
 
 ---
 
+## EnvDistraction
+
+EnvDistraction provides simulated GUI environments and evaluation scripts for measuring multimodal agent susceptibility to environmental distractions.
+
+- Catalog URL: https://awesomecua.com/resources/github-xbmxb-envdistraction/
+- Original source: https://github.com/xbmxb/EnvDistraction
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: robustness, safety-security, evaluation
+- Evidence checked: 2026-11-04T13:12:43Z
+- ID: github:xbmxb/envdistraction
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-xbmxb-envdistraction/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xbmxb/EnvDistraction/HEAD/README.md (retrieved 2026-11-04T13:12:43Z; SHA-256 fe5af0a4e28c3a635fc1213c8ebd535ade5f9dfba45986d65f16940c28ce36d8)
+
+---
+
 ## FingerTip-20K
 
 Over 20,000 human Android episodes across 500+ apps with user context and long-term usage patterns, plus tracks for proactive intent prediction and personalized execution.
@@ -937,6 +1070,39 @@ The card count is flattened step records, not trajectories or independent tasks.
 - https://huggingface.co/datasets/apurvaga/go-browse-wa/raw/main/README.md (retrieved 2026-10-17T02:44:50Z; SHA-256 18ab64833acf31113a83b2463359f1c7e37c4aaabfe11c33db2ba3e7d32818c6)
 - https://raw.githubusercontent.com/ApGa/Go-Browse/HEAD/README.md (retrieved 2026-10-17T02:44:04Z; SHA-256 0d4b28c993ccb977c7910ff3fecb5de29db364a7a7ad55523c8e052c9bae2566)
 - https://huggingface.co/api/datasets/apurvaga/go-browse-wa (retrieved 2026-10-17T02:44:50Z; SHA-256 494f4ac9ab9e94831dcf768be001b7284e30e00704674358baf3bb2060344361)
+
+---
+
+## GroundCUA
+
+GroundCUA releases 56,000 desktop screenshots with 3.56M human-verified UI element annotations across 87 applications plus GroundNext models.
+
+- Catalog URL: https://awesomecua.com/resources/github-servicenow-groundcua/
+- Original source: https://github.com/ServiceNow/GroundCUA
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, windows, macos
+- Topics: grounding, screen-understanding, data-generation
+- Evidence checked: 2026-11-04T13:12:35Z
+- ID: github:servicenow/groundcua
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-servicenow-groundcua/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ServiceNow/GroundCUA/HEAD/README.md (retrieved 2026-11-04T13:12:35Z; SHA-256 ea25e5db95415f19bcf42f37547912eed185b72441a4fa57a0c981a7f50d732a)
 
 ---
 
@@ -1749,6 +1915,40 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 
 ---
 
+## Holo4 Trajectories
+
+Dataset of 7,366 computer-use agent execution trajectories from Holo4 27B and Holo4 35B-A3B, recording step-level reasoning, actions, tool results, and screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/
+- Original source: https://huggingface.co/datasets/Hcompany/trajectories
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web, desktop, android, cross-platform
+- Topics: evaluation, observability, data-generation
+- Evidence checked: 2026-10-17T05:32:58Z
+- ID: url:b5dab1881ac1069e44ce
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/Hcompany/trajectories
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Hcompany/trajectories (retrieved 2026-10-17T05:32:58Z; SHA-256 147ea4deaadb2d9961302d2a15893d16cc90b40aa41d911ffe2dc2af794fe05c)
+- https://huggingface.co/api/datasets/Hcompany/trajectories (retrieved 2026-10-17T05:32:58Z; SHA-256 147ea4deaadb2d9961302d2a15893d16cc90b40aa41d911ffe2dc2af794fe05c)
+
+---
+
 ## Jedi
 
 Synthetic GUI grounding data associated with UI decomposition research and the OSWorld-G benchmark.
@@ -2507,6 +2707,73 @@ The release contains planner and actor files for two web environments. No sample
 
 ---
 
+## PSAI Computer Use Dataset
+
+PSAI Computer Use Dataset provides 3,167 human-computer interaction trajectories with synchronized screen video, input events, and DOM/AX snapshots.
+
+- Catalog URL: https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/
+- Original source: https://github.com/anaishowland/computeruse-data-psai
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: data-generation, imitation-learning, recording
+- Evidence checked: 2026-11-04T14:02:35Z
+- ID: github:anaishowland/computeruse-data-psai
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/anaishowland/computeruse-data-psai/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/anaishowland/computeruse-data-psai/HEAD/README.md (retrieved 2026-11-04T14:02:35Z; SHA-256 f5521f8dddc136cae9b84f7ae0f83a535f4611161e95ebc788e21147338140be)
+- https://raw.githubusercontent.com/anaishowland/computeruse-data-psai/HEAD/LICENSE (retrieved 2026-11-04T14:07:22Z; SHA-256 242a79eb1cf827de167ccf640900fb55c99326c97ed721105673bf671f7fa06a)
+
+---
+
+## RelationGUI & RelationQA
+
+RelationGUI provides datasets and training code for explicit spatial, hierarchical, and functional relational understanding in GUI agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-malonghui-relationgui/
+- Original source: https://github.com/malonghui/RelationGUI
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: screen-understanding, grounding, evaluation
+- Evidence checked: 2026-11-04T14:02:42Z
+- ID: github:malonghui/relationgui
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-malonghui-relationgui/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/malonghui/RelationGUI/HEAD/README.md (retrieved 2026-11-04T14:02:42Z; SHA-256 4c4b459ece453ac59e1eead8392b91e816fcdb89ad3753f338b8d3ac6d4197c6)
+
+---
+
 ## Rico
 
 Mobile app screenshots, view hierarchies, and interaction traces for UI research.
@@ -2553,6 +2820,40 @@ Project-page scope: screenshots paired with augmented view hierarchies, gesture 
 
 - https://www.interactionmining.org/archive/rico (retrieved 2026-10-16T06:38:29Z; SHA-256 daa370b9aae5bce9f5171ea81fa4574c6155e04177af1db138529efd76377f89)
 - https://danafergan.com/publications/deka2017rico.pdf (retrieved 2026-10-17T10:01:32Z; SHA-256 a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84)
+
+---
+
+## RICO Semantics
+
+RICO Semantics provides 500,000 human annotations on RICO mobile screens covering icon shapes, semantic roles, and text-element associations.
+
+- Catalog URL: https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/
+- Original source: https://github.com/google-research-datasets/rico_semantics
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, grounding, data-generation
+- Evidence checked: 2026-11-04T13:12:16Z
+- ID: github:google-research-datasets/rico_semantics
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/record.json
+
+### License declarations
+
+- code: CC-BY-SA-4.0 — https://raw.githubusercontent.com/google-research-datasets/rico_semantics/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/google-research-datasets/rico_semantics/HEAD/README.md (retrieved 2026-11-04T13:12:16Z; SHA-256 444a35d65f55407ffb931c1138e984374833990aa7180f029e2228c2f820112b)
+- https://raw.githubusercontent.com/google-research-datasets/rico_semantics/HEAD/LICENSE (retrieved 2026-11-04T13:22:34Z; SHA-256 71a43a169b52bb1b39510b65ec5b43b4bbb59196d449a835fe58b50af6a72742)
 
 ---
 
@@ -3135,6 +3436,39 @@ No sample or episode count is inferred from the size tag or package manifest. Ma
 
 ---
 
+## UEyes
+
+UEyes is an eye-tracking dataset of 62 participants viewing 1,980 UI screenshots across webpages, desktop interfaces, mobile apps, and posters.
+
+- Catalog URL: https://awesomecua.com/resources/github-yuejiang-nj-ueyes-chi2023/
+- Original source: https://github.com/YueJiang-nj/UEyes-CHI2023
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: screen-understanding, ui-design
+- Evidence checked: 2026-11-04T13:12:46Z
+- ID: github:yuejiang-nj/ueyes-chi2023
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-yuejiang-nj-ueyes-chi2023/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/YueJiang-nj/UEyes-CHI2023/HEAD/README.md (retrieved 2026-11-04T13:12:46Z; SHA-256 f4320fa807c89af7fc4a7181a0f90053b09156fd2e5d57e0ce5e206233a07c6a)
+
+---
+
 ## UGround V1 Data
 
 Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subsets, with a bounding-box version whose coordinates are normalized to 0-999.
@@ -3632,6 +3966,73 @@ The reported video total is distinct from the Dataverse package-file count. The 
 
 ---
 
+## VisualWebBench dataset
+
+Hugging Face dataset release for VisualWebBench spanning seven visual web understanding, OCR, element grounding, and action prediction tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-149769d8bf07b7fbabdc/
+- Original source: https://huggingface.co/datasets/visualwebbench/VisualWebBench
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, grounding, screen-understanding, web-navigation
+- Evidence checked: 2026-11-01T19:22:16Z
+- ID: url:149769d8bf07b7fbabdc
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/url-149769d8bf07b7fbabdc/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/visualwebbench/VisualWebBench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/visualwebbench/VisualWebBench (retrieved 2026-11-01T19:22:16Z; SHA-256 5e9a830858c10166213bd4c7c360ff93d722fed198910736116f0b3f2f4b4a85)
+- https://huggingface.co/api/datasets/visualwebbench/VisualWebBench (retrieved 2026-11-01T19:22:16Z; SHA-256 5e9a830858c10166213bd4c7c360ff93d722fed198910736116f0b3f2f4b4a85)
+
+---
+
+## VLM-Reasoning-Traces
+
+VLM-Reasoning-Traces releases model outputs comparing base and thinking-enabled vision-language models on AndroidControl, ScreenSpot, and AndroidWorld.
+
+- Catalog URL: https://awesomecua.com/resources/github-llamatouch-vlm-reasoning-traces/
+- Original source: https://github.com/LlamaTouch/VLM-Reasoning-Traces
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, evaluation, planning
+- Evidence checked: 2026-11-04T13:12:21Z
+- ID: github:llamatouch/vlm-reasoning-traces
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-llamatouch-vlm-reasoning-traces/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/LlamaTouch/VLM-Reasoning-Traces/HEAD/README.md (retrieved 2026-11-04T13:12:21Z; SHA-256 ace444c823ceaa6c30a25c946828fcf2be8bec5e4f0ce629db816c3fa1a6e946)
+
+---
+
 ## Wave UI
 
 Screenshot-instruction records with target boxes and UI metadata such as OCR, source, element type and platform.
@@ -3833,6 +4234,40 @@ Preserves the publisher’s split label despite the collection’s training purp
 - https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md (retrieved 2026-10-17T02:44:50Z; SHA-256 9c091c5fc625ce53f53f8262f5cee8d08194e4fd1b8eeed543ff1c3723c823fd)
 - https://huggingface.co/api/datasets/LangAGI-Lab/WebPRMCollection_preference_pair (retrieved 2026-10-17T02:44:50Z; SHA-256 28a1d5d12e84fc38515bd3c5031ae0cf315c5f8772b90d982d926b98f2857563)
 - https://raw.githubusercontent.com/kyle8581/Web-Shepherd/HEAD/README.md (retrieved 2026-10-17T02:44:04Z; SHA-256 07431058d8b9a71b80e75b7a74a40a8346c1503eec240628459cc4d4e2f0802f)
+
+---
+
+## WebSRC
+
+WebSRC provides baseline models and processing pipelines for the Web-Based Structural Reading Comprehension dataset over HTML and screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/github-x-lance-websrc-baseline/
+- Original source: https://github.com/X-LANCE/WebSRC-Baseline
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: screen-understanding, web-navigation, evaluation
+- Evidence checked: 2026-11-04T13:12:43Z
+- ID: github:x-lance/websrc-baseline
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-x-lance-websrc-baseline/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/X-LANCE/WebSRC-Baseline/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/X-LANCE/WebSRC-Baseline/HEAD/README.md (retrieved 2026-11-04T13:12:43Z; SHA-256 2de9d5b2bd24a3fe11abe41835d249c9b34427548b38e7f0a805045128f2ea27)
+- https://raw.githubusercontent.com/X-LANCE/WebSRC-Baseline/HEAD/LICENSE (retrieved 2026-11-04T13:22:35Z; SHA-256 611f5fdb5ad94d56abf287230fdefdcd010aa12eb27fcda436ca82dbc9a0de33)
 
 ---
 

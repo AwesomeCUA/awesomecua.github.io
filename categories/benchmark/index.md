@@ -1,10 +1,78 @@
 # Computer-use agent benchmarks
 
-> 91 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 217 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## Action Check WebMCP
+
+External state-verification benchmark testing whether WebMCP browser tools actually produced their claimed DOM and backend effects.
+
+- Catalog URL: https://awesomecua.com/resources/github-ajaknumber4-action-check-webmcp/
+- Original source: https://github.com/ajaknumber4/action-check-webmcp
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, state-tracking, tool-integration, web-navigation
+- Evidence checked: 2026-11-04T18:11:27Z
+- ID: github:ajaknumber4/action-check-webmcp
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ajaknumber4-action-check-webmcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ajaknumber4/action-check-webmcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ajaknumber4/action-check-webmcp/main/README.md (retrieved 2026-11-04T18:11:27Z; SHA-256 f9c70f290a730537b60b903944429ab624422c22606e3eb5d42c874c03136241)
+- https://raw.githubusercontent.com/ajaknumber4/action-check-webmcp/HEAD/LICENSE (retrieved 2026-11-04T18:16:06Z; SHA-256 f5eee63fb76b6585d82d7c3e7e7c5136331316c3256e72cb6bdf587f234d20de)
+
+---
+
+## action-choice-bench
+
+action-choice-bench evaluates discrete UI action selection and calibrated abstention on frozen interface states.
+
+- Catalog URL: https://awesomecua.com/resources/github-gbesse-action-choice-bench/
+- Original source: https://github.com/gbesse/action-choice-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, action-prediction, safety-security
+- Evidence checked: 2026-11-04T14:20:13Z
+- ID: github:gbesse/action-choice-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-gbesse-action-choice-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/gbesse/action-choice-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gbesse/action-choice-bench/HEAD/README.md (retrieved 2026-11-04T14:20:13Z; SHA-256 4446d6d9bf5b0a93bb30d6a4088b7c27b843eb0ee4adc0068acb7007d0511d3d)
+- https://raw.githubusercontent.com/gbesse/action-choice-bench/HEAD/LICENSE (retrieved 2026-11-04T14:23:42Z; SHA-256 21f5a0a33c9be1b92476f41d82de75c482a3c9f514d408249429957a2571a200)
 
 ---
 
@@ -39,6 +107,175 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/ChenWu98/agent-attack/HEAD/README.md (retrieved 2026-10-16T06:40:54Z; SHA-256 0759e1212025ac487c1646877f97526d35db1a62337192800acaff7684471087)
 - https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
+
+---
+
+## Agent Tool Benchmark
+
+Provides reproducible same-machine benchmarks comparing AI agent browser and desktop toolkits with full execution transcripts.
+
+- Catalog URL: https://awesomecua.com/resources/github-alloevil-agent-tool-benchmark/
+- Original source: https://github.com/alloevil/agent-tool-benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, tool-integration, efficiency
+- Evidence checked: 2026-11-04T14:41:52Z
+- ID: github:alloevil/agent-tool-benchmark
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-alloevil-agent-tool-benchmark/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/alloevil/agent-tool-benchmark/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/alloevil/agent-tool-benchmark/HEAD/README.md (retrieved 2026-11-04T14:41:52Z; SHA-256 c230f3c544dc842f3d51dfd99f43fb3ec4219ccee172d9c965066ddb2cc004b5)
+- https://raw.githubusercontent.com/alloevil/agent-tool-benchmark/HEAD/LICENSE (retrieved 2026-11-04T14:45:06Z; SHA-256 55c6e8ebf27106c9f41b9ee6d8c0f295172c0b50a0fd9b84ef688480b1d522b1)
+
+---
+
+## agent-bench
+
+agent-bench evaluates browser-based AI agents across 50 web tasks spanning navigation, form filling, search, and e-commerce checkout.
+
+- Catalog URL: https://awesomecua.com/resources/github-megaurav4-agent-bench/
+- Original source: https://github.com/MeGaurav4/agent-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-04T14:20:08Z
+- ID: github:megaurav4/agent-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-megaurav4-agent-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/MeGaurav4/agent-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MeGaurav4/agent-bench/HEAD/README.md (retrieved 2026-11-04T14:20:08Z; SHA-256 f93e8e9b24195e4f4c3f6602914daaeceb3252fa1473bb1875c8a16166110ef4)
+- https://raw.githubusercontent.com/MeGaurav4/agent-bench/HEAD/LICENSE (retrieved 2026-11-04T14:23:45Z; SHA-256 7e484ad0f31747e0e9c737568bf6af8c5b1632d4a61a61c1d813266d4880ce5f)
+
+---
+
+## Agent-CE
+
+Agent-CE is a containerized continuous evaluation platform for benchmarking web browsing agents across reproducible task suites.
+
+- Catalog URL: https://awesomecua.com/resources/github-anaishowland-agent-ce/
+- Original source: https://github.com/anaishowland/agent-CE
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop, linux
+- Topics: evaluation, sandbox, web-navigation, observability
+- Evidence checked: 2026-11-04T15:45:42Z
+- ID: github:anaishowland/agent-ce
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-anaishowland-agent-ce/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/anaishowland/agent-CE/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/anaishowland/agent-CE/HEAD/README.md (retrieved 2026-11-04T15:45:42Z; SHA-256 f9d769e9ec535a6e7835307b1024f89e097038a0515846d076ee81754c922124)
+- https://raw.githubusercontent.com/anaishowland/agent-CE/HEAD/LICENSE (retrieved 2026-11-04T15:57:25Z; SHA-256 69fe907b069ea55efd908c2062ff86839b936d7c4402e4628cfeca476aa06d47)
+
+---
+
+## Agentalyze
+
+Agentalyze is an evaluation harness for LLM browser agents with real Chromium tasks, DOM-based state verifiers, and step-level trace analysis.
+
+- Catalog URL: https://awesomecua.com/resources/github-ilyat9-agentalyze/
+- Original source: https://github.com/Ilyat9/Agentalyze
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, observability
+- Evidence checked: 2026-11-04T14:02:47Z
+- ID: github:ilyat9/agentalyze
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ilyat9-agentalyze/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Ilyat9/Agentalyze/HEAD/README.md (retrieved 2026-11-04T14:02:47Z; SHA-256 20c1d8fa330d0631393756c1af5ec429b601e1863d8eb3e665073faef25bff91)
+
+---
+
+## agentB
+
+agentB is a benchmark for evaluating open web agents on realistic knowledge-work and browser automation tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-beme08-agentb/
+- Original source: https://github.com/beme08/agentb
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, workflow
+- Evidence checked: 2026-11-04T16:30:12Z
+- ID: github:beme08/agentb
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-beme08-agentb/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/beme08/agentb/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/beme08/agentb/HEAD/README.md (retrieved 2026-11-04T16:30:12Z; SHA-256 37559ee669543cde359a723b3366bd62768c630ea330a3ec893f7ff2760a1652)
+- https://raw.githubusercontent.com/beme08/agentb/HEAD/LICENSE (retrieved 2026-11-04T16:34:22Z; SHA-256 8f0d6c2682c3751cb502003e52bc9af3cc0aa85023c62a8a245070312d0e6526)
 
 ---
 
@@ -106,6 +343,141 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/facebookresearch/ai-agent-privacy/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 9c938f8f3f3ee04f459362a8b7d399588fd030ce476cda111e5f23fbf1e31f10)
+
+---
+
+## AgentForge
+
+Multi-agent adversarial evaluation and safety-checking laboratory for stress-testing computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-moeenasim-agentforge-v5/
+- Original source: https://github.com/MoeenAsim/Agentforge-V5
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: evaluation, safety-security, self-reflection, robustness
+- Evidence checked: 2026-11-04T18:11:31Z
+- ID: github:moeenasim/agentforge-v5
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-moeenasim-agentforge-v5/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MoeenAsim/Agentforge-V5/main/README.md (retrieved 2026-11-04T18:11:31Z; SHA-256 804cccd4f46d23989e4356c6b05e4cd2b92d8dea6e6b975d1d0ae3d31a14ff87)
+
+---
+
+## AgentGauntlet
+
+Reliability CI harness for browser agents that runs identical web tasks across mutating DOM conditions to measure resilience.
+
+- Catalog URL: https://awesomecua.com/resources/github-konuktor-agent-gauntlet/
+- Original source: https://github.com/Konuktor/agent-gauntlet
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, robustness, web-navigation
+- Evidence checked: 2026-11-04T18:11:30Z
+- ID: github:konuktor/agent-gauntlet
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-konuktor-agent-gauntlet/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Konuktor/agent-gauntlet/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Konuktor/agent-gauntlet/master/README.md (retrieved 2026-11-04T18:11:30Z; SHA-256 cd32affe5c6c37bb4edb8e487d125f94796687357e584f059756da97cf6187a8)
+- https://raw.githubusercontent.com/Konuktor/agent-gauntlet/HEAD/LICENSE (retrieved 2026-11-04T18:16:07Z; SHA-256 22918c4bed6907f7570e308f338130ec1820cbc22dc42e500ac40bacd3907bf9)
+
+---
+
+## agentic-browser-boundary-tests
+
+Local test suite of prompt-injection and instruction-authority boundary scenarios with canary checks for AI browsers and web agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-larrypeseckis-agentic-browser-boundary-tests/
+- Original source: https://github.com/larrypeseckis/agentic-browser-boundary-tests
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, web-navigation
+- Evidence checked: 2026-11-04T16:30:16Z
+- ID: github:larrypeseckis/agentic-browser-boundary-tests
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-larrypeseckis-agentic-browser-boundary-tests/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/larrypeseckis/agentic-browser-boundary-tests/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/larrypeseckis/agentic-browser-boundary-tests/HEAD/README.md (retrieved 2026-11-04T16:30:16Z; SHA-256 d8b3f1efea6173921f2f892f1e9180674209a05bce9c3dbc69f69c90fe650697)
+- https://raw.githubusercontent.com/larrypeseckis/agentic-browser-boundary-tests/HEAD/LICENSE (retrieved 2026-11-04T16:34:22Z; SHA-256 e82c568e34c35180b6027f56fa75ee2b78e7f3ea2cf28c532e246ea648aae440)
+
+---
+
+## AgentReady
+
+Cloud-browser evaluation harness that tests whether an autonomous AI agent can complete a website's primary conversion action.
+
+- Catalog URL: https://awesomecua.com/resources/github-williehems-agentready/
+- Original source: https://github.com/Williehems/agentready
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, ui-design
+- Evidence checked: 2026-11-04T18:11:37Z
+- ID: github:williehems/agentready
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-williehems-agentready/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Williehems/agentready/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Williehems/agentready/main/README.md (retrieved 2026-11-04T18:11:37Z; SHA-256 267635348d119608cc61bd9fa4ec3a0d6d26e832f56c5758131c977047a4a4a6)
+- https://raw.githubusercontent.com/Williehems/agentready/HEAD/LICENSE (retrieved 2026-11-04T18:16:08Z; SHA-256 6925e9d6c82840eec0d9d315bd9f0a23262f1b53909ec6c87011f3212689121d)
 
 ---
 
@@ -213,6 +585,40 @@ README states that task instructions are released but annotated action sequences
 - https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/observation.py (retrieved 2026-10-17T14:24:52Z; SHA-256 cfa9d272c85398f54c18d6e7445d680009e8c16d128962235d899592d3094c2f)
 - https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/actions.py (retrieved 2026-10-17T14:24:53Z; SHA-256 d25f2edf9202f59615341b62fc6046ac23a6f4cb072a6038ac562506cbdc891c)
 - https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/run_evaluator.py (retrieved 2026-10-17T14:21:10Z; SHA-256 257c42e980a0b14bd74bfcc381a0ecbef2b538c0f1cc1a94d22925efe354fb8e)
+
+---
+
+## AndroidDaily
+
+Android GUI benchmark dataset from Step-GUI containing 3,146 static action evaluation items and 235 end-to-end daily mobile tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-8697c910c05d48152916/
+- Original source: https://huggingface.co/datasets/stepfun-ai/AndroidDaily
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, action-prediction
+- Evidence checked: 2026-10-17T02:42:32Z
+- ID: url:8697c910c05d48152916
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/url-8697c910c05d48152916/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/stepfun-ai/AndroidDaily
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/stepfun-ai/AndroidDaily (retrieved 2026-10-17T02:42:32Z; SHA-256 ad3e1fdecd148dbe711b644290d61e7462e9f17ff629220949f3f07178eb8e10)
+- https://huggingface.co/api/datasets/stepfun-ai/AndroidDaily (retrieved 2026-10-17T02:42:32Z; SHA-256 ad3e1fdecd148dbe711b644290d61e7462e9f17ff629220949f3f07178eb8e10)
 
 ---
 
@@ -415,6 +821,40 @@ This is an adjacent API/coding benchmark, not a screenshot-only task suite. Pres
 
 ---
 
+## Astra Game Arena
+
+Resumable, screen-only computer-use evaluation arena testing whether Codex agents can play locally installed desktop games.
+
+- Catalog URL: https://awesomecua.com/resources/github-gih10012-astra-game-arena/
+- Original source: https://github.com/gih10012/astra-game-arena
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, macos, linux
+- Topics: evaluation, screen-understanding, grounding, action-prediction
+- Evidence checked: 2026-11-04T18:11:44Z
+- ID: github:gih10012/astra-game-arena
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-gih10012-astra-game-arena/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/gih10012/astra-game-arena/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gih10012/astra-game-arena/main/README.md (retrieved 2026-11-04T18:11:44Z; SHA-256 3de5186dbd0affcbea6915090d650c7bc80a0276bcb6869fa9ad347eced09de0)
+- https://raw.githubusercontent.com/gih10012/astra-game-arena/HEAD/LICENSE (retrieved 2026-11-04T18:16:06Z; SHA-256 dca6509359bc55da0945f70ad19072049ea68d4405280fc8bbe27fef63f9fdcf)
+
+---
+
 ## B-MoCA
 
 Mobile control benchmark with varied interface configurations.
@@ -469,6 +909,374 @@ Current source inventory differs in grain from published experiment subsets: do 
 - https://raw.githubusercontent.com/jylee425/b-moca/HEAD/LICENSE (retrieved 2026-10-16T06:41:58Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
 - https://api.github.com/repos/gimme1dollar/b-moca (retrieved 2026-10-17T14:14:03Z; SHA-256 9d4706306b04960f0eb4298887496961efdee6b7d41445e82abcac489d63779f)
 - https://api.github.com/repos/jylee425/b-moca (retrieved 2026-10-17T14:14:04Z; SHA-256 9d4706306b04960f0eb4298887496961efdee6b7d41445e82abcac489d63779f)
+
+---
+
+## Bananalyzer
+
+Bananalyzer is an evaluation framework and dataset suite for testing web agents on structured data extraction and navigation tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-reworkd-bananalyzer/
+- Original source: https://github.com/reworkd/bananalyzer
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-04T13:12:33Z
+- ID: github:reworkd/bananalyzer
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-reworkd-bananalyzer/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/reworkd/bananalyzer/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/reworkd/bananalyzer/HEAD/README.md (retrieved 2026-11-04T13:12:33Z; SHA-256 c7f5574143b871394c3f3ad38635eb6c2e00f37bd435dbb524c2ba68d8696245)
+- https://raw.githubusercontent.com/reworkd/bananalyzer/HEAD/LICENSE (retrieved 2026-11-04T13:22:34Z; SHA-256 f4ff2ba0f16e8abb7087071651c217ced6421e224313755c5d88433e324f19a1)
+
+---
+
+## Baseerat
+
+Baseerat benchmarks non-visual oversight of computer-use agents, testing whether screen-reader audio descriptions expose unsafe agent actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-yas1i-baseerat/
+- Original source: https://github.com/yas1i/baseerat
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web, android
+- Topics: evaluation, safety-security, human-in-the-loop
+- Evidence checked: 2026-11-04T14:20:12Z
+- ID: github:yas1i/baseerat
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-yas1i-baseerat/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yas1i/baseerat/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 736b72fc9e8f35f63b1d6a8472c7628870c8285f148b910f15ee7479d8382c24)
+
+---
+
+## Bellwether
+
+Bellwether measures multi-trial pass^k consistency of computer-use agents on legacy enterprise UI workflows.
+
+- Catalog URL: https://awesomecua.com/resources/github-al-mohad-bell-weather/
+- Original source: https://github.com/al-mohad/bell-weather
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, robustness, workflow
+- Evidence checked: 2026-11-04T14:20:13Z
+- ID: github:al-mohad/bell-weather
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-al-mohad-bell-weather/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/al-mohad/bell-weather/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/al-mohad/bell-weather/HEAD/README.md (retrieved 2026-11-04T14:20:13Z; SHA-256 5cdd12de673bbd9cbd3262b2049474c85d13b0dc16c32c1239d211ad5dc8883b)
+- https://raw.githubusercontent.com/al-mohad/bell-weather/HEAD/LICENSE (retrieved 2026-11-04T14:23:41Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## Bond Underwriting Agent Benchmark
+
+Chinese vertical long-horizon evaluation benchmark testing agents on multi-step financial bond-underwriting document and web workflows.
+
+- Catalog URL: https://awesomecua.com/resources/github-vitoworleone-bond-underwriting-agent-benchmark/
+- Original source: https://github.com/vitoworleone/bond-underwriting-agent-benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, long-horizon, workflow
+- Evidence checked: 2026-11-04T18:11:44Z
+- ID: github:vitoworleone/bond-underwriting-agent-benchmark
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-vitoworleone-bond-underwriting-agent-benchmark/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vitoworleone/bond-underwriting-agent-benchmark/main/README.md (retrieved 2026-11-04T18:11:44Z; SHA-256 fcf090c02c2bff65b60a2512a570809c5cde2d4e4eb35f14da7860d44c82c400)
+
+---
+
+## Browser Agent Comparison (4 Approaches)
+
+Compares four AI browser-control paradigms (Chrome extension, Playwright, Browser Use V3, and CLI) on task completion and cost.
+
+- Catalog URL: https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/
+- Original source: https://github.com/ismael-joffroy-chandoutis/browser-agent-comparison
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, efficiency, tool-integration
+- Evidence checked: 2026-11-04T16:30:16Z
+- ID: github:ismael-joffroy-chandoutis/browser-agent-comparison
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ismael-joffroy-chandoutis/browser-agent-comparison/HEAD/README.md (retrieved 2026-11-04T16:30:16Z; SHA-256 6ffa7b2876a0ee00c1131973cc8f0ee38144610c40e9cf906785cb87739400a6)
+
+---
+
+## Browser Automation Benchmark (Python vs Rust)
+
+Benchmarks Python Playwright, Rust playwright-rs, and chromiumoxide on headless browser startup, navigation, and screenshot latency.
+
+- Catalog URL: https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/
+- Original source: https://github.com/TashonBraganca/browser-automation-benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, efficiency, web-navigation
+- Evidence checked: 2026-11-04T14:41:52Z
+- ID: github:tashonbraganca/browser-automation-benchmark
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/TashonBraganca/browser-automation-benchmark/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/TashonBraganca/browser-automation-benchmark/HEAD/README.md (retrieved 2026-11-04T14:41:52Z; SHA-256 21a01bd842d92a17985bb684c17c07b000020f84c9a33f52115c90d0f10fa3fd)
+- https://raw.githubusercontent.com/TashonBraganca/browser-automation-benchmark/HEAD/LICENSE (retrieved 2026-11-04T14:45:05Z; SHA-256 dc81469864443c0f1fa1a4179807e815dc4ea5602d00f5d2a5b2606c5bd806bf)
+
+---
+
+## Browser LLM Perf
+
+Browser LLM Perf compares browser automation CLIs (CraftDriver vs Playwright CLI) on task completion speed and LLM token cost.
+
+- Catalog URL: https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/
+- Original source: https://github.com/dtopuzov/browser-llm-perf
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, efficiency
+- Evidence checked: 2026-11-04T14:41:52Z
+- ID: github:dtopuzov/browser-llm-perf
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/dtopuzov/browser-llm-perf/HEAD/README.md (retrieved 2026-11-04T14:41:52Z; SHA-256 c30c16123f1be38a73571cac70e8db60fe26105e91940278bbc468471de2b5fe)
+
+---
+
+## Browser Use Benchmark (BU Bench)
+
+Browser Use Benchmark (BU Bench V2.1) evaluates browser agents across 200 real-world web navigation and interaction tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-benchmark/
+- Original source: https://github.com/browser-use/benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-04T14:41:44Z
+- ID: github:browser-use/benchmark
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-use-benchmark/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browser-use/benchmark/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 849a8da2e5e5c972ae5ab6f46620c740b3c2440add259650fa08cb4dfd9917aa)
+
+---
+
+## browser-eval
+
+browser-eval is an evaluation harness for web fetching, deterministic browser trajectory replay, and autonomous web agent benchmarking.
+
+- Catalog URL: https://awesomecua.com/resources/github-lexmount-browser-eval/
+- Original source: https://github.com/lexmount/browser-eval
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, recording
+- Evidence checked: 2026-11-04T14:02:47Z
+- ID: github:lexmount/browser-eval
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-lexmount-browser-eval/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/lexmount/browser-eval/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lexmount/browser-eval/HEAD/README.md (retrieved 2026-11-04T14:02:47Z; SHA-256 6c7e1450a76b3f648c649e701c33d3e200a19569c349d32875e7709fe34ccc98)
+- https://raw.githubusercontent.com/lexmount/browser-eval/HEAD/LICENSE (retrieved 2026-11-04T14:07:22Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## browser-task-bench
+
+browser-task-bench is a benchmark suite of 200+ web interaction tasks covering forms, search, authentication, and checkout flows.
+
+- Catalog URL: https://awesomecua.com/resources/github-tradestackdev-browser-task-bench/
+- Original source: https://github.com/TradeStackDev/browser-task-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-04T14:20:07Z
+- ID: github:tradestackdev/browser-task-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-tradestackdev-browser-task-bench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/TradeStackDev/browser-task-bench/HEAD/README.md (retrieved 2026-11-04T14:20:07Z; SHA-256 2bc4430a06e27720e25cae12f1566818a54cf7d74f3bc425b87421eed76e16b9)
+
+---
+
+## BrowserAgentRegression
+
+Local-first regression testing benchmark for evaluating browser agents against controlled UI and DOM mutations.
+
+- Catalog URL: https://awesomecua.com/resources/github-albertxxuu-browseragentregression/
+- Original source: https://github.com/AlbertXXuu/BrowserAgentRegression
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, robustness, web-navigation
+- Evidence checked: 2026-11-04T17:20:37Z
+- ID: github:albertxxuu/browseragentregression
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-albertxxuu-browseragentregression/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/AlbertXXuu/BrowserAgentRegression/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/AlbertXXuu/BrowserAgentRegression/main/README.md (retrieved 2026-11-04T17:20:37Z; SHA-256 8721526c46614364df44fbf1940e69c6ef89f28ec9c60a1a8ba9693ec67d2a6c)
+- https://raw.githubusercontent.com/AlbertXXuu/BrowserAgentRegression/HEAD/LICENSE (retrieved 2026-11-04T17:26:34Z; SHA-256 43d888062f56712f558697a3ae75c0b371930e27b4f1187ff1b72fd1055bb9f5)
 
 ---
 
@@ -561,6 +1369,142 @@ A framework with interactive browser adapters and a static WebLINX evaluation in
 
 ---
 
+## BrowserTransactionBench
+
+BrowserTransactionBench evaluates transactional safety, idempotency, and double-spend prevention in autonomous browser agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/
+- Original source: https://github.com/lamenting-hawthorn/browserbench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, web-navigation, robustness
+- Evidence checked: 2026-11-04T14:20:10Z
+- ID: github:lamenting-hawthorn/browserbench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/lamenting-hawthorn/browserbench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lamenting-hawthorn/browserbench/HEAD/README.md (retrieved 2026-11-04T14:20:10Z; SHA-256 a7952ee35e851afc93862aa7676a7b539654c69e32f96ba783547d496ae43853)
+- https://raw.githubusercontent.com/lamenting-hawthorn/browserbench/HEAD/LICENSE (retrieved 2026-11-04T14:23:36Z; SHA-256 52f9c104477e9750a9893451f2c73700641664a6502860ce5e4dffd9896720a0)
+
+---
+
+## BrowseWebApp Bench
+
+BrowseWebApp Bench evaluates browser agents across 100 realistic web workflows spanning record extraction, document upload, and form submission.
+
+- Catalog URL: https://awesomecua.com/resources/github-visnia-ai-browsewebapp-bench/
+- Original source: https://github.com/visnia-ai/browsewebapp-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, workflow
+- Evidence checked: 2026-11-04T14:20:10Z
+- ID: github:visnia-ai/browsewebapp-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-visnia-ai-browsewebapp-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/visnia-ai/browsewebapp-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/visnia-ai/browsewebapp-bench/HEAD/README.md (retrieved 2026-11-04T14:20:10Z; SHA-256 57175a393411d33806a82adb48f1970dd3f02b5b229286f49b9d99ff2864377b)
+- https://raw.githubusercontent.com/visnia-ai/browsewebapp-bench/HEAD/LICENSE (retrieved 2026-11-04T14:23:36Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
+
+---
+
+## CAPTCHA Gym
+
+CAPTCHA Gym is a self-hosted evaluation platform for browser agents featuring controlled reCAPTCHA-style visual challenges and server scoring.
+
+- Catalog URL: https://awesomecua.com/resources/github-mildchef-muse-captcha-gym/
+- Original source: https://github.com/mildchef/Muse-Captcha-Gym
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, grounding, web-navigation
+- Evidence checked: 2026-11-04T14:20:16Z
+- ID: github:mildchef/muse-captcha-gym
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-mildchef-muse-captcha-gym/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/mildchef/Muse-Captcha-Gym/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mildchef/Muse-Captcha-Gym/HEAD/README.md (retrieved 2026-11-04T14:20:16Z; SHA-256 ed87f80658ae951687b75ee71f76e8c67a1068a1cd89afcbe3925e35061bef89)
+- https://raw.githubusercontent.com/mildchef/Muse-Captcha-Gym/HEAD/LICENSE (retrieved 2026-11-04T14:23:43Z; SHA-256 94c4c4592f61d7702eafd46ac8986acc276d289690967e6f539694f92c4a880a)
+
+---
+
+## CaptchaArena
+
+CaptchaArena provides a live server and fine-grained trajectory dataset across 20 interactive CAPTCHA types for evaluating computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-x0x0x00-captchaarena/
+- Original source: https://github.com/X0X0X00/CaptchaArena
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, web-navigation, grounding
+- Evidence checked: 2026-11-04T14:02:42Z
+- ID: github:x0x0x00/captchaarena
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-x0x0x00-captchaarena/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/X0X0X00/CaptchaArena/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/X0X0X00/CaptchaArena/HEAD/README.md (retrieved 2026-11-04T14:02:42Z; SHA-256 2d5624b9ac25a06c7d26acb1cc7a0b4ea60cf9a90f0118b9172bd692f2b2ff94)
+- https://raw.githubusercontent.com/X0X0X00/CaptchaArena/HEAD/LICENSE (retrieved 2026-11-04T14:07:17Z; SHA-256 1229a048b92c0897722046f02ecd47c2308f6528dc063e9c45fec006242881b1)
+
+---
+
 ## ClawBench
 
 Everyday-task benchmark on live websites that runs browser agents in containerized Chromium, blocks each final submission request for scoring by URL match and an LLM judge, and records five layers of run evidence.
@@ -615,6 +1559,74 @@ The README says two ASPCA tasks were removed after publication, so the shipped c
 - https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/LICENSE (retrieved 2026-10-18T11:55:00Z; SHA-256 cb861e529412e9eec01498bdf4b74c5ee4f29139737a1193e39b24004019e606)
 - https://api.github.com/repos/reacher-z/ClawBench (retrieved 2026-10-18T11:54:36Z; SHA-256 4b80afa11f3998830090c9c186afc753f261cc05abbcd4d906400f757f41e4da)
 - https://api.github.com/repos/TIGER-AI-Lab/ClawBench (retrieved 2026-10-18T11:54:37Z; SHA-256 4b80afa11f3998830090c9c186afc753f261cc05abbcd4d906400f757f41e4da)
+
+---
+
+## CodexQA
+
+Suite of 11 local-first QA Agent Skills for Cursor, Claude Code, and Codex to verify live web and desktop user journeys.
+
+- Catalog URL: https://awesomecua.com/resources/github-openqa-cn-codexqa/
+- Original source: https://github.com/openqa-cn/codexqa
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, web-navigation, tool-integration, workflow
+- Evidence checked: 2026-11-04T18:11:44Z
+- ID: github:openqa-cn/codexqa
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-openqa-cn-codexqa/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/openqa-cn/codexqa/main/README.md (retrieved 2026-11-04T18:11:44Z; SHA-256 c4021c817fba23ac4172c2024e996fe9b00751c5cfecec6c83a64fe3a758f092)
+- https://raw.githubusercontent.com/openqa-cn/codexqa/HEAD/LICENSE (retrieved 2026-11-04T18:16:07Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## Collision Canary
+
+Multi-actor invariant verification harness that drives two concurrent browser agents against a shared backend to uncover race bugs.
+
+- Catalog URL: https://awesomecua.com/resources/github-mystiquemide-collision-canary/
+- Original source: https://github.com/mystiquemide/collision-canary
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, robustness, web-navigation
+- Evidence checked: 2026-11-04T17:20:55Z
+- ID: github:mystiquemide/collision-canary
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-mystiquemide-collision-canary/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/mystiquemide/collision-canary/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mystiquemide/collision-canary/main/README.md (retrieved 2026-11-04T17:20:55Z; SHA-256 7d043be57a472bbe9a373eb529ddacd54e70c694d10e9c53995beb63a236faa7)
+- https://raw.githubusercontent.com/mystiquemide/collision-canary/HEAD/LICENSE (retrieved 2026-11-04T17:26:36Z; SHA-256 14eb642b6eb85d4ddff951f820e49c46a796049e625c7e5b090b5c9a1810f6f0)
 
 ---
 
@@ -727,6 +1739,175 @@ CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0
 
 ---
 
+## cskwork vigil
+
+Continuous browser QA harness that reproduces reported bugs and autonomously expands end-to-end test coverage on live web URLs.
+
+- Catalog URL: https://awesomecua.com/resources/github-cskwork-vigil/
+- Original source: https://github.com/cskwork/vigil
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, self-reflection, web-navigation, automation
+- Evidence checked: 2026-11-04T18:11:27Z
+- ID: github:cskwork/vigil
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-cskwork-vigil/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/cskwork/vigil/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cskwork/vigil/main/README.md (retrieved 2026-11-04T18:11:27Z; SHA-256 95558460768d27a08c2ab70509b7ddb777ab3da7d0a5e7c7deee24a2014434d1)
+- https://raw.githubusercontent.com/cskwork/vigil/HEAD/LICENSE (retrieved 2026-11-04T18:16:06Z; SHA-256 2825c7d0c067e14f21b4e0790807d0d303872b7df406995fd335bdeaa509c836)
+
+---
+
+## CUA Eval Kit
+
+Controlled browser fixture and 10-task computer-use evaluation suite for grading web agent accuracy and step efficiency.
+
+- Catalog URL: https://awesomecua.com/resources/github-marwanalsiddiq-cua-eval-kit/
+- Original source: https://github.com/MarwanAlsiddiq/cua-eval-kit
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, observability
+- Evidence checked: 2026-11-04T18:11:47Z
+- ID: github:marwanalsiddiq/cua-eval-kit
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-marwanalsiddiq-cua-eval-kit/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/MarwanAlsiddiq/cua-eval-kit/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MarwanAlsiddiq/cua-eval-kit/main/README.md (retrieved 2026-11-04T18:11:47Z; SHA-256 22ed28bfacadd914bf0d84969b82717d82a22fc9c4da84efcbcc7aaf18e81fba)
+- https://raw.githubusercontent.com/MarwanAlsiddiq/cua-eval-kit/HEAD/LICENSE (retrieved 2026-11-04T18:16:07Z; SHA-256 6d2f50789db7e1a0df05eba30ac48b34a70e3592282c553041986b77fd0ef480)
+
+---
+
+## cua-bench (ERPNext)
+
+cua-bench packages containerized ERPNext v15 accounting and enterprise workflows as Harbor RL and evaluation environments for GUI agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-vaiyr-cua-bench/
+- Original source: https://github.com/vaiyr/cua-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, reinforcement-learning, workflow, sandbox
+- Evidence checked: 2026-11-04T14:20:09Z
+- ID: github:vaiyr/cua-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-vaiyr-cua-bench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vaiyr/cua-bench/HEAD/README.md (retrieved 2026-11-04T14:20:09Z; SHA-256 48df5d15113f1c89314fe049d2f35cad6029afac6c9c43fe4a264b5058f0ecdc)
+
+---
+
+## CUA-Gym-Hub
+
+CUA-Gym-Hub provides 98 self-contained mock web applications with deterministic state verifiers as RL training and evaluation environments.
+
+- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-cua-gym-hub/
+- Original source: https://github.com/xlang-ai/CUA-Gym-Hub
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, reinforcement-learning, sandbox
+- Evidence checked: 2026-11-04T14:20:05Z
+- ID: github:xlang-ai/cua-gym-hub
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-xlang-ai-cua-gym-hub/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/README.md (retrieved 2026-11-04T14:20:05Z; SHA-256 979699e12a3ee57f2059720cf2f22abbd42fd07a97896826522f9ec5ccb8e9c5)
+- https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/LICENSE (retrieved 2026-11-04T14:23:33Z; SHA-256 4b90ed4baf4f3ac8df3e7e9bb4bb0cf758146d1ab716a687366cbee9f7418af4)
+
+---
+
+## cua_reliability (SA-OPSD)
+
+Provides the cua_reliability evaluation toolkit and reference training code for measuring stopping and abstention reliability in CUA RL.
+
+- Catalog URL: https://awesomecua.com/resources/github-mercurialsolo-sa-opsd/
+- Original source: https://github.com/mercurialsolo/sa-opsd
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, reinforcement-learning, safety-security, robustness
+- Evidence checked: 2026-11-04T14:20:07Z
+- ID: github:mercurialsolo/sa-opsd
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-mercurialsolo-sa-opsd/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/mercurialsolo/sa-opsd/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mercurialsolo/sa-opsd/HEAD/README.md (retrieved 2026-11-04T14:20:07Z; SHA-256 ae9c6889159a465dba4f5239817ddfd0b10b47ddc12219b64aeed826020ff59e)
+- https://raw.githubusercontent.com/mercurialsolo/sa-opsd/HEAD/LICENSE (retrieved 2026-11-04T14:23:46Z; SHA-256 e60b154c2b5eb3baae00cd97ecbb8ab137264fb06c1f3870336dcae3c58e368c)
+
+---
+
 ## CUAVerifierBench
 
 Human-annotated browser-agent trajectories for comparing automated task-success and process-quality verifiers against reviewer judgments.
@@ -781,6 +1962,378 @@ Trajectory rows and reviewer rows have different grains. Internal task labels do
 
 ---
 
+## decision-luna-browse-control
+
+Evaluates typed System-One decision models (Luna Decisions and Jev) driving real Chromium browser workflows on synthetic web apps.
+
+- Catalog URL: https://awesomecua.com/resources/github-humanity-forever-decision-luna-browse-control/
+- Original source: https://github.com/humanity-forever/decision-luna-browse-control
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, action-prediction, efficiency
+- Evidence checked: 2026-11-04T14:41:47Z
+- ID: github:humanity-forever/decision-luna-browse-control
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-humanity-forever-decision-luna-browse-control/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/humanity-forever/decision-luna-browse-control/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/humanity-forever/decision-luna-browse-control/HEAD/README.md (retrieved 2026-11-04T14:41:47Z; SHA-256 4cba2611cf35dbc4688ce7ba479d5bea9b9e895a3b27e3c2ea70f749923abf3d)
+- https://raw.githubusercontent.com/humanity-forever/decision-luna-browse-control/HEAD/LICENSE (retrieved 2026-11-04T14:45:04Z; SHA-256 174f476437bc3ca30892d5973c74090489e4fa801542b08b5de5178585320ebc)
+
+---
+
+## deedchain
+
+deedchain benchmarks report fidelity and hallucination rates of browser agents against recorded ground-truth web execution traces.
+
+- Catalog URL: https://awesomecua.com/resources/github-pillcrew-deedchain/
+- Original source: https://github.com/PillCrew/deedchain
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, robustness
+- Evidence checked: 2026-11-04T14:20:12Z
+- ID: github:pillcrew/deedchain
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-pillcrew-deedchain/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/PillCrew/deedchain/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/PillCrew/deedchain/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 089251b6dd29051380ba9135d4f08197f6970db52e6cb1887953140c09c7631f)
+- https://raw.githubusercontent.com/PillCrew/deedchain/HEAD/LICENSE (retrieved 2026-11-04T14:23:39Z; SHA-256 33439fe076663b472bafae7360b5443097d6b1dc3f1aee4800d19ec138234916)
+
+---
+
+## DeskCert CLI
+
+Safety certification CLI that stress-tests AI browser and computer-use agents against internal web apps before production deployment.
+
+- Catalog URL: https://awesomecua.com/resources/github-rudrendupaul-deskcert-cli/
+- Original source: https://github.com/RudrenduPaul/DeskCert-CLI
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, safety-security, robustness
+- Evidence checked: 2026-11-04T16:51:54Z
+- ID: github:rudrendupaul/deskcert-cli
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-rudrendupaul-deskcert-cli/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/RudrenduPaul/DeskCert-CLI/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/RudrenduPaul/DeskCert-CLI/HEAD/README.md (retrieved 2026-11-04T16:51:54Z; SHA-256 2884cd38ed5e520f60b1d1fca442a2fbb8a0becca9416dca714bafca0ceabc13)
+- https://raw.githubusercontent.com/RudrenduPaul/DeskCert-CLI/HEAD/LICENSE (retrieved 2026-11-04T16:56:30Z; SHA-256 1448919c1d0815332b6ceacdb8b368ca9c7eac45dccb699df6db0a791e1ec268)
+
+---
+
+## DeskMind Bench
+
+DeskMind Bench provides sandboxed macOS desktop tasks, state graders, and reference trajectories for evaluating computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-deskmind-ai-bench/
+- Original source: https://github.com/deskmind-ai/bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: evaluation, sandbox
+- Evidence checked: 2026-11-04T14:02:44Z
+- ID: github:deskmind-ai/bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-deskmind-ai-bench/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/README.md (retrieved 2026-11-04T14:02:44Z; SHA-256 b2b3c0839d1286be08764abf1c747ac4c76a7e8d3ab8b25c28024abafac9c8e4)
+- https://raw.githubusercontent.com/deskmind-ai/bench/HEAD/LICENSE (retrieved 2026-11-04T14:07:17Z; SHA-256 1ff13e6d4ef6873561edb424365c17c311cbe0807f4afa5d7dda46ab6c5c659d)
+
+---
+
+## DesktopAgentBench
+
+DesktopAgentBench is an agent-agnostic Windows benchmark evaluating desktop agent task reliability, recovery, and safety guardrails.
+
+- Catalog URL: https://awesomecua.com/resources/github-raghava00001-desktopagentbench/
+- Original source: https://github.com/Raghava00001/DesktopAgentBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: evaluation, safety-security, robustness
+- Evidence checked: 2026-11-04T14:20:08Z
+- ID: github:raghava00001/desktopagentbench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-raghava00001-desktopagentbench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Raghava00001/DesktopAgentBench/HEAD/README.md (retrieved 2026-11-04T14:20:08Z; SHA-256 4ba24916f14a6b69cf54dae6208762c51d30169a63d9cc39758f0dfa73c6924d)
+
+---
+
+## dom-drift-bench
+
+dom-drift-bench evaluates four web extraction and grounding strategies across ten categories of structural DOM drift.
+
+- Catalog URL: https://awesomecua.com/resources/github-notel1gible-dom-drift-bench/
+- Original source: https://github.com/NotEl1gible/dom-drift-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, robustness, web-navigation
+- Evidence checked: 2026-11-04T14:20:11Z
+- ID: github:notel1gible/dom-drift-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-notel1gible-dom-drift-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/NotEl1gible/dom-drift-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/NotEl1gible/dom-drift-bench/HEAD/README.md (retrieved 2026-11-04T14:20:11Z; SHA-256 b391254be26a8afb7b99abc80c944b285892ccc9b5d527bb9ecc61640ef54134)
+- https://raw.githubusercontent.com/NotEl1gible/dom-drift-bench/HEAD/LICENSE (retrieved 2026-11-04T14:23:37Z; SHA-256 bbdd312efda5b645ab2c2d9fdc7ee2abd59fd759faa097a9d8a9a7eb5b1295b4)
+
+---
+
+## done-or-not
+
+done-or-not is an offline benchmark of 910 computer-use trajectories across three simulated computers for grading completion verifiers.
+
+- Catalog URL: https://awesomecua.com/resources/github-tatra-labs-done-or-not/
+- Original source: https://github.com/tatra-labs/done-or-not
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, reward-models, self-reflection
+- Evidence checked: 2026-11-04T14:20:17Z
+- ID: github:tatra-labs/done-or-not
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-tatra-labs-done-or-not/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/tatra-labs/done-or-not/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/tatra-labs/done-or-not/HEAD/README.md (retrieved 2026-11-04T14:20:17Z; SHA-256 5bd1dcd3a555152a6181d22764e2e81452734a036688be653c62997812b3834c)
+- https://raw.githubusercontent.com/tatra-labs/done-or-not/HEAD/LICENSE (retrieved 2026-11-04T14:23:33Z; SHA-256 9567be531c570f10e1616723c584e8d550d3b62ec8c87ba8fe5f3d6ab26f4389)
+
+---
+
+## drift-audit
+
+Audits and classifies a browser-automation repository's selector maintenance history to quantify UI drift fragility.
+
+- Catalog URL: https://awesomecua.com/resources/github-sebastianpuchet-drift-audit/
+- Original source: https://github.com/SebastianPuchet/drift-audit
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, robustness, web-navigation
+- Evidence checked: 2026-11-04T17:55:20Z
+- ID: github:sebastianpuchet/drift-audit
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-sebastianpuchet-drift-audit/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SebastianPuchet/drift-audit/main/README.md (retrieved 2026-11-04T17:55:20Z; SHA-256 321a19ee9d65fcfecd62c8c0ffe43bc67afc900eaf5216369879ca974ccb7b71)
+
+---
+
+## DSH QA
+
+DeepSeek Harness QA plugin where an autonomous browser agent explores live web applications to discover functional and UX bugs.
+
+- Catalog URL: https://awesomecua.com/resources/github-zseven-w-dsh-qa/
+- Original source: https://github.com/ZSeven-W/dsh-qa
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, tool-integration, automation
+- Evidence checked: 2026-11-04T17:55:20Z
+- ID: github:zseven-w/dsh-qa
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-zseven-w-dsh-qa/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ZSeven-W/dsh-qa/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ZSeven-W/dsh-qa/main/README.md (retrieved 2026-11-04T17:55:20Z; SHA-256 c4dd7e863d00368944679494308b13a9d1a3b74448db64139e4d7d98e2290c32)
+- https://raw.githubusercontent.com/ZSeven-W/dsh-qa/HEAD/LICENSE (retrieved 2026-11-04T17:59:59Z; SHA-256 7cfca0a2a21dc7b205a5c4289dc1605056280edb858e2ea5894d38efaa926f6d)
+
+---
+
+## Effectprint
+
+Deterministic behavioral contract auditing suite for verifying side effects of WebMCP browser-agent tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-tommytranx-effectprint/
+- Original source: https://github.com/TommyTranX/effectprint
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, tool-integration, web-navigation
+- Evidence checked: 2026-11-04T17:55:05Z
+- ID: github:tommytranx/effectprint
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-tommytranx-effectprint/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/TommyTranX/effectprint/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/TommyTranX/effectprint/main/README.md (retrieved 2026-11-04T17:55:05Z; SHA-256 e527397b674e72f7ef7a9a1a3e4e8234ca8927d435f37302dea5c14f84d92599)
+- https://raw.githubusercontent.com/TommyTranX/effectprint/HEAD/LICENSE (retrieved 2026-11-04T17:59:58Z; SHA-256 143592ff2ac0251540cf4375448980ffc39f4c0f3023536715e027cb83803355)
+
+---
+
+## Ego Browser Benchmark Framework
+
+Ego Browser Benchmark Framework is a reproducible harness for comparing foundation models on controlled browser-use agent tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-citrolabs-ego-browser-benchmark-framework/
+- Original source: https://github.com/citrolabs/ego-browser-benchmark-framework
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-04T14:20:10Z
+- ID: github:citrolabs/ego-browser-benchmark-framework
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-citrolabs-ego-browser-benchmark-framework/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/citrolabs/ego-browser-benchmark-framework/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/citrolabs/ego-browser-benchmark-framework/HEAD/README.md (retrieved 2026-11-04T14:20:10Z; SHA-256 f520f55d5270fb776300de52ddd472b471fef29b8653b5196e120aba26e3954f)
+- https://raw.githubusercontent.com/citrolabs/ego-browser-benchmark-framework/HEAD/LICENSE (retrieved 2026-11-04T14:23:35Z; SHA-256 4e756287a1d148b3e9144e62de20d7d6c16d85e9399d8d7970f3a2996b0b4ac5)
+
+---
+
 ## EIA
 
 Evaluation suite for Environmental Injection Attacks that embed invisible malicious HTML elements into benign websites to test privacy leakage in generalist web agents.
@@ -812,6 +2365,141 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/OSU-NLP-Group/EIA_against_webagent/HEAD/README.md (retrieved 2026-10-18T10:59:54Z; SHA-256 61eb6109404f266fd22c6fa8ca58ef773a9d502567403f42edc096958ab2e430)
 - https://raw.githubusercontent.com/OSU-NLP-Group/EIA_against_webagent/HEAD/LICENSE (retrieved 2026-10-18T11:03:46Z; SHA-256 953ff47dbbc0c0563d1ec2d245b06d1206f2f38c4ed2f0da728e027ae2e5a973)
+
+---
+
+## Embodied Agent Interface (EAI)
+
+Embodied Agent Interface (EAI) benchmarks LLMs across goal interpretation, subgoal decomposition, action sequencing, and transition modeling.
+
+- Catalog URL: https://awesomecua.com/resources/github-embodied-agent-eval-embodied-agent-eval/
+- Original source: https://github.com/embodied-agent-eval/embodied-agent-eval
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: evaluation, planning, action-prediction
+- Evidence checked: 2026-11-04T13:12:13Z
+- ID: github:embodied-agent-eval/embodied-agent-eval
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-embodied-agent-eval-embodied-agent-eval/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/embodied-agent-eval/embodied-agent-eval/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/embodied-agent-eval/embodied-agent-eval/HEAD/README.md (retrieved 2026-11-04T13:12:13Z; SHA-256 8b4d58dc20ace87a10106b827ab857c91b2289e3db46b15c61f5682c22e377bc)
+- https://raw.githubusercontent.com/embodied-agent-eval/embodied-agent-eval/HEAD/LICENSE (retrieved 2026-11-04T13:41:32Z; SHA-256 9c619e8dda93227f5b5aa1f0f358a62d1333e23c71798fde169c4640acb91754)
+
+---
+
+## ExactDelta (ActionProof)
+
+Post-action state-delta verification harness for WebMCP browser agents that detects silent UI and state failures.
+
+- Catalog URL: https://awesomecua.com/resources/github-tsuchiyatakahirolab-actionproof/
+- Original source: https://github.com/tsuchiyatakahirolab/actionproof
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, state-tracking, tool-integration, web-navigation
+- Evidence checked: 2026-11-04T17:55:02Z
+- ID: github:tsuchiyatakahirolab/actionproof
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-tsuchiyatakahirolab-actionproof/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/tsuchiyatakahirolab/actionproof/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/tsuchiyatakahirolab/actionproof/main/README.md (retrieved 2026-11-04T17:55:02Z; SHA-256 f727f24053c8e84b2475ba93f0e364f96eb0c162bf23d71922a713f640300eea)
+- https://raw.githubusercontent.com/tsuchiyatakahirolab/actionproof/HEAD/LICENSE (retrieved 2026-11-04T17:59:58Z; SHA-256 d455b78cdfbe3a3e3261a4700a3ca5c4494c481e9cab413745df64446e3b7191)
+
+---
+
+## fast-automation (Plan-Once Ground-Locally)
+
+Compares plan-once local-grounding web agents against step-by-step ReAct loops across a 200-task benchmark and 2,800 recorded runs.
+
+- Catalog URL: https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/
+- Original source: https://github.com/TheDivyanshShukla/plan-once-ground-locally
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, planning, grounding, efficiency
+- Evidence checked: 2026-11-04T14:20:13Z
+- ID: github:thedivyanshshukla/plan-once-ground-locally
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/TheDivyanshShukla/plan-once-ground-locally/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/TheDivyanshShukla/plan-once-ground-locally/HEAD/README.md (retrieved 2026-11-04T14:20:13Z; SHA-256 47896171dcd498f15bd527695784311c5099dbc258ff3a6178aacc1ec5a1b2cf)
+- https://raw.githubusercontent.com/TheDivyanshShukla/plan-once-ground-locally/HEAD/LICENSE (retrieved 2026-11-04T14:23:42Z; SHA-256 64c522406c98854592ad99c2c7c1f52e2a5692aec1fbce2b9ef3af66d4cd00f8)
+
+---
+
+## FedGUI
+
+FedGUI benchmarks federated GUI agent training and evaluation across heterogeneous platforms, device types, data sources, and operating systems.
+
+- Catalog URL: https://awesomecua.com/resources/github-wwh0411-fedgui/
+- Original source: https://github.com/wwh0411/FedGUI
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: evaluation, grounding
+- Evidence checked: 2026-11-04T13:12:43Z
+- ID: github:wwh0411/fedgui
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-wwh0411-fedgui/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/wwh0411/FedGUI/HEAD/README.md (retrieved 2026-11-04T13:12:43Z; SHA-256 b13a574dcd13d552530a10ed1db1b7c65082e77b0ebb1ad87341d6aa0e011d9a)
 
 ---
 
@@ -865,6 +2553,241 @@ The dataset-family count does not count tasks, apps, screenshots or client insta
 - https://api.github.com/repos/wwh0411/FedMABench/git/trees/master?recursive=1 (retrieved 2026-10-17T11:22:54Z; SHA-256 4fb977a469cee3d5083da0b5bf2984fedc6b867146a90b20963985e08f9e9716)
 - https://huggingface.co/api/datasets/wwh0411/FedMABench (retrieved 2026-10-17T11:23:06Z; SHA-256 df5379f4a9b350dad0c3d374d2f9a1d6eacd974b6d54750e2a14ecec1faec6e5)
 - https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md (retrieved 2026-10-17T11:23:06Z; SHA-256 2874269995d8c9f5dabe266433ecf724bf54c27af599d899f3f0090b8ee37cdc)
+
+---
+
+## Financial CUA Benchmark
+
+Financial CUA Benchmark provides deterministic verifiers and bond-underwriting tasks for evaluating financial computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-vitoworleone-financial-cua-benchmark/
+- Original source: https://github.com/vitoworleone/financial-cua-benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, workflow
+- Evidence checked: 2026-11-04T14:20:12Z
+- ID: github:vitoworleone/financial-cua-benchmark
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-vitoworleone-financial-cua-benchmark/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vitoworleone/financial-cua-benchmark/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 5c1801728a26291839c89a4764161b941ea4536727a08c23e4e5f418b7e78b33)
+
+---
+
+## FixtureBench
+
+FixtureBench evaluates procurement browser agents on deterministic Coupa-style buyer/supplier portals with pagination, MFA, and decoy POs.
+
+- Catalog URL: https://awesomecua.com/resources/github-prabal-singh-fixturebench/
+- Original source: https://github.com/Prabal-Singh/fixturebench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, workflow, robustness
+- Evidence checked: 2026-11-04T14:20:09Z
+- ID: github:prabal-singh/fixturebench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-prabal-singh-fixturebench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Prabal-Singh/fixturebench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Prabal-Singh/fixturebench/HEAD/README.md (retrieved 2026-11-04T14:20:09Z; SHA-256 b2e70f1a5fe0ba37920a9f4d6713fe0673088be00e0a08fc043381f3ce70c025)
+- https://raw.githubusercontent.com/Prabal-Singh/fixturebench/HEAD/LICENSE (retrieved 2026-11-04T14:23:35Z; SHA-256 9a798ad181c18e9cf27a4bf48b4b8ce54de0204bc3a941e1ef5d5e57009784ba)
+
+---
+
+## FlashAdventure
+
+FlashAdventure benchmarks GUI agents on solving complete story arcs across 34 Flash point-and-click adventure games requiring long-term memory.
+
+- Catalog URL: https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/
+- Original source: https://github.com/ahnjaewoo/FlashAdventure
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, long-horizon, memory, planning
+- Evidence checked: 2026-11-04T14:02:35Z
+- ID: github:ahnjaewoo/flashadventure
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ahnjaewoo/FlashAdventure/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ahnjaewoo/FlashAdventure/HEAD/README.md (retrieved 2026-11-04T14:02:35Z; SHA-256 6c7bd2eb4647d2a6e1be92c95b2675cf9ca2bc89810c009e207b8fc05dc2378e)
+- https://raw.githubusercontent.com/ahnjaewoo/FlashAdventure/HEAD/LICENSE (retrieved 2026-11-04T14:07:15Z; SHA-256 bc16d48ce4b9c15da8d65fc3e8ab687b76a9e3aea96587214fd82c302ed6639e)
+
+---
+
+## Frozen Vision Backbones for GUI Grounding
+
+Benchmarks dense versus global features across frozen vision backbones for pixel-coordinate GUI grounding.
+
+- Catalog URL: https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/
+- Original source: https://github.com/DhruvRaval04/do-frozen-vision-backbones-transfer-to-guis
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, android
+- Topics: evaluation, grounding, screen-understanding
+- Evidence checked: 2026-11-04T14:20:10Z
+- ID: github:dhruvraval04/do-frozen-vision-backbones-transfer-to-guis
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/DhruvRaval04/do-frozen-vision-backbones-transfer-to-guis/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/DhruvRaval04/do-frozen-vision-backbones-transfer-to-guis/HEAD/README.md (retrieved 2026-11-04T14:20:10Z; SHA-256 6d06d48b23063c6a8269c2edc267c0d4490061f13c2169ed030c65c5ba3938da)
+- https://raw.githubusercontent.com/DhruvRaval04/do-frozen-vision-backbones-transfer-to-guis/HEAD/LICENSE (retrieved 2026-11-04T14:23:35Z; SHA-256 902f12393a01c4aa835ee0e288c4d9045721744dbb6418f1b8da5bb65f196901)
+
+---
+
+## GameWorld
+
+GameWorld provides a standardized browser-based evaluation suite for multimodal game agents across 34 games and 170 verifiable tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-gameworld-project-gameworld/
+- Original source: https://github.com/gameworld-project/GameWorld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, action-prediction, planning
+- Evidence checked: 2026-11-04T14:02:40Z
+- ID: github:gameworld-project/gameworld
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-gameworld-project-gameworld/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gameworld-project/GameWorld/HEAD/README.md (retrieved 2026-11-04T14:02:40Z; SHA-256 a20fdc3d534295ba721ce7c12b121f03b56a0ededb9f2eacc40d5aefa56da624)
+
+---
+
+## Gomoku Computer-Use Model Comparison
+
+Controlled evaluation benchmark comparing frontier Claude models on interactive board-game reasoning and GUI execution.
+
+- Catalog URL: https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/
+- Original source: https://github.com/JNS-C/model-comparison-gomoku
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, planning, screen-understanding
+- Evidence checked: 2026-11-04T18:11:45Z
+- ID: github:jns-c/model-comparison-gomoku
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/JNS-C/model-comparison-gomoku/main/README.md (retrieved 2026-11-04T18:11:45Z; SHA-256 c2666f5f6d53a4fe8fd6f7d401f2a863b64f173a13c765277ccbca4583ca2d44)
+
+---
+
+## Graph-Guided Agentic Testing
+
+Uses a browser agent to explore web checkout flows into a Neo4j state graph and synthesizes graph-guided end-to-end tests.
+
+- Catalog URL: https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/
+- Original source: https://github.com/avikundal/graph-guided-agentic-testing
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, planning, state-tracking
+- Evidence checked: 2026-11-04T16:30:14Z
+- ID: github:avikundal/graph-guided-agentic-testing
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/avikundal/graph-guided-agentic-testing/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/avikundal/graph-guided-agentic-testing/HEAD/README.md (retrieved 2026-11-04T16:30:14Z; SHA-256 15f418cf61e5cf6bca24c36337857554da1475441dd341f2ba583f917de454c8)
+- https://raw.githubusercontent.com/avikundal/graph-guided-agentic-testing/HEAD/LICENSE (retrieved 2026-11-04T16:34:26Z; SHA-256 14bf1a25be18b9a250f014847aba23022315bbbbca496edd2c063ba9d05cd80a)
 
 ---
 
@@ -954,6 +2877,242 @@ Each annotation entry represents a page, not one UI element. README’s illustra
 
 ---
 
+## HealthEnv
+
+HealthEnv compiles longitudinal clinical question-answering tasks into stateful, verifiable computer-use evaluation environments.
+
+- Catalog URL: https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/
+- Original source: https://github.com/possibleme2026-lang/healthenv
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, sandbox, workflow
+- Evidence checked: 2026-11-04T14:41:46Z
+- ID: github:possibleme2026-lang/healthenv
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/possibleme2026-lang/healthenv/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/possibleme2026-lang/healthenv/HEAD/README.md (retrieved 2026-11-04T14:41:46Z; SHA-256 8f91bc42fd6a20a7e4e19ba461abbe75923558010133f99f5a8830bbe7ad70e8)
+- https://raw.githubusercontent.com/possibleme2026-lang/healthenv/HEAD/LICENSE (retrieved 2026-11-04T14:45:02Z; SHA-256 994cf4b8722b9a4975ea5455694bcddbf40aaff0b415555755df00320de7a564)
+
+---
+
+## HoloSkill Gym
+
+Gym environment and optimization framework for self-evolving CLI and computer-use agent skills.
+
+- Catalog URL: https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/
+- Original source: https://github.com/ElenaViewSynthesis/holoskill-gym
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: evaluation, reinforcement-learning, self-reflection, workflow
+- Evidence checked: 2026-11-04T17:30:34Z
+- ID: github:elenaviewsynthesis/holoskill-gym
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-elenaviewsynthesis-holoskill-gym/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ElenaViewSynthesis/holoskill-gym/main/README.md (retrieved 2026-11-04T17:30:34Z; SHA-256 4f351caff863214512c597e9c68be0a9595266234df755ca32c3e6b3694ea5e4)
+
+---
+
+## HumanQA
+
+Evidence-first product quality and UX evaluation harness for testing web applications with browser agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-hotragn-humanqa/
+- Original source: https://github.com/Hotragn/humanqa
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, ui-design, web-navigation
+- Evidence checked: 2026-11-04T17:20:52Z
+- ID: github:hotragn/humanqa
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-hotragn-humanqa/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Hotragn/humanqa/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Hotragn/humanqa/main/README.md (retrieved 2026-11-04T17:20:52Z; SHA-256 37a15b95ec894afff0d1e11e58d6b2a4df934068cb3b250164e1de18a1eee7a8)
+- https://raw.githubusercontent.com/Hotragn/humanqa/HEAD/LICENSE (retrieved 2026-11-04T17:26:34Z; SHA-256 91dbfa3cf8aa316d440b1fd81b1f48d467780f2975eca932590137171909db46)
+
+---
+
+## hyprbench
+
+hyprbench is an OSWorld-style computer-use benchmark for the Linux Hyprland Wayland compositor with scripted window-management verifiers.
+
+- Catalog URL: https://awesomecua.com/resources/github-crispwisp-hyprbench/
+- Original source: https://github.com/crispwisp/hyprbench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, sandbox, automation
+- Evidence checked: 2026-11-04T14:02:47Z
+- ID: github:crispwisp/hyprbench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-crispwisp-hyprbench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/crispwisp/hyprbench/HEAD/README.md (retrieved 2026-11-04T14:02:47Z; SHA-256 04e30af26bc075f96deea6ea6bd46ba5743c725a1ecb89866d29b6236cfc9c65)
+
+---
+
+## Inspect Evals
+
+Inspect Evals is a community benchmark suite for the UK AISI Inspect framework including OSWorld, GAIA, SWE-bench, and cyber/agent evaluations.
+
+- Catalog URL: https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/
+- Original source: https://github.com/UKGovernmentBEIS/inspect_evals
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web, linux
+- Topics: evaluation, safety-security, sandbox
+- Evidence checked: 2026-11-04T13:12:41Z
+- ID: github:ukgovernmentbeis/inspect_evals
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_evals/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_evals/HEAD/README.md (retrieved 2026-11-04T13:12:41Z; SHA-256 27150e51a4f8c9c320dbee61cbc57d47501d8bfa03e0579715ef1a6e260de70f)
+- https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_evals/HEAD/LICENSE (retrieved 2026-11-04T13:41:32Z; SHA-256 c593c2afc81388521eaeb03f0d1a4b01bc3e5147ed9cb16c1f129e5be353b6af)
+
+---
+
+## Intention-in-Interaction (IN3) & Mistral-Interact
+
+Provides the Intention-in-Interaction (IN3) benchmark and Mistral-Interact model for proactive user-intent clarification in agent tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-openbmb-tell-me-more/
+- Original source: https://github.com/OpenBMB/Tell_Me_More
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, human-in-the-loop, planning
+- Evidence checked: 2026-11-04T13:12:29Z
+- ID: github:openbmb/tell_me_more
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-openbmb-tell-me-more/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/OpenBMB/Tell_Me_More/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenBMB/Tell_Me_More/HEAD/README.md (retrieved 2026-11-04T13:12:29Z; SHA-256 95a0d43bdf625a6845c8fd2ded35f86dfb2db4cc8ff7fd53da746de82cec5d40)
+- https://raw.githubusercontent.com/OpenBMB/Tell_Me_More/HEAD/LICENSE (retrieved 2026-11-04T13:41:32Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## Intentproof
+
+AI-driven end-to-end verification orchestrator and interactive browser testing harness.
+
+- Catalog URL: https://awesomecua.com/resources/github-egagofur-intentproof/
+- Original source: https://github.com/egagofur/intentproof
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, observability
+- Evidence checked: 2026-11-04T17:30:40Z
+- ID: github:egagofur/intentproof
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-egagofur-intentproof/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/egagofur/intentproof/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/egagofur/intentproof/main/README.md (retrieved 2026-11-04T17:30:40Z; SHA-256 a9065ff2c722f3cd089c5b5a6b91c56d19f156eb3ad5ce987164f4424cbf0c40)
+- https://raw.githubusercontent.com/egagofur/intentproof/HEAD/LICENSE (retrieved 2026-11-04T17:39:41Z; SHA-256 a59c0baaf0dd5981c04a209d7783b060b2f6b420ef0b1c5a9a603ce3b0983b57)
+
+---
+
 ## iOSWorld
 
 Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.
@@ -1000,6 +3159,208 @@ Vision-only, vision-plus-XML, and MCP modes expose different information and too
 
 - https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 706f9d770b65a1238e56f74f7dd5089c7756cc88e0ac09d80c7b2b3085a09b27)
 - https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 fa9fe1e31ed8da21d0b51621d3a3669ced4f0e42353aaf4bd8be1615d200eaac)
+
+---
+
+## jev-click-bench
+
+jev-click-bench evaluates Jev 1.14 bounding-box grounding on ScreenSpot-v2 and ScreenSpot-Pro with official scoring and per-click logs.
+
+- Catalog URL: https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/
+- Original source: https://github.com/arthurkatcher/jev-click-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, android
+- Topics: evaluation, grounding
+- Evidence checked: 2026-11-04T14:41:46Z
+- ID: github:arthurkatcher/jev-click-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/arthurkatcher/jev-click-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/arthurkatcher/jev-click-bench/HEAD/README.md (retrieved 2026-11-04T14:41:46Z; SHA-256 95c819ead98fb53930b527770c80a0481a87d3f1d8f7614ce6c00e145d3aa063)
+- https://raw.githubusercontent.com/arthurkatcher/jev-click-bench/HEAD/LICENSE (retrieved 2026-11-04T14:45:04Z; SHA-256 0e0159fc1884722a1d7bf841468e41414b0daf0ffdeb3b19f6890bef399cff80)
+
+---
+
+## Kane
+
+Plain-English browser verification harness for AI-built web applications that reports UI failures back to coding agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-venkat5599-kane/
+- Original source: https://github.com/Venkat5599/kane
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, self-reflection
+- Evidence checked: 2026-11-04T17:30:27Z
+- ID: github:venkat5599/kane
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-venkat5599-kane/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Venkat5599/kane/main/README.md (retrieved 2026-11-04T17:30:27Z; SHA-256 2a6af07f95c092d3e9529a6036b99a170007c76f8c37903a65ad579954a6bdb2)
+
+---
+
+## Kernel Eval Protocol
+
+Evaluates and fine-tunes vision-language browser agents using Eval Protocol, Kernel cloud browsers, and verifiable task graders.
+
+- Catalog URL: https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/
+- Original source: https://github.com/kernel/kernel-eval-protocol-quickstart
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, reinforcement-learning, web-navigation, sandbox
+- Evidence checked: 2026-11-04T15:45:42Z
+- ID: github:kernel/kernel-eval-protocol-quickstart
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/kernel/kernel-eval-protocol-quickstart/HEAD/README.md (retrieved 2026-11-04T15:45:42Z; SHA-256 bc26e8e18238dbf0fecad48424be36ca5891e8751796d9d1b1261a8600b81ebe)
+
+---
+
+## KNOWS Benchmark
+
+KNOWS benchmarks web agents on realistic, open-ended Google Workspace tasks spanning Google Docs, Sheets, and Slides.
+
+- Catalog URL: https://awesomecua.com/resources/github-alexgill321-knows-benchmark/
+- Original source: https://github.com/alexgill321/KNOWS-benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, workflow
+- Evidence checked: 2026-11-04T14:02:47Z
+- ID: github:alexgill321/knows-benchmark
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-alexgill321-knows-benchmark/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/alexgill321/KNOWS-benchmark/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/alexgill321/KNOWS-benchmark/HEAD/README.md (retrieved 2026-11-04T14:02:47Z; SHA-256 f750474dccbe9673e3bec61826570cfbcf59e7483c742d7dcdd1f66f9cd04475)
+- https://raw.githubusercontent.com/alexgill321/KNOWS-benchmark/HEAD/LICENSE (retrieved 2026-11-04T14:07:20Z; SHA-256 989b42e4201a4e1c21a6ea4e796bd43d9f52f3090f602afc33fad1867392999f)
+
+---
+
+## LAST DOOR
+
+Authentication resilience benchmark and WebMCP authority compiler for testing browser agents at login and permission boundaries.
+
+- Catalog URL: https://awesomecua.com/resources/github-agentsimdev-last-door/
+- Original source: https://github.com/agentsimdev/last-door
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, evaluation, web-navigation, tool-integration
+- Evidence checked: 2026-11-04T17:55:02Z
+- ID: github:agentsimdev/last-door
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-agentsimdev-last-door/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/agentsimdev/last-door/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agentsimdev/last-door/main/README.md (retrieved 2026-11-04T17:55:02Z; SHA-256 9353d8b66e4229c535ac14284cae7e7f8f3b1079b03f9a9512d9f879d4e25f71)
+- https://raw.githubusercontent.com/agentsimdev/last-door/HEAD/LICENSE (retrieved 2026-11-04T17:59:57Z; SHA-256 ef7b828a549a34b0bf9879e58cfa658d37d13cae4c5ba50ed2047482e7e6d22a)
+
+---
+
+## Lexbench-Headless-Browser
+
+Lexbench-Headless-Browser benchmarks 13 headless browser automation runtimes across 1,928 web tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-lexmount-lexbench-headless-browser/
+- Original source: https://github.com/lexmount/Lexbench-Headless-Browser
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, efficiency
+- Evidence checked: 2026-11-04T14:41:45Z
+- ID: github:lexmount/lexbench-headless-browser
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-lexmount-lexbench-headless-browser/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/lexmount/Lexbench-Headless-Browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lexmount/Lexbench-Headless-Browser/HEAD/README.md (retrieved 2026-11-04T14:41:45Z; SHA-256 585540235499a1aa708e7ec7fabf2594994437a7a8d417302c3c82db3c553e65)
+- https://raw.githubusercontent.com/lexmount/Lexbench-Headless-Browser/HEAD/LICENSE (retrieved 2026-11-04T14:45:03Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -1054,6 +3415,142 @@ Application coverage refers to the self-constructed subset. Task execution and e
 
 ---
 
+## LLM as a Judge for Computer-Use Agents
+
+LLM-as-a-Judge evaluation harness for assessing computer-use agent trajectories across web browsing and desktop interaction tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-anaishowland-llm-judge-psai/
+- Original source: https://github.com/anaishowland/llm-judge-psai
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, reward-models, web-navigation
+- Evidence checked: 2026-11-04T15:45:42Z
+- ID: github:anaishowland/llm-judge-psai
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-anaishowland-llm-judge-psai/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/anaishowland/llm-judge-psai/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/anaishowland/llm-judge-psai/HEAD/README.md (retrieved 2026-11-04T15:45:42Z; SHA-256 dd1fb61ec03112ae04b2a34d5a663715e664daf6326f9290009b318a42fd3c4c)
+- https://raw.githubusercontent.com/anaishowland/llm-judge-psai/HEAD/LICENSE (retrieved 2026-11-04T15:57:25Z; SHA-256 e785dca3c094c4d014724f01280ebe8ebd91166676f251c4feaf4470b623121e)
+
+---
+
+## LMMs-Eval
+
+LMMs-Eval is a standardized evaluation harness for large multimodal models covering GUI grounding, VQA, document, and video benchmarks.
+
+- Catalog URL: https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/
+- Original source: https://github.com/EvolvingLMMs-Lab/lmms-eval
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web, desktop, android
+- Topics: evaluation, screen-understanding, grounding
+- Evidence checked: 2026-11-04T13:12:14Z
+- ID: github:evolvinglmms-lab/lmms-eval
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/README.md (retrieved 2026-11-04T13:12:14Z; SHA-256 f14d00e5d467b739b9bbbbf03eacf78dbbd6f28ec65f74ee52939556e6f02e23)
+- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE (retrieved 2026-11-04T13:41:32Z; SHA-256 17358b5caadacb8108f14a6a319779cc8a20feed699f79c59e396e7e9dd5c33b)
+
+---
+
+## LongPuzzleBench
+
+LongPuzzleBench evaluates GUI and computer-use agents on long-horizon visual puzzle games requiring multi-step spatial reasoning.
+
+- Catalog URL: https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/
+- Original source: https://github.com/bingozhang-verapraxis/LongPuzzleBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, long-horizon, planning, screen-understanding
+- Evidence checked: 2026-11-04T14:02:47Z
+- ID: github:bingozhang-verapraxis/longpuzzlebench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/bingozhang-verapraxis/LongPuzzleBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/bingozhang-verapraxis/LongPuzzleBench/HEAD/README.md (retrieved 2026-11-04T14:02:47Z; SHA-256 ab4d26e67bca7fdd94e48b74054b7ee69ad22ac27226391559e4bd9f27f779ce)
+- https://raw.githubusercontent.com/bingozhang-verapraxis/LongPuzzleBench/HEAD/LICENSE (retrieved 2026-11-04T14:07:19Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## LPS-Bench
+
+LPS-Bench benchmarks the safety awareness of computer-use agents during long-horizon planning across benign and adversarial execution scenarios.
+
+- Catalog URL: https://awesomecua.com/resources/github-tychenn-lps-bench/
+- Original source: https://github.com/tychenn/LPS-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, safety-security, planning, long-horizon
+- Evidence checked: 2026-11-04T13:12:41Z
+- ID: github:tychenn/lps-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-tychenn-lps-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/tychenn/LPS-Bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/tychenn/LPS-Bench/HEAD/README.md (retrieved 2026-11-04T13:12:41Z; SHA-256 a3b3072715773798e4d3a723fa77e45dc757de27e8873ea30697f25607161118)
+- https://raw.githubusercontent.com/tychenn/LPS-Bench/HEAD/LICENSE (retrieved 2026-11-04T13:22:27Z; SHA-256 407c33cea7a36c5beab41115f8267011bd4bee60fb87909af4c10b8bd3ca1b63)
+
+---
+
 ## MacAgentBench
 
 676 macOS tasks across 25 applications, each run in its own Docker container and scored by deterministic rule-based checks with multiple checkpoints.
@@ -1104,6 +3601,141 @@ The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framewo
 
 ---
 
+## MacArena
+
+MacArena benchmarks computer-use agents in an online, reproducible macOS virtual-machine environment across multi-app desktop tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-macpaw-macarena/
+- Original source: https://github.com/MacPaw/MacArena
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: evaluation, sandbox, long-horizon
+- Evidence checked: 2026-11-04T14:02:42Z
+- ID: github:macpaw/macarena
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-macpaw-macarena/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MacPaw/MacArena/HEAD/README.md (retrieved 2026-11-04T14:02:42Z; SHA-256 3f82d0c556ed2210607534731658a0f0677c5ce5c9f7c9a6f61104270d4d913b)
+
+---
+
+## MalURLBench
+
+MalURLBench evaluates the vulnerability of LLM-based web agents to phishing and malicious URL attacks across ten real-world web scenarios.
+
+- Catalog URL: https://awesomecua.com/resources/github-jiangyinger-malurlbench/
+- Original source: https://github.com/JiangYingEr/MalURLBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, web-navigation
+- Evidence checked: 2026-11-04T13:12:20Z
+- ID: github:jiangyinger/malurlbench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-jiangyinger-malurlbench/record.json
+
+### License declarations
+
+- code: GPL-3.0 — https://raw.githubusercontent.com/JiangYingEr/MalURLBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/JiangYingEr/MalURLBench/HEAD/README.md (retrieved 2026-11-04T13:12:20Z; SHA-256 d7bfd8e332f3f623d4131f20751debdbdf35361d1275526051fc43679bef1b5b)
+- https://raw.githubusercontent.com/JiangYingEr/MalURLBench/HEAD/LICENSE (retrieved 2026-11-04T13:22:28Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
+
+---
+
+## MarketBench
+
+MarketBench is a reproducible WebMCP benchmark evaluating browser agents on multi-week economic decision-making in simulated markets.
+
+- Catalog URL: https://awesomecua.com/resources/github-santos-sanz-marketbench/
+- Original source: https://github.com/santos-sanz/marketbench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, planning, tool-integration
+- Evidence checked: 2026-11-04T14:20:12Z
+- ID: github:santos-sanz/marketbench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-santos-sanz-marketbench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/santos-sanz/marketbench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/santos-sanz/marketbench/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 3a39592161583e28bc1456f7f592ebd056e405d82e719f5d887521cf91221a5a)
+- https://raw.githubusercontent.com/santos-sanz/marketbench/HEAD/LICENSE (retrieved 2026-11-04T14:23:37Z; SHA-256 8ce7da3b826c67d11f562eed1ed5a9e5115862a953aac7f986069963727350ca)
+
+---
+
+## Maudslay
+
+Maudslay evaluates release readiness and pass^k reliability of computer-use agents against independent backend and email ground truth.
+
+- Catalog URL: https://awesomecua.com/resources/github-theo-ai-lab-maudslay/
+- Original source: https://github.com/theo-ai-lab/maudslay
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, robustness, observability
+- Evidence checked: 2026-11-04T14:20:09Z
+- ID: github:theo-ai-lab/maudslay
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-theo-ai-lab-maudslay/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/theo-ai-lab/maudslay/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/theo-ai-lab/maudslay/HEAD/README.md (retrieved 2026-11-04T14:20:09Z; SHA-256 8e1d681c3b9dde339a2f214de304242995c451a76a36bd99497a3d4918716075)
+- https://raw.githubusercontent.com/theo-ai-lab/maudslay/HEAD/LICENSE (retrieved 2026-11-04T14:23:33Z; SHA-256 ba86525fa785c0361588e83ac93f62f89af52df0cd52fff51b41d83938c7855c)
+
+---
+
 ## MCPWorld
 
 Evaluation environment combining computer interaction with tool access.
@@ -1137,6 +3769,40 @@ The retained paper reports 201 tasks, whereas the retained repository README des
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
 - https://raw.githubusercontent.com/SAAgent/MCPWorld/HEAD/README.md (retrieved 2026-10-16T06:35:59Z; SHA-256 5559ca58f8ee06d2812c6cbc8c3e49ef112f4ef41fdcf4e95568b268bb24bf14)
 - https://raw.githubusercontent.com/SAAgent/MCPWorld/HEAD/LICENSE (retrieved 2026-10-16T06:41:59Z; SHA-256 d7a04bf11ce24a7b79cd44b4a78dcc9971eaeb3b565821de437e0ecb7723e634)
+
+---
+
+## mimiq
+
+mimiq is a dynamic end-to-end agentic simulation and web UI evaluation runner integrating Cypress, Playwright, and Stagehand.
+
+- Catalog URL: https://awesomecua.com/resources/github-gojiplus-mimiq/
+- Original source: https://github.com/gojiplus/mimiq
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, automation
+- Evidence checked: 2026-11-04T15:45:42Z
+- ID: github:gojiplus/mimiq
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-gojiplus-mimiq/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/gojiplus/mimiq/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gojiplus/mimiq/HEAD/README.md (retrieved 2026-11-04T15:45:42Z; SHA-256 b4909ae368b5fa12398ff113beeb703c2e2502c8dddd263f369872712e09482f)
+- https://raw.githubusercontent.com/gojiplus/mimiq/HEAD/LICENSE (retrieved 2026-11-04T15:57:25Z; SHA-256 bb1f65812e2de061212902b532382e857aede0faf5d28141a25c84037f6181f7)
 
 ---
 
@@ -1277,6 +3943,40 @@ The README gives a lower bound, not an exact active-environment inventory. Actio
 
 ---
 
+## Mirage (Adversarial Web Benchmark)
+
+Controlled adversarial web environment for measuring how autonomous browser agents fail under deceptive UI and prompt traps.
+
+- Catalog URL: https://awesomecua.com/resources/github-shushant17711-mirage/
+- Original source: https://github.com/Shushant17711/mirage
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, robustness, web-navigation
+- Evidence checked: 2026-11-04T18:11:35Z
+- ID: github:shushant17711/mirage
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-shushant17711-mirage/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Shushant17711/mirage/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Shushant17711/mirage/master/README.md (retrieved 2026-11-04T18:11:35Z; SHA-256 1d4c48c1152cb3b3c21a9b709e111383ab43991963d7afc65f4f2843597abf8a)
+- https://raw.githubusercontent.com/Shushant17711/mirage/HEAD/LICENSE (retrieved 2026-11-04T18:16:08Z; SHA-256 614c8ccf71c29e27a718369d15ae445ef74187d0699eb11677a51c5850e870f4)
+
+---
+
 ## MLA-Trust
 
 Unified evaluation framework measuring truthfulness, controllability, safety, and privacy of multimodal LLM agents across interactive web and mobile GUI tasks.
@@ -1308,6 +4008,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/thu-ml/MLA-Trust/HEAD/README.md (retrieved 2026-10-18T10:59:55Z; SHA-256 d69da19edaed185ad3071a97db3bb3fcfbdb14c0b514b7d27794b39fbe8e2541)
 - https://raw.githubusercontent.com/thu-ml/MLA-Trust/HEAD/LICENSE (retrieved 2026-10-18T11:03:46Z; SHA-256 240fb6820e7bcb0753617bcad6ffbd4a9ba83ca98e1e6aaa06c7b197b244bf16)
+
+---
+
+## MM-SafetyBench
+
+MM-SafetyBench evaluates multimodal large language models against query-relevant adversarial image and typography safety prompts across 13 scenarios.
+
+- Catalog URL: https://awesomecua.com/resources/github-ai45lab-mm-safetybench/
+- Original source: https://github.com/AI45Lab/MM-SafetyBench
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: evaluation, safety-security
+- Evidence checked: 2026-11-04T13:12:05Z
+- ID: github:ai45lab/mm-safetybench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ai45lab-mm-safetybench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/AI45Lab/MM-SafetyBench/HEAD/README.md (retrieved 2026-11-04T13:12:05Z; SHA-256 7fb245e804e1b7a06b6e3902d2fb880a850a63a2a419de3a1304c8e134671670)
 
 ---
 
@@ -1439,6 +4172,40 @@ Task definitions are distinct from device images, agent execution and automated 
 
 - https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md (retrieved 2026-10-17T12:32:07Z; SHA-256 231a8f483256c774840c99383ab6536520a0aed0f04d62b4d64f1f59477b906e)
 - https://huggingface.co/api/datasets/OpenDFM/MobA-MobBench (retrieved 2026-10-17T12:32:07Z; SHA-256 4e7225f956d7cee98fe671e7bfd91fc407d87dd805d8f0c11c3b0c839714ccf3)
+
+---
+
+## Mobile-Bench
+
+Mobile-Bench evaluates LLM-based mobile agents on multi-step Android tasks combining UI actions and API extensions with checkpoint metrics.
+
+- Catalog URL: https://awesomecua.com/resources/github-xiaomi-mobilebench/
+- Original source: https://github.com/XiaoMi/MobileBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, tool-integration
+- Evidence checked: 2026-11-04T13:12:45Z
+- ID: github:xiaomi/mobilebench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-xiaomi-mobilebench/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/XiaoMi/MobileBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/XiaoMi/MobileBench/HEAD/README.md (retrieved 2026-11-04T13:12:45Z; SHA-256 f3aca4ac8ae8e72329d14c42f204b919a46fc7b3e5071852da1b9b7c4e7b403c)
+- https://raw.githubusercontent.com/XiaoMi/MobileBench/HEAD/LICENSE (retrieved 2026-11-04T13:22:31Z; SHA-256 d642832150981d993726e3284767cba4ed15cf27d6689a9d19ee05688e132ee0)
 
 ---
 
@@ -1578,6 +4345,40 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/MobileAgentBench/mobile-agent-bench/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 e1d75e8a196f19af6050c53694383f069561244c810ca259c5f8075ee91f72b1)
+
+---
+
+## MobileBench-OL
+
+MobileBench-OL provides an online evaluation harness for testing mobile GUI agents on real Android devices with dynamic task verification.
+
+- Catalog URL: https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/
+- Original source: https://github.com/xiaomi-research/mobilebench-ol
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, robustness
+- Evidence checked: 2026-11-04T13:12:45Z
+- ID: github:xiaomi-research/mobilebench-ol
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/xiaomi-research/mobilebench-ol/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xiaomi-research/mobilebench-ol/HEAD/README.md (retrieved 2026-11-04T13:12:45Z; SHA-256 bace67b98a6e04a94324246a76f3268e751868a4608ecdd2a5c75ad67115fff3)
+- https://raw.githubusercontent.com/xiaomi-research/mobilebench-ol/HEAD/LICENSE (retrieved 2026-11-04T13:22:29Z; SHA-256 997ae1f91734822c2971f0ad91ac221d03dad400a29e3c94bd97774161df0807)
 
 ---
 
@@ -1886,6 +4687,108 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Navi-Bench
+
+Navi-Bench evaluates web agents on everyday consumer tasks executed directly on live websites with deterministic outcome verifiers.
+
+- Catalog URL: https://awesomecua.com/resources/github-yutori-ai-navi-bench/
+- Original source: https://github.com/yutori-ai/navi-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-04T14:02:36Z
+- ID: github:yutori-ai/navi-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-yutori-ai-navi-bench/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/yutori-ai/navi-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yutori-ai/navi-bench/HEAD/README.md (retrieved 2026-11-04T14:02:36Z; SHA-256 1642a791d8fc35149562ca741b8d20596d0a2b756fab188522070242dca21336)
+- https://raw.githubusercontent.com/yutori-ai/navi-bench/HEAD/LICENSE (retrieved 2026-11-04T14:07:15Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## Next-Gen CAPTCHAs
+
+Next-Gen CAPTCHAs provides an interactive benchmark and generator of cognitive-gap CAPTCHA challenges for defending against GUI web agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/
+- Original source: https://github.com/MetaAgentX/NextGen-CAPTCHAs
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, web-navigation
+- Evidence checked: 2026-11-04T13:12:24Z
+- ID: github:metaagentx/nextgen-captchas
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/README.md (retrieved 2026-11-04T13:12:24Z; SHA-256 44711dbb604684fdb67fe1214f65eca22368dfb1f2599304c75ce87e24b280ba)
+- https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/LICENSE (retrieved 2026-11-04T13:22:28Z; SHA-256 d009312b46edeace3d9fa5a66a6b11e71b78701aa1f2d1085500033b87821feb)
+
+---
+
+## Nightshift
+
+Black-box computer-use QA harness on Solari that evaluates live user interfaces without access to application test hooks.
+
+- Catalog URL: https://awesomecua.com/resources/github-yayaq1-nightshift/
+- Original source: https://github.com/yayaq1/nightshift
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, web-navigation, automation
+- Evidence checked: 2026-11-04T17:55:25Z
+- ID: github:yayaq1/nightshift
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-yayaq1-nightshift/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/yayaq1/nightshift/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yayaq1/nightshift/main/README.md (retrieved 2026-11-04T17:55:25Z; SHA-256 3a2d3cdbbf327a8555d6a2cc4cd7962d396eb7ed7593d7cf20af97884fda21e8)
+- https://raw.githubusercontent.com/yayaq1/nightshift/HEAD/LICENSE (retrieved 2026-11-04T17:59:59Z; SHA-256 5f220ea17d1b2c4ab3ea8745de474fbbaa2c7dbd89f72c1dc9fea5f0e7560674)
+
+---
+
 ## OmniAct
 
 Dataset and benchmark for generating computer interaction programs.
@@ -1938,6 +4841,40 @@ This released split table totals 9,799 examples; it is not silently substituted 
 
 ---
 
+## OmniWebBench
+
+OmniWebBench evaluates agentic browsers across end-to-end web navigation, action execution, failure recovery, and evidence verification.
+
+- Catalog URL: https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/
+- Original source: https://github.com/FanXuTheRealOne/OmniWebBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, self-reflection, robustness
+- Evidence checked: 2026-11-04T14:20:10Z
+- ID: github:fanxutherealone/omniwebbench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/FanXuTheRealOne/OmniWebBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/FanXuTheRealOne/OmniWebBench/HEAD/README.md (retrieved 2026-11-04T14:20:10Z; SHA-256 1c3fa67c31446916a2b526b953e6703bbd0deba22f44615210661b2e553cb3d8)
+- https://raw.githubusercontent.com/FanXuTheRealOne/OmniWebBench/HEAD/LICENSE (retrieved 2026-11-04T14:23:36Z; SHA-256 4dd13869245e356246a5b770723247bbb80a8f07a181d1d3d873a1734297cdb9)
+
+---
+
 ## Online Mind2Web
 
 300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
@@ -1984,6 +4921,74 @@ Tasks are actively replaced when websites or requirements become invalid. Record
 
 - https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa)
 - https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 93675f9d13697ae98889d703b8fae86a7200623e7ae8d844c9ee2200ad480583)
+
+---
+
+## Open User
+
+Black-box UX audit harness that dispatches AI browser personas to test web products and record friction points.
+
+- Catalog URL: https://awesomecua.com/resources/github-tiacoo-open-user/
+- Original source: https://github.com/Tiacoo/open-user
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, ui-design, web-navigation
+- Evidence checked: 2026-11-04T17:20:47Z
+- ID: github:tiacoo/open-user
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-tiacoo-open-user/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Tiacoo/open-user/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Tiacoo/open-user/main/README.md (retrieved 2026-11-04T17:20:47Z; SHA-256 7a1a86a96ef069372d3b983a00038dab104be21ff008f37306bd5fa55f1efef1)
+- https://raw.githubusercontent.com/Tiacoo/open-user/HEAD/LICENSE (retrieved 2026-11-04T17:26:36Z; SHA-256 735b9a515274200e7db51b2b8e3d54feac0e75befcf63cd19df76bc0f2a6c21e)
+
+---
+
+## openadapt-evals
+
+openadapt-evals scores GUI agents and compiled workflows on benchmarks such as Windows Agent Arena using reproducible evaluators.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-evals/
+- Original source: https://github.com/OpenAdaptAI/openadapt-evals
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, web
+- Topics: evaluation, workflow, sandbox
+- Evidence checked: 2026-11-04T14:41:44Z
+- ID: github:openadaptai/openadapt-evals
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-evals/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 f7c6b6da8b6fe579d9e4e576829c6daf4bd9611a5f134cf478fe85a0e2862156)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE (retrieved 2026-11-04T14:45:03Z; SHA-256 59aeac47ca72de18ba99dd38f0b2f9596b822f85e9cf816684369fadb6664e06)
 
 ---
 
@@ -2207,6 +5212,40 @@ Public task manifests, agent runner and evaluator code are present, and the link
 
 ---
 
+## OSUniverse
+
+OSUniverse is a task-oriented desktop benchmark for evaluating vision-based multimodal GUI navigation agents across operating-system applications.
+
+- Catalog URL: https://awesomecua.com/resources/github-agentsea-osuniverse/
+- Original source: https://github.com/agentsea/osuniverse
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, sandbox
+- Evidence checked: 2026-11-04T13:12:04Z
+- ID: github:agentsea/osuniverse
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-agentsea-osuniverse/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/agentsea/osuniverse/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agentsea/osuniverse/HEAD/README.md (retrieved 2026-11-04T13:12:04Z; SHA-256 058441b402477e39dde9634cae443d24038f082670d4f0859a686d656db9fe23)
+- https://raw.githubusercontent.com/agentsea/osuniverse/HEAD/LICENSE (retrieved 2026-11-04T13:22:27Z; SHA-256 4aec50b8ad158f4eff3d07be4781897c35f7c84a180f3a879479a631a1f99d56)
+
+---
+
 ## OSWorld
 
 Execution-based evaluation of agents performing tasks in real desktop environments.
@@ -2256,6 +5295,73 @@ Counts were computed from unique task identifiers in the two inspected manifests
 - https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json (retrieved 2026-10-16T11:34:59Z; SHA-256 9ebc5187cbd727ef26c24626820076b102fff812863c640a67c467fea9542ab5)
 - https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_nogdrive.json (retrieved 2026-10-16T11:34:59Z; SHA-256 fcb9497e93a8986407345d3012c872c9c2fed253420730fbea64ccfcace67dbb)
 - https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec)
+
+---
+
+## OSWorld 2.0
+
+OSWorld 2.0 benchmarks computer-use agents on long-horizon desktop workflows with updated task suites, trajectory viewers, and container sandboxes.
+
+- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-osworld-v2/
+- Original source: https://github.com/xlang-ai/OSWorld-V2
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, windows
+- Topics: evaluation, long-horizon, sandbox
+- Evidence checked: 2026-11-04T14:02:35Z
+- ID: github:xlang-ai/osworld-v2
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-xlang-ai-osworld-v2/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/xlang-ai/OSWorld-V2/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xlang-ai/OSWorld-V2/HEAD/README.md (retrieved 2026-11-04T14:02:35Z; SHA-256 0d1d3e91e8786720a167b8bc26a41bd27832eefae652ab1c166193073e99b2b4)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld-V2/HEAD/LICENSE (retrieved 2026-11-04T14:07:14Z; SHA-256 a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec)
+
+---
+
+## OSWorld GPT-4o-mini Benchmark Evaluation
+
+Evaluates GPT-4o-mini on OSWorld desktop automation tasks comparing screenshot-only, accessibility-tree, and Set-of-Mark observation modes.
+
+- Catalog URL: https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/
+- Original source: https://github.com/suraj-ranganath/osworld-gpt4o-mini-benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, grounding, screen-understanding
+- Evidence checked: 2026-11-04T15:03:37Z
+- ID: github:suraj-ranganath/osworld-gpt4o-mini-benchmark
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/suraj-ranganath/osworld-gpt4o-mini-benchmark/HEAD/README.md (retrieved 2026-11-04T15:03:37Z; SHA-256 d492b408c3be96fe63b20ae62a840d5b626bd32208fc454dca9325ae78b20b51)
 
 ---
 
@@ -2359,6 +5465,243 @@ Reference solutions are published for evaluation and expressly discouraged for t
 
 ---
 
+## OSWorld-MCP
+
+OSWorld-MCP benchmarks computer-use agents on hybrid GUI interaction and Model Context Protocol (MCP) tool invocation within OSWorld.
+
+- Catalog URL: https://awesomecua.com/resources/github-x-plug-osworld-mcp/
+- Original source: https://github.com/X-PLUG/OSWorld-MCP
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, tool-integration, sandbox
+- Evidence checked: 2026-11-04T13:12:43Z
+- ID: github:x-plug/osworld-mcp
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-x-plug-osworld-mcp/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/X-PLUG/OSWorld-MCP/HEAD/README.md (retrieved 2026-11-04T13:12:43Z; SHA-256 6fd51bd79a5603e9513f84e69f98b8ca733cef762a8a2391bb287ae3698399ec)
+
+---
+
+## pantheon-webarena
+
+pantheon-webarena packages containerized WebArena environments with reset, health-check, and parallel evaluation utilities for web agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-pantheon-auto-pantheon-webarena/
+- Original source: https://github.com/pantheon-auto/pantheon-webarena
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, sandbox
+- Evidence checked: 2026-11-04T13:12:31Z
+- ID: github:pantheon-auto/pantheon-webarena
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-pantheon-auto-pantheon-webarena/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/pantheon-auto/pantheon-webarena/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/pantheon-auto/pantheon-webarena/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 55319554f01e438794a36db4d2ace28aa93576302a9cdf350d4c4f68a1261316)
+- https://raw.githubusercontent.com/pantheon-auto/pantheon-webarena/HEAD/LICENSE (retrieved 2026-11-04T13:41:33Z; SHA-256 c2ea39d996dbcc54d8717f5a6bfb0ad98e6f95e0a9236522813ffe902b0a9d8e)
+
+---
+
+## Pathproof
+
+Local-first AI-assisted website regression discovery suite with deterministic Playwright replay.
+
+- Catalog URL: https://awesomecua.com/resources/github-mikulabc-pathproof/
+- Original source: https://github.com/mikulabc/pathproof
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, recording, web-navigation
+- Evidence checked: 2026-11-04T17:20:53Z
+- ID: github:mikulabc/pathproof
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-mikulabc-pathproof/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/mikulabc/pathproof/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mikulabc/pathproof/main/README.md (retrieved 2026-11-04T17:20:53Z; SHA-256 e9190bfe417d812dd1400b383825d3493c5d9cd0d6c18d0af362ee995bf6847c)
+- https://raw.githubusercontent.com/mikulabc/pathproof/HEAD/LICENSE (retrieved 2026-11-04T17:26:34Z; SHA-256 0f05ce2a2dc649eae29589e5d0b404e5deb2efdd695ee53dd3330ae3a1a07819)
+
+---
+
+## Persona UX Test
+
+Blind-tests web and desktop user interfaces using isolated AI personas that interact strictly through rendered screens.
+
+- Catalog URL: https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/
+- Original source: https://github.com/Ericwong5021/persona-ux-test
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, ui-design, web-navigation
+- Evidence checked: 2026-11-04T16:51:52Z
+- ID: github:ericwong5021/persona-ux-test
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Ericwong5021/persona-ux-test/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Ericwong5021/persona-ux-test/HEAD/README.md (retrieved 2026-11-04T16:51:52Z; SHA-256 00d44c55a14acddbf8145b03bc72d488f341e1bf038166b17327a49a6e4748d1)
+- https://raw.githubusercontent.com/Ericwong5021/persona-ux-test/HEAD/LICENSE (retrieved 2026-11-04T16:56:30Z; SHA-256 fbffb26ca0f84d12c2732f660db235a5f8a9ef7a6d67f21e295ef3a1d8f646dd)
+
+---
+
+## Plasmate Benchmarks
+
+Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
+
+- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
+- Original source: https://github.com/plasmate-labs/plasmate-benchmarks
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, efficiency
+- Evidence checked: 2026-11-04T13:12:31Z
+- ID: github:plasmate-labs/plasmate-benchmarks
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6)
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE (retrieved 2026-11-04T13:22:33Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
+
+---
+
+## pms-race
+
+Concurrency benchmark for computer-use agents operating a legacy property-management web UI to measure race conditions and double-bookings.
+
+- Catalog URL: https://awesomecua.com/resources/github-lgoyal6-pms-race/
+- Original source: https://github.com/lgoyal6/pms-race
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, robustness, web-navigation, workflow
+- Evidence checked: 2026-11-04T17:20:47Z
+- ID: github:lgoyal6/pms-race
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-lgoyal6-pms-race/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/lgoyal6/pms-race/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lgoyal6/pms-race/main/README.md (retrieved 2026-11-04T17:20:47Z; SHA-256 e7f8684019174fc6773fbea1a164c41251b506f9a7dadcc2aeb82023aa9e92cb)
+- https://raw.githubusercontent.com/lgoyal6/pms-race/HEAD/LICENSE (retrieved 2026-11-04T17:26:34Z; SHA-256 02b9a6608439a3f78a537bce3d2dbb908d6931eb1268a83faab35c5aa11b395b)
+
+---
+
+## PoisonPage
+
+Adversarial testbed demonstrating indirect prompt injection and API-key exfiltration against AI shopping web agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-redbotster-poisonpage/
+- Original source: https://github.com/redbotster/poisonpage
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, web-navigation
+- Evidence checked: 2026-11-04T16:51:51Z
+- ID: github:redbotster/poisonpage
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-redbotster-poisonpage/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/redbotster/poisonpage/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/redbotster/poisonpage/HEAD/README.md (retrieved 2026-11-04T16:51:51Z; SHA-256 cfa803f57577b12bc9ff55f21a0c64d85848007ad4e7b18f38269875b3e25705)
+- https://raw.githubusercontent.com/redbotster/poisonpage/HEAD/LICENSE (retrieved 2026-11-04T16:56:30Z; SHA-256 ee6b77bc820538f93662bb63bd25c3ed5fe60a5728db18b0cad2d9e4ba9ae3c8)
+
+---
+
 ## PopupAttack
 
 Resources for evaluating GUI agents under malicious popup instructions.
@@ -2426,6 +5769,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## pptxgym (CUA-Gym.pptx)
+
+Synthesizes and grades verifiable computer-use reinforcement-learning tasks from real PowerPoint presentation decks.
+
+- Catalog URL: https://awesomecua.com/resources/github-lyt060814-cua-gym-pptx/
+- Original source: https://github.com/Lyt060814/CUA-Gym.pptx
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, reinforcement-learning, data-generation, workflow
+- Evidence checked: 2026-11-04T16:51:56Z
+- ID: github:lyt060814/cua-gym.pptx
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-lyt060814-cua-gym-pptx/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Lyt060814/CUA-Gym.pptx/HEAD/README.md (retrieved 2026-11-04T16:51:56Z; SHA-256 37a73c626e59c6b299ad497a9131d31d07ddfa32ba2571b3b4f602fc6fbf553c)
+
+---
+
 ## Precision CUA Bench
 
 Evaluation resources for pixel-precise cursor grounding in code editors.
@@ -2478,6 +5854,40 @@ The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light
 
 ---
 
+## Preflight-Bench
+
+Preflight-Bench evaluates pre-click staleness checks and page-load synchronization for computer-use agents operating under asynchronous UI updates.
+
+- Catalog URL: https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/
+- Original source: https://github.com/multimodal-ai-engineering/preflight-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, robustness, efficiency, state-tracking
+- Evidence checked: 2026-11-04T14:20:16Z
+- ID: github:multimodal-ai-engineering/preflight-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/multimodal-ai-engineering/preflight-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/multimodal-ai-engineering/preflight-bench/HEAD/README.md (retrieved 2026-11-04T14:20:16Z; SHA-256 1dabe4fb0ef00a19662e4fbe86eb35a1f65cbed045d60a9c0a97a8533f268535)
+- https://raw.githubusercontent.com/multimodal-ai-engineering/preflight-bench/HEAD/LICENSE (retrieved 2026-11-04T14:23:33Z; SHA-256 5593575c475df8fa83b077b215b10aa5dde3bf509b5cfccf3e9861a3ce261317)
+
+---
+
 ## RecreationBench
 
 Tasks for recreating reference applications with hybrid computer interaction.
@@ -2508,6 +5918,74 @@ Dataset card declares multiple upstream licenses; do not treat the package as ha
 ### Primary evidence
 
 - https://huggingface.co/datasets/Qwen/RecreationBench/raw/main/README.md (retrieved 2026-10-16T06:50:49Z; SHA-256 79deaa899d085ece77a127d53b12ddb9edea8a796943f35b75e9acec67bcb976)
+
+---
+
+## REFRACT-PPTX
+
+Agent-guided generation and multi-dimensional visual evaluation benchmark for editable PowerPoint presentation decks.
+
+- Catalog URL: https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/
+- Original source: https://github.com/Haikong-Lu1206/REFRACT-PPTX
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, ui-design, workflow, data-generation
+- Evidence checked: 2026-11-04T17:55:20Z
+- ID: github:haikong-lu1206/refract-pptx
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Haikong-Lu1206/REFRACT-PPTX/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Haikong-Lu1206/REFRACT-PPTX/main/README.md (retrieved 2026-11-04T17:55:20Z; SHA-256 fca6618c2d0f35cb3855a42e7f06af05ac4dc9ea79b45498373d3bc217104db2)
+- https://raw.githubusercontent.com/Haikong-Lu1206/REFRACT-PPTX/HEAD/LICENSE (retrieved 2026-11-04T17:59:57Z; SHA-256 105e52a70bbba9de980a2df15ae7f612abea138ea7379cf9ef2f56a5735e2f03)
+
+---
+
+## Resurf
+
+Resurf is a deterministic, reproducible test environment for evaluating AI browser agents across realistic web failure modes.
+
+- Catalog URL: https://awesomecua.com/resources/github-lightfeed-resurf/
+- Original source: https://github.com/lightfeed/resurf
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, sandbox, robustness
+- Evidence checked: 2026-11-04T16:10:34Z
+- ID: github:lightfeed/resurf
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-lightfeed-resurf/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/lightfeed/resurf/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lightfeed/resurf/HEAD/README.md (retrieved 2026-11-04T16:10:34Z; SHA-256 91a449c93c0178ed90755f4eaa996f24891ad75bca15b8711e5611a008105d8c)
+- https://raw.githubusercontent.com/lightfeed/resurf/HEAD/LICENSE (retrieved 2026-11-04T16:13:33Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
 
 ---
 
@@ -2716,6 +6194,40 @@ The canonical repository now belongs to UCSB-AI. Its README lists additional set
 
 ---
 
+## ScreenLeak
+
+ScreenLeak is a multimodal benchmark for measuring sensitive-information detection and PII redaction in continuous screen recording data.
+
+- Catalog URL: https://awesomecua.com/resources/github-screenpipe-screenleak/
+- Original source: https://github.com/screenpipe/screenleak
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: evaluation, safety-security, recording
+- Evidence checked: 2026-11-04T14:02:42Z
+- ID: github:screenpipe/screenleak
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-screenpipe-screenleak/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/screenpipe/screenleak/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/screenpipe/screenleak/HEAD/README.md (retrieved 2026-11-04T14:02:42Z; SHA-256 e61c26ed059c81162a6bc38c91c7d4a2376b1ee3f3863fdab3cdccd7db116336)
+- https://raw.githubusercontent.com/screenpipe/screenleak/HEAD/LICENSE (retrieved 2026-11-04T14:07:16Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
 ## ScreenSpot
 
 GUI grounding test set of 1,272 screenshot instructions from iOS, Android, macOS, Windows and web interfaces, each labeled with the target element's bounding box.
@@ -2917,6 +6429,108 @@ Reuses ScreenSpot-v2 imagery. Image-file count is not treated as a count of inde
 
 ---
 
+## SCUBA (Salesforce Computer Use Benchmark)
+
+SCUBA benchmarks computer-use agents on enterprise Salesforce CRM workflows spanning admin configuration, sales operations, and service tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-salesforceairesearch-scuba/
+- Original source: https://github.com/SalesforceAIResearch/SCUBA
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, workflow, sandbox
+- Evidence checked: 2026-11-04T14:02:35Z
+- ID: github:salesforceairesearch/scuba
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-salesforceairesearch-scuba/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/SalesforceAIResearch/SCUBA/HEAD/LICENSE.txt
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SalesforceAIResearch/SCUBA/HEAD/README.md (retrieved 2026-11-04T14:02:35Z; SHA-256 ff27b52a2386fd3599b70e8c834f6b392247465fe0d8b32d80cc634b95b08ce3)
+- https://raw.githubusercontent.com/SalesforceAIResearch/SCUBA/HEAD/LICENSE.txt (retrieved 2026-11-04T14:07:16Z; SHA-256 a32115015c1eea6186e519fa03ab3b77844170a75cf57ddbeb57f15dae44729a)
+
+---
+
+## Simulation Labs
+
+Behavioral CI gate where computer-use agents test signup, checkout, and onboarding flows on every deployment.
+
+- Catalog URL: https://awesomecua.com/resources/github-satyamdave-simulation-labs/
+- Original source: https://github.com/SatyamDave/simulation-labs
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, web-navigation, automation
+- Evidence checked: 2026-11-04T16:51:42Z
+- ID: github:satyamdave/simulation-labs
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-satyamdave-simulation-labs/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/SatyamDave/simulation-labs/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SatyamDave/simulation-labs/HEAD/README.md (retrieved 2026-11-04T16:51:42Z; SHA-256 e360f1e2412c948b74a59fdc1acb97614d434320dde40a907e44e03b79763552)
+- https://raw.githubusercontent.com/SatyamDave/simulation-labs/HEAD/LICENSE (retrieved 2026-11-04T16:56:30Z; SHA-256 63bd4dfe938bc995b052a01e20d2ccf0cdd8ccb5248ed1c0e45bde63733cb6c2)
+
+---
+
+## solari-playtest
+
+Autonomous playtesting agent and evaluation harness on Solari that builds web games from Git and tests gameplay in a real browser.
+
+- Catalog URL: https://awesomecua.com/resources/github-moazessam376-dev-solari-playtest/
+- Original source: https://github.com/moazessam376-dev/solari-playtest
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, automation
+- Evidence checked: 2026-11-04T18:11:32Z
+- ID: github:moazessam376-dev/solari-playtest
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-moazessam376-dev-solari-playtest/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/moazessam376-dev/solari-playtest/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/moazessam376-dev/solari-playtest/main/README.md (retrieved 2026-11-04T18:11:32Z; SHA-256 9c34786a1969fdc2d9811edfce4b12c99ff6f07082ac178c5617319c97cebf6d)
+- https://raw.githubusercontent.com/moazessam376-dev/solari-playtest/HEAD/LICENSE (retrieved 2026-11-04T18:16:07Z; SHA-256 11d02dddb55d18a2ef39470fadd7fdd7a8aedf88bec62eea1426a76c338e4541)
+
+---
+
 ## SPA-Bench
 
 340 single-app and cross-app tasks over 66 Chinese and English Android apps, with plug-in support for 11 smartphone agents and automatic coarse-to-fine success detection.
@@ -2967,6 +6581,39 @@ The two task subsets partition the 340 tasks. The integrated agent and evaluator
 - https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 5294a67728072a3658cb2073bdf9a084fe3c00d87a848923dff68adb35213072)
 - https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/Documentation.md (retrieved 2026-10-17T02:03:23Z; SHA-256 a55290d62f8823097c73d74bac4eb08853a3caff724382e60a6a9364e7ced987)
 - https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/LICENSE (retrieved 2026-10-16T06:41:58Z; SHA-256 6962bfc8ee16c6e985e4fb680b8fe46d5b34d30f7cb8a1e61fd4c55c93120ddf)
+
+---
+
+## Spider Browser Dataset
+
+Spider Browser Dataset benchmarks browser automation and anti-bot resilience across 999 URLs and 327 domains in 18 categories.
+
+- Catalog URL: https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/
+- Original source: https://github.com/spider-rs/spider-browser-dataset
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, robustness
+- Evidence checked: 2026-11-04T14:41:50Z
+- ID: github:spider-rs/spider-browser-dataset
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/spider-rs/spider-browser-dataset/HEAD/README.md (retrieved 2026-11-04T14:41:50Z; SHA-256 c36ad209f9c755d27220572906ba8674a0b88a2f78078b8e72fbc75810a74f78)
 
 ---
 
@@ -3054,6 +6701,108 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## SWEeper-Bench
+
+SWEeper-Bench evaluates whether interactive GUI and browser agents can autonomously discover and reproduce 200 real bugs in open-source software.
+
+- Catalog URL: https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/
+- Original source: https://github.com/zlab-princeton/sweeper-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, automation, screen-understanding
+- Evidence checked: 2026-11-04T14:02:44Z
+- ID: github:zlab-princeton/sweeper-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/zlab-princeton/sweeper-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/zlab-princeton/sweeper-bench/HEAD/README.md (retrieved 2026-11-04T14:02:44Z; SHA-256 2e320cee08f5bd1f28ceb1ea6caedefa1e5e4d5997da2f2b2eb2dbbbcd5bfcb4)
+- https://raw.githubusercontent.com/zlab-princeton/sweeper-bench/HEAD/LICENSE (retrieved 2026-11-04T14:07:19Z; SHA-256 f10983fa3e28ea44e61f702afc7e78f17182fd6322142c92a78df82a1c4ea5f7)
+
+---
+
+## taskproof
+
+taskproof is an open-source CI harness that tests whether real AI computer-use and browser agents can complete tasks on live websites.
+
+- Catalog URL: https://awesomecua.com/resources/github-taskproof-taskproof/
+- Original source: https://github.com/taskproof/taskproof
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, automation
+- Evidence checked: 2026-11-04T16:30:10Z
+- ID: github:taskproof/taskproof
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-taskproof-taskproof/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/taskproof/taskproof/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/taskproof/taskproof/HEAD/README.md (retrieved 2026-11-04T16:30:10Z; SHA-256 eede2b1fb3647ae0aafc67750afb49ef2587a08f6abbf2a2f26746efac22348c)
+- https://raw.githubusercontent.com/taskproof/taskproof/HEAD/LICENSE (retrieved 2026-11-04T16:34:22Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## TestPilot
+
+Agentic end-to-end web testing platform that executes natural-language test cases in live browsers.
+
+- Catalog URL: https://awesomecua.com/resources/github-h0ngza1-testpilot/
+- Original source: https://github.com/H0nGzA1/testpilot
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, automation
+- Evidence checked: 2026-11-04T17:55:25Z
+- ID: github:h0ngza1/testpilot
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-h0ngza1-testpilot/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/H0nGzA1/testpilot/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/H0nGzA1/testpilot/main/README.md (retrieved 2026-11-04T17:55:25Z; SHA-256 09ed9858e4b0c344bcdfdb86691769c3d624b0e08a6b00d2e11c748a9d308e31)
+- https://raw.githubusercontent.com/H0nGzA1/testpilot/HEAD/LICENSE (retrieved 2026-11-04T17:59:57Z; SHA-256 d684420ddbca78cb7d310eb283ea53ff24ea504ff1716ad0ce175a7172e25fc9)
+
+---
+
 ## TheAgentCompany
 
 Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.
@@ -3099,6 +6848,108 @@ Each task is packaged as a Docker image. Record task-image and server versions; 
 
 - https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 d1646f67d49d38ef1e81bf7b5057dfc3d6f172b4c8a7413a2cc78741ccb08723)
 - https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 2d6976a9b482bb14d9cd4f0d97ce6e14305496f1649b8667cb91d027c670930f)
+
+---
+
+## UI-FaultLab
+
+UI-FaultLab benchmarks auditable agent-versus-application failure attribution in visual UI testing workflows.
+
+- Catalog URL: https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/
+- Original source: https://github.com/kakoyvostorg/ui-faultlab
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, observability, robustness
+- Evidence checked: 2026-11-04T14:20:12Z
+- ID: github:kakoyvostorg/ui-faultlab
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/kakoyvostorg/ui-faultlab/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/kakoyvostorg/ui-faultlab/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 584fdc7fef79a8f10fabfcd488468f6d1b17ac457df9984bec96a50d2d8866b7)
+- https://raw.githubusercontent.com/kakoyvostorg/ui-faultlab/HEAD/LICENSE (retrieved 2026-11-04T14:23:39Z; SHA-256 ee8087b8f4ec2634529d7d372f1d00f3ed2d356e47869659d2e22e0859a28532)
+
+---
+
+## UserZero
+
+Synthetic first-user evaluation harness that verifies web applications by attempting onboarding and core flows with AI browser agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-aafre-userzero/
+- Original source: https://github.com/aafre/userzero
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, ui-design
+- Evidence checked: 2026-11-04T17:55:25Z
+- ID: github:aafre/userzero
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-aafre-userzero/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/aafre/userzero/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/aafre/userzero/master/README.md (retrieved 2026-11-04T17:55:25Z; SHA-256 60516db495ca068d602530c1826607e9af6f89bf36c398eff6ee85c045589e06)
+- https://raw.githubusercontent.com/aafre/userzero/HEAD/LICENSE (retrieved 2026-11-04T17:59:57Z; SHA-256 42733a8d727cfdc75d695ae3105ab624589a539e35274a157afb98bcc102ed49)
+
+---
+
+## Verisim
+
+Verisim is a coverage certifier and adversarial evaluation suite for testing pre-execution guardrails on computer-use and tool agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-clay-good-verisim/
+- Original source: https://github.com/clay-good/verisim
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, safety-security, robustness
+- Evidence checked: 2026-11-04T16:30:03Z
+- ID: github:clay-good/verisim
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-clay-good-verisim/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/clay-good/verisim/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/clay-good/verisim/HEAD/README.md (retrieved 2026-11-04T16:30:03Z; SHA-256 c963d56a33d4cb19b430bf394f3bf985f98f9c175c5880f35897064320e066b4)
+- https://raw.githubusercontent.com/clay-good/verisim/HEAD/LICENSE (retrieved 2026-11-04T16:34:26Z; SHA-256 aceaa598dc09afa1b58c1e42127fac9c605e1d3eac92d5501ed0583aaa048f5a)
 
 ---
 
@@ -3284,6 +7135,140 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Voice & Computer-Use Benchmark Landscape
+
+Structured taxonomy and comparative map of public voice-agent, multimodal, and computer-use evaluation benchmarks.
+
+- Catalog URL: https://awesomecua.com/resources/github-sophon-llc-voice-agent-benchmark-landscape/
+- Original source: https://github.com/Sophon-LLC/voice-agent-benchmark-landscape
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, web
+- Topics: evaluation, survey
+- Evidence checked: 2026-11-04T17:55:25Z
+- ID: github:sophon-llc/voice-agent-benchmark-landscape
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-sophon-llc-voice-agent-benchmark-landscape/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Sophon-LLC/voice-agent-benchmark-landscape/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Sophon-LLC/voice-agent-benchmark-landscape/main/README.md (retrieved 2026-11-04T17:55:25Z; SHA-256 aef33f374143f95b22cc96824cb40dae648ee456cc245883e6cdae5b75f5179f)
+- https://raw.githubusercontent.com/Sophon-LLC/voice-agent-benchmark-landscape/HEAD/LICENSE (retrieved 2026-11-04T17:59:58Z; SHA-256 43335e3a749730e9019a00d83b73e244a29308b96c4dfa406817f1a01bd3184b)
+
+---
+
+## WAInjectBench
+
+WAInjectBench benchmarks prompt injection detection in web agents across six text and image attack types targeting web interaction pipelines.
+
+- Catalog URL: https://awesomecua.com/resources/github-norrrrrrr-lyn-wainjectbench/
+- Original source: https://github.com/Norrrrrrr-lyn/WAInjectBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, web-navigation
+- Evidence checked: 2026-11-04T13:12:28Z
+- ID: github:norrrrrrr-lyn/wainjectbench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-norrrrrrr-lyn-wainjectbench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Norrrrrrr-lyn/WAInjectBench/HEAD/README.md (retrieved 2026-11-04T13:12:28Z; SHA-256 de16483df2836a5b59152fc732560913d99a54fd75db2eba73673fcbcf1e463c)
+
+---
+
+## WATCHER
+
+Prompt-injection defense classifier, evaluation benchmark, and defended browser harness for autonomous web agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-aaman-911-watcher/
+- Original source: https://github.com/Aaman-911/watcher
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, evaluation, web-navigation
+- Evidence checked: 2026-11-04T17:30:33Z
+- ID: github:aaman-911/watcher
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-aaman-911-watcher/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Aaman-911/watcher/main/README.md (retrieved 2026-11-04T17:30:33Z; SHA-256 1153559776f26627d176badbaeeaf1e5c5f80f7b9aa577f34d580a8e848a941e)
+
+---
+
+## WeaveBench
+
+WeaveBench evaluates computer-use agents on long-horizon real-world workflows across hybrid GUI, web, and programmatic tool interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/github-weavebench-weavebench/
+- Original source: https://github.com/weavebench/WeaveBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web, linux
+- Topics: evaluation, long-horizon, tool-integration, sandbox
+- Evidence checked: 2026-11-04T14:02:42Z
+- ID: github:weavebench/weavebench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-weavebench-weavebench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/weavebench/WeaveBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/weavebench/WeaveBench/HEAD/README.md (retrieved 2026-11-04T14:02:42Z; SHA-256 7e39c52cf5ec07d4499d2d55dbcf18989e13a2adbee36149cde6e3a95a964de1)
+- https://raw.githubusercontent.com/weavebench/WeaveBench/HEAD/LICENSE (retrieved 2026-11-04T14:07:14Z; SHA-256 20b73d53cd7d689f0e7e3a8be21c8a36981b7ae87300be35b128a630db3b66be)
+
+---
+
 ## WeaveBench
 
 Computer-use benchmark mixing graphical interaction and code execution.
@@ -3315,6 +7300,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://huggingface.co/api/datasets/wanlilll/WeaveBench (retrieved 2026-10-16T06:38:27Z; SHA-256 e65e5793fe5b251ef7793a0618f4e8139fe5c92c2cf8093d0cc6142e8ece9d02)
 - https://huggingface.co/api/datasets/wanlilll/WeaveBench (retrieved 2026-10-16T06:38:27Z; SHA-256 e65e5793fe5b251ef7793a0618f4e8139fe5c92c2cf8093d0cc6142e8ece9d02)
+
+---
+
+## Web Agent Comparison
+
+Reproducible 8-dimension benchmark comparing 7 browser-automation MCP servers on latency, token overhead, and task success.
+
+- Catalog URL: https://awesomecua.com/resources/github-pleasedodisturb-web-agent-comparison/
+- Original source: https://github.com/pleasedodisturb/web-agent-comparison
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, tool-integration, efficiency
+- Evidence checked: 2026-11-04T14:20:17Z
+- ID: github:pleasedodisturb/web-agent-comparison
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-pleasedodisturb-web-agent-comparison/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/pleasedodisturb/web-agent-comparison/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/pleasedodisturb/web-agent-comparison/HEAD/README.md (retrieved 2026-11-04T14:20:17Z; SHA-256 f204ae526e91b247abd2541eb47882b61b49405790e9300bc3359a70e979ce3d)
+- https://raw.githubusercontent.com/pleasedodisturb/web-agent-comparison/HEAD/LICENSE (retrieved 2026-11-04T14:23:44Z; SHA-256 a67b0dc78a8e441dea87829c32c38805ca617dd5ca1576a5ad5097a9619280f7)
 
 ---
 
@@ -3370,6 +7389,74 @@ Fixed local-page observations; the reported run uses claude-sonnet-5 and a share
 - https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/METHODOLOGY.md (retrieved 2026-10-20T11:52:30.131541Z; SHA-256 1c3c0cbf9f9d9f7cd9e7a2f027ecb217fd5c16fa157916281a15bb7f403f6f1c)
 - https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/src/wpbench/scoring.py (retrieved 2026-10-20T11:53:28.567861Z; SHA-256 8cada5d71b5a61e7aff2e1ac2b951c266eb2db7c082c06c5a13aa127d42b3fc5)
 - https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE (retrieved 2026-10-20T11:51:41.499735Z; SHA-256 9b64ef672f5091b6074d02502f6d3c161d94308a3d9d142d7437dcddf611bbc4)
+
+---
+
+## web-agent-bench
+
+web-agent-bench compares browser-automation harnesses (Playwright MCP, agent-browser, Stagehand) on token usage, latency, and task completion.
+
+- Catalog URL: https://awesomecua.com/resources/github-nsosio-web-agent-bench/
+- Original source: https://github.com/nsosio/web-agent-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, efficiency, tool-integration
+- Evidence checked: 2026-11-04T14:02:47Z
+- ID: github:nsosio/web-agent-bench
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-nsosio-web-agent-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/nsosio/web-agent-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/nsosio/web-agent-bench/HEAD/README.md (retrieved 2026-11-04T14:02:47Z; SHA-256 5771611bda8ae442bf31a5a6f0498d21d4eb1509f83f15e0823b93fb0526172a)
+- https://raw.githubusercontent.com/nsosio/web-agent-bench/HEAD/LICENSE (retrieved 2026-11-04T14:07:21Z; SHA-256 d034230dad809f4f558a0a817456f6b8698cb0fdfd43b7e3555e89e1784eb6b4)
+
+---
+
+## web-agent-eval (REAL Benchmark Runner)
+
+Evaluates web agents on 102 replica websites from the REAL benchmark under explicit step, token, and budget constraints.
+
+- Catalog URL: https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/
+- Original source: https://github.com/saarthak-yadav/web-agent-eval
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, observability
+- Evidence checked: 2026-11-04T14:41:52Z
+- ID: github:saarthak-yadav/web-agent-eval
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/README.md (retrieved 2026-11-04T14:41:52Z; SHA-256 71898649b30cdb23817a348aec099bdd0741454e50f950c4dcfd231f8ca2ff31)
+- https://raw.githubusercontent.com/saarthak-yadav/web-agent-eval/HEAD/LICENSE (retrieved 2026-11-04T14:45:07Z; SHA-256 080d93a39040f6bdcc157f8a9bda0c8f5f68dc54b16b00db1175da9c6f45b2f0)
 
 ---
 
@@ -3622,6 +7709,73 @@ The figures are rounded descriptions from the original paper. WebLINX 1.1 / Brow
 - https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
 - https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/main/README.md (retrieved 2026-10-17T02:03:23Z; SHA-256 9bd7512e257f5914d66b091530d7eb711a6f90bc21dc89cbba53015c7136c527)
 - https://raw.githubusercontent.com/mcgill-nlp/weblinx/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 cc0156153933fb96f6f3bf8d736c15e24d78d0838945c2ed456e3ada96cf67c4)
+
+---
+
+## WebMall
+
+WebMall is a multi-shop e-commerce web agent benchmark evaluating cross-site price comparison, product search, and cart checkout.
+
+- Catalog URL: https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/
+- Original source: https://github.com/wbsg-uni-mannheim/WebMall
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, cross-app
+- Evidence checked: 2026-11-04T14:02:35Z
+- ID: github:wbsg-uni-mannheim/webmall
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-wbsg-uni-mannheim-webmall/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/wbsg-uni-mannheim/WebMall/HEAD/README.md (retrieved 2026-11-04T14:02:35Z; SHA-256 b6ac178382068948a9ecbeaf9861f3a67adb4c6dbecae471f845b5c35981d130)
+
+---
+
+## WebMCP Description Benchmarks
+
+WebMCP Description Benchmarks evaluates how in-browser WebMCP tool schema descriptions affect agent tool selection and execution accuracy.
+
+- Catalog URL: https://awesomecua.com/resources/github-clouatre-labs-webmcp-description-benchmarks/
+- Original source: https://github.com/clouatre-labs/webmcp-description-benchmarks
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, tool-integration, web-navigation
+- Evidence checked: 2026-11-04T14:20:14Z
+- ID: github:clouatre-labs/webmcp-description-benchmarks
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-clouatre-labs-webmcp-description-benchmarks/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/clouatre-labs/webmcp-description-benchmarks/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/clouatre-labs/webmcp-description-benchmarks/HEAD/README.md (retrieved 2026-11-04T14:20:14Z; SHA-256 06d2fd02ae6aa06c4174d486c3a56d1adc3d3bbaa986c14ad6c25f8e771b6033)
+- https://raw.githubusercontent.com/clouatre-labs/webmcp-description-benchmarks/HEAD/LICENSE (retrieved 2026-11-04T14:23:43Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -3935,6 +8089,73 @@ The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites 
 
 ---
 
+## WebWalker
+
+Benchmark and multi-agent framework for evaluating large language models on multi-step web traversal and deep information-seeking tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-alibaba-nlp-webwalker/
+- Original source: https://github.com/Alibaba-NLP/WebWalker
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, planning, long-horizon
+- Evidence checked: 2026-10-16T11:09:28Z
+- ID: github:alibaba-nlp/webwalker
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-alibaba-nlp-webwalker/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Alibaba-NLP/WebWalker/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Alibaba-NLP/WebWalker/HEAD/README.md (retrieved 2026-10-16T11:09:28Z; SHA-256 4b453a820810d95071a8be84ca0a9f41500984b44a379220081d38d779b7c667)
+- https://raw.githubusercontent.com/Alibaba-NLP/WebWalker/HEAD/LICENSE (retrieved 2026-11-02T17:35:50Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## WinDeskGround
+
+WinDeskGround benchmarks desktop GUI grounding in multi-window Windows environments with controlled occlusion, scaling, and interference levels.
+
+- Catalog URL: https://awesomecua.com/resources/github-zzzhr-1-windeskground/
+- Original source: https://github.com/ZZZhr-1/WinDeskGround
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: evaluation, grounding, screen-understanding
+- Evidence checked: 2026-11-04T13:12:46Z
+- ID: github:zzzhr-1/windeskground
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-zzzhr-1-windeskground/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ZZZhr-1/WinDeskGround/HEAD/README.md (retrieved 2026-11-04T13:12:46Z; SHA-256 0a4885bd95df160629314754e9ff6878df07c584d8e2e80fd18361e00c07c563)
+
+---
+
 ## Windows Agent Arena
 
 Windows 11 benchmark for multimodal desktop agents in a reproducible VM that runs locally or in parallel on Azure ML, with a harder mode where agents must set tasks up themselves.
@@ -4231,3 +8452,37 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/showlab/WorldGUI/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 ea54ea82b86548ff38913ef328ec18152ace71a3fe9bb497bcabcaad24e6a678)
+
+---
+
+## Wornpage WebMCP Conformance
+
+Validation toolkit checking page-owned WebMCP tool schemas, authorization boundaries, and execution conformance.
+
+- Catalog URL: https://awesomecua.com/resources/github-wornpage-webmcp-conformance/
+- Original source: https://github.com/wornpage/webmcp-conformance
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, tool-integration, web-navigation
+- Evidence checked: 2026-11-04T18:11:27Z
+- ID: github:wornpage/webmcp-conformance
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-wornpage-webmcp-conformance/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/wornpage/webmcp-conformance/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/wornpage/webmcp-conformance/main/README.md (retrieved 2026-11-04T18:11:27Z; SHA-256 dbe90a9859641b5ea0edaa60db8dc60eec60e8f041665c9be0adcee6802221d8)
+- https://raw.githubusercontent.com/wornpage/webmcp-conformance/HEAD/LICENSE (retrieved 2026-11-04T18:16:09Z; SHA-256 85a43a5d43f30f0affaa58d0586f3941ce32dc530b4622f313de7227ae531ce6)

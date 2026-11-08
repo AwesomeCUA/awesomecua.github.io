@@ -64,3 +64,19 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
   Surveys vision-based mobile app GUI testing across test generation, record-and-replay and testing frameworks, drawing on 271 papers including 92 vision-based studies.
 - [A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications](https://awesomecua.com/resources/arxiv-1812-11470/) — 2018-12-30
   Surveys automated functional GUI testing techniques for mobile apps, comparing the effectiveness, efficiency and practicality of approaches reported in 25 studies.
+
+## Benchmarks
+
+- [Voice & Computer-Use Benchmark Landscape](https://awesomecua.com/resources/github-sophon-llc-voice-agent-benchmark-landscape/) — Date not recorded
+  Structured taxonomy and comparative map of public voice-agent, multimodal, and computer-use evaluation benchmarks.
+
+## Learning resources
+
+- [Awesome AI Agent Platforms](https://awesomecua.com/resources/github-agenta-ai-awesome-ai-agent-platforms/) — Date not recorded
+  Curated directory of open-source AI agent platforms, digital coworkers, and browser/desktop execution harnesses.
+- [Awesome GPT-6 Astra](https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/) — Date not recorded
+  Evidence-linked catalog of computer-use demos, evaluations, and agent workflows with primary source receipts.
+- [Awesome GUI Agent Security](https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/) — Date not recorded
+  Bilingual curated reading list of GUI, computer-use, and browser agent security papers organized along attack and defense axes.
+- [Awesome Multimodal Agentic Coding](https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/) — Date not recorded
+  Comprehensive research map of papers, benchmarks, and tools for multimodal coding and UI-verifying agents.

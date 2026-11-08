@@ -429,6 +429,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
 
 ## Benchmarks
 
+- [FlashAdventure](https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/) — Date not recorded
+  FlashAdventure benchmarks GUI agents on solving complete story arcs across 34 Flash point-and-click adventure games requiring long-term memory.
 - [iOSWorld](https://awesomecua.com/resources/github-ljang0-iosworld/) — Date not recorded
   Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.
 
@@ -441,39 +443,194 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
 
 ## Engineering & industry
 
+- [A-MEM](https://awesomecua.com/resources/github-agiresearch-a-mem/) — Date not recorded
+  A-MEM implements a Zettelkasten-inspired dynamic memory architecture that links and evolves structured episodic notes for LLM agents.
+- [activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) — Date not recorded
+  Converts continuous local desktop activity into structured, queryable workflow frames served over MCP.
+- [ADB MCP Server Pro](https://awesomecua.com/resources/github-tiendung2k03-adb-mcp-server-pro/) — Date not recorded
+  Model Context Protocol server for Android device control via ADB featuring self-learning UI element maps.
+- [Aeiva](https://awesomecua.com/resources/github-chatsci-aeiva/) — Date not recorded
+  Aeiva is a modular general-purpose AI agent framework adaptable across desktop, web, and scientific task environments.
 - [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) — Date not recorded
   Simular's open-source framework for computer-use agents that click, type and scroll through desktop and web apps on macOS, Windows and Linux; its third generation, Agent S3, reports 72.6% on OSWorld.
 - [Agent Workflow Memory implementation](https://awesomecua.com/resources/github-zorazrw-agent-workflow-memory/) — Date not recorded
   Research code that extracts reusable browser-task routines from demonstrations or prior executions, stores them as workflow memory and reuses them during subsequent navigation.
+- [agent-qa](https://awesomecua.com/resources/github-vostride-agent-qa/) — Date not recorded
+  agent-qa is an AI quality-assurance runner that executes natural-language user-journey tests across web, Android, and iOS interfaces.
+- [Agente Pessoal](https://awesomecua.com/resources/github-thomas-adrian-soler-nilsson-agente-pessoal/) — Date not recorded
+  Multimodal personal AI desktop assistant with voice interaction, persistent memory, and OS automation.
+- [agentmemory](https://awesomecua.com/resources/github-rohitg00-agentmemory/) — Date not recorded
+  agentmemory provides persistent cross-session memory and MCP integration for coding and computer-use agents including Claude Code, Codex, and OpenClaw.
 - [AgentProg](https://awesomecua.com/resources/github-mobilellm-agentprog/) — Date not recorded
   Android GUI-agent framework that keeps long-running task context in structured programs, variables and control flow, with a CLI and AndroidWorld integration.
+- [AI-Player](https://awesomecua.com/resources/github-shasankp000-ai-player/) — Date not recorded
+  AI-Player is a Minecraft Fabric mod that embeds an LLM/VLM-driven autonomous second player capable of navigation, combat, and crafting.
+- [AILEEN Desktop](https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/) — Date not recorded
+  Windows desktop AI assistant combining a Live2D interactive character with screen perception and desktop tool execution.
 - [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/) — Date not recorded
   AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.
+- [Anchor-Inference Daedalus](https://awesomecua.com/resources/github-anchor-inference-daedalus/) — Date not recorded
+  Self-developing personal AI agent with its own desktop app, persistent memory, and computer-use tools.
+- [Android-Skill-Agent](https://awesomecua.com/resources/github-xiru0834-eng-android-skill-agent/) — Date not recorded
+  Android-Skill-Agent extracts demonstration-guided, parameterized operational skills with accessibility-tree verification for Android apps.
 - [AndroTMem inference and evaluation code](https://awesomecua.com/resources/github-cvc2233-androtmem/) — Date not recorded
   A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
+- [AnythingLLM](https://awesomecua.com/resources/github-mintplex-labs-anything-llm/) — Date not recorded
+  AnythingLLM is a local-first desktop and server application supporting custom AI agents, web browsing, MCP tools, and document RAG.
 - [AppAgent](https://awesomecua.com/resources/github-tencentqqgylab-appagent/) — Date not recorded
   Multimodal agent that operates Android apps through taps and swipes without back-end access, building a reusable knowledge base from autonomous exploration or from watching human demonstrations.
 - [AppAgentX](https://awesomecua.com/resources/github-westlake-agi-lab-appagentx/) — Date not recorded
   Mobile agent research using accumulated interaction experience.
+- [AutoBot](https://awesomecua.com/resources/github-demeyer1-autobot/) — Date not recorded
+  AutoBot is a self-improving agent harness for ChatGPT and Codex on macOS featuring persistent on-disk memory and browser evaluation.
+- [AutoBot-AI](https://awesomecua.com/resources/github-mrveiss-autobot-ai/) — Date not recorded
+  AutoBot-AI is a self-hosted autonomous agent platform combining vision-driven browser and desktop control, voice interaction, and workflow memory.
+- [AutoManual](https://awesomecua.com/resources/github-minghchen-automanual/) — Date not recorded
+  AutoManual enables LLM agents to construct and iteratively refine structured instruction manuals through online environmental interaction.
+- [Avenir-Web](https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/) — Date not recorded
+  Avenir-Web trains human-experience-imitating multimodal web agents with mixture-of-grounding experts and experience-tracking memory.
+- [avids2 Jarvis](https://awesomecua.com/resources/github-avids2-jarvis/) — Date not recorded
+  Real-time Chinese voice and desktop agent with persistent memory and Pi tool execution.
+- [BabyAGI](https://awesomecua.com/resources/github-yoheinakajima-babyagi/) — Date not recorded
+  BabyAGI is an autonomous task-management agent framework that iteratively creates, prioritizes, and executes tasks using LLMs and vector memory.
+- [cc-haha](https://awesomecua.com/resources/github-nanmicoder-cc-haha/) — Date not recorded
+  cc-haha is a clean-room TypeScript implementation and visual debugger of the Claude Code agent harness, memory, and tool runtime.
+- [ClawMobile](https://awesomecua.com/resources/github-clawmobile-clawmobile/) — Date not recorded
+  ClawMobile is an Android agent runtime built on OpenClaw for controlling mobile apps, learning reusable skills, and executing device workflows.
+- [Computer-Use Cache](https://awesomecua.com/resources/github-rohanarun-computer-use-cache/) — Date not recorded
+  Drop-in OpenAI-compatible caching proxy that records and replays repeated computer-use and browser-agent workflows.
+- [Computer-Use Capability Engine](https://awesomecua.com/resources/github-pavanvakula-computer-use-capability-engine/) — Date not recorded
+  Discovers legacy UI workflows with an LLM once and compiles them into typed, versioned, deterministically replayable capabilities.
+- [computer-use-plus](https://awesomecua.com/resources/github-ethanout-computer-use-plus/) — Date not recorded
+  Low-token, low-latency Windows computer-use MCP server with learned action shortcuts and hybrid UIA/CDP/OCR routing.
 - [ConnectOnion](https://awesomecua.com/resources/github-openonion-connectonion/) — Date not recorded
   ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.
 - [Cradle](https://awesomecua.com/resources/github-baai-agents-cradle/) — Date not recorded
   Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
+- [Crimson-Heart](https://awesomecua.com/resources/github-yeyvhaiou-crimson-heart/) — Date not recorded
+  Persistent multimodal desktop agent with explicit runtime state management, priority-aware scheduling, and interruptible execution.
+- [cua-desktop-automation-skills](https://awesomecua.com/resources/github-chrislamdev-cua-desktop-automation-skills/) — Date not recorded
+  Router learning system and macOS desktop automation skill pack for AI agents using Cua Driver.
+- [E2-Mem](https://awesomecua.com/resources/github-jianminya-e2mem/) — Date not recorded
+  E2-Mem is an episodic-event hierarchical memory framework for long-horizon web agents evaluated on WebArena.
+- [Errand](https://awesomecua.com/resources/github-runta-dev-errand/) — Date not recorded
+  Open-source persistent desktop AI teammate with scheduled tasks, browser control, and workspace memory.
+- [Evoui Browser](https://awesomecua.com/resources/github-salmonbird-evoui-browser/) — Date not recorded
+  Self-evolving browser automation skill for Codex, Claude Code, and Cursor that caches reusable site knowledge.
+- [ExpActivator](https://awesomecua.com/resources/github-fyzhang1-expactivator/) — Date not recorded
+  ExpActivator selectively retrieves and verifies applicable historical interaction experiences for personalized GUI agents.
+- [Forged](https://awesomecua.com/resources/github-sam-siavoshian-forged/) — Date not recorded
+  Self-learning browser automation MCP server that records successful agent trajectories and replays deterministic Playwright steps.
+- [FurlPay Bot](https://awesomecua.com/resources/github-furlpay-furlpay-bot/) — Date not recorded
+  Persistent AI teammate equipped with its own virtual computer, browser, long-term memory, and voice interface.
+- [GenericAgent](https://awesomecua.com/resources/github-lsdefine-genericagent/) — Date not recorded
+  GenericAgent is a minimal self-evolving agent framework that synthesizes reusable skills for browser, OS, and ADB mobile control.
+- [Ghost in the Minecraft (GITM)](https://awesomecua.com/resources/github-opengvlab-gitm/) — Date not recorded
+  Ghost in the Minecraft (GITM) integrates LLMs with text-based knowledge and memory to complete the full Minecraft technology tree.
+- [Ghost OS](https://awesomecua.com/resources/github-ghostwright-ghost-os/) — Date not recorded
+  Ghost OS is a native macOS MCP server combining accessibility-tree action execution, Vision OCR fallback, and reusable workflow recipes.
+- [Hanzi Browse](https://awesomecua.com/resources/github-hanzili-hanzi-browse/) — Date not recorded
+  Hanzi Browse is a site-adapter and browser execution layer that supplies structured YAML recipes for complex dynamic web applications.
+- [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) — Date not recorded
+  Hermes Agent is a self-improving autonomous agent by Nous Research with procedural skill synthesis, browser control, and multi-platform sandboxes.
+- [HeySnap](https://awesomecua.com/resources/github-dhamani-aryan-heysnap/) — Date not recorded
+  AI-first workspace for capturing files, documents, and live browser context into structured agent memory.
+- [JARVIS-1](https://awesomecua.com/resources/github-craftjarvis-jarvis-1/) — Date not recorded
+  JARVIS-1 is an open-world multimodal Minecraft agent with episodic multimodal memory and goal-conditioned keyboard/mouse control.
+- [Knot Agent](https://awesomecua.com/resources/github-liz-public-knot-agent/) — Date not recorded
+  Journal-first decentralized agent harness where independent browser and desktop plugins coordinate through an append-only fact log.
+- [LangGraph](https://awesomecua.com/resources/github-langchain-ai-langgraph/) — Date not recorded
+  LangGraph is a stateful graph orchestration framework for building long-running, cyclical, and human-in-the-loop LLM and CUA agents.
+- [LASER](https://awesomecua.com/resources/github-mayer123-laser/) — Date not recorded
+  LASER models interactive web navigation as state-space exploration with explicit state transitions and backtracking on WebShop.
+- [LiteWebAgent](https://awesomecua.com/resources/github-pathonai-litewebagent/) — Date not recorded
+  Open-source VLM web-agent framework providing Playwright browser control, planning, workflow memory, tree search, and FastAPI/Vercel deployment.
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/) — Date not recorded
   Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.
+- [LKO Mark 3.4](https://awesomecua.com/resources/github-shubhransh-gupta-lko-mark-3-4/) — Date not recorded
+  Autonomous macOS desktop assistant with voice interaction, screen vision, and native AppleScript/system control.
+- [LLM Wiki for Chrome](https://awesomecua.com/resources/github-nvk-llm-wiki-chrome/) — Date not recorded
+  Bounded Chrome collaboration extension and local connector for building LLM-maintained knowledge wikis from live browsing.
 - [Lumen browser agent](https://awesomecua.com/resources/github-omxyz-lumen/) — Date not recorded
   A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.
+- [Mary (Personal AI OS)](https://awesomecua.com/resources/github-rao-studios-mary/) — Date not recorded
+  Ambient-intelligent macOS computer-use desktop client and personal AI operating environment.
+- [Mem0](https://awesomecua.com/resources/github-mem0ai-mem0/) — Date not recorded
+  Mem0 provides a scalable long-term memory layer for AI agents that extracts, consolidates, and retrieves user and session facts.
 - [MemGUI-Agent](https://awesomecua.com/resources/github-kwai-memgui-agent/) — Date not recorded
   MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
+- [Memlayer](https://awesomecua.com/resources/github-divagr18-memlayer/) — Date not recorded
+  Memlayer is a plug-and-play memory layer that extracts facts, builds knowledge graphs, and retrieves tiered context for LLM agents.
+- [MemMachine](https://awesomecua.com/resources/github-memmachine-memmachine/) — Date not recorded
+  MemMachine is an open-source memory layer for AI agents providing working, episodic, and user-profile memory via REST, Python SDK, and MCP.
+- [Memori](https://awesomecua.com/resources/github-memorilabs-memori/) — Date not recorded
+  Memori captures structured execution facts from agent tool calls and conversations into a relational memory store.
+- [MERRICK](https://awesomecua.com/resources/github-simoncheungai-merrick/) — Date not recorded
+  Personal macOS assistant agent for planning, browser automation, and native desktop task execution.
 - [MobA](https://awesomecua.com/resources/github-opendfm-moba/) — Date not recorded
   An Android agent that combines global task planning and memory with a local action executor, using reflection to revise mobile interaction steps.
 - [Mobile-Agent-E code component](https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/) — Date not recorded
   Android automation component with hierarchical planning, reflection and persistent tips/shortcuts learned across task sequences.
 - [MobileGPT](https://awesomecua.com/resources/github-fclab-skku-mobilegpt/) — Date not recorded
   An Android client and Python-server agent that learns reusable app subtasks through exploration, selection, derivation and memory recall.
+- [MobileRAG](https://awesomecua.com/resources/github-liuxiaojieoutofworld-mobilerag-arxiv/) — Date not recorded
+  MobileRAG operates Android devices via ADB by combining local app retrieval, historical trajectory memory, and external web search.
+- [nanoMuse](https://awesomecua.com/resources/github-nano-muse-nanomuse/) — Date not recorded
+  nanoMuse is an open-source personal agent that maintains persistent cross-device memory and executes browser, desktop, and mobile tasks.
+- [NaturalGAIA & LightManus](https://awesomecua.com/resources/github-keles-coding-naturegaia/) — Date not recorded
+  NaturalGAIA and LightManus provide a hierarchical multi-agent framework with browser automation, code execution, and episodic memory.
+- [OpenMemory (LongMemory)](https://awesomecua.com/resources/github-caviraoss-openmemory/) — Date not recorded
+  OpenMemory provides local-first temporal graph memory, decay scoring, and MCP integration for long-horizon AI agents.
+- [OpenTeam](https://awesomecua.com/resources/github-raghavpillai-openteam/) — Date not recorded
+  Self-hosted multi-agent platform with persistent memory, browser automation, and computer-use execution.
+- [OS-Symphony](https://awesomecua.com/resources/github-os-copilot-os-symphony/) — Date not recorded
+  OS-Symphony is a holistic computer-use agent framework combining a Reflection-Memory Agent, versatile toolset, and multimodal searcher.
+- [OysterWorkflow](https://awesomecua.com/resources/github-shuxinyang111-oysterworkflow/) — Date not recorded
+  OysterWorkflow captures real human computer work and extracts structured, reusable workflow graphs for AI agents.
+- [POK-Agent](https://awesomecua.com/resources/github-acekorneya-pok-agent/) — Date not recorded
+  POK-Agent is a Windows computer-use agent that pairs a cloud planner with a fast local actor and caches repeated UI workflows as skills.
+- [PreAct](https://awesomecua.com/resources/github-19pine-ai-preact/) — Date not recorded
+  PreAct compiles repeated computer-use agent trajectories into cached action graphs with lightweight visual verification to accelerate execution.
+- [Protean](https://awesomecua.com/resources/github-aibrain-mnemis-protean/) — Date not recorded
+  Protean turns everyday human desktop and browser demonstrations into reusable, adaptive agent skills.
+- [Recallo](https://awesomecua.com/resources/github-tianqi-bu-recallo/) — Date not recorded
+  Recallo is a local-first browser agent with persistent SQLite episodic memory across browsing sessions.
+- [ReMe](https://awesomecua.com/resources/github-agentscope-ai-reme/) — Date not recorded
+  ReMe is a local-first personal knowledge and procedural memory management framework for autonomous LLM agents.
+- [Ruflo](https://awesomecua.com/resources/github-ruvnet-ruflo/) — Date not recorded
+  Ruflo is an agent orchestration and MCP meta-harness for coordinating multi-agent swarms across Claude Code, Codex, and Cursor.
+- [SCoR (Sparse Context Reset)](https://awesomecua.com/resources/github-huia711-scor/) — Date not recorded
+  Sparse Context Reset (SCoR) framework for preventing context overflow and drift in long-horizon GUI agents.
+- [Screenpipe](https://awesomecua.com/resources/github-screenpipe-screenpipe/) — Date not recorded
+  Screenpipe continuously captures desktop screen text via accessibility/OCR and audio transcripts into a local database for AI agents.
 - [Self-MAP](https://awesomecua.com/resources/github-magicgh-self-map/) — Date not recorded
   A conversational web-agent implementation with candidate ranking and memory-assisted action planning, including optional memory simplification, refinement and self-reflection modules.
+- [Semantic Kernel](https://awesomecua.com/resources/github-microsoft-semantic-kernel/) — Date not recorded
+  Semantic Kernel is an enterprise SDK for orchestrating multi-agent workflows, plugins, and memory across Python, .NET, and Java.
+- [Sidemates](https://awesomecua.com/resources/github-prisacariurobert-sidemates/) — Date not recorded
+  Open-source desktop AI companion that observes active windows and assists with everyday computer tasks.
+- [SimpleMem](https://awesomecua.com/resources/github-aiming-lab-simplemem/) — Date not recorded
+  SimpleMem provides semantic lossless memory compression and multimodal retrieval for long-horizon LLM and desktop/CLI agents.
+- [Smart Pet Agent](https://awesomecua.com/resources/github-realstreetsmartnyc-smart-pet-agent/) — Date not recorded
+  Local-first ambient desktop pet agent that observes workspace context and automates routine desktop actions.
+- [StatePilot](https://awesomecua.com/resources/github-newsbruno-statepilot/) — Date not recorded
+  StatePilot is a predictable browser runtime for AI agents with state validation, episodic memory, error recovery, and MCP tools.
 - [SwitchMem](https://awesomecua.com/resources/github-dmis-lab-switchmem/) — Date not recorded
   Memory-routing implementation that chooses text or image demonstrations for a frozen GUI actor, with offline evaluation and Android transfer experiments.
 - [Synapse](https://awesomecua.com/resources/github-ltzheng-synapse/) — Date not recorded
   A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
+- [TERX](https://awesomecua.com/resources/github-ixchio-terx/) — Date not recorded
+  Browser-agent procedural memory and MCP server that compiles repeated web workflows into deterministic zero-token replays.
+- [TuriX-CUA](https://awesomecua.com/resources/github-turixai-turix-cua/) — Date not recorded
+  TuriX-CUA is a multi-agent desktop automation framework for macOS and Windows combining planner, actor, reflector, and memory skills.
+- [Webcmd](https://awesomecua.com/resources/github-agentrhq-webcmd/) — Date not recorded
+  Webcmd captures and indexes website navigational context as agents browse, compiling site structure into reusable local memory skills.
+- [Xiaoshe Agent (小蛇 Agent)](https://awesomecua.com/resources/github-jackygilbert498-debug-xiaoshe-agent/) — Date not recorded
+  Local-first desktop agent built on DeepSeek Harness featuring plugin governance, permission approvals, and completion receipts.
+- [ZetaTron](https://awesomecua.com/resources/github-itsmarcels-zetatron/) — Date not recorded
+  Self-directed local-first autonomous agent harness for Windows with desktop and browser execution capabilities.
+
+## Learning resources
+
+- [learn-workbuddy](https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/) — Date not recorded
+  24-chapter bilingual Python engineering course building a WorkBuddy-style desktop AI agent harness from scratch.

@@ -407,20 +407,66 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
 
 - [Adversarial Web Agents](https://awesomecua.com/resources/github-chenwu98-agent-attack/) — Date not recorded
   Evaluation resources for adversarial attacks on multimodal web agents.
+- [AgentForge](https://awesomecua.com/resources/github-moeenasim-agentforge-v5/) — Date not recorded
+  Multi-agent adversarial evaluation and safety-checking laboratory for stress-testing computer-use agents.
+- [AgentGauntlet](https://awesomecua.com/resources/github-konuktor-agent-gauntlet/) — Date not recorded
+  Reliability CI harness for browser agents that runs identical web tasks across mutating DOM conditions to measure resilience.
 - [B-MoCA](https://awesomecua.com/resources/github-jylee425-b-moca/) — Date not recorded
   Mobile control benchmark with varied interface configurations.
+- [Bellwether](https://awesomecua.com/resources/github-al-mohad-bell-weather/) — Date not recorded
+  Bellwether measures multi-trial pass^k consistency of computer-use agents on legacy enterprise UI workflows.
+- [BrowserAgentRegression](https://awesomecua.com/resources/github-albertxxuu-browseragentregression/) — Date not recorded
+  Local-first regression testing benchmark for evaluating browser agents against controlled UI and DOM mutations.
+- [BrowserTransactionBench](https://awesomecua.com/resources/github-lamenting-hawthorn-browserbench/) — Date not recorded
+  BrowserTransactionBench evaluates transactional safety, idempotency, and double-spend prevention in autonomous browser agents.
+- [Collision Canary](https://awesomecua.com/resources/github-mystiquemide-collision-canary/) — Date not recorded
+  Multi-actor invariant verification harness that drives two concurrent browser agents against a shared backend to uncover race bugs.
+- [cua_reliability (SA-OPSD)](https://awesomecua.com/resources/github-mercurialsolo-sa-opsd/) — Date not recorded
+  Provides the cua_reliability evaluation toolkit and reference training code for measuring stopping and abstention reliability in CUA RL.
+- [deedchain](https://awesomecua.com/resources/github-pillcrew-deedchain/) — Date not recorded
+  deedchain benchmarks report fidelity and hallucination rates of browser agents against recorded ground-truth web execution traces.
+- [DeskCert CLI](https://awesomecua.com/resources/github-rudrendupaul-deskcert-cli/) — Date not recorded
+  Safety certification CLI that stress-tests AI browser and computer-use agents against internal web apps before production deployment.
+- [DesktopAgentBench](https://awesomecua.com/resources/github-raghava00001-desktopagentbench/) — Date not recorded
+  DesktopAgentBench is an agent-agnostic Windows benchmark evaluating desktop agent task reliability, recovery, and safety guardrails.
+- [dom-drift-bench](https://awesomecua.com/resources/github-notel1gible-dom-drift-bench/) — Date not recorded
+  dom-drift-bench evaluates four web extraction and grounding strategies across ten categories of structural DOM drift.
+- [drift-audit](https://awesomecua.com/resources/github-sebastianpuchet-drift-audit/) — Date not recorded
+  Audits and classifies a browser-automation repository's selector maintenance history to quantify UI drift fragility.
+- [FixtureBench](https://awesomecua.com/resources/github-prabal-singh-fixturebench/) — Date not recorded
+  FixtureBench evaluates procurement browser agents on deterministic Coupa-style buyer/supplier portals with pagination, MFA, and decoy POs.
 - [GUI-Robust](https://awesomecua.com/resources/github-chessbean1-gui-robust/) — Date not recorded
   Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.
 - [GUIHalluBench](https://awesomecua.com/resources/github-ant-research-guihallubench/) — Date not recorded
   Measures hallucination in UI-element parsing by matching the boxes and descriptions a model lists for 1,000 English and 1,000 Chinese screenshots against human annotations.
+- [Maudslay](https://awesomecua.com/resources/github-theo-ai-lab-maudslay/) — Date not recorded
+  Maudslay evaluates release readiness and pass^k reliability of computer-use agents against independent backend and email ground truth.
+- [Mirage (Adversarial Web Benchmark)](https://awesomecua.com/resources/github-shushant17711-mirage/) — Date not recorded
+  Controlled adversarial web environment for measuring how autonomous browser agents fail under deceptive UI and prompt traps.
 - [MLA-Trust](https://awesomecua.com/resources/github-thu-ml-mla-trust/) — Date not recorded
   Unified evaluation framework measuring truthfulness, controllability, safety, and privacy of multimodal LLM agents across interactive web and mobile GUI tasks.
 - [Mobile-Bench-v2 released data](https://awesomecua.com/resources/url-1d5b85321b98765141fc/) — Date not recorded
   Offline mobile-agent task data spanning common tasks and released noisy, contaminated and ambiguous-instruction subsets.
+- [MobileBench-OL](https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/) — Date not recorded
+  MobileBench-OL provides an online evaluation harness for testing mobile GUI agents on real Android devices with dynamic task verification.
+- [OmniWebBench](https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/) — Date not recorded
+  OmniWebBench evaluates agentic browsers across end-to-end web navigation, action execution, failure recovery, and evidence verification.
 - [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/) — Date not recorded
   Configurable browser apps and task rewards for testing computer-use agents under changes in content, layout and appearance.
+- [pms-race](https://awesomecua.com/resources/github-lgoyal6-pms-race/) — Date not recorded
+  Concurrency benchmark for computer-use agents operating a legacy property-management web UI to measure race conditions and double-bookings.
+- [Preflight-Bench](https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/) — Date not recorded
+  Preflight-Bench evaluates pre-click staleness checks and page-load synchronization for computer-use agents operating under asynchronous UI updates.
+- [Resurf](https://awesomecua.com/resources/github-lightfeed-resurf/) — Date not recorded
+  Resurf is a deterministic, reproducible test environment for evaluating AI browser agents across realistic web failure modes.
 - [ScreenSpot-v2 instruction variants](https://awesomecua.com/resources/url-17729e1c532ba7043404/) — Date not recorded
   Instruction variants over ScreenSpot-v2 screenshots that distinguish original commands, explicit actions, target descriptions and impossible operations.
+- [Spider Browser Dataset](https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/) — Date not recorded
+  Spider Browser Dataset benchmarks browser automation and anti-bot resilience across 999 URLs and 327 domains in 18 categories.
+- [UI-FaultLab](https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/) — Date not recorded
+  UI-FaultLab benchmarks auditable agent-versus-application failure attribution in visual UI testing workflows.
+- [Verisim](https://awesomecua.com/resources/github-clay-good-verisim/) — Date not recorded
+  Verisim is a coverage certifier and adversarial evaluation suite for testing pre-execution guardrails on computer-use and tool agents.
 - [WindowsAgentArena-V2](https://awesomecua.com/resources/github-gair-nlp-windowsagentarena-v2/) — Date not recorded
   Windows benchmark revision with task/evaluator fixes and VM-initialization support, documented alongside PC-Agent-E.
 - [WorldGUI](https://awesomecua.com/resources/github-showlab-worldgui/) — Date not recorded
@@ -428,12 +474,84 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
 
 ## 数据集
 
+- [Browser Agent Failure Corpus](https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/) — Date not recorded
+  Browser Agent Failure Corpus is a versioned dataset of browser-agent action failures, execution traces, and guardrail counterexamples.
+- [EnvDistraction](https://awesomecua.com/resources/github-xbmxb-envdistraction/) — Date not recorded
+  EnvDistraction provides simulated GUI environments and evaluation scripts for measuring multimodal agent susceptibility to environmental distractions.
 - [RoTS](https://awesomecua.com/resources/github-alibabaresearch-rots/) — Date not recorded
   Announced GUI trajectory synthesis resources for recovery from policy-induced errors; the inspected repository marks code and data releases as in preparation.
 
 ## 工程与产业
 
+- [A2R2 (Android Agent Reliability Runtime)](https://awesomecua.com/resources/github-rty90-android-agent-reliability-runtime/) — Date not recorded
+  A2R2 is a black-box safety and reliability runtime for Android GUI agents that intercepts unsafe actions and detects execution loops.
+- [AdvAgent (AdvWeb)](https://awesomecua.com/resources/github-ai-secure-advweb/) — Date not recorded
+  Black-box adversarial prompt-injection red-teaming framework for training and evaluating controllable attacks against VLM web agents.
 - [AdvAgent (formerly AdvWeb)](https://awesomecua.com/resources/github-ai-secure-advagent/) — Date not recorded
   Research code for constructing and evaluating adversarial inputs to web agents, with a black-box red-team pipeline using Mind2Web data and SeeAct.
+- [AI-Agentic QA Framework](https://awesomecua.com/resources/github-daud-khan-qa-ai-agentic-qa-framework/) — Date not recorded
+  Zero-dependency CDP browser driver and hydration-reliability testing framework for agentic web QA.
+- [Attest](https://awesomecua.com/resources/github-cyrus580529-attest/) — Date not recorded
+  Self-verifying web agent core where the model proposes candidate actions and the harness validates real DOM state transitions.
+- [AutoFiller Universal](https://awesomecua.com/resources/github-fedetrain-autofiller-universal/) — Date not recorded
+  Batch web-form automation framework with self-healing selectors that runs LLM-free at runtime.
+- [Browser Harness MCP](https://awesomecua.com/resources/github-arneld18-browser-harness-mcp/) — Date not recorded
+  Lightweight, self-healing Model Context Protocol server for native LLM web browser automation.
+- [Browser Reliability Runtime](https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/) — Date not recorded
+  Multimodal browser reliability runtime for failure diagnosis, policy-aware recovery, and action verification.
+- [browser-account-guard & flaky-browser-ui](https://awesomecua.com/resources/github-praticoeq-sudo-browser-account-guard/) — Date not recorded
+  Pair of Claude skills for protecting account credentials and stabilizing flaky UI interactions when agents drive web panels.
+- [CGL (Continual GUI Learning)](https://awesomecua.com/resources/github-skounputer-cgl/) — Date not recorded
+  CGL advances continual GUI agent learning across evolving domains via reinforcement fine-tuning without catastrophic forgetting.
+- [ChangeShield](https://awesomecua.com/resources/github-kxvya18-chnage-shield/) — Date not recorded
+  Self-repairing browser automation prototype that detects and adapts to third-party UI selector drift.
+- [dsh-OpenLiulan (开放浏览)](https://awesomecua.com/resources/github-haodongzhang022-hue-openliulan/) — Date not recorded
+  Self-healing browser control framework for DeepSeek Harness featuring semantic page perception and automated fault recovery.
+- [DualTAP](https://awesomecua.com/resources/github-fyzhang1-dualtap/) — Date not recorded
+  DualTAP is a dual-task adversarial protection framework for mobile MLLM GUI agents against environmental and visual prompt attacks.
+- [flowcast](https://awesomecua.com/resources/github-supermarioyl-flowcast/) — Date not recorded
+  Records browser walkthroughs once, stores structured locator cues, and replays parameterized web workflows with self-healing recovery.
+- [GenPark Browser Bot-Defense Detector Skill](https://awesomecua.com/resources/github-alpha-park-genpark-agentic-browser-bot-defense-detector-skill/) — Date not recorded
+  Agent skill for detecting Cloudflare challenges, CAPTCHAs, and anti-bot walls during Playwright and Browser-Use runs.
+- [GenPark Self-Healing DOM Selector Skill](https://awesomecua.com/resources/github-alpha-park-genpark-self-healing-dom-semantic-selector-skill/) — Date not recorded
+  Agent skill providing self-healing semantic DOM selectors resilient to CSS class and layout mutations.
+- [GenPark SPA Settlement Waiter Skill](https://awesomecua.com/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/) — Date not recorded
+  Agent skill for awaiting single-page-application network idle and DOM mutation settlement before acting.
+- [GenPark Viewport Occlusion Resolver Skill](https://awesomecua.com/resources/github-alpha-park-genpark-visual-viewport-element-occlusion-resolver-skill/) — Date not recorded
+  Agent skill that detects viewport element occlusion and dismisses blocking modals or cookie banners before clicking.
 - [GUI-HARVEST](https://awesomecua.com/resources/github-garyyang12345-gui-harvest/) — Date not recorded
   Optimizes GUI-agent execution code from repeated rollout evidence and checks proposed changes against fixed validation gates.
+- [hands-off](https://awesomecua.com/resources/github-niramay-kelkar-hands-off/) — Date not recorded
+  hands-off discovers UI workflows in legacy back-office software without APIs and compiles them into deterministic replay scripts.
+- [HarvestNet](https://awesomecua.com/resources/github-lethe044-harvestnet/) — Date not recorded
+  Self-healing web extraction and browser automation framework for .NET.
+- [IdemStep](https://awesomecua.com/resources/github-supermarioyl-idemstep/) — Date not recorded
+  Deduplicates repeated agent actions and HTTP retries using keyed idempotency caches and a local verification proxy.
+- [llm-browser-agent](https://awesomecua.com/resources/github-justifysiddh-llm-browser-agent/) — Date not recorded
+  Self-healing browser automation framework that replaces brittle CSS selectors with LLM-guided semantic element resolution.
+- [MobilePilot Runtime](https://awesomecua.com/resources/github-qizhanggu-mobilepilot-runtime/) — Date not recorded
+  MobilePilot is an auditable Android GUI agent runtime with structured action verification, on-demand UI trees, and bounded error recovery.
+- [outlive](https://awesomecua.com/resources/github-sy-d-outlive/) — Date not recorded
+  Checkpoints and resumes long-running Solari cloud browser sessions across 10-minute container timeouts.
+- [PageRunner](https://awesomecua.com/resources/github-say-5-pagerunner/) — Date not recorded
+  PageRunner is a browser-agent orchestration platform with bounded execution loops, deterministic replay, and golden-trace verification.
+- [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/) — Date not recorded
+  Stateful browser execution layer that records an agent task once, replays it without LLM calls, and self-repairs when selectors change.
+- [QUESTZ](https://awesomecua.com/resources/github-pnx89-questz/) — Date not recorded
+  Fail-closed browser automation reliability framework that halts execution on structural DOM drift before corrupting downstream data.
+- [Selenium Self-Healing MCP Server](https://awesomecua.com/resources/github-aiqualitylab-selenium-selfhealing-mcp/) — Date not recorded
+  MCP server that diagnoses broken Selenium DOM locators after UI changes and synthesizes self-healing replacement selectors.
+- [Self-Healing Browser Agent](https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/) — Date not recorded
+  Combines Claude planning with Playwright execution and ranked selector fallback to self-heal broken web automation steps.
+- [SOLO](https://awesomecua.com/resources/github-wzq975-solo/) — Date not recorded
+  SOLO performs single-rollout test-time adaptation for GUI agents using online self-supervised feedback during deployment.
+- [SoulSniper Browser SDK](https://awesomecua.com/resources/github-soulsniper-v2-browser-sdk/) — Date not recorded
+  Provider-neutral TypeScript browser automation SDK with automatic session failover and stealth profile support.
+- [SuperSelector Studio](https://awesomecua.com/resources/github-pirate-cua-superselector/) — Date not recorded
+  Resilient, cacheable fuzzy UI element identifiers and studio for Codex Computer Use recording and replay.
+- [Tsaagan](https://awesomecua.com/resources/github-michaelolmos-tsaagan/) — Date not recorded
+  Tsaagan is a verify-first browser control framework for AI agents that proves every click and form action succeeded before advancing.
+- [Unattended Android Automation Toolkit](https://awesomecua.com/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/) — Date not recorded
+  Reliability-first building blocks for unattended Android app automation, crash recovery, and UI state collection.
+- [VLAA-GUI](https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/) — Date not recorded
+  VLAA-GUI provides a modular GUI automation framework that teaches agents when to stop, recover from errors, and search alternatives.

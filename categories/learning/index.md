@@ -1,10 +1,210 @@
 # Computer-use agent learning resources
 
-> 2 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 10 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/learning/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## Agentic UI Testing Codelab
+
+Hands-on developer codelab for building automated UI test suites using Antigravity CLI and Browser Use.
+
+- Catalog URL: https://awesomecua.com/resources/github-a-bhimava-agentic-ui-testing/
+- Original source: https://github.com/a-bhimava/agentic-ui-testing
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, tool-integration
+- Evidence checked: 2026-11-04T18:11:27Z
+- ID: github:a-bhimava/agentic-ui-testing
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-a-bhimava-agentic-ui-testing/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/a-bhimava/agentic-ui-testing/main/README.md (retrieved 2026-11-04T18:11:27Z; SHA-256 6a72b59448d07d5af2973097486154957d22f7d793400fae9bec1fab1fe70391)
+
+---
+
+## AI Agent Desktop Engineering Blueprint
+
+Five-chapter architectural blueprint and comparative engineering guide for building desktop AI and computer-use agent applications.
+
+- Catalog URL: https://awesomecua.com/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/
+- Original source: https://github.com/Men-Zer/ai-agent-desktop-engineering-blueprint
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: workflow, tool-integration, sandbox
+- Evidence checked: 2026-11-04T16:51:46Z
+- ID: github:men-zer/ai-agent-desktop-engineering-blueprint
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Men-Zer/ai-agent-desktop-engineering-blueprint/HEAD/README.md (retrieved 2026-11-04T16:51:46Z; SHA-256 e4654eb14145fbc0a0bcd03f98db6e51508f371ab9c5a29af28452567db5ceb7)
+
+---
+
+## Awesome AI Agent Platforms
+
+Curated directory of open-source AI agent platforms, digital coworkers, and browser/desktop execution harnesses.
+
+- Catalog URL: https://awesomecua.com/resources/github-agenta-ai-awesome-ai-agent-platforms/
+- Original source: https://github.com/Agenta-AI/awesome-ai-agent-platforms
+- Kind: learning
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, web
+- Topics: survey, workflow, tool-integration
+- Evidence checked: 2026-11-04T18:11:33Z
+- ID: github:agenta-ai/awesome-ai-agent-platforms
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-agenta-ai-awesome-ai-agent-platforms/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Agenta-AI/awesome-ai-agent-platforms/main/README.md (retrieved 2026-11-04T18:11:33Z; SHA-256 76fd34b0e90d2e138de969d9ee066b493e3bdc24e886296c22d0098d8411a70f)
+
+---
+
+## Awesome GPT-6 Astra
+
+Evidence-linked catalog of computer-use demos, evaluations, and agent workflows with primary source receipts.
+
+- Catalog URL: https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/
+- Original source: https://github.com/archorfight/awesome-gpt-6-astra
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: survey, automation, evaluation
+- Evidence checked: 2026-11-04T18:11:45Z
+- ID: github:archorfight/awesome-gpt-6-astra
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/archorfight/awesome-gpt-6-astra/main/README.md (retrieved 2026-11-04T18:11:45Z; SHA-256 9d76a305e20f136ea2013f63555a1a2d1730c1bc284e082af7f9dc0b8c254e54)
+
+---
+
+## Awesome GUI Agent Security
+
+Bilingual curated reading list of GUI, computer-use, and browser agent security papers organized along attack and defense axes.
+
+- Catalog URL: https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/
+- Original source: https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, android
+- Topics: safety-security, survey, evaluation
+- Evidence checked: 2026-11-04T18:11:41Z
+- ID: github:yuxuan2003/awesome-gui-agent-security
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Yuxuan2003/Awesome-GUI-Agent-Security/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Yuxuan2003/Awesome-GUI-Agent-Security/main/README.md (retrieved 2026-11-04T18:11:41Z; SHA-256 0434590876e75ef7f163800a354d4d1bb81aa2324bd499ecc31ad07015f5648d)
+- https://raw.githubusercontent.com/Yuxuan2003/Awesome-GUI-Agent-Security/HEAD/LICENSE (retrieved 2026-11-04T18:16:13Z; SHA-256 8c358e3d8177f55f12325196c055ad508054e83e90f40f47bbb0075690c4f504)
+
+---
+
+## Awesome Multimodal Agentic Coding
+
+Comprehensive research map of papers, benchmarks, and tools for multimodal coding and UI-verifying agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/
+- Original source: https://github.com/jiangjin1999/awesome-multimodal-agentic-coding
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: survey, screen-understanding, ui-design, evaluation
+- Evidence checked: 2026-11-04T18:11:48Z
+- ID: github:jiangjin1999/awesome-multimodal-agentic-coding
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-jiangjin1999-awesome-multimodal-agentic-coding/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/jiangjin1999/awesome-multimodal-agentic-coding/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/jiangjin1999/awesome-multimodal-agentic-coding/main/README.md (retrieved 2026-11-04T18:11:48Z; SHA-256 75362be3f652118b21cc7aba1c177548d3d395a8f956ac5d49e470d2e337c4ff)
+- https://raw.githubusercontent.com/jiangjin1999/awesome-multimodal-agentic-coding/HEAD/LICENSE (retrieved 2026-11-04T18:16:12Z; SHA-256 9bf4572c42509bb351a5abfc0af8bd4577f63022b5b7df1c13cdb5b8070c29b5)
 
 ---
 
@@ -40,6 +240,74 @@ Review covers the public syllabus and complete published transcripts of the simp
 - https://www.deeplearning.ai/courses/building-ai-browser-agents (retrieved 2026-10-20T12:51:44.325799+00:00; SHA-256 1f0315e8758fe0edd97adb2c5253955dcdbe6d7bd8be393fe14dcd093483705f)
 - https://learn.deeplearning.ai/courses/building-ai-browser-agents/lesson/wwewm/building-a-simple-web-agent (retrieved 2026-10-20T13:41:10.403317+00:00; SHA-256 0915d862638a308da6200d9603d668ab4d11bcabfa713ff0ccb82c7b21a5a92f)
 - https://learn.deeplearning.ai/courses/building-ai-browser-agents/lesson/lot5j/building-an-autonomous-web-agent (retrieved 2026-10-20T13:42:56.029732+00:00; SHA-256 20d17ca47d1d16826f8e2736d6639d0cf11e826ef28c788187e16adcac9d7561)
+
+---
+
+## ComputerUse.Best Expert Skills
+
+Open-source collection of computer-use skills, prompt patterns, and professional desktop/web workflows.
+
+- Catalog URL: https://awesomecua.com/resources/github-sagozen-computeruse-expert-skills/
+- Original source: https://github.com/sagozen/computeruse-expert-skills
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: workflow, tool-integration, automation
+- Evidence checked: 2026-11-04T18:11:48Z
+- ID: github:sagozen/computeruse-expert-skills
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-sagozen-computeruse-expert-skills/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/sagozen/computeruse-expert-skills/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sagozen/computeruse-expert-skills/main/README.md (retrieved 2026-11-04T18:11:48Z; SHA-256 9f5b21c4cc4fad95634a0fd7fccbf0968dd9b64ca4c3b89dee68381f28f4195a)
+- https://raw.githubusercontent.com/sagozen/computeruse-expert-skills/HEAD/LICENSE (retrieved 2026-11-04T18:16:13Z; SHA-256 862e5a501f0e700695123fa15891dd9fddbd140bd2cbaa9f4f9556cb4bf09e42)
+
+---
+
+## learn-workbuddy
+
+24-chapter bilingual Python engineering course building a WorkBuddy-style desktop AI agent harness from scratch.
+
+- Catalog URL: https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/
+- Original source: https://github.com/adongwanai/learn-workbuddy
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: workflow, tool-integration, memory, sandbox
+- Evidence checked: 2026-11-04T16:30:16Z
+- ID: github:adongwanai/learn-workbuddy
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/adongwanai/learn-workbuddy/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/adongwanai/learn-workbuddy/HEAD/README.md (retrieved 2026-11-04T16:30:16Z; SHA-256 4aa745e3f0eacadffd264411c0f104a212df20707ff853faed6ce0d1a2e20e17)
+- https://raw.githubusercontent.com/adongwanai/learn-workbuddy/HEAD/LICENSE (retrieved 2026-11-04T16:34:26Z; SHA-256 580b936079ff6c688e9b0c08e48df8fe8d5ef2effdd8c7d16d07646955bd203d)
 
 ---
 

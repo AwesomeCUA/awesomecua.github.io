@@ -108,3 +108,39 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   CAD screen recordings paired with action logs and target model images for studying precise interface control and long-horizon visual imitation.
 - [WorkDemo-350](https://awesomecua.com/resources/url-243ab00712ba19cc2089/) — Date not recorded
   Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.
+
+## Models
+
+- [CogVLM2](https://awesomecua.com/resources/github-thudm-cogvlm2/) — Date not recorded
+  CogVLM2 releases high-resolution image and video vision-language models supporting visual grounding, document reading, and GUI understanding.
+- [CombatVLA](https://awesomecua.com/resources/github-chenvoid-combatvla/) — Date not recorded
+  CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.
+- [InternVL](https://awesomecua.com/resources/github-opengvlab-internvl/) — Date not recorded
+  Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.
+- [Qwen3-VL / Qwen2.5-VL](https://awesomecua.com/resources/github-qwenlm-qwen3-vl/) — Date not recorded
+  Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
+
+## Engineering & industry
+
+- [AnimaWatch](https://awesomecua.com/resources/github-rishitank-animawatch/) — Date not recorded
+  FastMCP server that records webpage animations and uses vision models to detect frame drops, jank, and visual layout artifacts.
+- [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/resources/github-19pine-ai-aoi/) — Date not recorded
+  AOI provides an adaptive video and audio perception layer for computer-use agents alongside the DynaCU-Bench dynamic GUI benchmark.
+- [clickcast](https://awesomecua.com/resources/github-alexkay28-clickcast/) — Date not recorded
+  Playwright browser automation, screenshot, and GIF/MP4/WebP session-recording toolkit and MCP server for AI agents.
+- [DJCLIPZ Agent Controller](https://awesomecua.com/resources/github-form-u-la-djclipz-agent-controller/) — Date not recorded
+  Starter kit and controller for driving the DJCLIPZ browser media application programmatically from AI agents.
+- [MergeProof](https://awesomecua.com/resources/github-bukacdan-mergeproof/) — Date not recorded
+  Installable Agent Skill that records live browser verification demos and attaches them to pull requests.
+- [Pagecast MCP](https://awesomecua.com/resources/github-mcpware-pagecast/) — Date not recorded
+  Playwright and FFmpeg Model Context Protocol server that records browser agent interactions as GIFs or MP4 videos.
+- [Product Demo Video Skill](https://awesomecua.com/resources/github-afnanksalal-product-demo-video-skill/) — Date not recorded
+  Codex and Claude Agent Skill that drives live web products in a browser to record truth-linked walkthrough demo videos.
+- [screencast-desktop](https://awesomecua.com/resources/github-jhamidun-screencast-desktop/) — Date not recorded
+  Claude Code plugin where an agent drives a Windows desktop application and records the session as a narrated screencast.
+- [Sensory-Grounding MCP](https://awesomecua.com/resources/github-luclinocruz-lucross-sensory-grounding-mcp/) — Date not recorded
+  Closed-loop visual, audio, and video sensory grounding MCP server for verifying UI state in coding and computer-use agents.
+- [VG-GUI-TASKER](https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/) — Date not recorded
+  VG-GUI-TASKER extracts informative keyframes from instructional demonstration videos to guide multimodal GUI agents.
+- [Video2GUI](https://awesomecua.com/resources/github-weiminxiong-video2gui/) — Date not recorded
+  Video2GUI synthesizes large-scale GUI interaction trajectories from unlabeled screen-recording videos via inverse dynamics and VLM annotation.

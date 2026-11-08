@@ -145,46 +145,435 @@ Full source records: https://awesomecua.com/downloads/topics/sandbox/records.jso
 
 ## 评测基准
 
+- [Agent-CE](https://awesomecua.com/resources/github-anaishowland-agent-ce/) — Date not recorded
+  Agent-CE is a containerized continuous evaluation platform for benchmarking web browsing agents across reproducible task suites.
 - [AppSim-Bench](https://awesomecua.com/resources/github-acrab-agentic-labs-appsim/) — Date not recorded
   Simulated mobile applications and evaluation tooling for reproducible GUI-agent tasks with controlled application state.
+- [cua-bench (ERPNext)](https://awesomecua.com/resources/github-vaiyr-cua-bench/) — Date not recorded
+  cua-bench packages containerized ERPNext v15 accounting and enterprise workflows as Harbor RL and evaluation environments for GUI agents.
+- [CUA-Gym-Hub](https://awesomecua.com/resources/github-xlang-ai-cua-gym-hub/) — Date not recorded
+  CUA-Gym-Hub provides 98 self-contained mock web applications with deterministic state verifiers as RL training and evaluation environments.
+- [DeskMind Bench](https://awesomecua.com/resources/github-deskmind-ai-bench/) — Date not recorded
+  DeskMind Bench provides sandboxed macOS desktop tasks, state graders, and reference trajectories for evaluating computer-use agents.
+- [HealthEnv](https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/) — Date not recorded
+  HealthEnv compiles longitudinal clinical question-answering tasks into stateful, verifiable computer-use evaluation environments.
+- [hyprbench](https://awesomecua.com/resources/github-crispwisp-hyprbench/) — Date not recorded
+  hyprbench is an OSWorld-style computer-use benchmark for the Linux Hyprland Wayland compositor with scripted window-management verifiers.
+- [Inspect Evals](https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/) — Date not recorded
+  Inspect Evals is a community benchmark suite for the UK AISI Inspect framework including OSWorld, GAIA, SWE-bench, and cyber/agent evaluations.
+- [Kernel Eval Protocol](https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/) — Date not recorded
+  Evaluates and fine-tunes vision-language browser agents using Eval Protocol, Kernel cloud browsers, and verifiable task graders.
+- [MacArena](https://awesomecua.com/resources/github-macpaw-macarena/) — Date not recorded
+  MacArena benchmarks computer-use agents in an online, reproducible macOS virtual-machine environment across multi-app desktop tasks.
 - [MobileGym](https://awesomecua.com/resources/github-purewhiter-mobilegym/) — Date not recorded
   A browser-hosted mobile-app simulator with programmable state, parameterized tasks and deterministic state-checking judges for parallel GUI-agent evaluation and online reinforcement learning.
+- [openadapt-evals](https://awesomecua.com/resources/github-openadaptai-openadapt-evals/) — Date not recorded
+  openadapt-evals scores GUI agents and compiled workflows on benchmarks such as Windows Agent Arena using reproducible evaluators.
 - [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/) — Date not recorded
   Configurable browser apps and task rewards for testing computer-use agents under changes in content, layout and appearance.
+- [OSUniverse](https://awesomecua.com/resources/github-agentsea-osuniverse/) — Date not recorded
+  OSUniverse is a task-oriented desktop benchmark for evaluating vision-based multimodal GUI navigation agents across operating-system applications.
+- [OSWorld 2.0](https://awesomecua.com/resources/github-xlang-ai-osworld-v2/) — Date not recorded
+  OSWorld 2.0 benchmarks computer-use agents on long-horizon desktop workflows with updated task suites, trajectory viewers, and container sandboxes.
+- [OSWorld-MCP](https://awesomecua.com/resources/github-x-plug-osworld-mcp/) — Date not recorded
+  OSWorld-MCP benchmarks computer-use agents on hybrid GUI interaction and Model Context Protocol (MCP) tool invocation within OSWorld.
+- [pantheon-webarena](https://awesomecua.com/resources/github-pantheon-auto-pantheon-webarena/) — Date not recorded
+  pantheon-webarena packages containerized WebArena environments with reset, health-check, and parallel evaluation utilities for web agents.
+- [Resurf](https://awesomecua.com/resources/github-lightfeed-resurf/) — Date not recorded
+  Resurf is a deterministic, reproducible test environment for evaluating AI browser agents across realistic web failure modes.
+- [SCUBA (Salesforce Computer Use Benchmark)](https://awesomecua.com/resources/github-salesforceairesearch-scuba/) — Date not recorded
+  SCUBA benchmarks computer-use agents on enterprise Salesforce CRM workflows spanning admin configuration, sales operations, and service tasks.
+- [WeaveBench](https://awesomecua.com/resources/github-weavebench-weavebench/) — Date not recorded
+  WeaveBench evaluates computer-use agents on long-horizon real-world workflows across hybrid GUI, web, and programmatic tool interfaces.
 
 ## 工程与产业
 
+- [Aegis (Hardened Computer-Use Sandbox)](https://awesomecua.com/resources/github-arihantdeva-aegis/) — Date not recorded
+  Aegis is an off-screen, capability-dropped Docker browser and desktop sandbox for isolating computer-use agents.
+- [Aether Agent Browser](https://awesomecua.com/resources/github-aetherai3-agent-browser/) — Date not recorded
+  Self-hosted Chrome agent runtime with bounded API control, live VNC observation, and human takeover.
 - [Agent Infra Sandbox](https://awesomecua.com/resources/github-agent-infra-sandbox/) — Date not recorded
   Sandbox environments supporting computer and browser interaction.
 - [Agent Zero](https://awesomecua.com/resources/github-agent0ai-agent-zero/) — Date not recorded
   Open-source agent with its own sandboxed Linux workspace that researches, writes code and works with documents using a terminal, a browser and desktop apps.
+- [agent-desktop (macOS Multi-Account Sandbox)](https://awesomecua.com/resources/github-dianavocado181-agent-desktop/) — Date not recorded
+  Gives AI computer-use agents a dedicated macOS user account and isolated desktop session viewable live from the main screen.
+- [agent-seat-linux](https://awesomecua.com/resources/github-muhibnayem-agent-seat-linux/) — Date not recorded
+  Provides application-scoped Wayland screen capture and isolated input seats for Linux automation agents.
+- [AgentCurtain](https://awesomecua.com/resources/github-felixlark-agent-curtain/) — Date not recorded
+  AgentCurtain is a macOS menu-bar utility that dims physical displays and blocks physical input while keeping unattended GUI agent sessions running.
 - [AgentDesk](https://awesomecua.com/resources/github-agentsea-agentdesk/) — Date not recorded
   Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
+- [AgentDesktopLinux](https://awesomecua.com/resources/github-edwaks-agentdesktoplinux/) — Date not recorded
+  Linux desktop and VPS computer-use agent for TaskCapitan capable of driving GUI applications and browsers.
+- [AgentSeat](https://awesomecua.com/resources/github-vimalinx-agentseat/) — Date not recorded
+  Lightweight Wayland scaffold isolating an AI agent to operate a single GUI application inside its own virtual seat.
 - [AgentStudio](https://awesomecua.com/resources/github-skyworkai-agent-studio/) — Date not recorded
   Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
+- [aic-pod](https://awesomecua.com/resources/github-veypi-aic-pod/) — Date not recorded
+  Turns a physical or virtual machine into an LLM-callable execution node with sandboxed shell, file, browser, and desktop control.
+- [Ailoy](https://awesomecua.com/resources/github-brekkylab-ailoy/) — Date not recorded
+  Ailoy is a multi-language AI agent SDK that provisions isolated microVM sandboxes for computer-use, CAD, and desktop automation agents.
 - [AIOS](https://awesomecua.com/resources/github-agiresearch-aios/) — Date not recorded
   AIOS is an agent operating system whose computer-use architecture provides a virtual machine controller and MCP server for agents interacting with graphical computer environments.
+- [Airbrowser MCP](https://awesomecua.com/resources/github-ifokeev-airbrowser-mcp/) — Date not recorded
+  Airbrowser packages an undetectable Chrome browser, REST API, MCP server, and live VNC view inside a Docker container for AI web agents.
 - [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) — Date not recorded
   Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
+- [anpl1623 AgentOS](https://awesomecua.com/resources/github-anpl1623-agentos/) — Date not recorded
+  Local-first open-source agent runtime for safely executing AI-driven tasks on a user's personal computer.
+- [AntyBrowser SDK](https://awesomecua.com/resources/github-antybrowser-sdk/) — Date not recorded
+  Official multi-language SDKs (TypeScript, Python, C#, Go, PHP, Ruby) for driving AntyBrowser anti-detect browser profiles.
+- [aos (Agent Operating System CLI)](https://awesomecua.com/resources/github-muthuishere-aos/) — Date not recorded
+  Unified CLI layer over host machines allowing AI agents to drive desktop apps and terminals without taking over user focus.
+- [AriaOS](https://awesomecua.com/resources/github-jeremie225ci-ariaos/) — Date not recorded
+  AriaOS provisions a dedicated virtual machine desktop where computer-use agents operate GUI apps, terminals, and voice interactions.
+- [background-computer-use](https://awesomecua.com/resources/github-panchangam18-background-computer-use/) — Date not recorded
+  MCP server and skill library for driving macOS applications in the background without stealing window focus or cursor control.
+- [bg-driver-rs](https://awesomecua.com/resources/github-lvyuan1688-bg-driver-rs/) — Date not recorded
+  Rust background computer-use driver for macOS, Windows, and Linux.
+- [Boxcar](https://awesomecua.com/resources/github-status-labs-boxcar/) — Date not recorded
+  Boxcar provisions disposable Windows 11 and Ubuntu desktop virtual-machine sandboxes for LLM computer-use agents.
+- [Browser Forest MCP Server](https://awesomecua.com/resources/github-jinmojing-browser-forest-mcp-server/) — Date not recorded
+  Model Context Protocol server for driving anti-detect kernel-patched Chromium cloud browser profiles.
+- [Browser Use Box (bux)](https://awesomecua.com/resources/github-browser-use-bux/) — Date not recorded
+  Browser Use Box (bux) packages a 24/7 autonomous Claude Code and Browser Use web agent for self-hosted Linux servers.
+- [Browser Use macOS Harness](https://awesomecua.com/resources/github-browser-use-macos-harness/) — Date not recorded
+  Official Browser Use harness for provisioning and driving isolated macOS virtual machines and desktop sessions.
+- [browser-gateway](https://awesomecua.com/resources/github-browser-gateway-browser-gateway/) — Date not recorded
+  browser-gateway is an open control plane and router across cloud browser providers with failover, persistent profiles, session replay, and MCP.
 - [Browserbase Cloud](https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/) — Date not recorded
   Managed browser infrastructure for agent applications.
 - [Browserless](https://awesomecua.com/resources/url-1e6b8682e0f1ddc3d36f/) — Date not recorded
   Hosted browser infrastructure for automation applications.
+- [BrowserMesh](https://awesomecua.com/resources/github-scrolldynasty-browsermesh/) — Date not recorded
+  Multi-agent browser MCP runtime in Rust managing isolated, persistent, parallel Playwright sessions.
+- [Browserplane](https://awesomecua.com/resources/github-mathisarends-browserplane/) — Date not recorded
+  Reference control plane for scaling remote Chromium browsers with a Postgres-backed session broker and live WebSocket tab mirroring.
+- [BrowserTunnel](https://awesomecua.com/resources/github-mathisarends-browsertunnel/) — Date not recorded
+  Streams and mirrors a live Chromium tab into a web page over a single WebSocket for remote agent observation and takeover.
+- [BryantVanOrden OpenAgentFleet](https://awesomecua.com/resources/github-bryantvanorden-openagentfleet/) — Date not recorded
+  Self-hosted fleet orchestrator provisioning sandboxed Linux desktop containers for autonomous computer-use agents.
+- [Camofox OpenCLI](https://awesomecua.com/resources/github-fectivnfy112357-camofox-opencli/) — Date not recorded
+  Dockerized cloud browser runtime combining Camofox anti-detect Firefox with 163+ OpenCLI website adapters.
+- [CamouForge](https://awesomecua.com/resources/github-rycen7822-camouforge/) — Date not recorded
+  Native Windows GUI manager for configuring and launching isolated Camoufox stealth browser profiles.
+- [Camoufox](https://awesomecua.com/resources/github-daijro-camoufox/) — Date not recorded
+  Camoufox is an open-source anti-detect Firefox browser with C++-level fingerprint rotation designed for web automation and AI browser agents.
+- [caravela](https://awesomecua.com/resources/github-kov-caravela/) — Date not recorded
+  Programmatic browser-use CLI and library driving Chromium over CDP inside an optional managed Weston Wayland compositor.
+- [Celestea Harness Studio](https://awesomecua.com/resources/github-mcd0luo-celestea-harness-studio/) — Date not recorded
+  Self-hosted AI agent workbench combining a web UI, TypeScript backend, sandboxed tool execution, and browser control.
+- [Celesto](https://awesomecua.com/resources/github-celestoai-celesto/) — Date not recorded
+  Celesto provisions secure, persistent virtual desktop computers and browser sandboxes for AI agents.
+- [Chrome MCP Docker](https://awesomecua.com/resources/github-null-runner-chrome-mcp-docker/) — Date not recorded
+  Dockerized Chrome DevTools MCP server with persistent browser profiles and container host-header routing for AI web agents.
+- [Chrome Orchestrator](https://awesomecua.com/resources/github-sh7vansh-chrome-orchestrator/) — Date not recorded
+  Unified Model Context Protocol gateway and dynamic container orchestrator for headless AI browser sessions.
+- [ChromeClaw](https://awesomecua.com/resources/github-algopian-chromeclaw/) — Date not recorded
+  ChromeClaw runs an autonomous browser and workspace agent inside the Chrome extension sandbox with multi-provider LLM and tab automation tools.
+- [Claude KVM](https://awesomecua.com/resources/github-aras-workspace-claude-kvm/) — Date not recorded
+  Claude KVM is a macOS MCP server and VNC client that enables AI agents to observe and control remote desktop environments over VNC.
+- [Claude Quickstarts (Computer Use Demo)](https://awesomecua.com/resources/github-anthropics-claude-quickstarts/) — Date not recorded
+  Anthropic reference implementations including the containerized Claude Computer Use desktop agent demo with Xvfb, VNC, and bash/browser tools.
+- [ClawBox](https://awesomecua.com/resources/github-coderkk1992-clawbox/) — Date not recorded
+  ClawBox runs OpenClaw and computer-use agents inside an isolated Apple Virtualization.framework macOS virtual machine sandbox.
+- [Clawbrowser](https://awesomecua.com/resources/github-clawbrowser-clawbrowser/) — Date not recorded
+  Clawbrowser is an agent-native managed Chromium runtime with fingerprint rotation, proxy routing, and persistent session state.
+- [Clearcote Browser](https://awesomecua.com/resources/github-clearcotelabs-clearcote-browser/) — Date not recorded
+  Open-source stealth Chromium browser with engine-level fingerprint spoofing designed as a drop-in runtime for AI web agents.
+- [CloakBrowserMCP](https://awesomecua.com/resources/github-sjf-ecnu-cloakbrowsermcp/) — Date not recorded
+  Python Model Context Protocol server for controlling CloakBrowser stealth Chromium in headless and Xvfb virtual-display environments.
+- [Cockroach Browser](https://awesomecua.com/resources/github-ajnasnb-cockroach-browser/) — Date not recorded
+  Local-first browser automation platform for AI agents supporting isolated Chromium, Firefox, and WebKit profiles.
+- [Code Sandbox MCP](https://awesomecua.com/resources/github-automata-labs-team-code-sandbox-mcp/) — Date not recorded
+  Code Sandbox MCP is a Model Context Protocol server that provisions isolated Docker container sandboxes for AI agents to execute code and shell commands.
+- [Codex Computer Use MCP (Signed Broker Bridge)](https://awesomecua.com/resources/github-tmustier-codex-computer-use-mcp/) — Date not recorded
+  Background-safe MCP server that exposes OpenAI's signed macOS Codex Computer Use broker to Pi and MCP clients.
+- [Computer Use (gVisor Cloud REPL)](https://awesomecua.com/resources/github-r33drichards-computer-use/) — Date not recorded
+  Provides a gVisor-isolated Linux desktop and Chromium container with persistent storage driven through a single JavaScript REPL MCP tool.
+- [Computer Use VM](https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/) — Date not recorded
+  Provisions disposable, headless macOS virtual machines so computer-use agents can operate isolated desktops without window switching.
+- [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/resources/github-shayanamir0-computer-use-with-slm/) — Date not recorded
+  Fine-tunes small language models for computer-use navigation and GUI interaction using Group Relative Policy Optimization (GRPO) and OpenEnv.
+- [computer-use-mcp-gateway](https://awesomecua.com/resources/github-git-ksk-computer-use-mcp-gateway/) — Date not recorded
+  Remote Model Context Protocol gateway for routing agent tool calls to computer-use backends such as Cua Driver.
+- [CopilotKit OpenBot](https://awesomecua.com/resources/github-copilotkit-openbot/) — Date not recorded
+  Self-hosted enterprise AI assistant and computer-use workspace by CopilotKit with containerized sandboxing and skill orchestration.
+- [CUA-Gym](https://awesomecua.com/resources/github-xlang-ai-cua-gym/) — Date not recorded
+  CUA-Gym is a scalable pipeline for synthesizing interactive mock web environments and verifiable RLVR training tasks for computer-use agents.
+- [cua-lite](https://awesomecua.com/resources/github-justanotheruser82174-cua-lite/) — Date not recorded
+  cua-lite is a cross-platform desktop application and harness for running, evaluating, and fine-tuning computer-use agents.
+- [CuaOS](https://awesomecua.com/resources/github-cuaos-cuaos/) — Date not recorded
+  CuaOS runs a Qwen3-VL computer-use agent that autonomously controls an Ubuntu virtual desktop inside a local Docker sandbox.
+- [CUArena](https://awesomecua.com/resources/github-ogutdgn-cuarena/) — Date not recorded
+  CUArena wraps desktop and web applications into resettable, observable, and programmatically gradable reinforcement-learning environments.
+- [cuforge](https://awesomecua.com/resources/github-huzjie-cuforge/) — Date not recorded
+  cuforge is an online reinforcement-learning and verifiable task-synthesis platform for training computer-use GUI agents.
+- [cuse](https://awesomecua.com/resources/github-cuse-dev-cuse/) — Date not recorded
+  cuse is an open-source framework for building AI agents that control virtualized Linux desktops and browsers via display, mouse, and keyboard APIs.
+- [Cyberdesk](https://awesomecua.com/resources/github-cyberdesk-hq-cyberdesk/) — Date not recorded
+  Cyberdesk is an open-source virtual desktop orchestration platform and SDK for provisioning and controlling cloud desktop sandboxes for CUA.
+- [Deck](https://awesomecua.com/resources/github-cofy-x-deck/) — Date not recorded
+  Deck is an open-source desktop cockpit for managing isolated local AI agent sandboxes, desktop sessions, and developer handoffs.
+- [Deskfish](https://awesomecua.com/resources/github-0x11c11e-deskfish/) — Date not recorded
+  Deskfish is a VS Code extension that gives AI agents an isolated virtual desktop container viewable and steerable inside the editor.
+- [deskpal](https://awesomecua.com/resources/github-b1tank-deskpal/) — Date not recorded
+  C-native Linux desktop-control MCP server supporting X11/Xwayland, AT-SPI accessibility trees, OCR, and isolated displays.
+- [DeskSwarm](https://awesomecua.com/resources/github-ahmedvnabil-deskswarm/) — Date not recorded
+  Self-hosted fleet manager for provisioning and dispatching natural-language tasks across parallel XFCE Linux desktop sandboxes.
+- [Desktop Action Agent](https://awesomecua.com/resources/github-dax0056-desktop-action-agent/) — Date not recorded
+  Sandboxed local computer-automation agent reference architecture with window detection and action verification.
+- [Desktop Commander MCP](https://awesomecua.com/resources/github-wonderwhy-er-desktopcommandermcp/) — Date not recorded
+  Desktop Commander MCP is a Model Context Protocol server for terminal process control, interactive REPLs, and surgical file editing.
+- [Desktop Computer Use (DCU)](https://awesomecua.com/resources/github-dev-willbird1936-desktop-computer-use/) — Date not recorded
+  Background Windows computer-use MCP server that dispatches input to target applications without interrupting foreground user work.
+- [DeskVNC](https://awesomecua.com/resources/github-psmux-deskvnc/) — Date not recorded
+  Pure-Rust VNC, RDP, and SSH remote desktop client with Tauri UI for managing agent and remote machines.
+- [dibs](https://awesomecua.com/resources/github-joshteravest-dibs/) — Date not recorded
+  Local coordination hub and lock manager that lets multiple AI agents reserve and use computer-use resources without colliding.
+- [DispatchShield](https://awesomecua.com/resources/github-venusone-lee-dispatchshield/) — Date not recorded
+  macOS utility that keeps a Mac awake for unattended computer-use agents while shielding the active session from local input.
+- [Dockur Windows](https://awesomecua.com/resources/github-dockur-windows/) — Date not recorded
+  Dockur Windows runs full Windows desktop environments inside Docker/KVM containers with web VNC viewer support for agent sandboxes.
+- [Doppel](https://awesomecua.com/resources/github-orvii-doppel/) — Date not recorded
+  Doppel is a computer-use agent that operates inside a dedicated virtual desktop with its own cursor on Windows 11 and Linux.
+- [DroidFleet](https://awesomecua.com/resources/github-c00l-k1d-droidfleet/) — Date not recorded
+  Open-source Android device fleet management and orchestration platform for mobile automation and testing.
+- [DSB (逗沙包)](https://awesomecua.com/resources/github-tianye1999-dsb/) — Date not recorded
+  DSB is a trust-first Android AI agent that executes delegated app tasks on a background virtual display without interrupting the user's screen.
+- [dsh-antibrow](https://awesomecua.com/resources/github-antibrow-dsh-antibrow/) — Date not recorded
+  DeepSeek Harness plugin integrating the AntiBrow anti-detect browser for stealth web automation.
+- [dsh-cloak-browser](https://awesomecua.com/resources/github-maxiaovivi-dsh-cloak-browser/) — Date not recorded
+  Native CloakBrowser plugin for DeepSeek Harness providing isolated anti-detect browser sessions and DOM snapshots.
+- [dsh-computer-use](https://awesomecua.com/resources/github-xiaoheizi1212-dsh-computer-use/) — Date not recorded
+  Model-agnostic Computer Use plugin for DeepSeek Harness combining an isolated browser, a native Windows UI helper, and action observation.
+- [dsh-plugin-openbot](https://awesomecua.com/resources/github-jimmyjdejesus-cmyk-dsh-plugin-openbot/) — Date not recorded
+  Native Cordis plugin for DeepSeek Harness integrating CopilotKit OpenBot container sandboxing and computer use.
+- [dsh-vdesktop](https://awesomecua.com/resources/github-jafewff-dsh-vdesktop/) — Date not recorded
+  dsh-vdesktop runs Windows GUI applications inside an invisible Win32 virtual desktop (`CreateDesktopW`) and exposes 12 `vdesk_*` agent control tools.
+- [Dugle Browser](https://awesomecua.com/resources/github-duckmartians-dugle-browser/) — Date not recorded
+  Custom Chromium build with engine-level compiled device fingerprints for stealth browser automation.
 - [E2B](https://awesomecua.com/resources/url-fda52d641c6b482bda7b/) — Date not recorded
   Sandbox infrastructure for executing agent workloads.
 - [E2B Desktop](https://awesomecua.com/resources/github-e2b-dev-desktop/) — Date not recorded
   Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driven from Python or JavaScript SDKs with screen streaming, mouse, keyboard and window control, screenshots and shell.
+- [E2B Surf](https://awesomecua.com/resources/github-e2b-dev-surf/) — Date not recorded
+  E2B Surf is a web-based computer-use agent combining OpenAI Computer-Using Agent models with an isolated E2B Desktop virtual machine.
+- [EdgeBox](https://awesomecua.com/resources/github-bigppwong-edgebox/) — Date not recorded
+  EdgeBox provisions isolated local Linux desktop virtual machines with WebRTC streaming and snapshot rollback for running computer-use agents.
+- [ELVES](https://awesomecua.com/resources/github-mvmcode-elves/) — Date not recorded
+  ELVES is a cross-platform desktop application for orchestrating multi-agent coding teams inside isolated Git worktrees with MCP integration.
+- [Floom OpenBrowser](https://awesomecua.com/resources/github-floomhq-openbrowser/) — Date not recorded
+  OpenBrowser is an open-source browser automation broker managing persistent Chrome profiles and proxy-aware sessions for AI agents.
+- [forge (Readable ReAct Agent)](https://awesomecua.com/resources/github-musokean-forge/) — Date not recorded
+  Modular Python ReAct agent framework with a 235-line core loop and 31 opt-in sandbox, browser, and computer-use modules.
+- [FurlPay Bot](https://awesomecua.com/resources/github-furlpay-furlpay-bot/) — Date not recorded
+  Persistent AI teammate equipped with its own virtual computer, browser, long-term memory, and voice interface.
+- [Ghost Semantic OS](https://awesomecua.com/resources/github-zainmfjavaid-ghost-semantic-os/) — Date not recorded
+  Ghost Semantic OS provides a text-only semantic accessibility runtime for operating Linux desktop applications in OSWorld without screenshots.
+- [GhostDesk](https://awesomecua.com/resources/github-yv17labs-ghostdesk/) — Date not recorded
+  GhostDesk is an MCP server and sandboxed virtual desktop runtime that gives LLM agents screen vision, mouse/keyboard control, and shell access.
+- [Gloria](https://awesomecua.com/resources/github-sh7vansh-gloria/) — Date not recorded
+  Remote Chromium workstation for AI agents and human operators exposed over Model Context Protocol and noVNC.
+- [Gloria Headless](https://awesomecua.com/resources/github-sh7vansh-gloria-headless/) — Date not recorded
+  Containerized headless Chromium environment with native Model Context Protocol integration for autonomous web agents.
+- [glovebox-mcp](https://awesomecua.com/resources/github-segentic-lab-glovebox-mcp/) — Date not recorded
+  Sandboxed computer-use MCP server that lets AI agents drive browsers and desktop apps inside an isolated nested X11 window.
+- [GoLogin MCP Server](https://awesomecua.com/resources/github-gologinapp-gologin-mcp/) — Date not recorded
+  GoLogin MCP Server allows AI agents to manage anti-detect browser profiles, proxies, fingerprints, and cloud browser sessions.
+- [GUI Label Tool](https://awesomecua.com/resources/github-ethanyxx-gui-label-tool/) — Date not recorded
+  GUI Label Tool records and annotates human desktop trajectories inside a Dockerized QEMU virtual machine with paired input events and screenshots.
+- [HAICOSYSTEM](https://awesomecua.com/resources/github-xuhuizhou-haicosystem/) — Date not recorded
+  HAICOSYSTEM simulates multi-turn interactions between human users, tool-using LLM agents, and environment sandboxes to evaluate safety risks.
+- [Halo Bot](https://awesomecua.com/resources/github-galactic717-halo-bot/) — Date not recorded
+  Self-hosted named AI teammates running in sandboxed desktop and browser environments on user-owned hardware.
+- [Harborage](https://awesomecua.com/resources/github-vadym-iefremov-harborage/) — Date not recorded
+  On-demand pool manager providing isolated headless browser sessions for concurrent AI web agents.
+- [headless-use](https://awesomecua.com/resources/github-flyingsquirrel0419-headless-use/) — Date not recorded
+  Headless Linux browser runtime and CLI giving coding agents a real Chromium browser with persistent sessions.
+- [HeroDesktop](https://awesomecua.com/resources/github-deathlegionteamlk-herodesktop/) — Date not recorded
+  HeroDesktop is an open-source virtual desktop sandbox for running and observing AI computer-use agents.
+- [Hronaut](https://awesomecua.com/resources/github-hronaut-hronaut/) — Date not recorded
+  Visible, persistent, dedicated browser runtime that coding agents can control without interrupting the user's personal browser.
 - [Hyperbrowser](https://awesomecua.com/resources/url-053ebfe0afac66c86222/) — Date not recorded
   Browser infrastructure and automation services for AI agents.
+- [Hyprland Codex Background Computer Use](https://awesomecua.com/resources/github-gabriel-kahen-hyprland-codex-background-computer-use/) — Date not recorded
+  Enables background Codex computer control of Hyprland Wayland and XWayland applications without stealing focus.
+- [invisible_dots](https://awesomecua.com/resources/github-feder-cr-invisible-dots/) — Date not recorded
+  invisible_dots is a self-hosted cloud browser-agent workspace pairing isolated KVM virtual machines with anti-detect Firefox automation.
+- [Ivy Tendril](https://awesomecua.com/resources/github-ivy-interactive-ivy-tendril/) — Date not recorded
+  Ivy Tendril is a desktop orchestrator for running parallel coding agents across isolated Git worktrees.
+- [Jet Browser](https://awesomecua.com/resources/github-masakaai-jet-browser/) — Date not recorded
+  Jet Browser packages WPE WebKit and a Rust WebDriver bridge into an isolated, low-footprint container runtime for AI web agents.
+- [jmeguilos Computer Use MCP](https://awesomecua.com/resources/github-jmeguilos-computer-use-mcp/) — Date not recorded
+  Window-scoped macOS computer-use server over local stdio MCP using native ScreenCaptureKit and Accessibility APIs.
+- [Kernel Claude Computer Use Loop](https://awesomecua.com/resources/github-kernel-claude-cu-loop-sample/) — Date not recorded
+  Reference SDK implementation of Anthropic's Claude Computer Use agent loop driving remote cloud browsers via Kernel's Computer Controls API.
+- [Kernel MCP Server](https://awesomecua.com/resources/github-kernel-kernel-mcp-server/) — Date not recorded
+  Kernel MCP Server connects AI agents to low-latency cloud browser sandboxes and serverless execution environments on Kernel.
+- [Kortix Suna](https://awesomecua.com/resources/github-kortix-ai-suna/) — Date not recorded
+  Kortix Suna is an open-source generalist agent platform combining a containerized browser, code interpreter, file manager, and tool runtime.
+- [kwin-mcp](https://awesomecua.com/resources/github-isac322-kwin-mcp/) — Date not recorded
+  Model Context Protocol server for Linux KDE Plasma 6 Wayland desktop GUI automation providing 29 tools for virtual KWin sessions, AT-SPI, and input.
+- [Latere Sandbox Images](https://awesomecua.com/resources/github-latere-ai-sandbox-images/) — Date not recorded
+  Container images for coding and computer-use desktop agents compatible with Docker, Podman, and Cella sandboxes.
+- [Latitude Browser](https://awesomecua.com/resources/github-djblack1209-coder-latitude-browser/) — Date not recorded
+  Desktop workspace for managing isolated browser profiles, proxy routing, and multi-session web automation.
+- [Linux CUA (5omeotherguy)](https://awesomecua.com/resources/github-5omeotherguy-linux-computer-use/) — Date not recorded
+  Linux desktop toolkit for computer-use agents providing isolated X11 workspaces, window capture, and input synthesis.
+- [LLM-in-Sandbox](https://awesomecua.com/resources/github-llm-in-sandbox-llm-in-sandbox/) — Date not recorded
+  LLM-in-Sandbox equips language models with virtualized Linux computer sandboxes and RL training pipelines for multi-turn task execution.
+- [Locopilot](https://awesomecua.com/resources/github-pradhankukiran-locopilot/) — Date not recorded
+  Supervised Linux desktop automation copilot featuring sandboxed execution, policy guardrails, and rollback checkpoints.
+- [loki-auto](https://awesomecua.com/resources/github-loki4agent-loki-auto/) — Date not recorded
+  Zero-dependency in-browser web automation runtime with an embedded sandbox and Model Context Protocol server for LLMs.
 - [Lume](https://awesomecua.com/resources/github-trycua-lume/) — Date not recorded
   Virtual machine management for local computer-use environments.
+- [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/) — Date not recorded
+  Mantis is a unified perception-reasoning-action computer-use agent that drives browsers and Xvfb desktop applications from structured plans.
+- [mistudio0902-lab Chrome Bridge](https://awesomecua.com/resources/github-mistudio0902-lab-chrome-bridge/) — Date not recorded
+  Model Context Protocol bridge enabling Claude Code and Codex to operate multiple logged-in Chrome profiles concurrently.
+- [modal-computer-use](https://awesomecua.com/resources/github-ashtonchew-modal-computer-use/) — Date not recorded
+  Provides daemon-first computer-use primitives for provisioning and controlling GUI desktops inside Modal cloud sandboxes.
+- [MuseLite](https://awesomecua.com/resources/github-yxq953-muselite/) — Date not recorded
+  MuseLite is a Python-first AI agent workspace for Android combining chat, execution sandboxes, browser automation, and scheduled tasks.
+- [Napaxi](https://awesomecua.com/resources/github-antgroup-napaxi/) — Date not recorded
+  Mobile-native agent SDK by Ant Group for building on-device AI agents with sandboxed skill execution.
+- [Nehemiah](https://awesomecua.com/resources/github-boringcomputers-nehemiah/) — Date not recorded
+  Nehemiah provisions on-demand Linux Firecracker microVMs equipped with a browser and desktop environment for AI agents.
+- [Neo Lab](https://awesomecua.com/resources/github-belarusian-neo-lab/) — Date not recorded
+  Neo Lab is a macOS computer-use sandbox for recording demonstrations, replaying skills, and testing GUI automation plans.
+- [Nexus Computer Use Harness (NexusCUH)](https://awesomecua.com/resources/github-subasah-computer-use-harness/) — Date not recorded
+  NexusCUH is a computer-use agent harness with sandboxed execution, MCP integration, policy guardrails, and trace observability.
+- [Nik-Browser MCP](https://awesomecua.com/resources/github-nikolay-3d-nik-browser-mcp/) — Date not recorded
+  Local Model Context Protocol server providing LLMs with an independent, persistent-login Chromium browser and DOM snapshots.
+- [Numera Browser](https://awesomecua.com/resources/github-kiarosama-numera-browser/) — Date not recorded
+  Local-first multi-profile browser manager for isolated testing and agentic web automation.
+- [Oculr MCP](https://awesomecua.com/resources/github-oculr-ai-oculr-mcp/) — Date not recorded
+  Model Context Protocol server for driving isolated, anti-detect Oculr Chromium profiles over MCP and raw CDP.
+- [Open Claudex Computer Use](https://awesomecua.com/resources/github-opencodexlabs-open-codex-computer-use/) — Date not recorded
+  Open-source background macOS computer-use MCP server for Claude Code and Codex.
+- [Open Computer Use](https://awesomecua.com/resources/github-e2b-dev-open-computer-use/) — Date not recorded
+  Open Computer Use runs open-source vision-language models inside an E2B Desktop cloud Linux sandbox for autonomous GUI task execution.
+- [Open Duet (open-dots)](https://awesomecua.com/resources/github-anil-matcha-open-dots/) — Date not recorded
+  Open Duet is a self-hosted multi-agent workspace where named AI coworkers operate isolated sandboxes, browsers, and terminals.
+- [open-cowork](https://awesomecua.com/resources/github-coasty-ai-open-cowork/) — Date not recorded
+  open-cowork is an open-source computer-use coworker that operates local desktops, cloud VMs, and browsers with human-in-the-loop approval.
+- [OpenAgentFleet](https://awesomecua.com/resources/github-robbyczgw-cla-openagentfleet/) — Date not recorded
+  Local-first multi-agent desktop platform with named AI coworkers and a watchable Linux virtual desktop.
+- [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) — Date not recorded
+  OpenAI Codex CLI is a local terminal and desktop coding agent that executes commands and edits files inside OS-enforced sandboxes.
+- [OpenDesktop & OpenWorker](https://awesomecua.com/resources/github-chrisschouk-open-desktop/) — Date not recorded
+  Cloud desktop infrastructure and container sandbox engine paired with the OpenWorker conversational desktop agent.
+- [OpenHands](https://awesomecua.com/resources/github-openhands-openhands/) — Date not recorded
+  OpenHands is an open-source platform for software development and computer-use agents equipped with a sandboxed shell, code editor, and browser.
+- [Orbit UI](https://awesomecua.com/resources/github-aadya940-orbit-ui/) — Date not recorded
+  Self-hosted visual workflow builder for authoring and running desktop computer-use automation inside Docker containers.
+- [OvoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/) — Date not recorded
+  Source-level Chromium fingerprint browser engineered for anti-detect web automation.
+- [Oya Browser](https://awesomecua.com/resources/github-oyadotai-oya-browser/) — Date not recorded
+  Oya Browser is a governance-aware browser control plane for human-AI collaboration across local and cloud browser providers.
+- [parallel-browser-mcp](https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/) — Date not recorded
+  Model Context Protocol server for parallel multi-session browser automation across local and cloud browser providers.
+- [Parallels CLI Skill for Codex](https://awesomecua.com/resources/github-wieslawsoltes-parallelsskill/) — Date not recorded
+  Portable Codex skill for provisioning, snapshotting, and controlling Parallels Desktop virtual machines on macOS.
+- [Peerframe OpenBot](https://awesomecua.com/resources/github-peerframe-openbot/) — Date not recorded
+  Self-hosted cross-platform control plane for managing persistent digital employees with browser and desktop capabilities.
+- [Pegoles Agent](https://awesomecua.com/resources/github-zezortdx-pegoles-agent/) — Date not recorded
+  Pegoles Agent runs a macOS computer-use controller against an isolated Linux virtual machine with deterministic pre-execution policy checks.
+- [Personae Browser](https://awesomecua.com/resources/github-leek-emperor-personae/) — Date not recorded
+  Desktop browser where every identity runs in an isolated Chromium partition for multi-account human and agent workflows.
+- [Pi Nodriver Browser](https://awesomecua.com/resources/github-ayasakura-comp-pi-nodriver-browser/) — Date not recorded
+  Pi coding-agent browser extension powered by Nodriver, headful Chrome, and Xvfb virtual displays.
+- [pi-playwright-browser](https://awesomecua.com/resources/github-sunnybharne-pi-playwright-browser/) — Date not recorded
+  Isolated Playwright Chromium browser tools for the Pi coding agent.
+- [Piskie](https://awesomecua.com/resources/github-piskie-dev-piskie/) — Date not recorded
+  Desktop AI agent for the real web equipped with a built-in anti-detect fingerprint browser.
+- [Prism Browser Community](https://awesomecua.com/resources/github-dfarm6-prism-browser-community/) — Date not recorded
+  Local-first open-source multi-profile fingerprint browser built on Chromium and Electron for isolated web automation.
+- [ProfileFleet](https://awesomecua.com/resources/github-enginefuture-profilefleet/) — Date not recorded
+  Local-first TypeScript orchestration plane for managing persistent fingerprint-browser profiles across AI agents.
+- [Puppeteer MCP Server](https://awesomecua.com/resources/github-sultannaufal-puppeteer-mcp-server/) — Date not recorded
+  Self-hosted Puppeteer MCP server with remote Server-Sent Events (SSE) transport, API key authentication, and Docker deployment.
+- [QAgent](https://awesomecua.com/resources/github-rishabhcli-qagent/) — Date not recorded
+  QAgent is a local-first web QA and repair agent with an Electron desktop UI, CLI, MCP server, and isolated Git worktree execution.
+- [qdesk](https://awesomecua.com/resources/github-jackwangfeng-qdesk/) — Date not recorded
+  qdesk is an open-source AI agent desktop sandbox providing an isolated Linux and Chromium environment controllable over HTTP.
+- [Qubicl](https://awesomecua.com/resources/github-eldanring-qubicl/) — Date not recorded
+  Provisions isolated local virtual computers so AI agents can operate a private desktop without touching the host session.
+- [QuickDesk](https://awesomecua.com/resources/github-barry-ran-quickdesk/) — Date not recorded
+  QuickDesk is an AI-native remote desktop client and host with a built-in MCP server for streaming screens and controlling remote computers.
 - [RedTeamCUA](https://awesomecua.com/resources/github-osu-nlp-group-redteamcua/) — Date not recorded
   A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.
+- [Relay AI Virtual Desktop](https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/) — Date not recorded
+  Browser-streamed Docker Linux desktop shared between humans and AI agents with a Go MCP computer-use server.
+- [Rocuronium](https://awesomecua.com/resources/github-kageroumado-rocuronium/) — Date not recorded
+  Isolates macOS computer-use agents inside a separate login session while rendering a live visible-agent overlay on the host screen.
+- [Sandbar](https://awesomecua.com/resources/github-jdrolls-sandbar-public/) — Date not recorded
+  Sandbar provisions isolated cloud Ubuntu desktop virtual machines equipped with OpenClaw and VNC streaming for computer-use agents.
+- [Sandbox0](https://awesomecua.com/resources/github-sandbox0-ai-sandbox0/) — Date not recorded
+  Sandbox0 is an open-source cloud sandbox platform with persistent storage volumes and sub-second microVM/container resume for AI agents.
 - [ScienceBoard VMware environment](https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/) — Date not recorded
   A prebuilt Ubuntu virtual-machine archive containing the software environment used for ScienceBoard scientific computer-use tasks.
+- [Scrapeless Playwright Cloud Browser](https://awesomecua.com/resources/github-pedro-scrapeless-scrapeless-playwright/) — Date not recorded
+  Connects Playwright scripts and browser agents to the Scrapeless anti-detection cloud Chromium browser over CDP.
+- [screen2gym](https://awesomecua.com/resources/github-marc-saouda-screen2gym/) — Date not recorded
+  screen2gym compiles raw action-labeled screen recordings into resettable, programmatically gradable RL environments for computer-use agents.
+- [Self-Hosted Cloud Browser MCP](https://awesomecua.com/resources/github-bk927-cloud-browser-mcp/) — Date not recorded
+  Self-hosted Chromium MCP server with isolated browser profiles, OAuth authentication, and human takeover support.
+- [SentinelDesk](https://awesomecua.com/resources/github-sentineldesk-desktop/) — Date not recorded
+  Collaborative Linux desktop streamed to the browser where humans and AI agents share a workspace.
+- [Shinken](https://awesomecua.com/resources/github-meirtz-shinken/) — Date not recorded
+  Shinken is a high-throughput runtime for training computer-use agents end-to-end with reinforcement learning across parallel real desktops.
+- [SlyBrowser](https://awesomecua.com/resources/github-virtualfanc-slybrowser/) — Date not recorded
+  Anti-detect Chromium browser built for agentic web automation and authorized scraping with native humanized input.
+- [SpaceO](https://awesomecua.com/resources/github-parthjadhav-spaceo/) — Date not recorded
+  Gives AI computer-use agents dedicated virtual macOS displays so they operate real apps without taking over the user's screen or cursor.
+- [SparkBridge](https://awesomecua.com/resources/github-musicjazz5-nvidia-dgx-spark/) — Date not recorded
+  Human-approved isolated browser bridge for local AI agents running on NVIDIA DGX Spark workstations.
 - [Steel Browser](https://awesomecua.com/resources/github-steel-dev-steel-browser/) — Date not recorded
   Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
 - [Steel Cloud](https://awesomecua.com/resources/url-b940a884f200a916a61b/) — Date not recorded
   Managed browser infrastructure associated with Steel Browser.
+- [SWE-agent](https://awesomecua.com/resources/github-swe-agent-swe-agent/) — Date not recorded
+  SWE-agent introduces Agent-Computer Interfaces (ACI) enabling language models to autonomously navigate repositories, edit code, and run tests.
+- [TabCtrl](https://awesomecua.com/resources/github-g1at-tabctrl/) — Date not recorded
+  Bring-your-own-key multi-model browser agent for Chrome and Edge with per-task tab isolation.
+- [Tailorec Browser Orchestrator](https://awesomecua.com/resources/github-tailorec-tailorec-browser-orch/) — Date not recorded
+  Run-isolated browser orchestration service that converts webpages into semantic snapshots with stable element references.
 - [TestDriver SDK](https://awesomecua.com/resources/github-testdriverai-testdriverai/) — Date not recorded
   Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.
+- [Trope CUA](https://awesomecua.com/resources/github-tropeai-trope-cua/) — Date not recorded
+  Trope CUA enables background desktop inspection and GUI operation on Windows and macOS without interrupting foreground user work.
+- [Twiko](https://awesomecua.com/resources/github-ezocomp118-source-twiko/) — Date not recorded
+  Self-hosted platform provisioning dedicated virtual computers with browsers and terminals for autonomous AI teammates.
+- [Undetectable Browser MCP Server](https://awesomecua.com/resources/github-undetectable-io-undetectable-browser-mcp/) — Date not recorded
+  Official TypeScript Model Context Protocol server wrapping the Undetectable Browser local API for profile management and web automation.
+- [Unraid Camofox Stealth Browser](https://awesomecua.com/resources/github-mircoblitz-unraid-camofox-stealth-browser/) — Date not recorded
+  Unraid container template and Agent Skill for hosting a private Camofox anti-detect browser node for AI agents.
+- [UseAgent](https://awesomecua.com/resources/github-useagenthq-useagent/) — Date not recorded
+  Open-source cloud and local sandbox platform for running Claude Code, Codex, or OpenCode with a full desktop and browser.
+- [Valk](https://awesomecua.com/resources/github-ercbot-valk/) — Date not recorded
+  Valk is a Python library and observable remote-desktop interface for programmatic mouse, keyboard, and screen control by AI agents.
+- [VNC MCP Server](https://awesomecua.com/resources/github-volkan-m-vnc-mcp-server/) — Date not recorded
+  VNC MCP Server exposes remote desktop screenshots, OCR text localization, and mouse/keyboard control over the RFB/VNC protocol to MCP agents.
+- [vnc-computer-use CLI](https://awesomecua.com/resources/github-eyhn-vnc/) — Date not recorded
+  Command-line interface for computer-use agents to capture screenshots and dispatch mouse and keyboard actions over VNC.
+- [vnc-remote-control](https://awesomecua.com/resources/github-bitranox-vnc-remote-control/) — Date not recorded
+  Layout-aware VNC/RFB remote-control CLI providing typing, clicking, screenshot capture, and OCR against any VNC server.
+- [vnc-use](https://awesomecua.com/resources/github-mayflower-vnc-use/) — Date not recorded
+  vnc-use is a LangGraph-based computer-use framework that drives remote desktop environments over VNC with multi-model LLM planners and hitl gates.
+- [Windows Sandbox Computer Use Skill](https://awesomecua.com/resources/github-2018wzh-windows-sandbox-computer-use/) — Date not recorded
+  Windows-only agent skill for provisioning an isolated Windows Sandbox VM and driving it via visual computer use.
+- [WinReach MCP](https://awesomecua.com/resources/github-ghoui-winreach-mcp/) — Date not recorded
+  Model Context Protocol server giving AI agents remote control over a dedicated Windows machine with PowerShell, screenshots, and UI input.
+- [ZennoBrowser MCP Server](https://awesomecua.com/resources/github-zennolab-zennobrowser-mcp-server/) — Date not recorded
+  Official Model Context Protocol server for controlling ZennoBrowser anti-detect browser profiles, proxies, cookies, and web actions.
+
+## 学习资源
+
+- [AI Agent Desktop Engineering Blueprint](https://awesomecua.com/resources/github-men-zer-ai-agent-desktop-engineering-blueprint/) — Date not recorded
+  Five-chapter architectural blueprint and comparative engineering guide for building desktop AI and computer-use agent applications.
+- [learn-workbuddy](https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/) — Date not recorded
+  24-chapter bilingual Python engineering course building a WorkBuddy-style desktop AI agent harness from scratch.

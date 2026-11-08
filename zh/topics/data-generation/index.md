@@ -701,6 +701,13 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
 - [World of Bits: An Open-Domain Platform for Web-Based Agents](https://awesomecua.com/resources/url-52a3261eb6a19b402e88/) — 2017-07-17
   Introduces World of Bits, a web-task platform combining human demonstrations, keyboard and mouse actions, and cached HTTP traffic for repeatable task environments. It evaluates agents trained through behavioral cloning and reinforcement learning.
 
+## 评测基准
+
+- [pptxgym (CUA-Gym.pptx)](https://awesomecua.com/resources/github-lyt060814-cua-gym-pptx/) — Date not recorded
+  Synthesizes and grades verifiable computer-use reinforcement-learning tasks from real PowerPoint presentation decks.
+- [REFRACT-PPTX](https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/) — Date not recorded
+  Agent-guided generation and multi-dimensional visual evaluation benchmark for editable PowerPoint presentation decks.
+
 ## 数据集
 
 - [AgentNet](https://awesomecua.com/resources/url-964d70c40bfc5ca8e1ee/) — Date not recorded
@@ -721,6 +728,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   HTML and annotation release used for Code2World’s action-conditioned GUI-state prediction training, constructed from mobile GUI trajectories.
 - [AndroidControl](https://awesomecua.com/resources/component-google-research-android-control/) — Date not recorded
   Android demonstrations with high-level goals, step instructions, screenshots, and accessibility trees.
+- [AndroidHowTo](https://awesomecua.com/resources/github-debymf-generating-android-howto/) — Date not recorded
+  AndroidHowTo provides scripts and annotations for building instructional mobile UI action datasets linking how-to steps to Android screens.
 - [AutoDroid V2 training data](https://awesomecua.com/resources/url-9a3506ca6ef034adb424/) — Date not recorded
   Conversation-formatted supervision released for fine-tuning AutoDroid V2, with the project documenting a ShareGPT-style JSON configuration.
 - [CAGUI](https://awesomecua.com/resources/url-a06622da7688e3718a7b/) — Date not recorded
@@ -735,6 +744,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Instruction-to-function-call examples for learning Android intent invocation, with training, testing and API-annotation files for mobile task execution.
 - [FingerTip-20K](https://awesomecua.com/resources/github-tsinghua-fib-lab-fingertip-20k/) — Date not recorded
   Over 20,000 human Android episodes across 500+ apps with user context and long-term usage patterns, plus tracks for proactive intent prediction and personalized execution.
+- [GroundCUA](https://awesomecua.com/resources/github-servicenow-groundcua/) — Date not recorded
+  GroundCUA releases 56,000 desktop screenshots with 3.56M human-verified UI element annotations across 87 applications plus GroundNext models.
 - [GroundGUI RL Dataset](https://awesomecua.com/resources/url-4e71dc456c4112eed727/) — Date not recorded
   Desktop grounding prompts selected from GroundCUA and formatted for click-based reinforcement learning with target-box rewards.
 - [Grounding-Anything-GUI](https://awesomecua.com/resources/url-d1830de02226155ee16d/) — Date not recorded
@@ -763,6 +774,8 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   The released local-supervision portion of GUIEnv, pairing webpage regions and text for OCR and GUI grounding.
 - [GUIOdyssey — current data release](https://awesomecua.com/resources/url-511903ebfac45e6751b2/) — Date not recorded
   Cross-app Android interaction episodes with fine-grained step instructions, screen descriptions, action context, and target boxes.
+- [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) — Date not recorded
+  Dataset of 7,366 computer-use agent execution trajectories from Holo4 27B and Holo4 35B-A3B, recording step-level reasoning, actions, tool results, and screenshots.
 - [Jedi](https://awesomecua.com/resources/url-e062cf1445eaee0f3ade/) — Date not recorded
   Synthetic GUI grounding data associated with UI decomposition research and the OSWorld-G benchmark.
 - [MONDAY](https://awesomecua.com/resources/github-runamu-monday/) — Date not recorded
@@ -787,6 +800,10 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Released dataset used to train PC-Agent-E, linked by the official pipeline for refining human trajectories and synthesizing action reasoning.
 - [Plan-and-Act training data](https://awesomecua.com/resources/url-ba6453cfdae0eb049ced/) — Date not recorded
   Planner and action-executor training examples for WebArena-Lite and WebVoyager, with model-specific processed files and raw trajectory annotations.
+- [PSAI Computer Use Dataset](https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/) — Date not recorded
+  PSAI Computer Use Dataset provides 3,167 human-computer interaction trajectories with synchronized screen video, input events, and DOM/AX snapshots.
+- [RICO Semantics](https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/) — Date not recorded
+  RICO Semantics provides 500,000 human annotations on RICO mobile screens covering icon shapes, semantic roles, and text-element associations.
 - [RoTS](https://awesomecua.com/resources/github-alibabaresearch-rots/) — Date not recorded
   Announced GUI trajectory synthesis resources for recovery from policy-induced errors; the inspected repository marks code and data releases as in preparation.
 - [ScaleCUA Data](https://awesomecua.com/resources/url-631e74223e198ef40202/) — Date not recorded
@@ -829,34 +846,130 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Trajectory collection and revision utilities that use tree search and model-guided critique to train agents to recover from mistakes, including WebShop tasks.
 - [AgentSynth task-generation pipeline](https://awesomecua.com/resources/github-sunblaze-ucb-agentsynth/) — Date not recorded
   Generates synthetic computer-use tasks and records trajectories in OSWorld desktop environments and InSTA browser environments.
+- [AI Computer Interaction Logger](https://awesomecua.com/resources/github-hemangjoshi37a-aicomputerinteractionlogger/) — Date not recorded
+  AI Computer Interaction Logger records synchronized screen video, active window metadata, and mouse/keyboard events for CUA imitation learning.
+- [AI Deep Search Agent (AI 深度搜索助手)](https://awesomecua.com/resources/github-gupi-bill-ai-deep-search-agent/) — Date not recorded
+  Visual browser agent that drives a real Microsoft Edge window from natural-language goals to conduct deep web research.
+- [AntiBrow Recipes](https://awesomecua.com/resources/github-antibrow-recipes/) — Date not recorded
+  Task-level website adapters for the AntiBrow stealth browser returning structured JSON from single commands.
+- [anybridge](https://awesomecua.com/resources/github-justvugg-anybridge/) — Date not recorded
+  Captures a website's authenticated network calls from a live browser session and exposes them as callable tools for any AI agent.
+- [Ausca MCP Services](https://awesomecua.com/resources/github-auscahq-ausca/) — Date not recorded
+  Model Context Protocol services and APIs for AI agents covering document OCR and browser data extraction.
 - [AutoDroid V2](https://awesomecua.com/resources/github-mobilellm-autodroid-v2/) — Date not recorded
   An Android automation implementation that builds app documentation from exploration traces and evaluates language-model-generated execution code in emulator workflows.
+- [Browser AI Agent Examples (Tiered Web Agent)](https://awesomecua.com/resources/github-quantumproxies-browser-ai-agent-examples/) — Date not recorded
+  Goal-driven web agent architecture using a cheapest-tier-first cascade across XHR discovery, DOM actions, and vision.
+- [Browser4](https://awesomecua.com/resources/github-platonai-browser4/) — Date not recorded
+  Browser4 is an AI-native browser engine and coroutines runtime for high-concurrency web agents, workflow automation, and page extraction.
+- [BrowserPilot](https://awesomecua.com/resources/github-ai-naymul-browserpilot/) — Date not recorded
+  BrowserPilot is an open-source stealth browser agent that executes natural-language web navigation and structured scraping workflows.
+- [Captr for macOS](https://awesomecua.com/resources/github-anaishowland-captr-macos/) — Date not recorded
+  Captr for macOS records synchronized screen video, keyboard/mouse input, DOM snapshots, and macOS accessibility trees for CUA datasets.
+- [Captr for Windows](https://awesomecua.com/resources/github-anaishowland-captr-windows/) — Date not recorded
+  Captr for Windows records synchronized screen video, mouse/keyboard events, DOM snapshots, and Windows accessibility trees for CUA datasets.
+- [chrome-agent-search](https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/) — Date not recorded
+  Local-first Rust CLI for driving Chrome to perform web searches and extract clean Markdown page content.
+- [COCO4GUI](https://awesomecua.com/resources/github-harpreetsahota204-gui-dataset-creator/) — Date not recorded
+  COCO4GUI is an interactive screen capture and bounding-box annotation tool for building COCO-formatted GUI grounding datasets.
+- [Computer Use Data Collection](https://awesomecua.com/resources/github-bobcoi03-computeruse-data-collection/) — Date not recorded
+  Computer Use Data Collection is a desktop recorder that captures synchronized screenshots, mouse clicks, and keystrokes for training CUA models.
+- [Crawl4AI](https://awesomecua.com/resources/github-unclecode-crawl4ai/) — Date not recorded
+  Crawl4AI is an open-source browser automation and web crawling toolkit that converts dynamic webpages into structured Markdown and JSON for agents.
+- [CUA-Gym](https://awesomecua.com/resources/github-xlang-ai-cua-gym/) — Date not recorded
+  CUA-Gym is a scalable pipeline for synthesizing interactive mock web environments and verifiable RLVR training tasks for computer-use agents.
+- [cuforge](https://awesomecua.com/resources/github-huzjie-cuforge/) — Date not recorded
+  cuforge is an online reinforcement-learning and verifiable task-synthesis platform for training computer-use GUI agents.
+- [DART-GUI](https://awesomecua.com/resources/github-computer-use-agents-dart-gui/) — Date not recorded
+  DART-GUI implements decoupled multi-turn reinforcement learning and adaptive trajectory curation for training computer-use GUI agents.
+- [deepseek-web-search-plugin](https://awesomecua.com/resources/github-wojiuluguo-deepseek-web-search-plugin/) — Date not recorded
+  OpenClaw skill providing DeepSeek web search, cross-validation, and automated browser page archiving.
+- [DeskForge](https://awesomecua.com/resources/github-saidgurbuz-deskforge/) — Date not recorded
+  DeskForge extracts dense step-level supervision signals from desktop execution environments to train and verify computer-use agents.
+- [Dinoer](https://awesomecua.com/resources/github-ronandavalan-dinoer/) — Date not recorded
+  Local-first web research and browser automation framework for LLM agents combining SearXNG discovery with headless browser control.
 - [DroidCall generation and evaluation code](https://awesomecua.com/resources/github-ubiquitouslearning-droidcall/) — Date not recorded
   Data-generation, fine-tuning and evaluation utilities for teaching small language models to invoke Android intents through predefined functions.
+- [dsh-local-browser-search (dsh-search)](https://awesomecua.com/resources/github-yuanmingxue-dsh-search/) — Date not recorded
+  Local-browser web search and page-fetching plugin for DeepSeek Harness.
+- [dsh-socai](https://awesomecua.com/resources/github-socai-io-dsh-socai/) — Date not recorded
+  DeepSeek Harness plugin for browser-backed Xiaohongshu content research and extraction.
+- [DuckTrack](https://awesomecua.com/resources/github-theduckai-ducktrack/) — Date not recorded
+  DuckTrack records synchronized screen video and low-level mouse and keyboard events for building multimodal computer-interaction datasets.
+- [Explorer](https://awesomecua.com/resources/github-osu-nlp-group-explorer/) — Date not recorded
+  Explorer synthesizes large-scale multimodal web trajectories through autonomous bottom-up web exploration for training GUI web agents.
+- [FactReach](https://awesomecua.com/resources/github-simonlin1212-factreach/) — Date not recorded
+  Multi-channel web search and browser extraction Agent Skill covering 23 social and knowledge platforms.
+- [fearch](https://awesomecua.com/resources/github-funkyfunc-fearch/) — Date not recorded
+  Model Context Protocol server providing transparent web search and clean page reading for AI agents.
+- [Figranium JS/TS SDK](https://awesomecua.com/resources/github-figranium-figranium-js/) — Date not recorded
+  Official JavaScript and TypeScript SDK for the Figranium browser automation and web extraction platform.
+- [Firecrawl Agent-Browser Plugin](https://awesomecua.com/resources/github-firecrawl-agent-browser-plugin-firecrawl/) — Date not recorded
+  Official Firecrawl plugin for `agent-browser` combining cloud CDP browser sessions with structured web scraping, search, and crawling.
 - [Go-Browse](https://awesomecua.com/resources/github-apga-go-browse/) — Date not recorded
   Structured website-exploration and data-processing code that revisits discovered pages, proposes tasks and collects trajectories for web-agent fine-tuning.
 - [GroundGUI training and evaluation code](https://awesomecua.com/resources/github-prentisai-groundgui/) — Date not recorded
   Code for screenshot grounding through supervised training, teacher-guided distillation, reinforcement learning, and benchmark evaluation.
+- [gsearch-rs](https://awesomecua.com/resources/github-be90nia-gsearch-rs/) — Date not recorded
+  Single-binary zero-extension Rust CLI driving local Chrome for AI-first web search and page extraction.
+- [GUI Label Tool](https://awesomecua.com/resources/github-ethanyxx-gui-label-tool/) — Date not recorded
+  GUI Label Tool records and annotates human desktop trajectories inside a Dockerized QEMU virtual machine with paired input events and screenshots.
 - [GUI-CIDER research code](https://awesomecua.com/resources/github-wuzheng02-gui-cider/) — Date not recorded
   Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.
 - [GUI-ReWalk](https://awesomecua.com/resources/github-bytedance-gui-rewalk/) — Date not recorded
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
+- [HarvestNet](https://awesomecua.com/resources/github-lethe044-harvestnet/) — Date not recorded
+  Self-healing web extraction and browser automation framework for .NET.
+- [LLM Scraper](https://awesomecua.com/resources/github-mishushakov-llm-scraper/) — Date not recorded
+  LLM Scraper is a TypeScript library that uses Playwright and schema-constrained LLMs to extract structured data from live webpages.
+- [MediSetu Lens](https://awesomecua.com/resources/github-furyydev-medisetu-lens/) — Date not recorded
+  Browser agent that searches and compares generic medicine availability and pricing across API-less pharmacy portals.
+- [Mobile GUI-VLA Device Platform](https://awesomecua.com/resources/github-chbq-mobile-gui-vla-device-platform/) — Date not recorded
+  Provides a zero-dependency Python device I/O and trajectory instrumentation layer for Android GUI-VLA experiments.
 - [MobileForge](https://awesomecua.com/resources/github-kwai-mobileforge/) — Date not recorded
   Android GUI-agent adaptation framework combining app exploration, generated curricula and rollout feedback with hint-conditioned step-level GRPO; the documented public training path targets Qwen3-VL-8B.
+- [Multi-Agent Browser](https://awesomecua.com/resources/github-sanzizlohar-multi-agent-browser/) — Date not recorded
+  Coordinates five specialized AI agents sharing a browser workspace to conduct collaborative web research.
 - [NNetNav](https://awesomecua.com/resources/github-murtyshikhar-nnetnav/) — Date not recorded
   Collects and labels browser-exploration trajectories for agent training, with code for data processing, fine-tuning, and web evaluation.
+- [NotebookLM for Codex](https://awesomecua.com/resources/github-jockeys97-notebooklm-codex-skill/) — Date not recorded
+  Codex skill that queries Google Gemini NotebookLM directly through browser automation.
 - [PC-Agent-E training and deployment](https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/) — Date not recorded
   Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.
+- [Perplexity Toolkit](https://awesomecua.com/resources/github-mfang0126-perplexity-toolkit/) — Date not recorded
+  Browser-control toolkit and CLI for automating Perplexity AI deep searches and structured citation extraction.
 - [Plan-and-Act](https://awesomecua.com/resources/github-squeezeailab-plan-and-act/) — Date not recorded
   A web-agent framework that separates high-level planning from action execution, with replanning and synthetic planner-data generation components.
+- [Project Tendril](https://awesomecua.com/resources/github-gadgethd-project-tendril/) — Date not recorded
+  Local-first Chromium browser and web-research runtime for autonomous AI agents.
 - [Proposer-Agent-Evaluator (PAE)](https://awesomecua.com/resources/github-amazon-science-pae/) — Date not recorded
   A browser-agent training system that proposes tasks, collects visual interaction trajectories, and uses automated evaluation to drive policy improvement.
+- [reverseloom](https://awesomecua.com/resources/github-kuichi-x-reverseloom/) — Date not recorded
+  AI browser agent framework that inspects live web traffic to reverse-engineer site protocols into browser-free Python crawlers.
+- [rtrvr CLI & SDK](https://awesomecua.com/resources/github-rtrvr-ai-rtrvr-cli/) — Date not recorded
+  CLI and SDK for automating web workflows, scraping pages, and driving cloud or local browsers for AI agents.
 - [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/) — Date not recorded
   Computer-use training framework with VeriGen task synthesis, adaptive rollout sampling, and visual-context segmentation.
+- [Scrapfly MCP Server](https://awesomecua.com/resources/github-scrapfly-scrapfly-mcp/) — Date not recorded
+  Official Scrapfly Model Context Protocol server providing cloud anti-bot browser rendering and structured web extraction for AI agents.
+- [Screen2AX](https://awesomecua.com/resources/github-macpaw-screen2ax/) — Date not recorded
+  Screen2AX reconstructs macOS application accessibility trees from screenshots using vision detectors and releases the Maceka GUI dataset.
+- [screen2gym](https://awesomecua.com/resources/github-marc-saouda-screen2gym/) — Date not recorded
+  screen2gym compiles raw action-labeled screen recordings into resettable, programmatically gradable RL environments for computer-use agents.
+- [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/) — Date not recorded
+  SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.
+- [Shinken](https://awesomecua.com/resources/github-meirtz-shinken/) — Date not recorded
+  Shinken is a high-throughput runtime for training computer-use agents end-to-end with reinforcement learning across parallel real desktops.
+- [Shiny Fishstick](https://awesomecua.com/resources/github-hootsworth-shiny-fishstick/) — Date not recorded
+  Semantic web compiler that crawls websites and compiles them into typed, reusable action and data interfaces for AI agents.
 - [SkillWeaver](https://awesomecua.com/resources/github-osu-nlp-group-skillweaver/) — Date not recorded
   A web-agent framework that explores sites, synthesizes reusable interaction APIs and builds a skill library for later tasks.
+- [SpiderCreator](https://awesomecua.com/resources/github-carlosplanchon-spidercreator/) — Date not recorded
+  SpiderCreator records browser interactions and DOM snapshots to automatically synthesize executable Playwright web-scraping spiders with LLMs.
 - [STEVE / STEVE-R1 research code](https://awesomecua.com/resources/github-fanbinlu-steve-r1/) — Date not recorded
   Research code and linked models for step-verified computer-use training; the current repository describes STEVE-R1 and its trajectory releases.
+- [TinyFish MCP Server](https://awesomecua.com/resources/github-tinyfish-io-tinyfish-mcp-server/) — Date not recorded
+  Official TinyFish Model Context Protocol server providing web search, page extraction, and cloud browser automation.
 - [TongUI training and inference framework](https://awesomecua.com/resources/github-tongui-agent-tongui-agent/) — Date not recorded
   Training configurations, preprocessing and inference examples for tutorial-trained GUI models, with a LLaMA-Factory fine-tuning workflow and screenshot-grounding interfaces.
 - [TreeCUA](https://awesomecua.com/resources/github-uitron-hub-treecua/) — Date not recorded
@@ -865,11 +978,21 @@ Full source records: https://awesomecua.com/downloads/topics/data-generation/rec
   Synthesizes visual UI defects from mobile screenshots and Android layout metadata to support GUI-testing experiments.
 - [UI-Genie](https://awesomecua.com/resources/github-euphoria16-ui-genie/) — Date not recorded
   Training and evaluation code for a mobile-agent framework that iteratively generates trajectories using agent and reward-model feedback.
+- [UI2API](https://awesomecua.com/resources/github-merezarezaei-ui2api/) — Date not recorded
+  Analyzes a website's UI and network traffic once to synthesize reusable, browser-free API tools for AI agents.
+- [Video2GUI](https://awesomecua.com/resources/github-weiminxiong-video2gui/) — Date not recorded
+  Video2GUI synthesizes large-scale GUI interaction trajectories from unlabeled screen-recording videos via inverse dynamics and VLM annotation.
 - [WebEvolver code component](https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/) — Date not recorded
   Component for web-agent trajectory collection, supervised-data preparation and world-model-based trajectory synthesis.
+- [WebRain](https://awesomecua.com/resources/github-prokopis3-webrain/) — Date not recorded
+  Single-binary Rust Model Context Protocol server for LLM-driven browser automation and web scraping across three browser engines.
 - [WebRL](https://awesomecua.com/resources/github-thudm-webrl/) — Date not recorded
   Training pipeline that evolves web tasks from prior attempts and uses an outcome reward model to refine browser policies.
 - [Work2Skill](https://awesomecua.com/resources/github-china-qijizhifeng-work2skill/) — Date not recorded
   Collects human GUI demonstrations and inspects multimodal evidence to derive reusable agent workflow skills.
+- [Worldline](https://awesomecua.com/resources/github-artemyx-datascientist-worldline/) — Date not recorded
+  Modular, user-controlled AI browser kernel for structured web parsing, navigation, and workflow automation.
 - [ZeroGUI](https://awesomecua.com/resources/github-opengvlab-zerogui/) — Date not recorded
   Online RL framework for GUI agents in which VLMs generate the training tasks and judge success from trajectory screenshots, with OSWorld and AndroidLab checkpoints trained from UI-TARS-7B-DPO.
+- [Zhubi (朱笔)](https://awesomecua.com/resources/github-icesword0760-zhubi/) — Date not recorded
+  Zhubi is a self-hosted bounding-box annotation and fine-tuning workbench for training Florence-2 and YOLO GUI detector models.

@@ -63,5 +63,17 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 ## 工程与产业
 
+- [Blender Computer Use Artist](https://awesomecua.com/resources/github-xiaof631-blender-computer-use-artist/) — Date not recorded
+  Codex computer-use skill for automating Blender 3D modeling, rendering, animation, and visual QA.
+- [ChimeraX-SessionStates](https://awesomecua.com/resources/github-shiinahiiragi-chimerax-states/) — Date not recorded
+  ChimeraX plugin used by ScienceBoard to expose internal molecular-visualization session state for deterministic benchmark evaluation.
+- [CODA](https://awesomecua.com/resources/github-openixclab-coda/) — Date not recorded
+  CODA coordinates a trainable planner ('Cerebrum') with a grounded GUI executor ('Cerebellum') via decoupled reinforcement learning on ScienceBoard.
+- [device-use](https://awesomecua.com/resources/github-labclaw-device-use/) — Date not recorded
+  device-use enables AI agents to operate scientific laboratory instruments through their native desktop GUI software without hardware APIs.
+- [mcp-vroid](https://awesomecua.com/resources/github-nhodges-mcp-vroid/) — Date not recorded
+  Model Context Protocol server that drives VRoid Studio 3D character creation via Linux Wayland GUI automation.
 - [ScienceBoard VMware environment](https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/) — Date not recorded
   A prebuilt Ubuntu virtual-machine archive containing the software environment used for ScienceBoard scientific computer-use tasks.
+- [WellSet WebMCP](https://awesomecua.com/resources/github-kinhikars-wellset-webmcp/) — Date not recorded
+  Shared 96-well laboratory experiment canvas built on WebMCP where scientists and browser agents co-design protocols.

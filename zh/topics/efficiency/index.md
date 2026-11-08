@@ -429,15 +429,57 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 
 ## 评测基准
 
+- [Agent Tool Benchmark](https://awesomecua.com/resources/github-alloevil-agent-tool-benchmark/) — Date not recorded
+  Provides reproducible same-machine benchmarks comparing AI agent browser and desktop toolkits with full execution transcripts.
+- [Browser Agent Comparison (4 Approaches)](https://awesomecua.com/resources/github-ismael-joffroy-chandoutis-browser-agent-comparison/) — Date not recorded
+  Compares four AI browser-control paradigms (Chrome extension, Playwright, Browser Use V3, and CLI) on task completion and cost.
+- [Browser Automation Benchmark (Python vs Rust)](https://awesomecua.com/resources/github-tashonbraganca-browser-automation-benchmark/) — Date not recorded
+  Benchmarks Python Playwright, Rust playwright-rs, and chromiumoxide on headless browser startup, navigation, and screenshot latency.
+- [Browser LLM Perf](https://awesomecua.com/resources/github-dtopuzov-browser-llm-perf/) — Date not recorded
+  Browser LLM Perf compares browser automation CLIs (CraftDriver vs Playwright CLI) on task completion speed and LLM token cost.
+- [decision-luna-browse-control](https://awesomecua.com/resources/github-humanity-forever-decision-luna-browse-control/) — Date not recorded
+  Evaluates typed System-One decision models (Luna Decisions and Jev) driving real Chromium browser workflows on synthetic web apps.
+- [fast-automation (Plan-Once Ground-Locally)](https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/) — Date not recorded
+  Compares plan-once local-grounding web agents against step-by-step ReAct loops across a 200-task benchmark and 2,800 recorded runs.
+- [Lexbench-Headless-Browser](https://awesomecua.com/resources/github-lexmount-lexbench-headless-browser/) — Date not recorded
+  Lexbench-Headless-Browser benchmarks 13 headless browser automation runtimes across 1,928 web tasks.
 - [OSWorld-Human](https://awesomecua.com/resources/github-wuklab-osworld-human/) — Date not recorded
   Human reference trajectories and scoring code for measuring the action efficiency of computer-use agents on OSWorld tasks.
+- [Plasmate Benchmarks](https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/) — Date not recorded
+  Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
+- [Preflight-Bench](https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/) — Date not recorded
+  Preflight-Bench evaluates pre-click staleness checks and page-load synchronization for computer-use agents operating under asynchronous UI updates.
+- [Web Agent Comparison](https://awesomecua.com/resources/github-pleasedodisturb-web-agent-comparison/) — Date not recorded
+  Reproducible 8-dimension benchmark comparing 7 browser-automation MCP servers on latency, token overhead, and task success.
 - [Web Context Bench (Python)](https://awesomecua.com/resources/github-charlypoly-web-context-bench-python/) — Date not recorded
   Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.
+- [web-agent-bench](https://awesomecua.com/resources/github-nsosio-web-agent-bench/) — Date not recorded
+  web-agent-bench compares browser-automation harnesses (Playwright MCP, agent-browser, Stagehand) on token usage, latency, and task completion.
 
 ## 模型
 
+- [browserground](https://awesomecua.com/resources/github-renezander030-browserground/) — Date not recorded
+  browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps screenshots and text targets to bounding-box JSON.
+- [CombatVLA](https://awesomecua.com/resources/github-chenvoid-combatvla/) — Date not recorded
+  CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.
+- [DeskMind Eyes](https://awesomecua.com/resources/github-deskmind-ai-eyes/) — Date not recorded
+  DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for localizing click targets on desktop screenshots.
 - [DiMo-GUI](https://awesomecua.com/resources/github-vivo-dimo-gui/) — Date not recorded
   GUI grounding research using modality-aware visual reasoning and test-time scaling.
+- [GroundAnything](https://awesomecua.com/resources/github-groundingpi-groundanything/) — Date not recorded
+  GroundAnything is a 4B parallel-decoding diffusion grounding model for low-latency visual coordinate localization.
+- [HTLM](https://awesomecua.com/resources/github-espetro-htlm/) — Date not recorded
+  HTLM is a compact 350M browser-agent model fine-tuned on Mind2Web for fast on-device and in-browser DOM action prediction.
+- [kev-browser-use](https://awesomecua.com/resources/github-arbazsiddiqui-kev-browser-use/) — Date not recorded
+  kev-browser-use is a compact 0.6B System-One action model fine-tuned on Mind2Web for low-latency browser element selection.
+- [Laya-Android](https://awesomecua.com/resources/github-byun11-laya-android/) — Date not recorded
+  Laya-Android is a compact 322M on-device decision model for Android GUI action selection.
+- [Mano-P](https://awesomecua.com/resources/github-mininglamp-ai-mano-p/) — Date not recorded
+  Mano-P is an open-source GUI vision-language-action model optimized for edge devices and evaluated on OSWorld and Mind2Web.
+- [Milo-Pointer](https://awesomecua.com/resources/github-chayworks-milo-pointer/) — Date not recorded
+  Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and action selector for mobile phone agents.
+- [OneJev](https://awesomecua.com/resources/github-omnijev-onejev/) — Date not recorded
+  OneJev is a multimodal System-One decision model based on Qwen that returns calibrated probabilities over typed action choices.
 - [ShowUI](https://awesomecua.com/resources/github-showlab-showui/) — Date not recorded
   Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, released with UI-guided token selection, training code, the ShowUI-web and ShowUI-desktop datasets and vLLM inference.
 - [ShowUI 2B](https://awesomecua.com/resources/url-c0f39f7cf2cd9c18e8bd/) — Date not recorded
@@ -449,13 +491,495 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 
 ## 工程与产业
 
+- [19ska Computer-Use Automation](https://awesomecua.com/resources/github-19ska-computer-use-automation/) — Date not recorded
+  Uses an LLM to discover a UI workflow once and compiles the trajectory into a deterministic replay script.
+- [a11y-computer-use](https://awesomecua.com/resources/github-perception-dynamics-inc-a11y-computer-use/) — Date not recorded
+  Accessibility-first computer-use runtime that feeds pruned accessibility-tree snapshots to AI agents so they click semantic UI elements.
+- [Active Desktop Context Engine](https://awesomecua.com/resources/github-amirf147-active-desktop-context-engine/) — Date not recorded
+  Zero-cloud Windows OS perception layer and Model Context Protocol server streaming real-time desktop UI context to AI agents.
+- [Agent Access](https://awesomecua.com/resources/github-r266-tech-agent-access/) — Date not recorded
+  Universal access layer that routes websites, apps, and repeated workflows into agent-native CLIs with CDP and GUI fallback.
+- [Agent Hands](https://awesomecua.com/resources/github-ashishkosana-agent-hands/) — Date not recorded
+  Computer-use automation infrastructure for legacy financial software that compiles LLM-discovered UI flows into deterministic replays.
+- [Agent WebBridge CLI](https://awesomecua.com/resources/github-0xibra-agent-webbridge-cli/) — Date not recorded
+  Clean-room local CDP relay (MV3 Chrome extension + daemon + CLI) for driving a user's real Chrome browser.
+- [agent-gauntlet-example-agent](https://awesomecua.com/resources/github-konuktor-agent-gauntlet-example-agent/) — Date not recorded
+  Compact single-file reference browser agent designed to run inside a Solari Sandbox under AgentGauntlet evaluation.
+- [AgentCursor](https://awesomecua.com/resources/github-kumard3-agentcursor/) — Date not recorded
+  Reads macOS application windows as compact text affordances (~9 tokens per click) and drives a human-like virtual cursor over MCP.
+- [AgentDock](https://awesomecua.com/resources/github-rakeshnirzari1-agentdock/) — Date not recorded
+  Zero-dependency Chrome DevTools Protocol runtime for AI agents to drive headless or headful Chromium directly.
+- [Agentic Browser](https://awesomecua.com/resources/github-applejuice093-agentic-browser/) — Date not recorded
+  Agent-first Python browser runtime providing stable element references, compact observations, outcome verification, and an MCP server.
+- [Agentless](https://awesomecua.com/resources/github-openautocoder-agentless/) — Date not recorded
+  Agentless resolves software engineering issues through a three-phase localization, repair, and patch validation pipeline.
+- [AgentOCR](https://awesomecua.com/resources/github-agentmaker-agentocr/) — Date not recorded
+  AgentOCR provides compact visual-token and OCR screen compression for accelerating GUI and computer-use agents.
+- [AgentP](https://awesomecua.com/resources/github-omerfeyzioglu-agentp-macos/) — Date not recorded
+  AgentP is a fast macOS computer-use agent where Gemini plans once and a local Jev System-One model executes steps via the Accessibility API.
+- [alohajet CLI](https://awesomecua.com/resources/github-alohabrowser-alohajet-cli/) — Date not recorded
+  Official Aloha Browser CLI and MCP server for driving a real browser with stable element refs.
+- [amcu (Another macOS Computer Use)](https://awesomecua.com/resources/github-uoox-amcu/) — Date not recorded
+  Single-binary, dependency-free macOS computer-use tool that reads and drives Mac apps without stealing cursor or window focus.
+- [android-use](https://awesomecua.com/resources/github-austinintelligence-android-use/) — Date not recorded
+  MCP server and CLI giving AI agents fast, bounded access to physical Android devices and emulators.
+- [Antigravity Chrome Bridge](https://awesomecua.com/resources/github-ph4ntom-rev-antigravity-chrome-bridge/) — Date not recorded
+  Zero-dependency native C++17 Model Context Protocol server exposing 22 Chrome DevTools automation tools over stdio.
+- [anybridge](https://awesomecua.com/resources/github-justvugg-anybridge/) — Date not recorded
+  Captures a website's authenticated network calls from a live browser session and exposes them as callable tools for any AI agent.
+- [AnyTool](https://awesomecua.com/resources/github-hkuds-anytool/) — Date not recorded
+  AnyTool is a universal tool-use layer for AI agents supporting MCP, GUI, web, and shell tools with hierarchical retrieval and self-reflection.
+- [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/resources/github-19pine-ai-aoi/) — Date not recorded
+  AOI provides an adaptive video and audio perception layer for computer-use agents alongside the DynaCU-Bench dynamic GUI benchmark.
+- [ApexCommander-RS](https://awesomecua.com/resources/github-buckster123-apexcommander-rs/) — Date not recorded
+  AT-SPI-first Linux computer-use CLI and Model Context Protocol server written in Rust.
+- [ApiTap](https://awesomecua.com/resources/github-n1byn1kt-apitap/) — Date not recorded
+  CLI, MCP server, and npm library that observes live browser traffic to turn websites into structured APIs for AI agents.
+- [Appwalk](https://awesomecua.com/resources/github-kubstack-appwalk/) — Date not recorded
+  AI-powered CLI that explores a web application in a browser and compiles the run into verified Playwright test suites.
+- [ASIL (Agent-Software Interaction Layer)](https://awesomecua.com/resources/github-sharryxr-asil/) — Date not recorded
+  ASIL replaces screenshot-and-click loops with structured application state observations and semantic action interfaces for CUA.
+- [ask-web-ai](https://awesomecua.com/resources/github-pgw10086-ask-web-ai/) — Date not recorded
+  Universal Agent Skill and CLI allowing a host coding agent to consult web-based AI chat sessions via browser automation.
+- [Astra AI Browser](https://awesomecua.com/resources/github-bennix-astraaibrowser/) — Date not recorded
+  Native Apple Silicon macOS AI browser combining WebKit browsing with an integrated autonomous web agent.
+- [atlas-desktop](https://awesomecua.com/resources/github-abydin-atlas-desktop/) — Date not recorded
+  macOS desktop-control CLI that reads any application's UI hierarchy as structured JSON and dispatches native actions.
+- [Auto_OS](https://awesomecua.com/resources/github-jaswanth1902-auto-os/) — Date not recorded
+  Sub-30ms Windows desktop automation primitive using direct Win32 UI Automation tree traversal and native input injection.
+- [AutoFiller Universal](https://awesomecua.com/resources/github-fedetrain-autofiller-universal/) — Date not recorded
+  Batch web-form automation framework with self-healing selectors that runs LLM-free at runtime.
+- [Automata](https://awesomecua.com/resources/github-mindattic-automata/) — Date not recorded
+  Record-once, replay-many browser automation runtime for Windows that records live user actions into deterministic workflows.
+- [axstream](https://awesomecua.com/resources/github-milind-soni-axstream/) — Date not recorded
+  Streaming JSON-lines action language and compiler for macOS computer-use agents.
+- [azderus browser-agent](https://awesomecua.com/resources/github-azderus-browser-agent/) — Date not recorded
+  Claude Code skill that drives a real Chrome window from the terminal and returns compact token-efficient page observations.
+- [Better AI Browser Utilities (BABU)](https://awesomecua.com/resources/github-itmediatech-better-ai-browser-utilities/) — Date not recorded
+  Token-efficient Model Context Protocol toolkit for controlling an AI agent's real Chrome session.
+- [Better AX for Computer Use](https://awesomecua.com/resources/github-hqhq1025-better-ax-for-computer-use/) — Date not recorded
+  Better AX for Computer Use prunes and formats macOS Accessibility trees and injects Chromium/Electron AX flags for low-token GUI grounding.
+- [Better Computer Use](https://awesomecua.com/resources/github-suge8-better-computer-use/) — Date not recorded
+  macOS background desktop control CLI for AI agents supporting window discovery, Accessibility-tree reads, and focus-free input.
+- [Bflow (browser-automation-cli)](https://awesomecua.com/resources/github-khbayazidahmed-browser-automation-cli/) — Date not recorded
+  Zero-dependency browser automation CLI and visual workflow recorder.
+- [bg-driver-rs](https://awesomecua.com/resources/github-lvyuan1688-bg-driver-rs/) — Date not recorded
+  Rust background computer-use driver for macOS, Windows, and Linux.
+- [browsegrab](https://awesomecua.com/resources/github-arknill-browsegrab/) — Date not recorded
+  Token-efficient browser agent and MCP server for local LLMs combining Playwright, accessibility trees, and Markdown extraction.
+- [Browser Agent Runtime Lite](https://awesomecua.com/resources/github-coolwkx-browser-agent-runtime-lite/) — Date not recorded
+  Lightweight runtime for executing autonomous browser-agent perception and action loops.
+- [Browser AI Agent Examples (Tiered Web Agent)](https://awesomecua.com/resources/github-quantumproxies-browser-ai-agent-examples/) — Date not recorded
+  Goal-driven web agent architecture using a cheapest-tier-first cascade across XHR discovery, DOM actions, and vision.
+- [browser-for-ai (bfa)](https://awesomecua.com/resources/github-icueth-browser-for-ai/) — Date not recorded
+  AI-oriented browser automation runtime and CLI exposing compact DOM observations and deterministic web actions.
+- [browser-harness-bidi](https://awesomecua.com/resources/github-andrewdzzz-browser-harness-bidi/) — Date not recorded
+  WebDriver BiDi-first browser automation harness connecting LLMs directly to live browsers with minimal dependencies.
+- [browser-rs-mcp](https://awesomecua.com/resources/github-maestrojeong-browser-rs-mcp/) — Date not recorded
+  Lightweight ~5.5MB stealth-oriented Rust browser MCP server allowing multiple AI agents to share one Chrome instance.
+- [browser-use-rs](https://awesomecua.com/resources/github-bb-fat-browser-use-rs/) — Date not recorded
+  browser-use-rs is a lightweight pure-Rust library for driving Chromium browsers over the Chrome DevTools Protocol with LLM agents.
+- [Browser4](https://awesomecua.com/resources/github-platonai-browser4/) — Date not recorded
+  Browser4 is an AI-native browser engine and coroutines runtime for high-concurrency web agents, workflow automation, and page extraction.
+- [BRYES (Brain-Eyes)](https://awesomecua.com/resources/github-alvseek-bryes/) — Date not recorded
+  BRYES decouples a high-level reasoning planner ('Brain') from swappable visual perception and grounding backends ('Eyes') for computer use.
+- [bytehunt br (Agent Browser CLI)](https://awesomecua.com/resources/github-bytehunt-br/) — Date not recorded
+  Agent-oriented browser CLI powered by Bun WebView with terminal Kitty graphics rendering.
+- [Cactus](https://awesomecua.com/resources/github-cactus-compute-cactus/) — Date not recorded
+  Cactus is a cross-platform on-device LLM and VLM inference framework for mobile and edge AI agents.
+- [cdp-drive](https://awesomecua.com/resources/github-immineal-cdp-drive/) — Date not recorded
+  Single-file zero-dependency Chrome DevTools Protocol driver for headless and headful Chrome automation without Playwright.
+- [cdp-toolkit](https://awesomecua.com/resources/github-sblattj-cdp-toolkit/) — Date not recorded
+  Lightweight alternative to `chrome-devtools-mcp` that lets AI agents target and drive named Chrome tabs over CDP.
+- [cdpilot](https://awesomecua.com/resources/github-mehmetnadir-cdpilot/) — Date not recorded
+  Zero-dependency browser automation CLI built directly on raw Chrome DevTools Protocol WebSockets without Playwright or Puppeteer.
+- [chrome-agent-search](https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/) — Date not recorded
+  Local-first Rust CLI for driving Chrome to perform web searches and extract clean Markdown page content.
+- [chrome-eye](https://awesomecua.com/resources/github-trvux-chrome-eye/) — Date not recorded
+  Model Context Protocol server exposing 56 structured-JSON Chrome CDP tools to Claude Code as a fast alternative to screenshots.
+- [claude-browser-crawl-cdp](https://awesomecua.com/resources/github-gruncode-claude-browser-crawl-cdp/) — Date not recorded
+  Persistent Playwright REPL and CDP bridge allowing Claude Code to drive a user's logged-in Chrome browser with low token overhead.
+- [claude-chrome-speed](https://awesomecua.com/resources/github-cr1707-claude-chrome-speed/) — Date not recorded
+  Claude Code plugin that accelerates Claude in Chrome browser tasks by batching DOM reads and eliminating redundant screenshot waits.
+- [clef-use](https://awesomecua.com/resources/github-kotori0919-clef-use/) — Date not recorded
+  clef-use is a local computer-use runtime combining structured accessibility, SigLIP2 visual tile grounding, OmniParser, and MCP tools.
+- [Clique Já](https://awesomecua.com/resources/github-paivaxqz-cliqueja/) — Date not recorded
+  Fast Chrome automation toolkit combining a Manifest V3 extension with a local coordination hub.
+- [cloak-cdp-cli](https://awesomecua.com/resources/github-ezumyn-aliegm-cloak-cdp-cli/) — Date not recorded
+  Command-line interface for AI agents to drive CloakBrowser stealth Chromium instances over CDP.
+- [Compress2Focus (CCPO)](https://awesomecua.com/resources/github-hithink-research-ccpo/) — Date not recorded
+  Compress2Focus (CCPO) implements coordinate compression for multi-turn policy optimization in vision-language GUI agents.
+- [Computer Use with SLM (GRPO + OpenEnv)](https://awesomecua.com/resources/github-shayanamir0-computer-use-with-slm/) — Date not recorded
+  Fine-tunes small language models for computer-use navigation and GUI interaction using Group Relative Policy Optimization (GRPO) and OpenEnv.
+- [Computer-Use Cache](https://awesomecua.com/resources/github-rohanarun-computer-use-cache/) — Date not recorded
+  Drop-in OpenAI-compatible caching proxy that records and replays repeated computer-use and browser-agent workflows.
+- [Computer-Use Capability Engine](https://awesomecua.com/resources/github-pavanvakula-computer-use-capability-engine/) — Date not recorded
+  Discovers legacy UI workflows with an LLM once and compiles them into typed, versioned, deterministically replayable capabilities.
+- [computer-use-plus](https://awesomecua.com/resources/github-ethanout-computer-use-plus/) — Date not recorded
+  Low-token, low-latency Windows computer-use MCP server with learned action shortcuts and hybrid UIA/CDP/OCR routing.
+- [computer.cpp](https://awesomecua.com/resources/github-gobii-ai-computer-cpp/) — Date not recorded
+  computer.cpp turns native desktop GUI applications into structured, API-callable interfaces for AI agents.
+- [Crafter Agents cuse CLI](https://awesomecua.com/resources/github-crafter-agents-cuse/) — Date not recorded
+  Cross-platform computer-use CLI that maps unified commands to native OS accessibility and input primitives.
+- [cu (Native GUI Automation CLI)](https://awesomecua.com/resources/github-killsng-cu/) — Date not recorded
+  Native GUI automation CLI written in Swift (macOS) and Rust (Windows) for ~50ms state reads and ~100ms clicks.
+- [cua-rs-mcp](https://awesomecua.com/resources/github-maestrojeong-cua-rs-mcp/) — Date not recorded
+  Rust Model Context Protocol server that drives native macOS apps through the Accessibility API without moving the user's cursor.
+- [DART-GUI](https://awesomecua.com/resources/github-computer-use-agents-dart-gui/) — Date not recorded
+  DART-GUI implements decoupled multi-turn reinforcement learning and adaptive trajectory curation for training computer-use GUI agents.
+- [DeskCtl (Desktop Control Engine)](https://awesomecua.com/resources/github-mini-mind-deskctl/) — Date not recorded
+  Desktop control engine for GUI agents using UIA and AT-SPI accessibility trees as the primary path with visual fallback.
+- [DeskMind](https://awesomecua.com/resources/github-deskmind-ai-deskmind/) — Date not recorded
+  DeskMind is a local-first macOS computer-use agent that combines accessibility inspection, DeskMind Eyes grounding, and user clarification.
+- [Desktop Pilot MCP](https://awesomecua.com/resources/github-versoxbt-desktop-pilot-mcp/) — Date not recorded
+  Native macOS Accessibility MCP server giving Claude and MCP clients low-latency structured control over desktop applications.
+- [desktop-cli](https://awesomecua.com/resources/github-adamsautomations-desktop-cli/) — Date not recorded
+  Lightweight computer-use CLI that coding agents invoke directly via shell commands without MCP schema overhead.
+- [desktop-hub](https://awesomecua.com/resources/github-zty552252kevin-code-desktop-hub/) — Date not recorded
+  Compact 10-tool (~2.3k token) facade MCP server for macOS desktop automation.
+- [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/) — Date not recorded
+  DesktopAgent operates Windows desktop applications in the background using a local 0.33B System-One decision model (S1-Fast) and UI Automation.
+- [DesktopCtl](https://awesomecua.com/resources/github-yaroshevych-desktopctl/) — Date not recorded
+  GPU-accelerated local macOS CLI for AI agents to inspect screen text/controls and dispatch mouse and keyboard actions.
+- [Deterministic Computer-Use Automation](https://awesomecua.com/resources/github-joncody-computer-use-automation/) — Date not recorded
+  Two-phase computer-use automation framework that compiles LLM-driven UI discovery into deterministic replay scripts.
+- [DietSurf](https://awesomecua.com/resources/github-100x-bot-dietsurf/) — Date not recorded
+  Minimalist Chrome side-panel browser agent with a virtual filesystem and shell-like command interface.
 - [Digi-Q](https://awesomecua.com/resources/github-digirl-agent-digiq/) — Date not recorded
   Offline device-control training code that learns action values and uses them to select promising actions, with linked trajectories and checkpoints.
 - [DistRL](https://awesomecua.com/resources/github-distrl-lab-distrl-open/) — Date not recorded
   Distributed online reinforcement-learning framework for Android agents, with environment setup and trajectory collection tools.
+- [DOMShell](https://awesomecua.com/resources/github-apireno-domshell/) — Date not recorded
+  DOMShell exposes live Chrome browser DOM trees as a virtual Unix filesystem (`cd`, `ls`, `click`, `text`) for LLM agents via CDP and MCP.
+- [DrishtiGuard](https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/) — Date not recorded
+  On-device visual privacy firewall that detects and masks sensitive screen regions before lightweight browser agents process frames.
+- [Drisp Browser MCP](https://awesomecua.com/resources/github-drisplabs-browser-mcp/) — Date not recorded
+  Drisp Browser is a token-efficient browser automation MCP server exposing compact semantic page snapshots and stateful actions.
+- [dsh-vision-click](https://awesomecua.com/resources/github-zdd3143-dsh-vision-click/) — Date not recorded
+  Windows computer-use plugin for DeepSeek Harness using offline `Windows.Media.Ocr` text localization and pre/post-click pixel verification.
+- [DXcam](https://awesomecua.com/resources/github-ra1nty-dxcam/) — Date not recorded
+  DXcam is a high-frequency Python screen capture library for Windows using the Desktop Duplication API at up to 240Hz for GUI agents.
+- [ecobrowser (ai-browser)](https://awesomecua.com/resources/github-haidaresber-ai-browser/) — Date not recorded
+  AI-native browser framework with structured page perception, token-efficient state representation, and deterministic action tools.
+- [ESP (Echo-Skeleton Perception)](https://awesomecua.com/resources/github-badtheorylabs-esp/) — Date not recorded
+  Stateful, event-driven screen-perception runtime that converts UI changes into compact text events for text-only computer-use agents.
+- [EvalOps browser-use-rs](https://awesomecua.com/resources/github-dx-corp-browser-use-rs/) — Date not recorded
+  Rust behavioral conformance port of the browser-use web agent library for low-overhead autonomous browser control.
+- [Evoui Browser](https://awesomecua.com/resources/github-salmonbird-evoui-browser/) — Date not recorded
+  Self-evolving browser automation skill for Codex, Claude Code, and Cursor that caches reusable site knowledge.
+- [eyehands](https://awesomecua.com/resources/github-shameindemgg-eyehands/) — Date not recorded
+  Local HTTP server for Windows that provides low-latency UI Automation inspection and input execution for computer-use agents.
+- [FaizannRaza Computer-Use Automation](https://awesomecua.com/resources/github-faizannraza-computer-use-automation/) — Date not recorded
+  Discovers legacy banking UI workflows with an LLM once and compiles the run into a deterministic capability artifact.
+- [Fara Browser Automation Agent](https://awesomecua.com/resources/github-pmbstyle-fara-agent/) — Date not recorded
+  Local browser automation agent powered by Microsoft's Fara-7B computer-use model via LM Studio or Ollama and Playwright.
+- [fara-7b-agent](https://awesomecua.com/resources/github-cobusgreyling-fara-7b-agent/) — Date not recorded
+  Minimal, fully local agent harness for running Microsoft's Fara-7B computer-use model on desktop and browser tasks.
+- [fast-browser-use](https://awesomecua.com/resources/github-nachafrommars-fast-browser-use/) — Date not recorded
+  Rust-based browser automation engine driving Chrome over CDP with built-in anti-bot evasions and low-latency DOM extraction.
+- [FastAgent](https://awesomecua.com/resources/github-hkuds-fastagent/) — Date not recorded
+  FastAgent is a lightweight multi-agent orchestration framework by HKUDS for low-latency tool, browser, and desktop workflow execution.
+- [FastCUA](https://awesomecua.com/resources/github-guojiz-fastcua/) — Date not recorded
+  Local, accessibility-first Windows control plane for AI agents exposing structured UI trees and multi-action execution.
+- [faster-browser-agent](https://awesomecua.com/resources/github-mikastiebitz-faster-browser-agent/) — Date not recorded
+  Fast MCP browser server for AI agents that navigates complex web apps by reading accessibility trees and application source.
+- [FastHands](https://awesomecua.com/resources/github-tomaszteee-fasthands/) — Date not recorded
+  Local-first cross-platform execution and web-research runtime for AI agents.
+- [FerrisGrid-CLI](https://awesomecua.com/resources/github-brunov21-ferrisgrid-cli/) — Date not recorded
+  FerrisGrid-CLI captures screenshots, maps UI regions to deterministic grid coordinates, and executes constrained desktop actions in Rust.
+- [Flash Computer Use](https://awesomecua.com/resources/github-shortsspectrumai-del-flash-computer-use/) — Date not recorded
+  Flash Computer Use is a hybrid browser DOM and native OS accessibility MCP server for low-latency desktop and web automation.
+- [Forged](https://awesomecua.com/resources/github-sam-siavoshian-forged/) — Date not recorded
+  Self-learning browser automation MCP server that records successful agent trajectories and replays deterministic Playwright steps.
+- [Front-End Operation Master (FEOM)](https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/) — Date not recorded
+  Windows native UI automation framework and MCP server operating over UIA trees with zero vision tokens and ~3.9ms action latency.
+- [FSB (Full Self Browsing)](https://awesomecua.com/resources/github-fullselfbrowsing-fsb/) — Date not recorded
+  Full Self Browsing (FSB) is a DOM-first browser automation runtime for Chrome and MCP clients with structured page snapshots and action replay.
+- [GenPark DOM Accessibility Tree Pruner Skill](https://awesomecua.com/resources/github-alpha-park-genpark-dom-semantic-accessibility-tree-pruner-skill/) — Date not recorded
+  Agent skill that compresses raw HTML DOM trees into token-efficient semantic accessibility snapshots.
+- [Ghost Browser by Gemma](https://awesomecua.com/resources/github-ddangkong-ghost-browser/) — Date not recorded
+  Ghost Browser is a local browser automation agent powered by Gemma 27B via Ollama and evaluated on Stealth Bench.
+- [Ghost Semantic OS](https://awesomecua.com/resources/github-zainmfjavaid-ghost-semantic-os/) — Date not recorded
+  Ghost Semantic OS provides a text-only semantic accessibility runtime for operating Linux desktop applications in OSWorld without screenshots.
+- [Ghosthand](https://awesomecua.com/resources/github-ameerhmz-ghosthand/) — Date not recorded
+  Ghosthand is a low-latency local voice and computer-use agent for Apple Silicon macOS powered by Laya models and native Accessibility APIs.
+- [GhostHands](https://awesomecua.com/resources/github-georgenijo-ghosthands/) — Date not recorded
+  Local Apple Silicon MLX computer-use bridge that drives native macOS apps via the Accessibility API without stealing the physical cursor.
+- [Glass Hands](https://awesomecua.com/resources/github-sachaarbonel-glass-hands/) — Date not recorded
+  Glass Hands is a Rust framework that connects OpenAI computer-use models directly to Chromium via the Chrome DevTools Protocol.
+- [GlassBrowser](https://awesomecua.com/resources/github-lzw12w-glass-browser/) — Date not recorded
+  Auditable, low-cost, DOM-only browser agent designed for transparent step-by-step inspection and debugging.
+- [gpuview](https://awesomecua.com/resources/github-onlyterp-gpuview/) — Date not recorded
+  GPU-native Windows screen perception tool capturing frames directly from the DXGI Desktop Duplication compositor handoff for AI agents.
+- [gridhand](https://awesomecua.com/resources/github-zachrouan-gridhand/) — Date not recorded
+  Zero-dependency Rust CLI for cross-platform GUI automation that overlays labeled coordinate grids onto screenshots for deterministic clicking.
+- [gsearch-rs](https://awesomecua.com/resources/github-be90nia-gsearch-rs/) — Date not recorded
+  Single-binary zero-extension Rust CLI driving local Chrome for AI-first web search and page extraction.
 - [GUI Grounding Evaluation Harness](https://awesomecua.com/resources/github-patrickstarl-gui-grounding-eval/) — Date not recorded
   ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt and crop-based inference comparisons, and per-sample grounding accuracy and cost records.
 - [GUI-RC / GUI-RCPO](https://awesomecua.com/resources/github-zju-real-gui-rcpo/) — Date not recorded
   GUI-grounding research code for spatial voting across sampled predictions and test-time policy optimization using region-consistency rewards.
+- [haden-browser](https://awesomecua.com/resources/github-haden-min-haden-browser/) — Date not recorded
+  Fast, AI-first web browser exposed as a local Model Context Protocol server for LLM agents.
+- [Handrail CUA](https://awesomecua.com/resources/github-codelit-io-handrail-cua/) — Date not recorded
+  Discover-once, replay-many computer-use automation framework with deterministic execution guardrails.
+- [Harborage](https://awesomecua.com/resources/github-vadym-iefremov-harborage/) — Date not recorded
+  On-demand pool manager providing isolated headless browser sessions for concurrent AI web agents.
+- [hwatu](https://awesomecua.com/resources/github-hongnoul-hwatu/) — Date not recorded
+  Headless verification browser for AI coding agents featuring 35ms one-call UI checks and pixel diffing.
+- [IdemStep](https://awesomecua.com/resources/github-supermarioyl-idemstep/) — Date not recorded
+  Deduplicates repeated agent actions and HTTP retries using keyed idempotency caches and a local verification proxy.
+- [Intent Browser Runtime (ibr)](https://awesomecua.com/resources/github-hop-top-ibr/) — Date not recorded
+  Intent Browser Runtime (ibr) translates natural-language instructions into resilient XPath/DOM actions using Playwright and Vercel AI SDK.
+- [iphone-use](https://awesomecua.com/resources/github-leeguooooo-iphone-use/) — Date not recorded
+  MCP server and CLI that lets Claude Code, Codex, and MCP agents read real iPhone screens as structured text and execute taps/swipes.
+- [jarvis-eyes-mcp](https://awesomecua.com/resources/github-harshil1502-jarvis-eyes-mcp/) — Date not recorded
+  macOS-native Model Context Protocol server for low-latency desktop awareness combining Accessibility tree extraction and screenshots.
+- [Jcua (Jev Computer Use Agent)](https://awesomecua.com/resources/github-1deat0r-jcua/) — Date not recorded
+  Jcua is a cross-platform computer-use agent powered by Jev decision models across Linux, Windows, and macOS desktops.
+- [Jet Browser](https://awesomecua.com/resources/github-masakaai-jet-browser/) — Date not recorded
+  Jet Browser packages WPE WebKit and a Rust WebDriver bridge into an isolated, low-footprint container runtime for AI web agents.
+- [Jev Browser Agent](https://awesomecua.com/resources/github-amyivychoi-jev-browser-agent/) — Date not recorded
+  Jev Browser Agent combines Browser Use DOM extraction, Jev System-One action selection, and deterministic browser harness execution.
+- [Jev Filter](https://awesomecua.com/resources/github-apixly-ai-jev-filter/) — Date not recorded
+  Jev Filter uses compact System-One models to semantically prune large DOM snapshots, logs, and tool outputs before they enter agent context.
+- [Jev macOS Loop](https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/) — Date not recorded
+  Jev macOS Loop combines Apple Silicon local Jev decision models, OmniParser grounding, and native macOS Accessibility actuation.
+- [jev-browser](https://awesomecua.com/resources/github-doruktarhan-jev-browser/) — Date not recorded
+  jev-browser is a Claude Code skill and CLI (`jb`) that delegates multi-step web navigation to the Jev System-One action model.
+- [jev-for-chrome](https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/) — Date not recorded
+  Chrome extension that drives web browsing, clicking, and typing using TypeSafe Jev System-One decision models.
+- [jev-windows-agent](https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/) — Date not recorded
+  jev-windows-agent pairs Windows UI Automation inspection with a fast Jev System-One decision loop for low-latency desktop control.
+- [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/) — Date not recorded
+  Native, 100% offline Windows desktop voice and GUI automation assistant.
+- [Kitewright](https://awesomecua.com/resources/github-kitewright-kitewright/) — Date not recorded
+  Single-binary ~7MB Rust browser-automation Model Context Protocol server supporting Streamable HTTP and stdio.
+- [lean-chronoscope-mcp](https://awesomecua.com/resources/github-yyhezkel-lean-chronoscope-mcp/) — Date not recorded
+  Token-efficient headless Chrome MCP server in Docker that records console, network, and DOM timelines for coding agents.
+- [Legacy UI Capability Engine](https://awesomecua.com/resources/github-saitejareddi3636-legacy-ui-capability-engine/) — Date not recorded
+  Learns a legacy browser workflow once with an LLM and compiles it into a verified, reusable capability module.
+- [LegacyBridge](https://awesomecua.com/resources/github-peterhaupt-legacybridge/) — Date not recorded
+  Local open-weight LLM agent framework for automating legacy enterprise ERP and business desktop software without APIs.
+- [Lightfeed Replayable Browser Agent](https://awesomecua.com/resources/github-lightfeed-browser-agent/) — Date not recorded
+  TypeScript browser agent library that uses an LLM to complete a web navigation workflow once and replays cached selectors with zero LLM tokens.
+- [linux-use](https://awesomecua.com/resources/github-javimosch-linux-use/) — Date not recorded
+  Agent-first, CLI-first GUI control toolkit for Linux desktops operating over the AT-SPI2 accessibility tree.
+- [Local Computer-Use Agent](https://awesomecua.com/resources/github-storage1n1-local-computer-use-agent/) — Date not recorded
+  Offline computer-use agent combining Ollama vision-language models (`qwen3-vl`, `minicpm-v`) with Set-of-Marks grounding and crop-zoom refinement.
+- [Local Grounding MCP](https://awesomecua.com/resources/github-archie-ib-dev-local-grounding-mcp/) — Date not recorded
+  Local Grounding MCP provides privacy-first local visual grounding fallback and DOM-visual hybrid routing for MCP browser agents on Apple Silicon.
+- [local-browser-agent](https://awesomecua.com/resources/github-yourself-q-local-browser-agent/) — Date not recorded
+  Local-first browser agent that attaches to an existing Chrome instance via CDP and runs entirely on local Ollama LLMs.
+- [local-windows-use](https://awesomecua.com/resources/github-yuhuison-local-windows-use/) — Date not recorded
+  MCP server and CLI that lets frontier LLMs delegate token-heavy Windows desktop and browser clicking loops to compact local models.
+- [LockInTime headless](https://awesomecua.com/resources/github-lockintime-headless/) — Date not recorded
+  Persistent, safety-enforced browser control runtime for AI agents with a semantic CLI.
+- [LOCR (Lightweight OCR)](https://awesomecua.com/resources/github-dmzlingyin-locr/) — Date not recorded
+  LOCR is a lightweight cross-platform clipboard and screen OCR utility based on RapidOCR.
+- [loki-auto](https://awesomecua.com/resources/github-loki4agent-loki-auto/) — Date not recorded
+  Zero-dependency in-browser web automation runtime with an embedded sandbox and Model Context Protocol server for LLMs.
+- [Lolaplex .agents/browser](https://awesomecua.com/resources/github-lolaplex-agents-browser/) — Date not recorded
+  Zero-Node Python Chrome DevTools Protocol browser MCP server for AI coding agents.
+- [Lusipad Browser Agent](https://awesomecua.com/resources/github-lusipad-browser-agent/) — Date not recorded
+  Chrome sidebar autonomous AI browser agent featuring visual ROI perception, dual-process fast/slow cognition, and local LLM support.
+- [lvyuan1688 browser-use-rs](https://awesomecua.com/resources/github-lvyuan1688-browser-use-rs/) — Date not recorded
+  Rust port of the Browser Use architecture enabling LLMs to control web browsers with native speed.
+- [mac-pilot](https://awesomecua.com/resources/github-shxmi03-mac-pilot/) — Date not recorded
+  Zero-dependency macOS automation CLI and MCP server built on Python `ctypes` and CoreGraphics.
+- [maponce](https://awesomecua.com/resources/github-shivampatel0714-maponce/) — Date not recorded
+  Uses an LLM to map or record browser automations once and replays them deterministically via Playwright without LLM calls.
+- [Marey](https://awesomecua.com/resources/github-badalraj9-marey/) — Date not recorded
+  Marey is a modular perception engine for computer-use agents that tracks screen changes and extracts UI elements with minimal model calls.
+- [Master Internet Unit](https://awesomecua.com/resources/github-0bifthenelse-master-internet-unit/) — Date not recorded
+  High-performance Rust Model Context Protocol browser server for AI agents.
+- [MAWR (Machine-Aware Web Runtime)](https://awesomecua.com/resources/github-iasolutionorg-mawr/) — Date not recorded
+  Open-source, Chromium-free lightweight web runtime engineered specifically for machines and AI web agents.
+- [MCP Master Puppeteer](https://awesomecua.com/resources/github-flrngel-mcp-master-puppeteer/) — Date not recorded
+  MCP Master Puppeteer is a Puppeteer Model Context Protocol server optimized for minimal token usage via compact DOM/accessibility extraction.
+- [Mem0](https://awesomecua.com/resources/github-mem0ai-mem0/) — Date not recorded
+  Mem0 provides a scalable long-term memory layer for AI agents that extracts, consolidates, and retrieves user and session facts.
+- [mew-agent](https://awesomecua.com/resources/github-kaiizer777-mew-agent/) — Date not recorded
+  mew-agent is a Rust-native browser agent that drives visible Chromium via CDP using accessibility-tree perception and vision fallback.
+- [Milli-Agent](https://awesomecua.com/resources/github-abdullah-al-raju-milli-agent/) — Date not recorded
+  Milli-Agent is a real-time computer-use agent architecture designed for high-frequency in-memory screen capture and low-latency actuation.
+- [mllm](https://awesomecua.com/resources/github-ubiquitouslearning-mllm/) — Date not recorded
+  mllm is a C++ multimodal LLM inference engine optimized for on-device execution on mobile NPU/CPU hardware.
+- [MobileRAG](https://awesomecua.com/resources/github-liuxiaojieoutofworld-mobilerag-arxiv/) — Date not recorded
+  MobileRAG operates Android devices via ADB by combining local app retrieval, historical trajectory memory, and external web search.
+- [my_tiny_agent](https://awesomecua.com/resources/github-yanjin101-my-tiny-agent/) — Date not recorded
+  Spec-driven small-LLM desktop agent that operates Windows end-to-end using OCR, YOLO icon detection, and Win32 APIs without a VLM.
+- [nexus-browser-mcp](https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/) — Date not recorded
+  Browser automation MCP server with event-driven deterministic Playwright and accessibility-tree snapshots.
+- [Northstar (Legacy Portal CUA)](https://awesomecua.com/resources/github-zoyaarief-legacy-credit-union-automation/) — Date not recorded
+  Discovers workflows on legacy credit-union web portals with an AI agent once and compiles them into deterministic scripts.
+- [Offhand](https://awesomecua.com/resources/github-humzakhan-offhand/) — Date not recorded
+  Offhand is an offline, accessibility-first desktop agent for macOS and Windows powered by compact local vision-language models.
+- [Ommatix](https://awesomecua.com/resources/github-yosoyepa-ommatix/) — Date not recorded
+  Ommatix is an incremental spatial-indexing perception engine that tracks stable UI element IDs and state diffs across desktop frames.
+- [OmniInfer](https://awesomecua.com/resources/github-omnimind-ai-omniinfer/) — Date not recorded
+  OmniInfer is a local LLM and VLM inference engine with OpenAI-compatible APIs for desktop and edge agents.
+- [OmOWright](https://awesomecua.com/resources/github-code-yeongyu-omowright/) — Date not recorded
+  AI-agent-oriented wrapper around Playwright that exposes the Playwright API shape models already know from pretraining.
+- [omp-cua](https://awesomecua.com/resources/github-wolfiesch-omp-cua/) — Date not recorded
+  Low-overhead Cua Driver computer-use integration for the Oh My Pi coding agent.
+- [only-cli (oc)](https://awesomecua.com/resources/github-only-cli-oc/) — Date not recorded
+  Compiles websites into compact, token-efficient CLI commands tailored for AI agents.
+- [op-browse-the-web-skill](https://awesomecua.com/resources/github-vb-tyagi-op-browse-the-web-skill/) — Date not recorded
+  Single-file zero-cost autonomous web browsing skill for Claude Code.
+- [Openbrowser (Semantic Headless Runtime)](https://awesomecua.com/resources/github-datuomart5423-openbrowser/) — Date not recorded
+  Headless browser runtime that converts webpages into compact structured semantic state for AI agents.
+- [OpenComputer](https://awesomecua.com/resources/github-andykr1k-opencomputer/) — Date not recorded
+  OpenComputer is a local-first cross-platform computer-use agent for Linux, Windows, and macOS powered by local vision-language models.
+- [OpenControl](https://awesomecua.com/resources/github-joshuaalawrence-opencontrol/) — Date not recorded
+  Single-binary ~2MB Rust Model Context Protocol server exposing 54 native Windows desktop control, UI Automation, and screenshot tools.
+- [OpenGUI (Windows Native Service)](https://awesomecua.com/resources/github-lessenings-prog-opengui/) — Date not recorded
+  Windows-native .NET 9 desktop automation service exposing sub-millisecond named-pipe IPC and UI Automation perception to LLM agents.
+- [OpenOCR](https://awesomecua.com/resources/github-topdu-openocr/) — Date not recorded
+  OpenOCR is an open-source scene and document text detection, recognition, and VLM-OCR toolkit used for screen text parsing.
+- [OpenVINO Autonomous GUI Agent](https://awesomecua.com/resources/github-shehrozkashif-openvino-autonomous-gui-agent/) — Date not recorded
+  Fully local desktop GUI agent running five INT4 OpenVINO models for screen perception, planning, action execution, and step verification.
+- [Orynn](https://awesomecua.com/resources/github-robomohit-orynn/) — Date not recorded
+  Orynn is a Windows desktop agent that controls native applications by UI Automation control names without screenshot loops.
+- [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/) — Date not recorded
+  Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+- [Owl Browser Claude Code Plugin](https://awesomecua.com/resources/github-olib-ai-owl-browser-claude-plugin/) — Date not recorded
+  Claude Code plugin for Owl Browser providing handle-indexed page reading and agent-native browser automation.
+- [PageKit](https://awesomecua.com/resources/github-ken-u-pagekit/) — Date not recorded
+  Turns spare Android phones into free web search, page fetch, and real-browser automation nodes for AI agents.
+- [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/) — Date not recorded
+  Stateful browser execution layer that records an agent task once, replays it without LLM calls, and self-repairs when selectors change.
+- [parallel-browser-mcp](https://awesomecua.com/resources/github-etairl-parallel-browser-mcp/) — Date not recorded
+  Model Context Protocol server for parallel multi-session browser automation across local and cloud browser providers.
+- [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/) — Date not recorded
+  Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+- [perceive](https://awesomecua.com/resources/github-gauthierpiarrette-perceive/) — Date not recorded
+  perceive is a reachability-filtered perception layer for browser agents that prunes non-interactive or occluded DOM elements.
+- [PhoneClaw](https://awesomecua.com/resources/github-kellyvv-phoneclaw/) — Date not recorded
+  PhoneClaw turns iOS and Android smartphones into local AI agent runtimes with on-device model inference and native system skills.
+- [Pi Jev Browser](https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/) — Date not recorded
+  Pi Jev Browser is a browser and macOS agent for the pi coding harness where Jev selects actions over structured page observations.
+- [pixelpi](https://awesomecua.com/resources/github-josharsh-pixelpi/) — Date not recorded
+  Minimal 6-tool browser-agent harness whose entire tool definition fits in 1,196 tokens for context-efficient web automation.
+- [Plasmate](https://awesomecua.com/resources/github-plasmate-labs-plasmate/) — Date not recorded
+  Plasmate is a Rust browser engine for AI agents that transforms HTML and DOM state into a compact, actionable Semantic Object Model.
+- [Playwright CLI](https://awesomecua.com/resources/github-microsoft-playwright-cli/) — Date not recorded
+  Playwright CLI provides a token-efficient command-line interface and skill set for coding and computer-use agents to automate web browsers.
+- [POK-Agent](https://awesomecua.com/resources/github-acekorneya-pok-agent/) — Date not recorded
+  POK-Agent is a Windows computer-use agent that pairs a cloud planner with a fast local actor and caches repeated UI workflows as skills.
+- [PreAct](https://awesomecua.com/resources/github-19pine-ai-preact/) — Date not recorded
+  PreAct compiles repeated computer-use agent trajectories into cached action graphs with lightweight visual verification to accelerate execution.
+- [Project Interface (Legacy Web UI Compiler)](https://awesomecua.com/resources/github-shahadeven-project-interface/) — Date not recorded
+  Uses an LLM to discover how to complete a task in a legacy web UI once and distills the run into a reusable programmatic interface.
+- [Public Browser](https://awesomecua.com/resources/github-silbercue-public-browser/) — Date not recorded
+  Token-efficient Chrome automation bridge and CLI for Claude Code and Cursor.
+- [PuterVision Behavior-MCP](https://awesomecua.com/resources/github-putervision-behavior-mcp/) — Date not recorded
+  High-frequency (~60Hz) in-browser behavior-tree execution engine exposed over the Model Context Protocol.
+- [Rapid PC Use](https://awesomecua.com/resources/github-tntcannon5000-rapid-pc-use/) — Date not recorded
+  High-speed native Windows desktop control bridge for Codex and ChatGPT desktop.
+- [Raystyle Browser Harness](https://awesomecua.com/resources/github-raystyle-browser-harness/) — Date not recorded
+  Persistent daemon and CLI exposing 652 Chrome DevTools Protocol methods directly to LLMs for human-agent shared browsing.
+- [Re-Prefill](https://awesomecua.com/resources/github-linjiaping1-re-prefill/) — Date not recorded
+  Re-Prefill calibrates prefill visual attention representations in vision-language models to improve zero-shot GUI grounding accuracy.
+- [recast](https://awesomecua.com/resources/github-yagna-1-recast/) — Date not recorded
+  Compiler that converts recorded AI browser-agent execution traces into deterministic, zero-token Playwright test scripts.
+- [Replay AI](https://awesomecua.com/resources/github-bryansbtian-replay-ai/) — Date not recorded
+  Discovers UI workflows once using a local LLM and compiles the successful trajectory into a deterministic replay script.
+- [reverseloom](https://awesomecua.com/resources/github-kuichi-x-reverseloom/) — Date not recorded
+  AI browser agent framework that inspects live web traffic to reverse-engineer site protocols into browser-free Python crawlers.
+- [RishabhP1508 Understudy](https://awesomecua.com/resources/github-rishabhp1508-understudy/) — Date not recorded
+  Records a single LLM-driven exploration of a legacy UI into a typed capability artifact for deterministic zero-LLM replay.
+- [rote](https://awesomecua.com/resources/github-bhuvanb3110-rote/) — Date not recorded
+  Record-once, replay-many computer-use automation framework for legacy banking and back-office web applications lacking APIs.
+- [rs_peekaboo](https://awesomecua.com/resources/github-undivisible-rs-peekaboo/) — Date not recorded
+  Rust-native cross-platform computer-use CLI and library for desktop window inspection, screenshots, and input automation.
 - [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/) — Date not recorded
   Computer-use training framework with VeriGen task synthesis, adaptive rollout sampling, and visual-context segmentation.
+- [SCoR (Sparse Context Reset)](https://awesomecua.com/resources/github-huia711-scor/) — Date not recorded
+  Sparse Context Reset (SCoR) framework for preventing context overflow and drift in long-horizon GUI agents.
+- [Scout Browser Agent](https://awesomecua.com/resources/github-sanjeev29-scout-browser-agent/) — Date not recorded
+  Browser agent using a 4-layer perception cascade from lightweight HTTP text to accessibility trees and vision fallback.
+- [Scout Browser Binary](https://awesomecua.com/resources/github-klarlabs-studio-scout/) — Date not recorded
+  Single-binary Go browser automation CLI and built-in MCP server that drives Chromium without Node.js or Python dependencies.
+- [ScreenHand](https://awesomecua.com/resources/github-manushi4-screenhand/) — Date not recorded
+  Open-source desktop automation MCP server that drives native macOS and Windows UI elements in ~50ms via OS accessibility APIs.
+- [ScreenPilot](https://awesomecua.com/resources/github-droppinganvil-screenpilot/) — Date not recorded
+  ScreenPilot is a local computer-use agent designed to run within 8GB of VRAM, combining screenshot planning with mouse and keyboard control.
+- [Semantic Browser (agent-browser)](https://awesomecua.com/resources/github-atreasureboy-agent-browser/) — Date not recorded
+  Agent-readable semantic browser layer providing token-efficient webpage understanding and structured action execution.
+- [Semantic GUI Control Layer (SGCL)](https://awesomecua.com/resources/github-frankbria-semantic-gui-control/) — Date not recorded
+  SGCL is a cross-platform, text-first control layer that exposes graphical user interfaces to agents as structured semantic affordances.
+- [servo-agent](https://awesomecua.com/resources/github-parker-brown-family-servo-agent/) — Date not recorded
+  Agent-controllable web browser built on the Rust Servo engine that distills live rendered DOM layouts into compact agent observations.
+- [settled-computer](https://awesomecua.com/resources/github-remote-skills-settled-computer/) — Date not recorded
+  settled-computer is an event-driven MCP server that detects UI rendering quiescence so computer-use agents avoid fixed sleep delays and stale frames.
+- [Shinken](https://awesomecua.com/resources/github-meirtz-shinken/) — Date not recorded
+  Shinken is a high-throughput runtime for training computer-use agents end-to-end with reinforcement learning across parallel real desktops.
+- [Shiny Fishstick](https://awesomecua.com/resources/github-hootsworth-shiny-fishstick/) — Date not recorded
+  Semantic web compiler that crawls websites and compiles them into typed, reusable action and data interfaces for AI agents.
+- [SimpAgent](https://awesomecua.com/resources/github-jiutian-vl-simpagent/) — Date not recorded
+  SimpAgent implements context-aware history simplification and visual token pruning to accelerate multimodal GUI agents.
+- [SimpleMem](https://awesomecua.com/resources/github-aiming-lab-simplemem/) — Date not recorded
+  SimpleMem provides semantic lossless memory compression and multimodal retrieval for long-horizon LLM and desktop/CLI agents.
+- [SiteWarden](https://awesomecua.com/resources/github-shantodotdev-sitewarden/) — Date not recorded
+  Autonomous, lightweight browser smoke-testing daemon written in Rust for continuous website verification.
+- [slidevim](https://awesomecua.com/resources/github-jaisharmz-slidevim/) — Date not recorded
+  Vim-grammar command language and text protocol for driving Google Slides in the browser.
+- [Snapsurf](https://awesomecua.com/resources/github-zumerlab-snapsurf/) — Date not recorded
+  Web navigation and verification layer for AI agents providing compact semantic page digests and typed post-action DOM diffs.
+- [Spectra MCP](https://awesomecua.com/resources/github-astroqueststudio-spectra-mcp/) — Date not recorded
+  Native Rust Model Context Protocol server that drives Chrome directly over the Chrome DevTools Protocol.
+- [Spooky Action](https://awesomecua.com/resources/github-jumpsy-spooky-action/) — Date not recorded
+  Focus-free macOS computer-use tool that presses native Accessibility buttons in the background without moving the user's cursor.
+- [super-computer-use](https://awesomecua.com/resources/github-paperfoot-super-computer-use/) — Date not recorded
+  Low-latency macOS computer-use driver (~35ms per action) supporting batched multi-step UI workflows.
+- [TalkAct](https://awesomecua.com/resources/github-19pine-ai-talkact/) — Date not recorded
+  TalkAct is a dual-model voice and computer-use agent that conducts real-time spoken dialogue while executing background GUI actions.
+- [Taprun (tap)](https://awesomecua.com/resources/github-leonting1010-tap/) — Date not recorded
+  Captures a logged-in browser task demonstration once and compiles it into a deterministic zero-token replay skill.
+- [Terminal Computer Use](https://awesomecua.com/resources/github-vivekkartha-terminal-computer-use/) — Date not recorded
+  Terminal Computer Use provides shell-based desktop automation skills for managing files, windows, and clipboards without screenshot loops.
+- [TERX](https://awesomecua.com/resources/github-ixchio-terx/) — Date not recorded
+  Browser-agent procedural memory and MCP server that compiles repeated web workflows into deterministic zero-token replays.
+- [TideSurf](https://awesomecua.com/resources/github-tidesurf-core/) — Date not recorded
+  TideSurf connects Chromium to LLM agents via compact structured DOM compression requiring 50 to 200 tokens per webpage.
+- [tinybrowser](https://awesomecua.com/resources/github-tinyhumansai-tinybrowser/) — Date not recorded
+  Rust-friendly agent browser API and TinyBus module for managing headless and headful web sessions.
+- [ToolCUA](https://awesomecua.com/resources/github-x-plug-toolcua/) — Date not recorded
+  ToolCUA trains computer-use agents to orchestrate hybrid MCP tool invocations and GUI actions on OSWorld-MCP.
+- [ToolTok](https://awesomecua.com/resources/github-zephinuecode-tooltok/) — Date not recorded
+  ToolTok introduces atomic directional cursor-movement tokens for multi-step iterative GUI visual grounding on ScreenSpot and ScreenSpot-Pro.
+- [UI2API](https://awesomecua.com/resources/github-merezarezaei-ui2api/) — Date not recorded
+  Analyzes a website's UI and network traffic once to synthesize reusable, browser-free API tools for AI agents.
+- [UltraWin MCP](https://awesomecua.com/resources/github-jxoesneon-ultrawin-mcp/) — Date not recorded
+  Rust Model Context Protocol server for Windows desktop automation providing native UI Automation tree inspection and input control.
+- [Unbrowse](https://awesomecua.com/resources/github-unbrowse-ai-unbrowse/) — Date not recorded
+  Unbrowse captures browser network traffic to reverse-engineer internal website APIs into direct callable tools for AI agents.
+- [VACT (Vector Agent Context Transport)](https://awesomecua.com/resources/github-fy2ne-vact/) — Date not recorded
+  High-frequency GPU screen perception and low-latency input transport protocol for desktop computer-use agents.
+- [Vedanshu7 Operant](https://awesomecua.com/resources/github-vedanshu7-operant/) — Date not recorded
+  Discovers how to complete a task in a no-API application once with an LLM and compiles the trace for repeatable execution.
+- [VG-GUI-TASKER](https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/) — Date not recorded
+  VG-GUI-TASKER extracts informative keyframes from instructional demonstration videos to guide multimodal GUI agents.
+- [VisionAX](https://awesomecua.com/resources/github-rao-studios-visionax/) — Date not recorded
+  Computer-vision accessibility-tree (AX/A11Y) generator that synthesizes structured UI trees from raw desktop pixels.
+- [Visual Context Router](https://awesomecua.com/resources/github-fangsylar-pixel-visual-context-router/) — Date not recorded
+  Token-aware visual context router that crops, downscales, or replaces full screenshots with localized regions before sending to CUA models.
+- [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/) — Date not recorded
+  Two-layer local input engine for MCP where a frontier planning model dispatches high-rate action programs to a local executor.
+- [WebAgents Protocol](https://awesomecua.com/resources/github-betterwright-webagents/) — Date not recorded
+  Open protocol specification and toolkit exposing batch-native website actions to browser agents.
+- [Webcmd](https://awesomecua.com/resources/github-agentrhq-webcmd/) — Date not recorded
+  Webcmd captures and indexes website navigational context as agents browse, compiling site structure into reusable local memory skills.
+- [WebRain](https://awesomecua.com/resources/github-prokopis3-webrain/) — Date not recorded
+  Single-binary Rust Model Context Protocol server for LLM-driven browser automation and web scraping across three browser engines.
+- [WebSense MCP 2.0](https://awesomecua.com/resources/github-spliffspliff70-wq-websense-mcp/) — Date not recorded
+  Non-vision browser automation Model Context Protocol server exposing 7 compact DOM-sensing and action tools.
+- [Workroom (MLX Computer-Use Agent)](https://awesomecua.com/resources/github-iamibrahimmemon-mlx-llm-workroom/) — Date not recorded
+  Workroom is a fully local macOS computer-use agent running an Apple Silicon MLX vision-language model to read screens and execute commands.
+- [Zoom Search](https://awesomecua.com/resources/github-goofrey-zoom-search/) — Date not recorded
+  Zoom Search is a hierarchical web-search agent that previews lightweight page summaries before selectively fetching full webpage content.
+- [ZRui-C DSH Computer Use](https://awesomecua.com/resources/github-zrui-c-dsh-computer-use/) — Date not recorded
+  Text-first browser and background macOS window control plugin for DeepSeek Harness.
+- [zseven-w DSH Browser](https://awesomecua.com/resources/github-zseven-w-dsh-browser/) — Date not recorded
+  Headless-first browser automation plugin for DeepSeek Harness.

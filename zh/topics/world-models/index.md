@@ -126,9 +126,25 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   Released GUI world-model checkpoint that turns a screenshot and proposed action into HTML for rendering a predicted next screen.
 - [Dreamer-7B](https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/) — Date not recorded
   WebDreamer model checkpoint that predicts the consequences of web actions from screenshots and textual descriptions.
+- [gWorld (GuiWorld)](https://awesomecua.com/resources/github-trillion-labs-gworld/) — Date not recorded
+  gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step screen states via renderable web code generation.
+- [Textual Foresight](https://awesomecua.com/resources/github-aburns4-textualforesight/) — Date not recorded
+  Textual Foresight pretrains UI representations by predicting textual descriptions of future screen states resulting from mobile UI actions.
 
 ## 工程与产业
 
+- [AutoCoA](https://awesomecua.com/resources/github-adam-bjtu-autocoa/) — Date not recorded
+  AutoCoA internalizes Chain-of-Action generation into reasoning models via step-level SFT, reinforcement learning, and simulated tool world models.
+- [LGWM (Latent GUI World Model)](https://awesomecua.com/resources/github-jiamingzhang94-lgwm/) — Date not recorded
+  LGWM is an action-conditioned latent GUI world model that predicts next-state representations to verify GUI agent transitions.
+- [nanoAWM (Agent World Model Lab)](https://awesomecua.com/resources/github-jlov7-nanoawm/) — Date not recorded
+  nanoAWM is an inspectable Agent World Model laboratory for simulating action consequences in long-horizon tool and computer-use agents.
+- [Octopus](https://awesomecua.com/resources/github-dongyh20-octopus/) — Date not recorded
+  Octopus is a vision-language programmer agent trained with environmental feedback to generate executable control code in GTA and Gibson worlds.
+- [RLVR-World](https://awesomecua.com/resources/github-thuml-rlvr-world/) — Date not recorded
+  RLVR-World trains world models with verifiable reinforcement learning to predict state transitions for web and game agents.
+- [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/) — Date not recorded
+  SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.
 - [WebDreamer](https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/) — Date not recorded
   World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.
 - [WebEvolver code component](https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/) — Date not recorded

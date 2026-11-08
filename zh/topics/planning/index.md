@@ -609,6 +609,31 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 - [PLOW: A Collaborative Task Learning Agent](https://awesomecua.com/resources/url-628b5251757bb3888e89/) — 2007
   Describes PLOW, which learns executable web-task models from a session combining demonstrations, natural-language explanations, and dialogue. Browser instrumentation connects user actions with DOM structure to support task generalization.
 
+## 评测基准
+
+- [Embodied Agent Interface (EAI)](https://awesomecua.com/resources/github-embodied-agent-eval-embodied-agent-eval/) — Date not recorded
+  Embodied Agent Interface (EAI) benchmarks LLMs across goal interpretation, subgoal decomposition, action sequencing, and transition modeling.
+- [fast-automation (Plan-Once Ground-Locally)](https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/) — Date not recorded
+  Compares plan-once local-grounding web agents against step-by-step ReAct loops across a 200-task benchmark and 2,800 recorded runs.
+- [FlashAdventure](https://awesomecua.com/resources/github-ahnjaewoo-flashadventure/) — Date not recorded
+  FlashAdventure benchmarks GUI agents on solving complete story arcs across 34 Flash point-and-click adventure games requiring long-term memory.
+- [GameWorld](https://awesomecua.com/resources/github-gameworld-project-gameworld/) — Date not recorded
+  GameWorld provides a standardized browser-based evaluation suite for multimodal game agents across 34 games and 170 verifiable tasks.
+- [Gomoku Computer-Use Model Comparison](https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/) — Date not recorded
+  Controlled evaluation benchmark comparing frontier Claude models on interactive board-game reasoning and GUI execution.
+- [Graph-Guided Agentic Testing](https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/) — Date not recorded
+  Uses a browser agent to explore web checkout flows into a Neo4j state graph and synthesizes graph-guided end-to-end tests.
+- [Intention-in-Interaction (IN3) & Mistral-Interact](https://awesomecua.com/resources/github-openbmb-tell-me-more/) — Date not recorded
+  Provides the Intention-in-Interaction (IN3) benchmark and Mistral-Interact model for proactive user-intent clarification in agent tasks.
+- [LongPuzzleBench](https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/) — Date not recorded
+  LongPuzzleBench evaluates GUI and computer-use agents on long-horizon visual puzzle games requiring multi-step spatial reasoning.
+- [LPS-Bench](https://awesomecua.com/resources/github-tychenn-lps-bench/) — Date not recorded
+  LPS-Bench benchmarks the safety awareness of computer-use agents during long-horizon planning across benign and adversarial execution scenarios.
+- [MarketBench](https://awesomecua.com/resources/github-santos-sanz-marketbench/) — Date not recorded
+  MarketBench is a reproducible WebMCP benchmark evaluating browser agents on multi-week economic decision-making in simulated markets.
+- [WebWalker](https://awesomecua.com/resources/github-alibaba-nlp-webwalker/) — Date not recorded
+  Benchmark and multi-agent framework for evaluating large language models on multi-step web traversal and deep information-seeking tasks.
+
 ## 数据集
 
 - [Aguvis stage 2 trajectory data](https://awesomecua.com/resources/url-b5e2127e07f692d516b9/) — Date not recorded
@@ -619,6 +644,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   A released GUI-agent mid-training mixture and supporting domain datasets, together with a post-training trajectory file and image archives for web and mobile interaction.
 - [Plan-and-Act training data](https://awesomecua.com/resources/url-ba6453cfdae0eb049ced/) — Date not recorded
   Planner and action-executor training examples for WebArena-Lite and WebVoyager, with model-specific processed files and raw trajectory annotations.
+- [VLM-Reasoning-Traces](https://awesomecua.com/resources/github-llamatouch-vlm-reasoning-traces/) — Date not recorded
+  VLM-Reasoning-Traces releases model outputs comparing base and thinking-enabled vision-language models on AndroidControl, ScreenSpot, and AndroidWorld.
 
 ## 模型
 
@@ -662,6 +689,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history with planning and grounded executable actions.
 - [OpenCUA 72B](https://awesomecua.com/resources/url-4a0b1692589594745a3c/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and reflective reasoning to predict executable desktop actions.
+- [Plan-and-Act Actor 70B](https://awesomecua.com/resources/url-8a284d122d7dcf23479d/) — Date not recorded
+  Llama-3.3-70B-Instruct-based executor checkpoint from the Plan-and-Act web-agent framework that translates high-level plans into browser actions.
 - [Plan-and-Act Planner 70B](https://awesomecua.com/resources/url-3932d69c6b6f9b2a7ba8/) — Date not recorded
   The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.
 - [ScaleCUA](https://awesomecua.com/resources/github-opengvlab-scalecua/) — Date not recorded
@@ -679,36 +708,156 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
 
 ## 工程与产业
 
+- [AbaoPal (阿宝Pal)](https://awesomecua.com/resources/github-banye-technology-abaopal/) — Date not recorded
+  Open-source multi-agent Android phone automation assistant that understands screens, plans cross-app tasks, and executes reusable skills.
+- [Aeiva](https://awesomecua.com/resources/github-chatsci-aeiva/) — Date not recorded
+  Aeiva is a modular general-purpose AI agent framework adaptable across desktop, web, and scientific task environments.
+- [Aevora](https://awesomecua.com/resources/github-atluri0001-aevora/) — Date not recorded
+  Autonomous web agent that translates natural-language intent into multi-step browser actions.
+- [Agent Friday](https://awesomecua.com/resources/github-mahsaanullah-agent-friday/) — Date not recorded
+  Autonomous OS-level desktop assistant powered by LangGraph for multi-step system and GUI workflows.
+- [Agent Lumos](https://awesomecua.com/resources/github-allenai-lumos/) — Date not recorded
+  Agent Lumos provides unified training data and modular planning and grounding architectures for open-source language and web agents.
+- [Agent Q](https://awesomecua.com/resources/github-sentient-engineering-agent-q/) — Date not recorded
+  Agent Q combines Monte Carlo Tree Search, AI self-critique, and Direct Preference Optimization for autonomous web navigation.
 - [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) — Date not recorded
   Simular's open-source framework for computer-use agents that click, type and scroll through desktop and web apps on macOS, Windows and Linux; its third generation, Agent S3, reports 72.6% on OSWorld.
+- [agent-fleet](https://awesomecua.com/resources/github-mskazemi-agent-fleet/) — Date not recorded
+  Orchestrates parallel Claude Code and computer-use sessions against a shared, dependency-aware task queue.
+- [AgentGPT](https://awesomecua.com/resources/github-reworkd-agentgpt/) — Date not recorded
+  AgentGPT is a browser-based platform for configuring and deploying autonomous goal-driven LLM agents that decompose tasks and browse the web.
+- [AgenticX-GUIAgent](https://awesomecua.com/resources/github-demondamon-agenticx-guiagent/) — Date not recorded
+  AgenticX-GUIAgent is a multi-agent Android GUI automation system with coordinated manager, executor, reflector, and notetaker roles.
+- [AgentP](https://awesomecua.com/resources/github-omerfeyzioglu-agentp-macos/) — Date not recorded
+  AgentP is a fast macOS computer-use agent where Gemini plans once and a local Jev System-One model executes steps via the Accessibility API.
 - [AgentProg](https://awesomecua.com/resources/github-mobilellm-agentprog/) — Date not recorded
   Android GUI-agent framework that keeps long-running task context in structured programs, variables and control flow, with a CLI and AndroidWorld integration.
+- [AI Deep Search Agent (AI 深度搜索助手)](https://awesomecua.com/resources/github-gupi-bill-ai-deep-search-agent/) — Date not recorded
+  Visual browser agent that drives a real Microsoft Edge window from natural-language goals to conduct deep web research.
+- [AI-Player](https://awesomecua.com/resources/github-shasankp000-ai-player/) — Date not recorded
+  AI-Player is a Minecraft Fabric mod that embeds an LLM/VLM-driven autonomous second player capable of navigation, combat, and crafting.
+- [Amazon Bedrock Minecraft Agent](https://awesomecua.com/resources/github-build-on-aws-amazon-bedrock-minecraft-agent/) — Date not recorded
+  TypeScript agent built on Amazon Bedrock and Mineflayer that translates natural-language instructions into in-game Minecraft actions.
+- [AnyTool](https://awesomecua.com/resources/github-hkuds-anytool/) — Date not recorded
+  AnyTool is a universal tool-use layer for AI agents supporting MCP, GUI, web, and shell tools with hierarchical retrieval and self-reflection.
+- [Ask-before-Plan](https://awesomecua.com/resources/github-magicgh-ask-before-plan/) — Date not recorded
+  Ask-before-Plan trains proactive language agents to clarify underspecified user instructions before executing multi-step tool plans.
 - [AssistGUI](https://awesomecua.com/resources/github-showlab-assistgui/) — Date not recorded
   LLM-based assistant for automating work in desktop productivity software by watching the screen and issuing mouse and keyboard commands; its repository says the code will be released later.
 - [Auto-GUI / Auto-UI](https://awesomecua.com/resources/github-cooelf-auto-gui/) — Date not recorded
   Screenshot-based mobile agent implementation with training and inference code for chain-of-action prediction.
+- [AutoCoA](https://awesomecua.com/resources/github-adam-bjtu-autocoa/) — Date not recorded
+  AutoCoA internalizes Chain-of-Action generation into reasoning models via step-level SFT, reinforcement learning, and simulated tool world models.
+- [AutoCodeRover](https://awesomecua.com/resources/github-nus-apr-auto-code-rover/) — Date not recorded
+  AutoCodeRover combines LLMs with AST-aware code search and spectrum-based fault localization for autonomous program repair.
+- [AutoGen](https://awesomecua.com/resources/github-microsoft-autogen/) — Date not recorded
+  AutoGen is Microsoft's multi-agent conversation framework including MultimodalWebSurfer and Magentic-One for web and desktop tasks.
+- [AutoGPT](https://awesomecua.com/resources/github-significant-gravitas-autogpt/) — Date not recorded
+  AutoGPT is an open-source autonomous agent platform for building, orchestrating, and running multi-step web and workspace automation agents.
+- [AutoManual](https://awesomecua.com/resources/github-minghchen-automanual/) — Date not recorded
+  AutoManual enables LLM agents to construct and iteratively refine structured instruction manuals through online environmental interaction.
+- [Avenir-Web](https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/) — Date not recorded
+  Avenir-Web trains human-experience-imitating multimodal web agents with mixture-of-grounding experts and experience-tracking memory.
+- [BabyAGI](https://awesomecua.com/resources/github-yoheinakajima-babyagi/) — Date not recorded
+  BabyAGI is an autonomous task-management agent framework that iteratively creates, prioritizes, and executes tasks using LLMs and vector memory.
+- [BLAXIN](https://awesomecua.com/resources/github-tasinxxx-blaxin/) — Date not recorded
+  Open-source AI desktop agent for Linux that plans, executes, and verifies GUI and shell workflows.
+- [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/resources/github-momoyi0929-gui-agent/) — Date not recorded
+  Bounded multimodal desktop GUI agent built with LangChain and LangGraph featuring OCR grounding, action safety checks, and Mind2Web/ScreenAgent evals.
+- [BRYES (Brain-Eyes)](https://awesomecua.com/resources/github-alvseek-bryes/) — Date not recorded
+  BRYES decouples a high-level reasoning planner ('Brain') from swappable visual perception and grounding backends ('Eyes') for computer use.
 - [CAAP Agent](https://awesomecua.com/resources/github-caap-agent-caap-agent/) — Date not recorded
   Screenshot-driven agent implementation for MiniWoB++ and WebShop, using a visual observer and context-aware prompts to issue mouse and keyboard actions.
+- [Caesar Agent](https://awesomecua.com/resources/github-jasonzliang-caesar-agent/) — Date not recorded
+  Caesar is an open-source deep-research web agent that plans multi-step queries, crawls webpages, and synthesizes cited reports.
+- [Cappuccino](https://awesomecua.com/resources/github-gml-fmgroup-cappuccino/) — Date not recorded
+  Cappuccino is a pure-vision desktop GUI agent that plans and executes multi-step computer tasks from natural-language instructions.
+- [Charterion](https://awesomecua.com/resources/github-xalzeroph-charterion/) — Date not recorded
+  Multi-agent engineering control plane orchestrating ChatGPT Web sessions through browser automation.
+- [ChatGPT Pro Planning Skill for Codex](https://awesomecua.com/resources/github-ericwong5021-chatgpt-pro-planning-skill/) — Date not recorded
+  Codex skill that delegates complex architectural planning to a logged-in ChatGPT Pro web session.
 - [CHOP](https://awesomecua.com/resources/github-yuqi-zhou-chop/) — Date not recorded
   Mobile automation framework that uses reusable basis subtasks to constrain and refine planning between user goals and executable actions.
+- [CoAct-1 Implementation](https://awesomecua.com/resources/github-buiilding-coact-1-implementation/) — Date not recorded
+  Open-source replication of the CoAct-1 hybrid coding-and-GUI multi-agent architecture evaluated on OSWorld-Verified.
 - [CoAT research implementation](https://awesomecua.com/resources/github-imnearth-coat/) — Date not recorded
   Research scripts that generate screen descriptions, action reasoning and expected outcomes, then predict Android GUI actions using the resulting Chain-of-Action-Thought context.
+- [CODA](https://awesomecua.com/resources/github-openixclab-coda/) — Date not recorded
+  CODA coordinates a trainable planner ('Cerebrum') with a grounded GUI executor ('Cerebellum') via decoupled reinforcement learning on ScienceBoard.
 - [COLA demo](https://awesomecua.com/resources/github-alokia-cola-demo/) — Date not recorded
   Research demonstration of collaborative Windows GUI automation with dynamic task scheduling and recovery mechanisms.
+- [Computer-Use-Agent (Windows)](https://awesomecua.com/resources/github-nabhpatodi10-computer-use-agent/) — Date not recorded
+  LangGraph-based Windows computer-use agent combining UI Automation tree inspection, OmniParser visual grounding, and human confirmation gates.
 - [Cradle](https://awesomecua.com/resources/github-baai-agents-cradle/) — Date not recorded
   Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
+- [CrewAI](https://awesomecua.com/resources/github-joaomdmoura-crewai/) — Date not recorded
+  CrewAI is a Python framework for orchestrating role-playing autonomous AI agent teams and event-driven multi-step workflows.
+- [cua_agent](https://awesomecua.com/resources/github-lacassef-computeruse/) — Date not recorded
+  cua_agent is a modular Python computer-use framework with OS-agnostic planning, semantic UI grounding, and policy-checked desktop/browser drivers.
 - [D-PoT evaluation code](https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/) — Date not recorded
   Offline prompting and evaluation code for Dynamic Planning of Thoughts on Android-in-the-Wild, including action extraction and comparison with reference actions.
+- [DEIMOS (Environment-Aware Computer Agent)](https://awesomecua.com/resources/github-sakshamjuneja007-freaky-monkey/) — Date not recorded
+  Environment-aware autonomous computer-use agent that perceives OS state and executes multi-step desktop workflows.
+- [DevDesignAmitesh Browser Agent](https://awesomecua.com/resources/github-devdesignamitesh-browser-agent/) — Date not recorded
+  Autonomous AI web agent that plans and executes multi-step browser interactions from natural-language prompts.
+- [dsh-reasoning-bridge](https://awesomecua.com/resources/github-shangdi178-dsh-reasoning-bridge/) — Date not recorded
+  DeepSeek Harness plugin that offloads complex reasoning steps to logged-in web AI sessions (ChatGPT, Claude, Gemini) via browser control.
+- [ENVISIONS](https://awesomecua.com/resources/github-xufangzhi-envisions/) — Date not recorded
+  ENVISIONS is an environment-guided neural-symbolic self-training framework for language agents across symbolic reasoning and WebShop tasks.
+- [ENVS (Environment-Native Verified Search)](https://awesomecua.com/resources/github-artysicistz-envs/) — Date not recorded
+  ENVS is a post-training and verified tree-search pipeline for long-horizon GUI agents operating in live desktop and web environments.
+- [ExpActivator](https://awesomecua.com/resources/github-fyzhang1-expactivator/) — Date not recorded
+  ExpActivator selectively retrieves and verifies applicable historical interaction experiences for personalized GUI agents.
+- [FastAgent](https://awesomecua.com/resources/github-hkuds-fastagent/) — Date not recorded
+  FastAgent is a lightweight multi-agent orchestration framework by HKUDS for low-latency tool, browser, and desktop workflow execution.
+- [forge (Readable ReAct Agent)](https://awesomecua.com/resources/github-musokean-forge/) — Date not recorded
+  Modular Python ReAct agent framework with a 235-line core loop and 31 opt-in sandbox, browser, and computer-use modules.
+- [FSoft HyperAgent](https://awesomecua.com/resources/github-fsoft-ai4code-hyperagent/) — Date not recorded
+  FSoft HyperAgent coordinates Planner, Navigator, Code Editor, and Executor agents for repository-level software engineering tasks.
+- [Ghost in the Minecraft (GITM)](https://awesomecua.com/resources/github-opengvlab-gitm/) — Date not recorded
+  Ghost in the Minecraft (GITM) integrates LLMs with text-based knowledge and memory to complete the full Minecraft technology tree.
+- [GUI Agent Framework](https://awesomecua.com/resources/github-sjkncs-gui-agent-framework/) — Date not recorded
+  Modular block-based GUI automation framework combining VLM screen perception, LLM planning, Playwright browser control, and desktop actuation.
 - [GUI-CIDER research code](https://awesomecua.com/resources/github-wuzheng02-gui-cider/) — Date not recorded
   Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.
 - [GUI-ReWalk](https://awesomecua.com/resources/github-bytedance-gui-rewalk/) — Date not recorded
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
 - [GUIPivot](https://awesomecua.com/resources/github-zrw00-guipivot/) — Date not recorded
   Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
+- [Internet of Agents (IoA)](https://awesomecua.com/resources/github-openbmb-ioa/) — Date not recorded
+  Internet of Agents (IoA) is a distributed framework for orchestrating heterogeneous multi-agent collaboration across devices and tools.
+- [iOS Agent Harness](https://awesomecua.com/resources/github-a178960320-ios-agent-harness/) — Date not recorded
+  iOS Agent Harness runs a Manager-Executor-Reflector GUI agent loop on iPhones to automate cross-app tasks from natural language.
+- [JARVIS-1](https://awesomecua.com/resources/github-craftjarvis-jarvis-1/) — Date not recorded
+  JARVIS-1 is an open-world multimodal Minecraft agent with episodic multimodal memory and goal-conditioned keyboard/mouse control.
+- [kamalesh404 AgentOS](https://awesomecua.com/resources/github-kamalesh404-agentos/) — Date not recorded
+  Autonomous AI agent framework for orchestrating web browsing, coding, and desktop tasks.
+- [Language Agent Tree Search (LATS)](https://awesomecua.com/resources/github-lapisrocks-languageagenttreesearch/) — Date not recorded
+  Language Agent Tree Search (LATS) unifies LLM reasoning, acting, and Monte Carlo Tree Search with self-reflection on WebShop and programming tasks.
+- [LASER](https://awesomecua.com/resources/github-mayer123-laser/) — Date not recorded
+  LASER models interactive web navigation as state-space exploration with explicit state transitions and backtracking on WebShop.
+- [LiteWebAgent](https://awesomecua.com/resources/github-pathonai-litewebagent/) — Date not recorded
+  Open-source VLM web-agent framework providing Playwright browser control, planning, workflow memory, tree search, and FastAPI/Vercel deployment.
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/) — Date not recorded
   Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.
+- [LongHorizon-Harness](https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/) — Date not recorded
+  LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify-recover loop for multi-hour autonomous computer-use workflows.
+- [Lusipad Browser Agent](https://awesomecua.com/resources/github-lusipad-browser-agent/) — Date not recorded
+  Chrome sidebar autonomous AI browser agent featuring visual ROI perception, dual-process fast/slow cognition, and local LLM support.
+- [MAI](https://awesomecua.com/resources/github-fluxaster-mai/) — Date not recorded
+  MAI combines MaaFramework with multimodal LLMs in a Planner-Executor-Verifier loop for game and application GUI automation.
+- [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/) — Date not recorded
+  Mantis is a unified perception-reasoning-action computer-use agent that drives browsers and Xvfb desktop applications from structured plans.
+- [MERRICK](https://awesomecua.com/resources/github-simoncheungai-merrick/) — Date not recorded
+  Personal macOS assistant agent for planning, browser automation, and native desktop task execution.
+- [MindSearch](https://awesomecua.com/resources/github-internlm-mindsearch/) — Date not recorded
+  MindSearch coordinates a multi-agent WebPlanner and parallel WebSearcher graph to execute multi-step web information seeking.
+- [Minitap mobile-use](https://awesomecua.com/resources/github-minitap-ai-mobile-use/) — Date not recorded
+  Minitap mobile-use is a multi-agent mobile automation system that controls physical and emulated Android and iOS devices from natural language.
 - [MobA](https://awesomecua.com/resources/github-opendfm-moba/) — Date not recorded
   An Android agent that combines global task planning and memory with a local action executor, using reflection to revise mobile interaction steps.
+- [Mobile QA Agent](https://awesomecua.com/resources/github-sumanmadipeddi-mobile-qa-agent/) — Date not recorded
+  Mobile QA Agent is a Supervisor-Planner-Executor multi-agent system built on Agent S3 for automated Android app testing via ADB.
 - [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) — Date not recorded
   Mobile device agent family using visual interface interaction.
 - [Mobile-Agent-E code component](https://awesomecua.com/resources/component-x-plug-mobileagent-mobile-agent-e/) — Date not recorded
@@ -717,32 +866,108 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   An Android client and Python-server agent that learns reusable app subtasks through exploration, selection, derivation and memory recall.
 - [Mobilerun (formerly Droidrun)](https://awesomecua.com/resources/github-droidrun-mobilerun/) — Date not recorded
   A framework that combines screenshots and accessibility state with agent tools for mobile-device tasks through command-line and Python interfaces.
+- [MPO (Meta Plan Optimization)](https://awesomecua.com/resources/github-weiminxiong-mpo/) — Date not recorded
+  MPO optimizes reusable high-level meta-plans via preference learning to guide LLM agents on interactive web and decision-making tasks.
+- [Multi-Agent Browser](https://awesomecua.com/resources/github-sanzizlohar-multi-agent-browser/) — Date not recorded
+  Coordinates five specialized AI agents sharing a browser workspace to conduct collaborative web research.
+- [nanoAWM (Agent World Model Lab)](https://awesomecua.com/resources/github-jlov7-nanoawm/) — Date not recorded
+  nanoAWM is an inspectable Agent World Model laboratory for simulating action consequences in long-horizon tool and computer-use agents.
+- [Nanobrowser Free AI](https://awesomecua.com/resources/github-aminemabrouk17-nanobrowser-free-ai/) — Date not recorded
+  Privacy-focused Chrome extension multi-agent web automation assistant powered by free-tier Gemini models.
+- [NaturalGAIA & LightManus](https://awesomecua.com/resources/github-keles-coding-naturegaia/) — Date not recorded
+  NaturalGAIA and LightManus provide a hierarchical multi-agent framework with browser automation, code execution, and episodic memory.
+- [navforge](https://awesomecua.com/resources/github-huzjie-navforge/) — Date not recorded
+  navforge is a self-hosted orchestration framework for coordinating multi-step computer-use and browser navigation agents.
+- [NaviFlow](https://awesomecua.com/resources/github-marc-ing-navi-flow/) — Date not recorded
+  Supervised open-source AI browser agent for Chrome that plans, navigates, clicks, types, and verifies web workflows.
+- [Neurosim](https://awesomecua.com/resources/github-anaishowland-neurosim/) — Date not recorded
+  Neurosim is a Python framework for building, simulating, and evaluating multi-step AI and computer-use agent systems.
+- [O-yuan (启原) v3.0](https://awesomecua.com/resources/github-znfr60-o-yuan-agent/) — Date not recorded
+  Cross-platform general-purpose agent equipped with 28+ built-in tools, multi-model deliberation, GUI automation, and persistent shell.
+- [Oh My DSH](https://awesomecua.com/resources/github-secretxuan-oh-my-dsh/) — Date not recorded
+  Oh My DSH coordinates multi-agent teams with a shared compare-and-set task graph and native-vision Windows computer-use for DeepSeek Harness.
+- [OpenGUI](https://awesomecua.com/resources/github-core-mate-opengui/) — Date not recorded
+  OpenGUI is an Android GUI agent framework that combines screen perception, accessibility trees, and ADB actuation for real-device automation.
+- [OpenVINO Autonomous GUI Agent](https://awesomecua.com/resources/github-shehrozkashif-openvino-autonomous-gui-agent/) — Date not recorded
+  Fully local desktop GUI agent running five INT4 OpenVINO models for screen perception, planning, action execution, and step verification.
 - [OS-Copilot](https://awesomecua.com/resources/github-os-copilot-os-copilot/) — Date not recorded
   Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.
+- [OS-Symphony](https://awesomecua.com/resources/github-os-copilot-os-symphony/) — Date not recorded
+  OS-Symphony is a holistic computer-use agent framework combining a Reflection-Memory Agent, versatile toolset, and multimodal searcher.
+- [OWL (Optimized Workforce Learning)](https://awesomecua.com/resources/github-camel-ai-owl/) — Date not recorded
+  OWL is a multi-agent automation framework built on CAMEL-AI for browser interaction, document processing, and real-world task execution.
 - [PC-Agent](https://awesomecua.com/resources/github-gair-nlp-pc-agent/) — Date not recorded
   Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
 - [PC-Agent (X-PLUG component)](https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/) — Date not recorded
   Multi-agent desktop automation component for Windows and macOS, combining active perception, task decomposition and reflection for workflows spanning applications.
 - [Plan-and-Act](https://awesomecua.com/resources/github-squeezeailab-plan-and-act/) — Date not recorded
   A web-agent framework that separates high-level planning from action execution, with replanning and synthetic planner-data generation components.
+- [POK-Agent](https://awesomecua.com/resources/github-acekorneya-pok-agent/) — Date not recorded
+  POK-Agent is a Windows computer-use agent that pairs a cloud planner with a fast local actor and caches repeated UI workflows as skills.
+- [Prism-Shadow Travel Agent](https://awesomecua.com/resources/github-prism-shadow-travel-agent/) — Date not recorded
+  Open-source travel planning browser agent that searches and compares flights and hotels across live booking websites.
+- [PuterVision Behavior-MCP](https://awesomecua.com/resources/github-putervision-behavior-mcp/) — Date not recorded
+  High-frequency (~60Hz) in-browser behavior-tree execution engine exposed over the Model Context Protocol.
 - [RCI Agent](https://awesomecua.com/resources/github-posgnu-rci-agent/) — Date not recorded
   A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
+- [SCoR (Sparse Context Reset)](https://awesomecua.com/resources/github-huia711-scor/) — Date not recorded
+  Sparse Context Reset (SCoR) framework for preventing context overflow and drift in long-horizon GUI agents.
 - [ScreenAgent](https://awesomecua.com/resources/github-niuzaisheng-screenagent/) — Date not recorded
   Environment and agent in which a vision-language model controls real desktops over VNC with mouse and keyboard in plan, act and reflect stages, plus a hand-annotated dataset of daily computer tasks.
+- [ScreenPilot](https://awesomecua.com/resources/github-droppinganvil-screenpilot/) — Date not recorded
+  ScreenPilot is a local computer-use agent designed to run within 8GB of VRAM, combining screenshot planning with mouse and keyboard control.
+- [Search-o1](https://awesomecua.com/resources/github-sunnynexus-search-o1/) — Date not recorded
+  Search-o1 integrates agentic web search and document-in-reasoning refinement into large reasoning models for multi-hop question answering.
 - [Self-MAP](https://awesomecua.com/resources/github-magicgh-self-map/) — Date not recorded
   A conversational web-agent implementation with candidate ranking and memory-assisted action planning, including optional memory simplification, refinement and self-reflection modules.
+- [Semantic Kernel](https://awesomecua.com/resources/github-microsoft-semantic-kernel/) — Date not recorded
+  Semantic Kernel is an enterprise SDK for orchestrating multi-agent workflows, plugins, and memory across Python, .NET, and Java.
+- [Seven-Layer Web Agent & Benchmark](https://awesomecua.com/resources/github-xyyojl-web-agent/) — Date not recorded
+  Seven-layer LLM browser agent architecture paired with a 45-task hierarchical benchmark and reproducible execution artifacts.
+- [Solari Voice Agent](https://awesomecua.com/resources/github-muhammad-abdullahghani-solari-voice-agent/) — Date not recorded
+  Voice-directed autonomous computer-use agent built on Solari Desktop and LangGraph.
 - [StateAct](https://awesomecua.com/resources/github-ai-nikolai-stateact/) — Date not recorded
   State-tracking prompts and experiment runners for language agents, including a WebShop implementation alongside text-based environments.
+- [Steel Atlas](https://awesomecua.com/resources/github-steel-dev-atlas/) — Date not recorded
+  Steel Atlas is an open-web research and browser automation agent built on the Steel cloud browser runtime.
+- [SteP (Stacked LLM Policies)](https://awesomecua.com/resources/github-asappresearch-webagents-step/) — Date not recorded
+  SteP implements dynamically composed Markovian LLM policies for multi-step web navigation and task execution on WebArena.
+- [StrawManus](https://awesomecua.com/resources/github-painbaba-strawmanus/) — Date not recorded
+  Browser-control agent combining Manus's flat 12-tool action architecture with local Chromium automation.
 - [Synapse](https://awesomecua.com/resources/github-ltzheng-synapse/) — Date not recorded
   A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
+- [taskforge](https://awesomecua.com/resources/github-huzjie-taskforge/) — Date not recorded
+  taskforge is a long-horizon workflow orchestration engine combining multi-step planning, tool invocation, and GUI state verification.
+- [ToolCUA](https://awesomecua.com/resources/github-x-plug-toolcua/) — Date not recorded
+  ToolCUA trains computer-use agents to orchestrate hybrid MCP tool invocations and GUI actions on OSWorld-MCP.
+- [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/) — Date not recorded
+  Local multi-brain Windows AI desktop agent with visible computer control and verified action execution.
+- [TuriX-CUA](https://awesomecua.com/resources/github-turixai-turix-cua/) — Date not recorded
+  TuriX-CUA is a multi-agent desktop automation framework for macOS and Windows combining planner, actor, reflector, and memory skills.
+- [Two-Layer macOS GUI Agent](https://awesomecua.com/resources/github-eauchs-gui-agent/) — Date not recorded
+  Two-layer macOS GUI navigation agent that separates VLM screen perception from strategic LLM action planning.
 - [UFO](https://awesomecua.com/resources/github-microsoft-ufo/) — Date not recorded
   Windows agent framework for application and desktop automation.
+- [VillagerAgent & VillagerBench](https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/) — Date not recorded
+  VillagerAgent provides a directed-acyclic-graph multi-agent coordinator and the VillagerBench evaluation suite in Minecraft.
 - [VisionTasker](https://awesomecua.com/resources/github-akimotoayako-visiontasker/) — Date not recorded
   An Android automation implementation that translates screenshot-based UI understanding into language descriptions for step-by-step LLM planning and action execution.
+- [VLAA-GUI](https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/) — Date not recorded
+  VLAA-GUI provides a modular GUI automation framework that teaches agents when to stop, recover from errors, and search alternatives.
+- [vnc-use](https://awesomecua.com/resources/github-mayflower-vnc-use/) — Date not recorded
+  vnc-use is a LangGraph-based computer-use framework that drives remote desktop environments over VNC with multi-model LLM planners and hitl gates.
+- [Weave WebMCP](https://awesomecua.com/resources/github-doom2quake-weave/) — Date not recorded
+  Browser-native WebMCP idea-to-plan canvas where human users and web agents co-edit structured task plans.
 - [WebDreamer](https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/) — Date not recorded
   World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.
+- [WebThinker](https://awesomecua.com/resources/github-ruc-nlpir-webthinker/) — Date not recorded
+  WebThinker empowers large reasoning models to autonomously search, browse webpages, and draft research reports during deep thinking.
 - [WorkForceAgent-R1](https://awesomecua.com/resources/github-night-chen-workforceagent-r1/) — Date not recorded
   Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.
+- [ZetaTron](https://awesomecua.com/resources/github-itsmarcels-zetatron/) — Date not recorded
+  Self-directed local-first autonomous agent harness for Windows with desktop and browser execution capabilities.
+- [Zoom Search](https://awesomecua.com/resources/github-goofrey-zoom-search/) — Date not recorded
+  Zoom Search is a hierarchical web-search agent that previews lightweight page summaries before selectively fetching full webpage content.
 
 ## 学习资源
 

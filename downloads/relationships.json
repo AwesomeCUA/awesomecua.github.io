@@ -1,5 +1,5 @@
 {
-  "relation_count": 414,
+  "relation_count": 517,
   "semantics": "Reviewed semantic links.",
   "relations": [
     {
@@ -67,6 +67,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:19pine-ai/aoi",
+      "source_name": "AOI (Agent-Computer Observation Interface) & DynaCU-Bench",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/19PINE-AI/aoi/HEAD/README.md",
+      "target_id": "arxiv:2606.29472",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:19pine-ai/preact",
+      "source_name": "PreAct",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/19PINE-AI/PreAct/HEAD/README.md",
+      "target_id": "arxiv:2606.17929",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:aburns4/motif",
       "source_name": "MoTIF",
       "source_kind": "dataset",
@@ -75,11 +91,35 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:aburns4/textualforesight",
+      "source_name": "Textual Foresight",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/aburns4/textualforesight/HEAD/README.md",
+      "target_id": "arxiv:2406.07822",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:acrab-agentic-labs/appsim",
       "source_name": "AppSim-Bench",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md",
       "target_id": "arxiv:2609.07712",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:agentsea/osuniverse",
+      "source_name": "OSUniverse",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/agentsea/osuniverse/HEAD/README.md",
+      "target_id": "arxiv:2505.03570",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:ahnjaewoo/flashadventure",
+      "source_name": "FlashAdventure",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/ahnjaewoo/FlashAdventure/HEAD/README.md",
+      "target_id": "arxiv:2509.01052",
       "type": "documented_by"
     },
     {
@@ -99,11 +139,35 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:ai-secure/advweb",
+      "source_name": "AdvAgent (AdvWeb)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/AI-secure/AdvWeb/HEAD/README.md",
+      "target_id": "arxiv:2410.17401",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:akimotoayako/visiontasker",
       "source_name": "VisionTasker",
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/readme.md",
       "target_id": "arxiv:2312.11190",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:alexgill321/knows-benchmark",
+      "source_name": "KNOWS Benchmark",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/alexgill321/KNOWS-benchmark/HEAD/README.md",
+      "target_id": "arxiv:2609.30604",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:alibaba-nlp/webwalker",
+      "source_name": "WebWalker",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/Alibaba-NLP/WebWalker/HEAD/README.md",
+      "target_id": "arxiv:2501.07572",
       "type": "documented_by"
     },
     {
@@ -131,6 +195,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:amap-ml/longhorizon-harness",
+      "source_name": "LongHorizon-Harness",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/AMAP-ML/LongHorizon-Harness/HEAD/README.md",
+      "target_id": "arxiv:2608.01964",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:amazon-science/pae",
       "source_name": "Proposer-Agent-Evaluator (PAE)",
       "source_kind": "framework",
@@ -144,6 +216,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/README.md",
       "target_id": "arxiv:2402.06596",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:ant-8/gui-grounding-via-iterative-narrowing",
+      "source_name": "GUI Grounding via Iterative Narrowing",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ant-8/GUI-Grounding-via-Iterative-Narrowing/HEAD/README.md",
+      "target_id": "arxiv:2411.13591",
       "type": "documented_by"
     },
     {
@@ -171,11 +251,59 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:artysicistz/envs",
+      "source_name": "ENVS (Environment-Native Verified Search)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ArtysicistZ/ENVS/HEAD/README.md",
+      "target_id": "arxiv:2606.22948",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:asappresearch/webagents-step",
+      "source_name": "SteP (Stacked LLM Policies)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/asappresearch/webagents-step/HEAD/README.md",
+      "target_id": "arxiv:2310.03720",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:baai-agents/cradle",
       "source_name": "Cradle",
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/README.md",
       "target_id": "arxiv:2403.03186",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:berkeley-nlp/agent-eval-refine",
+      "source_name": "Autonomous Evaluation and Refinement of Digital Agents",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Berkeley-NLP/Agent-Eval-Refine/HEAD/README.md",
+      "target_id": "arxiv:2404.06474",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:bigtaige/mp-gui",
+      "source_name": "MP-GUI",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/BigTaige/MP-GUI/HEAD/README.md",
+      "target_id": "arxiv:2503.14021",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:bin123apple/gui_spotlight",
+      "source_name": "GUI-Spotlight",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/bin123apple/GUI_Spotlight/HEAD/README.md",
+      "target_id": "arxiv:2510.04039",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:bingozhang-verapraxis/longpuzzlebench",
+      "source_name": "LongPuzzleBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/bingozhang-verapraxis/LongPuzzleBench/HEAD/README.md",
+      "target_id": "arxiv:2609.34769",
       "type": "documented_by"
     },
     {
@@ -201,6 +329,14 @@
       "evidence_url": "https://raw.githubusercontent.com/browserbase/stagehand/HEAD/README.md",
       "target_id": "organization:browserbase",
       "type": "published_by"
+    },
+    {
+      "source_id": "github:buiilding/coact-1_implementation",
+      "source_name": "CoAct-1 Implementation",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/buiilding/Coact-1_Implementation/HEAD/README.md",
+      "target_id": "arxiv:2508.03923",
+      "type": "documented_by"
     },
     {
       "source_id": "github:bytedance-seed/agent-r",
@@ -275,6 +411,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:chenjshnn/object-detection-for-graphical-user-interface",
+      "source_name": "GUI Object Detection Benchmark & Models",
+      "source_kind": "tool",
+      "evidence_url": "https://raw.githubusercontent.com/chenjshnn/Object-Detection-for-Graphical-User-Interface/HEAD/README.md",
+      "target_id": "arxiv:2008.05132",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:chenwu98/agent-attack",
       "source_name": "Adversarial Web Agents",
       "source_kind": "benchmark",
@@ -299,6 +443,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:computer-use-agents/dart-gui",
+      "source_name": "DART-GUI",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Computer-use-agents/dart-gui/HEAD/README.md",
+      "target_id": "arxiv:2509.23866",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:cooelf/auto-gui",
       "source_name": "Auto-GUI / Auto-UI",
       "source_kind": "agent",
@@ -312,6 +464,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/CVC2233/AndroTMem/HEAD/README.md",
       "target_id": "arxiv:2603.18429",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:ddupont808/gpt-4v-act",
+      "source_name": "GPT-4V-Act",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/ddupont808/GPT-4V-Act/HEAD/README.md",
+      "target_id": "arxiv:2310.11441",
       "type": "documented_by"
     },
     {
@@ -427,6 +587,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:fyzhang1/dualtap",
+      "source_name": "DualTAP",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/fyzhang1/DualTAP/HEAD/README.md",
+      "target_id": "arxiv:2511.13248",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:fyzhang1/expactivator",
+      "source_name": "ExpActivator",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/fyzhang1/ExpActivator/HEAD/README.md",
+      "target_id": "arxiv:2609.33304",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:gair-nlp/pc-agent",
       "source_name": "PC-Agent",
       "source_kind": "agent",
@@ -451,6 +627,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:gameworld-project/gameworld",
+      "source_name": "GameWorld",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/gameworld-project/GameWorld/HEAD/README.md",
+      "target_id": "arxiv:2604.07429",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:garyyang12345/gui-harvest",
       "source_name": "GUI-HARVEST",
       "source_kind": "framework",
@@ -472,6 +656,22 @@
       "source_kind": "infrastructure",
       "evidence_url": "https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/README.md",
       "target_id": "arxiv:2105.13231",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:google-deepmind/pix2act",
+      "source_name": "Pix2Act",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/google-deepmind/pix2act/HEAD/README.md",
+      "target_id": "arxiv:2306.00245",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:google-research-datasets/rico_semantics",
+      "source_name": "RICO Semantics",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/rico_semantics/HEAD/README.md",
+      "target_id": "arxiv:2210.02663",
       "type": "documented_by"
     },
     {
@@ -507,6 +707,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:google-research/pix2struct",
+      "source_name": "Pix2Struct",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/google-research/pix2struct/HEAD/README.md",
+      "target_id": "arxiv:2210.03347",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:gui-libra/gui-libra",
+      "source_name": "GUI-Libra",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/GUI-Libra/GUI-Libra/HEAD/README.md",
+      "target_id": "arxiv:2602.22190",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:gydpku/pptc",
       "source_name": "PPTC",
       "source_kind": "benchmark",
@@ -531,11 +747,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:hithink-research/ccpo",
+      "source_name": "Compress2Focus (CCPO)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/HiThink-Research/CCPO/HEAD/README.md",
+      "target_id": "arxiv:2601.11631",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:hitsz-tmg/windowsworld",
       "source_name": "WindowsWorld",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md",
       "target_id": "arxiv:2604.27776",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:hkuds/cli-anything",
+      "source_name": "CLI-Anything",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/HKUDS/CLI-Anything/HEAD/README.md",
+      "target_id": "arxiv:2606.03854",
       "type": "documented_by"
     },
     {
@@ -595,6 +827,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:internlm/mindsearch",
+      "source_name": "MindSearch",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/InternLM/MindSearch/HEAD/README.md",
+      "target_id": "arxiv:2407.20183",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:ishan0102/vimgpt",
+      "source_name": "vimGPT",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/ishan0102/vimGPT/HEAD/README.md",
+      "target_id": "arxiv:2401.13649",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:jacklishufan/mobileworld",
       "source_name": "MobileWorldBench",
       "source_kind": "benchmark",
@@ -627,6 +875,30 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:jiamingzhang94/lgwm",
+      "source_name": "LGWM (Latent GUI World Model)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/jiamingzhang94/lgwm/HEAD/README.md",
+      "target_id": "arxiv:2610.11942",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:jianganghan/webfovea",
+      "source_name": "WebFovea",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/jianganghan/WebFovea/HEAD/README.md",
+      "target_id": "arxiv:2610.03036",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:jiutian-vl/simpagent",
+      "source_name": "SimpAgent",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/JiuTian-VL/SimpAgent/HEAD/README.md",
+      "target_id": "arxiv:2507.03730",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:kdegroup/ui-agile",
       "source_name": "UI-AGILE",
       "source_kind": "model",
@@ -651,6 +923,14 @@
       "type": "introduced_by"
     },
     {
+      "source_id": "github:lancopku/agent-backdoor-attacks",
+      "source_name": "BadAgents",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/lancopku/agent-backdoor-attacks/HEAD/README.md",
+      "target_id": "arxiv:2402.11208",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:laokuize/appagent-pro",
       "source_name": "AppAgent Pro",
       "source_kind": "agent",
@@ -667,11 +947,35 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:linjiaping1/re-prefill",
+      "source_name": "Re-Prefill",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/linjiaping1/Re-Prefill/HEAD/README.md",
+      "target_id": "arxiv:2605.12549",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:linziyang1999/vision-gui-assistant",
+      "source_name": "VGA (Vision GUI Assistant)",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/Linziyang1999/Vision-GUI-assistant/HEAD/README.md",
+      "target_id": "arxiv:2406.14056",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:llamatouch/llamatouch",
       "source_name": "LlamaTouch",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md",
       "target_id": "arxiv:2404.16054",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:llamatouch/vlm-reasoning-traces",
+      "source_name": "VLM-Reasoning-Traces",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/LlamaTouch/VLM-Reasoning-Traces/HEAD/README.md",
+      "target_id": "arxiv:2503.16788",
       "type": "documented_by"
     },
     {
@@ -683,11 +987,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:llm-in-sandbox/llm-in-sandbox",
+      "source_name": "LLM-in-Sandbox",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/llm-in-sandbox/llm-in-sandbox/HEAD/README.md",
+      "target_id": "arxiv:2601.16206",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:ltzheng/synapse",
       "source_name": "Synapse",
       "source_kind": "framework",
       "evidence_url": "https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50",
       "target_id": "arxiv:2306.07863",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:macpaw/macarena",
+      "source_name": "MacArena",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/MacPaw/MacArena/HEAD/README.md",
+      "target_id": "arxiv:2606.06560",
       "type": "documented_by"
     },
     {
@@ -721,6 +1041,30 @@
       "evidence_url": "https://raw.githubusercontent.com/magicgh/self-map/HEAD/README.md",
       "target_id": "url:bdfb50330deb97893ce4",
       "type": "uses"
+    },
+    {
+      "source_id": "github:martasumyk/cua-eval-and-finetuning",
+      "source_name": "CUA Evaluation & RL with Autonomous Feedback",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/martasumyk/cua-eval-and-finetuning/HEAD/README.md",
+      "target_id": "arxiv:2511.20067",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:martasumyk/cua-eval-and-finetuning",
+      "source_name": "CUA Evaluation & RL with Autonomous Feedback",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/martasumyk/cua-eval-and-finetuning/HEAD/README.md",
+      "target_id": "arxiv:2603.10577",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:mayer123/laser",
+      "source_name": "LASER",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/Mayer123/LASER/HEAD/README.md",
+      "target_id": "arxiv:2309.08172",
+      "type": "documented_by"
     },
     {
       "source_id": "github:mcgill-nlp/agent-reward-bench",
@@ -760,6 +1104,14 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/meituan/EvoCUA/HEAD/README.md",
       "target_id": "arxiv:2601.15876",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:metaagentx/nextgen-captchas",
+      "source_name": "Next-Gen CAPTCHAs",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/MetaAgentX/NextGen-CAPTCHAs/HEAD/README.md",
+      "target_id": "arxiv:2602.09012",
       "type": "documented_by"
     },
     {
@@ -851,6 +1203,30 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:minitap-ai/mobile-use",
+      "source_name": "Minitap mobile-use",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/minitap-ai/mobile-use/HEAD/README.md",
+      "target_id": "arxiv:2602.07787",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:minorjerry/openwebvoyager",
+      "source_name": "OpenWebVoyager",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/README.md",
+      "target_id": "arxiv:2401.13919",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:minorjerry/openwebvoyager",
+      "source_name": "OpenWebVoyager",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/README.md",
+      "target_id": "arxiv:2410.19609",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:minorjerry/webvoyager",
       "source_name": "WebVoyager",
       "source_kind": "benchmark",
@@ -883,11 +1259,51 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:mobilellm/droidbot-gpt",
+      "source_name": "DroidBot-GPT",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/MobileLLM/DroidBot-GPT/HEAD/README.md",
+      "target_id": "arxiv:2304.07061",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:mulongxie/uied",
+      "source_name": "UIED (UI Element Detection)",
+      "source_kind": "tool",
+      "evidence_url": "https://raw.githubusercontent.com/MulongXie/UIED/HEAD/README.md",
+      "target_id": "arxiv:2008.05132",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:multimodal-ai-engineering/preflight-bench",
+      "source_name": "Preflight-Bench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/multimodal-ai-engineering/preflight-bench/HEAD/README.md",
+      "target_id": "arxiv:2610.39282",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:murtyshikhar/nnetnav",
       "source_name": "NNetNav",
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md",
       "target_id": "arxiv:2410.02907",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:nano-muse/nanomuse",
+      "source_name": "nanoMuse",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/nano-muse/nanoMuse/HEAD/README.md",
+      "target_id": "arxiv:2610.08699",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:nicerwang/adinject",
+      "source_name": "AdInject",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/NicerWang/AdInject/HEAD/README.md",
+      "target_id": "arxiv:2505.21499",
       "type": "documented_by"
     },
     {
@@ -912,6 +1328,22 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/readme.md",
       "target_id": "arxiv:2401.10935",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:normal-computing/fuji-web",
+      "source_name": "Fuji-Web",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/normal-computing/fuji-web/HEAD/README.md",
+      "target_id": "arxiv:2402.07939",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:nossa-y/activity-frames",
+      "source_name": "activity-frames",
+      "source_kind": "tool",
+      "evidence_url": "https://raw.githubusercontent.com/nossa-y/activity-frames/HEAD/README.md",
+      "target_id": "arxiv:2608.05784",
       "type": "documented_by"
     },
     {
@@ -968,6 +1400,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/OpenGVLab/ZeroGUI/HEAD/README.md",
       "target_id": "arxiv:2505.23762",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:openixclab/coda",
+      "source_name": "CODA",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/OpenIXCLab/CODA/HEAD/README.md",
+      "target_id": "arxiv:2508.20096",
       "type": "documented_by"
     },
     {
@@ -1035,6 +1475,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:os-copilot/os-symphony",
+      "source_name": "OS-Symphony",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Symphony/HEAD/README.md",
+      "target_id": "arxiv:2601.07779",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:os-copilot/scienceboard",
       "source_name": "ScienceBoard",
       "source_kind": "benchmark",
@@ -1048,6 +1496,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/EIA_against_webagent/HEAD/README.md",
       "target_id": "arxiv:2409.11295",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:osu-nlp-group/explorer",
+      "source_name": "Explorer",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/Explorer/HEAD/README.md",
+      "target_id": "arxiv:2502.11357",
       "type": "documented_by"
     },
     {
@@ -1107,11 +1563,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:pathonai/litewebagent",
+      "source_name": "LiteWebAgent",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/PathOnAI/LiteWebAgent/HEAD/README.md",
+      "target_id": "arxiv:2503.02950",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:pathonaiorg/litewebagent",
       "source_name": "LiteWebAgent",
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/PathOnAI/LiteWebAgent/HEAD/README.md",
       "target_id": "arxiv:2503.02950",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:pockyitachi/q-reflector",
+      "source_name": "Q-Reflector",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/pockyitachi/Q-Reflector/HEAD/README.md",
+      "target_id": "arxiv:2608.05587",
       "type": "documented_by"
     },
     {
@@ -1131,6 +1603,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:princeton-ai2-lab/avenir-web",
+      "source_name": "Avenir-Web",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Princeton-AI2-Lab/Avenir-Web/HEAD/README.md",
+      "target_id": "arxiv:2602.02468",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:princeton-ai2-lab/zoomclick",
+      "source_name": "ZoomClick",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Princeton-AI2-Lab/ZoomClick/HEAD/README.md",
+      "target_id": "arxiv:2512.05941",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:princeton-nlp/webshop",
       "source_name": "WebShop",
       "source_kind": "benchmark",
@@ -1144,6 +1632,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md",
       "target_id": "arxiv:2605.26114",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:qwenlm/qwen3-vl",
+      "source_name": "Qwen3-VL / Qwen2.5-VL",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/QwenLM/Qwen3-VL/HEAD/README.md",
+      "target_id": "arxiv:2502.13923",
       "type": "documented_by"
     },
     {
@@ -1163,6 +1659,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:ruc-nlpir/webthinker",
+      "source_name": "WebThinker",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/RUC-NLPIR/WebThinker/HEAD/README.md",
+      "target_id": "arxiv:2504.21776",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:runamu/monday",
       "source_name": "MONDAY",
       "source_kind": "dataset",
@@ -1176,6 +1680,30 @@
       "source_kind": "benchmark",
       "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending",
       "target_id": "arxiv:2506.07672",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:saidgurbuz/deskforge",
+      "source_name": "DeskForge",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Saidgurbuz/deskforge/HEAD/README.md",
+      "target_id": "arxiv:2610.02320",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:salesforceairesearch/scuba",
+      "source_name": "SCUBA (Salesforce Computer Use Benchmark)",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/SalesforceAIResearch/SCUBA/HEAD/README.md",
+      "target_id": "arxiv:2509.26506",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:samsungsds-research-papers/mega-gui",
+      "source_name": "MEGA-GUI",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/samsungsds-research-papers/mega-gui/HEAD/README.md",
+      "target_id": "arxiv:2511.13087",
       "type": "documented_by"
     },
     {
@@ -1195,6 +1723,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:sentient-engineering/agent-q",
+      "source_name": "Agent Q",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/sentient-engineering/agent-q/HEAD/README.md",
+      "target_id": "arxiv:2408.07199",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:servicenow/agentlab",
       "source_name": "AgentLab",
       "source_kind": "framework",
@@ -1211,6 +1747,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:servicenow/groundcua",
+      "source_name": "GroundCUA",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/ServiceNow/GroundCUA/HEAD/README.md",
+      "target_id": "arxiv:2511.07332",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:servicenow/workarena",
       "source_name": "WorkArena",
       "source_kind": "benchmark",
@@ -1224,6 +1768,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md",
       "target_id": "arxiv:2407.05291",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:sharryxr/asil",
+      "source_name": "ASIL (Agent-Software Interaction Layer)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/sharryXR/ASIL/HEAD/README.md",
+      "target_id": "arxiv:2608.26991",
       "type": "documented_by"
     },
     {
@@ -1323,6 +1875,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "github:sjz5202/gui-aima",
+      "source_name": "GUI-AIMA",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/sjz5202/GUI-AIMA/HEAD/README.md",
+      "target_id": "arxiv:2511.00810",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:skyvern-ai/skyvern",
       "source_name": "Skyvern",
       "source_kind": "framework",
@@ -1387,6 +1947,30 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:sunzey/seagent",
+      "source_name": "SEAgent",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/SunzeY/SEAgent/HEAD/README.md",
+      "target_id": "arxiv:2508.04700",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:suraj-ranganath/osworld-gpt4o-mini-benchmark",
+      "source_name": "OSWorld GPT-4o-mini Benchmark Evaluation",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/suraj-ranganath/osworld-gpt4o-mini-benchmark/HEAD/README.md",
+      "target_id": "arxiv:2404.07972",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:tatra-labs/done-or-not",
+      "source_name": "done-or-not",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/tatra-labs/done-or-not/HEAD/README.md",
+      "target_id": "arxiv:2610.40578",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:tencent/points-gui",
       "source_name": "POINTS-GUI",
       "source_kind": "model",
@@ -1408,6 +1992,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md",
       "target_id": "arxiv:2412.14161",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:theodora-y/maskclaw",
+      "source_name": "MaskClaw",
+      "source_kind": "tool",
+      "evidence_url": "https://raw.githubusercontent.com/Theodora-Y/MaskClaw/HEAD/README.md",
+      "target_id": "arxiv:2605.28646",
       "type": "documented_by"
     },
     {
@@ -1439,6 +2031,14 @@
       "source_name": "CogAgent",
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/THUDM/CogAgent/HEAD/README.md",
+      "target_id": "arxiv:2312.08914",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:thudm/cogvlm",
+      "source_name": "CogVLM",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/CogVLM/HEAD/README.md",
       "target_id": "arxiv:2312.08914",
       "type": "documented_by"
     },
@@ -1531,6 +2131,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:trillion-labs/gworld",
+      "source_name": "gWorld (GuiWorld)",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/trillion-labs/gWorld/HEAD/README.md",
+      "target_id": "arxiv:2602.01576",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:trycua/lume",
       "source_name": "Lume",
       "source_kind": "infrastructure",
@@ -1555,6 +2163,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:ucsc-vlaa/vlaa-gui",
+      "source_name": "VLAA-GUI",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/UCSC-VLAA/VLAA-GUI/HEAD/README.md",
+      "target_id": "arxiv:2604.21375",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:ui-voyager/ui-voyager",
+      "source_name": "UI-Voyager",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ui-voyager/UI-Voyager/HEAD/README.md",
+      "target_id": "arxiv:2603.24533",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:uitron-hub/treecua",
       "source_name": "TreeCUA",
       "source_kind": "framework",
@@ -1571,11 +2195,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:v-droid-agent/v-droid",
+      "source_name": "V-Droid",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/V-Droid-Agent/V-Droid/HEAD/README.md",
+      "target_id": "arxiv:2503.15937",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:verisafeagent/verisafeagent",
       "source_name": "VeriSafe Agent",
       "source_kind": "framework",
       "evidence_url": "https://arxiv.org/html/2503.18492v2",
       "target_id": "arxiv:2503.18492",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:vg-gui-tasker/vg-gui-tasker",
+      "source_name": "VG-GUI-TASKER",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/VG-GUI-TASKER/VG-GUI-TASKER/HEAD/README.md",
+      "target_id": "arxiv:2606.29445",
       "type": "documented_by"
     },
     {
@@ -1603,6 +2243,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:wbsg-uni-mannheim/webmall",
+      "source_name": "WebMall",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/wbsg-uni-mannheim/WebMall/HEAD/README.md",
+      "target_id": "arxiv:2508.13024",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:weavebench/weavebench",
+      "source_name": "WeaveBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/weavebench/WeaveBench/HEAD/README.md",
+      "target_id": "arxiv:2606.09426",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:web-arena-x/visualwebarena",
       "source_name": "VisualWebArena",
       "source_kind": "benchmark",
@@ -1624,6 +2280,22 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/WebVLN/WebVLN/HEAD/README.md",
       "target_id": "arxiv:2312.15820",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:weiminxiong/mpo",
+      "source_name": "MPO (Meta Plan Optimization)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/WeiminXiong/MPO/HEAD/README.md",
+      "target_id": "arxiv:2503.02682",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:weiminxiong/video2gui",
+      "source_name": "Video2GUI",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/WeiminXiong/Video2GUI/HEAD/README.md",
+      "target_id": "arxiv:2605.14747",
       "type": "documented_by"
     },
     {
@@ -1691,6 +2363,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:wzq975/solo",
+      "source_name": "SOLO",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/WZq975/SOLO/HEAD/README.md",
+      "target_id": "arxiv:2609.34321",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:x-lance/meta-gui-baseline",
       "source_name": "META-GUI baseline",
       "source_kind": "framework",
@@ -1704,6 +2384,14 @@
       "source_kind": "infrastructure",
       "evidence_url": "https://raw.githubusercontent.com/X-LANCE/Mobile-Env/HEAD/README.md",
       "target_id": "arxiv:2305.08144",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:x-lance/websrc-baseline",
+      "source_name": "WebSRC",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/X-LANCE/WebSRC-Baseline/HEAD/README.md",
+      "target_id": "arxiv:2101.09465",
       "type": "documented_by"
     },
     {
@@ -1739,11 +2427,43 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:x-plug/osworld-mcp",
+      "source_name": "OSWorld-MCP",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/X-PLUG/OSWorld-MCP/HEAD/README.md",
+      "target_id": "arxiv:2510.24563",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:x-plug/toolcua",
+      "source_name": "ToolCUA",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/X-PLUG/ToolCUA/HEAD/README.md",
+      "target_id": "arxiv:2605.12481",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:x0x0x00/captchaarena",
+      "source_name": "CaptchaArena",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/X0X0X00/CaptchaArena/HEAD/README.md",
+      "target_id": "arxiv:2609.31957",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:xbmxb/coco-agent",
       "source_name": "CoCo-Agent",
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/xbmxb/CoCo-Agent/HEAD/README.md",
       "target_id": "arxiv:2402.11941",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:xbmxb/envdistraction",
+      "source_name": "EnvDistraction",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/xbmxb/EnvDistraction/HEAD/README.md",
+      "target_id": "arxiv:2408.02544",
       "type": "documented_by"
     },
     {
@@ -1760,6 +2480,22 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/README.md",
       "target_id": "arxiv:2412.04454",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:xlang-ai/cua-gym",
+      "source_name": "CUA-Gym",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/CUA-Gym/HEAD/README.md",
+      "target_id": "arxiv:2605.25624",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:xlang-ai/cua-gym-hub",
+      "source_name": "CUA-Gym-Hub",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/CUA-Gym-Hub/HEAD/README.md",
+      "target_id": "arxiv:2605.25624",
       "type": "documented_by"
     },
     {
@@ -1784,6 +2520,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/README.md",
       "target_id": "arxiv:2505.13227",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:xlang-ai/osworld-v2",
+      "source_name": "OSWorld 2.0",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-V2/HEAD/README.md",
+      "target_id": "arxiv:2606.29537",
       "type": "documented_by"
     },
     {
@@ -1827,11 +2571,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:yurunchen/harmonyguard",
+      "source_name": "HarmonyGuard",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/YurunChen/HarmonyGuard/HEAD/readme.md",
+      "target_id": "arxiv:2508.04010",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:yuxiangchai/amex-codebase",
       "source_name": "AMEX",
       "source_kind": "dataset",
       "evidence_url": "https://yxchai.com/AMEX/",
       "target_id": "arxiv:2407.17490",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:zhangyan-ucas/gui-sd-code",
+      "source_name": "GUI-SD",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/zhangyan-ucas/GUI-SD-code/HEAD/README.md",
+      "target_id": "arxiv:2605.00642",
       "type": "documented_by"
     },
     {
@@ -1856,6 +2616,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/zju-real/gui-rcpo/HEAD/README.md",
       "target_id": "arxiv:2508.05615",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:zjuscl/mvp",
+      "source_name": "MVP (Multiple View Prediction)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ZJUSCL/MVP/HEAD/README.md",
+      "target_id": "arxiv:2512.08529",
       "type": "documented_by"
     },
     {
@@ -2065,6 +2833,22 @@
       "evidence_url": "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent-E/HEAD/README.md",
       "target_id": "arxiv:2505.13909",
       "type": "documented_by"
+    },
+    {
+      "source_id": "url:149769d8bf07b7fbabdc",
+      "source_name": "VisualWebBench dataset",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/visualwebbench/VisualWebBench",
+      "target_id": "arxiv:2404.05955",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:149769d8bf07b7fbabdc",
+      "source_name": "VisualWebBench dataset",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/visualwebbench/VisualWebBench",
+      "target_id": "github:visualwebbench/visualwebbench",
+      "type": "component_of"
     },
     {
       "source_id": "url:15ed5fd3cd950d837f98",
@@ -2627,6 +3411,30 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:866251b68d6bba8b8ba6",
+      "source_name": "AgentRewardBench dataset",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/McGill-NLP/agent-reward-bench",
+      "target_id": "arxiv:2504.08942",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:866251b68d6bba8b8ba6",
+      "source_name": "AgentRewardBench dataset",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/McGill-NLP/agent-reward-bench",
+      "target_id": "github:mcgill-nlp/agent-reward-bench",
+      "type": "component_of"
+    },
+    {
+      "source_id": "url:8697c910c05d48152916",
+      "source_name": "AndroidDaily",
+      "source_kind": "benchmark",
+      "evidence_url": "https://huggingface.co/api/datasets/stepfun-ai/AndroidDaily",
+      "target_id": "arxiv:2512.15431",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:879d4e3e75e83582bde6",
       "source_name": "Gemini Computer Use",
       "source_kind": "model",
@@ -2641,6 +3449,22 @@
       "evidence_url": "https://huggingface.co/datasets/showlab/ShowUI-web/raw/main/README.md",
       "target_id": "arxiv:2411.17465",
       "type": "documented_by"
+    },
+    {
+      "source_id": "url:8a284d122d7dcf23479d",
+      "source_name": "Plan-and-Act Actor 70B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/xTRam1/plan-and-act-actor-70b",
+      "target_id": "arxiv:2503.09572",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:8a284d122d7dcf23479d",
+      "source_name": "Plan-and-Act Actor 70B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/xTRam1/plan-and-act-actor-70b",
+      "target_id": "github:squeezeailab/plan-and-act",
+      "type": "variant_of"
     },
     {
       "source_id": "url:8c9aaafb918aaf8b4e92",

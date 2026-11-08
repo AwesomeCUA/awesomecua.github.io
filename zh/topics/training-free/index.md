@@ -105,7 +105,17 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
 
 ## 工程与产业
 
+- [CanpGrid](https://awesomecua.com/resources/github-yeqi99-canpgrid/) — Date not recorded
+  CanpGrid provides an adaptive recursive image grid overlay for progressive coarse-to-fine visual localization by multimodal agents.
+- [GUI Grounding via Iterative Narrowing](https://awesomecua.com/resources/github-ant-8-gui-grounding-via-iterative-narrowing/) — Date not recorded
+  Implements training-free iterative visual crop-and-narrow refinement for improving MLLM coordinate grounding on GUI screenshots.
+- [Hoverclick](https://awesomecua.com/resources/github-neilyysun-ui-hoverclick/) — Date not recorded
+  Hoverclick introduces test-time cursor hover verification and visual attention guidance before committing GUI click actions.
+- [MarkForge](https://awesomecua.com/resources/github-lannistersyh-markforge/) — Date not recorded
+  MarkForge provides deterministic, auditable Set-of-Mark badge rendering and coordinate resolution for multimodal GUI agents.
 - [RCI Agent](https://awesomecua.com/resources/github-posgnu-rci-agent/) — Date not recorded
   A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
+- [Re-Prefill](https://awesomecua.com/resources/github-linjiaping1-re-prefill/) — Date not recorded
+  Re-Prefill calibrates prefill visual attention representations in vision-language models to improve zero-shot GUI grounding accuracy.
 - [TAG attention-driven GUI grounding](https://awesomecua.com/resources/github-heimingx-tag/) — Date not recorded
   Grounding and evaluation code that aggregates a pretrained vision-language model’s attention maps to localize requested interface elements without fine-tuning.

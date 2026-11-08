@@ -1,10 +1,44 @@
 # Computer-use agent infrastructure
 
-> 16 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 55 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## Aegis (Hardened Computer-Use Sandbox)
+
+Aegis is an off-screen, capability-dropped Docker browser and desktop sandbox for isolating computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-arihantdeva-aegis/
+- Original source: https://github.com/ArihantDeva/Aegis
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, safety-security, web-navigation
+- Evidence checked: 2026-11-04T16:30:06Z
+- ID: github:arihantdeva/aegis
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-arihantdeva-aegis/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ArihantDeva/Aegis/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ArihantDeva/Aegis/HEAD/README.md (retrieved 2026-11-04T16:30:06Z; SHA-256 aa17ac612882332a758d7370e6e94c4d910de21250f1bf21909737818890d94a)
+- https://raw.githubusercontent.com/ArihantDeva/Aegis/HEAD/LICENSE (retrieved 2026-11-04T16:34:26Z; SHA-256 30ea7dc4baabccbd96429bd6283ce4510ae2c14949e8a0febe77dabfa94899d7)
 
 ---
 
@@ -39,6 +73,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/agent-infra/sandbox/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 0fe34cd605e492c4c93f760e9caefd194f9c8ec7cfc3d4d4a927a1ac1613e51c)
 - https://raw.githubusercontent.com/agent-infra/sandbox/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## agent-desktop (macOS Multi-Account Sandbox)
+
+Gives AI computer-use agents a dedicated macOS user account and isolated desktop session viewable live from the main screen.
+
+- Catalog URL: https://awesomecua.com/resources/github-dianavocado181-agent-desktop/
+- Original source: https://github.com/dianavocado181/agent-desktop
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: sandbox, human-in-the-loop, automation
+- Evidence checked: 2026-11-04T16:30:13Z
+- ID: github:dianavocado181/agent-desktop
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-dianavocado181-agent-desktop/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/dianavocado181/agent-desktop/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/dianavocado181/agent-desktop/HEAD/README.md (retrieved 2026-11-04T16:30:13Z; SHA-256 7b9d639847f4c819ebceb046ba483eb16b48b8c31f1e1c30145d1c05fffdf582)
+- https://raw.githubusercontent.com/dianavocado181/agent-desktop/HEAD/LICENSE (retrieved 2026-11-04T16:34:27Z; SHA-256 3662b077370057da6b1aefa5b8a8dc5353ab8f52e2b44507e104790752ba0edd)
 
 ---
 
@@ -179,6 +247,141 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AriaOS
+
+AriaOS provisions a dedicated virtual machine desktop where computer-use agents operate GUI apps, terminals, and voice interactions.
+
+- Catalog URL: https://awesomecua.com/resources/github-jeremie225ci-ariaos/
+- Original source: https://github.com/jeremie225ci/ariaos
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: sandbox, automation, human-in-the-loop
+- Evidence checked: 2026-11-04T14:41:51Z
+- ID: github:jeremie225ci/ariaos
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-jeremie225ci-ariaos/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/jeremie225ci/ariaos/HEAD/README.md (retrieved 2026-11-04T14:41:51Z; SHA-256 bd3dba3f69fb9f30c13f1fd2c526832bf487f5d78513cdb3b3d1ad7e8db86454)
+
+---
+
+## Boxcar
+
+Boxcar provisions disposable Windows 11 and Ubuntu desktop virtual-machine sandboxes for LLM computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-status-labs-boxcar/
+- Original source: https://github.com/Status-Labs/boxcar
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, linux
+- Topics: sandbox, automation
+- Evidence checked: 2026-11-04T16:30:13Z
+- ID: github:status-labs/boxcar
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-status-labs-boxcar/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Status-Labs/boxcar/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Status-Labs/boxcar/HEAD/README.md (retrieved 2026-11-04T16:30:13Z; SHA-256 04c7a7574374f8d174bd8b71038cf68f5f8e7355bab09ecc2b28851801cd5a4f)
+- https://raw.githubusercontent.com/Status-Labs/boxcar/HEAD/LICENSE (retrieved 2026-11-04T16:34:27Z; SHA-256 7ffa5ae85889f636e32ba3208e33121972fa1b198d65feed0835a5d68a64b2a4)
+
+---
+
+## Browser Use macOS Harness
+
+Official Browser Use harness for provisioning and driving isolated macOS virtual machines and desktop sessions.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-macos-harness/
+- Original source: https://github.com/browser-use/macos-harness
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: sandbox, automation, evaluation
+- Evidence checked: 2026-11-04T17:20:45Z
+- ID: github:browser-use/macos-harness
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-use-macos-harness/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/browser-use/macos-harness/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browser-use/macos-harness/main/README.md (retrieved 2026-11-04T17:20:45Z; SHA-256 9a88db95ac412d4973a256c63a198d3c3bff88e1e271c505ba626ea83380431d)
+- https://raw.githubusercontent.com/browser-use/macos-harness/HEAD/LICENSE (retrieved 2026-11-04T17:26:36Z; SHA-256 5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631)
+
+---
+
+## browser-gateway
+
+browser-gateway is an open control plane and router across cloud browser providers with failover, persistent profiles, session replay, and MCP.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-gateway-browser-gateway/
+- Original source: https://github.com/browser-gateway/browser-gateway
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, sandbox, tool-integration
+- Evidence checked: 2026-11-04T15:45:54Z
+- ID: github:browser-gateway/browser-gateway
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-gateway-browser-gateway/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/browser-gateway/browser-gateway/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browser-gateway/browser-gateway/HEAD/README.md (retrieved 2026-11-04T15:45:54Z; SHA-256 78a688b8df40c66b3e54d45101bdf8722696fc32e5193e1e31aff09a3da00a38)
+- https://raw.githubusercontent.com/browser-gateway/browser-gateway/HEAD/LICENSE (retrieved 2026-11-04T15:57:28Z; SHA-256 26130c751b9fb3c2ffb639ae2b87f1b4a6a56a0bb9883a02270efa831a322472)
+
+---
+
 ## BrowserOS / BrowserOS neo
 
 Chromium-based browser implementations for external agent control and built-in assistant workflows, with session visibility and replay facilities.
@@ -219,6 +422,378 @@ The one repository includes BrowserOS neo and BrowserOS; they are retained as on
 
 ---
 
+## Browserplane
+
+Reference control plane for scaling remote Chromium browsers with a Postgres-backed session broker and live WebSocket tab mirroring.
+
+- Catalog URL: https://awesomecua.com/resources/github-mathisarends-browserplane/
+- Original source: https://github.com/mathisarends/browserplane
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web, desktop, linux
+- Topics: sandbox, web-navigation, human-in-the-loop
+- Evidence checked: 2026-11-04T18:11:34Z
+- ID: github:mathisarends/browserplane
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-mathisarends-browserplane/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mathisarends/browserplane/main/README.md (retrieved 2026-11-04T18:11:34Z; SHA-256 de7b80bbdd13b3f5c0482530fbbb64c9f83a4a86f92392b23d8249103e0152a8)
+
+---
+
+## BryantVanOrden OpenAgentFleet
+
+Self-hosted fleet orchestrator provisioning sandboxed Linux desktop containers for autonomous computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-bryantvanorden-openagentfleet/
+- Original source: https://github.com/BryantVanOrden/OpenAgentFleet
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, workflow, automation
+- Evidence checked: 2026-11-04T17:55:25Z
+- ID: github:bryantvanorden/openagentfleet
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-bryantvanorden-openagentfleet/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/BryantVanOrden/OpenAgentFleet/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/BryantVanOrden/OpenAgentFleet/master/README.md (retrieved 2026-11-04T17:55:25Z; SHA-256 0e6302d2b41686f4b841eaf2b00187f56081f8e86d7d4747114258e2c8a62598)
+- https://raw.githubusercontent.com/BryantVanOrden/OpenAgentFleet/HEAD/LICENSE (retrieved 2026-11-04T17:59:59Z; SHA-256 06a7c6844b9cd828ec458ed148e93689ab0183becb457e705d0baf34232f2f0a)
+
+---
+
+## Celesto
+
+Celesto provisions secure, persistent virtual desktop computers and browser sandboxes for AI agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-celestoai-celesto/
+- Original source: https://github.com/CelestoAI/celesto
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, automation, tool-integration
+- Evidence checked: 2026-11-04T15:45:42Z
+- ID: github:celestoai/celesto
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-celestoai-celesto/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/CelestoAI/celesto/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/CelestoAI/celesto/HEAD/README.md (retrieved 2026-11-04T15:45:42Z; SHA-256 73b0d71ffbdfd32739999d7835128c0fa172098cc72969800d7fdc7870fcea35)
+- https://raw.githubusercontent.com/CelestoAI/celesto/HEAD/LICENSE (retrieved 2026-11-04T15:57:27Z; SHA-256 71e471613d65fc7d158d3db41c2e23c1b9c2616004b003eff6be42aca572a995)
+
+---
+
+## ClawBox
+
+ClawBox runs OpenClaw and computer-use agents inside an isolated Apple Virtualization.framework macOS virtual machine sandbox.
+
+- Catalog URL: https://awesomecua.com/resources/github-coderkk1992-clawbox/
+- Original source: https://github.com/coderkk1992/clawbox
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: sandbox, safety-security
+- Evidence checked: 2026-11-04T13:12:12Z
+- ID: github:coderkk1992/clawbox
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-coderkk1992-clawbox/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/coderkk1992/clawbox/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/coderkk1992/clawbox/HEAD/README.md (retrieved 2026-11-04T13:12:12Z; SHA-256 a55d051e385092a1b10133ae136003e21176e88394809c695a6e90031c0a2f0f)
+- https://raw.githubusercontent.com/coderkk1992/clawbox/HEAD/LICENSE (retrieved 2026-11-04T13:23:47Z; SHA-256 58abd0589e775b9691ab36f2238eb3cf45cc380f62633d1973d09edd5530c15e)
+
+---
+
+## Computer Use (gVisor Cloud REPL)
+
+Provides a gVisor-isolated Linux desktop and Chromium container with persistent storage driven through a single JavaScript REPL MCP tool.
+
+- Catalog URL: https://awesomecua.com/resources/github-r33drichards-computer-use/
+- Original source: https://github.com/r33drichards/computer-use
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, web, linux
+- Topics: sandbox, tool-integration, automation
+- Evidence checked: 2026-11-04T14:41:50Z
+- ID: github:r33drichards/computer-use
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-r33drichards-computer-use/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/r33drichards/computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/r33drichards/computer-use/HEAD/README.md (retrieved 2026-11-04T14:41:50Z; SHA-256 aacf41385b3fb304471167a7d362a0b75cf95c55e75e94e8448e297384d94a7e)
+- https://raw.githubusercontent.com/r33drichards/computer-use/HEAD/LICENSE (retrieved 2026-11-04T14:45:48Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## Computer Use VM
+
+Provisions disposable, headless macOS virtual machines so computer-use agents can operate isolated desktops without window switching.
+
+- Catalog URL: https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/
+- Original source: https://github.com/ZimengXiong/computer-use-vm
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: sandbox, automation
+- Evidence checked: 2026-11-04T16:10:32Z
+- ID: github:zimengxiong/computer-use-vm
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ZimengXiong/computer-use-vm/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ZimengXiong/computer-use-vm/HEAD/README.md (retrieved 2026-11-04T16:10:32Z; SHA-256 4f862cff179e5b8bc86732f9290c8cf0b16818248ebc6f3ad597b0b522aa72bc)
+- https://raw.githubusercontent.com/ZimengXiong/computer-use-vm/HEAD/LICENSE (retrieved 2026-11-04T16:13:34Z; SHA-256 6eea6900ab361c0c79510291852ac0a73680f47b94cfa30a799dd505fdd03def)
+
+---
+
+## Cyberdesk
+
+Cyberdesk is an open-source virtual desktop orchestration platform and SDK for provisioning and controlling cloud desktop sandboxes for CUA.
+
+- Catalog URL: https://awesomecua.com/resources/github-cyberdesk-hq-cyberdesk/
+- Original source: https://github.com/cyberdesk-hq/cyberdesk
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: sandbox, automation
+- Evidence checked: 2026-11-04T13:12:12Z
+- ID: github:cyberdesk-hq/cyberdesk
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-cyberdesk-hq-cyberdesk/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/cyberdesk-hq/cyberdesk/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cyberdesk-hq/cyberdesk/HEAD/README.md (retrieved 2026-11-04T13:12:12Z; SHA-256 636970df49706e5e24f0bdec85533dbe7ecdcf4ef6643dd305432d0812146c1b)
+- https://raw.githubusercontent.com/cyberdesk-hq/cyberdesk/HEAD/LICENSE (retrieved 2026-11-04T13:23:48Z; SHA-256 7185eec52f413c0cd33064d059ace77edf0f0e364f9a72ec6c03938e13043174)
+
+---
+
+## Deck
+
+Deck is an open-source desktop cockpit for managing isolated local AI agent sandboxes, desktop sessions, and developer handoffs.
+
+- Catalog URL: https://awesomecua.com/resources/github-cofy-x-deck/
+- Original source: https://github.com/cofy-x/deck
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, windows, linux
+- Topics: sandbox, workflow, observability
+- Evidence checked: 2026-11-04T14:41:50Z
+- ID: github:cofy-x/deck
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-cofy-x-deck/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/cofy-x/deck/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cofy-x/deck/HEAD/README.md (retrieved 2026-11-04T14:41:50Z; SHA-256 135ee3b79d27f487fc1639e35dbf03863c76423328948fe41c6acca33406bf54)
+- https://raw.githubusercontent.com/cofy-x/deck/HEAD/LICENSE (retrieved 2026-11-04T14:45:48Z; SHA-256 f8ea889b2858a2976f6593b13c36ea3433b8009d05f47224f070c28ea7edf223)
+
+---
+
+## DeskSwarm
+
+Self-hosted fleet manager for provisioning and dispatching natural-language tasks across parallel XFCE Linux desktop sandboxes.
+
+- Catalog URL: https://awesomecua.com/resources/github-ahmedvnabil-deskswarm/
+- Original source: https://github.com/ahmedvnabil/deskswarm
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, workflow, automation
+- Evidence checked: 2026-11-04T16:51:56Z
+- ID: github:ahmedvnabil/deskswarm
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ahmedvnabil-deskswarm/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ahmedvnabil/deskswarm/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ahmedvnabil/deskswarm/HEAD/README.md (retrieved 2026-11-04T16:51:56Z; SHA-256 13650d80a7e88bcde5c3ae14bd1312aa4d9f5456f28ba3f91bcca6db8215f42a)
+- https://raw.githubusercontent.com/ahmedvnabil/deskswarm/HEAD/LICENSE (retrieved 2026-11-04T16:56:32Z; SHA-256 993dce2047a9b007d985e0ac154ffe7da3550c225a758492be30f3e613c385e2)
+
+---
+
+## Dockur Windows
+
+Dockur Windows runs full Windows desktop environments inside Docker/KVM containers with web VNC viewer support for agent sandboxes.
+
+- Catalog URL: https://awesomecua.com/resources/github-dockur-windows/
+- Original source: https://github.com/dockur/windows
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, linux
+- Topics: sandbox, evaluation
+- Evidence checked: 2026-11-04T13:12:15Z
+- ID: github:dockur/windows
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-dockur-windows/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/dockur/windows/HEAD/readme.md (retrieved 2026-11-04T13:12:15Z; SHA-256 29875eaf1d84f70a016f4dee7473159d772569133a38f11dd53a462d91722bd0)
+
+---
+
+## DroidFleet
+
+Open-source Android device fleet management and orchestration platform for mobile automation and testing.
+
+- Catalog URL: https://awesomecua.com/resources/github-c00l-k1d-droidfleet/
+- Original source: https://github.com/c00l-k1D/DroidFleet
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: sandbox, mobile-navigation, automation
+- Evidence checked: 2026-11-04T17:55:08Z
+- ID: github:c00l-k1d/droidfleet
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-c00l-k1d-droidfleet/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/c00l-k1D/DroidFleet/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/c00l-k1D/DroidFleet/main/README.md (retrieved 2026-11-04T17:55:08Z; SHA-256 2c81bd0512f9cb720b37a48aad11a1dbc90aa0aa6c5dcce9c60cd62499e812eb)
+- https://raw.githubusercontent.com/c00l-k1D/DroidFleet/HEAD/LICENSE (retrieved 2026-11-04T18:00:00Z; SHA-256 04fec2d93269fbe25286043f5109a98fa92960b3ebc61da5f908a5cf08e46d87)
+
+---
+
 ## E2B Desktop
 
 Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driven from Python or JavaScript SDKs with screen streaming, mouse, keyboard and window control, screenshots and shell.
@@ -253,6 +828,141 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## EdgeBox
+
+EdgeBox provisions isolated local Linux desktop virtual machines with WebRTC streaming and snapshot rollback for running computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-bigppwong-edgebox/
+- Original source: https://github.com/BIGPPWONG/EdgeBox
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, macos, linux
+- Topics: sandbox, safety-security
+- Evidence checked: 2026-11-04T13:12:08Z
+- ID: github:bigppwong/edgebox
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-bigppwong-edgebox/record.json
+
+### License declarations
+
+- code: GPL-3.0 — https://raw.githubusercontent.com/BIGPPWONG/EdgeBox/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/BIGPPWONG/EdgeBox/HEAD/README.md (retrieved 2026-11-04T13:12:08Z; SHA-256 b236527db4523e9238add95c81e376d55188ae645452b5dbe9f5fa58511f19e3)
+- https://raw.githubusercontent.com/BIGPPWONG/EdgeBox/HEAD/LICENSE (retrieved 2026-11-04T13:23:47Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
+
+---
+
+## GhostDesk
+
+GhostDesk is an MCP server and sandboxed virtual desktop runtime that gives LLM agents screen vision, mouse/keyboard control, and shell access.
+
+- Catalog URL: https://awesomecua.com/resources/github-yv17labs-ghostdesk/
+- Original source: https://github.com/YV17labs/GhostDesk
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, windows, macos
+- Topics: sandbox, tool-integration, automation
+- Evidence checked: 2026-11-04T15:45:53Z
+- ID: github:yv17labs/ghostdesk
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-yv17labs-ghostdesk/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/YV17labs/GhostDesk/HEAD/README.md (retrieved 2026-11-04T15:45:53Z; SHA-256 78c8e5365563640bfbefb321496647aa14244ee8a0863f2907652dc3afd78fff)
+
+---
+
+## Gloria
+
+Remote Chromium workstation for AI agents and human operators exposed over Model Context Protocol and noVNC.
+
+- Catalog URL: https://awesomecua.com/resources/github-sh7vansh-gloria/
+- Original source: https://github.com/sh7vansh/gloria
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, tool-integration, web-navigation
+- Evidence checked: 2026-11-04T17:30:24Z
+- ID: github:sh7vansh/gloria
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-sh7vansh-gloria/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/sh7vansh/gloria/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sh7vansh/gloria/main/README.md (retrieved 2026-11-04T17:30:24Z; SHA-256 e0c4dd648400085b1ed5f51a3a92486378b00c0fa32cc7f12a810e65ccef93dd)
+- https://raw.githubusercontent.com/sh7vansh/gloria/HEAD/LICENSE (retrieved 2026-11-04T17:39:45Z; SHA-256 748c15ffb41af4d1b318e6e0c65f571503f8f6f6755f3e64acc2a90683ed78e6)
+
+---
+
+## Gloria Headless
+
+Containerized headless Chromium environment with native Model Context Protocol integration for autonomous web agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-sh7vansh-gloria-headless/
+- Original source: https://github.com/sh7vansh/gloria-headless
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, tool-integration, web-navigation
+- Evidence checked: 2026-11-04T17:30:37Z
+- ID: github:sh7vansh/gloria-headless
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-sh7vansh-gloria-headless/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/sh7vansh/gloria-headless/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sh7vansh/gloria-headless/main/README.md (retrieved 2026-11-04T17:30:37Z; SHA-256 d7fb4c3fa040771cc3f1f5338cd480da68134227f60136e68f00c5d203199d4c)
+- https://raw.githubusercontent.com/sh7vansh/gloria-headless/HEAD/LICENSE (retrieved 2026-11-04T17:39:45Z; SHA-256 ecaee72eec962ed8e390279ee54a398b964923faff9a2353bf0ecf743ba09cad)
+
+---
+
 ## Gobii Platform
 
 Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.
@@ -284,6 +994,107 @@ Release 2.31.0 dated 2026-08-11. The hosted product is at gobii.ai. Declared lic
 
 - https://raw.githubusercontent.com/gobii-ai/gobii-platform/c9929bf8ea59b4695b99dcab59aa6c97a09c5bdb/README.md (retrieved 2026-11-06T16:36:28Z; SHA-256 5d31163a404be6ae48567ad0bbbb522165d7f31564162b5f7b70becdf2c5b861)
 - https://raw.githubusercontent.com/gobii-ai/gobii-platform/HEAD/LICENSE (retrieved 2026-11-06T09:57:58Z; SHA-256 1a42ae4dd02e776bc265cae342b22900d0d44a50d5e11d4f011fb4c4558fdbbb)
+
+---
+
+## Harborage
+
+On-demand pool manager providing isolated headless browser sessions for concurrent AI web agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-vadym-iefremov-harborage/
+- Original source: https://github.com/vadym-iefremov/harborage
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web, desktop, linux
+- Topics: sandbox, web-navigation, efficiency
+- Evidence checked: 2026-11-04T17:55:12Z
+- ID: github:vadym-iefremov/harborage
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-vadym-iefremov-harborage/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/vadym-iefremov/harborage/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vadym-iefremov/harborage/main/README.md (retrieved 2026-11-04T17:55:12Z; SHA-256 e7751e6a532becc7c58ef03272786109b979e055a6f7a146b9357f5c619fc5a6)
+- https://raw.githubusercontent.com/vadym-iefremov/harborage/HEAD/LICENSE (retrieved 2026-11-04T18:00:01Z; SHA-256 3227b844419c05c509d7b45dc72e6cd00ccf585ef22c8dda6439c8d465cd11a6)
+
+---
+
+## HeroDesktop
+
+HeroDesktop is an open-source virtual desktop sandbox for running and observing AI computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-deathlegionteamlk-herodesktop/
+- Original source: https://github.com/deathlegionteamlk/herodesktop
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, automation
+- Evidence checked: 2026-11-04T16:30:09Z
+- ID: github:deathlegionteamlk/herodesktop
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-deathlegionteamlk-herodesktop/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/deathlegionteamlk/herodesktop/HEAD/README.md (retrieved 2026-11-04T16:30:09Z; SHA-256 3306458c78df7c91afe1c93c1e029244b78548c17e23dc8358eeabf08e98982e)
+
+---
+
+## Latere Sandbox Images
+
+Container images for coding and computer-use desktop agents compatible with Docker, Podman, and Cella sandboxes.
+
+- Catalog URL: https://awesomecua.com/resources/github-latere-ai-sandbox-images/
+- Original source: https://github.com/latere-ai/sandbox-images
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, automation
+- Evidence checked: 2026-11-04T16:10:26Z
+- ID: github:latere-ai/sandbox-images
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-latere-ai-sandbox-images/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/latere-ai/sandbox-images/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/latere-ai/sandbox-images/HEAD/README.md (retrieved 2026-11-04T16:10:26Z; SHA-256 e5b1771e3d6f24f30f62abd831b8d03f9a4560ed5ab9798484ef8e52c335fee9)
+- https://raw.githubusercontent.com/latere-ai/sandbox-images/HEAD/LICENSE (retrieved 2026-11-04T16:13:33Z; SHA-256 eb099e354b2f29a5d34e5b7520ee99cb7e7563bff94457dd2631d632d074c21d)
 
 ---
 
@@ -352,6 +1163,108 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/X-LANCE/Mobile-Env/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 fa70fd96c57a163404b77431f89dd16864ed104d7160e347742ff87587229961)
 - https://raw.githubusercontent.com/X-LANCE/Mobile-Env/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd)
+
+---
+
+## modal-computer-use
+
+Provides daemon-first computer-use primitives for provisioning and controlling GUI desktops inside Modal cloud sandboxes.
+
+- Catalog URL: https://awesomecua.com/resources/github-ashtonchew-modal-computer-use/
+- Original source: https://github.com/ashtonchew/modal-computer-use
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, automation, tool-integration
+- Evidence checked: 2026-11-04T16:10:35Z
+- ID: github:ashtonchew/modal-computer-use
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ashtonchew-modal-computer-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ashtonchew/modal-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ashtonchew/modal-computer-use/HEAD/README.md (retrieved 2026-11-04T16:10:35Z; SHA-256 6cf09e30c5d0651e192873f69f164b31a540765cb810b5a1743f25f831565eb5)
+- https://raw.githubusercontent.com/ashtonchew/modal-computer-use/HEAD/LICENSE (retrieved 2026-11-04T16:13:34Z; SHA-256 433d0647dfa9ba0ac3d1ae700fb8a4b2aa9c1d947ab44c4891c25fd4c492606b)
+
+---
+
+## Nehemiah
+
+Nehemiah provisions on-demand Linux Firecracker microVMs equipped with a browser and desktop environment for AI agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-boringcomputers-nehemiah/
+- Original source: https://github.com/boringcomputers/nehemiah
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, automation
+- Evidence checked: 2026-11-04T16:30:14Z
+- ID: github:boringcomputers/nehemiah
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-boringcomputers-nehemiah/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/boringcomputers/nehemiah/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/boringcomputers/nehemiah/HEAD/README.md (retrieved 2026-11-04T16:30:14Z; SHA-256 c338e02476f75edcb60dd3ea282ef83f157ecd313d1d1759f5d0bf85e96051d1)
+- https://raw.githubusercontent.com/boringcomputers/nehemiah/HEAD/LICENSE (retrieved 2026-11-04T16:34:28Z; SHA-256 fafbae0e5a3e7b4f53c5af72c01063307bdb88b0c50bd718a13d52e5053a7836)
+
+---
+
+## Neo Lab
+
+Neo Lab is a macOS computer-use sandbox for recording demonstrations, replaying skills, and testing GUI automation plans.
+
+- Catalog URL: https://awesomecua.com/resources/github-belarusian-neo-lab/
+- Original source: https://github.com/belarusian/neo-lab
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: sandbox, recording, imitation-learning
+- Evidence checked: 2026-11-04T16:10:27Z
+- ID: github:belarusian/neo-lab
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-belarusian-neo-lab/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/belarusian/neo-lab/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/belarusian/neo-lab/HEAD/README.md (retrieved 2026-11-04T16:10:27Z; SHA-256 dae375b5cf8ec65725f59c59effad2a01c365acff77307ba777225f4f02083c5)
+- https://raw.githubusercontent.com/belarusian/neo-lab/HEAD/LICENSE (retrieved 2026-11-04T16:13:33Z; SHA-256 a4b0adddb1a5f3cb41b2c486db5bff302c0fdef759d8b0feef6c95d6f9e4d1e8)
 
 ---
 
@@ -455,6 +1368,244 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## qdesk
+
+qdesk is an open-source AI agent desktop sandbox providing an isolated Linux and Chromium environment controllable over HTTP.
+
+- Catalog URL: https://awesomecua.com/resources/github-jackwangfeng-qdesk/
+- Original source: https://github.com/jackwangfeng/qdesk
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, automation, web-navigation
+- Evidence checked: 2026-11-04T16:10:32Z
+- ID: github:jackwangfeng/qdesk
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-jackwangfeng-qdesk/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/jackwangfeng/qdesk/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/jackwangfeng/qdesk/HEAD/README.md (retrieved 2026-11-04T16:10:32Z; SHA-256 f82789dc3c5a50b4ba53f500279cca720ce6e2be0b77b015c609d58d4c4b41d3)
+- https://raw.githubusercontent.com/jackwangfeng/qdesk/HEAD/LICENSE (retrieved 2026-11-04T16:13:34Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## Qubicl
+
+Provisions isolated local virtual computers so AI agents can operate a private desktop without touching the host session.
+
+- Catalog URL: https://awesomecua.com/resources/github-eldanring-qubicl/
+- Original source: https://github.com/EldanRing/qubicl
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, linux, macos, windows
+- Topics: sandbox, automation, tool-integration
+- Evidence checked: 2026-11-04T17:55:02Z
+- ID: github:eldanring/qubicl
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-eldanring-qubicl/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/EldanRing/qubicl/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/EldanRing/qubicl/main/README.md (retrieved 2026-11-04T17:55:02Z; SHA-256 21f73439692387742525b3cf76654b3a25290a879a5cb1a57ce959a5d72a6c08)
+- https://raw.githubusercontent.com/EldanRing/qubicl/HEAD/LICENSE (retrieved 2026-11-04T18:00:00Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## QuickDesk
+
+QuickDesk is an AI-native remote desktop client and host with a built-in MCP server for streaming screens and controlling remote computers.
+
+- Catalog URL: https://awesomecua.com/resources/github-barry-ran-quickdesk/
+- Original source: https://github.com/barry-ran/QuickDesk
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, macos, linux
+- Topics: sandbox, tool-integration, automation
+- Evidence checked: 2026-11-04T13:12:07Z
+- ID: github:barry-ran/quickdesk
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-barry-ran-quickdesk/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/barry-ran/QuickDesk/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/barry-ran/QuickDesk/HEAD/README.md (retrieved 2026-11-04T13:12:07Z; SHA-256 b680079ae63de3dc512e0c5aa32859853845093ba80551035c0dcef88e92e81f)
+- https://raw.githubusercontent.com/barry-ran/QuickDesk/HEAD/LICENSE (retrieved 2026-11-04T13:23:46Z; SHA-256 d240b16fa0641a0e177db43a7497758796e7992ef8e365139d8d37a8edcff462)
+
+---
+
+## Relay AI Virtual Desktop
+
+Browser-streamed Docker Linux desktop shared between humans and AI agents with a Go MCP computer-use server.
+
+- Catalog URL: https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/
+- Original source: https://github.com/jahrulnr/virtual-desktop
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, human-in-the-loop, tool-integration
+- Evidence checked: 2026-11-04T16:51:58Z
+- ID: github:jahrulnr/virtual-desktop
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-jahrulnr-virtual-desktop/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/jahrulnr/virtual-desktop/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/jahrulnr/virtual-desktop/HEAD/README.md (retrieved 2026-11-04T16:51:58Z; SHA-256 ce7545af490dbc97d69e2572d50d30292575430119e4a18eb52308be6cb2ce27)
+- https://raw.githubusercontent.com/jahrulnr/virtual-desktop/HEAD/LICENSE (retrieved 2026-11-04T16:56:33Z; SHA-256 5328602e68c0bb074983c9db8326f962ef69fa675c72dacc763c6929c3fe61f9)
+
+---
+
+## Rocuronium
+
+Isolates macOS computer-use agents inside a separate login session while rendering a live visible-agent overlay on the host screen.
+
+- Catalog URL: https://awesomecua.com/resources/github-kageroumado-rocuronium/
+- Original source: https://github.com/kageroumado/rocuronium
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: sandbox, observability, automation
+- Evidence checked: 2026-11-04T17:30:35Z
+- ID: github:kageroumado/rocuronium
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-kageroumado-rocuronium/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/kageroumado/rocuronium/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/kageroumado/rocuronium/main/README.md (retrieved 2026-11-04T17:30:35Z; SHA-256 6a65ab42755bc360d106967dc2fabfafc0edb07c5f00a95b12bee877d637db83)
+- https://raw.githubusercontent.com/kageroumado/rocuronium/HEAD/LICENSE (retrieved 2026-11-04T17:39:43Z; SHA-256 59f536d07c03b034c1f81607e4d660975e2bc26f407ddafca73686cff097c26f)
+
+---
+
+## Sandbar
+
+Sandbar provisions isolated cloud Ubuntu desktop virtual machines equipped with OpenClaw and VNC streaming for computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-jdrolls-sandbar-public/
+- Original source: https://github.com/jdrolls/sandbar-public
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, automation
+- Evidence checked: 2026-11-04T15:45:42Z
+- ID: github:jdrolls/sandbar-public
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-jdrolls-sandbar-public/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/jdrolls/sandbar-public/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/jdrolls/sandbar-public/HEAD/README.md (retrieved 2026-11-04T15:45:42Z; SHA-256 31f36865be77b3e97cdbdd509234151d2de9632a01a9ce9d85d130f5380b1454)
+- https://raw.githubusercontent.com/jdrolls/sandbar-public/HEAD/LICENSE (retrieved 2026-11-04T15:57:27Z; SHA-256 068103f5aa936942e1d5e63937a6b5fbc9160345d7a891138c514d0a0c8a3dc0)
+
+---
+
+## Sandbox0
+
+Sandbox0 is an open-source cloud sandbox platform with persistent storage volumes and sub-second microVM/container resume for AI agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-sandbox0-ai-sandbox0/
+- Original source: https://github.com/sandbox0-ai/sandbox0
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: sandbox, safety-security
+- Evidence checked: 2026-11-04T13:12:34Z
+- ID: github:sandbox0-ai/sandbox0
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-sandbox0-ai-sandbox0/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/sandbox0-ai/sandbox0/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sandbox0-ai/sandbox0/HEAD/README.md (retrieved 2026-11-04T13:12:34Z; SHA-256 7ac283d315c474b5afd3e3b9b0697363aecee07638127715ab995fff289ca485)
+- https://raw.githubusercontent.com/sandbox0-ai/sandbox0/HEAD/LICENSE (retrieved 2026-11-04T13:46:53Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 ## ScienceBoard VMware environment
 
 A prebuilt Ubuntu virtual-machine archive containing the software environment used for ScienceBoard scientific computer-use tasks.
@@ -492,6 +1643,74 @@ The public Hub manifest contains VM.zip. This is an environment image, not neura
 
 ---
 
+## SentinelDesk
+
+Collaborative Linux desktop streamed to the browser where humans and AI agents share a workspace.
+
+- Catalog URL: https://awesomecua.com/resources/github-sentineldesk-desktop/
+- Original source: https://github.com/sentineldesk/desktop
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, human-in-the-loop, automation
+- Evidence checked: 2026-11-04T17:30:34Z
+- ID: github:sentineldesk/desktop
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-sentineldesk-desktop/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/sentineldesk/desktop/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sentineldesk/desktop/main/README.md (retrieved 2026-11-04T17:30:34Z; SHA-256 9938ba4e669fb94731e4a0d454875390789eec23db98a2bfbd6876a52659add0)
+- https://raw.githubusercontent.com/sentineldesk/desktop/HEAD/LICENSE (retrieved 2026-11-04T17:39:44Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## SpaceO
+
+Gives AI computer-use agents dedicated virtual macOS displays so they operate real apps without taking over the user's screen or cursor.
+
+- Catalog URL: https://awesomecua.com/resources/github-parthjadhav-spaceo/
+- Original source: https://github.com/ParthJadhav/SpaceO
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: sandbox, automation
+- Evidence checked: 2026-11-04T16:51:52Z
+- ID: github:parthjadhav/spaceo
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-parthjadhav-spaceo/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ParthJadhav/SpaceO/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ParthJadhav/SpaceO/HEAD/README.md (retrieved 2026-11-04T16:51:52Z; SHA-256 e3883f8c1fca7d4ab7ac924d058283450d0663129ee1654ae738dd5f7e8d9e2b)
+- https://raw.githubusercontent.com/ParthJadhav/SpaceO/HEAD/LICENSE (retrieved 2026-11-04T16:56:32Z; SHA-256 f2027a5e29ee0bfafe5460c50d75dbf19d965100b8048ecc98dc905b6fe1362c)
+
+---
+
 ## Steel Browser
 
 Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
@@ -523,6 +1742,73 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 668949f121cb5a8ac262a8d3222a31eaee6692bfc0de9b86e60ae04f885ccc9b)
 - https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## Tailorec Browser Orchestrator
+
+Run-isolated browser orchestration service that converts webpages into semantic snapshots with stable element references.
+
+- Catalog URL: https://awesomecua.com/resources/github-tailorec-tailorec-browser-orch/
+- Original source: https://github.com/Tailorec/tailorec-browser-orch
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web, desktop, linux
+- Topics: sandbox, web-navigation, screen-understanding
+- Evidence checked: 2026-11-04T15:45:45Z
+- ID: github:tailorec/tailorec-browser-orch
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-tailorec-tailorec-browser-orch/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Tailorec/tailorec-browser-orch/HEAD/README.md (retrieved 2026-11-04T15:45:45Z; SHA-256 4c64c29ff2a8f35261132fecfdfbfde38b35c24863b3911781e6d30248caae9b)
+
+---
+
+## Twiko
+
+Self-hosted platform provisioning dedicated virtual computers with browsers and terminals for autonomous AI teammates.
+
+- Catalog URL: https://awesomecua.com/resources/github-ezocomp118-source-twiko/
+- Original source: https://github.com/ezocomp118-source/twiko
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, workflow, automation
+- Evidence checked: 2026-11-04T17:30:42Z
+- ID: github:ezocomp118-source/twiko
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-ezocomp118-source-twiko/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/ezocomp118-source/twiko/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ezocomp118-source/twiko/main/README.md (retrieved 2026-11-04T17:30:42Z; SHA-256 d91d18dbb383474de93faafd81dbad93d491f81e6f5ee8a7dce3c32f62e97033)
+- https://raw.githubusercontent.com/ezocomp118-source/twiko/HEAD/LICENSE (retrieved 2026-11-04T17:39:42Z; SHA-256 ea922d32a61889f0ae8d3e974143f340ab75bcab242020498769d80c04a9e468)
 
 ---
 
@@ -562,3 +1848,37 @@ GitHub marks this repository archived, and the README declares the library depre
 - https://api.github.com/repos/openai/universe (retrieved 2026-10-17T11:18:15Z; SHA-256 94a7a4d383f754b96601bc0486b90e62760b8bfc35abc607077c8eb6e7934b2d)
 - https://api.github.com/repos/openai/universe/git/trees/master?recursive=1 (retrieved 2026-10-17T11:19:47Z; SHA-256 1808d7524506d1386dad507de8a8fa0f89080443a970ae032cea4c204699d113)
 - https://raw.githubusercontent.com/openai/universe/HEAD/LICENSE (retrieved 2026-10-17T11:23:05Z; SHA-256 ecd4a4aacc4512a31bbdc3252ffc014d37ac7ef56ed34bc2a5d0f6337df6daa5)
+
+---
+
+## UseAgent
+
+Open-source cloud and local sandbox platform for running Claude Code, Codex, or OpenCode with a full desktop and browser.
+
+- Catalog URL: https://awesomecua.com/resources/github-useagenthq-useagent/
+- Original source: https://github.com/useagenthq/useagent
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: sandbox, workflow, tool-integration, automation
+- Evidence checked: 2026-11-04T17:55:14Z
+- ID: github:useagenthq/useagent
+
+### Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.com/resources/github-useagenthq-useagent/record.json
+
+### License declarations
+
+- code: AGPL-3.0 — https://raw.githubusercontent.com/useagenthq/useagent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/useagenthq/useagent/main/README.md (retrieved 2026-11-04T17:55:14Z; SHA-256 3e2a2c8e8f6cfff93e3fd41b554e09f3d924158452c3896aea16ed4022bc54ec)
+- https://raw.githubusercontent.com/useagenthq/useagent/HEAD/LICENSE (retrieved 2026-11-04T18:00:00Z; SHA-256 0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0)

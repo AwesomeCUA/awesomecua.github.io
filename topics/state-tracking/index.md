@@ -157,11 +157,72 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
 - [LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation](https://awesomecua.com/resources/arxiv-2404-16054/) — 2024-04-12
   LlamaTouch executes mobile tasks on devices and evaluates whether an agent visits manually annotated essential application or system states. Screenshot and hierarchy annotations, combined with exact and fuzzy state matching, support evaluation of 496 tasks across multiple agents.
 
+## Benchmarks
+
+- [Action Check WebMCP](https://awesomecua.com/resources/github-ajaknumber4-action-check-webmcp/) — Date not recorded
+  External state-verification benchmark testing whether WebMCP browser tools actually produced their claimed DOM and backend effects.
+- [ExactDelta (ActionProof)](https://awesomecua.com/resources/github-tsuchiyatakahirolab-actionproof/) — Date not recorded
+  Post-action state-delta verification harness for WebMCP browser agents that detects silent UI and state failures.
+- [Graph-Guided Agentic Testing](https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/) — Date not recorded
+  Uses a browser agent to explore web checkout flows into a Neo4j state graph and synthesizes graph-guided end-to-end tests.
+- [Preflight-Bench](https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/) — Date not recorded
+  Preflight-Bench evaluates pre-click staleness checks and page-load synchronization for computer-use agents operating under asynchronous UI updates.
+
 ## Engineering & industry
 
+- [action-receipt](https://awesomecua.com/resources/github-jeremiahm37-action-receipt/) — Date not recorded
+  Generates deterministic per-action DOM and network effect receipts for auditing browser-agent executions.
+- [Active Desktop Context Engine](https://awesomecua.com/resources/github-amirf147-active-desktop-context-engine/) — Date not recorded
+  Zero-cloud Windows OS perception layer and Model Context Protocol server streaming real-time desktop UI context to AI agents.
 - [AgentProg](https://awesomecua.com/resources/github-mobilellm-agentprog/) — Date not recorded
   Android GUI-agent framework that keeps long-running task context in structured programs, variables and control flow, with a CLI and AndroidWorld integration.
+- [AH64-dll Browser Automation Toolkit](https://awesomecua.com/resources/github-ah64-dll-browser-automation-toolkit/) — Date not recorded
+  Suite of five Python CDP utilities including a page watcher, form filler, table scraper, DOM change differ, and health checker.
+- [Anionex DSH Computer Use](https://awesomecua.com/resources/github-anionex-dsh-computer-use/) — Date not recorded
+  macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility observations, stale-state rejection, and scoped permissions.
+- [AXTree API](https://awesomecua.com/resources/github-amaar-mc-axtree-api/) — Date not recorded
+  Event-driven macOS Accessibility tree streaming server and action bridge for computer-use agents.
+- [browser-action-receipt](https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/) — Date not recorded
+  Verification protocol that binds human approval to target DOM state, aborting clicks and emitting a receipt if the page mutates.
+- [ChimeraX-SessionStates](https://awesomecua.com/resources/github-shiinahiiragi-chimerax-states/) — Date not recorded
+  ChimeraX plugin used by ScienceBoard to expose internal molecular-visualization session state for deterministic benchmark evaluation.
+- [Crimson-Heart](https://awesomecua.com/resources/github-yeyvhaiou-crimson-heart/) — Date not recorded
+  Persistent multimodal desktop agent with explicit runtime state management, priority-aware scheduling, and interruptible execution.
+- [Domstamp](https://awesomecua.com/resources/github-zuub-don-domstamp/) — Date not recorded
+  Framework-neutral browser-state snapshotter capturing compact, diffable DOM and accessibility states for AI web agents.
+- [ESP (Echo-Skeleton Perception)](https://awesomecua.com/resources/github-badtheorylabs-esp/) — Date not recorded
+  Stateful, event-driven screen-perception runtime that converts UI changes into compact text events for text-only computer-use agents.
+- [GenPark SPA Settlement Waiter Skill](https://awesomecua.com/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/) — Date not recorded
+  Agent skill for awaiting single-page-application network idle and DOM mutation settlement before acting.
+- [IdemStep](https://awesomecua.com/resources/github-supermarioyl-idemstep/) — Date not recorded
+  Deduplicates repeated agent actions and HTTP retries using keyed idempotency caches and a local verification proxy.
+- [LangGraph](https://awesomecua.com/resources/github-langchain-ai-langgraph/) — Date not recorded
+  LangGraph is a stateful graph orchestration framework for building long-running, cyclical, and human-in-the-loop LLM and CUA agents.
+- [nexus-browser-mcp](https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/) — Date not recorded
+  Browser automation MCP server with event-driven deterministic Playwright and accessibility-tree snapshots.
+- [Ommatix](https://awesomecua.com/resources/github-yosoyepa-ommatix/) — Date not recorded
+  Ommatix is an incremental spatial-indexing perception engine that tracks stable UI element IDs and state diffs across desktop frames.
+- [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/) — Date not recorded
+  Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
+- [outlive](https://awesomecua.com/resources/github-sy-d-outlive/) — Date not recorded
+  Checkpoints and resumes long-running Solari cloud browser sessions across 10-minute container timeouts.
+- [Pursuit Permit WebMCP](https://awesomecua.com/resources/github-moaqil-pursuit-permit-webmcp/) — Date not recorded
+  Revision-bound capacity permit protocol for WebMCP browser agents that invalidates stale approvals when page state changes.
+- [Qontinui](https://awesomecua.com/resources/github-qontinui-qontinui/) — Date not recorded
+  Qontinui is a model-based GUI automation framework that represents application screens as state graphs with visual template and OCR matching.
+- [SameState WebMCP](https://awesomecua.com/resources/github-breeznik-samestate-webmcp/) — Date not recorded
+  WebMCP reference architecture exposing Redux frontend state directly to browser agents for synchronized human-agent interaction.
+- [ScreenWatch](https://awesomecua.com/resources/github-abnsapkota001-screenwatch/) — Date not recorded
+  Python library for detecting persistent visual state changes and UI settlement in desktop applications.
+- [settled-computer](https://awesomecua.com/resources/github-remote-skills-settled-computer/) — Date not recorded
+  settled-computer is an event-driven MCP server that detects UI rendering quiescence so computer-use agents avoid fixed sleep delays and stale frames.
+- [Snapsurf](https://awesomecua.com/resources/github-zumerlab-snapsurf/) — Date not recorded
+  Web navigation and verification layer for AI agents providing compact semantic page digests and typed post-action DOM diffs.
 - [StateAct](https://awesomecua.com/resources/github-ai-nikolai-stateact/) — Date not recorded
   State-tracking prompts and experiment runners for language agents, including a WebShop implementation alongside text-based environments.
+- [StatePilot](https://awesomecua.com/resources/github-newsbruno-statepilot/) — Date not recorded
+  StatePilot is a predictable browser runtime for AI agents with state validation, episodic memory, error recovery, and MCP tools.
+- [Talox](https://awesomecua.com/resources/github-avant-iconic-talox/) — Date not recorded
+  Talox is a stateful Playwright browser runtime for AI agents with stealth interaction, structured page state, and trace observability.
 - [VeriSafe Agent](https://awesomecua.com/resources/github-verisafeagent-verisafeagent/) — Date not recorded
   Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.
