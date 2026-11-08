@@ -122,6 +122,6 @@ GitHub Pages deploys the validated static artifact through the publication workf
 
 [Source catalog and scan code](https://github.com/reacher-z/Awesome-CUA) · [Scan status](https://awesomecua.com/updates/)
 
-Discovery is scheduled every hour at minute 7 UTC. This website checks for a new source commit at :25 and :55 past each hour UTC and rebuilds from validated source data only when there is one; each publication retains its own quality gate. GitHub scheduling can be delayed; the status page records actual completion times.
+Discovery is scheduled at 00:07, 08:07 and 16:07 UTC. This website checks for a new source commit at :25 and :55 past each hour UTC and rebuilds from validated source data only when there is one; each publication retains its own quality gate. GitHub scheduling can be delayed; the status page records actual completion times.
 
 New discoveries are bibliographic metadata or candidates until a separate editorial review. The publishing workflow uses repository-scoped GitHub tokens and does not require a stored personal access token.
