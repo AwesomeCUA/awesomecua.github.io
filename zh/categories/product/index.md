@@ -1,6 +1,6 @@
 # 计算机使用智能体产品
 
-> AwesomeCUA 目录收录 70 条已审核产品。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T16:17:01Z。
+> AwesomeCUA 目录收录 72 条已审核产品。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/product/ · [English](https://awesomecua.com/categories/product/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -37,6 +37,74 @@ The repository contains the Workstation shell, desktop host, browser adapters an
 
 - https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：205b577980981d8c98c1610af912d779aa3889c457a835c67cf90a66da0d34a6）
 - https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE（获取于 2026-11-09T06:13:31Z；SHA-256：d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc）
+
+---
+
+## MT Code
+
+MT Code 是一款桌面应用，用于运行编程智能体，并为其提供浏览器操作控制、实时计算机画面和对可连接计算机的访问。
+
+- 目录页面：https://awesomecua.com/resources/github-munimtechnologies-mtcode/
+- 原始来源：https://github.com/munimtechnologies/mtcode
+- 类型：产品
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、macOS、Windows、Linux、网页
+- 主题：自动化、工具集成、网页导航、可观测性
+- 证据核查日期：2026-11-09T19:56:06Z
+- ID：github:munimtechnologies/mtcode
+
+### 范围记录
+
+The README lists macOS, Windows and Linux installers and says users must install and sign in to at least one supported provider CLI. It identifies the app as a fork of T3 Code with added features.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-munimtechnologies-mtcode/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/README.md（获取于 2026-11-09T19:56:06Z；SHA-256：e25271a2d97177e27e2e3169118e32e5b06adf3060225fd77708cc3e543a55a4）
+- https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/LICENSE（获取于 2026-11-09T14:20:36Z；SHA-256：ce1f7f4d9a176c4641bfa2c51d22f1fcfcc98dab9e1c413cb72d6101159ddbc3）
+
+---
+
+## ovoBrowser
+
+ovoBrowser 是用于管理隔离浏览器配置和代理的桌面客户端。其本地 API 可让浏览器自动化工具连接已打开的配置环境。
+
+- 目录页面：https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/
+- 原始来源：https://github.com/ovobrowsersupport/ovobrowser-manger
+- 类型：产品
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页、桌面、Windows、macOS、跨平台
+- 主题：自动化、网页导航、沙箱
+- 证据核查日期：2026-11-09T19:56:16Z
+- ID：github:ovobrowsersupport/ovobrowser-manger
+
+### 范围记录
+
+The README points to website downloads for Windows and macOS and describes profile, team and local API screens. The repository file list contains documentation rather than client source code.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/README.md（获取于 2026-11-09T19:56:16Z；SHA-256：158e9aad2a43d5ff9d3723a0bdce6e9123ad732465fceae9994ba12ee9417d1b）
+- https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/LICENSE（获取于 2026-11-09T14:20:41Z；SHA-256：65551de6dabceec1a82c2ac6a637d5ed2305ae77651fa4281d6f80e1c3174023）
 
 ---
 

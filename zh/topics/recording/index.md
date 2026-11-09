@@ -64,6 +64,12 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
 
 ## 数据集
 
+- [gui_and_terminal_operation_recording](https://awesomecua.com/resources/url-dfa0c83ebd679a37ad00/) — Date not recorded
+  A dataset of GUI and terminal operation recordings. GUI sessions include timestamped screenshots, mouse events and keyboard events; terminal sessions include input and output logs.
+- [James4Ever0/the_frozen_forest](https://awesomecua.com/resources/url-ede673f7e6f369eae600/) — Date not recorded
+  A dataset archive of screen recordings paired with keyboard and mouse events. Timestamp files align video frames with recorded input actions.
+- [LexBench-WebArena-Replay](https://awesomecua.com/resources/url-a96c70bcf5a235f980b6/) — Date not recorded
+  LexBench-WebArena-Replay pairs WebArena task definitions with fixed browser actions so Browser Eval can replay them and score completion across a published 812-task set.
 - [NAIL-Group/ClawBenchV1Trace](https://awesomecua.com/resources/url-e7653b062bded670198a/) — Date not recorded
   ClawBench V1 Traces releases browser-agent run records with screen video, actions, network traffic and agent messages for replay, debugging and regrading.
 - [PSAI Computer Use Dataset](https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/) — Date not recorded
@@ -187,14 +193,20 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Discover-once, replay-many computer-use automation framework with deterministic execution guardrails.
 - [Helios](https://awesomecua.com/resources/github-vrtnis-helios/) — Date not recorded
   Observability and evaluation harness that converts H computer-use agent sessions into reviewable traces and failure findings.
+- [HumanCursor](https://awesomecua.com/resources/github-riflosnake-humancursor/) — Date not recorded
+  A Python mouse-automation package with web and system cursor controls for movement, clicks, drags, and scrolling. Its script tool records cursor actions for replay.
 - [Inner Coordinates](https://awesomecua.com/resources/github-xiaochu-1208-inner-coordinates/) — Date not recorded
   Reverse-engineers a clickable coordinate and state map of macOS and iPhone applications once for deterministic workflow replay.
 - [Interceptor](https://awesomecua.com/resources/github-hacker-valley-media-interceptor/) — Date not recorded
   CLI and MCP server that lets agents operate the user's signed-in Chrome, Brave or Safari, native apps via accessibility on macOS, Windows and Linux, and a physical iPhone through an XCUITest runner.
+- [IOS13-SimulateTouch](https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/) — Date not recorded
+  An iOS touch-control library supports scripted and remote touch input, records events for playback, and offers image matching and OCR on jailbroken devices.
 - [Kernel](https://awesomecua.com/resources/github-kernel-kernel-images/) — Date not recorded
   Kernel supplies isolated Chrome browser instances for web agents and automation. Its images support remote control, live viewing, and session recording.
 - [Komos](https://awesomecua.com/resources/url-65a9a9211f0dd2b7264a/) — Date not recorded
   Hosted automation platform whose task flows use a prompt-driven agent to navigate, click, type and extract on websites in a cloud Chromium sandbox or self-hosted runner, built from narrated screen recordings or chat.
+- [lean-computer-use-mcp](https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/) — Date not recorded
+  An MCP facade for Windows computer use that condenses accessibility observations, checks state freshness, and records desktop actions for later replay.
 - [Legacy UI Capability Engine](https://awesomecua.com/resources/github-saitejareddi3636-legacy-ui-capability-engine/) — Date not recorded
   Learns a legacy browser workflow once with an LLM and compiles it into a verified, reusable capability module.
 - [Libretto](https://awesomecua.com/resources/github-cashew-labs-libretto/) — Date not recorded
@@ -219,6 +231,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Local Rust MCP server for operating macOS and Windows apps, Chrome or Electron pages over CDP, and Android devices over ADB, with screenshots, OCR, accessibility lookup, input and template matching.
 - [Neo Lab](https://awesomecua.com/resources/github-belarusian-neo-lab/) — Date not recorded
   Neo Lab is a macOS computer-use sandbox for recording demonstrations, replaying skills, and testing GUI automation plans.
+- [nocta-recorder](https://awesomecua.com/resources/github-nossa-y-nocta-recorder/) — Date not recorded
+  A macOS recorder that stores screen snapshots, accessibility elements, OCR, input events, and audio in a local SQLite database and serves the captured activity through a local API.
 - [Northstar (Legacy Portal CUA)](https://awesomecua.com/resources/github-zoyaarief-legacy-credit-union-automation/) — Date not recorded
   Discovers workflows on legacy credit-union web portals with an AI agent once and compiles them into deterministic scripts.
 - [Open Codex Computer History](https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/) — Date not recorded
@@ -247,6 +261,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   PageRunner is a browser-agent orchestration platform with bounded execution loops, deterministic replay, and golden-trace verification.
 - [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/) — Date not recorded
   Stateful browser execution layer that records an agent task once, replays it without LLM calls, and self-repairs when selectors change.
+- [Pilion Browser](https://awesomecua.com/resources/github-echovic-pilion-browser/) — Date not recorded
+  Pilion Browser connects agents to a user's desktop browser tabs through MCP. It supports browser actions, approval before actions, human takeover, recorded workflows, and session resume.
 - [Playwright Test for VS Code](https://awesomecua.com/resources/github-microsoft-playwright-vscode/) — Date not recorded
   A VS Code extension for Playwright browser testing that records page actions into tests and provides test running, locator inspection, debugging, and trace viewing.
 - [Prism AI Screen Reader](https://awesomecua.com/resources/github-chrismannina-prism-ai-screen-reader/) — Date not recorded
@@ -311,6 +327,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   SkillPacks records and approves agent tool actions for retrieval and later training, illustrated with a desktop-control example.
 - [skillproof](https://awesomecua.com/resources/github-hccccc01333-skillproof/) — Date not recorded
   skillproof records a human browser demonstration once and compiles it into a replayable agent skill paired with an explicit completion verifier.
+- [spider-browser](https://awesomecua.com/resources/github-spider-rs-spider-browser/) — Date not recorded
+  A cloud browser SDK with page control, natural-language actions, element observation and autonomous agent runs, provided in several programming languages.
 - [SuperSelector Studio](https://awesomecua.com/resources/github-pirate-cua-superselector/) — Date not recorded
   Resilient, cacheable fuzzy UI element identifiers and studio for Codex Computer Use recording and replay.
 - [Taprun (tap)](https://awesomecua.com/resources/github-leonting1010-tap/) — Date not recorded
@@ -327,10 +345,14 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Chrome extension and MCP server that correlates timestamped visual screen interactions with underlying network API calls.
 - [Understudy](https://awesomecua.com/resources/github-understudy-ai-understudy/) — Date not recorded
   Understudy observes human desktop and browser demonstrations and compiles them into parameterized, replayable computer-use skills.
+- [usecomputer](https://awesomecua.com/resources/github-remorses-usecomputer/) — Date not recorded
+  A desktop automation CLI and library for agent workflows. It captures screenshots, maps image coordinates to screen positions and sends mouse and keyboard actions.
 - [Vedanshu7 Operant](https://awesomecua.com/resources/github-vedanshu7-operant/) — Date not recorded
   Discovers how to complete a task in a no-API application once with an LLM and compiles the trace for repeatable execution.
 - [Web Agent Protocol (WAP)](https://awesomecua.com/resources/github-ota-tech-ai-web-agent-protocol/) — Date not recorded
   Records browser sessions with a Chrome extension and turns them into exact or LLM-condensed smart replay lists, replays them with a bundled Browser Use agent, and converts recordings into MCP servers.
+- [webreel](https://awesomecua.com/resources/github-vercel-labs-webreel/) — Date not recorded
+  webreel drives a Chrome browser through JSON-defined actions and records the resulting interaction as video with cursor and keystroke overlays.
 - [Windows Local Action Recorder](https://awesomecua.com/resources/github-week833-windows-local-action-recorder/) — Date not recorded
   Windows desktop action recorder and controlled replay tool that packages human UI demonstrations for Codex agents.
 - [windows-computer-use-mcp (Scan-Code & Multi-Monitor)](https://awesomecua.com/resources/github-sshh12-windows-computer-use-mcp/) — Date not recorded
@@ -345,3 +367,8 @@ Full source records: https://awesomecua.com/downloads/topics/recording/records.j
   Demonstration-driven Windows desktop automation framework compatible with the ActionParity protocol for third-party GUI software.
 - [Zhubi (朱笔)](https://awesomecua.com/resources/github-icesword0760-zhubi/) — Date not recorded
   Zhubi is a self-hosted bounding-box annotation and fine-tuning workbench for training Florence-2 and YOLO GUI detector models.
+
+## 学习资源
+
+- [Awesome Computer Use Ecosystem](https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/) — Date not recorded
+  A curated reading list of computer-use tools for desktop and browser agents, organized by product ecosystem and capability, with a separate project catalog.

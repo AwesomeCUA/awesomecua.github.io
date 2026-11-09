@@ -175,14 +175,31 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Uses a browser agent to explore web checkout flows into a Neo4j state graph and synthesizes graph-guided end-to-end tests.
 - [Preflight-Bench](https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/) — Date not recorded
   Preflight-Bench evaluates pre-click staleness checks and page-load synchronization for computer-use agents operating under asynchronous UI updates.
+- [WebReplayBench](https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/) — Date not recorded
+  A web agent benchmark with a local shop site, BrowserGym tasks, and database audit records for measuring task completion and repeated writes during backtracking.
+
+## 数据集
+
+- [Preflight Bench](https://awesomecua.com/resources/url-a40fc87ac700add33232/) — Date not recorded
+  A dataset of paired screenshots, click outcomes and checker answers for evaluating pre-click checks on changing web pages. It includes Lance tables and development and test splits.
 
 ## 模型
 
 - [HobbyLM-1B Computer Use](https://awesomecua.com/resources/url-12470a40c8f82ef0294a/) — Date not recorded
   An on-device LoRA adapter that turns English requests and Mac state into single actions executed by a companion app, with training code and evaluation records.
+- [jiamingzz/lgwm](https://awesomecua.com/resources/url-512cd7335068b2c17859/) — Date not recorded
+  Released weights for a GUI world model that predicts a screen representation after an action and checks the observed transition, with a separate harm scoring head.
+- [OTA-v1](https://awesomecua.com/resources/url-404c719910f8f4a37149/) — Date not recorded
+  OTA-v1 is a fine-tuned browser-agent checkpoint designed to plan browser actions, use tools and maintain context across multi-step web tasks.
+- [S1-Accurate-LoRA](https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/) — Date not recorded
+  A LoRA adapter for a desktop agent's decision model uses window screenshots to select an operation and target element from candidate actions when a faster model is uncertain.
+- [S1-Fast](https://awesomecua.com/resources/url-51fd7f79dff766278d83/) — Date not recorded
+  S1-Fast predicts desktop actions, target elements and step status from a Windows UI Automation snapshot and visual tokens in one encoder pass.
 
 ## 工程与产业
 
+- [Actell](https://awesomecua.com/resources/github-ja1chen-actell/) — Date not recorded
+  An iPhone agent prototype observes screenshots or accessibility content and issues taps and drags through CoreDevice, using a VPN loopback or optional hardware relay.
 - [action-receipt](https://awesomecua.com/resources/github-jeremiahm37-action-receipt/) — Date not recorded
   Generates deterministic per-action DOM and network effect receipts for auditing browser-agent executions.
 - [Active Desktop Context Engine](https://awesomecua.com/resources/github-amirf147-active-desktop-context-engine/) — Date not recorded
@@ -195,26 +212,40 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Suite of five Python CDP utilities including a page watcher, form filler, table scraper, DOM change differ, and health checker.
 - [Anionex DSH Computer Use](https://awesomecua.com/resources/github-anionex-dsh-computer-use/) — Date not recorded
   macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility observations, stale-state rejection, and scoped permissions.
+- [Astra plays GTA Vice City](https://awesomecua.com/resources/github-da03-astra-plays-gta/) — Date not recorded
+  A macOS helper and prompt let a desktop agent control GTA Vice City through screenshots and short input steps, pausing the game while it decides what to do next.
 - [AXTree API](https://awesomecua.com/resources/github-amaar-mc-axtree-api/) — Date not recorded
   Event-driven macOS Accessibility tree streaming server and action bridge for computer-use agents.
+- [Brobot](https://awesomecua.com/resources/github-jspinak-brobot/) — Date not recorded
+  Brobot is a Java visual automation framework that recognizes interface elements and models application states to navigate, perform actions and recover from errors.
 - [Browser Agent (uiuing)](https://awesomecua.com/resources/github-uiuing-browser-agent/) — Date not recorded
   Chrome side-panel agent whose page engine reads a whole-page semantic DOM snapshot, re-grounds targets by element fingerprints, dispatches DOM events and checks post-conditions before reporting success.
 - [browser-action-receipt](https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/) — Date not recorded
   Verification protocol that binds human approval to target DOM state, aborting clicks and emitting a receipt if the page mutates.
+- [ChatGPT WebUI Bridge](https://awesomecua.com/resources/github-olmatter-chatgpt-bridge/) — Date not recorded
+  A local HTTP bridge lets agents send messages to logged-in ChatGPT browser tabs, read replies and page state, and supervise idle tabs through a userscript.
 - [ChimeraX-SessionStates](https://awesomecua.com/resources/github-shiinahiiragi-chimerax-states/) — Date not recorded
   ChimeraX plugin used by ScienceBoard to expose internal molecular-visualization session state for deterministic benchmark evaluation.
+- [chrome-agent](https://awesomecua.com/resources/github-sderosiaux-chrome-agent/) — Date not recorded
+  chrome-agent is a Rust CLI for browser agents to inspect pages, act through Chrome and check resulting state. It also records and replays local command sequences.
 - [Code2World](https://awesomecua.com/resources/github-amap-ml-code2world/) — Date not recorded
   Code2World provides code for predicting the next Android GUI screen from a screenshot and proposed action through renderable code, with an AndroidWorld agent integration.
+- [computer-use-mcp](https://awesomecua.com/resources/github-minghinmatthewlam-computer-use-mcp/) — Date not recorded
+  A Swift MCP server that lets agents inspect and operate macOS applications. Its shared engine manages accessibility, screen capture, and input delivery.
 - [Crimson-Heart](https://awesomecua.com/resources/github-yeyvhaiou-crimson-heart/) — Date not recorded
   Persistent multimodal desktop agent with explicit runtime state management, priority-aware scheduling, and interruptible execution.
 - [Domstamp](https://awesomecua.com/resources/github-zuub-don-domstamp/) — Date not recorded
   Framework-neutral browser-state snapshotter capturing compact, diffable DOM and accessibility states for AI web agents.
+- [DSH iOS Simulator](https://awesomecua.com/resources/github-zseven-w-dsh-ios/) — Date not recorded
+  A DeepSeek Harness plugin that gives agents access to an iOS Simulator or USB-connected iPhone, with live video, UI inspection, and tap tools.
 - [ESP (Echo-Skeleton Perception)](https://awesomecua.com/resources/github-badtheorylabs-esp/) — Date not recorded
   Stateful, event-driven screen-perception runtime that converts UI changes into compact text events for text-only computer-use agents.
 - [FinalRun](https://awesomecua.com/resources/url-3b99bbbd3480dbc1ec6b/) — Date not recorded
   Android UI agent that prunes interface trees, waits for stable screens, feeds action failures back into its decisions, and takes fresh screenshots before grounding actions.
 - [GenPark SPA Settlement Waiter Skill](https://awesomecua.com/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/) — Date not recorded
   Agent skill for awaiting single-page-application network idle and DOM mutation settlement before acting.
+- [Godot Editor MCP](https://awesomecua.com/resources/github-hybridindie-godot-mcp/) — Date not recorded
+  An MCP server and Godot addon that let agents inspect and edit a live game editor, control play sessions, simulate input, and capture screenshots.
 - [grass-gui](https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/) — Date not recorded
   ScienceBoard's replacement GRASS GIS 8.4 wxPython GUI with an embedded Flask server that loads mapsets and layers, runs GRASS commands and returns layer, region and console state as JSON for task checks.
 - [HIPPO Agent](https://awesomecua.com/resources/github-wadang-muscle-mem-agent/) — Date not recorded
@@ -235,16 +266,22 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Ommatix is an incremental spatial-indexing perception engine that tracks stable UI element IDs and state diffs across desktop frames.
 - [OpenAdapt Agent](https://awesomecua.com/resources/github-openadaptai-openadapt-agent/) — Date not recorded
   OpenAdapt Agent exposes demonstrated application workflows as callable tools for AI agents. It enters values in an app and checks the record before and after saving.
+- [openadapt-types](https://awesomecua.com/resources/github-openadaptai-openadapt-types/) — Date not recorded
+  openadapt-types supplies validated Python models and JSON schemas for computer-use screens, actions, results, and interaction trajectories.
 - [OSWright](https://awesomecua.com/resources/github-ask-812-oswright/) — Date not recorded
   Windows desktop automation MCP server using incremental UI Automation state diffs in place of full-screen vision loops.
 - [outlive](https://awesomecua.com/resources/github-sy-d-outlive/) — Date not recorded
   Checkpoints and resumes long-running Solari cloud browser sessions across 10-minute container timeouts.
 - [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/) — Date not recorded
   Runtime trust layer for browser agents: a sidecar checks each action against local policy before it runs, and SDKs turn pages into compact ranked element snapshots and verify outcomes with DOM assertions.
+- [Predicate TypeScript SDK](https://awesomecua.com/resources/github-predicatesystems-sdk-typescript/) — Date not recorded
+  Predicate TypeScript SDK supplies browser-agent snapshots, element actions, assertions and traces for building runs that check UI outcomes.
 - [Pursuit Permit WebMCP](https://awesomecua.com/resources/github-moaqil-pursuit-permit-webmcp/) — Date not recorded
   Revision-bound capacity permit protocol for WebMCP browser agents that invalidates stale approvals when page state changes.
 - [Qontinui](https://awesomecua.com/resources/github-qontinui-qontinui/) — Date not recorded
   Qontinui is a model-based GUI automation framework that represents application screens as state graphs with visual template and OCR matching.
+- [redux-webmcp](https://awesomecua.com/resources/github-breeznik-redux-webmcp/) — Date not recorded
+  A WebMCP bridge for Redux Toolkit apps that lets browser agents dispatch allowed actions and inspect state changes. Developers can require approval for selected actions.
 - [SameState WebMCP](https://awesomecua.com/resources/github-breeznik-samestate-webmcp/) — Date not recorded
   WebMCP reference architecture exposing Redux frontend state directly to browser agents for synchronized human-agent interaction.
 - [ScreenWatch](https://awesomecua.com/resources/github-abnsapkota001-screenwatch/) — Date not recorded
@@ -259,6 +296,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   StatePilot is a predictable browser runtime for AI agents with state validation, episodic memory, error recovery, and MCP tools.
 - [Talox](https://awesomecua.com/resources/github-avant-iconic-talox/) — Date not recorded
   Talox is a stateful Playwright browser runtime for AI agents with stealth interaction, structured page state, and trace observability.
+- [tui-use](https://awesomecua.com/resources/github-onesuper-tui-use/) — Date not recorded
+  tui-use is a CLI utility that lets agents read terminal application screens and send keystrokes through persistent PTY sessions. It renders text snapshots and can wait for screen changes.
 - [VeriSafe Agent](https://awesomecua.com/resources/github-verisafeagent-verisafeagent/) — Date not recorded
   Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.
 - [WebOperator](https://awesomecua.com/resources/github-kagnlp-weboperator/) — Date not recorded
@@ -274,3 +313,5 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Technical article describing an Android UI agent that alternates planning with single actions, checks screen changes and uses a dedicated text editing path. It reports AndroidWorld results.
 - [Finalrun Agentic Approach](https://awesomecua.com/resources/github-final-run-finalrun-android-world-benchmark/) — Date not recorded
   Illustrated account of FinalRun's Android agent approach, with task walkthroughs and recordings showing screen observation, action planning, and state checks.
+- [linux-use-recipes](https://awesomecua.com/resources/github-javimosch-linux-use-recipes/) — Date not recorded
+  A collection of recipes for automating Linux desktop applications and websites with linux-use. It covers browser setup, accessibility pitfalls, posting workflows and verification.

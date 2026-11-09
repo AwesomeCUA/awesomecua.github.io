@@ -121,6 +121,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
 
 ## Benchmarks
 
+- [Agent-friendly UI](https://awesomecua.com/resources/github-showlab-aui/) — Date not recorded
+  An evaluation and revision pipeline tests generated websites with computer-use agents, checks task completion against rules, and summarizes navigation failures.
 - [AgentReady](https://awesomecua.com/resources/github-williehems-agentready/) — Date not recorded
   Cloud-browser evaluation harness that tests whether an autonomous AI agent can complete a website's primary conversion action.
 - [HumanQA](https://awesomecua.com/resources/github-hotragn-humanqa/) — Date not recorded
@@ -137,9 +139,13 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   WebGen-Bench evaluates generated websites with automated tests, including a UI agent that carries out interactions and checks outcomes. The repository supplies evaluation code and data.
 - [WebsiteBench](https://awesomecua.com/resources/github-tiger-ai-lab-websitebench/) — Date not recorded
   Website reconstruction benchmark: agents explore a production-level site through a browser, rebuild a full-stack version, and are scored by hidden functional and visual test cases across 70 tasks.
+- [WebUIProof](https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/) — Date not recorded
+  A benchmark of 149 web UI generation tasks with structured test cases and a vision-language agent that tests generated interfaces in a browser.
 
 ## Datasets
 
+- [luzimu/WebGen-Bench](https://awesomecua.com/resources/url-405959de004b6e32c911/) — Date not recorded
+  A dataset of website-generation instructions and UI test cases for evaluating interactive sites, with separate training and test splits.
 - [Rico Dataset](https://awesomecua.com/resources/url-0c845d69c9498dd4e20c/) — Date not recorded
   Rico Dataset is a collection of mobile app interaction and design data presented through Interaction Mining, with 70k screens and 10k user flows across 5k apps.
 - [RICO-Screen2Words](https://awesomecua.com/resources/url-cf7c132c9a988d3a6ec4/) — Date not recorded
@@ -151,6 +157,10 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
 
 ## Models
 
+- [GLM-4.6V-FP8](https://awesomecua.com/resources/url-2a99aab63fc1fe65610d/) — Date not recorded
+  An FP8 multimodal model checkpoint supports tool calls using screenshots as inputs and generates or edits frontend code from images of interfaces.
+- [UI2Code_N](https://awesomecua.com/resources/url-b04608609a8c392d110b/) — Date not recorded
+  A visual language model that turns UI screenshots into code and supports iterative interface editing and polishing. Its card includes a screenshot-to-HTML inference example.
 - [WebVIA-Agent](https://awesomecua.com/resources/url-62724cba1b5814215cf7/) — Date not recorded
   GLM-4.1V-9B-based web exploration agent from WebVIA that reads a page screenshot and DOM tree and picks click, type or select actions to reach each interactive UI state for UI-to-code work.
 
@@ -174,10 +184,14 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Native Windows GUI manager for configuring and launching isolated Camoufox stealth browser profiles.
 - [Celestea Harness Studio](https://awesomecua.com/resources/github-mcd0luo-celestea-harness-studio/) — Date not recorded
   Self-hosted AI agent workbench combining a web UI, TypeScript backend, sandboxed tool execution, and browser control.
+- [crowd-test](https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test/) — Date not recorded
+  A CLI runs persona-driven agents in isolated Chromium browsers to explore website usability and produce graded findings with optional independent checks.
 - [DeepSeek Harness Desktop](https://awesomecua.com/resources/github-tengqi159-deepseek-harness-desktop/) — Date not recorded
   macOS desktop companion app for DeepSeek Harness with research-file attachments and local tool management.
 - [DeepSeek Harness Desktop YukiRyou](https://awesomecua.com/resources/github-yoshino-xiao7-deepseek-harness-desktop-yukiryou/) — Date not recorded
   Enhanced desktop client distribution for DeepSeek Harness with pre-integrated computer-use and browser plugins.
+- [DSH Vision Toolkit](https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/) — Date not recorded
+  DSH Vision Toolkit adds screenshot reading, visual grounding, UI reconstruction, and pixel comparison tools to DeepSeek Harness agents.
 - [dsh-plugin-ui-debug](https://awesomecua.com/resources/github-featherhunter-dsh-plugin-ui-debug/) — Date not recorded
   DeepSeek Harness plugin for inspecting live DOM styles, layout issues, and console errors during frontend UI debugging.
 - [flutter_copilot](https://awesomecua.com/resources/github-anasfik-flutter-copilot/) — Date not recorded
@@ -230,6 +244,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   2D/3D agentic operating environment layered above Windows where humans and AI agents co-orchestrate desktop tasks.
 - [Voice Mirror](https://awesomecua.com/resources/github-contextmirror-voice-mirror/) — Date not recorded
   Voice Mirror is a Tauri desktop IDE where voice and multimodal agents inspect, click, and live-edit rendered web applications.
+- [WebMCP](https://awesomecua.com/resources/github-webmachinelearning-webmcp/) — Date not recorded
+  A client-side web API proposal that lets pages expose structured JavaScript tools to browser agents. Agents can invoke page functions while sharing the visible interface and context with users.
 - [WebMCPcss](https://awesomecua.com/resources/github-cochinoraptor-webmcpcss/) — Date not recorded
   Extends the WebMCP standard by declaring agent-callable website actions and semantic affordances directly through CSS rules.
 - [wix-editor-mcp](https://awesomecua.com/resources/github-naieum-wix-editor-mcp/) — Date not recorded

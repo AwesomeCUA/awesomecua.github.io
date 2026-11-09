@@ -4,6 +4,20 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/5/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [Mobilerun (formerly Droidrun)](https://awesomecua.com/resources/github-droidrun-mobilerun/)：通过命令行和 Python 接口，将截图及无障碍状态与智能体工具结合，用于执行移动设备任务的框架。
+- [ModCDP](https://awesomecua.com/resources/github-browserbase-modcdp/)：ModCDP 是 Browserbase 的框架，用于通过自定义命令、事件和智能体中间件扩展 Chrome DevTools Protocol。
+- [Mosaic Desktop Automation](https://awesomecua.com/resources/github-quill-00-mosaic-desktop-automation/)：本地优先的 Windows 控制面板，用于安排、观察和审计桌面自动化智能体。
+- [Mosaik](https://awesomecua.com/resources/github-luantak-mosaik/)：可组合的智能体浏览器自动化框架，由小型、可复用的感知和动作基础单元构成。
+- [Motus](https://awesomecua.com/resources/github-dataficationsdk-motus/)：Motus 是可扩展的 .NET 浏览器自动化与智能体测试框架，通过 CDP 直接与 Chromium 通信。
+- [MPO (Meta Plan Optimization)](https://awesomecua.com/resources/github-weiminxiong-mpo/)：MPO 通过偏好学习优化可复用的高层元计划，引导 LLM 智能体完成交互式网页任务和决策任务。
+- [muhtalhakhan OpenAgent](https://awesomecua.com/resources/github-muhtalhakhan-open-agent/)：自托管、与提供商无关的 AI 智能体运行时，支持浏览器自动化、Shell 执行和可扩展技能插件。
+- [MVP (Multiple View Prediction)](https://awesomecua.com/resources/github-zjuscl-mvp/)：MVP 通过汇总不同宽高比和分辨率变换下的多视角坐标预测，改进 GUI 视觉定位。
+- [nanoAWM (Agent World Model Lab)](https://awesomecua.com/resources/github-jlov7-nanoawm/)：nanoAWM 是可检查的 Agent World Model 实验环境，用于模拟长程工具智能体和计算机使用智能体的动作后果。
+- [Napaxi](https://awesomecua.com/resources/github-antgroup-napaxi/)：Ant Group 开发的移动端原生智能体 SDK，用于构建可在设备上通过沙箱执行技能的 AI 智能体。
+- [Native by K](https://awesomecua.com/resources/github-karunya-muddana-native/)：面向开发者的本地优先开源 AI 智能体框架，集成终端、文件系统和浏览器控制。
+- [NaturalGAIA & LightManus](https://awesomecua.com/resources/github-keles-coding-naturegaia/)：NaturalGAIA 和 LightManus 提供分层多智能体框架，具备浏览器自动化、代码执行和情节记忆功能。
+- [navforge](https://awesomecua.com/resources/github-huzjie-navforge/)：navforge 是自托管编排框架，用于协调多步骤计算机使用与浏览器导航智能体。
+- [NeuroSight (QiraBot Vision Runtime)](https://awesomecua.com/resources/github-vthanhhdev-qirabot-vision-runtime/)：无需选择器的 AI 视觉自动化运行环境，适用于桌面应用、移动端屏幕和游戏。
 - [Nexus Computer Use Harness (NexusCUH)](https://awesomecua.com/resources/github-subasah-computer-use-harness/)：NexusCUH 是计算机使用智能体测试框架，具备沙箱执行、MCP 集成、策略防护和轨迹可观测性。
 - [NNetNav](https://awesomecua.com/resources/github-murtyshikhar-nnetnav/)：收集并标注浏览器探索轨迹，用于训练智能体，并提供数据处理、微调和网页评估代码。
 - [NOMOS Browser](https://awesomecua.com/resources/github-voltolini-space-nomos-browser/)：具有治理机制的 AI 智能体网页浏览器，配备侧边栏助手、策略防护规则和人工接管功能。
@@ -90,17 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/5/ · [English
 - [ReMe](https://awesomecua.com/resources/github-agentscope-ai-reme/)：ReMe 是面向自主 LLM 智能体的本地优先个人知识与程序性记忆管理框架。
 - [Replay (Teach-by-Demonstration)](https://awesomecua.com/resources/github-misb74-replay/)：将人类在真实桌面和网页工作中的屏幕演示转化为可验证、可重复的 AI 智能体工作流。
 - [Replay AI](https://awesomecua.com/resources/github-bryansbtian-replay-ai/)：使用本地 LLM 发现一次 UI 工作流程，并将成功轨迹编译为确定性重放脚本。
-- [reverseloom](https://awesomecua.com/resources/github-kuichi-x-reverseloom/)：AI 浏览器智能体框架，检查实时网页流量，将网站协议逆向解析为无需浏览器的 Python 爬虫。
-- [Ringlight WebMCP](https://awesomecua.com/resources/github-doom2quake-ringlight/)：WebMCP 调查控制台，浏览器智能体可在人工审查下，跨实时网页视图追踪实体图谱。
-- [RishabhP1508 Understudy](https://awesomecua.com/resources/github-rishabhp1508-understudy/)：将 LLM 驱动的单次传统 UI 探索记录为类型化能力产物，以便在不使用 LLM 的情况下确定性重放。
-- [RLVR-World](https://awesomecua.com/resources/github-thuml-rlvr-world/)：RLVR-World 使用可验证强化学习训练世界模型，预测网页和游戏智能体的状态转移。
-- [robotsix-browser](https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/)：面向 AI 智能体的交互式 Playwright 无头浏览器及表单填写 HTTP 服务。
-- [rotary (rx4)](https://awesomecua.com/resources/github-tschk-rotary/)：Rust 智能体框架引擎，提供工具循环、会话持久化、权限门控、计算机使用基础功能和 MCP 支持。
-- [rote](https://awesomecua.com/resources/github-bhuvanb3110-rote/)：面向缺少 API 的旧式银行和后台网页应用的计算机使用自动化框架，支持录制一次、多次重放。
-- [Rove (Thread WebMCP Workspace)](https://awesomecua.com/resources/github-chris-miracle-thread/)：共享的 WebMCP 研究工作区，供人类用户和浏览器智能体共同整理、比较网页条目。
-- [RPA Desktop Canal Visual](https://awesomecua.com/resources/github-hab99-rpa-desktop-canal-visual/)：闭环视觉桌面 RPA 运行时，仅依据屏幕截图操控隔离的终端和 GUI 应用程序。
-- [RPA for Python](https://awesomecua.com/resources/github-tebelorg-rpa-python/)：RPA for Python 在 TagUI 之上提供 Python API，通过视觉 OCR 自动操作网站和桌面 GUI 应用，并自动执行命令行工作流。
-- [RPA-Everything](https://awesomecua.com/resources/github-mingqian94-rpa-everything/)：将重复的浏览器、桌面、Android 和办公工作流编译成经过审查、行为确定的 RPA 技能，供 AI 智能体使用。
-- [SameState WebMCP](https://awesomecua.com/resources/github-breeznik-samestate-webmcp/)：WebMCP 参考架构，直接向浏览器智能体开放 Redux 前端状态，以实现人和智能体的同步交互。
-- [SCoR (Sparse Context Reset)](https://awesomecua.com/resources/github-huia711-scor/)：Sparse Context Reset（SCoR）框架，用于防止长时程 GUI 智能体出现上下文溢出和偏移。
-- [screen-use](https://awesomecua.com/resources/github-tongriyaotxt-screen-use/)：面向整个桌面的 Browser-Use 风格框架，为 AI 智能体提供屏幕视觉感知和鼠标键盘控制。

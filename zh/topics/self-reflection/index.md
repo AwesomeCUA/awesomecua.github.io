@@ -180,6 +180,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   Multimodal browser reliability runtime for failure diagnosis, policy-aware recovery, and action verification.
 - [ChangeShield](https://awesomecua.com/resources/github-kxvya18-chnage-shield/) — Date not recorded
   Self-repairing browser automation prototype that detects and adapts to third-party UI selector drift.
+- [Claude Blender](https://awesomecua.com/resources/github-minihellboy-claude-blender/) — Date not recorded
+  An MCP server and Blender add-on that let an AI assistant control scenes through tools, inspect screenshots and renders, and revise work using visual feedback.
 - [CompBuddy](https://awesomecua.com/resources/github-lewiswlker-compbuddy/) — Date not recorded
   CompBuddy is a background macOS computer-use agent that observes target windows and dispatches Accessibility and CGEvent actions without stealing focus.
 - [Computer Use Studio Pro](https://awesomecua.com/resources/github-666xiaoniuzi-computer-use-skill/) — Date not recorded
@@ -202,6 +204,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   GenericAgent is a minimal self-evolving agent framework that synthesizes reusable skills for browser, OS, and ADB mobile control.
 - [Genie](https://awesomecua.com/resources/github-vimalmathew26-genie/) — Date not recorded
   Genie is an autonomous Linux desktop agent with 3-tier UI resolution across AT-SPI accessibility trees, Chrome CDP, and VLM vision.
+- [GUI Reflection](https://awesomecua.com/resources/github-penghao-wu-gui-reflection/) — Date not recorded
+  GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.
 - [Hachifish](https://awesomecua.com/resources/github-momo-null-hachifish/) — Date not recorded
   Hachifish is an on-device Android GUI agent that executes natural-language tasks via the native AccessibilityService with pre-completion checks.
 - [HarvestNet](https://awesomecua.com/resources/github-lethe044-harvestnet/) — Date not recorded

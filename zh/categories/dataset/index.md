@@ -1,6 +1,6 @@
 # 计算机使用智能体数据集
 
-> AwesomeCUA 目录收录 195 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T16:17:01Z。
+> AwesomeCUA 目录收录 225 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https://awesomecua.com/categories/dataset/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -330,6 +330,59 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 
 ---
 
+## Click-100k
+
+101,314 组截图与指令配对数据，附点击定位目标框，从公开 GUI 定位数据集及教程视频帧中筛选，并配有 EasyR1 点位预测提示。
+
+- 目录页面：https://awesomecua.com/resources/url-bf847949766b2b257d1c/
+- 原始来源：https://huggingface.co/datasets/mlfoundations/Click-100k
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、网页
+- 主题：GUI 定位、数据生成
+- 证据核查日期：2026-10-18T15:54:59Z
+- ID：url:bf847949766b2b257d1c
+
+### 范围记录
+
+Sources named by the card: ShowUI (web and desktop), AutoGUI, PC-Agent-E, WaveUI, OS-Atlas, UGround, PixMo Points, SeeClick, UI-Vision, a Jedi spreadsheet subset and frames from professional-application tutorial videos labelled with Claude 4 Sonnet (the card says 85 videos, the release README 80+). Each source was capped at 50k instances, and noisy or trivial samples were removed with OmniParser and grounding-model filters. The card says SeeClick, PixMo and UGround samples were excluded during RL training, so the training subset is smaller than the release. The release declares no data license, and the upstream sources keep their own terms. The training config names the dataset mlfoundations/clicks-100k, a spelling that differs from this Hub ID.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-bf847949766b2b257d1c/record.json
+
+### 结构化规格
+
+- 格式：Parquet
+- 模态：screenshots, instructions, bounding boxes
+- 数据划分：train
+- 监督信号：element instructions with target bounding boxes
+
+#### 数量记录
+
+- 101,314 examples — train split (dataset_info in the card metadata)（来源报告；来源：https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md）
+- 64 Parquet shards — data/ at Hub revision f728db8f（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7）
+
+Each row holds an image path, the image, an EasyR1 prompt that embeds the element description, pixel and normalized boxes and the image size. Examples and shards are different units. Per-source counts are not given.
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+- 数据审核：Neither the dataset card nor the release repository declares a license for Click-100k; the code repository has no license file, and the upstream sources keep their own terms.
+  来源：https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md
+
+### 一手证据
+
+- https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md（获取于 2026-10-18T15:54:59Z；SHA-256：3d6d130f966f51338eb58cae805640aa37db9985a7bbc86fa95417bcbef4fe01）
+- https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7（获取于 2026-10-18T15:53:39Z；SHA-256：e3636612b79e3c042500613bf351bb4202669acaf1d3ccbb82cc73279bc049a8）
+- https://raw.githubusercontent.com/mlfoundations/Gelato/2a8757d473a63d34f71b043192d08dad61d298ee/README.md（获取于 2026-10-18T15:53:38Z；SHA-256：437eb06553ed6d63d871d18842906b26b6148db5b0a5489064736ef6f5f0cfcf）
+- https://raw.githubusercontent.com/mlfoundations/Gelato/2a8757d473a63d34f71b043192d08dad61d298ee/training_configs/README.md（获取于 2026-10-18T15:53:37Z；SHA-256：c2a6c7ebe068b732f3e2cf21ee085c1ca375e4c044e39a053bd34e74c0287669）
+
+---
+
 ## GroundCUA
 
 GroundCUA 发布覆盖 87 个应用的 56,000 张桌面截图、3.56M 条经人工验证的 UI 元素标注，以及 GroundNext 模型。
@@ -585,59 +638,6 @@ VisualWebBench 的 Hugging Face 数据集发布版本，涵盖视觉网页理解
 
 ---
 
-## Click-100k
-
-101,314 组截图与指令配对数据，附点击定位目标框，从公开 GUI 定位数据集及教程视频帧中筛选，并配有 EasyR1 点位预测提示。
-
-- 目录页面：https://awesomecua.com/resources/url-bf847949766b2b257d1c/
-- 原始来源：https://huggingface.co/datasets/mlfoundations/Click-100k
-- 类型：数据集
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、网页
-- 主题：GUI 定位、数据生成
-- 证据核查日期：2026-10-18T15:54:59Z
-- ID：url:bf847949766b2b257d1c
-
-### 范围记录
-
-Sources named by the card: ShowUI (web and desktop), AutoGUI, PC-Agent-E, WaveUI, OS-Atlas, UGround, PixMo Points, SeeClick, UI-Vision, a Jedi spreadsheet subset and frames from professional-application tutorial videos labelled with Claude 4 Sonnet (the card says 85 videos, the release README 80+). Each source was capped at 50k instances, and noisy or trivial samples were removed with OmniParser and grounding-model filters. The card says SeeClick, PixMo and UGround samples were excluded during RL training, so the training subset is smaller than the release. The release declares no data license, and the upstream sources keep their own terms. The training config names the dataset mlfoundations/clicks-100k, a spelling that differs from this Hub ID.
-
-- 完整记录 JSON：https://awesomecua.com/resources/url-bf847949766b2b257d1c/record.json
-
-### 结构化规格
-
-- 格式：Parquet
-- 模态：screenshots, instructions, bounding boxes
-- 数据划分：train
-- 监督信号：element instructions with target bounding boxes
-
-#### 数量记录
-
-- 101,314 examples — train split (dataset_info in the card metadata)（来源报告；来源：https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md）
-- 64 Parquet shards — data/ at Hub revision f728db8f（计算得出；来源：https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7）
-
-Each row holds an image path, the image, an EasyR1 prompt that embeds the element description, pixel and normalized boxes and the image size. Examples and shards are different units. Per-source counts are not given.
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-- 数据审核：Neither the dataset card nor the release repository declares a license for Click-100k; the code repository has no license file, and the upstream sources keep their own terms.
-  来源：https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md
-
-### 一手证据
-
-- https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md（获取于 2026-10-18T15:54:59Z；SHA-256：3d6d130f966f51338eb58cae805640aa37db9985a7bbc86fa95417bcbef4fe01）
-- https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7（获取于 2026-10-18T15:53:39Z；SHA-256：e3636612b79e3c042500613bf351bb4202669acaf1d3ccbb82cc73279bc049a8）
-- https://raw.githubusercontent.com/mlfoundations/Gelato/2a8757d473a63d34f71b043192d08dad61d298ee/README.md（获取于 2026-10-18T15:53:38Z；SHA-256：437eb06553ed6d63d871d18842906b26b6148db5b0a5489064736ef6f5f0cfcf）
-- https://raw.githubusercontent.com/mlfoundations/Gelato/2a8757d473a63d34f71b043192d08dad61d298ee/training_configs/README.md（获取于 2026-10-18T15:53:37Z；SHA-256：c2a6c7ebe068b732f3e2cf21ee085c1ca375e4c044e39a053bd34e74c0287669）
-
----
-
 ## GUIChat
 
 包含文字丰富的图像和边界框的对话式 GUI 监督数据，按单轮问答和多轮对话组织。
@@ -848,6 +848,62 @@ Tasks and key-node evaluation entries are different units. The revised test file
 - https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json（获取于 2026-10-18T15:45:39Z；SHA-256：026adb028cc07f72e39af0952c8770fa630d59ea8ceffb4dc4fab5e01fd57b35）
 - https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json（获取于 2026-10-18T15:45:40Z；SHA-256：abc2032302fed1ac801539ecc6003dd73ff0aafe824aaf9450e4e504a8ff83f2）
 - https://huggingface.co/api/datasets/iMeanAI/Mind2Web-Live（获取于 2026-10-18T15:45:39Z；SHA-256：1d1ea013b8b39f2c526dec3846bd750199c5570c0961b7495ff3d1b99924438d）
+
+---
+
+## Multimodal-Mind2Web
+
+Mind2Web 操作步骤与对应网页截图对齐，附原始及清理后的 HTML、候选元素和目标操作，包含训练集及按任务、网站和域名划分的留出测试集。
+
+- 目录页面：https://awesomecua.com/resources/url-66f780b493156dc7efe5/
+- 原始来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、动作预测、评测
+- 证据核查日期：2026-10-18T16:02:04Z
+- ID：url:66f780b493156dc7efe5
+
+### 范围记录
+
+Each row is one action step with the page state before the action; tasks are distinct annotation IDs. The card says the three test splits were human-verified for element visibility and rendering, while the train split may contain badly rendered screenshots. Its test task counts (177, 142 and 694) are lower than the 252, 177 and 912 task instances that the Mind2Web README lists for the cross-task, cross-website and cross-domain test sets. The card points to the SeeAct repository and paper and declares OpenRAIL, recorded as stated; terms for the underlying website content were not assessed.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-66f780b493156dc7efe5/record.json
+
+### 结构化规格
+
+- 格式：Parquet
+- 模态：webpage screenshots, raw and cleaned HTML, task descriptions, action histories
+- 数据划分：train, test_task, test_website, test_domain
+- 监督信号：target operation per step (CLICK, TYPE or SELECT with value), positive and negative candidate elements
+
+#### 数量记录
+
+- 7,775 action steps — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 1,009 tasks — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 1,339 action steps — test_task split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 177 tasks — test_task split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 1,019 action steps — test_website split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 142 tasks — test_website split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 4,060 action steps — test_domain split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+- 694 tasks — test_domain split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
+
+Action steps and tasks are different units; the split sizes are the card's figures, and a column read of the Parquet files at this revision gave the same step and task counts.
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：openrail — https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/osunlp/Multimodal-Mind2Web（获取于 2026-10-18T16:02:04Z；SHA-256：261ab42b94fc347c2581445f61ed158ffdfd201f192c51ded49fe9fe1b298503）
+- https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md（获取于 2026-10-18T16:02:04Z；SHA-256：8bb1e02777556f3f679c4610be9e5572b3cb218a89b98d6f75a4fc1b82fa06dd）
+- https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/33bd95caeee7bba22dd08ecc935845e15c5e5dc7/README.md（获取于 2026-10-18T16:02:15Z；SHA-256：157dbd840264ea29f958c0b7383d63783845c573b3e19a1f39b773be22e0b32d）
+- https://huggingface.co/api/datasets/osunlp/Multimodal-Mind2Web（获取于 2026-10-18T16:02:04Z；SHA-256：261ab42b94fc347c2581445f61ed158ffdfd201f192c51ded49fe9fe1b298503）
 
 ---
 
@@ -1183,6 +1239,53 @@ Stage 2 trajectory release, Hub revision bd6f1ed4, is distinct from Stage 1 grou
 
 ---
 
+## AutoGUI v1 training data
+
+基于截图的定位和图像描述样本，包含 UI 功能描述、目标坐标和边界框。
+
+- 目录页面：https://awesomecua.com/resources/url-79287058342289aa5d45/
+- 原始来源：https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、跨平台
+- 主题：GUI 定位、界面理解
+- 证据核查日期：2026-10-16T10:42:13Z
+- ID：url:79287058342289aa5d45
+
+### 范围记录
+
+The row count and unique-screen count are different units. The data card documents image scaling conventions that affect coordinate interpretation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-79287058342289aa5d45/record.json
+
+### 结构化规格
+
+- 格式：未记录
+- 模态：screenshots, instructions, functionality labels, bounding boxes
+- 数据划分：train
+- 监督信号：element grounding, functionality captioning
+
+#### 数量记录
+
+- 701,864 training rows — default/train in the dataset card metadata（来源报告；来源：https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md）
+
+Rows and unique screenshots are different units. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md（获取于 2026-10-16T10:42:13Z；SHA-256：c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7）
+- https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md（获取于 2026-10-16T10:42:13Z；SHA-256：c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7）
+
+---
+
 ## CAGUI
 
 CAGUI 是随 AgentCPM-GUI 发布的中文 Android GUI 基准，包含面向控件和 OCR 文本的定位任务，以及面向中文应用多步任务的智能体任务。
@@ -1464,62 +1567,6 @@ Split counts are video-annotation rows; scene and action totals are rounded publ
 - https://huggingface.co/api/datasets/runamu/MONDAY（获取于 2026-10-17T12:32:07Z；SHA-256：f55c319a70c8ff988049363dc8fc266a9f1b1a09b8ac7096ee573f962e8f9492）
 - https://raw.githubusercontent.com/runamu/monday/HEAD/README.md（获取于 2026-10-17T12:30:53Z；SHA-256：cb3d2329571a80b6edeab98c04f8b63c7f4e976929788d6a8283238b0b7fdadc）
 - https://raw.githubusercontent.com/runamu/monday/HEAD/LICENSE（获取于 2026-10-17T12:34:09Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
-
----
-
-## Multimodal-Mind2Web
-
-Mind2Web 操作步骤与对应网页截图对齐，附原始及清理后的 HTML、候选元素和目标操作，包含训练集及按任务、网站和域名划分的留出测试集。
-
-- 目录页面：https://awesomecua.com/resources/url-66f780b493156dc7efe5/
-- 原始来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web
-- 类型：数据集
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、动作预测、评测
-- 证据核查日期：2026-10-18T16:02:04Z
-- ID：url:66f780b493156dc7efe5
-
-### 范围记录
-
-Each row is one action step with the page state before the action; tasks are distinct annotation IDs. The card says the three test splits were human-verified for element visibility and rendering, while the train split may contain badly rendered screenshots. Its test task counts (177, 142 and 694) are lower than the 252, 177 and 912 task instances that the Mind2Web README lists for the cross-task, cross-website and cross-domain test sets. The card points to the SeeAct repository and paper and declares OpenRAIL, recorded as stated; terms for the underlying website content were not assessed.
-
-- 完整记录 JSON：https://awesomecua.com/resources/url-66f780b493156dc7efe5/record.json
-
-### 结构化规格
-
-- 格式：Parquet
-- 模态：webpage screenshots, raw and cleaned HTML, task descriptions, action histories
-- 数据划分：train, test_task, test_website, test_domain
-- 监督信号：target operation per step (CLICK, TYPE or SELECT with value), positive and negative candidate elements
-
-#### 数量记录
-
-- 7,775 action steps — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 1,009 tasks — train split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 1,339 action steps — test_task split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 177 tasks — test_task split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 1,019 action steps — test_website split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 142 tasks — test_website split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 4,060 action steps — test_domain split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-- 694 tasks — test_domain split（来源报告；来源：https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md）
-
-Action steps and tasks are different units; the split sizes are the card's figures, and a column read of the Parquet files at this revision gave the same step and task counts.
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：openrail — https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://huggingface.co/api/datasets/osunlp/Multimodal-Mind2Web（获取于 2026-10-18T16:02:04Z；SHA-256：261ab42b94fc347c2581445f61ed158ffdfd201f192c51ded49fe9fe1b298503）
-- https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md（获取于 2026-10-18T16:02:04Z；SHA-256：8bb1e02777556f3f679c4610be9e5572b3cb218a89b98d6f75a4fc1b82fa06dd）
-- https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/33bd95caeee7bba22dd08ecc935845e15c5e5dc7/README.md（获取于 2026-10-18T16:02:15Z；SHA-256：157dbd840264ea29f958c0b7383d63783845c573b3e19a1f39b773be22e0b32d）
-- https://huggingface.co/api/datasets/osunlp/Multimodal-Mind2Web（获取于 2026-10-18T16:02:04Z；SHA-256：261ab42b94fc347c2581445f61ed158ffdfd201f192c51ded49fe9fe1b298503）
 
 ---
 
@@ -1976,6 +2023,40 @@ Public API revision 33325877 lists Parquet assets but gated=auto; the pinned raw
 
 ---
 
+## UGround-V1-Data-Box
+
+UGround-V1-Data-Box 包含带有图像和对话的 Web-Hybrid 与 Web-Direct 图形界面定位数据；其边界框版本使用归一化坐标。
+
+- 目录页面：https://awesomecua.com/resources/url-9e89e3332db1770388bc/
+- 原始来源：https://huggingface.co/datasets/osunlp/UGround-V1-Data-Box
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：GUI 定位、数据生成、界面理解
+- 证据核查日期：2026-11-09T19:57:12Z
+- ID：url:9e89e3332db1770388bc
+
+### 范围记录
+
+The repository file list contains Parquet shards. The rendered page specifies image bytes, dimensions, and serialized conversations in its record format. Access requires approval, and the page states a CC BY-NC-SA 4.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-9e89e3332db1770388bc/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-nc-sa-4.0 — https://huggingface.co/datasets/osunlp/UGround-V1-Data-Box
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/osunlp/UGround-V1-Data-Box（获取于 2026-11-09T19:57:12Z；SHA-256：eecef815309ed235f58ed7979f2ecbfb9302edfdd8f4e5c6ae420de3babcde66）
+- https://huggingface.co/api/datasets/osunlp/UGround-V1-Data-Box（获取于 2026-11-09T19:57:12Z；SHA-256：eecef815309ed235f58ed7979f2ecbfb9302edfdd8f4e5c6ae420de3babcde66）
+
+---
+
 ## UI-AGILE-Data
 
 UI-AGILE 训练标注和截图，以及转换后的 GUI 定位和 AndroidControl 评估文件。
@@ -2237,6 +2318,40 @@ AgentRewardBench 的 Hugging Face 数据集发布版本，包含来自 WebArena�
 
 ---
 
+## AMEX-8K
+
+AMEX 的一个 8K 样本子集，收录不同应用、设备形态和屏幕密度的移动应用截图，用于 GUI 定位预训练。
+
+- 目录页面：https://awesomecua.com/resources/url-2b4b3e54d9c52f868b4e/
+- 原始来源：https://huggingface.co/datasets/zonghanHZH/AMEX-8k
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android、iOS
+- 主题：GUI 定位、手机操作、数据生成
+- 证据核查日期：2026-11-09T19:57:10Z
+- ID：url:2b4b3e54d9c52f868b4e
+
+### 范围记录
+
+The card identifies AMEX as the source dataset and lists Apache 2.0 licensing. It names the ZonUI-3B paper as using this subset in its training corpus.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-2b4b3e54d9c52f868b4e/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/zonghanHZH/AMEX-8k
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/zonghanHZH/AMEX-8k（获取于 2026-11-09T19:57:10Z；SHA-256：ec70a6c3db4c1f4700287aa7c71ab8d55a03e161826ccd31853b36f809c16f22）
+- https://huggingface.co/api/datasets/zonghanHZH/AMEX-8k（获取于 2026-11-09T19:57:10Z；SHA-256：ec70a6c3db4c1f4700287aa7c71ab8d55a03e161826ccd31853b36f809c16f22）
+
+---
+
 ## android_control_test
 
 android_control_test 提供经过处理的 Android Control 测试集，用于评估 InfiGUI-R1 移动界面智能体。
@@ -2424,50 +2539,39 @@ The card identifies deprecated desktop files with screenshot-mapping errors and 
 
 ---
 
-## AutoGUI v1 training data
+## AutoGUI-v1-zip
 
-基于截图的定位和图像描述样本，包含 UI 功能描述、目标坐标和边界框。
+这是 AutoGUI 的训练数据仓库，包含带标注的图形界面数据集和选定的视觉数据集，并说明如何合并其 JSON 文件用于微调。
 
-- 目录页面：https://awesomecua.com/resources/url-79287058342289aa5d45/
-- 原始来源：https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k
+- 目录页面：https://awesomecua.com/resources/url-02370867dd4b96000a33/
+- 原始来源：https://huggingface.co/datasets/WebAgent/AutoGUI-v1-zip
 - 类型：数据集
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：网页、跨平台
-- 主题：GUI 定位、界面理解
-- 证据核查日期：2026-10-16T10:42:13Z
-- ID：url:79287058342289aa5d45
+- 运行环境：unspecified
+- 主题：数据生成、界面理解
+- 证据核查日期：2026-11-09T19:58:07Z
+- ID：url:02370867dd4b96000a33
 
 ### 范围记录
 
-The row count and unique-screen count are different units. The data card documents image scaling conventions that affect coordinate interpretation.
+The repository lists JSON data and image archives. The card instructs users to adjust image paths and merge three JSON files for the AutoGUI training script. It declares a cc license.
 
-- 完整记录 JSON：https://awesomecua.com/resources/url-79287058342289aa5d45/record.json
-
-### 结构化规格
-
-- 格式：未记录
-- 模态：screenshots, instructions, functionality labels, bounding boxes
-- 数据划分：train
-- 监督信号：element grounding, functionality captioning
-
-#### 数量记录
-
-- 701,864 training rows — default/train in the dataset card metadata（来源报告；来源：https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md）
-
-Rows and unique screenshots are different units. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.
+- 完整记录 JSON：https://awesomecua.com/resources/url-02370867dd4b96000a33/record.json
 
 ### 许可证信息
 
 - 代码：未记录
-- 数据：cc-by-4.0 — https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md
+- 数据：cc — https://huggingface.co/datasets/WebAgent/AutoGUI-v1-zip
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md（获取于 2026-10-16T10:42:13Z；SHA-256：c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7）
-- https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md（获取于 2026-10-16T10:42:13Z；SHA-256：c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7）
+- https://huggingface.co/api/datasets/WebAgent/AutoGUI-v1-zip（获取于 2026-11-09T19:58:07Z；SHA-256：4650e1a432aba0ccc003c29d757bc6811edde1fa4573b9953efa3cded2a8bd55）
+- https://huggingface.co/api/datasets/WebAgent/AutoGUI-v1-zip（获取于 2026-11-09T19:58:07Z；SHA-256：4650e1a432aba0ccc003c29d757bc6811edde1fa4573b9953efa3cded2a8bd55）
+- https://huggingface.co/api/datasets/WebAgent/AutoGUI-v1-zip（获取于 2026-11-09T20:03:11Z；SHA-256：4650e1a432aba0ccc003c29d757bc6811edde1fa4573b9953efa3cded2a8bd55）
+- https://huggingface.co/api/datasets/HongxinLi/AutoGUI-v1-zip（获取于 2026-11-09T20:03:11Z；SHA-256：4650e1a432aba0ccc003c29d757bc6811edde1fa4573b9953efa3cded2a8bd55）
 
 ---
 
@@ -2502,6 +2606,74 @@ The repository file list includes a behavior CSV. The card says the synthetic we
 
 - https://huggingface.co/api/datasets/ScaleAI/BrowserART（获取于 2026-11-09T06:16:32Z；SHA-256：854d13f5b05b7b0f7f96f0c2f6016dbe2ead826a4d6255574c323ad743b29ca2）
 - https://huggingface.co/api/datasets/ScaleAI/BrowserART（获取于 2026-11-09T06:16:32Z；SHA-256：854d13f5b05b7b0f7f96f0c2f6016dbe2ead826a4d6255574c323ad743b29ca2）
+
+---
+
+## ChilleD/WildAWM
+
+WildAWM 提供 341 项跨命令行、MCP 和网页界面的计算机使用任务，包含固定的任务环境以及供 Harbor 运行的训练集和测试集。
+
+- 目录页面：https://awesomecua.com/resources/url-eb8af3be965f5c0fde6a/
+- 原始来源：https://huggingface.co/datasets/ChilleD/WildAWM
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、网页
+- 主题：评测、数据生成、沙箱、工具集成
+- 证据核查日期：2026-11-09T19:56:22Z
+- ID：url:eb8af3be965f5c0fde6a
+
+### 范围记录
+
+The card lists 100 supervised fine-tuning tasks, 208 reinforcement-learning tasks, and 33 test tasks. It describes programmatic verification with completion and failure rewards.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-eb8af3be965f5c0fde6a/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/ChilleD/WildAWM（获取于 2026-11-09T19:56:22Z；SHA-256：be67f753d85e6d1de66f1d22a247a80131d71647f58b2758e53e71ab9d644733）
+- https://huggingface.co/api/datasets/ChilleD/WildAWM（获取于 2026-11-09T19:56:22Z；SHA-256：be67f753d85e6d1de66f1d22a247a80131d71647f58b2758e53e71ab9d644733）
+
+---
+
+## Cie1/MMSearch-Plus
+
+一个包含 311 项图像任务的数据集，用于评估通过迭代检索图像和文本来回答问题的多模态网页浏览智能体。
+
+- 目录页面：https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/
+- 原始来源：https://huggingface.co/datasets/Cie1/MMSearch-Plus
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、界面理解
+- 证据核查日期：2026-11-09T19:57:44Z
+- ID：url:8fd4e25ae5c0fe619969
+
+### 范围记录
+
+The card describes five Arrow shards, encrypted answers, and a decryption helper. It records corrections to two answer annotations and declares a CC BY 4.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/Cie1/MMSearch-Plus
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Cie1/MMSearch-Plus（获取于 2026-11-09T19:57:44Z；SHA-256：bf8e8178e5ce2e31e7be679b0457b876cbcb99266eae43dddcb1ef933544d5d6）
+- https://huggingface.co/api/datasets/Cie1/MMSearch-Plus（获取于 2026-11-09T19:57:44Z；SHA-256：bf8e8178e5ce2e31e7be679b0457b876cbcb99266eae43dddcb1ef933544d5d6）
 
 ---
 
@@ -2570,6 +2742,40 @@ The repository lists image.zip, data.zip, and output.zip. The card says the arch
 
 - https://huggingface.co/api/datasets/johnzqlu/clawgui-eval（获取于 2026-11-09T06:16:38Z；SHA-256：2cf582665728f9ce157236b5f8e23dd4383568325e62e2d8a809214bff313ac3）
 - https://huggingface.co/api/datasets/johnzqlu/clawgui-eval（获取于 2026-11-09T06:16:38Z；SHA-256：2cf582665728f9ce157236b5f8e23dd4383568325e62e2d8a809214bff313ac3）
+
+---
+
+## ConClick-Data
+
+ConClick-Data 提供带目标坐标和干扰项框的截图定位样本，以 JSONL 文件形式发布，供训练使用。
+
+- 目录页面：https://awesomecua.com/resources/url-bf416a816f74718f94dd/
+- 原始来源：https://huggingface.co/datasets/ruotian/ConClick-Data
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：GUI 定位、数据生成、界面理解
+- 证据核查日期：2026-11-09T19:56:15Z
+- ID：url:bf416a816f74718f94dd
+
+### 范围记录
+
+The card describes separate target–distractor and ordinary grounding files derived from Click-100k. It says screenshots retain their upstream source terms.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-bf416a816f74718f94dd/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：other — https://huggingface.co/datasets/ruotian/ConClick-Data
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/ruotian/ConClick-Data（获取于 2026-11-09T19:56:15Z；SHA-256：9954accff9c056352ccca18dbc315c2bfe43f0baa16c37f3d5e671f8dcef9693）
+- https://huggingface.co/api/datasets/ruotian/ConClick-Data（获取于 2026-11-09T19:56:15Z；SHA-256：9954accff9c056352ccca18dbc315c2bfe43f0baa16c37f3d5e671f8dcef9693）
 
 ---
 
@@ -3036,6 +3242,74 @@ Video files were counted from the Hub file manifest; video, question and annotat
 
 ---
 
+## gui_and_terminal_operation_recording
+
+一个收录图形界面和终端操作记录的数据集。图形界面会话包含带时间戳的截图、鼠标事件和键盘事件；终端会话包含输入与输出日志。
+
+- 目录页面：https://awesomecua.com/resources/url-dfa0c83ebd679a37ad00/
+- 原始来源：https://huggingface.co/datasets/cybergod-agi/gui_and_terminal_operation_recording
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：录制、数据生成、工具集成
+- 证据核查日期：2026-11-09T19:57:42Z
+- ID：url:dfa0c83ebd679a37ad00
+
+### 范围记录
+
+The repository lists individual recording files and a 7z archive of the same directory structure. The card declares the Unlicense license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-dfa0c83ebd679a37ad00/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：unlicense — https://huggingface.co/datasets/cybergod-agi/gui_and_terminal_operation_recording
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/cybergod-agi/gui_and_terminal_operation_recording（获取于 2026-11-09T19:57:42Z；SHA-256：3e8e163e3b7b66542bedd273c4f1a7a8c231a6844787005122a907ddc2b6fcc3）
+- https://huggingface.co/api/datasets/cybergod-agi/gui_and_terminal_operation_recording（获取于 2026-11-09T19:57:42Z；SHA-256：3e8e163e3b7b66542bedd273c4f1a7a8c231a6844787005122a907ddc2b6fcc3）
+
+---
+
+## GUI_Reflection_SFT_train
+
+GUI Reflection 的离线监督微调数据，以 JSONL 文件发布；配套图像需从卡片列出的原始数据集获取。
+
+- 目录页面：https://awesomecua.com/resources/url-528f6fe128b77e9615aa/
+- 原始来源：https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：模仿学习、自我反思、数据生成
+- 证据核查日期：2026-11-09T05:05:16Z
+- ID：url:528f6fe128b77e9615aa
+
+### 范围记录
+
+The repository lists JSONL files for several source datasets and reflection examples. The card declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-528f6fe128b77e9615aa/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_SFT_train（获取于 2026-11-09T05:05:16Z；SHA-256：e4f44e03fc317dabcc66e8fecfe9285805cd1cbc746a9bc1e106a520f434d8a0）
+- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_SFT_train（获取于 2026-11-09T05:05:16Z；SHA-256：e4f44e03fc317dabcc66e8fecfe9285805cd1cbc746a9bc1e106a520f434d8a0）
+
+---
+
 ## GUICourse
 
 用于将通用 VLM 转化为 GUI 智能体的 3 个数据集：面向 OCR 和定位的 GUIEnv、含 67k 条单步及 15k 条多步网页和 Android 操作的 GUIAct，以及 GUIChat 对话数据。
@@ -3062,6 +3336,95 @@ Video files were counted from the Hub file manifest; video, question and annotat
 ### 一手证据
 
 - https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md（获取于 2026-10-16T06:36:01Z；SHA-256：0968273442bfb9a6478fe78f8b9a6247a3bb8e6d028880939b432fd009961e98）
+
+---
+
+## InSTA 150k Tasks (v3)
+
+InSTA 项目约 15 万项网页导航任务，每项提供网站域名、指令、建议步骤和成功标准，训练集与测试集取自不同网站。
+
+- 目录页面：https://awesomecua.com/resources/url-a80c7330dbfd4f897693/
+- 原始来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、数据生成
+- 证据核查日期：2026-10-18T16:03:36Z
+- ID：url:a80c7330dbfd4f897693
+
+### 范围记录
+
+The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agents) and points to an LLM judge in the separate data-for-agents/insta code repository; this record covers the task data. Rows contain text task specifications alone, with agent trajectories and screenshots outside this release. The card declares MIT for the dataset.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-a80c7330dbfd4f897693/record.json
+
+### 结构化规格
+
+- 格式：Parquet
+- 模态：text
+- 数据划分：train, test
+- 监督信号：task instructions, suggested step lists, success criteria
+
+#### 数量记录
+
+- ≈ 150,000 tasks — complete v3 release（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
+- 143,508 examples — train split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
+- 2,933 examples — test split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
+- 2,933 distinct website domains — test split（计算得出；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet）
+
+Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file.
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：MIT — https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md
+- 文档：未记录
+- 权重：未记录
+
+- 数据审核：Publisher dataset-card declaration for the v3 task release; the InSTA code repository and the websites named in tasks are not covered by this evidence.
+  来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md
+
+### 一手证据
+
+- https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md（获取于 2026-10-18T16:03:36Z；SHA-256：0a005ebed3bc549e700fb3d6a8db64a99fe28acce7c46ceb4c66cbe37c009d23）
+- https://huggingface.co/api/datasets/data-for-agents/insta-150k-v3（获取于 2026-10-18T16:03:35Z；SHA-256：480f7e251f32652812aafd5ffcb638a14c9612cec73bbb33c245f9685a542808）
+- https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet（获取于 2026-10-18T16:04:11Z；SHA-256：3ae8bb40fd3da6991c15e5d34579b0a631f9ad520ad70a09358ef99770cb239d）
+- https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md（获取于 2026-10-18T16:03:36Z；SHA-256：0a005ebed3bc549e700fb3d6a8db64a99fe28acce7c46ceb4c66cbe37c009d23）
+
+---
+
+## James4Ever0/the_frozen_forest
+
+这是一个将屏幕录像与键盘、鼠标事件配对的数据集归档。时间戳文件用于对应视频帧与记录下的输入操作。
+
+- 目录页面：https://awesomecua.com/resources/url-ede673f7e6f369eae600/
+- 原始来源：https://huggingface.co/datasets/James4Ever0/the_frozen_forest
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：录制、视频、数据生成
+- 证据核查日期：2026-11-09T19:57:28Z
+- ID：url:ede673f7e6f369eae600
+
+### 范围记录
+
+The repository contains recordings.rar. The card describes timestamped folders containing video, HID event records and timestamp JSON files, and declares a WTFPL license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-ede673f7e6f369eae600/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：wtfpl — https://huggingface.co/datasets/James4Ever0/the_frozen_forest
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/James4Ever0/the_frozen_forest（获取于 2026-11-09T19:57:28Z；SHA-256：861e9a2a44ef7386d6b207e08832a0132428f9098d7136ca2009658fdd15f46e）
+- https://huggingface.co/api/datasets/James4Ever0/the_frozen_forest（获取于 2026-11-09T19:57:28Z；SHA-256：861e9a2a44ef7386d6b207e08832a0132428f9098d7136ca2009658fdd15f46e）
 
 ---
 
@@ -3113,6 +3476,176 @@ Coordinates were resized for a specified Qwen2.5-VL image processor and must rem
 
 ---
 
+## LexBench-Trajectory-Replay
+
+LexBench-Trajectory-Replay 提供 30 个公开网站任务，包含固定的浏览器操作和断言，用于评估浏览器执行与信息获取。
+
+- 目录页面：https://awesomecua.com/resources/url-c049eba816b97d5076d0/
+- 原始来源：https://huggingface.co/datasets/Lexmount/LexBench-Trajectory-Replay
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、工作流
+- 证据核查日期：2026-11-09T19:56:08Z
+- ID：url:c049eba816b97d5076d0
+
+### 范围记录
+
+The card identifies a test split in data/curated-v1.jsonl and a runtime suite in definitions/suites/curated-v1.json. It declares Apache-2.0 licensing.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-c049eba816b97d5076d0/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/Lexmount/LexBench-Trajectory-Replay
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Lexmount/LexBench-Trajectory-Replay（获取于 2026-11-09T19:56:08Z；SHA-256：bd851321fe399fd11eec2cc933f202d5c91d7c28205ba19598d40e43e627b884）
+- https://huggingface.co/api/datasets/Lexmount/LexBench-Trajectory-Replay（获取于 2026-11-09T19:56:08Z；SHA-256：bd851321fe399fd11eec2cc933f202d5c91d7c28205ba19598d40e43e627b884）
+
+---
+
+## LexBench-WebArena-Replay
+
+LexBench-WebArena-Replay 将 WebArena 任务定义与固定的浏览器操作配对，供 Browser Eval 重放操作并对已发布的 812 项任务评估完成情况。
+
+- 目录页面：https://awesomecua.com/resources/url-a96c70bcf5a235f980b6/
+- 原始来源：https://huggingface.co/datasets/Lexmount/LexBench-WebArena-Replay
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、录制
+- 证据核查日期：2026-11-09T19:57:26Z
+- ID：url:a96c70bcf5a235f980b6
+
+### 范围记录
+
+The release includes a JSONL viewer split and an archive of runtime suites, task scopes, corrected inputs, a site map and file hashes. Execution requires self-hosted WebArena sites and the Browser Eval implementation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-a96c70bcf5a235f980b6/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/Lexmount/LexBench-WebArena-Replay
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Lexmount/LexBench-WebArena-Replay（获取于 2026-11-09T19:57:26Z；SHA-256：1f99a48d5c214ee5e22fb3cbc7bc3d7f49fabd678ac76a48a724bddde19a4b33）
+- https://huggingface.co/api/datasets/Lexmount/LexBench-WebArena-Replay（获取于 2026-11-09T19:57:26Z；SHA-256：1f99a48d5c214ee5e22fb3cbc7bc3d7f49fabd678ac76a48a724bddde19a4b33）
+
+---
+
+## LGWM data and RSWT-Bench
+
+一个用于训练世界模型的图形界面屏幕状态转换数据集，并附有 RSWT-Bench，用于评估观察到的屏幕是否由预期操作产生。
+
+- 目录页面：https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/
+- 原始来源：https://huggingface.co/datasets/jiamingzz/lgwm-data
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android、网页、跨平台
+- 主题：数据生成、评测、世界模型、安全与防护
+- 证据核查日期：2026-11-09T19:58:06Z
+- ID：url:fde41ce8459b7d3f647f
+
+### 范围记录
+
+The card lists training and validation transition indices, screenshot shards and benchmark train and test splits. It identifies the accompanying paper.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/jiamingzz/lgwm-data（获取于 2026-11-09T19:58:06Z；SHA-256：0f6310fa2c8ef9320e440732393eddc1c9afc2a325f0462ce11a37aa5e283ebe）
+- https://huggingface.co/api/datasets/jiamingzz/lgwm-data（获取于 2026-11-09T19:58:06Z；SHA-256：0f6310fa2c8ef9320e440732393eddc1c9afc2a325f0462ce11a37aa5e283ebe）
+
+---
+
+## lumos_unified_ground_iterative
+
+这是供 Lumos-I 定位模块训练的 JSONL 数据集，汇集数学、问答和网页智能体标注，其中包括 Mind2Web 样本。
+
+- 目录页面：https://awesomecua.com/resources/url-87bba046fba8c1cd968c/
+- 原始来源：https://huggingface.co/datasets/ai2lumos/lumos_unified_ground_iterative
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：GUI 定位、网页导航、模仿学习
+- 证据核查日期：2026-11-09T19:57:38Z
+- ID：url:87bba046fba8c1cd968c
+
+### 范围记录
+
+The repository lists a JSONL data file and an Apache-2.0 license. The card identifies the resource's paper as arXiv:2311.05657.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-87bba046fba8c1cd968c/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/ai2lumos/lumos_unified_ground_iterative
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/ai2lumos/lumos_unified_ground_iterative（获取于 2026-11-09T19:57:38Z；SHA-256：316af5b9ad684ce01a4fca1d20f6125a33667224c2caa12057dd4dcfec71a779）
+- https://huggingface.co/api/datasets/ai2lumos/lumos_unified_ground_iterative（获取于 2026-11-09T19:57:38Z；SHA-256：316af5b9ad684ce01a4fca1d20f6125a33667224c2caa12057dd4dcfec71a779）
+
+---
+
+## lumos_unified_plan_iterative
+
+lumos_unified_plan_iterative 是用于训练 Lumos 规划模块的 JSONL 数据集，汇集了网页智能体、数学和复杂问答任务的样本。
+
+- 目录页面：https://awesomecua.com/resources/url-543aff764901777e6ad5/
+- 原始来源：https://huggingface.co/datasets/ai2lumos/lumos_unified_plan_iterative
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：规划、网页导航、数据生成
+- 证据核查日期：2026-11-09T19:55:45Z
+- ID：url:543aff764901777e6ad5
+
+### 范围记录
+
+The repository includes a JSONL data file. The card lists Mind2Web among the data sources and declares an Apache-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-543aff764901777e6ad5/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/ai2lumos/lumos_unified_plan_iterative
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/ai2lumos/lumos_unified_plan_iterative（获取于 2026-11-09T19:55:45Z；SHA-256：218b2e60f439ec331b2004b0dc911ff8cd1eb8f435233a59e787e5429cf3680f）
+- https://huggingface.co/api/datasets/ai2lumos/lumos_unified_plan_iterative（获取于 2026-11-09T19:55:45Z；SHA-256：218b2e60f439ec331b2004b0dc911ff8cd1eb8f435233a59e787e5429cf3680f）
+
+---
+
 ## lumos_web_agent_plan_iterative
 
 这是用于训练 Lumos-Iterative 网页智能体规划模块的数据集；数据概览列出 1009 条 Mind2Web 任务标注。
@@ -3144,6 +3677,40 @@ The repository contains a JSONL data file. The card declares Apache-2.0 and link
 
 - https://huggingface.co/api/datasets/ai2lumos/lumos_web_agent_plan_iterative（获取于 2026-11-09T05:05:19Z；SHA-256：fb27dc6294ff4bace360fdb62cc5c160478cf59a56671d2257455744a0adf2d6）
 - https://huggingface.co/api/datasets/ai2lumos/lumos_web_agent_plan_iterative（获取于 2026-11-09T05:05:19Z；SHA-256：fb27dc6294ff4bace360fdb62cc5c160478cf59a56671d2257455744a0adf2d6）
+
+---
+
+## luzimu/WebGen-Bench
+
+该数据集收录网站生成指令和 UI 测试用例，用于评估交互式网站，并设有独立的训练集和测试集。
+
+- 目录页面：https://awesomecua.com/resources/url-405959de004b6e32c911/
+- 原始来源：https://huggingface.co/datasets/luzimu/WebGen-Bench
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、界面设计
+- 证据核查日期：2026-11-09T19:56:12Z
+- ID：url:405959de004b6e32c911
+
+### 范围记录
+
+The card reports 6667 training instructions, 101 test instructions and 647 test cases. The repository contains train and test Parquet files and declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-405959de004b6e32c911/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/luzimu/WebGen-Bench
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/luzimu/WebGen-Bench（获取于 2026-11-09T19:56:12Z；SHA-256：3e967dc4663052e125531ea5e4f10e9af4902b753591543f6e8e4c2967dec12c）
+- https://huggingface.co/api/datasets/luzimu/WebGen-Bench（获取于 2026-11-09T19:56:12Z；SHA-256：3e967dc4663052e125531ea5e4f10e9af4902b753591543f6e8e4c2967dec12c）
 
 ---
 
@@ -3793,6 +4360,108 @@ The Hub card supplies a license but no detailed schema. Dataset purpose is suppo
 
 ---
 
+## OneJev-Data
+
+OneJev-Data 以 Parquet 文件发布 94,707 条问答训练数据，涵盖 GUI 智能体运行记录、屏幕、图像、视频和文本。
+
+- 目录页面：https://awesomecua.com/resources/url-f2e2030eaee4250d995d/
+- 原始来源：https://huggingface.co/datasets/OmniJev/OneJev-Data
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：数据生成、界面理解、视频
+- 证据核查日期：2026-11-09T19:56:33Z
+- ID：url:f2e2030eaee4250d995d
+
+### 范围记录
+
+The full training split is stored in 18 Parquet files, alongside a 100-row sample. Each row retains its source license, recorded in the license column and licenses.csv.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-f2e2030eaee4250d995d/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：other — https://huggingface.co/datasets/OmniJev/OneJev-Data
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/OmniJev/OneJev-Data（获取于 2026-11-09T19:56:33Z；SHA-256：73166b2733fff59c6c924944c812fb307107832f4768bf33098aa2c04ce463b5）
+- https://huggingface.co/api/datasets/OmniJev/OneJev-Data（获取于 2026-11-09T19:56:33Z；SHA-256：73166b2733fff59c6c924944c812fb307107832f4768bf33098aa2c04ce463b5）
+
+---
+
+## OpenJev-Data
+
+OpenJev-Data 提供带标签的浏览器操作步骤，用于训练模型选择网页智能体的下一步操作及目标元素，并提供固定测试集以评估端点。
+
+- 目录页面：https://awesomecua.com/resources/url-a54a35c90681ced60cec/
+- 原始来源：https://huggingface.co/datasets/alanhuangya/OpenJev-Data
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：动作预测、网页导航、评测、数据生成
+- 证据核查日期：2026-11-09T19:57:36Z
+- ID：url:a54a35c90681ced60cec
+
+### 范围记录
+
+The card lists Parquet configurations with training, validation, and test splits. Its license field says mixed-see-card.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-a54a35c90681ced60cec/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：other — https://huggingface.co/datasets/alanhuangya/OpenJev-Data
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/alanhuangya/OpenJev-Data（获取于 2026-11-09T19:57:36Z；SHA-256：7459e00d6843a6a8bfb39a17642ecf161efb97f351ccfecbdfedb13c2f95090d）
+- https://huggingface.co/api/datasets/alanhuangya/OpenJev-Data（获取于 2026-11-09T19:57:36Z；SHA-256：7459e00d6843a6a8bfb39a17642ecf161efb97f351ccfecbdfedb13c2f95090d）
+
+---
+
+## OS-Copilot/OS-Shepherd-100K
+
+一个包含图形界面智能体轨迹和截图的数据集，用于训练判断任务是否完成的模型，并提供监督训练记录及强化学习数据划分。
+
+- 目录页面：https://awesomecua.com/resources/url-d716497286ae5cd5e762/
+- 原始来源：https://huggingface.co/datasets/OS-Copilot/OS-Shepherd-100K
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：奖励模型、数据生成、评测
+- 证据核查日期：2026-11-09T19:57:44Z
+- ID：url:d716497286ae5cd5e762
+
+### 范围记录
+
+The card lists supervised JSON files, screenshot tar shards, and GRPO training and validation Parquet files. It also describes a mobile trajectory supplement.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-d716497286ae5cd5e762/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/OS-Copilot/OS-Shepherd-100K（获取于 2026-11-09T19:57:44Z；SHA-256：d4df1d3dc30c514bed42ee3c09c04de4e9c5fe6421ad8e2d15904920d2e7c7a8）
+- https://huggingface.co/api/datasets/OS-Copilot/OS-Shepherd-100K（获取于 2026-11-09T19:57:44Z；SHA-256：d4df1d3dc30c514bed42ee3c09c04de4e9c5fe6421ad8e2d15904920d2e7c7a8）
+
+---
+
 ## OSWorld 2.0 trajectories
 
 XLang 受限发布的 OSWorld 2.0 智能体运行数据：21 个按模型和运行设置命名的 ZIP 结果归档，以及七次模型运行的逐任务轨迹 JSONL、逐步截图、结果和日志。
@@ -3914,6 +4583,137 @@ All counts come from a script over the pinned Hub file list; no file was downloa
 
 ---
 
+## OSWorld-V2 0624 Codex attempt trajectories
+
+自报的 OSWorld-V2 运行数据，涵盖 Codex 框架使用 gpt-5.6-sol 在全部 108 项任务上的逐步 CLI 和 GUI 操作、截图及评分，以及重试记录和指导操作的解题卡与恢复卡。
+
+- 目录页面：https://awesomecua.com/resources/url-9112dfcb201f2de7241f/
+- 原始来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：评测、可观测性
+- 证据核查日期：2026-10-18T15:49:15Z
+- ID：url:9112dfcb201f2de7241f
+
+### 范围记录
+
+The card calls this a self-reported trajectory package; it links no paper or harness code, and the run was not listed in the official OSWorld-V2 leaderboard data when checked on 2026-10-18. run_manifest.json records benchmark release osworld-v2-2026.06.24, a Docker provider with a QEMU backend at 1920x1080, a 400-step limit, a screenshot at every step with accessibility tree and OCR on demand, and a multi-attempt policy with one reported result per task. Per task_results.csv, 83 reported results come from initial attempts, 22 from recovery attempts and 3 from retries; the preview table names a different selected attempt for 6 tasks, and the manifest and summary.json give different recovery limits (2 and 3). Each attempt has a card written as instructions to the agent: the solution card opened for task 001 lists the exact schedule entries to enter, the events to delete and the final checks, and the recovery card opened for task 002 plans a guided retry from its parent attempt. summary.json reports a mean score of 0.661 and 43 binary passes over 108 tasks (the preview table marks 44 because task 015 scores 0.9999999999999999); these are publisher measurements from guided, multi-attempt runs. Linux is established from the Ubuntu Calendar target and /home/user shell commands in task 001. The card declares no license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-9112dfcb201f2de7241f/record.json
+
+### 结构化规格
+
+- 格式：JSONL, JSON, PNG, CSV, Parquet
+- 模态：screenshots, action trajectories, task guidance cards, scores
+- 数据划分：未记录
+- 监督信号：agent-generated trajectories, evaluator task scores
+
+#### 数量记录
+
+- 108 tasks — OSWorld-V2 v2026.06.24 tasks 001-108 in this run（来源报告；来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json）
+- 108 reported task folders with traj.jsonl — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 154 retained earlier-attempt folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 132 solution cards — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 51 recovery cards — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 12,868 PNG screenshots in reported task folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+- 16,400 PNG screenshots in earlier-attempt folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
+
+Counts come from a script over the pinned Hub file list; tasks, folders, cards and screenshots are different units and are counted separately. The manifest's own card totals (132 solution, 51 recovery) match the file list. The preview Parquet and CSV tables are derived indexes of the same trajectories. Scores come from the benchmark evaluator as reported by the publisher; no trajectory was replayed.
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+- 数据审核：Neither the card metadata nor the file list at this revision declares a license, so no data grant is established. Agent outputs and logged third-party content keep their own terms.
+  来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/README.md
+
+### 一手证据
+
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/README.md（获取于 2026-10-18T15:49:15Z；SHA-256：73f86ad3b7fac604225cb982469db22ac68d863cbe0a636e3bee40fd0e7a5bdb）
+- https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2（获取于 2026-10-18T15:49:14Z；SHA-256：1f1a6cabddd3e68b93b61bb78648788d88df4ca829ebc0d3cc4542049e906857）
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json（获取于 2026-10-18T15:49:14Z；SHA-256：5bb8864f430494a989c86a8717ec1e210e63d16d58a3593990c4986a949a5f20）
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/summary.json（获取于 2026-10-18T15:49:14Z；SHA-256：1dab011e8a4f1ed1ca5d0da13252f0ac8fd894d07fe6e286bae041bdb059507d）
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/task_results.csv（获取于 2026-10-18T15:49:14Z；SHA-256：dfc978893fc67eeeea8ed1677edde5f6425829f4c3439d8c7b8812ed3384279d）
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/preview/task_summary.csv（获取于 2026-10-18T15:49:14Z；SHA-256：dc8267b5a34741f2386d363a8f1ab465db026925c2f52239b5290872d0b572ac）
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/cards/001/attempt_001/solution_card.json（获取于 2026-10-18T15:49:14Z；SHA-256：131afcc6939d517594c70890e250d3e8202d4c9c7662e865921eff120e605c00）
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/cards/002/attempt_002/recovery_card.json（获取于 2026-10-18T15:49:14Z；SHA-256：7ee876e0e0322f815cc2d8ee171cf721c0680c9396d6cabf32ef4aae32457ff4）
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/tasks/001/traj.jsonl（获取于 2026-10-18T15:49:14Z；SHA-256：6450de28c3909d27bbb25099589b4c5bfc65daa42be9d21a31b4ad25e3b47f1b）
+
+---
+
+## P-GUI-Evo
+
+这是一个包含 622 个图形界面场景的合成数据集，用于评估智能体如何提取隐私规则、判断拟执行的操作并响应用户反馈。
+
+- 目录页面：https://awesomecua.com/resources/url-b79ca6f7731ebf067709/
+- 原始来源：https://huggingface.co/datasets/Keonq/P-GUI-Evo
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台
+- 主题：安全与防护、评测、界面理解、数据生成
+- 证据核查日期：2026-11-09T19:56:40Z
+- ID：url:b79ca6f7731ebf067709
+
+### 范围记录
+
+The release describes D1, D2 and D3 evaluation buckets with JSONL manifests and screenshot images. The card declares a CC BY 4.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-b79ca6f7731ebf067709/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/Keonq/P-GUI-Evo
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Keonq/P-GUI-Evo（获取于 2026-11-09T19:56:40Z；SHA-256：660eb1b5d563fdf5f75e5f9b0089e5c8c82ec3deddcb6fb3ee4b3144621bfc31）
+- https://huggingface.co/api/datasets/Keonq/P-GUI-Evo（获取于 2026-11-09T19:56:40Z；SHA-256：660eb1b5d563fdf5f75e5f9b0089e5c8c82ec3deddcb6fb3ee4b3144621bfc31）
+
+---
+
+## pae-data
+
+pae-data 发布与 PAE 互联网智能体研究相关的数据，包括 WebArena 和 WebVoyager 的任务文件及模型检查点文件。
+
+- 目录页面：https://awesomecua.com/resources/url-72301bf2dec104205c8d/
+- 原始来源：https://huggingface.co/datasets/yifeizhou/pae-data
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、数据生成、评测
+- 证据核查日期：2026-11-09T19:57:11Z
+- ID：url:72301bf2dec104205c8d
+
+### 范围记录
+
+The repository file list includes JSONL task sets, an example archive, and checkpoint files. The rendered page lists a CC BY 4.0 license and requires accepting access conditions.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-72301bf2dec104205c8d/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/yifeizhou/pae-data
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/yifeizhou/pae-data（获取于 2026-11-09T19:57:11Z；SHA-256：9a6673f9c8b9eeca2b641e402ac60e3adf9b8881fcd8d47805afb18bed3b92d0）
+- https://huggingface.co/api/datasets/yifeizhou/pae-data（获取于 2026-11-09T19:57:11Z；SHA-256：9a6673f9c8b9eeca2b641e402ac60e3adf9b8881fcd8d47805afb18bed3b92d0）
+
+---
+
 ## PC-Agent-E training data
 
 已发布的 PC-Agent-E 训练数据集，官方流程将其用于改进人工轨迹和合成操作推理。
@@ -4010,6 +4810,40 @@ The release contains planner and actor files for two web environments. No sample
 - https://huggingface.co/datasets/xTRam1/plan-and-act-data/raw/main/README.md（获取于 2026-10-17T02:02:29Z；SHA-256：2ec8f4a03b8331bdd2ba8d6f6800d6dea9d955cfd9e7c1d2168ecb64deb25448）
 - https://huggingface.co/api/datasets/xTRam1/plan-and-act-data（获取于 2026-10-17T02:02:28Z；SHA-256：a98f98b7d4ceb81b00f217983ff271257f2f1e7d2c1a09836b872b2350d79ae9）
 - https://huggingface.co/datasets/xTRam1/plan-and-act-data/raw/main/README.md（获取于 2026-10-17T02:02:29Z；SHA-256：2ec8f4a03b8331bdd2ba8d6f6800d6dea9d955cfd9e7c1d2168ecb64deb25448）
+
+---
+
+## Preflight Bench
+
+这是一个用于评估动态网页点击前检查的数据集，包含成对的截图、点击结果和检查器答案，并提供 Lance 数据表及开发集和测试集。
+
+- 目录页面：https://awesomecua.com/resources/url-a40fc87ac700add33232/
+- 原始来源：https://huggingface.co/datasets/multimodal-ai-engineering/preflight-bench
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、状态追踪、数据生成
+- 证据核查日期：2026-11-09T19:57:47Z
+- ID：url:a40fc87ac700add33232
+
+### 范围记录
+
+The card lists click_pairs, outcome_pairs and checker_answers tables. It states that the data uses six synthetic web pages and includes labels for both splits. The card declares a CC BY 4.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-a40fc87ac700add33232/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/multimodal-ai-engineering/preflight-bench
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/multimodal-ai-engineering/preflight-bench（获取于 2026-11-09T19:57:47Z；SHA-256：f7182f98fbd70b45239f75146b3e5582a957669410575d228cf89de6720411e6）
+- https://huggingface.co/api/datasets/multimodal-ai-engineering/preflight-bench（获取于 2026-11-09T19:57:47Z；SHA-256：f7182f98fbd70b45239f75146b3e5582a957669410575d228cf89de6720411e6）
 
 ---
 
@@ -4119,6 +4953,78 @@ The README's split sizes count screenshots; the CSV row counts count annotated s
 - https://danafergan.com/publications/deka2017rico.pdf（获取于 2026-10-18T12:33:11Z；SHA-256：a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84）
 - https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/valid.csv（获取于 2026-10-18T12:32:44Z；SHA-256：a1f5928168d2dc71e70f41f8dcd7cc8f855d76bde709ddfd4b58e4660aa18457）
 - https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/test.csv（获取于 2026-10-18T12:32:44Z；SHA-256：db247ac02ce875c49c3429ae0bdfef0039cacc663598c61b7541f24342537f98）
+
+---
+
+## Screen2AX-Element
+
+该数据集包含 macOS 应用截图，以及界面元素的边界框和类别标签，用于训练和评估界面元素检测模型。
+
+- 目录页面：https://awesomecua.com/resources/url-e96299566d12e790422e/
+- 原始来源：https://huggingface.co/datasets/MacPaw/Screen2AX-Element
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS
+- 主题：界面理解、GUI 定位、评测
+- 证据核查日期：2026-11-09T19:58:09Z
+- ID：url:e96299566d12e790422e
+
+### 范围记录
+
+The card lists train, valid, and test splits and declares an Apache 2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-e96299566d12e790422e/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/MacPaw/Screen2AX-Element
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/MacPaw/Screen2AX-Element（获取于 2026-11-09T19:58:09Z；SHA-256：eeedf3d2243edcd2aa11df3e282731fe6d6c4d20f67a1834af2384130ab56ecd）
+- https://huggingface.co/api/datasets/MacPaw/Screen2AX-Element（获取于 2026-11-09T19:58:09Z；SHA-256：eeedf3d2243edcd2aa11df3e282731fe6d6c4d20f67a1834af2384130ab56ecd）
+- https://huggingface.co/api/datasets/MacPaw/Screen2AX-Element（获取于 2026-11-09T20:03:13Z；SHA-256：eeedf3d2243edcd2aa11df3e282731fe6d6c4d20f67a1834af2384130ab56ecd）
+- https://huggingface.co/api/datasets/macpaw-research/Screen2AX-Element（获取于 2026-11-09T20:03:13Z；SHA-256：eeedf3d2243edcd2aa11df3e282731fe6d6c4d20f67a1834af2384130ab56ecd）
+
+---
+
+## Screen2AX-Group
+
+一个包含 macOS 应用截图、边界框和界面组标签的数据集，用于训练和评估界面目标检测模型。
+
+- 目录页面：https://awesomecua.com/resources/url-6680e812b94c168e6bed/
+- 原始来源：https://huggingface.co/datasets/MacPaw/Screen2AX-Group
+- 类型：数据集
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、macOS
+- 主题：界面理解、GUI 定位、评测
+- 证据核查日期：2026-11-09T19:56:42Z
+- ID：url:6680e812b94c168e6bed
+
+### 范围记录
+
+The release provides train, valid and test splits in Parquet files. Each sample has an image and objects with bounding boxes and category labels. The card declares an Apache 2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-6680e812b94c168e6bed/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/MacPaw/Screen2AX-Group
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/MacPaw/Screen2AX-Group（获取于 2026-11-09T19:56:42Z；SHA-256：5cc9c0a1e97b60cbfb6b931ae3e5d30ee26aba6fc9468bc57f0b8380361cc7a5）
+- https://huggingface.co/api/datasets/MacPaw/Screen2AX-Group（获取于 2026-11-09T19:56:42Z；SHA-256：5cc9c0a1e97b60cbfb6b931ae3e5d30ee26aba6fc9468bc57f0b8380361cc7a5）
+- https://huggingface.co/api/datasets/MacPaw/Screen2AX-Group（获取于 2026-11-09T20:02:43Z；SHA-256：5cc9c0a1e97b60cbfb6b931ae3e5d30ee26aba6fc9468bc57f0b8380361cc7a5）
+- https://huggingface.co/api/datasets/macpaw-research/Screen2AX-Group（获取于 2026-11-09T20:02:43Z；SHA-256：5cc9c0a1e97b60cbfb6b931ae3e5d30ee26aba6fc9468bc57f0b8380361cc7a5）
 
 ---
 
@@ -4260,6 +5166,40 @@ Row count is the card dataset_info value; one row may contain multiple instructi
 
 ---
 
+## ShowUI-web-8K
+
+ShowUI-web 的一个 8K 样本子集，包含来自不同网站的截图，用于训练网页界面的 GUI 定位模型。
+
+- 目录页面：https://awesomecua.com/resources/url-2260aaa47fb9c63bb917/
+- 原始来源：https://huggingface.co/datasets/zonghanHZH/ShowUI-web-8k
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：GUI 定位、数据生成
+- 证据核查日期：2026-11-09T19:57:15Z
+- ID：url:2260aaa47fb9c63bb917
+
+### 范围记录
+
+The card names ShowUI-web as the source dataset and declares an Apache-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-2260aaa47fb9c63bb917/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/zonghanHZH/ShowUI-web-8k
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/zonghanHZH/ShowUI-web-8k（获取于 2026-11-09T19:57:15Z；SHA-256：172b24977469772785e35919560aa150f11bbd0c97377cefa2c3a6770e62239d）
+- https://huggingface.co/api/datasets/zonghanHZH/ShowUI-web-8k（获取于 2026-11-09T19:57:15Z；SHA-256：172b24977469772785e35919560aa150f11bbd0c97377cefa2c3a6770e62239d）
+
+---
+
 ## ShowUI-π training data
 
 用于 ShowUI-π模型的拖拽和点击操作片段数据，涵盖桌面编辑、演示文稿、手写等界面任务。
@@ -4304,6 +5244,40 @@ No sample or episode count is inferred from the size tag or package manifest. Ma
 
 - https://huggingface.co/datasets/showlab/ShowUI-pi-data/raw/main/README.md（获取于 2026-10-17T04:01:33Z；SHA-256：0e3a2a923865ae24d0de590143e9e32564b0e20db059579582d6181cdcf75bf1）
 - https://huggingface.co/api/datasets/showlab/ShowUI-pi-data（获取于 2026-10-17T04:01:33Z；SHA-256：86fadf9a32185f018f6a8e49d52b39ee5c99c177075510361202dc25a214191f）
+
+---
+
+## TimeWarp
+
+包含 231 个网页智能体任务目标的数据集，覆盖六个界面时代的 Wiki、News 和 Shop 网站，并提供训练集、测试集及评估器规范。
+
+- 目录页面：https://awesomecua.com/resources/url-8be414a28d1984abb1b9/
+- 原始来源：https://huggingface.co/datasets/sparklabutah/timewarp
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、鲁棒性、网页导航
+- 证据核查日期：2026-11-09T19:57:15Z
+- ID：url:8be414a28d1984abb1b9
+
+### 范围记录
+
+The release lists train.csv with 128 goals, test.csv with 103, and data.json with runnable task specifications. The card declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-8be414a28d1984abb1b9/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/sparklabutah/timewarp
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/sparklabutah/timewarp（获取于 2026-11-09T19:57:15Z；SHA-256：19932bff03ae237843b6e8e933eb940912c518c829ea180ae94e3c3e4628cd7d）
+- https://huggingface.co/api/datasets/sparklabutah/timewarp（获取于 2026-11-09T19:57:15Z；SHA-256：19932bff03ae237843b6e8e933eb940912c518c829ea180ae94e3c3e4628cd7d）
 
 ---
 
@@ -4644,6 +5618,74 @@ The repository lists a VeriOS-Bench.zip file. The card points to evaluation scri
 
 - https://huggingface.co/api/datasets/wuuuuuz/VeriOS-Bench（获取于 2026-11-09T05:04:57Z；SHA-256：a83d5343770ef0bc12a00dab4c1c64dba9349d6db58403173b1f20a1102478a5）
 - https://huggingface.co/api/datasets/wuuuuuz/VeriOS-Bench（获取于 2026-11-09T05:04:57Z；SHA-256：a83d5343770ef0bc12a00dab4c1c64dba9349d6db58403173b1f20a1102478a5）
+
+---
+
+## VG-RL-filter-dataset-hf
+
+这是为 GUI-Spotlight 第二阶段训练发布的数据集；数据卡说明作者在该阶段使用了 18.5K 个样本。
+
+- 目录页面：https://awesomecua.com/resources/url-07fb5e963998782505a6/
+- 原始来源：https://huggingface.co/datasets/nuoxu1993/VG-RL-filter-dataset-hf
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：数据生成、GUI 定位
+- 证据核查日期：2026-11-09T19:57:04Z
+- ID：url:07fb5e963998782505a6
+
+### 范围记录
+
+The repository listing contains Arrow data shards. The card does not describe individual fields or a license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-07fb5e963998782505a6/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/nuoxu1993/VG-RL-filter-dataset-hf（获取于 2026-11-09T19:57:04Z；SHA-256：ca57c936b2732f3f06f4e95d3f3233c3bedb2389ef8c98648859968a86629cfe）
+- https://huggingface.co/api/datasets/nuoxu1993/VG-RL-filter-dataset-hf（获取于 2026-11-09T19:57:04Z；SHA-256：ca57c936b2732f3f06f4e95d3f3233c3bedb2389ef8c98648859968a86629cfe）
+
+---
+
+## Vision_GUI_Assistant
+
+这个图形界面图像对话数据集提供指令和对话 JSON 文件，用于分阶段视觉微调；示例要求模型识别界面按钮。
+
+- 目录页面：https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/
+- 原始来源：https://huggingface.co/datasets/zylate/Vision_GUI_Assistant
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：界面理解、数据生成
+- 证据核查日期：2026-11-09T19:58:08Z
+- ID：url:b9a56cf9e9346a359c0b
+
+### 范围记录
+
+The card names instruction and conversation splits and instructs users to obtain the Rico images separately. It describes training with LLaVA and declares a CC BY-NC 4.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-nc-4.0 — https://huggingface.co/datasets/zylate/Vision_GUI_Assistant
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/zylate/Vision_GUI_Assistant（获取于 2026-11-09T19:58:08Z；SHA-256：9f366a78ca176c7a5aeec93042546ce247e900b2209da83c4569bb9d05b0b714）
+- https://huggingface.co/api/datasets/zylate/Vision_GUI_Assistant（获取于 2026-11-09T19:58:08Z；SHA-256：9f366a78ca176c7a5aeec93042546ce247e900b2209da83c4569bb9d05b0b714）
 
 ---
 
@@ -5070,6 +6112,73 @@ Each dataset.csv row is a QA example; web pages and QA examples are different un
 
 ---
 
+## WenyiWU0111/CoMEM-agent-memory-trajectories
+
+用于图形界面智能体记忆研究的数据集，包含扩展的网页链接、合成任务，以及成功和失败的执行轨迹。
+
+- 目录页面：https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/
+- 原始来源：https://huggingface.co/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：数据生成、交互历史、记忆
+- 证据核查日期：2026-11-09T19:58:09Z
+- ID：url:87e0195f2401d5f6f66f
+
+### 范围记录
+
+The card reports 222,235 synthesized tasks and 188,451 trajectories. It lists Apache-2.0 as the license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories（获取于 2026-11-09T19:58:09Z；SHA-256：e272987a86a523262373eea1dc5f950a298eed8202a6bf124bd8330a66108d37）
+- https://huggingface.co/api/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories（获取于 2026-11-09T19:58:09Z；SHA-256：e272987a86a523262373eea1dc5f950a298eed8202a6bf124bd8330a66108d37）
+
+---
+
+## widget-caption
+
+一个描述界面控件功能的说明文字数据集，用于训练和评估界面元素描述模型。它包含 61,286 个带说明文字的控件。
+
+- 目录页面：https://awesomecua.com/resources/github-google-research-datasets-widget-caption/
+- 原始来源：https://github.com/google-research-datasets/widget-caption
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：界面理解、数据生成、评测
+- 证据核查日期：2026-11-09T19:56:09Z
+- ID：github:google-research-datasets/widget-caption
+
+### 范围记录
+
+Screens for 12,960 captioned widgets are withheld for copyright reasons. The README explains widget lookup through nodeId and declares a CC BY 4.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-google-research-datasets-widget-caption/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/google-research-datasets/widget-caption/HEAD/README.md（获取于 2026-11-09T19:56:09Z；SHA-256：47e102c1672f7f87b06a92122e874622c2dbe2740e8c5e8b44871bb0c8ec3062）
+
+---
+
 ## WikiHow Task Set
 
 用于 Mobile-Env 的 WikiHow 应用导航评测任务集，另含跨 Android 应用的补充任务，提供任务定义和改写的指令。
@@ -5103,6 +6212,40 @@ The source says the public WikiHow APK and cached website data were removed at W
 - https://huggingface.co/api/datasets/zdy023/WikiHow-taskset（获取于 2026-11-09T05:05:10Z；SHA-256：5d5c8db478c79bb6cabd29453d83ce64fa54b1a309fb73affe805a57d60527cf）
 - https://huggingface.co/api/datasets/zdy023/WikiHow-taskset（获取于 2026-11-09T05:25:47Z；SHA-256：5d5c8db478c79bb6cabd29453d83ce64fa54b1a309fb73affe805a57d60527cf）
 - https://huggingface.co/api/datasets/X-LANCE/WikiHow-taskset（获取于 2026-11-09T05:25:47Z；SHA-256：5d5c8db478c79bb6cabd29453d83ce64fa54b1a309fb73affe805a57d60527cf）
+
+---
+
+## WinDeskGround_windows
+
+WinDeskGround_windows 提供 Windows 应用截图，并标注可点击目标、边界框和指代表达，用于桌面图形界面定位任务。
+
+- 目录页面：https://awesomecua.com/resources/url-79b8dfa115894a7f53aa/
+- 原始来源：https://huggingface.co/datasets/Zbao/WinDeskGround_windows
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Windows
+- 主题：GUI 定位、界面理解、数据生成
+- 证据核查日期：2026-11-09T19:57:12Z
+- ID：url:79b8dfa115894a7f53aa
+
+### 范围记录
+
+The card reports 614 screenshots and 1,578 queries in its domain table. The repository lists an annotation JSON file and images across browser, productivity, communication, and utility categories. The card declares Apache 2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-79b8dfa115894a7f53aa/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/Zbao/WinDeskGround_windows
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Zbao/WinDeskGround_windows（获取于 2026-11-09T19:57:12Z；SHA-256：687cfae8c1a7d4288b6912d22aecf6fc5882666b194c8a7620eb73f090fa7514）
+- https://huggingface.co/api/datasets/Zbao/WinDeskGround_windows（获取于 2026-11-09T19:57:12Z；SHA-256：687cfae8c1a7d4288b6912d22aecf6fc5882666b194c8a7620eb73f090fa7514）
 
 ---
 
@@ -5186,6 +6329,40 @@ The repository lists WorldGUI-data.zip and worldgui_metadata.json. The card decl
 
 - https://huggingface.co/api/datasets/hhenryz/WorldGUI-Bench（获取于 2026-11-09T06:16:39Z；SHA-256：04918486ebffcb42022477bdcab041b2da78361f0072bc60137c506d3a129a7d）
 - https://huggingface.co/api/datasets/hhenryz/WorldGUI-Bench（获取于 2026-11-09T06:16:39Z；SHA-256：04918486ebffcb42022477bdcab041b2da78361f0072bc60137c506d3a129a7d）
+
+---
+
+## xunsss/osworld2-codex-gpt56sol-0624-attempt-preview
+
+这个 OSWorld-V2 数据集提供精简数据表，用于浏览 Codex 的任务摘要、尝试记录、轨迹事件，以及已执行的图形界面或命令行操作。
+
+- 目录页面：https://awesomecua.com/resources/url-bf57897ba4d047112345/
+- 原始来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-attempt-preview
+- 类型：数据集
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：评测、交互历史、可观测性
+- 证据核查日期：2026-11-09T19:55:52Z
+- ID：url:bf57897ba4d047112345
+
+### 范围记录
+
+The repository lists Parquet files for task summaries, attempts, events, and actions. The card says screenshots and original trajectory files remain in the complete archive.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-bf57897ba4d047112345/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-attempt-preview（获取于 2026-11-09T19:55:52Z；SHA-256：512942c4f0a6a59a6417e8ff9c60f8193dbd8e906bd3a3cc5d4695bbe62f1ea3）
+- https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-attempt-preview（获取于 2026-11-09T19:55:52Z；SHA-256：512942c4f0a6a59a6417e8ff9c60f8193dbd8e906bd3a3cc5d4695bbe62f1ea3）
 
 ---
 
@@ -6550,40 +7727,6 @@ Reported counts come from the card's split table. A script over the 15 QA JSON f
 
 ---
 
-## GUI_Reflection_SFT_train
-
-GUI Reflection 的离线监督微调数据，以 JSONL 文件发布；配套图像需从卡片列出的原始数据集获取。
-
-- 目录页面：https://awesomecua.com/resources/url-528f6fe128b77e9615aa/
-- 原始来源：https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train
-- 类型：数据集
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：unspecified
-- 主题：模仿学习、自我反思、数据生成
-- 证据核查日期：2026-11-09T05:05:16Z
-- ID：url:528f6fe128b77e9615aa
-
-### 范围记录
-
-The repository lists JSONL files for several source datasets and reflection examples. The card declares an MIT license.
-
-- 完整记录 JSON：https://awesomecua.com/resources/url-528f6fe128b77e9615aa/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：mit — https://huggingface.co/datasets/craigwu/GUI_Reflection_SFT_train
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_SFT_train（获取于 2026-11-09T05:05:16Z；SHA-256：e4f44e03fc317dabcc66e8fecfe9285805cd1cbc746a9bc1e106a520f434d8a0）
-- https://huggingface.co/api/datasets/craigwu/GUI_Reflection_SFT_train（获取于 2026-11-09T05:05:16Z；SHA-256：e4f44e03fc317dabcc66e8fecfe9285805cd1cbc746a9bc1e106a520f434d8a0）
-
----
-
 ## GUIMid training data
 
 已发布的 GUI 智能体中期训练混合数据及配套领域数据集，另含后期训练轨迹文件和网页、移动端交互图像归档。
@@ -6684,61 +7827,6 @@ The card states the splits are application-level disjoint. Example counts come f
 - https://huggingface.co/api/datasets/macpaw-research/GUIrilla-Task/revision/ec4853a26f96e1c8adcc31670054f58a67a87297（获取于 2026-10-18T12:26:25Z；SHA-256：bccbc1dd9fd5aae317583d464c9119090984aea910cb8dd6be3cc077d6bbb037）
 - https://raw.githubusercontent.com/MacPaw/GUIrilla/15896d8c3158b7c4bbfaafc57582f1a28ff50074/README.md（获取于 2026-10-18T12:26:24Z；SHA-256：9ffc792287271564b8dc841fa9b86f2cfc7d9f1e2b30c0d90aae059329f59273）
 - https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md（获取于 2026-10-18T12:27:04Z；SHA-256：2ae8320c30f7d22085f290137e47dd2a735bf69e1a2c524bf1e340d9bd5ea658）
-
----
-
-## InSTA 150k Tasks (v3)
-
-InSTA 项目约 15 万项网页导航任务，每项提供网站域名、指令、建议步骤和成功标准，训练集与测试集取自不同网站。
-
-- 目录页面：https://awesomecua.com/resources/url-a80c7330dbfd4f897693/
-- 原始来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3
-- 类型：数据集
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、数据生成
-- 证据核查日期：2026-10-18T16:03:36Z
-- ID：url:a80c7330dbfd4f897693
-
-### 范围记录
-
-The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agents) and points to an LLM judge in the separate data-for-agents/insta code repository; this record covers the task data. Rows contain text task specifications alone, with agent trajectories and screenshots outside this release. The card declares MIT for the dataset.
-
-- 完整记录 JSON：https://awesomecua.com/resources/url-a80c7330dbfd4f897693/record.json
-
-### 结构化规格
-
-- 格式：Parquet
-- 模态：text
-- 数据划分：train, test
-- 监督信号：task instructions, suggested step lists, success criteria
-
-#### 数量记录
-
-- ≈ 150,000 tasks — complete v3 release（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
-- 143,508 examples — train split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
-- 2,933 examples — test split（来源报告；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md）
-- 2,933 distinct website domains — test split（计算得出；来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet）
-
-Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file.
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：MIT — https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md
-- 文档：未记录
-- 权重：未记录
-
-- 数据审核：Publisher dataset-card declaration for the v3 task release; the InSTA code repository and the websites named in tasks are not covered by this evidence.
-  来源：https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md
-
-### 一手证据
-
-- https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md（获取于 2026-10-18T16:03:36Z；SHA-256：0a005ebed3bc549e700fb3d6a8db64a99fe28acce7c46ceb4c66cbe37c009d23）
-- https://huggingface.co/api/datasets/data-for-agents/insta-150k-v3（获取于 2026-10-18T16:03:35Z；SHA-256：480f7e251f32652812aafd5ffcb638a14c9612cec73bbb33c245f9685a542808）
-- https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet（获取于 2026-10-18T16:04:11Z；SHA-256：3ae8bb40fd3da6991c15e5d34579b0a631f9ad520ad70a09358ef99770cb239d）
-- https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md（获取于 2026-10-18T16:03:36Z；SHA-256：0a005ebed3bc549e700fb3d6a8db64a99fe28acce7c46ceb4c66cbe37c009d23）
 
 ---
 
@@ -7157,69 +8245,6 @@ Counts come from the Hub file manifest. A task folder is not an OSWorld task def
 - https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache（获取于 2026-10-18T11:46:05Z；SHA-256：064fcc8dd91932dccbb0257be254fe5a95b95f369fb3d41ca2c169413cc424cf）
 - https://raw.githubusercontent.com/xlang-ai/OSWorld/b138d348256078fa634fc3b73567a7337c793e6b/evaluation_examples/examples/os/5c1075ca-bb34-46a3-a7a0-029bd7463e79.json（获取于 2026-10-18T11:46:05Z；SHA-256：6b57e8b32c048a252d8076fc280bf029f869e99e2938530ff78087aa7fdce410）
 - https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache/raw/1e112283c4ecb08d6fed8069bca7de74fa2f12aa/README.md（获取于 2026-10-18T11:46:05Z；SHA-256：23b49d5e9a3c5cdcba990640ccf271d35411cc51ff85c18771a9f74b9d351944）
-
----
-
-## OSWorld-V2 0624 Codex attempt trajectories
-
-自报的 OSWorld-V2 运行数据，涵盖 Codex 框架使用 gpt-5.6-sol 在全部 108 项任务上的逐步 CLI 和 GUI 操作、截图及评分，以及重试记录和指导操作的解题卡与恢复卡。
-
-- 目录页面：https://awesomecua.com/resources/url-9112dfcb201f2de7241f/
-- 原始来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt
-- 类型：数据集
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、Linux
-- 主题：评测、可观测性
-- 证据核查日期：2026-10-18T15:49:15Z
-- ID：url:9112dfcb201f2de7241f
-
-### 范围记录
-
-The card calls this a self-reported trajectory package; it links no paper or harness code, and the run was not listed in the official OSWorld-V2 leaderboard data when checked on 2026-10-18. run_manifest.json records benchmark release osworld-v2-2026.06.24, a Docker provider with a QEMU backend at 1920x1080, a 400-step limit, a screenshot at every step with accessibility tree and OCR on demand, and a multi-attempt policy with one reported result per task. Per task_results.csv, 83 reported results come from initial attempts, 22 from recovery attempts and 3 from retries; the preview table names a different selected attempt for 6 tasks, and the manifest and summary.json give different recovery limits (2 and 3). Each attempt has a card written as instructions to the agent: the solution card opened for task 001 lists the exact schedule entries to enter, the events to delete and the final checks, and the recovery card opened for task 002 plans a guided retry from its parent attempt. summary.json reports a mean score of 0.661 and 43 binary passes over 108 tasks (the preview table marks 44 because task 015 scores 0.9999999999999999); these are publisher measurements from guided, multi-attempt runs. Linux is established from the Ubuntu Calendar target and /home/user shell commands in task 001. The card declares no license.
-
-- 完整记录 JSON：https://awesomecua.com/resources/url-9112dfcb201f2de7241f/record.json
-
-### 结构化规格
-
-- 格式：JSONL, JSON, PNG, CSV, Parquet
-- 模态：screenshots, action trajectories, task guidance cards, scores
-- 数据划分：未记录
-- 监督信号：agent-generated trajectories, evaluator task scores
-
-#### 数量记录
-
-- 108 tasks — OSWorld-V2 v2026.06.24 tasks 001-108 in this run（来源报告；来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json）
-- 108 reported task folders with traj.jsonl — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 154 retained earlier-attempt folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 132 solution cards — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 51 recovery cards — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 12,868 PNG screenshots in reported task folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-- 16,400 PNG screenshots in earlier-attempt folders — Hub manifest at revision 523e49b9（计算得出；来源：https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2）
-
-Counts come from a script over the pinned Hub file list; tasks, folders, cards and screenshots are different units and are counted separately. The manifest's own card totals (132 solution, 51 recovery) match the file list. The preview Parquet and CSV tables are derived indexes of the same trajectories. Scores come from the benchmark evaluator as reported by the publisher; no trajectory was replayed.
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-- 数据审核：Neither the card metadata nor the file list at this revision declares a license, so no data grant is established. Agent outputs and logged third-party content keep their own terms.
-  来源：https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/README.md
-
-### 一手证据
-
-- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/README.md（获取于 2026-10-18T15:49:15Z；SHA-256：73f86ad3b7fac604225cb982469db22ac68d863cbe0a636e3bee40fd0e7a5bdb）
-- https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2（获取于 2026-10-18T15:49:14Z；SHA-256：1f1a6cabddd3e68b93b61bb78648788d88df4ca829ebc0d3cc4542049e906857）
-- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json（获取于 2026-10-18T15:49:14Z；SHA-256：5bb8864f430494a989c86a8717ec1e210e63d16d58a3593990c4986a949a5f20）
-- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/summary.json（获取于 2026-10-18T15:49:14Z；SHA-256：1dab011e8a4f1ed1ca5d0da13252f0ac8fd894d07fe6e286bae041bdb059507d）
-- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/task_results.csv（获取于 2026-10-18T15:49:14Z；SHA-256：dfc978893fc67eeeea8ed1677edde5f6425829f4c3439d8c7b8812ed3384279d）
-- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/preview/task_summary.csv（获取于 2026-10-18T15:49:14Z；SHA-256：dc8267b5a34741f2386d363a8f1ab465db026925c2f52239b5290872d0b572ac）
-- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/cards/001/attempt_001/solution_card.json（获取于 2026-10-18T15:49:14Z；SHA-256：131afcc6939d517594c70890e250d3e8202d4c9c7662e865921eff120e605c00）
-- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/cards/002/attempt_002/recovery_card.json（获取于 2026-10-18T15:49:14Z；SHA-256：7ee876e0e0322f815cc2d8ee171cf721c0680c9396d6cabf32ef4aae32457ff4）
-- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/tasks/001/traj.jsonl（获取于 2026-10-18T15:49:14Z；SHA-256：6450de28c3909d27bbb25099589b4c5bfc65daa42be9d21a31b4ad25e3b47f1b）
 
 ---
 

@@ -317,10 +317,14 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Gym environment and optimization framework for self-evolving CLI and computer-use agent skills.
 - [KNOWS Benchmark](https://awesomecua.com/resources/github-alexgill321-knows-benchmark/) — Date not recorded
   KNOWS benchmarks web agents on realistic, open-ended Google Workspace tasks spanning Google Docs, Sheets, and Slides.
+- [macOSWorld](https://awesomecua.com/resources/github-showlab-macosworld/) — Date not recorded
+  macOSWorld benchmarks GUI agents on tasks across 30 macOS apps in five languages. It supplies a Python testbench for AWS macOS instances and a safety task subset.
 - [MedSPOT](https://awesomecua.com/resources/github-tajamul21-medspot/) — Date not recorded
   A sequential GUI grounding benchmark covering 10 medical imaging applications. It evaluates target localization across multi-step workflows and provides model evaluation scripts.
 - [openadapt-evals](https://awesomecua.com/resources/github-openadaptai-openadapt-evals/) — Date not recorded
   openadapt-evals scores GUI agents and compiled workflows on benchmarks such as Windows Agent Arena using reproducible evaluators.
+- [OSWorkerBench](https://awesomecua.com/resources/url-c8c3d4ef20e68086a812/) — Date not recorded
+  A desktop GUI-agent benchmark with 100 office tasks spanning 17 business tracks and 41 applications. It releases task and demonstration tables for evaluation with the UI-Mate harness.
 - [OSWorld-Human](https://awesomecua.com/resources/github-wuklab-osworld-human/) — Date not recorded
   Human reference trajectories and scoring code for measuring the action efficiency of computer-use agents on OSWorld tasks.
 - [pms-race](https://awesomecua.com/resources/github-lgoyal6-pms-race/) — Date not recorded
@@ -350,6 +354,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
 
 - [ClawBench](https://awesomecua.com/resources/url-9c96a767b56ba0eb4494/) — Date not recorded
   A browser-agent task corpus for everyday work on live websites, with V1 and V2 test splits, task context, and schemas that intercept final submissions.
+- [LexBench-Trajectory-Replay](https://awesomecua.com/resources/url-c049eba816b97d5076d0/) — Date not recorded
+  LexBench-Trajectory-Replay provides 30 public-website tasks with fixed browser actions and assertions for evaluating browser execution and retrieval.
 - [ScienceBoard evaluation trajectories](https://awesomecua.com/resources/url-4784f63cd7117f64a2a3/) — Date not recorded
   Archives of ScienceBoard agent evaluation runs, separated by agent configuration and screenshot, accessibility-tree or set-of-marks observation mode.
 - [TreeCUA-Datasets](https://awesomecua.com/resources/url-2e8bba756c71f9fe3fbd/) — Date not recorded
@@ -476,6 +482,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Local job-search browser agent that parses natural-language criteria, drives Chrome on Boss Zhipin, and manages application state.
 - [BridgeDEF](https://awesomecua.com/resources/github-mattiadepaoli-hash-bridgedef/) — Date not recorded
   Durable local exchange transport bridging ChatGPT Desktop and Web sessions with local coding workspaces.
+- [Browser Agent](https://awesomecua.com/resources/github-visnia-ai-browser-agent/) — Date not recorded
+  Browser Agent runs natural-language web tasks through Chromium. It offers a CLI and TypeScript and Python SDKs that stream progress and return task results.
 - [Browser Agent (uiuing)](https://awesomecua.com/resources/github-uiuing-browser-agent/) — Date not recorded
   Chrome side-panel agent whose page engine reads a whole-page semantic DOM snapshot, re-grounds targets by element fingerprints, dispatches DOM events and checks post-conditions before reporting success.
 - [Browser Agent Recorder](https://awesomecua.com/resources/github-velvetabyss-browser-agent-recorder/) — Date not recorded
@@ -508,10 +516,14 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Attach-only Chrome DevTools Protocol bridge for bounded research delegation to a logged-in ChatGPT Web tab.
 - [CHOP](https://awesomecua.com/resources/github-yuqi-zhou-chop/) — Date not recorded
   Mobile automation framework that uses reusable basis subtasks to constrain and refine planning between user goals and executable actions.
+- [chrome-agent](https://awesomecua.com/resources/github-sderosiaux-chrome-agent/) — Date not recorded
+  chrome-agent is a Rust CLI for browser agents to inspect pages, act through Chrome and check resulting state. It also records and replays local command sequences.
 - [city-webmcp (OpenClawCity)](https://awesomecua.com/resources/github-openclawcity-city-webmcp/) — Date not recorded
   Exposes 33 browser-native WebMCP tools for autonomous agents operating inside the OpenClawCity web environment.
 - [Claude Fable 5.1](https://awesomecua.com/resources/url-e0f1ebb59adf2f6c500c/) — Date not recorded
   Claude Fable 5.1 is a hosted model offering whose agent uses include operating a browser; its product page also discusses evaluation on OSWorld 2.0.
+- [Claude-Surf](https://awesomecua.com/resources/github-vibesurf-ai-claude-surf/) — Date not recorded
+  A Claude Code plugin that connects to VibeSurf to control browser pages, run web automation workflows and access browser-use agents.
 - [ClawMobile](https://awesomecua.com/resources/github-clawmobile-clawmobile/) — Date not recorded
   ClawMobile is an Android agent runtime built on OpenClaw for controlling mobile apps, learning reusable skills, and executing device workflows.
 - [CLI-Anything](https://awesomecua.com/resources/github-hkuds-cli-anything/) — Date not recorded
@@ -596,6 +608,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Bi-directional local development bridge orchestrating Gemini Antigravity and ChatGPT Web sessions.
 - [Easy Claw](https://awesomecua.com/resources/github-easyclaw-ai-easy-claw/) — Date not recorded
   Open-source AI browser automation agent for multi-step web workflow execution and page interaction.
+- [easyAppStore](https://awesomecua.com/resources/github-xxjrq-easy-app-store/) — Date not recorded
+  easyAppStore is an agent skill for preparing an iOS release and completing App Store Connect submission steps through a signed-in Chromium browser.
 - [ECLAIR](https://awesomecua.com/resources/github-hazyresearch-eclair-agents/) — Date not recorded
   ECLAIR automates enterprise web and desktop workflows from human demonstrations with ground-truth SOP validation and step-level error recovery.
 - [Eigent](https://awesomecua.com/resources/github-eigent-ai-eigent/) — Date not recorded
@@ -668,6 +682,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   CLI and MCP server that lets agents operate the user's signed-in Chrome, Brave or Safari, native apps via accessibility on macOS, Windows and Linux, and a physical iPhone through an XCUITest runner.
 - [Internet of Agents (IoA)](https://awesomecua.com/resources/github-openbmb-ioa/) — Date not recorded
   Internet of Agents (IoA) is a distributed framework for orchestrating heterogeneous multi-agent collaboration across devices and tools.
+- [iphone-use-flows](https://awesomecua.com/resources/github-leeguooooo-iphone-use-flows/) — Date not recorded
+  A registry of reusable iPhone app workflows for iphone-use. Its JSON flows define phone actions, inputs, and checks for completing repeated tasks.
 - [ITR Wala AI Agent](https://awesomecua.com/resources/github-aianytime-itr-wala-ai-agent/) — Date not recorded
   Terminal-driven browser agent that automates Indian income-tax-return preparation and portal filing with human review.
 - [Ivy Tendril](https://awesomecua.com/resources/github-ivy-interactive-ivy-tendril/) — Date not recorded
@@ -710,6 +726,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify-recover loop for multi-hour autonomous computer-use workflows.
 - [Luna Mux](https://awesomecua.com/resources/github-rainj2013-luna-mux/) — Date not recorded
   Terminal and browser workbench for coding agents with automatic MCP injection, split panes, SSH/SFTP, and embedded browser automation.
+- [MaaFramework](https://awesomecua.com/resources/github-maaxyz-maaframework/) — Date not recorded
+  MaaFramework is an image-recognition automation framework for black-box testing, with a low-code task pipeline and documented integration and API interfaces.
 - [Maestro (AI-Drivable RPA)](https://awesomecua.com/resources/github-rexchengm-maestro/) — Date not recorded
   Records a desktop or browser task once and lets AI optimize, parameterize, and replay it as a deterministic RPA workflow.
 - [maestro-oss](https://awesomecua.com/resources/github-victorkaor-maestro-oss/) — Date not recorded
@@ -802,6 +820,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   OpenBitFun is a Rust-powered desktop agent workspace supporting computer-use, browser automation, and multi-mode agent harnesses.
 - [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) — Date not recorded
   OpenClaw is an open-source personal computer-use assistant that executes browser, desktop, terminal, and messaging workflows across local devices.
+- [opencli-plugin-x-article-publisher](https://awesomecua.com/resources/github-genoooool-opencli-plugin-x-article-publisher/) — Date not recorded
+  An OpenCLI plugin that uses a signed-in Chrome session to prepare X Articles from Markdown and local images, with an explicit command for public publishing.
 - [OpenDesktop & OpenWorker](https://awesomecua.com/resources/github-chrisschouk-open-desktop/) — Date not recorded
   Cloud desktop infrastructure and container sandbox engine paired with the OpenWorker conversational desktop agent.
 - [OpenTeam](https://awesomecua.com/resources/github-raghavpillai-openteam/) — Date not recorded
@@ -816,6 +836,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Orbit is a Python computer-use framework that combines natural-language screen grounding with composable, typed workflow steps.
 - [Orbit UI](https://awesomecua.com/resources/github-aadya940-orbit-ui/) — Date not recorded
   Self-hosted visual workflow builder for authoring and running desktop computer-use automation inside Docker containers.
+- [Orion](https://awesomecua.com/resources/github-genentech-orion/) — Date not recorded
+  A biomedical analysis agent that operates scientific desktop applications, a browser, and terminal tools in an Ubuntu virtual machine. Its repository includes task configurations and launchers.
 - [Orquestrador de Features](https://awesomecua.com/resources/github-gustavo-em-orchestrator-features/) — Date not recorded
   Multi-agent loop that plans React Native mobile features, writes code, drives the simulator UI, and verifies visual results.
 - [OWL (Optimized Workforce Learning)](https://awesomecua.com/resources/github-camel-ai-owl/) — Date not recorded
@@ -832,6 +854,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Native Windows desktop GUI client and workspace for the Pi coding and computer-use agent.
 - [Pi-WM (Wuming Agent Desktop)](https://awesomecua.com/resources/github-333-wg-pi-wm/) — Date not recorded
   Desktop AI agent workspace built on `pi-agent` for local task execution and browser automation.
+- [Pilion Browser](https://awesomecua.com/resources/github-echovic-pilion-browser/) — Date not recorded
+  Pilion Browser connects agents to a user's desktop browser tabs through MCP. It supports browser actions, approval before actions, human takeover, recorded workflows, and session resume.
 - [Pilos Agents](https://awesomecua.com/resources/github-pilos-ai-agents/) — Date not recorded
   Pilos Agents is a desktop application for orchestrating multi-agent Claude Code teams, visual workflows, and MCP server integrations.
 - [playwright-mcp-tabbed](https://awesomecua.com/resources/github-songofhawk-playwright-mcp-tabbed/) — Date not recorded
@@ -962,6 +986,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Turkish-speaking Windows desktop voice and GUI automation assistant powered by PySide6 and LLM tool calling.
 - [VibeSurf](https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/) — Date not recorded
   Browser assistant with a Chrome-extension UI that runs parallel Browser Use agents across tabs and Langflow-based drag-and-drop browser workflows for logins, data collection and research, using local or hosted LLMs.
+- [VibeSurf for OpenClaw](https://awesomecua.com/resources/github-vibesurf-ai-claw-surf/) — Date not recorded
+  An OpenClaw skill that routes browser navigation, page extraction, screenshots, and workflows through VibeSurf's HTTP API.
 - [VillagerAgent & VillagerBench](https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/) — Date not recorded
   VillagerAgent provides a directed-acyclic-graph multi-agent coordinator and the VillagerBench evaluation suite in Minecraft.
 - [Vuser Protocol](https://awesomecua.com/resources/github-openvuser-vuser/) — Date not recorded
@@ -972,6 +998,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Self-hostable browser-agent server that runs Browser Use or Notte agents, turns a run's recorded actions into a parameterized workflow, and replays it with Playwright, falling back to the agent when a step fails.
 - [WebBrain](https://awesomecua.com/resources/github-webbrain-one-webbrain/) — Date not recorded
   WebBrain is an open-source AI browser agent extension for Chrome and Firefox that automates multi-step web workflows.
+- [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/) — Date not recorded
+  A browser-agent skill that uses a local Chrome session to explore tasks, then generates reusable scripts for repeating successful browser workflows.
 - [Webhands](https://awesomecua.com/resources/github-agentpostmortem-webhands/) — Date not recorded
   Webhands is a browser computer-use agent that automates seller and logistics web dashboards lacking APIs via Cloudflare Browser Rendering.
 - [WeChat Mac RPA](https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/) — Date not recorded
@@ -1007,9 +1035,13 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Code examples and reference applications show how to build browser workflows with Amazon Nova Act and deploy the SDK on AWS compute services.
 - [Awesome AI Agent Platforms](https://awesomecua.com/resources/github-agenta-ai-awesome-ai-agent-platforms/) — Date not recorded
   Curated directory of open-source AI agent platforms, digital coworkers, and browser/desktop execution harnesses.
+- [clawtouch-skills](https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/) — Date not recorded
+  A collection of Markdown operator guides gives desktop agents app-specific menu paths, shortcuts and interaction techniques for use with HID controls.
 - [ComputerUse.Best Expert Skills](https://awesomecua.com/resources/github-sagozen-computeruse-expert-skills/) — Date not recorded
   Open-source collection of computer-use skills, prompt patterns, and professional desktop/web workflows.
 - [learn-workbuddy](https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/) — Date not recorded
   24-chapter bilingual Python engineering course building a WorkBuddy-style desktop AI agent harness from scratch.
+- [linux-use-recipes](https://awesomecua.com/resources/github-javimosch-linux-use-recipes/) — Date not recorded
+  A collection of recipes for automating Linux desktop applications and websites with linux-use. It covers browser setup, accessibility pitfalls, posting workflows and verification.
 - [The TinyFish Cookbook](https://awesomecua.com/resources/github-tinyfish-io-tinyfish-cookbook/) — Date not recorded
   A collection of sample applications and recipes for TinyFish web agents, covering page retrieval, structured search, and multi-step browser automation.

@@ -4,6 +4,41 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/2/ · [English](ht
 
 完整类别注释：https://awesomecua.com/zh/categories/agent/index.md
 
+- [Aeyes (Voice Browser Assistant)](https://awesomecua.com/resources/github-evalutik-ai-partner-catalyst/)：Aeyes 是一款语音控制的 Chrome 扩展助手，旨在帮助盲人和视障用户浏览网站。
+- [Agent Friday](https://awesomecua.com/resources/github-mahsaanullah-agent-friday/)：由 LangGraph 驱动的自主操作系统级桌面助手，用于多步骤系统和 GUI 工作流。
+- [Agent-OS (J.A.R.V.I.S. macOS Harness)](https://awesomecua.com/resources/github-my-cmdhub-agent-os/)：以语音为主的 macOS 无障碍智能体，将屏幕状态读取为结构化文本，并验证每个 GUI 动作。
+- [agent-qa](https://awesomecua.com/resources/url-f7e21b1a3ba5c58a73bc/)：面向浏览器和移动应用的测试智能体，通过 Playwright 和 Appium 执行操作、核验步骤并记录运行过程。发布方称其完成了 AndroidWorld 全部任务。
+- [AgentDesktopLinux](https://awesomecua.com/resources/github-edwaks-agentdesktoplinux/)：面向 TaskCapitan 的 Linux 桌面和 VPS 计算机使用智能体，可操作 GUI 应用和浏览器。
+- [Agente Pessoal](https://awesomecua.com/resources/github-thomas-adrian-soler-nilsson-agente-pessoal/)：多模态个人 AI 桌面助手，具备语音交互、持久记忆和操作系统自动化能力。
+- [Agentic Android](https://awesomecua.com/resources/github-xdope7137-agentic-android/)：基于 LLM、通过 ADB 操作的 Android 智能体，可读取屏幕、执行点击、滑动和输入动作，并在每一步验证结果。
+- [AgenticX-GUIAgent](https://awesomecua.com/resources/github-demondamon-agenticx-guiagent/)：AgenticX-GUIAgent 是多智能体 Android GUI 自动化系统，由管理者、执行者、反思者和记录者协同工作。
+- [AgentOccam](https://awesomecua.com/resources/github-amazon-science-agentoccam/)：AgentOccam 是网页操作智能体，利用网页描述和操作字符串，按网址和任务指令执行任务。仓库提供任务配置及评测脚本。
+- [AgentP](https://awesomecua.com/resources/github-omerfeyzioglu-agentp-macos/)：AgentP 是一个快速 macOS 计算机使用智能体，由 Gemini 进行一次规划，再由本地 Jev System-One 模型通过 Accessibility API 执行各步骤。
+- [AGI-0 Agent](https://awesomecua.com/resources/url-06f6618d8f95f3d041cf/)：AGI-0 通过截图操作 Android 应用，规划子任务，并在每次操作后检查界面变化。发布方报告了其 AndroidWorld 测试结果。
+- [AI Browser (DeepFundAI)](https://awesomecua.com/resources/github-deepfundai-ai-browser/)：Electron 桌面浏览器，内置从基于 Eko 的 npm 包导入的智能体，可规划可编辑的多步工作流并操作自身标签页中的网页，同时提供聊天、定时任务和记忆功能。
+- [AI Deep Search Agent (AI 深度搜索助手)](https://awesomecua.com/resources/github-gupi-bill-ai-deep-search-agent/)：视觉浏览器智能体，根据自然语言目标操控真实的 Microsoft Edge 窗口，开展深入的网络研究。
+- [AI Medical Claim Form-Filling Agent](https://awesomecua.com/resources/github-caicai-jin-ai-medicalclaimform-filling-agent/)：由 LLM 驱动的浏览器智能体，可提取患者接诊数据，并自主填写和提交网页医疗理赔表单。
+- [AI Mime](https://awesomecua.com/resources/github-prakhar1114-ai-mime/)：macOS 应用录制演示任务，由智能体将其编译为包含脚本、浏览器 CDP 步骤和计算机使用回退机制的可移植技能，并在重跑失败时修补该技能。
+- [AI SDK Computer Use](https://awesomecua.com/resources/github-vercel-labs-ai-sdk-computer-use/)：Vercel Labs 的 Next.js 聊天应用，让 Claude 的计算机和 bash 工具在 Vercel Sandbox 中操作 Linux 桌面，通过 xdotool 点击和输入，并经 noVNC 将屏幕实时传至页面。
+- [AI-Player](https://awesomecua.com/resources/github-shasankp000-ai-player/)：AI-Player 是 Minecraft Fabric 模组，内置由 LLM/VLM 驱动、能够导航、战斗和制作物品的自主第二玩家。
+- [AILEEN Desktop](https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/)：Windows 桌面 AI 助手，将 Live2D 交互角色与屏幕感知和桌面工具执行相结合。
+- [AIPex](https://awesomecua.com/resources/github-aipexstudio-aipex/)：AIPex 是一款隐私优先的 Chrome 浏览器自动化智能体，通过 CDP 和 MCP 操作标签页、DOM 元素及用户会话。
+- [AIVANE](https://awesomecua.com/resources/github-taiyouqu-aivane/)：AIVANE 是跨平台 GUI 自动化助手，结合 YOLO 图标检测、OCR 和多模态 LLM 控制桌面。
+- [Amazon Bedrock Minecraft Agent](https://awesomecua.com/resources/github-build-on-aws-amazon-bedrock-minecraft-agent/)：基于 Amazon Bedrock 和 Mineflayer 构建的 TypeScript 智能体，可将自然语言指令转化为 Minecraft 游戏内动作。
+- [Andee](https://awesomecua.com/resources/github-kuafuai-andee/)：单个 APK 中运行的设备端 Android 智能体，通过无障碍服务操作任意应用，读取元素概要，必要时读取带标签的 8×12 网格截图，并使用任意兼容 OpenAI 的模型。
+- [AndroidClaw](https://awesomecua.com/resources/github-xiuqianli1996-androidclaw/)：Android 原生 LLM 手机智能体，通过 Android AccessibilityService 和屏幕层级解析直接在设备上运行。
+- [AndroidGen](https://awesomecua.com/resources/github-thudm-androidgen/)：AndroidGen 利用示例检索、计划更新和操作检查完成 Android 任务；仓库包含智能体代码及 AndroidWorld 评测脚本。
+- [ANZU Superassistant (Jarvis)](https://awesomecua.com/resources/github-daan298261-jarvis/)：本地优先的 Windows 桌面智能体，具备 HUD、Kokoro 语音、浏览器自动化、Office 集成和 Android 控制功能。
+- [API-Based-Agent](https://awesomecua.com/resources/github-yueqis-api-based-agent/)：提供结合应用 API 与浏览器操作的网页智能体代码，并附有在 WebArena 上评估混合方法的脚本。
+- [AppAgent Pro](https://awesomecua.com/resources/github-laokuize-appagent-pro/)：AppAgent Pro 是基于 AppAgent 的主动式 Android 智能体，使用 GPT-4o 判断 YouTube 或 Amazon 内容是否有帮助，通过 ADB 操作相应应用，并将查得的信息整合进回答。
+- [AppAgentX](https://awesomecua.com/resources/github-westlake-agi-lab-appagentx/)：利用积累的交互经验开展移动端智能体研究。
+- [AppClaw](https://awesomecua.com/resources/github-appclawhq-appclaw/)：AppClaw 是适用于 Android 和 iOS 的移动端自动化智能体，通过检查无障碍树和点击屏幕执行自然语言任务。
+- [Apply Lens](https://awesomecua.com/resources/github-mangeshraut712-apply-lens/)：Solari 浏览器智能体，将招聘信息与实时产品网站交叉核对，以验证工程岗位。
+- [Apprentice](https://awesomecua.com/resources/github-bluzername-apprentice/)：Apprentice 是以本地优先的 macOS 智能体，可观察用户在许可名单内应用中的重复操作，并在逐次点击获得批准后重放。
+- [Arelis](https://awesomecua.com/resources/github-sanct1x-arelis/)：由 Ollama 驱动、在本地托管的 Windows 个人 AI 研究与桌面助手，无云端依赖。
+- [AssistGUI](https://awesomecua.com/resources/github-showlab-assistgui/)：基于 LLM 的助手，通过观察屏幕并发出鼠标和键盘指令，自动完成桌面办公软件中的工作；其代码仓库称代码将在以后发布。
+- [Astra AI (Windows Gemini Live Assistant)](https://awesomecua.com/resources/github-chinmaybitne-astra-ai/)：由 Gemini Live 驱动的语音优先 Windows AI 桌面助手，具备屏幕视觉和系统控制能力。
+- [Astra AI Browser](https://awesomecua.com/resources/github-bennix-astraaibrowser/)：原生 Apple Silicon macOS AI 浏览器，结合 WebKit 浏览功能和集成的自主式网页智能体。
 - [Atlas Desktop Agent](https://awesomecua.com/resources/github-dortanes-atlas/)：Atlas 是语音与屏幕结合的桌面智能体，可观察活动窗口并执行鼠标和键盘动作。
 - [AURA Voice AI Desktop Assistant](https://awesomecua.com/resources/github-sajeebtheanalyst-aura-ai-desktop-assistant/)：面向 Windows 的多语言无边框桌面 AI 助手，支持语音命令和 GUI 任务自动化。
 - [AutoBot-AI](https://awesomecua.com/resources/github-mrveiss-autobot-ai/)：AutoBot-AI 是一个自托管的自主智能体平台，结合视觉驱动的浏览器与桌面控制、语音交互和工作流记忆。
@@ -69,38 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/agent/page/2/ · [English](ht
 - [Desktop Agent](https://awesomecua.com/resources/github-ruslankoroy-desktop-agent/)：Desktop Agent 通过截图网格叠加标注、OCR 文本检测、语音命令以及鼠标和键盘操作来控制本地计算机。
 - [DesktopAgent (.NET 9)](https://awesomecua.com/resources/github-alessiobianchini-desktopagent/)：基于 .NET 9 构建、以安全为先的本地桌面自动化智能体，配有跨平台 OS 适配器、策略检查和 MCP 服务器。
 - [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/)：DesktopAgent 使用本地 0.33B System-One 决策模型（S1-Fast）和 UI Automation，在后台操作 Windows 桌面应用。
-- [DevDesignAmitesh Browser Agent](https://awesomecua.com/resources/github-devdesignamitesh-browser-agent/)：自主 AI 网页智能体，根据自然语言提示规划并执行多步浏览器交互。
-- [DietSurf](https://awesomecua.com/resources/github-100x-bot-dietsurf/)：简约的 Chrome 侧边栏浏览器智能体，配有虚拟文件系统和类 shell 命令界面。
-- [DomA](https://awesomecua.com/resources/github-dom-actions-doma/)：DomA 浏览器智能体 Chrome 和 Edge 扩展的公开源码版：通过带标记的截图和元素列表观察网页，以 DOM 事件和 CDP 点击操作，并经 MCP 提供工具。
-- [Doppel](https://awesomecua.com/resources/github-orvii-doppel/)：Doppel 是计算机使用智能体，在 Windows 11 和 Linux 上配备独立光标的专用虚拟桌面中运行。
-- [DouGao (豆糕)](https://awesomecua.com/resources/github-hulubo2014-dougao/)：DouGao 是在设备端运行的 Android AI 助手，结合通过 Accessibility、Shizuku 和 Root 通道进行的 VLM 屏幕控制与直接文件编辑。
-- [DroidAgent](https://awesomecua.com/resources/github-coinse-droidagent/)：这款安卓界面测试智能体根据用户目标探索应用，并生成测试场景、回放脚本和操作报告。
-- [DroidBot-GPT](https://awesomecua.com/resources/github-mobilellm-droidbot-gpt/)：DroidBot-GPT 将 DroidBot UI 状态提取功能与大语言模型连接，以自动执行跨 Android 应用的多步骤任务。
-- [DSB (逗沙包)](https://awesomecua.com/resources/github-tianye1999-dsb/)：DSB 是以信任为先的 Android AI 智能体，在后台虚拟显示屏上执行委托的应用任务，不打断用户当前屏幕上的操作。
-- [DSH Browser Client](https://awesomecua.com/resources/github-flymysql-dsh-browser-client/)：面向 DeepSeek Harness 的页面内悬浮式 LLM 浏览器助手，让非技术用户能够自动执行网页工作流。
-- [DSH Deskwork](https://awesomecua.com/resources/github-guomonth-dsh-deskwork/)：由 DeepSeek Harness 驱动的 AI 桌面工作空间，用于自动化 ERP 和企业后台业务操作。
-- [DSH Mobile GUI Agent](https://awesomecua.com/resources/github-kunjinkao-os-dsh-mobile-gui-agent/)：面向 DeepSeek Harness 的 Android 移动端 GUI 智能体插件，支持 ADB 操作、迭代式屏幕验证和错误恢复。
-- [DSH Phone Agent](https://awesomecua.com/resources/github-sktyou-dsh-phone-agent/)：通过设备端 AccessibilityService 应用经 LAN 控制 Android 手机，并具备本地 OCR、模板匹配和 GKD 跳过广告规则。
-- [DSHBox](https://awesomecua.com/resources/github-wsk-build-dshbox/)：Android 应用，在 PRoot Debian 沙箱中本地运行 DeepSeek Harness 智能体，并为其提供 WebView 浏览器 CLI，以及通过 Accessibility 和 Shizuku 后端操作原生应用的手机助手。
-- [Easy Claw](https://awesomecua.com/resources/github-easyclaw-ai-easy-claw/)：开源 AI 浏览器自动化智能体，用于执行多步网页工作流和页面交互。
-- [Eido](https://awesomecua.com/resources/github-tony3liu-eido/)：基于 Zed 和 pi agent 的 macOS 编程工作空间，新增实验性浏览器操作能力：内置智能体选取编号页面元素并通过 CDP 操作；计算机使用则通过内置 Cua Driver MCP 服务器实现。
-- [Endoplexity](https://awesomecua.com/resources/github-endokelp-endoplexity/)：由本地 Claude 和 Cursor 订阅支持的 Chrome 扩展及智能体式浏览器控制器。
-- [Enhanced Claude Computer Use for Mac](https://awesomecua.com/resources/github-swilliams9772-mac-computer-use/)：将 Anthropic Claude Computer Use 适配至原生 macOS，并加入扩展思考、AppleScript 集成和 Retina 坐标缩放。
-- [Enikk](https://awesomecua.com/resources/github-gtt116-enikk/)：Enikk 是一个开源计算机使用智能体，结合 GUI 视觉控制和 CLI 执行，支持视觉模型与纯文本模型。
-- [Errand](https://awesomecua.com/resources/github-runta-dev-errand/)：开源、持久运行的桌面 AI 协作智能体，具备定时任务、浏览器控制和工作区记忆功能。
-- [EverFern](https://awesomecua.com/resources/github-everfern-ai-everfern/)：Electron 桌面智能体通过 LangGraph 编排器运行截图驱动的计算机使用循环，以 robotjs 输入鼠标和键盘，并结合 Navis 浏览器智能体与 shell 工具，支持本地或云端模型。
-- [Fan](https://awesomecua.com/resources/github-7757-fan-browser-agent/)：Electron 桌面智能体通过编号 DOM 和无障碍快照操作内嵌的可见 Chromium 浏览器，运行有边界的 JavaScript 浏览器事务，并在登录和高风险步骤交还控制权。
-- [Fara Browser Automation Agent](https://awesomecua.com/resources/github-pmbstyle-fara-agent/)：本地浏览器自动化智能体，通过 LM Studio 或 Ollama 及 Playwright 使用 Microsoft 的 Fara-7B 计算机使用模型。
-- [fastbrowse](https://awesomecua.com/resources/github-agent-labs-dev-fastbrowse/)：浏览器智能体由 TypeSafe Jev 通过 CDP 从页面索引控件中选择操作，LLM 负责规划和阅读，代码控制输入、机密信息及不可逆步骤；回答引用页面原文。
-- [Fazm](https://awesomecua.com/resources/github-mediar-ai-fazm/)：Fazm 是原生 macOS 桌面和浏览器智能体，通过 Accessibility/OCR 观察屏幕状态并自动执行跨应用工作流。
-- [FinalRun](https://awesomecua.com/resources/url-3b99bbbd3480dbc1ec6b/)：Android 界面智能体，通过精简界面树、等待画面稳定、反馈操作失败信息，并在定位操作前重新截图来执行任务。
-- [FluidGPT](https://awesomecua.com/resources/url-738bfdfe24671ad29a43/)：一款 Android 智能体，根据任务目标选择可复用的应用操作流程，并通过无障碍树执行。其基准报告展示了各回合的录像和操作轨迹。
-- [Fuji-Web](https://awesomecua.com/resources/github-normal-computing-oss-fuji-web/)：Chrome 侧边栏扩展智能体，使用 OpenAI、Anthropic 或 Gemini 模型，从标有 uid 的截图或简化 DOM 中选择点击、输入、滚动和导航操作，完成网站上的文字任务。
-- [Fuji-Web](https://awesomecua.com/resources/github-normal-computing-fuji-web/)：Fuji-Web 是一个 Chrome 扩展网页智能体，结合无障碍树和截图定位，自主执行浏览器工作流。
-- [FurlPay Bot](https://awesomecua.com/resources/github-furlpay-furlpay-bot/)：常驻 AI 队友，配有专属虚拟计算机、浏览器、长期记忆和语音界面。
-- [GACUA](https://awesomecua.com/resources/github-openmule-gacua/)：GACUA 是基于 Gemini CLI 构建的开箱即用的计算机使用智能体，结合了桌面屏幕控制、浏览器自动化和 shell 工具。
-- [Gemini Browser Agent](https://awesomecua.com/resources/github-pmbstyle-gemini-browser-agent/)：Chrome 扩展和 Python WebSocket 桥接器，在用户当前标签页运行 Gemini 2.5 Computer Use，将标签页截图发给模型，并通过内容脚本执行点击、输入和滚动。
-- [Genie](https://awesomecua.com/resources/github-vimalmathew26-genie/)：Genie 是自主式 Linux 桌面智能体，通过 AT-SPI 无障碍树、Chrome CDP 和 VLM 视觉进行三级 UI 定位。
-- [GERALLT](https://awesomecua.com/resources/github-dlr-sc-gerallt/)：通过图形界面测试 RCE 的 LLM 系统，分别使用模型执行操作、评估问题和描述图标。
-- [Ghost Browser by Gemma](https://awesomecua.com/resources/github-ddangkong-ghost-browser/)：Ghost Browser 是通过 Ollama 使用 Gemma 27B 的本地浏览器自动化智能体，并在 Stealth Bench 上进行评测。
-- [Ghost in the Droid](https://awesomecua.com/resources/github-ghost-in-the-droid-android-agent/)：Ghost in the Droid 是一款 Android GUI 智能体，结合无障碍树、截图感知以及 ADB 和设备端执行。

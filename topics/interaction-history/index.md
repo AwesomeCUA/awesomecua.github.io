@@ -197,6 +197,8 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
 
 ## Benchmarks
 
+- [PersonalAlign](https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/) — Date not recorded
+  PersonalAlign releases AndroidIntent evaluations of personalized mobile GUI agents and HIM-Agent memory for using long-term interaction records.
 - [VideoWebArena](https://awesomecua.com/resources/github-ljang0-videowebarena/) — Date not recorded
   VideoWebArena evaluates web agents that use video tutorials to complete website tasks. Its released benchmark includes task configurations, environments, and an evaluation pipeline.
 
@@ -206,6 +208,10 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
   A dataset of STEVE-R1 evaluation trajectories on WindowsAgentArena, pairing task screenshots and agent responses with action traces and outcome labels.
 - [go-browse-wa-raw](https://awesomecua.com/resources/url-edb0eadcc3df5559e941/) — Date not recorded
   go-browse-wa-raw is a browser-agent trajectory dataset with page observations, actions, goals, rewards, and images. Its train split contains 196462 examples.
+- [WenyiWU0111/CoMEM-agent-memory-trajectories](https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/) — Date not recorded
+  A dataset for GUI-agent memory research containing expanded web links, synthesized tasks, and executed trajectories with successful and failed outcomes.
+- [xunsss/osworld2-codex-gpt56sol-0624-attempt-preview](https://awesomecua.com/resources/url-bf57897ba4d047112345/) — Date not recorded
+  This OSWorld-V2 dataset provides compact tables for browsing Codex task summaries, attempts, trajectory events, and executed GUI or CLI actions.
 
 ## Models
 
@@ -228,5 +234,9 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
   HiconAgent provides GUI-policy training code that samples histories of varied lengths and compresses past interactions during policy optimization.
 - [MemGUI-Agent](https://awesomecua.com/resources/github-kwai-memgui-agent/) — Date not recorded
   MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
+- [nocta-recorder](https://awesomecua.com/resources/github-nossa-y-nocta-recorder/) — Date not recorded
+  A macOS recorder that stores screen snapshots, accessibility elements, OCR, input events, and audio in a local SQLite database and serves the captured activity through a local API.
 - [Open Codex Computer History](https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/) — Date not recorded
   Clean-room macOS implementation of event-stream interaction recording using Accessibility hit-testing, CGEvent taps, and SkyLight window snapshots.
+- [Taxy AI](https://awesomecua.com/resources/github-taxyai-browser-extension/) — Date not recorded
+  Taxy AI is a Chrome extension that turns user instructions and a simplified page DOM into clicks and text entry, then checks the updated page before continuing.

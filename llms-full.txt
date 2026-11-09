@@ -1,6 +1,6 @@
 # AwesomeCUA curated catalog
 
-> All 4,587 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-09T16:17:01Z. Metadata-only bibliography records and unreviewed candidates are excluded.
+> All 4,857 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-09T20:03:14Z. Metadata-only bibliography records and unreviewed candidates are excluded.
 
 Each entry links its catalog page. Append `index.md` to that URL for the full annotation with evidence fingerprints, or `record.json` for the complete record. Full annotations by kind: [Models and checkpoints](https://awesomecua.com/categories/model/index.md), [Datasets](https://awesomecua.com/categories/dataset/index.md), [Benchmarks](https://awesomecua.com/categories/benchmark/index.md), [Agents](https://awesomecua.com/categories/agent/index.md), [Frameworks](https://awesomecua.com/categories/framework/index.md), [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md), [Tools](https://awesomecua.com/categories/tool/index.md), [Products](https://awesomecua.com/categories/product/index.md), [Publishers](https://awesomecua.com/categories/company/index.md), [Learning resources](https://awesomecua.com/categories/learning/index.md), [Surveys](https://awesomecua.com/categories/survey/index.md), [Research library](https://awesomecua.com/papers/index.md).
 
@@ -8,7 +8,7 @@ Reviews are AI-assisted inspections of primary sources. Code, data, weights and 
 
 Related reading: [English research survey](https://awesomecua.com/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
-## Models and checkpoints (283)
+## Models and checkpoints (351)
 
 ### ACT-1
 
@@ -43,6 +43,20 @@ Vision-based GUI agent models with unified action representations.
 
 - https://awesomecua.com/resources/github-xlang-ai-aguvis/ · source: https://github.com/xlang-ai/aguvis
 
+### AndroidGen-GLM-4-9B
+
+AndroidGen-GLM-4-9B is a released model for agents that carry out tasks across Android apps without manually labeled interaction data.
+
+- https://awesomecua.com/resources/url-66d842fe6552d3ca62a1/ · source: https://huggingface.co/THUDM/androidgen-glm-4-9b
+- Licenses: weights other
+
+### AndroidGen-Llama-3-70B
+
+AndroidGen-Llama-3-70B is a released model for agents that carry out tasks across Android applications such as messaging, email and settings without manually labeled interaction data.
+
+- https://awesomecua.com/resources/url-75e93dff049c046c586e/ · source: https://huggingface.co/THUDM/androidgen-llama-3-70b
+- Licenses: weights other
+
 ### Aria-UI
 
 Mixture-of-experts GUI grounding model with 3.9B activated parameters that can use text or interleaved image history, with released training data and an AndroidWorld agent.
@@ -68,6 +82,20 @@ UI-TARS-1.5-7B-derived checkpoint trained with ARPO on OSWorld desktop tasks.
 
 - https://awesomecua.com/resources/url-db6fc5f29f186d13991c/ · source: https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B
 
+### asil-qwen35-2b-rl
+
+An ASIL reinforcement-learning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+
+- https://awesomecua.com/resources/url-d740ec821c7c466db2bf/ · source: https://huggingface.co/sharryXR/asil-qwen35-2b-rl
+- Licenses: weights apache-2.0
+
+### asil-qwen35-9b-sft
+
+An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+
+- https://awesomecua.com/resources/url-9960d240939244c3edaa/ · source: https://huggingface.co/sharryXR/asil-qwen35-9b-sft
+- Licenses: weights apache-2.0
+
 ### AutoGLM Phone 9B
 
 AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters and tagged for Chinese.
@@ -80,6 +108,19 @@ AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Bas
 Multilingual variant of the AutoGLM phone-agent checkpoint for Open-AutoGLM, likewise fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters.
 
 - https://awesomecua.com/resources/url-d236e7ec7a2b0028950a/ · source: https://huggingface.co/zai-org/AutoGLM-Phone-9B-Multilingual
+- Licenses: weights mit
+
+### AutoGUI-Qwen-v0.1
+
+A UI vision-language model checkpoint trained on AutoGUI-625k data and fine-tuned from Qwen-VL-Chat for interpreting interfaces.
+
+- https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/ · source: https://huggingface.co/HongxinLi/AutoGUI-Qwen-v0.1
+
+### blip-icon-captioning
+
+blip-icon-captioning is a BLIP checkpoint fine-tuned to turn macOS interface icons and elements into short natural-language descriptions for accessibility uses.
+
+- https://awesomecua.com/resources/url-b4a01331e3e89e1bae9d/ · source: https://huggingface.co/MacPaw/blip-icon-captioning
 - Licenses: weights mit
 
 ### BlueLM-GUI
@@ -101,6 +142,12 @@ Browser Use's open-weight browser-agent model, fine-tuned from Qwen3-VL-30B-A3B-
 
 - https://awesomecua.com/resources/url-2c4b53bc04f33578e9b8/ · source: https://huggingface.co/browser-use/bu-30b-a3b-preview
 - Licenses: weights Modified MIT License (Browser Use, revenue-restricted)
+
+### Captioner
+
+Captioner is a dense captioning model for graphical interfaces, released with a checkpoint and links to an online demo and reference server code.
+
+- https://awesomecua.com/resources/url-4f98919eaf7a92e8faab/ · source: https://huggingface.co/Agent-Eval-Refine/Captioner
 
 ### Claude 3.7 Sonnet
 
@@ -132,6 +179,13 @@ A general model whose release documents computer use through visual observation,
 
 - https://awesomecua.com/resources/url-c4a45eed67ee9087aae3/ · source: https://www.anthropic.com/news/claude-sonnet-4-6
 
+### CODA-PLANNER-TARS-32B
+
+CODA-PLANNER-TARS-32B is a GUI agent planner checkpoint trained for scientific applications and deployed alongside a specialist executor in ScienceBoard.
+
+- https://awesomecua.com/resources/url-cf16d0a4a05ea7270ffa/ · source: https://huggingface.co/OpenIXCLab/CODA-PLANNER-TARS-32B
+- Licenses: weights apache-2.0
+
 ### Code2World-8B checkpoint
 
 Released GUI world-model checkpoint that turns a screenshot and proposed action into HTML for rendering a predicted next screen.
@@ -152,6 +206,13 @@ A bilingual GLM-4V-based execution model that uses screenshots, task instruction
 
 - https://awesomecua.com/resources/url-c5eb975c0d66f8a2954f/ · source: https://huggingface.co/zai-org/cogagent-9b-20241220
 - Licenses: weights other
+
+### cogagent-vqa-hf
+
+A CogAgent checkpoint oriented toward single-turn visual dialogue; its card also describes GUI screenshot understanding, coordinate actions, and reported GUI dataset results.
+
+- https://awesomecua.com/resources/url-64d0220e17b4e67485f3/ · source: https://huggingface.co/THUDM/cogagent-vqa-hf
+- Licenses: weights apache-2.0
 
 ### CogVLM
 
@@ -187,11 +248,25 @@ ConClick is a GUI grounding model trained with coordinate supervision and target
 - https://awesomecua.com/resources/github-zhangruotian-conclick/ · source: https://github.com/zhangruotian/ConClick
 - Licenses: code Apache-2.0
 
+### ConClick-8B
+
+A GUI grounding checkpoint trained to distinguish target elements from distractors using coordinate and ranking supervision, released as an adapter and supporting weights.
+
+- https://awesomecua.com/resources/url-75cc3b45e7e44c422c4c/ · source: https://huggingface.co/ruotian/ConClick-8B
+- Licenses: weights apache-2.0
+
 ### cua-s1-forms
 
 A 706,048-parameter checkpoint that scores candidate actions for GUI form fields in parallel. It is released as safetensors weights with a configuration file.
 
 - https://awesomecua.com/resources/url-721c94bd6f2f3edc35ba/ · source: https://huggingface.co/cua-ai/cua-s1-forms
+- Licenses: weights mit
+
+### cua-s1-forms-coreml
+
+A Core ML conversion of CUA-S1-FORMS scores candidate actions for forms from task and element text. It provides portable and compiled packages for Apple devices.
+
+- https://awesomecua.com/resources/url-f742ad40df2e5f109fc3/ · source: https://huggingface.co/FluidInference/cua-s1-forms-coreml
 - Licenses: weights mit
 
 ### DeskMind Eyes
@@ -200,6 +275,13 @@ DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for
 
 - https://awesomecua.com/resources/github-deskmind-ai-eyes/ · source: https://github.com/deskmind-ai/eyes
 - Licenses: code Apache-2.0
+
+### DeskMind Eyes 4B
+
+DeskMind Eyes 4B maps an element description and screenshot to a click point for Mac applications. The release provides merged model weights and reports GUI grounding results.
+
+- https://awesomecua.com/resources/url-0f9bf031c9ee17191cd1/ · source: https://huggingface.co/deskmind/eyes-4b
+- Licenses: weights apache-2.0
 
 ### DiMo-GUI
 
@@ -234,6 +316,27 @@ Dreamer-7B-Reddit is a Reddit-domain checkpoint for WebDreamer. It predicts the 
 A shopping-domain Dreamer-7B checkpoint for WebDreamer, which uses screenshot-conditioned predictions of candidate web actions to support agent planning.
 
 - https://awesomecua.com/resources/url-3173abbb295c74d0e9ec/ · source: https://huggingface.co/osunlp/Dreamer-7B-Shopping
+- Licenses: weights apache-2.0
+
+### Eagle
+
+Eagle is a vision-language model family that includes LocateAnything, a grounding component documented for locating GUI elements alongside other visual targets.
+
+- https://awesomecua.com/resources/github-nvlabs-eagle/ · source: https://github.com/NVlabs/Eagle
+- Licenses: code Apache-2.0
+
+### ELAM-7B
+
+A model fine-tuned on automotive UI screenshots to return tap coordinates for test instructions and judge expected results at relevant interface elements.
+
+- https://awesomecua.com/resources/url-057b43bab2e1e58fc58e/ · source: https://huggingface.co/sparks-solutions/ELAM-7B
+- Licenses: weights apache-2.0
+
+### espetro/htlm-lfm2.5-350m
+
+A fine-tuned LFM2.5-350M model that selects click, type, or select actions from an instruction and indexed web elements, with a GGUF file for browser inference.
+
+- https://awesomecua.com/resources/url-df38112df002157ce4b0/ · source: https://huggingface.co/espetro/htlm-lfm2.5-350m
 - Licenses: weights apache-2.0
 
 ### EvoCUA
@@ -330,6 +433,20 @@ Gemini capability for generating interface actions from screenshots.
 
 - https://awesomecua.com/resources/url-879d4e3e75e83582bde6/ · source: https://ai.google.dev/gemini-api/docs/computer-use
 
+### GLM-4.5V
+
+A released vision-language model that documents screen reading, icon recognition, visual-element grounding and desktop operation assistance among its supported tasks.
+
+- https://awesomecua.com/resources/url-97cfbcd45f879ff71499/ · source: https://huggingface.co/zai-org/GLM-4.5V
+- Licenses: weights mit
+
+### GLM-4.6V-FP8
+
+An FP8 multimodal model checkpoint supports tool calls using screenshots as inputs and generates or edits frontend code from images of interfaces.
+
+- https://awesomecua.com/resources/url-2a99aab63fc1fe65610d/ · source: https://huggingface.co/zai-org/GLM-4.6V-FP8
+- Licenses: weights mit
+
 ### GLM-V
 
 Z.ai repository for the open-weight GLM-4.1V-Thinking, GLM-4.5V and GLM-4.6V vision-language models, with GUI-agent prompt examples for mobile, PC and web plus a released VLM reward system.
@@ -356,6 +473,13 @@ GroundAnything is a 4B parallel-decoding diffusion grounding model for low-laten
 
 - https://awesomecua.com/resources/github-groundingpi-groundanything/ · source: https://github.com/groundingpi/GroundAnything
 - Licenses: code Apache-2.0
+
+### GroundAnything-VLM
+
+GroundAnything-VLM is an autoregressive visual grounding checkpoint that locates image targets, including GUI elements, from referring instructions.
+
+- https://awesomecua.com/resources/url-a80a37148148aad731a9/ · source: https://huggingface.co/GroundingPI/GroundAnything-VLM
+- Licenses: weights other
 
 ### GroundGUI-8B
 
@@ -418,6 +542,13 @@ GUI-Actor grounding checkpoint fine-tuned from Qwen2.5-VL-3B-Instruct with an at
 GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class, under MIT.
 
 - https://awesomecua.com/resources/url-e3e5dd82a3102689c4ea/ · source: https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL
+- Licenses: weights mit
+
+### GUI-Actor-3B-Qwen2.5-VL-LiteTrain
+
+A GUI-grounding checkpoint built on Qwen2.5-VL-3B with an attention-based action head. Given a screenshot and instruction, it predicts a click location.
+
+- https://awesomecua.com/resources/url-5e0c3173aea8edd0f3b7/ · source: https://huggingface.co/qianhuiwu/GUI-Actor-3B-Qwen2.5-VL-LiteTrain
 - Licenses: weights mit
 
 ### GUI-Actor-7B-Qwen2.5-VL
@@ -605,6 +736,13 @@ GUI-Vid is a released video language model retrained on GUI-World for understand
 gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step screen states via renderable web code generation.
 
 - https://awesomecua.com/resources/github-trillion-labs-gworld/ · source: https://github.com/trillion-labs/gWorld
+
+### gWorld-8B
+
+gWorld-8B is a released mobile GUI world model that predicts the screen after an action by generating renderable HTML from the current screenshot and action.
+
+- https://awesomecua.com/resources/url-78802d1a2fce25f20f85/ · source: https://huggingface.co/trillionlabs/gWorld-8B
+- Licenses: weights apache-2.0
 
 ### Hcompany/Holo4-35B-A3B-GGUF
 
@@ -890,6 +1028,55 @@ Official repository for the InternVL open-source multimodal foundation model fam
 - https://awesomecua.com/resources/github-opengvlab-internvl/ · source: https://github.com/OpenGVLab/InternVL
 - Licenses: code MIT
 
+### InternVL3-38B
+
+A released InternVL3-38B multimodal checkpoint from a model family whose card documents GUI-operation training samples and GUI-grounding evaluation.
+
+- https://awesomecua.com/resources/url-b2a83cef835559f24351/ · source: https://huggingface.co/OpenGVLab/InternVL3-38B
+- Licenses: weights apache-2.0
+
+### InternVL3-8B
+
+An 8B multimodal checkpoint whose release describes GUI-operation training data and a GUI-grounding evaluation alongside broader image and video tasks.
+
+- https://awesomecua.com/resources/url-7c01d4caa44763019e36/ · source: https://huggingface.co/OpenGVLab/InternVL3-8B
+- Licenses: weights apache-2.0
+
+### InternVL3-9B
+
+A released multimodal checkpoint whose training includes GUI operations and whose card documents GUI grounding alongside broader visual and language tasks.
+
+- https://awesomecua.com/resources/url-1e3655e5a2b664102ac7/ · source: https://huggingface.co/OpenGVLab/InternVL3-9B
+- Licenses: weights mit
+
+### InternVL3_5-241B-A28B
+
+A released InternVL3.5 multimodal checkpoint from a family whose card describes GUI interaction, Cascade RL training and adaptive visual resolution.
+
+- https://awesomecua.com/resources/url-c8d93b1c274acd679694/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B
+- Licenses: weights apache-2.0
+
+### InternVL3_5-241B-A28B-HF
+
+InternVL3_5-241B-A28B-HF releases a Transformers-format multimodal checkpoint from the InternVL3.5 family, whose card describes GUI interaction and efficient visual inference.
+
+- https://awesomecua.com/resources/url-7c6929dcffffe6553ea9/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-HF
+- Licenses: weights apache-2.0
+
+### InternVL3_5-38B-HF
+
+An HF-format 38B checkpoint in the InternVL3.5 multimodal model family, whose card lists GUI interaction among its capabilities and describes staged training and inference.
+
+- https://awesomecua.com/resources/url-099960c12bbdd80f73cb/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-38B-HF
+- Licenses: weights apache-2.0
+
+### InternVL3_5-8B
+
+An 8B multimodal checkpoint in the InternVL3.5 family, whose card describes GUI interaction alongside broader visual reasoning and inference efficiency work.
+
+- https://awesomecua.com/resources/url-7f7d17a0873e6ffda2b9/ · source: https://huggingface.co/OpenGVLab/InternVL3_5-8B
+- Licenses: weights apache-2.0
+
 ### jadechoghari/Ferret-UI-Llama8b
 
 Llama-3-8B variant of Ferret-UI for understanding interface screenshots, answering questions about selected regions and locating elements with bounding boxes.
@@ -910,12 +1097,33 @@ A released model checkpoint for computer-use grounding research, based on Qwen2.
 - https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/ · source: https://huggingface.co/xlangai/Jedi-7B-1080p
 - Licenses: weights apache-2.0
 
+### jiamingzz/lgwm
+
+Released weights for a GUI world model that predicts a screen representation after an action and checks the observed transition, with a separate harm scoring head.
+
+- https://awesomecua.com/resources/url-512cd7335068b2c17859/ · source: https://huggingface.co/jiamingzz/lgwm
+- Licenses: weights apache-2.0
+
 ### KDEGroup/UI-AGILE-3B
 
 A released UI-AGILE checkpoint for GUI grounding, associated with reward design and cropping based resampling during training and image decomposition during inference.
 
 - https://awesomecua.com/resources/url-642671eabef44827b7de/ · source: https://huggingface.co/KDEGroup/UI-AGILE-3B
 - Licenses: weights mit
+
+### kev-0.6b-browser-use
+
+kev-0.6b-browser-use is a 0.6B browser decision model that scores candidate page elements and chooses a click, type, or select operation from a task goal.
+
+- https://awesomecua.com/resources/url-3c55f225a1f66a6261ac/ · source: https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use
+- Licenses: weights apache-2.0
+
+### kev-0.6b-browser-use-ONNX
+
+A WebGPU-compatible ONNX browser-use model that selects a page element and operation from a goal and candidate elements, with a 4-bit export for JavaScript use.
+
+- https://awesomecua.com/resources/url-295e0be27996e41738f8/ · source: https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use-ONNX
+- Licenses: weights apache-2.0
 
 ### kev-browser-use
 
@@ -987,6 +1195,41 @@ A Llama checkpoint trained on demonstrations gathered through WebArena explorati
 - https://awesomecua.com/resources/url-c9d2a9288a568db12bd1/ · source: https://huggingface.co/stanfordnlp/llama8b-nnetnav-wa
 - Licenses: weights apache-2.0
 
+### lumos_unified_ground_iterative-13B
+
+A released Lumos grounding-module checkpoint fine-tuned on web-agent tasks alongside question answering, multimodal and math tasks.
+
+- https://awesomecua.com/resources/url-b0b2cd616f8c30b4b09d/ · source: https://huggingface.co/ai2lumos/lumos_unified_ground_iterative-13B
+- Licenses: weights apache-2.0
+
+### lumos_web_agent_ground_iterative
+
+A released Lumos grounding checkpoint fine-tuned for web-agent tasks using the Lumos-Iterative formulation. It serves the grounding module of a modular agent.
+
+- https://awesomecua.com/resources/url-246241a0b6219513cb7f/ · source: https://huggingface.co/ai2lumos/lumos_web_agent_ground_iterative
+- Licenses: weights apache-2.0
+
+### lumos_web_agent_ground_iterative-13B
+
+A released Lumos checkpoint for grounding web-agent actions within an iterative architecture that separates planning, grounding and execution.
+
+- https://awesomecua.com/resources/url-dca5b0d8449331bbede4/ · source: https://huggingface.co/ai2lumos/lumos_web_agent_ground_iterative-13B
+- Licenses: weights apache-2.0
+
+### lumos_web_agent_plan_iterative
+
+A fine-tuned Lumos planning-module checkpoint for web-agent tasks, released as model weights alongside a separately listed training dataset.
+
+- https://awesomecua.com/resources/url-e35db30fee209ef9b57d/ · source: https://huggingface.co/ai2lumos/lumos_web_agent_plan_iterative
+- Licenses: weights apache-2.0
+
+### lumos_web_agent_plan_iterative-13B
+
+A released Lumos checkpoint for planning web-agent tasks within an iterative architecture that separates planning, grounding and execution.
+
+- https://awesomecua.com/resources/url-7e7de336b1d8a2adce2c/ · source: https://huggingface.co/ai2lumos/lumos_web_agent_plan_iterative-13B
+- Licenses: weights apache-2.0
+
 ### Magma
 
 Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark and Trace-of-Mark objectives on UI, robotics and video data and fine-tunable for web and mobile UI navigation.
@@ -1001,6 +1244,13 @@ Magma-8B is a released multimodal agent checkpoint whose card shows UI navigatio
 - https://awesomecua.com/resources/url-d3247ff0ff9a1f6bc247/ · source: https://huggingface.co/microsoft/Magma-8B
 - Licenses: weights mit
 
+### Magma-R1
+
+Magma-R1 is a released GUI-agent model trained on curated AndroidControl samples. Its accompanying documentation describes action and grounding evaluation and reward-based training.
+
+- https://awesomecua.com/resources/url-e5e74846aeaa8398673e/ · source: https://huggingface.co/batwBMW/Magma-R1
+- Licenses: weights mit
+
 ### MAI-UI 2B
 
 A 2B MAI-UI checkpoint in the Qwen3-VL architecture, from a GUI agent family whose training data adds agent-user interaction and MCP tool calls to mobile navigation and grounding.
@@ -1013,6 +1263,13 @@ A 2B MAI-UI checkpoint in the Qwen3-VL architecture, from a GUI agent family who
 A released MAI-UI checkpoint combining mobile GUI actions, agent-user interaction and tool-use-oriented navigation.
 
 - https://awesomecua.com/resources/url-00b1a3abf9bcb424b264/ · source: https://huggingface.co/Tongyi-MAI/MAI-UI-8B
+- Licenses: weights apache-2.0
+
+### Mano-CUA-2.0-4B
+
+A released GUI action model that takes a desktop screenshot and task context to produce structured actions, including clicks, typing, scrolling and app launches.
+
+- https://awesomecua.com/resources/url-1b08ff264bbf2f8a10a3/ · source: https://huggingface.co/Mininglamp-2718/Mano-CUA-2.0-4B
 - Licenses: weights apache-2.0
 
 ### Mano-P
@@ -1096,6 +1353,13 @@ MP-GUI provides multimodal perception training and evaluation code with graphica
 - https://awesomecua.com/resources/github-bigtaige-mp-gui/ · source: https://github.com/BigTaige/MP-GUI
 - Licenses: code MIT
 
+### mPLUG/ToolCUA-8B
+
+ToolCUA-8B is a released computer-use model trained to alternate between desktop GUI actions and structured tool calls during task execution.
+
+- https://awesomecua.com/resources/url-44b65e07d7a869d37dc6/ · source: https://huggingface.co/mPLUG/ToolCUA-8B
+- Licenses: weights mit
+
 ### Muse-Glimmer-30B-GUI-Grounding-Fast
 
 A LoRA adapter for Muse-Glimmer-30B that returns a UI element's bounding box from a screenshot and instruction, with examples spanning desktop, mobile, and web screens.
@@ -1123,6 +1387,13 @@ OneJev is a multimodal System-One decision model based on Qwen that returns cali
 
 - https://awesomecua.com/resources/github-omnijev-onejev/ · source: https://github.com/OmniJev/OneJev
 - Licenses: code Apache-2.0
+
+### OpAgent-32B
+
+A vision-language model fine-tuned for web navigation. It takes a task instruction and webpage screenshot and produces a browser action or final answer.
+
+- https://awesomecua.com/resources/url-875b417b3ef43021cd74/ · source: https://huggingface.co/codefuse-ai/OpAgent-32B
+- Licenses: weights apache-2.0
 
 ### OpenAI CUA
 
@@ -1198,6 +1469,13 @@ Mobile-agent checkpoint trained on OpenMobile-Data-v2 for screenshot actions and
 Mobile agent checkpoint with a Qwen3-VL architecture, released with OpenMobile and fine-tuned on its synthesized Android trajectories; the code README serves it with vLLM for AndroidWorld evaluation.
 
 - https://awesomecua.com/resources/url-6616228d4f267363458e/ · source: https://huggingface.co/cckevinn/OpenMobile-8B
+
+### OpenWebVoyager/OpenWebVoyager-IL
+
+An Idefics2-based multimodal web-agent checkpoint trained by imitation learning on trajectories collected with a web-agent framework.
+
+- https://awesomecua.com/resources/url-725f9a8225f0f9c40d93/ · source: https://huggingface.co/OpenWebVoyager/OpenWebVoyager-IL
+- Licenses: weights apache-2.0
 
 ### Orienter
 
@@ -1296,6 +1574,13 @@ WebArena-oriented InternVL2-8B checkpoint trained on web trajectories from OS-Ge
 - https://awesomecua.com/resources/url-f2c34526651f5f57cf98/ · source: https://huggingface.co/OS-Copilot/OS-Genesis-8B-WA
 - Licenses: weights apache-2.0
 
+### OTA-v1
+
+OTA-v1 is a fine-tuned browser-agent checkpoint designed to plan browser actions, use tools and maintain context across multi-step web tasks.
+
+- https://awesomecua.com/resources/url-404c719910f8f4a37149/ · source: https://huggingface.co/OTA-AI/OTA-v1
+- Licenses: weights apache-2.0
+
 ### PAE LLaVA 7B
 
 A released LLaVA checkpoint for visual browser interaction from the PAE autonomous task-proposal and policy-learning system.
@@ -1386,6 +1671,13 @@ AskUI's Florence-2-base grounding model of about 270M parameters that returns a 
 - https://awesomecua.com/resources/url-303e1926b8ff4f60e006/ · source: https://huggingface.co/AskUI/PTA-1
 - Licenses: weights MIT
 
+### qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain
+
+A GUI-grounding checkpoint built on Qwen2.5-VL-7B-Instruct with an attention-based action head. Its example predicts a click point from a screenshot and instruction.
+
+- https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/ · source: https://huggingface.co/qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain
+- Licenses: weights mit
+
 ### Qwen-CUA
 
 Qwen-CUA is a screenshot-based computer-use model that generates grounded keyboard and mouse actions. Its release includes weights and a browser reference runtime.
@@ -1406,6 +1698,13 @@ Qwen3-VL-8B-Instruct is a vision-language checkpoint whose card describes PC and
 
 - https://awesomecua.com/resources/url-90ae002dbf099d42fabb/ · source: https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct
 - Licenses: weights apache-2.0
+
+### Qwen2-VL-72B-Instruct-AWQ
+
+Qwen2-VL-72B-Instruct-AWQ releases quantized weights for a visual instruction model. Its card describes integration with mobile devices for operation guided by images and text.
+
+- https://awesomecua.com/resources/url-1f488d7ef1c703f97a8a/ · source: https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct-AWQ
+- Licenses: weights other
 
 ### Qwen2-VL-7B-Instruct
 
@@ -1440,6 +1739,27 @@ Qwen2.5-VL-7B-Instruct releases vision-language weights whose card describes com
 - https://awesomecua.com/resources/url-557edb1d63e8fcfdee12/ · source: https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct
 - Licenses: weights apache-2.0
 
+### Qwen2.5-VL-7B-Instruct-AWQ
+
+An AWQ release of the instruction-tuned 7B Qwen2.5-VL model. Its card describes interface-image understanding, visual localization, and computer and phone use.
+
+- https://awesomecua.com/resources/url-06c351d14bee24bc3f01/ · source: https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct-AWQ
+- Licenses: weights apache-2.0
+
+### Qwen3-8B-FormFactory-GRPO-LoRA
+
+Qwen3-8B-FormFactory-GRPO-LoRA is a browser form-filling adapter for Qwen3-8B, trained with supervised initialization and online GRPO using real browser execution.
+
+- https://awesomecua.com/resources/url-4a3799bd1b6db15afffe/ · source: https://huggingface.co/billyenrizky/Qwen3-8B-FormFactory-GRPO-LoRA
+- Licenses: weights apache-2.0
+
+### Qwen3-8B-FormFactory-SFT-LoRA
+
+A Qwen3-8B LoRA adapter fine-tuned on 992 demonstrations for filling web forms in FormFactory, released with instructions for loading it through PEFT.
+
+- https://awesomecua.com/resources/url-994d4cf27b0931fb53e3/ · source: https://huggingface.co/billyenrizky/Qwen3-8B-FormFactory-SFT-LoRA
+- Licenses: weights apache-2.0
+
 ### Qwen3-VL / Qwen2.5-VL
 
 Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
@@ -1447,11 +1767,80 @@ Official repository for the Qwen-VL vision-language model series supporting nati
 - https://awesomecua.com/resources/github-qwenlm-qwen3-vl/ · source: https://github.com/QwenLM/Qwen3-VL
 - Licenses: code Apache-2.0
 
+### Qwen3-VL-235B-A22B-Thinking
+
+A released Qwen3-VL vision-language checkpoint whose card describes PC and mobile GUI interaction, including recognizing interface elements, invoking tools, and completing tasks.
+
+- https://awesomecua.com/resources/url-b8702b4ca9ceac2ca3ee/ · source: https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking
+- Licenses: weights apache-2.0
+
+### Qwen3-VL-2B-Instruct
+
+A vision-language model whose card describes visual-agent operation of PC and mobile interfaces, including element recognition and tool use. This repository releases its weights.
+
+- https://awesomecua.com/resources/url-c4d0846c44df2c0d4099/ · source: https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct
+- Licenses: weights apache-2.0
+
+### Qwen3-VL-2B-Thinking
+
+Qwen3-VL-2B-Thinking, the 2B reasoning edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.
+
+- https://awesomecua.com/resources/url-24013b35fccf6b504bc5/ · source: https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking
+- Licenses: weights apache-2.0
+
+### Qwen3-VL-32B-Instruct
+
+Qwen3-VL-32B-Instruct, the 32B instruction-tuned edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.
+
+- https://awesomecua.com/resources/url-560a21b67220296ba009/ · source: https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct
+- Licenses: weights apache-2.0
+
+### Qwen3-VL-32B-Thinking
+
+Qwen3-VL-32B-Thinking is a vision-language checkpoint whose card describes recognizing interface elements and using tools to complete PC and mobile GUI tasks.
+
+- https://awesomecua.com/resources/url-ecf889aadea335aa5e25/ · source: https://huggingface.co/Qwen/Qwen3-VL-32B-Thinking
+- Licenses: weights apache-2.0
+
+### Qwen3-VL-4B-Thinking
+
+A vision-language checkpoint whose card describes visual-agent operation of PC and mobile interfaces, including element recognition and tool use.
+
+- https://awesomecua.com/resources/url-b5690e43822ef84015c5/ · source: https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking
+- Licenses: weights apache-2.0
+
 ### Qwen3-VL-8B-Thinking
 
 A general vision-language weight release whose documented visual-agent capability includes recognizing PC and mobile GUI elements and invoking tools to complete tasks.
 
 - https://awesomecua.com/resources/url-d1305a893a47ac03d0de/ · source: https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking
+- Licenses: weights apache-2.0
+
+### Qwen3.5-4B-Browser-Agent-SFT-FP8
+
+An FP8 Qwen3.5-4B checkpoint fine-tuned on browser-agent trajectories with structured actions. Its card provides vLLM serving settings and reports BrowseWebApp-Bench v2 results.
+
+- https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/ · source: https://huggingface.co/visnia-ai/Qwen3.5-4B-Browser-Agent-SFT-FP8
+- Licenses: weights apache-2.0
+
+### Rex-Omni
+
+Rex-Omni is a general visual perception model with GUI grounding and pointing modes. The repository provides inference examples, evaluation materials, and fine-tuning code.
+
+- https://awesomecua.com/resources/github-idea-research-rex-omni/ · source: https://github.com/IDEA-Research/Rex-Omni
+
+### S1-Accurate-LoRA
+
+A LoRA adapter for a desktop agent's decision model uses window screenshots to select an operation and target element from candidate actions when a faster model is uncertain.
+
+- https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/ · source: https://huggingface.co/elidot007/S1-Accurate-LoRA
+- Licenses: weights apache-2.0
+
+### S1-Fast
+
+S1-Fast predicts desktop actions, target elements and step status from a Windows UI Automation snapshot and visual tokens in one encoder pass.
+
+- https://awesomecua.com/resources/url-51fd7f79dff766278d83/ · source: https://huggingface.co/elidot007/S1-Fast
 - Licenses: weights apache-2.0
 
 ### Salesforce/GTA1-32B
@@ -1559,12 +1948,26 @@ A Qwen2.5-VL-based computer-use checkpoint with direct grounding and agent actio
 - https://awesomecua.com/resources/url-ff7b1873a3eead89607a/ · source: https://huggingface.co/OpenGVLab/ScaleCUA-7B
 - Licenses: weights apache-2.0
 
+### SCOPE-SFT-9B
+
+A Qwen3.5-9B computer-use checkpoint trained on desktop task demonstrations and safety response trajectories, with reported task and attack-avoidance evaluations.
+
+- https://awesomecua.com/resources/url-389202404e2653f59838/ · source: https://huggingface.co/k4ng/SCOPE-SFT-9B
+- Licenses: weights apache-2.0
+
 ### ScreenParser
 
 YOLO11-L UI element detector from IBM Research and ETH Zurich that boxes and labels 55 element classes in web screenshots; the main checkpoint is trained on ScreenParse v2 and the v1 detector stays on a branch.
 
 - https://awesomecua.com/resources/url-8c0b15d51eb7b4156608/ · source: https://huggingface.co/docling-project/ScreenParser
 - Licenses: weights Apache-2.0
+
+### ScreenVLM
+
+A model that converts web page screenshots into structured markup containing UI element locations, class labels, and visible text.
+
+- https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/ · source: https://huggingface.co/docling-project/ScreenVLM
+- Licenses: weights apache-2.0
 
 ### SeeClick
 
@@ -1619,6 +2022,13 @@ Seg2Click checkpoint pairing a 4B Qwen3.5 backbone with pixel-level action-mask 
 Seg2Click checkpoint pairing a 9B Qwen3.5 backbone with a decoder for valid GUI click regions.
 
 - https://awesomecua.com/resources/url-826f3753905c5c43bf46/ · source: https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B
+- Licenses: weights apache-2.0
+
+### sharryXR/asil-qwen35-2b-sft
+
+An ASIL Qwen3.5-2B SFT checkpoint released for research on structured application state and semantic actions, with loadable model and tokenizer files.
+
+- https://awesomecua.com/resources/url-d59976834d3d0d3a1809/ · source: https://huggingface.co/sharryXR/asil-qwen35-2b-sft
 - Licenses: weights apache-2.0
 
 ### ShowUI
@@ -1688,6 +2098,13 @@ Textual Foresight pretrains UI representations by predicting textual description
 
 - https://awesomecua.com/resources/github-aburns4-textualforesight/ · source: https://github.com/aburns4/textualforesight
 - Licenses: code BSD-3-Clause
+
+### THUDM/cogagent-chat-hf
+
+A CogAgent chat checkpoint for interpreting GUI screenshots and proposing plans, next actions, and coordinates. The card describes use with web, desktop, and mobile interfaces.
+
+- https://awesomecua.com/resources/url-5726382dc813f040f829/ · source: https://huggingface.co/THUDM/cogagent-chat-hf
+- Licenses: weights apache-2.0
 
 ### UGround
 
@@ -1853,6 +2270,13 @@ A Qwen2.5-VL-based UI checkpoint for predicting navigation actions and locating 
 - https://awesomecua.com/resources/url-80ec6c9a43360adbbc6b/ · source: https://huggingface.co/inclusionAI/UI-Venus-Navi-72B
 - Licenses: weights apache-2.0
 
+### UI2Code_N
+
+A visual language model that turns UI screenshots into code and supports iterative interface editing and polishing. Its card includes a screenshot-to-HTML inference example.
+
+- https://awesomecua.com/resources/url-b04608609a8c392d110b/ · source: https://huggingface.co/zai-org/UI2Code_N
+- Licenses: weights mit
+
 ### UIX-Qwen2
 
 A MultiUI-trained visual-language checkpoint for text-rich webpage understanding and interface tasks.
@@ -1867,6 +2291,13 @@ UIX-Qwen2 further fine-tuned on the Mind2Web training set; the MultiUI paper eva
 - https://awesomecua.com/resources/url-592e434848a1514efef0/ · source: https://huggingface.co/neulab/UIX-Qwen2-Mind2Web
 - Licenses: weights odc-by
 
+### V-Droid-8B-0323
+
+A verifier model for the V-Droid Android GUI agent scores candidate actions from a device description and task, helping select the next mobile operation.
+
+- https://awesomecua.com/resources/url-82adab61eb515398da48/ · source: https://huggingface.co/V-Droid/V-Droid-8B-0323
+- Licenses: weights apache-2.0
+
 ### VeriOS-Agent-32B
 
 VeriOS-Agent-32B is a query-driven OS agent checkpoint initialized from Qwen2.5-VL-32B. It is released with model weights for the interaction approach described in the VeriOS paper.
@@ -1879,6 +2310,13 @@ Vision GUI Assistant (VGA) provides image-centric fine-tuning code and datasets 
 
 - https://awesomecua.com/resources/github-linziyang1999-vision-gui-assistant/ · source: https://github.com/Linziyang1999/Vision-GUI-assistant
 - Licenses: code Apache-2.0
+
+### Vision-ml
+
+Vision-ml locates the close control in a mobile-app popup screenshot and returns screen coordinates for automation; the repository includes prediction code and a pretrained model.
+
+- https://awesomecua.com/resources/github-meituan-dianping-vision/ · source: https://github.com/Meituan-Dianping/vision
+- Licenses: code MIT
 
 ### WebJudge 7B
 
@@ -1920,12 +2358,40 @@ A public text-based process-reward checkpoint from the Web-Shepherd collection f
 
 - https://awesomecua.com/resources/url-72f7fe0211c6551b945f/ · source: https://huggingface.co/LangAGI-Lab/WebShepherd_3B
 
+### WebThinker-QwQ-32B
+
+WebThinker-QwQ-32B is a released reasoning model for searching and navigating web pages while drafting research reports. Its card describes training on preferences derived from reasoning trajectories.
+
+- https://awesomecua.com/resources/url-e058cc2487a805f976fd/ · source: https://huggingface.co/lixiaoxi45/WebThinker-QwQ-32B
+- Licenses: weights apache-2.0
+
+### WebThinker-R1-32B
+
+Released reasoning checkpoint for web research that searches and navigates pages through interactive clicks while drafting reports from gathered information.
+
+- https://awesomecua.com/resources/url-8076f65dc82b4dcea18c/ · source: https://huggingface.co/lixiaoxi45/WebThinker-R1-32B
+- Licenses: weights apache-2.0
+
+### WebThinker-R1-7B
+
+A released 7B reasoning model for web research that searches and navigates pages through interactive elements while drafting reports.
+
+- https://awesomecua.com/resources/url-564c980a531e7204447c/ · source: https://huggingface.co/lixiaoxi45/WebThinker-R1-7B
+- Licenses: weights apache-2.0
+
 ### WebVIA-Agent
 
 GLM-4.1V-9B-based web exploration agent from WebVIA that reads a page screenshot and DOM tree and picks click, type or select actions to reach each interactive UI state for UI-to-code work.
 
 - https://awesomecua.com/resources/url-62724cba1b5814215cf7/ · source: https://huggingface.co/zai-org/WebVIA-Agent
 - Licenses: weights mit
+
+### yolov11l-ui-elements-detection
+
+A YOLO11 fine-tune that locates five kinds of interface elements in macOS application screenshots to support accessibility metadata generation.
+
+- https://awesomecua.com/resources/url-5d824526d56f179d3d51/ · source: https://huggingface.co/MacPaw/yolov11l-ui-elements-detection
+- Licenses: weights agpl-3.0
 
 ### ZeroGUI-AndroidLab-7B
 
@@ -1941,6 +2407,13 @@ A GUI agent checkpoint associated with ZeroGUI, which trains on generated interf
 - https://awesomecua.com/resources/url-6ea345c7ba56049476e8/ · source: https://huggingface.co/OpenGVLab/ZeroGUI-OSWorld-7B
 - Licenses: weights apache-2.0
 
+### ZHEN-04/CaptchaAgent
+
+ZHEN-04/CaptchaAgent is a 9B computer-use policy trained on interactive CAPTCHA trajectories. It maps screenshots to tool calls and provides SFT and reinforcement-learning checkpoints.
+
+- https://awesomecua.com/resources/url-fb67af38dce972b398c3/ · source: https://huggingface.co/ZHEN-04/CaptchaAgent
+- Licenses: weights cc-by-nc-4.0
+
 ### ZonUI-3B checkpoint
 
 Qwen2.5-VL-3B-based GUI grounding checkpoint that predicts click locations from screenshots and text instructions across desktop, mobile and web screens.
@@ -1948,7 +2421,7 @@ Qwen2.5-VL-3B-based GUI grounding checkpoint that predicts click locations from 
 - https://awesomecua.com/resources/url-c8c046847f829fea4821/ · source: https://huggingface.co/zonghanHZH/ZonUI-3B
 - Licenses: weights Apache-2.0
 
-## Datasets (195)
+## Datasets (225)
 
 ### Agent Humanization Benchmark (AHB) recordings
 
@@ -2009,6 +2482,13 @@ Official Hub release of AMEX: Android app screenshots annotated for interactive-
 
 - https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/ · source: https://huggingface.co/datasets/Yuxiang007/AMEX
 - Licenses: data cc-by-4.0
+
+### AMEX-8K
+
+An 8K-sample subset of AMEX with mobile app screenshots for GUI grounding pretraining across varied apps, device forms, and screen densities.
+
+- https://awesomecua.com/resources/url-2b4b3e54d9c52f868b4e/ · source: https://huggingface.co/datasets/zonghanHZH/AMEX-8k
+- Licenses: data apache-2.0
 
 ### Android in the Wild
 
@@ -2078,6 +2558,13 @@ Screenshot-based grounding and captioning samples with UI functionality descript
 - https://awesomecua.com/resources/url-79287058342289aa5d45/ · source: https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k
 - Licenses: data cc-by-4.0
 
+### AutoGUI-v1-zip
+
+A training data repository for AutoGUI containing an annotated GUI set and selected vision datasets, with instructions for merging their JSON files for fine-tuning.
+
+- https://awesomecua.com/resources/url-02370867dd4b96000a33/ · source: https://huggingface.co/datasets/WebAgent/AutoGUI-v1-zip
+- Licenses: data cc
+
 ### bevaya/RICO-ScreenQA-Complex
 
 A test dataset of complex questions about RICO interface screens, with screen images and ground-truth answers. The card lists 11,781 examples.
@@ -2104,6 +2591,19 @@ Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track
 
 - https://awesomecua.com/resources/url-a06622da7688e3718a7b/ · source: https://huggingface.co/datasets/openbmb/CAGUI
 - Licenses: data cc-by-nc-4.0
+
+### ChilleD/WildAWM
+
+WildAWM provides 341 computer-use tasks across CLI, MCP, and web interfaces, with frozen task worlds and training and test splits for Harbor runs.
+
+- https://awesomecua.com/resources/url-eb8af3be965f5c0fde6a/ · source: https://huggingface.co/datasets/ChilleD/WildAWM
+
+### Cie1/MMSearch-Plus
+
+A dataset of 311 image-based tasks for evaluating multimodal browsing agents that use iterative image and text retrieval to answer questions.
+
+- https://awesomecua.com/resources/url-8fd4e25ae5c0fe619969/ · source: https://huggingface.co/datasets/Cie1/MMSearch-Plus
+- Licenses: data cc-by-4.0
 
 ### ClawBench
 
@@ -2144,6 +2644,13 @@ GUI grounding evaluation data for six benchmarks, with images, prompts, and prio
 
 - https://awesomecua.com/resources/url-5a073f50270c4f316ce5/ · source: https://huggingface.co/datasets/markov-ai/computer-use
 - Licenses: data apache-2.0
+
+### ConClick-Data
+
+ConClick-Data provides screenshot grounding examples with target coordinates and distractor boxes, released as JSONL files for training.
+
+- https://awesomecua.com/resources/url-bf416a816f74718f94dd/ · source: https://huggingface.co/datasets/ruotian/ConClick-Data
+- Licenses: data other
 
 ### CUA Speedrun results
 
@@ -2390,6 +2897,13 @@ Per-app Android exploration videos with screenshot and action sequences, view hi
 - https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/ · source: https://huggingface.co/datasets/9211sun/GUI-Xplore
 - Licenses: data cc-by-4.0
 
+### gui_and_terminal_operation_recording
+
+A dataset of GUI and terminal operation recordings. GUI sessions include timestamped screenshots, mouse events and keyboard events; terminal sessions include input and output logs.
+
+- https://awesomecua.com/resources/url-dfa0c83ebd679a37ad00/ · source: https://huggingface.co/datasets/cybergod-agi/gui_and_terminal_operation_recording
+- Licenses: data unlicense
+
 ### GUI_Reflection_SFT_train
 
 Offline supervised fine-tuning data for GUI Reflection, released as JSONL files. Users obtain the corresponding images from the source datasets named in the card.
@@ -2456,11 +2970,52 @@ About 150k web navigation tasks from the InSTA project, each giving a website do
 - https://awesomecua.com/resources/url-a80c7330dbfd4f897693/ · source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3
 - Licenses: data MIT
 
+### James4Ever0/the_frozen_forest
+
+A dataset archive of screen recordings paired with keyboard and mouse events. Timestamp files align video frames with recorded input actions.
+
+- https://awesomecua.com/resources/url-ede673f7e6f369eae600/ · source: https://huggingface.co/datasets/James4Ever0/the_frozen_forest
+- Licenses: data wtfpl
+
 ### Jedi
 
 Synthetic GUI grounding data associated with UI decomposition research and the OSWorld-G benchmark.
 
 - https://awesomecua.com/resources/url-e062cf1445eaee0f3ade/ · source: https://huggingface.co/datasets/xlangai/Jedi
+- Licenses: data apache-2.0
+
+### LexBench-Trajectory-Replay
+
+LexBench-Trajectory-Replay provides 30 public-website tasks with fixed browser actions and assertions for evaluating browser execution and retrieval.
+
+- https://awesomecua.com/resources/url-c049eba816b97d5076d0/ · source: https://huggingface.co/datasets/Lexmount/LexBench-Trajectory-Replay
+- Licenses: data apache-2.0
+
+### LexBench-WebArena-Replay
+
+LexBench-WebArena-Replay pairs WebArena task definitions with fixed browser actions so Browser Eval can replay them and score completion across a published 812-task set.
+
+- https://awesomecua.com/resources/url-a96c70bcf5a235f980b6/ · source: https://huggingface.co/datasets/Lexmount/LexBench-WebArena-Replay
+- Licenses: data apache-2.0
+
+### LGWM data and RSWT-Bench
+
+A dataset of GUI screen transitions for training a world model, released with RSWT-Bench to evaluate whether observed screens follow the intended actions.
+
+- https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/ · source: https://huggingface.co/datasets/jiamingzz/lgwm-data
+
+### lumos_unified_ground_iterative
+
+A JSONL training dataset for the Lumos-I grounding module, combining math, question-answering, and web-agent annotations, including examples from Mind2Web.
+
+- https://awesomecua.com/resources/url-87bba046fba8c1cd968c/ · source: https://huggingface.co/datasets/ai2lumos/lumos_unified_ground_iterative
+- Licenses: data apache-2.0
+
+### lumos_unified_plan_iterative
+
+lumos_unified_plan_iterative is a JSONL training dataset for the Lumos planning module. It combines web-agent examples with math and complex question-answering tasks.
+
+- https://awesomecua.com/resources/url-543aff764901777e6ad5/ · source: https://huggingface.co/datasets/ai2lumos/lumos_unified_plan_iterative
 - Licenses: data apache-2.0
 
 ### lumos_web_agent_plan_iterative
@@ -2469,6 +3024,13 @@ A Lumos-Iterative dataset for training a web agent's planning module, with 1009 
 
 - https://awesomecua.com/resources/url-0772193ae2967c407d22/ · source: https://huggingface.co/datasets/ai2lumos/lumos_web_agent_plan_iterative
 - Licenses: data apache-2.0
+
+### luzimu/WebGen-Bench
+
+A dataset of website-generation instructions and UI test cases for evaluating interactive sites, with separate training and test splits.
+
+- https://awesomecua.com/resources/url-405959de004b6e32c911/ · source: https://huggingface.co/datasets/luzimu/WebGen-Bench
+- Licenses: data mit
 
 ### Magma-AITW-SoM
 
@@ -2653,6 +3215,13 @@ NNetNav's WebArena-oriented browser-interaction data release, with separate trai
 - https://awesomecua.com/resources/url-25a4d0ab29b60250863a/ · source: https://huggingface.co/datasets/stanfordnlp/nnetnav-wa
 - Licenses: data apache-2.0
 
+### OneJev-Data
+
+OneJev-Data releases 94,707 question-and-answer training rows spanning GUI-agent runs, screens, images, video and text in Parquet files.
+
+- https://awesomecua.com/resources/url-f2e2030eaee4250d995d/ · source: https://huggingface.co/datasets/OmniJev/OneJev-Data
+- Licenses: data other
+
 ### Online-Mind2Web task data
 
 Gated Hub release of the Online-Mind2Web task set: one JSON test split of tasks on live websites, 300 tasks on 136 sites per the project README, which the publishers revise when sites change.
@@ -2666,6 +3235,13 @@ MMBench-GUI releases annotations and offline images for evaluating interface und
 
 - https://awesomecua.com/resources/url-339e28b1f939ae45f9fe/ · source: https://huggingface.co/datasets/OpenGVLab/MMBench-GUI
 - Licenses: data apache-2.0
+
+### OpenJev-Data
+
+OpenJev-Data provides labeled browser steps for training models to choose a web agent's next operation and target element, plus a fixed test set for endpoint evaluation.
+
+- https://awesomecua.com/resources/url-a54a35c90681ced60cec/ · source: https://huggingface.co/datasets/alanhuangya/OpenJev-Data
+- Licenses: data other
 
 ### OpenMobile-Data
 
@@ -2685,6 +3261,12 @@ GUI grounding pre-training data for OS-Atlas in desktop (Linux, macOS, Windows),
 
 - https://awesomecua.com/resources/url-0fdeb1cf5f49f84820e6/ · source: https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data
 - Licenses: data apache-2.0
+
+### OS-Copilot/OS-Shepherd-100K
+
+A dataset of GUI agent trajectories and screenshots for training models to judge task completion, with supervised records and reinforcement learning splits.
+
+- https://awesomecua.com/resources/url-d716497286ae5cd5e762/ · source: https://huggingface.co/datasets/OS-Copilot/OS-Shepherd-100K
 
 ### OS-Genesis
 
@@ -2746,6 +3328,20 @@ Archived OSWorld-Verified evaluation runs of many computer-use agents and step b
 - https://awesomecua.com/resources/url-2c99f0de2840277abc72/ · source: https://huggingface.co/datasets/xlangai/ubuntu_osworld_verified_trajs
 - Licenses: data mit
 
+### P-GUI-Evo
+
+A synthetic dataset of 622 GUI scenarios for evaluating how agents extract privacy rules, judge proposed actions, and respond to user feedback.
+
+- https://awesomecua.com/resources/url-b79ca6f7731ebf067709/ · source: https://huggingface.co/datasets/Keonq/P-GUI-Evo
+- Licenses: data cc-by-4.0
+
+### pae-data
+
+pae-data releases data associated with PAE research on internet agents, including task files for WebArena and WebVoyager and model checkpoint files.
+
+- https://awesomecua.com/resources/url-72301bf2dec104205c8d/ · source: https://huggingface.co/datasets/yifeizhou/pae-data
+- Licenses: data cc-by-4.0
+
 ### PC-Agent-E training data
 
 Released dataset used to train PC-Agent-E, linked by the official pipeline for refining human trajectories and synthesizing action reasoning.
@@ -2766,6 +3362,13 @@ Planner and action-executor training examples for WebArena-Lite and WebVoyager, 
 
 - https://awesomecua.com/resources/url-ba6453cfdae0eb049ced/ · source: https://huggingface.co/datasets/xTRam1/plan-and-act-data
 - Licenses: data mit
+
+### Preflight Bench
+
+A dataset of paired screenshots, click outcomes and checker answers for evaluating pre-click checks on changing web pages. It includes Lance tables and development and test splits.
+
+- https://awesomecua.com/resources/url-a40fc87ac700add33232/ · source: https://huggingface.co/datasets/multimodal-ai-engineering/preflight-bench
+- Licenses: data cc-by-4.0
 
 ### PSAI Computer Use Dataset
 
@@ -2905,6 +3508,20 @@ Screen Point-and-Read Data pairs OS, web and mobile screenshots with selected po
 - https://awesomecua.com/resources/url-4b747a376f628e6f9760/ · source: https://huggingface.co/datasets/yfan1997/ScreenPR
 - Licenses: data mit
 
+### Screen2AX-Element
+
+A dataset of macOS application screenshots with UI element boxes and category labels for training and evaluating interface element detectors.
+
+- https://awesomecua.com/resources/url-e96299566d12e790422e/ · source: https://huggingface.co/datasets/MacPaw/Screen2AX-Element
+- Licenses: data apache-2.0
+
+### Screen2AX-Group
+
+A dataset of macOS application screenshots with bounding boxes and UI group labels for training and evaluating interface object detection models.
+
+- https://awesomecua.com/resources/url-6680e812b94c168e6bed/ · source: https://huggingface.co/datasets/MacPaw/Screen2AX-Group
+- Licenses: data apache-2.0
+
 ### Screen2Words
 
 Mobile screen descriptions for language-based screen understanding.
@@ -2963,11 +3580,25 @@ Web-interface grounding examples with instructions, element boxes and points, pa
 
 - https://awesomecua.com/resources/url-8933977bb0a57940ed23/ · source: https://huggingface.co/datasets/showlab/ShowUI-web
 
+### ShowUI-web-8K
+
+An 8K-sample subset of ShowUI-web with screenshots from varied websites for training GUI grounding models in web interfaces.
+
+- https://awesomecua.com/resources/url-2260aaa47fb9c63bb917/ · source: https://huggingface.co/datasets/zonghanHZH/ShowUI-web-8k
+- Licenses: data apache-2.0
+
 ### ShowUI-π training data
 
 Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, presentation, handwriting and other interface tasks.
 
 - https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/ · source: https://huggingface.co/datasets/showlab/ShowUI-pi-data
+
+### TimeWarp
+
+Dataset of 231 web-agent goals for Wiki, News, and Shop sites across six interface eras, with train and test splits and evaluator specifications.
+
+- https://awesomecua.com/resources/url-8be414a28d1984abb1b9/ · source: https://huggingface.co/datasets/sparklabutah/timewarp
+- Licenses: data mit
 
 ### TreeCUA-Datasets
 
@@ -2994,6 +3625,13 @@ UEyes is an eye-tracking dataset of 62 participants viewing 1,980 UI screenshots
 Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subsets, with a bounding-box version whose coordinates are normalized to 0-999.
 
 - https://awesomecua.com/resources/url-c4898ad1bfc049926a63/ · source: https://huggingface.co/datasets/osunlp/UGround-V1-Data
+- Licenses: data cc-by-nc-sa-4.0
+
+### UGround-V1-Data-Box
+
+UGround-V1-Data-Box contains Web-Hybrid and Web-Direct GUI grounding data with images and conversations; its bounding-box version uses normalized coordinates.
+
+- https://awesomecua.com/resources/url-9e89e3332db1770388bc/ · source: https://huggingface.co/datasets/osunlp/UGround-V1-Data-Box
 - Licenses: data cc-by-nc-sa-4.0
 
 ### UI-AGILE-Data
@@ -3096,6 +3734,12 @@ A dataset for training and evaluating GUI-operating OS agents on decisions to as
 
 - https://awesomecua.com/resources/url-16a5ccde8bb16cda19ff/ · source: https://huggingface.co/datasets/wuuuuuz/VeriOS-Bench
 
+### VG-RL-filter-dataset-hf
+
+A dataset released for the second stage of GUI-Spotlight training; its card says the authors used 18.5K samples for that stage.
+
+- https://awesomecua.com/resources/url-07fb5e963998782505a6/ · source: https://huggingface.co/datasets/nuoxu1993/VG-RL-filter-dataset-hf
+
 ### VideoCAD data
 
 CAD screen recordings paired with action logs and target model images for studying precise interface control and long-horizon visual imitation.
@@ -3109,6 +3753,13 @@ Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordi
 
 - https://awesomecua.com/resources/url-78adf6919bdbce42bc24/ · source: https://huggingface.co/datasets/ServiceNow/VideoCUA
 - Licenses: data mit
+
+### Vision_GUI_Assistant
+
+A GUI-image conversation dataset provides instruction and conversation JSON files for staged visual fine-tuning; its examples ask models to identify interface buttons.
+
+- https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/ · source: https://huggingface.co/datasets/zylate/Vision_GUI_Assistant
+- Licenses: data cc-by-nc-4.0
 
 ### VisualWebBench dataset
 
@@ -3218,6 +3869,19 @@ Web screenshot and interface data for UI research.
 - https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/ · source: https://huggingface.co/datasets/biglab/webui-all
 - Licenses: data other
 
+### WenyiWU0111/CoMEM-agent-memory-trajectories
+
+A dataset for GUI-agent memory research containing expanded web links, synthesized tasks, and executed trajectories with successful and failed outcomes.
+
+- https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/ · source: https://huggingface.co/datasets/WenyiWU0111/CoMEM-agent-memory-trajectories
+- Licenses: data apache-2.0
+
+### widget-caption
+
+A dataset of captions describing UI widget functions for training and evaluating models that describe interface elements. It includes 61,286 captioned widgets.
+
+- https://awesomecua.com/resources/github-google-research-datasets-widget-caption/ · source: https://github.com/google-research-datasets/widget-caption
+
 ### WikiHow Task Set
 
 A Mobile-Env task set for evaluating navigation in the WikiHow app, with supplementary tasks across Android apps. It provides task definitions and rewritten instructions.
@@ -3239,6 +3903,13 @@ Companion Hub repository holding the WildGUI screenshot tar shards for parts 16-
 - https://awesomecua.com/resources/url-348f31b5b339403ec26f/ · source: https://huggingface.co/datasets/joker-112/WildGUI_Screenshots
 - Licenses: data cc-by-nc-4.0
 
+### WinDeskGround_windows
+
+WinDeskGround_windows supplies Windows application screenshots with clickable targets, bounding boxes, and referring expressions for desktop GUI grounding tasks.
+
+- https://awesomecua.com/resources/url-79b8dfa115894a7f53aa/ · source: https://huggingface.co/datasets/Zbao/WinDeskGround_windows
+- Licenses: data apache-2.0
+
 ### WorkDemo-350
 
 Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.
@@ -3253,7 +3924,13 @@ A desktop GUI evaluation dataset with user requests, instructional videos and pr
 - https://awesomecua.com/resources/url-b540fe81c57cedb1f556/ · source: https://huggingface.co/datasets/hhenryz/WorldGUI-Bench
 - Licenses: data apache-2.0
 
-## Benchmarks (264)
+### xunsss/osworld2-codex-gpt56sol-0624-attempt-preview
+
+This OSWorld-V2 dataset provides compact tables for browsing Codex task summaries, attempts, trajectory events, and executed GUI or CLI actions.
+
+- https://awesomecua.com/resources/url-bf57897ba4d047112345/ · source: https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-attempt-preview
+
+## Benchmarks (281)
 
 ### Action Check WebMCP
 
@@ -3296,6 +3973,13 @@ Agent-CE is a containerized continuous evaluation platform for benchmarking web 
 - https://awesomecua.com/resources/github-anaishowland-agent-ce/ · source: https://github.com/anaishowland/agent-CE
 - Licenses: code MIT
 
+### Agent-friendly UI
+
+An evaluation and revision pipeline tests generated websites with computer-use agents, checks task completion against rules, and summarizes navigation failures.
+
+- https://awesomecua.com/resources/github-showlab-aui/ · source: https://github.com/showlab/AUI
+- Licenses: code MIT
+
 ### Agentalyze
 
 Agentalyze is an evaluation harness for LLM browser agents with real Chromium tasks, DOM-based state verifiers, and step-level trace analysis.
@@ -3314,6 +3998,19 @@ agentB is a benchmark for evaluating open web agents on realistic knowledge-work
 Agent evaluation suite with containerized tasks and a function-calling interface, including operating-system and shopping environments.
 
 - https://awesomecua.com/resources/github-thudm-agentbench/ · source: https://github.com/THUDM/AgentBench
+- Licenses: code Apache-2.0
+
+### AgentBoard
+
+AgentBoard evaluates multiturn agents across several tasks, including web interactions, and provides progress metrics and visualizations for analyzing their runs.
+
+- https://awesomecua.com/resources/github-hkust-nlp-agentboard/ · source: https://github.com/hkust-nlp/AgentBoard
+
+### AgentCIBench
+
+AgentCIBench evaluates whether computer-use agents expose information across personal apps. It includes scored scenarios, benchmark runners, and a web environment for visual runs.
+
+- https://awesomecua.com/resources/github-ukplab-arxiv2026-agentcibench/ · source: https://github.com/ukplab/arxiv2026-agentcibench
 - Licenses: code Apache-2.0
 
 ### AgentCIBench
@@ -3468,6 +4165,13 @@ Bellwether measures multi-trial pass^k consistency of computer-use agents on leg
 
 - https://awesomecua.com/resources/github-al-mohad-bell-weather/ · source: https://github.com/al-mohad/bell-weather
 - Licenses: code Apache-2.0
+
+### BlenderWorld
+
+A benchmark for agents creating editable Blender projects from text and visual references. It supplies 223 tasks, submission packaging, and an evaluator for scene and visual criteria.
+
+- https://awesomecua.com/resources/github-qwenlm-blenderworld/ · source: https://github.com/QwenLM/BlenderWorld
+- Licenses: code MIT
 
 ### Bond Underwriting Agent Benchmark
 
@@ -3895,6 +4599,13 @@ Runtime and CUA-World task suite that turn real applications on Ubuntu, Windows 
 - https://awesomecua.com/resources/github-cmu-l3-gym-anything/ · source: https://github.com/cmu-l3/gym-anything
 - Licenses: code MIT
 
+### Gym-Anything-RT
+
+Gym-Anything-RT evaluates screenshot-driven agents on paired live and untimed browser minigames. Its runner can pause or slow the game clock to isolate timing effects.
+
+- https://awesomecua.com/resources/github-gym-anything-gym-anything-rt/ · source: https://github.com/gym-anything/gym-anything-rt
+- Licenses: code MIT
+
 ### HarnessBench
 
 Benchmark harness that holds the base model fixed and runs six browser-agent harnesses in per-harness containers on ClawBench's everyday online tasks, reusing ClawBench's recording and judging pipeline.
@@ -4037,6 +4748,13 @@ LPS-Bench benchmarks the safety awareness of computer-use agents during long-hor
 - https://awesomecua.com/resources/github-tychenn-lps-bench/ · source: https://github.com/tychenn/LPS-Bench
 - Licenses: code MIT
 
+### mac-agent-bench
+
+mac-agent-bench runs computer-use tools on a logged-in Mac, checking task outcomes with scripts while measuring changes to the foreground app and cursor.
+
+- https://awesomecua.com/resources/github-prithviseran-mac-agent-bench/ · source: https://github.com/PrithviSeran/mac-agent-bench
+- Licenses: code MIT
+
 ### MacAgentBench
 
 676 macOS tasks across 25 applications, each run in its own Docker container and scored by deterministic rule-based checks with multiple checkpoints.
@@ -4049,6 +4767,13 @@ LPS-Bench benchmarks the safety awareness of computer-use agents during long-hor
 MacArena benchmarks computer-use agents in an online, reproducible macOS virtual-machine environment across multi-app desktop tasks.
 
 - https://awesomecua.com/resources/github-macpaw-macarena/ · source: https://github.com/MacPaw/MacArena
+
+### macOSWorld
+
+macOSWorld benchmarks GUI agents on tasks across 30 macOS apps in five languages. It supplies a Python testbench for AWS macOS instances and a safety task subset.
+
+- https://awesomecua.com/resources/github-showlab-macosworld/ · source: https://github.com/showlab/macosworld
+- Licenses: code CC-BY-NC-4.0
 
 ### MalURLBench
 
@@ -4293,6 +5018,12 @@ OmniWebBench evaluates agentic browsers across end-to-end web navigation, action
 - https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/ · source: https://github.com/OSU-NLP-Group/Online-Mind2Web
 - Licenses: code MIT
 
+### only-cli/benchmarks
+
+A reproducible benchmark suite compares tools that agents use to read live web pages, measuring content retrieval, time and token use across page views and browsing tasks.
+
+- https://awesomecua.com/resources/github-only-cli-benchmarks/ · source: https://github.com/only-cli/benchmarks
+
 ### Open Operator Evals
 
 Archived Notte Labs harness and results that run web agents eight times on a 30-task WebVoyager subset, judging each run with a GPT-4o screenshot judge and comparing it with the agent's self-reported success.
@@ -4311,6 +5042,13 @@ Black-box UX audit harness that dispatches AI browser personas to test web produ
 openadapt-evals scores GUI agents and compiled workflows on benchmarks such as Windows Agent Arena using reproducible evaluators.
 
 - https://awesomecua.com/resources/github-openadaptai-openadapt-evals/ · source: https://github.com/OpenAdaptAI/openadapt-evals
+- Licenses: code MIT
+
+### OpenAgentSafety
+
+A benchmark for agent safety in multi-step simulations involving browser, filesystem, terminal and messaging tools. It tests responses to ambiguous, conflicting and adversarial instructions.
+
+- https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/ · source: https://github.com/Open-Agent-Safety/OpenAgentSafety
 - Licenses: code MIT
 
 ### OpenApps
@@ -4353,6 +5091,13 @@ OSUniverse is a task-oriented desktop benchmark for evaluating vision-based mult
 
 - https://awesomecua.com/resources/github-agentsea-osuniverse/ · source: https://github.com/agentsea/osuniverse
 - Licenses: code MIT
+
+### OSWorkerBench
+
+A desktop GUI-agent benchmark with 100 office tasks spanning 17 business tracks and 41 applications. It releases task and demonstration tables for evaluation with the UI-Mate harness.
+
+- https://awesomecua.com/resources/url-c8c3d4ef20e68086a812/ · source: https://huggingface.co/datasets/tencent/OSWorkerBench
+- Licenses: data apache-2.0
 
 ### OSWorld
 
@@ -4421,6 +5166,12 @@ Blind-tests web and desktop user interfaces using isolated AI personas that inte
 - https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/ · source: https://github.com/Ericwong5021/persona-ux-test
 - Licenses: code MIT
 
+### PersonalAlign
+
+PersonalAlign releases AndroidIntent evaluations of personalized mobile GUI agents and HIM-Agent memory for using long-term interaction records.
+
+- https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/ · source: https://github.com/iLearn-Lab/ACL26-PersonalAlign
+
 ### Plasmate Benchmarks
 
 Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
@@ -4480,6 +5231,13 @@ Preflight-Bench evaluates pre-click staleness checks and page-load synchronizati
 
 - https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/ · source: https://github.com/multimodal-ai-engineering/preflight-bench
 - Licenses: code MIT
+
+### REAL
+
+A browser-agent evaluation toolkit with reproducible website replicas, task goals, an agent API, and a benchmarking harness.
+
+- https://awesomecua.com/resources/github-agi-inc-real/ · source: https://github.com/agi-inc/REAL
+- Licenses: code Apache-2.0
 
 ### RecreationBench
 
@@ -4728,6 +5486,13 @@ Verifiable web information-seeking benchmark renamed from VeriGUI; desktop evalu
 - https://awesomecua.com/resources/github-verigui-team-verigui/ · source: https://github.com/VeriGUI-Team/VeriGUI
 - Licenses: code Apache-2.0
 
+### VG-GUI-Bench
+
+A benchmark for predicting mobile GUI actions from tutorial videos, prior actions, and the current screen. It releases step annotations, videos, and reference frames.
+
+- https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/ · source: https://huggingface.co/datasets/Aoraku/VG-GUI-Bench
+- Licenses: data mit
+
 ### VideoGUI
 
 Benchmark for desktop GUI tasks derived from instructional videos.
@@ -4739,6 +5504,13 @@ Benchmark for desktop GUI tasks derived from instructional videos.
 VideoWebArena evaluates web agents that use video tutorials to complete website tasks. Its released benchmark includes task configurations, environments, and an evaluation pipeline.
 
 - https://awesomecua.com/resources/github-ljang0-videowebarena/ · source: https://github.com/ljang0/videowebarena
+
+### vimgolf-gym
+
+A Gym-like benchmark for VimGolf tasks that lets agents send keystrokes to Vim, capture screenshots, and score solutions by correctness and key count.
+
+- https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/ · source: https://github.com/James4Ever0/vimgolf-gym
+- Licenses: code Unlicense
 
 ### VisualAgentBench
 
@@ -4908,6 +5680,18 @@ WebMCP Description Benchmarks evaluates how in-browser WebMCP tool schema descri
 - https://awesomecua.com/resources/github-clouatre-labs-webmcp-description-benchmarks/ · source: https://github.com/clouatre-labs/webmcp-description-benchmarks
 - Licenses: code Apache-2.0
 
+### WebReplayBench
+
+A web agent benchmark with a local shop site, BrowserGym tasks, and database audit records for measuring task completion and repeated writes during backtracking.
+
+- https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/ · source: https://github.com/mahirlabibdihan/WebReplayBench
+
+### WebRetriever
+
+WebRetriever supplies a web-agent evaluation runner and a judge that assesses task completion from captured requests, actions and page URLs.
+
+- https://awesomecua.com/resources/github-mininglamp-ai-webretriever/ · source: https://github.com/Mininglamp-AI/WebRetriever
+
 ### WebRewardBench
 
 An offline preference-evaluation set for web process reward models, pairing page and trajectory context with preferred and rejected candidate decisions.
@@ -4941,6 +5725,12 @@ An end-to-end web-testing benchmark where agents derive test checklists from dev
 
 - https://awesomecua.com/resources/github-friedrichor-webtestbench/ · source: https://github.com/friedrichor/WebTestBench
 - Licenses: code Apache-2.0; data apache-2.0
+
+### WebUIProof
+
+A benchmark of 149 web UI generation tasks with structured test cases and a vision-language agent that tests generated interfaces in a browser.
+
+- https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/ · source: https://github.com/yunyuntsai/webuiproof-benchmark
 
 ### WebVoyager
 
@@ -5023,7 +5813,7 @@ Validation toolkit checking page-owned WebMCP tool schemas, authorization bounda
 - https://awesomecua.com/resources/github-wornpage-webmcp-conformance/ · source: https://github.com/wornpage/webmcp-conformance
 - Licenses: code MIT
 
-## Agents (413)
+## Agents (444)
 
 ### aashutoshkumarr JARVIS Desktop Assistant
 
@@ -5037,6 +5827,13 @@ Open-source multi-agent Android phone automation assistant that understands scre
 
 - https://awesomecua.com/resources/github-banye-technology-abaopal/ · source: https://github.com/banye-technology/AbaoPal
 - Licenses: code MIT
+
+### Actell
+
+An iPhone agent prototype observes screenshots or accessibility content and issues taps and drags through CoreDevice, using a VPN loopback or optional hardware relay.
+
+- https://awesomecua.com/resources/github-ja1chen-actell/ · source: https://github.com/ja1chen/actell
+- Licenses: code GPL-3.0
 
 ### AdbGPT
 
@@ -5206,6 +6003,13 @@ Aider is an AI pair-programming CLI and browser agent that maps repositories, ed
 - https://awesomecua.com/resources/github-aider-ai-aider/ · source: https://github.com/aider-ai/aider
 - Licenses: code Apache-2.0
 
+### AIHawk
+
+AIHawk searches and scores jobs against a resume, then uses Firefox to fill and submit applications selected by the user. It retains each page's response and a screenshot.
+
+- https://awesomecua.com/resources/github-feder-cr-aihawk/ · source: https://github.com/feder-cr/AIHawk
+- Licenses: code MIT
+
 ### AILEEN Desktop
 
 Windows desktop AI assistant combining a Live2D interactive character with screen perception and desktop tool execution.
@@ -5336,6 +6140,13 @@ Apprentice is a local-first macOS agent that observes repeated user routines acr
 Locally hosted Windows personal AI research and desktop assistant powered by Ollama with zero cloud dependencies.
 
 - https://awesomecua.com/resources/github-sanct1x-arelis/ · source: https://github.com/sAnct1x/Arelis
+- Licenses: code AGPL-3.0
+
+### Aries AI
+
+Aries AI is an Android agent that uses a language model to interpret screens, plan natural-language tasks and operate apps through accessibility or virtual-display input.
+
+- https://awesomecua.com/resources/github-zg0704666-aries-ai/ · source: https://github.com/ZG0704666/Aries-AI
 - Licenses: code AGPL-3.0
 
 ### ARTEMIS
@@ -5525,6 +6336,13 @@ Python agent that attaches Playwright to a local Chrome over CDP, maps visible i
 - https://awesomecua.com/resources/github-rkvalandas-browser-agent/ · source: https://github.com/rkvalandas/browser_agent
 - Licenses: code MIT
 
+### Browser Agent
+
+Browser Agent runs natural-language web tasks through Chromium. It offers a CLI and TypeScript and Python SDKs that stream progress and return task results.
+
+- https://awesomecua.com/resources/github-visnia-ai-browser-agent/ · source: https://github.com/visnia-ai/browser-agent
+- Licenses: code MIT
+
 ### Browser Agent (uiuing)
 
 Chrome side-panel agent whose page engine reads a whole-page semantic DOM snapshot, re-grounds targets by element fingerprints, dispatches DOM events and checks post-conditions before reporting success.
@@ -5558,6 +6376,13 @@ Browser Use Box (bux) packages a 24/7 autonomous Claude Code and Browser Use web
 Electron app that runs Claude Code or Codex sessions as browser agents in a separate Chromium seeded with the user's imported cookies, started by hotkey or WhatsApp message and built on Browser Harness.
 
 - https://awesomecua.com/resources/github-browser-use-desktop/ · source: https://github.com/browser-use/desktop
+- Licenses: code MIT
+
+### BrowserCode
+
+BrowserCode is a browser agent that writes JavaScript to control Chrome through the DevTools Protocol. It can use local tabs, separate profiles, or cloud browsers and save reusable scripts.
+
+- https://awesomecua.com/resources/github-browser-use-browsercode/ · source: https://github.com/browser-use/browsercode
 - Licenses: code MIT
 
 ### BrowserGPT
@@ -5621,6 +6446,20 @@ Screenshot-driven agent implementation for MiniWoB++ and WebShop, using a visual
 
 - https://awesomecua.com/resources/github-caap-agent-caap-agent/ · source: https://github.com/caap-agent/caap-agent
 - Licenses: code AGPL-3.0
+
+### CAD-Assistant
+
+CAD-Assistant handles CAD tasks by generating code for execution in FreeCAD and using sketch rendering and solid recognition tools to inspect designs.
+
+- https://awesomecua.com/resources/github-dimitrismallis-cad-assistant/ · source: https://github.com/dimitrismallis/CAD-Assistant
+- Licenses: code CC-BY-NC-4.0
+
+### CADAgent
+
+A FreeCAD fork with an in-app agent that turns chat requests into editable 3D models through FreeCAD operations. It includes an agent runtime and chat dock.
+
+- https://awesomecua.com/resources/github-toreleon-cadagent/ · source: https://github.com/toreleon/CADAgent
+- Licenses: code LGPL-2.1
 
 ### Caesar Agent
 
@@ -5689,6 +6528,13 @@ ClickAgent decouples high-level MLLM action reasoning from a specialized UI elem
 
 - https://awesomecua.com/resources/github-samsung-clickagent/ · source: https://github.com/Samsung/ClickAgent
 
+### Clicky
+
+An open-source macOS teaching assistant that uses screenshots and spoken questions to explain on-screen content and point to interface elements with a cursor overlay.
+
+- https://awesomecua.com/resources/github-farzaa-clicky/ · source: https://github.com/farzaa/clicky
+- Licenses: code MIT
+
 ### ClosePaw
 
 On-device Android agent app that reads the accessibility tree, with optional screenshots, acts through accessibility node actions or gesture taps, and can run on a Shizuku virtual display in the background.
@@ -5701,6 +6547,12 @@ On-device Android agent app that reads the accessibility tree, with optional scr
 Research implementation combining screen and layout perception with conditional action prediction for smartphone automation.
 
 - https://awesomecua.com/resources/github-xbmxb-coco-agent/ · source: https://github.com/xbmxb/CoCo-Agent
+
+### Cognitive Kernel-Pro
+
+Cognitive Kernel-Pro is a deep-research agent with a browser-backed web component and multimodal model configuration. Its repository includes code and examples for running research tasks.
+
+- https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/ · source: https://github.com/Tencent/CognitiveKernel-Pro
 
 ### COLA demo
 
@@ -5747,6 +6599,12 @@ LangGraph-based Windows computer-use agent combining UI Automation tree inspecti
 
 - https://awesomecua.com/resources/github-nabhpatodi10-computer-use-agent/ · source: https://github.com/nabhpatodi10/Computer-Use-Agent
 
+### CowAgent
+
+CowAgent is an open-source assistant that plans tasks and controls a computer, browser, and external services. It combines browser tools with memory, skills, and service integrations.
+
+- https://awesomecua.com/resources/github-zhayujie-cowagent/ · source: https://github.com/zhayujie/CowAgent
+
 ### Cradle
 
 Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
@@ -5765,6 +6623,13 @@ CrashTranslator generates Android app interactions to reproduce crashes from sta
 Persistent multimodal desktop agent with explicit runtime state management, priority-aware scheduling, and interruptible execution.
 
 - https://awesomecua.com/resources/github-yeyvhaiou-crimson-heart/ · source: https://github.com/YEYVHAIOU/Crimson-Heart
+- Licenses: code MIT
+
+### crowd-test
+
+A CLI runs persona-driven agents in isolated Chromium browsers to explore website usability and produce graded findings with optional independent checks.
+
+- https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test/ · source: https://github.com/anhhuyn411-alt/crowd-test
 - Licenses: code MIT
 
 ### cua-lite
@@ -6076,6 +6941,25 @@ GACUA is an out-of-the-box computer-use agent built on Gemini CLI that combines 
 - https://awesomecua.com/resources/github-openmule-gacua/ · source: https://github.com/openmule/gacua
 - Licenses: code Apache-2.0
 
+### Galley
+
+Galley is a desktop assistant that works through screen vision, mouse and keyboard control, a browser extension, files, and terminal tools to complete user tasks.
+
+- https://awesomecua.com/resources/github-wangjc683-galley/ · source: https://github.com/wangjc683/galley
+- Licenses: code MIT
+
+### Game AI - Balatro
+
+Game AI - Balatro combines detection of cards and interface controls with code for automating play in the Balatro desktop game.
+
+- https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/ · source: https://github.com/proj-airi/game-playing-ai-balatro
+
+### Game AI - Dome Keeper
+
+A game-playing agent for Dome Keeper that combines computer vision and a language model. Its active mod is written in TypeScript and converted to GDScript.
+
+- https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/ · source: https://github.com/proj-airi/game-playing-ai-dome-keeper
+
 ### Gemini Browser Agent
 
 Chrome extension and Python WebSocket bridge that run Gemini 2.5 Computer Use on the user's active tab, sending tab screenshots to the model and executing its clicks, typing and scrolling via content scripts.
@@ -6088,6 +6972,12 @@ Gemini CLI is Google's open-source terminal agent providing shell execution, fil
 
 - https://awesomecua.com/resources/github-google-gemini-gemini-cli/ · source: https://github.com/google-gemini/gemini-cli
 - Licenses: code Apache-2.0
+
+### Gemini Computer Use Agent
+
+Gemini Computer Use Agent uses screenshots, a Gemini computer-use model and Playwright to navigate webpages and perform browser actions, with optional user confirmation.
+
+- https://awesomecua.com/resources/github-pmbstyle-gemini-computer-use/ · source: https://github.com/pmbstyle/gemini-computer-use
 
 ### Genie
 
@@ -6154,6 +7044,19 @@ Gofer is a persistent desktop agent that monitors screen changes, executes shell
 GPT-4V-Act combines Chromium DOM auto-labeling and Set-of-Mark visual prompting to drive web browser interactions with multimodal LLMs.
 
 - https://awesomecua.com/resources/github-ddupont808-gpt-4v-act/ · source: https://github.com/ddupont808/GPT-4V-Act
+
+### GTA1: GUI Test-time Scaling Agent
+
+GTA1 is a GUI agent that samples action proposals, uses a judge to select one, and maps it to a visual target with a reinforcement-trained grounding model.
+
+- https://awesomecua.com/resources/github-yan98-gta1/ · source: https://github.com/Yan98/GTA1
+
+### GUI Reflection
+
+GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.
+
+- https://awesomecua.com/resources/github-penghao-wu-gui-reflection/ · source: https://github.com/penghao-wu/GUI_Reflection
+- Licenses: code Apache-2.0
 
 ### gui-agent
 
@@ -6234,6 +7137,12 @@ Agentic Chrome copilot featuring organic mouse kinematics, visual perception, an
 macOS computer-use agent that combines Accessibility-tree semantics with visual fallback to operate Mac apps like a human.
 
 - https://awesomecua.com/resources/github-thispc-humanhands/ · source: https://github.com/thispc/humanhands
+
+### Humanoid
+
+Android app exploration component that uses a model learned from human usage traces to rank the input events proposed by DroidBot.
+
+- https://awesomecua.com/resources/github-yzygitzh-humanoid/ · source: https://github.com/yzygitzh/Humanoid
 
 ### Hunter (Autonomous Job-Search Agent)
 
@@ -6531,6 +7440,12 @@ Microsoft agent application combining orchestration with browser interaction; su
 
 - https://awesomecua.com/resources/github-microsoft-magentic-ui/ · source: https://github.com/microsoft/magentic-ui
 - Licenses: code MIT
+
+### Mano skill
+
+Mano skill runs desktop tasks from natural-language instructions by inspecting screenshots and issuing mouse and keyboard actions. It offers cloud and on-device modes.
+
+- https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/ · source: https://github.com/Mininglamp-AI/mano-skill
 
 ### Mantis
 
@@ -6906,6 +7821,13 @@ Tools for learning and automating workflows from desktop demonstrations.
 - https://awesomecua.com/resources/github-openadaptai-openadapt/ · source: https://github.com/OpenAdaptAI/OpenAdapt
 - Licenses: code MIT
 
+### OpenAgent
+
+OpenAgent is a self-hostable assistant whose agent loop can operate a browser by navigating, clicking and filling forms. It also runs code and connects to external tools.
+
+- https://awesomecua.com/resources/github-the-open-agent-openagent/ · source: https://github.com/the-open-agent/openagent
+- Licenses: code Apache-2.0
+
 ### OpenAgents Web Agent
 
 The OpenAgents browser-control component, connecting a Chrome extension to a web agent and local chat platform for navigating sites and completing interface tasks.
@@ -6988,6 +7910,13 @@ Desktop chat app whose bots run local Claude, Codex or Grok CLIs and each get a 
 - https://awesomecua.com/resources/github-milind-soni-openmausbot/ · source: https://github.com/milind-soni/OpenMausBot
 - Licenses: code Apache-2.0
 
+### OpenMinis
+
+An open-source mobile agent for iOS and Android that interacts with websites and device tools while running scripts in an on-device Linux sandbox.
+
+- https://awesomecua.com/resources/github-openminis-openminis/ · source: https://github.com/OpenMinis/OpenMinis
+- Licenses: code GPL-3.0
+
 ### OpenPhone (Secondly)
 
 AI-native Android OS on LineageOS whose privileged assistant uses new framework services to read the screen and UI tree and tap, swipe and type across apps, with confirmations, watchers and an audit log.
@@ -7009,6 +7938,13 @@ OpenWebVoyager trains multimodal web navigation agents through iterative real-wo
 - https://awesomecua.com/resources/github-minorjerry-openwebvoyager/ · source: https://github.com/MinorJerry/OpenWebVoyager
 - Licenses: code Apache-2.0
 
+### Operit AI
+
+An Android agent platform that operates app interfaces and web pages using visual screen understanding, device controls, and browser actions.
+
+- https://awesomecua.com/resources/github-aaswordman-operit/ · source: https://github.com/AAswordman/Operit
+- Licenses: code LGPL-3.0
+
 ### Opus
 
 Electron app for macOS whose OpenAI Agents SDK loop operates apps through AppleScript, Accessibility-element clicks, key presses, shell commands and URIs, guided by element lists and screenshots.
@@ -7028,6 +7964,13 @@ Local-first Python voice and desktop automation agent powered by Whisper STT and
 DeepSeek-native terminal coding agent in Rust whose bundled macOS computer-use driver lets it observe other apps' accessibility trees and screenshots and click, type, send keys and scroll after per-app approval.
 
 - https://awesomecua.com/resources/github-echovic-orca-agent/ · source: https://github.com/echoVic/orca-agent
+- Licenses: code MIT
+
+### Orion
+
+A biomedical analysis agent that operates scientific desktop applications, a browser, and terminal tools in an Ubuntu virtual machine. Its repository includes task configurations and launchers.
+
+- https://awesomecua.com/resources/github-genentech-orion/ · source: https://github.com/Genentech/Orion
 - Licenses: code MIT
 
 ### Orynn
@@ -7144,6 +8087,13 @@ Desktop AI agent for the real web equipped with a built-in anti-detect fingerpri
 
 - https://awesomecua.com/resources/github-piskie-dev-piskie/ · source: https://github.com/piskie-dev/piskie
 - Licenses: code MIT
+
+### PlayJev
+
+A browser-game agent that selects moves from rendered frames. Its repository provides game environments, a demo, and scripts for training and evaluation.
+
+- https://awesomecua.com/resources/github-omnijev-playjev/ · source: https://github.com/OmniJev/PlayJev
+- Licenses: code Apache-2.0
 
 ### PocketCode
 
@@ -7353,6 +8303,13 @@ Framework, released in November 2023, in which a multimodal model views the scre
 - https://awesomecua.com/resources/github-othersideai-self-operating-computer/ · source: https://github.com/OthersideAI/self-operating-computer
 - Licenses: code MIT
 
+### sentineldesk-agent
+
+sentineldesk-agent operates a Linux desktop through MCP tools, offering terminal and browser chat interfaces while logging goals, actions and results.
+
+- https://awesomecua.com/resources/github-sentineldesk-agent/ · source: https://github.com/sentineldesk/agent
+- Licenses: code Apache-2.0
+
 ### SheetCopilot
 
 Spreadsheet automation agent for Windows/Excel, with benchmark assets and a separately released headless Ubuntu evaluation backend.
@@ -7467,12 +8424,25 @@ Taskhomie is a local computer-use agent that executes natural-language desktop t
 - https://awesomecua.com/resources/github-suitedaces-computer-agent/ · source: https://github.com/suitedaces/computer-agent
 - Licenses: code Apache-2.0
 
+### Taxy AI
+
+Taxy AI is a Chrome extension that turns user instructions and a simplified page DOM into clicks and text entry, then checks the updated page before continuing.
+
+- https://awesomecua.com/resources/github-taxyai-browser-extension/ · source: https://github.com/TaxyAI/browser-extension
+
 ### Taylor-Bayouth Browser Agent
 
 Stealth browser agent that controls real Chrome via CDP and OS-level input without injecting page JavaScript.
 
 - https://awesomecua.com/resources/github-taylor-bayouth-browser-agent/ · source: https://github.com/Taylor-Bayouth/browser-agent
 - Licenses: code MIT
+
+### TENKA
+
+TENKA is a Windows voice agent that carries out browser and desktop tasks through browser control, native UI actions and a vision fallback, with stored conversational memory.
+
+- https://awesomecua.com/resources/github-om-khode-tenka/ · source: https://github.com/Om-Khode/TENKA
+- Licenses: code Apache-2.0
 
 ### TestZeus Hercules
 
@@ -7541,11 +8511,31 @@ UI Act is a Linux desktop computer-use agent that operates alongside the user vi
 - https://awesomecua.com/resources/github-tobiasnorlund-ui-act/ · source: https://github.com/TobiasNorlund/UI-Act
 - Licenses: code Apache-2.0
 
+### UI-Mate
+
+UI-Mate is a desktop GUI agent that uses screenshots and keyboard and mouse actions for tasks across applications. It also supports workflows learned from recorded demonstrations.
+
+- https://awesomecua.com/resources/github-tencent-ui-mate/ · source: https://github.com/Tencent/UI-Mate
+
 ### UI-TARS Desktop
 
 Desktop app for a local GUI agent driven by UI-TARS and Seed-1.5-VL/1.6 models, offering local and remote operators for computers and browsers; the repository also ships the Agent TARS CLI and web UI.
 
 - https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/ · source: https://github.com/bytedance/UI-TARS-desktop
+- Licenses: code Apache-2.0
+
+### universe-starter-agent
+
+A deprecated starter agent trains with A3C to play Universe games, including games operated through VNC remote desktops with delayed observations and actions.
+
+- https://awesomecua.com/resources/github-openai-universe-starter-agent/ · source: https://github.com/openai/universe-starter-agent
+- Licenses: code MIT
+
+### Vadgr
+
+Vadgr runs agent tasks on a desktop computer through a CLI or phone app, using screenshots and input controls for optional app automation.
+
+- https://awesomecua.com/resources/github-montbrain-vadgr/ · source: https://github.com/MONTBRAIN/vadgr
 - Licenses: code Apache-2.0
 
 ### Vera AI Assistant
@@ -7554,6 +8544,12 @@ Turkish-speaking Windows desktop voice and GUI automation assistant powered by P
 
 - https://awesomecua.com/resources/github-alpert-code-veraai-assistant-1-1/ · source: https://github.com/AlperT-Code/VeraAI-Assistant-1.1
 - Licenses: code MIT
+
+### VersaiOS
+
+VersaiOS uses a vision-language model to locate targets on an iPhone screen and an ESP32 Bluetooth mouse to execute clicks from natural-language instructions.
+
+- https://awesomecua.com/resources/github-zhaodashuaibi-versaios/ · source: https://github.com/zhaodashuaibi/VersaiOS
 
 ### VibeSurf
 
@@ -7791,7 +8787,7 @@ Zoom Search is a hierarchical web-search agent that previews lightweight page su
 - https://awesomecua.com/resources/github-goofrey-zoom-search/ · source: https://github.com/goofrey/zoom-search
 - Licenses: code MIT
 
-## Frameworks (625)
+## Frameworks (638)
 
 ### 19ska Computer-Use Automation
 
@@ -8436,6 +9432,13 @@ Visible, human-governed browser workspace that converts live web workflows into 
 Open browser-use runtime, local bridge, CLI, and AI harness adapter for driving live web sessions.
 
 - https://awesomecua.com/resources/github-frankfromfuture-brizo/ · source: https://github.com/Frankfromfuture/Brizo
+- Licenses: code MIT
+
+### Brobot
+
+Brobot is a Java visual automation framework that recognizes interface elements and models application states to navigate, perform actions and recover from errors.
+
+- https://awesomecua.com/resources/github-jspinak-brobot/ · source: https://github.com/jspinak/brobot
 - Licenses: code MIT
 
 ### Browsentic
@@ -9516,6 +10519,13 @@ hai-agents is a Python SDK and CLI for launching browser and desktop agents thro
 - https://awesomecua.com/resources/github-hcompai-hai-agents-python/ · source: https://github.com/hcompai/hai-agents-python
 - Licenses: code MIT
 
+### hai-agents
+
+A TypeScript SDK for running browser agents through H Company's Agents API. It provides session controls, progress events and ways to steer an agent during a task.
+
+- https://awesomecua.com/resources/github-hcompai-hai-agents-ts/ · source: https://github.com/hcompai/hai-agents-ts
+- Licenses: code MIT
+
 ### HAICOSYSTEM
 
 HAICOSYSTEM simulates multi-turn interactions between human users, tool-using LLM agents, and environment sandboxes to evaluate safety risks.
@@ -9639,6 +10649,13 @@ Capability-bounded WebMCP browser control surface for the InnerOS local AI runti
 Reproducible harness for Sparse Autoencoder (SAE) feature steering and live interpretability monitoring of browser agents.
 
 - https://awesomecua.com/resources/github-kalyvask-inside-the-agent/ · source: https://github.com/kalyvask/inside-the-agent
+- Licenses: code MIT
+
+### InSTA
+
+Code for a web-agent training pipeline that generates website tasks, collects browser trajectories and filters them by judged success. It also serves an agent in a virtual browser.
+
+- https://awesomecua.com/resources/github-data-for-agents-insta/ · source: https://github.com/data-for-agents/insta
 - Licenses: code MIT
 
 ### Intent Browser Runtime (ibr)
@@ -9878,6 +10895,12 @@ Rust port of the Browser Use architecture enabling LLMs to control web browsers 
 
 - https://awesomecua.com/resources/github-lvyuan1688-browser-use-rs/ · source: https://github.com/lvyuan1688/browser-use-rs
 - Licenses: code MIT
+
+### MaaFramework
+
+MaaFramework is an image-recognition automation framework for black-box testing, with a low-code task pipeline and documented integration and API interfaces.
+
+- https://awesomecua.com/resources/github-maaxyz-maaframework/ · source: https://github.com/MaaXYZ/MaaFramework
 
 ### Maestro (AI-Drivable RPA)
 
@@ -10376,6 +11399,13 @@ A Python research package for GUI-action models, with trajectory schemas, model 
 - https://awesomecua.com/resources/github-openadaptai-openadapt-ml/ · source: https://github.com/OpenAdaptAI/openadapt-ml
 - Licenses: code MIT
 
+### openadapt-types
+
+openadapt-types supplies validated Python models and JSON schemas for computer-use screens, actions, results, and interaction trajectories.
+
+- https://awesomecua.com/resources/github-openadaptai-openadapt-types/ · source: https://github.com/OpenAdaptAI/openadapt-types
+- Licenses: code MIT
+
 ### OpenAgentFleet
 
 Local-first multi-agent desktop platform with named AI coworkers and a watchable Linux virtual desktop.
@@ -10736,12 +11766,31 @@ PreAct compiles repeated computer-use agent trajectories into cached action grap
 
 - https://awesomecua.com/resources/github-19pine-ai-preact/ · source: https://github.com/19PINE-AI/PreAct
 
+### Predicate Python SDK
+
+The Predicate Python SDK gives browser agents semantic page snapshots, UI assertions, and run traces so they can verify actions and inspect failures.
+
+- https://awesomecua.com/resources/github-predicatesystems-predicate-runtime-python/ · source: https://github.com/PredicateSystems/predicate-runtime-python
+
+### Predicate TypeScript SDK
+
+Predicate TypeScript SDK supplies browser-agent snapshots, element actions, assertions and traces for building runs that check UI outcomes.
+
+- https://awesomecua.com/resources/github-predicatesystems-sdk-typescript/ · source: https://github.com/PredicateSystems/sdk-typescript
+
 ### ProfileFleet
 
 Local-first TypeScript orchestration plane for managing persistent fingerprint-browser profiles across AI agents.
 
 - https://awesomecua.com/resources/github-enginefuture-profilefleet/ · source: https://github.com/enginefuture/profilefleet
 - Licenses: code Apache-2.0
+
+### Programming with Pixels (PwP)
+
+Programming with Pixels provides a framework and benchmark for software-engineering agents that work in IDEs through screenshots, typing, and clicks.
+
+- https://awesomecua.com/resources/github-programmingwithpixels-pwp/ · source: https://github.com/ProgrammingwithPixels/PwP
+- Licenses: code MIT
 
 ### Project Interface (Legacy Web UI Compiler)
 
@@ -10910,6 +11959,13 @@ A controlled testing framework that combines desktop virtual machines and replic
 - https://awesomecua.com/resources/github-osu-nlp-group-redteamcua/ · source: https://github.com/OSU-NLP-Group/RedTeamCUA
 - Licenses: code Apache-2.0
 
+### redux-webmcp
+
+A WebMCP bridge for Redux Toolkit apps that lets browser agents dispatch allowed actions and inspect state changes. Developers can require approval for selected actions.
+
+- https://awesomecua.com/resources/github-breeznik-redux-webmcp/ · source: https://github.com/breeznik/redux-webmcp
+- Licenses: code MIT
+
 ### ReMe
 
 ReMe is a local-first personal knowledge and procedural memory management framework for autonomous LLM agents.
@@ -11017,6 +12073,12 @@ WebMCP reference architecture exposing Redux frontend state directly to browser 
 Computer-use training framework with VeriGen task synthesis, adaptive rollout sampling, and visual-context segmentation.
 
 - https://awesomecua.com/resources/github-thudm-scale-cua/ · source: https://github.com/THUDM/SCALE-CUA
+
+### SCOPE-Gen
+
+A framework that generates and validates desktop GUI tasks for OSWorld, then creates paired safety tasks while retaining the original goal and completion evaluator.
+
+- https://awesomecua.com/resources/github-k4ngzy-scope-gen/ · source: https://github.com/k4ngzy/SCOPE-Gen
 
 ### SCoR (Sparse Context Reset)
 
@@ -11139,6 +12201,13 @@ TensorFlow code for mapping natural-language instructions to Android UI action s
 
 - https://awesomecua.com/resources/component-google-research-seq2act/ · source: https://github.com/google-research/google-research/tree/master/seq2act
 - Licenses: code Apache-2.0
+
+### Serpent.AI
+
+A Python framework for building agents that interact with native video games, using plugins and support modules to turn games into research environments.
+
+- https://awesomecua.com/resources/github-serpentai-serpentai/ · source: https://github.com/SerpentAI/SerpentAI
+- Licenses: code MIT
 
 ### servo-agent
 
@@ -11293,6 +12362,13 @@ Rakuten's AI-first browser testing and Playwright automation platform for end-to
 Provider-neutral TypeScript browser automation SDK with automatic session failover and stealth profile support.
 
 - https://awesomecua.com/resources/github-soulsniper-v2-browser-sdk/ · source: https://github.com/SoulSniper-V2/browser-sdk
+- Licenses: code MIT
+
+### spider-browser
+
+A cloud browser SDK with page control, natural-language actions, element observation and autonomous agent runs, provided in several programming languages.
+
+- https://awesomecua.com/resources/github-spider-rs-spider-browser/ · source: https://github.com/spider-rs/spider-browser
 - Licenses: code MIT
 
 ### Stagehand
@@ -11862,6 +12938,12 @@ Training, evaluation and integration tooling for dialogue-guided web agents, inc
 - https://awesomecua.com/resources/github-mcgill-nlp-webllama/ · source: https://github.com/McGill-NLP/webllama
 - Licenses: code MIT
 
+### WebMCP
+
+A client-side web API proposal that lets pages expose structured JavaScript tools to browser agents. Agents can invoke page functions while sharing the visible interface and context with users.
+
+- https://awesomecua.com/resources/github-webmachinelearning-webmcp/ · source: https://github.com/webmachinelearning/webmcp
+
 ### WebMCP Deadbolt
 
 Fail-closed capability gating, structured refusal, and adversarial defense middleware for WebMCP browser commerce agents.
@@ -12002,7 +13084,7 @@ ZoomClick implements iterative zoom-in GUI grounding and behavior-based groundin
 
 - https://awesomecua.com/resources/github-princeton-ai2-lab-zoomclick/ · source: https://github.com/Princeton-AI2-Lab/ZoomClick
 
-## Infrastructure (90)
+## Infrastructure (101)
 
 ### Aegis (Hardened Computer-Use Sandbox)
 
@@ -12025,6 +13107,13 @@ Gives AI computer-use agents a dedicated macOS user account and isolated desktop
 - https://awesomecua.com/resources/github-dianavocado181-agent-desktop/ · source: https://github.com/dianavocado181/agent-desktop
 - Licenses: code MIT
 
+### agent-workspace-linux
+
+A Linux workspace gives an agent a private desktop and browser controlled through MCP. It supports screen capture and input actions, with a viewer for watching and stopping the agent.
+
+- https://awesomecua.com/resources/github-agent-sh-agent-workspace-linux/ · source: https://github.com/agent-sh/agent-workspace-linux
+- Licenses: code MIT
+
 ### AgentDesk
 
 Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
@@ -12037,6 +13126,13 @@ Desktop environments that AI agents control programmatically, run locally with D
 AgentEnv connects agent models to Android devices or emulators, translating actions and returning screenshots and view hierarchies while recording interactions.
 
 - https://awesomecua.com/resources/github-llamatouch-agentenv/ · source: https://github.com/LlamaTouch/AgentEnv
+
+### AgentTab
+
+AgentTab provides task-owned Chrome tabs for AI agents, with page snapshots, browser actions, human handoff, and optional review of consequential actions.
+
+- https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/ · source: https://github.com/wolfiesch/chrome-bridge
+- Licenses: code MIT
 
 ### AIOS
 
@@ -12146,6 +13242,12 @@ Reference control plane for scaling remote Chromium browsers with a Postgres-bac
 
 - https://awesomecua.com/resources/github-mathisarends-browserplane/ · source: https://github.com/mathisarends/browserplane
 
+### browserserve
+
+A self-hosted Chrome server provides isolated browser sessions over CDP for Playwright, Puppeteer, and other clients, with pooling and resource controls.
+
+- https://awesomecua.com/resources/github-browser-gateway-browserserve/ · source: https://github.com/browser-gateway/browserserve
+
 ### BryantVanOrden OpenAgentFleet
 
 Self-hosted fleet orchestrator provisioning sandboxed Linux desktop containers for autonomous computer-use agents.
@@ -12165,6 +13267,13 @@ A browser server for AI agents that exposes accessibility snapshots and referenc
 Celesto provisions secure, persistent virtual desktop computers and browser sandboxes for AI agents.
 
 - https://awesomecua.com/resources/github-celestoai-celesto/ · source: https://github.com/CelestoAI/celesto
+- Licenses: code Apache-2.0
+
+### Cella
+
+A control plane for agent sandboxes defined by manifests. It runs workloads on several runtimes and exposes a virtual desktop with screen viewing and input controls.
+
+- https://awesomecua.com/resources/github-latere-ai-cella/ · source: https://github.com/latere-ai/cella
 - Licenses: code Apache-2.0
 
 ### ClawBox
@@ -12193,6 +13302,12 @@ Provisions disposable, headless macOS virtual machines so computer-use agents ca
 
 - https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/ · source: https://github.com/ZimengXiong/computer-use-vm
 - Licenses: code MIT
+
+### Ctrip Android App
+
+An Android travel-app replica for testing AI interactions, with representative booking screens, fixed local data, and signals for checking task outcomes.
+
+- https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ctrip/ · source: https://github.com/Acrab-Agentic-Labs/AppSim-Ctrip
 
 ### Cyberdesk
 
@@ -12422,6 +13537,13 @@ Obscura is a Rust headless browser for agent automation. It runs JavaScript, exp
 - https://awesomecua.com/resources/github-h4ckf0r0day-obscura/ · source: https://github.com/h4ckf0r0day/obscura
 - Licenses: code Apache-2.0
 
+### Open Computer
+
+Open Computer gives agents an isolated Debian desktop with a browser and native app controls. People can watch and assist through a live interface.
+
+- https://awesomecua.com/resources/github-mintplex-labs-open-computer/ · source: https://github.com/Mintplex-Labs/open-computer
+- Licenses: code AGPL-3.0
+
 ### OpenMobile-2 extended Android AVDs
 
 Seven preconfigured Pixel 6 emulator images for Android API 33 (arm64) with an Apple Silicon install script, listed in the OpenMobile-2 release as its extended Android AVDs.
@@ -12454,6 +13576,13 @@ Native macOS client of a Chromium browser whose agent Spaces let the built-in as
 
 - https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/ · source: https://github.com/phibrowser/phibrowser-mac
 - Licenses: code Apache-2.0
+
+### Pilion Browser
+
+Pilion Browser connects agents to a user's desktop browser tabs through MCP. It supports browser actions, approval before actions, human takeover, recorded workflows, and session resume.
+
+- https://awesomecua.com/resources/github-echovic-pilion-browser/ · source: https://github.com/echoVic/pilion-browser
+- Licenses: code MIT
 
 ### Playwright
 
@@ -12523,6 +13652,13 @@ A prebuilt Ubuntu virtual-machine archive containing the software environment us
 
 - https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/ · source: https://huggingface.co/OS-Copilot/ScienceBoard-Env
 
+### Scrapeless Scraping Browser
+
+A managed Chromium browser reached through WebSocket and controlled with Puppeteer or Playwright, with configurable sessions, fingerprints and network egress.
+
+- https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/ · source: https://github.com/scraperapigather/scrapeless-scraping-browser
+- Licenses: code MIT
+
 ### Selenium
 
 Browser automation project implementing W3C WebDriver, with Java, Python, Ruby, .NET and JavaScript bindings, Selenium Grid for spreading sessions across machines, and the Rust-based Selenium Manager for driver setup.
@@ -12578,6 +13714,13 @@ Open-source cloud and local sandbox platform for running Claude Code, Codex, or 
 - https://awesomecua.com/resources/github-useagenthq-useagent/ · source: https://github.com/useagenthq/useagent
 - Licenses: code AGPL-3.0
 
+### vadgr-agent-os
+
+An early Linux container runtime for computer-use agents, with a virtual desktop, browsers, development tools, and an MCP interface for desktop control.
+
+- https://awesomecua.com/resources/github-montbrain-vadgr-agent-os/ · source: https://github.com/MONTBRAIN/vadgr-agent-os
+- Licenses: code Apache-2.0
+
 ### vePhone
 
 vePhone supplies remotely controlled cloud phones and example integrations for mobile and computer-use agents, including task execution and result retrieval.
@@ -12591,6 +13734,19 @@ Electron/Chromium browser built as a visible runtime for agents: a local MCP ser
 - https://awesomecua.com/resources/github-unmodeled-tyler-vessel-browser/ · source: https://github.com/unmodeled-tyler/vessel-browser
 - Licenses: code MIT
 
+### VK DeviceHub
+
+A device-management system for viewing and controlling Android and iOS devices through a browser. It provides remote input, device inventory and a REST API.
+
+- https://awesomecua.com/resources/github-vkcom-devicehub/ · source: https://github.com/VKCOM/devicehub
+- Licenses: code Apache-2.0
+
+### webarena-docker
+
+A Docker setup for WebArena websites provides scripts to start site containers and restore their state between experiments involving browser tasks.
+
+- https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/ · source: https://github.com/mahirlabibdihan/webarena-docker
+
 ### youtube_sim
 
 youtube_sim is a YouTube-style Android test app with local media, interaction logs and task validators for checking mobile interface actions and resulting state.
@@ -12603,7 +13759,7 @@ Zoom Android Template is a simulated meeting app for mobile interaction tests, w
 
 - https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-zoom/ · source: https://github.com/Acrab-Agentic-Labs/AppSim-Zoom
 
-## Tools (884)
+## Tools (976)
 
 ### 988hj7tczd-oss dsh-computer-use
 
@@ -12630,6 +13786,13 @@ Converts continuous local desktop activity into structured, queryable workflow f
 Local-first, extension-first multi-agent coding and computer-use workbench.
 
 - https://awesomecua.com/resources/github-testplay-byte-acute-code/ · source: https://github.com/testplay-byte/ACUTE-CODE
+
+### adb
+
+A Go device-control API provides taps, swipes, typing and screenshots on Android through adb and on iOS through WebDriverAgent.
+
+- https://awesomecua.com/resources/github-vcaesar-adb/ · source: https://github.com/vcaesar/adb
+- Licenses: code Apache-2.0
 
 ### ADB MCP Server Pro
 
@@ -12685,6 +13848,13 @@ Secure Model Context Protocol gateway enabling ChatGPT, Claude, and Grok to remo
 macOS desktop GUI automation skill built on `cua-driver` combining Accessibility trees with pixel-level fallback.
 
 - https://awesomecua.com/resources/github-afa-cloud-desktop-gui-automation-cua/ · source: https://github.com/afa-cloud/desktop-gui-automation-cua
+- Licenses: code MIT
+
+### Agent Browser Bridge
+
+A browser control bridge that lets agents inspect and act in an active Edge session through MCP, a CLI, or Python. It also offers screenshot and input controls for Windows desktops.
+
+- https://awesomecua.com/resources/github-shanewas-agent-browser-bridge/ · source: https://github.com/shanewas/agent-browser-bridge
 - Licenses: code MIT
 
 ### Agent Browser Shield
@@ -12823,6 +13993,13 @@ Provides application-scoped Wayland screen capture and isolated input seats for 
 
 - https://awesomecua.com/resources/github-muhibnayem-agent-seat-linux/ · source: https://github.com/MuhibNayem/agent-seat-linux
 
+### agent-view
+
+A CLI for agents to inspect and operate Electron, Windows Tauri, and Chromium apps through Chrome DevTools Protocol, with accessibility, screenshot, input, and diagnostic commands.
+
+- https://awesomecua.com/resources/github-petukhovart-agent-view/ · source: https://github.com/PetukhovArt/agent-view
+- Licenses: code MIT
+
 ### agent-vision-toolkit
 
 Vision toolkit and skill pack equipping text-only LLMs with multi-image reading, UI reconstruction, and GUI automation.
@@ -12932,6 +14109,13 @@ Suite of five Python CDP utilities including a page watcher, form filler, table 
 - https://awesomecua.com/resources/github-ah64-dll-browser-automation-toolkit/ · source: https://github.com/AH64-dll/browser-automation-toolkit
 - Licenses: code MIT
 
+### ahk-mcp
+
+ahk-mcp gives AI agents MCP tools to inspect Windows accessibility trees and act on desktop controls, with additional browser control through the DevTools Protocol.
+
+- https://awesomecua.com/resources/github-anomalous3-ahk-mcp/ · source: https://github.com/anomalous3/ahk-mcp
+- Licenses: code MIT
+
 ### ahsaanfarooq browser-agent MCP
 
 Model Context Protocol server giving Claude a persistent, multi-profile logged-in Chrome browser.
@@ -12963,6 +14147,13 @@ Chrome extension that captures selected webpage regions for Gemini visual analys
 Autonomous browser testing, QA matrix execution, and console/network telemetry toolkit for AI coding agents.
 
 - https://awesomecua.com/resources/github-siamalsobari-ai-web-tester/ · source: https://github.com/SiamAlSobari/ai-web-tester
+- Licenses: code MIT
+
+### ai-browser-bridge
+
+A macOS terminal tool operates live AI chat websites through Chrome and exposes validated local repository actions to those chats through an MCP server.
+
+- https://awesomecua.com/resources/github-yosefhayim-ai-browser-bridge/ · source: https://github.com/YosefHayim/ai-browser-bridge
 - Licenses: code MIT
 
 ### AI-XiaoDao Browser MCP Server
@@ -13049,6 +14240,13 @@ Portable, read-only Android state-snapshot skill via ADB for AI coding and mobil
 - https://awesomecua.com/resources/github-worksonmyvm-android-device-perception-skill/ · source: https://github.com/WorksOnMyVM/android-device-perception-skill
 - Licenses: code Apache-2.0
 
+### android-mcp-beta
+
+An MCP server that uses ADB to give agents Android screen snapshots and device controls, including taps, swipes, typing, and button presses.
+
+- https://awesomecua.com/resources/github-cursortouch-android-mcp/ · source: https://github.com/CursorTouch/Android-MCP
+- Licenses: code MIT
+
 ### Android-MCP-go
 
 Self-contained Go Model Context Protocol server for Android automation with managed ADB, automatic USB-to-Wi-Fi handoff, and `scrcpy`.
@@ -13076,6 +14274,13 @@ Native on-device Android Model Context Protocol server exposing phone UI and sys
 
 - https://awesomecua.com/resources/github-qazmko72-android-mcp-server/ · source: https://github.com/qazmko72/android-mcp-server
 - Licenses: code MIT
+
+### AndroidViewClient
+
+A Python Android UI automation tool that creates reusable tests and exposes view-based, gesture and device controls to AI assistants through an MCP server.
+
+- https://awesomecua.com/resources/github-dtmilano-androidviewclient/ · source: https://github.com/dtmilano/AndroidViewClient
+- Licenses: code Apache-2.0
 
 ### AnimaWatch
 
@@ -13154,6 +14359,13 @@ An Android Debug Bridge wrapper that exposes device operations for Appium. The r
 - https://awesomecua.com/resources/github-appium-appium-adb/ · source: https://github.com/appium/appium-adb
 - Licenses: code Apache-2.0
 
+### appium-ios-device
+
+A deprecated Node.js device-control library that lets Appium communicate with iOS devices and access device services and XCTest.
+
+- https://awesomecua.com/resources/github-appium-appium-ios-device/ · source: https://github.com/appium/appium-ios-device
+- Licenses: code Apache-2.0
+
 ### April Agent Action Filter
 
 April Agent Action Filter is a Rust policy library that inspects and gates proposed computer-use agent actions before tool execution.
@@ -13210,6 +14422,13 @@ Linux X11 computer-use plugin for DeepSeek Harness supporting screenshots, mouse
 - https://awesomecua.com/resources/github-asdasdsdsdasdasdasd-dsh-computer-use/ · source: https://github.com/asdasdsdsdasdasdasd/dsh-computer-use
 - Licenses: code MIT
 
+### aside-telegram-bridge
+
+A Telegram bridge and phone Mini App for sending tasks to the Aside browser agent, viewing live progress and transcripts, and responding to its decisions.
+
+- https://awesomecua.com/resources/github-saiamartya-aside-telegram-bridge/ · source: https://github.com/SaiAmartya/aside-telegram-bridge
+- Licenses: code MIT
+
 ### ask-web-ai
 
 Universal Agent Skill and CLI allowing a host coding agent to consult web-based AI chat sessions via browser automation.
@@ -13221,6 +14440,13 @@ Universal Agent Skill and CLI allowing a host coding agent to consult web-based 
 AskUI Vision Agent Python SDK provides cross-platform visual UI element localization and desktop/mobile automation APIs for AI agents.
 
 - https://awesomecua.com/resources/github-askui-python-sdk/ · source: https://github.com/askui/python-sdk
+- Licenses: code MIT
+
+### Astra plays GTA Vice City
+
+A macOS helper and prompt let a desktop agent control GTA Vice City through screenshots and short input steps, pausing the game while it decides what to do next.
+
+- https://awesomecua.com/resources/github-da03-astra-plays-gta/ · source: https://github.com/da03/astra-plays-gta
 - Licenses: code MIT
 
 ### AstraClaw Agent Computer Use MCP
@@ -13291,6 +14517,13 @@ Local Windows MCP bridge that automates logged-in Doubao web image generation an
 - https://awesomecua.com/resources/github-linxxcat000-autodoubao/ · source: https://github.com/linxxcat000/autodoubao
 - Licenses: code MIT
 
+### autohotkey-mcp
+
+MCP server that lets assistants list, run, stop, and draft AutoHotkey scripts for Windows input automation.
+
+- https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/ · source: https://github.com/sandraschi/autohotkey-mcp
+- Licenses: code MIT
+
 ### autoit-mcp
 
 Portable Windows GUI-automation Model Context Protocol server for Claude Code built on AutoIt.
@@ -13310,6 +14543,12 @@ Automation MCP is a macOS Model Context Protocol server that provides AI agents 
 
 - https://awesomecua.com/resources/github-ashwwwin-automation-mcp/ · source: https://github.com/ashwwwin/automation-mcp
 - Licenses: code MIT
+
+### AutoPy
+
+AutoPy provides Python functions for desktop mouse and keyboard control, screen capture, pixel inspection and bitmap matching on macOS, Windows and X11.
+
+- https://awesomecua.com/resources/github-autopilot-rs-autopy/ · source: https://github.com/autopilot-rs/autopy
 
 ### autourgos-cua-coordinate-tool
 
@@ -13421,12 +14660,25 @@ Zero-dependency browser automation CLI and visual workflow recorder.
 
 - https://awesomecua.com/resources/github-khbayazidahmed-browser-automation-cli/ · source: https://github.com/KhBayazidAhmed/browser-automation-cli
 
+### bitwarden-use
+
+A vault CLI supplies browser agents with site account lookup and login guidance while managing Bitwarden or Vaultwarden credentials and passkeys.
+
+- https://awesomecua.com/resources/github-leeguooooo-bitwarden-use/ · source: https://github.com/leeguooooo/bitwarden-use
+- Licenses: code MIT
+
 ### Blender Computer Use Artist
 
 Codex computer-use skill for automating Blender 3D modeling, rendering, animation, and visual QA.
 
 - https://awesomecua.com/resources/github-xiaof631-blender-computer-use-artist/ · source: https://github.com/xiaof631/blender-computer-use-artist
 - Licenses: code MIT
+
+### Blender MCP
+
+An MCP server links agents to Blender through a live add-on or saved project files, offering scene execution, runtime Python API lookup and benchmark tools.
+
+- https://awesomecua.com/resources/github-bpy-dev-blender-mcp/ · source: https://github.com/bpy-dev/blender-mcp
 
 ### Botright
 
@@ -13482,6 +14734,13 @@ Synchronizes authenticated browser cookies and storage states across Playwright 
 MCP server giving AI assistants bounded control over a live Chrome browser through an 11-tool surface.
 
 - https://awesomecua.com/resources/github-adbarc92-mcp-browser-bridge/ · source: https://github.com/adbarc92/mcp-browser-bridge
+- Licenses: code MIT
+
+### Browser Control
+
+Browser Control lets coding agents run Playwright snippets in an existing Chromium-family browser through a local relay and extension, returning results and change summaries.
+
+- https://awesomecua.com/resources/github-anomalyco-browser-control/ · source: https://github.com/anomalyco/browser-control
 - Licenses: code MIT
 
 ### Browser Control MCP
@@ -13594,6 +14853,13 @@ Human-in-the-loop handoff utility for browser-use agents that pauses automation 
 Developer-focused MCP bridge connecting Claude Code, OpenCode, and GitHub Copilot CLI to a live Chrome browser.
 
 - https://awesomecua.com/resources/github-jobshimo-browser-link/ · source: https://github.com/jobshimo/browser-link
+- Licenses: code MIT
+
+### browser-mcp
+
+An MCP server that exposes browser navigation, clicks, typing, screenshots, and bookmark operations. It supports Chrome, Firefox, Edge, and Brave and includes a web dashboard.
+
+- https://awesomecua.com/resources/github-sandraschi-browser-mcp/ · source: https://github.com/sandraschi/browser-mcp
 - Licenses: code MIT
 
 ### browser-rs-mcp
@@ -13740,6 +15006,12 @@ Programmatic browser-use CLI and library driving Chromium over CDP inside an opt
 
 - https://awesomecua.com/resources/github-kov-caravela/ · source: https://github.com/kov/caravela
 
+### CasperJS
+
+CasperJS is a browser navigation scripting and testing utility for PhantomJS and SlimerJS, with helpers for forms, links, screenshots and assertions.
+
+- https://awesomecua.com/resources/github-casperjs-casperjs/ · source: https://github.com/casperjs/casperjs
+
 ### cc-haha
 
 cc-haha is a clean-room TypeScript implementation and visual debugger of the Claude Code agent harness, memory, and tool runtime.
@@ -13788,6 +15060,13 @@ Go Chrome DevTools Protocol driver that resolves interactive anti-bot challenges
 - https://awesomecua.com/resources/github-sp42k-cfbrowse/ · source: https://github.com/SP42K/cfbrowse
 - Licenses: code MIT
 
+### ChatGPT Browser Bridge
+
+A browser extension and local server that operate a signed-in ChatGPT tab and expose its chat sessions, tab controls, and artifacts to local clients.
+
+- https://awesomecua.com/resources/github-dra1ex-chatgpt-bridge/ · source: https://github.com/DrA1ex/chatgpt-bridge
+- Licenses: code MIT
+
 ### ChatGPT Pro Planning Skill for Codex
 
 Codex skill that delegates complex architectural planning to a logged-in ChatGPT Pro web session.
@@ -13814,6 +15093,13 @@ Attach-only Chrome DevTools Protocol bridge for bounded research delegation to a
 Browser bridge exposing a logged-in ChatGPT Web session as a native model and tool provider for OpenAI Codex.
 
 - https://awesomecua.com/resources/github-naakto14-codex-chatgpt-web-naakto-fork/ · source: https://github.com/naakto14/codex-chatgpt-web-naakto-fork
+- Licenses: code MIT
+
+### ChatGPT WebUI Bridge
+
+A local HTTP bridge lets agents send messages to logged-in ChatGPT browser tabs, read replies and page state, and supervise idle tabs through a userscript.
+
+- https://awesomecua.com/resources/github-olmatter-chatgpt-bridge/ · source: https://github.com/OLmatter/chatgpt-bridge
 - Licenses: code MIT
 
 ### chatgpt-desktop-mcp
@@ -13846,6 +15132,13 @@ Self-hosted Chrome Manifest V3 extension and local MCP server allowing AI agents
 Browser companion that lets Grok and other AI agents drive an already-open Chrome window.
 
 - https://awesomecua.com/resources/github-xlreon-chrome-actuator/ · source: https://github.com/xlreon/chrome-actuator
+- Licenses: code MIT
+
+### Chrome Agent Bridge
+
+A local Chrome extension and MCP server connect agents to an existing browser session for page inspection, navigation, interface actions, and debugging.
+
+- https://awesomecua.com/resources/github-escapewu-chrome-agent-bridge/ · source: https://github.com/escapeWu/chrome-agent-bridge
 - Licenses: code MIT
 
 ### Chrome Control MCP
@@ -13904,6 +15197,13 @@ Dockerized Chrome DevTools MCP server with persistent browser profiles and conta
 - https://awesomecua.com/resources/github-null-runner-chrome-mcp-docker/ · source: https://github.com/null-runner/chrome-mcp-docker
 - Licenses: code MIT
 
+### Chrome MCP Server
+
+A Chrome extension and MCP bridge that let AI clients operate an existing browser session. Its tools cover screenshots, page interaction, and browser data.
+
+- https://awesomecua.com/resources/github-hangwin-mcp-chrome/ · source: https://github.com/hangwin/mcp-chrome
+- Licenses: code MIT
+
 ### Chrome MCP Server (18 Tools)
 
 Node.js Model Context Protocol server providing 18 tools for Chrome browser navigation, DOM interaction, and screenshot capture.
@@ -13915,6 +15215,13 @@ Node.js Model Context Protocol server providing 18 tools for Chrome browser navi
 Unified Model Context Protocol gateway and dynamic container orchestrator for headless AI browser sessions.
 
 - https://awesomecua.com/resources/github-sh7vansh-chrome-orchestrator/ · source: https://github.com/sh7vansh/chrome-orchestrator
+- Licenses: code MIT
+
+### chrome-agent
+
+chrome-agent is a Rust CLI for browser agents to inspect pages, act through Chrome and check resulting state. It also records and replays local command sequences.
+
+- https://awesomecua.com/resources/github-sderosiaux-chrome-agent/ · source: https://github.com/sderosiaux/chrome-agent
 - Licenses: code MIT
 
 ### chrome-agent-search
@@ -13930,6 +15237,19 @@ Model Context Protocol server exposing 56 structured-JSON Chrome CDP tools to Cl
 
 - https://awesomecua.com/resources/github-trvux-chrome-eye/ · source: https://github.com/trvux/chrome-eye
 - Licenses: code MIT
+
+### chrome-remote-interface
+
+A JavaScript interface to the Chrome Debugging Protocol for controlling and inspecting browser sessions through commands and event notifications.
+
+- https://awesomecua.com/resources/github-cyrus-and-chrome-remote-interface/ · source: https://github.com/cyrus-and/chrome-remote-interface
+
+### chrome-use
+
+chrome-use is a CLI and extension that let AI agents control tabs in an existing Chrome browser. It uses native messaging and gives separate tab groups to agent sessions.
+
+- https://awesomecua.com/resources/github-leeguooooo-chrome-use/ · source: https://github.com/leeguooooo/chrome-use
+- Licenses: code Apache-2.0
 
 ### ChromeBoost
 
@@ -13978,12 +15298,32 @@ Session-aware Model Context Protocol server for driving ChromiumFish browser aut
 - https://awesomecua.com/resources/github-loworbitlab-chromiumfish-mcp/ · source: https://github.com/LowOrbitLab/chromiumfish_mcp
 - Licenses: code MIT
 
+### chromiumoxide
+
+chromiumoxide is an asynchronous Rust library for controlling Chrome or Chromium through the DevTools Protocol, with APIs for browser pages and element actions.
+
+- https://awesomecua.com/resources/github-mattsse-chromiumoxide/ · source: https://github.com/mattsse/chromiumoxide
+
+### Claude Blender
+
+An MCP server and Blender add-on that let an AI assistant control scenes through tools, inspect screenshots and renders, and revise work using visual feedback.
+
+- https://awesomecua.com/resources/github-minihellboy-claude-blender/ · source: https://github.com/minihellboy/claude-blender
+- Licenses: code MIT
+
 ### Claude Browser Bridge
 
 Local bridge allowing coding agents to read and drive the user's everyday logged-in Chrome profile.
 
 - https://awesomecua.com/resources/github-daazer-claude-browser-bridge/ · source: https://github.com/daazer/claude-browser-bridge
 - Licenses: code MIT
+
+### Claude Chrome Stream
+
+A Chrome automation plugin for computer-use agents that streams browser frames through CDP and links actions to frame IDs. It includes commands and MCP tools.
+
+- https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/ · source: https://github.com/joemccann/claude-chrome-stream
+- Licenses: code Apache-2.0
 
 ### Claude Code ChatGPT Web Rosetta Gateway
 
@@ -14053,6 +15393,13 @@ Firefox WebExtension, native-messaging host, and MCP server allowing Claude Code
 - https://awesomecua.com/resources/github-faran52-claude-code-browser-bridge/ · source: https://github.com/Faran52/claude-code-browser-bridge
 - Licenses: code MIT
 
+### Claude-Surf
+
+A Claude Code plugin that connects to VibeSurf to control browser pages, run web automation workflows and access browser-use agents.
+
+- https://awesomecua.com/resources/github-vibesurf-ai-claude-surf/ · source: https://github.com/vibesurf-ai/claude-surf
+- Licenses: code MIT
+
 ### ClaudeDesk
 
 Streams the Windows desktop to a browser interface so coding agents can visually inspect and debug GUI applications.
@@ -14094,6 +15441,12 @@ Clickyy is a macOS desktop automation CLI and MCP server combining native Access
 
 - https://awesomecua.com/resources/github-jayamitkatariya-clickyyy/ · source: https://github.com/jayamitkatariya/clickyyy
 - Licenses: code MIT
+
+### cliclick
+
+A macOS command-line utility that performs mouse and keyboard actions. It accepts action commands as arguments or from a file for scripted desktop control.
+
+- https://awesomecua.com/resources/github-bluem-cliclick/ · source: https://github.com/BlueM/cliclick
 
 ### CLIF
 
@@ -14275,6 +15628,13 @@ CLI wrapper for driving macOS desktop applications from the shell using the Comp
 - https://awesomecua.com/resources/github-manaflow-ai-codex-cua/ · source: https://github.com/manaflow-ai/codex-cua
 - Licenses: code MIT
 
+### Collection of WebMCP tools
+
+A collection of WebMCP utilities and demos for exposing website actions to AI agents, inspecting those tools and evaluating agent tool calls.
+
+- https://awesomecua.com/resources/github-googlechromelabs-webmcp-tools/ · source: https://github.com/GoogleChromeLabs/webmcp-tools
+- Licenses: code Apache-2.0
+
 ### Colossus
 
 Colossus is a voice-controlled multi-agent development platform for coordinating software engineering tasks.
@@ -14315,6 +15675,12 @@ Windows desktop visual recognition and simulated input plugin for DeepSeek Harne
 - https://awesomecua.com/resources/github-xuanyuanluoxue-computer-use-vision/ · source: https://github.com/xuanyuanluoxue/computer-use-vision
 - Licenses: code MIT
 
+### computer-use
+
+computer-use is a Rust CLI and library for agents to capture desktop state and perform mouse and keyboard actions across macOS, Linux and Windows.
+
+- https://awesomecua.com/resources/github-lindoelio-computer-use/ · source: https://github.com/lindoelio/computer-use
+
 ### Computer-Use Cache
 
 Drop-in OpenAI-compatible caching proxy that records and replays repeated computer-use and browser-agent workflows.
@@ -14343,6 +15709,13 @@ Native Linux desktop control server for AI agents over MCP, Pi tools, and CLI wi
 - https://awesomecua.com/resources/github-agent-sh-computer-use-linux/ · source: https://github.com/agent-sh/computer-use-linux
 - Licenses: code MIT
 
+### computer-use-mcp
+
+A Swift MCP server that lets agents inspect and operate macOS applications. Its shared engine manages accessibility, screen capture, and input delivery.
+
+- https://awesomecua.com/resources/github-minghinmatthewlam-computer-use-mcp/ · source: https://github.com/minghinmatthewlam/computer-use-mcp
+- Licenses: code MIT
+
 ### computer-use-mcp-gateway
 
 Remote Model Context Protocol gateway for routing agent tool calls to computer-use backends such as Cua Driver.
@@ -14362,6 +15735,13 @@ Low-token, low-latency Windows computer-use MCP server with learned action short
 ComputerMate is a cross-platform Model Context Protocol server granting AI models screen capture, OCR, mouse/keyboard, and shell control.
 
 - https://awesomecua.com/resources/github-one710-computermate/ · source: https://github.com/one710/computermate
+
+### CraftDriver
+
+CraftDriver automates browsers through WebDriver and BiDi, with locators, actions, assertions, traces, and a CLI that lets coding agents inspect live pages.
+
+- https://awesomecua.com/resources/github-dtopuzov-craftdriver/ · source: https://github.com/dtopuzov/craftdriver
+- Licenses: code MIT
 
 ### Crafter Agents cuse CLI
 
@@ -14405,6 +15785,13 @@ Rust Model Context Protocol server that drives native macOS apps through the Acc
 - https://awesomecua.com/resources/github-maestrojeong-cua-rs-mcp/ · source: https://github.com/maestrojeong/cua-rs-mcp
 - Licenses: code Apache-2.0
 
+### cursory-js
+
+A TypeScript utility that generates timed mouse paths and documents how to play them back through browser input events.
+
+- https://awesomecua.com/resources/github-jwriter20-cursory-js/ · source: https://github.com/JWriter20/cursory-js
+- Licenses: code LGPL-3.0
+
 ### Custom Chrome Dev MCP
 
 Local-only Model Context Protocol server that drives the user's already-open Chrome session over DevTools.
@@ -14423,6 +15810,13 @@ WebExtension-backed Model Context Protocol server for driving Zen Browser and Fi
 Chrome-extension remote control bridge allowing AI agents to drive a live Chrome instance over HTTP.
 
 - https://awesomecua.com/resources/github-nitjsefnie-harness-commons-daedalus/ · source: https://github.com/Nitjsefnie-Harness-Commons/daedalus
+- Licenses: code MIT
+
+### Daedalus for Chrome
+
+A Chrome extension that connects the Daedalus agent to browser tabs through Chrome's debugger API and a browser daemon.
+
+- https://awesomecua.com/resources/github-anchor-inference-daedalus-chrome-extension/ · source: https://github.com/anchor-inference/daedalus-chrome-extension
 - Licenses: code MIT
 
 ### DarwinRelay
@@ -14612,6 +16006,13 @@ macOS utility that keeps a Mac awake for unattended computer-use agents while sh
 - https://awesomecua.com/resources/github-venusone-lee-dispatchshield/ · source: https://github.com/VenusOne-Lee/DispatchShield
 - Licenses: code MIT
 
+### Diwall
+
+Diwall gives language models screenshots, numbered page elements and accessibility data for browser actions, while preserving captures that a human can review.
+
+- https://awesomecua.com/resources/github-ronandavalan-diwall/ · source: https://github.com/RonanDavalan/diwall
+- Licenses: code MIT
+
 ### DjangoAILab DSH Plugins
 
 Guardrailed plugin suite for DeepSeek Harness covering browser automation, desktop control, subagents, and remote servers.
@@ -14674,6 +16075,13 @@ Chrome extension and local CLI that lets AI agents drive the browser window the 
 - https://awesomecua.com/resources/github-om-khode-drover/ · source: https://github.com/Om-Khode/drover
 - Licenses: code Apache-2.0
 
+### DSH Android
+
+A DeepSeek Harness plugin streams an Android emulator or phone into an agent conversation and provides adb tools for screen capture, UI inspection and interaction.
+
+- https://awesomecua.com/resources/github-zseven-w-dsh-android/ · source: https://github.com/ZSeven-W/dsh-android
+- Licenses: code MIT
+
 ### DSH Browser Control
 
 DeepSeek Harness plugin that lets agents directly control the user's real, logged-in web browser.
@@ -14681,11 +16089,25 @@ DeepSeek Harness plugin that lets agents directly control the user's real, logge
 - https://awesomecua.com/resources/github-ahaway1st-dsh-browser-control/ · source: https://github.com/Ahaway1st/dsh-browser-control
 - Licenses: code MIT
 
+### dsh Browser Control
+
+A browser extension and bridge plugin that let DeepSeek Harness read and operate existing Chrome or Firefox tabs through structured page controls.
+
+- https://awesomecua.com/resources/github-lum1104-dsh-browser/ · source: https://github.com/Lum1104/dsh-browser
+- Licenses: code MIT
+
 ### DSH Desktop Operator
 
 Safe Windows computer-use plugin for DeepSeek Harness providing window-scoped desktop automation and verification.
 
 - https://awesomecua.com/resources/github-zjh02249-dsh-desktop-operator/ · source: https://github.com/zjh02249/dsh-desktop-operator
+- Licenses: code MIT
+
+### DSH iOS Simulator
+
+A DeepSeek Harness plugin that gives agents access to an iOS Simulator or USB-connected iPhone, with live video, UI inspection, and tap tools.
+
+- https://awesomecua.com/resources/github-zseven-w-dsh-ios/ · source: https://github.com/ZSeven-W/dsh-ios
 - Licenses: code MIT
 
 ### DSH Mobile (DeepSeek Harness for Android)
@@ -14707,6 +16129,13 @@ Teach-once, patrol-repeatedly website inspection and monitoring plugin for DeepS
 DeepSeek Harness plugin for driving an authenticated Qwen web session via local browser automation.
 
 - https://awesomecua.com/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/ · source: https://github.com/Andy294753951/dsh-plugin-qwen-web-bridge
+- Licenses: code MIT
+
+### DSH Vision Toolkit
+
+DSH Vision Toolkit adds screenshot reading, visual grounding, UI reconstruction, and pixel comparison tools to DeepSeek Harness agents.
+
+- https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/ · source: https://github.com/anionex/dsh-vision-toolkit
 - Licenses: code MIT
 
 ### dsh-antibrow
@@ -14798,6 +16227,13 @@ Native CloakBrowser plugin for DeepSeek Harness providing isolated anti-detect b
 Model-agnostic Computer Use plugin for DeepSeek Harness combining an isolated browser, a native Windows UI helper, and action observation.
 
 - https://awesomecua.com/resources/github-xiaoheizi1212-dsh-computer-use/ · source: https://github.com/xiaoheizi1212/dsh-computer-use
+- Licenses: code MIT
+
+### dsh-computer-use-windows
+
+A Windows computer-use plugin for DeepSeek Harness that observes UI Automation controls and supports window actions, with optional screenshot-based visual recognition.
+
+- https://awesomecua.com/resources/github-qphotoai-dsh-computer-use-windows/ · source: https://github.com/qphotoai/dsh-computer-use-windows
 - Licenses: code MIT
 
 ### dsh-cua
@@ -15009,6 +16445,13 @@ Browser bridge allowing Claude Code, Codex, OpenCode, and WorkBuddy agents to op
 - https://awesomecua.com/resources/github-xxjrq-easy-webbridge/ · source: https://github.com/xxjrq/easy-webbridge
 - Licenses: code MIT
 
+### easyAppStore
+
+easyAppStore is an agent skill for preparing an iOS release and completing App Store Connect submission steps through a signed-in Chromium browser.
+
+- https://awesomecua.com/resources/github-xxjrq-easy-app-store/ · source: https://github.com/xxjrq/easy-app-store
+- Licenses: code MIT
+
 ### Edge Agent Bridge
 
 Real-time AI agent bridge for Microsoft Edge operating over active authenticated browser sessions.
@@ -15071,6 +16514,12 @@ ESP32-S2 hardware USB HID keyboard and mouse emulator with bidirectional serial 
 
 - https://awesomecua.com/resources/github-burakboz-esp-ai-hid/ · source: https://github.com/BurakBoz/esp-ai-hid
 
+### EverFern Navis Extension
+
+A browser extension that connects Navis to a user's regular browser profile through EverFern Desktop, with builds for Chromium browsers and Firefox.
+
+- https://awesomecua.com/resources/github-everfern-ai-navis-extension/ · source: https://github.com/Everfern-AI/Navis-Extension
+
 ### EverySolve Plugin
 
 Authorized CAPTCHA challenge detection and resolution skill for OpenAI Codex and Claude Code browser workflows.
@@ -15098,6 +16547,12 @@ A cross-platform GUI automation system with vision-based interactable detection,
 
 - https://awesomecua.com/resources/github-varnelis-explorer/ · source: https://github.com/varnelis/Explorer
 - Licenses: code MIT
+
+### Expo Device Hub
+
+Expo Device Hub streams iOS simulators and Android emulators into a browser dashboard, where users can view screens, send input, and manage devices.
+
+- https://awesomecua.com/resources/github-expo-expo-device-hub/ · source: https://github.com/expo/expo-device-hub
 
 ### eyehands
 
@@ -15161,6 +16616,12 @@ An MCP server for Firecrawl that gives agents web search and extraction tools pl
 - https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/ · source: https://github.com/firecrawl/firecrawl-mcp-server
 - Licenses: code MIT
 
+### Firefox DevTools MCP
+
+An MCP server that gives AI agents Firefox tools for navigating sites, filling forms, inspecting page snapshots, and examining developer-tool output.
+
+- https://awesomecua.com/resources/github-mozilla-firefox-devtools-mcp/ · source: https://github.com/mozilla/firefox-devtools-mcp
+
 ### firefox-bidi-mcp
 
 Standalone Model Context Protocol server for controlling an already-open Firefox browser instance via the WebDriver BiDi protocol.
@@ -15180,6 +16641,20 @@ TypeScript Model Context Protocol server for launching and controlling headless 
 Flash Computer Use is a hybrid browser DOM and native OS accessibility MCP server for low-latency desktop and web automation.
 
 - https://awesomecua.com/resources/github-shortsspectrumai-del-flash-computer-use/ · source: https://github.com/shortsspectrumai-del/flash-computer-use
+- Licenses: code MIT
+
+### Floorp MCP Server
+
+An MCP server that lets AI assistants read pages and operate the Floorp browser through tab controls, navigation, clicks, and form filling.
+
+- https://awesomecua.com/resources/github-floorp-projects-floorp-mcp-server/ · source: https://github.com/Floorp-Projects/floorp-mcp-server
+- Licenses: code MPL-2.0
+
+### flutter-skill
+
+An MCP server and CLI that give AI agents screen inspection and interaction tools for running web, desktop and mobile apps. It supports navigation, taps, typing and test assertions.
+
+- https://awesomecua.com/resources/github-ai-dashboad-flutter-skill/ · source: https://github.com/ai-dashboad/flutter-skill
 - Licenses: code MIT
 
 ### Forged
@@ -15336,6 +16811,13 @@ Computer-use bridge for driving Linux GNOME Wayland desktop sessions.
 
 - https://awesomecua.com/resources/github-ryanraposo-gnome-wayland-computer-use/ · source: https://github.com/ryanraposo/gnome-wayland-computer-use
 
+### Godot Editor MCP
+
+An MCP server and Godot addon that let agents inspect and edit a live game editor, control play sessions, simulate input, and capture screenshots.
+
+- https://awesomecua.com/resources/github-hybridindie-godot-mcp/ · source: https://github.com/hybridindie/godot-mcp
+- Licenses: code MIT
+
 ### godzilaa browser-agent Extension
 
 Chrome Manifest V3 extension that converts any live webpage into structured JSON and executes agent actions.
@@ -15446,6 +16928,12 @@ Provides training and evaluation code comparing classical and deep-learning GUI 
 - https://awesomecua.com/resources/github-chenjshnn-object-detection-for-graphical-user-interface/ · source: https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface
 - Licenses: code Apache-2.0
 
+### GUI-DR
+
+GUI-DR generates perturbed web screenshots and interaction trajectories from Mind2Web archives to support GUI grounding evaluation and fine-tuning.
+
+- https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/ · source: https://github.com/ManifoldRG/WebDomainRandomizer
+
 ### gui-report-automation
 
 Scheduled automation tool that borrows an authenticated Chrome session to export and verify enterprise GUI reports.
@@ -15472,6 +16960,19 @@ DeepSeek Harness plugin that drives a real Edge or Chrome browser over CDP using
 Fast, AI-first web browser exposed as a local Model Context Protocol server for LLM agents.
 
 - https://awesomecua.com/resources/github-haden-min-haden-browser/ · source: https://github.com/Haden-Min/haden-browser
+- Licenses: code MIT
+
+### Hammerspoon
+
+A macOS automation tool connects operating-system functions to Lua scripts, letting users program desktop behavior through extensions.
+
+- https://awesomecua.com/resources/github-hammerspoon-hammerspoon/ · source: https://github.com/Hammerspoon/hammerspoon
+
+### handraise-slack
+
+Slack channel adapter for browser-agent handoffs that sends approval requests with page screenshots and returns a person's decision to handraise.
+
+- https://awesomecua.com/resources/github-sy-d-handraise-slack/ · source: https://github.com/Sy-D/handraise-slack
 - Licenses: code MIT
 
 ### hanzhangzzz dsh-computer-use
@@ -15570,6 +17071,27 @@ Local Go Model Context Protocol server and Manifest V3 extension for controlling
 - https://awesomecua.com/resources/github-hightemp-mcp-browser-control/ · source: https://github.com/hightemp/mcp-browser-control
 - Licenses: code MIT
 
+### Hronaut for Claude Code
+
+Hronaut for Claude Code is a plugin that supplies a coding agent with an MCP server and skill for using a visible browser in a separate project workspace.
+
+- https://awesomecua.com/resources/github-hronaut-hronaut-claude-plugin/ · source: https://github.com/hronaut/hronaut-claude-plugin
+- Licenses: code MIT
+
+### Hronaut for Codex
+
+A Codex plugin that connects a coding agent to the Hronaut desktop browser through an MCP server and an included skill.
+
+- https://awesomecua.com/resources/github-hronaut-hronaut-codex-plugin/ · source: https://github.com/hronaut/hronaut-codex-plugin
+- Licenses: code MIT
+
+### HumanCursor
+
+A Python mouse-automation package with web and system cursor controls for movement, clicks, drags, and scrolling. Its script tool records cursor actions for replay.
+
+- https://awesomecua.com/resources/github-riflosnake-humancursor/ · source: https://github.com/riflosnake/HumanCursor
+- Licenses: code MIT
+
 ### Hunch MCP
 
 Focus-free background macOS automation MCP server combining OS APIs, AppleScript, Chrome CDP, and Accessibility trees.
@@ -15653,6 +17175,13 @@ MCP server and local web UI that let an LLM drive an anti-detect Firefox build w
 - https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/ · source: https://github.com/feder-cr/invisible_playwright_mcp
 - Licenses: code MIT
 
+### IOS13-SimulateTouch
+
+An iOS touch-control library supports scripted and remote touch input, records events for playback, and offers image matching and OCR on jailbroken devices.
+
+- https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/ · source: https://github.com/xuan32546/IOS13-SimulateTouch
+- Licenses: code GPL-3.0
+
 ### iphone-control (iPhone Mirroring Skill)
 
 macOS skill and CoreGraphics controller for driving a paired iPhone through Apple's macOS iPhone Mirroring app.
@@ -15665,6 +17194,13 @@ macOS skill and CoreGraphics controller for driving a paired iPhone through Appl
 MCP server and CLI that lets Claude Code, Codex, and MCP agents read real iPhone screens as structured text and execute taps/swipes.
 
 - https://awesomecua.com/resources/github-leeguooooo-iphone-use/ · source: https://github.com/leeguooooo/iphone-use
+
+### iphone-use-flows
+
+A registry of reusable iPhone app workflows for iphone-use. Its JSON flows define phone actions, inputs, and checks for completing repeated tasks.
+
+- https://awesomecua.com/resources/github-leeguooooo-iphone-use-flows/ · source: https://github.com/leeguooooo/iphone-use-flows
+- Licenses: code MIT
 
 ### Ivy Tendril
 
@@ -15853,6 +17389,13 @@ Token-efficient headless Chrome MCP server in Docker that records console, netwo
 - https://awesomecua.com/resources/github-yyhezkel-lean-chronoscope-mcp/ · source: https://github.com/yyhezkel/lean-chronoscope-mcp
 - Licenses: code MIT
 
+### lean-computer-use-mcp
+
+An MCP facade for Windows computer use that condenses accessibility observations, checks state freshness, and records desktop actions for later replay.
+
+- https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/ · source: https://github.com/Kvxw1105/lean-computer-use-mcp
+- Licenses: code MIT
+
 ### lenovo TianXi_Action_Grounding_7B
 
 An evaluation script for running a multimodal GUI grounding model on ScreenSpot-Pro, with options for instruction variants and structured result logs.
@@ -15879,6 +17422,13 @@ LibreAutomate is a C# script editor and Windows automation library supporting UI
 Libretto is a toolkit that gives coding agents a live browser and CLI to inspect pages, record user actions, build scripts, and debug web integrations.
 
 - https://awesomecua.com/resources/github-cashew-labs-libretto/ · source: https://github.com/cashew-labs/libretto
+- Licenses: code MIT
+
+### Linux Desktop MCP Server
+
+An MCP server for Linux desktop control that exposes accessibility elements as references. Agents can find elements and send clicks, text, and keyboard input.
+
+- https://awesomecua.com/resources/github-beckhamlabsllc-linux-desktop-mcp/ · source: https://github.com/BeckhamLabsLLC/linux-desktop-mcp
 - Licenses: code MIT
 
 ### linux-computer-use
@@ -16090,6 +17640,13 @@ Magpie distributes ten macOS Computer Use MCP tools with explicit human-in-the-l
 - https://awesomecua.com/resources/github-sammysnake-d-magpie-computer-use-agent/ · source: https://github.com/SammySnake-d/magpie-computer-use-agent
 - Licenses: code MIT
 
+### magpie Computer Use
+
+A Magpie plugin that supplies agents with MCP tools to inspect macOS app screens and perform clicks, typing, scrolling, and dragging.
+
+- https://awesomecua.com/resources/github-wbb6517-magpie-computer-use/ · source: https://github.com/wbb6517/magpie-computer-use
+- Licenses: code MIT
+
 ### Mailman Agents
 
 Browser extension multi-agent orchestrator that coordinates specialized web agents across tabs.
@@ -16226,6 +17783,13 @@ Model Context Protocol server for full Linux desktop control spanning windows, m
 - https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-linux-desktop/ · source: https://github.com/wizardofweb125-lab/mcp-linux-desktop
 - Licenses: code MIT
 
+### mcp-pyautogui
+
+An MCP server that gives AI clients desktop mouse and keyboard controls, screenshot capture and screen queries through PyAutoGUI.
+
+- https://awesomecua.com/resources/github-hathibelagal-dev-mcp-pyautogui/ · source: https://github.com/hathibelagal-dev/mcp-pyautogui
+- Licenses: code GPL-3.0
+
 ### MCP-RealBrowser
 
 Model Context Protocol server providing 20 browser tools over a persistent, logged-in browser profile.
@@ -16240,12 +17804,30 @@ MCP server that lets an LLM client such as Claude Desktop control a remote Mac t
 - https://awesomecua.com/resources/github-baryhuang-mcp-remote-macos-use/ · source: https://github.com/baryhuang/mcp-remote-macos-use
 - Licenses: code MIT
 
+### mcp-serial-hid-kvm
+
+An MCP server gives agents screen capture, OCR, keyboard and mouse tools for controlling a physical PC through a separate serial HID KVM service.
+
+- https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/ · source: https://github.com/sunasaji/mcp-serial-hid-kvm
+
 ### mcp-server-browser-use
 
 MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.
 
 - https://awesomecua.com/resources/github-saik0s-mcp-browser-use/ · source: https://github.com/Saik0s/mcp-browser-use
 - Licenses: code MIT
+
+### mcp-server-macos-use
+
+A Swift MCP server gives agents tools to inspect macOS application accessibility trees and perform mouse and keyboard actions.
+
+- https://awesomecua.com/resources/github-mediar-ai-mcp-server-macos-use/ · source: https://github.com/mediar-ai/mcp-server-macos-use
+
+### MCP-Slicer
+
+MCP-Slicer gives model clients access to 3D Slicer through node inspection, Python execution, and screenshots, supporting visual feedback during medical-image and scene tasks.
+
+- https://awesomecua.com/resources/github-zhaoyouj-mcp-slicer/ · source: https://github.com/zhaoyouj/mcp-slicer
 
 ### mcp-vroid
 
@@ -16420,6 +18002,20 @@ Local Model Context Protocol server providing LLMs with an independent, persiste
 
 - https://awesomecua.com/resources/github-nikolay-3d-nik-browser-mcp/ · source: https://github.com/Nikolay-3D/nik-browser-mcp
 - Licenses: code MIT
+
+### nocta-recorder
+
+A macOS recorder that stores screen snapshots, accessibility elements, OCR, input events, and audio in a local SQLite database and serves the captured activity through a local API.
+
+- https://awesomecua.com/resources/github-nossa-y-nocta-recorder/ · source: https://github.com/nossa-y/nocta-recorder
+- Licenses: code MIT
+
+### nodriver
+
+An asynchronous Python library for browser automation that controls Chromium-based browsers through the Chrome DevTools Protocol and provides text and selector-based element lookup.
+
+- https://awesomecua.com/resources/github-ultrafunkamsterdam-nodriver/ · source: https://github.com/ultrafunkamsterdam/nodriver
+- Licenses: code AGPL-3.0
 
 ### nodriver-mcp-server
 
@@ -16681,6 +18277,20 @@ OpenCLI converts authenticated websites and Electron apps into deterministic CLI
 - https://awesomecua.com/resources/github-jackwener-opencli/ · source: https://github.com/jackwener/OpenCLI
 - Licenses: code Apache-2.0
 
+### opencli-plugin-goofish
+
+An OpenCLI adapter for Goofish that exposes shopping, account, listing, and messaging actions through commands backed by a signed-in Chrome session.
+
+- https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/ · source: https://github.com/vecyang1/opencli-plugin-goofish
+- Licenses: code AGPL-3.0
+
+### opencli-plugin-x-article-publisher
+
+An OpenCLI plugin that uses a signed-in Chrome session to prepare X Articles from Markdown and local images, with an explicit command for public publishing.
+
+- https://awesomecua.com/resources/github-genoooool-opencli-plugin-x-article-publisher/ · source: https://github.com/genoooool/opencli-plugin-x-article-publisher
+- Licenses: code MIT
+
 ### OpenCode Browser MCP
 
 Browser Model Context Protocol server for OpenCode supporting Chromium, Firefox, and WebKit automation.
@@ -16874,6 +18484,13 @@ Local bridge connecting Paseo AI agents to the user's logged-in Chrome browser.
 
 - https://awesomecua.com/resources/github-papag00se-paseo-chrome-bridge/ · source: https://github.com/papag00se/paseo-chrome-bridge
 
+### Patchright
+
+Patchright is a modified Playwright driver for Chromium automation, with browser interaction through Playwright-style APIs and separate client packages.
+
+- https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/ · source: https://github.com/Kaliiiiiiiiii-Vinyzu/patchright
+- Licenses: code Apache-2.0
+
 ### pc-screen-control
 
 Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data in place of screenshots.
@@ -16899,6 +18516,13 @@ A Go code generator that turns Chrome DevTools Protocol definitions into typed b
 Peekaboo is a macOS screen-capture, accessibility-element targeting, and GUI automation CLI and MCP server for computer-use agents.
 
 - https://awesomecua.com/resources/github-openclaw-peekaboo/ · source: https://github.com/openclaw/Peekaboo
+- Licenses: code MIT
+
+### PeekabooWin
+
+A Windows desktop automation tool exposes screen capture, OCR, indexed accessibility controls, and input actions through a sidecar interface, CLI, and MCP server.
+
+- https://awesomecua.com/resources/github-felixkruger-peekaboowin/ · source: https://github.com/FelixKruger/PeekabooWin
 - Licenses: code MIT
 
 ### periscope-mcp
@@ -17086,6 +18710,20 @@ Playwright integration for resolving Cloudflare Turnstile challenges via token i
 - https://awesomecua.com/resources/github-circuitsavage-playwright-turnstile/ · source: https://github.com/CircuitSavage/playwright-turnstile
 - Licenses: code MIT
 
+### playwright_stealth
+
+Playwright_stealth is a Python helper that applies browser fingerprint evasions to Playwright pages and contexts. It provides asynchronous usage and configuration examples.
+
+- https://awesomecua.com/resources/github-mattwmaster58-playwright-stealth/ · source: https://github.com/Mattwmaster58/playwright_stealth
+- Licenses: code MIT
+
+### Plow Latch
+
+A Mac application that lets remote agents operate a browser and local tools through approved intents, with sandboxed execution and an audit log.
+
+- https://awesomecua.com/resources/github-plow-pbc-latch/ · source: https://github.com/plow-pbc/latch
+- Licenses: code Apache-2.0
+
 ### Pointframe
 
 MCP server and CLI that lets coding agents inspect, drive, and verify native Windows UI applications with signed screenshot evidence.
@@ -17189,6 +18827,12 @@ pyautogui_mcp_server is a Streamable HTTP Model Context Protocol server for exec
 - https://awesomecua.com/resources/github-on-panda-pyautogui-mcp-server/ · source: https://github.com/on-panda/pyautogui_mcp_server
 - Licenses: code MIT
 
+### PyGetWindow
+
+PyGetWindow is a Python utility for finding and controlling desktop application windows. Its documented implementation supports Windows window titles, positions, sizes, and state changes.
+
+- https://awesomecua.com/resources/github-asweigart-pygetwindow/ · source: https://github.com/asweigart/PyGetWindow
+
 ### PyMCPAutoGUI
 
 PyMCPAutoGUI is a cross-platform MCP server combining PyAutoGUI mouse/keyboard control, window management, and EasyOCR screen text localization.
@@ -17262,6 +18906,13 @@ Model Context Protocol server that lets AI agents inspect live React component s
 MCP server and Chrome extension giving coding agents control over an already-open Chrome browser with existing cookies and SSO sessions.
 
 - https://awesomecua.com/resources/github-ofershap-real-browser-mcp/ · source: https://github.com/ofershap/real-browser-mcp
+- Licenses: code MIT
+
+### rebrowser-patches
+
+rebrowser-patches modifies Puppeteer and Playwright to reduce browser automation signals, and provides drop-in packages for both libraries.
+
+- https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/ · source: https://github.com/rebrowser/rebrowser-patches
 - Licenses: code MIT
 
 ### recast
@@ -17339,11 +18990,24 @@ RobotGo is a native Go cross-platform desktop automation library for controlling
 - https://awesomecua.com/resources/github-go-vgo-robotgo/ · source: https://github.com/go-vgo/robotgo
 - Licenses: code Apache-2.0
 
+### Robotgo Pro
+
+A licensed desktop automation package that reads screens and windows and controls mouse and keyboard input on Mac, Windows, and Linux.
+
+- https://awesomecua.com/resources/github-vcaesar-robotgo-pro/ · source: https://github.com/vcaesar/robotgo-pro
+
 ### RobotJS
 
 RobotJS is a native Node.js desktop automation library for controlling the mouse, keyboard, and screen bitmap capture across OS platforms.
 
 - https://awesomecua.com/resources/github-octalmage-robotjs/ · source: https://github.com/octalmage/robotjs
+
+### Rod
+
+A browser automation driver built on the DevTools Protocol. It provides element waiting, input tracing and helpers for controlling browser pages.
+
+- https://awesomecua.com/resources/github-go-rod-rod/ · source: https://github.com/go-rod/rod
+- Licenses: code MIT
 
 ### rs_peekaboo
 
@@ -17638,6 +19302,20 @@ The original Sikuli source distribution combines screenshot targets with a Jytho
 - https://awesomecua.com/resources/github-sikuli-sikuli/ · source: https://github.com/sikuli/sikuli
 - Licenses: code MIT
 
+### SikuliX1
+
+An archived desktop automation codebase that locates on-screen elements through image recognition and controls them with simulated mouse and keyboard input.
+
+- https://awesomecua.com/resources/github-raiman-sikulix1/ · source: https://github.com/RaiMan/SikuliX1
+- Licenses: code MIT
+
+### SilbercueSwift
+
+An MCP server for iOS development that gives agents simulator screenshots, UI element inspection, navigation actions and structured test results.
+
+- https://awesomecua.com/resources/github-silbercue-silbercueswift/ · source: https://github.com/silbercue/SilbercueSwift
+- Licenses: code MIT
+
 ### siropkin chrome-bridge
 
 Browser automation bridge allowing AI agents to operate the user's real, logged-in Chrome browser.
@@ -17726,6 +19404,13 @@ Native Rust Model Context Protocol server that drives Chrome directly over the C
 Autonomous real-browser interaction engine and Chrome extension bridge exposing 99 MCP tools to AI agents.
 
 - https://awesomecua.com/resources/github-virajverse-spectra-browser-mcp/ · source: https://github.com/virajverse/spectra-browser-mcp
+
+### Spice
+
+A Go SPICE client library receives remote desktop display updates and sends mouse and keyboard events, with interfaces for connection, rendering and clipboard handling.
+
+- https://awesomecua.com/resources/github-shells-com-spice/ · source: https://github.com/Shells-com/spice
+- Licenses: code MIT
 
 ### SpiderCreator
 
@@ -17827,6 +19512,13 @@ Grounding and evaluation code that aggregates a pretrained vision-language model
 Remote mobile controller for monitoring and steering the Aside browser agent over Tailscale.
 
 - https://awesomecua.com/resources/github-quino0627-tail-aside/ · source: https://github.com/quino0627/tail-aside
+- Licenses: code MIT
+
+### Tango
+
+A TypeScript Android Debug Bridge client that runs in Chromium-based browsers, Node.js, and Electron to provide access to Android devices.
+
+- https://awesomecua.com/resources/github-yume-chan-ya-webadb/ · source: https://github.com/yume-chan/ya-webadb
 - Licenses: code MIT
 
 ### Taprun (tap)
@@ -17959,6 +19651,13 @@ Self-hosted one-tab mobile handoff relay that lets a human remotely solve login,
 
 - https://awesomecua.com/resources/github-zdayang-remote-login-relay/ · source: https://github.com/zdayang/remote-login-relay
 
+### tui-use
+
+tui-use is a CLI utility that lets agents read terminal application screens and send keystrokes through persistent PTY sessions. It renders text snapshots and can wait for screen changes.
+
+- https://awesomecua.com/resources/github-onesuper-tui-use/ · source: https://github.com/onesuper/tui-use
+- Licenses: code MIT
+
 ### UI Annotator MCP
 
 Model Context Protocol server that injects interactive Set-of-Mark hover labels into live webpages for visual browser agents.
@@ -18006,6 +19705,13 @@ A Python wrapper for Windows UI Automation that traverses application control tr
 Windows UI Automation toolkit providing a CLI, MCP server, and VS Code extension for inspecting and driving native desktop controls.
 
 - https://awesomecua.com/resources/github-trsdn-mcp-server-uiautomation/ · source: https://github.com/trsdn/mcp-server-uiautomation
+- Licenses: code MIT
+
+### uiautomator2
+
+uiautomator2 is a Python library for controlling Android devices through a device-side UiAutomator service, including app launch and UI element actions.
+
+- https://awesomecua.com/resources/github-openatx-uiautomator2/ · source: https://github.com/openatx/uiautomator2
 - Licenses: code MIT
 
 ### uictl-mac-mcp
@@ -18117,6 +19823,13 @@ Unraid container template and Agent Skill for hosting a private Camofox anti-det
 - https://awesomecua.com/resources/github-mircoblitz-unraid-camofox-stealth-browser/ · source: https://github.com/MircoBlitz/unraid-camofox-stealth-browser
 - Licenses: code MIT
 
+### usecomputer
+
+A desktop automation CLI and library for agent workflows. It captures screenshots, maps image coordinates to screen positions and sends mouse and keyboard actions.
+
+- https://awesomecua.com/resources/github-remorses-usecomputer/ · source: https://github.com/remorses/usecomputer
+- Licenses: code MIT
+
 ### vadgr-computer-use
 
 Three-tier computer-use MCP server combining system shell tools, OS accessibility trees (UIA/AT-SPI/AX), and vision fallback.
@@ -18143,6 +19856,12 @@ A Veeva Vault browser automation scaffold with documented actions for uploading 
 
 - https://awesomecua.com/resources/github-browser-automation-hub-veeva-vault-browser-automation/ · source: https://github.com/Browser-Automation-Hub/veeva-vault-browser-automation
 - Licenses: code MIT
+
+### VibeSurf for OpenClaw
+
+An OpenClaw skill that routes browser navigation, page extraction, screenshots, and workflows through VibeSurf's HTTP API.
+
+- https://awesomecua.com/resources/github-vibesurf-ai-claw-surf/ · source: https://github.com/vibesurf-ai/claw-surf
 
 ### viger1 dsh-pilot
 
@@ -18303,6 +20022,12 @@ WebBridge pairs a Chrome extension and local daemon to let coding agents control
 - https://awesomecua.com/resources/github-kxdds-webbridge/ · source: https://github.com/kxdds/WebBridge
 - Licenses: code MIT
 
+### webclaw3
+
+A browser-agent skill that uses a local Chrome session to explore tasks, then generates reusable scripts for repeating successful browser workflows.
+
+- https://awesomecua.com/resources/github-fatmind-webclaw3/ · source: https://github.com/fatmind/webclaw3
+
 ### webcli
 
 Python CLI and Chrome extension bridge allowing humans and AI agents to control live Chrome tabs from the terminal.
@@ -18337,11 +20062,25 @@ A browser library that labels interactive elements and their boxes for visual pr
 - https://awesomecua.com/resources/github-reidbarber-webmarker/ · source: https://github.com/reidbarber/webmarker
 - Licenses: code MIT
 
+### WebMCP - Model Context Tool Inspector
+
+A Chrome extension displays WebMCP tools exposed by a page and lets developers inspect and execute them through a side panel.
+
+- https://awesomecua.com/resources/github-beaufortfrancois-model-context-tool-inspector/ · source: https://github.com/beaufortfrancois/model-context-tool-inspector
+- Licenses: code Apache-2.0
+
 ### webmcp-gen
 
 Automatically generates callable WebMCP tool schemas from live webpages without requiring site-owner instrumentation.
 
 - https://awesomecua.com/resources/github-nidhicodes-webmcp-gen/ · source: https://github.com/Nidhicodes/webmcp-gen
+- Licenses: code MIT
+
+### webmcpify
+
+An agent skill that adds WebMCP tools to existing web apps. It inventories app functions, asks for approval of a tool manifest and checks tool effects in Chrome.
+
+- https://awesomecua.com/resources/github-tuejon-webmcpify/ · source: https://github.com/TueJon/webmcpify
 - Licenses: code MIT
 
 ### WebOperator Experiments
@@ -18362,6 +20101,13 @@ Turns any existing web application into an in-page Model Context Protocol server
 Single-binary Rust Model Context Protocol server for LLM-driven browser automation and web scraping across three browser engines.
 
 - https://awesomecua.com/resources/github-prokopis3-webrain/ · source: https://github.com/prokopis3/webrain
+
+### webreel
+
+webreel drives a Chrome browser through JSON-defined actions and records the resulting interaction as video with cursor and keystroke overlays.
+
+- https://awesomecua.com/resources/github-vercel-labs-webreel/ · source: https://github.com/vercel-labs/webreel
+- Licenses: code Apache-2.0
 
 ### WebSense MCP 2.0
 
@@ -18424,11 +20170,25 @@ Windows Model Context Protocol server combining DXGI desktop duplication screen 
 - https://awesomecua.com/resources/github-betrayzl-windows-computer-use-mcp/ · source: https://github.com/betrayzl/windows-computer-use-mcp
 - Licenses: code MIT
 
+### Windows Computer-Use Skill
+
+A Windows computer-use skill and MCP server that gives agents screenshot capture, desktop input, app launching, window lookup, and clipboard tools.
+
+- https://awesomecua.com/resources/github-wimi321-windows-computer-use-skill/ · source: https://github.com/wimi321/windows-computer-use-skill
+- Licenses: code MIT
+
 ### Windows Local Action Recorder
 
 Windows desktop action recorder and controlled replay tool that packages human UI demonstrations for Codex agents.
 
 - https://awesomecua.com/resources/github-week833-windows-local-action-recorder/ · source: https://github.com/week833/windows-local-action-recorder
+- Licenses: code MIT
+
+### Windows MCP Server
+
+An MCP server and CLI that let AI agents inspect Windows application controls and perform desktop actions, with screenshots, mouse, and keyboard available for visual tasks.
+
+- https://awesomecua.com/resources/github-sbroenne-mcp-windows/ · source: https://github.com/sbroenne/mcp-windows
 - Licenses: code MIT
 
 ### Windows Sandbox Computer Use Skill
@@ -18529,6 +20289,12 @@ xa11y is a cross-platform desktop accessibility library in Rust, Python, and Nod
 - https://awesomecua.com/resources/github-xa11y-xa11y/ · source: https://github.com/xa11y/xa11y
 - Licenses: code MIT
 
+### xdotool
+
+xdotool is an X11 command line utility for simulating keyboard and mouse input and controlling windows. The repository also includes libxdo, a C library for the same operations.
+
+- https://awesomecua.com/resources/github-jordansissel-xdotool/ · source: https://github.com/jordansissel/xdotool
+
 ### Xiaozhuang DSH
 
 Plugin-enhanced DeepSeek Harness distribution pre-packaged with desktop computer use and browser automation.
@@ -18549,6 +20315,13 @@ YADB extends Android Debug Bridge with text input, screenshots, UI layout dumps 
 
 - https://awesomecua.com/resources/github-ysbing-yadb/ · source: https://github.com/ysbing/YADB
 - Licenses: code LGPL-3.0
+
+### ydotool
+
+ydotool is a Linux command-line utility for sending mouse and keyboard input. It provides commands to click, move the pointer, type text and press keys.
+
+- https://awesomecua.com/resources/github-reimunotmoe-ydotool/ · source: https://github.com/ReimuNotMoe/ydotool
+- Licenses: code AGPL-3.0
 
 ### Your Browser Agent
 
@@ -18596,6 +20369,13 @@ macOS computer-control MCP server for ZCode and coding agents combining screensh
 WebSocket-based Model Context Protocol server exposing 20 browser automation tools for the Zen Browser without Selenium or Playwright.
 
 - https://awesomecua.com/resources/github-sh6drack-zen-mcp/ · source: https://github.com/sh6drack/zen-mcp
+
+### Zendriver
+
+A Python browser automation library built on Chrome DevTools Protocol, offering page navigation, element lookup, screenshots and browser profile management.
+
+- https://awesomecua.com/resources/github-cdpdriver-zendriver/ · source: https://github.com/cdpdriver/zendriver
+- Licenses: code AGPL-3.0
 
 ### ZennoBrowser MCP Server
 
@@ -18672,7 +20452,7 @@ Universal Chrome control bridge for OpenCode, Codex, and Claude Code coding agen
 - https://awesomecua.com/resources/github-zuhair-01-chrome-agent-bridge/ · source: https://github.com/Zuhair-01/chrome-agent-bridge
 - Licenses: code MIT
 
-## Products (70)
+## Products (72)
 
 ### Accio Work
 
@@ -18951,6 +20731,13 @@ General agent platform with browser-based task execution.
 
 - https://awesomecua.com/resources/url-d3414794302313051ff0/ · source: https://manus.im/
 
+### MT Code
+
+MT Code is a desktop app that runs coding agents and gives them browser computer-use controls, a live computer view and access to reachable machines.
+
+- https://awesomecua.com/resources/github-munimtechnologies-mtcode/ · source: https://github.com/munimtechnologies/mtcode
+- Licenses: code Apache-2.0
+
 ### Narada Code and OperatorMini
 
 Narada Code develops and tests computer-use workflows, then revises them after failures. OperatorMini executes the instructions for repeatable web and enterprise tasks.
@@ -18974,6 +20761,13 @@ Opera's subscription agentic browser whose Neon Do agent opens, closes and acts 
 Historical OpenAI browser-agent research preview.
 
 - https://awesomecua.com/resources/url-f0584842138a52158f51/ · source: https://openai.com/index/introducing-operator/
+
+### ovoBrowser
+
+ovoBrowser is a desktop client for managing isolated browser profiles and proxies. Its local API exposes opened profiles to browser automation tools.
+
+- https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/ · source: https://github.com/ovobrowsersupport/ovobrowser-manger
+- Licenses: code MIT
 
 ### Predicate Systems (formerly SentienceAPI)
 
@@ -19211,7 +21005,7 @@ Publisher or product brand associated with TinyFish computer-use or browser auto
 
 - https://awesomecua.com/resources/organization-tinyfish/ · source: https://www.tinyfish.ai/
 
-## Learning resources (26)
+## Learning resources (32)
 
 ### Achieving 91.4% on Android World: A New Approach to Mobile UI Automation
 
@@ -19262,6 +21056,12 @@ A curated reading list of computer GUI use research and software, linking to age
 
 - https://awesomecua.com/resources/github-philfung-awesome-computer-use/ · source: https://github.com/philfung/awesome-computer-use
 
+### Awesome Computer Use Ecosystem
+
+A curated reading list of computer-use tools for desktop and browser agents, organized by product ecosystem and capability, with a separate project catalog.
+
+- https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/ · source: https://github.com/hqhq1025/awesome-computer-use-ecosystem
+
 ### Awesome GPT-6 Astra
 
 Evidence-linked catalog of computer-use demos, evaluations, and agent workflows with primary source receipts.
@@ -19301,6 +21101,13 @@ A collection of 46 Go examples showing how to control Chrome with chromedp, incl
 
 - https://awesomecua.com/resources/github-chromedp-examples/ · source: https://github.com/chromedp/examples
 
+### clawtouch-skills
+
+A collection of Markdown operator guides gives desktop agents app-specific menu paths, shortcuts and interaction techniques for use with HID controls.
+
+- https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/ · source: https://github.com/tinqiao-oss/clawtouch-skills
+- Licenses: code MIT
+
 ### Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches
 
 A curated reading list and accompanying report organize computer-use research, including agents that act through web, desktop, and mobile interfaces.
@@ -19320,6 +21127,12 @@ Illustrated account of FinalRun's Android agent approach, with task walkthroughs
 
 - https://awesomecua.com/resources/github-final-run-finalrun-android-world-benchmark/ · source: https://github.com/final-run/finalrun-android-world-benchmark
 
+### Google Developer Codelab: Automated UI Testing with Antigravity (Agy) CLI, BrowserMCP, Playwright, and the Browser Agent
+
+A hands-on codelab for creating browser-based UI tests with Antigravity CLI, BrowserMCP and a Playwright agent skill, using an included demo application.
+
+- https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/ · source: https://github.com/derailed-dash/agentic-ui-testing
+
 ### H.AI cookbook
 
 The H.AI cookbook provides notebooks and guides for deploying Holo models and invoking their web navigation and interface localization capabilities.
@@ -19333,6 +21146,13 @@ The H.AI cookbook provides notebooks and guides for deploying Holo models and in
 
 - https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/ · source: https://github.com/adongwanai/learn-workbuddy
 - Licenses: code MIT
+
+### linux-use-recipes
+
+A collection of recipes for automating Linux desktop applications and websites with linux-use. It covers browser setup, accessibility pitfalls, posting workflows and verification.
+
+- https://awesomecua.com/resources/github-javimosch-linux-use-recipes/ · source: https://github.com/javimosch/linux-use-recipes
+- Licenses: code Unlicense
 
 ### Midscene Examples
 
@@ -19353,6 +21173,13 @@ Open Operator collects resources on computer-use agents, with task categories, b
 - https://awesomecua.com/resources/github-openhands-open-operator/ · source: https://github.com/OpenHands/open-operator
 - Licenses: code MIT
 
+### Plasmate Notebooks
+
+Plasmate Notebooks teaches use of an agent-oriented browser engine through Jupyter examples covering page structure, token comparisons, batch extraction, and research workflows.
+
+- https://awesomecua.com/resources/github-plasmate-labs-notebooks/ · source: https://github.com/plasmate-labs/notebooks
+- Licenses: code Apache-2.0
+
 ### Steel Cookbook
 
 A collection of Steel browser automation examples covering browser libraries, screenshot-driven computer-use models and agent frameworks in several programming languages.
@@ -19372,6 +21199,13 @@ A collection of sample applications and recipes for TinyFish web agents, coverin
 
 - https://awesomecua.com/resources/github-tinyfish-io-tinyfish-cookbook/ · source: https://github.com/tinyfish-io/tinyfish-cookbook
 - Licenses: code MIT
+
+### Visual Agents Workshop Series
+
+Visual Agents Workshop Series teaches GUI agent research, dataset preparation, and model fine-tuning through three sessions with linked notebooks and resources.
+
+- https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/ · source: https://github.com/harpreetsahota204/visual_agents_workshop
+- Licenses: code Apache-2.0
 
 ### Web Browser Automation with Agents (smolagents tutorial)
 

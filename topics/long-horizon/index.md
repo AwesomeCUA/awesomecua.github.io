@@ -369,8 +369,12 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   A Linux desktop benchmark with 184 tasks spanning seeded web apps and office software, using a VM runner and rubric-based grading.
 - [Odysseys](https://awesomecua.com/resources/github-ljang0-odysseys/) — Date not recorded
   200 long-horizon web tasks drawn from real browsing sessions, run on the live Internet in Chrome through the OSWorld runner and scored per rubric item by an LLM judge over the trajectory's screenshots and actions.
+- [OpenAgentSafety](https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/) — Date not recorded
+  A benchmark for agent safety in multi-step simulations involving browser, filesystem, terminal and messaging tools. It tests responses to ambiguous, conflicting and adversarial instructions.
 - [OS-Map](https://awesomecua.com/resources/github-os-copilot-os-map/) — Date not recorded
   An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment and expanded task configurations for measuring breadth and depth of computer interaction.
+- [OSWorkerBench](https://awesomecua.com/resources/url-c8c3d4ef20e68086a812/) — Date not recorded
+  A desktop GUI-agent benchmark with 100 office tasks spanning 17 business tracks and 41 applications. It releases task and demonstration tables for evaluation with the UI-Mate harness.
 - [OSWorld 2.0](https://awesomecua.com/resources/github-xlang-ai-osworld-v2/) — Date not recorded
   OSWorld 2.0 benchmarks computer-use agents on long-horizon desktop workflows with updated task suites, trajectory viewers, and container sandboxes.
 - [RLG-ALE](https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/) — Date not recorded
@@ -401,6 +405,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
 
 ## Models
 
+- [CODA-PLANNER-TARS-32B](https://awesomecua.com/resources/url-cf16d0a4a05ea7270ffa/) — Date not recorded
+  CODA-PLANNER-TARS-32B is a GUI agent planner checkpoint trained for scientific applications and deployed alongside a specialist executor in ScienceBoard.
 - [Plan-and-Act Planner 70B](https://awesomecua.com/resources/url-3932d69c6b6f9b2a7ba8/) — Date not recorded
   The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.
 
@@ -474,6 +480,8 @@ Full source records: https://awesomecua.com/downloads/topics/long-horizon/record
   SimpleMem provides semantic lossless memory compression and multimodal retrieval for long-horizon LLM and desktop/CLI agents.
 - [taskforge](https://awesomecua.com/resources/github-huzjie-taskforge/) — Date not recorded
   taskforge is a long-horizon workflow orchestration engine combining multi-step planning, tool invocation, and GUI state verification.
+- [UI-Mate](https://awesomecua.com/resources/github-tencent-ui-mate/) — Date not recorded
+  UI-Mate is a desktop GUI agent that uses screenshots and keyboard and mouse actions for tasks across applications. It also supports workflows learned from recorded demonstrations.
 - [WebTactix](https://awesomecua.com/resources/url-40795d2c86388ae89f43/) — Date not recorded
   A web agent that simplifies accessibility trees, explores candidate actions in parallel and stores visited pages in a semantic tree to guide later decisions and recovery.
 - [WebThinker](https://awesomecua.com/resources/github-ruc-nlpir-webthinker/) — Date not recorded

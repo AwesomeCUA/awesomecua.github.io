@@ -455,8 +455,12 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Evaluates typed System-One decision models (Luna Decisions and Jev) driving real Chromium browser workflows on synthetic web apps.
 - [fast-automation (Plan-Once Ground-Locally)](https://awesomecua.com/resources/github-thedivyanshshukla-plan-once-ground-locally/) — Date not recorded
   Compares plan-once local-grounding web agents against step-by-step ReAct loops across a 200-task benchmark and 2,800 recorded runs.
+- [Gym-Anything-RT](https://awesomecua.com/resources/github-gym-anything-gym-anything-rt/) — Date not recorded
+  Gym-Anything-RT evaluates screenshot-driven agents on paired live and untimed browser minigames. Its runner can pause or slow the game clock to isolate timing effects.
 - [Lexbench-Headless-Browser](https://awesomecua.com/resources/github-lexmount-lexbench-headless-browser/) — Date not recorded
   Lexbench-Headless-Browser benchmarks 13 headless browser automation runtimes across 1,928 web tasks.
+- [only-cli/benchmarks](https://awesomecua.com/resources/github-only-cli-benchmarks/) — Date not recorded
+  A reproducible benchmark suite compares tools that agents use to read live web pages, measuring content retrieval, time and token use across page views and browsing tasks.
 - [OSWorld-Human](https://awesomecua.com/resources/github-wuklab-osworld-human/) — Date not recorded
   Human reference trajectories and scoring code for measuring the action efficiency of computer-use agents on OSWorld tasks.
 - [Plasmate Benchmarks](https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/) — Date not recorded
@@ -481,6 +485,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   browserground is a compact Qwen3-VL-2B LoRA visual UI-grounding model that maps screenshots and text targets to bounding-box JSON.
 - [CombatVLA](https://awesomecua.com/resources/github-chenvoid-combatvla/) — Date not recorded
   CombatVLA is a vision-language-action model and action tracker for real-time combat control in 3D action role-playing PC games.
+- [cua-s1-forms-coreml](https://awesomecua.com/resources/url-f742ad40df2e5f109fc3/) — Date not recorded
+  A Core ML conversion of CUA-S1-FORMS scores candidate actions for forms from task and element text. It provides portable and compiled packages for Apple devices.
 - [DeskMind Eyes](https://awesomecua.com/resources/github-deskmind-ai-eyes/) — Date not recorded
   DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for localizing click targets on desktop screenshots.
 - [DiMo-GUI](https://awesomecua.com/resources/github-vivo-dimo-gui/) — Date not recorded
@@ -499,6 +505,12 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   FP8 release of Holotron4-30B-A3B, H Company's computer-use model built on Nemotron 3 Nano Omni; an external harness sends it screenshots and tool results and executes the clicks, typing, code and tool calls it requests.
 - [HTLM](https://awesomecua.com/resources/github-espetro-htlm/) — Date not recorded
   HTLM is a compact 350M browser-agent model fine-tuned on Mind2Web for fast on-device and in-browser DOM action prediction.
+- [InternVL3_5-241B-A28B](https://awesomecua.com/resources/url-c8d93b1c274acd679694/) — Date not recorded
+  A released InternVL3.5 multimodal checkpoint from a family whose card describes GUI interaction, Cascade RL training and adaptive visual resolution.
+- [InternVL3_5-241B-A28B-HF](https://awesomecua.com/resources/url-7c6929dcffffe6553ea9/) — Date not recorded
+  InternVL3_5-241B-A28B-HF releases a Transformers-format multimodal checkpoint from the InternVL3.5 family, whose card describes GUI interaction and efficient visual inference.
+- [InternVL3_5-8B](https://awesomecua.com/resources/url-7f7d17a0873e6ffda2b9/) — Date not recorded
+  An 8B multimodal checkpoint in the InternVL3.5 family, whose card describes GUI interaction alongside broader visual reasoning and inference efficiency work.
 - [KDEGroup/UI-AGILE-3B](https://awesomecua.com/resources/url-642671eabef44827b7de/) — Date not recorded
   A released UI-AGILE checkpoint for GUI grounding, associated with reward design and cropping based resampling during training and image decomposition during inference.
 - [kev-browser-use](https://awesomecua.com/resources/github-arbazsiddiqui-kev-browser-use/) — Date not recorded
@@ -511,6 +523,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Mano-P is an open-source GUI vision-language-action model optimized for edge devices and evaluated on OSWorld and Mind2Web.
 - [Milo-Pointer](https://awesomecua.com/resources/github-chayworks-milo-pointer/) — Date not recorded
   Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and action selector for mobile phone agents.
+- [mPLUG/ToolCUA-8B](https://awesomecua.com/resources/url-44b65e07d7a869d37dc6/) — Date not recorded
+  ToolCUA-8B is a released computer-use model trained to alternate between desktop GUI actions and structured tool calls during task execution.
 - [Muse-Glimmer-30B-GUI-Grounding-Fast](https://awesomecua.com/resources/url-7645072fe9580fa9993a/) — Date not recorded
   A LoRA adapter for Muse-Glimmer-30B that returns a UI element's bounding box from a screenshot and instruction, with examples spanning desktop, mobile, and web screens.
 - [OneJev](https://awesomecua.com/resources/github-omnijev-onejev/) — Date not recorded
@@ -521,12 +535,18 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   AskUI's Florence-2-base grounding model of about 270M parameters that returns a bounding box for a described element in a screenshot, intended for low-latency local computer and phone automation.
 - [Qwen2.5-VL-3B-UI-R1-E](https://awesomecua.com/resources/url-72f3737bb5194fd64852/) — Date not recorded
   Qwen2.5-VL-3B-UI-R1-E releases UI-R1-E-3B, a model that predicts click coordinates from interface screenshots and commands, with reported mobile, desktop, and web grounding evaluations.
+- [Qwen3.5-4B-Browser-Agent-SFT-FP8](https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/) — Date not recorded
+  An FP8 Qwen3.5-4B checkpoint fine-tuned on browser-agent trajectories with structured actions. Its card provides vLLM serving settings and reports BrowseWebApp-Bench v2 results.
+- [S1-Fast](https://awesomecua.com/resources/url-51fd7f79dff766278d83/) — Date not recorded
+  S1-Fast predicts desktop actions, target elements and step status from a Windows UI Automation snapshot and visual tokens in one encoder pass.
 - [ShowUI](https://awesomecua.com/resources/github-showlab-showui/) — Date not recorded
   Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, released with UI-guided token selection, training code, the ShowUI-web and ShowUI-desktop datasets and vLLM inference.
 - [ShowUI 2B](https://awesomecua.com/resources/url-c0f39f7cf2cd9c18e8bd/) — Date not recorded
   ShowUI vision-language-action checkpoint fine-tuned from Qwen2-VL-2B-Instruct, published as a single PyTorch weight file under the MIT license and tagged for GUI agents and computer use.
 - [UI-AGILE checkpoint](https://awesomecua.com/resources/url-b94e285c3f757e2d0f3a/) — Date not recorded
   The released UI-AGILE model for GUI grounding with reward shaping, crop-based resampling and decomposed selection during inference.
+- [V-Droid-8B-0323](https://awesomecua.com/resources/url-82adab61eb515398da48/) — Date not recorded
+  A verifier model for the V-Droid Android GUI agent scores candidate actions from a device description and task, helping select the next mobile operation.
 - [ZonUI-3B checkpoint](https://awesomecua.com/resources/url-c8c046847f829fea4821/) — Date not recorded
   Qwen2.5-VL-3B-based GUI grounding checkpoint that predicts click locations from screenshots and text instructions across desktop, mobile and web screens.
 
@@ -558,6 +578,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   AgentOCR provides compact visual-token and OCR screen compression for accelerating GUI and computer-use agents.
 - [AgentP](https://awesomecua.com/resources/github-omerfeyzioglu-agentp-macos/) — Date not recorded
   AgentP is a fast macOS computer-use agent where Gemini plans once and a local Jev System-One model executes steps via the Accessibility API.
+- [ahk-mcp](https://awesomecua.com/resources/github-anomalous3-ahk-mcp/) — Date not recorded
+  ahk-mcp gives AI agents MCP tools to inspect Windows accessibility trees and act on desktop controls, with additional browser control through the DevTools Protocol.
 - [alohajet CLI](https://awesomecua.com/resources/github-alohabrowser-alohajet-cli/) — Date not recorded
   Official Aloha Browser CLI and MCP server for driving a real browser with stable element refs.
 - [amcu (Another macOS Computer Use)](https://awesomecua.com/resources/github-uoox-amcu/) — Date not recorded
@@ -640,6 +662,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Local-first Rust CLI for driving Chrome to perform web searches and extract clean Markdown page content.
 - [chrome-eye](https://awesomecua.com/resources/github-trvux-chrome-eye/) — Date not recorded
   Model Context Protocol server exposing 56 structured-JSON Chrome CDP tools to Claude Code as a fast alternative to screenshots.
+- [Claude Chrome Stream](https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/) — Date not recorded
+  A Chrome automation plugin for computer-use agents that streams browser frames through CDP and links actions to frame IDs. It includes commands and MCP tools.
 - [claude-browser-crawl-cdp](https://awesomecua.com/resources/github-gruncode-claude-browser-crawl-cdp/) — Date not recorded
   Persistent Playwright REPL and CDP bridge allowing Claude Code to drive a user's logged-in Chrome browser with low token overhead.
 - [claude-chrome-speed](https://awesomecua.com/resources/github-cr1707-claude-chrome-speed/) — Date not recorded
@@ -814,6 +838,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Single-binary ~7MB Rust browser-automation Model Context Protocol server supporting Streamable HTTP and stdio.
 - [lean-chronoscope-mcp](https://awesomecua.com/resources/github-yyhezkel-lean-chronoscope-mcp/) — Date not recorded
   Token-efficient headless Chrome MCP server in Docker that records console, network, and DOM timelines for coding agents.
+- [lean-computer-use-mcp](https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/) — Date not recorded
+  An MCP facade for Windows computer use that condenses accessibility observations, checks state freshness, and records desktop actions for later replay.
 - [Legacy UI Capability Engine](https://awesomecua.com/resources/github-saitejareddi3636-legacy-ui-capability-engine/) — Date not recorded
   Learns a legacy browser workflow once with an LLM and compiles it into a verified, reusable capability module.
 - [LegacyBridge](https://awesomecua.com/resources/github-peterhaupt-legacybridge/) — Date not recorded
@@ -1040,6 +1066,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   WAREX supplementary code uses mitmproxy add-ons to inject popups or server and network errors into web-agent tests and record token use and latency.
 - [WebAgents Protocol](https://awesomecua.com/resources/github-betterwright-webagents/) — Date not recorded
   Open protocol specification and toolkit exposing batch-native website actions to browser agents.
+- [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/) — Date not recorded
+  A browser-agent skill that uses a local Chrome session to explore tasks, then generates reusable scripts for repeating successful browser workflows.
 - [Webcmd](https://awesomecua.com/resources/github-agentrhq-webcmd/) — Date not recorded
   Webcmd captures and indexes website navigational context as agents browse, compiling site structure into reusable local memory skills.
 - [WebRain](https://awesomecua.com/resources/github-prokopis3-webrain/) — Date not recorded
@@ -1054,3 +1082,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Text-first browser and background macOS window control plugin for DeepSeek Harness.
 - [zseven-w DSH Browser](https://awesomecua.com/resources/github-zseven-w-dsh-browser/) — Date not recorded
   Headless-first browser automation plugin for DeepSeek Harness.
+
+## 学习资源
+
+- [Plasmate Notebooks](https://awesomecua.com/resources/github-plasmate-labs-notebooks/) — Date not recorded
+  Plasmate Notebooks teaches use of an agent-oriented browser engine through Jupyter examples covering page structure, token comparisons, batch extraction, and research workflows.

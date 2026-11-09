@@ -500,6 +500,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   4,036 GUI screenshots, mostly macOS browser views, with interaction keypoints and task descriptions: 739 manually annotated originals plus 3,297 color-vision and reworded-task variants made with a FiftyOne plugin.
 - [RoTS](https://awesomecua.com/resources/github-alibabaresearch-rots/) — Date not recorded
   Announced GUI trajectory synthesis resources for recovery from policy-induced errors; the inspected repository marks code and data releases as in preparation.
+- [TimeWarp](https://awesomecua.com/resources/url-8be414a28d1984abb1b9/) — Date not recorded
+  Dataset of 231 web-agent goals for Wiki, News, and Shop sites across six interface eras, with train and test splits and evaluator specifications.
 - [WorldGUI-Bench](https://awesomecua.com/resources/url-b540fe81c57cedb1f556/) — Date not recorded
   A desktop GUI evaluation dataset with user requests, instructional videos and pre-actions that vary task starting states. The release includes task metadata and a data archive.
 
@@ -521,6 +523,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Self-verifying web agent core where the model proposes candidate actions and the harness validates real DOM state transitions.
 - [AutoFiller Universal](https://awesomecua.com/resources/github-fedetrain-autofiller-universal/) — Date not recorded
   Batch web-form automation framework with self-healing selectors that runs LLM-free at runtime.
+- [Brobot](https://awesomecua.com/resources/github-jspinak-brobot/) — Date not recorded
+  Brobot is a Java visual automation framework that recognizes interface elements and models application states to navigate, perform actions and recover from errors.
 - [Browser Harness MCP](https://awesomecua.com/resources/github-arneld18-browser-harness-mcp/) — Date not recorded
   Lightweight, self-healing Model Context Protocol server for native LLM web browser automation.
 - [Browser Reliability Runtime](https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/) — Date not recorded
@@ -535,6 +539,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Managed browser-automation platform for healthcare portals and EHRs in which a builder agent turns a chat description into a reusable workflow graph that runs in cloud VMs and a maintenance agent repairs.
 - [CollabUIAgents](https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/) — Date not recorded
   CollabUIAgents trains UI agents with synthesized interaction data and process rewards assigned by collaborating agents. The repository releases data collection and inference code.
+- [crowd-test](https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test/) — Date not recorded
+  A CLI runs persona-driven agents in isolated Chromium browsers to explore website usability and produce graded findings with optional independent checks.
 - [DoomArena](https://awesomecua.com/resources/github-servicenow-doomarena/) — Date not recorded
   A security-testing framework whose attack gateways wrap BrowserGym, OSWorld, tau-bench and mail-agent environments to inject pop-ups, banners and other adversarial content under configurable threat models.
 - [dsh-OpenLiulan (开放浏览)](https://awesomecua.com/resources/github-haodongzhang022-hue-openliulan/) — Date not recorded
@@ -551,6 +557,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Agent skill for awaiting single-page-application network idle and DOM mutation settlement before acting.
 - [GenPark Viewport Occlusion Resolver Skill](https://awesomecua.com/resources/github-alpha-park-genpark-visual-viewport-element-occlusion-resolver-skill/) — Date not recorded
   Agent skill that detects viewport element occlusion and dismisses blocking modals or cookie banners before clicking.
+- [GUI-DR](https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/) — Date not recorded
+  GUI-DR generates perturbed web screenshots and interaction trajectories from Mind2Web archives to support GUI grounding evaluation and fine-tuning.
 - [GUI-HARVEST](https://awesomecua.com/resources/github-garyyang12345-gui-harvest/) — Date not recorded
   Optimizes GUI-agent execution code from repeated rollout evidence and checks proposed changes against fixed validation gates.
 - [hands-off](https://awesomecua.com/resources/github-niramay-kelkar-hands-off/) — Date not recorded
@@ -571,8 +579,12 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   PageRunner is a browser-agent orchestration platform with bounded execution loops, deterministic replay, and golden-trace verification.
 - [Paragent](https://awesomecua.com/resources/github-myselfsiddharth-paragent/) — Date not recorded
   Stateful browser execution layer that records an agent task once, replays it without LLM calls, and self-repairs when selectors change.
+- [playwright_stealth](https://awesomecua.com/resources/github-mattwmaster58-playwright-stealth/) — Date not recorded
+  Playwright_stealth is a Python helper that applies browser fingerprint evasions to Playwright pages and contexts. It provides asynchronous usage and configuration examples.
 - [QUESTZ](https://awesomecua.com/resources/github-pnx89-questz/) — Date not recorded
   Fail-closed browser automation reliability framework that halts execution on structural DOM drift before corrupting downstream data.
+- [rebrowser-patches](https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/) — Date not recorded
+  rebrowser-patches modifies Puppeteer and Playwright to reduce browser automation signals, and provides drop-in packages for both libraries.
 - [Selenium Self-Healing MCP Server](https://awesomecua.com/resources/github-aiqualitylab-selenium-selfhealing-mcp/) — Date not recorded
   MCP server that diagnoses broken Selenium DOM locators after UI changes and synthesizes self-healing replacement selectors.
 - [Self-Healing Browser Agent](https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/) — Date not recorded

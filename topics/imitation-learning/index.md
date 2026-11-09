@@ -186,6 +186,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Offline supervised fine-tuning data for GUI Reflection, released as JSONL files. Users obtain the corresponding images from the source datasets named in the card.
 - [GUIMid training data](https://awesomecua.com/resources/url-422010da7a5c845a18f6/) — Date not recorded
   A released GUI-agent mid-training mixture and supporting domain datasets, together with a post-training trajectory file and image archives for web and mobile interaction.
+- [lumos_unified_ground_iterative](https://awesomecua.com/resources/url-87bba046fba8c1cd968c/) — Date not recorded
+  A JSONL training dataset for the Lumos-I grounding module, combining math, question-answering, and web-agent annotations, including examples from Mind2Web.
 - [Mobile-R1 trajectory sample](https://awesomecua.com/resources/url-114ced4a94d12f384d69/) — Date not recorded
   Open sample of Mobile-R1's annotated trajectories on Chinese Android apps: 1,007 tasks whose steps pair a screenshot with a thought, a subtask and a mobile_use action such as click, swipe, type or open.
 - [MONDAY annotations](https://awesomecua.com/resources/url-570654ff67ecefa2b955/) — Date not recorded
@@ -229,6 +231,10 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
 
 - [AgentTrek-1.0-32B](https://awesomecua.com/resources/url-c3ab0f006a880174e645/) — Date not recorded
   A web-agent checkpoint fine-tuned from Qwen2.5-32B-Instruct using the AgentTrek trajectory-synthesis project. The release includes model weights.
+- [asil-qwen35-9b-sft](https://awesomecua.com/resources/url-9960d240939244c3edaa/) — Date not recorded
+  An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+- [espetro/htlm-lfm2.5-350m](https://awesomecua.com/resources/url-df38112df002157ce4b0/) — Date not recorded
+  A fine-tuned LFM2.5-350M model that selects click, type, or select actions from an instruction and indexed web elements, with a GGUF file for browser inference.
 - [Go-Browse WebArena Qwen 7B](https://awesomecua.com/resources/url-db1b7b7efe3755ae5693/) — Date not recorded
   A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories for website task execution.
 - [Llama-3-8B-Web](https://awesomecua.com/resources/url-7c3e8c4ba52428584079/) — Date not recorded
@@ -237,6 +243,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   A Llama checkpoint trained on demonstrations gathered through WebArena exploration. It takes a task instruction and selects browser actions to navigate webpages.
 - [OpenMobile-8B](https://awesomecua.com/resources/url-6616228d4f267363458e/) — Date not recorded
   Mobile agent checkpoint with a Qwen3-VL architecture, released with OpenMobile and fine-tuned on its synthesized Android trajectories; the code README serves it with vLLM for AndroidWorld evaluation.
+- [OpenWebVoyager/OpenWebVoyager-IL](https://awesomecua.com/resources/url-725f9a8225f0f9c40d93/) — Date not recorded
+  An Idefics2-based multimodal web-agent checkpoint trained by imitation learning on trajectories collected with a web-agent framework.
 - [OS-Genesis 4B AC](https://awesomecua.com/resources/url-b1837823421bd08cb826/) — Date not recorded
   InternVL2-4B checkpoint fine-tuned on OS-Genesis AndroidControl trajectories; its card prompt pairs a screenshot and accessibility tree with the goal and action history to produce the next thought and action.
 - [OS-Genesis 4B AW](https://awesomecua.com/resources/url-a2362e23fdcbc73763e6/) — Date not recorded
@@ -257,6 +265,12 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   WebArena-oriented InternVL2-8B checkpoint trained on web trajectories from OS-Genesis reverse task synthesis; the card's example prompt pairs a screenshot and accessibility tree with the instruction and action history.
 - [PC-Agent-E checkpoint](https://awesomecua.com/resources/url-04aa7569d183379d615c/) — Date not recorded
   Computer-use checkpoint fine-tuned on PC-Agent-E trajectories; the model-card prose identifies Qwen2.5-VL-72B-Instruct as its starting model.
+- [Qwen3-8B-FormFactory-SFT-LoRA](https://awesomecua.com/resources/url-994d4cf27b0931fb53e3/) — Date not recorded
+  A Qwen3-8B LoRA adapter fine-tuned on 992 demonstrations for filling web forms in FormFactory, released with instructions for loading it through PEFT.
+- [Qwen3.5-4B-Browser-Agent-SFT-FP8](https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/) — Date not recorded
+  An FP8 Qwen3.5-4B checkpoint fine-tuned on browser-agent trajectories with structured actions. Its card provides vLLM serving settings and reports BrowseWebApp-Bench v2 results.
+- [SCOPE-SFT-9B](https://awesomecua.com/resources/url-389202404e2653f59838/) — Date not recorded
+  A Qwen3.5-9B computer-use checkpoint trained on desktop task demonstrations and safety response trajectories, with reported task and attack-avoidance evaluations.
 - [STEVE-R1-7B-SFT](https://awesomecua.com/resources/url-666844c28be1138b0e37/) — Date not recorded
   STEVE-R1-7B-SFT is a released computer-use checkpoint trained with step-verified data for desktop agent tasks and evaluated on Windows and Ubuntu environments.
 - [UI-Act model](https://awesomecua.com/resources/github-tobiasnorlund-ui-act-model/) — Date not recorded
@@ -298,12 +312,18 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Explorer synthesizes large-scale multimodal web trajectories through autonomous bottom-up web exploration for training GUI web agents.
 - [Go-Browse](https://awesomecua.com/resources/github-apga-go-browse/) — Date not recorded
   Structured website-exploration and data-processing code that revisits discovered pages, proposes tasks and collects trajectories for web-agent fine-tuning.
+- [GUI Reflection](https://awesomecua.com/resources/github-penghao-wu-gui-reflection/) — Date not recorded
+  GUI Reflection provides agent code that predicts GUI actions from a screen image and task goal, alongside scripts for evaluation and supervised training.
 - [GUI-CIDER research code](https://awesomecua.com/resources/github-wuzheng02-gui-cider/) — Date not recorded
   Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.
 - [GUIPivot](https://awesomecua.com/resources/github-zrw00-guipivot/) — Date not recorded
   Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
 - [hands-off](https://awesomecua.com/resources/github-niramay-kelkar-hands-off/) — Date not recorded
   hands-off discovers UI workflows in legacy back-office software without APIs and compiles them into deterministic replay scripts.
+- [Humanoid](https://awesomecua.com/resources/github-yzygitzh-humanoid/) — Date not recorded
+  Android app exploration component that uses a model learned from human usage traces to rank the input events proposed by DroidBot.
+- [InSTA](https://awesomecua.com/resources/github-data-for-agents-insta/) — Date not recorded
+  Code for a web-agent training pipeline that generates website tasks, collects browser trajectories and filters them by judged success. It also serves an agent in a virtual browser.
 - [Intent Relay WebMCP](https://awesomecua.com/resources/github-midorikuramochi-intent-relay/) — Date not recorded
   Demonstration-driven intent translator that carries user workflow preferences across WebMCP-enabled websites.
 - [LearnAct](https://awesomecua.com/resources/github-lgy0404-learnact/) — Date not recorded
@@ -330,6 +350,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.
 - [Pix2Act](https://awesomecua.com/resources/github-google-deepmind-pix2act/) — Date not recorded
   Pix2Act provides JAX/T5X training and evaluation code for pixel-only GUI agents on MiniWoB++ using behavioral cloning and tree search.
+- [PlayJev](https://awesomecua.com/resources/github-omnijev-playjev/) — Date not recorded
+  A browser-game agent that selects moves from rendered frames. Its repository provides game environments, a demo, and scripts for training and evaluation.
 - [Protean](https://awesomecua.com/resources/github-aibrain-mnemis-protean/) — Date not recorded
   Protean turns everyday human desktop and browser demonstrations into reusable, adaptive agent skills.
 - [record-and-replay-skill](https://awesomecua.com/resources/github-ugarchance-record-and-replay-skill/) — Date not recorded
@@ -352,6 +374,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Training configurations, preprocessing and inference examples for tutorial-trained GUI models, with a LLaMA-Factory fine-tuning workflow and screenshot-grounding interfaces.
 - [UI-Genie](https://awesomecua.com/resources/github-euphoria16-ui-genie/) — Date not recorded
   Training and evaluation code for a mobile-agent framework that iteratively generates trajectories using agent and reward-model feedback.
+- [UI-Mate](https://awesomecua.com/resources/github-tencent-ui-mate/) — Date not recorded
+  UI-Mate is a desktop GUI agent that uses screenshots and keyboard and mouse actions for tasks across applications. It also supports workflows learned from recorded demonstrations.
 - [Understudy](https://awesomecua.com/resources/github-understudy-ai-understudy/) — Date not recorded
   Understudy observes human desktop and browser demonstrations and compiles them into parameterized, replayable computer-use skills.
 - [VideoCAD training and evaluation code](https://awesomecua.com/resources/github-ghadinehme-videocad/) — Date not recorded

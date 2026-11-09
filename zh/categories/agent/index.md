@@ -1,6 +1,6 @@
 # 计算机使用智能体
 
-> AwesomeCUA 目录收录 413 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T16:17:01Z。
+> AwesomeCUA 目录收录 444 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://awesomecua.com/categories/agent/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -70,6 +70,36 @@ Hermes Agent 是 Nous Research 开发的可自我改进的自主智能体，具�
 
 ---
 
+## OpenClaw
+
+OpenClaw 是开源的个人计算机使用助手，可在本地设备上执行浏览器、桌面、终端和消息处理工作流。
+
+- 目录页面：https://awesomecua.com/resources/github-openclaw-openclaw/
+- 原始来源：https://github.com/openclaw/openclaw
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、网页、macOS、Windows、Linux
+- 主题：自动化、工具集成、工作流
+- 证据核查日期：2026-11-04T13:12:29Z
+- ID：github:openclaw/openclaw
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openclaw-openclaw/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/openclaw/openclaw/HEAD/README.md（获取于 2026-11-04T13:12:29Z；SHA-256：6065920be49194c3297db3cc923a5f42ad4c579feea93e987329379a8d5d195d）
+- https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE（获取于 2026-11-04T13:23:26Z；SHA-256：9efd316ecf1c4c60f6fd5d26433142fff2b6794d7d328e9bc6179b29bf9c82a4）
+
+---
+
 ## OpenAI Codex CLI
 
 OpenAI Codex CLI 是本地终端和桌面编程智能体，可在操作系统强制隔离的沙箱中执行命令和编辑文件。
@@ -100,33 +130,33 @@ OpenAI Codex CLI 是本地终端和桌面编程智能体，可在操作系统强
 
 ---
 
-## OpenClaw
+## Agent S
 
-OpenClaw 是开源的个人计算机使用助手，可在本地设备上执行浏览器、桌面、终端和消息处理工作流。
+Simular 的开源计算机使用智能体框架，可在 macOS、Windows 和 Linux 的桌面及网页应用中点击、输入和滚动；第 3 代 Agent S3 报告在 OSWorld 上取得 72.6%。
 
-- 目录页面：https://awesomecua.com/resources/github-openclaw-openclaw/
-- 原始来源：https://github.com/openclaw/openclaw
+- 目录页面：https://awesomecua.com/resources/github-simular-ai-agent-s/
+- 原始来源：https://github.com/simular-ai/Agent-S
 - 类型：智能体
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：跨平台、桌面、网页、macOS、Windows、Linux
-- 主题：自动化、工具集成、工作流
-- 证据核查日期：2026-11-04T13:12:29Z
-- ID：github:openclaw/openclaw
+- 运行环境：桌面
+- 主题：规划、记忆
+- 证据核查日期：2026-10-16T06:36:02Z
+- ID：github:simular-ai/agent-s
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-openclaw-openclaw/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-simular-ai-agent-s/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/openclaw/openclaw/HEAD/README.md（获取于 2026-11-04T13:12:29Z；SHA-256：6065920be49194c3297db3cc923a5f42ad4c579feea93e987329379a8d5d195d）
-- https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE（获取于 2026-11-04T13:23:26Z；SHA-256：9efd316ecf1c4c60f6fd5d26433142fff2b6794d7d328e9bc6179b29bf9c82a4）
+- https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/README.md（获取于 2026-10-16T06:36:02Z；SHA-256：9ea381fdb78eb326d988ea384b6f5074ef0ff4c0d5fab555a148eded385e88f1）
+- https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE（获取于 2026-10-16T06:42:03Z；SHA-256：43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1）
 
 ---
 
@@ -190,36 +220,6 @@ Gemini CLI 是 Google 的开源终端智能体，提供 shell 执行、文件操
 
 ---
 
-## Agent S
-
-Simular 的开源计算机使用智能体框架，可在 macOS、Windows 和 Linux 的桌面及网页应用中点击、输入和滚动；第 3 代 Agent S3 报告在 OSWorld 上取得 72.6%。
-
-- 目录页面：https://awesomecua.com/resources/github-simular-ai-agent-s/
-- 原始来源：https://github.com/simular-ai/Agent-S
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面
-- 主题：规划、记忆
-- 证据核查日期：2026-10-16T06:36:02Z
-- ID：github:simular-ai/agent-s
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-simular-ai-agent-s/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/README.md（获取于 2026-10-16T06:36:02Z；SHA-256：9ea381fdb78eb326d988ea384b6f5074ef0ff4c0d5fab555a148eded385e88f1）
-- https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE（获取于 2026-10-16T06:42:03Z；SHA-256：43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1）
-
----
-
 ## SeeAct
 
 面向 GPT-4V 等大型多模态模型的通用网页智能体框架，提供在在线网站运行智能体的 Playwright 工具、文本选项与标记集定位方法，以及爬虫模式。
@@ -246,6 +246,36 @@ Simular 的开源计算机使用智能体框架，可在 macOS、Windows 和 Lin
 ### 一手证据
 
 - https://raw.githubusercontent.com/OSU-NLP-Group/SeeAct/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：673b0e309540e57ec3b977689b33f89ef80e45ba1c0ffb05e7412e4862f6b99e）
+
+---
+
+## UI-TARS Desktop
+
+由 UI-TARS 和 Seed-1.5-VL/1.6 模型驱动的本地 GUI 智能体桌面应用，提供计算机及浏览器的本地和远程操作器；仓库还提供 Agent TARS CLI 和网页界面。
+
+- 目录页面：https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/
+- 原始来源：https://github.com/bytedance/UI-TARS-desktop
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、网页
+- 主题：工作流
+- 证据核查日期：2026-10-16T06:36:02Z
+- ID：github:bytedance/ui-tars-desktop
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/bytedance/UI-TARS-desktop/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/bytedance/UI-TARS-desktop/HEAD/README.md（获取于 2026-10-16T06:36:02Z；SHA-256：0f05aa4f447d43439f6b3f4ab179cbe1e59d170eaf6c0684fa9c2eb0872e5985）
+- https://raw.githubusercontent.com/bytedance/UI-TARS-desktop/HEAD/LICENSE（获取于 2026-10-16T06:42:03Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 
 ---
 
@@ -280,36 +310,6 @@ The repository has evolved substantially; computer-use functionality is document
 
 - https://raw.githubusercontent.com/OpenInterpreter/open-interpreter/HEAD/README.md（获取于 2026-10-16T06:36:03Z；SHA-256：8f6c33487eca77769798677d32bce15335d0439f129c9a0413e12e0d9e70ab7a）
 - https://raw.githubusercontent.com/OpenInterpreter/open-interpreter/HEAD/LICENSE（获取于 2026-10-16T06:42:04Z；SHA-256：d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc）
-
----
-
-## UI-TARS Desktop
-
-由 UI-TARS 和 Seed-1.5-VL/1.6 模型驱动的本地 GUI 智能体桌面应用，提供计算机及浏览器的本地和远程操作器；仓库还提供 Agent TARS CLI 和网页界面。
-
-- 目录页面：https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/
-- 原始来源：https://github.com/bytedance/UI-TARS-desktop
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、网页
-- 主题：工作流
-- 证据核查日期：2026-10-16T06:36:02Z
-- ID：github:bytedance/ui-tars-desktop
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/bytedance/UI-TARS-desktop/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/bytedance/UI-TARS-desktop/HEAD/README.md（获取于 2026-10-16T06:36:02Z；SHA-256：0f05aa4f447d43439f6b3f4ab179cbe1e59d170eaf6c0684fa9c2eb0872e5985）
-- https://raw.githubusercontent.com/bytedance/UI-TARS-desktop/HEAD/LICENSE（获取于 2026-10-16T06:42:03Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 
 ---
 
@@ -437,6 +437,39 @@ E2B Surf 是基于网页的计算机使用智能体，结合 OpenAI Computer-Usi
 
 ---
 
+## GTA1: GUI Test-time Scaling Agent
+
+GTA1 是一款 GUI 智能体：它采样多个操作提议，由评判模型选出一个，再通过强化学习训练的定位模型将其映射到界面上的目标。
+
+- 目录页面：https://awesomecua.com/resources/github-yan98-gta1/
+- 原始来源：https://github.com/Yan98/GTA1
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：规划、GUI 定位、强化学习、无需训练的方法
+- 证据核查日期：2026-11-09T19:57:38Z
+- ID：github:yan98/gta1
+
+### 范围记录
+
+The repository includes preprocessing and grounding-training code. The README links to separate model checkpoints and a cleaned dataset, and points to an external OSWorld agent implementation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-yan98-gta1/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Yan98/GTA1/HEAD/README.md（获取于 2026-11-09T19:57:38Z；SHA-256：16c633cc2e6e457a37f33b410a93c639edf7b55bb2b590e08f20734da7564951）
+
+---
+
 ## Nanobrowser
 
 浏览器扩展智能体，通过侧边栏任务界面读取页面、操作元素并切换标签页。
@@ -472,6 +505,35 @@ The official repository publishes extension source and a v0.3.0 ZIP release. It 
 - https://api.github.com/repos/nanobrowser/nanobrowser/releases/latest（获取于 2026-10-17T04:01:00Z；SHA-256：c7b28db1b1c8e78d100da066b08db713bc144baff99941b6c94489ef61baee8f）
 - https://raw.githubusercontent.com/nanobrowser/nanobrowser/HEAD/LICENSE（获取于 2026-10-17T04:01:00Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 - https://raw.githubusercontent.com/nanobrowser/nanobrowser/HEAD/LICENSE（获取于 2026-10-17T04:01:00Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## UFO
+
+用于 Windows 应用和桌面自动化的智能体框架。
+
+- 目录页面：https://awesomecua.com/resources/github-microsoft-ufo/
+- 原始来源：https://github.com/microsoft/UFO
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Windows、桌面
+- 主题：规划、跨应用
+- 证据核查日期：2026-10-16T06:36:02Z
+- ID：github:microsoft/ufo
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-microsoft-ufo/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/microsoft/UFO/HEAD/README.md（获取于 2026-10-16T06:36:02Z；SHA-256：40d9a4010ab122ab50242a0cd7a5320e2fd16b3e53494d988eecdbd94fd8e6e8）
 
 ---
 
@@ -566,6 +628,36 @@ The official repository publishes extension source and a v0.3.0 ZIP release. It 
 
 ---
 
+## Claude Quickstarts (Computer Use Demo)
+
+Anthropic 参考实现，包括使用 Xvfb、VNC 和 bash/浏览器工具的容器化 Claude Computer Use 桌面智能体演示。
+
+- 目录页面：https://awesomecua.com/resources/github-anthropics-claude-quickstarts/
+- 原始来源：https://github.com/anthropics/claude-quickstarts
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux、网页
+- 主题：沙箱、自动化、工具集成
+- 证据核查日期：2026-11-04T13:12:07Z
+- ID：github:anthropics/claude-quickstarts
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-anthropics-claude-quickstarts/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/README.md（获取于 2026-11-04T13:12:07Z；SHA-256：535355b019ed44e201847b2454551454d28af36c9f29b8991c7154c1b9afdddb）
+- https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/LICENSE（获取于 2026-11-04T13:42:05Z；SHA-256：d7a04bf11ce24a7b79cd44b4a78dcc9971eaeb3b565821de437e0ecb7723e634）
+
+---
+
 ## DeskMind
 
 DeskMind 是优先在本地运行的 macOS 计算机使用智能体，结合无障碍信息检查、DeskMind Eyes 定位和向用户澄清。
@@ -655,6 +747,36 @@ GPT-4V-Act 结合 Chromium DOM 自动标注与 Set-of-Mark 视觉提示，使用
 
 ---
 
+## Open Computer Use
+
+Open Computer Use 在 E2B Desktop 云端 Linux 沙箱中运行开源视觉语言模型，以自主执行 GUI 任务。
+
+- 目录页面：https://awesomecua.com/resources/github-e2b-dev-open-computer-use/
+- 原始来源：https://github.com/e2b-dev/open-computer-use
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：沙箱、自动化、GUI 定位
+- 证据核查日期：2026-11-04T13:12:13Z
+- ID：github:e2b-dev/open-computer-use
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-e2b-dev-open-computer-use/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/README.md（获取于 2026-11-04T13:12:13Z；SHA-256：5ef533102ffbd847273c11f1139c8a84b6c38d92182abe55e64c902e23fbd13e）
+- https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/LICENSE（获取于 2026-11-04T13:42:06Z；SHA-256：46c828e30f9c217b84ed1843aa08ee79658347042680c6d328f69f6da15fc4ce）
+
+---
+
 ## OpenMausBot
 
 桌面聊天应用，其机器人可运行本地 Claude、Codex 或 Grok CLI，并各自通过 Cua Driver 使用云端 Linux 桌面、本地虚拟机、VPS 或宿主机，还内置浏览器和审批卡片。
@@ -694,6 +816,40 @@ OpenMausBot ships no model: an Electron shell talks to a local harness server th
 
 ---
 
+## Qwen Code
+
+Qwen Code 是开源编程智能体，除终端、编辑器、网页和聊天界面外，还支持通过计算机使用工具实现桌面自动化。
+
+- 目录页面：https://awesomecua.com/resources/github-qwenlm-qwen-code/
+- 原始来源：https://github.com/QwenLM/qwen-code
+- 类型：智能体
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面
+- 主题：自动化、工具集成、工作流
+- 证据核查日期：2026-11-06T16:36:39Z
+- ID：github:qwenlm/qwen-code
+
+### 范围记录
+
+The Web UI and daemon are marked experimental. The daemon listens on loopback without bearer authentication by default.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-qwenlm-qwen-code/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/QwenLM/qwen-code/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/QwenLM/qwen-code/3b39fc2a19bc2063df400e140d0bcdd7505e6152/README.md（获取于 2026-11-06T16:36:39Z；SHA-256：7c35dd6657f02f3260e507445a0b4b4eb7b580e153e185f7daa5dd85c8e6a16b）
+- https://raw.githubusercontent.com/QwenLM/qwen-code/HEAD/LICENSE（获取于 2026-11-06T10:58:04Z；SHA-256：55367b61ccd2a016a0159ad886bd66a3ee6cb5e873d0c75c803c897dd245b075）
+
+---
+
 ## ScreenAgent
 
 环境与智能体系统：视觉语言模型通过 VNC，用鼠标和键盘按规划、执行、反思阶段控制真实桌面；另附人工标注的日常计算机任务数据集。
@@ -723,21 +879,25 @@ OpenMausBot ships no model: an Electron shell talks to a local harness server th
 
 ---
 
-## UFO
+## Taxy AI
 
-用于 Windows 应用和桌面自动化的智能体框架。
+Taxy AI 是一款 Chrome 扩展，可根据用户指令和简化后的页面 DOM 执行点击与文本输入，并在继续操作前查看更新后的页面。
 
-- 目录页面：https://awesomecua.com/resources/github-microsoft-ufo/
-- 原始来源：https://github.com/microsoft/UFO
+- 目录页面：https://awesomecua.com/resources/github-taxyai-browser-extension/
+- 原始来源：https://github.com/TaxyAI/browser-extension
 - 类型：智能体
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：Windows、桌面
-- 主题：规划、跨应用
-- 证据核查日期：2026-10-16T06:36:02Z
-- ID：github:microsoft/ufo
+- 运行环境：网页
+- 主题：网页导航、自动化、交互历史
+- 证据核查日期：2026-11-09T19:57:17Z
+- ID：github:taxyai/browser-extension
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-microsoft-ufo/record.json
+### 范围记录
+
+The repository includes extension source and local build instructions. Running it requires an OpenAI API key. The README describes the release as a research preview.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-taxyai-browser-extension/record.json
 
 ### 许可证信息
 
@@ -748,7 +908,146 @@ OpenMausBot ships no model: an Electron shell talks to a local harness server th
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/microsoft/UFO/HEAD/README.md（获取于 2026-10-16T06:36:02Z；SHA-256：40d9a4010ab122ab50242a0cd7a5320e2fd16b3e53494d988eecdbd94fd8e6e8）
+- https://raw.githubusercontent.com/TaxyAI/browser-extension/HEAD/README.md（获取于 2026-11-09T19:57:17Z；SHA-256：165bd1ac94d4799a951fd2222b4926d8e4804a2b81a0d86f945a6e500a2a15bd）
+
+---
+
+## UI-Mate
+
+UI-Mate 是桌面图形界面智能体，通过截图及键盘、鼠标操作完成跨应用任务。它也支持从录制的演示中学习工作流程。
+
+- 目录页面：https://awesomecua.com/resources/github-tencent-ui-mate/
+- 原始来源：https://github.com/Tencent/UI-Mate
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、Linux、Windows、macOS
+- 主题：跨应用、长任务、模仿学习、强化学习
+- 证据核查日期：2026-11-09T19:55:43Z
+- ID：github:tencent/ui-mate
+
+### 范围记录
+
+The repository describes a desktop client, three linked checkpoints, demonstration capture, and the OSWorkerBench evaluation harness. The client connects to hosted, self-hosted, or on-device models.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-tencent-ui-mate/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Tencent/UI-Mate/HEAD/README.md（获取于 2026-11-09T19:55:43Z；SHA-256：79159221bcd93ff0a6d5f3df42e01ed494f00628267615b676f84c0a11523f72）
+
+---
+
+## Vadgr
+
+Vadgr 通过命令行或手机应用在桌面电脑上运行智能体任务，并可借助屏幕截图和输入控制来自动操作应用。
+
+- 目录页面：https://awesomecua.com/resources/github-montbrain-vadgr/
+- 原始来源：https://github.com/MONTBRAIN/vadgr
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、Linux、Windows、macOS
+- 主题：自动化、界面理解、可观测性、工具集成
+- 证据核查日期：2026-11-09T19:57:39Z
+- ID：github:montbrain/vadgr
+
+### 范围记录
+
+The repository contains a daemon, CLI, tests, and installers. Desktop automation uses a pinned MCP package, and macOS computer use requires Accessibility and Screen Recording permissions.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-montbrain-vadgr/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/MONTBRAIN/vadgr/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MONTBRAIN/vadgr/HEAD/README.md（获取于 2026-11-09T19:57:39Z；SHA-256：385b15391663af58f87ecbe0688ca598257d07c921da42cfa711af7153be7424）
+- https://raw.githubusercontent.com/MONTBRAIN/vadgr/HEAD/LICENSE（获取于 2026-11-09T14:21:11Z；SHA-256：68bc5331a19f6dfbbfd5a2751f73294a8a96f54ca677f675524b52253e1803cf）
+
+---
+
+## VibeSurf
+
+带 Chrome 扩展界面的浏览器助手，可跨标签页并行运行 Browser Use 智能体，通过 Langflow 拖放式浏览器工作流执行登录、数据收集和研究任务，使用本地或托管 LLM。
+
+- 目录页面：https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/
+- 原始来源：https://github.com/vibesurf-ai/VibeSurf
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工作流
+- 证据核查日期：2026-10-19T06:20:04Z
+- ID：github:vibesurf-ai/vibesurf
+
+### 范围记录
+
+pyproject.toml pins browser-use 0.9.5; the README also credits LangGraph and Langflow, and the tree vendors a langflow directory. It installs as a uv tool, a Windows installer or a Docker image with noVNC; from Chrome 142 the extension must be loaded manually. Integrations include Composio and site APIs for Xiaohongshu, Douyin, Weibo and YouTube. The LICENSE is a 'VibeSurf Open Source License' that adds multi-tenant, SaaS, frontend-logo and contributor conditions to Apache-2.0, while pyproject.toml declares plain Apache-2.0, so the code license is left unknown. Latest release 0.5.18 (2026-01-17).
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+- 代码审核：The LICENSE is a custom 'VibeSurf Open Source License' (Apache-2.0 plus multi-tenant, SaaS, frontend-logo and contributor conditions), which conflicts with the plain Apache-2.0 declared in pyproject.toml; no standard identifier applies, so the code license stays unknown.
+  来源：https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/LICENSE, https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/pyproject.toml
+
+### 一手证据
+
+- https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/HEAD/README.md（获取于 2026-10-19T06:20:04Z；SHA-256：7b114b2c218e8555f36f5eeabd6a3c90d6c700cb74b175f0019d08b277d3ed9e）
+- https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/pyproject.toml（获取于 2026-10-18T12:06:28Z；SHA-256：97b5d7bf51bf343eaced126fd67164a5642e56c2a206a41020a70367b68a6f6a）
+- https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/LICENSE（获取于 2026-10-18T12:06:27Z；SHA-256：ca7712f8e100ee3f6ee6316c8fad4be37dfeb0b1e88be27631ec04259ae1b9d7）
+
+---
+
+## Actell
+
+这款 iPhone 智能体原型读取截图或无障碍内容，并通过 CoreDevice 发出点按和拖动操作，连接方式为 VPN 环回或可选的硬件中继。
+
+- 目录页面：https://awesomecua.com/resources/github-ja1chen-actell/
+- 原始来源：https://github.com/ja1chen/actell
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：iOS
+- 主题：手机操作、界面理解、自动化、状态追踪
+- 证据核查日期：2026-11-09T19:58:06Z
+- ID：github:ja1chen/actell
+
+### 范围记录
+
+The repository includes an iOS app, a Swift and Rust device backend, and optional ESP32 firmware. Setup requires Xcode 27, iOS 27 or later, device pairing, and a configured model provider.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ja1chen-actell/record.json
+
+### 许可证信息
+
+- 代码：GPL-3.0 — https://raw.githubusercontent.com/ja1chen/actell/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ja1chen/actell/HEAD/README.md（获取于 2026-11-09T19:58:06Z；SHA-256：494abca8a5bae03443f22fa20e8ea5292a26e2980f337bce5d6933cbadc6231f）
+- https://raw.githubusercontent.com/ja1chen/actell/HEAD/LICENSE（获取于 2026-11-09T14:21:22Z；SHA-256：8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903）
 
 ---
 
@@ -813,6 +1112,70 @@ MIT per LICENSE. Release v2.15 dated 2026-11-01. Needs a supported AI account, a
 
 - https://raw.githubusercontent.com/Konuktor/agent-gauntlet-example-agent/master/README.md（获取于 2026-11-04T18:11:33Z；SHA-256：ad23f322503d7d3029a32d05eb0a4d45b2415ed090aaf003b7ec90cd86869ac2）
 - https://raw.githubusercontent.com/Konuktor/agent-gauntlet-example-agent/HEAD/LICENSE（获取于 2026-11-04T18:16:43Z；SHA-256：22918c4bed6907f7570e308f338130ec1820cbc22dc42e500ac40bacd3907bf9）
+
+---
+
+## AIHawk
+
+AIHawk 根据简历搜索并评估职位，再用 Firefox 填写并提交用户选定的申请。它会保存每个页面的回复和截图。
+
+- 目录页面：https://awesomecua.com/resources/github-feder-cr-aihawk/
+- 原始来源：https://github.com/feder-cr/AIHawk
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Windows、Linux、网页
+- 主题：网页导航、自动化、人机协作、可观测性
+- 证据核查日期：2026-11-09T19:57:37Z
+- ID：github:feder-cr/aihawk
+
+### 范围记录
+
+The repository includes Windows and Linux installation scripts. Installation requires an OrcaRouter key.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-feder-cr-aihawk/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/README.md（获取于 2026-11-09T19:57:37Z；SHA-256：2f90d166fb1bf175a5baf2e0ab4f04292c964b301b42a1695f89c3250bb29dfc）
+- https://raw.githubusercontent.com/feder-cr/AIHawk/HEAD/LICENSE（获取于 2026-11-09T14:21:08Z；SHA-256：f8e26bc469ae827b30a93daa0a6ce8f12a65036334e700600280bf70f0fbbd9e）
+
+---
+
+## Anchor-Inference Daedalus
+
+具有独立桌面应用、持久记忆和计算机使用工具的自我发展型个人 AI 智能体。
+
+- 目录页面：https://awesomecua.com/resources/github-anchor-inference-daedalus/
+- 原始来源：https://github.com/anchor-inference/daedalus
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS、Linux、网页
+- 主题：自我反思、记忆、工具集成、自动化
+- 证据核查日期：2026-11-04T18:11:51Z
+- ID：github:anchor-inference/daedalus
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-anchor-inference-daedalus/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/anchor-inference/daedalus/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/anchor-inference/daedalus/main/README.md（获取于 2026-11-04T18:11:51Z；SHA-256：6f3ddd3a909aee7a38f35ead3371b58364f10b8ed8d4d969979d67b6ea009694）
+- https://raw.githubusercontent.com/anchor-inference/daedalus/HEAD/LICENSE（获取于 2026-11-04T18:16:34Z；SHA-256：c39494f1b809e8ff36904c508fe138b425c223fc7b659c7557d37ac2c6df23b3）
 
 ---
 
@@ -910,6 +1273,40 @@ The quickstart requires Android Studio, ADB, Python dependencies, and access to 
 
 - https://raw.githubusercontent.com/OpenBMB/AppCopilot/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：2bb3ae4d814cf21ef2f70937c88eb4c35edf9556a42359a27ca1c4bd0283f5b3）
 - https://raw.githubusercontent.com/OpenBMB/AppCopilot/HEAD/LICENSE（获取于 2026-11-09T06:13:31Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## Aries AI
+
+Aries AI 是一款 Android 智能体，使用语言模型理解屏幕、规划自然语言任务，并通过无障碍服务或虚拟屏输入操作应用。
+
+- 目录页面：https://awesomecua.com/resources/github-zg0704666-aries-ai/
+- 原始来源：https://github.com/ZG0704666/Aries-AI
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、跨应用、规划、界面理解
+- 证据核查日期：2026-11-09T19:57:03Z
+- ID：github:zg0704666/aries-ai
+
+### 范围记录
+
+The repository contains Android application code and build instructions. The README lists Android 11 or later, model configuration and Shizuku for virtual-screen functions; it declares AGPL-3.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-zg0704666-aries-ai/record.json
+
+### 许可证信息
+
+- 代码：AGPL-3.0 — https://raw.githubusercontent.com/ZG0704666/Aries-AI/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ZG0704666/Aries-AI/HEAD/README.md（获取于 2026-11-09T19:57:03Z；SHA-256：3a6ca2d78eb18c3681a509c37bfd856be9ae51764732b94c1cf6b399b2e35a8f）
+- https://raw.githubusercontent.com/ZG0704666/Aries-AI/HEAD/LICENSE（获取于 2026-11-09T14:20:49Z；SHA-256：04110efd3b7714d5195ba14d63d3db5ae1854e933443095da35e5630aa8d8405）
 
 ---
 
@@ -1013,33 +1410,206 @@ The README points to processed data and trained models in a separate repository,
 
 ---
 
-## Claude Quickstarts (Computer Use Demo)
+## Browser Agent
 
-Anthropic 参考实现，包括使用 Xvfb、VNC 和 bash/浏览器工具的容器化 Claude Computer Use 桌面智能体演示。
+Browser Agent 通过 Chromium 执行自然语言网页任务，提供命令行工具以及可传送进度并返回任务结果的 TypeScript 和 Python SDK。
 
-- 目录页面：https://awesomecua.com/resources/github-anthropics-claude-quickstarts/
-- 原始来源：https://github.com/anthropics/claude-quickstarts
+- 目录页面：https://awesomecua.com/resources/github-visnia-ai-browser-agent/
+- 原始来源：https://github.com/visnia-ai/browser-agent
 - 类型：智能体
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：桌面、Linux、网页
-- 主题：沙箱、自动化、工具集成
-- 证据核查日期：2026-11-04T13:12:07Z
-- ID：github:anthropics/claude-quickstarts
+- 运行环境：网页
+- 主题：网页导航、自动化、工作流
+- 证据核查日期：2026-11-09T19:57:07Z
+- ID：github:visnia-ai/browser-agent
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-anthropics-claude-quickstarts/record.json
+### 范围记录
+
+The README lists Node.js, Chrome or Chromium, and a configured model provider as requirements. It describes encrypted credentials for authenticated web tasks and declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-visnia-ai-browser-agent/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/LICENSE
+- 代码：MIT — https://raw.githubusercontent.com/visnia-ai/browser-agent/HEAD/LICENSE.md
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/README.md（获取于 2026-11-04T13:12:07Z；SHA-256：535355b019ed44e201847b2454551454d28af36c9f29b8991c7154c1b9afdddb）
-- https://raw.githubusercontent.com/anthropics/claude-quickstarts/HEAD/LICENSE（获取于 2026-11-04T13:42:05Z；SHA-256：d7a04bf11ce24a7b79cd44b4a78dcc9971eaeb3b565821de437e0ecb7723e634）
+- https://raw.githubusercontent.com/visnia-ai/browser-agent/HEAD/README.md（获取于 2026-11-09T19:57:07Z；SHA-256：9ed752ea752eefe94fb7facffeadb9d114d781cff22901aa0c478d895942c42f）
+- https://raw.githubusercontent.com/visnia-ai/browser-agent/HEAD/LICENSE.md（获取于 2026-11-09T14:20:51Z；SHA-256：5d44f7c0d69e4fc93d0e2549662437931157d33b68f7662f643d0ba29eb9383e）
+
+---
+
+## BrowserCode
+
+BrowserCode 是一个通过编写 JavaScript、借助开发者工具协议控制 Chrome 的浏览器智能体。它可以使用本地标签页、独立浏览器配置文件或云端浏览器，并保存可复用的脚本。
+
+- 目录页面：https://awesomecua.com/resources/github-browser-use-browsercode/
+- 原始来源：https://github.com/browser-use/browsercode
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化、工具集成
+- 证据核查日期：2026-11-09T19:57:27Z
+- ID：github:browser-use/browsercode
+
+### 范围记录
+
+The README describes a TUI and headless command. Model access uses provider API keys, while cloud browser access uses a Browser Use API key.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-browser-use-browsercode/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/browser-use/browsercode/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/browser-use/browsercode/HEAD/README.md（获取于 2026-11-09T19:57:27Z；SHA-256：0e0dc6070fac54e2b9fc0a89240711f387f835722d5e18a905635fd2a09c7b8c）
+- https://raw.githubusercontent.com/browser-use/browsercode/HEAD/LICENSE（获取于 2026-11-09T14:20:57Z；SHA-256：625f0f619133f89bbbb2abe37369613dfa1885eba1e50d02170deb62bb42cb6b）
+
+---
+
+## CAD-Assistant
+
+CAD-Assistant 通过生成在 FreeCAD 中执行的代码来处理 CAD 任务，并使用草图渲染和实体识别工具检查设计。
+
+- 目录页面：https://awesomecua.com/resources/github-dimitrismallis-cad-assistant/
+- 原始来源：https://github.com/dimitrismallis/CAD-Assistant
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：科学工作流、工具集成、规划、界面理解
+- 证据核查日期：2026-11-09T19:57:04Z
+- ID：github:dimitrismallis/cad-assistant
+
+### 范围记录
+
+The release includes framework code, CAD-specific tools, evaluation scripts, and preprocessed SGP-Bench test files. Configuration requires an OpenAI API key. The README declares an Attribution-NonCommercial License.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-dimitrismallis-cad-assistant/record.json
+
+### 许可证信息
+
+- 代码：CC-BY-NC-4.0 — https://raw.githubusercontent.com/dimitrismallis/CAD-Assistant/HEAD/LICENSE.md
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/dimitrismallis/CAD-Assistant/HEAD/README.md（获取于 2026-11-09T19:57:04Z；SHA-256：335ef770b5d8014d9fd092572c0033015c03cb0efb8032f118655295ff5f664b）
+- https://raw.githubusercontent.com/dimitrismallis/CAD-Assistant/HEAD/LICENSE.md（获取于 2026-11-09T14:20:50Z；SHA-256：3711f963c05d0be80d53e5923308a6dee31b203da23435c9cfb7c7b6e4dd5e19）
+
+---
+
+## CADAgent
+
+这是一个 FreeCAD 分支，内置智能体通过 FreeCAD 操作将聊天请求转化为可编辑的 3D 模型，并包含智能体运行时和聊天面板。
+
+- 目录页面：https://awesomecua.com/resources/github-toreleon-cadagent/
+- 原始来源：https://github.com/toreleon/CADAgent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：科学工作流、自动化、工具集成
+- 证据核查日期：2026-11-09T19:57:13Z
+- ID：github:toreleon/cadagent
+
+### 范围记录
+
+The repository includes the FreeCAD source tree and a CADAgent workbench. It requires a source build and a configured AI provider or local proxy.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-toreleon-cadagent/record.json
+
+### 许可证信息
+
+- 代码：LGPL-2.1 — https://raw.githubusercontent.com/toreleon/CADAgent/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/toreleon/CADAgent/HEAD/README.md（获取于 2026-11-09T19:57:13Z；SHA-256：ec98596a73ab1ba30bbfd4e60b1c6d15d0ba109c38185a5ba539929133f76518）
+- https://raw.githubusercontent.com/toreleon/CADAgent/HEAD/LICENSE（获取于 2026-11-09T14:20:53Z；SHA-256：7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe）
+
+---
+
+## Clicky
+
+一款开源的 macOS 教学助手，结合屏幕截图和语音提问解释屏幕内容，并通过光标浮层指向界面元素。
+
+- 目录页面：https://awesomecua.com/resources/github-farzaa-clicky/
+- 原始来源：https://github.com/farzaa/clicky
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS
+- 主题：界面理解、GUI 定位、人机协作
+- 证据核查日期：2026-11-09T19:56:09Z
+- ID：github:farzaa/clicky
+
+### 范围记录
+
+The repository includes Swift app code and a Cloudflare Worker proxy. Local setup requires macOS, Xcode and API keys for the speech and model services.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-farzaa-clicky/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/farzaa/clicky/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/farzaa/clicky/HEAD/README.md（获取于 2026-11-09T19:56:09Z；SHA-256：03d3ec102b9475fa62af1cfefa8a7e093dc31dd3082789be4bb74bc69e92f9a0）
+- https://raw.githubusercontent.com/farzaa/clicky/HEAD/LICENSE（获取于 2026-11-09T14:20:38Z；SHA-256：3eb6241cdc30b83a6fac3ffed7c36d2be666e8c852260846dcbd92d678b96011）
+
+---
+
+## Cognitive Kernel-Pro
+
+Cognitive Kernel-Pro 是一款深度研究智能体，包含由浏览器支持的网页组件，并可配置多模态模型。其仓库提供代码和运行研究任务的示例。
+
+- 目录页面：https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/
+- 原始来源：https://github.com/Tencent/CognitiveKernel-Pro
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、工具集成、界面理解、评测
+- 证据核查日期：2026-11-09T19:55:58Z
+- ID：github:tencent/cognitivekernel-pro
+
+### 范围记录
+
+The README gives Linux and Mac setup instructions for its web server and examples using model endpoints. It also describes SFT and RL training recipes.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-tencent-cognitivekernel-pro/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Tencent/CognitiveKernel-Pro/HEAD/readme.md（获取于 2026-11-09T19:55:58Z；SHA-256：ef9fed10995ac7d1d196ab5381f93db58e413bf596ebdfc53c711a2d37808c35）
 
 ---
 
@@ -1072,6 +1642,39 @@ Anthropic 参考实现，包括使用 Xvfb、VNC 和 bash/浏览器工具的容�
 
 ---
 
+## CowAgent
+
+CowAgent 是开源智能体，可规划任务并操作电脑、浏览器和外部服务。它将浏览器工具与记忆、技能和服务集成结合起来。
+
+- 目录页面：https://awesomecua.com/resources/github-zhayujie-cowagent/
+- 原始来源：https://github.com/zhayujie/CowAgent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS、Windows、网页、跨平台
+- 主题：规划、网页导航、工具集成、记忆
+- 证据核查日期：2026-11-09T19:56:48Z
+- ID：github:zhayujie/cowagent
+
+### 范围记录
+
+The README documents source installation, a browser-automation install command, and macOS and Windows desktop clients. It shows an MIT license badge.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-zhayujie-cowagent/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/zhayujie/CowAgent/HEAD/README.md（获取于 2026-11-09T19:56:48Z；SHA-256：2c0e51957dd897001a5f14148733593bde3759d8c5fbb0de8717de5770bb7540）
+
+---
+
 ## Cradle
 
 让基础模型仅凭截图通过键盘和鼠标控制游戏及软件的框架，已在 RDR2、Stardew Valley、Cities: Skylines 和 Dealer's Life 2 上展示。
@@ -1099,6 +1702,40 @@ Anthropic 参考实现，包括使用 Xvfb、VNC 和 bash/浏览器工具的容�
 
 - https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/README.md（获取于 2026-10-16T06:36:02Z；SHA-256：fe475d3e92c42807b792c542bc5986bf74caa7d166aea860d368fbe776342a82）
 - https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/LICENSE（获取于 2026-10-16T06:42:04Z；SHA-256：2964861ad96d977da95d891f62d8f5d60873f4a36da0b51f052d9e98ef97d02f）
+
+---
+
+## crowd-test
+
+一个命令行工具在相互隔离的 Chromium 浏览器中运行由不同用户画像驱动的智能体，探索网站易用性，并生成分级问题报告及可选的独立复核结果。
+
+- 目录页面：https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test/
+- 原始来源：https://github.com/anhhuyn411-alt/crowd-test
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、评测、界面设计、鲁棒性
+- 证据核查日期：2026-11-09T19:56:08Z
+- ID：github:anhhuyn411-alt/crowd-test
+
+### 范围记录
+
+The README documents built-in and generated personas, Markdown and HTML reports, JSON results, and optional Playwright and Webwright verification. It lists an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/anhhuyn411-alt/crowd-test/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/anhhuyn411-alt/crowd-test/HEAD/README.md（获取于 2026-11-09T19:56:08Z；SHA-256：6e806456d8a33d14ee1fc80997002f9bd9417241fb2dc3a7f407df8b809285eb）
+- https://raw.githubusercontent.com/anhhuyn411-alt/crowd-test/HEAD/LICENSE（获取于 2026-11-09T14:20:36Z；SHA-256：21c48fd06a7732d1f8b3fa9e8492aee5f20c93c1fce030cb0ede609e1f48ed28）
 
 ---
 
@@ -1163,6 +1800,247 @@ The README describes test generation skills and manual CLI runs. Tests require a
 
 - https://raw.githubusercontent.com/final-run/finalrun-agent/HEAD/README.md（获取于 2026-11-09T06:16:35Z；SHA-256：99e7ce0c6d44957063035afbf407dd05fe5ab0da8e6acece041e866f358b77ee）
 - https://raw.githubusercontent.com/final-run/finalrun-agent/HEAD/LICENSE（获取于 2026-11-09T06:13:39Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## Galley
+
+Galley 是一款桌面智能体，通过屏幕视觉、鼠标和键盘控制、浏览器扩展以及文件和终端工具完成用户任务。
+
+- 目录页面：https://awesomecua.com/resources/github-wangjc683-galley/
+- 原始来源：https://github.com/wangjc683/galley
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、macOS、Windows、网页
+- 主题：自动化、网页导航、工具集成、记忆
+- 证据核查日期：2026-11-09T19:56:22Z
+- ID：github:wangjc683/galley
+
+### 范围记录
+
+The README describes a bundled engine derived from GenericAgent, a Chrome or Edge extension, local memory, and macOS and Windows releases. It also describes an iPhone app as being in development.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-wangjc683-galley/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/wangjc683/galley/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/wangjc683/galley/HEAD/README.md（获取于 2026-11-09T19:56:22Z；SHA-256：a71f1dd8a040aaa907e776eb8115862ae43306c4af4fb4fe6e362d7255d6459b）
+- https://raw.githubusercontent.com/wangjc683/galley/HEAD/LICENSE（获取于 2026-11-09T14:20:41Z；SHA-256：194c94b7a3dc3272bb1005fbb8db41bd1c70cd8be4f8ffc597368a417363531a）
+
+---
+
+## Game AI - Balatro
+
+Game AI - Balatro 结合纸牌和界面控件检测模型，以及在 Balatro 桌面游戏中自动操作的代码。
+
+- 目录页面：https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/
+- 原始来源：https://github.com/proj-airi/game-playing-ai-balatro
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS
+- 主题：界面理解、GUI 定位、自动化
+- 证据核查日期：2026-11-09T19:57:35Z
+- ID：github:proj-airi/game-playing-ai-balatro
+
+### 范围记录
+
+The README links entity and UI detection models, gives script and notebook reproduction steps, and lists macOS screen recording and accessibility permissions.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/proj-airi/game-playing-ai-balatro/HEAD/README.md（获取于 2026-11-09T19:57:35Z；SHA-256：0a077a2250cd0ef940c2ae279a8b5eb8fe2fa2d9799c5186b82ae1d1d1f2355a）
+
+---
+
+## Game AI - Dome Keeper
+
+这是用于游玩《Dome Keeper》的智能体，结合计算机视觉和语言模型。其现用模组以 TypeScript 编写，并转换为 GDScript。
+
+- 目录页面：https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/
+- 原始来源：https://github.com/proj-airi/game-playing-ai-dome-keeper
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Windows、macOS、Linux
+- 主题：界面理解、动作预测、自动化
+- 证据核查日期：2026-11-09T19:57:38Z
+- ID：github:proj-airi/game-playing-ai-dome-keeper
+
+### 范围记录
+
+The repository includes mod source and retains an inactive YOLO frame collector. The setup instructions require a copy of the game and a pinned Godot editor.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/proj-airi/game-playing-ai-dome-keeper/HEAD/README.md（获取于 2026-11-09T19:57:38Z；SHA-256：602152efc8c8c8a465d549fe4d2e72e7979a6abbe3efced6fe407e6814b4cf7d）
+
+---
+
+## Gemini Browser Agent
+
+Chrome 扩展和 Python WebSocket 桥接器，在用户当前标签页运行 Gemini 2.5 Computer Use，将标签页截图发给模型，并通过内容脚本执行点击、输入和滚动。
+
+- 目录页面：https://awesomecua.com/resources/github-pmbstyle-gemini-browser-agent/
+- 原始来源：https://github.com/pmbstyle/gemini-browser-agent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化
+- 证据核查日期：2026-10-20T08:41:39Z
+- ID：github:pmbstyle/gemini-browser-agent
+
+### 范围记录
+
+The README calls the project a research experiment and scaffolding. websocket_agent.py is a local WebSocket server that calls gemini-2.5-computer-use-preview-10-2025 through google-genai with the browser computer-use environment; widget/ is an unpacked Manifest V3 extension with a side panel where the user connects to the bridge and enters a goal. Each turn the extension captures the visible tab with chrome.tabs.captureVisibleTab, the bridge converts the model's 0-1000 normalized coordinates to viewport pixels, and the extension carries out clicks, typing, key presses, hovering, scrolling and navigation by injecting functions (chrome.scripting.executeScript) that dispatch synthetic DOM events at document.elementFromPoint. Drag and drop is approximated with mousedown and mouseup events, unhandled model actions return an unimplemented warning, and the side panel sets a step limit (default 10). It needs a Gemini API key and acts in the user's own browser without a sandbox; the README points to the author's separate gemini-computer-use repository for sandboxed runs. The repository has no license file at the inspected commit.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-pmbstyle-gemini-browser-agent/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+- 代码审核：The inspected recursive tree has no license file and the README names no license; source terms remain unknown.
+  来源：https://api.github.com/repos/pmbstyle/gemini-browser-agent/git/trees/540b6fd7f1bfcfc351b2f7139ea4404cb089472f?recursive=1
+
+### 一手证据
+
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/HEAD/README.md（获取于 2026-10-20T08:41:39Z；SHA-256：e7e20064cbb8a84025f04dddf5a6e849fe05405ed2e779a1fc04cdb3493757bd）
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/README.md（获取于 2026-10-20T08:39:58Z；SHA-256：e7e20064cbb8a84025f04dddf5a6e849fe05405ed2e779a1fc04cdb3493757bd）
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/websocket_agent.py（获取于 2026-10-20T08:40:04Z；SHA-256：a9fdbe483e2717f92dd902577247ef6d5478b55e0d532710fca422ed2887782a）
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/widget/actions/browserActions.js（获取于 2026-10-20T08:40:14Z；SHA-256：2fd9d29f3b2c1c80ca2188e3b10a5682490d11884a57c938f8f56cd809cde394）
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/widget/manifest.json（获取于 2026-10-20T08:40:33Z；SHA-256：7bab746e7cf307067432b25d28ef4dd85c6682b2f88c156bde2208d7409c9ccc）
+- https://api.github.com/repos/pmbstyle/gemini-browser-agent/git/trees/540b6fd7f1bfcfc351b2f7139ea4404cb089472f?recursive=1（获取于 2026-10-20T08:41:08Z；SHA-256：84df487918fcec7f8565aed76ef0c7c4da0e4ee98d3c578e13a7aecebc365d5a）
+
+---
+
+## Gemini Computer Use Agent
+
+Gemini Computer Use Agent 利用截图、Gemini 计算机操作模型和 Playwright 浏览网页并执行浏览器操作，可选择请求用户确认。
+
+- 目录页面：https://awesomecua.com/resources/github-pmbstyle-gemini-computer-use/
+- 原始来源：https://github.com/pmbstyle/gemini-computer-use
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、自动化、人机协作
+- 证据核查日期：2026-11-09T19:56:12Z
+- ID：github:pmbstyle/gemini-computer-use
+
+### 范围记录
+
+The source lists navigation, clicking, typing, scrolling and drag actions. Setup requires a Gemini API key and a Chromium browser.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-pmbstyle-gemini-computer-use/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/pmbstyle/gemini-computer-use/HEAD/README.md（获取于 2026-11-09T19:56:12Z；SHA-256：e41329b18ff03fb9a803c0f07758852682d4ea974465fc8f0ffb41c8d6887cb8）
+
+---
+
+## GUI Reflection
+
+GUI Reflection 提供根据屏幕图像和任务目标预测 GUI 操作的智能体代码，以及评测和监督训练脚本。
+
+- 目录页面：https://awesomecua.com/resources/github-penghao-wu-gui-reflection/
+- 原始来源：https://github.com/penghao-wu/GUI_Reflection
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：自我反思、动作预测、评测、模仿学习
+- 证据核查日期：2026-11-09T19:57:49Z
+- ID：github:penghao-wu/gui_reflection
+
+### 范围记录
+
+The README links separate training datasets and model checkpoints. It says the supplied data omits source images, and declares an Apache-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-penghao-wu-gui-reflection/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/penghao-wu/GUI_Reflection/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/penghao-wu/GUI_Reflection/HEAD/README.md（获取于 2026-11-09T19:57:49Z；SHA-256：60756d8e7b6d04a3dce4c4007d04f5711cf4a57a0a290168c924a70ebc982b11）
+- https://raw.githubusercontent.com/penghao-wu/GUI_Reflection/HEAD/LICENSE（获取于 2026-11-09T14:21:17Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## Humanoid
+
+Android 应用探索组件，使用从人类使用轨迹中学习的模型，对 DroidBot 提出的输入事件排序。
+
+- 目录页面：https://awesomecua.com/resources/github-yzygitzh-humanoid/
+- 原始来源：https://github.com/yzygitzh/Humanoid
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：手机操作、模仿学习、动作预测
+- 证据核查日期：2026-11-09T19:58:04Z
+- ID：github:yzygitzh/humanoid
+
+### 范围记录
+
+The README documents an XMLRPC service and lists Python, TensorFlow, DroidBot, and PyFlann as prerequisites. RICO is needed to train the model from scratch.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-yzygitzh-humanoid/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/yzygitzh/Humanoid/HEAD/README.md（获取于 2026-11-09T19:58:04Z；SHA-256：4db52ff334d9e37ddce1b1bb3d1ea9de19133e732803af23fa4cd114083e8625）
 
 ---
 
@@ -1266,6 +2144,39 @@ The GitHub API reports the repository as archived; the last push was on 5 March 
 
 ---
 
+## Mano skill
+
+Mano skill 根据自然语言指令检查截图并执行鼠标和键盘操作，完成桌面任务。它提供云端和设备端两种模式。
+
+- 目录页面：https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/
+- 原始来源：https://github.com/Mininglamp-AI/mano-skill
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、macOS、Windows、Linux、网页
+- 主题：自动化、界面理解、规划、人机协作
+- 证据核查日期：2026-11-09T19:57:27Z
+- ID：github:mininglamp-ai/mano-skill
+
+### 范围记录
+
+The repository contains a CLI specification and a skill directory. Its local mode uses Mano-P through MLX on Apple Silicon macOS; Windows and Linux adaptations are described as incomplete. The README declares MIT-0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Mininglamp-AI/mano-skill/HEAD/README.md（获取于 2026-11-09T19:57:27Z；SHA-256：5ffad7a2a810e754954652616b98821905cfc18d5cb442d1393e32788bc1c95f）
+
+---
+
 ## Mind2Web-Live
 
 这是面向 Mind2Web-Live 的 SeeAct-V 网页智能体实现。它根据屏幕图像规划操作，并用视觉定位模型确定需要坐标的操作目标。
@@ -1329,33 +2240,37 @@ Minitap mobile-use 是多智能体移动端自动化系统，可根据自然语�
 
 ---
 
-## Open Computer Use
+## OpenAgent
 
-Open Computer Use 在 E2B Desktop 云端 Linux 沙箱中运行开源视觉语言模型，以自主执行 GUI 任务。
+OpenAgent 是可自行托管的助手，其智能体循环能通过导航、点击和填写表单来操作浏览器。它还可运行代码并连接外部工具。
 
-- 目录页面：https://awesomecua.com/resources/github-e2b-dev-open-computer-use/
-- 原始来源：https://github.com/e2b-dev/open-computer-use
+- 目录页面：https://awesomecua.com/resources/github-the-open-agent-openagent/
+- 原始来源：https://github.com/the-open-agent/openagent
 - 类型：智能体
 - 审核状态：已审核
 - 范围：核心
-- 运行环境：桌面、Linux
-- 主题：沙箱、自动化、GUI 定位
-- 证据核查日期：2026-11-04T13:12:13Z
-- ID：github:e2b-dev/open-computer-use
+- 运行环境：跨平台、桌面、Linux、macOS、Windows、网页
+- 主题：网页导航、自动化、工具集成、可观测性
+- 证据核查日期：2026-11-09T19:57:27Z
+- ID：github:the-open-agent/openagent
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-e2b-dev-open-computer-use/record.json
+### 范围记录
+
+The repository provides source code, build instructions and prebuilt binaries for Linux, macOS and Windows. The README declares an Apache 2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-the-open-agent-openagent/record.json
 
 ### 许可证信息
 
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/LICENSE
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/the-open-agent/openagent/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/README.md（获取于 2026-11-04T13:12:13Z；SHA-256：5ef533102ffbd847273c11f1139c8a84b6c38d92182abe55e64c902e23fbd13e）
-- https://raw.githubusercontent.com/e2b-dev/open-computer-use/HEAD/LICENSE（获取于 2026-11-04T13:42:06Z；SHA-256：46c828e30f9c217b84ed1843aa08ee79658347042680c6d328f69f6da15fc4ce）
+- https://raw.githubusercontent.com/the-open-agent/openagent/HEAD/README.md（获取于 2026-11-09T19:57:27Z；SHA-256：0a75934a9873f836f2e60429b4707f75662b212b9a5bfc29ed951857bf0e4045）
+- https://raw.githubusercontent.com/the-open-agent/openagent/HEAD/LICENSE（获取于 2026-11-09T14:20:57Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
 
 ---
 
@@ -1394,6 +2309,177 @@ The repository (ID 946708780, created 2025-03-11) keeps its original name and a 
 - https://raw.githubusercontent.com/openai/openai-cua-sample-app/HEAD/python-app/app/responses_loop.py（获取于 2026-10-18T11:15:00Z；SHA-256：bba5f3c71f4a56fe6ad4ce6eded667e88ed32f3af9dae962a312823599a018b5）
 - https://raw.githubusercontent.com/openai/openai-cua-sample-app/HEAD/LICENSE（获取于 2026-10-18T11:14:48Z；SHA-256：13df7812ca53ecaae1cb4a868844bb598373047ae1d580e4debfbef1dd5b6915）
 - https://raw.githubusercontent.com/openai/openai-cua-sample-app/HEAD/LICENSE（获取于 2026-10-18T11:14:48Z；SHA-256：13df7812ca53ecaae1cb4a868844bb598373047ae1d580e4debfbef1dd5b6915）
+
+---
+
+## OpenMinis
+
+OpenMinis 是面向 iOS 和 Android 的开源移动智能体，可与网站和设备工具交互，并在设备上的 Linux 沙箱中运行脚本。
+
+- 目录页面：https://awesomecua.com/resources/github-openminis-openminis/
+- 原始来源：https://github.com/OpenMinis/OpenMinis
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、iOS、Android、网页
+- 主题：网页导航、手机操作、工具集成、沙箱
+- 证据核查日期：2026-11-09T19:56:41Z
+- ID：github:openminis/openminis
+
+### 范围记录
+
+The README links to an App Store listing and an Android APK release. It describes API-key or account-based model access and declares a GPL v3 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openminis-openminis/record.json
+
+### 许可证信息
+
+- 代码：GPL-3.0 — https://raw.githubusercontent.com/OpenMinis/OpenMinis/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/OpenMinis/OpenMinis/HEAD/README.md（获取于 2026-11-09T19:56:41Z；SHA-256：4132119846058ba47347353dbf68237a6ad38a02b8f6b7f542a4331c77c64f4c）
+- https://raw.githubusercontent.com/OpenMinis/OpenMinis/HEAD/LICENSE（获取于 2026-11-09T14:20:45Z；SHA-256：3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986）
+
+---
+
+## OpenWebVoyager
+
+OpenWebVoyager 通过迭代式真实网页探索、反馈验证和轨迹调优，训练多模态网页导航智能体。
+
+- 目录页面：https://awesomecua.com/resources/github-minorjerry-openwebvoyager/
+- 原始来源：https://github.com/MinorJerry/OpenWebVoyager
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、模仿学习、强化学习
+- 证据核查日期：2026-11-04T13:12:26Z
+- ID：github:minorjerry/openwebvoyager
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-minorjerry-openwebvoyager/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/README.md（获取于 2026-11-04T13:12:26Z；SHA-256：d21bff8addefac48b0f1d8957c6cefdf04ece467ac616fb0eb7669793603d732）
+- https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/LICENSE（获取于 2026-11-04T13:23:25Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## Operit AI
+
+这是一个 Android 智能体平台，利用视觉屏幕理解、设备控制和浏览器操作来操控应用界面与网页。
+
+- 目录页面：https://awesomecua.com/resources/github-aaswordman-operit/
+- 原始来源：https://github.com/AAswordman/Operit
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android、网页
+- 主题：手机操作、网页导航、自动化、工具集成
+- 证据核查日期：2026-11-09T19:58:08Z
+- ID：github:aaswordman/operit
+
+### 范围记录
+
+The README describes Accessibility, Shizuku, and Root options for Android automation, plus cloud and local model support. The repository contains Android app code.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-aaswordman-operit/record.json
+
+### 许可证信息
+
+- 代码：LGPL-3.0 — https://raw.githubusercontent.com/AAswordman/Operit/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/AAswordman/Operit/HEAD/README.md（获取于 2026-11-09T19:58:08Z；SHA-256：e675f79170f744802f68d9b72fd29b08ff644fbd09130deba71418a9afb0622a）
+- https://raw.githubusercontent.com/AAswordman/Operit/HEAD/LICENSE（获取于 2026-11-09T14:21:22Z；SHA-256：e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118）
+
+---
+
+## Orca
+
+Rust 编写的 DeepSeek 原生终端编程智能体，内置 macOS 计算机使用驱动；经逐应用批准后，可查看其他应用的无障碍树和截图，并点击、输入、发送按键和滚动。
+
+- 目录页面：https://awesomecua.com/resources/github-echovic-orca-agent/
+- 原始来源：https://github.com/echoVic/orca-agent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：桌面、macOS
+- 主题：工具集成、安全与防护
+- 证据核查日期：2026-10-20T08:18:08Z
+- ID：github:echovic/orca-agent
+
+### 范围记录
+
+Published by echoVic as the npm package @blade-ai/orca and native binaries for macOS, Linux and Windows; it is primarily a coding agent that reads and edits code and runs commands with a DeepSeek API key. Computer use is one feature: on macOS 14 or later, in the main interactive TUI session, a `computer` tool backed by the bundled crates/orca-computer-use driver lists and launches apps, observes a window as an accessibility-element outline with ids plus an optional screenshot, and clicks, types, sends keys and scrolls on targets (protocol.rs, observation.rs). Per the computer-use docs, each app needs approval unless a rule or full-auto mode allows it, typing into secure password fields always asks separately, password managers and finance apps are blocked by default, Orca never operates its own host terminal, plan mode only lists and observes, and Esc stops the run. Browser tools used from the separate Pilion Browser come from that host. Root LICENSE is MIT; the latest GitHub release is v0.5.12.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-echovic-orca-agent/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/README.md（获取于 2026-10-20T08:18:08Z；SHA-256：64e8367a7bda385173791eceaa010d0671b716f635dbe3cabd467a193f266d0b）
+- https://api.github.com/repos/echoVic/orca-agent/git/trees/a016619a31739c938627b611ea7b1bc54572e658?recursive=1（获取于 2026-10-20T08:17:29Z；SHA-256：fa30755f1d89e38a6ecbb1f2d59cee1d54d0a626bcf23f3066927f8464ea7ba9）
+- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/LICENSE（获取于 2026-10-20T08:17:33Z；SHA-256：ca3956b24fe4d01f280e49f616774a467372007a090ebe9f56b1df7dbfb1de86）
+- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/site/src/docs/md/en/computer-use.mdx（获取于 2026-10-20T08:17:33Z；SHA-256：90378918b4a056b3fbc4d67141e1c158b268203d1b35208ce4dcdcf109e0dbdb）
+- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/crates/orca-computer-use/src/protocol.rs（获取于 2026-10-20T08:17:34Z；SHA-256：89778d5b83be50682142b7db9709d3368174717e79fc448a4a9945cac2e48477）
+- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/crates/orca-computer-use/src/observation.rs（获取于 2026-10-20T08:17:34Z；SHA-256：fc3df4cb6b4528cf6fe77a4323999734cecd093e7023ebcb930e32ee5f085f0f）
+- https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/LICENSE（获取于 2026-10-20T08:18:12Z；SHA-256：ca3956b24fe4d01f280e49f616774a467372007a090ebe9f56b1df7dbfb1de86）
+
+---
+
+## Orion
+
+生物医学分析智能体，在 Ubuntu 虚拟机中操作科学桌面应用、浏览器和终端工具。其仓库包含任务配置和启动脚本。
+
+- 目录页面：https://awesomecua.com/resources/github-genentech-orion/
+- 原始来源：https://github.com/Genentech/Orion
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、Linux、网页
+- 主题：科学工作流、工具集成、工作流、界面理解
+- 证据核查日期：2026-11-09T19:57:15Z
+- ID：github:genentech/orion
+
+### 范围记录
+
+The README lists CellProfiler, QuPath, and napari workflows. Setup requires VMware and an Ubuntu guest image; the repository includes agent runtime code, task configs, tools, and comparison runners. The repository layout names an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-genentech-orion/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/Genentech/Orion/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Genentech/Orion/HEAD/README.md（获取于 2026-11-09T19:57:15Z；SHA-256：8f924d3dfd9991aee0c9db670b6d97cf35c76766508b02decb23176b3ae6a43c）
+- https://raw.githubusercontent.com/Genentech/Orion/HEAD/LICENSE（获取于 2026-11-09T14:20:53Z；SHA-256：08ea5491726e2f87ab21b4a99b6cfcc97076244c3e824033d7cbbb8e6a213788）
 
 ---
 
@@ -1454,6 +2540,40 @@ Page Agent 是 Alibaba 开发的页内 JavaScript GUI 智能体，通过 DOM 脱
 
 - https://raw.githubusercontent.com/alibaba/page-agent/HEAD/README.md（获取于 2026-11-04T14:02:36Z；SHA-256：bb8f2665e9ec71541145eeeb308ccfecd400caecb2123ce4ee9053f9995d1f51）
 - https://raw.githubusercontent.com/alibaba/page-agent/HEAD/LICENSE（获取于 2026-11-04T14:07:45Z；SHA-256：393ad563ce5dd0bbe283ec40f9f5d631817262bc9bbd5eb17ed038a9d9f44803）
+
+---
+
+## PlayJev
+
+一个根据渲染画面选择操作的浏览器游戏智能体。其仓库提供游戏环境、演示，以及训练和评估脚本。
+
+- 目录页面：https://awesomecua.com/resources/github-omnijev-playjev/
+- 原始来源：https://github.com/OmniJev/PlayJev
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：动作预测、模仿学习、界面理解、评测
+- 证据核查日期：2026-11-09T19:57:55Z
+- ID：github:omnijev/playjev
+
+### 范围记录
+
+The README links released weights and training records on Hugging Face. It describes teacher labeling and three DAgger rounds.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-omnijev-playjev/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/OmniJev/PlayJev/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/OmniJev/PlayJev/HEAD/README.md（获取于 2026-11-09T19:57:55Z；SHA-256：40a3e31406568c43de60f50c95201bdadb94457a38d4c389abc3790017b87b0c）
+- https://raw.githubusercontent.com/OmniJev/PlayJev/HEAD/LICENSE（获取于 2026-11-09T14:21:17Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
 
 ---
 
@@ -1527,40 +2647,6 @@ The repository is the scaffold for Convergence AI's proxy-lite-3b model: a CLI (
 - https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/src/proxy_lite/agents/proxy_lite_agent.py（获取于 2026-10-19T06:47:30Z；SHA-256：e19427b2b64c1c0b26e163c8532df43846153a0aa4e21ef2aef733c345015807）
 - https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/pyproject.toml（获取于 2026-10-19T06:47:30Z；SHA-256：5ee90766c962e95294ae81faf1b758486befe9cfe62548d1cb55d7d1e8373903）
 - https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/LICENSE（获取于 2026-10-19T06:47:30Z；SHA-256：58861e2641c884b02cc0f8b589fbbb17657df93ed0da92534c1cec8b543be4c4）
-
----
-
-## Qwen Code
-
-Qwen Code 是开源编程智能体，除终端、编辑器、网页和聊天界面外，还支持通过计算机使用工具实现桌面自动化。
-
-- 目录页面：https://awesomecua.com/resources/github-qwenlm-qwen-code/
-- 原始来源：https://github.com/QwenLM/qwen-code
-- 类型：智能体
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：桌面
-- 主题：自动化、工具集成、工作流
-- 证据核查日期：2026-11-06T16:36:39Z
-- ID：github:qwenlm/qwen-code
-
-### 范围记录
-
-The Web UI and daemon are marked experimental. The daemon listens on loopback without bearer authentication by default.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-qwenlm-qwen-code/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/QwenLM/qwen-code/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/QwenLM/qwen-code/3b39fc2a19bc2063df400e140d0bcdd7505e6152/README.md（获取于 2026-11-06T16:36:39Z；SHA-256：7c35dd6657f02f3260e507445a0b4b4eb7b580e153e185f7daa5dd85c8e6a16b）
-- https://raw.githubusercontent.com/QwenLM/qwen-code/HEAD/LICENSE（获取于 2026-11-06T10:58:04Z；SHA-256：55367b61ccd2a016a0159ad886bd66a3ee6cb5e873d0c75c803c897dd245b075）
 
 ---
 
@@ -1639,6 +2725,40 @@ The README points to packaged extension releases and says users configure an AI 
 
 ---
 
+## sentineldesk-agent
+
+sentineldesk-agent 通过 MCP 工具操作 Linux 桌面，提供终端和浏览器聊天界面，并记录目标、操作及结果。
+
+- 目录页面：https://awesomecua.com/resources/github-sentineldesk-agent/
+- 原始来源：https://github.com/sentineldesk/agent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux、网页
+- 主题：自动化、可观测性、安全与防护、工具集成
+- 证据核查日期：2026-11-09T19:56:08Z
+- ID：github:sentineldesk/agent
+
+### 范围记录
+
+The README describes a static Go binary, local session history in agent.db and a Unix socket connection to the desktop. It lists several model providers.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-sentineldesk-agent/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/sentineldesk/agent/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/sentineldesk/agent/HEAD/README.md（获取于 2026-11-09T19:56:08Z；SHA-256：045f36991335a37cce970987e10740efd03c75f08c32451d59b7d0889496135a）
+- https://raw.githubusercontent.com/sentineldesk/agent/HEAD/LICENSE（获取于 2026-11-09T14:20:36Z；SHA-256：bc5869f2c673f67af3374aa4232321d27217492f2649b98c5d3730b6446fa0a9）
+
+---
+
 ## ShowUI-Aloha
 
 桌面智能体，可录制操作演示、提取语义动作轨迹，并据此规划和执行相关工作流程。
@@ -1699,6 +2819,40 @@ TalkAct 是一款双模型语音与计算机使用智能体，可在执行后台
 
 ---
 
+## TENKA
+
+TENKA 是 Windows 语音智能体，通过浏览器控制、原生界面操作和视觉后备方式完成浏览器及桌面任务，并保存对话记忆。
+
+- 目录页面：https://awesomecua.com/resources/github-om-khode-tenka/
+- 原始来源：https://github.com/Om-Khode/TENKA
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Windows、网页
+- 主题：自动化、网页导航、规划、记忆
+- 证据核查日期：2026-11-09T19:56:29Z
+- ID：github:om-khode/tenka
+
+### 范围记录
+
+The README specifies Windows, Python and a microphone for voice use; terminal-only use works without a microphone. It describes Gemini, Groq, Cerebras and Ollama as model options and states an Apache 2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-om-khode-tenka/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/Om-Khode/TENKA/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Om-Khode/TENKA/HEAD/README.md（获取于 2026-11-09T19:56:29Z；SHA-256：a9d4463fdd9fc4adc0cbc75d2e4afcb044ffd425722d884a6e3ab70b82bb8ff6）
+- https://raw.githubusercontent.com/Om-Khode/TENKA/HEAD/LICENSE（获取于 2026-11-09T14:20:43Z；SHA-256：eefa75ad285e3da70d21c58d0f17f9eda2c90268ba1b9d8f27fd612c31ab3f11）
+
+---
+
 ## Thursday
 
 Thursday 是语音驱动的计算机助手，将后台网页浏览和桌面自动化任务委派给 Playwright 子智能体。
@@ -1726,6 +2880,73 @@ Thursday 是语音驱动的计算机助手，将后台网页浏览和桌面自�
 
 - https://raw.githubusercontent.com/cgoinglove/thursday/HEAD/README.md（获取于 2026-11-04T13:12:09Z；SHA-256：5fe34027f92394e4c8137452dad36470fb2f136d3a71068a52d596227f211f19）
 - https://raw.githubusercontent.com/cgoinglove/thursday/HEAD/LICENSE（获取于 2026-11-04T13:42:15Z；SHA-256：54a5f0ee58c88993fdcc5c1208a2550956eaf201629f22a0d2f4813adef957ec）
+
+---
+
+## universe-starter-agent
+
+这款已弃用的入门智能体使用 A3C 训练，在 Universe 游戏中操作，包括通过 VNC 远程桌面运行、观察和操作存在延迟的游戏。
+
+- 目录页面：https://awesomecua.com/resources/github-openai-universe-starter-agent/
+- 原始来源：https://github.com/openai/universe-starter-agent
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：强化学习、历史、自动化
+- 证据核查日期：2026-11-09T19:56:04Z
+- ID：github:openai/universe-starter-agent
+
+### 范围记录
+
+The repository provides training, worker and model code. Its README names Python, TensorFlow, Gym and Universe as dependencies and says it was deprecated in favor of Retro.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openai-universe-starter-agent/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/openai/universe-starter-agent/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/openai/universe-starter-agent/HEAD/README.md（获取于 2026-11-09T19:56:04Z；SHA-256：3a3d4d183adeee285d77f4b6148d463da2ababfe7230528e7c09445c947d8ebc）
+- https://raw.githubusercontent.com/openai/universe-starter-agent/HEAD/LICENSE（获取于 2026-11-09T14:20:35Z；SHA-256：3ca5350d7a758aa45f69ce109545df3f9f96d8cd3376249f545cdeafed8bb24e）
+
+---
+
+## VersaiOS
+
+VersaiOS 使用视觉语言模型定位 iPhone 屏幕上的目标，再通过 ESP32 蓝牙鼠标根据自然语言指令执行点击。
+
+- 目录页面：https://awesomecua.com/resources/github-zhaodashuaibi-versaios/
+- 原始来源：https://github.com/zhaodashuaibi/VersaiOS
+- 类型：智能体
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：iOS
+- 主题：手机操作、GUI 定位、自动化
+- 证据核查日期：2026-11-09T19:57:13Z
+- ID：github:zhaodashuaibi/versaios
+
+### 范围记录
+
+The README describes Python controller code, ESP32 firmware, a graphical console, and a required screen-mirroring setup. Its badge declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-zhaodashuaibi-versaios/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/zhaodashuaibi/VersaiOS/HEAD/README.md（获取于 2026-11-09T19:57:13Z；SHA-256：93254265dc299b025b875acd287616ec44215b09362cf9b4d7f65dcc2c14bd9b）
 
 ---
 
@@ -2721,36 +3942,6 @@ AIVANE 是跨平台 GUI 自动化助手，结合 YOLO 图标检测、OCR 和多�
 ### 一手证据
 
 - https://raw.githubusercontent.com/build-on-aws/amazon-bedrock-minecraft-agent/HEAD/README.md（获取于 2026-11-04T13:12:08Z；SHA-256：de73a74eff7e025990f7701adb025b853f68d0fd0ee6bac85134ad4eb19b922e）
-
----
-
-## Anchor-Inference Daedalus
-
-具有独立桌面应用、持久记忆和计算机使用工具的自我发展型个人 AI 智能体。
-
-- 目录页面：https://awesomecua.com/resources/github-anchor-inference-daedalus/
-- 原始来源：https://github.com/anchor-inference/daedalus
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、macOS、Linux、网页
-- 主题：自我反思、记忆、工具集成、自动化
-- 证据核查日期：2026-11-04T18:11:51Z
-- ID：github:anchor-inference/daedalus
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-anchor-inference-daedalus/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/anchor-inference/daedalus/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/anchor-inference/daedalus/main/README.md（获取于 2026-11-04T18:11:51Z；SHA-256：6f3ddd3a909aee7a38f35ead3371b58364f10b8ed8d4d969979d67b6ea009694）
-- https://raw.githubusercontent.com/anchor-inference/daedalus/HEAD/LICENSE（获取于 2026-11-04T18:16:34Z；SHA-256：c39494f1b809e8ff36904c508fe138b425c223fc7b659c7557d37ac2c6df23b3）
 
 ---
 
@@ -6246,47 +7437,6 @@ GACUA 是基于 Gemini CLI 构建的开箱即用的计算机使用智能体，�
 
 - https://raw.githubusercontent.com/openmule/gacua/HEAD/README.md（获取于 2026-11-04T14:02:37Z；SHA-256：29b7ba2921c1ad8aeaf985317112b489b350f69363f92dceb2ba6cb8df58f9f6）
 - https://raw.githubusercontent.com/openmule/gacua/HEAD/LICENSE（获取于 2026-11-04T14:07:45Z；SHA-256：09d2d564b15d1a8be7713524b27aa8b10e55ae7cd8aeaf1e04e6059adda0de10）
-
----
-
-## Gemini Browser Agent
-
-Chrome 扩展和 Python WebSocket 桥接器，在用户当前标签页运行 Gemini 2.5 Computer Use，将标签页截图发给模型，并通过内容脚本执行点击、输入和滚动。
-
-- 目录页面：https://awesomecua.com/resources/github-pmbstyle-gemini-browser-agent/
-- 原始来源：https://github.com/pmbstyle/gemini-browser-agent
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、自动化
-- 证据核查日期：2026-10-20T08:41:39Z
-- ID：github:pmbstyle/gemini-browser-agent
-
-### 范围记录
-
-The README calls the project a research experiment and scaffolding. websocket_agent.py is a local WebSocket server that calls gemini-2.5-computer-use-preview-10-2025 through google-genai with the browser computer-use environment; widget/ is an unpacked Manifest V3 extension with a side panel where the user connects to the bridge and enters a goal. Each turn the extension captures the visible tab with chrome.tabs.captureVisibleTab, the bridge converts the model's 0-1000 normalized coordinates to viewport pixels, and the extension carries out clicks, typing, key presses, hovering, scrolling and navigation by injecting functions (chrome.scripting.executeScript) that dispatch synthetic DOM events at document.elementFromPoint. Drag and drop is approximated with mousedown and mouseup events, unhandled model actions return an unimplemented warning, and the side panel sets a step limit (default 10). It needs a Gemini API key and acts in the user's own browser without a sandbox; the README points to the author's separate gemini-computer-use repository for sandboxed runs. The repository has no license file at the inspected commit.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-pmbstyle-gemini-browser-agent/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-- 代码审核：The inspected recursive tree has no license file and the README names no license; source terms remain unknown.
-  来源：https://api.github.com/repos/pmbstyle/gemini-browser-agent/git/trees/540b6fd7f1bfcfc351b2f7139ea4404cb089472f?recursive=1
-
-### 一手证据
-
-- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/HEAD/README.md（获取于 2026-10-20T08:41:39Z；SHA-256：e7e20064cbb8a84025f04dddf5a6e849fe05405ed2e779a1fc04cdb3493757bd）
-- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/README.md（获取于 2026-10-20T08:39:58Z；SHA-256：e7e20064cbb8a84025f04dddf5a6e849fe05405ed2e779a1fc04cdb3493757bd）
-- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/websocket_agent.py（获取于 2026-10-20T08:40:04Z；SHA-256：a9fdbe483e2717f92dd902577247ef6d5478b55e0d532710fca422ed2887782a）
-- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/widget/actions/browserActions.js（获取于 2026-10-20T08:40:14Z；SHA-256：2fd9d29f3b2c1c80ca2188e3b10a5682490d11884a57c938f8f56cd809cde394）
-- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/widget/manifest.json（获取于 2026-10-20T08:40:33Z；SHA-256：7bab746e7cf307067432b25d28ef4dd85c6682b2f88c156bde2208d7409c9ccc）
-- https://api.github.com/repos/pmbstyle/gemini-browser-agent/git/trees/540b6fd7f1bfcfc351b2f7139ea4404cb089472f?recursive=1（获取于 2026-10-20T08:41:08Z；SHA-256：84df487918fcec7f8565aed76ef0c7c4da0e4ee98d3c578e13a7aecebc365d5a）
 
 ---
 
@@ -10059,36 +11209,6 @@ Developer preview based on LineageOS 23.2 / Android 16, targeting the Pixel 9a f
 
 ---
 
-## OpenWebVoyager
-
-OpenWebVoyager 通过迭代式真实网页探索、反馈验证和轨迹调优，训练多模态网页导航智能体。
-
-- 目录页面：https://awesomecua.com/resources/github-minorjerry-openwebvoyager/
-- 原始来源：https://github.com/MinorJerry/OpenWebVoyager
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、模仿学习、强化学习
-- 证据核查日期：2026-11-04T13:12:26Z
-- ID：github:minorjerry/openwebvoyager
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-minorjerry-openwebvoyager/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/README.md（获取于 2026-11-04T13:12:26Z；SHA-256：d21bff8addefac48b0f1d8957c6cefdf04ece467ac616fb0eb7669793603d732）
-- https://raw.githubusercontent.com/MinorJerry/OpenWebVoyager/HEAD/LICENSE（获取于 2026-11-04T13:23:25Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
-
----
-
 ## Opus
 
 macOS Electron 应用，其 OpenAI Agents SDK 循环依据元素列表和截图，通过 AppleScript、无障碍元素点击、按键、shell 命令及 URI 操作应用。
@@ -10155,45 +11275,6 @@ initAgents.ts defines an app-selection agent and an action agent, both configure
 
 - https://raw.githubusercontent.com/mostafa-kermaninia/Orbit-Local-AI-Agent/main/README.md（获取于 2026-11-04T17:55:09Z；SHA-256：d6fb87c42377b0b4d44a1d75be392174ce3ed185d153f83395670f2acb86d67a）
 - https://raw.githubusercontent.com/mostafa-kermaninia/Orbit-Local-AI-Agent/HEAD/LICENSE（获取于 2026-11-04T18:00:39Z；SHA-256：fd2d74787c6484d828d9e28a6c3f4e3ab0f9ba23c0b8888ea61f5a1ef8366334）
-
----
-
-## Orca
-
-Rust 编写的 DeepSeek 原生终端编程智能体，内置 macOS 计算机使用驱动；经逐应用批准后，可查看其他应用的无障碍树和截图，并点击、输入、发送按键和滚动。
-
-- 目录页面：https://awesomecua.com/resources/github-echovic-orca-agent/
-- 原始来源：https://github.com/echoVic/orca-agent
-- 类型：智能体
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：桌面、macOS
-- 主题：工具集成、安全与防护
-- 证据核查日期：2026-10-20T08:18:08Z
-- ID：github:echovic/orca-agent
-
-### 范围记录
-
-Published by echoVic as the npm package @blade-ai/orca and native binaries for macOS, Linux and Windows; it is primarily a coding agent that reads and edits code and runs commands with a DeepSeek API key. Computer use is one feature: on macOS 14 or later, in the main interactive TUI session, a `computer` tool backed by the bundled crates/orca-computer-use driver lists and launches apps, observes a window as an accessibility-element outline with ids plus an optional screenshot, and clicks, types, sends keys and scrolls on targets (protocol.rs, observation.rs). Per the computer-use docs, each app needs approval unless a rule or full-auto mode allows it, typing into secure password fields always asks separately, password managers and finance apps are blocked by default, Orca never operates its own host terminal, plan mode only lists and observes, and Esc stops the run. Browser tools used from the separate Pilion Browser come from that host. Root LICENSE is MIT; the latest GitHub release is v0.5.12.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-echovic-orca-agent/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/README.md（获取于 2026-10-20T08:18:08Z；SHA-256：64e8367a7bda385173791eceaa010d0671b716f635dbe3cabd467a193f266d0b）
-- https://api.github.com/repos/echoVic/orca-agent/git/trees/a016619a31739c938627b611ea7b1bc54572e658?recursive=1（获取于 2026-10-20T08:17:29Z；SHA-256：fa30755f1d89e38a6ecbb1f2d59cee1d54d0a626bcf23f3066927f8464ea7ba9）
-- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/LICENSE（获取于 2026-10-20T08:17:33Z；SHA-256：ca3956b24fe4d01f280e49f616774a467372007a090ebe9f56b1df7dbfb1de86）
-- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/site/src/docs/md/en/computer-use.mdx（获取于 2026-10-20T08:17:33Z；SHA-256：90378918b4a056b3fbc4d67141e1c158b268203d1b35208ce4dcdcf109e0dbdb）
-- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/crates/orca-computer-use/src/protocol.rs（获取于 2026-10-20T08:17:34Z；SHA-256：89778d5b83be50682142b7db9709d3368174717e79fc448a4a9945cac2e48477）
-- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/crates/orca-computer-use/src/observation.rs（获取于 2026-10-20T08:17:34Z；SHA-256：fc3df4cb6b4528cf6fe77a4323999734cecd093e7023ebcb930e32ee5f085f0f）
-- https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/LICENSE（获取于 2026-10-20T08:18:12Z；SHA-256：ca3956b24fe4d01f280e49f616774a467372007a090ebe9f56b1df7dbfb1de86）
 
 ---
 
@@ -12216,44 +13297,6 @@ UI Act 是 Linux 桌面计算机使用智能体，通过专用的虚拟鼠标和
 
 - https://raw.githubusercontent.com/AlperT-Code/VeraAI-Assistant-1.1/main/README.md（获取于 2026-11-04T17:20:52Z；SHA-256：e260438173d12e74b64a22214648ddb751c2a50e210029c11ef6c10c0968e8c9）
 - https://raw.githubusercontent.com/AlperT-Code/VeraAI-Assistant-1.1/HEAD/LICENSE（获取于 2026-11-04T17:26:55Z；SHA-256：a26dcfc8000890918428219d262bee8cf4a414310b9370f10ac3fe4650160d8c）
-
----
-
-## VibeSurf
-
-带 Chrome 扩展界面的浏览器助手，可跨标签页并行运行 Browser Use 智能体，通过 Langflow 拖放式浏览器工作流执行登录、数据收集和研究任务，使用本地或托管 LLM。
-
-- 目录页面：https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/
-- 原始来源：https://github.com/vibesurf-ai/VibeSurf
-- 类型：智能体
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、工作流
-- 证据核查日期：2026-10-19T06:20:04Z
-- ID：github:vibesurf-ai/vibesurf
-
-### 范围记录
-
-pyproject.toml pins browser-use 0.9.5; the README also credits LangGraph and Langflow, and the tree vendors a langflow directory. It installs as a uv tool, a Windows installer or a Docker image with noVNC; from Chrome 142 the extension must be loaded manually. Integrations include Composio and site APIs for Xiaohongshu, Douyin, Weibo and YouTube. The LICENSE is a 'VibeSurf Open Source License' that adds multi-tenant, SaaS, frontend-logo and contributor conditions to Apache-2.0, while pyproject.toml declares plain Apache-2.0, so the code license is left unknown. Latest release 0.5.18 (2026-01-17).
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-- 代码审核：The LICENSE is a custom 'VibeSurf Open Source License' (Apache-2.0 plus multi-tenant, SaaS, frontend-logo and contributor conditions), which conflicts with the plain Apache-2.0 declared in pyproject.toml; no standard identifier applies, so the code license stays unknown.
-  来源：https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/LICENSE, https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/pyproject.toml
-
-### 一手证据
-
-- https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/HEAD/README.md（获取于 2026-10-19T06:20:04Z；SHA-256：7b114b2c218e8555f36f5eeabd6a3c90d6c700cb74b175f0019d08b277d3ed9e）
-- https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/pyproject.toml（获取于 2026-10-18T12:06:28Z；SHA-256：97b5d7bf51bf343eaced126fd67164a5642e56c2a206a41020a70367b68a6f6a）
-- https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/LICENSE（获取于 2026-10-18T12:06:27Z；SHA-256：ca7712f8e100ee3f6ee6316c8fad4be37dfeb0b1e88be27631ec04259ae1b9d7）
 
 ---
 

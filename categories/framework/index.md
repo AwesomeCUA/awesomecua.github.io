@@ -1,6 +1,6 @@
 # Computer-use agent frameworks
 
-> 625 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
+> 638 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/framework/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -135,36 +135,6 @@ A distinct project from OpenGVLab/ScaleCUA, which documents arXiv:2509.15221.
 
 ---
 
-## AgentLab
-
-Experiment framework for developing and evaluating browser agents.
-
-- Catalog URL: https://awesomecua.com/resources/github-servicenow-agentlab/
-- Original source: https://github.com/ServiceNow/AgentLab
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation
-- Evidence checked: 2026-10-16T06:36:03Z
-- ID: github:servicenow/agentlab
-
-- Record JSON: https://awesomecua.com/resources/github-servicenow-agentlab/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 ca312434db1db852f96fb49bbc0a61f6a93cffe6c0dd3aa2b7ac814681ccc19e)
-- https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 b192c58991e8ff585cc574615d40e74185404d4b96c1109d423071ab1367344b)
-
----
-
 ## Midscene.js
 
 Visual automation toolkit for web, mobile, and desktop interfaces.
@@ -259,6 +229,69 @@ The repository provides training scripts for GRPO, LoRA, multi-node, and multi-i
 
 ---
 
+## WebMCP
+
+A client-side web API proposal that lets pages expose structured JavaScript tools to browser agents. Agents can invoke page functions while sharing the visible interface and context with users.
+
+- Catalog URL: https://awesomecua.com/resources/github-webmachinelearning-webmcp/
+- Original source: https://github.com/webmachinelearning/webmcp
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, human-in-the-loop, ui-design
+- Evidence checked: 2026-11-09T19:57:58Z
+- ID: github:webmachinelearning/webmcp
+
+### Limitations
+
+The repository contains API documentation and explainers. The README describes tool registration in page scripts and links to separate TypeScript type definitions.
+
+- Record JSON: https://awesomecua.com/resources/github-webmachinelearning-webmcp/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/webmachinelearning/webmcp/HEAD/README.md (retrieved 2026-11-09T19:57:58Z; SHA-256 8ac90b8bcaa8ae476de7f9f453e3178a9a658f7108d41057ed04f628edbe6714)
+
+---
+
+## AgentLab
+
+Experiment framework for developing and evaluating browser agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-servicenow-agentlab/
+- Original source: https://github.com/ServiceNow/AgentLab
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation
+- Evidence checked: 2026-10-16T06:36:03Z
+- ID: github:servicenow/agentlab
+
+- Record JSON: https://awesomecua.com/resources/github-servicenow-agentlab/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 ca312434db1db852f96fb49bbc0a61f6a93cffe6c0dd3aa2b7ac814681ccc19e)
+- https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 b192c58991e8ff585cc574615d40e74185404d4b96c1109d423071ab1367344b)
+
+---
+
 ## hai-agents
 
 hai-agents is a Python SDK and CLI for launching browser and desktop agents through H Company's Agents API and monitoring their sessions.
@@ -290,6 +323,35 @@ The README requires Python 3.10 or newer and describes API key login. It declare
 
 - https://raw.githubusercontent.com/hcompai/hai-agents-python/HEAD/README.md (retrieved 2026-11-09T05:05:07Z; SHA-256 1351bd99173bf9d58aaac770f688d2adf3137bf16cc2c621bb025a40b4bfd885)
 - https://raw.githubusercontent.com/hcompai/hai-agents-python/HEAD/LICENSE (retrieved 2026-11-09T05:07:28Z; SHA-256 c4f93176e215b03687e6badea344350b4640b7b6fda71590caea32f29f06a68c)
+
+---
+
+## Skyvern
+
+Browser workflow automation using vision LLMs and a swarm of agents, offered as a Playwright-compatible SDK and a no-code workflow builder.
+
+- Catalog URL: https://awesomecua.com/resources/github-skyvern-ai-skyvern/
+- Original source: https://github.com/Skyvern-AI/skyvern
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: workflow
+- Evidence checked: 2026-10-16T06:36:03Z
+- ID: github:skyvern-ai/skyvern
+
+- Record JSON: https://awesomecua.com/resources/github-skyvern-ai-skyvern/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Skyvern-AI/skyvern/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 68fda945255825907aeada13d19de19209708c14504ac975e63a235f0cd9343b)
 
 ---
 
@@ -387,21 +449,21 @@ The repository provides training, evaluation, and a custom mask decoder. Its cod
 
 ---
 
-## Skyvern
+## Notte
 
-Browser workflow automation using vision LLMs and a swarm of agents, offered as a Playwright-compatible SDK and a no-code workflow builder.
+Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.
 
-- Catalog URL: https://awesomecua.com/resources/github-skyvern-ai-skyvern/
-- Original source: https://github.com/Skyvern-AI/skyvern
+- Catalog URL: https://awesomecua.com/resources/github-nottelabs-notte/
+- Original source: https://github.com/nottelabs/notte
 - Kind: framework
 - Review: curated
 - Scope: core
 - Environments: web
-- Topics: workflow
-- Evidence checked: 2026-10-16T06:36:03Z
-- ID: github:skyvern-ai/skyvern
+- Topics: web-navigation
+- Evidence checked: 2026-10-16T06:36:04Z
+- ID: github:nottelabs/notte
 
-- Record JSON: https://awesomecua.com/resources/github-skyvern-ai-skyvern/record.json
+- Record JSON: https://awesomecua.com/resources/github-nottelabs-notte/record.json
 
 ### License declarations
 
@@ -412,7 +474,40 @@ Browser workflow automation using vision LLMs and a swarm of agents, offered as 
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/Skyvern-AI/skyvern/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 68fda945255825907aeada13d19de19209708c14504ac975e63a235f0cd9343b)
+- https://raw.githubusercontent.com/nottelabs/notte/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 5ecb73264cce10b75ec04dea59aaff77ffde552259fba6932507779a35681c5b)
+
+---
+
+## puppeteer-extra
+
+A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.
+
+- Catalog URL: https://awesomecua.com/resources/github-berstend-puppeteer-extra/
+- Original source: https://github.com/berstend/puppeteer-extra
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-06T16:36:31Z
+- ID: github:berstend/puppeteer-extra
+
+### Limitations
+
+The monorepo also includes playwright-extra for Playwright support. It uses Lerna and Yarn workspaces.
+
+- Record JSON: https://awesomecua.com/resources/github-berstend-puppeteer-extra/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/berstend/puppeteer-extra/39248f1f5deeb21b1e7eb6ae07b8ef73f1231ab9/README.md (retrieved 2026-11-06T16:36:31Z; SHA-256 0f0b47a7506bf234286008258421ab6be6b0532ef6fc972c88bae33bd257beb7)
 
 ---
 
@@ -443,6 +538,35 @@ CUA-Gym is a scalable pipeline for synthesizing interactive mock web environment
 
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 e8050e2739ae45248329cd505c9e9dde8a88e6b200f826734d9ecf2e3815366a)
 - https://raw.githubusercontent.com/xlang-ai/CUA-Gym/HEAD/LICENSE (retrieved 2026-11-04T14:45:12Z; SHA-256 378b0f6fe2df24a4b83ca13662079088f1ae41fe3deb46f1afe47b1d546565b8)
+
+---
+
+## Hronaut
+
+Visible, persistent, dedicated browser runtime that coding agents can control without interrupting the user's personal browser.
+
+- Catalog URL: https://awesomecua.com/resources/github-hronaut-hronaut/
+- Original source: https://github.com/hronaut/hronaut
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, sandbox, automation
+- Evidence checked: 2026-11-04T17:30:39Z
+- ID: github:hronaut/hronaut
+
+- Record JSON: https://awesomecua.com/resources/github-hronaut-hronaut/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hronaut/hronaut/main/README.md (retrieved 2026-11-04T17:30:39Z; SHA-256 5c50237d8669dc34a127be10c0f5c5cc0d5a4e95a2a96967f1321e6d713e8ba2)
 
 ---
 
@@ -485,32 +609,37 @@ The original implementation is in the MAI-UI/ subdirectory, with an Apache-2.0 L
 
 ---
 
-## Notte
+## openadapt-ml
 
-Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.
+A Python research package for GUI-action models, with trajectory schemas, model adapters, fine-tuning, grounding, and a policy interface for predicting the next action.
 
-- Catalog URL: https://awesomecua.com/resources/github-nottelabs-notte/
-- Original source: https://github.com/nottelabs/notte
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-ml/
+- Original source: https://github.com/OpenAdaptAI/openadapt-ml
 - Kind: framework
 - Review: curated
 - Scope: core
-- Environments: web
-- Topics: web-navigation
-- Evidence checked: 2026-10-16T06:36:04Z
-- ID: github:nottelabs/notte
+- Environments: cross-platform, desktop, macos, windows, web
+- Topics: action-prediction, grounding, imitation-learning, data-generation
+- Evidence checked: 2026-11-09T06:16:36Z
+- ID: github:openadaptai/openadapt-ml
 
-- Record JSON: https://awesomecua.com/resources/github-nottelabs-notte/record.json
+### Limitations
+
+The README describes synthetic training scenarios, adapters for Qwen3-VL and hosted API models, and a training extra. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-ml/record.json
 
 ### License declarations
 
-- code: not recorded
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-ml/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/nottelabs/notte/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 5ecb73264cce10b75ec04dea59aaff77ffde552259fba6932507779a35681c5b)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-ml/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 f6ca09d9a6420a6bd92dce3af12076e92a17d8c783925b136c20a233a4c7d1ba)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-ml/HEAD/LICENSE (retrieved 2026-11-09T06:13:47Z; SHA-256 d84e5463aed154b79d26e367c06b9d90032d7ccdcb64d51c1e099a2fcf5301fc)
 
 ---
 
@@ -727,35 +856,6 @@ AutoGPT is an open-source autonomous agent platform for building, orchestrating,
 
 ---
 
-## BabyAGI
-
-BabyAGI is an autonomous task-management agent framework that iteratively creates, prioritizes, and executes tasks using LLMs and vector memory.
-
-- Catalog URL: https://awesomecua.com/resources/github-yoheinakajima-babyagi/
-- Original source: https://github.com/yoheinakajima/babyagi
-- Kind: framework
-- Review: curated
-- Scope: adjacent
-- Environments: unspecified
-- Topics: planning, memory, workflow
-- Evidence checked: 2026-11-04T13:12:45Z
-- ID: github:yoheinakajima/babyagi
-
-- Record JSON: https://awesomecua.com/resources/github-yoheinakajima-babyagi/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/yoheinakajima/babyagi/HEAD/README.md (retrieved 2026-11-04T13:12:45Z; SHA-256 06e5fd3c01172ee9eb987456943ceed45f0c11ed6a95824d0da2309e078b2e1d)
-
----
-
 ## ClawGUI
 
 Framework for GUI agent training, evaluation, and deployment.
@@ -847,6 +947,129 @@ Self-hosted enterprise AI assistant and computer-use workspace by CopilotKit wit
 
 ---
 
+## CUAWright (formerly Webwright)
+
+Agent framework for browser and desktop tasks using automation code.
+
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-webwright/
+- Original source: https://github.com/microsoft/Webwright
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: tool-integration
+- Evidence checked: 2026-10-16T06:36:04Z
+- ID: github:microsoft/webwright
+
+- Record JSON: https://awesomecua.com/resources/github-microsoft-webwright/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/microsoft/Webwright/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/microsoft/Webwright/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 7c0f87f684e5ed4d77b175b63a5dcaf0a268644c3662c723713de4cf0ac1de40)
+- https://raw.githubusercontent.com/microsoft/Webwright/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383)
+
+---
+
+## GenericAgent
+
+GenericAgent is a minimal self-evolving agent framework that synthesizes reusable skills for browser, OS, and ADB mobile control.
+
+- Catalog URL: https://awesomecua.com/resources/github-lsdefine-genericagent/
+- Original source: https://github.com/lsdefine/GenericAgent
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web, android
+- Topics: self-reflection, memory, automation, tool-integration
+- Evidence checked: 2026-11-04T13:12:21Z
+- ID: github:lsdefine/genericagent
+
+- Record JSON: https://awesomecua.com/resources/github-lsdefine-genericagent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/lsdefine/GenericAgent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lsdefine/GenericAgent/HEAD/README.md (retrieved 2026-11-04T13:12:21Z; SHA-256 56e2af7c7dd8f05fc9a9682c5045ad5e428deb79001771b95c825f049ffa92e2)
+- https://raw.githubusercontent.com/lsdefine/GenericAgent/HEAD/LICENSE (retrieved 2026-11-04T13:46:50Z; SHA-256 1d4ed949b4ec9b506d44198033115b8b9847aa0515f9d3465ab2b0d8f7d65a87)
+
+---
+
+## handraise
+
+Human escalation and live-session handoff layer for Solari browser agents when encountering CAPTCHAs, 2FA, or ambiguity.
+
+- Catalog URL: https://awesomecua.com/resources/github-sy-d-handraise/
+- Original source: https://github.com/Sy-D/handraise
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: human-in-the-loop, safety-security, web-navigation
+- Evidence checked: 2026-11-04T17:55:24Z
+- ID: github:sy-d/handraise
+
+- Record JSON: https://awesomecua.com/resources/github-sy-d-handraise/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Sy-D/handraise/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Sy-D/handraise/main/README.md (retrieved 2026-11-04T17:55:24Z; SHA-256 fa69c1be691989a5412c7425dd6fa85880810b5bbb8a06c23cb1e6040fca9df4)
+- https://raw.githubusercontent.com/Sy-D/handraise/HEAD/LICENSE (retrieved 2026-11-04T18:00:26Z; SHA-256 63c82295db55a7166347dd126b820796ca27a7d2f8a97584502b3091d02e40d4)
+
+---
+
+## MaaFramework
+
+MaaFramework is an image-recognition automation framework for black-box testing, with a low-code task pipeline and documented integration and API interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/github-maaxyz-maaframework/
+- Original source: https://github.com/MaaXYZ/MaaFramework
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, windows, linux, macos, android
+- Topics: automation, screen-understanding, workflow
+- Evidence checked: 2026-11-09T19:57:10Z
+- ID: github:maaxyz/maaframework
+
+### Limitations
+
+The repository lists C++ source, headers, samples, tests, and documentation. The README names Windows, Linux, macOS, and Android in its platform badge.
+
+- Record JSON: https://awesomecua.com/resources/github-maaxyz-maaframework/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MaaXYZ/MaaFramework/HEAD/README.md (retrieved 2026-11-09T19:57:10Z; SHA-256 49b4064ba88dc41fa9c2bea4581d39b69684e9df4839ec1c5ff5436caac37dda)
+
+---
+
 ## midscene-pc
 
 midscene-pc extends Midscene.js to local and remote PC desktops, enabling natural-language GUI automation across Windows, Linux, and macOS.
@@ -874,40 +1097,6 @@ midscene-pc extends Midscene.js to local and remote PC desktops, enabling natura
 
 - https://raw.githubusercontent.com/Mofangbao/midscene-pc/HEAD/README.md (retrieved 2026-11-04T15:45:42Z; SHA-256 04f11e5d34949f51f960840ebaac9d40ce522d50e102af80e572ad889d8c9213)
 - https://raw.githubusercontent.com/Mofangbao/midscene-pc/HEAD/LICENSE (retrieved 2026-11-04T15:57:30Z; SHA-256 1e08d60ec9e5067a54c51fcedbce65d82dc55aa363a2ff1336bcdd6340b1f24f)
-
----
-
-## openadapt-ml
-
-A Python research package for GUI-action models, with trajectory schemas, model adapters, fine-tuning, grounding, and a policy interface for predicting the next action.
-
-- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-ml/
-- Original source: https://github.com/OpenAdaptAI/openadapt-ml
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, macos, windows, web
-- Topics: action-prediction, grounding, imitation-learning, data-generation
-- Evidence checked: 2026-11-09T06:16:36Z
-- ID: github:openadaptai/openadapt-ml
-
-### Limitations
-
-The README describes synthetic training scenarios, adapters for Qwen3-VL and hosted API models, and a training extra. It declares an MIT license.
-
-- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-ml/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-ml/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-ml/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 f6ca09d9a6420a6bd92dce3af12076e92a17d8c783925b136c20a233a4c7d1ba)
-- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-ml/HEAD/LICENSE (retrieved 2026-11-09T06:13:47Z; SHA-256 d84e5463aed154b79d26e367c06b9d90032d7ccdcb64d51c1e099a2fcf5301fc)
 
 ---
 
@@ -948,25 +1137,25 @@ Runnable entry points, framework modules and synthetic-data tooling are publishe
 
 ---
 
-## puppeteer-extra
+## Proposer-Agent-Evaluator (PAE)
 
-A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.
+A browser-agent training system that proposes tasks, collects visual interaction trajectories, and uses automated evaluation to drive policy improvement.
 
-- Catalog URL: https://awesomecua.com/resources/github-berstend-puppeteer-extra/
-- Original source: https://github.com/berstend/puppeteer-extra
+- Catalog URL: https://awesomecua.com/resources/github-amazon-science-pae/
+- Original source: https://github.com/amazon-science/PAE
 - Kind: framework
 - Review: curated
-- Scope: adjacent
+- Scope: core
 - Environments: web
-- Topics: automation, tool-integration
-- Evidence checked: 2026-11-06T16:36:31Z
-- ID: github:berstend/puppeteer-extra
+- Topics: reinforcement-learning, web-navigation, data-generation
+- Evidence checked: 2026-10-17T02:02:06Z
+- ID: github:amazon-science/pae
 
 ### Limitations
 
-The monorepo also includes playwright-extra for Playwright support. It uses Lerna and Yarn workspaces.
+Source code and browser-environment modules are present. The repository LICENSE is CC-BY-NC-4.0, while its README describes that license as applying to a dataset, leaving code scope ambiguous. The separately linked dataset is gated; model and dataset terms require separate checks.
 
-- Record JSON: https://awesomecua.com/resources/github-berstend-puppeteer-extra/record.json
+- Record JSON: https://awesomecua.com/resources/github-amazon-science-pae/record.json
 
 ### License declarations
 
@@ -977,7 +1166,40 @@ The monorepo also includes playwright-extra for Playwright support. It uses Lern
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/berstend/puppeteer-extra/39248f1f5deeb21b1e7eb6ae07b8ef73f1231ab9/README.md (retrieved 2026-11-06T16:36:31Z; SHA-256 0f0b47a7506bf234286008258421ab6be6b0532ef6fc972c88bae33bd257beb7)
+- https://raw.githubusercontent.com/amazon-science/PAE/HEAD/README.md (retrieved 2026-10-17T02:02:06Z; SHA-256 3e5f24b3175afeba8635dacc7b66eba1ce89fea49996a20281ff2df5a41f1e24)
+- https://api.github.com/repos/amazon-science/PAE (retrieved 2026-10-17T02:02:05Z; SHA-256 ae4f966004dd672fd5b994add5a5cba1fee9233d4d81b224e94c339728fafd87)
+- https://api.github.com/repos/amazon-science/PAE/git/trees/main?recursive=1 (retrieved 2026-10-17T02:02:05Z; SHA-256 b1e24a3f38fae67f71033a3f920164d282d3f8bb072f438349dbe9eb23730a7a)
+- https://raw.githubusercontent.com/amazon-science/PAE/HEAD/LICENSE.txt (retrieved 2026-10-17T02:02:15Z; SHA-256 db2e35513dbadcdc67f5819a3bfee2777786538dd3531620cd5fbd4b6ed6e538)
+
+---
+
+## SWE-agent
+
+SWE-agent introduces Agent-Computer Interfaces (ACI) enabling language models to autonomously navigate repositories, edit code, and run tests.
+
+- Catalog URL: https://awesomecua.com/resources/github-swe-agent-swe-agent/
+- Original source: https://github.com/SWE-agent/SWE-agent
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, linux
+- Topics: tool-integration, sandbox, evaluation
+- Evidence checked: 2026-11-04T13:12:38Z
+- ID: github:swe-agent/swe-agent
+
+- Record JSON: https://awesomecua.com/resources/github-swe-agent-swe-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/SWE-agent/SWE-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SWE-agent/SWE-agent/HEAD/README.md (retrieved 2026-11-04T13:12:38Z; SHA-256 dcd880557720efbab0f5c0e68f2bc742309efecfce83244c9e670ec1f1adf76f)
+- https://raw.githubusercontent.com/SWE-agent/SWE-agent/HEAD/LICENSE (retrieved 2026-11-04T13:42:03Z; SHA-256 7610ed3916f6674e34b78417894abd57ff538b3cfdda3085e3643d82acbaf31f)
 
 ---
 
@@ -1204,6 +1426,36 @@ The README includes installation and harness examples, website task sets, and ex
 
 ---
 
+## AnythingLLM
+
+AnythingLLM is a local-first desktop and server application supporting custom AI agents, web browsing, MCP tools, and document RAG.
+
+- Catalog URL: https://awesomecua.com/resources/github-mintplex-labs-anything-llm/
+- Original source: https://github.com/Mintplex-Labs/anything-llm
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, web, macos, windows, linux
+- Topics: workflow, tool-integration, memory, web-navigation
+- Evidence checked: 2026-11-04T15:03:37Z
+- ID: github:mintplex-labs/anything-llm
+
+- Record JSON: https://awesomecua.com/resources/github-mintplex-labs-anything-llm/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Mintplex-Labs/anything-llm/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Mintplex-Labs/anything-llm/HEAD/README.md (retrieved 2026-11-04T15:03:37Z; SHA-256 54fa19d813e8bb7bbed9346771e17ad29a9d5753effa19427bea4c38de6c7a2c)
+- https://raw.githubusercontent.com/Mintplex-Labs/anything-llm/HEAD/LICENSE (retrieved 2026-11-04T15:22:51Z; SHA-256 782d2dc18a1ed9028ca992520f42b2e0b6187807da0d14455b8ae608e2e5692e)
+
+---
+
 ## AutoCodeRover
 
 AutoCodeRover combines LLMs with AST-aware code search and spectrum-based fault localization for autonomous program repair.
@@ -1293,6 +1545,69 @@ Avenir-Web trains human-experience-imitating multimodal web agents with mixture-
 
 ---
 
+## BabyAGI
+
+BabyAGI is an autonomous task-management agent framework that iteratively creates, prioritizes, and executes tasks using LLMs and vector memory.
+
+- Catalog URL: https://awesomecua.com/resources/github-yoheinakajima-babyagi/
+- Original source: https://github.com/yoheinakajima/babyagi
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: planning, memory, workflow
+- Evidence checked: 2026-11-04T13:12:45Z
+- ID: github:yoheinakajima/babyagi
+
+- Record JSON: https://awesomecua.com/resources/github-yoheinakajima-babyagi/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yoheinakajima/babyagi/HEAD/README.md (retrieved 2026-11-04T13:12:45Z; SHA-256 06e5fd3c01172ee9eb987456943ceed45f0c11ed6a95824d0da2309e078b2e1d)
+
+---
+
+## Brobot
+
+Brobot is a Java visual automation framework that recognizes interface elements and models application states to navigate, perform actions and recover from errors.
+
+- Catalog URL: https://awesomecua.com/resources/github-jspinak-brobot/
+- Original source: https://github.com/jspinak/brobot
+- Kind: framework
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop
+- Topics: automation, state-tracking, robustness
+- Evidence checked: 2026-11-09T19:57:27Z
+- ID: github:jspinak/brobot
+
+### Limitations
+
+The repository includes the core library, examples, documentation and GUI integration tests. The README declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-jspinak-brobot/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/jspinak/brobot/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/jspinak/brobot/HEAD/README.md (retrieved 2026-11-09T19:57:27Z; SHA-256 d0beafe0b4842d70641180cc937a0ea2db54762a0c2fef7dcb71360a78e3c405)
+- https://raw.githubusercontent.com/jspinak/brobot/HEAD/LICENSE (retrieved 2026-11-09T14:20:57Z; SHA-256 70167e6d633b0e4f530c296c70614e6531923138b7b792105b4740a9e566eb14)
+
+---
+
 ## Browser Use Pi
 
 Browser Use Pi is a TypeScript SDK for a browser agent that writes JavaScript to control Chrome through CDP and reads accessibility trees and screenshots for feedback.
@@ -1360,6 +1675,36 @@ The README lists Python and TypeScript packages and points to a Cloud quickstart
 
 ---
 
+## CLI-Anything
+
+CLI-Anything automatically wraps professional desktop GUI applications such as GIMP, Blender, and LibreOffice into structured agent-native CLIs.
+
+- Catalog URL: https://awesomecua.com/resources/github-hkuds-cli-anything/
+- Original source: https://github.com/HKUDS/CLI-Anything
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, linux, macos, windows
+- Topics: tool-integration, automation, workflow
+- Evidence checked: 2026-11-04T13:12:16Z
+- ID: github:hkuds/cli-anything
+
+- Record JSON: https://awesomecua.com/resources/github-hkuds-cli-anything/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/HKUDS/CLI-Anything/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/HKUDS/CLI-Anything/HEAD/README.md (retrieved 2026-11-04T13:12:16Z; SHA-256 24669c9549ad753b173eead4ffc465ebc0b8dc9b4d64e7be73cd5b3b03f56ac9)
+- https://raw.githubusercontent.com/HKUDS/CLI-Anything/HEAD/LICENSE (retrieved 2026-11-04T13:41:39Z; SHA-256 0cff1a8ac2a381870a2c57cbe9b25f95bea0925b39b7fbf6a04ec23df7c77760)
+
+---
+
 ## CoAT research implementation
 
 Research scripts that generate screen descriptions, action reasoning and expected outcomes, then predict Android GUI actions using the resulting Chain-of-Action-Thought context.
@@ -1395,36 +1740,6 @@ The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with 
 - https://raw.githubusercontent.com/IMNearth/CoAT/HEAD/README.md (retrieved 2026-10-17T12:30:53Z; SHA-256 7a9fb905b64f2760a137cd267a5e38dd343df1821eda8172b606ab7500d27731)
 - https://api.github.com/repos/IMNearth/CoAT (retrieved 2026-10-17T12:30:53Z; SHA-256 d0c5056c9a74913f84a4f809bf01d9fd9ea325ac0a91b4c4a0a51220b2da9d68)
 - https://api.github.com/repos/IMNearth/CoAT/git/trees/main?recursive=1 (retrieved 2026-10-17T12:32:04Z; SHA-256 29d84ed12dc25035fd539604b06f6cc113080b389edeb9aa605cfa55c5f28151)
-
----
-
-## CUAWright (formerly Webwright)
-
-Agent framework for browser and desktop tasks using automation code.
-
-- Catalog URL: https://awesomecua.com/resources/github-microsoft-webwright/
-- Original source: https://github.com/microsoft/Webwright
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: web, desktop
-- Topics: tool-integration
-- Evidence checked: 2026-10-16T06:36:04Z
-- ID: github:microsoft/webwright
-
-- Record JSON: https://awesomecua.com/resources/github-microsoft-webwright/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/microsoft/Webwright/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/microsoft/Webwright/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 7c0f87f684e5ed4d77b175b63a5dcaf0a268644c3662c723713de4cf0ac1de40)
-- https://raw.githubusercontent.com/microsoft/Webwright/HEAD/LICENSE (retrieved 2026-10-16T06:42:05Z; SHA-256 c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383)
 
 ---
 
@@ -1627,36 +1942,6 @@ Durable Playwright and Chrome task runner that keeps long-horizon browser jobs r
 
 ---
 
-## GenericAgent
-
-GenericAgent is a minimal self-evolving agent framework that synthesizes reusable skills for browser, OS, and ADB mobile control.
-
-- Catalog URL: https://awesomecua.com/resources/github-lsdefine-genericagent/
-- Original source: https://github.com/lsdefine/GenericAgent
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, web, android
-- Topics: self-reflection, memory, automation, tool-integration
-- Evidence checked: 2026-11-04T13:12:21Z
-- ID: github:lsdefine/genericagent
-
-- Record JSON: https://awesomecua.com/resources/github-lsdefine-genericagent/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/lsdefine/GenericAgent/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/lsdefine/GenericAgent/HEAD/README.md (retrieved 2026-11-04T13:12:21Z; SHA-256 56e2af7c7dd8f05fc9a9682c5045ad5e428deb79001771b95c825f049ffa92e2)
-- https://raw.githubusercontent.com/lsdefine/GenericAgent/HEAD/LICENSE (retrieved 2026-11-04T13:46:50Z; SHA-256 1d4ed949b4ec9b506d44198033115b8b9847aa0515f9d3465ab2b0d8f7d65a87)
-
----
-
 ## glassbox
 
 glassbox is an iOS and iPadOS computer-use runtime that drives physical iPhones and iPads from screen observations and hardware/bridge control.
@@ -1847,62 +2132,67 @@ GUI-SD implements on-policy self-distillation for GUI visual grounding and actio
 
 ---
 
-## handraise
+## Guibot
 
-Human escalation and live-session handoff layer for Solari browser agents when encountering CAPTCHAs, 2FA, or ambiguity.
+Guibot is a Python GUI automation library unifying template matching, feature detection, cascade classifiers, OCR, and VNC/PyAutoGUI control.
 
-- Catalog URL: https://awesomecua.com/resources/github-sy-d-handraise/
-- Original source: https://github.com/Sy-D/handraise
+- Catalog URL: https://awesomecua.com/resources/github-intra2net-guibot/
+- Original source: https://github.com/intra2net/guibot
 - Kind: framework
 - Review: curated
 - Scope: core
-- Environments: web
-- Topics: human-in-the-loop, safety-security, web-navigation
-- Evidence checked: 2026-11-04T17:55:24Z
-- ID: github:sy-d/handraise
+- Environments: cross-platform, desktop
+- Topics: automation, grounding
+- Evidence checked: 2026-11-04T13:12:19Z
+- ID: github:intra2net/guibot
 
-- Record JSON: https://awesomecua.com/resources/github-sy-d-handraise/record.json
+- Record JSON: https://awesomecua.com/resources/github-intra2net-guibot/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/Sy-D/handraise/HEAD/LICENSE
+- code: LGPL-3.0 — https://raw.githubusercontent.com/intra2net/guibot/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/Sy-D/handraise/main/README.md (retrieved 2026-11-04T17:55:24Z; SHA-256 fa69c1be691989a5412c7425dd6fa85880810b5bbb8a06c23cb1e6040fca9df4)
-- https://raw.githubusercontent.com/Sy-D/handraise/HEAD/LICENSE (retrieved 2026-11-04T18:00:26Z; SHA-256 63c82295db55a7166347dd126b820796ca27a7d2f8a97584502b3091d02e40d4)
+- https://raw.githubusercontent.com/intra2net/guibot/HEAD/README.md (retrieved 2026-11-04T13:12:19Z; SHA-256 1c1cc6a0dcd0429a3cb799b68122b13ea00e946e2a6ce0443b85e4688626bdd1)
+- https://raw.githubusercontent.com/intra2net/guibot/HEAD/LICENSE (retrieved 2026-11-04T13:23:05Z; SHA-256 da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768)
 
 ---
 
-## Hronaut
+## hai-agents
 
-Visible, persistent, dedicated browser runtime that coding agents can control without interrupting the user's personal browser.
+A TypeScript SDK for running browser agents through H Company's Agents API. It provides session controls, progress events and ways to steer an agent during a task.
 
-- Catalog URL: https://awesomecua.com/resources/github-hronaut-hronaut/
-- Original source: https://github.com/hronaut/hronaut
+- Catalog URL: https://awesomecua.com/resources/github-hcompai-hai-agents-ts/
+- Original source: https://github.com/hcompai/hai-agents-ts
 - Kind: framework
 - Review: curated
 - Scope: core
 - Environments: web
-- Topics: web-navigation, sandbox, automation
-- Evidence checked: 2026-11-04T17:30:39Z
-- ID: github:hronaut/hronaut
+- Topics: web-navigation, human-in-the-loop, observability, tool-integration
+- Evidence checked: 2026-11-09T19:56:57Z
+- ID: github:hcompai/hai-agents-ts
 
-- Record JSON: https://awesomecua.com/resources/github-hronaut-hronaut/record.json
+### Limitations
+
+The README specifies Node.js 18 or newer and an API key. The repository contains packages and an OpenAPI specification; the README displays an MIT license badge.
+
+- Record JSON: https://awesomecua.com/resources/github-hcompai-hai-agents-ts/record.json
 
 ### License declarations
 
-- code: not recorded
+- code: MIT — https://raw.githubusercontent.com/hcompai/hai-agents-ts/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/hronaut/hronaut/main/README.md (retrieved 2026-11-04T17:30:39Z; SHA-256 5c50237d8669dc34a127be10c0f5c5cc0d5a4e95a2a96967f1321e6d713e8ba2)
+- https://raw.githubusercontent.com/hcompai/hai-agents-ts/HEAD/README.md (retrieved 2026-11-09T19:56:57Z; SHA-256 ae6c93802cfc75d094c3d9ac194bf596b46261b64bd44ae65ea40aed3c76a00c)
+- https://raw.githubusercontent.com/hcompai/hai-agents-ts/HEAD/LICENSE (retrieved 2026-11-09T14:20:47Z; SHA-256 c4f93176e215b03687e6badea344350b4640b7b6fda71590caea32f29f06a68c)
 
 ---
 
@@ -1932,6 +2222,40 @@ Library adding natural-language commands to Playwright: accessibility-tree singl
 ### Primary evidence
 
 - https://raw.githubusercontent.com/hyperbrowserai/HyperAgent/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 9fe74ee087156efde4531a058ccd3abad504032e0bd994979992ed4164c8704b)
+
+---
+
+## InSTA
+
+Code for a web-agent training pipeline that generates website tasks, collects browser trajectories and filters them by judged success. It also serves an agent in a virtual browser.
+
+- Catalog URL: https://awesomecua.com/resources/github-data-for-agents-insta/
+- Original source: https://github.com/data-for-agents/insta
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, data-generation, imitation-learning, evaluation
+- Evidence checked: 2026-11-09T19:56:57Z
+- ID: github:data-for-agents/insta
+
+### Limitations
+
+The README links a separate dataset and paper. Its example uses an API key for an agent and judge, and the repository includes data-generation, training, evaluation and browser-related directories.
+
+- Record JSON: https://awesomecua.com/resources/github-data-for-agents-insta/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/data-for-agents/insta/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/data-for-agents/insta/HEAD/README.md (retrieved 2026-11-09T19:56:57Z; SHA-256 4bfef2fa6ed02db4355d19cf05f0c4e92430a13bb83983aee0f62149e30c614a)
+- https://raw.githubusercontent.com/data-for-agents/insta/HEAD/LICENSE (retrieved 2026-11-09T14:20:47Z; SHA-256 d2aa53e8e75bd171c5ab85cd692335c95f4216fae901f4079b0fe556452af510)
 
 ---
 
@@ -2051,6 +2375,36 @@ LLM-in-Sandbox equips language models with virtualized Linux computer sandboxes 
 
 - https://raw.githubusercontent.com/llm-in-sandbox/llm-in-sandbox/HEAD/README.md (retrieved 2026-11-04T13:12:21Z; SHA-256 b03bfc73cb05f79985282999332b626f09905b86e4822eca981e2be28c578cc9)
 - https://raw.githubusercontent.com/llm-in-sandbox/llm-in-sandbox/HEAD/LICENSE (retrieved 2026-11-04T13:22:46Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## LongHorizon-Harness
+
+LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify-recover loop for multi-hour autonomous computer-use workflows.
+
+- Catalog URL: https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/
+- Original source: https://github.com/AMAP-ML/LongHorizon-Harness
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, linux, windows
+- Topics: long-horizon, planning, self-reflection, workflow
+- Evidence checked: 2026-11-04T13:12:05Z
+- ID: github:amap-ml/longhorizon-harness
+
+- Record JSON: https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/AMAP-ML/LongHorizon-Harness/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/AMAP-ML/LongHorizon-Harness/HEAD/README.md (retrieved 2026-11-04T13:12:05Z; SHA-256 3300007a449cc6d3afc8992a3694e81bfb560ef1bff2a34cf5f272615168e0cc)
+- https://raw.githubusercontent.com/AMAP-ML/LongHorizon-Harness/HEAD/LICENSE (retrieved 2026-11-04T13:41:38Z; SHA-256 19811a1bfa17047c5755b8279aab9f2a628b261c4967f1592180af282d99f9cd)
 
 ---
 
@@ -2485,6 +2839,40 @@ Model-agnostic computer-use core providing a unified agent loop and MCP server a
 
 ---
 
+## openadapt-types
+
+openadapt-types supplies validated Python models and JSON schemas for computer-use screens, actions, results, and interaction trajectories.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-types/
+- Original source: https://github.com/OpenAdaptAI/openadapt-types
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, windows, macos, linux
+- Topics: screen-understanding, state-tracking, grounding, history
+- Evidence checked: 2026-11-09T19:57:39Z
+- ID: github:openadaptai/openadapt-types
+
+### Limitations
+
+The repository is archived, and the README directs development to the OpenAdapt monorepo. It requires Python 3.10 or later and Pydantic 2, and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-types/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-types/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-types/HEAD/README.md (retrieved 2026-11-09T19:57:39Z; SHA-256 576d342eb124c8acf78633c38a4741afc9cb57d3bbbed39ccefc3cd405b7450d)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-types/HEAD/LICENSE (retrieved 2026-11-09T14:21:12Z; SHA-256 b854970b61fd33ad6cc35ab01cb25caeae9bb24cb7aa210ac7aae17e462bdb8e)
+
+---
+
 ## OpenWebAgent
 
 OpenWebAgent provides a Chrome extension, HTML simplification parser, and backend server for building LLM-driven web browsing agents.
@@ -2673,25 +3061,25 @@ Safety-first starter template for building visible-browser Hermes computer-use a
 
 ---
 
-## Proposer-Agent-Evaluator (PAE)
+## Predicate Python SDK
 
-A browser-agent training system that proposes tasks, collects visual interaction trajectories, and uses automated evaluation to drive policy improvement.
+The Predicate Python SDK gives browser agents semantic page snapshots, UI assertions, and run traces so they can verify actions and inspect failures.
 
-- Catalog URL: https://awesomecua.com/resources/github-amazon-science-pae/
-- Original source: https://github.com/amazon-science/PAE
+- Catalog URL: https://awesomecua.com/resources/github-predicatesystems-predicate-runtime-python/
+- Original source: https://github.com/PredicateSystems/predicate-runtime-python
 - Kind: framework
 - Review: curated
 - Scope: core
 - Environments: web
-- Topics: reinforcement-learning, web-navigation, data-generation
-- Evidence checked: 2026-10-17T02:02:06Z
-- ID: github:amazon-science/pae
+- Topics: evaluation, observability, screen-understanding, web-navigation
+- Evidence checked: 2026-11-09T19:55:43Z
+- ID: github:predicatesystems/predicate-runtime-python
 
 ### Limitations
 
-Source code and browser-environment modules are present. The repository LICENSE is CC-BY-NC-4.0, while its README describes that license as applying to a dataset, leaving code scope ambiguous. The separately linked dataset is gated; model and dataset terms require separate checks.
+The README documents a Playwright-based quickstart, a debugger that attaches to an existing agent loop, and SDK primitives for taking snapshots and acting on elements.
 
-- Record JSON: https://awesomecua.com/resources/github-amazon-science-pae/record.json
+- Record JSON: https://awesomecua.com/resources/github-predicatesystems-predicate-runtime-python/record.json
 
 ### License declarations
 
@@ -2702,10 +3090,74 @@ Source code and browser-environment modules are present. The repository LICENSE 
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/amazon-science/PAE/HEAD/README.md (retrieved 2026-10-17T02:02:06Z; SHA-256 3e5f24b3175afeba8635dacc7b66eba1ce89fea49996a20281ff2df5a41f1e24)
-- https://api.github.com/repos/amazon-science/PAE (retrieved 2026-10-17T02:02:05Z; SHA-256 ae4f966004dd672fd5b994add5a5cba1fee9233d4d81b224e94c339728fafd87)
-- https://api.github.com/repos/amazon-science/PAE/git/trees/main?recursive=1 (retrieved 2026-10-17T02:02:05Z; SHA-256 b1e24a3f38fae67f71033a3f920164d282d3f8bb072f438349dbe9eb23730a7a)
-- https://raw.githubusercontent.com/amazon-science/PAE/HEAD/LICENSE.txt (retrieved 2026-10-17T02:02:15Z; SHA-256 db2e35513dbadcdc67f5819a3bfee2777786538dd3531620cd5fbd4b6ed6e538)
+- https://raw.githubusercontent.com/PredicateSystems/predicate-runtime-python/HEAD/README.md (retrieved 2026-11-09T19:55:43Z; SHA-256 d2cae795a1c68b086c2fe5dd4c7e34718fd6bd3cfd1bb625f7dd3fea93afe417)
+
+---
+
+## Predicate TypeScript SDK
+
+Predicate TypeScript SDK supplies browser-agent snapshots, element actions, assertions and traces for building runs that check UI outcomes.
+
+- Catalog URL: https://awesomecua.com/resources/github-predicatesystems-sdk-typescript/
+- Original source: https://github.com/PredicateSystems/sdk-typescript
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, observability, state-tracking, web-navigation
+- Evidence checked: 2026-11-09T19:56:08Z
+- ID: github:predicatesystems/sdk-typescript
+
+### Limitations
+
+The README documents installation through the runtime package and Chromium for Playwright. It also describes a debugger that attaches to an existing agent loop.
+
+- Record JSON: https://awesomecua.com/resources/github-predicatesystems-sdk-typescript/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/PredicateSystems/sdk-typescript/HEAD/README.md (retrieved 2026-11-09T19:56:08Z; SHA-256 33e2e251659361738a82a5146c1cff4892dd2be02c29df0d25784e37e1c1e05f)
+
+---
+
+## Programming with Pixels (PwP)
+
+Programming with Pixels provides a framework and benchmark for software-engineering agents that work in IDEs through screenshots, typing, and clicks.
+
+- Catalog URL: https://awesomecua.com/resources/github-programmingwithpixels-pwp/
+- Original source: https://github.com/ProgrammingwithPixels/PwP
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: evaluation, screen-understanding, automation
+- Evidence checked: 2026-11-09T19:57:28Z
+- ID: github:programmingwithpixels/pwp
+
+### Limitations
+
+The README gives Python and Docker prerequisites, with an optional NVIDIA GPU. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-programmingwithpixels-pwp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ProgrammingwithPixels/PwP/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ProgrammingwithPixels/PwP/HEAD/README.md (retrieved 2026-11-09T19:57:28Z; SHA-256 833a47a7a9f3f517c38af123dfc5cf01411d7a4c5a640494c1f318e1e8461557)
+- https://raw.githubusercontent.com/ProgrammingwithPixels/PwP/HEAD/LICENSE (retrieved 2026-11-09T14:21:01Z; SHA-256 6db5f74b64c9e2edb422bb5f1bfcff37cceb1c1166ace23ac3b7bba5a07c32a0)
 
 ---
 
@@ -2743,6 +3195,73 @@ The repository includes provider guides and a task index. Scored runs require a 
 
 ---
 
+## redux-webmcp
+
+A WebMCP bridge for Redux Toolkit apps that lets browser agents dispatch allowed actions and inspect state changes. Developers can require approval for selected actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-breeznik-redux-webmcp/
+- Original source: https://github.com/breeznik/redux-webmcp
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, state-tracking, observability, human-in-the-loop
+- Evidence checked: 2026-11-09T19:56:03Z
+- ID: github:breeznik/redux-webmcp
+
+### Limitations
+
+The README includes a store integration example and describes raw dispatch and declared semantic actions. It says WebMCP requires HTTPS or localhost.
+
+- Record JSON: https://awesomecua.com/resources/github-breeznik-redux-webmcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/breeznik/redux-webmcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/breeznik/redux-webmcp/HEAD/README.md (retrieved 2026-11-09T19:56:03Z; SHA-256 20c0611f875cce022f4fcc270268227cbc496aeb3d3c255db84c0604bde91f1c)
+- https://raw.githubusercontent.com/breeznik/redux-webmcp/HEAD/LICENSE (retrieved 2026-11-09T14:20:35Z; SHA-256 6687f84b3f13281c5a9f9ed8113a05ada2d72e8a5ffd1933239d00b30ae3d982)
+
+---
+
+## SCOPE-Gen
+
+A framework that generates and validates desktop GUI tasks for OSWorld, then creates paired safety tasks while retaining the original goal and completion evaluator.
+
+- Catalog URL: https://awesomecua.com/resources/github-k4ngzy-scope-gen/
+- Original source: https://github.com/k4ngzy/SCOPE-Gen
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: data-generation, evaluation, safety-security, cross-app
+- Evidence checked: 2026-11-09T19:56:53Z
+- ID: github:k4ngzy/scope-gen
+
+### Limitations
+
+The pipeline produces task specifications, setup artifacts, evaluators, and counterfactual artifacts. Formal generation requires an OpenAI-compatible endpoint or Codex CLI and a Safactory checkout.
+
+- Record JSON: https://awesomecua.com/resources/github-k4ngzy-scope-gen/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/k4ngzy/SCOPE-Gen/HEAD/README.md (retrieved 2026-11-09T19:56:53Z; SHA-256 4eb912674cb0cac898bae84b05fc9dee979db198b0ed7b2a2ced986078bd62d9)
+
+---
+
 ## SE-GUI
 
 SE-GUI provides training and evaluation code for a GUI-grounding model refined with location-based rewards and attention feedback; its README links separate weights and seed data.
@@ -2776,6 +3295,40 @@ The README gives a Qwen2.5-VL training command and ScreenSpot evaluation command
 
 ---
 
+## Serpent.AI
+
+A Python framework for building agents that interact with native video games, using plugins and support modules to turn games into research environments.
+
+- Catalog URL: https://awesomecua.com/resources/github-serpentai-serpentai/
+- Original source: https://github.com/SerpentAI/SerpentAI
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, windows
+- Topics: automation, sandbox, reinforcement-learning, history
+- Evidence checked: 2026-11-09T19:56:09Z
+- ID: github:serpentai/serpentai
+
+### Limitations
+
+The README describes a plugin architecture for game support and agents, plus CLI tools and machine-learning experiments. It names Linux and Windows as supported platforms.
+
+- Record JSON: https://awesomecua.com/resources/github-serpentai-serpentai/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/SerpentAI/SerpentAI/HEAD/LICENSE.md
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SerpentAI/SerpentAI/HEAD/README.md (retrieved 2026-11-09T19:56:09Z; SHA-256 7cf4c44912608107e1da70b51230f9a436994c7063306ed77e8ec1fd348c33ba)
+- https://raw.githubusercontent.com/SerpentAI/SerpentAI/HEAD/LICENSE.md (retrieved 2026-11-09T14:20:38Z; SHA-256 dfe39ee4a9b642cd7d9c1e7a76b0f21dbb44ec4bbf3949aad5eba3074fd24eee)
+
+---
+
 ## SimpAgent
 
 SimpAgent implements context-aware history simplification and visual token pruning to accelerate multimodal GUI agents.
@@ -2802,6 +3355,40 @@ SimpAgent implements context-aware history simplification and visual token pruni
 ### Primary evidence
 
 - https://raw.githubusercontent.com/JiuTian-VL/SimpAgent/HEAD/README.md (retrieved 2026-11-04T13:12:20Z; SHA-256 97eb4cde1d95f711ed578ca09e93483b3005ff45e24107e14ffb5ffecbafdd96)
+
+---
+
+## spider-browser
+
+A cloud browser SDK with page control, natural-language actions, element observation and autonomous agent runs, provided in several programming languages.
+
+- Catalog URL: https://awesomecua.com/resources/github-spider-rs-spider-browser/
+- Original source: https://github.com/spider-rs/spider-browser
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, recording, tool-integration
+- Evidence checked: 2026-11-09T19:56:36Z
+- ID: github:spider-rs/spider-browser
+
+### Limitations
+
+The README shows TypeScript, Python, Rust and Go clients, and says access requires a Spider API key. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-spider-rs-spider-browser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/spider-rs/spider-browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/spider-rs/spider-browser/HEAD/README.md (retrieved 2026-11-09T19:56:36Z; SHA-256 f20b5fd47929dd4f53547df9e22f0759e2a76f12eb5ed92e1723532deab7a5b4)
+- https://raw.githubusercontent.com/spider-rs/spider-browser/HEAD/LICENSE (retrieved 2026-11-09T14:20:45Z; SHA-256 1a3b65ed8c3b242aa834ab38e9d5cf85169c88f49cbe83a64d1f2f59238dd820)
 
 ---
 
@@ -2865,36 +3452,6 @@ Python toolkit and CLI for building, publishing and running multimodal agents th
 
 ---
 
-## SWE-agent
-
-SWE-agent introduces Agent-Computer Interfaces (ACI) enabling language models to autonomously navigate repositories, edit code, and run tests.
-
-- Catalog URL: https://awesomecua.com/resources/github-swe-agent-swe-agent/
-- Original source: https://github.com/SWE-agent/SWE-agent
-- Kind: framework
-- Review: curated
-- Scope: adjacent
-- Environments: desktop, linux
-- Topics: tool-integration, sandbox, evaluation
-- Evidence checked: 2026-11-04T13:12:38Z
-- ID: github:swe-agent/swe-agent
-
-- Record JSON: https://awesomecua.com/resources/github-swe-agent-swe-agent/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/SWE-agent/SWE-agent/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/SWE-agent/SWE-agent/HEAD/README.md (retrieved 2026-11-04T13:12:38Z; SHA-256 dcd880557720efbab0f5c0e68f2bc742309efecfce83244c9e670ec1f1adf76f)
-- https://raw.githubusercontent.com/SWE-agent/SWE-agent/HEAD/LICENSE (retrieved 2026-11-04T13:42:03Z; SHA-256 7610ed3916f6674e34b78417894abd57ff538b3cfdda3085e3643d82acbaf31f)
-
----
-
 ## Synapse
 
 A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
@@ -2932,6 +3489,39 @@ Training, memory-building and evaluation scripts for MiniWoB++ and Mind2Web are 
 - https://api.github.com/repos/ltzheng/Synapse/git/trees/main?recursive=1 (retrieved 2026-10-17T12:32:05Z; SHA-256 785a7163dac9f41b1d0ca97f8dd9311b6df6a09f3a5163438dd64db226a4ceaf)
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
 - https://raw.githubusercontent.com/ltzheng/Synapse/HEAD/LICENSE (retrieved 2026-10-17T12:34:09Z; SHA-256 cc4bce2274289d2b924fcc3c185c68b8e7c539365c5f8c72be865883244088ec)
+
+---
+
+## Tencent AI LAB - Self-Improving Agent
+
+A research code collection for web-agent self-improvement, including WebEvolver's world-model approach and WebCoT's reconstructed reasoning trajectories.
+
+- Catalog URL: https://awesomecua.com/resources/github-tencent-selfevolvingagent/
+- Original source: https://github.com/Tencent/SelfEvolvingAgent
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, self-reflection, world-models
+- Evidence checked: 2026-11-09T06:16:38Z
+- ID: github:tencent/selfevolvingagent
+
+### Limitations
+
+The repository lists separate WebEvolver and WebCoT directories and also includes VScan, a visual-token reduction project.
+
+- Record JSON: https://awesomecua.com/resources/github-tencent-selfevolvingagent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Tencent/SelfEvolvingAgent/HEAD/README.md (retrieved 2026-11-09T06:16:38Z; SHA-256 873a78a46309fa3892d94b72cf73fd55542bae0e0ba8235afb26a848a64a8255)
 
 ---
 
@@ -4673,36 +5263,6 @@ Pluggable browser-automation and web-agent runtime supporting interchangeable LL
 
 - https://raw.githubusercontent.com/christopher-inegbedion/anybrowser/main/README.md (retrieved 2026-11-04T17:55:26Z; SHA-256 ba4beadee6495a1403ebeb56ba2f2584624ac69739b045a65d610d96a543725d)
 - https://raw.githubusercontent.com/christopher-inegbedion/anybrowser/HEAD/LICENSE (retrieved 2026-11-04T18:00:04Z; SHA-256 9bf71536b7d4f2a95ded917e7e105dfeb09ec594d9bc3eeb7d840946b82236a9)
-
----
-
-## AnythingLLM
-
-AnythingLLM is a local-first desktop and server application supporting custom AI agents, web browsing, MCP tools, and document RAG.
-
-- Catalog URL: https://awesomecua.com/resources/github-mintplex-labs-anything-llm/
-- Original source: https://github.com/Mintplex-Labs/anything-llm
-- Kind: framework
-- Review: curated
-- Scope: adjacent
-- Environments: cross-platform, desktop, web, macos, windows, linux
-- Topics: workflow, tool-integration, memory, web-navigation
-- Evidence checked: 2026-11-04T15:03:37Z
-- ID: github:mintplex-labs/anything-llm
-
-- Record JSON: https://awesomecua.com/resources/github-mintplex-labs-anything-llm/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/Mintplex-Labs/anything-llm/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/Mintplex-Labs/anything-llm/HEAD/README.md (retrieved 2026-11-04T15:03:37Z; SHA-256 54fa19d813e8bb7bbed9346771e17ad29a9d5753effa19427bea4c38de6c7a2c)
-- https://raw.githubusercontent.com/Mintplex-Labs/anything-llm/HEAD/LICENSE (retrieved 2026-11-04T15:22:51Z; SHA-256 782d2dc18a1ed9028ca992520f42b2e0b6187807da0d14455b8ae608e2e5692e)
 
 ---
 
@@ -6782,36 +7342,6 @@ clef-use is a local computer-use runtime combining structured accessibility, Sig
 
 - https://raw.githubusercontent.com/kotori0919/clef-use/HEAD/README.md (retrieved 2026-11-04T14:41:50Z; SHA-256 15bb6a153e66783e85e48f421232f6f76dc1c88532c5b156189ad3112e406f1a)
 - https://raw.githubusercontent.com/kotori0919/clef-use/HEAD/LICENSE (retrieved 2026-11-04T14:45:19Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
-
----
-
-## CLI-Anything
-
-CLI-Anything automatically wraps professional desktop GUI applications such as GIMP, Blender, and LibreOffice into structured agent-native CLIs.
-
-- Catalog URL: https://awesomecua.com/resources/github-hkuds-cli-anything/
-- Original source: https://github.com/HKUDS/CLI-Anything
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, linux, macos, windows
-- Topics: tool-integration, automation, workflow
-- Evidence checked: 2026-11-04T13:12:16Z
-- ID: github:hkuds/cli-anything
-
-- Record JSON: https://awesomecua.com/resources/github-hkuds-cli-anything/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/HKUDS/CLI-Anything/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/HKUDS/CLI-Anything/HEAD/README.md (retrieved 2026-11-04T13:12:16Z; SHA-256 24669c9549ad753b173eead4ffc465ebc0b8dc9b4d64e7be73cd5b3b03f56ac9)
-- https://raw.githubusercontent.com/HKUDS/CLI-Anything/HEAD/LICENSE (retrieved 2026-11-04T13:41:39Z; SHA-256 0cff1a8ac2a381870a2c57cbe9b25f95bea0925b39b7fbf6a04ec23df7c77760)
 
 ---
 
@@ -9729,36 +10259,6 @@ The README says its arXiv paper is still to come; the GUIGuard project page pres
 
 ---
 
-## Guibot
-
-Guibot is a Python GUI automation library unifying template matching, feature detection, cascade classifiers, OCR, and VNC/PyAutoGUI control.
-
-- Catalog URL: https://awesomecua.com/resources/github-intra2net-guibot/
-- Original source: https://github.com/intra2net/guibot
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop
-- Topics: automation, grounding
-- Evidence checked: 2026-11-04T13:12:19Z
-- ID: github:intra2net/guibot
-
-- Record JSON: https://awesomecua.com/resources/github-intra2net-guibot/record.json
-
-### License declarations
-
-- code: LGPL-3.0 — https://raw.githubusercontent.com/intra2net/guibot/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/intra2net/guibot/HEAD/README.md (retrieved 2026-11-04T13:12:19Z; SHA-256 1c1cc6a0dcd0429a3cb799b68122b13ea00e946e2a6ce0443b85e4688626bdd1)
-- https://raw.githubusercontent.com/intra2net/guibot/HEAD/LICENSE (retrieved 2026-11-04T13:23:05Z; SHA-256 da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768)
-
----
-
 ## GUIPivot
 
 Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
@@ -11083,36 +11583,6 @@ Zero-dependency in-browser web automation runtime with an embedded sandbox and M
 
 - https://raw.githubusercontent.com/loki4agent/loki-auto/HEAD/README.md (retrieved 2026-11-04T16:51:41Z; SHA-256 bd12d1e2e7107ab386da53aaed5f95546ae186718917c33e76dc67fab158cd57)
 - https://raw.githubusercontent.com/loki4agent/loki-auto/HEAD/LICENSE (retrieved 2026-11-04T16:56:34Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
-
----
-
-## LongHorizon-Harness
-
-LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify-recover loop for multi-hour autonomous computer-use workflows.
-
-- Catalog URL: https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/
-- Original source: https://github.com/AMAP-ML/LongHorizon-Harness
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: desktop, macos, linux, windows
-- Topics: long-horizon, planning, self-reflection, workflow
-- Evidence checked: 2026-11-04T13:12:05Z
-- ID: github:amap-ml/longhorizon-harness
-
-- Record JSON: https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/AMAP-ML/LongHorizon-Harness/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/AMAP-ML/LongHorizon-Harness/HEAD/README.md (retrieved 2026-11-04T13:12:05Z; SHA-256 3300007a449cc6d3afc8992a3694e81bfb560ef1bff2a34cf5f272615168e0cc)
-- https://raw.githubusercontent.com/AMAP-ML/LongHorizon-Harness/HEAD/LICENSE (retrieved 2026-11-04T13:41:38Z; SHA-256 19811a1bfa17047c5755b8279aab9f2a628b261c4967f1592180af282d99f9cd)
 
 ---
 
@@ -16978,39 +17448,6 @@ TeachReplay is a harness-agnostic teach-by-demonstration engine that records hum
 
 - https://raw.githubusercontent.com/Ottohere-Mourn/TeachReplay/HEAD/README.md (retrieved 2026-11-04T14:20:11Z; SHA-256 af854e637ea648c2eed72f8415ba9dfb6c5b0a31ffabbd73c6b232a3863abdeb)
 - https://raw.githubusercontent.com/Ottohere-Mourn/TeachReplay/HEAD/LICENSE (retrieved 2026-11-04T14:24:00Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
-
----
-
-## Tencent AI LAB - Self-Improving Agent
-
-A research code collection for web-agent self-improvement, including WebEvolver's world-model approach and WebCoT's reconstructed reasoning trajectories.
-
-- Catalog URL: https://awesomecua.com/resources/github-tencent-selfevolvingagent/
-- Original source: https://github.com/Tencent/SelfEvolvingAgent
-- Kind: framework
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, self-reflection, world-models
-- Evidence checked: 2026-11-09T06:16:38Z
-- ID: github:tencent/selfevolvingagent
-
-### Limitations
-
-The repository lists separate WebEvolver and WebCoT directories and also includes VScan, a visual-token reduction project.
-
-- Record JSON: https://awesomecua.com/resources/github-tencent-selfevolvingagent/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/Tencent/SelfEvolvingAgent/HEAD/README.md (retrieved 2026-11-09T06:16:38Z; SHA-256 873a78a46309fa3892d94b72cf73fd55542bae0e0ba8235afb26a848a64a8255)
 
 ---
 

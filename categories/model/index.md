@@ -1,6 +1,6 @@
 # Computer-use agent models and checkpoints
 
-> 283 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
+> 351 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/model/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -236,6 +236,36 @@ The public manifest contains 26 safetensors shards for the BF16 checkpoint and t
 
 ---
 
+## OpenCUA
+
+Open computer-use research stack including models and training resources.
+
+- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-opencua/
+- Original source: https://github.com/xlang-ai/OpenCUA
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: data-generation, planning
+- Evidence checked: 2026-10-16T06:35:59Z
+- ID: github:xlang-ai/opencua
+
+- Record JSON: https://awesomecua.com/resources/github-xlang-ai-opencua/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/README.md (retrieved 2026-10-16T06:35:59Z; SHA-256 91fed11b234775bde91bb766ee65e1015897ced6668de8e80418fcee09f8f75d)
+- https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/LICENSE (retrieved 2026-10-16T06:42:00Z; SHA-256 a53fdf6cdedc93c99879b2881d8626d61b09e9a03841b3dc6ebe4e267f4fb2bf)
+
+---
+
 ## ScaleCUA
 
 Computer-use model family trained with cross-platform interaction data.
@@ -429,36 +459,6 @@ The repository provides FP8 safetensors weights and configuration files. The car
 
 - https://huggingface.co/api/models/Hcompany/Holo4-35B-A3B-FP8 (retrieved 2026-11-09T05:05:14Z; SHA-256 370ea84521180e0f9e981b0e5b58ee1d30390e2f0efa9e049bd1c65ec534db15)
 - https://huggingface.co/api/models/Hcompany/Holo4-35B-A3B-FP8 (retrieved 2026-11-09T05:05:14Z; SHA-256 370ea84521180e0f9e981b0e5b58ee1d30390e2f0efa9e049bd1c65ec534db15)
-
----
-
-## OpenCUA
-
-Open computer-use research stack including models and training resources.
-
-- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-opencua/
-- Original source: https://github.com/xlang-ai/OpenCUA
-- Kind: model
-- Review: curated
-- Scope: core
-- Environments: desktop
-- Topics: data-generation, planning
-- Evidence checked: 2026-10-16T06:35:59Z
-- ID: github:xlang-ai/opencua
-
-- Record JSON: https://awesomecua.com/resources/github-xlang-ai-opencua/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/README.md (retrieved 2026-10-16T06:35:59Z; SHA-256 91fed11b234775bde91bb766ee65e1015897ced6668de8e80418fcee09f8f75d)
-- https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/LICENSE (retrieved 2026-10-16T06:42:00Z; SHA-256 a53fdf6cdedc93c99879b2881d8626d61b09e9a03841b3dc6ebe4e267f4fb2bf)
 
 ---
 
@@ -672,6 +672,36 @@ The card lists this repository as the FP8 checkpoint of Holotron4-30B-A3B within
 - https://huggingface.co/api/models/Hcompany/Holotron4-30B-A3B-FP8/revision/c2114d9636458189f132f9de5d912bcbc30403dd (retrieved 2026-10-19T06:18:45Z; SHA-256 f5f0b6f378377afdfd40274df0a2574d727037c74a6d6239ca5028bfe0bca4c5)
 - https://huggingface.co/Hcompany/Holotron4-30B-A3B-FP8/raw/c2114d9636458189f132f9de5d912bcbc30403dd/config.json (retrieved 2026-10-18T15:57:39Z; SHA-256 f538dcbf62b570a527f939db535bbdedd4c4aea0b125dbc6a27c1f3016d28632)
 - https://huggingface.co/Hcompany/Holotron4-30B-A3B-FP8/raw/c2114d9636458189f132f9de5d912bcbc30403dd/README.md (retrieved 2026-10-19T06:18:46Z; SHA-256 a193d5b0c7f85a97361d4655240cfe549a244c31ac7f04befe14ae852806ac26)
+
+---
+
+## InternVL
+
+Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.
+
+- Catalog URL: https://awesomecua.com/resources/github-opengvlab-internvl/
+- Original source: https://github.com/OpenGVLab/InternVL
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android
+- Topics: screen-understanding, grounding, video
+- Evidence checked: 2026-11-04T13:12:30Z
+- ID: github:opengvlab/internvl
+
+- Record JSON: https://awesomecua.com/resources/github-opengvlab-internvl/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenGVLab/InternVL/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenGVLab/InternVL/HEAD/README.md (retrieved 2026-11-04T13:12:30Z; SHA-256 0d5338fba1508bf7ffc9ccb2479c852e20b195394376b3c648750706b1465e10)
+- https://raw.githubusercontent.com/OpenGVLab/InternVL/HEAD/LICENSE (retrieved 2026-11-04T13:41:37Z; SHA-256 8f03d25fbcffafa2254d4d1414bf2a38423a966006b4a6964ee21f728d610bff)
 
 ---
 
@@ -1119,33 +1149,44 @@ Hub API at revision 2bdb9285 lists 26 BF16 safetensors shards (about 35.1B param
 
 ---
 
-## InternVL
+## OmniParser v2 model bundle
 
-Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.
+A screen-parsing weight bundle containing icon-region detectors and an icon captioner for converting screenshots into agent-readable interface elements.
 
-- Catalog URL: https://awesomecua.com/resources/github-opengvlab-internvl/
-- Original source: https://github.com/OpenGVLab/InternVL
+- Catalog URL: https://awesomecua.com/resources/url-e21ca7c859544dbf5fb6/
+- Original source: https://huggingface.co/microsoft/OmniParser-v2.0
 - Kind: model
 - Review: curated
 - Scope: core
-- Environments: cross-platform, web, desktop, android
-- Topics: screen-understanding, grounding, video
-- Evidence checked: 2026-11-04T13:12:30Z
-- ID: github:opengvlab/internvl
+- Environments: unspecified
+- Topics: screen-understanding, grounding
+- Evidence checked: 2026-10-16T06:36:04Z
+- ID: url:e21ca7c859544dbf5fb6
 
-- Record JSON: https://awesomecua.com/resources/github-opengvlab-internvl/record.json
+### Limitations
+
+The manifest contains icon_detect/model.pt, icon_detect_v3/model.pt and icon_caption/model.safetensors. Licenses differ by folder: original YOLOv8 detector AGPL-3.0; YOLOv9-E detector and Florence-2 captioner MIT. The card’s top-level MIT metadata must not cover the entire bundle. Components remain one resource; no binaries were executed.
+
+- Record JSON: https://awesomecua.com/resources/url-e21ca7c859544dbf5fb6/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/OpenGVLab/InternVL/HEAD/LICENSE
+- code: not recorded
 - data: not recorded
 - document: not recorded
-- weights: not recorded
+- weights: Mixed by component: icon_detect = AGPL-3.0; icon_detect_v3 = MIT; icon_caption = MIT — https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/README.md
+
+- weights review: The top-level Hub metadata says MIT, but the same card and folder licenses distinguish the original detector from the new detector and captioner. Preserve one model-bundle identity with a mixed license declaration.
+  Sources: https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/README.md, https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect/LICENSE, https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect_v3/LICENSE, https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_caption/LICENSE
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/OpenGVLab/InternVL/HEAD/README.md (retrieved 2026-11-04T13:12:30Z; SHA-256 0d5338fba1508bf7ffc9ccb2479c852e20b195394376b3c648750706b1465e10)
-- https://raw.githubusercontent.com/OpenGVLab/InternVL/HEAD/LICENSE (retrieved 2026-11-04T13:41:37Z; SHA-256 8f03d25fbcffafa2254d4d1414bf2a38423a966006b4a6964ee21f728d610bff)
+- https://raw.githubusercontent.com/microsoft/OmniParser/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 f4ebaafcc0ab0b9e9cc55cb587678e5c83a5bbd64469fb2cc52bc63843c5cc6d)
+- https://huggingface.co/api/models/microsoft/OmniParser-v2.0 (retrieved 2026-10-17T04:03:41Z; SHA-256 1ea8af0cfd9cd716de8af8b78b2451470e1e1f22233a7286c5f40e1f496dc4be)
+- https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/README.md (retrieved 2026-10-17T04:03:41Z; SHA-256 6ae154d65bfc2755703440be02acf63a37b741a1101b7c42b666da93a4ed2310)
+- https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect/LICENSE (retrieved 2026-10-17T04:09:13Z; SHA-256 4df3c306dddaaf4baffdff5ca820cc679ac8cd6dc263c6a74517783e42fa7a3b)
+- https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect_v3/LICENSE (retrieved 2026-10-17T04:06:57Z; SHA-256 646f8936b8ddcd14e13e578ff6857e368780b0d1a4f6066bee89211923a373e2)
+- https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_caption/LICENSE (retrieved 2026-10-17T04:09:13Z; SHA-256 d9a1b1e30d633d5732ea18e3cba9538d293ebc53e1a9e4e96ab739e0c5c4f1cb)
 
 ---
 
@@ -1521,6 +1562,40 @@ The repository contains model weights and configuration files. The card names th
 
 ---
 
+## ScreenVLM
+
+A model that converts web page screenshots into structured markup containing UI element locations, class labels, and visible text.
+
+- Catalog URL: https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/
+- Original source: https://huggingface.co/docling-project/ScreenVLM
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: screen-understanding, grounding
+- Evidence checked: 2026-11-09T19:58:08Z
+- ID: url:e3d85e557f8d53f8df64
+
+### Limitations
+
+The card describes a ScreenParse v2 checkpoint, a retained v1 branch, and inference examples. It declares an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/docling-project/ScreenVLM
+
+### Primary evidence
+
+- https://huggingface.co/api/models/docling-project/ScreenVLM (retrieved 2026-11-09T19:58:08Z; SHA-256 32f485c020c27777b09d2698a0fbf7ae77712b13cb75ad4d7deecd1d8e6d9c37)
+- https://huggingface.co/api/models/docling-project/ScreenVLM (retrieved 2026-11-09T19:58:08Z; SHA-256 32f485c020c27777b09d2698a0fbf7ae77712b13cb75ad4d7deecd1d8e6d9c37)
+
+---
+
 ## ShowUI-π
 
 Vision-language-action model and training code for GUI dragging, with links to checkpoints and continuous-action evaluation data.
@@ -1870,6 +1945,40 @@ The card names Qwen2-VL-7B as the base model, declares an Apache 2.0 license, an
 
 ---
 
+## Eagle
+
+Eagle is a vision-language model family that includes LocateAnything, a grounding component documented for locating GUI elements alongside other visual targets.
+
+- Catalog URL: https://awesomecua.com/resources/github-nvlabs-eagle/
+- Original source: https://github.com/NVlabs/Eagle
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-09T19:57:04Z
+- ID: github:nvlabs/eagle
+
+### Limitations
+
+The repository links model collections and contains code and documentation for several Eagle variants and LocateAnything. The README labels the code license Apache 2.0 and the model license NVIDIA License.
+
+- Record JSON: https://awesomecua.com/resources/github-nvlabs-eagle/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/NVlabs/Eagle/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/NVlabs/Eagle/HEAD/README.md (retrieved 2026-11-09T19:57:04Z; SHA-256 22ca427d29d86db52b7e9d05bc7c20317c06f4ccd5437bfc8beb9d5e61d829a1)
+- https://raw.githubusercontent.com/NVlabs/Eagle/HEAD/LICENSE (retrieved 2026-11-09T14:20:50Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 ## EvoCUA
 
 Computer-use model and training resources from the EvoCUA project.
@@ -1963,6 +2072,40 @@ The card's model is trained on desktop data only and reports publisher-run resul
 - https://huggingface.co/api/models/ServiceNow/GroundNext-7B-V0?expand%5B%5D=sha&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=cardData&expand%5B%5D=config&expand%5B%5D=safetensors&expand%5B%5D=siblings&expand%5B%5D=lastModified (retrieved 2026-10-18T15:37:30Z; SHA-256 a43aea947bea033c19fd4a02f7a9881a728bd264745680f4efe99556fdfa7ee1)
 - https://huggingface.co/ServiceNow/GroundNext-7B-V0/raw/1c8864c5e64d04897b5d577711fccfc8782b65c0/groundcua.py (retrieved 2026-10-18T15:37:30Z; SHA-256 8a6fbdd818e027f730677a63c03f7a0e02e7f548b48618a38cef8e7202006cca)
 - https://huggingface.co/ServiceNow/GroundNext-7B-V0/raw/1c8864c5e64d04897b5d577711fccfc8782b65c0/README.md (retrieved 2026-10-18T15:37:29Z; SHA-256 c655e19cc92de2b5794f629b885c1b6cc235457e75c71d7f60c78ca434a6fe4f)
+
+---
+
+## GUI-Actor-3B-Qwen2.5-VL-LiteTrain
+
+A GUI-grounding checkpoint built on Qwen2.5-VL-3B with an attention-based action head. Given a screenshot and instruction, it predicts a click location.
+
+- Catalog URL: https://awesomecua.com/resources/url-5e0c3173aea8edd0f3b7/
+- Original source: https://huggingface.co/qianhuiwu/GUI-Actor-3B-Qwen2.5-VL-LiteTrain
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, action-prediction
+- Evidence checked: 2026-11-09T19:57:46Z
+- ID: url:5e0c3173aea8edd0f3b7
+
+### Limitations
+
+The repository contains model weight shards, processor files and training metadata. The card provides inference code using the GUI-Actor package and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-5e0c3173aea8edd0f3b7/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/qianhuiwu/GUI-Actor-3B-Qwen2.5-VL-LiteTrain
+
+### Primary evidence
+
+- https://huggingface.co/api/models/qianhuiwu/GUI-Actor-3B-Qwen2.5-VL-LiteTrain (retrieved 2026-11-09T19:57:46Z; SHA-256 646a8deab78db5fbfda4348c54577c84845b170df87ddeb97d36f072fa103a8a)
+- https://huggingface.co/api/models/qianhuiwu/GUI-Actor-3B-Qwen2.5-VL-LiteTrain (retrieved 2026-11-09T19:57:46Z; SHA-256 646a8deab78db5fbfda4348c54577c84845b170df87ddeb97d36f072fa103a8a)
 
 ---
 
@@ -2495,44 +2638,37 @@ The card identifies fine-tuned YOLOv8 and BLIP-2 models and links the resource's
 
 ---
 
-## OmniParser v2 model bundle
+## OpAgent-32B
 
-A screen-parsing weight bundle containing icon-region detectors and an icon captioner for converting screenshots into agent-readable interface elements.
+A vision-language model fine-tuned for web navigation. It takes a task instruction and webpage screenshot and produces a browser action or final answer.
 
-- Catalog URL: https://awesomecua.com/resources/url-e21ca7c859544dbf5fb6/
-- Original source: https://huggingface.co/microsoft/OmniParser-v2.0
+- Catalog URL: https://awesomecua.com/resources/url-875b417b3ef43021cd74/
+- Original source: https://huggingface.co/codefuse-ai/OpAgent-32B
 - Kind: model
 - Review: curated
 - Scope: core
-- Environments: unspecified
-- Topics: screen-understanding, grounding
-- Evidence checked: 2026-10-16T06:36:04Z
-- ID: url:e21ca7c859544dbf5fb6
+- Environments: web
+- Topics: web-navigation, action-prediction, reinforcement-learning
+- Evidence checked: 2026-11-09T19:56:06Z
+- ID: url:875b417b3ef43021cd74
 
 ### Limitations
 
-The manifest contains icon_detect/model.pt, icon_detect_v3/model.pt and icon_caption/model.safetensors. Licenses differ by folder: original YOLOv8 detector AGPL-3.0; YOLOv9-E detector and Florence-2 captioner MIT. The card’s top-level MIT metadata must not cover the entire bundle. Components remain one resource; no binaries were executed.
+The card names Qwen3-VL-32B-Thinking as the base model and describes supervised fine-tuning followed by online reinforcement learning. It includes a vLLM inference example and states an Apache-2.0 license.
 
-- Record JSON: https://awesomecua.com/resources/url-e21ca7c859544dbf5fb6/record.json
+- Record JSON: https://awesomecua.com/resources/url-875b417b3ef43021cd74/record.json
 
 ### License declarations
 
 - code: not recorded
 - data: not recorded
 - document: not recorded
-- weights: Mixed by component: icon_detect = AGPL-3.0; icon_detect_v3 = MIT; icon_caption = MIT — https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/README.md
-
-- weights review: The top-level Hub metadata says MIT, but the same card and folder licenses distinguish the original detector from the new detector and captioner. Preserve one model-bundle identity with a mixed license declaration.
-  Sources: https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/README.md, https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect/LICENSE, https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect_v3/LICENSE, https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_caption/LICENSE
+- weights: apache-2.0 — https://huggingface.co/codefuse-ai/OpAgent-32B
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/microsoft/OmniParser/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 f4ebaafcc0ab0b9e9cc55cb587678e5c83a5bbd64469fb2cc52bc63843c5cc6d)
-- https://huggingface.co/api/models/microsoft/OmniParser-v2.0 (retrieved 2026-10-17T04:03:41Z; SHA-256 1ea8af0cfd9cd716de8af8b78b2451470e1e1f22233a7286c5f40e1f496dc4be)
-- https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/README.md (retrieved 2026-10-17T04:03:41Z; SHA-256 6ae154d65bfc2755703440be02acf63a37b741a1101b7c42b666da93a4ed2310)
-- https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect/LICENSE (retrieved 2026-10-17T04:09:13Z; SHA-256 4df3c306dddaaf4baffdff5ca820cc679ac8cd6dc263c6a74517783e42fa7a3b)
-- https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_detect_v3/LICENSE (retrieved 2026-10-17T04:06:57Z; SHA-256 646f8936b8ddcd14e13e578ff6857e368780b0d1a4f6066bee89211923a373e2)
-- https://huggingface.co/microsoft/OmniParser-v2.0/raw/main/icon_caption/LICENSE (retrieved 2026-10-17T04:09:13Z; SHA-256 d9a1b1e30d633d5732ea18e3cba9538d293ebc53e1a9e4e96ab739e0c5c4f1cb)
+- https://huggingface.co/api/models/codefuse-ai/OpAgent-32B (retrieved 2026-11-09T19:56:06Z; SHA-256 c97f43a310d63999646c3855f5d4f0fdaf545248faff35da51f6f9e31b427cbf)
+- https://huggingface.co/api/models/codefuse-ai/OpAgent-32B (retrieved 2026-11-09T19:56:06Z; SHA-256 c97f43a310d63999646c3855f5d4f0fdaf545248faff35da51f6f9e31b427cbf)
 
 ---
 
@@ -2596,6 +2732,40 @@ OS-Atlas base checkpoint fine-tuned from Qwen2-VL-7B-Instruct, using the standar
 
 ---
 
+## qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain
+
+A GUI-grounding checkpoint built on Qwen2.5-VL-7B-Instruct with an attention-based action head. Its example predicts a click point from a screenshot and instruction.
+
+- Catalog URL: https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/
+- Original source: https://huggingface.co/qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-09T19:58:09Z
+- ID: url:fe85a6b4ffbdb303f382
+
+### Limitations
+
+The repository contains safetensors weight shards and processor files. The card lists an MIT license and shows inference using the GUI-Actor code.
+
+- Record JSON: https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain
+
+### Primary evidence
+
+- https://huggingface.co/api/models/qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain (retrieved 2026-11-09T19:58:09Z; SHA-256 ce5b9c2d0e6bf3c3169a79fdc979cad3f06660af5e007481294b70023ac57050)
+- https://huggingface.co/api/models/qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain (retrieved 2026-11-09T19:58:09Z; SHA-256 ce5b9c2d0e6bf3c3169a79fdc979cad3f06660af5e007481294b70023ac57050)
+
+---
+
 ## Qwen2.5-VL-3B-UI-R1-E
 
 Qwen2.5-VL-3B-UI-R1-E releases UI-R1-E-3B, a model that predicts click coordinates from interface screenshots and commands, with reported mobile, desktop, and web grounding evaluations.
@@ -2627,6 +2797,107 @@ The repository lists weight shards and provides inference and coordinate-rescali
 
 - https://huggingface.co/api/models/LZXzju/Qwen2.5-VL-3B-UI-R1-E (retrieved 2026-11-09T05:05:18Z; SHA-256 28b879598f08749648e25abff6fb4507850b4991b216d1c914aab5061a9a61a8)
 - https://huggingface.co/api/models/LZXzju/Qwen2.5-VL-3B-UI-R1-E (retrieved 2026-11-09T05:05:18Z; SHA-256 28b879598f08749648e25abff6fb4507850b4991b216d1c914aab5061a9a61a8)
+
+---
+
+## Qwen3-VL-2B-Instruct
+
+A vision-language model whose card describes visual-agent operation of PC and mobile interfaces, including element recognition and tool use. This repository releases its weights.
+
+- Catalog URL: https://awesomecua.com/resources/url-c4d0846c44df2c0d4099/
+- Original source: https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop
+- Topics: screen-understanding, grounding, mobile-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:56:26Z
+- ID: url:c4d0846c44df2c0d4099
+
+### Limitations
+
+The card includes a Transformers inference example and declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-c4d0846c44df2c0d4099/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-2B-Instruct (retrieved 2026-11-09T19:56:26Z; SHA-256 aa3efb4a85db9acd2e3ebbbd64bf69335004a35bb4716f4468180159d3ed8280)
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-2B-Instruct (retrieved 2026-11-09T19:56:26Z; SHA-256 aa3efb4a85db9acd2e3ebbbd64bf69335004a35bb4716f4468180159d3ed8280)
+
+---
+
+## Qwen3-VL-32B-Instruct
+
+Qwen3-VL-32B-Instruct, the 32B instruction-tuned edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.
+
+- Catalog URL: https://awesomecua.com/resources/url-560a21b67220296ba009/
+- Original source: https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop
+- Topics: screen-understanding, automation, tool-integration
+- Evidence checked: 2026-11-09T19:57:49Z
+- ID: url:560a21b67220296ba009
+
+### Limitations
+
+The card provides a Transformers loading example and lists Apache-2.0 as the license.
+
+- Record JSON: https://awesomecua.com/resources/url-560a21b67220296ba009/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-32B-Instruct (retrieved 2026-11-09T19:57:49Z; SHA-256 aaa156892314896bcb41497dd293c6e5ff0c9bd0723cf005a78929d0161cf053)
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-32B-Instruct (retrieved 2026-11-09T19:57:49Z; SHA-256 aaa156892314896bcb41497dd293c6e5ff0c9bd0723cf005a78929d0161cf053)
+
+---
+
+## Rex-Omni
+
+Rex-Omni is a general visual perception model with GUI grounding and pointing modes. The repository provides inference examples, evaluation materials, and fine-tuning code.
+
+- Catalog URL: https://awesomecua.com/resources/github-idea-research-rex-omni/
+- Original source: https://github.com/IDEA-Research/Rex-Omni
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-09T19:57:06Z
+- ID: github:idea-research/rex-omni
+
+### Limitations
+
+The README links model weights hosted on Hugging Face and documents Transformers and vLLM backends. GUI grounding and GUI pointing have separate tutorials.
+
+- Record JSON: https://awesomecua.com/resources/github-idea-research-rex-omni/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/IDEA-Research/Rex-Omni/HEAD/README.md (retrieved 2026-11-09T19:57:06Z; SHA-256 6ba787c341266c13b5042c036a03f56b81b9b3e85ae1ad991abfb2dbbb704d06)
 
 ---
 
@@ -3177,6 +3448,78 @@ The repository contains sharded safetensors weights and tokenizer files. The car
 
 ---
 
+## AndroidGen-GLM-4-9B
+
+AndroidGen-GLM-4-9B is a released model for agents that carry out tasks across Android apps without manually labeled interaction data.
+
+- Catalog URL: https://awesomecua.com/resources/url-66d842fe6552d3ca62a1/
+- Original source: https://huggingface.co/THUDM/androidgen-glm-4-9b
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, action-prediction
+- Evidence checked: 2026-11-09T19:57:39Z
+- ID: url:66d842fe6552d3ca62a1
+
+### Limitations
+
+The repository lists model weight shards and tokenizer files. The card names GLM-4-9B as its base model and points to the AndroidGen repository for inference code and requirements.
+
+- Record JSON: https://awesomecua.com/resources/url-66d842fe6552d3ca62a1/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: other — https://huggingface.co/THUDM/androidgen-glm-4-9b
+
+### Primary evidence
+
+- https://huggingface.co/api/models/THUDM/androidgen-glm-4-9b (retrieved 2026-11-09T19:57:39Z; SHA-256 0b88c9823b6c5adc527daa666d9c4ab002f4ff0715611d0bb71f9dfe7602f2a3)
+- https://huggingface.co/api/models/THUDM/androidgen-glm-4-9b (retrieved 2026-11-09T19:57:39Z; SHA-256 0b88c9823b6c5adc527daa666d9c4ab002f4ff0715611d0bb71f9dfe7602f2a3)
+- https://huggingface.co/api/models/THUDM/androidgen-glm-4-9b (retrieved 2026-11-09T20:03:02Z; SHA-256 0b88c9823b6c5adc527daa666d9c4ab002f4ff0715611d0bb71f9dfe7602f2a3)
+- https://huggingface.co/api/models/zai-org/androidgen-glm-4-9b (retrieved 2026-11-09T20:03:02Z; SHA-256 0b88c9823b6c5adc527daa666d9c4ab002f4ff0715611d0bb71f9dfe7602f2a3)
+
+---
+
+## AndroidGen-Llama-3-70B
+
+AndroidGen-Llama-3-70B is a released model for agents that carry out tasks across Android applications such as messaging, email and settings without manually labeled interaction data.
+
+- Catalog URL: https://awesomecua.com/resources/url-75e93dff049c046c586e/
+- Original source: https://huggingface.co/THUDM/androidgen-llama-3-70b
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, cross-app
+- Evidence checked: 2026-11-09T19:57:47Z
+- ID: url:75e93dff049c046c586e
+
+### Limitations
+
+The repository lists model weight shards. The card names Llama-3-70B as its base model and directs readers to a separate GitHub page for inference requirements.
+
+- Record JSON: https://awesomecua.com/resources/url-75e93dff049c046c586e/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: other — https://huggingface.co/THUDM/androidgen-llama-3-70b
+
+### Primary evidence
+
+- https://huggingface.co/api/models/THUDM/androidgen-llama-3-70b (retrieved 2026-11-09T19:57:47Z; SHA-256 60b8dee5bbbb8ff1a220b7986f30fc8f4188ee68a556aa1a849ac10a570afcd6)
+- https://huggingface.co/api/models/THUDM/androidgen-llama-3-70b (retrieved 2026-11-09T19:57:47Z; SHA-256 60b8dee5bbbb8ff1a220b7986f30fc8f4188ee68a556aa1a849ac10a570afcd6)
+- https://huggingface.co/api/models/THUDM/androidgen-llama-3-70b (retrieved 2026-11-09T20:03:06Z; SHA-256 60b8dee5bbbb8ff1a220b7986f30fc8f4188ee68a556aa1a849ac10a570afcd6)
+- https://huggingface.co/api/models/zai-org/androidgen-llama-3-70b (retrieved 2026-11-09T20:03:07Z; SHA-256 60b8dee5bbbb8ff1a220b7986f30fc8f4188ee68a556aa1a849ac10a570afcd6)
+
+---
+
 ## Aria-UI context-aware checkpoint
 
 The context-aware Aria-UI release that uses interaction context to support grounding in dynamic Android and desktop agent tasks.
@@ -3212,6 +3555,74 @@ The Hub manifest exposes twelve safetensors shards and model code/configuration,
 
 ---
 
+## asil-qwen35-2b-rl
+
+An ASIL reinforcement-learning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+
+- Catalog URL: https://awesomecua.com/resources/url-d740ec821c7c466db2bf/
+- Original source: https://huggingface.co/sharryXR/asil-qwen35-2b-rl
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: action-prediction, reinforcement-learning, tool-integration
+- Evidence checked: 2026-11-09T19:57:49Z
+- ID: url:d740ec821c7c466db2bf
+
+### Limitations
+
+The card names Qwen/Qwen3.5-2B as the base model and 320 training and 80 validation task prompts. It lists Apache-2.0 as the license.
+
+- Record JSON: https://awesomecua.com/resources/url-d740ec821c7c466db2bf/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/sharryXR/asil-qwen35-2b-rl
+
+### Primary evidence
+
+- https://huggingface.co/api/models/sharryXR/asil-qwen35-2b-rl (retrieved 2026-11-09T19:57:49Z; SHA-256 960d9a3f3df26dd0b0d9c2b8573f734dd16c6e5dc0c069d58fbe04ea6ba6e759)
+- https://huggingface.co/api/models/sharryXR/asil-qwen35-2b-rl (retrieved 2026-11-09T19:57:49Z; SHA-256 960d9a3f3df26dd0b0d9c2b8573f734dd16c6e5dc0c069d58fbe04ea6ba6e759)
+
+---
+
+## asil-qwen35-9b-sft
+
+An ASIL supervised fine-tuning checkpoint for an application-control approach based on structured state and semantic actions, released with loadable model weights.
+
+- Catalog URL: https://awesomecua.com/resources/url-9960d240939244c3edaa/
+- Original source: https://huggingface.co/sharryXR/asil-qwen35-9b-sft
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: action-prediction, imitation-learning, tool-integration
+- Evidence checked: 2026-11-09T19:57:49Z
+- ID: url:9960d240939244c3edaa
+
+### Limitations
+
+The card names Qwen/Qwen3.5-9B as the base model and reports 2,886 training and 732 validation rows. It lists Apache-2.0 as the license.
+
+- Record JSON: https://awesomecua.com/resources/url-9960d240939244c3edaa/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/sharryXR/asil-qwen35-9b-sft
+
+### Primary evidence
+
+- https://huggingface.co/api/models/sharryXR/asil-qwen35-9b-sft (retrieved 2026-11-09T19:57:49Z; SHA-256 fa17d9565392839288c1873e367addaff803a4b6c711df9c8083f83c46ba6d02)
+- https://huggingface.co/api/models/sharryXR/asil-qwen35-9b-sft (retrieved 2026-11-09T19:57:49Z; SHA-256 fa17d9565392839288c1873e367addaff803a4b6c711df9c8083f83c46ba6d02)
+
+---
+
 ## AutoGLM Phone 9B
 
 AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters and tagged for Chinese.
@@ -3239,6 +3650,76 @@ AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Bas
 
 - https://huggingface.co/api/models/zai-org/AutoGLM-Phone-9B (retrieved 2026-10-16T06:50:49Z; SHA-256 94b02fa7104849cedee8ddd1fa33e22d3039e05ae9dd03033805a000e3fed847)
 - https://huggingface.co/api/models/zai-org/AutoGLM-Phone-9B (retrieved 2026-10-16T06:50:49Z; SHA-256 94b02fa7104849cedee8ddd1fa33e22d3039e05ae9dd03033805a000e3fed847)
+
+---
+
+## AutoGUI-Qwen-v0.1
+
+A UI vision-language model checkpoint trained on AutoGUI-625k data and fine-tuned from Qwen-VL-Chat for interpreting interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/
+- Original source: https://huggingface.co/HongxinLi/AutoGUI-Qwen-v0.1
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: screen-understanding, grounding
+- Evidence checked: 2026-11-09T19:57:38Z
+- ID: url:7f1339af63d3f89bd0bf
+
+### Limitations
+
+The repository lists sharded safetensors weights and model code. The card leaves usage, evaluation and license details unspecified.
+
+- Record JSON: https://awesomecua.com/resources/url-7f1339af63d3f89bd0bf/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/models/HongxinLi/AutoGUI-Qwen-v0.1 (retrieved 2026-11-09T19:57:38Z; SHA-256 99e63b39f81ea5511b16f9b96af40c5f66fc370c1e8606ea21a74603228141f0)
+- https://huggingface.co/api/models/HongxinLi/AutoGUI-Qwen-v0.1 (retrieved 2026-11-09T19:57:38Z; SHA-256 99e63b39f81ea5511b16f9b96af40c5f66fc370c1e8606ea21a74603228141f0)
+
+---
+
+## blip-icon-captioning
+
+blip-icon-captioning is a BLIP checkpoint fine-tuned to turn macOS interface icons and elements into short natural-language descriptions for accessibility uses.
+
+- Catalog URL: https://awesomecua.com/resources/url-b4a01331e3e89e1bae9d/
+- Original source: https://huggingface.co/MacPaw/blip-icon-captioning
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: screen-understanding
+- Evidence checked: 2026-11-09T19:57:13Z
+- ID: url:b4a01331e3e89e1bae9d
+
+### Limitations
+
+The card identifies Salesforce/blip-image-captioning-base as its base model and includes a Transformers inference example. The repository lists model.safetensors and processor and tokenizer configuration files. The card declares the MIT License.
+
+- Record JSON: https://awesomecua.com/resources/url-b4a01331e3e89e1bae9d/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/MacPaw/blip-icon-captioning
+
+### Primary evidence
+
+- https://huggingface.co/api/models/MacPaw/blip-icon-captioning (retrieved 2026-11-09T19:57:13Z; SHA-256 1bc45c0b88f1ad9b5bdda5204145502d2e3d2782702f6e7c809499cb54b64d5b)
+- https://huggingface.co/api/models/MacPaw/blip-icon-captioning (retrieved 2026-11-09T19:57:13Z; SHA-256 1bc45c0b88f1ad9b5bdda5204145502d2e3d2782702f6e7c809499cb54b64d5b)
+- https://huggingface.co/api/models/MacPaw/blip-icon-captioning (retrieved 2026-11-09T20:02:52Z; SHA-256 1bc45c0b88f1ad9b5bdda5204145502d2e3d2782702f6e7c809499cb54b64d5b)
+- https://huggingface.co/api/models/macpaw-research/blip-icon-captioning (retrieved 2026-11-09T20:02:53Z; SHA-256 1bc45c0b88f1ad9b5bdda5204145502d2e3d2782702f6e7c809499cb54b64d5b)
 
 ---
 
@@ -3273,6 +3754,74 @@ The repository lists the agent as in-house. Public model weights were not establ
 
 - https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 5f460f9b2a18315d07b8c48d78dcc764892d09d9250e95f5e591b5966fe59328)
 - https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 6036aa17e52be8051fc3c8ede37fc4d0b2bc2589518be7623566c75868612178)
+
+---
+
+## Captioner
+
+Captioner is a dense captioning model for graphical interfaces, released with a checkpoint and links to an online demo and reference server code.
+
+- Catalog URL: https://awesomecua.com/resources/url-4f98919eaf7a92e8faab/
+- Original source: https://huggingface.co/Agent-Eval-Refine/Captioner
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: screen-understanding
+- Evidence checked: 2026-11-09T19:57:13Z
+- ID: url:4f98919eaf7a92e8faab
+
+### Limitations
+
+The repository file list includes a PyTorch model file. The card provides no architecture or evaluation details.
+
+- Record JSON: https://awesomecua.com/resources/url-4f98919eaf7a92e8faab/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Agent-Eval-Refine/Captioner (retrieved 2026-11-09T19:57:13Z; SHA-256 abaae5206fe3a9725c8c35d130bc5230b0ab89682d0f0a870922beddb4363a65)
+- https://huggingface.co/api/models/Agent-Eval-Refine/Captioner (retrieved 2026-11-09T19:57:13Z; SHA-256 abaae5206fe3a9725c8c35d130bc5230b0ab89682d0f0a870922beddb4363a65)
+
+---
+
+## CODA-PLANNER-TARS-32B
+
+CODA-PLANNER-TARS-32B is a GUI agent planner checkpoint trained for scientific applications and deployed alongside a specialist executor in ScienceBoard.
+
+- Catalog URL: https://awesomecua.com/resources/url-cf16d0a4a05ea7270ffa/
+- Original source: https://huggingface.co/OpenIXCLab/CODA-PLANNER-TARS-32B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: planning, reinforcement-learning, science, long-horizon
+- Evidence checked: 2026-11-09T19:56:16Z
+- ID: url:cf16d0a4a05ea7270ffa
+
+### Limitations
+
+The repository contains model weight shards. Its instructions use vLLM and deploy UI-TARS-1.5-7B as the executor. The card declares Apache-2.0 for code and CC-BY-NC-4.0 for data.
+
+- Record JSON: https://awesomecua.com/resources/url-cf16d0a4a05ea7270ffa/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenIXCLab/CODA-PLANNER-TARS-32B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OpenIXCLab/CODA-PLANNER-TARS-32B (retrieved 2026-11-09T19:56:16Z; SHA-256 fa03e0cb8fd8c3729bd58dfc2a32afc609f5fa0be0b930011fa88ef07bb0f600)
+- https://huggingface.co/api/models/OpenIXCLab/CODA-PLANNER-TARS-32B (retrieved 2026-11-09T19:56:16Z; SHA-256 fa03e0cb8fd8c3729bd58dfc2a32afc609f5fa0be0b930011fa88ef07bb0f600)
 
 ---
 
@@ -3353,6 +3902,42 @@ The former THUDM model URL resolves to zai-org. Six public safetensors shards ar
 
 ---
 
+## cogagent-vqa-hf
+
+A CogAgent checkpoint oriented toward single-turn visual dialogue; its card also describes GUI screenshot understanding, coordinate actions, and reported GUI dataset results.
+
+- Catalog URL: https://awesomecua.com/resources/url-64d0220e17b4e67485f3/
+- Original source: https://huggingface.co/THUDM/cogagent-vqa-hf
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, web
+- Topics: screen-understanding, action-prediction, grounding
+- Evidence checked: 2026-11-09T19:57:49Z
+- ID: url:64d0220e17b4e67485f3
+
+### Limitations
+
+The repository contains model weight shards and model code. The card states Apache-2.0 metadata and additional terms for commercial use.
+
+- Record JSON: https://awesomecua.com/resources/url-64d0220e17b4e67485f3/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/THUDM/cogagent-vqa-hf
+
+### Primary evidence
+
+- https://huggingface.co/api/models/THUDM/cogagent-vqa-hf (retrieved 2026-11-09T19:57:49Z; SHA-256 ed3760213e34cda7dd137adef4258fce7d4776a4c6aeae3546e84a3e1136716a)
+- https://huggingface.co/api/models/THUDM/cogagent-vqa-hf (retrieved 2026-11-09T19:57:49Z; SHA-256 ed3760213e34cda7dd137adef4258fce7d4776a4c6aeae3546e84a3e1136716a)
+- https://huggingface.co/api/models/THUDM/cogagent-vqa-hf (retrieved 2026-11-09T20:03:07Z; SHA-256 ed3760213e34cda7dd137adef4258fce7d4776a4c6aeae3546e84a3e1136716a)
+- https://huggingface.co/api/models/zai-org/cogagent-vqa-hf (retrieved 2026-11-09T20:03:08Z; SHA-256 ed3760213e34cda7dd137adef4258fce7d4776a4c6aeae3546e84a3e1136716a)
+
+---
+
 ## ColorGUI-32B
 
 ColorGUI-32B is a mobile GUI action model adapted from Qwen3-VL-32B-Instruct. It reads screenshots and instructions to select actions for a mobile agent runtime.
@@ -3384,6 +3969,176 @@ The release includes model weight shards and tokenizer files. The card declares 
 
 - https://huggingface.co/api/models/MadeAgents/ColorGUI-32B (retrieved 2026-11-09T05:04:58Z; SHA-256 4ab52eec6daee8dbc7b075fc5f0d420786ef171ba91af6599961d59d2d20bda6)
 - https://huggingface.co/api/models/MadeAgents/ColorGUI-32B (retrieved 2026-11-09T05:04:58Z; SHA-256 4ab52eec6daee8dbc7b075fc5f0d420786ef171ba91af6599961d59d2d20bda6)
+
+---
+
+## ConClick-8B
+
+A GUI grounding checkpoint trained to distinguish target elements from distractors using coordinate and ranking supervision, released as an adapter and supporting weights.
+
+- Catalog URL: https://awesomecua.com/resources/url-75cc3b45e7e44c422c4c/
+- Original source: https://huggingface.co/ruotian/ConClick-8B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-09T19:57:09Z
+- ID: url:75cc3b45e7e44c422c4c
+
+### Limitations
+
+The card names Qwen/Qwen3-VL-8B-Instruct as the base model and lists a LoRA adapter, selection head, and visual-merger state. It declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-75cc3b45e7e44c422c4c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/ruotian/ConClick-8B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/ruotian/ConClick-8B (retrieved 2026-11-09T19:57:09Z; SHA-256 20029d7d91ad2f235788498ca5dbf35ff492ba062feedc2207bcd92d9cdb7abe)
+- https://huggingface.co/api/models/ruotian/ConClick-8B (retrieved 2026-11-09T19:57:09Z; SHA-256 20029d7d91ad2f235788498ca5dbf35ff492ba062feedc2207bcd92d9cdb7abe)
+
+---
+
+## cua-s1-forms-coreml
+
+A Core ML conversion of CUA-S1-FORMS scores candidate actions for forms from task and element text. It provides portable and compiled packages for Apple devices.
+
+- Catalog URL: https://awesomecua.com/resources/url-f742ad40df2e5f109fc3/
+- Original source: https://huggingface.co/FluidInference/cua-s1-forms-coreml
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, ios
+- Topics: action-prediction, automation, efficiency
+- Evidence checked: 2026-11-09T19:56:06Z
+- ID: url:f742ad40df2e5f109fc3
+
+### Limitations
+
+The release includes FP16 packages, preprocessing code and conversion reports. The card targets iOS 17 and macOS 14 or newer and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-f742ad40df2e5f109fc3/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/FluidInference/cua-s1-forms-coreml
+
+### Primary evidence
+
+- https://huggingface.co/api/models/FluidInference/cua-s1-forms-coreml (retrieved 2026-11-09T19:56:06Z; SHA-256 5e82b52f3b9e454c9b154d002d71304537a729e8d0f9b61362ad6f08f096668a)
+- https://huggingface.co/api/models/FluidInference/cua-s1-forms-coreml (retrieved 2026-11-09T19:56:06Z; SHA-256 5e82b52f3b9e454c9b154d002d71304537a729e8d0f9b61362ad6f08f096668a)
+
+---
+
+## DeskMind Eyes 4B
+
+DeskMind Eyes 4B maps an element description and screenshot to a click point for Mac applications. The release provides merged model weights and reports GUI grounding results.
+
+- Catalog URL: https://awesomecua.com/resources/url-0f9bf031c9ee17191cd1/
+- Original source: https://huggingface.co/deskmind/eyes-4b
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: grounding, screen-understanding, evaluation
+- Evidence checked: 2026-11-09T19:57:15Z
+- ID: url:0f9bf031c9ee17191cd1
+
+### Limitations
+
+The card lists BF16 weights on the main revision and an MLX 4-bit build on a separate revision. It says the published weights merge a LoRA trained from GUI-Owl-1.5-4B-Instruct and declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-0f9bf031c9ee17191cd1/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/deskmind/eyes-4b
+
+### Primary evidence
+
+- https://huggingface.co/api/models/deskmind/eyes-4b (retrieved 2026-11-09T19:57:15Z; SHA-256 10e51927c859fb5cc6a80ddcfc958ddaa3e31706cf6d5527b0f3157bb1e59d42)
+- https://huggingface.co/api/models/deskmind/eyes-4b (retrieved 2026-11-09T19:57:15Z; SHA-256 10e51927c859fb5cc6a80ddcfc958ddaa3e31706cf6d5527b0f3157bb1e59d42)
+
+---
+
+## ELAM-7B
+
+A model fine-tuned on automotive UI screenshots to return tap coordinates for test instructions and judge expected results at relevant interface elements.
+
+- Catalog URL: https://awesomecua.com/resources/url-057b43bab2e1e58fc58e/
+- Original source: https://huggingface.co/sparks-solutions/ELAM-7B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, evaluation, screen-understanding
+- Evidence checked: 2026-11-09T19:56:36Z
+- ID: url:057b43bab2e1e58fc58e
+
+### Limitations
+
+The card reports training on 17,708 instructions and evaluations for 6,230 images. It identifies Molmo-7B-D-0924 as the base model and declares an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-057b43bab2e1e58fc58e/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/sparks-solutions/ELAM-7B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/sparks-solutions/ELAM-7B (retrieved 2026-11-09T19:56:36Z; SHA-256 4fe9205253eb9bb21cdf49e0d6f1cc4c387f2393eb1372191adef72ee6db573a)
+- https://huggingface.co/api/models/sparks-solutions/ELAM-7B (retrieved 2026-11-09T19:56:36Z; SHA-256 4fe9205253eb9bb21cdf49e0d6f1cc4c387f2393eb1372191adef72ee6db573a)
+
+---
+
+## espetro/htlm-lfm2.5-350m
+
+A fine-tuned LFM2.5-350M model that selects click, type, or select actions from an instruction and indexed web elements, with a GGUF file for browser inference.
+
+- Catalog URL: https://awesomecua.com/resources/url-df38112df002157ce4b0/
+- Original source: https://huggingface.co/espetro/htlm-lfm2.5-350m
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: action-prediction, grounding, web-navigation, imitation-learning
+- Evidence checked: 2026-11-09T19:56:53Z
+- ID: url:df38112df002157ce4b0
+
+### Limitations
+
+The card says the model was fine-tuned with LoRA on Mind2Web and reports results on 408 held-out tasks. The listed repository file is a Q8 GGUF checkpoint; the card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-df38112df002157ce4b0/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/espetro/htlm-lfm2.5-350m
+
+### Primary evidence
+
+- https://huggingface.co/api/models/espetro/htlm-lfm2.5-350m (retrieved 2026-11-09T19:56:53Z; SHA-256 2ab2ead4590483cdb9c7d792ba9344ca1aaeab3890ee67e54f9f77625801fbb9)
+- https://huggingface.co/api/models/espetro/htlm-lfm2.5-350m (retrieved 2026-11-09T19:56:53Z; SHA-256 2ab2ead4590483cdb9c7d792ba9344ca1aaeab3890ee67e54f9f77625801fbb9)
 
 ---
 
@@ -3543,6 +4298,74 @@ Preview GELab-Zero phone-use agent checkpoint fine-tuned from Qwen3-VL-4B-Instru
 
 ---
 
+## GLM-4.5V
+
+A released vision-language model that documents screen reading, icon recognition, visual-element grounding and desktop operation assistance among its supported tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-97cfbcd45f879ff71499/
+- Original source: https://huggingface.co/zai-org/GLM-4.5V
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: desktop
+- Topics: screen-understanding, grounding
+- Evidence checked: 2026-11-09T19:57:46Z
+- ID: url:97cfbcd45f879ff71499
+
+### Limitations
+
+The repository contains model weight shards, configuration and tokenizer files. The card declares an MIT license and gives usage examples for Transformers, SGLang and vLLM.
+
+- Record JSON: https://awesomecua.com/resources/url-97cfbcd45f879ff71499/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/zai-org/GLM-4.5V
+
+### Primary evidence
+
+- https://huggingface.co/api/models/zai-org/GLM-4.5V (retrieved 2026-11-09T19:57:46Z; SHA-256 0109dcdce4f3a728e5c0c6ea22102d2cf4fea2480eb1407b8042c5516ea5a15a)
+- https://huggingface.co/api/models/zai-org/GLM-4.5V (retrieved 2026-11-09T19:57:46Z; SHA-256 0109dcdce4f3a728e5c0c6ea22102d2cf4fea2480eb1407b8042c5516ea5a15a)
+
+---
+
+## GLM-4.6V-FP8
+
+An FP8 multimodal model checkpoint supports tool calls using screenshots as inputs and generates or edits frontend code from images of interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/url-2a99aab63fc1fe65610d/
+- Original source: https://huggingface.co/zai-org/GLM-4.6V-FP8
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: screen-understanding, ui-design, tool-integration
+- Evidence checked: 2026-11-09T19:56:04Z
+- ID: url:2a99aab63fc1fe65610d
+
+### Limitations
+
+The repository contains model weight shards and a Transformers usage example. The card also names SGLang and vLLM serving options and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-2a99aab63fc1fe65610d/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/zai-org/GLM-4.6V-FP8
+
+### Primary evidence
+
+- https://huggingface.co/api/models/zai-org/GLM-4.6V-FP8 (retrieved 2026-11-09T19:56:04Z; SHA-256 03b42ee2dee21fa1f5cfda6b31f049514e6476f3e18a1d9fea1c24322accbf35)
+- https://huggingface.co/api/models/zai-org/GLM-4.6V-FP8 (retrieved 2026-11-09T19:56:04Z; SHA-256 03b42ee2dee21fa1f5cfda6b31f049514e6476f3e18a1d9fea1c24322accbf35)
+
+---
+
 ## GLM-V
 
 Z.ai repository for the open-weight GLM-4.1V-Thinking, GLM-4.5V and GLM-4.6V vision-language models, with GUI-agent prompt examples for mobile, PC and web plus a released VLM reward system.
@@ -3617,6 +4440,40 @@ Seven public safetensors shards and model/tokenizer files are present. The card 
 
 ---
 
+## GroundAnything-VLM
+
+GroundAnything-VLM is an autoregressive visual grounding checkpoint that locates image targets, including GUI elements, from referring instructions.
+
+- Catalog URL: https://awesomecua.com/resources/url-a80a37148148aad731a9/
+- Original source: https://huggingface.co/GroundingPI/GroundAnything-VLM
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-09T19:56:15Z
+- ID: url:a80a37148148aad731a9
+
+### Limitations
+
+The repository provides model weights and a serving recipe. The card says the project's contributions use Apache 2.0 terms while Kimi-derived material retains its upstream license.
+
+- Record JSON: https://awesomecua.com/resources/url-a80a37148148aad731a9/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: other — https://huggingface.co/GroundingPI/GroundAnything-VLM
+
+### Primary evidence
+
+- https://huggingface.co/api/models/GroundingPI/GroundAnything-VLM (retrieved 2026-11-09T19:56:15Z; SHA-256 90330ba68f9e134e894e00af8ba172c39df762f11485d1e970ec540f158ef8dc)
+- https://huggingface.co/api/models/GroundingPI/GroundAnything-VLM (retrieved 2026-11-09T19:56:15Z; SHA-256 90330ba68f9e134e894e00af8ba172c39df762f11485d1e970ec540f158ef8dc)
+
+---
+
 ## GroundGUI-8B
 
 Screenshot grounding checkpoint that emits a single click in a normalized coordinate space.
@@ -3649,6 +4506,74 @@ License declarations apply to this checkpoint separately from code and training 
 - https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 73a4690fab49d3b08ea9b0b1e44d62d5ec1802614f5cf22c37ed92dca49aa520)
 - https://huggingface.co/api/models/PrentisAI/GroundGUI-8B (retrieved 2026-10-17T01:49:48Z; SHA-256 8b680b9a63e654fe0b43754201d30c91714859578f294f4781e035280e862657)
 - https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 73a4690fab49d3b08ea9b0b1e44d62d5ec1802614f5cf22c37ed92dca49aa520)
+
+---
+
+## GTA1-7B
+
+Released GUI grounding checkpoint trained with reinforcement learning to predict click coordinates from screenshots and instructions, with inference examples and reported benchmark results.
+
+- Catalog URL: https://awesomecua.com/resources/url-fa6761a4612fab664a7c/
+- Original source: https://huggingface.co/Salesforce/GTA1-7B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: grounding, reinforcement-learning, action-prediction, evaluation
+- Evidence checked: 2026-11-09T05:05:09Z
+- ID: url:fa6761a4612fab664a7c
+
+### Limitations
+
+The card declares an MIT license and shows vLLM-based inference code using the Salesforce/GTA1-7B checkpoint. It reports results on ScreenSpot, OSWorld, and WindowsAgentArena benchmarks.
+
+- Record JSON: https://awesomecua.com/resources/url-fa6761a4612fab664a7c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/Salesforce/GTA1-7B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Salesforce/GTA1-7B (retrieved 2026-11-09T05:05:09Z; SHA-256 73f8db102da38c690804633c5d9829a06d9c4c73d4a0cf8fdf234b91b90940f8)
+- https://huggingface.co/api/models/Salesforce/GTA1-7B (retrieved 2026-11-09T05:05:09Z; SHA-256 73f8db102da38c690804633c5d9829a06d9c4c73d4a0cf8fdf234b91b90940f8)
+
+---
+
+## GTA1-7B-2507
+
+GTA1-7B-2507 is a GUI-grounding checkpoint trained with reinforcement learning to locate described elements in screenshots and return click coordinates.
+
+- Catalog URL: https://awesomecua.com/resources/url-691c52679bb1d3521db7/
+- Original source: https://huggingface.co/Salesforce/GTA1-7B-2507
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: grounding, reinforcement-learning, evaluation
+- Evidence checked: 2026-11-09T05:05:20Z
+- ID: url:691c52679bb1d3521db7
+
+### Limitations
+
+The card includes inference code using Qwen2.5-VL components and declares an Apache-2.0 license. It cites the GTA1 paper.
+
+- Record JSON: https://awesomecua.com/resources/url-691c52679bb1d3521db7/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Salesforce/GTA1-7B-2507
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Salesforce/GTA1-7B-2507 (retrieved 2026-11-09T05:05:20Z; SHA-256 3250e912d601fae99985da24b73dde65b523381edcaa1a728c48c43af3dff013)
+- https://huggingface.co/api/models/Salesforce/GTA1-7B-2507 (retrieved 2026-11-09T05:05:20Z; SHA-256 3250e912d601fae99985da24b73dde65b523381edcaa1a728c48c43af3dff013)
 
 ---
 
@@ -4050,6 +4975,40 @@ The manifest contains two safetensors shards in GUI-R1-3B and four in GUI-R1-7B.
 
 ---
 
+## gWorld-8B
+
+gWorld-8B is a released mobile GUI world model that predicts the screen after an action by generating renderable HTML from the current screenshot and action.
+
+- Catalog URL: https://awesomecua.com/resources/url-78802d1a2fce25f20f85/
+- Original source: https://huggingface.co/trillionlabs/gWorld-8B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: world-models, screen-understanding, mobile-navigation
+- Evidence checked: 2026-11-09T19:56:48Z
+- ID: url:78802d1a2fce25f20f85
+
+### Limitations
+
+The card supplies vLLM inference code and names Qwen3-VL-8B-Instruct as the base model. It declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-78802d1a2fce25f20f85/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/trillionlabs/gWorld-8B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/trillionlabs/gWorld-8B (retrieved 2026-11-09T19:56:48Z; SHA-256 88d2177ad0b5bfadffbe349b132907730d5dc55dfd8028eb2854f5c09756388a)
+- https://huggingface.co/api/models/trillionlabs/gWorld-8B (retrieved 2026-11-09T19:56:48Z; SHA-256 88d2177ad0b5bfadffbe349b132907730d5dc55dfd8028eb2854f5c09756388a)
+
+---
+
 ## Holo1.5 3B
 
 Smallest Holo1.5 checkpoint, fine-tuned from Qwen2.5-VL-3B-Instruct with supervised training then GRPO, for locating interface elements and answering questions about web, desktop and mobile screens.
@@ -4158,6 +5117,244 @@ Four safetensors shards are public. The model card declares Apache-2.0 and ident
 
 ---
 
+## InternVL3-38B
+
+A released InternVL3-38B multimodal checkpoint from a model family whose card documents GUI-operation training samples and GUI-grounding evaluation.
+
+- Catalog URL: https://awesomecua.com/resources/url-b2a83cef835559f24351/
+- Original source: https://huggingface.co/OpenGVLab/InternVL3-38B
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-09T19:57:41Z
+- ID: url:b2a83cef835559f24351
+
+### Limitations
+
+The repository lists safetensors weight shards and inference code. The card describes an InternViT vision component and a Qwen2.5 language component; it declares Apache-2.0 in its front matter.
+
+- Record JSON: https://awesomecua.com/resources/url-b2a83cef835559f24351/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3-38B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3-38B (retrieved 2026-11-09T19:57:41Z; SHA-256 3e7f8fe4342def3be29016047f1f757d423ec79cb6e6794230c13812cfade1fe)
+- https://huggingface.co/api/models/OpenGVLab/InternVL3-38B (retrieved 2026-11-09T19:57:41Z; SHA-256 3e7f8fe4342def3be29016047f1f757d423ec79cb6e6794230c13812cfade1fe)
+
+---
+
+## InternVL3-8B
+
+An 8B multimodal checkpoint whose release describes GUI-operation training data and a GUI-grounding evaluation alongside broader image and video tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-7c01d4caa44763019e36/
+- Original source: https://huggingface.co/OpenGVLab/InternVL3-8B
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: grounding, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:56:36Z
+- ID: url:7c01d4caa44763019e36
+
+### Limitations
+
+The card identifies OpenGVLab/InternVL3-8B-Instruct as its base model and declares an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-7c01d4caa44763019e36/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3-8B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3-8B (retrieved 2026-11-09T19:56:36Z; SHA-256 1392304aae595359fa53b856313d44a39dd078fd6f6f60769afe19e3a2dab04a)
+- https://huggingface.co/api/models/OpenGVLab/InternVL3-8B (retrieved 2026-11-09T19:56:36Z; SHA-256 1392304aae595359fa53b856313d44a39dd078fd6f6f60769afe19e3a2dab04a)
+
+---
+
+## InternVL3-9B
+
+A released multimodal checkpoint whose training includes GUI operations and whose card documents GUI grounding alongside broader visual and language tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-1e3655e5a2b664102ac7/
+- Original source: https://huggingface.co/OpenGVLab/InternVL3-9B
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: grounding, screen-understanding, evaluation
+- Evidence checked: 2026-11-09T19:57:41Z
+- ID: url:1e3655e5a2b664102ac7
+
+### Limitations
+
+The repository lists model weight shards, configuration, tokenizer and modeling files. The card declares an MIT license and identifies InternVL3-9B-Instruct as its fine-tuning base.
+
+- Record JSON: https://awesomecua.com/resources/url-1e3655e5a2b664102ac7/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/OpenGVLab/InternVL3-9B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3-9B (retrieved 2026-11-09T19:57:41Z; SHA-256 8b8c470d820e017b8a5ec31954aadd4cbf81c2b58fa109b37f079515e0535052)
+- https://huggingface.co/api/models/OpenGVLab/InternVL3-9B (retrieved 2026-11-09T19:57:41Z; SHA-256 8b8c470d820e017b8a5ec31954aadd4cbf81c2b58fa109b37f079515e0535052)
+
+---
+
+## InternVL3_5-241B-A28B
+
+A released InternVL3.5 multimodal checkpoint from a family whose card describes GUI interaction, Cascade RL training and adaptive visual resolution.
+
+- Catalog URL: https://awesomecua.com/resources/url-c8d93b1c274acd679694/
+- Original source: https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: screen-understanding, reinforcement-learning, efficiency
+- Evidence checked: 2026-11-09T19:57:38Z
+- ID: url:c8d93b1c274acd679694
+
+### Limitations
+
+The card links this checkpoint to the InternVL3.5 paper and describes a GitHub-format release. It declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-c8d93b1c274acd679694/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-241B-A28B (retrieved 2026-11-09T19:57:38Z; SHA-256 74c8b78fb78103a0edbb95dc2bbf9662f8b8c8b595930c92d40d504f7c793384)
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-241B-A28B (retrieved 2026-11-09T19:57:38Z; SHA-256 74c8b78fb78103a0edbb95dc2bbf9662f8b8c8b595930c92d40d504f7c793384)
+
+---
+
+## InternVL3_5-241B-A28B-HF
+
+InternVL3_5-241B-A28B-HF releases a Transformers-format multimodal checkpoint from the InternVL3.5 family, whose card describes GUI interaction and efficient visual inference.
+
+- Catalog URL: https://awesomecua.com/resources/url-7c6929dcffffe6553ea9/
+- Original source: https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-HF
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: screen-understanding, efficiency
+- Evidence checked: 2026-11-09T19:56:21Z
+- ID: url:7c6929dcffffe6553ea9
+
+### Limitations
+
+The repository lists sharded safetensors weights and tokenizer files. The card declares an Apache-2.0 license and describes the Transformers format as distinct from the GitHub format.
+
+- Record JSON: https://awesomecua.com/resources/url-7c6929dcffffe6553ea9/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-HF
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-241B-A28B-HF (retrieved 2026-11-09T19:56:21Z; SHA-256 bc42847be9fcf10bb509fa66fc2a598fe7ab7e396836c9a10425d3e376dca117)
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-241B-A28B-HF (retrieved 2026-11-09T19:56:21Z; SHA-256 bc42847be9fcf10bb509fa66fc2a598fe7ab7e396836c9a10425d3e376dca117)
+
+---
+
+## InternVL3_5-38B-HF
+
+An HF-format 38B checkpoint in the InternVL3.5 multimodal model family, whose card lists GUI interaction among its capabilities and describes staged training and inference.
+
+- Catalog URL: https://awesomecua.com/resources/url-099960c12bbdd80f73cb/
+- Original source: https://huggingface.co/OpenGVLab/InternVL3_5-38B-HF
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: screen-understanding, reinforcement-learning
+- Evidence checked: 2026-11-09T19:57:37Z
+- ID: url:099960c12bbdd80f73cb
+
+### Limitations
+
+The card declares an Apache-2.0 license and describes HF and GitHub checkpoint formats. It links the InternVL3.5 paper and states that model weights and code are released.
+
+- Record JSON: https://awesomecua.com/resources/url-099960c12bbdd80f73cb/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-38B-HF
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-38B-HF (retrieved 2026-11-09T19:57:37Z; SHA-256 35e171ad3dde46b3fd290a9a2321fd41ed73170b6a7814abfd3b05c7eed7f69c)
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-38B-HF (retrieved 2026-11-09T19:57:37Z; SHA-256 35e171ad3dde46b3fd290a9a2321fd41ed73170b6a7814abfd3b05c7eed7f69c)
+
+---
+
+## InternVL3_5-8B
+
+An 8B multimodal checkpoint in the InternVL3.5 family, whose card describes GUI interaction alongside broader visual reasoning and inference efficiency work.
+
+- Catalog URL: https://awesomecua.com/resources/url-7f7d17a0873e6ffda2b9/
+- Original source: https://huggingface.co/OpenGVLab/InternVL3_5-8B
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: screen-understanding, reinforcement-learning, efficiency
+- Evidence checked: 2026-11-09T19:56:36Z
+- ID: url:7f7d17a0873e6ffda2b9
+
+### Limitations
+
+The card identifies the checkpoint as a fine-tune of OpenGVLab/InternVL3_5-8B-MPO and declares an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-7f7d17a0873e6ffda2b9/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenGVLab/InternVL3_5-8B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-8B (retrieved 2026-11-09T19:56:36Z; SHA-256 d4d7fdbe1e2cd25bb90fe8cddcad4e8e4ded944c1f614eac01ea28c9c2d55d32)
+- https://huggingface.co/api/models/OpenGVLab/InternVL3_5-8B (retrieved 2026-11-09T19:56:36Z; SHA-256 d4d7fdbe1e2cd25bb90fe8cddcad4e8e4ded944c1f614eac01ea28c9c2d55d32)
+
+---
+
 ## Jedi-3B-1080p
 
 A Qwen2.5-VL-3B-based computer-use grounding checkpoint with an example that predicts mouse-action coordinates from an interface image.
@@ -4226,6 +5423,40 @@ The card declares an Apache-2.0 license and links the paper, project page, and c
 
 ---
 
+## jiamingzz/lgwm
+
+Released weights for a GUI world model that predicts a screen representation after an action and checks the observed transition, with a separate harm scoring head.
+
+- Catalog URL: https://awesomecua.com/resources/url-512cd7335068b2c17859/
+- Original source: https://huggingface.co/jiamingzz/lgwm
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: world-models, state-tracking, safety-security
+- Evidence checked: 2026-11-09T19:56:42Z
+- ID: url:512cd7335068b2c17859
+
+### Limitations
+
+The release contains world model weights and a linear harm head. Usage calls the companion code with before and after screenshots and an action JSON file. The card declares an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-512cd7335068b2c17859/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/jiamingzz/lgwm
+
+### Primary evidence
+
+- https://huggingface.co/api/models/jiamingzz/lgwm (retrieved 2026-11-09T19:56:42Z; SHA-256 5db5aa06ea538ead2a48496221efe361892b3affe7efb4148260e29308a2016c)
+- https://huggingface.co/api/models/jiamingzz/lgwm (retrieved 2026-11-09T19:56:42Z; SHA-256 5db5aa06ea538ead2a48496221efe361892b3affe7efb4148260e29308a2016c)
+
+---
+
 ## KDEGroup/UI-AGILE-3B
 
 A released UI-AGILE checkpoint for GUI grounding, associated with reward design and cropping based resampling during training and image decomposition during inference.
@@ -4257,6 +5488,74 @@ The repository contains weight shards, configuration files, and evaluation files
 
 - https://huggingface.co/api/models/KDEGroup/UI-AGILE-3B (retrieved 2026-11-09T05:05:17Z; SHA-256 ec0be6049411b31a494ebcbda012b512b04e7c88f1e7a1fd94c31b5251fb5ebc)
 - https://huggingface.co/api/models/KDEGroup/UI-AGILE-3B (retrieved 2026-11-09T05:05:17Z; SHA-256 ec0be6049411b31a494ebcbda012b512b04e7c88f1e7a1fd94c31b5251fb5ebc)
+
+---
+
+## kev-0.6b-browser-use
+
+kev-0.6b-browser-use is a 0.6B browser decision model that scores candidate page elements and chooses a click, type, or select operation from a task goal.
+
+- Catalog URL: https://awesomecua.com/resources/url-3c55f225a1f66a6261ac/
+- Original source: https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: action-prediction, grounding, web-navigation
+- Evidence checked: 2026-11-09T19:57:35Z
+- ID: url:3c55f225a1f66a6261ac
+
+### Limitations
+
+The release includes a LoRA adapter and pointer head for the Kev base model. The card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-3c55f225a1f66a6261ac/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use
+
+### Primary evidence
+
+- https://huggingface.co/api/models/arbazsiddiqui/kev-0.6b-browser-use (retrieved 2026-11-09T19:57:35Z; SHA-256 2ef9c22749a81e177eee2ff79037fedc02fe233e26c8eadc7abe9946c7197908)
+- https://huggingface.co/api/models/arbazsiddiqui/kev-0.6b-browser-use (retrieved 2026-11-09T19:57:35Z; SHA-256 2ef9c22749a81e177eee2ff79037fedc02fe233e26c8eadc7abe9946c7197908)
+
+---
+
+## kev-0.6b-browser-use-ONNX
+
+A WebGPU-compatible ONNX browser-use model that selects a page element and operation from a goal and candidate elements, with a 4-bit export for JavaScript use.
+
+- Catalog URL: https://awesomecua.com/resources/url-295e0be27996e41738f8/
+- Original source: https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use-ONNX
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: action-prediction, grounding, web-navigation
+- Evidence checked: 2026-11-09T19:57:36Z
+- ID: url:295e0be27996e41738f8
+
+### Limitations
+
+The card lists a 348 MB ONNX model and usage through open-jev and Transformers.js. It says the export derives from a browser-action fine-tune and declares Apache-2.0 for the adapter and head.
+
+- Record JSON: https://awesomecua.com/resources/url-295e0be27996e41738f8/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/arbazsiddiqui/kev-0.6b-browser-use-ONNX
+
+### Primary evidence
+
+- https://huggingface.co/api/models/arbazsiddiqui/kev-0.6b-browser-use-ONNX (retrieved 2026-11-09T19:57:36Z; SHA-256 6a869c8c7712713082ab101d23fa11596ccaa00af55093dba90221252ba616e2)
+- https://huggingface.co/api/models/arbazsiddiqui/kev-0.6b-browser-use-ONNX (retrieved 2026-11-09T19:57:36Z; SHA-256 6a869c8c7712713082ab101d23fa11596ccaa00af55093dba90221252ba616e2)
 
 ---
 
@@ -4294,6 +5593,176 @@ The repository lists sharded safetensors weights and custom model and processor 
 
 ---
 
+## lumos_unified_ground_iterative-13B
+
+A released Lumos grounding-module checkpoint fine-tuned on web-agent tasks alongside question answering, multimodal and math tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-b0b2cd616f8c30b4b09d/
+- Original source: https://huggingface.co/ai2lumos/lumos_unified_ground_iterative-13B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, grounding, planning
+- Evidence checked: 2026-11-09T19:56:15Z
+- ID: url:b0b2cd616f8c30b4b09d
+
+### Limitations
+
+The card links its training dataset and states an Apache-2.0 license. The repository file list includes sharded model weights and tokenizer files.
+
+- Record JSON: https://awesomecua.com/resources/url-b0b2cd616f8c30b4b09d/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/ai2lumos/lumos_unified_ground_iterative-13B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/ai2lumos/lumos_unified_ground_iterative-13B (retrieved 2026-11-09T19:56:15Z; SHA-256 4e8ec057586b93571f89a1a79e2723e0c01be313d8daa8e967aa7d881fb6e817)
+- https://huggingface.co/api/models/ai2lumos/lumos_unified_ground_iterative-13B (retrieved 2026-11-09T19:56:15Z; SHA-256 4e8ec057586b93571f89a1a79e2723e0c01be313d8daa8e967aa7d881fb6e817)
+
+---
+
+## lumos_web_agent_ground_iterative
+
+A released Lumos grounding checkpoint fine-tuned for web-agent tasks using the Lumos-Iterative formulation. It serves the grounding module of a modular agent.
+
+- Catalog URL: https://awesomecua.com/resources/url-246241a0b6219513cb7f/
+- Original source: https://huggingface.co/ai2lumos/lumos_web_agent_ground_iterative
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: grounding, web-navigation
+- Evidence checked: 2026-11-09T19:56:22Z
+- ID: url:246241a0b6219513cb7f
+
+### Limitations
+
+The card links a training dataset and names the Agent Lumos paper. The repository lists model weight shards and tokenizer files under an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-246241a0b6219513cb7f/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/ai2lumos/lumos_web_agent_ground_iterative
+
+### Primary evidence
+
+- https://huggingface.co/api/models/ai2lumos/lumos_web_agent_ground_iterative (retrieved 2026-11-09T19:56:22Z; SHA-256 5491efbb166aafea807c7f73e498adfcf84aa8df19c3329c6d8197594b94200d)
+- https://huggingface.co/api/models/ai2lumos/lumos_web_agent_ground_iterative (retrieved 2026-11-09T19:56:22Z; SHA-256 5491efbb166aafea807c7f73e498adfcf84aa8df19c3329c6d8197594b94200d)
+
+---
+
+## lumos_web_agent_ground_iterative-13B
+
+A released Lumos checkpoint for grounding web-agent actions within an iterative architecture that separates planning, grounding and execution.
+
+- Catalog URL: https://awesomecua.com/resources/url-dca5b0d8449331bbede4/
+- Original source: https://huggingface.co/ai2lumos/lumos_web_agent_ground_iterative-13B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: grounding, web-navigation
+- Evidence checked: 2026-11-09T19:56:33Z
+- ID: url:dca5b0d8449331bbede4
+
+### Limitations
+
+The repository lists PyTorch weight shards and tokenizer files. The card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-dca5b0d8449331bbede4/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/ai2lumos/lumos_web_agent_ground_iterative-13B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/ai2lumos/lumos_web_agent_ground_iterative-13B (retrieved 2026-11-09T19:56:33Z; SHA-256 33c2d15ee87497ad35d3fedd5e92951d9f3ddb8d2d06dd0d244a01727fd57e18)
+- https://huggingface.co/api/models/ai2lumos/lumos_web_agent_ground_iterative-13B (retrieved 2026-11-09T19:56:33Z; SHA-256 33c2d15ee87497ad35d3fedd5e92951d9f3ddb8d2d06dd0d244a01727fd57e18)
+
+---
+
+## lumos_web_agent_plan_iterative
+
+A fine-tuned Lumos planning-module checkpoint for web-agent tasks, released as model weights alongside a separately listed training dataset.
+
+- Catalog URL: https://awesomecua.com/resources/url-e35db30fee209ef9b57d/
+- Original source: https://huggingface.co/ai2lumos/lumos_web_agent_plan_iterative
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: planning, web-navigation
+- Evidence checked: 2026-11-09T19:57:55Z
+- ID: url:e35db30fee209ef9b57d
+
+### Limitations
+
+The repository lists model weight shards and tokenizer files. The card declares Apache-2.0 licensing.
+
+- Record JSON: https://awesomecua.com/resources/url-e35db30fee209ef9b57d/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/ai2lumos/lumos_web_agent_plan_iterative
+
+### Primary evidence
+
+- https://huggingface.co/api/models/ai2lumos/lumos_web_agent_plan_iterative (retrieved 2026-11-09T19:57:55Z; SHA-256 28067c7dad6cd2bedd632dd109c50daf52cbaece36d7f4a035e93a5ff3d72500)
+- https://huggingface.co/api/models/ai2lumos/lumos_web_agent_plan_iterative (retrieved 2026-11-09T19:57:55Z; SHA-256 28067c7dad6cd2bedd632dd109c50daf52cbaece36d7f4a035e93a5ff3d72500)
+
+---
+
+## lumos_web_agent_plan_iterative-13B
+
+A released Lumos checkpoint for planning web-agent tasks within an iterative architecture that separates planning, grounding and execution.
+
+- Catalog URL: https://awesomecua.com/resources/url-7e7de336b1d8a2adce2c/
+- Original source: https://huggingface.co/ai2lumos/lumos_web_agent_plan_iterative-13B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: planning, web-navigation
+- Evidence checked: 2026-11-09T19:56:33Z
+- ID: url:7e7de336b1d8a2adce2c
+
+### Limitations
+
+The repository lists PyTorch weight shards and tokenizer files. The card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-7e7de336b1d8a2adce2c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/ai2lumos/lumos_web_agent_plan_iterative-13B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/ai2lumos/lumos_web_agent_plan_iterative-13B (retrieved 2026-11-09T19:56:33Z; SHA-256 51bd7543bd920fad97689e79e105f95e7ace2f03f8a5d70d4a3422025c1d05c2)
+- https://huggingface.co/api/models/ai2lumos/lumos_web_agent_plan_iterative-13B (retrieved 2026-11-09T19:56:33Z; SHA-256 51bd7543bd920fad97689e79e105f95e7ace2f03f8a5d70d4a3422025c1d05c2)
+
+---
+
 ## Magma-8B
 
 Magma-8B is a released multimodal agent checkpoint whose card shows UI navigation tasks alongside robot manipulation and describes training with video data.
@@ -4325,6 +5794,42 @@ The repository includes sharded safetensors weights and custom model and process
 
 - https://huggingface.co/api/models/microsoft/Magma-8B (retrieved 2026-11-09T05:04:59Z; SHA-256 04adb6a009e93762c09d151efc1294b09bd556fc0c1f18cd0896cf7891134d79)
 - https://huggingface.co/api/models/microsoft/Magma-8B (retrieved 2026-11-09T05:04:59Z; SHA-256 04adb6a009e93762c09d151efc1294b09bd556fc0c1f18cd0896cf7891134d79)
+
+---
+
+## Magma-R1
+
+Magma-R1 is a released GUI-agent model trained on curated AndroidControl samples. Its accompanying documentation describes action and grounding evaluation and reward-based training.
+
+- Catalog URL: https://awesomecua.com/resources/url-e5e74846aeaa8398673e/
+- Original source: https://huggingface.co/batwBMW/Magma-R1
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: grounding, action-prediction, reinforcement-learning, evaluation
+- Evidence checked: 2026-11-09T19:55:45Z
+- ID: url:e5e74846aeaa8398673e
+
+### Limitations
+
+The repository contains model weight shards and configuration files. Its README also contains project-wide benchmark and evaluation instructions, and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-e5e74846aeaa8398673e/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/batwBMW/Magma-R1
+
+### Primary evidence
+
+- https://huggingface.co/api/models/batwBMW/Magma-R1 (retrieved 2026-11-09T19:55:45Z; SHA-256 af950099ba18be0dce84b727bb80596c6673b46286a808c6fb7a7700b4cbb44e)
+- https://huggingface.co/api/models/batwBMW/Magma-R1 (retrieved 2026-11-09T19:55:45Z; SHA-256 af950099ba18be0dce84b727bb80596c6673b46286a808c6fb7a7700b4cbb44e)
+- https://huggingface.co/api/models/batwBMW/Magma-R1 (retrieved 2026-11-09T20:02:27Z; SHA-256 af950099ba18be0dce84b727bb80596c6673b46286a808c6fb7a7700b4cbb44e)
+- https://huggingface.co/api/models/batwBMW/Magma-R1-4B-AndroidControl (retrieved 2026-11-09T20:02:27Z; SHA-256 af950099ba18be0dce84b727bb80596c6673b46286a808c6fb7a7700b4cbb44e)
 
 ---
 
@@ -4400,6 +5905,40 @@ Four public safetensors shards are present and Apache-2.0 is declared. The card 
 - https://huggingface.co/Tongyi-MAI/MAI-UI-8B/raw/main/README.md (retrieved 2026-10-17T04:07:19Z; SHA-256 a1087d2a0dde6e7ba6d79db546ee6360a5ffd95ffbc3add1478eedec603a4187)
 - https://huggingface.co/api/models/Tongyi-MAI/MAI-UI-8B (retrieved 2026-10-17T04:07:18Z; SHA-256 349e6d5753fa94a47feb4b2fc53ecd6b9188b645a0cffabef92fd1aa0976ecad)
 - https://huggingface.co/Tongyi-MAI/MAI-UI-8B/raw/main/README.md (retrieved 2026-10-17T04:07:19Z; SHA-256 a1087d2a0dde6e7ba6d79db546ee6360a5ffd95ffbc3add1478eedec603a4187)
+
+---
+
+## Mano-CUA-2.0-4B
+
+A released GUI action model that takes a desktop screenshot and task context to produce structured actions, including clicks, typing, scrolling and app launches.
+
+- Catalog URL: https://awesomecua.com/resources/url-1b08ff264bbf2f8a10a3/
+- Original source: https://huggingface.co/Mininglamp-2718/Mano-CUA-2.0-4B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: action-prediction, grounding, planning, screen-understanding
+- Evidence checked: 2026-11-09T19:58:06Z
+- ID: url:1b08ff264bbf2f8a10a3
+
+### Limitations
+
+The card identifies this as the full-precision checkpoint based on Qwen3-VL-4B and provides a Transformers inference example. It declares an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-1b08ff264bbf2f8a10a3/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Mininglamp-2718/Mano-CUA-2.0-4B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Mininglamp-2718/Mano-CUA-2.0-4B (retrieved 2026-11-09T19:58:06Z; SHA-256 fa18eac0c82feadd1d87cbac554a661b9efc07f3d891fadcf45f1dd4414cf24e)
+- https://huggingface.co/api/models/Mininglamp-2718/Mano-CUA-2.0-4B (retrieved 2026-11-09T19:58:06Z; SHA-256 fa18eac0c82feadd1d87cbac554a661b9efc07f3d891fadcf45f1dd4414cf24e)
 
 ---
 
@@ -4547,6 +6086,40 @@ The repository contains sharded model weights and an inference example using Tra
 
 ---
 
+## mPLUG/ToolCUA-8B
+
+ToolCUA-8B is a released computer-use model trained to alternate between desktop GUI actions and structured tool calls during task execution.
+
+- Catalog URL: https://awesomecua.com/resources/url-44b65e07d7a869d37dc6/
+- Original source: https://huggingface.co/mPLUG/ToolCUA-8B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: tool-integration, action-prediction, reinforcement-learning, efficiency
+- Evidence checked: 2026-11-09T19:57:06Z
+- ID: url:44b65e07d7a869d37dc6
+
+### Limitations
+
+The card names Qwen/Qwen3-VL-8B-Instruct as the base model and provides vLLM serving instructions. The repository lists sharded safetensors weights and processor and tokenizer files. The card declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-44b65e07d7a869d37dc6/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/mPLUG/ToolCUA-8B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/mPLUG/ToolCUA-8B (retrieved 2026-11-09T19:57:06Z; SHA-256 7c297c5277fc01db2f396c027a6cf6597715c7247dcdf022794f97d023e6cf48)
+- https://huggingface.co/api/models/mPLUG/ToolCUA-8B (retrieved 2026-11-09T19:57:06Z; SHA-256 7c297c5277fc01db2f396c027a6cf6597715c7247dcdf022794f97d023e6cf48)
+
+---
+
 ## OpenCUA-7B-exl2
 
 OpenCUA-7B-exl2 is a 4.5bpw quantized OpenCUA-7B checkpoint for generating computer actions and locating GUI targets from screenshots.
@@ -4655,6 +6228,74 @@ The Hub model card (README.md) is empty, so identity and purpose come from the O
 - https://huggingface.co/api/models/cckevinn/OpenMobile-8B/revision/0cd9fc56c7f359ebe62ae273b731f3213fd62b40 (retrieved 2026-10-19T06:53:37Z; SHA-256 07751fda41e98eccbb1e9d439b4fcc93a15580948fa81afa18b439d9143859c0)
 - https://huggingface.co/cckevinn/OpenMobile-8B/raw/0cd9fc56c7f359ebe62ae273b731f3213fd62b40/config.json (retrieved 2026-10-19T06:53:38Z; SHA-256 50902136bf6856d8935a6fd84aa9bdb4eedf6ef260d9143421943f5800001fd0)
 - https://njucckevin.github.io/openmobile/ (retrieved 2026-10-19T06:53:36Z; SHA-256 b37f01ef9fcffa0eef1f6c5c317a333e6f14210dfda54843fdaba2f88331b864)
+
+---
+
+## OpenWebVoyager/OpenWebVoyager-IL
+
+An Idefics2-based multimodal web-agent checkpoint trained by imitation learning on trajectories collected with a web-agent framework.
+
+- Catalog URL: https://awesomecua.com/resources/url-725f9a8225f0f9c40d93/
+- Original source: https://huggingface.co/OpenWebVoyager/OpenWebVoyager-IL
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: imitation-learning, web-navigation, action-prediction
+- Evidence checked: 2026-11-09T19:56:53Z
+- ID: url:725f9a8225f0f9c40d93
+
+### Limitations
+
+The repository lists sharded safetensors weights and tokenizer and processor files. The card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-725f9a8225f0f9c40d93/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenWebVoyager/OpenWebVoyager-IL
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-IL (retrieved 2026-11-09T19:56:53Z; SHA-256 ad75f6ecf95bd512e863068761e16587b21ba7f103270c565126ca8e44e99ea4)
+- https://huggingface.co/api/models/OpenWebVoyager/OpenWebVoyager-IL (retrieved 2026-11-09T19:56:53Z; SHA-256 ad75f6ecf95bd512e863068761e16587b21ba7f103270c565126ca8e44e99ea4)
+
+---
+
+## OTA-v1
+
+OTA-v1 is a fine-tuned browser-agent checkpoint designed to plan browser actions, use tools and maintain context across multi-step web tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-404c719910f8f4a37149/
+- Original source: https://huggingface.co/OTA-AI/OTA-v1
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, tool-integration, state-tracking
+- Evidence checked: 2026-11-09T19:56:21Z
+- ID: url:404c719910f8f4a37149
+
+### Limitations
+
+The repository lists safetensors and GGUF weights, tokenizer files and configuration. The card provides a Transformers loading example and declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-404c719910f8f4a37149/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OTA-AI/OTA-v1
+
+### Primary evidence
+
+- https://huggingface.co/api/models/OTA-AI/OTA-v1 (retrieved 2026-11-09T19:56:21Z; SHA-256 f3166ac1dec80a0a39e0674a768a060ac82c3f5539467c998f057780ea960d3a)
+- https://huggingface.co/api/models/OTA-AI/OTA-v1 (retrieved 2026-11-09T19:56:21Z; SHA-256 f3166ac1dec80a0a39e0674a768a060ac82c3f5539467c998f057780ea960d3a)
 
 ---
 
@@ -4925,6 +6566,40 @@ Four safetensors shards and model code/configuration are public and ungated. The
 
 ---
 
+## Qwen2-VL-72B-Instruct-AWQ
+
+Qwen2-VL-72B-Instruct-AWQ releases quantized weights for a visual instruction model. Its card describes integration with mobile devices for operation guided by images and text.
+
+- Catalog URL: https://awesomecua.com/resources/url-1f488d7ef1c703f97a8a/
+- Original source: https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct-AWQ
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: mobile-navigation, screen-understanding
+- Evidence checked: 2026-11-09T19:56:02Z
+- ID: url:1f488d7ef1c703f97a8a
+
+### Limitations
+
+The repository lists safetensors weight shards and a Tongyi Qianwen license. The card gives a Transformers loading example and reports vision benchmark and inference-speed results.
+
+- Record JSON: https://awesomecua.com/resources/url-1f488d7ef1c703f97a8a/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: other — https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct-AWQ
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Qwen/Qwen2-VL-72B-Instruct-AWQ (retrieved 2026-11-09T19:56:02Z; SHA-256 a9c0013cb0a0e6ca022426ae0a400a9903d856c70012383cb720551224a9b0b0)
+- https://huggingface.co/api/models/Qwen/Qwen2-VL-72B-Instruct-AWQ (retrieved 2026-11-09T19:56:02Z; SHA-256 a9c0013cb0a0e6ca022426ae0a400a9903d856c70012383cb720551224a9b0b0)
+
+---
+
 ## Qwen2.5-VL-7B-Instruct
 
 Qwen2.5-VL-7B-Instruct releases vision-language weights whose card describes computer and phone use and reports results on screen grounding and mobile-agent benchmarks.
@@ -4959,6 +6634,244 @@ The repository contains sharded safetensors weights and processor and tokenizer 
 
 ---
 
+## Qwen2.5-VL-7B-Instruct-AWQ
+
+An AWQ release of the instruction-tuned 7B Qwen2.5-VL model. Its card describes interface-image understanding, visual localization, and computer and phone use.
+
+- Catalog URL: https://awesomecua.com/resources/url-06c351d14bee24bc3f01/
+- Original source: https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct-AWQ
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform
+- Topics: screen-understanding, grounding, mobile-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:56:41Z
+- ID: url:06c351d14bee24bc3f01
+
+### Limitations
+
+The release includes model weights and a Transformers usage example. The card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-06c351d14bee24bc3f01/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct-AWQ
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Qwen/Qwen2.5-VL-7B-Instruct-AWQ (retrieved 2026-11-09T19:56:41Z; SHA-256 0bd4c33bb3b06ddd39d22c69a306df62b7925aa9b1c2c61aec7e83b62ddf0327)
+- https://huggingface.co/api/models/Qwen/Qwen2.5-VL-7B-Instruct-AWQ (retrieved 2026-11-09T19:56:41Z; SHA-256 0bd4c33bb3b06ddd39d22c69a306df62b7925aa9b1c2c61aec7e83b62ddf0327)
+
+---
+
+## Qwen3-8B-FormFactory-GRPO-LoRA
+
+Qwen3-8B-FormFactory-GRPO-LoRA is a browser form-filling adapter for Qwen3-8B, trained with supervised initialization and online GRPO using real browser execution.
+
+- Catalog URL: https://awesomecua.com/resources/url-4a3799bd1b6db15afffe/
+- Original source: https://huggingface.co/billyenrizky/Qwen3-8B-FormFactory-GRPO-LoRA
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, reinforcement-learning, automation
+- Evidence checked: 2026-11-09T19:57:07Z
+- ID: url:4a3799bd1b6db15afffe
+
+### Limitations
+
+The release includes a PEFT adapter and loading example for Qwen/Qwen3-8B. The card declares Apache-2.0 and reports validation and test rewards on 124 held-out FormFactory tasks.
+
+- Record JSON: https://awesomecua.com/resources/url-4a3799bd1b6db15afffe/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/billyenrizky/Qwen3-8B-FormFactory-GRPO-LoRA
+
+### Primary evidence
+
+- https://huggingface.co/api/models/billyenrizky/Qwen3-8B-FormFactory-GRPO-LoRA (retrieved 2026-11-09T19:57:07Z; SHA-256 2e35c05a777801f70a511aea7ca07e4581c108f79e04748554bf60af6508da06)
+- https://huggingface.co/api/models/billyenrizky/Qwen3-8B-FormFactory-GRPO-LoRA (retrieved 2026-11-09T19:57:07Z; SHA-256 2e35c05a777801f70a511aea7ca07e4581c108f79e04748554bf60af6508da06)
+
+---
+
+## Qwen3-8B-FormFactory-SFT-LoRA
+
+A Qwen3-8B LoRA adapter fine-tuned on 992 demonstrations for filling web forms in FormFactory, released with instructions for loading it through PEFT.
+
+- Catalog URL: https://awesomecua.com/resources/url-994d4cf27b0931fb53e3/
+- Original source: https://huggingface.co/billyenrizky/Qwen3-8B-FormFactory-SFT-LoRA
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, imitation-learning
+- Evidence checked: 2026-11-09T19:57:37Z
+- ID: url:994d4cf27b0931fb53e3
+
+### Limitations
+
+The repository contains adapter weights and configuration files. The card names Qwen/Qwen3-8B as the base model and declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-994d4cf27b0931fb53e3/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/billyenrizky/Qwen3-8B-FormFactory-SFT-LoRA
+
+### Primary evidence
+
+- https://huggingface.co/api/models/billyenrizky/Qwen3-8B-FormFactory-SFT-LoRA (retrieved 2026-11-09T19:57:37Z; SHA-256 ebe47e5105423baceefe3a8333ab138044de981e0272c31ea39f08eb1e8b048f)
+- https://huggingface.co/api/models/billyenrizky/Qwen3-8B-FormFactory-SFT-LoRA (retrieved 2026-11-09T19:57:37Z; SHA-256 ebe47e5105423baceefe3a8333ab138044de981e0272c31ea39f08eb1e8b048f)
+
+---
+
+## Qwen3-VL-235B-A22B-Thinking
+
+A released Qwen3-VL vision-language checkpoint whose card describes PC and mobile GUI interaction, including recognizing interface elements, invoking tools, and completing tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-b8702b4ca9ceac2ca3ee/
+- Original source: https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, android, ios, cross-platform
+- Topics: screen-understanding, grounding, mobile-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:56:49Z
+- ID: url:b8702b4ca9ceac2ca3ee
+
+### Limitations
+
+The card provides a Transformers loading example and declares an Apache-2.0 license. The listed neighboring papers are separate publications.
+
+- Record JSON: https://awesomecua.com/resources/url-b8702b4ca9ceac2ca3ee/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-235B-A22B-Thinking (retrieved 2026-11-09T19:56:49Z; SHA-256 41c314d48b73369382877fe3670622f7586769d5931389ea4ebf310d24c73e23)
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-235B-A22B-Thinking (retrieved 2026-11-09T19:56:49Z; SHA-256 41c314d48b73369382877fe3670622f7586769d5931389ea4ebf310d24c73e23)
+
+---
+
+## Qwen3-VL-2B-Thinking
+
+Qwen3-VL-2B-Thinking, the 2B reasoning edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.
+
+- Catalog URL: https://awesomecua.com/resources/url-24013b35fccf6b504bc5/
+- Original source: https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop
+- Topics: screen-understanding, automation, tool-integration
+- Evidence checked: 2026-11-09T19:57:49Z
+- ID: url:24013b35fccf6b504bc5
+
+### Limitations
+
+The card provides Transformers and ModelScope usage examples and lists Apache-2.0 as the license.
+
+- Record JSON: https://awesomecua.com/resources/url-24013b35fccf6b504bc5/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Qwen/Qwen3-VL-2B-Thinking
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-2B-Thinking (retrieved 2026-11-09T19:57:49Z; SHA-256 f7a266334fe9b3b7cbf4eb02d77d286177253d64472882808ed1835f409b5dd8)
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-2B-Thinking (retrieved 2026-11-09T19:57:49Z; SHA-256 f7a266334fe9b3b7cbf4eb02d77d286177253d64472882808ed1835f409b5dd8)
+
+---
+
+## Qwen3-VL-32B-Thinking
+
+Qwen3-VL-32B-Thinking is a vision-language checkpoint whose card describes recognizing interface elements and using tools to complete PC and mobile GUI tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-ecf889aadea335aa5e25/
+- Original source: https://huggingface.co/Qwen/Qwen3-VL-32B-Thinking
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, cross-platform
+- Topics: screen-understanding, grounding, mobile-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:56:21Z
+- ID: url:ecf889aadea335aa5e25
+
+### Limitations
+
+The repository lists sharded safetensors weights, tokenizer files and preprocessing configuration. The card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-ecf889aadea335aa5e25/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Qwen/Qwen3-VL-32B-Thinking
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-32B-Thinking (retrieved 2026-11-09T19:56:21Z; SHA-256 329de228cd1f3af86a45214f1e13d9b6ba1c41f01bff2ab7113451c9da40e55a)
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-32B-Thinking (retrieved 2026-11-09T19:56:21Z; SHA-256 329de228cd1f3af86a45214f1e13d9b6ba1c41f01bff2ab7113451c9da40e55a)
+
+---
+
+## Qwen3-VL-4B-Thinking
+
+A vision-language checkpoint whose card describes visual-agent operation of PC and mobile interfaces, including element recognition and tool use.
+
+- Catalog URL: https://awesomecua.com/resources/url-b5690e43822ef84015c5/
+- Original source: https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking
+- Kind: model
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop
+- Topics: screen-understanding, mobile-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:57:41Z
+- ID: url:b5690e43822ef84015c5
+
+### Limitations
+
+The repository lists model weight shards, tokenizer and preprocessing files. The card declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-b5690e43822ef84015c5/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/Qwen/Qwen3-VL-4B-Thinking
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-4B-Thinking (retrieved 2026-11-09T19:57:41Z; SHA-256 3f1439b5deb5ad3ddf9d6f1abbc7e38ed5b1cec8cf9ffe4207e739f3097bd281)
+- https://huggingface.co/api/models/Qwen/Qwen3-VL-4B-Thinking (retrieved 2026-11-09T19:57:41Z; SHA-256 3f1439b5deb5ad3ddf9d6f1abbc7e38ed5b1cec8cf9ffe4207e739f3097bd281)
+
+---
+
 ## Qwen3-VL-8B-Thinking
 
 A general vision-language weight release whose documented visual-agent capability includes recognizing PC and mobile GUI elements and invoking tools to complete tasks.
@@ -4990,6 +6903,142 @@ The card provides Transformers and ModelScope usage examples and declares Apache
 
 - https://huggingface.co/api/models/Qwen/Qwen3-VL-8B-Thinking (retrieved 2026-11-09T05:05:19Z; SHA-256 2aec0c847702f66e9297839816bd758a3e7c349f1541ad8d9386a69244a0a9df)
 - https://huggingface.co/api/models/Qwen/Qwen3-VL-8B-Thinking (retrieved 2026-11-09T05:05:19Z; SHA-256 2aec0c847702f66e9297839816bd758a3e7c349f1541ad8d9386a69244a0a9df)
+
+---
+
+## Qwen3.5-4B-Browser-Agent-SFT-FP8
+
+An FP8 Qwen3.5-4B checkpoint fine-tuned on browser-agent trajectories with structured actions. Its card provides vLLM serving settings and reports BrowseWebApp-Bench v2 results.
+
+- Catalog URL: https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/
+- Original source: https://huggingface.co/visnia-ai/Qwen3.5-4B-Browser-Agent-SFT-FP8
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, imitation-learning, action-prediction, efficiency
+- Evidence checked: 2026-11-09T19:57:41Z
+- ID: url:6eda678ca03ea2b10d2d
+
+### Limitations
+
+The release contains merged, post-training FP8 model weights. The card says it uses Qwen/Qwen3.5-4B as its base, LoRA supervised fine-tuning and 3.3k successful executor trajectories; it declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-6eda678ca03ea2b10d2d/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/visnia-ai/Qwen3.5-4B-Browser-Agent-SFT-FP8
+
+### Primary evidence
+
+- https://huggingface.co/api/models/visnia-ai/Qwen3.5-4B-Browser-Agent-SFT-FP8 (retrieved 2026-11-09T19:57:41Z; SHA-256 ce1d91476215c5367fb4f584a2c0712cb4df7363782e0629a223a9f1a38a00b7)
+- https://huggingface.co/api/models/visnia-ai/Qwen3.5-4B-Browser-Agent-SFT-FP8 (retrieved 2026-11-09T19:57:41Z; SHA-256 ce1d91476215c5367fb4f584a2c0712cb4df7363782e0629a223a9f1a38a00b7)
+
+---
+
+## S1-Accurate-LoRA
+
+A LoRA adapter for a desktop agent's decision model uses window screenshots to select an operation and target element from candidate actions when a faster model is uncertain.
+
+- Catalog URL: https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/
+- Original source: https://huggingface.co/elidot007/S1-Accurate-LoRA
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: action-prediction, grounding, screen-understanding, state-tracking
+- Evidence checked: 2026-11-09T19:58:08Z
+- ID: url:d34be9d27efef6c1b37a
+
+### Limitations
+
+The card provides instructions to merge the adapter with OneJev-4B and serve it through qev. It reports evaluation on desktop, browser and mobile test sets and declares Apache-2.0 licensing.
+
+- Record JSON: https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/elidot007/S1-Accurate-LoRA
+
+### Primary evidence
+
+- https://huggingface.co/api/models/elidot007/S1-Accurate-LoRA (retrieved 2026-11-09T19:58:08Z; SHA-256 880e1ec62497543e4a985c7dd07fc4522fd312e10b613bddfecef1ec8efc8030)
+- https://huggingface.co/api/models/elidot007/S1-Accurate-LoRA (retrieved 2026-11-09T19:58:08Z; SHA-256 880e1ec62497543e4a985c7dd07fc4522fd312e10b613bddfecef1ec8efc8030)
+
+---
+
+## S1-Fast
+
+S1-Fast predicts desktop actions, target elements and step status from a Windows UI Automation snapshot and visual tokens in one encoder pass.
+
+- Catalog URL: https://awesomecua.com/resources/url-51fd7f79dff766278d83/
+- Original source: https://huggingface.co/elidot007/S1-Fast
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: action-prediction, grounding, efficiency, state-tracking
+- Evidence checked: 2026-11-09T19:56:15Z
+- ID: url:51fd7f79dff766278d83
+
+### Limitations
+
+The release includes model weights, configuration, tokenizer, calibration and step-gate files. It was initialized from mmBERT-base; the optional SigLIP2 image tower is separate. The card declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-51fd7f79dff766278d83/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/elidot007/S1-Fast
+
+### Primary evidence
+
+- https://huggingface.co/api/models/elidot007/S1-Fast (retrieved 2026-11-09T19:56:15Z; SHA-256 c8a27232ad121fcc7dda918795fca6e17d7b2321e3f9dd041c366259ecfddfac)
+- https://huggingface.co/api/models/elidot007/S1-Fast (retrieved 2026-11-09T19:56:15Z; SHA-256 c8a27232ad121fcc7dda918795fca6e17d7b2321e3f9dd041c366259ecfddfac)
+
+---
+
+## Salesforce/GTA1-32B
+
+A 32B GUI grounding checkpoint trained with GRPO to produce screen actions from tasks and screenshots, with reported results on grounding and desktop agent benchmarks.
+
+- Catalog URL: https://awesomecua.com/resources/url-5288515eb50aef1e84a2/
+- Original source: https://huggingface.co/Salesforce/GTA1-32B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: grounding, reinforcement-learning, action-prediction, evaluation
+- Evidence checked: 2026-11-09T05:05:01Z
+- ID: url:5288515eb50aef1e84a2
+
+### Limitations
+
+The repository lists weight shards and custom model and processor code. The card includes inference and serving examples and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-5288515eb50aef1e84a2/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/Salesforce/GTA1-32B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/Salesforce/GTA1-32B (retrieved 2026-11-09T05:05:01Z; SHA-256 54c85b5f2d788df434d7d7a9201a11261a97c81a8059a3e9f6ebed467cd77c12)
+- https://huggingface.co/api/models/Salesforce/GTA1-32B (retrieved 2026-11-09T05:05:01Z; SHA-256 54c85b5f2d788df434d7d7a9201a11261a97c81a8059a3e9f6ebed467cd77c12)
 
 ---
 
@@ -5210,6 +7259,40 @@ Hub API at revision ca2bc686 lists four BF16 safetensors shards (about 9.41B par
 
 ---
 
+## SCOPE-SFT-9B
+
+A Qwen3.5-9B computer-use checkpoint trained on desktop task demonstrations and safety response trajectories, with reported task and attack-avoidance evaluations.
+
+- Catalog URL: https://awesomecua.com/resources/url-389202404e2653f59838/
+- Original source: https://huggingface.co/k4ng/SCOPE-SFT-9B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: safety-security, imitation-learning, automation
+- Evidence checked: 2026-11-09T19:57:37Z
+- ID: url:389202404e2653f59838
+
+### Limitations
+
+The release contains model weights and gives a vLLM serving command. The card identifies SATraj-OS as its training data and names OSWorld and OS-BLIND as evaluation benchmarks.
+
+- Record JSON: https://awesomecua.com/resources/url-389202404e2653f59838/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/k4ng/SCOPE-SFT-9B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/k4ng/SCOPE-SFT-9B (retrieved 2026-11-09T19:57:37Z; SHA-256 482eef9011c68bb222e6d73f9fe671622e06ded9f54211de94421898875eef46)
+- https://huggingface.co/api/models/k4ng/SCOPE-SFT-9B (retrieved 2026-11-09T19:57:37Z; SHA-256 482eef9011c68bb222e6d73f9fe671622e06ded9f54211de94421898875eef46)
+
+---
+
 ## Seg2Click Qwen2.5-VL 3B
 
 Seg2Click checkpoint based on Qwen2.5-VL-3B with a custom action-mask decoder.
@@ -5385,6 +7468,40 @@ License declarations apply to this checkpoint separately from code and training 
 
 ---
 
+## sharryXR/asil-qwen35-2b-sft
+
+An ASIL Qwen3.5-2B SFT checkpoint released for research on structured application state and semantic actions, with loadable model and tokenizer files.
+
+- Catalog URL: https://awesomecua.com/resources/url-d59976834d3d0d3a1809/
+- Original source: https://huggingface.co/sharryXR/asil-qwen35-2b-sft
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: action-prediction, tool-integration
+- Evidence checked: 2026-11-09T19:57:06Z
+- ID: url:d59976834d3d0d3a1809
+
+### Limitations
+
+The card names Qwen/Qwen3.5-2B as the base model and reports 2,330 training and 594 validation rows. The repository includes model weights, configuration, tokenizer files, checksums, and checkpoint metadata. The declared license is Apache 2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-d59976834d3d0d3a1809/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/sharryXR/asil-qwen35-2b-sft
+
+### Primary evidence
+
+- https://huggingface.co/api/models/sharryXR/asil-qwen35-2b-sft (retrieved 2026-11-09T19:57:06Z; SHA-256 02789997790d246eda7199e8dfd13a9c626805a94db4bf4ebc2bbd31a20025f9)
+- https://huggingface.co/api/models/sharryXR/asil-qwen35-2b-sft (retrieved 2026-11-09T19:57:06Z; SHA-256 02789997790d246eda7199e8dfd13a9c626805a94db4bf4ebc2bbd31a20025f9)
+
+---
+
 ## ShowUI-Narrator
 
 A released 2B model for narrating user actions in GUI screenshots and video, with a pipeline that detects the cursor and processes cropped frames.
@@ -5518,6 +7635,42 @@ The repository lists sharded model weights and tokenizer files. The card declare
 
 - https://huggingface.co/api/models/Fanbin/STEVE-R1-7B-SFT (retrieved 2026-11-09T05:05:07Z; SHA-256 8656133cd96812a3e238db1209af076b4af6f94ae92f831ef2c4671d3d98bb27)
 - https://huggingface.co/api/models/Fanbin/STEVE-R1-7B-SFT (retrieved 2026-11-09T05:05:07Z; SHA-256 8656133cd96812a3e238db1209af076b4af6f94ae92f831ef2c4671d3d98bb27)
+
+---
+
+## THUDM/cogagent-chat-hf
+
+A CogAgent chat checkpoint for interpreting GUI screenshots and proposing plans, next actions, and coordinates. The card describes use with web, desktop, and mobile interfaces.
+
+- Catalog URL: https://awesomecua.com/resources/url-5726382dc813f040f829/
+- Original source: https://huggingface.co/THUDM/cogagent-chat-hf
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: screen-understanding, grounding, action-prediction, planning
+- Evidence checked: 2026-11-09T19:58:09Z
+- ID: url:5726382dc813f040f829
+
+### Limitations
+
+The repository contains safetensors weight shards and model code. The card says model weights are free for academic research and commercial use requires registration under a model license.
+
+- Record JSON: https://awesomecua.com/resources/url-5726382dc813f040f829/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/THUDM/cogagent-chat-hf
+
+### Primary evidence
+
+- https://huggingface.co/api/models/THUDM/cogagent-chat-hf (retrieved 2026-11-09T19:58:09Z; SHA-256 cc325baca7fac28f5cbbb1233eeec9329dc529a880aca6c1ed7ee367a563149b)
+- https://huggingface.co/api/models/THUDM/cogagent-chat-hf (retrieved 2026-11-09T19:58:09Z; SHA-256 cc325baca7fac28f5cbbb1233eeec9329dc529a880aca6c1ed7ee367a563149b)
+- https://huggingface.co/api/models/THUDM/cogagent-chat-hf (retrieved 2026-11-09T20:03:14Z; SHA-256 cc325baca7fac28f5cbbb1233eeec9329dc529a880aca6c1ed7ee367a563149b)
+- https://huggingface.co/api/models/zai-org/cogagent-chat-hf (retrieved 2026-11-09T20:03:14Z; SHA-256 cc325baca7fac28f5cbbb1233eeec9329dc529a880aca6c1ed7ee367a563149b)
 
 ---
 
@@ -5935,6 +8088,40 @@ UI-Venus 2 GUI-agent checkpoint fine-tuned from Qwen3.5-9B, with about 9.4B BF16
 
 ---
 
+## UI2Code_N
+
+A visual language model that turns UI screenshots into code and supports iterative interface editing and polishing. Its card includes a screenshot-to-HTML inference example.
+
+- Catalog URL: https://awesomecua.com/resources/url-b04608609a8c392d110b/
+- Original source: https://huggingface.co/zai-org/UI2Code_N
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: screen-understanding, ui-design, reinforcement-learning
+- Evidence checked: 2026-11-09T19:57:58Z
+- ID: url:b04608609a8c392d110b
+
+### Limitations
+
+The card identifies GLM-4.1V-9B-Base as the backbone and gives a Transformers inference example. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-b04608609a8c392d110b/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: mit — https://huggingface.co/zai-org/UI2Code_N
+
+### Primary evidence
+
+- https://huggingface.co/api/models/zai-org/UI2Code_N (retrieved 2026-11-09T19:57:58Z; SHA-256 3fa7d59a5d97b05001ceea60c62e8bfc0d34355b5ec0d0b490d58ebe3bfbc30e)
+- https://huggingface.co/api/models/zai-org/UI2Code_N (retrieved 2026-11-09T19:57:58Z; SHA-256 3fa7d59a5d97b05001ceea60c62e8bfc0d34355b5ec0d0b490d58ebe3bfbc30e)
+
+---
+
 ## UIX-Qwen2
 
 A MultiUI-trained visual-language checkpoint for text-rich webpage understanding and interface tasks.
@@ -6009,6 +8196,40 @@ Hub API at revision cf1654a2 lists four root BF16 safetensors shards (about 8.03
 
 ---
 
+## V-Droid-8B-0323
+
+A verifier model for the V-Droid Android GUI agent scores candidate actions from a device description and task, helping select the next mobile operation.
+
+- Catalog URL: https://awesomecua.com/resources/url-82adab61eb515398da48/
+- Original source: https://huggingface.co/V-Droid/V-Droid-8B-0323
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, action-prediction, reward-models, efficiency
+- Evidence checked: 2026-11-09T19:57:04Z
+- ID: url:82adab61eb515398da48
+
+### Limitations
+
+The repository listing includes adapter weights and a value-head file. The card says the model was fine-tuned from Llama-3.1-8B-4bit and declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-82adab61eb515398da48/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/V-Droid/V-Droid-8B-0323
+
+### Primary evidence
+
+- https://huggingface.co/api/models/V-Droid/V-Droid-8B-0323 (retrieved 2026-11-09T19:57:04Z; SHA-256 0be9596c50a0c542ab8c9f5649204c5cd1ef4b8af119df5950a56828aee48e80)
+- https://huggingface.co/api/models/V-Droid/V-Droid-8B-0323 (retrieved 2026-11-09T19:57:04Z; SHA-256 0be9596c50a0c542ab8c9f5649204c5cd1ef4b8af119df5950a56828aee48e80)
+
+---
+
 ## VeriOS-Agent-32B
 
 VeriOS-Agent-32B is a query-driven OS agent checkpoint initialized from Qwen2.5-VL-32B. It is released with model weights for the interaction approach described in the VeriOS paper.
@@ -6040,6 +8261,40 @@ The repository contains sharded safetensors weights, a model index and tokenizer
 
 - https://huggingface.co/api/models/wuuuuuz/VeriOS-Agent-32B (retrieved 2026-11-09T05:04:58Z; SHA-256 b83a1bb40de44e1b7d5a9cf14278f261d26d9b7cfdc6451bf7322da4c9f4c83c)
 - https://huggingface.co/api/models/wuuuuuz/VeriOS-Agent-32B (retrieved 2026-11-09T05:04:58Z; SHA-256 b83a1bb40de44e1b7d5a9cf14278f261d26d9b7cfdc6451bf7322da4c9f4c83c)
+
+---
+
+## Vision-ml
+
+Vision-ml locates the close control in a mobile-app popup screenshot and returns screen coordinates for automation; the repository includes prediction code and a pretrained model.
+
+- Catalog URL: https://awesomecua.com/resources/github-meituan-dianping-vision/
+- Original source: https://github.com/Meituan-Dianping/vision
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, screen-understanding, automation
+- Evidence checked: 2026-11-09T19:56:59Z
+- ID: github:meituan-dianping/vision
+
+### Limitations
+
+The README describes Python-script and web-server prediction paths, training images and model-training instructions.
+
+- Record JSON: https://awesomecua.com/resources/github-meituan-dianping-vision/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Meituan-Dianping/vision/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Meituan-Dianping/vision/HEAD/README.md (retrieved 2026-11-09T19:56:59Z; SHA-256 77ad6833898d2a344431067fe8f69d3b4b8855aea0deccb6737fff240b7d15a1)
+- https://raw.githubusercontent.com/Meituan-Dianping/vision/HEAD/LICENSE (retrieved 2026-11-09T14:20:49Z; SHA-256 344f21123f798b47f16cb7b67c7d4bdb06d920f21d78bc2a2e729eaf4c65cb30)
 
 ---
 
@@ -6150,6 +8405,144 @@ The repository lists model weight shards and configuration files. The card ident
 
 ---
 
+## WebThinker-QwQ-32B
+
+WebThinker-QwQ-32B is a released reasoning model for searching and navigating web pages while drafting research reports. Its card describes training on preferences derived from reasoning trajectories.
+
+- Catalog URL: https://awesomecua.com/resources/url-e058cc2487a805f976fd/
+- Original source: https://huggingface.co/lixiaoxi45/WebThinker-QwQ-32B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, reinforcement-learning
+- Evidence checked: 2026-11-09T19:57:08Z
+- ID: url:e058cc2487a805f976fd
+
+### Limitations
+
+The repository lists model weight shards and tokenizer files. The card declares an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-e058cc2487a805f976fd/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/lixiaoxi45/WebThinker-QwQ-32B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/lixiaoxi45/WebThinker-QwQ-32B (retrieved 2026-11-09T19:57:08Z; SHA-256 003ae8270255674f17dd313e0848741da5729127e3cae19c80b0c86c20815be5)
+- https://huggingface.co/api/models/lixiaoxi45/WebThinker-QwQ-32B (retrieved 2026-11-09T19:57:08Z; SHA-256 003ae8270255674f17dd313e0848741da5729127e3cae19c80b0c86c20815be5)
+
+---
+
+## WebThinker-R1-32B
+
+Released reasoning checkpoint for web research that searches and navigates pages through interactive clicks while drafting reports from gathered information.
+
+- Catalog URL: https://awesomecua.com/resources/url-8076f65dc82b4dcea18c/
+- Original source: https://huggingface.co/lixiaoxi45/WebThinker-R1-32B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, reinforcement-learning
+- Evidence checked: 2026-11-09T19:58:04Z
+- ID: url:8076f65dc82b4dcea18c
+
+### Limitations
+
+The card identifies this as a 32B parameter model and declares an Apache License 2.0 release. It cites the WebThinker paper.
+
+- Record JSON: https://awesomecua.com/resources/url-8076f65dc82b4dcea18c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/lixiaoxi45/WebThinker-R1-32B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/lixiaoxi45/WebThinker-R1-32B (retrieved 2026-11-09T19:58:04Z; SHA-256 07ce80c79e7b3cbd7e779c72a039d8e6daa9ea9b591250f640fb27b88ac9c4a0)
+- https://huggingface.co/api/models/lixiaoxi45/WebThinker-R1-32B (retrieved 2026-11-09T19:58:04Z; SHA-256 07ce80c79e7b3cbd7e779c72a039d8e6daa9ea9b591250f640fb27b88ac9c4a0)
+
+---
+
+## WebThinker-R1-7B
+
+A released 7B reasoning model for web research that searches and navigates pages through interactive elements while drafting reports.
+
+- Catalog URL: https://awesomecua.com/resources/url-564c980a531e7204447c/
+- Original source: https://huggingface.co/lixiaoxi45/WebThinker-R1-7B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, reinforcement-learning
+- Evidence checked: 2026-11-09T19:56:28Z
+- ID: url:564c980a531e7204447c
+
+### Limitations
+
+The repository lists model weight shards and tokenizer files. The card describes iterative online DPO training and declares an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-564c980a531e7204447c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/lixiaoxi45/WebThinker-R1-7B
+
+### Primary evidence
+
+- https://huggingface.co/api/models/lixiaoxi45/WebThinker-R1-7B (retrieved 2026-11-09T19:56:28Z; SHA-256 f1948fa6be3295da60b0174956f8e6da7bcd78ccacc6d28d15f91c78f9d85a22)
+- https://huggingface.co/api/models/lixiaoxi45/WebThinker-R1-7B (retrieved 2026-11-09T19:56:28Z; SHA-256 f1948fa6be3295da60b0174956f8e6da7bcd78ccacc6d28d15f91c78f9d85a22)
+
+---
+
+## yolov11l-ui-elements-detection
+
+A YOLO11 fine-tune that locates five kinds of interface elements in macOS application screenshots to support accessibility metadata generation.
+
+- Catalog URL: https://awesomecua.com/resources/url-5d824526d56f179d3d51/
+- Original source: https://huggingface.co/MacPaw/yolov11l-ui-elements-detection
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-11-09T19:57:37Z
+- ID: url:5d824526d56f179d3d51
+
+### Limitations
+
+The release contains a .pt checkpoint and lists Screen2AX-Element as its training dataset. The card declares an AGPL-3.0 license and shows inference with Ultralytics.
+
+- Record JSON: https://awesomecua.com/resources/url-5d824526d56f179d3d51/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: agpl-3.0 — https://huggingface.co/MacPaw/yolov11l-ui-elements-detection
+
+### Primary evidence
+
+- https://huggingface.co/api/models/MacPaw/yolov11l-ui-elements-detection (retrieved 2026-11-09T19:57:37Z; SHA-256 43b55afc25cc24dd456ff3bb2f6c155489612594deb94c7764f1e8e9b2e8ef7c)
+- https://huggingface.co/api/models/MacPaw/yolov11l-ui-elements-detection (retrieved 2026-11-09T19:57:37Z; SHA-256 43b55afc25cc24dd456ff3bb2f6c155489612594deb94c7764f1e8e9b2e8ef7c)
+- https://huggingface.co/api/models/MacPaw/yolov11l-ui-elements-detection (retrieved 2026-11-09T20:02:59Z; SHA-256 43b55afc25cc24dd456ff3bb2f6c155489612594deb94c7764f1e8e9b2e8ef7c)
+- https://huggingface.co/api/models/macpaw-research/yolov11l-ui-elements-detection (retrieved 2026-11-09T20:03:00Z; SHA-256 43b55afc25cc24dd456ff3bb2f6c155489612594deb94c7764f1e8e9b2e8ef7c)
+
+---
+
 ## ZeroGUI-AndroidLab-7B
 
 ZeroGUI-AndroidLab-7B is a GUI-agent checkpoint associated with training that generates interface tasks, estimates rewards from screenshots, and adapts through online reinforcement learning.
@@ -6215,6 +8608,40 @@ The repository contains safetensors weight shards and tokenizer files. The card 
 
 - https://huggingface.co/api/models/OpenGVLab/ZeroGUI-OSWorld-7B (retrieved 2026-11-09T05:05:16Z; SHA-256 709c47498a1731a5a85d987023ff2eff18fe42d1792796527bdb7c554a8719b9)
 - https://huggingface.co/api/models/OpenGVLab/ZeroGUI-OSWorld-7B (retrieved 2026-11-09T05:05:16Z; SHA-256 709c47498a1731a5a85d987023ff2eff18fe42d1792796527bdb7c554a8719b9)
+
+---
+
+## ZHEN-04/CaptchaAgent
+
+ZHEN-04/CaptchaAgent is a 9B computer-use policy trained on interactive CAPTCHA trajectories. It maps screenshots to tool calls and provides SFT and reinforcement-learning checkpoints.
+
+- Catalog URL: https://awesomecua.com/resources/url-fb67af38dce972b398c3/
+- Original source: https://huggingface.co/ZHEN-04/CaptchaAgent
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: action-prediction, screen-understanding, reinforcement-learning, safety-security
+- Evidence checked: 2026-11-09T19:55:52Z
+- ID: url:fb67af38dce972b398c3
+
+### Limitations
+
+The page lists full bf16 weights, tokenizers, processors, and chat templates in SFT and RL subfolders. Access is manually gated under CC-BY-NC-4.0 terms.
+
+- Record JSON: https://awesomecua.com/resources/url-fb67af38dce972b398c3/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: cc-by-nc-4.0 — https://huggingface.co/ZHEN-04/CaptchaAgent
+
+### Primary evidence
+
+- https://huggingface.co/api/models/ZHEN-04/CaptchaAgent (retrieved 2026-11-09T19:55:52Z; SHA-256 52fa568b43b85f62b3b377f5ec8baffc5da1d14fefd415941f3f2d593527a64f)
+- https://huggingface.co/api/models/ZHEN-04/CaptchaAgent (retrieved 2026-11-09T19:55:52Z; SHA-256 52fa568b43b85f62b3b377f5ec8baffc5da1d14fefd415941f3f2d593527a64f)
 
 ---
 
@@ -6904,74 +9331,6 @@ GroundingPI is a 4B visual grounding foundation model that unifies bounding-box 
 
 - https://raw.githubusercontent.com/groundingpi/GroundingPI/HEAD/README.md (retrieved 2026-11-04T14:20:13Z; SHA-256 65367d8d12e665dad4a2510a14a1e8740fbfe4080baa1911b976ff461be9bcf8)
 - https://raw.githubusercontent.com/groundingpi/GroundingPI/HEAD/LICENSE (retrieved 2026-11-04T14:23:47Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
-
----
-
-## GTA1-7B
-
-Released GUI grounding checkpoint trained with reinforcement learning to predict click coordinates from screenshots and instructions, with inference examples and reported benchmark results.
-
-- Catalog URL: https://awesomecua.com/resources/url-fa6761a4612fab664a7c/
-- Original source: https://huggingface.co/Salesforce/GTA1-7B
-- Kind: model
-- Review: curated
-- Scope: core
-- Environments: desktop, windows
-- Topics: grounding, reinforcement-learning, action-prediction, evaluation
-- Evidence checked: 2026-11-09T05:05:09Z
-- ID: url:fa6761a4612fab664a7c
-
-### Limitations
-
-The card declares an MIT license and shows vLLM-based inference code using the Salesforce/GTA1-7B checkpoint. It reports results on ScreenSpot, OSWorld, and WindowsAgentArena benchmarks.
-
-- Record JSON: https://awesomecua.com/resources/url-fa6761a4612fab664a7c/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: mit — https://huggingface.co/Salesforce/GTA1-7B
-
-### Primary evidence
-
-- https://huggingface.co/api/models/Salesforce/GTA1-7B (retrieved 2026-11-09T05:05:09Z; SHA-256 73f8db102da38c690804633c5d9829a06d9c4c73d4a0cf8fdf234b91b90940f8)
-- https://huggingface.co/api/models/Salesforce/GTA1-7B (retrieved 2026-11-09T05:05:09Z; SHA-256 73f8db102da38c690804633c5d9829a06d9c4c73d4a0cf8fdf234b91b90940f8)
-
----
-
-## GTA1-7B-2507
-
-GTA1-7B-2507 is a GUI-grounding checkpoint trained with reinforcement learning to locate described elements in screenshots and return click coordinates.
-
-- Catalog URL: https://awesomecua.com/resources/url-691c52679bb1d3521db7/
-- Original source: https://huggingface.co/Salesforce/GTA1-7B-2507
-- Kind: model
-- Review: curated
-- Scope: core
-- Environments: desktop, windows
-- Topics: grounding, reinforcement-learning, evaluation
-- Evidence checked: 2026-11-09T05:05:20Z
-- ID: url:691c52679bb1d3521db7
-
-### Limitations
-
-The card includes inference code using Qwen2.5-VL components and declares an Apache-2.0 license. It cites the GTA1 paper.
-
-- Record JSON: https://awesomecua.com/resources/url-691c52679bb1d3521db7/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: apache-2.0 — https://huggingface.co/Salesforce/GTA1-7B-2507
-
-### Primary evidence
-
-- https://huggingface.co/api/models/Salesforce/GTA1-7B-2507 (retrieved 2026-11-09T05:05:20Z; SHA-256 3250e912d601fae99985da24b73dde65b523381edcaa1a728c48c43af3dff013)
-- https://huggingface.co/api/models/Salesforce/GTA1-7B-2507 (retrieved 2026-11-09T05:05:20Z; SHA-256 3250e912d601fae99985da24b73dde65b523381edcaa1a728c48c43af3dff013)
 
 ---
 
@@ -9168,40 +11527,6 @@ The page says base and instruction-tuned models in 3B, 7B, and 72B sizes are ava
 ### Primary evidence
 
 - https://qwenlm.github.io/blog/qwen2.5-vl (retrieved 2026-11-09T05:05:15Z; SHA-256 7b00824500da48251647448b615d83a0b62c2f5387fa8d569aedc5ec82810c3f)
-
----
-
-## Salesforce/GTA1-32B
-
-A 32B GUI grounding checkpoint trained with GRPO to produce screen actions from tasks and screenshots, with reported results on grounding and desktop agent benchmarks.
-
-- Catalog URL: https://awesomecua.com/resources/url-5288515eb50aef1e84a2/
-- Original source: https://huggingface.co/Salesforce/GTA1-32B
-- Kind: model
-- Review: curated
-- Scope: core
-- Environments: desktop, windows
-- Topics: grounding, reinforcement-learning, action-prediction, evaluation
-- Evidence checked: 2026-11-09T05:05:01Z
-- ID: url:5288515eb50aef1e84a2
-
-### Limitations
-
-The repository lists weight shards and custom model and processor code. The card includes inference and serving examples and declares an MIT license.
-
-- Record JSON: https://awesomecua.com/resources/url-5288515eb50aef1e84a2/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: mit — https://huggingface.co/Salesforce/GTA1-32B
-
-### Primary evidence
-
-- https://huggingface.co/api/models/Salesforce/GTA1-32B (retrieved 2026-11-09T05:05:01Z; SHA-256 54c85b5f2d788df434d7d7a9201a11261a97c81a8059a3e9f6ebed467cd77c12)
-- https://huggingface.co/api/models/Salesforce/GTA1-32B (retrieved 2026-11-09T05:05:01Z; SHA-256 54c85b5f2d788df434d7d7a9201a11261a97c81a8059a3e9f6ebed467cd77c12)
 
 ---
 

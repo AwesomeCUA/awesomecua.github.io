@@ -170,6 +170,8 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
 
 - [AgentRewardBench dataset](https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/) — Date not recorded
   Hugging Face dataset release for AgentRewardBench containing trajectory evaluation instances across WebArena, VisualWebArena, AssistantBench, WorkArena, and OSWorld.
+- [OS-Copilot/OS-Shepherd-100K](https://awesomecua.com/resources/url-d716497286ae5cd5e762/) — Date not recorded
+  A dataset of GUI agent trajectories and screenshots for training models to judge task completion, with supervised records and reinforcement learning splits.
 - [UI-Genie reward data](https://awesomecua.com/resources/url-84e5aeeffaf561baa966/) — Date not recorded
   Mobile GUI reward annotations released for training UI-Genie’s trajectory-assessment model.
 - [WebPRM checklist-generation data](https://awesomecua.com/resources/url-fcc98b149272bbf31b05/) — Date not recorded
@@ -187,6 +189,8 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   The 3B GUI-G2 grounding checkpoint: Qwen2.5-VL-3B-Instruct fine-tuned with Gaussian point and coverage rewards to locate interface elements in screenshots from text instructions.
 - [GUI-G2 7B](https://awesomecua.com/resources/url-90eea6f6d099a3297850/) — Date not recorded
   A Qwen2.5-VL grounding checkpoint trained with Gaussian point and coverage rewards whose granularity adapts to interface-element scale.
+- [V-Droid-8B-0323](https://awesomecua.com/resources/url-82adab61eb515398da48/) — Date not recorded
+  A verifier model for the V-Droid Android GUI agent scores candidate actions from a device description and task, helping select the next mobile operation.
 - [WebJudge 7B](https://awesomecua.com/resources/url-772161f06c2b3d4978b5/) — Date not recorded
   A visual trajectory judge that retains selected intermediate screenshots to evaluate whether a web agent completed its task.
 - [WebRL outcome reward model 8B](https://awesomecua.com/resources/url-d1e85aeb6d96859c109d/) — Date not recorded

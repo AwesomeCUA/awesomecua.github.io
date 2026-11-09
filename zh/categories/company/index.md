@@ -1,6 +1,6 @@
 # 计算机使用智能体发布方
 
-> AwesomeCUA 目录收录 19 条已审核发布方。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T16:17:01Z。
+> AwesomeCUA 目录收录 19 条已审核发布方。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/company/ · [English](https://awesomecua.com/categories/company/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

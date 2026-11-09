@@ -1,6 +1,6 @@
 # Computer-use agent products
 
-> 70 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
+> 72 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/product/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -39,6 +39,74 @@ The repository contains the Workstation shell, desktop host, browser adapters an
 
 - https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 205b577980981d8c98c1610af912d779aa3889c457a835c67cf90a66da0d34a6)
 - https://raw.githubusercontent.com/openinterpreter/interpreter-workstation/HEAD/LICENSE (retrieved 2026-11-09T06:13:31Z; SHA-256 d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc)
+
+---
+
+## MT Code
+
+MT Code is a desktop app that runs coding agents and gives them browser computer-use controls, a live computer view and access to reachable machines.
+
+- Catalog URL: https://awesomecua.com/resources/github-munimtechnologies-mtcode/
+- Original source: https://github.com/munimtechnologies/mtcode
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, windows, linux, web
+- Topics: automation, tool-integration, web-navigation, observability
+- Evidence checked: 2026-11-09T19:56:06Z
+- ID: github:munimtechnologies/mtcode
+
+### Limitations
+
+The README lists macOS, Windows and Linux installers and says users must install and sign in to at least one supported provider CLI. It identifies the app as a fork of T3 Code with added features.
+
+- Record JSON: https://awesomecua.com/resources/github-munimtechnologies-mtcode/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/README.md (retrieved 2026-11-09T19:56:06Z; SHA-256 e25271a2d97177e27e2e3169118e32e5b06adf3060225fd77708cc3e543a55a4)
+- https://raw.githubusercontent.com/munimtechnologies/mtcode/HEAD/LICENSE (retrieved 2026-11-09T14:20:36Z; SHA-256 ce1f7f4d9a176c4641bfa2c51d22f1fcfcc98dab9e1c413cb72d6101159ddbc3)
+
+---
+
+## ovoBrowser
+
+ovoBrowser is a desktop client for managing isolated browser profiles and proxies. Its local API exposes opened profiles to browser automation tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/
+- Original source: https://github.com/ovobrowsersupport/ovobrowser-manger
+- Kind: product
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop, windows, macos, cross-platform
+- Topics: automation, web-navigation, sandbox
+- Evidence checked: 2026-11-09T19:56:16Z
+- ID: github:ovobrowsersupport/ovobrowser-manger
+
+### Limitations
+
+The README points to website downloads for Windows and macOS and describes profile, team and local API screens. The repository file list contains documentation rather than client source code.
+
+- Record JSON: https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/README.md (retrieved 2026-11-09T19:56:16Z; SHA-256 158e9aad2a43d5ff9d3723a0bdce6e9123ad732465fceae9994ba12ee9417d1b)
+- https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser-manger/HEAD/LICENSE (retrieved 2026-11-09T14:20:41Z; SHA-256 65551de6dabceec1a82c2ac6a637d5ed2305ae77651fa4281d6f80e1c3174023)
 
 ---
 

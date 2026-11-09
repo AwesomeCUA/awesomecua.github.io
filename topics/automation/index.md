@@ -305,6 +305,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   taskproof is an open-source CI harness that tests whether real AI computer-use and browser agents can complete tasks on live websites.
 - [TestPilot](https://awesomecua.com/resources/github-h0ngza1-testpilot/) — Date not recorded
   Agentic end-to-end web testing platform that executes natural-language test cases in live browsers.
+- [vimgolf-gym](https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/) — Date not recorded
+  A Gym-like benchmark for VimGolf tasks that lets agents send keystrokes to Vim, capture screenshots, and score solutions by correctness and key count.
 
 ## Datasets
 
@@ -319,6 +321,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A general model whose release documents computer use through visual observation, mouse actions, and keyboard input, with OSWorld evaluation and prompt-injection testing.
 - [cua-s1-forms](https://awesomecua.com/resources/url-721c94bd6f2f3edc35ba/) — Date not recorded
   A 706,048-parameter checkpoint that scores candidate actions for GUI form fields in parallel. It is released as safetensors weights with a configuration file.
+- [cua-s1-forms-coreml](https://awesomecua.com/resources/url-f742ad40df2e5f109fc3/) — Date not recorded
+  A Core ML conversion of CUA-S1-FORMS scores candidate actions for forms from task and element text. It provides portable and compiled packages for Apple devices.
 - [HobbyLM-1B Computer Use](https://awesomecua.com/resources/url-12470a40c8f82ef0294a/) — Date not recorded
   An on-device LoRA adapter that turns English requests and Mac state into single actions executed by a companion app, with training code and evaluation records.
 - [Holo3](https://awesomecua.com/resources/url-a03c649e4b14e293e2dd/) — Date not recorded
@@ -327,8 +331,18 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   MiniMax M3 is a multimodal model whose release page describes desktop operation from visual input and cross-application tasks through MiniMax Code.
 - [OpenCSG-Qwen2.5-7B-GUI](https://awesomecua.com/resources/url-2462fb9d529bac7fa896/) — Date not recorded
   A browser automation model for the AutoHub plugin that accepts natural-language requests for web operations and information retrieval.
+- [Qwen3-8B-FormFactory-GRPO-LoRA](https://awesomecua.com/resources/url-4a3799bd1b6db15afffe/) — Date not recorded
+  Qwen3-8B-FormFactory-GRPO-LoRA is a browser form-filling adapter for Qwen3-8B, trained with supervised initialization and online GRPO using real browser execution.
+- [Qwen3-VL-2B-Thinking](https://awesomecua.com/resources/url-24013b35fccf6b504bc5/) — Date not recorded
+  Qwen3-VL-2B-Thinking, the 2B reasoning edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.
+- [Qwen3-VL-32B-Instruct](https://awesomecua.com/resources/url-560a21b67220296ba009/) — Date not recorded
+  Qwen3-VL-32B-Instruct, the 32B instruction-tuned edition of the Qwen3-VL vision-language weights, whose card describes visual-agent operation of PC and mobile GUIs, including element recognition and tool use.
+- [SCOPE-SFT-9B](https://awesomecua.com/resources/url-389202404e2653f59838/) — Date not recorded
+  A Qwen3.5-9B computer-use checkpoint trained on desktop task demonstrations and safety response trajectories, with reported task and attack-avoidance evaluations.
 - [ShowUI-π](https://awesomecua.com/resources/github-showlab-showui-pi/) — Date not recorded
   Vision-language-action model and training code for GUI dragging, with links to checkpoints and continuous-action evaluation data.
+- [Vision-ml](https://awesomecua.com/resources/github-meituan-dianping-vision/) — Date not recorded
+  Vision-ml locates the close control in a mobile-app popup screenshot and returns screen coordinates for automation; the repository includes prediction code and a pretrained model.
 
 ## Engineering & industry
 
@@ -350,10 +364,14 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   General Agents' desktop autopilot, trained on recorded expert behavior, that predicts clicks, keystrokes and other actions from screenshots; its API client ships a macOS controller that executes them.
 - [AClaw](https://awesomecua.com/resources/github-magnusdot-aclaw/) — Date not recorded
   Packaged local command center for running and monitoring personal OpenClaw computer-use agents.
+- [Actell](https://awesomecua.com/resources/github-ja1chen-actell/) — Date not recorded
+  An iPhone agent prototype observes screenshots or accessibility content and issues taps and drags through CoreDevice, using a VPN loopback or optional hardware relay.
 - [ActionAnything](https://awesomecua.com/resources/github-xxwtiancai-action-anything/) — Date not recorded
   Model-agnostic runtime for evaluating, approving, recording, and replaying AI agent actions across desktop and web interfaces.
 - [ACUTE-CODE](https://awesomecua.com/resources/github-testplay-byte-acute-code/) — Date not recorded
   Local-first, extension-first multi-agent coding and computer-use workbench.
+- [adb](https://awesomecua.com/resources/github-vcaesar-adb/) — Date not recorded
+  A Go device-control API provides taps, swipes, typing and screenshots on Android through adb and on iOS through WebDriverAgent.
 - [ADB MCP Server Pro](https://awesomecua.com/resources/github-tiendung2k03-adb-mcp-server-pro/) — Date not recorded
   Model Context Protocol server for Android device control via ADB featuring self-learning UI element maps.
 - [adb-automation-mcp](https://awesomecua.com/resources/github-allaudin-adb-automation-mcp/) — Date not recorded
@@ -380,6 +398,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   macOS desktop GUI automation skill built on `cua-driver` combining Accessibility trees with pixel-level fallback.
 - [Agent Access](https://awesomecua.com/resources/github-r266-tech-agent-access/) — Date not recorded
   Universal access layer that routes websites, apps, and repeated workflows into agent-native CLIs with CDP and GUI fallback.
+- [Agent Browser Bridge](https://awesomecua.com/resources/github-shanewas-agent-browser-bridge/) — Date not recorded
+  A browser control bridge that lets agents inspect and act in an active Edge session through MCP, a CLI, or Python. It also offers screenshot and input controls for Windows desktops.
 - [Agent Chrome](https://awesomecua.com/resources/github-leozhengliu-pixel-agent-chrome/) — Date not recorded
   Chrome Manifest V3 extension and local MCP bridge enabling coding agents to drive live browser tabs.
 - [Agent Cursor & GroundSight](https://awesomecua.com/resources/github-dwstar79-agent-cursor/) — Date not recorded
@@ -422,6 +442,10 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A QA agent that runs plain-language tests against web, Android, and iOS apps. It navigates user flows, verifies outcomes, and stores validated run evidence for reuse.
 - [agent-seat-linux](https://awesomecua.com/resources/github-muhibnayem-agent-seat-linux/) — Date not recorded
   Provides application-scoped Wayland screen capture and isolated input seats for Linux automation agents.
+- [agent-view](https://awesomecua.com/resources/github-petukhovart-agent-view/) — Date not recorded
+  A CLI for agents to inspect and operate Electron, Windows Tauri, and Chromium apps through Chrome DevTools Protocol, with accessibility, screenshot, input, and diagnostic commands.
+- [agent-workspace-linux](https://awesomecua.com/resources/github-agent-sh-agent-workspace-linux/) — Date not recorded
+  A Linux workspace gives an agent a private desktop and browser controlled through MCP. It supports screen capture and input actions, with a viewer for watching and stopping the agent.
 - [AgentCursor](https://awesomecua.com/resources/github-kumard3-agentcursor/) — Date not recorded
   Reads macOS application windows as compact text affordances (~9 tokens per click) and drives a human-like virtual cursor over MCP.
 - [AgentCurtain](https://awesomecua.com/resources/github-felixlark-agent-curtain/) — Date not recorded
@@ -454,6 +478,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   AGY Computer Use provides native Windows desktop automation combining UI Automation trees, Set-of-Marks grounding, and background PrintWindow capture.
 - [AH64-dll Browser Automation Toolkit](https://awesomecua.com/resources/github-ah64-dll-browser-automation-toolkit/) — Date not recorded
   Suite of five Python CDP utilities including a page watcher, form filler, table scraper, DOM change differ, and health checker.
+- [ahk-mcp](https://awesomecua.com/resources/github-anomalous3-ahk-mcp/) — Date not recorded
+  ahk-mcp gives AI agents MCP tools to inspect Windows accessibility trees and act on desktop controls, with additional browser control through the DevTools Protocol.
 - [ahsaanfarooq browser-agent MCP](https://awesomecua.com/resources/github-ahsaanfarooq-browser-agent/) — Date not recorded
   Model Context Protocol server giving Claude a persistent, multi-profile logged-in Chrome browser.
 - [AI Browser Bridge](https://awesomecua.com/resources/github-xinqi5921-ai-browser-bridge/) — Date not recorded
@@ -464,6 +490,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   LLM-driven browser agent that extracts patient intake data and autonomously fills and submits web medical claim forms.
 - [AI Mime](https://awesomecua.com/resources/github-prakhar1114-ai-mime/) — Date not recorded
   macOS app that records a demonstrated task, has an agent compile it into a portable skill of scripts, browser CDP steps and computer-use fallbacks, and patches the skill when a rerun breaks.
+- [ai-browser-bridge](https://awesomecua.com/resources/github-yosefhayim-ai-browser-bridge/) — Date not recorded
+  A macOS terminal tool operates live AI chat websites through Chrome and exposes validated local repository actions to those chats through an MCP server.
 - [AI-Work](https://awesomecua.com/resources/github-peiwenzhang-git-ai-work/) — Date not recorded
   Human-in-the-loop Windows desktop automation runtime with MCP support, bounded file access, and step approval.
 - [AI-XiaoDao Browser MCP Server](https://awesomecua.com/resources/github-ai-xiaodao-ai-browser-mcp/) — Date not recorded
@@ -472,6 +500,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Turns a spare Android phone into a headed Chromium instance that AI agents can drive remotely.
 - [aic-pod](https://awesomecua.com/resources/github-veypi-aic-pod/) — Date not recorded
   Turns a physical or virtual machine into an LLM-callable execution node with sandboxed shell, file, browser, and desktop control.
+- [AIHawk](https://awesomecua.com/resources/github-feder-cr-aihawk/) — Date not recorded
+  AIHawk searches and scores jobs against a resume, then uses Firefox to fill and submit applications selected by the user. It retains each page's response and a screenshot.
 - [AILEEN Desktop](https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/) — Date not recorded
   Windows desktop AI assistant combining a Live2D interactive character with screen perception and desktop tool execution.
 - [Ailoy](https://awesomecua.com/resources/github-brekkylab-ailoy/) — Date not recorded
@@ -508,6 +538,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Anchor Browser provides cloud browser sessions for agents through SDK, CDP and REST interfaces. Its documentation describes natural-language tasks, authentication and reusable workflows.
 - [Anchor-Inference Daedalus](https://awesomecua.com/resources/github-anchor-inference-daedalus/) — Date not recorded
   Self-developing personal AI agent with its own desktop app, persistent memory, and computer-use tools.
+- [android-mcp-beta](https://awesomecua.com/resources/github-cursortouch-android-mcp/) — Date not recorded
+  An MCP server that uses ADB to give agents Android screen snapshots and device controls, including taps, swipes, typing, and button presses.
 - [Android-MCP-go](https://awesomecua.com/resources/github-tintupratap-android-mcp-go/) — Date not recorded
   Self-contained Go Model Context Protocol server for Android automation with managed ADB, automatic USB-to-Wi-Fi handoff, and `scrcpy`.
 - [android-use](https://awesomecua.com/resources/github-austinintelligence-android-use/) — Date not recorded
@@ -520,6 +552,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
 - [AndroidMCP](https://awesomecua.com/resources/github-qazmko72-android-mcp-server/) — Date not recorded
   Native on-device Android Model Context Protocol server exposing phone UI and system capabilities directly without a host PC.
+- [AndroidViewClient](https://awesomecua.com/resources/github-dtmilano-androidviewclient/) — Date not recorded
+  A Python Android UI automation tool that creates reusable tests and exposes view-based, gesture and device controls to AI assistants through an MCP server.
 - [Anionex DSH Computer Use](https://awesomecua.com/resources/github-anionex-dsh-computer-use/) — Date not recorded
   macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility observations, stale-state rejection, and scoped permissions.
 - [anpl1623 AgentOS](https://awesomecua.com/resources/github-anpl1623-agentos/) — Date not recorded
@@ -550,6 +584,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   An Appium inspection tool that displays app screenshots beside page source and lets users find and interact with elements. It is distributed as a desktop app and server plugin.
 - [appium-adb](https://awesomecua.com/resources/github-appium-appium-adb/) — Date not recorded
   An Android Debug Bridge wrapper that exposes device operations for Appium. The repository points to the appium-android monorepo for continuing development.
+- [appium-ios-device](https://awesomecua.com/resources/github-appium-appium-ios-device/) — Date not recorded
+  A deprecated Node.js device-control library that lets Appium communicate with iOS devices and access device services and XCTest.
 - [Apprentice](https://awesomecua.com/resources/github-bluzername-apprentice/) — Date not recorded
   Apprentice is a local-first macOS agent that observes repeated user routines across allowlisted apps and replays them with click-by-click approval.
 - [arc-control-mcp](https://awesomecua.com/resources/github-db-25-arc-control-mcp/) — Date not recorded
@@ -578,6 +614,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Voice-first Windows AI desktop assistant powered by Gemini Live with screen vision and system control.
 - [Astra AI Browser](https://awesomecua.com/resources/github-bennix-astraaibrowser/) — Date not recorded
   Native Apple Silicon macOS AI browser combining WebKit browsing with an integrated autonomous web agent.
+- [Astra plays GTA Vice City](https://awesomecua.com/resources/github-da03-astra-plays-gta/) — Date not recorded
+  A macOS helper and prompt let a desktop agent control GTA Vice City through screenshots and short input steps, pausing the game while it decides what to do next.
 - [AstraClaw Agent Computer Use MCP](https://awesomecua.com/resources/github-astraclawteam-agent-computer-use-mcp/) — Date not recorded
   Evidence-driven Windows Computer Use MCP server providing semantic UI observation, secure screenshots, and verified actions.
 - [AstronRPA](https://awesomecua.com/resources/github-iflytek-astron-rpa/) — Date not recorded
@@ -616,6 +654,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Batch web-form automation framework with self-healing selectors that runs LLM-free at runtime.
 - [AutoGPT](https://awesomecua.com/resources/github-significant-gravitas-autogpt/) — Date not recorded
   AutoGPT is an open-source autonomous agent platform for building, orchestrating, and running multi-step web and workspace automation agents.
+- [autohotkey-mcp](https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/) — Date not recorded
+  MCP server that lets assistants list, run, stop, and draft AutoHotkey scripts for Windows input automation.
 - [autoit-mcp](https://awesomecua.com/resources/github-benina-autoit-mcp/) — Date not recorded
   Portable Windows GUI-automation Model Context Protocol server for Claude Code built on AutoIt.
 - [AutoKey](https://awesomecua.com/resources/github-autokey-autokey/) — Date not recorded
@@ -624,6 +664,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Automation MCP is a macOS Model Context Protocol server that provides AI agents with mouse, keyboard, window, and screen capture tools.
 - [Automify](https://awesomecua.com/resources/github-aldovincenti-automify/) — Date not recorded
   Automify is a Node.js computer-use framework unifying browser, CLI, and native desktop workflow automation for AI agents.
+- [AutoPy](https://awesomecua.com/resources/github-autopilot-rs-autopy/) — Date not recorded
+  AutoPy provides Python functions for desktop mouse and keyboard control, screen capture, pixel inspection and bitmap matching on macOS, Windows and X11.
 - [AutoTask](https://awesomecua.com/resources/github-bowenbryanwang-autotask/) — Date not recorded
   An Android agent that explores mobile interfaces to execute voice commands and uses what it learns during interaction to guide later actions.
 - [AUV](https://awesomecua.com/resources/github-moeru-ai-auv/) — Date not recorded
@@ -676,6 +718,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Open-source AI desktop agent for Linux that plans, executes, and verifies GUI and shell workflows.
 - [Blender Computer Use Artist](https://awesomecua.com/resources/github-xiaof631-blender-computer-use-artist/) — Date not recorded
   Codex computer-use skill for automating Blender 3D modeling, rendering, animation, and visual QA.
+- [Blender MCP](https://awesomecua.com/resources/github-bpy-dev-blender-mcp/) — Date not recorded
+  An MCP server links agents to Blender through a live add-on or saved project files, offering scene execution, runtime Python API lookup and benchmark tools.
 - [Blue Steel](https://awesomecua.com/resources/github-apothic-ai-blue-steel/) — Date not recorded
   Vision-driven browser agent powered by the Camoufox stealth Firefox browser.
 - [bm (Conversational Grocery Browser Agent)](https://awesomecua.com/resources/github-gonzalo123-bm/) — Date not recorded
@@ -692,6 +736,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Local Windows computer-use plugin for Codex combining UIA3 semantic trees, MCP tools, SendInput, and window capture.
 - [Brizo Use](https://awesomecua.com/resources/github-frankfromfuture-brizo/) — Date not recorded
   Open browser-use runtime, local bridge, CLI, and AI harness adapter for driving live web sessions.
+- [Brobot](https://awesomecua.com/resources/github-jspinak-brobot/) — Date not recorded
+  Brobot is a Java visual automation framework that recognizes interface elements and models application states to navigate, perform actions and recover from errors.
 - [Browse AI](https://awesomecua.com/resources/url-307838fec5f74218b032/) — Date not recorded
   No-code web scraping and monitoring platform whose robots replay recorded clicks, typed inputs, dropdown choices, logins and pagination on target sites, or let AI build the table, then extract data on a schedule.
 - [browse-mcp](https://awesomecua.com/resources/github-that1drifter-browse-mcp/) — Date not recorded
@@ -702,6 +748,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Agentic browser harness providing an AI side panel and interactive control orb inside Chrome, Edge, and Arc.
 - [Browser Agent](https://awesomecua.com/resources/github-rkvalandas-browser-agent/) — Date not recorded
   Python agent that attaches Playwright to a local Chrome over CDP, maps visible interactive elements from the DOM into numbered IDs, and lets an LLM navigate, click, type, select and ask the user for missing input.
+- [Browser Agent](https://awesomecua.com/resources/github-visnia-ai-browser-agent/) — Date not recorded
+  Browser Agent runs natural-language web tasks through Chromium. It offers a CLI and TypeScript and Python SDKs that stream progress and return task results.
 - [Browser Agent Runtime Lite](https://awesomecua.com/resources/github-coolwkx-browser-agent-runtime-lite/) — Date not recorded
   Lightweight runtime for executing autonomous browser-agent perception and action loops.
 - [Browser Auth-State Synchronizer](https://awesomecua.com/resources/github-sohan-a11y-auth-synchronizer/) — Date not recorded
@@ -736,6 +784,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   AI-oriented browser automation runtime and CLI exposing compact DOM observations and deterministic web actions.
 - [browser-harness-bidi](https://awesomecua.com/resources/github-andrewdzzz-browser-harness-bidi/) — Date not recorded
   WebDriver BiDi-first browser automation harness connecting LLMs directly to live browsers with minimal dependencies.
+- [browser-mcp](https://awesomecua.com/resources/github-sandraschi-browser-mcp/) — Date not recorded
+  An MCP server that exposes browser navigation, clicks, typing, screenshots, and bookmark operations. It supports Chrome, Firefox, Edge, and Brave and includes a web dashboard.
 - [browser-use-capsolver](https://awesomecua.com/resources/github-capsolver-browser-use-capsolver/) — Date not recorded
   Official CapSolver integration tools for Browser Use agents to detect and resolve CAPTCHA challenges during web workflows.
 - [browser-use-rs](https://awesomecua.com/resources/github-bb-fat-browser-use-rs/) — Date not recorded
@@ -746,6 +796,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Self-hosted browser-agent platform with a JS SDK and REST API: a planner sets high-level steps, and a runner reads a screenshot and a numbered DOM chunk to pick Playwright actions in a local or hosted browser.
 - [BrowserAct Skills](https://awesomecua.com/resources/github-browser-act-skills/) — Date not recorded
   BrowserAct Skills provides reusable browser-automation and web-extraction skill definitions for AI agents.
+- [BrowserCode](https://awesomecua.com/resources/github-browser-use-browsercode/) — Date not recorded
+  BrowserCode is a browser agent that writes JavaScript to control Chrome through the DevTools Protocol. It can use local tabs, separate profiles, or cloud browsers and save reusable scripts.
 - [browserctl](https://awesomecua.com/resources/github-nguyenvanhuy0612-browserctl/) — Date not recorded
   Chrome extension, local bridge, and MCP server allowing AI agents to drive a real Chrome profile in the background.
 - [BrowserGPT](https://awesomecua.com/resources/github-mayt-browsergpt/) — Date not recorded
@@ -760,6 +812,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   BrowserPilot is an open-source stealth browser agent that executes natural-language web navigation and structured scraping workflows.
 - [BrowserRig](https://awesomecua.com/resources/github-castor6-browserrig/) — Date not recorded
   Open-source local driver enabling trusted AI agents to control an existing signed-in Chromium browser.
+- [browserserve](https://awesomecua.com/resources/github-browser-gateway-browserserve/) — Date not recorded
+  A self-hosted Chrome server provides isolated browser sessions over CDP for Playwright, Puppeteer, and other clients, with pooling and resource controls.
 - [browxai](https://awesomecua.com/resources/github-kalebteccom-browxai/) — Date not recorded
   browxai provides unified MCP-native control over Chromium, Firefox, and native desktop applications for AI agents.
 - [Browy](https://awesomecua.com/resources/github-browyhq-browy/) — Date not recorded
@@ -774,6 +828,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   DOM-first, vision-capable autonomous browser agent that plans and executes multi-step web tasks.
 - [c-vision (DSH Vision & Computer Use Plugin)](https://awesomecua.com/resources/github-cczzyy-cn-c-vision/) — Date not recorded
   Autonomous vision and computer-use plugin for DeepSeek Harness providing screen capture, OCR, window listing, and GUI input.
+- [CADAgent](https://awesomecua.com/resources/github-toreleon-cadagent/) — Date not recorded
+  A FreeCAD fork with an in-app agent that turns chat requests into editable 3D models through FreeCAD operations. It includes an agent runtime and chat dock.
 - [CalebNewtonUSC Nova (Mac Operator)](https://awesomecua.com/resources/github-calebnewtonusc-nova/) — Date not recorded
   Autonomous macOS desktop operator that inspects screen state and drives native Mac applications.
 - [Camel AI (Visual QA Agent)](https://awesomecua.com/resources/github-dilawarshafiq-camel-ai/) — Date not recorded
@@ -798,6 +854,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Programmatic browser-use CLI and library driving Chromium over CDP inside an optional managed Weston Wayland compositor.
 - [case-sdk](https://awesomecua.com/resources/github-case-computers-case-sdk/) — Date not recorded
   Dual-mode macOS GUI automation SDK supporting structured JSON procedures, local/remote WebSocket runtimes, and MCP integration.
+- [CasperJS](https://awesomecua.com/resources/github-casperjs-casperjs/) — Date not recorded
+  CasperJS is a browser navigation scripting and testing utility for PhantomJS and SlimerJS, with helpers for forms, links, screenshots and assertions.
 - [CDP Browser Harness](https://awesomecua.com/resources/github-abhishekchhetri020-browser-harness/) — Date not recorded
   Thin, editable Chrome DevTools Protocol harness connecting LLM agents to a user's real logged-in Chrome browser.
 - [cdp-drive](https://awesomecua.com/resources/github-immineal-cdp-drive/) — Date not recorded
@@ -808,6 +866,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Service whose browser agent navigates a customer's SaaS product to check whether its documentation is still accurate, then reports what to fix with summaries, session replays and LLM and browser action traces.
 - [Celesto](https://awesomecua.com/resources/github-celestoai-celesto/) — Date not recorded
   Celesto provisions secure, persistent virtual desktop computers and browser sandboxes for AI agents.
+- [Cella](https://awesomecua.com/resources/github-latere-ai-cella/) — Date not recorded
+  A control plane for agent sandboxes defined by manifests. It runs workloads on several runtimes and exposes a virtual desktop with screen viewing and input controls.
 - [cellar (Context Execution Layer)](https://awesomecua.com/resources/github-dilipod-cellar/) — Date not recorded
   cellar implements the Context Execution Layer (CEL), a structured context and action execution protocol for computer-use agents.
 - [Cerner PowerChart Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-cerner-powerchart-browser-automation/) — Date not recorded
@@ -818,8 +878,12 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Go Chrome DevTools Protocol driver that resolves interactive anti-bot challenges headlessly for web agents.
 - [ChangeShield](https://awesomecua.com/resources/github-kxvya18-chnage-shield/) — Date not recorded
   Self-repairing browser automation prototype that detects and adapts to third-party UI selector drift.
+- [ChatGPT Browser Bridge](https://awesomecua.com/resources/github-dra1ex-chatgpt-bridge/) — Date not recorded
+  A browser extension and local server that operate a signed-in ChatGPT tab and expose its chat sessions, tab controls, and artifacts to local clients.
 - [ChatGPT Web for Codex](https://awesomecua.com/resources/github-naakto14-codex-chatgpt-web-naakto-fork/) — Date not recorded
   Browser bridge exposing a logged-in ChatGPT Web session as a native model and tool provider for OpenAI Codex.
+- [ChatGPT WebUI Bridge](https://awesomecua.com/resources/github-olmatter-chatgpt-bridge/) — Date not recorded
+  A local HTTP bridge lets agents send messages to logged-in ChatGPT browser tabs, read replies and page state, and supervise idle tabs through a userscript.
 - [chatgpt-desktop-mcp](https://awesomecua.com/resources/github-cantbeblank96-chatgpt-mcp/) — Date not recorded
   Model Context Protocol server exposing the official Ubuntu/Linux ChatGPT Desktop app via 6 AT-SPI2 accessibility tools.
 - [Chrest](https://awesomecua.com/resources/github-amarbel-llc-chrest/) — Date not recorded
@@ -828,6 +892,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Self-hosted Chrome Manifest V3 extension and local MCP server allowing AI agents to control live browser tabs.
 - [Chrome Actuator](https://awesomecua.com/resources/github-xlreon-chrome-actuator/) — Date not recorded
   Browser companion that lets Grok and other AI agents drive an already-open Chrome window.
+- [Chrome Agent Bridge](https://awesomecua.com/resources/github-escapewu-chrome-agent-bridge/) — Date not recorded
+  A local Chrome extension and MCP server connect agents to an existing browser session for page inspection, navigation, interface actions, and debugging.
 - [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) — Date not recorded
   MCP tools for browser control and inspection through Chrome DevTools.
 - [Chrome Faithful](https://awesomecua.com/resources/github-bpc-oss-chrome-faithful/) — Date not recorded
@@ -836,8 +902,16 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Patchright-powered Model Context Protocol server enabling AI agents to drive real Google Chrome tabs and cookies.
 - [Chrome Live MCP](https://awesomecua.com/resources/github-wankaiyi-chrome-live-mcp/) — Date not recorded
   Connects local stdio Model Context Protocol agents directly to an existing Chrome 144+ browser session.
+- [Chrome MCP Server](https://awesomecua.com/resources/github-hangwin-mcp-chrome/) — Date not recorded
+  A Chrome extension and MCP bridge that let AI clients operate an existing browser session. Its tools cover screenshots, page interaction, and browser data.
 - [Chrome MCP Server (18 Tools)](https://awesomecua.com/resources/github-syedazharmbnr1-chrome-mcp-server/) — Date not recorded
   Node.js Model Context Protocol server providing 18 tools for Chrome browser navigation, DOM interaction, and screenshot capture.
+- [chrome-agent](https://awesomecua.com/resources/github-sderosiaux-chrome-agent/) — Date not recorded
+  chrome-agent is a Rust CLI for browser agents to inspect pages, act through Chrome and check resulting state. It also records and replays local command sequences.
+- [chrome-remote-interface](https://awesomecua.com/resources/github-cyrus-and-chrome-remote-interface/) — Date not recorded
+  A JavaScript interface to the Chrome Debugging Protocol for controlling and inspecting browser sessions through commands and event notifications.
+- [chrome-use](https://awesomecua.com/resources/github-leeguooooo-chrome-use/) — Date not recorded
+  chrome-use is a CLI and extension that let AI agents control tabs in an existing Chrome browser. It uses native messaging and gives separate tab groups to agent sessions.
 - [ChromeBoost](https://awesomecua.com/resources/github-lordamdal-chromeboost/) — Date not recorded
   Chrome extension and MCP server giving Claude Code direct control over the user's logged-in Chrome browser.
 - [ChromeClaw](https://awesomecua.com/resources/github-algopian-chromeclaw/) — Date not recorded
@@ -850,8 +924,12 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Lets coding agents (Claude Code, Codex CLI) drive the user's real logged-in Chrome browser to click, fill forms, and inspect pages.
 - [ChromeMCP (WSL2-to-Windows Bridge)](https://awesomecua.com/resources/github-rizonetech-chromemcp/) — Date not recorded
   Allows coding agents running inside WSL2 Linux to drive the host's signed-in Windows Chrome browser over Playwright MCP.
+- [chromiumoxide](https://awesomecua.com/resources/github-mattsse-chromiumoxide/) — Date not recorded
+  chromiumoxide is an asynchronous Rust library for controlling Chrome or Chromium through the DevTools Protocol, with APIs for browser pages and element actions.
 - [Claude Browser Bridge](https://awesomecua.com/resources/github-daazer-claude-browser-bridge/) — Date not recorded
   Local bridge allowing coding agents to read and drive the user's everyday logged-in Chrome profile.
+- [Claude Chrome Stream](https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/) — Date not recorded
+  A Chrome automation plugin for computer-use agents that streams browser frames through CDP and links actions to frame IDs. It includes commands and MCP tools.
 - [Claude Code](https://awesomecua.com/resources/url-93109952a74302d890b5/) — Date not recorded
   Anthropic agentic coding tool for terminal, IDE, desktop and web, with an opt-in computer-use preview that screenshots and operates approved apps on macOS (CLI) and on macOS and Windows (Desktop).
 - [Claude Codex Computer Use](https://awesomecua.com/resources/github-songkeys-claude-codex-computer-use/) — Date not recorded
@@ -874,6 +952,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Firefox WebExtension, native-messaging host, and MCP server allowing Claude Code to read and drive Firefox tabs.
 - [claude-minecraft-use](https://awesomecua.com/resources/github-observedobserver-claude-minecraft-use/) — Date not recorded
   Adapts Anthropic Claude Computer Use on macOS with continuous movement and camera controls to play Minecraft from screen observations.
+- [Claude-Surf](https://awesomecua.com/resources/github-vibesurf-ai-claude-surf/) — Date not recorded
+  A Claude Code plugin that connects to VibeSurf to control browser pages, run web automation workflows and access browser-use agents.
 - [ClaudeDesk](https://awesomecua.com/resources/github-phantivia-claudedesk/) — Date not recorded
   Streams the Windows desktop to a browser interface so coding agents can visually inspect and debug GUI applications.
 - [Clawbrowser](https://awesomecua.com/resources/github-clawbrowser-clawbrowser/) — Date not recorded
@@ -894,6 +974,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   ClickClickClick is a framework for autonomous Android and desktop computer use supporting local and cloud vision-language models.
 - [Clickyy](https://awesomecua.com/resources/github-jayamitkatariya-clickyyy/) — Date not recorded
   Clickyy is a macOS desktop automation CLI and MCP server combining native Accessibility element targeting with Quartz input simulation.
+- [cliclick](https://awesomecua.com/resources/github-bluem-cliclick/) — Date not recorded
+  A macOS command-line utility that performs mouse and keyboard actions. It accepts action commands as arguments or from a file for scripted desktop control.
 - [CLIF](https://awesomecua.com/resources/github-cmalpass-clif/) — Date not recorded
   CLIF is a Windows desktop UI automation CLI and local MCP server for inspecting and driving WPF, WinForms, and WinUI applications.
 - [Clique Já](https://awesomecua.com/resources/github-paivaxqz-cliqueja/) — Date not recorded
@@ -952,6 +1034,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Windows desktop visual recognition and simulated input plugin for DeepSeek Harness.
 - [Computer Use VM](https://awesomecua.com/resources/github-zimengxiong-computer-use-vm/) — Date not recorded
   Provisions disposable, headless macOS virtual machines so computer-use agents can operate isolated desktops without window switching.
+- [computer-use](https://awesomecua.com/resources/github-lindoelio-computer-use/) — Date not recorded
+  computer-use is a Rust CLI and library for agents to capture desktop state and perform mouse and keyboard actions across macOS, Linux and Windows.
 - [Computer-Use Capability Engine](https://awesomecua.com/resources/github-pavanvakula-computer-use-capability-engine/) — Date not recorded
   Discovers legacy UI workflows with an LLM once and compiles them into typed, versioned, deterministically replayable capabilities.
 - [Computer-Use-Agent (Windows)](https://awesomecua.com/resources/github-nabhpatodi10-computer-use-agent/) — Date not recorded
@@ -962,6 +1046,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Enhances desktop clicking precision for AI computer-use agents via screenshot grid overlays and iterative zoom refinement.
 - [computer-use-linux](https://awesomecua.com/resources/github-agent-sh-computer-use-linux/) — Date not recorded
   Native Linux desktop control server for AI agents over MCP, Pi tools, and CLI with semantic AT-SPI trees and screenshots.
+- [computer-use-mcp](https://awesomecua.com/resources/github-minghinmatthewlam-computer-use-mcp/) — Date not recorded
+  A Swift MCP server that lets agents inspect and operate macOS applications. Its shared engine manages accessibility, screen capture, and input delivery.
 - [computer-use-mcp-gateway](https://awesomecua.com/resources/github-git-ksk-computer-use-mcp-gateway/) — Date not recorded
   Remote Model Context Protocol gateway for routing agent tool calls to computer-use backends such as Cua Driver.
 - [computer.cpp](https://awesomecua.com/resources/github-gobii-ai-computer-cpp/) — Date not recorded
@@ -980,6 +1066,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Self-hosted enterprise AI assistant and computer-use workspace by CopilotKit with containerized sandboxing and skill orchestration.
 - [Cordis Social](https://awesomecua.com/resources/github-enginefuture-cordis-social/) — Date not recorded
   Lifecycle-safe Cordis plugin suite for orchestrating ProfileFleet, OpenAI Codex, and multi-profile browser workflows.
+- [CraftDriver](https://awesomecua.com/resources/github-dtopuzov-craftdriver/) — Date not recorded
+  CraftDriver automates browsers through WebDriver and BiDi, with locators, actions, assertions, traces, and a CLI that lets coding agents inspect live pages.
 - [Crafter Agents cuse CLI](https://awesomecua.com/resources/github-crafter-agents-cuse/) — Date not recorded
   Cross-platform computer-use CLI that maps unified commands to native OS accessibility and input primitives.
 - [CrashTranslator](https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/) — Date not recorded
@@ -1002,6 +1090,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   cuAgent is a desktop computer-use agent that operates GUI applications through the open-computer-use Model Context Protocol server.
 - [CuaOS](https://awesomecua.com/resources/github-cuaos-cuaos/) — Date not recorded
   CuaOS runs a Qwen3-VL computer-use agent that autonomously controls an Ubuntu virtual desktop inside a local Docker sandbox.
+- [cursory-js](https://awesomecua.com/resources/github-jwriter20-cursory-js/) — Date not recorded
+  A TypeScript utility that generates timed mouse paths and documents how to play them back through browser input events.
 - [cuse](https://awesomecua.com/resources/github-cuse-dev-cuse/) — Date not recorded
   cuse is an open-source framework for building AI agents that control virtualized Linux desktops and browsers via display, mouse, and keyboard APIs.
 - [Cuse (macOS AI Cursor Agent)](https://awesomecua.com/resources/github-muneebkhan08-cuse/) — Date not recorded
@@ -1120,12 +1210,18 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Chrome extension and local CLI that lets AI agents drive the browser window the user already has open and signed into.
 - [DSB (逗沙包)](https://awesomecua.com/resources/github-tianye1999-dsb/) — Date not recorded
   DSB is a trust-first Android AI agent that executes delegated app tasks on a background virtual display without interrupting the user's screen.
+- [DSH Android](https://awesomecua.com/resources/github-zseven-w-dsh-android/) — Date not recorded
+  A DeepSeek Harness plugin streams an Android emulator or phone into an agent conversation and provides adb tools for screen capture, UI inspection and interaction.
 - [DSH Browser Control](https://awesomecua.com/resources/github-ahaway1st-dsh-browser-control/) — Date not recorded
   DeepSeek Harness plugin that lets agents directly control the user's real, logged-in web browser.
+- [dsh Browser Control](https://awesomecua.com/resources/github-lum1104-dsh-browser/) — Date not recorded
+  A browser extension and bridge plugin that let DeepSeek Harness read and operate existing Chrome or Firefox tabs through structured page controls.
 - [DSH Desktop Operator](https://awesomecua.com/resources/github-zjh02249-dsh-desktop-operator/) — Date not recorded
   Safe Windows computer-use plugin for DeepSeek Harness providing window-scoped desktop automation and verification.
 - [DSH Deskwork](https://awesomecua.com/resources/github-guomonth-dsh-deskwork/) — Date not recorded
   AI desktop workspace powered by DeepSeek Harness for automating ERP and enterprise back-office operations.
+- [DSH iOS Simulator](https://awesomecua.com/resources/github-zseven-w-dsh-ios/) — Date not recorded
+  A DeepSeek Harness plugin that gives agents access to an iOS Simulator or USB-connected iPhone, with live video, UI inspection, and tap tools.
 - [DSH Mobile (DeepSeek Harness for Android)](https://awesomecua.com/resources/github-soodok-deepseek-harness-local-android/) — Date not recorded
   Runs the DeepSeek Harness AI agent natively on Android phones without root.
 - [DSH Mobile GUI Agent](https://awesomecua.com/resources/github-kunjinkao-os-dsh-mobile-gui-agent/) — Date not recorded
@@ -1146,6 +1242,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Cross-platform native desktop control plugin for DeepSeek Harness supporting screenshots, UI element search, and mouse/keyboard actions.
 - [dsh-computer-use](https://awesomecua.com/resources/github-xiaoheizi1212-dsh-computer-use/) — Date not recorded
   Model-agnostic Computer Use plugin for DeepSeek Harness combining an isolated browser, a native Windows UI helper, and action observation.
+- [dsh-computer-use-windows](https://awesomecua.com/resources/github-qphotoai-dsh-computer-use-windows/) — Date not recorded
+  A Windows computer-use plugin for DeepSeek Harness that observes UI Automation controls and supports window actions, with optional screenshot-based visual recognition.
 - [dsh-cua](https://awesomecua.com/resources/github-hutusion-dsh-cua/) — Date not recorded
   Client-neutral Windows computer-use MCP server for DeepSeek Harness exposing UI Automation, screenshots, and desktop input tools.
 - [dsh-desktop-automation](https://awesomecua.com/resources/github-junkrat9527-dsh-desktop-automation/) — Date not recorded
@@ -1188,6 +1286,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Open-source AI browser automation agent for multi-step web workflow execution and page interaction.
 - [easy-webbridge](https://awesomecua.com/resources/github-xxjrq-easy-webbridge/) — Date not recorded
   Browser bridge allowing Claude Code, Codex, OpenCode, and WorkBuddy agents to operate an authenticated Chrome session.
+- [easyAppStore](https://awesomecua.com/resources/github-xxjrq-easy-app-store/) — Date not recorded
+  easyAppStore is an agent skill for preparing an iOS release and completing App Store Connect submission steps through a signed-in Chromium browser.
 - [ECLAIR](https://awesomecua.com/resources/github-hazyresearch-eclair-agents/) — Date not recorded
   ECLAIR automates enterprise web and desktop workflows from human demonstrations with ground-truth SOP validation and step-level error recovery.
 - [Edge Agent Bridge](https://awesomecua.com/resources/github-shanewas-edge-agent-bridge/) — Date not recorded
@@ -1234,6 +1334,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   ExactMac provides local, Accessibility-first macOS desktop automation over MCP using a Swift gRPC host and Go MCP server.
 - [Explorer](https://awesomecua.com/resources/github-varnelis-explorer/) — Date not recorded
   A cross-platform GUI automation system with vision-based interactable detection, voice navigation, screen recording, and tools for creating and replaying traces.
+- [Expo Device Hub](https://awesomecua.com/resources/github-expo-expo-device-hub/) — Date not recorded
+  Expo Device Hub streams iOS simulators and Android emulators into a browser dashboard, where users can view screens, send input, and manage devices.
 - [EyeBrowse](https://awesomecua.com/resources/github-evil-bane-eyebrowse/) — Date not recorded
   EyeBrowse is a stealthy, LLM-drivable browser engine providing both a Python library and an 85-tool Model Context Protocol server.
 - [eyehands](https://awesomecua.com/resources/github-shameindemgg-eyehands/) — Date not recorded
@@ -1274,18 +1376,24 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Hosted web data API for AI agents that searches and scrapes pages into Markdown or JSON, with an Interact endpoint and browser sandbox in which prompts or Playwright code click, type and fill forms.
 - [Firecrawl MCP Server](https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/) — Date not recorded
   An MCP server for Firecrawl that gives agents web search and extraction tools plus browser interaction for clicking, typing, filling forms, and navigation.
+- [Firefox DevTools MCP](https://awesomecua.com/resources/github-mozilla-firefox-devtools-mcp/) — Date not recorded
+  An MCP server that gives AI agents Firefox tools for navigating sites, filling forms, inspecting page snapshots, and examining developer-tool output.
 - [firefox-bidi-mcp](https://awesomecua.com/resources/github-enne2-firefox-bidi-mcp/) — Date not recorded
   Standalone Model Context Protocol server for controlling an already-open Firefox browser instance via the WebDriver BiDi protocol.
 - [Flash Computer Use](https://awesomecua.com/resources/github-shortsspectrumai-del-flash-computer-use/) — Date not recorded
   Flash Computer Use is a hybrid browser DOM and native OS accessibility MCP server for low-latency desktop and web automation.
 - [Floom OpenBrowser](https://awesomecua.com/resources/github-floomhq-openbrowser/) — Date not recorded
   OpenBrowser is an open-source browser automation broker managing persistent Chrome profiles and proxy-aware sessions for AI agents.
+- [Floorp MCP Server](https://awesomecua.com/resources/github-floorp-projects-floorp-mcp-server/) — Date not recorded
+  An MCP server that lets AI assistants read pages and operate the Floorp browser through tab controls, navigation, clicks, and form filling.
 - [FlowPilot Engine](https://awesomecua.com/resources/github-pensefact-flowpilot-engine/) — Date not recorded
   Hybrid AI browser automation engine combining Claude's visual Computer Use API with deterministic Playwright execution.
 - [FluidGPT](https://awesomecua.com/resources/url-738bfdfe24671ad29a43/) — Date not recorded
   An Android agent that selects reusable app routines from a task goal and executes them through the accessibility tree. Its benchmark report presents episode recordings and action traces.
 - [FluidUse](https://awesomecua.com/resources/github-fluidinference-fluiduse/) — Date not recorded
   Swift package for local computer use on Apple silicon that reads forms in running Mac apps or browsers through the Accessibility API and fills them with on-device Core ML decision models.
+- [flutter-skill](https://awesomecua.com/resources/github-ai-dashboad-flutter-skill/) — Date not recorded
+  An MCP server and CLI that give AI agents screen inspection and interaction tools for running web, desktop and mobile apps. It supports navigation, taps, typing and test assertions.
 - [FoxBridge MCP](https://awesomecua.com/resources/github-sinamohsenifar-foxbridge-mcp/) — Date not recorded
   Model Context Protocol server and Firefox WebExtension allowing AI assistants to read and drive a user's logged-in Firefox browser.
 - [Front-End Operation Master (FEOM)](https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/) — Date not recorded
@@ -1304,6 +1412,12 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Agent-agnostic real-browser control bridge built on GenericAgent's TMWebDriver and CDP relay.
 - [GACUA](https://awesomecua.com/resources/github-openmule-gacua/) — Date not recorded
   GACUA is an out-of-the-box computer-use agent built on Gemini CLI that combines desktop screen control, browser automation, and shell tools.
+- [Galley](https://awesomecua.com/resources/github-wangjc683-galley/) — Date not recorded
+  Galley is a desktop assistant that works through screen vision, mouse and keyboard control, a browser extension, files, and terminal tools to complete user tasks.
+- [Game AI - Balatro](https://awesomecua.com/resources/github-proj-airi-game-playing-ai-balatro/) — Date not recorded
+  Game AI - Balatro combines detection of cards and interface controls with code for automating play in the Balatro desktop game.
+- [Game AI - Dome Keeper](https://awesomecua.com/resources/github-proj-airi-game-playing-ai-dome-keeper/) — Date not recorded
+  A game-playing agent for Dome Keeper that combines computer vision and a language model. Its active mod is written in TypeScript and converted to GDScript.
 - [GAZE](https://awesomecua.com/resources/github-kevintrinhdev-gaze/) — Date not recorded
   Vision-first browser controller that observes and drives an already logged-in Chrome window.
 - [gecko-mcp](https://awesomecua.com/resources/github-frumane-gecko-mcp/) — Date not recorded
@@ -1312,6 +1426,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Chrome extension and Python WebSocket bridge that run Gemini 2.5 Computer Use on the user's active tab, sending tab screenshots to the model and executing its clicks, typing and scrolling via content scripts.
 - [Gemini CLI](https://awesomecua.com/resources/github-google-gemini-gemini-cli/) — Date not recorded
   Gemini CLI is Google's open-source terminal agent providing shell execution, file manipulation, web search, and MCP tool integration.
+- [Gemini Computer Use Agent](https://awesomecua.com/resources/github-pmbstyle-gemini-computer-use/) — Date not recorded
+  Gemini Computer Use Agent uses screenshots, a Gemini computer-use model and Playwright to navigate webpages and perform browser actions, with optional user confirmation.
 - [Gemini Web MCP](https://awesomecua.com/resources/github-akashnaickar-gemini-web-mcp/) — Date not recorded
   Model Context Protocol server and CLI bridging coding agents to an authenticated Google Gemini web session.
 - [GenericAgent](https://awesomecua.com/resources/github-lsdefine-genericagent/) — Date not recorded
@@ -1356,6 +1472,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.
 - [Goby](https://awesomecua.com/resources/github-juguang-goby/) — Date not recorded
   Open-source Chrome extension in-page web agent that executes natural-language browsing and form-filling tasks.
+- [Godot Editor MCP](https://awesomecua.com/resources/github-hybridindie-godot-mcp/) — Date not recorded
+  An MCP server and Godot addon that let agents inspect and edit a live game editor, control play sessions, simulate input, and capture screenshots.
 - [godzilaa browser-agent Extension](https://awesomecua.com/resources/github-godzilaa-browser-agent/) — Date not recorded
   Chrome Manifest V3 extension that converts any live webpage into structured JSON and executes agent actions.
 - [Gofer](https://awesomecua.com/resources/github-jleuth-gofer/) — Date not recorded
@@ -1392,6 +1510,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   hai-agents is a Python SDK and CLI for launching browser and desktop agents through H Company's Agents API and monitoring their sessions.
 - [Halo Bot](https://awesomecua.com/resources/github-galactic717-halo-bot/) — Date not recorded
   Self-hosted named AI teammates running in sandboxed desktop and browser environments on user-owned hardware.
+- [Hammerspoon](https://awesomecua.com/resources/github-hammerspoon-hammerspoon/) — Date not recorded
+  A macOS automation tool connects operating-system functions to Lua scripts, letting users program desktop behavior through extensions.
 - [Handrail CUA](https://awesomecua.com/resources/github-codelit-io-handrail-cua/) — Date not recorded
   Discover-once, replay-many computer-use automation framework with deterministic execution guardrails.
 - [hands-off](https://awesomecua.com/resources/github-niramay-kelkar-hands-off/) — Date not recorded
@@ -1428,6 +1548,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Agentic Chrome copilot featuring organic mouse kinematics, visual perception, and natural-language web task execution.
 - [Human-Browser](https://awesomecua.com/resources/github-hterzia-human-browser/) — Date not recorded
   Vision-driven browser automation service where an external LLM sets high-level goals and a visual browser assistant executes them.
+- [HumanCursor](https://awesomecua.com/resources/github-riflosnake-humancursor/) — Date not recorded
+  A Python mouse-automation package with web and system cursor controls for movement, clicks, drags, and scrolling. Its script tool records cursor actions for replay.
 - [HumanHands](https://awesomecua.com/resources/github-thispc-humanhands/) — Date not recorded
   macOS computer-use agent that combines Accessibility-tree semantics with visual fallback to operate Mac apps like a human.
 - [Hunch MCP](https://awesomecua.com/resources/github-prithviseran-hunch-mcp/) — Date not recorded
@@ -1466,10 +1588,14 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   MCP server and local web UI that let an LLM drive an anti-detect Firefox build with moving-pointer and key-press input, seeded browser identities, optional proxies and persistent profiles.
 - [iOS Agent Harness](https://awesomecua.com/resources/github-a178960320-ios-agent-harness/) — Date not recorded
   iOS Agent Harness runs a Manager-Executor-Reflector GUI agent loop on iPhones to automate cross-app tasks from natural language.
+- [IOS13-SimulateTouch](https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/) — Date not recorded
+  An iOS touch-control library supports scripted and remote touch input, records events for playback, and offers image matching and OCR on jailbroken devices.
 - [iPhone CUA](https://awesomecua.com/resources/github-masone-iphone-cua/) — Date not recorded
   iPhone CUA steers physical iPhones from macOS by pairing an iPhone screen/control bridge with OpenAI Computer-Using Agent models.
 - [iphone-control (iPhone Mirroring Skill)](https://awesomecua.com/resources/github-charlesmorgansoftware-iphone-control/) — Date not recorded
   macOS skill and CoreGraphics controller for driving a paired iPhone through Apple's macOS iPhone Mirroring app.
+- [iphone-use-flows](https://awesomecua.com/resources/github-leeguooooo-iphone-use-flows/) — Date not recorded
+  A registry of reusable iPhone app workflows for iphone-use. Its JSON flows define phone actions, inputs, and checks for completing repeated tasks.
 - [IrisGUI](https://awesomecua.com/resources/github-black-yt-irisgui/) — Date not recorded
   IrisGUI is a cross-platform desktop GUI agent that perceives screens and automates mouse and keyboard workflows.
 - [IXR Agent](https://awesomecua.com/resources/github-vishnu-madhavan-git-ixr-agent/) — Date not recorded
@@ -1552,6 +1678,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Model Context Protocol server providing AI assistants with a stealth-configured Chrome browser.
 - [lazy-desktop-mcp](https://awesomecua.com/resources/github-leaf76-lazy-desktop-mcp/) — Date not recorded
   Local-first desktop control MCP server combining a Rust native host and Node.js launcher with policy-gated computer-use tools.
+- [lean-computer-use-mcp](https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/) — Date not recorded
+  An MCP facade for Windows computer use that condenses accessibility observations, checks state freshness, and records desktop actions for later replay.
 - [LegacyBridge](https://awesomecua.com/resources/github-peterhaupt-legacybridge/) — Date not recorded
   Local open-weight LLM agent framework for automating legacy enterprise ERP and business desktop software without APIs.
 - [libnut-core](https://awesomecua.com/resources/github-nut-tree-libnut-core/) — Date not recorded
@@ -1570,6 +1698,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Retrofits existing websites with structured WebMCP tool definitions without requiring backend code changes.
 - [Linux CUA (5omeotherguy)](https://awesomecua.com/resources/github-5omeotherguy-linux-computer-use/) — Date not recorded
   Linux desktop toolkit for computer-use agents providing isolated X11 workspaces, window capture, and input synthesis.
+- [Linux Desktop MCP Server](https://awesomecua.com/resources/github-beckhamlabsllc-linux-desktop-mcp/) — Date not recorded
+  An MCP server for Linux desktop control that exposes accessibility elements as references. Agents can find elements and send clicks, text, and keyboard input.
 - [linux-computer-use](https://awesomecua.com/resources/github-tak-uukti-linux-computer-use/) — Date not recorded
   Linux/X11 computer-use toolkit and MCP server combining AT-SPI semantic trees, screenshots, and input control for coding agents.
 - [linux-use](https://awesomecua.com/resources/github-javimosch-linux-use/) — Date not recorded
@@ -1610,6 +1740,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.
 - [lvyuan1688 browser-use-rs](https://awesomecua.com/resources/github-lvyuan1688-browser-use-rs/) — Date not recorded
   Rust port of the Browser Use architecture enabling LLMs to control web browsers with native speed.
+- [MaaFramework](https://awesomecua.com/resources/github-maaxyz-maaframework/) — Date not recorded
+  MaaFramework is an image-recognition automation framework for black-box testing, with a low-code task pipeline and documented integration and API interfaces.
 - [Mac MCP (Menu Bar & Local Server)](https://awesomecua.com/resources/github-bulutarkan-mac-mcp/) — Date not recorded
   macOS menu-bar application and local MCP server enabling Claude, ChatGPT, and Codex to inspect and control Mac apps.
 - [mac-pilot](https://awesomecua.com/resources/github-shxmi03-mac-pilot/) — Date not recorded
@@ -1654,10 +1786,14 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A TypeScript browser-agent framework in which a visually grounded model returns pixel coordinates for mouse and keyboard actions, with act and extract calls, a visual test runner and an MCP server.
 - [Magpie Computer Use](https://awesomecua.com/resources/github-sammysnake-d-magpie-computer-use-agent/) — Date not recorded
   Magpie distributes ten macOS Computer Use MCP tools with explicit human-in-the-loop approval gates to local coding and desktop agents.
+- [magpie Computer Use](https://awesomecua.com/resources/github-wbb6517-magpie-computer-use/) — Date not recorded
+  A Magpie plugin that supplies agents with MCP tools to inspect macOS app screens and perform clicks, typing, scrolling, and dragging.
 - [MAI](https://awesomecua.com/resources/github-fluxaster-mai/) — Date not recorded
   MAI combines MaaFramework with multimodal LLMs in a Planner-Executor-Verifier loop for game and application GUI automation.
 - [mangouse](https://awesomecua.com/resources/github-gianlucamazza-mangouse/) — Date not recorded
   Compositor-agnostic Linux Wayland virtual seat and input adapter for coding and computer-use agents.
+- [Mano skill](https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/) — Date not recorded
+  Mano skill runs desktop tasks from natural-language instructions by inspecting screenshots and issuing mouse and keyboard actions. It offers cloud and on-device modes.
 - [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/) — Date not recorded
   Mantis is a unified perception-reasoning-action computer-use agent that drives browsers and Xvfb desktop applications from structured plans.
 - [mapleluvr cu (Evidence-Bound Windows CLI)](https://awesomecua.com/resources/github-mapleluvr-cu/) — Date not recorded
@@ -1692,12 +1828,18 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Model Context Protocol server for controlling Dia Browser tabs, pages, and built-in AI features over the Chrome DevTools Protocol.
 - [mcp-linux-desktop](https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-linux-desktop/) — Date not recorded
   Model Context Protocol server for full Linux desktop control spanning windows, mouse, keyboard, clipboard, audio, OCR, and accessibility.
+- [mcp-pyautogui](https://awesomecua.com/resources/github-hathibelagal-dev-mcp-pyautogui/) — Date not recorded
+  An MCP server that gives AI clients desktop mouse and keyboard controls, screenshot capture and screen queries through PyAutoGUI.
 - [MCP-RealBrowser](https://awesomecua.com/resources/github-obbbba-mcp-realbrowser/) — Date not recorded
   Model Context Protocol server providing 20 browser tools over a persistent, logged-in browser profile.
 - [mcp-remote-macos-use](https://awesomecua.com/resources/github-baryhuang-mcp-remote-macos-use/) — Date not recorded
   MCP server that lets an LLM client such as Claude Desktop control a remote Mac through its built-in Screen Sharing, returning screenshots and sending scaled mouse, keyboard, scroll and drag actions over VNC.
+- [mcp-serial-hid-kvm](https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/) — Date not recorded
+  An MCP server gives agents screen capture, OCR, keyboard and mouse tools for controlling a physical PC through a separate serial HID KVM service.
 - [mcp-server-browser-use](https://awesomecua.com/resources/github-saik0s-mcp-browser-use/) — Date not recorded
   MCP server that wraps browser-use so that an MCP client can automate a real browser, with a CLI, a web dashboard and a deep research mode.
+- [mcp-server-macos-use](https://awesomecua.com/resources/github-mediar-ai-mcp-server-macos-use/) — Date not recorded
+  A Swift MCP server gives agents tools to inspect macOS application accessibility trees and perform mouse and keyboard actions.
 - [mcp-vroid](https://awesomecua.com/resources/github-nhodges-mcp-vroid/) — Date not recorded
   Model Context Protocol server that drives VRoid Studio 3D character creation via Linux Wayland GUI automation.
 - [MCPSafari](https://awesomecua.com/resources/github-epistates-mcpsafari/) — Date not recorded
@@ -1762,6 +1904,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Composable agentic browser automation framework built from small, reusable perception and action primitives.
 - [Motus](https://awesomecua.com/resources/github-dataficationsdk-motus/) — Date not recorded
   Motus is an extensible .NET browser automation and agentic testing framework communicating directly with Chromium via CDP.
+- [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) — Date not recorded
+  MT Code is a desktop app that runs coding agents and gives them browser computer-use controls, a live computer view and access to reachable machines.
 - [muhtalhakhan OpenAgent](https://awesomecua.com/resources/github-muhtalhakhan-open-agent/) — Date not recorded
   Self-hosted, provider-agnostic AI agent runtime with browser automation, shell execution, and extensible skill plugins.
 - [munim-computer-use](https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/) — Date not recorded
@@ -1802,6 +1946,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   macOS desktop automation agent using a 5-layer perception cascade from native Accessibility trees to OCR and VLM grounding.
 - [NirvanaX AutoAgent](https://awesomecua.com/resources/github-sayantanthecmd-nirvanax-autoagent/) — Date not recorded
   Multimodal personal AI assistant for Windows that combines voice input, screen vision, and desktop control.
+- [nodriver](https://awesomecua.com/resources/github-ultrafunkamsterdam-nodriver/) — Date not recorded
+  An asynchronous Python library for browser automation that controls Chromium-based browsers through the Chrome DevTools Protocol and provides text and selector-based element lookup.
 - [nodriver-mcp-server](https://awesomecua.com/resources/github-andresolbach-nodriver-mcp-server/) — Date not recorded
   Model Context Protocol server exposing 70 stealth Chrome workspace, DOM extraction, and interaction tools powered by `nodriver`.
 - [NORTHTEK Ghost](https://awesomecua.com/resources/github-northtekdevs-ghost/) — Date not recorded
@@ -1892,6 +2038,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   OpenAdapt Desktop records work in web and desktop apps, compiles recordings into local programs, and replays data-entry tasks with screen checks and human approval.
 - [openadapt-flow](https://awesomecua.com/resources/github-openadaptai-openadapt-flow/) — Date not recorded
   openadapt-flow turns recorded web or desktop tasks into reusable programs, replays them locally, and verifies saved records. Its standalone repository is archived.
+- [OpenAgent](https://awesomecua.com/resources/github-the-open-agent-openagent/) — Date not recorded
+  OpenAgent is a self-hostable assistant whose agent loop can operate a browser by navigating, clicking and filling forms. It also runs code and connects to external tools.
 - [OpenAgentFleet](https://awesomecua.com/resources/github-robbyczgw-cla-openagentfleet/) — Date not recorded
   Local-first multi-agent desktop platform with named AI coworkers and a watchable Linux virtual desktop.
 - [OpenAgents Web Agent](https://awesomecua.com/resources/component-xlang-ai-openagents-web-agent/) — Date not recorded
@@ -1914,6 +2062,10 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   OpenClaw is an open-source personal computer-use assistant that executes browser, desktop, terminal, and messaging workflows across local devices.
 - [OpenCLI](https://awesomecua.com/resources/github-jackwener-opencli/) — Date not recorded
   OpenCLI converts authenticated websites and Electron apps into deterministic CLI commands and browser-automation skills via a Chrome bridge.
+- [opencli-plugin-goofish](https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/) — Date not recorded
+  An OpenCLI adapter for Goofish that exposes shopping, account, listing, and messaging actions through commands backed by a signed-in Chrome session.
+- [opencli-plugin-x-article-publisher](https://awesomecua.com/resources/github-genoooool-opencli-plugin-x-article-publisher/) — Date not recorded
+  An OpenCLI plugin that uses a signed-in Chrome session to prepare X Articles from Markdown and local images, with an explicit command for public publishing.
 - [OpenCode Browser MCP](https://awesomecua.com/resources/github-hogandong486-opencode-browser-mcp/) — Date not recorded
   Browser Model Context Protocol server for OpenCode supporting Chromium, Firefox, and WebKit automation.
 - [opencode-chrome](https://awesomecua.com/resources/github-g10hdz-opencode-chrome/) — Date not recorded
@@ -1950,6 +2102,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   OpenWebAgent provides a Chrome extension, HTML simplification parser, and backend server for building LLM-driven web browsing agents.
 - [Opera Neon](https://awesomecua.com/resources/url-94d58f25e6fd4a2076ab/) — Date not recorded
   Opera's subscription agentic browser whose Neon Do agent opens, closes and acts across tabs inside the user's logged-in session, with task workspaces, prompt cards and MCP or CLI access for outside agents.
+- [Operit AI](https://awesomecua.com/resources/github-aaswordman-operit/) — Date not recorded
+  An Android agent platform that operates app interfaces and web pages using visual screen understanding, device controls, and browser actions.
 - [Optics Framework](https://awesomecua.com/resources/github-mozarkai-optics-framework/) — Date not recorded
   Optics Framework is a self-healing test automation engine for mobile, web, and TV interfaces with Vision/OCR fallback and an MCP server.
 - [Opus](https://awesomecua.com/resources/github-jeffrey-zang-opus/) — Date not recorded
@@ -1978,6 +2132,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Bounded computer-use runtime and semantic browser engine with explicit capability and policy enforcement.
 - [OvoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/) — Date not recorded
   Source-level Chromium fingerprint browser engineered for anti-detect web automation.
+- [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) — Date not recorded
+  ovoBrowser is a desktop client for managing isolated browser profiles and proxies. Its local API exposes opened profiles to browser automation tools.
 - [Page Agent](https://awesomecua.com/resources/github-alibaba-page-agent/) — Date not recorded
   Page Agent is an in-page JavaScript GUI agent by Alibaba that controls web interfaces from natural language via DOM dehydration.
 - [paldom playwright-stealth Skills](https://awesomecua.com/resources/github-paldom-playwright-stealth/) — Date not recorded
@@ -1994,6 +2150,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Local bridge connecting Paseo AI agents to the user's logged-in Chrome browser.
 - [PatchBridge Agent](https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/) — Date not recorded
   Lightweight in-browser AI agent framework that retrofits natural-language automation onto legacy enterprise web portals.
+- [Patchright](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/) — Date not recorded
+  Patchright is a modified Playwright driver for Chromium automation, with browser interaction through Playwright-style APIs and separate client packages.
 - [PawWork (爪爪 / BrowserKitten)](https://awesomecua.com/resources/github-player-yn-browserkitten/) — Date not recorded
   Selection-first Chrome web agent where users highlight elements on the live page to scope and guide agent actions.
 - [PC-Agent-E training and deployment](https://awesomecua.com/resources/github-gair-nlp-pc-agent-e/) — Date not recorded
@@ -2006,6 +2164,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A Go code generator that turns Chrome DevTools Protocol definitions into typed browser-control bindings used by chromedp and other Go programs.
 - [Peekaboo](https://awesomecua.com/resources/github-openclaw-peekaboo/) — Date not recorded
   Peekaboo is a macOS screen-capture, accessibility-element targeting, and GUI automation CLI and MCP server for computer-use agents.
+- [PeekabooWin](https://awesomecua.com/resources/github-felixkruger-peekaboowin/) — Date not recorded
+  A Windows desktop automation tool exposes screen capture, OCR, indexed accessibility controls, and input actions through a sidecar interface, CLI, and MCP server.
 - [Peerframe OpenBot](https://awesomecua.com/resources/github-peerframe-openbot/) — Date not recorded
   Self-hosted cross-platform control plane for managing persistent digital employees with browser and desktop capabilities.
 - [Pegoles Agent](https://awesomecua.com/resources/github-zezortdx-pegoles-agent/) — Date not recorded
@@ -2052,6 +2212,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A VS Code extension for Playwright browser testing that records page actions into tests and provides test running, locator inspection, debugging, and trace viewing.
 - [playwright-turnstile](https://awesomecua.com/resources/github-circuitsavage-playwright-turnstile/) — Date not recorded
   Playwright integration for resolving Cloudflare Turnstile challenges via token injection during browser automation.
+- [playwright_stealth](https://awesomecua.com/resources/github-mattwmaster58-playwright-stealth/) — Date not recorded
+  Playwright_stealth is a Python helper that applies browser fingerprint evasions to Playwright pages and contexts. It provides asynchronous usage and configuration examples.
 - [Plip OSS](https://awesomecua.com/resources/github-hussainn7-plip-oss/) — Date not recorded
   Open-source macOS notch assistant and runtime for grounded, model-agnostic computer-use agents with verifiable action previews.
 - [PocketCode](https://awesomecua.com/resources/github-m1ssbe4r-pocketcode/) — Date not recorded
@@ -2084,6 +2246,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A Procore browser automation scaffold with actions for construction RFIs, submittal tracking, daily logs, and project-report export.
 - [ProfileFleet](https://awesomecua.com/resources/github-enginefuture-profilefleet/) — Date not recorded
   Local-first TypeScript orchestration plane for managing persistent fingerprint-browser profiles across AI agents.
+- [Programming with Pixels (PwP)](https://awesomecua.com/resources/github-programmingwithpixels-pwp/) — Date not recorded
+  Programming with Pixels provides a framework and benchmark for software-engineering agents that work in IDEs through screenshots, typing, and clicks.
 - [Project Tendril](https://awesomecua.com/resources/github-gadgethd-project-tendril/) — Date not recorded
   Local-first Chromium browser and web-research runtime for autonomous AI agents.
 - [Promptwright](https://awesomecua.com/resources/github-sahajamit-promptwright/) — Date not recorded
@@ -2104,6 +2268,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Cross-platform Python module for scripted mouse and keyboard control, message boxes and screenshots with on-screen image search, working on the primary monitor under Windows, macOS and Linux.
 - [pyautogui_mcp_server](https://awesomecua.com/resources/github-on-panda-pyautogui-mcp-server/) — Date not recorded
   pyautogui_mcp_server is a Streamable HTTP Model Context Protocol server for executing PyAutoGUI desktop automation workflows.
+- [PyGetWindow](https://awesomecua.com/resources/github-asweigart-pygetwindow/) — Date not recorded
+  PyGetWindow is a Python utility for finding and controlling desktop application windows. Its documented implementation supports Windows window titles, positions, sizes, and state changes.
 - [PyMCPAutoGUI](https://awesomecua.com/resources/github-ahaufox-pymcpautogui/) — Date not recorded
   PyMCPAutoGUI is a cross-platform MCP server combining PyAutoGUI mouse/keyboard control, window management, and EasyOCR screen text localization.
 - [pyside6-mcp](https://awesomecua.com/resources/github-com55-pyside6-mcp/) — Date not recorded
@@ -2140,12 +2306,16 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   MCP server and Chrome extension giving coding agents control over an already-open Chrome browser with existing cookies and SSO sessions.
 - [Reasonix Computer Use](https://awesomecua.com/resources/github-plocr-reasonix-computer-use/) — Date not recorded
   Cross-platform desktop automation plugin combining native accessibility trees (UIA/AXAPI/AT-SPI2) with EasyOCR visual fallback.
+- [rebrowser-patches](https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/) — Date not recorded
+  rebrowser-patches modifies Puppeteer and Playwright to reduce browser automation signals, and provides drop-in packages for both libraries.
 - [recast](https://awesomecua.com/resources/github-yagna-1-recast/) — Date not recorded
   Compiler that converts recorded AI browser-agent execution traces into deterministic, zero-token Playwright test scripts.
 - [record-and-replay-skill](https://awesomecua.com/resources/github-ugarchance-record-and-replay-skill/) — Date not recorded
   Agent-agnostic skill that watches a user demonstrate a browser or desktop workflow once and compiles it into a replayable script.
 - [Recruit Auto-Reply](https://awesomecua.com/resources/github-kxc7558-recruit-auto-reply/) — Date not recorded
   Local browser-extension agent for recruiting platforms that answers candidate messages from a retrieval knowledge base and escalates unknowns.
+- [redux-webmcp](https://awesomecua.com/resources/github-breeznik-redux-webmcp/) — Date not recorded
+  A WebMCP bridge for Redux Toolkit apps that lets browser agents dispatch allowed actions and inspect state changes. Developers can require approval for selected actions.
 - [reflex-computer-use](https://awesomecua.com/resources/github-8itlab-reflex-cu/) — Date not recorded
   reflex-computer-use is an MCP server for macOS and Windows that reads native UI accessibility trees and dispatches low-latency actions.
 - [RegionCUA](https://awesomecua.com/resources/github-region-ai-region-cua/) — Date not recorded
@@ -2168,12 +2338,16 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Linux computer-use Model Context Protocol server for Claude Code, OpenAI Codex, and MCP clients.
 - [RobotGo](https://awesomecua.com/resources/github-go-vgo-robotgo/) — Date not recorded
   RobotGo is a native Go cross-platform desktop automation library for controlling the mouse, keyboard, bitmap screen capture, and window handles.
+- [Robotgo Pro](https://awesomecua.com/resources/github-vcaesar-robotgo-pro/) — Date not recorded
+  A licensed desktop automation package that reads screens and windows and controls mouse and keyboard input on Mac, Windows, and Linux.
 - [RobotJS](https://awesomecua.com/resources/github-octalmage-robotjs/) — Date not recorded
   RobotJS is a native Node.js desktop automation library for controlling the mouse, keyboard, and screen bitmap capture across OS platforms.
 - [robotsix-browser](https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/) — Date not recorded
   Interactive Playwright headless-browser and form-filling HTTP service for AI agents.
 - [Rocuronium](https://awesomecua.com/resources/github-kageroumado-rocuronium/) — Date not recorded
   Isolates macOS computer-use agents inside a separate login session while rendering a live visible-agent overlay on the host screen.
+- [Rod](https://awesomecua.com/resources/github-go-rod-rod/) — Date not recorded
+  A browser automation driver built on the DevTools Protocol. It provides element waiting, input tracing and helpers for controlling browser pages.
 - [rotary (rx4)](https://awesomecua.com/resources/github-tschk-rotary/) — Date not recorded
   Rust agent harness engine providing tool loops, session persistence, permission gates, computer-use primitives, and MCP support.
 - [rote](https://awesomecua.com/resources/github-bhuvanb3110-rote/) — Date not recorded
@@ -2210,6 +2384,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A browser automation scaffold for SAP SuccessFactors. It includes actions for workforce reports, employee goals, compensation worksheets and organization-chart exports.
 - [Scrapeless Playwright Cloud Browser](https://awesomecua.com/resources/github-pedro-scrapeless-scrapeless-playwright/) — Date not recorded
   Connects Playwright scripts and browser agents to the Scrapeless anti-detection cloud Chromium browser over CDP.
+- [Scrapeless Scraping Browser](https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/) — Date not recorded
+  A managed Chromium browser reached through WebSocket and controlled with Puppeteer or Playwright, with configurable sessions, fingerprints and network egress.
 - [scrcpy](https://awesomecua.com/resources/github-genymobile-scrcpy/) — Date not recorded
   scrcpy mirrors Android devices and lets users control them with a computer keyboard and mouse over USB or TCP/IP on Linux, Windows and macOS.
 - [Screen Intelligence](https://awesomecua.com/resources/github-zacfink-screen-intelligence/) — Date not recorded
@@ -2248,6 +2424,10 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Sentinel is a browser-native QA harness where an AI agent drives a real browser like an end user and returns structured test verdicts.
 - [SentinelDesk](https://awesomecua.com/resources/github-sentineldesk-desktop/) — Date not recorded
   Collaborative Linux desktop streamed to the browser where humans and AI agents share a workspace.
+- [sentineldesk-agent](https://awesomecua.com/resources/github-sentineldesk-agent/) — Date not recorded
+  sentineldesk-agent operates a Linux desktop through MCP tools, offering terminal and browser chat interfaces while logging goals, actions and results.
+- [Serpent.AI](https://awesomecua.com/resources/github-serpentai-serpentai/) — Date not recorded
+  A Python framework for building agents that interact with native video games, using plugins and support modules to turn games into research environments.
 - [ServiceNow Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-servicenow-browser-automation/) — Date not recorded
   A ServiceNow browser automation scaffold with documented actions for incidents, CMDB records, task assignment, and report export.
 - [Sessionat](https://awesomecua.com/resources/github-dublyo-sessionat/) — Date not recorded
@@ -2270,6 +2450,10 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Privacy-preserving AI browser agent framework that sanitizes sensitive DOM and screen fields before LLM planning.
 - [Sikuli legacy research implementation](https://awesomecua.com/resources/github-sikuli-sikuli/) — Date not recorded
   The original Sikuli source distribution combines screenshot targets with a Jython scripting library and IDE for visual GUI automation and testing.
+- [SikuliX1](https://awesomecua.com/resources/github-raiman-sikulix1/) — Date not recorded
+  An archived desktop automation codebase that locates on-screen elements through image recognition and controls them with simulated mouse and keyboard input.
+- [SilbercueSwift](https://awesomecua.com/resources/github-silbercue-silbercueswift/) — Date not recorded
+  An MCP server for iOS development that gives agents simulator screenshots, UI element inspection, navigation actions and structured test results.
 - [siropkin chrome-bridge](https://awesomecua.com/resources/github-siropkin-chrome-bridge/) — Date not recorded
   Browser automation bridge allowing AI agents to operate the user's real, logged-in Chrome browser.
 - [slidevim](https://awesomecua.com/resources/github-jaisharmz-slidevim/) — Date not recorded
@@ -2300,6 +2484,10 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Gives AI computer-use agents dedicated virtual macOS displays so they operate real apps without taking over the user's screen or cursor.
 - [SpectraBrowser MCP](https://awesomecua.com/resources/github-virajverse-spectra-browser-mcp/) — Date not recorded
   Autonomous real-browser interaction engine and Chrome extension bridge exposing 99 MCP tools to AI agents.
+- [Spice](https://awesomecua.com/resources/github-shells-com-spice/) — Date not recorded
+  A Go SPICE client library receives remote desktop display updates and sends mouse and keyboard events, with interfaces for connection, rendering and clipboard handling.
+- [spider-browser](https://awesomecua.com/resources/github-spider-rs-spider-browser/) — Date not recorded
+  A cloud browser SDK with page control, natural-language actions, element observation and autonomous agent runs, provided in several programming languages.
 - [SpiderCreator](https://awesomecua.com/resources/github-carlosplanchon-spidercreator/) — Date not recorded
   SpiderCreator records browser interactions and DOM snapshots to automatically synthesize executable Playwright web-scraping spiders with LLMs.
 - [Spooky Action](https://awesomecua.com/resources/github-jumpsy-spooky-action/) — Date not recorded
@@ -2346,6 +2534,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   TalkAct is a dual-model voice and computer-use agent that conducts real-time spoken dialogue while executing background GUI actions.
 - [Talox](https://awesomecua.com/resources/github-avant-iconic-talox/) — Date not recorded
   Talox is a stateful Playwright browser runtime for AI agents with stealth interaction, structured page state, and trace observability.
+- [Tango](https://awesomecua.com/resources/github-yume-chan-ya-webadb/) — Date not recorded
+  A TypeScript Android Debug Bridge client that runs in Chromium-based browsers, Node.js, and Electron to provide access to Android devices.
 - [TankWork](https://awesomecua.com/resources/github-agenttankos-tankwork/) — Date not recorded
   TankWork is a desktop agent framework combining OmniParser visual grounding, OCR, and PyAutoGUI actuation.
 - [Tarsier-AI](https://awesomecua.com/resources/github-siddzzzz-tarsier/) — Date not recorded
@@ -2354,12 +2544,16 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Taskhomie is a local computer-use agent that executes natural-language desktop tasks via screenshots, mouse/keyboard actions, and shell commands.
 - [Tauri Dev Screen CLI](https://awesomecua.com/resources/github-johunsang-tauri-dev-screen-cli/) — Date not recorded
   Node.js CLI for AI agents to inspect, screenshot, and control live Tauri desktop application windows during development.
+- [Taxy AI](https://awesomecua.com/resources/github-taxyai-browser-extension/) — Date not recorded
+  Taxy AI is a Chrome extension that turns user instructions and a simplified page DOM into clicks and text entry, then checks the updated page before continuing.
 - [Taylor-Bayouth Browser Agent](https://awesomecua.com/resources/github-taylor-bayouth-browser-agent/) — Date not recorded
   Stealth browser agent that controls real Chrome via CDP and OS-level input without injecting page JavaScript.
 - [TeachReplay](https://awesomecua.com/resources/github-ottohere-mourn-teachreplay/) — Date not recorded
   TeachReplay is a harness-agnostic teach-by-demonstration engine that records human UI workflows and compiles them into parameterized skills.
 - [Tencent BrowserSkill](https://awesomecua.com/resources/github-tencent-browserskill/) — Date not recorded
   CLI and browser extension by Tencent that lets AI agents operate a user's logged-in browser in a non-intrusive workspace.
+- [TENKA](https://awesomecua.com/resources/github-om-khode-tenka/) — Date not recorded
+  TENKA is a Windows voice agent that carries out browser and desktop tasks through browser control, native UI actions and a vision fallback, with stored conversational memory.
 - [Terminal Computer Use](https://awesomecua.com/resources/github-vivekkartha-terminal-computer-use/) — Date not recorded
   Terminal Computer Use provides shell-based desktop automation skills for managing files, windows, and clipboards without screenshot loops.
 - [terminal-use-mcp](https://awesomecua.com/resources/github-hlh2023-terminal-use-mcp/) — Date not recorded
@@ -2400,6 +2594,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Trope CUA enables background desktop inspection and GUI operation on Windows and macOS without interrupting foreground user work.
 - [Tsaagan](https://awesomecua.com/resources/github-michaelolmos-tsaagan/) — Date not recorded
   Tsaagan is a verify-first browser control framework for AI agents that proves every click and form action succeeded before advancing.
+- [tui-use](https://awesomecua.com/resources/github-onesuper-tui-use/) — Date not recorded
+  tui-use is a CLI utility that lets agents read terminal application screens and send keystrokes through persistent PTY sessions. It renders text snapshots and can wait for screen changes.
 - [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/) — Date not recorded
   Local multi-brain Windows AI desktop agent with visible computer control and verified action execution.
 - [TuriX-CUA](https://awesomecua.com/resources/github-turixai-turix-cua/) — Date not recorded
@@ -2424,6 +2620,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   A Python wrapper for Windows UI Automation that traverses application control trees and uses control properties and patterns to inspect and interact with interfaces.
 - [UIAutomationMcp](https://awesomecua.com/resources/github-trsdn-mcp-server-uiautomation/) — Date not recorded
   Windows UI Automation toolkit providing a CLI, MCP server, and VS Code extension for inspecting and driving native desktop controls.
+- [uiautomator2](https://awesomecua.com/resources/github-openatx-uiautomator2/) — Date not recorded
+  uiautomator2 is a Python library for controlling Android devices through a device-side UiAutomator service, including app launch and UI element actions.
 - [uictl-mac-mcp](https://awesomecua.com/resources/github-byronjones-elsevier-uictl-mac-mcp/) — Date not recorded
   macOS GUI-automation CLI and Model Context Protocol server for coding agents.
 - [uictl-win-mcp](https://awesomecua.com/resources/github-byronjones-elsevier-uictl-win-mcp/) — Date not recorded
@@ -2452,10 +2650,18 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Lightweight, model-free Model Context Protocol plugin giving multimodal agents native macOS screen and input control.
 - [Universe legacy GUI interaction client](https://awesomecua.com/resources/github-openai-universe/) — Date not recorded
   An archived Gym-compatible client that exposes screen observations and keyboard/mouse actions over VNC for remote application and browser environments, including the historical World of Bits integration.
+- [universe-starter-agent](https://awesomecua.com/resources/github-openai-universe-starter-agent/) — Date not recorded
+  A deprecated starter agent trains with A3C to play Universe games, including games operated through VNC remote desktops with delayed observations and actions.
 - [Upsonic (GPT Computer Assistant)](https://awesomecua.com/resources/github-onuratakan-gpt-computer-assistant/) — Date not recorded
   Upsonic (formerly GPT Computer Assistant) is a Python agent framework with MCP support and desktop screen/input automation.
 - [UseAgent](https://awesomecua.com/resources/github-useagenthq-useagent/) — Date not recorded
   Open-source cloud and local sandbox platform for running Claude Code, Codex, or OpenCode with a full desktop and browser.
+- [usecomputer](https://awesomecua.com/resources/github-remorses-usecomputer/) — Date not recorded
+  A desktop automation CLI and library for agent workflows. It captures screenshots, maps image coordinates to screen positions and sends mouse and keyboard actions.
+- [Vadgr](https://awesomecua.com/resources/github-montbrain-vadgr/) — Date not recorded
+  Vadgr runs agent tasks on a desktop computer through a CLI or phone app, using screenshots and input controls for optional app automation.
+- [vadgr-agent-os](https://awesomecua.com/resources/github-montbrain-vadgr-agent-os/) — Date not recorded
+  An early Linux container runtime for computer-use agents, with a virtual desktop, browsers, development tools, and an MCP interface for desktop control.
 - [vadgr-computer-use](https://awesomecua.com/resources/github-montbrain-vadgr-computer-use/) — Date not recorded
   Three-tier computer-use MCP server combining system shell tools, OS accessibility trees (UIA/AT-SPI/AX), and vision fallback.
 - [Valk](https://awesomecua.com/resources/github-ercbot-valk/) — Date not recorded
@@ -2472,6 +2678,10 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   2D/3D agentic operating environment layered above Windows where humans and AI agents co-orchestrate desktop tasks.
 - [Vera AI Assistant](https://awesomecua.com/resources/github-alpert-code-veraai-assistant-1-1/) — Date not recorded
   Turkish-speaking Windows desktop voice and GUI automation assistant powered by PySide6 and LLM tool calling.
+- [VersaiOS](https://awesomecua.com/resources/github-zhaodashuaibi-versaios/) — Date not recorded
+  VersaiOS uses a vision-language model to locate targets on an iPhone screen and an ESP32 Bluetooth mouse to execute clicks from natural-language instructions.
+- [VibeSurf for OpenClaw](https://awesomecua.com/resources/github-vibesurf-ai-claw-surf/) — Date not recorded
+  An OpenClaw skill that routes browser navigation, page extraction, screenshots, and workflows through VibeSurf's HTTP API.
 - [viger1 dsh-pilot](https://awesomecua.com/resources/github-viger1-dsh-pilot/) — Date not recorded
   Permission-governed browser automation plugin for DeepSeek Harness enforced at the CDP boundary.
 - [Vigil](https://awesomecua.com/resources/github-bofstudios-vigil/) — Date not recorded
@@ -2488,6 +2698,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Computer-vision Android UI automation and heuristic gameplay engine built with OpenCV and ADB.
 - [visual-agent](https://awesomecua.com/resources/github-cloudsbeyond-visual-agent/) — Date not recorded
   Protocol-first framework enabling visual-model hosts to safely inspect and operate software GUI interfaces.
+- [VK DeviceHub](https://awesomecua.com/resources/github-vkcom-devicehub/) — Date not recorded
+  A device-management system for viewing and controlling Android and iOS devices through a browser. It provides remote input, device inventory and a REST API.
 - [VNC MCP Server](https://awesomecua.com/resources/github-volkan-m-vnc-mcp-server/) — Date not recorded
   VNC MCP Server exposes remote desktop screenshots, OCR text localization, and mouse/keyboard control over the RFB/VNC protocol to MCP agents.
 - [vnc-computer-use CLI](https://awesomecua.com/resources/github-eyhn-vnc/) — Date not recorded
@@ -2534,6 +2746,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   WebBridge pairs a Chrome extension and local daemon to let coding agents control a user's authenticated Chrome session.
 - [WebClaw](https://awesomecua.com/resources/github-kuroko1t-webclaw/) — Date not recorded
   WebClaw is a WebMCP-native browser agent that runs inside the user's live Chrome browser and connects to Claude, Cursor, and OpenClaw.
+- [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/) — Date not recorded
+  A browser-agent skill that uses a local Chrome session to explore tasks, then generates reusable scripts for repeating successful browser workflows.
 - [webcli](https://awesomecua.com/resources/github-wz289494-webcli/) — Date not recorded
   Python CLI and Chrome extension bridge allowing humans and AI agents to control live Chrome tabs from the terminal.
 - [WebDriverAgent](https://awesomecua.com/resources/github-appium-webdriveragent/) — Date not recorded
@@ -2554,6 +2768,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Turns any existing web application into an in-page Model Context Protocol server so AI agents can navigate and invoke DOM actions.
 - [WebQA Agent](https://awesomecua.com/resources/github-migoxlab-webqa-agent/) — Date not recorded
   WebQA Agent is an autonomous multimodal web testing agent that audits webpage functionality, performance, and visual UX without test scripts.
+- [webreel](https://awesomecua.com/resources/github-vercel-labs-webreel/) — Date not recorded
+  webreel drives a Chrome browser through JSON-defined actions and records the resulting interaction as video with cursor and keystroke overlays.
 - [WebtestingWithLLMs](https://awesomecua.com/resources/github-softwaretestingllms-webtestingwithllms/) — Date not recorded
   A set of Selenium scripts for automated web application testing, including a monkey tester with configurable interaction count and timing.
 - [WeChat Mac RPA](https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/) — Date not recorded
@@ -2572,8 +2788,12 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Allows Claude Code and Codex running in Windows or WSL2 to drive the user's signed-in Chrome or Edge browser.
 - [Windows Computer Use MCP (DXGI + UIA)](https://awesomecua.com/resources/github-betrayzl-windows-computer-use-mcp/) — Date not recorded
   Windows Model Context Protocol server combining DXGI desktop duplication screen capture, UI Automation trees, and human-like input.
+- [Windows Computer-Use Skill](https://awesomecua.com/resources/github-wimi321-windows-computer-use-skill/) — Date not recorded
+  A Windows computer-use skill and MCP server that gives agents screenshot capture, desktop input, app launching, window lookup, and clipboard tools.
 - [Windows Local Action Recorder](https://awesomecua.com/resources/github-week833-windows-local-action-recorder/) — Date not recorded
   Windows desktop action recorder and controlled replay tool that packages human UI demonstrations for Codex agents.
+- [Windows MCP Server](https://awesomecua.com/resources/github-sbroenne-mcp-windows/) — Date not recorded
+  An MCP server and CLI that let AI agents inspect Windows application controls and perform desktop actions, with screenshots, mouse, and keyboard available for visual tasks.
 - [Windows Sandbox Computer Use Skill](https://awesomecua.com/resources/github-2018wzh-windows-sandbox-computer-use/) — Date not recorded
   Windows-only agent skill for provisioning an isolated Windows Sandbox VM and driving it via visual computer use.
 - [windows-computer-use-mcp](https://awesomecua.com/resources/github-sandraschi-windows-computer-use-mcp/) — Date not recorded
@@ -2620,6 +2840,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   x11-computer-use is an Agent Skills package for Linux X11 desktop control using xdotool input injection, ImageMagick screenshots, and AT-SPI trees.
 - [xa11y](https://awesomecua.com/resources/github-xa11y-xa11y/) — Date not recorded
   xa11y is a cross-platform desktop accessibility library in Rust, Python, and Node.js for inspecting and driving native apps on macOS, Windows, and Linux.
+- [xdotool](https://awesomecua.com/resources/github-jordansissel-xdotool/) — Date not recorded
+  xdotool is an X11 command line utility for simulating keyboard and mouse input and controlling windows. The repository also includes libxdo, a C library for the same operations.
 - [Xiaoshe Agent (小蛇 Agent)](https://awesomecua.com/resources/github-jackygilbert498-debug-xiaoshe-agent/) — Date not recorded
   Local-first desktop agent built on DeepSeek Harness featuring plugin governance, permission approvals, and completion receipts.
 - [XiaoShuang (小双桌面女神)](https://awesomecua.com/resources/github-daixin315-xiaoshuang/) — Date not recorded
@@ -2636,6 +2858,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Self-hostable, privacy-first local AI browser automation agent and Chrome extension.
 - [YADB](https://awesomecua.com/resources/github-ysbing-yadb/) — Date not recorded
   YADB extends Android Debug Bridge with text input, screenshots, UI layout dumps and simulated gestures for device automation.
+- [ydotool](https://awesomecua.com/resources/github-reimunotmoe-ydotool/) — Date not recorded
+  ydotool is a Linux command-line utility for sending mouse and keyboard input. It provides commands to click, move the pointer, type text and press keys.
 - [Your Browser Agent](https://awesomecua.com/resources/github-rakeshnirzari1-your-browser-agent/) — Date not recorded
   Connects Claude Code, Cursor, and MCP clients to the user's real logged-in Chrome browser.
 - [yu-tao-li dsh-computer-use-win](https://awesomecua.com/resources/github-yu-tao-li-dsh-computer-use-win/) — Date not recorded
@@ -2650,6 +2874,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   macOS computer-control MCP server for ZCode and coding agents combining screenshots, Accessibility trees, and input actions.
 - [zen-mcp](https://awesomecua.com/resources/github-sh6drack-zen-mcp/) — Date not recorded
   WebSocket-based Model Context Protocol server exposing 20 browser automation tools for the Zen Browser without Selenium or Playwright.
+- [Zendriver](https://awesomecua.com/resources/github-cdpdriver-zendriver/) — Date not recorded
+  A Python browser automation library built on Chrome DevTools Protocol, offering page navigation, element lookup, screenshots and browser profile management.
 - [ZennoPoster MCP](https://awesomecua.com/resources/github-zennolab-zennoposter-mcp/) — Date not recorded
   Official Model Context Protocol server connecting Claude and MCP agents to ZennoPoster 7 browser automation workflows.
 - [zetakai desktop-mcp](https://awesomecua.com/resources/github-zetakai-desktop-mcp/) — Date not recorded
@@ -2677,12 +2903,20 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Code examples and reference applications show how to build browser workflows with Amazon Nova Act and deploy the SDK on AWS compute services.
 - [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) — Date not recorded
   A curated reading list of computer GUI use research and software, linking to agent demos, frameworks, and papers across desktop and web interfaces.
+- [Awesome Computer Use Ecosystem](https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/) — Date not recorded
+  A curated reading list of computer-use tools for desktop and browser agents, organized by product ecosystem and capability, with a separate project catalog.
 - [Awesome GPT-6 Astra](https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/) — Date not recorded
   Evidence-linked catalog of computer-use demos, evaluations, and agent workflows with primary source receipts.
 - [chromedp examples](https://awesomecua.com/resources/github-chromedp-examples/) — Date not recorded
   A collection of 46 Go examples showing how to control Chrome with chromedp, including page interaction, screenshots, tabs, and protocol operations.
+- [clawtouch-skills](https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/) — Date not recorded
+  A collection of Markdown operator guides gives desktop agents app-specific menu paths, shortcuts and interaction techniques for use with HID controls.
 - [ComputerUse.Best Expert Skills](https://awesomecua.com/resources/github-sagozen-computeruse-expert-skills/) — Date not recorded
   Open-source collection of computer-use skills, prompt patterns, and professional desktop/web workflows.
+- [Google Developer Codelab: Automated UI Testing with Antigravity (Agy) CLI, BrowserMCP, Playwright, and the Browser Agent](https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/) — Date not recorded
+  A hands-on codelab for creating browser-based UI tests with Antigravity CLI, BrowserMCP and a Playwright agent skill, using an included demo application.
+- [linux-use-recipes](https://awesomecua.com/resources/github-javimosch-linux-use-recipes/) — Date not recorded
+  A collection of recipes for automating Linux desktop applications and websites with linux-use. It covers browser setup, accessibility pitfalls, posting workflows and verification.
 - [Midscene Examples](https://awesomecua.com/resources/github-web-infra-dev-midscene-example/) — Date not recorded
   Midscene Examples provides runnable AI automation and testing cases for web, Android, iOS and desktop interfaces, including YAML workflows and SDK integrations.
 - [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) — Date not recorded

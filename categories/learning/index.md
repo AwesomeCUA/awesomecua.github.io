@@ -1,6 +1,6 @@
 # Computer-use agent learning resources
 
-> 26 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
+> 32 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/learning/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -209,6 +209,40 @@ The README describes Search, Fetch, Agent, and Browser endpoints and links to ex
 
 ---
 
+## Visual Agents Workshop Series
+
+Visual Agents Workshop Series teaches GUI agent research, dataset preparation, and model fine-tuning through three sessions with linked notebooks and resources.
+
+- Catalog URL: https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/
+- Original source: https://github.com/harpreetsahota204/visual_agents_workshop
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: survey, data-generation, grounding, evaluation
+- Evidence checked: 2026-11-09T19:55:56Z
+- ID: github:harpreetsahota204/visual_agents_workshop
+
+### Limitations
+
+The repository lists session folders, workshop notebooks, video recordings, and links to related datasets and code. Its README states an Apache 2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/harpreetsahota204/visual_agents_workshop/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/harpreetsahota204/visual_agents_workshop/HEAD/README.md (retrieved 2026-11-09T19:55:56Z; SHA-256 9bec2e7043275c17fbb4bf757c36b3faab8262a4b99c6692f7c2943aed932c7d)
+- https://raw.githubusercontent.com/harpreetsahota204/visual_agents_workshop/HEAD/LICENSE (retrieved 2026-11-09T14:20:33Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 ## Agentic Web
 
 A research reading list on agents and the web, organized around development, retrieval, planning, safety and benchmarks.
@@ -276,6 +310,39 @@ The repository organizes AWS CDK deployment samples, lightweight SDK examples, a
 
 ---
 
+## Awesome Computer Use Ecosystem
+
+A curated reading list of computer-use tools for desktop and browser agents, organized by product ecosystem and capability, with a separate project catalog.
+
+- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/
+- Original source: https://github.com/hqhq1025/awesome-computer-use-ecosystem
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: automation, recording, evaluation, survey
+- Evidence checked: 2026-11-09T19:57:36Z
+- ID: github:hqhq1025/awesome-computer-use-ecosystem
+
+### Limitations
+
+The repository links to a JSON project catalog, a Chinese guide, and capability-based navigation. Its README states a CC0-1.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hqhq1025/awesome-computer-use-ecosystem/HEAD/README.md (retrieved 2026-11-09T19:57:36Z; SHA-256 584202a9bd23aec764704b39bb3ab1c1a812159d9da5daea10c7b24138acb085)
+
+---
+
 ## Awesome Reinforcement Learning for GUI Agents
 
 A curated reading list of reinforcement learning work on GUI agents, organized by learning methods, reward and efficiency questions, datasets, and training environments.
@@ -307,6 +374,107 @@ The repository contains a bibliography and sections on offline, online, and hybr
 
 - https://raw.githubusercontent.com/Steve2457/Awesome-RL-GUI-Agents/HEAD/README.md (retrieved 2026-11-09T06:16:34Z; SHA-256 ba8846ec7f3e05a242bb0728395b74b0f7d754f2116133bb470e193cbe575673)
 - https://raw.githubusercontent.com/Steve2457/Awesome-RL-GUI-Agents/HEAD/LICENSE (retrieved 2026-11-09T06:13:37Z; SHA-256 70e87b65d448f7b60f21360bbf0f0453bc1856836e8b2d1399de1d9b83a41d2a)
+
+---
+
+## clawtouch-skills
+
+A collection of Markdown operator guides gives desktop agents app-specific menu paths, shortcuts and interaction techniques for use with HID controls.
+
+- Catalog URL: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/
+- Original source: https://github.com/tinqiao-oss/clawtouch-skills
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, macos, linux
+- Topics: automation, workflow, memory
+- Evidence checked: 2026-11-09T19:57:03Z
+- ID: github:tinqiao-oss/clawtouch-skills
+
+### Limitations
+
+The README lists guides for WPS Office, Feishu, DingTalk, text entry and grid UI automation. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/README.md (retrieved 2026-11-09T19:57:03Z; SHA-256 eb7d9a478ecb3c9d0d46c60cf866b83508647a08200f163fc7279e380fb16ead)
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE (retrieved 2026-11-09T14:20:49Z; SHA-256 be6018d34e8d0508c2637e14dd93ade6475ac0c1f3595dbfa4e457ea24f5b117)
+
+---
+
+## Google Developer Codelab: Automated UI Testing with Antigravity (Agy) CLI, BrowserMCP, Playwright, and the Browser Agent
+
+A hands-on codelab for creating browser-based UI tests with Antigravity CLI, BrowserMCP and a Playwright agent skill, using an included demo application.
+
+- Catalog URL: https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/
+- Original source: https://github.com/derailed-dash/agentic-ui-testing
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, evaluation, automation, tool-integration
+- Evidence checked: 2026-11-09T19:57:27Z
+- ID: github:derailed-dash/agentic-ui-testing
+
+### Limitations
+
+The repository includes the codelab text and a React demo application. The instructions list Chrome, Node.js, Antigravity CLI and Git as prerequisites.
+
+- Record JSON: https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/derailed-dash/agentic-ui-testing/HEAD/README.md (retrieved 2026-11-09T19:57:27Z; SHA-256 6a72b59448d07d5af2973097486154957d22f7d793400fae9bec1fab1fe70391)
+
+---
+
+## linux-use-recipes
+
+A collection of recipes for automating Linux desktop applications and websites with linux-use. It covers browser setup, accessibility pitfalls, posting workflows and verification.
+
+- Catalog URL: https://awesomecua.com/resources/github-javimosch-linux-use-recipes/
+- Original source: https://github.com/javimosch/linux-use-recipes
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web, cross-platform
+- Topics: automation, web-navigation, workflow, state-tracking
+- Evidence checked: 2026-11-09T19:57:41Z
+- ID: github:javimosch/linux-use-recipes
+
+### Limitations
+
+The repository contains a README and recipe files. The README declares the Unlicense license.
+
+- Record JSON: https://awesomecua.com/resources/github-javimosch-linux-use-recipes/record.json
+
+### License declarations
+
+- code: Unlicense — https://raw.githubusercontent.com/javimosch/linux-use-recipes/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/javimosch/linux-use-recipes/HEAD/README.md (retrieved 2026-11-09T19:57:41Z; SHA-256 de4a21f0f6aeeb6dd01299fdd7509d63404254f4a68f410f580890181b772560)
+- https://raw.githubusercontent.com/javimosch/linux-use-recipes/HEAD/LICENSE (retrieved 2026-11-09T14:21:14Z; SHA-256 b5065838cbac452dfc855ba6e6e031481ad2c68406f70d21ead9321374653e6c)
 
 ---
 
@@ -374,6 +542,40 @@ The repository contains benchmark pages and separate pages for open and closed s
 
 - https://raw.githubusercontent.com/OpenHands/open-operator/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 bcfaec7a8e48745e422df9263816872ddfcb9e17f53b2fbc2c199dc0c3f8a21b)
 - https://raw.githubusercontent.com/OpenHands/open-operator/HEAD/LICENSE (retrieved 2026-11-09T06:13:35Z; SHA-256 16e882802b0715cfcd78f44618454398dac7b5cfe20af84e60edd6d52ee98f5f)
+
+---
+
+## Plasmate Notebooks
+
+Plasmate Notebooks teaches use of an agent-oriented browser engine through Jupyter examples covering page structure, token comparisons, batch extraction, and research workflows.
+
+- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-notebooks/
+- Original source: https://github.com/plasmate-labs/notebooks
+- Kind: learning
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: screen-understanding, web-navigation, efficiency
+- Evidence checked: 2026-11-09T19:57:10Z
+- ID: github:plasmate-labs/notebooks
+
+### Limitations
+
+The README lists four notebooks and a quick-start command requiring Plasmate, Jupyter, tiktoken, pandas, and matplotlib. A Colab link is provided for the getting-started notebook.
+
+- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-notebooks/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/README.md (retrieved 2026-11-09T19:57:10Z; SHA-256 34e63824f03d5f277afb112eb11591442457534048699237db32b5cdde9bb444)
+- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
 
 ---
 

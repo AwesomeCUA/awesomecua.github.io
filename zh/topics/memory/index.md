@@ -441,6 +441,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.
 - [MemGUI-Bench](https://awesomecua.com/resources/github-lgy0404-memgui-bench/) — Date not recorded
   Memory-centric Android benchmark of 128 tasks across 26 apps, run in Dockerized emulators on a MobileWorld-style runtime and judged by MemGUI-Eval, an LLM evaluator reporting pass@k and memory metrics.
+- [PersonalAlign](https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/) — Date not recorded
+  PersonalAlign releases AndroidIntent evaluations of personalized mobile GUI agents and HIM-Agent memory for using long-term interaction records.
 
 ## 数据集
 
@@ -450,6 +452,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Recorded MemGUI-Bench runs of mobile GUI agents and models, packaged as per-agent ZIP archives with step screenshots, action logs and evaluator outputs, plus compressed trajectory previews for the leaderboard viewer.
 - [MT-Mind2Web](https://awesomecua.com/resources/url-bdfb50330deb97893ce4/) — Date not recorded
   Multi-turn web-navigation conversations constructed from Mind2Web interactions, with dialogue turns, HTML snapshots, element candidates and click/type/select action sequences.
+- [WenyiWU0111/CoMEM-agent-memory-trajectories](https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/) — Date not recorded
+  A dataset for GUI-agent memory research containing expanded web links, synthesized tasks, and executed trajectories with successful and failed outcomes.
 
 ## 模型
 
@@ -544,6 +548,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Low-token, low-latency Windows computer-use MCP server with learned action shortcuts and hybrid UIA/CDP/OCR routing.
 - [ConnectOnion](https://awesomecua.com/resources/github-openonion-connectonion/) — Date not recorded
   ConnectOnion is a CLI and Python framework that gives agents commands for connected accounts, a logged-in browser, files, and chat apps.
+- [CowAgent](https://awesomecua.com/resources/github-zhayujie-cowagent/) — Date not recorded
+  CowAgent is an open-source assistant that plans tasks and controls a computer, browser, and external services. It combines browser tools with memory, skills, and service integrations.
 - [Cradle](https://awesomecua.com/resources/github-baai-agents-cradle/) — Date not recorded
   Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
 - [Crimson-Heart](https://awesomecua.com/resources/github-yeyvhaiou-crimson-heart/) — Date not recorded
@@ -568,6 +574,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Self-learning browser automation MCP server that records successful agent trajectories and replays deterministic Playwright steps.
 - [FurlPay Bot](https://awesomecua.com/resources/github-furlpay-furlpay-bot/) — Date not recorded
   Persistent AI teammate equipped with its own virtual computer, browser, long-term memory, and voice interface.
+- [Galley](https://awesomecua.com/resources/github-wangjc683-galley/) — Date not recorded
+  Galley is a desktop assistant that works through screen vision, mouse and keyboard control, a browser extension, files, and terminal tools to complete user tasks.
 - [GenericAgent](https://awesomecua.com/resources/github-lsdefine-genericagent/) — Date not recorded
   GenericAgent is a minimal self-evolving agent framework that synthesizes reusable skills for browser, OS, and ADB mobile control.
 - [Ghost in the Minecraft (GITM)](https://awesomecua.com/resources/github-opengvlab-gitm/) — Date not recorded
@@ -594,6 +602,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   LangGraph is a stateful graph orchestration framework for building long-running, cyclical, and human-in-the-loop LLM and CUA agents.
 - [LASER](https://awesomecua.com/resources/github-mayer123-laser/) — Date not recorded
   LASER models interactive web navigation as state-space exploration with explicit state transitions and backtracking on WebShop.
+- [lean-computer-use-mcp](https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/) — Date not recorded
+  An MCP facade for Windows computer use that condenses accessibility observations, checks state freshness, and records desktop actions for later replay.
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonai-litewebagent/) — Date not recorded
   Open-source VLM web-agent framework providing Playwright browser control, planning, workflow memory, tree search, and FastAPI/Vercel deployment.
 - [LiteWebAgent](https://awesomecua.com/resources/github-pathonaiorg-litewebagent/) — Date not recorded
@@ -682,6 +692,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Memory-routing implementation that chooses text or image demonstrations for a frozen GUI actor, with offline evaluation and Android transfer experiments.
 - [Synapse](https://awesomecua.com/resources/github-ltzheng-synapse/) — Date not recorded
   A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
+- [TENKA](https://awesomecua.com/resources/github-om-khode-tenka/) — Date not recorded
+  TENKA is a Windows voice agent that carries out browser and desktop tasks through browser control, native UI actions and a vision fallback, with stored conversational memory.
 - [TERX](https://awesomecua.com/resources/github-ixchio-terx/) — Date not recorded
   Browser-agent procedural memory and MCP server that compiles repeated web workflows into deterministic zero-token replays.
 - [TuriX-CUA](https://awesomecua.com/resources/github-turixai-turix-cua/) — Date not recorded
@@ -701,5 +713,7 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
 
 ## 学习资源
 
+- [clawtouch-skills](https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/) — Date not recorded
+  A collection of Markdown operator guides gives desktop agents app-specific menu paths, shortcuts and interaction techniques for use with HID controls.
 - [learn-workbuddy](https://awesomecua.com/resources/github-adongwanai-learn-workbuddy/) — Date not recorded
   24-chapter bilingual Python engineering course building a WorkBuddy-style desktop AI agent harness from scratch.

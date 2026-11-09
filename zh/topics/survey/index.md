@@ -98,6 +98,8 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
   Curated directory of open-source AI agent platforms, digital coworkers, and browser/desktop execution harnesses.
 - [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) — Date not recorded
   A curated reading list of computer GUI use research and software, linking to agent demos, frameworks, and papers across desktop and web interfaces.
+- [Awesome Computer Use Ecosystem](https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/) — Date not recorded
+  A curated reading list of computer-use tools for desktop and browser agents, organized by product ecosystem and capability, with a separate project catalog.
 - [Awesome GPT-6 Astra](https://awesomecua.com/resources/github-archorfight-awesome-gpt-6-astra/) — Date not recorded
   Evidence-linked catalog of computer-use demos, evaluations, and agent workflows with primary source receipts.
 - [Awesome GUI Agent Security](https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/) — Date not recorded
@@ -112,3 +114,5 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
   An annotated reading list of 45 NeurIPS 2025 computer-use agent papers, organized around benchmarks, safety, grounding and agent architectures.
 - [Open Operator](https://awesomecua.com/resources/github-openhands-open-operator/) — Date not recorded
   Open Operator collects resources on computer-use agents, with task categories, benchmark summaries, and pages describing existing agent systems.
+- [Visual Agents Workshop Series](https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/) — Date not recorded
+  Visual Agents Workshop Series teaches GUI agent research, dataset preparation, and model fine-tuning through three sessions with linked notebooks and resources.

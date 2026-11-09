@@ -4,6 +4,23 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [Browser Reliability Runtime](https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/)：用于故障诊断、依据策略恢复和动作验证的多模态浏览器可靠性运行时。
+- [browser-action-receipt](https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/)：验证协议，将人工批准与目标 DOM 状态绑定；若页面发生变化，则中止点击并生成回执。
+- [browser-agent-kit](https://awesomecua.com/resources/github-nicolascine-browser-agent-kit/)：browser-agent-kit 是一个用于构建页面内 AI 智能体的框架，这些智能体直接在实时浏览器 DOM 上下文中执行。
+- [browser-for-ai (bfa)](https://awesomecua.com/resources/github-icueth-browser-for-ai/)：面向 AI 的浏览器自动化运行时和 CLI，提供紧凑的 DOM 观察结果和确定性网页动作。
+- [browser-harness-bidi](https://awesomecua.com/resources/github-andrewdzzz-browser-harness-bidi/)：以 WebDriver BiDi 为先的浏览器自动化测试框架，以最少的依赖将 LLM 直接连接到实时浏览器。
+- [Browser-Use Vision](https://awesomecua.com/resources/github-raidriar7170-browser-use-vision/)：面向 browser-use 的视觉定位插件，结合 Set-of-Mark 叠加标注、Florence-2 检测和 Vision-DOM 对齐。
+- [browser-use-rs](https://awesomecua.com/resources/github-bb-fat-browser-use-rs/)：browser-use-rs 是轻量级纯 Rust 库，可让 LLM 智能体通过 Chrome DevTools Protocol 操控 Chromium 浏览器。
+- [Browser4](https://awesomecua.com/resources/github-platonai-browser4/)：Browser4 是面向 AI 的浏览器引擎和协程运行时，用于高并发网页智能体、工作流自动化和页面提取。
+- [Browserable](https://awesomecua.com/resources/github-browserable-browserable/)：自托管浏览器智能体平台，提供 JS SDK 和 REST API：规划器设定高层步骤，执行器读取截图与编号 DOM 片段，在本地或托管浏览器中选择 Playwright 动作。
+- [browserkit](https://awesomecua.com/resources/github-browserkit-dev-browserkit/)：browserkit 是 TypeScript 框架，用于构建在本地已认证浏览器会话中运行、针对特定网站的 MCP 服务器。
+- [BrowserMesh](https://awesomecua.com/resources/github-scrolldynasty-browsermesh/)：用 Rust 编写的多智能体浏览器 MCP 运行时，管理隔离、持久化且并行的 Playwright 会话。
+- [BrowserRig](https://awesomecua.com/resources/github-castor6-browserrig/)：开源本地驱动，使可信的 AI 智能体能够控制已登录的 Chromium 浏览器。
+- [BrowserTunnel](https://awesomecua.com/resources/github-mathisarends-browsertunnel/)：通过单条 WebSocket 连接，将实时 Chromium 标签页传输并镜像到网页，供远程智能体观察和接管。
+- [browxai](https://awesomecua.com/resources/github-kalebteccom-browxai/)：browxai 为 AI 智能体提供基于 MCP 的统一控制接口，可操作 Chromium、Firefox 和原生桌面应用。
+- [BRYES (Brain-Eyes)](https://awesomecua.com/resources/github-alvseek-bryes/)：BRYES 将高层推理规划器（“Brain”）与可替换的视觉感知和定位后端（“Eyes”）解耦，用于计算机使用。
+- [bytehunt br (Agent Browser CLI)](https://awesomecua.com/resources/github-bytehunt-br/)：面向智能体的浏览器 CLI，由 Bun WebView 驱动，并通过终端 Kitty 图形协议渲染。
+- [Cactus](https://awesomecua.com/resources/github-cactus-compute-cactus/)：Cactus 是跨平台设备端 LLM 和 VLM 推理框架，面向移动端和边缘 AI 智能体。
 - [Camel AI (Visual QA Agent)](https://awesomecua.com/resources/github-dilawarshafiq-camel-ai/)：基于屏幕的 QA 智能体，通过渲染后的 UI 测试网页和桌面应用，并将边缘情况交由人工处理。
 - [CanpGrid](https://awesomecua.com/resources/github-yeqi99-canpgrid/)：CanpGrid 提供自适应递归图像网格覆盖层，供多模态智能体逐步进行从粗到细的视觉定位。
 - [Capybara](https://awesomecua.com/resources/github-teamcapybara-capybara/)：Capybara 是网页应用验收测试框架，通过浏览器和无头驱动模拟用户交互。
@@ -20,7 +37,6 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English
 - [ClawMobile](https://awesomecua.com/resources/github-clawmobile-clawmobile/)：ClawMobile 是基于 OpenClaw 构建的 Android 智能体运行时，用于控制移动端应用、学习可复用技能和执行设备工作流程。
 - [Clearcote Browser](https://awesomecua.com/resources/github-clearcotelabs-clearcote-browser/)：开源隐身 Chromium 浏览器，在引擎层伪装指纹，设计为 AI 网页智能体的即插即用运行时。
 - [clef-use](https://awesomecua.com/resources/github-kotori0919-clef-use/)：clef-use 是本地计算机使用运行时，结合结构化无障碍信息、SigLIP2 视觉图块定位、OmniParser 和 MCP 工具。
-- [CLI-Anything](https://awesomecua.com/resources/github-hkuds-cli-anything/)：CLI-Anything 自动将 GIMP、Blender 和 LibreOffice 等专业桌面 GUI 应用封装为结构化、适合智能体使用的 CLI。
 - [ClickClickClick](https://awesomecua.com/resources/github-instavm-clickclickclick/)：ClickClickClick 是用于自主操作 Android 和桌面计算机的框架，支持本地和云端视觉语言模型。
 - [CloudCrew Understudy](https://awesomecua.com/resources/github-cloudcrewatwork-understudy/)：只需记录一次人类 UI 工作流程，即可将其编译为供计算机使用智能体使用的参数化、可编辑回放脚本。
 - [CoAct-1 Implementation](https://awesomecua.com/resources/github-buiilding-coact-1-implementation/)：CoAct-1 混合编码与 GUI 多智能体架构的开源复现，在 OSWorld-Verified 上进行了评测。
@@ -88,19 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/3/ · [English
 - [fast-browser-use](https://awesomecua.com/resources/github-nachafrommars-fast-browser-use/)：基于 Rust 的浏览器自动化引擎，通过 CDP 驱动 Chrome，内置反机器人规避功能和低延迟 DOM 提取功能。
 - [FastAgent](https://awesomecua.com/resources/github-hkuds-fastagent/)：FastAgent 是 HKUDS 开发的轻量级多智能体编排框架，用于低延迟执行工具、浏览器和桌面工作流。
 - [FastCUA](https://awesomecua.com/resources/github-guojiz-fastcua/)：面向 AI 智能体的本地 Windows 控制层，以无障碍能力为先，提供结构化 UI 树和多动作执行能力。
-- [FastHands](https://awesomecua.com/resources/github-tomaszteee-fasthands/)：面向 AI 智能体的本地优先、跨平台执行与网页研究运行环境。
-- [Fathom](https://awesomecua.com/resources/github-drizzdev-fathom/)：Fathom 是面向移动端计算机使用智能体的执行框架，可将日常英语表述的目标转化为 iOS 和 Android 上经过定位的动作。
-- [Figranium JS/TS SDK](https://awesomecua.com/resources/github-figranium-figranium-js/)：面向 Figranium 浏览器自动化和网页提取平台的官方 JavaScript 和 TypeScript SDK。
-- [FIVE-UI-Evol](https://awesomecua.com/resources/github-microsoft-five-ui-evol/)：Microsoft 单体代码库，涵盖 InfiniteWeb 网站与任务评估器合成、UI-E2I-Synth 元素定位评估脚本、UI-I2E-Bench 排行榜及 UI-Evol 基于轨迹的知识改进。
-- [Floom OpenBrowser](https://awesomecua.com/resources/github-floomhq-openbrowser/)：OpenBrowser 是开源浏览器自动化代理服务，为 AI 智能体管理持久化 Chrome 配置文件和支持代理的会话。
-- [flowcast](https://awesomecua.com/resources/github-supermarioyl-flowcast/)：录制一次浏览器操作流程，保存结构化定位线索，并通过自修复恢复机制重放参数化网页工作流。
-- [FlowPilot Engine](https://awesomecua.com/resources/github-pensefact-flowpilot-engine/)：混合式 AI 浏览器自动化引擎，结合 Claude 的视觉 Computer Use API 与确定性的 Playwright 执行。
-- [FluidUse](https://awesomecua.com/resources/github-fluidinference-fluiduse/)：面向 Apple silicon 本地计算机使用的 Swift 包，通过无障碍 API 读取运行中的 Mac 应用或浏览器表单，并使用设备端 Core ML 决策模型填写。
-- [flutter_copilot](https://awesomecua.com/resources/github-anasfik-flutter-copilot/)：应用内 SDK，将 Flutter 控件树和语义动作直接提供给 AI 智能体，无需截图或 OCR。
-- [forge (Readable ReAct Agent)](https://awesomecua.com/resources/github-musokean-forge/)：模块化 Python ReAct 智能体框架，具有 235 行核心循环和 31 个可选的沙箱、浏览器及计算机使用模块。
-- [Front-End Operation Master (FEOM)](https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/)：Windows 原生 UI 自动化框架和 MCP 服务器，通过 UIA 树运行，不使用视觉 token，动作延迟约为 3.9ms。
-- [FSB (Full Self Browsing)](https://awesomecua.com/resources/github-fullselfbrowsing-fsb/)：Full Self Browsing（FSB）是面向 Chrome 和 MCP 客户端、以 DOM 为主的浏览器自动化运行环境，支持结构化页面快照和动作重放。
-- [FSoft HyperAgent](https://awesomecua.com/resources/github-fsoft-ai4code-hyperagent/)：FSoft HyperAgent 协调 Planner、Navigator、Code Editor 和 Executor 智能体，完成代码仓库层面的软件工程任务。
-- [G0DM0D3 AG3NT](https://awesomecua.com/resources/github-cooding3d-g0dm0d3-ag3nt/)：面向 Windows、以权限为先的本地 AI 控制中心，可编排本地模型、桌面动作和浏览器工具。
-- [Ghost in the Minecraft (GITM)](https://awesomecua.com/resources/github-opengvlab-gitm/)：Ghost in the Minecraft (GITM) 将 LLM 与文本知识和记忆结合，以完成完整的 Minecraft 科技树。
-- [Ghost Semantic OS](https://awesomecua.com/resources/github-zainmfjavaid-ghost-semantic-os/)：Ghost Semantic OS 提供纯文本语义无障碍运行时，无需截图即可在 OSWorld 中操作 Linux 桌面应用。

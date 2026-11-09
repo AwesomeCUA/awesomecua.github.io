@@ -89,6 +89,8 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
 
 - [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/) — Date not recorded
   Released data for the GUIDE benchmark: annotated segments of narrated novice screen recordings in 10 applications, for predicting user behavior state, short-term intent and whether and how to help.
+- [VG-GUI-Bench](https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/) — Date not recorded
+  A benchmark for predicting mobile GUI actions from tutorial videos, prior actions, and the current screen. It releases step annotations, videos, and reference frames.
 - [VideoGUI](https://awesomecua.com/resources/github-showlab-videogui/) — Date not recorded
   Benchmark for desktop GUI tasks derived from instructional videos.
 - [VideoWebArena](https://awesomecua.com/resources/github-ljang0-videowebarena/) — Date not recorded
@@ -110,10 +112,14 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   Hub release of GUI-World: GUI screen-recording videos from six scenarios (Android, iOS, website, software, multi-app and XR) with train and benchmark annotation JSONL for GUI-oriented video question answering.
 - [GUI-Xplore](https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/) — Date not recorded
   Per-app Android exploration videos with screenshot and action sequences, view hierarchies and question-answer pairs for five tasks, from app overview and page analysis to action recall and sequence verification.
+- [James4Ever0/the_frozen_forest](https://awesomecua.com/resources/url-ede673f7e6f369eae600/) — Date not recorded
+  A dataset archive of screen recordings paired with keyboard and mouse events. Timestamp files align video frames with recorded input actions.
 - [MONDAY](https://awesomecua.com/resources/github-runamu-monday/) — Date not recorded
   Cross-platform mobile GUI trajectory dataset derived from instructional videos, with released data-processing helpers and example evaluation code for Android and iOS data.
 - [MONDAY annotations](https://awesomecua.com/resources/url-570654ff67ecefa2b955/) — Date not recorded
   Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
+- [OneJev-Data](https://awesomecua.com/resources/url-f2e2030eaee4250d995d/) — Date not recorded
+  OneJev-Data releases 94,707 question-and-answer training rows spanning GUI-agent runs, screens, images, video and text in Parquet files.
 - [PSAI computer-use dataset](https://awesomecua.com/resources/url-10a75e1b7b975b3617ae/) — Date not recorded
   Human computer-use recordings for 3,167 browser and desktop tasks, each with a screen video, input events and reasoning steps, plus screenshots or DOM snapshots for part of the tasks.
 - [VideoCAD data](https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/) — Date not recorded
@@ -174,6 +180,8 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
   VG-GUI-TASKER extracts informative keyframes from instructional demonstration videos to guide multimodal GUI agents.
 - [Video2GUI](https://awesomecua.com/resources/github-weiminxiong-video2gui/) — Date not recorded
   Video2GUI synthesizes large-scale GUI interaction trajectories from unlabeled screen-recording videos via inverse dynamics and VLM annotation.
+- [webreel](https://awesomecua.com/resources/github-vercel-labs-webreel/) — Date not recorded
+  webreel drives a Chrome browser through JSON-defined actions and records the resulting interaction as video with cursor and keystroke overlays.
 
 ## Learning resources
 

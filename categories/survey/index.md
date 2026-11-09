@@ -1,6 +1,6 @@
 # Computer-use agent surveys
 
-> 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
+> 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/survey/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/papers.json
 
@@ -315,59 +315,6 @@ Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
-
----
-
-## A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents
-
-Presents a conceptual perception–reasoning–action framework and 12 potential attack scenarios for language agents, including hypothetical web-navigation attacks.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2402-10196/
-- Original source: https://arxiv.org/abs/2402.10196
-- Kind: survey
-- Review: curated
-- Scope: adjacent
-- Environments: web
-- Topics: safety-security, survey, robustness
-- Evidence checked: 2026-10-18T10:54:08Z
-- ID: arxiv:2402.10196
-
-### Limitations
-
-Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent. Scope was checked against the retained abstract and full-text Sections 2.4 and 3.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2402-10196/record.json
-
-### Authors
-
-Lingbo Mo, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2402-10196/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2402-10196/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2402.10196v1
-- First submission: 2024-02-15T18:51:32Z
-- Version updated: 2024-02-15T18:51:32Z
-- Abstract SHA-256: b6d81a6b9de6fa32c8f5749d029d0819ddf3b310ae00a4872877ee72580e8879
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50 (retrieved 2026-10-18T10:54:08Z; SHA-256 00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec)
-- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50 (retrieved 2026-10-18T10:54:08Z; SHA-256 00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec)
-- https://arxiv.org/html/2402.10196v1 (retrieved 2026-10-18T13:00:03.117157+00:00; SHA-256 a1d4dc44a6572863df1d8cc68bff592c3a04a174a3dbc87ab5cdcd0d33be92b0)
 
 ---
 
@@ -1008,6 +955,59 @@ Sanket Badhe, Deep Shah, Priyanka Tiwari, Nehal Kathrotia
 - https://export.arxiv.org/api/query?id_list=2508.19461%2C2508.19493%2C2509.21782%2C2509.25140%2C2510.03485%2C2510.07809%2C2510.14276%2C2510.27140%2C2510.27210%2C2511.13248%2C2512.08417%2C2601.07263%2C2602.13516%2C2603.00476%2C2603.11862%2C2603.18762%2C2603.23791%2C2604.00986%2C2604.16515%2C2604.16548%2C2604.24348%2C2605.05509%2C2605.08876%2C2605.20833%2C2605.24785%2C2607.00333%2C2607.18659%2C2607.25255%2C2608.00202%2C2608.08939%2C2608.24913%2C2608.29596&max_results=32 (retrieved 2026-10-18T10:54:12Z; SHA-256 5f5bae19420f79231516d4bcf604ea18d4f930fc7790cde5a3e7fcb8d41a1126)
 - https://export.arxiv.org/api/query?id_list=2508.19461%2C2508.19493%2C2509.21782%2C2509.25140%2C2510.03485%2C2510.07809%2C2510.14276%2C2510.27140%2C2510.27210%2C2511.13248%2C2512.08417%2C2601.07263%2C2602.13516%2C2603.00476%2C2603.11862%2C2603.18762%2C2603.23791%2C2604.00986%2C2604.16515%2C2604.16548%2C2604.24348%2C2605.05509%2C2605.08876%2C2605.20833%2C2605.24785%2C2607.00333%2C2607.18659%2C2607.25255%2C2608.00202%2C2608.08939%2C2608.24913%2C2608.29596&max_results=32 (retrieved 2026-10-18T10:54:12Z; SHA-256 5f5bae19420f79231516d4bcf604ea18d4f930fc7790cde5a3e7fcb8d41a1126)
 - https://arxiv.org/html/2608.29596v2 (retrieved 2026-10-18T13:00:09.204016+00:00; SHA-256 d112d0a83472b87de538d0290efdd2d0dd0d21e878acca5f383da5baa880fe88)
+
+---
+
+## A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents
+
+Presents a conceptual perception–reasoning–action framework and 12 potential attack scenarios for language agents, including hypothetical web-navigation attacks.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2402-10196/
+- Original source: https://arxiv.org/abs/2402.10196
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: safety-security, survey, robustness
+- Evidence checked: 2026-10-18T10:54:08Z
+- ID: arxiv:2402.10196
+
+### Limitations
+
+Adjacent conceptual security work: the paper describes hypothetical scenarios and a future generalist agent. Scope was checked against the retained abstract and full-text Sections 2.4 and 3.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2402-10196/record.json
+
+### Authors
+
+Lingbo Mo, Zeyi Liao, Boyuan Zheng, Yu Su, Chaowei Xiao, Huan Sun
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2402-10196/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2402-10196/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2402.10196v1
+- First submission: 2024-02-15T18:51:32Z
+- Version updated: 2024-02-15T18:51:32Z
+- Abstract SHA-256: b6d81a6b9de6fa32c8f5749d029d0819ddf3b310ae00a4872877ee72580e8879
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50 (retrieved 2026-10-18T10:54:08Z; SHA-256 00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec)
+- https://export.arxiv.org/api/query?id_list=2302.01560%2C2303.16563%2C2305.15486%2C2305.16291%2C2305.17144%2C2306.00003%2C2306.00349%2C2306.17882%2C2310.01557%2C2310.08235%2C2310.08367%2C2311.05997%2C2311.17600%2C2312.02519%2C2312.11865%2C2402.01118%2C2402.10196%2C2402.11208%2C2403.10249%2C2403.12037%2C2404.06647%2C2404.12241%2C2404.13246%2C2407.15325%2C2409.00138%2C2410.14573%2C2410.18927%2C2410.19012%2C2411.09523%2C2411.10349%2C2411.13543%2C2412.01547%2C2501.05366%2C2501.09004%2C2502.07463%2C2502.14538%2C2503.02732%2C2503.08175%2C2503.11387%2C2504.10147%2C2504.11703%2C2504.14064%2C2504.15810%2C2504.16208%2C2504.20635%2C2504.21776%2C2505.12981%2C2505.13076%2C2506.01616%2C2506.13205&max_results=50 (retrieved 2026-10-18T10:54:08Z; SHA-256 00d275cd5407cec847fa9d43fe73cfc4384c5570b68a5e058c97921799be0bec)
+- https://arxiv.org/html/2402.10196v1 (retrieved 2026-10-18T13:00:03.117157+00:00; SHA-256 a1d4dc44a6572863df1d8cc68bff592c3a04a174a3dbc87ab5cdcd0d33be92b0)
 
 ---
 

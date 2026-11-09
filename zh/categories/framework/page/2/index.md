@@ -4,6 +4,24 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [SCOPE-Gen](https://awesomecua.com/resources/github-k4ngzy-scope-gen/)：一个为 OSWorld 生成并验证桌面图形界面任务的框架；它还会在保留原始目标和完成度评估器的前提下，构造配对的安全任务。
+- [SE-GUI](https://awesomecua.com/resources/github-yxb-nku-se-gui/)：SE-GUI 提供 GUI 元素定位模型的训练与评测代码，通过位置奖励和注意力反馈改进定位，并链接另行发布的权重与种子数据。
+- [Serpent.AI](https://awesomecua.com/resources/github-serpentai-serpentai/)：一个用于构建与原生视频游戏交互的智能体的 Python 框架，通过插件和辅助模块将游戏用作研究环境。
+- [SimpAgent](https://awesomecua.com/resources/github-jiutian-vl-simpagent/)：SimpAgent 通过上下文感知的历史简化和视觉 token 剪枝，加速多模态 GUI 智能体。
+- [spider-browser](https://awesomecua.com/resources/github-spider-rs-spider-browser/)：这是一个云端浏览器 SDK，提供页面控制、自然语言操作、元素观察和自主智能体运行，并支持多种编程语言。
+- [SteP (Stacked LLM Policies)](https://awesomecua.com/resources/github-asappresearch-webagents-step/)：SteP 实现动态组合的马尔可夫式 LLM 策略，用于在 WebArena 上执行多步网页导航和任务。
+- [Surfkit](https://awesomecua.com/resources/github-agentsea-surfkit/)：用于构建、发布和运行多模态设备操作智能体的 Python 工具包与 CLI，支持在本地或 Kubernetes 上操作 Ubuntu 桌面等设备，并提供任务跟踪器和智能体中心。
+- [Synapse](https://awesomecua.com/resources/github-ltzheng-synapse/)：Synapse 是计算机操作研究实现，从记忆中检索示例轨迹，抽象与任务相关的状态，并通过提示引导智能体完成浏览器任务。
+- [Tencent AI LAB - Self-Improving Agent](https://awesomecua.com/resources/github-tencent-selfevolvingagent/)：这个研究代码合集包含 WebEvolver 和 WebCoT，分别围绕世界模型及重构推理轨迹改进网页智能体。
+- [ToolCUA](https://awesomecua.com/resources/github-x-plug-toolcua/)：ToolCUA 训练计算机使用智能体在 OSWorld-MCP 上协调混合使用 MCP 工具调用和 GUI 动作。
+- [Upsonic (GPT Computer Assistant)](https://awesomecua.com/resources/github-onuratakan-gpt-computer-assistant/)：Upsonic（原名 GPT Computer Assistant）是一个支持 MCP 和桌面屏幕及输入自动化的 Python 智能体框架。
+- [VisionAX](https://awesomecua.com/resources/github-rao-studios-visionax/)：计算机视觉无障碍树（AX/A11Y）生成器，从原始桌面像素合成结构化 UI 树。
+- [WebLlama](https://awesomecua.com/resources/github-mcgill-nlp-webllama/)：WebLlama 提供对话引导的网页智能体训练、评估和集成工具，包括 Llama 微调流程及围绕 WebLINX 构建的 BrowserGym 示例。
+- [WebThinker](https://awesomecua.com/resources/github-ruc-nlpir-webthinker/)：WebThinker 使大型推理模型在深度思考过程中自主搜索、浏览网页并起草研究报告。
+- [Work2Skill](https://awesomecua.com/resources/github-china-qijizhifeng-work2skill/)：收集人类 GUI 操作示范，分析多模态证据，从中提炼可复用的智能体工作流技能。
+- [ZeroGUI](https://awesomecua.com/resources/github-opengvlab-zerogui/)：GUI 智能体在线 RL 框架，由 VLM 生成训练任务并根据轨迹截图判断是否成功；提供基于 UI-TARS-7B-DPO 训练的 OSWorld 和 AndroidLab 检查点。
+- [19ska Computer-Use Automation](https://awesomecua.com/resources/github-19ska-computer-use-automation/)：使用 LLM 探索一次 UI 工作流，再将轨迹编译为确定性回放脚本。
+- [1Claw Browser Bridge](https://awesomecua.com/resources/github-1clawai-browser-bridge/)：受管控的凭据注入与浏览器控制桥接工具，让 AI 智能体无需查看原始密钥即可操作已认证会话。
 - [404.directory](https://awesomecua.com/resources/github-mm-sheng-404-directory/)：执行前风险预检服务和 SDK，在 AI 智能体调用第三方工具和域名前对其进行检查。
 - [a11y-computer-use](https://awesomecua.com/resources/github-perception-dynamics-inc-a11y-computer-use/)：以无障碍功能为先的计算机使用运行时，向 AI 智能体提供精简的无障碍树快照，使其能够点击具有语义信息的 UI 元素。
 - [A2R2 (Android Agent Reliability Runtime)](https://awesomecua.com/resources/github-rty90-android-agent-reliability-runtime/)：A2R2 是面向 Android GUI 智能体的黑盒安全与可靠性运行时，可拦截不安全动作并检测执行循环。
@@ -51,7 +69,6 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [AntyBrowser SDK](https://awesomecua.com/resources/github-antybrowser-sdk/)：用于操作 AntyBrowser 反检测浏览器配置的官方多语言 SDK（TypeScript、Python、C#、Go、PHP、Ruby）。
 - [anybridge](https://awesomecua.com/resources/github-justvugg-anybridge/)：从实时浏览器会话中捕获网站已认证的网络调用，并将其作为可供任何 AI 智能体调用的工具。
 - [AnyBrowser](https://awesomecua.com/resources/github-christopher-inegbedion-anybrowser/)：可插拔的浏览器自动化与网页智能体运行时，支持替换 LLM 提供方和浏览器引擎。
-- [AnythingLLM](https://awesomecua.com/resources/github-mintplex-labs-anything-llm/)：AnythingLLM 是本地优先的桌面和服务器应用，支持自定义 AI 智能体、网页浏览、MCP 工具和文档 RAG。
 - [AnyTool](https://awesomecua.com/resources/github-hkuds-anytool/)：AnyTool 是面向 AI 智能体的通用工具使用层，支持 MCP、GUI、网页和 shell 工具，并具备分层检索与自我反思能力。
 - [AOI (Agent-Computer Observation Interface) & DynaCU-Bench](https://awesomecua.com/resources/github-19pine-ai-aoi/)：AOI 为计算机使用智能体提供自适应视频和音频感知层，并配有动态 GUI 评测基准 DynaCU-Bench。
 - [aos (Agent Operating System CLI)](https://awesomecua.com/resources/github-muthuishere-aos/)：面向主机的统一 CLI 层，使 AI 智能体能够操控桌面应用和终端，而不抢占用户焦点。
@@ -87,20 +104,3 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/2/ · [English
 - [Browser Agent Runtime Lite](https://awesomecua.com/resources/github-coolwkx-browser-agent-runtime-lite/)：用于执行自主浏览器智能体感知与动作循环的轻量级运行时。
 - [Browser AI Agent Examples (Tiered Web Agent)](https://awesomecua.com/resources/github-quantumproxies-browser-ai-agent-examples/)：目标驱动的网页智能体架构，在 XHR 发现、DOM 动作和视觉处理之间采用从成本最低层开始的级联方式。
 - [Browser Perception](https://awesomecua.com/resources/github-rounakkm-browser-perception/)：保护隐私的浏览器感知框架，在 LLM 读取 DOM 树和截图之前遮盖其中的敏感个人身份信息。
-- [Browser Reliability Runtime](https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/)：用于故障诊断、依据策略恢复和动作验证的多模态浏览器可靠性运行时。
-- [browser-action-receipt](https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/)：验证协议，将人工批准与目标 DOM 状态绑定；若页面发生变化，则中止点击并生成回执。
-- [browser-agent-kit](https://awesomecua.com/resources/github-nicolascine-browser-agent-kit/)：browser-agent-kit 是一个用于构建页面内 AI 智能体的框架，这些智能体直接在实时浏览器 DOM 上下文中执行。
-- [browser-for-ai (bfa)](https://awesomecua.com/resources/github-icueth-browser-for-ai/)：面向 AI 的浏览器自动化运行时和 CLI，提供紧凑的 DOM 观察结果和确定性网页动作。
-- [browser-harness-bidi](https://awesomecua.com/resources/github-andrewdzzz-browser-harness-bidi/)：以 WebDriver BiDi 为先的浏览器自动化测试框架，以最少的依赖将 LLM 直接连接到实时浏览器。
-- [Browser-Use Vision](https://awesomecua.com/resources/github-raidriar7170-browser-use-vision/)：面向 browser-use 的视觉定位插件，结合 Set-of-Mark 叠加标注、Florence-2 检测和 Vision-DOM 对齐。
-- [browser-use-rs](https://awesomecua.com/resources/github-bb-fat-browser-use-rs/)：browser-use-rs 是轻量级纯 Rust 库，可让 LLM 智能体通过 Chrome DevTools Protocol 操控 Chromium 浏览器。
-- [Browser4](https://awesomecua.com/resources/github-platonai-browser4/)：Browser4 是面向 AI 的浏览器引擎和协程运行时，用于高并发网页智能体、工作流自动化和页面提取。
-- [Browserable](https://awesomecua.com/resources/github-browserable-browserable/)：自托管浏览器智能体平台，提供 JS SDK 和 REST API：规划器设定高层步骤，执行器读取截图与编号 DOM 片段，在本地或托管浏览器中选择 Playwright 动作。
-- [browserkit](https://awesomecua.com/resources/github-browserkit-dev-browserkit/)：browserkit 是 TypeScript 框架，用于构建在本地已认证浏览器会话中运行、针对特定网站的 MCP 服务器。
-- [BrowserMesh](https://awesomecua.com/resources/github-scrolldynasty-browsermesh/)：用 Rust 编写的多智能体浏览器 MCP 运行时，管理隔离、持久化且并行的 Playwright 会话。
-- [BrowserRig](https://awesomecua.com/resources/github-castor6-browserrig/)：开源本地驱动，使可信的 AI 智能体能够控制已登录的 Chromium 浏览器。
-- [BrowserTunnel](https://awesomecua.com/resources/github-mathisarends-browsertunnel/)：通过单条 WebSocket 连接，将实时 Chromium 标签页传输并镜像到网页，供远程智能体观察和接管。
-- [browxai](https://awesomecua.com/resources/github-kalebteccom-browxai/)：browxai 为 AI 智能体提供基于 MCP 的统一控制接口，可操作 Chromium、Firefox 和原生桌面应用。
-- [BRYES (Brain-Eyes)](https://awesomecua.com/resources/github-alvseek-bryes/)：BRYES 将高层推理规划器（“Brain”）与可替换的视觉感知和定位后端（“Eyes”）解耦，用于计算机使用。
-- [bytehunt br (Agent Browser CLI)](https://awesomecua.com/resources/github-bytehunt-br/)：面向智能体的浏览器 CLI，由 Bun WebView 驱动，并通过终端 Kitty 图形协议渲染。
-- [Cactus](https://awesomecua.com/resources/github-cactus-compute-cactus/)：Cactus 是跨平台设备端 LLM 和 VLM 推理框架，面向移动端和边缘 AI 智能体。

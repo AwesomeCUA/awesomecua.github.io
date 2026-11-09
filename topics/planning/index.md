@@ -650,6 +650,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   A published JSONL corpus of synthesized planning and causal knowledge for GUI-agent mid-training, linked directly from the official GUI-CIDER project.
 - [GUIMid training data](https://awesomecua.com/resources/url-422010da7a5c845a18f6/) — Date not recorded
   A released GUI-agent mid-training mixture and supporting domain datasets, together with a post-training trajectory file and image archives for web and mobile interaction.
+- [lumos_unified_plan_iterative](https://awesomecua.com/resources/url-543aff764901777e6ad5/) — Date not recorded
+  lumos_unified_plan_iterative is a JSONL training dataset for the Lumos planning module. It combines web-agent examples with math and complex question-answering tasks.
 - [lumos_web_agent_plan_iterative](https://awesomecua.com/resources/url-0772193ae2967c407d22/) — Date not recorded
   A Lumos-Iterative dataset for training a web agent's planning module, with 1009 Mind2Web task annotations in the described data overview.
 - [Plan-and-Act training data](https://awesomecua.com/resources/url-ba6453cfdae0eb049ced/) — Date not recorded
@@ -669,6 +671,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Vision-based GUI agent models with unified action representations.
 - [Claude Computer Use](https://awesomecua.com/resources/url-57f17b7d0c18b2d7c8bf/) — Date not recorded
   Claude tool capability for screenshot-based computer interaction.
+- [CODA-PLANNER-TARS-32B](https://awesomecua.com/resources/url-cf16d0a4a05ea7270ffa/) — Date not recorded
+  CODA-PLANNER-TARS-32B is a GUI agent planner checkpoint trained for scientific applications and deployed alongside a specialist executor in ScienceBoard.
 - [Dreamer-7B](https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/) — Date not recorded
   WebDreamer model checkpoint that predicts the consequences of web actions from screenshots and textual descriptions.
 - [Dreamer-7B-Classifieds](https://awesomecua.com/resources/url-b7ccf7acb2e9d8a11853/) — Date not recorded
@@ -719,8 +723,16 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   A sparse Qwen3.5-based GUI-action checkpoint released for navigation and computer-use workflows.
 - [InfiGUI-R1](https://awesomecua.com/resources/github-reallm-labs-infigui-r1/) — Date not recorded
   3B GUI agent trained in two stages: distilling spatial reasoning from teacher models, then reinforcement learning that rewards accurate sub-goals and trains error recovery.
+- [lumos_unified_ground_iterative-13B](https://awesomecua.com/resources/url-b0b2cd616f8c30b4b09d/) — Date not recorded
+  A released Lumos grounding-module checkpoint fine-tuned on web-agent tasks alongside question answering, multimodal and math tasks.
+- [lumos_web_agent_plan_iterative](https://awesomecua.com/resources/url-e35db30fee209ef9b57d/) — Date not recorded
+  A fine-tuned Lumos planning-module checkpoint for web-agent tasks, released as model weights alongside a separately listed training dataset.
+- [lumos_web_agent_plan_iterative-13B](https://awesomecua.com/resources/url-7e7de336b1d8a2adce2c/) — Date not recorded
+  A released Lumos checkpoint for planning web-agent tasks within an iterative architecture that separates planning, grounding and execution.
 - [Magma](https://awesomecua.com/resources/github-microsoft-magma/) — Date not recorded
   Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark and Trace-of-Mark objectives on UI, robotics and video data and fine-tunable for web and mobile UI navigation.
+- [Mano-CUA-2.0-4B](https://awesomecua.com/resources/url-1b08ff264bbf2f8a10a3/) — Date not recorded
+  A released GUI action model that takes a desktop screenshot and task context to produce structured actions, including clicks, typing, scrolling and app launches.
 - [OpenAI CUA](https://awesomecua.com/resources/url-74eeb7c9fb20674fe6e2/) — Date not recorded
   Computer-using model introduced with the Operator research preview.
 - [OpenCUA](https://awesomecua.com/resources/github-xlang-ai-opencua/) — Date not recorded
@@ -731,6 +743,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and reflective reasoning to predict executable desktop actions.
 - [OpenCUA-7B](https://awesomecua.com/resources/url-2803eda78cff23fb63cc/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint that produces desktop actions from screenshots and instructions, using recent screen history for context.
+- [OTA-v1](https://awesomecua.com/resources/url-404c719910f8f4a37149/) — Date not recorded
+  OTA-v1 is a fine-tuned browser-agent checkpoint designed to plan browser actions, use tools and maintain context across multi-step web tasks.
 - [Plan-and-Act Actor 70B](https://awesomecua.com/resources/url-8a284d122d7dcf23479d/) — Date not recorded
   Llama-3.3-70B-Instruct-based executor checkpoint from the Plan-and-Act web-agent framework that translates high-level plans into browser actions.
 - [Plan-and-Act Planner 70B](https://awesomecua.com/resources/url-3932d69c6b6f9b2a7ba8/) — Date not recorded
@@ -739,6 +753,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Computer-use model family trained with cross-platform interaction data.
 - [ScaleCUA 7B](https://awesomecua.com/resources/url-ff7b1873a3eead89607a/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint with direct grounding and agent action modes across desktop, mobile and web interfaces.
+- [THUDM/cogagent-chat-hf](https://awesomecua.com/resources/url-5726382dc813f040f829/) — Date not recorded
+  A CogAgent chat checkpoint for interpreting GUI screenshots and proposing plans, next actions, and coordinates. The card describes use with web, desktop, and mobile interfaces.
 - [UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) — Date not recorded
   Native GUI agent models; UI-TARS-1.5 adds reinforcement-learned reasoning before acting and an open 7B checkpoint, and UI-TARS-2 extends to games, code and tool use.
 - [UI-TARS 1.5 7B](https://awesomecua.com/resources/url-4d32ad3682ae2d71c178/) — Date not recorded
@@ -747,6 +763,12 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and desktop in one end-to-end agent, trained with keypoint-based multi-judge task verification.
 - [UI-Venus 2 9B](https://awesomecua.com/resources/url-611df37e5f3caa6befd7/) — Date not recorded
   UI-Venus 2 GUI-agent checkpoint fine-tuned from Qwen3.5-9B, with about 9.4B BF16 parameters in the Qwen3.5 multimodal architecture, loaded through Transformers for image-text-to-text.
+- [WebThinker-QwQ-32B](https://awesomecua.com/resources/url-e058cc2487a805f976fd/) — Date not recorded
+  WebThinker-QwQ-32B is a released reasoning model for searching and navigating web pages while drafting research reports. Its card describes training on preferences derived from reasoning trajectories.
+- [WebThinker-R1-32B](https://awesomecua.com/resources/url-8076f65dc82b4dcea18c/) — Date not recorded
+  Released reasoning checkpoint for web research that searches and navigates pages through interactive clicks while drafting reports from gathered information.
+- [WebThinker-R1-7B](https://awesomecua.com/resources/url-564c980a531e7204447c/) — Date not recorded
+  A released 7B reasoning model for web research that searches and navigates pages through interactive elements while drafting reports.
 
 ## Engineering & industry
 
@@ -790,6 +812,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   AnyTool is a universal tool-use layer for AI agents supporting MCP, GUI, web, and shell tools with hierarchical retrieval and self-reflection.
 - [AppCopilot](https://awesomecua.com/resources/github-openbmb-appcopilot/) — Date not recorded
   AppCopilot is a multimodal mobile agent for tasks across Android apps. The repository provides code and setup steps for emulator or phone control through ADB.
+- [Aries AI](https://awesomecua.com/resources/github-zg0704666-aries-ai/) — Date not recorded
+  Aries AI is an Android agent that uses a language model to interpret screens, plan natural-language tasks and operate apps through accessibility or virtual-display input.
 - [Ask-before-Plan](https://awesomecua.com/resources/github-magicgh-ask-before-plan/) — Date not recorded
   Ask-before-Plan trains proactive language agents to clarify underspecified user instructions before executing multi-step tool plans.
 - [AssistGUI](https://awesomecua.com/resources/github-showlab-assistgui/) — Date not recorded
@@ -828,6 +852,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   A vision-based agent that converts Minecraft crash reports into reproduction steps and executes them through a macro API. Its project page also describes BugCraft-Bench.
 - [CAAP Agent](https://awesomecua.com/resources/github-caap-agent-caap-agent/) — Date not recorded
   Screenshot-driven agent implementation for MiniWoB++ and WebShop, using a visual observer and context-aware prompts to issue mouse and keyboard actions.
+- [CAD-Assistant](https://awesomecua.com/resources/github-dimitrismallis-cad-assistant/) — Date not recorded
+  CAD-Assistant handles CAD tasks by generating code for execution in FreeCAD and using sketch rendering and solid recognition tools to inspect designs.
 - [Caesar Agent](https://awesomecua.com/resources/github-jasonzliang-caesar-agent/) — Date not recorded
   Caesar is an open-source deep-research web agent that plans multi-step queries, crawls webpages, and synthesizes cited reports.
 - [Cappuccino](https://awesomecua.com/resources/github-gml-fmgroup-cappuccino/) — Date not recorded
@@ -848,6 +874,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Research demonstration of collaborative Windows GUI automation with dynamic task scheduling and recovery mechanisms.
 - [Computer-Use-Agent (Windows)](https://awesomecua.com/resources/github-nabhpatodi10-computer-use-agent/) — Date not recorded
   LangGraph-based Windows computer-use agent combining UI Automation tree inspection, OmniParser visual grounding, and human confirmation gates.
+- [CowAgent](https://awesomecua.com/resources/github-zhayujie-cowagent/) — Date not recorded
+  CowAgent is an open-source assistant that plans tasks and controls a computer, browser, and external services. It combines browser tools with memory, skills, and service integrations.
 - [Cradle](https://awesomecua.com/resources/github-baai-agents-cradle/) — Date not recorded
   Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
 - [CrewAI](https://awesomecua.com/resources/github-joaomdmoura-crewai/) — Date not recorded
@@ -880,6 +908,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   FSoft HyperAgent coordinates Planner, Navigator, Code Editor, and Executor agents for repository-level software engineering tasks.
 - [Ghost in the Minecraft (GITM)](https://awesomecua.com/resources/github-opengvlab-gitm/) — Date not recorded
   Ghost in the Minecraft (GITM) integrates LLMs with text-based knowledge and memory to complete the full Minecraft technology tree.
+- [GTA1: GUI Test-time Scaling Agent](https://awesomecua.com/resources/github-yan98-gta1/) — Date not recorded
+  GTA1 is a GUI agent that samples action proposals, uses a judge to select one, and maps it to a visual target with a reinforcement-trained grounding model.
 - [GUI Agent Framework](https://awesomecua.com/resources/github-sjkncs-gui-agent-framework/) — Date not recorded
   Modular block-based GUI automation framework combining VLM screen perception, LLM planning, Playwright browser control, and desktop actuation.
 - [GUI-CIDER research code](https://awesomecua.com/resources/github-wuzheng02-gui-cider/) — Date not recorded
@@ -920,6 +950,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   macOS agent in which a smolagents code agent dispatches per-application sub-agents that read accessibility trees and window screenshots and act through pyautogui mouse and keyboard input.
 - [MAI](https://awesomecua.com/resources/github-fluxaster-mai/) — Date not recorded
   MAI combines MaaFramework with multimodal LLMs in a Planner-Executor-Verifier loop for game and application GUI automation.
+- [Mano skill](https://awesomecua.com/resources/github-mininglamp-ai-mano-skill/) — Date not recorded
+  Mano skill runs desktop tasks from natural-language instructions by inspecting screenshots and issuing mouse and keyboard actions. It offers cloud and on-device modes.
 - [Mantis](https://awesomecua.com/resources/github-mercurialsolo-mantis/) — Date not recorded
   Mantis is a unified perception-reasoning-action computer-use agent that drives browsers and Xvfb desktop applications from structured plans.
 - [MERRICK](https://awesomecua.com/resources/github-simoncheungai-merrick/) — Date not recorded
@@ -1032,6 +1064,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
 - [taskforge](https://awesomecua.com/resources/github-huzjie-taskforge/) — Date not recorded
   taskforge is a long-horizon workflow orchestration engine combining multi-step planning, tool invocation, and GUI state verification.
+- [TENKA](https://awesomecua.com/resources/github-om-khode-tenka/) — Date not recorded
+  TENKA is a Windows voice agent that carries out browser and desktop tasks through browser control, native UI actions and a vision fallback, with stored conversational memory.
 - [Tongyi UI Agent API](https://awesomecua.com/resources/url-ce0af37931cd5aa20233/) — Date not recorded
   Alibaba Cloud Model Studio API that returns the next GUI action with its reasoning for a screenshot and task, with a mobile pipeline and a PC pipeline using planner, worker, reflector and memory agents.
 - [ToolCUA](https://awesomecua.com/resources/github-x-plug-toolcua/) — Date not recorded

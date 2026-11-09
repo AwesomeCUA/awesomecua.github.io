@@ -119,6 +119,8 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
   AgentOccam is a web agent that uses webpage descriptions and action strings to carry out tasks from a URL and instruction. Its repository includes task configurations and evaluation scripts.
 - [CanpGrid](https://awesomecua.com/resources/github-yeqi99-canpgrid/) — Date not recorded
   CanpGrid provides an adaptive recursive image grid overlay for progressive coarse-to-fine visual localization by multimodal agents.
+- [GTA1: GUI Test-time Scaling Agent](https://awesomecua.com/resources/github-yan98-gta1/) — Date not recorded
+  GTA1 is a GUI agent that samples action proposals, uses a judge to select one, and maps it to a visual target with a reinforcement-trained grounding model.
 - [GUI Grounding via Iterative Narrowing](https://awesomecua.com/resources/github-ant-8-gui-grounding-via-iterative-narrowing/) — Date not recorded
   Implements training-free iterative visual crop-and-narrow refinement for improving MLLM coordinate grounding on GUI screenshots.
 - [GUI-explorer](https://awesomecua.com/resources/github-ilearn-lab-acl25-gui-explorer/) — Date not recorded

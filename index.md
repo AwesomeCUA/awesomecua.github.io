@@ -1,46 +1,46 @@
 # AwesomeCUA
 
-> A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 4,587 curated records (1,718 papers and surveys, 2,869 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
+> A source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 4,857 curated records (1,718 papers and surveys, 3,139 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
 
-Snapshot 2026-11-09T16:17:01Z. Awaiting review and not counted above: 885 metadata-only bibliography records and 2,255 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
+Snapshot 2026-11-09T20:03:14Z. Awaiting review and not counted above: 885 metadata-only bibliography records and 468 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
 
 HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agent index: https://awesomecua.com/llms.txt
 
 ## Newest reviewed resources
 
-- [30 Years of Automated GUI Testing: A Bibliometric Analysis](https://awesomecua.com/resources/url-24a139a7910431441e39/) — Surveys · reviewed 2026-11-09: A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.
-- [AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents](https://awesomecua.com/resources/url-e86b3a1454b494224f07/) — Research papers · reviewed 2026-11-09: AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.
-- [An Efficient Training Pipeline for Reasoning Graphical User Interface Agents](https://awesomecua.com/resources/arxiv-2511-08172/) — Research papers · reviewed 2026-11-09: A GUI grounding pipeline filters 4.8M synthetic examples to 12K training instances and adapts a 3B vision-language model, evaluated on ScreenSpot, Multimodal-Mind2Web, and AndroidControl.
-- [AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation](https://awesomecua.com/resources/url-377f5418e39ff2da971f/) — Research papers · reviewed 2026-11-09: AssistEditor coordinates GUI agents to turn video requirements and uploaded materials into storyboards and editing actions in professional desktop software.
-- [Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models](https://awesomecua.com/resources/arxiv-2505-17839/) — Research papers · reviewed 2026-11-09: GERALLT uses LLMs to explore the GUI of engineering software and produce a list of confusing or inconsistent interface areas for developers to inspect.
-- [Automating GUI-based Software Testing with GPT-3](https://awesomecua.com/resources/url-412c168dd5d0aeded46a/) — Research papers · reviewed 2026-11-09: A GPT-3-based GUI testing method interprets natural-language test cases, tracks current interface elements in prompts, and navigates desktop and mobile applications.
-- [Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2311-08649/) — Research papers · reviewed 2026-11-09: DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.
-- [Do GUI Grounders Truly Understand UI Elements?](https://awesomecua.com/resources/url-16f4a8903de0f90d3638/) — Research papers · reviewed 2026-11-09: A desktop GUI grounding benchmark tests whether models identify the same element across varied descriptions; a diagnosis agent generates difficult instructions using model feedback.
-- [FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning](https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/) — Research papers · reviewed 2026-11-09: FDC-Ground trains GUI element location models with a distance-based reward and completion pruning; a 7B model is evaluated on ScreenSpot and ScreenSpot-v2.
-- [Focus Like a Human: Efficient GUI Grounding via Coarse-to-Fine Visual Attention and Parallel Verification](https://awesomecua.com/resources/url-85cad9e7962668786093/) — Research papers · reviewed 2026-11-09: FastFocus grounds GUI targets by proposing regions from low-resolution views and checking candidates with parallel high-resolution zooms; it is evaluated on ScreenSpot-Pro.
-- [From Robotic Process Automation to Intelligent Process Automation: Emerging Trends](https://awesomecua.com/resources/arxiv-2007-13257/) — Surveys · reviewed 2026-11-09: A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.
-- [Guardian: A Runtime Framework for LLM-Based UI Exploration](https://awesomecua.com/resources/url-7424d66754ec26d68d83/) — Research papers · reviewed 2026-11-09: Guardian guides LLM-driven mobile app testing by narrowing available UI actions and replanning after invalidated actions; it is evaluated on 58 tasks from 23 apps.
-- [GUI Grounding for Computer-Use Agents: A Survey](https://awesomecua.com/resources/url-0579bd92efb87b26cb15/) — Surveys · reviewed 2026-11-09: A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.
-- [GUI testing for mobile applications: objectives, approaches and challenges](https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/) — Surveys · reviewed 2026-11-09: A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.
-- [GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver](https://awesomecua.com/resources/url-ffc05c4425f777924940/) — Research papers · reviewed 2026-11-09: A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.
-- [INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent](https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/) — Research papers · reviewed 2026-11-09: InReAct trains a multimodal GUI agent with staged curriculum learning and outcome-based reinforcement learning for pixel-level grounding and navigation.
-- [LLM Agents: A Survey](https://awesomecua.com/resources/url-f58895265a31c37d12b4/) — Surveys · reviewed 2026-11-09: A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.
-- [Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing](https://awesomecua.com/resources/url-39f88102e1659647b1a0/) — Research papers · reviewed 2026-11-09: Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.
-- [Look Where You’re Told: Instruction-Consistent Attention for GUI Grounding](https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/) — Research papers · reviewed 2026-11-09: Attention Cycle-Consistency trains GUI element grounding with semantic and spatial alignment constraints, while removing its auxiliary components at inference.
-- [MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information](https://awesomecua.com/resources/url-3fdea133115518f9205a/) — Research papers · reviewed 2026-11-09: MemAgent adds a cache for task-specific information to conversational web agents, separating information gathering from execution across 150 web tasks.
+- [Patchright](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/) — Tools · reviewed 2026-11-09: Patchright is a modified Playwright driver for Chromium automation, with browser interaction through Playwright-style APIs and separate client packages.
+- [Predicate Python SDK](https://awesomecua.com/resources/github-predicatesystems-predicate-runtime-python/) — Frameworks · reviewed 2026-11-09: The Predicate Python SDK gives browser agents semantic page snapshots, UI assertions, and run traces so they can verify actions and inspect failures.
+- [WebRetriever](https://awesomecua.com/resources/github-mininglamp-ai-webretriever/) — Benchmarks · reviewed 2026-11-09: WebRetriever supplies a web-agent evaluation runner and a judge that assesses task completion from captured requests, actions and page URLs.
+- [UI-Mate](https://awesomecua.com/resources/github-tencent-ui-mate/) — Agents · reviewed 2026-11-09: UI-Mate is a desktop GUI agent that uses screenshots and keyboard and mouse actions for tasks across applications. It also supports workflows learned from recorded demonstrations.
+- [DSH Vision Toolkit](https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/) — Tools · reviewed 2026-11-09: DSH Vision Toolkit adds screenshot reading, visual grounding, UI reconstruction, and pixel comparison tools to DeepSeek Harness agents.
+- [opencli-plugin-goofish](https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/) — Tools · reviewed 2026-11-09: An OpenCLI adapter for Goofish that exposes shopping, account, listing, and messaging actions through commands backed by a signed-in Chrome session.
+- [qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain](https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/) — Models and checkpoints · reviewed 2026-11-09: A GUI-grounding checkpoint built on Qwen2.5-VL-7B-Instruct with an attention-based action head. Its example predicts a click point from a screenshot and instruction.
+- [THUDM/cogagent-chat-hf](https://awesomecua.com/resources/url-5726382dc813f040f829/) — Models and checkpoints · reviewed 2026-11-09: A CogAgent chat checkpoint for interpreting GUI screenshots and proposing plans, next actions, and coordinates. The card describes use with web, desktop, and mobile interfaces.
+- [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/) — Tools · reviewed 2026-11-09: A browser-agent skill that uses a local Chrome session to explore tasks, then generates reusable scripts for repeating successful browser workflows.
+- [WenyiWU0111/CoMEM-agent-memory-trajectories](https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/) — Datasets · reviewed 2026-11-09: A dataset for GUI-agent memory research containing expanded web links, synthesized tasks, and executed trajectories with successful and failed outcomes.
+- [Operit AI](https://awesomecua.com/resources/github-aaswordman-operit/) — Agents · reviewed 2026-11-09: An Android agent platform that operates app interfaces and web pages using visual screen understanding, device controls, and browser actions.
+- [Screen2AX-Element](https://awesomecua.com/resources/url-e96299566d12e790422e/) — Datasets · reviewed 2026-11-09: A dataset of macOS application screenshots with UI element boxes and category labels for training and evaluating interface element detectors.
+- [ScreenVLM](https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/) — Models and checkpoints · reviewed 2026-11-09: A model that converts web page screenshots into structured markup containing UI element locations, class labels, and visible text.
+- [Actell](https://awesomecua.com/resources/github-ja1chen-actell/) — Agents · reviewed 2026-11-09: An iPhone agent prototype observes screenshots or accessibility content and issues taps and drags through CoreDevice, using a VPN loopback or optional hardware relay.
+- [AutoGUI-v1-zip](https://awesomecua.com/resources/url-02370867dd4b96000a33/) — Datasets · reviewed 2026-11-09: A training data repository for AutoGUI containing an annotated GUI set and selected vision datasets, with instructions for merging their JSON files for fine-tuning.
+- [Blender MCP](https://awesomecua.com/resources/github-bpy-dev-blender-mcp/) — Tools · reviewed 2026-11-09: An MCP server links agents to Blender through a live add-on or saved project files, offering scene execution, runtime Python API lookup and benchmark tools.
+- [IOS13-SimulateTouch](https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/) — Tools · reviewed 2026-11-09: An iOS touch-control library supports scripted and remote touch input, records events for playback, and offers image matching and OCR on jailbroken devices.
+- [S1-Accurate-LoRA](https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/) — Models and checkpoints · reviewed 2026-11-09: A LoRA adapter for a desktop agent's decision model uses window screenshots to select an operation and target element from candidate actions when a faster model is uncertain.
+- [Spice](https://awesomecua.com/resources/github-shells-com-spice/) — Tools · reviewed 2026-11-09: A Go SPICE client library receives remote desktop display updates and sends mouse and keyboard events, with interfaces for connection, rendering and clipboard handling.
+- [Vision_GUI_Assistant](https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/) — Datasets · reviewed 2026-11-09: A GUI-image conversation dataset provides instruction and conversation JSON files for staged visual fine-tuning; its examples ask models to identify interface buttons.
 
 ## Browse by kind
 
-- [Models and checkpoints](https://awesomecua.com/categories/model/index.md): 283 curated records
-- [Datasets](https://awesomecua.com/categories/dataset/index.md): 195 curated records
-- [Benchmarks](https://awesomecua.com/categories/benchmark/index.md): 264 curated records
-- [Agents](https://awesomecua.com/categories/agent/index.md): 413 curated records
-- [Frameworks](https://awesomecua.com/categories/framework/index.md): 625 curated records
-- [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md): 90 curated records
-- [Tools](https://awesomecua.com/categories/tool/index.md): 884 curated records
-- [Products](https://awesomecua.com/categories/product/index.md): 70 curated records
+- [Models and checkpoints](https://awesomecua.com/categories/model/index.md): 351 curated records
+- [Datasets](https://awesomecua.com/categories/dataset/index.md): 225 curated records
+- [Benchmarks](https://awesomecua.com/categories/benchmark/index.md): 281 curated records
+- [Agents](https://awesomecua.com/categories/agent/index.md): 444 curated records
+- [Frameworks](https://awesomecua.com/categories/framework/index.md): 638 curated records
+- [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md): 101 curated records
+- [Tools](https://awesomecua.com/categories/tool/index.md): 976 curated records
+- [Products](https://awesomecua.com/categories/product/index.md): 72 curated records
 - [Publishers](https://awesomecua.com/categories/company/index.md): 19 curated records
-- [Learning resources](https://awesomecua.com/categories/learning/index.md): 26 curated records
+- [Learning resources](https://awesomecua.com/categories/learning/index.md): 32 curated records
 - [Surveys](https://awesomecua.com/categories/survey/index.md): 37 curated records
 - [Research papers](https://awesomecua.com/categories/paper/index.md): 1,681 curated records
 

@@ -55,6 +55,8 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 ## 评测基准
 
+- [BlenderWorld](https://awesomecua.com/resources/github-qwenlm-blenderworld/) — Date not recorded
+  A benchmark for agents creating editable Blender projects from text and visual references. It supplies 223 tasks, submission packaging, and an evaluator for scene and visual criteria.
 - [MedSPOT](https://awesomecua.com/resources/github-tajamul21-medspot/) — Date not recorded
   A sequential GUI grounding benchmark covering 10 medical imaging applications. It evaluates target localization across multi-step workflows and provides model evaluation scripts.
 - [OSWorld-Science](https://awesomecua.com/resources/github-discoailab-osworld-science/) — Date not recorded
@@ -71,6 +73,8 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 ## 模型
 
+- [CODA-PLANNER-TARS-32B](https://awesomecua.com/resources/url-cf16d0a4a05ea7270ffa/) — Date not recorded
+  CODA-PLANNER-TARS-32B is a GUI agent planner checkpoint trained for scientific applications and deployed alongside a specialist executor in ScienceBoard.
 - [ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard](https://awesomecua.com/resources/url-4bcb6a451d6f4d25343c/) — Date not recorded
   GLM-4.6V-Flash computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL from a released SFT start point for ScienceBoard scientific-software tasks.
 - [ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard SFT](https://awesomecua.com/resources/url-7fbde54a49250739baee/) — Date not recorded
@@ -88,6 +92,12 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 - [Blender Computer Use Artist](https://awesomecua.com/resources/github-xiaof631-blender-computer-use-artist/) — Date not recorded
   Codex computer-use skill for automating Blender 3D modeling, rendering, animation, and visual QA.
+- [Blender MCP](https://awesomecua.com/resources/github-bpy-dev-blender-mcp/) — Date not recorded
+  An MCP server links agents to Blender through a live add-on or saved project files, offering scene execution, runtime Python API lookup and benchmark tools.
+- [CAD-Assistant](https://awesomecua.com/resources/github-dimitrismallis-cad-assistant/) — Date not recorded
+  CAD-Assistant handles CAD tasks by generating code for execution in FreeCAD and using sketch rendering and solid recognition tools to inspect designs.
+- [CADAgent](https://awesomecua.com/resources/github-toreleon-cadagent/) — Date not recorded
+  A FreeCAD fork with an in-app agent that turns chat requests into editable 3D models through FreeCAD operations. It includes an agent runtime and chat dock.
 - [ChimeraX-SessionStates](https://awesomecua.com/resources/github-shiinahiiragi-chimerax-states/) — Date not recorded
   ChimeraX plugin used by ScienceBoard to expose internal molecular-visualization session state for deterministic benchmark evaluation.
 - [CODA](https://awesomecua.com/resources/github-openixclab-coda/) — Date not recorded
@@ -100,8 +110,12 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
   ScienceBoard's replacement GRASS GIS 8.4 wxPython GUI with an embedded Flask server that loads mapsets and layers, runs GRASS commands and returns layer, region and console state as JSON for task checks.
 - [kalgebra-kai](https://awesomecua.com/resources/github-shiinahiiragi-kalgebra/) — Date not recorded
   Modified KAlgebra build from ScienceBoard with a local HTTP server that reports variables and plotted 2D and 3D functions and can switch tabs or add calculations and plots, so the benchmark can check math tasks.
+- [MCP-Slicer](https://awesomecua.com/resources/github-zhaoyouj-mcp-slicer/) — Date not recorded
+  MCP-Slicer gives model clients access to 3D Slicer through node inspection, Python execution, and screenshots, supporting visual feedback during medical-image and scene tasks.
 - [mcp-vroid](https://awesomecua.com/resources/github-nhodges-mcp-vroid/) — Date not recorded
   Model Context Protocol server that drives VRoid Studio 3D character creation via Linux Wayland GUI automation.
+- [Orion](https://awesomecua.com/resources/github-genentech-orion/) — Date not recorded
+  A biomedical analysis agent that operates scientific desktop applications, a browser, and terminal tools in an Ubuntu virtual machine. Its repository includes task configurations and launchers.
 - [ScienceBoard VMware environment](https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/) — Date not recorded
   A prebuilt Ubuntu virtual-machine archive containing the software environment used for ScienceBoard scientific computer-use tasks.
 - [WellSet WebMCP](https://awesomecua.com/resources/github-kinhikars-wellset-webmcp/) — Date not recorded

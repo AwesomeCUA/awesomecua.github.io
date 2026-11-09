@@ -4,6 +4,19 @@ HTML page: https://awesomecua.com/categories/framework/page/7/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [VideoCAD training and evaluation code](https://awesomecua.com/resources/github-ghadinehme-videocad/)
+- [VillagerAgent & VillagerBench](https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/)
+- [ViMo code](https://awesomecua.com/resources/github-ai-agents-2030-vimo/)
+- [Vision Browser Agent](https://awesomecua.com/resources/github-zbcs-studiocr-cn-vision-browser-agent/)
+- [VisionGrid AI](https://awesomecua.com/resources/github-mohsinjutt62-autoplay-cv-engine-bot/)
+- [visual-agent](https://awesomecua.com/resources/github-cloudsbeyond-visual-agent/)
+- [VLAA-GUI](https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/)
+- [vnc-use](https://awesomecua.com/resources/github-mayflower-vnc-use/)
+- [Voice2Task Post-Training](https://awesomecua.com/resources/github-raidriar7170-voice2task-posttraining/)
+- [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/)
+- [VSC-RL code](https://awesomecua.com/resources/github-ai-agents-2030-vsc-rl/)
+- [Vuser Protocol](https://awesomecua.com/resources/github-openvuser-vuser/)
+- [Weave WebMCP](https://awesomecua.com/resources/github-doom2quake-weave/)
 - [Web Agent Proxy (WAP) SDK](https://awesomecua.com/resources/github-52191314-web-agent-proxy-sdk/)
 - [Web Context Interface (WCI)](https://awesomecua.com/resources/github-amirrezaalasti-webcontextinterface/)
 - [web-pilot](https://awesomecua.com/resources/github-vinimabreu-web-pilot/)

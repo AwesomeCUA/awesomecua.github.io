@@ -1,6 +1,6 @@
 # 计算机使用智能体评测基准
 
-> AwesomeCUA 目录收录 264 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T16:17:01Z。
+> AwesomeCUA 目录收录 281 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https://awesomecua.com/categories/benchmark/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -469,6 +469,35 @@ Counted unique identifiers in the inspected manifest. Normal and hard modes diff
 
 ---
 
+## Browser Use Benchmark (BU Bench)
+
+Browser Use Benchmark (BU Bench V2.1) 在 200 项真实网页导航和交互任务上评测浏览器智能体。
+
+- 目录页面：https://awesomecua.com/resources/github-browser-use-benchmark/
+- 原始来源：https://github.com/browser-use/benchmark
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航
+- 证据核查日期：2026-11-04T14:41:44Z
+- ID：github:browser-use/benchmark
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-browser-use-benchmark/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/browser-use/benchmark/HEAD/README.md（获取于 2026-11-04T14:41:44Z；SHA-256：849a8da2e5e5c972ae5ab6f46620c740b3c2440add259650fa08cb4dfd9917aa）
+
+---
+
 ## MobileWorld (Tongyi-MAI)
 
 容器化 Android 评估环境，包含纯 GUI、智能体与用户交互及 MCP 增强的任务，并检查应用和后端状态。
@@ -523,32 +552,49 @@ Publisher-reported inventory. GUI-only, agent-user and MCP-augmented configurati
 
 ---
 
-## Browser Use Benchmark (BU Bench)
+## WebVoyager
 
-Browser Use Benchmark (BU Bench V2.1) 在 200 项真实网页导航和交互任务上评测浏览器智能体。
+多模态网页导航智能体，以及基于真实网站的评估任务。
 
-- 目录页面：https://awesomecua.com/resources/github-browser-use-benchmark/
-- 原始来源：https://github.com/browser-use/benchmark
+- 目录页面：https://awesomecua.com/resources/github-minorjerry-webvoyager/
+- 原始来源：https://github.com/MinorJerry/WebVoyager
 - 类型：评测基准
 - 审核状态：已审核
 - 范围：核心
 - 运行环境：网页
 - 主题：评测、网页导航
-- 证据核查日期：2026-11-04T14:41:44Z
-- ID：github:browser-use/benchmark
+- 证据核查日期：2026-10-16T06:35:57Z
+- ID：github:minorjerry/webvoyager
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-browser-use-benchmark/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
+
+### 结构化规格
+
+- 动作 / 输出：Selenium-backed browser interactions
+- 评测方式：The repository supplies an automated multimodal-model evaluation protocol.
+- 侧重：live-web task completion
+- 观测：webpage screenshots, textual task instructions
+- 任务设置：interactive
+
+#### 数量记录
+
+- 643 task queries — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 15 websites — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+- 90 tasks — separate GAIA validation-derived web subset（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
+
+The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
 
 ### 许可证信息
 
-- 代码：未记录
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
 ### 一手证据
 
-- https://raw.githubusercontent.com/browser-use/benchmark/HEAD/README.md（获取于 2026-11-04T14:41:44Z；SHA-256：849a8da2e5e5c972ae5ab6f46620c740b3c2440add259650fa08cb4dfd9917aa）
+- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5）
+- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1）
 
 ---
 
@@ -604,6 +650,36 @@ Subset of GroundUI-18K sampled for efficient benchmarking; this count covers the
 - https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/README.md（获取于 2026-10-18T16:07:58Z；SHA-256：1f2b513c700b31a1bacd023a54c6d4cadac9e02092e526d42c32103cb476c359）
 - https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/eval_gui_grounding.py（获取于 2026-10-18T16:07:58Z；SHA-256：d503891371a62b6d8532667aea53f40c8691a2c3daaab5ea5a33ebce80eb83c8）
 - https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md（获取于 2026-10-18T16:08:23Z；SHA-256：d1072a12c9cbcb48e73434620b62e39a8857bdb1d598fc2f64396b8523ec6e4c）
+
+---
+
+## LMMs-Eval
+
+LMMs-Eval 是面向大型多模态模型的标准化评测测试框架，涵盖 GUI 定位、VQA、文档和视频评测基准。
+
+- 目录页面：https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/
+- 原始来源：https://github.com/EvolvingLMMs-Lab/lmms-eval
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：跨平台、网页、桌面、Android
+- 主题：评测、界面理解、GUI 定位
+- 证据核查日期：2026-11-04T13:12:14Z
+- ID：github:evolvinglmms-lab/lmms-eval
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/README.md（获取于 2026-11-04T13:12:14Z；SHA-256：f14d00e5d467b739b9bbbbf03eacf78dbbd6f28ec65f74ee52939556e6f02e23）
+- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE（获取于 2026-11-04T13:41:32Z；SHA-256：17358b5caadacb8108f14a6a319779cc8a20feed699f79c59e396e7e9dd5c33b）
 
 ---
 
@@ -749,82 +825,6 @@ The card reports more than 100 websites. Grounding accuracy and task completion 
 
 ---
 
-## WebVoyager
-
-多模态网页导航智能体，以及基于真实网站的评估任务。
-
-- 目录页面：https://awesomecua.com/resources/github-minorjerry-webvoyager/
-- 原始来源：https://github.com/MinorJerry/WebVoyager
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航
-- 证据核查日期：2026-10-16T06:35:57Z
-- ID：github:minorjerry/webvoyager
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
-
-### 结构化规格
-
-- 动作 / 输出：Selenium-backed browser interactions
-- 评测方式：The repository supplies an automated multimodal-model evaluation protocol.
-- 侧重：live-web task completion
-- 观测：webpage screenshots, textual task instructions
-- 任务设置：interactive
-
-#### 数量记录
-
-- 643 task queries — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
-- 15 websites — WebVoyager task collection（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
-- 90 tasks — separate GAIA validation-derived web subset（来源报告；来源：https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md）
-
-The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5）
-- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1）
-
----
-
-## LMMs-Eval
-
-LMMs-Eval 是面向大型多模态模型的标准化评测测试框架，涵盖 GUI 定位、VQA、文档和视频评测基准。
-
-- 目录页面：https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/
-- 原始来源：https://github.com/EvolvingLMMs-Lab/lmms-eval
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：相关研究
-- 运行环境：跨平台、网页、桌面、Android
-- 主题：评测、界面理解、GUI 定位
-- 证据核查日期：2026-11-04T13:12:14Z
-- ID：github:evolvinglmms-lab/lmms-eval
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/README.md（获取于 2026-11-04T13:12:14Z；SHA-256：f14d00e5d467b739b9bbbbf03eacf78dbbd6f28ec65f74ee52939556e6f02e23）
-- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE（获取于 2026-11-04T13:41:32Z；SHA-256：17358b5caadacb8108f14a6a319779cc8a20feed699f79c59e396e7e9dd5c33b）
-
----
-
 ## Online Mind2Web
 
 提供 136 个在线网站上的 300 项任务，用于在线评估网页智能体；过时任务会逐步替换，提交结果经人工审核，并配有 WebJudge 自动评估器。
@@ -867,6 +867,36 @@ Tasks are actively replaced when websites or requirements become invalid. Record
 
 - https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md（获取于 2026-10-16T06:35:57Z；SHA-256：49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa）
 - https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE（获取于 2026-10-16T06:41:57Z；SHA-256：93675f9d13697ae98889d703b8fae86a7200623e7ae8d844c9ee2200ad480583）
+
+---
+
+## openadapt-evals
+
+openadapt-evals 使用可复现的评测器，在 Windows Agent Arena 等评测基准上为 GUI 智能体和编译后的工作流评分。
+
+- 目录页面：https://awesomecua.com/resources/github-openadaptai-openadapt-evals/
+- 原始来源：https://github.com/OpenAdaptAI/openadapt-evals
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Windows、网页
+- 主题：评测、工作流、沙箱
+- 证据核查日期：2026-11-04T14:41:44Z
+- ID：github:openadaptai/openadapt-evals
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openadaptai-openadapt-evals/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/README.md（获取于 2026-11-04T14:41:44Z；SHA-256：f7c6b6da8b6fe579d9e4e576829c6daf4bd9611a5f134cf478fe85a0e2862156）
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE（获取于 2026-11-04T14:45:03Z；SHA-256：59aeac47ca72de18ba99dd38f0b2f9596b822f85e9cf816684369fadb6664e06）
 
 ---
 
@@ -918,36 +948,6 @@ The README gives a lower bound for the active-environment inventory. Action pres
 - https://miniwob.farama.org/content/observation_space/（获取于 2026-10-17T02:03:23Z；SHA-256：511039e0e3c26b117e7e0a001746c26ec6d94a8ab8c467f0be0bc1a0b01e870a）
 - https://miniwob.farama.org/content/action_space/（获取于 2026-10-17T02:03:23Z；SHA-256：ae7bf6a3b98b198b985d7ca7b41cb2bdab3cf48e6445467ad9a8d4a2c8df240f）
 - https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/LICENSE（获取于 2026-10-16T06:42:07Z；SHA-256：fd6529fb8f648d4130fd969e3d7fc740c9992a0bd94a1998f52555a873311511）
-
----
-
-## openadapt-evals
-
-openadapt-evals 使用可复现的评测器，在 Windows Agent Arena 等评测基准上为 GUI 智能体和编译后的工作流评分。
-
-- 目录页面：https://awesomecua.com/resources/github-openadaptai-openadapt-evals/
-- 原始来源：https://github.com/OpenAdaptAI/openadapt-evals
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、Windows、网页
-- 主题：评测、工作流、沙箱
-- 证据核查日期：2026-11-04T14:41:44Z
-- ID：github:openadaptai/openadapt-evals
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-openadaptai-openadapt-evals/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/README.md（获取于 2026-11-04T14:41:44Z；SHA-256：f7c6b6da8b6fe579d9e4e576829c6daf4bd9611a5f134cf478fe85a0e2862156）
-- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE（获取于 2026-11-04T14:45:03Z；SHA-256：59aeac47ca72de18ba99dd38f0b2f9596b822f85e9cf816684369fadb6664e06）
 
 ---
 
@@ -1045,6 +1045,50 @@ Offline, zero-shot evaluation across mobile, desktop, and web. The card explicit
 - https://huggingface.co/api/datasets/rootsautomation/ScreenSpot（获取于 2026-10-16T06:38:26Z；SHA-256：9e2d2a2c076032225911ae1032b548eafa6331ea81a2779632610f0f1c82dfd9）
 - https://huggingface.co/api/datasets/bevaya/ScreenSpot（获取于 2026-10-17T19:14:56Z；SHA-256：af0c4babeff84158ff196b54bf47242923bbf502d2805a1dd4eb52dba44be89c）
 - https://huggingface.co/api/datasets/rootsautomation/ScreenSpot（获取于 2026-10-17T19:14:56Z；SHA-256：af0c4babeff84158ff196b54bf47242923bbf502d2805a1dd4eb52dba44be89c）
+
+---
+
+## TheAgentCompany
+
+自包含的职场环境，用于评估智能体处理涉及网站、文件、代码和模拟同事的专业任务。
+
+- 目录页面：https://awesomecua.com/resources/github-theagentcompany-theagentcompany/
+- 原始来源：https://github.com/TheAgentCompany/TheAgentCompany
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面
+- 主题：评测、工作流、跨应用
+- 证据核查日期：2026-10-16T10:42:34Z
+- ID：github:theagentcompany/theagentcompany
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-theagentcompany-theagentcompany/record.json
+
+### 结构化规格
+
+- 动作 / 输出：web browsing, code execution, coworker communication
+- 评测方式：Task-specific evaluator scripts run within the prepared workplace environment.
+- 侧重：professional workflows, multi-tool tasks
+- 观测：未记录
+- 任务设置：interactive
+
+#### 数量记录
+
+- 175 task images — workspace images documented by the README（来源报告；来源：https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md）
+
+Each task is packaged as a Docker image. Record task-image and server versions; the environment includes simulated coworkers and external application state.
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md（获取于 2026-10-16T10:42:34Z；SHA-256：d1646f67d49d38ef1e81bf7b5057dfc3d6f172b4c8a7413a2cc78741ccb08723）
+- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE（获取于 2026-10-16T10:48:42Z；SHA-256：2d6976a9b482bb14d9cd4f0d97ce6e14305496f1649b8667cb91d027c670930f）
 
 ---
 
@@ -1517,6 +1561,40 @@ The split-ID inventory counts task IDs. Extra runtime/data dependencies and thir
 
 ---
 
+## OSWorkerBench
+
+桌面图形界面智能体基准，包含横跨 17 个业务领域和 41 个应用的 100 项办公任务。它发布任务表和演示数据表，供 UI-Mate 评测框架使用。
+
+- 目录页面：https://awesomecua.com/resources/url-c8c3d4ef20e68086a812/
+- 原始来源：https://huggingface.co/datasets/tencent/OSWorkerBench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：评测、长任务、工作流、数据生成
+- 证据核查日期：2026-11-09T19:57:27Z
+- ID：url:c8c3d4ef20e68086a812
+
+### 范围记录
+
+The card names task and demonstration test splits. Executing evaluations requires the UI-Mate harness, an Ubuntu Docker VM, mock applications, and a compatible model endpoint. The card declares Apache-2.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-c8c3d4ef20e68086a812/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：apache-2.0 — https://huggingface.co/datasets/tencent/OSWorkerBench
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/tencent/OSWorkerBench（获取于 2026-11-09T19:57:27Z；SHA-256：4daa1b9bca5134e229d27cac4e9a1dbed09c3a286b83a51e746a92066bdd1a06）
+- https://huggingface.co/api/datasets/tencent/OSWorkerBench（获取于 2026-11-09T19:57:27Z；SHA-256：4daa1b9bca5134e229d27cac4e9a1dbed09c3a286b83a51e746a92066bdd1a06）
+
+---
+
 ## OSWorld-MCP
 
 OSWorld-MCP 在 OSWorld 中评测计算机使用智能体混合使用 GUI 交互和 Model Context Protocol（MCP）工具调用的能力。
@@ -1591,50 +1669,6 @@ Reuses ScreenSpot-v2 imagery. Image-file counts, independent screenshots and tas
 
 - https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md（获取于 2026-10-17T04:07:19Z；SHA-256：7fb2bc9499d8a2b37b663c116af49d11bba493e6767d76a5305fad93257bebf2）
 - https://huggingface.co/api/datasets/likaixin/ScreenSpot-v2-variants（获取于 2026-10-17T04:07:19Z；SHA-256：dea98efa75e063eee2d6bfb5d46da94b41df3d779e2fb0bdaea7866534b5c469）
-
----
-
-## TheAgentCompany
-
-自包含的职场环境，用于评估智能体处理涉及网站、文件、代码和模拟同事的专业任务。
-
-- 目录页面：https://awesomecua.com/resources/github-theagentcompany-theagentcompany/
-- 原始来源：https://github.com/TheAgentCompany/TheAgentCompany
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页、桌面
-- 主题：评测、工作流、跨应用
-- 证据核查日期：2026-10-16T10:42:34Z
-- ID：github:theagentcompany/theagentcompany
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-theagentcompany-theagentcompany/record.json
-
-### 结构化规格
-
-- 动作 / 输出：web browsing, code execution, coworker communication
-- 评测方式：Task-specific evaluator scripts run within the prepared workplace environment.
-- 侧重：professional workflows, multi-tool tasks
-- 观测：未记录
-- 任务设置：interactive
-
-#### 数量记录
-
-- 175 task images — workspace images documented by the README（来源报告；来源：https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md）
-
-Each task is packaged as a Docker image. Record task-image and server versions; the environment includes simulated coworkers and external application state.
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md（获取于 2026-10-16T10:42:34Z；SHA-256：d1646f67d49d38ef1e81bf7b5057dfc3d6f172b4c8a7413a2cc78741ccb08723）
-- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE（获取于 2026-10-16T10:48:42Z；SHA-256：2d6976a9b482bb14d9cd4f0d97ce6e14305496f1649b8667cb91d027c670930f）
 
 ---
 
@@ -1885,6 +1919,40 @@ Agent-CE 是容器化的持续评测平台，用于通过可复现的任务套�
 
 ---
 
+## Agent-friendly UI
+
+一个评估与修订流程用计算机操作智能体测试生成的网站，依据规则检查任务完成情况，并汇总导航失败问题。
+
+- 目录页面：https://awesomecua.com/resources/github-showlab-aui/
+- 原始来源：https://github.com/showlab/AUI
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、界面设计、网页导航、可观测性
+- 证据核查日期：2026-11-09T19:56:09Z
+- ID：github:showlab/aui
+
+### 范围记录
+
+The repository lists stage scripts, model configuration, task rules, trajectories, and a dashboard. Its README names Playwright browser installation and model endpoints as setup requirements.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-showlab-aui/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/showlab/AUI/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/showlab/AUI/HEAD/README.md（获取于 2026-11-09T19:56:09Z；SHA-256：79c5ad5931f5c43bef41b45fd6c4786e8d9907c98496954787cf202d0ddb5e7e）
+- https://raw.githubusercontent.com/showlab/AUI/HEAD/LICENSE（获取于 2026-11-09T14:20:37Z；SHA-256：01b63589548387162a37d1cbfad7e66ea40ecfd22c68f9b0f0d288025ff2542f）
+
+---
+
 ## AgentBench
 
 智能体评估套件，提供容器化任务和函数调用接口，涵盖操作系统及购物环境。
@@ -1912,6 +1980,133 @@ Agent-CE 是容器化的持续评测平台，用于通过可复现的任务套�
 
 - https://raw.githubusercontent.com/THUDM/AgentBench/HEAD/README.md（获取于 2026-10-16T10:42:12Z；SHA-256：1b7d1f1cd7a74ac9497c639324ec342dd3f8769e9c0c4cd2cd92a4eb6740ac98）
 - https://raw.githubusercontent.com/THUDM/AgentBench/HEAD/LICENSE（获取于 2026-10-16T10:48:41Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
+## AgentBoard
+
+AgentBoard 在包括网页交互在内的多种任务中评估多轮智能体，并提供进度指标和可视化结果，用于分析其运行过程。
+
+- 目录页面：https://awesomecua.com/resources/github-hkust-nlp-agentboard/
+- 原始来源：https://github.com/hkust-nlp/AgentBoard
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、可观测性、网页导航
+- 证据核查日期：2026-11-09T19:56:59Z
+- ID：github:hkust-nlp/agentboard
+
+### 范围记录
+
+The repository contains evaluation scripts and configurations. Its setup describes separate data downloads, environment setup and optional Weights & Biases visualization.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-hkust-nlp-agentboard/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/hkust-nlp/AgentBoard/HEAD/README.md（获取于 2026-11-09T19:56:59Z；SHA-256：82e6f19d462feb4b021c7facd8aee38aecf5cfb1b8d16e09d3092e9ea08eabed）
+
+---
+
+## AgentCIBench
+
+AgentCIBench 评估计算机操作智能体是否会在个人应用之间泄露信息。它提供可评分的场景、基准测试程序，以及用于可视化运行的网页环境。
+
+- 目录页面：https://awesomecua.com/resources/github-ukplab-arxiv2026-agentcibench/
+- 原始来源：https://github.com/ukplab/arxiv2026-agentcibench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、安全与防护、跨应用
+- 证据核查日期：2026-11-09T19:55:59Z
+- ID：github:ukplab/arxiv2026-agentcibench
+
+### 范围记录
+
+The repository lists local scenario data, reasoning and visual evaluation runners, a multi-app web environment, and optional Docker support. It states that the code uses Apache License 2.0 and the data uses CC BY 4.0.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ukplab-arxiv2026-agentcibench/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/ukplab/arxiv2026-agentcibench/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/ukplab/arxiv2026-agentcibench/HEAD/README.md（获取于 2026-11-09T19:55:59Z；SHA-256：f836c578d6fea20f7b38092071a9646d2db19b422fe6117d57e6de57ab5e1324）
+- https://raw.githubusercontent.com/ukplab/arxiv2026-agentcibench/HEAD/LICENSE（获取于 2026-11-09T14:20:34Z；SHA-256：3c6de8f9409b07e7c0bf84465159bbf98d035c3a32b0c9974b007da85124989b）
+
+---
+
+## AgentCIBench
+
+计算机使用智能体的上下文完整性基准：117 个合成多应用工作区场景，将信息不完整的请求与必须共享和禁止共享的信息清单配对，另含 50 个实时 UI 场景的子集。
+
+- 目录页面：https://awesomecua.com/resources/url-d7f35409d35584385097/
+- 原始来源：https://huggingface.co/datasets/UKPLab/agentcibench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、安全与防护、跨应用
+- 证据核查日期：2026-10-19T06:04:29Z
+- ID：url:d7f35409d35584385097
+
+### 范围记录
+
+Each scenario is a JSON snapshot of app states in the OpenApps workspace (messenger, todo, calendar, code editor, maps and shopping apps) with a task prompt and a disclosure policy. The card's test split serves the state-grounded reasoning track; test_e2e is a 50-scenario subset of it (all IDs overlap) for runs in the rendered UI, which the code README describes as a local multi-app web environment driven through Playwright; seeds holds 36 disjoint hand-written scenarios. The card says source is seed or mcts, but every released row reads seed or legacy_pilot_seed. The code repository linked as ukplab/arxiv2026-agentcibench now resolves to UKPLab/emnlp2026-agentcibench (GitHub API), and the card's second code link, agentcibench/agentcibench, returns 404. The 67.9% average leakage over 15 agents is a publisher figure. CC BY 4.0 is the card's data declaration; the code is a separate Apache-2.0 release.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-d7f35409d35584385097/record.json
+
+### 结构化规格
+
+- 动作 / 输出：GUI actions in the rendered workspace (live-UI subset), content shared or sent through the workspace apps
+- 评测方式：The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
+- 侧重：contextual-integrity compliance of computer-use agents, information disclosure across personal apps
+- 观测：decoded app states, rendered app UI (live-UI subset), natural-language task prompts
+- 任务设置：mixed
+
+#### 数量记录
+
+- 117 scenarios — test split（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 50 scenarios — test_e2e split (subset of test used for live-UI evaluation)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 36 scenarios — seeds split (hand-written seed scenarios)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 75 scenarios — test split, failure mode task_ambiguity_overshare（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 24 scenarios — test split, failure mode recipient_misalignment（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+- 18 scenarios — test split, failure mode visual_co_location（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
+
+Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test; seeds share separate IDs.
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md（获取于 2026-10-19T06:04:29Z；SHA-256：3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde）
+- https://huggingface.co/api/datasets/UKPLab/agentcibench/revision/f5523cb986828ee77bc505120a933f114bbcf4f3（获取于 2026-10-19T06:04:29Z；SHA-256：2ae68d96a7bff7a2eb78f323c3e87b09768812c06f2a2e0aadbaee2d627f5f7d）
+- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test-00000-of-00001.jsonl（获取于 2026-10-19T06:04:29Z；SHA-256：709d43e4e09d2f3558d9290b8bdf4c15e95e4fefc29a56be6d12b52e646c99d7）
+- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test_e2e-00000-of-00001.jsonl（获取于 2026-10-19T06:04:30Z；SHA-256：9aced6b0d1e1368c28b3b110ba85e79a935b501a03a3c1b48fb97996dd4c05b2）
+- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/seeds-00000-of-00001.jsonl（获取于 2026-10-19T06:04:30Z；SHA-256：1b1a458c15ac64d63b7f6c20fab23740115a2b09d151ceeeb6f2c353c97f5418）
+- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/README.md（获取于 2026-10-19T06:04:30Z；SHA-256：f836c578d6fea20f7b38092071a9646d2db19b422fe6117d57e6de57ab5e1324）
+- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/mcts/reward_judge.py（获取于 2026-10-19T06:04:30Z；SHA-256：9527a682f91c5d7455853f392096ad47f117e35a14fda01b03969a4ef9c3bdc5）
+- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/eval/metrics.py（获取于 2026-10-19T06:04:30Z；SHA-256：c51a95f1e0df49d627e986e6be845e3917260f4d1e82991bd88fecb6724dda24）
+- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md（获取于 2026-10-19T06:04:29Z；SHA-256：3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde）
 
 ---
 
@@ -2113,6 +2308,40 @@ The README links to a Hugging Face dataset and leaderboard. It says SeePlanAct c
 
 ---
 
+## BlenderWorld
+
+一个评测智能体依据文本和视觉参考创建可编辑 Blender 项目的基准。它提供 223 项任务、提交内容打包工具，以及按场景和视觉标准评分的评估器。
+
+- 目录页面：https://awesomecua.com/resources/github-qwenlm-blenderworld/
+- 原始来源：https://github.com/QwenLM/BlenderWorld
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：评测、科学工作流、工具集成
+- 证据核查日期：2026-11-09T19:57:37Z
+- ID：github:qwenlm/blenderworld
+
+### 范围记录
+
+The repository includes a Python package and documentation for dataset, submission, and evaluation formats. The README specifies Linux for its quickstart and Blender 4.2.10 for project generation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-qwenlm-blenderworld/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/QwenLM/BlenderWorld/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/QwenLM/BlenderWorld/HEAD/README.md（获取于 2026-11-09T19:57:37Z；SHA-256：ba788d794d44e1d5c808e62b44477619099cf1d6b8e19531d1d8f24c6677882b）
+- https://raw.githubusercontent.com/QwenLM/BlenderWorld/HEAD/LICENSE（获取于 2026-11-09T14:21:07Z；SHA-256：9aa96ce7e5177f4940bd61ec88cadd31fa13ba72c5c4923da5a16b6d87548e27）
+
+---
+
 ## ClawBench
 
 真实网站上的日常任务基准，让浏览器智能体在容器化 Chromium 中运行，拦截每次最终提交请求并通过 URL 匹配和 LLM 裁判评分，同时记录 5 层运行证据。
@@ -2277,6 +2506,58 @@ The dataset-family count measures dataset families. Code and data licenses are u
 
 ---
 
+## GUI-Perturbed
+
+逐步网页定位基准，对 Mind2Web 页面施加样式、缩放和文字大小扰动后重新渲染，并将每张截图与直接或关系型指令及目标框配对。
+
+- 目录页面：https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/
+- 原始来源：https://huggingface.co/datasets/figai/GUI-Perturbed
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：GUI 定位、评测、鲁棒性
+- 证据核查日期：2026-10-18T15:59:36Z
+- ID：url:7ed70b39ac79f97f8a87
+
+### 范围记录
+
+The card YAML at revision 727c857b lists one eval split of 3,120 examples in four Parquet shards, with screenshot, instruction, gt_bbox, visual_variant, instruction_type, task_id and step_index fields. Hugging Face dataset-viewer statistics show 780 rows for each of four visual variants (labelled original, style, precision and text_shrink; the card calls the first one baseline) and 1,560 rows for each of the direct and relational instruction types, so the card's per-variant sample size of 390 covers one instruction type. The card designates the set for evaluation and asks that it be reserved from training; the pages come from Mind2Web MHTML archives. eval.yaml names point-in-bbox accuracy. The card declares CC BY 4.0 for the dataset.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/record.json
+
+### 结构化规格
+
+- 动作 / 输出：predicted target location
+- 评测方式：eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
+- 侧重：step-level web GUI element localization, robustness to visual and instruction perturbations
+- 观测：rendered web-page screenshots, natural-language instructions
+- 任务设置：offline
+
+#### 数量记录
+
+- 3,120 examples — eval split at revision 727c857b（来源报告；来源：https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md）
+- 283 distinct Mind2Web task IDs — eval split（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval）
+
+Each example is one screenshot, instruction and target box; four visual variants are crossed with two instruction types. Examples, source tasks and visual variants are different units.
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：cc-by-4.0 — https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md（获取于 2026-10-18T15:59:36Z；SHA-256：6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e）
+- https://huggingface.co/api/datasets/figai/GUI-Perturbed/revision/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7（获取于 2026-10-18T15:59:07Z；SHA-256：55c9358d6269d88f6f2eebc5f74c463096bd417434092bbcfef3b9774b179c23）
+- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml（获取于 2026-10-18T15:59:07Z；SHA-256：119930290bb21bcceb3f3a2b22d4f738ce5d0eb4531652cb7e7ad0dde348e30a）
+- https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval（获取于 2026-10-18T15:59:07Z；SHA-256：5a23805cf7a6122abf01288f46139bb3c7890306678ec0280e9e6d488adb5908）
+- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md（获取于 2026-10-18T15:59:36Z；SHA-256：6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e）
+
+---
+
 ## GUIGuard-Bench public-ladder release
 
 GUIGuard-Bench 公开榜单版本：含 121 条 Android 和 Linux 桌面智能体轨迹，2,002 张截图带区域级隐私标签，用于隐私识别、受保护界面规划和点击定位。
@@ -2331,6 +2612,103 @@ Trajectories, screenshots and annotations are different units and are counted se
 - https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920（获取于 2026-10-18T15:37:19Z；SHA-256：788d251b561c0dfda4b5c6e643c2af0cc683ef8978759e6fa392db2e9548096b）
 - https://raw.githubusercontent.com/Futuresis/GUIGuard-page/df9c709058d7e39d1f9286edd33c9f645aa60b55/index.html（获取于 2026-10-18T15:37:19Z；SHA-256：14fe15c990481087ad504f631dc94d777736373f56344a0746cd77320c3db3b5）
 - https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md（获取于 2026-10-18T15:37:19Z；SHA-256：81a85cdefb48b37f9869eaa61832d9d97f288cbd443be74e07d779f7948ae229）
+
+---
+
+## Gym-Anything
+
+运行时与 CUA-World 任务套件将 Ubuntu、Windows 11、Android 和 macOS 上的真实应用变为让智能体观察屏幕并使用鼠标键盘的环境，配有设置脚本和程序验证器。
+
+- 目录页面：https://awesomecua.com/resources/github-cmu-l3-gym-anything/
+- 原始来源：https://github.com/cmu-l3/gym-anything
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux、Windows、macOS、Android
+- 主题：评测、沙箱、长任务
+- 证据核查日期：2026-10-19T06:44:15Z
+- ID：github:cmu-l3/gym-anything
+
+### 范围记录
+
+Official code of the Gym-Anything paper. The README describes three parts that can be used separately: the core runtime (src/gym_anything), the CUA-World benchmark (benchmarks/cua_world) and reference agents for Claude, Gemini, Qwen, Kimi and other models. The inspected environment configs (Moodle, Power BI Desktop, an Android AVD calculator and macOS Finder) declare screen observations with mouse and keyboard actions on Ubuntu GNOME, Windows 11, Android AVD 34 and macOS bases; the Finder config also exposes a UI tree, and macOS environments sit in a separate benchmarks/cua_world-macos suite. A task such as moodle_env/enroll_student pairs setup and export hooks with a verifier.py program check and a VLM checklist file. extras/research/software_as_env/creation_audit implements the paper's environment creation-and-audit pipeline, driven by Claude Code by default or Codex CLI. Runners (Docker, Apptainer, QEMU, AVD, AVF, Modal, local and Sandweave) differ in caching, snapshot and recording support. Code was read.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-cmu-l3-gym-anything/record.json
+
+### 结构化规格
+
+- 动作 / 输出：mouse, keyboard
+- 评测方式：Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
+- 侧重：long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
+- 观测：screen frames, UI tree (some macOS environments)
+- 任务设置：interactive
+
+#### 数量记录
+
+- 200 software applications — applications processed into CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
+- > 10,000 long-horizon tasks — CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
+- 7,150 tasks — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出；来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
+- 191 environments — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出；来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
+
+The paper's application and task totals and the repository's verified manifest are different populations; these counts are reported separately. Per-environment split files list train and test tasks, and several cover variant folders of one application; these counts are reported separately.
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/README.md（获取于 2026-10-19T06:44:15Z；SHA-256：11821d717f09b17762937661eed9a2bcb80606ca765de1381f9047fe8c58cf9a）
+- https://api.github.com/repos/cmu-l3/gym-anything/git/trees/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca（获取于 2026-10-19T06:44:16Z；SHA-256：fb2aa984e243b90058d62435ade2aa2ad9e5a3729df6f293e1c9a536f9749f45）
+- https://api.github.com/repos/cmu-l3/gym-anything/git/commits/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca（获取于 2026-10-19T06:44:17Z；SHA-256：cd7d25da944d9deaf995e320d2c0b4752c194557b4fc53da8473c3afee4ec511）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json（获取于 2026-10-19T06:44:17Z；SHA-256：727c6beaff1de5f36bea959037e7346453fb5d40b4817529fa31566acc7fbb04）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/env.json（获取于 2026-10-19T06:44:17Z；SHA-256：ab0398ca5df1d7e8b41357f2a1966c3576f8d2bdd4c6c81db3249a51826a5d9b）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/tasks/enroll_student/task.json（获取于 2026-10-19T06:44:17Z；SHA-256：0d6b81e193cc3a15269c1eb580b91f88c72e607173b21427f7f3ee13b67b9047）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/power_bi_desktop_env/env.json（获取于 2026-10-19T06:44:17Z；SHA-256：f32ac8bb3b99e4ea9550994ac18700066138a2aaa3f835c3e30cce38ca2e6c1b）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/android_avd_calculator_env/env.json（获取于 2026-10-19T06:44:17Z；SHA-256：d1aabfba25b6f586c3054a64bbd3e013b95ff4d012ffea3c2432bb4895e11660）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world-macos/environments/finder_env/env.json（获取于 2026-10-19T06:44:17Z；SHA-256：85f6d078b5b9228bc1aa17b3f73ec3852db0a01a878979112ad2fc10bfedae8f）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/core/runners.mdx（获取于 2026-10-19T06:44:17Z；SHA-256：0756ebcad68e10d820ce586d3b058a65e054f98d7f8540de5e80914e13620635）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/extras/creation-audit.mdx（获取于 2026-10-19T06:44:57Z；SHA-256：201cb50510bf7b7c9f56bdbffb43f75baa1fc1cf24edce4c39f66ddd34461a37）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/LICENSE（获取于 2026-10-19T06:44:18Z；SHA-256：d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614）
+- https://arxiv.org/abs/2604.06126v1（获取于 2026-10-19T06:44:18Z；SHA-256：89fe4dad54d6ef84e001d5b7c46375946223e1a3bf6a041ca2925a883e9a767a）
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE（获取于 2026-10-19T06:45:58Z；SHA-256：d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614）
+
+---
+
+## Gym-Anything-RT
+
+Gym-Anything-RT 用成对的实时与不限时浏览器小游戏评测依靠截图行动的智能体。其运行器可暂停或放慢游戏时钟，以区分时间因素的影响。
+
+- 目录页面：https://awesomecua.com/resources/github-gym-anything-gym-anything-rt/
+- 原始来源：https://github.com/gym-anything/gym-anything-rt
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面、Linux
+- 主题：评测、效率、沙箱
+- 证据核查日期：2026-11-09T19:57:06Z
+- ID：github:gym-anything/gym-anything-rt
+
+### 范围记录
+
+The README reports 100 real-time minigames with non-real-time counterparts, five difficulty levels, and two interaction modes. It describes benchmark environments, splits, graders, agents, and an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-gym-anything-gym-anything-rt/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/README.md（获取于 2026-11-09T19:57:06Z；SHA-256：cb6c110b595d725b0dca10f598158e8c5e98b1a64e683c4bb5160a9c20397223）
+- https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/LICENSE（获取于 2026-11-09T14:20:51Z；SHA-256：813d1fbc50ef21c3581c6cfd5733aed82db3b5850042fde0629db45afa6d082e）
 
 ---
 
@@ -2499,6 +2877,40 @@ Application coverage refers to the self-constructed subset. Task execution and e
 
 ---
 
+## mac-agent-bench
+
+mac-agent-bench 在已登录的 Mac 上运行电脑操作工具，以脚本检查任务结果，同时测量前台应用和光标的变化。
+
+- 目录页面：https://awesomecua.com/resources/github-prithviseran-mac-agent-bench/
+- 原始来源：https://github.com/PrithviSeran/mac-agent-bench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS
+- 主题：评测、可观测性、跨应用
+- 证据核查日期：2026-11-09T19:57:10Z
+- ID：github:prithviseran/mac-agent-bench
+
+### 范围记录
+
+The README describes a Python runner, MCP adapter files, task setup and check scripts, JSONL results, and per-trial transcripts. It states an MIT license for the harness and tasks. The source explicitly names MacAgentBench as another benchmark.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-prithviseran-mac-agent-bench/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/PrithviSeran/mac-agent-bench/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/PrithviSeran/mac-agent-bench/HEAD/README.md（获取于 2026-11-09T19:57:10Z；SHA-256：6562e408af5fe630309dd75817338ba109734a97fff1dcf5f3069368eed54cf6）
+- https://raw.githubusercontent.com/PrithviSeran/mac-agent-bench/HEAD/LICENSE（获取于 2026-11-09T14:20:53Z；SHA-256：83b091fc55f2296c5f0598af15b9ccd1dc4da9354264dcfaf96994e6928683ef）
+
+---
+
 ## MacAgentBench
 
 MacAgentBench 包含覆盖 25 个应用的 676 项 macOS 任务；每项任务在独立 Docker 容器中运行，通过含多个检查点的确定性规则检查评分。
@@ -2542,6 +2954,40 @@ The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framewo
 - https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md（获取于 2026-10-16T06:35:59Z；SHA-256：f1f8c0cd5d984e4026abea858b54f0f1427c018cad7e75322e744f1e070225a9）
 - https://export.arxiv.org/api/query?id_list=2605.06761%2C2605.07110%2C2605.07134%2C2605.09497%2C2605.11212%2C2605.12481%2C2605.12501%2C2605.12549%2C2605.13631%2C2605.14290%2C2605.14747%2C2605.15030%2C2605.15542%2C2605.15777%2C2605.16024%2C2605.16116%2C2605.16402%2C2605.17320%2C2605.18048%2C2605.18652%2C2605.18758%2C2605.19260%2C2605.19769%2C2605.21470%2C2605.25160%2C2605.25624%2C2605.25707%2C2605.26114%2C2605.27761%2C2605.28116%2C2605.28534%2C2605.28646%2C2605.28775%2C2605.29119%2C2605.29324%2C2605.29447%2C2605.29486%2C2605.29534%2C2605.29615%2C2606.06322%2C2606.09426%2C2606.11042%2C2606.22557%2C2606.23189%2C2606.24551%2C2608.17659%2C2609.22000%2C2609.34139&max_results=48（获取于 2026-10-16T06:32:03Z；SHA-256：2adad07a9ec7189aea25e48c76fa28206eda97f8974d5745cadda9529103bb1a）
 - https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/LICENSE（获取于 2026-10-16T06:41:59Z；SHA-256：adf69997028988ba1eec34666afa119e007771dfc8e830c5dc50ad650896e897）
+
+---
+
+## macOSWorld
+
+macOSWorld 在 30 款 macOS 应用的任务中，以五种语言评测 GUI 智能体。它提供用于 AWS macOS 实例的 Python 测试框架和安全任务子集。
+
+- 目录页面：https://awesomecua.com/resources/github-showlab-macosworld/
+- 原始来源：https://github.com/showlab/macosworld
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS
+- 主题：评测、安全与防护、工作流
+- 证据核查日期：2026-11-09T19:57:51Z
+- ID：github:showlab/macosworld
+
+### 范围记录
+
+The repository includes task files, agent adapters, evaluation scripts, and instructions for configuring AWS instances. Its README cites arXiv:2506.04135 as the benchmark paper.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-showlab-macosworld/record.json
+
+### 许可证信息
+
+- 代码：CC-BY-NC-4.0 — https://raw.githubusercontent.com/showlab/macosworld/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/showlab/macosworld/HEAD/readme.md（获取于 2026-11-09T19:57:51Z；SHA-256：c92b717dfd531c9703d82e8e5d9c35b3d9577bce6b94b0a714f80522ffdb1d57）
+- https://raw.githubusercontent.com/showlab/macosworld/HEAD/LICENSE（获取于 2026-11-09T14:21:16Z；SHA-256：41003d4a74749c0220e33dd415042164b5a1093ed401f36277234f772d22d3d0）
 
 ---
 
@@ -2838,6 +3284,73 @@ This released split table totals 9,799 examples; paper-level collection size is 
 
 ---
 
+## only-cli/benchmarks
+
+这套可复现的基准测试比较智能体读取实时网页所用的工具，通过页面查看和浏览任务衡量内容获取情况、耗时及令牌用量。
+
+- 目录页面：https://awesomecua.com/resources/github-only-cli-benchmarks/
+- 原始来源：https://github.com/only-cli/benchmarks
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、效率、网页导航
+- 证据核查日期：2026-11-09T19:57:00Z
+- ID：github:only-cli/benchmarks
+
+### 范围记录
+
+The repository includes task definitions, tool adapters, runner scripts and saved results. Agent suites require a logged-in Claude or Codex CLI.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-only-cli-benchmarks/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/only-cli/benchmarks/HEAD/README.md（获取于 2026-11-09T19:57:00Z；SHA-256：d1d8d9e19d8c570f9b8d0af19bfacb353c0e3c9256021bd4f6c714ab03fffe58）
+
+---
+
+## OpenAgentSafety
+
+这是一个智能体安全基准，采用涉及浏览器、文件系统、终端和消息工具的多步模拟任务，测试智能体如何应对含糊、冲突和对抗性指令。
+
+- 目录页面：https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/
+- 原始来源：https://github.com/Open-Agent-Safety/OpenAgentSafety
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页、桌面
+- 主题：评测、安全与防护、工具集成、长任务
+- 证据核查日期：2026-11-09T19:57:44Z
+- ID：github:open-agent-safety/openagentsafety
+
+### 范围记录
+
+The repository includes task and evaluation code and uses services launched through Docker. Its README calls the codebase legacy and points to an updated evaluation implementation. The source declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/Open-Agent-Safety/OpenAgentSafety/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Open-Agent-Safety/OpenAgentSafety/HEAD/README.md（获取于 2026-11-09T19:57:44Z；SHA-256：34cc82678478704f82932d9e5cc79ee6ee2a2dc3d43cdfc746d1a682c0273de5）
+- https://raw.githubusercontent.com/Open-Agent-Safety/OpenAgentSafety/HEAD/LICENSE（获取于 2026-11-09T14:21:16Z；SHA-256：2d6976a9b482bb14d9cd4f0d97ce6e14305496f1649b8667cb91d027c670930f）
+
+---
+
 ## OS-Harm
 
 评估计算机使用智能体在滥用、提示注入和模型意外行为方面安全性的基准。
@@ -2923,6 +3436,69 @@ OSWorld 2.0 通过更新的任务集、轨迹查看器和容器沙箱，评测�
 
 ---
 
+## PersonalAlign
+
+PersonalAlign 发布 AndroidIntent 评测，用于测试个性化移动界面智能体，并提供利用长期交互记录的 HIM-Agent 记忆方法。
+
+- 目录页面：https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/
+- 原始来源：https://github.com/iLearn-Lab/ACL26-PersonalAlign
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：评测、记忆、交互历史、手机操作
+- 证据核查日期：2026-11-09T19:57:38Z
+- ID：github:ilearn-lab/acl26-personalalign
+
+### 范围记录
+
+The README gives evaluation scripts for personalized execution, proactive suggestion, and HIM-Agent memory. It instructs users to download FingerTip 20k separately before evaluation.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/iLearn-Lab/ACL26-PersonalAlign/HEAD/README.md（获取于 2026-11-09T19:57:38Z；SHA-256：b72e0a0967afa15da61ffcc59db4f10e41f26963df8a1a32373124b0d812d16a）
+
+---
+
+## Plasmate Benchmarks
+
+Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟、内存和 token 效率评测。
+
+- 目录页面：https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
+- 原始来源：https://github.com/plasmate-labs/plasmate-benchmarks
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、效率
+- 证据核查日期：2026-11-04T13:12:31Z
+- ID：github:plasmate-labs/plasmate-benchmarks
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md（获取于 2026-11-04T13:12:31Z；SHA-256：a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6）
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE（获取于 2026-11-04T13:22:33Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
+
+---
+
 ## PopupAttack
 
 用于评估 GUI 智能体在恶意弹窗指令下表现的资源。
@@ -2982,6 +3558,40 @@ PPTC 是 PowerPoint 创建与编辑基准，通过 API 执行任务，并检查�
 
 ---
 
+## REAL
+
+一个浏览器智能体评测工具包，提供可复现的网站副本、任务目标、智能体 API 和评测框架。
+
+- 目录页面：https://awesomecua.com/resources/github-agi-inc-real/
+- 原始来源：https://github.com/agi-inc/REAL
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、沙箱、网页导航
+- 证据核查日期：2026-11-09T19:55:56Z
+- ID：github:agi-inc/real
+
+### 范围记录
+
+The source includes SDK installation instructions and custom-agent examples. Evaluation requires browser dependencies and a model API key.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-agi-inc-real/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/README.md（获取于 2026-11-09T19:55:56Z；SHA-256：b3ab8cc93c834bf26b59a67c3f0d30d30602f5f1aad1fe4a1f4864f263f87e79）
+- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE（获取于 2026-11-09T14:20:31Z；SHA-256：229b91680e13d4ec18779fae8da1f75958703be023e14fb3149f8d96c1e254d6）
+
+---
+
 ## RecreationBench
 
 通过混合式计算机交互复刻参考应用的任务。
@@ -3012,6 +3622,35 @@ Dataset card declares multiple upstream licenses; do not treat the package as ha
 ### 一手证据
 
 - https://huggingface.co/datasets/Qwen/RecreationBench/raw/main/README.md（获取于 2026-10-16T06:50:49Z；SHA-256：79deaa899d085ece77a127d53b12ddb9edea8a796943f35b75e9acec67bcb976）
+
+---
+
+## RiOSWorld
+
+在 Ubuntu 虚拟机中衡量多模态计算机使用智能体的风险行为，包含钓鱼邮件等风险场景，并发布评估轨迹。
+
+- 目录页面：https://awesomecua.com/resources/github-yjyddq-riosworld/
+- 原始来源：https://github.com/yjyddq/RiOSWorld
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：评测
+- 证据核查日期：2026-10-16T06:35:59Z
+- ID：github:yjyddq/riosworld
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-yjyddq-riosworld/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/yjyddq/RiOSWorld/HEAD/README.md（获取于 2026-10-16T06:35:59Z；SHA-256：c984f114df33af953a97d22e14e14246f8a98e0866edcaf283900b309b71d8d1）
 
 ---
 
@@ -3061,6 +3700,35 @@ The two task subsets partition the 340 tasks. The integrated agent and evaluator
 - https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md（获取于 2026-10-16T06:35:58Z；SHA-256：5294a67728072a3658cb2073bdf9a084fe3c00d87a848923dff68adb35213072）
 - https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/Documentation.md（获取于 2026-10-17T02:03:23Z；SHA-256：a55290d62f8823097c73d74bac4eb08853a3caff724382e60a6a9364e7ced987）
 - https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/LICENSE（获取于 2026-10-16T06:41:58Z；SHA-256：6962bfc8ee16c6e985e4fb680b8fe46d5b34d30f7cb8a1e61fd4c55c93120ddf）
+
+---
+
+## Spider Browser Dataset
+
+Spider Browser Dataset 在 18 个类别的 999 个 URL 和 327 个域名上评测浏览器自动化和抗反机器人机制的能力。
+
+- 目录页面：https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/
+- 原始来源：https://github.com/spider-rs/spider-browser-dataset
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、鲁棒性
+- 证据核查日期：2026-11-04T14:41:50Z
+- ID：github:spider-rs/spider-browser-dataset
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/spider-rs/spider-browser-dataset/HEAD/README.md（获取于 2026-11-04T14:41:50Z；SHA-256：c36ad209f9c755d27220572906ba8674a0b88a2f78078b8e72fbc75810a74f78）
 
 ---
 
@@ -3127,6 +3795,40 @@ The README describes 200 English tasks and 200 mirrored Chinese tasks, with an e
 
 ---
 
+## VG-GUI-Bench
+
+一个根据教程视频、先前动作和当前屏幕预测移动端界面动作的基准，发布了逐步标注、视频和参考帧。
+
+- 目录页面：https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/
+- 原始来源：https://huggingface.co/datasets/Aoraku/VG-GUI-Bench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：评测、视频、手机操作、动作预测
+- 证据核查日期：2026-11-09T19:55:51Z
+- ID：url:3e3ca34dbdaf3190465c
+
+### 范围记录
+
+The card reports 100 episodes and 1,071 annotated steps. It describes a JSON annotation file, source tutorial videos, eight reference-frame modes, and an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：mit — https://huggingface.co/datasets/Aoraku/VG-GUI-Bench
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://huggingface.co/api/datasets/Aoraku/VG-GUI-Bench（获取于 2026-11-09T19:55:51Z；SHA-256：2adf52772b0107386cbb0f18a15c013c768c3c9d4ac8b0991a402ca53ce0573e）
+- https://huggingface.co/api/datasets/Aoraku/VG-GUI-Bench（获取于 2026-11-09T19:55:51Z；SHA-256：2adf52772b0107386cbb0f18a15c013c768c3c9d4ac8b0991a402ca53ce0573e）
+
+---
+
 ## VideoGUI
 
 基于教学视频构建的桌面 GUI 任务基准。
@@ -3153,6 +3855,40 @@ The README describes 200 English tasks and 200 mirrored Chinese tasks, with an e
 ### 一手证据
 
 - https://raw.githubusercontent.com/showlab/videogui/HEAD/README.md（获取于 2026-10-16T06:35:58Z；SHA-256：1a21631fb312cc7eac35547792611a84f13dcf756a3cf92209676ccdb92cbc6b）
+
+---
+
+## vimgolf-gym
+
+这是一个面向 VimGolf 任务的类 Gym 基准，可让智能体向 Vim 发送按键、截取屏幕截图，并按正确性和按键次数评估解法。
+
+- 目录页面：https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/
+- 原始来源：https://github.com/James4Ever0/vimgolf-gym
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面
+- 主题：评测、自动化、沙箱
+- 证据核查日期：2026-11-09T19:56:57Z
+- ID：github:james4ever0/vimgolf-gym
+
+### 范围记录
+
+The package provides local, online and custom challenges, plus a Docker execution option. The README includes action, screenshot, verification and scoring examples.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/record.json
+
+### 许可证信息
+
+- 代码：Unlicense — https://raw.githubusercontent.com/James4Ever0/vimgolf-gym/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/James4Ever0/vimgolf-gym/HEAD/README.md（获取于 2026-11-09T19:56:57Z；SHA-256：a804950d1cfa50d7ea838795eaf77e91fd7b5a3894a15064d5ac5ea7492cb8ff）
+- https://raw.githubusercontent.com/James4Ever0/vimgolf-gym/HEAD/LICENSE（获取于 2026-11-09T14:20:47Z；SHA-256：6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e）
 
 ---
 
@@ -3242,6 +3978,72 @@ The repository holds three more environment directories than the blog's release 
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/vision_agents.py（获取于 2026-10-20T04:06:22Z；SHA-256：03c1cf3728ac0977ed56a9b1dfe52a0bef979443802905d0ea16fa1d88bfd5dc）
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/docs/environment-protocol.md（获取于 2026-10-20T04:06:22Z；SHA-256：21a54a5f85b4cc75539af061d8b066fa582941fc40268d1052dfe17062d46d44）
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/HEAD/LICENSE（获取于 2026-10-20T04:07:54Z；SHA-256：8954170f22d127cd7d0b7d1d62c25356d0989167eec26e68c69782892e480b94）
+
+---
+
+## WebReplayBench
+
+一个网页智能体基准，提供本地商店网站、BrowserGym 任务和数据库审计记录，用于衡量任务完成情况以及回溯时的重复写入。
+
+- 目录页面：https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/
+- 原始来源：https://github.com/mahirlabibdihan/WebReplayBench
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、状态追踪、安全与防护
+- 证据核查日期：2026-11-09T19:57:08Z
+- ID：github:mahirlabibdihan/webreplaybench
+
+### 范围记录
+
+The README lists 20 tasks, 100 instrumented elements, and JSON scenario files. Running the site requires Node and PostgreSQL; a Docker setup is also documented.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/mahirlabibdihan/WebReplayBench/HEAD/README.md（获取于 2026-11-09T19:57:08Z；SHA-256：4de49715d062c3c24329571d1e3c3ffe4c7f7efd3b26a21f2353b0adee3f61b3）
+
+---
+
+## WebRetriever
+
+WebRetriever 提供网页智能体评测运行器，并利用采集到的网络请求、操作和页面 URL 判断任务是否完成。
+
+- 目录页面：https://awesomecua.com/resources/github-mininglamp-ai-webretriever/
+- 原始来源：https://github.com/Mininglamp-AI/WebRetriever
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、网页导航、可观测性
+- 证据核查日期：2026-11-09T19:55:43Z
+- ID：github:mininglamp-ai/webretriever
+
+### 范围记录
+
+The repository includes example tasks, launch scripts, agent code and NavEval code. Its setup uses Playwright and task data hosted on Hugging Face; the source declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-mininglamp-ai-webretriever/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Mininglamp-AI/WebRetriever/HEAD/README.md（获取于 2026-11-09T19:55:43Z；SHA-256：fcf53577ad17c2e3255605efdbae11abab08f6b0b20a9164021d1d3a5acef654）
 
 ---
 
@@ -3343,6 +4145,39 @@ V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are t
 
 - https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md（获取于 2026-10-17T02:42:32Z；SHA-256：c4cfc361d1d47d7855269af4110483363964e23f9c65244a1182830eccccbb7f）
 - https://huggingface.co/api/datasets/microsoft/WebTailBench（获取于 2026-10-17T02:42:32Z；SHA-256：93469a20d333219dde89a225891a54ee716120d559eb8ac9f69a1a7ee84f57a3）
+
+---
+
+## WebUIProof
+
+一个包含 149 项网页界面生成任务及结构化测试用例的基准，并使用视觉语言智能体在浏览器中测试生成的界面。
+
+- 目录页面：https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/
+- 原始来源：https://github.com/yunyuntsai/webuiproof-benchmark
+- 类型：评测基准
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：评测、界面设计、网页导航
+- 证据核查日期：2026-11-09T19:56:02Z
+- ID：github:yunyuntsai/webuiproof-benchmark
+
+### 范围记录
+
+The repository lists task files, evaluation code, result files, and training data. Its instructions specify an API key and a local web application setup.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/yunyuntsai/webuiproof-benchmark/HEAD/README.md（获取于 2026-11-09T19:56:02Z；SHA-256：ff8d4a9d821839772032e5d4b764ca8fd5e2211ad74e69ad3ec27d93024cf095）
 
 ---
 
@@ -3556,66 +4391,6 @@ agentB 是评测基准，用于评测开放网页智能体在真实知识工作�
 
 - https://raw.githubusercontent.com/beme08/agentb/HEAD/README.md（获取于 2026-11-04T16:30:12Z；SHA-256：37559ee669543cde359a723b3366bd62768c630ea330a3ec893f7ff2760a1652）
 - https://raw.githubusercontent.com/beme08/agentb/HEAD/LICENSE（获取于 2026-11-04T16:34:22Z；SHA-256：8f0d6c2682c3751cb502003e52bc9af3cc0aa85023c62a8a245070312d0e6526）
-
----
-
-## AgentCIBench
-
-计算机使用智能体的上下文完整性基准：117 个合成多应用工作区场景，将信息不完整的请求与必须共享和禁止共享的信息清单配对，另含 50 个实时 UI 场景的子集。
-
-- 目录页面：https://awesomecua.com/resources/url-d7f35409d35584385097/
-- 原始来源：https://huggingface.co/datasets/UKPLab/agentcibench
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、安全与防护、跨应用
-- 证据核查日期：2026-10-19T06:04:29Z
-- ID：url:d7f35409d35584385097
-
-### 范围记录
-
-Each scenario is a JSON snapshot of app states in the OpenApps workspace (messenger, todo, calendar, code editor, maps and shopping apps) with a task prompt and a disclosure policy. The card's test split serves the state-grounded reasoning track; test_e2e is a 50-scenario subset of it (all IDs overlap) for runs in the rendered UI, which the code README describes as a local multi-app web environment driven through Playwright; seeds holds 36 disjoint hand-written scenarios. The card says source is seed or mcts, but every released row reads seed or legacy_pilot_seed. The code repository linked as ukplab/arxiv2026-agentcibench now resolves to UKPLab/emnlp2026-agentcibench (GitHub API), and the card's second code link, agentcibench/agentcibench, returns 404. The 67.9% average leakage over 15 agents is a publisher figure. CC BY 4.0 is the card's data declaration; the code is a separate Apache-2.0 release.
-
-- 完整记录 JSON：https://awesomecua.com/resources/url-d7f35409d35584385097/record.json
-
-### 结构化规格
-
-- 动作 / 输出：GUI actions in the rendered workspace (live-UI subset), content shared or sent through the workspace apps
-- 评测方式：The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
-- 侧重：contextual-integrity compliance of computer-use agents, information disclosure across personal apps
-- 观测：decoded app states, rendered app UI (live-UI subset), natural-language task prompts
-- 任务设置：mixed
-
-#### 数量记录
-
-- 117 scenarios — test split（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 50 scenarios — test_e2e split (subset of test used for live-UI evaluation)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 36 scenarios — seeds split (hand-written seed scenarios)（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 75 scenarios — test split, failure mode task_ambiguity_overshare（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 24 scenarios — test split, failure mode recipient_misalignment（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-- 18 scenarios — test split, failure mode visual_co_location（来源报告；来源：https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md）
-
-Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test; seeds share separate IDs.
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：cc-by-4.0 — https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md（获取于 2026-10-19T06:04:29Z；SHA-256：3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde）
-- https://huggingface.co/api/datasets/UKPLab/agentcibench/revision/f5523cb986828ee77bc505120a933f114bbcf4f3（获取于 2026-10-19T06:04:29Z；SHA-256：2ae68d96a7bff7a2eb78f323c3e87b09768812c06f2a2e0aadbaee2d627f5f7d）
-- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test-00000-of-00001.jsonl（获取于 2026-10-19T06:04:29Z；SHA-256：709d43e4e09d2f3558d9290b8bdf4c15e95e4fefc29a56be6d12b52e646c99d7）
-- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test_e2e-00000-of-00001.jsonl（获取于 2026-10-19T06:04:30Z；SHA-256：9aced6b0d1e1368c28b3b110ba85e79a935b501a03a3c1b48fb97996dd4c05b2）
-- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/seeds-00000-of-00001.jsonl（获取于 2026-10-19T06:04:30Z；SHA-256：1b1a458c15ac64d63b7f6c20fab23740115a2b09d151ceeeb6f2c353c97f5418）
-- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/README.md（获取于 2026-10-19T06:04:30Z；SHA-256：f836c578d6fea20f7b38092071a9646d2db19b422fe6117d57e6de57ab5e1324）
-- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/mcts/reward_judge.py（获取于 2026-10-19T06:04:30Z；SHA-256：9527a682f91c5d7455853f392096ad47f117e35a14fda01b03969a4ef9c3bdc5）
-- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/eval/metrics.py（获取于 2026-10-19T06:04:30Z；SHA-256：c51a95f1e0df49d627e986e6be845e3917260f4d1e82991bd88fecb6724dda24）
-- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md（获取于 2026-10-19T06:04:29Z；SHA-256：3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde）
 
 ---
 
@@ -5789,58 +6564,6 @@ Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2
 
 ---
 
-## GUI-Perturbed
-
-逐步网页定位基准，对 Mind2Web 页面施加样式、缩放和文字大小扰动后重新渲染，并将每张截图与直接或关系型指令及目标框配对。
-
-- 目录页面：https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/
-- 原始来源：https://huggingface.co/datasets/figai/GUI-Perturbed
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：GUI 定位、评测、鲁棒性
-- 证据核查日期：2026-10-18T15:59:36Z
-- ID：url:7ed70b39ac79f97f8a87
-
-### 范围记录
-
-The card YAML at revision 727c857b lists one eval split of 3,120 examples in four Parquet shards, with screenshot, instruction, gt_bbox, visual_variant, instruction_type, task_id and step_index fields. Hugging Face dataset-viewer statistics show 780 rows for each of four visual variants (labelled original, style, precision and text_shrink; the card calls the first one baseline) and 1,560 rows for each of the direct and relational instruction types, so the card's per-variant sample size of 390 covers one instruction type. The card designates the set for evaluation and asks that it be reserved from training; the pages come from Mind2Web MHTML archives. eval.yaml names point-in-bbox accuracy. The card declares CC BY 4.0 for the dataset.
-
-- 完整记录 JSON：https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/record.json
-
-### 结构化规格
-
-- 动作 / 输出：predicted target location
-- 评测方式：eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
-- 侧重：step-level web GUI element localization, robustness to visual and instruction perturbations
-- 观测：rendered web-page screenshots, natural-language instructions
-- 任务设置：offline
-
-#### 数量记录
-
-- 3,120 examples — eval split at revision 727c857b（来源报告；来源：https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md）
-- 283 distinct Mind2Web task IDs — eval split（计算得出；来源：https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval）
-
-Each example is one screenshot, instruction and target box; four visual variants are crossed with two instruction types. Examples, source tasks and visual variants are different units.
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：cc-by-4.0 — https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md（获取于 2026-10-18T15:59:36Z；SHA-256：6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e）
-- https://huggingface.co/api/datasets/figai/GUI-Perturbed/revision/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7（获取于 2026-10-18T15:59:07Z；SHA-256：55c9358d6269d88f6f2eebc5f74c463096bd417434092bbcfef3b9774b179c23）
-- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml（获取于 2026-10-18T15:59:07Z；SHA-256：119930290bb21bcceb3f3a2b22d4f738ce5d0eb4531652cb7e7ad0dde348e30a）
-- https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval（获取于 2026-10-18T15:59:07Z；SHA-256：5a23805cf7a6122abf01288f46139bb3c7890306678ec0280e9e6d488adb5908）
-- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md（获取于 2026-10-18T15:59:36Z；SHA-256：6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e）
-
----
-
 ## GUI-Robust
 
 提供评估脚本和关联数据，用于比较普通及异常界面条件下的 GUI 操作预测和任务执行。
@@ -6064,69 +6787,6 @@ The release describes code, configurations and defective APKs. Its setup require
 ### 一手证据
 
 - https://raw.githubusercontent.com/ADaM-BJTU/GUITestBench/HEAD/README.md（获取于 2026-11-09T05:05:07Z；SHA-256：d6015bad95ce9ae964268ac8c45da79883574b5dd734a884f91f92ce1fe93db4）
-
----
-
-## Gym-Anything
-
-运行时与 CUA-World 任务套件将 Ubuntu、Windows 11、Android 和 macOS 上的真实应用变为让智能体观察屏幕并使用鼠标键盘的环境，配有设置脚本和程序验证器。
-
-- 目录页面：https://awesomecua.com/resources/github-cmu-l3-gym-anything/
-- 原始来源：https://github.com/cmu-l3/gym-anything
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、Linux、Windows、macOS、Android
-- 主题：评测、沙箱、长任务
-- 证据核查日期：2026-10-19T06:44:15Z
-- ID：github:cmu-l3/gym-anything
-
-### 范围记录
-
-Official code of the Gym-Anything paper. The README describes three parts that can be used separately: the core runtime (src/gym_anything), the CUA-World benchmark (benchmarks/cua_world) and reference agents for Claude, Gemini, Qwen, Kimi and other models. The inspected environment configs (Moodle, Power BI Desktop, an Android AVD calculator and macOS Finder) declare screen observations with mouse and keyboard actions on Ubuntu GNOME, Windows 11, Android AVD 34 and macOS bases; the Finder config also exposes a UI tree, and macOS environments sit in a separate benchmarks/cua_world-macos suite. A task such as moodle_env/enroll_student pairs setup and export hooks with a verifier.py program check and a VLM checklist file. extras/research/software_as_env/creation_audit implements the paper's environment creation-and-audit pipeline, driven by Claude Code by default or Codex CLI. Runners (Docker, Apptainer, QEMU, AVD, AVF, Modal, local and Sandweave) differ in caching, snapshot and recording support. Code was read.
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-cmu-l3-gym-anything/record.json
-
-### 结构化规格
-
-- 动作 / 输出：mouse, keyboard
-- 评测方式：Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
-- 侧重：long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
-- 观测：screen frames, UI tree (some macOS environments)
-- 任务设置：interactive
-
-#### 数量记录
-
-- 200 software applications — applications processed into CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
-- > 10,000 long-horizon tasks — CUA-World (paper v1 abstract)（来源报告；来源：https://arxiv.org/abs/2604.06126v1）
-- 7,150 tasks — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出；来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
-- 191 environments — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967（计算得出；来源：https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json）
-
-The paper's application and task totals and the repository's verified manifest are different populations; these counts are reported separately. Per-environment split files list train and test tasks, and several cover variant folders of one application; these counts are reported separately.
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/README.md（获取于 2026-10-19T06:44:15Z；SHA-256：11821d717f09b17762937661eed9a2bcb80606ca765de1381f9047fe8c58cf9a）
-- https://api.github.com/repos/cmu-l3/gym-anything/git/trees/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca（获取于 2026-10-19T06:44:16Z；SHA-256：fb2aa984e243b90058d62435ade2aa2ad9e5a3729df6f293e1c9a536f9749f45）
-- https://api.github.com/repos/cmu-l3/gym-anything/git/commits/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca（获取于 2026-10-19T06:44:17Z；SHA-256：cd7d25da944d9deaf995e320d2c0b4752c194557b4fc53da8473c3afee4ec511）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json（获取于 2026-10-19T06:44:17Z；SHA-256：727c6beaff1de5f36bea959037e7346453fb5d40b4817529fa31566acc7fbb04）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/env.json（获取于 2026-10-19T06:44:17Z；SHA-256：ab0398ca5df1d7e8b41357f2a1966c3576f8d2bdd4c6c81db3249a51826a5d9b）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/tasks/enroll_student/task.json（获取于 2026-10-19T06:44:17Z；SHA-256：0d6b81e193cc3a15269c1eb580b91f88c72e607173b21427f7f3ee13b67b9047）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/power_bi_desktop_env/env.json（获取于 2026-10-19T06:44:17Z；SHA-256：f32ac8bb3b99e4ea9550994ac18700066138a2aaa3f835c3e30cce38ca2e6c1b）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/android_avd_calculator_env/env.json（获取于 2026-10-19T06:44:17Z；SHA-256：d1aabfba25b6f586c3054a64bbd3e013b95ff4d012ffea3c2432bb4895e11660）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world-macos/environments/finder_env/env.json（获取于 2026-10-19T06:44:17Z；SHA-256：85f6d078b5b9228bc1aa17b3f73ec3852db0a01a878979112ad2fc10bfedae8f）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/core/runners.mdx（获取于 2026-10-19T06:44:17Z；SHA-256：0756ebcad68e10d820ce586d3b058a65e054f98d7f8540de5e80914e13620635）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/extras/creation-audit.mdx（获取于 2026-10-19T06:44:57Z；SHA-256：201cb50510bf7b7c9f56bdbffb43f75baa1fc1cf24edce4c39f66ddd34461a37）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/LICENSE（获取于 2026-10-19T06:44:18Z；SHA-256：d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614）
-- https://arxiv.org/abs/2604.06126v1（获取于 2026-10-19T06:44:18Z；SHA-256：89fe4dad54d6ef84e001d5b7c46375946223e1a3bf6a041ca2925a883e9a767a）
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE（获取于 2026-10-19T06:45:58Z；SHA-256：d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614）
 
 ---
 
@@ -7941,36 +8601,6 @@ pantheon-webarena 将容器化 WebArena 环境与重置、健康检查和并行�
 
 ---
 
-## Plasmate Benchmarks
-
-Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟、内存和 token 效率评测。
-
-- 目录页面：https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
-- 原始来源：https://github.com/plasmate-labs/plasmate-benchmarks
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航、效率
-- 证据核查日期：2026-11-04T13:12:31Z
-- ID：github:plasmate-labs/plasmate-benchmarks
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
-
-### 许可证信息
-
-- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md（获取于 2026-11-04T13:12:31Z；SHA-256：a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6）
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE（获取于 2026-11-04T13:22:33Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
-
----
-
 ## pms-race
 
 面向操作传统物业管理网页 UI 的计算机使用智能体的并发评测基准，用于衡量竞态条件和重复预订。
@@ -8228,35 +8858,6 @@ Resurf 是确定性、可复现的测试环境，用于在真实的网页故障�
 
 - https://raw.githubusercontent.com/lightfeed/resurf/HEAD/README.md（获取于 2026-11-04T16:10:34Z；SHA-256：91a449c93c0178ed90755f4eaa996f24891ad75bca15b8711e5611a008105d8c）
 - https://raw.githubusercontent.com/lightfeed/resurf/HEAD/LICENSE（获取于 2026-11-04T16:13:33Z；SHA-256：cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30）
-
----
-
-## RiOSWorld
-
-在 Ubuntu 虚拟机中衡量多模态计算机使用智能体的风险行为，包含钓鱼邮件等风险场景，并发布评估轨迹。
-
-- 目录页面：https://awesomecua.com/resources/github-yjyddq-riosworld/
-- 原始来源：https://github.com/yjyddq/RiOSWorld
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：桌面、Linux
-- 主题：评测
-- 证据核查日期：2026-10-16T06:35:59Z
-- ID：github:yjyddq/riosworld
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-yjyddq-riosworld/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/yjyddq/RiOSWorld/HEAD/README.md（获取于 2026-10-16T06:35:59Z；SHA-256：c984f114df33af953a97d22e14e14246f8a98e0866edcaf283900b309b71d8d1）
 
 ---
 
@@ -8630,35 +9231,6 @@ Solari 上的自主游戏测试智能体和评测测试框架，从 Git 构建�
 
 - https://raw.githubusercontent.com/moazessam376-dev/solari-playtest/main/README.md（获取于 2026-11-04T18:11:32Z；SHA-256：9c34786a1969fdc2d9811edfce4b12c99ff6f07082ac178c5617319c97cebf6d）
 - https://raw.githubusercontent.com/moazessam376-dev/solari-playtest/HEAD/LICENSE（获取于 2026-11-04T18:16:07Z；SHA-256：11d02dddb55d18a2ef39470fadd7fdd7a8aedf88bec62eea1426a76c338e4541）
-
----
-
-## Spider Browser Dataset
-
-Spider Browser Dataset 在 18 个类别的 999 个 URL 和 327 个域名上评测浏览器自动化和抗反机器人机制的能力。
-
-- 目录页面：https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/
-- 原始来源：https://github.com/spider-rs/spider-browser-dataset
-- 类型：评测基准
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：评测、网页导航、鲁棒性
-- 证据核查日期：2026-11-04T14:41:50Z
-- ID：github:spider-rs/spider-browser-dataset
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/record.json
-
-### 许可证信息
-
-- 代码：未记录
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/spider-rs/spider-browser-dataset/HEAD/README.md（获取于 2026-11-04T14:41:50Z；SHA-256：c36ad209f9c755d27220572906ba8674a0b88a2f78078b8e72fbc75810a74f78）
 
 ---
 

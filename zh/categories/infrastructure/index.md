@@ -1,6 +1,6 @@
 # 计算机使用智能体基础设施
 
-> AwesomeCUA 目录收录 90 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T16:17:01Z。
+> AwesomeCUA 目录收录 101 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](https://awesomecua.com/categories/infrastructure/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -255,6 +255,45 @@ The README describes nightly binaries for Linux and macOS and says there is no n
 ### 一手证据
 
 - https://raw.githubusercontent.com/nut-tree/nut.js/HEAD/README.md（获取于 2026-10-16T06:36:04Z；SHA-256：41a6435d6c27a647b4d2170cba476fa6a941b12f8a4ffe41674a508df9e0ea1d）
+
+---
+
+## Universe legacy GUI interaction client
+
+已归档的 Gym 兼容客户端，通过 VNC 为远程应用和浏览器环境提供屏幕观察及键盘、鼠标操作，包括早期的 World of Bits 集成。
+
+- 目录页面：https://awesomecua.com/resources/github-openai-universe/
+- 原始来源：https://github.com/openai/universe
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页、桌面
+- 主题：自动化、强化学习、历史
+- 证据核查日期：2026-10-17T11:20:17Z
+- ID：github:openai/universe
+
+### 范围记录
+
+GitHub marks this repository archived, and the README declares the library deprecated. It contains the client side of Universe; the README says remote-environment source repositories would be released separately. Original MiniWoB task-server or container availability was not established: alpha.openai.com no longer resolved in this audit and the official Quay tag metadata endpoint returned 401. This entry records the released client infrastructure. Legacy host requirements are documented; no container or code was executed.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-openai-universe/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/openai/universe/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+- 代码审核：Official Universe client-source LICENSE; no license or availability claim is transferred to external remote applications or container contents.
+  来源：https://raw.githubusercontent.com/openai/universe/HEAD/LICENSE
+
+### 一手证据
+
+- https://raw.githubusercontent.com/openai/universe/HEAD/README.rst（获取于 2026-10-17T11:20:17Z；SHA-256：b1ca938480d4d36c76fa939c5b10cef11c24465cc1a6a8ee857cec4b939f9d61）
+- https://api.github.com/repos/openai/universe（获取于 2026-10-17T11:18:15Z；SHA-256：94a7a4d383f754b96601bc0486b90e62760b8bfc35abc607077c8eb6e7934b2d）
+- https://api.github.com/repos/openai/universe/git/trees/master?recursive=1（获取于 2026-10-17T11:19:47Z；SHA-256：1808d7524506d1386dad507de8a8fa0f89080443a970ae032cea4c204699d113）
+- https://raw.githubusercontent.com/openai/universe/HEAD/LICENSE（获取于 2026-10-17T11:23:05Z；SHA-256：ecd4a4aacc4512a31bbdc3252ffc014d37ac7ef56ed34bc2a5d0f6337df6daa5）
 
 ---
 
@@ -523,6 +562,40 @@ The repository provides source code and release binaries for Linux, macOS and Wi
 
 ---
 
+## agent-workspace-linux
+
+这款 Linux 工作空间通过 MCP 为智能体提供独立的桌面和浏览器。它支持截屏与输入操作，并提供用于观察和停止智能体的查看器。
+
+- 目录页面：https://awesomecua.com/resources/github-agent-sh-agent-workspace-linux/
+- 原始来源：https://github.com/agent-sh/agent-workspace-linux
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux、网页
+- 主题：沙箱、自动化、网页导航、人机协作
+- 证据核查日期：2026-11-09T19:56:58Z
+- ID：github:agent-sh/agent-workspace-linux
+
+### 范围记录
+
+The README describes X11 and native Wayland backends and provides system package and installation instructions. The repository lists source code, runtime components, protocols, and tests.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-agent-sh-agent-workspace-linux/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/agent-sh/agent-workspace-linux/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/agent-sh/agent-workspace-linux/HEAD/README.md（获取于 2026-11-09T19:56:58Z；SHA-256：5b0c713bbcdfcd9a554987a6ca4f5fb4a7a8302a71255031c780352d803ca95c）
+- https://raw.githubusercontent.com/agent-sh/agent-workspace-linux/HEAD/LICENSE（获取于 2026-11-09T14:20:48Z；SHA-256：865367984df228c2bbf9df7e790b26c3b083376b705375db36a8a032daa03a25）
+
+---
+
 ## AgentDesk
 
 供 AI 智能体通过程序控制的桌面环境，基于 agentd REST 守护进程，可通过 Docker 在本地运行或部署到 Kubernetes，并为 LMM 输入提供坐标网格叠加层。
@@ -550,6 +623,40 @@ The repository provides source code and release binaries for Linux, macOS and Wi
 
 - https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/README.md（获取于 2026-10-16T06:40:53Z；SHA-256：3ee6212ef10c39943546d20a3beeed412262f4a8a910120becb5409626569b0f）
 - https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE（获取于 2026-10-16T06:42:07Z；SHA-256：40f2354eb662ebb7b99d874b45f639e1265bec931073cda9ff21c6cf2cb0c499）
+
+---
+
+## AgentTab
+
+AgentTab 为 AI 智能体提供按任务分配的 Chrome 标签页，支持页面快照、浏览器操作、人工接手，以及对重要操作的可选审核。
+
+- 目录页面：https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/
+- 原始来源：https://github.com/wolfiesch/chrome-bridge
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、沙箱、人机协作、安全与防护
+- 证据核查日期：2026-11-09T19:57:48Z
+- ID：github:wolfiesch/chrome-bridge
+
+### 范围记录
+
+The README describes version 2 as an unreleased source prerelease. It documents an MCP tool surface, an unpacked development extension, and a separate stable Chrome Bridge legacy path.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-wolfiesch-chrome-bridge/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/wolfiesch/chrome-bridge/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/wolfiesch/chrome-bridge/HEAD/README.md（获取于 2026-11-09T19:57:48Z；SHA-256：fdb9b5951ae42eb5aff7967279036154cb8806f63a0f9de7618ce7d11302fd40）
+- https://raw.githubusercontent.com/wolfiesch/chrome-bridge/HEAD/LICENSE（获取于 2026-11-09T14:21:16Z；SHA-256：5cf6a34fd35fa60d6a40c4f8f9ed14c754f14258c2c0089b58411df73cfa8424）
 
 ---
 
@@ -745,6 +852,73 @@ Browser Use 官方测试框架，用于创建和操控隔离的 macOS 虚拟机�
 
 ---
 
+## browserserve
+
+这是一个自托管的 Chrome 服务器，通过 CDP 为 Playwright、Puppeteer 等客户端提供隔离的浏览器会话，并支持会话池和资源控制。
+
+- 目录页面：https://awesomecua.com/resources/github-browser-gateway-browserserve/
+- 原始来源：https://github.com/browser-gateway/browserserve
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：沙箱、网页导航、自动化
+- 证据核查日期：2026-11-09T19:57:05Z
+- ID：github:browser-gateway/browserserve
+
+### 范围记录
+
+The README provides a Docker quick start and CDP connection examples. Sessions use separate browser profiles; optional profile saving and restoration retains state when requested. The README presents MIT or Apache 2.0 licensing.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-browser-gateway-browserserve/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/browser-gateway/browserserve/HEAD/README.md（获取于 2026-11-09T19:57:05Z；SHA-256：793ef477ac0399b9b9832ec20a4d8ed4ee7a404f4e3e0f43606bca48e2da1c38）
+
+---
+
+## Cella
+
+一个通过清单定义智能体沙箱的控制平面，可在多种运行环境中执行工作负载，并提供支持屏幕查看和输入控制的虚拟桌面。
+
+- 目录页面：https://awesomecua.com/resources/github-latere-ai-cella/
+- 原始来源：https://github.com/latere-ai/cella
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：沙箱、自动化、安全与防护
+- 证据核查日期：2026-11-09T19:57:55Z
+- ID：github:latere-ai/cella
+
+### 范围记录
+
+The source lists Kubernetes, Podman and a native runtime. It describes sandbox lifecycle controls, scoped secrets, file transfer and an Apache-2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-latere-ai-cella/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/latere-ai/cella/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/latere-ai/cella/HEAD/README.md（获取于 2026-11-09T19:57:55Z；SHA-256：b1cc4fd4172b1f00a50593b0191174d7be2aab807e0509461e83d60c9f86716f）
+- https://raw.githubusercontent.com/latere-ai/cella/HEAD/LICENSE（获取于 2026-11-09T14:21:21Z；SHA-256：e4c4d1a5ef742bc74016912b92e16f4a856ff96cab48de9df363d10bf0cdd803）
+
+---
+
 ## CLYRedNote
 
 这是用于 GUI 智能体测试的 Android Compose 仿应用，提供购物、消息、搜索和内容页面，并使用预置的虚构数据。
@@ -775,6 +949,39 @@ The README describes local JSON data for users, notes, messages, products, and s
 ### 一手证据
 
 - https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-RedNote/HEAD/README.md（获取于 2026-11-09T05:05:19Z；SHA-256：d6f39fc624dc738dea6188810d7e863bfcf649b10f9cae0e1f029093f37a8cec）
+
+---
+
+## Ctrip Android App
+
+一款用于测试人工智能交互的 Android 旅行应用复刻版，包含典型预订界面、固定的本地数据，以及用于检查任务结果的信号。
+
+- 目录页面：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ctrip/
+- 原始来源：https://github.com/Acrab-Agentic-Labs/AppSim-Ctrip
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：Android
+- 主题：评测、手机操作、沙箱
+- 证据核查日期：2026-11-09T19:56:27Z
+- ID：github:acrab-agentic-labs/appsim-ctrip
+
+### 范围记录
+
+The README describes a Jetpack Compose app with hotel, flight, and train interfaces. It says the app needs neither login nor network access.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ctrip/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim-Ctrip/HEAD/README.md（获取于 2026-11-09T19:56:27Z；SHA-256：2a0d95423eb90bdb5e8b8d2056cbcf31717632f4e3bda47610119666a120141a）
 
 ---
 
@@ -1081,6 +1288,40 @@ The README describes Kotlin and Jetpack Compose source, local JSON assets, and r
 
 ---
 
+## Open Computer
+
+Open Computer 为智能体提供隔离的 Debian 桌面，配有浏览器和原生应用控制功能。用户可通过实时界面观察并协助智能体。
+
+- 目录页面：https://awesomecua.com/resources/github-mintplex-labs-open-computer/
+- 原始来源：https://github.com/Mintplex-Labs/open-computer
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux、网页
+- 主题：沙箱、人机协作、网页导航、可观测性
+- 证据核查日期：2026-11-09T19:55:59Z
+- ID：github:mintplex-labs/open-computer
+
+### 范围记录
+
+The source describes a QEMU virtual machine, an interface service, and a Pi-based agent harness. It lists prebuilt base images for macOS ARM64 and Windows x64.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-mintplex-labs-open-computer/record.json
+
+### 许可证信息
+
+- 代码：AGPL-3.0 — https://raw.githubusercontent.com/Mintplex-Labs/open-computer/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/Mintplex-Labs/open-computer/HEAD/README.md（获取于 2026-11-09T19:55:59Z；SHA-256：83c0b30f9d26af2ef24284b60bf4a8dc5431f293d7dd53800d0f356c845bbc22）
+- https://raw.githubusercontent.com/Mintplex-Labs/open-computer/HEAD/LICENSE（获取于 2026-11-09T14:20:34Z；SHA-256：20b067f86de375aae6db0f283ab2e65de24d537733b89bd58432c101259d84cf）
+
+---
+
 ## OpenMobile-2 extended Android AVDs
 
 七个预配置的 Pixel 6 模拟器镜像，适用于 Android API 33（arm64），附有 Apple Silicon 安装脚本，在 OpenMobile-2 发布内容中列为扩展 Android AVD。
@@ -1158,6 +1399,40 @@ Adjacent: environment images that the curated OSWorld benchmark boots; this asse
 
 ---
 
+## Pilion Browser
+
+Pilion Browser 通过 MCP 将智能体连接到用户桌面浏览器的标签页，支持浏览器操作、操作前审批、人工接管、工作流录制及会话恢复。
+
+- 目录页面：https://awesomecua.com/resources/github-echovic-pilion-browser/
+- 原始来源：https://github.com/echoVic/pilion-browser
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、macOS、Windows、Linux、网页、跨平台
+- 主题：网页导航、人机协作、录制、工作流
+- 证据核查日期：2026-11-09T19:56:44Z
+- ID：github:echovic/pilion-browser
+
+### 范围记录
+
+The README names macOS, Windows, and Linux releases and states an MIT license. It describes Agent Client Protocol connections and an Electron desktop application.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-echovic-pilion-browser/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/README.md（获取于 2026-11-09T19:56:44Z；SHA-256：2c9451d922baab9a1fd2e5b2325ddcf3263d96a3580b86577cdff91dd1b38e2e）
+- https://raw.githubusercontent.com/echoVic/pilion-browser/HEAD/LICENSE（获取于 2026-11-09T14:20:46Z；SHA-256：26ae051def8e601adcec978a905c9f6eb93b0af658344d24af20872f4c7ef71e）
+
+---
+
 ## ScienceBoard VMware environment
 
 预先构建的 Ubuntu 虚拟机归档，包含 ScienceBoard 科学计算机使用任务所用的软件环境。
@@ -1192,6 +1467,40 @@ The public Hub manifest contains VM.zip. This is an environment image hosted in 
 
 - https://huggingface.co/OS-Copilot/ScienceBoard-Env/raw/main/README.md（获取于 2026-10-17T04:07:19Z；SHA-256：8ee436f67e708bb917992764bc60a017c9db2edb21bdb99356b35c69f73724d7）
 - https://huggingface.co/api/models/OS-Copilot/ScienceBoard-Env（获取于 2026-10-17T04:07:18Z；SHA-256：9ffaf62b54a610afe186b3576b55fdd8287289e0cdfb88371bd9849a616f8460）
+
+---
+
+## Scrapeless Scraping Browser
+
+一种通过 WebSocket 访问的托管 Chromium 浏览器，可由 Puppeteer 或 Playwright 控制，并可配置会话、浏览器指纹和网络出口。
+
+- 目录页面：https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/
+- 原始来源：https://github.com/scraperapigather/scrapeless-scraping-browser
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：自动化、网页导航、沙箱
+- 证据核查日期：2026-11-09T19:57:41Z
+- ID：github:scraperapigather/scrapeless-scraping-browser
+
+### 范围记录
+
+The repository includes connection examples for Puppeteer and Playwright. The browser service requires an API key; the README declares an MIT license for the repository.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-scraperapigather-scrapeless-scraping-browser/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/scraperapigather/scrapeless-scraping-browser/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/scraperapigather/scrapeless-scraping-browser/HEAD/README.md（获取于 2026-11-09T19:57:41Z；SHA-256：9512d1bdd98a96add93d2c8db68f1296d1492e30315408d4b8a23956c710cb37）
+- https://raw.githubusercontent.com/scraperapigather/scrapeless-scraping-browser/HEAD/LICENSE（获取于 2026-11-09T14:21:14Z；SHA-256：898aafd27c1c6b8e008a12321401bd42f94b26ebf7d3afe05cc10f8731278f8e）
 
 ---
 
@@ -1231,42 +1540,37 @@ The repository README addresses contributors and points users to the documentati
 
 ---
 
-## Universe legacy GUI interaction client
+## vadgr-agent-os
 
-已归档的 Gym 兼容客户端，通过 VNC 为远程应用和浏览器环境提供屏幕观察及键盘、鼠标操作，包括早期的 World of Bits 集成。
+一个早期的 Linux 容器运行环境，供计算机操作智能体使用，包含虚拟桌面、浏览器、开发工具，以及控制桌面的 MCP 接口。
 
-- 目录页面：https://awesomecua.com/resources/github-openai-universe/
-- 原始来源：https://github.com/openai/universe
+- 目录页面：https://awesomecua.com/resources/github-montbrain-vadgr-agent-os/
+- 原始来源：https://github.com/MONTBRAIN/vadgr-agent-os
 - 类型：基础设施
 - 审核状态：已审核
-- 范围：相关研究
-- 运行环境：网页、桌面
-- 主题：自动化、强化学习、历史
-- 证据核查日期：2026-10-17T11:20:17Z
-- ID：github:openai/universe
+- 范围：核心
+- 运行环境：桌面、Linux
+- 主题：沙箱、自动化、工具集成
+- 证据核查日期：2026-11-09T19:55:48Z
+- ID：github:montbrain/vadgr-agent-os
 
 ### 范围记录
 
-GitHub marks this repository archived, and the README declares the library deprecated. It contains the client side of Universe; the README says remote-environment source repositories would be released separately. Original MiniWoB task-server or container availability was not established: alpha.openai.com no longer resolved in this audit and the official Quay tag metadata endpoint returned 401. This entry records the released client infrastructure. Legacy host requirements are documented; no container or code was executed.
+The repository lists a Dockerfile, entrypoint, and Python integration code. The README marks its quick-start and parallel-task commands as planned and declares an Apache 2.0 license.
 
-- 完整记录 JSON：https://awesomecua.com/resources/github-openai-universe/record.json
+- 完整记录 JSON：https://awesomecua.com/resources/github-montbrain-vadgr-agent-os/record.json
 
 ### 许可证信息
 
-- 代码：MIT — https://raw.githubusercontent.com/openai/universe/HEAD/LICENSE
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/MONTBRAIN/vadgr-agent-os/HEAD/LICENSE
 - 数据：未记录
 - 文档：未记录
 - 权重：未记录
 
-- 代码审核：Official Universe client-source LICENSE; no license or availability claim is transferred to external remote applications or container contents.
-  来源：https://raw.githubusercontent.com/openai/universe/HEAD/LICENSE
-
 ### 一手证据
 
-- https://raw.githubusercontent.com/openai/universe/HEAD/README.rst（获取于 2026-10-17T11:20:17Z；SHA-256：b1ca938480d4d36c76fa939c5b10cef11c24465cc1a6a8ee857cec4b939f9d61）
-- https://api.github.com/repos/openai/universe（获取于 2026-10-17T11:18:15Z；SHA-256：94a7a4d383f754b96601bc0486b90e62760b8bfc35abc607077c8eb6e7934b2d）
-- https://api.github.com/repos/openai/universe/git/trees/master?recursive=1（获取于 2026-10-17T11:19:47Z；SHA-256：1808d7524506d1386dad507de8a8fa0f89080443a970ae032cea4c204699d113）
-- https://raw.githubusercontent.com/openai/universe/HEAD/LICENSE（获取于 2026-10-17T11:23:05Z；SHA-256：ecd4a4aacc4512a31bbdc3252ffc014d37ac7ef56ed34bc2a5d0f6337df6daa5）
+- https://raw.githubusercontent.com/MONTBRAIN/vadgr-agent-os/HEAD/README.md（获取于 2026-11-09T19:55:48Z；SHA-256：c6608ea69961bc1e2020db01ea7b8e3b6c11ce5f4f67800426583ce86eb447f8）
+- https://raw.githubusercontent.com/MONTBRAIN/vadgr-agent-os/HEAD/LICENSE（获取于 2026-11-09T14:20:31Z；SHA-256：68bc5331a19f6dfbbfd5a2751f73294a8a96f54ca677f675524b52253e1803cf）
 
 ---
 
@@ -1300,6 +1604,73 @@ The repository provides Android, iOS, Web/H5 and Windows Quick Start demos. Its 
 ### 一手证据
 
 - https://raw.githubusercontent.com/volcengine/vePhone/HEAD/README.md（获取于 2026-11-09T06:16:36Z；SHA-256：1c070b3ff378e3831931e886b8e3d0914857117eb4aa14a65d0efef7e18a399b）
+
+---
+
+## VK DeviceHub
+
+这是一个设备管理系统，可通过浏览器查看和控制 Android 与 iOS 设备，并提供远程输入、设备清单和 REST API。
+
+- 目录页面：https://awesomecua.com/resources/github-vkcom-devicehub/
+- 原始来源：https://github.com/VKCOM/devicehub
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：Android、iOS、网页、跨平台
+- 主题：自动化、手机操作、沙箱
+- 证据核查日期：2026-11-09T19:57:46Z
+- ID：github:vkcom/devicehub
+
+### 范围记录
+
+The README describes a Docker Compose deployment, Android device support and iOS control through WebDriverAgent or ESP32. The repository is identified as a fork of DeviceFarmer/stf.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-vkcom-devicehub/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/VKCOM/devicehub/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/VKCOM/devicehub/HEAD/README.md（获取于 2026-11-09T19:57:46Z；SHA-256：9b01b92b68a5dfe45990fb901fd93c0cbb58b1468dfb12ab99fa7e1ff33f0784）
+- https://raw.githubusercontent.com/VKCOM/devicehub/HEAD/LICENSE（获取于 2026-11-09T14:21:16Z；SHA-256：8e4d2ff742f57cc163b651e3ac52ea437dfc49235fa6b61cc682938f835b5f85）
+
+---
+
+## webarena-docker
+
+这套 WebArena 网站的 Docker 部署方案提供启动站点容器的脚本，并可在涉及浏览器任务的实验之间恢复站点状态。
+
+- 目录页面：https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/
+- 原始来源：https://github.com/mahirlabibdihan/webarena-docker
+- 类型：基础设施
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：沙箱、评测、网页导航
+- 证据核查日期：2026-11-09T19:56:59Z
+- ID：github:mahirlabibdihan/webarena-docker
+
+### 范围记录
+
+The README includes image and data setup for GitLab, shopping sites, Reddit, Wikipedia, and map services. It instructs users to configure a public hostname and restart several sites after experiments.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-mahirlabibdihan-webarena-docker/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/mahirlabibdihan/webarena-docker/HEAD/README.md（获取于 2026-11-09T19:56:59Z；SHA-256：0a2f11ae610d352b5064e85d4d55c90059066adf3edf7775eaf5c24ec7e14b35）
 
 ---
 

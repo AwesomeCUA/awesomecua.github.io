@@ -105,6 +105,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 
 ## Benchmarks
 
+- [AgentCIBench](https://awesomecua.com/resources/github-ukplab-arxiv2026-agentcibench/) — Date not recorded
+  AgentCIBench evaluates whether computer-use agents expose information across personal apps. It includes scored scenarios, benchmark runners, and a web environment for visual runs.
 - [AgentCIBench](https://awesomecua.com/resources/url-d7f35409d35584385097/) — Date not recorded
   Contextual-integrity benchmark for computer-use agents: 117 synthetic multi-app workspace scenarios that pair under-specified requests with must-share and must-not-share lists, plus a 50-scenario live-UI subset.
 - [AppWorld](https://awesomecua.com/resources/github-stonybrooknlp-appworld/) — Date not recorded
@@ -115,6 +117,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Cross-environment benchmark framework for multimodal agents.
 - [iOSWorld](https://awesomecua.com/resources/github-ljang0-iosworld/) — Date not recorded
   Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.
+- [mac-agent-bench](https://awesomecua.com/resources/github-prithviseran-mac-agent-bench/) — Date not recorded
+  mac-agent-bench runs computer-use tools on a logged-in Mac, checking task outcomes with scripts while measuring changes to the foreground app and cursor.
 - [MemGUI-Bench](https://awesomecua.com/resources/github-lgy0404-memgui-bench/) — Date not recorded
   Memory-centric Android benchmark of 128 tasks across 26 apps, run in Dockerized emulators on a MobileWorld-style runtime and judged by MemGUI-Eval, an LLM evaluator reporting pass@k and memory metrics.
 - [Mobile-Eval-E task definitions](https://awesomecua.com/resources/url-342b081c3668a8bbe155/) — Date not recorded
@@ -155,6 +159,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 
 ## Models
 
+- [AndroidGen-Llama-3-70B](https://awesomecua.com/resources/url-75e93dff049c046c586e/) — Date not recorded
+  AndroidGen-Llama-3-70B is a released model for agents that carry out tasks across Android applications such as messaging, email and settings without manually labeled interaction data.
 - [MiniMax M3](https://awesomecua.com/resources/url-50089323623ee780a426/) — Date not recorded
   MiniMax M3 is a multimodal model whose release page describes desktop operation from visual input and cross-application tasks through MiniMax Code.
 
@@ -162,6 +168,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 
 - [AppCopilot](https://awesomecua.com/resources/github-openbmb-appcopilot/) — Date not recorded
   AppCopilot is a multimodal mobile agent for tasks across Android apps. The repository provides code and setup steps for emulator or phone control through ADB.
+- [Aries AI](https://awesomecua.com/resources/github-zg0704666-aries-ai/) — Date not recorded
+  Aries AI is an Android agent that uses a language model to interpret screens, plan natural-language tasks and operate apps through accessibility or virtual-display input.
 - [ARTEMIS](https://awesomecua.com/resources/github-google-artemis/) — Date not recorded
   ARTEMIS is an Android agent that carries out natural-language tasks across apps. It targets UI elements visually or by index and exposes device runs through an MCP server.
 - [debug-kit](https://awesomecua.com/resources/github-dxiongya-debug-kit/) — Date not recorded
@@ -186,10 +194,14 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Multi-agent desktop automation component for Windows and macOS, combining active perception, task decomposition and reflection for workflows spanning applications.
 - [Pointer](https://awesomecua.com/resources/url-98122987ca3e7c764d0e/) — Date not recorded
   Pointer describes a desktop computer-use agent with feasibility checks, milestone planning, and an executor that combines GUI, code, and browser tools.
+- [SCOPE-Gen](https://awesomecua.com/resources/github-k4ngzy-scope-gen/) — Date not recorded
+  A framework that generates and validates desktop GUI tasks for OSWorld, then creates paired safety tasks while retaining the original goal and completion evaluator.
 - [Touchpoint](https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/) — Date not recorded
   Touchpoint is a cross-platform desktop accessibility API and MCP server giving AI agents unified UI inspection and control.
 - [UFO](https://awesomecua.com/resources/github-microsoft-ufo/) — Date not recorded
   Windows agent framework for application and desktop automation.
+- [UI-Mate](https://awesomecua.com/resources/github-tencent-ui-mate/) — Date not recorded
+  UI-Mate is a desktop GUI agent that uses screenshots and keyboard and mouse actions for tasks across applications. It also supports workflows learned from recorded demonstrations.
 
 ## Learning resources
 

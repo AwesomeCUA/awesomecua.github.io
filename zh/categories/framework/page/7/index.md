@@ -4,6 +4,19 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/7/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
+- [VideoCAD training and evaluation code](https://awesomecua.com/resources/github-ghadinehme-videocad/)：提供 VideoCADFormer 训练、操作日志预处理和评估代码，用于从浏览器版 Onshape 的屏幕录像中学习 CAD 界面操作序列。
+- [VillagerAgent & VillagerBench](https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/)：VillagerAgent 提供基于有向无环图的多智能体协调器，以及 Minecraft 中的 VillagerBench 评测套件。
+- [ViMo code](https://awesomecua.com/resources/github-ai-agents-2030-vimo/)：ViMo GUI 世界模型的代码，包括基于 Gemini 的下一屏文本预测、AITW 和 AndroidControl 数据处理、InstructPix2Pix 风格的图像推断，以及调用该模型的 AndroidWorld 智能体。
+- [Vision Browser Agent](https://awesomecua.com/resources/github-zbcs-studiocr-cn-vision-browser-agent/)：纯视觉浏览器自动化框架，内置本地 Moondream3 推理，完全不依赖 DOM，并支持类人鼠标轨迹。
+- [VisionGrid AI](https://awesomecua.com/resources/github-mohsinjutt62-autoplay-cv-engine-bot/)：基于 OpenCV 和 ADB 构建的计算机视觉 Android UI 自动化及启发式游戏操作引擎。
+- [visual-agent](https://awesomecua.com/resources/github-cloudsbeyond-visual-agent/)：协议优先的框架，使视觉模型宿主能够安全地检查和操作软件 GUI 界面。
+- [VLAA-GUI](https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/)：VLAA-GUI 提供模块化 GUI 自动化框架，教会智能体何时停止、如何从错误中恢复以及搜索替代方案。
+- [vnc-use](https://awesomecua.com/resources/github-mayflower-vnc-use/)：vnc-use 是基于 LangGraph 的计算机使用框架，通过 VNC 操作远程桌面环境，并配备多模型 LLM 规划器和 hitl 关卡。
+- [Voice2Task Post-Training](https://awesomecua.com/resources/github-raidriar7170-voice2task-posttraining/)：后训练与评测流水线，将中文语音的 ASR 指令映射为符合模式定义的浏览器智能体动作计划。
+- [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/)：面向 MCP 的双层本地输入引擎，由前沿规划模型将高频动作程序分派给本地执行器。
+- [VSC-RL code](https://awesomecua.com/resources/github-ai-agents-2030-vsc-rl/)：面向 Android in the Wild 任务的 VSC-RL 训练代码：Gemini 生成的子目标引导 Auto-UI 策略在模拟器中结合学习得到的评判器与 Gemini 终态评估器进行在线训练，基于 DigiRL 构建。
+- [Vuser Protocol](https://awesomecua.com/resources/github-openvuser-vuser/)：Vuser 是开放的前端交互协议，为浏览器使用、桌面计算机使用和移动端使用中的虚拟用户动作制定统一标准。
+- [Weave WebMCP](https://awesomecua.com/resources/github-doom2quake-weave/)：浏览器原生的 WebMCP 构想到计划画布，供用户和网页智能体协同编辑结构化任务计划。
 - [Web Agent Proxy (WAP) SDK](https://awesomecua.com/resources/github-52191314-web-agent-proxy-sdk/)：面向 AI 智能体的浏览器基础设施 SDK，支持用户同意机制下的路由和端到端加密的会话中继。
 - [Web Context Interface (WCI)](https://awesomecua.com/resources/github-amirrezaalasti-webcontextinterface/)：Web Context Interface（WCI）是三层规范和工具包，通过结构化语义元数据增强 HTML，供 AI 网页智能体使用。
 - [web-pilot](https://awesomecua.com/resources/github-vinimabreu-web-pilot/)：浏览器使用框架，模型从封闭的动作集合中提出单个动作，再由确定性代码验证并执行。

@@ -1,6 +1,6 @@
 # 计算机使用智能体学习资源
 
-> AwesomeCUA 目录收录 26 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T16:17:01Z。
+> AwesomeCUA 目录收录 32 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/learning/ · [English](https://awesomecua.com/categories/learning/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -207,6 +207,40 @@ The README describes Search, Fetch, Agent, and Browser endpoints and links to ex
 
 ---
 
+## Visual Agents Workshop Series
+
+Visual Agents Workshop Series 通过三个专题课程及配套笔记本和资源，讲解 GUI 智能体研究、数据集准备与模型微调。
+
+- 目录页面：https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/
+- 原始来源：https://github.com/harpreetsahota204/visual_agents_workshop
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：unspecified
+- 主题：综述、数据生成、GUI 定位、评测
+- 证据核查日期：2026-11-09T19:55:56Z
+- ID：github:harpreetsahota204/visual_agents_workshop
+
+### 范围记录
+
+The repository lists session folders, workshop notebooks, video recordings, and links to related datasets and code. Its README states an Apache 2.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-harpreetsahota204-visual-agents-workshop/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/harpreetsahota204/visual_agents_workshop/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/harpreetsahota204/visual_agents_workshop/HEAD/README.md（获取于 2026-11-09T19:55:56Z；SHA-256：9bec2e7043275c17fbb4bf757c36b3faab8262a4b99c6692f7c2943aed932c7d）
+- https://raw.githubusercontent.com/harpreetsahota204/visual_agents_workshop/HEAD/LICENSE（获取于 2026-11-09T14:20:33Z；SHA-256：c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4）
+
+---
+
 ## Agentic Web
 
 一份关于网络智能体的研究阅读清单，按开发、检索、规划、安全和基准测试等主题整理文献。
@@ -274,6 +308,39 @@ The repository organizes AWS CDK deployment samples, lightweight SDK examples, a
 
 ---
 
+## Awesome Computer Use Ecosystem
+
+一份面向桌面和浏览器智能体的计算机操作工具精选清单，按产品生态和功能分类，并附有独立的项目目录。
+
+- 目录页面：https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/
+- 原始来源：https://github.com/hqhq1025/awesome-computer-use-ecosystem
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、网页
+- 主题：自动化、录制、评测、综述
+- 证据核查日期：2026-11-09T19:57:36Z
+- ID：github:hqhq1025/awesome-computer-use-ecosystem
+
+### 范围记录
+
+The repository links to a JSON project catalog, a Chinese guide, and capability-based navigation. Its README states a CC0-1.0 license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-hqhq1025-awesome-computer-use-ecosystem/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/hqhq1025/awesome-computer-use-ecosystem/HEAD/README.md（获取于 2026-11-09T19:57:36Z；SHA-256：584202a9bd23aec764704b39bb3ab1c1a812159d9da5daea10c7b24138acb085）
+
+---
+
 ## Awesome Reinforcement Learning for GUI Agents
 
 GUI 智能体强化学习的精选资料列表，按学习方法、奖励与效率问题、数据集及训练环境整理相关研究。
@@ -305,6 +372,107 @@ The repository contains a bibliography and sections on offline, online, and hybr
 
 - https://raw.githubusercontent.com/Steve2457/Awesome-RL-GUI-Agents/HEAD/README.md（获取于 2026-11-09T06:16:34Z；SHA-256：ba8846ec7f3e05a242bb0728395b74b0f7d754f2116133bb470e193cbe575673）
 - https://raw.githubusercontent.com/Steve2457/Awesome-RL-GUI-Agents/HEAD/LICENSE（获取于 2026-11-09T06:13:37Z；SHA-256：70e87b65d448f7b60f21360bbf0f0453bc1856836e8b2d1399de1d9b83a41d2a）
+
+---
+
+## clawtouch-skills
+
+这套 Markdown 操作指南为通过 HID 控制桌面的智能体提供特定应用的菜单路径、快捷键和交互技巧。
+
+- 目录页面：https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/
+- 原始来源：https://github.com/tinqiao-oss/clawtouch-skills
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：跨平台、桌面、Windows、macOS、Linux
+- 主题：自动化、工作流、记忆
+- 证据核查日期：2026-11-09T19:57:03Z
+- ID：github:tinqiao-oss/clawtouch-skills
+
+### 范围记录
+
+The README lists guides for WPS Office, Feishu, DingTalk, text entry and grid UI automation. It declares an MIT license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-skills/record.json
+
+### 许可证信息
+
+- 代码：MIT — https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/README.md（获取于 2026-11-09T19:57:03Z；SHA-256：eb7d9a478ecb3c9d0d46c60cf866b83508647a08200f163fc7279e380fb16ead）
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-skills/HEAD/LICENSE（获取于 2026-11-09T14:20:49Z；SHA-256：be6018d34e8d0508c2637e14dd93ade6475ac0c1f3595dbfa4e457ea24f5b117）
+
+---
+
+## Google Developer Codelab: Automated UI Testing with Antigravity (Agy) CLI, BrowserMCP, Playwright, and the Browser Agent
+
+这是一份动手实践教程，使用 Antigravity CLI、BrowserMCP 和 Playwright 智能体技能，借助附带的演示应用创建基于浏览器的界面测试。
+
+- 目录页面：https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/
+- 原始来源：https://github.com/derailed-dash/agentic-ui-testing
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：网页
+- 主题：网页导航、评测、自动化、工具集成
+- 证据核查日期：2026-11-09T19:57:27Z
+- ID：github:derailed-dash/agentic-ui-testing
+
+### 范围记录
+
+The repository includes the codelab text and a React demo application. The instructions list Chrome, Node.js, Antigravity CLI and Git as prerequisites.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-derailed-dash-agentic-ui-testing/record.json
+
+### 许可证信息
+
+- 代码：未记录
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/derailed-dash/agentic-ui-testing/HEAD/README.md（获取于 2026-11-09T19:57:27Z；SHA-256：6a72b59448d07d5af2973097486154957d22f7d793400fae9bec1fab1fe70391）
+
+---
+
+## linux-use-recipes
+
+一组使用 linux-use 自动操作 Linux 桌面应用和网站的操作指南，涵盖浏览器配置、无障碍接口常见问题、发帖流程及操作验证。
+
+- 目录页面：https://awesomecua.com/resources/github-javimosch-linux-use-recipes/
+- 原始来源：https://github.com/javimosch/linux-use-recipes
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：核心
+- 运行环境：桌面、Linux、网页、跨平台
+- 主题：自动化、网页导航、工作流、状态追踪
+- 证据核查日期：2026-11-09T19:57:41Z
+- ID：github:javimosch/linux-use-recipes
+
+### 范围记录
+
+The repository contains a README and recipe files. The README declares the Unlicense license.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-javimosch-linux-use-recipes/record.json
+
+### 许可证信息
+
+- 代码：Unlicense — https://raw.githubusercontent.com/javimosch/linux-use-recipes/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/javimosch/linux-use-recipes/HEAD/README.md（获取于 2026-11-09T19:57:41Z；SHA-256：de4a21f0f6aeeb6dd01299fdd7509d63404254f4a68f410f580890181b772560）
+- https://raw.githubusercontent.com/javimosch/linux-use-recipes/HEAD/LICENSE（获取于 2026-11-09T14:21:14Z；SHA-256：b5065838cbac452dfc855ba6e6e031481ad2c68406f70d21ead9321374653e6c）
 
 ---
 
@@ -372,6 +540,40 @@ The repository contains benchmark pages and separate pages for open and closed s
 
 - https://raw.githubusercontent.com/OpenHands/open-operator/HEAD/README.md（获取于 2026-11-09T06:16:33Z；SHA-256：bcfaec7a8e48745e422df9263816872ddfcb9e17f53b2fbc2c199dc0c3f8a21b）
 - https://raw.githubusercontent.com/OpenHands/open-operator/HEAD/LICENSE（获取于 2026-11-09T06:13:35Z；SHA-256：16e882802b0715cfcd78f44618454398dac7b5cfe20af84e60edd6d52ee98f5f）
+
+---
+
+## Plasmate Notebooks
+
+Plasmate Notebooks 通过 Jupyter 示例介绍面向智能体的浏览器引擎，涵盖页面结构、令牌量比较、批量提取和研究工作流。
+
+- 目录页面：https://awesomecua.com/resources/github-plasmate-labs-notebooks/
+- 原始来源：https://github.com/plasmate-labs/notebooks
+- 类型：学习资源
+- 审核状态：已审核
+- 范围：相关研究
+- 运行环境：网页
+- 主题：界面理解、网页导航、效率
+- 证据核查日期：2026-11-09T19:57:10Z
+- ID：github:plasmate-labs/notebooks
+
+### 范围记录
+
+The README lists four notebooks and a quick-start command requiring Plasmate, Jupyter, tiktoken, pandas, and matplotlib. A Colab link is provided for the getting-started notebook.
+
+- 完整记录 JSON：https://awesomecua.com/resources/github-plasmate-labs-notebooks/record.json
+
+### 许可证信息
+
+- 代码：Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE
+- 数据：未记录
+- 文档：未记录
+- 权重：未记录
+
+### 一手证据
+
+- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/README.md（获取于 2026-11-09T19:57:10Z；SHA-256：34e63824f03d5f277afb112eb11591442457534048699237db32b5cdde9bb444）
+- https://raw.githubusercontent.com/plasmate-labs/notebooks/HEAD/LICENSE（获取于 2026-11-09T14:20:53Z；SHA-256：be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432）
 
 ---
 

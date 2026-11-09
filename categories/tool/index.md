@@ -1,6 +1,6 @@
 # Computer-use agent tools
 
-> 884 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
+> 976 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/tool/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -301,40 +301,6 @@ Browser Harness by Browser Use lets Claude Code, Codex, and Cursor drive the use
 
 ---
 
-## openadapt-flow
-
-openadapt-flow turns recorded web or desktop tasks into reusable programs, replays them locally, and verifies saved records. Its standalone repository is archived.
-
-- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-flow/
-- Original source: https://github.com/OpenAdaptAI/openadapt-flow
-- Kind: tool
-- Review: curated
-- Scope: adjacent
-- Environments: cross-platform, web, desktop, windows, macos, linux
-- Topics: recording, automation, workflow, history
-- Evidence checked: 2026-11-09T06:16:33Z
-- ID: github:openadaptai/openadapt-flow
-
-### Limitations
-
-The README describes Playwright, desktop accessibility APIs, and pixel-based Citrix or remote-desktop control. It says current development moved to OpenAdapt's packages/flow and declares an MIT license.
-
-- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-flow/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-flow/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-flow/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 b06e465dccc239c082c05fa78b68262a066238be786a53a62936cc95bffc2b1e)
-- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-flow/HEAD/LICENSE (retrieved 2026-11-09T06:13:31Z; SHA-256 4293dac082cb1db38467bc51333229167661390e0879bff2e63d6bc90a0d8500)
-
----
-
 ## open-codex-computer-use
 
 open-codex-computer-use is a native Swift MCP server that exposes macOS per-application window capture, accessibility inspection, and input control.
@@ -399,6 +365,40 @@ The README identifies DevTools Protocol and WebDriver BiDi as control interfaces
 
 ---
 
+## openadapt-flow
+
+openadapt-flow turns recorded web or desktop tasks into reusable programs, replays them locally, and verifies saved records. Its standalone repository is archived.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-flow/
+- Original source: https://github.com/OpenAdaptAI/openadapt-flow
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web, desktop, windows, macos, linux
+- Topics: recording, automation, workflow, history
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:openadaptai/openadapt-flow
+
+### Limitations
+
+The README describes Playwright, desktop accessibility APIs, and pixel-based Citrix or remote-desktop control. It says current development moved to OpenAdapt's packages/flow and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-flow/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-flow/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-flow/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 b06e465dccc239c082c05fa78b68262a066238be786a53a62936cc95bffc2b1e)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-flow/HEAD/LICENSE (retrieved 2026-11-09T06:13:31Z; SHA-256 4293dac082cb1db38467bc51333229167661390e0879bff2e63d6bc90a0d8500)
+
+---
+
 ## OpenCLI
 
 OpenCLI converts authenticated websites and Electron apps into deterministic CLI commands and browser-automation skills via a Chrome bridge.
@@ -426,6 +426,70 @@ OpenCLI converts authenticated websites and Electron apps into deterministic CLI
 
 - https://raw.githubusercontent.com/jackwener/OpenCLI/HEAD/README.md (retrieved 2026-11-04T13:12:19Z; SHA-256 74157dbbb055cddb122bf2058dad9b779d1090cb5e5961a350cf924ea53bb3d0)
 - https://raw.githubusercontent.com/jackwener/OpenCLI/HEAD/LICENSE (retrieved 2026-11-04T13:23:41Z; SHA-256 0210b8b66cf00358242cb921ba2be3a46dfe0190159b1b952388a3880ce1ff54)
+
+---
+
+## ADBKeyBoard
+
+An Android virtual keyboard that accepts ADB broadcasts to enter text, Unicode characters and key events for device automation.
+
+- Catalog URL: https://awesomecua.com/resources/github-senzhk-adbkeyboard/
+- Original source: https://github.com/senzhk/ADBKeyBoard
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android
+- Topics: automation, mobile-navigation
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:senzhk/adbkeyboard
+
+### Limitations
+
+The README documents APK installation, building from source and broadcast commands for text, key events and editor actions.
+
+- Record JSON: https://awesomecua.com/resources/github-senzhk-adbkeyboard/record.json
+
+### License declarations
+
+- code: GPL-2.0 — https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 b7e0b55f5defc2d09a27ad8417fc2adb085cbd5997414c3978ffef79135545b9)
+- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE (retrieved 2026-11-09T06:13:35Z; SHA-256 7ea4b1fa1256b0ab2bbbff489e5e8d8f1f9b864504d60091ff871d80e04f21fa)
+
+---
+
+## Playwright CLI
+
+Playwright CLI provides a token-efficient command-line interface and skill set for coding and computer-use agents to automate web browsers.
+
+- Catalog URL: https://awesomecua.com/resources/github-microsoft-playwright-cli/
+- Original source: https://github.com/microsoft/playwright-cli
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web
+- Topics: web-navigation, tool-integration, efficiency
+- Evidence checked: 2026-11-04T13:12:24Z
+- ID: github:microsoft/playwright-cli
+
+- Record JSON: https://awesomecua.com/resources/github-microsoft-playwright-cli/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/microsoft/playwright-cli/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/microsoft/playwright-cli/HEAD/README.md (retrieved 2026-11-04T13:12:24Z; SHA-256 0ebce0d1585577c7fd370f6e5f47133500f5d2f0871a4201519d11706f803746)
+- https://raw.githubusercontent.com/microsoft/playwright-cli/HEAD/LICENSE (retrieved 2026-11-04T13:42:26Z; SHA-256 9a7110fc2d2f964038e5dc49128f908f29f47a574c961cba16085914e879cbda)
 
 ---
 
@@ -467,37 +531,70 @@ Public source and official release metadata are present. The README explicitly s
 
 ---
 
-## ADBKeyBoard
+## chromedp
 
-An Android virtual keyboard that accepts ADB broadcasts to enter text, Unicode characters and key events for device automation.
+A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.
 
-- Catalog URL: https://awesomecua.com/resources/github-senzhk-adbkeyboard/
-- Original source: https://github.com/senzhk/ADBKeyBoard
+- Catalog URL: https://awesomecua.com/resources/github-chromedp-chromedp/
+- Original source: https://github.com/chromedp/chromedp
 - Kind: tool
 - Review: curated
 - Scope: adjacent
-- Environments: android
-- Topics: automation, mobile-navigation
-- Evidence checked: 2026-11-09T06:16:33Z
-- ID: github:senzhk/adbkeyboard
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-06T16:36:32Z
+- ID: github:chromedp/chromedp
 
 ### Limitations
 
-The README documents APK installation, building from source and broadcast commands for text, key events and editor actions.
+It needs Go 1.25 or newer and no external driver. Chrome runs in headless mode by default.
 
-- Record JSON: https://awesomecua.com/resources/github-senzhk-adbkeyboard/record.json
+- Record JSON: https://awesomecua.com/resources/github-chromedp-chromedp/record.json
 
 ### License declarations
 
-- code: GPL-2.0 — https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE
+- code: not recorded
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 b7e0b55f5defc2d09a27ad8417fc2adb085cbd5997414c3978ffef79135545b9)
-- https://raw.githubusercontent.com/senzhk/ADBKeyBoard/HEAD/LICENSE (retrieved 2026-11-09T06:13:35Z; SHA-256 7ea4b1fa1256b0ab2bbbff489e5e8d8f1f9b864504d60091ff871d80e04f21fa)
+- https://raw.githubusercontent.com/chromedp/chromedp/94001c576609403535c275b745d4d8485976b4aa/README.md (retrieved 2026-11-06T16:36:32Z; SHA-256 c87f689b7e0cf2d4d46c5ef4991deb01dbf4ae66eca3691c2e3bf7b992835ca9)
+
+---
+
+## nodriver
+
+An asynchronous Python library for browser automation that controls Chromium-based browsers through the Chrome DevTools Protocol and provides text and selector-based element lookup.
+
+- Catalog URL: https://awesomecua.com/resources/github-ultrafunkamsterdam-nodriver/
+- Original source: https://github.com/ultrafunkamsterdam/nodriver
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-09T19:57:28Z
+- ID: github:ultrafunkamsterdam/nodriver
+
+### Limitations
+
+The README includes installation and usage examples. It requires Chrome or another Chromium-based browser.
+
+- Record JSON: https://awesomecua.com/resources/github-ultrafunkamsterdam-nodriver/record.json
+
+### License declarations
+
+- code: AGPL-3.0 — https://raw.githubusercontent.com/ultrafunkamsterdam/nodriver/HEAD/LICENSE.txt
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://github.com/ultrafunkamsterdam/nodriver (retrieved 2026-11-09T19:57:28Z; SHA-256 e85db278107206b89d902ec1b9db3f629e8b0d4ceb94e00d40e48167fc7b2fea)
+- https://raw.githubusercontent.com/ultrafunkamsterdam/nodriver/HEAD/LICENSE.txt (retrieved 2026-11-09T14:21:00Z; SHA-256 4c07b14947925c5c3d125ca8d7f1fadbf604a6df626edbb0b78cefa26b9bb8f6)
 
 ---
 
@@ -560,25 +657,25 @@ Camoufox is an open-source anti-detect Firefox browser with C++-level fingerprin
 
 ---
 
-## chromedp
+## cliclick
 
-A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.
+A macOS command-line utility that performs mouse and keyboard actions. It accepts action commands as arguments or from a file for scripted desktop control.
 
-- Catalog URL: https://awesomecua.com/resources/github-chromedp-chromedp/
-- Original source: https://github.com/chromedp/chromedp
+- Catalog URL: https://awesomecua.com/resources/github-bluem-cliclick/
+- Original source: https://github.com/BlueM/cliclick
 - Kind: tool
 - Review: curated
 - Scope: adjacent
-- Environments: web
-- Topics: automation, web-navigation
-- Evidence checked: 2026-11-06T16:36:32Z
-- ID: github:chromedp/chromedp
+- Environments: desktop, macos
+- Topics: automation
+- Evidence checked: 2026-11-09T19:57:58Z
+- ID: github:bluem/cliclick
 
 ### Limitations
 
-It needs Go 1.25 or newer and no external driver. Chrome runs in headless mode by default.
+The README describes Homebrew and MacPorts installation options and says the invoking terminal needs Accessibility permission. It documents click commands and file-based command input.
 
-- Record JSON: https://awesomecua.com/resources/github-chromedp-chromedp/record.json
+- Record JSON: https://awesomecua.com/resources/github-bluem-cliclick/record.json
 
 ### License declarations
 
@@ -589,37 +686,74 @@ It needs Go 1.25 or newer and no external driver. Chrome runs in headless mode b
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/chromedp/chromedp/94001c576609403535c275b745d4d8485976b4aa/README.md (retrieved 2026-11-06T16:36:32Z; SHA-256 c87f689b7e0cf2d4d46c5ef4991deb01dbf4ae66eca3691c2e3bf7b992835ca9)
+- https://raw.githubusercontent.com/BlueM/cliclick/HEAD/README.md (retrieved 2026-11-09T19:57:58Z; SHA-256 74d3352ba5270e3212652fe6657dc5c71884fee9a8a9979b46a136acacf5398a)
 
 ---
 
-## Playwright CLI
+## Collection of WebMCP tools
 
-Playwright CLI provides a token-efficient command-line interface and skill set for coding and computer-use agents to automate web browsers.
+A collection of WebMCP utilities and demos for exposing website actions to AI agents, inspecting those tools and evaluating agent tool calls.
 
-- Catalog URL: https://awesomecua.com/resources/github-microsoft-playwright-cli/
-- Original source: https://github.com/microsoft/playwright-cli
+- Catalog URL: https://awesomecua.com/resources/github-googlechromelabs-webmcp-tools/
+- Original source: https://github.com/GoogleChromeLabs/webmcp-tools
 - Kind: tool
 - Review: curated
-- Scope: core
-- Environments: cross-platform, web
-- Topics: web-navigation, tool-integration, efficiency
-- Evidence checked: 2026-11-04T13:12:24Z
-- ID: github:microsoft/playwright-cli
+- Scope: adjacent
+- Environments: web
+- Topics: tool-integration, evaluation, web-navigation
+- Evidence checked: 2026-11-09T19:56:12Z
+- ID: github:googlechromelabs/webmcp-tools
 
-- Record JSON: https://awesomecua.com/resources/github-microsoft-playwright-cli/record.json
+### Limitations
+
+The README lists an inspector extension, evaluation CLI, skills, a polyfill and example websites.
+
+- Record JSON: https://awesomecua.com/resources/github-googlechromelabs-webmcp-tools/record.json
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/microsoft/playwright-cli/HEAD/LICENSE
+- code: Apache-2.0 — https://raw.githubusercontent.com/GoogleChromeLabs/webmcp-tools/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/microsoft/playwright-cli/HEAD/README.md (retrieved 2026-11-04T13:12:24Z; SHA-256 0ebce0d1585577c7fd370f6e5f47133500f5d2f0871a4201519d11706f803746)
-- https://raw.githubusercontent.com/microsoft/playwright-cli/HEAD/LICENSE (retrieved 2026-11-04T13:42:26Z; SHA-256 9a7110fc2d2f964038e5dc49128f908f29f47a574c961cba16085914e879cbda)
+- https://raw.githubusercontent.com/GoogleChromeLabs/webmcp-tools/HEAD/README.md (retrieved 2026-11-09T19:56:12Z; SHA-256 bec0bc7c2e587158c6d07d7a1fa4b2867c8982330aaaea23f0176148098f749a)
+- https://raw.githubusercontent.com/GoogleChromeLabs/webmcp-tools/HEAD/LICENSE (retrieved 2026-11-09T14:20:38Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
+
+---
+
+## WebDriverAgent
+
+WebDriverAgent is an iOS WebDriver server for remote app control, including launching apps, tapping, scrolling, and checking views. Development has moved to appium-ios.
+
+- Catalog URL: https://awesomecua.com/resources/github-appium-webdriveragent/
+- Original source: https://github.com/appium/WebDriverAgent
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: ios
+- Topics: automation, mobile-navigation, history
+- Evidence checked: 2026-11-09T06:16:33Z
+- ID: github:appium/webdriveragent
+
+### Limitations
+
+The source describes devices and simulators, XCTest-based commands, and a Node.js requirement for this repository. It declares a BSD license.
+
+- Record JSON: https://awesomecua.com/resources/github-appium-webdriveragent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/appium/WebDriverAgent/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 8c779558a96d230ddfc3ca5d4341fc8702b0eff299ce37d93db945ed22d0bb13)
 
 ---
 
@@ -653,6 +787,40 @@ Zavora Computer Use MCP is a Rust MCP server and client for discovering desktop 
 
 ---
 
+## Browser MCP
+
+A local MCP server and Chromium extension that let AI applications operate browser tabs through Playwright, with pairing and extension-enforced controls.
+
+- Catalog URL: https://awesomecua.com/resources/github-browsermcp-mcp/
+- Original source: https://github.com/BrowserMCP/mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, safety-security
+- Evidence checked: 2026-11-09T05:05:19Z
+- ID: github:browsermcp/mcp
+
+### Limitations
+
+The repository contains the MCP server, daemon, protocol, and extension packages. Its README requires Node.js 24 or later, pnpm, and a Chromium browser, and declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/github-browsermcp-mcp/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/BrowserMCP/mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/BrowserMCP/mcp/HEAD/README.md (retrieved 2026-11-09T05:05:19Z; SHA-256 9a321a857e80b5c0ab5aeb093cf6c2d3f550efece0c1708c856b0711c73ff6be)
+- https://raw.githubusercontent.com/BrowserMCP/mcp/HEAD/LICENSE (retrieved 2026-11-09T05:07:35Z; SHA-256 ca89de37aec49b624f0829065f3ad6abca29cd7c090f29f55713dc44637ef88e)
+
+---
+
 ## BrowserAct Skills
 
 BrowserAct Skills provides reusable browser-automation and web-extraction skill definitions for AI agents.
@@ -683,6 +851,73 @@ BrowserAct Skills provides reusable browser-automation and web-extraction skill 
 
 ---
 
+## DroidBot
+
+DroidBot generates scripted or model-guided inputs for Android app testing and records UI transitions, view structures, and method traces.
+
+- Catalog URL: https://awesomecua.com/resources/github-honeynet-droidbot/
+- Original source: https://github.com/honeynet/droidbot
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android
+- Topics: automation, evaluation, screen-understanding
+- Evidence checked: 2026-11-09T05:05:20Z
+- ID: github:honeynet/droidbot
+
+### Limitations
+
+The repository includes code and script samples. Running it requires an APK, a connected device or emulator, Python, Java, and the Android SDK.
+
+- Record JSON: https://awesomecua.com/resources/github-honeynet-droidbot/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/honeynet/droidbot/HEAD/README.md (retrieved 2026-11-09T05:05:20Z; SHA-256 a0ef945aa3269b8b8500696c3fc9085fe1ae0745f86dccfc6528b35d268a7b68)
+
+---
+
+## dsh Browser Control
+
+A browser extension and bridge plugin that let DeepSeek Harness read and operate existing Chrome or Firefox tabs through structured page controls.
+
+- Catalog URL: https://awesomecua.com/resources/github-lum1104-dsh-browser/
+- Original source: https://github.com/Lum1104/dsh-browser
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, cross-platform, desktop, windows, macos, linux
+- Topics: web-navigation, automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:55:47Z
+- ID: github:lum1104/dsh-browser
+
+### Limitations
+
+The repository contains a pnpm workspace with the bridge plugin, browser extension, and installation scripts. The README names Chrome, Firefox, Windows, macOS, and Linux support.
+
+- Record JSON: https://awesomecua.com/resources/github-lum1104-dsh-browser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Lum1104/dsh-browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Lum1104/dsh-browser/HEAD/README.md (retrieved 2026-11-09T19:55:47Z; SHA-256 337d88167818dc3dfcc3132503a1a9e303b531c65fde1798dafb5552c74241d2)
+- https://raw.githubusercontent.com/Lum1104/dsh-browser/HEAD/LICENSE (retrieved 2026-11-09T14:20:30Z; SHA-256 32322484ba682f6c61bbcd67323031d706fecbf9b84c8980b30205ecc3f84381)
+
+---
+
 ## DuckTrack
 
 DuckTrack records synchronized screen video and low-level mouse and keyboard events for building multimodal computer-interaction datasets.
@@ -710,6 +945,69 @@ DuckTrack records synchronized screen video and low-level mouse and keyboard eve
 
 - https://raw.githubusercontent.com/TheDuckAI/DuckTrack/HEAD/README.md (retrieved 2026-11-04T13:12:39Z; SHA-256 9fed3242e39ee00ca213ac4271693a3ab5dd56dec040f36f8a278fa0d642ffdb)
 - https://raw.githubusercontent.com/TheDuckAI/DuckTrack/HEAD/LICENSE (retrieved 2026-11-04T13:41:34Z; SHA-256 461bfa200663ace3ffce927596956acd5dbb5ff66da83e57e0bd92dc1c149dc6)
+
+---
+
+## Hronaut for Claude Code
+
+Hronaut for Claude Code is a plugin that supplies a coding agent with an MCP server and skill for using a visible browser in a separate project workspace.
+
+- Catalog URL: https://awesomecua.com/resources/github-hronaut-hronaut-claude-plugin/
+- Original source: https://github.com/hronaut/hronaut-claude-plugin
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: web-navigation, tool-integration, sandbox
+- Evidence checked: 2026-11-09T19:57:28Z
+- ID: github:hronaut/hronaut-claude-plugin
+
+### Limitations
+
+The repository contains plugin manifests, the packaged plugin, and tests. Its README identifies the main Hronaut repository as the browser implementation.
+
+- Record JSON: https://awesomecua.com/resources/github-hronaut-hronaut-claude-plugin/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hronaut/hronaut-claude-plugin/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hronaut/hronaut-claude-plugin/HEAD/README.md (retrieved 2026-11-09T19:57:28Z; SHA-256 ccfc5d736dd666b594664ee2651a56ffff81ed0fb8ead310b8d5c097d3a6456f)
+- https://raw.githubusercontent.com/hronaut/hronaut-claude-plugin/HEAD/LICENSE (retrieved 2026-11-09T14:21:00Z; SHA-256 974612978906e6a29019ada97ed14fdc0ae24afd5db8d25a2cb7e27995b9722c)
+
+---
+
+## iphone-use
+
+MCP server and CLI that lets Claude Code, Codex, and MCP agents read real iPhone screens as structured text and execute taps/swipes.
+
+- Catalog URL: https://awesomecua.com/resources/github-leeguooooo-iphone-use/
+- Original source: https://github.com/leeguooooo/iphone-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: ios, desktop, macos
+- Topics: mobile-navigation, tool-integration, screen-understanding, efficiency
+- Evidence checked: 2026-11-04T16:30:06Z
+- ID: github:leeguooooo/iphone-use
+
+- Record JSON: https://awesomecua.com/resources/github-leeguooooo-iphone-use/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/leeguooooo/iphone-use/HEAD/README.md (retrieved 2026-11-04T16:30:06Z; SHA-256 baf1f2e238dd9a244ea2ad3c6ff04b9216400bd8edbf41cafdd7c9e492934527)
 
 ---
 
@@ -781,6 +1079,74 @@ Recordings include a SQLite action database, screen video, and integrity metadat
 
 ---
 
+## Patchright
+
+Patchright is a modified Playwright driver for Chromium automation, with browser interaction through Playwright-style APIs and separate client packages.
+
+- Catalog URL: https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/
+- Original source: https://github.com/Kaliiiiiiiiii-Vinyzu/patchright
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-09T19:55:43Z
+- ID: github:kaliiiiiiiiii-vinyzu/patchright
+
+### Limitations
+
+The repository serves the driver; its README points to Python, Node.js, and .NET packages. It states that Firefox and WebKit are unsupported.
+
+- Record JSON: https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright/HEAD/README.md (retrieved 2026-11-09T19:55:43Z; SHA-256 1a68485b0134cfeaad07aee466485e47f0ded496286d4683d7235716f53cb63f)
+- https://raw.githubusercontent.com/Kaliiiiiiiiii-Vinyzu/patchright/HEAD/LICENSE (retrieved 2026-11-09T15:02:19Z; SHA-256 65beda85bd1b4a30c2681314352c8aeeafd772dcefd554a05322afcc1297368a)
+
+---
+
+## pi-computer-use
+
+Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.
+
+- Catalog URL: https://awesomecua.com/resources/github-injaneity-pi-computer-use/
+- Original source: https://github.com/injaneity/pi-computer-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, windows, linux
+- Topics: automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-06T16:36:27Z
+- ID: github:injaneity/pi-computer-use
+
+### Limitations
+
+The macOS helper requires macOS 14 or newer. On Linux it runs inside a graphical session with a working AT-SPI2 accessibility bus. MIT per the README.
+
+- Record JSON: https://awesomecua.com/resources/github-injaneity-pi-computer-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/injaneity/pi-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/injaneity/pi-computer-use/67e9e2f77643f84605b738a3198048a88e92190e/README.md (retrieved 2026-11-06T16:36:27Z; SHA-256 a3e0a2af0b4ca7e87a090404ca6a114af1abd9946035db6c0a55f570d50678ea)
+- https://raw.githubusercontent.com/injaneity/pi-computer-use/HEAD/LICENSE (retrieved 2026-11-06T09:57:50Z; SHA-256 c269a9558b881ddb20c263823a393a101d2b8c7b668d51e9666e79d2614d4b2b)
+
+---
+
 ## SkillPacks
 
 SkillPacks records and approves agent tool actions for retrieval and later training, illustrated with a desktop-control example.
@@ -849,6 +1215,36 @@ The README documents installation through pip, an automation.py inspection scrip
 
 ---
 
+## 988hj7tczd-oss dsh-computer-use
+
+Cross-platform DeepSeek Harness computer-use plugin featuring an independent virtual cursor, UI grounding, and desktop input.
+
+- Catalog URL: https://awesomecua.com/resources/github-988hj7tczd-oss-dsh-computer-use/
+- Original source: https://github.com/988hj7tczd-oss/dsh-computer-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, macos, linux
+- Topics: screen-understanding, automation, tool-integration
+- Evidence checked: 2026-11-04T17:20:43Z
+- ID: github:988hj7tczd-oss/dsh-computer-use
+
+- Record JSON: https://awesomecua.com/resources/github-988hj7tczd-oss-dsh-computer-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/988hj7tczd-oss/dsh-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/988hj7tczd-oss/dsh-computer-use/main/README.md (retrieved 2026-11-04T17:20:43Z; SHA-256 c0175e2d81496c6f3e0d2b391ef35f6349f17793d3af2c5086cb66583e386a57)
+- https://raw.githubusercontent.com/988hj7tczd-oss/dsh-computer-use/HEAD/LICENSE (retrieved 2026-11-04T17:27:03Z; SHA-256 e08ef7e034cf33c4eb2c451b07a9ba082b68032be0deb23bae144f1c7ba5a7f5)
+
+---
+
 ## Anionex DSH Computer Use
 
 macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility observations, stale-state rejection, and scoped permissions.
@@ -879,37 +1275,202 @@ macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility obs
 
 ---
 
-## Browser MCP
+## bitwarden-use
 
-A local MCP server and Chromium extension that let AI applications operate browser tabs through Playwright, with pairing and extension-enforced controls.
+A vault CLI supplies browser agents with site account lookup and login guidance while managing Bitwarden or Vaultwarden credentials and passkeys.
 
-- Catalog URL: https://awesomecua.com/resources/github-browsermcp-mcp/
-- Original source: https://github.com/BrowserMCP/mcp
+- Catalog URL: https://awesomecua.com/resources/github-leeguooooo-bitwarden-use/
+- Original source: https://github.com/leeguooooo/bitwarden-use
 - Kind: tool
 - Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, tool-integration, safety-security
-- Evidence checked: 2026-11-09T05:05:19Z
-- ID: github:browsermcp/mcp
+- Scope: adjacent
+- Environments: web, desktop, macos, linux
+- Topics: tool-integration, safety-security, web-navigation
+- Evidence checked: 2026-11-09T19:56:21Z
+- ID: github:leeguooooo/bitwarden-use
 
 ### Limitations
 
-The repository contains the MCP server, daemon, protocol, and extension packages. Its README requires Node.js 24 or later, pnpm, and a Chromium browser, and declares Apache-2.0.
+The README describes a background key-holding agent, a login command, and an _autotype field for site login steps. It lists macOS and Linux release binaries and macOS Touch ID controls.
 
-- Record JSON: https://awesomecua.com/resources/github-browsermcp-mcp/record.json
+- Record JSON: https://awesomecua.com/resources/github-leeguooooo-bitwarden-use/record.json
 
 ### License declarations
 
-- code: Apache-2.0 — https://raw.githubusercontent.com/BrowserMCP/mcp/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/leeguooooo/bitwarden-use/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/BrowserMCP/mcp/HEAD/README.md (retrieved 2026-11-09T05:05:19Z; SHA-256 9a321a857e80b5c0ab5aeb093cf6c2d3f550efece0c1708c856b0711c73ff6be)
-- https://raw.githubusercontent.com/BrowserMCP/mcp/HEAD/LICENSE (retrieved 2026-11-09T05:07:35Z; SHA-256 ca89de37aec49b624f0829065f3ad6abca29cd7c090f29f55713dc44637ef88e)
+- https://raw.githubusercontent.com/leeguooooo/bitwarden-use/HEAD/README.md (retrieved 2026-11-09T19:56:21Z; SHA-256 ce1eae25eddabdc5097ec430c5bf3466e65b0fb77eb322ba4fb64574a68a925c)
+- https://raw.githubusercontent.com/leeguooooo/bitwarden-use/HEAD/LICENSE (retrieved 2026-11-09T14:20:41Z; SHA-256 91d1c036e7e2c500f36e8c72ec80913a5e01f272cddc74bb46105ef65a0e8132)
+
+---
+
+## cc-haha
+
+cc-haha is a clean-room TypeScript implementation and visual debugger of the Claude Code agent harness, memory, and tool runtime.
+
+- Catalog URL: https://awesomecua.com/resources/github-nanmicoder-cc-haha/
+- Original source: https://github.com/NanmiCoder/cc-haha
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, web
+- Topics: tool-integration, memory, observability
+- Evidence checked: 2026-11-04T13:12:27Z
+- ID: github:nanmicoder/cc-haha
+
+- Record JSON: https://awesomecua.com/resources/github-nanmicoder-cc-haha/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/NanmiCoder/cc-haha/HEAD/README.md (retrieved 2026-11-04T13:12:27Z; SHA-256 b8736628a623a6e072d07221bdb7b5ef028b6598b38a4b26bab051cdf75414a7)
+
+---
+
+## Chrome Agent Bridge
+
+A local Chrome extension and MCP server connect agents to an existing browser session for page inspection, navigation, interface actions, and debugging.
+
+- Catalog URL: https://awesomecua.com/resources/github-escapewu-chrome-agent-bridge/
+- Original source: https://github.com/escapeWu/chrome-agent-bridge
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop, macos, linux
+- Topics: web-navigation, automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:56:09Z
+- ID: github:escapewu/chrome-agent-bridge
+
+### Limitations
+
+The documented components are a Chrome extension, Native Messaging host, and MCP server. The README specifies Node.js and Chrome on macOS or Linux and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-escapewu-chrome-agent-bridge/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/escapeWu/chrome-agent-bridge/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/escapeWu/chrome-agent-bridge/HEAD/README.md (retrieved 2026-11-09T19:56:09Z; SHA-256 5909ed382b169e19e57c90c7311d7ed710ad6ec695d5d6a91d4fad874a5315bc)
+- https://raw.githubusercontent.com/escapeWu/chrome-agent-bridge/HEAD/LICENSE (retrieved 2026-11-09T14:20:37Z; SHA-256 ab7082b6181616964b02939b052b3dc7dbb1d116ce3e13bc370b2fd41de57536)
+
+---
+
+## Chrome MCP Server
+
+A Chrome extension and MCP bridge that let AI clients operate an existing browser session. Its tools cover screenshots, page interaction, and browser data.
+
+- Catalog URL: https://awesomecua.com/resources/github-hangwin-mcp-chrome/
+- Original source: https://github.com/hangwin/mcp-chrome
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, screen-understanding
+- Evidence checked: 2026-11-09T19:56:03Z
+- ID: github:hangwin/mcp-chrome
+
+### Limitations
+
+The README provides extension and bridge installation steps and describes Streamable HTTP and stdio connections. It states an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-hangwin-mcp-chrome/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hangwin/mcp-chrome/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hangwin/mcp-chrome/HEAD/README.md (retrieved 2026-11-09T19:56:03Z; SHA-256 949370768e87221359abaaf50e72a667ee0db77d80cb636cc2655ba7eb7247d3)
+- https://raw.githubusercontent.com/hangwin/mcp-chrome/HEAD/LICENSE (retrieved 2026-11-09T14:20:35Z; SHA-256 d44b3734ef77a2bebb8508aa122ca1c40287d8ee288f0baf6437e6843e3bee00)
+
+---
+
+## chrome-use
+
+chrome-use is a CLI and extension that let AI agents control tabs in an existing Chrome browser. It uses native messaging and gives separate tab groups to agent sessions.
+
+- Catalog URL: https://awesomecua.com/resources/github-leeguooooo-chrome-use/
+- Original source: https://github.com/leeguooooo/chrome-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop, macos, linux, windows, cross-platform
+- Topics: web-navigation, automation, tool-integration
+- Evidence checked: 2026-11-09T19:55:45Z
+- ID: github:leeguooooo/chrome-use
+
+### Limitations
+
+The README documents macOS, Linux, and Windows installers. It says the extension connects through native messaging and uses Chrome's debugger interface to control tabs. The repository declares an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-leeguooooo-chrome-use/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/leeguooooo/chrome-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/leeguooooo/chrome-use/HEAD/README.md (retrieved 2026-11-09T19:55:45Z; SHA-256 aa9d056f0a2d35359ad29c88dae92e215b1edf03ade0d78693ce83c929a60ce4)
+- https://raw.githubusercontent.com/leeguooooo/chrome-use/HEAD/LICENSE (retrieved 2026-11-09T14:20:30Z; SHA-256 014bb31e83d5c2e76aea1cc6e82217346ab41362f32cb355ad0f5c10aa0aeaff)
+
+---
+
+## Claude-Surf
+
+A Claude Code plugin that connects to VibeSurf to control browser pages, run web automation workflows and access browser-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-vibesurf-ai-claude-surf/
+- Original source: https://github.com/vibesurf-ai/claude-surf
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, workflow, tool-integration
+- Evidence checked: 2026-11-09T19:57:41Z
+- ID: github:vibesurf-ai/claude-surf
+
+### Limitations
+
+The repository includes plugin configuration, hooks and skills. Local and Docker setup options are documented. The README displays an MIT license badge.
+
+- Record JSON: https://awesomecua.com/resources/github-vibesurf-ai-claude-surf/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/vibesurf-ai/claude-surf/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vibesurf-ai/claude-surf/HEAD/README.md (retrieved 2026-11-09T19:57:41Z; SHA-256 5cb286c2e3849a6f99745f69736703c506b54d6d22cb17e7e6dbb67a24fbfb65)
+- https://raw.githubusercontent.com/vibesurf-ai/claude-surf/HEAD/LICENSE (retrieved 2026-11-09T14:21:14Z; SHA-256 3e57f478ac45640954be45a5c7b4352e3f7f6b0735e2150b4ab5222d2f17c6f0)
 
 ---
 
@@ -973,6 +1534,36 @@ Computer Control MCP is a zero-dependency Model Context Protocol server providin
 
 ---
 
+## computer-use-linux
+
+Native Linux desktop control server for AI agents over MCP, Pi tools, and CLI with semantic AT-SPI trees and screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/github-agent-sh-computer-use-linux/
+- Original source: https://github.com/agent-sh/computer-use-linux
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: tool-integration, screen-understanding, automation
+- Evidence checked: 2026-11-04T16:10:35Z
+- ID: github:agent-sh/computer-use-linux
+
+- Record JSON: https://awesomecua.com/resources/github-agent-sh-computer-use-linux/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/agent-sh/computer-use-linux/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agent-sh/computer-use-linux/HEAD/README.md (retrieved 2026-11-04T16:10:35Z; SHA-256 24989c513c7ff35df78246e104f9344c6dc94787a32b107650d25441894c0c64)
+- https://raw.githubusercontent.com/agent-sh/computer-use-linux/HEAD/LICENSE (retrieved 2026-11-04T16:14:23Z; SHA-256 865367984df228c2bbf9df7e790b26c3b083376b705375db36a8a032daa03a25)
+
+---
+
 ## Crawl4AI
 
 Crawl4AI is an open-source browser automation and web crawling toolkit that converts dynamic webpages into structured Markdown and JSON for agents.
@@ -1003,36 +1594,105 @@ Crawl4AI is an open-source browser automation and web crawling toolkit that conv
 
 ---
 
-## DroidBot
+## DSH Android
 
-DroidBot generates scripted or model-guided inputs for Android app testing and records UI transitions, view structures, and method traces.
+A DeepSeek Harness plugin streams an Android emulator or phone into an agent conversation and provides adb tools for screen capture, UI inspection and interaction.
 
-- Catalog URL: https://awesomecua.com/resources/github-honeynet-droidbot/
-- Original source: https://github.com/honeynet/droidbot
+- Catalog URL: https://awesomecua.com/resources/github-zseven-w-dsh-android/
+- Original source: https://github.com/ZSeven-W/dsh-android
 - Kind: tool
 - Review: curated
-- Scope: adjacent
+- Scope: core
 - Environments: android
-- Topics: automation, evaluation, screen-understanding
-- Evidence checked: 2026-11-09T05:05:20Z
-- ID: github:honeynet/droidbot
+- Topics: mobile-navigation, automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:57:03Z
+- ID: github:zseven-w/dsh-android
 
 ### Limitations
 
-The repository includes code and script samples. Running it requires an APK, a connected device or emulator, Python, Java, and the Android SDK.
+The README describes 20 agent tools, Gradle build and run support, OCR actions and a persistent live device panel. It declares an MIT license.
 
-- Record JSON: https://awesomecua.com/resources/github-honeynet-droidbot/record.json
+- Record JSON: https://awesomecua.com/resources/github-zseven-w-dsh-android/record.json
 
 ### License declarations
 
-- code: not recorded
+- code: MIT — https://raw.githubusercontent.com/ZSeven-W/dsh-android/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/honeynet/droidbot/HEAD/README.md (retrieved 2026-11-09T05:05:20Z; SHA-256 a0ef945aa3269b8b8500696c3fc9085fe1ae0745f86dccfc6528b35d268a7b68)
+- https://raw.githubusercontent.com/ZSeven-W/dsh-android/HEAD/README.md (retrieved 2026-11-09T19:57:03Z; SHA-256 2dcd9f74ed7cf9b09d4137ba5840d7eaeecf0848a9e3f9f021fbdfa38a6a96e8)
+- https://raw.githubusercontent.com/ZSeven-W/dsh-android/HEAD/LICENSE (retrieved 2026-11-09T14:20:50Z; SHA-256 07810262dcd2df061e16ae24c3a9a7a3cd265ddfc2bfb073544cd11af22d7812)
+
+---
+
+## DSH iOS Simulator
+
+A DeepSeek Harness plugin that gives agents access to an iOS Simulator or USB-connected iPhone, with live video, UI inspection, and tap tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-zseven-w-dsh-ios/
+- Original source: https://github.com/ZSeven-W/dsh-ios
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: ios, macos, desktop
+- Topics: mobile-navigation, screen-understanding, automation, state-tracking
+- Evidence checked: 2026-11-09T19:56:58Z
+- ID: github:zseven-w/dsh-ios
+
+### Limitations
+
+The README lists 22 agent tools and says simulator controls use simctl and serve-sim while physical devices use WebDriverAgent. It requires a macOS host for device operation.
+
+- Record JSON: https://awesomecua.com/resources/github-zseven-w-dsh-ios/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ZSeven-W/dsh-ios/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ZSeven-W/dsh-ios/HEAD/README.md (retrieved 2026-11-09T19:56:58Z; SHA-256 5aafbf63516ad1b3fd8de9429aa75c1010bea8a4b9674568c0b33ba4cdd8431f)
+- https://raw.githubusercontent.com/ZSeven-W/dsh-ios/HEAD/LICENSE (retrieved 2026-11-09T14:20:48Z; SHA-256 07810262dcd2df061e16ae24c3a9a7a3cd265ddfc2bfb073544cd11af22d7812)
+
+---
+
+## DSH Vision Toolkit
+
+DSH Vision Toolkit adds screenshot reading, visual grounding, UI reconstruction, and pixel comparison tools to DeepSeek Harness agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/
+- Original source: https://github.com/anionex/dsh-vision-toolkit
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: screen-understanding, grounding, ui-design, tool-integration
+- Evidence checked: 2026-11-09T19:58:09Z
+- ID: github:anionex/dsh-vision-toolkit
+
+### Limitations
+
+The README describes integration with Harness profiles, sessions, settings, artifacts, and its web interface. It includes a bundled skill and names the MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/anionex/dsh-vision-toolkit/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/anionex/dsh-vision-toolkit/HEAD/README.md (retrieved 2026-11-09T19:58:09Z; SHA-256 3da573a24de40ee6c927edb63eb9032fd43f07d07147e0223fa457e5c803eaa9)
+- https://raw.githubusercontent.com/anionex/dsh-vision-toolkit/HEAD/LICENSE (retrieved 2026-11-09T14:21:23Z; SHA-256 6f9c6c3e17f4022960800cf48ce228c77cf62b4e3ee9dd289efe1cc9a16b1ec2)
 
 ---
 
@@ -1134,6 +1794,74 @@ Ghost OS is a native macOS MCP server combining accessibility-tree action execut
 
 ---
 
+## Hronaut for Codex
+
+A Codex plugin that connects a coding agent to the Hronaut desktop browser through an MCP server and an included skill.
+
+- Catalog URL: https://awesomecua.com/resources/github-hronaut-hronaut-codex-plugin/
+- Original source: https://github.com/hronaut/hronaut-codex-plugin
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop, macos, windows, linux
+- Topics: web-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:55:59Z
+- ID: github:hronaut/hronaut-codex-plugin
+
+### Limitations
+
+The source says the plugin repository contains a marketplace entry, plugin files, and tests. It requires the separate Hronaut application.
+
+- Record JSON: https://awesomecua.com/resources/github-hronaut-hronaut-codex-plugin/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hronaut/hronaut-codex-plugin/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hronaut/hronaut-codex-plugin/HEAD/README.md (retrieved 2026-11-09T19:55:59Z; SHA-256 db0657f1923c6e6dedbdfa7f5d619c987837785996b05acf034dac8b83dc29c3)
+- https://raw.githubusercontent.com/hronaut/hronaut-codex-plugin/HEAD/LICENSE (retrieved 2026-11-09T14:20:33Z; SHA-256 974612978906e6a29019ada97ed14fdc0ae24afd5db8d25a2cb7e27995b9722c)
+
+---
+
+## HumanCursor
+
+A Python mouse-automation package with web and system cursor controls for movement, clicks, drags, and scrolling. Its script tool records cursor actions for replay.
+
+- Catalog URL: https://awesomecua.com/resources/github-riflosnake-humancursor/
+- Original source: https://github.com/riflosnake/HumanCursor
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop, cross-platform
+- Topics: automation, recording, web-navigation
+- Evidence checked: 2026-11-09T19:56:44Z
+- ID: github:riflosnake/humancursor
+
+### Limitations
+
+The README documents Selenium-backed WebCursor, pyautogui-backed SystemCursor, HCScripter, and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-riflosnake-humancursor/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/riflosnake/HumanCursor/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/riflosnake/HumanCursor/HEAD/README.md (retrieved 2026-11-09T19:56:44Z; SHA-256 8f115a3120487b1339ee582dced48b47878fde0b814bde0107bea1ae0346925c)
+- https://raw.githubusercontent.com/riflosnake/HumanCursor/HEAD/LICENSE (retrieved 2026-11-09T14:20:46Z; SHA-256 ce401b2a3ed683c362c98ae4402aea7ea13c9d9d33df093a12b36674b7e66fa9)
+
+---
+
 ## invisible_playwright
 
 invisible_playwright provides a drop-in Python Playwright client backed by an anti-detect Firefox build for stealth browser agent automation.
@@ -1161,6 +1889,36 @@ invisible_playwright provides a drop-in Python Playwright client backed by an an
 
 - https://raw.githubusercontent.com/feder-cr/invisible_playwright/HEAD/README.md (retrieved 2026-11-04T13:12:14Z; SHA-256 1e6a8546ec6cec0a8fdfce22783a7474a628394d5cf9e9fa1516b2aa8635879d)
 - https://raw.githubusercontent.com/feder-cr/invisible_playwright/HEAD/LICENSE (retrieved 2026-11-04T13:23:36Z; SHA-256 2abb03e63a96918967f383cbc36e3faefe10a47ae20b2cab43212ef965e02f96)
+
+---
+
+## Kimi Computer Use Bridge
+
+Bridges Kimi Code CLI to local macOS desktop applications through the OpenAI Computer Use MCP server and Apple Accessibility APIs.
+
+- Catalog URL: https://awesomecua.com/resources/github-songkeys-kimi-computer-use/
+- Original source: https://github.com/songkeys/kimi-computer-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: tool-integration, automation
+- Evidence checked: 2026-11-04T13:12:36Z
+- ID: github:songkeys/kimi-computer-use
+
+- Record JSON: https://awesomecua.com/resources/github-songkeys-kimi-computer-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/songkeys/kimi-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/songkeys/kimi-computer-use/HEAD/README.md (retrieved 2026-11-04T13:12:36Z; SHA-256 cab90b91725f288afcebff4747457222084d06bf7158f67c61d79217923e11f2)
+- https://raw.githubusercontent.com/songkeys/kimi-computer-use/HEAD/LICENSE (retrieved 2026-11-04T13:42:34Z; SHA-256 3326ce14ae1217999f83d6f8f25e051ee5a6ab5b139e80894a64ca901440efb9)
 
 ---
 
@@ -1221,6 +1979,69 @@ Lightweight Model Context Protocol server for macOS computer use providing Acces
 
 - https://raw.githubusercontent.com/CursorTouch/MacOS-MCP/HEAD/README.md (retrieved 2026-11-04T15:45:53Z; SHA-256 8bdb465cd327790761ccb78036aa9d790e48c20f7fdc278c9ab9d0a08084dd97)
 - https://raw.githubusercontent.com/CursorTouch/MacOS-MCP/HEAD/LICENSE (retrieved 2026-11-04T15:58:10Z; SHA-256 02cc0ff8ee1c698a8668a60411c952cf0d0293fc387e0eabb48391399153e6b9)
+
+---
+
+## MacosUseSDK
+
+MacosUseSDK is a Swift library and CLI for traversing the macOS accessibility tree and simulating native mouse and keyboard input.
+
+- Catalog URL: https://awesomecua.com/resources/github-mediar-ai-macosusesdk/
+- Original source: https://github.com/mediar-ai/MacosUseSDK
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: automation, screen-understanding
+- Evidence checked: 2026-11-04T13:12:24Z
+- ID: github:mediar-ai/macosusesdk
+
+- Record JSON: https://awesomecua.com/resources/github-mediar-ai-macosusesdk/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/mediar-ai/MacosUseSDK/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mediar-ai/MacosUseSDK/HEAD/README.md (retrieved 2026-11-04T13:12:24Z; SHA-256 12ec1b43a16fd6fdd2bc3391410d81d3e9ff822ce5cc87676a960425885ae24f)
+- https://raw.githubusercontent.com/mediar-ai/MacosUseSDK/HEAD/LICENSE (retrieved 2026-11-04T13:23:42Z; SHA-256 667e02c97ff3a9bc65eb85337675726a21a014b3dc5a6c618346478592143170)
+
+---
+
+## mcp-server-macos-use
+
+A Swift MCP server gives agents tools to inspect macOS application accessibility trees and perform mouse and keyboard actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-mediar-ai-mcp-server-macos-use/
+- Original source: https://github.com/mediar-ai/mcp-server-macos-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:56:09Z
+- ID: github:mediar-ai/mcp-server-macos-use
+
+### Limitations
+
+The documented tools open applications, click, type, press keys, and refresh accessibility-tree traversal. The server uses MacosUseSDK and communicates with MCP clients over stdio.
+
+- Record JSON: https://awesomecua.com/resources/github-mediar-ai-mcp-server-macos-use/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mediar-ai/mcp-server-macos-use/HEAD/README.md (retrieved 2026-11-09T19:56:09Z; SHA-256 4ff929a006b6b6043230ccd69a79528f1239e3aff001a5a7f7f48b50bae84262)
 
 ---
 
@@ -1358,6 +2179,36 @@ Cross-platform desktop automation MCP server for controlling screens, windows, m
 
 ---
 
+## Open Browser Use
+
+Open Browser Use provides a CLI, daemon, and Chrome extension for controlling a user's live browser session with persistent login state.
+
+- Catalog URL: https://awesomecua.com/resources/github-ifuryst-open-browser-use/
+- Original source: https://github.com/iFurySt/open-browser-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, automation
+- Evidence checked: 2026-11-04T13:12:18Z
+- ID: github:ifuryst/open-browser-use
+
+- Record JSON: https://awesomecua.com/resources/github-ifuryst-open-browser-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/iFurySt/open-browser-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/iFurySt/open-browser-use/HEAD/README.md (retrieved 2026-11-04T13:12:18Z; SHA-256 2e48f131345057efc4ac56935f2d2a702c716e4e9d67c65a39caaef16d50baf0)
+- https://raw.githubusercontent.com/iFurySt/open-browser-use/HEAD/LICENSE (retrieved 2026-11-04T13:23:39Z; SHA-256 0fdb775e00e6fdde23984b4f1184cd13c34135caac1e714ad489141c239704bc)
+
+---
+
 ## openadapt-grounding
 
 An archived GUI element localization package that anchors targets to OCR text and stabilizes detections across frames, with optional model-based fallbacks.
@@ -1426,37 +2277,97 @@ The code now lives in the OpenAdapt repository. The package uses Presidio and a 
 
 ---
 
-## pi-computer-use
+## Peekaboo
 
-Pi extension that gives agents tools to find app windows, observe and search visible controls, click, type, scroll and wait for UI changes in desktop software.
+Peekaboo is a macOS screen-capture, accessibility-element targeting, and GUI automation CLI and MCP server for computer-use agents.
 
-- Catalog URL: https://awesomecua.com/resources/github-injaneity-pi-computer-use/
-- Original source: https://github.com/injaneity/pi-computer-use
+- Catalog URL: https://awesomecua.com/resources/github-openclaw-peekaboo/
+- Original source: https://github.com/openclaw/Peekaboo
 - Kind: tool
 - Review: curated
 - Scope: core
-- Environments: desktop, macos, windows, linux
-- Topics: automation, screen-understanding, tool-integration
-- Evidence checked: 2026-11-06T16:36:27Z
-- ID: github:injaneity/pi-computer-use
+- Environments: desktop, macos
+- Topics: tool-integration, automation, grounding
+- Evidence checked: 2026-11-04T13:12:30Z
+- ID: github:openclaw/peekaboo
 
-### Limitations
-
-The macOS helper requires macOS 14 or newer. On Linux it runs inside a graphical session with a working AT-SPI2 accessibility bus. MIT per the README.
-
-- Record JSON: https://awesomecua.com/resources/github-injaneity-pi-computer-use/record.json
+- Record JSON: https://awesomecua.com/resources/github-openclaw-peekaboo/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/injaneity/pi-computer-use/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/openclaw/Peekaboo/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/injaneity/pi-computer-use/67e9e2f77643f84605b738a3198048a88e92190e/README.md (retrieved 2026-11-06T16:36:27Z; SHA-256 a3e0a2af0b4ca7e87a090404ca6a114af1abd9946035db6c0a55f570d50678ea)
-- https://raw.githubusercontent.com/injaneity/pi-computer-use/HEAD/LICENSE (retrieved 2026-11-06T09:57:50Z; SHA-256 c269a9558b881ddb20c263823a393a101d2b8c7b668d51e9666e79d2614d4b2b)
+- https://raw.githubusercontent.com/openclaw/Peekaboo/HEAD/README.md (retrieved 2026-11-04T13:12:30Z; SHA-256 9705040d8bd91227553eac3dcd7a03e9e51e04646936d4c9677538ae5a4346f7)
+- https://raw.githubusercontent.com/openclaw/Peekaboo/HEAD/LICENSE (retrieved 2026-11-04T13:23:42Z; SHA-256 62316704df7426e5a79d2827ff8aca36e9abb3a73b8e68557030749ebefec667)
+
+---
+
+## Plasmate
+
+Plasmate is a Rust browser engine for AI agents that transforms HTML and DOM state into a compact, actionable Semantic Object Model.
+
+- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-plasmate/
+- Original source: https://github.com/plasmate-labs/plasmate
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, screen-understanding, efficiency
+- Evidence checked: 2026-11-04T13:12:31Z
+- ID: github:plasmate-labs/plasmate
+
+- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 e4413f27d3adc8c690129e5efe24a28d8aec16cd873ca10f290edce96358b01f)
+- https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/LICENSE (retrieved 2026-11-04T13:23:43Z; SHA-256 a348fa82d4bdc1103bffe408b6b494973f35d01b563f09c72e29595661bb0bcf)
+
+---
+
+## Plow Latch
+
+A Mac application that lets remote agents operate a browser and local tools through approved intents, with sandboxed execution and an audit log.
+
+- Catalog URL: https://awesomecua.com/resources/github-plow-pbc-latch/
+- Original source: https://github.com/plow-pbc/latch
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, web
+- Topics: human-in-the-loop, sandbox, safety-security, web-navigation
+- Evidence checked: 2026-11-09T19:57:08Z
+- ID: github:plow-pbc/latch
+
+### Limitations
+
+The source describes an Electron approval interface, MCP server, outbound relay client, and browser subsystem. It declares an Apache-2.0 license for the repository.
+
+- Record JSON: https://awesomecua.com/resources/github-plow-pbc-latch/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/plow-pbc/latch/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/plow-pbc/latch/HEAD/README.md (retrieved 2026-11-09T19:57:08Z; SHA-256 043530c4f81760db0407fd1b841df35ec67cc249bd085228abafac1a58e2db76)
+- https://raw.githubusercontent.com/plow-pbc/latch/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
 
 ---
 
@@ -1487,6 +2398,40 @@ MCP server and Chrome extension giving coding agents control over an already-ope
 
 - https://raw.githubusercontent.com/ofershap/real-browser-mcp/HEAD/README.md (retrieved 2026-11-04T15:45:46Z; SHA-256 3474eb052401a461726556b6420e33077070242e5fa33b4d7df5f3a1a6c8f6dd)
 - https://raw.githubusercontent.com/ofershap/real-browser-mcp/HEAD/LICENSE (retrieved 2026-11-04T15:57:59Z; SHA-256 c839e81ca021d839328c9e8fed84bb69d227e1851179500b91faf4f7bfca96bc)
+
+---
+
+## rebrowser-patches
+
+rebrowser-patches modifies Puppeteer and Playwright to reduce browser automation signals, and provides drop-in packages for both libraries.
+
+- Catalog URL: https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/
+- Original source: https://github.com/rebrowser/rebrowser-patches
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, robustness, safety-security
+- Evidence checked: 2026-11-09T19:57:35Z
+- ID: github:rebrowser/rebrowser-patches
+
+### Limitations
+
+The README documents patches for execution-context behavior and stack traces, plus drop-in packages for Node.js and Python.
+
+- Record JSON: https://awesomecua.com/resources/github-rebrowser-rebrowser-patches/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/rebrowser/rebrowser-patches/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/rebrowser/rebrowser-patches/HEAD/README.md (retrieved 2026-11-09T19:57:35Z; SHA-256 a91d0a51cec76eeea877ffbe9019bb0ea9e9919c3bb85084803ada7ee456a0f2)
+- https://raw.githubusercontent.com/rebrowser/rebrowser-patches/HEAD/LICENSE (retrieved 2026-11-09T14:21:02Z; SHA-256 5f3632f16f27bf2449cfd460808c13e9bd46a753f54d411f7896e8e626a0666a)
 
 ---
 
@@ -1587,25 +2532,153 @@ The README documents Start and Stop calls, display options, and terminal graphic
 
 ---
 
-## WebDriverAgent
+## Terminator
 
-WebDriverAgent is an iOS WebDriver server for remote app control, including launching apps, tapping, scrolling, and checking views. Development has moved to appium-ios.
+Terminator is an accessibility-first desktop automation SDK and MCP server for controlling Windows, macOS, and Linux GUI applications.
 
-- Catalog URL: https://awesomecua.com/resources/github-appium-webdriveragent/
-- Original source: https://github.com/appium/WebDriverAgent
+- Catalog URL: https://awesomecua.com/resources/github-mediar-ai-terminator/
+- Original source: https://github.com/mediar-ai/terminator
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, macos, linux
+- Topics: tool-integration, automation, grounding
+- Evidence checked: 2026-11-04T13:12:24Z
+- ID: github:mediar-ai/terminator
+
+- Record JSON: https://awesomecua.com/resources/github-mediar-ai-terminator/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/mediar-ai/terminator/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mediar-ai/terminator/HEAD/README.md (retrieved 2026-11-04T13:12:24Z; SHA-256 4beabfce04ca3ff8d3016651b55ee776eec232bb31ebb30acd5bfa80b44acc02)
+- https://raw.githubusercontent.com/mediar-ai/terminator/HEAD/LICENSE (retrieved 2026-11-04T13:23:42Z; SHA-256 6da4adc42392c8485e40b4251c7e332fc3352df1947c9ffade71dd60b14a7a4f)
+
+---
+
+## vadgr-computer-use
+
+Three-tier computer-use MCP server combining system shell tools, OS accessibility trees (UIA/AT-SPI/AX), and vision fallback.
+
+- Catalog URL: https://awesomecua.com/resources/github-montbrain-vadgr-computer-use/
+- Original source: https://github.com/MONTBRAIN/vadgr-computer-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, linux, macos
+- Topics: tool-integration, screen-understanding, grounding, automation
+- Evidence checked: 2026-11-04T16:10:30Z
+- ID: github:montbrain/vadgr-computer-use
+
+- Record JSON: https://awesomecua.com/resources/github-montbrain-vadgr-computer-use/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/MONTBRAIN/vadgr-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/MONTBRAIN/vadgr-computer-use/HEAD/README.md (retrieved 2026-11-04T16:10:30Z; SHA-256 640951389206024162d8e67848c8934304f6788895fc6a3eb739c683e1310211)
+- https://raw.githubusercontent.com/MONTBRAIN/vadgr-computer-use/HEAD/LICENSE (retrieved 2026-11-04T16:14:10Z; SHA-256 68bc5331a19f6dfbbfd5a2751f73294a8a96f54ca677f675524b52253e1803cf)
+
+---
+
+## Vision UI
+
+Vision UI is a visual analysis toolkit for detecting UI elements, matching semantic targets, recognizing text, and comparing interface images.
+
+- Catalog URL: https://awesomecua.com/resources/github-meituan-dianping-vision-ui/
+- Original source: https://github.com/Meituan-Dianping/vision-ui
 - Kind: tool
 - Review: curated
 - Scope: adjacent
-- Environments: ios
-- Topics: automation, mobile-navigation, history
+- Environments: unspecified
+- Topics: screen-understanding, grounding, automation
 - Evidence checked: 2026-11-09T06:16:33Z
-- ID: github:appium/webdriveragent
+- ID: github:meituan-dianping/vision-ui
 
 ### Limitations
 
-The source describes devices and simulators, XCTest-based commands, and a Node.js requirement for this repository. It declares a BSD license.
+The repository includes Python code and documentation for detection, semantic recognition, image comparison, and text recognition. The source declares an MIT license.
 
-- Record JSON: https://awesomecua.com/resources/github-appium-webdriveragent/record.json
+- Record JSON: https://awesomecua.com/resources/github-meituan-dianping-vision-ui/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Meituan-Dianping/vision-ui/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Meituan-Dianping/vision-ui/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 33e54601ac6fc8810b87889a86428a44b13c9f25e5ca0f8ea0db95f7213feab9)
+- https://raw.githubusercontent.com/Meituan-Dianping/vision-ui/HEAD/LICENSE (retrieved 2026-11-09T06:13:31Z; SHA-256 344f21123f798b47f16cb7b67c7d4bdb06d920f21d78bc2a2e729eaf4c65cb30)
+
+---
+
+## WebMCP - Model Context Tool Inspector
+
+A Chrome extension displays WebMCP tools exposed by a page and lets developers inspect and execute them through a side panel.
+
+- Catalog URL: https://awesomecua.com/resources/github-beaufortfrancois-model-context-tool-inspector/
+- Original source: https://github.com/beaufortfrancois/model-context-tool-inspector
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: tool-integration, observability
+- Evidence checked: 2026-11-09T19:56:09Z
+- ID: github:beaufortfrancois/model-context-tool-inspector
+
+### Limitations
+
+The README documents Chrome Web Store and source installation and says the WebMCP testing flag must be enabled. Tool inputs are entered as JSON in the side panel.
+
+- Record JSON: https://awesomecua.com/resources/github-beaufortfrancois-model-context-tool-inspector/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/beaufortfrancois/model-context-tool-inspector/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/beaufortfrancois/model-context-tool-inspector/HEAD/README.md (retrieved 2026-11-09T19:56:09Z; SHA-256 fd3e4c9576f4e73c7b2c74fab1d2f0f0573905e0f0864050262b582a5c10a3f2)
+- https://raw.githubusercontent.com/beaufortfrancois/model-context-tool-inspector/HEAD/LICENSE (retrieved 2026-11-09T14:20:37Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
+
+---
+
+## xdotool
+
+xdotool is an X11 command line utility for simulating keyboard and mouse input and controlling windows. The repository also includes libxdo, a C library for the same operations.
+
+- Catalog URL: https://awesomecua.com/resources/github-jordansissel-xdotool/
+- Original source: https://github.com/jordansissel/xdotool
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, linux
+- Topics: automation
+- Evidence checked: 2026-11-09T19:57:07Z
+- ID: github:jordansissel/xdotool
+
+### Limitations
+
+The README includes typing, keypress, window selection, and build examples. It says many functions do not work correctly under Wayland.
+
+- Record JSON: https://awesomecua.com/resources/github-jordansissel-xdotool/record.json
 
 ### License declarations
 
@@ -1616,7 +2689,7 @@ The source describes devices and simulators, XCTest-based commands, and a Node.j
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/appium/WebDriverAgent/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 8c779558a96d230ddfc3ca5d4341fc8702b0eff299ce37d93db945ed22d0bb13)
+- https://raw.githubusercontent.com/jordansissel/xdotool/HEAD/README.md (retrieved 2026-11-09T19:57:07Z; SHA-256 ba7cd2e259e01a927f592c063b83a60ceec642f619751f066211fae896684ec5)
 
 ---
 
@@ -1654,33 +2727,135 @@ The README includes commands for clipboard access, long press, drag, swipe and p
 
 ---
 
-## 988hj7tczd-oss dsh-computer-use
+## ydotool
 
-Cross-platform DeepSeek Harness computer-use plugin featuring an independent virtual cursor, UI grounding, and desktop input.
+ydotool is a Linux command-line utility for sending mouse and keyboard input. It provides commands to click, move the pointer, type text and press keys.
 
-- Catalog URL: https://awesomecua.com/resources/github-988hj7tczd-oss-dsh-computer-use/
-- Original source: https://github.com/988hj7tczd-oss/dsh-computer-use
+- Catalog URL: https://awesomecua.com/resources/github-reimunotmoe-ydotool/
+- Original source: https://github.com/ReimuNotMoe/ydotool
 - Kind: tool
 - Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, windows, macos, linux
-- Topics: screen-understanding, automation, tool-integration
-- Evidence checked: 2026-11-04T17:20:43Z
-- ID: github:988hj7tczd-oss/dsh-computer-use
+- Scope: adjacent
+- Environments: desktop, linux
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T19:57:27Z
+- ID: github:reimunotmoe/ydotool
 
-- Record JSON: https://awesomecua.com/resources/github-988hj7tczd-oss-dsh-computer-use/record.json
+### Limitations
+
+The README documents a separate ydotoold daemon and says the current implementation is written in C99.
+
+- Record JSON: https://awesomecua.com/resources/github-reimunotmoe-ydotool/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/988hj7tczd-oss/dsh-computer-use/HEAD/LICENSE
+- code: AGPL-3.0 — https://raw.githubusercontent.com/ReimuNotMoe/ydotool/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/988hj7tczd-oss/dsh-computer-use/main/README.md (retrieved 2026-11-04T17:20:43Z; SHA-256 c0175e2d81496c6f3e0d2b391ef35f6349f17793d3af2c5086cb66583e386a57)
-- https://raw.githubusercontent.com/988hj7tczd-oss/dsh-computer-use/HEAD/LICENSE (retrieved 2026-11-04T17:27:03Z; SHA-256 e08ef7e034cf33c4eb2c451b07a9ba082b68032be0deb23bae144f1c7ba5a7f5)
+- https://raw.githubusercontent.com/ReimuNotMoe/ydotool/HEAD/README.md (retrieved 2026-11-09T19:57:27Z; SHA-256 74f69347721dc159430e8ba3b0379b59cb29a580fd1dc8a5281e08d2e17791c3)
+- https://raw.githubusercontent.com/ReimuNotMoe/ydotool/HEAD/LICENSE (retrieved 2026-11-09T14:20:59Z; SHA-256 0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0)
+
+---
+
+## activity-frames
+
+Converts continuous local desktop activity into structured, queryable workflow frames served over MCP.
+
+- Catalog URL: https://awesomecua.com/resources/github-nossa-y-activity-frames/
+- Original source: https://github.com/nossa-y/activity-frames
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, windows, linux
+- Topics: recording, memory, workflow, tool-integration
+- Evidence checked: 2026-11-04T16:30:15Z
+- ID: github:nossa-y/activity-frames
+
+- Record JSON: https://awesomecua.com/resources/github-nossa-y-activity-frames/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/nossa-y/activity-frames/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/nossa-y/activity-frames/HEAD/README.md (retrieved 2026-11-04T16:30:15Z; SHA-256 a69aecb1e08e2583f9d82cdfb74875c38dfe8aeaa02e886ba6e760d7eea1ee84)
+- https://raw.githubusercontent.com/nossa-y/activity-frames/HEAD/LICENSE (retrieved 2026-11-04T16:35:38Z; SHA-256 8e5dbfa27927419d8861cbd337fb3317e4fa039babf1930ce2d5dac0154edb48)
+
+---
+
+## adb
+
+A Go device-control API provides taps, swipes, typing and screenshots on Android through adb and on iOS through WebDriverAgent.
+
+- Catalog URL: https://awesomecua.com/resources/github-vcaesar-adb/
+- Original source: https://github.com/vcaesar/adb
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, android, ios
+- Topics: automation, mobile-navigation
+- Evidence checked: 2026-11-09T19:57:03Z
+- ID: github:vcaesar/adb
+
+### Limitations
+
+Android use requires adb in PATH. iOS use requires WebDriverAgent and a forwarded port.
+
+- Record JSON: https://awesomecua.com/resources/github-vcaesar-adb/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/vcaesar/adb/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vcaesar/adb/HEAD/README.md (retrieved 2026-11-09T19:57:03Z; SHA-256 5fd2893409af18d46bff5bb0b5240798367330a7bde56812d96af6f3dd8ec706)
+- https://raw.githubusercontent.com/vcaesar/adb/HEAD/LICENSE (retrieved 2026-11-09T14:20:49Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## Agent Browser Bridge
+
+A browser control bridge that lets agents inspect and act in an active Edge session through MCP, a CLI, or Python. It also offers screenshot and input controls for Windows desktops.
+
+- Catalog URL: https://awesomecua.com/resources/github-shanewas-agent-browser-bridge/
+- Original source: https://github.com/shanewas/agent-browser-bridge
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, windows
+- Topics: web-navigation, automation, tool-integration, screen-understanding
+- Evidence checked: 2026-11-09T19:57:17Z
+- ID: github:shanewas/agent-browser-bridge
+
+### Limitations
+
+The README describes a background daemon and companion browser extension. It says Edge is the tested browser and that the Windows desktop features use an optional package extra.
+
+- Record JSON: https://awesomecua.com/resources/github-shanewas-agent-browser-bridge/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/shanewas/agent-browser-bridge/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/shanewas/agent-browser-bridge/HEAD/README.md (retrieved 2026-11-09T19:57:17Z; SHA-256 dbc948739eaa0eee5d9e0dcc4576f5f0d4008c8e773026dbeb3bbc4df013a37d)
+- https://raw.githubusercontent.com/shanewas/agent-browser-bridge/HEAD/LICENSE (retrieved 2026-11-09T14:20:57Z; SHA-256 c4b76a83acc60593402e2558f40cc551d8f6ef9b96a39b822865be082d75f315)
 
 ---
 
@@ -1789,6 +2964,236 @@ agent-desktop is a Rust CLI that exposes cross-platform OS accessibility trees a
 
 ---
 
+## agent-view
+
+A CLI for agents to inspect and operate Electron, Windows Tauri, and Chromium apps through Chrome DevTools Protocol, with accessibility, screenshot, input, and diagnostic commands.
+
+- Catalog URL: https://awesomecua.com/resources/github-petukhovart-agent-view/
+- Original source: https://github.com/PetukhovArt/agent-view
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, web
+- Topics: automation, screen-understanding, observability, tool-integration
+- Evidence checked: 2026-11-09T19:57:37Z
+- ID: github:petukhovart/agent-view
+
+### Limitations
+
+The repository provides a CLI and a Claude Code verification plugin. Tauri support uses WebView2 on Windows; the README excludes Tauri on macOS and Linux because those versions use WebKit.
+
+- Record JSON: https://awesomecua.com/resources/github-petukhovart-agent-view/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/PetukhovArt/agent-view/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/PetukhovArt/agent-view/HEAD/README.md (retrieved 2026-11-09T19:57:37Z; SHA-256 3b4ad3b76e350fe1174fa865763116171f7369960998e893571e412430806f4f)
+- https://raw.githubusercontent.com/PetukhovArt/agent-view/HEAD/LICENSE (retrieved 2026-11-09T14:21:08Z; SHA-256 e0d30efc994ecf097980c8779ba6cc362b8296cf0db028e49dafd12acb5f59ff)
+
+---
+
+## agent-vision-toolkit
+
+Vision toolkit and skill pack equipping text-only LLMs with multi-image reading, UI reconstruction, and GUI automation.
+
+- Catalog URL: https://awesomecua.com/resources/github-anionex-agent-vision-toolkit/
+- Original source: https://github.com/Anionex/agent-vision-toolkit
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: screen-understanding, grounding, ui-design, tool-integration
+- Evidence checked: 2026-11-04T16:51:53Z
+- ID: github:anionex/agent-vision-toolkit
+
+- Record JSON: https://awesomecua.com/resources/github-anionex-agent-vision-toolkit/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Anionex/agent-vision-toolkit/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Anionex/agent-vision-toolkit/HEAD/README.md (retrieved 2026-11-04T16:51:53Z; SHA-256 411bcf139f9df4320d38da53211bcf805beba3a603891694930e446c07451804)
+- https://raw.githubusercontent.com/Anionex/agent-vision-toolkit/HEAD/LICENSE (retrieved 2026-11-04T16:57:33Z; SHA-256 6f9c6c3e17f4022960800cf48ce228c77cf62b4e3ee9dd289efe1cc9a16b1ec2)
+
+---
+
+## ahk-mcp
+
+ahk-mcp gives AI agents MCP tools to inspect Windows accessibility trees and act on desktop controls, with additional browser control through the DevTools Protocol.
+
+- Catalog URL: https://awesomecua.com/resources/github-anomalous3-ahk-mcp/
+- Original source: https://github.com/anomalous3/ahk-mcp
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, windows, web
+- Topics: automation, screen-understanding, tool-integration, efficiency
+- Evidence checked: 2026-11-09T19:56:12Z
+- ID: github:anomalous3/ahk-mcp
+
+### Limitations
+
+The source lists observation, action, browser and flow tools. Setup requires Windows, AutoHotkey v2 and Python.
+
+- Record JSON: https://awesomecua.com/resources/github-anomalous3-ahk-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/anomalous3/ahk-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/anomalous3/ahk-mcp/HEAD/README.md (retrieved 2026-11-09T19:56:12Z; SHA-256 7884651f274b35951d8ce2e0e6f2b8ec93890a908ee64ce4d929bef0b062b4ff)
+- https://raw.githubusercontent.com/anomalous3/ahk-mcp/HEAD/LICENSE (retrieved 2026-11-09T14:20:38Z; SHA-256 f0587d3322e7af8fefb85116e51926ad51f3eaa0745f13e67f960e356eb44ef6)
+
+---
+
+## ai-browser-bridge
+
+A macOS terminal tool operates live AI chat websites through Chrome and exposes validated local repository actions to those chats through an MCP server.
+
+- Catalog URL: https://awesomecua.com/resources/github-yosefhayim-ai-browser-bridge/
+- Original source: https://github.com/YosefHayim/ai-browser-bridge
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop, macos
+- Topics: web-navigation, automation, tool-integration
+- Evidence checked: 2026-11-09T19:57:26Z
+- ID: github:yosefhayim/ai-browser-bridge
+
+### Limitations
+
+The repository describes a TypeScript CLI using Playwright and Chrome DevTools Protocol. It requires Chrome and Node.js; an optional Cloudflare Tunnel lets supported web chats call local MCP tools.
+
+- Record JSON: https://awesomecua.com/resources/github-yosefhayim-ai-browser-bridge/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/YosefHayim/ai-browser-bridge/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/YosefHayim/ai-browser-bridge/HEAD/README.md (retrieved 2026-11-09T19:57:26Z; SHA-256 ed0b4f6d098472d5f3762886619f4b119b91a31511cf539ffaacb707a1b6bf1b)
+- https://raw.githubusercontent.com/YosefHayim/ai-browser-bridge/HEAD/LICENSE (retrieved 2026-11-09T14:20:57Z; SHA-256 c9fb8d7c8df14c2cc14a6bc090841817d324342e3d0ee6cd019d01676f96064a)
+
+---
+
+## android-mcp-beta
+
+An MCP server that uses ADB to give agents Android screen snapshots and device controls, including taps, swipes, typing, and button presses.
+
+- Catalog URL: https://awesomecua.com/resources/github-cursortouch-android-mcp/
+- Original source: https://github.com/CursorTouch/Android-MCP
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:55:47Z
+- ID: github:cursortouch/android-mcp
+
+### Limitations
+
+The server communicates over stdio and requires Python 3.13 and adb. Its README says no software is installed on the device for basic operation; an optional keyboard app supports additional scripts.
+
+- Record JSON: https://awesomecua.com/resources/github-cursortouch-android-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/CursorTouch/Android-MCP/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/CursorTouch/Android-MCP/HEAD/README.md (retrieved 2026-11-09T19:55:47Z; SHA-256 9528cc46893f7fa5473b0631467ac5d5dbec419048b129d9db84583d4e9b06b0)
+- https://raw.githubusercontent.com/CursorTouch/Android-MCP/HEAD/LICENSE (retrieved 2026-11-09T14:20:30Z; SHA-256 20ced59173768e20e91a43e3a80443aa1200b129c134f07f0cc45779747a1743)
+
+---
+
+## AndroidViewClient
+
+A Python Android UI automation tool that creates reusable tests and exposes view-based, gesture and device controls to AI assistants through an MCP server.
+
+- Catalog URL: https://awesomecua.com/resources/github-dtmilano-androidviewclient/
+- Original source: https://github.com/dtmilano/AndroidViewClient
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android
+- Topics: automation, mobile-navigation, grounding, tool-integration
+- Evidence checked: 2026-11-09T19:58:04Z
+- ID: github:dtmilano/androidviewclient
+
+### Limitations
+
+The README lists element and coordinate interactions, screenshots and app controls. Its MCP setup uses CulebraTester2 on the device.
+
+- Record JSON: https://awesomecua.com/resources/github-dtmilano-androidviewclient/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/dtmilano/AndroidViewClient/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/dtmilano/AndroidViewClient/HEAD/README.md (retrieved 2026-11-09T19:58:04Z; SHA-256 c3d039fc275c942f1fcd2be6496ce31b12efa63b847758492d2524cf029b8f80)
+- https://raw.githubusercontent.com/dtmilano/AndroidViewClient/HEAD/LICENSE (retrieved 2026-11-09T14:21:21Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## Apache Maka
+
+Apache Maka is an agent workspace for macOS that records verifiable execution traces across browser, terminal, and GUI actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-apache-maka/
+- Original source: https://github.com/apache/maka
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: recording, observability, automation, workflow
+- Evidence checked: 2026-11-04T13:12:07Z
+- ID: github:apache/maka
+
+- Record JSON: https://awesomecua.com/resources/github-apache-maka/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/apache/maka/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/apache/maka/HEAD/README.md (retrieved 2026-11-04T13:12:07Z; SHA-256 05aed09e852f1dc6680a3e739f6228f4ac4d0dc47e03ce8d1c7c2e83641c5e0b)
+- https://raw.githubusercontent.com/apache/maka/HEAD/LICENSE (retrieved 2026-11-04T13:46:47Z; SHA-256 db7368faa6e02daca7d61c537a1f87412c7bddee45530cc20122c623cc8646c5)
+
+---
+
 ## Appium Inspector
 
 An Appium inspection tool that displays app screenshots beside page source and lets users find and interact with elements. It is distributed as a desktop app and server plugin.
@@ -1857,6 +3262,175 @@ The README includes npm installation and a JavaScript usage example. Development
 
 ---
 
+## appium-ios-device
+
+A deprecated Node.js device-control library that lets Appium communicate with iOS devices and access device services and XCTest.
+
+- Catalog URL: https://awesomecua.com/resources/github-appium-appium-ios-device/
+- Original source: https://github.com/appium/appium-ios-device
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: ios
+- Topics: automation, history
+- Evidence checked: 2026-11-09T19:56:27Z
+- ID: github:appium/appium-ios-device
+
+### Limitations
+
+The README lists device utilities, service starters, and an XCTest class. It says the package is no longer maintained and has been replaced by remotexpc.
+
+- Record JSON: https://awesomecua.com/resources/github-appium-appium-ios-device/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/appium/appium-ios-device/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/appium/appium-ios-device/HEAD/README.md (retrieved 2026-11-09T19:56:27Z; SHA-256 c45724bd53a35166d501d5d12c8741ad798090c7c37ef78c2e7a057be31f61ab)
+- https://raw.githubusercontent.com/appium/appium-ios-device/HEAD/LICENSE (retrieved 2026-11-09T14:20:42Z; SHA-256 ae9194687e7f3b7d85e8eeb5c973e22d52c4653b1e4332fa0e5c6e82b038ab29)
+
+---
+
+## aside-telegram-bridge
+
+A Telegram bridge and phone Mini App for sending tasks to the Aside browser agent, viewing live progress and transcripts, and responding to its decisions.
+
+- Catalog URL: https://awesomecua.com/resources/github-saiamartya-aside-telegram-bridge/
+- Original source: https://github.com/SaiAmartya/aside-telegram-bridge
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop, macos
+- Topics: tool-integration, human-in-the-loop, observability, web-navigation
+- Evidence checked: 2026-11-09T19:57:27Z
+- ID: github:saiamartya/aside-telegram-bridge
+
+### Limitations
+
+The release includes a Python bridge daemon, setup scripts and Mini App. It requires a Mac with Aside installed and a Telegram account; the Mini App also requires Node 20+.
+
+- Record JSON: https://awesomecua.com/resources/github-saiamartya-aside-telegram-bridge/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/SaiAmartya/aside-telegram-bridge/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SaiAmartya/aside-telegram-bridge/HEAD/README.md (retrieved 2026-11-09T19:57:27Z; SHA-256 692f9891ec5c5317af0cde4416f790bc2283f1a86dc4fdf3d19a39e1c8d76e9e)
+- https://raw.githubusercontent.com/SaiAmartya/aside-telegram-bridge/HEAD/LICENSE (retrieved 2026-11-09T14:20:58Z; SHA-256 43942033deb43de0bd12560d244ec60325a9113857e5d8ddf35ce08b6596ce1b)
+
+---
+
+## Astra plays GTA Vice City
+
+A macOS helper and prompt let a desktop agent control GTA Vice City through screenshots and short input steps, pausing the game while it decides what to do next.
+
+- Catalog URL: https://awesomecua.com/resources/github-da03-astra-plays-gta/
+- Original source: https://github.com/da03/astra-plays-gta
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: automation, screen-understanding, state-tracking
+- Evidence checked: 2026-11-09T19:56:49Z
+- ID: github:da03/astra-plays-gta
+
+### Limitations
+
+The repository includes a Swift control helper, a prompt, a mission save, and a checkpoint installer. The setup requires an Apple Silicon Mac running macOS 15 or later and the iPad version of the game installed on that Mac.
+
+- Record JSON: https://awesomecua.com/resources/github-da03-astra-plays-gta/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/da03/astra-plays-gta/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/da03/astra-plays-gta/HEAD/README.md (retrieved 2026-11-09T19:56:49Z; SHA-256 2630aea1d623626b7054099b80e4b08aadf77cea07dbf67997315735a8fe9ba2)
+- https://raw.githubusercontent.com/da03/astra-plays-gta/HEAD/LICENSE (retrieved 2026-11-09T14:20:46Z; SHA-256 177b68170b30fefc4ebc86dbe395f5516b4e589a69f5b115f7b379663ebe10a1)
+
+---
+
+## autohotkey-mcp
+
+MCP server that lets assistants list, run, stop, and draft AutoHotkey scripts for Windows input automation.
+
+- Catalog URL: https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/
+- Original source: https://github.com/sandraschi/autohotkey-mcp
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, windows
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T19:57:58Z
+- ID: github:sandraschi/autohotkey-mcp
+
+### Limitations
+
+The README requires an AutoHotkey script depot and AutoHotkey v2 for direct execution. It also describes an optional ScriptletCOMBridge connection.
+
+- Record JSON: https://awesomecua.com/resources/github-sandraschi-autohotkey-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/sandraschi/autohotkey-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sandraschi/autohotkey-mcp/HEAD/README.md (retrieved 2026-11-09T19:57:58Z; SHA-256 90962df15838b170a49e638e89d6f5253aa2954c4e8f3cb586c17796d0c1476e)
+- https://raw.githubusercontent.com/sandraschi/autohotkey-mcp/HEAD/LICENSE (retrieved 2026-11-09T14:21:21Z; SHA-256 408dff2e3167a75e92d211f7f7f5c96f314ba08adc4fbed701a9543deff8c216)
+
+---
+
+## AutoPy
+
+AutoPy provides Python functions for desktop mouse and keyboard control, screen capture, pixel inspection and bitmap matching on macOS, Windows and X11.
+
+- Catalog URL: https://awesomecua.com/resources/github-autopilot-rs-autopy/
+- Original source: https://github.com/autopilot-rs/autopy
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, macos, windows, linux
+- Topics: automation, screen-understanding
+- Evidence checked: 2026-11-09T19:56:28Z
+- ID: github:autopilot-rs/autopy
+
+### Limitations
+
+The README includes tutorials for input control, screenshots and image search. It states a choice of Apache-2.0 or MIT licensing.
+
+- Record JSON: https://awesomecua.com/resources/github-autopilot-rs-autopy/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/autopilot-rs/autopy/HEAD/README.md (retrieved 2026-11-09T19:56:28Z; SHA-256 4af3d92c4a9e68f8062bc1c6e842e5eaeda472c45554c2fd34834c311911359b)
+
+---
+
 ## axcli
 
 axcli is a Rust command-line tool for querying, inspecting, and automating macOS application UIs through the native Accessibility API.
@@ -1883,6 +3457,103 @@ axcli is a Rust command-line tool for querying, inspecting, and automating macOS
 ### Primary evidence
 
 - https://raw.githubusercontent.com/andelf/axcli/HEAD/README.md (retrieved 2026-11-04T13:12:05Z; SHA-256 ee143aa5f2f87fe308ea7b6151a0206b0f84761bb01e0f6d9e7b164bf6e269a0)
+
+---
+
+## Better AX for Computer Use
+
+Better AX for Computer Use prunes and formats macOS Accessibility trees and injects Chromium/Electron AX flags for low-token GUI grounding.
+
+- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-better-ax-for-computer-use/
+- Original source: https://github.com/hqhq1025/better-ax-for-computer-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: screen-understanding, efficiency, tool-integration
+- Evidence checked: 2026-11-04T13:12:17Z
+- ID: github:hqhq1025/better-ax-for-computer-use
+
+- Record JSON: https://awesomecua.com/resources/github-hqhq1025-better-ax-for-computer-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hqhq1025/better-ax-for-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hqhq1025/better-ax-for-computer-use/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 87d47241edb91b93c3b7fa985242ef7f9a3b4f590a40407078c4cc5acff7a38a)
+- https://raw.githubusercontent.com/hqhq1025/better-ax-for-computer-use/HEAD/LICENSE (retrieved 2026-11-04T13:23:38Z; SHA-256 c7abf0d3213e72830abf108e45b014b03c60e5eca7609266df91e9630fd69bf6)
+
+---
+
+## Blender MCP
+
+An MCP server links agents to Blender through a live add-on or saved project files, offering scene execution, runtime Python API lookup and benchmark tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-bpy-dev-blender-mcp/
+- Original source: https://github.com/bpy-dev/blender-mcp
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop
+- Topics: tool-integration, automation, science, evaluation
+- Evidence checked: 2026-11-09T19:58:08Z
+- ID: github:bpy-dev/blender-mcp
+
+### Limitations
+
+The repository contains the Blender add-on, MCP server and benchmark tooling. The README describes this as a modified distribution of Blender Lab's project and a developer preview.
+
+- Record JSON: https://awesomecua.com/resources/github-bpy-dev-blender-mcp/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/bpy-dev/blender-mcp/HEAD/readme.md (retrieved 2026-11-09T19:58:08Z; SHA-256 2964a91add44970befcf9b8800f495e1bf438a1870edb08201071342ba44bd76)
+
+---
+
+## Browser Control
+
+Browser Control lets coding agents run Playwright snippets in an existing Chromium-family browser through a local relay and extension, returning results and change summaries.
+
+- Catalog URL: https://awesomecua.com/resources/github-anomalyco-browser-control/
+- Original source: https://github.com/anomalyco/browser-control
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, human-in-the-loop
+- Evidence checked: 2026-11-09T19:56:42Z
+- ID: github:anomalyco/browser-control
+
+### Limitations
+
+The README documents CLI and MCP entry points, a user-approved browser extension, and a Node.js 22.19 or newer requirement.
+
+- Record JSON: https://awesomecua.com/resources/github-anomalyco-browser-control/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/anomalyco/browser-control/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/anomalyco/browser-control/HEAD/README.md (retrieved 2026-11-09T19:56:42Z; SHA-256 26638af68a0e86b5f579d8fb60afcac8a0a1e1bfb95ea060c57658511f3c0076)
+- https://raw.githubusercontent.com/anomalyco/browser-control/HEAD/LICENSE (retrieved 2026-11-09T14:20:46Z; SHA-256 b1fe69afe2f6fe0884efc8936dab69bbdf3a319b3828a965ee1304fbd6a60021)
 
 ---
 
@@ -1951,6 +3622,40 @@ The repository lists a CLI, session transport, generated protocol wrappers and i
 
 - https://raw.githubusercontent.com/browser-use/browser-harness-js/HEAD/README.md (retrieved 2026-11-09T06:16:38Z; SHA-256 016a8304fce7ab8963ae1f7c6213dffe768ed2d838ae957ae0f23fcb868501b2)
 - https://raw.githubusercontent.com/browser-use/browser-harness-js/HEAD/LICENSE (retrieved 2026-11-09T06:13:55Z; SHA-256 5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631)
+
+---
+
+## browser-mcp
+
+An MCP server that exposes browser navigation, clicks, typing, screenshots, and bookmark operations. It supports Chrome, Firefox, Edge, and Brave and includes a web dashboard.
+
+- Catalog URL: https://awesomecua.com/resources/github-sandraschi-browser-mcp/
+- Original source: https://github.com/sandraschi/browser-mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, tool-integration
+- Evidence checked: 2026-11-09T19:56:44Z
+- ID: github:sandraschi/browser-mcp
+
+### Limitations
+
+The README documents Playwright-based tools, an optional CLI path, and a React dashboard. It shows an MIT license badge.
+
+- Record JSON: https://awesomecua.com/resources/github-sandraschi-browser-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/sandraschi/browser-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sandraschi/browser-mcp/HEAD/README.md (retrieved 2026-11-09T19:56:44Z; SHA-256 f396c03853027b9d57474b913e4909c3c2798c12f426fe802880c32dd9930707)
+- https://raw.githubusercontent.com/sandraschi/browser-mcp/HEAD/LICENSE (retrieved 2026-11-09T14:20:46Z; SHA-256 408dff2e3167a75e92d211f7f7f5c96f314ba08adc4fbed701a9543deff8c216)
 
 ---
 
@@ -2047,21 +3752,25 @@ The README provides installation, driver configuration, and Cucumber usage examp
 
 ---
 
-## cc-haha
+## CasperJS
 
-cc-haha is a clean-room TypeScript implementation and visual debugger of the Claude Code agent harness, memory, and tool runtime.
+CasperJS is a browser navigation scripting and testing utility for PhantomJS and SlimerJS, with helpers for forms, links, screenshots and assertions.
 
-- Catalog URL: https://awesomecua.com/resources/github-nanmicoder-cc-haha/
-- Original source: https://github.com/NanmiCoder/cc-haha
+- Catalog URL: https://awesomecua.com/resources/github-casperjs-casperjs/
+- Original source: https://github.com/casperjs/casperjs
 - Kind: tool
 - Review: curated
 - Scope: adjacent
-- Environments: cross-platform, desktop, web
-- Topics: tool-integration, memory, observability
-- Evidence checked: 2026-11-04T13:12:27Z
-- ID: github:nanmicoder/cc-haha
+- Environments: web
+- Topics: automation, web-navigation, history
+- Evidence checked: 2026-11-09T19:56:16Z
+- ID: github:casperjs/casperjs
 
-- Record JSON: https://awesomecua.com/resources/github-nanmicoder-cc-haha/record.json
+### Limitations
+
+The repository contains source code, samples and documentation. The README discusses older PhantomJS compatibility and directs readers to release documentation.
+
+- Record JSON: https://awesomecua.com/resources/github-casperjs-casperjs/record.json
 
 ### License declarations
 
@@ -2072,7 +3781,75 @@ cc-haha is a clean-room TypeScript implementation and visual debugger of the Cla
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/NanmiCoder/cc-haha/HEAD/README.md (retrieved 2026-11-04T13:12:27Z; SHA-256 b8736628a623a6e072d07221bdb7b5ef028b6598b38a4b26bab051cdf75414a7)
+- https://raw.githubusercontent.com/casperjs/casperjs/HEAD/README.md (retrieved 2026-11-09T19:56:16Z; SHA-256 4783d2b0322f10baac250e157e4a71cc319560df424cb6151831f4bae39c76c9)
+
+---
+
+## ChatGPT Browser Bridge
+
+A browser extension and local server that operate a signed-in ChatGPT tab and expose its chat sessions, tab controls, and artifacts to local clients.
+
+- Catalog URL: https://awesomecua.com/resources/github-dra1ex-chatgpt-bridge/
+- Original source: https://github.com/DrA1ex/chatgpt-bridge
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T19:57:08Z
+- ID: github:dra1ex/chatgpt-bridge
+
+### Limitations
+
+Setup requires Node.js, Chrome or Chromium, and a signed-in ChatGPT session. The repository documents HTTP, streaming, and JSON-RPC interfaces.
+
+- Record JSON: https://awesomecua.com/resources/github-dra1ex-chatgpt-bridge/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/DrA1ex/chatgpt-bridge/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/DrA1ex/chatgpt-bridge/HEAD/README.md (retrieved 2026-11-09T19:57:08Z; SHA-256 08400d152a7516091e48d69460244104810fab9cf74a1b90afc3a19be94163af)
+- https://raw.githubusercontent.com/DrA1ex/chatgpt-bridge/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 d5f7c757cc365203f5c90efddf1c10891e9f49ad4127c8c2ae2aedbe1587b63d)
+
+---
+
+## ChatGPT WebUI Bridge
+
+A local HTTP bridge lets agents send messages to logged-in ChatGPT browser tabs, read replies and page state, and supervise idle tabs through a userscript.
+
+- Catalog URL: https://awesomecua.com/resources/github-olmatter-chatgpt-bridge/
+- Original source: https://github.com/OLmatter/chatgpt-bridge
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, automation, state-tracking, tool-integration
+- Evidence checked: 2026-11-09T19:57:05Z
+- ID: github:olmatter/chatgpt-bridge
+
+### Limitations
+
+The repository includes a backend service, userscript, configuration, and a Python agent-client example. The README describes a FastAPI entry point and an optional supervisor using Claude CLI, Codex CLI, or an OpenAI-compatible API.
+
+- Record JSON: https://awesomecua.com/resources/github-olmatter-chatgpt-bridge/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OLmatter/chatgpt-bridge/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OLmatter/chatgpt-bridge/HEAD/README.md (retrieved 2026-11-09T19:57:05Z; SHA-256 907d1c5d65937330b8bbf724a86b10a7668f97ca2c7626269c82e3e5ff9bfcf4)
+- https://raw.githubusercontent.com/OLmatter/chatgpt-bridge/HEAD/LICENSE (retrieved 2026-11-09T14:20:51Z; SHA-256 49425e5d5d3fb7512481bd80c0d161f891be7b5fda884ba33d4e8036ff61ff45)
 
 ---
 
@@ -2102,6 +3879,103 @@ ChimeraX plugin used by ScienceBoard to expose internal molecular-visualization 
 ### Primary evidence
 
 - https://raw.githubusercontent.com/ShiinaHiiragi/chimerax-states/HEAD/README.md (retrieved 2026-11-04T13:12:35Z; SHA-256 7460ca067303f30cbb13e4c29e40808e3fac8bf446094aaae5d45c796fbf023e)
+
+---
+
+## chrome-agent
+
+chrome-agent is a Rust CLI for browser agents to inspect pages, act through Chrome and check resulting state. It also records and replays local command sequences.
+
+- Catalog URL: https://awesomecua.com/resources/github-sderosiaux-chrome-agent/
+- Original source: https://github.com/sderosiaux/chrome-agent
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, state-tracking, workflow
+- Evidence checked: 2026-11-09T19:57:17Z
+- ID: github:sderosiaux/chrome-agent
+
+### Limitations
+
+The README documents CDP commands for navigation, reading, input, assertions, screenshots, macros and replay. It lists npm and Cargo installation routes and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-sderosiaux-chrome-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/sderosiaux/chrome-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sderosiaux/chrome-agent/HEAD/README.md (retrieved 2026-11-09T19:57:17Z; SHA-256 35e793b9d684e0dda4bb42e40e687b334150f5e026a1ccb50cb5c0172d68671d)
+- https://raw.githubusercontent.com/sderosiaux/chrome-agent/HEAD/LICENSE (retrieved 2026-11-09T14:20:57Z; SHA-256 5baddb7cc3c01d44d8d712fbad6ced20905bc23b777ea52949a832cbb27678d5)
+
+---
+
+## chrome-agent-search
+
+Local-first Rust CLI for driving Chrome to perform web searches and extract clean Markdown page content.
+
+- Catalog URL: https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/
+- Original source: https://github.com/ominiverdi/chrome-agent-search
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, data-generation, efficiency
+- Evidence checked: 2026-11-04T17:55:16Z
+- ID: github:ominiverdi/chrome-agent-search
+
+- Record JSON: https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ominiverdi/chrome-agent-search/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ominiverdi/chrome-agent-search/main/README.md (retrieved 2026-11-04T17:55:16Z; SHA-256 5b870e448120b1aded86c648c78faf04bcfc5725c961a18f515f40fbf962d46a)
+- https://raw.githubusercontent.com/ominiverdi/chrome-agent-search/HEAD/LICENSE (retrieved 2026-11-04T18:01:05Z; SHA-256 9e3da65dffe39aae966c68d0c14cdbac163820453f1e85563bc218bc6b22f188)
+
+---
+
+## chrome-remote-interface
+
+A JavaScript interface to the Chrome Debugging Protocol for controlling and inspecting browser sessions through commands and event notifications.
+
+- Catalog URL: https://awesomecua.com/resources/github-cyrus-and-chrome-remote-interface/
+- Original source: https://github.com/cyrus-and/chrome-remote-interface
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T19:56:09Z
+- ID: github:cyrus-and/chrome-remote-interface
+
+### Limitations
+
+The README includes a navigation and network-request example, installation through npm, and a bundled client.
+
+- Record JSON: https://awesomecua.com/resources/github-cyrus-and-chrome-remote-interface/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cyrus-and/chrome-remote-interface/HEAD/README.md (retrieved 2026-11-09T19:56:09Z; SHA-256 7e113fd4f412a6589e079124ad3d4bcd6661cd3dd530ab63b052232eff47880e)
 
 ---
 
@@ -2138,6 +4012,107 @@ The README provides Go installation and command-line examples. It supports confi
 
 ---
 
+## chromiumoxide
+
+chromiumoxide is an asynchronous Rust library for controlling Chrome or Chromium through the DevTools Protocol, with APIs for browser pages and element actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-mattsse-chromiumoxide/
+- Original source: https://github.com/mattsse/chromiumoxide
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-09T19:56:06Z
+- ID: github:mattsse/chromiumoxide
+
+### Limitations
+
+The README includes a navigation and form interaction example. The library uses the tokio runtime and offers Apache-2.0 or MIT licensing.
+
+- Record JSON: https://awesomecua.com/resources/github-mattsse-chromiumoxide/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mattsse/chromiumoxide/HEAD/README.md (retrieved 2026-11-09T19:56:06Z; SHA-256 7263b9626c3b798cf044298b658d4acf623746a5c3f28a55dad83a1363bf360e)
+
+---
+
+## Claude Blender
+
+An MCP server and Blender add-on that let an AI assistant control scenes through tools, inspect screenshots and renders, and revise work using visual feedback.
+
+- Catalog URL: https://awesomecua.com/resources/github-minihellboy-claude-blender/
+- Original source: https://github.com/minihellboy/claude-blender
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, macos, linux
+- Topics: tool-integration, screen-understanding, self-reflection
+- Evidence checked: 2026-11-09T19:57:36Z
+- ID: github:minihellboy/claude-blender
+
+### Limitations
+
+The repository includes a Python MCP server, Blender add-on, examples, and installation instructions. The README requires Blender 4.0+ and describes optional local AI services.
+
+- Record JSON: https://awesomecua.com/resources/github-minihellboy-claude-blender/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/minihellboy/claude-blender/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/minihellboy/claude-blender/HEAD/README.md (retrieved 2026-11-09T19:57:36Z; SHA-256 887ccb128054d8426adc23c9f5149b0e4ed17c5c3bb13e8b4461082a5f5786e6)
+- https://raw.githubusercontent.com/minihellboy/claude-blender/HEAD/LICENSE (retrieved 2026-11-09T14:21:05Z; SHA-256 6dc8c78502e4a70b2d5e4e74798a5c7122dd33c0bc7412d55b56800e0fe50c9c)
+
+---
+
+## Claude Chrome Stream
+
+A Chrome automation plugin for computer-use agents that streams browser frames through CDP and links actions to frame IDs. It includes commands and MCP tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/
+- Original source: https://github.com/joemccann/claude-chrome-stream
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop, macos, linux
+- Topics: web-navigation, automation, efficiency, tool-integration
+- Evidence checked: 2026-11-09T19:57:51Z
+- ID: github:joemccann/claude-chrome-stream
+
+### Limitations
+
+The README describes a Claude Code plugin, CLI commands, a programmatic API, and MCP browser tools. It names Chrome or Chromium as a requirement.
+
+- Record JSON: https://awesomecua.com/resources/github-joemccann-claude-chrome-stream/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/joemccann/claude-chrome-stream/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/joemccann/claude-chrome-stream/HEAD/README.md (retrieved 2026-11-09T19:57:51Z; SHA-256 63c0f05e250bb4f41238de52844b269d3c3833a8cca0f549e2206b89677a4b57)
+- https://raw.githubusercontent.com/joemccann/claude-chrome-stream/HEAD/LICENSE (retrieved 2026-11-09T14:21:17Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 ## Clawd Cursor
 
 Local MCP server that compiles desktop screens into stable UI element maps with action verification and safety guardrails.
@@ -2165,6 +4140,36 @@ Local MCP server that compiles desktop screens into stable UI element maps with 
 
 - https://raw.githubusercontent.com/AmrDab/clawdcursor/HEAD/README.md (retrieved 2026-11-04T15:45:45Z; SHA-256 5a8ed01eb2732f9312665d7597eaa24f62e390d4f5505e6a5d60bb9873adeabb)
 - https://raw.githubusercontent.com/AmrDab/clawdcursor/HEAD/LICENSE (retrieved 2026-11-04T15:57:56Z; SHA-256 5e7cde62760360f84678735661a68ef8e6da755b235d6c57afa79c57aaa6d6f8)
+
+---
+
+## ClawTouch MCP
+
+Model Context Protocol server that turns a Raspberry Pi Pico 2 into a hardware USB-HID keyboard and mouse for AI computer-use agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-mcp/
+- Original source: https://github.com/tinqiao-oss/clawtouch-mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop
+- Topics: tool-integration, automation
+- Evidence checked: 2026-11-04T16:30:03Z
+- ID: github:tinqiao-oss/clawtouch-mcp
+
+- Record JSON: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/tinqiao-oss/clawtouch-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-mcp/HEAD/README.md (retrieved 2026-11-04T16:30:03Z; SHA-256 0652d327c31ea331502760cb32f97fb036e037636cf730cf961b74a40ebc0d7a)
+- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-mcp/HEAD/LICENSE (retrieved 2026-11-04T16:35:07Z; SHA-256 be6018d34e8d0508c2637e14dd93ade6475ac0c1f3595dbfa4e457ea24f5b117)
 
 ---
 
@@ -2198,6 +4203,36 @@ Records human GUI demonstrations into human-readable, diffable CLI transcripts f
 
 ---
 
+## COCO4GUI
+
+COCO4GUI is an interactive screen capture and bounding-box annotation tool for building COCO-formatted GUI grounding datasets.
+
+- Catalog URL: https://awesomecua.com/resources/github-harpreetsahota204-gui-dataset-creator/
+- Original source: https://github.com/harpreetsahota204/gui_dataset_creator
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: recording, data-generation, grounding
+- Evidence checked: 2026-11-04T13:12:16Z
+- ID: github:harpreetsahota204/gui_dataset_creator
+
+- Record JSON: https://awesomecua.com/resources/github-harpreetsahota204-gui-dataset-creator/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/harpreetsahota204/gui_dataset_creator/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/harpreetsahota204/gui_dataset_creator/HEAD/README.md (retrieved 2026-11-04T13:12:16Z; SHA-256 d1db45603cd0bcca37f3225e1eecb6e1aef5dddd4e92d03d57b94fce1f6ea0dc)
+- https://raw.githubusercontent.com/harpreetsahota204/gui_dataset_creator/HEAD/LICENSE (retrieved 2026-11-04T13:23:38Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 ## Codex Bridge to ChatGPT
 
 Automates verified reasoning handoffs between local OpenAI Codex sessions and ChatGPT Web in the browser.
@@ -2228,33 +4263,232 @@ Automates verified reasoning handoffs between local OpenAI Codex sessions and Ch
 
 ---
 
-## computer-use-linux
+## Codex Computer Use Lab
 
-Native Linux desktop control server for AI agents over MCP, Pi tools, and CLI with semantic AT-SPI trees and screenshots.
+Documents and reproduces the macOS Computer Use architecture, SkyLight window capture, and Accessibility action dispatch in the Codex desktop app.
 
-- Catalog URL: https://awesomecua.com/resources/github-agent-sh-computer-use-linux/
-- Original source: https://github.com/agent-sh/computer-use-linux
+- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/
+- Original source: https://github.com/hqhq1025/codex-computer-use-lab
 - Kind: tool
 - Review: curated
 - Scope: core
-- Environments: desktop, linux
-- Topics: tool-integration, screen-understanding, automation
-- Evidence checked: 2026-11-04T16:10:35Z
-- ID: github:agent-sh/computer-use-linux
+- Environments: desktop, macos
+- Topics: screen-understanding, tool-integration, grounding
+- Evidence checked: 2026-11-04T13:12:17Z
+- ID: github:hqhq1025/codex-computer-use-lab
 
-- Record JSON: https://awesomecua.com/resources/github-agent-sh-computer-use-linux/record.json
+- Record JSON: https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/agent-sh/computer-use-linux/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/hqhq1025/codex-computer-use-lab/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/agent-sh/computer-use-linux/HEAD/README.md (retrieved 2026-11-04T16:10:35Z; SHA-256 24989c513c7ff35df78246e104f9344c6dc94787a32b107650d25441894c0c64)
-- https://raw.githubusercontent.com/agent-sh/computer-use-linux/HEAD/LICENSE (retrieved 2026-11-04T16:14:23Z; SHA-256 865367984df228c2bbf9df7e790b26c3b083376b705375db36a8a032daa03a25)
+- https://raw.githubusercontent.com/hqhq1025/codex-computer-use-lab/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 a15e1e29dcacb11f39c1c4f5a75dca870e81243fe301c9504602744d20e8318a)
+- https://raw.githubusercontent.com/hqhq1025/codex-computer-use-lab/HEAD/LICENSE (retrieved 2026-11-04T13:42:35Z; SHA-256 c7abf0d3213e72830abf108e45b014b03c60e5eca7609266df91e9630fd69bf6)
+
+---
+
+## computer-use
+
+computer-use is a Rust CLI and library for agents to capture desktop state and perform mouse and keyboard actions across macOS, Linux and Windows.
+
+- Catalog URL: https://awesomecua.com/resources/github-lindoelio-computer-use/
+- Original source: https://github.com/lindoelio/computer-use
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, macos, linux, windows
+- Topics: automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:56:29Z
+- ID: github:lindoelio/computer-use
+
+### Limitations
+
+The README describes release binaries for all three operating systems and JSON responses for actions. It also documents accessibility trees, OCR and CDP attachment.
+
+- Record JSON: https://awesomecua.com/resources/github-lindoelio-computer-use/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lindoelio/computer-use/HEAD/README.md (retrieved 2026-11-09T19:56:29Z; SHA-256 3e19b1775affab9900149453fb3e1a0f0b2946eccf3dfaff5a0309390d91ee32)
+
+---
+
+## computer-use-mcp
+
+A Swift MCP server that lets agents inspect and operate macOS applications. Its shared engine manages accessibility, screen capture, and input delivery.
+
+- Catalog URL: https://awesomecua.com/resources/github-minghinmatthewlam-computer-use-mcp/
+- Original source: https://github.com/minghinmatthewlam/computer-use-mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: automation, screen-understanding, state-tracking
+- Evidence checked: 2026-11-09T19:56:04Z
+- ID: github:minghinmatthewlam/computer-use-mcp
+
+### Limitations
+
+The README describes accessibility actions, window-directed events, and an optional global-cursor fallback. It says mutating tools pause while the Mac is locked.
+
+- Record JSON: https://awesomecua.com/resources/github-minghinmatthewlam-computer-use-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/minghinmatthewlam/computer-use-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/minghinmatthewlam/computer-use-mcp/HEAD/README.md (retrieved 2026-11-09T19:56:04Z; SHA-256 5c9bde43d941946825ad7857caa4aa0d75b505ff2de40749149d9d4f44972396)
+- https://raw.githubusercontent.com/minghinmatthewlam/computer-use-mcp/HEAD/LICENSE (retrieved 2026-11-09T14:20:35Z; SHA-256 887989ae1d3323becad917f0cdc9ca67f6c185416304b65f85c471fdbfbf798c)
+
+---
+
+## CraftDriver
+
+CraftDriver automates browsers through WebDriver and BiDi, with locators, actions, assertions, traces, and a CLI that lets coding agents inspect live pages.
+
+- Catalog URL: https://awesomecua.com/resources/github-dtopuzov-craftdriver/
+- Original source: https://github.com/dtopuzov/craftdriver
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web, desktop, macos
+- Topics: automation, web-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:56:28Z
+- ID: github:dtopuzov/craftdriver
+
+### Limitations
+
+The README includes a Node.js installation command and an example that launches Chrome, fills fields and checks page text. It also describes optional MCP access and Electron app support.
+
+- Record JSON: https://awesomecua.com/resources/github-dtopuzov-craftdriver/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/dtopuzov/craftdriver/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/dtopuzov/craftdriver/HEAD/README.md (retrieved 2026-11-09T19:56:28Z; SHA-256 c822d0debf554c237a1549cdfd0bd3eb18815d8db92e9e3470e8b58bda81518b)
+- https://raw.githubusercontent.com/dtopuzov/craftdriver/HEAD/LICENSE (retrieved 2026-11-09T14:20:43Z; SHA-256 48b1ab41a540ba2726b19b0d255c26831df000cda64d7be2df14f6e287a470f6)
+
+---
+
+## crowd-test-mcp
+
+Model Context Protocol server that dispatches concurrent AI virtual-user personas in real browsers to test websites.
+
+- Catalog URL: https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test-mcp/
+- Original source: https://github.com/anhhuyn411-alt/crowd-test-mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, tool-integration
+- Evidence checked: 2026-11-04T16:51:49Z
+- ID: github:anhhuyn411-alt/crowd-test-mcp
+
+- Record JSON: https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/anhhuyn411-alt/crowd-test-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/anhhuyn411-alt/crowd-test-mcp/HEAD/README.md (retrieved 2026-11-04T16:51:49Z; SHA-256 df93d5ae5348ed2f9cfb94f52f0f797cabe34e4dd2df198865d9122005169d83)
+- https://raw.githubusercontent.com/anhhuyn411-alt/crowd-test-mcp/HEAD/LICENSE (retrieved 2026-11-04T16:57:16Z; SHA-256 21c48fd06a7732d1f8b3fa9e8492aee5f20c93c1fce030cb0ede609e1f48ed28)
+
+---
+
+## cursory-js
+
+A TypeScript utility that generates timed mouse paths and documents how to play them back through browser input events.
+
+- Catalog URL: https://awesomecua.com/resources/github-jwriter20-cursory-js/
+- Original source: https://github.com/JWriter20/cursory-js
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-09T19:55:59Z
+- ID: github:jwriter20/cursory-js
+
+### Limitations
+
+The source includes a Playwright example and describes seeded, reproducible trajectories. It identifies the project as a port of the Python Cursory library.
+
+- Record JSON: https://awesomecua.com/resources/github-jwriter20-cursory-js/record.json
+
+### License declarations
+
+- code: LGPL-3.0 — https://raw.githubusercontent.com/JWriter20/cursory-js/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/JWriter20/cursory-js/HEAD/README.md (retrieved 2026-11-09T19:55:59Z; SHA-256 b91be8c3e759a930fe6b941c607514c757e7285787a3d5efd754f9db8e07f386)
+- https://raw.githubusercontent.com/JWriter20/cursory-js/HEAD/LICENSE (retrieved 2026-11-09T14:20:33Z; SHA-256 e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118)
+
+---
+
+## Daedalus for Chrome
+
+A Chrome extension that connects the Daedalus agent to browser tabs through Chrome's debugger API and a browser daemon.
+
+- Catalog URL: https://awesomecua.com/resources/github-anchor-inference-daedalus-chrome-extension/
+- Original source: https://github.com/anchor-inference/daedalus-chrome-extension
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, safety-security
+- Evidence checked: 2026-11-09T19:55:56Z
+- ID: github:anchor-inference/daedalus-chrome-extension
+
+### Limitations
+
+The source describes local native messaging and server WebSocket pairing. The extension requires the Daedalus browser daemon.
+
+- Record JSON: https://awesomecua.com/resources/github-anchor-inference-daedalus-chrome-extension/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/anchor-inference/daedalus-chrome-extension/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/anchor-inference/daedalus-chrome-extension/HEAD/README.md (retrieved 2026-11-09T19:55:56Z; SHA-256 0a2b86d1189900286a7f764df09d2c365d1b1026dde805b47d19c5eb5ea04a03)
+- https://raw.githubusercontent.com/anchor-inference/daedalus-chrome-extension/HEAD/LICENSE (retrieved 2026-11-09T14:20:31Z; SHA-256 c39494f1b809e8ff36904c508fe138b425c223fc7b659c7557d37ac2c6df23b3)
 
 ---
 
@@ -2285,6 +4519,40 @@ Deskwright is a cross-platform desktop automation toolkit for AI agents combinin
 
 - https://raw.githubusercontent.com/tristanmuzzu/deskwright/HEAD/README.md (retrieved 2026-11-04T13:12:41Z; SHA-256 6df0be1b1ed200b4227f216461fb11b5cf20f41ea45d4480d8dcbfdd80ccfdff)
 - https://raw.githubusercontent.com/tristanmuzzu/deskwright/HEAD/LICENSE (retrieved 2026-11-04T13:23:44Z; SHA-256 084b8f2f40b734d9098a2e9f9c4c2c92e3da6f6932ea92a075050a42f1a8d775)
+
+---
+
+## Diwall
+
+Diwall gives language models screenshots, numbered page elements and accessibility data for browser actions, while preserving captures that a human can review.
+
+- Catalog URL: https://awesomecua.com/resources/github-ronandavalan-diwall/
+- Original source: https://github.com/RonanDavalan/diwall
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop, linux
+- Topics: web-navigation, grounding, human-in-the-loop, observability
+- Evidence checked: 2026-11-09T19:56:29Z
+- ID: github:ronandavalan/diwall
+
+### Limitations
+
+The README documents Playwright and headless Chromium on Linux, JSON action scenarios, session persistence and visual comparisons. It describes local vision models through Ollama as an option.
+
+- Record JSON: https://awesomecua.com/resources/github-ronandavalan-diwall/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/RonanDavalan/diwall/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/RonanDavalan/diwall/HEAD/README.md (retrieved 2026-11-09T19:56:29Z; SHA-256 ba0710b3e8b4ebb2128c0f769d3357475d61b5558c0d881061b680cff95778a7)
+- https://raw.githubusercontent.com/RonanDavalan/diwall/HEAD/LICENSE (retrieved 2026-11-09T14:20:43Z; SHA-256 f5e84521f37a096d90a28a3289d146bab41254f78bcabb9c0561e13aa6962c86)
 
 ---
 
@@ -2352,6 +4620,40 @@ Snapshot-first Playwright browser automation plugin for DeepSeek Harness using a
 
 ---
 
+## dsh-computer-use-windows
+
+A Windows computer-use plugin for DeepSeek Harness that observes UI Automation controls and supports window actions, with optional screenshot-based visual recognition.
+
+- Catalog URL: https://awesomecua.com/resources/github-qphotoai-dsh-computer-use-windows/
+- Original source: https://github.com/qphotoai/dsh-computer-use-windows
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: automation, screen-understanding, grounding
+- Evidence checked: 2026-11-09T19:57:42Z
+- ID: github:qphotoai/dsh-computer-use-windows
+
+### Limitations
+
+The README lists click, typing, key, scroll, drag, wait, and application tools. It requires cua-driver; optional visual observation uses a Zhipu API key. The source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-qphotoai-dsh-computer-use-windows/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/qphotoai/dsh-computer-use-windows/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/qphotoai/dsh-computer-use-windows/HEAD/README.md (retrieved 2026-11-09T19:57:42Z; SHA-256 82d0ba544063c0cff2c5590e8482697ae4cad132d67b90eb0597eeefe5287361)
+- https://raw.githubusercontent.com/qphotoai/dsh-computer-use-windows/HEAD/LICENSE (retrieved 2026-11-09T14:21:15Z; SHA-256 e08ef7e034cf33c4eb2c451b07a9ba082b68032be0deb23bae144f1c7ba5a7f5)
+
+---
+
 ## dsh-nuphus-mcp
 
 DeepSeek Harness plugin that mounts `nuphus-mcp` desktop control tools natively inside DSH sessions.
@@ -2409,6 +4711,70 @@ Self-verification browser preview loop for DeepSeek Harness agents to inspect an
 
 - https://raw.githubusercontent.com/Viger1/dsh-preview/main/README.md (retrieved 2026-11-04T17:20:43Z; SHA-256 119effa0f38f6b870c8598436f283acf920ce64d0fde2508b7496961b9c2d39e)
 - https://raw.githubusercontent.com/Viger1/dsh-preview/HEAD/LICENSE (retrieved 2026-11-04T17:27:22Z; SHA-256 4ebfdf256cff7fc4d6790dd24b900d8f2921486f003ebac254560816cacde85f)
+
+---
+
+## easy-webbridge
+
+Browser bridge allowing Claude Code, Codex, OpenCode, and WorkBuddy agents to operate an authenticated Chrome session.
+
+- Catalog URL: https://awesomecua.com/resources/github-xxjrq-easy-webbridge/
+- Original source: https://github.com/xxjrq/easy-webbridge
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, automation
+- Evidence checked: 2026-11-04T17:55:09Z
+- ID: github:xxjrq/easy-webbridge
+
+- Record JSON: https://awesomecua.com/resources/github-xxjrq-easy-webbridge/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/xxjrq/easy-webbridge/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xxjrq/easy-webbridge/main/README.md (retrieved 2026-11-04T17:55:09Z; SHA-256 0a8323a61a46ea9a730db2ff8d55be0711fad3db52457e8276dd83b79130de27)
+- https://raw.githubusercontent.com/xxjrq/easy-webbridge/HEAD/LICENSE (retrieved 2026-11-04T18:01:12Z; SHA-256 0437d20491d02ae94bf59ba10d6f31cdff9c0648ba52eaa136ead66f52c36174)
+
+---
+
+## easyAppStore
+
+easyAppStore is an agent skill for preparing an iOS release and completing App Store Connect submission steps through a signed-in Chromium browser.
+
+- Catalog URL: https://awesomecua.com/resources/github-xxjrq-easy-app-store/
+- Original source: https://github.com/xxjrq/easy-app-store
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, macos, desktop, ios
+- Topics: automation, workflow, web-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:57:35Z
+- ID: github:xxjrq/easy-app-store
+
+### Limitations
+
+The README lists Node.js, macOS build tools, Easy WebBridge, and a signed-in Chromium browser as requirements. It declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-xxjrq-easy-app-store/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/xxjrq/easy-app-store/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xxjrq/easy-app-store/HEAD/README.md (retrieved 2026-11-09T19:57:35Z; SHA-256 6a68c86baabc70ebbaa51450400e2ecf60a93d1f5c08454a763eaaa4f58df185)
+- https://raw.githubusercontent.com/xxjrq/easy-app-store/HEAD/LICENSE (retrieved 2026-11-09T14:21:05Z; SHA-256 0437d20491d02ae94bf59ba10d6f31cdff9c0648ba52eaa136ead66f52c36174)
 
 ---
 
@@ -2472,6 +4838,173 @@ Native macOS Model Context Protocol server for driving Safari navigation, clicki
 
 ---
 
+## EverFern Navis Extension
+
+A browser extension that connects Navis to a user's regular browser profile through EverFern Desktop, with builds for Chromium browsers and Firefox.
+
+- Catalog URL: https://awesomecua.com/resources/github-everfern-ai-navis-extension/
+- Original source: https://github.com/Everfern-AI/Navis-Extension
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:57:42Z
+- ID: github:everfern-ai/navis-extension
+
+### Limitations
+
+The README gives separate installation steps for Chromium browsers and Firefox. It states that EverFern Desktop must be running for the extension to connect.
+
+- Record JSON: https://awesomecua.com/resources/github-everfern-ai-navis-extension/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Everfern-AI/Navis-Extension/HEAD/README.md (retrieved 2026-11-09T19:57:42Z; SHA-256 7b5c53b0db31dab004e0a06f6c12729ef90b5938df8cd93c529adec3a2fcd7a3)
+
+---
+
+## Expo Device Hub
+
+Expo Device Hub streams iOS simulators and Android emulators into a browser dashboard, where users can view screens, send input, and manage devices.
+
+- Catalog URL: https://awesomecua.com/resources/github-expo-expo-device-hub/
+- Original source: https://github.com/expo/expo-device-hub
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web, ios, android, desktop, macos
+- Topics: automation, mobile-navigation, screen-understanding
+- Evidence checked: 2026-11-09T19:56:59Z
+- ID: github:expo/expo-device-hub
+
+### Limitations
+
+The repository includes the DevTools plugin, device client packages, simulator and emulator servers, and an example app. iOS simulators require macOS and Xcode; Android emulators require the Android SDK.
+
+- Record JSON: https://awesomecua.com/resources/github-expo-expo-device-hub/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/expo/expo-device-hub/HEAD/README.md (retrieved 2026-11-09T19:56:59Z; SHA-256 2e8f46b52b7345292ebffeabc2546b8d4f37a91b3fa11d7fd0d082186d8fe64e)
+
+---
+
+## Firefox DevTools MCP
+
+An MCP server that gives AI agents Firefox tools for navigating sites, filling forms, inspecting page snapshots, and examining developer-tool output.
+
+- Catalog URL: https://awesomecua.com/resources/github-mozilla-firefox-devtools-mcp/
+- Original source: https://github.com/mozilla/firefox-devtools-mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, tool-integration, screen-understanding
+- Evidence checked: 2026-11-09T19:56:53Z
+- ID: github:mozilla/firefox-devtools-mcp
+
+### Limitations
+
+The server controls a local Firefox installation through WebDriver BiDi. The README lists navigation, snapshots, element actions, screenshots, network requests, and console tools, and identifies MIT and Apache 2.0 licenses.
+
+- Record JSON: https://awesomecua.com/resources/github-mozilla-firefox-devtools-mcp/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mozilla/firefox-devtools-mcp/HEAD/README.md (retrieved 2026-11-09T19:56:53Z; SHA-256 be9c2f8dc4da6722472c1de7d0bf19c3647fbae249f9815fdac2433fbe0272f6)
+
+---
+
+## Floorp MCP Server
+
+An MCP server that lets AI assistants read pages and operate the Floorp browser through tab controls, navigation, clicks, and form filling.
+
+- Catalog URL: https://awesomecua.com/resources/github-floorp-projects-floorp-mcp-server/
+- Original source: https://github.com/Floorp-Projects/floorp-mcp-server
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, automation, tool-integration
+- Evidence checked: 2026-11-09T19:57:42Z
+- ID: github:floorp-projects/floorp-mcp-server
+
+### Limitations
+
+The README requires a running Floorp browser with its MCP setting enabled. The bridge reads a bearer token written by Floorp's server.
+
+- Record JSON: https://awesomecua.com/resources/github-floorp-projects-floorp-mcp-server/record.json
+
+### License declarations
+
+- code: MPL-2.0 — https://raw.githubusercontent.com/Floorp-Projects/floorp-mcp-server/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Floorp-Projects/floorp-mcp-server/HEAD/README.md (retrieved 2026-11-09T19:57:42Z; SHA-256 588f3a88af30671010fd792e0f996ca5b37cdee2c77981c2976a55b6fc899734)
+- https://raw.githubusercontent.com/Floorp-Projects/floorp-mcp-server/HEAD/LICENSE (retrieved 2026-11-09T14:21:15Z; SHA-256 c60f0be263677ee5385554e9bb75c004345815cc409cc02d1777b78d7a656a01)
+
+---
+
+## flutter-skill
+
+An MCP server and CLI that give AI agents screen inspection and interaction tools for running web, desktop and mobile apps. It supports navigation, taps, typing and test assertions.
+
+- Catalog URL: https://awesomecua.com/resources/github-ai-dashboad-flutter-skill/
+- Original source: https://github.com/ai-dashboad/flutter-skill
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop, android, ios
+- Topics: automation, tool-integration, screen-understanding, evaluation
+- Evidence checked: 2026-11-09T19:57:44Z
+- ID: github:ai-dashboad/flutter-skill
+
+### Limitations
+
+The repository includes platform SDKs, CLI and MCP server code, examples and tests. The README names Flutter, React Native, Electron, Tauri, Android, iOS and web support and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-ai-dashboad-flutter-skill/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ai-dashboad/flutter-skill/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ai-dashboad/flutter-skill/HEAD/README.md (retrieved 2026-11-09T19:57:44Z; SHA-256 319b74157f29a5dcff2308fe38aa8941747e2b0b78525cd91ba761eabe3b1177)
+- https://raw.githubusercontent.com/ai-dashboad/flutter-skill/HEAD/LICENSE (retrieved 2026-11-09T14:21:15Z; SHA-256 01cca52a95edbf55834a7cbd5b2961dd2d1e58dc223945bc2b8cb063752c2fec)
+
+---
+
 ## Glasswarp MCP Server
 
 Remote Model Context Protocol server for observing and controlling physical or virtual Windows PCs via Glasswarp.
@@ -2499,6 +5032,40 @@ Remote Model Context Protocol server for observing and controlling physical or v
 
 - https://raw.githubusercontent.com/glasswarp/mcp-server/HEAD/README.md (retrieved 2026-11-04T16:51:49Z; SHA-256 167321ee2a9b2c2a1a240e7b643dcda0943cb771a3f80fe8492b2c28d276ea79)
 - https://raw.githubusercontent.com/glasswarp/mcp-server/HEAD/LICENSE (retrieved 2026-11-04T16:57:17Z; SHA-256 0ed57d5bba68c64fc091e1daa97a729fb575b33530f2d3bda3b83f985176e4f8)
+
+---
+
+## Godot Editor MCP
+
+An MCP server and Godot addon that let agents inspect and edit a live game editor, control play sessions, simulate input, and capture screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/github-hybridindie-godot-mcp/
+- Original source: https://github.com/hybridindie/godot-mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: tool-integration, automation, state-tracking
+- Evidence checked: 2026-11-09T19:57:09Z
+- ID: github:hybridindie/godot-mcp
+
+### Limitations
+
+The repository contains the server, addon, documentation, examples, and evaluation files. The README describes stable and beta release channels and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-hybridindie-godot-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hybridindie/godot-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hybridindie/godot-mcp/HEAD/README.md (retrieved 2026-11-09T19:57:09Z; SHA-256 82821a44d4dd0ff53385cf7a09409dea6b3e3a4aca393b775bec4bd3824952fe)
+- https://raw.githubusercontent.com/hybridindie/godot-mcp/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 823e19972a66b74bb663e411f0e989a6f41bdf9ab8a50cc93c8b02e7133ba9c0)
 
 ---
 
@@ -2535,6 +5102,39 @@ The repository describes URL preprocessing, crawling, and parallel collection sc
 
 ---
 
+## GUI-DR
+
+GUI-DR generates perturbed web screenshots and interaction trajectories from Mind2Web archives to support GUI grounding evaluation and fine-tuning.
+
+- Catalog URL: https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/
+- Original source: https://github.com/ManifoldRG/WebDomainRandomizer
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, grounding, evaluation, robustness
+- Evidence checked: 2026-11-09T19:57:48Z
+- ID: github:manifoldrg/webdomainrandomizer
+
+### Limitations
+
+The pipeline requires Mind2Web parquet data, DOM content, MHTML snapshots, and Playwright browsers. Its output includes screenshots and trajectory.json files.
+
+- Record JSON: https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ManifoldRG/WebDomainRandomizer/HEAD/README.md (retrieved 2026-11-09T19:57:48Z; SHA-256 e05a26ac3f2cec08b7245bf172086b6f9264d191396c33953dc7e87c99c144de)
+
+---
+
 ## guo6x dsh-pilot
 
 DeepSeek Harness plugin that drives a real Edge or Chrome browser over CDP using compact element refs.
@@ -2562,6 +5162,73 @@ DeepSeek Harness plugin that drives a real Edge or Chrome browser over CDP using
 
 - https://raw.githubusercontent.com/guo6x/dsh-pilot/master/README.md (retrieved 2026-11-04T17:20:43Z; SHA-256 6508581276d5108a0acb9aeb8d4b978828bf17b8013af5bc19f268c3bcfcc725)
 - https://raw.githubusercontent.com/guo6x/dsh-pilot/HEAD/LICENSE (retrieved 2026-11-04T17:27:09Z; SHA-256 51732bd355b1e132c6b36dac521631d0e1f43e3d03579fe13014c2320bfc2365)
+
+---
+
+## Hammerspoon
+
+A macOS automation tool connects operating-system functions to Lua scripts, letting users program desktop behavior through extensions.
+
+- Catalog URL: https://awesomecua.com/resources/github-hammerspoon-hammerspoon/
+- Original source: https://github.com/Hammerspoon/hammerspoon
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, macos
+- Topics: automation
+- Evidence checked: 2026-11-09T19:56:58Z
+- ID: github:hammerspoon/hammerspoon
+
+### Limitations
+
+The README links installation options, API documentation, sample configurations, and a getting-started guide. It says users create a Lua configuration file to define behavior.
+
+- Record JSON: https://awesomecua.com/resources/github-hammerspoon-hammerspoon/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Hammerspoon/hammerspoon/HEAD/README.md (retrieved 2026-11-09T19:56:58Z; SHA-256 0141bb95d17645dca45b87872dacff1155c9bb2e8222938fb67efba4a550ca22)
+
+---
+
+## handraise-slack
+
+Slack channel adapter for browser-agent handoffs that sends approval requests with page screenshots and returns a person's decision to handraise.
+
+- Catalog URL: https://awesomecua.com/resources/github-sy-d-handraise-slack/
+- Original source: https://github.com/Sy-D/handraise-slack
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: human-in-the-loop, safety-security, web-navigation
+- Evidence checked: 2026-11-09T19:58:04Z
+- ID: github:sy-d/handraise-slack
+
+### Limitations
+
+The README provides integration code and describes Slack Socket Mode. It says the package is not yet published and requires handraise with channel support.
+
+- Record JSON: https://awesomecua.com/resources/github-sy-d-handraise-slack/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Sy-D/handraise-slack/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Sy-D/handraise-slack/HEAD/README.md (retrieved 2026-11-09T19:58:04Z; SHA-256 64aa10fe8919f12d859b342f1816c88edf060fecc7f76d787d30fbaa1cad01c4)
+- https://raw.githubusercontent.com/Sy-D/handraise-slack/HEAD/LICENSE (retrieved 2026-11-09T14:21:21Z; SHA-256 63c82295db55a7166347dd126b820796ca27a7d2f8a97584502b3091d02e40d4)
 
 ---
 
@@ -2602,6 +5269,74 @@ Installs as a plugin or extension for Claude Code, Codex and Gemini CLI; the sta
 
 ---
 
+## IOS13-SimulateTouch
+
+An iOS touch-control library supports scripted and remote touch input, records events for playback, and offers image matching and OCR on jailbroken devices.
+
+- Catalog URL: https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/
+- Original source: https://github.com/xuan32546/IOS13-SimulateTouch
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: ios
+- Topics: automation, recording, grounding
+- Evidence checked: 2026-11-09T19:58:07Z
+- ID: github:xuan32546/ios13-simulatetouch
+
+### Limitations
+
+The README targets iOS 11.0 through 14 and describes a socket-based Python interface. It includes examples for multitouch and bringing an application to the foreground.
+
+- Record JSON: https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/record.json
+
+### License declarations
+
+- code: GPL-3.0 — https://raw.githubusercontent.com/xuan32546/IOS13-SimulateTouch/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xuan32546/IOS13-SimulateTouch/HEAD/README.md (retrieved 2026-11-09T19:58:07Z; SHA-256 50c6c2a4babd8b7f727cd752791ed686adfc506c779e0dacce83bdc9b9b16020)
+- https://raw.githubusercontent.com/xuan32546/IOS13-SimulateTouch/HEAD/LICENSE (retrieved 2026-11-09T14:21:22Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
+
+---
+
+## iphone-use-flows
+
+A registry of reusable iPhone app workflows for iphone-use. Its JSON flows define phone actions, inputs, and checks for completing repeated tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-leeguooooo-iphone-use-flows/
+- Original source: https://github.com/leeguooooo/iphone-use-flows
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: ios
+- Topics: mobile-navigation, workflow, automation
+- Evidence checked: 2026-11-09T19:56:03Z
+- ID: github:leeguooooo/iphone-use-flows
+
+### Limitations
+
+The README lists system, Settings, and Health flows and explains flow metadata and validation. It says side-effect flows require confirmation.
+
+- Record JSON: https://awesomecua.com/resources/github-leeguooooo-iphone-use-flows/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/leeguooooo/iphone-use-flows/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/leeguooooo/iphone-use-flows/HEAD/README.md (retrieved 2026-11-09T19:56:03Z; SHA-256 2e8b1e8ab51a2ffa43ae182156899193e70bc748f8cadd29affbbcdd53c9aa68)
+- https://raw.githubusercontent.com/leeguooooo/iphone-use-flows/HEAD/LICENSE (retrieved 2026-11-09T14:20:35Z; SHA-256 e297a60ea1ffc0c371f9d120ac3cde0fa56904708f8c6498ea5d07194214cb70)
+
+---
+
 ## jing-hy computer-user (DSH Windows Plugin)
 
 Codex-style Windows computer-use plugin for DeepSeek Harness supporting screen reading and mouse/keyboard input.
@@ -2632,33 +5367,131 @@ Codex-style Windows computer-use plugin for DeepSeek Harness supporting screen r
 
 ---
 
-## Kimi Computer Use Bridge
+## Kimi Computer Use Lab
 
-Bridges Kimi Code CLI to local macOS desktop applications through the OpenAI Computer Use MCP server and Apple Accessibility APIs.
+Analyzes and reproduces the Kimi Desktop computer-use architecture combining OpenClaw browser/canvas control with macOS helper binaries.
 
-- Catalog URL: https://awesomecua.com/resources/github-songkeys-kimi-computer-use/
-- Original source: https://github.com/songkeys/kimi-computer-use
+- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-kimi-computer-use-lab/
+- Original source: https://github.com/hqhq1025/kimi-computer-use-lab
 - Kind: tool
 - Review: curated
 - Scope: core
 - Environments: desktop, macos
 - Topics: tool-integration, automation
-- Evidence checked: 2026-11-04T13:12:36Z
-- ID: github:songkeys/kimi-computer-use
+- Evidence checked: 2026-11-04T13:12:17Z
+- ID: github:hqhq1025/kimi-computer-use-lab
 
-- Record JSON: https://awesomecua.com/resources/github-songkeys-kimi-computer-use/record.json
+- Record JSON: https://awesomecua.com/resources/github-hqhq1025-kimi-computer-use-lab/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/songkeys/kimi-computer-use/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/hqhq1025/kimi-computer-use-lab/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/songkeys/kimi-computer-use/HEAD/README.md (retrieved 2026-11-04T13:12:36Z; SHA-256 cab90b91725f288afcebff4747457222084d06bf7158f67c61d79217923e11f2)
-- https://raw.githubusercontent.com/songkeys/kimi-computer-use/HEAD/LICENSE (retrieved 2026-11-04T13:42:34Z; SHA-256 3326ce14ae1217999f83d6f8f25e051ee5a6ab5b139e80894a64ca901440efb9)
+- https://raw.githubusercontent.com/hqhq1025/kimi-computer-use-lab/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 e4f98ec33eb2e97b48b3feb22b796ee96d04a0c598692f052c9ede05c5d4bb8a)
+- https://raw.githubusercontent.com/hqhq1025/kimi-computer-use-lab/HEAD/LICENSE (retrieved 2026-11-04T13:42:36Z; SHA-256 c7abf0d3213e72830abf108e45b014b03c60e5eca7609266df91e9630fd69bf6)
+
+---
+
+## lean-computer-use-mcp
+
+An MCP facade for Windows computer use that condenses accessibility observations, checks state freshness, and records desktop actions for later replay.
+
+- Catalog URL: https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/
+- Original source: https://github.com/Kvxw1105/lean-computer-use-mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: efficiency, recording, memory, automation
+- Evidence checked: 2026-11-09T19:57:55Z
+- ID: github:kvxw1105/lean-computer-use-mcp
+
+### Limitations
+
+The repository includes a Python MCP server, tests, benchmark scenarios and a skill. The README names Open Computer Use and cua-driver as backends and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-kvxw1105-lean-computer-use-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Kvxw1105/lean-computer-use-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Kvxw1105/lean-computer-use-mcp/HEAD/README.md (retrieved 2026-11-09T19:57:55Z; SHA-256 912b10ebd08ebb7761daaed5564f926c4f4f82fe8fba8ca311fa3210d8c5bf73)
+- https://raw.githubusercontent.com/Kvxw1105/lean-computer-use-mcp/HEAD/LICENSE (retrieved 2026-11-09T14:21:21Z; SHA-256 00844884463f886418371a997a4357dd473ef821ea47f961fc434df226bfb4f0)
+
+---
+
+## Linux Desktop MCP Server
+
+An MCP server for Linux desktop control that exposes accessibility elements as references. Agents can find elements and send clicks, text, and keyboard input.
+
+- Catalog URL: https://awesomecua.com/resources/github-beckhamlabsllc-linux-desktop-mcp/
+- Original source: https://github.com/BeckhamLabsLLC/linux-desktop-mcp
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: automation, screen-understanding, grounding
+- Evidence checked: 2026-11-09T19:56:03Z
+- ID: github:beckhamlabsllc/linux-desktop-mcp
+
+### Limitations
+
+The README describes AT-SPI2 inspection and input support for X11, Wayland, and XWayland. It includes installation and MCP configuration instructions.
+
+- Record JSON: https://awesomecua.com/resources/github-beckhamlabsllc-linux-desktop-mcp/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/BeckhamLabsLLC/linux-desktop-mcp/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/BeckhamLabsLLC/linux-desktop-mcp/HEAD/README.md (retrieved 2026-11-09T19:56:03Z; SHA-256 12c74645df2e6505eac2db7005fc73210236079c607f947be9595d60217bc679)
+- https://raw.githubusercontent.com/BeckhamLabsLLC/linux-desktop-mcp/HEAD/LICENSE (retrieved 2026-11-09T14:20:34Z; SHA-256 4f29c0809759dbd6e165585ee2fd590cfff0a34f673a589a13f32ecf1b47fcac)
+
+---
+
+## linux-use
+
+Agent-first, CLI-first GUI control toolkit for Linux desktops operating over the AT-SPI2 accessibility tree.
+
+- Catalog URL: https://awesomecua.com/resources/github-javimosch-linux-use/
+- Original source: https://github.com/javimosch/linux-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: screen-understanding, automation, efficiency
+- Evidence checked: 2026-11-04T16:51:58Z
+- ID: github:javimosch/linux-use
+
+- Record JSON: https://awesomecua.com/resources/github-javimosch-linux-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/javimosch/linux-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/javimosch/linux-use/HEAD/README.md (retrieved 2026-11-04T16:51:58Z; SHA-256 4f3de3dfdc05a0df1f06e1fb9f320fe659af62609893217c885e27f90b0f2a0f)
+- https://raw.githubusercontent.com/javimosch/linux-use/HEAD/LICENSE (retrieved 2026-11-04T16:57:51Z; SHA-256 575b8be11e649028e3b1a06f3e42835fe8ca69f9e61f4bf14490a1f82f3c2df7)
 
 ---
 
@@ -2725,33 +5558,137 @@ The code requires LlamaTouch task metadata, its ground-truth dataset and traces 
 
 ---
 
-## MacosUseSDK
+## magpie Computer Use
 
-MacosUseSDK is a Swift library and CLI for traversing the macOS accessibility tree and simulating native mouse and keyboard input.
+A Magpie plugin that supplies agents with MCP tools to inspect macOS app screens and perform clicks, typing, scrolling, and dragging.
 
-- Catalog URL: https://awesomecua.com/resources/github-mediar-ai-macosusesdk/
-- Original source: https://github.com/mediar-ai/MacosUseSDK
+- Catalog URL: https://awesomecua.com/resources/github-wbb6517-magpie-computer-use/
+- Original source: https://github.com/wbb6517/magpie-computer-use
 - Kind: tool
 - Review: curated
 - Scope: core
 - Environments: desktop, macos
-- Topics: automation, screen-understanding
-- Evidence checked: 2026-11-04T13:12:24Z
-- ID: github:mediar-ai/macosusesdk
+- Topics: automation, screen-understanding, human-in-the-loop
+- Evidence checked: 2026-11-09T19:56:28Z
+- ID: github:wbb6517/magpie-computer-use
 
-- Record JSON: https://awesomecua.com/resources/github-mediar-ai-macosusesdk/record.json
+### Limitations
+
+The README lists ten tools and requires Apple Silicon, Magpie, and a complete signed Codex desktop installation. It states that new app access follows the local approval flow and that the plugin uses an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-wbb6517-magpie-computer-use/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/mediar-ai/MacosUseSDK/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/wbb6517/magpie-computer-use/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/mediar-ai/MacosUseSDK/HEAD/README.md (retrieved 2026-11-04T13:12:24Z; SHA-256 12ec1b43a16fd6fdd2bc3391410d81d3e9ff822ce5cc87676a960425885ae24f)
-- https://raw.githubusercontent.com/mediar-ai/MacosUseSDK/HEAD/LICENSE (retrieved 2026-11-04T13:23:42Z; SHA-256 667e02c97ff3a9bc65eb85337675726a21a014b3dc5a6c618346478592143170)
+- https://raw.githubusercontent.com/wbb6517/magpie-computer-use/HEAD/README.md (retrieved 2026-11-09T19:56:28Z; SHA-256 3776a4435240480fab10a50b8e8d4f60705acc6369a9c8b1e13d5a0757c4f53f)
+- https://raw.githubusercontent.com/wbb6517/magpie-computer-use/HEAD/LICENSE (retrieved 2026-11-09T14:20:42Z; SHA-256 5a4e544cd7b25cc6bd100efe3cd1b8180ad3b0349aae3fbc84198c2e269614aa)
+
+---
+
+## mcp-pyautogui
+
+An MCP server that gives AI clients desktop mouse and keyboard controls, screenshot capture and screen queries through PyAutoGUI.
+
+- Catalog URL: https://awesomecua.com/resources/github-hathibelagal-dev-mcp-pyautogui/
+- Original source: https://github.com/hathibelagal-dev/mcp-pyautogui
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, windows, macos, linux
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T19:56:41Z
+- ID: github:hathibelagal-dev/mcp-pyautogui
+
+### Limitations
+
+The README documents stdio transport, installation with pip, and Python 3.11 or newer. It says host permissions must be granted. The repository lists a GPL-3.0 license file.
+
+- Record JSON: https://awesomecua.com/resources/github-hathibelagal-dev-mcp-pyautogui/record.json
+
+### License declarations
+
+- code: GPL-3.0 — https://raw.githubusercontent.com/hathibelagal-dev/mcp-pyautogui/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hathibelagal-dev/mcp-pyautogui/HEAD/README.md (retrieved 2026-11-09T19:56:41Z; SHA-256 344f45ad26590bf1f962a9f4150dcea11f34ad47fdf57eecaa4afbfeb3cd74d4)
+- https://raw.githubusercontent.com/hathibelagal-dev/mcp-pyautogui/HEAD/LICENSE (retrieved 2026-11-09T14:20:45Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
+
+---
+
+## mcp-serial-hid-kvm
+
+An MCP server gives agents screen capture, OCR, keyboard and mouse tools for controlling a physical PC through a separate serial HID KVM service.
+
+- Catalog URL: https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/
+- Original source: https://github.com/sunasaji/mcp-serial-hid-kvm
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:56:04Z
+- ID: github:sunasaji/mcp-serial-hid-kvm
+
+### Limitations
+
+It requires a CH9329+CH340 USB HID cable, an HDMI capture device and the serial-hid-kvm server. Tesseract is required for its OCR tools. The README links an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sunasaji/mcp-serial-hid-kvm/HEAD/README.md (retrieved 2026-11-09T19:56:04Z; SHA-256 43c2b4a3c772f874419b42ba1b6b1f95029a843db7437888c89549a06ae0247d)
+
+---
+
+## MCP-Slicer
+
+MCP-Slicer gives model clients access to 3D Slicer through node inspection, Python execution, and screenshots, supporting visual feedback during medical-image and scene tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-zhaoyouj-mcp-slicer/
+- Original source: https://github.com/zhaoyouj/mcp-slicer
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, macos
+- Topics: science, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:57:07Z
+- ID: github:zhaoyouj/mcp-slicer
+
+### Limitations
+
+The README requires 3D Slicer 5.8 or newer, Python 3.13 or newer, and the Slicer Web Server module. It documents integration with Claude Desktop and Cline.
+
+- Record JSON: https://awesomecua.com/resources/github-zhaoyouj-mcp-slicer/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/zhaoyouj/mcp-slicer/HEAD/README.md (retrieved 2026-11-09T19:57:07Z; SHA-256 52b3dc2b7e520e77fe9b331679e755d1ab0685b9fe867c596054139aba9e89b1)
 
 ---
 
@@ -2830,6 +5767,70 @@ The official API resolves the former Droidrun Portal path to mobilerun-portal. R
 
 ---
 
+## munim-computer-use
+
+munim-computer-use is a cross-platform Computer Use MCP server combining native OS accessibility trees, OCR, and policy guardrails.
+
+- Catalog URL: https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/
+- Original source: https://github.com/munimtechnologies/munim-computer-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, windows, linux
+- Topics: tool-integration, automation, grounding, safety-security
+- Evidence checked: 2026-11-04T14:20:12Z
+- ID: github:munimtechnologies/munim-computer-use
+
+- Record JSON: https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/munimtechnologies/munim-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/munimtechnologies/munim-computer-use/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 2eb64a8fd70d095d8d241e22cbc3cd3d2da3c171b0a23db1b6b6674241838f6c)
+- https://raw.githubusercontent.com/munimtechnologies/munim-computer-use/HEAD/LICENSE (retrieved 2026-11-04T14:24:25Z; SHA-256 86eb2ea193b1adffcdb1366bd63e73b02d0f7df414542fb7323762df1e4af357)
+
+---
+
+## nocta-recorder
+
+A macOS recorder that stores screen snapshots, accessibility elements, OCR, input events, and audio in a local SQLite database and serves the captured activity through a local API.
+
+- Catalog URL: https://awesomecua.com/resources/github-nossa-y-nocta-recorder/
+- Original source: https://github.com/nossa-y/nocta-recorder
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, macos
+- Topics: recording, screen-understanding, interaction-history
+- Evidence checked: 2026-11-09T19:56:44Z
+- ID: github:nossa-y/nocta-recorder
+
+### Limitations
+
+The README describes a Rust implementation, local REST API, build commands, and MIT license. Other targets compile as inert stubs.
+
+- Record JSON: https://awesomecua.com/resources/github-nossa-y-nocta-recorder/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/nossa-y/nocta-recorder/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/nossa-y/nocta-recorder/HEAD/README.md (retrieved 2026-11-09T19:56:44Z; SHA-256 5ffeec3ef4e7c2f2f0c84f7dee0cd00ee9857c33ed3600296cd3a9802d8c1ba0)
+- https://raw.githubusercontent.com/nossa-y/nocta-recorder/HEAD/LICENSE (retrieved 2026-11-09T14:20:46Z; SHA-256 8e5dbfa27927419d8861cbd337fb3317e4fa039babf1930ce2d5dac0154edb48)
+
+---
+
 ## Notte CLI
 
 A command-line tool for controlling remote browser sessions, handling files and running repeatable web automation workflows.
@@ -2863,33 +5864,136 @@ The README documents Go, Homebrew and script installation, API-key authenticatio
 
 ---
 
-## Open Browser Use
+## OculiX (SikuliX continuation)
 
-Open Browser Use provides a CLI, daemon, and Chrome extension for controlling a user's live browser session with persistent login state.
+A maintained continuation of SikuliX that locates on-screen targets with image matching and OCR, drives desktop or Android interfaces, and exposes scripting and optional MCP interfaces.
 
-- Catalog URL: https://awesomecua.com/resources/github-ifuryst-open-browser-use/
-- Original source: https://github.com/iFurySt/open-browser-use
+- Catalog URL: https://awesomecua.com/resources/github-oculix-org-oculix/
+- Original source: https://github.com/oculix-org/Oculix
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, macos, linux, android
+- Topics: automation, grounding, tool-integration
+- Evidence checked: 2026-10-17T11:18:14Z
+- ID: github:oculix-org/oculix
+
+### Limitations
+
+The official stable-release API lists v4.0.0 with platform-specific API/IDE JARs and an MCP server JAR; no binary was downloaded. The default README still advertises 3.0.3, while release-specific compatibility follows the release notes. The RaiMan/SikuliX1 API resolves to oculix-org/SikuliX1, whose README calls itself a historical mirror and directs current users here. MIT describes the project source. Retained dependency notices also include GPL/LGPL, Apache, BSD and MPL declarations; a bundled artifact is not asserted to be uniformly MIT.
+
+- Record JSON: https://awesomecua.com/resources/github-oculix-org-oculix/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: Publisher project-source LICENSE. Third-party dependency notices are separately retained and no blanket MIT assertion is made for the compiled distribution.
+  Sources: https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/LICENSE
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/README.md (retrieved 2026-10-17T11:18:14Z; SHA-256 41d32f40bfb960f38b77ebb62a73ae20454be6c52829c9cbf0b8fedd27de2297)
+- https://api.github.com/repos/oculix-org/Oculix (retrieved 2026-10-17T11:18:14Z; SHA-256 151ed1aaf544b9afcfd2d8f13d0fa682d8cf8f8a68496af20c3597b082070801)
+- https://api.github.com/repos/oculix-org/Oculix/git/trees/master?recursive=1 (retrieved 2026-10-17T11:19:48Z; SHA-256 cba4541e5d89210b570e42cc69c1529ca36e698622c69b4bb0eeffe56339a759)
+- https://api.github.com/repos/oculix-org/Oculix/releases/latest (retrieved 2026-10-17T11:23:08Z; SHA-256 1022eb9591a2f01833e88c2bae2869faeac9b92e535901d2c79e93a714278777)
+- https://raw.githubusercontent.com/oculix-org/SikuliX1/HEAD/README.md (retrieved 2026-10-17T11:18:14Z; SHA-256 8994ff2000b0871aca819ecd7233430bb82cea3f0134a555cebbfa9e02e0f4da)
+- https://api.github.com/repos/RaiMan/SikuliX1 (retrieved 2026-10-17T11:18:13Z; SHA-256 102b86e9019fe5e936486b3213d2bbd9e80d6c7ad393284b1a4298b0be555ce7)
+- https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/LICENSE (retrieved 2026-10-17T11:23:03Z; SHA-256 cea4b6292d59625e14968ec666faa7ae6e237b510d846a96875bd6a282677f3a)
+- https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/API/src/main/resources/Settings/THIRD-PARTY.txt (retrieved 2026-10-17T11:27:50Z; SHA-256 f0e0d8aa91c1c60bac2250688248c85503036aeac37ec02b8a75fe9d50b6ae4c)
+
+---
+
+## only-cli (oc)
+
+Compiles websites into compact, token-efficient CLI commands tailored for AI agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-only-cli-oc/
+- Original source: https://github.com/only-cli/oc
 - Kind: tool
 - Review: curated
 - Scope: core
 - Environments: web
-- Topics: web-navigation, tool-integration, automation
-- Evidence checked: 2026-11-04T13:12:18Z
-- ID: github:ifuryst/open-browser-use
+- Topics: web-navigation, efficiency, tool-integration
+- Evidence checked: 2026-11-04T17:20:51Z
+- ID: github:only-cli/oc
 
-- Record JSON: https://awesomecua.com/resources/github-ifuryst-open-browser-use/record.json
+- Record JSON: https://awesomecua.com/resources/github-only-cli-oc/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/iFurySt/open-browser-use/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/only-cli/oc/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/iFurySt/open-browser-use/HEAD/README.md (retrieved 2026-11-04T13:12:18Z; SHA-256 2e48f131345057efc4ac56935f2d2a702c716e4e9d67c65a39caaef16d50baf0)
-- https://raw.githubusercontent.com/iFurySt/open-browser-use/HEAD/LICENSE (retrieved 2026-11-04T13:23:39Z; SHA-256 0fdb775e00e6fdde23984b4f1184cd13c34135caac1e714ad489141c239704bc)
+- https://raw.githubusercontent.com/only-cli/oc/main/README.md (retrieved 2026-11-04T17:20:51Z; SHA-256 ecde4f313f5b795ed4df74b164e5a690b9c5e737b1b45bd83685f196b698ea50)
+- https://raw.githubusercontent.com/only-cli/oc/HEAD/LICENSE (retrieved 2026-11-04T17:27:16Z; SHA-256 47ad28fe4f56e39bc9b84044ab1703649ceb4d9c749402d0e6512c0c9a7f92a8)
+
+---
+
+## Open Codex Computer History
+
+Clean-room macOS implementation of event-stream interaction recording using Accessibility hit-testing, CGEvent taps, and SkyLight window snapshots.
+
+- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/
+- Original source: https://github.com/hqhq1025/open-codex-computer-history
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: recording, interaction-history, screen-understanding
+- Evidence checked: 2026-11-04T13:12:17Z
+- ID: github:hqhq1025/open-codex-computer-history
+
+- Record JSON: https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hqhq1025/open-codex-computer-history/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hqhq1025/open-codex-computer-history/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 68282fcfdd76deb3e98b267f874f96ad8c0e7d43ac5e3516de9b5df325621e47)
+- https://raw.githubusercontent.com/hqhq1025/open-codex-computer-history/HEAD/LICENSE (retrieved 2026-11-04T13:42:37Z; SHA-256 f0f51f2d5890129f3f7497ea59af0d939bd2ce73d99343eca3ddb9b6add0dc10)
+
+---
+
+## Open Codex Record & Replay
+
+Clean-room macOS implementation of semantic UI workflow recording and deterministic Accessibility-tree replay with visual template fallback.
+
+- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-open-codex-record-and-replay/
+- Original source: https://github.com/hqhq1025/open-codex-record-and-replay
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: recording, automation, workflow
+- Evidence checked: 2026-11-04T13:12:17Z
+- ID: github:hqhq1025/open-codex-record-and-replay
+
+- Record JSON: https://awesomecua.com/resources/github-hqhq1025-open-codex-record-and-replay/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hqhq1025/open-codex-record-and-replay/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hqhq1025/open-codex-record-and-replay/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 87112334173ff8641f2a74ce1d772cb911fbb25754b3a23806fb3b82269bf015)
+- https://raw.githubusercontent.com/hqhq1025/open-codex-record-and-replay/HEAD/LICENSE (retrieved 2026-11-04T13:42:37Z; SHA-256 ac09bc98f39d5f1ccf352b5f9cb5953135661267a5f4c59dc945b858056f1b94)
 
 ---
 
@@ -2920,6 +6024,36 @@ Open Record/Replay records macOS user demonstrations with Accessibility metadata
 
 - https://raw.githubusercontent.com/humblebanana/open-record-replay/HEAD/README.md (retrieved 2026-11-04T14:20:09Z; SHA-256 88d80ecdcbf84bb26b824c124b61bc7dfc9c4ce8b2cdb8f9076eb12735f721fe)
 - https://raw.githubusercontent.com/humblebanana/open-record-replay/HEAD/LICENSE (retrieved 2026-11-04T14:24:23Z; SHA-256 a9cb5cc82406527e820fafd26d4a6884a48b6c7f47e0be54afd8fa230e10a014)
+
+---
+
+## Open ZCode Computer Use
+
+Clean-room implementation of Z.ai ZCode's dual-mode computer-use MCP server combining pixel-coordinate desktop control and native macOS AX tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-open-zcode-computer-use/
+- Original source: https://github.com/hqhq1025/open-zcode-computer-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, windows, linux
+- Topics: tool-integration, automation, grounding
+- Evidence checked: 2026-11-04T13:12:17Z
+- ID: github:hqhq1025/open-zcode-computer-use
+
+- Record JSON: https://awesomecua.com/resources/github-hqhq1025-open-zcode-computer-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/hqhq1025/open-zcode-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hqhq1025/open-zcode-computer-use/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 6af3f37b5fe4aa9c23c9094e12c0c5a5bc405a558d415db6d6b5deb0487406f5)
+- https://raw.githubusercontent.com/hqhq1025/open-zcode-computer-use/HEAD/LICENSE (retrieved 2026-11-04T13:42:38Z; SHA-256 ec5433f4ba767d5d74b5b4140e02d76750abf460f9cd45412897d666aea53b91)
 
 ---
 
@@ -2991,6 +6125,104 @@ The repository lists source code and tests. The README describes Qwen3-VL embedd
 
 ---
 
+## opencli-plugin-goofish
+
+An OpenCLI adapter for Goofish that exposes shopping, account, listing, and messaging actions through commands backed by a signed-in Chrome session.
+
+- Catalog URL: https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/
+- Original source: https://github.com/vecyang1/opencli-plugin-goofish
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, tool-integration
+- Evidence checked: 2026-11-09T19:58:09Z
+- ID: github:vecyang1/opencli-plugin-goofish
+
+### Limitations
+
+The repository lists CLI adapters, scripts, source files, and tests. The README declares AGPL-3.0-or-later and describes a dedicated Chrome profile for authentication.
+
+- Record JSON: https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/record.json
+
+### License declarations
+
+- code: AGPL-3.0 — https://raw.githubusercontent.com/vecyang1/opencli-plugin-goofish/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vecyang1/opencli-plugin-goofish/HEAD/README.md (retrieved 2026-11-09T19:58:09Z; SHA-256 7611dc2514eac5d30f3ebc18d214f025ca696b8a4fed1f5fa6e2f1a0f26ab5ef)
+- https://raw.githubusercontent.com/vecyang1/opencli-plugin-goofish/HEAD/LICENSE (retrieved 2026-11-09T14:21:23Z; SHA-256 c043d215e06c92ea44700f683c4ff2759d5fc2d353049df989119f77ef6f10c8)
+
+---
+
+## opencli-plugin-x-article-publisher
+
+An OpenCLI plugin that uses a signed-in Chrome session to prepare X Articles from Markdown and local images, with an explicit command for public publishing.
+
+- Catalog URL: https://awesomecua.com/resources/github-genoooool-opencli-plugin-x-article-publisher/
+- Original source: https://github.com/genoooool/opencli-plugin-x-article-publisher
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation, workflow
+- Evidence checked: 2026-11-09T19:57:08Z
+- ID: github:genoooool/opencli-plugin-x-article-publisher
+
+### Limitations
+
+The repository includes publish.js and a plugin manifest. It requires OpenCLI, xPoster, and an X account with Articles access.
+
+- Record JSON: https://awesomecua.com/resources/github-genoooool-opencli-plugin-x-article-publisher/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/genoooool/opencli-plugin-x-article-publisher/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/genoooool/opencli-plugin-x-article-publisher/HEAD/README.md (retrieved 2026-11-09T19:57:08Z; SHA-256 f14351de04696b25e10d58339b9445d4e1fe49f78e43e8fbd24ab484eb10cdaa)
+- https://raw.githubusercontent.com/genoooool/opencli-plugin-x-article-publisher/HEAD/LICENSE (retrieved 2026-11-09T14:20:51Z; SHA-256 ca320fc825ba0bcc871f87703c0073379ee1f2861241235344c1789d44a48bb3)
+
+---
+
+## OvoBrowser
+
+Source-level Chromium fingerprint browser engineered for anti-detect web automation.
+
+- Catalog URL: https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/
+- Original source: https://github.com/ovobrowsersupport/ovobrowser
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web, desktop, windows, macos
+- Topics: web-navigation, sandbox, automation
+- Evidence checked: 2026-11-04T17:30:36Z
+- ID: github:ovobrowsersupport/ovobrowser
+
+- Record JSON: https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser/main/README.md (retrieved 2026-11-04T17:30:36Z; SHA-256 1ef2bc2305a132f7ba424e47dd94a59f41abaf02b57dd396b879782bcc772213)
+- https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser/HEAD/LICENSE (retrieved 2026-11-04T17:40:37Z; SHA-256 14cd42d41f3a1249f08d25fdbc190562e86fae9031c92bc9adfb4f5ea797fc7a)
+
+---
+
 ## Pagecast MCP
 
 Playwright and FFmpeg Model Context Protocol server that records browser agent interactions as GIFs or MP4 videos.
@@ -3054,33 +6286,37 @@ The README documents generation of the cdproto package from Chromium protocol fi
 
 ---
 
-## Peekaboo
+## PeekabooWin
 
-Peekaboo is a macOS screen-capture, accessibility-element targeting, and GUI automation CLI and MCP server for computer-use agents.
+A Windows desktop automation tool exposes screen capture, OCR, indexed accessibility controls, and input actions through a sidecar interface, CLI, and MCP server.
 
-- Catalog URL: https://awesomecua.com/resources/github-openclaw-peekaboo/
-- Original source: https://github.com/openclaw/Peekaboo
+- Catalog URL: https://awesomecua.com/resources/github-felixkruger-peekaboowin/
+- Original source: https://github.com/FelixKruger/PeekabooWin
 - Kind: tool
 - Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: tool-integration, automation, grounding
-- Evidence checked: 2026-11-04T13:12:30Z
-- ID: github:openclaw/peekaboo
+- Scope: adjacent
+- Environments: desktop, windows
+- Topics: automation, screen-understanding, grounding, tool-integration
+- Evidence checked: 2026-11-09T19:56:58Z
+- ID: github:felixkruger/peekaboowin
 
-- Record JSON: https://awesomecua.com/resources/github-openclaw-peekaboo/record.json
+### Limitations
+
+The README lists window management, label-based clicking, and transcript capture. It describes a local CLI and an MCP server that use the same automation engine.
+
+- Record JSON: https://awesomecua.com/resources/github-felixkruger-peekaboowin/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/openclaw/Peekaboo/HEAD/LICENSE
+- code: MIT — https://raw.githubusercontent.com/FelixKruger/PeekabooWin/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/openclaw/Peekaboo/HEAD/README.md (retrieved 2026-11-04T13:12:30Z; SHA-256 9705040d8bd91227553eac3dcd7a03e9e51e04646936d4c9677538ae5a4346f7)
-- https://raw.githubusercontent.com/openclaw/Peekaboo/HEAD/LICENSE (retrieved 2026-11-04T13:23:42Z; SHA-256 62316704df7426e5a79d2827ff8aca36e9abb3a73b8e68557030749ebefec667)
+- https://raw.githubusercontent.com/FelixKruger/PeekabooWin/HEAD/README.md (retrieved 2026-11-09T19:56:58Z; SHA-256 8e5af40b9dc74f5d318658430106c87c10827d4668f54f920d924451c65193fd)
+- https://raw.githubusercontent.com/FelixKruger/PeekabooWin/HEAD/LICENSE (retrieved 2026-11-09T14:20:48Z; SHA-256 ebff742a33eae8ca56b51f15a5f0b76b9e1eafd28e924686f91222eebef3bd6b)
 
 ---
 
@@ -3114,36 +6350,6 @@ The README identifies version 2.1 as the latest stable release and says developm
 ### Primary evidence
 
 - https://raw.githubusercontent.com/ariya/phantomjs/0a0b0facb16acfbabb7804822ecaf4f4b9dce3d2/README.md (retrieved 2026-11-06T16:36:36Z; SHA-256 e74921d808484f2824f883775147c35ae635338cfbfa3baa405bc58cb1b67d37)
-
----
-
-## Plasmate
-
-Plasmate is a Rust browser engine for AI agents that transforms HTML and DOM state into a compact, actionable Semantic Object Model.
-
-- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-plasmate/
-- Original source: https://github.com/plasmate-labs/plasmate
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, screen-understanding, efficiency
-- Evidence checked: 2026-11-04T13:12:31Z
-- ID: github:plasmate-labs/plasmate
-
-- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 e4413f27d3adc8c690129e5efe24a28d8aec16cd873ca10f290edce96358b01f)
-- https://raw.githubusercontent.com/plasmate-labs/plasmate/HEAD/LICENSE (retrieved 2026-11-04T13:23:43Z; SHA-256 a348fa82d4bdc1103bffe408b6b494973f35d01b563f09c72e29595661bb0bcf)
 
 ---
 
@@ -3181,6 +6387,200 @@ The source requires Playwright v1.38 or newer. It describes recording new tests 
 
 ---
 
+## playwright_stealth
+
+Playwright_stealth is a Python helper that applies browser fingerprint evasions to Playwright pages and contexts. It provides asynchronous usage and configuration examples.
+
+- Catalog URL: https://awesomecua.com/resources/github-mattwmaster58-playwright-stealth/
+- Original source: https://github.com/Mattwmaster58/playwright_stealth
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, robustness
+- Evidence checked: 2026-11-09T19:55:48Z
+- ID: github:mattwmaster58/playwright_stealth
+
+### Limitations
+
+The README documents installation from PyPI and selective evasion settings. It describes the project as a fork with merged changes and an updated API.
+
+- Record JSON: https://awesomecua.com/resources/github-mattwmaster58-playwright-stealth/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Mattwmaster58/playwright_stealth/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Mattwmaster58/playwright_stealth/HEAD/README.md (retrieved 2026-11-09T19:55:48Z; SHA-256 6f8c984181b0473e04b34e2cb6921d40351864f00ab93b6c4a4260e2c328658d)
+- https://raw.githubusercontent.com/Mattwmaster58/playwright_stealth/HEAD/LICENSE (retrieved 2026-11-09T14:20:31Z; SHA-256 f82a37276abbb8996d7419fa23eb6cfb1138bbb07e46c4e426934be5f4dddf70)
+
+---
+
+## Public Browser
+
+Token-efficient Chrome automation bridge and CLI for Claude Code and Cursor.
+
+- Catalog URL: https://awesomecua.com/resources/github-silbercue-public-browser/
+- Original source: https://github.com/Silbercue/public-browser
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, efficiency, tool-integration
+- Evidence checked: 2026-11-04T16:10:27Z
+- ID: github:silbercue/public-browser
+
+- Record JSON: https://awesomecua.com/resources/github-silbercue-public-browser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/README.md (retrieved 2026-11-04T16:10:27Z; SHA-256 657293384cda1a2318de2de452304c464e7da7794dc06d7c2588e5a706bf5489)
+- https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/LICENSE (retrieved 2026-11-04T16:14:02Z; SHA-256 ceb2e1e10f2077c987d18f6bf7d019137c17636dd8cf1b59c8ba39c6b52e9995)
+
+---
+
+## PyGetWindow
+
+PyGetWindow is a Python utility for finding and controlling desktop application windows. Its documented implementation supports Windows window titles, positions, sizes, and state changes.
+
+- Catalog URL: https://awesomecua.com/resources/github-asweigart-pygetwindow/
+- Original source: https://github.com/asweigart/PyGetWindow
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, windows
+- Topics: automation, screen-understanding
+- Evidence checked: 2026-11-09T19:55:45Z
+- ID: github:asweigart/pygetwindow
+
+### Limitations
+
+The README gives examples for retrieving windows by title or screen position and for moving, resizing, activating, minimizing, and closing them. It says only Windows is implemented.
+
+- Record JSON: https://awesomecua.com/resources/github-asweigart-pygetwindow/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/asweigart/PyGetWindow/HEAD/README.md (retrieved 2026-11-09T19:55:45Z; SHA-256 1a212f72545265757792e3e14c850d1c1976ea734079d18d4720fba73c359cdd)
+
+---
+
+## RobotGo
+
+RobotGo is a native Go cross-platform desktop automation library for controlling the mouse, keyboard, bitmap screen capture, and window handles.
+
+- Catalog URL: https://awesomecua.com/resources/github-go-vgo-robotgo/
+- Original source: https://github.com/go-vgo/robotgo
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, windows, linux
+- Topics: automation, grounding
+- Evidence checked: 2026-11-04T14:02:37Z
+- ID: github:go-vgo/robotgo
+
+- Record JSON: https://awesomecua.com/resources/github-go-vgo-robotgo/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/README.md (retrieved 2026-11-04T14:02:37Z; SHA-256 9cf3d8cac0c4d059a9f1d4a8fa4890efb00523da90ecba9b9f80e679079db291)
+- https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/LICENSE (retrieved 2026-11-04T14:07:47Z; SHA-256 b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1)
+
+---
+
+## Robotgo Pro
+
+A licensed desktop automation package that reads screens and windows and controls mouse and keyboard input on Mac, Windows, and Linux.
+
+- Catalog URL: https://awesomecua.com/resources/github-vcaesar-robotgo-pro/
+- Original source: https://github.com/vcaesar/robotgo-pro
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, macos, windows, linux
+- Topics: automation, screen-understanding
+- Evidence checked: 2026-11-09T19:56:28Z
+- ID: github:vcaesar/robotgo-pro
+
+### Limitations
+
+The README describes JavaScript, Python, and Lua interfaces. Operation requires a license code, and Linux support currently uses X11.
+
+- Record JSON: https://awesomecua.com/resources/github-vcaesar-robotgo-pro/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vcaesar/robotgo-pro/HEAD/README.md (retrieved 2026-11-09T19:56:28Z; SHA-256 ad95a6b28d814a466a8f7eeab3a1e683d5c3a1ae8746b7df2702654df425b034)
+
+---
+
+## Rod
+
+A browser automation driver built on the DevTools Protocol. It provides element waiting, input tracing and helpers for controlling browser pages.
+
+- Catalog URL: https://awesomecua.com/resources/github-go-rod-rod/
+- Original source: https://github.com/go-rod/rod
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-09T19:56:22Z
+- ID: github:go-rod/rod
+
+### Limitations
+
+The README points to API documentation and examples and lists support for nested iframes and shadow DOMs.
+
+- Record JSON: https://awesomecua.com/resources/github-go-rod-rod/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/go-rod/rod/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/go-rod/rod/HEAD/README.md (retrieved 2026-11-09T19:56:22Z; SHA-256 40bd33ec3124c8a96239a3e280f276f659757687c24311b6998d722325726380)
+- https://raw.githubusercontent.com/go-rod/rod/HEAD/LICENSE (retrieved 2026-11-09T14:20:41Z; SHA-256 c1062fb497bca78115c6797bb8629613eaf45ea856b79d187dd2020cef9d327a)
+
+---
+
 ## ScreenAgent Web Client
 
 ScreenAgent Web Client connects language models to remote desktops through a browser and VNC, representing mouse and keyboard actions as structured calls.
@@ -3211,6 +6611,35 @@ The client is built on noVNC and includes local build instructions. It requires 
 ### Primary evidence
 
 - https://raw.githubusercontent.com/niuzaisheng/ScreenAgentWebClient/HEAD/README.md (retrieved 2026-11-09T06:16:36Z; SHA-256 98965dae5237740eea526fec23fa4f6901c38eee22f4867413e83841eaa0904d)
+
+---
+
+## Screenpipe
+
+Screenpipe continuously captures desktop screen text via accessibility/OCR and audio transcripts into a local database for AI agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-screenpipe-screenpipe/
+- Original source: https://github.com/screenpipe/screenpipe
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, windows, linux
+- Topics: recording, memory, observability
+- Evidence checked: 2026-11-04T13:12:34Z
+- ID: github:screenpipe/screenpipe
+
+- Record JSON: https://awesomecua.com/resources/github-screenpipe-screenpipe/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/screenpipe/screenpipe/HEAD/README.md (retrieved 2026-11-04T13:12:34Z; SHA-256 4a61e3072cab5dad3ab41be2ff08d589f902b3e3c194fa1aaeb414265dc1a61a)
 
 ---
 
@@ -3283,6 +6712,104 @@ Requires Apple Silicon, macOS 14 or later and a source build (Swift 6, Rust, Xco
 
 ---
 
+## SikuliX1
+
+An archived desktop automation codebase that locates on-screen elements through image recognition and controls them with simulated mouse and keyboard input.
+
+- Catalog URL: https://awesomecua.com/resources/github-raiman-sikulix1/
+- Original source: https://github.com/RaiMan/SikuliX1
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, windows, macos, linux
+- Topics: automation, grounding, history
+- Evidence checked: 2026-11-09T19:57:41Z
+- ID: github:raiman/sikulix1
+
+### Limitations
+
+The README identifies this repository as a read-only mirror frozen at SikuliX 2.0.5 and points to OculiX as its active successor. It lists Windows, macOS and Linux support.
+
+- Record JSON: https://awesomecua.com/resources/github-raiman-sikulix1/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/RaiMan/SikuliX1/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/RaiMan/SikuliX1/HEAD/README.md (retrieved 2026-11-09T19:57:41Z; SHA-256 1e0b74615009c2d7c7c622ed34d1c8c1eefc7b6bfe9982d64c673ff293636bdf)
+- https://raw.githubusercontent.com/RaiMan/SikuliX1/HEAD/LICENSE (retrieved 2026-11-09T14:21:13Z; SHA-256 cea4b6292d59625e14968ec666faa7ae6e237b510d846a96875bd6a282677f3a)
+
+---
+
+## SilbercueSwift
+
+An MCP server for iOS development that gives agents simulator screenshots, UI element inspection, navigation actions and structured test results.
+
+- Catalog URL: https://awesomecua.com/resources/github-silbercue-silbercueswift/
+- Original source: https://github.com/silbercue/SilbercueSwift
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: ios, macos, desktop
+- Topics: mobile-navigation, automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:57:38Z
+- ID: github:silbercue/silbercueswift
+
+### Limitations
+
+The README describes a Swift binary, simulator tooling and xcresult parsing. It identifies macOS as the host platform and states an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-silbercue-silbercueswift/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/silbercue/SilbercueSwift/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/silbercue/SilbercueSwift/HEAD/README.md (retrieved 2026-11-09T19:57:38Z; SHA-256 e9fbe564fb566b0a732284171cd9c62cd0e5be1ac768b11a472a0727690afd69)
+- https://raw.githubusercontent.com/silbercue/SilbercueSwift/HEAD/LICENSE (retrieved 2026-11-09T14:21:10Z; SHA-256 a30ef9b09280f552c39b5dfa13cc7b0bae0df7df9c7d560617a478bc325af7be)
+
+---
+
+## smart-computer-use
+
+Agent skill for Claude Code, Codex, Cursor, and OpenCode that drives desktop GUIs via a Rust CLI and local vision grounding.
+
+- Catalog URL: https://awesomecua.com/resources/github-lindoelio-smart-computer-use/
+- Original source: https://github.com/lindoelio/smart-computer-use
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, macos, windows, linux
+- Topics: automation, grounding, tool-integration
+- Evidence checked: 2026-11-04T15:03:44Z
+- ID: github:lindoelio/smart-computer-use
+
+- Record JSON: https://awesomecua.com/resources/github-lindoelio-smart-computer-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/lindoelio/smart-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lindoelio/smart-computer-use/HEAD/README.md (retrieved 2026-11-04T15:03:44Z; SHA-256 afece49a1ffe30f7196b6878ebe3d66b67276deeadb9a8cecf2ac6e7f1995e9d)
+- https://raw.githubusercontent.com/lindoelio/smart-computer-use/HEAD/LICENSE (retrieved 2026-11-04T15:24:10Z; SHA-256 12b2f95d90a1a7932205c324b989741664057bf35abb06f72586531a333bb2c2)
+
+---
+
 ## socai
 
 Rust CLI, Agent Skill and desktop research agent that drive a signed-in Chrome over the DevTools Protocol with per-platform tools for searching and reading posts, comments and profiles on social sites.
@@ -3322,6 +6849,40 @@ Adjacent: models call fixed site operations (search, open posts and profiles, ex
 
 ---
 
+## Spice
+
+A Go SPICE client library receives remote desktop display updates and sends mouse and keyboard events, with interfaces for connection, rendering and clipboard handling.
+
+- Catalog URL: https://awesomecua.com/resources/github-shells-com-spice/
+- Original source: https://github.com/Shells-com/spice
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T19:58:07Z
+- ID: github:shells-com/spice
+
+### Limitations
+
+The README also documents audio playback, audio recording and file transfer. It shows TCP, TLS and WebSocket connection examples.
+
+- Record JSON: https://awesomecua.com/resources/github-shells-com-spice/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Shells-com/spice/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Shells-com/spice/HEAD/README.md (retrieved 2026-11-09T19:58:07Z; SHA-256 048daf88ddd857942d2d7a081e93bc5ac940b131f418bd4fd5f729adbfec68cb)
+- https://raw.githubusercontent.com/Shells-com/spice/HEAD/LICENSE (retrieved 2026-11-09T14:21:22Z; SHA-256 b11be49fc2a34c332bd79fdeb5f3cdeba677a9011d9508b4f2cd9274bcc25529)
+
+---
+
 ## Spooky Action
 
 Focus-free macOS computer-use tool that presses native Accessibility buttons in the background without moving the user's cursor.
@@ -3349,6 +6910,39 @@ Focus-free macOS computer-use tool that presses native Accessibility buttons in 
 
 - https://raw.githubusercontent.com/Jumpsy/spooky-action/main/README.md (retrieved 2026-11-04T17:20:54Z; SHA-256 d9b6e6be07c9291b1812cf2efb1fbf42ae32bc3513f4417ec47a80e543ca473f)
 - https://raw.githubusercontent.com/Jumpsy/spooky-action/HEAD/LICENSE (retrieved 2026-11-04T17:27:12Z; SHA-256 31beb2b813d08087ca775d5b40a30901458b179b90ac5173dc75be1727a81ad8)
+
+---
+
+## Tactile
+
+Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/github-yliust-tactile/
+- Original source: https://github.com/yliust/Tactile
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: screen-understanding, grounding, tool-integration
+- Evidence checked: 2026-11-06T16:36:28Z
+- ID: github:yliust/tactile
+
+### Limitations
+
+The first version connects to Codex as a skill, with a dedicated macOS MCP server as the recommended entry point. PolyForm Noncommercial 1.0.0 per LICENSE.
+
+- Record JSON: https://awesomecua.com/resources/github-yliust-tactile/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yliust/Tactile/73b77faece08752edd360e233f1184c44dcba701/README.md (retrieved 2026-11-06T16:36:28Z; SHA-256 889e3b0737fbca695403362cbd9e2868d0d4c3e2b261cd8db88ebf0941db2eb4)
 
 ---
 
@@ -3387,6 +6981,40 @@ The release contains grounding and benchmark evaluation code. The inspected root
 
 ---
 
+## Tango
+
+A TypeScript Android Debug Bridge client that runs in Chromium-based browsers, Node.js, and Electron to provide access to Android devices.
+
+- Catalog URL: https://awesomecua.com/resources/github-yume-chan-ya-webadb/
+- Original source: https://github.com/yume-chan/ya-webadb
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, android, web, desktop
+- Topics: automation, tool-integration
+- Evidence checked: 2026-11-09T19:57:36Z
+- ID: github:yume-chan/ya-webadb
+
+### Limitations
+
+The README links to an online demo and documentation and shows an MIT license badge.
+
+- Record JSON: https://awesomecua.com/resources/github-yume-chan-ya-webadb/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/yume-chan/ya-webadb/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yume-chan/ya-webadb/HEAD/README.md (retrieved 2026-11-09T19:57:36Z; SHA-256 29961ecb885c629c57e80bc6609eadd1564ccb286b4d9cfd2b382a1d48e4feba)
+- https://raw.githubusercontent.com/yume-chan/ya-webadb/HEAD/LICENSE (retrieved 2026-11-09T14:21:07Z; SHA-256 5d59fdfa5c930fea2d338505c885b80531e6ec7908bb3fbb22de996cd65e208b)
+
+---
+
 ## Tencent BrowserSkill
 
 CLI and browser extension by Tencent that lets AI agents operate a user's logged-in browser in a non-intrusive workspace.
@@ -3414,36 +7042,6 @@ CLI and browser extension by Tencent that lets AI agents operate a user's logged
 
 - https://raw.githubusercontent.com/Tencent/BrowserSkill/HEAD/README.md (retrieved 2026-11-04T16:30:12Z; SHA-256 ab551a7f3184282124ac82f915a3c73b2dbf540b879346e0c19d136e3d62109a)
 - https://raw.githubusercontent.com/Tencent/BrowserSkill/HEAD/LICENSE (retrieved 2026-11-04T16:35:29Z; SHA-256 45426ad9507fe1b922121f5af6a4669096e721980b4426609a4384da410f5114)
-
----
-
-## Terminator
-
-Terminator is an accessibility-first desktop automation SDK and MCP server for controlling Windows, macOS, and Linux GUI applications.
-
-- Catalog URL: https://awesomecua.com/resources/github-mediar-ai-terminator/
-- Original source: https://github.com/mediar-ai/terminator
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, windows, macos, linux
-- Topics: tool-integration, automation, grounding
-- Evidence checked: 2026-11-04T13:12:24Z
-- ID: github:mediar-ai/terminator
-
-- Record JSON: https://awesomecua.com/resources/github-mediar-ai-terminator/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/mediar-ai/terminator/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/mediar-ai/terminator/HEAD/README.md (retrieved 2026-11-04T13:12:24Z; SHA-256 4beabfce04ca3ff8d3016651b55ee776eec232bb31ebb30acd5bfa80b44acc02)
-- https://raw.githubusercontent.com/mediar-ai/terminator/HEAD/LICENSE (retrieved 2026-11-04T13:23:42Z; SHA-256 6da4adc42392c8485e40b4251c7e332fc3352df1947c9ffade71dd60b14a7a4f)
 
 ---
 
@@ -3507,6 +7105,40 @@ The README provides training and inference commands and links to pretrained weig
 
 - https://raw.githubusercontent.com/llv22/tol_gui_region_detection/HEAD/README.md (retrieved 2026-11-09T06:16:39Z; SHA-256 86c42c116651e7c255a0d3adf252a4d95f90dece9076a943d38bd7c13618555f)
 - https://raw.githubusercontent.com/llv22/tol_gui_region_detection/HEAD/LICENSE (retrieved 2026-11-09T06:14:00Z; SHA-256 874b8b2e6f12306a1ff7812c068a0dbf880418b8ac1f7190382bd6c6da9f23a1)
+
+---
+
+## tui-use
+
+tui-use is a CLI utility that lets agents read terminal application screens and send keystrokes through persistent PTY sessions. It renders text snapshots and can wait for screen changes.
+
+- Catalog URL: https://awesomecua.com/resources/github-onesuper-tui-use/
+- Original source: https://github.com/onesuper/tui-use
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, desktop, windows, macos, linux
+- Topics: automation, screen-understanding, state-tracking
+- Evidence checked: 2026-11-09T19:57:27Z
+- ID: github:onesuper/tui-use
+
+### Limitations
+
+The README lists commands for session creation, typing, key presses, snapshots, and screen-change waits. It includes plugin definitions for Codex and Claude Code and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-onesuper-tui-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/onesuper/tui-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/onesuper/tui-use/HEAD/README.md (retrieved 2026-11-09T19:57:27Z; SHA-256 90c39cf158cb659bea1c387101b2aa7824a1f92be2cab2c6f9f251ee26b6632d)
+- https://raw.githubusercontent.com/onesuper/tui-use/HEAD/LICENSE (retrieved 2026-11-09T14:20:58Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)
 
 ---
 
@@ -3574,6 +7206,40 @@ This entry describes the released screenshot-defect tool, separately from the un
 
 ---
 
+## uiautomator2
+
+uiautomator2 is a Python library for controlling Android devices through a device-side UiAutomator service, including app launch and UI element actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-openatx-uiautomator2/
+- Original source: https://github.com/openatx/uiautomator2
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: android
+- Topics: automation, mobile-navigation
+- Evidence checked: 2026-11-09T19:57:39Z
+- ID: github:openatx/uiautomator2
+
+### Limitations
+
+The README requires Android 4.4 or later and Python 3.8 or later. Its quick start uses an Android phone connected through adb.
+
+- Record JSON: https://awesomecua.com/resources/github-openatx-uiautomator2/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/openatx/uiautomator2/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/openatx/uiautomator2/HEAD/README.md (retrieved 2026-11-09T19:57:39Z; SHA-256 ea09edd8d2de7e28e6da272488c9b46e59ce6fcc58f9428d5188c72810d8fe17)
+- https://raw.githubusercontent.com/openatx/uiautomator2/HEAD/LICENSE (retrieved 2026-11-09T14:21:12Z; SHA-256 a02d9350d45a1fe284a24bf10fd54da93a8c0ff29a088a61681b8d97021a3754)
+
+---
+
 ## uictl-mac-mcp
 
 macOS GUI-automation CLI and Model Context Protocol server for coding agents.
@@ -3633,6 +7299,103 @@ UIED detects graphical widgets and text blocks in UI screenshots by combining fl
 
 ---
 
+## undetected-chromedriver
+
+undetected-chromedriver is an anti-bot Selenium ChromeDriver patch widely used by web agents to bypass anti-automation fingerprinting.
+
+- Catalog URL: https://awesomecua.com/resources/github-ultrafunkamsterdam-undetected-chromedriver/
+- Original source: https://github.com/ultrafunkamsterdam/undetected-chromedriver
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web
+- Topics: web-navigation, automation
+- Evidence checked: 2026-11-04T13:12:41Z
+- ID: github:ultrafunkamsterdam/undetected-chromedriver
+
+- Record JSON: https://awesomecua.com/resources/github-ultrafunkamsterdam-undetected-chromedriver/record.json
+
+### License declarations
+
+- code: GPL-3.0 — https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/README.md (retrieved 2026-11-04T13:12:41Z; SHA-256 106d28133afd02afc1efaf323b83953d40e06c51c45955f92ae84e43e9b78119)
+- https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/LICENSE (retrieved 2026-11-04T13:42:26Z; SHA-256 230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809)
+
+---
+
+## usecomputer
+
+A desktop automation CLI and library for agent workflows. It captures screenshots, maps image coordinates to screen positions and sends mouse and keyboard actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-remorses-usecomputer/
+- Original source: https://github.com/remorses/usecomputer
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, macos, linux, windows, cross-platform
+- Topics: automation, screen-understanding, recording
+- Evidence checked: 2026-11-09T19:56:57Z
+- ID: github:remorses/usecomputer
+
+### Limitations
+
+The README describes a Zig backend, a TypeScript library interface and platform requirements. It also documents a macOS stream of global input events.
+
+- Record JSON: https://awesomecua.com/resources/github-remorses-usecomputer/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/remorses/usecomputer/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/remorses/usecomputer/HEAD/README.md (retrieved 2026-11-09T19:56:57Z; SHA-256 b34c2af6440ba25f72d52643773eca0b43c7f70af6e3147e9f10fe4fcf17dcb9)
+- https://raw.githubusercontent.com/remorses/usecomputer/HEAD/LICENSE (retrieved 2026-11-09T14:20:47Z; SHA-256 db5cfe32978232c5fb08ddc4b6687490c9071a4a2d234169892d626c768a3909)
+
+---
+
+## VibeSurf for OpenClaw
+
+An OpenClaw skill that routes browser navigation, page extraction, screenshots, and workflows through VibeSurf's HTTP API.
+
+- Catalog URL: https://awesomecua.com/resources/github-vibesurf-ai-claw-surf/
+- Original source: https://github.com/vibesurf-ai/claw-surf
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, workflow, tool-integration
+- Evidence checked: 2026-11-09T19:57:08Z
+- ID: github:vibesurf-ai/claw-surf
+
+### Limitations
+
+The release includes SKILL.md and task reference files. It requires a running VibeSurf server and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-vibesurf-ai-claw-surf/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vibesurf-ai/claw-surf/HEAD/README.md (retrieved 2026-11-09T19:57:08Z; SHA-256 e07737cb20b74707903cb83edab8577c92093ad9fe37de5f3ebd5413ae098467)
+
+---
+
 ## viger1 dsh-pilot
 
 Permission-governed browser automation plugin for DeepSeek Harness enforced at the CDP boundary.
@@ -3663,37 +7426,70 @@ Permission-governed browser automation plugin for DeepSeek Harness enforced at t
 
 ---
 
-## Vision UI
+## webclaw3
 
-Vision UI is a visual analysis toolkit for detecting UI elements, matching semantic targets, recognizing text, and comparing interface images.
+A browser-agent skill that uses a local Chrome session to explore tasks, then generates reusable scripts for repeating successful browser workflows.
 
-- Catalog URL: https://awesomecua.com/resources/github-meituan-dianping-vision-ui/
-- Original source: https://github.com/Meituan-Dianping/vision-ui
+- Catalog URL: https://awesomecua.com/resources/github-fatmind-webclaw3/
+- Original source: https://github.com/fatmind/webclaw3
 - Kind: tool
 - Review: curated
-- Scope: adjacent
-- Environments: unspecified
-- Topics: screen-understanding, grounding, automation
-- Evidence checked: 2026-11-09T06:16:33Z
-- ID: github:meituan-dianping/vision-ui
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, workflow, efficiency
+- Evidence checked: 2026-11-09T19:58:09Z
+- ID: github:fatmind/webclaw3
 
 ### Limitations
 
-The repository includes Python code and documentation for detection, semantic recognition, image comparison, and text recognition. The source declares an MIT license.
+Setup uses a Chrome extension and a webclaw3 access key. The README declares an MIT license.
 
-- Record JSON: https://awesomecua.com/resources/github-meituan-dianping-vision-ui/record.json
+- Record JSON: https://awesomecua.com/resources/github-fatmind-webclaw3/record.json
 
 ### License declarations
 
-- code: MIT — https://raw.githubusercontent.com/Meituan-Dianping/vision-ui/HEAD/LICENSE
+- code: not recorded
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/Meituan-Dianping/vision-ui/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 33e54601ac6fc8810b87889a86428a44b13c9f25e5ca0f8ea0db95f7213feab9)
-- https://raw.githubusercontent.com/Meituan-Dianping/vision-ui/HEAD/LICENSE (retrieved 2026-11-09T06:13:31Z; SHA-256 344f21123f798b47f16cb7b67c7d4bdb06d920f21d78bc2a2e729eaf4c65cb30)
+- https://raw.githubusercontent.com/fatmind/webclaw3/HEAD/README.md (retrieved 2026-11-09T19:58:09Z; SHA-256 f19b3e9c6c52619d869438c2d24074559069c57dcbc6688be75a07a6c2ea34ce)
+
+---
+
+## webmcpify
+
+An agent skill that adds WebMCP tools to existing web apps. It inventories app functions, asks for approval of a tool manifest and checks tool effects in Chrome.
+
+- Catalog URL: https://awesomecua.com/resources/github-tuejon-webmcpify/
+- Original source: https://github.com/TueJon/webmcpify
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: tool-integration, web-navigation, human-in-the-loop
+- Evidence checked: 2026-11-09T19:57:46Z
+- ID: github:tuejon/webmcpify
+
+### Limitations
+
+The repository includes the skill, a vendored runtime, proof fixtures and tests. The README describes a persisted manifest and declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-tuejon-webmcpify/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/TueJon/webmcpify/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/TueJon/webmcpify/HEAD/README.md (retrieved 2026-11-09T19:57:46Z; SHA-256 818e10bf955fcb7d72bbc521af525239263dc5550eaaa2d7067bac786e701ebd)
+- https://raw.githubusercontent.com/TueJon/webmcpify/HEAD/LICENSE (retrieved 2026-11-09T14:21:16Z; SHA-256 5ae9b2c9fd26e066e9f72ae8b3a823776349f851b6455ebcfb98fbfdbed90d4f)
 
 ---
 
@@ -3727,6 +7523,142 @@ The linked dataset contains search trees, logs, trajectories, evaluations, confi
 ### Primary evidence
 
 - https://raw.githubusercontent.com/mahirlabibdihan/WebOperator-Experiments/HEAD/README.md (retrieved 2026-11-09T06:16:33Z; SHA-256 e9d3dad7a959400416ff26ccefeacf6aa3d31df45d8666af851255d2f8629d31)
+
+---
+
+## webreel
+
+webreel drives a Chrome browser through JSON-defined actions and records the resulting interaction as video with cursor and keystroke overlays.
+
+- Catalog URL: https://awesomecua.com/resources/github-vercel-labs-webreel/
+- Original source: https://github.com/vercel-labs/webreel
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, recording, video
+- Evidence checked: 2026-11-09T19:56:42Z
+- ID: github:vercel-labs/webreel
+
+### Limitations
+
+The release includes a CLI, configuration examples and MP4, GIF and WebM output options. It uses Chrome and ffmpeg. The README badge identifies an Apache-2.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-vercel-labs-webreel/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/vercel-labs/webreel/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vercel-labs/webreel/HEAD/README.md (retrieved 2026-11-09T19:56:42Z; SHA-256 60eb9c5f60c599e627a4bd5597c19775e12b0387a247c5422d3e7921c96afed1)
+- https://raw.githubusercontent.com/vercel-labs/webreel/HEAD/LICENSE (retrieved 2026-11-09T14:20:46Z; SHA-256 014bb31e83d5c2e76aea1cc6e82217346ab41362f32cb355ad0f5c10aa0aeaff)
+
+---
+
+## Windows Computer-Use Skill
+
+A Windows computer-use skill and MCP server that gives agents screenshot capture, desktop input, app launching, window lookup, and clipboard tools.
+
+- Catalog URL: https://awesomecua.com/resources/github-wimi321-windows-computer-use-skill/
+- Original source: https://github.com/wimi321/windows-computer-use-skill
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:57:10Z
+- ID: github:wimi321/windows-computer-use-skill
+
+### Limitations
+
+The repository includes a TypeScript tool layer and a Python backend using pyautogui, mss, Pillow, psutil, and pywin32. The README reports build and syntax checks but says live Windows GUI control has not been validated.
+
+- Record JSON: https://awesomecua.com/resources/github-wimi321-windows-computer-use-skill/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/wimi321/windows-computer-use-skill/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/wimi321/windows-computer-use-skill/HEAD/README.md (retrieved 2026-11-09T19:57:10Z; SHA-256 97df32217ee7e3cb7591f96253b002d872ab8bfe7ff50a4508e5f5ce43050796)
+- https://raw.githubusercontent.com/wimi321/windows-computer-use-skill/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 6c9fc83bf6f2f2df27bf6c84d0e6f66bc7315499956a8672c997f2410b62d6e5)
+
+---
+
+## Windows MCP Server
+
+An MCP server and CLI that let AI agents inspect Windows application controls and perform desktop actions, with screenshots, mouse, and keyboard available for visual tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-sbroenne-mcp-windows/
+- Original source: https://github.com/sbroenne/mcp-windows
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: automation, screen-understanding, tool-integration
+- Evidence checked: 2026-11-09T19:57:37Z
+- ID: github:sbroenne/mcp-windows
+
+### Limitations
+
+The README describes an MCP server, a wincli command line interface, and a VS Code extension. It states an MIT license and requires an unlocked Windows desktop.
+
+- Record JSON: https://awesomecua.com/resources/github-sbroenne-mcp-windows/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/sbroenne/mcp-windows/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sbroenne/mcp-windows/HEAD/README.md (retrieved 2026-11-09T19:57:37Z; SHA-256 2d40a6ee3fc1172d3ec4bcea22b9d2d0ce657d4b6fed0c6e7c019833bbccb4d7)
+- https://raw.githubusercontent.com/sbroenne/mcp-windows/HEAD/LICENSE (retrieved 2026-11-09T14:21:07Z; SHA-256 0c2c93c135da9630e229d023b72e07b7555c97d09a6ce6bc230437c95dd8f8ca)
+
+---
+
+## Zendriver
+
+A Python browser automation library built on Chrome DevTools Protocol, offering page navigation, element lookup, screenshots and browser profile management.
+
+- Catalog URL: https://awesomecua.com/resources/github-cdpdriver-zendriver/
+- Original source: https://github.com/cdpdriver/zendriver
+- Kind: tool
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-11-09T19:56:34Z
+- ID: github:cdpdriver/zendriver
+
+### Limitations
+
+The README calls it a fork of nodriver and describes Docker support. The repository declares an AGPL 3.0 license.
+
+- Record JSON: https://awesomecua.com/resources/github-cdpdriver-zendriver/record.json
+
+### License declarations
+
+- code: AGPL-3.0 — https://raw.githubusercontent.com/cdpdriver/zendriver/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cdpdriver/zendriver/HEAD/README.md (retrieved 2026-11-09T19:56:34Z; SHA-256 c2a2dd5739436639fcd065f68a3e2d236af08b47a80076597f33fa5702606892)
+- https://raw.githubusercontent.com/cdpdriver/zendriver/HEAD/LICENSE (retrieved 2026-11-09T14:20:45Z; SHA-256 4c07b14947925c5c3d125ca8d7f1fadbf604a6df626edbb0b78cefa26b9bb8f6)
 
 ---
 
@@ -3888,36 +7820,6 @@ Recording is started and stopped from the tray; screenshots use a five-second ti
 - https://api.github.com/repos/anikasomaia/local-activity-recorder/git/trees/f7ec5b6ecf0ba1bfe6362d7f2bfb0f1af5ac6bc7?recursive=1 (retrieved 2026-10-20T11:56:33.833893+00:00; SHA-256 ee9e5899d1f150982eb05ca1f8794406cef0ffc80eb8223811b504ff972370c1)
 - https://raw.githubusercontent.com/anikasomaia/local-activity-recorder/967cea087bf6496b3b82743fb96770fa29f8e203/Program.cs (retrieved 2026-10-20T12:05:00.168119+00:00; SHA-256 ce3022b4016d140eac554e392dbe42f54ffb3e8098b03e2bf72e92ff49c5d084)
 - https://raw.githubusercontent.com/anikasomaia/local-activity-recorder/967cea087bf6496b3b82743fb96770fa29f8e203/DataUploader.cs (retrieved 2026-10-20T12:05:03.421222+00:00; SHA-256 e70e2e68b5dd586e5ad0fb0b12c8b937b4614bd5237bac61d03d22144c4751f4)
-
----
-
-## activity-frames
-
-Converts continuous local desktop activity into structured, queryable workflow frames served over MCP.
-
-- Catalog URL: https://awesomecua.com/resources/github-nossa-y-activity-frames/
-- Original source: https://github.com/nossa-y/activity-frames
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, macos, windows, linux
-- Topics: recording, memory, workflow, tool-integration
-- Evidence checked: 2026-11-04T16:30:15Z
-- ID: github:nossa-y/activity-frames
-
-- Record JSON: https://awesomecua.com/resources/github-nossa-y-activity-frames/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/nossa-y/activity-frames/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/nossa-y/activity-frames/HEAD/README.md (retrieved 2026-11-04T16:30:15Z; SHA-256 a69aecb1e08e2583f9d82cdfb74875c38dfe8aeaa02e886ba6e760d7eea1ee84)
-- https://raw.githubusercontent.com/nossa-y/activity-frames/HEAD/LICENSE (retrieved 2026-11-04T16:35:38Z; SHA-256 8e5dbfa27927419d8861cbd337fb3317e4fa039babf1930ce2d5dac0154edb48)
 
 ---
 
@@ -4620,36 +8522,6 @@ Provides application-scoped Wayland screen capture and isolated input seats for 
 ### Primary evidence
 
 - https://raw.githubusercontent.com/MuhibNayem/agent-seat-linux/HEAD/README.md (retrieved 2026-11-04T16:51:56Z; SHA-256 80994bef5681c6ec973acbe617262e3a20e2e3d1b067ae6387e161808177cff3)
-
----
-
-## agent-vision-toolkit
-
-Vision toolkit and skill pack equipping text-only LLMs with multi-image reading, UI reconstruction, and GUI automation.
-
-- Catalog URL: https://awesomecua.com/resources/github-anionex-agent-vision-toolkit/
-- Original source: https://github.com/Anionex/agent-vision-toolkit
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, web
-- Topics: screen-understanding, grounding, ui-design, tool-integration
-- Evidence checked: 2026-11-04T16:51:53Z
-- ID: github:anionex/agent-vision-toolkit
-
-- Record JSON: https://awesomecua.com/resources/github-anionex-agent-vision-toolkit/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/Anionex/agent-vision-toolkit/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/Anionex/agent-vision-toolkit/HEAD/README.md (retrieved 2026-11-04T16:51:53Z; SHA-256 411bcf139f9df4320d38da53211bcf805beba3a603891694930e446c07451804)
-- https://raw.githubusercontent.com/Anionex/agent-vision-toolkit/HEAD/LICENSE (retrieved 2026-11-04T16:57:33Z; SHA-256 6f9c6c3e17f4022960800cf48ce228c77cf62b4e3ee9dd289efe1cc9a16b1ec2)
 
 ---
 
@@ -5882,36 +9754,6 @@ Windows AutoHotkey v2 desktop automation utility that detects and interacts with
 
 ---
 
-## Apache Maka
-
-Apache Maka is an agent workspace for macOS that records verifiable execution traces across browser, terminal, and GUI actions.
-
-- Catalog URL: https://awesomecua.com/resources/github-apache-maka/
-- Original source: https://github.com/apache/maka
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: recording, observability, automation, workflow
-- Evidence checked: 2026-11-04T13:12:07Z
-- ID: github:apache/maka
-
-- Record JSON: https://awesomecua.com/resources/github-apache-maka/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/apache/maka/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/apache/maka/HEAD/README.md (retrieved 2026-11-04T13:12:07Z; SHA-256 05aed09e852f1dc6680a3e739f6228f4ac4d0dc47e03ce8d1c7c2e83641c5e0b)
-- https://raw.githubusercontent.com/apache/maka/HEAD/LICENSE (retrieved 2026-11-04T13:46:47Z; SHA-256 db7368faa6e02daca7d61c537a1f87412c7bddee45530cc20122c623cc8646c5)
-
----
-
 ## ApexCommander-RS
 
 AT-SPI-first Linux computer-use CLI and Model Context Protocol server written in Rust.
@@ -6997,36 +10839,6 @@ Token-efficient Model Context Protocol toolkit for controlling an AI agent's rea
 
 - https://raw.githubusercontent.com/ItMeDiaTech/better-ai-browser-utilities/main/README.md (retrieved 2026-11-04T17:30:35Z; SHA-256 5af30729491188561742b5b3af6163d6e2c0055c01056a46d81c7661b8bb21e5)
 - https://raw.githubusercontent.com/ItMeDiaTech/better-ai-browser-utilities/HEAD/LICENSE (retrieved 2026-11-04T17:40:30Z; SHA-256 d670837c76d29cb8414d1ed9822fe970532b11c878640bcc9c54817fb72da639)
-
----
-
-## Better AX for Computer Use
-
-Better AX for Computer Use prunes and formats macOS Accessibility trees and injects Chromium/Electron AX flags for low-token GUI grounding.
-
-- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-better-ax-for-computer-use/
-- Original source: https://github.com/hqhq1025/better-ax-for-computer-use
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: screen-understanding, efficiency, tool-integration
-- Evidence checked: 2026-11-04T13:12:17Z
-- ID: github:hqhq1025/better-ax-for-computer-use
-
-- Record JSON: https://awesomecua.com/resources/github-hqhq1025-better-ax-for-computer-use/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/hqhq1025/better-ax-for-computer-use/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/hqhq1025/better-ax-for-computer-use/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 87d47241edb91b93c3b7fa985242ef7f9a3b4f590a40407078c4cc5acff7a38a)
-- https://raw.githubusercontent.com/hqhq1025/better-ax-for-computer-use/HEAD/LICENSE (retrieved 2026-11-04T13:23:38Z; SHA-256 c7abf0d3213e72830abf108e45b014b03c60e5eca7609266df91e9630fd69bf6)
 
 ---
 
@@ -8926,36 +12738,6 @@ Unified Model Context Protocol gateway and dynamic container orchestrator for he
 
 ---
 
-## chrome-agent-search
-
-Local-first Rust CLI for driving Chrome to perform web searches and extract clean Markdown page content.
-
-- Catalog URL: https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/
-- Original source: https://github.com/ominiverdi/chrome-agent-search
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, data-generation, efficiency
-- Evidence checked: 2026-11-04T17:55:16Z
-- ID: github:ominiverdi/chrome-agent-search
-
-- Record JSON: https://awesomecua.com/resources/github-ominiverdi-chrome-agent-search/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/ominiverdi/chrome-agent-search/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/ominiverdi/chrome-agent-search/main/README.md (retrieved 2026-11-04T17:55:16Z; SHA-256 5b870e448120b1aded86c648c78faf04bcfc5725c961a18f515f40fbf962d46a)
-- https://raw.githubusercontent.com/ominiverdi/chrome-agent-search/HEAD/LICENSE (retrieved 2026-11-04T18:01:05Z; SHA-256 9e3da65dffe39aae966c68d0c14cdbac163820453f1e85563bc218bc6b22f188)
-
----
-
 ## chrome-eye
 
 Model Context Protocol server exposing 56 structured-JSON Chrome CDP tools to Claude Code as a fast alternative to screenshots.
@@ -9524,36 +13306,6 @@ Chrome Manifest V3 command center for OpenClaw agents to capture page context, r
 
 ---
 
-## ClawTouch MCP
-
-Model Context Protocol server that turns a Raspberry Pi Pico 2 into a hardware USB-HID keyboard and mouse for AI computer-use agents.
-
-- Catalog URL: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-mcp/
-- Original source: https://github.com/tinqiao-oss/clawtouch-mcp
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop
-- Topics: tool-integration, automation
-- Evidence checked: 2026-11-04T16:30:03Z
-- ID: github:tinqiao-oss/clawtouch-mcp
-
-- Record JSON: https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-mcp/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/tinqiao-oss/clawtouch-mcp/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-mcp/HEAD/README.md (retrieved 2026-11-04T16:30:03Z; SHA-256 0652d327c31ea331502760cb32f97fb036e037636cf730cf961b74a40ebc0d7a)
-- https://raw.githubusercontent.com/tinqiao-oss/clawtouch-mcp/HEAD/LICENSE (retrieved 2026-11-04T16:35:07Z; SHA-256 be6018d34e8d0508c2637e14dd93ade6475ac0c1f3595dbfa4e457ea24f5b117)
-
----
-
 ## clickcast
 
 Playwright browser automation, screenshot, and GIF/MP4/WebP session-recording toolkit and MCP server for AI agents.
@@ -9824,36 +13576,6 @@ Agent skill enabling Claude Code and coding agents to drive the `cmux` terminal 
 
 ---
 
-## COCO4GUI
-
-COCO4GUI is an interactive screen capture and bounding-box annotation tool for building COCO-formatted GUI grounding datasets.
-
-- Catalog URL: https://awesomecua.com/resources/github-harpreetsahota204-gui-dataset-creator/
-- Original source: https://github.com/harpreetsahota204/gui_dataset_creator
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, web
-- Topics: recording, data-generation, grounding
-- Evidence checked: 2026-11-04T13:12:16Z
-- ID: github:harpreetsahota204/gui_dataset_creator
-
-- Record JSON: https://awesomecua.com/resources/github-harpreetsahota204-gui-dataset-creator/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/harpreetsahota204/gui_dataset_creator/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/harpreetsahota204/gui_dataset_creator/HEAD/README.md (retrieved 2026-11-04T13:12:16Z; SHA-256 d1db45603cd0bcca37f3225e1eecb6e1aef5dddd4e92d03d57b94fce1f6ea0dc)
-- https://raw.githubusercontent.com/harpreetsahota204/gui_dataset_creator/HEAD/LICENSE (retrieved 2026-11-04T13:23:38Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
-
----
-
 ## Code Sandbox MCP
 
 Code Sandbox MCP is a Model Context Protocol server that provisions isolated Docker container sandboxes for AI agents to execute code and shell commands.
@@ -10034,36 +13756,6 @@ Local-first OpenAI Codex skill and Chrome extension for safe, user-bounded brows
 
 - https://raw.githubusercontent.com/QLK-X/codex-chrome-browser-control/main/README.md (retrieved 2026-11-04T18:11:27Z; SHA-256 b32626892f655d5ac8b67143210f8f25d9a30ad4b4480f332f4b6298cea89863)
 - https://raw.githubusercontent.com/QLK-X/codex-chrome-browser-control/HEAD/LICENSE (retrieved 2026-11-04T18:17:14Z; SHA-256 7380239777f5f5fe23e68e5b0b6d0f1555533ff8370d746707e74a2dd8e814a9)
-
----
-
-## Codex Computer Use Lab
-
-Documents and reproduces the macOS Computer Use architecture, SkyLight window capture, and Accessibility action dispatch in the Codex desktop app.
-
-- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/
-- Original source: https://github.com/hqhq1025/codex-computer-use-lab
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: screen-understanding, tool-integration, grounding
-- Evidence checked: 2026-11-04T13:12:17Z
-- ID: github:hqhq1025/codex-computer-use-lab
-
-- Record JSON: https://awesomecua.com/resources/github-hqhq1025-codex-computer-use-lab/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/hqhq1025/codex-computer-use-lab/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/hqhq1025/codex-computer-use-lab/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 a15e1e29dcacb11f39c1c4f5a75dca870e81243fe301c9504602744d20e8318a)
-- https://raw.githubusercontent.com/hqhq1025/codex-computer-use-lab/HEAD/LICENSE (retrieved 2026-11-04T13:42:35Z; SHA-256 c7abf0d3213e72830abf108e45b014b03c60e5eca7609266df91e9630fd69bf6)
 
 ---
 
@@ -10660,36 +14352,6 @@ Cross-platform computer-use CLI that maps unified commands to native OS accessib
 
 - https://raw.githubusercontent.com/crafter-agents/cuse/HEAD/README.md (retrieved 2026-11-04T16:51:49Z; SHA-256 b6f896301e917c114366bed3e1ee487d6687753d9b10c9770a16d0abc3e39268)
 - https://raw.githubusercontent.com/crafter-agents/cuse/HEAD/LICENSE (retrieved 2026-11-04T16:57:18Z; SHA-256 223c70b5fe89b1306aad533859e1bacc7beb00e7c62c0e6b53d6aa768e45f019)
-
----
-
-## crowd-test-mcp
-
-Model Context Protocol server that dispatches concurrent AI virtual-user personas in real browsers to test websites.
-
-- Catalog URL: https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test-mcp/
-- Original source: https://github.com/anhhuyn411-alt/crowd-test-mcp
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation, tool-integration
-- Evidence checked: 2026-11-04T16:51:49Z
-- ID: github:anhhuyn411-alt/crowd-test-mcp
-
-- Record JSON: https://awesomecua.com/resources/github-anhhuyn411-alt-crowd-test-mcp/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/anhhuyn411-alt/crowd-test-mcp/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/anhhuyn411-alt/crowd-test-mcp/HEAD/README.md (retrieved 2026-11-04T16:51:49Z; SHA-256 df93d5ae5348ed2f9cfb94f52f0f797cabe34e4dd2df198865d9122005169d83)
-- https://raw.githubusercontent.com/anhhuyn411-alt/crowd-test-mcp/HEAD/LICENSE (retrieved 2026-11-04T16:57:16Z; SHA-256 21c48fd06a7732d1f8b3fa9e8492aee5f20c93c1fce030cb0ede609e1f48ed28)
 
 ---
 
@@ -13146,36 +16808,6 @@ Chrome extension and zero-dependency MCP server for automating a user's real log
 
 - https://raw.githubusercontent.com/dylansantwani/openbrowser/HEAD/README.md (retrieved 2026-11-04T16:51:54Z; SHA-256 7bcc0a8626bba2e300cbeb46102682bf2b04d25eb8f24104c2e6c1bb8155887d)
 - https://raw.githubusercontent.com/dylansantwani/openbrowser/HEAD/LICENSE (retrieved 2026-11-04T16:57:37Z; SHA-256 2131f74426e393be1855ef93053248dc2a0272f4e9c701dad81fafe4a620a3cc)
-
----
-
-## easy-webbridge
-
-Browser bridge allowing Claude Code, Codex, OpenCode, and WorkBuddy agents to operate an authenticated Chrome session.
-
-- Catalog URL: https://awesomecua.com/resources/github-xxjrq-easy-webbridge/
-- Original source: https://github.com/xxjrq/easy-webbridge
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, tool-integration, automation
-- Evidence checked: 2026-11-04T17:55:09Z
-- ID: github:xxjrq/easy-webbridge
-
-- Record JSON: https://awesomecua.com/resources/github-xxjrq-easy-webbridge/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/xxjrq/easy-webbridge/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/xxjrq/easy-webbridge/main/README.md (retrieved 2026-11-04T17:55:09Z; SHA-256 0a8323a61a46ea9a730db2ff8d55be0711fad3db52457e8276dd83b79130de27)
-- https://raw.githubusercontent.com/xxjrq/easy-webbridge/HEAD/LICENSE (retrieved 2026-11-04T18:01:12Z; SHA-256 0437d20491d02ae94bf59ba10d6f31cdff9c0648ba52eaa136ead66f52c36174)
 
 ---
 
@@ -15742,35 +19374,6 @@ macOS skill and CoreGraphics controller for driving a paired iPhone through Appl
 
 ---
 
-## iphone-use
-
-MCP server and CLI that lets Claude Code, Codex, and MCP agents read real iPhone screens as structured text and execute taps/swipes.
-
-- Catalog URL: https://awesomecua.com/resources/github-leeguooooo-iphone-use/
-- Original source: https://github.com/leeguooooo/iphone-use
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: ios, desktop, macos
-- Topics: mobile-navigation, tool-integration, screen-understanding, efficiency
-- Evidence checked: 2026-11-04T16:30:06Z
-- ID: github:leeguooooo/iphone-use
-
-- Record JSON: https://awesomecua.com/resources/github-leeguooooo-iphone-use/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/leeguooooo/iphone-use/HEAD/README.md (retrieved 2026-11-04T16:30:06Z; SHA-256 baf1f2e238dd9a244ea2ad3c6ff04b9216400bd8edbf41cafdd7c9e492934527)
-
----
-
 ## Ivy Tendril
 
 Ivy Tendril is a desktop orchestrator for running parallel coding agents across isolated Git worktrees.
@@ -16186,36 +19789,6 @@ Kernel MCP Server connects AI agents to low-latency cloud browser sandboxes and 
 
 - https://raw.githubusercontent.com/kernel/kernel-mcp-server/HEAD/README.md (retrieved 2026-11-04T14:02:38Z; SHA-256 8f5df477c7711fd8cad06b8a47dc7bd73024132a155658f28885838a86d5f5f9)
 - https://raw.githubusercontent.com/kernel/kernel-mcp-server/HEAD/LICENSE (retrieved 2026-11-04T14:07:47Z; SHA-256 f88fe326233459750c3ae6f0f8dbdd984f4c801807e67e26eacdb5807f6e172d)
-
----
-
-## Kimi Computer Use Lab
-
-Analyzes and reproduces the Kimi Desktop computer-use architecture combining OpenClaw browser/canvas control with macOS helper binaries.
-
-- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-kimi-computer-use-lab/
-- Original source: https://github.com/hqhq1025/kimi-computer-use-lab
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: tool-integration, automation
-- Evidence checked: 2026-11-04T13:12:17Z
-- ID: github:hqhq1025/kimi-computer-use-lab
-
-- Record JSON: https://awesomecua.com/resources/github-hqhq1025-kimi-computer-use-lab/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/hqhq1025/kimi-computer-use-lab/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/hqhq1025/kimi-computer-use-lab/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 e4f98ec33eb2e97b48b3feb22b796ee96d04a0c598692f052c9ede05c5d4bb8a)
-- https://raw.githubusercontent.com/hqhq1025/kimi-computer-use-lab/HEAD/LICENSE (retrieved 2026-11-04T13:42:36Z; SHA-256 c7abf0d3213e72830abf108e45b014b03c60e5eca7609266df91e9630fd69bf6)
 
 ---
 
@@ -16644,36 +20217,6 @@ Linux/X11 computer-use toolkit and MCP server combining AT-SPI semantic trees, s
 
 - https://raw.githubusercontent.com/tak-uukti/linux-computer-use/HEAD/README.md (retrieved 2026-11-04T16:10:32Z; SHA-256 213b7d07423fcf72d28685f9a05721ccfd14ff378561f5c188039abf64644dc5)
 - https://raw.githubusercontent.com/tak-uukti/linux-computer-use/HEAD/LICENSE (retrieved 2026-11-04T16:14:17Z; SHA-256 4369a65671dfc4f8028468b782b4812a5b846ffe29ef291f14bf94639982847d)
-
----
-
-## linux-use
-
-Agent-first, CLI-first GUI control toolkit for Linux desktops operating over the AT-SPI2 accessibility tree.
-
-- Catalog URL: https://awesomecua.com/resources/github-javimosch-linux-use/
-- Original source: https://github.com/javimosch/linux-use
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, linux
-- Topics: screen-understanding, automation, efficiency
-- Evidence checked: 2026-11-04T16:51:58Z
-- ID: github:javimosch/linux-use
-
-- Record JSON: https://awesomecua.com/resources/github-javimosch-linux-use/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/javimosch/linux-use/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/javimosch/linux-use/HEAD/README.md (retrieved 2026-11-04T16:51:58Z; SHA-256 4f3de3dfdc05a0df1f06e1fb9f320fe659af62609893217c885e27f90b0f2a0f)
-- https://raw.githubusercontent.com/javimosch/linux-use/HEAD/LICENSE (retrieved 2026-11-04T16:57:51Z; SHA-256 575b8be11e649028e3b1a06f3e42835fe8ca69f9e61f4bf14490a1f82f3c2df7)
 
 ---
 
@@ -18479,36 +22022,6 @@ Auditable, content-blind permission gate for Claude in Chrome browser actions dr
 
 ---
 
-## munim-computer-use
-
-munim-computer-use is a cross-platform Computer Use MCP server combining native OS accessibility trees, OCR, and policy guardrails.
-
-- Catalog URL: https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/
-- Original source: https://github.com/munimtechnologies/munim-computer-use
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, macos, windows, linux
-- Topics: tool-integration, automation, grounding, safety-security
-- Evidence checked: 2026-11-04T14:20:12Z
-- ID: github:munimtechnologies/munim-computer-use
-
-- Record JSON: https://awesomecua.com/resources/github-munimtechnologies-munim-computer-use/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/munimtechnologies/munim-computer-use/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/munimtechnologies/munim-computer-use/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 2eb64a8fd70d095d8d241e22cbc3cd3d2da3c171b0a23db1b6b6674241838f6c)
-- https://raw.githubusercontent.com/munimtechnologies/munim-computer-use/HEAD/LICENSE (retrieved 2026-11-04T14:24:25Z; SHA-256 86eb2ea193b1adffcdb1366bd63e73b02d0f7df414542fb7323762df1e4af357)
-
----
-
 ## nanbbb dsh-computer-use-windows
 
 Windows computer-use plugin for DeepSeek Harness combining window discovery, UI Automation inspection, and input synthesis.
@@ -18968,49 +22481,6 @@ Local-first multi-profile browser manager for isolated testing and agentic web a
 
 ---
 
-## OculiX (SikuliX continuation)
-
-A maintained continuation of SikuliX that locates on-screen targets with image matching and OCR, drives desktop or Android interfaces, and exposes scripting and optional MCP interfaces.
-
-- Catalog URL: https://awesomecua.com/resources/github-oculix-org-oculix/
-- Original source: https://github.com/oculix-org/Oculix
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, windows, macos, linux, android
-- Topics: automation, grounding, tool-integration
-- Evidence checked: 2026-10-17T11:18:14Z
-- ID: github:oculix-org/oculix
-
-### Limitations
-
-The official stable-release API lists v4.0.0 with platform-specific API/IDE JARs and an MCP server JAR; no binary was downloaded. The default README still advertises 3.0.3, while release-specific compatibility follows the release notes. The RaiMan/SikuliX1 API resolves to oculix-org/SikuliX1, whose README calls itself a historical mirror and directs current users here. MIT describes the project source. Retained dependency notices also include GPL/LGPL, Apache, BSD and MPL declarations; a bundled artifact is not asserted to be uniformly MIT.
-
-- Record JSON: https://awesomecua.com/resources/github-oculix-org-oculix/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-- code review: Publisher project-source LICENSE. Third-party dependency notices are separately retained and no blanket MIT assertion is made for the compiled distribution.
-  Sources: https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/LICENSE
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/README.md (retrieved 2026-10-17T11:18:14Z; SHA-256 41d32f40bfb960f38b77ebb62a73ae20454be6c52829c9cbf0b8fedd27de2297)
-- https://api.github.com/repos/oculix-org/Oculix (retrieved 2026-10-17T11:18:14Z; SHA-256 151ed1aaf544b9afcfd2d8f13d0fa682d8cf8f8a68496af20c3597b082070801)
-- https://api.github.com/repos/oculix-org/Oculix/git/trees/master?recursive=1 (retrieved 2026-10-17T11:19:48Z; SHA-256 cba4541e5d89210b570e42cc69c1529ca36e698622c69b4bb0eeffe56339a759)
-- https://api.github.com/repos/oculix-org/Oculix/releases/latest (retrieved 2026-10-17T11:23:08Z; SHA-256 1022eb9591a2f01833e88c2bae2869faeac9b92e535901d2c79e93a714278777)
-- https://raw.githubusercontent.com/oculix-org/SikuliX1/HEAD/README.md (retrieved 2026-10-17T11:18:14Z; SHA-256 8994ff2000b0871aca819ecd7233430bb82cea3f0134a555cebbfa9e02e0f4da)
-- https://api.github.com/repos/RaiMan/SikuliX1 (retrieved 2026-10-17T11:18:13Z; SHA-256 102b86e9019fe5e936486b3213d2bbd9e80d6c7ad393284b1a4298b0be555ce7)
-- https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/LICENSE (retrieved 2026-10-17T11:23:03Z; SHA-256 cea4b6292d59625e14968ec666faa7ae6e237b510d846a96875bd6a282677f3a)
-- https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/API/src/main/resources/Settings/THIRD-PARTY.txt (retrieved 2026-10-17T11:27:50Z; SHA-256 f0e0d8aa91c1c60bac2250688248c85503036aeac37ec02b8a75fe9d50b6ae4c)
-
----
-
 ## Oculr MCP
 
 Model Context Protocol server for driving isolated, anti-detect Oculr Chromium profiles over MCP and raw CDP.
@@ -19191,36 +22661,6 @@ Low-overhead Cua Driver computer-use integration for the Oh My Pi coding agent.
 
 ---
 
-## only-cli (oc)
-
-Compiles websites into compact, token-efficient CLI commands tailored for AI agents.
-
-- Catalog URL: https://awesomecua.com/resources/github-only-cli-oc/
-- Original source: https://github.com/only-cli/oc
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, efficiency, tool-integration
-- Evidence checked: 2026-11-04T17:20:51Z
-- ID: github:only-cli/oc
-
-- Record JSON: https://awesomecua.com/resources/github-only-cli-oc/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/only-cli/oc/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/only-cli/oc/main/README.md (retrieved 2026-11-04T17:20:51Z; SHA-256 ecde4f313f5b795ed4df74b164e5a690b9c5e737b1b45bd83685f196b698ea50)
-- https://raw.githubusercontent.com/only-cli/oc/HEAD/LICENSE (retrieved 2026-11-04T17:27:16Z; SHA-256 47ad28fe4f56e39bc9b84044ab1703649ceb4d9c749402d0e6512c0c9a7f92a8)
-
----
-
 ## op-browse-the-web-skill
 
 Single-file zero-cost autonomous web browsing skill for Claude Code.
@@ -19308,96 +22748,6 @@ Open-source background macOS computer-use MCP server for Claude Code and Codex.
 
 - https://raw.githubusercontent.com/OpenCodexLabs/open-codex-computer-use/HEAD/README.md (retrieved 2026-11-04T16:10:32Z; SHA-256 9c15bd8701774175676c6d6216c04d2488706fb1c0a6a14a3e1568eb8bf3b953)
 - https://raw.githubusercontent.com/OpenCodexLabs/open-codex-computer-use/HEAD/LICENSE (retrieved 2026-11-04T16:14:14Z; SHA-256 4a0b5952777f8076ff1c729b4445ae76df4012c430471b59596a78aca9caa72f)
-
----
-
-## Open Codex Computer History
-
-Clean-room macOS implementation of event-stream interaction recording using Accessibility hit-testing, CGEvent taps, and SkyLight window snapshots.
-
-- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/
-- Original source: https://github.com/hqhq1025/open-codex-computer-history
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: recording, interaction-history, screen-understanding
-- Evidence checked: 2026-11-04T13:12:17Z
-- ID: github:hqhq1025/open-codex-computer-history
-
-- Record JSON: https://awesomecua.com/resources/github-hqhq1025-open-codex-computer-history/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/hqhq1025/open-codex-computer-history/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/hqhq1025/open-codex-computer-history/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 68282fcfdd76deb3e98b267f874f96ad8c0e7d43ac5e3516de9b5df325621e47)
-- https://raw.githubusercontent.com/hqhq1025/open-codex-computer-history/HEAD/LICENSE (retrieved 2026-11-04T13:42:37Z; SHA-256 f0f51f2d5890129f3f7497ea59af0d939bd2ce73d99343eca3ddb9b6add0dc10)
-
----
-
-## Open Codex Record & Replay
-
-Clean-room macOS implementation of semantic UI workflow recording and deterministic Accessibility-tree replay with visual template fallback.
-
-- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-open-codex-record-and-replay/
-- Original source: https://github.com/hqhq1025/open-codex-record-and-replay
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: recording, automation, workflow
-- Evidence checked: 2026-11-04T13:12:17Z
-- ID: github:hqhq1025/open-codex-record-and-replay
-
-- Record JSON: https://awesomecua.com/resources/github-hqhq1025-open-codex-record-and-replay/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/hqhq1025/open-codex-record-and-replay/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/hqhq1025/open-codex-record-and-replay/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 87112334173ff8641f2a74ce1d772cb911fbb25754b3a23806fb3b82269bf015)
-- https://raw.githubusercontent.com/hqhq1025/open-codex-record-and-replay/HEAD/LICENSE (retrieved 2026-11-04T13:42:37Z; SHA-256 ac09bc98f39d5f1ccf352b5f9cb5953135661267a5f4c59dc945b858056f1b94)
-
----
-
-## Open ZCode Computer Use
-
-Clean-room implementation of Z.ai ZCode's dual-mode computer-use MCP server combining pixel-coordinate desktop control and native macOS AX tools.
-
-- Catalog URL: https://awesomecua.com/resources/github-hqhq1025-open-zcode-computer-use/
-- Original source: https://github.com/hqhq1025/open-zcode-computer-use
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, macos, windows, linux
-- Topics: tool-integration, automation, grounding
-- Evidence checked: 2026-11-04T13:12:17Z
-- ID: github:hqhq1025/open-zcode-computer-use
-
-- Record JSON: https://awesomecua.com/resources/github-hqhq1025-open-zcode-computer-use/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/hqhq1025/open-zcode-computer-use/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/hqhq1025/open-zcode-computer-use/HEAD/README.md (retrieved 2026-11-04T13:12:17Z; SHA-256 6af3f37b5fe4aa9c23c9094e12c0c5a5bc405a558d415db6d6b5deb0487406f5)
-- https://raw.githubusercontent.com/hqhq1025/open-zcode-computer-use/HEAD/LICENSE (retrieved 2026-11-04T13:42:38Z; SHA-256 ec5433f4ba767d5d74b5b4140e02d76750abf460f9cd45412897d666aea53b91)
 
 ---
 
@@ -19928,36 +23278,6 @@ Overlay Companion MCP provides a transparent on-screen visual overlay and MCP se
 
 - https://raw.githubusercontent.com/RyansOpenSourceRice/overlay-companion-mcp/HEAD/README.md (retrieved 2026-11-04T14:20:05Z; SHA-256 f8b107e852b9e5bc3bfc65d6fb9b4ce0d0bd420db7043441cf1de1913293996b)
 - https://raw.githubusercontent.com/RyansOpenSourceRice/overlay-companion-mcp/HEAD/LICENSE (retrieved 2026-11-04T14:24:15Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
-
----
-
-## OvoBrowser
-
-Source-level Chromium fingerprint browser engineered for anti-detect web automation.
-
-- Catalog URL: https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/
-- Original source: https://github.com/ovobrowsersupport/ovobrowser
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: web, desktop, windows, macos
-- Topics: web-navigation, sandbox, automation
-- Evidence checked: 2026-11-04T17:30:36Z
-- ID: github:ovobrowsersupport/ovobrowser
-
-- Record JSON: https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser/main/README.md (retrieved 2026-11-04T17:30:36Z; SHA-256 1ef2bc2305a132f7ba424e47dd94a59f41abaf02b57dd396b879782bcc772213)
-- https://raw.githubusercontent.com/ovobrowsersupport/ovobrowser/HEAD/LICENSE (retrieved 2026-11-04T17:40:37Z; SHA-256 14cd42d41f3a1249f08d25fdbc190562e86fae9031c92bc9adfb4f5ea797fc7a)
 
 ---
 
@@ -21227,36 +24547,6 @@ Codex and Claude Agent Skill that drives live web products in a browser to recor
 
 ---
 
-## Public Browser
-
-Token-efficient Chrome automation bridge and CLI for Claude Code and Cursor.
-
-- Catalog URL: https://awesomecua.com/resources/github-silbercue-public-browser/
-- Original source: https://github.com/Silbercue/public-browser
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: web-navigation, efficiency, tool-integration
-- Evidence checked: 2026-11-04T16:10:27Z
-- ID: github:silbercue/public-browser
-
-- Record JSON: https://awesomecua.com/resources/github-silbercue-public-browser/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/README.md (retrieved 2026-11-04T16:10:27Z; SHA-256 657293384cda1a2318de2de452304c464e7da7794dc06d7c2588e5a706bf5489)
-- https://raw.githubusercontent.com/Silbercue/public-browser/HEAD/LICENSE (retrieved 2026-11-04T16:14:02Z; SHA-256 ceb2e1e10f2077c987d18f6bf7d019137c17636dd8cf1b59c8ba39c6b52e9995)
-
----
-
 ## Puppeteer MCP Server
 
 Self-hosted Puppeteer MCP server with remote Server-Sent Events (SSE) transport, API key authentication, and Docker deployment.
@@ -21976,36 +25266,6 @@ Linux computer-use Model Context Protocol server for Claude Code, OpenAI Codex, 
 
 ---
 
-## RobotGo
-
-RobotGo is a native Go cross-platform desktop automation library for controlling the mouse, keyboard, bitmap screen capture, and window handles.
-
-- Catalog URL: https://awesomecua.com/resources/github-go-vgo-robotgo/
-- Original source: https://github.com/go-vgo/robotgo
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, macos, windows, linux
-- Topics: automation, grounding
-- Evidence checked: 2026-11-04T14:02:37Z
-- ID: github:go-vgo/robotgo
-
-- Record JSON: https://awesomecua.com/resources/github-go-vgo-robotgo/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/README.md (retrieved 2026-11-04T14:02:37Z; SHA-256 9cf3d8cac0c4d059a9f1d4a8fa4890efb00523da90ecba9b9f80e679079db291)
-- https://raw.githubusercontent.com/go-vgo/robotgo/HEAD/LICENSE (retrieved 2026-11-04T14:07:47Z; SHA-256 b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1)
-
----
-
 ## RobotJS
 
 RobotJS is a native Node.js desktop automation library for controlling the mouse, keyboard, and screen bitmap capture across OS platforms.
@@ -22581,35 +25841,6 @@ Open-source desktop automation MCP server that drives native macOS and Windows U
 
 - https://raw.githubusercontent.com/manushi4/Screenhand/HEAD/README.md (retrieved 2026-11-04T15:45:48Z; SHA-256 42d99323ad0d2692f3b84d23bf3cfdd2d485238d497b225918b2e1f6f64538be)
 - https://raw.githubusercontent.com/manushi4/Screenhand/HEAD/LICENSE (retrieved 2026-11-04T15:58:01Z; SHA-256 0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0)
-
----
-
-## Screenpipe
-
-Screenpipe continuously captures desktop screen text via accessibility/OCR and audio transcripts into a local database for AI agents.
-
-- Catalog URL: https://awesomecua.com/resources/github-screenpipe-screenpipe/
-- Original source: https://github.com/screenpipe/screenpipe
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, macos, windows, linux
-- Topics: recording, memory, observability
-- Evidence checked: 2026-11-04T13:12:34Z
-- ID: github:screenpipe/screenpipe
-
-- Record JSON: https://awesomecua.com/resources/github-screenpipe-screenpipe/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/screenpipe/screenpipe/HEAD/README.md (retrieved 2026-11-04T13:12:34Z; SHA-256 4a61e3072cab5dad3ab41be2ff08d589f902b3e3c194fa1aaeb414265dc1a61a)
 
 ---
 
@@ -23257,36 +26488,6 @@ Anti-detect Chromium browser built for agentic web automation and authorized scr
 
 ---
 
-## smart-computer-use
-
-Agent skill for Claude Code, Codex, Cursor, and OpenCode that drives desktop GUIs via a Rust CLI and local vision grounding.
-
-- Catalog URL: https://awesomecua.com/resources/github-lindoelio-smart-computer-use/
-- Original source: https://github.com/lindoelio/smart-computer-use
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, macos, windows, linux
-- Topics: automation, grounding, tool-integration
-- Evidence checked: 2026-11-04T15:03:44Z
-- ID: github:lindoelio/smart-computer-use
-
-- Record JSON: https://awesomecua.com/resources/github-lindoelio-smart-computer-use/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/lindoelio/smart-computer-use/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/lindoelio/smart-computer-use/HEAD/README.md (retrieved 2026-11-04T15:03:44Z; SHA-256 afece49a1ffe30f7196b6878ebe3d66b67276deeadb9a8cecf2ac6e7f1995e9d)
-- https://raw.githubusercontent.com/lindoelio/smart-computer-use/HEAD/LICENSE (retrieved 2026-11-04T15:24:10Z; SHA-256 12b2f95d90a1a7932205c324b989741664057bf35abb06f72586531a333bb2c2)
-
----
-
 ## Social Browser Publisher for Codex
 
 Codex skill that uses an authenticated Chrome session to preview and publish posts across Instagram, Facebook, and Threads.
@@ -23795,39 +26996,6 @@ Gives local AI agents permission-gated access to authenticated Chrome tabs via a
 
 - https://raw.githubusercontent.com/NePavel221/TabWard/main/README.md (retrieved 2026-11-04T17:20:53Z; SHA-256 f9bf770918daa10a592ac7dcaa6a769b4ff75de5197cff16e0c5f6292b6615bf)
 - https://raw.githubusercontent.com/NePavel221/TabWard/HEAD/LICENSE (retrieved 2026-11-04T17:27:15Z; SHA-256 4d061885169f19738d2f4e726503b778a03ed73d4dc78aa651708c61fa6ccce7)
-
----
-
-## Tactile
-
-Skill, protocol and tool layer that has agents operate software through accessibility semantics first, reading roles, names and states before reaching for screenshots.
-
-- Catalog URL: https://awesomecua.com/resources/github-yliust-tactile/
-- Original source: https://github.com/yliust/Tactile
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: desktop, macos
-- Topics: screen-understanding, grounding, tool-integration
-- Evidence checked: 2026-11-06T16:36:28Z
-- ID: github:yliust/tactile
-
-### Limitations
-
-The first version connects to Codex as a skill, with a dedicated macOS MCP server as the recommended entry point. PolyForm Noncommercial 1.0.0 per LICENSE.
-
-- Record JSON: https://awesomecua.com/resources/github-yliust-tactile/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/yliust/Tactile/73b77faece08752edd360e233f1184c44dcba701/README.md (retrieved 2026-11-06T16:36:28Z; SHA-256 889e3b0737fbca695403362cbd9e2868d0d4c3e2b261cd8db88ebf0941db2eb4)
 
 ---
 
@@ -24669,36 +27837,6 @@ Model Context Protocol server by Undetectable.io that drives Chrome, Edge, Brave
 
 ---
 
-## undetected-chromedriver
-
-undetected-chromedriver is an anti-bot Selenium ChromeDriver patch widely used by web agents to bypass anti-automation fingerprinting.
-
-- Catalog URL: https://awesomecua.com/resources/github-ultrafunkamsterdam-undetected-chromedriver/
-- Original source: https://github.com/ultrafunkamsterdam/undetected-chromedriver
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, web
-- Topics: web-navigation, automation
-- Evidence checked: 2026-11-04T13:12:41Z
-- ID: github:ultrafunkamsterdam/undetected-chromedriver
-
-- Record JSON: https://awesomecua.com/resources/github-ultrafunkamsterdam-undetected-chromedriver/record.json
-
-### License declarations
-
-- code: GPL-3.0 — https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/README.md (retrieved 2026-11-04T13:12:41Z; SHA-256 106d28133afd02afc1efaf323b83953d40e06c51c45955f92ae84e43e9b78119)
-- https://raw.githubusercontent.com/ultrafunkamsterdam/undetected-chromedriver/HEAD/LICENSE (retrieved 2026-11-04T13:42:26Z; SHA-256 230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809)
-
----
-
 ## Universal Computer Control MCP
 
 Model Context Protocol server giving AI agents cross-platform screen capture, mouse, keyboard, and window control.
@@ -24815,36 +27953,6 @@ Unraid container template and Agent Skill for hosting a private Camofox anti-det
 
 - https://raw.githubusercontent.com/MircoBlitz/unraid-camofox-stealth-browser/main/README.md (retrieved 2026-11-04T17:55:16Z; SHA-256 5860e03eaa0fc0035b04660001cd922564f4e1dda01cc8a23e70628424115713)
 - https://raw.githubusercontent.com/MircoBlitz/unraid-camofox-stealth-browser/HEAD/LICENSE (retrieved 2026-11-04T18:01:02Z; SHA-256 2a034a670caf7ff83d79d06eb3396e031ffded91876f6ad0b168579ba3b90d63)
-
----
-
-## vadgr-computer-use
-
-Three-tier computer-use MCP server combining system shell tools, OS accessibility trees (UIA/AT-SPI/AX), and vision fallback.
-
-- Catalog URL: https://awesomecua.com/resources/github-montbrain-vadgr-computer-use/
-- Original source: https://github.com/MONTBRAIN/vadgr-computer-use
-- Kind: tool
-- Review: curated
-- Scope: core
-- Environments: cross-platform, desktop, windows, linux, macos
-- Topics: tool-integration, screen-understanding, grounding, automation
-- Evidence checked: 2026-11-04T16:10:30Z
-- ID: github:montbrain/vadgr-computer-use
-
-- Record JSON: https://awesomecua.com/resources/github-montbrain-vadgr-computer-use/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/MONTBRAIN/vadgr-computer-use/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/MONTBRAIN/vadgr-computer-use/HEAD/README.md (retrieved 2026-11-04T16:10:30Z; SHA-256 640951389206024162d8e67848c8934304f6788895fc6a3eb739c683e1310211)
-- https://raw.githubusercontent.com/MONTBRAIN/vadgr-computer-use/HEAD/LICENSE (retrieved 2026-11-04T16:14:10Z; SHA-256 68bc5331a19f6dfbbfd5a2751f73294a8a96f54ca677f675524b52253e1803cf)
 
 ---
 

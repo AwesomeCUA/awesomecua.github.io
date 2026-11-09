@@ -117,6 +117,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   HTML and annotation release used for Code2World’s action-conditioned GUI-state prediction training, constructed from mobile GUI trajectories.
 - [Dreamer V1 Data](https://awesomecua.com/resources/url-eadc6cba9ea46c38dd1d/) — Date not recorded
   Web-world-model training data with prompts, images, action descriptions, and responses, released with the WebDreamer project.
+- [LGWM data and RSWT-Bench](https://awesomecua.com/resources/url-fde41ce8459b7d3f647f/) — Date not recorded
+  A dataset of GUI screen transitions for training a world model, released with RSWT-Bench to evaluate whether observed screens follow the intended actions.
 - [Mobile-GUI-Worldmodel-SFT](https://awesomecua.com/resources/url-e041226738f8ea43a878/) — Date not recorded
   A mobile GUI dataset for world-model training and evaluation. Its trajectory archives pair screenshots with page-state text and action-formatted training examples.
 - [WebEvolver SFT data](https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/) — Date not recorded
@@ -136,6 +138,10 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   A shopping-domain Dreamer-7B checkpoint for WebDreamer, which uses screenshot-conditioned predictions of candidate web actions to support agent planning.
 - [gWorld (GuiWorld)](https://awesomecua.com/resources/github-trillion-labs-gworld/) — Date not recorded
   gWorld is an open-weight 8B/32B mobile GUI world model that predicts next-step screen states via renderable web code generation.
+- [gWorld-8B](https://awesomecua.com/resources/url-78802d1a2fce25f20f85/) — Date not recorded
+  gWorld-8B is a released mobile GUI world model that predicts the screen after an action by generating renderable HTML from the current screenshot and action.
+- [jiamingzz/lgwm](https://awesomecua.com/resources/url-512cd7335068b2c17859/) — Date not recorded
+  Released weights for a GUI world model that predicts a screen representation after an action and checks the observed transition, with a separate harm scoring head.
 - [Textual Foresight](https://awesomecua.com/resources/github-aburns4-textualforesight/) — Date not recorded
   Textual Foresight pretrains UI representations by predicting textual descriptions of future screen states resulting from mobile UI actions.
 

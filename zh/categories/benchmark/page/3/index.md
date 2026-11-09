@@ -4,13 +4,32 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 
 完整类别注释：https://awesomecua.com/zh/categories/benchmark/index.md
 
+- [MMInA](https://awesomecua.com/resources/github-shulin16-mmina/)：基于 WebArena 环境的多模态网页任务，需在购物网站、Wikipedia 等站点间完成 1 至 10 跳的操作，用于测试长链推理。
+- [MMSearch-Plus](https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/)：面向多模态网页智能体的评测集，含 311 道需反复检索图像与文本的视觉推理任务；仓库链接数据集并提供加载辅助程序。
+- [MobBench task definitions](https://awesomecua.com/resources/url-b53e03a6e4ca4226d126/)：用于评估 MobA 的公开真机移动任务定义集，中文和英文任务材料以带版本号的 JSON 形式发布。
+- [Mobile-Bench](https://awesomecua.com/resources/github-xiaomi-mobilebench/)：Mobile-Bench 通过结合 UI 动作与 API 扩展、使用检查点指标的多步骤 Android 任务，评测基于 LLM 的移动端智能体。
+- [Mobile-Eval-E task definitions](https://awesomecua.com/resources/url-342b081c3668a8bbe155/)：用于 Mobile-Agent-E 长时程、跨应用 Android 评估的任务定义，以含 25 条记录的测试集形式提供，并附有评分标准和人工参考操作字符串。
+- [MobileAgentBench](https://awesomecua.com/resources/github-mobileagentbench-mobile-agent-bench/)：面向移动端 LLM 智能体的自动化基准，默认任务使用 10 个 Simple Mobile Tools Android 应用；作为 Python 库安装，并检测任务是否完成。
+- [MobileBench-OL](https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/)：MobileBench-OL 提供在线评测测试框架，在真实 Android 设备上测试移动端 GUI 智能体，并动态验证任务。
+- [MobileSafetyBench](https://awesomecua.com/resources/github-jylee425-mobilesafetybench/)：MobileSafetyBench 是 Android 模拟器测试环境，借助 ADB 和 Appium 获取观察、执行操作并检查任务是否成功，同时评估移动设备控制智能体的安全性与有用性。
+- [MobileWorldBench](https://awesomecua.com/resources/github-jacklishufan-mobileworld/)：MobileWorldBench 是评估移动智能体语义世界建模的基准，包含问答任务和由 GPT 评判的生成任务，并提供基于 AitW 及 AndroidControl 屏幕构建的训练数据。
+- [Navi-Bench](https://awesomecua.com/resources/github-yutori-ai-navi-bench/)：Navi-Bench 通过直接在实时网站上执行的日常消费者任务，并使用确定性结果验证器，评测网页智能体。
+- [Next-Gen CAPTCHAs](https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/)：Next-Gen CAPTCHAs 提供交互式评测基准和认知差距 CAPTCHA 挑战生成器，用于防范 GUI 网页智能体。
+- [Nightshift](https://awesomecua.com/resources/github-yayaq1-nightshift/)：运行于 Solari 的黑盒计算机使用质量检查测试框架，无需访问应用测试钩子即可评测实时用户界面。
+- [OmniWebBench](https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/)：OmniWebBench 从端到端网页导航、动作执行、故障恢复和证据核验等方面评测智能体浏览器。
+- [Open Operator Evals](https://awesomecua.com/resources/github-nottelabs-open-operator-evals/)：Notte Labs 已归档的评测框架和结果，对 WebVoyager 的 30 项任务子集让网页智能体各运行八次，以 GPT-4o 截图评判器评分，并与智能体自报成功情况比较。
+- [Open User](https://awesomecua.com/resources/github-tiacoo-open-user/)：黑盒用户体验审查测试框架，派遣 AI 浏览器用户角色测试网页产品并记录障碍点。
+- [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/)：提供可配置的浏览器应用和任务奖励，用于测试计算机使用智能体在内容、布局和外观变化下的表现。
+- [OS-Critic Bench](https://awesomecua.com/resources/url-c73ba0618d1b3c505887/)：跨平台 GUI 评判基准，包含移动端、桌面端和网页的 JSONL 数据划分及截图资源，并附公开的推理与准确率评分脚本。
+- [OS-Map](https://awesomecua.com/resources/github-os-copilot-os-map/)：源自 OSWorld 的桌面基准，提供 Ubuntu 虚拟机环境和扩展的任务配置，用于衡量计算机交互的广度与深度。
+- [OSReward](https://awesomecua.com/resources/github-os-copilot-osreward/)：OSReward 的评估器与采集代码，检验 VLM 评判器对人工标注的计算机使用轨迹所给 SUCCESS/FAIL 结论，并提供网页、Windows、Android 和 Ubuntu 轨迹采集流水线。
+- [OSUniverse](https://awesomecua.com/resources/github-agentsea-osuniverse/)：OSUniverse 是面向任务的桌面评测基准，用于评测视觉驱动的多模态 GUI 导航智能体在操作系统应用中的表现。
 - [OSWorld GPT-4o-mini Benchmark Evaluation](https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/)：在 OSWorld 桌面自动化任务上评测 GPT-4o-mini，对比仅截图、辅助功能树和 Set-of-Mark 三种观察模式。
 - [OSWorld-Human](https://awesomecua.com/resources/github-wuklab-osworld-human/)：提供人类参考轨迹和评分代码，用于衡量计算机使用智能体完成 OSWorld 任务时的操作效率。
 - [OSWorld-Science](https://awesomecua.com/resources/github-discoailab-osworld-science/)：在按领域划分的虚拟机中运行科学软件操作智能体，并通过任务专用的可执行评估器检查应用状态和交付成果的基准框架。
 - [pantheon-webarena](https://awesomecua.com/resources/github-pantheon-auto-pantheon-webarena/)：pantheon-webarena 将容器化 WebArena 环境与重置、健康检查和并行评测工具打包，供网页智能体使用。
 - [Pathproof](https://awesomecua.com/resources/github-mikulabc-pathproof/)：优先在本地运行的 AI 辅助网站回归问题发现套件，支持确定性的 Playwright 重放。
 - [Persona UX Test](https://awesomecua.com/resources/github-ericwong5021-persona-ux-test/)：使用仅通过渲染画面交互的隔离 AI 用户角色，对网页和桌面用户界面进行盲测。
-- [Plasmate Benchmarks](https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/)：Plasmate Benchmarks 为 Plasmate 语义浏览器引擎提供可复现的延迟、内存和 token 效率评测。
 - [pms-race](https://awesomecua.com/resources/github-lgoyal6-pms-race/)：面向操作传统物业管理网页 UI 的计算机使用智能体的并发评测基准，用于衡量竞态条件和重复预订。
 - [Pointerbench](https://awesomecua.com/resources/github-warmwindos-pointerbench/)：Pointerbench 评测计算机使用模型能否根据指令在截图中定位目标，三个子集涵盖电子表格、文本和专业应用界面。
 - [PoisonPage](https://awesomecua.com/resources/github-redbotster-poisonpage/)：对抗性测试平台，展示针对 AI 购物网页智能体的间接提示词注入和 API 密钥外泄。
@@ -19,7 +38,6 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 - [Preflight-Bench](https://awesomecua.com/resources/github-multimodal-ai-engineering-preflight-bench/)：Preflight-Bench 评测计算机使用智能体在异步 UI 更新情况下的点击前过时状态检查和页面加载同步能力。
 - [REFRACT-PPTX](https://awesomecua.com/resources/github-haikong-lu1206-refract-pptx/)：面向可编辑 PowerPoint 演示文稿的智能体引导生成与多维视觉评测基准。
 - [Resurf](https://awesomecua.com/resources/github-lightfeed-resurf/)：Resurf 是确定性、可复现的测试环境，用于在真实的网页故障模式下评测 AI 浏览器智能体。
-- [RiOSWorld](https://awesomecua.com/resources/github-yjyddq-riosworld/)：在 Ubuntu 虚拟机中衡量多模态计算机使用智能体的风险行为，包含钓鱼邮件等风险场景，并发布评估轨迹。
 - [RLG-ALE](https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/)：RLG-ALE 用可检查的 Android 任务评估移动端图形界面智能体。页面展示了包含任务提示、截图、评估记录和可重置环境的示例过程。
 - [SaaS-Bench](https://awesomecua.com/resources/github-unipat-ai-saas-bench/)：涵盖 6 个领域、23 个自行托管的 SaaS 应用中的 106 个浏览器操作业务流程；每项任务由读取应用数据库的验证器评分，并给予部分分数。
 - [SafeArena](https://awesomecua.com/resources/github-mcgill-nlp-safearena/)：SafeArena 是将良性与有害任务配对、用于研究蓄意滥用风险的网页智能体基准。
@@ -30,7 +48,6 @@ HTML 页面：https://awesomecua.com/zh/categories/benchmark/page/3/ · [English
 - [Simulation Labs](https://awesomecua.com/resources/github-satyamdave-simulation-labs/)：行为 CI 关卡，让计算机使用智能体在每次部署时测试注册、结账和新用户引导流程。
 - [SMAN-Bench](https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/)：SMAN-Bench（Mobile-Bench-v2）评估代码：AppAgent 和 Mobile-Agent-v2 运行器重放录制的 Android 页面，执行单路径、多路径、含噪和模糊任务，以步骤和任务成功率评分。
 - [solari-playtest](https://awesomecua.com/resources/github-moazessam376-dev-solari-playtest/)：Solari 上的自主游戏测试智能体和评测测试框架，从 Git 构建网页游戏，并在真实浏览器中测试玩法。
-- [Spider Browser Dataset](https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/)：Spider Browser Dataset 在 18 个类别的 999 个 URL 和 327 个域名上评测浏览器自动化和抗反机器人机制的能力。
 - [Spider2-V](https://awesomecua.com/resources/github-xlang-ai-spider2-v/)：在数据科学和工程工作流程中评估视觉智能体。
 - [SWE-bench Multimodal](https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/)：针对视觉 JavaScript 和 TypeScript 软件的问题解决基准；每项任务的问题描述或补丁包含截图、设计稿或渲染图，并用仓库单元测试检查修复结果。
 - [SWEeper-Bench](https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/)：SWEeper-Bench 评测交互式 GUI 和浏览器智能体能否自主发现并复现开源软件中的 200 个真实缺陷。

@@ -1,46 +1,46 @@
 # AwesomeCUA
 
-> 计算机使用、GUI、网页和移动端智能体研究资源目录：4,587 条已审核记录，其中论文与综述 1,718 条，其他资源 2,869 条。每条记录均核对一手来源。
+> 计算机使用、GUI、网页和移动端智能体研究资源目录：4,857 条已审核记录，其中论文与综述 1,718 条，其他资源 3,139 条。每条记录均核对一手来源。
 
-快照：2026-11-09T16:17:01Z。另有 885 条书目记录和 2,255 个已发现标识符待审核。
+快照：2026-11-09T20:03:14Z。另有 885 条书目记录和 468 个已发现标识符待审核。
 
 HTML 页面：https://awesomecua.com/zh/ · [English](https://awesomecua.com/index.md) · 智能体索引：https://awesomecua.com/llms.txt
 
 ## 最近审核的资源
 
-- [30 Years of Automated GUI Testing: A Bibliometric Analysis](https://awesomecua.com/resources/url-24a139a7910431441e39/) — 综述 · 审核于 2026-11-09：这项文献计量研究梳理 1990 至 2020 年的自动化 GUI 测试研究，分析发文增长、引文、合作关系及移动端测试趋势。
-- [AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents](https://awesomecua.com/resources/url-e86b3a1454b494224f07/) — 论文 · 审核于 2026-11-09：AgentBreaker 在 HTML 元素中生成针对页面情境的提示注入，用于测试网页智能体，并在 Online-Mind2Web 的 60 个网页上评估攻击与防御。
-- [An Efficient Training Pipeline for Reasoning Graphical User Interface Agents](https://awesomecua.com/resources/arxiv-2511-08172/) — 论文 · 审核于 2026-11-09：GUI 定位训练流程从 4.8M 条合成样本中筛出 12K 条训练数据，微调 3B 参数视觉语言模型，并在 ScreenSpot、Multimodal-Mind2Web 和 AndroidControl 上评估。
-- [AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation](https://awesomecua.com/resources/url-377f5418e39ff2da971f/) — 论文 · 审核于 2026-11-09：AssistEditor 协调 GUI 智能体，将视频需求和上传素材转化为分镜脚本及专业桌面软件中的剪辑操作。
-- [Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models](https://awesomecua.com/resources/arxiv-2505-17839/) — 论文 · 审核于 2026-11-09：GERALLT 利用大语言模型探索工程软件的 GUI，列出可能令人困惑或前后不一致的界面区域，供开发者检查。
-- [Automating GUI-based Software Testing with GPT-3](https://awesomecua.com/resources/url-412c168dd5d0aeded46a/) — 论文 · 审核于 2026-11-09：一种基于 GPT-3 的 GUI 测试方法解析自然语言测试用例，在提示中加入当前界面元素状态，并操作桌面和移动应用。
-- [Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2311-08649/) — 论文 · 审核于 2026-11-09：DroidAgent 利用语言模型和记忆机制，为 Android 应用设定并执行 GUI 测试目标；评估涵盖 Themis 基准中的 15 款应用。
-- [Do GUI Grounders Truly Understand UI Elements?](https://awesomecua.com/resources/url-16f4a8903de0f90d3638/) — 论文 · 审核于 2026-11-09：桌面 GUI 定位基准检验模型面对同一元素的不同描述能否保持定位一致；诊断智能体利用模型反馈生成更难的指令。
-- [FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning](https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/) — 论文 · 审核于 2026-11-09：FDC-Ground 用基于距离的奖励和候选结果筛选训练 GUI 元素定位模型，并在 ScreenSpot 和 ScreenSpot-v2 上评估 7B 模型。
-- [Focus Like a Human: Efficient GUI Grounding via Coarse-to-Fine Visual Attention and Parallel Verification](https://awesomecua.com/resources/url-85cad9e7962668786093/) — 论文 · 审核于 2026-11-09：FastFocus 先从低分辨率界面提出目标区域，再并行放大候选区域进行核验，并在 ScreenSpot-Pro 上评估 GUI 定位效果。
-- [From Robotic Process Automation to Intelligent Process Automation: Emerging Trends](https://awesomecua.com/resources/arxiv-2007-13257/) — 综述 · 审核于 2026-11-09：一篇机器人流程自动化与智能流程自动化综述梳理机器学习和 AI 在业务流程中的应用，并指出开放的研究挑战。
-- [Guardian: A Runtime Framework for LLM-Based UI Exploration](https://awesomecua.com/resources/url-7424d66754ec26d68d83/) — 论文 · 审核于 2026-11-09：Guardian 通过缩小可用 UI 操作范围，并在操作失效后重新规划，支持大语言模型驱动的移动应用测试；评估涵盖 23 款应用的 58 项任务。
-- [GUI Grounding for Computer-Use Agents: A Survey](https://awesomecua.com/resources/url-0579bd92efb87b26cb15/) — 综述 · 审核于 2026-11-09：一篇 GUI 定位综述按学习方式、推理策略和目标表示梳理方法，并评述数据集、基准、指标与推理成本。
-- [GUI testing for mobile applications: objectives, approaches and challenges](https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/) — 综述 · 审核于 2026-11-09：一项移动应用 GUI 测试的系统综述分析了 2010 至 2020 年发表的 75 项研究，梳理测试目标、方法、评价指标和研究挑战。
-- [GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver](https://awesomecua.com/resources/url-ffc05c4425f777924940/) — 论文 · 审核于 2026-11-09：一种网页 GUI 测试方法结合 GPT-4 与 Selenium WebDriver，并在网页计算器上与随机猴子测试比较分支覆盖率。
-- [INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent](https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/) — 论文 · 审核于 2026-11-09：InReAct 通过分阶段课程学习和基于任务结果的强化学习训练多模态 GUI 智能体，用于像素级定位和界面导航。
-- [LLM Agents: A Survey](https://awesomecua.com/resources/url-f58895265a31c37d12b4/) — 综述 · 审核于 2026-11-09：这篇综述按规划、记忆、工具使用、协作、评估和安全组织大语言模型智能体研究，涵盖计算机使用智能体及两百多项相关工作。
-- [Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing](https://awesomecua.com/resources/url-39f88102e1659647b1a0/) — 论文 · 审核于 2026-11-09：Orienter 利用应用上下文和迭代反思识别 3D XR 界面中的可交互元素，并在 Steam 应用图像上评估检测效果及其对自动化测试的帮助。
-- [Look Where You’re Told: Instruction-Consistent Attention for GUI Grounding](https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/) — 论文 · 审核于 2026-11-09：Attention Cycle-Consistency 通过语义与空间对齐约束训练 GUI 元素定位，并在推理时移除辅助组件。
-- [MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information](https://awesomecua.com/resources/url-3fdea133115518f9205a/) — 论文 · 审核于 2026-11-09：MemAgent 为对话式网页智能体加入任务信息缓存，将 150 项网页任务中的信息收集与执行分开。
+- [Patchright](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/) — 工具 · 审核于 2026-11-09：Patchright 是用于 Chromium 自动化的修改版 Playwright 驱动，通过 Playwright 风格的 API 进行浏览器交互，并提供独立的客户端软件包。
+- [Predicate Python SDK](https://awesomecua.com/resources/github-predicatesystems-predicate-runtime-python/) — 框架 · 审核于 2026-11-09：Predicate Python SDK 为浏览器智能体提供语义化页面快照、界面断言和运行轨迹，用于验证操作并检查失败原因。
+- [WebRetriever](https://awesomecua.com/resources/github-mininglamp-ai-webretriever/) — 评测基准 · 审核于 2026-11-09：WebRetriever 提供网页智能体评测运行器，并利用采集到的网络请求、操作和页面 URL 判断任务是否完成。
+- [UI-Mate](https://awesomecua.com/resources/github-tencent-ui-mate/) — 智能体 · 审核于 2026-11-09：UI-Mate 是桌面图形界面智能体，通过截图及键盘、鼠标操作完成跨应用任务。它也支持从录制的演示中学习工作流程。
+- [DSH Vision Toolkit](https://awesomecua.com/resources/github-anionex-dsh-vision-toolkit/) — 工具 · 审核于 2026-11-09：DSH Vision Toolkit 为 DeepSeek Harness 智能体添加截图读取、视觉定位、界面重建和像素比对工具。
+- [opencli-plugin-goofish](https://awesomecua.com/resources/github-vecyang1-opencli-plugin-goofish/) — 工具 · 审核于 2026-11-09：一款面向闲鱼的 OpenCLI 适配器，通过已登录的 Chrome 会话支持以命令执行购物、账户、商品列表和私信操作。
+- [qianhuiwu/GUI-Actor-7B-Qwen2.5-VL-LiteTrain](https://awesomecua.com/resources/url-fe85a6b4ffbdb303f382/) — 模型 · 审核于 2026-11-09：基于 Qwen2.5-VL-7B-Instruct、配有注意力动作头的图形界面定位模型权重。其示例根据截图和指令预测点击位置。
+- [THUDM/cogagent-chat-hf](https://awesomecua.com/resources/url-5726382dc813f040f829/) — 模型 · 审核于 2026-11-09：CogAgent 的对话模型权重，可解读图形界面截图并提出计划、下一步操作和坐标。模型卡描述了它在网页、桌面和移动界面中的用途。
+- [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/) — 工具 · 审核于 2026-11-09：一款浏览器智能体技能，使用本地 Chrome 会话探索任务，再生成可复用脚本，重复执行已成功的浏览器工作流程。
+- [WenyiWU0111/CoMEM-agent-memory-trajectories](https://awesomecua.com/resources/url-87e0195f2401d5f6f66f/) — 数据集 · 审核于 2026-11-09：用于图形界面智能体记忆研究的数据集，包含扩展的网页链接、合成任务，以及成功和失败的执行轨迹。
+- [Operit AI](https://awesomecua.com/resources/github-aaswordman-operit/) — 智能体 · 审核于 2026-11-09：这是一个 Android 智能体平台，利用视觉屏幕理解、设备控制和浏览器操作来操控应用界面与网页。
+- [Screen2AX-Element](https://awesomecua.com/resources/url-e96299566d12e790422e/) — 数据集 · 审核于 2026-11-09：该数据集包含 macOS 应用截图，以及界面元素的边界框和类别标签，用于训练和评估界面元素检测模型。
+- [ScreenVLM](https://awesomecua.com/resources/url-e3d85e557f8d53f8df64/) — 模型 · 审核于 2026-11-09：该模型将网页截图转换为结构化标记，其中包含界面元素的位置、类别标签和可见文本。
+- [Actell](https://awesomecua.com/resources/github-ja1chen-actell/) — 智能体 · 审核于 2026-11-09：这款 iPhone 智能体原型读取截图或无障碍内容，并通过 CoreDevice 发出点按和拖动操作，连接方式为 VPN 环回或可选的硬件中继。
+- [AutoGUI-v1-zip](https://awesomecua.com/resources/url-02370867dd4b96000a33/) — 数据集 · 审核于 2026-11-09：这是 AutoGUI 的训练数据仓库，包含带标注的图形界面数据集和选定的视觉数据集，并说明如何合并其 JSON 文件用于微调。
+- [Blender MCP](https://awesomecua.com/resources/github-bpy-dev-blender-mcp/) — 工具 · 审核于 2026-11-09：这个 MCP 服务器通过实时运行的插件或已保存的工程文件连接智能体与 Blender，提供场景操作、运行时 Python API 查询和基准测试工具。
+- [IOS13-SimulateTouch](https://awesomecua.com/resources/github-xuan32546-ios13-simulatetouch/) — 工具 · 审核于 2026-11-09：这个 iOS 触控库可在越狱设备上执行脚本或远程触控，录制触控事件供回放，并提供图像匹配和 OCR 功能。
+- [S1-Accurate-LoRA](https://awesomecua.com/resources/url-d34be9d27efef6c1b37a/) — 模型 · 审核于 2026-11-09：这个用于桌面智能体决策模型的 LoRA 适配器，在较快模型无法确定下一步时，根据窗口截图从候选操作中选择动作和目标元素。
+- [Spice](https://awesomecua.com/resources/github-shells-com-spice/) — 工具 · 审核于 2026-11-09：这个 Go 语言 SPICE 客户端库接收远程桌面画面更新并发送鼠标和键盘事件，还提供连接、画面渲染和剪贴板处理接口。
+- [Vision_GUI_Assistant](https://awesomecua.com/resources/url-b9a56cf9e9346a359c0b/) — 数据集 · 审核于 2026-11-09：这个图形界面图像对话数据集提供指令和对话 JSON 文件，用于分阶段视觉微调；示例要求模型识别界面按钮。
 
 ## 按资源类型浏览
 
-- [模型](https://awesomecua.com/zh/categories/model/index.md)：283 条已审核记录
-- [数据集](https://awesomecua.com/zh/categories/dataset/index.md)：195 条已审核记录
-- [评测基准](https://awesomecua.com/zh/categories/benchmark/index.md)：264 条已审核记录
-- [智能体](https://awesomecua.com/zh/categories/agent/index.md)：413 条已审核记录
-- [框架](https://awesomecua.com/zh/categories/framework/index.md)：625 条已审核记录
-- [基础设施](https://awesomecua.com/zh/categories/infrastructure/index.md)：90 条已审核记录
-- [工具](https://awesomecua.com/zh/categories/tool/index.md)：884 条已审核记录
-- [产品](https://awesomecua.com/zh/categories/product/index.md)：70 条已审核记录
+- [模型](https://awesomecua.com/zh/categories/model/index.md)：351 条已审核记录
+- [数据集](https://awesomecua.com/zh/categories/dataset/index.md)：225 条已审核记录
+- [评测基准](https://awesomecua.com/zh/categories/benchmark/index.md)：281 条已审核记录
+- [智能体](https://awesomecua.com/zh/categories/agent/index.md)：444 条已审核记录
+- [框架](https://awesomecua.com/zh/categories/framework/index.md)：638 条已审核记录
+- [基础设施](https://awesomecua.com/zh/categories/infrastructure/index.md)：101 条已审核记录
+- [工具](https://awesomecua.com/zh/categories/tool/index.md)：976 条已审核记录
+- [产品](https://awesomecua.com/zh/categories/product/index.md)：72 条已审核记录
 - [发布方](https://awesomecua.com/zh/categories/company/index.md)：19 条已审核记录
-- [学习资源](https://awesomecua.com/zh/categories/learning/index.md)：26 条已审核记录
+- [学习资源](https://awesomecua.com/zh/categories/learning/index.md)：32 条已审核记录
 - [综述](https://awesomecua.com/zh/categories/survey/index.md)：37 条已审核记录
 - [论文](https://awesomecua.com/zh/papers/index.md)：1,681 条已审核记录
 

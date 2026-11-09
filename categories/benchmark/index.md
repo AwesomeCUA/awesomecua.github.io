@@ -1,6 +1,6 @@
 # Computer-use agent benchmarks
 
-> 264 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T16:17:01Z.
+> 281 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -471,6 +471,35 @@ Counted unique identifiers in the inspected manifest. Normal and hard modes diff
 
 ---
 
+## Browser Use Benchmark (BU Bench)
+
+Browser Use Benchmark (BU Bench V2.1) evaluates browser agents across 200 real-world web navigation and interaction tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-benchmark/
+- Original source: https://github.com/browser-use/benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-11-04T14:41:44Z
+- ID: github:browser-use/benchmark
+
+- Record JSON: https://awesomecua.com/resources/github-browser-use-benchmark/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browser-use/benchmark/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 849a8da2e5e5c972ae5ab6f46620c740b3c2440add259650fa08cb4dfd9917aa)
+
+---
+
 ## MobileWorld (Tongyi-MAI)
 
 A containerized Android evaluation environment with GUI-only, agent-user interaction and MCP-augmented tasks, plus checks on application and backend state.
@@ -525,32 +554,49 @@ Publisher-reported inventory. GUI-only, agent-user and MCP-augmented configurati
 
 ---
 
-## Browser Use Benchmark (BU Bench)
+## WebVoyager
 
-Browser Use Benchmark (BU Bench V2.1) evaluates browser agents across 200 real-world web navigation and interaction tasks.
+Multimodal web navigation agent and evaluation tasks on real websites.
 
-- Catalog URL: https://awesomecua.com/resources/github-browser-use-benchmark/
-- Original source: https://github.com/browser-use/benchmark
+- Catalog URL: https://awesomecua.com/resources/github-minorjerry-webvoyager/
+- Original source: https://github.com/MinorJerry/WebVoyager
 - Kind: benchmark
 - Review: curated
 - Scope: core
 - Environments: web
 - Topics: evaluation, web-navigation
-- Evidence checked: 2026-11-04T14:41:44Z
-- ID: github:browser-use/benchmark
+- Evidence checked: 2026-10-16T06:35:57Z
+- ID: github:minorjerry/webvoyager
 
-- Record JSON: https://awesomecua.com/resources/github-browser-use-benchmark/record.json
+- Record JSON: https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
+
+### Structured profile
+
+- Actions / outputs: Selenium-backed browser interactions
+- Evaluation: The repository supplies an automated multimodal-model evaluation protocol.
+- Focus: live-web task completion
+- Observations: webpage screenshots, textual task instructions
+- Setting: interactive
+
+#### Count observations
+
+- 643 task queries — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
+- 15 websites — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
+- 90 tasks — separate GAIA validation-derived web subset (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
+
+The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
 
 ### License declarations
 
-- code: not recorded
+- code: Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE
 - data: not recorded
 - document: not recorded
 - weights: not recorded
 
 ### Primary evidence
 
-- https://raw.githubusercontent.com/browser-use/benchmark/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 849a8da2e5e5c972ae5ab6f46620c740b3c2440add259650fa08cb4dfd9917aa)
+- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5)
+- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
 
 ---
 
@@ -606,6 +652,36 @@ Subset of GroundUI-18K sampled for efficient benchmarking; this count covers the
 - https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/README.md (retrieved 2026-10-18T16:07:58Z; SHA-256 1f2b513c700b31a1bacd023a54c6d4cadac9e02092e526d42c32103cb476c359)
 - https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/eval_gui_grounding.py (retrieved 2026-10-18T16:07:58Z; SHA-256 d503891371a62b6d8532667aea53f40c8691a2c3daaab5ea5a33ebce80eb83c8)
 - https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md (retrieved 2026-10-18T16:08:23Z; SHA-256 d1072a12c9cbcb48e73434620b62e39a8857bdb1d598fc2f64396b8523ec6e4c)
+
+---
+
+## LMMs-Eval
+
+LMMs-Eval is a standardized evaluation harness for large multimodal models covering GUI grounding, VQA, document, and video benchmarks.
+
+- Catalog URL: https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/
+- Original source: https://github.com/EvolvingLMMs-Lab/lmms-eval
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web, desktop, android
+- Topics: evaluation, screen-understanding, grounding
+- Evidence checked: 2026-11-04T13:12:14Z
+- ID: github:evolvinglmms-lab/lmms-eval
+
+- Record JSON: https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/README.md (retrieved 2026-11-04T13:12:14Z; SHA-256 f14d00e5d467b739b9bbbbf03eacf78dbbd6f28ec65f74ee52939556e6f02e23)
+- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE (retrieved 2026-11-04T13:41:32Z; SHA-256 17358b5caadacb8108f14a6a319779cc8a20feed699f79c59e396e7e9dd5c33b)
 
 ---
 
@@ -751,82 +827,6 @@ The card reports more than 100 websites. Grounding accuracy and task completion 
 
 ---
 
-## WebVoyager
-
-Multimodal web navigation agent and evaluation tasks on real websites.
-
-- Catalog URL: https://awesomecua.com/resources/github-minorjerry-webvoyager/
-- Original source: https://github.com/MinorJerry/WebVoyager
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation
-- Evidence checked: 2026-10-16T06:35:57Z
-- ID: github:minorjerry/webvoyager
-
-- Record JSON: https://awesomecua.com/resources/github-minorjerry-webvoyager/record.json
-
-### Structured profile
-
-- Actions / outputs: Selenium-backed browser interactions
-- Evaluation: The repository supplies an automated multimodal-model evaluation protocol.
-- Focus: live-web task completion
-- Observations: webpage screenshots, textual task instructions
-- Setting: interactive
-
-#### Count observations
-
-- 643 task queries — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
-- 15 websites — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
-- 90 tasks — separate GAIA validation-derived web subset (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
-
-The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5)
-- https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1)
-
----
-
-## LMMs-Eval
-
-LMMs-Eval is a standardized evaluation harness for large multimodal models covering GUI grounding, VQA, document, and video benchmarks.
-
-- Catalog URL: https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/
-- Original source: https://github.com/EvolvingLMMs-Lab/lmms-eval
-- Kind: benchmark
-- Review: curated
-- Scope: adjacent
-- Environments: cross-platform, web, desktop, android
-- Topics: evaluation, screen-understanding, grounding
-- Evidence checked: 2026-11-04T13:12:14Z
-- ID: github:evolvinglmms-lab/lmms-eval
-
-- Record JSON: https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/README.md (retrieved 2026-11-04T13:12:14Z; SHA-256 f14d00e5d467b739b9bbbbf03eacf78dbbd6f28ec65f74ee52939556e6f02e23)
-- https://raw.githubusercontent.com/EvolvingLMMs-Lab/lmms-eval/HEAD/LICENSE (retrieved 2026-11-04T13:41:32Z; SHA-256 17358b5caadacb8108f14a6a319779cc8a20feed699f79c59e396e7e9dd5c33b)
-
----
-
 ## Online Mind2Web
 
 300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
@@ -869,6 +869,36 @@ Tasks are actively replaced when websites or requirements become invalid. Record
 
 - https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa)
 - https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 93675f9d13697ae98889d703b8fae86a7200623e7ae8d844c9ee2200ad480583)
+
+---
+
+## openadapt-evals
+
+openadapt-evals scores GUI agents and compiled workflows on benchmarks such as Windows Agent Arena using reproducible evaluators.
+
+- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-evals/
+- Original source: https://github.com/OpenAdaptAI/openadapt-evals
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, web
+- Topics: evaluation, workflow, sandbox
+- Evidence checked: 2026-11-04T14:41:44Z
+- ID: github:openadaptai/openadapt-evals
+
+- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-evals/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 f7c6b6da8b6fe579d9e4e576829c6daf4bd9611a5f134cf478fe85a0e2862156)
+- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE (retrieved 2026-11-04T14:45:03Z; SHA-256 59aeac47ca72de18ba99dd38f0b2f9596b822f85e9cf816684369fadb6664e06)
 
 ---
 
@@ -920,36 +950,6 @@ The README gives a lower bound for the active-environment inventory. Action pres
 - https://miniwob.farama.org/content/observation_space/ (retrieved 2026-10-17T02:03:23Z; SHA-256 511039e0e3c26b117e7e0a001746c26ec6d94a8ab8c467f0be0bc1a0b01e870a)
 - https://miniwob.farama.org/content/action_space/ (retrieved 2026-10-17T02:03:23Z; SHA-256 ae7bf6a3b98b198b985d7ca7b41cb2bdab3cf48e6445467ad9a8d4a2c8df240f)
 - https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/LICENSE (retrieved 2026-10-16T06:42:07Z; SHA-256 fd6529fb8f648d4130fd969e3d7fc740c9992a0bd94a1998f52555a873311511)
-
----
-
-## openadapt-evals
-
-openadapt-evals scores GUI agents and compiled workflows on benchmarks such as Windows Agent Arena using reproducible evaluators.
-
-- Catalog URL: https://awesomecua.com/resources/github-openadaptai-openadapt-evals/
-- Original source: https://github.com/OpenAdaptAI/openadapt-evals
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: desktop, windows, web
-- Topics: evaluation, workflow, sandbox
-- Evidence checked: 2026-11-04T14:41:44Z
-- ID: github:openadaptai/openadapt-evals
-
-- Record JSON: https://awesomecua.com/resources/github-openadaptai-openadapt-evals/record.json
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/README.md (retrieved 2026-11-04T14:41:44Z; SHA-256 f7c6b6da8b6fe579d9e4e576829c6daf4bd9611a5f134cf478fe85a0e2862156)
-- https://raw.githubusercontent.com/OpenAdaptAI/openadapt-evals/HEAD/LICENSE (retrieved 2026-11-04T14:45:03Z; SHA-256 59aeac47ca72de18ba99dd38f0b2f9596b822f85e9cf816684369fadb6664e06)
 
 ---
 
@@ -1047,6 +1047,50 @@ Offline, zero-shot evaluation across mobile, desktop, and web. The card explicit
 - https://huggingface.co/api/datasets/rootsautomation/ScreenSpot (retrieved 2026-10-16T06:38:26Z; SHA-256 9e2d2a2c076032225911ae1032b548eafa6331ea81a2779632610f0f1c82dfd9)
 - https://huggingface.co/api/datasets/bevaya/ScreenSpot (retrieved 2026-10-17T19:14:56Z; SHA-256 af0c4babeff84158ff196b54bf47242923bbf502d2805a1dd4eb52dba44be89c)
 - https://huggingface.co/api/datasets/rootsautomation/ScreenSpot (retrieved 2026-10-17T19:14:56Z; SHA-256 af0c4babeff84158ff196b54bf47242923bbf502d2805a1dd4eb52dba44be89c)
+
+---
+
+## TheAgentCompany
+
+Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.
+
+- Catalog URL: https://awesomecua.com/resources/github-theagentcompany-theagentcompany/
+- Original source: https://github.com/TheAgentCompany/TheAgentCompany
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, workflow, cross-app
+- Evidence checked: 2026-10-16T10:42:34Z
+- ID: github:theagentcompany/theagentcompany
+
+- Record JSON: https://awesomecua.com/resources/github-theagentcompany-theagentcompany/record.json
+
+### Structured profile
+
+- Actions / outputs: web browsing, code execution, coworker communication
+- Evaluation: Task-specific evaluator scripts run within the prepared workplace environment.
+- Focus: professional workflows, multi-tool tasks
+- Observations: not recorded
+- Setting: interactive
+
+#### Count observations
+
+- 175 task images — workspace images documented by the README (reported; source: https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md)
+
+Each task is packaged as a Docker image. Record task-image and server versions; the environment includes simulated coworkers and external application state.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 d1646f67d49d38ef1e81bf7b5057dfc3d6f172b4c8a7413a2cc78741ccb08723)
+- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 2d6976a9b482bb14d9cd4f0d97ce6e14305496f1649b8667cb91d027c670930f)
 
 ---
 
@@ -1519,6 +1563,40 @@ The split-ID inventory counts task IDs. Extra runtime/data dependencies and thir
 
 ---
 
+## OSWorkerBench
+
+A desktop GUI-agent benchmark with 100 office tasks spanning 17 business tracks and 41 applications. It releases task and demonstration tables for evaluation with the UI-Mate harness.
+
+- Catalog URL: https://awesomecua.com/resources/url-c8c3d4ef20e68086a812/
+- Original source: https://huggingface.co/datasets/tencent/OSWorkerBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, long-horizon, workflow, data-generation
+- Evidence checked: 2026-11-09T19:57:27Z
+- ID: url:c8c3d4ef20e68086a812
+
+### Limitations
+
+The card names task and demonstration test splits. Executing evaluations requires the UI-Mate harness, an Ubuntu Docker VM, mock applications, and a compatible model endpoint. The card declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-c8c3d4ef20e68086a812/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/tencent/OSWorkerBench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/tencent/OSWorkerBench (retrieved 2026-11-09T19:57:27Z; SHA-256 4daa1b9bca5134e229d27cac4e9a1dbed09c3a286b83a51e746a92066bdd1a06)
+- https://huggingface.co/api/datasets/tencent/OSWorkerBench (retrieved 2026-11-09T19:57:27Z; SHA-256 4daa1b9bca5134e229d27cac4e9a1dbed09c3a286b83a51e746a92066bdd1a06)
+
+---
+
 ## OSWorld-MCP
 
 OSWorld-MCP benchmarks computer-use agents on hybrid GUI interaction and Model Context Protocol (MCP) tool invocation within OSWorld.
@@ -1593,50 +1671,6 @@ Reuses ScreenSpot-v2 imagery. Image-file counts, independent screenshots and tas
 
 - https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md (retrieved 2026-10-17T04:07:19Z; SHA-256 7fb2bc9499d8a2b37b663c116af49d11bba493e6767d76a5305fad93257bebf2)
 - https://huggingface.co/api/datasets/likaixin/ScreenSpot-v2-variants (retrieved 2026-10-17T04:07:19Z; SHA-256 dea98efa75e063eee2d6bfb5d46da94b41df3d779e2fb0bdaea7866534b5c469)
-
----
-
-## TheAgentCompany
-
-Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.
-
-- Catalog URL: https://awesomecua.com/resources/github-theagentcompany-theagentcompany/
-- Original source: https://github.com/TheAgentCompany/TheAgentCompany
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web, desktop
-- Topics: evaluation, workflow, cross-app
-- Evidence checked: 2026-10-16T10:42:34Z
-- ID: github:theagentcompany/theagentcompany
-
-- Record JSON: https://awesomecua.com/resources/github-theagentcompany-theagentcompany/record.json
-
-### Structured profile
-
-- Actions / outputs: web browsing, code execution, coworker communication
-- Evaluation: Task-specific evaluator scripts run within the prepared workplace environment.
-- Focus: professional workflows, multi-tool tasks
-- Observations: not recorded
-- Setting: interactive
-
-#### Count observations
-
-- 175 task images — workspace images documented by the README (reported; source: https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md)
-
-Each task is packaged as a Docker image. Record task-image and server versions; the environment includes simulated coworkers and external application state.
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 d1646f67d49d38ef1e81bf7b5057dfc3d6f172b4c8a7413a2cc78741ccb08723)
-- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 2d6976a9b482bb14d9cd4f0d97ce6e14305496f1649b8667cb91d027c670930f)
 
 ---
 
@@ -1887,6 +1921,40 @@ Agent-CE is a containerized continuous evaluation platform for benchmarking web 
 
 ---
 
+## Agent-friendly UI
+
+An evaluation and revision pipeline tests generated websites with computer-use agents, checks task completion against rules, and summarizes navigation failures.
+
+- Catalog URL: https://awesomecua.com/resources/github-showlab-aui/
+- Original source: https://github.com/showlab/AUI
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, ui-design, web-navigation, observability
+- Evidence checked: 2026-11-09T19:56:09Z
+- ID: github:showlab/aui
+
+### Limitations
+
+The repository lists stage scripts, model configuration, task rules, trajectories, and a dashboard. Its README names Playwright browser installation and model endpoints as setup requirements.
+
+- Record JSON: https://awesomecua.com/resources/github-showlab-aui/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/showlab/AUI/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/showlab/AUI/HEAD/README.md (retrieved 2026-11-09T19:56:09Z; SHA-256 79c5ad5931f5c43bef41b45fd6c4786e8d9907c98496954787cf202d0ddb5e7e)
+- https://raw.githubusercontent.com/showlab/AUI/HEAD/LICENSE (retrieved 2026-11-09T14:20:37Z; SHA-256 01b63589548387162a37d1cbfad7e66ea40ecfd22c68f9b0f0d288025ff2542f)
+
+---
+
 ## AgentBench
 
 Agent evaluation suite with containerized tasks and a function-calling interface, including operating-system and shopping environments.
@@ -1914,6 +1982,133 @@ Agent evaluation suite with containerized tasks and a function-calling interface
 
 - https://raw.githubusercontent.com/THUDM/AgentBench/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 1b7d1f1cd7a74ac9497c639324ec342dd3f8769e9c0c4cd2cd92a4eb6740ac98)
 - https://raw.githubusercontent.com/THUDM/AgentBench/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## AgentBoard
+
+AgentBoard evaluates multiturn agents across several tasks, including web interactions, and provides progress metrics and visualizations for analyzing their runs.
+
+- Catalog URL: https://awesomecua.com/resources/github-hkust-nlp-agentboard/
+- Original source: https://github.com/hkust-nlp/AgentBoard
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, observability, web-navigation
+- Evidence checked: 2026-11-09T19:56:59Z
+- ID: github:hkust-nlp/agentboard
+
+### Limitations
+
+The repository contains evaluation scripts and configurations. Its setup describes separate data downloads, environment setup and optional Weights & Biases visualization.
+
+- Record JSON: https://awesomecua.com/resources/github-hkust-nlp-agentboard/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hkust-nlp/AgentBoard/HEAD/README.md (retrieved 2026-11-09T19:56:59Z; SHA-256 82e6f19d462feb4b021c7facd8aee38aecf5cfb1b8d16e09d3092e9ea08eabed)
+
+---
+
+## AgentCIBench
+
+AgentCIBench evaluates whether computer-use agents expose information across personal apps. It includes scored scenarios, benchmark runners, and a web environment for visual runs.
+
+- Catalog URL: https://awesomecua.com/resources/github-ukplab-arxiv2026-agentcibench/
+- Original source: https://github.com/ukplab/arxiv2026-agentcibench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, cross-app
+- Evidence checked: 2026-11-09T19:55:59Z
+- ID: github:ukplab/arxiv2026-agentcibench
+
+### Limitations
+
+The repository lists local scenario data, reasoning and visual evaluation runners, a multi-app web environment, and optional Docker support. It states that the code uses Apache License 2.0 and the data uses CC BY 4.0.
+
+- Record JSON: https://awesomecua.com/resources/github-ukplab-arxiv2026-agentcibench/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/ukplab/arxiv2026-agentcibench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ukplab/arxiv2026-agentcibench/HEAD/README.md (retrieved 2026-11-09T19:55:59Z; SHA-256 f836c578d6fea20f7b38092071a9646d2db19b422fe6117d57e6de57ab5e1324)
+- https://raw.githubusercontent.com/ukplab/arxiv2026-agentcibench/HEAD/LICENSE (retrieved 2026-11-09T14:20:34Z; SHA-256 3c6de8f9409b07e7c0bf84465159bbf98d035c3a32b0c9974b007da85124989b)
+
+---
+
+## AgentCIBench
+
+Contextual-integrity benchmark for computer-use agents: 117 synthetic multi-app workspace scenarios that pair under-specified requests with must-share and must-not-share lists, plus a 50-scenario live-UI subset.
+
+- Catalog URL: https://awesomecua.com/resources/url-d7f35409d35584385097/
+- Original source: https://huggingface.co/datasets/UKPLab/agentcibench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, cross-app
+- Evidence checked: 2026-10-19T06:04:29Z
+- ID: url:d7f35409d35584385097
+
+### Limitations
+
+Each scenario is a JSON snapshot of app states in the OpenApps workspace (messenger, todo, calendar, code editor, maps and shopping apps) with a task prompt and a disclosure policy. The card's test split serves the state-grounded reasoning track; test_e2e is a 50-scenario subset of it (all IDs overlap) for runs in the rendered UI, which the code README describes as a local multi-app web environment driven through Playwright; seeds holds 36 disjoint hand-written scenarios. The card says source is seed or mcts, but every released row reads seed or legacy_pilot_seed. The code repository linked as ukplab/arxiv2026-agentcibench now resolves to UKPLab/emnlp2026-agentcibench (GitHub API), and the card's second code link, agentcibench/agentcibench, returns 404. The 67.9% average leakage over 15 agents is a publisher figure. CC BY 4.0 is the card's data declaration; the code is a separate Apache-2.0 release.
+
+- Record JSON: https://awesomecua.com/resources/url-d7f35409d35584385097/record.json
+
+### Structured profile
+
+- Actions / outputs: GUI actions in the rendered workspace (live-UI subset), content shared or sent through the workspace apps
+- Evaluation: The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
+- Focus: contextual-integrity compliance of computer-use agents, information disclosure across personal apps
+- Observations: decoded app states, rendered app UI (live-UI subset), natural-language task prompts
+- Setting: mixed
+
+#### Count observations
+
+- 117 scenarios — test split (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 50 scenarios — test_e2e split (subset of test used for live-UI evaluation) (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 36 scenarios — seeds split (hand-written seed scenarios) (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 75 scenarios — test split, failure mode task_ambiguity_overshare (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 24 scenarios — test split, failure mode recipient_misalignment (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 18 scenarios — test split, failure mode visual_co_location (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+
+Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test; seeds share separate IDs.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md (retrieved 2026-10-19T06:04:29Z; SHA-256 3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde)
+- https://huggingface.co/api/datasets/UKPLab/agentcibench/revision/f5523cb986828ee77bc505120a933f114bbcf4f3 (retrieved 2026-10-19T06:04:29Z; SHA-256 2ae68d96a7bff7a2eb78f323c3e87b09768812c06f2a2e0aadbaee2d627f5f7d)
+- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test-00000-of-00001.jsonl (retrieved 2026-10-19T06:04:29Z; SHA-256 709d43e4e09d2f3558d9290b8bdf4c15e95e4fefc29a56be6d12b52e646c99d7)
+- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test_e2e-00000-of-00001.jsonl (retrieved 2026-10-19T06:04:30Z; SHA-256 9aced6b0d1e1368c28b3b110ba85e79a935b501a03a3c1b48fb97996dd4c05b2)
+- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/seeds-00000-of-00001.jsonl (retrieved 2026-10-19T06:04:30Z; SHA-256 1b1a458c15ac64d63b7f6c20fab23740115a2b09d151ceeeb6f2c353c97f5418)
+- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/README.md (retrieved 2026-10-19T06:04:30Z; SHA-256 f836c578d6fea20f7b38092071a9646d2db19b422fe6117d57e6de57ab5e1324)
+- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/mcts/reward_judge.py (retrieved 2026-10-19T06:04:30Z; SHA-256 9527a682f91c5d7455853f392096ad47f117e35a14fda01b03969a4ef9c3bdc5)
+- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/eval/metrics.py (retrieved 2026-10-19T06:04:30Z; SHA-256 c51a95f1e0df49d627e986e6be845e3917260f4d1e82991bd88fecb6724dda24)
+- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md (retrieved 2026-10-19T06:04:29Z; SHA-256 3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde)
 
 ---
 
@@ -2115,6 +2310,40 @@ The README links to a Hugging Face dataset and leaderboard. It says SeePlanAct c
 
 ---
 
+## BlenderWorld
+
+A benchmark for agents creating editable Blender projects from text and visual references. It supplies 223 tasks, submission packaging, and an evaluator for scene and visual criteria.
+
+- Catalog URL: https://awesomecua.com/resources/github-qwenlm-blenderworld/
+- Original source: https://github.com/QwenLM/BlenderWorld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, science, tool-integration
+- Evidence checked: 2026-11-09T19:57:37Z
+- ID: github:qwenlm/blenderworld
+
+### Limitations
+
+The repository includes a Python package and documentation for dataset, submission, and evaluation formats. The README specifies Linux for its quickstart and Blender 4.2.10 for project generation.
+
+- Record JSON: https://awesomecua.com/resources/github-qwenlm-blenderworld/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/QwenLM/BlenderWorld/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/QwenLM/BlenderWorld/HEAD/README.md (retrieved 2026-11-09T19:57:37Z; SHA-256 ba788d794d44e1d5c808e62b44477619099cf1d6b8e19531d1d8f24c6677882b)
+- https://raw.githubusercontent.com/QwenLM/BlenderWorld/HEAD/LICENSE (retrieved 2026-11-09T14:21:07Z; SHA-256 9aa96ce7e5177f4940bd61ec88cadd31fa13ba72c5c4923da5a16b6d87548e27)
+
+---
+
 ## ClawBench
 
 Everyday-task benchmark on live websites that runs browser agents in containerized Chromium, blocks each final submission request for scoring by URL match and an LLM judge, and records five layers of run evidence.
@@ -2279,6 +2508,58 @@ The dataset-family count measures dataset families. Code and data licenses are u
 
 ---
 
+## GUI-Perturbed
+
+Step-level web grounding benchmark that re-renders Mind2Web pages with style, zoom and text-size perturbations and pairs each screenshot with a direct or relational instruction and a target box.
+
+- Catalog URL: https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/
+- Original source: https://huggingface.co/datasets/figai/GUI-Perturbed
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: grounding, evaluation, robustness
+- Evidence checked: 2026-10-18T15:59:36Z
+- ID: url:7ed70b39ac79f97f8a87
+
+### Limitations
+
+The card YAML at revision 727c857b lists one eval split of 3,120 examples in four Parquet shards, with screenshot, instruction, gt_bbox, visual_variant, instruction_type, task_id and step_index fields. Hugging Face dataset-viewer statistics show 780 rows for each of four visual variants (labelled original, style, precision and text_shrink; the card calls the first one baseline) and 1,560 rows for each of the direct and relational instruction types, so the card's per-variant sample size of 390 covers one instruction type. The card designates the set for evaluation and asks that it be reserved from training; the pages come from Mind2Web MHTML archives. eval.yaml names point-in-bbox accuracy. The card declares CC BY 4.0 for the dataset.
+
+- Record JSON: https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/record.json
+
+### Structured profile
+
+- Actions / outputs: predicted target location
+- Evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
+- Focus: step-level web GUI element localization, robustness to visual and instruction perturbations
+- Observations: rendered web-page screenshots, natural-language instructions
+- Setting: offline
+
+#### Count observations
+
+- 3,120 examples — eval split at revision 727c857b (reported; source: https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md)
+- 283 distinct Mind2Web task IDs — eval split (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval)
+
+Each example is one screenshot, instruction and target box; four visual variants are crossed with two instruction types. Examples, source tasks and visual variants are different units.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md (retrieved 2026-10-18T15:59:36Z; SHA-256 6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e)
+- https://huggingface.co/api/datasets/figai/GUI-Perturbed/revision/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7 (retrieved 2026-10-18T15:59:07Z; SHA-256 55c9358d6269d88f6f2eebc5f74c463096bd417434092bbcfef3b9774b179c23)
+- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml (retrieved 2026-10-18T15:59:07Z; SHA-256 119930290bb21bcceb3f3a2b22d4f738ce5d0eb4531652cb7e7ad0dde348e30a)
+- https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval (retrieved 2026-10-18T15:59:07Z; SHA-256 5a23805cf7a6122abf01288f46139bb3c7890306678ec0280e9e6d488adb5908)
+- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md (retrieved 2026-10-18T15:59:36Z; SHA-256 6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e)
+
+---
+
 ## GUIGuard-Bench public-ladder release
 
 Public-ladder release of GUIGuard-Bench: 121 Android and Linux desktop agent trajectories whose 2,002 screenshots carry region-level privacy labels, for privacy recognition, protected-screen planning and click grounding.
@@ -2333,6 +2614,103 @@ Trajectories, screenshots and annotations are different units and are counted se
 - https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920 (retrieved 2026-10-18T15:37:19Z; SHA-256 788d251b561c0dfda4b5c6e643c2af0cc683ef8978759e6fa392db2e9548096b)
 - https://raw.githubusercontent.com/Futuresis/GUIGuard-page/df9c709058d7e39d1f9286edd33c9f645aa60b55/index.html (retrieved 2026-10-18T15:37:19Z; SHA-256 14fe15c990481087ad504f631dc94d777736373f56344a0746cd77320c3db3b5)
 - https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md (retrieved 2026-10-18T15:37:19Z; SHA-256 81a85cdefb48b37f9869eaa61832d9d97f288cbd443be74e07d779f7948ae229)
+
+---
+
+## Gym-Anything
+
+Runtime and CUA-World task suite that turn real applications on Ubuntu, Windows 11, Android and macOS into screen-observing, mouse-and-keyboard agent environments with setup scripts and program verifiers.
+
+- Catalog URL: https://awesomecua.com/resources/github-cmu-l3-gym-anything/
+- Original source: https://github.com/cmu-l3/gym-anything
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, windows, macos, android
+- Topics: evaluation, sandbox, long-horizon
+- Evidence checked: 2026-10-19T06:44:15Z
+- ID: github:cmu-l3/gym-anything
+
+### Limitations
+
+Official code of the Gym-Anything paper. The README describes three parts that can be used separately: the core runtime (src/gym_anything), the CUA-World benchmark (benchmarks/cua_world) and reference agents for Claude, Gemini, Qwen, Kimi and other models. The inspected environment configs (Moodle, Power BI Desktop, an Android AVD calculator and macOS Finder) declare screen observations with mouse and keyboard actions on Ubuntu GNOME, Windows 11, Android AVD 34 and macOS bases; the Finder config also exposes a UI tree, and macOS environments sit in a separate benchmarks/cua_world-macos suite. A task such as moodle_env/enroll_student pairs setup and export hooks with a verifier.py program check and a VLM checklist file. extras/research/software_as_env/creation_audit implements the paper's environment creation-and-audit pipeline, driven by Claude Code by default or Codex CLI. Runners (Docker, Apptainer, QEMU, AVD, AVF, Modal, local and Sandweave) differ in caching, snapshot and recording support. Code was read.
+
+- Record JSON: https://awesomecua.com/resources/github-cmu-l3-gym-anything/record.json
+
+### Structured profile
+
+- Actions / outputs: mouse, keyboard
+- Evaluation: Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
+- Focus: long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
+- Observations: screen frames, UI tree (some macOS environments)
+- Setting: interactive
+
+#### Count observations
+
+- 200 software applications — applications processed into CUA-World (paper v1 abstract) (reported; source: https://arxiv.org/abs/2604.06126v1)
+- > 10,000 long-horizon tasks — CUA-World (paper v1 abstract) (reported; source: https://arxiv.org/abs/2604.06126v1)
+- 7,150 tasks — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967 (computed) (computed; source: https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json)
+- 191 environments — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967 (computed) (computed; source: https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json)
+
+The paper's application and task totals and the repository's verified manifest are different populations; these counts are reported separately. Per-environment split files list train and test tasks, and several cover variant folders of one application; these counts are reported separately.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/README.md (retrieved 2026-10-19T06:44:15Z; SHA-256 11821d717f09b17762937661eed9a2bcb80606ca765de1381f9047fe8c58cf9a)
+- https://api.github.com/repos/cmu-l3/gym-anything/git/trees/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca (retrieved 2026-10-19T06:44:16Z; SHA-256 fb2aa984e243b90058d62435ade2aa2ad9e5a3729df6f293e1c9a536f9749f45)
+- https://api.github.com/repos/cmu-l3/gym-anything/git/commits/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca (retrieved 2026-10-19T06:44:17Z; SHA-256 cd7d25da944d9deaf995e320d2c0b4752c194557b4fc53da8473c3afee4ec511)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json (retrieved 2026-10-19T06:44:17Z; SHA-256 727c6beaff1de5f36bea959037e7346453fb5d40b4817529fa31566acc7fbb04)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 ab0398ca5df1d7e8b41357f2a1966c3576f8d2bdd4c6c81db3249a51826a5d9b)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/tasks/enroll_student/task.json (retrieved 2026-10-19T06:44:17Z; SHA-256 0d6b81e193cc3a15269c1eb580b91f88c72e607173b21427f7f3ee13b67b9047)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/power_bi_desktop_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 f32ac8bb3b99e4ea9550994ac18700066138a2aaa3f835c3e30cce38ca2e6c1b)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/android_avd_calculator_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 d1aabfba25b6f586c3054a64bbd3e013b95ff4d012ffea3c2432bb4895e11660)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world-macos/environments/finder_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 85f6d078b5b9228bc1aa17b3f73ec3852db0a01a878979112ad2fc10bfedae8f)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/core/runners.mdx (retrieved 2026-10-19T06:44:17Z; SHA-256 0756ebcad68e10d820ce586d3b058a65e054f98d7f8540de5e80914e13620635)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/extras/creation-audit.mdx (retrieved 2026-10-19T06:44:57Z; SHA-256 201cb50510bf7b7c9f56bdbffb43f75baa1fc1cf24edce4c39f66ddd34461a37)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/LICENSE (retrieved 2026-10-19T06:44:18Z; SHA-256 d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614)
+- https://arxiv.org/abs/2604.06126v1 (retrieved 2026-10-19T06:44:18Z; SHA-256 89fe4dad54d6ef84e001d5b7c46375946223e1a3bf6a041ca2925a883e9a767a)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE (retrieved 2026-10-19T06:45:58Z; SHA-256 d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614)
+
+---
+
+## Gym-Anything-RT
+
+Gym-Anything-RT evaluates screenshot-driven agents on paired live and untimed browser minigames. Its runner can pause or slow the game clock to isolate timing effects.
+
+- Catalog URL: https://awesomecua.com/resources/github-gym-anything-gym-anything-rt/
+- Original source: https://github.com/gym-anything/gym-anything-rt
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop, linux
+- Topics: evaluation, efficiency, sandbox
+- Evidence checked: 2026-11-09T19:57:06Z
+- ID: github:gym-anything/gym-anything-rt
+
+### Limitations
+
+The README reports 100 real-time minigames with non-real-time counterparts, five difficulty levels, and two interaction modes. It describes benchmark environments, splits, graders, agents, and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-gym-anything-gym-anything-rt/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/README.md (retrieved 2026-11-09T19:57:06Z; SHA-256 cb6c110b595d725b0dca10f598158e8c5e98b1a64e683c4bb5160a9c20397223)
+- https://raw.githubusercontent.com/gym-anything/gym-anything-rt/HEAD/LICENSE (retrieved 2026-11-09T14:20:51Z; SHA-256 813d1fbc50ef21c3581c6cfd5733aed82db3b5850042fde0629db45afa6d082e)
 
 ---
 
@@ -2501,6 +2879,40 @@ Application coverage refers to the self-constructed subset. Task execution and e
 
 ---
 
+## mac-agent-bench
+
+mac-agent-bench runs computer-use tools on a logged-in Mac, checking task outcomes with scripts while measuring changes to the foreground app and cursor.
+
+- Catalog URL: https://awesomecua.com/resources/github-prithviseran-mac-agent-bench/
+- Original source: https://github.com/PrithviSeran/mac-agent-bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: evaluation, observability, cross-app
+- Evidence checked: 2026-11-09T19:57:10Z
+- ID: github:prithviseran/mac-agent-bench
+
+### Limitations
+
+The README describes a Python runner, MCP adapter files, task setup and check scripts, JSONL results, and per-trial transcripts. It states an MIT license for the harness and tasks. The source explicitly names MacAgentBench as another benchmark.
+
+- Record JSON: https://awesomecua.com/resources/github-prithviseran-mac-agent-bench/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/PrithviSeran/mac-agent-bench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/PrithviSeran/mac-agent-bench/HEAD/README.md (retrieved 2026-11-09T19:57:10Z; SHA-256 6562e408af5fe630309dd75817338ba109734a97fff1dcf5f3069368eed54cf6)
+- https://raw.githubusercontent.com/PrithviSeran/mac-agent-bench/HEAD/LICENSE (retrieved 2026-11-09T14:20:53Z; SHA-256 83b091fc55f2296c5f0598af15b9ccd1dc4da9354264dcfaf96994e6928683ef)
+
+---
+
 ## MacAgentBench
 
 676 macOS tasks across 25 applications, each run in its own Docker container and scored by deterministic rule-based checks with multiple checkpoints.
@@ -2544,6 +2956,40 @@ The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framewo
 - https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md (retrieved 2026-10-16T06:35:59Z; SHA-256 f1f8c0cd5d984e4026abea858b54f0f1427c018cad7e75322e744f1e070225a9)
 - https://export.arxiv.org/api/query?id_list=2605.06761%2C2605.07110%2C2605.07134%2C2605.09497%2C2605.11212%2C2605.12481%2C2605.12501%2C2605.12549%2C2605.13631%2C2605.14290%2C2605.14747%2C2605.15030%2C2605.15542%2C2605.15777%2C2605.16024%2C2605.16116%2C2605.16402%2C2605.17320%2C2605.18048%2C2605.18652%2C2605.18758%2C2605.19260%2C2605.19769%2C2605.21470%2C2605.25160%2C2605.25624%2C2605.25707%2C2605.26114%2C2605.27761%2C2605.28116%2C2605.28534%2C2605.28646%2C2605.28775%2C2605.29119%2C2605.29324%2C2605.29447%2C2605.29486%2C2605.29534%2C2605.29615%2C2606.06322%2C2606.09426%2C2606.11042%2C2606.22557%2C2606.23189%2C2606.24551%2C2608.17659%2C2609.22000%2C2609.34139&max_results=48 (retrieved 2026-10-16T06:32:03Z; SHA-256 2adad07a9ec7189aea25e48c76fa28206eda97f8974d5745cadda9529103bb1a)
 - https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/LICENSE (retrieved 2026-10-16T06:41:59Z; SHA-256 adf69997028988ba1eec34666afa119e007771dfc8e830c5dc50ad650896e897)
+
+---
+
+## macOSWorld
+
+macOSWorld benchmarks GUI agents on tasks across 30 macOS apps in five languages. It supplies a Python testbench for AWS macOS instances and a safety task subset.
+
+- Catalog URL: https://awesomecua.com/resources/github-showlab-macosworld/
+- Original source: https://github.com/showlab/macosworld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: evaluation, safety-security, workflow
+- Evidence checked: 2026-11-09T19:57:51Z
+- ID: github:showlab/macosworld
+
+### Limitations
+
+The repository includes task files, agent adapters, evaluation scripts, and instructions for configuring AWS instances. Its README cites arXiv:2506.04135 as the benchmark paper.
+
+- Record JSON: https://awesomecua.com/resources/github-showlab-macosworld/record.json
+
+### License declarations
+
+- code: CC-BY-NC-4.0 — https://raw.githubusercontent.com/showlab/macosworld/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/showlab/macosworld/HEAD/readme.md (retrieved 2026-11-09T19:57:51Z; SHA-256 c92b717dfd531c9703d82e8e5d9c35b3d9577bce6b94b0a714f80522ffdb1d57)
+- https://raw.githubusercontent.com/showlab/macosworld/HEAD/LICENSE (retrieved 2026-11-09T14:21:16Z; SHA-256 41003d4a74749c0220e33dd415042164b5a1093ed401f36277234f772d22d3d0)
 
 ---
 
@@ -2840,6 +3286,73 @@ This released split table totals 9,799 examples; paper-level collection size is 
 
 ---
 
+## only-cli/benchmarks
+
+A reproducible benchmark suite compares tools that agents use to read live web pages, measuring content retrieval, time and token use across page views and browsing tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-only-cli-benchmarks/
+- Original source: https://github.com/only-cli/benchmarks
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, efficiency, web-navigation
+- Evidence checked: 2026-11-09T19:57:00Z
+- ID: github:only-cli/benchmarks
+
+### Limitations
+
+The repository includes task definitions, tool adapters, runner scripts and saved results. Agent suites require a logged-in Claude or Codex CLI.
+
+- Record JSON: https://awesomecua.com/resources/github-only-cli-benchmarks/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/only-cli/benchmarks/HEAD/README.md (retrieved 2026-11-09T19:57:00Z; SHA-256 d1d8d9e19d8c570f9b8d0af19bfacb353c0e3c9256021bd4f6c714ab03fffe58)
+
+---
+
+## OpenAgentSafety
+
+A benchmark for agent safety in multi-step simulations involving browser, filesystem, terminal and messaging tools. It tests responses to ambiguous, conflicting and adversarial instructions.
+
+- Catalog URL: https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/
+- Original source: https://github.com/Open-Agent-Safety/OpenAgentSafety
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, safety-security, tool-integration, long-horizon
+- Evidence checked: 2026-11-09T19:57:44Z
+- ID: github:open-agent-safety/openagentsafety
+
+### Limitations
+
+The repository includes task and evaluation code and uses services launched through Docker. Its README calls the codebase legacy and points to an updated evaluation implementation. The source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-open-agent-safety-openagentsafety/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Open-Agent-Safety/OpenAgentSafety/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Open-Agent-Safety/OpenAgentSafety/HEAD/README.md (retrieved 2026-11-09T19:57:44Z; SHA-256 34cc82678478704f82932d9e5cc79ee6ee2a2dc3d43cdfc746d1a682c0273de5)
+- https://raw.githubusercontent.com/Open-Agent-Safety/OpenAgentSafety/HEAD/LICENSE (retrieved 2026-11-09T14:21:16Z; SHA-256 2d6976a9b482bb14d9cd4f0d97ce6e14305496f1649b8667cb91d027c670930f)
+
+---
+
 ## OS-Harm
 
 Benchmark for safety of computer-use agents across misuse, prompt injection, and unintended model behavior.
@@ -2925,6 +3438,69 @@ OSWorld 2.0 benchmarks computer-use agents on long-horizon desktop workflows wit
 
 ---
 
+## PersonalAlign
+
+PersonalAlign releases AndroidIntent evaluations of personalized mobile GUI agents and HIM-Agent memory for using long-term interaction records.
+
+- Catalog URL: https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/
+- Original source: https://github.com/iLearn-Lab/ACL26-PersonalAlign
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, memory, interaction-history, mobile-navigation
+- Evidence checked: 2026-11-09T19:57:38Z
+- ID: github:ilearn-lab/acl26-personalalign
+
+### Limitations
+
+The README gives evaluation scripts for personalized execution, proactive suggestion, and HIM-Agent memory. It instructs users to download FingerTip 20k separately before evaluation.
+
+- Record JSON: https://awesomecua.com/resources/github-ilearn-lab-acl26-personalalign/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/iLearn-Lab/ACL26-PersonalAlign/HEAD/README.md (retrieved 2026-11-09T19:57:38Z; SHA-256 b72e0a0967afa15da61ffcc59db4f10e41f26963df8a1a32373124b0d812d16a)
+
+---
+
+## Plasmate Benchmarks
+
+Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
+
+- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
+- Original source: https://github.com/plasmate-labs/plasmate-benchmarks
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, efficiency
+- Evidence checked: 2026-11-04T13:12:31Z
+- ID: github:plasmate-labs/plasmate-benchmarks
+
+- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6)
+- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE (retrieved 2026-11-04T13:22:33Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
+
+---
+
 ## PopupAttack
 
 Resources for evaluating GUI agents under malicious popup instructions.
@@ -2984,6 +3560,40 @@ PowerPoint creation and editing benchmark with API-based execution and checks of
 
 ---
 
+## REAL
+
+A browser-agent evaluation toolkit with reproducible website replicas, task goals, an agent API, and a benchmarking harness.
+
+- Catalog URL: https://awesomecua.com/resources/github-agi-inc-real/
+- Original source: https://github.com/agi-inc/REAL
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, sandbox, web-navigation
+- Evidence checked: 2026-11-09T19:55:56Z
+- ID: github:agi-inc/real
+
+### Limitations
+
+The source includes SDK installation instructions and custom-agent examples. Evaluation requires browser dependencies and a model API key.
+
+- Record JSON: https://awesomecua.com/resources/github-agi-inc-real/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/README.md (retrieved 2026-11-09T19:55:56Z; SHA-256 b3ab8cc93c834bf26b59a67c3f0d30d30602f5f1aad1fe4a1f4864f263f87e79)
+- https://raw.githubusercontent.com/agi-inc/REAL/HEAD/LICENSE (retrieved 2026-11-09T14:20:31Z; SHA-256 229b91680e13d4ec18779fae8da1f75958703be023e14fb3149f8d96c1e254d6)
+
+---
+
 ## RecreationBench
 
 Tasks for recreating reference applications with hybrid computer interaction.
@@ -3014,6 +3624,35 @@ Dataset card declares multiple upstream licenses; do not treat the package as ha
 ### Primary evidence
 
 - https://huggingface.co/datasets/Qwen/RecreationBench/raw/main/README.md (retrieved 2026-10-16T06:50:49Z; SHA-256 79deaa899d085ece77a127d53b12ddb9edea8a796943f35b75e9acec67bcb976)
+
+---
+
+## RiOSWorld
+
+Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual machine, with risk scenarios such as phishing emails and released evaluation trajectories.
+
+- Catalog URL: https://awesomecua.com/resources/github-yjyddq-riosworld/
+- Original source: https://github.com/yjyddq/RiOSWorld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation
+- Evidence checked: 2026-10-16T06:35:59Z
+- ID: github:yjyddq/riosworld
+
+- Record JSON: https://awesomecua.com/resources/github-yjyddq-riosworld/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yjyddq/RiOSWorld/HEAD/README.md (retrieved 2026-10-16T06:35:59Z; SHA-256 c984f114df33af953a97d22e14e14246f8a98e0866edcaf283900b309b71d8d1)
 
 ---
 
@@ -3063,6 +3702,35 @@ The two task subsets partition the 340 tasks. The integrated agent and evaluator
 - https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 5294a67728072a3658cb2073bdf9a084fe3c00d87a848923dff68adb35213072)
 - https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/Documentation.md (retrieved 2026-10-17T02:03:23Z; SHA-256 a55290d62f8823097c73d74bac4eb08853a3caff724382e60a6a9364e7ced987)
 - https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/LICENSE (retrieved 2026-10-16T06:41:58Z; SHA-256 6962bfc8ee16c6e985e4fb680b8fe46d5b34d30f7cb8a1e61fd4c55c93120ddf)
+
+---
+
+## Spider Browser Dataset
+
+Spider Browser Dataset benchmarks browser automation and anti-bot resilience across 999 URLs and 327 domains in 18 categories.
+
+- Catalog URL: https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/
+- Original source: https://github.com/spider-rs/spider-browser-dataset
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, robustness
+- Evidence checked: 2026-11-04T14:41:50Z
+- ID: github:spider-rs/spider-browser-dataset
+
+- Record JSON: https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/spider-rs/spider-browser-dataset/HEAD/README.md (retrieved 2026-11-04T14:41:50Z; SHA-256 c36ad209f9c755d27220572906ba8674a0b88a2f78078b8e72fbc75810a74f78)
 
 ---
 
@@ -3129,6 +3797,40 @@ The README describes 200 English tasks and 200 mirrored Chinese tasks, with an e
 
 ---
 
+## VG-GUI-Bench
+
+A benchmark for predicting mobile GUI actions from tutorial videos, prior actions, and the current screen. It releases step annotations, videos, and reference frames.
+
+- Catalog URL: https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/
+- Original source: https://huggingface.co/datasets/Aoraku/VG-GUI-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, video, mobile-navigation, action-prediction
+- Evidence checked: 2026-11-09T19:55:51Z
+- ID: url:3e3ca34dbdaf3190465c
+
+### Limitations
+
+The card reports 100 episodes and 1,071 annotated steps. It describes a JSON annotation file, source tutorial videos, eight reference-frame modes, and an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/url-3e3ca34dbdaf3190465c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/Aoraku/VG-GUI-Bench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/Aoraku/VG-GUI-Bench (retrieved 2026-11-09T19:55:51Z; SHA-256 2adf52772b0107386cbb0f18a15c013c768c3c9d4ac8b0991a402ca53ce0573e)
+- https://huggingface.co/api/datasets/Aoraku/VG-GUI-Bench (retrieved 2026-11-09T19:55:51Z; SHA-256 2adf52772b0107386cbb0f18a15c013c768c3c9d4ac8b0991a402ca53ce0573e)
+
+---
+
 ## VideoGUI
 
 Benchmark for desktop GUI tasks derived from instructional videos.
@@ -3155,6 +3857,40 @@ Benchmark for desktop GUI tasks derived from instructional videos.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/showlab/videogui/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 1a21631fb312cc7eac35547792611a84f13dcf756a3cf92209676ccdb92cbc6b)
+
+---
+
+## vimgolf-gym
+
+A Gym-like benchmark for VimGolf tasks that lets agents send keystrokes to Vim, capture screenshots, and score solutions by correctness and key count.
+
+- Catalog URL: https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/
+- Original source: https://github.com/James4Ever0/vimgolf-gym
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: evaluation, automation, sandbox
+- Evidence checked: 2026-11-09T19:56:57Z
+- ID: github:james4ever0/vimgolf-gym
+
+### Limitations
+
+The package provides local, online and custom challenges, plus a Docker execution option. The README includes action, screenshot, verification and scoring examples.
+
+- Record JSON: https://awesomecua.com/resources/github-james4ever0-vimgolf-gym/record.json
+
+### License declarations
+
+- code: Unlicense — https://raw.githubusercontent.com/James4Ever0/vimgolf-gym/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/James4Ever0/vimgolf-gym/HEAD/README.md (retrieved 2026-11-09T19:56:57Z; SHA-256 a804950d1cfa50d7ea838795eaf77e91fd7b5a3894a15064d5ac5ea7492cb8ff)
+- https://raw.githubusercontent.com/James4Ever0/vimgolf-gym/HEAD/LICENSE (retrieved 2026-11-09T14:20:47Z; SHA-256 6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e)
 
 ---
 
@@ -3244,6 +3980,72 @@ The repository holds three more environment directories than the blog's release 
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/vision_agents.py (retrieved 2026-10-20T04:06:22Z; SHA-256 03c1cf3728ac0977ed56a9b1dfe52a0bef979443802905d0ea16fa1d88bfd5dc)
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/docs/environment-protocol.md (retrieved 2026-10-20T04:06:22Z; SHA-256 21a54a5f85b4cc75539af061d8b066fa582941fc40268d1052dfe17062d46d44)
 - https://raw.githubusercontent.com/web-arena-x/webarena-infinity/HEAD/LICENSE (retrieved 2026-10-20T04:07:54Z; SHA-256 8954170f22d127cd7d0b7d1d62c25356d0989167eec26e68c69782892e480b94)
+
+---
+
+## WebReplayBench
+
+A web agent benchmark with a local shop site, BrowserGym tasks, and database audit records for measuring task completion and repeated writes during backtracking.
+
+- Catalog URL: https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/
+- Original source: https://github.com/mahirlabibdihan/WebReplayBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, state-tracking, safety-security
+- Evidence checked: 2026-11-09T19:57:08Z
+- ID: github:mahirlabibdihan/webreplaybench
+
+### Limitations
+
+The README lists 20 tasks, 100 instrumented elements, and JSON scenario files. Running the site requires Node and PostgreSQL; a Docker setup is also documented.
+
+- Record JSON: https://awesomecua.com/resources/github-mahirlabibdihan-webreplaybench/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mahirlabibdihan/WebReplayBench/HEAD/README.md (retrieved 2026-11-09T19:57:08Z; SHA-256 4de49715d062c3c24329571d1e3c3ffe4c7f7efd3b26a21f2353b0adee3f61b3)
+
+---
+
+## WebRetriever
+
+WebRetriever supplies a web-agent evaluation runner and a judge that assesses task completion from captured requests, actions and page URLs.
+
+- Catalog URL: https://awesomecua.com/resources/github-mininglamp-ai-webretriever/
+- Original source: https://github.com/Mininglamp-AI/WebRetriever
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, observability
+- Evidence checked: 2026-11-09T19:55:43Z
+- ID: github:mininglamp-ai/webretriever
+
+### Limitations
+
+The repository includes example tasks, launch scripts, agent code and NavEval code. Its setup uses Playwright and task data hosted on Hugging Face; the source declares an MIT license.
+
+- Record JSON: https://awesomecua.com/resources/github-mininglamp-ai-webretriever/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Mininglamp-AI/WebRetriever/HEAD/README.md (retrieved 2026-11-09T19:55:43Z; SHA-256 fcf53577ad17c2e3255605efdbae11abab08f6b0b20a9164021d1d3a5acef654)
 
 ---
 
@@ -3345,6 +4147,39 @@ V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are t
 
 - https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md (retrieved 2026-10-17T02:42:32Z; SHA-256 c4cfc361d1d47d7855269af4110483363964e23f9c65244a1182830eccccbb7f)
 - https://huggingface.co/api/datasets/microsoft/WebTailBench (retrieved 2026-10-17T02:42:32Z; SHA-256 93469a20d333219dde89a225891a54ee716120d559eb8ac9f69a1a7ee84f57a3)
+
+---
+
+## WebUIProof
+
+A benchmark of 149 web UI generation tasks with structured test cases and a vision-language agent that tests generated interfaces in a browser.
+
+- Catalog URL: https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/
+- Original source: https://github.com/yunyuntsai/webuiproof-benchmark
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, ui-design, web-navigation
+- Evidence checked: 2026-11-09T19:56:02Z
+- ID: github:yunyuntsai/webuiproof-benchmark
+
+### Limitations
+
+The repository lists task files, evaluation code, result files, and training data. Its instructions specify an API key and a local web application setup.
+
+- Record JSON: https://awesomecua.com/resources/github-yunyuntsai-webuiproof-benchmark/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yunyuntsai/webuiproof-benchmark/HEAD/README.md (retrieved 2026-11-09T19:56:02Z; SHA-256 ff8d4a9d821839772032e5d4b764ca8fd5e2211ad74e69ad3ec27d93024cf095)
 
 ---
 
@@ -3558,66 +4393,6 @@ agentB is a benchmark for evaluating open web agents on realistic knowledge-work
 
 - https://raw.githubusercontent.com/beme08/agentb/HEAD/README.md (retrieved 2026-11-04T16:30:12Z; SHA-256 37559ee669543cde359a723b3366bd62768c630ea330a3ec893f7ff2760a1652)
 - https://raw.githubusercontent.com/beme08/agentb/HEAD/LICENSE (retrieved 2026-11-04T16:34:22Z; SHA-256 8f0d6c2682c3751cb502003e52bc9af3cc0aa85023c62a8a245070312d0e6526)
-
----
-
-## AgentCIBench
-
-Contextual-integrity benchmark for computer-use agents: 117 synthetic multi-app workspace scenarios that pair under-specified requests with must-share and must-not-share lists, plus a 50-scenario live-UI subset.
-
-- Catalog URL: https://awesomecua.com/resources/url-d7f35409d35584385097/
-- Original source: https://huggingface.co/datasets/UKPLab/agentcibench
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, safety-security, cross-app
-- Evidence checked: 2026-10-19T06:04:29Z
-- ID: url:d7f35409d35584385097
-
-### Limitations
-
-Each scenario is a JSON snapshot of app states in the OpenApps workspace (messenger, todo, calendar, code editor, maps and shopping apps) with a task prompt and a disclosure policy. The card's test split serves the state-grounded reasoning track; test_e2e is a 50-scenario subset of it (all IDs overlap) for runs in the rendered UI, which the code README describes as a local multi-app web environment driven through Playwright; seeds holds 36 disjoint hand-written scenarios. The card says source is seed or mcts, but every released row reads seed or legacy_pilot_seed. The code repository linked as ukplab/arxiv2026-agentcibench now resolves to UKPLab/emnlp2026-agentcibench (GitHub API), and the card's second code link, agentcibench/agentcibench, returns 404. The 67.9% average leakage over 15 agents is a publisher figure. CC BY 4.0 is the card's data declaration; the code is a separate Apache-2.0 release.
-
-- Record JSON: https://awesomecua.com/resources/url-d7f35409d35584385097/record.json
-
-### Structured profile
-
-- Actions / outputs: GUI actions in the rendered workspace (live-UI subset), content shared or sent through the workspace apps
-- Evaluation: The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
-- Focus: contextual-integrity compliance of computer-use agents, information disclosure across personal apps
-- Observations: decoded app states, rendered app UI (live-UI subset), natural-language task prompts
-- Setting: mixed
-
-#### Count observations
-
-- 117 scenarios — test split (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
-- 50 scenarios — test_e2e split (subset of test used for live-UI evaluation) (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
-- 36 scenarios — seeds split (hand-written seed scenarios) (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
-- 75 scenarios — test split, failure mode task_ambiguity_overshare (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
-- 24 scenarios — test split, failure mode recipient_misalignment (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
-- 18 scenarios — test split, failure mode visual_co_location (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
-
-Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test; seeds share separate IDs.
-
-### License declarations
-
-- code: not recorded
-- data: cc-by-4.0 — https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md (retrieved 2026-10-19T06:04:29Z; SHA-256 3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde)
-- https://huggingface.co/api/datasets/UKPLab/agentcibench/revision/f5523cb986828ee77bc505120a933f114bbcf4f3 (retrieved 2026-10-19T06:04:29Z; SHA-256 2ae68d96a7bff7a2eb78f323c3e87b09768812c06f2a2e0aadbaee2d627f5f7d)
-- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test-00000-of-00001.jsonl (retrieved 2026-10-19T06:04:29Z; SHA-256 709d43e4e09d2f3558d9290b8bdf4c15e95e4fefc29a56be6d12b52e646c99d7)
-- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test_e2e-00000-of-00001.jsonl (retrieved 2026-10-19T06:04:30Z; SHA-256 9aced6b0d1e1368c28b3b110ba85e79a935b501a03a3c1b48fb97996dd4c05b2)
-- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/seeds-00000-of-00001.jsonl (retrieved 2026-10-19T06:04:30Z; SHA-256 1b1a458c15ac64d63b7f6c20fab23740115a2b09d151ceeeb6f2c353c97f5418)
-- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/README.md (retrieved 2026-10-19T06:04:30Z; SHA-256 f836c578d6fea20f7b38092071a9646d2db19b422fe6117d57e6de57ab5e1324)
-- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/mcts/reward_judge.py (retrieved 2026-10-19T06:04:30Z; SHA-256 9527a682f91c5d7455853f392096ad47f117e35a14fda01b03969a4ef9c3bdc5)
-- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/eval/metrics.py (retrieved 2026-10-19T06:04:30Z; SHA-256 c51a95f1e0df49d627e986e6be845e3917260f4d1e82991bd88fecb6724dda24)
-- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md (retrieved 2026-10-19T06:04:29Z; SHA-256 3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde)
 
 ---
 
@@ -5791,58 +6566,6 @@ Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2
 
 ---
 
-## GUI-Perturbed
-
-Step-level web grounding benchmark that re-renders Mind2Web pages with style, zoom and text-size perturbations and pairs each screenshot with a direct or relational instruction and a target box.
-
-- Catalog URL: https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/
-- Original source: https://huggingface.co/datasets/figai/GUI-Perturbed
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: grounding, evaluation, robustness
-- Evidence checked: 2026-10-18T15:59:36Z
-- ID: url:7ed70b39ac79f97f8a87
-
-### Limitations
-
-The card YAML at revision 727c857b lists one eval split of 3,120 examples in four Parquet shards, with screenshot, instruction, gt_bbox, visual_variant, instruction_type, task_id and step_index fields. Hugging Face dataset-viewer statistics show 780 rows for each of four visual variants (labelled original, style, precision and text_shrink; the card calls the first one baseline) and 1,560 rows for each of the direct and relational instruction types, so the card's per-variant sample size of 390 covers one instruction type. The card designates the set for evaluation and asks that it be reserved from training; the pages come from Mind2Web MHTML archives. eval.yaml names point-in-bbox accuracy. The card declares CC BY 4.0 for the dataset.
-
-- Record JSON: https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/record.json
-
-### Structured profile
-
-- Actions / outputs: predicted target location
-- Evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy and end-to-end task success are separate measures.
-- Focus: step-level web GUI element localization, robustness to visual and instruction perturbations
-- Observations: rendered web-page screenshots, natural-language instructions
-- Setting: offline
-
-#### Count observations
-
-- 3,120 examples — eval split at revision 727c857b (reported; source: https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md)
-- 283 distinct Mind2Web task IDs — eval split (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval)
-
-Each example is one screenshot, instruction and target box; four visual variants are crossed with two instruction types. Examples, source tasks and visual variants are different units.
-
-### License declarations
-
-- code: not recorded
-- data: cc-by-4.0 — https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md (retrieved 2026-10-18T15:59:36Z; SHA-256 6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e)
-- https://huggingface.co/api/datasets/figai/GUI-Perturbed/revision/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7 (retrieved 2026-10-18T15:59:07Z; SHA-256 55c9358d6269d88f6f2eebc5f74c463096bd417434092bbcfef3b9774b179c23)
-- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml (retrieved 2026-10-18T15:59:07Z; SHA-256 119930290bb21bcceb3f3a2b22d4f738ce5d0eb4531652cb7e7ad0dde348e30a)
-- https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval (retrieved 2026-10-18T15:59:07Z; SHA-256 5a23805cf7a6122abf01288f46139bb3c7890306678ec0280e9e6d488adb5908)
-- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md (retrieved 2026-10-18T15:59:36Z; SHA-256 6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e)
-
----
-
 ## GUI-Robust
 
 Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.
@@ -6066,69 +6789,6 @@ The release describes code, configurations and defective APKs. Its setup require
 ### Primary evidence
 
 - https://raw.githubusercontent.com/ADaM-BJTU/GUITestBench/HEAD/README.md (retrieved 2026-11-09T05:05:07Z; SHA-256 d6015bad95ce9ae964268ac8c45da79883574b5dd734a884f91f92ce1fe93db4)
-
----
-
-## Gym-Anything
-
-Runtime and CUA-World task suite that turn real applications on Ubuntu, Windows 11, Android and macOS into screen-observing, mouse-and-keyboard agent environments with setup scripts and program verifiers.
-
-- Catalog URL: https://awesomecua.com/resources/github-cmu-l3-gym-anything/
-- Original source: https://github.com/cmu-l3/gym-anything
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: desktop, linux, windows, macos, android
-- Topics: evaluation, sandbox, long-horizon
-- Evidence checked: 2026-10-19T06:44:15Z
-- ID: github:cmu-l3/gym-anything
-
-### Limitations
-
-Official code of the Gym-Anything paper. The README describes three parts that can be used separately: the core runtime (src/gym_anything), the CUA-World benchmark (benchmarks/cua_world) and reference agents for Claude, Gemini, Qwen, Kimi and other models. The inspected environment configs (Moodle, Power BI Desktop, an Android AVD calculator and macOS Finder) declare screen observations with mouse and keyboard actions on Ubuntu GNOME, Windows 11, Android AVD 34 and macOS bases; the Finder config also exposes a UI tree, and macOS environments sit in a separate benchmarks/cua_world-macos suite. A task such as moodle_env/enroll_student pairs setup and export hooks with a verifier.py program check and a VLM checklist file. extras/research/software_as_env/creation_audit implements the paper's environment creation-and-audit pipeline, driven by Claude Code by default or Codex CLI. Runners (Docker, Apptainer, QEMU, AVD, AVF, Modal, local and Sandweave) differ in caching, snapshot and recording support. Code was read.
-
-- Record JSON: https://awesomecua.com/resources/github-cmu-l3-gym-anything/record.json
-
-### Structured profile
-
-- Actions / outputs: mouse, keyboard
-- Evaluation: Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
-- Focus: long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
-- Observations: screen frames, UI tree (some macOS environments)
-- Setting: interactive
-
-#### Count observations
-
-- 200 software applications — applications processed into CUA-World (paper v1 abstract) (reported; source: https://arxiv.org/abs/2604.06126v1)
-- > 10,000 long-horizon tasks — CUA-World (paper v1 abstract) (reported; source: https://arxiv.org/abs/2604.06126v1)
-- 7,150 tasks — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967 (computed) (computed; source: https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json)
-- 191 environments — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967 (computed) (computed; source: https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json)
-
-The paper's application and task totals and the repository's verified manifest are different populations; these counts are reported separately. Per-environment split files list train and test tasks, and several cover variant folders of one application; these counts are reported separately.
-
-### License declarations
-
-- code: MIT — https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/README.md (retrieved 2026-10-19T06:44:15Z; SHA-256 11821d717f09b17762937661eed9a2bcb80606ca765de1381f9047fe8c58cf9a)
-- https://api.github.com/repos/cmu-l3/gym-anything/git/trees/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca (retrieved 2026-10-19T06:44:16Z; SHA-256 fb2aa984e243b90058d62435ade2aa2ad9e5a3729df6f293e1c9a536f9749f45)
-- https://api.github.com/repos/cmu-l3/gym-anything/git/commits/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca (retrieved 2026-10-19T06:44:17Z; SHA-256 cd7d25da944d9deaf995e320d2c0b4752c194557b4fc53da8473c3afee4ec511)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json (retrieved 2026-10-19T06:44:17Z; SHA-256 727c6beaff1de5f36bea959037e7346453fb5d40b4817529fa31566acc7fbb04)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 ab0398ca5df1d7e8b41357f2a1966c3576f8d2bdd4c6c81db3249a51826a5d9b)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/tasks/enroll_student/task.json (retrieved 2026-10-19T06:44:17Z; SHA-256 0d6b81e193cc3a15269c1eb580b91f88c72e607173b21427f7f3ee13b67b9047)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/power_bi_desktop_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 f32ac8bb3b99e4ea9550994ac18700066138a2aaa3f835c3e30cce38ca2e6c1b)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/android_avd_calculator_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 d1aabfba25b6f586c3054a64bbd3e013b95ff4d012ffea3c2432bb4895e11660)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world-macos/environments/finder_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 85f6d078b5b9228bc1aa17b3f73ec3852db0a01a878979112ad2fc10bfedae8f)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/core/runners.mdx (retrieved 2026-10-19T06:44:17Z; SHA-256 0756ebcad68e10d820ce586d3b058a65e054f98d7f8540de5e80914e13620635)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/extras/creation-audit.mdx (retrieved 2026-10-19T06:44:57Z; SHA-256 201cb50510bf7b7c9f56bdbffb43f75baa1fc1cf24edce4c39f66ddd34461a37)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/LICENSE (retrieved 2026-10-19T06:44:18Z; SHA-256 d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614)
-- https://arxiv.org/abs/2604.06126v1 (retrieved 2026-10-19T06:44:18Z; SHA-256 89fe4dad54d6ef84e001d5b7c46375946223e1a3bf6a041ca2925a883e9a767a)
-- https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE (retrieved 2026-10-19T06:45:58Z; SHA-256 d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614)
 
 ---
 
@@ -7943,36 +8603,6 @@ Blind-tests web and desktop user interfaces using isolated AI personas that inte
 
 ---
 
-## Plasmate Benchmarks
-
-Plasmate Benchmarks provides reproducible latency, memory, and token-efficiency evaluations for the Plasmate semantic browser engine.
-
-- Catalog URL: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/
-- Original source: https://github.com/plasmate-labs/plasmate-benchmarks
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation, efficiency
-- Evidence checked: 2026-11-04T13:12:31Z
-- ID: github:plasmate-labs/plasmate-benchmarks
-
-- Record JSON: https://awesomecua.com/resources/github-plasmate-labs-plasmate-benchmarks/record.json
-
-### License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/README.md (retrieved 2026-11-04T13:12:31Z; SHA-256 a1413e9e2e49d49849bcbfdc6676973fe41c0021d86f90449621d2ba5b4762c6)
-- https://raw.githubusercontent.com/plasmate-labs/plasmate-benchmarks/HEAD/LICENSE (retrieved 2026-11-04T13:22:33Z; SHA-256 be0abdc0b8595ce37f0eb281cb9b623651974eb33294459f6a7c802b1d1ab432)
-
----
-
 ## pms-race
 
 Concurrency benchmark for computer-use agents operating a legacy property-management web UI to measure race conditions and double-bookings.
@@ -8230,35 +8860,6 @@ Resurf is a deterministic, reproducible test environment for evaluating AI brows
 
 - https://raw.githubusercontent.com/lightfeed/resurf/HEAD/README.md (retrieved 2026-11-04T16:10:34Z; SHA-256 91a449c93c0178ed90755f4eaa996f24891ad75bca15b8711e5611a008105d8c)
 - https://raw.githubusercontent.com/lightfeed/resurf/HEAD/LICENSE (retrieved 2026-11-04T16:13:33Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
-
----
-
-## RiOSWorld
-
-Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual machine, with risk scenarios such as phishing emails and released evaluation trajectories.
-
-- Catalog URL: https://awesomecua.com/resources/github-yjyddq-riosworld/
-- Original source: https://github.com/yjyddq/RiOSWorld
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: desktop, linux
-- Topics: evaluation
-- Evidence checked: 2026-10-16T06:35:59Z
-- ID: github:yjyddq/riosworld
-
-- Record JSON: https://awesomecua.com/resources/github-yjyddq-riosworld/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/yjyddq/RiOSWorld/HEAD/README.md (retrieved 2026-10-16T06:35:59Z; SHA-256 c984f114df33af953a97d22e14e14246f8a98e0866edcaf283900b309b71d8d1)
 
 ---
 
@@ -8632,35 +9233,6 @@ Autonomous playtesting agent and evaluation harness on Solari that builds web ga
 
 - https://raw.githubusercontent.com/moazessam376-dev/solari-playtest/main/README.md (retrieved 2026-11-04T18:11:32Z; SHA-256 9c34786a1969fdc2d9811edfce4b12c99ff6f07082ac178c5617319c97cebf6d)
 - https://raw.githubusercontent.com/moazessam376-dev/solari-playtest/HEAD/LICENSE (retrieved 2026-11-04T18:16:07Z; SHA-256 11d02dddb55d18a2ef39470fadd7fdd7a8aedf88bec62eea1426a76c338e4541)
-
----
-
-## Spider Browser Dataset
-
-Spider Browser Dataset benchmarks browser automation and anti-bot resilience across 999 URLs and 327 domains in 18 categories.
-
-- Catalog URL: https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/
-- Original source: https://github.com/spider-rs/spider-browser-dataset
-- Kind: benchmark
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, web-navigation, robustness
-- Evidence checked: 2026-11-04T14:41:50Z
-- ID: github:spider-rs/spider-browser-dataset
-
-- Record JSON: https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/record.json
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://raw.githubusercontent.com/spider-rs/spider-browser-dataset/HEAD/README.md (retrieved 2026-11-04T14:41:50Z; SHA-256 c36ad209f9c755d27220572906ba8674a0b88a2f78078b8e72fbc75810a74f78)
 
 ---
 
