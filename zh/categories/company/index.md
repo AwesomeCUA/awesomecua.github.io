@@ -1,8 +1,35 @@
 # 计算机使用智能体发布方
 
+发布方是目录中各项资源背后的实验室和公司。每个发布方条目汇总了将其列为发布方的产品、模型、框架和工具。
+
 > AwesomeCUA 目录收录 19 条已审核发布方。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/company/ · [English](https://awesomecua.com/categories/company/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 发布方 | 资源 | 类型 |
+| --- | --- | --- |
+| [Anthropic](https://awesomecua.com/resources/organization-anthropic/) | 3 | 产品 2, 模型 1 |
+| [AskUI](https://awesomecua.com/resources/organization-askui/) | 2 | 发布方 1, 产品 1 |
+| [Browser Use](https://awesomecua.com/resources/organization-browser-use/) | 7 | 框架 2, 智能体 2, 发布方 1, 模型 1, 产品 1 |
+| [BrowserAct](https://awesomecua.com/resources/organization-browseract/) | 2 | 发布方 1, 产品 1 |
+| [Browserbase](https://awesomecua.com/resources/organization-browserbase/) | 2 | 框架 1, 产品 1 |
+| [Browserless](https://awesomecua.com/resources/organization-browserless/) | 2 | 发布方 1, 产品 1 |
+
+## 常见问题
+
+### 哪些发布方在目录中的资源最多？
+
+[H](https://awesomecua.com/resources/organization-h/)（21 条）、[Browser Use](https://awesomecua.com/resources/organization-browser-use/)（7 条）和 [OpenAI](https://awesomecua.com/resources/organization-openai/)（6 条）名下的已审核资源最多。
+
+### 发布方发布哪些类型的资源？
+
+共有 69 条已审核资源通过发布方关系指向这 19 个发布方：模型 24 条、产品 20 条、发布方 10 条、框架 5 条、智能体 5 条、基础设施 2 条、数据集 2 条、评测基准 1 条。
+
+### 这个列表按什么排序？
+
+按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
 
 ---
 

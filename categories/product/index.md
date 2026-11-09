@@ -1,10 +1,41 @@
 # Computer-use agent products
 
+Products are commercial and hosted computer-use offerings, such as browser agents, desktop assistants and agent APIs, run by their publishers.
+
 > 72 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/product/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Product | Platform | Access | Pricing |
+| --- | --- | --- | --- |
+| [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) | Web · Desktop · Cross-platform | — | — |
+| [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) | Web · Desktop · Cross-platform | — | — |
+| [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) | Web · Desktop · Cross-platform | — | — |
+| [Accio Work](https://awesomecua.com/resources/url-07f92766e53439739eab/) | Web | Publisher-managed | — |
+| [Ace](https://awesomecua.com/resources/url-7a35f44787f99834f13e/) | Desktop | — | — |
+| [agent-qa](https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/) | Web · Mobile · Cross-platform | — | — |
+
+## Questions
+
+### Which platforms do these products cover?
+
+Of 72 reviewed products, 61 are tagged web, 22 desktop, 7 cross-platform and 5 mobile. An entry tagged with several platforms counts under each.
+
+### Who publishes these products?
+
+20 of 72 products name their publisher through a reviewed published-by relation; [OpenAI](https://awesomecua.com/resources/organization-openai/) (3) and [Anthropic](https://awesomecua.com/resources/organization-anthropic/) (2) publish the most.
+
+### Which products publish pricing?
+
+18 of 72 products link an official pricing page, and 51 are recorded as publisher-managed services.
+
+### How is this list ordered?
+
+By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
 
 ---
 

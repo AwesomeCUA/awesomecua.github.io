@@ -1,10 +1,45 @@
 # Computer-use agent tools
 
+Tools are utilities that an agent or developer calls to control, observe or inspect an interface: MCP servers, browser and device controllers, screen parsers and recorders.
+
 > 976 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/tool/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Tool | Platform | License | Mentions |
+| --- | --- | --- | --- |
+| [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/LICENSE) | 32 |
+| [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) | Cross-platform | — | 22 |
+| [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/vercel-labs/agent-browser/HEAD/LICENSE) | 16 |
+| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 16 |
+| [Oracle E-Business Suite Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/) | Web | [MIT (code)](https://raw.githubusercontent.com/Browser-Automation-Hub/oracle-ebs-browser-automation/HEAD/LICENSE) | 13 |
+| [SAP Fiori Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/) | Web | [MIT (code)](https://raw.githubusercontent.com/Browser-Automation-Hub/sap-fiori-browser-automation/HEAD/LICENSE) | 13 |
+
+## Questions
+
+### Which tools are mentioned most in the catalog?
+
+[Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) (32 records), [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) (22 records) and [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/) (16 records) are mentioned in the reviewed sources of the most other catalog records.
+
+### Which platforms do these tools cover?
+
+Of 976 reviewed tools, 589 are tagged web, 504 desktop, 162 cross-platform and 69 mobile; 10 have no platform recorded. An entry tagged with several platforms counts under each.
+
+### Which tools come with a research paper?
+
+17 of 976 link the arXiv paper that introduces or documents them, for example [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/), [activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) and [GUI-DR](https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/).
+
+### Which licenses do tools declare?
+
+The most common declared licenses are MIT (688), Apache-2.0 (101) and AGPL-3.0 (19). 141 of 976 have no declared license in their record.
+
+### How is this list ordered?
+
+By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
 
 ---
 

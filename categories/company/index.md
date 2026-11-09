@@ -1,10 +1,37 @@
 # Computer-use agent publishers
 
+Publishers are the labs and companies behind catalogued resources. Each publisher entry collects the products, models, frameworks and tools that name it as their publisher.
+
 > 19 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/company/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Publisher | Resources | Kinds |
+| --- | --- | --- |
+| [Anthropic](https://awesomecua.com/resources/organization-anthropic/) | 3 | 2 products, 1 model |
+| [AskUI](https://awesomecua.com/resources/organization-askui/) | 2 | 1 publisher, 1 product |
+| [Browser Use](https://awesomecua.com/resources/organization-browser-use/) | 7 | 2 frameworks, 2 agents, 1 publisher, 1 model, 1 product |
+| [BrowserAct](https://awesomecua.com/resources/organization-browseract/) | 2 | 1 publisher, 1 product |
+| [Browserbase](https://awesomecua.com/resources/organization-browserbase/) | 2 | 1 framework, 1 product |
+| [Browserless](https://awesomecua.com/resources/organization-browserless/) | 2 | 1 publisher, 1 product |
+
+## Questions
+
+### Which publishers have the most resources in the catalog?
+
+[H](https://awesomecua.com/resources/organization-h/) (21 resources), [Browser Use](https://awesomecua.com/resources/organization-browser-use/) (7 resources) and [OpenAI](https://awesomecua.com/resources/organization-openai/) (6 resources) have the most reviewed resources that name them as publisher.
+
+### What kinds of resources do publishers release?
+
+69 reviewed resources name one of these 19 publishers: 24 models, 20 products, 10 publishers, 5 frameworks, 5 agents, 2 infrastructure resources, 2 datasets and 1 benchmark.
+
+### How is this list ordered?
+
+By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
 
 ---
 

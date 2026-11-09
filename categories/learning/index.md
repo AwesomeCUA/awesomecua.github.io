@@ -1,10 +1,45 @@
 # Computer-use agent learning resources
 
+Learning resources are courses, cookbooks, tutorials, example collections and curated lists for building and studying computer-use agents.
+
 > 32 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/learning/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Learning resource | Platform | License | Mentions |
+| --- | --- | --- | --- |
+| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 8 |
+| [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | Web | [MIT (code)](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |
+| [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) | Web · Desktop · Cross-platform | — | 2 |
+| [chromedp examples](https://awesomecua.com/resources/github-chromedp-examples/) | Web | — | 2 |
+| [Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches](https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/) | Web · Desktop · Cross-platform | — | 2 |
+| [The TinyFish Cookbook](https://awesomecua.com/resources/github-tinyfish-io-tinyfish-cookbook/) | Web | [MIT (code)](https://raw.githubusercontent.com/tinyfish-io/tinyfish-cookbook/HEAD/LICENSE) | 2 |
+
+## Questions
+
+### Which learning resources are mentioned most in the catalog?
+
+[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) (8 records), [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) (3 records) and [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) (2 records) are mentioned in the reviewed sources of the most other catalog records.
+
+### Which platforms do these learning resources cover?
+
+Of 32 reviewed learning resources, 25 are tagged web, 17 desktop, 17 cross-platform and 4 mobile; 1 has no platform recorded. An entry tagged with several platforms counts under each.
+
+### Which learning resources come with a research paper?
+
+1 of 32 links the arXiv paper that introduces or documents it: [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/).
+
+### Which licenses do learning resources declare?
+
+The most common declared licenses are MIT (9), Apache-2.0 (4) and Unlicense (1). 18 of 32 have no declared license in their record.
+
+### How is this list ordered?
+
+By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
 
 ---
 

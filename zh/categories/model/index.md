@@ -1,8 +1,43 @@
 # 计算机使用智能体模型
 
+计算机使用模型是读取屏幕、输出目标坐标或动作的视觉语言模型和 GUI 专用检查点。条目包括模型系列和已发布的检查点，其中许多托管在 Hugging Face。
+
 > AwesomeCUA 目录收录 351 条已审核模型。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/model/ · [English](https://awesomecua.com/categories/model/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 模型 | 平台 | 许可证 | 论文 | 提及 |
+| --- | --- | --- | --- | --- |
+| [UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) | 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/LICENSE) | [arXiv 2501.12326](https://awesomecua.com/resources/arxiv-2501-12326/) | 25 |
+| [SeeClick](https://awesomecua.com/resources/github-njucckevin-seeclick/) | 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/LICENSE) | [arXiv 2401.10935](https://awesomecua.com/resources/arxiv-2401-10935/) | 18 |
+| [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/) | — | [apache-2.0（权重）](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) | — | 11 |
+| [Aguvis](https://awesomecua.com/resources/github-xlang-ai-aguvis/) | 跨平台 | — | [arXiv 2412.04454](https://awesomecua.com/resources/arxiv-2412-04454/) | 8 |
+| [GUI-Actor](https://awesomecua.com/resources/github-microsoft-gui-actor/) | 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/LICENSE) | [arXiv 2506.03143](https://awesomecua.com/resources/arxiv-2506-03143/) | 7 |
+| [Holo4 27B BF16](https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/) | 网页 · 桌面 · 跨平台 | [CC-BY-NC-4.0（权重）](https://huggingface.co/Hcompany/Holo4-27B/raw/4de03cfeee1d930b616bfd4817570293f29ad8b9/README.md) | — | 7 |
+
+## 常见问题
+
+### 目录中被提及最多的模型有哪些？
+
+[UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/)（25 条记录）、[SeeClick](https://awesomecua.com/resources/github-njucckevin-seeclick/)（18 条记录）和 [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/)（11 条记录）在其他目录记录的已审核来源中被提及最多。
+
+### 这些模型覆盖哪些平台？
+
+在 351 条已审核模型中，桌面 143 条、网页 141 条、跨平台 129 条、手机 85 条；52 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+
+### 有多少模型托管在 Hugging Face？
+
+351 条模型中有 262 条链接到 Hugging Face 模型仓库，例如 [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/)、[Holo4 27B BF16](https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/) 和 [Holo4 35B-A3B BF16](https://awesomecua.com/resources/url-16083a0225a60882c704/)。
+
+### 模型使用哪些许可证？
+
+最常见的声明许可证是 Apache-2.0（185 条）、MIT（68 条）和标为 other 的许可证（25 条）。351 条中有 46 条未记录声明的许可证。
+
+### 这个列表按什么排序？
+
+按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
 
 ---
 

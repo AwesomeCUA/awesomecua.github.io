@@ -1,8 +1,43 @@
 # 计算机使用智能体评测基准
 
+计算机使用评测基准是一组任务与环境，用来给操作网页浏览器、桌面应用或移动设备的智能体打分。每个基准都把固定的任务集与评估器配在一起，评估方式包括基于执行的状态检查、答案匹配和目标定位。
+
 > AwesomeCUA 目录收录 281 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https://awesomecua.com/categories/benchmark/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 评测基准 | 平台 | 设置 | 规模 | 排行榜 |
+| --- | --- | --- | --- | --- |
+| [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) | 桌面 | 交互式 | [369 task definitions](https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json) | [排行榜](https://os-world.github.io/) |
+| [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) | 网页 | 交互式 | [812 task examples](https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md) | [排行榜](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?usp=sharing) |
+| [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) | 手机 | 交互式 | [116 task definitions](https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md) | [排行榜](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0) |
+| [BrowserGym](https://awesomecua.com/resources/github-servicenow-browsergym/) | 网页 | 混合 | — | — |
+| [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/) | 桌面 | 离线 | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [排行榜](https://gui-agent.github.io/grounding-leaderboard) |
+| [Mind2Web](https://awesomecua.com/resources/github-osu-nlp-group-mind2web/) | 网页 | 离线 | [1,009 task instances](https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md) | — |
+
+## 常见问题
+
+### 目录中被提及最多的评测基准有哪些？
+
+[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)（60 条记录）、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)（28 条记录）和 [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/)（21 条记录）在其他目录记录的已审核来源中被提及最多。
+
+### 这些评测基准覆盖哪些平台？
+
+在 281 条已审核评测基准中，网页 193 条、桌面 93 条、手机 40 条、跨平台 28 条；11 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+
+### 哪些评测基准有官方排行榜？
+
+281 条评测基准中有 25 条在已审核来源中链接了官方排行榜，包括 [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/)、[WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/)、[AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) 和 [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/)。
+
+### 交互式评测和离线评测各有多少？
+
+在 94 条记录了评测协议的基准中，交互式 56 条、离线 34 条、混合 4 条。[评测基准对比页](https://awesomecua.com/compare/benchmarks/)列出每个协议的观察、动作、评估器和计数。
+
+### 评测基准使用哪些许可证？
+
+最常见的声明许可证是 MIT（115 条）、Apache-2.0（66 条）和 CC-BY-4.0（6 条）。281 条中有 86 条未记录声明的许可证。
 
 ---
 

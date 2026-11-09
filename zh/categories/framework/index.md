@@ -1,8 +1,43 @@
 # 计算机使用智能体框架
 
+框架是用于构建、运行、评估或训练计算机使用智能体的库和 SDK，从浏览器自动化智能体库到强化学习训练栈。
+
 > AwesomeCUA 目录收录 638 条已审核框架。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/ · [English](https://awesomecua.com/categories/framework/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 框架 | 平台 | 许可证 | 提及 |
+| --- | --- | --- | --- |
+| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 54 |
+| [Cua](https://awesomecua.com/resources/github-trycua-cua/) | 桌面 | [MIT（代码）](https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md) | 40 |
+| [Epic EHR Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/epic-ehr-browser-automation/HEAD/LICENSE) | 13 |
+| [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/) | 桌面 | — | 12 |
+| [Midscene.js](https://awesomecua.com/resources/github-web-infra-dev-midscene/) | 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/web-infra-dev/midscene/HEAD/LICENSE) | 8 |
+| [Stagehand](https://awesomecua.com/resources/github-browserbase-stagehand/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE) | 8 |
+
+## 常见问题
+
+### 目录中被提及最多的框架有哪些？
+
+[Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/)（54 条记录）、[Cua](https://awesomecua.com/resources/github-trycua-cua/)（40 条记录）和 [Epic EHR Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/)（13 条记录）在其他目录记录的已审核来源中被提及最多。
+
+### 这些框架覆盖哪些平台？
+
+在 638 条已审核框架中，网页 443 条、桌面 298 条、跨平台 149 条、手机 101 条；26 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+
+### 哪些框架有对应的论文？
+
+638 条中有 136 条链接到提出或说明它的 arXiv 论文，例如 [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/)、[AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) 和 [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/)。
+
+### 框架使用哪些许可证？
+
+最常见的声明许可证是 MIT（293 条）、Apache-2.0（151 条）和 AGPL-3.0（7 条）。638 条中有 171 条未记录声明的许可证。
+
+### 这个列表按什么排序？
+
+按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
 
 ---
 

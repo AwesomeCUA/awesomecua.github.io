@@ -1,10 +1,45 @@
 # Computer-use agent benchmarks
 
+Computer-use benchmarks are task suites and environments that score agents operating web browsers, desktop applications or mobile devices. Each pairs a fixed set of tasks with an evaluator, such as execution-based state checks, answer matching or target localization.
+
 > 281 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Benchmark | Platform | Setting | Scale | Leaderboard |
+| --- | --- | --- | --- | --- |
+| [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) | Desktop | Interactive | [369 task definitions](https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json) | [Leaderboard](https://os-world.github.io/) |
+| [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) | Web | Interactive | [812 task examples](https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md) | [Leaderboard](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?usp=sharing) |
+| [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) | Mobile | Interactive | [116 task definitions](https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md) | [Leaderboard](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0) |
+| [BrowserGym](https://awesomecua.com/resources/github-servicenow-browsergym/) | Web | Mixed | — | — |
+| [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/) | Desktop | Offline | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [Leaderboard](https://gui-agent.github.io/grounding-leaderboard) |
+| [Mind2Web](https://awesomecua.com/resources/github-osu-nlp-group-mind2web/) | Web | Offline | [1,009 task instances](https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md) | — |
+
+## Questions
+
+### Which benchmarks are mentioned most in the catalog?
+
+[OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/) (60 records), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/) (28 records) and [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) (21 records) are mentioned in the reviewed sources of the most other catalog records.
+
+### Which platforms do these benchmarks cover?
+
+Of 281 reviewed benchmarks, 193 are tagged web, 93 desktop, 40 mobile and 28 cross-platform; 11 have no platform recorded. An entry tagged with several platforms counts under each.
+
+### Which benchmarks have an official leaderboard?
+
+25 of 281 benchmarks link an official leaderboard from their reviewed source, including [OSWorld](https://awesomecua.com/resources/github-xlang-ai-osworld/), [WebArena](https://awesomecua.com/resources/github-web-arena-x-webarena/), [AndroidWorld](https://awesomecua.com/resources/github-google-research-android-world/) and [ScreenSpot Pro](https://awesomecua.com/resources/github-likaixin2000-screenspot-pro-gui-grounding/).
+
+### How many benchmarks are interactive and how many offline?
+
+Of 94 benchmarks with a recorded protocol, 56 are interactive, 34 are offline and 4 are mixed. The [benchmark comparison page](https://awesomecua.com/compare/benchmarks/) lists each protocol's observations, actions, evaluator and counts.
+
+### Which licenses do benchmarks declare?
+
+The most common declared licenses are MIT (115), Apache-2.0 (66) and CC-BY-4.0 (6). 86 of 281 have no declared license in their record.
 
 ---
 

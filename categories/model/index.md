@@ -1,10 +1,45 @@
 # Computer-use agent models and checkpoints
 
+Computer-use models are vision-language and GUI-specialized checkpoints that read screens and output target coordinates or actions. Entries cover model families and released checkpoints, many hosted on Hugging Face.
+
 > 351 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/model/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Model | Platform | License | Paper | Mentions |
+| --- | --- | --- | --- | --- |
+| [UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) | Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/LICENSE) | [arXiv 2501.12326](https://awesomecua.com/resources/arxiv-2501-12326/) | 25 |
+| [SeeClick](https://awesomecua.com/resources/github-njucckevin-seeclick/) | Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/LICENSE) | [arXiv 2401.10935](https://awesomecua.com/resources/arxiv-2401-10935/) | 18 |
+| [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/) | — | [apache-2.0 (weights)](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) | — | 11 |
+| [Aguvis](https://awesomecua.com/resources/github-xlang-ai-aguvis/) | Cross-platform | — | [arXiv 2412.04454](https://awesomecua.com/resources/arxiv-2412-04454/) | 8 |
+| [GUI-Actor](https://awesomecua.com/resources/github-microsoft-gui-actor/) | Cross-platform | [MIT (code)](https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/LICENSE) | [arXiv 2506.03143](https://awesomecua.com/resources/arxiv-2506-03143/) | 7 |
+| [Holo4 27B BF16](https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/) | Web · Desktop · Cross-platform | [CC-BY-NC-4.0 (weights)](https://huggingface.co/Hcompany/Holo4-27B/raw/4de03cfeee1d930b616bfd4817570293f29ad8b9/README.md) | — | 7 |
+
+## Questions
+
+### Which models are mentioned most in the catalog?
+
+[UI-TARS](https://awesomecua.com/resources/github-bytedance-ui-tars/) (25 records), [SeeClick](https://awesomecua.com/resources/github-njucckevin-seeclick/) (18 records) and [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/) (11 records) are mentioned in the reviewed sources of the most other catalog records.
+
+### Which platforms do these models cover?
+
+Of 351 reviewed models, 143 are tagged desktop, 141 web, 129 cross-platform and 85 mobile; 52 have no platform recorded. An entry tagged with several platforms counts under each.
+
+### How many models are hosted on Hugging Face?
+
+262 of 351 models link a Hugging Face model repository, for example [Qwen2-VL-7B-Instruct](https://awesomecua.com/resources/url-b9c90048411606b00db0/), [Holo4 27B BF16](https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/) and [Holo4 35B-A3B BF16](https://awesomecua.com/resources/url-16083a0225a60882c704/).
+
+### Which licenses do models declare?
+
+The most common declared licenses are Apache-2.0 (185), MIT (68) and licenses marked “other” (25). 46 of 351 have no declared license in their record.
+
+### How is this list ordered?
+
+By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
 
 ---
 

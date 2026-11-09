@@ -1,8 +1,43 @@
 # 计算机使用智能体
 
+计算机使用智能体是完整的系统：观察屏幕或网页，制定计划，再通过点击、输入、浏览器命令或命令行工具完成用户任务。
+
 > AwesomeCUA 目录收录 444 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://awesomecua.com/categories/agent/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 智能体 | 平台 | 许可证 | 提及 |
+| --- | --- | --- | --- |
+| [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) | 手机 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE) | 27 |
+| [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 22 |
+| [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) | 网页 · 桌面 · 跨平台 | [MIT（代码）](https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE) | 16 |
+| [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) | 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE) | 15 |
+| [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) | 桌面 | [Apache-2.0（代码）](https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE) | 10 |
+| [Gemini CLI](https://awesomecua.com/resources/github-google-gemini-gemini-cli/) | 桌面 · 跨平台 | [Apache-2.0（代码）](https://raw.githubusercontent.com/google-gemini/gemini-cli/HEAD/LICENSE) | 10 |
+
+## 常见问题
+
+### 目录中被提及最多的智能体有哪些？
+
+[Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)（27 条记录）、[Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/)（22 条记录）和 [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/)（16 条记录）在其他目录记录的已审核来源中被提及最多。
+
+### 这些智能体覆盖哪些平台？
+
+在 444 条已审核智能体中，网页 223 条、桌面 214 条、手机 83 条、跨平台 49 条；3 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+
+### 哪些智能体有对应的论文？
+
+444 条中有 62 条链接到提出或说明它的 arXiv 论文，例如 [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/)、[Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) 和 [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/)。
+
+### 智能体使用哪些许可证？
+
+最常见的声明许可证是 MIT（189 条）、Apache-2.0（86 条）和 AGPL-3.0（12 条）。444 条中有 136 条未记录声明的许可证。
+
+### 这个列表按什么排序？
+
+按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
 
 ---
 

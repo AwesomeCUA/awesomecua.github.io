@@ -1,10 +1,45 @@
 # Computer-use agent datasets
 
+Computer-use datasets supply screenshots, instructions, element annotations and action trajectories for training or evaluating GUI agents. Supervision ranges from single-element grounding to complete multi-step trajectories.
+
 > 225 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/dataset/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Dataset | Platform | Supervision | Scale | License |
+| --- | --- | --- | --- | --- |
+| [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | Desktop | GUI grounding | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [mit (data)](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
+| [OS-Genesis](https://awesomecua.com/resources/github-os-copilot-os-genesis/) | Cross-platform | reverse task synthesis, GUI action trajectories | — | — |
+| [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | Mobile | interactive-element grounding, screen and element functionality descriptions | [> 104,000 screenshots](https://arxiv.org/abs/2407.17490v1) | [cc-by-4.0 (data)](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
+| [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) | Web · Desktop · Mobile · Cross-platform | — | — | [apache-2.0 (data)](https://huggingface.co/datasets/Hcompany/trajectories) |
+| [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | Desktop | UI element bounding boxes, element text or short descriptions | [51,175 screenshot-annotation file pairs](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [mit (data)](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
+| [GUI-Actor data](https://awesomecua.com/resources/url-66096ad4057a3d3726f5/) | — | GUI grounding with bounding-box supervision | — | — |
+
+## Questions
+
+### Which datasets are mentioned most in the catalog?
+
+[ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) (12 records), [OS-Genesis](https://awesomecua.com/resources/github-os-copilot-os-genesis/) (11 records) and [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) (7 records) are mentioned in the reviewed sources of the most other catalog records.
+
+### Which platforms do these datasets cover?
+
+Of 225 reviewed datasets, 93 are tagged web, 67 mobile, 66 desktop and 31 cross-platform; 27 have no platform recorded. An entry tagged with several platforms counts under each.
+
+### Which datasets record their supervision and scale?
+
+125 of 225 datasets have a profile with supervision, modalities, formats, splits and counts with units. The most common supervision types are element grounding (6), agent-generated trajectories (5) and interaction trajectories (4). The [dataset comparison page](https://awesomecua.com/compare/datasets/) sets them side by side.
+
+### Which licenses do datasets declare?
+
+The most common declared licenses are Apache-2.0 (59), MIT (35) and CC-BY-4.0 (32). 68 of 225 have no declared license in their record.
+
+### How is this list ordered?
+
+By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
 
 ---
 

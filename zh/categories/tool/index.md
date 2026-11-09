@@ -1,8 +1,43 @@
 # 计算机使用智能体工具
 
+工具是智能体或开发者调用的实用程序，用来控制、观察或检查界面，包括 MCP 服务器、浏览器与设备控制器、屏幕解析器和录制工具。
+
 > AwesomeCUA 目录收录 976 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://awesomecua.com/categories/tool/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 工具 | 平台 | 许可证 | 提及 |
+| --- | --- | --- | --- |
+| [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/LICENSE) | 32 |
+| [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) | 跨平台 | — | 22 |
+| [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/vercel-labs/agent-browser/HEAD/LICENSE) | 16 |
+| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 16 |
+| [Oracle E-Business Suite Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/oracle-ebs-browser-automation/HEAD/LICENSE) | 13 |
+| [SAP Fiori Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/sap-fiori-browser-automation/HEAD/LICENSE) | 13 |
+
+## 常见问题
+
+### 目录中被提及最多的工具有哪些？
+
+[Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/)（32 条记录）、[OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/)（22 条记录）和 [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/)（16 条记录）在其他目录记录的已审核来源中被提及最多。
+
+### 这些工具覆盖哪些平台？
+
+在 976 条已审核工具中，网页 589 条、桌面 504 条、跨平台 162 条、手机 69 条；10 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+
+### 哪些工具有对应的论文？
+
+976 条中有 17 条链接到提出或说明它的 arXiv 论文，例如 [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/)、[activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) 和 [GUI-DR](https://awesomecua.com/resources/github-manifoldrg-webdomainrandomizer/)。
+
+### 工具使用哪些许可证？
+
+最常见的声明许可证是 MIT（688 条）、Apache-2.0（101 条）和 AGPL-3.0（19 条）。976 条中有 141 条未记录声明的许可证。
+
+### 这个列表按什么排序？
+
+按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
 
 ---
 

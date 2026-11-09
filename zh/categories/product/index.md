@@ -1,8 +1,39 @@
 # 计算机使用智能体产品
 
+产品是由发布方运营的商业化或托管式计算机使用服务，例如浏览器智能体、桌面助手和智能体 API。
+
 > AwesomeCUA 目录收录 72 条已审核产品。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/product/ · [English](https://awesomecua.com/categories/product/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 产品 | 平台 | 访问方式 | 定价 |
+| --- | --- | --- | --- |
+| [Interpreter Workstation](https://awesomecua.com/resources/github-openinterpreter-interpreter-workstation/) | 网页 · 桌面 · 跨平台 | — | — |
+| [MT Code](https://awesomecua.com/resources/github-munimtechnologies-mtcode/) | 网页 · 桌面 · 跨平台 | — | — |
+| [ovoBrowser](https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/) | 网页 · 桌面 · 跨平台 | — | — |
+| [Accio Work](https://awesomecua.com/resources/url-07f92766e53439739eab/) | 网页 | 发布方托管 | — |
+| [Ace](https://awesomecua.com/resources/url-7a35f44787f99834f13e/) | 桌面 | — | — |
+| [agent-qa](https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/) | 网页 · 手机 · 跨平台 | — | — |
+
+## 常见问题
+
+### 这些产品覆盖哪些平台？
+
+在 72 条已审核产品中，网页 61 条、桌面 22 条、跨平台 7 条、手机 5 条。标注多个平台的条目在每个平台下各计一次。
+
+### 这些产品由谁发布？
+
+72 款产品中有 20 款通过已审核的发布方关系标明了发布方，其中产品最多的是 [OpenAI](https://awesomecua.com/resources/organization-openai/)（3 款）和 [Anthropic](https://awesomecua.com/resources/organization-anthropic/)（2 款）。
+
+### 哪些产品公开了定价？
+
+72 款产品中有 18 款链接了官方定价页，51 款记录为由发布方托管的服务。
+
+### 这个列表按什么排序？
+
+按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
 
 ---
 

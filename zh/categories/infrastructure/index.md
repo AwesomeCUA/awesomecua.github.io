@@ -1,8 +1,43 @@
 # 计算机使用智能体基础设施
 
+基础设施指计算机使用智能体在其中运行或借以操作的浏览器、沙箱、虚拟机、模拟器和输入自动化库。
+
 > AwesomeCUA 目录收录 101 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](https://awesomecua.com/categories/infrastructure/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 基础设施 | 平台 | 许可证 | 提及 |
+| --- | --- | --- | --- |
+| [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 10 |
+| [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) | 桌面 | — | 8 |
+| [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | 手机 | [Apache-2.0（代码）](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 7 |
+| [E2B Desktop](https://awesomecua.com/resources/github-e2b-dev-desktop/) | 桌面 | [Apache-2.0（代码）](https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE) | 6 |
+| [Steel Browser](https://awesomecua.com/resources/github-steel-dev-steel-browser/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE) | 4 |
+| [E2B](https://awesomecua.com/resources/github-e2b-dev-e2b/) | 桌面 | [Apache-2.0（代码）](https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE) | 3 |
+
+## 常见问题
+
+### 目录中被提及最多的基础设施有哪些？
+
+[Playwright](https://awesomecua.com/resources/github-microsoft-playwright/)（10 条记录）、[PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/)（8 条记录）和 [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/)（7 条记录）在其他目录记录的已审核来源中被提及最多。
+
+### 这些基础设施覆盖哪些平台？
+
+在 101 条已审核基础设施中，桌面 66 条、网页 51 条、手机 18 条、跨平台 8 条；1 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+
+### 哪些基础设施有对应的论文？
+
+101 条中有 7 条链接到提出或说明它的 arXiv 论文，例如 [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/)、[GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/) 和 [OpenMobile-2 extended Android AVDs](https://awesomecua.com/resources/url-f039da43799772645c92/)。
+
+### 基础设施使用哪些许可证？
+
+最常见的声明许可证是 MIT（34 条）、Apache-2.0（27 条）和 AGPL-3.0（4 条）。101 条中有 34 条未记录声明的许可证。
+
+### 这个列表按什么排序？
+
+按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
 
 ---
 

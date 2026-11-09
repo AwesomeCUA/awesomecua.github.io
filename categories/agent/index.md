@@ -1,10 +1,45 @@
 # Computer-use agents
 
+Computer-use agents are complete systems that observe a screen or web page, plan, and act through clicks, typing, browser commands or shell tools to finish a user task.
+
 > 444 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Agent | Platform | License | Mentions |
+| --- | --- | --- | --- |
+| [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) | Mobile · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE) | 27 |
+| [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/NousResearch/hermes-agent/HEAD/LICENSE) | 22 |
+| [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) | Web · Desktop · Cross-platform | [MIT (code)](https://raw.githubusercontent.com/openclaw/openclaw/HEAD/LICENSE) | 16 |
+| [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/) | Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/openai/codex/HEAD/LICENSE) | 15 |
+| [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE) | 10 |
+| [Gemini CLI](https://awesomecua.com/resources/github-google-gemini-gemini-cli/) | Desktop · Cross-platform | [Apache-2.0 (code)](https://raw.githubusercontent.com/google-gemini/gemini-cli/HEAD/LICENSE) | 10 |
+
+## Questions
+
+### Which agents are mentioned most in the catalog?
+
+[Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/) (27 records), [Hermes Agent](https://awesomecua.com/resources/github-nousresearch-hermes-agent/) (22 records) and [OpenClaw](https://awesomecua.com/resources/github-openclaw-openclaw/) (16 records) are mentioned in the reviewed sources of the most other catalog records.
+
+### Which platforms do these agents cover?
+
+Of 444 reviewed agents, 223 are tagged web, 214 desktop, 83 mobile and 49 cross-platform; 3 have no platform recorded. An entry tagged with several platforms counts under each.
+
+### Which agents come with a research paper?
+
+62 of 444 link the arXiv paper that introduces or documents them, for example [Mobile-Agent](https://awesomecua.com/resources/github-x-plug-mobileagent/), [Agent S](https://awesomecua.com/resources/github-simular-ai-agent-s/) and [SeeAct](https://awesomecua.com/resources/github-osu-nlp-group-seeact/).
+
+### Which licenses do agents declare?
+
+The most common declared licenses are MIT (189), Apache-2.0 (86) and AGPL-3.0 (12). 136 of 444 have no declared license in their record.
+
+### How is this list ordered?
+
+By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
 
 ---
 

@@ -1,8 +1,39 @@
 # 计算机使用智能体综述
 
+综述是梳理计算机使用与 GUI 智能体研究的文章，涵盖方法、评测基准、数据集、安全问题和待解决的问题。
+
 > AwesomeCUA 目录收录 37 条已审核综述。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/survey/ · [English](https://awesomecua.com/categories/survey/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/papers.json
+
+## 怎么选
+
+| 综述 | 日期 | 平台 | 主题 |
+| --- | --- | --- | --- |
+| [A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://awesomecua.com/resources/arxiv-2501-16150/) | 2025-01-27 | 跨平台 | 综述 |
+| [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/) | 2025-03-30 | 网页 | 综述, 网页导航 |
+| [GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2412-13501/) | 2024-12-18 | 跨平台 | 综述 |
+| [Large Language Model-Brained GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2411-18279/) | 2024-11-27 | 跨平台 | 综述 |
+| [A Survey on (M)LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2504-13865/) | 2025-03-27 | 跨平台 | 综述 |
+| [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://awesomecua.com/resources/arxiv-2505-10924/) | 2025-05-16 | 跨平台 | 综述, 安全与防护 |
+
+## 常见问题
+
+### 最新的综述有哪些？
+
+按记录日期，最新的综述是 [GUI Grounding for Computer-Use Agents: A Survey](https://awesomecua.com/resources/url-0579bd92efb87b26cb15/)（2026-11-04）、[Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://awesomecua.com/resources/arxiv-2610-30108/)（2026-10-21）和 [Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory](https://awesomecua.com/resources/arxiv-2610-19366/)（2026-10-14）。
+
+### 综述最常涉及哪些主题？
+
+最常见的主题标签是评测（13 篇）、安全与防护（9 篇）、规划（7 篇）、自动化（7 篇）。一篇综述可带多个主题标签。
+
+### 目录中被提及最多的综述有哪些？
+
+[A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://awesomecua.com/resources/arxiv-2501-16150/)（2 条记录）、[A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/)（2 条记录）和 [GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2412-13501/)（2 条记录）在其他目录记录的已审核来源中被提及最多。
+
+### 这些综述覆盖哪些平台？
+
+在 37 条已审核综述中，跨平台 13 条、网页 7 条、桌面 2 条、手机 2 条；17 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ---
 

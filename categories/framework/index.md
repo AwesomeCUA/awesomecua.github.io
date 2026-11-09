@@ -1,10 +1,45 @@
 # Computer-use agent frameworks
 
+Frameworks are libraries and SDKs for building, running, evaluating or training computer-use agents, from browser-automation agent libraries to reinforcement-learning training stacks.
+
 > 638 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/framework/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Framework | Platform | License | Mentions |
+| --- | --- | --- | --- |
+| [Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) | Web | [MIT (code)](https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE) | 54 |
+| [Cua](https://awesomecua.com/resources/github-trycua-cua/) | Desktop | [MIT (code)](https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md) | 40 |
+| [Epic EHR Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/) | Web | [MIT (code)](https://raw.githubusercontent.com/Browser-Automation-Hub/epic-ehr-browser-automation/HEAD/LICENSE) | 13 |
+| [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/) | Desktop | — | 12 |
+| [Midscene.js](https://awesomecua.com/resources/github-web-infra-dev-midscene/) | Cross-platform | [MIT (code)](https://raw.githubusercontent.com/web-infra-dev/midscene/HEAD/LICENSE) | 8 |
+| [Stagehand](https://awesomecua.com/resources/github-browserbase-stagehand/) | Web | [MIT (code)](https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE) | 8 |
+
+## Questions
+
+### Which frameworks are mentioned most in the catalog?
+
+[Browser Use](https://awesomecua.com/resources/github-browser-use-browser-use/) (54 records), [Cua](https://awesomecua.com/resources/github-trycua-cua/) (40 records) and [Epic EHR Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-epic-ehr-browser-automation/) (13 records) are mentioned in the reviewed sources of the most other catalog records.
+
+### Which platforms do these frameworks cover?
+
+Of 638 reviewed frameworks, 443 are tagged web, 298 desktop, 149 cross-platform and 101 mobile; 26 have no platform recorded. An entry tagged with several platforms counts under each.
+
+### Which frameworks come with a research paper?
+
+136 of 638 link the arXiv paper that introduces or documents them, for example [SCALE-CUA (THUDM)](https://awesomecua.com/resources/github-thudm-scale-cua/), [AgentLab](https://awesomecua.com/resources/github-servicenow-agentlab/) and [DigiRL](https://awesomecua.com/resources/github-digirl-agent-digirl/).
+
+### Which licenses do frameworks declare?
+
+The most common declared licenses are MIT (293), Apache-2.0 (151) and AGPL-3.0 (7). 171 of 638 have no declared license in their record.
+
+### How is this list ordered?
+
+By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
 
 ---
 

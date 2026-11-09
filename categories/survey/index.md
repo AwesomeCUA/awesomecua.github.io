@@ -1,10 +1,41 @@
 # Computer-use agent surveys
 
+Surveys are review articles that map computer-use and GUI-agent research: its methods, benchmarks, datasets, safety questions and open problems.
+
 > 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/survey/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/papers.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Survey | Date | Platform | Topics |
+| --- | --- | --- | --- |
+| [A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://awesomecua.com/resources/arxiv-2501-16150/) | 2025-01-27 | Cross-platform | Survey |
+| [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/) | 2025-03-30 | Web | Survey, Web navigation |
+| [GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2412-13501/) | 2024-12-18 | Cross-platform | Survey |
+| [Large Language Model-Brained GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2411-18279/) | 2024-11-27 | Cross-platform | Survey |
+| [A Survey on (M)LLM-Based GUI Agents](https://awesomecua.com/resources/arxiv-2504-13865/) | 2025-03-27 | Cross-platform | Survey |
+| [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://awesomecua.com/resources/arxiv-2505-10924/) | 2025-05-16 | Cross-platform | Survey, Safety & security |
+
+## Questions
+
+### What are the newest surveys?
+
+By recorded date, the newest are [GUI Grounding for Computer-Use Agents: A Survey](https://awesomecua.com/resources/url-0579bd92efb87b26cb15/) (2026-11-04), [Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://awesomecua.com/resources/arxiv-2610-30108/) (2026-10-21) and [Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory](https://awesomecua.com/resources/arxiv-2610-19366/) (2026-10-14).
+
+### Which topics do surveys cover most?
+
+The most common topic tags are Evaluation (13), Safety & security (9), Planning (7) and Automation (7). A survey can carry several topics.
+
+### Which surveys are mentioned most in the catalog?
+
+[A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions](https://awesomecua.com/resources/arxiv-2501-16150/) (2 records), [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.com/resources/arxiv-2503-23350/) (2 records) and [GUI Agents: A Survey](https://awesomecua.com/resources/arxiv-2412-13501/) (2 records) are mentioned in the reviewed sources of the most other catalog records.
+
+### Which platforms do these surveys cover?
+
+Of 37 reviewed surveys, 13 are tagged cross-platform, 7 web, 2 desktop and 2 mobile; 17 have no platform recorded. An entry tagged with several platforms counts under each.
 
 ---
 

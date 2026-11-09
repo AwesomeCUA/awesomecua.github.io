@@ -1,8 +1,43 @@
 # 计算机使用智能体学习资源
 
+学习资源是用于构建和研究计算机使用智能体的课程、实践手册、教程、示例合集和精选列表。
+
 > AwesomeCUA 目录收录 32 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/learning/ · [English](https://awesomecua.com/categories/learning/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 学习资源 | 平台 | 许可证 | 提及 |
+| --- | --- | --- | --- |
+| [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/hcompai/hai-cookbook/HEAD/LICENSE) | 8 |
+| [Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/steel-dev/steel-cookbook/HEAD/LICENSE) | 3 |
+| [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/) | 网页 · 桌面 · 跨平台 | — | 2 |
+| [chromedp examples](https://awesomecua.com/resources/github-chromedp-examples/) | 网页 | — | 2 |
+| [Computer-Use Agents: An Overview of Terminal-Based and GUI-Based Approaches](https://awesomecua.com/resources/github-cdxeve-awesome-computer-use-agents/) | 网页 · 桌面 · 跨平台 | — | 2 |
+| [The TinyFish Cookbook](https://awesomecua.com/resources/github-tinyfish-io-tinyfish-cookbook/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/tinyfish-io/tinyfish-cookbook/HEAD/LICENSE) | 2 |
+
+## 常见问题
+
+### 目录中被提及最多的学习资源有哪些？
+
+[H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)（8 条记录）、[Steel Cookbook](https://awesomecua.com/resources/github-steel-dev-steel-cookbook/)（3 条记录）和 [Awesome Computer Use](https://awesomecua.com/resources/github-philfung-awesome-computer-use/)（2 条记录）在其他目录记录的已审核来源中被提及最多。
+
+### 这些学习资源覆盖哪些平台？
+
+在 32 条已审核学习资源中，网页 25 条、桌面 17 条、跨平台 17 条、手机 4 条；1 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+
+### 哪些学习资源有对应的论文？
+
+32 条中有 1 条链接到提出或说明它的 arXiv 论文，即 [H.AI cookbook](https://awesomecua.com/resources/github-hcompai-hai-cookbook/)。
+
+### 学习资源使用哪些许可证？
+
+最常见的声明许可证是 MIT（9 条）、Apache-2.0（4 条）和 Unlicense（1 条）。32 条中有 18 条未记录声明的许可证。
+
+### 这个列表按什么排序？
+
+按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
 
 ---
 

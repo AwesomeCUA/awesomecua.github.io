@@ -1,8 +1,43 @@
 # 计算机使用智能体数据集
 
+计算机使用数据集提供截图、指令、界面元素标注和动作轨迹，用于训练或评估 GUI 智能体。监督信号从单个元素的定位到完整的多步轨迹不等。
+
 > AwesomeCUA 目录收录 225 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-09T20:03:14Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https://awesomecua.com/categories/dataset/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
+
+## 怎么选
+
+| 数据集 | 平台 | 监督信号 | 规模 | 许可证 |
+| --- | --- | --- | --- | --- |
+| [ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/) | 桌面 | GUI grounding | [1,581 target annotations](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) | [mit（数据）](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md) |
+| [OS-Genesis](https://awesomecua.com/resources/github-os-copilot-os-genesis/) | 跨平台 | reverse task synthesis, GUI action trajectories | — | — |
+| [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) | 手机 | interactive-element grounding, screen and element functionality descriptions | [> 104,000 screenshots](https://arxiv.org/abs/2407.17490v1) | [cc-by-4.0（数据）](https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md) |
+| [Holo4 Trajectories](https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/) | 网页 · 桌面 · 手机 · 跨平台 | — | — | [apache-2.0（数据）](https://huggingface.co/datasets/Hcompany/trajectories) |
+| [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) | 桌面 | UI element bounding boxes, element text or short descriptions | [51,175 screenshot-annotation file pairs](https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data) | [mit（数据）](https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md) |
+| [GUI-Actor data](https://awesomecua.com/resources/url-66096ad4057a3d3726f5/) | — | GUI grounding with bounding-box supervision | — | — |
+
+## 常见问题
+
+### 目录中被提及最多的数据集有哪些？
+
+[ScreenSpot-Pro data](https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/)（12 条记录）、[OS-Genesis](https://awesomecua.com/resources/github-os-copilot-os-genesis/)（11 条记录）和 [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/)（7 条记录）在其他目录记录的已审核来源中被提及最多。
+
+### 这些数据集覆盖哪些平台？
+
+在 225 条已审核数据集中，网页 93 条、手机 67 条、桌面 66 条、跨平台 31 条；27 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+
+### 哪些数据集记录了监督信号和规模？
+
+225 条数据集中有 125 条附有数据集档案，记录监督信号、模态、格式、划分以及带单位的计数。最常见的监督信号是 element grounding（6 条）、agent-generated trajectories（5 条）和 interaction trajectories（4 条）。[数据集对比页](https://awesomecua.com/compare/datasets/)可逐项比较。
+
+### 数据集使用哪些许可证？
+
+最常见的声明许可证是 Apache-2.0（59 条）、MIT（35 条）和 CC-BY-4.0（32 条）。225 条中有 68 条未记录声明的许可证。
+
+### 这个列表按什么排序？
+
+按在已审核来源中提及该条目的目录记录数排序，多者在前，数量相同时按名称排序。列表上方的排序菜单可切换为 A–Z。
 
 ---
 

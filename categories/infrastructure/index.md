@@ -1,10 +1,45 @@
 # Computer-use agent infrastructure
 
+Infrastructure covers the browsers, sandboxes, virtual machines, emulators and input-automation libraries that computer-use agents run inside or act through.
+
 > 101 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T20:03:14Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+## How to choose
+
+| Infrastructure resource | Platform | License | Mentions |
+| --- | --- | --- | --- |
+| [Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE) | 10 |
+| [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) | Desktop | — | 8 |
+| [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) | Mobile | [Apache-2.0 (code)](https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE) | 7 |
+| [E2B Desktop](https://awesomecua.com/resources/github-e2b-dev-desktop/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE) | 6 |
+| [Steel Browser](https://awesomecua.com/resources/github-steel-dev-steel-browser/) | Web | [Apache-2.0 (code)](https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/LICENSE) | 4 |
+| [E2B](https://awesomecua.com/resources/github-e2b-dev-e2b/) | Desktop | [Apache-2.0 (code)](https://raw.githubusercontent.com/e2b-dev/E2B/HEAD/LICENSE) | 3 |
+
+## Questions
+
+### Which infrastructure resources are mentioned most in the catalog?
+
+[Playwright](https://awesomecua.com/resources/github-microsoft-playwright/) (10 records), [PyAutoGUI](https://awesomecua.com/resources/github-asweigart-pyautogui/) (8 records) and [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/) (7 records) are mentioned in the reviewed sources of the most other catalog records.
+
+### Which platforms do these infrastructure resources cover?
+
+Of 101 reviewed infrastructure resources, 66 are tagged desktop, 51 web, 18 mobile and 8 cross-platform; 1 has no platform recorded. An entry tagged with several platforms counts under each.
+
+### Which infrastructure resources come with a research paper?
+
+7 of 101 link the arXiv paper that introduces or documents them, for example [AndroidEnv](https://awesomecua.com/resources/github-google-deepmind-android-env/), [GUI Exploration Lab](https://awesomecua.com/resources/github-summoneryhl-gelab-engine/) and [OpenMobile-2 extended Android AVDs](https://awesomecua.com/resources/url-f039da43799772645c92/).
+
+### Which licenses do infrastructure resources declare?
+
+The most common declared licenses are MIT (34), Apache-2.0 (27) and AGPL-3.0 (4). 34 of 101 have no declared license in their record.
+
+### How is this list ordered?
+
+By the number of catalog records whose reviewed sources mention each entry, most first, then by name. The sort menu above the list switches to A–Z.
 
 ---
 
