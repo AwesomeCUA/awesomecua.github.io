@@ -1,10 +1,69 @@
 # Computer-use research library, page 1 of 29
 
-> Reviewed computer-use papers and surveys 1 to 60 of 1,690, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
+> Reviewed computer-use papers and surveys 1 to 60 of 1,718, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
 
 HTML page: https://awesomecua.com/papers/ · [Next page](https://awesomecua.com/papers/page/2/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## GUI Grounding for Computer-Use Agents: A Survey
+
+A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.
+
+- Catalog URL: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/
+- Original source: https://doi.org/10.20944/preprints202611.0431.v1
+- Kind: survey
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: survey, grounding, evaluation, screen-understanding
+- Evidence checked: 2026-11-09T08:07:52Z
+- ID: url:0579bd92efb87b26cb15
+
+### Limitations
+
+The survey compares representative methods across target types, instruction complexity, and interaction requirements. It describes a shift toward intent understanding, dynamic interfaces, and spatial parameter prediction.
+
+- Record JSON: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/record.json
+
+### Authors
+
+Lizheng Zu, Ke Huang, Gang Xu, Jingfan Fan, Baoyuan Wu, Shengfeng He, Hehe Fan, Xiangyu Xu, Chun Li, Yanshan Li, Shihui Ying, Junchi Yan, Bingyi Jing, Ming Li, Zheng Zhu
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/citation.csl.json
+
+### Publication record
+
+- Title: GUI Grounding for Computer-Use Agents: A Survey
+- Authors: Lizheng Zu, Ke Huang, Gang Xu, Jingfan Fan, Baoyuan Wu, Shengfeng He, Hehe Fan, Xiangyu Xu, Chun Li, Yanshan Li, Shihui Ying, Junchi Yan, Bingyi Jing, Ming Li, Zheng Zhu
+- Publication date (recorded precision): 2026-11-04
+- Publication source: https://doi.org/10.20944/preprints202611.0431.v1
+- Publication BibTeX: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/publication-citation.csl.json
+- venue: Preprints.org
+- publisher: MDPI AG
+- doi: 10.20944/preprints202611.0431.v1
+- date basis: Crossref issued date 2026-11-4; precision=day.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
+- Publication evidence: https://api.crossref.org/works/10.20944/preprints202611.0431.v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.20944/preprints202611.0431.v1 (retrieved 2026-11-09T08:05:56Z; SHA-256 57f0465ea60e3e2dd9f866c9aa92990d2ae1b730402f08357da70067aebc36a4)
+- https://api.crossref.org/works/10.20944/preprints202611.0431.v1 (retrieved 2026-11-09T08:07:52Z; SHA-256 57f0465ea60e3e2dd9f866c9aa92990d2ae1b730402f08357da70067aebc36a4)
 
 ---
 
@@ -3072,56 +3131,4 @@ Advait Gupta, Sachin Konan, Tom Yin, Gabriel Sarch, Zhuang Liu
 ### Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2610.16402%2C2610.16998%2C2610.25503%2C2610.31494%2C2610.34724%2C2610.38438%2C2610.41460%2C2611.00169%2C2611.00881%2C2611.00884%2C2611.00926%2C2611.03930&max_results=12 (retrieved 2026-11-05T21:14:44Z; SHA-256 b139108d48a4a5767b7fc2ddc45ec9c3698b12687eb930094976c7f9b275c297)
-- https://export.arxiv.org/api/query?id_list=2610.22448%2C2610.22686%2C2610.23857%2C2610.24451%2C2610.24453%2C2610.24729%2C2610.25503%2C2610.25601%2C2610.26679%2C2610.27205%2C2610.27645%2C2610.27861%2C2610.27954%2C2610.28601%2C2610.28610%2C2610.28679%2C2610.29139%2C2610.29609%2C2610.30108%2C2610.30181%2C2610.30202%2C2610.30573%2C2610.30792%2C2610.31107%2C2610.31162%2C2610.31274%2C2610.31307%2C2610.31404%2C2610.31494%2C2610.31698%2C2610.31712%2C2610.31846%2C2610.32223%2C2610.32441%2C2610.32482%2C2610.32536%2C2610.33528%2C2610.33568%2C2610.33636%2C2610.33645%2C2610.33702%2C2610.33907%2C2610.34167%2C2610.34241%2C2610.34384%2C2610.34577%2C2610.34582%2C2610.34634%2C2610.34649%2C2610.34724&max_results=50 (retrieved 2026-11-05T23:03:23Z; SHA-256 2822f711f79353d5d16a9fb58020f4944c49f35477b25fb78ee0e21ddc4f5e01)
-
----
-
-## Subgoal-aware Memory Graph for GUI Agent
-
-Proposes a subgoal-aware memory graph that turns past mobile GUI agent trajectories into reusable evidence for decisions across tasks.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2610-31307/
-- Original source: https://arxiv.org/abs/2610.31307
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: unspecified
-- Topics: memory, mobile-navigation, long-horizon, interaction-history
-- Evidence checked: 2026-11-05T23:03:23Z
-- ID: arxiv:2610.31307
-
-### Limitations
-
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Evaluation is reported on SPA-Bench.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2610-31307/record.json
-
-### Authors
-
-Dezhao Luo, Daniel Beechey, Derek Yuen, Weilin Luo
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2610-31307/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2610-31307/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2610.31307v1
-- First submission: 2026-10-22T14:06:00Z
-- Version updated: 2026-10-22T14:06:00Z
-- Abstract SHA-256: a0f0ebf3e08e8c279c1d62ae785fc16ebec823282ad396b97cfdf5a08aac9891
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22+OR+ti%3AGUI+OR+ti%3A%22Android+agent%22+OR+abs%3A%22computer-use+agents%22+OR+abs%3A%22GUI+agents%22+OR+abs%3A%22browser+agents%22+OR+abs%3A%22mobile+GUI%22+OR+abs%3A%22web+navigation%22+OR+abs%3AAndroidWorld+OR+abs%3AMind2Web%29+AND+submittedDate%3A%5B202610090000+TO+202610230000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-23T13:28:11Z; SHA-256 4a33c80b1036aa166001550d487c3c4babc2c502b81ca09f6e0eb3274f948b30)
 - https://export.arxiv.org/api/query?id_list=2610.22448%2C2610.22686%2C2610.23857%2C2610.24451%2C2610.24453%2C2610.24729%2C2610.25503%2C2610.25601%2C2610.26679%2C2610.27205%2C2610.27645%2C2610.27861%2C2610.27954%2C2610.28601%2C2610.28610%2C2610.28679%2C2610.29139%2C2610.29609%2C2610.30108%2C2610.30181%2C2610.30202%2C2610.30573%2C2610.30792%2C2610.31107%2C2610.31162%2C2610.31274%2C2610.31307%2C2610.31404%2C2610.31494%2C2610.31698%2C2610.31712%2C2610.31846%2C2610.32223%2C2610.32441%2C2610.32482%2C2610.32536%2C2610.33528%2C2610.33568%2C2610.33636%2C2610.33645%2C2610.33702%2C2610.33907%2C2610.34167%2C2610.34241%2C2610.34384%2C2610.34577%2C2610.34582%2C2610.34634%2C2610.34649%2C2610.34724&max_results=50 (retrieved 2026-11-05T23:03:23Z; SHA-256 2822f711f79353d5d16a9fb58020f4944c49f35477b25fb78ee0e21ddc4f5e01)

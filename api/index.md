@@ -2,7 +2,7 @@
 
 > Versioned JSON and CSV files for agents and scripts: curated resources and papers, categories, recent changes and clearly flagged unreviewed candidates, regenerated with every catalog snapshot. No key or account is needed.
 
-Base URL: https://awesomecua.com/api/v1/ · Version 1.0.0 · Snapshot 2026-11-09T06:16:40Z · HTML page: https://awesomecua.com/api/
+Base URL: https://awesomecua.com/api/v1/ · Version 1.0.0 · Snapshot 2026-11-09T08:07:59Z · HTML page: https://awesomecua.com/api/
 
 - [API index](https://awesomecua.com/api/v1/index.json): endpoints with counts, byte sizes and SHA-256
 - [JSON Schema](https://awesomecua.com/api/v1/schema.json): validate a file against `$defs/<name>`
@@ -10,10 +10,10 @@ Base URL: https://awesomecua.com/api/v1/ · Version 1.0.0 · Snapshot 2026-11-09
 ## Endpoints
 
 - [resources.json](https://awesomecua.com/api/v1/resources.json) ([CSV](https://awesomecua.com/api/v1/resources.csv)), 2,869 items: Curated resources other than papers: models, datasets, benchmarks, agents, frameworks, infrastructure, tools, products, publishers and learning resources.
-- [papers.json](https://awesomecua.com/api/v1/papers.json) ([CSV](https://awesomecua.com/api/v1/papers.csv)), 1,690 items: Curated research papers and surveys, with authors, recorded publication dates, arXiv versions and citation files.
+- [papers.json](https://awesomecua.com/api/v1/papers.json) ([CSV](https://awesomecua.com/api/v1/papers.csv)), 1,718 items: Curated research papers and surveys, with authors, recorded publication dates, arXiv versions and citation files.
 - [categories.json](https://awesomecua.com/api/v1/categories.json) ([CSV](https://awesomecua.com/api/v1/categories.csv)), 47 items: Resource kinds and research topics with curated counts and links to their pages, Markdown and data.
-- [changes.json](https://awesomecua.com/api/v1/changes.json) ([CSV](https://awesomecua.com/api/v1/changes.csv)), 6,653 items: Catalog events in the 30 days before the snapshot: editorial reviews, new bibliography records and scope exclusions.
-- [candidates.json](https://awesomecua.com/api/v1/candidates.json) ([CSV](https://awesomecua.com/api/v1/candidates.csv)), 650 items: UNREVIEWED rows, clearly flagged: bibliography records awaiting relevance review and discovered identifiers awaiting any review. Not part of the curated catalog.
+- [changes.json](https://awesomecua.com/api/v1/changes.json) ([CSV](https://awesomecua.com/api/v1/changes.csv)), 6,681 items: Catalog events in the 30 days before the snapshot: editorial reviews, new bibliography records and scope exclusions.
+- [candidates.json](https://awesomecua.com/api/v1/candidates.json) ([CSV](https://awesomecua.com/api/v1/candidates.csv)), 587 items: UNREVIEWED rows, clearly flagged: bibliography records awaiting relevance review and discovered identifiers awaiting any review. Not part of the curated catalog.
 
 ## Identity
 

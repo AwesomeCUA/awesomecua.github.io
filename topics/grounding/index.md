@@ -6,6 +6,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
 
 ## Papers & surveys
 
+- [GUI Grounding for Computer-Use Agents: A Survey](https://awesomecua.com/resources/url-0579bd92efb87b26cb15/) — 2026-11-04
+  A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.
 - [UI-UG 2: Advancing Mobile UI Understanding and Generation with Fine-Grained Supervision and Reinforcement Learning](https://awesomecua.com/resources/arxiv-2611-00926/) — 2026-10-31
   Introduces UI-UG 2, a mobile UI model trained for component understanding, GUI grounding, and structured interface generation with render-aware RL.
 - [Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](https://awesomecua.com/resources/arxiv-2610-39264/) — 2026-10-29
@@ -92,6 +94,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Introduces CA-OPD, a confidence-guided distillation method for visual prediction, evaluated on GUI grounding and optical character recognition benchmarks.
 - [Are We There Yet? Assessing Computer-Use Agents for Blind Users' Accessible Interaction with Desktop Applications](https://awesomecua.com/resources/arxiv-2609-00524/) — 2026-09-01
   A diary study deploys the screen-reader-accessible OLLA computer-use prototype with blind users across desktop applications. Recorded commands and interaction traces support model comparisons and analysis of grounding, planning, constraint tracking and termination failures.
+- [Focus Like a Human: Efficient GUI Grounding via Coarse-to-Fine Visual Attention and Parallel Verification](https://awesomecua.com/resources/url-85cad9e7962668786093/) — 2026-09
+  FastFocus grounds GUI targets by proposing regions from low-resolution views and checking candidates with parallel high-resolution zooms; it is evaluated on ScreenSpot-Pro.
 - [Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents](https://awesomecua.com/resources/arxiv-2608-27866/) — 2026-08-28
   Introduces Iron, a GUI-agent training framework that aligns low-level actions with high-level intent using cycle-consistency rewards. It also repurposes failed trajectories through hindsight reconstruction and evaluates transfer to other digital tasks.
 - [GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding](https://awesomecua.com/resources/arxiv-2608-21832/) — 2026-08-22
@@ -120,6 +124,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Tactile turns accessibility, OCR and visual evidence into explicit desktop targets with executable actions and verification cues. Its execution loop chooses semantic actions or coordinate fallbacks while retaining provenance for replay and diagnosis.
 - [MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation](https://awesomecua.com/resources/arxiv-2607-10079/) — 2026-07-11
   MAG jointly evaluates browser task actions and user-facing guides grounded in screenshots through element marks or pixel coordinates. Its harness covers annotation, live evaluation and joint metrics, with an expert-trajectory-augmented GRPO training study.
+- [Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing](https://awesomecua.com/resources/url-39f88102e1659647b1a0/) — 2026-06-30
+  Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.
 - [DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching](https://awesomecua.com/resources/arxiv-2606-31980/) — 2026-06-30
   DigitalCoach records expert–novice software coaching conversations aligned with screen and input events. Automated and interactive evaluations examine how model coaches differ from humans in explanation, error diagnosis and visual grounding when helping a learner operate software.
 - [LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents](https://awesomecua.com/resources/arxiv-2606-30697/) — 2026-06-29
@@ -216,6 +222,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Formalizes a visual confused-deputy failure in which a computer agent acts on a misperceived UI object. A separate guardrail checks both the visual target and the agent's action reasoning against deployment-specific knowledge before permitting execution.
 - [Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements](https://awesomecua.com/resources/arxiv-2603-14448/) — 2026-03-15
   Presents ZoomUI, a training-free grounding method that expresses instructions as visual element descriptions and uses model attention to zoom progressively into relevant interface regions. Evaluation examines instruction-to-element localization on GUI benchmarks.
+- [FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning](https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/) — 2026-03-14
+  FDC-Ground trains GUI element location models with a distance-based reward and completion pruning; a 7B model is evaluated on ScreenSpot and ScreenSpot-v2.
 - [Adaptive Vision-Language Model Routing for Computer Use Agents](https://awesomecua.com/resources/arxiv-2603-12823/) — 2026-03-13
   Adaptive VLM Routing estimates GUI-action difficulty and small-model confidence to select a model under a predicted reliability threshold. Grounding and agent-routing benchmarks assess the cost–accuracy trade-off, with prior interaction context used for warm agents.
 - [WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces](https://awesomecua.com/resources/arxiv-2603-05295/) — 2026-03-05
@@ -260,6 +268,12 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   GUI-Eyes trains GUI grounders to decide when and how to use visual tools such as crops and zooms. Its coarse-to-fine policy uses dense spatial rewards based on location proximity and region overlap, with evaluation on ScreenSpot-Pro.
 - [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](https://awesomecua.com/resources/arxiv-2601-03928/) — 2026-01-07
   FocusUI selects instruction-relevant screenshot patches while preserving their positional structure for GUI grounding. Its PosPad scheme replaces runs of dropped tokens with positional markers and is evaluated under reduced token budgets.
+- [Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding](https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/) — 2026
+  Trace2Ground builds a web GUI grounding dataset from HTML/DOM elements and simulated traces, testing scenario, duplicate-label, and relational instructions.
+- [Look Where You’re Told: Instruction-Consistent Attention for GUI Grounding](https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/) — 2026
+  Attention Cycle-Consistency trains GUI element grounding with semantic and spatial alignment constraints, while removing its auxiliary components at inference.
+- [Do GUI Grounders Truly Understand UI Elements?](https://awesomecua.com/resources/url-16f4a8903de0f90d3638/) — 2026
+  A desktop GUI grounding benchmark tests whether models identify the same element across varied descriptions; a diagnosis agent generates difficult instructions using model feedback.
 - [ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands](https://awesomecua.com/resources/arxiv-2512-24965/) — 2025-12-31
   Models discrete clicks and continuous drags with flow-based action generation, and introduces drag trajectories and the ScreenDrag benchmark.
 - [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://awesomecua.com/resources/arxiv-2512-22009/) — 2025-12-26
@@ -286,6 +300,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Introduces MEGA-GUI, which separates coarse region selection from fine-grained interface-element grounding. Bidirectional zooming and context-aware instruction rewriting coordinate specialized vision-language agents across visual scales.
 - [Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents](https://awesomecua.com/resources/arxiv-2511-10705/) — 2025-11-13
   Co-EPG alternates reinforcement learning for a planner with updates to a grounding model using generated training examples. The evolving grounder provides feedback to the planner, and evaluation uses Multimodal Mind2Web and AndroidControl.
+- [An Efficient Training Pipeline for Reasoning Graphical User Interface Agents](https://awesomecua.com/resources/arxiv-2511-08172/) — 2025-11-11
+  A GUI grounding pipeline filters 4.8M synthetic examples to 12K training instances and adapts a 3B vision-language model, evaluated on ScreenSpot, Multimodal-Mind2Web, and AndroidControl.
 - [Grounding Computer Use Agents on Human Demonstrations](https://awesomecua.com/resources/arxiv-2511-07332/) — 2025-11-10
   GroundCUA turns expert desktop demonstrations into densely annotated screenshots and grounding instructions. The GroundNext model family uses this supervision and subsequent reinforcement learning, with both grounding benchmarks and an OSWorld agent configuration used for evaluation.
 - [AUTO-Explorer: Automated Data Collection for GUI Agent](https://awesomecua.com/resources/arxiv-2511-06417/) — 2025-11-09
@@ -470,6 +486,8 @@ Full source records: https://awesomecua.com/downloads/topics/grounding/records.j
   Studies a screenshot-driven native GUI model with unified actions, deliberate reasoning, and iterative training on interaction traces.
 - [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://awesomecua.com/resources/arxiv-2501-04575/) — 2025-01-08
   Uses staged supervised training to combine GUI understanding and grounding with hierarchical reasoning and expectation-based reflection.
+- [INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent](https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/) — 2025
+  InReAct trains a multimodal GUI agent with staged curriculum learning and outcome-based reinforcement learning for pixel-level grounding and navigation.
 - [Aria-UI: Visual Grounding for GUI Instructions](https://awesomecua.com/resources/arxiv-2412-16256/) — 2024-12-20
   Introduces a vision-based grounding model trained with diverse synthetic instructions and action histories for context-sensitive GUI targeting.
 - [Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning](https://awesomecua.com/resources/arxiv-2412-10840/) — 2024-12-14

@@ -126,6 +126,8 @@ Full source records: https://awesomecua.com/downloads/topics/interaction-history
   Me-Agent personalizes mobile agent behavior through a preference reward model and hierarchical memory for long-term and app-specific habits, and introduces User FingerTip.
 - [Compress to Focus: Efficient Coordinate Compression for Policy Optimization in Multi-Turn GUI Agents](https://awesomecua.com/resources/arxiv-2601-11631/) — 2026-01-14
   CCPO couples GUI policy optimization with coordinate-guided compression of past visual observations. It aggregates targets across rollouts to focus retained context and uses distance-based advantages to train grounding and compression together.
+- [Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding](https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/) — 2026
+  Trace2Ground builds a web GUI grounding dataset from HTML/DOM elements and simulated traces, testing scenario, duplicate-label, and relational instructions.
 - [AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://awesomecua.com/resources/arxiv-2512-10371/) — 2025-12-11
   Introduces AgentProg, organizing mobile-agent interaction history as a program with variables and control flow to decide what context to retain. A global belief state handles partial observability, with evaluation on AndroidWorld and extended long-horizon tasks.
 - [HiconAgent: History Context-aware Policy Optimization for GUI Agents](https://awesomecua.com/resources/arxiv-2512-01763/) — 2025-12-01

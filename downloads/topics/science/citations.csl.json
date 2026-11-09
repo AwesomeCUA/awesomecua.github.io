@@ -230,6 +230,89 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.17839v1",
+    "archive": "arXiv",
+    "archive_location": "2505.17839",
+    "author": [
+      {
+        "literal": "Tim Rosenbach"
+      },
+      {
+        "literal": "David Heidrich"
+      },
+      {
+        "literal": "Alexander Weinert"
+      }
+    ],
+    "citation-key": "arxiv_2505_17839",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7944dbed8bea0cf56bcc58737a7af46e21c37cfd242be215c136256f8620ed0c",
+        "submitted_at": "2025-05-23T12:53:28Z",
+        "updated_at": "2025-05-23T12:53:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.17839v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.17839",
+      "catalog_id": "arxiv:2505.17839",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "record",
+      "first_published_at": "2025-05-23",
+      "identifiers": {
+        "arxiv": "2505.17839"
+      },
+      "publication": {
+        "authors": [
+          "Tim Rosenbach",
+          "David Heidrich",
+          "Alexander Weinert"
+        ],
+        "date_basis": "Crossref issued date 2025-3-31; precision=day.",
+        "date_parts": [
+          2025,
+          3,
+          31
+        ],
+        "doi": "10.1109/icstw64639.2025.10962502",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1109/icstw64639.2025.10962502"
+        ],
+        "identity_basis": "Same work as the retained arXiv record: matching title and authors, and the arXiv journal reference and DOI name this ICSTW 2025 edition.",
+        "issue": null,
+        "notes": "IEEE ICSTW 2025 workshop edition of the arXiv preprint, whose journal reference and DOI name this edition; Crossref links the DOI to IEEE Xplore document 10962502.",
+        "pages": "103-110",
+        "pdf_url": null,
+        "publisher": "IEEE",
+        "series": null,
+        "title": "Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10962502",
+        "venue": "2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.17839",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-23; Recorded arXiv version: v1; Recorded version updated: 2025-05-23T12:53:28Z.",
+    "title": "Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.19897v3",
     "archive": "arXiv",
     "archive_location": "2505.19897",

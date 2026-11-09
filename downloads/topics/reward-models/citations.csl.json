@@ -5082,5 +5082,86 @@
     "title": "Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps",
     "type": "article",
     "version": "1"
+  },
+  {
+    "DOI": "10.1609/aaai.v40i33.40038",
+    "URL": "https://ojs.aaai.org/index.php/AAAI/article/view/40038",
+    "author": [
+      {
+        "literal": "Xiangjian Zeng"
+      },
+      {
+        "literal": "Wenjing Li"
+      },
+      {
+        "literal": "Qingqiang Wu"
+      },
+      {
+        "literal": "Liang Zhang"
+      }
+    ],
+    "citation-key": "cua_655fa9037015b3130301ce81",
+    "container-title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "custom": {
+      "canonical_source_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40038",
+      "catalog_id": "url:2eaafb0b5ecde3babbf1",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2026-03-14",
+      "identifiers": {
+        "doi": "10.1609/aaai.v40i33.40038"
+      },
+      "publication": {
+        "authors": [
+          "Xiangjian Zeng",
+          "Wenjing Li",
+          "Qingqiang Wu",
+          "Liang Zhang"
+        ],
+        "date_basis": "Crossref issued date 2026-3-14; precision=day.",
+        "date_parts": [
+          2026,
+          3,
+          14
+        ],
+        "doi": "10.1609/aaai.v40i33.40038",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1609/aaai.v40i33.40038"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": "33",
+        "notes": "AAAI-26 proceedings article; Crossref deposits it as a journal article in Proceedings of the AAAI Conference on Artificial Intelligence.",
+        "pages": "28122-28130",
+        "pdf_url": null,
+        "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+        "series": null,
+        "title": "FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning",
+        "type": "conference-paper",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40038",
+        "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "volume": "40"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:2eaafb0b5ecde3babbf1",
+    "issue": "33",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          14
+        ]
+      ]
+    },
+    "note": "Publication date: 2026-03-14.",
+    "page": "28122-28130",
+    "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+    "title": "FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning",
+    "type": "paper-conference",
+    "volume": "40"
   }
 ]

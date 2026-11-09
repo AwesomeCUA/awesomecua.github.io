@@ -166,12 +166,18 @@ Full source records: https://awesomecua.com/downloads/topics/human-in-the-loop/r
   Defines when phone agents should request user interaction and introduces AndroidInteraction annotations for deciding whether and how to engage the user.
 - [COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation](https://awesomecua.com/resources/arxiv-2503-09263/) — 2025-03-12
   Coordinates specialized Windows UI agents with dynamic task scheduling, shared memory, and human-triggered rollback for recovering from errors.
+- [Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution](https://awesomecua.com/resources/url-2af250798e99e7af01ce/) — 2025-03-10
+  A web navigation framework uses user-specific task representations and interactive reasoning to adapt agent workflows to preferences, with task success and satisfaction as evaluation measures.
 - [OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](https://awesomecua.com/resources/arxiv-2503-16465/) — 2025-02-26
   Uses step-level confidence estimates to decide when a GUI agent should act autonomously or request human intervention in complex situations.
 - [Towards Computer-Using Personal Agents](https://awesomecua.com/resources/arxiv-2503-15515/) — 2025-01-31
   Proposes computer-using personal agents connected to user-controlled data repositories, discussing privacy, interoperability, and collaborative tasks.
 - [CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://awesomecua.com/resources/arxiv-2501-16609/) — 2025-01-28
   Introduces CowPilot, a web-navigation framework where agents suggest actions and users can pause, reject, override, or resume them. It evaluates autonomous and collaborative use through task success and human effort.
+- [Operator System Card](https://awesomecua.com/resources/url-24bc39ed487b311108ae/) — 2025-01-23
+  The Operator system card describes a browser agent trained to act from screenshots and details evaluations, risk policies, user confirmations, and monitoring for web tasks.
+- [MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information](https://awesomecua.com/resources/url-3fdea133115518f9205a/) — 2025
+  MemAgent adds a cache for task-specific information to conversational web agents, separating information gathering from execution across 150 web tasks.
 - [WebOlympus: An Open Platform for Web Agents on Live Websites](https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/) — 2024-11
   Presents WebOlympus, an open platform that runs web agents on live websites from a few lines of code or a Chrome extension, with a safety monitor that blocks harmful actions through human or model checks.
 - [Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface](https://awesomecua.com/resources/arxiv-2410-00079/) — 2024-09-30

@@ -1,6 +1,6 @@
 # Computer-use agent products
 
-> 70 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T06:16:40Z.
+> 70 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T08:07:58Z.
 
 HTML page: https://awesomecua.com/categories/product/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

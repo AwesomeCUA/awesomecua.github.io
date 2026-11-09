@@ -116,6 +116,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Introduces StateM, a stateful runtime with checked transitions and reusable runbooks for long-horizon agents; its reported evaluations use terminal and business tasks.
 - [SkillLens: Visual Skill Cards for Retrieval-Augmented GUI Action Prediction and On-Policy Distillation](https://awesomecua.com/resources/arxiv-2608-10775/) — 2026-08-11
   Introduces SkillLens visual skill cards for retrieved GUI action guidance and CardDistill for training an action-prediction student that runs without retrieval on website tasks.
+- [SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks](https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/) — 2026-08-08
+  SkillTracer maps web agent skills to inspectable plan graphs, uses interaction traces to locate failures, and refines reusable skills across long tasks and episodes.
 - [SynChain: Inducing Computer-Use Agent Systems to Construct Their Own Attack Chains](https://awesomecua.com/resources/arxiv-2608-06862/) — 2026-08-07
   Introduces SynChain, an attack that induces persistent agents to create poisoned skills or memory entries, and CUAChain for evaluating later attack-chain activation.
 - [MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents](https://awesomecua.com/resources/arxiv-2608-06745/) — 2026-08-07
@@ -384,6 +386,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   R2D2 gives web agents a replay-buffer map of visited pages and a reflection step for analyzing errors and revising navigation strategies.
 - [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://awesomecua.com/resources/arxiv-2501-11733/) — 2025-01-20
   Uses hierarchical mobile agents and persistent tips and reusable action shortcuts to improve complex tasks from accumulated experience.
+- [MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information](https://awesomecua.com/resources/url-3fdea133115518f9205a/) — 2025
+  MemAgent adds a cache for task-specific information to conversational web agents, separating information gathering from execution across 150 web tasks.
 - [Aria-UI: Visual Grounding for GUI Instructions](https://awesomecua.com/resources/arxiv-2412-16256/) — 2024-12-20
   Introduces a vision-based grounding model trained with diverse synthetic instructions and action histories for context-sensitive GUI targeting.
 - [VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks](https://awesomecua.com/resources/arxiv-2410-19100/) — 2024-10-24
@@ -420,6 +424,8 @@ Full source records: https://awesomecua.com/downloads/topics/memory/records.json
   Builds app knowledge through exploration or human demonstrations and uses it to guide multimodal smartphone interactions.
 - [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://awesomecua.com/resources/arxiv-2312-03003/) — 2023-12-04
   Introduces MobileGPT, which organizes mobile-app experience into reusable subtasks using an explore, select, derive, and recall cycle. Its memory supports learning task procedures and adapting them to new contexts.
+- [Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2311-08649/) — 2023-11-15
+  DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.
 - [Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions](https://awesomecua.com/resources/arxiv-2310-15780/) — 2023-10-24
   Introduces GPTDroid for mobile GUI testing: it feeds app page information to an LLM, runs generated test scripts and uses feedback and memory to guide further exploration.
 - [AutoDroid: LLM-powered Task Automation in Android](https://awesomecua.com/resources/arxiv-2308-15272/) — 2023-08-29

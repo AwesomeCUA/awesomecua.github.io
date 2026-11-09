@@ -142,6 +142,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Introduces ResTest, which uses coverage reports and a state transition graph to infer untested web functions, then directs a GUI agent to execute them.
 - [LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS](https://awesomecua.com/resources/arxiv-2505-18829/) — 2025-05-24
   AIOS 1.0 exposes computer states and actions through an MCP server to provide structured environmental context for agents. LiteCUA is a lightweight agent built on this interface, evaluated on OSWorld to study the effect of computer-environment contextualization.
+- [Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models](https://awesomecua.com/resources/arxiv-2505-17839/) — 2025-05-23
+  GERALLT uses LLMs to explore the GUI of engineering software and produce a list of confusing or inconsistent interface areas for developers to inspect.
 - [AutoData: A Multi-Agent System for Open Web Data Collection](https://awesomecua.com/resources/arxiv-2505-15859/) — 2025-05-21
   Introduces AutoData, a multi-agent system that collects web datasets from a natural-language request, and Instruct2DS, a benchmark for live collection across three domains.
 - [UFO2: The Desktop AgentOS](https://awesomecua.com/resources/arxiv-2504-14603/) — 2025-04-20
@@ -174,10 +176,14 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Presents a preliminary study of Claude 3.5 Computer Use across desktop tasks and software, analyzing planning, action, and critique behavior and providing a framework for deploying GUI-automation models.
 - [WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models](https://awesomecua.com/resources/arxiv-2411-05451/) — 2024-11-08
   WorkflowLLM builds WorkflowBench from application API workflows and synthetic queries, then trains WorkflowLlama to generate multi-application workflows.
+- [AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation](https://awesomecua.com/resources/url-377f5418e39ff2da971f/) — 2024-10-28
+  AssistEditor coordinates GUI agents to turn video requirements and uploaded materials into storyboards and editing actions in professional desktop software.
 - [AutoGLM: Autonomous Foundation Agents for GUIs](https://awesomecua.com/resources/arxiv-2411-00820/) — 2024-10-28
   Presents AutoGLM agents for browser and phone control, separating planning from grounding and training through an evolving interaction curriculum.
 - [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://awesomecua.com/resources/arxiv-2410-18603/) — 2024-10-24
   Introduces a platform that integrates specialized agents under a coordinating MetaAgent for varied computer tasks.
+- [Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model](https://awesomecua.com/resources/url-83569d30f341f39f4a78/) — 2024-10-18
+  Test-Agent uses an LLM, screenshots, and interface structure to generate and execute mobile app test actions from natural-language instructions across platforms.
 - [AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents](https://awesomecua.com/resources/arxiv-2409-17140/) — 2024-09-25
   Introduces AXIS, an API-first application agent that can use UI actions and expand its available APIs through automated application exploration. The work evaluates the approach on Microsoft Word tasks.
 - [Steward: Natural Language Web Automation](https://awesomecua.com/resources/arxiv-2409-15441/) — 2024-09-23
@@ -186,6 +192,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Frames web-application exploration as functionality-oriented question answering, generating navigation actions from multimodal context.
 - [PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM](https://awesomecua.com/resources/arxiv-2409-09354/) — 2024-09-14
   PeriGuru interprets smartphone GUI screenshots with computer vision and uses a language model to decide the next action. A peripheral robotic arm executes the phone interactions, providing an alternative mechanism for operating mobile apps.
+- [Guardian: A Runtime Framework for LLM-Based UI Exploration](https://awesomecua.com/resources/url-7424d66754ec26d68d83/) — 2024-09-11
+  Guardian guides LLM-driven mobile app testing by narrowing available UI actions and replanning after invalidated actions; it is evaluated on 58 tasks from 23 apps.
 - [OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models](https://awesomecua.com/resources/url-6e436831f76a1337ea8b/) — 2024-08
   Presents OpenWebAgent, a web automation toolkit that pairs a Chrome plugin with an HTML parser and an action generation module, in a modular framework where developers plug in LLMs or LMMs.
 - [IDA: Breaking Barriers in No-code UI Automation Through Large Language Models and Human-Centric Design](https://awesomecua.com/resources/arxiv-2407-15673/) — 2024-07-22
@@ -222,6 +230,8 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Introduces UINav, a demonstration-based method for training mobile UI automation agents, with a referee model for failure feedback and automatic augmentation of examples.
 - [Intelligent Virtual Assistants with LLM-based Process Automation](https://awesomecua.com/resources/arxiv-2312-06677/) — 2023-12-04
   Presents LLMPA, a mobile process-automation architecture that decomposes requests, identifies interface elements, predicts actions and checks errors. Demonstrations evaluate multistep operations in Alipay.
+- [Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2311-08649/) — 2023-11-15
+  DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.
 - [ProAgent: From Robotic Process Automation to Agentic Process Automation](https://awesomecua.com/resources/arxiv-2311-10751/) — 2023-11-02
   Introduces ProAgent, an LLM-based agent that builds automation workflows from human instructions and coordinates specialized agents during workflow execution.
 - [Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions](https://awesomecua.com/resources/arxiv-2310-15780/) — 2023-10-24
@@ -234,12 +244,18 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Introduces CrashTranslator, which predicts GUI exploration steps from stack traces with an LLM and uses RL-guided search to reproduce crashes in Android apps.
 - [AXNav: Replaying Accessibility Tests from Natural Language](https://awesomecua.com/resources/arxiv-2310-02424/) — 2023-10-03
   Introduces an LLM and pixel-based UI system that executes natural-language accessibility tests, records navigable videos and flags potential interface issues.
+- [GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver](https://awesomecua.com/resources/url-ffc05c4425f777924940/) — 2023-09-11
+  A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.
 - [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](https://awesomecua.com/resources/arxiv-2306-01987/) — 2023-06-03
   Introduces AdbGPT, a prompting-based approach that uses LLMs to replay app bugs from written reports, applying few-shot examples and reasoning without model training.
 - [Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators](https://awesomecua.com/resources/arxiv-2306-01242/) — 2023-06-02
   Presents ResponsibleTA, a coordinator-executor framework that checks command feasibility and task completion while using local memory for privacy-related controls. The paper compares prompted and learned implementations and evaluates them on UI task automation.
+- [Task Automation Intelligent Agents: A Review](https://awesomecua.com/resources/url-eb791c465f47690ade31/) — 2023-05-29
+  A literature review examines mobile phone task automation agents, including programming by demonstration and usability heuristics for recurring user tasks.
 - [DroidBot-GPT: GPT-powered UI Automation for Android](https://awesomecua.com/resources/arxiv-2304-07061/) — 2023-04-14
   Transforms Android UI states and available actions into language prompts for an LLM to choose and execute task steps.
+- [Automating GUI-based Software Testing with GPT-3](https://awesomecua.com/resources/url-412c168dd5d0aeded46a/) — 2023-04
+  A GPT-3-based GUI testing method interprets natural-language test cases, tracks current interface elements in prompts, and navigates desktop and mobile applications.
 - [FLAME: A small language model for spreadsheet formulas](https://awesomecua.com/resources/arxiv-2301-13779/) — 2023-01-31
   Introduces FLAME, a model trained on Excel formulas for spreadsheet formula repair, completion and retrieval, supporting formula authoring in spreadsheet software.
 - [Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2212-04732/) — 2022-12-09
@@ -248,6 +264,14 @@ Full source records: https://awesomecua.com/downloads/topics/automation/records.
   Introduces CORNET, a system that learns spreadsheet conditional-formatting rules from cells formatted by users, using symbolic rule enumeration and a neural ranker.
 - [A data-driven approach for learning to control computers](https://awesomecua.com/resources/arxiv-2202-08137/) — 2022-02-16
   Combines reinforcement learning with behavioral priors from human interactions to learn computer control through keyboard and mouse actions.
+- [Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review](https://awesomecua.com/resources/url-b230a6700386b7e2744c/) — 2021
+  A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.
+- [30 Years of Automated GUI Testing: A Bibliometric Analysis](https://awesomecua.com/resources/url-24a139a7910431441e39/) — 2021
+  A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.
+- [From Robotic Process Automation to Intelligent Process Automation: Emerging Trends](https://awesomecua.com/resources/arxiv-2007-13257/) — 2020-07-27
+  A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.
+- [Robotic Process Automation: Contemporary themes and challenges](https://awesomecua.com/resources/url-2574c6eeee264762a990/) — 2020-02
+  A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.
 - [A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications](https://awesomecua.com/resources/arxiv-1812-11470/) — 2018-12-30
   Surveys automated functional GUI testing techniques for mobile apps, comparing the effectiveness, efficiency and practicality of approaches reported in 25 studies.
 - [Rousillon: Scraping Distributed Hierarchical Web Data](https://awesomecua.com/resources/url-97c0b1896525632434e2/) — 2018

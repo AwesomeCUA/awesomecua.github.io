@@ -1,10 +1,62 @@
 # Computer-use research library, page 2 of 29
 
-> Reviewed computer-use papers and surveys 61 to 120 of 1,690, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
+> Reviewed computer-use papers and surveys 61 to 120 of 1,718, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
 
 HTML page: https://awesomecua.com/papers/page/2/ · [Previous page](https://awesomecua.com/papers/index.md) · [Next page](https://awesomecua.com/papers/page/3/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## Subgoal-aware Memory Graph for GUI Agent
+
+Proposes a subgoal-aware memory graph that turns past mobile GUI agent trajectories into reusable evidence for decisions across tasks.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-31307/
+- Original source: https://arxiv.org/abs/2610.31307
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: memory, mobile-navigation, long-horizon, interaction-history
+- Evidence checked: 2026-11-05T23:03:23Z
+- ID: arxiv:2610.31307
+
+### Limitations
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). Evaluation is reported on SPA-Bench.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-31307/record.json
+
+### Authors
+
+Dezhao Luo, Daniel Beechey, Derek Yuen, Weilin Luo
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-31307/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-31307/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.31307v1
+- First submission: 2026-10-22T14:06:00Z
+- Version updated: 2026-10-22T14:06:00Z
+- Abstract SHA-256: a0f0ebf3e08e8c279c1d62ae785fc16ebec823282ad396b97cfdf5a08aac9891
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22+OR+ti%3AGUI+OR+ti%3A%22Android+agent%22+OR+abs%3A%22computer-use+agents%22+OR+abs%3A%22GUI+agents%22+OR+abs%3A%22browser+agents%22+OR+abs%3A%22mobile+GUI%22+OR+abs%3A%22web+navigation%22+OR+abs%3AAndroidWorld+OR+abs%3AMind2Web%29+AND+submittedDate%3A%5B202610090000+TO+202610230000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-23T13:28:11Z; SHA-256 4a33c80b1036aa166001550d487c3c4babc2c502b81ca09f6e0eb3274f948b30)
+- https://export.arxiv.org/api/query?id_list=2610.22448%2C2610.22686%2C2610.23857%2C2610.24451%2C2610.24453%2C2610.24729%2C2610.25503%2C2610.25601%2C2610.26679%2C2610.27205%2C2610.27645%2C2610.27861%2C2610.27954%2C2610.28601%2C2610.28610%2C2610.28679%2C2610.29139%2C2610.29609%2C2610.30108%2C2610.30181%2C2610.30202%2C2610.30573%2C2610.30792%2C2610.31107%2C2610.31162%2C2610.31274%2C2610.31307%2C2610.31404%2C2610.31494%2C2610.31698%2C2610.31712%2C2610.31846%2C2610.32223%2C2610.32441%2C2610.32482%2C2610.32536%2C2610.33528%2C2610.33568%2C2610.33636%2C2610.33645%2C2610.33702%2C2610.33907%2C2610.34167%2C2610.34241%2C2610.34384%2C2610.34577%2C2610.34582%2C2610.34634%2C2610.34649%2C2610.34724&max_results=50 (retrieved 2026-11-05T23:03:23Z; SHA-256 2822f711f79353d5d16a9fb58020f4944c49f35477b25fb78ee0e21ddc4f5e01)
 
 ---
 
@@ -3110,55 +3162,3 @@ Zirui Shang, Yang Liu, Xin Shu, Zhi Gao, Xinxiao Wu, Lifeng Fan
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
-
----
-
-## BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views
-
-Extends BrowseSafe with paired attacked and clean webpages in several representations, and studies text and screenshot detectors plus feedback-adapted prompt injections.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2610-17457/
-- Original source: https://arxiv.org/abs/2610.17457
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: safety-security, evaluation, web-navigation
-- Evidence checked: 2026-10-16T06:33:24Z
-- ID: arxiv:2610.17457
-
-### Limitations
-
-The annotation and scope were reviewed against the primary paper abstract.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2610-17457/record.json
-
-### Authors
-
-Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley, Jerry Ma, Denis Yarats, Ninghui Li
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2610-17457/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2610-17457/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2610.17457v1
-- First submission: 2026-10-12T22:17:51Z
-- Version updated: 2026-10-12T22:17:51Z
-- Abstract SHA-256: 247cd4c9634dea78780a2230138c728adf53871e8b65614697f76ba53dea858c
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
-- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)

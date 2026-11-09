@@ -14,6 +14,728 @@
   ],
   "items": [
     {
+      "id": "https://awesomecua.com/resources/url-24a139a7910431441e39/",
+      "url": "https://awesomecua.com/resources/url-24a139a7910431441e39/",
+      "external_url": "https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34",
+      "title": "30 Years of Automated GUI Testing: A Bibliometric Analysis",
+      "content_text": "A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.",
+      "summary": "A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "survey",
+        "survey",
+        "evaluation",
+        "automation"
+      ],
+      "_awesomecua": {
+        "kind": "survey",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-24a139a7910431441e39/record.json",
+        "markdown": "https://awesomecua.com/resources/url-24a139a7910431441e39/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-e86b3a1454b494224f07/",
+      "url": "https://awesomecua.com/resources/url-e86b3a1454b494224f07/",
+      "external_url": "https://doi.org/10.1145/3832165",
+      "title": "AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents",
+      "content_text": "AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.",
+      "summary": "AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "safety-security",
+        "evaluation",
+        "web-navigation"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-e86b3a1454b494224f07/record.json",
+        "markdown": "https://awesomecua.com/resources/url-e86b3a1454b494224f07/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/arxiv-2511-08172/",
+      "url": "https://awesomecua.com/resources/arxiv-2511-08172/",
+      "external_url": "https://arxiv.org/abs/2511.08172",
+      "title": "An Efficient Training Pipeline for Reasoning Graphical User Interface Agents",
+      "content_text": "A GUI grounding pipeline filters 4.8M synthetic examples to 12K training instances and adapts a 3B vision-language model, evaluated on ScreenSpot, Multimodal-Mind2Web, and AndroidControl.",
+      "summary": "A GUI grounding pipeline filters 4.8M synthetic examples to 12K training instances and adapts a 3B vision-language model, evaluated on ScreenSpot, Multimodal-Mind2Web, and AndroidControl.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "grounding",
+        "data-generation",
+        "efficiency",
+        "reinforcement-learning"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/arxiv-2511-08172/record.json",
+        "markdown": "https://awesomecua.com/resources/arxiv-2511-08172/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-377f5418e39ff2da971f/",
+      "url": "https://awesomecua.com/resources/url-377f5418e39ff2da971f/",
+      "external_url": "https://dl.acm.org/doi/abs/10.1145/3664647.3684998",
+      "title": "AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation",
+      "content_text": "AssistEditor coordinates GUI agents to turn video requirements and uploaded materials into storyboards and editing actions in professional desktop software.",
+      "summary": "AssistEditor coordinates GUI agents to turn video requirements and uploaded materials into storyboards and editing actions in professional desktop software.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "automation",
+        "workflow",
+        "planning",
+        "tool-integration"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "desktop"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-377f5418e39ff2da971f/record.json",
+        "markdown": "https://awesomecua.com/resources/url-377f5418e39ff2da971f/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/arxiv-2505-17839/",
+      "url": "https://awesomecua.com/resources/arxiv-2505-17839/",
+      "external_url": "https://arxiv.org/abs/2505.17839",
+      "title": "Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models",
+      "content_text": "GERALLT uses LLMs to explore the GUI of engineering software and produce a list of confusing or inconsistent interface areas for developers to inspect.",
+      "summary": "GERALLT uses LLMs to explore the GUI of engineering software and produce a list of confusing or inconsistent interface areas for developers to inspect.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "automation",
+        "ui-design",
+        "science"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/arxiv-2505-17839/record.json",
+        "markdown": "https://awesomecua.com/resources/arxiv-2505-17839/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-412c168dd5d0aeded46a/",
+      "url": "https://awesomecua.com/resources/url-412c168dd5d0aeded46a/",
+      "external_url": "https://ieeexplore.ieee.org/abstract/document/10132233",
+      "title": "Automating GUI-based Software Testing with GPT-3",
+      "content_text": "A GPT-3-based GUI testing method interprets natural-language test cases, tracks current interface elements in prompts, and navigates desktop and mobile applications.",
+      "summary": "A GPT-3-based GUI testing method interprets natural-language test cases, tracks current interface elements in prompts, and navigates desktop and mobile applications.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "automation",
+        "state-tracking",
+        "screen-understanding",
+        "data-generation"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "desktop",
+          "cross-platform"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-412c168dd5d0aeded46a/record.json",
+        "markdown": "https://awesomecua.com/resources/url-412c168dd5d0aeded46a/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/arxiv-2311-08649/",
+      "url": "https://awesomecua.com/resources/arxiv-2311-08649/",
+      "external_url": "https://arxiv.org/abs/2311.08649",
+      "title": "Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing",
+      "content_text": "DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.",
+      "summary": "DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "mobile-navigation",
+        "automation",
+        "planning",
+        "memory"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "android"
+        ],
+        "record_json": "https://awesomecua.com/resources/arxiv-2311-08649/record.json",
+        "markdown": "https://awesomecua.com/resources/arxiv-2311-08649/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-16f4a8903de0f90d3638/",
+      "url": "https://awesomecua.com/resources/url-16f4a8903de0f90d3638/",
+      "external_url": "https://aclanthology.org/2026.findings-eacl.144",
+      "title": "Do GUI Grounders Truly Understand UI Elements?",
+      "content_text": "A desktop GUI grounding benchmark tests whether models identify the same element across varied descriptions; a diagnosis agent generates difficult instructions using model feedback.",
+      "summary": "A desktop GUI grounding benchmark tests whether models identify the same element across varied descriptions; a diagnosis agent generates difficult instructions using model feedback.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "grounding",
+        "evaluation",
+        "data-generation",
+        "robustness"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "desktop",
+          "windows"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-16f4a8903de0f90d3638/record.json",
+        "markdown": "https://awesomecua.com/resources/url-16f4a8903de0f90d3638/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/",
+      "url": "https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/",
+      "external_url": "https://ojs.aaai.org/index.php/AAAI/article/view/40038",
+      "title": "FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning",
+      "content_text": "FDC-Ground trains GUI element location models with a distance-based reward and completion pruning; a 7B model is evaluated on ScreenSpot and ScreenSpot-v2.",
+      "summary": "FDC-Ground trains GUI element location models with a distance-based reward and completion pruning; a 7B model is evaluated on ScreenSpot and ScreenSpot-v2.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "grounding",
+        "reinforcement-learning",
+        "reward-models",
+        "efficiency"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/record.json",
+        "markdown": "https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-85cad9e7962668786093/",
+      "url": "https://awesomecua.com/resources/url-85cad9e7962668786093/",
+      "external_url": "https://doi.org/10.24963/ijcai.2026/49",
+      "title": "Focus Like a Human: Efficient GUI Grounding via Coarse-to-Fine Visual Attention and Parallel Verification",
+      "content_text": "FastFocus grounds GUI targets by proposing regions from low-resolution views and checking candidates with parallel high-resolution zooms; it is evaluated on ScreenSpot-Pro.",
+      "summary": "FastFocus grounds GUI targets by proposing regions from low-resolution views and checking candidates with parallel high-resolution zooms; it is evaluated on ScreenSpot-Pro.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "grounding",
+        "efficiency",
+        "robustness"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-85cad9e7962668786093/record.json",
+        "markdown": "https://awesomecua.com/resources/url-85cad9e7962668786093/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/arxiv-2007-13257/",
+      "url": "https://awesomecua.com/resources/arxiv-2007-13257/",
+      "external_url": "https://arxiv.org/abs/2007.13257",
+      "title": "From Robotic Process Automation to Intelligent Process Automation: Emerging Trends",
+      "content_text": "A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.",
+      "summary": "A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "survey",
+        "survey",
+        "automation",
+        "workflow",
+        "industry"
+      ],
+      "_awesomecua": {
+        "kind": "survey",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/arxiv-2007-13257/record.json",
+        "markdown": "https://awesomecua.com/resources/arxiv-2007-13257/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-7424d66754ec26d68d83/",
+      "url": "https://awesomecua.com/resources/url-7424d66754ec26d68d83/",
+      "external_url": "https://dl.acm.org/doi/abs/10.1145/3650212.3680334",
+      "title": "Guardian: A Runtime Framework for LLM-Based UI Exploration",
+      "content_text": "Guardian guides LLM-driven mobile app testing by narrowing available UI actions and replanning after invalidated actions; it is evaluated on 58 tasks from 23 apps.",
+      "summary": "Guardian guides LLM-driven mobile app testing by narrowing available UI actions and replanning after invalidated actions; it is evaluated on 58 tasks from 23 apps.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "automation",
+        "planning",
+        "state-tracking",
+        "evaluation"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-7424d66754ec26d68d83/record.json",
+        "markdown": "https://awesomecua.com/resources/url-7424d66754ec26d68d83/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-0579bd92efb87b26cb15/",
+      "url": "https://awesomecua.com/resources/url-0579bd92efb87b26cb15/",
+      "external_url": "https://doi.org/10.20944/preprints202611.0431.v1",
+      "title": "GUI Grounding for Computer-Use Agents: A Survey",
+      "content_text": "A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.",
+      "summary": "A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "survey",
+        "survey",
+        "grounding",
+        "evaluation",
+        "screen-understanding"
+      ],
+      "_awesomecua": {
+        "kind": "survey",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-0579bd92efb87b26cb15/record.json",
+        "markdown": "https://awesomecua.com/resources/url-0579bd92efb87b26cb15/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/",
+      "url": "https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/",
+      "external_url": "https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf",
+      "title": "GUI testing for mobile applications: objectives, approaches and challenges",
+      "content_text": "A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.",
+      "summary": "A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "survey",
+        "survey",
+        "evaluation",
+        "mobile-navigation"
+      ],
+      "_awesomecua": {
+        "kind": "survey",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/record.json",
+        "markdown": "https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-ffc05c4425f777924940/",
+      "url": "https://awesomecua.com/resources/url-ffc05c4425f777924940/",
+      "external_url": "https://ieeexplore.ieee.org/abstract/document/10298721",
+      "title": "GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver",
+      "content_text": "A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.",
+      "summary": "A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "automation",
+        "evaluation",
+        "web-navigation",
+        "tool-integration"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-ffc05c4425f777924940/record.json",
+        "markdown": "https://awesomecua.com/resources/url-ffc05c4425f777924940/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/",
+      "url": "https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/",
+      "external_url": "https://aclanthology.org/2025.findings-emnlp.486",
+      "title": "INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent",
+      "content_text": "InReAct trains a multimodal GUI agent with staged curriculum learning and outcome-based reinforcement learning for pixel-level grounding and navigation.",
+      "summary": "InReAct trains a multimodal GUI agent with staged curriculum learning and outcome-based reinforcement learning for pixel-level grounding and navigation.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "grounding",
+        "reinforcement-learning",
+        "action-prediction"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/record.json",
+        "markdown": "https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-f58895265a31c37d12b4/",
+      "url": "https://awesomecua.com/resources/url-f58895265a31c37d12b4/",
+      "external_url": "https://www.preprints.org/manuscript/202608.0265/v1",
+      "title": "LLM Agents: A Survey",
+      "content_text": "A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.",
+      "summary": "A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "survey",
+        "survey",
+        "planning",
+        "safety-security"
+      ],
+      "_awesomecua": {
+        "kind": "survey",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-f58895265a31c37d12b4/record.json",
+        "markdown": "https://awesomecua.com/resources/url-f58895265a31c37d12b4/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-39f88102e1659647b1a0/",
+      "url": "https://awesomecua.com/resources/url-39f88102e1659647b1a0/",
+      "external_url": "https://doi.org/10.1145/3808134",
+      "title": "Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing",
+      "content_text": "Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.",
+      "summary": "Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "grounding",
+        "screen-understanding",
+        "evaluation"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-39f88102e1659647b1a0/record.json",
+        "markdown": "https://awesomecua.com/resources/url-39f88102e1659647b1a0/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/",
+      "url": "https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/",
+      "external_url": "https://aclanthology.org/2026.alvr-main.12",
+      "title": "Look Where You’re Told: Instruction-Consistent Attention for GUI Grounding",
+      "content_text": "Attention Cycle-Consistency trains GUI element grounding with semantic and spatial alignment constraints, while removing its auxiliary components at inference.",
+      "summary": "Attention Cycle-Consistency trains GUI element grounding with semantic and spatial alignment constraints, while removing its auxiliary components at inference.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "grounding",
+        "screen-understanding",
+        "efficiency"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/record.json",
+        "markdown": "https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-3fdea133115518f9205a/",
+      "url": "https://awesomecua.com/resources/url-3fdea133115518f9205a/",
+      "external_url": "https://ceur-ws.org/Vol-4028/paper8.pdf",
+      "title": "MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information",
+      "content_text": "MemAgent adds a cache for task-specific information to conversational web agents, separating information gathering from execution across 150 web tasks.",
+      "summary": "MemAgent adds a cache for task-specific information to conversational web agents, separating information gathering from execution across 150 web tasks.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "web-navigation",
+        "memory",
+        "efficiency",
+        "human-in-the-loop"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-3fdea133115518f9205a/record.json",
+        "markdown": "https://awesomecua.com/resources/url-3fdea133115518f9205a/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-24bc39ed487b311108ae/",
+      "url": "https://awesomecua.com/resources/url-24bc39ed487b311108ae/",
+      "external_url": "https://openai.com/index/operator-system-card",
+      "title": "Operator System Card",
+      "content_text": "The Operator system card describes a browser agent trained to act from screenshots and details evaluations, risk policies, user confirmations, and monitoring for web tasks.",
+      "summary": "The Operator system card describes a browser agent trained to act from screenshots and details evaluations, risk policies, user confirmations, and monitoring for web tasks.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "safety-security",
+        "human-in-the-loop",
+        "web-navigation",
+        "reinforcement-learning"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-24bc39ed487b311108ae/record.json",
+        "markdown": "https://awesomecua.com/resources/url-24bc39ed487b311108ae/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-b230a6700386b7e2744c/",
+      "url": "https://awesomecua.com/resources/url-b230a6700386b7e2744c/",
+      "external_url": "https://www.sciencedirect.com/science/article/pii/S1877050921001393",
+      "title": "Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review",
+      "content_text": "A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.",
+      "summary": "A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "survey",
+        "survey",
+        "automation",
+        "industry",
+        "workflow"
+      ],
+      "_awesomecua": {
+        "kind": "survey",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-b230a6700386b7e2744c/record.json",
+        "markdown": "https://awesomecua.com/resources/url-b230a6700386b7e2744c/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-2574c6eeee264762a990/",
+      "url": "https://awesomecua.com/resources/url-2574c6eeee264762a990/",
+      "external_url": "https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609",
+      "title": "Robotic Process Automation: Contemporary themes and challenges",
+      "content_text": "A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.",
+      "summary": "A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "survey",
+        "survey",
+        "automation",
+        "workflow",
+        "industry"
+      ],
+      "_awesomecua": {
+        "kind": "survey",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-2574c6eeee264762a990/record.json",
+        "markdown": "https://awesomecua.com/resources/url-2574c6eeee264762a990/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/",
+      "url": "https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/",
+      "external_url": "https://doi.org/10.1145/3770855.3817981",
+      "title": "SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks",
+      "content_text": "SkillTracer maps web agent skills to inspectable plan graphs, uses interaction traces to locate failures, and refines reusable skills across long tasks and episodes.",
+      "summary": "SkillTracer maps web agent skills to inspectable plan graphs, uses interaction traces to locate failures, and refines reusable skills across long tasks and episodes.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "web-navigation",
+        "long-horizon",
+        "observability",
+        "memory"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/record.json",
+        "markdown": "https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-eb791c465f47690ade31/",
+      "url": "https://awesomecua.com/resources/url-eb791c465f47690ade31/",
+      "external_url": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+      "title": "Task Automation Intelligent Agents: A Review",
+      "content_text": "A literature review examines mobile phone task automation agents, including programming by demonstration and usability heuristics for recurring user tasks.",
+      "summary": "A literature review examines mobile phone task automation agents, including programming by demonstration and usability heuristics for recurring user tasks.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "survey",
+        "survey",
+        "automation",
+        "mobile-navigation",
+        "ui-design"
+      ],
+      "_awesomecua": {
+        "kind": "survey",
+        "review_status": "curated",
+        "environments": [
+          "unspecified"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-eb791c465f47690ade31/record.json",
+        "markdown": "https://awesomecua.com/resources/url-eb791c465f47690ade31/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-83569d30f341f39f4a78/",
+      "url": "https://awesomecua.com/resources/url-83569d30f341f39f4a78/",
+      "external_url": "https://ieeexplore.ieee.org/abstract/document/10778901",
+      "title": "Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model",
+      "content_text": "Test-Agent uses an LLM, screenshots, and interface structure to generate and execute mobile app test actions from natural-language instructions across platforms.",
+      "summary": "Test-Agent uses an LLM, screenshots, and interface structure to generate and execute mobile app test actions from natural-language instructions across platforms.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "automation",
+        "mobile-navigation",
+        "screen-understanding"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "harmonyos",
+          "cross-platform"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-83569d30f341f39f4a78/record.json",
+        "markdown": "https://awesomecua.com/resources/url-83569d30f341f39f4a78/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-2af250798e99e7af01ce/",
+      "url": "https://awesomecua.com/resources/url-2af250798e99e7af01ce/",
+      "external_url": "https://dl.acm.org/doi/abs/10.1145/3701551.3707420",
+      "title": "Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution",
+      "content_text": "A web navigation framework uses user-specific task representations and interactive reasoning to adapt agent workflows to preferences, with task success and satisfaction as evaluation measures.",
+      "summary": "A web navigation framework uses user-specific task representations and interactive reasoning to adapt agent workflows to preferences, with task success and satisfaction as evaluation measures.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "web-navigation",
+        "human-in-the-loop",
+        "safety-security",
+        "workflow"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-2af250798e99e7af01ce/record.json",
+        "markdown": "https://awesomecua.com/resources/url-2af250798e99e7af01ce/index.md"
+      }
+    },
+    {
+      "id": "https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/",
+      "url": "https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/",
+      "external_url": "https://aclanthology.org/2026.realm-1.100",
+      "title": "Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding",
+      "content_text": "Trace2Ground builds a web GUI grounding dataset from HTML/DOM elements and simulated traces, testing scenario, duplicate-label, and relational instructions.",
+      "summary": "Trace2Ground builds a web GUI grounding dataset from HTML/DOM elements and simulated traces, testing scenario, duplicate-label, and relational instructions.",
+      "date_published": "2026-11-09T08:07:59Z",
+      "date_modified": "2026-11-09T08:07:59Z",
+      "tags": [
+        "paper",
+        "grounding",
+        "data-generation",
+        "evaluation",
+        "interaction-history"
+      ],
+      "_awesomecua": {
+        "kind": "paper",
+        "review_status": "curated",
+        "environments": [
+          "web",
+          "desktop"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/record.json",
+        "markdown": "https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/index.md"
+      }
+    },
+    {
       "id": "https://awesomecua.com/resources/github-internlm-wildclawbench/",
       "url": "https://awesomecua.com/resources/github-internlm-wildclawbench/",
       "external_url": "https://github.com/InternLM/WildClawBench",
@@ -1884,743 +2606,6 @@
         ],
         "record_json": "https://awesomecua.com/resources/github-onflow-ai-avenir-ux/record.json",
         "markdown": "https://awesomecua.com/resources/github-onflow-ai-avenir-ux/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/",
-      "url": "https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/",
-      "external_url": "https://github.com/UbiquitousLearning/GUI-Shift",
-      "title": "GUI-Shift",
-      "content_text": "GUI-Shift is a training framework that uses pairs of GUI screenshots to teach vision-language models to predict the action behind an interface transition.",
-      "summary": "GUI-Shift is a training framework that uses pairs of GUI screenshots to teach vision-language models to predict the action behind an interface transition.",
-      "date_published": "2026-11-09T04:43:14Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "framework",
-        "reinforcement-learning",
-        "action-prediction",
-        "grounding"
-      ],
-      "_awesomecua": {
-        "kind": "framework",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/record.json",
-        "markdown": "https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-python51888-midscene-python/",
-      "url": "https://awesomecua.com/resources/github-python51888-midscene-python/",
-      "external_url": "https://github.com/Python51888/Midscene-Python",
-      "title": "Midscene Python",
-      "content_text": "Midscene Python is a framework for natural-language automation of websites and Android devices, with model-assisted actions, element location, extraction and assertions.",
-      "summary": "Midscene Python is a framework for natural-language automation of websites and Android devices, with model-assisted actions, element location, extraction and assertions.",
-      "date_published": "2026-11-09T04:43:14Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "framework",
-        "automation",
-        "grounding",
-        "mobile-navigation",
-        "web-navigation"
-      ],
-      "_awesomecua": {
-        "kind": "framework",
-        "review_status": "curated",
-        "environments": [
-          "cross-platform",
-          "web",
-          "android"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-python51888-midscene-python/record.json",
-        "markdown": "https://awesomecua.com/resources/github-python51888-midscene-python/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-novnc-novnc/",
-      "url": "https://awesomecua.com/resources/github-novnc-novnc/",
-      "external_url": "https://github.com/novnc/noVNC",
-      "title": "noVNC",
-      "content_text": "noVNC is a browser-based VNC client and JavaScript library for viewing and controlling remote desktops through mouse, keyboard, clipboard and touch input.",
-      "summary": "noVNC is a browser-based VNC client and JavaScript library for viewing and controlling remote desktops through mouse, keyboard, clipboard and touch input.",
-      "date_published": "2026-11-09T04:43:14Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "tool",
-        "automation",
-        "tool-integration"
-      ],
-      "_awesomecua": {
-        "kind": "tool",
-        "review_status": "curated",
-        "environments": [
-          "web",
-          "desktop"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-novnc-novnc/record.json",
-        "markdown": "https://awesomecua.com/resources/github-novnc-novnc/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/",
-      "url": "https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/",
-      "external_url": "https://github.com/niuzaisheng/ScreenAgentWebClient",
-      "title": "ScreenAgent Web Client",
-      "content_text": "ScreenAgent Web Client connects language models to remote desktops through a browser and VNC, representing mouse and keyboard actions as structured calls.",
-      "summary": "ScreenAgent Web Client connects language models to remote desktops through a browser and VNC, representing mouse and keyboard actions as structured calls.",
-      "date_published": "2026-11-09T04:43:14Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "tool",
-        "automation",
-        "tool-integration",
-        "data-generation"
-      ],
-      "_awesomecua": {
-        "kind": "tool",
-        "review_status": "curated",
-        "environments": [
-          "web",
-          "desktop"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/record.json",
-        "markdown": "https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-volcengine-vephone/",
-      "url": "https://awesomecua.com/resources/github-volcengine-vephone/",
-      "external_url": "https://github.com/volcengine/vePhone",
-      "title": "vePhone",
-      "content_text": "vePhone supplies remotely controlled cloud phones and example integrations for mobile and computer-use agents, including task execution and result retrieval.",
-      "summary": "vePhone supplies remotely controlled cloud phones and example integrations for mobile and computer-use agents, including task execution and result retrieval.",
-      "date_published": "2026-11-09T04:43:14Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "infrastructure",
-        "sandbox",
-        "mobile-navigation",
-        "tool-integration"
-      ],
-      "_awesomecua": {
-        "kind": "infrastructure",
-        "review_status": "curated",
-        "environments": [
-          "cross-platform",
-          "android",
-          "ios",
-          "web",
-          "windows",
-          "desktop"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-volcengine-vephone/record.json",
-        "markdown": "https://awesomecua.com/resources/github-volcengine-vephone/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-llamatouch-agentenv/",
-      "url": "https://awesomecua.com/resources/github-llamatouch-agentenv/",
-      "external_url": "https://github.com/LlamaTouch/AgentEnv",
-      "title": "AgentEnv",
-      "content_text": "AgentEnv connects agent models to Android devices or emulators, translating actions and returning screenshots and view hierarchies while recording interactions.",
-      "summary": "AgentEnv connects agent models to Android devices or emulators, translating actions and returning screenshots and view hierarchies while recording interactions.",
-      "date_published": "2026-11-09T04:42:43Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "infrastructure",
-        "mobile-navigation",
-        "sandbox",
-        "recording"
-      ],
-      "_awesomecua": {
-        "kind": "infrastructure",
-        "review_status": "curated",
-        "environments": [
-          "android"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-llamatouch-agentenv/record.json",
-        "markdown": "https://awesomecua.com/resources/github-llamatouch-agentenv/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/",
-      "url": "https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/",
-      "external_url": "https://github.com/Mofangbao/midscene-pc-docker",
-      "title": "Midscene PC Docker",
-      "content_text": "Midscene PC Docker packages an Ubuntu GNOME desktop with Chrome and a Midscene PC automation service, exposing the graphical environment through VNC.",
-      "summary": "Midscene PC Docker packages an Ubuntu GNOME desktop with Chrome and a Midscene PC automation service, exposing the graphical environment through VNC.",
-      "date_published": "2026-11-09T04:42:43Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "infrastructure",
-        "automation",
-        "sandbox"
-      ],
-      "_awesomecua": {
-        "kind": "infrastructure",
-        "review_status": "curated",
-        "environments": [
-          "desktop",
-          "linux"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/record.json",
-        "markdown": "https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-puppeteer-puppeteer/",
-      "url": "https://awesomecua.com/resources/github-puppeteer-puppeteer/",
-      "external_url": "https://github.com/puppeteer/puppeteer",
-      "title": "Puppeteer",
-      "content_text": "Puppeteer is a JavaScript browser-control library for Chrome and Firefox. Its API supports scripted page navigation and interaction.",
-      "summary": "Puppeteer is a JavaScript browser-control library for Chrome and Firefox. Its API supports scripted page navigation and interaction.",
-      "date_published": "2026-11-09T04:42:43Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "tool",
-        "automation",
-        "web-navigation"
-      ],
-      "_awesomecua": {
-        "kind": "tool",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-puppeteer-puppeteer/record.json",
-        "markdown": "https://awesomecua.com/resources/github-puppeteer-puppeteer/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-kyle8581-wma-agents/",
-      "url": "https://awesomecua.com/resources/github-kyle8581-wma-agents/",
-      "external_url": "https://github.com/kyle8581/WMA-Agents",
-      "title": "WMA Web Agent",
-      "content_text": "A web agent uses a learned world model to predict consequential page changes before choosing an action. The repository includes trajectory processing and inference code.",
-      "summary": "A web agent uses a learned world model to predict consequential page changes before choosing an action. The repository includes trajectory processing and inference code.",
-      "date_published": "2026-11-09T04:42:42Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "agent",
-        "web-navigation",
-        "world-models",
-        "planning",
-        "long-horizon"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-kyle8581-wma-agents/record.json",
-        "markdown": "https://awesomecua.com/resources/github-kyle8581-wma-agents/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/",
-      "url": "https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/",
-      "external_url": "https://github.com/THUNLP-MT/CollabUIAgents",
-      "title": "CollabUIAgents",
-      "content_text": "CollabUIAgents trains UI agents with synthesized interaction data and process rewards assigned by collaborating agents. The repository releases data collection and inference code.",
-      "summary": "CollabUIAgents trains UI agents with synthesized interaction data and process rewards assigned by collaborating agents. The repository releases data collection and inference code.",
-      "date_published": "2026-11-09T04:41:56Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "framework",
-        "reinforcement-learning",
-        "reward-models",
-        "data-generation",
-        "robustness"
-      ],
-      "_awesomecua": {
-        "kind": "framework",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/record.json",
-        "markdown": "https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/",
-      "url": "https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/",
-      "external_url": "https://github.com/wuchiuwong/CrashTranslator",
-      "title": "CrashTranslator",
-      "content_text": "CrashTranslator generates Android app interactions to reproduce crashes from stack traces. The repository provides code, data and setup instructions for emulator-based runs.",
-      "summary": "CrashTranslator generates Android app interactions to reproduce crashes from stack traces. The repository provides code, data and setup instructions for emulator-based runs.",
-      "date_published": "2026-11-09T04:41:56Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "agent",
-        "mobile-navigation",
-        "automation",
-        "evaluation"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "android"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/record.json",
-        "markdown": "https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-web-infra-dev-midscene-example/",
-      "url": "https://awesomecua.com/resources/github-web-infra-dev-midscene-example/",
-      "external_url": "https://github.com/web-infra-dev/midscene-example",
-      "title": "Midscene Examples",
-      "content_text": "Midscene Examples provides runnable AI automation and testing cases for web, Android, iOS and desktop interfaces, including YAML workflows and SDK integrations.",
-      "summary": "Midscene Examples provides runnable AI automation and testing cases for web, Android, iOS and desktop interfaces, including YAML workflows and SDK integrations.",
-      "date_published": "2026-11-09T04:41:56Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "learning",
-        "automation",
-        "cross-app",
-        "mobile-navigation",
-        "web-navigation"
-      ],
-      "_awesomecua": {
-        "kind": "learning",
-        "review_status": "curated",
-        "environments": [
-          "cross-platform",
-          "web",
-          "android",
-          "ios",
-          "desktop",
-          "windows"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-web-infra-dev-midscene-example/record.json",
-        "markdown": "https://awesomecua.com/resources/github-web-infra-dev-midscene-example/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/",
-      "url": "https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/",
-      "external_url": "https://github.com/wq19901103wq/wechat-mac-rpa",
-      "title": "WeChat Mac RPA",
-      "content_text": "WeChat Mac RPA is a macOS agent that reads WeChat screenshots, reasons over conversations and uses system automation to send messages and switch chats.",
-      "summary": "WeChat Mac RPA is a macOS agent that reads WeChat screenshots, reasons over conversations and uses system automation to send messages and switch chats.",
-      "date_published": "2026-11-09T04:41:56Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "agent",
-        "screen-understanding",
-        "automation",
-        "memory",
-        "workflow"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "desktop",
-          "macos"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/record.json",
-        "markdown": "https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-philfung-awesome-computer-use/",
-      "url": "https://awesomecua.com/resources/github-philfung-awesome-computer-use/",
-      "external_url": "https://github.com/philfung/awesome-computer-use",
-      "title": "Awesome Computer Use",
-      "content_text": "A curated reading list of computer GUI use research and software, linking to agent demos, frameworks, and papers across desktop and web interfaces.",
-      "summary": "A curated reading list of computer GUI use research and software, linking to agent demos, frameworks, and papers across desktop and web interfaces.",
-      "date_published": "2026-11-09T04:41:27Z",
-      "date_modified": "2026-11-09T06:16:35Z",
-      "tags": [
-        "learning",
-        "survey",
-        "automation",
-        "screen-understanding"
-      ],
-      "_awesomecua": {
-        "kind": "learning",
-        "review_status": "curated",
-        "environments": [
-          "cross-platform",
-          "web",
-          "desktop",
-          "macos",
-          "linux",
-          "windows"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-philfung-awesome-computer-use/record.json",
-        "markdown": "https://awesomecua.com/resources/github-philfung-awesome-computer-use/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/",
-      "url": "https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/",
-      "external_url": "https://github.com/szymdzum/browser-debugger-cli",
-      "title": "bdg - Browser Debugger CLI",
-      "content_text": "A browser CLI for agents to navigate and interact with pages while inspecting the DOM, network requests, console output, and layout through individual commands.",
-      "summary": "A browser CLI for agents to navigate and interact with pages while inspecting the DOM, network requests, console output, and layout through individual commands.",
-      "date_published": "2026-11-09T04:41:27Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "tool",
-        "automation",
-        "web-navigation",
-        "observability"
-      ],
-      "_awesomecua": {
-        "kind": "tool",
-        "review_status": "curated",
-        "environments": [
-          "cross-platform",
-          "web",
-          "desktop",
-          "macos",
-          "linux",
-          "windows"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/record.json",
-        "markdown": "https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-final-run-finalrun-agent/",
-      "url": "https://awesomecua.com/resources/github-final-run-finalrun-agent/",
-      "external_url": "https://github.com/final-run/finalrun-agent",
-      "title": "finalrun-agent",
-      "content_text": "An AI-driven CLI for testing Android and iOS apps from YAML instructions. It observes the screen, performs touch and text actions, and reports results with video and logs.",
-      "summary": "An AI-driven CLI for testing Android and iOS apps from YAML instructions. It observes the screen, performs touch and text actions, and reports results with video and logs.",
-      "date_published": "2026-11-09T04:41:27Z",
-      "date_modified": "2026-11-09T06:16:35Z",
-      "tags": [
-        "agent",
-        "mobile-navigation",
-        "automation",
-        "evaluation",
-        "recording"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "android",
-          "ios"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-final-run-finalrun-agent/record.json",
-        "markdown": "https://awesomecua.com/resources/github-final-run-finalrun-agent/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/",
-      "url": "https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/",
-      "external_url": "https://huggingface.co/xlangai/Jedi-7B-1080p",
-      "title": "Jedi-7B-1080p",
-      "content_text": "A released model checkpoint for computer-use grounding research, based on Qwen2.5-VL-7B-Instruct. The repository includes weight shards and tokenizer files.",
-      "summary": "A released model checkpoint for computer-use grounding research, based on Qwen2.5-VL-7B-Instruct. The repository includes weight shards and tokenizer files.",
-      "date_published": "2026-11-09T04:41:27Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "model",
-        "grounding",
-        "screen-understanding"
-      ],
-      "_awesomecua": {
-        "kind": "model",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/record.json",
-        "markdown": "https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-tajamul21-medspot/",
-      "url": "https://awesomecua.com/resources/github-tajamul21-medspot/",
-      "external_url": "https://github.com/Tajamul21/MedSPOT",
-      "title": "MedSPOT",
-      "content_text": "A sequential GUI grounding benchmark covering 10 medical imaging applications. It evaluates target localization across multi-step workflows and provides model evaluation scripts.",
-      "summary": "A sequential GUI grounding benchmark covering 10 medical imaging applications. It evaluates target localization across multi-step workflows and provides model evaluation scripts.",
-      "date_published": "2026-11-09T04:41:27Z",
-      "date_modified": "2026-11-09T06:16:36Z",
-      "tags": [
-        "benchmark",
-        "evaluation",
-        "grounding",
-        "workflow",
-        "science"
-      ],
-      "_awesomecua": {
-        "kind": "benchmark",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-tajamul21-medspot/record.json",
-        "markdown": "https://awesomecua.com/resources/github-tajamul21-medspot/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/",
-      "url": "https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/",
-      "external_url": "https://github.com/mmsearch-plus/MMSearch-Plus",
-      "title": "MMSearch-Plus",
-      "content_text": "A benchmark of 311 visual reasoning tasks for multimodal browsing agents, requiring iterative image and text retrieval. The repository links the dataset and provides a loading helper.",
-      "summary": "A benchmark of 311 visual reasoning tasks for multimodal browsing agents, requiring iterative image and text retrieval. The repository links the dataset and provides a loading helper.",
-      "date_published": "2026-11-09T04:41:27Z",
-      "date_modified": "2026-11-09T06:16:35Z",
-      "tags": [
-        "benchmark",
-        "evaluation",
-        "web-navigation",
-        "screen-understanding"
-      ],
-      "_awesomecua": {
-        "kind": "benchmark",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/record.json",
-        "markdown": "https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-saferl-lab-agentic-web/",
-      "url": "https://awesomecua.com/resources/github-saferl-lab-agentic-web/",
-      "external_url": "https://github.com/SafeRL-Lab/agentic-web",
-      "title": "Agentic Web",
-      "content_text": "A research reading list on agents and the web, organized around development, retrieval, planning, safety and benchmarks.",
-      "summary": "A research reading list on agents and the web, organized around development, retrieval, planning, safety and benchmarks.",
-      "date_published": "2026-11-09T04:41:22Z",
-      "date_modified": "2026-11-09T06:16:35Z",
-      "tags": [
-        "learning",
-        "survey",
-        "web-navigation",
-        "planning",
-        "safety-security"
-      ],
-      "_awesomecua": {
-        "kind": "learning",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-saferl-lab-agentic-web/record.json",
-        "markdown": "https://awesomecua.com/resources/github-saferl-lab-agentic-web/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-waynchi-gui-agent/",
-      "url": "https://awesomecua.com/resources/github-waynchi-gui-agent/",
-      "external_url": "https://github.com/waynchi/gui-agent",
-      "title": "gui-agent",
-      "content_text": "Research code for GUI-agent experiments, accompanied by a trained interface element detector, experiment configurations and prompts.",
-      "summary": "Research code for GUI-agent experiments, accompanied by a trained interface element detector, experiment configurations and prompts.",
-      "date_published": "2026-11-09T04:41:22Z",
-      "date_modified": "2026-11-09T06:16:35Z",
-      "tags": [
-        "agent",
-        "grounding",
-        "screen-understanding",
-        "evaluation"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-waynchi-gui-agent/record.json",
-        "markdown": "https://awesomecua.com/resources/github-waynchi-gui-agent/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/",
-      "url": "https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/",
-      "external_url": "https://github.com/OSU-NLP-Group/SeeActChromeExtension",
-      "title": "SeeAct Web Agent (Chrome Extension)",
-      "content_text": "A Chrome extension that runs a SeeAct-based agent in an existing browser session to navigate websites, gather information and prepare forms.",
-      "summary": "A Chrome extension that runs a SeeAct-based agent in an existing browser session to navigate websites, gather information and prepare forms.",
-      "date_published": "2026-11-09T04:41:22Z",
-      "date_modified": "2026-11-09T06:16:35Z",
-      "tags": [
-        "agent",
-        "web-navigation",
-        "automation",
-        "human-in-the-loop",
-        "observability"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/record.json",
-        "markdown": "https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-woooodyy-agentgym/",
-      "url": "https://awesomecua.com/resources/github-woooodyy-agentgym/",
-      "external_url": "https://github.com/WooooDyy/AgentGym",
-      "title": "AgentGym",
-      "content_text": "AgentGym provides interactive environments for developing and evaluating agents, including web tasks in WebShop and WebArena, with trajectory collection and training support.",
-      "summary": "AgentGym provides interactive environments for developing and evaluating agents, including web tasks in WebShop and WebArena, with trajectory collection and training support.",
-      "date_published": "2026-11-09T04:41:00Z",
-      "date_modified": "2026-11-09T06:16:34Z",
-      "tags": [
-        "framework",
-        "evaluation",
-        "web-navigation",
-        "reinforcement-learning",
-        "data-generation"
-      ],
-      "_awesomecua": {
-        "kind": "framework",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-woooodyy-agentgym/record.json",
-        "markdown": "https://awesomecua.com/resources/github-woooodyy-agentgym/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-zhangruotian-conclick/",
-      "url": "https://awesomecua.com/resources/github-zhangruotian-conclick/",
-      "external_url": "https://github.com/zhangruotian/ConClick",
-      "title": "ConClick",
-      "content_text": "ConClick is a GUI grounding model trained with coordinate supervision and target distractor ranking. Its ReClick inference method revisits candidate screen regions before choosing a click.",
-      "summary": "ConClick is a GUI grounding model trained with coordinate supervision and target distractor ranking. Its ReClick inference method revisits candidate screen regions before choosing a click.",
-      "date_published": "2026-11-09T04:41:00Z",
-      "date_modified": "2026-11-09T06:16:34Z",
-      "tags": [
-        "model",
-        "grounding",
-        "screen-understanding",
-        "action-prediction"
-      ],
-      "_awesomecua": {
-        "kind": "model",
-        "review_status": "curated",
-        "environments": [
-          "unspecified"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-zhangruotian-conclick/record.json",
-        "markdown": "https://awesomecua.com/resources/github-zhangruotian-conclick/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/url-4b747a376f628e6f9760/",
-      "url": "https://awesomecua.com/resources/url-4b747a376f628e6f9760/",
-      "external_url": "https://huggingface.co/datasets/yfan1997/ScreenPR",
-      "title": "Screen Point-and-Read Data",
-      "content_text": "Screen Point-and-Read Data pairs OS, web and mobile screenshots with selected points, annotated regions and corrected captions for layout-aware GUI interpretation.",
-      "summary": "Screen Point-and-Read Data pairs OS, web and mobile screenshots with selected points, annotated regions and corrected captions for layout-aware GUI interpretation.",
-      "date_published": "2026-11-09T04:41:00Z",
-      "date_modified": "2026-11-09T06:16:35Z",
-      "tags": [
-        "dataset",
-        "screen-understanding",
-        "grounding",
-        "data-generation",
-        "evaluation"
-      ],
-      "_awesomecua": {
-        "kind": "dataset",
-        "review_status": "curated",
-        "environments": [
-          "cross-platform",
-          "desktop",
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/url-4b747a376f628e6f9760/record.json",
-        "markdown": "https://awesomecua.com/resources/url-4b747a376f628e6f9760/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-sidongfeng-adbgpt/",
-      "url": "https://awesomecua.com/resources/github-sidongfeng-adbgpt/",
-      "external_url": "https://github.com/sidongfeng/AdbGPT",
-      "title": "AdbGPT",
-      "content_text": "An Android bug replay agent that extracts action details from written bug reports and uses the current app screen to guide reproduction steps.",
-      "summary": "An Android bug replay agent that extracts action details from written bug reports and uses the current app screen to guide reproduction steps.",
-      "date_published": "2026-11-09T04:40:52Z",
-      "date_modified": "2026-11-09T06:16:33Z",
-      "tags": [
-        "agent",
-        "mobile-navigation",
-        "grounding",
-        "automation",
-        "training-free"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "android"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-sidongfeng-adbgpt/record.json",
-        "markdown": "https://awesomecua.com/resources/github-sidongfeng-adbgpt/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-yueqis-api-based-agent/",
-      "url": "https://awesomecua.com/resources/github-yueqis-api-based-agent/",
-      "external_url": "https://github.com/yueqis/API-Based-Agent",
-      "title": "API-Based-Agent",
-      "content_text": "Code for web agents that use application APIs and browser actions together, with scripts for evaluating the hybrid approach on WebArena.",
-      "summary": "Code for web agents that use application APIs and browser actions together, with scripts for evaluating the hybrid approach on WebArena.",
-      "date_published": "2026-11-09T04:40:52Z",
-      "date_modified": "2026-11-09T06:16:34Z",
-      "tags": [
-        "agent",
-        "web-navigation",
-        "tool-integration",
-        "evaluation"
-      ],
-      "_awesomecua": {
-        "kind": "agent",
-        "review_status": "curated",
-        "environments": [
-          "web"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-yueqis-api-based-agent/record.json",
-        "markdown": "https://awesomecua.com/resources/github-yueqis-api-based-agent/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/",
-      "url": "https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/",
-      "external_url": "https://github.com/Steve2457/Awesome-RL-GUI-Agents",
-      "title": "Awesome Reinforcement Learning for GUI Agents",
-      "content_text": "A curated reading list of reinforcement learning work on GUI agents, organized by learning methods, reward and efficiency questions, datasets, and training environments.",
-      "summary": "A curated reading list of reinforcement learning work on GUI agents, organized by learning methods, reward and efficiency questions, datasets, and training environments.",
-      "date_published": "2026-11-09T04:40:52Z",
-      "date_modified": "2026-11-09T06:16:34Z",
-      "tags": [
-        "learning",
-        "survey",
-        "reinforcement-learning",
-        "evaluation"
-      ],
-      "_awesomecua": {
-        "kind": "learning",
-        "review_status": "curated",
-        "environments": [
-          "cross-platform"
-        ],
-        "record_json": "https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/record.json",
-        "markdown": "https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/index.md"
       }
     }
   ]

@@ -86,6 +86,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Introduces intention understanding, prediction, and confirmed execution tasks over mobile GUI trajectories, with a proactive agent combining personalized intention models and experience-guided actions.
 - [WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance](https://awesomecua.com/resources/arxiv-2608-06704/) — 2026-08-07
   Introduces WebRider, a live-web agent that maintains intent contracts while carrying out guarded browser actions, and RiderBench for auditing those contracts across websites.
+- [LLM Agents: A Survey](https://awesomecua.com/resources/url-f58895265a31c37d12b4/) — 2026-08-05
+  A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.
 - [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://awesomecua.com/resources/arxiv-2608-01964/) — 2026-08-03
   Introduces LongHorizon-Harness, which maintains verified task state outside an agent's execution context and audits subtasks; its evaluations include OSWorld~2.0.
 - [From Monoliths to Swarms: A Study of Attack Surface Evolution in the Transition to Multi-Agent Web Systems](https://awesomecua.com/resources/arxiv-2608-00202/) — 2026-07-31
@@ -500,6 +502,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Introduces an orchestrated team of browsing, file, and coding agents with progress tracking and error recovery for general digital tasks.
 - [Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents](https://awesomecua.com/resources/arxiv-2410-22552/) — 2024-10-29
   Discovers compact intents from demonstrations and uses intent predictions to guide a language-model web agent's decisions and exploration.
+- [AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation](https://awesomecua.com/resources/url-377f5418e39ff2da971f/) — 2024-10-28
+  AssistEditor coordinates GUI agents to turn video requirements and uploaded materials into storyboards and editing actions in professional desktop software.
 - [OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning](https://awesomecua.com/resources/arxiv-2410-18963/) — 2024-10-24
   OSCAR translates user instructions into Python control code while observing screen images and acting through mouse and keyboard operations. A state-machine controller handles errors and replans tasks during execution across desktop and mobile applications.
 - [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](https://awesomecua.com/resources/arxiv-2410-13825/) — 2024-10-17
@@ -518,6 +522,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Studies agent-system and interface co-design that incorporates user interruptions and intermediate feedback to reduce planning latency.
 - [StateAct: Enhancing LLM Base Agents via Self-prompting and State-tracking](https://awesomecua.com/resources/arxiv-2410-02810/) — 2024-09-21
   Maintains explicit task goals and evolving state descriptions to improve base-agent decisions across interactive tasks, including web shopping.
+- [Guardian: A Runtime Framework for LLM-Based UI Exploration](https://awesomecua.com/resources/url-7424d66754ec26d68d83/) — 2024-09-11
+  Guardian guides LLM-driven mobile app testing by narrowing available UI actions and replanning after invalidated actions; it is evaluated on 58 tasks from 23 apps.
 - [From Grounding to Planning: Benchmarking Bottlenecks in Web Agents](https://awesomecua.com/resources/arxiv-2409-01927/) — 2024-09-03
   Separates web-agent planning and grounding evaluations on Mind2Web to analyze which components limit task performance.
 - [WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration](https://awesomecua.com/resources/arxiv-2408-15978/) — 2024-08-28
@@ -574,6 +580,8 @@ Full source records: https://awesomecua.com/downloads/topics/planning/records.js
   Presents LLMPA, a mobile process-automation architecture that decomposes requests, identifies interface elements, predicts actions and checks errors. Demonstrations evaluate multistep operations in Alipay.
 - [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://awesomecua.com/resources/arxiv-2312-03003/) — 2023-12-04
   Introduces MobileGPT, which organizes mobile-app experience into reusable subtasks using an explore, select, derive, and recall cycle. Its memory supports learning task procedures and adapting them to new contexts.
+- [Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2311-08649/) — 2023-11-15
+  DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.
 - [ProAgent: From Robotic Process Automation to Agentic Process Automation](https://awesomecua.com/resources/arxiv-2311-10751/) — 2023-11-02
   Introduces ProAgent, an LLM-based agent that builds automation workflows from human instructions and coordinates specialized agents during workflow execution.
 - [WebWISE: Web Interface Control and Sequential Exploration with Large Language Models](https://awesomecua.com/resources/arxiv-2310-16042/) — 2023-10-24

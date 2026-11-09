@@ -1027,6 +1027,89 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2311.08649v1",
+    "archive": "arXiv",
+    "archive_location": "2311.08649",
+    "author": [
+      {
+        "literal": "Juyeon Yoon"
+      },
+      {
+        "literal": "Robert Feldt"
+      },
+      {
+        "literal": "Shin Yoo"
+      }
+    ],
+    "citation-key": "arxiv_2311_08649",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3d61362613d8b732fc00762763ee9e842eb58c082c1097b5bc485e43b396ce4c",
+        "submitted_at": "2023-11-15T01:59:40Z",
+        "updated_at": "2023-11-15T01:59:40Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2311.08649v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2311.08649",
+      "catalog_id": "arxiv:2311.08649",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "record",
+      "first_published_at": "2023-11-15",
+      "identifiers": {
+        "arxiv": "2311.08649"
+      },
+      "publication": {
+        "authors": [
+          "Juyeon Yoon",
+          "Robert Feldt",
+          "Shin Yoo"
+        ],
+        "date_basis": "Crossref issued date 2024-5-27; precision=day.",
+        "date_parts": [
+          2024,
+          5,
+          27
+        ],
+        "doi": "10.1109/icst60714.2024.00020",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1109/icst60714.2024.00020"
+        ],
+        "identity_basis": "Same work as the retained arXiv record: the arXiv title is a rewording of the ICST title, and both list the same three authors.",
+        "issue": null,
+        "notes": "IEEE ICST 2024 edition of the arXiv preprint; Crossref links the DOI to IEEE Xplore document 10638557.",
+        "pages": "129-139",
+        "pdf_url": null,
+        "publisher": "IEEE",
+        "series": null,
+        "title": "Intent-Driven Mobile GUI Testing with Autonomous Large Language Model Agents",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10638557",
+        "venue": "2024 IEEE Conference on Software Testing, Verification and Validation (ICST)",
+        "volume": null
+      },
+      "record_updated_at": "2023-11-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2311.08649",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2023-11-15; Recorded arXiv version: v1; Recorded version updated: 2023-11-15T01:59:40Z.",
+    "title": "Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2312.03003v3",
     "archive": "arXiv",
     "archive_location": "2312.03003",
@@ -17979,6 +18062,84 @@
     "version": "1"
   },
   {
+    "DOI": "10.1145/3457913.3457931",
+    "URL": "https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf",
+    "author": [
+      {
+        "literal": "Kabir S. Said"
+      },
+      {
+        "literal": "Liming Nie"
+      },
+      {
+        "literal": "Adekunle A. Ajibode"
+      },
+      {
+        "literal": "Xueyi Zhou"
+      }
+    ],
+    "citation-key": "cua_1437035b5d55534c9885b7d0",
+    "container-title": "12th Asia-Pacific Symposium on Internetware",
+    "custom": {
+      "canonical_source_url": "https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf",
+      "catalog_id": "url:1c0a2ce1faf3017fa0c5",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/3457913.3457931"
+      },
+      "publication": {
+        "authors": [
+          "Kabir S. Said",
+          "Liming Nie",
+          "Adekunle A. Ajibode",
+          "Xueyi Zhou"
+        ],
+        "date_basis": "Crossref issued date 2020-11; precision=month.",
+        "date_parts": [
+          2020,
+          11
+        ],
+        "doi": "10.1145/3457913.3457931",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1145/3457913.3457931",
+          "https://api.openalex.org/works/doi:10.1145/3457913.3457931"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "The discovered link is the ResearchGate copy of the Internetware 2020 paper; bibliographic facts come from the Crossref record for its ACM DOI and the abstract from OpenAlex.",
+        "pages": "51-60",
+        "pdf_url": null,
+        "publisher": "ACM",
+        "series": null,
+        "title": "GUI testing for mobile applications: objectives, approaches and challenges",
+        "type": "conference-paper",
+        "url": "https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf",
+        "venue": "12th Asia-Pacific Symposium on Internetware",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:1c0a2ce1faf3017fa0c5",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2020-11.",
+    "page": "51-60",
+    "publisher": "ACM",
+    "title": "GUI testing for mobile applications: objectives, approaches and challenges",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.1145/3025453.3025483",
     "URL": "https://doi.org/10.1145/3025453.3025483",
     "author": [
@@ -18047,6 +18208,82 @@
     "note": "Publication date: 2017.",
     "page": "6038-6049",
     "title": "SUGILITE: Creating Multimodal Smartphone Automation by Demonstration",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/dtpi61353.2024.10778901",
+    "URL": "https://ieeexplore.ieee.org/abstract/document/10778901",
+    "author": [
+      {
+        "literal": "Youwei Li"
+      },
+      {
+        "literal": "Yangyang Li"
+      },
+      {
+        "literal": "Yangzhao Yang"
+      }
+    ],
+    "citation-key": "cua_73a2aa3aa7c55f0e27802000",
+    "container-title": "2024 IEEE 4th International Conference on Digital Twins and Parallel Intelligence (DTPI)",
+    "custom": {
+      "canonical_source_url": "https://ieeexplore.ieee.org/abstract/document/10778901",
+      "catalog_id": "url:83569d30f341f39f4a78",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-18",
+      "identifiers": {
+        "doi": "10.1109/dtpi61353.2024.10778901"
+      },
+      "publication": {
+        "authors": [
+          "Youwei Li",
+          "Yangyang Li",
+          "Yangzhao Yang"
+        ],
+        "date_basis": "Crossref issued date 2024-10-18; precision=day.",
+        "date_parts": [
+          2024,
+          10,
+          18
+        ],
+        "doi": "10.1109/dtpi61353.2024.10778901",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1109/dtpi61353.2024.10778901",
+          "https://api.openalex.org/works/doi:10.1109/dtpi61353.2024.10778901"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "IEEE DTPI 2024 paper; Crossref links the DOI to IEEE Xplore document 10778901, and the abstract was read from OpenAlex.",
+        "pages": "609-614",
+        "pdf_url": null,
+        "publisher": "IEEE",
+        "series": null,
+        "title": "Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10778901",
+        "venue": "2024 IEEE 4th International Conference on Digital Twins and Parallel Intelligence (DTPI)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:83569d30f341f39f4a78",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          18
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-10-18.",
+    "page": "609-614",
+    "publisher": "IEEE",
+    "title": "Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model",
     "type": "paper-conference"
   },
   {
@@ -18526,5 +18763,82 @@
     "page": "27894-27905",
     "title": "AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents",
     "type": "paper-conference"
+  },
+  {
+    "DOI": "10.3390/fi15060196",
+    "URL": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+    "author": [
+      {
+        "literal": "Abdul Wali"
+      },
+      {
+        "literal": "Saipunidzam Mahamad"
+      },
+      {
+        "literal": "Suziah Sulaiman"
+      }
+    ],
+    "citation-key": "cua_46390009d6407c6b4d4e9837",
+    "container-title": "Future Internet",
+    "custom": {
+      "canonical_source_url": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+      "catalog_id": "url:eb791c465f47690ade31",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "publication",
+      "first_published_at": "2023-05-29",
+      "identifiers": {
+        "doi": "10.3390/fi15060196"
+      },
+      "publication": {
+        "authors": [
+          "Abdul Wali",
+          "Saipunidzam Mahamad",
+          "Suziah Sulaiman"
+        ],
+        "date_basis": "Crossref issued date 2023-5-29; precision=day.",
+        "date_parts": [
+          2023,
+          5,
+          29
+        ],
+        "doi": "10.3390/fi15060196",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.3390/fi15060196"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": "6",
+        "notes": "The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.",
+        "pages": "196",
+        "pdf_url": null,
+        "publisher": "MDPI AG",
+        "series": null,
+        "title": "Task Automation Intelligent Agents: A Review",
+        "type": "journal-article",
+        "url": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+        "venue": "Future Internet",
+        "volume": "15"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:eb791c465f47690ade31",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ]
+    },
+    "note": "Publication date: 2023-05-29.",
+    "page": "196",
+    "publisher": "MDPI AG",
+    "title": "Task Automation Intelligent Agents: A Review",
+    "type": "article-journal",
+    "volume": "15"
   }
 ]

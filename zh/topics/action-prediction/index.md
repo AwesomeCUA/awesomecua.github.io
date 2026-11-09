@@ -100,6 +100,8 @@ Full source records: https://awesomecua.com/downloads/topics/action-prediction/r
   Trains a separate language model to rewrite lengthy web page observations into focused descriptions for LLM web agents, keeping training targets that let several LLMs predict the correct next action.
 - [JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse](https://awesomecua.com/resources/arxiv-2503-16365/) — 2025-03-20
   Introduces Act from Visual Language Post-Training, a method for agents that follow instructions in Minecraft through visual input and actions, adjacent to interface operation.
+- [INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent](https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/) — 2025
+  InReAct trains a multimodal GUI agent with staged curriculum learning and outcome-based reinforcement learning for pixel-level grounding and navigation.
 - [Lightweight Neural App Control](https://awesomecua.com/resources/arxiv-2410-17883/) — 2024-10-23
   LiMAC combines a compact Action Transformer with a fine-tuned vision-language model for Android app control. It uses textual goals and histories of screenshots and UI trees to predict actions, with evaluation on two mobile-control datasets.
 - [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding](https://awesomecua.com/resources/arxiv-2409-14818/) — 2024-09-23

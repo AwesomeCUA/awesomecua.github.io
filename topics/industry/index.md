@@ -52,6 +52,12 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
   IDA helps business users create web UI automation through guided demonstrations, a semantic programming model, and a teaching-oriented interface. A prototype user study examines automation creation with enterprise applications by users without programming backgrounds.
 - [Automating the Enterprise with Foundation Models](https://awesomecua.com/resources/arxiv-2405-03710/) — 2024-05-03
   ECLAIR uses multimodal foundation models to automate enterprise workflows from natural-language descriptions, with initial studies of workflow understanding and completion.
+- [Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review](https://awesomecua.com/resources/url-b230a6700386b7e2744c/) — 2021
+  A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.
+- [From Robotic Process Automation to Intelligent Process Automation: Emerging Trends](https://awesomecua.com/resources/arxiv-2007-13257/) — 2020-07-27
+  A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.
+- [Robotic Process Automation: Contemporary themes and challenges](https://awesomecua.com/resources/url-2574c6eeee264762a990/) — 2020-02
+  A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.
 
 ## Benchmarks
 

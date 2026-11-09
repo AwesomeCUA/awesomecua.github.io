@@ -49,6 +49,103 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2007.13257v1",
+    "archive": "arXiv",
+    "archive_location": "2007.13257",
+    "author": [
+      {
+        "literal": "Tathagata Chakraborti"
+      },
+      {
+        "literal": "Vatche Isahagian"
+      },
+      {
+        "literal": "Rania Khalaf"
+      },
+      {
+        "literal": "Yasaman Khazaeni"
+      },
+      {
+        "literal": "Vinod Muthusamy"
+      },
+      {
+        "literal": "Yara Rizk"
+      },
+      {
+        "literal": "Merve Unuvar"
+      }
+    ],
+    "citation-key": "arxiv_2007_13257",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e43a58c6fa46b6d8a83555a51a9057e066da4f0cec8fe7bc8d78c22200eb3bcd",
+        "submitted_at": "2020-07-27T00:43:08Z",
+        "updated_at": "2020-07-27T00:43:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2007.13257v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2007.13257",
+      "catalog_id": "arxiv:2007.13257",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "record",
+      "first_published_at": "2020-07-27",
+      "identifiers": {
+        "arxiv": "2007.13257"
+      },
+      "publication": {
+        "authors": [
+          "Tathagata Chakraborti",
+          "Vatche Isahagian",
+          "Rania Khalaf",
+          "Yasaman Khazaeni",
+          "Vinod Muthusamy",
+          "Yara Rizk",
+          "Merve Unuvar"
+        ],
+        "date_basis": "Crossref issued date 2020; precision=year.",
+        "date_parts": [
+          2020
+        ],
+        "doi": "10.1007/978-3-030-58779-6_15",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1007/978-3-030-58779-6_15"
+        ],
+        "identity_basis": "Same work as the retained arXiv record: matching title and seven-author list, and the arXiv preprint names the BPM 2020 RPA Forum.",
+        "issue": null,
+        "notes": "BPM 2020 RPA Forum chapter in Lecture Notes in Business Information Processing; the arXiv preprint names the same forum.",
+        "pages": "215-228",
+        "pdf_url": null,
+        "publisher": "Springer International Publishing",
+        "series": null,
+        "title": "From Robotic Process Automation to Intelligent Process Automation",
+        "type": "conference-paper",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-58779-6_15",
+        "venue": "Lecture Notes in Business Information Processing",
+        "volume": null
+      },
+      "record_updated_at": "2020-07-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2007.13257",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2020-07-27; Recorded arXiv version: v1; Recorded version updated: 2020-07-27T00:43:08Z.",
+    "title": "From Robotic Process Automation to Intelligent Process Automation: Emerging Trends",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2202.08137v2",
     "archive": "arXiv",
     "archive_location": "2202.08137",
@@ -846,6 +943,89 @@
     },
     "note": "First published: 2023-10-24; Recorded arXiv version: v1; Recorded version updated: 2023-10-24T12:30:26Z.",
     "title": "Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2311.08649v1",
+    "archive": "arXiv",
+    "archive_location": "2311.08649",
+    "author": [
+      {
+        "literal": "Juyeon Yoon"
+      },
+      {
+        "literal": "Robert Feldt"
+      },
+      {
+        "literal": "Shin Yoo"
+      }
+    ],
+    "citation-key": "arxiv_2311_08649",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3d61362613d8b732fc00762763ee9e842eb58c082c1097b5bc485e43b396ce4c",
+        "submitted_at": "2023-11-15T01:59:40Z",
+        "updated_at": "2023-11-15T01:59:40Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2311.08649v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2311.08649",
+      "catalog_id": "arxiv:2311.08649",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "record",
+      "first_published_at": "2023-11-15",
+      "identifiers": {
+        "arxiv": "2311.08649"
+      },
+      "publication": {
+        "authors": [
+          "Juyeon Yoon",
+          "Robert Feldt",
+          "Shin Yoo"
+        ],
+        "date_basis": "Crossref issued date 2024-5-27; precision=day.",
+        "date_parts": [
+          2024,
+          5,
+          27
+        ],
+        "doi": "10.1109/icst60714.2024.00020",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1109/icst60714.2024.00020"
+        ],
+        "identity_basis": "Same work as the retained arXiv record: the arXiv title is a rewording of the ICST title, and both list the same three authors.",
+        "issue": null,
+        "notes": "IEEE ICST 2024 edition of the arXiv preprint; Crossref links the DOI to IEEE Xplore document 10638557.",
+        "pages": "129-139",
+        "pdf_url": null,
+        "publisher": "IEEE",
+        "series": null,
+        "title": "Intent-Driven Mobile GUI Testing with Autonomous Large Language Model Agents",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10638557",
+        "venue": "2024 IEEE Conference on Software Testing, Verification and Validation (ICST)",
+        "volume": null
+      },
+      "record_updated_at": "2023-11-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2311.08649",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2023-11-15; Recorded arXiv version: v1; Recorded version updated: 2023-11-15T01:59:40Z.",
+    "title": "Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing",
     "type": "article",
     "version": "1"
   },
@@ -3608,6 +3788,89 @@
     },
     "note": "First published: 2025-05-21; Recorded arXiv version: v1; Recorded version updated: 2025-05-21T04:32:35Z.",
     "title": "AutoData: A Multi-Agent System for Open Web Data Collection",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.17839v1",
+    "archive": "arXiv",
+    "archive_location": "2505.17839",
+    "author": [
+      {
+        "literal": "Tim Rosenbach"
+      },
+      {
+        "literal": "David Heidrich"
+      },
+      {
+        "literal": "Alexander Weinert"
+      }
+    ],
+    "citation-key": "arxiv_2505_17839",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7944dbed8bea0cf56bcc58737a7af46e21c37cfd242be215c136256f8620ed0c",
+        "submitted_at": "2025-05-23T12:53:28Z",
+        "updated_at": "2025-05-23T12:53:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.17839v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.17839",
+      "catalog_id": "arxiv:2505.17839",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "record",
+      "first_published_at": "2025-05-23",
+      "identifiers": {
+        "arxiv": "2505.17839"
+      },
+      "publication": {
+        "authors": [
+          "Tim Rosenbach",
+          "David Heidrich",
+          "Alexander Weinert"
+        ],
+        "date_basis": "Crossref issued date 2025-3-31; precision=day.",
+        "date_parts": [
+          2025,
+          3,
+          31
+        ],
+        "doi": "10.1109/icstw64639.2025.10962502",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1109/icstw64639.2025.10962502"
+        ],
+        "identity_basis": "Same work as the retained arXiv record: matching title and authors, and the arXiv journal reference and DOI name this ICSTW 2025 edition.",
+        "issue": null,
+        "notes": "IEEE ICSTW 2025 workshop edition of the arXiv preprint, whose journal reference and DOI name this edition; Crossref links the DOI to IEEE Xplore document 10962502.",
+        "pages": "103-110",
+        "pdf_url": null,
+        "publisher": "IEEE",
+        "series": null,
+        "title": "Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10962502",
+        "venue": "2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.17839",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-23; Recorded arXiv version: v1; Recorded version updated: 2025-05-23T12:53:28Z.",
+    "title": "Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models",
     "type": "article",
     "version": "1"
   },
@@ -8033,6 +8296,339 @@
     "version": "1"
   },
   {
+    "DOI": "10.1007/978-3-030-85347-1_34",
+    "URL": "https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34",
+    "author": [
+      {
+        "literal": "Olivia Rodríguez-Valdés"
+      },
+      {
+        "literal": "Tanja E. J. Vos"
+      },
+      {
+        "literal": "Pekka Aho"
+      },
+      {
+        "literal": "Beatriz Marín"
+      }
+    ],
+    "citation-key": "cua_082ca5b86804a432572b32ad",
+    "container-title": "Communications in Computer and Information Science",
+    "custom": {
+      "canonical_source_url": "https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34",
+      "catalog_id": "url:24a139a7910431441e39",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1007/978-3-030-85347-1_34"
+      },
+      "publication": {
+        "authors": [
+          "Olivia Rodríguez-Valdés",
+          "Tanja E. J. Vos",
+          "Pekka Aho",
+          "Beatriz Marín"
+        ],
+        "date_basis": "Crossref issued date 2021; precision=year.",
+        "date_parts": [
+          2021
+        ],
+        "doi": "10.1007/978-3-030-85347-1_34",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1007/978-3-030-85347-1_34",
+          "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/978-3-030-85347-1_34?fields=title,abstract,authors,venue,year,externalIds"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "QUATIC 2021 chapter in Communications in Computer and Information Science; the abstract was read from Semantic Scholar.",
+        "pages": "473-488",
+        "pdf_url": null,
+        "publisher": "Springer International Publishing",
+        "series": null,
+        "title": "30 Years of Automated GUI Testing: A Bibliometric Analysis",
+        "type": "conference-paper",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34",
+        "venue": "Communications in Computer and Information Science",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:24a139a7910431441e39",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "note": "Publication date: 2021.",
+    "page": "473-488",
+    "publisher": "Springer International Publishing",
+    "title": "30 Years of Automated GUI Testing: A Bibliometric Analysis",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1016/j.compind.2019.103162",
+    "URL": "https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609",
+    "author": [
+      {
+        "literal": "Rehan Syed"
+      },
+      {
+        "literal": "Suriadi Suriadi"
+      },
+      {
+        "literal": "Michael Adams"
+      },
+      {
+        "literal": "Wasana Bandara"
+      },
+      {
+        "literal": "Sander J.J. Leemans"
+      },
+      {
+        "literal": "Chun Ouyang"
+      },
+      {
+        "literal": "Arthur H.M. ter Hofstede"
+      },
+      {
+        "literal": "Inge van de Weerd"
+      },
+      {
+        "literal": "Moe Thandar Wynn"
+      },
+      {
+        "literal": "Hajo A. Reijers"
+      }
+    ],
+    "citation-key": "cua_d62129f0b2ced2720ee187d9",
+    "container-title": "Computers in Industry",
+    "custom": {
+      "canonical_source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609",
+      "catalog_id": "url:2574c6eeee264762a990",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1016/j.compind.2019.103162"
+      },
+      "publication": {
+        "authors": [
+          "Rehan Syed",
+          "Suriadi Suriadi",
+          "Michael Adams",
+          "Wasana Bandara",
+          "Sander J.J. Leemans",
+          "Chun Ouyang",
+          "Arthur H.M. ter Hofstede",
+          "Inge van de Weerd",
+          "Moe Thandar Wynn",
+          "Hajo A. Reijers"
+        ],
+        "date_basis": "Crossref issued date 2020-2; precision=month.",
+        "date_parts": [
+          2020,
+          2
+        ],
+        "doi": "10.1016/j.compind.2019.103162",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1016/j.compind.2019.103162",
+          "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.compind.2019.103162?fields=title,abstract,authors,venue,year,externalIds"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "Computers in Industry journal article; the abstract was read from Semantic Scholar.",
+        "pages": "103162",
+        "pdf_url": null,
+        "publisher": "Elsevier BV",
+        "series": null,
+        "title": "Robotic Process Automation: Contemporary themes and challenges",
+        "type": "journal-article",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609",
+        "venue": "Computers in Industry",
+        "volume": "115"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:2574c6eeee264762a990",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    },
+    "note": "Publication date: 2020-02.",
+    "page": "103162",
+    "publisher": "Elsevier BV",
+    "title": "Robotic Process Automation: Contemporary themes and challenges",
+    "type": "article-journal",
+    "volume": "115"
+  },
+  {
+    "DOI": "10.1145/3664647.3684998",
+    "URL": "https://dl.acm.org/doi/abs/10.1145/3664647.3684998",
+    "author": [
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Siyuan Hu"
+      },
+      {
+        "literal": "Zechen Bai"
+      },
+      {
+        "literal": "Qinghong Lin"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "cua_16ba9a7e63121626c10836c7",
+    "container-title": "Proceedings of the 32nd ACM International Conference on Multimedia",
+    "custom": {
+      "canonical_source_url": "https://dl.acm.org/doi/abs/10.1145/3664647.3684998",
+      "catalog_id": "url:377f5418e39ff2da971f",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-28",
+      "identifiers": {
+        "doi": "10.1145/3664647.3684998"
+      },
+      "publication": {
+        "authors": [
+          "Difei Gao",
+          "Siyuan Hu",
+          "Zechen Bai",
+          "Qinghong Lin",
+          "Mike Zheng Shou"
+        ],
+        "date_basis": "Crossref issued date 2024-10-28; precision=day.",
+        "date_parts": [
+          2024,
+          10,
+          28
+        ],
+        "doi": "10.1145/3664647.3684998",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1145/3664647.3684998",
+          "https://api.openalex.org/works/doi:10.1145/3664647.3684998"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "ACM Multimedia 2024 proceedings paper; the abstract was read from OpenAlex.",
+        "pages": "11255-11257",
+        "pdf_url": null,
+        "publisher": "ACM",
+        "series": null,
+        "title": "AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation",
+        "type": "conference-paper",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3664647.3684998",
+        "venue": "Proceedings of the 32nd ACM International Conference on Multimedia",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:377f5418e39ff2da971f",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          28
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-10-28.",
+    "page": "11255-11257",
+    "publisher": "ACM",
+    "title": "AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/icstw58534.2023.00022",
+    "URL": "https://ieeexplore.ieee.org/abstract/document/10132233",
+    "author": [
+      {
+        "literal": "Daniel Zimmermann"
+      },
+      {
+        "literal": "Anne Koziolek"
+      }
+    ],
+    "citation-key": "cua_53a636249b3def01cf60931e",
+    "container-title": "2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+    "custom": {
+      "canonical_source_url": "https://ieeexplore.ieee.org/abstract/document/10132233",
+      "catalog_id": "url:412c168dd5d0aeded46a",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1109/icstw58534.2023.00022"
+      },
+      "publication": {
+        "authors": [
+          "Daniel Zimmermann",
+          "Anne Koziolek"
+        ],
+        "date_basis": "Crossref issued date 2023-4; precision=month.",
+        "date_parts": [
+          2023,
+          4
+        ],
+        "doi": "10.1109/icstw58534.2023.00022",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1109/icstw58534.2023.00022",
+          "https://api.openalex.org/works/doi:10.1109/icstw58534.2023.00022"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "IEEE ICSTW 2023 workshop paper; Crossref links the DOI to IEEE Xplore document 10132233, and the abstract was read from OpenAlex.",
+        "pages": "62-65",
+        "pdf_url": null,
+        "publisher": "IEEE",
+        "series": null,
+        "title": "Automating GUI-based Software Testing with GPT-3",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10132233",
+        "venue": "2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:412c168dd5d0aeded46a",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4
+        ]
+      ]
+    },
+    "note": "Publication date: 2023-04.",
+    "page": "62-65",
+    "publisher": "IEEE",
+    "title": "Automating GUI-based Software Testing with GPT-3",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.1145/1753326.1753555",
     "URL": "https://doi.org/10.1145/1753326.1753555",
     "author": [
@@ -8202,6 +8798,178 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.1145/3650212.3680334",
+    "URL": "https://dl.acm.org/doi/abs/10.1145/3650212.3680334",
+    "author": [
+      {
+        "literal": "Dezhi Ran"
+      },
+      {
+        "literal": "Hao Wang"
+      },
+      {
+        "literal": "Zihe Song"
+      },
+      {
+        "literal": "Mengzhou Wu"
+      },
+      {
+        "literal": "Yuan Cao"
+      },
+      {
+        "literal": "Ying Zhang"
+      },
+      {
+        "literal": "Wei Yang"
+      },
+      {
+        "literal": "Tao Xie"
+      }
+    ],
+    "citation-key": "cua_eee2fc18197fcc17f44675db",
+    "container-title": "Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis",
+    "custom": {
+      "canonical_source_url": "https://dl.acm.org/doi/abs/10.1145/3650212.3680334",
+      "catalog_id": "url:7424d66754ec26d68d83",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-09-11",
+      "identifiers": {
+        "doi": "10.1145/3650212.3680334"
+      },
+      "publication": {
+        "authors": [
+          "Dezhi Ran",
+          "Hao Wang",
+          "Zihe Song",
+          "Mengzhou Wu",
+          "Yuan Cao",
+          "Ying Zhang",
+          "Wei Yang",
+          "Tao Xie"
+        ],
+        "date_basis": "Crossref issued date 2024-9-11; precision=day.",
+        "date_parts": [
+          2024,
+          9,
+          11
+        ],
+        "doi": "10.1145/3650212.3680334",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1145/3650212.3680334",
+          "https://api.openalex.org/works/doi:10.1145/3650212.3680334"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "ISSTA 2024 proceedings paper; the abstract was read from OpenAlex.",
+        "pages": "958-970",
+        "pdf_url": null,
+        "publisher": "ACM",
+        "series": null,
+        "title": "Guardian: A Runtime Framework for LLM-Based UI Exploration",
+        "type": "conference-paper",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3650212.3680334",
+        "venue": "Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:7424d66754ec26d68d83",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-09-11.",
+    "page": "958-970",
+    "publisher": "ACM",
+    "title": "Guardian: A Runtime Framework for LLM-Based UI Exploration",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/dtpi61353.2024.10778901",
+    "URL": "https://ieeexplore.ieee.org/abstract/document/10778901",
+    "author": [
+      {
+        "literal": "Youwei Li"
+      },
+      {
+        "literal": "Yangyang Li"
+      },
+      {
+        "literal": "Yangzhao Yang"
+      }
+    ],
+    "citation-key": "cua_73a2aa3aa7c55f0e27802000",
+    "container-title": "2024 IEEE 4th International Conference on Digital Twins and Parallel Intelligence (DTPI)",
+    "custom": {
+      "canonical_source_url": "https://ieeexplore.ieee.org/abstract/document/10778901",
+      "catalog_id": "url:83569d30f341f39f4a78",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-18",
+      "identifiers": {
+        "doi": "10.1109/dtpi61353.2024.10778901"
+      },
+      "publication": {
+        "authors": [
+          "Youwei Li",
+          "Yangyang Li",
+          "Yangzhao Yang"
+        ],
+        "date_basis": "Crossref issued date 2024-10-18; precision=day.",
+        "date_parts": [
+          2024,
+          10,
+          18
+        ],
+        "doi": "10.1109/dtpi61353.2024.10778901",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1109/dtpi61353.2024.10778901",
+          "https://api.openalex.org/works/doi:10.1109/dtpi61353.2024.10778901"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "IEEE DTPI 2024 paper; Crossref links the DOI to IEEE Xplore document 10778901, and the abstract was read from OpenAlex.",
+        "pages": "609-614",
+        "pdf_url": null,
+        "publisher": "IEEE",
+        "series": null,
+        "title": "Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10778901",
+        "venue": "2024 IEEE 4th International Conference on Digital Twins and Parallel Intelligence (DTPI)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:83569d30f341f39f4a78",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          18
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-10-18.",
+    "page": "609-614",
+    "publisher": "IEEE",
+    "title": "Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.1145/3242587.3242661",
     "URL": "https://doi.org/10.1145/3242587.3242661",
     "author": [
@@ -8344,6 +9112,83 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.1016/j.procs.2021.01.104",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S1877050921001393",
+    "author": [
+      {
+        "literal": "Jorge Ribeiro"
+      },
+      {
+        "literal": "Rui Lima"
+      },
+      {
+        "literal": "Tiago Eckhardt"
+      },
+      {
+        "literal": "Sara Paiva"
+      }
+    ],
+    "citation-key": "cua_22af3749b032a90aa40625db",
+    "container-title": "Procedia Computer Science",
+    "custom": {
+      "canonical_source_url": "https://www.sciencedirect.com/science/article/pii/S1877050921001393",
+      "catalog_id": "url:b230a6700386b7e2744c",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1016/j.procs.2021.01.104"
+      },
+      "publication": {
+        "authors": [
+          "Jorge Ribeiro",
+          "Rui Lima",
+          "Tiago Eckhardt",
+          "Sara Paiva"
+        ],
+        "date_basis": "Crossref issued date 2021; precision=year.",
+        "date_parts": [
+          2021
+        ],
+        "doi": "10.1016/j.procs.2021.01.104",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1016/j.procs.2021.01.104",
+          "https://api.openalex.org/works/doi:10.1016/j.procs.2021.01.104"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "Procedia Computer Science article; the abstract was read from OpenAlex.",
+        "pages": "51-58",
+        "pdf_url": null,
+        "publisher": "Elsevier BV",
+        "series": null,
+        "title": "Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review",
+        "type": "journal-article",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877050921001393",
+        "venue": "Procedia Computer Science",
+        "volume": "181"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:b230a6700386b7e2744c",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "note": "Publication date: 2021.",
+    "page": "51-58",
+    "publisher": "Elsevier BV",
+    "title": "Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review",
+    "type": "article-journal",
+    "volume": "181"
+  },
+  {
     "URL": "https://acypher.com/Publications/CHI91/EagerCHI.html",
     "author": [
       {
@@ -8401,6 +9246,155 @@
     "note": "Publication date: 1991.",
     "page": "33-39",
     "title": "Eager: Programming Repetitive Tasks by Example",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.3390/fi15060196",
+    "URL": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+    "author": [
+      {
+        "literal": "Abdul Wali"
+      },
+      {
+        "literal": "Saipunidzam Mahamad"
+      },
+      {
+        "literal": "Suziah Sulaiman"
+      }
+    ],
+    "citation-key": "cua_46390009d6407c6b4d4e9837",
+    "container-title": "Future Internet",
+    "custom": {
+      "canonical_source_url": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+      "catalog_id": "url:eb791c465f47690ade31",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "publication",
+      "first_published_at": "2023-05-29",
+      "identifiers": {
+        "doi": "10.3390/fi15060196"
+      },
+      "publication": {
+        "authors": [
+          "Abdul Wali",
+          "Saipunidzam Mahamad",
+          "Suziah Sulaiman"
+        ],
+        "date_basis": "Crossref issued date 2023-5-29; precision=day.",
+        "date_parts": [
+          2023,
+          5,
+          29
+        ],
+        "doi": "10.3390/fi15060196",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.3390/fi15060196"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": "6",
+        "notes": "The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.",
+        "pages": "196",
+        "pdf_url": null,
+        "publisher": "MDPI AG",
+        "series": null,
+        "title": "Task Automation Intelligent Agents: A Review",
+        "type": "journal-article",
+        "url": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+        "venue": "Future Internet",
+        "volume": "15"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:eb791c465f47690ade31",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ]
+    },
+    "note": "Publication date: 2023-05-29.",
+    "page": "196",
+    "publisher": "MDPI AG",
+    "title": "Task Automation Intelligent Agents: A Review",
+    "type": "article-journal",
+    "volume": "15"
+  },
+  {
+    "DOI": "10.1109/asew60602.2023.00028",
+    "URL": "https://ieeexplore.ieee.org/abstract/document/10298721",
+    "author": [
+      {
+        "literal": "Daniel Zimmermann"
+      },
+      {
+        "literal": "Anne Koziolek"
+      }
+    ],
+    "citation-key": "cua_b6997e497bb06e68e4d8421c",
+    "container-title": "2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+    "custom": {
+      "canonical_source_url": "https://ieeexplore.ieee.org/abstract/document/10298721",
+      "catalog_id": "url:ffc05c4425f777924940",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2023-09-11",
+      "identifiers": {
+        "doi": "10.1109/asew60602.2023.00028"
+      },
+      "publication": {
+        "authors": [
+          "Daniel Zimmermann",
+          "Anne Koziolek"
+        ],
+        "date_basis": "Crossref issued date 2023-9-11; precision=day.",
+        "date_parts": [
+          2023,
+          9,
+          11
+        ],
+        "doi": "10.1109/asew60602.2023.00028",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1109/asew60602.2023.00028",
+          "https://api.openalex.org/works/doi:10.1109/asew60602.2023.00028"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "IEEE/ACM ASE 2023 workshop paper; Crossref links the DOI to IEEE Xplore document 10298721, and the abstract was read from OpenAlex.",
+        "pages": "171-174",
+        "pdf_url": null,
+        "publisher": "IEEE",
+        "series": null,
+        "title": "GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10298721",
+        "venue": "2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:ffc05c4425f777924940",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2023-09-11.",
+    "page": "171-174",
+    "publisher": "IEEE",
+    "title": "GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver",
     "type": "paper-conference"
   }
 ]

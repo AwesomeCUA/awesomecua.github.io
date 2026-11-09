@@ -6,6 +6,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
 
 ## 论文与综述
 
+- [GUI Grounding for Computer-Use Agents: A Survey](https://awesomecua.com/resources/url-0579bd92efb87b26cb15/) — 2026-11-04
+  A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.
 - [Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining](https://awesomecua.com/resources/arxiv-2611-04142/) — 2026-11-03
   Applies sequential pattern mining to MiniWoB++ web-agent traces, producing reviewable failure signatures and an early-termination policy to reduce token use.
 - [Computer-Use Agents Gain Little Benefit from a World Model When Conditioned on Tutorials](https://awesomecua.com/resources/arxiv-2611-04073/) — 2026-11-02
@@ -180,6 +182,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces STEER-Bench to study branch-steering attacks that manipulate untrusted web data toward hazardous paths already permitted by an agent’s plan. Its COBRA architecture combines trusted branching plans with advance constraints on the parameters and destinations each branch can use.
 - [WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness](https://awesomecua.com/resources/arxiv-2610-02617/) — 2026-10-02
   Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
+- [AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents](https://awesomecua.com/resources/url-e86b3a1454b494224f07/) — 2026-10-01
+  AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.
 - [How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling](https://awesomecua.com/resources/arxiv-2610-02542/) — 2026-10-01
   Compares fine-tuned, retrieval-based and hybrid language-model world models for next-observation prediction and action selection in text environments including WebShop.
 - [Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents](https://awesomecua.com/resources/arxiv-2610-01787/) — 2026-10-01
@@ -436,6 +440,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Defines visual state reliance and probes whether GUI agents resolve screenshot/structure conflicts using pixels, serialized interface structure or prior beliefs. Paired interventions and live multi-step tests connect misattributed state beliefs to failures and compare consistency-based mitigations.
 - [Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents](https://awesomecua.com/resources/arxiv-2608-09944/) — 2026-07-01
   Introduces NeXUI, an assistive UI-agent benchmark that evaluates navigation together with interface-grounded explanations and user oversight in recorded interface states.
+- [Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing](https://awesomecua.com/resources/url-39f88102e1659647b1a0/) — 2026-06-30
+  Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.
 - [DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching](https://awesomecua.com/resources/arxiv-2606-31980/) — 2026-06-30
   DigitalCoach records expert–novice software coaching conversations aligned with screen and input events. Automated and interactive evaluations examine how model coaches differ from humans in explanation, error diagnosis and visual grounding when helping a learner operate software.
 - [Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2606-31270/) — 2026-06-30
@@ -968,6 +974,10 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   InfiniteWeb generates functional, interconnected websites and task evaluators using shared specifications and task-driven development. It evaluates website construction and the transfer of GUI policies trained in these synthetic web environments to OSWorld and Online-Mind2Web.
 - [WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks](https://awesomecua.com/resources/arxiv-2601-02439/) — 2026-01-05
   WebGym supplies realistic web tasks with rubric-based evaluation and an asynchronous rollout system for reinforcement learning. It studies how training on an agent’s own interaction traces scales with task coverage and transfers to unseen websites.
+- [Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding](https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/) — 2026
+  Trace2Ground builds a web GUI grounding dataset from HTML/DOM elements and simulated traces, testing scenario, duplicate-label, and relational instructions.
+- [Do GUI Grounders Truly Understand UI Elements?](https://awesomecua.com/resources/url-16f4a8903de0f90d3638/) — 2026
+  A desktop GUI grounding benchmark tests whether models identify the same element across varied descriptions; a diagnosis agent generates difficult instructions using model feedback.
 - [ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands](https://awesomecua.com/resources/arxiv-2512-24965/) — 2025-12-31
   Models discrete clicks and continuous drags with flow-based action generation, and introduces drag trajectories and the ScreenDrag benchmark.
 - [ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments](https://awesomecua.com/resources/arxiv-2601-02399/) — 2025-12-30
@@ -1472,6 +1482,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Evaluates privacy-directed webpage instruction injection against generalist web agents using PII-related interaction steps from Mind2Web, including attempts to expose specific user information or entire requests.
 - [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](https://awesomecua.com/resources/arxiv-2409-08264/) — 2024-09-12
   Adapts real-desktop evaluation to Windows applications and supports parallel execution of benchmark tasks.
+- [Guardian: A Runtime Framework for LLM-Based UI Exploration](https://awesomecua.com/resources/url-7424d66754ec26d68d83/) — 2024-09-11
+  Guardian guides LLM-driven mobile app testing by narrowing available UI actions and replanning after invalidated actions; it is evaluated on 58 tasks from 23 apps.
 - [WebQuest: A Benchmark for Multimodal QA on Web Page Sequences](https://awesomecua.com/resources/arxiv-2409-13711/) — 2024-09-06
   Introduces question answering over individual screens, multiple web pages, and navigation traces to test information synthesis across views.
 - [From Grounding to Planning: Benchmarking Bottlenecks in Web Agents](https://awesomecua.com/resources/arxiv-2409-01927/) — 2024-09-03
@@ -1616,6 +1628,8 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   AllTogether standardizes prompts for HTML-based web navigation and compares prompting with instruction fine-tuning. Its analysis examines how HTML context, interaction history, and current environmental feedback affect task execution.
 - [AXNav: Replaying Accessibility Tests from Natural Language](https://awesomecua.com/resources/arxiv-2310-02424/) — 2023-10-03
   Introduces an LLM and pixel-based UI system that executes natural-language accessibility tests, records navigable videos and flags potential interface issues.
+- [GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver](https://awesomecua.com/resources/url-ffc05c4425f777924940/) — 2023-09-11
+  A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.
 - [AgentBench: Evaluating LLMs as Agents](https://awesomecua.com/resources/arxiv-2308-03688/) — 2023-08-07
   Evaluates language agents across eight interactive environments and analyzes failures in reasoning, decisions, and instruction following.
 - [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://awesomecua.com/resources/arxiv-2307-13854/) — 2023-07-25
@@ -1646,6 +1660,10 @@ Full source records: https://awesomecua.com/downloads/topics/evaluation/records.
   Introduces MoTIF, a dataset of natural-language requests for interactive mobile apps, including infeasible requests and follow-up questions for studying task feasibility.
 - [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://awesomecua.com/resources/arxiv-2101-09465/) — 2021-01-23
   Introduces question answering over webpage text and structure, with aligned HTML, screenshots, and metadata for structural reading comprehension.
+- [30 Years of Automated GUI Testing: A Bibliometric Analysis](https://awesomecua.com/resources/url-24a139a7910431441e39/) — 2021
+  A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.
+- [GUI testing for mobile applications: objectives, approaches and challenges](https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/) — 2020-11
+  A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.
 - [Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?](https://awesomecua.com/resources/arxiv-2008-05132/) — 2020-08-12
   Compares seven traditional and learned GUI element detectors on more than 50,000 interface images. The analysis motivates a coarse-to-fine non-text detector combined with a learned text detector to address GUI-specific localization requirements.
 - [A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications](https://awesomecua.com/resources/arxiv-1812-11470/) — 2018-12-30

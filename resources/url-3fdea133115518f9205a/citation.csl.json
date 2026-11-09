@@ -1,0 +1,75 @@
+{
+  "id": "url:3fdea133115518f9205a",
+  "citation-key": "cua_763f57fe840ec9d67362bb53",
+  "type": "paper-conference",
+  "title": "MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information",
+  "URL": "https://ceur-ws.org/Vol-4028/paper8.pdf",
+  "custom": {
+    "catalog_id": "url:3fdea133115518f9205a",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://ceur-ws.org/Vol-4028/paper8.pdf",
+    "identifiers": {},
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Nazmus Sakib",
+        "Protoy Barai",
+        "Sifat Ishmam Parisa",
+        "Anindya Iqbal"
+      ],
+      "date_basis": "Year from the CEUR-WS Vol-4028 volume page copyright line (2025); no month or day is given.",
+      "date_parts": [
+        2025
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://ceur-ws.org/Vol-4028/",
+        "https://ceur-ws.org/Vol-4028/paper8.pdf"
+      ],
+      "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the PDF and the Vol-4028 table of contents give the same title and authors.",
+      "issue": null,
+      "notes": "Open-access CEUR-WS paper in the From Objects to Agents 2025 volume, pages 106-123, published under CC BY 4.0. The PDF links code, data and trained models.",
+      "pages": "106-123",
+      "pdf_url": null,
+      "publisher": "CEUR-WS.org",
+      "series": "CEUR Workshop Proceedings",
+      "title": "MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information",
+      "type": "conference-paper",
+      "url": "https://ceur-ws.org/Vol-4028/paper8.pdf",
+      "venue": "From Objects to Agents 2025",
+      "volume": "4028"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025.",
+  "author": [
+    {
+      "literal": "Nazmus Sakib"
+    },
+    {
+      "literal": "Protoy Barai"
+    },
+    {
+      "literal": "Sifat Ishmam Parisa"
+    },
+    {
+      "literal": "Anindya Iqbal"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025
+      ]
+    ]
+  },
+  "container-title": "From Objects to Agents 2025",
+  "publisher": "CEUR-WS.org",
+  "collection-title": "CEUR Workshop Proceedings",
+  "volume": "4028",
+  "page": "106-123"
+}

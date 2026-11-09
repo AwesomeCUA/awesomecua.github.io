@@ -1,10 +1,71 @@
 # Computer-use agent surveys
 
-> 29 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T06:16:40Z.
+> 37 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-09T08:07:58Z.
 
 HTML page: https://awesomecua.com/categories/survey/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/papers.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## 30 Years of Automated GUI Testing: A Bibliometric Analysis
+
+A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.
+
+- Catalog URL: https://awesomecua.com/resources/url-24a139a7910431441e39/
+- Original source: https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: survey, evaluation, automation
+- Evidence checked: 2026-11-09T08:07:52Z
+- ID: url:24a139a7910431441e39
+
+### Limitations
+
+A Scopus search yielded 744 primary studies. The authors report that conference papers were the majority and identify AI integration and automated exploration among research trends.
+
+- Record JSON: https://awesomecua.com/resources/url-24a139a7910431441e39/record.json
+
+### Authors
+
+Olivia Rodríguez-Valdés, Tanja E. J. Vos, Pekka Aho, Beatriz Marín
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-24a139a7910431441e39/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-24a139a7910431441e39/citation.csl.json
+
+### Publication record
+
+- Title: 30 Years of Automated GUI Testing: A Bibliometric Analysis
+- Authors: Olivia Rodríguez-Valdés, Tanja E. J. Vos, Pekka Aho, Beatriz Marín
+- Publication date (recorded precision): 2021
+- Publication source: https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34
+- Publication BibTeX: https://awesomecua.com/resources/url-24a139a7910431441e39/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-24a139a7910431441e39/publication-citation.csl.json
+- venue: Communications in Computer and Information Science
+- publisher: Springer International Publishing
+- pages: 473-488
+- doi: 10.1007/978-3-030-85347-1_34
+- date basis: Crossref issued date 2021; precision=year.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: QUATIC 2021 chapter in Communications in Computer and Information Science; the abstract was read from Semantic Scholar.
+- Publication evidence: https://api.crossref.org/works/10.1007/978-3-030-85347-1_34, https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/978-3-030-85347-1_34?fields=title,abstract,authors,venue,year,externalIds
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.1007/978-3-030-85347-1_34 (retrieved 2026-11-09T08:05:58Z; SHA-256 eb541b19b09d908e3e126abd3c5e15d235196f92e7a3df2d105ae67321384b72)
+- https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/978-3-030-85347-1_34?fields=title,abstract,authors,venue,year,externalIds (retrieved 2026-11-09T08:02:01Z; SHA-256 39e038623968309fcbf786400b9aae6efd11acae35118edaab82a4167c9ffcac)
+- https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/978-3-030-85347-1_34?fields=title,abstract,authors,venue,year,externalIds (retrieved 2026-11-09T08:07:52Z; SHA-256 39e038623968309fcbf786400b9aae6efd11acae35118edaab82a4167c9ffcac)
 
 ---
 
@@ -850,6 +911,76 @@ Biao Wu, Yanda Li, Zhiwei Zhang, Yunchao Wei, Meng Fang, Ling Chen
 
 ---
 
+## From Robotic Process Automation to Intelligent Process Automation: Emerging Trends
+
+A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2007-13257/
+- Original source: https://arxiv.org/abs/2007.13257
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: survey, automation, workflow, industry
+- Evidence checked: 2026-11-09T08:07:58Z
+- ID: arxiv:2007.13257
+
+### Limitations
+
+Intelligent process automation is presented as an extension of robotic process automation at the intersection of AI and business processes. The arXiv preprint was written for the BPM 2020 RPA Forum.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2007-13257/record.json
+
+### Authors
+
+Tathagata Chakraborti, Vatche Isahagian, Rania Khalaf, Yasaman Khazaeni, Vinod Muthusamy, Yara Rizk, Merve Unuvar
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2007-13257/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2007-13257/citation.csl.json
+
+### Publication record
+
+- Title: From Robotic Process Automation to Intelligent Process Automation
+- Authors: Tathagata Chakraborti, Vatche Isahagian, Rania Khalaf, Yasaman Khazaeni, Vinod Muthusamy, Yara Rizk, Merve Unuvar
+- Publication date (recorded precision): 2020
+- Publication source: https://link.springer.com/chapter/10.1007/978-3-030-58779-6_15
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2007-13257/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2007-13257/publication-citation.csl.json
+- venue: Lecture Notes in Business Information Processing
+- publisher: Springer International Publishing
+- pages: 215-228
+- doi: 10.1007/978-3-030-58779-6_15
+- date basis: Crossref issued date 2020; precision=year.
+- identity basis: Same work as the retained arXiv record: matching title and seven-author list, and the arXiv preprint names the BPM 2020 RPA Forum.
+- notes: BPM 2020 RPA Forum chapter in Lecture Notes in Business Information Processing; the arXiv preprint names the same forum.
+- Publication evidence: https://api.crossref.org/works/10.1007/978-3-030-58779-6_15
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2007.13257v1
+- First submission: 2020-07-27T00:43:08Z
+- Version updated: 2020-07-27T00:43:08Z
+- Abstract SHA-256: e43a58c6fa46b6d8a83555a51a9057e066da4f0cec8fe7bc8d78c22200eb3bcd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2311.08649%2C2511.08172%2C2007.13257%2C2505.17839&max_results=4 (retrieved 2026-11-09T08:05:55Z; SHA-256 d84811c1901af5997f748274c6f6ccf434c29ab0e3b7e2baf722cb7faac12cb6)
+- https://api.crossref.org/works/10.1007/978-3-030-58779-6_15 (retrieved 2026-11-09T08:06:12Z; SHA-256 051e4f5053dff4db65302c42033b529f8cd7b9c1bd7372b93d554bdffe2d8af2)
+- https://arxiv.org/abs/2007.13257 (retrieved 2026-11-09T08:07:58Z; SHA-256 febd234bfe8a61b80c1a1a4a87d3fd9610506f635647164f48389156e2014211)
+
+---
+
 ## Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms
 
 Surveys virtual agents for browsers, applications and operating systems, organizing prior work by task type, observation and action spaces, model strategies and evaluation methods. It examines screen-based interaction and keyboard, mouse and touch control, alongside transferability and long-sequence decision-making challenges.
@@ -1024,6 +1155,126 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 
 ---
 
+## GUI Grounding for Computer-Use Agents: A Survey
+
+A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.
+
+- Catalog URL: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/
+- Original source: https://doi.org/10.20944/preprints202611.0431.v1
+- Kind: survey
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: survey, grounding, evaluation, screen-understanding
+- Evidence checked: 2026-11-09T08:07:52Z
+- ID: url:0579bd92efb87b26cb15
+
+### Limitations
+
+The survey compares representative methods across target types, instruction complexity, and interaction requirements. It describes a shift toward intent understanding, dynamic interfaces, and spatial parameter prediction.
+
+- Record JSON: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/record.json
+
+### Authors
+
+Lizheng Zu, Ke Huang, Gang Xu, Jingfan Fan, Baoyuan Wu, Shengfeng He, Hehe Fan, Xiangyu Xu, Chun Li, Yanshan Li, Shihui Ying, Junchi Yan, Bingyi Jing, Ming Li, Zheng Zhu
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/citation.csl.json
+
+### Publication record
+
+- Title: GUI Grounding for Computer-Use Agents: A Survey
+- Authors: Lizheng Zu, Ke Huang, Gang Xu, Jingfan Fan, Baoyuan Wu, Shengfeng He, Hehe Fan, Xiangyu Xu, Chun Li, Yanshan Li, Shihui Ying, Junchi Yan, Bingyi Jing, Ming Li, Zheng Zhu
+- Publication date (recorded precision): 2026-11-04
+- Publication source: https://doi.org/10.20944/preprints202611.0431.v1
+- Publication BibTeX: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-0579bd92efb87b26cb15/publication-citation.csl.json
+- venue: Preprints.org
+- publisher: MDPI AG
+- doi: 10.20944/preprints202611.0431.v1
+- date basis: Crossref issued date 2026-11-4; precision=day.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
+- Publication evidence: https://api.crossref.org/works/10.20944/preprints202611.0431.v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.20944/preprints202611.0431.v1 (retrieved 2026-11-09T08:05:56Z; SHA-256 57f0465ea60e3e2dd9f866c9aa92990d2ae1b730402f08357da70067aebc36a4)
+- https://api.crossref.org/works/10.20944/preprints202611.0431.v1 (retrieved 2026-11-09T08:07:52Z; SHA-256 57f0465ea60e3e2dd9f866c9aa92990d2ae1b730402f08357da70067aebc36a4)
+
+---
+
+## GUI testing for mobile applications: objectives, approaches and challenges
+
+A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.
+
+- Catalog URL: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/
+- Original source: https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: survey, evaluation, mobile-navigation
+- Evidence checked: 2026-11-09T08:07:52Z
+- ID: url:1c0a2ce1faf3017fa0c5
+
+### Limitations
+
+The authors report that functionality is the main testing objective and model-based testing is the most common approach. Common evaluation metrics include error detection, execution time, and code coverage.
+
+- Record JSON: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/record.json
+
+### Authors
+
+Kabir S. Said, Liming Nie, Adekunle A. Ajibode, Xueyi Zhou
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/citation.csl.json
+
+### Publication record
+
+- Title: GUI testing for mobile applications: objectives, approaches and challenges
+- Authors: Kabir S. Said, Liming Nie, Adekunle A. Ajibode, Xueyi Zhou
+- Publication date (recorded precision): 2020-11
+- Publication source: https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf
+- Publication BibTeX: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/publication-citation.csl.json
+- venue: 12th Asia-Pacific Symposium on Internetware
+- publisher: ACM
+- pages: 51-60
+- doi: 10.1145/3457913.3457931
+- date basis: Crossref issued date 2020-11; precision=month.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: The discovered link is the ResearchGate copy of the Internetware 2020 paper; bibliographic facts come from the Crossref record for its ACM DOI and the abstract from OpenAlex.
+- Publication evidence: https://api.crossref.org/works/10.1145/3457913.3457931, https://api.openalex.org/works/doi:10.1145/3457913.3457931
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.1145/3457913.3457931 (retrieved 2026-11-09T08:05:57Z; SHA-256 6c24c77d59008bc9c3856af2a8270ae58f6d5d6cbe58ed0ab8c7ffb81babe6ab)
+- https://api.openalex.org/works/doi:10.1145/3457913.3457931 (retrieved 2026-11-09T07:58:54Z; SHA-256 bdbf449595ee60cf2f00169ce8b61924d379a8976ba54a520ae557688c070229)
+- https://api.openalex.org/works/doi:10.1145/3457913.3457931 (retrieved 2026-11-09T08:07:52Z; SHA-256 bdbf449595ee60cf2f00169ce8b61924d379a8976ba54a520ae557688c070229)
+
+---
+
 ## Large Language Model-Brained GUI Agents: A Survey
 
 Survey of LLM-brained GUI agents that carry out natural-language instructions across web, mobile, and desktop interfaces, organizing research and industry progress.
@@ -1073,6 +1324,66 @@ Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, Liqun Li, Si Qin, Yu Kang, Mingh
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+
+---
+
+## LLM Agents: A Survey
+
+A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.
+
+- Catalog URL: https://awesomecua.com/resources/url-f58895265a31c37d12b4/
+- Original source: https://www.preprints.org/manuscript/202608.0265/v1
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: survey, planning, safety-security
+- Evidence checked: 2026-11-09T08:07:57Z
+- ID: url:f58895265a31c37d12b4
+
+### Limitations
+
+The surveyed literature spans 2021 through early 2026. The authors also discuss interactive environments, application domains, negative results on self-correction and multi-agent debate, and small controlled experiments.
+
+- Record JSON: https://awesomecua.com/resources/url-f58895265a31c37d12b4/record.json
+
+### Authors
+
+Jungseob Lee
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-f58895265a31c37d12b4/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-f58895265a31c37d12b4/citation.csl.json
+
+### Publication record
+
+- Title: LLM Agents: A Survey
+- Authors: Jungseob Lee
+- Publication date (recorded precision): 2026-08-05
+- Publication source: https://www.preprints.org/manuscript/202608.0265/v1
+- Publication BibTeX: https://awesomecua.com/resources/url-f58895265a31c37d12b4/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-f58895265a31c37d12b4/publication-citation.csl.json
+- venue: Preprints.org
+- publisher: MDPI AG
+- doi: 10.20944/preprints202608.0265.v1
+- date basis: Crossref issued date 2026-8-5; precision=day.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: Preprints.org preprint, version 1; Crossref deposits it as posted content.
+- Publication evidence: https://api.crossref.org/works/10.20944/preprints202608.0265.v1, https://api.openalex.org/works/doi:10.20944/preprints202608.0265.v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.20944/preprints202608.0265.v1 (retrieved 2026-11-09T08:06:10Z; SHA-256 446477aacad1b0267a28ff86101a9688c129c24c1fd5ab22309d192557482ec7)
+- https://api.openalex.org/works/doi:10.20944/preprints202608.0265.v1 (retrieved 2026-11-09T07:59:22Z; SHA-256 e187240a295139fd294d497ebbf721f4449e0c663b4f5368fc013cee4a7f07f2)
+- https://api.openalex.org/works/doi:10.20944/preprints202608.0265.v1 (retrieved 2026-11-09T08:07:57Z; SHA-256 cd0aa06534f655277571737d1cec58f5163751c8a514f83210eccaf309188e7d)
 
 ---
 
@@ -1250,6 +1561,130 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 
 ---
 
+## Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review
+
+A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.
+
+- Catalog URL: https://awesomecua.com/resources/url-b230a6700386b7e2744c/
+- Original source: https://www.sciencedirect.com/science/article/pii/S1877050921001393
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: survey, automation, industry, workflow
+- Evidence checked: 2026-11-09T08:07:56Z
+- ID: url:b230a6700386b7e2744c
+
+### Limitations
+
+The review discusses artificial neural networks, text mining, and natural language processing for recognition, classification, forecasting, and business process improvement.
+
+- Record JSON: https://awesomecua.com/resources/url-b230a6700386b7e2744c/record.json
+
+### Authors
+
+Jorge Ribeiro, Rui Lima, Tiago Eckhardt, Sara Paiva
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-b230a6700386b7e2744c/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-b230a6700386b7e2744c/citation.csl.json
+
+### Publication record
+
+- Title: Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review
+- Authors: Jorge Ribeiro, Rui Lima, Tiago Eckhardt, Sara Paiva
+- Publication date (recorded precision): 2021
+- Publication source: https://www.sciencedirect.com/science/article/pii/S1877050921001393
+- Publication BibTeX: https://awesomecua.com/resources/url-b230a6700386b7e2744c/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-b230a6700386b7e2744c/publication-citation.csl.json
+- venue: Procedia Computer Science
+- publisher: Elsevier BV
+- volume: 181
+- pages: 51-58
+- doi: 10.1016/j.procs.2021.01.104
+- date basis: Crossref issued date 2021; precision=year.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: Procedia Computer Science article; the abstract was read from OpenAlex.
+- Publication evidence: https://api.crossref.org/works/10.1016/j.procs.2021.01.104, https://api.openalex.org/works/doi:10.1016/j.procs.2021.01.104
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.1016/j.procs.2021.01.104 (retrieved 2026-11-09T08:06:07Z; SHA-256 6bcb7ef5ae1da8e8746559cdd1c65cfa4aabbb92b7676e06e98dbc89f983dd6c)
+- https://api.openalex.org/works/doi:10.1016/j.procs.2021.01.104 (retrieved 2026-11-09T07:59:14Z; SHA-256 c77ded33230a780f5414c56995070d0375731bd959b13242d57779f7e2f7a123)
+- https://api.openalex.org/works/doi:10.1016/j.procs.2021.01.104 (retrieved 2026-11-09T08:07:56Z; SHA-256 cedbbfe09e09ed6769bdf4f375c85f81ee5a16e1dad59fe4096939f521b0091c)
+
+---
+
+## Robotic Process Automation: Contemporary themes and challenges
+
+A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.
+
+- Catalog URL: https://awesomecua.com/resources/url-2574c6eeee264762a990/
+- Original source: https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: survey, automation, workflow, industry
+- Evidence checked: 2026-11-09T08:07:53Z
+- ID: url:2574c6eeee264762a990
+
+### Limitations
+
+The review covers RPA vendor offerings and practical adoption, and frames its research agenda around theoretical foundations for applying and developing RPA.
+
+- Record JSON: https://awesomecua.com/resources/url-2574c6eeee264762a990/record.json
+
+### Authors
+
+Rehan Syed, Suriadi Suriadi, Michael Adams, Wasana Bandara, Sander J.J. Leemans, Chun Ouyang, Arthur H.M. ter Hofstede, Inge van de Weerd, Moe Thandar Wynn, Hajo A. Reijers
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-2574c6eeee264762a990/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-2574c6eeee264762a990/citation.csl.json
+
+### Publication record
+
+- Title: Robotic Process Automation: Contemporary themes and challenges
+- Authors: Rehan Syed, Suriadi Suriadi, Michael Adams, Wasana Bandara, Sander J.J. Leemans, Chun Ouyang, Arthur H.M. ter Hofstede, Inge van de Weerd, Moe Thandar Wynn, Hajo A. Reijers
+- Publication date (recorded precision): 2020-02
+- Publication source: https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609
+- Publication BibTeX: https://awesomecua.com/resources/url-2574c6eeee264762a990/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-2574c6eeee264762a990/publication-citation.csl.json
+- venue: Computers in Industry
+- publisher: Elsevier BV
+- volume: 115
+- pages: 103162
+- doi: 10.1016/j.compind.2019.103162
+- date basis: Crossref issued date 2020-2; precision=month.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: Computers in Industry journal article; the abstract was read from Semantic Scholar.
+- Publication evidence: https://api.crossref.org/works/10.1016/j.compind.2019.103162, https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.compind.2019.103162?fields=title,abstract,authors,venue,year,externalIds
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.1016/j.compind.2019.103162 (retrieved 2026-11-09T08:05:59Z; SHA-256 fc271d937fa209f12623c5a5cf2edb1abda95aec98a14831a3efdbf24c1cf41c)
+- https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.compind.2019.103162?fields=title,abstract,authors,venue,year,externalIds (retrieved 2026-11-09T08:02:57Z; SHA-256 5c777eea74789789f71238ab2e0b84dcc3a974c424c1633088beca1b93d98611)
+- https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.compind.2019.103162?fields=title,abstract,authors,venue,year,externalIds (retrieved 2026-11-09T08:07:53Z; SHA-256 5c777eea74789789f71238ab2e0b84dcc3a974c424c1633088beca1b93d98611)
+
+---
+
 ## Securing Computer-Use Agents: A Unified Architecture-Lifecycle Framework for Deployment-Grounded Reliability
 
 Survey of computer-use agent reliability and security across browsers, desktops, and mobile apps, using architecture and lifecycle views to map failures and controls.
@@ -1406,6 +1841,68 @@ Shengcheng Yu, Yuchen Ling, Junyang Xing, Quan Zhou, Chunrong Fang, Zhenyu Chen
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
 - https://export.arxiv.org/api/query?id_list=2607.29199%2C2608.00335%2C2608.00548%2C2608.01964%2C2608.02018%2C2608.02163%2C2608.03223%2C2608.03451%2C2608.03499%2C2608.04530%2C2608.04734%2C2608.05013%2C2608.05430%2C2608.05784%2C2608.06474%2C2608.06477%2C2608.06704%2C2608.06745%2C2608.06811%2C2608.06862%2C2608.07873%2C2608.09268%2C2608.09278%2C2608.10357%2C2608.10669%2C2608.10692%2C2608.10775%2C2608.11191%2C2608.11274%2C2608.11362%2C2608.11588%2C2608.13991%2C2608.14427%2C2608.14929%2C2608.15089%2C2608.16211%2C2608.16391%2C2608.17067%2C2608.17310%2C2608.17975%2C2608.19741%2C2608.20707%2C2608.20797%2C2608.21500%2C2608.22077%2C2608.22510%2C2608.22533%2C2608.23035%2C2608.24680%2C2608.24898&max_results=50 (retrieved 2026-11-05T23:03:12Z; SHA-256 8d9570c61ec2defc8c17615be17ddc6dc726f06a9948068d290ec118164298a7)
+
+---
+
+## Task Automation Intelligent Agents: A Review
+
+A literature review examines mobile phone task automation agents, including programming by demonstration and usability heuristics for recurring user tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-eb791c465f47690ade31/
+- Original source: https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review
+- Kind: survey
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: survey, automation, mobile-navigation, ui-design
+- Evidence checked: 2026-11-09T08:07:57Z
+- ID: url:eb791c465f47690ade31
+
+### Limitations
+
+The review addresses techniques for task automation agents and methods for developing agent usability heuristics. It discusses conversational agents, virtual personal assistants, and automation rules.
+
+- Record JSON: https://awesomecua.com/resources/url-eb791c465f47690ade31/record.json
+
+### Authors
+
+Abdul Wali, Saipunidzam Mahamad, Suziah Sulaiman
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-eb791c465f47690ade31/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-eb791c465f47690ade31/citation.csl.json
+
+### Publication record
+
+- Title: Task Automation Intelligent Agents: A Review
+- Authors: Abdul Wali, Saipunidzam Mahamad, Suziah Sulaiman
+- Publication date (recorded precision): 2023-05-29
+- Publication source: https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review
+- Publication BibTeX: https://awesomecua.com/resources/url-eb791c465f47690ade31/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-eb791c465f47690ade31/publication-citation.csl.json
+- venue: Future Internet
+- publisher: MDPI AG
+- volume: 15
+- issue: 6
+- pages: 196
+- doi: 10.3390/fi15060196
+- date basis: Crossref issued date 2023-5-29; precision=day.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.
+- Publication evidence: https://api.crossref.org/works/10.3390/fi15060196
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.3390/fi15060196 (retrieved 2026-11-09T08:06:08Z; SHA-256 47dcf97c63265465a29199ed4bbfdaff4c099034d547326885b5824fdd44ae4b)
+- https://api.crossref.org/works/10.3390/fi15060196 (retrieved 2026-11-09T08:07:57Z; SHA-256 47dcf97c63265465a29199ed4bbfdaff4c099034d547326885b5824fdd44ae4b)
 
 ---
 

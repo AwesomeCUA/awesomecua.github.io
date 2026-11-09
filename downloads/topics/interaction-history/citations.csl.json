@@ -6194,6 +6194,102 @@
     "version": "1"
   },
   {
+    "DOI": "10.18653/2026.realm-1.100",
+    "URL": "https://aclanthology.org/2026.realm-1.100",
+    "author": [
+      {
+        "literal": "Ruozhen He"
+      },
+      {
+        "literal": "Zhongnan Qu"
+      },
+      {
+        "literal": "Sheng Zhang"
+      },
+      {
+        "literal": "Mesut Erhan Unal"
+      },
+      {
+        "literal": "Zhuowen Tu"
+      },
+      {
+        "literal": "Srikar Appalaraju"
+      },
+      {
+        "literal": "Jianbo Yuan"
+      },
+      {
+        "literal": "Shabnam Ghadar"
+      },
+      {
+        "literal": "Haofu Liao"
+      }
+    ],
+    "citation-key": "cua_ba131fe36bc3ac866979037c",
+    "container-title": "Proceedings of the Second Workshop for REsearch on Agent Language Models (REALM 2026)",
+    "custom": {
+      "canonical_source_url": "https://aclanthology.org/2026.realm-1.100",
+      "catalog_id": "url:8b87df7992bc7b4da1a5",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.18653/2026.realm-1.100"
+      },
+      "publication": {
+        "authors": [
+          "Ruozhen He",
+          "Zhongnan Qu",
+          "Sheng Zhang",
+          "Mesut Erhan Unal",
+          "Zhuowen Tu",
+          "Srikar Appalaraju",
+          "Jianbo Yuan",
+          "Shabnam Ghadar",
+          "Haofu Liao"
+        ],
+        "date_basis": "Crossref issued date 2026; precision=year.",
+        "date_parts": [
+          2026
+        ],
+        "doi": "10.18653/2026.realm-1.100",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.18653/2026.realm-1.100",
+          "https://aclanthology.org/2026.realm-1.100/"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "ACL Anthology edition in the REALM 2026 workshop proceedings.",
+        "pages": "1444-1470",
+        "pdf_url": "https://aclanthology.org/2026.realm-1.100.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2026.realm-1.100",
+        "venue": "Proceedings of the Second Workshop for REsearch on Agent Language Models (REALM 2026)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:8b87df7992bc7b4da1a5",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "note": "Publication date: 2026.",
+    "page": "1444-1470",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.18653/v1/2025.emnlp-main.920",
     "URL": "https://aclanthology.org/2025.emnlp-main.920/",
     "author": [

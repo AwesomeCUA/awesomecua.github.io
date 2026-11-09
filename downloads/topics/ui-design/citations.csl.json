@@ -521,6 +521,89 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.17839v1",
+    "archive": "arXiv",
+    "archive_location": "2505.17839",
+    "author": [
+      {
+        "literal": "Tim Rosenbach"
+      },
+      {
+        "literal": "David Heidrich"
+      },
+      {
+        "literal": "Alexander Weinert"
+      }
+    ],
+    "citation-key": "arxiv_2505_17839",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7944dbed8bea0cf56bcc58737a7af46e21c37cfd242be215c136256f8620ed0c",
+        "submitted_at": "2025-05-23T12:53:28Z",
+        "updated_at": "2025-05-23T12:53:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.17839v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.17839",
+      "catalog_id": "arxiv:2505.17839",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "record",
+      "first_published_at": "2025-05-23",
+      "identifiers": {
+        "arxiv": "2505.17839"
+      },
+      "publication": {
+        "authors": [
+          "Tim Rosenbach",
+          "David Heidrich",
+          "Alexander Weinert"
+        ],
+        "date_basis": "Crossref issued date 2025-3-31; precision=day.",
+        "date_parts": [
+          2025,
+          3,
+          31
+        ],
+        "doi": "10.1109/icstw64639.2025.10962502",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1109/icstw64639.2025.10962502"
+        ],
+        "identity_basis": "Same work as the retained arXiv record: matching title and authors, and the arXiv journal reference and DOI name this ICSTW 2025 edition.",
+        "issue": null,
+        "notes": "IEEE ICSTW 2025 workshop edition of the arXiv preprint, whose journal reference and DOI name this edition; Crossref links the DOI to IEEE Xplore document 10962502.",
+        "pages": "103-110",
+        "pdf_url": null,
+        "publisher": "IEEE",
+        "series": null,
+        "title": "Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10962502",
+        "venue": "2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.17839",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-23; Recorded arXiv version: v1; Recorded version updated: 2025-05-23T12:53:28Z.",
+    "title": "Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2506.10953v1",
     "archive": "arXiv",
     "archive_location": "2506.10953",
@@ -3450,5 +3533,82 @@
     "page": "845-854",
     "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
     "type": "paper-conference"
+  },
+  {
+    "DOI": "10.3390/fi15060196",
+    "URL": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+    "author": [
+      {
+        "literal": "Abdul Wali"
+      },
+      {
+        "literal": "Saipunidzam Mahamad"
+      },
+      {
+        "literal": "Suziah Sulaiman"
+      }
+    ],
+    "citation-key": "cua_46390009d6407c6b4d4e9837",
+    "container-title": "Future Internet",
+    "custom": {
+      "canonical_source_url": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+      "catalog_id": "url:eb791c465f47690ade31",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "publication",
+      "first_published_at": "2023-05-29",
+      "identifiers": {
+        "doi": "10.3390/fi15060196"
+      },
+      "publication": {
+        "authors": [
+          "Abdul Wali",
+          "Saipunidzam Mahamad",
+          "Suziah Sulaiman"
+        ],
+        "date_basis": "Crossref issued date 2023-5-29; precision=day.",
+        "date_parts": [
+          2023,
+          5,
+          29
+        ],
+        "doi": "10.3390/fi15060196",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.3390/fi15060196"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": "6",
+        "notes": "The discovered link is the ResearchGate copy of the Future Internet article; bibliographic facts and the abstract come from the Crossref record for its MDPI DOI.",
+        "pages": "196",
+        "pdf_url": null,
+        "publisher": "MDPI AG",
+        "series": null,
+        "title": "Task Automation Intelligent Agents: A Review",
+        "type": "journal-article",
+        "url": "https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review",
+        "venue": "Future Internet",
+        "volume": "15"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:eb791c465f47690ade31",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          29
+        ]
+      ]
+    },
+    "note": "Publication date: 2023-05-29.",
+    "page": "196",
+    "publisher": "MDPI AG",
+    "title": "Task Automation Intelligent Agents: A Review",
+    "type": "article-journal",
+    "volume": "15"
   }
 ]

@@ -96,6 +96,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   Compares DOM-based and pixel-based web agents on a cloned news site containing advertisements, consent dialogs and paywalls. The study examines how interface presentation affects ad interaction and consequential subscription choices.
 - [Build the web for agents, not agents for the web](https://awesomecua.com/resources/arxiv-2506-10953/) — 2025-06-12
   Proposes Agentic Web Interface (AWI), a website interface intended for agent navigation, and sets out six design principles for web-agent use.
+- [Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models](https://awesomecua.com/resources/arxiv-2505-17839/) — 2025-05-23
+  GERALLT uses LLMs to explore the GUI of engineering software and produce a list of confusing or inconsistent interface areas for developers to inspect.
 - [Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI](https://awesomecua.com/resources/arxiv-2505-05895/) — 2025-05-09
   Introduces AutomotiveUI-Bench-4K and a fine-tuned vision-language model for locating elements and evaluating automotive infotainment interfaces.
 - [Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding](https://awesomecua.com/resources/arxiv-2505-05026/) — 2025-05-08
@@ -112,6 +114,8 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
   UIClip assesses UI design quality and visual relevance from screenshots and descriptions, using crawled, augmented and human-rated interfaces for training.
 - [Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications](https://awesomecua.com/resources/arxiv-2308-05898/) — 2023-08-11
   Introduces UIGuard, a system that examines mobile UI visuals and text to detect dark patterns, together with a labeled dataset of benign and malicious interfaces.
+- [Task Automation Intelligent Agents: A Review](https://awesomecua.com/resources/url-eb791c465f47690ade31/) — 2023-05-29
+  A literature review examines mobile phone task automation agents, including programming by demonstration and usability heuristics for recurring user tasks.
 - [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://awesomecua.com/resources/url-b560b5d6abaab98483f6/) — 2017-10-20
   Introduces Rico, collecting Android interface designs and interaction traces through crowdsourced use followed by automated exploration. The paper demonstrates UI-layout retrieval using learned representations and describes visual, textual, structural, and interaction data.
 

@@ -60,6 +60,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Pairs OSWorld tasks with harmful side objectives to evaluate monitors that detect malicious behavior in computer-use agent trajectories.
 - [Securing Computer-Use Agents Against Branch Steering Attacks](https://awesomecua.com/resources/arxiv-2610-03089/) — 2026-10-02
   Introduces STEER-Bench to study branch-steering attacks that manipulate untrusted web data toward hazardous paths already permitted by an agent’s plan. Its COBRA architecture combines trusted branching plans with advance constraints on the parameters and destinations each branch can use.
+- [AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents](https://awesomecua.com/resources/url-e86b3a1454b494224f07/) — 2026-10-01
+  AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.
 - [DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections](https://awesomecua.com/resources/arxiv-2610-06898/) — 2026-09-29
   Evaluates whether deceptive UI content steers mobile agents away from instruction-consistent choices, using paired benign and injected decision states and decision-integrity metrics.
 - [SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety](https://awesomecua.com/resources/arxiv-2609-36201/) — 2026-09-28
@@ -128,6 +130,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Introduces SynChain, an attack that induces persistent agents to create poisoned skills or memory entries, and CUAChain for evaluating later attack-chain activation.
 - [StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection](https://awesomecua.com/resources/arxiv-2608-06477/) — 2026-08-06
   Introduces StepJack, a benchmark of indirect prompt injections that split an adversarial goal across pages on a computer-use agent's web navigation path.
+- [LLM Agents: A Survey](https://awesomecua.com/resources/url-f58895265a31c37d12b4/) — 2026-08-05
+  A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.
 - ["Allow" to Achieve, Over-Privileged Inadvertently: The Unintended Cost of Task-Completion-Driven Pop-up Decisions in Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2608-04755/) — 2026-08-05
   This permission-literacy study tests whether mobile GUI agents grant only task-necessary permissions. Controlled changes to task context and requester identity expose authorization biases and the trade-off between suppressing unnecessary and legitimate grants.
 - [LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents](https://awesomecua.com/resources/arxiv-2608-04741/) — 2026-08-05
@@ -502,6 +506,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Evaluates whether autonomous web agents minimize use of sensitive personal information when completing tasks that expose unnecessary private data.
 - [In-Context Defense in Computer Agents: An Empirical Study](https://awesomecua.com/resources/arxiv-2503-09241/) — 2025-03-12
   Studies in-context defenses for computer agents exposed to misleading pop-ups and other environmental instructions. It examines defensive reasoning before action planning and how a small set of examples changes resistance to these attacks.
+- [Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution](https://awesomecua.com/resources/url-2af250798e99e7af01ce/) — 2025-03-10
+  A web navigation framework uses user-specific task representations and interactive reasoning to adapt agent workflows to preferences, with task success and satisfaction as evaluation measures.
 - [SafeArena: Evaluating the Safety of Autonomous Web Agents](https://awesomecua.com/resources/arxiv-2503-04957/) — 2025-03-06
   Pairs benign and harmful web tasks to assess deliberate misuse risks and categorize agent behavior by risk level.
 - [Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis](https://awesomecua.com/resources/arxiv-2502-20383/) — 2025-02-27
@@ -512,6 +518,8 @@ Full source records: https://awesomecua.com/downloads/topics/safety-security/rec
   Examines active environmental injection against mobile agents, testing whether adversarial interface content redirects decisions during task execution.
 - [Towards Computer-Using Personal Agents](https://awesomecua.com/resources/arxiv-2503-15515/) — 2025-01-31
   Proposes computer-using personal agents connected to user-controlled data repositories, discussing privacy, interoperability, and collaborative tasks.
+- [Operator System Card](https://awesomecua.com/resources/url-24bc39ed487b311108ae/) — 2025-01-23
+  The Operator system card describes a browser agent trained to act from screenshots and details evaluations, risk policies, user confirmations, and monitoring for web tasks.
 - [Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model](https://awesomecua.com/resources/url-6942e8211a0f59eb7878/) — 2025
   Presents Halligan, a VLM agent that abstracts visual CAPTCHAs into frames, elements and keypoints and solves each as a search problem through generated interaction code, tested on 2,600 challenges of 26 types.
 - [Attacking Vision-Language Computer Agents via Pop-ups](https://awesomecua.com/resources/arxiv-2411-02391/) — 2024-11-04

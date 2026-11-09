@@ -1,0 +1,55 @@
+{
+  "id": "url:24bc39ed487b311108ae",
+  "citation-key": "cua_d1af8932538e968e7166f752",
+  "type": "report",
+  "title": "Operator System Card",
+  "URL": "https://openai.com/index/operator-system-card",
+  "custom": {
+    "catalog_id": "url:24bc39ed487b311108ae",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://openai.com/index/operator-system-card",
+    "identifiers": {},
+    "first_published_at": "2025-01-23",
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [],
+      "date_basis": "Date printed on the PDF title page: January 23, 2025; precision=day.",
+      "date_parts": [
+        2025,
+        1,
+        23
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://cdn.openai.com/operator_system_card.pdf"
+      ],
+      "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; the openai.com page answers scripted requests with HTTP 403, and the facts come from the PDF that OpenAI serves from its CDN.",
+      "issue": null,
+      "notes": "OpenAI system card PDF for Operator, the Computer-Using Agent research preview.",
+      "pages": null,
+      "pdf_url": "https://cdn.openai.com/operator_system_card.pdf",
+      "publisher": "OpenAI",
+      "series": null,
+      "title": "Operator System Card",
+      "type": "report",
+      "url": "https://openai.com/index/operator-system-card",
+      "venue": "OpenAI"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-01-23.",
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        23
+      ]
+    ]
+  },
+  "container-title": "OpenAI",
+  "publisher": "OpenAI"
+}

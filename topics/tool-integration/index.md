@@ -258,6 +258,8 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   Introduces data and a generation pipeline for translating natural-language requests into Android intent invocations using compact language models.
 - [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://awesomecua.com/resources/arxiv-2411-04468/) — 2024-11-07
   Introduces an orchestrated team of browsing, file, and coding agents with progress tracking and error recovery for general digital tasks.
+- [AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation](https://awesomecua.com/resources/url-377f5418e39ff2da971f/) — 2024-10-28
+  AssistEditor coordinates GUI agents to turn video requirements and uploaded materials into storyboards and editing actions in professional desktop software.
 - [Infogent: An Agent-Based Framework for Web Information Aggregation](https://awesomecua.com/resources/arxiv-2410-19054/) — 2024-10-24
   Infogent separates navigation, extraction and aggregation for web information gathering, including browser interaction through webpage screenshots.
 - [OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning](https://awesomecua.com/resources/arxiv-2410-18963/) — 2024-10-24
@@ -290,6 +292,8 @@ Full source records: https://awesomecua.com/downloads/topics/tool-integration/re
   WebWISE filters DOM elements into observations and generates short programs for click, scroll, and text-entry steps. It evaluates in-context learning from either one supplied example or an example collected during a successful zero-shot MiniWoB++ trial.
 - [OpenAgents: An Open Platform for Language Agents in the Wild](https://awesomecua.com/resources/arxiv-2310-10634/) — 2023-10-16
   OpenAgents hosts three language agents, for data analysis, API plugins and autonomous web browsing, behind a web interface for non-expert users, with local deployment for developers.
+- [GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver](https://awesomecua.com/resources/url-ffc05c4425f777924940/) — 2023-09-11
+  A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.
 - [SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models](https://awesomecua.com/resources/arxiv-2305-19308/) — 2023-05-30
   Introduces SheetCopilot, an agent that steers spreadsheet software via atomic virtual APIs, along with a 221-task spreadsheet manipulation benchmark.
 

@@ -70,6 +70,8 @@ Full source records: https://awesomecua.com/downloads/topics/reward-models/recor
   The framework separates inference-time subgoal planning from MiRA, a reinforcement-learning method that supplies milestone rewards. WebArena-Lite experiments evaluate these mechanisms for long-horizon web navigation.
 - [OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards](https://awesomecua.com/resources/arxiv-2603-19191/) — 2026-03-19
   Presents OS-Themis, a multi-agent critic that divides GUI trajectories into verifiable milestones and reviews their evidence before assigning an outcome. OGRBench evaluates GUI rewards across platforms, with AndroidWorld experiments examining training and trajectory filtering.
+- [FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning](https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/) — 2026-03-14
+  FDC-Ground trains GUI element location models with a distance-based reward and completion pruning; a 7B model is evaluated on ScreenSpot and ScreenSpot-v2.
 - [Video-Based Reward Modeling for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2603-10178/) — 2026-03-10
   Builds ExeVR-53k from execution-video, instruction and reward triplets, including negative instructions with step annotations. A reward model uses spatiotemporal token pruning to judge task completion from the instruction and execution keyframes.
 - [Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization](https://awesomecua.com/resources/arxiv-2602-13653/) — 2026-02-14

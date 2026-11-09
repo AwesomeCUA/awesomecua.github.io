@@ -230,6 +230,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Uses rule-based rewards for output structure and action correctness to train reasoning for enterprise web navigation.
 - [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://awesomecua.com/resources/arxiv-2505-19897/) — 2025-05-26
   ScienceBoard combines an interactive environment with professional scientific software and 169 human-curated tasks in areas including biochemistry, astronomy, and geoinformatics. It evaluates computer-use agents on visually rich research workflows and analyzes their execution limitations.
+- [Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution](https://awesomecua.com/resources/url-2af250798e99e7af01ce/) — 2025-03-10
+  A web navigation framework uses user-specific task representations and interactive reasoning to adapt agent workflows to preferences, with task success and satisfaction as evaluation measures.
 - [Towards Enterprise-Ready Computer Using Generalist Agent](https://awesomecua.com/resources/arxiv-2503-01861/) — 2025-02-24
   Describes the CUGA enterprise-agent development process, emphasizing iterative evaluation, failure analysis, and refinement on software-task benchmarks.
 - [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://awesomecua.com/resources/arxiv-2502-01600/) — 2025-02-03
@@ -240,6 +242,8 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   Studies fine-tuning open language models on production web-workflow traces, including training choices for specialized web agents.
 - [WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models](https://awesomecua.com/resources/arxiv-2411-05451/) — 2024-11-08
   WorkflowLLM builds WorkflowBench from application API workflows and synthetic queries, then trains WorkflowLlama to generate multi-application workflows.
+- [AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation](https://awesomecua.com/resources/url-377f5418e39ff2da971f/) — 2024-10-28
+  AssistEditor coordinates GUI agents to turn video requirements and uploaded materials into storyboards and editing actions in professional desktop software.
 - [Infogent: An Agent-Based Framework for Web Information Aggregation](https://awesomecua.com/resources/arxiv-2410-19054/) — 2024-10-24
   Infogent separates navigation, extraction and aggregation for web information gathering, including browser interaction through webpage screenshots.
 - [Agent Workflow Memory](https://awesomecua.com/resources/arxiv-2409-07429/) — 2024-09-11
@@ -274,6 +278,12 @@ Full source records: https://awesomecua.com/downloads/topics/workflow/records.js
   SteP dynamically composes specialized web-action policies through a stack that records the active chain of policy calls. It studies this control structure across WebArena, MiniWoB++, and CRM workflows.
 - [SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models](https://awesomecua.com/resources/arxiv-2305-19308/) — 2023-05-30
   Introduces SheetCopilot, an agent that steers spreadsheet software via atomic virtual APIs, along with a 221-task spreadsheet manipulation benchmark.
+- [Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review](https://awesomecua.com/resources/url-b230a6700386b7e2744c/) — 2021
+  A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.
+- [From Robotic Process Automation to Intelligent Process Automation: Emerging Trends](https://awesomecua.com/resources/arxiv-2007-13257/) — 2020-07-27
+  A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.
+- [Robotic Process Automation: Contemporary themes and challenges](https://awesomecua.com/resources/url-2574c6eeee264762a990/) — 2020-02
+  A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.
 - [Kite: Building Conversational Bots from Mobile Apps](https://awesomecua.com/resources/url-901ca855640457dfe2f1/) — 2018-06
   Derives task graphs from demonstrated Android app interactions and layers a conversational question-answer interface over those graphs. The evaluation examines task-model extraction and developer use of the resulting bot templates.
 - [Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration](https://awesomecua.com/resources/arxiv-1802-08802/) — 2018-02-24

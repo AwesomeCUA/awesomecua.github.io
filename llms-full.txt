@@ -1,6 +1,6 @@
 # AwesomeCUA curated catalog
 
-> All 4,559 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-09T06:16:40Z. Metadata-only bibliography records and unreviewed candidates are excluded.
+> All 4,587 curated, source-reviewed records of the AwesomeCUA computer-use agent catalog, one compact entry each, grouped by kind. Snapshot 2026-11-09T08:07:58Z. Metadata-only bibliography records and unreviewed candidates are excluded.
 
 Each entry links its catalog page. Append `index.md` to that URL for the full annotation with evidence fingerprints, or `record.json` for the complete record. Full annotations by kind: [Models and checkpoints](https://awesomecua.com/categories/model/index.md), [Datasets](https://awesomecua.com/categories/dataset/index.md), [Benchmarks](https://awesomecua.com/categories/benchmark/index.md), [Agents](https://awesomecua.com/categories/agent/index.md), [Frameworks](https://awesomecua.com/categories/framework/index.md), [Infrastructure](https://awesomecua.com/categories/infrastructure/index.md), [Tools](https://awesomecua.com/categories/tool/index.md), [Products](https://awesomecua.com/categories/product/index.md), [Publishers](https://awesomecua.com/categories/company/index.md), [Learning resources](https://awesomecua.com/categories/learning/index.md), [Surveys](https://awesomecua.com/categories/survey/index.md), [Research library](https://awesomecua.com/papers/index.md).
 
@@ -19379,7 +19379,14 @@ Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium brows
 
 - https://awesomecua.com/resources/url-5857c840372512cfe3fc/ · source: https://huggingface.co/docs/smolagents/examples/web_browser
 
-## Surveys (29)
+## Surveys (37)
+
+### 30 Years of Automated GUI Testing: A Bibliometric Analysis
+
+A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.
+
+- https://awesomecua.com/resources/url-24a139a7910431441e39/ · source: https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34
+- Published: 2021
 
 ### A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions
 
@@ -19493,6 +19500,13 @@ Surveys multimodal mobile agents, organizing prompt-based and training-based app
 - https://awesomecua.com/resources/arxiv-2411-02006/ · source: https://arxiv.org/abs/2411.02006v3
 - Published: 2024-11-04
 
+### From Robotic Process Automation to Intelligent Process Automation: Emerging Trends
+
+A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.
+
+- https://awesomecua.com/resources/arxiv-2007-13257/ · source: https://arxiv.org/abs/2007.13257v1
+- Published: 2020-07-27
+
 ### Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms
 
 Surveys virtual agents for browsers, applications and operating systems, organizing prior work by task type, observation and action spaces, model strategies and evaluation methods. It examines screen-based interaction and keyboard, mouse and touch control, alongside transferability and long-sequence decision-making challenges.
@@ -19514,12 +19528,33 @@ Categorizes GUI-agent benchmarks, evaluation metrics, architectures, and trainin
 - https://awesomecua.com/resources/arxiv-2412-13501/ · source: https://arxiv.org/abs/2412.13501v3
 - Published: 2024-12-18
 
+### GUI Grounding for Computer-Use Agents: A Survey
+
+A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.
+
+- https://awesomecua.com/resources/url-0579bd92efb87b26cb15/ · source: https://doi.org/10.20944/preprints202611.0431.v1
+- Published: 2026-11-04
+
+### GUI testing for mobile applications: objectives, approaches and challenges
+
+A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.
+
+- https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/ · source: https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf
+- Published: 2020-11
+
 ### Large Language Model-Brained GUI Agents: A Survey
 
 Survey of LLM-brained GUI agents that carry out natural-language instructions across web, mobile, and desktop interfaces, organizing research and industry progress.
 
 - https://awesomecua.com/resources/arxiv-2411-18279/ · source: https://arxiv.org/abs/2411.18279v12
 - Published: 2024-11-27
+
+### LLM Agents: A Survey
+
+A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.
+
+- https://awesomecua.com/resources/url-f58895265a31c37d12b4/ · source: https://www.preprints.org/manuscript/202608.0265/v1
+- Published: 2026-08-05
 
 ### LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects
 
@@ -19541,6 +19576,20 @@ Surveys agents that operate computers and phones through operating-system interf
 
 - https://awesomecua.com/resources/arxiv-2508-04482/ · source: https://arxiv.org/abs/2508.04482v1
 - Published: 2025-08-06
+
+### Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review
+
+A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.
+
+- https://awesomecua.com/resources/url-b230a6700386b7e2744c/ · source: https://www.sciencedirect.com/science/article/pii/S1877050921001393
+- Published: 2021
+
+### Robotic Process Automation: Contemporary themes and challenges
+
+A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.
+
+- https://awesomecua.com/resources/url-2574c6eeee264762a990/ · source: https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609
+- Published: 2020-02
 
 ### Securing Computer-Use Agents: A Unified Architecture-Lifecycle Framework for Deployment-Grounded Reliability
 
@@ -19564,6 +19613,13 @@ Surveys 336 GUI-agent papers through a software engineering lens, covering archi
 - https://awesomecua.com/resources/arxiv-2608-09278/ · source: https://arxiv.org/abs/2608.09278v1
 - Published: 2026-08-10
 
+### Task Automation Intelligent Agents: A Review
+
+A literature review examines mobile phone task automation agents, including programming by demonstration and usability heuristics for recurring user tasks.
+
+- https://awesomecua.com/resources/url-eb791c465f47690ade31/ · source: https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review
+- Published: 2023-05-29
+
 ### The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration
 
 Surveys multi-tool LLM agents across planning, training, safety, efficiency, and evaluation, including GUI and mobile systems among its application areas.
@@ -19585,7 +19641,7 @@ Surveys vision-based mobile app GUI testing across test generation, record-and-r
 - https://awesomecua.com/resources/arxiv-2310-13518/ · source: https://arxiv.org/abs/2310.13518v3
 - Published: 2023-10-20
 
-## Research papers (1,661)
+## Research papers (1,681)
 
 ### "Allow" to Achieve, Over-Privileged Inadvertently: The Unintended Cost of Task-Completion-Driven Pop-up Decisions in Mobile GUI Agents
 
@@ -20119,6 +20175,13 @@ Introduces AgentBoard, a multiturn agent evaluation framework with intermediate 
 - https://awesomecua.com/resources/arxiv-2401-13178/ · source: https://arxiv.org/abs/2401.13178v2
 - Published: 2024-01-24
 
+### AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents
+
+AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.
+
+- https://awesomecua.com/resources/url-e86b3a1454b494224f07/ · source: https://doi.org/10.1145/3832165
+- Published: 2026-10-01
+
 ### AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents
 
 AgentClick gives terminal-based agents a browser review interface for plans, drafts, execution traces and editable memory. A local server and skill plugin let users inspect proposed actions and provide structured feedback.
@@ -20440,6 +20503,13 @@ Introduces Android screenshots with element locations, functionality description
 
 - https://awesomecua.com/resources/arxiv-2407-17490/ · source: https://arxiv.org/abs/2407.17490v2
 - Published: 2024-07-03
+
+### An Efficient Training Pipeline for Reasoning Graphical User Interface Agents
+
+A GUI grounding pipeline filters 4.8M synthetic examples to 12K training instances and adapts a 3B vision-language model, evaluated on ScreenSpot, Multimodal-Mind2Web, and AndroidControl.
+
+- https://awesomecua.com/resources/arxiv-2511-08172/ · source: https://arxiv.org/abs/2511.08172v3
+- Published: 2025-11-11
 
 ### An Illusion of Progress? Assessing the Current State of Web Agents
 
@@ -20763,6 +20833,13 @@ Introduces realistic open-web tasks and the SeePlanAct agent, analyzing the limi
 - https://awesomecua.com/resources/arxiv-2407-15711/ · source: https://arxiv.org/abs/2407.15711v2
 - Published: 2024-07-22
 
+### AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation
+
+AssistEditor coordinates GUI agents to turn video requirements and uploaded materials into storyboards and editing actions in professional desktop software.
+
+- https://awesomecua.com/resources/url-377f5418e39ff2da971f/ · source: https://dl.acm.org/doi/abs/10.1145/3664647.3684998
+- Published: 2024-10-28
+
 ### ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
 
 Introduces Windows application tasks and an actor-critic agent framework for mouse-and-keyboard automation of desktop workflows.
@@ -20938,12 +21015,26 @@ LLMigrate uses LLMs to transfer usage-based UI tests between mobile apps with si
 - https://awesomecua.com/resources/arxiv-2411-17933/ · source: https://arxiv.org/abs/2411.17933v2
 - Published: 2024-11-26
 
+### Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models
+
+GERALLT uses LLMs to explore the GUI of engineering software and produce a list of confusing or inconsistent interface areas for developers to inspect.
+
+- https://awesomecua.com/resources/arxiv-2505-17839/ · source: https://arxiv.org/abs/2505.17839v1
+- Published: 2025-05-23
+
 ### Automated Trajectory Evaluation for Mobile Agents via Step-Level Consequence Reasoning and Aggregation
 
 Introduces CRATE, a step-level visual judge for mobile-agent trajectories, and CRATE-S for assessing operational safety from action-conditioned state changes.
 
 - https://awesomecua.com/resources/arxiv-2608-20797/ · source: https://arxiv.org/abs/2608.20797v1
 - Published: 2026-08-21
+
+### Automating GUI-based Software Testing with GPT-3
+
+A GPT-3-based GUI testing method interprets natural-language test cases, tracks current interface elements in prompts, and navigates desktop and mobile applications.
+
+- https://awesomecua.com/resources/url-412c168dd5d0aeded46a/ · source: https://ieeexplore.ieee.org/abstract/document/10132233
+- Published: 2023-04
 
 ### Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining
 
@@ -20979,6 +21070,13 @@ Compares automatic trajectory evaluators for web navigation and device control a
 
 - https://awesomecua.com/resources/arxiv-2404-06474/ · source: https://arxiv.org/abs/2404.06474v3
 - Published: 2024-04-09
+
+### Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing
+
+DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.
+
+- https://awesomecua.com/resources/arxiv-2311-08649/ · source: https://arxiv.org/abs/2311.08649v1
+- Published: 2023-11-15
 
 ### AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation
 
@@ -22422,6 +22520,13 @@ CONFLICTGUI evaluates termination under instruction conflicts and mismatches bet
 - https://awesomecua.com/resources/arxiv-2609-03438/ · source: https://arxiv.org/abs/2609.03438v1
 - Published: 2026-09-03
 
+### Do GUI Grounders Truly Understand UI Elements?
+
+A desktop GUI grounding benchmark tests whether models identify the same element across varied descriptions; a diagnosis agent generates difficult instructions using model feedback.
+
+- https://awesomecua.com/resources/url-16f4a8903de0f90d3638/ · source: https://aclanthology.org/2026.findings-eacl.144
+- Published: 2026
+
 ### Do LLMs Need to See Everything? A Benchmark and Study of Failures in LLM-driven Smartphone Automation using Screentext vs. Screenshots
 
 DailyDroid compares text-only and text-plus-screenshot agents on everyday Android tasks across multiple apps and difficulty levels. Its failure analysis examines accessibility, observation modality and agent/application behavior.
@@ -23017,6 +23122,13 @@ Introduces FaraGen synthetic web trajectories, a compact screenshot-based action
 - https://awesomecua.com/resources/arxiv-2511-19663/ · source: https://arxiv.org/abs/2511.19663v1
 - Published: 2025-11-24
 
+### FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning
+
+FDC-Ground trains GUI element location models with a distance-based reward and completion pruning; a 7B model is evaluated on ScreenSpot and ScreenSpot-v2.
+
+- https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/ · source: https://ojs.aaai.org/index.php/AAAI/article/view/40038
+- Published: 2026-03-14
+
 ### FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems
 
 Introduces FedGUI, a federated GUI-learning benchmark built from six datasets spanning mobile, web and desktop interfaces. Its experiments separate platform, device, operating-system and data-source heterogeneity when evaluating collaborative training.
@@ -23114,6 +23226,13 @@ FlowMind generates API-based workflows from user requests for process automation
 
 - https://awesomecua.com/resources/arxiv-2404-13050/ · source: https://arxiv.org/abs/2404.13050v1
 - Published: 2024-03-17
+
+### Focus Like a Human: Efficient GUI Grounding via Coarse-to-Fine Visual Attention and Parallel Verification
+
+FastFocus grounds GUI targets by proposing regions from low-resolution views and checking candidates with parallel high-resolution zooms; it is evaluated on ScreenSpot-Pro.
+
+- https://awesomecua.com/resources/url-85cad9e7962668786093/ · source: https://doi.org/10.24963/ijcai.2026/49
+- Published: 2026-09
 
 ### FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents
 
@@ -23556,6 +23675,13 @@ Introduces GuardAgent, which translates safety requests into executable guardrai
 - https://awesomecua.com/resources/arxiv-2406-09187/ · source: https://arxiv.org/abs/2406.09187v3
 - Published: 2024-06-13
 
+### Guardian: A Runtime Framework for LLM-Based UI Exploration
+
+Guardian guides LLM-driven mobile app testing by narrowing available UI actions and replanning after invalidated actions; it is evaluated on 58 tasks from 23 apps.
+
+- https://awesomecua.com/resources/url-7424d66754ec26d68d83/ · source: https://dl.acm.org/doi/abs/10.1145/3650212.3680334
+- Published: 2024-09-11
+
 ### GUI Action Narrator: Where and When Did That Action Take Place?
 
 Introduces Act2Cap and a cursor-guided method for describing GUI actions from video, with temporal and spatial localization challenges.
@@ -23646,6 +23772,13 @@ GUI-ARP uses visual attention to crop relevant screenshot regions and decides wh
 
 - https://awesomecua.com/resources/arxiv-2509-15532/ · source: https://arxiv.org/abs/2509.15532v1
 - Published: 2025-09-19
+
+### GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver
+
+A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.
+
+- https://awesomecua.com/resources/url-ffc05c4425f777924940/ · source: https://ieeexplore.ieee.org/abstract/document/10298721
+- Published: 2023-09-11
 
 ### GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration
 
@@ -24397,6 +24530,13 @@ InquireMobile trains mobile agents to seek human confirmation at critical decisi
 - https://awesomecua.com/resources/arxiv-2508-19679/ · source: https://arxiv.org/abs/2508.19679v2
 - Published: 2025-08-27
 
+### INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent
+
+InReAct trains a multimodal GUI agent with staged curriculum learning and outcome-based reinforcement learning for pixel-level grounding and navigation.
+
+- https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/ · source: https://aclanthology.org/2025.findings-emnlp.486
+- Published: 2025
+
 ### InSTA: Towards Internet-Scale Training For Agents
 
 InSTA builds a pipeline that creates website tasks, collects web-agent trajectories and filters them by judged success to train smaller web navigation agents.
@@ -25132,6 +25272,20 @@ Uses a pre-execution critic and reinforcement training to evaluate proposed GUI 
 - https://awesomecua.com/resources/arxiv-2506-04614/ · source: https://arxiv.org/abs/2506.04614v2
 - Published: 2025-06-05
 
+### Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing
+
+Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.
+
+- https://awesomecua.com/resources/url-39f88102e1659647b1a0/ · source: https://doi.org/10.1145/3808134
+- Published: 2026-06-30
+
+### Look Where You’re Told: Instruction-Consistent Attention for GUI Grounding
+
+Attention Cycle-Consistency trains GUI element grounding with semantic and spatial alignment constraints, while removing its auxiliary components at inference.
+
+- https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/ · source: https://aclanthology.org/2026.alvr-main.12
+- Published: 2026
+
 ### LookAgain: Closed-Loop GUI Grounding with Visually Grounded Reflection
 
 LookAgain treats a GUI coordinate as a revisable hypothesis, rendering its marker and a local screenshot patch before confirmation. Reflective supervised trajectories provide a cold start, followed by GRPO using terminal grounding correctness.
@@ -25495,6 +25649,13 @@ Introduces Mem-W, which compresses previous trajectories and current-session seg
 
 - https://awesomecua.com/resources/arxiv-2605-09317/ · source: https://arxiv.org/abs/2605.09317v1
 - Published: 2026-05-10
+
+### MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information
+
+MemAgent adds a cache for task-specific information to conversational web agents, separating information gathering from execution across 150 web tasks.
+
+- https://awesomecua.com/resources/url-3fdea133115518f9205a/ · source: https://ceur-ws.org/Vol-4028/paper8.pdf
+- Published: 2025
 
 ### MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents
 
@@ -26610,6 +26771,13 @@ Develops multimodal browser agents through repeated cycles of real-web explorati
 
 - https://awesomecua.com/resources/arxiv-2410-19609/ · source: https://arxiv.org/abs/2410.19609v1
 - Published: 2024-10-25
+
+### Operator System Card
+
+The Operator system card describes a browser agent trained to act from screenshots and details evaluations, risk policies, user confirmations, and monitoring for web tasks.
+
+- https://awesomecua.com/resources/url-24bc39ed487b311108ae/ · source: https://openai.com/index/operator-system-card
+- Published: 2025-01-23
 
 ### ORBIT: A Framework for Multi-Agent Safety and Security Evaluations
 
@@ -28419,6 +28587,13 @@ Introduces SkillShift-Bench to evaluate how web agents reuse learned skills when
 - https://awesomecua.com/resources/arxiv-2610-33528/ · source: https://arxiv.org/abs/2610.33528v1
 - Published: 2026-10-24
 
+### SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks
+
+SkillTracer maps web agent skills to inspectable plan graphs, uses interaction traces to locate failures, and refines reusable skills across long tasks and episodes.
+
+- https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/ · source: https://doi.org/10.1145/3770855.3817981
+- Published: 2026-08-08
+
 ### SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills
 
 SkillWeaver explores websites, practices interactions, and converts the resulting experience into a reusable library of callable skill APIs. Its WebArena and live-website experiments examine skill refinement, composition, and transfer from stronger agents to weaker ones.
@@ -29028,6 +29203,13 @@ Terminal-Bench 2.0 benchmarks agents on 89 workflow-inspired tasks in computer t
 - https://awesomecua.com/resources/arxiv-2601-11868/ · source: https://arxiv.org/abs/2601.11868v1
 - Published: 2026-01-17
 
+### Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model
+
+Test-Agent uses an LLM, screenshots, and interface structure to generate and execute mobile app test actions from natural-language instructions across platforms.
+
+- https://awesomecua.com/resources/url-83569d30f341f39f4a78/ · source: https://ieeexplore.ieee.org/abstract/document/10778901
+- Published: 2024-10-18
+
 ### Test-Time Reinforcement Learning for GUI Grounding via Region Consistency
 
 GUI-RC aggregates multiple grounding predictions into spatial voting grids to choose a consensus region. GUI-RCPO then turns agreement with that region into a reward for test-time policy updates on unlabeled GUI screenshots.
@@ -29266,6 +29448,13 @@ Describes the CUGA enterprise-agent development process, emphasizing iterative e
 - https://awesomecua.com/resources/arxiv-2503-01861/ · source: https://arxiv.org/abs/2503.01861v3
 - Published: 2025-02-24
 
+### Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution
+
+A web navigation framework uses user-specific task representations and interactive reasoning to adapt agent workflows to preferences, with task success and satisfaction as evaluation measures.
+
+- https://awesomecua.com/resources/url-2af250798e99e7af01ce/ · source: https://dl.acm.org/doi/abs/10.1145/3701551.3707420
+- Published: 2025-03-10
+
 ### Towards Faithful Simulation of Human Shopping Behavior
 
 Presents RecVerse, a screenshot-based shopping simulation agent with hierarchical memory and trajectory-level RL, alongside USB, an interactive e-commerce GUI trajectory dataset.
@@ -29307,6 +29496,13 @@ Examines energy and carbon-accounting limitations in web-agent evaluation and ar
 
 - https://awesomecua.com/resources/arxiv-2502-17903/ · source: https://arxiv.org/abs/2502.17903v1
 - Published: 2025-02-25
+
+### Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding
+
+Trace2Ground builds a web GUI grounding dataset from HTML/DOM elements and simulated traces, testing scenario, duplicate-label, and relational instructions.
+
+- https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/ · source: https://aclanthology.org/2026.realm-1.100
+- Published: 2026
 
 ### TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents
 

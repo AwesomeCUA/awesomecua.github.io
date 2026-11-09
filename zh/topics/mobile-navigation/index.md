@@ -430,6 +430,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   LiMAC combines a compact Action Transformer with a fine-tuned vision-language model for Android app control. It uses textual goals and histories of screenshots and UI trees to predict actions, with evaluation on two mobile-control datasets.
 - [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](https://awesomecua.com/resources/arxiv-2410-15164/) — 2024-10-19
   Introduces a smartphone-agent benchmark with English and Chinese tasks, real-time Android interaction, and completion and resource-use metrics.
+- [Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model](https://awesomecua.com/resources/url-83569d30f341f39f4a78/) — 2024-10-18
+  Test-Agent uses an LLM, screenshots, and interface structure to generate and execute mobile app test actions from natural-language instructions across platforms.
 - [MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation](https://awesomecua.com/resources/arxiv-2410-13757/) — 2024-10-17
   Combines adaptive mobile-task planning, reflection-based recovery, and multiple memory components, evaluated with MobBench and AndroidArena.
 - [From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating Mobile UI Operation Impacts](https://awesomecua.com/resources/arxiv-2410-09006/) — 2024-10-11
@@ -490,6 +492,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Presents LLMPA, a mobile process-automation architecture that decomposes requests, identifies interface elements, predicts actions and checks errors. Demonstrations evaluate multistep operations in Alipay.
 - [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://awesomecua.com/resources/arxiv-2312-03003/) — 2023-12-04
   Introduces MobileGPT, which organizes mobile-app experience into reusable subtasks using an explore, select, derive, and recall cycle. Its memory supports learning task procedures and adapting them to new contexts.
+- [Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing](https://awesomecua.com/resources/arxiv-2311-08649/) — 2023-11-15
+  DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.
 - [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://awesomecua.com/resources/arxiv-2311-07562/) — 2023-11-13
   Studies MM-Navigator, a multimodal agent that interprets smartphone screenshots and predicts localized actions without task-specific training.
 - [Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions](https://awesomecua.com/resources/arxiv-2310-15780/) — 2023-10-24
@@ -504,6 +508,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Collects Android interaction demonstrations with screens, actions, and instructions across device and platform variations for robustness evaluation.
 - [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](https://awesomecua.com/resources/arxiv-2306-01987/) — 2023-06-03
   Introduces AdbGPT, a prompting-based approach that uses LLMs to replay app bugs from written reports, applying few-shot examples and reasoning without model training.
+- [Task Automation Intelligent Agents: A Review](https://awesomecua.com/resources/url-eb791c465f47690ade31/) — 2023-05-29
+  A literature review examines mobile phone task automation agents, including programming by demonstration and usability heuristics for recurring user tasks.
 - [DroidBot-GPT: GPT-powered UI Automation for Android](https://awesomecua.com/resources/arxiv-2304-07061/) — 2023-04-14
   Transforms Android UI states and available actions into language prompts for an LLM to choose and execute task steps.
 - [UGIF: UI Grounded Instruction Following](https://awesomecua.com/resources/arxiv-2211-07615/) — 2022-11-14
@@ -516,6 +522,8 @@ Full source records: https://awesomecua.com/downloads/topics/mobile-navigation/r
   Introduces MoTIF mobile-app interactions with feasible and infeasible commands, feasibility explanations, and follow-up questions for ambiguous requests.
 - [AppBuddy: Learning to Accomplish Tasks in Mobile Apps via Reinforcement Learning](https://awesomecua.com/resources/arxiv-2106-00133/) — 2021-05-31
   Introduces AppBuddy, an RL training platform and task suite for mobile apps where agents use on-screen element states and tap or type to complete multi-step tasks.
+- [GUI testing for mobile applications: objectives, approaches and challenges](https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/) — 2020-11
+  A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.
 - [Mapping Natural Language Instructions to Mobile UI Action Sequences](https://awesomecua.com/resources/arxiv-2005-03776/) — 2020-05-07
   Introduces PIXELHELP for predicting mobile UI action sequences from instructions, together with action-phrase annotations and synthetic UI action descriptions for training. Separate Transformers extract instruction steps and ground object descriptions using interface content and screen position.
 - [Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations](https://awesomecua.com/resources/arxiv-1909-00031/) — 2019-08-30

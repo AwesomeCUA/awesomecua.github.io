@@ -4259,5 +4259,81 @@
     "title": "Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents",
     "type": "paper-conference",
     "volume": "2025"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-emnlp.486",
+    "URL": "https://aclanthology.org/2025.findings-emnlp.486",
+    "author": [
+      {
+        "literal": "Yuanlei Wang"
+      },
+      {
+        "literal": "Liuzhou Zhang"
+      },
+      {
+        "literal": "Haohao Luo"
+      },
+      {
+        "literal": "Ying Shen"
+      }
+    ],
+    "citation-key": "cua_36bd25d3b6b4637d5a0f9b3e",
+    "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    "custom": {
+      "canonical_source_url": "https://aclanthology.org/2025.findings-emnlp.486",
+      "catalog_id": "url:a102be4d98ab5ce068d8",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.18653/v1/2025.findings-emnlp.486"
+      },
+      "publication": {
+        "authors": [
+          "Yuanlei Wang",
+          "Liuzhou Zhang",
+          "Haohao Luo",
+          "Ying Shen"
+        ],
+        "date_basis": "Crossref issued date 2025; precision=year.",
+        "date_parts": [
+          2025
+        ],
+        "doi": "10.18653/v1/2025.findings-emnlp.486",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.18653/v1/2025.findings-emnlp.486",
+          "https://aclanthology.org/2025.findings-emnlp.486/"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "ACL Anthology edition in Findings of EMNLP 2025.",
+        "pages": "9148-9160",
+        "pdf_url": "https://aclanthology.org/2025.findings-emnlp.486.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-emnlp.486",
+        "venue": "Findings of the Association for Computational Linguistics: EMNLP 2025",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:a102be4d98ab5ce068d8",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Publication date: 2025.",
+    "page": "9148-9160",
+    "publisher": "Association for Computational Linguistics",
+    "title": "INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent",
+    "type": "paper-conference"
   }
 ]

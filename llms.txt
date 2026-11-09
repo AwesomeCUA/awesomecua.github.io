@@ -1,6 +1,6 @@
 # AwesomeCUA
 
-> Source-backed catalog of computer-use, GUI, browser and mobile agents: 4,559 curated resources (1,690 papers and surveys, 2,869 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source with evidence, review dates and separate license declarations. 451 metadata-only bibliography records await relevance review and are labeled separately.
+> Source-backed catalog of computer-use, GUI, browser and mobile agents: 4,587 curated resources (1,718 papers and surveys, 2,869 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source with evidence, review dates and separate license declarations. 451 metadata-only bibliography records await relevance review and are labeled separately.
 
 Code, data, weights and document licenses are separate. Every resource, category, topic and research-library page has a Markdown version at `index.md` beside it, and every resource page its complete record at `record.json`.
 
@@ -16,81 +16,81 @@ Code, data, weights and document licenses are separate. Every resource, category
 - [Products](https://awesomecua.com/categories/product/index.md): 70 curated records
 - [Publishers](https://awesomecua.com/categories/company/index.md): 19 curated records
 - [Learning resources](https://awesomecua.com/categories/learning/index.md): 26 curated records
-- [Surveys](https://awesomecua.com/categories/survey/index.md): 29 curated records
-- [Research papers](https://awesomecua.com/categories/paper/index.md): 1,661 curated records; listed 60 per page in the research library below
+- [Surveys](https://awesomecua.com/categories/survey/index.md): 37 curated records
+- [Research papers](https://awesomecua.com/categories/paper/index.md): 1,681 curated records; listed 60 per page in the research library below
 
 ## Research library
 
 Reviewed papers and surveys, newest publication first, 60 per page with full annotations. The same pages in Chinese: https://awesomecua.com/zh/papers/
 
 - [Page 1](https://awesomecua.com/papers/index.md): published 2026-11-04 to 2026-10-22
-- [Page 2](https://awesomecua.com/papers/page/2/index.md): published 2026-10-22 to 2026-10-12
-- [Page 3](https://awesomecua.com/papers/page/3/index.md): published 2026-10-12 to 2026-09-29
-- [Page 4](https://awesomecua.com/papers/page/4/index.md): published 2026-09-29 to 2026-09-14
-- [Page 5](https://awesomecua.com/papers/page/5/index.md): published 2026-09-14 to 2026-08-22
-- [Page 6](https://awesomecua.com/papers/page/6/index.md): published 2026-08-22 to 2026-07-30
-- [Page 7](https://awesomecua.com/papers/page/7/index.md): published 2026-07-30 to 2026-06-28
-- [Page 8](https://awesomecua.com/papers/page/8/index.md): published 2026-06-26 to 2026-06-04
-- [Page 9](https://awesomecua.com/papers/page/9/index.md): published 2026-06-04 to 2026-05-19
-- [Page 10](https://awesomecua.com/papers/page/10/index.md): published 2026-05-19 to 2026-04-29
-- [Page 11](https://awesomecua.com/papers/page/11/index.md): published 2026-04-28 to 2026-04-09
-- [Page 12](https://awesomecua.com/papers/page/12/index.md): published 2026-04-09 to 2026-03-15
-- [Page 13](https://awesomecua.com/papers/page/13/index.md): published 2026-03-13 to 2026-02-12
-- [Page 14](https://awesomecua.com/papers/page/14/index.md): published 2026-02-12 to 2026-01-26
-- [Page 15](https://awesomecua.com/papers/page/15/index.md): published 2026-01-26 to 2025-12-01
-- [Page 16](https://awesomecua.com/papers/page/16/index.md): published 2025-12-01 to 2025-10-22
-- [Page 17](https://awesomecua.com/papers/page/17/index.md): published 2025-10-21 to 2025-09-29
-- [Page 18](https://awesomecua.com/papers/page/18/index.md): published 2025-09-29 to 2025-08-27
-- [Page 19](https://awesomecua.com/papers/page/19/index.md): published 2025-08-27 to 2025-07-08
-- [Page 20](https://awesomecua.com/papers/page/20/index.md): published 2025-07-08 to 2025-05-30
-- [Page 21](https://awesomecua.com/papers/page/21/index.md): published 2025-05-29 to 2025-04-30
-- [Page 22](https://awesomecua.com/papers/page/22/index.md): published 2025-04-29 to 2025-03-12
-- [Page 23](https://awesomecua.com/papers/page/23/index.md): published 2025-03-10 to 2024-12-24
-- [Page 24](https://awesomecua.com/papers/page/24/index.md): published 2024-12-23 to 2024-10-11
-- [Page 25](https://awesomecua.com/papers/page/25/index.md): published 2024-10-10 to 2024-06-20
-- [Page 26](https://awesomecua.com/papers/page/26/index.md): published 2024-06-20 to 2024-03-12
-- [Page 27](https://awesomecua.com/papers/page/27/index.md): published 2024-03-08 to 2023-08-11
-- [Page 28](https://awesomecua.com/papers/page/28/index.md): published 2023-08-07 to 2018
-- [Page 29](https://awesomecua.com/papers/page/29/index.md): published 2017-10-20 to 1991
+- [Page 2](https://awesomecua.com/papers/page/2/index.md): published 2026-10-22 to 2026-10-13
+- [Page 3](https://awesomecua.com/papers/page/3/index.md): published 2026-10-12 to 2026-09-30
+- [Page 4](https://awesomecua.com/papers/page/4/index.md): published 2026-09-30 to 2026-09-15
+- [Page 5](https://awesomecua.com/papers/page/5/index.md): published 2026-09-15 to 2026-08-23
+- [Page 6](https://awesomecua.com/papers/page/6/index.md): published 2026-08-23 to 2026-07-31
+- [Page 7](https://awesomecua.com/papers/page/7/index.md): published 2026-07-30 to 2026-06-29
+- [Page 8](https://awesomecua.com/papers/page/8/index.md): published 2026-06-29 to 2026-06-08
+- [Page 9](https://awesomecua.com/papers/page/9/index.md): published 2026-06-08 to 2026-05-22
+- [Page 10](https://awesomecua.com/papers/page/10/index.md): published 2026-05-21 to 2026-05-01
+- [Page 11](https://awesomecua.com/papers/page/11/index.md): published 2026-05-01 to 2026-04-10
+- [Page 12](https://awesomecua.com/papers/page/12/index.md): published 2026-04-09 to 2026-03-18
+- [Page 13](https://awesomecua.com/papers/page/13/index.md): published 2026-03-18 to 2026-02-14
+- [Page 14](https://awesomecua.com/papers/page/14/index.md): published 2026-02-14 to 2026-01-28
+- [Page 15](https://awesomecua.com/papers/page/15/index.md): published 2026-01-28 to 2025-12-12
+- [Page 16](https://awesomecua.com/papers/page/16/index.md): published 2025-12-11 to 2025-10-26
+- [Page 17](https://awesomecua.com/papers/page/17/index.md): published 2025-10-25 to 2025-10-01
+- [Page 18](https://awesomecua.com/papers/page/18/index.md): published 2025-10-01 to 2025-09-01
+- [Page 19](https://awesomecua.com/papers/page/19/index.md): published 2025-09-01 to 2025-07-21
+- [Page 20](https://awesomecua.com/papers/page/20/index.md): published 2025-07-20 to 2025-06-03
+- [Page 21](https://awesomecua.com/papers/page/21/index.md): published 2025-06-03 to 2025-05-11
+- [Page 22](https://awesomecua.com/papers/page/22/index.md): published 2025-05-09 to 2025-03-20
+- [Page 23](https://awesomecua.com/papers/page/23/index.md): published 2025-03-20 to 2025-01-23
+- [Page 24](https://awesomecua.com/papers/page/24/index.md): published 2025-01-23 to 2024-10-24
+- [Page 25](https://awesomecua.com/papers/page/25/index.md): published 2024-10-24 to 2024-07-22
+- [Page 26](https://awesomecua.com/papers/page/26/index.md): published 2024-07-17 to 2024-04-12
+- [Page 27](https://awesomecua.com/papers/page/27/index.md): published 2024-04-12 to 2023-11-13
+- [Page 28](https://awesomecua.com/papers/page/28/index.md): published 2023-11-03 to 2021-12-17
+- [Page 29](https://awesomecua.com/papers/page/29/index.md): published 2021-12-10 to 1991
 
 ## Topics
 
 Reviewed topic membership; resources can belong to several topics, so counts overlap. Chinese topic pages: https://awesomecua.com/zh/topics/
 
-- [Action prediction](https://awesomecua.com/topics/action-prediction/index.md): 239 reviewed resources
-- [Automation](https://awesomecua.com/topics/automation/index.md): 1,323 reviewed resources
+- [Action prediction](https://awesomecua.com/topics/action-prediction/index.md): 240 reviewed resources
+- [Automation](https://awesomecua.com/topics/automation/index.md): 1,335 reviewed resources
 - [Cross-app](https://awesomecua.com/topics/cross-app/index.md): 87 reviewed resources
-- [Data generation](https://awesomecua.com/topics/data-generation/index.md): 574 reviewed resources
-- [Efficiency](https://awesomecua.com/topics/efficiency/index.md): 513 reviewed resources
-- [Evaluation](https://awesomecua.com/topics/evaluation/index.md): 1,377 reviewed resources
-- [GUI grounding](https://awesomecua.com/topics/grounding/index.md): 869 reviewed resources
+- [Data generation](https://awesomecua.com/topics/data-generation/index.md): 578 reviewed resources
+- [Efficiency](https://awesomecua.com/topics/efficiency/index.md): 518 reviewed resources
+- [Evaluation](https://awesomecua.com/topics/evaluation/index.md): 1,386 reviewed resources
+- [GUI grounding](https://awesomecua.com/topics/grounding/index.md): 878 reviewed resources
 - [Historical](https://awesomecua.com/topics/history/index.md): 14 reviewed resources
-- [Human in the loop](https://awesomecua.com/topics/human-in-the-loop/index.md): 308 reviewed resources
+- [Human in the loop](https://awesomecua.com/topics/human-in-the-loop/index.md): 311 reviewed resources
 - [Imitation learning](https://awesomecua.com/topics/imitation-learning/index.md): 173 reviewed resources
-- [Industry](https://awesomecua.com/topics/industry/index.md): 63 reviewed resources
-- [Interaction history](https://awesomecua.com/topics/interaction-history/index.md): 105 reviewed resources
-- [Long-horizon tasks](https://awesomecua.com/topics/long-horizon/index.md): 230 reviewed resources
-- [Memory](https://awesomecua.com/topics/memory/index.md): 338 reviewed resources
-- [Mobile navigation](https://awesomecua.com/topics/mobile-navigation/index.md): 552 reviewed resources
-- [Observability](https://awesomecua.com/topics/observability/index.md): 199 reviewed resources
-- [Planning](https://awesomecua.com/topics/planning/index.md): 528 reviewed resources
+- [Industry](https://awesomecua.com/topics/industry/index.md): 66 reviewed resources
+- [Interaction history](https://awesomecua.com/topics/interaction-history/index.md): 106 reviewed resources
+- [Long-horizon tasks](https://awesomecua.com/topics/long-horizon/index.md): 231 reviewed resources
+- [Memory](https://awesomecua.com/topics/memory/index.md): 341 reviewed resources
+- [Mobile navigation](https://awesomecua.com/topics/mobile-navigation/index.md): 556 reviewed resources
+- [Observability](https://awesomecua.com/topics/observability/index.md): 200 reviewed resources
+- [Planning](https://awesomecua.com/topics/planning/index.md): 532 reviewed resources
 - [Recording](https://awesomecua.com/topics/recording/index.md): 165 reviewed resources
-- [Reinforcement learning](https://awesomecua.com/topics/reinforcement-learning/index.md): 410 reviewed resources
-- [Reward models](https://awesomecua.com/topics/reward-models/index.md): 102 reviewed resources
-- [Robustness](https://awesomecua.com/topics/robustness/index.md): 288 reviewed resources
-- [Safety & security](https://awesomecua.com/topics/safety-security/index.md): 506 reviewed resources
+- [Reinforcement learning](https://awesomecua.com/topics/reinforcement-learning/index.md): 414 reviewed resources
+- [Reward models](https://awesomecua.com/topics/reward-models/index.md): 103 reviewed resources
+- [Robustness](https://awesomecua.com/topics/robustness/index.md): 290 reviewed resources
+- [Safety & security](https://awesomecua.com/topics/safety-security/index.md): 510 reviewed resources
 - [Sandboxes](https://awesomecua.com/topics/sandbox/index.md): 328 reviewed resources
-- [Scientific workflows](https://awesomecua.com/topics/science/index.md): 43 reviewed resources
-- [Screen understanding](https://awesomecua.com/topics/screen-understanding/index.md): 811 reviewed resources
+- [Scientific workflows](https://awesomecua.com/topics/science/index.md): 44 reviewed resources
+- [Screen understanding](https://awesomecua.com/topics/screen-understanding/index.md): 816 reviewed resources
 - [Self-reflection](https://awesomecua.com/topics/self-reflection/index.md): 141 reviewed resources
-- [State tracking](https://awesomecua.com/topics/state-tracking/index.md): 126 reviewed resources
-- [Survey](https://awesomecua.com/topics/survey/index.md): 42 reviewed resources
-- [Tool integration](https://awesomecua.com/topics/tool-integration/index.md): 1,212 reviewed resources
+- [State tracking](https://awesomecua.com/topics/state-tracking/index.md): 128 reviewed resources
+- [Survey](https://awesomecua.com/topics/survey/index.md): 50 reviewed resources
+- [Tool integration](https://awesomecua.com/topics/tool-integration/index.md): 1,214 reviewed resources
 - [Training-free methods](https://awesomecua.com/topics/training-free/index.md): 64 reviewed resources
-- [UI design](https://awesomecua.com/topics/ui-design/index.md): 107 reviewed resources
+- [UI design](https://awesomecua.com/topics/ui-design/index.md): 109 reviewed resources
 - [Video](https://awesomecua.com/topics/video/index.md): 79 reviewed resources
-- [Web navigation](https://awesomecua.com/topics/web-navigation/index.md): 1,483 reviewed resources
-- [Workflows](https://awesomecua.com/topics/workflow/index.md): 491 reviewed resources
+- [Web navigation](https://awesomecua.com/topics/web-navigation/index.md): 1,489 reviewed resources
+- [Workflows](https://awesomecua.com/topics/workflow/index.md): 496 reviewed resources
 - [World models](https://awesomecua.com/topics/world-models/index.md): 76 reviewed resources
 
 ## Static API

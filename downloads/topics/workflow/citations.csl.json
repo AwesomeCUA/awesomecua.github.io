@@ -58,6 +58,103 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2007.13257v1",
+    "archive": "arXiv",
+    "archive_location": "2007.13257",
+    "author": [
+      {
+        "literal": "Tathagata Chakraborti"
+      },
+      {
+        "literal": "Vatche Isahagian"
+      },
+      {
+        "literal": "Rania Khalaf"
+      },
+      {
+        "literal": "Yasaman Khazaeni"
+      },
+      {
+        "literal": "Vinod Muthusamy"
+      },
+      {
+        "literal": "Yara Rizk"
+      },
+      {
+        "literal": "Merve Unuvar"
+      }
+    ],
+    "citation-key": "arxiv_2007_13257",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e43a58c6fa46b6d8a83555a51a9057e066da4f0cec8fe7bc8d78c22200eb3bcd",
+        "submitted_at": "2020-07-27T00:43:08Z",
+        "updated_at": "2020-07-27T00:43:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2007.13257v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2007.13257",
+      "catalog_id": "arxiv:2007.13257",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "record",
+      "first_published_at": "2020-07-27",
+      "identifiers": {
+        "arxiv": "2007.13257"
+      },
+      "publication": {
+        "authors": [
+          "Tathagata Chakraborti",
+          "Vatche Isahagian",
+          "Rania Khalaf",
+          "Yasaman Khazaeni",
+          "Vinod Muthusamy",
+          "Yara Rizk",
+          "Merve Unuvar"
+        ],
+        "date_basis": "Crossref issued date 2020; precision=year.",
+        "date_parts": [
+          2020
+        ],
+        "doi": "10.1007/978-3-030-58779-6_15",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1007/978-3-030-58779-6_15"
+        ],
+        "identity_basis": "Same work as the retained arXiv record: matching title and seven-author list, and the arXiv preprint names the BPM 2020 RPA Forum.",
+        "issue": null,
+        "notes": "BPM 2020 RPA Forum chapter in Lecture Notes in Business Information Processing; the arXiv preprint names the same forum.",
+        "pages": "215-228",
+        "pdf_url": null,
+        "publisher": "Springer International Publishing",
+        "series": null,
+        "title": "From Robotic Process Automation to Intelligent Process Automation",
+        "type": "conference-paper",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-030-58779-6_15",
+        "venue": "Lecture Notes in Business Information Processing",
+        "volume": null
+      },
+      "record_updated_at": "2020-07-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2007.13257",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2020-07-27; Recorded arXiv version: v1; Recorded version updated: 2020-07-27T00:43:08Z.",
+    "title": "From Robotic Process Automation to Intelligent Process Automation: Emerging Trends",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2305.19308v2",
     "archive": "arXiv",
     "archive_location": "2305.19308",
@@ -9468,6 +9565,261 @@
     "version": "1"
   },
   {
+    "DOI": "10.1016/j.compind.2019.103162",
+    "URL": "https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609",
+    "author": [
+      {
+        "literal": "Rehan Syed"
+      },
+      {
+        "literal": "Suriadi Suriadi"
+      },
+      {
+        "literal": "Michael Adams"
+      },
+      {
+        "literal": "Wasana Bandara"
+      },
+      {
+        "literal": "Sander J.J. Leemans"
+      },
+      {
+        "literal": "Chun Ouyang"
+      },
+      {
+        "literal": "Arthur H.M. ter Hofstede"
+      },
+      {
+        "literal": "Inge van de Weerd"
+      },
+      {
+        "literal": "Moe Thandar Wynn"
+      },
+      {
+        "literal": "Hajo A. Reijers"
+      }
+    ],
+    "citation-key": "cua_d62129f0b2ced2720ee187d9",
+    "container-title": "Computers in Industry",
+    "custom": {
+      "canonical_source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609",
+      "catalog_id": "url:2574c6eeee264762a990",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1016/j.compind.2019.103162"
+      },
+      "publication": {
+        "authors": [
+          "Rehan Syed",
+          "Suriadi Suriadi",
+          "Michael Adams",
+          "Wasana Bandara",
+          "Sander J.J. Leemans",
+          "Chun Ouyang",
+          "Arthur H.M. ter Hofstede",
+          "Inge van de Weerd",
+          "Moe Thandar Wynn",
+          "Hajo A. Reijers"
+        ],
+        "date_basis": "Crossref issued date 2020-2; precision=month.",
+        "date_parts": [
+          2020,
+          2
+        ],
+        "doi": "10.1016/j.compind.2019.103162",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1016/j.compind.2019.103162",
+          "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.compind.2019.103162?fields=title,abstract,authors,venue,year,externalIds"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "Computers in Industry journal article; the abstract was read from Semantic Scholar.",
+        "pages": "103162",
+        "pdf_url": null,
+        "publisher": "Elsevier BV",
+        "series": null,
+        "title": "Robotic Process Automation: Contemporary themes and challenges",
+        "type": "journal-article",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609",
+        "venue": "Computers in Industry",
+        "volume": "115"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:2574c6eeee264762a990",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    },
+    "note": "Publication date: 2020-02.",
+    "page": "103162",
+    "publisher": "Elsevier BV",
+    "title": "Robotic Process Automation: Contemporary themes and challenges",
+    "type": "article-journal",
+    "volume": "115"
+  },
+  {
+    "DOI": "10.1145/3701551.3707420",
+    "URL": "https://dl.acm.org/doi/abs/10.1145/3701551.3707420",
+    "author": [
+      {
+        "literal": "Preetam Prabhu Srikar Dammu"
+      }
+    ],
+    "citation-key": "cua_aa967318a27e68c641342009",
+    "container-title": "Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining",
+    "custom": {
+      "canonical_source_url": "https://dl.acm.org/doi/abs/10.1145/3701551.3707420",
+      "catalog_id": "url:2af250798e99e7af01ce",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2025-03-10",
+      "identifiers": {
+        "doi": "10.1145/3701551.3707420"
+      },
+      "publication": {
+        "authors": [
+          "Preetam Prabhu Srikar Dammu"
+        ],
+        "date_basis": "Crossref issued date 2025-3-10; precision=day.",
+        "date_parts": [
+          2025,
+          3,
+          10
+        ],
+        "doi": "10.1145/3701551.3707420",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1145/3701551.3707420",
+          "https://api.openalex.org/works/doi:10.1145/3701551.3707420"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "WSDM 2025 proceedings paper; the abstract was read from OpenAlex.",
+        "pages": "1074-1076",
+        "pdf_url": null,
+        "publisher": "ACM",
+        "series": null,
+        "title": "Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution",
+        "type": "conference-paper",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3701551.3707420",
+        "venue": "Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:2af250798e99e7af01ce",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          10
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-03-10.",
+    "page": "1074-1076",
+    "publisher": "ACM",
+    "title": "Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3664647.3684998",
+    "URL": "https://dl.acm.org/doi/abs/10.1145/3664647.3684998",
+    "author": [
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Siyuan Hu"
+      },
+      {
+        "literal": "Zechen Bai"
+      },
+      {
+        "literal": "Qinghong Lin"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "cua_16ba9a7e63121626c10836c7",
+    "container-title": "Proceedings of the 32nd ACM International Conference on Multimedia",
+    "custom": {
+      "canonical_source_url": "https://dl.acm.org/doi/abs/10.1145/3664647.3684998",
+      "catalog_id": "url:377f5418e39ff2da971f",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-28",
+      "identifiers": {
+        "doi": "10.1145/3664647.3684998"
+      },
+      "publication": {
+        "authors": [
+          "Difei Gao",
+          "Siyuan Hu",
+          "Zechen Bai",
+          "Qinghong Lin",
+          "Mike Zheng Shou"
+        ],
+        "date_basis": "Crossref issued date 2024-10-28; precision=day.",
+        "date_parts": [
+          2024,
+          10,
+          28
+        ],
+        "doi": "10.1145/3664647.3684998",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1145/3664647.3684998",
+          "https://api.openalex.org/works/doi:10.1145/3664647.3684998"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "ACM Multimedia 2024 proceedings paper; the abstract was read from OpenAlex.",
+        "pages": "11255-11257",
+        "pdf_url": null,
+        "publisher": "ACM",
+        "series": null,
+        "title": "AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation",
+        "type": "conference-paper",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3664647.3684998",
+        "venue": "Proceedings of the 32nd ACM International Conference on Multimedia",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:377f5418e39ff2da971f",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          28
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-10-28.",
+    "page": "11255-11257",
+    "publisher": "ACM",
+    "title": "AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.1145/3210240.3210339",
     "URL": "https://doi.org/10.1145/3210240.3210339",
     "author": [
@@ -9534,6 +9886,83 @@
     "note": "Publication date: 2018-06.",
     "title": "Kite: Building Conversational Bots from Mobile Apps",
     "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1016/j.procs.2021.01.104",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S1877050921001393",
+    "author": [
+      {
+        "literal": "Jorge Ribeiro"
+      },
+      {
+        "literal": "Rui Lima"
+      },
+      {
+        "literal": "Tiago Eckhardt"
+      },
+      {
+        "literal": "Sara Paiva"
+      }
+    ],
+    "citation-key": "cua_22af3749b032a90aa40625db",
+    "container-title": "Procedia Computer Science",
+    "custom": {
+      "canonical_source_url": "https://www.sciencedirect.com/science/article/pii/S1877050921001393",
+      "catalog_id": "url:b230a6700386b7e2744c",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1016/j.procs.2021.01.104"
+      },
+      "publication": {
+        "authors": [
+          "Jorge Ribeiro",
+          "Rui Lima",
+          "Tiago Eckhardt",
+          "Sara Paiva"
+        ],
+        "date_basis": "Crossref issued date 2021; precision=year.",
+        "date_parts": [
+          2021
+        ],
+        "doi": "10.1016/j.procs.2021.01.104",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://api.crossref.org/works/10.1016/j.procs.2021.01.104",
+          "https://api.openalex.org/works/doi:10.1016/j.procs.2021.01.104"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.",
+        "issue": null,
+        "notes": "Procedia Computer Science article; the abstract was read from OpenAlex.",
+        "pages": "51-58",
+        "pdf_url": null,
+        "publisher": "Elsevier BV",
+        "series": null,
+        "title": "Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review",
+        "type": "journal-article",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877050921001393",
+        "venue": "Procedia Computer Science",
+        "volume": "181"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:b230a6700386b7e2744c",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "note": "Publication date: 2021.",
+    "page": "51-58",
+    "publisher": "Elsevier BV",
+    "title": "Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review",
+    "type": "article-journal",
+    "volume": "181"
   },
   {
     "DOI": "10.1145/1240624.1240767",

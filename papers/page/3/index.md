@@ -1,10 +1,62 @@
 # Computer-use research library, page 3 of 29
 
-> Reviewed computer-use papers and surveys 121 to 180 of 1,690, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
+> Reviewed computer-use papers and surveys 121 to 180 of 1,718, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
 
 HTML page: https://awesomecua.com/papers/page/3/ · [Previous page](https://awesomecua.com/papers/page/2/index.md) · [Next page](https://awesomecua.com/papers/page/4/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views
+
+Extends BrowseSafe with paired attacked and clean webpages in several representations, and studies text and screenshot detectors plus feedback-adapted prompt injections.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2610-17457/
+- Original source: https://arxiv.org/abs/2610.17457
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, evaluation, web-navigation
+- Evidence checked: 2026-10-16T06:33:24Z
+- ID: arxiv:2610.17457
+
+### Limitations
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2610-17457/record.json
+
+### Authors
+
+Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley, Jerry Ma, Denis Yarats, Ninghui Li
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2610-17457/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2610-17457/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.17457v1
+- First submission: 2026-10-12T22:17:51Z
+- Version updated: 2026-10-12T22:17:51Z
+- Abstract SHA-256: 247cd4c9634dea78780a2230138c728adf53871e8b65614697f76ba53dea858c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
 
 ---
 
@@ -2405,6 +2457,68 @@ Yun-Yun Tsai, Yuning Mao, Shiqi Wang, Junfeng Yang, Sinong Wang
 
 ---
 
+## AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents
+
+AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.
+
+- Catalog URL: https://awesomecua.com/resources/url-e86b3a1454b494224f07/
+- Original source: https://doi.org/10.1145/3832165
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, evaluation, web-navigation
+- Evidence checked: 2026-11-09T08:07:57Z
+- ID: url:e86b3a1454b494224f07
+
+### Limitations
+
+The authors evaluate five web agents and report attack success rates of 71.7%–100%. Their proposed defenses reduce the reported attack success rate to 1.7%. Attack goals include clicking selected elements, posting supplied text, and disclosing agent secrets.
+
+- Record JSON: https://awesomecua.com/resources/url-e86b3a1454b494224f07/record.json
+
+### Authors
+
+Yongbi Son, Changoo Lee, Dongwon Shin, Byoungyoung Lee, Sanghyun Hong, Sooel Son
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-e86b3a1454b494224f07/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-e86b3a1454b494224f07/citation.csl.json
+
+### Publication record
+
+- Title: AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents
+- Authors: Yongbi Son, Changoo Lee, Dongwon Shin, Byoungyoung Lee, Sanghyun Hong, Sooel Son
+- Publication date (recorded precision): 2026-10-01
+- Publication source: https://doi.org/10.1145/3832165
+- Publication BibTeX: https://awesomecua.com/resources/url-e86b3a1454b494224f07/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-e86b3a1454b494224f07/publication-citation.csl.json
+- venue: Proceedings of the ACM on Software Engineering
+- publisher: Association for Computing Machinery (ACM)
+- volume: 3
+- issue: ISSTA
+- pages: 1696-1717
+- doi: 10.1145/3832165
+- date basis: Crossref issued date 2026-10-1; precision=day.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: Proceedings of the ACM on Software Engineering article.
+- Publication evidence: https://api.crossref.org/works/10.1145/3832165
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.1145/3832165 (retrieved 2026-11-09T08:06:07Z; SHA-256 93982340a4969cbd9d6eccb3ad18fb2077c6e345b461bd348fb314a650dcabe4)
+- https://api.crossref.org/works/10.1145/3832165 (retrieved 2026-11-09T08:07:57Z; SHA-256 93982340a4969cbd9d6eccb3ad18fb2077c6e345b461bd348fb314a650dcabe4)
+
+---
+
 ## How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling
 
 Compares fine-tuned, retrieval-based and hybrid language-model world models for next-observation prediction and action selection in text environments including WebShop.
@@ -3029,108 +3143,3 @@ Terumi Chiba, Guangzhi Sun, Zheqi Yuan, Chao Zhang
 
 - https://export.arxiv.org/api/query?id_list=2609.34321%2C2609.34769%2C2609.34974%2C2609.35026%2C2609.35671%2C2609.35814%2C2609.35904%2C2609.36201%2C2609.36488%2C2609.36923%2C2609.36927%2C2609.36939%2C2609.37053%2C2609.37176%2C2609.37686%2C2609.38008%2C2609.38397%2C2609.38778%2C2609.38867%2C2609.39306%2C2609.39547%2C2609.39903%2C2609.40253%2C2609.40284%2C2610.00948%2C2610.01215%2C2610.01491%2C2610.01787%2C2610.02320%2C2610.02932%2C2610.03036%2C2610.03089%2C2610.03574%2C2610.03818%2C2610.04116%2C2610.04800%2C2610.04906%2C2610.05185%2C2610.05437%2C2610.05861%2C2610.06829%2C2610.07118%2C2610.07127%2C2610.07444%2C2610.07972%2C2610.08699%2C2610.08773%2C2610.09240%2C2610.09469%2C2610.11050&max_results=50 (retrieved 2026-10-16T06:33:20Z; SHA-256 c420ee40cc87a574ae2554556843f27f2eda43af553f88e95affd6319b1dae33)
 - https://export.arxiv.org/api/query?id_list=2609.34321%2C2609.34769%2C2609.34974%2C2609.35026%2C2609.35671%2C2609.35814%2C2609.35904%2C2609.36201%2C2609.36488%2C2609.36923%2C2609.36927%2C2609.36939%2C2609.37053%2C2609.37176%2C2609.37686%2C2609.38008%2C2609.38397%2C2609.38778%2C2609.38867%2C2609.39306%2C2609.39547%2C2609.39903%2C2609.40253%2C2609.40284%2C2610.00948%2C2610.01215%2C2610.01491%2C2610.01787%2C2610.02320%2C2610.02932%2C2610.03036%2C2610.03089%2C2610.03574%2C2610.03818%2C2610.04116%2C2610.04800%2C2610.04906%2C2610.05185%2C2610.05437%2C2610.05861%2C2610.06829%2C2610.07118%2C2610.07127%2C2610.07444%2C2610.07972%2C2610.08699%2C2610.08773%2C2610.09240%2C2610.09469%2C2610.11050&max_results=50 (retrieved 2026-10-16T06:33:20Z; SHA-256 c420ee40cc87a574ae2554556843f27f2eda43af553f88e95affd6319b1dae33)
-
----
-
-## Action Conditioned Bisimulation For GUI Agent Memory
-
-Defines a GUI-memory merge rule that treats two states as equivalent only when shared actions lead to matching outcomes and successor states. The training-free method replaces observation-similarity merging and is tested in closed-loop MiniWoB++ interaction.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2609-38778/
-- Original source: https://arxiv.org/abs/2609.38778
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: memory, web-navigation
-- Evidence checked: 2026-10-16T06:36:29Z
-- ID: arxiv:2609.38778
-
-### Limitations
-
-The annotation and scope were reviewed against the primary paper abstract.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2609-38778/record.json
-
-### Authors
-
-Hongbo Zhang, Liuyang Song, Quanquan Li, Daqian Yang, Yan Wen, Zhengtao Yao
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2609-38778/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2609-38778/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2609.38778v1
-- First submission: 2026-09-30T02:11:02Z
-- Version updated: 2026-09-30T02:11:02Z
-- Abstract SHA-256: bb910e64ebb65bd49e8729e4373c1c81ce4b2d0a32647a5abaf15f52737e578d
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
-
----
-
-## DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections
-
-Evaluates whether deceptive UI content steers mobile agents away from instruction-consistent choices, using paired benign and injected decision states and decision-integrity metrics.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2610-06898/
-- Original source: https://arxiv.org/abs/2610.06898
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: android
-- Topics: evaluation, safety-security, mobile-navigation
-- Evidence checked: 2026-10-18T10:00:31.520084+00:00
-- ID: arxiv:2610.06898
-
-### Limitations
-
-The commercial-app protocol uses fixed screenshots and context for selection decisions, rather than live end-to-end transactions. Android is supported by the paper's emulator setup. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.1 Benchmark components; 3.2 Instance generation; 3.3 Paired protocol/metrics; 5 Limitations/Ethics; Appendix B (Android emulator setup)).
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2610-06898/record.json
-
-### Authors
-
-Li Hu, Kanghua Mo, Yingbin Jin, Qingqing Ye, Haibo Hu
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2610-06898/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2610-06898/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2610.06898v1
-- First submission: 2026-09-29T03:03:00Z
-- Version updated: 2026-09-29T03:03:00Z
-- Abstract SHA-256: 5afea9414462386ee921b9ead9381c0204963c710c9f616a96f4bc47079f059e
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22UI+agent%22+OR+ti%3A%22desktop+agent%22+OR+ti%3A%22screen+grounding%22%29+AND+submittedDate%3A%5B200001010000+TO+202610180000%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-18T10:00:31.520084+00:00; SHA-256 f053c4c65f6443acbda26e25cf36f7b6e8ea45f2916535604229f7c4e62ed679)
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22UI+agent%22+OR+ti%3A%22desktop+agent%22+OR+ti%3A%22screen+grounding%22%29+AND+submittedDate%3A%5B200001010000+TO+202610180000%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-18T10:00:31.520084+00:00; SHA-256 f053c4c65f6443acbda26e25cf36f7b6e8ea45f2916535604229f7c4e62ed679)
-- https://arxiv.org/pdf/2610.06898v1 (retrieved 2026-10-18T10:10:35.098754+00:00; SHA-256 73f83c27e58e46086dbd5f32f108df2c5faa9ab2bd968d48062f39d94b2cc14b)

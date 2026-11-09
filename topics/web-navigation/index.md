@@ -82,6 +82,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Describes WebFovea, a vision-based live-web agent whose execution loop checks action parsing, browser effects, feedback accuracy, and observation delivery. The report analyzes failures such as coordinate mismatches and silent control interactions and documents corresponding harness changes.
 - [WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness](https://awesomecua.com/resources/arxiv-2610-02617/) — 2026-10-02
   Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
+- [AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents](https://awesomecua.com/resources/url-e86b3a1454b494224f07/) — 2026-10-01
+  AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.
 - [How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling](https://awesomecua.com/resources/arxiv-2610-02542/) — 2026-10-01
   Compares fine-tuned, retrieval-based and hybrid language-model world models for next-observation prediction and action selection in text environments including WebShop.
 - [Action Conditioned Bisimulation For GUI Agent Memory](https://awesomecua.com/resources/arxiv-2609-38778/) — 2026-09-30
@@ -128,6 +130,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Introduces SkillLens visual skill cards for retrieved GUI action guidance and CardDistill for training an action-prediction student that runs without retrieval on website tasks.
 - [CAP: A Scalable Benchmark for Evaluating Cross-Site Browser Agents with Complex Actions and Perception](https://awesomecua.com/resources/arxiv-2608-08392/) — 2026-08-09
   CAP builds cross-site browser workflows by decomposing websites into operation and perception requirements and recomposing them into tasks. Its judge-based evaluation diagnoses complex interactions and visual-perception failures across real websites.
+- [SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks](https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/) — 2026-08-08
+  SkillTracer maps web agent skills to inspectable plan graphs, uses interaction traces to locate failures, and refines reusable skills across long tasks and episodes.
 - [WebRider: Persona-Conditioned Intent Controllers for Live-Web Assistance](https://awesomecua.com/resources/arxiv-2608-06704/) — 2026-08-07
   Introduces WebRider, a live-web agent that maintains intent contracts while carrying out guarded browser actions, and RiderBench for auditing those contracts across websites.
 - [StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection](https://awesomecua.com/resources/arxiv-2608-06477/) — 2026-08-06
@@ -530,6 +534,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Surveys foundation-model web agents through their architectures, training methods and trustworthiness. It organizes research on completing browser tasks from user instructions and identifies directions for further development.
 - [WebNav: An Intelligent Agent for Voice-Controlled Web Navigation](https://awesomecua.com/resources/arxiv-2503-13843/) — 2025-03-18
   Introduces WebNav, a web navigation agent that turns natural-language commands into GUI actions using screenshot context, DOM labels, and separate LLMs for planning and action parameters.
+- [Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution](https://awesomecua.com/resources/url-2af250798e99e7af01ce/) — 2025-03-10
+  A web navigation framework uses user-specific task representations and interactive reasoning to adapt agent workflows to preferences, with task success and satisfaction as evaluation measures.
 - [BEARCUBS: A benchmark for computer-using web agents](https://awesomecua.com/resources/arxiv-2503-07919/) — 2025-03-10
   BEARCUBS provides 111 live-web information-seeking questions with short answers and human-validated browsing trajectories. Its tasks require multimodal computer interaction, including video understanding and navigation of interactive 3D content.
 - [LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications](https://awesomecua.com/resources/arxiv-2503-02950/) — 2025-03-04
@@ -548,10 +554,14 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   InSTA builds a pipeline that creates website tasks, collects web-agent trajectories and filters them by judged success to train smaller web navigation agents.
 - [CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://awesomecua.com/resources/arxiv-2501-16609/) — 2025-01-28
   Introduces CowPilot, a web-navigation framework where agents suggest actions and users can pause, reject, override, or resume them. It evaluates autonomous and collaborative use through task success and human effort.
+- [Operator System Card](https://awesomecua.com/resources/url-24bc39ed487b311108ae/) — 2025-01-23
+  The Operator system card describes a browser agent trained to act from screenshots and details evaluations, risk policies, user confirmations, and monitoring for web tasks.
 - [R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory](https://awesomecua.com/resources/arxiv-2501-12485/) — 2025-01-21
   R2D2 gives web agents a replay-buffer map of visited pages and a reflection step for analyzing errors and revising navigation strategies.
 - [WebWalker: Benchmarking LLMs in Web Traversal](https://awesomecua.com/resources/arxiv-2501-07572/) — 2025-01-13
   Introduces WebWalkerQA and an exploration-and-critique framework for gathering information by traversing multiple levels of a website.
+- [MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information](https://awesomecua.com/resources/url-3fdea133115518f9205a/) — 2025
+  MemAgent adds a cache for task-specific information to conversational web agents, separating information gathering from execution across 150 web tasks.
 - [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://awesomecua.com/resources/arxiv-2412-13194/) — 2024-12-17
   Combines autonomous task proposal, web interaction, and visual success evaluation to discover skills and improve browser-agent policies.
 - [WEPO: Web Element Preference Optimization for LLM-based Web Navigation](https://awesomecua.com/resources/arxiv-2412-10742/) — 2024-12-14
@@ -666,6 +676,8 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   SteP dynamically composes specialized web-action policies through a stack that records the active chain of policy calls. It studies this control structure across WebArena, MiniWoB++, and CRM workflows.
 - [LASER: LLM Agent with State-Space Exploration for Web Navigation](https://awesomecua.com/resources/arxiv-2309-08172/) — 2023-09-15
   LASER represents web navigation as exploration over a defined set of states, allowing an agent to revisit earlier states after mistakes. The study evaluates this backtracking approach on WebShop and Amazon tasks.
+- [GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver](https://awesomecua.com/resources/url-ffc05c4425f777924940/) — 2023-09-11
+  A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.
 - [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://awesomecua.com/resources/arxiv-2307-13854/) — 2023-07-25
   Introduces reproducible web environments with task-completion checks for evaluating autonomous web agents.
 - [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://awesomecua.com/resources/arxiv-2307-12856/) — 2023-07-24

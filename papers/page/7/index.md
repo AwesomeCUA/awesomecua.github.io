@@ -1,10 +1,270 @@
 # Computer-use research library, page 7 of 29
 
-> Reviewed computer-use papers and surveys 361 to 420 of 1,690, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
+> Reviewed computer-use papers and surveys 361 to 420 of 1,718, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
 
 HTML page: https://awesomecua.com/papers/page/7/ · [Previous page](https://awesomecua.com/papers/page/6/index.md) · [Next page](https://awesomecua.com/papers/page/8/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models
+
+Introduces OSReward and its harder and multidimensional variants for assessing judgments of computer-use trajectories. It also releases a reasoning-annotated judgment corpus and trains reward models, examining reliability, leniency bias, and evaluation cost.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28609/
+- Original source: https://arxiv.org/abs/2607.28609
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: reward-models, evaluation, data-generation
+- Evidence checked: 2026-10-16T06:36:32Z
+- ID: arxiv:2607.28609
+
+### Limitations
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28609/record.json
+
+### Authors
+
+Qiushi Sun, Kanzhi Cheng, Yian Wang, Bowen Yang, Hang Yan, Liheng Chen, Fangzhi Xu, Zichen Ding, Nuo Chen, Jialin Cao, Xingdong Gong, Zehao Li, Kaiming Jin, Xinfeng Yuan, Zhoumianze Liu, Jingyang Gong, Zhangyue Yin, Jiahui Gao, Zhiyong Wu, Tianbao Xie, Jianbing Zhang, Ben Kao, Lingpeng Kong
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28609/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28609/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2607.28609v2
+- First submission: 2026-07-30T17:57:41Z
+- Version updated: 2026-08-06T17:55:59Z
+- Abstract SHA-256: e3e82df7abffbd0c8f7e969ed8edb77423263a2b1d826a3e72529b0a51903d58
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+
+---
+
+## Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs
+
+Examines inference-time scaling for local computer-use models by varying context, step budgets, decomposition, and parallel execution. OSWorld experiments track both task performance and changing failure modes, exposing cases where extra computation extends errors or adds coordination overhead.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28573/
+- Original source: https://arxiv.org/abs/2607.28573
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: efficiency, evaluation, robustness
+- Evidence checked: 2026-10-16T06:36:32Z
+- ID: arxiv:2607.28573
+
+### Limitations
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28573/record.json
+
+### Authors
+
+Woongkyu Lee, Jungwook Choi
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28573/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28573/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.28573v1
+- First submission: 2026-07-30T17:36:36Z
+- Version updated: 2026-07-30T17:36:36Z
+- Abstract SHA-256: bacd1c5df5bf3163c83fae546ae4ced36996f33115568dfbc9e44b17fe507a31
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+
+---
+
+## Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees
+
+Introduces Adaptive Anticipatory Policy Trees, which precompute guarded actions and deadlines during idle periods so transient GUI events can be handled without new text generation. Paired experiments examine when this prepared execution helps and when reactive control remains preferable.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28399/
+- Original source: https://arxiv.org/abs/2607.28399
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: efficiency, planning, robustness
+- Evidence checked: 2026-10-16T06:36:32Z
+- ID: arxiv:2607.28399
+
+### Limitations
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28399/record.json
+
+### Authors
+
+Zihan Dong, Rui Qian, Qishi Zhan, Dongshen Peng, Kaixin Li, Yu Li
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28399/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28399/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.28399v1
+- First submission: 2026-07-30T15:50:10Z
+- Version updated: 2026-07-30T15:50:10Z
+- Abstract SHA-256: 463cf35eb57b3d38dda6ce768e6f08d93b1c16d6abba0d790760d846cd56fa2c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+
+---
+
+## How Benchmarks Mis-Score Computer-Use Agents
+
+Audits failure-scored computer-use trajectories to distinguish agent errors from broken tasks and evaluator false negatives. It organizes reliability issues across task construction, trajectory evidence, scoring, and reporting, then derives corresponding evaluation design practices.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28367/
+- Original source: https://arxiv.org/abs/2607.28367
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, observability, robustness
+- Evidence checked: 2026-10-16T06:36:32Z
+- ID: arxiv:2607.28367
+
+### Limitations
+
+The annotation and scope were reviewed against the primary paper abstract.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28367/record.json
+
+### Authors
+
+Zihan Dong, Zhiyuan Ma, Zekun Wang, Yunqing Li, Zirou Liu, Ruixuan Deng, Qishi Zhan, Rui Qian
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28367/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28367/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.28367v1
+- First submission: 2026-07-30T15:29:42Z
+- Version updated: 2026-07-30T15:29:42Z
+- Abstract SHA-256: d75f6c942d6854a259556b7ef1060fa0f142755162da329580c6177cd1adef15
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+
+---
+
+## MemHarness: Memory Is Reconstructed, Not Replayed
+
+Introduces MemHarness, which trains agents to critique and reconstruct retrieved experience before acting; WebShop is one of two evaluation environments.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2607-28272/
+- Original source: https://arxiv.org/abs/2607.28272
+- Kind: paper
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: memory, reinforcement-learning, self-reflection
+- Evidence checked: 2026-11-05T23:03:08Z
+- ID: arxiv:2607.28272
+
+### Limitations
+
+The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method is evaluated on ALFWorld and WebShop, so web operation is only one evaluation setting.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2607-28272/record.json
+
+### Authors
+
+Rong Wu, Daocheng Fu, Licheng Wen, Xuemeng Yang, Shu Zou, Jianbiao Mei, Yuxin Wang, Hairong Zhang, Yu Yang, Tao Hu, Cong Zhang, Botian Shi, Pinlong Cai
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2607-28272/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2607-28272/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.28272v1
+- First submission: 2026-07-30T14:25:49Z
+- Version updated: 2026-07-30T14:25:49Z
+- Abstract SHA-256: 6470315f4b51c0dcd2cde5e1ea46c5b4cc873f5d4ab7ea462c518c7aec5d0fd2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2607.03726%2C2607.05120%2C2607.05465%2C2607.05743%2C2607.06008%2C2607.06595%2C2607.07403%2C2607.07744%2C2607.08252%2C2607.08964%2C2607.10455%2C2607.10608%2C2607.12406%2C2607.12756%2C2607.13085%2C2607.13594%2C2607.13884%2C2607.13988%2C2607.15899%2C2607.16352%2C2607.16636%2C2607.16900%2C2607.17044%2C2607.20064%2C2607.20121%2C2607.21522%2C2607.22738%2C2607.23722%2C2607.24720%2C2607.26300%2C2607.26769%2C2607.27881%2C2607.28229%2C2607.28272%2C2607.28430%2C2608.00548%2C2608.02163%2C2608.03223%2C2608.03451%2C2608.03499%2C2608.05013%2C2608.05430%2C2608.06811%2C2608.07873%2C2608.09268%2C2608.10357%2C2608.10669%2C2608.11274%2C2608.11434%2C2608.15089&max_results=50 (retrieved 2026-10-17T12:31:32Z; SHA-256 5128028eea81e3ae80715cb038513012598c0c81a7cbfe8c0d4d6adb6c00e518)
+- https://export.arxiv.org/api/query?id_list=2607.06008%2C2607.06306%2C2607.06595%2C2607.07744%2C2607.07820%2C2607.08147%2C2607.08252%2C2607.08768%2C2607.08964%2C2607.10455%2C2607.10539%2C2607.11119%2C2607.12056%2C2607.12406%2C2607.12756%2C2607.13027%2C2607.13085%2C2607.13157%2C2607.13594%2C2607.13718%2C2607.13884%2C2607.13988%2C2607.14277%2C2607.15899%2C2607.16352%2C2607.16610%2C2607.16636%2C2607.16900%2C2607.17044%2C2607.17136%2C2607.17951%2C2607.19865%2C2607.20064%2C2607.20121%2C2607.20482%2C2607.21522%2C2607.21635%2C2607.21655%2C2607.22708%2C2607.22738%2C2607.23722%2C2607.24720%2C2607.25255%2C2607.26300%2C2607.26769%2C2607.27155%2C2607.28050%2C2607.28229%2C2607.28272%2C2607.28430&max_results=50 (retrieved 2026-11-05T23:03:08Z; SHA-256 f5cb74ee7fb32d9b32cee7b56cbdbf677efc8384fc55d53982a75090a5cf659e)
 
 ---
 
@@ -2453,6 +2713,68 @@ Zidong Zhang, Zhentao Xie, Wenrui Diao, Jianliang Wu
 
 ---
 
+## Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing
+
+Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.
+
+- Catalog URL: https://awesomecua.com/resources/url-39f88102e1659647b1a0/
+- Original source: https://doi.org/10.1145/3808134
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, screen-understanding, evaluation
+- Evidence checked: 2026-11-09T08:07:54Z
+- ID: url:39f88102e1659647b1a0
+
+### Limitations
+
+The benchmark contains 1,552 images from 100 industrial-setting Steam apps, with 4,470 interactable annotations across 766 semantic categories. The authors report higher F1 scores than comparison detectors and more element coverage and effective interactions in guided testing.
+
+- Record JSON: https://awesomecua.com/resources/url-39f88102e1659647b1a0/record.json
+
+### Authors
+
+Shuqing Li, Binchang Li, Yepang Liu, Cuiyun Gao, Jianping Zhang, Shing-Chi Cheung, Michael R. Lyu
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-39f88102e1659647b1a0/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-39f88102e1659647b1a0/citation.csl.json
+
+### Publication record
+
+- Title: Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing
+- Authors: Shuqing Li, Binchang Li, Yepang Liu, Cuiyun Gao, Jianping Zhang, Shing-Chi Cheung, Michael R. Lyu
+- Publication date (recorded precision): 2026-06-30
+- Publication source: https://doi.org/10.1145/3808134
+- Publication BibTeX: https://awesomecua.com/resources/url-39f88102e1659647b1a0/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-39f88102e1659647b1a0/publication-citation.csl.json
+- venue: Proceedings of the ACM on Software Engineering
+- publisher: Association for Computing Machinery (ACM)
+- volume: 3
+- issue: FSE
+- pages: 2858-2881
+- doi: 10.1145/3808134
+- date basis: Crossref issued date 2026-6-30; precision=day.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint; Crossref resolves the DOI to this title.
+- notes: Proceedings of the ACM on Software Engineering (FSE 2026) article.
+- Publication evidence: https://api.crossref.org/works/10.1145/3808134
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.1145/3808134 (retrieved 2026-11-09T08:06:02Z; SHA-256 ac929eee5ece773f0250f6ad76ff0f5923b0a469e24cfa646f6fd585e82151d3)
+- https://api.crossref.org/works/10.1145/3808134 (retrieved 2026-11-09T08:07:54Z; SHA-256 ac929eee5ece773f0250f6ad76ff0f5923b0a469e24cfa646f6fd585e82151d3)
+
+---
+
 ## DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching
 
 DigitalCoach records expert–novice software coaching conversations aligned with screen and input events. Automated and interactive evaluations examine how model coaches differ from humans in explanation, error diagnosis and visual grounding when helping a learner operate software.
@@ -2814,315 +3136,3 @@ Iliana Fayolle, Sihem Bouhenniche, Samuel Pélissier, Pierre Laperdrix, Clément
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-
----
-
-## One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding
-
-InnerZoom preserves target-region cues from intermediate decoder layers and reinjects a compact evidence state during coordinate decoding. Its single-forward GUI grounder is compared with crop-and-rerun zooming and matched supervised/RL baselines for accuracy and inference cost.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2606-30084/
-- Original source: https://arxiv.org/abs/2606.30084
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: unspecified
-- Topics: grounding, efficiency, screen-understanding, evaluation
-- Evidence checked: 2026-10-16T06:36:36Z
-- ID: arxiv:2606.30084
-
-### Limitations
-
-The annotation and scope were reviewed against the complete retained original arXiv abstract.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2606-30084/record.json
-
-### Authors
-
-Chen Liu, Ling Chen, Hanzhang Zhou, Liangyu Chen, Chenglin Cai, Xin Yu, Steven Hoi, Yue Wang
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2606-30084/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2606-30084/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2606.30084v1
-- First submission: 2026-06-29T10:20:39Z
-- Version updated: 2026-06-29T10:20:39Z
-- Abstract SHA-256: 50e44e08750d4152f9b5408885f8a6a016c5f789af9712e447ee147fb25adb8d
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-
----
-
-## SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows
-
-Introduces SpreadsheetBench 2, a benchmark of multi-sheet business spreadsheet workflows for agents, covering generation, debugging, and visualization tasks.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2606-29955/
-- Original source: https://arxiv.org/abs/2606.29955
-- Kind: paper
-- Review: curated
-- Scope: adjacent
-- Environments: unspecified
-- Topics: evaluation, workflow, industry
-- Evidence checked: 2026-11-05T23:03:05Z
-- ID: arxiv:2606.29955
-
-### Limitations
-
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2606-29955/record.json
-
-### Authors
-
-Jian Zhu, Yuzheng Zhang, Zeyao Ma, Bohan Zhang, Armin Schoepf, Daniel Woloch, Peter Yiliu Wang, Guangyu Robert Yang, Samuel Jacob, Siddharth Nagisetty, Abhiram Chundru, Jean Lin, Spencer Mateega, Jing Zhang
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2606-29955/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2606-29955/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2606.29955v1
-- First submission: 2026-06-29T08:33:52Z
-- Version updated: 2026-06-29T08:33:52Z
-- Abstract SHA-256: 8b5691e4b07d0d9f49bdc3c3f5282d05b7a278f4aebe2dc341586ae275f5847c
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?id_list=2606.05646%2C2606.05670%2C2606.06556%2C2606.06891%2C2606.07367%2C2606.07594%2C2606.07682%2C2606.07723%2C2606.07867%2C2606.10394%2C2606.10525%2C2606.11290%2C2606.12203%2C2606.12736%2C2606.13040%2C2606.13368%2C2606.13578%2C2606.13669%2C2606.13802%2C2606.13898%2C2606.14397%2C2606.15057%2C2606.15300%2C2606.15441%2C2606.17162%2C2606.18425%2C2606.19336%2C2606.19409%2C2606.19704%2C2606.20950%2C2606.21033%2C2606.21565%2C2606.23521%2C2606.23654%2C2606.24775%2C2606.25084%2C2606.26080%2C2606.27406%2C2606.27634%2C2606.28430%2C2606.28480%2C2606.29955%2C2606.30616%2C2607.00692%2C2607.01084%2C2607.02032%2C2607.02448%2C2607.02490%2C2607.02577%2C2607.02911&max_results=50 (retrieved 2026-10-17T12:31:28Z; SHA-256 7eaa9a5430d3a45049e612a117da345c1daafc54277a35a7cf56b42fbb1e8618)
-- https://export.arxiv.org/api/query?id_list=2606.15673%2C2606.15874%2C2606.16295%2C2606.17162%2C2606.17645%2C2606.17861%2C2606.18425%2C2606.19336%2C2606.19409%2C2606.19704%2C2606.20487%2C2606.20636%2C2606.20724%2C2606.20950%2C2606.21033%2C2606.21565%2C2606.22673%2C2606.22864%2C2606.23449%2C2606.23521%2C2606.23654%2C2606.24597%2C2606.24775%2C2606.25084%2C2606.26080%2C2606.27406%2C2606.27595%2C2606.27634%2C2606.28430%2C2606.29193%2C2606.29445%2C2606.29955%2C2606.30296%2C2606.30616%2C2606.31154%2C2606.31612%2C2607.00007%2C2607.00502%2C2607.00692%2C2607.01084%2C2607.01647%2C2607.02032%2C2607.02448%2C2607.02490%2C2607.02577%2C2607.02911%2C2607.03726%2C2607.05465%2C2607.05743%2C2607.05804&max_results=50 (retrieved 2026-11-05T23:03:05Z; SHA-256 3d44d185c972bf0d9fe3e9eef40e8ce3070b4c0c6d4fa554e928d4186b488306)
-
----
-
-## GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots
-
-GUICrafter first learns grounding from large collections of unannotated screenshots and webpages, then uses a smaller high-quality dataset for reinforcement-learning calibration. The curriculum targets reduced dependence on manually annotated GUI training data.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2606-29705/
-- Original source: https://arxiv.org/abs/2606.29705
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: unspecified
-- Topics: grounding, data-generation, reinforcement-learning, screen-understanding
-- Evidence checked: 2026-10-16T06:36:36Z
-- ID: arxiv:2606.29705
-
-### Limitations
-
-The annotation was reviewed against the complete retained official abstract.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2606-29705/record.json
-
-### Authors
-
-Sunqi Fan, Lingshan Chen, Runqi Yin, Qingle Liu, Yongming Rao, Meng-Hao Guo, Shi-Min Hu
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2606-29705/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2606-29705/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2606.29705v1
-- First submission: 2026-06-29T02:16:21Z
-- Version updated: 2026-06-29T02:16:21Z
-- Abstract SHA-256: 7beb70ac91463b77a8babaf2b077c46c5072e8f86d22f4d9afc9c1e77680f309
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-
----
-
-## OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks
-
-Introduces extended computer-use workflows with realistic artifacts, changing information, hidden state, and partial-progress and safety assessments.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2606-29537/
-- Original source: https://arxiv.org/abs/2606.29537
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: desktop
-- Topics: evaluation, long-horizon, workflow
-- Evidence checked: 2026-10-16T06:36:36Z
-- ID: arxiv:2606.29537
-
-### Limitations
-
-The annotation and scope were reviewed against the primary paper abstract.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2606-29537/record.json
-
-### Authors
-
-Mengqi Yuan, Zilong Zhou, Xinzhuang Xiong, Weiming Wu, Jiayang Sun, Jiamin Song, Kaiqian Cui, Bowen Wang, Haoyuan Wu, Yitong Li, Dunjie Lu, Haikong Lu, Qi Zhen, Xinyuan Wang, Jiaqi Deng, Yuhao Yang, Cheng Chen, Boyuan Zheng, Alex Su, Xiao Yu, Hao Zou, Saaket Agashe, Xing Han Lu, Manpreet Kaur, Zhengyang Qi, Vincent Sunn Chen, Frederic Sala, Dayiheng Liu, Junyang Lin, Zhou Yu, Yu Su, Siva Reddy, Xin Eric Wang, Peng Qi, Tianbao Xie, Tao Yu
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2606-29537/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2606-29537/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 2
-- Version source: https://arxiv.org/abs/2606.29537v2
-- First submission: 2026-06-28T17:59:17Z
-- Version updated: 2026-07-13T10:30:17Z
-- Abstract SHA-256: 03035fcbc6cd3e6bf40f244870fb35694ba985ff7f809da66e2a376cbf99d66b
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-
----
-
-## Agent-Computer Observation Interfaces Enable Dynamic Computer Use
-
-The Agent-Computer Observation Interface separates continuous perception from discrete computer actions using captured frames, audio transcription and persistent visual narration. DynaCU-Bench tests these components on dynamic browser tasks and static controls, with model-specific ablations showing that additional observations can also hurt.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2606-29472/
-- Original source: https://arxiv.org/abs/2606.29472
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: web
-- Topics: evaluation, video, screen-understanding, memory, training-free
-- Evidence checked: 2026-10-16T06:36:36Z
-- ID: arxiv:2606.29472
-
-### Limitations
-
-The annotation and scope were reviewed against the primary paper abstract.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2606-29472/record.json
-
-### Authors
-
-Bojie Li, Noah Shi
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2606-29472/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2606-29472/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2606.29472v1
-- First submission: 2026-06-28T15:59:31Z
-- Version updated: 2026-06-28T15:59:31Z
-- Abstract SHA-256: 54de4e93f4f3e39d904b4661a193765e02c29f8ec7787264aee5616579c32210
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-
----
-
-## Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction
-
-Introduces VG-GUIBench to evaluate GUI agents following video tutorials, and TASKER to select task-relevant keyframes for video-guided tasks and VideoQA.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2606-29445/
-- Original source: https://arxiv.org/abs/2606.29445
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: unspecified
-- Topics: evaluation, video, long-horizon
-- Evidence checked: 2026-11-05T23:03:05Z
-- ID: arxiv:2606.29445
-
-### Limitations
-
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2606-29445/record.json
-
-### Authors
-
-Sunqi Fan, Qingle Liu, Runqi Yin, Meng-Hao Guo, Shuojin Yang
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2606-29445/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2606-29445/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2606.29445v1
-- First submission: 2026-06-28T15:11:19Z
-- Version updated: 2026-06-28T15:11:19Z
-- Abstract SHA-256: 21fd84f29b0f5892d79714794b92b9534adb5eb459e32638163b6d062fe6f047
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?id_list=2606.10423%2C2606.10522%2C2606.10742%2C2606.11078%2C2606.11520%2C2606.12485%2C2606.12666%2C2606.13239%2C2606.13385%2C2606.14106%2C2606.14832%2C2606.15017%2C2606.15034%2C2606.16659%2C2606.16748%2C2606.16802%2C2606.17321%2C2606.17645%2C2606.17929%2C2606.18448%2C2606.18671%2C2606.18890%2C2606.19388%2C2606.19926%2C2606.19930%2C2606.20363%2C2606.20636%2C2606.20717%2C2606.20724%2C2606.20785%2C2606.21654%2C2606.22864%2C2606.22948%2C2606.23449%2C2606.24515%2C2606.24525%2C2606.25705%2C2606.25760%2C2606.27330%2C2606.27595%2C2606.29445%2C2606.29537%2C2606.29705%2C2606.30697%2C2606.31154%2C2606.31270%2C2606.31410%2C2606.31612%2C2607.00502%2C2607.04425&max_results=50 (retrieved 2026-10-16T06:33:05Z; SHA-256 2e5722527f8da4b2cf06372d1e2daccd33ef7fdc7151704b411a0bddd734beae)
-- https://export.arxiv.org/api/query?id_list=2606.15673%2C2606.15874%2C2606.16295%2C2606.17162%2C2606.17645%2C2606.17861%2C2606.18425%2C2606.19336%2C2606.19409%2C2606.19704%2C2606.20487%2C2606.20636%2C2606.20724%2C2606.20950%2C2606.21033%2C2606.21565%2C2606.22673%2C2606.22864%2C2606.23449%2C2606.23521%2C2606.23654%2C2606.24597%2C2606.24775%2C2606.25084%2C2606.26080%2C2606.27406%2C2606.27595%2C2606.27634%2C2606.28430%2C2606.29193%2C2606.29445%2C2606.29955%2C2606.30296%2C2606.30616%2C2606.31154%2C2606.31612%2C2607.00007%2C2607.00502%2C2607.00692%2C2607.01084%2C2607.01647%2C2607.02032%2C2607.02448%2C2607.02490%2C2607.02577%2C2607.02911%2C2607.03726%2C2607.05465%2C2607.05743%2C2607.05804&max_results=50 (retrieved 2026-11-05T23:03:05Z; SHA-256 3d44d185c972bf0d9fe3e9eef40e8ce3070b4c0c6d4fa554e928d4186b488306)

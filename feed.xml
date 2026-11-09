@@ -3,7 +3,7 @@
   <title>AwesomeCUA: newly reviewed resources</title>
   <subtitle>Computer-use agent papers, models, datasets, benchmarks and tools as they pass source review, newest review first. Metadata-only bibliography records and unreviewed candidates are not included.</subtitle>
   <id>https://awesomecua.com/feed.xml</id>
-  <updated>2026-11-09T06:16:40Z</updated>
+  <updated>2026-11-09T08:07:59Z</updated>
   <link href="https://awesomecua.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://awesomecua.com/" rel="alternate" type="text/html" />
   <link href="https://awesomecua.com/feed.json" rel="alternate" type="application/feed+json" />
@@ -12,6 +12,314 @@
     <uri>https://awesomecua.com/</uri>
   </author>
   <rights>Catalog annotations: MIT. Linked resources keep their own terms.</rights>
+  <entry>
+    <title>30 Years of Automated GUI Testing: A Bibliometric Analysis</title>
+    <id>https://awesomecua.com/resources/url-24a139a7910431441e39/</id>
+    <link href="https://awesomecua.com/resources/url-24a139a7910431441e39/" rel="alternate" type="text/html" />
+    <link href="https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34" rel="related" />
+    <link href="https://awesomecua.com/resources/url-24a139a7910431441e39/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="survey" label="Surveys" />
+    <summary>A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.</summary>
+  </entry>
+  <entry>
+    <title>AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents</title>
+    <id>https://awesomecua.com/resources/url-e86b3a1454b494224f07/</id>
+    <link href="https://awesomecua.com/resources/url-e86b3a1454b494224f07/" rel="alternate" type="text/html" />
+    <link href="https://doi.org/10.1145/3832165" rel="related" />
+    <link href="https://awesomecua.com/resources/url-e86b3a1454b494224f07/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.</summary>
+  </entry>
+  <entry>
+    <title>An Efficient Training Pipeline for Reasoning Graphical User Interface Agents</title>
+    <id>https://awesomecua.com/resources/arxiv-2511-08172/</id>
+    <link href="https://awesomecua.com/resources/arxiv-2511-08172/" rel="alternate" type="text/html" />
+    <link href="https://arxiv.org/abs/2511.08172" rel="related" />
+    <link href="https://awesomecua.com/resources/arxiv-2511-08172/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>A GUI grounding pipeline filters 4.8M synthetic examples to 12K training instances and adapts a 3B vision-language model, evaluated on ScreenSpot, Multimodal-Mind2Web, and AndroidControl.</summary>
+  </entry>
+  <entry>
+    <title>AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation</title>
+    <id>https://awesomecua.com/resources/url-377f5418e39ff2da971f/</id>
+    <link href="https://awesomecua.com/resources/url-377f5418e39ff2da971f/" rel="alternate" type="text/html" />
+    <link href="https://dl.acm.org/doi/abs/10.1145/3664647.3684998" rel="related" />
+    <link href="https://awesomecua.com/resources/url-377f5418e39ff2da971f/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>AssistEditor coordinates GUI agents to turn video requirements and uploaded materials into storyboards and editing actions in professional desktop software.</summary>
+  </entry>
+  <entry>
+    <title>Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models</title>
+    <id>https://awesomecua.com/resources/arxiv-2505-17839/</id>
+    <link href="https://awesomecua.com/resources/arxiv-2505-17839/" rel="alternate" type="text/html" />
+    <link href="https://arxiv.org/abs/2505.17839" rel="related" />
+    <link href="https://awesomecua.com/resources/arxiv-2505-17839/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>GERALLT uses LLMs to explore the GUI of engineering software and produce a list of confusing or inconsistent interface areas for developers to inspect.</summary>
+  </entry>
+  <entry>
+    <title>Automating GUI-based Software Testing with GPT-3</title>
+    <id>https://awesomecua.com/resources/url-412c168dd5d0aeded46a/</id>
+    <link href="https://awesomecua.com/resources/url-412c168dd5d0aeded46a/" rel="alternate" type="text/html" />
+    <link href="https://ieeexplore.ieee.org/abstract/document/10132233" rel="related" />
+    <link href="https://awesomecua.com/resources/url-412c168dd5d0aeded46a/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>A GPT-3-based GUI testing method interprets natural-language test cases, tracks current interface elements in prompts, and navigates desktop and mobile applications.</summary>
+  </entry>
+  <entry>
+    <title>Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing</title>
+    <id>https://awesomecua.com/resources/arxiv-2311-08649/</id>
+    <link href="https://awesomecua.com/resources/arxiv-2311-08649/" rel="alternate" type="text/html" />
+    <link href="https://arxiv.org/abs/2311.08649" rel="related" />
+    <link href="https://awesomecua.com/resources/arxiv-2311-08649/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>DroidAgent uses language models and memory to set and execute GUI test goals in Android apps; an evaluation covers 15 apps from the Themis benchmark.</summary>
+  </entry>
+  <entry>
+    <title>Do GUI Grounders Truly Understand UI Elements?</title>
+    <id>https://awesomecua.com/resources/url-16f4a8903de0f90d3638/</id>
+    <link href="https://awesomecua.com/resources/url-16f4a8903de0f90d3638/" rel="alternate" type="text/html" />
+    <link href="https://aclanthology.org/2026.findings-eacl.144" rel="related" />
+    <link href="https://awesomecua.com/resources/url-16f4a8903de0f90d3638/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>A desktop GUI grounding benchmark tests whether models identify the same element across varied descriptions; a diagnosis agent generates difficult instructions using model feedback.</summary>
+  </entry>
+  <entry>
+    <title>FDC-Ground: Improving GRPO for GUI Grounding via Exponential Rewards and Fact-Aligned Pruning</title>
+    <id>https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/</id>
+    <link href="https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/" rel="alternate" type="text/html" />
+    <link href="https://ojs.aaai.org/index.php/AAAI/article/view/40038" rel="related" />
+    <link href="https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>FDC-Ground trains GUI element location models with a distance-based reward and completion pruning; a 7B model is evaluated on ScreenSpot and ScreenSpot-v2.</summary>
+  </entry>
+  <entry>
+    <title>Focus Like a Human: Efficient GUI Grounding via Coarse-to-Fine Visual Attention and Parallel Verification</title>
+    <id>https://awesomecua.com/resources/url-85cad9e7962668786093/</id>
+    <link href="https://awesomecua.com/resources/url-85cad9e7962668786093/" rel="alternate" type="text/html" />
+    <link href="https://doi.org/10.24963/ijcai.2026/49" rel="related" />
+    <link href="https://awesomecua.com/resources/url-85cad9e7962668786093/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>FastFocus grounds GUI targets by proposing regions from low-resolution views and checking candidates with parallel high-resolution zooms; it is evaluated on ScreenSpot-Pro.</summary>
+  </entry>
+  <entry>
+    <title>From Robotic Process Automation to Intelligent Process Automation: Emerging Trends</title>
+    <id>https://awesomecua.com/resources/arxiv-2007-13257/</id>
+    <link href="https://awesomecua.com/resources/arxiv-2007-13257/" rel="alternate" type="text/html" />
+    <link href="https://arxiv.org/abs/2007.13257" rel="related" />
+    <link href="https://awesomecua.com/resources/arxiv-2007-13257/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="survey" label="Surveys" />
+    <summary>A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.</summary>
+  </entry>
+  <entry>
+    <title>Guardian: A Runtime Framework for LLM-Based UI Exploration</title>
+    <id>https://awesomecua.com/resources/url-7424d66754ec26d68d83/</id>
+    <link href="https://awesomecua.com/resources/url-7424d66754ec26d68d83/" rel="alternate" type="text/html" />
+    <link href="https://dl.acm.org/doi/abs/10.1145/3650212.3680334" rel="related" />
+    <link href="https://awesomecua.com/resources/url-7424d66754ec26d68d83/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>Guardian guides LLM-driven mobile app testing by narrowing available UI actions and replanning after invalidated actions; it is evaluated on 58 tasks from 23 apps.</summary>
+  </entry>
+  <entry>
+    <title>GUI Grounding for Computer-Use Agents: A Survey</title>
+    <id>https://awesomecua.com/resources/url-0579bd92efb87b26cb15/</id>
+    <link href="https://awesomecua.com/resources/url-0579bd92efb87b26cb15/" rel="alternate" type="text/html" />
+    <link href="https://doi.org/10.20944/preprints202611.0431.v1" rel="related" />
+    <link href="https://awesomecua.com/resources/url-0579bd92efb87b26cb15/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="survey" label="Surveys" />
+    <summary>A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.</summary>
+  </entry>
+  <entry>
+    <title>GUI testing for mobile applications: objectives, approaches and challenges</title>
+    <id>https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/</id>
+    <link href="https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/" rel="alternate" type="text/html" />
+    <link href="https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf" rel="related" />
+    <link href="https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="survey" label="Surveys" />
+    <summary>A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.</summary>
+  </entry>
+  <entry>
+    <title>GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver</title>
+    <id>https://awesomecua.com/resources/url-ffc05c4425f777924940/</id>
+    <link href="https://awesomecua.com/resources/url-ffc05c4425f777924940/" rel="alternate" type="text/html" />
+    <link href="https://ieeexplore.ieee.org/abstract/document/10298721" rel="related" />
+    <link href="https://awesomecua.com/resources/url-ffc05c4425f777924940/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>A web GUI testing method combines GPT-4 with Selenium WebDriver and compares its branch coverage with random monkey testing on a web calculator.</summary>
+  </entry>
+  <entry>
+    <title>INREACT: An Inspire-Then-Reinforce Training Framework For Multimodal GUI Agent</title>
+    <id>https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/</id>
+    <link href="https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/" rel="alternate" type="text/html" />
+    <link href="https://aclanthology.org/2025.findings-emnlp.486" rel="related" />
+    <link href="https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>InReAct trains a multimodal GUI agent with staged curriculum learning and outcome-based reinforcement learning for pixel-level grounding and navigation.</summary>
+  </entry>
+  <entry>
+    <title>LLM Agents: A Survey</title>
+    <id>https://awesomecua.com/resources/url-f58895265a31c37d12b4/</id>
+    <link href="https://awesomecua.com/resources/url-f58895265a31c37d12b4/" rel="alternate" type="text/html" />
+    <link href="https://www.preprints.org/manuscript/202608.0265/v1" rel="related" />
+    <link href="https://awesomecua.com/resources/url-f58895265a31c37d12b4/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="survey" label="Surveys" />
+    <summary>A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.</summary>
+  </entry>
+  <entry>
+    <title>Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing</title>
+    <id>https://awesomecua.com/resources/url-39f88102e1659647b1a0/</id>
+    <link href="https://awesomecua.com/resources/url-39f88102e1659647b1a0/" rel="alternate" type="text/html" />
+    <link href="https://doi.org/10.1145/3808134" rel="related" />
+    <link href="https://awesomecua.com/resources/url-39f88102e1659647b1a0/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.</summary>
+  </entry>
+  <entry>
+    <title>Look Where You’re Told: Instruction-Consistent Attention for GUI Grounding</title>
+    <id>https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/</id>
+    <link href="https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/" rel="alternate" type="text/html" />
+    <link href="https://aclanthology.org/2026.alvr-main.12" rel="related" />
+    <link href="https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>Attention Cycle-Consistency trains GUI element grounding with semantic and spatial alignment constraints, while removing its auxiliary components at inference.</summary>
+  </entry>
+  <entry>
+    <title>MemAgent: A cache-inspired framework for augmenting conversational Web Agents with task-specific information</title>
+    <id>https://awesomecua.com/resources/url-3fdea133115518f9205a/</id>
+    <link href="https://awesomecua.com/resources/url-3fdea133115518f9205a/" rel="alternate" type="text/html" />
+    <link href="https://ceur-ws.org/Vol-4028/paper8.pdf" rel="related" />
+    <link href="https://awesomecua.com/resources/url-3fdea133115518f9205a/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>MemAgent adds a cache for task-specific information to conversational web agents, separating information gathering from execution across 150 web tasks.</summary>
+  </entry>
+  <entry>
+    <title>Operator System Card</title>
+    <id>https://awesomecua.com/resources/url-24bc39ed487b311108ae/</id>
+    <link href="https://awesomecua.com/resources/url-24bc39ed487b311108ae/" rel="alternate" type="text/html" />
+    <link href="https://openai.com/index/operator-system-card" rel="related" />
+    <link href="https://awesomecua.com/resources/url-24bc39ed487b311108ae/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>The Operator system card describes a browser agent trained to act from screenshots and details evaluations, risk policies, user confirmations, and monitoring for web tasks.</summary>
+  </entry>
+  <entry>
+    <title>Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review</title>
+    <id>https://awesomecua.com/resources/url-b230a6700386b7e2744c/</id>
+    <link href="https://awesomecua.com/resources/url-b230a6700386b7e2744c/" rel="alternate" type="text/html" />
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877050921001393" rel="related" />
+    <link href="https://awesomecua.com/resources/url-b230a6700386b7e2744c/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="survey" label="Surveys" />
+    <summary>A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.</summary>
+  </entry>
+  <entry>
+    <title>Robotic Process Automation: Contemporary themes and challenges</title>
+    <id>https://awesomecua.com/resources/url-2574c6eeee264762a990/</id>
+    <link href="https://awesomecua.com/resources/url-2574c6eeee264762a990/" rel="alternate" type="text/html" />
+    <link href="https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609" rel="related" />
+    <link href="https://awesomecua.com/resources/url-2574c6eeee264762a990/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="survey" label="Surveys" />
+    <summary>A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.</summary>
+  </entry>
+  <entry>
+    <title>SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks</title>
+    <id>https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/</id>
+    <link href="https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/" rel="alternate" type="text/html" />
+    <link href="https://doi.org/10.1145/3770855.3817981" rel="related" />
+    <link href="https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>SkillTracer maps web agent skills to inspectable plan graphs, uses interaction traces to locate failures, and refines reusable skills across long tasks and episodes.</summary>
+  </entry>
+  <entry>
+    <title>Task Automation Intelligent Agents: A Review</title>
+    <id>https://awesomecua.com/resources/url-eb791c465f47690ade31/</id>
+    <link href="https://awesomecua.com/resources/url-eb791c465f47690ade31/" rel="alternate" type="text/html" />
+    <link href="https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review" rel="related" />
+    <link href="https://awesomecua.com/resources/url-eb791c465f47690ade31/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="survey" label="Surveys" />
+    <summary>A literature review examines mobile phone task automation agents, including programming by demonstration and usability heuristics for recurring user tasks.</summary>
+  </entry>
+  <entry>
+    <title>Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model</title>
+    <id>https://awesomecua.com/resources/url-83569d30f341f39f4a78/</id>
+    <link href="https://awesomecua.com/resources/url-83569d30f341f39f4a78/" rel="alternate" type="text/html" />
+    <link href="https://ieeexplore.ieee.org/abstract/document/10778901" rel="related" />
+    <link href="https://awesomecua.com/resources/url-83569d30f341f39f4a78/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>Test-Agent uses an LLM, screenshots, and interface structure to generate and execute mobile app test actions from natural-language instructions across platforms.</summary>
+  </entry>
+  <entry>
+    <title>Towards Ethical and Personalized Web Navigation Agents: A Framework for User-Aligned Task Execution</title>
+    <id>https://awesomecua.com/resources/url-2af250798e99e7af01ce/</id>
+    <link href="https://awesomecua.com/resources/url-2af250798e99e7af01ce/" rel="alternate" type="text/html" />
+    <link href="https://dl.acm.org/doi/abs/10.1145/3701551.3707420" rel="related" />
+    <link href="https://awesomecua.com/resources/url-2af250798e99e7af01ce/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>A web navigation framework uses user-specific task representations and interactive reasoning to adapt agent workflows to preferences, with task success and satisfaction as evaluation measures.</summary>
+  </entry>
+  <entry>
+    <title>Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding</title>
+    <id>https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/</id>
+    <link href="https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/" rel="alternate" type="text/html" />
+    <link href="https://aclanthology.org/2026.realm-1.100" rel="related" />
+    <link href="https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/index.md" rel="alternate" type="text/markdown" />
+    <published>2026-11-09T08:07:59Z</published>
+    <updated>2026-11-09T08:07:59Z</updated>
+    <category term="paper" label="Research papers" />
+    <summary>Trace2Ground builds a web GUI grounding dataset from HTML/DOM elements and simulated traces, testing scenario, duplicate-label, and relational instructions.</summary>
+  </entry>
   <entry>
     <title>WildClawBench</title>
     <id>https://awesomecua.com/resources/github-internlm-wildclawbench/</id>
@@ -803,313 +1111,5 @@
     <updated>2026-11-09T06:16:36Z</updated>
     <category term="agent" label="Agents" />
     <summary>Avenir-UX runs web tasks and scores interface usability after agent actions. It combines step assessments with persona settings and produces session reports.</summary>
-  </entry>
-  <entry>
-    <title>GUI-Shift</title>
-    <id>https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/</id>
-    <link href="https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/" rel="alternate" type="text/html" />
-    <link href="https://github.com/UbiquitousLearning/GUI-Shift" rel="related" />
-    <link href="https://awesomecua.com/resources/github-ubiquitouslearning-gui-shift/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:43:14Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="framework" label="Frameworks" />
-    <summary>GUI-Shift is a training framework that uses pairs of GUI screenshots to teach vision-language models to predict the action behind an interface transition.</summary>
-  </entry>
-  <entry>
-    <title>Midscene Python</title>
-    <id>https://awesomecua.com/resources/github-python51888-midscene-python/</id>
-    <link href="https://awesomecua.com/resources/github-python51888-midscene-python/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Python51888/Midscene-Python" rel="related" />
-    <link href="https://awesomecua.com/resources/github-python51888-midscene-python/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:43:14Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="framework" label="Frameworks" />
-    <summary>Midscene Python is a framework for natural-language automation of websites and Android devices, with model-assisted actions, element location, extraction and assertions.</summary>
-  </entry>
-  <entry>
-    <title>noVNC</title>
-    <id>https://awesomecua.com/resources/github-novnc-novnc/</id>
-    <link href="https://awesomecua.com/resources/github-novnc-novnc/" rel="alternate" type="text/html" />
-    <link href="https://github.com/novnc/noVNC" rel="related" />
-    <link href="https://awesomecua.com/resources/github-novnc-novnc/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:43:14Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>noVNC is a browser-based VNC client and JavaScript library for viewing and controlling remote desktops through mouse, keyboard, clipboard and touch input.</summary>
-  </entry>
-  <entry>
-    <title>ScreenAgent Web Client</title>
-    <id>https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/</id>
-    <link href="https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/" rel="alternate" type="text/html" />
-    <link href="https://github.com/niuzaisheng/ScreenAgentWebClient" rel="related" />
-    <link href="https://awesomecua.com/resources/github-niuzaisheng-screenagentwebclient/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:43:14Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>ScreenAgent Web Client connects language models to remote desktops through a browser and VNC, representing mouse and keyboard actions as structured calls.</summary>
-  </entry>
-  <entry>
-    <title>vePhone</title>
-    <id>https://awesomecua.com/resources/github-volcengine-vephone/</id>
-    <link href="https://awesomecua.com/resources/github-volcengine-vephone/" rel="alternate" type="text/html" />
-    <link href="https://github.com/volcengine/vePhone" rel="related" />
-    <link href="https://awesomecua.com/resources/github-volcengine-vephone/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:43:14Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="infrastructure" label="Infrastructure" />
-    <summary>vePhone supplies remotely controlled cloud phones and example integrations for mobile and computer-use agents, including task execution and result retrieval.</summary>
-  </entry>
-  <entry>
-    <title>AgentEnv</title>
-    <id>https://awesomecua.com/resources/github-llamatouch-agentenv/</id>
-    <link href="https://awesomecua.com/resources/github-llamatouch-agentenv/" rel="alternate" type="text/html" />
-    <link href="https://github.com/LlamaTouch/AgentEnv" rel="related" />
-    <link href="https://awesomecua.com/resources/github-llamatouch-agentenv/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:42:43Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="infrastructure" label="Infrastructure" />
-    <summary>AgentEnv connects agent models to Android devices or emulators, translating actions and returning screenshots and view hierarchies while recording interactions.</summary>
-  </entry>
-  <entry>
-    <title>Midscene PC Docker</title>
-    <id>https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/</id>
-    <link href="https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Mofangbao/midscene-pc-docker" rel="related" />
-    <link href="https://awesomecua.com/resources/github-mofangbao-midscene-pc-docker/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:42:43Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="infrastructure" label="Infrastructure" />
-    <summary>Midscene PC Docker packages an Ubuntu GNOME desktop with Chrome and a Midscene PC automation service, exposing the graphical environment through VNC.</summary>
-  </entry>
-  <entry>
-    <title>Puppeteer</title>
-    <id>https://awesomecua.com/resources/github-puppeteer-puppeteer/</id>
-    <link href="https://awesomecua.com/resources/github-puppeteer-puppeteer/" rel="alternate" type="text/html" />
-    <link href="https://github.com/puppeteer/puppeteer" rel="related" />
-    <link href="https://awesomecua.com/resources/github-puppeteer-puppeteer/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:42:43Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>Puppeteer is a JavaScript browser-control library for Chrome and Firefox. Its API supports scripted page navigation and interaction.</summary>
-  </entry>
-  <entry>
-    <title>WMA Web Agent</title>
-    <id>https://awesomecua.com/resources/github-kyle8581-wma-agents/</id>
-    <link href="https://awesomecua.com/resources/github-kyle8581-wma-agents/" rel="alternate" type="text/html" />
-    <link href="https://github.com/kyle8581/WMA-Agents" rel="related" />
-    <link href="https://awesomecua.com/resources/github-kyle8581-wma-agents/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:42:42Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>A web agent uses a learned world model to predict consequential page changes before choosing an action. The repository includes trajectory processing and inference code.</summary>
-  </entry>
-  <entry>
-    <title>CollabUIAgents</title>
-    <id>https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/</id>
-    <link href="https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/" rel="alternate" type="text/html" />
-    <link href="https://github.com/THUNLP-MT/CollabUIAgents" rel="related" />
-    <link href="https://awesomecua.com/resources/github-thunlp-mt-collabuiagents/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:56Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="framework" label="Frameworks" />
-    <summary>CollabUIAgents trains UI agents with synthesized interaction data and process rewards assigned by collaborating agents. The repository releases data collection and inference code.</summary>
-  </entry>
-  <entry>
-    <title>CrashTranslator</title>
-    <id>https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/</id>
-    <link href="https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/" rel="alternate" type="text/html" />
-    <link href="https://github.com/wuchiuwong/CrashTranslator" rel="related" />
-    <link href="https://awesomecua.com/resources/github-wuchiuwong-crashtranslator/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:56Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>CrashTranslator generates Android app interactions to reproduce crashes from stack traces. The repository provides code, data and setup instructions for emulator-based runs.</summary>
-  </entry>
-  <entry>
-    <title>Midscene Examples</title>
-    <id>https://awesomecua.com/resources/github-web-infra-dev-midscene-example/</id>
-    <link href="https://awesomecua.com/resources/github-web-infra-dev-midscene-example/" rel="alternate" type="text/html" />
-    <link href="https://github.com/web-infra-dev/midscene-example" rel="related" />
-    <link href="https://awesomecua.com/resources/github-web-infra-dev-midscene-example/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:56Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="learning" label="Learning resources" />
-    <summary>Midscene Examples provides runnable AI automation and testing cases for web, Android, iOS and desktop interfaces, including YAML workflows and SDK integrations.</summary>
-  </entry>
-  <entry>
-    <title>WeChat Mac RPA</title>
-    <id>https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/</id>
-    <link href="https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/" rel="alternate" type="text/html" />
-    <link href="https://github.com/wq19901103wq/wechat-mac-rpa" rel="related" />
-    <link href="https://awesomecua.com/resources/github-wq19901103wq-wechat-mac-rpa/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:56Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>WeChat Mac RPA is a macOS agent that reads WeChat screenshots, reasons over conversations and uses system automation to send messages and switch chats.</summary>
-  </entry>
-  <entry>
-    <title>Awesome Computer Use</title>
-    <id>https://awesomecua.com/resources/github-philfung-awesome-computer-use/</id>
-    <link href="https://awesomecua.com/resources/github-philfung-awesome-computer-use/" rel="alternate" type="text/html" />
-    <link href="https://github.com/philfung/awesome-computer-use" rel="related" />
-    <link href="https://awesomecua.com/resources/github-philfung-awesome-computer-use/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:27Z</published>
-    <updated>2026-11-09T06:16:35Z</updated>
-    <category term="learning" label="Learning resources" />
-    <summary>A curated reading list of computer GUI use research and software, linking to agent demos, frameworks, and papers across desktop and web interfaces.</summary>
-  </entry>
-  <entry>
-    <title>bdg - Browser Debugger CLI</title>
-    <id>https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/</id>
-    <link href="https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/" rel="alternate" type="text/html" />
-    <link href="https://github.com/szymdzum/browser-debugger-cli" rel="related" />
-    <link href="https://awesomecua.com/resources/github-szymdzum-browser-debugger-cli/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:27Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="tool" label="Tools" />
-    <summary>A browser CLI for agents to navigate and interact with pages while inspecting the DOM, network requests, console output, and layout through individual commands.</summary>
-  </entry>
-  <entry>
-    <title>finalrun-agent</title>
-    <id>https://awesomecua.com/resources/github-final-run-finalrun-agent/</id>
-    <link href="https://awesomecua.com/resources/github-final-run-finalrun-agent/" rel="alternate" type="text/html" />
-    <link href="https://github.com/final-run/finalrun-agent" rel="related" />
-    <link href="https://awesomecua.com/resources/github-final-run-finalrun-agent/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:27Z</published>
-    <updated>2026-11-09T06:16:35Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>An AI-driven CLI for testing Android and iOS apps from YAML instructions. It observes the screen, performs touch and text actions, and reports results with video and logs.</summary>
-  </entry>
-  <entry>
-    <title>Jedi-7B-1080p</title>
-    <id>https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/</id>
-    <link href="https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/xlangai/Jedi-7B-1080p" rel="related" />
-    <link href="https://awesomecua.com/resources/url-75dee6afef81a56ba4b2/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:27Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>A released model checkpoint for computer-use grounding research, based on Qwen2.5-VL-7B-Instruct. The repository includes weight shards and tokenizer files.</summary>
-  </entry>
-  <entry>
-    <title>MedSPOT</title>
-    <id>https://awesomecua.com/resources/github-tajamul21-medspot/</id>
-    <link href="https://awesomecua.com/resources/github-tajamul21-medspot/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Tajamul21/MedSPOT" rel="related" />
-    <link href="https://awesomecua.com/resources/github-tajamul21-medspot/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:27Z</published>
-    <updated>2026-11-09T06:16:36Z</updated>
-    <category term="benchmark" label="Benchmarks" />
-    <summary>A sequential GUI grounding benchmark covering 10 medical imaging applications. It evaluates target localization across multi-step workflows and provides model evaluation scripts.</summary>
-  </entry>
-  <entry>
-    <title>MMSearch-Plus</title>
-    <id>https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/</id>
-    <link href="https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/" rel="alternate" type="text/html" />
-    <link href="https://github.com/mmsearch-plus/MMSearch-Plus" rel="related" />
-    <link href="https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:27Z</published>
-    <updated>2026-11-09T06:16:35Z</updated>
-    <category term="benchmark" label="Benchmarks" />
-    <summary>A benchmark of 311 visual reasoning tasks for multimodal browsing agents, requiring iterative image and text retrieval. The repository links the dataset and provides a loading helper.</summary>
-  </entry>
-  <entry>
-    <title>Agentic Web</title>
-    <id>https://awesomecua.com/resources/github-saferl-lab-agentic-web/</id>
-    <link href="https://awesomecua.com/resources/github-saferl-lab-agentic-web/" rel="alternate" type="text/html" />
-    <link href="https://github.com/SafeRL-Lab/agentic-web" rel="related" />
-    <link href="https://awesomecua.com/resources/github-saferl-lab-agentic-web/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:22Z</published>
-    <updated>2026-11-09T06:16:35Z</updated>
-    <category term="learning" label="Learning resources" />
-    <summary>A research reading list on agents and the web, organized around development, retrieval, planning, safety and benchmarks.</summary>
-  </entry>
-  <entry>
-    <title>gui-agent</title>
-    <id>https://awesomecua.com/resources/github-waynchi-gui-agent/</id>
-    <link href="https://awesomecua.com/resources/github-waynchi-gui-agent/" rel="alternate" type="text/html" />
-    <link href="https://github.com/waynchi/gui-agent" rel="related" />
-    <link href="https://awesomecua.com/resources/github-waynchi-gui-agent/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:22Z</published>
-    <updated>2026-11-09T06:16:35Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>Research code for GUI-agent experiments, accompanied by a trained interface element detector, experiment configurations and prompts.</summary>
-  </entry>
-  <entry>
-    <title>SeeAct Web Agent (Chrome Extension)</title>
-    <id>https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/</id>
-    <link href="https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/" rel="alternate" type="text/html" />
-    <link href="https://github.com/OSU-NLP-Group/SeeActChromeExtension" rel="related" />
-    <link href="https://awesomecua.com/resources/github-osu-nlp-group-seeactchromeextension/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:22Z</published>
-    <updated>2026-11-09T06:16:35Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>A Chrome extension that runs a SeeAct-based agent in an existing browser session to navigate websites, gather information and prepare forms.</summary>
-  </entry>
-  <entry>
-    <title>AgentGym</title>
-    <id>https://awesomecua.com/resources/github-woooodyy-agentgym/</id>
-    <link href="https://awesomecua.com/resources/github-woooodyy-agentgym/" rel="alternate" type="text/html" />
-    <link href="https://github.com/WooooDyy/AgentGym" rel="related" />
-    <link href="https://awesomecua.com/resources/github-woooodyy-agentgym/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:00Z</published>
-    <updated>2026-11-09T06:16:34Z</updated>
-    <category term="framework" label="Frameworks" />
-    <summary>AgentGym provides interactive environments for developing and evaluating agents, including web tasks in WebShop and WebArena, with trajectory collection and training support.</summary>
-  </entry>
-  <entry>
-    <title>ConClick</title>
-    <id>https://awesomecua.com/resources/github-zhangruotian-conclick/</id>
-    <link href="https://awesomecua.com/resources/github-zhangruotian-conclick/" rel="alternate" type="text/html" />
-    <link href="https://github.com/zhangruotian/ConClick" rel="related" />
-    <link href="https://awesomecua.com/resources/github-zhangruotian-conclick/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:00Z</published>
-    <updated>2026-11-09T06:16:34Z</updated>
-    <category term="model" label="Models and checkpoints" />
-    <summary>ConClick is a GUI grounding model trained with coordinate supervision and target distractor ranking. Its ReClick inference method revisits candidate screen regions before choosing a click.</summary>
-  </entry>
-  <entry>
-    <title>Screen Point-and-Read Data</title>
-    <id>https://awesomecua.com/resources/url-4b747a376f628e6f9760/</id>
-    <link href="https://awesomecua.com/resources/url-4b747a376f628e6f9760/" rel="alternate" type="text/html" />
-    <link href="https://huggingface.co/datasets/yfan1997/ScreenPR" rel="related" />
-    <link href="https://awesomecua.com/resources/url-4b747a376f628e6f9760/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:41:00Z</published>
-    <updated>2026-11-09T06:16:35Z</updated>
-    <category term="dataset" label="Datasets" />
-    <summary>Screen Point-and-Read Data pairs OS, web and mobile screenshots with selected points, annotated regions and corrected captions for layout-aware GUI interpretation.</summary>
-  </entry>
-  <entry>
-    <title>AdbGPT</title>
-    <id>https://awesomecua.com/resources/github-sidongfeng-adbgpt/</id>
-    <link href="https://awesomecua.com/resources/github-sidongfeng-adbgpt/" rel="alternate" type="text/html" />
-    <link href="https://github.com/sidongfeng/AdbGPT" rel="related" />
-    <link href="https://awesomecua.com/resources/github-sidongfeng-adbgpt/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:40:52Z</published>
-    <updated>2026-11-09T06:16:33Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>An Android bug replay agent that extracts action details from written bug reports and uses the current app screen to guide reproduction steps.</summary>
-  </entry>
-  <entry>
-    <title>API-Based-Agent</title>
-    <id>https://awesomecua.com/resources/github-yueqis-api-based-agent/</id>
-    <link href="https://awesomecua.com/resources/github-yueqis-api-based-agent/" rel="alternate" type="text/html" />
-    <link href="https://github.com/yueqis/API-Based-Agent" rel="related" />
-    <link href="https://awesomecua.com/resources/github-yueqis-api-based-agent/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:40:52Z</published>
-    <updated>2026-11-09T06:16:34Z</updated>
-    <category term="agent" label="Agents" />
-    <summary>Code for web agents that use application APIs and browser actions together, with scripts for evaluating the hybrid approach on WebArena.</summary>
-  </entry>
-  <entry>
-    <title>Awesome Reinforcement Learning for GUI Agents</title>
-    <id>https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/</id>
-    <link href="https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/" rel="alternate" type="text/html" />
-    <link href="https://github.com/Steve2457/Awesome-RL-GUI-Agents" rel="related" />
-    <link href="https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/index.md" rel="alternate" type="text/markdown" />
-    <published>2026-11-09T04:40:52Z</published>
-    <updated>2026-11-09T06:16:34Z</updated>
-    <category term="learning" label="Learning resources" />
-    <summary>A curated reading list of reinforcement learning work on GUI agents, organized by learning methods, reward and efficiency questions, datasets, and training environments.</summary>
   </entry>
 </feed>

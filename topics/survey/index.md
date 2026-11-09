@@ -6,6 +6,8 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
 
 ## Papers & surveys
 
+- [GUI Grounding for Computer-Use Agents: A Survey](https://awesomecua.com/resources/url-0579bd92efb87b26cb15/) — 2026-11-04
+  A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.
 - [Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://awesomecua.com/resources/arxiv-2610-30108/) — 2026-10-21
   PAPAV is a capability framework and survey comparing computer-use agents with physical agents through perception, anticipation, planning, action and verification.
 - [Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory](https://awesomecua.com/resources/arxiv-2610-19366/) — 2026-10-14
@@ -16,6 +18,8 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
   Surveys modular agentic skill architectures, skill lifecycles, and security risks in autonomous tool- and interface-using agents.
 - [Software Engineering for and with GUI Agent](https://awesomecua.com/resources/arxiv-2608-09278/) — 2026-08-10
   Surveys 336 GUI-agent papers through a software engineering lens, covering architectures, evaluation, and lifecycle concerns in mobile and web settings.
+- [LLM Agents: A Survey](https://awesomecua.com/resources/url-f58895265a31c37d12b4/) — 2026-08-05
+  A survey organizes LLM agents by planning, memory, tool use, coordination, evaluation, and safety, covering computer-use agents among more than two hundred works.
 - [Securing Computer-Use Agents: A Unified Architecture-Lifecycle Framework for Deployment-Grounded Reliability](https://awesomecua.com/resources/arxiv-2605-07110/) — 2026-05-08
   Survey of computer-use agent reliability and security across browsers, desktops, and mobile apps, using architecture and lifecycle views to map failures and controls.
 - [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://awesomecua.com/resources/arxiv-2604-22748/) — 2026-04-24
@@ -64,6 +68,18 @@ Full source records: https://awesomecua.com/downloads/topics/survey/records.json
   Presents a conceptual perception–reasoning–action framework and 12 potential attack scenarios for language agents, including hypothetical web-navigation attacks.
 - [Vision-Based Mobile App GUI Testing: A Survey](https://awesomecua.com/resources/arxiv-2310-13518/) — 2023-10-20
   Surveys vision-based mobile app GUI testing across test generation, record-and-replay and testing frameworks, drawing on 271 papers including 92 vision-based studies.
+- [Task Automation Intelligent Agents: A Review](https://awesomecua.com/resources/url-eb791c465f47690ade31/) — 2023-05-29
+  A literature review examines mobile phone task automation agents, including programming by demonstration and usability heuristics for recurring user tasks.
+- [Robotic Process Automation and Artificial Intelligence in Industry 4.0 – A Literature review](https://awesomecua.com/resources/url-b230a6700386b7e2744c/) — 2021
+  A literature review examines how robotic process automation tools combine with AI for organizational workflows in Industry 4.0, including information extraction and process optimization.
+- [30 Years of Automated GUI Testing: A Bibliometric Analysis](https://awesomecua.com/resources/url-24a139a7910431441e39/) — 2021
+  A bibliometric review traces automated GUI testing research from 1990 to 2020, examining publication growth, citation patterns, collaboration, and emerging mobile testing topics.
+- [GUI testing for mobile applications: objectives, approaches and challenges](https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/) — 2020-11
+  A systematic review of mobile app GUI testing examines objectives, methods, evaluation metrics, and research challenges across 75 studies published from 2010 to 2020.
+- [From Robotic Process Automation to Intelligent Process Automation: Emerging Trends](https://awesomecua.com/resources/arxiv-2007-13257/) — 2020-07-27
+  A survey of robotic and intelligent process automation traces the use of machine learning and AI in business workflows and identifies open research challenges.
+- [Robotic Process Automation: Contemporary themes and challenges](https://awesomecua.com/resources/url-2574c6eeee264762a990/) — 2020-02
+  A structured review of robotic process automation examines software bots that mimic user actions and identifies research themes and challenges for organizational use.
 - [A Systematic Literature Review of Automated Techniques for Functional GUI Testing of Mobile Applications](https://awesomecua.com/resources/arxiv-1812-11470/) — 2018-12-30
   Surveys automated functional GUI testing techniques for mobile apps, comparing the effectiveness, efficiency and practicality of approaches reported in 25 studies.
 

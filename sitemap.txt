@@ -85,6 +85,7 @@ https://awesomecua.com/resources/arxiv-1812-11470/
 https://awesomecua.com/resources/arxiv-1902-07257/
 https://awesomecua.com/resources/arxiv-1909-00031/
 https://awesomecua.com/resources/arxiv-2005-03776/
+https://awesomecua.com/resources/arxiv-2007-13257/
 https://awesomecua.com/resources/arxiv-2008-05132/
 https://awesomecua.com/resources/arxiv-2010-04295/
 https://awesomecua.com/resources/arxiv-2012-12350/
@@ -155,6 +156,7 @@ https://awesomecua.com/resources/arxiv-2310-16042/
 https://awesomecua.com/resources/arxiv-2310-18331/
 https://awesomecua.com/resources/arxiv-2311-01767/
 https://awesomecua.com/resources/arxiv-2311-07562/
+https://awesomecua.com/resources/arxiv-2311-08649/
 https://awesomecua.com/resources/arxiv-2311-10751/
 https://awesomecua.com/resources/arxiv-2311-12983/
 https://awesomecua.com/resources/arxiv-2311-18751/
@@ -529,6 +531,7 @@ https://awesomecua.com/resources/arxiv-2505-16421/
 https://awesomecua.com/resources/arxiv-2505-16422/
 https://awesomecua.com/resources/arxiv-2505-16827/
 https://awesomecua.com/resources/arxiv-2505-17629/
+https://awesomecua.com/resources/arxiv-2505-17839/
 https://awesomecua.com/resources/arxiv-2505-18121/
 https://awesomecua.com/resources/arxiv-2505-18829/
 https://awesomecua.com/resources/arxiv-2505-19095/
@@ -813,6 +816,7 @@ https://awesomecua.com/resources/arxiv-2511-06101/
 https://awesomecua.com/resources/arxiv-2511-06251/
 https://awesomecua.com/resources/arxiv-2511-06417/
 https://awesomecua.com/resources/arxiv-2511-07332/
+https://awesomecua.com/resources/arxiv-2511-08172/
 https://awesomecua.com/resources/arxiv-2511-08325/
 https://awesomecua.com/resources/arxiv-2511-09127/
 https://awesomecua.com/resources/arxiv-2511-09157/
@@ -4099,6 +4103,7 @@ https://awesomecua.com/resources/url-040e17448d9d190b3c14/
 https://awesomecua.com/resources/url-0447e1fb83a794507aa2/
 https://awesomecua.com/resources/url-04aa7569d183379d615c/
 https://awesomecua.com/resources/url-053ebfe0afac66c86222/
+https://awesomecua.com/resources/url-0579bd92efb87b26cb15/
 https://awesomecua.com/resources/url-058cb7a92cba506f9739/
 https://awesomecua.com/resources/url-0596dd7e97fd30abaadc/
 https://awesomecua.com/resources/url-05a9a7c592089d1ddd46/
@@ -4146,6 +4151,7 @@ https://awesomecua.com/resources/url-1611de0e6d606165d12d/
 https://awesomecua.com/resources/url-16184830c0f4bdb146fa/
 https://awesomecua.com/resources/url-16a51d9e725ad5a5c629/
 https://awesomecua.com/resources/url-16a5ccde8bb16cda19ff/
+https://awesomecua.com/resources/url-16f4a8903de0f90d3638/
 https://awesomecua.com/resources/url-174e10a319d62c338879/
 https://awesomecua.com/resources/url-17729e1c532ba7043404/
 https://awesomecua.com/resources/url-17a0422036ebea8d4e93/
@@ -4153,6 +4159,7 @@ https://awesomecua.com/resources/url-1807bdb33fc352a97240/
 https://awesomecua.com/resources/url-18816edf464a073a0120/
 https://awesomecua.com/resources/url-1aa4168c796c15476b97/
 https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/
+https://awesomecua.com/resources/url-1c0a2ce1faf3017fa0c5/
 https://awesomecua.com/resources/url-1c4a0389ace7c5cb8a4b/
 https://awesomecua.com/resources/url-1c4ee99a9a55ae71a7ac/
 https://awesomecua.com/resources/url-1cf7f8b4b2a1eb9c6547/
@@ -4168,7 +4175,10 @@ https://awesomecua.com/resources/url-23bc63f93d3c31d74af3/
 https://awesomecua.com/resources/url-240a05c02f85d4da60dc/
 https://awesomecua.com/resources/url-243ab00712ba19cc2089/
 https://awesomecua.com/resources/url-2462fb9d529bac7fa896/
+https://awesomecua.com/resources/url-24a139a7910431441e39/
+https://awesomecua.com/resources/url-24bc39ed487b311108ae/
 https://awesomecua.com/resources/url-255e1ea24461c1f205eb/
+https://awesomecua.com/resources/url-2574c6eeee264762a990/
 https://awesomecua.com/resources/url-25a4d0ab29b60250863a/
 https://awesomecua.com/resources/url-25af759a783f1514fe58/
 https://awesomecua.com/resources/url-263e82b29d4fca964463/
@@ -4177,6 +4187,7 @@ https://awesomecua.com/resources/url-2866edbea80fa34aa684/
 https://awesomecua.com/resources/url-29588aa5651b5839c045/
 https://awesomecua.com/resources/url-2a2682f86dcb8ebc9a80/
 https://awesomecua.com/resources/url-2a4dd75acb6efdeb0e4a/
+https://awesomecua.com/resources/url-2af250798e99e7af01ce/
 https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/
 https://awesomecua.com/resources/url-2b7363c3a20d8022b319/
 https://awesomecua.com/resources/url-2bab4b78c81cde1d5ecb/
@@ -4186,6 +4197,7 @@ https://awesomecua.com/resources/url-2c4b53bc04f33578e9b8/
 https://awesomecua.com/resources/url-2c99f0de2840277abc72/
 https://awesomecua.com/resources/url-2e1927450da2183a5abe/
 https://awesomecua.com/resources/url-2e8bba756c71f9fe3fbd/
+https://awesomecua.com/resources/url-2eaafb0b5ecde3babbf1/
 https://awesomecua.com/resources/url-2eaf614de14193997f33/
 https://awesomecua.com/resources/url-2f2e38f240a36f31b631/
 https://awesomecua.com/resources/url-303e1926b8ff4f60e006/
@@ -4205,6 +4217,7 @@ https://awesomecua.com/resources/url-35b9879a351cc3b3d7d5/
 https://awesomecua.com/resources/url-36a7cba41056d46cdcde/
 https://awesomecua.com/resources/url-374138c6e18c9f1dd44a/
 https://awesomecua.com/resources/url-37570eed422d326bfa5a/
+https://awesomecua.com/resources/url-377f5418e39ff2da971f/
 https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/
 https://awesomecua.com/resources/url-380a6eedcb4de7778e88/
 https://awesomecua.com/resources/url-3849b18aa87edefc6afd/
@@ -4214,6 +4227,8 @@ https://awesomecua.com/resources/url-38942453b2b7018c0d01/
 https://awesomecua.com/resources/url-392a602c660ffa91be46/
 https://awesomecua.com/resources/url-3932d69c6b6f9b2a7ba8/
 https://awesomecua.com/resources/url-396e9c77f2dc44adfe45/
+https://awesomecua.com/resources/url-39f88102e1659647b1a0/
+https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/
 https://awesomecua.com/resources/url-3ac3ccfb23fe13adf428/
 https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/
 https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/
@@ -4221,8 +4236,10 @@ https://awesomecua.com/resources/url-3b99bbbd3480dbc1ec6b/
 https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/
 https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/
 https://awesomecua.com/resources/url-3e58eecd59c404508757/
+https://awesomecua.com/resources/url-3fdea133115518f9205a/
 https://awesomecua.com/resources/url-40795d2c86388ae89f43/
 https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/
+https://awesomecua.com/resources/url-412c168dd5d0aeded46a/
 https://awesomecua.com/resources/url-41556fece3bf8a2419ba/
 https://awesomecua.com/resources/url-41abb1b7206689cf5057/
 https://awesomecua.com/resources/url-422010da7a5c845a18f6/
@@ -4334,6 +4351,7 @@ https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/
 https://awesomecua.com/resources/url-73c169c32b5765688376/
 https://awesomecua.com/resources/url-73e9e26d40de2a60ae05/
 https://awesomecua.com/resources/url-7405463ba56f9a41e79a/
+https://awesomecua.com/resources/url-7424d66754ec26d68d83/
 https://awesomecua.com/resources/url-74a98d385b656cf5e980/
 https://awesomecua.com/resources/url-74eeb7c9fb20674fe6e2/
 https://awesomecua.com/resources/url-758f048c78e5c184333c/
@@ -4367,11 +4385,13 @@ https://awesomecua.com/resources/url-80c8abf734a29f7affc5/
 https://awesomecua.com/resources/url-80ec6c9a43360adbbc6b/
 https://awesomecua.com/resources/url-826f3753905c5c43bf46/
 https://awesomecua.com/resources/url-82a30f45d9e855f423c7/
+https://awesomecua.com/resources/url-83569d30f341f39f4a78/
 https://awesomecua.com/resources/url-8477ada5b7de1d399c9d/
 https://awesomecua.com/resources/url-848e19da3bdf0aeb500c/
 https://awesomecua.com/resources/url-849a86beaee006c6b147/
 https://awesomecua.com/resources/url-84e5aeeffaf561baa966/
 https://awesomecua.com/resources/url-8525e17eee1f3e754ad4/
+https://awesomecua.com/resources/url-85cad9e7962668786093/
 https://awesomecua.com/resources/url-86229ebd22143128bcf7/
 https://awesomecua.com/resources/url-863cc1744cd5d40418be/
 https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/
@@ -4383,6 +4403,7 @@ https://awesomecua.com/resources/url-87f28e117d95985d5177/
 https://awesomecua.com/resources/url-8896d44370711136fd54/
 https://awesomecua.com/resources/url-8933977bb0a57940ed23/
 https://awesomecua.com/resources/url-8a284d122d7dcf23479d/
+https://awesomecua.com/resources/url-8b87df7992bc7b4da1a5/
 https://awesomecua.com/resources/url-8c0b15d51eb7b4156608/
 https://awesomecua.com/resources/url-8c9aaafb918aaf8b4e92/
 https://awesomecua.com/resources/url-8cd911654653a6ba8521/
@@ -4423,10 +4444,12 @@ https://awesomecua.com/resources/url-a03c649e4b14e293e2dd/
 https://awesomecua.com/resources/url-a06622da7688e3718a7b/
 https://awesomecua.com/resources/url-a06f5cb81d3c41338bb6/
 https://awesomecua.com/resources/url-a0a0c389d4def8e2d13a/
+https://awesomecua.com/resources/url-a102be4d98ab5ce068d8/
 https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/
 https://awesomecua.com/resources/url-a19a076a4808a80f6ac8/
 https://awesomecua.com/resources/url-a2362e23fdcbc73763e6/
 https://awesomecua.com/resources/url-a252b36bf1c440269a2e/
+https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/
 https://awesomecua.com/resources/url-a349aace3cfde25628a8/
 https://awesomecua.com/resources/url-a4cdb2ee0d07d3980651/
 https://awesomecua.com/resources/url-a4da77ee63f879cc8e63/
@@ -4462,6 +4485,7 @@ https://awesomecua.com/resources/url-b09d10b87e42b7e74de9/
 https://awesomecua.com/resources/url-b1457a20d437732b60f7/
 https://awesomecua.com/resources/url-b1837823421bd08cb826/
 https://awesomecua.com/resources/url-b1c6b94743e6dbac930d/
+https://awesomecua.com/resources/url-b230a6700386b7e2744c/
 https://awesomecua.com/resources/url-b53e03a6e4ca4226d126/
 https://awesomecua.com/resources/url-b540fe81c57cedb1f556/
 https://awesomecua.com/resources/url-b560b5d6abaab98483f6/
@@ -4587,9 +4611,11 @@ https://awesomecua.com/resources/url-e7653b062bded670198a/
 https://awesomecua.com/resources/url-e7c3d3d49bf977b49996/
 https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/
 https://awesomecua.com/resources/url-e8256e338a9c379ca85b/
+https://awesomecua.com/resources/url-e86b3a1454b494224f07/
 https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/
 https://awesomecua.com/resources/url-e8cea6261ab19611ad23/
 https://awesomecua.com/resources/url-eadc6cba9ea46c38dd1d/
+https://awesomecua.com/resources/url-eb791c465f47690ade31/
 https://awesomecua.com/resources/url-ec17d3267cd49548d2d4/
 https://awesomecua.com/resources/url-ecf89236d4e75b05c7b4/
 https://awesomecua.com/resources/url-ed8d5883c240b78e329f/
@@ -4613,6 +4639,7 @@ https://awesomecua.com/resources/url-f39d67f7a4a6f869f39c/
 https://awesomecua.com/resources/url-f3a7296977a39c37f693/
 https://awesomecua.com/resources/url-f52794224f9541fd9eb3/
 https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/
+https://awesomecua.com/resources/url-f58895265a31c37d12b4/
 https://awesomecua.com/resources/url-f59c2dd51c1f5c570a28/
 https://awesomecua.com/resources/url-f6c88faa4392848f81b6/
 https://awesomecua.com/resources/url-f6e1a7527f9346ed1c1d/
@@ -4635,6 +4662,7 @@ https://awesomecua.com/resources/url-fdb901523979ed1e831b/
 https://awesomecua.com/resources/url-fe43af1801032be708cc/
 https://awesomecua.com/resources/url-fec1c5aa8fd93cb78923/
 https://awesomecua.com/resources/url-ff7b1873a3eead89607a/
+https://awesomecua.com/resources/url-ffc05c4425f777924940/
 https://awesomecua.com/resources/url-ffe40334f1050b94f8b2/
 https://awesomecua.com/survey/
 https://awesomecua.com/topics/
@@ -4702,6 +4730,7 @@ https://awesomecua.com/topics/evaluation/page/20/
 https://awesomecua.com/topics/evaluation/page/21/
 https://awesomecua.com/topics/evaluation/page/22/
 https://awesomecua.com/topics/evaluation/page/23/
+https://awesomecua.com/topics/evaluation/page/24/
 https://awesomecua.com/topics/evaluation/page/3/
 https://awesomecua.com/topics/evaluation/page/4/
 https://awesomecua.com/topics/evaluation/page/5/
@@ -4986,6 +5015,7 @@ https://awesomecua.com/zh/topics/evaluation/page/20/
 https://awesomecua.com/zh/topics/evaluation/page/21/
 https://awesomecua.com/zh/topics/evaluation/page/22/
 https://awesomecua.com/zh/topics/evaluation/page/23/
+https://awesomecua.com/zh/topics/evaluation/page/24/
 https://awesomecua.com/zh/topics/evaluation/page/3/
 https://awesomecua.com/zh/topics/evaluation/page/4/
 https://awesomecua.com/zh/topics/evaluation/page/5/

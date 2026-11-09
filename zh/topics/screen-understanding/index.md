@@ -6,6 +6,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 
 ## 论文与综述
 
+- [GUI Grounding for Computer-Use Agents: A Survey](https://awesomecua.com/resources/url-0579bd92efb87b26cb15/) — 2026-11-04
+  A survey of GUI grounding organizes methods by learning, inference, and target representation, and reviews datasets, benchmarks, metrics, and inference costs.
 - [Visual Token Routing: Learning to keep tokens that matter](https://awesomecua.com/resources/arxiv-2611-06854/) — 2026-11-04
   Introduces Visual Token Routing (VTR), which selects visual tokens from current and earlier screenshots to reduce computer-use agent inference cost while retaining action-relevant information.
 - [MKD2World: A Typed Spatial MarkDown World Model For Web Agents](https://awesomecua.com/resources/arxiv-2611-06544/) — 2026-11-04
@@ -92,6 +94,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Proposes an MCP architecture that presents accessibility trees from Windows, macOS, Android, and web frameworks in a common form for LLM assistive agents interacting with GUIs.
 - [Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure](https://awesomecua.com/resources/arxiv-2607-04334/) — 2026-07-05
   Defines visual state reliance and probes whether GUI agents resolve screenshot/structure conflicts using pixels, serialized interface structure or prior beliefs. Paired interventions and live multi-step tests connect misattributed state beliefs to failures and compare consistency-based mitigations.
+- [Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing](https://awesomecua.com/resources/url-39f88102e1659647b1a0/) — 2026-06-30
+  Orienter detects interactive elements in 3D XR interfaces using app context and iterative reflection, then evaluates detection and guided testing on Steam app images.
 - [LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents](https://awesomecua.com/resources/arxiv-2606-30697/) — 2026-06-29
   LUMOS converts native accessibility metadata and browser UI structure into semantic interface blueprints with stable element identifiers and available actions. It combines live pointer-to-element grounding with an observe-act loop constrained to visible-UI primitives.
 - [One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding](https://awesomecua.com/resources/arxiv-2606-30084/) — 2026-06-29
@@ -202,6 +206,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   GUI-Eyes trains GUI grounders to decide when and how to use visual tools such as crops and zooms. Its coarse-to-fine policy uses dense spatial rewards based on location proximity and region overlap, with evaluation on ScreenSpot-Pro.
 - [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](https://awesomecua.com/resources/arxiv-2601-03928/) — 2026-01-07
   FocusUI selects instruction-relevant screenshot patches while preserving their positional structure for GUI grounding. Its PosPad scheme replaces runs of dropped tokens with positional markers and is evaluated under reduced token budgets.
+- [Look Where You’re Told: Instruction-Consistent Attention for GUI Grounding](https://awesomecua.com/resources/url-3a73f9fc424ca9fe170e/) — 2026
+  Attention Cycle-Consistency trains GUI element grounding with semantic and spatial alignment constraints, while removing its auxiliary components at inference.
 - [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://awesomecua.com/resources/arxiv-2512-22009/) — 2025-12-26
   Introduces iSHIFT, which combines latent reasoning with perception-control tokens to adapt GUI inference. The agent switches between detailed regional grounding and faster use of global visual cues.
 - [DAVE: A VLM Vision Encoder for Document Understanding and Web Agents](https://awesomecua.com/resources/arxiv-2512-17221/) — 2025-12-19
@@ -322,6 +328,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Synthesizes GUI training examples at multiple levels of detail from webpages and studies transfer of learned understanding to other interface environments.
 - [Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms](https://awesomecua.com/resources/arxiv-2410-18967/) — 2024-10-24
   Extends Ferret-UI across device platforms with adaptive visual scaling and synthetic data for referring, grounding, and user-centered UI tasks.
+- [Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model](https://awesomecua.com/resources/url-83569d30f341f39f4a78/) — 2024-10-18
+  Test-Agent uses an LLM, screenshots, and interface structure to generate and execute mobile app test actions from natural-language instructions across platforms.
 - [Harnessing Webpage UIs for Text-Rich Visual Understanding](https://awesomecua.com/resources/arxiv-2410-13824/) — 2024-10-17
   Builds MultiUI by generating instructions from webpage accessibility trees and pairing them with screenshots for multimodal training. Evaluation examines web-interface understanding, including VisualWebBench and Mind2Web, and transfer to other text-rich visual tasks.
 - [DreamStruct: Understanding Slides and User Interfaces via Synthetic Data Generation](https://awesomecua.com/resources/arxiv-2410-00201/) — 2024-09-30
@@ -422,6 +430,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Introduces UIGuard, a system that examines mobile UI visuals and text to detect dark patterns, together with a labeled dataset of benign and malicious interfaces.
 - [Mobile User Interface Element Detection Via Adaptively Prompt Tuning](https://awesomecua.com/resources/arxiv-2305-09699/) — 2023-05-16
   Introduces MUI-zh and APT for detecting mobile UI elements, combining visual features with OCR descriptions to adjust category prompts in CLIP-based detectors.
+- [Automating GUI-based Software Testing with GPT-3](https://awesomecua.com/resources/url-412c168dd5d0aeded46a/) — 2023-04
+  A GPT-3-based GUI testing method interprets natural-language test cases, tracks current interface elements in prompts, and navigates desktop and mobile applications.
 - [WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics](https://awesomecua.com/resources/arxiv-2301-13280/) — 2023-01-30
   Collects rendered webpages and structural metadata for visual UI modeling, studying how web semantics transfer to interface-understanding tasks.
 - [Lexi: Self-Supervised Learning of the UI Language](https://awesomecua.com/resources/arxiv-2301-10165/) — 2023-01-23
