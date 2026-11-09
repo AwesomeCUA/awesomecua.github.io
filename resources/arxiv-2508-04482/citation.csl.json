@@ -22,7 +22,63 @@
       "updated_at": "2025-08-06T14:33:45Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2508.04482v1"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Xueyu Hu",
+        "Tao Xiong",
+        "Biao Yi",
+        "Zishu Wei",
+        "Ruixuan Xiao",
+        "Yurun Chen",
+        "Jiasheng Ye",
+        "Meiling Tao",
+        "Xiangxin Zhou",
+        "Ziyu Zhao",
+        "Yuhuai Li",
+        "Shengze Xu",
+        "Shenzhi Wang",
+        "Xinchen Xu",
+        "Shuofei Qiao",
+        "Zhaokai Wang",
+        "Kun Kuang",
+        "Tieyong Zeng",
+        "Liang Wang",
+        "Jiwei Li",
+        "Yuchen Eleanor Jiang",
+        "Wangchunshu Zhou",
+        "Guoyin Wang",
+        "Keting Yin",
+        "Zhou Zhao",
+        "Hongxia Yang",
+        "Fan Wu",
+        "Shengyu Zhang",
+        "Fei Wu"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.acl-long.369",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.acl-long.369/"
+      ],
+      "identity_basis": "Same work: the same 29 authors in the same order and the same OS Agents survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity, whose abstract presents the 9-page version accepted by ACL 2025 and whose comment reads ACL 2025 (Oral). The titles differ only in their final phrase.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title ends with 'for Computer, Phone and Browser Use', while the retained arXiv v1 title ends with 'for General Computing Devices Use'.",
+      "pages": "7436-7465",
+      "pdf_url": "https://aclanthology.org/2025.acl-long.369.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.acl-long.369/",
+      "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T14:33:45Z.",
   "author": [

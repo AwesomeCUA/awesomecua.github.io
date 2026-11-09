@@ -87,6 +87,8 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
 
 ## Benchmarks
 
+- [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/) — Date not recorded
+  Released data for the GUIDE benchmark: annotated segments of narrated novice screen recordings in 10 applications, for predicting user behavior state, short-term intent and whether and how to help.
 - [VideoGUI](https://awesomecua.com/resources/github-showlab-videogui/) — Date not recorded
   Benchmark for desktop GUI tasks derived from instructional videos.
 - [WONDERBREAD](https://awesomecua.com/resources/github-hazyresearch-wonderbread/) — Date not recorded
@@ -96,16 +98,30 @@ Full source records: https://awesomecua.com/downloads/topics/video/records.jsonl
 
 - [AgentTrek](https://awesomecua.com/resources/github-xlang-ai-agenttrek/) — Date not recorded
   Synthesizes browser-agent trajectories by replaying web tutorials as guidance, releasing the trajectory data with multimodal grounding and reasoning and an AgentTrek-32B agent.
+- [Computer Use Large (markov-ai)](https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/) — Date not recorded
+  48,478 trimmed, audio-free screen-recording videos (about 12,300 hours) of AutoCAD, Blender, Excel, Photoshop, Salesforce and VS Code use, gathered from the internet, with duration metadata and no action labels.
 - [GUI-Action Narrator](https://awesomecua.com/resources/github-showlab-gui-action-narrator/) — Date not recorded
   Action narration resources for GUI interaction trajectories.
 - [GUI-World](https://awesomecua.com/resources/github-dongping-chen-gui-world/) — Date not recorded
   GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
+- [GUI-World data](https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/) — Date not recorded
+  Hub release of GUI-World: GUI screen-recording videos from six scenarios (Android, iOS, website, software, multi-app and XR) with train and benchmark annotation JSONL for GUI-oriented video question answering.
+- [GUI-Xplore](https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/) — Date not recorded
+  Per-app Android exploration videos with screenshot and action sequences, view hierarchies and question-answer pairs for five tasks, from app overview and page analysis to action recall and sequence verification.
 - [MONDAY](https://awesomecua.com/resources/github-runamu-monday/) — Date not recorded
   Cross-platform mobile GUI trajectory dataset derived from instructional videos, with released data-processing helpers and example evaluation code for Android and iOS data.
 - [MONDAY annotations](https://awesomecua.com/resources/url-570654ff67ecefa2b955/) — Date not recorded
   Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
+- [PSAI computer-use dataset](https://awesomecua.com/resources/url-10a75e1b7b975b3617ae/) — Date not recorded
+  Human computer-use recordings for 3,167 browser and desktop tasks, each with a screen video, input events and reasoning steps, plus screenshots or DOM snapshots for part of the tasks.
 - [VideoCAD data](https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/) — Date not recorded
   CAD screen recordings paired with action logs and target model images for studying precise interface control and long-horizon visual imitation.
+- [VideoCUA](https://awesomecua.com/resources/url-78adf6919bdbce42bc24/) — Date not recorded
+  Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordings with millisecond-timestamped mouse and keyboard action logs for about 10K tasks in 87 applications.
+- [WildGUI](https://awesomecua.com/resources/url-daf52475338f385b9310/) — Date not recorded
+  WildGUI release from Video2GUI: per-task JSONL trajectories mined from Internet tutorial videos, with instructions, plans and grounded actions on web, desktop and mobile, plus screenshot shards for parts 1-15.
+- [WildGUI Screenshots (parts 16-19)](https://awesomecua.com/resources/url-348f31b5b339403ec26f/) — Date not recorded
+  Companion Hub repository holding the WildGUI screenshot tar shards for parts 16-19; the matching trajectory annotations and the other parts' frames are in the main WildGUI repository.
 - [WorkDemo-350](https://awesomecua.com/resources/url-243ab00712ba19cc2089/) — Date not recorded
   Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.
 

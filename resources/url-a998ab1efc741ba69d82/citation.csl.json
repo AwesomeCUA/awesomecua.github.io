@@ -1,0 +1,85 @@
+{
+  "id": "url:a998ab1efc741ba69d82",
+  "citation-key": "cua_00c7ae5d8bcf2c59c36b3329",
+  "type": "paper-conference",
+  "title": "RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation",
+  "URL": "https://ieeexplore.ieee.org/abstract/document/10707522",
+  "custom": {
+    "catalog_id": "url:a998ab1efc741ba69d82",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://ieeexplore.ieee.org/abstract/document/10707522",
+    "identifiers": {
+      "doi": "10.1109/icws62655.2024.00056"
+    },
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Bolin Zhang",
+        "Shiyun Xiong",
+        "Dianbo Sui",
+        "YunZhe Xu",
+        "Zhiying Tu",
+        "Dianhui Chu"
+      ],
+      "date_basis": "Crossref-deposited citation: year={2024}, month=July. Preserve month precision; no publication day is taken from the conference dates.",
+      "date_parts": [
+        2024,
+        7
+      ],
+      "doi": "10.1109/icws62655.2024.00056",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://api.crossref.org/works/10.1109/icws62655.2024.00056/transform/application/x-bibtex"
+      ],
+      "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive; arXiv title searches for RealWeb return no preprint.",
+      "issue": null,
+      "notes": "IEEE ICWS 2024 proceedings edition.",
+      "pages": "342-351",
+      "pdf_url": null,
+      "publisher": "IEEE",
+      "series": null,
+      "title": "RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation",
+      "type": "conference-paper",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10707522",
+      "venue": "2024 IEEE International Conference on Web Services (ICWS)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-07.",
+  "author": [
+    {
+      "literal": "Bolin Zhang"
+    },
+    {
+      "literal": "Shiyun Xiong"
+    },
+    {
+      "literal": "Dianbo Sui"
+    },
+    {
+      "literal": "YunZhe Xu"
+    },
+    {
+      "literal": "Zhiying Tu"
+    },
+    {
+      "literal": "Dianhui Chu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1109/icws62655.2024.00056",
+  "container-title": "2024 IEEE International Conference on Web Services (ICWS)",
+  "publisher": "IEEE",
+  "page": "342-351"
+}

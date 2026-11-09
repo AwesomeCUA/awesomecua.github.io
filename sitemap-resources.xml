@@ -2,11 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://awesomecua.com/resources/component-google-research-android-control/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-18T16:06:25Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/component-google-research-android-in-the-wild/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-18T16:06:25Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/component-google-research-seq2act/</loc>
+    <lastmod>2026-10-18T10:58:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/component-openai-simple-evals-browsecomp/</loc>
+    <lastmod>2026-10-18T11:09:40Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/</loc>
@@ -111,6 +119,14 @@
   <url>
     <loc>https://awesomecua.com/resources/github-666xiaoniuzi-computer-use-skill/</loc>
     <lastmod>2026-11-04T16:57:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-7757-fan-browser-agent/</loc>
+    <lastmod>2026-10-18T16:08:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-777genius-os-ai-computer-use/</loc>
+    <lastmod>2026-10-18T15:38:32Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-88plug-screen-mcp/</loc>
@@ -273,6 +289,10 @@
     <lastmod>2026-10-16T06:42:06Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-agent-labs-dev-fastbrowse/</loc>
+    <lastmod>2026-10-18T15:54:54Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-agent-sh-computer-use-linux/</loc>
     <lastmod>2026-11-04T16:14:23Z</lastmod>
   </url>
@@ -307,6 +327,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-agentrhq-webcmd/</loc>
     <lastmod>2026-11-04T13:23:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-agents-io-pokeclaw/</loc>
+    <lastmod>2026-10-18T11:54:51Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-agentscope-ai-reme/</loc>
@@ -371,6 +395,14 @@
   <url>
     <loc>https://awesomecua.com/resources/github-ai-agents-2030-spa-bench/</loc>
     <lastmod>2026-10-17T02:09:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-ai-agents-2030-vimo/</loc>
+    <lastmod>2026-10-19T07:00:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-ai-agents-2030-vsc-rl/</loc>
+    <lastmod>2026-10-19T06:58:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-ai-naymul-browserpilot/</loc>
@@ -453,6 +485,10 @@
     <lastmod>2026-11-04T14:23:41Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-alanhuangyoo-openjev/</loc>
+    <lastmod>2026-10-18T16:16:36Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-albertxxuu-browseragentregression/</loc>
     <lastmod>2026-11-04T17:26:34Z</lastmod>
   </url>
@@ -493,6 +529,10 @@
     <lastmod>2026-11-04T16:57:28Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-alexvilelabah-bah-browser/</loc>
+    <lastmod>2026-10-18T15:46:47Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-algopian-chromeclaw/</loc>
     <lastmod>2026-11-04T13:12:05Z</lastmod>
   </url>
@@ -505,6 +545,10 @@
     <lastmod>2026-11-04T14:07:45Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-alibaba-qz-browser-agent/</loc>
+    <lastmod>2026-10-18T16:02:27Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-alibaba-ui-ins/</loc>
     <lastmod>2026-10-16T11:18:51Z</lastmod>
   </url>
@@ -515,6 +559,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-alipay-mobile-agent/</loc>
     <lastmod>2026-10-16T11:15:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-alisharjeell-openbua/</loc>
+    <lastmod>2026-10-19T06:11:56Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-allaudin-adb-automation-mcp/</loc>
@@ -985,6 +1033,10 @@
     <lastmod>2026-11-04T17:40:06Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-awlevin-typesafe-computer-use/</loc>
+    <lastmod>2026-10-18T11:53:13Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-axisvela-praxovela-open/</loc>
     <lastmod>2026-11-04T16:56:39Z</lastmod>
   </url>
@@ -1039,6 +1091,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-baryhuang-claude-code-by-agents/</loc>
     <lastmod>2026-11-04T13:42:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-baryhuang-mcp-remote-macos-use/</loc>
+    <lastmod>2026-10-20T08:11:40Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-bb-fat-browser-use-rs/</loc>
@@ -1125,6 +1181,10 @@
     <lastmod>2026-11-04T13:22:42Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-billy-enrizky-openbrowser-ai/</loc>
+    <lastmod>2026-10-18T15:33:22Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-bin123apple-gui-spotlight/</loc>
     <lastmod>2026-11-04T14:07:23Z</lastmod>
   </url>
@@ -1206,15 +1266,23 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-browser-use-browser-use/</loc>
-    <lastmod>2026-10-16T06:42:05Z</lastmod>
+    <lastmod>2026-10-20T07:41:55Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-browser-use-bux/</loc>
     <lastmod>2026-11-04T16:13:52Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-browser-use-desktop/</loc>
+    <lastmod>2026-10-19T06:18:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-browser-use-macos-harness/</loc>
     <lastmod>2026-11-04T17:26:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-browser-use-macos-use/</loc>
+    <lastmod>2026-10-18T11:12:59Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-browser-use-terminal/</loc>
@@ -1223,6 +1291,14 @@
   <url>
     <loc>https://awesomecua.com/resources/github-browser-use-web-ui/</loc>
     <lastmod>2026-10-17T04:02:45Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-browser-use-workflow-use/</loc>
+    <lastmod>2026-10-18T11:14:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-browserable-browserable/</loc>
+    <lastmod>2026-10-19T06:19:15Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-browserbase-modcdp/</loc>
@@ -1235,6 +1311,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-browserkit-dev-browserkit/</loc>
     <lastmod>2026-11-04T15:45:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-browseroperator-browser-operator-core/</loc>
+    <lastmod>2026-10-19T06:14:52Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-browseros-ai-browseros/</loc>
@@ -1309,12 +1389,16 @@
     <lastmod>2026-10-17T18:05:46Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-bytedance-seed-seed1-5-vl/</loc>
+    <lastmod>2026-10-18T11:12:58Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/</loc>
     <lastmod>2026-10-16T06:42:03Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-bytedance-ui-tars/</loc>
-    <lastmod>2026-10-16T06:50:49Z</lastmod>
+    <lastmod>2026-10-20T07:42:02Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-bytehunt-br/</loc>
@@ -1526,7 +1610,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/</loc>
-    <lastmod>2026-10-16T06:42:07Z</lastmod>
+    <lastmod>2026-10-18T15:39:55Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-chromedp-chromedp/</loc>
@@ -1535,6 +1619,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/</loc>
     <lastmod>2026-11-04T18:16:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-chy4pro-jev-for-chrome/</loc>
+    <lastmod>2026-10-18T16:05:11Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-ciky20171114-dsh-plugin-midscene/</loc>
@@ -1591,6 +1679,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-cmalpass-clif/</loc>
     <lastmod>2026-11-04T15:23:03Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-cmu-l3-gym-anything/</loc>
+    <lastmod>2026-10-19T06:45:58Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/</loc>
@@ -1653,8 +1745,16 @@
     <lastmod>2026-11-04T16:57:20Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-composio-community-open-chatgpt-atlas/</loc>
+    <lastmod>2026-10-18T12:20:47Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-computer-use-agents-dart-gui/</loc>
     <lastmod>2026-11-04T14:07:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-computer-use-agents-macos-agent/</loc>
+    <lastmod>2026-10-19T06:14:40Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-computeruseagent-autocua/</loc>
@@ -1671,6 +1771,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-contextmirror-voice-mirror/</loc>
     <lastmod>2026-11-04T13:42:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-convergence-ai-proxy-lite/</loc>
+    <lastmod>2026-10-19T06:48:10Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-convergence-ai-webgames/</loc>
@@ -1735,6 +1839,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-cufelix-lai/</loc>
     <lastmod>2026-11-04T17:20:51Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-cuga-project-cuga-agent/</loc>
+    <lastmod>2026-10-18T11:58:29Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-cursortouch-macos-mcp/</loc>
@@ -1811,6 +1919,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-damien-robotsix-robotsix-browser/</loc>
     <lastmod>2026-11-04T18:00:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-danielpquinn-browsegpt/</loc>
+    <lastmod>2026-10-19T07:16:33Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-darkspaz-v1-shortcut-pad-mcp/</loc>
@@ -1891,6 +2003,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-deedy-mac-computer-use/</loc>
     <lastmod>2026-11-04T13:12:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-deepfundai-ai-browser/</loc>
+    <lastmod>2026-10-18T15:41:39Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-delltrak-myfood-hermes-agent/</loc>
@@ -1978,7 +2094,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-digirl-agent-digirl/</loc>
-    <lastmod>2026-10-16T06:42:05Z</lastmod>
+    <lastmod>2026-10-19T06:58:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-dilawarshafiq-camel-ai/</loc>
@@ -1995,6 +2111,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-dimpagk92-cellar/</loc>
     <lastmod>2026-11-04T16:13:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-discoailab-osworld-science/</loc>
+    <lastmod>2026-10-18T12:34:15Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-distrl-lab-distrl-open/</loc>
@@ -2037,8 +2157,12 @@
     <lastmod>2026-11-04T16:35:38Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-dom-actions-doma/</loc>
+    <lastmod>2026-10-18T15:43:32Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-dongping-chen-gui-world/</loc>
-    <lastmod>2026-10-17T02:09:27Z</lastmod>
+    <lastmod>2026-10-18T11:41:50Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-dongsheng123132-zhaozuo/</loc>
@@ -2071,6 +2195,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-draiqw-browser-agent/</loc>
     <lastmod>2026-11-04T18:16:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-drewnekota-cetus/</loc>
+    <lastmod>2026-10-18T15:39:55Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-drisplabs-browser-mcp/</loc>
@@ -2163,6 +2291,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-ebt55-proofpack/</loc>
     <lastmod>2026-11-04T17:26:40Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-echovic-orca-agent/</loc>
+    <lastmod>2026-10-20T08:18:12Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-edenbuilds-touchline/</loc>
@@ -2321,12 +2453,20 @@
     <lastmod>2026-11-04T14:24:20Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-ethz-spylab-agentdojo/</loc>
+    <lastmod>2026-10-18T11:07:25Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-euphoria16-ui-genie/</loc>
     <lastmod>2026-10-17T04:05:42Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-evalutik-ai-partner-catalyst/</loc>
     <lastmod>2026-11-04T15:57:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-everfern-ai-everfern/</loc>
+    <lastmod>2026-10-20T08:15:55Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-everyinfra-everysolve-plugin/</loc>
@@ -2441,6 +2581,10 @@
     <lastmod>2026-11-04T15:22:51Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/</loc>
+    <lastmod>2026-10-18T11:33:53Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-feder-cr-invisible-playwright/</loc>
     <lastmod>2026-11-04T13:23:36Z</lastmod>
   </url>
@@ -2479,6 +2623,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-flrngel-mcp-master-puppeteer/</loc>
     <lastmod>2026-11-04T15:03:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-fluidinference-fluiduse/</loc>
+    <lastmod>2026-10-20T08:08:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-fluxaster-mai/</loc>
@@ -2551,6 +2699,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-furyydev-medisetu-lens/</loc>
     <lastmod>2026-11-04T18:00:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-futuresis-gui-trajectory-virtual/</loc>
+    <lastmod>2026-10-18T15:56:48Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-fy2ne-vact/</loc>
@@ -2641,8 +2793,16 @@
     <lastmod>2026-11-04T16:35:19Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/</loc>
+    <lastmod>2026-10-20T07:38:59Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-ghadinehme-videocad/</loc>
     <lastmod>2026-10-18T12:22:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-ghorbelhamdi-buddy-android/</loc>
+    <lastmod>2026-10-20T08:13:08Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-ghost-in-the-droid-android-agent/</loc>
@@ -2651,6 +2811,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-ghostwright-ghost-os/</loc>
     <lastmod>2026-11-04T13:23:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-ghostwright-shadow/</loc>
+    <lastmod>2026-10-20T08:22:40Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-ghoui-winreach-mcp/</loc>
@@ -2722,7 +2886,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-google-deepmind-android-env/</loc>
-    <lastmod>2026-10-17T15:37:20Z</lastmod>
+    <lastmod>2026-10-20T07:41:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-google-deepmind-pix2act/</loc>
@@ -2734,11 +2898,15 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-google-research-android-world/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-20T07:41:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/</loc>
     <lastmod>2026-11-04T13:22:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/</loc>
+    <lastmod>2026-10-18T12:33:53Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-google-research-datasets-screen-qa/</loc>
@@ -2746,7 +2914,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-google-research-datasets-screen2words/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-18T12:05:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-google-research-datasets-uibert/</loc>
@@ -2845,6 +3013,10 @@
     <lastmod>2026-11-04T17:40:29Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-hacker-valley-media-interceptor/</loc>
+    <lastmod>2026-10-19T06:19:26Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-haden-min-haden-browser/</loc>
     <lastmod>2026-11-04T17:27:09Z</lastmod>
   </url>
@@ -2859,6 +3031,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-haixu8396-png-aileen-desktop/</loc>
     <lastmod>2026-11-04T17:55:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-halluminate-webbench/</loc>
+    <lastmod>2026-10-18T11:13:44Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-haneiva1-safari-mcp/</loc>
@@ -2913,6 +3089,10 @@
     <lastmod>2026-11-04T14:24:27Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-hcompai-surfer-h-cli/</loc>
+    <lastmod>2026-10-18T12:33:42Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-hedelka-prodjest/</loc>
     <lastmod>2026-11-04T17:27:09Z</lastmod>
   </url>
@@ -2959,6 +3139,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-hkuds-fastagent/</loc>
     <lastmod>2026-11-04T14:23:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-hkuds-phonecli/</loc>
+    <lastmod>2026-10-18T11:56:35Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-hlh2023-terminal-use-mcp/</loc>
@@ -3043,6 +3227,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-huggingface-screensuite/</loc>
     <lastmod>2026-10-17T09:23:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-huggingface-smol2operator/</loc>
+    <lastmod>2026-10-18T11:12:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-huia711-scor/</loc>
@@ -3145,6 +3333,14 @@
     <lastmod>2026-11-04T13:23:39Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-ifuryst-open-computer-use/</loc>
+    <lastmod>2026-10-18T11:36:54Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-ilearn-lab-acl25-gui-explorer/</loc>
+    <lastmod>2026-10-18T11:31:25Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-ilyaskhallouki-hypruse/</loc>
     <lastmod>2026-11-04T16:57:04Z</lastmod>
   </url>
@@ -3154,7 +3350,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-imeanai-webcanvas/</loc>
-    <lastmod>2026-10-16T10:50:15Z</lastmod>
+    <lastmod>2026-10-18T15:46:21Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-immineal-cdp-drive/</loc>
@@ -3163,6 +3359,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-imnearth-coat/</loc>
     <lastmod>2026-10-17T12:50:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-imoonkey-closepaw/</loc>
+    <lastmod>2026-10-19T07:04:46Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-imshaikot-browsentic/</loc>
@@ -3293,6 +3493,10 @@
     <lastmod>2026-11-04T18:17:08Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-james4ever0-agi-computer-control/</loc>
+    <lastmod>2026-10-18T11:29:05Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-jameswirths-threadline/</loc>
     <lastmod>2026-11-04T18:16:21Z</lastmod>
   </url>
@@ -3345,12 +3549,20 @@
     <lastmod>2026-11-04T16:35:14Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-jeffrey-zang-opus/</loc>
+    <lastmod>2026-10-20T08:11:21Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-jemo19-chatgpt-pro-workforce/</loc>
     <lastmod>2026-11-04T18:00:56Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-jeomon-macos-use/</loc>
     <lastmod>2026-11-04T16:10:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-jeomon-windows-use/</loc>
+    <lastmod>2026-10-18T10:57:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-jeremiahm37-action-receipt/</loc>
@@ -3549,6 +3761,10 @@
     <lastmod>2026-10-17T14:23:14Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-k4cper-g-agent-ctrl/</loc>
+    <lastmod>2026-10-20T08:22:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-kageroumado-rocuronium/</loc>
     <lastmod>2026-11-04T17:39:43Z</lastmod>
   </url>
@@ -3575,6 +3791,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-kanchengw-dsh-mindseye/</loc>
     <lastmod>2026-11-04T17:27:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-kane2kang-longhorizonui/</loc>
+    <lastmod>2026-10-20T07:39:57Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-kareemheshaam-reqvexa/</loc>
@@ -3685,6 +3905,10 @@
     <lastmod>2026-11-04T16:14:18Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-kortix-ai-agent-computer-use/</loc>
+    <lastmod>2026-10-20T08:36:56Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-kortix-ai-suna/</loc>
     <lastmod>2026-11-04T13:12:20Z</lastmod>
   </url>
@@ -3703,6 +3927,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-kov-caravela/</loc>
     <lastmod>2026-11-04T16:30:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-kuafuai-andee/</loc>
+    <lastmod>2026-10-20T08:00:30Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-kubstack-appwalk/</loc>
@@ -3873,6 +4101,10 @@
     <lastmod>2026-10-18T13:13:38Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-lgy0404-memgui-bench/</loc>
+    <lastmod>2026-10-19T07:06:23Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/</loc>
     <lastmod>2026-11-04T18:00:59Z</lastmod>
   </url>
@@ -3933,6 +4165,10 @@
     <lastmod>2026-10-16T11:51:16Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-ljang0-odysseys/</loc>
+    <lastmod>2026-10-19T07:11:32Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-llamatouch-llamatouch/</loc>
     <lastmod>2026-10-17T02:09:27Z</lastmod>
   </url>
@@ -3947,6 +4183,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-llm-in-sandbox-llm-in-sandbox/</loc>
     <lastmod>2026-11-04T13:22:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-lmnr-ai-index/</loc>
+    <lastmod>2026-10-18T11:38:20Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-lo2589-vco/</loc>
@@ -4141,6 +4381,10 @@
     <lastmod>2026-11-04T17:27:13Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-magnitudedev-browser-agent/</loc>
+    <lastmod>2026-10-18T11:10:25Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-magnusdot-aclaw/</loc>
     <lastmod>2026-11-04T18:16:25Z</lastmod>
   </url>
@@ -4270,7 +4514,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-mcgill-nlp-weblinx/</loc>
-    <lastmod>2026-10-17T12:50:26Z</lastmod>
+    <lastmod>2026-10-18T15:49:51Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-mcgill-nlp-webllama/</loc>
@@ -4385,6 +4629,10 @@
     <lastmod>2026-11-04T16:34:37Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/</loc>
+    <lastmod>2026-10-18T16:09:51Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-microsoft-autogen/</loc>
     <lastmod>2026-11-04T13:46:51Z</lastmod>
   </url>
@@ -4393,8 +4641,12 @@
     <lastmod>2026-10-17T19:15:01Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-microsoft-five-ui-evol/</loc>
+    <lastmod>2026-10-19T07:09:21Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-microsoft-gui-actor/</loc>
-    <lastmod>2026-10-16T06:50:49Z</lastmod>
+    <lastmod>2026-10-18T12:04:11Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-microsoft-gui-agent-rl/</loc>
@@ -4450,7 +4702,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-microsoft-windowsagentarena/</loc>
-    <lastmod>2026-10-17T02:09:27Z</lastmod>
+    <lastmod>2026-10-20T07:40:03Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-midorikuramochi-intent-relay/</loc>
@@ -4501,6 +4753,14 @@
     <lastmod>2026-11-04T16:56:37Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-milind-soni-openmausbot/</loc>
+    <lastmod>2026-10-18T11:40:33Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-milind-soni-tiptour-macos/</loc>
+    <lastmod>2026-10-19T06:14:21Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-mindattic-automata/</loc>
     <lastmod>2026-11-04T17:39:55Z</lastmod>
   </url>
@@ -4530,7 +4790,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-minorjerry-webvoyager/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-19T06:04:39Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-mintplex-labs-anything-llm/</loc>
@@ -4563,6 +4823,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-mkhan49-governed-computer-use/</loc>
     <lastmod>2026-11-04T14:41:50Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-mlfoundations-gelato/</loc>
+    <lastmod>2026-10-18T15:56:18Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-mm-sheng-404-directory/</loc>
@@ -4613,6 +4877,10 @@
     <lastmod>2026-11-04T18:11:31Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-moeru-ai-auv/</loc>
+    <lastmod>2026-10-20T08:06:33Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-mofangbao-midscene-pc/</loc>
     <lastmod>2026-11-04T15:57:30Z</lastmod>
   </url>
@@ -4639,6 +4907,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-montbrain-vadgr-computer-use/</loc>
     <lastmod>2026-11-04T16:14:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-moonshotai-kimi-vl/</loc>
+    <lastmod>2026-10-18T11:14:37Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-moontea0416-webmirage/</loc>
@@ -4846,7 +5118,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-neulab-multiui/</loc>
-    <lastmod>2026-10-17T02:09:27Z</lastmod>
+    <lastmod>2026-10-18T16:06:37Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-newsbruno-statepilot/</loc>
@@ -4917,6 +5189,10 @@
     <lastmod>2026-10-16T10:50:15Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-njucckevin-openmobile-code/</loc>
+    <lastmod>2026-10-19T06:54:58Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-njucckevin-seeclick/</loc>
     <lastmod>2026-10-16T06:42:00Z</lastmod>
   </url>
@@ -4927,6 +5203,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-normal-computing-fuji-web/</loc>
     <lastmod>2026-11-04T13:23:25Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-normal-computing-oss-fuji-web/</loc>
+    <lastmod>2026-10-18T12:00:04Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-norrrrrrr-lyn-wainjectbench/</loc>
@@ -4946,7 +5226,11 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-nottelabs-notte/</loc>
-    <lastmod>2026-10-16T06:36:04Z</lastmod>
+    <lastmod>2026-10-20T07:41:55Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-nottelabs-open-operator-evals/</loc>
+    <lastmod>2026-10-19T06:04:39Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-nousresearch-hermes-agent/</loc>
@@ -5077,6 +5361,10 @@
     <lastmod>2026-11-04T13:46:56Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-oomol-lab-wanta/</loc>
+    <lastmod>2026-10-18T16:14:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/</loc>
     <lastmod>2026-11-04T17:30:41Z</lastmod>
   </url>
@@ -5095,6 +5383,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-openai-codex/</loc>
     <lastmod>2026-11-04T13:42:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-openai-openai-cua-sample-app/</loc>
+    <lastmod>2026-10-18T11:15:18Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-openai-universe/</loc>
@@ -5119,6 +5411,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-openbmb-tell-me-more/</loc>
     <lastmod>2026-11-04T13:41:32Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-openbrowserai-openbrowser/</loc>
+    <lastmod>2026-10-18T16:11:50Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-openclaw-openclaw/</loc>
@@ -5146,7 +5442,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-opengvlab-gui-odyssey/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-18T12:08:34Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-opengvlab-internvl/</loc>
@@ -5217,12 +5513,16 @@
     <lastmod>2026-11-04T18:17:12Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-orgoai-bops/</loc>
+    <lastmod>2026-10-20T08:17:27Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-orvii-doppel/</loc>
     <lastmod>2026-11-04T14:07:46Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-os-copilot-os-atlas/</loc>
-    <lastmod>2026-10-16T06:50:49Z</lastmod>
+    <lastmod>2026-10-18T12:03:56Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-os-copilot-os-copilot/</loc>
@@ -5245,8 +5545,12 @@
     <lastmod>2026-11-04T14:45:11Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-os-copilot-osreward/</loc>
+    <lastmod>2026-10-20T07:40:03Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-os-copilot-scienceboard/</loc>
-    <lastmod>2026-10-17T14:35:24Z</lastmod>
+    <lastmod>2026-10-18T12:15:13Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-osamalvzx-universal-ai-studio/</loc>
@@ -5270,15 +5574,15 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/</loc>
-    <lastmod>2026-10-17T17:18:56Z</lastmod>
+    <lastmod>2026-10-18T16:01:54Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-osu-nlp-group-mind2web/</loc>
-    <lastmod>2026-10-17T02:09:27Z</lastmod>
+    <lastmod>2026-10-18T16:06:37Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-osu-nlp-group-online-mind2web/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-18T11:40:00Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-osu-nlp-group-redteamcua/</loc>
@@ -5305,6 +5609,10 @@
     <lastmod>2026-10-18T11:03:46Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-ota-tech-ai-web-agent-protocol/</loc>
+    <lastmod>2026-10-19T06:13:19Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-othersideai-self-operating-computer/</loc>
     <lastmod>2026-10-16T06:42:04Z</lastmod>
   </url>
@@ -5315,6 +5623,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-ottohere-mourn-teachreplay/</loc>
     <lastmod>2026-11-04T14:24:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-outcrawlai-scout/</loc>
+    <lastmod>2026-10-19T06:16:14Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser/</loc>
@@ -5473,6 +5785,10 @@
     <lastmod>2026-11-04T16:57:35Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/</loc>
+    <lastmod>2026-10-18T15:44:45Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-philfung-computer-use/</loc>
     <lastmod>2026-11-04T13:12:31Z</lastmod>
   </url>
@@ -5549,6 +5865,10 @@
     <lastmod>2026-11-04T15:57:41Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-pmbstyle-gemini-browser-agent/</loc>
+    <lastmod>2026-10-20T08:42:08Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-pnx89-questz/</loc>
     <lastmod>2026-11-04T17:26:51Z</lastmod>
   </url>
@@ -5585,6 +5905,10 @@
     <lastmod>2026-11-04T17:40:17Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-prakhar1114-ai-mime/</loc>
+    <lastmod>2026-10-20T08:41:20Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-pranavgawasproject-secure-browser-mcp/</loc>
     <lastmod>2026-11-04T16:51:54Z</lastmod>
   </url>
@@ -5601,6 +5925,10 @@
     <lastmod>2026-11-04T14:07:44Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-princechouhan19-opencometai/</loc>
+    <lastmod>2026-10-18T16:19:40Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-princeton-ai2-lab-avenir-web/</loc>
     <lastmod>2026-11-04T14:45:17Z</lastmod>
   </url>
@@ -5610,7 +5938,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-princeton-nlp-webshop/</loc>
-    <lastmod>2026-10-17T02:09:27Z</lastmod>
+    <lastmod>2026-10-20T07:40:09Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-prisacariurobert-sidemates/</loc>
@@ -5817,6 +6145,10 @@
     <lastmod>2026-11-04T18:17:14Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-reacher-z-harnessbench/</loc>
+    <lastmod>2026-10-18T16:03:20Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-reallm-labs-infigui-r1/</loc>
     <lastmod>2026-10-16T06:42:01Z</lastmod>
   </url>
@@ -5893,6 +6225,10 @@
     <lastmod>2026-11-04T13:12:33Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-richardhruby-login-machine/</loc>
+    <lastmod>2026-10-18T12:26:44Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-ridelink0-claude-computer-use/</loc>
     <lastmod>2026-11-04T14:24:24Z</lastmod>
   </url>
@@ -5915,6 +6251,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-rizonetech-chromemcp/</loc>
     <lastmod>2026-11-04T16:14:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-rkvalandas-browser-agent/</loc>
+    <lastmod>2026-10-18T16:15:52Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-roadmvn-linux-computer-use/</loc>
@@ -6041,6 +6381,10 @@
     <lastmod>2026-11-04T14:02:44Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-saidgurbuz-screenparse/</loc>
+    <lastmod>2026-10-18T15:42:37Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-saik0s-mcp-browser-use/</loc>
     <lastmod>2026-11-06T16:36:28Z</lastmod>
   </url>
@@ -6157,6 +6501,10 @@
     <lastmod>2026-11-04T17:30:42Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-savka777-jev-use/</loc>
+    <lastmod>2026-10-20T07:55:53Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-sawyerhood-dev-browser/</loc>
     <lastmod>2026-11-04T13:23:43Z</lastmod>
   </url>
@@ -6205,6 +6553,10 @@
     <lastmod>2026-11-04T17:55:20Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-secondly-com-openphone/</loc>
+    <lastmod>2026-10-18T15:46:37Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-secretxuan-dsh-computer-use-win/</loc>
     <lastmod>2026-11-04T17:27:18Z</lastmod>
   </url>
@@ -6233,6 +6585,10 @@
     <lastmod>2026-11-06T16:36:31Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-seleniumhq-selenium/</loc>
+    <lastmod>2026-10-20T07:47:28Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-sentient-engineering-agent-q/</loc>
     <lastmod>2026-11-04T13:22:49Z</lastmod>
   </url>
@@ -6246,15 +6602,23 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-servicenow-agentlab/</loc>
-    <lastmod>2026-10-16T10:50:15Z</lastmod>
+    <lastmod>2026-10-20T07:40:09Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-servicenow-browsergym/</loc>
-    <lastmod>2026-10-17T14:22:05Z</lastmod>
+    <lastmod>2026-10-20T07:40:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-servicenow-doomarena/</loc>
+    <lastmod>2026-10-18T11:03:02Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-servicenow-groundcua/</loc>
     <lastmod>2026-11-04T13:12:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-servicenow-webarena-verified/</loc>
+    <lastmod>2026-10-18T11:07:02Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-servicenow-workarena/</loc>
@@ -6291,6 +6655,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-shahriarshm-planchette/</loc>
     <lastmod>2026-11-04T16:35:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/</loc>
+    <lastmod>2026-10-18T15:56:47Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-shameindemgg-eyehands/</loc>
@@ -6337,6 +6705,14 @@
     <lastmod>2026-11-04T13:12:35Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/</loc>
+    <lastmod>2026-10-18T12:13:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-shiinahiiragi-kalgebra/</loc>
+    <lastmod>2026-10-18T12:15:13Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-shivampatel0714-maponce/</loc>
     <lastmod>2026-11-04T16:56:36Z</lastmod>
   </url>
@@ -6374,7 +6750,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-showlab-showui/</loc>
-    <lastmod>2026-10-17T19:14:58Z</lastmod>
+    <lastmod>2026-10-20T08:22:40Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-showlab-videogui/</loc>
@@ -6537,6 +6913,10 @@
     <lastmod>2026-11-04T18:17:17Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-socai-io-socai/</loc>
+    <lastmod>2026-10-18T15:48:22Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-sohan-a11y-auth-synchronizer/</loc>
     <lastmod>2026-11-04T17:27:19Z</lastmod>
   </url>
@@ -6589,12 +6969,20 @@
     <lastmod>2026-11-04T18:00:24Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-souravberaakaspeed-xiryn/</loc>
+    <lastmod>2026-10-20T08:14:47Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-souravinsights-webmcp-stack/</loc>
     <lastmod>2026-11-04T18:00:25Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-sp42k-cfbrowse/</loc>
     <lastmod>2026-11-04T18:01:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-sparklabutah-timewarp/</loc>
+    <lastmod>2026-10-20T07:40:09Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/</loc>
@@ -6623,6 +7011,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-stanfordnlp-wge/</loc>
     <lastmod>2026-10-17T11:38:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-starwalkin-ui-nexus/</loc>
+    <lastmod>2026-10-20T07:41:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-status-labs-boxcar/</loc>
@@ -6917,6 +7309,10 @@
     <lastmod>2026-11-04T16:14:15Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-thinkflowlab-system1-agents/</loc>
+    <lastmod>2026-10-18T15:37:56Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-thispc-humanhands/</loc>
     <lastmod>2026-11-04T18:11:31Z</lastmod>
   </url>
@@ -6978,7 +7374,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-thudm-scale-cua/</loc>
-    <lastmod>2026-10-16T11:15:49Z</lastmod>
+    <lastmod>2026-10-19T06:05:20Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-thudm-visualagentbench/</loc>
@@ -7069,6 +7465,10 @@
     <lastmod>2026-11-04T16:57:04Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-tobiasnorlund-ui-act-model/</loc>
+    <lastmod>2026-10-18T15:58:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-tobiasnorlund-ui-act/</loc>
     <lastmod>2026-11-04T13:23:27Z</lastmod>
   </url>
@@ -7098,7 +7498,11 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-tongyi-mai-mobileworld/</loc>
-    <lastmod>2026-10-17T09:23:20Z</lastmod>
+    <lastmod>2026-10-19T07:06:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-tony3liu-eido/</loc>
+    <lastmod>2026-10-20T08:35:20Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-toolshedlabs-hash-pagewatch-mcp/</loc>
@@ -7150,7 +7554,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-trycua-cua/</loc>
-    <lastmod>2026-10-16T06:42:07Z</lastmod>
+    <lastmod>2026-10-20T08:35:20Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-trycua-lume/</loc>
@@ -7175,6 +7579,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/</loc>
     <lastmod>2026-11-04T17:40:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-turbo1123-roubao/</loc>
+    <lastmod>2026-10-20T07:57:19Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-turixai-turix-cua/</loc>
@@ -7237,6 +7645,10 @@
     <lastmod>2026-10-16T06:42:01Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-uiuing-browser-agent/</loc>
+    <lastmod>2026-10-18T15:57:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-ukgovernmentbeis-inspect-evals/</loc>
     <lastmod>2026-11-04T13:41:32Z</lastmod>
   </url>
@@ -7281,6 +7693,10 @@
     <lastmod>2026-11-04T16:51:50Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-unmodeled-tyler-vessel-browser/</loc>
+    <lastmod>2026-10-18T15:50:51Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-uoox-amcu/</loc>
     <lastmod>2026-11-04T16:57:25Z</lastmod>
   </url>
@@ -7317,6 +7733,10 @@
     <lastmod>2026-11-04T14:45:29Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/</loc>
+    <lastmod>2026-10-20T08:00:30Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-vedanshu7-operant/</loc>
     <lastmod>2026-11-04T17:30:41Z</lastmod>
   </url>
@@ -7341,6 +7761,10 @@
     <lastmod>2026-10-17T04:02:45Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-vercel-labs-ai-sdk-computer-use/</loc>
+    <lastmod>2026-10-20T04:04:16Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-verigui-team-verigui/</loc>
     <lastmod>2026-10-16T06:41:59Z</lastmod>
   </url>
@@ -7359,6 +7783,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/</loc>
     <lastmod>2026-11-04T14:02:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/</loc>
+    <lastmod>2026-10-19T06:20:04Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-vibheksoni-stealth-browser-mcp/</loc>
@@ -7423,6 +7851,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-vitalcc55-okno/</loc>
     <lastmod>2026-11-04T15:58:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-vitalops-opendesk/</loc>
+    <lastmod>2026-10-20T08:17:48Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-vitoworleone-bond-underwriting-agent-benchmark/</loc>
@@ -7525,12 +7957,20 @@
     <lastmod>2026-10-16T11:51:16Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-web-arena-x-webarena-infinity/</loc>
+    <lastmod>2026-10-20T04:07:54Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-web-arena-x-webarena/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-19T07:15:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-web-infra-dev-midscene/</loc>
     <lastmod>2026-10-16T06:42:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-webagent-cloud-webagent/</loc>
+    <lastmod>2026-10-20T07:41:55Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-webbrain-one-webbrain/</loc>
@@ -7567,6 +8007,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-wh0ami3-wayland-computer-use/</loc>
     <lastmod>2026-11-04T16:57:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-whitzardagent-mirrorguard/</loc>
+    <lastmod>2026-10-19T06:51:27Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-whyymj-page-agent-sdk/</loc>
@@ -7633,6 +8077,10 @@
     <lastmod>2026-11-04T17:40:50Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-wsk-build-dshbox/</loc>
+    <lastmod>2026-10-18T15:45:49Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-wuklab-osworld-human/</loc>
     <lastmod>2026-10-17T04:05:42Z</lastmod>
   </url>
@@ -7654,7 +8102,11 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-wwh0411-fedmabench/</loc>
-    <lastmod>2026-10-17T11:38:10Z</lastmod>
+    <lastmod>2026-10-18T16:06:25Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-wxl-lxw-websentinel/</loc>
+    <lastmod>2026-10-18T15:39:32Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-wz289494-webcli/</loc>
@@ -7797,6 +8249,10 @@
     <lastmod>2026-10-16T06:36:00Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/</loc>
+    <lastmod>2026-10-20T07:42:02Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/github-xlang-ai-cua-gym-hub/</loc>
     <lastmod>2026-11-04T14:23:33Z</lastmod>
   </url>
@@ -7818,7 +8274,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-xlang-ai-osworld/</loc>
-    <lastmod>2026-10-17T09:23:20Z</lastmod>
+    <lastmod>2026-10-20T07:42:02Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-xlang-ai-spider2-v/</loc>
@@ -7883,6 +8339,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-yayaq1-nightshift/</loc>
     <lastmod>2026-11-04T17:59:59Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-yeahhe365-webdroid-agent/</loc>
+    <lastmod>2026-10-18T15:44:10Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-yeqi99-canpgrid/</loc>
@@ -7982,7 +8442,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-yuxiangchai-amex-codebase/</loc>
-    <lastmod>2026-10-18T04:27:11Z</lastmod>
+    <lastmod>2026-10-19T06:22:26Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-yuxuan2003-awesome-gui-agent-security/</loc>
@@ -8027,6 +8487,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-zachrouan-gridhand/</loc>
     <lastmod>2026-11-04T15:58:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-zai-org-glm-v/</loc>
+    <lastmod>2026-10-18T11:10:25Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-zai-org-open-autoglm/</loc>
@@ -8122,11 +8586,15 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-zju-real-gui-g2/</loc>
-    <lastmod>2026-10-16T06:36:00Z</lastmod>
+    <lastmod>2026-10-18T16:05:35Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-zju-real-gui-rcpo/</loc>
     <lastmod>2026-10-17T12:50:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-zjulihongxin-autogui/</loc>
+    <lastmod>2026-10-19T07:03:30Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-zjuscl-mvp/</loc>
@@ -8139,6 +8607,10 @@
   <url>
     <loc>https://awesomecua.com/resources/github-znfr60-o-yuan-agent/</loc>
     <lastmod>2026-11-04T18:00:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/github-zorazrw-agent-skill-induction/</loc>
+    <lastmod>2026-10-19T07:15:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/github-zorazrw-agent-workflow-memory/</loc>
@@ -8210,7 +8682,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/organization-anthropic/</loc>
-    <lastmod>2026-10-16T06:40:54Z</lastmod>
+    <lastmod>2026-10-19T06:25:41Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/organization-askui/</loc>
@@ -8218,7 +8690,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/organization-browser-use/</loc>
-    <lastmod>2026-10-16T06:42:05Z</lastmod>
+    <lastmod>2026-10-19T06:18:50Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/organization-browseract/</loc>
@@ -8238,11 +8710,11 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/organization-google/</loc>
-    <lastmod>2026-10-16T06:38:27Z</lastmod>
+    <lastmod>2026-10-19T06:19:24Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/organization-h/</loc>
-    <lastmod>2026-10-16T06:38:27Z</lastmod>
+    <lastmod>2026-10-19T07:14:40Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/organization-hyperbrowser/</loc>
@@ -8253,12 +8725,16 @@
     <lastmod>2026-10-16T06:38:28Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/organization-microsoft/</loc>
+    <lastmod>2026-10-18T11:10:02Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/organization-openai/</loc>
-    <lastmod>2026-10-16T06:40:54Z</lastmod>
+    <lastmod>2026-10-18T11:15:18Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/organization-simular/</loc>
-    <lastmod>2026-10-16T06:42:03Z</lastmod>
+    <lastmod>2026-10-18T15:34:52Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/organization-skyvern/</loc>
@@ -8277,6 +8753,18 @@
     <lastmod>2026-10-17T05:28:19Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-03ffa3f28413bc2edb1b/</loc>
+    <lastmod>2026-10-18T15:46:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-040e17448d9d190b3c14/</loc>
+    <lastmod>2026-10-20T04:33:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-0447e1fb83a794507aa2/</loc>
+    <lastmod>2026-10-18T11:34:44Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-04aa7569d183379d615c/</loc>
     <lastmod>2026-10-18T04:56:53Z</lastmod>
   </url>
@@ -8285,8 +8773,20 @@
     <lastmod>2026-10-16T06:38:28Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-058cb7a92cba506f9739/</loc>
+    <lastmod>2026-10-18T15:40:32Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-05a9a7c592089d1ddd46/</loc>
+    <lastmod>2026-10-18T15:46:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-0627940da1b988739f75/</loc>
+    <lastmod>2026-10-18T15:46:44Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-06dd5ac7917c45d48509/</loc>
-    <lastmod>2026-10-17T14:21:11Z</lastmod>
+    <lastmod>2026-10-18T11:12:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-07b65dc937756ddff4a1/</loc>
@@ -8297,36 +8797,84 @@
     <lastmod>2026-10-16T06:40:54Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-07f92766e53439739eab/</loc>
+    <lastmod>2026-10-20T04:12:31Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-085b6811ddd6f797475d/</loc>
     <lastmod>2026-10-17T09:27:22Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-0919e695670c5740a123/</loc>
+    <lastmod>2026-10-18T15:41:58Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-099451a33699510476df/</loc>
+    <lastmod>2026-10-18T12:32:54Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-0af07e00658a430cee6a/</loc>
-    <lastmod>2026-10-17T04:05:42Z</lastmod>
+    <lastmod>2026-10-18T15:57:24Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-0b134b082a7bd507fc6a/</loc>
-    <lastmod>2026-10-17T12:50:26Z</lastmod>
+    <lastmod>2026-10-18T12:33:53Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-0b590d03a3d5103a79e4/</loc>
     <lastmod>2026-10-16T06:38:26Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-0b94b29f2afbfe8a3abb/</loc>
+    <lastmod>2026-10-18T12:04:44Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-0bdd6b5ebf2e1f248828/</loc>
     <lastmod>2026-10-16T06:38:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-0c400260635b7e4ab7c0/</loc>
+    <lastmod>2026-10-18T12:02:04Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-0c5659ca9e59d942aea3/</loc>
     <lastmod>2026-10-17T02:04:54Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-0c9ce9f220b2fdfd70b0/</loc>
+    <lastmod>2026-10-18T15:44:37Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-0dbb55f127da04d95222/</loc>
-    <lastmod>2026-10-17T05:28:19Z</lastmod>
+    <lastmod>2026-10-18T16:20:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-0fdeb1cf5f49f84820e6/</loc>
     <lastmod>2026-10-16T11:51:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-1001251b5a7729988118/</loc>
+    <lastmod>2026-10-18T12:26:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-108b77e28d55eb662bf5/</loc>
+    <lastmod>2026-10-20T04:28:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-10a75e1b7b975b3617ae/</loc>
+    <lastmod>2026-10-18T12:12:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-114ced4a94d12f384d69/</loc>
+    <lastmod>2026-10-19T06:56:45Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-116431f8ea32dbc6d637/</loc>
+    <lastmod>2026-10-18T12:24:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-12d789d450207bd6d5da/</loc>
+    <lastmod>2026-10-19T06:19:24Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-13b9442bcb6a8b984c4f/</loc>
@@ -8339,6 +8887,10 @@
   <url>
     <loc>https://awesomecua.com/resources/url-149769d8bf07b7fbabdc/</loc>
     <lastmod>2026-11-02T17:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-1517e989c470563bd08d/</loc>
+    <lastmod>2026-10-18T15:49:51Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-15ed5fd3cd950d837f98/</loc>
@@ -8361,24 +8913,68 @@
     <lastmod>2026-10-17T05:28:19Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-174e10a319d62c338879/</loc>
+    <lastmod>2026-10-18T15:38:00Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-17729e1c532ba7043404/</loc>
     <lastmod>2026-10-17T05:31:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-17a0422036ebea8d4e93/</loc>
+    <lastmod>2026-10-18T12:24:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-1807bdb33fc352a97240/</loc>
+    <lastmod>2026-10-18T15:43:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-1aa4168c796c15476b97/</loc>
+    <lastmod>2026-10-20T04:42:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/</loc>
+    <lastmod>2026-10-19T06:22:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-1c4a0389ace7c5cb8a4b/</loc>
+    <lastmod>2026-10-18T11:48:10Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-1c4ee99a9a55ae71a7ac/</loc>
     <lastmod>2026-10-17T04:11:12Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-1cf7f8b4b2a1eb9c6547/</loc>
+    <lastmod>2026-10-18T12:05:33Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-1d5b85321b98765141fc/</loc>
-    <lastmod>2026-10-17T05:31:42Z</lastmod>
+    <lastmod>2026-10-20T07:38:59Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-1e6b8682e0f1ddc3d36f/</loc>
     <lastmod>2026-10-16T06:38:28Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/</loc>
+    <lastmod>2026-10-18T15:42:03Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-20fa95f00391bf965af2/</loc>
+    <lastmod>2026-10-18T15:41:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-232a1698849e2fea425c/</loc>
+    <lastmod>2026-10-18T15:36:13Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-23ad240757185c6f7eac/</loc>
     <lastmod>2026-10-17T01:52:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-23bc63f93d3c31d74af3/</loc>
+    <lastmod>2026-10-18T15:44:04Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-240a05c02f85d4da60dc/</loc>
@@ -8389,8 +8985,16 @@
     <lastmod>2026-10-16T11:51:16Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-255e1ea24461c1f205eb/</loc>
+    <lastmod>2026-10-20T07:44:35Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-25a4d0ab29b60250863a/</loc>
     <lastmod>2026-10-16T11:15:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-263e82b29d4fca964463/</loc>
+    <lastmod>2026-10-18T12:34:15Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-29588aa5651b5839c045/</loc>
@@ -8405,28 +9009,100 @@
     <lastmod>2026-10-18T13:33:19Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-2b7363c3a20d8022b319/</loc>
+    <lastmod>2026-10-19T07:06:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-2be7f81cdca0eb8566c6/</loc>
+    <lastmod>2026-10-19T06:17:57Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-2c2004baae4669f8169a/</loc>
     <lastmod>2026-10-17T02:09:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-2c4b53bc04f33578e9b8/</loc>
+    <lastmod>2026-10-18T11:36:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-2c99f0de2840277abc72/</loc>
+    <lastmod>2026-10-18T12:11:08Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-2e1927450da2183a5abe/</loc>
     <lastmod>2026-10-17T19:15:10Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-2eaf614de14193997f33/</loc>
+    <lastmod>2026-10-18T15:49:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-303e1926b8ff4f60e006/</loc>
+    <lastmod>2026-10-18T15:50:56Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-307838fec5f74218b032/</loc>
+    <lastmod>2026-10-20T04:57:53Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-30c831a1198b9bc2a0f5/</loc>
     <lastmod>2026-10-16T06:50:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-31768421b4ecd1ad89f7/</loc>
+    <lastmod>2026-10-18T15:46:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-3315b5f3f10e62504135/</loc>
+    <lastmod>2026-10-20T04:12:45Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-342b081c3668a8bbe155/</loc>
     <lastmod>2026-10-18T04:56:53Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-346ca54794cbdffc8797/</loc>
+    <lastmod>2026-10-18T12:19:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-348f31b5b339403ec26f/</loc>
+    <lastmod>2026-10-18T12:28:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-354c5b46fd423f9b1b85/</loc>
+    <lastmod>2026-10-18T15:45:31Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-35b9879a351cc3b3d7d5/</loc>
     <lastmod>2026-10-17T19:15:16Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-374138c6e18c9f1dd44a/</loc>
+    <lastmod>2026-10-18T11:59:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/</loc>
+    <lastmod>2026-10-19T06:04:53Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-380a6eedcb4de7778e88/</loc>
+    <lastmod>2026-10-18T11:38:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-3849b18aa87edefc6afd/</loc>
+    <lastmod>2026-10-19T06:54:58Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-38942453b2b7018c0d01/</loc>
+    <lastmod>2026-10-18T15:48:25Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-3932d69c6b6f9b2a7ba8/</loc>
     <lastmod>2026-10-17T02:09:02Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/</loc>
+    <lastmod>2026-10-18T12:08:19Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-3b6dfd52f98bfe76bc7f/</loc>
@@ -8437,12 +9113,36 @@
     <lastmod>2026-10-17T04:05:42Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/</loc>
+    <lastmod>2026-10-18T15:52:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/</loc>
+    <lastmod>2026-10-18T11:41:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-41abb1b7206689cf5057/</loc>
     <lastmod>2026-10-17T02:47:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-422010da7a5c845a18f6/</loc>
     <lastmod>2026-10-17T11:38:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-43d811a5957d8effb7ed/</loc>
+    <lastmod>2026-10-18T15:59:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-44827a16f49e65ba8fb3/</loc>
+    <lastmod>2026-10-18T11:07:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-461125e2d6ac2f030f6b/</loc>
+    <lastmod>2026-10-18T11:16:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-46502d87b2c13515790a/</loc>
+    <lastmod>2026-10-18T15:56:18Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-4784f63cd7117f64a2a3/</loc>
@@ -8457,6 +9157,14 @@
     <lastmod>2026-10-16T06:38:27Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-4b6d61ff2c1d6c8e1a23/</loc>
+    <lastmod>2026-10-18T16:01:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-4bcb6a451d6f4d25343c/</loc>
+    <lastmod>2026-10-18T15:56:22Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-4d32ad3682ae2d71c178/</loc>
     <lastmod>2026-10-16T06:50:49Z</lastmod>
   </url>
@@ -8465,12 +9173,40 @@
     <lastmod>2026-10-17T01:52:44Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-4e9e46b2c7a0a21e130d/</loc>
+    <lastmod>2026-10-18T15:59:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/</loc>
+    <lastmod>2026-10-20T07:47:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-4f3ce151a13cba635e74/</loc>
+    <lastmod>2026-10-20T07:44:49Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-4f47abde8cd28a1ec1e1/</loc>
-    <lastmod>2026-10-16T11:15:49Z</lastmod>
+    <lastmod>2026-10-18T12:14:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-4f4c4f0bf0cec93c59d1/</loc>
+    <lastmod>2026-10-18T16:01:54Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-4f4e7c972e678f1d8c48/</loc>
+    <lastmod>2026-10-20T04:57:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-50501b63a93c611d6e54/</loc>
+    <lastmod>2026-10-18T15:58:03Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-511903ebfac45e6751b2/</loc>
     <lastmod>2026-10-16T12:02:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-51289d2105ef35fd0265/</loc>
+    <lastmod>2026-10-20T04:21:11Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-52b7de0e43b1afc9c226/</loc>
@@ -8485,8 +9221,16 @@
     <lastmod>2026-10-17T04:11:12Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-56b5936190d20fa3d1c1/</loc>
+    <lastmod>2026-10-18T16:04:03Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-56bda04bd8d3a438deb3/</loc>
     <lastmod>2026-10-17T01:52:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-56f08987cc19b82dc607/</loc>
+    <lastmod>2026-10-18T15:33:55Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-570654ff67ecefa2b955/</loc>
@@ -8494,7 +9238,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-57f17b7d0c18b2d7c8bf/</loc>
-    <lastmod>2026-10-16T06:38:27Z</lastmod>
+    <lastmod>2026-10-20T07:42:02Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-5857c840372512cfe3fc/</loc>
@@ -8505,12 +9249,36 @@
     <lastmod>2026-10-18T04:56:53Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-592e434848a1514efef0/</loc>
+    <lastmod>2026-10-18T16:06:37Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-5a073f50270c4f316ce5/</loc>
+    <lastmod>2026-10-18T11:45:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-5a63318fd49cbcc84ad1/</loc>
+    <lastmod>2026-10-20T04:10:05Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-5aa01cb259a5d9a07d6e/</loc>
+    <lastmod>2026-10-19T08:45:27Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-5d61c1b5fc8dd650518d/</loc>
     <lastmod>2026-10-17T02:07:18Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-5e2bd1b3398974b79c9c/</loc>
     <lastmod>2026-10-17T04:05:42Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-5f4264af210fb2686870/</loc>
+    <lastmod>2026-10-19T06:51:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-5f7e55313246edf727bf/</loc>
+    <lastmod>2026-10-18T12:08:34Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-60a95f34072aeb2771cc/</loc>
@@ -8521,8 +9289,20 @@
     <lastmod>2026-10-17T19:15:03Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-61860953a680776ffe53/</loc>
+    <lastmod>2026-10-18T15:37:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-61a5321db10fc8a312b9/</loc>
     <lastmod>2026-10-17T02:48:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-62724cba1b5814215cf7/</loc>
+    <lastmod>2026-10-18T12:16:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-62df6dac6ade720ddd70/</loc>
+    <lastmod>2026-10-19T06:16:11Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-631e74223e198ef40202/</loc>
@@ -8533,8 +9313,36 @@
     <lastmod>2026-10-16T06:38:28Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-65a9a9211f0dd2b7264a/</loc>
+    <lastmod>2026-10-20T04:26:18Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-66096ad4057a3d3726f5/</loc>
-    <lastmod>2026-10-17T14:21:12Z</lastmod>
+    <lastmod>2026-10-18T12:04:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-6616228d4f267363458e/</loc>
+    <lastmod>2026-10-19T06:54:58Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-6694391b0cf50389d2e9/</loc>
+    <lastmod>2026-10-18T15:57:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-66a0adb854eff694965d/</loc>
+    <lastmod>2026-10-18T12:34:31Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-66f780b493156dc7efe5/</loc>
+    <lastmod>2026-10-18T16:02:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-6884b7a1aa1bf507dae7/</loc>
+    <lastmod>2026-10-20T04:22:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-6917c59ee128421233b6/</loc>
+    <lastmod>2026-10-20T04:26:19Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-69d6afe38a9a128ba9f7/</loc>
@@ -8545,12 +9353,24 @@
     <lastmod>2026-10-16T06:38:27Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-6a943fb3667791b6cdb4/</loc>
+    <lastmod>2026-10-18T12:15:12Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-6aa1aa58a7a888395189/</loc>
     <lastmod>2026-10-17T16:10:25Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-6c16f91d8d79d7836283/</loc>
+    <lastmod>2026-10-18T15:55:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-6c3e04249787a3de7cbc/</loc>
+    <lastmod>2026-10-18T12:05:49Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-6cd150ec23361b4d2e84/</loc>
-    <lastmod>2026-10-17T04:05:42Z</lastmod>
+    <lastmod>2026-10-18T15:57:24Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-6d959b58bd4a2e98e417/</loc>
@@ -8561,24 +9381,60 @@
     <lastmod>2026-10-17T02:50:49Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-73570e699421a5ad04eb/</loc>
+    <lastmod>2026-10-18T15:57:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/</loc>
+    <lastmod>2026-10-18T11:16:24Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-73c169c32b5765688376/</loc>
+    <lastmod>2026-10-18T15:50:04Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-7405463ba56f9a41e79a/</loc>
     <lastmod>2026-10-17T01:52:44Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-74eeb7c9fb20674fe6e2/</loc>
-    <lastmod>2026-10-16T06:38:27Z</lastmod>
+    <lastmod>2026-10-18T11:10:02Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/</loc>
     <lastmod>2026-10-17T05:31:42Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-7638e3f688374cea2217/</loc>
+    <lastmod>2026-10-18T15:52:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-76f0ba33cddbb348ea01/</loc>
+    <lastmod>2026-10-19T06:21:38Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-772161f06c2b3d4978b5/</loc>
     <lastmod>2026-10-17T04:11:12Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-77afb3a9b045a157167c/</loc>
+    <lastmod>2026-10-18T12:22:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-77c708f5cff2d4c95e90/</loc>
+    <lastmod>2026-10-18T15:55:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-78adf6919bdbce42bc24/</loc>
+    <lastmod>2026-10-18T15:36:28Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-79287058342289aa5d45/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-19T07:03:30Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-7a35f44787f99834f13e/</loc>
+    <lastmod>2026-10-19T06:24:30Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-7abb418096432f56c685/</loc>
@@ -8589,12 +9445,36 @@
     <lastmod>2026-10-16T06:38:28Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-7afa17db925828d9a035/</loc>
+    <lastmod>2026-10-18T15:57:05Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-7c3e8c4ba52428584079/</loc>
     <lastmod>2026-10-17T12:50:26Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-7c4d9a3bd10f7bab9268/</loc>
+    <lastmod>2026-10-19T06:26:10Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-7c568d88a472f914d316/</loc>
     <lastmod>2026-10-17T02:09:02Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/</loc>
+    <lastmod>2026-10-18T15:59:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-7fbde54a49250739baee/</loc>
+    <lastmod>2026-10-18T16:01:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-80052633107401ebfba7/</loc>
+    <lastmod>2026-10-18T11:10:02Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-807dadc7dc4ba995bbbe/</loc>
+    <lastmod>2026-10-18T16:02:45Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-80858580c1009eba0e98/</loc>
@@ -8617,6 +9497,10 @@
     <lastmod>2026-10-17T05:28:19Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-863cc1744cd5d40418be/</loc>
+    <lastmod>2026-10-18T11:15:01Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/</loc>
     <lastmod>2026-11-02T17:00:00Z</lastmod>
   </url>
@@ -8625,8 +9509,16 @@
     <lastmod>2026-11-02T17:00:00Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-86b3c2ee65911daf84a8/</loc>
+    <lastmod>2026-10-18T16:06:25Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-879d4e3e75e83582bde6/</loc>
-    <lastmod>2026-10-16T06:38:27Z</lastmod>
+    <lastmod>2026-10-20T08:42:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-87bc346934a4117b554c/</loc>
+    <lastmod>2026-10-19T06:10:50Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-8896d44370711136fd54/</loc>
@@ -8641,8 +9533,16 @@
     <lastmod>2026-11-02T17:00:00Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-8c0b15d51eb7b4156608/</loc>
+    <lastmod>2026-10-18T12:05:10Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-8c9aaafb918aaf8b4e92/</loc>
     <lastmod>2026-10-17T12:50:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-8cd911654653a6ba8521/</loc>
+    <lastmod>2026-10-18T15:57:09Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-8dfc84eb4016204fe70a/</loc>
@@ -8653,8 +9553,40 @@
     <lastmod>2026-10-17T02:10:10Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-9082bb5effe5d1a1cada/</loc>
+    <lastmod>2026-10-18T15:57:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-90b24afa7bb8b2181205/</loc>
+    <lastmod>2026-10-18T16:02:36Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-90eea6f6d099a3297850/</loc>
     <lastmod>2026-10-17T02:48:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-9112dfcb201f2de7241f/</loc>
+    <lastmod>2026-10-18T15:49:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-93109952a74302d890b5/</loc>
+    <lastmod>2026-10-19T06:25:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-93278fa5b9e6bd0cbcef/</loc>
+    <lastmod>2026-10-18T12:32:30Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-93c98e3b5aea945e0877/</loc>
+    <lastmod>2026-10-18T16:04:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-9480f580f8bf9d3ba65d/</loc>
+    <lastmod>2026-10-20T04:06:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-94d58f25e6fd4a2076ab/</loc>
+    <lastmod>2026-10-18T11:11:55Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-964d70c40bfc5ca8e1ee/</loc>
@@ -8662,11 +9594,31 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-978d1dcd70fde8661b9e/</loc>
-    <lastmod>2026-10-16T06:38:27Z</lastmod>
+    <lastmod>2026-10-18T12:26:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-97cedbca35f6bd8684af/</loc>
+    <lastmod>2026-10-19T07:12:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-98e5813bceb30104d6c4/</loc>
+    <lastmod>2026-10-18T16:06:25Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-98e8a413ddd670214755/</loc>
+    <lastmod>2026-10-18T12:17:00Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-9a3506ca6ef034adb424/</loc>
     <lastmod>2026-10-17T09:23:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-9b7cc83c55fd75c5b867/</loc>
+    <lastmod>2026-10-18T16:08:31Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-9c5e0c8f6784bedeb153/</loc>
+    <lastmod>2026-10-18T12:03:56Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-9dc9d8d3b9a4b32d6f4b/</loc>
@@ -8677,8 +9629,28 @@
     <lastmod>2026-10-16T06:38:26Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-a06f5cb81d3c41338bb6/</loc>
+    <lastmod>2026-10-20T04:19:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a0a0c389d4def8e2d13a/</loc>
+    <lastmod>2026-10-19T06:05:25Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/</loc>
     <lastmod>2026-10-17T02:52:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a19a076a4808a80f6ac8/</loc>
+    <lastmod>2026-10-18T15:34:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a2362e23fdcbc73763e6/</loc>
+    <lastmod>2026-10-19T06:18:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a252b36bf1c440269a2e/</loc>
+    <lastmod>2026-10-18T11:40:00Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-a349aace3cfde25628a8/</loc>
@@ -8691,6 +9663,34 @@
   <url>
     <loc>https://awesomecua.com/resources/url-a6ee20fea67438d91e06/</loc>
     <lastmod>2026-10-17T19:15:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a72a105e755836154412/</loc>
+    <lastmod>2026-10-19T06:18:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a7beaa489fc4ffeb555f/</loc>
+    <lastmod>2026-10-18T16:00:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a7e3c6c6b37793c3151c/</loc>
+    <lastmod>2026-10-19T06:17:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a80c7330dbfd4f897693/</loc>
+    <lastmod>2026-10-18T16:04:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a8b43a1f2bebd998f612/</loc>
+    <lastmod>2026-10-18T11:32:30Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a8e086f155c278e45c55/</loc>
+    <lastmod>2026-10-18T16:06:56Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a92e7dfcdfdcacb2e634/</loc>
+    <lastmod>2026-10-18T16:08:22Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-aa28e1329a52e341d285/</loc>
@@ -8709,8 +9709,20 @@
     <lastmod>2026-10-17T02:52:36Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-acd43f38167ba02e7ff8/</loc>
+    <lastmod>2026-10-18T16:09:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-acfd6d395d67ce8011bb/</loc>
+    <lastmod>2026-10-19T07:14:40Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-ad7f176848fd84de64e2/</loc>
     <lastmod>2026-10-17T02:48:39Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-ae8e3fa5a67a608804f8/</loc>
+    <lastmod>2026-10-18T15:57:12Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-ae8f5208eea9e7f1f606/</loc>
@@ -8721,12 +9733,40 @@
     <lastmod>2026-10-17T04:11:12Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-aed610c413d6bb9f1caa/</loc>
+    <lastmod>2026-10-18T15:37:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-af7a03e8199643c3508f/</loc>
+    <lastmod>2026-10-18T15:57:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-afe8260e6db2617b72ec/</loc>
+    <lastmod>2026-10-18T12:27:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-b01a78c76299196e3df1/</loc>
+    <lastmod>2026-10-18T16:00:24Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-b074ccdb2d9ec0277b65/</loc>
     <lastmod>2026-10-16T06:38:27Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-b09d10b87e42b7e74de9/</loc>
+    <lastmod>2026-10-20T05:00:46Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-b1837823421bd08cb826/</loc>
+    <lastmod>2026-10-18T16:04:22Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-b53e03a6e4ca4226d126/</loc>
     <lastmod>2026-10-17T12:50:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-b56578c7f9a211a792f2/</loc>
+    <lastmod>2026-10-20T04:35:11Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-b5dab1881ac1069e44ce/</loc>
@@ -8734,7 +9774,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-b5e2127e07f692d516b9/</loc>
-    <lastmod>2026-10-17T14:21:11Z</lastmod>
+    <lastmod>2026-10-18T11:12:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-b80bfa0a4939a493a11f/</loc>
@@ -8757,6 +9797,10 @@
     <lastmod>2026-10-17T02:09:02Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-bb1440d051c68455a72e/</loc>
+    <lastmod>2026-10-18T16:07:29Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-bc3deaf8eeecf569e73b/</loc>
     <lastmod>2026-10-18T04:56:53Z</lastmod>
   </url>
@@ -8765,36 +9809,84 @@
     <lastmod>2026-10-17T14:22:05Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-bd9f8174e5503055c0bd/</loc>
+    <lastmod>2026-10-18T11:34:57Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-bdfb50330deb97893ce4/</loc>
     <lastmod>2026-10-17T12:50:26Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-be89a250747f507a27ef/</loc>
+    <lastmod>2026-10-19T06:19:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-bf847949766b2b257d1c/</loc>
+    <lastmod>2026-10-18T15:56:18Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-c08566be0d973ec40c48/</loc>
+    <lastmod>2026-10-19T07:09:21Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-c0bd07d82ce25ad1d99d/</loc>
-    <lastmod>2026-10-16T06:38:27Z</lastmod>
+    <lastmod>2026-10-19T07:14:40Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-c0f39f7cf2cd9c18e8bd/</loc>
     <lastmod>2026-10-16T06:50:49Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-c10fd1906c2e7ee289ec/</loc>
+    <lastmod>2026-10-18T15:59:10Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-c1db2ba79e6d6a3db2b9/</loc>
     <lastmod>2026-10-17T01:52:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-c33c1aba83d17c53a6f6/</loc>
+    <lastmod>2026-10-20T07:47:39Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-c4898ad1bfc049926a63/</loc>
     <lastmod>2026-10-16T06:38:26Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-c491c446a71cac1def66/</loc>
+    <lastmod>2026-10-19T06:19:41Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-c5b0e2eab771f62792fb/</loc>
+    <lastmod>2026-10-18T12:14:11Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-c5eb975c0d66f8a2954f/</loc>
     <lastmod>2026-10-17T19:15:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-c6e1ffa1f4c6561c3b22/</loc>
+    <lastmod>2026-10-19T07:15:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-c6f3c36e4603808ae9a6/</loc>
+    <lastmod>2026-10-20T04:30:35Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-c73ba0618d1b3c505887/</loc>
     <lastmod>2026-10-17T11:38:10Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-c7489f15e7883a695832/</loc>
+    <lastmod>2026-10-18T16:16:53Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-c79e152e6f7af1a9efed/</loc>
     <lastmod>2026-10-18T04:27:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-c885712b9c69579ac591/</loc>
+    <lastmod>2026-10-18T11:46:29Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-c8c046847f829fea4821/</loc>
@@ -8805,12 +9897,28 @@
     <lastmod>2026-10-16T06:50:49Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/</loc>
+    <lastmod>2026-10-18T11:11:39Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/</loc>
     <lastmod>2026-10-17T14:10:01Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-cc931199bda2bdf1f5f7/</loc>
     <lastmod>2026-10-17T02:10:10Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/</loc>
+    <lastmod>2026-10-18T12:33:36Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-ce0af37931cd5aa20233/</loc>
+    <lastmod>2026-10-19T06:32:06Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-ce775111626bae220596/</loc>
+    <lastmod>2026-10-18T15:39:09Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-cee45b940d5fbff3ccca/</loc>
@@ -8825,6 +9933,10 @@
     <lastmod>2026-10-17T02:10:10Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-d01dfc6e5b5fcece7b41/</loc>
+    <lastmod>2026-10-18T12:00:51Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-d0300db5ba754b1a64fa/</loc>
     <lastmod>2026-10-17T11:38:10Z</lastmod>
   </url>
@@ -8837,8 +9949,16 @@
     <lastmod>2026-10-17T02:09:02Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/</loc>
+    <lastmod>2026-10-18T16:20:24Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-d236e7ec7a2b0028950a/</loc>
     <lastmod>2026-10-16T06:50:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-d2d07c09a1c92e5f4a43/</loc>
+    <lastmod>2026-10-19T06:02:34Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-d3414794302313051ff0/</loc>
@@ -8850,7 +9970,11 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-d3ec5122a2b52fd5ae4b/</loc>
-    <lastmod>2026-10-17T05:28:19Z</lastmod>
+    <lastmod>2026-10-19T06:18:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/</loc>
+    <lastmod>2026-10-18T12:29:18Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-d5140d438466c1e1348a/</loc>
@@ -8873,12 +9997,32 @@
     <lastmod>2026-10-16T06:50:49Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-d7f35409d35584385097/</loc>
+    <lastmod>2026-10-19T06:05:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-d80fa13b647c4020a755/</loc>
+    <lastmod>2026-10-18T16:05:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-d86f55753bfea45fe313/</loc>
+    <lastmod>2026-10-18T16:08:33Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-d92596cfe618e5322ec2/</loc>
     <lastmod>2026-10-16T06:38:28Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-d9d8e68f19ef0956d189/</loc>
     <lastmod>2026-10-16T06:50:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-dad3d02b2f9603713287/</loc>
+    <lastmod>2026-10-18T16:11:30Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-daf52475338f385b9310/</loc>
+    <lastmod>2026-10-18T12:28:53Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-db1b7b7efe3755ae5693/</loc>
@@ -8889,6 +10033,18 @@
     <lastmod>2026-10-18T04:56:53Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-dbd880ec31b412487945/</loc>
+    <lastmod>2026-10-18T11:34:34Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-dc20a06c296207ac11a6/</loc>
+    <lastmod>2026-10-18T16:14:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-dda8a0f1413a6bc7c26f/</loc>
+    <lastmod>2026-10-18T16:19:27Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-de31b07ff24ab15d9bdf/</loc>
     <lastmod>2026-10-17T01:52:44Z</lastmod>
   </url>
@@ -8897,8 +10053,20 @@
     <lastmod>2026-10-17T17:18:50Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-df3102617f3a66c44fc9/</loc>
+    <lastmod>2026-10-19T06:30:35Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-df680385f18b01a825be/</loc>
     <lastmod>2026-10-17T02:47:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-df84f6a103123387b0dd/</loc>
+    <lastmod>2026-10-19T06:01:38Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-e0180b9651fec04d0308/</loc>
+    <lastmod>2026-10-18T12:27:52Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-e062cf1445eaee0f3ade/</loc>
@@ -8909,12 +10077,16 @@
     <lastmod>2026-10-18T04:56:53Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-e0e4712ee701f652bf31/</loc>
+    <lastmod>2026-10-18T15:33:55Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/</loc>
     <lastmod>2026-10-18T04:56:53Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-e21ca7c859544dbf5fb6/</loc>
-    <lastmod>2026-10-17T04:11:12Z</lastmod>
+    <lastmod>2026-10-20T07:39:57Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-e3c1a2a2d556e4728953/</loc>
@@ -8925,32 +10097,100 @@
     <lastmod>2026-10-16T06:50:49Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-e42b286fd85b62bd7bb1/</loc>
+    <lastmod>2026-10-18T12:04:11Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-e554295a7f3f5c9ad0d6/</loc>
     <lastmod>2026-10-16T06:50:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-e7c3d3d49bf977b49996/</loc>
+    <lastmod>2026-10-18T15:35:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/</loc>
+    <lastmod>2026-10-19T07:50:56Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-eadc6cba9ea46c38dd1d/</loc>
     <lastmod>2026-10-16T11:51:16Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-ecf89236d4e75b05c7b4/</loc>
+    <lastmod>2026-10-19T06:27:09Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-ed8d5883c240b78e329f/</loc>
+    <lastmod>2026-10-18T16:07:27Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-edf38d43800be8c955ae/</loc>
-    <lastmod>2026-10-17T04:05:42Z</lastmod>
+    <lastmod>2026-10-18T15:57:24Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-ef244017b1460269fc68/</loc>
-    <lastmod>2026-10-16T06:38:27Z</lastmod>
+    <lastmod>2026-10-18T15:54:54Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-eff580f3185f2a36c265/</loc>
+    <lastmod>2026-10-20T05:23:21Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/</loc>
+    <lastmod>2026-10-18T15:51:14Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f039da43799772645c92/</loc>
+    <lastmod>2026-10-18T16:13:31Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-f0584842138a52158f51/</loc>
     <lastmod>2026-10-16T06:38:27Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-f0eac3ad813245645492/</loc>
+    <lastmod>2026-10-18T15:34:48Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-f13474d7aa734a30624d/</loc>
     <lastmod>2026-10-17T02:09:02Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-f2c34526651f5f57cf98/</loc>
+    <lastmod>2026-10-18T16:16:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f2cf4ec32aa0b3ba6b95/</loc>
+    <lastmod>2026-10-18T16:20:16Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-f35cfcbaeb79663eabeb/</loc>
     <lastmod>2026-10-17T02:50:49Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f39d67f7a4a6f869f39c/</loc>
+    <lastmod>2026-10-19T06:03:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f52794224f9541fd9eb3/</loc>
+    <lastmod>2026-10-18T15:57:12Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/</loc>
+    <lastmod>2026-10-18T12:30:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f59c2dd51c1f5c570a28/</loc>
+    <lastmod>2026-10-19T06:05:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f6c88faa4392848f81b6/</loc>
+    <lastmod>2026-10-18T15:34:25Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f6e1a7527f9346ed1c1d/</loc>
+    <lastmod>2026-10-18T12:33:36Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-f70aa7c95824a8729516/</loc>
@@ -8959,6 +10199,10 @@
   <url>
     <loc>https://awesomecua.com/resources/url-f8566bd0394d36ed4f8e/</loc>
     <lastmod>2026-10-16T11:51:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-f885d17601171253d25e/</loc>
+    <lastmod>2026-10-20T04:03:43Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-f976dec3d1c5e0bedbd7/</loc>
@@ -8971,6 +10215,10 @@
   <url>
     <loc>https://awesomecua.com/resources/url-fda52d641c6b482bda7b/</loc>
     <lastmod>2026-10-16T06:38:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-fdb901523979ed1e831b/</loc>
+    <lastmod>2026-10-18T12:03:25Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-fe43af1801032be708cc/</loc>

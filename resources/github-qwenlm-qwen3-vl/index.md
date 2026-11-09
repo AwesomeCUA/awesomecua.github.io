@@ -29,3 +29,6 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/QwenLM/Qwen3-VL/HEAD/README.md (retrieved 2026-11-04T13:12:32Z; SHA-256 fc21106258c51e0b91a652eef12f5925becb146ea8b8c79a4251ac2e89a2f1ac)
 - https://raw.githubusercontent.com/QwenLM/Qwen3-VL/HEAD/LICENSE (retrieved 2026-11-04T13:41:34Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+- https://api.github.com/repos/QwenLM/Qwen2.5-VL (retrieved 2026-10-18T11:06:42Z; SHA-256 16d1d3853a888a4f3cfbe891c9238ff2cb33c0f8eb93a110d864524dcb3cbf41)
+- https://api.github.com/repos/QwenLM/Qwen3-VL (retrieved 2026-10-18T11:05:59Z; SHA-256 16d1d3853a888a4f3cfbe891c9238ff2cb33c0f8eb93a110d864524dcb3cbf41)
+- https://api.github.com/repos/QwenLM/Qwen2-VL (retrieved 2026-10-18T11:06:43Z; SHA-256 16d1d3853a888a4f3cfbe891c9238ff2cb33c0f8eb93a110d864524dcb3cbf41)

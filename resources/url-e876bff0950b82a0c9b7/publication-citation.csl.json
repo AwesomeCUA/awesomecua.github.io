@@ -1,0 +1,78 @@
+{
+  "id": "url:e876bff0950b82a0c9b7",
+  "citation-key": "cua_a2a53f955040d6d6aba935d9",
+  "type": "paper-conference",
+  "title": "AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents",
+  "URL": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+  "custom": {
+    "catalog_id": "url:e876bff0950b82a0c9b7",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+    "identifiers": {},
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Baicheng Chen",
+        "Mingda Zhang",
+        "Min Zhang",
+        "Haizhou Li",
+        "Baoyuan Wu"
+      ],
+      "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
+      "date_parts": [
+        2026,
+        6
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+        "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf"
+      ],
+      "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title and abstract search for AdapAction returned nothing; neither the landing page nor the PDF names an arXiv version, so this publisher edition seeds the record.",
+      "issue": null,
+      "notes": "CVF open-access accepted version; the PDF states that the final proceedings version is on IEEE Xplore. The landing page, BibTeX and PDF title page list the same five authors in the same order.",
+      "pages": "27894-27905",
+      "pdf_url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents",
+      "type": "conference-paper",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2026-06.",
+  "author": [
+    {
+      "literal": "Baicheng Chen"
+    },
+    {
+      "literal": "Mingda Zhang"
+    },
+    {
+      "literal": "Min Zhang"
+    },
+    {
+      "literal": "Haizhou Li"
+    },
+    {
+      "literal": "Baoyuan Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6
+      ]
+    ]
+  },
+  "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+  "page": "27894-27905"
+}

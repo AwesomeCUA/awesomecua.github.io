@@ -8105,6 +8105,103 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.18653/v1/2024.acl-demos.8",
+    "URL": "https://aclanthology.org/2024.acl-demos.8/",
+    "author": [
+      {
+        "literal": "Iat Long Iong"
+      },
+      {
+        "literal": "Xiao Liu"
+      },
+      {
+        "literal": "Yuxuan Chen"
+      },
+      {
+        "literal": "Hanyu Lai"
+      },
+      {
+        "literal": "Shuntian Yao"
+      },
+      {
+        "literal": "Pengbo Shen"
+      },
+      {
+        "literal": "Hao Yu (余浩)"
+      },
+      {
+        "literal": "Yuxiao Dong"
+      },
+      {
+        "literal": "Jie Tang"
+      }
+    ],
+    "citation-key": "cua_bed961066f88359f291cfcc9",
+    "container-title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)",
+    "custom": {
+      "canonical_source_url": "https://aclanthology.org/2024.acl-demos.8/",
+      "catalog_id": "url:6e436831f76a1337ea8b",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.18653/v1/2024.acl-demos.8"
+      },
+      "publication": {
+        "authors": [
+          "Iat Long Iong",
+          "Xiao Liu",
+          "Yuxuan Chen",
+          "Hanyu Lai",
+          "Shuntian Yao",
+          "Pengbo Shen",
+          "Hao Yu (余浩)",
+          "Yuxiao Dong",
+          "Jie Tang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          8
+        ],
+        "doi": "10.18653/v1/2024.acl-demos.8",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.acl-demos.8/"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.",
+        "issue": null,
+        "notes": "Publisher proceedings edition (ACL 2024 System Demonstrations).",
+        "pages": "72-81",
+        "pdf_url": "https://aclanthology.org/2024.acl-demos.8.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.acl-demos.8/",
+        "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:6e436831f76a1337ea8b",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-08.",
+    "page": "72-81",
+    "publisher": "Association for Computational Linguistics",
+    "title": "OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.1145/3242587.3242661",
     "URL": "https://doi.org/10.1145/3242587.3242661",
     "author": [

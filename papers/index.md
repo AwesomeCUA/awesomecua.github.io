@@ -1,6 +1,6 @@
-# Computer-use research library, page 1 of 28
+# Computer-use research library, page 1 of 29
 
-> Reviewed computer-use papers and surveys 1 to 60 of 1,673, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
+> Reviewed computer-use papers and surveys 1 to 60 of 1,690, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
 
 HTML page: https://awesomecua.com/papers/ · [Next page](https://awesomecua.com/papers/page/2/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 

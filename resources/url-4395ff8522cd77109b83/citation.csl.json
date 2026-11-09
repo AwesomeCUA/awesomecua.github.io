@@ -1,0 +1,93 @@
+{
+  "id": "url:4395ff8522cd77109b83",
+  "citation-key": "cua_9f1feffee469c064107c8c63",
+  "type": "paper-conference",
+  "title": "LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent",
+  "URL": "https://openreview.net/forum?id=BK7Mk5d4WE",
+  "custom": {
+    "catalog_id": "url:4395ff8522cd77109b83",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://openreview.net/forum?id=BK7Mk5d4WE",
+    "identifiers": {},
+    "first_published_at": "2026-04-20",
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Bin Kang",
+        "Shaoguo Wen",
+        "Yifei Bi",
+        "Shunlong Wu",
+        "Xinbin Yuan",
+        "Rui Shao",
+        "Junle Wang",
+        "Zhuotao Tian"
+      ],
+      "date_basis": "Publisher citation_publication_date metadata on the ICLR proceedings page states 2026-04-20; precision=day.",
+      "date_parts": [
+        2026,
+        4,
+        20
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2026/hash/002a6bef26174b590e4eab95b63feb1b-Abstract-Conference.html",
+        "https://proceedings.iclr.cc/paper_files/paper/2026/file/002a6bef26174b590e4eab95b63feb1b-Paper-Conference.pdf"
+      ],
+      "identity_basis": "Same work: the ICLR 2026 proceedings page and PDF carry the same title, eight authors and abstract as OpenReview note BK7Mk5d4WE (venue ICLR 2026 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.",
+      "issue": null,
+      "notes": "The proceedings page metadata lists the third author as \"BI, YIFEI\"; the PDF byline prints \"Yifei Bi\", which is retained. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.",
+      "pages": "59-82",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/002a6bef26174b590e4eab95b63feb1b-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent",
+      "type": "conference-paper",
+      "url": "https://openreview.net/forum?id=BK7Mk5d4WE",
+      "venue": "International Conference on Learning Representations 2026 (ICLR 2026)",
+      "volume": "2026"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2026-04-20.",
+  "author": [
+    {
+      "literal": "Bin Kang"
+    },
+    {
+      "literal": "Shaoguo Wen"
+    },
+    {
+      "literal": "Yifei Bi"
+    },
+    {
+      "literal": "Shunlong Wu"
+    },
+    {
+      "literal": "Xinbin Yuan"
+    },
+    {
+      "literal": "Rui Shao"
+    },
+    {
+      "literal": "Junle Wang"
+    },
+    {
+      "literal": "Zhuotao Tian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        20
+      ]
+    ]
+  },
+  "container-title": "International Conference on Learning Representations 2026 (ICLR 2026)",
+  "volume": "2026",
+  "page": "59-82"
+}

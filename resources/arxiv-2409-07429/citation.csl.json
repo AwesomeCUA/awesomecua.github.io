@@ -22,7 +22,39 @@
       "updated_at": "2024-09-11T17:21:00Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2409.07429v1"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Zora Zhiruo Wang",
+        "Jiayuan Mao",
+        "Daniel Fried",
+        "Graham Neubig"
+      ],
+      "date_basis": "Explicit publisher metadata: 2025/10/06; precision=day.",
+      "date_parts": [
+        2025,
+        10,
+        6
+      ],
+      "doi": null,
+      "event_dates": "13--19 Jul 2025",
+      "evidence_urls": [
+        "https://proceedings.mlr.press/v267/wang25bx.html"
+      ],
+      "identity_basis": "Same work: exact title, the same four authors in the same order, and a publisher abstract that matches the arXiv abstract (workflow induction on Mind2Web and WebArena with 24.6% and 51.1% relative success-rate gains).",
+      "issue": null,
+      "notes": "The landing page links the OpenReview forum NTAhi2JEEE and the code repository github.com/zorazrw/agent-workflow-memory. The publisher issue date comes from citation_publication_date; the conference date range 13--19 Jul 2025 is retained separately as an event date and does not replace it. Volume 267 and pages 63897-63911 are explicit publisher citation metadata. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "63897-63911",
+      "pdf_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25bx/wang25bx.pdf",
+      "publisher": "PMLR",
+      "series": "Proceedings of Machine Learning Research",
+      "title": "Agent Workflow Memory",
+      "type": "conference-paper",
+      "url": "https://proceedings.mlr.press/v267/wang25bx.html",
+      "venue": "Proceedings of the 42nd International Conference on Machine Learning",
+      "volume": "267"
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2024-09-11; Recorded arXiv version: v1; Recorded version updated: 2024-09-11T17:21:00Z.",
   "author": [

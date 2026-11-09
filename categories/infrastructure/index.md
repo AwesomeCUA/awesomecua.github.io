@@ -1,6 +1,6 @@
 # Computer-use agent infrastructure
 
-> 55 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 64 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -997,6 +997,45 @@ Release 2.31.0 dated 2026-08-11. The hosted product is at gobii.ai. Declared lic
 
 ---
 
+## grass-gui
+
+ScienceBoard's replacement GRASS GIS 8.4 wxPython GUI with an embedded Flask server that loads mapsets and layers, runs GRASS commands and returns layer, region and console state as JSON for task checks.
+
+- Catalog URL: https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/
+- Original source: https://github.com/ShiinaHiiragi/grass-gui
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, linux
+- Topics: science, evaluation, state-tracking
+- Evidence checked: 2026-10-18T12:13:46Z
+- ID: github:shiinahiiragi/grass-gui
+
+### Limitations
+
+The ScienceBoard README lists this repository among its modified applications as the Python GUI part of GRASS GIS. Its manual.md installs GRASS 8.4 from the ubuntugis PPA and swaps this repository in for /usr/lib/grass84/gui/wxpython. At commit 4fe0312, wxgui.py starts a Flask thread on FLASK_PORT (default 8000) with /version, /init/cmd, /init/map, /init/layer, /init/scale, /dump, /gcmd, /gcmdline and /quit routes; /dump reports map layers, layer windows, toolbars, status-bar mode and scale, the region and console output. The rest of the tree is the upstream wxGUI code with its original README. GitHub does not mark the repository as a fork.
+
+- Record JSON: https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The inspected tree has no license or COPYING file and GitHub reports no license. GRASS GIS's own license is not transferred to this copy by inference.
+  Sources: https://api.github.com/repos/ShiinaHiiragi/grass-gui/git/trees/4fe031217483301519798b07f83f7f53c5142b09?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ShiinaHiiragi/grass-gui/HEAD/manual.md (retrieved 2026-10-18T12:13:46Z; SHA-256 578e99d639e296a8148a2d967a99764df4c4e4debf30c89b01cbc9242f11d656)
+- https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/21b5eb0f1d00898f7de9e84c3d33a87c2f2b3c3e/README.md (retrieved 2026-10-18T12:10:16Z; SHA-256 4c3fe93aa740dbf4a279a246ddd836f2590a2a36f39b820abe166e38cb484577)
+- https://api.github.com/repos/ShiinaHiiragi/grass-gui/git/trees/4fe031217483301519798b07f83f7f53c5142b09?recursive=1 (retrieved 2026-10-18T12:13:30Z; SHA-256 e88b2d29f8b3939e225cf9bbe68680c7d07ccfd1d130f826074fc2c661bb01be)
+- https://raw.githubusercontent.com/ShiinaHiiragi/grass-gui/4fe031217483301519798b07f83f7f53c5142b09/wxgui.py (retrieved 2026-10-18T12:13:30Z; SHA-256 7e39b02d2602c84d95e85c9606816d73b2a856b6877e1dc8a7b2af8050fba7a4)
+
+---
+
 ## Harborage
 
 On-demand pool manager providing isolated headless browser sessions for concurrent AI web agents.
@@ -1061,6 +1100,44 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/deathlegionteamlk/herodesktop/HEAD/README.md (retrieved 2026-11-04T16:30:09Z; SHA-256 3306458c78df7c91afe1c93c1e029244b78548c17e23dc8358eeabf08e98982e)
+
+---
+
+## kalgebra-kai
+
+Modified KAlgebra build from ScienceBoard with a local HTTP server that reports variables and plotted 2D and 3D functions and can switch tabs or add calculations and plots, so the benchmark can check math tasks.
+
+- Catalog URL: https://awesomecua.com/resources/github-shiinahiiragi-kalgebra/
+- Original source: https://github.com/ShiinaHiiragi/kalgebra
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, linux
+- Topics: science, evaluation, state-tracking
+- Evidence checked: 2026-10-18T12:15:00Z
+- ID: github:shiinahiiragi/kalgebra
+
+### Limitations
+
+GitHub reports this repository as a fork of KDE/kalgebra. The ScienceBoard README lists it among its modified applications as "a recompilation copy of KAlgebra". The Debian control file at commit e3f962b names the package kalgebra-kai (version 1.1) and describes it as a modified KAlgebra that supports a local server. main.cpp starts that server on the port given as the first argument (default 8000) with /version, /vars, /func/2d and /func/3d status routes and /tab, /add/calc, /add/2d and /add/3d operation routes. manual.md holds the maintainer's Qt 6.5 build and .deb packaging steps. Everything except the server additions is upstream KAlgebra code.
+
+- Record JSON: https://awesomecua.com/resources/github-shiinahiiragi-kalgebra/record.json
+
+### License declarations
+
+- code: GPL-2.0 — https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/HEAD/COPYING
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/HEAD/manual.md (retrieved 2026-10-18T12:15:00Z; SHA-256 839185dfc18e63fefccf598d1b4a6c34f7cdc5590887e76bdcf76220b861c23f)
+- https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/21b5eb0f1d00898f7de9e84c3d33a87c2f2b3c3e/README.md (retrieved 2026-10-18T12:10:16Z; SHA-256 4c3fe93aa740dbf4a279a246ddd836f2590a2a36f39b820abe166e38cb484577)
+- https://api.github.com/repos/ShiinaHiiragi/kalgebra/git/trees/e3f962b95447d3b76244edbc2048a8c98e2022b7?recursive=1 (retrieved 2026-10-18T12:14:42Z; SHA-256 908d20a13d858d218e8a32ddd18ec62427a94d2f835af76bdf95cf280d673213)
+- https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/e3f962b95447d3b76244edbc2048a8c98e2022b7/src/control (retrieved 2026-10-18T12:14:45Z; SHA-256 c5d41b60d9578a98c3bcd3d53bb9786bc02fd35b35c2a10c569fb8cdcdcd7622)
+- https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/e3f962b95447d3b76244edbc2048a8c98e2022b7/src/main.cpp (retrieved 2026-10-18T12:14:45Z; SHA-256 701ca41ac449ab2f88a06f7812ce382e88ea814037c99ddc82ad78e3ba03985a)
+- https://raw.githubusercontent.com/ShiinaHiiragi/kalgebra/HEAD/COPYING (retrieved 2026-10-18T12:15:13Z; SHA-256 8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643)
 
 ---
 
@@ -1298,6 +1375,195 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/nut-tree/nut.js/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 41a6435d6c27a647b4d2170cba476fa6a941b12f8a4ffe41674a508df9e0ea1d)
+
+---
+
+## OpenMobile-2 extended Android AVDs
+
+Seven preconfigured Pixel 6 emulator images for Android API 33 (arm64) with an Apple Silicon install script, listed in the OpenMobile-2 release as its extended Android AVDs.
+
+- Catalog URL: https://awesomecua.com/resources/url-f039da43799772645c92/
+- Original source: https://huggingface.co/datasets/yanhhh/AndroidAvd
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: sandbox, mobile-navigation
+- Evidence checked: 2026-10-18T16:11:45Z
+- ID: url:f039da43799772645c92
+
+### Limitations
+
+The Hub dataset repository at revision 4d2be380 has no card and no license declaration. It lists 143 files, about 130 GB by listed sizes: seven AVD directories (MineAndroid plus auto, general-user, manual, senior, student and travel variants), their .ini pointers and install_avd.sh. Every config.ini targets android-33 with arm64-v8a on a Pixel 6 profile and Play Store disabled. The script requires an Apple Silicon Mac, installs the android-33 Google APIs arm64-v8a system image through sdkmanager, and warns that -wipe-data erases the installed apps. Which apps each variant holds is not documented, and the images were not downloaded or booted. The OpenMobile2-Code README links this repository as 'Extended Android AVDs' in its release list; that repository's Apache-2.0 license does not cover these images or the Android system image.
+
+- Record JSON: https://awesomecua.com/resources/url-f039da43799772645c92/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: The Hub repository has no card, license tag or license file. The Apache-2.0 license of the linked OpenMobile2-Code repository covers that code only, and the install script accepts the Android SDK licenses for the separately installed system image.
+  Sources: https://huggingface.co/api/datasets/yanhhh/AndroidAvd/revision/4d2be38083d1a4395ab0de9749983f7091714070
+
+### Primary evidence
+
+- https://huggingface.co/datasets/yanhhh/AndroidAvd/raw/4d2be38083d1a4395ab0de9749983f7091714070/install_avd.sh (retrieved 2026-10-18T16:11:45Z; SHA-256 22abd21d4dfa43e7cf6eb9ae9ea63b368b754804019283f7d3f01914d8225a51)
+- https://huggingface.co/api/datasets/yanhhh/AndroidAvd/revision/4d2be38083d1a4395ab0de9749983f7091714070 (retrieved 2026-10-18T16:13:14Z; SHA-256 adaf8975470b1bc32f97d0385b5f232184182047fd14885ccd2a0e867a88ec20)
+- https://huggingface.co/datasets/yanhhh/AndroidAvd/raw/4d2be38083d1a4395ab0de9749983f7091714070/MineAndroid.avd/config.ini (retrieved 2026-10-18T16:11:45Z; SHA-256 dec904f33ded1925234db80035d4e3dadda318fb8a5e362da9a4afa8ab02774f)
+- https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/11e26ddc32a98112db38d6363274588cb2387817/README.md (retrieved 2026-10-18T16:11:45Z; SHA-256 485279038266d9454df75e27a80a0a0d71c24e90700126d2dcfa0da921b1273d)
+
+---
+
+## OSWorld Ubuntu VM images
+
+Hub host of OSWorld's prebuilt Ubuntu virtual machines: VMware archives for x86 and arm64 and a QEMU qcow2 archive, which OSWorld's VMware and Docker providers download on first run.
+
+- Catalog URL: https://awesomecua.com/resources/url-346ca54794cbdffc8797/
+- Original source: https://huggingface.co/datasets/xlangai/ubuntu_osworld
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, linux
+- Topics: sandbox, evaluation
+- Evidence checked: 2026-10-18T12:18:42Z
+- ID: url:346ca54794cbdffc8797
+
+### Limitations
+
+Adjacent: environment images that the curated OSWorld benchmark boots, not a benchmark or training set by itself. At revision a5d9c3ea the manifest holds Ubuntu-x86.zip, Ubuntu-arm.zip and Ubuntu.qcow2.zip (about 12 GB each), two further qcow2 images (Ubuntu_claude.qcow2 and Ubuntu_claude2.qcow2, about 23.7 GB each) that the card does not describe, and aliyun_config.sh. OSWorld's VMware provider picks the x86 or arm64 archive by host architecture, and its Docker provider fetches Ubuntu.qcow2.zip. The card also mentions task examples in evaluation_examples.zip, which the manifest does not contain. Apache-2.0 is the card's metadata declaration and does not relicense Ubuntu or bundled applications. The images were not downloaded or booted.
+
+- Record JSON: https://awesomecua.com/resources/url-346ca54794cbdffc8797/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/xlangai/ubuntu_osworld/raw/a5d9c3eaae98eebf6e3a0beb84e7e47cf72ae133/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/xlangai/ubuntu_osworld/raw/a5d9c3eaae98eebf6e3a0beb84e7e47cf72ae133/README.md (retrieved 2026-10-18T12:18:42Z; SHA-256 0fa1943315f1acba9100333ebbae47d45ca7847fe37d8be60e79cb4d116b40d3)
+- https://huggingface.co/api/datasets/xlangai/ubuntu_osworld (retrieved 2026-10-18T12:18:42Z; SHA-256 9dbfc4c8700370f5f1246007c7b7f2090e25e1c3ab310947e44cb641f2dd8c42)
+- https://huggingface.co/api/datasets/xlangai/ubuntu_osworld/tree/a5d9c3eaae98eebf6e3a0beb84e7e47cf72ae133 (retrieved 2026-10-18T12:18:42Z; SHA-256 733d3b45084e5cec853a4cb6313ab3d7ce93982606be1f6c61ef724de11f4981)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld/b138d348256078fa634fc3b73567a7337c793e6b/desktop_env/providers/vmware/manager.py (retrieved 2026-10-18T12:18:43Z; SHA-256 ada6bed8d1923969833b2835b832df825d8c7be092648cee98c0a7eefc447f9a)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld/b138d348256078fa634fc3b73567a7337c793e6b/desktop_env/providers/docker/manager.py (retrieved 2026-10-18T12:18:43Z; SHA-256 3580c99cdefd711bf7d1093aeb2719e58ddad387358ff7938eb0700d3c5d03fa)
+- https://huggingface.co/datasets/xlangai/ubuntu_osworld/raw/a5d9c3eaae98eebf6e3a0beb84e7e47cf72ae133/README.md (retrieved 2026-10-18T12:18:42Z; SHA-256 0fa1943315f1acba9100333ebbae47d45ca7847fe37d8be60e79cb4d116b40d3)
+
+---
+
+## OSWorld VirtualBox Ubuntu image
+
+Hub host of the Ubuntu virtual machine archive that OSWorld's VirtualBox provider downloads on x86 hosts and imports with VBoxManage; the repository has no card or license declaration.
+
+- Catalog URL: https://awesomecua.com/resources/url-ce775111626bae220596/
+- Original source: https://huggingface.co/datasets/xlangai/ubuntu_x86_virtualbox
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, linux
+- Topics: sandbox, evaluation
+- Evidence checked: 2026-10-18T15:37:25Z
+- ID: url:ce775111626bae220596
+
+### Limitations
+
+Adjacent: an environment image that the curated OSWorld benchmark boots when run with VirtualBox, not a benchmark or training set by itself. At revision c4e80049 the repository holds only Ubuntu.zip (12,395,902,743 bytes) and .gitattributes; there is no dataset card, so it names no paper and declares no license, and every license slot stays unknown. At OSWorld commit b138d348 the VirtualBox provider downloads this archive on x86 hosts, extracts it and imports Ubuntu/Ubuntu.ovf from the extracted files with VBoxManage, supports only Ubuntu tasks, and refuses macOS hosts. The name is editorial, taken from that provider. The image was not downloaded or booted.
+
+- Record JSON: https://awesomecua.com/resources/url-ce775111626bae220596/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xlang-ai/OSWorld/b138d348256078fa634fc3b73567a7337c793e6b/desktop_env/providers/virtualbox/manager.py (retrieved 2026-10-18T15:37:25Z; SHA-256 2c355dd1192f616492db66606235ad85c289d4803ecde02bcff5fafad553724c)
+- https://huggingface.co/api/datasets/xlangai/ubuntu_x86_virtualbox (retrieved 2026-10-18T15:37:25Z; SHA-256 644415a48604c773f9c8609b3aadca548d249a9ff125abb28f89da5fd0a5efad)
+- https://huggingface.co/api/datasets/xlangai/ubuntu_x86_virtualbox/tree/c4e8004908e84c58e2d7e9d799121486803ca2ac (retrieved 2026-10-18T15:37:25Z; SHA-256 34e5ac9fcc430391b8550f22bcb9185b6fd8febbb6c573351c6310d25ee7386c)
+
+---
+
+## OSWorld Windows VM images
+
+Hub host of OSWorld's prebuilt Windows 10 virtual machines: a VMware archive and a QEMU qcow2 archive, which OSWorld's VMware and Docker providers download on first run of a Windows task.
+
+- Catalog URL: https://awesomecua.com/resources/url-232a1698849e2fea425c/
+- Original source: https://huggingface.co/datasets/xlangai/windows_osworld
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, windows
+- Topics: sandbox, evaluation
+- Evidence checked: 2026-10-18T15:35:23Z
+- ID: url:232a1698849e2fea425c
+
+### Limitations
+
+Adjacent: environment images that the curated OSWorld benchmark boots for its Windows tasks, not a benchmark or training set by itself. At revision 6afc3324 the manifest holds Windows-x86.zip (about 26.2 GB) and Windows-10-x64.qcow2.zip (about 27.7 GB), plus two unpacked qcow2 images, Windows 10 x64.qcow2 and Windows 10 x64 - copy.qcow2 (about 49.2 GB each), that the card does not describe. At OSWorld commit b138d348 the VMware provider downloads Windows-x86.zip for Windows tasks on x86 hosts and the Docker provider downloads Windows-10-x64.qcow2.zip; the VirtualBox provider supports only Ubuntu. The card is a generic OSWorld card: its mention of task examples in evaluation_examples.zip and of VirtualBox and arm64 snapshots does not match this manifest. Apache-2.0 is the card's metadata declaration and does not relicense Windows or bundled applications. The images were not downloaded or booted.
+
+- Record JSON: https://awesomecua.com/resources/url-232a1698849e2fea425c/record.json
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/xlangai/windows_osworld/raw/6afc332468ea0646441e3901a06d8eb7ef7d831a/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/xlangai/windows_osworld/raw/6afc332468ea0646441e3901a06d8eb7ef7d831a/README.md (retrieved 2026-10-18T15:35:23Z; SHA-256 0fa1943315f1acba9100333ebbae47d45ca7847fe37d8be60e79cb4d116b40d3)
+- https://huggingface.co/api/datasets/xlangai/windows_osworld (retrieved 2026-10-18T15:35:24Z; SHA-256 88dce09ec83b718ffc52f94d6986ed3201feb3f664a7c4695badd39fda1da330)
+- https://huggingface.co/api/datasets/xlangai/windows_osworld/tree/6afc332468ea0646441e3901a06d8eb7ef7d831a (retrieved 2026-10-18T15:35:24Z; SHA-256 50730e58abc4cac896d0fc3ec52adea3a5a3e8bcb5ebb2ad6fce9e0f3cc75c10)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld/b138d348256078fa634fc3b73567a7337c793e6b/desktop_env/providers/vmware/manager.py (retrieved 2026-10-18T15:35:24Z; SHA-256 ada6bed8d1923969833b2835b832df825d8c7be092648cee98c0a7eefc447f9a)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld/b138d348256078fa634fc3b73567a7337c793e6b/desktop_env/providers/docker/manager.py (retrieved 2026-10-18T15:35:25Z; SHA-256 3580c99cdefd711bf7d1093aeb2719e58ddad387358ff7938eb0700d3c5d03fa)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld/b138d348256078fa634fc3b73567a7337c793e6b/desktop_env/providers/virtualbox/manager.py (retrieved 2026-10-18T15:35:58Z; SHA-256 2c355dd1192f616492db66606235ad85c289d4803ecde02bcff5fafad553724c)
+- https://huggingface.co/datasets/xlangai/windows_osworld/raw/6afc332468ea0646441e3901a06d8eb7ef7d831a/README.md (retrieved 2026-10-18T15:35:23Z; SHA-256 0fa1943315f1acba9100333ebbae47d45ca7847fe37d8be60e79cb4d116b40d3)
+
+---
+
+## Phi Browser
+
+Native macOS client of a Chromium browser whose agent Spaces let the built-in assistant or external agents drive windows over a consent-gated DevTools Protocol socket while the user watches and can take control.
+
+- Catalog URL: https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/
+- Original source: https://github.com/phibrowser/phibrowser-mac
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web, desktop, macos
+- Topics: web-navigation, human-in-the-loop, safety-security
+- Evidence checked: 2026-10-18T15:44:36Z
+- ID: github:phibrowser/phibrowser-mac
+
+### Limitations
+
+This is the open macOS client (Swift, AppKit and SwiftUI). Building it requires the prebuilt Phi Framework, the publisher's own Chromium build, whose source is not published and which the Apache-2.0 license does not cover; the built-in assistant's models, prompts and pipelines are server-side and not in this repository, and a self-built copy does not reach Phi Cloud. Sources/ChromiumBridge/AgentCDP/AgentCDPListener.swift owns a Unix-domain socket through which agent tools reach the browser's DevTools endpoint after per-agent user consent. tools/phi-browser-skill (SKILL.md, scripts/lib/cdp.mjs) is an Agent Skill that drives agent Spaces: hidden windows on a chosen profile that the user can watch, take over and hand back, or off-screen shadow windows. Privacy and local-model statements are publisher claims. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-phibrowser-phibrowser-mac/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/phibrowser/phibrowser-mac/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/phibrowser/phibrowser-mac/HEAD/README.md (retrieved 2026-10-18T15:44:36Z; SHA-256 e3220badbc2d7391a6eb799f8014f44d76156f2fb7f0bba581f74f0c8ff99128)
+- https://raw.githubusercontent.com/phibrowser/phibrowser-mac/7ace23508bb9e2dceea393cd223628b14514681f/Sources/ChromiumBridge/AgentCDP/AgentCDPListener.swift (retrieved 2026-10-18T15:44:22Z; SHA-256 4baeb23b56aa42d138b56775be3ee54d6ae9488e00901111035dfe6b620812d1)
+- https://raw.githubusercontent.com/phibrowser/phibrowser-mac/7ace23508bb9e2dceea393cd223628b14514681f/tools/phi-browser-skill/SKILL.md (retrieved 2026-10-18T15:44:22Z; SHA-256 b25192207cca26069c8dda437c49ec31bad26ddfd3c8e44c76eccb71410f707d)
+- https://raw.githubusercontent.com/phibrowser/phibrowser-mac/7ace23508bb9e2dceea393cd223628b14514681f/tools/phi-browser-skill/scripts/lib/cdp.mjs (retrieved 2026-10-18T15:44:22Z; SHA-256 1ea23ce373bdcca229f6aaf7c652ee8945aad2d07f77c3aa2fcb45d439b8090d)
+- https://raw.githubusercontent.com/phibrowser/phibrowser-mac/7ace23508bb9e2dceea393cd223628b14514681f/LICENSE (retrieved 2026-10-18T15:44:23Z; SHA-256 7c1eb6bf2936ea78c389fd1fa17e116364853a1577df105bc4db6fd929b849c3)
+- https://raw.githubusercontent.com/phibrowser/phibrowser-mac/HEAD/LICENSE (retrieved 2026-10-18T15:44:45Z; SHA-256 7c1eb6bf2936ea78c389fd1fa17e116364853a1577df105bc4db6fd929b849c3)
 
 ---
 
@@ -1643,6 +1909,42 @@ The public Hub manifest contains VM.zip. This is an environment image, not neura
 
 ---
 
+## Selenium
+
+Browser automation project implementing W3C WebDriver, with Java, Python, Ruby, .NET and JavaScript bindings, Selenium Grid for spreading sessions across machines, and the Rust-based Selenium Manager for driver setup.
+
+- Catalog URL: https://awesomecua.com/resources/github-seleniumhq-selenium/
+- Original source: https://github.com/SeleniumHQ/selenium
+- Kind: infrastructure
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: automation
+- Evidence checked: 2026-10-20T07:47:28Z
+- ID: github:seleniumhq/selenium
+
+### Limitations
+
+The repository README addresses contributors and points users to the documentation on selenium.dev, the project website. The inspected tree holds the WebDriver bindings (java, py, rb, dotnet, javascript), the Java Grid server, the Internet Explorer driver (cpp/iedriver) and Selenium Manager (rust), a command-line tool that locates or downloads browsers and drivers. Selenium IDE, the record-and-playback tool also presented on selenium.dev, lives in the separate SeleniumHQ/selenium-ide repository. Agents use Selenium as an execution layer for browser actions; it contains no agent or model of its own.
+
+- Record JSON: https://awesomecua.com/resources/github-seleniumhq-selenium/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/README.md (retrieved 2026-10-20T07:47:28Z; SHA-256 ef1a1505315cb887dcf485f657947cbab59c11cdd8c63b32ffc54af413ac6f31)
+- https://api.github.com/repos/SeleniumHQ/selenium/git/trees/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c?recursive=1 (retrieved 2026-10-20T05:02:04Z; SHA-256 223db50df54239caa7d0413212e9b32debc17f7c872c93217b76749c0414770b)
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/0839e44f91d7c0dd660f2ad21a4fe1dc29d2623c/rust/README.md (retrieved 2026-10-20T05:02:47Z; SHA-256 38588ba31b43bb9e9df672451edaa4a35ace2ffe826367b28204747744a9e3ec)
+- https://raw.githubusercontent.com/SeleniumHQ/selenium/HEAD/LICENSE (retrieved 2026-10-20T05:02:59Z; SHA-256 307012b4481479a56605420e81db14686a0274d246d06d224c363ee09297d330)
+
+---
+
 ## SentinelDesk
 
 Collaborative Linux desktop streamed to the browser where humans and AI agents share a workspace.
@@ -1882,3 +2184,41 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/useagenthq/useagent/main/README.md (retrieved 2026-11-04T17:55:14Z; SHA-256 3e2a2c8e8f6cfff93e3fd41b554e09f3d924158452c3896aea16ed4022bc54ec)
 - https://raw.githubusercontent.com/useagenthq/useagent/HEAD/LICENSE (retrieved 2026-11-04T18:00:00Z; SHA-256 0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0)
+
+---
+
+## Vessel Browser
+
+Electron/Chromium browser built as a visible runtime for agents: a local MCP server and a built-in assistant read pages as indexed elements and click, type and navigate, with scoped approvals, checkpoints and undo.
+
+- Catalog URL: https://awesomecua.com/resources/github-unmodeled-tyler-vessel-browser/
+- Original source: https://github.com/unmodeled-tyler/vessel-browser
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, human-in-the-loop, tool-integration
+- Evidence checked: 2026-10-18T15:50:50Z
+- ID: github:unmodeled-tyler/vessel-browser
+
+### Limitations
+
+Published under the Quanta Intellect name (repository homepage). Built on Electron 40 with SolidJS; Linux AppImage, Snap and npm installs are offered, and the README calls Linux the most mature target, with macOS packaging from source. The MCP server (default port 3100, bearer token in ~/.config/vessel/mcp-auth.json, vessel-browser-mcp --stdio proxy) is meant for harnesses such as Hermes Agent, OpenClaw or Codex; its interaction tools click, type and select by the element index from the page-content listing, with CSS selector or visible-text fallbacks. Page extraction numbers interactive elements and infers a page schema (page type, form fields, action buttons). The built-in sidebar assistant uses the same tools with Anthropic, OpenAI, Ollama, llama.cpp or other OpenAI-compatible providers. Supervisor controls cover approvals per action, run or domain, pausing, checkpoints, named sessions and undo of the last mutating action. Skills, screenshot analysis, the credential vault, Obsidian memory and parts of the Research Desk require a paid Premium subscription. Root LICENSE is MIT. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-unmodeled-tyler-vessel-browser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/unmodeled-tyler/vessel-browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/unmodeled-tyler/vessel-browser/HEAD/README.md (retrieved 2026-10-18T15:50:50Z; SHA-256 9cd764a28b255f857958078722f4f290347770b80e4b039d513619124278e038)
+- https://api.github.com/repos/unmodeled-tyler/vessel-browser/git/commits/5cb5e53f3823556428e6ad7bd1d73a9a5b6778d5 (retrieved 2026-10-18T15:50:24Z; SHA-256 7a25b0b39f8c13d7ebc59e5aed2c6922b3008761fd212eb12bee82b88bef2914)
+- https://raw.githubusercontent.com/unmodeled-tyler/vessel-browser/5cb5e53f3823556428e6ad7bd1d73a9a5b6778d5/docs/mcp.md (retrieved 2026-10-18T15:50:25Z; SHA-256 b1fd18c292b15025c157531a89505165fdae4a33b27163cd5aeb32c7a9a95a75)
+- https://raw.githubusercontent.com/unmodeled-tyler/vessel-browser/5cb5e53f3823556428e6ad7bd1d73a9a5b6778d5/src/main/mcp/tools/interaction.ts (retrieved 2026-10-18T15:50:25Z; SHA-256 b1e3a26e215e6cc741da7b194a7afbe47ab35cdab176251b5ab6ea8e8d1c3f10)
+- https://raw.githubusercontent.com/unmodeled-tyler/vessel-browser/5cb5e53f3823556428e6ad7bd1d73a9a5b6778d5/src/main/content/extractor.ts (retrieved 2026-10-18T15:50:25Z; SHA-256 d9405934564ed6dab17c3d567b21650c0648649a9a01d4d1788d362f6dc9488c)
+- https://raw.githubusercontent.com/unmodeled-tyler/vessel-browser/HEAD/LICENSE (retrieved 2026-10-18T15:50:51Z; SHA-256 1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685)

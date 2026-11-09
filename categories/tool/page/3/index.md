@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/categories/tool/page/3/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [Clawd Cursor](https://awesomecua.com/resources/github-amrdab-clawdcursor/)
+- [ClawPilot Command Center](https://awesomecua.com/resources/github-edgeagent-clawpilot-command-center/)
 - [ClawTouch MCP](https://awesomecua.com/resources/github-tinqiao-oss-clawtouch-mcp/)
 - [clickcast](https://awesomecua.com/resources/github-alexkay28-clickcast/)
 - [Clickyy](https://awesomecua.com/resources/github-jayamitkatariya-clickyyy/)
@@ -102,5 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [dsh-browser-secure](https://awesomecua.com/resources/github-frankxie-java-dsh-browser-secure/)
 - [dsh-browser-vision](https://awesomecua.com/resources/github-tristan-mcinnis-dsh-browser-vision/)
 - [dsh-browseruse](https://awesomecua.com/resources/github-yzd6552-commits-dsh-browseruse/)
-- [dsh-chrome](https://awesomecua.com/resources/github-stuarthu-dsh-chrome/)
-- [dsh-click](https://awesomecua.com/resources/github-perrylink-dsh-click/)

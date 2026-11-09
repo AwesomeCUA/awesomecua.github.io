@@ -1,0 +1,85 @@
+{
+  "id": "url:07e274077af6ea9fd5f9",
+  "citation-key": "cua_702219eb2a27d3d3eb2d691d",
+  "type": "paper-conference",
+  "title": "WebOlympus: An Open Platform for Web Agents on Live Websites",
+  "URL": "https://aclanthology.org/2024.emnlp-demo.20/",
+  "custom": {
+    "catalog_id": "url:07e274077af6ea9fd5f9",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://aclanthology.org/2024.emnlp-demo.20/",
+    "identifiers": {
+      "doi": "10.18653/v1/2024.emnlp-demo.20"
+    },
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Boyuan Zheng",
+        "Boyu Gou",
+        "Scott Salisbury",
+        "Zheng Du",
+        "Huan Sun",
+        "Yu Su"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        11
+      ],
+      "doi": "10.18653/v1/2024.emnlp-demo.20",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.emnlp-demo.20/"
+      ],
+      "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.",
+      "issue": null,
+      "notes": "Publisher proceedings edition (EMNLP 2024 System Demonstrations).",
+      "pages": "187-197",
+      "pdf_url": "https://aclanthology.org/2024.emnlp-demo.20.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "WebOlympus: An Open Platform for Web Agents on Live Websites",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.emnlp-demo.20/",
+      "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-11.",
+  "author": [
+    {
+      "literal": "Boyuan Zheng"
+    },
+    {
+      "literal": "Boyu Gou"
+    },
+    {
+      "literal": "Scott Salisbury"
+    },
+    {
+      "literal": "Zheng Du"
+    },
+    {
+      "literal": "Huan Sun"
+    },
+    {
+      "literal": "Yu Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2024.emnlp-demo.20",
+  "container-title": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+  "publisher": "Association for Computational Linguistics",
+  "page": "187-197"
+}

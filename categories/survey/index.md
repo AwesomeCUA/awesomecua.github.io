@@ -1,6 +1,6 @@
 # Computer-use agent surveys
 
-> 28 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 29 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/survey/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/papers.json
 
@@ -161,6 +161,65 @@ Fei Tang, Haolei Xu, Hang Zhang, Siqi Chen, Xingyu Wu, Yongliang Shen, Wenqi Zha
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
+
+---
+
+## A Survey on Benchmarks of LLM-based GUI Agents
+
+Surveys LLM-based GUI agent benchmarks in three task tiers (grounding and QA, multi-step navigation, open-world environments), comparing their datasets, environments and metrics, and outlines open evaluation gaps.
+
+- Catalog URL: https://awesomecua.com/resources/url-e1842006eb7b4745da03/
+- Original source: https://doi.org/10.36227/techrxiv.176591818.87526814/v1
+- Kind: survey
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: survey, evaluation, grounding
+- Evidence checked: 2026-10-20T07:44:44Z
+- ID: url:e1842006eb7b4745da03
+
+### Limitations
+
+A TechRxiv preprint (version 1, 16 December 2025) that has not been peer reviewed. The full text tabulates grounding and QA benchmarks such as ScreenQA, ScreenSpot-Pro and OSWorld-G, navigation benchmarks such as VisualWebArena, AndroidControl and GUI-Odyssey, and open-world benchmarks such as SPA-Bench, macOSWorld and MMBench-GUI, with each benchmark's dataset, environment type, evaluators and venue. It reprints ScreenSpot-Pro and OSWorld leaderboard results and GUI-Odyssey results collected from earlier papers, and names explainability, generalization, security, user-centric tasks and on-device deployment as open challenges. Crossref and the preprint state a CC BY 4.0 license.
+
+- Record JSON: https://awesomecua.com/resources/url-e1842006eb7b4745da03/record.json
+
+### Authors
+
+Yihong Chen, Shuai Wang, Yaqing Wang, Quanming Yao
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-e1842006eb7b4745da03/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-e1842006eb7b4745da03/citation.csl.json
+
+### Publication record
+
+- Title: A Survey on Benchmarks of LLM-based GUI Agents
+- Authors: Yihong Chen, Shuai Wang, Yaqing Wang, Quanming Yao
+- Publication date (recorded precision): 2025-12-16
+- Publication source: https://doi.org/10.36227/techrxiv.176591818.87526814/v1
+- Publication BibTeX: https://awesomecua.com/resources/url-e1842006eb7b4745da03/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-e1842006eb7b4745da03/publication-citation.csl.json
+- venue: TechRxiv
+- publisher: Institute of Electrical and Electronics Engineers (IEEE)
+- doi: 10.36227/techrxiv.176591818.87526814/v1
+- date basis: Crossref posted date for the version 1 DOI is 2025-12-16; precision=day. TechRxiv lists this as version 1 and the latest version.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and title searches of arXiv and OpenAlex found no arXiv version, so this TechRxiv preprint seeds the record.
+- notes: A TechRxiv preprint that has not been peer reviewed. Crossref deposits it as posted content with subtype preprint under the IEEE prefix and a CC BY 4.0 license. The DOI resolves only with its /v1 suffix. TechRxiv answers scripted requests with HTTP 403, so the PDF link is retained as published without a fetched receipt.
+- Publication evidence: https://api.crossref.org/works/10.36227/techrxiv.176591818.87526814/v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://api.crossref.org/works/10.36227/techrxiv.176591818.87526814/v1 (retrieved 2026-10-20T04:53:13Z; SHA-256 864338417c88646509a817112eae54be5e8a919f6142130030d93b04a1106339)
+- https://api.crossref.org/works/10.36227/techrxiv.176591818.87526814/v1 (retrieved 2026-10-20T07:44:44Z; SHA-256 864338417c88646509a817112eae54be5e8a919f6142130030d93b04a1106339)
 
 ---
 
@@ -924,6 +983,23 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-13501/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-13501/citation.csl.json
 
+### Publication record
+
+- Title: GUI Agents: A Survey
+- Authors: Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Jihyung Kil, Thien Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt
+- Publication date (recorded precision): 2025-07
+- Publication source: https://aclanthology.org/2025.findings-acl.1158/
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2412-13501/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2412-13501/publication-citation.csl.json
+- venue: Findings of the Association for Computational Linguistics: ACL 2025
+- publisher: Association for Computational Linguistics
+- pages: 22522-22538
+- doi: 10.18653/v1/2025.findings-acl.1158
+- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- identity basis: Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.
+- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.
+- Publication evidence: https://aclanthology.org/2025.findings-acl.1158/
+
 ### Recorded arXiv snapshot
 
 - Version: 3
@@ -943,6 +1019,7 @@ Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu
 ### Primary evidence
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+- https://aclanthology.org/2025.findings-acl.1158/ (retrieved 2026-10-18T16:15:11Z; SHA-256 8beb79549c4d40ba3564c0003d4890c14c8da9b79d28eeccbb3277e7ae008421)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
 
 ---
@@ -1132,6 +1209,23 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-04482/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-04482/citation.csl.json
 
+### Publication record
+
+- Title: OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use
+- Authors: Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, Meiling Tao, Xiangxin Zhou, Ziyu Zhao, Yuhuai Li, Shengze Xu, Shenzhi Wang, Xinchen Xu, Shuofei Qiao, Zhaokai Wang, Kun Kuang, Tieyong Zeng, Liang Wang, Jiwei Li, Yuchen Eleanor Jiang, Wangchunshu Zhou, Guoyin Wang, Keting Yin, Zhou Zhao, Hongxia Yang, Fan Wu, Shengyu Zhang, Fei Wu
+- Publication date (recorded precision): 2025-07
+- Publication source: https://aclanthology.org/2025.acl-long.369/
+- Publication BibTeX: https://awesomecua.com/resources/arxiv-2508-04482/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/arxiv-2508-04482/publication-citation.csl.json
+- venue: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- publisher: Association for Computational Linguistics
+- pages: 7436-7465
+- doi: 10.18653/v1/2025.acl-long.369
+- date basis: Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.
+- identity basis: Same work: the same 29 authors in the same order and the same OS Agents survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity, whose abstract presents the 9-page version accepted by ACL 2025 and whose comment reads ACL 2025 (Oral). The titles differ only in their final phrase.
+- notes: Publisher proceedings edition; retained separately from the arXiv snapshot. The publisher title ends with 'for Computer, Phone and Browser Use', while the retained arXiv v1 title ends with 'for General Computing Devices Use'.
+- Publication evidence: https://aclanthology.org/2025.acl-long.369/
+
 ### Recorded arXiv snapshot
 
 - Version: 1
@@ -1151,6 +1245,7 @@ Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, 
 ### Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2506.10387%2C2506.14866%2C2506.20332%2C2507.00008%2C2507.02592%2C2507.03730%2C2507.04227%2C2507.05445%2C2507.05673%2C2507.05720%2C2507.05791%2C2507.14293%2C2507.14799%2C2507.15846%2C2507.16853%2C2507.19132%2C2507.19478%2C2507.21071%2C2507.22025%2C2507.22358%2C2507.23779%2C2508.00935%2C2508.01330%2C2508.03700%2C2508.03923%2C2508.04010%2C2508.04026%2C2508.04482%2C2508.04700%2C2508.05615%2C2508.05731%2C2508.09057%2C2508.09123%2C2508.13167%2C2508.14040%2C2508.15144%2C2508.18689%2C2508.19679%2C2508.20096%2C2509.02544%2C2509.03891%2C2509.06477%2C2509.10723%2C2509.11250%2C2509.11543%2C2509.15221%2C2509.15566%2C2509.15738%2C2509.18119%2C2510.01354&max_results=50 (retrieved 2026-10-16T06:31:49Z; SHA-256 c208e36ae75cef4b32cfcb2f8182dd4aaaa218e3119bb3d4a2c20a5832f8b1ee)
+- https://aclanthology.org/2025.acl-long.369/ (retrieved 2026-10-19T06:02:12Z; SHA-256 5849bb94e37da67adc84b33e3fd08efc53b105293bef697280f284463e27ee2a)
 - https://export.arxiv.org/api/query?id_list=2506.10387%2C2506.14866%2C2506.20332%2C2507.00008%2C2507.02592%2C2507.03730%2C2507.04227%2C2507.05445%2C2507.05673%2C2507.05720%2C2507.05791%2C2507.14293%2C2507.14799%2C2507.15846%2C2507.16853%2C2507.19132%2C2507.19478%2C2507.21071%2C2507.22025%2C2507.22358%2C2507.23779%2C2508.00935%2C2508.01330%2C2508.03700%2C2508.03923%2C2508.04010%2C2508.04026%2C2508.04482%2C2508.04700%2C2508.05615%2C2508.05731%2C2508.09057%2C2508.09123%2C2508.13167%2C2508.14040%2C2508.15144%2C2508.18689%2C2508.19679%2C2508.20096%2C2509.02544%2C2509.03891%2C2509.06477%2C2509.10723%2C2509.11250%2C2509.11543%2C2509.15221%2C2509.15566%2C2509.15738%2C2509.18119%2C2510.01354&max_results=50 (retrieved 2026-10-16T06:31:49Z; SHA-256 c208e36ae75cef4b32cfcb2f8182dd4aaaa218e3119bb3d4a2c20a5832f8b1ee)
 
 ---

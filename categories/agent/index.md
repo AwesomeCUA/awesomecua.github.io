@@ -1,6 +1,6 @@
 # Computer-use agent agents
 
-> 316 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 372 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -549,6 +549,44 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AI Browser (DeepFundAI)
+
+Electron desktop browser whose built-in agents, imported from Eko-based npm packages, plan editable multi-step workflows and operate web pages in its own tabs, alongside chat, scheduled tasks and memory.
+
+- Catalog URL: https://awesomecua.com/resources/github-deepfundai-ai-browser/
+- Original source: https://github.com/DeepFundAI/ai-browser
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, workflow, human-in-the-loop
+- Evidence checked: 2026-10-18T15:41:31Z
+- ID: github:deepfundai/ai-browser
+
+### Limitations
+
+The repository holds the Next.js and Electron app: tabs as Electron WebContentsView instances (electron/main/services/tab-manager.ts), scheduling, memory, settings, and the agent wiring in electron/main/services/eko-service.ts. The BrowserAgent and FileAgent themselves are imported from the npm packages @jarvis-agent/core and @jarvis-agent/electron (0.3.x), which the README describes as based on Eko; their npm metadata names FellouAI as author and a placeholder repository URL, and their source is not in this tree. In Deep Explore mode the user confirms or edits the generated workflow, and the agent can ask questions during a run. The README calls it a learning project developed and tested mainly with DeepSeek models. Releases ship macOS and Windows installers. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-deepfundai-ai-browser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/DeepFundAI/ai-browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/DeepFundAI/ai-browser/HEAD/README.md (retrieved 2026-10-18T15:41:31Z; SHA-256 227fc4df2761a0fe4abc714e0f50f55290a351d769a05032f749824b99e02993)
+- https://raw.githubusercontent.com/DeepFundAI/ai-browser/1af9ba678f8ab46275baaecacfd1b576cd07d60b/electron/main/services/eko-service.ts (retrieved 2026-10-18T15:41:28Z; SHA-256 c6dafa9e7c30e6b589acaa96b51a3a552b34f55ed76f270c26d28618417acaf1)
+- https://raw.githubusercontent.com/DeepFundAI/ai-browser/1af9ba678f8ab46275baaecacfd1b576cd07d60b/electron/main/services/tab-manager.ts (retrieved 2026-10-18T15:41:28Z; SHA-256 4683c4a14967335bbb3aa5b91d010bdeb9ec4783a57f73213918df8935e753c7)
+- https://raw.githubusercontent.com/DeepFundAI/ai-browser/1af9ba678f8ab46275baaecacfd1b576cd07d60b/package.json (retrieved 2026-10-18T15:41:29Z; SHA-256 19418f0be5ea19b3c775d4a56fae5dbd08d5de665dadbf58440e47906dea3445)
+- https://raw.githubusercontent.com/DeepFundAI/ai-browser/1af9ba678f8ab46275baaecacfd1b576cd07d60b/LICENSE (retrieved 2026-10-18T15:41:29Z; SHA-256 dcf14747aed27f24321ce837c0006d1637c92a818481def3ff5793e2f9aef889)
+- https://raw.githubusercontent.com/DeepFundAI/ai-browser/HEAD/LICENSE (retrieved 2026-10-18T15:41:39Z; SHA-256 dcf14747aed27f24321ce837c0006d1637c92a818481def3ff5793e2f9aef889)
+
+---
+
 ## AI Deep Search Agent (AI 深度搜索助手)
 
 Visual browser agent that drives a real Microsoft Edge window from natural-language goals to conduct deep web research.
@@ -613,6 +651,88 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/Caicai-Jin/ai-medicalClaimForm-filling-agent/main/README.md (retrieved 2026-11-04T18:11:51Z; SHA-256 98d3cc451511f06c7a6d61bc5bd7c58782c885882b6a3a6865f733303437e3a7)
+
+---
+
+## AI Mime
+
+macOS app that records a demonstrated task, has an agent compile it into a portable skill of scripts, browser CDP steps and computer-use fallbacks, and patches the skill when a rerun breaks.
+
+- Catalog URL: https://awesomecua.com/resources/github-prakhar1114-ai-mime/
+- Original source: https://github.com/prakhar1114/ai_mime
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: macos, desktop, web
+- Topics: recording, workflow, automation, robustness
+- Evidence checked: 2026-10-20T08:40:23Z
+- ID: github:prakhar1114/ai_mime
+
+### Limitations
+
+Requires macOS 13 or newer, Python 3.12 and Accessibility, Screen Recording and Input Monitoring permissions; Windows is not supported yet. The recorder (pynput listeners and mss screenshots) writes a manifest of clicks, typing, hotkeys and scrolls with pre-action screenshots, plus optional extract and detail notes. Reflection turns the trace into a coordinate-free schema.json; an optimizer writes optimized_plan.json, preferring script steps, then browser_harness steps (Chrome CDP through a browser-harness git submodule), then ui_agent steps; a build agent packages a Claude Skill-compatible folder with run.sh, inputs and a fallback plan. The ui_agent drives the Mac in the foreground through cua-computer-server MCP tools, which AI Mime extends with combined screenshot-plus-accessibility-tree reads, and is told to target accessibility elements before screenshot coordinates. Agent runtimes are Anthropic (Claude Code) or OpenAI (Codex), selected during onboarding, with custom providers in user_config.yml. A prebuilt macOS DMG is linked from the README. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-prakhar1114-ai-mime/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/prakhar1114/ai_mime/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/prakhar1114/ai_mime/HEAD/README.md (retrieved 2026-10-20T08:40:23Z; SHA-256 75bc7660d005f5407470449ddb466695192c3cf56c1052f026ac9449cc299916)
+- https://raw.githubusercontent.com/prakhar1114/ai_mime/0d5e9d3168cdde02d43448fa4a80521ebac3501d/README.md (retrieved 2026-10-20T08:38:51Z; SHA-256 75bc7660d005f5407470449ddb466695192c3cf56c1052f026ac9449cc299916)
+- https://raw.githubusercontent.com/prakhar1114/ai_mime/0d5e9d3168cdde02d43448fa4a80521ebac3501d/docs/architecture.md (retrieved 2026-10-20T08:38:54Z; SHA-256 72484de01db7cae978b1a0b8d5efcbe186b16297f3cfbaf471c2541edc3a8452)
+- https://raw.githubusercontent.com/prakhar1114/ai_mime/0d5e9d3168cdde02d43448fa4a80521ebac3501d/src/ai_mime/agent_runner/computer_use.py (retrieved 2026-10-20T08:39:01Z; SHA-256 33a8ecce99dc84b106a94a6946cec5e11c742c0c66acdaa9e95d06a737a41e21)
+- https://raw.githubusercontent.com/prakhar1114/ai_mime/0d5e9d3168cdde02d43448fa4a80521ebac3501d/src/ai_mime/computer_server_custom.py (retrieved 2026-10-20T08:39:09Z; SHA-256 8107c5ddd0c3890875ab492a0075adfd308fb9df75e2d82c8e046c86a616c2cd)
+- https://raw.githubusercontent.com/prakhar1114/ai_mime/0d5e9d3168cdde02d43448fa4a80521ebac3501d/src/ai_mime/record/capture.py (retrieved 2026-10-20T08:40:06Z; SHA-256 a424dc623f967b6d40ee8c9369fd5c19a73345853ff84cac0bec69fd852dbddb)
+- https://raw.githubusercontent.com/prakhar1114/ai_mime/0d5e9d3168cdde02d43448fa4a80521ebac3501d/pyproject.toml (retrieved 2026-10-20T08:39:12Z; SHA-256 e30cdf0b24abf56cf7465e115dae74f3438e183356e5b3ec82c3531ed068d4b5)
+- https://raw.githubusercontent.com/prakhar1114/ai_mime/0d5e9d3168cdde02d43448fa4a80521ebac3501d/LICENSE (retrieved 2026-10-20T08:39:22Z; SHA-256 9f31d9ff0d3bb24073544e54810ab69bc51f713d2e61334a0a1fa19978cda8da)
+- https://raw.githubusercontent.com/prakhar1114/ai_mime/HEAD/LICENSE (retrieved 2026-10-20T08:41:20Z; SHA-256 9f31d9ff0d3bb24073544e54810ab69bc51f713d2e61334a0a1fa19978cda8da)
+
+---
+
+## AI SDK Computer Use
+
+Next.js chat app from Vercel Labs in which Claude's computer and bash tools operate a Linux desktop in a Vercel Sandbox, clicking and typing through xdotool and streaming the screen to the page over noVNC.
+
+- Catalog URL: https://awesomecua.com/resources/github-vercel-labs-ai-sdk-computer-use/
+- Original source: https://github.com/vercel-labs/ai-sdk-computer-use
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: sandbox, tool-integration
+- Evidence checked: 2026-10-20T04:02:46Z
+- ID: github:vercel-labs/ai-sdk-computer-use
+
+### Limitations
+
+Published by the vercel-labs GitHub organization. At commit ed103da the chat route calls claude-sonnet-4-5-20250929 through the AI SDK with Anthropic's computer_20250124 and bash_20250124 tools. lib/sandbox/tool.ts executes clicks, drags, typing, key presses and scrolling with xdotool on display :99 at 1024x768 and captures plain full-screen screenshots with ImageMagick import. lib/sandbox/create-snapshot.ts installs Xvnc, openbox, Google Chrome, noVNC and websockify and builds xdotool from source. The Vercel template page vercel.com/templates/next.js/ai-sdk-computer-use republishes the README. No code was run.
+
+- Record JSON: https://awesomecua.com/resources/github-vercel-labs-ai-sdk-computer-use/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The non-truncated tree at commit ed103da has no license file and package.json declares no license field. The README calls the app open-source but names no license terms, so the code license stays unknown.
+  Sources: https://api.github.com/repos/vercel-labs/ai-sdk-computer-use/git/trees/ed103da5ebe75112850fbba39872206dd3c439de?recursive=1, https://raw.githubusercontent.com/vercel-labs/ai-sdk-computer-use/ed103da5ebe75112850fbba39872206dd3c439de/package.json
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vercel-labs/ai-sdk-computer-use/HEAD/README.md (retrieved 2026-10-20T04:02:46Z; SHA-256 bf14dc93389403c0102558bb0d30bc0fa9fb04d70af51fddb45dcd486176cd27)
+- https://api.github.com/repos/vercel-labs/ai-sdk-computer-use/git/trees/ed103da5ebe75112850fbba39872206dd3c439de?recursive=1 (retrieved 2026-10-20T04:02:48Z; SHA-256 d820d0368722f2d78fc8aded5d5b6d995eefb7cad22d2e4bfbcfa7dac837ec09)
+- https://raw.githubusercontent.com/vercel-labs/ai-sdk-computer-use/ed103da5ebe75112850fbba39872206dd3c439de/lib/sandbox/tool.ts (retrieved 2026-10-20T04:02:46Z; SHA-256 d6f787b28ef509b505c1f28fc21896afc6e34a97c654019b05737f48422d8ac6)
+- https://raw.githubusercontent.com/vercel-labs/ai-sdk-computer-use/ed103da5ebe75112850fbba39872206dd3c439de/app/api/chat/route.ts (retrieved 2026-10-20T04:02:47Z; SHA-256 f3e618a4c7e18148e5c75338bbea119685dd22cae329fa3bf96f5c3c36d5d5fd)
+- https://raw.githubusercontent.com/vercel-labs/ai-sdk-computer-use/ed103da5ebe75112850fbba39872206dd3c439de/lib/sandbox/create-snapshot.ts (retrieved 2026-10-20T04:02:47Z; SHA-256 e2cf41d19674d92889128821fd47ff8c45b4cbc50da2ca34c72d53de145cad9e)
+- https://raw.githubusercontent.com/vercel-labs/ai-sdk-computer-use/ed103da5ebe75112850fbba39872206dd3c439de/package.json (retrieved 2026-10-20T04:02:48Z; SHA-256 929b7ea91ff77b7c9a14e15b3d6561c85b6c3e19c5c799215485e3df58d80b31)
 
 ---
 
@@ -848,6 +968,47 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/anchor-inference/daedalus/main/README.md (retrieved 2026-11-04T18:11:51Z; SHA-256 6f3ddd3a909aee7a38f35ead3371b58364f10b8ed8d4d969979d67b6ea009694)
 - https://raw.githubusercontent.com/anchor-inference/daedalus/HEAD/LICENSE (retrieved 2026-11-04T18:16:34Z; SHA-256 c39494f1b809e8ff36904c508fe138b425c223fc7b659c7557d37ac2c6df23b3)
+
+---
+
+## Andee
+
+On-device Android agent in one APK that operates any app through an accessibility service, reading an element outline or, when needed, a screenshot with a labelled 8x12 grid, on any OpenAI-compatible model.
+
+- Catalog URL: https://awesomecua.com/resources/github-kuafuai-andee/
+- Original source: https://github.com/kuafuai/andee
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, grounding, memory, safety-security
+- Evidence checked: 2026-10-20T08:00:27Z
+- ID: github:kuafuai/andee
+
+### Limitations
+
+Kotlin Android app for Android 11 (API 30) or later, published by KUAFUAI, with a floating-ball persona, voice input and output, an encrypted on-device notebook and scheduled scenes. One AccessibilityService is the entry point. ScreenController.kt renders the pruned accessibility tree as an outline with one line per element, an element id, a clickable mark and a centre in 0-1000 relative coordinates; for apps that draw their own pixels the model gets a screenshot (accessibility takeScreenshot, or MediaProjection per ScreenCapture.kt) overlaid with an 8-column by 12-row labelled grid, taps by cell and which third of it, and can request a zoomed view with a red crosshair before committing. A per-location guard refuses a fourth tap within 120 px of the same spot inside five minutes. Text goes in through the accessibility input channel on Android 13 or later, with ADBKeyboard as the fallback. LocalBrain.kt runs a non-streaming tool-calling loop against any OpenAI-compatible endpoint for a configurable number of steps (1 to 200); the brain can instead run elsewhere and reach the device over a WebSocket hub. The README states that the dispatcher stops before a purchase's final confirmation, never enters payment passwords, and types vault passwords without returning them to the model. Optional extras include a robot dog driven through a USB OTG dongle. Root LICENSE is the Andee Open Source License: Apache-2.0 text with additional conditions (no white-labelling, no multi-tenant hosting, written authorisation to ship it inside another product); GitHub reports NOASSERTION. The README says ML Kit barcode and play-services stubs bundled with the app are not open source. Not a fork, not archived; release v0.5.2 tags the inspected commit. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-kuafuai-andee/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: Root LICENSE is the custom Andee Open Source License, the Apache-2.0 text modified by additional conditions in its Part A (no white-labelling, no multi-tenant hosting without written authorisation, written authorisation to distribute it inside another product); it is not a standard SPDX license, and GitHub reports NOASSERTION.
+  Sources: https://raw.githubusercontent.com/kuafuai/andee/634c6ee34ef11454116de7311bc901c3783c345c/LICENSE
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/kuafuai/andee/HEAD/README.md (retrieved 2026-10-20T08:00:27Z; SHA-256 af06d7bce0a4faf5ff10e0dfcb6f50538ca48d7d0ac21ab15489dc28af18e44d)
+- https://api.github.com/repos/kuafuai/andee/git/trees/634c6ee34ef11454116de7311bc901c3783c345c?recursive=1 (retrieved 2026-10-20T07:59:27Z; SHA-256 a238d3ec93be2cdafd86499647f910efc8d8b757aea11512666bf4e24b829789)
+- https://raw.githubusercontent.com/kuafuai/andee/634c6ee34ef11454116de7311bc901c3783c345c/LICENSE (retrieved 2026-10-20T07:59:30Z; SHA-256 f7655506b6a1e66156b05dd42ab11790463ce18a39087e1d06723140d6d2cb4d)
+- https://raw.githubusercontent.com/kuafuai/andee/634c6ee34ef11454116de7311bc901c3783c345c/app/src/main/java/net/kuafuai/andee/screen/ScreenController.kt (retrieved 2026-10-20T07:59:30Z; SHA-256 1f0d63a5202474a1b7ac07d72d06ae70e1b3d06b96cc26e3eb9f0076e79271e8)
+- https://raw.githubusercontent.com/kuafuai/andee/634c6ee34ef11454116de7311bc901c3783c345c/app/src/main/java/net/kuafuai/andee/screen/ScreenCapture.kt (retrieved 2026-10-20T07:59:31Z; SHA-256 0a06269701741c40391ba561a25af14206ffa72d318c5a97d7135f9e5a6ceb58)
+- https://raw.githubusercontent.com/kuafuai/andee/634c6ee34ef11454116de7311bc901c3783c345c/app/src/main/java/net/kuafuai/andee/brain/LocalBrain.kt (retrieved 2026-10-20T07:59:31Z; SHA-256 4f1f51af648465a5f7f558697649efdf675defbe58624e51d4c76f199e6cfd6b)
 
 ---
 
@@ -1636,6 +1797,46 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Bah
+
+Electron AI browser whose side-panel agent reads numbered page elements from the DOM or accessibility tree, page text and OCR, then clicks and types through Chromium input events, using cloud or local Ollama models.
+
+- Catalog URL: https://awesomecua.com/resources/github-alexvilelabah-bah-browser/
+- Original source: https://github.com/alexvilelabah/bah-browser
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, human-in-the-loop, automation
+- Evidence checked: 2026-10-18T15:46:09Z
+- ID: github:alexvilelabah/bah-browser
+
+### Limitations
+
+Browser application by VilelaLab with Windows and macOS builds (release v1.9.2). The agent loop observes each page through an injected script or the CDP accessibility tree (src/renderer/page-executor.ts), adds tesseract.js OCR text, and attaches a page screenshot only when the configured model accepts images (src/main/ai-engine.ts); clicks and keys go through Electron sendInputEvent on the page (src/main/main.ts). Tools include element-reference clicks and fills, coordinate clicks, tabs and navigation, plus non-interface skills such as image generation, video and price lookups. The README states a 25-step cap, confirmation before paying, buying, deleting or entering card data, and a hand-off on CAPTCHAs and login walls. It runs in the user's persistent logged-in session, presents a Chrome user agent and masks navigator.webdriver, and the app also bundles an ad blocker, password manager, media downloader and torrent client. Supported providers are DeepSeek, Mistral, NVIDIA NIM and Ollama. The agent was not run.
+
+- Record JSON: https://awesomecua.com/resources/github-alexvilelabah-bah-browser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/alexvilelabah/bah-browser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/alexvilelabah/bah-browser/HEAD/README.md (retrieved 2026-10-18T15:46:09Z; SHA-256 3ea4ce1a8965d8f880b6776ae8203aff5e63994c77dd44d2245315f1e7aa19c4)
+- https://api.github.com/repos/alexvilelabah/bah-browser (retrieved 2026-10-18T15:46:10Z; SHA-256 bf0ad7dfbd7cf46bd160275a0128196f13aa63f3cac5059f32bfdba3b24e56e4)
+- https://api.github.com/repos/alexvilelabah/bah-browser/git/trees/6441bdce349ab31041c79f5b9002d82e0fa9f4bc?recursive=1 (retrieved 2026-10-18T15:46:11Z; SHA-256 8682c74424570d8181af812c426e92ecd071586f033da1e9c4d3a789d927f45a)
+- https://raw.githubusercontent.com/alexvilelabah/bah-browser/6441bdce349ab31041c79f5b9002d82e0fa9f4bc/src/renderer/page-executor.ts (retrieved 2026-10-18T15:46:11Z; SHA-256 f092fe6b3199d6525ba61db8cb5d90c3398c1e974be0813a6239c33ee411870e)
+- https://raw.githubusercontent.com/alexvilelabah/bah-browser/6441bdce349ab31041c79f5b9002d82e0fa9f4bc/src/main/ai-engine.ts (retrieved 2026-10-18T15:46:11Z; SHA-256 d6ffb9b27132a5834b25c0de9d5469c70a75a8ce3fdb3c476ea0f3ba85da8c1b)
+- https://raw.githubusercontent.com/alexvilelabah/bah-browser/6441bdce349ab31041c79f5b9002d82e0fa9f4bc/src/main/main.ts (retrieved 2026-10-18T15:46:12Z; SHA-256 a37361b80074e376de55115338401f46ef5f99f008d2f93d1127cce7ab799c7a)
+- https://raw.githubusercontent.com/alexvilelabah/bah-browser/6441bdce349ab31041c79f5b9002d82e0fa9f4bc/LICENSE (retrieved 2026-10-18T15:46:12Z; SHA-256 40a1c1e0a2996effbe5ab31283e34886b02125428d23bfb5d69aaa14e0dd17f7)
+- https://raw.githubusercontent.com/alexvilelabah/bah-browser/HEAD/LICENSE (retrieved 2026-10-18T15:46:47Z; SHA-256 40a1c1e0a2996effbe5ab31283e34886b02125428d23bfb5d69aaa14e0dd17f7)
+
+---
+
 ## BLAXCY
 
 BLAXCY is a policy-gated, self-verifying Linux desktop computer-use agent with action confirmation and state verification.
@@ -1771,6 +1972,49 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Bops
+
+Mac app for a team of business-ops bots that work on Orgo cloud Linux desktops through OpenAI's computer tool, run as xdotool actions, plus Playwright page scripts, app connectors, approval gates and live take-over.
+
+- Catalog URL: https://awesomecua.com/resources/github-orgoai-bops/
+- Original source: https://github.com/OrgoAI/bops
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, macos, web
+- Topics: automation, workflow, human-in-the-loop, tool-integration, web-navigation
+- Evidence checked: 2026-10-20T08:17:25Z
+- ID: github:orgoai/bops
+
+### Limitations
+
+Electron app (desktop/) that starts a local Next.js server (app/, lib/server/) on port 3210; version 0.0.28 in package.json, matching release tag v0.0.28 at 92ec73d, and the inspected commit 62c7f98 is later. Bots' tasks run on Orgo cloud computers launched from the bops-base template that orgo/bops-base.mjs builds from vm/ (Codex, the screen MCP and per-screen Chrome helpers). By default lib/server/computer-task.ts runs each thread on OpenAI's Responses API computer tool: Orgo's API returns a screenshot of the bot's screen, and every click, double-click, drag, scroll, typing or key press the model asks for is executed as xdotool commands through Orgo's bash endpoint, with the result screen sent back; the same loop offers a page_script tool that runs a short Playwright script on the screen's Chrome over CDP, a Linux shell, web search, a password vault and app, data and CRM tools. With BOPS_COMPUTER_TOOL=0 threads use OpenAI's Agents API with Codex and vm/screen_mcp.py, which exposes one screen's screenshot and input actions over MCP. Tasks on the user's own Mac run in a bot-owned Chrome; with Full access they also get a shell and the user's apps through Cua Driver behind vm/mac-ui-mcp.mjs, which hides sensitive apps, sends input only in the background and blocks quitting, copying and pasting (lib/server/local.ts). Per the README, reading runs at once while sending, creating and paying wait for the user's approval, and any screen can be watched live and taken over. Self-hosting requires an Orgo account and two OpenAI API keys, with Honcho, Composio, treg, AgentMail, AgentPhone and TypeSafe recommended or optional; signing in with Orgo instead routes provider calls through Orgo's hosted Bops Cloud (cloud/). Licensed FSL-1.1-ALv2 (fair source; competing products and hosted services are excluded, and each version becomes Apache-2.0 two years after release); components/message-ui/ is adapted from MIT-licensed code. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-orgoai-bops/record.json
+
+### License declarations
+
+- code: FSL-1.1-ALv2 — https://raw.githubusercontent.com/OrgoAI/bops/62c7f98d8873707cf792ee518e06868d4f622cde/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The LICENSE file is the Functional Source License 1.1, ALv2 Future License, which enrich does not recognize as a standard open-source text. It permits uses other than competing products or services and grants Apache-2.0 for each version two years after it is made available.
+  Sources: https://raw.githubusercontent.com/OrgoAI/bops/62c7f98d8873707cf792ee518e06868d4f622cde/LICENSE
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OrgoAI/bops/HEAD/README.md (retrieved 2026-10-20T08:17:25Z; SHA-256 0d17b7e8fbee9ac443909fe5686805e6fd6816b2c3b2d7d43688655d2d5ccba7)
+- https://raw.githubusercontent.com/OrgoAI/bops/62c7f98d8873707cf792ee518e06868d4f622cde/lib/server/computer-task.ts (retrieved 2026-10-20T08:16:38Z; SHA-256 283f1262fb8d9b04953fd6318a67785ba4f9f24b8a2d460b3f29139ffe18222d)
+- https://raw.githubusercontent.com/OrgoAI/bops/62c7f98d8873707cf792ee518e06868d4f622cde/vm/screen_mcp.py (retrieved 2026-10-20T08:16:38Z; SHA-256 57e636b7792c540b96010b4378a88d5280f7fc09ce9cf92f76560bbbdf4536c1)
+- https://raw.githubusercontent.com/OrgoAI/bops/62c7f98d8873707cf792ee518e06868d4f622cde/vm/mac-ui-mcp.mjs (retrieved 2026-10-20T08:16:39Z; SHA-256 f2233f4443f8abc20a12511647d97f92d7f875fa55cde6ca996efb05e2d2f09d)
+- https://raw.githubusercontent.com/OrgoAI/bops/62c7f98d8873707cf792ee518e06868d4f622cde/lib/server/local.ts (retrieved 2026-10-20T08:16:39Z; SHA-256 b5de93eda6a88a84f9c6356da8b4976a20b123eea1a8fc84cc3d9df05c429343)
+- https://raw.githubusercontent.com/OrgoAI/bops/62c7f98d8873707cf792ee518e06868d4f622cde/orgo/bops-base.mjs (retrieved 2026-10-20T08:16:39Z; SHA-256 74e93b0e63db604bb2cf06bf65c4b7a51b78f0805dc27192847283f10461e59c)
+- https://raw.githubusercontent.com/OrgoAI/bops/62c7f98d8873707cf792ee518e06868d4f622cde/package.json (retrieved 2026-10-20T08:16:40Z; SHA-256 4a7ea0a7b7fb17c72ec7d5fe398f854233c4188594352942ae0dfa2187f57a2c)
+- https://raw.githubusercontent.com/OrgoAI/bops/62c7f98d8873707cf792ee518e06868d4f622cde/LICENSE (retrieved 2026-10-20T08:16:40Z; SHA-256 80fc5e9f40bdfa8d453fefb71f5304e812687e0fcfb1d3c126635b2285090816)
+
+---
+
 ## Boss Agent
 
 Local job-search browser agent that parses natural-language criteria, drives Chrome on Boss Zhipin, and manages application state.
@@ -1837,6 +2081,45 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## BrowseGPT
+
+Chrome extension with a local Node.js server that lists the visible page's links, buttons and inputs as a numbered outline and asks OpenAI gpt-3.5-turbo for the next CLICK, ENTER_TEXT or NAVIGATE step toward a goal.
+
+- Catalog URL: https://awesomecua.com/resources/github-danielpquinn-browsegpt/
+- Original source: https://github.com/danielpquinn/browsegpt
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation
+- Evidence checked: 2026-10-19T07:16:33Z
+- ID: github:danielpquinn/browsegpt
+
+### Limitations
+
+Inspected at commit c86c148e (23 July 2024), the latest commit on the default branch. The content script assigns IDs to visible, in-viewport elements and sends the first 100 outline lines with the goal, URL and up to five previous steps to the server, whose few-shot prompt asks gpt-3.5-turbo for one JSON command with a reason; the extension then calls click(), enters text or changes the location. Each submission runs one step, and elements already acted on are left out of later outlines. The Manifest V3 extension is labelled version 2.0. The browsegpt.ai site and its llms.txt describe Claude Haiku 4.5 as the default model with OpenAI GPT as an option, but the public repository's server calls only the OpenAI API; the Chrome Web Store build was not inspected. The repository has no license file, so the code license is unknown. No code was run.
+
+- Record JSON: https://awesomecua.com/resources/github-danielpquinn-browsegpt/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/danielpquinn/browsegpt/HEAD/README.md (retrieved 2026-10-19T07:16:33Z; SHA-256 b9fb78e90668bcdf178ed8370837dff0359b2841e659e3b977c8125cfcf50b74)
+- https://api.github.com/repos/danielpquinn/browsegpt/git/trees/c86c148ec7862f971fe827e1270684b9c8c41016?recursive=1 (retrieved 2026-10-19T07:16:32Z; SHA-256 c62774e401dfeeb8345bceb4bce0bbe78bae756ee25617813401828f8052ac29)
+- https://raw.githubusercontent.com/danielpquinn/browsegpt/c86c148ec7862f971fe827e1270684b9c8c41016/extension/content.js (retrieved 2026-10-19T06:15:41Z; SHA-256 3dbf1c8225ca5bdc2d3ab7c5c7678a564ab105d6bda589285aedfe6658fa9ad7)
+- https://raw.githubusercontent.com/danielpquinn/browsegpt/c86c148ec7862f971fe827e1270684b9c8c41016/extension/main-vue.js (retrieved 2026-10-19T06:15:41Z; SHA-256 a64ba7f0038e262163f378df4e320371fc1231a80600883102810abf14c24a3e)
+- https://raw.githubusercontent.com/danielpquinn/browsegpt/c86c148ec7862f971fe827e1270684b9c8c41016/server/lib.js (retrieved 2026-10-19T06:15:41Z; SHA-256 27446dfeb7b4e3f333360b2ec2a9869d258f1c4a2f91a89d054ea4da09dd461c)
+- https://raw.githubusercontent.com/danielpquinn/browsegpt/c86c148ec7862f971fe827e1270684b9c8c41016/extension/manifest.json (retrieved 2026-10-19T06:15:41Z; SHA-256 ecb5c03ffde657405ed8ab4098430e4a9f33df21b5ded6be56c843d2940f8f80)
+- https://browsegpt.ai/llms.txt (retrieved 2026-10-19T06:15:41Z; SHA-256 38cff1cc93e9fc68fa63038d9594027848d741111749cbaa47e18f98cb3c0995)
+
+---
+
 ## browsegrab
 
 Token-efficient browser agent and MCP server for local LLMs combining Playwright, accessibility trees, and Markdown extraction.
@@ -1868,6 +2151,85 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/ArkNill/browsegrab/HEAD/README.md (retrieved 2026-11-04T15:45:51Z; SHA-256 cbc318fe0412aee00af1464dccd638932821e7ea61e8ff0cb2ed9973a18d7fe9)
 - https://raw.githubusercontent.com/ArkNill/browsegrab/HEAD/LICENSE (retrieved 2026-11-04T15:57:46Z; SHA-256 7c5970aa88f00ff616f24c5cd1b01ae67d25b8c0adc1fd38159f80774690ed12)
+
+---
+
+## Browser Agent
+
+Python agent that attaches Playwright to a local Chrome over CDP, maps visible interactive elements from the DOM into numbered IDs, and lets an LLM navigate, click, type, select and ask the user for missing input.
+
+- Catalog URL: https://awesomecua.com/resources/github-rkvalandas-browser-agent/
+- Original source: https://github.com/rkvalandas/browser_agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, human-in-the-loop
+- Evidence checked: 2026-10-18T16:15:38Z
+- ID: github:rkvalandas/browser_agent
+
+### Limitations
+
+Single-author personal project. browser/browser_setup.py connects to Chrome on localhost:9222 through connect_over_cdp and launches Chrome with remote debugging when none is running. browser/analyzers/page_analyzer.py runs a DOM script that classifies elements by tag and ARIA role, builds unique selectors and detects modal overlays; no screenshots are taken. docs/BROWSER_TOOLS.md documents the tool set (analyze_page, navigate, go_back, scroll, click, type, select_option, keyboard_action, ask_user). LLM backends are OpenAI, Azure OpenAI, Groq or Anthropic (agent/llm_providers.py). No evaluation results are published. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-rkvalandas-browser-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/rkvalandas/browser_agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/rkvalandas/browser_agent/HEAD/Readme.md (retrieved 2026-10-18T16:15:38Z; SHA-256 7ba8cad538a338630440563c00bd72748cefef5e13a8d0c053ca6634c317c9e1)
+- https://raw.githubusercontent.com/rkvalandas/browser_agent/2070c4eec9bbb0f55d63b4ac3728fd881c0de734/browser/analyzers/page_analyzer.py (retrieved 2026-10-18T16:15:27Z; SHA-256 0ec630731e58ca29f367a743cc15fbb02cbde52a4b82ffcb5f7a951c79cad832)
+- https://raw.githubusercontent.com/rkvalandas/browser_agent/2070c4eec9bbb0f55d63b4ac3728fd881c0de734/browser/browser_setup.py (retrieved 2026-10-18T16:15:27Z; SHA-256 4c90f3ae2d6b3de04fba90e888c1694f61cf9ec59352822f8be62c56eeab65c6)
+- https://raw.githubusercontent.com/rkvalandas/browser_agent/2070c4eec9bbb0f55d63b4ac3728fd881c0de734/docs/BROWSER_TOOLS.md (retrieved 2026-10-18T16:15:27Z; SHA-256 147c7d957c5ce03a7f431233565ac4427253e3928614e23f0355d09f8464665a)
+- https://raw.githubusercontent.com/rkvalandas/browser_agent/2070c4eec9bbb0f55d63b4ac3728fd881c0de734/agent/llm_providers.py (retrieved 2026-10-18T16:15:27Z; SHA-256 700b76c889c23b1b889c5458fba238b0cb6c0ee12ad57b86d40a2117ddc075b4)
+- https://raw.githubusercontent.com/rkvalandas/browser_agent/2070c4eec9bbb0f55d63b4ac3728fd881c0de734/LICENSE (retrieved 2026-10-18T16:15:27Z; SHA-256 09ea4c8909e48f4ccaad85df33c0e79b6ad27704422aee0c41efbb510f682b97)
+- https://raw.githubusercontent.com/rkvalandas/browser_agent/HEAD/LICENSE (retrieved 2026-10-18T16:15:52Z; SHA-256 09ea4c8909e48f4ccaad85df33c0e79b6ad27704422aee0c41efbb510f682b97)
+
+---
+
+## Browser Agent (uiuing)
+
+Chrome side-panel agent whose page engine reads a whole-page semantic DOM snapshot, re-grounds targets by element fingerprints, dispatches DOM events and checks post-conditions before reporting success.
+
+- Catalog URL: https://awesomecua.com/resources/github-uiuing-browser-agent/
+- Original source: https://github.com/uiuing/browser-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, state-tracking, workflow
+- Evidence checked: 2026-10-18T15:56:55Z
+- ID: github:uiuing/browser-agent
+
+### Limitations
+
+Chrome Manifest V3 extension by uiuing, first released as v0.0.1 (Chrome zip in GitHub releases). The model acts on pages only through the page_act tool, which hands a goal to an engine that builds a semantic snapshot of DOM nodes with roles, accessible names, values, occlusion, open shadow roots and same-origin iframes (packages/extension/src/engine/page/perception.ts), resolves targets by fingerprint against a fresh snapshot and fires click, input, change and key events in the page (engine/page/execute.ts). The page_screenshot tool only shows a capture to the user; its description says the model does not see the pixels (tools/page.ts). A chrome.debugger channel is used for file uploads and falls back to DOM synthesis. Tools carry read, act or dangerous risk tiers with site allow/block lists and confirmation; verified runs can be saved as skills and replayed over batch rows. Model ports cover OpenAI-compatible, OpenAI Responses and Anthropic APIs. The docs/benchmark.md comparison is publisher-run on the project's own fixtures against its own replica of a viewport-only baseline. The agent was not run.
+
+- Record JSON: https://awesomecua.com/resources/github-uiuing-browser-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/uiuing/browser-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/uiuing/browser-agent/HEAD/README.md (retrieved 2026-10-18T15:56:55Z; SHA-256 2e46eff7ae7f8eb2e67eb1c6977815bb695b7f87437069bfdd59f3db4b062f9a)
+- https://api.github.com/repos/uiuing/browser-agent (retrieved 2026-10-18T15:56:02Z; SHA-256 2a90a9a2a2874d612b7f6699ca2cabdda0748a7d9e272427b5235fc788aa22e0)
+- https://api.github.com/repos/uiuing/browser-agent/git/trees/a8517e2c5cd5be9d77e66f90180e25490c67d9ba?recursive=1 (retrieved 2026-10-18T15:56:03Z; SHA-256 db5ed13baf5a90c4171402b7524f3a58339c07bc5d5f182f9e0f51460dbfafaa)
+- https://raw.githubusercontent.com/uiuing/browser-agent/a8517e2c5cd5be9d77e66f90180e25490c67d9ba/packages/extension/src/engine/page/perception.ts (retrieved 2026-10-18T15:56:04Z; SHA-256 80e0a8b613c8e5cba19a271b9c894d255be1e2de1abdd1b93fc4f8ad18feeec3)
+- https://raw.githubusercontent.com/uiuing/browser-agent/a8517e2c5cd5be9d77e66f90180e25490c67d9ba/packages/extension/src/engine/page/execute.ts (retrieved 2026-10-18T15:56:04Z; SHA-256 48d24585c85d1c2b4a69be99e9fd6522ed4a80e6a0b896523c4a42474a9fcc40)
+- https://raw.githubusercontent.com/uiuing/browser-agent/a8517e2c5cd5be9d77e66f90180e25490c67d9ba/packages/extension/src/tools/page.ts (retrieved 2026-10-18T15:56:04Z; SHA-256 c2ba6828effa3842819ccd1172b27b3b6fe30864815e92f8a974c2987a922297)
+- https://raw.githubusercontent.com/uiuing/browser-agent/a8517e2c5cd5be9d77e66f90180e25490c67d9ba/LICENSE (retrieved 2026-10-18T15:56:04Z; SHA-256 20b3cdfa2aa7d5f0167686808c60687040f42a89d62b248de1e26ad2d1470fe0)
+- https://raw.githubusercontent.com/uiuing/browser-agent/HEAD/LICENSE (retrieved 2026-10-18T15:57:01Z; SHA-256 20b3cdfa2aa7d5f0167686808c60687040f42a89d62b248de1e26ad2d1470fe0)
 
 ---
 
@@ -1905,6 +2267,46 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Browser Operator
+
+Chromium-based AI browser whose DevTools panel runs a multi-agent framework (web-task, action, form-fill, research and verification agents) over accessibility trees with OpenRouter, OpenAI, Groq or LiteLLM models.
+
+- Catalog URL: https://awesomecua.com/resources/github-browseroperator-browser-operator-core/
+- Original source: https://github.com/BrowserOperator/browser-operator-core
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, memory
+- Evidence checked: 2026-10-19T06:14:52Z
+- ID: github:browseroperator/browser-operator-core
+
+### Limitations
+
+The repository is a modified Chrome DevTools frontend (not flagged as a GitHub fork); the AI Chat panel holds the agent framework, accessibility-tree and extraction tools, memory, MCP client and evaluation code, and agent-server is a Node.js HTTP and WebSocket wrapper that sends tasks to agents and captures pages over CDP. The README offers macOS 10.15+ and Windows 10+ builds; the latest release is v0.6.0 (2025-12-11) and the last push was 2026-03-19. The LICENSE is the Chromium Authors' BSD-3-Clause text inherited from DevTools; third_party components keep their own terms. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-browseroperator-browser-operator-core/record.json
+
+### License declarations
+
+- code: BSD-3-Clause — https://raw.githubusercontent.com/BrowserOperator/browser-operator-core/85da86c2a9421c44d682af0e627243b76d3df0ef/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: enrich does not recognize the comment-prefixed text, but it is the three-clause BSD license used by Chromium and the README declares BSD-3-Clause; models, browser builds and third-party components are not covered.
+  Sources: https://raw.githubusercontent.com/BrowserOperator/browser-operator-core/85da86c2a9421c44d682af0e627243b76d3df0ef/LICENSE
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/BrowserOperator/browser-operator-core/HEAD/README.md (retrieved 2026-10-19T06:14:52Z; SHA-256 1d3912f652635cda661e6e7c30d392aa587178d5923b7485620bdfcc2b249d46)
+- https://raw.githubusercontent.com/BrowserOperator/browser-operator-core/85da86c2a9421c44d682af0e627243b76d3df0ef/front_end/panels/ai_chat/agent_framework/implementation/ConfiguredAgents.ts (retrieved 2026-10-18T12:03:03Z; SHA-256 a6912cb7177b0ec98c4181b067efa6f4d52fa19b189eb644dba53b4c31b36f50)
+- https://raw.githubusercontent.com/BrowserOperator/browser-operator-core/85da86c2a9421c44d682af0e627243b76d3df0ef/front_end/panels/ai_chat/Readme.md (retrieved 2026-10-18T12:02:57Z; SHA-256 53a65ac8d6bccf74ffdcdafa03f9947c5cde0bd21b3d746c904c265027ce5a9d)
+- https://raw.githubusercontent.com/BrowserOperator/browser-operator-core/85da86c2a9421c44d682af0e627243b76d3df0ef/agent-server/README.md (retrieved 2026-10-18T12:02:58Z; SHA-256 95e1d0b3672c8eab9846d4ec299b58817fdd89e4dc4de28bf50ea65654a189a8)
+- https://raw.githubusercontent.com/BrowserOperator/browser-operator-core/85da86c2a9421c44d682af0e627243b76d3df0ef/LICENSE (retrieved 2026-10-18T12:02:57Z; SHA-256 ff11d445fb41a1087c7630e120ab15f1a2cb67c1b707173cb494141805fca35e)
+
+---
+
 ## Browser Use Box (bux)
 
 Browser Use Box (bux) packages a 24/7 autonomous Claude Code and Browser Use web agent for self-hosted Linux servers.
@@ -1936,6 +2338,43 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/browser-use/bux/HEAD/README.md (retrieved 2026-11-04T16:10:26Z; SHA-256 48cafbbdda27975e98b15a82cc3349f9bac06caabf76ef4089ca1b252c0cd9d2)
 - https://raw.githubusercontent.com/browser-use/bux/HEAD/LICENSE (retrieved 2026-11-04T16:13:52Z; SHA-256 5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631)
+
+---
+
+## Browser Use Desktop
+
+Electron app that runs Claude Code or Codex sessions as browser agents in a separate Chromium seeded with the user's imported cookies, started by hotkey or WhatsApp message and built on Browser Harness.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-desktop/
+- Original source: https://github.com/browser-use/desktop
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration
+- Evidence checked: 2026-10-19T06:18:38Z
+- ID: github:browser-use/desktop
+
+### Limitations
+
+The README offers a macOS Apple Silicon DMG, a Windows installer and a Linux AppImage, with deb and rpm packages on the releases page. Engines are pluggable adapters in the main process (claude-code is the default; codex and browsercode adapters are also present), and the tree bundles a Browser Harness JavaScript SDK and domain-skill notes for 68 sites. Agent quality depends on the user's Anthropic or OpenAI subscription or API key. The latest non-prerelease is v0.0.31 (2026-05-09) while development continues on main. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-use-desktop/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/browser-use/desktop/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browser-use/desktop/HEAD/README.md (retrieved 2026-10-19T06:18:38Z; SHA-256 12689a8cb05d9d4d48b0cc340bb4630d2a4c639d0f03acce072e4a9e1ea4fc5b)
+- https://raw.githubusercontent.com/browser-use/desktop/f073b7574f7927185ebbebd87556391d5cb0cfd1/app/src/main/hl/engines/registry.ts (retrieved 2026-10-18T11:56:33Z; SHA-256 ba0a0d775e1724b72eeaa28e96fd6c711dee0d6bb0da7ca040b623a12c8fe22e)
+- https://raw.githubusercontent.com/browser-use/desktop/f073b7574f7927185ebbebd87556391d5cb0cfd1/app/package.json (retrieved 2026-10-18T11:56:33Z; SHA-256 5150acdc01b1f3a61cc8bd1542bf5c948dab7840f9c1f725ce97ed22eaa98b43)
+- https://raw.githubusercontent.com/browser-use/desktop/f073b7574f7927185ebbebd87556391d5cb0cfd1/LICENSE (retrieved 2026-10-18T11:56:32Z; SHA-256 5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631)
+- https://raw.githubusercontent.com/browser-use/desktop/HEAD/LICENSE (retrieved 2026-10-19T06:18:50Z; SHA-256 5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631)
 
 ---
 
@@ -2038,6 +2477,44 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/BrowyHQ/browy/HEAD/README.md (retrieved 2026-11-04T16:10:32Z; SHA-256 ef92ae07084ec53b261e60d74c5c5b7de61c57739b9c432f6197e20f95c02835)
 - https://raw.githubusercontent.com/BrowyHQ/browy/HEAD/LICENSE (retrieved 2026-11-04T16:13:56Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## Buddy
+
+Android app whose accessibility service serves a local MCP server of phone tools, letting Claude Code, Codex or OpenCode, run in an on-device proot Linux, read the screen, tap, type and open apps.
+
+- Catalog URL: https://awesomecua.com/resources/github-ghorbelhamdi-buddy-android/
+- Original source: https://github.com/ghorbelhamdi/buddy-android
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, human-in-the-loop, safety-security, tool-integration
+- Evidence checked: 2026-10-20T08:13:05Z
+- ID: github:ghorbelhamdi/buddy-android
+
+### Limitations
+
+Requires a 64-bit Android 11+ phone; the README says it was tested on one OnePlus 12 and uses no adb, PC or root. Tools.java registers the phone tools; read_screen walks the accessibility node tree of the visible windows into a numbered list, and tap acts on those nodes or their clickable ancestors, with a separate screenshot tool. The agents (Claude Code, Codex or OpenCode) are installed into an Alpine Linux that Buddy runs under proot and use the user's own plan or OpenCode's free models; no model is bundled. Actions that send, post, buy, delete or change settings go through confirm cards, and per-app Trust, Hard or Smart rules are enforced by the app; the README names prompt injection from on-screen text as the main risk. benchmark/ reports a small timing comparison of seven model and agent pairs on five phone tasks, two runs each, checked by hand on one phone. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-ghorbelhamdi-buddy-android/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/ghorbelhamdi/buddy-android/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ghorbelhamdi/buddy-android/HEAD/README.md (retrieved 2026-10-20T08:13:05Z; SHA-256 ac9b961b7cdbdc0760407e7ed53f444495d619e85e4f9057696a0258de19a124)
+- https://raw.githubusercontent.com/ghorbelhamdi/buddy-android/522cb600ba35c092fb10a4054881087e4168e07c/README.md (retrieved 2026-10-20T08:12:42Z; SHA-256 ac9b961b7cdbdc0760407e7ed53f444495d619e85e4f9057696a0258de19a124)
+- https://raw.githubusercontent.com/ghorbelhamdi/buddy-android/522cb600ba35c092fb10a4054881087e4168e07c/app/src/main/java/app/buddy/assistant/Tools.java (retrieved 2026-10-20T08:12:43Z; SHA-256 0e27239e987811fe386bd23f96f3dce6b3ef99ba20f5b1d99d356104c1e9e00d)
+- https://raw.githubusercontent.com/ghorbelhamdi/buddy-android/522cb600ba35c092fb10a4054881087e4168e07c/benchmark/README.md (retrieved 2026-10-20T08:12:44Z; SHA-256 51030ac156f1a36d4756266240b404d26918cda290ba3a05dd345ad6544191a5)
+- https://raw.githubusercontent.com/ghorbelhamdi/buddy-android/522cb600ba35c092fb10a4054881087e4168e07c/LICENSE (retrieved 2026-10-20T08:12:44Z; SHA-256 c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c)
+- https://raw.githubusercontent.com/ghorbelhamdi/buddy-android/HEAD/LICENSE (retrieved 2026-10-20T08:13:08Z; SHA-256 c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c)
 
 ---
 
@@ -2285,6 +2762,44 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Cetus
+
+macOS client for running and reviewing coding-agent runtimes; its built-in runtime bundles a computer-use helper that acts on the frontmost app's numbered Accessibility elements, plus Chrome control.
+
+- Catalog URL: https://awesomecua.com/resources/github-drewnekota-cetus/
+- Original source: https://github.com/drewnekota/cetus
+- Kind: agent
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, macos, web
+- Topics: automation, human-in-the-loop
+- Evidence checked: 2026-10-18T15:39:54Z
+- ID: github:drewnekota/cetus
+
+### Limitations
+
+Adjacent: Cetus is mainly a review board and launcher for Claude Code, Codex, DeepSeek Harness, OpenCode, Grok Build, Kimi CLI and its own runtime (a bundled pi agent), with scheduled runs, per-run git worktrees and on-device screen-history OCR and meeting transcription. GUI control lives in two opt-in plugins of the built-in runtime. The computer-use plugin tunnels requests through the Rust host to a long-lived Swift helper (src-tauri/cua/cetus-cua-helper.swift) that dumps the frontmost or named app's Accessibility tree as numbered elements; computer_act presses or sets values by index and falls back to synthetic CGEvent clicks and keystrokes, asking for confirmation before the first consequential action and before destructive or sensitive ones, and computer_verify re-observes. The browser-use plugin attaches the external chrome-devtools-mcp to Chrome on port 9222. Apple Silicon only, macOS 13+ (Tauri build) or 15+ (Swift beta). Root LICENSE is MIT. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-drewnekota-cetus/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/drewnekota/cetus/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/drewnekota/cetus/HEAD/README.md (retrieved 2026-10-18T15:39:54Z; SHA-256 57a7e8522eefee5eeb0ee71ce50242aad6ff4910b0d04e18dd14c3cb7216337b)
+- https://api.github.com/repos/drewnekota/cetus/git/commits/2f1ab95d1bc2ecd6d05ae99dd88ec61ec5860a5a (retrieved 2026-10-18T15:39:26Z; SHA-256 5cf2cad9d813c36a226c107819cb2d0019587c1fdf6b9c41b9eea9b263d24957)
+- https://raw.githubusercontent.com/drewnekota/cetus/2f1ab95d1bc2ecd6d05ae99dd88ec61ec5860a5a/src-tauri/cetus-plugins/computer-use/extensions/computer-use.ts (retrieved 2026-10-18T15:39:27Z; SHA-256 e6ac7ed162414474532d4b92da142ccba86d375e2f5f18a6485fd35135d2710d)
+- https://raw.githubusercontent.com/drewnekota/cetus/2f1ab95d1bc2ecd6d05ae99dd88ec61ec5860a5a/src-tauri/cua/cetus-cua-helper.swift (retrieved 2026-10-18T15:39:27Z; SHA-256 e2ede2d1ff0374d06c30f990513160e24d2f7fe7938bb7c854874d9b24acc50e)
+- https://raw.githubusercontent.com/drewnekota/cetus/2f1ab95d1bc2ecd6d05ae99dd88ec61ec5860a5a/src-tauri/cetus-plugins/browser-use/.mcp.json (retrieved 2026-10-18T15:39:27Z; SHA-256 bbe459ac55792664ecb1b6cf1d73b1be283126b3d8a957b990ac31b9aab8f594)
+- https://raw.githubusercontent.com/drewnekota/cetus/HEAD/LICENSE (retrieved 2026-10-18T15:39:55Z; SHA-256 02e8a50516622ae2f3b7d8819ffef997fe808e2f9f082876be409ff590d2ee41)
+
+---
+
 ## ChromeClaw
 
 ChromeClaw runs an autonomous browser and workspace agent inside the Chrome extension sandbox with multi-provider LLM and tab automation tools.
@@ -2483,6 +2998,49 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/Samsung/ClickAgent/HEAD/README.md (retrieved 2026-11-04T13:12:34Z; SHA-256 8d11136e35e1f64a4aeb9ce1de11d793984b8f516275383902675630a7cf8964)
+
+---
+
+## ClosePaw
+
+On-device Android agent app that reads the accessibility tree, with optional screenshots, acts through accessibility node actions or gesture taps, and can run on a Shizuku virtual display in the background.
+
+- Catalog URL: https://awesomecua.com/resources/github-imoonkey-closepaw/
+- Original source: https://github.com/imoonkey/closepaw
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, human-in-the-loop, memory
+- Evidence checked: 2026-10-19T07:04:42Z
+- ID: github:imoonkey/closepaw
+
+### Limitations
+
+Kotlin app for Android 12 or later with an on-device ReAct loop, subagent delegation, todo and scratchpad tools, markdown memory files and per-app skills. Perception defaults to the accessibility tree; screenshot-only and hybrid modes are options (perception/PerceptionConfig.kt). Clicks try an accessibility ACTION_CLICK on the resolved node and fall back to a dispatched gesture tap (tool/action/ClickExecutor.kt, platform/NodeActionPerformer.kt, platform/AccessibilityGestureInjector.kt). Optional power tools use Shizuku for a background virtual display, Termux for a Linux shell, and Chrome DevTools Protocol scripting of Chrome. A bundled tier list blocks banking, payment, crypto-wallet, password-manager and authenticator packages (assets/security/app_tiers.json), and other apps need per-app approval. Models are reached through OpenAI-compatible endpoints or a ChatGPT/Codex sign-in. The eval/ harness drives AndroidWorld task setup and scoring and launches the app over ADB. The agent was not run.
+
+- Record JSON: https://awesomecua.com/resources/github-imoonkey-closepaw/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/imoonkey/closepaw/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/imoonkey/closepaw/HEAD/README.md (retrieved 2026-10-19T07:04:42Z; SHA-256 41a533cff3abaee6addc153398a8db33ebe6e6e2b7fec9092243c9730df53e55)
+- https://api.github.com/repos/imoonkey/closepaw/git/trees/75dae2653f5a6b25d5df51ee7008b0f830de1536?recursive=1 (retrieved 2026-10-19T06:39:32Z; SHA-256 900c5617c4f771568d99e7f702ee4a9f9eaf7459f0803ef394aba462025df86e)
+- https://raw.githubusercontent.com/imoonkey/closepaw/75dae2653f5a6b25d5df51ee7008b0f830de1536/app/src/main/kotlin/ai/closepaw/perception/PerceptionConfig.kt (retrieved 2026-10-18T16:01:41Z; SHA-256 26459b14b5b300f356844e84872ed9a82766c20e564deda6d3efbfc8aad70ca0)
+- https://raw.githubusercontent.com/imoonkey/closepaw/75dae2653f5a6b25d5df51ee7008b0f830de1536/app/src/main/kotlin/ai/closepaw/tool/action/ClickExecutor.kt (retrieved 2026-10-18T16:01:41Z; SHA-256 d924fa0ddde2861ca8c5e46d1d426e14c67af5f1c0c0183f3054c2849045b67e)
+- https://raw.githubusercontent.com/imoonkey/closepaw/75dae2653f5a6b25d5df51ee7008b0f830de1536/app/src/main/kotlin/ai/closepaw/platform/NodeActionPerformer.kt (retrieved 2026-10-18T16:01:42Z; SHA-256 95af03f4bdf3f19995a72426e4f4efb1de148b053118984d3c867fe8a57aa924)
+- https://raw.githubusercontent.com/imoonkey/closepaw/75dae2653f5a6b25d5df51ee7008b0f830de1536/app/src/main/kotlin/ai/closepaw/platform/AccessibilityGestureInjector.kt (retrieved 2026-10-18T16:01:42Z; SHA-256 12bdfa64d0cf3760e81ba1a2a1d760d7e2d413931233b1bb44b223deb9fb959c)
+- https://raw.githubusercontent.com/imoonkey/closepaw/75dae2653f5a6b25d5df51ee7008b0f830de1536/app/src/main/assets/security/app_tiers.json (retrieved 2026-10-18T16:01:42Z; SHA-256 b6cbb1be45965c2974cf0e62552a19328aab13ade48a7e3423d186d1e311397c)
+- https://raw.githubusercontent.com/imoonkey/closepaw/75dae2653f5a6b25d5df51ee7008b0f830de1536/eval/README.md (retrieved 2026-10-18T16:01:42Z; SHA-256 cc68103c4aaeb05920fec8535e630af659e65351c0f1adeda5a609ae6be13179)
+- https://raw.githubusercontent.com/imoonkey/closepaw/75dae2653f5a6b25d5df51ee7008b0f830de1536/LICENSE (retrieved 2026-10-18T16:01:42Z; SHA-256 34caf3ddbf7945ee22c3fde1d5783762110f54cb42edf2cca0b8b8cf2a4dd746)
+- https://github.com/imoonkey/closepaw/releases/expanded_assets/v0.1.0 (retrieved 2026-10-18T16:01:42Z; SHA-256 cc5356ed6ff45de157a7441af39a2439e37bbe55478e4140b97444e2e39ad381)
+- https://raw.githubusercontent.com/imoonkey/closepaw/HEAD/LICENSE (retrieved 2026-10-19T07:04:46Z; SHA-256 34caf3ddbf7945ee22c3fde1d5783762110f54cb42edf2cca0b8b8cf2a4dd746)
 
 ---
 
@@ -2818,6 +3376,45 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/CuaOS/CuaOS/HEAD/README.md (retrieved 2026-11-04T14:41:51Z; SHA-256 5b89b749b177e873ba0c358801018f130c53956cf47cc91dd8a1b3f0a58bf742)
 - https://raw.githubusercontent.com/CuaOS/CuaOS/HEAD/LICENSE (retrieved 2026-11-04T14:45:35Z; SHA-256 55c01df9fc6d54627d018a53aa7fa2821ad0c6dc4ad5cc8f30f4a4938571ece9)
+
+---
+
+## CUGA
+
+Enterprise generalist agent harness that plans over APIs and MCP or OpenAPI tools and, in web or hybrid mode, acts on pages through a browser extension, with intent guards, tool approval and tool guards.
+
+- Catalog URL: https://awesomecua.com/resources/github-cuga-project-cuga-agent/
+- Original source: https://github.com/cuga-project/cuga-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration, industry, safety-security
+- Evidence checked: 2026-10-18T11:58:18Z
+- ID: github:cuga-project/cuga-agent
+
+### Limitations
+
+The README calls it a Configurable Generalist Agent built with IBM; IBM's papers expand the name as Computer Using Generalist Agent. The default task mode is API-only; web and hybrid modes run the browser agent (planner, action agent with click, type, select, go-back and scroll tools, and page understanding) through a browser extension. NOTICE lists files derived from BrowserGym. The README cites arXiv 2510.23856 for its WebArena result; that paper is not in the catalog, and the curated arxiv:2503.01861 describes the CUGA system without naming this repository, so no relation is recorded. Benchmark figures are the publisher's and were not reproduced. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-cuga-project-cuga-agent/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/cuga-project/cuga-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cuga-project/cuga-agent/HEAD/README.md (retrieved 2026-10-18T11:58:18Z; SHA-256 bd4782c554fbf7433dee4ce43f72eec57dcf5e40099416f9e564f7e580508b0d)
+- https://raw.githubusercontent.com/cuga-project/cuga-agent/93a630a68d937177a919a07343e2b4b9c7477e1f/docs/readme/configuration-guide.md (retrieved 2026-10-18T11:57:49Z; SHA-256 98fe4108be085b3aa64f244ccb8109ed3ab8ea2a3cb2aeb2eb79a5795fd32dc9)
+- https://raw.githubusercontent.com/cuga-project/cuga-agent/93a630a68d937177a919a07343e2b4b9c7477e1f/src/cuga/backend/cuga_graph/nodes/browser/action_agent/tools/tools.py (retrieved 2026-10-18T11:57:49Z; SHA-256 362051a85e89650795b2139f2afd51cef3fc35276a396d432e5c71907d6b3e57)
+- https://raw.githubusercontent.com/cuga-project/cuga-agent/93a630a68d937177a919a07343e2b4b9c7477e1f/pyproject.toml (retrieved 2026-10-18T11:57:50Z; SHA-256 bb303fc63aa234c38499a361b168cae86fa22eb04e62274b3060ff6c9bed4110)
+- https://raw.githubusercontent.com/cuga-project/cuga-agent/93a630a68d937177a919a07343e2b4b9c7477e1f/LICENSE (retrieved 2026-10-18T11:57:50Z; SHA-256 09f347a8e18bf1ad831cd85ecbf25eee7ced31b41f63955705e3ed163c3042e1)
+- https://raw.githubusercontent.com/cuga-project/cuga-agent/93a630a68d937177a919a07343e2b4b9c7477e1f/NOTICE (retrieved 2026-10-18T11:57:50Z; SHA-256 fee8ea66937d26e22b8b6f6f106f6157751098cc7c88e5b3ad85f32fd6abcaed)
+- https://raw.githubusercontent.com/cuga-project/cuga-agent/HEAD/LICENSE (retrieved 2026-10-18T11:58:29Z; SHA-256 09f347a8e18bf1ad831cd85ecbf25eee7ced31b41f63955705e3ed163c3042e1)
 
 ---
 
@@ -3190,6 +3787,46 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## DomA
+
+Source-available edition of the DomA browser-agent extension for Chrome and Edge: it observes pages through set-of-marks screenshots and element lists, acts with DOM events and CDP clicks, and serves its tools over MCP.
+
+- Catalog URL: https://awesomecua.com/resources/github-dom-actions-doma/
+- Original source: https://github.com/dom-actions/doma
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, tool-integration
+- Evidence checked: 2026-10-18T15:43:31Z
+- ID: github:dom-actions/doma
+
+### Limitations
+
+The README presents DomA as a browser agent from Stay Browser, and the LICENSE notice names Dom Actions; the commercial store build adds video download, a userscript manager and ad blocking on top of this core. The service worker implements browser_* tools (tabs, navigation, page content, element lists, click, text click, type, select, scroll, script execution, clipboard). browser_screenshot tags up to 150 visible interactive elements with data-som-idx and composites numbers and borders onto a clean viewport capture, grouping the overflow into areas A1 to A5; clicks fall back to CDP Input.dispatchMouseEvent through chrome.debugger. With the Jev switch on, a high-confidence Jev decision can execute a click or type without sending the image to the LLM. Models are user-supplied OpenAI-compatible endpoints. An MCP bridge (stdio server plus a local daemon on ports 3846/3847) and a CLI let Cursor, Claude or OpenClaw drive the extension. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-dom-actions-doma/record.json
+
+### License declarations
+
+- code: PolyForm-Shield-1.0.0 — https://raw.githubusercontent.com/dom-actions/doma/fe3afa7a04d7a2f719e9da82c6b61502504819ce/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: Root LICENSE is the PolyForm Shield License 1.0.0 with a 2026 Dom Actions required notice; it is source-available, not an OSI open-source license, and forbids using the software to compete with DomA. It covers the extension code only.
+  Sources: https://raw.githubusercontent.com/dom-actions/doma/fe3afa7a04d7a2f719e9da82c6b61502504819ce/LICENSE
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/dom-actions/doma/HEAD/README.md (retrieved 2026-10-18T15:43:31Z; SHA-256 21a62e98c89f6ccb50a036918275682f938274d796521679c3bcfe292d86b38e)
+- https://api.github.com/repos/dom-actions/doma/git/commits/fe3afa7a04d7a2f719e9da82c6b61502504819ce (retrieved 2026-10-18T15:43:09Z; SHA-256 00ac80e84f1bd15742dd72997399cad933cdd2edb0e9b6b51a1aa2143980534c)
+- https://raw.githubusercontent.com/dom-actions/doma/fe3afa7a04d7a2f719e9da82c6b61502504819ce/src/services/chat/browserTools.ts (retrieved 2026-10-18T15:43:09Z; SHA-256 5b33ef1d33d7037bbfc9dafb574a07df61e1cdcffd02ac67a04e1fdf270146fa)
+- https://raw.githubusercontent.com/dom-actions/doma/fe3afa7a04d7a2f719e9da82c6b61502504819ce/mcp-bridge/README.md (retrieved 2026-10-18T15:43:10Z; SHA-256 a3ee5ff8d8a87b04e6541b838e2d4781bb8b26f3a5c3f11e020f772ec3449bc2)
+- https://raw.githubusercontent.com/dom-actions/doma/fe3afa7a04d7a2f719e9da82c6b61502504819ce/LICENSE (retrieved 2026-10-18T15:43:10Z; SHA-256 cc25b07935368ad2a6e962d4b60643c0da6bc57948f5265c1256beb269266660)
+
+---
+
 ## Doppel
 
 Doppel is a computer-use agent that operates inside a dedicated virtual desktop with its own cursor on Windows 11 and Linux.
@@ -3460,6 +4097,45 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## DSHBox
+
+Android app that runs the DeepSeek Harness agent locally in a PRoot Debian sandbox and gives it a WebView browser CLI and a phone assistant that operates native apps via Accessibility and Shizuku backends.
+
+- Catalog URL: https://awesomecua.com/resources/github-wsk-build-dshbox/
+- Original source: https://github.com/WSK-build/DSHBox
+- Kind: agent
+- Review: curated
+- Scope: adjacent
+- Environments: android, web
+- Topics: mobile-navigation, human-in-the-loop, tool-integration
+- Evidence checked: 2026-10-18T15:45:48Z
+- ID: github:wsk-build/dshbox
+
+### Limitations
+
+Adjacent: the app's main job is hosting DeepSeek Harness (DSH), a coding-agent runtime, on Android 10+ ARM64 without root or Termux, alongside a terminal and file manager; the GUI executors are bundled tools that DSH chooses between. The browser workspace exposes 24 tools through a bundled browser-use plugin and a sandbox browser CLI (observe, locate, click on screenshot coordinates, type, scroll, screenshot, plus opt-in CDP debugging). Pilot, the phone assistant, lists 39 capabilities and reaches the app layer through a file-based mailbox; its vendored interlock-relay core has an Accessibility backend (node actions and gestures on the default display), a Shizuku shell backend that can also act on a background virtual display, and direct platform calls, behind approval gates. The README declares GPL v3 for the project; pilot/NOTICE marks interlock-relay-core as Apache-2.0 and the DSHBox adapter as GPL-3.0, and PRoot, Debian and other components keep their own terms. README.md is in Chinese and README.en.md in English. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-wsk-build-dshbox/record.json
+
+### License declarations
+
+- code: GPL-3.0 — https://raw.githubusercontent.com/WSK-build/DSHBox/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/WSK-build/DSHBox/HEAD/README.md (retrieved 2026-10-18T15:45:48Z; SHA-256 a324853986002f902cedd37fbfa2fe4316d5de44a85de949755fb0a4e8ffa4ab)
+- https://api.github.com/repos/WSK-build/DSHBox/git/commits/0b429b442004b901aac81dfeb8e81e12564d1cf1 (retrieved 2026-10-18T15:45:21Z; SHA-256 df1251e23881fd1e86633827566179d347398f163abdec1cf844ba8745f38102)
+- https://raw.githubusercontent.com/WSK-build/DSHBox/0b429b442004b901aac81dfeb8e81e12564d1cf1/README.en.md (retrieved 2026-10-18T15:45:22Z; SHA-256 769307be59ac76df4d91c5ed8fb7bd5961b2a93a67e327880d70bde7dabe5597)
+- https://raw.githubusercontent.com/WSK-build/DSHBox/0b429b442004b901aac81dfeb8e81e12564d1cf1/pilot/interlock-relay-core/src/main/java/interlock/relay/core/exec/a11y/A11yBackend.kt (retrieved 2026-10-18T15:45:21Z; SHA-256 b9141af5d128fbd2f787515094928761591c86fe3964ae3a966617eda59bd82b)
+- https://raw.githubusercontent.com/WSK-build/DSHBox/0b429b442004b901aac81dfeb8e81e12564d1cf1/browser/browser-bridge/src/main/assets/browser/lib/browser-cli.cjs (retrieved 2026-10-18T15:45:21Z; SHA-256 ca8f977a38b7f5bbb8225de2d98485d4bb2311b86fef443d3428839a60f58eab)
+- https://raw.githubusercontent.com/WSK-build/DSHBox/0b429b442004b901aac81dfeb8e81e12564d1cf1/pilot/NOTICE (retrieved 2026-10-18T15:45:22Z; SHA-256 c4f29f4d44fb98c326d5434029554565ed83c38c97e67b35d5e4c0674e3eb680)
+- https://raw.githubusercontent.com/WSK-build/DSHBox/HEAD/LICENSE (retrieved 2026-10-18T15:45:49Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
+
+---
+
 ## E2B Surf
 
 E2B Surf is a web-based computer-use agent combining OpenAI Computer-Using Agent models with an isolated E2B Desktop virtual machine.
@@ -3525,6 +4201,51 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/easyclaw-ai/easy_claw/HEAD/README.md (retrieved 2026-11-04T16:30:02Z; SHA-256 c5bc07b04234bb9fadcade74b7b8727c2f91c6c542c9af6db57559a31746c4be)
 - https://raw.githubusercontent.com/easyclaw-ai/easy_claw/HEAD/LICENSE (retrieved 2026-11-04T16:34:56Z; SHA-256 8d0457b6677cf549a936fb915526337b9a93e840ee70c461cb1dfd35ba11b87c)
+
+---
+
+## Eido
+
+macOS coding workspace built on Zed and the pi agent, adding experimental browser use via an included agent that picks indexed page elements and acts over CDP, and computer use via a bundled Cua Driver MCP server.
+
+- Catalog URL: https://awesomecua.com/resources/github-tony3liu-eido/
+- Original source: https://github.com/tony3liu/eido
+- Kind: agent
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, macos, web
+- Topics: web-navigation, tool-integration, human-in-the-loop
+- Evidence checked: 2026-10-20T08:34:39Z
+- ID: github:tony3liu/eido
+
+### Limitations
+
+Coding is the primary purpose: the README frames release v0.0.1 (Apple Silicon, macOS 13 or later, locally signed and not notarized) around a describe, investigate, edit, review and verify loop, and calls browser and desktop automation experimental. server.mjs runs an eido-browser MCP server with browser_* tools. Its default Ultrafast engine, adapted in TypeScript from browser-use/jev-ultrafast, launches Playwright Chromium, injects snapshot.js to list up to 250 visible interactive elements with roles and labels plus visible page text, has a decision model choose one click, fill, select, scroll or wait step at a time, and dispatches mouse and key events over the DevTools protocol (browser.ts); per server.mjs, screenshots serve recording and the inspector rather than model input. config.mjs points decision requests at the hosted TypeSafe API (model jev-latest) by default and, unless overridden, generates typed text with the user's main model. A Legacy engine uses the jev-browser npm dependency. computer.mjs registers the bundled or a user-installed cua-driver as the eido_computer MCP server, which needs macOS Accessibility and Screen Recording permission; native/cua/upstream.json pins trycua/cua tag cua-driver-rs-v0.34.0, and per NOTICE the native/cua/overlay patches add session-owned background focus, exact-window keyboard guards and window capture validation. NOTICE licenses Eido-original code GPL-3.0-or-later, while Zed components marked Apache-2.0, the Cua Driver and jev-ultrafast-derived code (MIT), pi (MIT) and upstream pi-acp adapter code (Apache-2.0) keep their own terms. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-tony3liu-eido/record.json
+
+### License declarations
+
+- code: GPL-3.0-or-later — https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/NOTICE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: NOTICE explicitly declares GPL-3.0-or-later for Eido-original code. It does not relicense incorporated upstream code: Zed components marked Apache-2.0, the MIT Cua Driver and jev-ultrafast-derived code, MIT pi and the Apache-2.0 pi-acp adapter keep their own terms.
+  Sources: https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/NOTICE, https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/LICENSE
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/tony3liu/eido/HEAD/README.md (retrieved 2026-10-20T08:34:39Z; SHA-256 4b55d2ab57f54c04a317198bd5882c12b336d0200f7dce33738aaa513b47c387)
+- https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/README.md (retrieved 2026-10-20T08:32:00Z; SHA-256 4b55d2ab57f54c04a317198bd5882c12b336d0200f7dce33738aaa513b47c387)
+- https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/packages/runtime/src/browser/server.mjs (retrieved 2026-10-20T08:32:14Z; SHA-256 81598be20f7a809750a8d0f362709da48bd569fa11e4499da7b54ba477592c77)
+- https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/packages/runtime/src/browser/ultrafast/browser.ts (retrieved 2026-10-20T08:32:15Z; SHA-256 91422cdeebcfe6ff50ed467192302cee34aab009e62219f89b5732b72c8fca1f)
+- https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/packages/runtime/src/browser/ultrafast/snapshot.js (retrieved 2026-10-20T08:32:24Z; SHA-256 e50473501c8fb8e70f3b21866d987393e3f2315c639d638bd477d170e81ed78d)
+- https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/packages/runtime/src/browser/config.mjs (retrieved 2026-10-20T08:32:28Z; SHA-256 fc86171dade649839cde8495a1b1d1e4a3347a1f4ec559ee3123c8fd927581f2)
+- https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/packages/runtime/src/computer.mjs (retrieved 2026-10-20T08:32:43Z; SHA-256 cbf5b5f57ccebc9a7df9112186b3e82aac73af10aa0d8143d5b75f4b9c72a2f9)
+- https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/native/cua/upstream.json (retrieved 2026-10-20T08:32:48Z; SHA-256 981b09f24e3d4410c04c93843589754a8ed03df55b20945338c5f746dbfe3d37)
+- https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/NOTICE (retrieved 2026-10-20T08:32:56Z; SHA-256 b7cd7358d6a9cbcc2901e2b1f0beb0698dbd2b99735dcc659a338c079e9b88af)
+- https://raw.githubusercontent.com/tony3liu/eido/b80cad273ae81d8d8f37f2073a41a0d5532ac702/LICENSE (retrieved 2026-10-20T08:33:01Z; SHA-256 0aa0322ea494da441088e4d9144c6720bf99d9e2e1eefcd29d1f58b19b5c4246)
 
 ---
 
@@ -3698,6 +4419,83 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## EverFern
+
+Electron desktop agent whose LangGraph orchestrator runs a screenshot-driven computer-use loop with robotjs mouse and keyboard input, a Navis browser agent and shell tools, with local or cloud models.
+
+- Catalog URL: https://awesomecua.com/resources/github-everfern-ai-everfern/
+- Original source: https://github.com/Everfern-AI/Everfern
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, macos, linux, web
+- Topics: automation, web-navigation, tool-integration, planning
+- Evidence checked: 2026-10-20T08:15:50Z
+- ID: github:everfern-ai/everfern
+
+### Limitations
+
+package.json at the inspected commit names the app desktop, version 1.3.0, MIT. computer-use.ts captures the screen through Electron, downscales screenshots to 1280 px wide, asks a configurable vision model for the next action (its class defaults name bytedance/ui-tars-1.5-7b as the action model), maps the returned normalized coordinates to the screen and executes mouse and keyboard input with @jitsi/robotjs. The Navis browser agent has an extension mode, whose companion extension is published in a separate repository, and a Playwright mode (browser-control-adapter.ts). The README lists Ollama, LM Studio and cloud providers, and describes runtime tool synthesis behind human approval, saved skills, peer-agent debate and shell commands run in an isolated Linux VM. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-everfern-ai-everfern/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Everfern-AI/Everfern/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Everfern-AI/Everfern/HEAD/README.md (retrieved 2026-10-20T08:15:50Z; SHA-256 54c91b8ec07faf4c82dbe010f7f72e73d05e720e676537241ffebefc9f30ac08)
+- https://raw.githubusercontent.com/Everfern-AI/Everfern/75558f731fb14638239f98ce54859fc31633ffb3/README.md (retrieved 2026-10-20T08:15:21Z; SHA-256 54c91b8ec07faf4c82dbe010f7f72e73d05e720e676537241ffebefc9f30ac08)
+- https://raw.githubusercontent.com/Everfern-AI/Everfern/75558f731fb14638239f98ce54859fc31633ffb3/package.json (retrieved 2026-10-20T08:15:21Z; SHA-256 5413a64f18d943da654658caff7caf6bb1ba4905fc895a6153f5aca598f58a29)
+- https://raw.githubusercontent.com/Everfern-AI/Everfern/75558f731fb14638239f98ce54859fc31633ffb3/main/agent/tools/computer-use.ts (retrieved 2026-10-20T08:15:21Z; SHA-256 7edcbc79282c93bc71749359b2ded7aa0a3abeac426db3af05e63b954b1df4f1)
+- https://raw.githubusercontent.com/Everfern-AI/Everfern/75558f731fb14638239f98ce54859fc31633ffb3/main/agent/tools/navis/browser-control-adapter.ts (retrieved 2026-10-20T08:15:22Z; SHA-256 fcfd61525d5c565f1534ed6a3fb7c1b374b7c5ccbe25157ec8bf4ebbf15281ad)
+- https://raw.githubusercontent.com/Everfern-AI/Everfern/75558f731fb14638239f98ce54859fc31633ffb3/LICENSE (retrieved 2026-10-20T08:15:23Z; SHA-256 723a3798b23fa997e4e7a04f0e3fb142d0743b44110183ecd23cd3c77e5e9566)
+- https://raw.githubusercontent.com/Everfern-AI/Everfern/HEAD/LICENSE (retrieved 2026-10-20T08:15:55Z; SHA-256 723a3798b23fa997e4e7a04f0e3fb142d0743b44110183ecd23cd3c77e5e9566)
+
+---
+
+## Fan
+
+Electron desktop agent that operates an embedded, visible Chromium browser from numbered DOM and accessibility snapshots, runs bounded JavaScript browser transactions, and hands control back for logins and risky steps.
+
+- Catalog URL: https://awesomecua.com/resources/github-7757-fan-browser-agent/
+- Original source: https://github.com/7757/Fan-Browser-Agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, human-in-the-loop, automation
+- Evidence checked: 2026-10-18T16:07:48Z
+- ID: github:7757/fan-browser-agent
+
+### Limitations
+
+Early-preview desktop app (v0.4.3 unsigned builds for macOS, Windows and Linux were the latest GitHub release at review). The README states that its Python agent runtime is adapted from Nous Research's Hermes Agent under MIT, and the root LICENSE keeps both copyright notices. Observation (apps/desktop/electron/browser-runtime/observation/operations.cjs) combines CDP DOMSnapshot.captureSnapshot with Accessibility.getFullAXTree into a numbered snapshot; browser_snapshot can attach a plain screenshot or one with numbered element boxes. browser_run executes model-written JavaScript against a sandboxed fan.* API, clicks go through Input.dispatchMouseEvent, and browser_handoff returns control to the user. The runtime also has terminal, file, memory, MCP and scheduled-task tools. Models come from user-configured providers. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-7757-fan-browser-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/7757/Fan-Browser-Agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/7757/Fan-Browser-Agent/HEAD/README.md (retrieved 2026-10-18T16:07:48Z; SHA-256 d123c5afc5ec4cc25c9590a3b390a704eb3179821baab910bb66184097424842)
+- https://raw.githubusercontent.com/7757/Fan-Browser-Agent/665b5a6e57eede8cf4d58b85fce6a636d6b6dac7/tools/browser_program_tool.py (retrieved 2026-10-18T16:07:47Z; SHA-256 75f80576d8c2c52cc33ddc30e40a6e4a486bd1adfd41af9bbbadc77d5a6f5f56)
+- https://raw.githubusercontent.com/7757/Fan-Browser-Agent/665b5a6e57eede8cf4d58b85fce6a636d6b6dac7/apps/desktop/electron/browser-runtime/observation/operations.cjs (retrieved 2026-10-18T16:07:47Z; SHA-256 df166e24596206f86aacbf7f85cda27138f3ddaed29c826b234f524d0a1f17ce)
+- https://raw.githubusercontent.com/7757/Fan-Browser-Agent/665b5a6e57eede8cf4d58b85fce6a636d6b6dac7/apps/desktop/electron/browser-runtime/interaction/click-operations.cjs (retrieved 2026-10-18T16:07:47Z; SHA-256 6643182eefa1642340bab0965675ebfec80055721a179e8bb65a8710ee08e741)
+- https://raw.githubusercontent.com/7757/Fan-Browser-Agent/665b5a6e57eede8cf4d58b85fce6a636d6b6dac7/LICENSE (retrieved 2026-10-18T16:07:47Z; SHA-256 8a4885604d276a67e12363f648ac06e27b55d53cea9742a67aac7ecaed0ff655)
+- https://raw.githubusercontent.com/7757/Fan-Browser-Agent/HEAD/LICENSE (retrieved 2026-10-18T16:08:09Z; SHA-256 8a4885604d276a67e12363f648ac06e27b55d53cea9742a67aac7ecaed0ff655)
+
+---
+
 ## Fara Browser Automation Agent
 
 Local browser automation agent powered by Microsoft's Fara-7B computer-use model via LM Studio or Ollama and Playwright.
@@ -3732,6 +4530,44 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## fastbrowse
+
+Browser agent in which TypeSafe's Jev picks each action from controls indexed on the page over CDP, an LLM plans and reads, and code gates inputs, secrets and irreversible steps; answers cite page quotes.
+
+- Catalog URL: https://awesomecua.com/resources/github-agent-labs-dev-fastbrowse/
+- Original source: https://github.com/agent-labs-dev/fastbrowse
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, efficiency, safety-security
+- Evidence checked: 2026-10-18T15:54:53Z
+- ID: github:agent-labs-dev/fastbrowse
+
+### Limitations
+
+Python package fastbrowse 0.5.23 by Agent Labs (Python 3.13+), with a CLI, an MCP server (fastbrowse-mcp) and a JavaScript SDK. The browser layer speaks CDP through cdp-use; snapshot.js, ported from jev-ultrafast, indexes each frame's controls, viewport text and a freshness fingerprint, including open shadow roots. Per the design document, Jev chooses the operation and target among indexed controls (with relevance pruning on dense pages), an LLM proposes start addresses, plans checkable requirements, reads page text, writes non-secret field text and composes the answer, and code enforces freshness and hit-tests before input, no automatic retry of mutations, authorization for submit, pay, delete or send, secret redaction and budgets; a run counts as complete only when every requirement is evidenced. Browsers are Browser Use Cloud by default, local Chrome, or an existing CDP endpoint including Electron windows. Jev is reached through TypeSafe, OpenRouter or the Vercel AI Gateway. Benchmark comparisons in the README are the publisher's. Root LICENSE is MIT, with a NOTICE file. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-agent-labs-dev-fastbrowse/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/agent-labs-dev/fastbrowse/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agent-labs-dev/fastbrowse/HEAD/README.md (retrieved 2026-10-18T15:54:53Z; SHA-256 b6bb5c906892f8908080daaa288fb288d720cfa5fc9c59c67d0e556328233a40)
+- https://raw.githubusercontent.com/agent-labs-dev/fastbrowse/d35f75f43e4e2ed42edb4edec72843435af73a0b/docs/design.md (retrieved 2026-10-18T15:54:24Z; SHA-256 c567f1b6383438c4e237d2810938a1a51379fd2209e2490d1f563dc83f07d260)
+- https://raw.githubusercontent.com/agent-labs-dev/fastbrowse/d35f75f43e4e2ed42edb4edec72843435af73a0b/src/fastbrowse/browser/snapshot.js (retrieved 2026-10-18T15:54:24Z; SHA-256 51064fe8dc008253ed7b3da4347c682f960e47773446c4529f0bbd7260172112)
+- https://raw.githubusercontent.com/agent-labs-dev/fastbrowse/d35f75f43e4e2ed42edb4edec72843435af73a0b/src/fastbrowse/browser/session.py (retrieved 2026-10-18T15:54:24Z; SHA-256 473d342ad4c934085f80bd0c321a8d0389c0238d8c745d426153b69f1f5744ef)
+- https://raw.githubusercontent.com/agent-labs-dev/fastbrowse/d35f75f43e4e2ed42edb4edec72843435af73a0b/pyproject.toml (retrieved 2026-10-18T15:54:24Z; SHA-256 cb459a7e2d93520feab457cec9604f0c4e045a06c59c6001c13fdb568a940f93)
+- https://raw.githubusercontent.com/agent-labs-dev/fastbrowse/HEAD/LICENSE (retrieved 2026-10-18T15:54:54Z; SHA-256 81c51acc6fe3e5ad9b94a3e67caa91284f7c28ea97da43db598f843ad41988d5)
+
+---
+
 ## Fazm
 
 Fazm is a native macOS desktop and browser agent that observes screen state via Accessibility/OCR and automates cross-application workflows.
@@ -3762,6 +4598,43 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/mediar-ai/fazm/HEAD/README.md (retrieved 2026-11-04T13:12:23Z; SHA-256 945f8a4b4a426217f6485e42b6936c36cfb7ac706f81d8d394d361d15b18e09c)
+
+---
+
+## Fuji-Web
+
+Chrome side-panel extension agent that completes a typed task on websites, choosing click, type, scroll and navigate actions from uid-annotated screenshots or a simplified DOM with OpenAI, Anthropic or Gemini models.
+
+- Catalog URL: https://awesomecua.com/resources/github-normal-computing-oss-fuji-web/
+- Original source: https://github.com/normal-computing-oss/fuji-web
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, screen-understanding
+- Evidence checked: 2026-10-18T11:59:57Z
+- ID: github:normal-computing-oss/fuji-web
+
+### Limitations
+
+Published by Normal Computing; the former name normal-computing/fuji-web returns the same GitHub repository ID 710539769, and the README still links that address. The README credits UFO for its image-annotation method and reuses UI code from TaxyAI's browser extension. The tree also has a per-site custom knowledge base. Model names in the code are 2024 models (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro). The latest release is v2.2.1 (2024-09-20); later commits are maintenance only. Benchmarks are deferred to the publisher's blog, which was not reviewed. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-normal-computing-oss-fuji-web/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/normal-computing-oss/fuji-web/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/normal-computing-oss/fuji-web/HEAD/README.md (retrieved 2026-10-18T11:59:57Z; SHA-256 20b7766cf0f662e8f98ceb3df25e4edc387770994ea6d23b21eba0f4ad80943e)
+- https://raw.githubusercontent.com/normal-computing-oss/fuji-web/HEAD/src/helpers/vision-agent/tools.ts (retrieved 2026-10-18T11:59:43Z; SHA-256 a455a1c7fffd3946cd0110fd56cfda71b89c56be37cfadd1dab98c005778f42b)
+- https://raw.githubusercontent.com/normal-computing-oss/fuji-web/HEAD/src/helpers/aiSdkUtils.ts (retrieved 2026-10-18T11:59:44Z; SHA-256 352cdcc09cc7547642f14e6fd2ed92114a45f62130c04051c1933e95982afd20)
+- https://raw.githubusercontent.com/normal-computing-oss/fuji-web/HEAD/LICENSE (retrieved 2026-10-18T11:59:43Z; SHA-256 a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9)
+- https://raw.githubusercontent.com/normal-computing-oss/fuji-web/HEAD/LICENSE (retrieved 2026-10-18T11:59:43Z; SHA-256 a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9)
 
 ---
 
@@ -3864,6 +4737,47 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/openmule/gacua/HEAD/README.md (retrieved 2026-11-04T14:02:37Z; SHA-256 29b7ba2921c1ad8aeaf985317112b489b350f69363f92dceb2ba6cb8df58f9f6)
 - https://raw.githubusercontent.com/openmule/gacua/HEAD/LICENSE (retrieved 2026-11-04T14:07:45Z; SHA-256 09d2d564b15d1a8be7713524b27aa8b10e55ae7cd8aeaf1e04e6059adda0de10)
+
+---
+
+## Gemini Browser Agent
+
+Chrome extension and Python WebSocket bridge that run Gemini 2.5 Computer Use on the user's active tab, sending tab screenshots to the model and executing its clicks, typing and scrolling via content scripts.
+
+- Catalog URL: https://awesomecua.com/resources/github-pmbstyle-gemini-browser-agent/
+- Original source: https://github.com/pmbstyle/gemini-browser-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation
+- Evidence checked: 2026-10-20T08:41:39Z
+- ID: github:pmbstyle/gemini-browser-agent
+
+### Limitations
+
+The README calls the project a research experiment and scaffolding. websocket_agent.py is a local WebSocket server that calls gemini-2.5-computer-use-preview-10-2025 through google-genai with the browser computer-use environment; widget/ is an unpacked Manifest V3 extension with a side panel where the user connects to the bridge and enters a goal. Each turn the extension captures the visible tab with chrome.tabs.captureVisibleTab, the bridge converts the model's 0-1000 normalized coordinates to viewport pixels, and the extension carries out clicks, typing, key presses, hovering, scrolling and navigation by injecting functions (chrome.scripting.executeScript) that dispatch synthetic DOM events at document.elementFromPoint. Drag and drop is approximated with mousedown and mouseup events, unhandled model actions return an unimplemented warning, and the side panel sets a step limit (default 10). It needs a Gemini API key and acts in the user's own browser without a sandbox; the README points to the author's separate gemini-computer-use repository for sandboxed runs. The repository has no license file at the inspected commit. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-pmbstyle-gemini-browser-agent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The inspected recursive tree has no license file and the README names no license; source terms remain unknown.
+  Sources: https://api.github.com/repos/pmbstyle/gemini-browser-agent/git/trees/540b6fd7f1bfcfc351b2f7139ea4404cb089472f?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/HEAD/README.md (retrieved 2026-10-20T08:41:39Z; SHA-256 e7e20064cbb8a84025f04dddf5a6e849fe05405ed2e779a1fc04cdb3493757bd)
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/README.md (retrieved 2026-10-20T08:39:58Z; SHA-256 e7e20064cbb8a84025f04dddf5a6e849fe05405ed2e779a1fc04cdb3493757bd)
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/websocket_agent.py (retrieved 2026-10-20T08:40:04Z; SHA-256 a9fdbe483e2717f92dd902577247ef6d5478b55e0d532710fca422ed2887782a)
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/widget/actions/browserActions.js (retrieved 2026-10-20T08:40:14Z; SHA-256 2fd9d29f3b2c1c80ca2188e3b10a5682490d11884a57c938f8f56cd809cde394)
+- https://raw.githubusercontent.com/pmbstyle/gemini-browser-agent/540b6fd7f1bfcfc351b2f7139ea4404cb089472f/widget/manifest.json (retrieved 2026-10-20T08:40:33Z; SHA-256 7bab746e7cf307067432b25d28ef4dd85c6682b2f88c156bde2208d7409c9ccc)
+- https://api.github.com/repos/pmbstyle/gemini-browser-agent/git/trees/540b6fd7f1bfcfc351b2f7139ea4404cb089472f?recursive=1 (retrieved 2026-10-20T08:41:08Z; SHA-256 84df487918fcec7f8565aed76ef0c7c4da0e4ee98d3c578e13a7aecebc365d5a)
 
 ---
 
@@ -4204,6 +5118,42 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## GUI-explorer
+
+Android agent code that explores apps over ADB, mines transition-aware knowledge into a knowledge base behind a retrieval service, and runs an OpenAI-backed agent demo that draws on it.
+
+- Catalog URL: https://awesomecua.com/resources/github-ilearn-lab-acl25-gui-explorer/
+- Original source: https://github.com/iLearn-Lab/ACL25-GUI-explorer
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, memory, training-free
+- Evidence checked: 2026-10-18T11:23:48Z
+- ID: github:ilearn-lab/acl25-gui-explorer
+
+### Limitations
+
+The repository was renamed from JiuTian-VL/GUI-explorer and is archived; the README still links the old address. It ships exploration, retrieval and demo code that needs an OpenAI API key and an ADB-connected Android device or emulator. The prebuilt knowledge_base release asset (knowledge_data.pkl) was not downloaded. SPA-Bench, AndroidWorld and GUI-KRB results appear only as README images, so no scores are recorded. The root MIT license covers code; it is not extended to the knowledge-base asset or external models.
+
+- Record JSON: https://awesomecua.com/resources/github-ilearn-lab-acl25-gui-explorer/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/iLearn-Lab/ACL25-GUI-explorer/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/iLearn-Lab/ACL25-GUI-explorer/HEAD/README.md (retrieved 2026-10-18T11:23:48Z; SHA-256 aa7fa661477451049a67af3d2ff15795bae0d26f7c2c49afae5cb73a66f89c02)
+- https://raw.githubusercontent.com/iLearn-Lab/ACL25-GUI-explorer/HEAD/LICENSE (retrieved 2026-10-18T11:24:10Z; SHA-256 63d450c65076fc302d9aa07ad0c58766bb6a85d35302dcf0a56658a9629a18e4)
+- https://api.github.com/repos/JiuTian-VL/GUI-explorer (retrieved 2026-10-18T11:24:02Z; SHA-256 af64b78e2b61200a3fb1fdbfd927c60dd2a1b40cfc9da2dd05703f9d2642c26b)
+- https://api.github.com/repos/iLearn-Lab/ACL25-GUI-explorer (retrieved 2026-10-18T11:24:03Z; SHA-256 af64b78e2b61200a3fb1fdbfd927c60dd2a1b40cfc9da2dd05703f9d2642c26b)
+
+---
+
 ## Hachifish
 
 Hachifish is an on-device Android GUI agent that executes natural-language tasks via the native AccessibilityService with pre-completion checks.
@@ -4505,6 +5455,43 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/lodelux/hunter-public/main/README.md (retrieved 2026-11-04T17:55:05Z; SHA-256 406f80d4bc80fa450ce379e4e4e8f51f3c95b46b5f9a49be17513dfa8099c16b)
 - https://raw.githubusercontent.com/lodelux/hunter-public/HEAD/LICENSE (retrieved 2026-11-04T18:00:38Z; SHA-256 8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef)
+
+---
+
+## Index
+
+Archived Laminar browser agent in Python that drives Playwright Chromium with vision-capable LLMs, returns Pydantic-structured results and offers an interactive CLI with optional Laminar tracing.
+
+- Catalog URL: https://awesomecua.com/resources/github-lmnr-ai-index/
+- Original source: https://github.com/lmnr-ai/index
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, observability, human-in-the-loop, history
+- Evidence checked: 2026-10-18T11:37:39Z
+- ID: github:lmnr-ai/index
+
+### Limitations
+
+GitHub reports the repository as archived, with the last push on 2025-06-09. The tree holds the agent, Playwright browser and controller modules (actions include give_human_control and spreadsheet-cell clicks), providers for Anthropic, Bedrock, Gemini, Vertex, OpenAI and Groq, and two structured-output eval scripts rather than a benchmark. The README also advertises a hosted serverless Index API and chat UI run by Laminar; their current availability was not checked. Apache-2.0 covers repository code only.
+
+- Record JSON: https://awesomecua.com/resources/github-lmnr-ai-index/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/lmnr-ai/index/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lmnr-ai/index/HEAD/README.md (retrieved 2026-10-18T11:37:39Z; SHA-256 7dc084999b84d9dd5f3ca7b009cb6b165452f7089348ecb47e39cd447c9815c5)
+- https://api.github.com/repos/lmnr-ai/index (retrieved 2026-10-18T11:36:31Z; SHA-256 7922b878350bcc1e56f7eb5c8223f9a8e11eeac7741f61d1c338f29b72fcd016)
+- https://api.github.com/repos/lmnr-ai/index/git/trees/main?recursive=1 (retrieved 2026-10-18T11:36:31Z; SHA-256 acbdfcdeeb5603c837cce3bc237855cb0217030a55b3abd7387b913ee5510b33)
+- https://raw.githubusercontent.com/lmnr-ai/index/HEAD/LICENSE (retrieved 2026-10-18T11:37:41Z; SHA-256 7a70278b79cfd6a123a34593b9a5b3bc5d925b1b1ad90dff104482658ccdf654)
+- https://raw.githubusercontent.com/lmnr-ai/index/HEAD/LICENSE (retrieved 2026-10-18T11:37:41Z; SHA-256 7a70278b79cfd6a123a34593b9a5b3bc5d925b1b1ad90dff104482658ccdf654)
 
 ---
 
@@ -4811,6 +5798,46 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Jev for Chrome
+
+Chrome extension agent that sends an indexed table of visible page controls to the TypeSafe Jev decision model, asks a small text model only for typed strings, and acts through Chrome's debugger input.
+
+- Catalog URL: https://awesomecua.com/resources/github-chy4pro-jev-for-chrome/
+- Original source: https://github.com/chy4pro/jev-for-chrome
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, efficiency
+- Evidence checked: 2026-10-18T16:05:00Z
+- ID: github:chy4pro/jev-for-chrome
+
+### Limitations
+
+Community Manifest V3 extension that its README describes as a port of browser-use/jev-ultrafast, not affiliated with TypeSafe or Browser Use. The content script (src/content/snapshot.ts) lists visible, hit-tested interactive elements with role, accessible name, value and link target, plus up to 6,000 characters of page text; no screenshots are sent. Jev is a hosted model reached through OpenRouter, TypeSafe or Cloudflare Workers AI; TYPE_TEXT values come from an OpenAI-compatible text model. Clicks and keystrokes are dispatched through chrome.debugger (src/background/input.ts), with synthetic DOM events when that is switched off. The README reports 13 of 17 publisher-chosen tasks passing in one recorded headless-Chromium run (docs/e2e-suite-2026-09-19.md); this is not a standard benchmark and was not reproduced. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-chy4pro-jev-for-chrome/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/chy4pro/jev-for-chrome/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/chy4pro/jev-for-chrome/HEAD/docs/store-listing.md (retrieved 2026-10-18T16:05:00Z; SHA-256 4a6f2617ef256b00810a6b744f6a8d1637fcafaa6d91aeccb9a847171e8049cb)
+- https://raw.githubusercontent.com/chy4pro/jev-for-chrome/d5c24de556ade0f0a9c7a4c6ebb9dab305e4209e/README.md (retrieved 2026-10-18T16:04:58Z; SHA-256 aa9232c8c85fae093653716dfab0ba6ddf6e16d06c0d19685a7f23d4aa4b3cc5)
+- https://raw.githubusercontent.com/chy4pro/jev-for-chrome/d5c24de556ade0f0a9c7a4c6ebb9dab305e4209e/src/content/snapshot.ts (retrieved 2026-10-18T16:04:06Z; SHA-256 215ca2af82f05ff8efc33437a9aa2d5ba24548455e9f8706bfa0b2f97bf16da4)
+- https://raw.githubusercontent.com/chy4pro/jev-for-chrome/d5c24de556ade0f0a9c7a4c6ebb9dab305e4209e/src/background/input.ts (retrieved 2026-10-18T16:04:06Z; SHA-256 c4e2df2d37258b73a42fbff76b79d874e25eefdea3a711c78d82e14bc4e176b6)
+- https://raw.githubusercontent.com/chy4pro/jev-for-chrome/d5c24de556ade0f0a9c7a4c6ebb9dab305e4209e/src/shared/providers/typesafe.ts (retrieved 2026-10-18T16:04:06Z; SHA-256 acfedb26507cae6755fe3ec8c109c0e52e338a3ed06832e6afdeab302af3a147)
+- https://raw.githubusercontent.com/chy4pro/jev-for-chrome/d5c24de556ade0f0a9c7a4c6ebb9dab305e4209e/docs/e2e-suite-2026-09-19.md (retrieved 2026-10-18T16:04:06Z; SHA-256 ccce28f5965e3061a74337d26dd57e34bbbeb49a6f2b382ebd33ed87759b5bef)
+- https://raw.githubusercontent.com/chy4pro/jev-for-chrome/d5c24de556ade0f0a9c7a4c6ebb9dab305e4209e/LICENSE (retrieved 2026-10-18T16:04:06Z; SHA-256 0a09b4afbb17eecc7c57cb169710ca41017d9ce046ff116b6b7f49a25ac2c519)
+- https://raw.githubusercontent.com/chy4pro/jev-for-chrome/HEAD/LICENSE (retrieved 2026-10-18T16:05:11Z; SHA-256 0a09b4afbb17eecc7c57cb169710ca41017d9ce046ff116b6b7f49a25ac2c519)
+
+---
+
 ## Jev macOS Loop
 
 Jev macOS Loop combines Apple Silicon local Jev decision models, OmniParser grounding, and native macOS Accessibility actuation.
@@ -4876,6 +5903,46 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/luciferlu755/jev-for-chrome/HEAD/README.md (retrieved 2026-11-04T16:51:42Z; SHA-256 307f76ea74035711c78167fa18161f81e755f286b442b25206c24a2d18851932)
 - https://raw.githubusercontent.com/luciferlu755/jev-for-chrome/HEAD/LICENSE (retrieved 2026-11-04T16:56:54Z; SHA-256 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986)
+
+---
+
+## jev-use
+
+macOS voice and typed computer-use app that walks the front app's Accessibility tree, has the hosted Jev model pick an operation and a numbered target each step, and acts via Accessibility actions and synthetic input.
+
+- Catalog URL: https://awesomecua.com/resources/github-savka777-jev-use/
+- Original source: https://github.com/savka777/jev-use
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: automation, efficiency, human-in-the-loop
+- Evidence checked: 2026-10-20T07:55:46Z
+- ID: github:savka777/jev-use
+
+### Limitations
+
+The Swift app (built as Desktop Voice.app; macOS 14.2+ and Xcode) reads the front window's Accessibility tree, skipping secure text fields, and sends the command, app and window names, numbered targets and recent actions to TypeSafe's hosted systemone endpoint with model jev-latest; no screenshots are sent (Sources/JevDesktop/Desktop.swift, Sources/JevCore/Decision.swift). Actions use Accessibility presses and value setting plus CGEvent mouse, key and scroll events. An optional OpenRouter key enables a planner model (default inception/mercury-2.5) that splits a spoken command into steps; Jev still chooses each on-screen target (Sources/JevCore/Planner.swift). Input is Apple Speech hold-to-talk, hands-free mode, an optional "Hey Jev" wake phrase, or typed commands. The README says low-confidence and destructive picks stop and ask. Jev is a hosted model; its weights are not part of this repository. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-savka777-jev-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/savka777/jev-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/savka777/jev-use/HEAD/README.md (retrieved 2026-10-20T07:55:46Z; SHA-256 33dcaacf9df33772c939e9d47b9f9d9b2a62aa89350f18679c1efa30a9b53a72)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/README.md (retrieved 2026-10-20T07:55:00Z; SHA-256 33dcaacf9df33772c939e9d47b9f9d9b2a62aa89350f18679c1efa30a9b53a72)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevDesktop/Desktop.swift (retrieved 2026-10-20T07:55:00Z; SHA-256 749d56d50e44b0b186075823f2ebde9b7ce0202dca0433508b1525d8c8fd1efe)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevCore/Decision.swift (retrieved 2026-10-20T07:55:01Z; SHA-256 be29bfdff736e2d471f00fb20d8777f9195653385708baf6ceba42f70e0248e7)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevCore/Planner.swift (retrieved 2026-10-20T07:55:01Z; SHA-256 d415336ae42e87dd015503c62ca947cba81f6ea7a6266e586da63941331d6b94)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/Sources/JevDesktop/JevDesktopApp.swift (retrieved 2026-10-20T07:55:04Z; SHA-256 b3e1a792f0a817662ecc2d87cd8fe4900d76ba1e8251a38b5c1ac916d2d7594a)
+- https://raw.githubusercontent.com/savka777/jev-use/b22e568adf110eeb64f89bf4d731a69d23c461dc/LICENSE (retrieved 2026-10-20T07:55:04Z; SHA-256 d07df820340b2caa015b0135264e779facb2e2098874fa12bc99dd7069480be3)
+- https://raw.githubusercontent.com/savka777/jev-use/HEAD/LICENSE (retrieved 2026-10-20T07:55:53Z; SHA-256 d07df820340b2caa015b0135264e779facb2e2098874fa12bc99dd7069480be3)
 
 ---
 
@@ -5380,6 +6447,87 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Login Machine
+
+Browser agent loop for website logins: Claude classifies each login screen from a screenshot and stripped HTML and returns DOM-checked Playwright locators; user-entered credentials never reach the model.
+
+- Catalog URL: https://awesomecua.com/resources/github-richardhruby-login-machine/
+- Original source: https://github.com/RichardHruby/login-machine
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, human-in-the-loop, safety-security
+- Evidence checked: 2026-10-18T12:26:18Z
+- ID: github:richardhruby/login-machine
+
+### Limitations
+
+Built by @RichardHruby and @jesse-olympus at Anon as a Next.js app. Each step sends a JPEG screenshot and form-relevant HTML (walking into shadow roots) to claude-sonnet-4-5-20250929, which returns one of six typed screen states (credential_login_form, choice_screen, magic_login_link, loading_screen, blocked_screen, logged_in_screen) with Playwright locators; locators that do not resolve in the live DOM are fed back for up to three analysis attempts. Browsers are Browserbase sessions reached over CDP, so Anthropic and Browserbase keys are required. The user supplies credentials, choices and magic links through the chat UI, and Playwright types or clicks them. package.json is a private app (login-machine 0.1.0), not a published package; a hosted demo is linked from the README. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-richardhruby-login-machine/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/RichardHruby/login-machine/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/RichardHruby/login-machine/HEAD/README.md (retrieved 2026-10-18T12:26:18Z; SHA-256 917691af2168f99e281551d00819c0125f178355a4b76e9a8172dbb520a4c4be)
+- https://api.github.com/repos/RichardHruby/login-machine/git/commits/e1da92965029ce23bfc372f4483ed7c55ba84736 (retrieved 2026-10-18T12:26:18Z; SHA-256 3dd4d7a23842da95003e3452dde81eb7a814fbcf679e92216febc1f3c25b343b)
+- https://raw.githubusercontent.com/RichardHruby/login-machine/e1da92965029ce23bfc372f4483ed7c55ba84736/src/lib/ai-login/agent.ts (retrieved 2026-10-18T12:26:19Z; SHA-256 07924cbc22126327ae31f4acae001d818386d512f0b0fbfaa6dbab4e721b9618)
+- https://raw.githubusercontent.com/RichardHruby/login-machine/e1da92965029ce23bfc372f4483ed7c55ba84736/src/lib/ai-login/browser.ts (retrieved 2026-10-18T12:26:19Z; SHA-256 b007559f084f25fc8d9faa4d502511d9a9b8ac42c83f006468281364593da1d0)
+- https://raw.githubusercontent.com/RichardHruby/login-machine/e1da92965029ce23bfc372f4483ed7c55ba84736/src/lib/ai-login/types.ts (retrieved 2026-10-18T12:26:19Z; SHA-256 f9ba3dc39c6497c0c68990881d32a59878b96053bc10c6b65f2fc496d4cd11bd)
+- https://raw.githubusercontent.com/RichardHruby/login-machine/HEAD/LICENSE (retrieved 2026-10-18T12:26:44Z; SHA-256 c268300fd627deb702f7647767590e36184083a5e23e40cb76ecbe07fbfe5132)
+
+---
+
+## LongHorizonUI
+
+Code for the LongHorizonUI Android agent: OCR plus OmniParser icon detection yields numbered element boxes for an LLM, and failed taps fall back from element index to relative and absolute points with rollback.
+
+- Catalog URL: https://awesomecua.com/resources/github-kane2kang-longhorizonui/
+- Original source: https://github.com/kane2kang/LongHorizonUI
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: long-horizon, mobile-navigation, screen-understanding, self-reflection
+- Evidence checked: 2026-10-20T07:39:57Z
+- ID: github:kane2kang/longhorizonui
+
+### Limitations
+
+Code release of the ICLR 2026 paper "LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent" (the repository description says ICLR2026; the README cites it with anonymous authors and no link). Each screenshot passes through RapidOCR, the OmniParser v2 YOLO icon detector (downloaded from microsoft/OmniParser-v2.0 on first use) and template matching when an icon template directory is set; the merged elements are drawn as numbered boxes, and that annotated screenshot with a step prompt is what the Gemini, Azure OpenAI or OpenAI model receives. Actions are click, long press, swipe, drag, text input and key press. With the fallback cascade on (the default), an element-index target that fails is retried as a relative point inside the box and then as absolute coordinates with jitter; a progress monitor can roll back to the last committed snapshot, at most three times per task. The README documents only the offline mode, which replays a task's recorded screenshot sequence with either the task description or step-by-step instructions. run.py also has a live subcommand that lists USB-connected devices, but at the reviewed commit AndroidContext never opens a device connection (its context stays None), so device actions return without acting. The repository also has a Gradio app, agents that turn recorded taps and swipes into step descriptions, a scrcpy-based Android recording tool, step-level evaluation scripts and the project page source. The LongGUIBench dataset is not released (the README link is a placeholder), the requirements.txt the README installs from is not in the tree, and the README's Apache-2.0 badge and LICENSE link are not backed by a license file. Not a fork, not archived; no release. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-kane2kang-longhorizonui/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The README shows an Apache-2.0 badge and links a LICENSE file, but the complete tree at the reviewed commit has no license file, so no grant is established.
+  Sources: https://api.github.com/repos/kane2kang/LongHorizonUI/git/trees/2c825a35507b8ae7df8b705517658bf477f36e71?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/kane2kang/LongHorizonUI/HEAD/README.md (retrieved 2026-10-20T07:39:57Z; SHA-256 750acfce145a8d8c898b11bf0f213790f472689a0677b26e077d78ea8696cfc1)
+- https://api.github.com/repos/kane2kang/LongHorizonUI/git/trees/2c825a35507b8ae7df8b705517658bf477f36e71?recursive=1 (retrieved 2026-10-20T04:25:52Z; SHA-256 de838e1b7bfa6653226a9716f3044a6d4979fbc1b8bed4522f8f95ea08e78888)
+- https://raw.githubusercontent.com/kane2kang/LongHorizonUI/2c825a35507b8ae7df8b705517658bf477f36e71/run.py (retrieved 2026-10-20T04:25:53Z; SHA-256 abb611e5ae9d2084ccfc310cf9181d30cfc1decaffd4e0ec69554b2a8db13194)
+- https://raw.githubusercontent.com/kane2kang/LongHorizonUI/2c825a35507b8ae7df8b705517658bf477f36e71/LonghorizonAgent/system/android_context.py (retrieved 2026-10-20T04:25:54Z; SHA-256 dddc23d669881d1aa843adcf67a59f5975634618dfb8a80c6cda43b07c978342)
+- https://raw.githubusercontent.com/kane2kang/LongHorizonUI/2c825a35507b8ae7df8b705517658bf477f36e71/LonghorizonAgent/system/system_context.py (retrieved 2026-10-20T04:25:54Z; SHA-256 d0783083508093c9618f83f7a217b442d1e2cb075442a2b6e8d155e1ed712474)
+- https://raw.githubusercontent.com/kane2kang/LongHorizonUI/2c825a35507b8ae7df8b705517658bf477f36e71/LonghorizonAgent/perception/models/icon_detect_model.py (retrieved 2026-10-20T04:25:54Z; SHA-256 78c28fb8f5d565327b20d7f745974cb4634ff4076bdf2239a220a71c7f43baac)
+- https://raw.githubusercontent.com/kane2kang/LongHorizonUI/2c825a35507b8ae7df8b705517658bf477f36e71/LonghorizonAgent/controller/android_controller.py (retrieved 2026-10-20T04:25:54Z; SHA-256 3c40b1df63a851f10926eaaf0c94b614c3b36fbabfb978b5606f757b98dcf28c)
+- https://raw.githubusercontent.com/kane2kang/LongHorizonUI/2c825a35507b8ae7df8b705517658bf477f36e71/LonghorizonAgent/agent/auto_execution_agent.py (retrieved 2026-10-20T04:25:54Z; SHA-256 abe1aeb53eef647c1626e3140045b3b7728a1b3dde9abb42c5267e0ddf11d1f3)
+
+---
+
 ## LOVI AI Browser
 
 Privacy-first autonomous AI companion browser powered by local Qwen 2.5 models.
@@ -5552,6 +6700,91 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/wangjiang314/lynx-agent/HEAD/README.md (retrieved 2026-11-04T14:20:08Z; SHA-256 39083c2c9ad6e60d7d557eb78e270904167844585ec679e452db019b54f3898a)
 - https://raw.githubusercontent.com/wangjiang314/lynx-agent/HEAD/LICENSE (retrieved 2026-11-04T14:24:10Z; SHA-256 a66dee6aefbcad44c42c12d9ff1f0d4c5a60224c63f1b729cdeca3e325033e38)
+
+---
+
+## MacOS Agent (BIGAI)
+
+macOS agent in which a smolagents code agent dispatches per-application sub-agents that read accessibility trees and window screenshots and act through pyautogui mouse and keyboard input.
+
+- Catalog URL: https://awesomecua.com/resources/github-computer-use-agents-macos-agent/
+- Original source: https://github.com/Computer-use-agents/MacOS-Agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: cross-app, planning, automation
+- Evidence checked: 2026-10-19T06:14:40Z
+- ID: github:computer-use-agents/macos-agent
+
+### Limitations
+
+Released by the Computer-use-agents organization; the project page credits the BIGAI ML Group. macosagent/macosagent.py builds a smolagents CodeAgent whose tools are ten app agents (macosagent/agents/__init__.py): Browser, Calendar, Excel, Finder, Player, PowerPoint, Preview, TextEdit, WeChat and Word. The browser agent wraps the external browser-use library (agents/browser_agent/browser.py). In the Calendar agent, the window is captured with screencapture, interactive elements from the macOS accessibility API are drawn as numbered boxes on that screenshot, and the image plus element list go to the model (calendar/calendar.py, calendar/context.py, calendar/utils.py, agent/service.py); clicks and typing use pyautogui and pynput (controller/service.py). The Excel agent likewise clicks and types with pyautogui and runs AppleScript to save and close workbooks (excel_agent/controller/service.py). The README's License section names CC BY-NC 4.0, but the inspected tree has no license file. The agent was not run.
+
+- Record JSON: https://awesomecua.com/resources/github-computer-use-agents-macos-agent/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The README's License section names CC BY-NC 4.0, but the inspected tree at the reviewed commit has no license file, so no source-license grant is recorded.
+  Sources: https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/HEAD/README.md, https://api.github.com/repos/Computer-use-agents/MacOS-Agent/git/trees/a047656cbfecd0d7067661ed9c1ed718027d052a?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/HEAD/README.md (retrieved 2026-10-19T06:14:40Z; SHA-256 13b2e3d4a2b2d3fa6af976bf6e3a37c95e0198c981ca082f2295f3da3d4fe0be)
+- https://api.github.com/repos/Computer-use-agents/MacOS-Agent/git/trees/a047656cbfecd0d7067661ed9c1ed718027d052a?recursive=1 (retrieved 2026-10-19T06:14:39Z; SHA-256 eef72bdba62410ffbe6313e3d80f44fce69134d7b21f9b561b4ef945e4987427)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/macosagent/macosagent.py (retrieved 2026-10-18T16:04:04Z; SHA-256 28f74e7e8f15f6dfadfc3fa379bc1b3eb354dd184ba0a4f9607f17c031547422)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/macosagent/agents/__init__.py (retrieved 2026-10-18T16:04:04Z; SHA-256 0887e9fcb53039e886f60e869104bb4bd2a3be8eb27719f554a62c72ff361f0b)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/macosagent/agents/browser_agent/browser.py (retrieved 2026-10-18T16:04:04Z; SHA-256 a39edf46c7a1e304a8bf10c04d6a0682cebf31f6686d6d35b045a92675dc4490)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/macosagent/agents/calendar_agent/calendar/calendar.py (retrieved 2026-10-18T16:04:05Z; SHA-256 0cd47d5c73b34f8d226aaa716dae58fca3a8dde85849878bcbc39322b22ea0f0)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/macosagent/agents/calendar_agent/calendar/context.py (retrieved 2026-10-18T16:04:05Z; SHA-256 72416f838c5858f5ec5e9099a043a9d45c89c44ca86bcd9593595bfdb5c1446f)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/macosagent/agents/calendar_agent/calendar/utils.py (retrieved 2026-10-18T16:05:22Z; SHA-256 d7e4d38936e1492de86a482f23e84b5c4eb2bb548f1b80ebd3adb27a32d70396)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/macosagent/agents/calendar_agent/agent/service.py (retrieved 2026-10-18T16:04:05Z; SHA-256 26a2502e4e952ea08b68adb79cec2f297ecfe2e2fd847b7ec521ca57215cfc0c)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/macosagent/agents/calendar_agent/controller/service.py (retrieved 2026-10-18T16:04:05Z; SHA-256 0870d1830bfb53cfa8458d7acfbb84091fe1702005c70e882c25004136d7ccc4)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/macosagent/agents/excel_agent/controller/service.py (retrieved 2026-10-18T16:04:57Z; SHA-256 976d625d7dbe171af7ae467904d5f736b61f68ad50af9f4e6c576658512b4375)
+- https://raw.githubusercontent.com/Computer-use-agents/MacOS-Agent/a047656cbfecd0d7067661ed9c1ed718027d052a/pyproject.toml (retrieved 2026-10-18T16:04:06Z; SHA-256 fa1f717d5392934603ff9e4d9466a92fb875da2a0165e2ba8ff01fb1cf4f1c6e)
+- https://computer-use-agents.github.io/macos/ (retrieved 2026-10-18T16:04:07Z; SHA-256 23b1260ed59a7c103368885d661f2f4975fc6e244b200292324d79c6384032f5)
+
+---
+
+## macOS-use
+
+An archived Browser Use project that lets an LLM operate macOS apps by reading their accessibility trees and pressing, typing into and opening elements through the macOS Accessibility API.
+
+- Catalog URL: https://awesomecua.com/resources/github-browser-use-macos-use/
+- Original source: https://github.com/browser-use/macOS-use
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: macos, desktop
+- Topics: automation, screen-understanding, history
+- Evidence checked: 2026-10-18T11:12:32Z
+- ID: github:browser-use/macos-use
+
+### Limitations
+
+The GitHub API reports the repository as archived; the last push was on 5 March 2025. The tree contains the mlx_use package (agent loop, controller, macOS accessibility tree, element actions), examples and a Gradio demo. The README documents the pip package name mlx-use and OpenAI, Anthropic or Gemini API keys. It warns that the agent may use stored credentials, will not stop at CAPTCHAs and should not run unsupervised. Local MLX inference and iPhone support were roadmap items, not released features. MIT applies to the repository code only.
+
+- Record JSON: https://awesomecua.com/resources/github-browser-use-macos-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/browser-use/macOS-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/browser-use/macOS-use/HEAD/README.md (retrieved 2026-10-18T11:12:32Z; SHA-256 9a3940337e2db7ce8082be4fab95304d555b67940d536ed7bf5df91a42794203)
+- https://api.github.com/repos/browser-use/macOS-use (retrieved 2026-10-18T11:12:32Z; SHA-256 b1282b218af0753ab3d41d7656bd9f2804c0b076675060a00c006215d878d74d)
+- https://api.github.com/repos/browser-use/macOS-use/git/trees/main?recursive=1 (retrieved 2026-10-18T11:12:33Z; SHA-256 08d17429b07b1938e8f5efba563fc1c18c2ef4846b3868a6589eb5409aee00db)
+- https://raw.githubusercontent.com/browser-use/macOS-use/HEAD/LICENSE (retrieved 2026-10-18T11:12:33Z; SHA-256 135c57671b0ee957669b05a0ca00cc06f645496d351e2e732832c6e276da9a5e)
+- https://raw.githubusercontent.com/browser-use/macOS-use/HEAD/LICENSE (retrieved 2026-10-18T11:12:33Z; SHA-256 135c57671b0ee957669b05a0ca00cc06f645496d351e2e732832c6e276da9a5e)
 
 ---
 
@@ -7201,6 +8434,47 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Open ChatGPT Atlas
+
+Chrome side-panel extension and Electron browser in which Gemini 2.5 Computer Use reads tab screenshots and returns clicks, typing, scrolling and navigation, with an optional Composio tool-router mode.
+
+- Catalog URL: https://awesomecua.com/resources/github-composio-community-open-chatgpt-atlas/
+- Original source: https://github.com/composio-community/open-chatgpt-atlas
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, tool-integration
+- Evidence checked: 2026-10-18T12:20:03Z
+- ID: github:composio-community/open-chatgpt-atlas
+
+### Limitations
+
+The repository moved from ComposioHQ/open-chatgpt-atlas to composio-community (same GitHub repository ID 1080954405); the README star badge still links the former name. In Browser Tools mode the extension captures the visible tab (chrome.tabs.captureVisibleTab), sends it to gemini-2.5-computer-use-preview-10-2025 and executes the returned actions by dispatching synthetic DOM mouse and keyboard events at the given coordinates from its content script; the Electron app captures its view with webContents.capturePage and injects equivalent JavaScript. Model calls go directly from the client with a user-supplied Google API key; the Composio key for Tool Router mode is optional. There is no LICENSE file and GitHub reports no license, so the code license is unknown. No GitHub releases; the extension manifest is version 1.0.0. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-composio-community-open-chatgpt-atlas/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/composio-community/open-chatgpt-atlas/HEAD/README.md (retrieved 2026-10-18T12:20:03Z; SHA-256 9e824c64f7b35b51d4c7d1760a1aa2b988f7c5b9c8cbf3316f58ad3ee889fcbe)
+- https://api.github.com/repos/composio-community/open-chatgpt-atlas/git/commits/15a4261954a13322bc8af54ce1434d9b6f3d189d (retrieved 2026-10-18T12:20:04Z; SHA-256 eee36a8262eb0959155c6e5f85aec5b70e07bc846fa41da967a376067f961494)
+- https://raw.githubusercontent.com/composio-community/open-chatgpt-atlas/15a4261954a13322bc8af54ce1434d9b6f3d189d/sidepanel.tsx (retrieved 2026-10-18T12:20:05Z; SHA-256 c1551a484ee4f460bf8e2422d67d8faa15bc469e488450e5cc2485ffaf703ac3)
+- https://raw.githubusercontent.com/composio-community/open-chatgpt-atlas/15a4261954a13322bc8af54ce1434d9b6f3d189d/background.ts (retrieved 2026-10-18T12:20:05Z; SHA-256 846c28313d8aac2f674d3df0d6857f1e24f31dc3d801cddb89a44b9053fd90d1)
+- https://raw.githubusercontent.com/composio-community/open-chatgpt-atlas/15a4261954a13322bc8af54ce1434d9b6f3d189d/content.ts (retrieved 2026-10-18T12:20:05Z; SHA-256 02790a0381841b265c056c276b932774a20ed6f55b82aa0d67716f2237477016)
+- https://raw.githubusercontent.com/composio-community/open-chatgpt-atlas/15a4261954a13322bc8af54ce1434d9b6f3d189d/manifest.json (retrieved 2026-10-18T12:20:05Z; SHA-256 e9649e6d8e990bf533f33ea02e9c8d1ffc22ef42368f336016ce5590738fa5d9)
+- https://raw.githubusercontent.com/composio-community/open-chatgpt-atlas/15a4261954a13322bc8af54ce1434d9b6f3d189d/electron-browser/src/main/computer-use-service.ts (retrieved 2026-10-18T12:20:12Z; SHA-256 f50e4d28c598cad5dc1c3629ab22d22da79043019e3181c182f3abadd529b770)
+- https://api.github.com/repos/ComposioHQ/open-chatgpt-atlas (retrieved 2026-10-18T12:20:14Z; SHA-256 038bb8e2d9c9be78e5ef27b6b520c97eee966862fa001e88d062242645dde255)
+- https://api.github.com/repos/composio-community/open-chatgpt-atlas (retrieved 2026-10-18T12:20:15Z; SHA-256 038bb8e2d9c9be78e5ef27b6b520c97eee966862fa001e88d062242645dde255)
+
+---
+
 ## Open Computer Use
 
 Open Computer Use runs open-source vision-language models inside an E2B Desktop cloud Linux sandbox for autonomous GUI task execution.
@@ -7480,6 +8754,44 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## OpenAI Computer Use Sample Apps
+
+OpenAI reference agents that drive a browser through Playwright JavaScript or a desktop through PyAutoGUI Python, with the model writing code via the Responses API, plus mock kanban, paint and booking labs.
+
+- Catalog URL: https://awesomecua.com/resources/github-openai-openai-cua-sample-app/
+- Original source: https://github.com/openai/openai-cua-sample-app
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: tool-integration, web-navigation, observability
+- Evidence checked: 2026-10-18T11:14:13Z
+- ID: github:openai/openai-cua-sample-app
+
+### Limitations
+
+The repository (ID 946708780, created 2025-03-11) keeps its original name and a description about using CUA through the API, but the inspected README and python-app/app/responses_loop.py now drive the model through persistent code-execution function tools (exec_py for PyAutoGUI; a JavaScript worker for Playwright) rather than the computer-use tool, so no relation to the OpenAI CUA model record is asserted. The default model is configurable. Each run copies a lab template and records screenshots and a replay trace. The README states that generated code runs with user permissions, without an operating-system sandbox or OpenAI's production action-review controls, and that a final answer does not prove task success. MIT applies to the sample code.
+
+- Record JSON: https://awesomecua.com/resources/github-openai-openai-cua-sample-app/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/openai/openai-cua-sample-app/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/openai/openai-cua-sample-app/HEAD/README.md (retrieved 2026-10-18T11:14:13Z; SHA-256 46a7e27a2b7ba6bfea22349ff05e9acebf82eb06258817a4b42155b82fedd17c)
+- https://api.github.com/repos/openai/openai-cua-sample-app (retrieved 2026-10-18T11:14:42Z; SHA-256 60ffbe86c794b4fad2fea1c8926f43dae9b0d590107dbeef26d1bf556e23e8bd)
+- https://api.github.com/repos/openai/openai-cua-sample-app/git/trees/main?recursive=1 (retrieved 2026-10-18T11:14:45Z; SHA-256 ab019f99571d9ab49c6282b250f8e22f78de9fce5b23f8580ddf904c1b1572f2)
+- https://raw.githubusercontent.com/openai/openai-cua-sample-app/HEAD/python-app/app/responses_loop.py (retrieved 2026-10-18T11:15:00Z; SHA-256 bba5f3c71f4a56fe6ad4ce6eded667e88ed32f3af9dae962a312823599a018b5)
+- https://raw.githubusercontent.com/openai/openai-cua-sample-app/HEAD/LICENSE (retrieved 2026-10-18T11:14:48Z; SHA-256 13df7812ca53ecaae1cb4a868844bb598373047ae1d580e4debfbef1dd5b6915)
+- https://raw.githubusercontent.com/openai/openai-cua-sample-app/HEAD/LICENSE (retrieved 2026-10-18T11:14:48Z; SHA-256 13df7812ca53ecaae1cb4a868844bb598373047ae1d580e4debfbef1dd5b6915)
+
+---
+
 ## OpenAmer Agent
 
 Self-hosted, self-improving AI desktop agent for Windows with native in-process system and UI tools.
@@ -7547,6 +8859,88 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## OpenBrowser (OpenBrowserAI)
+
+Chromium patch set with a built-in assistant extension whose browser agent sees indexed page elements and a screenshot with numbered boxes, then clicks and types by element index, scrolls and switches tabs.
+
+- Catalog URL: https://awesomecua.com/resources/github-openbrowserai-openbrowser/
+- Original source: https://github.com/OpenBrowserAI/openbrowser
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, tool-integration
+- Evidence checked: 2026-10-18T16:11:41Z
+- ID: github:openbrowserai/openbrowser
+
+### Limitations
+
+Three parts: chromium/ holds a patch list and scripts that rebrand a separately checked-out Chromium source tree with the root branding_assets/ and load the assistant as a built-in component extension in a side panel (no prebuilt browser is released); chromium-extension/ is that assistant (sidebar chat, options, background agent); packages/core is the TypeScript agent library with planning, replanning, a chat agent, MCP clients, memory compression and web search. Its browser agent injects a DOM-tree script that indexes clickable elements as pseudo-HTML and, in the default normal mode with draw marking, sends a viewport capture with the indexed boxes drawn on it; tools navigate, click, type, scroll, hover, select options, extract page content and switch tabs, and the extension executes them through chrome.tabs, chrome.scripting and chrome.debugger. Models are configured with the user's own API keys. Root LICENSE is MIT. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-openbrowserai-openbrowser/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OpenBrowserAI/openbrowser/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OpenBrowserAI/openbrowser/HEAD/README.md (retrieved 2026-10-18T16:11:41Z; SHA-256 1ff317f1fcd1e1855cb24d82a8454879655205961df92bbeb90e82d54b2f2743)
+- https://raw.githubusercontent.com/OpenBrowserAI/openbrowser/b04fcf631fe67ddf7ab6d54f6388635d16f468f9/packages/core/src/agent/browser/browser-labels.ts (retrieved 2026-10-18T16:11:13Z; SHA-256 e617f612ba914a7033110b812298c889a2f0e9441503cbb2881622526cedaf73)
+- https://raw.githubusercontent.com/OpenBrowserAI/openbrowser/b04fcf631fe67ddf7ab6d54f6388635d16f468f9/packages/core/src/config/index.ts (retrieved 2026-10-18T16:11:13Z; SHA-256 93268dc2f00d1223ab181ccd9f4d3f479c4690a0d083aa6298b19967140222b9)
+- https://raw.githubusercontent.com/OpenBrowserAI/openbrowser/b04fcf631fe67ddf7ab6d54f6388635d16f468f9/packages/extension/src/browser.ts (retrieved 2026-10-18T16:11:15Z; SHA-256 a632380626b5a5bbbe46137a8772a994310180523b178fda54ef9ca4c2376bb0)
+- https://raw.githubusercontent.com/OpenBrowserAI/openbrowser/b04fcf631fe67ddf7ab6d54f6388635d16f468f9/chromium/config/patches.list (retrieved 2026-10-18T16:11:19Z; SHA-256 cf876dcee3a2974b2c488439985652acca81eff9b4f84491dc9ad06e6ba79286)
+- https://raw.githubusercontent.com/OpenBrowserAI/openbrowser/b04fcf631fe67ddf7ab6d54f6388635d16f468f9/chromium/contributing.md (retrieved 2026-10-18T16:11:20Z; SHA-256 9f5b2df5342eda87546dcf3f17e2b8598683fce34dee038a7a8c3bb8ca5f944e)
+- https://raw.githubusercontent.com/OpenBrowserAI/openbrowser/HEAD/LICENSE (retrieved 2026-10-18T16:11:50Z; SHA-256 4898d0c434a561a78e693001a5894d2acacd88ef1445a4966e1a0b35a0cebfcd)
+
+---
+
+## OpenBUA
+
+Chrome side-panel agent that works in the user's signed-in browser, reading DOM control inventories and tab screenshots, then clicking, typing and filling forms through injected synthetic events.
+
+- Catalog URL: https://awesomecua.com/resources/github-alisharjeell-openbua/
+- Original source: https://github.com/AliSharjeell/OpenBUA
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, memory, automation
+- Evidence checked: 2026-10-19T06:11:56Z
+- ID: github:alisharjeell/openbua
+
+### Limitations
+
+Chrome Manifest V3 extension (manifest version 1.9.1) whose agent loop is built on the pi-agent-core and pi-ai packages. Its tools (src/agent/tools.ts) read a paginated inventory of interactive DOM controls including open shadow roots, inspect forms, click elements or screenshot-pixel coordinates (used for canvas editors such as Google Docs), type, scroll, switch and open tabs, upload files, post to social sites and send webmail; capture_tab_screenshot returns the visible-tab image to the model. Actions run as scripts injected with chrome.scripting that dispatch synthetic pointer and mouse events (src/agent/browser-bridge.ts); the manifest requests no debugger permission. Before showing its human CAPTCHA gate, the bridge makes up to two automatic rounds in which a vision model is asked to click inside detected challenge regions (src/agent/captcha-auto.ts). It acts in the user's logged-in sessions and keeps a memory store with optional parallel worker windows. The README ends with 'MIT', but the inspected tree has no license file. The agent was not run.
+
+- Record JSON: https://awesomecua.com/resources/github-alisharjeell-openbua/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The README's closing License section says MIT, but the inspected tree at the reviewed commit has no license file, so no source-license grant is recorded.
+  Sources: https://raw.githubusercontent.com/AliSharjeell/OpenBUA/HEAD/README.md, https://api.github.com/repos/AliSharjeell/OpenBUA/git/trees/bc2c9b490291647a00946267e470efe3bf0cfd89?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/AliSharjeell/OpenBUA/HEAD/README.md (retrieved 2026-10-19T06:11:56Z; SHA-256 c1d5cabceb9a7f2f937c1f1962fc03ae51313e46ac80be197d8ba2db8b292be3)
+- https://api.github.com/repos/AliSharjeell/OpenBUA/git/trees/bc2c9b490291647a00946267e470efe3bf0cfd89?recursive=1 (retrieved 2026-10-19T06:11:55Z; SHA-256 04481a6b01ee0386e3cd559cb42400af037941b5f1eb665e572e7a00ee9f3ce4)
+- https://raw.githubusercontent.com/AliSharjeell/OpenBUA/bc2c9b490291647a00946267e470efe3bf0cfd89/src/agent/tools.ts (retrieved 2026-10-18T15:58:59Z; SHA-256 0391525a73502329678b684d4578670e0d2f58f5cfe3f861cb7ace0218a7b8bf)
+- https://raw.githubusercontent.com/AliSharjeell/OpenBUA/bc2c9b490291647a00946267e470efe3bf0cfd89/src/agent/browser-bridge.ts (retrieved 2026-10-18T15:58:59Z; SHA-256 afeb6e6a596c37830507d17bc072d84227b7270424e862bef8ccb6aced1cc990)
+- https://raw.githubusercontent.com/AliSharjeell/OpenBUA/bc2c9b490291647a00946267e470efe3bf0cfd89/src/agent/captcha-auto.ts (retrieved 2026-10-18T15:59:00Z; SHA-256 d58f3f48e7e856f53403c548c8109bd0b5db5533db21a3ab53d140afed6646b3)
+- https://raw.githubusercontent.com/AliSharjeell/OpenBUA/bc2c9b490291647a00946267e470efe3bf0cfd89/manifest.json (retrieved 2026-10-18T15:59:00Z; SHA-256 253c1a71f7ea8500636ed0ef2481efe1b7ee4f6af714e83f5300761c9ac488d4)
+- https://raw.githubusercontent.com/AliSharjeell/OpenBUA/bc2c9b490291647a00946267e470efe3bf0cfd89/package.json (retrieved 2026-10-18T15:59:25Z; SHA-256 14fdc27f27df8a8a2764be5783881263ae96ddf21838ac1811c3cb2d71dd2b60)
+- https://github.com/AliSharjeell/OpenBUA/releases/expanded_assets/v1.9.1 (retrieved 2026-10-18T15:59:30Z; SHA-256 b396bf7a21795c24abeaed411e6836dabada657e2059e5469c69100c524da792)
+
+---
+
 ## OpenClaw
 
 OpenClaw is an open-source personal computer-use assistant that executes browser, desktop, terminal, and messaging workflows across local devices.
@@ -7581,6 +8975,46 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## OpenComet
+
+Chrome side-panel agent that tags page elements with numbered boxes, redacts faces, credential fields and text PII on-device before a model sees the screenshot and DOM text, and acts through selectors or debugger clicks.
+
+- Catalog URL: https://awesomecua.com/resources/github-princechouhan19-opencometai/
+- Original source: https://github.com/princechouhan19/OpenCometAI
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, safety-security, screen-understanding
+- Evidence checked: 2026-10-18T16:19:20Z
+- ID: github:princechouhan19/opencometai
+
+### Limitations
+
+The README presents it as a Smart India Hackathon entry for problem statement 26171, whose listed organisation is ISRO. The Manifest V3 extension (version 1.31.0 at review) is loaded unpacked in Chrome; the README says Firefox has been built from the same source since v1.17.0. src/content/dom-detector.js paints numbered boxes on interactive elements, and the service worker captures the tab through the Chrome debugger or captureVisibleTab, so screenshots carry those marks. In privacy mode, MediaPipe, YOLO, ViT, Tesseract OCR and regex/checksum PII detectors run in the browser, and src/lib/privacy-firewall.js blocks or blanks a frame when sanitizing fails. Actions use selectors, with debugger Input.dispatchMouseEvent clicks where needed, inside a tab-group sandbox with an approval mode. Models: on-device Gemma 4, cloud providers, or Ollama through the bundled server. OpenCometBench is the repository's own test suite; its PII precision/recall uses a synthetic corpus built from the detector's own rules, as the README states, so it is not an independent benchmark. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-princechouhan19-opencometai/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/princechouhan19/OpenCometAI/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/princechouhan19/OpenCometAI/HEAD/README.md (retrieved 2026-10-18T16:19:20Z; SHA-256 0ac828306c3130219006b7f26a5a5bc1f89267d5c1ded62f4f831d59ad0c293f)
+- https://raw.githubusercontent.com/princechouhan19/OpenCometAI/b1c6a9a226198c2cacab14e6746f384cb10b7575/src/background/sw.js (retrieved 2026-10-18T16:18:52Z; SHA-256 9fb05745727bf83bc92987623f00c5d581eb382425c182cd229a7a3378dc4261)
+- https://raw.githubusercontent.com/princechouhan19/OpenCometAI/b1c6a9a226198c2cacab14e6746f384cb10b7575/src/content/dom-detector.js (retrieved 2026-10-18T16:18:52Z; SHA-256 e37367f96ab7dffb2ad3f52741e6407377d7fc7939e676717ba205f71fdd0391)
+- https://raw.githubusercontent.com/princechouhan19/OpenCometAI/b1c6a9a226198c2cacab14e6746f384cb10b7575/src/background/actions.js (retrieved 2026-10-18T16:18:52Z; SHA-256 3abffee67cebd05c5cd15d605bf0281947f9ca84abcb1ada3a13ffa254dfc770)
+- https://raw.githubusercontent.com/princechouhan19/OpenCometAI/b1c6a9a226198c2cacab14e6746f384cb10b7575/src/lib/privacy-firewall.js (retrieved 2026-10-18T16:18:52Z; SHA-256 a420b4e40a058e518e004a12feafa71a649621acb7e7812df81b2d9c5b2769e9)
+- https://raw.githubusercontent.com/princechouhan19/OpenCometAI/b1c6a9a226198c2cacab14e6746f384cb10b7575/manifest.json (retrieved 2026-10-18T16:18:52Z; SHA-256 9a90cf2acfbfc449cf42ca0a0e115c1ffee3b0efe31c262c5b0cfea8400f0d26)
+- https://raw.githubusercontent.com/princechouhan19/OpenCometAI/b1c6a9a226198c2cacab14e6746f384cb10b7575/LICENSE (retrieved 2026-10-18T16:18:52Z; SHA-256 9807e7c52637413d31b339b21e7659ea044235dc88fc37664073fa495fa73e7b)
+- https://raw.githubusercontent.com/princechouhan19/OpenCometAI/HEAD/LICENSE (retrieved 2026-10-18T16:19:40Z; SHA-256 9807e7c52637413d31b339b21e7659ea044235dc88fc37664073fa495fa73e7b)
+
+---
+
 ## OpenComputer
 
 OpenComputer is a local-first cross-platform computer-use agent for Linux, Windows, and macOS powered by local vision-language models.
@@ -7612,6 +9046,87 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/andykr1k/OpenComputer/HEAD/README.md (retrieved 2026-11-04T14:41:52Z; SHA-256 87f42ec3c683f15da77f92e207b898850b718a7c6f37dc273b106c4cc10728ee)
 - https://raw.githubusercontent.com/andykr1k/OpenComputer/HEAD/LICENSE (retrieved 2026-11-04T14:45:36Z; SHA-256 cdd6aa369e98f0412c5b3f60e57886a83db0ebef21244401463ed0f1dcc1b538)
+
+---
+
+## OpenMausBot
+
+Desktop chat app whose bots run local Claude, Codex or Grok CLIs and each get a computer: a cloud Linux desktop, local VM, VPS or the host through Cua Driver, plus a built-in browser and approval cards.
+
+- Catalog URL: https://awesomecua.com/resources/github-milind-soni-openmausbot/
+- Original source: https://github.com/milind-soni/OpenMausBot
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, linux, web
+- Topics: sandbox, human-in-the-loop, tool-integration
+- Evidence checked: 2026-10-18T11:40:28Z
+- ID: github:milind-soni/openmausbot
+
+### Limitations
+
+OpenMausBot ships no model: an Electron shell talks to a local harness server that runs the claude, codex and grok CLIs or other ACP engines and normalises their events. Host control uses the bundled Cua Driver and needs explicit opt-in; the README marks it supported on macOS, beta on Ubuntu Xorg and disabled on Wayland. Cloud computers come from the third-party Boat service and connected apps from Composio. The README says the project was formerly OpenGrokBot. Everything outside enterprise/ is Apache-2.0; enterprise/ is source-available under its own license. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-milind-soni-openmausbot/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/README.md (retrieved 2026-10-18T11:40:28Z; SHA-256 506bc30fecdebe7a024e7f694304c3dfecfce9c362a1b01ee9751a71faad888f)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/docs/computer-use-integration.md (retrieved 2026-10-18T11:40:04Z; SHA-256 06789e95d4eca5cd14bdfe9be11bf4c1911c08b21890777d6b33b87912e801bc)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/apps/docs/content/docs/computers/index.mdx (retrieved 2026-10-18T11:40:05Z; SHA-256 16765486dc0d3ab46f7c3d740cf1f1c64ed6c146923caba72a45f61ae49cc05a)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/third_party/cua-driver/README.md (retrieved 2026-10-18T11:40:05Z; SHA-256 3462019dea5235431871a0c9c8f83352b9460d49c7694f8e45eb4177662934a8)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSE (retrieved 2026-10-18T11:40:05Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/62a7b7ac72e4f0adae1b373032592df7327d7b26/LICENSING.md (retrieved 2026-10-18T11:40:05Z; SHA-256 e2741dbfc0f289c53b7a6bdbbce4ddca82155c5263ebd478ae19156975cc77b2)
+- https://raw.githubusercontent.com/milind-soni/OpenMausBot/HEAD/LICENSE (retrieved 2026-10-18T11:40:33Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+## OpenPhone (Secondly)
+
+AI-native Android OS on LineageOS whose privileged assistant uses new framework services to read the screen and UI tree and tap, swipe and type across apps, with confirmations, watchers and an audit log.
+
+- Catalog URL: https://awesomecua.com/resources/github-secondly-com-openphone/
+- Original source: https://github.com/secondly-com/OpenPhone
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, human-in-the-loop, safety-security
+- Evidence checked: 2026-10-18T15:46:31Z
+- ID: github:secondly-com/openphone
+
+### Limitations
+
+Developer preview based on LineageOS 23.2 / Android 16, targeting the Pixel 9a first, with an emulator build path. The repository holds an overlay (the privileged OpenPhoneAssistant app and vendor configuration), patch stacks for LineageOS repositories and build scripts; it does not vendor the Android source. The frameworks_base patches add an agent manager service with task-scoped input action execution, a framework-mediated UI tree snapshot, opt-in screenshots captured by system_server, a pending-action confirmation flow and a tamper-evident audit log. overlay/vendor/openphone/config/openphone_model_tools.json lists 54 model-visible tools, including screen reading, tap, swipe, typing, app launch, messages, calendar, watchers and background jobs. Models are reached through a development model broker in services/. It is unrelated to the HKUDS OpenPhone mobile foundation-model paper (arXiv 2510.22009). Code was read, not built or run.
+
+- Record JSON: https://awesomecua.com/resources/github-secondly-com-openphone/record.json
+
+### License declarations
+
+- code: PolyForm-Noncommercial-1.0.0 — https://raw.githubusercontent.com/secondly-com/OpenPhone/b4b6e76fc353bac249a9877cdda9722e7b3f3db8/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: GitHub reports NOASSERTION. LICENSE is a custom mixed-license notice that places OpenPhone-owned materials under PolyForm Noncommercial 1.0.0 (text in docs/legal/LICENSE.noncommercial); this is source-available, not an open-source license, and it does not relicense the Android, LineageOS or GPL material the patches touch.
+  Sources: https://raw.githubusercontent.com/secondly-com/OpenPhone/b4b6e76fc353bac249a9877cdda9722e7b3f3db8/LICENSE, https://raw.githubusercontent.com/secondly-com/OpenPhone/b4b6e76fc353bac249a9877cdda9722e7b3f3db8/docs/legal/LICENSE.noncommercial
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/secondly-com/OpenPhone/HEAD/README.md (retrieved 2026-10-18T15:46:31Z; SHA-256 2f59d1bb27c2ab6041ca0e1f11526818fa7a7ab3e676dafbb646a7a61e17aacd)
+- https://raw.githubusercontent.com/secondly-com/OpenPhone/b4b6e76fc353bac249a9877cdda9722e7b3f3db8/patches/frameworks_base/0003-OpenPhone-add-task-scoped-input-action-execution.patch (retrieved 2026-10-18T15:46:11Z; SHA-256 2fb596e43ed7e8baa1ccc5fce1b32b1c237468e24cdb14350d898648cf21cf2c)
+- https://raw.githubusercontent.com/secondly-com/OpenPhone/b4b6e76fc353bac249a9877cdda9722e7b3f3db8/patches/frameworks_base/0017-OpenPhone-framework-mediated-UI-tree-snapshot.patch (retrieved 2026-10-18T15:46:11Z; SHA-256 632146c12f13198f0d3c77f4c256b206d31af96aa5aada84f098b0e3973815fa)
+- https://raw.githubusercontent.com/secondly-com/OpenPhone/b4b6e76fc353bac249a9877cdda9722e7b3f3db8/overlay/packages/apps/OpenPhoneAssistant/src/org/openphone/assistant/agent/FrameworkToolExecutor.java (retrieved 2026-10-18T15:46:11Z; SHA-256 830ae7eae39ce64719493b2c220ff0b220a9bc314e71c169224d64c980d3eb23)
+- https://raw.githubusercontent.com/secondly-com/OpenPhone/b4b6e76fc353bac249a9877cdda9722e7b3f3db8/overlay/vendor/openphone/config/openphone_model_tools.json (retrieved 2026-10-18T15:46:12Z; SHA-256 eee43e026576617b186c5e89803cee42646cb8b2bdcce142f7449602d3a86f10)
+- https://raw.githubusercontent.com/secondly-com/OpenPhone/b4b6e76fc353bac249a9877cdda9722e7b3f3db8/LICENSE (retrieved 2026-10-18T15:46:12Z; SHA-256 45ed2adbc9092ba471690f70e3d8191bcaa616d053cfd7a2f86e4ec0f094719d)
+- https://raw.githubusercontent.com/secondly-com/OpenPhone/b4b6e76fc353bac249a9877cdda9722e7b3f3db8/docs/legal/LICENSE.noncommercial (retrieved 2026-10-18T15:46:12Z; SHA-256 4723409558ffb850c2c43302dae8b5c3359bcb8d9596293e888414d494115717)
 
 ---
 
@@ -7683,6 +9198,45 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Opus
+
+Electron app for macOS whose OpenAI Agents SDK loop operates apps through AppleScript, Accessibility-element clicks, key presses, shell commands and URIs, guided by element lists and screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/github-jeffrey-zang-opus/
+- Original source: https://github.com/jeffrey-zang/opus
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: automation, tool-integration, screen-understanding
+- Evidence checked: 2026-10-20T08:11:19Z
+- ID: github:jeffrey-zang/opus
+
+### Limitations
+
+Not related to Anthropic's Claude Opus models. initAgents.ts defines an app-selection agent and an action agent, both configured with gpt-4.1-mini through the OpenAI Agents SDK, so an OpenAI API key is required. Each action step receives the target app's AppleScript dictionary, a list of clickable Accessibility elements (role, title, value, help and description) and, when captured, a screenshot (runAgents.ts). Swift helpers under app/swift read the Accessibility tree, click, send keys and move the app window to a separate virtual display so the agent can work in the background. The repository also contains the tryop.us landing site and a small server. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-jeffrey-zang-opus/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/jeffrey-zang/opus/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/jeffrey-zang/opus/HEAD/README.md (retrieved 2026-10-20T08:11:19Z; SHA-256 e7d20d6325d5f3cc599abe8db897d414ef171d3940ba88a4e0d5e438c705c3fb)
+- https://raw.githubusercontent.com/jeffrey-zang/opus/d3f4b7b3e54bab6cbb7bf4fa8b257f47500c6890/README.md (retrieved 2026-10-20T08:10:56Z; SHA-256 e7d20d6325d5f3cc599abe8db897d414ef171d3940ba88a4e0d5e438c705c3fb)
+- https://raw.githubusercontent.com/jeffrey-zang/opus/d3f4b7b3e54bab6cbb7bf4fa8b257f47500c6890/app/electron/ai/initAgents.ts (retrieved 2026-10-20T08:10:57Z; SHA-256 19e7a4c6cc7dfc55e5bb912110c92c033741aa019c1517916021a12dee0fe3ef)
+- https://raw.githubusercontent.com/jeffrey-zang/opus/d3f4b7b3e54bab6cbb7bf4fa8b257f47500c6890/app/electron/ai/runAgents.ts (retrieved 2026-10-20T08:10:57Z; SHA-256 707883082b60fd82d022dc7f63700f5a1bf578229554c8be571e1c693cda16f6)
+- https://raw.githubusercontent.com/jeffrey-zang/opus/d3f4b7b3e54bab6cbb7bf4fa8b257f47500c6890/app/swift/moveToOpusDisplay.swift (retrieved 2026-10-20T08:10:57Z; SHA-256 0c491fe60b5cd1b14983866698c1ea9e3049d94e05d2df449ebbb798e5ffcdbb)
+- https://raw.githubusercontent.com/jeffrey-zang/opus/d3f4b7b3e54bab6cbb7bf4fa8b257f47500c6890/LICENSE (retrieved 2026-10-20T08:10:57Z; SHA-256 8ea5c2587dca9af8c22500b816dbbae73c3bc214d690314261244d167463b4df)
+- https://raw.githubusercontent.com/jeffrey-zang/opus/HEAD/LICENSE (retrieved 2026-10-20T08:11:21Z; SHA-256 8ea5c2587dca9af8c22500b816dbbae73c3bc214d690314261244d167463b4df)
+
+---
+
 ## ORBIT Local AI Agent
 
 Local-first Python voice and desktop automation agent powered by Whisper STT and Ollama/Qwen models.
@@ -7717,6 +9271,45 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Orca
+
+DeepSeek-native terminal coding agent in Rust whose bundled macOS computer-use driver lets it observe other apps' accessibility trees and screenshots and click, type, send keys and scroll after per-app approval.
+
+- Catalog URL: https://awesomecua.com/resources/github-echovic-orca-agent/
+- Original source: https://github.com/echoVic/orca-agent
+- Kind: agent
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, macos
+- Topics: tool-integration, safety-security
+- Evidence checked: 2026-10-20T08:18:08Z
+- ID: github:echovic/orca-agent
+
+### Limitations
+
+Published by echoVic as the npm package @blade-ai/orca and native binaries for macOS, Linux and Windows; it is primarily a coding agent that reads and edits code and runs commands with a DeepSeek API key. Computer use is one feature: on macOS 14 or later, in the main interactive TUI session, a `computer` tool backed by the bundled crates/orca-computer-use driver lists and launches apps, observes a window as an accessibility-element outline with ids plus an optional screenshot, and clicks, types, sends keys and scrolls on targets (protocol.rs, observation.rs). Per the computer-use docs, each app needs approval unless a rule or full-auto mode allows it, typing into secure password fields always asks separately, password managers and finance apps are blocked by default, Orca never operates its own host terminal, plan mode only lists and observes, and Esc stops the run. Browser tools when used from the separate Pilion Browser come from that host, not from this repository. Root LICENSE is MIT; not a fork, not archived; the latest GitHub release is v0.5.12. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-echovic-orca-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/README.md (retrieved 2026-10-20T08:18:08Z; SHA-256 64e8367a7bda385173791eceaa010d0671b716f635dbe3cabd467a193f266d0b)
+- https://api.github.com/repos/echoVic/orca-agent/git/trees/a016619a31739c938627b611ea7b1bc54572e658?recursive=1 (retrieved 2026-10-20T08:17:29Z; SHA-256 fa30755f1d89e38a6ecbb1f2d59cee1d54d0a626bcf23f3066927f8464ea7ba9)
+- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/LICENSE (retrieved 2026-10-20T08:17:33Z; SHA-256 ca3956b24fe4d01f280e49f616774a467372007a090ebe9f56b1df7dbfb1de86)
+- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/site/src/docs/md/en/computer-use.mdx (retrieved 2026-10-20T08:17:33Z; SHA-256 90378918b4a056b3fbc4d67141e1c158b268203d1b35208ce4dcdcf109e0dbdb)
+- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/crates/orca-computer-use/src/protocol.rs (retrieved 2026-10-20T08:17:34Z; SHA-256 89778d5b83be50682142b7db9709d3368174717e79fc448a4a9945cac2e48477)
+- https://raw.githubusercontent.com/echoVic/orca-agent/a016619a31739c938627b611ea7b1bc54572e658/crates/orca-computer-use/src/observation.rs (retrieved 2026-10-20T08:17:34Z; SHA-256 fc3df4cb6b4528cf6fe77a4323999734cecd093e7023ebcb930e32ee5f085f0f)
+- https://raw.githubusercontent.com/echoVic/orca-agent/HEAD/LICENSE (retrieved 2026-10-20T08:18:12Z; SHA-256 ca3956b24fe4d01f280e49f616774a467372007a090ebe9f56b1df7dbfb1de86)
+
+---
+
 ## Orynn
 
 Orynn is a Windows desktop agent that controls native applications by UI Automation control names without screenshot loops.
@@ -7747,6 +9340,48 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/robomohit/Orynn/HEAD/README.md (retrieved 2026-11-04T16:10:28Z; SHA-256 67fee67c215ad94d96569196f57b64266a21565709a5004215d19e8cb9036784)
+
+---
+
+## OS AI Computer Use
+
+Local desktop agent that sends plain screenshots to OpenAI's or Anthropic's computer-use tool and performs the returned clicks, drags, scrolls and keystrokes through PyAutoGUI-based drivers on macOS, Windows and Linux.
+
+- Catalog URL: https://awesomecua.com/resources/github-777genius-os-ai-computer-use/
+- Original source: https://github.com/777genius/os-ai-computer-use
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, windows, linux
+- Topics: automation, cross-app
+- Evidence checked: 2026-10-18T15:38:22Z
+- ID: github:777genius/os-ai-computer-use
+
+### Limitations
+
+Provider adapters call the OpenAI Responses API with its computer tool (batched actions) or Anthropic's computer-use tool (single actions with zoom); packages/core/src/os_ai_core/tools/computer.py captures the screen and executes actions through per-OS driver ports. macOS uses PyAutoGUI with a Quartz event path for Enter and an AppKit overlay; Windows and Linux (X11 or XWayland) use PyAutoGUI. A Flutter client (macOS, Windows, Linux, web) talks to a local backend; the CLI runs tasks directly. The README headline of 75.0% on OSWorld is a model-provider figure, not a measurement of this repository, and was not reproduced. The repository was formerly iliyaZelenko/os-ai-computer-use (same GitHub repository ID). Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-777genius-os-ai-computer-use/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/777genius/os-ai-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/777genius/os-ai-computer-use/HEAD/README.md (retrieved 2026-10-18T15:38:22Z; SHA-256 c2536b1182e7ee2e0e25a6676457a599be9d16e7ccdab47e08f7780dab56f6fe)
+- https://raw.githubusercontent.com/777genius/os-ai-computer-use/0356f418d61d7cace737eaa48f3d3a014e4ea249/packages/core/src/os_ai_core/tools/computer.py (retrieved 2026-10-18T15:37:56Z; SHA-256 6da904ac0b6c1fe6b1b51d4bd87fc73f8d2a61516f38b1d908672a7c5581f267)
+- https://raw.githubusercontent.com/777genius/os-ai-computer-use/0356f418d61d7cace737eaa48f3d3a014e4ea249/packages/llm_openai/src/os_ai_llm_openai/adapters_openai.py (retrieved 2026-10-18T15:37:56Z; SHA-256 cc18ce96fa9d01148d93e6efd99b3f24011f37a93e8ff3f8265494d874946630)
+- https://raw.githubusercontent.com/777genius/os-ai-computer-use/0356f418d61d7cace737eaa48f3d3a014e4ea249/packages/llm_anthropic/src/os_ai_llm_anthropic/adapters_anthropic.py (retrieved 2026-10-18T15:37:57Z; SHA-256 5979aafe65529b9abdc1f2a61b6f5c8f4d5ad0cacadca28d3823cf9070a9ee6b)
+- https://raw.githubusercontent.com/777genius/os-ai-computer-use/0356f418d61d7cace737eaa48f3d3a014e4ea249/packages/os/src/os_ai_os/defaults.py (retrieved 2026-10-18T15:37:57Z; SHA-256 645c009659bc53740cf1c7e4076c161b8dd8956d2abf5b43678880a53d0433a0)
+- https://raw.githubusercontent.com/777genius/os-ai-computer-use/0356f418d61d7cace737eaa48f3d3a014e4ea249/packages/os-macos/src/os_ai_os_macos/drivers.py (retrieved 2026-10-18T15:37:58Z; SHA-256 6573d50e6d79153bb7c944d9ba87a74e6e0dcf8dc16c04d4e39366b365a119e7)
+- https://raw.githubusercontent.com/777genius/os-ai-computer-use/0356f418d61d7cace737eaa48f3d3a014e4ea249/LICENSE (retrieved 2026-10-18T15:37:58Z; SHA-256 4297658ee10a19e840fe1c2411541d4c1654df6e47767a82af2a1b209fcac749)
+- https://raw.githubusercontent.com/777genius/os-ai-computer-use/HEAD/LICENSE (retrieved 2026-10-18T15:38:32Z; SHA-256 4297658ee10a19e840fe1c2411541d4c1654df6e47767a82af2a1b209fcac749)
+- https://api.github.com/repos/iliyaZelenko/os-ai-computer-use (retrieved 2026-10-18T15:37:45Z; SHA-256 95b963db22daa46036d65c4bda413c3f1e839660d4f93d09049dc2882ba7e653)
+- https://api.github.com/repos/777genius/os-ai-computer-use (retrieved 2026-10-18T15:37:46Z; SHA-256 95b963db22daa46036d65c4bda413c3f1e839660d4f93d09049dc2882ba7e653)
 
 ---
 
@@ -8058,6 +9693,45 @@ Scoped to PC-Agent in the MobileAgent monorepo and distinct from GAIR-NLP/PC-Age
 
 ---
 
+## pebkac
+
+Self-hosted web co-browser in which a smolagents code agent on a local llama.cpp model writes Python that drives Chrome through Zendriver: navigation, CSS-selector clicks and typing, Trafilatura text extraction and tabs.
+
+- Catalog URL: https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/
+- Original source: https://github.com/michaelsoftmd/pebkac-chrome
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, memory, efficiency
+- Evidence checked: 2026-10-18T16:09:40Z
+- ID: github:michaelsoftmd/pebkac-chrome
+
+### Limitations
+
+Containerized stack (Podman or Docker Compose): a FastAPI service wraps a Zendriver-controlled Chrome, and a SafeCodeAgent subclass of the smolagents CodeAgent calls it through tools for navigation, CSS-selector clicks, typing, key presses, Trafilatura content extraction, DuckDuckGo search, background tabs, API-response capture and a Cloudflare challenge handler, within a configurable step limit (default 10). The model reads page text and selectors; the screenshot tool only saves files, and the README lists vision assist as under consideration. Redis and DuckDB cache extracted content, per-site working selectors persist, and runs are logged to SQLite. The user watches and shares the browser over noVNC from a localhost control panel. The README markets anti-bot evasion and says the project is on hold. Root LICENSE is AGPL-3.0. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/record.json
+
+### License declarations
+
+- code: AGPL-3.0 — https://raw.githubusercontent.com/michaelsoftmd/pebkac-chrome/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/michaelsoftmd/pebkac-chrome/HEAD/README.md (retrieved 2026-10-18T16:09:40Z; SHA-256 ca84c62eefe55c42b2c46d7f4c3fb1f62211c9d1ac96dc68e7a78e1cd6a7cc1e)
+- https://raw.githubusercontent.com/michaelsoftmd/pebkac-chrome/fd86e97157b8b784dc26c55f1a599c4e40db9e18/zendriver-docker/app/services/agent_manager.py (retrieved 2026-10-18T16:09:15Z; SHA-256 ca84f46247a0f0e3984ef2d105ad07df04c1704564a5f8d4dbdf82d12f2e686f)
+- https://raw.githubusercontent.com/michaelsoftmd/pebkac-chrome/fd86e97157b8b784dc26c55f1a599c4e40db9e18/zendriver-docker/app/services/safe_code_agent.py (retrieved 2026-10-18T16:09:16Z; SHA-256 cdae1f7baee973deacf114ea4f33fd9e705bbeb96b761a0e2fd8637c2af19315)
+- https://raw.githubusercontent.com/michaelsoftmd/pebkac-chrome/fd86e97157b8b784dc26c55f1a599c4e40db9e18/zendriver-docker/app/tools/browser_tools.py (retrieved 2026-10-18T16:09:16Z; SHA-256 f370372913265d49e7a26be2b19bb348dedd02b4f6785b119377fe69e5ad72ba)
+- https://raw.githubusercontent.com/michaelsoftmd/pebkac-chrome/fd86e97157b8b784dc26c55f1a599c4e40db9e18/zendriver-docker/app/tools/extraction_tools.py (retrieved 2026-10-18T16:09:16Z; SHA-256 7918678557279caab2ba6280332b9c097255cf3b4a6a3aed1dbc1e3fd3c5e464)
+- https://raw.githubusercontent.com/michaelsoftmd/pebkac-chrome/fd86e97157b8b784dc26c55f1a599c4e40db9e18/zendriver-docker/app/tools/utility_tools.py (retrieved 2026-10-18T16:09:16Z; SHA-256 6a44b755223c468230bae5db13102ff77b449ca12e383885f1e1243ab658e34c)
+- https://raw.githubusercontent.com/michaelsoftmd/pebkac-chrome/HEAD/LICENSE (retrieved 2026-10-18T16:09:51Z; SHA-256 4c07b14947925c5c3d125ca8d7f1fadbf604a6df626edbb0b78cefa26b9bb8f6)
+
+---
+
 ## Pegoles Agent
 
 Pegoles Agent runs a macOS computer-use controller against an isolated Linux virtual machine with deterministic pre-execution policy checks.
@@ -8329,6 +10003,43 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## PokeClaw
+
+Android app that runs a phone-control agent on the device, reading the UI tree through an Accessibility service and tapping, swiping and typing with on-device Gemma 4 or an optional cloud model.
+
+- Catalog URL: https://awesomecua.com/resources/github-agents-io-pokeclaw/
+- Original source: https://github.com/agents-io/PokeClaw
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, automation
+- Evidence checked: 2026-10-18T11:54:35Z
+- ID: github:agents-io/pokeclaw
+
+### Limitations
+
+Also called PocketClaw. The task loop runs inside the installed APK rather than on a host over ADB. Local mode runs Gemma 4 through LiteRT-LM after a model download of about 2.6 GB; Cloud mode calls a hosted model. The tool registry also has notification, clipboard, call, file and knowledge-base tools, plus a separate D-pad tool set for Android TV devices. The README's pass rates (for example 18 of 20 cloud tasks on a Pixel 8 Pro) are the author's own trials and were not reproduced. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-agents-io-pokeclaw/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/agents-io/PokeClaw/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/agents-io/PokeClaw/HEAD/README.md (retrieved 2026-10-18T11:54:35Z; SHA-256 2aa506fd4870c06d311d6c1f4f00eaa5367705ee903491e034b5cdd2842408fc)
+- https://raw.githubusercontent.com/agents-io/PokeClaw/936eca3ef7881e37908b5f183bf948ccaf1615e4/app/src/main/java/io/agents/pokeclaw/tool/ToolRegistry.kt (retrieved 2026-10-18T11:54:10Z; SHA-256 d38651fb47b4a9b8b83200b60ee8160d13728477b48a04a4881b31b74ddf501c)
+- https://raw.githubusercontent.com/agents-io/PokeClaw/936eca3ef7881e37908b5f183bf948ccaf1615e4/app/src/main/java/io/agents/pokeclaw/service/ClawAccessibilityService.java (retrieved 2026-10-18T11:54:11Z; SHA-256 3c7d43e9fa6ed01b04ebf90fc25ddb2191a4db9f5501e52dd020bf00b8ec6b1d)
+- https://raw.githubusercontent.com/agents-io/PokeClaw/936eca3ef7881e37908b5f183bf948ccaf1615e4/LICENSE (retrieved 2026-10-18T11:54:11Z; SHA-256 4387763272c00e188bf8a111b9f99babfa7bf877ed56e774ed6a02a4856512ac)
+- https://raw.githubusercontent.com/agents-io/PokeClaw/HEAD/LICENSE (retrieved 2026-10-18T11:54:51Z; SHA-256 4387763272c00e188bf8a111b9f99babfa7bf877ed56e774ed6a02a4856512ac)
+
+---
+
 ## Portal Operator
 
 Autonomous browser agent designed to operate legacy insurance carrier web portals end-to-end in a real browser.
@@ -8430,6 +10141,49 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Proxy Lite
+
+Convergence AI's open-weights web agent runner: a Playwright Chromium loop that sends annotated screenshots and numbered element lists to proxy-lite-3b and executes its click, type, scroll and navigation tool calls.
+
+- Catalog URL: https://awesomecua.com/resources/github-convergence-ai-proxy-lite/
+- Original source: https://github.com/convergence-ai/proxy-lite
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation
+- Evidence checked: 2026-10-19T06:47:28Z
+- ID: github:convergence-ai/proxy-lite
+
+### Limitations
+
+The repository is the scaffold for Convergence AI's proxy-lite-3b model: a CLI (proxy), a Streamlit app and a Runner that loops a solver and a webbrowser environment. By default it calls a demo endpoint on Hugging Face Spaces, which the README says is not suitable for production; it recommends serving convergence-ai/proxy-lite-3b with vLLM and the hermes tool-call parser. The webbrowser environment (src/proxy_lite/environments/webbrowser.py) launches Chromium through Playwright with playwright_stealth, injects JavaScript to find interactable elements, and by default sends a screenshot annotated with numbered bounding boxes plus a text list of the marked elements; earlier screenshots are dropped from the context. BrowserTool exposes goto, google_search, click, type, scroll, back, wait, reload and do_nothing actions addressed by mark_id. The README says the model is meant to complete tasks autonomously and may struggle with logins or user-confirmed steps. Model weights are not in this repository. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-convergence-ai-proxy-lite/record.json
+
+### License declarations
+
+- code: CC-BY-NC-4.0 — https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The repository LICENSE file states that the work is licensed under CC BY-NC 4.0 (a notice, not the legal code); recorded for code only; it is not applied to the proxy-lite-3b weights or the hosted Proxy service.
+  Sources: https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/LICENSE
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/README.md (retrieved 2026-10-19T06:47:28Z; SHA-256 1ac1036e2ed944d36ed8aa9d1294bb359b85091f276114118aa3c5b77f7f7593)
+- https://api.github.com/repos/convergence-ai/proxy-lite/git/trees/a4389c599d5f5f77dc18510c879e2e783434766b?recursive=1 (retrieved 2026-10-19T06:47:29Z; SHA-256 07b4e718c079d9fa161f810ffe0644b30403a73bf315daddd5bd38b0018f7dcc)
+- https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/src/proxy_lite/environments/webbrowser.py (retrieved 2026-10-19T06:47:29Z; SHA-256 9ebe6fd41fe0c62816547a35dd9a0b64ed96c4476b5e2e1a55d52aeb8bee0583)
+- https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/src/proxy_lite/browser/browser.py (retrieved 2026-10-19T06:47:29Z; SHA-256 369df6ed8e0cd2ed33031af48ff475e722ebded7c63fd69703738c1863fe2eda)
+- https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/src/proxy_lite/tools/browser_tool.py (retrieved 2026-10-19T06:47:30Z; SHA-256 56d51de9e960738bcaf6211c30d2de9096643e3749d4cb3319387abee62e0a90)
+- https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/src/proxy_lite/agents/proxy_lite_agent.py (retrieved 2026-10-19T06:47:30Z; SHA-256 e19427b2b64c1c0b26e163c8532df43846153a0aa4e21ef2aef733c345015807)
+- https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/pyproject.toml (retrieved 2026-10-19T06:47:30Z; SHA-256 5ee90766c962e95294ae81faf1b758486befe9cfe62548d1cb55d7d1e8373903)
+- https://raw.githubusercontent.com/convergence-ai/proxy-lite/a4389c599d5f5f77dc18510c879e2e783434766b/LICENSE (retrieved 2026-10-19T06:47:30Z; SHA-256 58861e2641c884b02cc0f8b589fbbb17657df93ed0da92534c1cec8b543be4c4)
+
+---
+
 ## QAgent
 
 QAgent is a local-first web QA and repair agent with an Electron desktop UI, CLI, MCP server, and isolated Git worktree execution.
@@ -8495,6 +10249,45 @@ The Web UI and daemon are marked experimental. The daemon listens on loopback wi
 
 - https://raw.githubusercontent.com/QwenLM/qwen-code/3b39fc2a19bc2063df400e140d0bcdd7505e6152/README.md (retrieved 2026-11-06T16:36:39Z; SHA-256 7c35dd6657f02f3260e507445a0b4b4eb7b580e153e185f7daa5dd85c8e6a16b)
 - https://raw.githubusercontent.com/QwenLM/qwen-code/HEAD/LICENSE (retrieved 2026-11-06T10:58:04Z; SHA-256 55367b61ccd2a016a0159ad886bd66a3ee6cb5e873d0c75c803c897dd245b075)
+
+---
+
+## qz-browser-agent
+
+Chrome extension agent that reads page DOM and accessibility trees, acts on indexed elements or screenshot coordinates across tabs, and accepts delegated tasks through a bundled CLI and MCP bridge.
+
+- Catalog URL: https://awesomecua.com/resources/github-alibaba-qz-browser-agent/
+- Original source: https://github.com/alibaba/qz-browser-agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, automation, tool-integration
+- Evidence checked: 2026-10-18T16:02:16Z
+- ID: github:alibaba/qz-browser-agent
+
+### Limitations
+
+Published under the alibaba GitHub organization as a Manifest V3 Chrome extension (Chrome Web Store, and a v0.1.2 extension ZIP as the latest GitHub release at review time). Page tools read the DOM (read_dom, find_elements) and act on indexed element targets (act_on_element); get_ax_tree takes a compact accessibility-tree snapshot through the Chrome debugger; the screenshot tool captures the tab through Chrome DevTools Protocol with a captureVisibleTab fallback, and act_on_screen clicks, drags, scrolls or types at screenshot coordinates. services/mcp-bridge is the npm package qz-browser-agent, a local CLI and MCP service that passes tasks to the paired extension. Models come from providers the user configures; none is bundled. docs/benchmarks.md measures side-panel rendering, not task success. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-alibaba-qz-browser-agent/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/alibaba/qz-browser-agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/alibaba/qz-browser-agent/HEAD/README.md (retrieved 2026-10-18T16:02:16Z; SHA-256 241b2fb92489b1a51f47c6fe981193f41875c90cc41bd7ff952c965c13d80f58)
+- https://raw.githubusercontent.com/alibaba/qz-browser-agent/d95c96b6370cc7936d2d8fdd82fbf58f7a11c466/src/capabilities/page/tools.ts (retrieved 2026-10-18T16:01:37Z; SHA-256 0bd08320ed7ca7c052c02d6b43c5de869e4dacee9a2edf5d49d1892118613de7)
+- https://raw.githubusercontent.com/alibaba/qz-browser-agent/d95c96b6370cc7936d2d8fdd82fbf58f7a11c466/src/capabilities/accessibility/tools.ts (retrieved 2026-10-18T16:01:37Z; SHA-256 0468956371539aeb37bc6a2410df68ef1326d1d8d09b6da410fff8e3dcba36fb)
+- https://raw.githubusercontent.com/alibaba/qz-browser-agent/d95c96b6370cc7936d2d8fdd82fbf58f7a11c466/src/capabilities/media/tools.ts (retrieved 2026-10-18T16:01:38Z; SHA-256 0a6ddeabc83ee849e33ca7adf55587f9ad1e697e345fe890919f4ebe6bc98fc2)
+- https://raw.githubusercontent.com/alibaba/qz-browser-agent/d95c96b6370cc7936d2d8fdd82fbf58f7a11c466/services/mcp-bridge/README.md (retrieved 2026-10-18T16:01:38Z; SHA-256 f86e8c793187c2b8ac1122846f9277cba984c0897455c2ff3c05ffa478754032)
+- https://raw.githubusercontent.com/alibaba/qz-browser-agent/d95c96b6370cc7936d2d8fdd82fbf58f7a11c466/LICENSE (retrieved 2026-10-18T16:01:38Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+- https://raw.githubusercontent.com/alibaba/qz-browser-agent/HEAD/LICENSE (retrieved 2026-10-18T16:02:27Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
 
 ---
 
@@ -8707,6 +10500,48 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Roubao
+
+On-device Android phone agent in Kotlin that captures screenshots and taps, swipes and types through Shizuku without a PC, running a planner, executor and reflector loop on any OpenAI-compatible VLM, GUI-Owl or MAI-UI.
+
+- Catalog URL: https://awesomecua.com/resources/github-turbo1123-roubao/
+- Original source: https://github.com/Turbo1123/roubao
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, automation, planning, self-reflection
+- Evidence checked: 2026-10-20T07:57:16Z
+- ID: github:turbo1123/roubao
+
+### Limitations
+
+Kotlin Android app (minimum SDK 26) published by Turbo1123. Shizuku gives it ADB-level shell access without root, which DeviceController.kt uses for screencap, input tap/swipe/text and am start; the agent's floating overlay is hidden while each plain screenshot is taken. In the default mode MobileAgent.kt runs Manager (plan), Executor (one of click, double_tap, long_press, type, swipe, system_button, open_app, wait, take_over or answer, with pixel coordinates), ActionReflector (compares the before and after screenshots) and an optional Notetaker over an OpenAI-compatible VLM API, for at most 25 steps by default; the README calls this layer a Kotlin port of Mobile-Agent-v3. Two other modes call GUI-Owl through Alibaba Cloud DashScope's GUI agent endpoint (default model pre-gui_owl_7b), which returns actions directly, or an OpenAI-compatible MAI-UI server (default localhost:8000, MAI-UI-2B) with MAI-UI's prompt format and up to three history screenshots. A Skills layer (app/src/main/assets/skills.json) can instead hand a request to another app through a deep link, and Tools cover app search, deep links, clipboard, shell and HTTP. When screencap is blocked on a secure screen the agent asks the user before continuing; the Manager prompt stops the run when a screen actively asks for payment confirmation, a password or biometric verification, and the Executor can hand logins and captchas to the user (take_over) or ask for confirmation of payment actions. The README says a 2.0 version based on AccessibilityService is developed on a separate branch; this record describes main. Root LICENSE is MIT; not a fork, not archived; latest release V1.4.2. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-turbo1123-roubao/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Turbo1123/roubao/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Turbo1123/roubao/HEAD/README.md (retrieved 2026-10-20T07:57:16Z; SHA-256 261913e9940568c5bf0410b8c7ae3577bf7524320eb7dde000c9d58a01cee624)
+- https://api.github.com/repos/Turbo1123/roubao/git/trees/c8a6d7f03422eb01744b01f3ee77bf7757741f7e?recursive=1 (retrieved 2026-10-20T07:56:09Z; SHA-256 d3d68cf0a39dc11e27c4cc140f203a24de8fc4a216b1b16db568b8fce7563e8f)
+- https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/LICENSE (retrieved 2026-10-20T07:56:12Z; SHA-256 aabaf29fcf492a29bc5ac5c7d014596a7b11bd2d4cc2272880db8c5627e11818)
+- https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/agent/MobileAgent.kt (retrieved 2026-10-20T07:56:13Z; SHA-256 562c7295c605f7e4758c920600f9fbfdf8abfa512102d53501566ce7a9927fbe)
+- https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/agent/Manager.kt (retrieved 2026-10-20T07:56:56Z; SHA-256 9498818798128144f48a3b31d672932d6fe61eef227ac6d177a4de00c984ac93)
+- https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/agent/Executor.kt (retrieved 2026-10-20T07:56:15Z; SHA-256 d8f80ba345b9f3ea27355b24a7d4c30a25dc827fa1040ed03c554d2274a2b8da)
+- https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/controller/DeviceController.kt (retrieved 2026-10-20T07:56:14Z; SHA-256 f03f82fa472653d1e06b290cd8a83218f7d54a996be53fdd9f4d8fe7c187a4cb)
+- https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/vlm/GUIOwlClient.kt (retrieved 2026-10-20T07:56:14Z; SHA-256 69a77101ff939d49def1af6d7bd5a8511eb60bec4ab72ac1cabbd878731726df)
+- https://raw.githubusercontent.com/Turbo1123/roubao/c8a6d7f03422eb01744b01f3ee77bf7757741f7e/app/src/main/java/com/roubao/autopilot/vlm/MAIUIClient.kt (retrieved 2026-10-20T07:56:14Z; SHA-256 332089c55843bd7e02e6a5e1075b881834cb43c556ccecf15586b76191197cd6)
+- https://raw.githubusercontent.com/Turbo1123/roubao/HEAD/LICENSE (retrieved 2026-10-20T07:57:19Z; SHA-256 aabaf29fcf492a29bc5ac5c7d014596a7b11bd2d4cc2272880db8c5627e11818)
+
+---
+
 ## Ruyi (如意)
 
 Ruyi streams remote Chrome sessions to the user's browser for collaborative human-AI control and compiles actions into self-healing scripts.
@@ -8772,6 +10607,42 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/Matthew-Eucaristo/s1/HEAD/README.md (retrieved 2026-11-04T14:41:50Z; SHA-256 daa7c765a969c65abe08e38e5f557cbe512e049b591d4293637c1df8daf50f9a)
 - https://raw.githubusercontent.com/Matthew-Eucaristo/s1/HEAD/LICENSE (retrieved 2026-11-04T14:45:32Z; SHA-256 fa28831ad1aea601e86122a35092b435e9ee7abb71246c88fd206fcda1de05ac)
+
+---
+
+## Scout
+
+TypeScript browser agent that drives any Chromium over CDP in a look-act-check loop, with separate user-chosen hands, brain, eyes and extract models and optional JSON Schema answers.
+
+- Catalog URL: https://awesomecua.com/resources/github-outcrawlai-scout/
+- Original source: https://github.com/outcrawlai/scout
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning
+- Evidence checked: 2026-10-19T06:16:13Z
+- ID: github:outcrawlai/scout
+
+### Limitations
+
+Published by Outcrawl; the GitHub description calls the repository an automatic mirror of Outcrawl's production repository. Packages: scout (entry point), runtime (agent loop), model (prompts and provider-neutral clients), scout-core, scout-cdp (DevTools-protocol driver) and agenthands (local pointer and keyboard planning). It runs against a local browser, any CDP endpoint or Outcrawl's hosted browser, which needs an Outcrawl key and adds residential connections, captcha solving and replays. The README's 92.5% page reach on Browser Use's 80-site benchmark is publisher-reported and was not reproduced. Root code is Apache-2.0; packages/agenthands keeps its own MIT license. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-outcrawlai-scout/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/outcrawlai/scout/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/outcrawlai/scout/HEAD/README.md (retrieved 2026-10-19T06:16:13Z; SHA-256 11cc1b3f60502973ba833fbcc83e5159c6751ba3b94a1cdd5496008d4cf398fe)
+- https://raw.githubusercontent.com/outcrawlai/scout/5536410912d23975ad92405de3f37ad36c8bdafc/packages/scout/package.json (retrieved 2026-10-19T06:16:13Z; SHA-256 5c700791379c0c8cf01ceaf6da226a13b96ad40decdad0cb0b4222f100b851ff)
+- https://raw.githubusercontent.com/outcrawlai/scout/5536410912d23975ad92405de3f37ad36c8bdafc/LICENSE (retrieved 2026-10-19T06:16:13Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+- https://raw.githubusercontent.com/outcrawlai/scout/HEAD/LICENSE (retrieved 2026-10-19T06:16:14Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
 
 ---
 
@@ -9384,6 +11255,47 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Surfer-H-CLI
+
+Deprecated runner for H Company's Surfer-H web agent: a policy model reads recent Chrome screenshots, a Holo localizer returns click coordinates, Selenium acts, and an optional validator checks the answer.
+
+- Catalog URL: https://awesomecua.com/resources/github-hcompai-surfer-h-cli/
+- Original source: https://github.com/hcompai/surfer-h-cli
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, grounding, screen-understanding
+- Evidence checked: 2026-10-18T12:33:37Z
+- ID: github:hcompai/surfer-h-cli
+
+### Limitations
+
+Archived on GitHub, and the README marks it deprecated in favour of H Company's hosted Models API and Agent API and the hai-agents clients. The loop keeps the last three screenshots by default for the navigation step, which chooses click_element, write_element, scroll, go_back, refresh, wait, restart or answer; click and write targets are named elements that a localizer model (Holo1 or the structured Holo1.5 path) turns into viewport coordinates for Selenium ActionChains. Models are reached through OpenAI-compatible endpoints: H Company's hosted API, a local vLLM server, or a SageMaker deployment; one script uses GPT-4.1 as validator. A FastAPI agent_server.py and a Next.js frontend stream runs to a browser UI. Root LICENSE is the BSD 3-Clause text with an H Company copyright and does not cover the Holo weights. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-hcompai-surfer-h-cli/record.json
+
+### License declarations
+
+- code: BSD-3-Clause — https://raw.githubusercontent.com/hcompai/surfer-h-cli/b054d8ebc98c70736741290a63ee77e37edf5e3e/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: Root LICENSE reproduces the BSD 3-Clause terms under a 2025 H Company copyright; it covers the repository code, not Holo model weights or third-party services.
+  Sources: https://raw.githubusercontent.com/hcompai/surfer-h-cli/b054d8ebc98c70736741290a63ee77e37edf5e3e/LICENSE
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/hcompai/surfer-h-cli/HEAD/README.md (retrieved 2026-10-18T12:33:37Z; SHA-256 1f330f8304b99c38d4abd476b25506b42b153702e6a45f831fd7ee08462e117f)
+- https://api.github.com/repos/hcompai/surfer-h-cli/git/commits/b054d8ebc98c70736741290a63ee77e37edf5e3e (retrieved 2026-10-18T12:32:49Z; SHA-256 732adaffdf829b9a028d514ee03440e48f6349d7c32dfa129f3dd3711127d835)
+- https://raw.githubusercontent.com/hcompai/surfer-h-cli/b054d8ebc98c70736741290a63ee77e37edf5e3e/src/surfer_h_cli/surferh.py (retrieved 2026-10-18T12:32:50Z; SHA-256 e986d55278404e3e54e4dad81eee0c17928b9006f094bbc11720c5e3150741be)
+- https://raw.githubusercontent.com/hcompai/surfer-h-cli/b054d8ebc98c70736741290a63ee77e37edf5e3e/src/surfer_h_cli/simple_browser.py (retrieved 2026-10-18T12:32:50Z; SHA-256 2adb4e214cbd9c21f7a30cdc279eebe2f9d6888103408dfe74d85a950213d08c)
+- https://raw.githubusercontent.com/hcompai/surfer-h-cli/b054d8ebc98c70736741290a63ee77e37edf5e3e/src/surfer_h_cli/skills/localization.py (retrieved 2026-10-18T12:32:50Z; SHA-256 60619d897fa497a2732b43690aa6b65588dad52be895fb296c0b127ef4a9c059)
+- https://raw.githubusercontent.com/hcompai/surfer-h-cli/b054d8ebc98c70736741290a63ee77e37edf5e3e/LICENSE (retrieved 2026-10-18T12:32:50Z; SHA-256 176b3dc7bced16601e6b413fd3c58247dfdb072d910db41df453e38526a1f3ea)
+
+---
+
 ## Svate
 
 Svate is an on-device Android UI automation agent combining Accessibility trees, screenshots, pre-action safety checks, and recovery.
@@ -9656,6 +11568,43 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## TipTour
+
+macOS menu-bar agent that grounds clicks with a local Core ML control detector and accessibility tree, driven by TypeSafe's JEV text loop or Gemini realtime voice, with a localhost harness for other agents.
+
+- Catalog URL: https://awesomecua.com/resources/github-milind-soni-tiptour-macos/
+- Original source: https://github.com/milind-soni/tiptour-macos
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: grounding, screen-understanding, human-in-the-loop
+- Evidence checked: 2026-10-19T06:14:20Z
+- ID: github:milind-soni/tiptour-macos
+
+### Limitations
+
+JEV mode sends the typed task, locally detected labels and positions, and action history to TypeSafe's hosted jev-latest model (api.typesafe.ai); it performs only clicks and stops after 12 actions. Gemini mode receives microphone audio and, when enabled, screenshots. Video tours are built by the Elorian service and only point at controls. The localhost harness on 127.0.0.1:19474 exposes observe, ground-target and act endpoints. Requires macOS 14.2+ and an Xcode build; the repository has no releases. The MIT LICENSE also credits Farza's Clicky, the upstream fork source; bundled Neko sprites carry a BSD-2-Clause file. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-milind-soni-tiptour-macos/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/milind-soni/tiptour-macos/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/milind-soni/tiptour-macos/HEAD/README.md (retrieved 2026-10-19T06:14:20Z; SHA-256 6e2270a3363dc72464ba5470036a4ae281e246b5d2cac1d30b0fe8c184512d12)
+- https://raw.githubusercontent.com/milind-soni/tiptour-macos/c1d2731766ba21160b9b9f7d5178c3ad3bb5e055/docs/tiptour-agent-contract.md (retrieved 2026-10-18T11:57:48Z; SHA-256 b2e40abe98520eb948e07f7b3f01c5a1f33c50c988bcb447ce1708519299ba76)
+- https://raw.githubusercontent.com/milind-soni/tiptour-macos/c1d2731766ba21160b9b9f7d5178c3ad3bb5e055/TipTour/Jev/JevClient.swift (retrieved 2026-10-18T11:57:48Z; SHA-256 0739dc4d312a7d8e9d217c499a7ab3ee11e1b538f14edd6419f18508ecbcad08)
+- https://raw.githubusercontent.com/milind-soni/tiptour-macos/c1d2731766ba21160b9b9f7d5178c3ad3bb5e055/LICENSE (retrieved 2026-10-18T11:57:47Z; SHA-256 edcf5cfca262f2e2cf30a2e7564c11e147492d175b5c5ad2175cd350cf853ad6)
+- https://raw.githubusercontent.com/milind-soni/tiptour-macos/HEAD/LICENSE (retrieved 2026-10-19T06:14:21Z; SHA-256 edcf5cfca262f2e2cf30a2e7564c11e147492d175b5c5ad2175cd350cf853ad6)
+
+---
+
 ## Trishula-BrowserAgent
 
 Sovereign, doctrine-gated autonomous web browser agent built on CDP and Browser Use with SOCKS5 proxy isolation.
@@ -9753,6 +11702,47 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/eauchs/gui-agent/HEAD/README.md (retrieved 2026-11-04T14:20:05Z; SHA-256 5adb488ea9b08f3fe0fdaf4f84411b83fa42b98d613926696798a46518c23b5f)
+
+---
+
+## typesafe-computer-use
+
+Computer-use loop that reads the screen with OCR and accessibility labels, has the hosted TypeSafe classifier choose each next action with a confidence, and calls a writer model only for free text.
+
+- Catalog URL: https://awesomecua.com/resources/github-awlevin-typesafe-computer-use/
+- Original source: https://github.com/awlevin/typesafe-computer-use
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, windows, linux, web
+- Topics: efficiency, action-prediction, screen-understanding
+- Evidence checked: 2026-10-18T11:53:03Z
+- ID: github:awlevin/typesafe-computer-use
+
+### Limitations
+
+Also called jev. The main loop drives macOS through Vision OCR, the accessibility tree and synthetic input; the Windows adapter (UI Automation, SendInput, Windows OCR) is documented as experimental and untested on Windows. An opt-in browser backend reads the DOM over the Chrome DevTools Protocol, and the Linux sandbox runs only that backend. Linux desktop control is through the OSWorld JevAgent adapter inside OSWorld's Ubuntu VM. Every decision calls the hosted TypeSafe API, so a TypeSafe key is required; an Anthropic or OpenAI-compatible writer is optional. Per-step cost and latency comparisons and the OSWorld run logs are the author's and were not reproduced. The README marks the project beta. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-awlevin-typesafe-computer-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/awlevin/typesafe-computer-use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/awlevin/typesafe-computer-use/HEAD/README.md (retrieved 2026-10-18T11:53:03Z; SHA-256 f4944e284c939e52d336d4299ed8c6bf19dac7757f632c27d01279eeee21d718)
+- https://raw.githubusercontent.com/awlevin/typesafe-computer-use/44ca11f0935b021b73020825da054b5c92cc1288/typesafe_computer_use/decide.py (retrieved 2026-10-18T11:52:40Z; SHA-256 82aaf2f6633f15b257ae2e1ea9ca91d8888de198a64d8d9ef21fcbe7ba962f00)
+- https://raw.githubusercontent.com/awlevin/typesafe-computer-use/44ca11f0935b021b73020825da054b5c92cc1288/typesafe_computer_use/actions.py (retrieved 2026-10-18T11:52:40Z; SHA-256 72f149792289be8c44a37f2a223f166a659ba5be58eed87f232f6d22214733bd)
+- https://raw.githubusercontent.com/awlevin/typesafe-computer-use/44ca11f0935b021b73020825da054b5c92cc1288/typesafe_computer_use/osworld/agent.py (retrieved 2026-10-18T11:52:40Z; SHA-256 9b0d1eb4ad8dba208cc27b51305699974debe6afad0995b9fa80a968bfc3dcbd)
+- https://raw.githubusercontent.com/awlevin/typesafe-computer-use/44ca11f0935b021b73020825da054b5c92cc1288/docs/windows.md (retrieved 2026-10-18T11:52:41Z; SHA-256 677eec08e6231720aee971a6c78927c24a2a9efa52db12fb5a124136d3864041)
+- https://raw.githubusercontent.com/awlevin/typesafe-computer-use/44ca11f0935b021b73020825da054b5c92cc1288/docs/browser-backend.md (retrieved 2026-10-18T11:52:41Z; SHA-256 b27b4c4315c441dd59e1c8538ae7cf78d807f0f3335255542ba7fddb7ab038b3)
+- https://raw.githubusercontent.com/awlevin/typesafe-computer-use/44ca11f0935b021b73020825da054b5c92cc1288/pyproject.toml (retrieved 2026-10-18T11:52:41Z; SHA-256 cd0bb7adb46f77e0889b166e7ecc2490e5cf200396a7b7b446a446b14745b920)
+- https://raw.githubusercontent.com/awlevin/typesafe-computer-use/44ca11f0935b021b73020825da054b5c92cc1288/LICENSE (retrieved 2026-10-18T11:52:41Z; SHA-256 fb99135e22841bb564b275b5c0755ce1e5418faff2c806f25d4a11696214c87c)
+- https://raw.githubusercontent.com/awlevin/typesafe-computer-use/HEAD/LICENSE (retrieved 2026-10-18T11:53:13Z; SHA-256 fb99135e22841bb564b275b5c0755ce1e5418faff2c806f25d4a11696214c87c)
 
 ---
 
@@ -9888,6 +11878,44 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/AlperT-Code/VeraAI-Assistant-1.1/main/README.md (retrieved 2026-11-04T17:20:52Z; SHA-256 e260438173d12e74b64a22214648ddb751c2a50e210029c11ef6c10c0968e8c9)
 - https://raw.githubusercontent.com/AlperT-Code/VeraAI-Assistant-1.1/HEAD/LICENSE (retrieved 2026-11-04T17:26:55Z; SHA-256 a26dcfc8000890918428219d262bee8cf4a414310b9370f10ac3fe4650160d8c)
+
+---
+
+## VibeSurf
+
+Browser assistant with a Chrome-extension UI that runs parallel Browser Use agents across tabs and Langflow-based drag-and-drop browser workflows for logins, data collection and research, using local or hosted LLMs.
+
+- Catalog URL: https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/
+- Original source: https://github.com/vibesurf-ai/VibeSurf
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, workflow
+- Evidence checked: 2026-10-19T06:20:04Z
+- ID: github:vibesurf-ai/vibesurf
+
+### Limitations
+
+pyproject.toml pins browser-use 0.9.5; the README also credits LangGraph and Langflow, and the tree vendors a langflow directory. It installs as a uv tool, a Windows installer or a Docker image with noVNC; from Chrome 142 the extension must be loaded manually. Integrations include Composio and site APIs for Xiaohongshu, Douyin, Weibo and YouTube. The README's token-saving and speed claims were not tested. The LICENSE is a 'VibeSurf Open Source License' that adds multi-tenant, SaaS, frontend-logo and contributor conditions to Apache-2.0, while pyproject.toml declares plain Apache-2.0, so the code license is left unknown. Latest release 0.5.18 (2026-01-17). Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-vibesurf-ai-vibesurf/record.json
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The LICENSE is a custom 'VibeSurf Open Source License' (Apache-2.0 plus multi-tenant, SaaS, frontend-logo and contributor conditions), which conflicts with the plain Apache-2.0 declared in pyproject.toml; no standard identifier applies, so the code license stays unknown.
+  Sources: https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/LICENSE, https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/pyproject.toml
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/HEAD/README.md (retrieved 2026-10-19T06:20:04Z; SHA-256 7b114b2c218e8555f36f5eeabd6a3c90d6c700cb74b175f0019d08b277d3ed9e)
+- https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/pyproject.toml (retrieved 2026-10-18T12:06:28Z; SHA-256 97b5d7bf51bf343eaced126fd67164a5642e56c2a206a41020a70367b68a6f6a)
+- https://raw.githubusercontent.com/vibesurf-ai/VibeSurf/cd6e519d507cdd4d63061300bf60fb176e1f57e0/LICENSE (retrieved 2026-10-18T12:06:27Z; SHA-256 ca7712f8e100ee3f6ee6316c8fad4be37dfeb0b1e88be27631ec04259ae1b9d7)
 
 ---
 
@@ -10166,6 +12194,89 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Wanta
+
+Electron desktop host for work agents (built-in OpenCode agent plus Claude Code, Codex and Grok adapters) whose bundled integrated browser lets agent and user operate one visible page through ARIA-snapshot refs.
+
+- Catalog URL: https://awesomecua.com/resources/github-oomol-lab-wanta/
+- Original source: https://github.com/oomol-lab/wanta
+- Kind: agent
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, human-in-the-loop, tool-integration
+- Evidence checked: 2026-10-18T16:13:48Z
+- ID: github:oomol-lab/wanta
+
+### Limitations
+
+Recorded as adjacent: Wanta is a general agent host whose local tools are files, shell, skills, knowledge and SaaS connectors (OpenConnector), and its only graphical executor is the integrated browser. The Electron main process owns a WebContentsView per task page, Playwright attaches through a custom CDP transport over webContents.debugger, and an authenticated loopback bridge serves seven OpenCode tools: browser_navigate, browser_read (title, URL, dialog state and a Playwright AI-mode ARIA snapshot with refs), browser_click and browser_type on refs or unique selectors, browser_scroll, browser_screenshot and browser_dialog. The user shares the page and completes logins and CAPTCHAs; in Default Access the agent is told to hand sensitive actions to the user, which the design document calls a behavioural policy rather than a system guarantee. External agents keep their own accounts; hosted models, connectors and team workspaces need an OOMOL account. Packages for macOS, Windows and Linux. Root LICENSE is Apache-2.0. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-oomol-lab-wanta/record.json
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/oomol-lab/wanta/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/oomol-lab/wanta/HEAD/README.md (retrieved 2026-10-18T16:13:48Z; SHA-256 f9ea3b05f9492271ad49c57a818e59a95eeb6b8a8796f81835a6c55605a4bea2)
+- https://raw.githubusercontent.com/oomol-lab/wanta/d568845ea03f6bae3b1cef2d80b19b5b32bc7952/docs/integrated-browser.md (retrieved 2026-10-18T16:13:16Z; SHA-256 0e390f6a2b44db16f6a62cc46c39077d830da577653041c9bb14a2cdb5d246d4)
+- https://raw.githubusercontent.com/oomol-lab/wanta/d568845ea03f6bae3b1cef2d80b19b5b32bc7952/electron/browser/page.ts (retrieved 2026-10-18T16:13:21Z; SHA-256 1cf4ba22a7c24967103a2e4203682d22868f8b23a0e3622a564069f0c55717b3)
+- https://raw.githubusercontent.com/oomol-lab/wanta/d568845ea03f6bae3b1cef2d80b19b5b32bc7952/electron/browser/control-server.ts (retrieved 2026-10-18T16:13:21Z; SHA-256 5bc88f248c47af8a1327963733a504ac5da11acac93f9182db60f979ef22aaf4)
+- https://raw.githubusercontent.com/oomol-lab/wanta/d568845ea03f6bae3b1cef2d80b19b5b32bc7952/electron/agent/tool-sources.ts (retrieved 2026-10-18T16:13:21Z; SHA-256 68f53b75e7aa3b96367ff25ef4a8000443734b7afcb34f2ac61ad0f73ca982b8)
+- https://raw.githubusercontent.com/oomol-lab/wanta/d568845ea03f6bae3b1cef2d80b19b5b32bc7952/package.json (retrieved 2026-10-18T16:13:21Z; SHA-256 0000c9f83ee180eaabe2925368adbac85dfb6b1cafa12ccf7d82ed2a542796e9)
+- https://raw.githubusercontent.com/oomol-lab/wanta/HEAD/LICENSE (retrieved 2026-10-18T16:14:01Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## Webagent (webagent.cloud)
+
+Self-hostable browser-agent server that runs Browser Use or Notte agents, turns a run's recorded actions into a parameterized workflow, and replays it with Playwright, falling back to the agent when a step fails.
+
+- Catalog URL: https://awesomecua.com/resources/github-webagent-cloud-webagent/
+- Original source: https://github.com/webagent-cloud/webagent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, workflow, web-navigation
+- Evidence checked: 2026-10-20T07:41:55Z
+- ID: github:webagent-cloud/webagent
+
+### Limitations
+
+Open-source code of the webagent.cloud hosted service, published by webagent-cloud. A FastAPI server (server.py, webagent/api.py) with a bundled React UI accepts a prompt and runs it with the engine set by ENGINE_PROVIDER: Browser Use by default, or Notte, whose agent is fixed to gemini-2.5-flash with at most 30 steps. The browser comes from BROWSER_PROVIDER: a local Playwright Chromium over CDP, Browserbase or Steel; at the reviewed commit the Steel provider's create_session takes a context argument that the caller does not pass. Models are reached through Browser Use's chat clients for OpenAI, DeepSeek, Anthropic, Google and Groq; other provider values fall back to the OpenAI client. After a run, workflow_builder_service.py asks an LLM to extract parameters from the prompt and template the recorded actions with their element XPaths; workflow_replay_service.py replays those steps with Playwright (navigation, search, XPath clicks and typing, scrolling, key presses, uploads, dropdowns) without a model and, when an action fails, hands that step to the AI engine for up to three attempts. Tasks, runs and results are kept in a local SQLite database; results can be text or JSON validated against a supplied JSON Schema, and a webhook can be called on completion. The README's n8n, Zapier and Make integrations and Stagehand engine are not in the tree. Root LICENSE is MIT; not a fork, not archived; no release. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-webagent-cloud-webagent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/webagent-cloud/webagent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/webagent-cloud/webagent/HEAD/README.md (retrieved 2026-10-20T07:41:55Z; SHA-256 4262e0f23c1fa2bdfe887a9ad9679cbd398c1e031c3760678d863242a3b1f276)
+- https://api.github.com/repos/webagent-cloud/webagent/git/trees/21969388bbb70a0ebf44aee0a8a913ccc54d294e?recursive=1 (retrieved 2026-10-20T04:43:10Z; SHA-256 196b9b7c64b450b10263e5dcb8458f14d7cbd62648894018ab66dc6d455576e1)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/21969388bbb70a0ebf44aee0a8a913ccc54d294e/LICENSE (retrieved 2026-10-20T04:43:11Z; SHA-256 8149145076020a5c142fb8fd03463a2da2cadce98aa703ac6746f40cb5ee8f6b)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/21969388bbb70a0ebf44aee0a8a913ccc54d294e/webagent/agent_service.py (retrieved 2026-10-20T04:43:15Z; SHA-256 91e52a56360d5fd5657ba8c598afb08c86ca26b45a354b2147d0c37d880dc7e3)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/21969388bbb70a0ebf44aee0a8a913ccc54d294e/webagent/engine_providers/browseruse_service.py (retrieved 2026-10-20T04:43:12Z; SHA-256 6b1ba814c102f943348a7214238d299d59dfad6077f6300cb005ddc43c44646f)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/21969388bbb70a0ebf44aee0a8a913ccc54d294e/webagent/engine_providers/notte_service.py (retrieved 2026-10-20T04:43:12Z; SHA-256 d8b16ba84530eb6caa72cc5409bbe701904a89e21591eb67152c8f8217197c20)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/21969388bbb70a0ebf44aee0a8a913ccc54d294e/webagent/workflow_builder_service.py (retrieved 2026-10-20T04:43:11Z; SHA-256 0f3e65b0312156d63c90fb78b7b90516b7d54788bf3fb5c71d08e91c1d62ad38)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/21969388bbb70a0ebf44aee0a8a913ccc54d294e/webagent/workflow_replay_service.py (retrieved 2026-10-20T04:43:11Z; SHA-256 3d784549d7dd0d92a5c0ea27a0a43d36e311baf5a1bcf59a44707726453a4f25)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/21969388bbb70a0ebf44aee0a8a913ccc54d294e/webagent/workflow_ai_fallback_service.py (retrieved 2026-10-20T04:43:11Z; SHA-256 b9913e4a935e544c8599b16c0dcd004acec275fded435e743f8e8723e14aeded)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/21969388bbb70a0ebf44aee0a8a913ccc54d294e/webagent/browser_providers/steel_browser_service.py (retrieved 2026-10-20T04:43:14Z; SHA-256 2740f416cbe5878ade75db3f0fb8bce6763df335e1b4f26c70005599f6724785)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/21969388bbb70a0ebf44aee0a8a913ccc54d294e/webagent/llm_service.py (retrieved 2026-10-20T04:44:10Z; SHA-256 9964b0d3beee28d4deb8ab9ee469768def10b2350e517e6b61e14c52874c0cb1)
+- https://raw.githubusercontent.com/webagent-cloud/webagent/HEAD/LICENSE (retrieved 2026-10-20T04:44:29Z; SHA-256 8149145076020a5c142fb8fd03463a2da2cadce98aa703ac6746f40cb5ee8f6b)
+
+---
+
 ## WebBrain
 
 WebBrain is an open-source AI browser agent extension for Chrome and Firefox that automates multi-step web workflows.
@@ -10264,6 +12375,48 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/ThunderKhan/webclerk/main/README.md (retrieved 2026-11-04T17:55:20Z; SHA-256 e86ef0a0ea88d54361f2fa243a0bfe7c6ea5f31a4ba71781fadeed994c28a5ed)
 - https://raw.githubusercontent.com/ThunderKhan/webclerk/HEAD/LICENSE (retrieved 2026-11-04T18:00:47Z; SHA-256 579fc51f1c32a9802e1c67a71dfe12acd35a4608ff37f6077c8768f64cc5e1e7)
+
+---
+
+## WebDroid Agent
+
+Browser-hosted Android phone agent that connects over WebUSB/WebADB, sends screenshots plus a uiautomator text tree to an OpenAI-compatible or Gemini vision model, and runs its JSON actions through ADB.
+
+- Catalog URL: https://awesomecua.com/resources/github-yeahhe365-webdroid-agent/
+- Original source: https://github.com/yeahhe365/WebDroid-Agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, human-in-the-loop, automation
+- Evidence checked: 2026-10-18T15:43:22Z
+- ID: github:yeahhe365/webdroid-agent
+
+### Limitations
+
+A React app that runs entirely in a Chromium browser (WebUSB through Tango/WebADB), or in Docker with a local proxy for model requests; the browser is the controller and the operated surface is a USB-connected Android device. Each step captures screencap output and, best effort, a compressed uiautomator dump of visible text, IDs, clickable state and bounds (src/lib/contextBuilder.ts); actions use pixel or 0-1000 normalized coordinates and become adb input, am start and keyboard-broadcast commands (src/adapters/inputCommands.ts). Sensitive taps can require confirmation, take_over hands control back to the user and type_secret sends the model only a secret ID; an unrestricted mode skips these checks. README.md is in Chinese and README.en-US.md is the English version. The repository was renamed from yeahhe365/webadb-autoglm (same repository ID 1244747615). The agent was not run.
+
+- Record JSON: https://awesomecua.com/resources/github-yeahhe365-webdroid-agent/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/yeahhe365/WebDroid-Agent/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/yeahhe365/WebDroid-Agent/HEAD/README.md (retrieved 2026-10-18T15:43:22Z; SHA-256 4c7962c0068b1dd7e483ddef9c5db7b7c872727ef0c2ac160f1d6359a5db9d06)
+- https://api.github.com/repos/yeahhe365/WebDroid-Agent (retrieved 2026-10-18T15:43:23Z; SHA-256 9fd700009d98c4d7e5713d6a37f0b52bc2cd0b6edf3373c49f3578e30027c1dd)
+- https://api.github.com/repos/yeahhe365/WebDroid-Agent/git/trees/6ef50805d0f4509d7222dd269d8e329ab95ec902?recursive=1 (retrieved 2026-10-18T15:43:25Z; SHA-256 7111603f8db433834ef0b39f43bcd7b2f0a585932de6603256458a48aa757ad7)
+- https://raw.githubusercontent.com/yeahhe365/WebDroid-Agent/6ef50805d0f4509d7222dd269d8e329ab95ec902/README.en-US.md (retrieved 2026-10-18T15:43:25Z; SHA-256 c29b70a96212cfd22008c0d1c7b55da94a2c01e407861e67be09e7a28f8df859)
+- https://raw.githubusercontent.com/yeahhe365/WebDroid-Agent/6ef50805d0f4509d7222dd269d8e329ab95ec902/src/lib/contextBuilder.ts (retrieved 2026-10-18T15:43:25Z; SHA-256 cbff4bef5fe7b8015830e8b96da7cc724716c575e9c99840b03d16d536b89da0)
+- https://raw.githubusercontent.com/yeahhe365/WebDroid-Agent/6ef50805d0f4509d7222dd269d8e329ab95ec902/src/adapters/inputCommands.ts (retrieved 2026-10-18T15:43:26Z; SHA-256 d230898643e76658658013ed915124d85a7b16167901885b271d5f2dd42e7110)
+- https://raw.githubusercontent.com/yeahhe365/WebDroid-Agent/6ef50805d0f4509d7222dd269d8e329ab95ec902/LICENSE (retrieved 2026-10-18T15:43:28Z; SHA-256 e8f924156a6cc9479b17cb02a420d180f58d1532d170c30fc120c197dfcf06b6)
+- https://raw.githubusercontent.com/yeahhe365/WebDroid-Agent/HEAD/LICENSE (retrieved 2026-10-18T15:44:10Z; SHA-256 e8f924156a6cc9479b17cb02a420d180f58d1532d170c30fc120c197dfcf06b6)
+- https://api.github.com/repos/yeahhe365/webadb-autoglm (retrieved 2026-10-18T15:43:24Z; SHA-256 9fd700009d98c4d7e5713d6a37f0b52bc2cd0b6edf3373c49f3578e30027c1dd)
+- https://api.github.com/repos/yeahhe365/WebDroid-Agent (retrieved 2026-10-18T15:43:23Z; SHA-256 9fd700009d98c4d7e5713d6a37f0b52bc2cd0b6edf3373c49f3578e30027c1dd)
 
 ---
 
@@ -10437,6 +12590,45 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Windows-Use
+
+A Python agent that drives Windows applications through the UI Automation tree, optionally with screenshots, choosing clicks, typing, scrolling, shortcuts, window actions and PowerShell commands with an LLM.
+
+- Catalog URL: https://awesomecua.com/resources/github-jeomon-windows-use/
+- Original source: https://github.com/Jeomon/Windows-Use
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: windows, desktop
+- Topics: automation, screen-understanding, tool-integration
+- Evidence checked: 2026-10-18T10:56:22Z
+- ID: github:jeomon/windows-use
+
+### Limitations
+
+github.com/CursorTouch/Windows-Use now redirects to Jeomon/Windows-Use; the GitHub API resolves both names to repository 1177532603, created 2026-03-10, and the former name is recorded as a repository alias. The inspected tree contains the windows_use package (agent loop, UI Automation bindings, tools, model providers, CLI) and unit tests. The README documents pip installation, warns that the agent has no sandbox or isolation layer and states that anonymized telemetry is on unless disabled. Model providers need separate credentials; task success was not independently tested. MIT applies to the repository code only.
+
+- Record JSON: https://awesomecua.com/resources/github-jeomon-windows-use/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Jeomon/Windows-Use/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Jeomon/Windows-Use/HEAD/README.md (retrieved 2026-10-18T10:56:22Z; SHA-256 a3af434401cc7165ad5270bf3b71ad47b0b204aa77275274b07c49f6d693eadc)
+- https://api.github.com/repos/Jeomon/Windows-Use (retrieved 2026-10-18T10:56:15Z; SHA-256 4b307d4b41b2c8051082e30df56b6a2e4b4cb2bb877dccead1fa7ae9659a5498)
+- https://api.github.com/repos/Jeomon/Windows-Use/git/trees/main?recursive=1 (retrieved 2026-10-18T10:56:21Z; SHA-256 d8dcf7563d01d137cc35b64004e6b5998c49d74ba7ec7728052031d9149a32d6)
+- https://raw.githubusercontent.com/Jeomon/Windows-Use/HEAD/LICENSE (retrieved 2026-10-18T10:56:22Z; SHA-256 2431a101a7e272edda61f91306f5cf48dc06beb4645a644cee4e3608642a469c)
+- https://raw.githubusercontent.com/Jeomon/Windows-Use/HEAD/LICENSE (retrieved 2026-10-18T10:56:22Z; SHA-256 2431a101a7e272edda61f91306f5cf48dc06beb4645a644cee4e3608642a469c)
+- https://api.github.com/repos/CursorTouch/Windows-Use (retrieved 2026-10-18T10:55:30Z; SHA-256 4b307d4b41b2c8051082e30df56b6a2e4b4cb2bb877dccead1fa7ae9659a5498)
+- https://api.github.com/repos/Jeomon/Windows-Use (retrieved 2026-10-18T10:56:15Z; SHA-256 4b307d4b41b2c8051082e30df56b6a2e4b4cb2bb877dccead1fa7ae9659a5498)
+
+---
+
 ## winter40611 Browser Agent
 
 Spring Boot, LangChain4j, and MCP agent backend enabling remote PC and browser automation via WeChat iLink.
@@ -10601,6 +12793,47 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/daixin315/XiaoShuang/master/README.md (retrieved 2026-11-04T17:55:13Z; SHA-256 131867d1f8f5ef9475e2f6e0d8780c071995d165ee1ee9d59cf21d852753078d)
+
+---
+
+## Xiryn
+
+Self-hosted personal agent app that gives each agent its own Docker Linux desktop with Chromium, operated through screenshots and xdotool clicks and keys, with live take-over, memory, a vault and Telegram control.
+
+- Catalog URL: https://awesomecua.com/resources/github-souravberaakaspeed-xiryn/
+- Original source: https://github.com/SouravBeraAkaSpeed/xiryn
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web
+- Topics: automation, web-navigation, human-in-the-loop, memory, tool-integration
+- Evidence checked: 2026-10-20T08:14:45Z
+- ID: github:souravberaakaspeed/xiryn
+
+### Limitations
+
+Next.js app run locally (version 0.4.1 in package.json; tag v0.4.1 points at b8016b5, and the inspected commit 489e9c4 is later). Each agent's workstation is a Docker container built from workstation/: Debian (trixie-slim) with Xvfb, xfwm4 and a panel, Chromium, x11vnc and noVNC, xdotool and scrot, a persistent home volume, and an inactivity watchdog. lib/agent/tools.ts defines the tool belt for the Vercel AI SDK streamText loop: shell and fs_* through docker exec; screen_capture and screen_share (scrot JPEG through xiryn-shot); pointer_click, pointer_move, pointer_drag, pointer_scroll, key_type and key_press (xdotool in lib/workstation.ts), each returning a fresh screenshot; request_takeover; vault_list, vault_fill, request_payment_approval and request_secret; memory_write and memory_forget; web_search and web_fetch through Firecrawl; and delegate for squads. Observation is plain screenshots of a 1280x800 display with pixel coordinates; there is no accessibility tree or element annotation. Before each step the runtime keeps only the two most recent screenshots in full (docs/architecture.md). The vault fills saved logins and cards into fields without the model seeing them, and cards only after the owner approves the payment. The user can watch and take over the desktop, and the agent hands over at logins, payments, one-time codes or CAPTCHAs, with a Telegram notice when paired. Models come from the owner's keys for OpenAI, Anthropic, Google, xAI, Groq, Mistral, DeepSeek, OpenRouter, Ollama, LM Studio or any OpenAI-compatible endpoint. The README's comparison with hosted agents is the author's own. Root LICENSE is MIT; not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-souravberaakaspeed-xiryn/record.json
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/HEAD/README.md (retrieved 2026-10-20T08:14:45Z; SHA-256 71b4c54e1c81f6a48dfbdc0824169bc67bbc630511ab78ebfa0cd7aaaa8cb858)
+- https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/489e9c4fa4c3705c4ff87d1f90e7d8b616837c14/docs/architecture.md (retrieved 2026-10-20T08:13:57Z; SHA-256 a981aa1295fe450f358a8fdbaebf6e347ddd30655327c20d368f3a205b77a45e)
+- https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/489e9c4fa4c3705c4ff87d1f90e7d8b616837c14/lib/agent/tools.ts (retrieved 2026-10-20T08:14:00Z; SHA-256 3dfffee7f38880d93c3cc0063cee4d0fe0a1c32304ac34bc3363b9877063f18e)
+- https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/489e9c4fa4c3705c4ff87d1f90e7d8b616837c14/lib/workstation.ts (retrieved 2026-10-20T08:14:02Z; SHA-256 a57b7a6d23c0175b5f6d39e65265baae6b8572d90056da9b71b1dbc0c01243f2)
+- https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/489e9c4fa4c3705c4ff87d1f90e7d8b616837c14/workstation/Dockerfile (retrieved 2026-10-20T08:14:04Z; SHA-256 d2ab9ab4c377755984d128c7655619f7fb114e2fd58f4a51c1dc175316abd65b)
+- https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/489e9c4fa4c3705c4ff87d1f90e7d8b616837c14/workstation/rootfs/usr/local/bin/xiryn-shot (retrieved 2026-10-20T08:14:05Z; SHA-256 365ea5c5baa1d65666948557d755a8e1c2180589d8095871f3701f8b0bd582d1)
+- https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/489e9c4fa4c3705c4ff87d1f90e7d8b616837c14/package.json (retrieved 2026-10-20T08:14:06Z; SHA-256 427f984809cb545bbcc4d2f64c51d0b9ef932447401c1856762d737829205cb9)
+- https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/489e9c4fa4c3705c4ff87d1f90e7d8b616837c14/LICENSE (retrieved 2026-10-20T08:14:07Z; SHA-256 64cd47199151b05cb1ccc1866cb31fff39b16be5627b3c347c9da604237da33e)
+- https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/HEAD/LICENSE (retrieved 2026-10-20T08:14:47Z; SHA-256 64cd47199151b05cb1ccc1866cb31fff39b16be5627b3c347c9da604237da33e)
 
 ---
 

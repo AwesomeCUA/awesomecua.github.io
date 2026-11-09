@@ -6194,6 +6194,92 @@
     "version": "1"
   },
   {
+    "DOI": "10.18653/v1/2025.emnlp-main.920",
+    "URL": "https://aclanthology.org/2025.emnlp-main.920/",
+    "author": [
+      {
+        "literal": "Jiwen Zhang (张霁雯)"
+      },
+      {
+        "literal": "Ya-Qi Yu"
+      },
+      {
+        "literal": "Minghui Liao"
+      },
+      {
+        "literal": "Wentao Li"
+      },
+      {
+        "literal": "Jihao Wu"
+      },
+      {
+        "literal": "Zhongyu Wei (魏忠钰)"
+      }
+    ],
+    "citation-key": "cua_4d0b0e2ee52b6b82400853ed",
+    "container-title": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "custom": {
+      "canonical_source_url": "https://aclanthology.org/2025.emnlp-main.920/",
+      "catalog_id": "url:9113270916a36b4b76f1",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.18653/v1/2025.emnlp-main.920"
+      },
+      "publication": {
+        "authors": [
+          "Jiwen Zhang (张霁雯)",
+          "Ya-Qi Yu",
+          "Minghui Liao",
+          "Wentao Li",
+          "Jihao Wu",
+          "Zhongyu Wei (魏忠钰)"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/11; precision=month. Do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          11
+        ],
+        "doi": "10.18653/v1/2025.emnlp-main.920",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.emnlp-main.920/",
+          "https://web.archive.org/web/20260314134926id_/https://www.preprints.org/manuscript/202408.2137"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and arXiv title searches for UI-Hawk and 'Screen Stream Understanding' returned nothing, so this publisher edition seeds the record. The Preprints.org posting 202408.2137 (v1 only) is an earlier version of the same work by the same six authors in the same order.",
+        "issue": null,
+        "notes": "EMNLP 2025 main-conference paper. The earlier Preprints.org version, posted 2024-08-30 with DOI 10.20944/preprints202408.2137.v1 and a CC BY 4.0 notice, is titled 'UI-Hawk: Unleashing the Screen Stream Understanding for GUI Agents' (without 'Mobile') and spells the second author Yaqi Yu; it is retained only through a Wayback capture because preprints.org refuses scripted requests.",
+        "pages": "18217-18236",
+        "pdf_url": "https://aclanthology.org/2025.emnlp-main.920.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "UI-Hawk: Unleashing the Screen Stream Understanding for Mobile GUI Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.emnlp-main.920/",
+        "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:9113270916a36b4b76f1",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-11.",
+    "page": "18217-18236",
+    "publisher": "Association for Computational Linguistics",
+    "title": "UI-Hawk: Unleashing the Screen Stream Understanding for Mobile GUI Agents",
+    "type": "paper-conference"
+  },
+  {
     "URL": "https://acypher.com/Publications/CHI91/EagerCHI.html",
     "author": [
       {

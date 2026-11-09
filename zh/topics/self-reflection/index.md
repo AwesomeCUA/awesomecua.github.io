@@ -48,6 +48,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   VLAA-GUI combines mandatory checks for visually supported completion, multi-tier loop recovery and on-demand workflow search. Optional coding and grounding agents support execution, with component ablations on Linux and Windows GUI tasks.
 - [Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding](https://awesomecua.com/resources/arxiv-2604-21268/) — 2026-04-23
   Trains a GUI grounding proposer together with a visual critic that evaluates candidate locations rendered on screenshots. An adaptive reinforcement-learning schedule balances their development, using proposal diversity and critic feedback during training.
+- [LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent](https://awesomecua.com/resources/url-4395ff8522cd77109b83/) — 2026-04-20
+  Training-free GUI agent that indexes screen elements via icon detection and OCR, checks each step with multi-level reflection and recovers by fallback clicks or rollback; introduces LongGUIBench, tasks over 15 steps.
 - [CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://awesomecua.com/resources/arxiv-2603-23559/) — 2026-03-23
   Introduces ReCAP, a native GUI agent for interactive CAPTCHA challenges, trained with generated interaction trajectories, reasoning traces and self-correction data.
 - [GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2603-15039/) — 2026-03-16
@@ -217,6 +219,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   Self-healing browser automation framework that replaces brittle CSS selectors with LLM-guided semantic element resolution.
 - [LongHorizon-Harness](https://awesomecua.com/resources/github-amap-ml-longhorizon-harness/) — Date not recorded
   LongHorizon-Harness wraps desktop and CLI agents in a persistent plan-act-verify-recover loop for multi-hour autonomous computer-use workflows.
+- [LongHorizonUI](https://awesomecua.com/resources/github-kane2kang-longhorizonui/) — Date not recorded
+  Code for the LongHorizonUI Android agent: OCR plus OmniParser icon detection yields numbered element boxes for an LLM, and failed taps fall back from element index to relative and absolute points with rollback.
 - [Lynx Agent](https://awesomecua.com/resources/github-wangjiang314-lynx-agent/) — Date not recorded
   Lynx Agent is a completion-first Android phone-use agent with evidence-based state verification, recovery, and safety checks.
 - [MAI](https://awesomecua.com/resources/github-fluxaster-mai/) — Date not recorded
@@ -249,6 +253,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   QAgent is a local-first web QA and repair agent with an Electron desktop UI, CLI, MCP server, and isolated Git worktree execution.
 - [RCI Agent](https://awesomecua.com/resources/github-posgnu-rci-agent/) — Date not recorded
   A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
+- [Roubao](https://awesomecua.com/resources/github-turbo1123-roubao/) — Date not recorded
+  On-device Android phone agent in Kotlin that captures screenshots and taps, swipes and types through Shizuku without a PC, running a planner, executor and reflector loop on any OpenAI-compatible VLM, GUI-Owl or MAI-UI.
 - [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/) — Date not recorded
   SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.
 - [Self-Healing Browser Agent](https://awesomecua.com/resources/github-25andresbernal-self-healing-browser-agent/) — Date not recorded
@@ -265,6 +271,8 @@ Full source records: https://awesomecua.com/downloads/topics/self-reflection/rec
   Svate is an on-device Android UI automation agent combining Accessibility trees, screenshots, pre-action safety checks, and recovery.
 - [Third Eye](https://awesomecua.com/resources/github-slastrina-third-eye/) — Date not recorded
   Local macOS computer-use agent with screen perception and verified action execution.
+- [Tongyi UI Agent API](https://awesomecua.com/resources/url-ce0af37931cd5aa20233/) — Date not recorded
+  Alibaba Cloud Model Studio API that returns the next GUI action with its reasoning for a screenshot and task, with a mobile pipeline and a PC pipeline using planner, worker, reflector and memory agents.
 - [Tsaagan](https://awesomecua.com/resources/github-michaelolmos-tsaagan/) — Date not recorded
   Tsaagan is a verify-first browser control framework for AI agents that proves every click and form action succeeded before advancing.
 - [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/) — Date not recorded

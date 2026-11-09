@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/categories/tool/page/2/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [Axon](https://awesomecua.com/resources/github-gxcsoccer-axon/)
+- [AXTree API](https://awesomecua.com/resources/github-amaar-mc-axtree-api/)
 - [AzaiSakura dsh-computer-use (macOS)](https://awesomecua.com/resources/github-azaisakura-dsh-computer-use/)
 - [azderus browser-agent](https://awesomecua.com/resources/github-azderus-browser-agent/)
 - [background-computer-use](https://awesomecua.com/resources/github-panchangam18-background-computer-use/)
@@ -102,5 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [claude-drives-gemini](https://awesomecua.com/resources/github-magicyangg-claude-drives-gemini/)
 - [claude-firefox (Claude Code Browser Bridge)](https://awesomecua.com/resources/github-faran52-claude-code-browser-bridge/)
 - [ClaudeDesk](https://awesomecua.com/resources/github-phantivia-claudedesk/)
-- [Clawd Cursor](https://awesomecua.com/resources/github-amrdab-clawdcursor/)
-- [ClawPilot Command Center](https://awesomecua.com/resources/github-edgeagent-clawpilot-command-center/)

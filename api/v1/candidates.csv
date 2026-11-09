@@ -51,7 +51,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2406.06769,DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents,paper,https://arxiv.org/abs/2406.06769,https://awesomecua.com/resources/arxiv-2406-06769/,metadata_verified,relevance_pending,2024-06-10,,
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2406.11342,KAOS: Large Model Multi-Agent Operating System,paper,https://arxiv.org/abs/2406.11342,https://awesomecua.com/resources/arxiv-2406-11342/,metadata_verified,relevance_pending,2024-06-17,"Relevance screening of the complete arXiv v3 abstract (5 November 2026) could not settle the scope: Proposes a Kylin-based multi-agent operating system in which LLM agents serve or replace application software; the abstract does not say whether the agents operate GUIs, terminals or only internal system APIs. Needs a scope decision from the full text.",
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2406.12045,$τ$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains,paper,https://arxiv.org/abs/2406.12045,https://awesomecua.com/resources/arxiv-2406-12045/,metadata_verified,relevance_pending,2024-06-17,"Relevance screening of the complete arXiv v1 abstract (5 November 2026) could not settle the scope: Benchmark of conversational agents that use domain API tools and policies with simulated users, such as in retail. This function-calling work names no web-page, GUI or device interaction. Codex review disputed this exclusion on that ground: the paper concerns application or workflow tasks carried out through scripts, APIs or tools, which the adjacent category may cover, and the abstract does not settle it. Needs a scope decision from the full text.",
-1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2406.13352,AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents,paper,https://arxiv.org/abs/2406.13352,https://awesomecua.com/resources/arxiv-2406-13352/,metadata_verified,relevance_pending,2024-06-19,"Relevance screening of the complete arXiv v3 abstract (5 November 2026) could not settle the scope: Prompt-injection environment for tool-calling agents; tasks include navigating an e-banking website and travel booking, but the abstract frames interaction as tool calls, so it is unclear whether real web pages are operated. Needs a scope decision from the full text.",
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2406.20041,BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration,paper,https://arxiv.org/abs/2406.20041,https://awesomecua.com/resources/arxiv-2406-20041/,metadata_verified,relevance_pending,2024-06-28,"Relevance screening of the complete arXiv v3 abstract (5 November 2026) could not settle the scope: Screeners disagreed. One read it as outside the scope: The abstract describes a multi-agent planning and execution framework for industrial task automation. RPA is only named as a possible application and no GUI, web or desktop interaction is described, so this generic framework is outside scope. The other marked it borderline: Generic multi-agent task-automation framework for industrial use; it names robotic process automation as a target application but does not say whether agents operate GUIs, desktop software or only APIs. Needs a scope decision from the full text.",
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2407.00132,ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents,paper,https://arxiv.org/abs/2407.00132,https://awesomecua.com/resources/arxiv-2407-00132/,metadata_verified,relevance_pending,2024-06-28,,
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2407.01502,AI Agents That Matter,paper,https://arxiv.org/abs/2407.01502,https://awesomecua.com/resources/arxiv-2407-01502/,metadata_verified,relevance_pending,2024-07-01,"Relevance screening of the complete arXiv v1 abstract (5 November 2026) could not settle the scope: Critique of agent benchmarking practice (cost, holdouts, reproducibility); the abstract does not name the benchmarks analyzed or say whether web or GUI agents are covered. Needs a scope decision from the full text.",
@@ -204,7 +203,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2511.11332,UFO3: Weaving the Digital Agent Galaxy,paper,https://arxiv.org/abs/2511.11332,https://awesomecua.com/resources/arxiv-2511-11332/,metadata_verified,relevance_pending,2025-11-14,"Relevance screening of the complete arXiv v2 abstract (5 November 2026) could not settle the scope: UFO3 orchestrates agents across desktops, servers, phones and edge devices through a task DAG and protocol; the abstract does not say whether the device agents act through GUIs, shells or APIs. An curation proposal is open in pull request #3819. Needs a scope decision from the full text.",
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2511.17649,SWITCH: Benchmarking Modeling and Handling of Tangible Interfaces in Long-horizon Embodied Scenarios,paper,https://arxiv.org/abs/2511.17649,https://awesomecua.com/resources/arxiv-2511-17649/,metadata_verified,relevance_pending,2025-11-20,"Relevance screening of the complete arXiv v5 abstract (5 November 2026) could not settle the scope: Egocentric video benchmark for operating physical control interfaces such as appliance panels and embedded GUIs; it is embodied rather than screen-based, so its fit with GUI agents is unclear. An exclusion proposal is open in pull request #3815. Needs a scope decision from the full text.",
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2511.20737,CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design,paper,https://arxiv.org/abs/2511.20737,https://awesomecua.com/resources/arxiv-2511-20737/,metadata_verified,relevance_pending,2025-11-25,,
-1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2511.21631,Qwen3-VL Technical Report,paper,https://arxiv.org/abs/2511.21631,https://awesomecua.com/resources/arxiv-2511-21631/,metadata_verified,relevance_pending,2025-11-26,"Relevance screening of the complete arXiv v2 abstract (5 November 2026) could not settle the scope: Screeners disagreed. One read it as outside the scope: Technical report on a general vision-language model family with long context and multimodal reasoning. The abstract mentions agentic use only in passing and makes no GUI or screen contribution. The other marked it borderline: General vision-language model report; the abstract envisions agentic decision-making but does not say whether GUI, screen or computer-use tasks are part of the work or its evaluation. Needs a scope decision from the full text.",
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2512.04529,SlideGen: Collaborative Multimodal Agents for Scientific Slide Generation,paper,https://arxiv.org/abs/2512.04529,https://awesomecua.com/resources/arxiv-2512-04529/,metadata_verified,relevance_pending,2025-12-04,"Relevance screening of the complete arXiv v3 abstract (5 November 2026) could not settle the scope: Multi-agent system that composes editable PPTX decks from scientific papers through a layout library; slide creation via APIs, an office-automation precedent, without GUI operation. An open pull request (#3811) proposes to exclude it, so the scope needs a decision. Needs a scope decision from the full text.",
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2512.06641,An Index-based Approach for Efficient and Effective Web Content Extraction,paper,https://arxiv.org/abs/2512.06641,https://awesomecua.com/resources/arxiv-2512-06641/,metadata_verified,relevance_pending,2025-12-07,"Relevance screening of the complete arXiv v1 abstract (5 November 2026) could not settle the scope: Structure-aware HTML segmentation with index prediction to extract query-relevant webpage content for web agents and RAG; evaluated only as a RAG step and on extraction accuracy, with no agent browsing or acting on pages. Needs a scope decision from the full text.",
 1.0.0,2026-11-07T13:25:28Z,relevance_pending_record,false,arxiv:2512.08417,Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs,paper,https://arxiv.org/abs/2512.08417,https://awesomecua.com/resources/arxiv-2512-08417/,metadata_verified,relevance_pending,2025-12-09,"Relevance screening of the complete arXiv v3 abstract (5 November 2026) could not settle the scope: Attention-based detection and sanitization defense against indirect prompt injection in LLMs; web agents are named only as an example application, without web-specific evaluation. An exclusion proposal is open in pull request #3791. Needs a scope decision from the full text.",
@@ -546,7 +544,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:browsermcp/mcp,,,https://github.com/BrowserMCP/mcp,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:buaacyw/gaussianeditor,,,https://github.com/buaacyw/GaussianEditor,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:bytedance-seed/m3-agent,,,https://github.com/bytedance-seed/m3-agent,,candidate,,,,2026-11-05T21:12:48Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:bytedance-seed/seed1.5-vl,,,https://github.com/ByteDance-Seed/Seed1.5-VL,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:bytedance/fullstackbench,,,https://github.com/bytedance/FullStackBench,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:bytedance/salmonn,,,https://github.com/bytedance/SALMONN,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:calmee4/decopatch,,,https://github.com/calmee4/decopatch,,candidate,,,,2026-11-05T21:12:47Z
@@ -569,11 +566,9 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:colonylabs/scribeagent,,,https://github.com/colonylabs/ScribeAgent,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:conda-forge/miniforge,,,https://github.com/conda-forge/miniforge,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:craftjarvis/mcu,,,https://github.com/CraftJarvis/MCU,,candidate,,,,2026-11-06T15:44:27Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:cuga-project/cuga-agent,,,https://github.com/cuga-project/cuga-agent,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:cuhk-aim-group/neuroclaw,,,https://github.com/CUHK-AIM-Group/NeuroClaw,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:databasecleaner/database_cleaner,,,https://github.com/DatabaseCleaner/database_cleaner,,candidate,,,,2026-11-06T16:36:33Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:deep-agent/r1-v,,,https://github.com/Deep-Agent/R1-V,,candidate,,,,2026-10-16T06:36:00Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:deepneuralmachine/seq2act-tensorflow,,,https://github.com/deepneuralmachine/seq2act-tensorflow,,candidate,,,,2026-10-16T06:31:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:deepseek-ai/deepseek-r1,,,https://github.com/deepseek-ai/DeepSeek-R1,,candidate,,,,2026-10-16T10:43:11Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:dequelabs/axe-core,,,https://github.com/dequelabs/axe-core,,candidate,,,,2026-10-17T03:59:53Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:divake/vlm-judge-uncertainty,,,https://github.com/divake/VLM-Judge-Uncertainty,,candidate,,,,2026-11-05T21:12:48Z
@@ -622,13 +617,11 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:gimme1dollar/auto_ui,,,https://github.com/gimme1dollar/auto_ui,,candidate,,,,2026-10-16T06:35:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:google-deepmind/dm_env,,,https://github.com/google-deepmind/dm_env,,candidate,,,,2026-10-16T10:42:12Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:google-gemini/cookbook,,,https://github.com/google-gemini/cookbook,,candidate,,,,2026-10-16T06:38:27Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:google-research-datasets/screen_annotation,,,https://github.com/google-research-datasets/screen_annotation,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:google-research/arcade-nl2code,,,https://github.com/google-research/arcade-nl2code,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:google/artemis,,,https://github.com/google/artemis,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:google/computer-use-preview,,,https://github.com/google/computer-use-preview,,candidate,,,,2026-10-16T06:38:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:h4ckf0r0day/obscura,,,https://github.com/h4ckf0r0day/obscura,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:h9-tec/llm-systems-engineering-roadmap,,,https://github.com/h9-tec/llm-systems-engineering-roadmap,,candidate,,,,2026-10-18T11:53:46Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:halluminate/webbench,,,https://github.com/Halluminate/WebBench,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:han1018/zonui-3b,,,https://github.com/Han1018/ZonUI-3B,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:handshake-ai-research/gandalf-the-grader,,,https://github.com/Handshake-AI-Research/gandalf-the-grader,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:haotian-liu/llava,,,https://github.com/haotian-liu/LLaVA,,candidate,,,,2026-10-16T06:36:02Z
@@ -637,7 +630,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:harveyai/biglaw-bench,,,https://github.com/harveyai/biglaw-bench,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:hcompai/hai-agents-python,,,https://github.com/hcompai/hai-agents-python,,candidate,,,,2026-10-17T04:11:45Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:hcompai/hai-cookbook,,,https://github.com/hcompai/hai-cookbook,,candidate,,,,2026-10-17T04:07:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:hcompai/surfer-h-cli,,,https://github.com/hcompai/surfer-h-cli,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:hcplab-sysu/embodied_ai_paper_list,,,https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:hhhhhejia/awesome-agenticllm-rl-papers,,,https://github.com/HHHHHejia/Awesome-AgenticLLM-RL-Papers,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:hithink-research/bizfinbench,,,https://github.com/HiThink-Research/BizFinBench,,candidate,,,,2026-11-06T15:44:27Z
@@ -676,13 +668,11 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jackfsuia/di-gui-3bv0.0,,,https://github.com/jackfsuia/Di-GUI-3Bv0.0,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jackwener/dsh-android,jackwener/DSH-Android,,https://github.com/jackwener/DSH-Android,,candidate,,,current source snapshot needs editorial review,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jaidedai/easyocr,,,https://github.com/JaidedAI/EasyOCR,,candidate,,,,2026-10-16T06:36:04Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:james4ever0/agi_computer_control,,,https://github.com/James4Ever0/agi_computer_control,,candidate,,,,2026-10-16T06:31:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:janhq/jan,,,https://github.com/janhq/jan,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jenqyang/awesome-ai-agents,,,https://github.com/Jenqyang/Awesome-AI-Agents,,candidate,,,,2026-10-16T06:36:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jeroenvandijk/capybara-mechanize,,,https://github.com/jeroenvandijk/capybara-mechanize,,candidate,,,,2026-11-06T16:36:33Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jetbrains-research/envbench,,,https://github.com/JetBrains-Research/EnvBench,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jiayi-pan/tinyzero,,,https://github.com/Jiayi-Pan/TinyZero,,candidate,,,,2026-10-17T02:03:20Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jiutian-vl/gui-explorer,,,https://github.com/JiuTian-VL/GUI-explorer,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jlin816/dynalang,,,https://github.com/jlin816/dynalang,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jo-inc/camofox-browser,,,https://github.com/jo-inc/camofox-browser,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:jonathanmli/avalon-llm,,,https://github.com/jonathanmli/Avalon-LLM,,candidate,,,,2026-10-16T10:42:12Z
@@ -838,7 +828,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:qwenlm/qwen-vl,,,https://github.com/QwenLM/Qwen-VL,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:qwenlm/recreationworld,,,https://github.com/QwenLM/RecreationWorld,,candidate,,,,2026-10-16T06:50:49Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:reacher-z/awesome-cua,,,https://github.com/reacher-z/Awesome-CUA,,candidate,,,,2026-10-16T06:38:27Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:reacher-z/harnessbench,,,https://github.com/reacher-z/HarnessBench,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:real-lab-nu/awesome-openclaw-papers,,,https://github.com/REAL-Lab-NU/Awesome-OpenClaw-Papers,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:renshuhuai-andy/timechat,,,https://github.com/RenShuhuai-Andy/TimeChat,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:robinheztto/open-autoglm-android,RobinHeZtto/Open-AutoGLM-Android,,https://github.com/RobinHeZtto/Open-AutoGLM-Android,,candidate,,,current source snapshot needs editorial review,
@@ -856,12 +845,8 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:scalingintelligence/kernelbench,,,https://github.com/ScalingIntelligence/KernelBench,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:sec-bench/sec-bench,,,https://github.com/SEC-bench/SEC-bench,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:senzhk/adbkeyboard,,,https://github.com/senzhk/ADBKeyBoard,,candidate,,,,2026-10-16T06:36:03Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:servicenow/doomarena,,,https://github.com/ServiceNow/DoomArena,,candidate,,,,2026-10-16T06:35:57Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:servicenow/webarena-verified,,,https://github.com/ServiceNow/webarena-verified,,candidate,,,,2026-10-16T06:35:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:sesuii/uidefectmocker,,,https://github.com/sesuii/uidefectmocker,,candidate,,,,2026-10-16T13:17:23Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:shalev-lifshitz/steve-1,,,https://github.com/Shalev-Lifshitz/STEVE-1,,candidate,,,,2026-10-16T10:42:12Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:shiinahiiragi/grass-gui,,,https://github.com/ShiinaHiiragi/grass-gui,,candidate,,,,2026-10-16T06:35:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:shiinahiiragi/kalgebra,,,https://github.com/ShiinaHiiragi/kalgebra,,candidate,,,,2026-10-16T06:35:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:shuolucs/awesome-openclaw-research,,,https://github.com/shuolucs/Awesome-OpenClaw-Research,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:sickcodes/docker-osx,,,https://github.com/sickcodes/Docker-OSX,,candidate,,,,2026-10-16T06:35:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:sidongfeng/adbgpt,,,https://github.com/sidongfeng/AdbGPT,,candidate,,,,2026-11-05T21:12:58Z
@@ -874,7 +859,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:snap-stanford/mlagentbench,,,https://github.com/snap-stanford/MLAgentBench,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:softwaretestingllms/webtestingwithllms,,,https://github.com/SoftwareTestingLLMs/WebtestingWithLLMs,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:sotopia-lab/sotopia,,,https://github.com/sotopia-lab/sotopia,,candidate,,,,2026-10-17T02:44:04Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:sparklabutah/timewarp,,,https://github.com/sparklabutah/timewarp,,candidate,,,,2026-10-16T06:35:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:stanfordvl/omnigibson,,,https://github.com/StanfordVL/OmniGibson,,candidate,,,,2026-10-16T10:42:12Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:steel-dev/steel,,,https://github.com/steel-dev/steel,,candidate,,,,2026-11-05T21:12:51Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:steel-dev/steel-cookbook,,,https://github.com/steel-dev/steel-cookbook,,candidate,,,,2026-10-16T06:36:04Z
@@ -923,7 +907,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:uiuc-kang-lab/elt-bench,,,https://github.com/uiuc-kang-lab/ELT-Bench,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:ultraworkers/claw-code,,,https://github.com/ultraworkers/claw-code,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:ungoogled-software/ungoogled-chromium,,,https://github.com/ungoogled-software/ungoogled-chromium,,candidate,,,,2026-10-17T03:59:54Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:unmodeled-tyler/vessel-browser,,,https://github.com/unmodeled-tyler/vessel-browser,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:upsonic/upsonic,,,https://github.com/upsonic/upsonic,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:ux-decoder/segment-everything-everywhere-all-at-once,,,https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once,,candidate,,,,2026-10-16T06:36:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:ux-decoder/semantic-sam,,,https://github.com/UX-Decoder/Semantic-SAM,,candidate,,,,2026-10-16T06:36:04Z
@@ -942,7 +925,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:walkinglabs/awesome-harness-engineering,,,https://github.com/walkinglabs/awesome-harness-engineering,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:warmwindos/pointerbench,,,https://github.com/warmwindOS/pointerbench,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:waynchi/gui-agent,,,https://github.com/waynchi/gui-agent,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:web-arena-x/webarena-infinity,,,https://github.com/web-arena-x/webarena-infinity,,candidate,,,,2026-11-06T15:44:27Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:web-infra-dev/midscene-example,,,https://github.com/web-infra-dev/midscene-example,,candidate,,,,2026-10-16T06:40:53Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:web-infra-dev/rsbuild,,,https://github.com/web-infra-dev/rsbuild,,candidate,,,,2026-10-16T06:40:53Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:web-infra-dev/rslib,,,https://github.com/web-infra-dev/rslib,,candidate,,,,2026-10-16T06:40:53Z
@@ -954,7 +936,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:worldmodelbench-team/worldmodelbench,,,https://github.com/WorldModelBench-Team/WorldModelBench,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:wq19901103wq/wechat-mac-rpa,,,https://github.com/wq19901103wq/wechat-mac-rpa,,candidate,,,,2026-11-03T00:39:07Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:wuchiuwong/crashtranslator,,,https://github.com/wuchiuwong/CrashTranslator,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:wxl-lxw/websentinel,,,https://github.com/wxl-lxw/WebSentinel,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:xiaomi/mobilesteward,,,https://github.com/XiaoMi/MobileSteward,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:xnancy/russ,,,https://github.com/xnancy/russ,,candidate,,,,2026-11-05T21:12:56Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:xnhyacinth/awesome-llm-long-context-modeling,,,https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling,,candidate,,,,2026-10-18T11:53:46Z
@@ -971,23 +952,19 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:yueqis/api-based-agent,,,https://github.com/yueqis/API-Based-Agent,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:yxb-nku/se-gui,,,https://github.com/YXB-NKU/SE-GUI,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zackhuiiiii/winspot,WinSpot,,https://github.com/zackhuiiiii/WinSpot,,candidate,,,Primary README and repository tree reviewed; the benchmark data release is still pending.,2026-10-16T06:31:06Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zai-org/glm-v,,,https://github.com/zai-org/GLM-V,,candidate,,,,2026-10-16T06:40:53Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zcczhang/uvd,,,https://github.com/zcczhang/UVD,,candidate,,,,2026-10-16T06:40:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zhangruotian/conclick,,,https://github.com/zhangruotian/ConClick,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zhangxjohn/llm-agent-benchmark-list,,,https://github.com/zhangxjohn/LLM-Agent-Benchmark-List,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zhangzjn/gpt-4v-ad,,,https://github.com/zhangzjn/GPT-4V-AD,,candidate,,,,2026-10-16T06:36:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zju-aces-ise/chatuitest,ChatUITest / GTArena project hub,,https://github.com/ZJU-ACES-ISE/ChatUITest,,candidate,,,"The fresh README remains under construction and says the dataset is being organized/uploaded. The tree has only README.md, and the linked GTArena-UI-Defects API and raw card return 401. No access request was made. UIDefectMocker is already cataloged separately.",2026-10-16T06:31:04Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zjulihongxin/autogui,,,https://github.com/ZJULiHongxin/AutoGUI,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zjunlp/llmagentpapers,,,https://github.com/zjunlp/LLMAgentPapers,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zlwang-cs/officebench,,,https://github.com/zlwang-cs/OfficeBench,,candidate,,,,2026-11-05T21:12:56Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zorazrw/agent-skill-induction,,,https://github.com/zorazrw/agent-skill-induction,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zzxslp/mm-navigator,MM-Navigator,,https://github.com/zzxslp/MM-Navigator,,candidate,,,"The fresh README still says code and the evaluation benchmark will be out soon. The public tree contains call_gpt4.py and eval.py, but no benchmark release or usage/dependency documentation sufficient to validate a usable agent artifact. Preserve the paper separately.",2026-10-16T06:31:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,github:zzxslp/som-llava,,,https://github.com/zzxslp/SoM-LLaVA,,candidate,,,,2026-10-16T06:36:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:00f5bfd8c7991012a183,,,https://huggingface.co/XinBB/SE-GUI-7B,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:013bb9256ca6ad5188be,,,https://huggingface.co/datasets/bevaya/RICO-WidgetCaptioning,,candidate,,,,2026-11-05T21:13:17Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:01b9e39cd2526d41c527,,,https://huggingface.co/datasets/ServiceNow/WorkArena-Instances,,candidate,,,,2026-10-16T06:35:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0210d8713fd41ca1448f,,,https://stagehand.dev,,candidate,,,,2026-11-05T21:12:51Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0215ac11aef3c65f013a,WebArbiter: A Generative Reasoning Process Reward Model for Web Agents,,https://proceedings.iclr.cc/paper_files/paper/2026/hash/c8bd227b32b458970d3ab01a2c372055-Abstract-Conference.html,,candidate,,,,2026-10-17T04:06:26Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0223f8e98e36ff7230d7,,,https://aclanthology.org/2026.emnlp-main.904,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:02e374ac3c9ca66b15c0,,,https://doi.org/10.1007/978-3-032-37359-5_2,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:031c86eaad2b766793d4,,,https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence,,candidate,,,,2026-11-05T21:12:59Z
@@ -996,55 +973,37 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:03a1b48da07b5cca42f7,,,https://x-lance.github.io/META-GU,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:03f2751f04d07922dd1a,,,https://huggingface.co/THUDM/glm-4v-9b,,candidate,,,,2026-10-16T06:36:00Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:03f39d1acfb90b114e66,,,https://drive.google.com/file/d/1z7t8FCpilsGl40G3X1r-kLNa2qIeF2Ri/view,,candidate,,,,2026-11-05T21:13:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:03ffa3f28413bc2edb1b,,,https://huggingface.co/datasets/iMeanAI/Mind2Web-Live,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:040e17448d9d190b3c14,,,https://www.dassi.ai,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0447e1fb83a794507aa2,,,https://huggingface.co/ByteDance-Seed/UI-TARS-72B-DPO,,candidate,,,,2026-11-05T21:13:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:046e1da89f0ed827f97e,,,https://learn.microsoft.com/en-us/windows/apps/design/accessibility/accessibility,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:04aa1676109fadcf66c7,,,https://huggingface.co/xlangai/RoboFine-VLM-397B-A17B,,candidate,,,,2026-11-05T21:13:20Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:04cecf61ea3f0c70ab7a,,,https://drive.google.com/file/d/1F5R0NmEeHc-VysE0my_dzwA2b2-xHa1M/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:05677dbf44b8ca827534,,,https://openreview.net/forum?id=9hM4YRMhfT,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0579bd92efb87b26cb15,,,https://doi.org/10.20944/preprints202611.0431.v1,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:058cb7a92cba506f9739,,,https://huggingface.co/extreme1228/ScaleCUA-qwen3-vl-scienceboard-sft,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0596dd7e97fd30abaadc,,,https://gbox.ai,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:05a9a7c592089d1ddd46,,,https://huggingface.co/datasets/X-LANCE/META-GUI,,candidate,,,,2026-10-17T15:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:05dde0b8766744e94e07,,,https://coasty.ai,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:060c9288c7197c5a188e,,,https://huggingface.co/datasets/bevaya/RICO-ScreenQA-Short,,candidate,,,,2026-11-05T21:13:17Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:06f6618d8f95f3d041cf,,,https://www.theagi.company/blog/android-world,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:07036d368efb7066b1e6,,,https://huggingface.co/THUDM/chatglm3-6b,,candidate,,,,2026-10-16T06:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0772193ae2967c407d22,,,https://huggingface.co/datasets/ai2lumos/lumos_web_agent_plan_iterative,,candidate,,,,2026-11-05T21:13:16Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:07b42897bcfe1df03f6b,,,https://aclanthology.org/2026.findings-acl.876,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:07e274077af6ea9fd5f9,,,https://aclanthology.org/2024.emnlp-demo.20,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:07f92766e53439739eab,,,https://www.accio.com/work,,candidate,,,,2026-10-16T06:31:06Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0919e695670c5740a123,,,https://huggingface.co/extreme1228/ScaleCUA-qwen3.5-osworld,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0a69e9304845c8cf6368,,,https://ijcai.org/proceedings/2024/339,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0af1cb682ad435acd031,,,https://drive.google.com/file/d/1qlw5ejuNw_q6gf4iz3Vycc3QL8ArCVkY/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0b0a7a841d65715d60b1,,,https://huggingface.co/wuuuuuz/VeriOS-Agent-7B,,candidate,,,,2026-10-18T10:59:55Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0b3bb9fac5b0ba9777b8,,,https://huggingface.co/Fintor/Fintor-GUI-S2,,candidate,,,,2026-11-05T21:13:14Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0b94b29f2afbfe8a3abb,,,https://huggingface.co/mPLUG/GUI-Owl-1.5-2B-Instruct,,candidate,,,,2026-11-05T21:13:14Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0c400260635b7e4ab7c0,,,https://huggingface.co/microsoft/GUI-Actor-3B-Qwen2.5-VL,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0c69fd920263b8a72a72,,,https://fluiz.ai/benchmark,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0c845d69c9498dd4e20c,,,https://www.interactionmining.org,,candidate,,,,2026-11-05T21:12:57Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0c9ce9f220b2fdfd70b0,,,https://huggingface.co/Hcompany/Holo-3.1-35B-A3B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0cfe6a21d9878eb65905,,,https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_HiconAgent_History_Context-aware_Policy_Optimization_for_GUI_Agents_CVPR_2026_paper.pdf,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0d59fad15a88f5d5bc50,,,https://yaoz720.github.io/WebPilot,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0e5617031e625a75cfc7,,,https://huggingface.co/JackBAI/aitw-general-digiq-agent,,candidate,,,,2026-10-16T11:09:28Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0fa046456844d3d7ca17,,,https://help.aliyun.com/zh/ecp/quickly-experience-and-create-cloud-phone-mobileclaw,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:0fab507373a27fb838c1,,,https://aclanthology.org/2025.findings-acl.501,,candidate,,,,2026-11-05T22:45:57Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:108b77e28d55eb662bf5,,,https://www.cekura.io,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:10a75e1b7b975b3617ae,,,https://huggingface.co/datasets/anaisleila/computer-use-data-psai,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:10eaa990a15339bcaac9,,,https://modelscope.cn/models/iic/GUI-Owl-1.5-8B-Think,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:114523fae0e48b7d2abf,,,https://openreview.net/pdf?id=ri3yPWE21Q,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:116431f8ea32dbc6d637,,,https://huggingface.co/datasets/webagentlab/webchain-legacy,,candidate,,,,2026-11-05T21:13:16Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:12470a40c8f82ef0294a,,,https://huggingface.co/Hobbylm/hobbylm-1B-computer-use,,candidate,,,,2026-11-05T21:13:14Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:12aac8cced48c576a0a7,,,https://halligan.pages.dev,,candidate,,,,2026-10-16T06:31:39Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:12b7193b8a6b737a83de,,,https://openaccess.thecvf.com/content/CVPR2023/html/Gu_Mobile_User_Interface_Element_Detection_via_Adaptively_Prompt_Tuning_CVPR_2023_paper.html,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:12d789d450207bd6d5da,Project Mariner,,https://labs.google.com/mariner/,,candidate,,,"The Project Mariner page on labs.google.com is a client-rendered sign-in shell whose HTML carries only the title, and the former deepmind.google Project Mariner pages now redirect to the DeepMind homepage. Approval needs a readable first-party product page.",
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:140440464f9396626bd6,,,https://www.simonsfoundation.org,,candidate,,,,2026-11-06T02:19:50Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:146edbaee6701bdb6ee0,,,https://huggingface.co/datasets/NAIL-Group/ClawBench,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:14c4be64bd1f26f65ce0,,,https://results.cuga.dev,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:14cc3d2e3db0cc7ac355,,,https://research.nvidia.com/labs/cosmos-lab/pbench,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:14e2ee35b878b77c721d,,,https://browse.ai,,candidate,,,,2026-11-05T21:12:51Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1517e989c470563bd08d,,,https://huggingface.co/datasets/McGill-NLP/WebLINX,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:15e591c29547ee84e32c,,,https://modelscope.cn/models/extreme1228/ScaleCUA-glm4.6v-scienceboard,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1683822251d71905d96c,,,https://proceedings.mlr.press/v306/gurbuz26a.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:16a5ccde8bb16cda19ff,,,https://huggingface.co/datasets/wuuuuuz/VeriOS-Bench,,candidate,,,,2026-10-18T10:59:55Z
@@ -1052,24 +1011,19 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:16e3c4ad9cae49d54205,,,https://drive.google.com/file/d/19llLwbfmjJIAACxpbXVKdRdvITsLhcG8/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:16f4a8903de0f90d3638,,,https://aclanthology.org/2026.findings-eacl.144,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1755be0aee1be40218ac,,,https://www.researchgate.net/publication/375145282_Automated_GUI_Testing_for_Enhancing_User_Experience_UX_A_Survey_of_the_State_of_the_Art,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:17a0422036ebea8d4e93,,,https://huggingface.co/mPLUG/GUI-Owl-1.5-4B-Instruct,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:17be58535d41dae7712c,,,https://jayoohwang1.github.io/webchallenger-site,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:17ee9f8ee43584f2a545,,,https://qwen.ai/blog?id=qwen3.5,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1807bdb33fc352a97240,,,https://huggingface.co/extreme1228/ScaleCUA-qwen3-vl-osworld,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:186a75a29c31b015722c,,,https://huggingface.co/datasets/shuaishuaicdp/GUI-World,,candidate,,,,2026-10-17T15:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:18816edf464a073a0120,,,https://www.anthropic.com/news/claude-sonnet-4-5,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:18990c841bac0160943e,,,https://ieeexplore.ieee.org/abstract/document/10638557,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1a20a291c766bd4e6861,,,https://www.adept.ai/blog/adept-fuyu-heavy,,candidate,,,,2026-10-16T06:31:07Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1a54e63277eaffdaef57,,,https://huggingface.co/SugarVapeur/OpenGUI-2B,,candidate,,,,2026-10-16T06:36:03Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1aa4168c796c15476b97,,,https://www.strawberrybrowser.com,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1acfdb78e5c799ab47af,,,https://openreview.net/forum?id=XMNElrezif,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1b2091d717c977d4f8b9,,,https://huggingface.co/datasets/Yuxiang007/AMEX,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1b2bfa31a560671d4b8e,,,https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1b5f2aaddbd3fb3699c7,,,https://drive.google.com/file/d/1NITEkiYb3itSq46I8BYsmzefEddzYbqm/view?usp=sharing,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1bd0500d1ec59e8873fd,,,https://www.mininglamp.com/news/6394,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1c0a2ce1faf3017fa0c5,,,https://www.researchgate.net/profile/Kabir-Said/publication/353394632_GUI_testing_for_mobile_applications_objectives_approaches_and_challenges/links/623b5c14f559847a66144973/GUI-testing-for-mobile-applications-objectives-approaches-and-challenges.pdf,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1c2f4e3b793a65d05a04,,,https://qwen.ai/blog?id=qwen3.7,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1c4a0389ace7c5cb8a4b,,,https://huggingface.co/datasets/xlangai/osworld_v2_tasks,,candidate,,,,2026-10-16T06:36:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1c8d26faae28892bfde7,,,https://huggingface.co/OpenGVLab/InternVL2-8B,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1e2eff55933592f2a47e,,,https://www.fonearena.com/blog/438680/honor-magicos-9-0-features.html,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1e447a8fdfd9057b8e2b,,,https://agentvista-bench.github.io,,candidate,,,,2026-11-05T21:12:48Z
@@ -1078,20 +1032,16 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1f901188522b397bf650,,,https://huggingface.co/blog/HelloKKMe/grounding-r1,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:1fc898b37eb62728008b,,,https://drive.google.com/file/d/1fXNamXtbXwZKiSOhoAEUmHQoJ3biOffQ/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:201ae8eff927cbcb4fff,,,https://drive.google.com/file/d/1rQelSpJAtiyQz6V9CK4ZrUXKIwvMqi_S/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:20e3e42bfd3d9fd4fcf7,,,https://www.uipath.com/newsroom/uipath-screenagent-osworld-benchmark-top-ranking,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:20e9d0e734a8fb4e4f9a,,,https://huggingface.co/Qwen/Qwen3.6-27B,,candidate,,,,2026-10-17T01:48:51Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:20fa95f00391bf965af2,,,https://huggingface.co/datasets/L1007555652/osworld_env,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:21687e3bf1eb78f2bcda,,,https://huggingface.co/microsoft/Phi-Ground-Any,,candidate,,,,2026-10-16T06:36:00Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:21ad6495d0a85b0f9c40,,,https://openaccess.thecvf.com/content/CVPR2025W/TMM-OpenWorld/html/Zhao_On_the_Robustness_of_GUI_Grounding_Models_Against_Image_Attacks_CVPRW_2025_paper.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2288d029e19cf2cee726,,,https://drive.google.com/file/d/1zLDr1jpp3fOMP2y5Dxo1Rk6J_iO5Zn-N/view,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:235fcffdba6c917702ea,,,https://huggingface.co/WebShepherd/web-shepherd-base,,candidate,,,,2026-10-17T02:44:04Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:23bc63f93d3c31d74af3,,,https://huggingface.co/RhapsodyAI/qwen_vl_guidance,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2421e1078e87c6a7606e,,,https://openaccess.thecvf.com/content/WACV2026/papers/Anand_AFRAgent__An_Adaptive_Feature_Renormalization_Based_High_Resolution_Aware_WACV_2026_paper.pdf,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2462fb9d529bac7fa896,,,https://huggingface.co/opencsg/OpenCSG-Qwen2.5-7B-GUI,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:24a139a7910431441e39,,,https://link.springer.com/chapter/10.1007/978-3-030-85347-1_34,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:24bc39ed487b311108ae,,,https://openai.com/index/operator-system-card,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:24e8249f44ed3ae5a606,,,https://www.simular.ai/agent-s,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:255e1ea24461c1f205eb,,,https://www.webfuse.com,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2574c6eeee264762a990,,,https://www.sciencedirect.com/science/article/abs/pii/S0166361519304609,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:25af759a783f1514fe58,,,https://huggingface.co/datasets/zdy023/WikiHow-taskset,,candidate,,,,2026-10-16T06:36:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:25d827c3632ae849bd7a,,,https://huggingface.co/datasets/PersonalAILab/AFM-WebAgent-SFT-Dataset,,candidate,,,,2026-11-05T21:13:16Z
@@ -1099,7 +1049,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:26967e4abc3b6348ed39,,,https://huggingface.co/Samsung/TinyClick,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2707e88c7742521bd4cc,,,https://drive.google.com/file/d/1KSYs7ZOhEkjBQX5UnMpLkbxZZ6BLhbDm/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:276295a625ab6e2deb62,,,https://internvl.github.io/blog/2024-07-02-InternVL-2.0,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:27b91e7a2c0dec5cdaf9,,,https://huggingface.co/datasets/OS-Copilot/OS-Genesis-web-data/blob/main/os_genesis_web_training.jsonl,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2803eda78cff23fb63cc,,,https://huggingface.co/xlangai/OpenCUA-7B,,candidate,,,,2026-11-05T21:13:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:280f2ab56bbc0b630d81,,,https://huggingface.co/xlangai/VideoAgentTrek-IDM-s1-7B,,candidate,,,,2026-11-05T21:13:20Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2866edbea80fa34aa684,,,https://huggingface.co/Aria-UI/Aria-UI-base,,candidate,,,,2026-10-16T06:36:00Z
@@ -1109,8 +1058,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2af250798e99e7af01ce,,,https://dl.acm.org/doi/abs/10.1145/3701551.3707420,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2b896fc035acb1f07b2d,,,https://www-cdn.anthropic.com/0f0c97ad20d8005706296bd92aa1c27c6b2f4f61.pdf,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2bab4b78c81cde1d5ecb,,,https://huggingface.co/datasets/Fanbin/waa_steve_trajectories,,candidate,,,,2026-10-16T13:14:29Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2bd73599d3208690b758,,,https://aclanthology.org/2025.acl-long.369,,candidate,,,,2026-10-17T15:36:03Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2be7f81cdca0eb8566c6,,,https://huggingface.co/OS-Copilot/OS-Genesis-8B-AC,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2c132b15d11765e213b0,,,https://proceedings.mlr.press/v306/liu26bs.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2c7d8f8d189045bbdf5e,,,https://seed.bytedance.com/en/seed1_8,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2cee3a54e604fc22c415,,,https://docs.obscura.sh/guides/use-the-mcp-server,,candidate,,,,2026-11-05T21:12:52Z
@@ -1118,7 +1065,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2e88b52ca1717a28fd32,,,https://huggingface.co/xlangai/VideoAgentTrek-IDM-s2-7B,,candidate,,,,2026-11-05T21:13:20Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2e8bba756c71f9fe3fbd,,,https://huggingface.co/datasets/jdy18/TreeCUA-Datasets,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2eaafb0b5ecde3babbf1,,,https://ojs.aaai.org/index.php/AAAI/article/view/40038,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2eaf614de14193997f33,,,https://huggingface.co/OS-Copilot/OS-Genesis-8B-AW,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2ef54ae268050ea7fe71,,,https://www.servicenow.com/research/publication/suyuchen-wang-impr-colm2026.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2f2a616f1959377bb3b9,,,https://zetalabs.ai,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2f2e38f240a36f31b631,,,https://huggingface.co/xlangai/Jedi-3B-1080p,,candidate,,,,2026-11-05T21:13:19Z
@@ -1128,40 +1074,29 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2fad1ab6fc212a80972e,,,https://openaccess.thecvf.com/content/ICCV2025/html/Chen_Less_is_More_Empowering_GUI_Agent_with_Context-Aware_Simplification_ICCV_2025_paper.html,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2fb3de0d67b0f2a4c881,,,https://huggingface.co/listen2you002/ChartLlama-13b,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:2fb62f419d4dc1abcb07,,,https://huggingface.co/datasets/ST-WebAgentBench/st-webagentbench,,candidate,,,,2026-11-05T21:13:16Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:303e1926b8ff4f60e006,,,https://huggingface.co/AskUI/PTA-1,,candidate,,,,2026-10-16T06:31:06Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3074228a6c92ae8056bf,,,https://aclanthology.org/2024.findings-naacl.89,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:307838fec5f74218b032,,,https://www.browse.ai,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:30901b60f8d142805b77,,,https://developer.apple.com/library/archive/documentation/Accessibility/Conceptual/AccessibilityMacOSX/OSXAXmodel.html,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3101e0d216a367405990,,,https://drive.google.com/file/d/1-32Vw7fRRJYrYXS5mLGb-0dAz96e750D/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3173abbb295c74d0e9ec,,,https://huggingface.co/osunlp/Dreamer-7B-Shopping,,candidate,,,,2026-10-16T11:09:28Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3191e1cd66b9559e2a56,,,https://mmsearch-plus.github.io,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:31a0bef564bdd832b648,,,https://drive.google.com/file/d/1W7pE3omDKGxKV07AYj1rdDC8iWQBoQUi/view?usp=sharing,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:32591a8d37850dd6bfad,,,https://doi.org/10.18653/v1/2025.emnlp-main.212,,candidate,,,,2026-11-05T22:45:57Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3278c8320e76b3cefbe9,,,https://webarena.dev/webarena-infinity,,candidate,,,,2026-10-16T06:31:39Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3315b5f3f10e62504135,,,https://webagent.cloud,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3319ddbbb97c466b741c,,,https://doi.org/10.1145/3746027.3755688,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:334c6982550e44f03ab6,,,https://modelscope.cn/models/extreme1228/ScaleCUA-qwen3-vl-osworld-sft,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:339e28b1f939ae45f9fe,,,https://huggingface.co/datasets/OpenGVLab/MMBench-GUI,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:33aa68f2795aa1bc9da2,,,https://tongxuluo.github.io/gamecraft-bench-website,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3452cef2f99d7de2935a,,,https://huggingface.co/datasets/TIGER-Lab/ClawBenchV2Trace,,candidate,,,,2026-10-18T11:53:46Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:346ca54794cbdffc8797,,,https://huggingface.co/datasets/xlangai/ubuntu_osworld,,candidate,,,,2026-10-16T06:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:34bd367ba07c44cffb71,,,https://drive.google.com/drive/folders/1j-YVzEGAGWxXgse75MCnhUCTVuejM76A?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3525ab48f647399dac41,,,https://drive.google.com/file/d/1vUWlXVenkOc5F1s-z8DdpfU4Y5fUMssr/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:354c5b46fd423f9b1b85,,,https://huggingface.co/Hcompany/Holo4-27B-FP8,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:35c96d9e92b3b1d96304,,,https://balrog-benchmark.github.io,,candidate,,,,2026-10-18T10:50:21Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3621f3c17139e088de5b,,,https://drive.google.com/drive/folders/141YuDFtt502NhufbVL4YH463TZ4VFb2v,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:364b8e0799f02820e8c2,,,https://doi.org/10.1109/cvpr52733.2024.01369,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3670e55b165899def52a,,,https://openreview.net/forum?id=1XLjrmKZ4p,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:369456114b26b0ff0a05,,,https://huggingface.co/datasets/kuangtie/GUI-Robust,,candidate,,,,2026-10-16T10:43:11Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:36a7cba41056d46cdcde,,,https://aclanthology.org/2024.naacl-industry.9,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:374138c6e18c9f1dd44a,,,https://huggingface.co/mPLUG/GUI-Owl-1.5-8B-Think,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:37570eed422d326bfa5a,,,https://huggingface.co/SenseLLM/SpiritSight-Agent-2B,,candidate,,,,2026-10-17T02:02:28Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3770fe50132bf95013d4,,,https://scai.cs.jhu.edu/projects/RealWebAssist,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:377f5418e39ff2da971f,,,https://dl.acm.org/doi/abs/10.1145/3664647.3684998,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:380a6eedcb4de7778e88,,,https://huggingface.co/datasets/osunlp/Mind2Web,,candidate,,,,2026-11-05T21:13:16Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:38672ac9af2e25fbfb58,,,https://huggingface.co/MadeAgents/ColorGUI-32B,,candidate,,,,2026-10-16T06:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3888a4042043fb547705,,,https://huggingface.co/InfiX-ai/InfiGUI-G1-3B,,candidate,,,,2026-10-16T06:36:00Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:38942453b2b7018c0d01,,,https://huggingface.co/Hcompany/Holo2-8B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:396e9c77f2dc44adfe45,,,https://docs.agentql.com,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:39b6206623a4ab2f7754,,,https://devin.ai,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:39e2c5ffc66973110bd0,,,https://aclanthology.org/2025.emnlp-main.1334,,candidate,,,,2026-11-05T22:45:57Z
@@ -1178,7 +1113,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3dc0d9794cbbe59234dc,,,https://webarena.dev/og,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3de462101e2339385a5c,,,https://drive.google.com/file/d/1XJiHGMJvExo0c_kFI6SRGpoGBPvInLDR/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3de50fa3eee0081d31ac,,,https://huggingface.co/datasets/xlangai/osworld_v2_assets_gated,,candidate,,,,2026-10-16T06:36:04Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3e1a864c46c8ed5735d4,,,https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3e58eecd59c404508757,,,https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2.5-VL,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3f0b6c9a899f808d7f6f,,,https://drive.google.com/file/d/1e7SCYqpxFX2FCGEOhf6jcVvwkx3leIKf/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:3f2c04ccebb7eb5ad05e,,,https://drive.google.com/file/d/1msv8AcdvAR1cm1aDOi_HArlgTKzcYGys/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
@@ -1186,53 +1120,38 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:40434e0457c028fff37a,,,https://drive.google.com/drive/folders/1GvNXwDt5_U-ned49urVlOFj1FBi86ddT?usp=sharing,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4053e29cc54fd605a33f,,,https://zhuanlan.zhihu.com/p/1914038712540574158,,candidate,,,,2026-10-16T06:35:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:40795d2c86388ae89f43,,,https://paper-submission-anoymous.github.io/webtactix_introduction,,candidate,,,,2026-11-05T21:13:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:40ce19527f25bfa3bd63,,,https://huggingface.co/datasets/ONE-Lab/GUI-World,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:410c7bc0b6963a55f9e0,,,https://drive.google.com/file/d/1a0MlQNM7UmUcM5Fpezet3TkLKVFvWX3e/view?usp=sharing,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:412c168dd5d0aeded46a,,,https://ieeexplore.ieee.org/abstract/document/10132233,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:41556fece3bf8a2419ba,,,https://microsoft.github.io/autogen/stable/reference/python/autogen_ext.agents.web_surfer.html,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:41c0112aa5be6dd81df5,Sentius,,https://www.sentius.ai,,candidate,,,"primary evidence unresolved: HTTP Error 404: Not Found; Listed by e2b-dev/awesome-ai-agents (README at commit 9596ab1e69fb, line 5146, retrieved 2026-11-05). That list is not a registered discovery source because only about 14 of its 215 entries are interface agents. Relevance, kind and summary await editorial review.",
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:41dc9dfd6da3a1a19c50,,,https://aclanthology.org/2024.naacl-industry.9.pdf,,candidate,,,,2026-10-16T06:31:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:42243f48f7f0a636adf0,,,https://drive.google.com/file/d/1EOt8qzzQT0djkRZkTcVC7t1UvOPRyyyx/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:430ca8e90c918ff2e260,,,https://doi.org/10.1007/s11704-024-40231-1,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:437b30f72193860c9178,,,https://drive.google.com/file/d/1FP7U6QlGn1NUqQucLnUzKy_IfKotYQb1/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4395ff8522cd77109b83,,,https://openreview.net/forum?id=BK7Mk5d4WE,,candidate,,,,2026-10-16T06:31:39Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:43d811a5957d8effb7ed,,,https://huggingface.co/HanXiao1999/UI-Genie-Agent-3B,,candidate,,,,2026-10-17T03:59:54Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:43f98379902167a5f9f3,,,https://huggingface.co/osunlp/MindAct_CandidateGeneration_deberta-v3-base,,candidate,,,,2026-10-16T06:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:44083141a8f3d05b7a54,,,https://huggingface.co/Ole1/Joy_Caption_Batch-GUI,,candidate,,,,2026-11-05T21:13:14Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:44827a16f49e65ba8fb3,,,https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:44ae1a243bd098acbecf,,,https://huggingface.co/datasets/HongxinLi/ScreenSpot_v2,,candidate,,,,2026-11-05T21:13:17Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:45dabd68921824b298ca,,,https://lite.ego.app,,candidate,,,,2026-11-05T21:12:52Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:461125e2d6ac2f030f6b,,,https://huggingface.co/vocaela/KV-Ground-8B-BaseGuiOwl1.5-0315,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:47514bad30b684cba406,,,https://papers.nips.cc/paper_files/paper/2025/hash/89dcbea9f19960edd7765068adb13b1d-Abstract-Conference.html,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:47d573658579130846f5,,,https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176591818.87526814,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4a02d9ade37b6a0e18bc,,,https://proceedings.mlr.press/v306/jin26m.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4a786c2f07fa142a1071,,,https://huggingface.co/bartowski/stepfun-ai_GELab-Zero-4B-preview-GGUF,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4b14e9e120942a830f6a,,,https://hcompai.github.io/android-world-traces,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4b66957b9799a9e3decc,,,https://huggingface.co/jadechoghari/Ferret-UI-Llama8b,,candidate,,,,2026-11-05T21:13:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4b6d61ff2c1d6c8e1a23,,,https://huggingface.co/Tongyi-MAI/MAI-UI-2B,,candidate,,,,2026-10-17T04:11:45Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4b747a376f628e6f9760,,,https://huggingface.co/datasets/yfan1997/ScreenPR,,candidate,,,,2026-10-16T10:43:11Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4bcb6a451d6f4d25343c,,,https://huggingface.co/extreme1228/ScaleCUA-glm4.6v-scienceboard,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4bece2c969edcdfc2e8d,,,https://qwenlm.github.io/blog/qwen2.5-vl,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4cfbb0e916842a07d102,,,https://www.figma.com/deck/rsWK4sRl0dOahG59bfMhql,,candidate,,,,2026-10-18T10:49:00Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4d4061dc10c2f57d0b03,,,https://aclanthology.org/2026.emnlp-main.2703,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4de86d85a85f7ca4d0e5,,,https://huggingface.co/xlang-ai/aguvis-7b,,candidate,,,,2026-10-18T10:50:21Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4e0b986e0daac173b0e0,,,https://openaccess.thecvf.com/content_cvpr_2018/html/Yu_MAttNet_Modular_Attention_CVPR_2018_paper.html,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4e9e46b2c7a0a21e130d,,,https://huggingface.co/Hcompany/Holo-3.1-9B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4eb7c4864c423e418fd5,,,https://blog.google/technology/google-deepmind/gemini-computer-use-model,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4ec03078d3169fe59abb,,,https://www.anthropic.com/news/claude-4,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4ed986fbfacac80c8ed2,,,https://zhuanlan.zhihu.com/p/14143950360n,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4f3ce151a13cba635e74,,,https://www.rtrvr.ai,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4f4c4f0bf0cec93c59d1,,,https://huggingface.co/datasets/osunlp/Mind2Web-2,,candidate,,,,2026-10-16T06:31:06Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4f4e7c972e678f1d8c48,,,https://www.trykura.com,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:4fada3187f0d1d1efbe5,,,https://huggingface.co/Tongyi-MiA/UI-Ins-32B,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:50089323623ee780a426,,,https://www.minimaxi.com/blog/minimax-m3,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:50501b63a93c611d6e54,,,https://huggingface.co/extreme1228/ScaleCUA-qwen3-vl-osworld-sft,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5059adec7d4bc2e9b59f,,,https://openreview.net/pdf?id=OiyEjThGeZ,,candidate,,,,2026-11-05T20:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:50625a71c522e4cee838,,,https://huggingface.co/Qwen/Qwen3.5-0.8B,,candidate,,,,2026-10-17T01:48:10Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:50d19ac4a18a3844f303,,,https://drive.google.com/file/d/17VvochIjiu10i_EnoX1iRHqWQnjZj3--/view?usp=sharing,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5111e36397500e75c675,,,https://www.skyvern.com/docs/api-reference/api-reference/agent/run-task,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:511ba336435d406f3761,,,https://huggingface.co/apurvaga/nnetnav-wa-qwen-7B,,candidate,,,,2026-10-17T02:44:04Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:51289d2105ef35fd0265,,,https://www.beam.cloud,,candidate,,,,2026-10-16T06:31:07Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:521b609987e90ab5f283,,,https://drive.google.com/file/d/1YRc_8unBHkLrl505K2eeIMIQwOTYkaRe/view?usp=drive_link,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:52700cddca5e275298d0,,,https://huggingface.co/Qwen/Qwen3.5-4B,,candidate,,,,2026-10-17T01:48:10Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5281c8befef1059590f3,,,https://huggingface.co/JackBAI/aitw-webshop-digiq-agent,,candidate,,,,2026-10-16T11:09:28Z
@@ -1252,31 +1171,20 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:55e1984776b99054def2,,,https://huggingface.co/datasets/jacklishufan/android_control,,candidate,,,,2026-10-16T06:40:51Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:566bd1469811983951f3,,,https://huggingface.co/Hcompany/Holo-3.1-35B-A3B-FP8,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:567051a6abc1f94bf026,,,https://docs.apify.com/api/v2,,candidate,,,,2026-11-05T21:12:52Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:56b5936190d20fa3d1c1,,,https://huggingface.co/datasets/neulab/Mind2Web_bbox_eval,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:572bc813fe272b86c5eb,,,https://docs.olostep.com,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:574bf552290714f1c944,,,https://agent-reward-bench.github.io,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:579b1c0ceac633eeb328,,,https://huggingface.co/ONE-Lab/GUI-Vid,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:586d0219d6d553162b54,,,https://drive.google.com/file/d/1t7J2lPIGIhinaQubMD5tlzT8gtX-7bpp/view?usp=drive_link,,candidate,,,,2026-11-05T21:13:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:592e434848a1514efef0,,,https://huggingface.co/neulab/UIX-Qwen2-Mind2Web,,candidate,,,,2026-10-16T06:36:01Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5a073f50270c4f316ce5,,,https://huggingface.co/datasets/markov-ai/computer-use,,candidate,,,,2026-11-05T21:13:14Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5a63318fd49cbcc84ad1,,,https://twin.so,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5aa01cb259a5d9a07d6e,,,https://starizon.ai,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5c1f2a751afd466962af,,,https://ojs.aaai.org/index.php/AAAI/article/view/38816,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5cf19ea05a01f8229167,,,https://huggingface.co/Qwen/Qwen3.6-35B-A3B,,candidate,,,,2026-10-17T04:11:45Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5cfd441becdfc6ea622b,,,https://openreview.net/forum?id=3x4SDbXbgl,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5dcfc5e88f61e077a237,,,https://arxiv,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5dee94ea2f0447570b1f,,,https://programmingwithpixels.com,,candidate,,,,2026-11-05T21:12:57Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5e49beb489138a314ed3,How Dark Patterns Manipulate Web Agents,,https://proceedings.iclr.cc/paper_files/paper/2026/hash/9afca5107064eb89546fabb4abc379a7-Abstract-Conference.html,,candidate,,,,2026-10-17T04:06:26Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5e9ac65f43e2c369f30c,,,https://browsegpt.ai,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5ea6ce5946c177685cfd,,,https://docs.crawl4ai.com,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5f14c1ba649104a803c8,,,https://drive.google.com/file/d/1geppLqwV80p66bXdffVBbLayjCkIQ9mk/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5f17f0963ced211e83c6,,,https://aclanthology.org/2025.findings-acl.1158,,candidate,,,,2026-10-17T15:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5f211a7eba35415ea382,,,https://cua.ai/blog/neurips-2025-cua-papers,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5f2e4dc26a67e5d4b8b2,,,https://player-1-project.github.io,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5f44d1ed094418f9ea91,,,https://drive.google.com/file/d/17jgZEjslxIZPC5kuzOq6oTK5EuDiJ-_l/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:5f7e55313246edf727bf,,,https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:601baa7f9e07a183de77,,,https://modelscope.cn/models/extreme1228/ScaleCUA-qwen3-vl-scienceboard,,candidate,,,,2026-10-16T11:21:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:60a2dc930fa11860858a,,,https://openreview.net/forum?id=3Gzz7ZQLiz,,candidate,,,,2026-10-16T06:40:53Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:60bcb1a0d709aa099772,Test Driver,,https://testdriver.ai,,candidate,,,current source snapshot needs editorial review,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:612e2c3ca384116b7ded,,,https://link.springer.com/article/10.1007/s11704-024-40231-1,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:61b310fe57dbc74a2f0d,,,https://osworld-grounding.github.io,,candidate,,,,2026-11-05T21:12:59Z
@@ -1285,9 +1193,7 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6224c7f61c680453ec99,,,https://www.bloomberg.com/news/articles/2024-11-13/openai-nears-launch-of-ai-agents-to-automate-tasks-for-users,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:626ee2eec3ebd6b0b34d,,,https://openreview.net/forum?id=yVP2ldY9lw,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:62cf0bee7a14cfbc84a0,,,https://huggingface.co/Tongyi-MiA/UI-Ins-7B,,candidate,,,,2026-10-16T06:36:02Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:62d8d6bf6d1c117f2638,,,https://vercel.com/templates/next.js/ai-sdk-computer-use,,candidate,,,,2026-10-16T06:31:07Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:62d912811f786f787ae4,,,https://huggingface.co/datasets/cua-ai/cua-s1-forms,,candidate,,,,2026-10-16T06:36:03Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:62df6dac6ade720ddd70,,,https://chromewebstore.google.com/detail/autobrowser/lebgieachadpombahcacicmebckokcjl,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:63264f7cd4510d96e486,,,https://www.anthropic.com/research/visible-extended-thinking,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:638b97ef91eace00a926,,,https://lz-zu.github.io/gui-grounding/paper.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:642671eabef44827b7de,,,https://huggingface.co/KDEGroup/UI-AGILE-3B,,candidate,,,,2026-10-17T02:44:30Z
@@ -1295,27 +1201,21 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6546c8f79b5cae118e20,,,https://huggingface.co/datasets/BigAction/mind2web_clean,,candidate,,,,2026-11-05T21:13:16Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:654e0cbc1a22b59eca47,,,https://huggingface.co/datasets/convergence-ai/webgames,,candidate,,,,2026-10-16T06:35:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6588fa6675ed27a7b81c,,,https://huggingface.co/datasets/Izazk/Sequence-of-action-prediction-mind2web,,candidate,,,,2026-11-05T21:13:16Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:65a9a9211f0dd2b7264a,,,https://www.komos.ai,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:666844c28be1138b0e37,,,https://huggingface.co/Fanbin/STEVE-R1-7B-SFT,,candidate,,,,2026-10-16T13:14:29Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:66f780b493156dc7efe5,,,https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:676eff5aac705aac98c0,,,https://drive.google.com/file/d/1mN12zjCiawfU4k1ifPsLW-hcuzPV7Voz/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:67ae69986d6408fde468,,,https://huggingface.co/datasets/cyberalchemist/PixelWeb,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:67fdce84eb5b512f07bc,Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents,,https://proceedings.iclr.cc/paper_files/paper/2026/hash/5f1d328711b162e1cf9896c7d6aaecdd-Abstract-Conference.html,,candidate,,,,2026-10-17T04:06:26Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6853fc0ef75247a42710,,,https://link.springer.com/chapter/10.1007/978-3-030-30429-4_19,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:687a7b27f38720fe54bc,,,https://huggingface.co/datasets/TIGER-Lab/WebsiteBench,,candidate,,,,2026-11-06T06:21:48Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6884b7a1aa1bf507dae7,,,https://www.gumloop.com,,candidate,,,,2026-10-16T06:31:07Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:68d09b76ec0f61b7a6c5,,,https://narada.ai/blog/narada-ai-web-agent-operator,,candidate,,,,2026-11-05T21:13:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6917c59ee128421233b6,,,https://www.hyperwriteai.com/personal-assistant,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:691c52679bb1d3521db7,,,https://huggingface.co/Salesforce/GTA1-7B-2507,,candidate,,,,2026-11-05T21:13:21Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6927950c6887e0db1e34,Hark,,https://hark.com,,candidate,,,current source snapshot needs editorial review,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:697a83b26e55f206b651,,,https://docs.anchorbrowser.io/introduction,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6a36d789db389cf56e54,,,https://anonymous.4open.science/r/agent-0E80/README.md,,candidate,,,,2026-11-05T21:13:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6a943fb3667791b6cdb4,,,https://huggingface.co/mPLUG/GUI-Owl-1.5-32B-Instruct,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6b0c2b7cb86cba91a824,,,https://playwright.dev/agents,,candidate,,,,2026-11-05T21:12:51Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6b25d42c771397f5afca,,,https://seed-tars.com/1.5,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6b9389a144cbe70c894d,,,https://huggingface.co/FRank62Wu/ShowUI-Narrator,,candidate,,,,2026-10-16T06:40:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6b9716bb6ea31dd0e1a9,,,https://drive.google.com/file/d/1KyRWM5xrI0lW_hUqgjpKmA-xfNSk5z_1/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6c16f91d8d79d7836283,,,https://huggingface.co/Hcompany/Holotron-12B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6c2bc9c4b0ac29adaa03,,,https://drive.google.com/file/d/1rJzu7edOhbZ36p1I-gYhPw1qP3l0MfRI/view?usp=drive_link,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6c65e20f11010819562b,,,https://openreview.net/forum?id=KR6tnkb6h4,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6c9201ad05d72b070d1e,,,https://huggingface.co/datasets/MVesalA/Persian-NER-GUI-Classification,,candidate,,,,2026-11-05T21:13:14Z
@@ -1327,7 +1227,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6d8a1b9c4556678388cc,,,https://openaccess.thecvf.com/content/WACV2026/html/Hsieh_ZonUI-3B_Competitive_GUI_Grounding_with_a_3B_VLM_Trained_on_WACV_2026_paper.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6d9b772fcb41da7c6152,,,https://huggingface.co/spaces/agentsea/wave-ui-viz,,candidate,,,,2026-10-17T15:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6dc88a6f715499aa6054,,,https://huggingface.co/datasets/giggiovpg/android-kotlin-compose-compiler-verified,,candidate,,,,2026-11-05T21:13:17Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6e436831f76a1337ea8b,,,https://aclanthology.org/2024.acl-demos.8,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6ea345c7ba56049476e8,,,https://huggingface.co/OpenGVLab/ZeroGUI-OSWorld-7B,,candidate,,,,2026-10-16T06:36:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:6ef140e52d572f66d2b8,,,https://www.postman.com/idan-775bed48-7905039/browser-automation-hub,,candidate,,,,2026-11-05T21:12:51Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:709d8b51bbc8d257318f,,,https://huggingface.co/vocaela/KV-Ground-4B-BaseGuiOwl1.5-0228,,candidate,,,,2026-11-05T21:13:02Z
@@ -1341,9 +1240,7 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:72c36e8e12998b34c3cf,,,https://drive.google.com/drive/folders/14_xlL-e0-0INq2O1THbhFKi6Z0bgfwR4?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:72f05843df9bd7ea35af,,,https://huggingface.co/datasets/bevaya/RICO-SCA,,candidate,,,,2026-11-05T21:13:17Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:72f3737bb5194fd64852,,,https://huggingface.co/LZXzju/Qwen2.5-VL-3B-UI-R1-E,,candidate,,,,2026-10-16T06:36:00Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:73570e699421a5ad04eb,,,https://huggingface.co/RhapsodyAI/minicpm-guidance,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:738bfdfe24671ad29a43,,,https://android-world.fluiz.ai,,candidate,,,,2026-11-05T21:13:02Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:73c169c32b5765688376,,,https://huggingface.co/extreme1228/ScaleCUA-qwen3-vl-scienceboard,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:73e9e26d40de2a60ae05,,,https://vostride.com,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7424d66754ec26d68d83,,,https://dl.acm.org/doi/abs/10.1145/3650212.3680334,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:74a98d385b656cf5e980,,,https://anchorbrowser.io,,candidate,,,,2026-11-05T21:12:51Z
@@ -1351,33 +1248,24 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:75957af5d021a84e49a8,,,https://aclanthology.org/2026.emnlp-main.2620,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:75dee6afef81a56ba4b2,,,https://huggingface.co/xlangai/Jedi-7B-1080p,,candidate,,,,2026-11-05T21:13:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7627bc3b5ea64022073e,,,https://mcp.olostep.com/mcp,,candidate,,,,2026-11-05T21:12:52Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7638e3f688374cea2217,,,https://huggingface.co/Hcompany/Holotron4-30B-A3B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7645072fe9580fa9993a,,,https://huggingface.co/lemuralabs/Muse-Glimmer-30B-GUI-Grounding-Fast,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:76b3c8418dfcd7192aab,,,https://deepmind.google/technologies/project-mariner,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:76f3981d219bb87b4eea,,,https://huggingface.co/sujitvasanth/OpenCUA-7B-exl2,,candidate,,,,2026-10-16T11:22:00Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:778645731fed1e8ae49c,,,https://showlab.github.io/showui-pi,,candidate,,,,2026-11-05T21:12:48Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:77afb3a9b045a157167c,,,https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym,,candidate,,,,2026-10-16T06:35:57Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:77c708f5cff2d4c95e90,,,https://huggingface.co/extreme1228/ScaleCUA-glm4.6v-osworld,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:785e2b4f328a9e35d5bb,,,https://videoagent.github.io,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7924bbfc565cf743996b,,,https://craftjarvis.github.io/JARVIS-1,,candidate,,,,2026-10-18T10:50:21Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:79e0b911afaf4313fa6c,,,https://www.automationanywhere.com/products/process-discovery,,candidate,,,,2026-10-16T06:31:07Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7a15cae13c3d39ab57f4,,,https://dl.acm.org/doi/full/10.1145/3641289,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7a35f44787f99834f13e,,,https://generalagents.com/ace,,candidate,,,,2026-10-16T06:31:07Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7ae659b00ca85338fe0a,,,https://os-copilot.github.io/OpenMobile2-Sim,,candidate,,,,2026-11-07T07:14:24Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7afa17db925828d9a035,,,https://huggingface.co/OS-Copilot/OS-Genesis-7B-AW,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7b7b21dd889fa94bcadf,,,https://sites.google.com/view/genie-2024/home,,candidate,,,,2026-11-05T21:12:48Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7c4d9a3bd10f7bab9268,,,https://harpa.ai,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7c613ea5805394e78fa6,,,https://doi.org/10.24963/ijcai.2024/711,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7c8565f3f82d19e2b04d,,,https://developers.googleblog.com/en/gemini-25-computer-use-model,,candidate,,,,2026-11-05T21:12:49Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7ea46aa7d2d4470bb1f8,,,https://huggingface.co/osunlp/UGround-V1-72B,,candidate,,,,2026-10-16T06:36:00Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7ec7d2736e2d61a5e9a1,,,https://proceedings.mlr.press/v267/nayak25a.html,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7ed70b39ac79f97f8a87,,,https://huggingface.co/datasets/figai/GUI-Perturbed,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7efc2c70ed9424b76bd7,,,https://apify.com,,candidate,,,,2026-11-05T21:12:51Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7face6780ed611d720c3,,,https://windsurf.com,,candidate,,,,2026-10-16T06:31:06Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:7fbde54a49250739baee,,,https://huggingface.co/extreme1228/ScaleCUA-glm4.6v-scienceboard-sft,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:806b4999ad955e843086,,,https://drive.google.com/drive/folders/1NibG-mp2HREUY_-V3F6l6n-gCLy_-u8n,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:806f610e73794245ff55,,,https://huggingface.co/datasets/txchmechanicus/computer-use-large,,candidate,,,,2026-11-05T21:13:14Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:807dadc7dc4ba995bbbe,,,https://huggingface.co/OS-Copilot/OS-Genesis-4B-WA,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:808a22468ee0bf565d6e,,,https://turkingbench.github.io,,candidate,,,,2026-11-05T21:12:56Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:80b3fbb41f658bb14523,,,https://huggingface.co/WebShepherd/web-shepherd-large,,candidate,,,,2026-10-17T02:44:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:80c3ab0a8a6f78938d4d,,,https://huggingface.co/xlangai/VideoAgentTrek-CUA-7B,,candidate,,,,2026-11-05T21:13:20Z
@@ -1401,9 +1289,7 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:85f942b958d9f566a2a2,,,https://drive.google.com/drive/folders/1NLsHdLUNZOHsEC5xNZ4e4PHkDC5IELjj?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:86229ebd22143128bcf7,,,https://bear-cubs.github.io,,candidate,,,,2026-11-05T21:12:56Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:863c689211a5e16a6e2f,,,https://aclanthology.org/2025.emnlp-main.1688,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:86b3c2ee65911daf84a8,,,https://huggingface.co/datasets/wwh0411/FedMABench,,candidate,,,,2026-10-16T06:31:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:878a860ff07d92f11fc7,,,https://huggingface.co/datasets/yueqis/agent-output/tree/main,,candidate,,,,2026-11-05T21:13:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:87bc346934a4117b554c,,,https://bardeen.ai,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:87f28e117d95985d5177,,,https://huggingface.co/Salesforce/GPA-GUI-Detector,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:886fa4633bbadb238253,,,https://huggingface.co/datasets/Xu-Hu-2002/Toward-Thustworthy-Computer-Use-Agent,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:891329fc95617395b58f,,,https://huggingface.co/datasets/smolagents/android-control,,candidate,,,,2026-11-05T21:13:17Z
@@ -1414,15 +1300,12 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:8accba66b78dce855dce,,,https://world-model.maitrix.org,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:8b87df7992bc7b4da1a5,,,https://aclanthology.org/2026.realm-1.100,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:8c31c4ba95fc5bac31b4,,,https://spa-bench.github.io,,candidate,,,,2026-11-05T21:12:56Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:8cd911654653a6ba8521,,,https://huggingface.co/datasets/neulab/MultiUI,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:8e9d016912952422c70e,Aomni,,https://www.aomni.com,,candidate,,,current source snapshot needs editorial review,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:8ed4a69c4aa4e1a344ae,,,https://huggingface.co/datasets/rootsautomation/RICO-SCA,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:8ff5a642473d4255eeec,,,https://huggingface.co/microsoft/MediPhi-Guidelines,,candidate,,,,2026-11-05T21:13:21Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:900a4ea90640baaf11d0,,,https://autodevice.io/benchmark,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:905a676e0bb45278ac59,,,https://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:90ae002dbf099d42fabb,,,https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct,,candidate,,,,2026-10-17T01:54:56Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:90b24afa7bb8b2181205,,,https://huggingface.co/Hcompany/Holo-3.1-4B,,candidate,,,,2026-10-17T04:07:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9113270916a36b4b76f1,,,https://aclanthology.org/2025.emnlp-main.920,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9117de6246b2ce005530,,,https://react-lm.github.io,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:912f6a57d7aa5f1969ee,Adept AI,,https://www.adept.ai,,candidate,,,"primary evidence unresolved: HTTP Error 403: Forbidden; Listed by e2b-dev/awesome-ai-agents (README at commit 9596ab1e69fb, line 2985, retrieved 2026-11-05). That list is not a registered discovery source because only about 14 of its 215 entries are interface agents. Relevance, kind and summary await editorial review.",
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:913a72e8929afd96ad07,,,https://labs.huzzle.com,,candidate,,,,2026-11-05T21:13:02Z
@@ -1432,14 +1315,10 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:92045e22b7d47871634c,,,https://drive.google.com/file/d/1miMp-AR_hOfLUWszGb_aZG2f_Nd66Ntt/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:929ec4476e0fcdc537d0,,,https://seed.bytedance.com/en/tech/seed1_5_vl,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:92b5cb08491c09243b72,,,https://huggingface.co/niurl/ScreenAgent,,candidate,,,,2026-10-16T06:36:02Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:93109952a74302d890b5,,,https://docs.anthropic.com/en/docs/claude-code,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:938085d5ae94f0fa30bb,iMean.AI,,https://www.imean.ai,,candidate,,,current source snapshot needs editorial review,
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:93c98e3b5aea945e0877,,,https://huggingface.co/OS-Copilot/OS-Genesis-7B-WA,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:93ec4db4ffa9de7a3f06,,,https://ieeexplore.ieee.org/abstract/document/10356702,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9480f580f8bf9d3ba65d,,,https://www.aliyun.com/product/cloud-phone,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:94e96532593430d02f96,,,https://drive.google.com/file/d/1lFmKOWi8npQ9jsmR25fhBLuqu4dyyLxG/view?usp=drive_link,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:952cb4c3f308418aa85b,,,https://huggingface.co/cooelf/Auto-UI,,candidate,,,,2026-10-16T06:36:04Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9557231fc88dcaca3c37,,,https://www.selenium.dev,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:966913a5dd5d0ca3b6a9,,,https://appagentx.github.io,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:969eb56a53187cda74c7,,,https://huggingface.co/vocaela/KV-Ground-4B-BaseQw3vl,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:96e25a4cfcebad492b61,,,https://drive.google.com/file/d/1YFsNMKTzB1Cgo4xWexw2syFjLoxSNUBx/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
@@ -1447,7 +1326,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:972809a3755664571c1a,,,https://dwr.bc.edu/vizability,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:97b31d07c3dcbcf9b7c5,,,https://doi.org/10.1109/cvpr52734.2025.01816,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:98122987ca3e7c764d0e,,,https://pointer.ai/blog/sota,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:98e5813bceb30104d6c4,,,https://huggingface.co/Hcompany/Holo1.5-7B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9900690ea9b418a1a7c6,,,https://playwright.dev/docs/getting-started-mcp,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9987789478a4b6cdab3f,,,https://drive.google.com/file/d/13s1ySUl4YA8cZ65UN2P7yxGG2vT5Cjr0/view?usp=sharing,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9a97499f3c2ef95fa256,,,https://openreview.net/forum?id=ed2f5ee6b84c3b118cb953b6e750486dbd700419,,candidate,,,,2026-11-05T21:12:50Z
@@ -1455,26 +1333,20 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9b37d491bc442bb265e6,,,https://www.nexa4ai.com/octo-planner,,candidate,,,,2026-10-16T06:31:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9b45b9874a02f2e4493f,,,https://papers.nips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9b653775f6b9270304d3,,,https://huggingface.co/microsoft/GUI-Actor-Verifier-2B,,candidate,,,,2026-11-05T21:13:14Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9b7cc83c55fd75c5b867,,,https://huggingface.co/extreme1228/ScaleCUA-qwen3.5-osworld-sft,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9be4b67be4ba0baeda0a,,,https://www.multion.ai,,candidate,,,,2026-10-16T06:31:04Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9c5e0c8f6784bedeb153,,,https://huggingface.co/OS-Copilot/OS-Atlas-Pro-7B,,candidate,,,,2026-10-18T10:50:21Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9c96a767b56ba0eb4494,,,https://huggingface.co/datasets/TIGER-Lab/ClawBench,,candidate,,,,2026-10-18T11:53:46Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9d21680af70d1967107e,,,https://huggingface.co/datasets/X-LANCE/WikiHow-taskset,,candidate,,,,2026-10-16T06:36:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9e89e3332db1770388bc,UGround V1 bounding-box data,,https://huggingface.co/datasets/osunlp/UGround-V1-Data-Box,,candidate,,,"Public API identifies the dataset and Parquet manifest, but access is gated=auto and the raw card returns 401. No access request or agreement acceptance was made. Defer curation of a directly usable release until access scope and the full card can be reviewed.",2026-10-16T06:36:00Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9f296457c8ca46446c1f,,,https://press.opera.com/2025/03/03/opera-browser-operator-ai-agentics,,candidate,,,,2026-10-16T06:31:39Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:9fa5792cae33f95dd87f,,,https://books.google.com/books/about/Effective_GUI_Testing_Automation.html?id=2LZ99kBIwKYC,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a03c649e4b14e293e2dd,,,https://hcompany.ai/holo3,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a06f5cb81d3c41338bb6,,,https://www.firecrawl.dev,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a0735a5144a625760dec,,,https://openreview.net/forum?id=l1MQVgIKEU,,candidate,,,,2026-11-05T22:45:57Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a0a0c389d4def8e2d13a,,,https://asteroid.ai,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a0e47a8c810b8a41bfb7,,,https://llm-agents-a-survey.gitbook.io/llm-agents-a-survey-docs,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a102be4d98ab5ce068d8,,,https://aclanthology.org/2025.findings-emnlp.486,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a13a2f46e24d04e52ffa,,,https://proceedings.mlr.press/v306/zhao26c.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a1621345ec327462b86e,,,https://huggingface.co/sjunhongs/tti_webarena/tree/main,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a166f8bbaf1bdcc931cb,,,https://huggingface.co/datasets/PersonalAILab/AFM-WebAgent-RL-Dataset,,candidate,,,,2026-11-05T21:13:16Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a2362e23fdcbc73763e6,,,https://huggingface.co/OS-Copilot/OS-Genesis-4B-AW,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a24a43d33d30e83df090,,,https://drive.google.com/file/d/1M6LG3EMiZrQE5nLu2EmuMctLnbmRrSIo/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a252b36bf1c440269a2e,,,https://huggingface.co/datasets/osunlp/Online-Mind2Web,,candidate,,,,2026-11-05T21:13:16Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a25afacc132147f2ac65,,,https://www.sciencedirect.com/science/article/abs/pii/S0950584921000963,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a2675d7201cf9234bc2a,,,https://vision-x-nyu.github.io/thinking-in-space.github.io,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a31b0952781ca816bfe0,,,https://doi.org/10.18653/v1/2026.eacl-long.45,,candidate,,,,2026-11-05T22:45:57Z
@@ -1482,48 +1354,32 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a36e244bd5c66e8bf1ea,,,https://openreview.net/forum?id=vnEuxLVFmN,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a3f65b03509b78035b8e,,,https://work.aliyun.com/alimail/openLinks/downloadMimeMetaDiskBigAttach?id=netdiskid%3Av001%3Afile%3ADzzzzzzNqZy%3BG8EhE7UV7U9nk2t2O6opysa%2BgRf5Zm6eTqXqtVApm1nDD8W%2BxnLAgdDsJsOSlxfXTx44NU7qRM%2BkJMuIA0smltxGWspXGX2Ox228yqp07rNX%2FIm2QehcGJBgHwUs0f81cz2sX76WNxvxnhpZnqmxiYxHNHRd2hybrPLi2DRQ8bM5ORhI%2BtGG%2B7n%2BcxdY1Ji0,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a4b101913db4b3673a2b,,,https://huggingface.co/cckevinn/SeeClick-aitw,,candidate,,,,2026-10-18T10:59:55Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a4f3fb5c5252adb32bcd,,,https://deepmind.google/models/project-mariner,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a547c2759fadce85b9d5,,,https://deepmind.google/models/evals-methodology/gemini-3-pro,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a560ad0a4edeaf6493f3,,,https://data-for-agents.github.io,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a56c802b14cd0d3260fd,,,https://dynalang.github.io,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a57a63693c89915903f1,,,https://developers.cloudflare.com/browser-run,,candidate,,,,2026-11-05T21:12:52Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a5dc446fab5e6bdce517,,,https://sol.sbc.org.br/index.php/kdmile/article/view/44978,,candidate,,,,2026-10-16T06:31:39Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a5e503f9ef81f58b38c7,,,https://drive.google.com/file/d/1t-w6OAQHfmRplHbi93aWXZlOBwOQkwY2/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a5f9f8e975dd0042990a,,,https://developers.cloudflare.com/browser-run/playwright/playwright-mcp,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a6c92f94a0af49f7360a,,,https://www.anthropic.com/news/claude-3-7-sonnet,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a707899d3735a7d6e762,Enhans ACT agents,,https://enhans.ai,,candidate,,,current source snapshot needs editorial review,
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a72a105e755836154412,,,https://huggingface.co/Hcompany/Holotron4-30B-A3B-FP8,,candidate,,,,2026-10-17T04:07:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a7beaa489fc4ffeb555f,,,https://huggingface.co/datasets/lgy0404/LearnGUI,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a7dabc653a097c696f7e,,,https://modelscope.cn/models/extreme1228/ScaleCUA-qwen3-vl-osworld,,candidate,,,,2026-10-16T11:21:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a80c7330dbfd4f897693,,,https://huggingface.co/datasets/data-for-agents/insta-150k-v3,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a886fea306211d527701,,,https://huggingface.co/xlangai/Qwen-CUA,,candidate,,,,2026-11-05T21:13:20Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a8b43a1f2bebd998f612,,,https://huggingface.co/ByteDance-Seed/UI-TARS-7B-DPO,,candidate,,,,2026-11-05T21:13:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a8e086f155c278e45c55,,,https://huggingface.co/Hcompany/Holo1.5-72B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a904d574b937da842ffa,,,https://huggingface.co/duvoai/duvo-eye-1,,candidate,,,,2026-11-05T21:13:02Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a92e7dfcdfdcacb2e634,,,https://huggingface.co/mPLUG/GUI-Owl-32B,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a974c1fc1eec158bd64d,,,https://please.ai,,candidate,,,,2026-11-05T21:12:51Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a998ab1efc741ba69d82,,,https://ieeexplore.ieee.org/abstract/document/10707522,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:a9aea1af47c1c7fed093,,,https://kagnlp.github.io/WebOperator,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:aa9e6dc7381d409bfdae,,,https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract.html,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:aaf62a374517dcb7151d,,,https://www.sentienceapi.com,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ab2eb0091d09bea62e10,,,https://cogagent.aminer.cn/blog,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ab4587d17c4f541bb94c,,,https://huggingface.co/tineding/ACT-SOP,,candidate,,,,2026-10-16T11:09:28Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ab6342399bfdfbe21010,,,https://aclanthology.org/2026.emnlp-main.843,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ac62da857db91f68376b,Aguvis-7B-720P checkpoint,,https://huggingface.co/xlangai/Aguvis-7B-720P,,candidate,,,"Weight files are listed, but the official README still marks the release in progress and the inspected Hub metadata lacks weight terms; review remains pending.",2026-10-18T10:50:25Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:acd43f38167ba02e7ff8,,,https://huggingface.co/Hcompany/Holo4-27B,,candidate,,,,2026-10-17T04:07:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:acfd6d395d67ce8011bb,,,https://huggingface.co/Hcompany/Holo4-27B-GGUF,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ad42abe44704eb8f5346,,,https://console.cloud.google.com/storage/browser/gresearch/webllm,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ade0ccd9183f7bc0ec5a,"SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks",,https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html,,candidate,,,,2026-10-17T04:06:26Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ae5cc374890d791ad426,,,https://modelscope.cn/models/extreme1228/ScaleCUA-qwen3.5-scienceboard,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:aeffabf23c16f8cf2139,,,https://huggingface.co/Hcompany/Holo-3.1-35B-A3B-NVFP4,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:af3423c99628e89031de,,,https://en.wikipedia.org/wiki/Computer_accessibility,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:af56e25031bb05f21a99,,,https://gameworld-project.github.io,,candidate,,,,2026-11-05T21:12:48Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:af7a03e8199643c3508f,,,https://huggingface.co/extreme1228/ScaleCUA-qwen3.5-scienceboard-sft,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:afa99439562b96b7365b,LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent,,https://proceedings.iclr.cc/paper_files/paper/2026/hash/002a6bef26174b590e4eab95b63feb1b-Abstract-Conference.html,,candidate,,,,2026-10-17T04:06:26Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b01a78c76299196e3df1,,,https://huggingface.co/mPLUG/GUI-Owl-7B-Desktop-RL,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b03a17044b241a9f6171,,,https://drive.google.com/drive/folders/1uOEcOJtylrIOF2oqO5F8x7pvhrWW4xrp?usp=sharing,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b1457a20d437732b60f7,,,https://huggingface.co/Hcompany/Holo4-27B-NVFP4,,candidate,,,,2026-10-17T04:07:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b1837823421bd08cb826,,,https://huggingface.co/OS-Copilot/OS-Genesis-4B-AC,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b1922b37a7cc73cff9f8,,,https://modelscope.cn/models/iic/GUI-Owl-32B,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b1c6b94743e6dbac930d,,,https://huggingface.co/datasets/Lancelot53/android_icon_dataset,,candidate,,,,2026-11-05T21:13:17Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b212532142d3888f4483,,,https://aclanthology.org/2026.findings-emnlp.849,,candidate,,,,2026-11-05T21:12:47Z
@@ -1534,9 +1390,7 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b44ca14a69e64b6132b2,,,https://openaccess.thecvf.com/content/ICCV2025/papers/Lu_GUIOdyssey_A_Comprehensive_Dataset_for_Cross-App_GUI_Navigation_on_Mobile_ICCV_2025_paper.pdf,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b4fc66d9cca506f98c2f,,,https://drive.google.com/file/d/1a78Tg0MguATou3e8pIO02PF0tqqznXKB/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b540fe81c57cedb1f556,,,https://huggingface.co/datasets/hhenryz/WorldGUI-Bench,,candidate,,,,2026-10-16T06:35:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b56578c7f9a211a792f2,,,https://www.diabrowser.com,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b5a02ef311b9bec71c10,,,https://drive.google.com/file/d/1F-nKdsxC87wk1dc4Eau7xwVSyozA8Vdn/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b5cab56e1a439ca8e524,,,https://aclanthology.org/2025.acl-short.85,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b5fb13515d7779218f5d,,,https://huggingface.co/microsoft/OmniParser,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b5ffb926a63838f785c3,,,https://developer.apple.com/design/human-interface-guidelines/accessibility,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b6114625f883ec0fda33,,,https://huggingface.co/datasets/bevaya/RICO-ScreenQA-Complex,,candidate,,,,2026-11-05T21:13:17Z
@@ -1547,34 +1401,28 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b89b0614a18bf3cc9656,,,https://huggingface.co/noctrex/GELab-Zero-4B-preview-GGUF,,candidate,,,,2026-10-16T06:36:01Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b8a462560ed394dfdfda,,,https://ucsc-vlaa.github.io/VLAA-GUI,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:b9c90048411606b00db0,,,https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct,,candidate,,,,2026-10-16T06:36:01Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:bb1440d051c68455a72e,,,https://huggingface.co/google/pix2struct-base,,candidate,,,,2026-10-17T15:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:bceae573cd3c93ad0374,,,https://huggingface.co/shuaishuaicdp/GUI-Vid,,candidate,,,,2026-10-16T06:40:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:bcedeedde0176ba1182b,,,https://lz-zu.github.io/gui-grounding,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:bd15fb092ff80643ed97,,,https://huggingface.co/datasets/bevaya/RICO-ScreenQA,,candidate,,,,2026-11-05T21:13:17Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:bd9f8174e5503055c0bd,,,https://huggingface.co/ByteDance-Seed/UI-TARS-2B-SFT,,candidate,,,,2026-11-05T21:13:20Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:bdf8f397e33c8ed167c7,,,https://dl.acm.org/doi/abs/10.1145/3716132,,candidate,,,,2026-11-05T21:12:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:be116acb5829b9acf8c7,,,https://agent-e3.github.io/ExACT,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:be4ca14d1724b0cf8314,,,https://huggingface.co/datasets/McGill-NLP/safearena,,candidate,,,,2026-10-16T09:36:33Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:be89a250747f507a27ef,,,https://huggingface.co/datasets/OpenDFM/MoGUI,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:beb2ca7cdaefbef42ee6,,,https://huggingface.co/allenai/MolmoPoint-GUI-8B,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:bec028cf3abc529e5b16,,,https://papers.nips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:bf62139ecce7f375eacb,,,https://openreview.net/forum?id=Aobvdp3XmP,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c0176ee3816324e0edff,,,https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MagenticOne.pdf,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c099a84dc99df9be8be0,,,https://drive.google.com/file/d/1fbGbSKt0g2ZMpjSo0OUX5Jtrel__WqAF,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c0b4bd43c9a282379144,,,https://drive.google.com/file/d/1hW-4TPo1pyN1AiYnYRnQx4MhANzilKpY/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c0fde1087f4bd9248b3e,,,https://getdexterity.com,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c1137882eb160cc7b5ef,,,https://aclanthology.org/2025.emnlp-main.212,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c1f864e0adf69ff7881f,,,https://aclanthology.org/2026.emnlp-main.448,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c2852e574e80beb510a1,,,https://www.agentsea.ai,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c28cd0e42c177584847d,,,https://huggingface.co/google/gemma-2b-it,,candidate,,,,2026-10-16T06:40:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c2b3ff8852ca97ab9336,,,https://huggingface.co/gaia-benchmark,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c30ce39401ca8a29d436,,,https://llava-vl.github.io/llava-plus,,candidate,,,,2026-11-05T21:12:48Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c33c1aba83d17c53a6f6,,,https://www.rabbit.tech/rabbit-r1,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c34a327604b5be4a7c98,,,https://www.anthropic.com/news/claude-opus-5,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c38b457226978dae408a,,,https://papers.nips.cc/paper_files/paper/2025/hash/937ae0e83eb08d2cb8627fe1def8c751-Abstract-Conference.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c3ab0f006a880174e645,,,https://huggingface.co/xlangai/AgentTrek-1.0-32B,,candidate,,,,2026-11-05T21:13:20Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c3ae2491f47f247eea99,,,https://drive.google.com/drive/folders/18PTnMwgyhxIWTVNLMwf0sbzhvh9AlVqE?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c491c446a71cac1def66,,,https://huggingface.co/Hcompany/Holo1-3B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c4a45eed67ee9087aae3,,,https://www.anthropic.com/news/claude-sonnet-4-6,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c4f9e1e096522afa3017,,,https://finalrun.app/benchmark,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c5496cb407424d2758f5,,,https://drive.google.com/drive/folders/11YMFWIM4qyeINVdH54FBF_3LRtq5ExZB?hl=zh-cn,,candidate,,,,2026-11-05T21:13:05Z
@@ -1583,15 +1431,11 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c5f2d8cdb2b2b50b7c2e,,,https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?gid=0,,candidate,,,,2026-11-05T21:12:51Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c6a75d01c1a11325332c,,,https://drive.google.com/file/d/1sO-Y_J10901y6_juBAQlwbh4sl_XlcfL/view?usp=drive_link,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c6b4fc25ba3fc308224f,Cykel,,https://www.cykel.ai,,candidate,,,current source snapshot needs editorial review,
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c6e1ffa1f4c6561c3b22,,,https://huggingface.co/adept/fuyu-8b,,candidate,,,,2026-10-17T15:36:03Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c6f3c36e4603808ae9a6,,,https://www.cloudcruise.com,,candidate,,,,2026-10-16T06:31:07Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c7489f15e7883a695832,,,https://huggingface.co/datasets/OpenDFM/MoCon,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c7e1d8863286e92c47a2,,,https://huggingface.co/xlangai/VideoAgentTrek-ScreenFilter,,candidate,,,,2026-11-05T21:13:20Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c83728772154d59c8240,,,https://webagentlab.notion.site/homepage,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c8f30032788b4d5eaac8,,,https://modelscope.cn/models/extreme1228/ScaleCUA-glm4.6v-osworld,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c987c0982f0105ca26a5,,,https://www.theseus.fi/handle/10024/801926,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:c9d2a9288a568db12bd1,,,https://huggingface.co/stanfordnlp/llama8b-nnetnav-wa,,candidate,,,,2026-11-05T21:13:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ca76de56f3ddbd7c61b4,,,https://aclanthology.org/2024.naacl-industry.4,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ca7bfba3981fc7e5b3bf,,,https://huggingface.co/datasets/OS-Copilot/MobileRisk,,candidate,,,,2026-10-16T06:40:54Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:cc2a9294aeaa757798e9,,,https://dl.acm.org/doi/full/10.1145/3613904.3642777,,candidate,,,,2026-10-16T06:43:37Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:cc4e573230d0fd527e24,,,https://video-mme-v2.netlify.app,,candidate,,,,2026-11-05T21:12:48Z
@@ -1599,20 +1443,15 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:cc74e6f54e1803602654,,,https://computer-agents.github.io/agent-studio,,candidate,,,,2026-11-05T21:12:56Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ccfd6f4b5890bc563c84,,,https://drive.google.com/drive/folders/1iBOXZpknCi1Fqzg0fQMG6CZc9NWrwdkf?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:cd94fa2213ce15b213b9,,,https://www.apple.com/apple-intelligence,,candidate,,,,2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ce0af37931cd5aa20233,,,https://help.aliyun.com/zh/model-studio/ui-agent-api,,candidate,,,,2026-10-16T06:36:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ce20a23ccfd71baae2e7,,,https://openaccess.thecvf.com/content/CVPR2026/papers/Hu_ShowUI-p_Flow-based_Generative_Models_as_GUI_Dexterous_Hands_CVPR_2026_paper.pdf,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ce972e4d0930c781f100,,,https://www.preprints.org/frontend/manuscript/3da31779a6c7c196419c841cee5292cf/download_pub,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:cf7c132c9a988d3a6ec4,,,https://huggingface.co/datasets/bevaya/RICO-Screen2Words,,candidate,,,,2026-11-05T21:13:17Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:cfc96caf0035b4d247eb,,,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10962502,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d01dfc6e5b5fcece7b41,,,https://huggingface.co/mPLUG/GUI-Owl-1.5-8B-Instruct,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d071f3f5a01a5f9d6d78,,,https://www.askui.com/blog-posts/askui-vision-agent-achieves-2nd-place-on-androidworld-benchmark,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d1305a893a47ac03d0de,,,https://huggingface.co/Qwen/Qwen3-VL-8B-Thinking,,candidate,,,,2026-11-05T21:13:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d1a17b24c64c9ac093ac,,,https://huggingface.co/datasets/MagmaAI/Magma-820K,,candidate,,,,2026-10-17T17:18:21Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d206aacf01e1b7dc786d,,,https://huggingface.co/datasets/agent-studio/GroundUI-18K,,candidate,,,,2026-10-17T15:36:03Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d2d07c09a1c92e5f4a43,,,https://huggingface.co/extreme1228/ScaleCUA-qwen3.5-scienceboard,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d3247ff0ff9a1f6bc247,,,https://huggingface.co/microsoft/Magma-8B,,candidate,,,,2026-10-17T17:18:21Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d32dfe60eff4b87c1d05,,,https://huggingface.co/datasets/UI-Simulator/UI-Simulator_android_data,,candidate,,,,2026-11-05T21:13:17Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d36710bcde551576e129,,,https://proceedings.mlr.press/v267/wang25bx.html,,candidate,,,,2026-10-17T15:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d4037bfd6ba21b6c97de,,,https://worldmodelbench-team.github.io,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d41c41d809f2d55c634a,,,https://onedrive.live.com?authkey=%21AAfGKfeNcLuKnfI&id=EA3C53A9274F9071%21308737&cid=EA3C53A9274F9071,,candidate,,,,2026-11-05T21:13:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d4ef740bf708fd6e2e7c,,,https://openai.com/research/gpt-4v-system-card,,candidate,,,,2026-11-05T21:12:59Z
@@ -1620,10 +1459,7 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d70385d1937c057934c7,,,https://openreview.net/forum?id=0DznNQFW4g,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d751d546eac220e2fd82,,,https://doi.org/10.18653/v1/2021.naacl-main.80,,candidate,,,,2026-11-05T22:51:35Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d768dd5245832bc4b824,,,https://huggingface.co/datasets/bevaya/websrc,,candidate,,,,2026-11-05T21:13:17Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d7f35409d35584385097,,,https://huggingface.co/datasets/UKPLab/agentcibench,,candidate,,,,2026-10-16T06:31:06Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d80fa13b647c4020a755,,,https://huggingface.co/inclusionAI/GUI-G2-3B,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d852fd26b632302e6bb7,,,https://modelscope.cn/models/extreme1228/ScaleCUA-qwen3-vl-scienceboard-sft,,candidate,,,,2026-10-16T11:21:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d86f55753bfea45fe313,,,https://huggingface.co/datasets/agent-studio/GroundUI-1K,,candidate,,,,2026-10-17T15:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d8864b187c866fa6c67e,,,https://cursor.com,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d8f97122cd6fb17c6bc1,,,https://learn.microsoft.com/en-us/power-automate/desktop-flows/create-flow-using-ai-recorder,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d90b71ff4bc54052cc5b,,,https://huggingface.co/datasets/yasirfaizahmed/android_ui_detection_yolov8,,candidate,,,,2026-11-05T21:13:17Z
@@ -1632,14 +1468,9 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d9d4ce583753ae8530b1,,,https://ieeexplore.ieee.org/abstract/document/9001110,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:d9f9e237000ff027b69d,,,https://proceedings.mlr.press/v80/liu18b.html,,candidate,,,,2026-10-18T10:50:21Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:da5c2feee51fdac2abee,,,https://modelscope.cn/models/extreme1228/ScaleCUA-qwen3.5-scienceboard-sft,,candidate,,,,2026-10-16T11:21:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dad3d02b2f9603713287,,,https://huggingface.co/Hcompany/Holo2-235B-A22B,,candidate,,,,2026-10-17T04:07:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dbd880ec31b412487945,,,https://huggingface.co/ByteDance-Seed/UI-TARS-7B-SFT,,candidate,,,,2026-11-05T21:13:20Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dc20a06c296207ac11a6,,,https://huggingface.co/Hcompany/Holo1.5-3B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dc51f13ee3f9e8eba374,,,https://www.kimi.com/blog/kimi-k2-6,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dca82e9214c5926109f1,,,https://openreview.net/forum?id=M9iky9Ruhx,,candidate,,,,2026-10-16T06:40:53Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dd407df1f47a7434f90a,,,https://drive.google.com/file/d/10AL-m6I_h_GYJMfPIl9lk8i2FOH8k9Bb/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dd928d11ec6f13a251ca,,,https://huggingface.co/datasets/claw-eval/Claw-Eval,,candidate,,,,2026-10-18T11:53:46Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dda8a0f1413a6bc7c26f,,,https://huggingface.co/datasets/batwBMW/AndroidControl_Curated,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ddcae79c57c33db21ba3,,,https://drive.google.com/file/d/1qEY7LNc00qnAoAcS5kzPX6WkAp-tqz0s/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ddd4d2ddee29aca87c4d,,,https://midscenejs.com/android-world-benchmark-report,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:de6ca4918db40195cf09,,,https://platform.openai.com/docs/models/gpt-3-5-turbo,,candidate,,,,2026-11-05T21:12:59Z
@@ -1649,7 +1480,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:df0677ade6089e14d5c3,,,https://drive.google.com/file/d/1B4N6Hog3SuoTV2KL21hwANgdDbex4Oh8/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:df10c80a8da55773154d,,,https://huggingface.co/datasets/osunlp/WebGuard,,candidate,,,,2026-10-18T10:59:53Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:df3dc96d9e27b824f6ea,Comet,,https://www.perplexity.ai/comet,,candidate,,,"primary evidence unresolved: HTTP Error 403: Forbidden; www.perplexity.ai answers HTTP 403 to the catalog's identified client for /comet and for its blog and help-center paths, and comet.perplexity.ai and perplexity.ai/comet redirect to /comet. No first-party page could be read, so the summary is unchecked; approval needs a first-party source the catalog client can fetch.",2026-10-16T06:31:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:df84f6a103123387b0dd,,,https://huggingface.co/Hcompany/Holo-3.1-0.8B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dfa1e161e88dcb8ac4ba,,,https://ojs.aaai.org/index.php/AAAI/article/view/38229,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dfa8047521d1f3b3aa54,,,https://huggingface.co/osunlp/Dreamer-7B-Reddit,,candidate,,,,2026-10-16T11:09:28Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:dfcb24f23a03e58316cf,,,https://huggingface.co/datasets/duvoai/duvo-eye-1-evals,,candidate,,,,2026-11-05T21:13:02Z
@@ -1659,7 +1489,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e08ffc871745fc3d2423,,,https://modelscope.cn/models/extreme1228/ScaleCUA-glm4.6v-scienceboard-sft,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e0a64484787e93170e51,,,https://huggingface.co/Qwen/Qwen3.5-9B,,candidate,,,,2026-10-17T01:48:10Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e0daf4d8bfad34dc7154,,,https://huggingface.co/datasets/beacon-gui/BEACON-Dataset,,candidate,,,,2026-11-05T21:13:14Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e0e4712ee701f652bf31,,,https://huggingface.co/mPLUG/GUI-Owl-1.5-32B-Think,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e0f1ebb59adf2f6c500c,,,https://www.anthropic.com/claude/fable,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e2b79e8d1c6a28c65bff,,,https://huggingface.co/Proteus-Computer-Use/omniparser-finetuned,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e2bd6c7bd0c937f6e522,,,https://drive.google.com/file/d/1ezGgCb05ZH6Y8fakQ6m4yQiizy-5KTW5/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
@@ -1668,7 +1497,6 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e36d632f3c5c49182335,,,https://api.browser-use.com/v3/mcp,,candidate,,,,2026-11-05T21:12:52Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e3c0daeffa9ad6630f79,,,https://multimodal-react.github.io,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e3fab0c265c9bc5d7596,,,https://uillinoisedu-my.sharepoint.com/personal/key4_illinois_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkey4_illinois_edu%2FDocuments%2FAttachments%2Fagentoccam-judge.zip&parent=%2Fpersonal%2Fkey4_illinois_edu%2FDocuments%2FAttachments&ga=1,,candidate,,,,2026-11-05T21:13:05Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e42b286fd85b62bd7bb1,,,https://huggingface.co/microsoft/GUI-Actor-2B-Qwen2-VL,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e4f4392676b433e7f8ac,,,https://huggingface.co/Qwen/Qwen2.5-Omni-7B,,candidate,,,,2026-11-05T21:13:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e4ff61ac97514be7103b,,,https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_MMBench-GUI_A_Unified_Hierarchical_Evaluation_Framework_for_Multi-Platform_GUI_Agents_CVPR_2026_paper.pdf,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e5207e403e3a7d8212ba,,,https://huggingface.co/datasets/listen2you002/ChartLlama-Dataset,,candidate,,,,2026-10-16T06:36:02Z
@@ -1677,59 +1505,40 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e68b8a6065350ceab375,,,https://zerostep.com,,candidate,,,,2026-11-05T21:12:51Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e73eb2f901a50145c37e,,,https://computer-agents.com,,candidate,,,,2026-10-16T06:40:53Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e7653b062bded670198a,,,https://huggingface.co/datasets/NAIL-Group/ClawBenchV1Trace,,candidate,,,,2026-10-18T11:53:46Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e7fea3f3f07c57a16dae,,,https://browserable.ai,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e8256e338a9c379ca85b,,,https://huggingface.co/datasets/MagmaAI/Magma-Mind2Web-SoM,,candidate,,,,2026-10-17T17:18:21Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e86b3a1454b494224f07,,,https://doi.org/10.1145/3832165,,candidate,,,,2026-11-05T21:11:32Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e876bff0950b82a0c9b7,AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents,,https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html,,candidate,,,,2026-10-17T04:11:34Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e8cea6261ab19611ad23,,,https://huggingface.co/datasets/johnzqlu/clawgui-eval,,candidate,,,,2026-10-16T06:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:e98dd05ca4d39c0c62d1,,,https://doi.org/10.18653/v1/2025.emnlp-main.1334,,candidate,,,,2026-11-05T22:45:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ea75a3a35abbf35ce5f4,,,https://huggingface.co/bartowski/smolagents_SmolVLM2-2.2B-Instruct-Agentic-GUI-GGUF,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ea8cab7586b63da9b40b,,,https://drive.google.com/file/d/1M-PAz9S7cvYR8T6-VIEZKMbw7yVTN5je/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:eb791c465f47690ade31,,,https://www.researchgate.net/publication/371143847_Task_Automation_Intelligent_Agents_A_Review,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ebc6421ebf9b4f9c6c06,,,https://huggingface.co/datasets/saelyne/GuideBench,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ec17d3267cd49548d2d4,,,https://bugcraft2025.github.io,,candidate,,,,2026-11-05T21:12:58Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ec654cf13aa556e8548a,,,https://drive.google.com/file/d/1G59RtEDg4-jVEjUwHlDV1NKvPQA9antF/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:eca4f159298bf51079b4,,,https://huggingface.co/Qwen/Qwen3.5-2B,,candidate,,,,2026-10-17T01:48:10Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ecf89236d4e75b05c7b4,,,https://docs.aws.amazon.com/bedrock-agentcore,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ed599761bbe23dfce405,,,https://www.adept.ai/blog/fuyu-8b,,candidate,,,,2026-10-17T15:36:03Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ed8d5883c240b78e329f,,,https://huggingface.co/Hcompany/Holo2-30B-A3B,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:edb0eadcc3df5559e941,,,https://huggingface.co/datasets/apurvaga/go-browse-wa-raw,,candidate,,,,2026-10-17T02:44:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ee3a18b51eb44d94a94b,,,https://huggingface.co/Hcompany/Holo-3.1-35B-A3B-GGUF,,candidate,,,,2026-10-17T04:07:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ee4ab0ba1723ccd0da95,,,https://paperswithcode.com/dataset/automotiveui-bench-4k,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ee529a58dd837da8e638,,,https://openreview.net/pdf?id=HY0VG19fHv,,candidate,,,,2026-11-05T21:12:56Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:eea8b5ee1afe347ceef1,,,https://microcosm.ai/ivispar,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:eef68f0e3f42bb460cc8,,,https://openaccess.thecvf.com/content/CVPR2024/html/Kil_Dual-View_Visual_Contextualization_for_Web_Navigation_CVPR_2024_paper.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ef5f03efdbd5e3da2ed7,,,https://axiom.ai,,candidate,,,,2026-11-05T21:12:51Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ef732d252e9eb9b04e20,,,https://huggingface.co/Hcompany/Holo4-35B-A3B-NVFP4,,candidate,,,,2026-10-17T04:07:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ef7a45799a4503144a4d,,,https://www.preprints.org/manuscript/202408.2137/v1,,candidate,,,,2026-10-16T06:43:37Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:efd78f56fcde1f4f05e5,,,https://www.hcompany.ai/blog/surfer-2,,candidate,,,,2026-11-05T21:13:02Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:eff580f3185f2a36c265,,,https://yutori.com,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f003d86cbce78f10ad86,,,https://drive.google.com/file/d/1Skq_uMcAR08LMDnIpOswjxm5ntbVXm5M/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f00b2ed65c517295a6cc,,,https://huggingface.co/datasets/markov-ai/computer-use-large,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f02c72d775ae29957781,,,https://dl.acm.org/doi/abs/10.1145/3654777.3676414,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f039da43799772645c92,,,https://huggingface.co/datasets/yanhhh/AndroidAvd,,candidate,,,,2026-10-17T01:54:57Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f0d01d171915a4d4213d,,,https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list,,candidate,,,,2026-11-05T21:12:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f0eac3ad813245645492,,,https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f0ffbdc41c9dca4c585f,,,https://huggingface.co/Zery/CUA_World_State_Model,,candidate,,,,2026-11-05T21:13:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f1c6d06934fa2e11074c,,,https://huggingface.co/datasets/BoyuNLP/Misc/tree/main/Experiments/AndroidWorld,,candidate,,,,2026-11-05T21:13:02Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f282dd567e6a47f515be,,,https://www.sciencedirect.com/science/article/pii/S014193822400043X,,candidate,,,,2026-11-05T21:12:47Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f2c34526651f5f57cf98,,,https://huggingface.co/OS-Copilot/OS-Genesis-8B-WA,,candidate,,,,2026-10-16T06:36:01Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f2cf4ec32aa0b3ba6b95,,,https://huggingface.co/datasets/agentsea/wave-ui-25k,,candidate,,,,2026-10-17T15:36:03Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f369aedf36167fc93640,,,https://modelscope.cn/models/extreme1228/ScaleCUA-glm4.6v-osworld-sft,,candidate,,,,2026-10-16T11:21:59Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f39d67f7a4a6f869f39c,,,https://huggingface.co/Hcompany/Holotron-3-Nano,,candidate,,,,2026-10-17T04:07:19Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f3a7296977a39c37f693,,,https://huggingface.co/Hcompany/Holo4-35B-A3B-FP8,,candidate,,,,2026-10-17T04:07:19Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f56dbd8bfac8b0545e07,,,https://huggingface.co/datasets/9211sun/GUI-Xplore,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f58895265a31c37d12b4,,,https://www.preprints.org/manuscript/202608.0265/v1,,candidate,,,,2026-11-05T21:12:48Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f59c2dd51c1f5c570a28,,,https://huggingface.co/extreme1228/ScaleCUA-glm4.6v-osworld-sft,,candidate,,,,2026-10-16T11:21:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f646e91cb6c6a1dbe676,,,https://ieeexplore.ieee.org/abstract/document/9237151,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f6c88faa4392848f81b6,,,https://huggingface.co/datasets/ServiceNow/GroundCUA,,candidate,,,,2026-10-17T01:48:10Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f6e1a7527f9346ed1c1d,,,https://huggingface.co/datasets/GUI-Libra/GUI-Libra-81K-SFT,,candidate,,,,2026-11-05T21:13:14Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f71c8181cb28b8bda0ab,,,https://help.openai.com/en/articles/10561834-operator-release-notes,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f74a85ab6f92b7f70874,Minion AI,,https://minion.ai,,candidate,,,current source snapshot needs editorial review,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f75cab7180d8f5264606,,,https://huggingface.co/OpenGVLab/ZeroGUI-AndroidLab-7B,,candidate,,,,2026-10-16T06:36:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f78cd92382d829594109,,,https://openaccess.thecvf.com/content/CVPR2022/html/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.html,,candidate,,,,2026-11-05T21:12:47Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f7e21b1a3ba5c58a73bc,,,https://vostride.com/benchmark/android-world,,candidate,,,,2026-11-05T21:12:48Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f885d17601171253d25e,,,https://www.adept.ai/blog/act-1,,candidate,,,,2026-10-16T06:31:04Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f887b4d81cc93a05a601,,,https://codeium.com,,candidate,,,,2026-10-16T06:31:06Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f8a956094e526a92caf3,,,https://ai.meta.com/blog/introducing-muse-spark-meta-model-api,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:f8b67bde8c79e7934a2a,,,https://droidrun.ai/benchmark/method,,candidate,,,,2026-11-05T21:13:02Z
@@ -1748,10 +1557,8 @@ version,generated_at,population,curated,id,name,kind,url,page_url,review_status,
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:fd7e9209a185dada93b6,,,https://drive.google.com/file/d/1QdYgLmpCXNNoBD07XxW-rFHuRtv7sZPp/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:fd972cb2a17ce6a5cab2,,,https://drive.google.com/file/d/1T58G_EIr4pWZYJ8plXEWspFHr35g-Nsy/view?usp=drive_link,,candidate,,,,2026-11-05T21:12:59Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:fda4dcbcbb574c470755,,,https://drive.google.com/file/d/13TLIwX4LgdNwp2m2entfwXf8S2MjhOdM/view?usp=sharing,,candidate,,,,2026-11-05T21:13:02Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:fdb901523979ed1e831b,,,https://huggingface.co/ByteDance-Seed/UI-TARS-72B-SFT,,candidate,,,,2026-11-05T21:13:20Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:fe78bb6fd9799e7c4502,,,https://voyager.minedojo.org,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:feecb301fc42cde3c39c,,,https://mmmu-benchmark.github.io,,candidate,,,,2026-11-05T21:12:48Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ff982ec58b5be85bcd23,,,https://journals.sagepub.com/doi/10.1177/2379298119833860,,candidate,,,,2026-11-05T21:12:49Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ffc05c4425f777924940,,,https://ieeexplore.ieee.org/abstract/document/10298721,,candidate,,,,2026-11-05T21:12:58Z
-1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ffca8c33695986806a57,,,https://www.preprints.org/manuscript/202408.2137,,candidate,,,,2026-10-16T06:31:05Z
 1.0.0,2026-11-07T13:25:28Z,candidate_identifier,false,url:ffe40334f1050b94f8b2,,,https://huggingface.co/datasets/MagmaAI/Magma-AITW-SoM,,candidate,,,,2026-10-17T17:18:21Z

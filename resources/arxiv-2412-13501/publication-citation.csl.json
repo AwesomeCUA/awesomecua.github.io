@@ -1,0 +1,189 @@
+{
+  "id": "arxiv:2412.13501:publication",
+  "citation-key": "arxiv_2412_13501_publication",
+  "type": "paper-conference",
+  "title": "GUI Agents: A Survey",
+  "URL": "https://aclanthology.org/2025.findings-acl.1158/",
+  "custom": {
+    "catalog_id": "arxiv:2412.13501",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.13501",
+    "identifiers": {
+      "arxiv": "2412.13501"
+    },
+    "first_published_at": "2024-12-18",
+    "record_updated_at": "2025-09-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ae8f83d0490e70db1ae9c55c071935fb1f59e1358335c1bd3f50835611f4360c",
+      "submitted_at": "2024-12-18T04:48:28Z",
+      "updated_at": "2025-09-26T21:01:59Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.13501v3"
+    },
+    "publication": {
+      "authors": [
+        "Dang Nguyen",
+        "Jian Chen",
+        "Yu Wang",
+        "Gang Wu",
+        "Namyong Park",
+        "Zhengmian Hu",
+        "Hanjia Lyu",
+        "Junda Wu",
+        "Ryan Aponte",
+        "Yu Xia",
+        "Xintong Li",
+        "Jing Shi",
+        "Hongjie Chen",
+        "Viet Dac Lai",
+        "Zhouhang Xie",
+        "Sungchul Kim",
+        "Ruiyi Zhang",
+        "Tong Yu",
+        "Mehrab Tanjim",
+        "Nesreen K. Ahmed",
+        "Puneet Mathur",
+        "Seunghyun Yoon",
+        "Lina Yao",
+        "Branislav Kveton",
+        "Jihyung Kil",
+        "Thien Nguyen",
+        "Trung Bui",
+        "Tianyi Zhou",
+        "Ryan A. Rossi",
+        "Franck Dernoncourt"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.1158",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.1158/"
+      ],
+      "identity_basis": "Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "22522-22538",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.1158.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "GUI Agents: A Survey",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.1158/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-07.",
+  "author": [
+    {
+      "literal": "Dang Nguyen"
+    },
+    {
+      "literal": "Jian Chen"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Gang Wu"
+    },
+    {
+      "literal": "Namyong Park"
+    },
+    {
+      "literal": "Zhengmian Hu"
+    },
+    {
+      "literal": "Hanjia Lyu"
+    },
+    {
+      "literal": "Junda Wu"
+    },
+    {
+      "literal": "Ryan Aponte"
+    },
+    {
+      "literal": "Yu Xia"
+    },
+    {
+      "literal": "Xintong Li"
+    },
+    {
+      "literal": "Jing Shi"
+    },
+    {
+      "literal": "Hongjie Chen"
+    },
+    {
+      "literal": "Viet Dac Lai"
+    },
+    {
+      "literal": "Zhouhang Xie"
+    },
+    {
+      "literal": "Sungchul Kim"
+    },
+    {
+      "literal": "Ruiyi Zhang"
+    },
+    {
+      "literal": "Tong Yu"
+    },
+    {
+      "literal": "Mehrab Tanjim"
+    },
+    {
+      "literal": "Nesreen K. Ahmed"
+    },
+    {
+      "literal": "Puneet Mathur"
+    },
+    {
+      "literal": "Seunghyun Yoon"
+    },
+    {
+      "literal": "Lina Yao"
+    },
+    {
+      "literal": "Branislav Kveton"
+    },
+    {
+      "literal": "Jihyung Kil"
+    },
+    {
+      "literal": "Thien Nguyen"
+    },
+    {
+      "literal": "Trung Bui"
+    },
+    {
+      "literal": "Tianyi Zhou"
+    },
+    {
+      "literal": "Ryan A. Rossi"
+    },
+    {
+      "literal": "Franck Dernoncourt"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.findings-acl.1158",
+  "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "publisher": "Association for Computational Linguistics",
+  "page": "22522-22538"
+}

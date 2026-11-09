@@ -30,6 +30,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Introduces WaitLens, a vision-language model trained on GUI loading trajectories to decide when testing agents can stop waiting for an interface to load.
 - [Reuse, Rewrite, or Reject: Evidence-Constrained Trace Reuse for Repeated Mobile GUI Control](https://awesomecua.com/resources/arxiv-2610-31712/) — 2026-10-22
   Proposes graph-text templates that let mobile GUI agents reuse, adapt, or discard steps from earlier executions based on the current instruction and UI state.
+- [In-Context Teacher–Student Guidance for Open-Weight Browser Agents](https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/) — 2026-10-19
+  Training-free protocol that turns a teacher model's offline reasoning traces into prompt guidance for open-weight browser agents; on MiniWoB++ it lifts solved student-task pairs from 208 to 271 across ten students.
 - [Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs](https://awesomecua.com/resources/arxiv-2610-26660/) — 2026-10-19
   Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point state checkpoints, rollback-aware speculative decoding and idle power release between request bursts.
 - [VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards](https://awesomecua.com/resources/arxiv-2610-26469/) — 2026-10-19
@@ -418,6 +420,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Introduces Steward, a natural-language browser automation system that repeatedly plans and executes website actions. The paper examines completion detection, state representation, responsiveness, and caching in real-site tasks.
 - [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://awesomecua.com/resources/arxiv-2407-13032/) — 2024-07-17
   Agent-E combines hierarchical web-task control with DOM distillation and observations of interface changes. WebVoyager experiments inform a broader discussion of primitive skills, observation reduction, and self-improvement in agent architecture.
+- [UINav: A Practical Approach to Train On-Device Automation Agents](https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/) — 2024-06
+  Trains small Android automation agents from demonstrations, using macro actions with status checks, demonstration augmentation, and a referee model that predicts task completion to guide further demonstrations.
 - [UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model](https://awesomecua.com/resources/arxiv-2310-05126/) — 2023-10-08
   Introduces UReader, which combines unified instruction tuning, auxiliary text-reading tasks and shape-adaptive image crops for OCR-free visual language understanding. Its evaluation includes webpage screenshots alongside documents, tables, charts and natural images.
 - [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://awesomecua.com/resources/arxiv-2306-07863/) — 2023-06-13
@@ -456,6 +460,11 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
 - [web-agent-bench](https://awesomecua.com/resources/github-nsosio-web-agent-bench/) — Date not recorded
   web-agent-bench compares browser-automation harnesses (Playwright MCP, agent-browser, Stagehand) on token usage, latency, and task completion.
 
+## 数据集
+
+- [CUA Speedrun results](https://awesomecua.com/resources/url-099451a33699510476df/) — Date not recorded
+  Trajectory archives and per-task results from CUA Speedrun evaluations of computer-use models on OSWorld subsets, CUA-World and MyPCBench, with verifier scores, measured task times and recorded or estimated costs.
+
 ## 模型
 
 - [browserground](https://awesomecua.com/resources/github-renezander030-browserground/) — Date not recorded
@@ -468,18 +477,34 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   GUI grounding research using modality-aware visual reasoning and test-time scaling.
 - [GroundAnything](https://awesomecua.com/resources/github-groundingpi-groundanything/) — Date not recorded
   GroundAnything is a 4B parallel-decoding diffusion grounding model for low-latency visual coordinate localization.
+- [Holo4 27B FP8](https://awesomecua.com/resources/url-354c5b46fd423f9b1b85/) — Date not recorded
+  FP8 block-quantized release of the Holo4-27B computer-use model; an external harness sends it screenshots and tool results and executes the clicks, typing, code and tool calls it requests.
+- [Holo4 27B GGUF](https://awesomecua.com/resources/url-acfd6d395d67ce8011bb/) — Date not recorded
+  Q4_K_M GGUF release of the Holo4-27B computer-use model with a separate F16 vision projector; an external harness sends it screenshots and tool results and executes the actions and tool calls it requests.
+- [Holotron 3 Nano](https://awesomecua.com/resources/url-f39d67f7a4a6f869f39c/) — Date not recorded
+  Computer-use policy checkpoint that H Company post-trained from NVIDIA Nemotron 3 Nano Omni, a hybrid Mamba-MoE model with 3B of 30B parameters active per token, aimed at lower-latency agent workloads.
+- [Holotron-12B](https://awesomecua.com/resources/url-6c16f91d8d79d7836283/) — Date not recorded
+  Computer-use policy checkpoint from H Company and NVIDIA, fine-tuned from Nemotron Nano 12B v2 VL on localization and navigation data, with a hybrid SSM-attention backbone for high-throughput multi-image inference.
+- [Holotron4 30B-A3B FP8](https://awesomecua.com/resources/url-a72a105e755836154412/) — Date not recorded
+  FP8 release of Holotron4-30B-A3B, H Company's computer-use model built on Nemotron 3 Nano Omni; an external harness sends it screenshots and tool results and executes the clicks, typing, code and tool calls it requests.
 - [HTLM](https://awesomecua.com/resources/github-espetro-htlm/) — Date not recorded
   HTLM is a compact 350M browser-agent model fine-tuned on Mind2Web for fast on-device and in-browser DOM action prediction.
 - [kev-browser-use](https://awesomecua.com/resources/github-arbazsiddiqui-kev-browser-use/) — Date not recorded
   kev-browser-use is a compact 0.6B System-One action model fine-tuned on Mind2Web for low-latency browser element selection.
 - [Laya-Android](https://awesomecua.com/resources/github-byun11-laya-android/) — Date not recorded
   Laya-Android is a compact 322M on-device decision model for Android GUI action selection.
+- [laya-browser](https://awesomecua.com/resources/url-c5b0e2eab771f62792fb/) — Date not recorded
+  Non-generative browser-agent policy fine-tuned from the 322M laya encoder: one forward pass over page text and the interactive-element list picks the next operation and its target element.
 - [Mano-P](https://awesomecua.com/resources/github-mininglamp-ai-mano-p/) — Date not recorded
   Mano-P is an open-source GUI vision-language-action model optimized for edge devices and evaluated on OSWorld and Mind2Web.
 - [Milo-Pointer](https://awesomecua.com/resources/github-chayworks-milo-pointer/) — Date not recorded
   Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and action selector for mobile phone agents.
 - [OneJev](https://awesomecua.com/resources/github-omnijev-onejev/) — Date not recorded
   OneJev is a multimodal System-One decision model based on Qwen that returns calibrated probabilities over typed action choices.
+- [OpenJev](https://awesomecua.com/resources/github-alanhuangyoo-openjev/) — Date not recorded
+  Decision models at 1.7B, 4B and 8B that answer typed questions with calibrated probabilities in one pass; trained on browser-agent steps and general decision data, they pick a web agent's next operation and element.
+- [PTA-1](https://awesomecua.com/resources/url-303e1926b8ff4f60e006/) — Date not recorded
+  AskUI's Florence-2-base grounding model of about 270M parameters that returns a bounding box for a described element in a screenshot, intended for low-latency local computer and phone automation.
 - [ShowUI](https://awesomecua.com/resources/github-showlab-showui/) — Date not recorded
   Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, released with UI-guided token selection, training code, the ShowUI-web and ShowUI-desktop datasets and vLLM inference.
 - [ShowUI 2B](https://awesomecua.com/resources/url-c0f39f7cf2cd9c18e8bd/) — Date not recorded
@@ -551,6 +576,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Batch web-form automation framework with self-healing selectors that runs LLM-free at runtime.
 - [Automata](https://awesomecua.com/resources/github-mindattic-automata/) — Date not recorded
   Record-once, replay-many browser automation runtime for Windows that records live user actions into deterministic workflows.
+- [AUV](https://awesomecua.com/resources/github-moeru-ai-auv/) — Date not recorded
+  Rust toolkit, CLI and MCP server for scripting reusable GUI operations on macOS, Linux and Windows, with native input drivers, accessibility trees, OCR and traced, verifiable action results.
 - [axstream](https://awesomecua.com/resources/github-milind-soni-axstream/) — Date not recorded
   Streaming JSON-lines action language and compiler for macOS computer-use agents.
 - [azderus browser-agent](https://awesomecua.com/resources/github-azderus-browser-agent/) — Date not recorded
@@ -679,6 +706,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Rust-based browser automation engine driving Chrome over CDP with built-in anti-bot evasions and low-latency DOM extraction.
 - [FastAgent](https://awesomecua.com/resources/github-hkuds-fastagent/) — Date not recorded
   FastAgent is a lightweight multi-agent orchestration framework by HKUDS for low-latency tool, browser, and desktop workflow execution.
+- [fastbrowse](https://awesomecua.com/resources/github-agent-labs-dev-fastbrowse/) — Date not recorded
+  Browser agent in which TypeSafe's Jev picks each action from controls indexed on the page over CDP, an LLM plans and reads, and code gates inputs, secrets and irreversible steps; answers cite page quotes.
 - [FastCUA](https://awesomecua.com/resources/github-guojiz-fastcua/) — Date not recorded
   Local, accessibility-first Windows control plane for AI agents exposing structured UI trees and multi-action execution.
 - [faster-browser-agent](https://awesomecua.com/resources/github-mikastiebitz-faster-browser-agent/) — Date not recorded
@@ -689,6 +718,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   FerrisGrid-CLI captures screenshots, maps UI regions to deterministic grid coordinates, and executes constrained desktop actions in Rust.
 - [Flash Computer Use](https://awesomecua.com/resources/github-shortsspectrumai-del-flash-computer-use/) — Date not recorded
   Flash Computer Use is a hybrid browser DOM and native OS accessibility MCP server for low-latency desktop and web automation.
+- [FluidUse](https://awesomecua.com/resources/github-fluidinference-fluiduse/) — Date not recorded
+  Swift package for local computer use on Apple silicon that reads forms in running Mac apps or browsers through the Accessibility API and fills them with on-device Core ML decision models.
 - [Forged](https://awesomecua.com/resources/github-sam-siavoshian-forged/) — Date not recorded
   Self-learning browser automation MCP server that records successful agent trajectories and replays deterministic Playwright steps.
 - [Front-End Operation Master (FEOM)](https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/) — Date not recorded
@@ -743,12 +774,16 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Jev Browser Agent combines Browser Use DOM extraction, Jev System-One action selection, and deterministic browser harness execution.
 - [Jev Filter](https://awesomecua.com/resources/github-apixly-ai-jev-filter/) — Date not recorded
   Jev Filter uses compact System-One models to semantically prune large DOM snapshots, logs, and tool outputs before they enter agent context.
+- [Jev for Chrome](https://awesomecua.com/resources/github-chy4pro-jev-for-chrome/) — Date not recorded
+  Chrome extension agent that sends an indexed table of visible page controls to the TypeSafe Jev decision model, asks a small text model only for typed strings, and acts through Chrome's debugger input.
 - [Jev macOS Loop](https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/) — Date not recorded
   Jev macOS Loop combines Apple Silicon local Jev decision models, OmniParser grounding, and native macOS Accessibility actuation.
 - [jev-browser](https://awesomecua.com/resources/github-doruktarhan-jev-browser/) — Date not recorded
   jev-browser is a Claude Code skill and CLI (`jb`) that delegates multi-step web navigation to the Jev System-One action model.
 - [jev-for-chrome](https://awesomecua.com/resources/github-luciferlu755-jev-for-chrome/) — Date not recorded
   Chrome extension that drives web browsing, clicking, and typing using TypeSafe Jev System-One decision models.
+- [jev-use](https://awesomecua.com/resources/github-savka777-jev-use/) — Date not recorded
+  macOS voice and typed computer-use app that walks the front app's Accessibility tree, has the hosted Jev model pick an operation and a numbered target each step, and acts via Accessibility actions and synthetic input.
 - [jev-windows-agent](https://awesomecua.com/resources/github-vbs2004-jev-windows-agent/) — Date not recorded
   jev-windows-agent pairs Windows UI Automation inspection with a fast Jev System-One decision loop for low-latency desktop control.
 - [Kiko Windows Voice Assistant](https://awesomecua.com/resources/github-blazecodeprakhar-kiko-windows-voice-assistant/) — Date not recorded
@@ -853,10 +888,14 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Model Context Protocol server for parallel multi-session browser automation across local and cloud browser providers.
 - [pc-screen-control](https://awesomecua.com/resources/github-desteny-dev-pc-screen-control/) — Date not recorded
   Windows Model Context Protocol server that exposes the desktop accessibility tree as structured data rather than screenshots.
+- [pebkac](https://awesomecua.com/resources/github-michaelsoftmd-pebkac-chrome/) — Date not recorded
+  Self-hosted web co-browser in which a smolagents code agent on a local llama.cpp model writes Python that drives Chrome through Zendriver: navigation, CSS-selector clicks and typing, Trafilatura text extraction and tabs.
 - [perceive](https://awesomecua.com/resources/github-gauthierpiarrette-perceive/) — Date not recorded
   perceive is a reachability-filtered perception layer for browser agents that prunes non-interactive or occluded DOM elements.
 - [PhoneClaw](https://awesomecua.com/resources/github-kellyvv-phoneclaw/) — Date not recorded
   PhoneClaw turns iOS and Android smartphones into local AI agent runtimes with on-device model inference and native system skills.
+- [PhoneCLI](https://awesomecua.com/resources/github-hkuds-phonecli/) — Date not recorded
+  Mobile-agent harness that crawls an app into a YAML map of screens, replays compiled navigation commands through WebDriverAgent on iOS or ADB on Android, and falls back to a VLM for unseen screens.
 - [Pi Jev Browser](https://awesomecua.com/resources/github-laihenyi-pi-jev-browser/) — Date not recorded
   Pi Jev Browser is a browser and macOS agent for the pi coding harness where Jev selects actions over structured page observations.
 - [pixelpi](https://awesomecua.com/resources/github-josharsh-pixelpi/) — Date not recorded
@@ -869,6 +908,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   POK-Agent is a Windows computer-use agent that pairs a cloud planner with a fast local actor and caches repeated UI workflows as skills.
 - [PreAct](https://awesomecua.com/resources/github-19pine-ai-preact/) — Date not recorded
   PreAct compiles repeated computer-use agent trajectories into cached action graphs with lightweight visual verification to accelerate execution.
+- [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/) — Date not recorded
+  Runtime trust layer for browser agents: a sidecar checks each action against local policy before it runs, and SDKs turn pages into compact ranked element snapshots and verify outcomes with DOM assertions.
 - [Project Interface (Legacy Web UI Compiler)](https://awesomecua.com/resources/github-shahadeven-project-interface/) — Date not recorded
   Uses an LLM to discover how to complete a task in a legacy web UI once and distills the run into a reusable programmatic interface.
 - [Public Browser](https://awesomecua.com/resources/github-silbercue-public-browser/) — Date not recorded
@@ -933,6 +974,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   Focus-free macOS computer-use tool that presses native Accessibility buttons in the background without moving the user's cursor.
 - [super-computer-use](https://awesomecua.com/resources/github-paperfoot-super-computer-use/) — Date not recorded
   Low-latency macOS computer-use driver (~35ms per action) supporting batched multi-step UI workflows.
+- [System1-Agents](https://awesomecua.com/resources/github-thinkflowlab-system1-agents/) — Date not recorded
+  Framework that puts System 1 decision models such as Jev, Laya or Cua-S1 in openJiuwen agents to pick one typed option per step; ships browser, desktop-app, game, ALFWorld and ticket-routing agents.
 - [TalkAct](https://awesomecua.com/resources/github-19pine-ai-talkact/) — Date not recorded
   TalkAct is a dual-model voice and computer-use agent that conducts real-time spoken dialogue while executing background GUI actions.
 - [Taprun (tap)](https://awesomecua.com/resources/github-leonting1010-tap/) — Date not recorded
@@ -949,6 +992,8 @@ Full source records: https://awesomecua.com/downloads/topics/efficiency/records.
   ToolCUA trains computer-use agents to orchestrate hybrid MCP tool invocations and GUI actions on OSWorld-MCP.
 - [ToolTok](https://awesomecua.com/resources/github-zephinuecode-tooltok/) — Date not recorded
   ToolTok introduces atomic directional cursor-movement tokens for multi-step iterative GUI visual grounding on ScreenSpot and ScreenSpot-Pro.
+- [typesafe-computer-use](https://awesomecua.com/resources/github-awlevin-typesafe-computer-use/) — Date not recorded
+  Computer-use loop that reads the screen with OCR and accessibility labels, has the hosted TypeSafe classifier choose each next action with a confidence, and calls a writer model only for free text.
 - [UI2API](https://awesomecua.com/resources/github-merezarezaei-ui2api/) — Date not recorded
   Analyzes a website's UI and network traffic once to synthesize reusable, browser-free API tools for AI agents.
 - [UltraWin MCP](https://awesomecua.com/resources/github-jxoesneon-ultrawin-mcp/) — Date not recorded

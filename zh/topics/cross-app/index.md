@@ -105,6 +105,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 
 ## 评测基准
 
+- [AgentCIBench](https://awesomecua.com/resources/url-d7f35409d35584385097/) — Date not recorded
+  Contextual-integrity benchmark for computer-use agents: 117 synthetic multi-app workspace scenarios that pair under-specified requests with must-share and must-not-share lists, plus a 50-scenario live-UI subset.
 - [AppWorld](https://awesomecua.com/resources/github-stonybrooknlp-appworld/) — Date not recorded
   Simulated applications, user data, and state-based task checks for evaluating agents that interact through APIs and code.
 - [ColorBench](https://awesomecua.com/resources/github-madeagents-colorbench/) — Date not recorded
@@ -113,6 +115,8 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   Cross-environment benchmark framework for multimodal agents.
 - [iOSWorld](https://awesomecua.com/resources/github-ljang0-iosworld/) — Date not recorded
   Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.
+- [MemGUI-Bench](https://awesomecua.com/resources/github-lgy0404-memgui-bench/) — Date not recorded
+  Memory-centric Android benchmark of 128 tasks across 26 apps, run in Dockerized emulators on a MobileWorld-style runtime and judged by MemGUI-Eval, an LLM evaluator reporting pass@k and memory metrics.
 - [Mobile-Eval-E task definitions](https://awesomecua.com/resources/url-342b081c3668a8bbe155/) — Date not recorded
   Task definitions for Mobile-Agent-E’s long-horizon, multi-app Android evaluation, packaged as a 25-record test split with rubrics and human-reference operation strings.
 - [MobileGUI-VBench](https://awesomecua.com/resources/url-d7a4f34a6a5202af5f64/) — Date not recorded
@@ -138,8 +142,12 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
 
 - [GUI-Odyssey](https://awesomecua.com/resources/github-opengvlab-gui-odyssey/) — Date not recorded
   Human-demonstrated Android episodes for cross-app navigation, spanning six task types, 212 apps and about 1,400 app combinations, for training and evaluating agents.
+- [GUI-Odyssey — original OpenGVLab release](https://awesomecua.com/resources/url-5f7e55313246edf727bf/) — Date not recorded
+  Original Hub upload of GUI Odyssey: 7,735 cross-app Android navigation episodes from six emulated devices with per-step screenshots, actions and four split files, which the card says is superseded.
 - [GUIOdyssey — current data release](https://awesomecua.com/resources/url-511903ebfac45e6751b2/) — Date not recorded
   Cross-app Android interaction episodes with fine-grained step instructions, screen descriptions, action context, and target boxes.
+- [Uni-GUI-Desktop-1](https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/) — Date not recorded
+  Desktop trajectories from the UI-MOPD training data, collected in OSWorld environments: 2,685 tasks across 10 app categories with step screenshots, reasoning traces, normalized actions and pyautogui code.
 
 ## 工程与产业
 
@@ -149,8 +157,12 @@ Full source records: https://awesomecua.com/downloads/topics/cross-app/records.j
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
 - [Lom Desktop (麓鸣)](https://awesomecua.com/resources/github-rfdiosuao-lom-desktop/) — Date not recorded
   Lom is an open-source multi-agent workspace coordinating desktop coding agents with cross-device Android phone execution.
+- [MacOS Agent (BIGAI)](https://awesomecua.com/resources/github-computer-use-agents-macos-agent/) — Date not recorded
+  macOS agent in which a smolagents code agent dispatches per-application sub-agents that read accessibility trees and window screenshots and act through pyautogui mouse and keyboard input.
 - [Macuse MCP](https://awesomecua.com/resources/github-macuse-app-macuse-mcp/) — Date not recorded
   Macuse MCP is a native macOS Model Context Protocol server granting AI agents direct control over Calendar, Mail, Notes, Messages, and GUI apps.
+- [OS AI Computer Use](https://awesomecua.com/resources/github-777genius-os-ai-computer-use/) — Date not recorded
+  Local desktop agent that sends plain screenshots to OpenAI's or Anthropic's computer-use tool and performs the returned clicks, drags, scrolls and keystrokes through PyAutoGUI-based drivers on macOS, Windows and Linux.
 - [PC-Agent](https://awesomecua.com/resources/github-gair-nlp-pc-agent/) — Date not recorded
   Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
 - [PC-Agent (X-PLUG component)](https://awesomecua.com/resources/component-x-plug-mobileagent-pc-agent/) — Date not recorded

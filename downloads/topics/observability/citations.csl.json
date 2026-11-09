@@ -4350,5 +4350,141 @@
     "title": "Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://openreview.net/forum?id=3x4SDbXbgl",
+    "author": [
+      {
+        "literal": "Bowen Wang"
+      },
+      {
+        "literal": "Xinyuan Wang"
+      },
+      {
+        "literal": "Jiaqi Deng"
+      },
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Ryan Li"
+      },
+      {
+        "literal": "Yanzhe Zhang"
+      },
+      {
+        "literal": "Junli Wang"
+      },
+      {
+        "literal": "Dunjie Lu"
+      },
+      {
+        "literal": "Zicheng Gong"
+      },
+      {
+        "literal": "Gavin Li"
+      },
+      {
+        "literal": "Toh Hua"
+      },
+      {
+        "literal": "Wei-Lin Chiang"
+      },
+      {
+        "literal": "Ion Stoica"
+      },
+      {
+        "literal": "Diyi Yang"
+      },
+      {
+        "literal": "Yu Su"
+      },
+      {
+        "literal": "Yi Zhang"
+      },
+      {
+        "literal": "Zhiguo Wang"
+      },
+      {
+        "literal": "Victor Zhong"
+      },
+      {
+        "literal": "Tao Yu"
+      }
+    ],
+    "citation-key": "cua_ae5bb5203bc0e7da7b846ad0",
+    "container-title": "International Conference on Learning Representations 2026 (ICLR 2026)",
+    "custom": {
+      "canonical_source_url": "https://openreview.net/forum?id=3x4SDbXbgl",
+      "catalog_id": "url:5cfd441becdfc6ea622b",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2026-04-20",
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "Bowen Wang",
+          "Xinyuan Wang",
+          "Jiaqi Deng",
+          "Tianbao Xie",
+          "Ryan Li",
+          "Yanzhe Zhang",
+          "Junli Wang",
+          "Dunjie Lu",
+          "Zicheng Gong",
+          "Gavin Li",
+          "Toh Hua",
+          "Wei-Lin Chiang",
+          "Ion Stoica",
+          "Diyi Yang",
+          "Yu Su",
+          "Yi Zhang",
+          "Zhiguo Wang",
+          "Victor Zhong",
+          "Tao Yu"
+        ],
+        "date_basis": "Publisher citation_publication_date metadata on the ICLR proceedings page states 2026-04-20; precision=day.",
+        "date_parts": [
+          2026,
+          4,
+          20
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2026/hash/5f1d328711b162e1cf9896c7d6aaecdd-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: the ICLR 2026 proceedings page carries the same title, nineteen authors and abstract as OpenReview note 3x4SDbXbgl (venue ICLR 2026 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.",
+        "issue": null,
+        "notes": "Authors follow the proceedings page listing. The PDF byline and OpenReview print the eleventh author as Toh Jing Hua, and the PDF byline lists Ion Stoica before Wei-Lin Chiang. The record URL is the OpenReview forum; the proceedings page is the retained receipt. No DOI is given.",
+        "pages": "58008-58068",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/5f1d328711b162e1cf9896c7d6aaecdd-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents",
+        "type": "conference-paper",
+        "url": "https://openreview.net/forum?id=3x4SDbXbgl",
+        "venue": "International Conference on Learning Representations 2026 (ICLR 2026)",
+        "volume": "2026"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:5cfd441becdfc6ea622b",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          20
+        ]
+      ]
+    },
+    "note": "Publication date: 2026-04-20.",
+    "page": "58008-58068",
+    "title": "Computer Agent Arena: Toward Human-Centric Evaluation and Analysis of Computer-Use Agents",
+    "type": "paper-conference",
+    "volume": "2026"
   }
 ]

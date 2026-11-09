@@ -4,6 +4,10 @@ HTML page: https://awesomecua.com/categories/framework/page/2/
 
 Full category annotations: https://awesomecua.com/categories/framework/index.md
 
+- [Browser-Use Vision](https://awesomecua.com/resources/github-raidriar7170-browser-use-vision/)
+- [browser-use-rs](https://awesomecua.com/resources/github-bb-fat-browser-use-rs/)
+- [Browser4](https://awesomecua.com/resources/github-platonai-browser4/)
+- [Browserable](https://awesomecua.com/resources/github-browserable-browserable/)
 - [browserkit](https://awesomecua.com/resources/github-browserkit-dev-browserkit/)
 - [BrowserMesh](https://awesomecua.com/resources/github-scrolldynasty-browsermesh/)
 - [BrowserRig](https://awesomecua.com/resources/github-castor6-browserrig/)
@@ -61,6 +65,7 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [cuforge](https://awesomecua.com/resources/github-huzjie-cuforge/)
 - [cuse](https://awesomecua.com/resources/github-cuse-dev-cuse/)
 - [Cyber Seeds WebMCP](https://awesomecua.com/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/)
+- [Cybergod](https://awesomecua.com/resources/github-james4ever0-agi-computer-control/)
 - [D-PoT evaluation code](https://awesomecua.com/resources/github-sqzhang-lazy-d-pot/)
 - [DART-GUI](https://awesomecua.com/resources/github-computer-use-agents-dart-gui/)
 - [dcc-cua](https://awesomecua.com/resources/github-dcc-mcp-dcc-cua/)
@@ -78,6 +83,7 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [Dinoer](https://awesomecua.com/resources/github-ronandavalan-dinoer/)
 - [DistRL](https://awesomecua.com/resources/github-distrl-lab-distrl-open/)
 - [Domstamp](https://awesomecua.com/resources/github-zuub-don-domstamp/)
+- [DoomArena](https://awesomecua.com/resources/github-servicenow-doomarena/)
 - [draiqw browser-agent (bu_mcp)](https://awesomecua.com/resources/github-draiqw-browser-agent/)
 - [DrishtiGuard](https://awesomecua.com/resources/github-atharvasamant4-drishtiguard/)
 - [DroidCall generation and evaluation code](https://awesomecua.com/resources/github-ubiquitouslearning-droidcall/)
@@ -98,9 +104,3 @@ Full category annotations: https://awesomecua.com/categories/framework/index.md
 - [Evidence-Bounded GEO Workbench (WebMCP)](https://awesomecua.com/resources/github-subbu-ctd-chinamarketingai-webmcp/)
 - [ExpActivator](https://awesomecua.com/resources/github-fyzhang1-expactivator/)
 - [Explorer](https://awesomecua.com/resources/github-osu-nlp-group-explorer/)
-- [EyeBrowse](https://awesomecua.com/resources/github-evil-bane-eyebrowse/)
-- [Factifai](https://awesomecua.com/resources/github-presidio-oss-factif-ai/)
-- [FaizannRaza Computer-Use Automation](https://awesomecua.com/resources/github-faizannraza-computer-use-automation/)
-- [fara-7b-agent](https://awesomecua.com/resources/github-cobusgreyling-fara-7b-agent/)
-- [Farsyn](https://awesomecua.com/resources/github-xala-technologies-farsyn/)
-- [fast-browser-use](https://awesomecua.com/resources/github-nachafrommars-fast-browser-use/)

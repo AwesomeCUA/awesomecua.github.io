@@ -1,0 +1,72 @@
+{
+  "id": "url:a5dc446fab5e6bdce517",
+  "citation-key": "cua_62f47d5ea778ef28287ea260",
+  "type": "paper-conference",
+  "title": "In-Context Teacher–Student Guidance for Open-Weight Browser Agents",
+  "URL": "https://sol.sbc.org.br/index.php/kdmile/article/view/44978",
+  "custom": {
+    "catalog_id": "url:a5dc446fab5e6bdce517",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://sol.sbc.org.br/index.php/kdmile/article/view/44978",
+    "identifiers": {
+      "doi": "10.5753/kdmile.2026.32021"
+    },
+    "first_published_at": "2026-10-19",
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Wéwerthon Silva Cardoso",
+        "Ricardo Marcacini"
+      ],
+      "date_basis": "Crossref metadata deposited for the DOI gives issued and published-online dates of 2026-10-19; precision=day.",
+      "date_parts": [
+        2026,
+        10,
+        19
+      ],
+      "doi": "10.5753/kdmile.2026.32021",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://sol.sbc.org.br/index.php/kdmile/article/download/44978/44741",
+        "https://api.crossref.org/works/10.5753/kdmile.2026.32021"
+      ],
+      "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and arXiv searches for the title phrase, the method name and the two authors returned nothing; neither the PDF nor the Crossref deposit names an arXiv version, so this publisher edition seeds the record.",
+      "issue": null,
+      "notes": "Full paper in the KDMiLe 2026 proceedings published by SBC on its SOL open library. The PDF title page and Crossref list the same two authors in the same order. The PDF grants permission to copy without fee for non-commercial use with notice; no standard license is declared.",
+      "pages": "121-128",
+      "pdf_url": "https://sol.sbc.org.br/index.php/kdmile/article/download/44978/44741",
+      "publisher": "Sociedade Brasileira de Computação - SBC",
+      "series": null,
+      "title": "In-Context Teacher–Student Guidance for Open-Weight Browser Agents",
+      "type": "conference-paper",
+      "url": "https://sol.sbc.org.br/index.php/kdmile/article/view/44978",
+      "venue": "Anais do XIV Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2026)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2026-10-19.",
+  "author": [
+    {
+      "literal": "Wéwerthon Silva Cardoso"
+    },
+    {
+      "literal": "Ricardo Marcacini"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        19
+      ]
+    ]
+  },
+  "DOI": "10.5753/kdmile.2026.32021",
+  "container-title": "Anais do XIV Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2026)",
+  "publisher": "Sociedade Brasileira de Computação - SBC",
+  "page": "121-128"
+}

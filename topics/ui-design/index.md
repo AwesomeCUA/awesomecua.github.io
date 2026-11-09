@@ -139,6 +139,11 @@ Full source records: https://awesomecua.com/downloads/topics/ui-design/records.j
 - [UICrit](https://awesomecua.com/resources/github-google-research-datasets-uicrit/) — Date not recorded
   Mobile-interface critiques and quality ratings with region coordinates and RICO screen references, including a larger three-annotator release than the original paper dataset.
 
+## Models
+
+- [WebVIA-Agent](https://awesomecua.com/resources/url-62724cba1b5814215cf7/) — Date not recorded
+  GLM-4.1V-9B-based web exploration agent from WebVIA that reads a page screenshot and DOM tree and picks click, type or select actions to reach each interactive UI state for UI-to-code work.
+
 ## Engineering & industry
 
 - [Agent Eyes](https://awesomecua.com/resources/github-jumpsy-agent-eyes/) — Date not recorded

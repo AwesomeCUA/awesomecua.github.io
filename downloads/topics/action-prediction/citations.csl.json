@@ -4170,5 +4170,94 @@
     "title": "Visual Token Routing: Learning to keep tokens that matter",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://openreview.net/forum?id=3Gzz7ZQLiz",
+    "author": [
+      {
+        "literal": "Dongjun Lee"
+      },
+      {
+        "literal": "Juyong Lee"
+      },
+      {
+        "literal": "Kyuyoung Kim"
+      },
+      {
+        "literal": "Jihoon Tack"
+      },
+      {
+        "literal": "Jinwoo Shin"
+      },
+      {
+        "literal": "Yee Whye Teh"
+      },
+      {
+        "literal": "Kimin Lee"
+      }
+    ],
+    "citation-key": "cua_77f35bd12a0778d0787dcf74",
+    "container-title": "International Conference on Learning Representations 2025 (ICLR 2025)",
+    "custom": {
+      "canonical_source_url": "https://openreview.net/forum?id=3Gzz7ZQLiz",
+      "catalog_id": "url:60a2dc930fa11860858a",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2025-05-01",
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "Dongjun Lee",
+          "Juyong Lee",
+          "Kyuyoung Kim",
+          "Jihoon Tack",
+          "Jinwoo Shin",
+          "Yee Whye Teh",
+          "Kimin Lee"
+        ],
+        "date_basis": "Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/c995a913bc20ca39ce2231b8973be90a-Abstract-Conference.html",
+          "https://proceedings.iclr.cc/paper_files/paper/2025/file/c995a913bc20ca39ce2231b8973be90a-Paper-Conference.pdf"
+        ],
+        "identity_basis": "Same work: the ICLR 2025 proceedings page and PDF carry the same title, seven authors and abstract as OpenReview note 3Gzz7ZQLiz (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. An arXiv preprint, 2503.10689, carries the same title, the same seven authors and the comment \"Accepted to ICLR 2025\".",
+        "issue": null,
+        "notes": "The proceedings page and PDF byline list the same seven authors in the same order. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.",
+        "pages": "81039-81072",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/c995a913bc20ca39ce2231b8973be90a-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents",
+        "type": "conference-paper",
+        "url": "https://openreview.net/forum?id=3Gzz7ZQLiz",
+        "venue": "International Conference on Learning Representations 2025 (ICLR 2025)",
+        "volume": "2025"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:60a2dc930fa11860858a",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "81039-81072",
+    "title": "Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents",
+    "type": "paper-conference",
+    "volume": "2025"
   }
 ]

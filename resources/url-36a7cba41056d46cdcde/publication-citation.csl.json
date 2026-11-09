@@ -1,0 +1,77 @@
+{
+  "id": "url:36a7cba41056d46cdcde",
+  "citation-key": "cua_3e8726a86e1d08abaf70e3ee",
+  "type": "paper-conference",
+  "title": "Visual Grounding for User Interfaces",
+  "URL": "https://aclanthology.org/2024.naacl-industry.9/",
+  "custom": {
+    "catalog_id": "url:36a7cba41056d46cdcde",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://aclanthology.org/2024.naacl-industry.9/",
+    "identifiers": {
+      "doi": "10.18653/v1/2024.naacl-industry.9"
+    },
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Yijun Qian",
+        "Yujie Lu",
+        "Alexander G. Hauptmann",
+        "Oriana Riva"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        6
+      ],
+      "doi": "10.18653/v1/2024.naacl-industry.9",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.naacl-industry.9/"
+      ],
+      "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this paper was found.",
+      "issue": null,
+      "notes": "Publisher proceedings edition (NAACL 2024 Industry Track).",
+      "pages": "97-107",
+      "pdf_url": "https://aclanthology.org/2024.naacl-industry.9.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Visual Grounding for User Interfaces",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.naacl-industry.9/",
+      "venue": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-06.",
+  "author": [
+    {
+      "literal": "Yijun Qian"
+    },
+    {
+      "literal": "Yujie Lu"
+    },
+    {
+      "literal": "Alexander G. Hauptmann"
+    },
+    {
+      "literal": "Oriana Riva"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2024.naacl-industry.9",
+  "container-title": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)",
+  "publisher": "Association for Computational Linguistics",
+  "page": "97-107"
+}

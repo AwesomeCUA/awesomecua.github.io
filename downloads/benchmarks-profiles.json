@@ -1,11 +1,313 @@
 {
   "schema_version": 1,
   "kind": "benchmark",
-  "profile_count": 63,
-  "curated_resource_count": 217,
+  "profile_count": 94,
+  "curated_resource_count": 248,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [
+    {
+      "id": "url:d7f35409d35584385097",
+      "name": "AgentCIBench",
+      "url": "https://huggingface.co/datasets/UKPLab/agentcibench",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "GUI actions in the rendered workspace (live-UI subset)",
+          "content shared or sent through the workspace apps"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md",
+            "population": "test split",
+            "qualifier": "exact",
+            "unit": "scenarios",
+            "value": 117
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md",
+            "population": "test_e2e split (subset of test used for live-UI evaluation)",
+            "qualifier": "exact",
+            "unit": "scenarios",
+            "value": 50
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md",
+            "population": "seeds split (hand-written seed scenarios)",
+            "qualifier": "exact",
+            "unit": "scenarios",
+            "value": 36
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md",
+            "population": "test split, failure mode task_ambiguity_overshare",
+            "qualifier": "exact",
+            "unit": "scenarios",
+            "value": 75
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md",
+            "population": "test split, failure mode recipient_misalignment",
+            "qualifier": "exact",
+            "unit": "scenarios",
+            "value": 24
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md",
+            "population": "test split, failure mode visual_co_location",
+            "qualifier": "exact",
+            "unit": "scenarios",
+            "value": 18
+          }
+        ],
+        "evaluation": "The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md",
+          "https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test-00000-of-00001.jsonl",
+          "https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test_e2e-00000-of-00001.jsonl",
+          "https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/seeds-00000-of-00001.jsonl",
+          "https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/README.md",
+          "https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/mcts/reward_judge.py",
+          "https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/eval/metrics.py"
+        ],
+        "focus": [
+          "contextual-integrity compliance of computer-use agents",
+          "information disclosure across personal apps"
+        ],
+        "notes": "Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test, so the two splits are not added; seeds share no IDs with either.",
+        "observations": [
+          "decoded app states",
+          "rendered app UI (live-UI subset)",
+          "natural-language task prompts"
+        ],
+        "setting": "mixed"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "cc-by-4.0",
+          "retrieved_at": "2026-10-19T06:04:29Z",
+          "url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:04:29Z",
+          "role": "primary",
+          "sha256": "3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "licenses.data",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:04:29Z",
+          "role": "primary",
+          "sha256": "709d43e4e09d2f3558d9290b8bdf4c15e95e4fefc29a56be6d12b52e646c99d7",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test-00000-of-00001.jsonl"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:04:30Z",
+          "role": "primary",
+          "sha256": "9aced6b0d1e1368c28b3b110ba85e79a935b501a03a3c1b48fb97996dd4c05b2",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test_e2e-00000-of-00001.jsonl"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:04:30Z",
+          "role": "primary",
+          "sha256": "1b1a458c15ac64d63b7f6c20fab23740115a2b09d151ceeeb6f2c353c97f5418",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/seeds-00000-of-00001.jsonl"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:04:30Z",
+          "role": "primary",
+          "sha256": "f836c578d6fea20f7b38092071a9646d2db19b422fe6117d57e6de57ab5e1324",
+          "supports": [
+            "environments",
+            "notes",
+            "details.repository_url",
+            "details.repository_revision",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:04:30Z",
+          "role": "primary",
+          "sha256": "9527a682f91c5d7455853f392096ad47f117e35a14fda01b03969a4ef9c3bdc5",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/mcts/reward_judge.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:04:30Z",
+          "role": "primary",
+          "sha256": "c51a95f1e0df49d627e986e6be845e3917260f4d1e82991bd88fecb6724dda24",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/eval/metrics.py"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-19T06:04:29Z",
+          "role": "primary",
+          "sha256": "3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:ethz-spylab/agentdojo",
+      "name": "AgentDojo",
+      "url": "https://github.com/ethz-spylab/agentdojo",
+      "environments": [
+        "unspecified"
+      ],
+      "profile": {
+        "actions": [
+          "function calls to suite tools"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1",
+            "population": "suites reported in the paper (version 3 abstract)",
+            "qualifier": "exact",
+            "unit": "user tasks",
+            "value": 97
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1",
+            "population": "suites reported in the paper (version 3 abstract)",
+            "qualifier": "exact",
+            "unit": "security test cases",
+            "value": 629
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://api.github.com/repos/ethz-spylab/agentdojo/contents/src/agentdojo/default_suites/v1",
+            "population": "src/agentdojo/default_suites/v1 directory listing",
+            "qualifier": "exact",
+            "unit": "task suites",
+            "value": 4
+          }
+        ],
+        "evaluation": "Each user task is checked for utility, and each injection task is checked for whether the attacker goal was executed; the benchmark script combines suites, attacks and defenses.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/ethz-spylab/agentdojo/HEAD/README.md",
+          "https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1",
+          "https://api.github.com/repos/ethz-spylab/agentdojo/contents/src/agentdojo/default_suites/v1"
+        ],
+        "focus": [
+          "prompt-injection robustness",
+          "task utility under attack"
+        ],
+        "notes": "Paper counts describe the reported benchmark; later suite versions in the repository may change tasks. Keep the suite version, attack, defense and model with a result.",
+        "observations": [
+          "tool-call results from simulated applications"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-18T11:06:32Z",
+          "url": "https://raw.githubusercontent.com/ethz-spylab/agentdojo/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:06:20Z",
+          "role": "primary",
+          "sha256": "d8c6460ecce9bbf59ed300fbc74b4440188f74cd147a7611836270be49e7660e",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details",
+            "details.benchmark_protocol",
+            "details.leaderboard_url"
+          ],
+          "url": "https://raw.githubusercontent.com/ethz-spylab/agentdojo/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:06:45Z",
+          "role": "primary",
+          "sha256": "3f222c17164d5efd16c1c3b93088c5f51c0eb7d3f034581be3bbe7a4b3b2750d",
+          "supports": [
+            "release_status",
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://api.github.com/repos/ethz-spylab/agentdojo/contents/src/agentdojo/default_suites/v1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:06:08Z",
+          "role": "primary",
+          "sha256": "82f712f54aa9b3b42146ddc85ad8a0f6b765507bfdde986cab3344f50a88bf4b",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1"
+        }
+      ]
+    },
     {
       "id": "github:mcgill-nlp/agent-reward-bench",
       "name": "AgentRewardBench",
@@ -197,6 +499,175 @@
             "details.benchmark_protocol"
           ],
           "url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/run_evaluator.py"
+        }
+      ]
+    },
+    {
+      "id": "url:dda8a0f1413a6bc7c26f",
+      "name": "AndroidControl-Curated",
+      "url": "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "click",
+          "long press",
+          "swipe",
+          "text input",
+          "open app",
+          "navigate back",
+          "wait"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json",
+            "population": "android_control_high_task-improved.json (high-level goals, revised labels)",
+            "qualifier": "exact",
+            "unit": "step records",
+            "value": 8377
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json",
+            "population": "android_control_high_task-improved.json",
+            "qualifier": "exact",
+            "unit": "episodes (distinct screenshot directories)",
+            "value": 1540
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json",
+            "population": "android_control_high_task-improved.json",
+            "qualifier": "exact",
+            "unit": "step records with revised task text",
+            "value": 527
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json",
+            "population": "android_control_high_task-improved.json (gpt_corrected true)",
+            "qualifier": "exact",
+            "unit": "step records with corrected ground-truth actions",
+            "value": 85
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json",
+            "population": "android_control_low_bbox.json (step instructions)",
+            "qualifier": "exact",
+            "unit": "step records",
+            "value": 8377
+          }
+        ],
+        "evaluation": "Per-step type accuracy, box accuracy and step success. A step succeeds when the predicted action type matches and, for click and long-press steps, the centre of the predicted box or point lies inside the ground-truth box; in the task-improved file, listed candidate actions count as alternative ground truths.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/raw/62aeecdcafa4097d340c5a4389690a5f14e938ed/README.md",
+          "https://huggingface.co/api/datasets/batwBMW/AndroidControl_Curated/revision/62aeecdcafa4097d340c5a4389690a5f14e938ed",
+          "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json",
+          "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json",
+          "https://raw.githubusercontent.com/batechworks/AndroidControl_Curated/955062cc68e20666f71c4930e6025f989393a326/src/eval/evaluate_actions_androidControl_vllm.py",
+          "https://raw.githubusercontent.com/batechworks/AndroidControl_Curated/955062cc68e20666f71c4930e6025f989393a326/src/eval/utils.py"
+        ],
+        "focus": [
+          "single-step Android GUI action prediction",
+          "element grounding against target boxes"
+        ],
+        "notes": "Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals and are not summed with these.",
+        "observations": [
+          "screenshots",
+          "task goals",
+          "step instructions (low-level files)",
+          "action history"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:19:08Z",
+          "role": "primary",
+          "sha256": "4711ccd07eee077ec4297b9c403dc948b33592a18bed6b7bfb833022ccfda0b9",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/raw/62aeecdcafa4097d340c5a4389690a5f14e938ed/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:18:11Z",
+          "role": "primary",
+          "sha256": "247a1030646117d8d6dba3947a37ce036027377f4ee884c403d21c2090c693e4",
+          "supports": [
+            "identity",
+            "release_status",
+            "details.hub_id",
+            "details.hub_revision",
+            "details.gated",
+            "details.disabled",
+            "details.download_url",
+            "notes"
+          ],
+          "url": "https://huggingface.co/api/datasets/batwBMW/AndroidControl_Curated/revision/62aeecdcafa4097d340c5a4389690a5f14e938ed"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:18:11Z",
+          "role": "primary",
+          "sha256": "e8c851dd1ab367db3e7eef05735920e38d34c43cd8d6f80516fc8bd6aec9656c",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:18:11Z",
+          "role": "primary",
+          "sha256": "75b442e6b7e627ae4fdf845052734a578999edfa20e09db96007899a85ef2aba",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:17:00Z",
+          "role": "primary",
+          "sha256": "77a8b6da8f9c8e5e7016794198bad8e167d6fc5ccfcd66ca0105080e9b01bd49",
+          "supports": [
+            "details.repository_url",
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/batechworks/AndroidControl_Curated/955062cc68e20666f71c4930e6025f989393a326/src/eval/evaluate_actions_androidControl_vllm.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:17:30Z",
+          "role": "primary",
+          "sha256": "e8eb46eaecb4abcbeb921e20b86682116505e944b3bf242a62b0cfb24053b244",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/batechworks/AndroidControl_Curated/955062cc68e20666f71c4930e6025f989393a326/src/eval/utils.py"
         }
       ]
     },
@@ -547,6 +1018,141 @@
       ]
     },
     {
+      "id": "url:e80e9cf4f565f9ab2abf",
+      "name": "AutomotiveUI-Bench-4K",
+      "url": "https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K",
+      "environments": [
+        "unspecified"
+      ],
+      "profile": {
+        "actions": [
+          "point or bounding box for the referenced UI element",
+          "passed or failed verdict for expected results"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md",
+            "population": "test split, the only split, at revision d760810c",
+            "qualifier": "exact",
+            "unit": "annotations",
+            "value": 4208
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md",
+            "population": "images in the release",
+            "qualifier": "exact",
+            "unit": "images",
+            "value": 998
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test",
+            "population": "Test Action rows in the test split, from the Hub dataset viewer's column statistics",
+            "qualifier": "exact",
+            "unit": "annotations",
+            "value": 2269
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test",
+            "population": "Expected Result rows in the test split (1,375 passed, 564 failed), from the Hub dataset viewer's column statistics",
+            "qualifier": "exact",
+            "unit": "annotations",
+            "value": 1939
+          }
+        ],
+        "evaluation": "The card's scoring script counts a grounding hit when the predicted point, or the center of a predicted box, lies inside the annotated box, and scores expected-result verdicts against the passed or failed labels, overall and by UI language.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md",
+          "https://huggingface.co/api/datasets/sparks-solutions/AutomotiveUI-Bench-4K/revision/d760810c47bed006d88ee70dad7248056fdec223",
+          "https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test"
+        ],
+        "focus": [
+          "grounding infotainment UI elements from test-action commands",
+          "judging expected-result statements as passed or failed"
+        ],
+        "notes": "Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows). The 2.5 GB of Parquet shards were not downloaded.",
+        "observations": [
+          "photographs and screenshots of in-vehicle infotainment displays",
+          "English test-action or expected-result text"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "cc-by-4.0",
+          "retrieved_at": "2026-10-19T07:49:42Z",
+          "url": "https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:49:42Z",
+          "role": "primary",
+          "sha256": "5fa723cda0c5a9982158a1a716fad26242dd3e560365d149cb268d7aa1761dd7",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "licenses.data",
+            "details.availability",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:49:43Z",
+          "role": "primary",
+          "sha256": "864ae1e85c8348b194569e78e9ac1defc9c928016ab4f0d0e49895d8e99c0130",
+          "supports": [
+            "identity",
+            "release_status",
+            "details.hub_id",
+            "details.hub_revision",
+            "details.gated",
+            "details.disabled",
+            "details.download_url",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/sparks-solutions/AutomotiveUI-Bench-4K/revision/d760810c47bed006d88ee70dad7248056fdec223"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:50:08Z",
+          "role": "primary",
+          "sha256": "ae3164aa48bcf6a05f6f6c0dd6d43e463b97a1dc5562b60460f4e787f7841d44",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-19T07:49:42Z",
+          "role": "primary",
+          "sha256": "5fa723cda0c5a9982158a1a716fad26242dd3e560365d149cb268d7aa1761dd7",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md"
+        }
+      ]
+    },
+    {
       "id": "github:jylee425/b-moca",
       "name": "B-MoCA",
       "url": "https://github.com/jylee425/b-moca",
@@ -682,6 +1288,81 @@
             "details.benchmark_protocol"
           ],
           "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv"
+        }
+      ]
+    },
+    {
+      "id": "component:openai/simple-evals/browsecomp",
+      "name": "BrowseComp",
+      "url": "https://github.com/openai/simple-evals/blob/main/browsecomp_eval.py",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://openaipublic.blob.core.windows.net/simple-evals/browse_comp_test_set.csv",
+            "population": "browse_comp_test_set.csv",
+            "qualifier": "exact",
+            "unit": "questions",
+            "value": 1266
+          }
+        ],
+        "evaluation": "A grader model extracts the final answer from the response and judges it correct or incorrect against the decrypted reference answer; accuracy is the share judged correct. The reference implementation sends each question to any sampler and does not prescribe browsing tools or an action space.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/openai/simple-evals/HEAD/browsecomp_eval.py",
+          "https://openaipublic.blob.core.windows.net/simple-evals/browse_comp_test_set.csv"
+        ],
+        "focus": [
+          "open-web information seeking",
+          "persistent multi-site search"
+        ],
+        "notes": "The count is the number of data rows in the released CSV, whose problem and answer fields are XOR-encrypted with a per-row canary and carry a problem_topic label. Results depend on the agent's browsing tools, the grader model and the number of repeats; record these with a score.",
+        "observations": [],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "Repository LICENSE for the simple-evals code, including the BrowseComp reference implementation; not a declaration for the question data.",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-18T11:08:35Z",
+          "url": "https://raw.githubusercontent.com/openai/simple-evals/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:08:09Z",
+          "role": "primary",
+          "sha256": "0bfb33cfdf5fa0e0d7da48068cc86c5a22acc755979be4a2b46f8a821cc44b74",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "details.benchmark_protocol",
+            "details.repository_url"
+          ],
+          "url": "https://raw.githubusercontent.com/openai/simple-evals/HEAD/browsecomp_eval.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:08:29Z",
+          "role": "primary",
+          "sha256": "7b24471cd5b3eb2a46830a14802b5c029ea62f488ff75a0f88af7923d1454abf",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://openaipublic.blob.core.windows.net/simple-evals/browse_comp_test_set.csv"
         }
       ]
     },
@@ -1009,6 +1690,131 @@
       ]
     },
     {
+      "id": "github:xlang-ai/computer-agent-arena",
+      "name": "Computer Agent Arena",
+      "url": "https://github.com/xlang-ai/computer-agent-arena",
+      "environments": [
+        "desktop",
+        "linux",
+        "windows"
+      ],
+      "profile": {
+        "actions": [
+          "agent-defined desktop actions"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv",
+            "population": "backend/scripts/sessions_clean_filtered.csv (started 2025-02-13 to 2025-05-15)",
+            "qualifier": "exact",
+            "unit": "verified two-agent battle sessions",
+            "value": 2010
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv",
+            "population": "Windows sessions in the CSV",
+            "qualifier": "exact",
+            "unit": "verified two-agent battle sessions",
+            "value": 1070
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv",
+            "population": "Ubuntu sessions in the CSV",
+            "qualifier": "exact",
+            "unit": "verified two-agent battle sessions",
+            "value": 940
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv",
+            "population": "sessions whose battle_result is tie",
+            "qualifier": "exact",
+            "unit": "verified two-agent battle sessions",
+            "value": 615
+          }
+        ],
+        "evaluation": "After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the backend that aggregates them is not in the repository.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv",
+          "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/frontend/src/components/Arena/eval.tsx",
+          "https://api.github.com/repos/xlang-ai/computer-agent-arena/git/trees/4536036e8d0a3de9a0de9829c09f4a5916f73013?recursive=1",
+          "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/README.md"
+        ],
+        "focus": [
+          "human pairwise preference between computer-use agents",
+          "open-ended user-written tasks"
+        ],
+        "notes": "Counts are rows of the released CSV, computed with Python's csv module; each row is one session with two agents and a distinct session ID. Agent observations and actions are defined by the agent implementations in the unreleased hub.",
+        "observations": [
+          "live Ubuntu or Windows virtual machine desktop shown to the user through VNC",
+          "agent-defined observations of that desktop"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:30:07Z",
+          "role": "primary",
+          "sha256": "1ee818ef657248aca717db0d900e681b9aa17fc4ec2ca8b3b7effe2da9dc2aca",
+          "supports": [
+            "summary",
+            "notes",
+            "details.repository_revision",
+            "details.repository_tree_sha",
+            "details.availability",
+            "details.benchmark_protocol",
+            "licenses.code"
+          ],
+          "url": "https://api.github.com/repos/xlang-ai/computer-agent-arena/git/trees/4536036e8d0a3de9a0de9829c09f4a5916f73013?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:30:09Z",
+          "role": "primary",
+          "sha256": "00d3174a9b3e8e3a330dc6cec3b054310f64ec469b6b34d41f1f46b4279a72a2",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:30:10Z",
+          "role": "primary",
+          "sha256": "f1c6dd44d44d45e31671174edb37aa0d02b28f84b2c494ae73caafdd64965dec",
+          "supports": [
+            "summary",
+            "notes",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:30:11Z",
+          "role": "primary",
+          "sha256": "6d4e406d0ff1d573480bd2bd864ef9b1326b11c6d671ee3690468b925201b8f1",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/frontend/src/components/Arena/eval.tsx"
+        }
+      ]
+    },
+    {
       "id": "github:camel-ai/crab",
       "name": "CRAB",
       "url": "https://github.com/camel-ai/crab",
@@ -1174,6 +1980,108 @@
       ]
     },
     {
+      "id": "url:20fa95f00391bf965af2",
+      "name": "DynamicGUIBench",
+      "url": "https://huggingface.co/datasets/L1007555652/osworld_env",
+      "environments": [
+        "desktop",
+        "linux"
+      ],
+      "profile": {
+        "actions": [
+          "desktop GUI actions through a separately configured agent"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/api/datasets/L1007555652/osworld_env",
+            "population": "dynamic/ directory at Hub revision 44adf69d",
+            "qualifier": "exact",
+            "unit": "task JSON files",
+            "value": 500
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md",
+            "population": "original verified release before the 20 August 2026 expansion",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 150
+          }
+        ],
+        "evaluation": "Each task JSON names an OSWorld evaluator function with its expected result for an executable end-state check; a config_myself block launches applications and scripts the dynamic events during the run.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md",
+          "https://huggingface.co/api/datasets/L1007555652/osworld_env",
+          "https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/dynamic/chrome/chrome_addcart.json"
+        ],
+        "focus": [
+          "desktop task completion when interface state changes between observations"
+        ],
+        "notes": "Computed per-folder task files: Chrome 75, GIMP 45, LibreOffice Calc 50, Impress 42, Writer 50, multi-app 66, OS 42, Thunderbird 44, VLC 38 and VS Code 48. The card groups tasks into interruptive UI states, ephemeral references, dynamic list selection and content-triggered interaction.",
+        "observations": [
+          "English and Chinese task instructions",
+          "live desktop application state"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:40:40Z",
+          "role": "primary",
+          "sha256": "8492eacf5283bbb02e54c8f4f340bbfebee6539f49f8933743ac310abdf418e0",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.benchmark_protocol",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:40:40Z",
+          "role": "primary",
+          "sha256": "2f568cf0a9b4a7691097809c10f8455372841d6f09421287e4380b1b3de8e3e0",
+          "supports": [
+            "identity",
+            "release_status",
+            "details.hub_id",
+            "details.hub_revision",
+            "details.gated",
+            "details.disabled",
+            "details.download_url",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/L1007555652/osworld_env"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:40:41Z",
+          "role": "primary",
+          "sha256": "64334a72b6d5a9e2cf3a04650db9cd4a73fd36919648853ae266fcc88d60bd0b",
+          "supports": [
+            "environments",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/dynamic/chrome/chrome_addcart.json"
+        }
+      ]
+    },
+    {
       "id": "github:wwh0411/fedmabench",
       "name": "FedMABench",
       "url": "https://github.com/wwh0411/FedMABench",
@@ -1261,6 +2169,845 @@
             "licenses.data"
           ],
           "url": "https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:d206aacf01e1b7dc786d",
+      "name": "GroundUI-18K",
+      "url": "https://huggingface.co/datasets/agent-studio/GroundUI-18K",
+      "environments": [
+        "web",
+        "desktop",
+        "cross-platform"
+      ],
+      "profile": {
+        "actions": [
+          "click coordinate"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md",
+            "population": "Hub split at revision f061eba2 (named train, described as a test set)",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 18026
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train",
+            "population": "platform label web",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 11593
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train",
+            "population": "platform label desktop",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 2476
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train",
+            "population": "platform label mobile",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 3957
+          }
+        ],
+        "evaluation": "The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md",
+          "https://huggingface.co/api/datasets/agent-studio/GroundUI-18K/revision/f061eba2b7e3fffcf511694f15ad3ca38898ab9e",
+          "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train",
+          "https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/README.md",
+          "https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/eval_gui_grounding.py"
+        ],
+        "focus": [
+          "instruction-conditioned GUI element grounding"
+        ],
+        "notes": "Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; it is not counted here.",
+        "observations": [
+          "screenshots",
+          "natural-language instructions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "mit",
+          "retrieved_at": "2026-10-18T16:19:41Z",
+          "url": "https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:19:41Z",
+          "role": "primary",
+          "sha256": "8903b306da4517a3ba90998759883bb0af2995410eff9349c36c8143073a9290",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "topics",
+            "scope",
+            "notes",
+            "licenses.data",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:19:44Z",
+          "role": "primary",
+          "sha256": "54436ec8e82156648f4e04e4a1b6830a73c6de30245a7304bdc0ce92b5153724",
+          "supports": [
+            "identity",
+            "release_status",
+            "details.hub_id",
+            "details.hub_revision",
+            "details.gated",
+            "details.disabled",
+            "details.download_url",
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://huggingface.co/api/datasets/agent-studio/GroundUI-18K/revision/f061eba2b7e3fffcf511694f15ad3ca38898ab9e"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:19:45Z",
+          "role": "primary",
+          "sha256": "5e9ee49bba2b05f26330bd61168e2aabbea1ccf45d26538b440db8fcd3818e46",
+          "supports": [
+            "environments",
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:19:45Z",
+          "role": "primary",
+          "sha256": "1f2b513c700b31a1bacd023a54c6d4cadac9e02092e526d42c32103cb476c359",
+          "supports": [
+            "summary",
+            "notes",
+            "details.repository_url",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:19:45Z",
+          "role": "primary",
+          "sha256": "d503891371a62b6d8532667aea53f40c8691a2c3daaab5ea5a33ebce80eb83c8",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/eval_gui_grounding.py"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-18T16:19:41Z",
+          "role": "primary",
+          "sha256": "8903b306da4517a3ba90998759883bb0af2995410eff9349c36c8143073a9290",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:d86f55753bfea45fe313",
+      "name": "GroundUI-1K",
+      "url": "https://huggingface.co/datasets/agent-studio/GroundUI-1K",
+      "environments": [
+        "web",
+        "desktop",
+        "cross-platform"
+      ],
+      "profile": {
+        "actions": [
+          "click coordinate"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md",
+            "population": "Hub split at revision 5d18efc3 (named train, described as a test set)",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 1000
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train",
+            "population": "platform label web",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 400
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train",
+            "population": "platform label desktop",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 300
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train",
+            "population": "platform label mobile",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 300
+          }
+        ],
+        "evaluation": "The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md",
+          "https://huggingface.co/api/datasets/agent-studio/GroundUI-1K/revision/5d18efc3085902648b7031bf747a1090356a1b17",
+          "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train",
+          "https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/README.md",
+          "https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/eval_gui_grounding.py"
+        ],
+        "focus": [
+          "instruction-conditioned GUI element grounding"
+        ],
+        "notes": "Subset of GroundUI-18K sampled for efficient benchmarking; the larger set is a separate Hub repository and is not counted here. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.",
+        "observations": [
+          "screenshots",
+          "natural-language instructions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "mit",
+          "retrieved_at": "2026-10-18T16:08:23Z",
+          "url": "https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:08:23Z",
+          "role": "primary",
+          "sha256": "d1072a12c9cbcb48e73434620b62e39a8857bdb1d598fc2f64396b8523ec6e4c",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "licenses.data",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:07:58Z",
+          "role": "primary",
+          "sha256": "652082bd5c0e35322611a1c97a9291f061598ec7930b998ea4b437d3d56fd1f0",
+          "supports": [
+            "identity",
+            "release_status",
+            "details.hub_id",
+            "details.hub_revision",
+            "details.gated",
+            "details.disabled",
+            "details.download_url",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/agent-studio/GroundUI-1K/revision/5d18efc3085902648b7031bf747a1090356a1b17"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:07:17Z",
+          "role": "primary",
+          "sha256": "afd9a96bdb3d2a6575c9b738ed709fad9ba41523bd82ee7714d6ffd54e22665a",
+          "supports": [
+            "environments",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:07:58Z",
+          "role": "primary",
+          "sha256": "1f2b513c700b31a1bacd023a54c6d4cadac9e02092e526d42c32103cb476c359",
+          "supports": [
+            "summary",
+            "details.repository_url",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:07:58Z",
+          "role": "primary",
+          "sha256": "d503891371a62b6d8532667aea53f40c8691a2c3daaab5ea5a33ebce80eb83c8",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/eval_gui_grounding.py"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-18T16:08:23Z",
+          "role": "primary",
+          "sha256": "d1072a12c9cbcb48e73434620b62e39a8857bdb1d598fc2f64396b8523ec6e4c",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:7ed70b39ac79f97f8a87",
+      "name": "GUI-Perturbed",
+      "url": "https://huggingface.co/datasets/figai/GUI-Perturbed",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "predicted target location"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md",
+            "population": "eval split at revision 727c857b",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 3120
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval",
+            "population": "eval split",
+            "qualifier": "exact",
+            "unit": "distinct Mind2Web task IDs",
+            "value": 283
+          }
+        ],
+        "evaluation": "eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy does not measure end-to-end task success.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md",
+          "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml",
+          "https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval"
+        ],
+        "focus": [
+          "step-level web GUI element localization",
+          "robustness to visual and instruction perturbations"
+        ],
+        "notes": "Each example is one screenshot, instruction and target box; four visual variants are crossed with two instruction types. Examples, source tasks and visual variants are different units.",
+        "observations": [
+          "rendered web-page screenshots",
+          "natural-language instructions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "cc-by-4.0",
+          "retrieved_at": "2026-10-18T15:59:36Z",
+          "url": "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:59:36Z",
+          "role": "primary",
+          "sha256": "6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "licenses.data",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:59:07Z",
+          "role": "primary",
+          "sha256": "119930290bb21bcceb3f3a2b22d4f738ce5d0eb4531652cb7e7ad0dde348e30a",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:59:07Z",
+          "role": "primary",
+          "sha256": "5a23805cf7a6122abf01288f46139bb3c7890306678ec0280e9e6d488adb5908",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-18T15:59:36Z",
+          "role": "primary",
+          "sha256": "6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:37b4f525e6d7a56a9967",
+      "name": "GuideBench",
+      "url": "https://huggingface.co/datasets/kixlab/GuideBench",
+      "environments": [
+        "desktop",
+        "web"
+      ],
+      "profile": {
+        "actions": [],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://guide-bench.github.io",
+            "population": "GUIDE screen recordings",
+            "qualifier": "exact",
+            "unit": "demonstrations",
+            "value": 120
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://guide-bench.github.io",
+            "population": "GUIDE screen recordings",
+            "qualifier": "exact",
+            "unit": "hours of screen recordings",
+            "value": 67.5
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://guide-bench.github.io",
+            "population": "GUIDE participants",
+            "qualifier": "exact",
+            "unit": "novice users",
+            "value": 54
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://guide-bench.github.io",
+            "population": "GUIDE software coverage",
+            "qualifier": "exact",
+            "unit": "applications",
+            "value": 10
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://guide-bench.github.io",
+            "population": "GUIDE task design",
+            "qualifier": "exact",
+            "unit": "open-ended tasks",
+            "value": 40
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1",
+            "population": "Hub manifest at revision 783caa86 (transcriptions/)",
+            "qualifier": "exact",
+            "unit": "transcription files",
+            "value": 120
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1",
+            "population": "Hub manifest at revision 783caa86 (tasks/)",
+            "qualifier": "exact",
+            "unit": "task-description files",
+            "value": 40
+          }
+        ],
+        "evaluation": "Accuracy on 9-way behavior-state classification, 4-way multiple-choice intent prediction, and help prediction split into a binary help-need decision and a 4-way multiple-choice help-content question.",
+        "evidence_urls": [
+          "https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1",
+          "https://guide-bench.github.io"
+        ],
+        "focus": [
+          "user behavior state detection",
+          "short-term intent prediction",
+          "help need and help content prediction"
+        ],
+        "notes": "Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. Segment counts per task were not computed because the annotation files sit behind the access gate.",
+        "observations": [
+          "screen-recording video segments"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card",
+          "declared": "cc-by-4.0",
+          "retrieved_at": "2026-10-19T06:04:35Z",
+          "url": "https://huggingface.co/datasets/kixlab/GuideBench"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:04:35Z",
+          "role": "primary",
+          "sha256": "d1e2fedc00dbf1c9531cd5cc676f900f149690a2e08655f8d93c56d5abd8d389",
+          "supports": [
+            "name",
+            "kind",
+            "relations",
+            "notes",
+            "licenses.data",
+            "details.hub_id",
+            "details.hub_revision",
+            "details.gated",
+            "details.disabled",
+            "details.download_url",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:04:26Z",
+          "role": "primary",
+          "sha256": "0a3441b26d204655fe737e7b3738a61ebb8c67fd0977e26042cad59f24352c14",
+          "supports": [
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://guide-bench.github.io"
+        },
+        {
+          "method": "huggingface_api",
+          "retrieved_at": "2026-10-19T06:04:35Z",
+          "role": "primary",
+          "sha256": "d1e2fedc00dbf1c9531cd5cc676f900f149690a2e08655f8d93c56d5abd8d389",
+          "supports": [
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1"
+        }
+      ]
+    },
+    {
+      "id": "github:shaluoyan523/guiguard-bench",
+      "name": "GUIGuard-Bench evaluation code",
+      "url": "https://github.com/shaluoyan523/GUIGuard-Bench",
+      "environments": [
+        "android",
+        "desktop"
+      ],
+      "profile": {
+        "actions": [
+          "predicted privacy regions with labels",
+          "generated next-action plans",
+          "predicted click points"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md",
+            "population": "dataset_example/Android at commit 542a902a, of which 33 are complete trajectories",
+            "qualifier": "exact",
+            "unit": "Android task directories",
+            "value": 34
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md",
+            "population": "dataset_example/PC at commit 542a902a",
+            "qualifier": "exact",
+            "unit": "PC trajectories",
+            "value": 26
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl",
+            "population": "dataset_example/grounding_data/manifest.jsonl at commit 542a902a",
+            "qualifier": "exact",
+            "unit": "next-action grounding samples",
+            "value": 290
+          }
+        ],
+        "evaluation": "privacy_recognition scores region-level privacy predictions against the labels (IoU-only or paper-style scoring); planner_eval has an LLM judge rate step-level semantic consistency between plans from original and protected trajectories on a 0-4 scale; grounding_eval counts a click as correct when the predicted point falls inside the target box.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md",
+          "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl",
+          "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/grounding_eval/grounding_eval/metrics.py",
+          "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/planner_eval/planner_eval/judges/graders/semantic_consistency.py"
+        ],
+        "focus": [
+          "privacy-region recognition on GUI screenshots",
+          "planning fidelity on privacy-protected screenshots",
+          "click grounding under visual privacy protection"
+        ],
+        "notes": "Counts describe dataset_example/, the repository's review subset for smoke tests, not the benchmark; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units and are not summed.",
+        "observations": [
+          "recorded trajectory screenshots",
+          "task instructions",
+          "next-action plans"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:56:30Z",
+          "role": "primary",
+          "sha256": "f7961f6d3f6809f6ae61bf5b679d03595b79c64a15a2687dfccdb1b5a89e065b",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "licenses.code",
+            "details.repository_revision",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:55:25Z",
+          "role": "primary",
+          "sha256": "0cd6681a25d989ec0e925c75d3ea06807e1738d3a853c824de473cec0476b23f",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:55:25Z",
+          "role": "primary",
+          "sha256": "5f173b67f64d4aad028253e821f4cd1afbf682cf84dc0a2bbe75feb1e0141302",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/grounding_eval/grounding_eval/metrics.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:55:26Z",
+          "role": "primary",
+          "sha256": "8ee9842717668cb38c400ac41c8a8e1a5c63c26849150715c9b1f8f54512aa25",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/planner_eval/planner_eval/judges/graders/semantic_consistency.py"
+        }
+      ]
+    },
+    {
+      "id": "url:61860953a680776ffe53",
+      "name": "GUIGuard-Bench public-ladder release",
+      "url": "https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench",
+      "environments": [
+        "android",
+        "desktop",
+        "linux"
+      ],
+      "profile": {
+        "actions": [
+          "recorded Android atomic actions",
+          "recorded PC pyautogui actions",
+          "click coordinates for grounding"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md",
+            "population": "public-ladder evaluation set (68 Android + 53 PC)",
+            "qualifier": "exact",
+            "unit": "evaluation trajectories",
+            "value": 121
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md",
+            "population": "public-ladder evaluation set, data/eval.jsonl",
+            "qualifier": "exact",
+            "unit": "screenshots (evaluation samples)",
+            "value": 2002
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md",
+            "population": "public-ladder evaluation set",
+            "qualifier": "exact",
+            "unit": "region-level privacy annotations",
+            "value": 26407
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920",
+            "population": "Android/ at revision c2b5ca41",
+            "qualifier": "exact",
+            "unit": "Android task directories",
+            "value": 68
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920",
+            "population": "PC/ at revision c2b5ca41",
+            "qualifier": "exact",
+            "unit": "PC task directories",
+            "value": 53
+          }
+        ],
+        "evaluation": "Region-level privacy labels (risk level, category, task essentiality, boxes) support recognition scoring; planning is compared before and after protection methods (black mask, mosaic, random blocks, LLM text replacement); grounding follows a ScreenSpot-style click check. The card does not ship a scorer; it points to an anonymized toolkit.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md",
+          "https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920",
+          "https://raw.githubusercontent.com/Futuresis/GUIGuard-page/df9c709058d7e39d1f9286edd33c9f645aa60b55/index.html"
+        ],
+        "focus": [
+          "privacy-risk recognition in GUI agent screenshots",
+          "agent planning fidelity on privacy-protected screenshots",
+          "click grounding under visual privacy protection"
+        ],
+        "notes": "Trajectories, screenshots and annotations are different units and are not summed. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once, not retained) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.",
+        "observations": [
+          "recorded trajectory screenshots",
+          "task goals",
+          "plan and progress text"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "Publisher dataset-card declaration for this release; it does not establish rights to the applications, websites and personal content shown in the screenshots.",
+          "declared": "CC-BY-NC-4.0",
+          "retrieved_at": "2026-10-18T15:37:19Z",
+          "url": "https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:37:19Z",
+          "role": "primary",
+          "sha256": "81a85cdefb48b37f9869eaa61832d9d97f288cbd443be74e07d779f7948ae229",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "licenses.data",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:37:19Z",
+          "role": "primary",
+          "sha256": "788d251b561c0dfda4b5c6e643c2af0cc683ef8978759e6fa392db2e9548096b",
+          "supports": [
+            "identity",
+            "release_status",
+            "details.hub_id",
+            "details.hub_revision",
+            "details.gated",
+            "details.disabled",
+            "details.download_url",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T15:37:19Z",
+          "role": "primary",
+          "sha256": "14fe15c990481087ad504f631dc94d777736373f56344a0746cd77320c3db3b5",
+          "supports": [
+            "relations",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/Futuresis/GUIGuard-page/df9c709058d7e39d1f9286edd33c9f645aa60b55/index.html"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-18T15:37:19Z",
+          "role": "primary",
+          "sha256": "81a85cdefb48b37f9869eaa61832d9d97f288cbd443be74e07d779f7948ae229",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md"
         }
       ]
     },
@@ -1371,6 +3118,287 @@
       ]
     },
     {
+      "id": "github:cmu-l3/gym-anything",
+      "name": "Gym-Anything",
+      "url": "https://github.com/cmu-l3/gym-anything",
+      "environments": [
+        "desktop",
+        "linux",
+        "windows",
+        "macos",
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "mouse",
+          "keyboard"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://arxiv.org/abs/2604.06126v1",
+            "population": "applications processed into CUA-World (paper v1 abstract)",
+            "qualifier": "exact",
+            "unit": "software applications",
+            "value": 200
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://arxiv.org/abs/2604.06126v1",
+            "population": "CUA-World (paper v1 abstract)",
+            "qualifier": "more-than",
+            "unit": "long-horizon tasks",
+            "value": 10000
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json",
+            "population": "verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 7150
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json",
+            "population": "verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967",
+            "qualifier": "exact",
+            "unit": "environments",
+            "value": 191
+          }
+        ],
+        "evaluation": "Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/README.md",
+          "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json",
+          "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/env.json",
+          "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/tasks/enroll_student/task.json",
+          "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/power_bi_desktop_env/env.json",
+          "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/android_avd_calculator_env/env.json",
+          "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world-macos/environments/finder_env/env.json",
+          "https://arxiv.org/abs/2604.06126v1"
+        ],
+        "focus": [
+          "long-horizon computer use in professional and enterprise software",
+          "conversion of arbitrary applications into agent environments"
+        ],
+        "notes": "The paper's application and task totals and the repository's verified manifest are different populations and are not reconciled. Per-environment split files list train and test tasks, but several cover variant folders of one application, so their entries are not summed. Paper-reported results, including CUA-World-Long, were not reproduced.",
+        "observations": [
+          "screen frames",
+          "UI tree (some macOS environments)"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-19T06:45:58Z",
+          "url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:44:15Z",
+          "role": "primary",
+          "sha256": "11821d717f09b17762937661eed9a2bcb80606ca765de1381f9047fe8c58cf9a",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations"
+          ],
+          "url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:44:17Z",
+          "role": "primary",
+          "sha256": "727c6beaff1de5f36bea959037e7346453fb5d40b4817529fa31566acc7fbb04",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:44:17Z",
+          "role": "primary",
+          "sha256": "ab0398ca5df1d7e8b41357f2a1966c3576f8d2bdd4c6c81db3249a51826a5d9b",
+          "supports": [
+            "environments",
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/env.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:44:17Z",
+          "role": "primary",
+          "sha256": "0d6b81e193cc3a15269c1eb580b91f88c72e607173b21427f7f3ee13b67b9047",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/tasks/enroll_student/task.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:44:17Z",
+          "role": "primary",
+          "sha256": "f32ac8bb3b99e4ea9550994ac18700066138a2aaa3f835c3e30cce38ca2e6c1b",
+          "supports": [
+            "environments",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/power_bi_desktop_env/env.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:44:17Z",
+          "role": "primary",
+          "sha256": "d1aabfba25b6f586c3054a64bbd3e013b95ff4d012ffea3c2432bb4895e11660",
+          "supports": [
+            "environments",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/android_avd_calculator_env/env.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:44:17Z",
+          "role": "primary",
+          "sha256": "85f6d078b5b9228bc1aa17b3f73ec3852db0a01a878979112ad2fc10bfedae8f",
+          "supports": [
+            "environments",
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world-macos/environments/finder_env/env.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:44:18Z",
+          "role": "primary",
+          "sha256": "89fe4dad54d6ef84e001d5b7c46375946223e1a3bf6a041ca2925a883e9a767a",
+          "supports": [
+            "summary",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://arxiv.org/abs/2604.06126v1"
+        }
+      ]
+    },
+    {
+      "id": "github:reacher-z/harnessbench",
+      "name": "HarnessBench",
+      "url": "https://github.com/reacher-z/HarnessBench",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "harness-specific browser actions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md",
+            "population": "ClawBench shared task pool (not stored in this repository)",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 153
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml",
+            "population": "clawbench.harnesses entry points registered in pyproject.toml",
+            "qualifier": "exact",
+            "unit": "harness adapters",
+            "value": 6
+          }
+        ],
+        "evaluation": "Inherited from ClawBench per the README: five-layer session recordings judged by DOM matching and an LLM judge against human reference runs; the leaderboard partitions pass rates by harness, model and category.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md",
+          "https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml",
+          "https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/src/harnessbench/matrix.py"
+        ],
+        "focus": [
+          "comparison of agent harnesses with the base model held fixed",
+          "everyday online tasks in a real browser"
+        ],
+        "notes": "Task definitions and judge prompts live in ClawBench. Cloud harnesses without credentials are reported as skipped, not scored as zero. No results were published at the inspected commit.",
+        "observations": [
+          "harness-specific (each adapter drives Chrome its own way, for example over CDP or Playwright)"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-18T16:03:20Z",
+          "url": "https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:03:11Z",
+          "role": "primary",
+          "sha256": "1c334914871f8ac362cf7e21033e0699e36e9da0fd4fe82b1a747ce9b223cf31",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "details"
+          ],
+          "url": "https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:02:39Z",
+          "role": "primary",
+          "sha256": "fd80d793c455e5c13e8cd455e5a686c036af60ec5c56731b411aa68a60b783f1",
+          "supports": [
+            "details.repository_revision",
+            "details.benchmark_protocol",
+            "details.availability"
+          ],
+          "url": "https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:02:43Z",
+          "role": "primary",
+          "sha256": "5c5dc2cb4e363ca2fe1de37982f353b11034f1d65131233047d2a63f0629e4fe",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/src/harnessbench/matrix.py"
+        }
+      ]
+    },
+    {
       "id": "github:ljang0/iosworld",
       "name": "iOSWorld",
       "url": "https://github.com/ljang0/iOSWorld",
@@ -1446,6 +3474,197 @@
             "details.benchmark_protocol"
           ],
           "url": "https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:a7beaa489fc4ffeb555f",
+      "name": "LearnGUI",
+      "url": "https://huggingface.co/datasets/lgy0404/LearnGUI",
+      "environments": [
+        "unspecified"
+      ],
+      "profile": {
+        "actions": [
+          "mobile GUI actions such as CLICK[x,y] and SWIPE[direction]"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+            "population": "LearnGUI offline and online tasks combined",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 2353
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+            "population": "LearnGUI-Offline",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 2252
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+            "population": "LearnGUI-Online",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 101
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+            "population": "Offline-Train split",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 2001
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+            "population": "Offline-Test split",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 251
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+            "population": "Offline-Train split",
+            "qualifier": "exact",
+            "unit": "step actions",
+            "value": 26184
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+            "population": "Offline-Test split",
+            "qualifier": "exact",
+            "unit": "step actions",
+            "value": 3469
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+            "population": "Online-Test split",
+            "qualifier": "exact",
+            "unit": "step actions",
+            "value": 1423
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+            "population": "LearnGUI offline and online tasks combined",
+            "qualifier": "exact",
+            "unit": "applications",
+            "value": 73
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/api/datasets/lgy0404/LearnGUI",
+            "population": "online/low_level_instructions at the inspected revision",
+            "qualifier": "exact",
+            "unit": "task instruction files",
+            "value": 101
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/api/datasets/lgy0404/LearnGUI",
+            "population": "online/raw_data at the inspected revision",
+            "qualifier": "exact",
+            "unit": "screen recordings",
+            "value": 101
+          }
+        ],
+        "evaluation": "The card describes offline evaluation against ground-truth step actions and online evaluation on 101 interactive tasks; no evaluator ships in this dataset repository, and none was run.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md",
+          "https://huggingface.co/api/datasets/lgy0404/LearnGUI",
+          "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/online/low_level_instructions/AudioRecorderRecordAudio.json"
+        ],
+        "focus": [
+          "demonstration-conditioned mobile GUI task execution",
+          "k-shot (k = 1, 2, 3) support demonstrations with instruction, UI and action similarity scores"
+        ],
+        "notes": "Task, step-action, application and file counts are different units and are not summed. Each k-shot table row reuses the same split tasks with a different number of support demonstrations, so the 1-, 2- and 3-shot rows are not additional tasks.",
+        "observations": [
+          "step screenshots",
+          "high-level and low-level instructions",
+          "UI element annotations",
+          "support demonstrations"
+        ],
+        "setting": "mixed"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "Publisher dataset-card declaration for the LearnGUI release; the LearnAct code repository and app content shown in screenshots are not covered by this evidence.",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-18T16:00:11Z",
+          "url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:00:11Z",
+          "role": "primary",
+          "sha256": "a7c0fae7a067f7b4704170c73589dae43e4df541a80c5f00d0a98f79bb1e7e7c",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.benchmark_protocol",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:00:11Z",
+          "role": "primary",
+          "sha256": "19300276c328762286e677eed624bc169c189cafa48571244e791008bf576c50",
+          "supports": [
+            "identity",
+            "release_status",
+            "notes",
+            "details.hub_id",
+            "details.release_revision",
+            "details.gated",
+            "details.disabled",
+            "details.download_url",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/lgy0404/LearnGUI"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T16:00:11Z",
+          "role": "primary",
+          "sha256": "d5b3c31b62e08bce07270e0f99d0c8608b68f64848251329e725384825b68b5d",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/online/low_level_instructions/AudioRecorderRecordAudio.json"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-18T16:00:11Z",
+          "role": "primary",
+          "sha256": "a7c0fae7a067f7b4704170c73589dae43e4df541a80c5f00d0a98f79bb1e7e7c",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md"
         }
       ]
     },
@@ -1630,6 +3849,137 @@
             "relations"
           ],
           "url": "https://export.arxiv.org/api/query?id_list=2605.06761%2C2605.07110%2C2605.07134%2C2605.09497%2C2605.11212%2C2605.12481%2C2605.12501%2C2605.12549%2C2605.13631%2C2605.14290%2C2605.14747%2C2605.15030%2C2605.15542%2C2605.15777%2C2605.16024%2C2605.16116%2C2605.16402%2C2605.17320%2C2605.18048%2C2605.18652%2C2605.18758%2C2605.19260%2C2605.19769%2C2605.21470%2C2605.25160%2C2605.25624%2C2605.25707%2C2605.26114%2C2605.27761%2C2605.28116%2C2605.28534%2C2605.28646%2C2605.28775%2C2605.29119%2C2605.29324%2C2605.29447%2C2605.29486%2C2605.29534%2C2605.29615%2C2606.06322%2C2606.09426%2C2606.11042%2C2606.22557%2C2606.23189%2C2606.24551%2C2608.17659%2C2609.22000%2C2609.34139&max_results=48"
+        }
+      ]
+    },
+    {
+      "id": "github:lgy0404/memgui-bench",
+      "name": "MemGUI-Bench",
+      "url": "https://github.com/lgy0404/MemGUI-Bench",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "MobileWorld JSON actions"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv",
+            "population": "data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 128
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-40.csv",
+            "population": "data/memgui-tasks-40.csv at 3fb01b6 (quick-test subset)",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 40
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv",
+            "population": "data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)",
+            "qualifier": "exact",
+            "unit": "applications",
+            "value": 26
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv",
+            "population": "data/memgui-tasks-all.csv at 3fb01b6 (full benchmark)",
+            "qualifier": "exact",
+            "unit": "tasks marked as requiring UI memory",
+            "value": 115
+          }
+        ],
+        "evaluation": "MemGUI-Eval: an LLM step-description model and a final-decision model judge each trajectory; reported metrics are pass@K, information retrieval rate (IRR), failure recovery rate (FRR), memory task performance ratio (MTPR), step ratio, time per step and cost per step.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/README.md",
+          "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv",
+          "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-40.csv",
+          "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/memgui_eval/evaluator.py"
+        ],
+        "focus": [
+          "memory-intensive mobile GUI tasks",
+          "cross-app long-horizon tasks"
+        ],
+        "notes": "Counts come from the pinned CSV files and match the README badges (128 tasks, 26 apps, 89.8% memory-intensive). The full set has 48, 42 and 38 tasks at difficulty levels 1, 2 and 3, and its golden steps average about 36. The 40-task file is a subset of the 128 tasks, so the two counts are not summed. Leaderboard settings fix the judge models; debugging runs may use others.",
+        "observations": [
+          "screenshots"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-19T07:06:23Z",
+          "url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/HEAD/LICENSE"
+        },
+        "data": {
+          "basis": "The Hub card for the task CSV files (the alias lgy0404/MemGUI-Bench) declares mit; it covers the task definitions, not app content.",
+          "declared": "mit",
+          "retrieved_at": "2026-10-19T07:05:19Z",
+          "url": "https://huggingface.co/datasets/lgy0404/MemGUI-Bench/raw/217713ee891b227b1f297c3a59dd1798e9d4a09b/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:05:14Z",
+          "role": "primary",
+          "sha256": "fab1bf3b766c2e59e46515dd60cf71b040986690b169bfcc0d35c6e9bc0f58fb",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.leaderboard_url"
+          ],
+          "url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:05:18Z",
+          "role": "primary",
+          "sha256": "28d862beb94250e5630b6f7cc2a50369f4fb533fe7cf780991c1f4f73790be07",
+          "supports": [
+            "summary",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:05:18Z",
+          "role": "primary",
+          "sha256": "138b8371bf1880df837b99d596e5a86679a9fe0ce0be33da69846e4ea2b44169",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-40.csv"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:05:18Z",
+          "role": "primary",
+          "sha256": "c8e9270c39852e17fa1b2d34bf3ca630375f68a1d817474e6a446e53d9490c1f",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/memgui_eval/evaluator.py"
         }
       ]
     },
@@ -2615,6 +4965,142 @@
       ]
     },
     {
+      "id": "github:ljang0/odysseys",
+      "name": "Odysseys",
+      "url": "https://github.com/ljang0/Odysseys",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "OSWorld computer actions in Chrome"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json",
+            "population": "data/odysseys.json at 8378146",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 200
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json",
+            "population": "data/odysseys.json at 8378146",
+            "qualifier": "exact",
+            "unit": "easy tasks",
+            "value": 45
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json",
+            "population": "data/odysseys.json at 8378146",
+            "qualifier": "exact",
+            "unit": "medium tasks",
+            "value": 46
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json",
+            "population": "data/odysseys.json at 8378146",
+            "qualifier": "exact",
+            "unit": "hard tasks",
+            "value": 109
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json",
+            "population": "data/odysseys.json at 8378146",
+            "qualifier": "exact",
+            "unit": "rubric items",
+            "value": 1225
+          }
+        ],
+        "evaluation": "Post-hoc rubric scoring: an LLM judge marks each rubric item satisfied if any step's screenshot and action satisfy it; metrics are mean rubric score, perfect rate (all items satisfied) and trajectory efficiency.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/README.md",
+          "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json",
+          "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/scripts/python/convert_odysseys_to_osworld.py",
+          "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/scripts/python/run_full_trajectory_per_rubric.py"
+        ],
+        "focus": [
+          "long-horizon web tasks from real browsing sessions"
+        ],
+        "notes": "Counts were computed from the pinned task file and match the README's 200 tasks split into 45 easy, 46 medium and 109 hard. Difficulty follows reference step count and domain spread. The observation and action spaces are those of the OSWorld agent used; the paper setup uses a 100-step budget.",
+        "observations": [
+          "screenshots"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-19T07:11:32Z",
+          "url": "https://raw.githubusercontent.com/ljang0/Odysseys/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:10:53Z",
+          "role": "primary",
+          "sha256": "ffbbc15712ee94ec6718756992e7fda72c0632b259e73db7e93dd2d34674dd80",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.leaderboard_url"
+          ],
+          "url": "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:10:55Z",
+          "role": "primary",
+          "sha256": "0bb7081d740eb6237b72e7e33524cc9489e769c5e236ec54879a8eb06ebc48e0",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:10:55Z",
+          "role": "primary",
+          "sha256": "d80d1edac5e9245225722f8ca5566b3b5e0346a60efe7f595918d60177d48bbc",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/scripts/python/convert_odysseys_to_osworld.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:10:55Z",
+          "role": "primary",
+          "sha256": "736c3c20a6d1d00d6fa1ffb34ae2b7c7835618bea0fe735bab99d036ee26983f",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/scripts/python/run_full_trajectory_per_rubric.py"
+        }
+      ]
+    },
+    {
       "id": "url:849a86beaee006c6b147",
       "name": "OmniAct",
       "url": "https://huggingface.co/datasets/Writer/omniact",
@@ -2799,6 +5285,157 @@
             "details.leaderboard_url"
           ],
           "url": "https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:nottelabs/open-operator-evals",
+      "name": "Open Operator Evals",
+      "url": "https://github.com/nottelabs/open-operator-evals",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "agent-defined browser actions"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl",
+            "population": "WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 30
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl",
+            "population": "WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl)",
+            "qualifier": "exact",
+            "unit": "websites",
+            "value": 15
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager.jsonl",
+            "population": "full WebVoyager task file in the repository (eval/data/webvoyager/webvoyager.jsonl)",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 643
+          }
+        ],
+        "evaluation": "A GPT-4o judge (default model in eval/evaluators/webvoyager.py) receives the task, the agent's final response and up to its last four screenshots under WebVoyager's evaluation prompt and returns SUCCESS, NOT SUCCESS or UNKNOWN; the agent's own success claim is recorded separately. The three published configurations (configs/) run each task 8 times with at most 20 steps and 360 seconds.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/nottelabs/open-operator-evals/HEAD/README.md",
+          "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl",
+          "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager.jsonl",
+          "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/evaluators/webvoyager.py",
+          "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/configs/notte.headless.gemini.toml",
+          "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/configs/browseruse.headless.openai.toml",
+          "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/configs/convergence.headless.toml"
+        ],
+        "focus": [
+          "live-website task completion",
+          "agent self-report calibration",
+          "run-to-run variance"
+        ],
+        "notes": "Counts are distinct task identifiers and website_name values in the inspected task files at the reviewed commit. The README calls WebVoyager about 600 tasks; the repository file holds 643 rows. Results depend on the agent version, model, step and time budget, IP location and run date.",
+        "observations": [
+          "agent-defined browser observations",
+          "final screenshots and response for the judge"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:03:58Z",
+          "role": "primary",
+          "sha256": "64bfc6493fa8f24cf5d1f0fb640a2d16239c6ad5a1673bd679bb72db4f2644af",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:03:11Z",
+          "role": "primary",
+          "sha256": "09c9e30f8bc7f47e6039764d4fa58f74d2617c0cd47d5f0ba372b1274e52a893",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:03:11Z",
+          "role": "primary",
+          "sha256": "b5c50649aa9caf5f299e1ef94e8d843760222bbfe790d8b3931664f7cb3ac59f",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager.jsonl"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:03:11Z",
+          "role": "primary",
+          "sha256": "2a87b31230b130fece98a9e057644cc5776b94996c43e7e173ae41c5c7decc9f",
+          "supports": [
+            "summary",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/evaluators/webvoyager.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:03:11Z",
+          "role": "primary",
+          "sha256": "4729b8007aa2c63f94ae02477c55a69f94b4f86d2a14cca6420e74feccc2a8cf",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/configs/notte.headless.gemini.toml"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:03:56Z",
+          "role": "primary",
+          "sha256": "dd4be7388dcecaf2f294ca9d975617d2659a06fc10ef1f419d4e4cb81af26e11",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/configs/browseruse.headless.openai.toml"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T06:03:57Z",
+          "role": "primary",
+          "sha256": "87311f9335da34b9c8a99d506b886053b8da1a9b609b9f3e691394a899a3a223",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/configs/convergence.headless.toml"
         }
       ]
     },
@@ -3218,6 +5855,102 @@
       ]
     },
     {
+      "id": "github:os-copilot/osreward",
+      "name": "OSReward",
+      "url": "https://github.com/OS-Copilot/OSReward",
+      "environments": [
+        "web",
+        "desktop",
+        "windows",
+        "linux",
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "one SUCCESS or FAIL verdict per trajectory"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md",
+            "population": "OSReward Full split on Hugging Face",
+            "qualifier": "exact",
+            "unit": "trajectories",
+            "value": 1019
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md",
+            "population": "OSReward Hard split on Hugging Face",
+            "qualifier": "exact",
+            "unit": "trajectories",
+            "value": 284
+          }
+        ],
+        "evaluation": "Verdicts are compared with human gold labels; the evaluator reports accuracy, balanced accuracy, SUCCESS recall, FAIL recall and coverage, counting missing, API-error and unparseable outputs as incorrect.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md",
+          "https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/eval_pipeline/README.md",
+          "https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/eval_pipeline/run_judge.py"
+        ],
+        "focus": [
+          "reliability of VLM judges and reward models on computer-use trajectories",
+          "binary success verdicts"
+        ],
+        "notes": "Counts are as the README reports them for the Hugging Face release; they were not recounted from the dataset. Screenshot window, history mode, markers and temperature are evaluator defaults that can be changed by flags.",
+        "observations": [
+          "task instruction",
+          "full thought and action history",
+          "last five screenshots with red action-point markers (default)"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:33:21Z",
+          "role": "primary",
+          "sha256": "ea91d9df443f0dc23a7cf8f53e91adc0ac187c8472e8bfbe0b14bb3ed779083d",
+          "supports": [
+            "relations",
+            "notes",
+            "details.availability",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:33:22Z",
+          "role": "primary",
+          "sha256": "13bd46be73db879e77e073368c9a67fa308878074901bf0a43190a8754057704",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/eval_pipeline/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:33:22Z",
+          "role": "primary",
+          "sha256": "6dc1ca1812a15b72ebf11145d53dddbda770b31b7a9df2093c0746cbc2a25598",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/eval_pipeline/run_judge.py"
+        }
+      ]
+    },
+    {
       "id": "github:xlang-ai/osworld",
       "name": "OSWorld",
       "url": "https://github.com/xlang-ai/OSWorld",
@@ -3469,6 +6202,104 @@
             "details"
           ],
           "url": "https://raw.githubusercontent.com/WukLab/osworld-human/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:discoailab/osworld-science",
+      "name": "OSWorld-Science",
+      "url": "https://github.com/DiscoAILab/OSWorld-Science",
+      "environments": [
+        "desktop",
+        "linux",
+        "windows"
+      ],
+      "profile": {
+        "actions": [
+          "pyautogui code (built-in prompt agent)",
+          "tool calls (vendored Kimi agent)"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md",
+            "population": "full benchmark reported in the paper, seven scientific domains",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 146
+          }
+        ],
+        "evaluation": "Task-specific executable evaluators (JSON, CSV, artifact, R, SQL, Slicer and Praat checks plus author-provided scientific checks) inspect application states and collected deliverables and can award partial credit; the report command exports PASS/FAIL/VOID counts, scores, steps and costs.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md",
+          "https://api.github.com/repos/DiscoAILab/OSWorld-Science/git/trees/25483148138b235212ee75c660a63e5b7bde6072?recursive=1",
+          "https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/25483148138b235212ee75c660a63e5b7bde6072/src/osworld_science/agents/prompt_agent/agent.py"
+        ],
+        "focus": [
+          "scientific-software workflows",
+          "combined GUI and command-line interaction"
+        ],
+        "notes": "The README states that 83.6% of tasks also allow CLI access and 16.4% are GUI-only under the recorded configurations. The published dataset includes answer keys (the private/ folder is hidden from the solver, not access-controlled), so results from models that may have trained on it are not held-out measurements. Record the code revision, task data revision, VM image, model and agent when comparing scores.",
+        "observations": [
+          "screenshots"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "CC-BY-4.0",
+          "retrieved_at": "2026-10-18T12:34:15Z",
+          "url": "https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T12:33:40Z",
+          "role": "primary",
+          "sha256": "5871a62e7dac017cbb16017bc28b956aa20058193aebced9505210f34fdc7057",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T12:33:40Z",
+          "role": "primary",
+          "sha256": "470ffe57b8ce4baab4b7849aa6c01450491142c7d8e16853f2e8d91c73cbff71",
+          "supports": [
+            "identity",
+            "release_status",
+            "details.repository_revision",
+            "details.repository_tree_sha",
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://api.github.com/repos/DiscoAILab/OSWorld-Science/git/trees/25483148138b235212ee75c660a63e5b7bde6072?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T12:32:27Z",
+          "role": "primary",
+          "sha256": "59571f205d945c2a4a2eaec84bf40e681c5de302182acaafe61f0481d9de52e7",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/25483148138b235212ee75c660a63e5b7bde6072/src/osworld_science/agents/prompt_agent/agent.py"
         }
       ]
     },
@@ -4128,6 +6959,211 @@
       ]
     },
     {
+      "id": "url:863cc1744cd5d40418be",
+      "name": "showdown-clicks",
+      "url": "https://huggingface.co/datasets/generalagents/showdown-clicks",
+      "environments": [
+        "macos",
+        "desktop"
+      ],
+      "profile": {
+        "actions": [
+          "single left-click coordinate"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/showdown-clicks-dev/data.csv",
+            "population": "showdown-clicks-dev/data.csv (dev split)",
+            "qualifier": "exact",
+            "unit": "annotated clicks",
+            "value": 557
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md",
+            "population": "full showdown-clicks collection described by the card; not released",
+            "qualifier": "exact",
+            "unit": "left clicks",
+            "value": 5679
+          }
+        ],
+        "evaluation": "A prediction counts as correct when the predicted click point falls inside the annotated bounding box of viable click locations; the card reports accuracy with bootstrapped 95% confidence intervals and latency.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md",
+          "https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/showdown-clicks-dev/data.csv"
+        ],
+        "focus": [
+          "instruction-conditioned click grounding",
+          "low-level desktop control"
+        ],
+        "notes": "The released CSV has 557 rows with unique IDs and screenshots, and columns for instruction, bounding box and image size. Only the dev subset is public, so scores on the full collection cannot be reproduced from the release.",
+        "observations": [
+          "macOS screenshots"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "mit",
+          "retrieved_at": "2026-10-18T11:14:39Z",
+          "url": "https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:14:39Z",
+          "role": "primary",
+          "sha256": "14d46319e7abf54616df512b8bbc7d6d62347e9b1a36e21a61aa2c4667e909a4",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "details.benchmark_protocol",
+            "details.hub_id"
+          ],
+          "url": "https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:14:41Z",
+          "role": "primary",
+          "sha256": "c13a190cdc2157438ec505778dfa21ebbce1b9f518d06b8d3ebb31737aeb5312",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/showdown-clicks-dev/data.csv"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-18T11:14:39Z",
+          "role": "primary",
+          "sha256": "14d46319e7abf54616df512b8bbc7d6d62347e9b1a36e21a61aa2c4667e909a4",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:gezelligheid0314/sman-bench",
+      "name": "SMAN-Bench",
+      "url": "https://github.com/gezelligheid0314/SMAN-Bench",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "click a labelled element",
+          "scroll a labelled element in a direction",
+          "input text"
+        ],
+        "counts": [],
+        "evaluation": "Predicted actions are mapped to the recorded action IDs of each page. Single-path runs are scored step by step against the ground-truth path (action accuracy, action-type accuracy, success only when every step matches); multi-path runs succeed when the agent's actions reach the goal page in the recorded page graph; noisy runs check ground-truth click and swipe coordinates against the predicted element's bounds and typed text by character-level F1.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/eval.py",
+          "https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/appagent/appagent_singlepath.py",
+          "https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/appagent/appagent_multipath.py",
+          "https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/mobileagent/mobileagent_singlepath.py",
+          "https://api.github.com/repos/gezelligheid0314/SMAN-Bench/git/trees/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327?recursive=1"
+        ],
+        "focus": [
+          "single-path step accuracy",
+          "multi-path task completion",
+          "robustness to pop-ups and ads",
+          "ambiguous instructions"
+        ],
+        "notes": "The repository has no task files; task counts belong to the Hugging Face data release and are not restated here. Scoring rules are taken from eval.py at the reviewed commit, which has no separate scorer for the ambiguous split.",
+        "observations": [
+          "recorded Android screenshots with element boxes drawn from the page XML",
+          "element centre coordinates (Mobile-Agent-v2 runner)",
+          "task instructions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:19:28Z",
+          "role": "primary",
+          "sha256": "e3b1edf5ebd8a3c4ece3fe55994678b01188bf8c8aed5ac3ebbd93a818eec0c8",
+          "supports": [
+            "notes",
+            "details.repository_revision",
+            "details.repository_tree_sha",
+            "details.availability",
+            "details.benchmark_protocol",
+            "licenses.code"
+          ],
+          "url": "https://api.github.com/repos/gezelligheid0314/SMAN-Bench/git/trees/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:19:29Z",
+          "role": "primary",
+          "sha256": "860f45a6ff49829b3e5ff6ad938862c7420d09bf41964340d87927f636bef45c",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/eval.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:19:29Z",
+          "role": "primary",
+          "sha256": "b49ccd022e82f2da2727ec9c048cc5c6eaa9edd0c8953d17e06548bc2859c232",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/appagent/appagent_singlepath.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:21:04Z",
+          "role": "primary",
+          "sha256": "fe4dffc17866473e8c26871ca71d12ce2c04187e17df80fa6b1be232b7fbd571",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/appagent/appagent_multipath.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:19:29Z",
+          "role": "primary",
+          "sha256": "f7ec44782984c911ef7c0472fdedccf4286d55ed08f9d072f2599f651a567565",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/mobileagent/mobileagent_singlepath.py"
+        }
+      ]
+    },
+    {
       "id": "github:ai-agents-2030/spa-bench",
       "name": "SPA-Bench",
       "url": "https://github.com/ai-agents-2030/SPA-Bench",
@@ -4338,6 +7374,99 @@
       ]
     },
     {
+      "id": "url:cb7f3bdb832d533c96b0",
+      "name": "SWE-bench Multimodal",
+      "url": "https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "code patch submission"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal",
+            "population": "Hub test split as released (dataset_info and dataset viewer)",
+            "qualifier": "exact",
+            "unit": "task instances",
+            "value": 480
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal",
+            "population": "Hub dev split as released (dataset_info and dataset viewer)",
+            "qualifier": "exact",
+            "unit": "task instances",
+            "value": 100
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal/raw/main/README.md",
+            "population": "dataset card prose (102 dev and 510 test from 17 repositories)",
+            "qualifier": "exact",
+            "unit": "issue-pull request pairs",
+            "value": 612
+          }
+        ],
+        "evaluation": "Submitted patches are applied in per-instance Docker images and judged by the repository's FAIL_TO_PASS and PASS_TO_PASS unit tests through the SWE-bench harness; the reported metric is the percentage of instances resolved.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal/raw/main/README.md",
+          "https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal"
+        ],
+        "focus": [
+          "issue resolution in visual JavaScript/TypeScript software",
+          "interpreting screenshots and renderings in issue reports"
+        ],
+        "notes": "The released Parquet rows (100 dev, 480 test) differ from the card's prose totals (102 dev, 510 test); record the Hub revision and split with a score. The dev and test splits use disjoint repositories. Some carbon-design-system accessibility tests fetch a rule engine over the network at evaluation time, so their verdicts can vary between runs.",
+        "observations": [
+          "repository checkout",
+          "issue text",
+          "issue and patch images"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:11:00Z",
+          "role": "primary",
+          "sha256": "dbff146d57bbc200cb584c300d045bc81ab738cec0c07ae405e4f5ebbf5dc6ea",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "details.benchmark_protocol",
+            "details.leaderboard_url",
+            "details.hub_id"
+          ],
+          "url": "https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:11:05Z",
+          "role": "primary",
+          "sha256": "8347894b2ea01e61e4d74fbbeaeacd7809ae0bef9beabdb74c16636cfbd9a3fc",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal"
+        }
+      ]
+    },
+    {
       "id": "github:theagentcompany/theagentcompany",
       "name": "TheAgentCompany",
       "url": "https://github.com/TheAgentCompany/TheAgentCompany",
@@ -4402,6 +7531,454 @@
             "details.leaderboard_url"
           ],
           "url": "https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:sparklabutah/timewarp",
+      "name": "TimeWarp",
+      "url": "https://github.com/sparklabutah/timewarp",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "BrowserGym browser actions",
+          "free-text answer message to the user"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json",
+            "population": "BrowserGym task file src/browsergym/timewarp/data/test.raw.json",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 231
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json",
+            "population": "Wiki-only tasks",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 70
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json",
+            "population": "Shop-only tasks",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 64
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json",
+            "population": "News-only tasks",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 47
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json",
+            "population": "tasks spanning two or three sites",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 50
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json",
+            "population": "tasks scored only by the LLM judge",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 2
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/README.md",
+            "population": "numbered themes for each of Wiki, News and Shop",
+            "qualifier": "exact",
+            "unit": "UI versions per site",
+            "value": 6
+          }
+        ],
+        "evaluation": "Each task's free-text answer is normalized (case, unicode, markdown, punctuation, number formatting) and checked by the verifiers listed in its eval_types (string_match, number_match, list_match, combined with AND); tasks still on llm_judge are graded by GPT-5 by default or an open Gemma judge. The same tasks are run against each UI version.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json",
+          "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/README.md",
+          "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/task.py",
+          "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/config.py",
+          "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/env/wiki/wiki_app.py"
+        ],
+        "focus": [
+          "robustness of web agents to UI redesigns across eras",
+          "information seeking across Wiki, News and Shop sites"
+        ],
+        "notes": "Task counts were computed from the task file's sites and eval.eval_types fields at the reviewed commit; test.raw.v2.json is byte-identical, and test.raw.llm_judge.json is a variant that routes all 231 tasks to the LLM judge. Results depend on the UI version served, so a score should state the version.",
+        "observations": [
+          "BrowserGym observations of the self-hosted sites, as selected by the agent"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:39:37Z",
+          "role": "primary",
+          "sha256": "96644cd15ad327a891d602d46bbb1bbc3332335b6ec8ef8e89c371f99082e73a",
+          "supports": [
+            "relations",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:39:37Z",
+          "role": "primary",
+          "sha256": "51fa0eb24ba21d177d8e1fb1f2a53544416bbf84eae343449e60ff9c919592dc",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:39:38Z",
+          "role": "primary",
+          "sha256": "bf65e287b4929dfab48ceffb4f1e523b8be3bc92970fe3d594200f0149ec7b92",
+          "supports": [
+            "relations",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/task.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:39:38Z",
+          "role": "primary",
+          "sha256": "8d9031adb0b9f5ffdc0778542703b7476861ba20ee2faf0ffe9beb5dc318ecce",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/config.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:39:39Z",
+          "role": "primary",
+          "sha256": "c61fdde172f86f1414a7d45fe6af0db3226baa55fd354b8bf7679f86619ba513",
+          "supports": [
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/env/wiki/wiki_app.py"
+        }
+      ]
+    },
+    {
+      "id": "url:c08566be0d973ec40c48",
+      "name": "UI-I2E-Bench",
+      "url": "https://huggingface.co/datasets/vaundys/I2E-Bench",
+      "environments": [
+        "cross-platform"
+      ],
+      "profile": {
+        "actions": [
+          "point prediction"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl",
+            "population": "I2E-bench-annotation.jsonl at Hub revision ecfcc01",
+            "qualifier": "exact",
+            "unit": "annotated instructions",
+            "value": 1477
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl",
+            "population": "I2E-bench-annotation.jsonl at Hub revision ecfcc01",
+            "qualifier": "exact",
+            "unit": "distinct screenshots referenced",
+            "value": 1161
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl",
+            "population": "I2E-bench-annotation.jsonl at Hub revision ecfcc01",
+            "qualifier": "exact",
+            "unit": "mobile instructions",
+            "value": 705
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl",
+            "population": "I2E-bench-annotation.jsonl at Hub revision ecfcc01",
+            "qualifier": "exact",
+            "unit": "desktop instructions",
+            "value": 519
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl",
+            "population": "I2E-bench-annotation.jsonl at Hub revision ecfcc01",
+            "qualifier": "exact",
+            "unit": "web instructions",
+            "value": 253
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl",
+            "population": "I2E-bench-annotation.jsonl at Hub revision ecfcc01",
+            "qualifier": "exact",
+            "unit": "implicit instructions",
+            "value": 917
+          }
+        ],
+        "evaluation": "Point-in-box accuracy against the annotated bounding box, broken down by source platform, element type and instruction type (UI-E2I-Synth/i2e-bench-eval.py).",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl",
+          "https://huggingface.co/api/datasets/vaundys/I2E-Bench/revision/ecfcc016d92c87ce6c194dba1b3faffabf7db51d",
+          "https://raw.githubusercontent.com/microsoft/FIVE-UI-Evol/a07e8ecfad9203c202ba04557f8c5ad9f58d61f1/UI-E2I-Synth/i2e-bench-eval.py",
+          "https://raw.githubusercontent.com/microsoft/FIVE-UI-Evol/a07e8ecfad9203c202ba04557f8c5ad9f58d61f1/UI-E2I-Synth/leaderboard/index.html"
+        ],
+        "focus": [
+          "GUI element grounding from explicit and implicit instructions"
+        ],
+        "notes": "Counts were computed from the pinned annotation file; source counts sum to the instruction total, and implicit plus 560 explicit instructions do too. The Hub manifest has 1,509 PNG files in five folders, more than the 1,161 screenshots the annotations reference. No split is declared.",
+        "observations": [
+          "screenshots",
+          "natural-language instructions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-19T07:08:32Z",
+          "url": "https://huggingface.co/datasets/vaundys/I2E-Bench"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:08:32Z",
+          "role": "primary",
+          "sha256": "cf382038d5dc2c54bb2353b50fad311ff8fab34bab7433fe26a66147ef44607c",
+          "supports": [
+            "name",
+            "kind",
+            "environments",
+            "scope",
+            "notes",
+            "relations",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/api/datasets/vaundys/I2E-Bench/revision/ecfcc016d92c87ce6c194dba1b3faffabf7db51d"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:08:32Z",
+          "role": "primary",
+          "sha256": "56f69897e22e683d82f015e698f33e35d19de25d77eeaba992039767efe63981",
+          "supports": [
+            "summary",
+            "topics",
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:08:31Z",
+          "role": "primary",
+          "sha256": "9ddfcc1e1898d61fa01197cdb0fafee7990cc92e3671c229ae83634330c66814",
+          "supports": [
+            "summary",
+            "relations",
+            "notes",
+            "details.repository_url"
+          ],
+          "url": "https://raw.githubusercontent.com/microsoft/FIVE-UI-Evol/a07e8ecfad9203c202ba04557f8c5ad9f58d61f1/UI-E2I-Synth/leaderboard/index.html"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-19T07:08:31Z",
+          "role": "primary",
+          "sha256": "504f491e65b1d242644857d5c1ed2cdf86a6c214f252332d4b84a4f31adc6dbc",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/microsoft/FIVE-UI-Evol/a07e8ecfad9203c202ba04557f8c5ad9f58d61f1/UI-E2I-Synth/i2e-bench-eval.py"
+        },
+        {
+          "method": "huggingface_api",
+          "retrieved_at": "2026-10-19T07:08:32Z",
+          "role": "primary",
+          "sha256": "cf382038d5dc2c54bb2353b50fad311ff8fab34bab7433fe26a66147ef44607c",
+          "supports": [
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/api/datasets/vaundys/I2E-Bench/revision/ecfcc016d92c87ce6c194dba1b3faffabf7db51d"
+        }
+      ]
+    },
+    {
+      "id": "github:starwalkin/ui-nexus",
+      "name": "UI-NEXUS",
+      "url": "https://github.com/StarWalkin/UI-NEXUS",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "agent-defined Android actions"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv",
+            "population": "all task files (50 + 25 + 25 rows)",
+            "qualifier": "exact",
+            "unit": "task templates",
+            "value": 100
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv",
+            "population": "UI-NEXUS-Anchor, English, local utility apps (data/offline_English.csv)",
+            "qualifier": "exact",
+            "unit": "task templates",
+            "value": 50
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv",
+            "population": "online service apps, Chinese (data/online_Chinese.csv)",
+            "qualifier": "exact",
+            "unit": "task templates",
+            "value": 25
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx",
+            "population": "online service apps, English (data/online_English.xlsx)",
+            "qualifier": "exact",
+            "unit": "task templates",
+            "value": 25
+          }
+        ],
+        "evaluation": "Not specified in the repository: the README defers the agent-running code, and neither the task files nor the state configurations carry success criteria.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv",
+          "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv",
+          "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx",
+          "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/README.md",
+          "https://api.github.com/repos/StarWalkin/UI-NEXUS/git/trees/c2ebeadc2c6821ecd246e097787efcc9a448b1b5?recursive=1"
+        ],
+        "focus": [
+          "compositional multi-app mobile tasks",
+          "generalization from atomic to compositional tasks"
+        ],
+        "notes": "Template counts are data rows with distinct task IDs, counted with Python's csv module and by parsing the XLSX sheet XML. Anchor categories: Simple Concatenation 20, Context Transition 20, Deep Dive 10; each online file: Simple Concatenation 7, Context Transition 11, Deep Dive 7. Each row carries one instantiation of its template.",
+        "observations": [
+          "agent-defined observations of the Android emulator or device"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:36:11Z",
+          "role": "primary",
+          "sha256": "0ea9401ff29cf9fd9cc5adb4b084e77c09f25a2df0119e45a4bc056895c55fde",
+          "supports": [
+            "notes",
+            "details.repository_revision",
+            "details.repository_tree_sha",
+            "details.availability",
+            "details.benchmark_protocol",
+            "licenses.code"
+          ],
+          "url": "https://api.github.com/repos/StarWalkin/UI-NEXUS/git/trees/c2ebeadc2c6821ecd246e097787efcc9a448b1b5?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:36:15Z",
+          "role": "primary",
+          "sha256": "4a2ebb00b718b7aca9f4460827270d6e9828cc7ee9148a124ae663c6b1186f84",
+          "supports": [
+            "relations",
+            "notes",
+            "details.availability",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:36:15Z",
+          "role": "primary",
+          "sha256": "c37e589a077131149f1d1a292500b60354e5c2ff401494422d36cda8ccbe1b2d",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:36:17Z",
+          "role": "primary",
+          "sha256": "815766e4ba5fa6111289ad66fabc6bdc44ed5ea9af40052e4388b27781771472",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:36:17Z",
+          "role": "primary",
+          "sha256": "819efeb7ea389ff0a340d717e0b39ae5ab89bf7ebcad1b45dac8acf414f5b111",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx"
         }
       ]
     },
@@ -4658,6 +8235,370 @@
       ]
     },
     {
+      "id": "github:web-arena-x/webarena-infinity",
+      "name": "WebArena-Infinity",
+      "url": "https://github.com/web-arena-x/webarena-infinity",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "browser-use element actions",
+          "mouse click, drag and scroll",
+          "key press and typing"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://webarena.dev/webarena-infinity/content.md",
+            "population": "initial release, ten environments (blog statistics table)",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 1260
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://webarena.dev/webarena-infinity/content.md",
+            "population": "initial release (blog statistics table)",
+            "qualifier": "exact",
+            "unit": "environments",
+            "value": 10
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1",
+            "population": "apps/ at commit 1ca7781, excluding ablations, app-description and user-manuals",
+            "qualifier": "exact",
+            "unit": "environment directories",
+            "value": 13
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1",
+            "population": "apps/*/real-tasks/task_*.py at commit 1ca7781 (260 easy, 260 medium, 1,100 hard by file prefix)",
+            "qualifier": "exact",
+            "unit": "real-task verifier scripts",
+            "value": 1620
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1",
+            "population": "apps/*/function-tasks/task_*.py at commit 1ca7781",
+            "qualifier": "exact",
+            "unit": "functional-test verifier scripts",
+            "value": 737
+          }
+        ],
+        "evaluation": "Before each task the harness posts /api/reset; after the agent finishes, the task's Python verifier reads the app state from GET /api/state and returns pass or fail with a message. Tasks are graded easy, medium or hard, and the blog reports success rate per agent.",
+        "evidence_urls": [
+          "https://webarena.dev/webarena-infinity/content.md",
+          "https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1",
+          "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/run_eval_parallel.py",
+          "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/tasks.py",
+          "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/agents.py",
+          "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/vision_agents.py",
+          "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/docs/environment-protocol.md"
+        ],
+        "focus": [
+          "browser agents on generated replicas of real web applications",
+          "programmatic state verification of task outcomes"
+        ],
+        "notes": "The repository holds three more environment directories than the blog's release table, so state which environments and task suite (real-tasks or function-tasks) a score covers. Keep the agent harness, vision setting, step limit and task timeout with any score. No benchmark run was executed for this review.",
+        "observations": [
+          "DOM-derived page state through browser-use (screenshots optional)",
+          "screenshots"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-20T04:07:54Z",
+          "url": "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:06:17Z",
+          "role": "primary",
+          "sha256": "f55d394a98ab18b01578d329c6bfe43de90be336051e6e479c730c39e4181f2b",
+          "supports": [
+            "summary",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://webarena.dev/webarena-infinity/content.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:06:17Z",
+          "role": "primary",
+          "sha256": "1680aa208a7a5c4615b642a4cfeeb70d61967f0e774fe37e63c22c18800dd3fa",
+          "supports": [
+            "identity",
+            "details.repository_revision",
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:06:21Z",
+          "role": "primary",
+          "sha256": "b4a55c3e5bd0479dd70ab660c190aa10c08ec253d86224fa378fe75fb8f3a920",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/run_eval_parallel.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:06:22Z",
+          "role": "primary",
+          "sha256": "a36959f9907e486c768fb42f78f58335df8e7fdd8be9216db54ff51c5bf012a8",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/tasks.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:06:22Z",
+          "role": "primary",
+          "sha256": "4c2819c8126df79a979586ad874eecb947c414ba6356d791254bafe16994886e",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/agents.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:06:22Z",
+          "role": "primary",
+          "sha256": "03c1cf3728ac0977ed56a9b1dfe52a0bef979443802905d0ea16fa1d88bfd5dc",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/vision_agents.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-20T04:06:22Z",
+          "role": "primary",
+          "sha256": "21a54a5f85b4cc75539af061d8b066fa582941fc40268d1052dfe17062d46d44",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/docs/environment-protocol.md"
+        }
+      ]
+    },
+    {
+      "id": "github:servicenow/webarena-verified",
+      "name": "WebArena-Verified",
+      "url": "https://github.com/ServiceNow/webarena-verified",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "browser interactions on self-hosted WebArena sites"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/webarena-verified.json",
+            "population": "assets/dataset/webarena-verified.json",
+            "qualifier": "exact",
+            "unit": "task definitions",
+            "value": 812
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/subsets/webarena-verified-hard.json",
+            "population": "WebArena-Verified Hard subset (assets/dataset/subsets/webarena-verified-hard.json)",
+            "qualifier": "exact",
+            "unit": "task IDs",
+            "value": 258
+          }
+        ],
+        "evaluation": "Deterministic evaluators compare a structured agent response (task type, status, retrieved data) with the reference; 488 of the 812 tasks also check network events from a captured HAR trace, with 663 network-event checks in all. LLM-as-a-judge and substring matching were removed, and runs can be scored offline from saved responses and traces.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/README.md",
+          "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/webarena-verified.json",
+          "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/subsets/webarena-verified-hard.json"
+        ],
+        "focus": [
+          "web task completion",
+          "information retrieval from self-hosted websites"
+        ],
+        "notes": "Counts are unique task_id values in the inspected manifests. Tasks span the shopping, shopping_admin, gitlab, reddit, map and wikipedia sites, including cross-site tasks; each task carries a revision number. The observation format and agent harness are not prescribed. Record the task-file revision, subset and environment images with a score.",
+        "observations": [],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-18T11:06:06Z",
+          "url": "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:06:05Z",
+          "role": "primary",
+          "sha256": "8f343078ba55263182f86ec54497958a1174d90cb8ce7573cedcc29f5c8e6b50",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:06:05Z",
+          "role": "primary",
+          "sha256": "d65275660814663375028e9017e1f929e3c38321041b125795e2713b52243d30",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/webarena-verified.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:06:06Z",
+          "role": "primary",
+          "sha256": "3b0a4df231bb5a0c642215e521c3fa97701a384f52a734dc2db8f617ad0591a7",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/subsets/webarena-verified-hard.json"
+        }
+      ]
+    },
+    {
+      "id": "github:halluminate/webbench",
+      "name": "WebBench",
+      "url": "https://github.com/Halluminate/WebBench",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "browser interactions on live websites"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md",
+            "population": "documented WebBench task set",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 2454
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md",
+            "population": "documented site coverage",
+            "qualifier": "exact",
+            "unit": "websites",
+            "value": 452
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/webbenchfinal.csv",
+            "population": "webbenchfinal.csv as released",
+            "qualifier": "exact",
+            "unit": "task rows",
+            "value": 2647
+          }
+        ],
+        "evaluation": "The repository releases per-agent result files; the scoring procedure is described in the publisher's technical report rather than an executable evaluator in the repository.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md",
+          "https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/webbenchfinal.csv"
+        ],
+        "focus": [
+          "live-web task completion",
+          "write operations such as account creation, updates and deletions",
+          "file downloads"
+        ],
+        "notes": "The released CSV has columns ID, Starting URL, Category and Task, with 1,637 READ, 594 CREATE, 206 UPDATE, 166 DELETE and 44 FILE_MANIPULATION rows; the README's category table sums to 2,454. A separate webbench_hitl_final.csv covers human-in-the-loop runs. Record the task file revision with a score.",
+        "observations": [],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-18T11:13:09Z",
+          "url": "https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/LICENSE"
+        },
+        "data": {
+          "basis": "Hugging Face dataset card YAML license for the Halluminate/WebBench task data; target-site content is not covered.",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-18T11:13:09Z",
+          "url": "https://huggingface.co/datasets/Halluminate/WebBench/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:13:06Z",
+          "role": "primary",
+          "sha256": "9898c4ea9c7d08c08566893dd6adb6a6ca3d2e3ef85a2dbcbc350b2bd22736b8",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "details.benchmark_protocol",
+            "details.leaderboard_url"
+          ],
+          "url": "https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T11:13:07Z",
+          "role": "primary",
+          "sha256": "fd5311a38bdb6f941e8f544150735656c114d76fbfb17193da973d5de0165217",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/webbenchfinal.csv"
+        }
+      ]
+    },
+    {
       "id": "url:5e2bd1b3398974b79c9c",
       "name": "WebClick",
       "url": "https://huggingface.co/datasets/Hcompany/WebClick",
@@ -4832,6 +8773,184 @@
             "details.benchmark_protocol"
           ],
           "url": "https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:77afb3a9b045a157167c",
+      "name": "WebLINX 1.1 (WebLINX-BrowserGym)",
+      "url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "click",
+          "hover",
+          "fill",
+          "goto",
+          "scroll",
+          "new_tab",
+          "tab_close",
+          "tab_focus",
+          "send_msg_to_user"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+            "population": "all splits, task metadata at revision 9db39ad4",
+            "qualifier": "exact",
+            "unit": "single-step tasks",
+            "value": 62966
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+            "population": "all splits, distinct demo_name values at revision 9db39ad4",
+            "qualifier": "exact",
+            "unit": "demonstrations",
+            "value": 2325
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+            "population": "train split",
+            "qualifier": "exact",
+            "unit": "single-step tasks",
+            "value": 26410
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+            "population": "valid split",
+            "qualifier": "exact",
+            "unit": "single-step tasks",
+            "value": 2526
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+            "population": "test_iid split",
+            "qualifier": "exact",
+            "unit": "single-step tasks",
+            "value": 2650
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+            "population": "test_cat split",
+            "qualifier": "exact",
+            "unit": "single-step tasks",
+            "value": 6802
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+            "population": "test_geo split",
+            "qualifier": "exact",
+            "unit": "single-step tasks",
+            "value": 8704
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+            "population": "test_vis split",
+            "qualifier": "exact",
+            "unit": "single-step tasks",
+            "value": 10407
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+            "population": "test_web split",
+            "qualifier": "exact",
+            "unit": "single-step tasks",
+            "value": 5467
+          }
+        ],
+        "evaluation": "Each task replays one recorded turn and ends after one step. The extension's get_reward compares the predicted action with the reference turn: IoU for click and hover, chrF times IoU for text input, URL F-score for page loads, chrF for messages, a distance score for scrolls, intent match for opening or closing tabs and exact target match for tab switches; unsupported intents score 0.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv",
+          "https://raw.githubusercontent.com/McGill-NLP/weblinx-browsergym/297e5de4e773b8756b0d4c044f23d5075950dc3d/weblinx_browsergym/__init__.py",
+          "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md"
+        ],
+        "focus": [
+          "conversational web navigation",
+          "next-action prediction from recorded demonstration states"
+        ],
+        "notes": "A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries, so files were not counted. No agent was run.",
+        "observations": [
+          "screenshot",
+          "DOM snapshot",
+          "accessibility tree",
+          "extra element properties",
+          "open tab URLs and titles",
+          "chat history and goal"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "cc-by-nc-sa-4.0",
+          "retrieved_at": "2026-10-18T12:21:40Z",
+          "url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T12:21:40Z",
+          "role": "primary",
+          "sha256": "15791d57bbcc8d4c5c88a8a3f5316ed72bc1e2ace939b1fb8dd6039b9a7b0d8b",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "notes",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T12:21:40Z",
+          "role": "primary",
+          "sha256": "d50c9bd8d67675316c50ff0cebf81c8273d1e4b1b815337c16757b0bb370b481",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-18T12:21:41Z",
+          "role": "primary",
+          "sha256": "9f16aa5ee665b9d1b6eb36bd2b1c4303d53c1f0e7cb6b6b664fce03d389c7ab0",
+          "supports": [
+            "details.benchmark_protocol",
+            "details.repository_url",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/McGill-NLP/weblinx-browsergym/297e5de4e773b8756b0d4c044f23d5075950dc3d/weblinx_browsergym/__init__.py"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-18T12:21:40Z",
+          "role": "primary",
+          "sha256": "15791d57bbcc8d4c5c88a8a3f5316ed72bc1e2ace939b1fb8dd6039b9a7b0d8b",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md"
         }
       ]
     },

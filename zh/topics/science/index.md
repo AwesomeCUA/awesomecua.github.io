@@ -53,13 +53,32 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
 
 ## 评测基准
 
+- [OSWorld-Science](https://awesomecua.com/resources/github-discoailab-osworld-science/) — Date not recorded
+  Benchmark harness that runs computer-use agents on scientific-software tasks in per-domain VMs and scores the resulting application states and deliverables with task-specific executable evaluators.
 - [ScienceBoard](https://awesomecua.com/resources/github-os-copilot-scienceboard/) — Date not recorded
   Scientific-workflow tasks for multimodal agents in desktop software such as ChimeraX, KAlgebra, Celestia, Grass GIS and Lean 4, with apps modified to expose state for evaluation.
 
 ## 数据集
 
+- [OSWorld-Science task data](https://awesomecua.com/resources/url-263e82b29d4fca964463/) — Date not recorded
+  Gated Hub release of OSWorld-Science task definitions, staged inputs, grader references and prepared Ubuntu VM images for computer-use agents working in scientific software.
 - [ScienceBoard evaluation trajectories](https://awesomecua.com/resources/url-4784f63cd7117f64a2a3/) — Date not recorded
   Archives of ScienceBoard agent evaluation runs, separated by agent configuration and screenshot, accessibility-tree or set-of-marks observation mode.
+
+## 模型
+
+- [ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard](https://awesomecua.com/resources/url-4bcb6a451d6f4d25343c/) — Date not recorded
+  GLM-4.6V-Flash computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL from a released SFT start point for ScienceBoard scientific-software tasks.
+- [ScaleCUA (THUDM) GLM-4.6V-Flash ScienceBoard SFT](https://awesomecua.com/resources/url-7fbde54a49250739baee/) — Date not recorded
+  Supervised GLM-4.6V-Flash checkpoint from THUDM's ScaleCUA, released as the start point that online RL initializes from for its ScienceBoard computer-use agent.
+- [ScaleCUA (THUDM) Qwen3-VL-8B ScienceBoard](https://awesomecua.com/resources/url-73c169c32b5765688376/) — Date not recorded
+  Qwen3-VL-8B computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL for ScienceBoard scientific-software tasks after an SFT start point and served through an OpenAI-compatible endpoint.
+- [ScaleCUA (THUDM) Qwen3-VL-8B ScienceBoard SFT](https://awesomecua.com/resources/url-058cb7a92cba506f9739/) — Date not recorded
+  Supervised Qwen3-VL-8B checkpoint from THUDM's ScaleCUA, released as the start point that online RL initializes from for its ScienceBoard computer-use agent.
+- [ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard](https://awesomecua.com/resources/url-d2d07c09a1c92e5f4a43/) — Date not recorded
+  Qwen3.5-9B computer-use agent checkpoint from THUDM's ScaleCUA, trained with online RL for ScienceBoard scientific-software tasks after an SFT start point and served through an OpenAI-compatible endpoint.
+- [ScaleCUA (THUDM) Qwen3.5-9B ScienceBoard SFT](https://awesomecua.com/resources/url-af7a03e8199643c3508f/) — Date not recorded
+  Supervised Qwen3.5-9B checkpoint from THUDM's ScaleCUA, released as the start point that online RL initializes from for its ScienceBoard computer-use agent.
 
 ## 工程与产业
 
@@ -71,6 +90,10 @@ Full source records: https://awesomecua.com/downloads/topics/science/records.jso
   CODA coordinates a trainable planner ('Cerebrum') with a grounded GUI executor ('Cerebellum') via decoupled reinforcement learning on ScienceBoard.
 - [device-use](https://awesomecua.com/resources/github-labclaw-device-use/) — Date not recorded
   device-use enables AI agents to operate scientific laboratory instruments through their native desktop GUI software without hardware APIs.
+- [grass-gui](https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/) — Date not recorded
+  ScienceBoard's replacement GRASS GIS 8.4 wxPython GUI with an embedded Flask server that loads mapsets and layers, runs GRASS commands and returns layer, region and console state as JSON for task checks.
+- [kalgebra-kai](https://awesomecua.com/resources/github-shiinahiiragi-kalgebra/) — Date not recorded
+  Modified KAlgebra build from ScienceBoard with a local HTTP server that reports variables and plotted 2D and 3D functions and can switch tabs or add calculations and plots, so the benchmark can check math tasks.
 - [mcp-vroid](https://awesomecua.com/resources/github-nhodges-mcp-vroid/) — Date not recorded
   Model Context Protocol server that drives VRoid Studio 3D character creation via Linux Wayland GUI automation.
 - [ScienceBoard VMware environment](https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/) — Date not recorded

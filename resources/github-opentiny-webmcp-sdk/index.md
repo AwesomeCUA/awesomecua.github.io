@@ -29,3 +29,5 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/opentiny/webmcp-sdk/HEAD/README.md (retrieved 2026-11-04T15:03:31Z; SHA-256 b7eae3acfece7cd68366a293e35cbf286c8696e5d644cc38207062f7967e1486)
 - https://raw.githubusercontent.com/opentiny/webmcp-sdk/HEAD/LICENSE (retrieved 2026-11-04T15:22:44Z; SHA-256 50621afdf77f504b7d652c0aa05fdc30b79becbe9780ce26b2abab7039de4023)
+- https://api.github.com/repos/opentiny/next-sdk (retrieved 2026-10-18T15:52:24Z; SHA-256 f0664b4094e42b1701baba1ef800b22547a8204a7d24c73a85605c236364158a)
+- https://api.github.com/repos/opentiny/webmcp-sdk (retrieved 2026-10-18T15:52:25Z; SHA-256 f0664b4094e42b1701baba1ef800b22547a8204a7d24c73a85605c236364158a)

@@ -1,6 +1,6 @@
 # Computer-use agent benchmarks
 
-> 217 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 248 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/benchmark/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
@@ -313,6 +313,66 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AgentCIBench
+
+Contextual-integrity benchmark for computer-use agents: 117 synthetic multi-app workspace scenarios that pair under-specified requests with must-share and must-not-share lists, plus a 50-scenario live-UI subset.
+
+- Catalog URL: https://awesomecua.com/resources/url-d7f35409d35584385097/
+- Original source: https://huggingface.co/datasets/UKPLab/agentcibench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, safety-security, cross-app
+- Evidence checked: 2026-10-19T06:04:29Z
+- ID: url:d7f35409d35584385097
+
+### Limitations
+
+Each scenario is a JSON snapshot of app states in the OpenApps workspace (messenger, todo, calendar, code editor, maps and shopping apps) with a task prompt and a disclosure policy. The card's test split serves the state-grounded reasoning track; test_e2e is a 50-scenario subset of it (all IDs overlap) for runs in the rendered UI, which the code README describes as a local multi-app web environment driven through Playwright; seeds holds 36 disjoint hand-written scenarios. The card says source is seed or mcts, but every released row reads seed or legacy_pilot_seed. The code repository linked as ukplab/arxiv2026-agentcibench now resolves to UKPLab/emnlp2026-agentcibench (GitHub API), and the card's second code link, agentcibench/agentcibench, returns 404. The 67.9% average leakage over 15 agents is a publisher figure and was not reproduced. CC BY 4.0 is the card's data declaration; the code is a separate Apache-2.0 release.
+
+- Record JSON: https://awesomecua.com/resources/url-d7f35409d35584385097/record.json
+
+### Structured profile
+
+- actions: GUI actions in the rendered workspace (live-UI subset), content shared or sent through the workspace apps
+- evaluation: The code release scores each run for utility (required items shared) and contextual-integrity violation (prohibited items leaked), combining deterministic text matching against the scenario's must-share and must-not-share lists with an LLM judge at temperature 0; summaries report utility rate, leak rate and average reward.
+- focus: contextual-integrity compliance of computer-use agents, information disclosure across personal apps
+- observations: decoded app states, rendered app UI (live-UI subset), natural-language task prompts
+- setting: mixed
+
+#### Count observations
+
+- 117 scenarios — test split (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 50 scenarios — test_e2e split (subset of test used for live-UI evaluation) (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 36 scenarios — seeds split (hand-written seed scenarios) (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 75 scenarios — test split, failure mode task_ambiguity_overshare (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 24 scenarios — test split, failure mode recipient_misalignment (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+- 18 scenarios — test split, failure mode visual_co_location (reported; source: https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md)
+
+Setting is mixed: the reasoning track scores responses over decoded app states, while the test_e2e subset runs in the rendered web UI. A script recount of the released JSONL files matches every reported split and failure-mode count. The 50 test_e2e IDs all appear in test, so the two splits are not added; seeds share no IDs with either.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md (retrieved 2026-10-19T06:04:29Z; SHA-256 3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde)
+- https://huggingface.co/api/datasets/UKPLab/agentcibench/revision/f5523cb986828ee77bc505120a933f114bbcf4f3 (retrieved 2026-10-19T06:04:29Z; SHA-256 2ae68d96a7bff7a2eb78f323c3e87b09768812c06f2a2e0aadbaee2d627f5f7d)
+- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test-00000-of-00001.jsonl (retrieved 2026-10-19T06:04:29Z; SHA-256 709d43e4e09d2f3558d9290b8bdf4c15e95e4fefc29a56be6d12b52e646c99d7)
+- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/test_e2e-00000-of-00001.jsonl (retrieved 2026-10-19T06:04:30Z; SHA-256 9aced6b0d1e1368c28b3b110ba85e79a935b501a03a3c1b48fb97996dd4c05b2)
+- https://huggingface.co/datasets/UKPLab/agentcibench/resolve/f5523cb986828ee77bc505120a933f114bbcf4f3/data/seeds-00000-of-00001.jsonl (retrieved 2026-10-19T06:04:30Z; SHA-256 1b1a458c15ac64d63b7f6c20fab23740115a2b09d151ceeeb6f2c353c97f5418)
+- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/README.md (retrieved 2026-10-19T06:04:30Z; SHA-256 f836c578d6fea20f7b38092071a9646d2db19b422fe6117d57e6de57ab5e1324)
+- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/mcts/reward_judge.py (retrieved 2026-10-19T06:04:30Z; SHA-256 9527a682f91c5d7455853f392096ad47f117e35a14fda01b03969a4ef9c3bdc5)
+- https://raw.githubusercontent.com/UKPLab/emnlp2026-agentcibench/7b3fad424d0c5a450ac3bc3dc4050c38094c6dc6/eval/metrics.py (retrieved 2026-10-19T06:04:30Z; SHA-256 c51a95f1e0df49d627e986e6be845e3917260f4d1e82991bd88fecb6724dda24)
+- https://huggingface.co/datasets/UKPLab/agentcibench/raw/f5523cb986828ee77bc505120a933f114bbcf4f3/README.md (retrieved 2026-10-19T06:04:29Z; SHA-256 3e34a24a57ba5602f25711c464635970a14582ae8e39b146f932f81e65950cde)
+
+---
+
 ## AgentDAM
 
 Web-agent benchmark for measuring unnecessary use of sensitive personal information during end-to-end task execution.
@@ -343,6 +403,60 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/facebookresearch/ai-agent-privacy/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 9c938f8f3f3ee04f459362a8b7d399588fd030ce476cda111e5f23fbf1e31f10)
+
+---
+
+## AgentDojo
+
+Python benchmark package for prompt-injection security of tool-calling agents, with workspace, banking, travel and Slack suites, pluggable attacks and defenses, and a script that scores utility and attack success.
+
+- Catalog URL: https://awesomecua.com/resources/github-ethz-spylab-agentdojo/
+- Original source: https://github.com/ethz-spylab/agentdojo
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: safety-security, evaluation, tool-integration
+- Evidence checked: 2026-10-18T11:06:20Z
+- ID: github:ethz-spylab/agentdojo
+
+### Limitations
+
+Agents interact with simulated applications through function calls, not graphical interfaces; it is included as an adjacent security benchmark for comparison with GUI and browser-agent safety work. The inspected v1 suite directory lists banking, slack, travel and workspace; later suite versions (v1_1 to v1_2_2) exist alongside it, so record the suite version with any score. The README warns that the package API may still change. Publisher results on the documentation site were not reproduced. MIT applies to the repository code.
+
+- Record JSON: https://awesomecua.com/resources/github-ethz-spylab-agentdojo/record.json
+
+### Structured profile
+
+- actions: function calls to suite tools
+- evaluation: Each user task is checked for utility, and each injection task is checked for whether the attacker goal was executed; the benchmark script combines suites, attacks and defenses.
+- focus: prompt-injection robustness, task utility under attack
+- observations: tool-call results from simulated applications
+- setting: interactive
+
+#### Count observations
+
+- 97 user tasks — suites reported in the paper (version 3 abstract) (reported; source: https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1)
+- 629 security test cases — suites reported in the paper (version 3 abstract) (reported; source: https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1)
+- 4 task suites — src/agentdojo/default_suites/v1 directory listing (computed) (computed; source: https://api.github.com/repos/ethz-spylab/agentdojo/contents/src/agentdojo/default_suites/v1)
+
+Paper counts describe the reported benchmark; later suite versions in the repository may change tasks. Keep the suite version, attack, defense and model with a result.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ethz-spylab/agentdojo/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ethz-spylab/agentdojo/HEAD/README.md (retrieved 2026-10-18T11:06:20Z; SHA-256 d8c6460ecce9bbf59ed300fbc74b4440188f74cd147a7611836270be49e7660e)
+- https://api.github.com/repos/ethz-spylab/agentdojo (retrieved 2026-10-18T11:06:25Z; SHA-256 9ad83f42b22642a9dc444edcb45f07a8b296b36b459c951183d3d8a4f3e47f2d)
+- https://api.github.com/repos/ethz-spylab/agentdojo/contents/src/agentdojo/default_suites/v1 (retrieved 2026-10-18T11:06:45Z; SHA-256 3f222c17164d5efd16c1c3b93088c5f51c0eb7d3f034581be3bbe7a4b3b2750d)
+- https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1 (retrieved 2026-10-18T11:06:08Z; SHA-256 82f712f54aa9b3b42146ddc85ad8a0f6b765507bfdde986cab3344f50a88bf4b)
+- https://raw.githubusercontent.com/ethz-spylab/agentdojo/HEAD/LICENSE (retrieved 2026-10-18T11:06:32Z; SHA-256 4285a071f2d382338e52b4fb0a186d952984a34d43a33d8872e1a1d8cb43401e)
+- https://raw.githubusercontent.com/ethz-spylab/agentdojo/HEAD/LICENSE (retrieved 2026-10-18T11:06:32Z; SHA-256 4285a071f2d382338e52b4fb0a186d952984a34d43a33d8872e1a1d8cb43401e)
 
 ---
 
@@ -585,6 +699,62 @@ README states that task instructions are released but annotated action sequences
 - https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/observation.py (retrieved 2026-10-17T14:24:52Z; SHA-256 cfa9d272c85398f54c18d6e7445d680009e8c16d128962235d899592d3094c2f)
 - https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/actions.py (retrieved 2026-10-17T14:24:53Z; SHA-256 d25f2edf9202f59615341b62fc6046ac23a6f4cb072a6038ac562506cbdc891c)
 - https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/run_evaluator.py (retrieved 2026-10-17T14:21:10Z; SHA-256 257c42e980a0b14bd74bfcc381a0ecbef2b538c0f1cc1a94d22925efe354fb8e)
+
+---
+
+## AndroidControl-Curated
+
+Purified AndroidControl test set that scores predicted clicks against target element boxes and repairs ambiguous or wrong task labels, released as step-level JSON files with screenshot archives.
+
+- Catalog URL: https://awesomecua.com/resources/url-dda8a0f1413a6bc7c26f/
+- Original source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, grounding
+- Evidence checked: 2026-10-18T16:19:08Z
+- ID: url:dda8a0f1413a6bc7c26f
+
+### Limitations
+
+The Hub repository holds five benchmark JSON files, three screenshot tar.gz archives (about 18 GB in total) and the project's web-page assets; the card declares no data license. The point-format files keep coordinate targets, the bbox files add element boxes, and the high-level task-improved file adds revised task text and corrected labels from the paper's LLM-plus-human review; the evaluation script runs that file by default. The GitHub repository batechworks/AndroidControl_Curated carries JSON files with the same names and the vLLM evaluation code. Archives were not downloaded and scores were not reproduced.
+
+- Record JSON: https://awesomecua.com/resources/url-dda8a0f1413a6bc7c26f/record.json
+
+### Structured profile
+
+- actions: click, long press, swipe, text input, open app, navigate back, wait
+- evaluation: Per-step type accuracy, box accuracy and step success. A step succeeds when the predicted action type matches and, for click and long-press steps, the centre of the predicted box or point lies inside the ground-truth box; in the task-improved file, listed candidate actions count as alternative ground truths.
+- focus: single-step Android GUI action prediction, element grounding against target boxes
+- observations: screenshots, task goals, step instructions (low-level files), action history
+- setting: offline
+
+#### Count observations
+
+- 8,377 step records — android_control_high_task-improved.json (high-level goals, revised labels) (computed) (computed; source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json)
+- 1,540 episodes (distinct screenshot directories) — android_control_high_task-improved.json (computed) (computed; source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json)
+- 527 step records with revised task text — android_control_high_task-improved.json (computed) (computed; source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json)
+- 85 step records with corrected ground-truth actions — android_control_high_task-improved.json (gpt_corrected true) (computed) (computed; source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json)
+- 8,377 step records — android_control_low_bbox.json (step instructions) (computed) (computed; source: https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json)
+
+Counts were computed from the pinned JSON files. The high-level bbox file before task correction and the two point-format files have different record totals and are not summed with these.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/raw/62aeecdcafa4097d340c5a4389690a5f14e938ed/README.md (retrieved 2026-10-18T16:19:08Z; SHA-256 4711ccd07eee077ec4297b9c403dc948b33592a18bed6b7bfb833022ccfda0b9)
+- https://huggingface.co/api/datasets/batwBMW/AndroidControl_Curated/revision/62aeecdcafa4097d340c5a4389690a5f14e938ed (retrieved 2026-10-18T16:18:11Z; SHA-256 247a1030646117d8d6dba3947a37ce036027377f4ee884c403d21c2090c693e4)
+- https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_high_task-improved.json (retrieved 2026-10-18T16:18:11Z; SHA-256 e8c851dd1ab367db3e7eef05735920e38d34c43cd8d6f80516fc8bd6aec9656c)
+- https://huggingface.co/datasets/batwBMW/AndroidControl_Curated/resolve/62aeecdcafa4097d340c5a4389690a5f14e938ed/benchmark_resource/android_control_low_bbox.json (retrieved 2026-10-18T16:18:11Z; SHA-256 75b442e6b7e627ae4fdf845052734a578999edfa20e09db96007899a85ef2aba)
+- https://raw.githubusercontent.com/batechworks/AndroidControl_Curated/955062cc68e20666f71c4930e6025f989393a326/src/eval/evaluate_actions_androidControl_vllm.py (retrieved 2026-10-18T16:17:00Z; SHA-256 77a8b6da8f9c8e5e7016794198bad8e167d6fc5ccfcd66ca0105080e9b01bd49)
+- https://raw.githubusercontent.com/batechworks/AndroidControl_Curated/955062cc68e20666f71c4930e6025f989393a326/src/eval/utils.py (retrieved 2026-10-18T16:17:30Z; SHA-256 e8eb46eaecb4abcbeb921e20b86682116505e944b3bf242a62b0cfb24053b244)
 
 ---
 
@@ -855,6 +1025,59 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## AutomotiveUI-Bench-4K
+
+Offline test set of 998 photos and screenshots of in-vehicle infotainment screens from 15 brands, with 4,208 English annotations for locating UI elements and judging expected results as passed or failed.
+
+- Catalog URL: https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/
+- Original source: https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, evaluation, screen-understanding, industry
+- Evidence checked: 2026-10-19T07:49:42Z
+- ID: url:e80e9cf4f565f9ab2abf
+
+### Limitations
+
+Sparks Solutions publishes one ungated test split of 22 Parquet shards at revision d760810c. The card describes mostly photographs of in-vehicle infotainment displays plus some direct screenshots such as Android Auto; its per-brand image counts cover 13 car brands, Apple CarPlay and Google Android Auto and sum to 998. No catalog platform facet fits infotainment systems, so the environment is unspecified. Each annotation pairs a bounding box with either an imperative test action or an expected-result statement labeled passed or failed; UI text is German or English and annotations are English. The card's example code runs the publisher's ELAM-7B model, and its results table is publisher-reported. The card cites arXiv 2505.05895 (Ernhofer et al., 2025). CC-BY-4.0 is the card's data declaration.
+
+- Record JSON: https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/record.json
+
+### Structured profile
+
+- actions: point or bounding box for the referenced UI element, passed or failed verdict for expected results
+- evaluation: The card's scoring script counts a grounding hit when the predicted point, or the center of a predicted box, lies inside the annotated box, and scores expected-result verdicts against the passed or failed labels, overall and by UI language.
+- focus: grounding infotainment UI elements from test-action commands, judging expected-result statements as passed or failed
+- observations: photographs and screenshots of in-vehicle infotainment displays, English test-action or expected-result text
+- setting: offline
+
+#### Count observations
+
+- 4,208 annotations — test split, the only split, at revision d760810c (reported; source: https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md)
+- 998 images — images in the release (reported; source: https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md)
+- 2,269 annotations — Test Action rows in the test split, from the Hub dataset viewer's column statistics (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test)
+- 1,939 annotations — Expected Result rows in the test split (1,375 passed, 564 failed), from the Hub dataset viewer's column statistics (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test)
+
+Image and annotation totals are the card's. The class split comes from the Hub dataset viewer's statistics for the test split, whose 4,208 rows match the card; the language column is the UI language (2,220 German and 1,988 English rows). The 2.5 GB of Parquet shards were not downloaded.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md (retrieved 2026-10-19T07:49:42Z; SHA-256 5fa723cda0c5a9982158a1a716fad26242dd3e560365d149cb268d7aa1761dd7)
+- https://huggingface.co/api/datasets/sparks-solutions/AutomotiveUI-Bench-4K/revision/d760810c47bed006d88ee70dad7248056fdec223 (retrieved 2026-10-19T07:49:43Z; SHA-256 864ae1e85c8348b194569e78e9ac1defc9c928016ab4f0d0e49895d8e99c0130)
+- https://datasets-server.huggingface.co/statistics?dataset=sparks-solutions/AutomotiveUI-Bench-4K&config=default&split=test (retrieved 2026-10-19T07:50:08Z; SHA-256 ae3164aa48bcf6a05f6f6c0dd6d43e463b97a1dc5562b60460f4e787f7841d44)
+- https://huggingface.co/datasets/sparks-solutions/AutomotiveUI-Bench-4K/raw/d760810c47bed006d88ee70dad7248056fdec223/README.md (retrieved 2026-10-19T07:49:42Z; SHA-256 5fa723cda0c5a9982158a1a716fad26242dd3e560365d149cb268d7aa1761dd7)
+
+---
+
 ## B-MoCA
 
 Mobile control benchmark with varied interface configurations.
@@ -1043,6 +1266,60 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/vitoworleone/bond-underwriting-agent-benchmark/main/README.md (retrieved 2026-11-04T18:11:44Z; SHA-256 fcf090c02c2bff65b60a2512a570809c5cde2d4e4eb35f14da7860d44c82c400)
+
+---
+
+## BrowseComp
+
+OpenAI's 1,266-question benchmark for browsing agents, whose short, verifiable answers require persistent search and navigation across many websites and are graded by a model judge.
+
+- Catalog URL: https://awesomecua.com/resources/component-openai-simple-evals-browsecomp/
+- Original source: https://github.com/openai/simple-evals/blob/main/browsecomp_eval.py
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, long-horizon
+- Evidence checked: 2026-10-18T11:08:09Z
+- ID: component:openai/simple-evals/browsecomp
+
+### Limitations
+
+This record covers the BrowseComp reference implementation and question set that OpenAI publishes in simple-evals. The launch page (https://openai.com/index/browsecomp/) answered HTTP 403 to the catalog's client and was not used as evidence. The paper (arXiv 2504.12516) is not in the retained archive and no curated receipt cites its arXiv ID, so it is not linked yet. The simple-evals README says the repository is no longer updated for new models but continues to host the BrowseComp reference implementation. The README lists BrowseComp next to an MIT License link, but this record does not treat that as a declaration for the question data, so the data license stays unknown. The derivative BrowseComp-Plus (fixed-corpus retrieval rather than live browsing) is a separate resource and is not covered here.
+
+- Record JSON: https://awesomecua.com/resources/component-openai-simple-evals-browsecomp/record.json
+
+### Structured profile
+
+- actions: not recorded
+- evaluation: A grader model extracts the final answer from the response and judges it correct or incorrect against the decrypted reference answer; accuracy is the share judged correct. The reference implementation sends each question to any sampler and does not prescribe browsing tools or an action space.
+- focus: open-web information seeking, persistent multi-site search
+- observations: not recorded
+- setting: interactive
+
+#### Count observations
+
+- 1,266 questions — browse_comp_test_set.csv (computed) (computed; source: https://openaipublic.blob.core.windows.net/simple-evals/browse_comp_test_set.csv)
+
+The count is the number of data rows in the released CSV, whose problem and answer fields are XOR-encrypted with a per-row canary and carry a problem_topic label. Results depend on the agent's browsing tools, the grader model and the number of repeats; record these with a score.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/openai/simple-evals/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The simple-evals LICENSE is the standard MIT text and covers the evaluation code; the question CSV is hosted separately and has no data-license declaration in the inspected sources.
+  Sources: https://raw.githubusercontent.com/openai/simple-evals/HEAD/LICENSE
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/openai/simple-evals/HEAD/browsecomp_eval.py (retrieved 2026-10-18T11:08:09Z; SHA-256 0bfb33cfdf5fa0e0d7da48068cc86c5a22acc755979be4a2b46f8a821cc44b74)
+- https://openaipublic.blob.core.windows.net/simple-evals/browse_comp_test_set.csv (retrieved 2026-10-18T11:08:29Z; SHA-256 7b24471cd5b3eb2a46830a14802b5c029ea62f488ff75a0f88af7923d1454abf)
+- https://raw.githubusercontent.com/openai/simple-evals/HEAD/README.md (retrieved 2026-10-18T11:08:34Z; SHA-256 d9647c4a0e34cd9b2b528ff6986141734aac6f5f2f18a068eeadb2af0b29786f)
+- https://raw.githubusercontent.com/openai/simple-evals/HEAD/LICENSE (retrieved 2026-10-18T11:08:35Z; SHA-256 d831db55645e47ca8e491c5a0e37f1ee744d7b10bf5aa8d50146c795ac0176c0)
+- https://raw.githubusercontent.com/openai/simple-evals/HEAD/LICENSE (retrieved 2026-10-18T11:08:35Z; SHA-256 d831db55645e47ca8e491c5a0e37f1ee744d7b10bf5aa8d50146c795ac0176c0)
 
 ---
 
@@ -1691,6 +1968,65 @@ The interaction environment replays graph states rather than running real user a
 
 ---
 
+## Computer Agent Arena
+
+Crowdsourced arena where users pit two computer-use agents against each other on Ubuntu or Windows VMs; the repository holds the voting frontend, setup presets and 2,010 verified battle sessions, not the backend.
+
+- Catalog URL: https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/
+- Original source: https://github.com/xlang-ai/computer-agent-arena
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, windows
+- Topics: evaluation, human-in-the-loop
+- Evidence checked: 2026-10-20T07:42:02Z
+- ID: github:xlang-ai/computer-agent-arena
+
+### Limitations
+
+Platform code from the xlang-ai organization; the repository description and README name ICLR 2026. At the reviewed commit (the second of two) the tree holds the React/TypeScript frontend (dual-agent chat and evaluation panels, a bundled noVNC desktop viewer, trajectory player, ranking and Prolific pages), quick-setup presets for Chrome, LibreOffice and other apps, setup notes for OSWorld's in-VM server and for AWS, VMware and VirtualBox providers, backend/requirements.txt and backend/scripts/sessions_clean_filtered.csv. Although the README describes the full stack, the tree has no Python source: there is no backend/main.py, the server notes refer to main.py and pyxcursor.py files that are absent, and backend/agents is a git submodule pointing to xlang-ai/computer-agent-arena-hub, which the GitHub API did not return at review (404). The CSV has 2,010 verified two-agent sessions started between 2025-02-13 and 2025-05-15 (1,070 Windows, 940 Ubuntu; 653 distinct user IDs) with user-written task instructions, each agent's model and method, per-step feedback and the battle result (751 and 644 wins for the first and second agent, 615 ties). Agents in it are Claude 3.5 and 3.7 Sonnet computer use, OpenAI computer-use-preview, UI-TARS-1.5, a Qwen2.5-VL-72B agent, and GPT-4.1, GPT-4o, o3, o4-mini and Gemini models through a base agent. The frontend evaluation form asks for each agent's correctness (correct, partially correct, wrong) and a pairwise preference (A better, tie, B better, tie with both bad). The README shows an MIT badge and links a LICENSE file, but the tree has no root license file; its only license texts are those of the bundled noVNC viewer. Not a fork, not archived; no release. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-xlang-ai-computer-agent-arena/record.json
+
+### Structured profile
+
+- actions: agent-defined desktop actions
+- evaluation: After two agents attempt the same user task on separate virtual machines, the user rates each agent's correctness (correct, partially correct, wrong) and states a pairwise preference (A better, tie, B better, or tie with both bad); per-step feedback is also recorded. The README says the votes feed an ELO leaderboard; the backend that aggregates them is not in the repository.
+- focus: human pairwise preference between computer-use agents, open-ended user-written tasks
+- observations: live Ubuntu or Windows virtual machine desktop shown to the user through VNC, agent-defined observations of that desktop
+- setting: interactive
+
+#### Count observations
+
+- 2,010 verified two-agent battle sessions — backend/scripts/sessions_clean_filtered.csv (started 2025-02-13 to 2025-05-15) (computed) (computed; source: https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv)
+- 1,070 verified two-agent battle sessions — Windows sessions in the CSV (computed) (computed; source: https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv)
+- 940 verified two-agent battle sessions — Ubuntu sessions in the CSV (computed) (computed; source: https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv)
+- 615 verified two-agent battle sessions — sessions whose battle_result is tie (computed) (computed; source: https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv)
+
+Counts are rows of the released CSV, computed with Python's csv module; each row is one session with two agents and a distinct session ID. Agent observations and actions are defined by the agent implementations in the unreleased hub.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The README shows an MIT badge and links a LICENSE file, but the complete tree at the reviewed commit has no root license file; its only license texts belong to the bundled noVNC viewer under frontend/public/noVNC, so no grant is established for the repository's own code.
+  Sources: https://api.github.com/repos/xlang-ai/computer-agent-arena/git/trees/4536036e8d0a3de9a0de9829c09f4a5916f73013?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/HEAD/README.md (retrieved 2026-10-20T07:42:02Z; SHA-256 00d3174a9b3e8e3a330dc6cec3b054310f64ec469b6b34d41f1f46b4279a72a2)
+- https://api.github.com/repos/xlang-ai/computer-agent-arena/git/trees/4536036e8d0a3de9a0de9829c09f4a5916f73013?recursive=1 (retrieved 2026-10-20T04:30:07Z; SHA-256 1ee818ef657248aca717db0d900e681b9aa17fc4ec2ca8b3b7effe2da9dc2aca)
+- https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/README.md (retrieved 2026-10-20T04:30:09Z; SHA-256 00d3174a9b3e8e3a330dc6cec3b054310f64ec469b6b34d41f1f46b4279a72a2)
+- https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/.gitmodules (retrieved 2026-10-20T04:30:10Z; SHA-256 a972e48328679c1c89c08490e27b39c25ef7f138fc26122ad0d7f64283d1fb9a)
+- https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/desktop_env/server/README.md (retrieved 2026-10-20T04:30:10Z; SHA-256 af2b411ab7c09f148577223a71fb91dc82746b1928a82c6b6f91871b079b15b5)
+- https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/backend/scripts/sessions_clean_filtered.csv (retrieved 2026-10-20T04:30:10Z; SHA-256 f1c6dd44d44d45e31671174edb37aa0d02b28f84b2c494ae73caafdd64965dec)
+- https://raw.githubusercontent.com/xlang-ai/computer-agent-arena/4536036e8d0a3de9a0de9829c09f4a5916f73013/frontend/src/components/Arena/eval.tsx (retrieved 2026-10-20T04:30:11Z; SHA-256 6d4e406d0ff1d573480bd2bd864ef9b1326b11c6d671ee3690468b925201b8f1)
+
+---
+
 ## CRAB
 
 Cross-environment benchmark framework for multimodal agents.
@@ -2266,6 +2602,59 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## DynamicGUIBench
+
+Desktop benchmark of 500 OSWorld-style tasks whose interfaces change between observations through scripted pop-ups, timed edits and shifting lists, with bilingual instructions and end-state evaluators.
+
+- Catalog URL: https://awesomecua.com/resources/url-20fa95f00391bf965af2/
+- Original source: https://huggingface.co/datasets/L1007555652/osworld_env
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, state-tracking, robustness
+- Evidence checked: 2026-10-18T15:40:40Z
+- ID: url:20fa95f00391bf965af2
+
+### Limitations
+
+The Hub repository is named osworld_env; its card titles the release DynamicGUIBench. The manifest at revision 44adf69d holds 500 task JSON files under dynamic/ plus per-application asset folders and three stray .nfs files; it contains no agent code. The card states that its Qwen3-VL and UI-TARS results come from the original 150-task release and do not carry over to the 500-task expansion. Tasks run in a separately configured OSWorld environment. No data license is declared.
+
+- Record JSON: https://awesomecua.com/resources/url-20fa95f00391bf965af2/record.json
+
+### Structured profile
+
+- actions: desktop GUI actions through a separately configured agent
+- evaluation: Each task JSON names an OSWorld evaluator function with its expected result for an executable end-state check; a config_myself block launches applications and scripts the dynamic events during the run.
+- focus: desktop task completion when interface state changes between observations
+- observations: English and Chinese task instructions, live desktop application state
+- setting: interactive
+
+#### Count observations
+
+- 500 task JSON files — dynamic/ directory at Hub revision 44adf69d (computed) (computed; source: https://huggingface.co/api/datasets/L1007555652/osworld_env)
+- 150 tasks — original verified release before the 20 August 2026 expansion (reported; source: https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md)
+
+Computed per-folder task files: Chrome 75, GIMP 45, LibreOffice Calc 50, Impress 42, Writer 50, multi-app 66, OS 42, Thunderbird 44, VLC 38 and VS Code 48. The card groups tasks into interruptive UI states, ephemeral references, dynamic list selection and content-triggered interaction.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: Neither the dataset card nor the Hub metadata declares a license for the task files or assets.
+  Sources: https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/README.md (retrieved 2026-10-18T15:40:40Z; SHA-256 8492eacf5283bbb02e54c8f4f340bbfebee6539f49f8933743ac310abdf418e0)
+- https://huggingface.co/api/datasets/L1007555652/osworld_env (retrieved 2026-10-18T15:40:40Z; SHA-256 2f568cf0a9b4a7691097809c10f8455372841d6f09421287e4380b1b3de8e3e0)
+- https://huggingface.co/datasets/L1007555652/osworld_env/raw/44adf69d36a9bd27fbf2173fa619eb0ee92da095/dynamic/chrome/chrome_addcart.json (retrieved 2026-10-18T15:40:41Z; SHA-256 64334a72b6d5a9e2cf3a04650db9cd4a73fd36919648853ae266fcc88d60bd0b)
+
+---
+
 ## Effectprint
 
 Deterministic behavioral contract auditing suite for verifying side effects of WebMCP browser-agent tools.
@@ -2791,6 +3180,169 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## GroundUI-18K
+
+AgentStudio's full GUI grounding test set: 18,026 instruction and target-box examples on web, desktop and mobile screenshots, pooled from Mind2Web, OmniACT, MoTIF, ScreenSpot and AgentStudio.
+
+- Catalog URL: https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/
+- Original source: https://huggingface.co/datasets/agent-studio/GroundUI-18K
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop, cross-platform
+- Topics: grounding, evaluation
+- Evidence checked: 2026-10-18T16:19:41Z
+- ID: url:d206aacf01e1b7dc786d
+
+### Limitations
+
+The card calls this the full GroundUI-18K of AgentStudio and a test set not to be used for training, although the single Hub split is named train. One split in 19 Parquet shards carries image, image_path, instruction, bbox, resolution, source and platform fields. Platform and source tallies come from the Hugging Face dataset-viewer statistics, not a download. Source labels are three Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. The AgentStudio evaluation README says GroundUI-18K was recaptioned with CogVLM2, while the card does not say which instruction version is published. MIT is the dataset-card declaration; screenshots drawn from upstream datasets keep their own terms.
+
+- Record JSON: https://awesomecua.com/resources/url-d206aacf01e1b7dc786d/record.json
+
+### Structured profile
+
+- actions: click coordinate
+- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.
+- focus: instruction-conditioned GUI element grounding
+- observations: screenshots, natural-language instructions
+- setting: offline
+
+#### Count observations
+
+- 18,026 examples — Hub split at revision f061eba2 (named train, described as a test set) (reported; source: https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md)
+- 11,593 examples — platform label web (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train)
+- 2,476 examples — platform label desktop (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train)
+- 3,957 examples — platform label mobile (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train)
+
+Source-label tallies from the same statistics: mind2web_test_domain 5,817, mind2web_test_task 2,080, mind2web_test_website 1,371, omniact 3,804, motif 3,455, screenspot 1,272 and agent_studio 227. A 1,000-example subset was sampled from this set for efficient benchmarking and is published as a separate Hub repository; it is not counted here.
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md (retrieved 2026-10-18T16:19:41Z; SHA-256 8903b306da4517a3ba90998759883bb0af2995410eff9349c36c8143073a9290)
+- https://huggingface.co/api/datasets/agent-studio/GroundUI-18K/revision/f061eba2b7e3fffcf511694f15ad3ca38898ab9e (retrieved 2026-10-18T16:19:44Z; SHA-256 54436ec8e82156648f4e04e4a1b6830a73c6de30245a7304bdc0ce92b5153724)
+- https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-18K&config=default&split=train (retrieved 2026-10-18T16:19:45Z; SHA-256 5e9ee49bba2b05f26330bd61168e2aabbea1ccf45d26538b440db8fcd3818e46)
+- https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/README.md (retrieved 2026-10-18T16:19:45Z; SHA-256 1f2b513c700b31a1bacd023a54c6d4cadac9e02092e526d42c32103cb476c359)
+- https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/eval_gui_grounding.py (retrieved 2026-10-18T16:19:45Z; SHA-256 d503891371a62b6d8532667aea53f40c8691a2c3daaab5ea5a33ebce80eb83c8)
+- https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/README.md (retrieved 2026-10-18T16:19:47Z; SHA-256 996f153a3a281dd5167bdea1d32bc12027386a42114dd23e78bfa23daaeb6cf8)
+- https://huggingface.co/datasets/agent-studio/GroundUI-18K/raw/f061eba2b7e3fffcf511694f15ad3ca38898ab9e/README.md (retrieved 2026-10-18T16:19:41Z; SHA-256 8903b306da4517a3ba90998759883bb0af2995410eff9349c36c8143073a9290)
+
+---
+
+## GroundUI-1K
+
+AgentStudio's 1,000-example GUI grounding test set, sampled from GroundUI-18K: web, desktop and mobile screenshots with GPT-4o-recaptioned instructions and target bounding boxes.
+
+- Catalog URL: https://awesomecua.com/resources/url-d86f55753bfea45fe313/
+- Original source: https://huggingface.co/datasets/agent-studio/GroundUI-1K
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop, cross-platform
+- Topics: grounding, evaluation
+- Evidence checked: 2026-10-18T16:08:23Z
+- ID: url:d86f55753bfea45fe313
+
+### Limitations
+
+The card calls this a test set and asks that it not be used for training, although the Hub split is named train. One Parquet split in two shards carries image, instruction, raw_instruction, bbox, resolution, source and platform fields; platform and source tallies come from the Hugging Face dataset-viewer statistics, not a download. Source labels name Mind2Web test subsets, OmniACT, MoTIF, ScreenSpot and AgentStudio screens; mobile rows name no operating system. MIT is the dataset-card declaration, and screenshots drawn from upstream datasets keep their own terms.
+
+- Record JSON: https://awesomecua.com/resources/url-d86f55753bfea45fe313/record.json
+
+### Structured profile
+
+- actions: click coordinate
+- evaluation: The AgentStudio evaluator scores a predicted click 1 when it falls strictly inside the annotated bounding box and 0 otherwise; grounding accuracy is not task success.
+- focus: instruction-conditioned GUI element grounding
+- observations: screenshots, natural-language instructions
+- setting: offline
+
+#### Count observations
+
+- 1,000 examples — Hub split at revision 5d18efc3 (named train, described as a test set) (reported; source: https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md)
+- 400 examples — platform label web (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train)
+- 300 examples — platform label desktop (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train)
+- 300 examples — platform label mobile (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train)
+
+Subset of GroundUI-18K sampled for efficient benchmarking; the larger set is a separate Hub repository and is not counted here. Instructions were recaptioned with GPT-4o; raw_instruction keeps the source wording.
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md (retrieved 2026-10-18T16:08:23Z; SHA-256 d1072a12c9cbcb48e73434620b62e39a8857bdb1d598fc2f64396b8523ec6e4c)
+- https://huggingface.co/api/datasets/agent-studio/GroundUI-1K/revision/5d18efc3085902648b7031bf747a1090356a1b17 (retrieved 2026-10-18T16:07:58Z; SHA-256 652082bd5c0e35322611a1c97a9291f061598ec7930b998ea4b437d3d56fd1f0)
+- https://datasets-server.huggingface.co/statistics?dataset=agent-studio/GroundUI-1K&config=default&split=train (retrieved 2026-10-18T16:07:17Z; SHA-256 afd9a96bdb3d2a6575c9b738ed709fad9ba41523bd82ee7714d6ffd54e22665a)
+- https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/README.md (retrieved 2026-10-18T16:07:58Z; SHA-256 1f2b513c700b31a1bacd023a54c6d4cadac9e02092e526d42c32103cb476c359)
+- https://raw.githubusercontent.com/ltzheng/agent-studio/39959e230fecd6651e5700936432861ca7ef7016/eval_agent_desiderata/eval_gui_grounding.py (retrieved 2026-10-18T16:07:58Z; SHA-256 d503891371a62b6d8532667aea53f40c8691a2c3daaab5ea5a33ebce80eb83c8)
+- https://huggingface.co/datasets/agent-studio/GroundUI-1K/raw/5d18efc3085902648b7031bf747a1090356a1b17/README.md (retrieved 2026-10-18T16:08:23Z; SHA-256 d1072a12c9cbcb48e73434620b62e39a8857bdb1d598fc2f64396b8523ec6e4c)
+
+---
+
+## GUI-Perturbed
+
+Step-level web grounding benchmark that re-renders Mind2Web pages with style, zoom and text-size perturbations and pairs each screenshot with a direct or relational instruction and a target box.
+
+- Catalog URL: https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/
+- Original source: https://huggingface.co/datasets/figai/GUI-Perturbed
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: grounding, evaluation, robustness
+- Evidence checked: 2026-10-18T15:59:36Z
+- ID: url:7ed70b39ac79f97f8a87
+
+### Limitations
+
+The card YAML at revision 727c857b lists one eval split of 3,120 examples in four Parquet shards, with screenshot, instruction, gt_bbox, visual_variant, instruction_type, task_id and step_index fields. Hugging Face dataset-viewer statistics show 780 rows for each of four visual variants (labelled original, style, precision and text_shrink; the card calls the first one baseline) and 1,560 rows for each of the direct and relational instruction types, so the card's per-variant sample size of 390 covers one instruction type. The card states that the set is for evaluation, not training, and that the pages come from Mind2Web MHTML archives. eval.yaml names point-in-bbox accuracy. The card declares CC BY 4.0 for the dataset. The linked generation code repository was not inspected, and no rows were downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/record.json
+
+### Structured profile
+
+- actions: predicted target location
+- evaluation: eval.yaml specifies point-in-bbox accuracy against the annotated target box; results can be split by visual variant and instruction type. Grounding accuracy does not measure end-to-end task success.
+- focus: step-level web GUI element localization, robustness to visual and instruction perturbations
+- observations: rendered web-page screenshots, natural-language instructions
+- setting: offline
+
+#### Count observations
+
+- 3,120 examples — eval split at revision 727c857b (reported; source: https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md)
+- 283 distinct Mind2Web task IDs — eval split (computed) (computed; source: https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval)
+
+Each example is one screenshot, instruction and target box; four visual variants are crossed with two instruction types. Examples, source tasks and visual variants are different units.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md (retrieved 2026-10-18T15:59:36Z; SHA-256 6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e)
+- https://huggingface.co/api/datasets/figai/GUI-Perturbed/revision/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7 (retrieved 2026-10-18T15:59:07Z; SHA-256 55c9358d6269d88f6f2eebc5f74c463096bd417434092bbcfef3b9774b179c23)
+- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/eval.yaml (retrieved 2026-10-18T15:59:07Z; SHA-256 119930290bb21bcceb3f3a2b22d4f738ce5d0eb4531652cb7e7ad0dde348e30a)
+- https://datasets-server.huggingface.co/statistics?dataset=figai/GUI-Perturbed&config=default&split=eval (retrieved 2026-10-18T15:59:07Z; SHA-256 5a23805cf7a6122abf01288f46139bb3c7890306678ec0280e9e6d488adb5908)
+- https://huggingface.co/datasets/figai/GUI-Perturbed/raw/727c857bcf7cf3b4077773aefd6e3ab8295c0ed7/README.md (retrieved 2026-10-18T15:59:36Z; SHA-256 6105d4c240dd71a698fe63b501aa74c2c2478455dbbd03313abb7ccc81ce237e)
+
+---
+
 ## GUI-Robust
 
 Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.
@@ -2821,6 +3373,178 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/chessbean1/GUI-Robust/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 93defc2b31d0f8e6144e77cda4a74abeafd5253ae18a626bfc625f429050770a)
+
+---
+
+## GuideBench
+
+Released data for the GUIDE benchmark: annotated segments of narrated novice screen recordings in 10 applications, for predicting user behavior state, short-term intent and whether and how to help.
+
+- Catalog URL: https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/
+- Original source: https://huggingface.co/datasets/kixlab/GuideBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, human-in-the-loop, video, screen-understanding
+- Evidence checked: 2026-10-19T06:04:35Z
+- ID: url:37b4f525e6d7a56a9967
+
+### Limitations
+
+Formerly published as saelyne/GuideBench; the Hub API redirects that name to this repository with the same object ID. Access is gated with automatic approval. The Hub manifest at revision 783caa86 holds three annotation JSON files (one per task), 40 task-description Markdown files, 120 think-aloud transcription JSON files and two CSV files under videos/; no video files are hosted in the repository. The project page lists Photoshop, GIMP, Figma, Canva, PowerPoint, Google Slides, Premiere Pro, CapCut, Google Sheets and Excel without naming operating systems; the environment facets follow from those applications. Models are evaluated on video snippets without the narrations. CC-BY-4.0 is the Hub data declaration; annotation files were not downloaded and scores were not reproduced.
+
+- Record JSON: https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/record.json
+
+### Structured profile
+
+- actions: not recorded
+- evaluation: Accuracy on 9-way behavior-state classification, 4-way multiple-choice intent prediction, and help prediction split into a binary help-need decision and a 4-way multiple-choice help-content question.
+- focus: user behavior state detection, short-term intent prediction, help need and help content prediction
+- observations: screen-recording video segments
+- setting: offline
+
+#### Count observations
+
+- 120 demonstrations — GUIDE screen recordings (reported; source: https://guide-bench.github.io)
+- 67.5 hours of screen recordings — GUIDE screen recordings (reported; source: https://guide-bench.github.io)
+- 54 novice users — GUIDE participants (reported; source: https://guide-bench.github.io)
+- 10 applications — GUIDE software coverage (reported; source: https://guide-bench.github.io)
+- 40 open-ended tasks — GUIDE task design (reported; source: https://guide-bench.github.io)
+- 120 transcription files — Hub manifest at revision 783caa86 (transcriptions/) (computed) (computed; source: https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1)
+- 40 task-description files — Hub manifest at revision 783caa86 (tasks/) (computed) (computed; source: https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1)
+
+Demonstration, hour, user, application and task counts are the project page's figures; file counts come from the Hub manifest. Segment counts per task were not computed because the annotation files sit behind the access gate.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/kixlab/GuideBench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1 (retrieved 2026-10-19T06:04:35Z; SHA-256 d1e2fedc00dbf1c9531cd5cc676f900f149690a2e08655f8d93c56d5abd8d389)
+- https://guide-bench.github.io (retrieved 2026-10-19T06:04:26Z; SHA-256 0a3441b26d204655fe737e7b3738a61ebb8c67fd0977e26042cad59f24352c14)
+- https://huggingface.co/api/datasets/kixlab/GuideBench/revision/783caa868dc3a929ef99702731a1e0b27add48f1 (retrieved 2026-10-19T06:04:35Z; SHA-256 d1e2fedc00dbf1c9531cd5cc676f900f149690a2e08655f8d93c56d5abd8d389)
+- https://huggingface.co/api/datasets/saelyne/GuideBench (retrieved 2026-10-19T06:03:50Z; SHA-256 d1e2fedc00dbf1c9531cd5cc676f900f149690a2e08655f8d93c56d5abd8d389)
+- https://huggingface.co/api/datasets/kixlab/GuideBench (retrieved 2026-10-19T06:03:50Z; SHA-256 d1e2fedc00dbf1c9531cd5cc676f900f149690a2e08655f8d93c56d5abd8d389)
+
+---
+
+## GUIGuard-Bench evaluation code
+
+Evaluation code for GUIGuard-Bench: privacy-region recognition scoring, LLM-judged planning consistency on masked screenshots and click grounding under protection, with a small Android and PC example subset.
+
+- Catalog URL: https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/
+- Original source: https://github.com/shaluoyan523/GUIGuard-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android, desktop
+- Topics: safety-security, evaluation, grounding
+- Evidence checked: 2026-10-18T15:56:30Z
+- ID: github:shaluoyan523/guiguard-bench
+
+### Limitations
+
+The README is an anonymous-review version without authors or a citation; the paper link comes from the GUIGuard project page, which links this repository as the paper's code. The full benchmark data is hosted separately on the Hugging Face Hub; this repository ships only dataset_example/ for smoke tests. The README and croissant.json describe that dataset as MIT, while the Hub dataset card at revision c2b5ca41 declares CC-BY-NC-4.0, so no data license is recorded here. The repository has no LICENSE file and the GitHub API reports no license. Nothing was run.
+
+- Record JSON: https://awesomecua.com/resources/github-shaluoyan523-guiguard-bench/record.json
+
+### Structured profile
+
+- actions: predicted privacy regions with labels, generated next-action plans, predicted click points
+- evaluation: privacy_recognition scores region-level privacy predictions against the labels (IoU-only or paper-style scoring); planner_eval has an LLM judge rate step-level semantic consistency between plans from original and protected trajectories on a 0-4 scale; grounding_eval counts a click as correct when the predicted point falls inside the target box.
+- focus: privacy-region recognition on GUI screenshots, planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
+- observations: recorded trajectory screenshots, task instructions, next-action plans
+- setting: offline
+
+#### Count observations
+
+- 34 Android task directories — dataset_example/Android at commit 542a902a, of which 33 are complete trajectories (reported; source: https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md)
+- 26 PC trajectories — dataset_example/PC at commit 542a902a (reported; source: https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md)
+- 290 next-action grounding samples — dataset_example/grounding_data/manifest.jsonl at commit 542a902a (computed) (computed; source: https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl)
+
+Counts describe dataset_example/, the repository's review subset for smoke tests, not the benchmark; the README says benchmark numbers need the full Hub dataset. A script over the repository tree at this commit found the same 34 Android directories (task 62 lacks traj.jsonl and task_result.json) and 26 PC directories, and 290 images in each of the original, black-mask and LLM-replacement variants. Directories, trajectories and samples are different units and are not summed.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The README's License section covers only the dataset, the repository tree at 542a902a has no LICENSE file, and the GitHub API reports no license; no code license is established.
+  Sources: https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/README.md (retrieved 2026-10-18T15:56:30Z; SHA-256 f7961f6d3f6809f6ae61bf5b679d03595b79c64a15a2687dfccdb1b5a89e065b)
+- https://futuresis.github.io/GUIGuard-page/ (retrieved 2026-10-18T15:54:36Z; SHA-256 14fe15c990481087ad504f631dc94d777736373f56344a0746cd77320c3db3b5)
+- https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/dataset_example/grounding_data/manifest.jsonl (retrieved 2026-10-18T15:55:25Z; SHA-256 0cd6681a25d989ec0e925c75d3ea06807e1738d3a853c824de473cec0476b23f)
+- https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/grounding_eval/grounding_eval/metrics.py (retrieved 2026-10-18T15:55:25Z; SHA-256 5f173b67f64d4aad028253e821f4cd1afbf682cf84dc0a2bbe75feb1e0141302)
+- https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/planner_eval/planner_eval/judges/graders/semantic_consistency.py (retrieved 2026-10-18T15:55:26Z; SHA-256 8ee9842717668cb38c400ac41c8a8e1a5c63c26849150715c9b1f8f54512aa25)
+- https://raw.githubusercontent.com/shaluoyan523/GUIGuard-Bench/542a902a451592e15ab287414c396aff14fb0d4d/croissant.json (retrieved 2026-10-18T15:54:38Z; SHA-256 b0b84ad6af5b79da3caada0bb559f9022c546e5df03f56a4f6abe45a1958153e)
+- https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md (retrieved 2026-10-18T15:56:05Z; SHA-256 81a85cdefb48b37f9869eaa61832d9d97f288cbd443be74e07d779f7948ae229)
+
+---
+
+## GUIGuard-Bench public-ladder release
+
+Public-ladder release of GUIGuard-Bench: 121 Android and Linux desktop agent trajectories whose 2,002 screenshots carry region-level privacy labels, for privacy recognition, protected-screen planning and click grounding.
+
+- Catalog URL: https://awesomecua.com/resources/url-61860953a680776ffe53/
+- Original source: https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android, desktop, linux
+- Topics: safety-security, evaluation, grounding, screen-understanding
+- Evidence checked: 2026-10-18T15:37:19Z
+- ID: url:61860953a680776ffe53
+
+### Limitations
+
+This Hub repository is the public-ladder subset: the paper and project page describe 241 trajectories with 4,080 screenshots, while this card's evaluation set has 121. The reference_virtual_android and reference_virtual_pc folders (emulated Android and Windows trajectories without privacy labels) are reference-only and not part of the evaluation. The card is an anonymous-review version without a citation; the paper link comes from the project page that the paper's abstract links. Screenshots contain personal information, and the card limits use to research.
+
+- Record JSON: https://awesomecua.com/resources/url-61860953a680776ffe53/record.json
+
+### Structured profile
+
+- actions: recorded Android atomic actions, recorded PC pyautogui actions, click coordinates for grounding
+- evaluation: Region-level privacy labels (risk level, category, task essentiality, boxes) support recognition scoring; planning is compared before and after protection methods (black mask, mosaic, random blocks, LLM text replacement); grounding follows a ScreenSpot-style click check. The card does not ship a scorer; it points to an anonymized toolkit.
+- focus: privacy-risk recognition in GUI agent screenshots, agent planning fidelity on privacy-protected screenshots, click grounding under visual privacy protection
+- observations: recorded trajectory screenshots, task goals, plan and progress text
+- setting: offline
+
+#### Count observations
+
+- 121 evaluation trajectories — public-ladder evaluation set (68 Android + 53 PC) (reported; source: https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md)
+- 2,002 screenshots (evaluation samples) — public-ladder evaluation set, data/eval.jsonl (reported; source: https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md)
+- 26,407 region-level privacy annotations — public-ladder evaluation set (reported; source: https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md)
+- 68 Android task directories — Android/ at revision c2b5ca41 (computed) (computed; source: https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920)
+- 53 PC task directories — PC/ at revision c2b5ca41 (computed) (computed; source: https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920)
+
+Trajectories, screenshots and annotations are different units and are not summed. The manifest also lists 1,239 Android and 763 PC images, which together match the 2,002 samples. A script over data/eval.jsonl at this revision (11 MB, read once, not retained) found 2,002 rows from 121 task folders, 26,407 privacy labels and 1,949 labelled rows, matching the card. Reference-only folders hold 238 and 150 top-level directories; they are excluded from these counts.
+
+### License declarations
+
+- code: not recorded
+- data: CC-BY-NC-4.0 — https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: Publisher dataset-card declaration for this release; it does not establish rights to the applications, websites and personal content shown in the screenshots.
+  Sources: https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md (retrieved 2026-10-18T15:37:19Z; SHA-256 81a85cdefb48b37f9869eaa61832d9d97f288cbd443be74e07d779f7948ae229)
+- https://huggingface.co/api/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/revision/c2b5ca415cd854452585260b9eaa74699042d920 (retrieved 2026-10-18T15:37:19Z; SHA-256 788d251b561c0dfda4b5c6e643c2af0cc683ef8978759e6fa392db2e9548096b)
+- https://raw.githubusercontent.com/Futuresis/GUIGuard-page/df9c709058d7e39d1f9286edd33c9f645aa60b55/index.html (retrieved 2026-10-18T15:37:19Z; SHA-256 14fe15c990481087ad504f631dc94d777736373f56344a0746cd77320c3db3b5)
+- https://huggingface.co/datasets/ShaofantuoshuzhengzhiSha/GUIGuard-Bench/raw/c2b5ca415cd854452585260b9eaa74699042d920/README.md (retrieved 2026-10-18T15:37:19Z; SHA-256 81a85cdefb48b37f9869eaa61832d9d97f288cbd443be74e07d779f7948ae229)
 
 ---
 
@@ -2874,6 +3598,124 @@ Each annotation entry represents a page, not one UI element. README’s illustra
 - https://api.github.com/repos/ant-research/GUIHalluBench/git/trees/master?recursive=1 (retrieved 2026-10-17T14:14:07Z; SHA-256 c0896bc90d515b7bd8fe86b062aeb199bd47570e6eca8474986f5b1ef1d98dbd)
 - https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/LEGAL.md (retrieved 2026-10-17T14:21:09Z; SHA-256 adba50d9794b9ef3f7ec8cbc680f7f1fa3fbf9df0ac8d1f9b9ccab6d941bc11b)
 - https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/.gitattributes (retrieved 2026-10-17T14:34:56Z; SHA-256 8f35fa75be42a7a53e4f96de1b62be84962d2cf1beb8b23dfcfaecfaea4a6b90)
+
+---
+
+## Gym-Anything
+
+Runtime and CUA-World task suite that turn real applications on Ubuntu, Windows 11, Android and macOS into screen-observing, mouse-and-keyboard agent environments with setup scripts and program verifiers.
+
+- Catalog URL: https://awesomecua.com/resources/github-cmu-l3-gym-anything/
+- Original source: https://github.com/cmu-l3/gym-anything
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, windows, macos, android
+- Topics: evaluation, sandbox, long-horizon
+- Evidence checked: 2026-10-19T06:44:15Z
+- ID: github:cmu-l3/gym-anything
+
+### Limitations
+
+Official code of the Gym-Anything paper. The README describes three parts that can be used separately: the core runtime (src/gym_anything), the CUA-World benchmark (benchmarks/cua_world) and reference agents for Claude, Gemini, Qwen, Kimi and other models. The inspected environment configs (Moodle, Power BI Desktop, an Android AVD calculator and macOS Finder) declare screen observations with mouse and keyboard actions on Ubuntu GNOME, Windows 11, Android AVD 34 and macOS bases; the Finder config also exposes a UI tree, and macOS environments sit in a separate benchmarks/cua_world-macos suite. A task such as moodle_env/enroll_student pairs setup and export hooks with a verifier.py program check and a VLM checklist file. extras/research/software_as_env/creation_audit implements the paper's environment creation-and-audit pipeline, driven by Claude Code by default or Codex CLI. Runners (Docker, Apptainer, QEMU, AVD, AVF, Modal, local and Sandweave) differ in caching, snapshot and recording support. Code was read, not run; paper results were not reproduced.
+
+- Record JSON: https://awesomecua.com/resources/github-cmu-l3-gym-anything/record.json
+
+### Structured profile
+
+- actions: mouse, keyboard
+- evaluation: Each task's task.json names a program check (verifier.py) that runs after the episode, with pre-task setup and post-task export hooks; task folders also carry a VLM checklist file.
+- focus: long-horizon computer use in professional and enterprise software, conversion of arbitrary applications into agent environments
+- observations: screen frames, UI tree (some macOS environments)
+- setting: interactive
+
+#### Count observations
+
+- 200 software applications — applications processed into CUA-World (paper v1 abstract) (reported; source: https://arxiv.org/abs/2604.06126v1)
+- > 10,000 long-horizon tasks — CUA-World (paper v1 abstract) (reported; source: https://arxiv.org/abs/2604.06126v1)
+- 7,150 tasks — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967 (computed) (computed; source: https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json)
+- 191 environments — verified split manifest benchmarks/cua_world/splits/verified.json at 4a8d967 (computed) (computed; source: https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json)
+
+The paper's application and task totals and the repository's verified manifest are different populations and are not reconciled. Per-environment split files list train and test tasks, but several cover variant folders of one application, so their entries are not summed. Paper-reported results, including CUA-World-Long, were not reproduced.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/README.md (retrieved 2026-10-19T06:44:15Z; SHA-256 11821d717f09b17762937661eed9a2bcb80606ca765de1381f9047fe8c58cf9a)
+- https://api.github.com/repos/cmu-l3/gym-anything/git/trees/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca (retrieved 2026-10-19T06:44:16Z; SHA-256 fb2aa984e243b90058d62435ade2aa2ad9e5a3729df6f293e1c9a536f9749f45)
+- https://api.github.com/repos/cmu-l3/gym-anything/git/commits/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca (retrieved 2026-10-19T06:44:17Z; SHA-256 cd7d25da944d9deaf995e320d2c0b4752c194557b4fc53da8473c3afee4ec511)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/splits/verified.json (retrieved 2026-10-19T06:44:17Z; SHA-256 727c6beaff1de5f36bea959037e7346453fb5d40b4817529fa31566acc7fbb04)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 ab0398ca5df1d7e8b41357f2a1966c3576f8d2bdd4c6c81db3249a51826a5d9b)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/moodle_env/tasks/enroll_student/task.json (retrieved 2026-10-19T06:44:17Z; SHA-256 0d6b81e193cc3a15269c1eb580b91f88c72e607173b21427f7f3ee13b67b9047)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/power_bi_desktop_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 f32ac8bb3b99e4ea9550994ac18700066138a2aaa3f835c3e30cce38ca2e6c1b)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world/environments/android_avd_calculator_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 d1aabfba25b6f586c3054a64bbd3e013b95ff4d012ffea3c2432bb4895e11660)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/benchmarks/cua_world-macos/environments/finder_env/env.json (retrieved 2026-10-19T06:44:17Z; SHA-256 85f6d078b5b9228bc1aa17b3f73ec3852db0a01a878979112ad2fc10bfedae8f)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/core/runners.mdx (retrieved 2026-10-19T06:44:17Z; SHA-256 0756ebcad68e10d820ce586d3b058a65e054f98d7f8540de5e80914e13620635)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/docs/content/docs/extras/creation-audit.mdx (retrieved 2026-10-19T06:44:57Z; SHA-256 201cb50510bf7b7c9f56bdbffb43f75baa1fc1cf24edce4c39f66ddd34461a37)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/4a8d9672d92d8ff2daef232c4bf9c49d3ac4f2ca/LICENSE (retrieved 2026-10-19T06:44:18Z; SHA-256 d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614)
+- https://arxiv.org/abs/2604.06126v1 (retrieved 2026-10-19T06:44:18Z; SHA-256 89fe4dad54d6ef84e001d5b7c46375946223e1a3bf6a041ca2925a883e9a767a)
+- https://raw.githubusercontent.com/cmu-l3/gym-anything/HEAD/LICENSE (retrieved 2026-10-19T06:45:58Z; SHA-256 d289e0e1ddfe766ba384068d7cf83848aaf07470f6482711c57ce12763072614)
+
+---
+
+## HarnessBench
+
+Benchmark harness that holds the base model fixed and runs six browser-agent harnesses in per-harness containers on ClawBench's everyday online tasks, reusing ClawBench's recording and judging pipeline.
+
+- Catalog URL: https://awesomecua.com/resources/github-reacher-z-harnessbench/
+- Original source: https://github.com/reacher-z/HarnessBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-10-18T16:03:11Z
+- ID: github:reacher-z/harnessbench
+
+### Limitations
+
+Sister project of ClawBench. The repository holds the harness-bench CLI (harness x model x task matrix expansion with credential gating, run, batch and a leaderboard renderer over ClawBench result summaries), six harness adapters (openclaw, hermes, claw-code, browser-use, stagehand, coze-studio), each a Dockerfile, setup script and run script built on the clawbench-base image, and a one-task smoke fixture. The tasks, the five-layer recording and the judge belong to ClawBench and are not in this repository; the run and batch commands call clawbench.run_case, which the code says needs clawbench-eval 0.2.0 or later. At the inspected commit the README's fixtures/lite.txt 20-task subset is absent from the tree, the browser-use run script calls a run-browser-use.py that neither the tree nor its Dockerfile supplies, and the leaderboard and demo videos are placeholders. stagehand and coze-studio need BrowserBase or Coze credentials. Not a fork, not archived. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-reacher-z-harnessbench/record.json
+
+### Structured profile
+
+- actions: harness-specific browser actions
+- evaluation: Inherited from ClawBench per the README: five-layer session recordings judged by DOM matching and an LLM judge against human reference runs; the leaderboard partitions pass rates by harness, model and category.
+- focus: comparison of agent harnesses with the base model held fixed, everyday online tasks in a real browser
+- observations: harness-specific (each adapter drives Chrome its own way, for example over CDP or Playwright)
+- setting: interactive
+
+#### Count observations
+
+- 153 tasks — ClawBench shared task pool (not stored in this repository) (reported; source: https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md)
+- 6 harness adapters — clawbench.harnesses entry points registered in pyproject.toml (computed) (computed; source: https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml)
+
+Task definitions and judge prompts live in ClawBench. Cloud harnesses without credentials are reported as skipped, not scored as zero. No results were published at the inspected commit.
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/README.md (retrieved 2026-10-18T16:03:11Z; SHA-256 1c334914871f8ac362cf7e21033e0699e36e9da0fd4fe82b1a747ce9b223cf31)
+- https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/pyproject.toml (retrieved 2026-10-18T16:02:39Z; SHA-256 fd80d793c455e5c13e8cd455e5a686c036af60ec5c56731b411aa68a60b783f1)
+- https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/src/harnessbench/matrix.py (retrieved 2026-10-18T16:02:43Z; SHA-256 5c5dc2cb4e363ca2fe1de37982f353b11034f1d65131233047d2a63f0629e4fe)
+- https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/src/harnessbench/cli.py (retrieved 2026-10-18T16:02:44Z; SHA-256 2b2b3340d03783ba77adc06dbe97df441f58230aeff68ef73f05bd631c658a1c)
+- https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/src/harnessbench/harnesses/browser_use/run.sh (retrieved 2026-10-18T16:02:45Z; SHA-256 781e8b621ad7ef5e214ae9ea2db825a5168c1c3ce42c0ffa45cef481379d0989)
+- https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/src/harnessbench/harnesses/browser_use/Dockerfile (retrieved 2026-10-18T16:02:45Z; SHA-256 9520987e628abd8544c45e3a6444893fe7b690daf676dedd247e731cc85f7b00)
+- https://raw.githubusercontent.com/reacher-z/HarnessBench/d7ff1255d623177b10b59f858a95f48b7bd070e5/docs/harness-comparison.md (retrieved 2026-10-18T16:02:46Z; SHA-256 679b94aab37bd6b0a0daff0a999bd4431b06773a2c1942ab4c34372c3013059a)
+- https://raw.githubusercontent.com/reacher-z/HarnessBench/HEAD/LICENSE (retrieved 2026-10-18T16:03:20Z; SHA-256 cb861e529412e9eec01498bdf4b74c5ee4f29139737a1193e39b24004019e606)
 
 ---
 
@@ -3330,6 +4172,69 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## LearnGUI
+
+Mobile GUI benchmark for learning from demonstrations: 2,252 offline tasks and 101 online tasks with human step-by-step trajectories, each query paired with one to three similar support demonstrations.
+
+- Catalog URL: https://awesomecua.com/resources/url-a7beaa489fc4ffeb555f/
+- Original source: https://huggingface.co/datasets/lgy0404/LearnGUI
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, mobile-navigation, imitation-learning
+- Evidence checked: 2026-10-18T16:00:11Z
+- ID: url:a7beaa489fc4ffeb555f
+
+### Limitations
+
+The Hub repository holds data only: multi-part offline screenshot archives, element and instruction annotations, k-shot pairings in task_split.json (the card's tree spells it task_spilit.json), and 101 online task folders with screenshots, UI XML files, operation logs and one screen recording each. Offline-Train (2,001 tasks) doubles as a training split. The card names no mobile operating system. Inference and evaluation code is in the separately cataloged LearnAct repository (github:lgy0404/learnact). The card declares Apache-2.0 for the dataset.
+
+- Record JSON: https://awesomecua.com/resources/url-a7beaa489fc4ffeb555f/record.json
+
+### Structured profile
+
+- actions: mobile GUI actions such as CLICK[x,y] and SWIPE[direction]
+- evaluation: The card describes offline evaluation against ground-truth step actions and online evaluation on 101 interactive tasks; no evaluator ships in this dataset repository, and none was run.
+- focus: demonstration-conditioned mobile GUI task execution, k-shot (k = 1, 2, 3) support demonstrations with instruction, UI and action similarity scores
+- observations: step screenshots, high-level and low-level instructions, UI element annotations, support demonstrations
+- setting: mixed
+
+#### Count observations
+
+- 2,353 tasks — LearnGUI offline and online tasks combined (reported; source: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md)
+- 2,252 tasks — LearnGUI-Offline (reported; source: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md)
+- 101 tasks — LearnGUI-Online (reported; source: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md)
+- 2,001 tasks — Offline-Train split (reported; source: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md)
+- 251 tasks — Offline-Test split (reported; source: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md)
+- 26,184 step actions — Offline-Train split (reported; source: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md)
+- 3,469 step actions — Offline-Test split (reported; source: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md)
+- 1,423 step actions — Online-Test split (reported; source: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md)
+- 73 applications — LearnGUI offline and online tasks combined (reported; source: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md)
+- 101 task instruction files — online/low_level_instructions at the inspected revision (computed) (computed; source: https://huggingface.co/api/datasets/lgy0404/LearnGUI)
+- 101 screen recordings — online/raw_data at the inspected revision (computed) (computed; source: https://huggingface.co/api/datasets/lgy0404/LearnGUI)
+
+Task, step-action, application and file counts are different units and are not summed. Each k-shot table row reuses the same split tasks with a different number of support demonstrations, so the 1-, 2- and 3-shot rows are not additional tasks.
+
+### License declarations
+
+- code: not recorded
+- data: Apache-2.0 — https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: Publisher dataset-card declaration for the LearnGUI release; the LearnAct code repository and app content shown in screenshots are not covered by this evidence.
+  Sources: https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md (retrieved 2026-10-18T16:00:11Z; SHA-256 a7c0fae7a067f7b4704170c73589dae43e4df541a80c5f00d0a98f79bb1e7e7c)
+- https://huggingface.co/api/datasets/lgy0404/LearnGUI (retrieved 2026-10-18T16:00:11Z; SHA-256 19300276c328762286e677eed624bc169c189cafa48571244e791008bf576c50)
+- https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/online/low_level_instructions/AudioRecorderRecordAudio.json (retrieved 2026-10-18T16:00:11Z; SHA-256 d5b3c31b62e08bce07270e0f99d0c8608b68f64848251329e725384825b68b5d)
+- https://huggingface.co/datasets/lgy0404/LearnGUI/raw/972aec743f23076855964e867bd93d7aacbac72e/README.md (retrieved 2026-10-18T16:00:11Z; SHA-256 a7c0fae7a067f7b4704170c73589dae43e4df541a80c5f00d0a98f79bb1e7e7c)
+
+---
+
 ## Lexbench-Headless-Browser
 
 Lexbench-Headless-Browser benchmarks 13 headless browser automation runtimes across 1,928 web tasks.
@@ -3769,6 +4674,67 @@ The retained paper reports 201 tasks, whereas the retained repository README des
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
 - https://raw.githubusercontent.com/SAAgent/MCPWorld/HEAD/README.md (retrieved 2026-10-16T06:35:59Z; SHA-256 5559ca58f8ee06d2812c6cbc8c3e49ef112f4ef41fdcf4e95568b268bb24bf14)
 - https://raw.githubusercontent.com/SAAgent/MCPWorld/HEAD/LICENSE (retrieved 2026-10-16T06:41:59Z; SHA-256 d7a04bf11ce24a7b79cd44b4a78dcc9971eaeb3b565821de437e0ecb7723e634)
+
+---
+
+## MemGUI-Bench
+
+Memory-centric Android benchmark of 128 tasks across 26 apps, run in Dockerized emulators on a MobileWorld-style runtime and judged by MemGUI-Eval, an LLM evaluator reporting pass@k and memory metrics.
+
+- Catalog URL: https://awesomecua.com/resources/github-lgy0404-memgui-bench/
+- Original source: https://github.com/lgy0404/MemGUI-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, memory, long-horizon, cross-app
+- Evidence checked: 2026-10-19T07:05:14Z
+- ID: github:lgy0404/memgui-bench
+
+### Limitations
+
+Official benchmark code for the MemGUI-Bench paper (ACM MM 2026 per the README). The mg CLI pulls a prebuilt Docker runtime with the Android emulator and the MemGUI AVD snapshot, launches parallel backend containers on a Linux host with KVM, runs agents through MobileWorld's agent interface (src/mobile_world) and writes MobileWorld-format trajectories with screenshots. MemGUI-Eval (memgui_eval/) describes each step with a multimodal model and makes a final decision with a second model; the leaderboard uses Gemini 2.5 Flash and Gemini 2.5 Pro for these roles. Each task CSV row gives the app(s), difficulty, whether UI memory is required and golden steps; the default step budget is int(golden_steps * 2.5 + 1). The Hugging Face dataset lgy0404/MemGUI-Bench holds the same two task CSV files (byte-identical at revisions 217713e and 3fb01b6), so it is recorded as an alias. Agent results in the README and leaderboard were not reproduced.
+
+- Record JSON: https://awesomecua.com/resources/github-lgy0404-memgui-bench/record.json
+
+### Structured profile
+
+- actions: MobileWorld JSON actions
+- evaluation: MemGUI-Eval: an LLM step-description model and a final-decision model judge each trajectory; reported metrics are pass@K, information retrieval rate (IRR), failure recovery rate (FRR), memory task performance ratio (MTPR), step ratio, time per step and cost per step.
+- focus: memory-intensive mobile GUI tasks, cross-app long-horizon tasks
+- observations: screenshots
+- setting: interactive
+
+#### Count observations
+
+- 128 tasks — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark) (computed) (computed; source: https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv)
+- 40 tasks — data/memgui-tasks-40.csv at 3fb01b6 (quick-test subset) (computed) (computed; source: https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-40.csv)
+- 26 applications — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark) (computed) (computed; source: https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv)
+- 115 tasks marked as requiring UI memory — data/memgui-tasks-all.csv at 3fb01b6 (full benchmark) (computed) (computed; source: https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv)
+
+Counts come from the pinned CSV files and match the README badges (128 tasks, 26 apps, 89.8% memory-intensive). The full set has 48, 42 and 38 tasks at difficulty levels 1, 2 and 3, and its golden steps average about 36. The 40-task file is a subset of the 128 tasks, so the two counts are not summed. Leaderboard settings fix the judge models; debugging runs may use others.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/HEAD/LICENSE
+- data: mit — https://huggingface.co/datasets/lgy0404/MemGUI-Bench/raw/217713ee891b227b1f297c3a59dd1798e9d4a09b/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: The Hub card for the task CSV files (the alias lgy0404/MemGUI-Bench) declares mit; it covers the task definitions, not app content.
+  Sources: https://huggingface.co/datasets/lgy0404/MemGUI-Bench/raw/217713ee891b227b1f297c3a59dd1798e9d4a09b/README.md
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/README.md (retrieved 2026-10-19T07:05:14Z; SHA-256 fab1bf3b766c2e59e46515dd60cf71b040986690b169bfcc0d35c6e9bc0f58fb)
+- https://api.github.com/repos/lgy0404/MemGUI-Bench/git/trees/3fb01b6cc0d13e287c67f488c76f449df7d65558?recursive=1 (retrieved 2026-10-19T07:05:17Z; SHA-256 5ea1ee28f93335f167bc25b3db56248dc01cfc066ea8eceaddaf361545fc03ab)
+- https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-all.csv (retrieved 2026-10-19T07:05:18Z; SHA-256 28d862beb94250e5630b6f7cc2a50369f4fb533fe7cf780991c1f4f73790be07)
+- https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/data/memgui-tasks-40.csv (retrieved 2026-10-19T07:05:18Z; SHA-256 138b8371bf1880df837b99d596e5a86679a9fe0ce0be33da69846e4ea2b44169)
+- https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/memgui_eval/evaluator.py (retrieved 2026-10-19T07:05:18Z; SHA-256 c8e9270c39852e17fa1b2d34bf3ca630375f68a1d817474e6a446e53d9490c1f)
+- https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/LICENSE (retrieved 2026-10-19T07:05:18Z; SHA-256 4fcd9de2604362b40f3529af286e34882e01bd4cb26dbedc9934c09a3f6ee827)
+- https://huggingface.co/datasets/lgy0404/MemGUI-Bench/raw/217713ee891b227b1f297c3a59dd1798e9d4a09b/README.md (retrieved 2026-10-19T07:05:19Z; SHA-256 1c291cb5096e2cf98e945456b1acb66d7b1bebd3d950c9d043b34ef75dd660b5)
+- https://huggingface.co/api/datasets/lgy0404/MemGUI-Bench/revision/217713ee891b227b1f297c3a59dd1798e9d4a09b (retrieved 2026-10-19T07:05:19Z; SHA-256 d44183bab1958372904dd52e19efdb4d8bb277a896fe24a9954b65e2fc926db1)
+- https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/HEAD/LICENSE (retrieved 2026-10-19T07:06:23Z; SHA-256 4fcd9de2604362b40f3529af286e34882e01bd4cb26dbedc9934c09a3f6ee827)
 
 ---
 
@@ -4789,6 +5755,63 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Odysseys
+
+200 long-horizon web tasks drawn from real browsing sessions, run on the live Internet in Chrome through the OSWorld runner and scored per rubric item by an LLM judge over the trajectory's screenshots and actions.
+
+- Catalog URL: https://awesomecua.com/resources/github-ljang0-odysseys/
+- Original source: https://github.com/ljang0/Odysseys
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, long-horizon, web-navigation
+- Evidence checked: 2026-10-19T07:10:53Z
+- ID: github:ljang0/odysseys
+
+### Limitations
+
+Each task has a SHA-1 ID, a prompt, a starting URL, a difficulty level, a reference step count, numbered rubric items with requirement and verification text, and SimilarWeb category tags. The README runs tasks with the OSWorld runner (Chrome in an Ubuntu VM, 100-step budget) after converting them with convert_odysseys_to_osworld.py, whose OSWorld evaluator is a placeholder; scoring is done afterwards by run_full_trajectory_per_rubric.py, which asks an LLM judge (by default gemini-3.1-flash-lite-preview, the model the README uses, or an OpenAI-compatible model) whether any step satisfies each rubric item. Reported metrics are the averaged rubric score, the perfect rate and trajectory efficiency. The README says the starting URL is always Google, but 70 of the 200 tasks in odysseys.json start at another site, and the converter opens each task's own URL. Tasks run on live websites, so results can drift. README results are paper figures and were not reproduced.
+
+- Record JSON: https://awesomecua.com/resources/github-ljang0-odysseys/record.json
+
+### Structured profile
+
+- actions: OSWorld computer actions in Chrome
+- evaluation: Post-hoc rubric scoring: an LLM judge marks each rubric item satisfied if any step's screenshot and action satisfy it; metrics are mean rubric score, perfect rate (all items satisfied) and trajectory efficiency.
+- focus: long-horizon web tasks from real browsing sessions
+- observations: screenshots
+- setting: interactive
+
+#### Count observations
+
+- 200 tasks — data/odysseys.json at 8378146 (computed) (computed; source: https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json)
+- 45 easy tasks — data/odysseys.json at 8378146 (computed) (computed; source: https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json)
+- 46 medium tasks — data/odysseys.json at 8378146 (computed) (computed; source: https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json)
+- 109 hard tasks — data/odysseys.json at 8378146 (computed) (computed; source: https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json)
+- 1,225 rubric items — data/odysseys.json at 8378146 (computed) (computed; source: https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json)
+
+Counts were computed from the pinned task file and match the README's 200 tasks split into 45 easy, 46 medium and 109 hard. Difficulty follows reference step count and domain spread. The observation and action spaces are those of the OSWorld agent used; the paper setup uses a 100-step budget.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ljang0/Odysseys/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/README.md (retrieved 2026-10-19T07:10:53Z; SHA-256 ffbbc15712ee94ec6718756992e7fda72c0632b259e73db7e93dd2d34674dd80)
+- https://api.github.com/repos/ljang0/Odysseys/git/trees/837814633ef948479abb3d142458f0acdb73fa65?recursive=1 (retrieved 2026-10-19T07:10:55Z; SHA-256 c045c5525b370808035bffe95869fca74950580053f53bffd3563b801e5f451b)
+- https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/data/odysseys.json (retrieved 2026-10-19T07:10:55Z; SHA-256 0bb7081d740eb6237b72e7e33524cc9489e769c5e236ec54879a8eb06ebc48e0)
+- https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/scripts/python/convert_odysseys_to_osworld.py (retrieved 2026-10-19T07:10:55Z; SHA-256 d80d1edac5e9245225722f8ca5566b3b5e0346a60efe7f595918d60177d48bbc)
+- https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/scripts/python/run_full_trajectory_per_rubric.py (retrieved 2026-10-19T07:10:55Z; SHA-256 736c3c20a6d1d00d6fa1ffb34ae2b7c7835618bea0fe735bab99d036ee26983f)
+- https://raw.githubusercontent.com/ljang0/Odysseys/837814633ef948479abb3d142458f0acdb73fa65/LICENSE (retrieved 2026-10-19T07:10:56Z; SHA-256 e58e9591671256eb4c7a45959614e70e9416ceda7b89d2120f9ade55060ed13b)
+- https://raw.githubusercontent.com/ljang0/Odysseys/HEAD/LICENSE (retrieved 2026-10-19T07:11:32Z; SHA-256 e58e9591671256eb4c7a45959614e70e9416ceda7b89d2120f9ade55060ed13b)
+
+---
+
 ## OmniAct
 
 Dataset and benchmark for generating computer interaction programs.
@@ -4921,6 +5944,64 @@ Tasks are actively replaced when websites or requirements become invalid. Record
 
 - https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa)
 - https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 93675f9d13697ae98889d703b8fae86a7200623e7ae8d844c9ee2200ad480583)
+
+---
+
+## Open Operator Evals
+
+Archived Notte Labs harness and results that run web agents eight times on a 30-task WebVoyager subset, judging each run with a GPT-4o screenshot judge and comparing it with the agent's self-reported success.
+
+- Catalog URL: https://awesomecua.com/resources/github-nottelabs-open-operator-evals/
+- Original source: https://github.com/nottelabs/open-operator-evals
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, robustness
+- Evidence checked: 2026-10-19T06:03:58Z
+- ID: github:nottelabs/open-operator-evals
+
+### Limitations
+
+GitHub marks the repository archived. It was published by Notte Labs, the developer of one of the compared agents, and its README ranks Notte first; the results are publisher-run, not independent. The March 2025 runs used Notte v1.3.3 with Gemini 2.0 Flash, Browser-Use 0.1.40 with GPT-4o and Convergence Proxy-lite at a pinned commit, headless, from a residential Swiss IP. Agent handlers in eval/agent_handlers also cover Falco, a Browser-Use API and a mock agent. WebVoyager30 is the publisher's sample of WebVoyager; the repository also carries the full WebVoyager task file and archived variants. Per-run results, summary images and logs for the three providers are committed under WebVoyager30/. Live websites change, so scores are tied to their run dates. No license file is present. The harness was not run.
+
+- Record JSON: https://awesomecua.com/resources/github-nottelabs-open-operator-evals/record.json
+
+### Structured profile
+
+- actions: agent-defined browser actions
+- evaluation: A GPT-4o judge (default model in eval/evaluators/webvoyager.py) receives the task, the agent's final response and up to its last four screenshots under WebVoyager's evaluation prompt and returns SUCCESS, NOT SUCCESS or UNKNOWN; the agent's own success claim is recorded separately. The three published configurations (configs/) run each task 8 times with at most 20 steps and 360 seconds.
+- focus: live-website task completion, agent self-report calibration, run-to-run variance
+- observations: agent-defined browser observations, final screenshots and response for the judge
+- setting: interactive
+
+#### Count observations
+
+- 30 tasks — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl) (computed) (computed; source: https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl)
+- 15 websites — WebVoyager30 (eval/data/webvoyager/webvoyager_simple.jsonl) (computed) (computed; source: https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl)
+- 643 tasks — full WebVoyager task file in the repository (eval/data/webvoyager/webvoyager.jsonl) (computed) (computed; source: https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager.jsonl)
+
+Counts are distinct task identifiers and website_name values in the inspected task files at the reviewed commit. The README calls WebVoyager about 600 tasks; the repository file holds 643 rows. Results depend on the agent version, model, step and time budget, IP location and run date.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/nottelabs/open-operator-evals/HEAD/README.md (retrieved 2026-10-19T06:03:58Z; SHA-256 64bfc6493fa8f24cf5d1f0fb640a2d16239c6ad5a1673bd679bb72db4f2644af)
+- https://api.github.com/repos/nottelabs/open-operator-evals (retrieved 2026-10-19T06:03:10Z; SHA-256 a9a61c471c5582fea8ee4daaf9ca3eff80605c5b458a167c85eee50e34683a1a)
+- https://api.github.com/repos/nottelabs/open-operator-evals/git/trees/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238?recursive=1 (retrieved 2026-10-19T06:04:37Z; SHA-256 7cd274b6cff857d101a49b84522cdcc25e864eda9befdb768c7642fde04867ca)
+- https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager_simple.jsonl (retrieved 2026-10-19T06:03:11Z; SHA-256 09c9e30f8bc7f47e6039764d4fa58f74d2617c0cd47d5f0ba372b1274e52a893)
+- https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/data/webvoyager/webvoyager.jsonl (retrieved 2026-10-19T06:03:11Z; SHA-256 b5c50649aa9caf5f299e1ef94e8d843760222bbfe790d8b3931664f7cb3ac59f)
+- https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/evaluators/webvoyager.py (retrieved 2026-10-19T06:03:11Z; SHA-256 2a87b31230b130fece98a9e057644cc5776b94996c43e7e173ae41c5c7decc9f)
+- https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/eval/run.py (retrieved 2026-10-19T06:03:11Z; SHA-256 e1eb241cc61cb24b21c622ce3671193e06d24cc304a5c5a5142dc29ebc732bf9)
+- https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/configs/notte.headless.gemini.toml (retrieved 2026-10-19T06:03:11Z; SHA-256 4729b8007aa2c63f94ae02477c55a69f94b4f86d2a14cca6420e74feccc2a8cf)
+- https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/configs/browseruse.headless.openai.toml (retrieved 2026-10-19T06:03:56Z; SHA-256 dd4be7388dcecaf2f294ca9d975617d2659a06fc10ef1f419d4e4cb81af26e11)
+- https://raw.githubusercontent.com/nottelabs/open-operator-evals/50f8e472230cbcc9c4ff24e1e8ed5ae42683b238/configs/convergence.headless.toml (retrieved 2026-10-19T06:03:57Z; SHA-256 87311f9335da34b9c8a99d506b886053b8da1a9b609b9f3e691394a899a3a223)
 
 ---
 
@@ -5212,6 +6293,64 @@ Public task manifests, agent runner and evaluator code are present, and the link
 
 ---
 
+## OSReward
+
+Evaluator and collection code for OSReward, which tests VLM judges' SUCCESS/FAIL verdicts on human-labelled computer-use trajectories, plus web, Windows, Android and Ubuntu trajectory pipelines.
+
+- Catalog URL: https://awesomecua.com/resources/github-os-copilot-osreward/
+- Original source: https://github.com/OS-Copilot/OSReward
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop, windows, linux, android
+- Topics: reward-models, evaluation, data-generation
+- Evidence checked: 2026-10-20T07:40:03Z
+- ID: github:os-copilot/osreward
+
+### Limitations
+
+Code for the OSReward paper; the trajectories themselves are released separately on Hugging Face as OS-Copilot/OSReward (the README reports 1,019 Full and 284 Hard trajectories with screenshots and human verdicts), alongside the gated OS-Shepherd-100K corpus and OS-Shepherd checkpoints. eval_pipeline/run_judge.py downloads the Full or Hard Parquet split (or reads local traces), sends a judge the full thought and action history and, by default, the last five screenshots with red markers at normalized action points, at temperature 0, through an OpenAI-compatible or native Anthropic API, and parses one 'Judge: SUCCESS' or 'Judge: FAIL' verdict per trajectory. It reports accuracy, balanced accuracy, SUCCESS and FAIL recall and coverage; missing, failed and unparseable outputs count as incorrect. Its subset option offers full, hard and custom, with no OSReward-Multi option, although the README roadmap lists Multi under the evaluation harness. trajectory_collection/ holds the collection pipelines: webtrail for live and self-hosted websites, a Windows Agent Arena based Windows 11 VM pipeline, an AndroidWorld based emulator pipeline, and an OSWorld based Ubuntu pipeline with a screenshot-only tool-call agent (the root README calls Ubuntu 'on the way' and the collection README calls it a placeholder, but its code is in the tree), plus export_judged_sft.py for judge-SFT bundles. benchmarking_analysis/ scores judges against the ground-truth labels of OSWorld, WindowsAgentArena, WebArena and AndroidWorld rollouts, with small samples under data/raw. The OS-Shepherd-100K construction pipeline and the OS-Shepherd training and inference code are listed as not yet released. There is no root LICENSE; the bundled Windows and Android pipelines carry Microsoft's MIT and the Apache-2.0 license texts. Not a fork, not archived; no release. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-os-copilot-osreward/record.json
+
+### Structured profile
+
+- actions: one SUCCESS or FAIL verdict per trajectory
+- evaluation: Verdicts are compared with human gold labels; the evaluator reports accuracy, balanced accuracy, SUCCESS recall, FAIL recall and coverage, counting missing, API-error and unparseable outputs as incorrect.
+- focus: reliability of VLM judges and reward models on computer-use trajectories, binary success verdicts
+- observations: task instruction, full thought and action history, last five screenshots with red action-point markers (default)
+- setting: offline
+
+#### Count observations
+
+- 1,019 trajectories — OSReward Full split on Hugging Face (reported; source: https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md)
+- 284 trajectories — OSReward Hard split on Hugging Face (reported; source: https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md)
+
+Counts are as the README reports them for the Hugging Face release; they were not recounted from the dataset. Screenshot window, history mode, markers and temperature are evaluator defaults that can be changed by flags.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The complete tree at the reviewed commit has no root license file; the MIT and Apache-2.0 texts under trajectory_collection/windows and trajectory_collection/mobile cover those bundled upstream-derived pipelines, not the whole repository.
+  Sources: https://api.github.com/repos/OS-Copilot/OSReward/git/trees/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/OS-Copilot/OSReward/HEAD/README.md (retrieved 2026-10-20T07:40:03Z; SHA-256 ea91d9df443f0dc23a7cf8f53e91adc0ac187c8472e8bfbe0b14bb3ed779083d)
+- https://api.github.com/repos/OS-Copilot/OSReward/git/trees/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a?recursive=1 (retrieved 2026-10-20T04:33:17Z; SHA-256 6522233e6807ed71417ba52358dfe6609c040e606260b056e0f7b1422d0bdf99)
+- https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/README.md (retrieved 2026-10-20T04:33:21Z; SHA-256 ea91d9df443f0dc23a7cf8f53e91adc0ac187c8472e8bfbe0b14bb3ed779083d)
+- https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/eval_pipeline/README.md (retrieved 2026-10-20T04:33:22Z; SHA-256 13bd46be73db879e77e073368c9a67fa308878074901bf0a43190a8754057704)
+- https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/eval_pipeline/run_judge.py (retrieved 2026-10-20T04:33:22Z; SHA-256 6dc1ca1812a15b72ebf11145d53dddbda770b31b7a9df2093c0746cbc2a25598)
+- https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/trajectory_collection/README.md (retrieved 2026-10-20T04:33:22Z; SHA-256 8044300c8f0a28ee1ebbce35294769b2837a287554dfa18c270d85251f582d4c)
+- https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/trajectory_collection/ubuntu/README.md (retrieved 2026-10-20T04:33:22Z; SHA-256 c41a25d24a74a01cbb809df70edc0dacce8cd6a2bb0c34a77413269713bf7ee7)
+- https://raw.githubusercontent.com/OS-Copilot/OSReward/0e1e401910e4033c7d3dc2631dc7171dd3c99d9a/benchmarking_analysis/README.md (retrieved 2026-10-20T04:33:23Z; SHA-256 99c9a201fab38897465f439688326bef7789b76dc92bd3f4555f4f252f47be8a)
+
+---
+
 ## OSUniverse
 
 OSUniverse is a task-oriented desktop benchmark for evaluating vision-based multimodal GUI navigation agents across operating-system applications.
@@ -5495,6 +6634,57 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/X-PLUG/OSWorld-MCP/HEAD/README.md (retrieved 2026-11-04T13:12:43Z; SHA-256 6fd51bd79a5603e9513f84e69f98b8ca733cef762a8a2391bb287ae3698399ec)
+
+---
+
+## OSWorld-Science
+
+Benchmark harness that runs computer-use agents on scientific-software tasks in per-domain VMs and scores the resulting application states and deliverables with task-specific executable evaluators.
+
+- Catalog URL: https://awesomecua.com/resources/github-discoailab-osworld-science/
+- Original source: https://github.com/DiscoAILab/OSWorld-Science
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, windows
+- Topics: evaluation, science
+- Evidence checked: 2026-10-18T12:33:40Z
+- ID: github:discoailab/osworld-science
+
+### Limitations
+
+The repository holds the osworld_science package (CLI, VM control, agents, evaluators), VM build scripts and tests; task data and VM images are downloaded from the gated Hugging Face dataset, and the inspected tree contains no data/ files. The built-in prompt agent follows the OSWorld PromptAgent pattern (screenshot in, pyautogui code out); a Kimi tool-calling agent is vendored from xlang-ai/OSWorld under Apache-2.0. The paper builds task images on Ubuntu, and its ANSYS configuration runs on Windows; the README says that Windows image cannot be redistributed and the EEGLAB image is not yet published. The repository LICENSE is CC BY 4.0; scientific software and vendored components keep their own terms.
+
+- Record JSON: https://awesomecua.com/resources/github-discoailab-osworld-science/record.json
+
+### Structured profile
+
+- actions: pyautogui code (built-in prompt agent), tool calls (vendored Kimi agent)
+- evaluation: Task-specific executable evaluators (JSON, CSV, artifact, R, SQL, Slicer and Praat checks plus author-provided scientific checks) inspect application states and collected deliverables and can award partial credit; the report command exports PASS/FAIL/VOID counts, scores, steps and costs.
+- focus: scientific-software workflows, combined GUI and command-line interaction
+- observations: screenshots
+- setting: interactive
+
+#### Count observations
+
+- 146 tasks — full benchmark reported in the paper, seven scientific domains (reported; source: https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md)
+
+The README states that 83.6% of tasks also allow CLI access and 16.4% are GUI-only under the recorded configurations. The published dataset includes answer keys (the private/ folder is hidden from the solver, not access-controlled), so results from models that may have trained on it are not held-out measurements. Record the code revision, task data revision, VM image, model and agent when comparing scores.
+
+### License declarations
+
+- code: CC-BY-4.0 — https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md (retrieved 2026-10-18T12:33:40Z; SHA-256 5871a62e7dac017cbb16017bc28b956aa20058193aebced9505210f34fdc7057)
+- https://api.github.com/repos/DiscoAILab/OSWorld-Science/git/trees/25483148138b235212ee75c660a63e5b7bde6072?recursive=1 (retrieved 2026-10-18T12:33:40Z; SHA-256 470ffe57b8ce4baab4b7849aa6c01450491142c7d8e16853f2e8d91c73cbff71)
+- https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/25483148138b235212ee75c660a63e5b7bde6072/src/osworld_science/agents/prompt_agent/agent.py (retrieved 2026-10-18T12:32:27Z; SHA-256 59571f205d945c2a4a2eaec84bf40e681c5de302182acaafe61f0481d9de52e7)
+- https://arxiv.org/html/2609.39903v1 (retrieved 2026-10-18T12:32:28Z; SHA-256 b4878955429b6b8d177c7d18fde30004fafd1973dda36f7d0412fb61dd2b0178)
+- https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/LICENSE (retrieved 2026-10-18T12:34:15Z; SHA-256 97d24386ff776d7160b87031b259a942bd03c9939796cab6724ad5d17d2cf785)
 
 ---
 
@@ -6463,6 +7653,57 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## showdown-clicks
+
+Offline click benchmark from General Agents: 557 human left clicks on macOS screenshots, each with an instruction and the bounding box of valid click locations, scored by whether a predicted point lands inside.
+
+- Catalog URL: https://awesomecua.com/resources/url-863cc1744cd5d40418be/
+- Original source: https://huggingface.co/datasets/generalagents/showdown-clicks
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: macos, desktop
+- Topics: grounding, evaluation
+- Evidence checked: 2026-10-18T11:14:39Z
+- ID: url:863cc1744cd5d40418be
+
+### Limitations
+
+The card describes showdown-clicks as part of General Agents' showdown suite and a 5,679-click collection recorded in late 2024, of which only the 557-click showdown-clicks-dev subset is released; the remainder is not public. Screenshots range from 1280x800 to 1680x1050. The card's results table includes the publisher's own ace-control models; those scores were not reproduced. The card declares MIT and notes that screenshots may contain third-party content. The companion repository github.com/generalagents/showdown was not reviewed.
+
+- Record JSON: https://awesomecua.com/resources/url-863cc1744cd5d40418be/record.json
+
+### Structured profile
+
+- actions: single left-click coordinate
+- evaluation: A prediction counts as correct when the predicted click point falls inside the annotated bounding box of viable click locations; the card reports accuracy with bootstrapped 95% confidence intervals and latency.
+- focus: instruction-conditioned click grounding, low-level desktop control
+- observations: macOS screenshots
+- setting: offline
+
+#### Count observations
+
+- 557 annotated clicks — showdown-clicks-dev/data.csv (dev split) (computed) (computed; source: https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/showdown-clicks-dev/data.csv)
+- 5,679 left clicks — full showdown-clicks collection described by the card; not released (reported; source: https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md)
+
+The released CSV has 557 rows with unique IDs and screenshots, and columns for instruction, bounding box and image size. Only the dev subset is public, so scores on the full collection cannot be reproduced from the release.
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md (retrieved 2026-10-18T11:14:39Z; SHA-256 14d46319e7abf54616df512b8bbc7d6d62347e9b1a36e21a61aa2c4667e909a4)
+- https://huggingface.co/api/datasets/generalagents/showdown-clicks (retrieved 2026-10-18T11:14:40Z; SHA-256 b1a8a685e2bca74891afc030decdb65fc46d2f0a2d2842df1df24faa2999c678)
+- https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/showdown-clicks-dev/data.csv (retrieved 2026-10-18T11:14:41Z; SHA-256 c13a190cdc2157438ec505778dfa21ebbce1b9f518d06b8d3ebb31737aeb5312)
+- https://huggingface.co/datasets/generalagents/showdown-clicks/raw/main/README.md (retrieved 2026-10-18T11:14:39Z; SHA-256 14d46319e7abf54616df512b8bbc7d6d62347e9b1a36e21a61aa2c4667e909a4)
+
+---
+
 ## Simulation Labs
 
 Behavioral CI gate where computer-use agents test signup, checkout, and onboarding flows on every deployment.
@@ -6494,6 +7735,64 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/SatyamDave/simulation-labs/HEAD/README.md (retrieved 2026-11-04T16:51:42Z; SHA-256 e360f1e2412c948b74a59fdc1acb97614d434320dde40a907e44e03b79763552)
 - https://raw.githubusercontent.com/SatyamDave/simulation-labs/HEAD/LICENSE (retrieved 2026-11-04T16:56:30Z; SHA-256 63bd4dfe938bc995b052a01e20d2ccf0cdd8ccb5248ed1c0e45bde63733cb6c2)
+
+---
+
+## SMAN-Bench
+
+Evaluation code for SMAN-Bench (Mobile-Bench-v2): AppAgent and Mobile-Agent-v2 runners replay recorded Android pages for single-path, multi-path, noisy and ambiguous tasks, scored by step and task success.
+
+- Catalog URL: https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/
+- Original source: https://github.com/gezelligheid0314/SMAN-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, robustness
+- Evidence checked: 2026-10-20T07:38:59Z
+- ID: github:gezelligheid0314/sman-bench
+
+### Limitations
+
+SMAN-Bench is the title of the ICLR 2026 edition of the Mobile-Bench-v2 paper; that edition's proceedings PDF gives this repository as its code and data location, and the README's dataset badge links the Hugging Face release xwk123/MobileBench-v2, which holds the task data. The repository itself has code only, no task files. AppAgent runners draw numbered boxes for clickable and scrollable elements, taken from each recorded page's XML, onto the screenshot; Mobile-Agent-v2 runners (memory unit on, reflection off by default) receive the centre coordinates of the same elements. Single-path and ambiguous runs step through the ground-truth page sequence whatever the agent chooses; multi-path runs move through the recorded page graph according to the agent's actions (default limit 20 rounds) and succeed on reaching the goal page. Ambiguous runs prompt with the task's vague instruction and per-step instructions, or with the complete instruction. eval.py has scorers for single-path, multi-path and noisy runs, printing task success rate, action accuracy and action-type accuracy; the noisy scorer checks the ground-truth click or swipe coordinates against the predicted element's bounds and typed text by character-level F1 above 0.5. Model endpoints are set in config/config.yaml. The README shows an MIT badge, but the tree at the reviewed commit has no LICENSE file. Not a fork, not archived; no release. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/record.json
+
+### Structured profile
+
+- actions: click a labelled element, scroll a labelled element in a direction, input text
+- evaluation: Predicted actions are mapped to the recorded action IDs of each page. Single-path runs are scored step by step against the ground-truth path (action accuracy, action-type accuracy, success only when every step matches); multi-path runs succeed when the agent's actions reach the goal page in the recorded page graph; noisy runs check ground-truth click and swipe coordinates against the predicted element's bounds and typed text by character-level F1.
+- focus: single-path step accuracy, multi-path task completion, robustness to pop-ups and ads, ambiguous instructions
+- observations: recorded Android screenshots with element boxes drawn from the page XML, element centre coordinates (Mobile-Agent-v2 runner), task instructions
+- setting: offline
+
+#### Count observations
+
+No count recorded.
+
+The repository has no task files; task counts belong to the Hugging Face data release and are not restated here. Scoring rules are taken from eval.py at the reviewed commit, which has no separate scorer for the ambiguous split.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The README shows an MIT badge linking a LICENSE file, but the complete tree at the reviewed commit has no license file, so no grant is established.
+  Sources: https://api.github.com/repos/gezelligheid0314/SMAN-Bench/git/trees/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/HEAD/readme.md (retrieved 2026-10-20T07:38:59Z; SHA-256 73cdb1d20119322652fce8f475be5304efdc78ba9ce7162b282790646bc56a1e)
+- https://api.github.com/repos/gezelligheid0314/SMAN-Bench/git/trees/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327?recursive=1 (retrieved 2026-10-20T04:19:28Z; SHA-256 e3b1edf5ebd8a3c4ece3fe55994678b01188bf8c8aed5ac3ebbd93a818eec0c8)
+- https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/readme.md (retrieved 2026-10-20T04:20:09Z; SHA-256 73cdb1d20119322652fce8f475be5304efdc78ba9ce7162b282790646bc56a1e)
+- https://proceedings.iclr.cc/paper_files/paper/2026/file/1b4279dc1ec8d0183c22528664d84459-Paper-Conference.pdf (retrieved 2026-10-20T04:20:08Z; SHA-256 061442053b0487074fd3556a298e8e7a8715741c6f8939b31ead7b9326ffccb6)
+- https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/eval.py (retrieved 2026-10-20T04:19:29Z; SHA-256 860f45a6ff49829b3e5ff6ad938862c7420d09bf41964340d87927f636bef45c)
+- https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/appagent/appagent_singlepath.py (retrieved 2026-10-20T04:19:29Z; SHA-256 b49ccd022e82f2da2727ec9c048cc5c6eaa9edd0c8953d17e06548bc2859c232)
+- https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/appagent/appagent_multipath.py (retrieved 2026-10-20T04:21:04Z; SHA-256 fe4dffc17866473e8c26871ca71d12ce2c04187e17df80fa6b1be232b7fbd571)
+- https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/appagent/appagent_ambiguous.py (retrieved 2026-10-20T04:21:05Z; SHA-256 0640d5cba898e72764c49039fc837c7b4846b868b3c4d94300d540c62a7f00c0)
+- https://raw.githubusercontent.com/gezelligheid0314/SMAN-Bench/8f3358fc8a065454b66d1e8f4f6029a2eb8ac327/mobileagent/mobileagent_singlepath.py (retrieved 2026-10-20T04:19:29Z; SHA-256 f7ec44782984c911ef7c0472fdedccf4286d55ed08f9d072f2599f651a567565)
 
 ---
 
@@ -6701,6 +8000,57 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## SWE-bench Multimodal
+
+Issue-resolution benchmark for visual JavaScript and TypeScript software, where each task's issue or patch includes screenshots, mockups or renderings and fixes are checked by repository unit tests.
+
+- Catalog URL: https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/
+- Original source: https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: evaluation, screen-understanding
+- Evidence checked: 2026-10-18T11:11:00Z
+- ID: url:cb7f3bdb832d533c96b0
+
+### Limitations
+
+Adjacent scope: agents resolve issues by producing code patches and are not required to operate a graphical interface, but every instance requires interpreting interface screenshots, recordings or renderings of front-end software. The card's prose describes 612 issue-pull request pairs (102 dev, 510 test) from 17 repositories, while the card's dataset_info and the Hub dataset viewer report 100 dev and 480 test rows for the released Parquet files; the published rows are counted here and the difference is unexplained. The card's eval.yaml describes 517 issues with visual elements and the paper abstract reports 617 task instances. The card declares no data license, so data terms remain unknown. An older copy exists at princeton-nlp/SWE-bench_Multimodal and was not reviewed. Evaluation uses the SWE-bench harness and per-instance Docker images; nothing was run here.
+
+- Record JSON: https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/record.json
+
+### Structured profile
+
+- actions: code patch submission
+- evaluation: Submitted patches are applied in per-instance Docker images and judged by the repository's FAIL_TO_PASS and PASS_TO_PASS unit tests through the SWE-bench harness; the reported metric is the percentage of instances resolved.
+- focus: issue resolution in visual JavaScript/TypeScript software, interpreting screenshots and renderings in issue reports
+- observations: repository checkout, issue text, issue and patch images
+- setting: offline
+
+#### Count observations
+
+- 480 task instances — Hub test split as released (dataset_info and dataset viewer) (reported; source: https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal)
+- 100 task instances — Hub dev split as released (dataset_info and dataset viewer) (reported; source: https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal)
+- 612 issue-pull request pairs — dataset card prose (102 dev and 510 test from 17 repositories) (reported; source: https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal/raw/main/README.md)
+
+The released Parquet rows (100 dev, 480 test) differ from the card's prose totals (102 dev, 510 test); record the Hub revision and split with a score. The dev and test splits use disjoint repositories. Some carbon-design-system accessibility tests fetch a rule engine over the network at evaluation time, so their verdicts can vary between runs.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/SWE-bench/SWE-bench_Multimodal/raw/main/README.md (retrieved 2026-10-18T11:11:00Z; SHA-256 dbff146d57bbc200cb584c300d045bc81ab738cec0c07ae405e4f5ebbf5dc6ea)
+- https://huggingface.co/api/datasets/SWE-bench/SWE-bench_Multimodal (retrieved 2026-10-18T11:11:01Z; SHA-256 5f1503ae26a328a37c4d3f67d1b73b0d64e3dd80534eed4604a8b65944bcd6dc)
+- https://datasets-server.huggingface.co/size?dataset=SWE-bench/SWE-bench_Multimodal (retrieved 2026-10-18T11:11:05Z; SHA-256 8347894b2ea01e61e4d74fbbeaeacd7809ae0bef9beabdb74c16636cfbd9a3fc)
+
+---
+
 ## SWEeper-Bench
 
 SWEeper-Bench evaluates whether interactive GUI and browser agents can autonomously discover and reproduce 200 real bugs in open-source software.
@@ -6851,6 +8201,69 @@ Each task is packaged as a Docker image. Record task-image and server versions; 
 
 ---
 
+## TimeWarp
+
+Web-agent benchmark on self-hosted Wiki, News and Shop sites, each with six era-styled UI versions, registering 231 BrowserGym tasks scored mainly by deterministic answer verifiers.
+
+- Catalog URL: https://awesomecua.com/resources/github-sparklabutah-timewarp/
+- Original source: https://github.com/sparklabutah/timewarp
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, robustness, imitation-learning
+- Evidence checked: 2026-10-20T07:40:09Z
+- ID: github:sparklabutah/timewarp
+
+### Limitations
+
+Code for the TimeWarp paper, which the README's citation lists as to appear in the NeurIPS 2026 Evaluations and Datasets Track. env/ holds Flask apps for Wiki and News and an adapted copy of WebShop for Shop (with WebShop's MIT license text), plus a homepage app; each loads one of six numbered UI themes styled after different eras (the Wiki app also registers a seventh 'modern' theme), and new themes can be added as folders. Site data is downloaded from the Hugging Face dataset sparklabutah/timewarp-env-data. src/browsergym/timewarp registers timewarp.1 to timewarp.231 with BrowserGym; its task file has 231 tasks: 70 Wiki-only, 64 Shop-only, 47 News-only and 50 spanning two or three sites. Agents answer in free text, which is normalized and checked by string_match, number_match and list_match verifiers (AND-combined per task); 2 tasks use only the LLM judge (GPT-5 by default, or a locally served Gemma model). scripts/ runs AgentLab studies per site and sweeps models and UI versions; collectTeacherTraj/ provides a modified AgentLab loop and agent that save teacher trajectories, llamafactory/ has full and LoRA fine-tuning configs for training on them, and the README points to GPT-5 traces on Hugging Face. scripts/annotation holds the verifier authoring and audit tooling, results/ has page-measurement and visual-information validation data, and proofs/ has Lean 4 proofs of the appendix theory. The README shows an MIT badge without a link, and the tree has no root license file. Not a fork, not archived; no release. Code was read, not run.
+
+- Record JSON: https://awesomecua.com/resources/github-sparklabutah-timewarp/record.json
+
+### Structured profile
+
+- actions: BrowserGym browser actions, free-text answer message to the user
+- evaluation: Each task's free-text answer is normalized (case, unicode, markdown, punctuation, number formatting) and checked by the verifiers listed in its eval_types (string_match, number_match, list_match, combined with AND); tasks still on llm_judge are graded by GPT-5 by default or an open Gemma judge. The same tasks are run against each UI version.
+- focus: robustness of web agents to UI redesigns across eras, information seeking across Wiki, News and Shop sites
+- observations: BrowserGym observations of the self-hosted sites, as selected by the agent
+- setting: interactive
+
+#### Count observations
+
+- 231 tasks — BrowserGym task file src/browsergym/timewarp/data/test.raw.json (computed) (computed; source: https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json)
+- 70 tasks — Wiki-only tasks (computed) (computed; source: https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json)
+- 64 tasks — Shop-only tasks (computed) (computed; source: https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json)
+- 47 tasks — News-only tasks (computed) (computed; source: https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json)
+- 50 tasks — tasks spanning two or three sites (computed) (computed; source: https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json)
+- 2 tasks — tasks scored only by the LLM judge (computed) (computed; source: https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json)
+- 6 UI versions per site — numbered themes for each of Wiki, News and Shop (reported; source: https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/README.md)
+
+Task counts were computed from the task file's sites and eval.eval_types fields at the reviewed commit; test.raw.v2.json is byte-identical, and test.raw.llm_judge.json is a variant that routes all 231 tasks to the LLM judge. Results depend on the UI version served, so a score should state the version.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The README shows an MIT badge with an empty link, and the complete tree at the reviewed commit has no root license file; the MIT text under env/webshop covers the bundled WebShop copy only.
+  Sources: https://api.github.com/repos/sparklabutah/timewarp/git/trees/4978e690ef2ad33d81a4a0c043da3f80588902a0?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/sparklabutah/timewarp/HEAD/README.md (retrieved 2026-10-20T07:40:09Z; SHA-256 96644cd15ad327a891d602d46bbb1bbc3332335b6ec8ef8e89c371f99082e73a)
+- https://api.github.com/repos/sparklabutah/timewarp/git/trees/4978e690ef2ad33d81a4a0c043da3f80588902a0?recursive=1 (retrieved 2026-10-20T04:39:35Z; SHA-256 fd7f883a5f6b4e520abcb8759a66e26fd91c2219dd50e45881b4c1bec18b3518)
+- https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/README.md (retrieved 2026-10-20T04:39:37Z; SHA-256 96644cd15ad327a891d602d46bbb1bbc3332335b6ec8ef8e89c371f99082e73a)
+- https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/data/test.raw.json (retrieved 2026-10-20T04:39:37Z; SHA-256 51fa0eb24ba21d177d8e1fb1f2a53544416bbf84eae343449e60ff9c919592dc)
+- https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/task.py (retrieved 2026-10-20T04:39:38Z; SHA-256 bf65e287b4929dfab48ceffb4f1e523b8be3bc92970fe3d594200f0149ec7b92)
+- https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/src/browsergym/timewarp/config.py (retrieved 2026-10-20T04:39:38Z; SHA-256 8d9031adb0b9f5ffdc0778542703b7476861ba20ee2faf0ffe9beb5dc318ecce)
+- https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/env/wiki/wiki_app.py (retrieved 2026-10-20T04:39:39Z; SHA-256 c61fdde172f86f1414a7d45fe6af0db3226baa55fd354b8bf7679f86619ba513)
+- https://raw.githubusercontent.com/sparklabutah/timewarp/4978e690ef2ad33d81a4a0c043da3f80588902a0/scripts/singleBenchmark/benchmarkGeneralWiki.py (retrieved 2026-10-20T04:39:40Z; SHA-256 2bb06ac3980085b81fd3d9f2f4efe7421792e9414ad34e2dc30d21ae269453ec)
+
+---
+
 ## UI-FaultLab
 
 UI-FaultLab benchmarks auditable agent-versus-application failure attribution in visual UI testing workflows.
@@ -6882,6 +8295,122 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/kakoyvostorg/ui-faultlab/HEAD/README.md (retrieved 2026-11-04T14:20:12Z; SHA-256 584fdc7fef79a8f10fabfcd488468f6d1b17ac457df9984bec96a50d2d8866b7)
 - https://raw.githubusercontent.com/kakoyvostorg/ui-faultlab/HEAD/LICENSE (retrieved 2026-11-04T14:23:39Z; SHA-256 ee8087b8f4ec2634529d7d372f1d00f3ed2d356e47869659d2e22e0859a28532)
+
+---
+
+## UI-I2E-Bench
+
+GUI grounding benchmark from UI-E2I-Synth: 1,477 explicit and implicit instructions on mobile, desktop and web screenshots, each paired with a target element's bounding box and element type.
+
+- Catalog URL: https://awesomecua.com/resources/url-c08566be0d973ec40c48/
+- Original source: https://huggingface.co/datasets/vaundys/I2E-Bench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding, evaluation
+- Evidence checked: 2026-10-19T07:08:32Z
+- ID: url:c08566be0d973ec40c48
+
+### Limitations
+
+The Hub card has only metadata (apache-2.0, English, 1K<n<10K). The UI-I2E-Bench leaderboard page in microsoft/FIVE-UI-Evol links this dataset, the UI-E2I-Synth paper and the code, and describes the benchmark as using implicit instructions and long-tail element types with realistic element-to-screen size ratios. Each annotation row gives an image path, instruction, bounding box, element type, source and quality flags. The evaluation script in that repository counts a prediction correct when the predicted point falls inside the box and reports accuracy by source, element type and instruction type. The apache-2.0 declaration does not settle rights to the screenshots.
+
+- Record JSON: https://awesomecua.com/resources/url-c08566be0d973ec40c48/record.json
+
+### Structured profile
+
+- actions: point prediction
+- evaluation: Point-in-box accuracy against the annotated bounding box, broken down by source platform, element type and instruction type (UI-E2I-Synth/i2e-bench-eval.py).
+- focus: GUI element grounding from explicit and implicit instructions
+- observations: screenshots, natural-language instructions
+- setting: offline
+
+#### Count observations
+
+- 1,477 annotated instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01 (computed) (computed; source: https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl)
+- 1,161 distinct screenshots referenced — I2E-bench-annotation.jsonl at Hub revision ecfcc01 (computed) (computed; source: https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl)
+- 705 mobile instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01 (computed) (computed; source: https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl)
+- 519 desktop instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01 (computed) (computed; source: https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl)
+- 253 web instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01 (computed) (computed; source: https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl)
+- 917 implicit instructions — I2E-bench-annotation.jsonl at Hub revision ecfcc01 (computed) (computed; source: https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl)
+
+Counts were computed from the pinned annotation file; source counts sum to the instruction total, and implicit plus 560 explicit instructions do too. The Hub manifest has 1,509 PNG files in five folders, more than the 1,161 screenshots the annotations reference. No split is declared.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/vaundys/I2E-Bench
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/vaundys/I2E-Bench/revision/ecfcc016d92c87ce6c194dba1b3faffabf7db51d (retrieved 2026-10-19T07:08:32Z; SHA-256 cf382038d5dc2c54bb2353b50fad311ff8fab34bab7433fe26a66147ef44607c)
+- https://huggingface.co/datasets/vaundys/I2E-Bench/resolve/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/I2E-bench-annotation.jsonl (retrieved 2026-10-19T07:08:32Z; SHA-256 56f69897e22e683d82f015e698f33e35d19de25d77eeaba992039767efe63981)
+- https://raw.githubusercontent.com/microsoft/FIVE-UI-Evol/a07e8ecfad9203c202ba04557f8c5ad9f58d61f1/UI-E2I-Synth/leaderboard/index.html (retrieved 2026-10-19T07:08:31Z; SHA-256 9ddfcc1e1898d61fa01197cdb0fafee7990cc92e3671c229ae83634330c66814)
+- https://raw.githubusercontent.com/microsoft/FIVE-UI-Evol/a07e8ecfad9203c202ba04557f8c5ad9f58d61f1/UI-E2I-Synth/i2e-bench-eval.py (retrieved 2026-10-19T07:08:31Z; SHA-256 504f491e65b1d242644857d5c1ed2cdf86a6c214f252332d4b84a4f31adc6dbc)
+- https://huggingface.co/datasets/vaundys/I2E-Bench/raw/ecfcc016d92c87ce6c194dba1b3faffabf7db51d/README.md (retrieved 2026-10-19T07:08:32Z; SHA-256 718a10fa2b6c81adfe66e848f13cd9672364685e2ab638ef67c3892a1cb74d8a)
+- https://huggingface.co/api/datasets/vaundys/I2E-Bench/revision/ecfcc016d92c87ce6c194dba1b3faffabf7db51d (retrieved 2026-10-19T07:08:32Z; SHA-256 cf382038d5dc2c54bb2353b50fad311ff8fab34bab7433fe26a66147ef44607c)
+
+---
+
+## UI-NEXUS
+
+Compositional mobile-agent benchmark: 100 task templates chaining actions across local utility apps on an AndroidWorld-based emulator and online Chinese and English service apps, with emulator state-setup tooling.
+
+- Catalog URL: https://awesomecua.com/resources/github-starwalkin-ui-nexus/
+- Original source: https://github.com/StarWalkin/UI-NEXUS
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, long-horizon
+- Evidence checked: 2026-10-20T07:41:49Z
+- ID: github:starwalkin/ui-nexus
+
+### Limitations
+
+Official repository of the paper "Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System" (named by title in the README). The task files are data/offline_English.csv (50 English tasks for UI-NEXUS-Anchor, the local utility app subset), data/online_Chinese.csv (25 tasks) and data/online_English.xlsx (25 tasks); each row has a category (Simple Concatenation, Context Transition or Deep Dive), the apps involved, a template and one instantiation. UI-NEXUS-Anchor reuses AndroidWorld's 20 apps on a Pixel 6, API 33 emulator; the repository bundles adapted copies of AndroidWorld and AndroidEnv (each with its Apache-2.0 license text), and the README also credits SPA-Bench's AndroidWorld adaptation. android_world/emulator_init sets app and system state (contacts, SMS, calendar, music, notes, settings) from JSON files; android_world/task_config holds representative configurations for five Anchor tasks (six files; one is filed under two categories), and the README says the complete set will follow. The README says the agent-running code is still being refactored, and neither the task files nor the state configurations carry success criteria, so the evaluation procedure cannot be reproduced from this repository. The README reports 30 online service apps and an average optimal length of 14.05 steps. There is no root license file. Not a fork, not archived; no release.
+
+- Record JSON: https://awesomecua.com/resources/github-starwalkin-ui-nexus/record.json
+
+### Structured profile
+
+- actions: agent-defined Android actions
+- evaluation: Not specified in the repository: the README defers the agent-running code, and neither the task files nor the state configurations carry success criteria.
+- focus: compositional multi-app mobile tasks, generalization from atomic to compositional tasks
+- observations: agent-defined observations of the Android emulator or device
+- setting: interactive
+
+#### Count observations
+
+- 100 task templates — all task files (50 + 25 + 25 rows) (computed) (computed; source: https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv)
+- 50 task templates — UI-NEXUS-Anchor, English, local utility apps (data/offline_English.csv) (computed) (computed; source: https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv)
+- 25 task templates — online service apps, Chinese (data/online_Chinese.csv) (computed) (computed; source: https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv)
+- 25 task templates — online service apps, English (data/online_English.xlsx) (computed) (computed; source: https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx)
+
+Template counts are data rows with distinct task IDs, counted with Python's csv module and by parsing the XLSX sheet XML. Anchor categories: Simple Concatenation 20, Context Transition 20, Deep Dive 10; each online file: Simple Concatenation 7, Context Transition 11, Deep Dive 7. Each row carries one instantiation of its template.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The complete tree at the reviewed commit has no root license file; the Apache-2.0 texts under android_env and android_world cover those bundled adapted upstream packages, not the benchmark's own task data or scripts.
+  Sources: https://api.github.com/repos/StarWalkin/UI-NEXUS/git/trees/c2ebeadc2c6821ecd246e097787efcc9a448b1b5?recursive=1
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/HEAD/README.md (retrieved 2026-10-20T07:41:49Z; SHA-256 4a2ebb00b718b7aca9f4460827270d6e9828cc7ee9148a124ae663c6b1186f84)
+- https://api.github.com/repos/StarWalkin/UI-NEXUS/git/trees/c2ebeadc2c6821ecd246e097787efcc9a448b1b5?recursive=1 (retrieved 2026-10-20T04:36:11Z; SHA-256 0ea9401ff29cf9fd9cc5adb4b084e77c09f25a2df0119e45a4bc056895c55fde)
+- https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/README.md (retrieved 2026-10-20T04:36:15Z; SHA-256 4a2ebb00b718b7aca9f4460827270d6e9828cc7ee9148a124ae663c6b1186f84)
+- https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/offline_English.csv (retrieved 2026-10-20T04:36:15Z; SHA-256 c37e589a077131149f1d1a292500b60354e5c2ff401494422d36cda8ccbe1b2d)
+- https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_Chinese.csv (retrieved 2026-10-20T04:36:17Z; SHA-256 815766e4ba5fa6111289ad66fabc6bdc44ed5ea9af40052e4388b27781771472)
+- https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/data/online_English.xlsx (retrieved 2026-10-20T04:36:17Z; SHA-256 819efeb7ea389ff0a340d717e0b39ae5ab89bf7ebcad1b45dac8acf414f5b111)
+- https://raw.githubusercontent.com/StarWalkin/UI-NEXUS/c2ebeadc2c6821ecd246e097787efcc9a448b1b5/android_world/emulator_init/README.md (retrieved 2026-10-20T04:36:18Z; SHA-256 29d7bcb1df1d7264d685945a580e0238cef82a9e1d3fbae9b2cfffba8a3e5c86)
 
 ---
 
@@ -7509,6 +9038,176 @@ The canonical repository documents self-hosted websites and environment resets. 
 
 ---
 
+## WebArena-Infinity
+
+Generated web apps modeled on GitLab, PayPal, Xero, Elation EHR and other products, each with resettable state and Python-verified tasks for browser agents, plus the coding-agent pipeline that builds them.
+
+- Catalog URL: https://awesomecua.com/resources/github-web-arena-x-webarena-infinity/
+- Original source: https://github.com/web-arena-x/webarena-infinity
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, sandbox, data-generation
+- Evidence checked: 2026-10-20T04:06:22Z
+- ID: github:web-arena-x/webarena-infinity
+
+### Limitations
+
+Documented by a March 2026 blog post at webarena.dev; the README cites that post and no arXiv paper. At commit 1ca7781, apps/ holds 13 generated environments, each a static HTML/CSS/JS app whose browser pushes its full state to a Python server.py; verifiers read GET /api/state, and POST /api/reset restores the seed state. The tree has 1,620 real-task verifiers (260 easy, 260 medium, 1,100 hard) and 737 functional-test verifiers. The blog's initial-release table lists ten of these environments with 1,260 tasks; elation-patient-communication, figma-slides and figma-text-and-typography are further directories outside that table. evaluation/run_eval_parallel.py runs browser-use agents (GPT-4o, Gemini 3 Flash and Pro, Claude Sonnet 4.6) with vision off unless --use-vision is set, and screenshot agents (Gemini and Claude computer use, Kimi K2.5, Qwen 3.5) whose coordinate actions Playwright executes; defaults are 50 steps and a 600-second task limit. infra/pipeline.py runs Claude Code with --dangerously-skip-permissions to generate new apps from documentation, such as the product-manual files under apps/user-manuals, whose rights were not reviewed. The agent trajectories described in the blog are published separately as the Hugging Face dataset webarena-x/webarena-infinity-trajectories.
+
+- Record JSON: https://awesomecua.com/resources/github-web-arena-x-webarena-infinity/record.json
+
+### Structured profile
+
+- actions: browser-use element actions, mouse click, drag and scroll, key press and typing
+- evaluation: Before each task the harness posts /api/reset; after the agent finishes, the task's Python verifier reads the app state from GET /api/state and returns pass or fail with a message. Tasks are graded easy, medium or hard, and the blog reports success rate per agent.
+- focus: browser agents on generated replicas of real web applications, programmatic state verification of task outcomes
+- observations: DOM-derived page state through browser-use (screenshots optional), screenshots
+- setting: interactive
+
+#### Count observations
+
+- 1,260 tasks — initial release, ten environments (blog statistics table) (reported; source: https://webarena.dev/webarena-infinity/content.md)
+- 10 environments — initial release (blog statistics table) (reported; source: https://webarena.dev/webarena-infinity/content.md)
+- 13 environment directories — apps/ at commit 1ca7781, excluding ablations, app-description and user-manuals (computed) (computed; source: https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1)
+- 1,620 real-task verifier scripts — apps/*/real-tasks/task_*.py at commit 1ca7781 (260 easy, 260 medium, 1,100 hard by file prefix) (computed) (computed; source: https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1)
+- 737 functional-test verifier scripts — apps/*/function-tasks/task_*.py at commit 1ca7781 (computed) (computed; source: https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1)
+
+The repository holds three more environment directories than the blog's release table, so state which environments and task suite (real-tasks or function-tasks) a score covers. Keep the agent harness, vision setting, step limit and task timeout with any score. No benchmark run was executed for this review.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/web-arena-x/webarena-infinity/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/web-arena-x/webarena-infinity/HEAD/README.md (retrieved 2026-10-20T04:06:22Z; SHA-256 4565d5631292349f2e534fc1602425639d4874cbff64778a28f3ccd6f3086081)
+- https://webarena.dev/webarena-infinity/content.md (retrieved 2026-10-20T04:06:17Z; SHA-256 f55d394a98ab18b01578d329c6bfe43de90be336051e6e479c730c39e4181f2b)
+- https://api.github.com/repos/web-arena-x/webarena-infinity/git/trees/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d?recursive=1 (retrieved 2026-10-20T04:06:17Z; SHA-256 1680aa208a7a5c4615b642a4cfeeb70d61967f0e774fe37e63c22c18800dd3fa)
+- https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/run_eval_parallel.py (retrieved 2026-10-20T04:06:21Z; SHA-256 b4a55c3e5bd0479dd70ab660c190aa10c08ec253d86224fa378fe75fb8f3a920)
+- https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/tasks.py (retrieved 2026-10-20T04:06:22Z; SHA-256 a36959f9907e486c768fb42f78f58335df8e7fdd8be9216db54ff51c5bf012a8)
+- https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/agents.py (retrieved 2026-10-20T04:06:22Z; SHA-256 4c2819c8126df79a979586ad874eecb947c414ba6356d791254bafe16994886e)
+- https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/evaluation/vision_agents.py (retrieved 2026-10-20T04:06:22Z; SHA-256 03c1cf3728ac0977ed56a9b1dfe52a0bef979443802905d0ea16fa1d88bfd5dc)
+- https://raw.githubusercontent.com/web-arena-x/webarena-infinity/1ca77813bf8d8e4011aa3fb1f740f70d78bd522d/docs/environment-protocol.md (retrieved 2026-10-20T04:06:22Z; SHA-256 21a54a5f85b4cc75539af061d8b066fa582941fc40268d1052dfe17062d46d44)
+- https://raw.githubusercontent.com/web-arena-x/webarena-infinity/HEAD/LICENSE (retrieved 2026-10-20T04:07:54Z; SHA-256 8954170f22d127cd7d0b7d1d62c25356d0989167eec26e68c69782892e480b94)
+
+---
+
+## WebArena-Verified
+
+An audited re-release of WebArena's 812 web tasks with corrected reference answers and deterministic evaluators that score structured agent responses and captured network traces, plus a 258-task hard subset.
+
+- Catalog URL: https://awesomecua.com/resources/github-servicenow-webarena-verified/
+- Original source: https://github.com/ServiceNow/webarena-verified
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-10-18T11:06:05Z
+- ID: github:servicenow/webarena-verified
+
+### Limitations
+
+The README describes this as the verified release of WebArena and keeps the original task file (assets/dataset/test.raw.json) for reference; scores on it are not interchangeable with original WebArena results. The cited paper is a NeurIPS 2025 Scaling Environments for Agents workshop paper on OpenReview (94tlGxmqkN) with no arXiv identifier, so no paper record is linked. The task file is also published as the Hugging Face dataset AmineHA/WebArena-Verified, which was not reviewed here; Apache-2.0 is the repository code license and is not applied to the task data or to the self-hosted site images. Docker images and a PyPI package are documented but were not run.
+
+- Record JSON: https://awesomecua.com/resources/github-servicenow-webarena-verified/record.json
+
+### Structured profile
+
+- actions: browser interactions on self-hosted WebArena sites
+- evaluation: Deterministic evaluators compare a structured agent response (task type, status, retrieved data) with the reference; 488 of the 812 tasks also check network events from a captured HAR trace, with 663 network-event checks in all. LLM-as-a-judge and substring matching were removed, and runs can be scored offline from saved responses and traces.
+- focus: web task completion, information retrieval from self-hosted websites
+- observations: not recorded
+- setting: interactive
+
+#### Count observations
+
+- 812 task definitions — assets/dataset/webarena-verified.json (computed) (computed; source: https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/webarena-verified.json)
+- 258 task IDs — WebArena-Verified Hard subset (assets/dataset/subsets/webarena-verified-hard.json) (computed) (computed; source: https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/subsets/webarena-verified-hard.json)
+
+Counts are unique task_id values in the inspected manifests. Tasks span the shopping, shopping_admin, gitlab, reddit, map and wikipedia sites, including cross-site tasks; each task carries a revision number. The observation format and agent harness are not prescribed. Record the task-file revision, subset and environment images with a score.
+
+### License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/README.md (retrieved 2026-10-18T11:06:05Z; SHA-256 8f343078ba55263182f86ec54497958a1174d90cb8ce7573cedcc29f5c8e6b50)
+- https://api.github.com/repos/ServiceNow/webarena-verified (retrieved 2026-10-18T11:06:07Z; SHA-256 564d8926e929185697d0471e5554b84743cf1eae4776045ab46f72b2cab49c31)
+- https://api.github.com/repos/ServiceNow/webarena-verified/git/trees/main?recursive=1 (retrieved 2026-10-18T11:06:08Z; SHA-256 7fefd38b6a2cacdc12e0d659e37bed409a3784da269b0c18558e74ab71ae1e06)
+- https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/webarena-verified.json (retrieved 2026-10-18T11:06:05Z; SHA-256 d65275660814663375028e9017e1f929e3c38321041b125795e2713b52243d30)
+- https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/assets/dataset/subsets/webarena-verified-hard.json (retrieved 2026-10-18T11:06:06Z; SHA-256 3b0a4df231bb5a0c642215e521c3fa97701a384f52a734dc2db8f617ad0591a7)
+- https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/LICENSE (retrieved 2026-10-18T11:06:06Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+- https://raw.githubusercontent.com/ServiceNow/webarena-verified/HEAD/LICENSE (retrieved 2026-10-18T11:06:06Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## WebBench
+
+Live-web benchmark from Halluminate and Skyvern with read, create, update, delete and file-download tasks on 452 high-traffic websites, including logins and form entry, with released per-agent run results.
+
+- Catalog URL: https://awesomecua.com/resources/github-halluminate-webbench/
+- Original source: https://github.com/Halluminate/WebBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-10-18T11:13:06Z
+- ID: github:halluminate/webbench
+
+### Limitations
+
+The README and dataset card describe 2,454 tasks on 452 websites (category counts summing to 2,454) and an expanded pool of 5,750 tasks. The released webbenchfinal.csv has 2,647 rows with unique IDs and 453 distinct starting URLs, so the released file and the documented total differ. Tasks run on live third-party websites, so content, logins and anti-bot measures change over time. The repository holds the task CSVs and per-agent result files but no evaluation harness; the README points to the leaderboard and technical report for methodology. The Hugging Face dataset card declares MIT for the task data; the repository LICENSE is MIT for the repository. Website content and account requirements belong to the target sites.
+
+- Record JSON: https://awesomecua.com/resources/github-halluminate-webbench/record.json
+
+### Structured profile
+
+- actions: browser interactions on live websites
+- evaluation: The repository releases per-agent result files; the scoring procedure is described in the publisher's technical report rather than an executable evaluator in the repository.
+- focus: live-web task completion, write operations such as account creation, updates and deletions, file downloads
+- observations: not recorded
+- setting: interactive
+
+#### Count observations
+
+- 2,454 tasks — documented WebBench task set (reported; source: https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md)
+- 452 websites — documented site coverage (reported; source: https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md)
+- 2,647 task rows — webbenchfinal.csv as released (computed) (computed; source: https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/webbenchfinal.csv)
+
+The released CSV has columns ID, Starting URL, Category and Task, with 1,637 READ, 594 CREATE, 206 UPDATE, 166 DELETE and 44 FILE_MANIPULATION rows; the README's category table sums to 2,454. A separate webbench_hitl_final.csv covers human-in-the-loop runs. Record the task file revision with a score.
+
+### License declarations
+
+- code: MIT — https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/LICENSE
+- data: MIT — https://huggingface.co/datasets/Halluminate/WebBench/raw/main/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: The dataset card for the Hub copy of the task CSV declares license: mit; this is a data declaration from the dataset card, not inferred from the repository code license.
+  Sources: https://huggingface.co/datasets/Halluminate/WebBench/raw/main/README.md
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/README.md (retrieved 2026-10-18T11:13:06Z; SHA-256 9898c4ea9c7d08c08566893dd6adb6a6ca3d2e3ef85a2dbcbc350b2bd22736b8)
+- https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/webbenchfinal.csv (retrieved 2026-10-18T11:13:07Z; SHA-256 fd5311a38bdb6f941e8f544150735656c114d76fbfb17193da973d5de0165217)
+- https://huggingface.co/datasets/Halluminate/WebBench/raw/main/README.md (retrieved 2026-10-18T11:13:09Z; SHA-256 017626f88e56eacdb45d7f8b90540ba4a65fa67b78ea745c026b8c28181dff29)
+- https://huggingface.co/api/datasets/Halluminate/WebBench (retrieved 2026-10-18T11:13:09Z; SHA-256 fd85246105d23d09511b920505391f1937bbd0ca3037963498edb9744554d593)
+- https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/LICENSE (retrieved 2026-10-18T11:13:09Z; SHA-256 96804aa272fe40cdfb8b5c8f4d1d94757bcfaf1bf5596fb829214843d2371e58)
+- https://raw.githubusercontent.com/Halluminate/WebBench/HEAD/LICENSE (retrieved 2026-10-18T11:13:09Z; SHA-256 96804aa272fe40cdfb8b5c8f4d1d94757bcfaf1bf5596fb829214843d2371e58)
+
+---
+
 ## WebCanvas
 
 Framework and evaluation resources for real-world web agents.
@@ -7709,6 +9408,66 @@ The figures are rounded descriptions from the original paper. WebLINX 1.1 / Brow
 - https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
 - https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/main/README.md (retrieved 2026-10-17T02:03:23Z; SHA-256 9bd7512e257f5914d66b091530d7eb711a6f90bc21dc89cbba53015c7136c527)
 - https://raw.githubusercontent.com/mcgill-nlp/weblinx/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 cc0156153933fb96f6f3bf8d736c15e24d78d0838945c2ed456e3ada96cf67c4)
+
+---
+
+## WebLINX 1.1 (WebLINX-BrowserGym)
+
+WebLINX 1.1, a reprocessed release of WebLINX's conversational web-navigation demonstrations packaged as single-step BrowserGym tasks that score one predicted browser action against the recorded turn.
+
+- Catalog URL: https://awesomecua.com/resources/url-77afb3a9b045a157167c/
+- Original source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, action-prediction
+- Evidence checked: 2026-10-18T12:21:40Z
+- ID: url:77afb3a9b045a157167c
+
+### Limitations
+
+The card and the WebLINX README describe WebLINX 1.1 as derived from WebLINX for BrowserGym and AgentLab: some demonstrations were removed and tab actions were added to the evaluated steps, so results should be reported as WebLINX-1.1, WebLINX-BrowserGym or WebLINX-BG, not compared with WebLINX 1.0. Each demonstration folder holds accessibility trees, DOM snapshots, element properties and boxes, page HTML and screenshots, with per-demonstration ZIP archives alongside. The task loader and scorer live in the separate McGill-NLP/weblinx-browsergym extension repository, which declares no license. CC-BY-NC-SA-4.0 is the card's data declaration, with added terms of use.
+
+- Record JSON: https://awesomecua.com/resources/url-77afb3a9b045a157167c/record.json
+
+### Structured profile
+
+- actions: click, hover, fill, goto, scroll, new_tab, tab_close, tab_focus, send_msg_to_user
+- evaluation: Each task replays one recorded turn and ends after one step. The extension's get_reward compares the predicted action with the reference turn: IoU for click and hover, chrF times IoU for text input, URL F-score for page loads, chrF for messages, a distance score for scrolls, intent match for opening or closing tabs and exact target match for tab switches; unsupported intents score 0.
+- focus: conversational web navigation, next-action prediction from recorded demonstration states
+- observations: screenshot, DOM snapshot, accessibility tree, extra element properties, open tab URLs and titles, chat history and goal
+- setting: offline
+
+#### Count observations
+
+- 62,966 single-step tasks — all splits, task metadata at revision 9db39ad4 (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
+- 2,325 demonstrations — all splits, distinct demo_name values at revision 9db39ad4 (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
+- 26,410 single-step tasks — train split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
+- 2,526 single-step tasks — valid split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
+- 2,650 single-step tasks — test_iid split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
+- 6,802 single-step tasks — test_cat split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
+- 8,704 single-step tasks — test_geo split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
+- 10,407 single-step tasks — test_vis split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
+- 5,467 single-step tasks — test_web split (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv)
+
+A task is one demonstration turn named weblinx.<demo>.<step>. Tasks and demonstrations are different units; split task counts add up to the all-splits total. Counts were computed with a script from browsergym/task_metadata/weblinx_all.csv. The Hub API file list stops at 100,000 entries, so files were not counted. No agent was run.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-sa-4.0 — https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md (retrieved 2026-10-18T12:21:40Z; SHA-256 15791d57bbcc8d4c5c88a8a3f5316ed72bc1e2ace939b1fb8dd6039b9a7b0d8b)
+- https://huggingface.co/api/datasets/McGill-NLP/weblinx-browsergym (retrieved 2026-10-18T12:21:39Z; SHA-256 9a1bc777aadeb117d66a4bc240401471cbbc21b968140f7ab85cf2ec79c7d164)
+- https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/browsergym/task_metadata/weblinx_all.csv (retrieved 2026-10-18T12:21:40Z; SHA-256 d50c9bd8d67675316c50ff0cebf81c8273d1e4b1b815337c16757b0bb370b481)
+- https://raw.githubusercontent.com/McGill-NLP/weblinx-browsergym/297e5de4e773b8756b0d4c044f23d5075950dc3d/weblinx_browsergym/__init__.py (retrieved 2026-10-18T12:21:41Z; SHA-256 9f16aa5ee665b9d1b6eb36bd2b1c4303d53c1f0e7cb6b6b664fce03d389c7ab0)
+- https://raw.githubusercontent.com/McGill-NLP/weblinx/9a7e814ffaac36d36ae5291dc3407c530055e16f/README.md (retrieved 2026-10-18T12:21:41Z; SHA-256 15c3f1656afd861894b180bca7d9214b4cf78a6ad9cd0601c80f5d67d2839528)
+- https://huggingface.co/datasets/McGill-NLP/weblinx-browsergym/raw/9db39ad436c452c92feaaaa0c7e70a0330289827/README.md (retrieved 2026-10-18T12:21:40Z; SHA-256 15791d57bbcc8d4c5c88a8a3f5316ed72bc1e2ace939b1fb8dd6039b9a7b0d8b)
 
 ---
 

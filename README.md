@@ -43,9 +43,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**3,919 curated resources** · **1,673 reviewed papers and surveys** · **104 discovery documents**
+**4,248 curated resources** · **1,690 reviewed papers and surveys** · **104 discovery documents**
 
-Evidence snapshot: 2026-11-07T05:19:53Z. 453 records awaiting review and 1,280 discovered candidates are listed in the [coverage ledger](https://awesomecua.com/coverage/).
+Evidence snapshot: 2026-11-07T05:19:53Z. 451 records awaiting review and 1,090 discovered candidates are listed in the [coverage ledger](https://awesomecua.com/coverage/).
 
 ## What is a computer-use agent?
 
@@ -55,18 +55,18 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 
 | Category | Curated | Browse |
 | --- | ---: | --- |
-| Research papers | 1,645 | [Open directory](https://awesomecua.com/categories/paper/) |
-| Surveys | 28 | [Open directory](https://awesomecua.com/categories/survey/) |
+| Research papers | 1,661 | [Open directory](https://awesomecua.com/categories/paper/) |
+| Surveys | 29 | [Open directory](https://awesomecua.com/categories/survey/) |
 | Learning resources | 10 | [Open directory](https://awesomecua.com/categories/learning/) |
-| Models and checkpoints | 124 | [Open directory](https://awesomecua.com/categories/model/) |
-| Datasets | 99 | [Open directory](https://awesomecua.com/categories/dataset/) |
-| Benchmarks | 217 | [Open directory](https://awesomecua.com/categories/benchmark/) |
-| Agents | 316 | [Open directory](https://awesomecua.com/categories/agent/) |
-| Frameworks | 580 | [Open directory](https://awesomecua.com/categories/framework/) |
-| Infrastructure | 55 | [Open directory](https://awesomecua.com/categories/infrastructure/) |
-| Tools | 809 | [Open directory](https://awesomecua.com/categories/tool/) |
-| Products | 20 | [Open directory](https://awesomecua.com/categories/product/) |
-| Publishers | 16 | [Open directory](https://awesomecua.com/categories/company/) |
+| Models and checkpoints | 210 | [Open directory](https://awesomecua.com/categories/model/) |
+| Datasets | 158 | [Open directory](https://awesomecua.com/categories/dataset/) |
+| Benchmarks | 248 | [Open directory](https://awesomecua.com/categories/benchmark/) |
+| Agents | 372 | [Open directory](https://awesomecua.com/categories/agent/) |
+| Frameworks | 601 | [Open directory](https://awesomecua.com/categories/framework/) |
+| Infrastructure | 64 | [Open directory](https://awesomecua.com/categories/infrastructure/) |
+| Tools | 821 | [Open directory](https://awesomecua.com/categories/tool/) |
+| Products | 57 | [Open directory](https://awesomecua.com/categories/product/) |
+| Publishers | 17 | [Open directory](https://awesomecua.com/categories/company/) |
 
 Category pages highlight reviewed resources; the [interactive catalog](https://awesomecua.com/explore/#catalog) and downloads also expose metadata-only records with their review state.
 

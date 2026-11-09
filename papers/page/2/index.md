@@ -1,6 +1,6 @@
-# Computer-use research library, page 2 of 28
+# Computer-use research library, page 2 of 29
 
-> Reviewed computer-use papers and surveys 61 to 120 of 1,673, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
+> Reviewed computer-use papers and surveys 61 to 120 of 1,690, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
 
 HTML page: https://awesomecua.com/papers/page/2/ · [Previous page](https://awesomecua.com/papers/index.md) · [Next page](https://awesomecua.com/papers/page/3/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
@@ -629,6 +629,68 @@ Xu Hu, Haoming Li, Yuxiang Wang, Jinxin Yang, Kangshuo Li, Licheng Wang, Dingyi 
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22+OR+ti%3AGUI+OR+ti%3A%22Android+agent%22+OR+abs%3A%22computer-use+agents%22+OR+abs%3A%22GUI+agents%22+OR+abs%3A%22browser+agents%22+OR+abs%3A%22mobile+GUI%22+OR+abs%3A%22web+navigation%22+OR+abs%3AAndroidWorld+OR+abs%3AMind2Web%29+AND+submittedDate%3A%5B202610070000+TO+202610210000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-21T04:48:33Z; SHA-256 beefe28f2bbc7211f8c2a7f01fe23d88b97e9769059f48d885068566a88188ae)
 - https://export.arxiv.org/api/query?id_list=2610.22448%2C2610.22686%2C2610.23857%2C2610.24451%2C2610.24453%2C2610.24729%2C2610.25503%2C2610.25601%2C2610.26679%2C2610.27205%2C2610.27645%2C2610.27861%2C2610.27954%2C2610.28601%2C2610.28610%2C2610.28679%2C2610.29139%2C2610.29609%2C2610.30108%2C2610.30181%2C2610.30202%2C2610.30573%2C2610.30792%2C2610.31107%2C2610.31162%2C2610.31274%2C2610.31307%2C2610.31404%2C2610.31494%2C2610.31698%2C2610.31712%2C2610.31846%2C2610.32223%2C2610.32441%2C2610.32482%2C2610.32536%2C2610.33528%2C2610.33568%2C2610.33636%2C2610.33645%2C2610.33702%2C2610.33907%2C2610.34167%2C2610.34241%2C2610.34384%2C2610.34577%2C2610.34582%2C2610.34634%2C2610.34649%2C2610.34724&max_results=50 (retrieved 2026-11-05T23:03:23Z; SHA-256 2822f711f79353d5d16a9fb58020f4944c49f35477b25fb78ee0e21ddc4f5e01)
+
+---
+
+## In-Context Teacher–Student Guidance for Open-Weight Browser Agents
+
+Training-free protocol that turns a teacher model's offline reasoning traces into prompt guidance for open-weight browser agents; on MiniWoB++ it lifts solved student-task pairs from 208 to 271 across ten students.
+
+- Catalog URL: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/
+- Original source: https://sol.sbc.org.br/index.php/kdmile/article/view/44978
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, training-free, efficiency
+- Evidence checked: 2026-10-19T08:40:18Z
+- ID: url:a5dc446fab5e6bdce517
+
+### Limitations
+
+The annotation was reviewed against the publisher PDF and the Crossref deposit for its DOI. Experiments have not been independently reproduced. The method, In-Context Learning Guidance (ICLG), has GPT-5.1 solve tasks offline and appends only its reasoning fields, not its low-level actions, to the student prompt; the teacher is not called while the student runs. Evaluation serves the 130 MiniWoB++ tasks locally, caps each run at 5 minutes and 25 interaction steps, counts a score of at least 0.5 as solved, and reports single runs: seven of ten students improve and three lose one task. Retry and refined-prompt ablations cover three students. The paper names no code release or arXiv version.
+
+- Record JSON: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/record.json
+
+### Authors
+
+Wéwerthon Silva Cardoso, Ricardo Marcacini
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/citation.csl.json
+
+### Publication record
+
+- Title: In-Context Teacher–Student Guidance for Open-Weight Browser Agents
+- Authors: Wéwerthon Silva Cardoso, Ricardo Marcacini
+- Publication date (recorded precision): 2026-10-19
+- Publication source: https://sol.sbc.org.br/index.php/kdmile/article/view/44978
+- Publication BibTeX: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/publication-citation.csl.json
+- venue: Anais do XIV Symposium on Knowledge Discovery, Mining and Learning (KDMiLe 2026)
+- publisher: Sociedade Brasileira de Computação - SBC
+- pages: 121-128
+- doi: 10.5753/kdmile.2026.32021
+- date basis: Crossref metadata deposited for the DOI gives issued and published-online dates of 2026-10-19; precision=day.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and arXiv searches for the title phrase, the method name and the two authors returned nothing; neither the PDF nor the Crossref deposit names an arXiv version, so this publisher edition seeds the record.
+- notes: Full paper in the KDMiLe 2026 proceedings published by SBC on its SOL open library. The PDF title page and Crossref list the same two authors in the same order. The PDF grants permission to copy without fee for non-commercial use with notice; no standard license is declared.
+- Publication evidence: https://sol.sbc.org.br/index.php/kdmile/article/download/44978/44741, https://api.crossref.org/works/10.5753/kdmile.2026.32021
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://sol.sbc.org.br/index.php/kdmile/article/download/44978/44741 (retrieved 2026-10-19T08:40:18Z; SHA-256 244d2777c017208be3f374b4ab4ef6954c3db314a273e532063d6487c087567d)
+- https://api.crossref.org/works/10.5753/kdmile.2026.32021 (retrieved 2026-10-19T08:40:21Z; SHA-256 5345106b26513bf1583ebb0bf29cb15b8fad38c75dcf3da43de6432aee1fddf0)
+- https://sol.sbc.org.br/index.php/kdmile/article/download/44978/44741 (retrieved 2026-10-19T08:40:18Z; SHA-256 244d2777c017208be3f374b4ab4ef6954c3db314a273e532063d6487c087567d)
+- https://api.crossref.org/works/10.5753/kdmile.2026.32021 (retrieved 2026-10-19T08:40:21Z; SHA-256 5345106b26513bf1583ebb0bf29cb15b8fad38c75dcf3da43de6432aee1fddf0)
 
 ---
 
@@ -3100,55 +3162,3 @@ Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley,
 
 - https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
 - https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
-
----
-
-## Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents
-
-Introduces Glasseek, a framework for deep-search agents that explore the open web, with trajectory construction, training across context compression, and a test-set leakage audit.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2610-16998/
-- Original source: https://arxiv.org/abs/2610.16998
-- Kind: paper
-- Review: curated
-- Scope: adjacent
-- Environments: web
-- Topics: web-navigation, data-generation, reinforcement-learning, evaluation
-- Evidence checked: 2026-11-05T23:03:20Z
-- ID: arxiv:2610.16998
-
-### Limitations
-
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2610-16998/record.json
-
-### Authors
-
-Cong Pang, Jiaqi Su, Chengrui Wu, Kuihao Yan, Tianrui Zhang, Zixuan Qiu, Chao Lin, Zixiu Lin, Zixuan Chen, Zelin Xiao, Tiankuo Yao, Jiawei Hong, Zixuan Chen, Dan Xu, Lewei Lu, Wenjie Wang, Xin Lou
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2610-16998/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2610-16998/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2610.16998v1
-- First submission: 2026-10-12T15:48:45Z
-- Version updated: 2026-10-12T15:48:45Z
-- Abstract SHA-256: 329ea6b9a2736fb0318c0760b6da648b722ac01168b1156efd9fc004d782a5b9
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?id_list=2610.16402%2C2610.16998%2C2610.25503%2C2610.31494%2C2610.34724%2C2610.38438%2C2610.41460%2C2611.00169%2C2611.00881%2C2611.00884%2C2611.00926%2C2611.03930&max_results=12 (retrieved 2026-11-05T21:14:44Z; SHA-256 b139108d48a4a5767b7fc2ddc45ec9c3698b12687eb930094976c7f9b275c297)
-- https://export.arxiv.org/api/query?id_list=2609.35002%2C2609.35232%2C2609.35394%2C2609.35775%2C2609.36071%2C2609.36352%2C2609.36777%2C2609.37017%2C2609.38397%2C2609.38648%2C2609.38923%2C2609.39222%2C2609.39306%2C2609.39924%2C2610.00042%2C2610.00346%2C2610.00450%2C2610.00583%2C2610.03574%2C2610.04184%2C2610.04906%2C2610.05099%2C2610.06514%2C2610.07127%2C2610.08699%2C2610.09127%2C2610.09484%2C2610.09633%2C2610.11251%2C2610.11655%2C2610.11922%2C2610.13098%2C2610.13166%2C2610.13361%2C2610.13623%2C2610.14306%2C2610.14855%2C2610.14966%2C2610.15765%2C2610.16117%2C2610.16260%2C2610.16402%2C2610.16998%2C2610.17816%2C2610.17953%2C2610.18868%2C2610.19368%2C2610.20424%2C2610.20597%2C2610.21109&max_results=50 (retrieved 2026-11-05T23:03:20Z; SHA-256 fbf9f07c95d8c1f4ad119a20a35d82b69f79d4bdc06b25aacac1a334dc54e034)

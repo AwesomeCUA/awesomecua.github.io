@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/categories/tool/page/5/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [Hanzi Browse](https://awesomecua.com/resources/github-hanzili-hanzi-browse/)
+- [Helios](https://awesomecua.com/resources/github-vrtnis-helios/)
 - [Helix Control](https://awesomecua.com/resources/github-miyahluvgames-source-helix-computer-use/)
 - [Helm](https://awesomecua.com/resources/github-tylergibbs1-helm/)
 - [Hermes Bot Kit](https://awesomecua.com/resources/github-thomasbek3-hermes-bot-kit/)
@@ -22,8 +24,10 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [hypruse](https://awesomecua.com/resources/github-ilyaskhallouki-hypruse/)
 - [IdemStep](https://awesomecua.com/resources/github-supermarioyl-idemstep/)
 - [Inner Coordinates](https://awesomecua.com/resources/github-xiaochu-1208-inner-coordinates/)
+- [Interceptor](https://awesomecua.com/resources/github-hacker-valley-media-interceptor/)
 - [Invictum Browser Bridge](https://awesomecua.com/resources/github-invictumhr-ai-invictum-browser-bridge/)
 - [invisible_playwright](https://awesomecua.com/resources/github-feder-cr-invisible-playwright/)
+- [invisible_playwright_mcp](https://awesomecua.com/resources/github-feder-cr-invisible-playwright-mcp/)
 - [iphone-control (iPhone Mirroring Skill)](https://awesomecua.com/resources/github-charlesmorgansoftware-iphone-control/)
 - [iphone-use](https://awesomecua.com/resources/github-leeguooooo-iphone-use/)
 - [Ivy Tendril](https://awesomecua.com/resources/github-ivy-interactive-ivy-tendril/)
@@ -100,7 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [MCP Session Bridge](https://awesomecua.com/resources/github-t3ratech-mcp-session-bridge/)
 - [MCP Virtual Cursor](https://awesomecua.com/resources/github-sos2778-mcp-virtual-cursor/)
 - [MCP Windows Desktop Automation](https://awesomecua.com/resources/github-mario-andreschak-mcp-windows-desktop-automation/)
-- [mcp-anything](https://awesomecua.com/resources/github-zaymadkid-mcp-anything/)
-- [mcp-camoufox](https://awesomecua.com/resources/github-agelyhq-mcp-camoufox/)
-- [mcp-chrome-bridge](https://awesomecua.com/resources/github-wizardofweb125-lab-mcp-chrome-bridge/)
-- [MCP-CodexGPT](https://awesomecua.com/resources/github-mosmotov-mcp-codexgpt/)

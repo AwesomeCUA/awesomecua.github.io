@@ -14,6 +14,8 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
   Introduces GUIFlow, an incremental inference framework that reuses visual, language, and action computation across successive GUI-agent steps.
 - [MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning](https://awesomecua.com/resources/arxiv-2610-30202/) — 2026-10-21
   MPIDetector uses few-shot prompts to detect text and visual prompt injections, with environmental web-agent injections included in its evaluation.
+- [In-Context Teacher–Student Guidance for Open-Weight Browser Agents](https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/) — 2026-10-19
+  Training-free protocol that turns a teacher model's offline reasoning traces into prompt guidance for open-weight browser agents; on MiniWoB++ it lifts solved student-task pairs from 208 to 271 across ten students.
 - [From Seeing to Reporting: A Theory of Reliable Visual Set Generation in Vision-Language Models](https://awesomecua.com/resources/arxiv-2610-25503/) — 2026-10-18
   FSR models visual reporting and gives inference-time procedures for frozen vision-language models, including screen parsing and GUI target selection.
 - [Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops](https://awesomecua.com/resources/arxiv-2610-15738/) — 2026-10-11
@@ -52,6 +54,8 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
   BAMI uses coarse-to-fine focus and candidate selection at inference time to address precision and ambiguity errors in GUI grounding.
 - [AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](https://awesomecua.com/resources/arxiv-2605-02630/) — 2026-05-04
   Presents AutoFocus, a training-free grounding method that turns sampled coordinates and token uncertainty into spatial region proposals. Shape-aware crops and visual comparison select a target while retaining surrounding interface context.
+- [LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent](https://awesomecua.com/resources/url-4395ff8522cd77109b83/) — 2026-04-20
+  Training-free GUI agent that indexes screen elements via icon detection and OCR, checks each step with multi-level reflection and recovers by fallback clicks or rollback; introduces LongGUIBench, tasks over 15 steps.
 - [UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding](https://awesomecua.com/resources/arxiv-2604-14113/) — 2026-04-15
   Introduces UI-Zoomer, a training-free grounding method that uses candidate agreement and token confidence to decide when to crop and retry. Prediction variance determines a separate crop radius for each uncertain interface target.
 - [PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding](https://awesomecua.com/resources/arxiv-2604-00886/) — 2026-04-01
@@ -94,6 +98,8 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
   Introduces a finer-grained taxonomy of GUI localization errors and a logit-based Peak Sharpness Score for analyzing coordinate-prediction uncertainty. A context-aware cropping method refines the visual input without retraining the grounding model.
 - [Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments](https://awesomecua.com/resources/arxiv-2501-10893/) — 2025-01-18
   Learn-by-interact synthesizes agent interaction trajectories from documentation and derives instructions from their histories for training or in-context use across web and desktop tasks.
+- [Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model](https://awesomecua.com/resources/url-6942e8211a0f59eb7878/) — 2025
+  Presents Halligan, a VLM agent that abstracts visual CAPTCHAs into frames, elements and keypoints and solves each as a search problem through generated interaction code, tested on 2,600 challenges of 26 types.
 - [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](https://awesomecua.com/resources/arxiv-2306-01987/) — 2023-06-03
   Introduces AdbGPT, a prompting-based approach that uses LLMs to replay app bugs from written reports, applying few-shot examples and reasoning without model training.
 - [Language Models can Solve Computer Tasks](https://awesomecua.com/resources/arxiv-2303-17491/) — 2023-03-30
@@ -109,6 +115,8 @@ Full source records: https://awesomecua.com/downloads/topics/training-free/recor
   CanpGrid provides an adaptive recursive image grid overlay for progressive coarse-to-fine visual localization by multimodal agents.
 - [GUI Grounding via Iterative Narrowing](https://awesomecua.com/resources/github-ant-8-gui-grounding-via-iterative-narrowing/) — Date not recorded
   Implements training-free iterative visual crop-and-narrow refinement for improving MLLM coordinate grounding on GUI screenshots.
+- [GUI-explorer](https://awesomecua.com/resources/github-ilearn-lab-acl25-gui-explorer/) — Date not recorded
+  Android agent code that explores apps over ADB, mines transition-aware knowledge into a knowledge base behind a retrieval service, and runs an OpenAI-backed agent demo that draws on it.
 - [Hoverclick](https://awesomecua.com/resources/github-neilyysun-ui-hoverclick/) — Date not recorded
   Hoverclick introduces test-time cursor hover verification and visual attention guidance before committing GUI click actions.
 - [MarkForge](https://awesomecua.com/resources/github-lannistersyh-markforge/) — Date not recorded

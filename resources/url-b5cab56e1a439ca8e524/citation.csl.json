@@ -1,0 +1,85 @@
+{
+  "id": "url:b5cab56e1a439ca8e524",
+  "citation-key": "cua_1d59d560652242a81ff35b81",
+  "type": "paper-conference",
+  "title": "WinSpot: GUI Grounding Benchmark with Multimodal Large Language Models",
+  "URL": "https://aclanthology.org/2025.acl-short.85/",
+  "custom": {
+    "catalog_id": "url:b5cab56e1a439ca8e524",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://aclanthology.org/2025.acl-short.85/",
+    "identifiers": {
+      "doi": "10.18653/v1/2025.acl-short.85"
+    },
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Zheng Hui",
+        "Yinheng Li",
+        "Dan Zhao",
+        "Colby Banbury",
+        "Tianyi Chen",
+        "Kazuhito Koishida"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.acl-short.85",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.acl-short.85/"
+      ],
+      "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive. The same authors' WinClick preprint (arXiv 2503.04730) is a different work: this short paper cites it as prior work and centres on the WinSpot benchmark rather than the WinClick agent.",
+      "issue": null,
+      "notes": "Publisher proceedings edition (ACL 2025, Volume 2: Short Papers).",
+      "pages": "1086-1096",
+      "pdf_url": "https://aclanthology.org/2025.acl-short.85.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "WinSpot: GUI Grounding Benchmark with Multimodal Large Language Models",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.acl-short.85/",
+      "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-07.",
+  "author": [
+    {
+      "literal": "Zheng Hui"
+    },
+    {
+      "literal": "Yinheng Li"
+    },
+    {
+      "literal": "Dan Zhao"
+    },
+    {
+      "literal": "Colby Banbury"
+    },
+    {
+      "literal": "Tianyi Chen"
+    },
+    {
+      "literal": "Kazuhito Koishida"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.acl-short.85",
+  "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  "publisher": "Association for Computational Linguistics",
+  "page": "1086-1096"
+}

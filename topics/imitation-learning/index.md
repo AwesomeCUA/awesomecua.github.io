@@ -140,6 +140,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Synatra converts indirect procedural knowledge, including human-oriented tutorials, into direct demonstrations for digital agents. It trains a 7B CodeLlama on 100,000 synthesized demonstrations and evaluates the resulting policy on Mind2Web, MiniWoB++, and WebArena.
 - [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://awesomecua.com/resources/arxiv-2408-07199/) — 2024-08-13
   Agent Q combines guided tree search, self-critique and preference-based fine-tuning to train web agents from successful and unsuccessful interactions.
+- [UINav: A Practical Approach to Train On-Device Automation Agents](https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/) — 2024-06
+  Trains small Android automation agents from demonstrations, using macro actions with status checks, demonstration augmentation, and a referee model that predicts task completion to guide further demonstrations.
 - [Grounded Language Agent for Product Search via Intelligent Web Interactions](https://awesomecua.com/resources/arxiv-2404-10887/) — 2024-04-16
   Introduces GLAINTEL, a Flan-T5-based product-search web agent studied under unsupervised learning, demonstration-based training, and unsupervised domain adaptation. It compares ways to combine demonstrations with reinforcement learning.
 - [Scaling Instructable Agents Across Many Simulated Worlds](https://awesomecua.com/resources/arxiv-2404-10179/) — 2024-03-13
@@ -159,6 +161,10 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
 
 - [FedMABench](https://awesomecua.com/resources/github-wwh0411-fedmabench/) — Date not recorded
   A federated mobile-agent training and evaluation suite that varies user-data heterogeneity and application distribution, with released partition annotations and inference/scoring scripts.
+- [LearnGUI](https://awesomecua.com/resources/url-a7beaa489fc4ffeb555f/) — Date not recorded
+  Mobile GUI benchmark for learning from demonstrations: 2,252 offline tasks and 101 online tasks with human step-by-step trajectories, each query paired with one to three similar support demonstrations.
+- [TimeWarp](https://awesomecua.com/resources/github-sparklabutah-timewarp/) — Date not recorded
+  Web-agent benchmark on self-hosted Wiki, News and Shop sites, each with six era-styled UI versions, registering 231 BrowserGym tasks scored mainly by deterministic answer verifiers.
 
 ## Datasets
 
@@ -166,30 +172,54 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Published AgentSynth task definitions and recorded GUI trajectories, with OSWorld and InSTA training configurations and packaged screenshots, thoughts and commands.
 - [AutoDroid V2 training data](https://awesomecua.com/resources/url-9a3506ca6ef034adb424/) — Date not recorded
   Conversation-formatted supervision released for fine-tuning AutoDroid V2, with the project documenting a ShareGPT-style JSON configuration.
+- [FedMABench data partitions](https://awesomecua.com/resources/url-86b3c2ee65911daf84a8/) — Date not recorded
+  Six families of JSONL partitions of AndroidControl and AitW mobile-agent episodes for FedMABench federated training under app, category and step/episode heterogeneity; screenshots must be rebuilt from the sources.
 - [Go-Browse-WA processed data](https://awesomecua.com/resources/url-a13a187bc058fbb4f6af/) — Date not recorded
   Flattened web-interaction training records with accessibility-tree observations, assistant completions, trajectory rewards and step-link metadata.
 - [GUI-CIDER causal knowledge data](https://awesomecua.com/resources/url-d0300db5ba754b1a64fa/) — Date not recorded
   A published JSONL corpus of synthesized planning and causal knowledge for GUI-agent mid-training, linked directly from the official GUI-CIDER project.
 - [GUI-Net-1M](https://awesomecua.com/resources/url-8c9aaafb918aaf8b4e92/) — Date not recorded
   A TongUI-collected training corpus from multimodal web tutorials, distributed as annotation files and split screenshot archives for GUI trajectory supervision.
+- [GUI-Net-Mini](https://awesomecua.com/resources/url-0627940da1b988739f75/) — Date not recorded
+  TongUI training mixture: about 143K samples from WikiHow, Baidu Experience and GUI videos plus reprocessed AITW, AMEX, GUIAct, Mind2Web, MiniWoB and ShowUI data, as grounding and navigation JSON with screenshots.
 - [GUIMid training data](https://awesomecua.com/resources/url-422010da7a5c845a18f6/) — Date not recorded
   A released GUI-agent mid-training mixture and supporting domain datasets, together with a post-training trajectory file and image archives for web and mobile interaction.
+- [Mobile-R1 trajectory sample](https://awesomecua.com/resources/url-114ced4a94d12f384d69/) — Date not recorded
+  Open sample of Mobile-R1's annotated trajectories on Chinese Android apps: 1,007 tasks whose steps pair a screenshot with a thought, a subtask and a mobile_use action such as click, swipe, type or open.
 - [MONDAY annotations](https://awesomecua.com/resources/url-570654ff67ecefa2b955/) — Date not recorded
   Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
 - [MT-Mind2Web](https://awesomecua.com/resources/url-bdfb50330deb97893ce4/) — Date not recorded
   Multi-turn web-navigation conversations constructed from Mind2Web interactions, with dialogue turns, HTML snapshots, element candidates and click/type/select action sequences.
+- [OpenMobile-Data](https://awesomecua.com/resources/url-3849b18aa87edefc6afd/) — Date not recorded
+  OpenMobile's synthesized Android agent data: four LLaMA-Factory SFT split files built from AndroidWorld rollouts plus an archive of the original rollout trajectories and screenshots.
 - [OS-Genesis mobile training data](https://awesomecua.com/resources/url-d3ec5122a2b52fd5ae4b/) — Date not recorded
   Reverse-task-synthesis mobile trajectories released in separate AndroidControl and AndroidWorld training annotation files.
+- [OS-Genesis web training data](https://awesomecua.com/resources/url-31768421b4ecd1ad89f7/) — Date not recorded
+  Gated OS-Genesis web release holding one JSONL file of reverse-task-synthesis training trajectories and a screenshot archive, named in the project README as training data for its WA checkpoints.
 - [PC-Agent-E training data](https://awesomecua.com/resources/url-14449fe321e0a1ca34ea/) — Date not recorded
   Released dataset used to train PC-Agent-E, linked by the official pipeline for refining human trajectories and synthesizing action reasoning.
 - [PSAI Computer Use Dataset](https://awesomecua.com/resources/github-anaishowland-computeruse-data-psai/) — Date not recorded
   PSAI Computer Use Dataset provides 3,167 human-computer interaction trajectories with synchronized screen video, input events, and DOM/AX snapshots.
+- [SATraj-OS](https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/) — Date not recorded
+  Desktop computer-use trajectories with per-step screenshots and success, safety and attack labels, split into capability runs, safe-completion and refusal runs, and a legacy RiOSWorld-derived safety archive.
 - [ShowUI-π training data](https://awesomecua.com/resources/url-3dab53c6c38c9e7217ea/) — Date not recorded
   Drag-and-click episode data for the ShowUI-π model, spanning desktop editing, presentation, handwriting and other interface tasks.
 - [UI-Genie trajectory data](https://awesomecua.com/resources/url-2e1927450da2183a5abe/) — Date not recorded
   Synthetic mobile GUI trajectory supervision and screenshots released with the UI-Genie agent-training pipeline.
+- [Uni-GUI-Desktop-1](https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/) — Date not recorded
+  Desktop trajectories from the UI-MOPD training data, collected in OSWorld environments: 2,685 tasks across 10 app categories with step screenshots, reasoning traces, normalized actions and pyautogui code.
+- [Uni-GUI-Mobile](https://awesomecua.com/resources/url-93278fa5b9e6bd0cbcef/) — Date not recorded
+  Self-collected phone trajectories from the UI-MOPD training data: 871 tasks across 10 app categories, each with step screenshots, reasoning traces, normalized tap, swipe and type actions, and adb commands.
+- [Uni-GUI-OpenMobile](https://awesomecua.com/resources/url-66a0adb854eff694965d/) — Date not recorded
+  Android trajectories on 19 open-source apps from the UI-MOPD training data, collected via AndroidWorld: 2,640 tasks with step screenshots, reasoning traces and normalized click, swipe, type and answer actions.
 - [VideoCAD data](https://awesomecua.com/resources/url-2b5dead3172c0b70da7e/) — Date not recorded
   CAD screen recordings paired with action logs and target model images for studying precise interface control and long-horizon visual imitation.
+- [VideoCUA](https://awesomecua.com/resources/url-78adf6919bdbce42bc24/) — Date not recorded
+  Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordings with millisecond-timestamped mouse and keyboard action logs for about 10K tasks in 87 applications.
+- [WebArena-Infinity browser agent trajectories](https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/) — Date not recorded
+  Passing runs of three browser agents on 13 WebArena-Infinity web apps generated from product documentation, with per-step reasoning, actions, screenshots and programmatic verifier results.
+- [WebChain v2](https://awesomecua.com/resources/url-56f08987cc19b82dc607/) — Date not recorded
+  Cleaned v2 release of WebChain's human web trajectories, packaged as trajectory-level and Seed-style sliding-window SFT Parquet with aligned screenshots, plus action metadata and a 150-trace evaluation subset.
 - [WebEvolver SFT data](https://awesomecua.com/resources/url-e126bbd9729ebdaf05ab/) — Date not recorded
   Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and web world model.
 
@@ -199,15 +229,39 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories for website task execution.
 - [Llama-3-8B-Web](https://awesomecua.com/resources/url-7c3e8c4ba52428584079/) — Date not recorded
   A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions and dialogue, predicting browser actions from a textual state representation.
+- [OpenMobile-8B](https://awesomecua.com/resources/url-6616228d4f267363458e/) — Date not recorded
+  Mobile agent checkpoint with a Qwen3-VL architecture, released with OpenMobile and fine-tuned on its synthesized Android trajectories; the code README serves it with vLLM for AndroidWorld evaluation.
+- [OS-Genesis 4B AC](https://awesomecua.com/resources/url-b1837823421bd08cb826/) — Date not recorded
+  InternVL2-4B checkpoint fine-tuned on OS-Genesis AndroidControl trajectories; its card prompt pairs a screenshot and accessibility tree with the goal and action history to produce the next thought and action.
+- [OS-Genesis 4B AW](https://awesomecua.com/resources/url-a2362e23fdcbc73763e6/) — Date not recorded
+  InternVL2-4B checkpoint fine-tuned on OS-Genesis AndroidWorld trajectories; its card prompt pairs a screenshot and accessibility tree with the goal and action history to produce the next thought and action.
+- [OS-Genesis 4B WA](https://awesomecua.com/resources/url-807dadc7dc4ba995bbbe/) — Date not recorded
+  The WebArena-oriented InternVL2-4B checkpoint trained on web trajectories generated through OS-Genesis reverse task synthesis, predicting the next thought and action from an instruction, history and page.
 - [OS-Genesis 7B AC](https://awesomecua.com/resources/url-80858580c1009eba0e98/) — Date not recorded
   The AndroidControl-oriented Qwen2-VL checkpoint trained with mobile trajectories generated through OS-Genesis reverse task synthesis.
+- [OS-Genesis 7B AW](https://awesomecua.com/resources/url-7afa17db925828d9a035/) — Date not recorded
+  The AndroidWorld-oriented Qwen2-VL checkpoint trained on mobile trajectories generated through OS-Genesis reverse task synthesis, predicting the next thought and action from an instruction, history and screen.
+- [OS-Genesis 7B WA](https://awesomecua.com/resources/url-93c98e3b5aea945e0877/) — Date not recorded
+  The WebArena-oriented Qwen2-VL-7B checkpoint trained on web trajectories generated through OS-Genesis reverse task synthesis, predicting the next thought and action from an instruction, history and page.
+- [OS-Genesis 8B AC](https://awesomecua.com/resources/url-2be7f81cdca0eb8566c6/) — Date not recorded
+  AndroidControl-oriented InternVL2-8B checkpoint trained on OS-Genesis mobile trajectories; the card prompts it with a screenshot, accessibility tree, goal and action history for the next thought and action.
+- [OS-Genesis 8B AW](https://awesomecua.com/resources/url-2eaf614de14193997f33/) — Date not recorded
+  AndroidWorld-oriented InternVL2-8B checkpoint trained on OS-Genesis mobile trajectories; the card prompts it with a screenshot, accessibility tree, goal and action history for the next thought and action.
+- [OS-Genesis 8B WA](https://awesomecua.com/resources/url-f2c34526651f5f57cf98/) — Date not recorded
+  WebArena-oriented InternVL2-8B checkpoint trained on web trajectories from OS-Genesis reverse task synthesis; the card's example prompt pairs a screenshot and accessibility tree with the instruction and action history.
 - [PC-Agent-E checkpoint](https://awesomecua.com/resources/url-04aa7569d183379d615c/) — Date not recorded
   Computer-use checkpoint fine-tuned on PC-Agent-E trajectories; the model-card prose identifies Qwen2.5-VL-72B-Instruct as its starting model.
+- [UI-Act model](https://awesomecua.com/resources/github-tobiasnorlund-ui-act-model/) — Date not recorded
+  2023 GUI agent model: a text-conditioned encoder-decoder Transformer that reads full-screen captures through a convolutional encoder and predicts left clicks on a 4-pixel grid, demonstrated on GNOME Calculator.
+- [UI-Genie Agent 3B](https://awesomecua.com/resources/url-43d811a5957d8effb7ed/) — Date not recorded
+  A Qwen2.5-VL-3B mobile GUI action model fine-tuned on AndroidControl, AMEX, AndroidLab and UI-Genie synthetic trajectories to predict app launches, taps, swipes, typing and system-button presses.
 - [UI-Genie Agent 7B](https://awesomecua.com/resources/url-6d959b58bd4a2e98e417/) — Date not recorded
   A Qwen2.5-VL mobile action model trained using existing and reward-guided synthetic trajectories from the UI-Genie framework.
 
 ## Engineering & industry
 
+- [Ace](https://awesomecua.com/resources/url-7a35f44787f99834f13e/) — Date not recorded
+  General Agents' desktop autopilot, trained on recorded expert behavior, that predicts clicks, keystrokes and other actions from screenshots; its API client ships a macOS controller that executes them.
 - [Agent Lumos](https://awesomecua.com/resources/github-allenai-lumos/) — Date not recorded
   Agent Lumos provides unified training data and modular planning and grounding architectures for open-source language and web agents.
 - [Android-Skill-Agent](https://awesomecua.com/resources/github-xiru0834-eng-android-skill-agent/) — Date not recorded
@@ -254,6 +308,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Neo Lab is a macOS computer-use sandbox for recording demonstrations, replaying skills, and testing GUI automation plans.
 - [Open Record/Replay](https://awesomecua.com/resources/github-humblebanana-open-record-replay/) — Date not recorded
   Open Record/Replay records macOS user demonstrations with Accessibility metadata and compiles them into reusable agent skills.
+- [OpenMobile code](https://awesomecua.com/resources/github-njucckevin-openmobile-code/) — Date not recorded
+  OpenMobile pipeline for AndroidWorld: random-walk exploration, memory-based task-instruction synthesis, learner/expert policy-switching rollouts, conversion to LLaMA-Factory SFT data, and AndroidWorld evaluation.
 - [OpenWebVoyager](https://awesomecua.com/resources/github-minorjerry-openwebvoyager/) — Date not recorded
   OpenWebVoyager trains multimodal web navigation agents through iterative real-world web exploration, feedback verification, and trajectory tuning.
 - [Operant](https://awesomecua.com/resources/github-alpharomerojl-operant/) — Date not recorded
@@ -272,6 +328,8 @@ Full source records: https://awesomecua.com/downloads/topics/imitation-learning/
   Converts human screen demonstrations of real desktop and web work into verifiable, repeatable AI agent workflows.
 - [RishabhP1508 Understudy](https://awesomecua.com/resources/github-rishabhp1508-understudy/) — Date not recorded
   Records a single LLM-driven exploration of a legacy UI into a typed capability artifact for deterministic zero-LLM replay.
+- [Smol2Operator](https://awesomecua.com/resources/github-huggingface-smol2operator/) — Date not recorded
+  Hugging Face recipe that converts Aguvis GUI data into one normalized action space and fine-tunes SmolVLM2-2.2B in two phases, first for screenshot grounding and then for agentic GUI action code.
 - [Synapse](https://awesomecua.com/resources/github-ltzheng-synapse/) — Date not recorded
   A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
 - [Taprun (tap)](https://awesomecua.com/resources/github-leonting1010-tap/) — Date not recorded

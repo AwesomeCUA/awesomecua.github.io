@@ -228,6 +228,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Provides an evaluation toolkit for joint safety, efficiency, and multimodal robustness analysis of operating-system GUI agents.
 - [VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://awesomecua.com/resources/arxiv-2604-21375/) — 2026-04-23
   VLAA-GUI combines mandatory checks for visually supported completion, multi-tier loop recovery and on-demand workflow search. Optional coding and grounding agents support execution, with component ablations on Linux and Windows GUI tasks.
+- [LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent](https://awesomecua.com/resources/url-4395ff8522cd77109b83/) — 2026-04-20
+  Training-free GUI agent that indexes screen elements via icon detection and OCR, checks each step with multi-level reflection and recovers by fallback clicks or rollback; introduces LongGUIBench, tasks over 15 steps.
 - [Temporal UI State Inconsistency in Desktop GUI Agents: Formalizing and Defending Against TOCTOU Attacks on Computer-Use Agents](https://awesomecua.com/resources/arxiv-2604-18860/) — 2026-04-20
   This study examines UI changes between a desktop agent’s screenshot observation and action dispatch. Its pre-execution state checks address overlay and focus manipulation, while the reported DOM-injection blind spot limits the defense’s coverage.
 - [On the Reliability of Computer Use Agents](https://awesomecua.com/resources/arxiv-2604-17849/) — 2026-04-20
@@ -388,6 +390,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Measures how irrelevant GUI content affects multimodal agents using a simulated dataset and three perception patterns. The study also examines adversarial environment injection and possible ways to improve instruction faithfulness.
 - [Dissecting Adversarial Robustness of Multimodal LM Agents](https://awesomecua.com/resources/arxiv-2406-12814/) — 2024-06-18
   Introduces adversarial tasks on VisualWebArena and an evaluation framework that tracks how manipulated information passes between agent components. The analysis examines vulnerabilities introduced by reflection and tree-search evaluators as well as direct action generation.
+- [UINav: A Practical Approach to Train On-Device Automation Agents](https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/) — 2024-06
+  Trains small Android automation agents from demonstrations, using macro actions with status checks, demonstration augmentation, and a referee model that predicts task completion to guide further demonstrations.
 - [Benchmarking Mobile Device Control Agents across Diverse Configurations](https://awesomecua.com/resources/arxiv-2404-16660/) — 2024-04-25
   Introduces B-MoCA, an interactive mobile-control benchmark that varies device settings, layouts, and languages to test generalization.
 - [WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents](https://awesomecua.com/resources/arxiv-2404-05902/) — 2024-04-08
@@ -433,8 +437,12 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   dom-drift-bench evaluates four web extraction and grounding strategies across ten categories of structural DOM drift.
 - [drift-audit](https://awesomecua.com/resources/github-sebastianpuchet-drift-audit/) — Date not recorded
   Audits and classifies a browser-automation repository's selector maintenance history to quantify UI drift fragility.
+- [DynamicGUIBench](https://awesomecua.com/resources/url-20fa95f00391bf965af2/) — Date not recorded
+  Desktop benchmark of 500 OSWorld-style tasks whose interfaces change between observations through scripted pop-ups, timed edits and shifting lists, with bilingual instructions and end-state evaluators.
 - [FixtureBench](https://awesomecua.com/resources/github-prabal-singh-fixturebench/) — Date not recorded
   FixtureBench evaluates procurement browser agents on deterministic Coupa-style buyer/supplier portals with pagination, MFA, and decoy POs.
+- [GUI-Perturbed](https://awesomecua.com/resources/url-7ed70b39ac79f97f8a87/) — Date not recorded
+  Step-level web grounding benchmark that re-renders Mind2Web pages with style, zoom and text-size perturbations and pairs each screenshot with a direct or relational instruction and a target box.
 - [GUI-Robust](https://awesomecua.com/resources/github-chessbean1-gui-robust/) — Date not recorded
   Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.
 - [GUIHalluBench](https://awesomecua.com/resources/github-ant-research-guihallubench/) — Date not recorded
@@ -451,6 +459,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   MobileBench-OL provides an online evaluation harness for testing mobile GUI agents on real Android devices with dynamic task verification.
 - [OmniWebBench](https://awesomecua.com/resources/github-fanxutherealone-omniwebbench/) — Date not recorded
   OmniWebBench evaluates agentic browsers across end-to-end web navigation, action execution, failure recovery, and evidence verification.
+- [Open Operator Evals](https://awesomecua.com/resources/github-nottelabs-open-operator-evals/) — Date not recorded
+  Archived Notte Labs harness and results that run web agents eight times on a 30-task WebVoyager subset, judging each run with a GPT-4o screenshot judge and comparing it with the agent's self-reported success.
 - [OpenApps](https://awesomecua.com/resources/github-facebookresearch-openapps/) — Date not recorded
   Configurable browser apps and task rewards for testing computer-use agents under changes in content, layout and appearance.
 - [pms-race](https://awesomecua.com/resources/github-lgoyal6-pms-race/) — Date not recorded
@@ -461,8 +471,12 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Resurf is a deterministic, reproducible test environment for evaluating AI browser agents across realistic web failure modes.
 - [ScreenSpot-v2 instruction variants](https://awesomecua.com/resources/url-17729e1c532ba7043404/) — Date not recorded
   Instruction variants over ScreenSpot-v2 screenshots that distinguish original commands, explicit actions, target descriptions and impossible operations.
+- [SMAN-Bench](https://awesomecua.com/resources/github-gezelligheid0314-sman-bench/) — Date not recorded
+  Evaluation code for SMAN-Bench (Mobile-Bench-v2): AppAgent and Mobile-Agent-v2 runners replay recorded Android pages for single-path, multi-path, noisy and ambiguous tasks, scored by step and task success.
 - [Spider Browser Dataset](https://awesomecua.com/resources/github-spider-rs-spider-browser-dataset/) — Date not recorded
   Spider Browser Dataset benchmarks browser automation and anti-bot resilience across 999 URLs and 327 domains in 18 categories.
+- [TimeWarp](https://awesomecua.com/resources/github-sparklabutah-timewarp/) — Date not recorded
+  Web-agent benchmark on self-hosted Wiki, News and Shop sites, each with six era-styled UI versions, registering 231 BrowserGym tasks scored mainly by deterministic answer verifiers.
 - [UI-FaultLab](https://awesomecua.com/resources/github-kakoyvostorg-ui-faultlab/) — Date not recorded
   UI-FaultLab benchmarks auditable agent-versus-application failure attribution in visual UI testing workflows.
 - [Verisim](https://awesomecua.com/resources/github-clay-good-verisim/) — Date not recorded
@@ -478,6 +492,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Browser Agent Failure Corpus is a versioned dataset of browser-agent action failures, execution traces, and guardrail counterexamples.
 - [EnvDistraction](https://awesomecua.com/resources/github-xbmxb-envdistraction/) — Date not recorded
   EnvDistraction provides simulated GUI environments and evaluation scripts for measuring multimodal agent susceptibility to environmental distractions.
+- [FiftyOne GUI Grounding Training Set with Synthetic Augmentation](https://awesomecua.com/resources/url-c10fd1906c2e7ee289ec/) — Date not recorded
+  4,036 GUI screenshots, mostly macOS browser views, with interaction keypoints and task descriptions: 739 manually annotated originals plus 3,297 color-vision and reworded-task variants made with a FiftyOne plugin.
 - [RoTS](https://awesomecua.com/resources/github-alibabaresearch-rots/) — Date not recorded
   Announced GUI trajectory synthesis resources for recovery from policy-induced errors; the inspected repository marks code and data releases as in preparation.
 
@@ -489,6 +505,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Black-box adversarial prompt-injection red-teaming framework for training and evaluating controllable attacks against VLM web agents.
 - [AdvAgent (formerly AdvWeb)](https://awesomecua.com/resources/github-ai-secure-advagent/) — Date not recorded
   Research code for constructing and evaluating adversarial inputs to web agents, with a black-box red-team pipeline using Mind2Web data and SeeAct.
+- [AI Mime](https://awesomecua.com/resources/github-prakhar1114-ai-mime/) — Date not recorded
+  macOS app that records a demonstrated task, has an agent compile it into a portable skill of scripts, browser CDP steps and computer-use fallbacks, and patches the skill when a rerun breaks.
 - [AI-Agentic QA Framework](https://awesomecua.com/resources/github-daud-khan-qa-ai-agentic-qa-framework/) — Date not recorded
   Zero-dependency CDP browser driver and hydration-reliability testing framework for agentic web QA.
 - [Attest](https://awesomecua.com/resources/github-cyrus580529-attest/) — Date not recorded
@@ -505,6 +523,10 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   CGL advances continual GUI agent learning across evolving domains via reinforcement fine-tuning without catastrophic forgetting.
 - [ChangeShield](https://awesomecua.com/resources/github-kxvya18-chnage-shield/) — Date not recorded
   Self-repairing browser automation prototype that detects and adapts to third-party UI selector drift.
+- [CloudCruise](https://awesomecua.com/resources/url-c6f3c36e4603808ae9a6/) — Date not recorded
+  Managed browser-automation platform for healthcare portals and EHRs in which a builder agent turns a chat description into a reusable workflow graph that runs in cloud VMs and a maintenance agent repairs.
+- [DoomArena](https://awesomecua.com/resources/github-servicenow-doomarena/) — Date not recorded
+  A security-testing framework whose attack gateways wrap BrowserGym, OSWorld, tau-bench and mail-agent environments to inject pop-ups, banners and other adversarial content under configurable threat models.
 - [dsh-OpenLiulan (开放浏览)](https://awesomecua.com/resources/github-haodongzhang022-hue-openliulan/) — Date not recorded
   Self-healing browser control framework for DeepSeek Harness featuring semantic page perception and automated fault recovery.
 - [DualTAP](https://awesomecua.com/resources/github-fyzhang1-dualtap/) — Date not recorded
@@ -551,6 +573,8 @@ Full source records: https://awesomecua.com/downloads/topics/robustness/records.
   Resilient, cacheable fuzzy UI element identifiers and studio for Codex Computer Use recording and replay.
 - [Tsaagan](https://awesomecua.com/resources/github-michaelolmos-tsaagan/) — Date not recorded
   Tsaagan is a verify-first browser control framework for AI agents that proves every click and form action succeeded before advancing.
+- [UiPath ScreenPlay](https://awesomecua.com/resources/url-b09d10b87e42b7e74de9/) — Date not recorded
+  UiPath Studio activity whose Screen Agent turns natural-language task descriptions into self-driving UI automations on Windows, Linux and macOS, using a planner, a pixel grounder, DOM extraction and selectable LLMs.
 - [Unattended Android Automation Toolkit](https://awesomecua.com/resources/github-chuanchihsu1219-unattended-android-automation-toolkit/) — Date not recorded
   Reliability-first building blocks for unattended Android app automation, crash recovery, and UI state collection.
 - [VLAA-GUI](https://awesomecua.com/resources/github-ucsc-vlaa-vlaa-gui/) — Date not recorded

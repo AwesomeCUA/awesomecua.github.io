@@ -53,12 +53,19 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
 - [Automating the Enterprise with Foundation Models](https://awesomecua.com/resources/arxiv-2405-03710/) — 2024-05-03
   ECLAIR uses multimodal foundation models to automate enterprise workflows from natural-language descriptions, with initial studies of workflow understanding and completion.
 
+## 评测基准
+
+- [AutomotiveUI-Bench-4K](https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/) — Date not recorded
+  Offline test set of 998 photos and screenshots of in-vehicle infotainment screens from 15 brands, with 4,208 English annotations for locating UI elements and judging expected results as passed or failed.
+
 ## 工程与产业
 
 - [Anthropic](https://awesomecua.com/resources/organization-anthropic/) — Date not recorded
   Publisher or product brand associated with Anthropic computer-use or browser automation offerings.
 - [AskUI](https://awesomecua.com/resources/organization-askui/) — Date not recorded
   Publisher or product brand associated with AskUI computer-use or browser automation offerings.
+- [Asteroid](https://awesomecua.com/resources/url-a0a0c389d4def8e2d13a/) — Date not recorded
+  Hosted healthcare automation platform whose agents operate EHRs, payer portals and Windows, Linux or Citrix apps from the screen, then turn repeat runs into scripts or private-API calls served as an API.
 - [Browser Use](https://awesomecua.com/resources/organization-browser-use/) — Date not recorded
   Publisher or product brand associated with Browser Use computer-use or browser automation offerings.
 - [BrowserAct](https://awesomecua.com/resources/organization-browseract/) — Date not recorded
@@ -67,6 +74,8 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
   Publisher or product brand associated with Browserbase computer-use or browser automation offerings.
 - [Browserless](https://awesomecua.com/resources/organization-browserless/) — Date not recorded
   Publisher or product brand associated with Browserless computer-use or browser automation offerings.
+- [CUGA](https://awesomecua.com/resources/github-cuga-project-cuga-agent/) — Date not recorded
+  Enterprise generalist agent harness that plans over APIs and MCP or OpenAPI tools and, in web or hybrid mode, acts on pages through a browser extension, with intent guards, tool approval and tool guards.
 - [E2B](https://awesomecua.com/resources/organization-e2b/) — Date not recorded
   Publisher or product brand associated with E2B computer-use or browser automation offerings.
 - [Google](https://awesomecua.com/resources/organization-google/) — Date not recorded
@@ -77,6 +86,8 @@ Full source records: https://awesomecua.com/downloads/topics/industry/records.js
   Publisher or product brand associated with Hyperbrowser computer-use or browser automation offerings.
 - [Manus](https://awesomecua.com/resources/organization-manus/) — Date not recorded
   Publisher or product brand associated with Manus computer-use or browser automation offerings.
+- [Microsoft](https://awesomecua.com/resources/organization-microsoft/) — Date not recorded
+  Publisher or product brand associated with Microsoft computer-use or browser automation offerings.
 - [OpenAI](https://awesomecua.com/resources/organization-openai/) — Date not recorded
   Publisher or product brand associated with OpenAI computer-use or browser automation offerings.
 - [Simular](https://awesomecua.com/resources/organization-simular/) — Date not recorded

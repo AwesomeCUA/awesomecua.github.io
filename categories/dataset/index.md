@@ -1,10 +1,72 @@
 # Computer-use agent datasets
 
-> 99 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
+> 158 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-07T05:19:53Z.
 
 HTML page: https://awesomecua.com/categories/dataset/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## Agent Humanization Benchmark (AHB) recordings
+
+Touch-gesture and motion-sensor recordings of people and mobile GUI agents doing the same Chinese-language Android app tasks, with task lists and metadata for training detectors that tell agents from humans.
+
+- Catalog URL: https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/
+- Original source: https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: safety-security, mobile-navigation, evaluation
+- Evidence checked: 2026-10-18T15:51:35Z
+- ID: url:3e1a864c46c8ed5735d4
+
+### Limitations
+
+The Hub repository has no dataset card or license file; the arXiv paper and its code repository link it as the released data. The paper reports that all sessions ran on one Xiaomi Mi Max 2 phone with MIUI 11.0.2.0. Recording archives were not downloaded, so per-archive contents are not verified. Event totals are the paper's figures, not recounts.
+
+- Record JSON: https://awesomecua.com/resources/url-3e1a864c46c8ed5735d4/record.json
+
+### Structured profile
+
+- formats: ZIP archives, plain-text gesture logs, CSV, XLSX, Python pickle
+- modalities: touch input events, motion-sensor readings, task instructions
+- splits: not recorded
+- supervision: source labels for human users and named agent configurations, task success scoring in the metadata workbook
+
+#### Count observations
+
+- 116 task descriptions — metadata/tasks.csv at Hub revision 379fd3ef (computed) (computed; source: https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv)
+- 20 distinct app names — metadata/tasks.csv at Hub revision 379fd3ef (computed) (computed; source: https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv)
+- 21 applications — dataset described in the paper, grouped into five clusters (reported; source: https://arxiv.org/html/2604.09574v1)
+- 72 gesture-recording log files — three agent folders under gesture_recordings/ at Hub revision 379fd3ef (computed) (computed; source: https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe)
+- 7 gesture-recording ZIP archives — gesture_recordings/ at Hub revision 379fd3ef (computed) (computed; source: https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe)
+- 8 sensor-recording ZIP archives — sensor_recordings/ at Hub revision 379fd3ef (computed) (computed; source: https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe)
+- 37,768,698 motion and sensor events — four human sub-populations (paper Table 4) (reported; source: https://arxiv.org/html/2604.09574v1)
+- 243,090,929 motion and sensor events — five raw agent configurations (paper Table 4) (reported; source: https://arxiv.org/html/2604.09574v1)
+- 280,320,486 motion and sensor events — humanized agents without fake actions (paper Table 5) (reported; source: https://arxiv.org/html/2604.09574v1)
+- 154,704,094 motion and sensor events — humanized agents with fake actions (paper Table 5) (reported; source: https://arxiv.org/html/2604.09574v1)
+
+Computed counts come from a script over the pinned Hub file list and tasks.csv. tasks.csv names 20 apps while the paper reports 21. The task texts are in Chinese. The code repository says the metadata workbook holds agent, task, timestamp and success-scoring fields; it was not opened. Event counts are per sensor or touch event, not per task, and the four totals are separate populations, not to be summed.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: The Hub repository has no dataset card, license metadata or license file at this revision, and the linked code repository declares no license, so no data grant is established.
+  Sources: https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe (retrieved 2026-10-18T15:51:35Z; SHA-256 76ac24bccdf4d78e87f86f20ceadf0b3cf25e2d008b017c340908d520743ed3b)
+- https://huggingface.co/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/raw/379fd3ef8b7103757f160ea80ac80998165404fe/metadata/tasks.csv (retrieved 2026-10-18T15:51:35Z; SHA-256 5b906fbc0df5f8677516c1a2c1e47c7c3a191df320574c5c3a100e99616a5f24)
+- https://arxiv.org/html/2604.09574v1 (retrieved 2026-10-18T15:51:35Z; SHA-256 21c0f429eede313b7e3d302750bb5d77515af84b21c303c5fc5cc39138eb18c3)
+- https://raw.githubusercontent.com/Gebro13/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/8924fa3e687af6f264d3b91a2d2f48faf8adfd8c/README.md (retrieved 2026-10-18T15:51:36Z; SHA-256 20ddeb13fedd6e07ff06104b65a2bd09ff7422b28064d7442196301c5172b062)
+- https://huggingface.co/api/datasets/lyyang2766/Passing-the-Turing-Test-on-Screen-Agent-Humanization-Benchmark/revision/379fd3ef8b7103757f160ea80ac80998165404fe (retrieved 2026-10-18T15:51:35Z; SHA-256 76ac24bccdf4d78e87f86f20ceadf0b3cf25e2d008b017c340908d520743ed3b)
 
 ---
 
@@ -320,6 +382,59 @@ The main repository contains companion training code. The scale and annotation l
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
 - https://yxchai.com/AMEX/ (retrieved 2026-10-18T04:27:11Z; SHA-256 4aab61e6a95ab6b6598fb64b8e55d787cd49b5c4f242d15372aed2dd312f97aa)
 - https://raw.githubusercontent.com/YuxiangChai/AMEX-codebase/HEAD/LICENSE (retrieved 2026-10-16T06:42:02Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
+## AMEX dataset release
+
+Official Hub release of AMEX: Android app screenshots annotated for interactive-element grounding, screen and element functionality, and instructions with stepwise GUI-action chains.
+
+- Catalog URL: https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/
+- Original source: https://huggingface.co/datasets/Yuxiang007/AMEX
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: grounding, screen-understanding, mobile-navigation
+- Evidence checked: 2026-10-19T06:22:26Z
+- ID: url:1b2091d717c977d4f8b9
+
+### Limitations
+
+The card calls this the official dataset repository of the AMEX paper. The full release sits under AMEX/ as element_anno.zip, instruction_anno.zip and a screenshot archive split into eight 10 GiB parts plus a final zip (about 93.5 GB together); a sample/ folder holds one episode's five screenshots with its annotations. The card adds ScreenSpot mobile-subset and AndroidControl results that are not in the arXiv paper; they are publisher figures and were not reproduced. The card does not link the AMEX-codebase training-code repository, but the AMEX project page links both this dataset and that repository, which the catalog holds as the AMEX record github:yuxiangchai/amex-codebase; this release is recorded as its component. CC-BY-4.0 is the card's data declaration; that repository's Apache-2.0 code license is separate.
+
+- Record JSON: https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/record.json
+
+### Structured profile
+
+- formats: split ZIP archives, JSON, PNG
+- modalities: screenshots, element bounding boxes, functionality descriptions, instructions, actions
+- splits: not recorded
+- supervision: interactive-element grounding, screen and element functionality descriptions, instructions with stepwise GUI-action chains
+
+#### Count observations
+
+- > 104,000 screenshots — AMEX collection described in the arXiv v1 abstract (reported; source: https://arxiv.org/abs/2407.17490v1)
+- 3,046 instruction episodes — AMEX/instruction_anno.zip at revision 17196b29 (one JSON file per episode, unique episode_id) (computed) (computed; source: https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip)
+- 38,709 action steps — steps lists of the 3,046 instruction episodes in AMEX/instruction_anno.zip at revision 17196b29 (computed) (computed; source: https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip)
+
+Episode and step counts were computed with a script from the instruction archive; screenshots and element annotations were not downloaded, so the screenshot figure is the paper's reported scale. Each step records the action type, touch and lift coordinates, typed text, package name and screenshot path. No train/test split is published.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md (retrieved 2026-10-19T06:22:26Z; SHA-256 dbae95ce714b90305b09b8b7a9dd8d01c277f1f6a6d265f8210e9f6bab6a2192)
+- https://huggingface.co/api/datasets/Yuxiang007/AMEX/revision/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e (retrieved 2026-10-18T15:51:37Z; SHA-256 dad2a3226a7c3c2f74998be09f4e989a82bd91cf21b1cbd22211d807cfa91d97)
+- https://huggingface.co/datasets/Yuxiang007/AMEX/resolve/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/AMEX/instruction_anno.zip (retrieved 2026-10-18T15:51:38Z; SHA-256 673d89f1fee1b3be6ec8c3c380e24768265c04f0ece87d852ff185b05daa585a)
+- https://arxiv.org/abs/2407.17490v1 (retrieved 2026-10-18T15:51:39Z; SHA-256 0b19217aee442587ec75e7d691d4645f6d6125e82edf0c08ee5670a1a64ddfd8)
+- https://yxchai.com/AMEX/ (retrieved 2026-10-19T06:21:55Z; SHA-256 4aab61e6a95ab6b6598fb64b8e55d787cd49b5c4f242d15372aed2dd312f97aa)
+- https://huggingface.co/datasets/Yuxiang007/AMEX/raw/17196b29c88dd48a7fb90ef9131bc5c7bf39f26e/README.md (retrieved 2026-10-19T06:22:26Z; SHA-256 dbae95ce714b90305b09b8b7a9dd8d01c277f1f6a6d265f8210e9f6bab6a2192)
 
 ---
 
@@ -769,6 +884,59 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## Click-100k
+
+101,314 screenshot–instruction pairs with target boxes for click grounding, filtered from public GUI grounding sets and tutorial-video frames, packaged with EasyR1 point-prediction prompts.
+
+- Catalog URL: https://awesomecua.com/resources/url-bf847949766b2b257d1c/
+- Original source: https://huggingface.co/datasets/mlfoundations/Click-100k
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-18T15:54:59Z
+- ID: url:bf847949766b2b257d1c
+
+### Limitations
+
+Sources named by the card: ShowUI (web and desktop), AutoGUI, PC-Agent-E, WaveUI, OS-Atlas, UGround, PixMo Points, SeeClick, UI-Vision, a Jedi spreadsheet subset and frames from professional-application tutorial videos labelled with Claude 4 Sonnet (the card says 85 videos, the release README 80+). Each source was capped at 50k instances, and noisy or trivial samples were removed with OmniParser and grounding-model filters. The card says SeeClick, PixMo and UGround samples were excluded during RL training, so the training subset is smaller than the release. The release declares no data license, and the upstream sources keep their own terms. The training config names the dataset mlfoundations/clicks-100k, a spelling that differs from this Hub ID. Parquet files were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-bf847949766b2b257d1c/record.json
+
+### Structured profile
+
+- formats: Parquet
+- modalities: screenshots, instructions, bounding boxes
+- splits: train
+- supervision: element instructions with target bounding boxes
+
+#### Count observations
+
+- 101,314 examples — train split (dataset_info in the card metadata) (reported; source: https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md)
+- 64 Parquet shards — data/ at Hub revision f728db8f (computed) (computed; source: https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7)
+
+Each row holds an image path, the image, an EasyR1 prompt that embeds the element description, pixel and normalized boxes and the image size. Examples and shards are different units. Per-source counts are not given.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: Neither the dataset card nor the release repository declares a license for Click-100k; the code repository has no license file, and the upstream sources keep their own terms.
+  Sources: https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/mlfoundations/Click-100k/raw/f728db8f1dab96b09f8042c309fffb810f8e19e7/README.md (retrieved 2026-10-18T15:54:59Z; SHA-256 3d6d130f966f51338eb58cae805640aa37db9985a7bbc86fa95417bcbef4fe01)
+- https://huggingface.co/api/datasets/mlfoundations/Click-100k/revision/f728db8f1dab96b09f8042c309fffb810f8e19e7 (retrieved 2026-10-18T15:53:39Z; SHA-256 e3636612b79e3c042500613bf351bb4202669acaf1d3ccbb82cc73279bc049a8)
+- https://raw.githubusercontent.com/mlfoundations/Gelato/2a8757d473a63d34f71b043192d08dad61d298ee/README.md (retrieved 2026-10-18T15:53:38Z; SHA-256 437eb06553ed6d63d871d18842906b26b6148db5b0a5489064736ef6f5f0cfcf)
+- https://raw.githubusercontent.com/mlfoundations/Gelato/2a8757d473a63d34f71b043192d08dad61d298ee/training_configs/README.md (retrieved 2026-10-18T15:53:37Z; SHA-256 c2a6c7ebe068b732f3e2cf21ee085c1ca375e4c044e39a053bd34e74c0287669)
+
+---
+
 ## CMGUI
 
 18k trajectories with 98k steps from more than 50 Chinese mobile apps in domains such as e-commerce and social media, for building GUI agents on Chinese apps.
@@ -801,6 +969,165 @@ Inclusion does not establish reproducibility or endorsement.
 - https://huggingface.co/api/datasets/alibabagroup/CMGUI (retrieved 2026-10-16T06:38:26Z; SHA-256 aa1e063e73269acd0cb06adcef67d6230f0fe9498ed361d92234053dcf035685)
 - https://huggingface.co/datasets/alibabagroup/CMGUI/raw/main/README.md (retrieved 2026-10-17T16:10:26Z; SHA-256 6f43b9e5f2c783f91cc3271f51db6a9a521c29f21954a2a30ad0cfa186e1c1b7)
 - https://huggingface.co/api/datasets/alibabagroup/CMGUI (retrieved 2026-10-16T06:38:26Z; SHA-256 aa1e063e73269acd0cb06adcef67d6230f0fe9498ed361d92234053dcf035685)
+
+---
+
+## Computer Use Large (markov-ai)
+
+48,478 trimmed, audio-free screen-recording videos (about 12,300 hours) of AutoCAD, Blender, Excel, Photoshop, Salesforce and VS Code use, gathered from the internet, with duration metadata and no action labels.
+
+- Catalog URL: https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/
+- Original source: https://huggingface.co/datasets/markov-ai/computer-use-large
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: video, data-generation
+- Evidence checked: 2026-10-18T15:51:07Z
+- ID: url:f00b2ed65c517295a6cc
+
+### Limitations
+
+The card says the videos were sourced from the internet, trimmed to screen-recording segments and stripped of audio, and are meant for training and evaluating computer-use agents. Per-folder metadata.jsonl files give file name, category, trimmed duration and segment count only; there are no actions, cursor events or instructions. At Hub revision b50aecce the manifest lists 48,477 MP4 files, one fewer than the card (Excel has 8,110 against 8,111). The repository also holds descriptions.parquet and 48,473 per-video JSON files under descriptions/ that the card does not document; the one inspected file gives the source video's title and channel, transcript text in 10-second windows and a short step description or NO_TASK per window. The card's CC-BY-4.0 declaration does not establish rights to the third-party videos. Videos were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-f00b2ed65c517295a6cc/record.json
+
+### Structured profile
+
+- formats: MP4, JSONL, JSON, Parquet
+- modalities: screen-recording video, per-video duration metadata
+- splits: train
+- supervision: unlabeled screen recordings
+
+#### Count observations
+
+- 48,478 videos — all six software categories (reported; source: https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md)
+- ≈ 12,300 hours of video — all six software categories after trimming (reported; source: https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md)
+- 6 software categories — AutoCAD, Blender, Excel, Photoshop, Salesforce, VS Code (reported; source: https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md)
+- 48,477 MP4 files — data/ at Hub revision b50aecce (computed) (computed; source: https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9)
+- 48,473 per-video description JSON files — descriptions/ at Hub revision b50aecce (computed) (computed; source: https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9)
+
+File counts come from a script over the pinned Hub manifest; the card's per-category table gives Excel 8,111 videos where the manifest has 8,110 MP4 files. The description files are not described by the card; their content was checked in one file only. Videos, hours, categories and files are different units and are not summed. Each category is one configuration with a single train split.
+
+### License declarations
+
+- code: not recorded
+- data: CC-BY-4.0 — https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: Dataset-card metadata and License section declare CC-BY-4.0 for this release; the card says the videos were sourced from the internet, and the declaration does not establish rights to those third-party recordings or the software shown.
+  Sources: https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md (retrieved 2026-10-18T15:51:07Z; SHA-256 4e7feff2c4ea2420856a406dd3d74881928c4b86091412825001cf4610050f78)
+- https://huggingface.co/api/datasets/markov-ai/computer-use-large/revision/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9 (retrieved 2026-10-18T15:50:47Z; SHA-256 3b3f16168be7ff108abb2a9e55d716b1336601d33cb7c6b8b8b3729994f2d791)
+- https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/descriptions/vscode/-2x-5DN-caM_descriptions.json (retrieved 2026-10-18T15:50:47Z; SHA-256 50f55d2be263484950dc59bceb4b116a8daaeeb8fb38ee7ab6496a8723c29411)
+- https://huggingface.co/datasets/markov-ai/computer-use-large/raw/b50aeccec6d24a56ed4f8fbb9f5b2a16846b46a9/README.md (retrieved 2026-10-18T15:51:07Z; SHA-256 4e7feff2c4ea2420856a406dd3d74881928c4b86091412825001cf4610050f78)
+
+---
+
+## Computer Use Trajectories (markov-ai)
+
+160 successful OSWorld trajectories (1,378 steps) by a Gemini 3 Flash Preview agent with accessibility-tree grounding, with per-step screenshots, accessibility trees, pyautogui actions, responses and run logs.
+
+- Catalog URL: https://awesomecua.com/resources/url-5a073f50270c4f316ce5/
+- Original source: https://huggingface.co/datasets/markov-ai/computer-use
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: data-generation
+- Evidence checked: 2026-10-18T11:44:36Z
+- ID: url:5a073f50270c4f316ce5
+
+### Limitations
+
+The Hub API at revision de58c88b reports an ungated repository with 16 Parquet shards for the train split and 313 MP4 files under recordings/<domain>/. The card's 160 rows match its per-domain table, but the recording folders hold 313 files with a different domain mix, so some recordings may not belong to a published row; this was not checked. Every row has score 1.0 because only fully successful runs were kept, so the set is not a success-rate sample. The card credits a 'ComputerRL' evaluation framework at github.com/anthropics/ComputerRL, which the GitHub API did not resolve on 2026-10-18. The card declares Apache-2.0 for the dataset.
+
+- Record JSON: https://awesomecua.com/resources/url-5a073f50270c4f316ce5/record.json
+
+### Structured profile
+
+- formats: Parquet, MP4
+- modalities: screenshots, accessibility trees, task instructions, pyautogui actions, model responses, execution logs, screen recordings
+- splits: train
+- supervision: successful agent trajectories
+
+#### Count observations
+
+- 160 trajectories — train split (one row per task trajectory) (reported; source: https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md)
+- 1,378 steps — all 160 trajectories (reported; source: https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md)
+- 10 application domains — train split (reported; source: https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md)
+- 313 MP4 recording files — recordings/ at revision de58c88b (computed) (computed; source: https://huggingface.co/api/datasets/markov-ai/computer-use)
+
+Rows are agent runs filtered to score 1.0, not human demonstrations. Step and row counts are the card's figures; the Parquet files were not downloaded. Recording files were counted from the Hub manifest and do not equal the row count.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md (retrieved 2026-10-18T11:44:36Z; SHA-256 f0880c1d4db8005c9ca02218cf61781f347d4a11aa311aecf5b90119845f4381)
+- https://huggingface.co/api/datasets/markov-ai/computer-use (retrieved 2026-10-18T11:44:36Z; SHA-256 73c4ea92c82983d3bc5ac6b8565f199c33f52f4206e5203502d0bf817b5b02cd)
+- https://huggingface.co/datasets/markov-ai/computer-use/raw/de58c88b4b33dd03fa4d5d0f490748f576bd37b3/README.md (retrieved 2026-10-18T11:44:36Z; SHA-256 f0880c1d4db8005c9ca02218cf61781f347d4a11aa311aecf5b90119845f4381)
+
+---
+
+## CUA Speedrun results
+
+Trajectory archives and per-task results from CUA Speedrun evaluations of computer-use models on OSWorld subsets, CUA-World and MyPCBench, with verifier scores, measured task times and recorded or estimated costs.
+
+- Catalog URL: https://awesomecua.com/resources/url-099451a33699510476df/
+- Original source: https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: evaluation, efficiency, observability
+- Evidence checked: 2026-10-18T12:32:49Z
+- ID: url:099451a33699510476df
+
+### Limitations
+
+The publishing account is anonymous (anonymousmypcbench). The card names the benchmark sets used by CUA Speedrun but cites no paper, and neither the cua-speedrun paper, its project page nor its GitHub README links this repository, so no relation to the paper is asserted. Scores, task times and costs are the publisher's measurements and were not reproduced; several costs are API-equivalent token estimates rather than bills, and the card keeps two Kimi K3 OSWorld2 evaluations as billing-affected recordings. Screenshots for five September evaluations were deleted before publication. No license is declared. Archives were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-099451a33699510476df/record.json
+
+### Structured profile
+
+- formats: ZIP run archives, JSON, SHA-256 checksum lists
+- modalities: screenshots, agent transcripts, action logs, setup and verifier logs, timing and cost records
+- splits: not recorded
+- supervision: verifier task scores, agent-generated trajectories, measured task timings
+
+#### Count observations
+
+- 97 ZIP run archives — repository root at Hub revision 447ff4cd (computed) (computed; source: https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c)
+- 14 per-evaluation cost evidence JSON files — COST-*.json files at Hub revision 447ff4cd (computed) (computed; source: https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c)
+- 295 OSWorld tasks — Unanimous-295 set, with per-task metrics for nine models in one JSON file (reported; source: https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories/raw/447ff4cd77230ee06ee5b0e864873c43ceb0138c/README.md)
+
+Archive and cost-file counts come from a script over the pinned Hub file list; the card's tables link 39 of the 97 archives, so an archive count is not an evaluation count for one benchmark set. The sets differ in size (295, 50, 52, 26 and 38 tasks) and some tables use different tracks and measurement contracts, which the card says limits comparison across them. Mean scores include verifier partial credit; strict passes use recorded verdicts.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: Neither the card metadata nor its text declares a license, and the file list at this revision has no license file, so no data grant is established; agent outputs, screenshots and logged third-party content keep their own terms.
+  Sources: https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories/raw/447ff4cd77230ee06ee5b0e864873c43ceb0138c/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/anonymousmypcbench/cua-speedrun-trajectories/raw/447ff4cd77230ee06ee5b0e864873c43ceb0138c/README.md (retrieved 2026-10-18T12:32:49Z; SHA-256 948719ad1839eddc0ccc4e9e8a1de218876d96395522546b77e89f71e5df35a8)
+- https://huggingface.co/api/datasets/anonymousmypcbench/cua-speedrun-trajectories/revision/447ff4cd77230ee06ee5b0e864873c43ceb0138c (retrieved 2026-10-18T12:32:16Z; SHA-256 894abd6718d735a5845475c2630f7b5cf8c03a32b1046a9e643ee3f2f9f2f6f2)
 
 ---
 
@@ -991,6 +1318,168 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## FedMABench data partitions
+
+Six families of JSONL partitions of AndroidControl and AitW mobile-agent episodes for FedMABench federated training under app, category and step/episode heterogeneity; screenshots must be rebuilt from the sources.
+
+- Catalog URL: https://awesomecua.com/resources/url-86b3c2ee65911daf84a8/
+- Original source: https://huggingface.co/datasets/wwh0411/FedMABench
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, imitation-learning
+- Evidence checked: 2026-10-18T16:06:17Z
+- ID: url:86b3c2ee65911daf84a8
+
+### Limitations
+
+The Hub manifest at revision 4596a060 holds 41 JSONL partition files in six folders (Basic-AC 15, Category-Level 7, App-Level 5, Basic-AitW 5, Step-Episode 5, ScaleApp 4), plus split JSON files, an overview PDF and .DS_Store files; three folder names end with a trailing space. Inspected records are episode-level, with an instruction, step sub-instructions, original and converted actions, and image paths on the authors' machine. The FedMABench README says unpacked screenshots are not distributed and gives scripts to rebuild them from AndroidControl and AitW. Neither the card nor the Hub metadata declares a license, so the data license stays unknown. Partitions overlap, so their records are not summed.
+
+- Record JSON: https://awesomecua.com/resources/url-86b3c2ee65911daf84a8/record.json
+
+### Structured profile
+
+- formats: JSONL, JSON
+- modalities: text instructions, actions, screenshot paths (images not included)
+- splits: federated training partitions, validation sets
+- supervision: episode instructions, step sub-instructions, action sequences
+
+#### Count observations
+
+- 6 dataset families — FedMABench data release (reported; source: https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md)
+- > 30 subsets — FedMABench data release (reported; source: https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md)
+- > 800 apps — apps across five categories (reported; source: https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md)
+- 41 JSONL partition files — Hub manifest at revision 4596a060 (computed) (computed; source: https://huggingface.co/api/datasets/wwh0411/FedMABench/revision/4596a0608a24dddc3f6ba96fb326e915d9632f0b)
+
+A partition file is not a task, episode or client count. Screenshots are external dependencies that users rebuild from AndroidControl and AitW.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/wwh0411/FedMABench/raw/4596a0608a24dddc3f6ba96fb326e915d9632f0b/README.md (retrieved 2026-10-18T16:06:17Z; SHA-256 2874269995d8c9f5dabe266433ecf724bf54c27af599d899f3f0090b8ee37cdc)
+- https://huggingface.co/api/datasets/wwh0411/FedMABench/revision/4596a0608a24dddc3f6ba96fb326e915d9632f0b (retrieved 2026-10-18T16:05:47Z; SHA-256 e3511f0f47d9a40da0ead5ce2eb49f590c010ed6199be0fe052a852e0fc83edf)
+- https://raw.githubusercontent.com/wwh0411/FedMABench/417d8b0006830f423c7d07c213fc57277d75d966/README.md (retrieved 2026-10-18T16:05:47Z; SHA-256 b49e2b419918078ef9c68f3c9becc6c13d8fe530c165a36bdd61e370746eeea8)
+
+---
+
+## FiftyOne GUI Grounding Training Set
+
+739 GUI screenshots, mostly macOS browser views, labeled with interaction points, action types and per-action task descriptions in a COCO4GUI-based FiftyOne format for element grounding and click prediction.
+
+- Catalog URL: https://awesomecua.com/resources/url-f0eac3ad813245645492/
+- Original source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, web
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-18T15:34:01Z
+- ID: url:f0eac3ad813245645492
+
+### Limitations
+
+First published as harpreetsahota/FiftyOne-GUI-Grounding-Train, which the Hub now resolves to this repository. Per the card, the dataset curator captured and annotated the screenshots with the GUI annotation tool it links, between July 22 and August 8, 2025, mostly on macOS in Arc and Chrome. It is a small training set, not a benchmark; files other than samples.json and metadata.json were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-f0eac3ad813245645492/record.json
+
+### Structured profile
+
+- formats: FiftyOne dataset export (samples.json, metadata.json), PNG
+- modalities: screenshots, task descriptions, interaction keypoints
+- splits: train
+- supervision: human-placed interaction points, action types, natural-language task descriptions
+
+#### Count observations
+
+- 739 annotated screenshots — training set described by the card at revision ec67c2bf (reported; source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md)
+
+The Hub manifest at this revision lists 739 PNG files under data/. Computed from samples.json at this revision (26 MB, not retained as a receipt): 2,397 interaction keypoints (1,960 click, 185 hover, 158 select, 48 type, 46 drag) and platform labels of 704 macOS, 23 Mobile and 12 blank. Samples also carry a screenparser_preds detection field that the card does not describe; it is not counted as human annotation.
+
+### License declarations
+
+- code: not recorded
+- data: Apache-2.0 — https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: Publisher dataset-card declaration for this release; it does not establish rights to the third-party applications and websites shown in the screenshots.
+  Sources: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md (retrieved 2026-10-18T15:34:01Z; SHA-256 d41b2473cac9303784d9470a17c2d56f21e1f7980610acd20de6575817238b35)
+- https://huggingface.co/api/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/revision/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812 (retrieved 2026-10-18T15:34:01Z; SHA-256 49cf4994baaae0c3703b7b084e7c4640b9a57e9d4bdfa7c9484ad69d41a5eb78)
+- https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/metadata.json (retrieved 2026-10-18T15:34:01Z; SHA-256 607b0b21cb543562117e879949cacad745caec12ebadbb5c42010ac3f22898e8)
+- https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train/raw/ec67c2bfce4f6a9c9fcc52ce455c5b7a783dc812/README.md (retrieved 2026-10-18T15:34:01Z; SHA-256 d41b2473cac9303784d9470a17c2d56f21e1f7980610acd20de6575817238b35)
+- https://huggingface.co/api/datasets/harpreetsahota/FiftyOne-GUI-Grounding-Train (retrieved 2026-10-18T15:34:10Z; SHA-256 49cf4994baaae0c3703b7b084e7c4640b9a57e9d4bdfa7c9484ad69d41a5eb78)
+- https://huggingface.co/api/datasets/Voxel51/FiftyOne-GUI-Grounding-Train (retrieved 2026-10-18T15:34:10Z; SHA-256 49cf4994baaae0c3703b7b084e7c4640b9a57e9d4bdfa7c9484ad69d41a5eb78)
+
+---
+
+## FiftyOne GUI Grounding Training Set with Synthetic Augmentation
+
+4,036 GUI screenshots, mostly macOS browser views, with interaction keypoints and task descriptions: 739 manually annotated originals plus 3,297 color-vision and reworded-task variants made with a FiftyOne plugin.
+
+- Catalog URL: https://awesomecua.com/resources/url-c10fd1906c2e7ee289ec/
+- Original source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, web
+- Topics: grounding, data-generation, robustness
+- Evidence checked: 2026-10-18T15:59:00Z
+- ID: url:c10fd1906c2e7ee289ec
+
+### Limitations
+
+First published as harpreetsahota/FiftyOne-GUI-Grounding-Train-with-Synthetic, which the Hub now resolves to this repository. The card describes grayscale, color inversion, six color-vision simulations, resolution scaling and text variants, and says synthetic samples carry a transform_record field. The exported samples at revision 3deedc5d have no such field (metadata.json lists none), and their tags name only three transforms: 1,884 tritanopia, 942 color-inverted and 471 task-description-augmented samples. The 739 originals are tagged 370 train and 369 val, and every synthetic sample is tagged train. The card's Apache-2.0 declaration does not cover the third-party applications and websites in the screenshots.
+
+- Record JSON: https://awesomecua.com/resources/url-c10fd1906c2e7ee289ec/record.json
+
+### Structured profile
+
+- formats: FiftyOne dataset export (samples.json, metadata.json), PNG
+- modalities: screenshots, task descriptions, interaction keypoints
+- splits: train, val
+- supervision: human-placed interaction points, action types, natural-language task descriptions, programmatic image and text augmentations
+
+#### Count observations
+
+- 4,036 samples — whole release (reported; source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md)
+- 739 original annotated screenshots — real samples in the release (reported; source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md)
+- 3,297 synthetic variant samples — augmented samples in the release (reported; source: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md)
+- 4,036 PNG files — data/ at Hub revision 3deedc5d (computed) (computed; source: https://huggingface.co/api/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/revision/3deedc5d3667696aff317e5e8a3b47d83b9fb48c)
+
+Computed from samples.json at this revision (15.7 MB, read once, not retained as a receipt): 4,036 samples, of which 739 have plain timestamp file names and 3,297 carry a hash suffix; sample tags give 1,884 tritanopia, 942 color_inverted and 471 task_description_augmented variants, and 370 train plus 369 val originals; 17,916 keypoints in all, counted again on each variant; platform labels 3,721 macOS, 205 Mobile and 110 blank. Variants duplicate the annotations of their source screenshots, so samples are not independent examples. Samples, files and keypoints are different units and are not summed.
+
+### License declarations
+
+- code: not recorded
+- data: Apache-2.0 — https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: Publisher dataset-card declaration for this release; it does not establish rights to the third-party applications and websites shown in the screenshots.
+  Sources: https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md (retrieved 2026-10-18T15:59:00Z; SHA-256 44795390cfe06d7e1fe10541bb949f609cc1af8fd204857f6f6487eb3ba71895)
+- https://huggingface.co/api/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/revision/3deedc5d3667696aff317e5e8a3b47d83b9fb48c (retrieved 2026-10-18T15:58:38Z; SHA-256 3bb91cff67b20daec766bb819352cc443bc03a942985a27a2bb94f36734ddb60)
+- https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/metadata.json (retrieved 2026-10-18T15:58:39Z; SHA-256 350cc2918e6a826bfda5f5b5feb9f6f35320d5b7fd06eda1c677e269ee462d07)
+- https://huggingface.co/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic/raw/3deedc5d3667696aff317e5e8a3b47d83b9fb48c/README.md (retrieved 2026-10-18T15:59:00Z; SHA-256 44795390cfe06d7e1fe10541bb949f609cc1af8fd204857f6f6487eb3ba71895)
+- https://huggingface.co/api/datasets/Voxel51/FiftyOne-GUI-Grounding-Train-with-Synthetic (retrieved 2026-10-18T15:58:39Z; SHA-256 3bb91cff67b20daec766bb819352cc443bc03a942985a27a2bb94f36734ddb60)
+- https://huggingface.co/api/datasets/harpreetsahota/FiftyOne-GUI-Grounding-Train-with-Synthetic (retrieved 2026-10-18T15:58:39Z; SHA-256 3bb91cff67b20daec766bb819352cc443bc03a942985a27a2bb94f36734ddb60)
+
+---
+
 ## FingerTip-20K
 
 Over 20,000 human Android episodes across 500+ apps with user context and long-term usage patterns, plus tracks for proactive intent prediction and personalized execution.
@@ -1021,6 +1510,60 @@ Inclusion does not establish reproducibility or endorsement.
 ### Primary evidence
 
 - https://raw.githubusercontent.com/tsinghua-fib-lab/FingerTip-20K/HEAD/README.md (retrieved 2026-10-16T06:36:02Z; SHA-256 2c67c8b181e7196f3ca1e88888ffc5d6b32afca686a0e5c4353ad3f5af51ff9e)
+
+---
+
+## Gelato OS-World agent trajectories
+
+Gelato-30B-A3B and GTA1-32B OS-World agent runs, three trials each in the same GPT-5-planned GTA1.5-based harness, with per-task trajectories, initial and step screenshots, and automated results.
+
+- Catalog URL: https://awesomecua.com/resources/url-aed610c413d6bb9f1caa/
+- Original source: https://huggingface.co/datasets/mlfoundations/gelato-osworld-agent-trajectories
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: evaluation, observability
+- Evidence checked: 2026-10-18T15:37:17Z
+- ID: url:aed610c413d6bb9f1caa
+
+### Limitations
+
+The dataset card holds only license metadata; the description and scope come from the official Gelato README, which says this repository provides all of the agent's OS-World trajectories from runs on a fixed OS-World snapshot with GPT-5 as planner and a 50-step limit. The file list also holds the GTA1-32B baseline runs from the same harness, which the README compares but does not name as part of this release. The README reports 58.71 ± 0.66% automated and 61.85 ± 0.79% human-corrected success for Gelato-30B-A3B, against 56.97 ± 1.47% and 59.47 ± 1.27% for GTA1-32B; these were not reproduced. The GitHub repository has no license file; MIT is the dataset card's declaration. Files were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-aed610c413d6bb9f1caa/record.json
+
+### Structured profile
+
+- formats: JSONL, PNG, plain text
+- modalities: screenshots, action trajectories, task results
+- splits: not recorded
+- supervision: agent-generated trajectories, automated task results
+
+#### Count observations
+
+- 2,166 task trajectory directories with traj.jsonl — six run directories at Hub revision b9495a8e (computed) (computed; source: https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618)
+- 6 run directories — gelato-30b/run_1-3 and gta1-32b_baseline/run_1-3 at Hub revision b9495a8e (computed) (computed; source: https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618)
+- 361 distinct OS-World tasks — each run directory at Hub revision b9495a8e (the same task set in all six) (computed) (computed; source: https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618)
+- 34,598 PNG screenshots — six run directories at Hub revision b9495a8e (computed) (computed; source: https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618)
+
+Counts come from a script over the pinned Hub file list. Every task directory holds traj.jsonl, result.txt, an initial screenshot and step screenshots; the 361 tasks span 10 OS-World domain folders. Results are the automated evaluation; the README's human re-check of 20 tasks lives in the GitHub repository, not here. Directories, tasks and screenshots are different units and are not summed.
+
+### License declarations
+
+- code: not recorded
+- data: MIT — https://huggingface.co/datasets/mlfoundations/gelato-osworld-agent-trajectories/raw/b9495a8eca361b16d564e62cc0041ed3aecef618/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: Dataset-card metadata declaration (license: mit) for this release; the card has no other text, and the declaration does not establish rights to the applications or content shown in the screenshots.
+  Sources: https://huggingface.co/datasets/mlfoundations/gelato-osworld-agent-trajectories/raw/b9495a8eca361b16d564e62cc0041ed3aecef618/README.md
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/mlfoundations/Gelato/2a8757d473a63d34f71b043192d08dad61d298ee/README.md (retrieved 2026-10-18T15:37:17Z; SHA-256 437eb06553ed6d63d871d18842906b26b6148db5b0a5489064736ef6f5f0cfcf)
+- https://huggingface.co/api/datasets/mlfoundations/gelato-osworld-agent-trajectories/revision/b9495a8eca361b16d564e62cc0041ed3aecef618 (retrieved 2026-10-18T15:36:09Z; SHA-256 218daeb50d48f98a41b69b9eae6ef3bb7676b6a1da223574cbf3348490878c6f)
+- https://huggingface.co/datasets/mlfoundations/gelato-osworld-agent-trajectories/raw/b9495a8eca361b16d564e62cc0041ed3aecef618/README.md (retrieved 2026-10-18T15:36:09Z; SHA-256 d8d7a46d41a1a37fe4f0a5f637bf55c649310185329127d8a2204632e480be17)
 
 ---
 
@@ -1106,6 +1649,60 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+## GroundCUA dataset
+
+Desktop GUI-grounding data from the GroundCUA project: PNG screenshots of 87 applications paired by hash with JSON lists of element boxes, visible text and optional coarse categories.
+
+- Catalog URL: https://awesomecua.com/resources/url-f6c88faa4392848f81b6/
+- Original source: https://huggingface.co/datasets/ServiceNow/GroundCUA
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, windows, macos, linux
+- Topics: grounding, screen-understanding, data-generation
+- Evidence checked: 2026-10-18T15:33:17Z
+- ID: url:f6c88faa4392848f81b6
+
+### Limitations
+
+At revision 5d6845b0 a paged listing of the Hub tree gives 51,175 PNG screenshots under images/ and 51,175 JSON annotation files with the same hashes under data/, in 87 application folders. The project's GitHub README reports 56K screenshots and about 3.56M element annotations, so the Hub file count and the reported screenshot count differ. The card says categories are approximate and present only for some elements. The repository root also holds an instruction_tuning.tar.gz archive (about 202 MB) that the card does not describe. The card names Windows, macOS and Linux for the applications but does not label each screenshot's operating system. MIT is the card's data declaration and does not establish rights to the captured applications' content. Files were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-f6c88faa4392848f81b6/record.json
+
+### Structured profile
+
+- formats: PNG, JSON
+- modalities: desktop screenshots, element annotations
+- splits: not recorded
+- supervision: UI element bounding boxes, element text or short descriptions, coarse element categories for some elements
+
+#### Count observations
+
+- 51,175 screenshot-annotation file pairs — Hub release at revision 5d6845b0 (images/*.png matched by hash to data/*.json) (computed) (computed; source: https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data)
+- 87 application folders — data/ at revision 5d6845b0 (computed) (computed; source: https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data)
+- ≈ 56,000 screenshots — GroundCUA dataset as described in the project README (reported; source: https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md)
+- ≈ 3,560,000 element annotations — GroundCUA dataset as described in the project README (reported; source: https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md)
+
+Screenshots, file pairs, folders and element annotations are different units and are not summed. The pair count was computed by paging the recursive Hub tree of data/ and images/ at revision 5d6845b0; the listed receipt records the 87 application folders. The README figures describe the project dataset and were not reconciled with the Hub file count. No train/test split is declared.
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md (retrieved 2026-10-18T15:33:17Z; SHA-256 fe18179d2a2de962e29b9cb7efbad79add481c65840d235163af0b8cb88d72da)
+- https://huggingface.co/api/datasets/ServiceNow/GroundCUA?expand%5B%5D=sha&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=cardData&expand%5B%5D=lastModified (retrieved 2026-10-18T15:34:25Z; SHA-256 1dfb2e14b6113d469314c2f1b752214d8f6f795710387b9f0e3769d218179191)
+- https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3/data (retrieved 2026-10-18T15:33:17Z; SHA-256 a0534eba3c6ef17b9d63eec787825e29507eed375e778effe84230930e00628b)
+- https://huggingface.co/api/datasets/ServiceNow/GroundCUA/tree/5d6845b0116029d46ec762e734701c5b8ce207c3 (retrieved 2026-10-18T15:33:18Z; SHA-256 5ae73e5d203c9561fde9279e39e0dc15e375c2e806408d4addd8ae002de5849a)
+- https://raw.githubusercontent.com/ServiceNow/GroundCUA/94cba61693d6258c7100f7016a299b84b1bb7732/README.md (retrieved 2026-10-18T15:33:18Z; SHA-256 ea25e5db95415f19bcf42f37547912eed185b72441a4fa57a0c981a7f50d732a)
+- https://huggingface.co/datasets/ServiceNow/GroundCUA/raw/5d6845b0116029d46ec762e734701c5b8ce207c3/README.md (retrieved 2026-10-18T15:33:17Z; SHA-256 fe18179d2a2de962e29b9cb7efbad79add481c65840d235163af0b8cb88d72da)
+
+---
+
 ## GroundGUI RL Dataset
 
 Desktop grounding prompts selected from GroundCUA and formatted for click-based reinforcement learning with target-box rewards.
@@ -1188,6 +1785,57 @@ The Hub exposes train.zip and a card containing only license/language metadata. 
 - https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI/raw/main/README.md (retrieved 2026-10-17T02:42:32Z; SHA-256 31b964cfd198f99491f0f480024b2322fbdf3a237f7806847e83978109bc5856)
 - https://raw.githubusercontent.com/microsoft/Phi-Ground/HEAD/README.md (retrieved 2026-10-16T06:36:00Z; SHA-256 a0609394a736dc495d077cd57a2945b018123e5b3f9514d7d5bafb9e690aeae2)
 - https://huggingface.co/api/datasets/Miaosen/Grounding-Anything-GUI (retrieved 2026-10-17T02:42:32Z; SHA-256 c64f72eae3dd50d28996f99ab744a5093896e8bb29caa6f7b33a2f60a0b530a5)
+
+---
+
+## GTA1 cleaned grounding dataset
+
+Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box does not match an OmniParser-detected element.
+
+- Catalog URL: https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/
+- Original source: https://huggingface.co/datasets/HelloKKMe/grounding_dataset
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-18T12:28:59Z
+- ID: url:d46306ac1d0a0cce573a
+
+### Limitations
+
+Hub revision 5c0836a5 lists the card, inp.json and ten split image archive parts (image.part.aa to image.part.aj); the repository is not gated and has no card metadata. The card describes desktop and web grounding sources and names no paper; the GTA1 repository README links this repository as GTA1's training data and cleaned dataset, which supports the paper relation. Salesforce later published a separate grounding release with a different field schema and more source datasets; this record covers only this upload. The license comes from the GTA1 README, not the card.
+
+- Record JSON: https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/record.json
+
+### Structured profile
+
+- formats: JSON (inp.json), split binary image archive
+- modalities: GUI screenshots, bounding-box annotations
+- splits: training
+- supervision: instruction-to-bounding-box GUI grounding, OmniParser IoU filtering of annotated boxes
+
+#### Count observations
+
+No count recorded.
+
+inp.json (767,769,533 bytes) and ten image archive parts (208,677,206,554 bytes in total) were listed through the Hub API but not downloaded, so no example count is given; the Hub size band is not a sample count. The filtering step and its OmniParser IoU criterion come from the card and the GTA1 preprocessing code; the card notes that the filter can occasionally remove correct samples and puts such cases below 3% of the data.
+
+### License declarations
+
+- code: not recorded
+- data: CC-BY-NC-SA-4.0 — https://raw.githubusercontent.com/Yan98/GTA1/81f0c4c2997cf6ad696d42f47c5480f4c856b73a/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: The GTA1 repository README, which links this Hub repository as GTA1's training and cleaned dataset, states under License that the dataset follows CC BY-NC-SA 4.0 for non-commercial use only. The Hub card declares no license; upstream source images keep their own terms.
+  Sources: https://raw.githubusercontent.com/Yan98/GTA1/81f0c4c2997cf6ad696d42f47c5480f4c856b73a/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/HelloKKMe/grounding_dataset/raw/5c0836a55b4000d8dbf431bbe10c80d2f0d42fb1/README.md (retrieved 2026-10-18T12:28:59Z; SHA-256 cae816e6d5696a1122f836235b70a326a7d66a389d078cc48588cf20bd64a518)
+- https://huggingface.co/api/datasets/HelloKKMe/grounding_dataset/revision/5c0836a55b4000d8dbf431bbe10c80d2f0d42fb1 (retrieved 2026-10-18T12:27:44Z; SHA-256 74797aa594a98347ac080d446950094ac34076c749e39a6c99ab1a2751896c7f)
+- https://raw.githubusercontent.com/Yan98/GTA1/81f0c4c2997cf6ad696d42f47c5480f4c856b73a/README.md (retrieved 2026-10-18T12:27:44Z; SHA-256 16c633cc2e6e457a37f33b410a93c639edf7b55bb2b590e08f20734da7564951)
 
 ---
 
@@ -1440,6 +2088,61 @@ Public archive shards are present. The dataset card declares Apache-2.0; it does
 
 ---
 
+## GUI-Libra-81K-SFT
+
+SFT release of GUI-Libra-81K: per-step reasoning traces and coordinate-grounded actions over web and Android screenshots, in JSON annotation files with full, no-reasoning and 1,000-sample variants.
+
+- Catalog URL: https://awesomecua.com/resources/url-f6e1a7527f9346ed1c1d/
+- Original source: https://huggingface.co/datasets/GUI-Libra/GUI-Libra-81K-SFT
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web, android
+- Topics: data-generation, grounding, web-navigation, mobile-navigation
+- Evidence checked: 2026-10-18T12:32:45Z
+- ID: url:f6e1a7527f9346ed1c1d
+
+### Limitations
+
+The thin card only describes the annotation files and split image archives; the paper link, training role and data format come from the official GUI-Libra repository, whose SFT guide downloads this dataset. Annotations re-annotate screenshots from public sources (Mind2Web, GUIAct web, AITW, AMEX, AndroidControl, GUI-Odyssey, Android in the Zoo). Files were not downloaded; the 81K figure is the repository's.
+
+- Record JSON: https://awesomecua.com/resources/url-f6e1a7527f9346ed1c1d/record.json
+
+### Structured profile
+
+- formats: JSON, split tar.gz image archives
+- modalities: screenshots, instructions, interaction history, reasoning text, actions
+- splits: not recorded
+- supervision: step-level reasoning text, demonstrated GUI actions, coordinate-grounded targets
+
+#### Count observations
+
+- ≈ 81,000 reasoning steps — GUI-Libra-81K as described by the official repository README (reported; source: https://raw.githubusercontent.com/GUI-Libra/GUI-Libra/f3e9c78e5c6435d0fb39210191ce1ad284361120/README.md)
+- 32 JSON annotation files — data/annotations at revision 05bb2c5f: 8 source subsets, each with full, no-reasoning, 1,000-sample and 1,000-sample no-reasoning variants (computed) (computed; source: https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23)
+- 8 image archive groups — data/images at revision 05bb2c5f, stored as 9 split .tar.gz part files (computed) (computed; source: https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23)
+
+Steps, files and archive groups are different units and are not summed. Variant files overlap: the 1,000-sample and no-reasoning files are subsets or reformulations of the same source data, not additional examples. Per-file sample counts were not computed.
+
+### License declarations
+
+- code: not recorded
+- data: Apache-2.0 — https://huggingface.co/datasets/GUI-Libra/GUI-Libra-81K-SFT/raw/05bb2c5f7e81de38f3d7826739db46913dd08a23/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: Publisher dataset-card declaration for this release; it does not establish rights to the upstream screenshots and source datasets it repackages.
+  Sources: https://huggingface.co/datasets/GUI-Libra/GUI-Libra-81K-SFT/raw/05bb2c5f7e81de38f3d7826739db46913dd08a23/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/GUI-Libra/GUI-Libra-81K-SFT/raw/05bb2c5f7e81de38f3d7826739db46913dd08a23/README.md (retrieved 2026-10-18T12:32:45Z; SHA-256 dc2eec26b0c27a2d6478eb9972a6aa3c14b879cb743301c71571c31b14c802bd)
+- https://huggingface.co/api/datasets/GUI-Libra/GUI-Libra-81K-SFT/revision/05bb2c5f7e81de38f3d7826739db46913dd08a23 (retrieved 2026-10-18T12:32:46Z; SHA-256 ef92cfb5e07d55d121f269e6432e41bd6d0c37077a5ce770d2fd6f67287f1444)
+- https://raw.githubusercontent.com/GUI-Libra/GUI-Libra/f3e9c78e5c6435d0fb39210191ce1ad284361120/README.md (retrieved 2026-10-18T12:32:46Z; SHA-256 f34c5bcf454368db37dde4bb2229fd14ae5e4a118684c6d7fbb6a25f9f246911)
+- https://raw.githubusercontent.com/GUI-Libra/GUI-Libra/f3e9c78e5c6435d0fb39210191ce1ad284361120/SFT/README.md (retrieved 2026-10-18T12:32:46Z; SHA-256 de69ba44d3233547f25f8297edf60300b7a9a7ea261805bacbc00b118d0a08ff)
+- https://huggingface.co/datasets/GUI-Libra/GUI-Libra-81K-SFT/raw/05bb2c5f7e81de38f3d7826739db46913dd08a23/README.md (retrieved 2026-10-18T12:32:45Z; SHA-256 dc2eec26b0c27a2d6478eb9972a6aa3c14b879cb743301c71571c31b14c802bd)
+
+---
+
 ## GUI-Net-1M
 
 A TongUI-collected training corpus from multimodal web tutorials, distributed as annotation files and split screenshot archives for GUI trajectory supervision.
@@ -1492,6 +2195,59 @@ The source reports an approximate trajectory total; it does not establish per-pl
 
 ---
 
+## GUI-Net-Mini
+
+TongUI training mixture: about 143K samples from WikiHow, Baidu Experience and GUI videos plus reprocessed AITW, AMEX, GUIAct, Mind2Web, MiniWoB and ShowUI data, as grounding and navigation JSON with screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/url-0627940da1b988739f75/
+- Original source: https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android, web, desktop
+- Topics: data-generation, grounding, imitation-learning
+- Evidence checked: 2026-10-18T15:46:31Z
+- ID: url:0627940da1b988739f75
+
+### Limitations
+
+The card is titled TongUI-143K. The TongUI training docs list this repository beside GUI-Net-1M as 143k TongUI-collected samples plus about 240k from previous work, used for scaling experiments, and their default 3B configuration, which they say reproduces the paper's results, names 13 datasets whose dataset_info.json files are exactly this repository's 13 annotation files. A streaming script over those files counts 143,856 records in the three TongUI-collected files (WikiHow, Baidu Experience, GUI video) and 379,517 in the ten files reprocessed from AITW, AMEX, GUIAct, Mind2Web, MiniWoB and ShowUI; the card's 237K 'Other' figure matches the 237,564 records in eight of those ten, leaving out the AMEX element and ShowUI web grounding files (141,953 records). Records are LLaMA-Factory conversations: coordinate-prediction grounding turns, or navigation steps with a thought and a JSON action in a smartphone, computer or website action space depending on the file. Screenshots come as 24 split ZIP parts (about 254 GB in the manifest) that were not downloaded. Apache-2.0 is the card's declaration; the reprocessed datasets and the tutorial and video content keep their own terms.
+
+- Record JSON: https://awesomecua.com/resources/url-0627940da1b988739f75/record.json
+
+### Structured profile
+
+- formats: LLaMA-Factory JSON conversations, multipart ZIP image archive
+- modalities: screenshots, instructions, reasoning traces, actions
+- splits: training collection
+- supervision: GUI grounding coordinates, GUI navigation steps with thoughts and actions
+
+#### Count observations
+
+- ≈ 143,000 training samples — TongUI-collected part, card table (reported; source: https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md)
+- ≈ 237,000 training samples — data from other sources, card table (reported; source: https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md)
+- 13 JSON annotation files — Hub manifest at revision 7c1ed0cd (computed) (computed; source: https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12)
+- 24 split ZIP image archive parts — Hub manifest at revision 7c1ed0cd (computed) (computed; source: https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12)
+
+The card states numbers without a unit; the training docs call them training data. Record counts computed by streaming the 13 annotation files are in the record notes; the card's two figures and the file counts are different populations and units and are not summed. No validation or test split is published.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md (retrieved 2026-10-18T15:46:31Z; SHA-256 5559391b26a6541363ea50de16b1c91b3958c18b2668020ccd5daff3b33e5626)
+- https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-Mini/revision/7c1ed0cd8fea76d5eba868114d2d6374d4370a12 (retrieved 2026-10-18T15:46:29Z; SHA-256 c9a580a8e25cc011273aa2f7ea10a6045f10787897c51eed50dd172ea1c3cad7)
+- https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/82631b583180cdc870b4774d2495dd94f1558c46/docs/train.md (retrieved 2026-10-18T15:46:29Z; SHA-256 b51acb70c95d079ccbe1de0a685ad7c8a4b3b5bed11e6162e6f7c2f60d78805e)
+- https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/82631b583180cdc870b4774d2495dd94f1558c46/data/dataset_info.json (retrieved 2026-10-18T15:46:29Z; SHA-256 1287032d17f24bf89313569bd210811675a78d0b2fce73824502d23b16f06ad4)
+- https://huggingface.co/datasets/Bofeee5675/GUI-Net-Mini/raw/7c1ed0cd8fea76d5eba868114d2d6374d4370a12/README.md (retrieved 2026-10-18T15:46:31Z; SHA-256 5559391b26a6541363ea50de16b1c91b3958c18b2668020ccd5daff3b33e5626)
+
+---
+
 ## GUI-Odyssey
 
 Human-demonstrated Android episodes for cross-app navigation, spanning six task types, 212 apps and about 1,400 app combinations, for training and evaluating agents.
@@ -1537,6 +2293,55 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 - https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md (retrieved 2026-10-16T06:36:01Z; SHA-256 4585b765d7c8b3e9bb6187d36d576edde454d4c0158a6aa8b3fdbedf34c89a15)
 - https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md (retrieved 2026-10-16T11:39:52Z; SHA-256 fd627ee0a6ee0596e0ee8147996b9a7a3436f754fc95ed63cf5f408d778b2831)
 - https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/introduction.md (retrieved 2026-10-16T11:39:52Z; SHA-256 78c19ee712487af60df1913f11572958564e59a1a2cc663b1b30d971855d7a28)
+
+---
+
+## GUI-Odyssey — original OpenGVLab release
+
+Original Hub upload of GUI Odyssey: 7,735 cross-app Android navigation episodes from six emulated devices with per-step screenshots, actions and four split files, which the card says is superseded.
+
+- Catalog URL: https://awesomecua.com/resources/url-5f7e55313246edf727bf/
+- Original source: https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, cross-app, data-generation
+- Evidence checked: 2026-10-18T12:08:12Z
+- ID: url:5f7e55313246edf727bf
+
+### Limitations
+
+The card now asks users to switch to the newer hflqf88888/GUIOdyssey release, which reports a different episode total; this record keeps the earlier OpenGVLab upload, whose card still links the GUI-Odyssey repository and paper. Hub API at revision 71e0e7e2: not gated, with all_anno.json, 7,735 annotation JSON files, four split files and screenshot folders; its sibling list stops at 100,000 entries. A paginated Hub tree listing at the same revision counted 118,791 PNG files in 100 screenshot folders; zipped copies of annotations and screenshots sit under zips/. The card declares CC-BY-4.0 for the data.
+
+- Record JSON: https://awesomecua.com/resources/url-5f7e55313246edf727bf/record.json
+
+### Structured profile
+
+- formats: JSON annotations, PNG screenshots, zip archives
+- modalities: screenshots, instructions, actions, click and scroll coordinates, device metadata
+- splits: random, task, device, app
+- supervision: cross-app trajectories, action grounding
+
+#### Count observations
+
+- 7,735 episodes — original OpenGVLab/GUI-Odyssey release (reported; source: https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey/raw/71e0e7e2d169c642e7a99c264d82ffecadf67889/README.md)
+- 7,735 annotation JSON files — annotations/ at revision 71e0e7e2 (computed) (computed; source: https://huggingface.co/api/datasets/OpenGVLab/GUI-Odyssey/revision/71e0e7e2d169c642e7a99c264d82ffecadf67889)
+
+Each annotation file is one episode keyed by episode_id, with device, task (category, apps, meta-task, instruction) and per-step screenshot, action, info and ps fields; actions are CLICK, SCROLL, LONG_PRESS, TYPE, COMPLETE, IMPOSSIBLE, HOME and BACK, with coordinates normalized to 0-1000. Each split file lists train and test episode IDs. Screenshots were not counted from a retained receipt.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey/raw/71e0e7e2d169c642e7a99c264d82ffecadf67889/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey/raw/71e0e7e2d169c642e7a99c264d82ffecadf67889/README.md (retrieved 2026-10-18T12:08:12Z; SHA-256 e881ff64f9657889838715ff44588c4963a41b7b389d527da88214626fd8159a)
+- https://huggingface.co/api/datasets/OpenGVLab/GUI-Odyssey/revision/71e0e7e2d169c642e7a99c264d82ffecadf67889 (retrieved 2026-10-18T12:08:13Z; SHA-256 4a8355cb0fb25eb47234f7ed6eace6abf12e462768f7f9240f81577a58811c4e)
+- https://huggingface.co/datasets/OpenGVLab/GUI-Odyssey/raw/71e0e7e2d169c642e7a99c264d82ffecadf67889/README.md (retrieved 2026-10-18T12:08:12Z; SHA-256 e881ff64f9657889838715ff44588c4963a41b7b389d527da88214626fd8159a)
 
 ---
 
@@ -1623,6 +2428,118 @@ Taxonomy counts describe coverage, not the number of videos or questions. Cases 
 - https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md (retrieved 2026-10-17T02:03:23Z; SHA-256 905bf69ce80c866377841474cefe08f85ec4ef552cdd9ffeb2fb1531e07370b6)
 - https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/main/README.md (retrieved 2026-10-17T02:06:30Z; SHA-256 d2dd5886bce90f6eaee880719c79a6ede6ec0eaa08da32d7610bde656b8dc9ed)
 - https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50 (retrieved 2026-10-16T06:31:28Z; SHA-256 be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7)
+
+---
+
+## GUI-World data
+
+Hub release of GUI-World: GUI screen-recording videos from six scenarios (Android, iOS, website, software, multi-app and XR) with train and benchmark annotation JSONL for GUI-oriented video question answering.
+
+- Catalog URL: https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/
+- Original source: https://huggingface.co/datasets/ONE-Lab/GUI-World
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, android, ios, web
+- Topics: video, screen-understanding, evaluation
+- Evidence checked: 2026-10-18T11:41:24Z
+- ID: url:40ce19527f25bfa3bd63
+
+### Limitations
+
+This is the Hub data release; the repository record github:dongping-chen/gui-world covers the evaluation and GUI-Vid code and case studies, and its README calls this dataset the canonical train and test release. The Hub API at revision 7901fa3f reports an ungated repository with 12 annotation JSONL files (benchmark and train for each scenario) and 12,379 MP4 or MOV video files in per-scenario folders. The card has no license metadata field; its License section states CC BY 4.0. The GUI-Vid checkpoint is a separate Hub model and is not covered here.
+
+- Record JSON: https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/record.json
+
+### Structured profile
+
+- formats: MP4 and MOV video files, JSONL annotations
+- modalities: screen-recording videos, text annotations
+- splits: train, benchmark
+- supervision: GUI-oriented question-answer annotations
+
+#### Count observations
+
+- 12,379 video files — MP4 and MOV files in the Hub manifest at revision 7901fa3f (computed) (computed; source: https://huggingface.co/api/datasets/ONE-Lab/GUI-World)
+- 12 annotation files — JSONL files under Annotation/benchmark and Annotation/train at revision 7901fa3f (computed) (computed; source: https://huggingface.co/api/datasets/ONE-Lab/GUI-World)
+- 6 GUI scenario categories — dataset taxonomy (reported; source: https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md)
+- 8 question types — dataset taxonomy (reported; source: https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md)
+
+Video files were counted from the Hub file manifest, not by opening them, and are not question or annotation counts. The annotation files were not downloaded, so the number of questions per split is not recorded.
+
+### License declarations
+
+- code: not recorded
+- data: CC-BY-4.0 — https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: The card states that the work is licensed under CC BY 4.0. Because the declaration is prose rather than card metadata, enrich does not extract it, so it is recorded here.
+  Sources: https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/ONE-Lab/GUI-World/raw/7901fa3f0b9e36afa87d24ff9ecd48037c7fd6a0/README.md (retrieved 2026-10-18T11:41:24Z; SHA-256 d2dd5886bce90f6eaee880719c79a6ede6ec0eaa08da32d7610bde656b8dc9ed)
+- https://huggingface.co/api/datasets/ONE-Lab/GUI-World (retrieved 2026-10-18T11:41:24Z; SHA-256 dfb9a575c567a2fe97640cd1f1f73c8fa6ba970c392f335791f1ed857f504a89)
+- https://raw.githubusercontent.com/Dongping-Chen/GUI-World/master/Readme.md (retrieved 2026-10-18T11:41:24Z; SHA-256 905bf69ce80c866377841474cefe08f85ec4ef552cdd9ffeb2fb1531e07370b6)
+
+---
+
+## GUI-Xplore
+
+Per-app Android exploration videos with screenshot and action sequences, view hierarchies and question-answer pairs for five tasks, from app overview and page analysis to action recall and sequence verification.
+
+- Catalog URL: https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/
+- Original source: https://huggingface.co/datasets/9211sun/GUI-Xplore
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: video, mobile-navigation, screen-understanding, data-generation
+- Evidence checked: 2026-10-18T12:29:45Z
+- ID: url:f56dbd8bfac8b0545e07
+
+### Limitations
+
+The paper's arXiv HTML links github.com/921112343/GUI-Xplore, whose README names this Hub dataset as the release; the card itself does not cite the paper. View-hierarchy files use Android uiautomator classes and Android package names, and the paper describes collection with DroidBot and crowd workers on cloud mobile devices. The card's summary line gives 32,569 QA pairs while its split table totals 35,316. The repository README lists the Xplore-Agent model, checkpoints and evaluation scripts as not yet released. Data license is CC-BY-4.0 per card metadata; it does not settle rights in third-party app content.
+
+- Record JSON: https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/record.json
+
+### Structured profile
+
+- formats: MP4, PNG, JPEG, XML, JSON, CSV
+- modalities: exploration videos, screenshots, view hierarchies, actions, question-answer pairs
+- splits: auto, manual_train, manual_test
+- supervision: exploration recordings, question-answer annotations, action sequences
+
+#### Count observations
+
+- 312 apps — all splits (207 auto, 85 manual_train, 20 manual_test) (reported; source: https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md)
+- 34,367 screenshots — all splits (reported; source: https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md)
+- 41,293 actions — all splits (reported; source: https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md)
+- 15,934 question-answer samples — auto split (reported; source: https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md)
+- 16,744 question-answer samples — manual_train split (reported; source: https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md)
+- 2,638 question-answer samples — manual_test split (reported; source: https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md)
+- > 115 hours of exploration video — all apps (reported; source: https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md)
+- 312 MP4 exploration videos — files at Hub revision ebac33a0 (207 auto, 85 manual_train, 20 manual_test) (computed) (computed; source: https://huggingface.co/api/datasets/9211sun/GUI-Xplore/revision/ebac33a0fb368e005af499b5594db4278f49d3da)
+
+Reported counts come from the card's split table. A script over the 15 QA JSON files at revision ebac33a0 counted 15,934 auto, 16,744 manual_train and 2,634 manual_test entries (35,312 in total), so the card's manual_test figure is four higher than the released files. Apps, screenshots, actions, QA samples and video hours are different units and are not summed.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md (retrieved 2026-10-18T12:29:45Z; SHA-256 3a143538ccdd7ed4ec28974153b43cf44ab2f16dee46e7f74c6fb64e7ac458da)
+- https://huggingface.co/api/datasets/9211sun/GUI-Xplore/revision/ebac33a0fb368e005af499b5594db4278f49d3da (retrieved 2026-10-18T12:28:52Z; SHA-256 e2346ed137224f040c012a47d46f613facf449ec418a9ecbfecf97c0254d2fa3)
+- https://raw.githubusercontent.com/921112343/GUI-Xplore/3e87e22264a587a3b4ff093a0b7e35d76d1cc554/README.md (retrieved 2026-10-18T12:28:51Z; SHA-256 596648200fb473192bbab00f7b7e01680ec169c67d6a7ebf7978f299f1f4983d)
+- https://arxiv.org/html/2503.17709v1 (retrieved 2026-10-18T12:29:10Z; SHA-256 b7d8ea43f0db8c7b2432cee39e8bfb262c9c4bfd8a7290c0b50427d8eb1ac3fd)
+- https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/manual_test/data/vh/com_android_documentsui/vh_1724467408.9856646.xml (retrieved 2026-10-18T12:28:52Z; SHA-256 03b665dfc0b49e1721676ce9ffc63532c3b1589304fe6f63ac59f690ab61f76e)
+- https://huggingface.co/datasets/9211sun/GUI-Xplore/raw/ebac33a0fb368e005af499b5594db4278f49d3da/README.md (retrieved 2026-10-18T12:29:45Z; SHA-256 3a143538ccdd7ed4ec28974153b43cf44ab2f16dee46e7f74c6fb64e7ac458da)
 
 ---
 
@@ -1915,6 +2832,57 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 
 ---
 
+## GUIrilla-Task
+
+macOS screenshots paired with generated instructions and a ground-truth click or type action on a labelled element, collected by the GUIrilla accessibility-API crawler in app-disjoint train and test splits.
+
+- Catalog URL: https://awesomecua.com/resources/url-afe8260e6db2617b72ec/
+- Original source: https://huggingface.co/datasets/macpaw-research/GUIrilla-Task
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: grounding, action-prediction, data-generation
+- Evidence checked: 2026-10-18T12:27:04Z
+- ID: url:afe8260e6db2617b72ec
+
+### Limitations
+
+Each record holds the full screenshot, a cropped app-window image, the window's accessibility JSON, the element data (bounding box for clicks, insertion location and text for typing) and task/element categories. The card says GPT-4 agents drafted the tasks during crawling, so instructions are model-generated rather than human-written. The data license is CC-BY-NC-4.0 per card metadata and the bundled LICENSE; the separate MacPaw/GUIrilla code repository's MIT license is not transferred to the data. Sample rows were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-afe8260e6db2617b72ec/record.json
+
+### Structured profile
+
+- formats: Parquet
+- modalities: screenshots, cropped window images, accessibility trees, instructions, actions
+- splits: train, test
+- supervision: generated task instructions, ground-truth click and type actions, element bounding boxes
+
+#### Count observations
+
+- 25,606 examples — train split at Hub revision ec4853a2 (reported; source: https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md)
+- 1,565 examples — test split at Hub revision ec4853a2 (reported; source: https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md)
+- 101 Parquet shards — data/ files at Hub revision ec4853a2 (96 train, 5 test) (computed) (computed; source: https://huggingface.co/api/datasets/macpaw-research/GUIrilla-Task/revision/ec4853a26f96e1c8adcc31670054f58a67a87297)
+
+The card states the splits are application-level disjoint. Example counts come from the card's dataset_info and split table; shard counts were computed from the pinned Hub file list. An example is one screenshot-instruction-action triple, not a multi-step trajectory.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-4.0 — https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md (retrieved 2026-10-18T12:27:04Z; SHA-256 2ae8320c30f7d22085f290137e47dd2a735bf69e1a2c524bf1e340d9bd5ea658)
+- https://huggingface.co/api/datasets/macpaw-research/GUIrilla-Task/revision/ec4853a26f96e1c8adcc31670054f58a67a87297 (retrieved 2026-10-18T12:26:25Z; SHA-256 bccbc1dd9fd5aae317583d464c9119090984aea910cb8dd6be3cc077d6bbb037)
+- https://raw.githubusercontent.com/MacPaw/GUIrilla/15896d8c3158b7c4bbfaafc57582f1a28ff50074/README.md (retrieved 2026-10-18T12:26:24Z; SHA-256 9ffc792287271564b8dc841fa9b86f2cfc7d9f1e2b30c0d90aae059329f59273)
+- https://huggingface.co/datasets/macpaw-research/GUIrilla-Task/raw/ec4853a26f96e1c8adcc31670054f58a67a87297/README.md (retrieved 2026-10-18T12:27:04Z; SHA-256 2ae8320c30f7d22085f290137e47dd2a735bf69e1a2c524bf1e340d9bd5ea658)
+
+---
+
 ## Holo4 Trajectories
 
 Dataset of 7,366 computer-use agent execution trajectories from Holo4 27B and Holo4 35B-A3B, recording step-level reasoning, actions, tool results, and screenshots.
@@ -1946,6 +2914,61 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://huggingface.co/api/datasets/Hcompany/trajectories (retrieved 2026-10-17T05:32:58Z; SHA-256 147ea4deaadb2d9961302d2a15893d16cc90b40aa41d911ffe2dc2af794fe05c)
 - https://huggingface.co/api/datasets/Hcompany/trajectories (retrieved 2026-10-17T05:32:58Z; SHA-256 147ea4deaadb2d9961302d2a15893d16cc90b40aa41d911ffe2dc2af794fe05c)
+
+---
+
+## InSTA 150k Tasks (v3)
+
+About 150k web navigation tasks from the InSTA project, each giving a website domain, an instruction, suggested steps and success criteria, with train and test splits drawn from different websites.
+
+- Catalog URL: https://awesomecua.com/resources/url-a80c7330dbfd4f897693/
+- Original source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, data-generation
+- Evidence checked: 2026-10-18T16:03:36Z
+- ID: url:a80c7330dbfd4f897693
+
+### Limitations
+
+The card cites arXiv 2502.06776 (InSTA: Towards Internet-Scale Training For Agents) and points to an LLM judge in the separate data-for-agents/insta code repository, which is not part of this record. Rows are text task specifications, not agent trajectories or screenshots. The card declares MIT for the dataset.
+
+- Record JSON: https://awesomecua.com/resources/url-a80c7330dbfd4f897693/record.json
+
+### Structured profile
+
+- formats: Parquet
+- modalities: text
+- splits: train, test
+- supervision: task instructions, suggested step lists, success criteria
+
+#### Count observations
+
+- ≈ 150,000 tasks — complete v3 release (reported; source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md)
+- 143,508 examples — train split (reported; source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md)
+- 2,933 examples — test split (reported; source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md)
+- 2,933 distinct website domains — test split (computed) (computed; source: https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet)
+
+Split sizes are the card's dataset_info num_examples. The distinct-domain count was computed from the inspected test Parquet file; the train file was not downloaded.
+
+### License declarations
+
+- code: not recorded
+- data: MIT — https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: Publisher dataset-card declaration for the v3 task release; the InSTA code repository and the websites named in tasks are not covered by this evidence.
+  Sources: https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md (retrieved 2026-10-18T16:03:36Z; SHA-256 0a005ebed3bc549e700fb3d6a8db64a99fe28acce7c46ceb4c66cbe37c009d23)
+- https://huggingface.co/api/datasets/data-for-agents/insta-150k-v3 (retrieved 2026-10-18T16:03:35Z; SHA-256 480f7e251f32652812aafd5ffcb638a14c9612cec73bbb33c245f9685a542808)
+- https://huggingface.co/datasets/data-for-agents/insta-150k-v3/resolve/5a689ac657a24b0e55b1c0a0d690acfadd443c38/data/test-00000-of-00001.parquet (retrieved 2026-10-18T16:04:11Z; SHA-256 3ae8bb40fd3da6991c15e5d34579b0a631f9ad520ad70a09358ef99770cb239d)
+- https://huggingface.co/datasets/data-for-agents/insta-150k-v3/raw/5a689ac657a24b0e55b1c0a0d690acfadd443c38/README.md (retrieved 2026-10-18T16:03:36Z; SHA-256 0a005ebed3bc549e700fb3d6a8db64a99fe28acce7c46ceb4c66cbe37c009d23)
 
 ---
 
@@ -1994,6 +3017,370 @@ Coordinates were resized for a specified Qwen2.5-VL image processor and must rem
 - https://huggingface.co/api/datasets/xlangai/Jedi (retrieved 2026-10-16T09:33:18Z; SHA-256 63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad)
 - https://huggingface.co/datasets/xlangai/Jedi/raw/main/README.md (retrieved 2026-10-17T02:02:38Z; SHA-256 1d4d15c0cd27837602d55f0fda1ed91d9e8a98b33b3e3c4ba64decae42399558)
 - https://huggingface.co/api/datasets/xlangai/Jedi (retrieved 2026-10-16T09:33:18Z; SHA-256 63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad)
+
+---
+
+## MemGUI-Bench agent trajectories
+
+Recorded MemGUI-Bench runs of mobile GUI agents and models, packaged as per-agent ZIP archives with step screenshots, action logs and evaluator outputs, plus compressed trajectory previews for the leaderboard viewer.
+
+- Catalog URL: https://awesomecua.com/resources/url-2b7363c3a20d8022b319/
+- Original source: https://huggingface.co/datasets/lgy0404/memgui-bench-trajs
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, memory
+- Evidence checked: 2026-10-19T07:05:19Z
+- ID: url:2b7363c3a20d8022b319
+
+### Limitations
+
+The card says each attempt holds step screenshots, a log.json action sequence, evaluation_summary.json and final_decision.json, and action visualizations. The MemGUI-Bench README asks submitters to add a gzip JSON preview and MP4 under site/trajs/ through Hub pull requests. Archive names identify the agent or model, such as M3A, T3A, Mobile-Agent-E, Agent-S2, GUI-Owl-7B and several API models. The card's usage section shows an older run.py interface. Archives were not downloaded. The card's apache-2.0 declaration does not settle rights to app screenshots.
+
+- Record JSON: https://awesomecua.com/resources/url-2b7363c3a20d8022b319/record.json
+
+### Structured profile
+
+- formats: ZIP archives, gzip JSON, MP4
+- modalities: screenshots, action logs, evaluation results, video previews
+- splits: not recorded
+- supervision: agent execution trajectories with LLM-judged outcomes
+
+#### Count observations
+
+- 14 per-agent ZIP archives — Hub manifest at revision 4525fc5 (computed) (computed; source: https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a)
+- 19 gzip JSON trajectory preview bundles — site/trajs/ in the Hub manifest at revision 4525fc5 (computed) (computed; source: https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a)
+
+Archives and preview bundles are different packagings and overlap in the agents they cover; neither is a trajectory or task count. site/trajs/index.json lists only 9 of the 19 preview bundles.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/lgy0404/memgui-bench-trajs/raw/4525fc5b11cf0033cc31cafa78beb2237df6890a/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/lgy0404/memgui-bench-trajs/raw/4525fc5b11cf0033cc31cafa78beb2237df6890a/README.md (retrieved 2026-10-19T07:05:19Z; SHA-256 62d58168fbb7a1a7fd895627d839a4b37d0c46f9d2914c2888ea2356cc012735)
+- https://huggingface.co/api/datasets/lgy0404/memgui-bench-trajs/revision/4525fc5b11cf0033cc31cafa78beb2237df6890a (retrieved 2026-10-19T07:05:19Z; SHA-256 36b39075a426e792530250753c3befd3136b963e65b67e230ed1deedca9b1296)
+- https://huggingface.co/datasets/lgy0404/memgui-bench-trajs/raw/4525fc5b11cf0033cc31cafa78beb2237df6890a/site/trajs/index.json (retrieved 2026-10-19T07:05:21Z; SHA-256 d7889d1a5f6da09930ce70b128e304d61b08768c27bc0500cb9f8863b314a866)
+- https://raw.githubusercontent.com/lgy0404/MemGUI-Bench/3fb01b6cc0d13e287c67f488c76f449df7d65558/README.md (retrieved 2026-10-19T07:05:14Z; SHA-256 fab1bf3b766c2e59e46515dd60cf71b040986690b169bfcc0d35c6e9bc0f58fb)
+- https://huggingface.co/datasets/lgy0404/memgui-bench-trajs/raw/4525fc5b11cf0033cc31cafa78beb2237df6890a/README.md (retrieved 2026-10-19T07:05:19Z; SHA-256 62d58168fbb7a1a7fd895627d839a4b37d0c46f9d2914c2888ea2356cc012735)
+
+---
+
+## META-GUI dataset
+
+Hub release of META-GUI, task-oriented dialogues in which an agent operates mobile apps: each turn pairs the conversation with screenshots, view-hierarchy XML, recorded GUI actions and a reply.
+
+- Catalog URL: https://awesomecua.com/resources/url-05a9a7c592089d1ddd46/
+- Original source: https://huggingface.co/datasets/X-LANCE/META-GUI
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: mobile-navigation, human-in-the-loop, action-prediction
+- Evidence checked: 2026-10-18T15:46:20Z
+- ID: url:05a9a7c592089d1ddd46
+
+### Limitations
+
+The card only links the paper and the X-LANCE/META-GUI-baseline repository, which documents the raw dialog folders (dialog.json, per-turn actions.json, PNG screenshots and XML view hierarchies) and the processed data.json fields. The Hub manifest at revision 12660de5 holds train.tar and test.tar (about 14.3 GB and 1.8 GB); the baseline README instead describes train and dev folders from an Amazon S3 archive, and the split correspondence is not established. No source names the mobile operating system. The archives were not downloaded, so no dialogue or turn counts are recorded. Apache-2.0 is the Hub card's data declaration; the baseline code's MIT license is separate.
+
+- Record JSON: https://awesomecua.com/resources/url-05a9a7c592089d1ddd46/record.json
+
+### Structured profile
+
+- formats: TAR archives, JSON, PNG, XML
+- modalities: dialogue text, screenshots, view hierarchies, actions
+- splits: train, test
+- supervision: GUI action sequences per dialogue turn, target elements for clicks, system response text
+
+#### Count observations
+
+No count recorded.
+
+Splits are the two Hub archive names; the baseline README's processed data uses train and dev folders. Formats inside the archives come from the baseline README's raw-data description and were not inspected directly.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/X-LANCE/META-GUI/raw/12660de515ad55e40e8c4e5afa8f4d0e7430ab34/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/X-LANCE/META-GUI/raw/12660de515ad55e40e8c4e5afa8f4d0e7430ab34/README.md (retrieved 2026-10-18T15:46:20Z; SHA-256 cb86b4648766f07f671290abec4b75658496082a2e77661ca47aa593351eacda)
+- https://huggingface.co/api/datasets/X-LANCE/META-GUI/revision/12660de515ad55e40e8c4e5afa8f4d0e7430ab34 (retrieved 2026-10-18T15:45:56Z; SHA-256 ef370ba12e94c45d0fb74fe3e44b29f9e058e19fab739a15a6a1d04f4101460d)
+- https://raw.githubusercontent.com/X-LANCE/META-GUI-baseline/a845f88e7d89fe60d3666d15adb32d4e2ef907db/README.md (retrieved 2026-10-18T15:45:57Z; SHA-256 2cea1be73ea75acd46990ab1fb567fbd83ad58a2bc69ca858b207660df9fe8c1)
+- https://huggingface.co/datasets/X-LANCE/META-GUI/raw/12660de515ad55e40e8c4e5afa8f4d0e7430ab34/README.md (retrieved 2026-10-18T15:46:20Z; SHA-256 cb86b4648766f07f671290abec4b75658496082a2e77661ca47aa593351eacda)
+
+---
+
+## Mind2Web 2 task data and judge scripts
+
+Auto-gated Hub release of Mind2Web 2: dev and test task CSVs for long-horizon agentic web search, plus 130 per-task Python evaluation scripts that act as its judge agents.
+
+- Catalog URL: https://awesomecua.com/resources/url-4f4c4f0bf0cec93c59d1/
+- Original source: https://huggingface.co/datasets/osunlp/Mind2Web-2
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, long-horizon
+- Evidence checked: 2026-10-18T16:01:45Z
+- ID: url:4f4c4f0bf0cec93c59d1
+
+### Limitations
+
+The Hub API at revision 54f5b254 reports gated 'auto' (access is approved automatically after a logged-in request) and lists dev_set.csv and test_set.csv as the dev_set and test_set splits, a changelog, and 130 Python files under evaluation_scripts/2025_10_23. The card, changelog and task files sit behind that gate and were not read; the description comes from the project README, which links this dataset as its tasks and judge-agent evaluation scripts and says the scripts for both the public dev set and the test set were released on 2025-10-23. The Hub card metadata declares CC BY 4.0; the repository code is MIT and is not applied to the data. Per the README, scoring with the scripts needs model API keys, and precaching the cited webpages is optional but recommended.
+
+- Record JSON: https://awesomecua.com/resources/url-4f4c4f0bf0cec93c59d1/record.json
+
+### Structured profile
+
+- formats: CSV, Python
+- modalities: text, Python code
+- splits: dev_set, test_set
+- supervision: task definitions for live-web agentic search, per-task judge-agent evaluation scripts
+
+#### Count observations
+
+- 130 per-task evaluation scripts — evaluation_scripts/2025_10_23 in osunlp/Mind2Web-2 at revision 54f5b25 (computed) (computed; source: https://huggingface.co/datasets/osunlp/Mind2Web-2/tree/54f5b2546c30b86812d9564f4800c0c6f77deb45/evaluation_scripts/2025_10_23)
+
+The script count is the number of distinct .py files in the pinned tree listing. The dev and test task CSVs are behind the automatic access gate and were not opened, so no per-split task count is recorded.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/osunlp/Mind2Web-2
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/osunlp/Mind2Web-2/revision/54f5b2546c30b86812d9564f4800c0c6f77deb45 (retrieved 2026-10-18T16:01:45Z; SHA-256 c45e4a7945527c90d6854ea7ccee0e04d061ec160ef278c58f8e5d947a1d7a0e)
+- https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web-2/1fcbfda98bf5c669daa2ed0a27f1d2f2499475ee/README.md (retrieved 2026-10-18T16:01:21Z; SHA-256 5cc72b992cfc11094dcf341c284d5baadc6c66a302fdfd474b27913fe1c91f6f)
+- https://huggingface.co/api/datasets/osunlp/Mind2Web-2/tree/54f5b2546c30b86812d9564f4800c0c6f77deb45/evaluation_scripts/2025_10_23 (retrieved 2026-10-18T16:00:57Z; SHA-256 42844a52150a767be14adcad614f2973e537a7154944a24c0dcb6bce6bf47d9d)
+- https://huggingface.co/api/datasets/osunlp/Mind2Web-2/revision/54f5b2546c30b86812d9564f4800c0c6f77deb45 (retrieved 2026-10-18T16:01:45Z; SHA-256 c45e4a7945527c90d6854ea7ccee0e04d061ec160ef278c58f8e5d947a1d7a0e)
+
+---
+
+## Mind2Web bbox eval (MultiUI)
+
+Mind2Web steps repackaged by the MultiUI authors as JPEG screenshots with per-step JSONL queries and candidate-element boxes, for MultiUI's screenshot-based Mind2Web action evaluation.
+
+- Catalog URL: https://awesomecua.com/resources/url-56b5936190d20fa3d1c1/
+- Original source: https://huggingface.co/datasets/neulab/Mind2Web_bbox_eval
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, action-prediction, evaluation
+- Evidence checked: 2026-10-18T16:03:54Z
+- ID: url:56b5936190d20fa3d1c1
+
+### Limitations
+
+The Hub API at revision b089ea88 lists two ZIP archives (about 6.25 GB and 14.4 GB) beside a card that declares ODC-By; the repository is not gated. The card only names this the Mind2Web evaluation set for the MultiUI paper. The MultiUI README calls it its processed Mind2Web evaluation dataset, places it under its Mind2Web-SeeAct offline-experiment directory and runs eval_m2w.py on test_task, test_website or test_domain. Archive contents were read from their ZIP central directories and one sample query, not unpacked: each step folder, named by Mind2Web annotation and action IDs, holds a queries.jsonl with the task, previous actions, target operation and positive and negative candidate elements with bounding boxes, plus JPEG images. The archive named for ground-truth crops also has a train split; the paper's Appendix H says screenshots are randomly cropped around the target element. Mind2Web's own data terms are not resolved here; ODC-By is the card declaration.
+
+- Record JSON: https://awesomecua.com/resources/url-56b5936190d20fa3d1c1/record.json
+
+### Structured profile
+
+- formats: ZIP archives, JSONL, JPEG
+- modalities: screenshots, task instructions, previous actions, target operations, candidate elements with bounding boxes
+- splits: train, test_task, test_website, test_domain
+- supervision: next-action prediction on Mind2Web steps, candidate-element bounding boxes
+
+#### Count observations
+
+No count recorded.
+
+Counts were taken with a script from the archives' ZIP central directories at revision b089ea88 and have no retained receipt, so they are kept here rather than as count observations. bbox_generate_gt_crop_offline_data_-1choices.zip: 16,715 step folders with one JPEG each (train 7,357; test_task 2,093; test_website 1,370; test_domain 5,895). offline_data_-1choices.zip: 9,364 step folders with 27,967 JPEGs, test splits only (test_task 2,093; test_website 1,373; test_domain 5,898). Step folders are not tasks; distinct annotation IDs per split are train 1,009, test_task 252, test_website 177 and test_domain 912, with the same test counts in both archives.
+
+### License declarations
+
+- code: not recorded
+- data: odc-by — https://huggingface.co/datasets/neulab/Mind2Web_bbox_eval/raw/b089ea88cd2cabc44c10d62f7e99a896a4aeaf2d/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/neulab/Mind2Web_bbox_eval/raw/b089ea88cd2cabc44c10d62f7e99a896a4aeaf2d/README.md (retrieved 2026-10-18T16:03:54Z; SHA-256 ef5fe8c440d4670845bb315570bff678673ea2fa3953871fb60f0e82c67df970)
+- https://huggingface.co/api/datasets/neulab/Mind2Web_bbox_eval/revision/b089ea88cd2cabc44c10d62f7e99a896a4aeaf2d (retrieved 2026-10-18T16:02:59Z; SHA-256 e662d712439d9cfc547fc2b1834051c194eff072e3947281a3588281662f49ab)
+- https://huggingface.co/api/datasets/neulab/Mind2Web_bbox_eval/tree/b089ea88cd2cabc44c10d62f7e99a896a4aeaf2d (retrieved 2026-10-18T16:02:59Z; SHA-256 b623f067568ec9fa36b4caed1b7de98a01d0d4197945ce42de078d32be508698)
+- https://raw.githubusercontent.com/neulab/MultiUI/e261d8ad3d329a8b6e719cfd4f6a6d8e6df3cede/README.md (retrieved 2026-10-18T16:02:59Z; SHA-256 fe0c03fe73529a29788d559103c4aed48dca6ed9ba3bfd5f151f902fa8858b38)
+- https://arxiv.org/html/2410.13824v3 (retrieved 2026-10-18T16:03:00Z; SHA-256 383ada0c47d09acea6b865ed67571c9540b2d602bd6b0ea8ad3130121efd190c)
+- https://huggingface.co/datasets/neulab/Mind2Web_bbox_eval/raw/b089ea88cd2cabc44c10d62f7e99a896a4aeaf2d/README.md (retrieved 2026-10-18T16:03:54Z; SHA-256 ef5fe8c440d4670845bb315570bff678673ea2fa3953871fb60f0e82c67df970)
+
+---
+
+## Mind2Web data
+
+Hub release of Mind2Web's crowdsourced web-task demonstrations: train-split JSON with raw and cleaned HTML, candidate elements and CLICK/TYPE/SELECT steps, plus a password-protected archive of the three test splits.
+
+- Catalog URL: https://awesomecua.com/resources/url-380a6eedcb4de7778e88/
+- Original source: https://huggingface.co/datasets/osunlp/Mind2Web
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, action-prediction, data-generation
+- Evidence checked: 2026-10-18T11:38:06Z
+- ID: url:380a6eedcb4de7778e88
+
+### Limitations
+
+This is the Hub data release, distinct from the code and benchmark repository github:osu-nlp-group/mind2web. The Hub API at revision 17ece8eb reports an ungated repository holding 11 train JSON shards, test.zip and scores_all_data.pkl. The card declares CC BY 4.0 for the data; the code repository's MIT license is not applied to it. Multimodal-Mind2Web (paired screenshots) and the raw trace dump are separate releases and are not covered here.
+
+- Record JSON: https://awesomecua.com/resources/url-380a6eedcb4de7778e88/record.json
+
+### Structured profile
+
+- formats: JSON, password-protected ZIP (test splits)
+- modalities: task descriptions, raw HTML, cleaned HTML, candidate elements, actions
+- splits: train, test_task, test_website, test_domain
+- supervision: crowdsourced action sequences, ground-truth target elements
+
+#### Count observations
+
+- > 2,000 tasks — full Mind2Web collection (reported; source: https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md)
+- 137 websites — full Mind2Web collection (reported; source: https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md)
+- 31 domains — full Mind2Web collection (reported; source: https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md)
+- 1,009 task instances — train split (reported; source: https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md)
+- 252 task instances — cross-task test split (test_task) (reported; source: https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md)
+- 177 task instances — cross-website test split (test_website) (reported; source: https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md)
+- 912 task instances — cross-domain test split (test_domain) (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md)
+
+Each instance is one task with its multi-step action sequence, so instance counts are not step counts. The card prints the cross-domain size as '9,12'; the repository README gives 912. The test splits are released only as a ZIP whose password the README publishes, with a request not to redistribute the unzipped files. scores_all_data.pkl holds candidate-ranking outputs of a tuned DeBERTa-v3-base model, not annotations.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md (retrieved 2026-10-18T11:38:06Z; SHA-256 d2da20abbf17ac82f874d78ced28ceaaf3b15466011d3674deaa2c4597862a4a)
+- https://huggingface.co/api/datasets/osunlp/Mind2Web (retrieved 2026-10-18T11:38:07Z; SHA-256 25fcf0a0ee9c1c89b33cdae0ebe7ffd5721e4685fe4b74377184be983bd1f597)
+- https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md (retrieved 2026-10-18T11:38:07Z; SHA-256 157dbd840264ea29f958c0b7383d63783845c573b3e19a1f39b773be22e0b32d)
+- https://huggingface.co/datasets/osunlp/Mind2Web/raw/17ece8eb89862368edc0cc806acee6fca5163474/README.md (retrieved 2026-10-18T11:38:06Z; SHA-256 d2da20abbf17ac82f874d78ced28ceaaf3b15466011d3674deaa2c4597862a4a)
+
+---
+
+## Mind2Web-Live
+
+Task files for the WebCanvas live-web benchmark: 438 training and 104 test tasks derived from Mind2Web, each with key-node checks on URLs or page elements that score intermediate progress.
+
+- Catalog URL: https://awesomecua.com/resources/url-03ffa3f28413bc2edb1b/
+- Original source: https://huggingface.co/datasets/iMeanAI/Mind2Web-Live
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-10-18T15:45:39Z
+- ID: url:03ffa3f28413bc2edb1b
+
+### Limitations
+
+The files hold task instructions, reference task lengths and key-node evaluation functions (URL inclusion or exact match, element path and value matches, and semantic URL and value matches), not trajectories or page snapshots. Agents run on live websites through the WebCanvas framework, so results depend on site changes, location and time. The test file was revised on 2024-10-24; the 2024-05-28 test file stays under old_version with 104 tasks and 444 key nodes, which with the 1,995 training key nodes gives the 2,439 states the WebCanvas README reports. The card itself links only the WebCanvas repository and declares CC-BY-4.0.
+
+- Record JSON: https://awesomecua.com/resources/url-03ffa3f28413bc2edb1b/record.json
+
+### Structured profile
+
+- formats: JSON
+- modalities: task instructions, URL and page-element evaluation functions
+- splits: train (2024-05-28 file), test (2024-10-24 file)
+- supervision: key-node evaluation annotations, reference task lengths
+
+#### Count observations
+
+- 438 tasks — train file mind2web-live_train_20240528.json at Hub revision 160677b5 (computed) (computed; source: https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json)
+- 1,995 key-node evaluation entries — train file mind2web-live_train_20240528.json at Hub revision 160677b5 (computed) (computed; source: https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json)
+- 104 tasks — test file mind2web-live_test_20241024.json at Hub revision 160677b5 (computed) (computed; source: https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json)
+- 443 key-node evaluation entries — test file mind2web-live_test_20241024.json at Hub revision 160677b5 (computed) (computed; source: https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json)
+- 542 tasks — original Mind2Web-Live release as described in the WebCanvas README (reported; source: https://raw.githubusercontent.com/iMeanAI/WebCanvas/b9f289128614cd99b97abd0bb9bfc3a45f0847e0/README.md)
+
+Tasks and key-node evaluation entries are different units. The revised test file has one fewer key node than the original 2024-05-28 test file.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/iMeanAI/Mind2Web-Live
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/iMeanAI/Mind2Web-Live (retrieved 2026-10-18T15:45:39Z; SHA-256 1d1ea013b8b39f2c526dec3846bd750199c5570c0961b7495ff3d1b99924438d)
+- https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/raw/160677b57f6a608e6d63b51849a33d2920b35588/README.md (retrieved 2026-10-18T15:45:39Z; SHA-256 8ac014447b87cd4450289e5e3b3254e0f8ad9a90d31e76b0efcb70c402aaa80e)
+- https://raw.githubusercontent.com/iMeanAI/WebCanvas/b9f289128614cd99b97abd0bb9bfc3a45f0847e0/README.md (retrieved 2026-10-18T15:45:39Z; SHA-256 5b2b4b4ce1241db7fd776f2ba0856ec2e0e441a56fa6461234abe0c6516f643e)
+- https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_train_20240528.json (retrieved 2026-10-18T15:45:39Z; SHA-256 026adb028cc07f72e39af0952c8770fa630d59ea8ceffb4dc4fab5e01fd57b35)
+- https://huggingface.co/datasets/iMeanAI/Mind2Web-Live/resolve/160677b57f6a608e6d63b51849a33d2920b35588/mind2web-live_test_20241024.json (retrieved 2026-10-18T15:45:40Z; SHA-256 abc2032302fed1ac801539ecc6003dd73ff0aafe824aaf9450e4e504a8ff83f2)
+- https://huggingface.co/api/datasets/iMeanAI/Mind2Web-Live (retrieved 2026-10-18T15:45:39Z; SHA-256 1d1ea013b8b39f2c526dec3846bd750199c5570c0961b7495ff3d1b99924438d)
+
+---
+
+## Mobile-R1 trajectory sample
+
+Open sample of Mobile-R1's annotated trajectories on Chinese Android apps: 1,007 tasks whose steps pair a screenshot with a thought, a subtask and a mobile_use action such as click, swipe, type or open.
+
+- Catalog URL: https://awesomecua.com/resources/url-114ced4a94d12f384d69/
+- Original source: https://huggingface.co/datasets/Mobile-R1/Mobile-R1
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, imitation-learning
+- Evidence checked: 2026-10-19T06:56:13Z
+- ID: url:114ced4a94d12f384d69
+
+### Limitations
+
+The card describes this release as an open-sourced sample: the full Mobile-R1 dataset has 24,521 manually annotated instances from 4,635 trajectories, of which 1,007 trajectories on 28 applications are published. Instructions, thoughts and subtasks are in Chinese. Each data.jsonl row carries the app name, instruction, system prompt, screen size and a step list whose entries hold an image filename, thought, subtask, a mobile_use function call and the full model-style response. The card's apache-2.0 declaration covers this release and does not settle rights to the app screenshots.
+
+- Record JSON: https://awesomecua.com/resources/url-114ced4a94d12f384d69/record.json
+
+### Structured profile
+
+- formats: JSONL, PNG images
+- modalities: screenshots, instructions, thoughts, subtask descriptions, actions
+- splits: not recorded
+- supervision: manually annotated trajectories
+
+#### Count observations
+
+- 1,007 trajectories — Mobile-R1 Hub release (card statistics) (reported; source: https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md)
+- 28 applications — Mobile-R1 Hub release (card statistics) (reported; source: https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md)
+- 3,924 samples (steps) — Mobile-R1 Hub release (card statistics) (reported; source: https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md)
+- 1,007 data.jsonl rows — Mobile-R1 Hub release at revision c3904f0 (computed) (computed; source: https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl)
+- 3,899 trajectory step entries — Mobile-R1 Hub release at revision c3904f0 (computed) (computed; source: https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl)
+- 3,924 PNG files under images/ — Mobile-R1 Hub release at revision c3904f0 (computed) (computed; source: https://huggingface.co/api/datasets/Mobile-R1/Mobile-R1/revision/c3904f0fdad03a3a4191492880312bda5ad36516)
+
+Counts in different units are not summed. The card's 3,924 samples equal the number of PNG files in the manifest, but data.jsonl references 3,899 distinct images, all present, leaving 25 files unreferenced. The rows use 30 non-empty app_name strings, including variant spellings of the same app (B站 and 哔哩哔哩), plus 5 rows with an empty name, so the card's 28 applications was not recomputed. No train/test split is declared.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md (retrieved 2026-10-19T06:56:13Z; SHA-256 c92e2343802f3b669e2efd1818ee48080c1eb992fc44237d564a5853b08fd625)
+- https://huggingface.co/api/datasets/Mobile-R1/Mobile-R1/revision/c3904f0fdad03a3a4191492880312bda5ad36516 (retrieved 2026-10-19T06:56:14Z; SHA-256 3379e01e9e163c27700a3c11a8647cef1311faad72f740a58d8255ab2342ed98)
+- https://huggingface.co/datasets/Mobile-R1/Mobile-R1/resolve/c3904f0fdad03a3a4191492880312bda5ad36516/data.jsonl (retrieved 2026-10-19T06:56:15Z; SHA-256 a5af20573ee10ee858ab6b464cc7ed27b964cd6c967993b3711967c3069ebce3)
+- https://huggingface.co/datasets/Mobile-R1/Mobile-R1/raw/c3904f0fdad03a3a4191492880312bda5ad36516/README.md (retrieved 2026-10-19T06:56:13Z; SHA-256 c92e2343802f3b669e2efd1818ee48080c1eb992fc44237d564a5853b08fd625)
 
 ---
 
@@ -2095,6 +3482,168 @@ Counts describe the card’s first-release claim, not an independently counted a
 - https://huggingface.co/api/datasets/mllmTeam/MobileViews (retrieved 2026-10-16T06:38:26Z; SHA-256 d36d62283deecd3c5ccf1ac1af49aa7ba779a1d69cdcaea39a1bed37ff5d66b9)
 - https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md (retrieved 2026-10-17T14:10:01Z; SHA-256 94a4f04e180dbd597c271b0d7470c907e6526b95a6420f01b3183feb1ee24d6e)
 - https://huggingface.co/api/datasets/mllmTeam/MobileViews (retrieved 2026-10-16T06:38:26Z; SHA-256 d36d62283deecd3c5ccf1ac1af49aa7ba779a1d69cdcaea39a1bed37ff5d66b9)
+
+---
+
+## MoCon
+
+Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; images not included.
+
+- Catalog URL: https://awesomecua.com/resources/url-c7489f15e7883a695832/
+- Original source: https://huggingface.co/datasets/OpenDFM/MoCon
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: screen-understanding, data-generation
+- Evidence checked: 2026-10-18T16:15:57Z
+- ID: url:c7489f15e7883a695832
+
+### Limitations
+
+The card, shared with its sibling crawl release, carries only the license, links and citation requests, and the pre-release PDF it links is a two-page announcement framed around mobile GUI agents without methods or statistics. Contents were read from the 15.6 MB mocondata.zip (SHA-256 98463d69…, matching the Hub LFS object): one LabelMe 4.5.9 JSON file per screenshot whose imagePath names a JPEG that is not in the repository and whose imageData is empty. A script counted 364,352 rectangles: 212,342 labelled icon with one of the 154 icon.csv classes (in Chinese or English) and 152,010 text boxes labelled with a font family (sans, fantasy, serif, cursive, mono or math) and the transcribed text. Image sizes are mostly 1080×1920 and 540×960 portrait. No operating system is named, so the environment stays unspecified. CC BY-NC-SA 4.0 is the card's data declaration.
+
+- Record JSON: https://awesomecua.com/resources/url-c7489f15e7883a695832/record.json
+
+### Structured profile
+
+- formats: LabelMe JSON, ZIP, CSV
+- modalities: bounding-box annotations, UI text transcriptions
+- splits: train, val, test
+- supervision: icon bounding boxes with class labels, text bounding boxes with transcribed text and font-family labels
+
+#### Count observations
+
+- 6,972 annotated screenshots — MoCon train split (computed) (computed; source: https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv)
+- 1,143 annotated screenshots — MoCon val split (computed) (computed; source: https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv)
+- 2,249 annotated screenshots — MoCon test split (computed) (computed; source: https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv)
+- 154 icon classes — icon.csv class table (Chinese and English names) (computed) (computed; source: https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/icon.csv)
+
+split.csv assigns each of the 10,364 annotation IDs to exactly one split, and the IDs match the JSON file names in mocondata.zip one to one. Screenshot images are referenced by file name but not released, so the annotations cannot be paired with pixels from this repository alone. The publisher states no counts; all counts were computed from the released files.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-sa-4.0 — https://huggingface.co/datasets/OpenDFM/MoCon/raw/e37127c9ad04ccd5a1381aa60054683eda8a5462/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/OpenDFM/MoCon/raw/e37127c9ad04ccd5a1381aa60054683eda8a5462/README.md (retrieved 2026-10-18T16:15:57Z; SHA-256 7d930295e3a7b1cc8b1b186a242f53963214df78156567e90184b39ebbf479dd)
+- https://huggingface.co/api/datasets/OpenDFM/MoCon (retrieved 2026-10-18T16:15:56Z; SHA-256 9ddd265eeda4ed7439927fefd24805573c46fb9ee072341b8129a377d720f8f5)
+- https://huggingface.co/api/datasets/OpenDFM/MoCon/tree/e37127c9ad04ccd5a1381aa60054683eda8a5462 (retrieved 2026-10-18T16:16:12Z; SHA-256 4cbfe0afb8a5b37901a986d9bfcb38c2e6bd9455eebdb95879039c15c205d6a9)
+- https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/split.csv (retrieved 2026-10-18T16:15:58Z; SHA-256 281c3b35f822b9e7b278552c663718df17ba698fccc8ef65ef29280cbae2dd18)
+- https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/icon.csv (retrieved 2026-10-18T16:15:59Z; SHA-256 409e9b424de315eafd248f80030221b70c4f372355f88b1ce36b076c52db1ef5)
+- https://huggingface.co/datasets/OpenDFM/MoCon/resolve/e37127c9ad04ccd5a1381aa60054683eda8a5462/MoGUI_Paper_v0.1.pdf (retrieved 2026-10-18T16:16:00Z; SHA-256 5f7a66c12756ae057bbd3216e45b874825e671769e751cd7efb31081d05a52f5)
+- https://huggingface.co/datasets/OpenDFM/MoCon/raw/e37127c9ad04ccd5a1381aa60054683eda8a5462/README.md (retrieved 2026-10-18T16:15:57Z; SHA-256 7d930295e3a7b1cc8b1b186a242f53963214df78156567e90184b39ebbf479dd)
+
+---
+
+## MoGUI
+
+Android app GUI crawl with per-app navigation graphs that link screen IDs through the UI action taken, plus 200 archive shards of the captured screens.
+
+- Catalog URL: https://awesomecua.com/resources/url-be89a250747f507a27ef/
+- Original source: https://huggingface.co/datasets/OpenDFM/MoGUI
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, data-generation, mobile-navigation
+- Evidence checked: 2026-10-19T06:19:12Z
+- ID: url:be89a250747f507a27ef
+
+### Limitations
+
+The card carries only the license, links and citation requests (MobA, META-GUI, CAM-GUI and a MoGUI/MoCon technical report); the complete report it announces as coming soon is not linked, so no paper relation is recorded. The repository's MoGUI_Paper_v0.1.pdf is a two-page pre-release announcement without methods or statistics. Android is established by the metadata: Google Play package names, android.widget element classes and Android permission-controller screens. At revision 19639219 the manifest holds 200 metadata JSON shards, 200 moguidata tar.gz shards totalling about 1.14 TB, and an apk_infos.json file of Google Play listing fields per package. Metadata shard 1 alone holds navigation graphs for 1,084 app packages listing 13,726 valid screens; other shards were not counted. A streamed read of the start of the first tar.gz shard showed per-app folders of PNG screenshots with same-named XML files; the archives were not downloaded. CC BY-NC-SA 4.0 is the card's data declaration and does not establish rights to the third-party apps shown. The sibling MoCon dataset is a separate release.
+
+- Record JSON: https://awesomecua.com/resources/url-be89a250747f507a27ef/record.json
+
+### Structured profile
+
+- formats: JSON, tar.gz archives, PNG, XML
+- modalities: UI action strings naming element text, package, widget class and bounds, screenshots (seen in a partial archive read), XML view hierarchies (seen in a partial archive read)
+- splits: not recorded
+- supervision: crawled screen-transition navigation graphs
+
+#### Count observations
+
+No count recorded.
+
+Each metadata shard maps an app package to a root screen, a valid-screen list and a navigation graph whose nodes are screen hashes with next screens and the triggering actions. No total app, screen or transition count is stated by the publisher; only metadata shard 1 was counted, and file counts are not sample counts.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-sa-4.0 — https://huggingface.co/datasets/OpenDFM/MoGUI/raw/19639219617d083a03e24842fc620e010cc63189/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/OpenDFM/MoGUI/raw/19639219617d083a03e24842fc620e010cc63189/README.md (retrieved 2026-10-19T06:19:12Z; SHA-256 bb6ec801aed5db9d540cf3ccbae6a5e6bc2c26348d69dd34c72c3d88a57492b8)
+- https://huggingface.co/api/datasets/OpenDFM/MoGUI/revision/19639219617d083a03e24842fc620e010cc63189 (retrieved 2026-10-19T06:19:11Z; SHA-256 aa4356912f147cade9b4f9067103beff80dc594f7b6562f6ae61ac4b9ef9bb71)
+- https://huggingface.co/datasets/OpenDFM/MoGUI/resolve/19639219617d083a03e24842fc620e010cc63189/metadata/data_00001_of_00200.json (retrieved 2026-10-18T16:04:11Z; SHA-256 758a3c377b240a779d73b96b4c2ac5a185c99e0dc04bbda5d4dbcaa3ae59f166)
+- https://huggingface.co/api/datasets/OpenDFM/MoGUI/tree/19639219617d083a03e24842fc620e010cc63189/moguidata (retrieved 2026-10-18T16:04:13Z; SHA-256 a518ed2d7726225d4c399bdd06c3d9e1a5333425b6dd86446e3d22f2fef1a007)
+- https://huggingface.co/datasets/OpenDFM/MoGUI/resolve/19639219617d083a03e24842fc620e010cc63189/MoGUI_Paper_v0.1.pdf (retrieved 2026-10-18T16:04:23Z; SHA-256 5f7a66c12756ae057bbd3216e45b874825e671769e751cd7efb31081d05a52f5)
+- https://huggingface.co/datasets/OpenDFM/MoGUI/raw/19639219617d083a03e24842fc620e010cc63189/README.md (retrieved 2026-10-19T06:19:12Z; SHA-256 bb6ec801aed5db9d540cf3ccbae6a5e6bc2c26348d69dd34c72c3d88a57492b8)
+
+---
+
+## MolmoPoint-GUISyn
+
+Ai2's synthetic GUI grounding set of about 36K code-rendered desktop, mobile and web screenshots, each with dense element boxes, names and five natural-language intents per element for training pointing models.
+
+- Catalog URL: https://awesomecua.com/resources/url-a7e3c6c6b37793c3151c/
+- Original source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, windows, macos, linux, android, ios, web
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-19T06:17:16Z
+- ID: url:a7e3c6c6b37793c3151c
+
+### Limitations
+
+Screenshots are rendered with headless Chromium from HTML that Claude Sonnet 4.6 wrote, so the Windows, macOS, Linux, iOS and Android labels describe simulated interfaces, not captures of real systems; the card says this content is subject to Anthropic's terms. Each example keeps its source HTML and generation metadata. The Hub repository also holds the MolmoPoint paper PDF; the generation pipeline and the companion pointing model are released separately.
+
+- Record JSON: https://awesomecua.com/resources/url-a7e3c6c6b37793c3151c/record.json
+
+### Structured profile
+
+- formats: Parquet
+- modalities: screenshots, HTML source, bounding boxes, instructions
+- splits: desktop train, desktop validation, mobile train, mobile validation, web train, web validation
+- supervision: synthetic GUI element annotations, element names, natural-language interaction intents
+
+#### Count observations
+
+- ≈ 36,000 screenshots — all three subsets as described in the card prose (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
+- 16,232 screenshot examples — desktop train split in the card metadata (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
+- 256 screenshot examples — desktop validation split in the card metadata (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
+- 9,830 screenshot examples — web train split in the card metadata (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
+- 256 screenshot examples — web validation split in the card metadata (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
+- ≈ 10,500 screenshot examples — mobile subset as described in the card prose (reported; source: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md)
+
+The card metadata gives split sizes for the desktop and web configurations only; the mobile configuration's sizes appear only as the prose figure of 10.5K. The prose figures for desktop (16.6K) and web (10.2K) differ slightly from the metadata split totals (16,488 and 10,086). Each element carries a name, five intents and center/size coordinates; the card reports an average of 54 annotated elements per image. Annotations are LLM-generated and were not human-verified by this review.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: Conflicting declarations in the same card: the metadata header declares Apache-2.0, while the License section declares ODC-BY and adds that Claude-generated screenshots are subject to Anthropic's terms. The GitHub code license does not resolve the data terms.
+  Sources: https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md (retrieved 2026-10-19T06:17:16Z; SHA-256 74fe1e395b4121dec7ea222d2ee42d1b538f4d7445a2a59158d96d9208af01dd)
+- https://huggingface.co/api/datasets/allenai/MolmoPoint-GUISyn/revision/24bb3e990bb1e48796d80ade9dbc858dda695e75 (retrieved 2026-10-19T06:17:16Z; SHA-256 df47b9fad1bfd4ec67013263cd4bfe1be0a32e3f303f2e13be068ac81bdc4101)
+- https://huggingface.co/datasets/allenai/MolmoPoint-GUISyn/raw/24bb3e990bb1e48796d80ade9dbc858dda695e75/README.md (retrieved 2026-10-19T06:17:16Z; SHA-256 74fe1e395b4121dec7ea222d2ee42d1b538f4d7445a2a59158d96d9208af01dd)
 
 ---
 
@@ -2293,6 +3842,62 @@ Conversation, dialogue-turn and action-step units differ. The released file mani
 
 ---
 
+## Multimodal-Mind2Web
+
+Mind2Web action steps aligned with the matching webpage screenshot, plus raw and cleaned HTML, candidate elements and the target operation, in a train split and test splits held out by task, website and domain.
+
+- Catalog URL: https://awesomecua.com/resources/url-66f780b493156dc7efe5/
+- Original source: https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, action-prediction, evaluation
+- Evidence checked: 2026-10-18T16:02:04Z
+- ID: url:66f780b493156dc7efe5
+
+### Limitations
+
+Each row is one action step with the page state before the action; tasks are distinct annotation IDs. The card says the three test splits were human-verified for element visibility and rendering, while the train split may contain badly rendered screenshots. Its test task counts (177, 142 and 694) are lower than the 252, 177 and 912 task instances that the Mind2Web README lists for the cross-task, cross-website and cross-domain test sets. The card points to the SeeAct repository and paper and declares OpenRAIL, recorded as stated; terms for the underlying website content were not assessed.
+
+- Record JSON: https://awesomecua.com/resources/url-66f780b493156dc7efe5/record.json
+
+### Structured profile
+
+- formats: Parquet
+- modalities: webpage screenshots, raw and cleaned HTML, task descriptions, action histories
+- splits: train, test_task, test_website, test_domain
+- supervision: target operation per step (CLICK, TYPE or SELECT with value), positive and negative candidate elements
+
+#### Count observations
+
+- 7,775 action steps — train split (reported; source: https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md)
+- 1,009 tasks — train split (reported; source: https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md)
+- 1,339 action steps — test_task split (reported; source: https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md)
+- 177 tasks — test_task split (reported; source: https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md)
+- 1,019 action steps — test_website split (reported; source: https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md)
+- 142 tasks — test_website split (reported; source: https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md)
+- 4,060 action steps — test_domain split (reported; source: https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md)
+- 694 tasks — test_domain split (reported; source: https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md)
+
+Action steps and tasks are different units; the split sizes are the card's figures, and a column read of the Parquet files at this revision gave the same step and task counts.
+
+### License declarations
+
+- code: not recorded
+- data: openrail — https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/osunlp/Multimodal-Mind2Web (retrieved 2026-10-18T16:02:04Z; SHA-256 261ab42b94fc347c2581445f61ed158ffdfd201f192c51ded49fe9fe1b298503)
+- https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/raw/1b4c6a8cf9f77b7a5e0d641959935c80c4a05889/README.md (retrieved 2026-10-18T16:02:04Z; SHA-256 8bb1e02777556f3f679c4610be9e5572b3cb218a89b98d6f75a4fc1b82fa06dd)
+- https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/33bd95caeee7bba22dd08ecc935845e15c5e5dc7/README.md (retrieved 2026-10-18T16:02:15Z; SHA-256 157dbd840264ea29f958c0b7383d63783845c573b3e19a1f39b773be22e0b32d)
+- https://huggingface.co/api/datasets/osunlp/Multimodal-Mind2Web (retrieved 2026-10-18T16:02:04Z; SHA-256 261ab42b94fc347c2581445f61ed158ffdfd201f192c51ded49fe9fe1b298503)
+
+---
+
 ## MultiUI
 
 7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.
@@ -2337,6 +3942,56 @@ The README provides a rounded sample count. It does not establish a unique-scree
 
 - https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md (retrieved 2026-10-16T06:36:01Z; SHA-256 fe0c03fe73529a29788d559103c4aed48dca6ed9ba3bfd5f151f902fa8858b38)
 - https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md (retrieved 2026-10-16T06:36:01Z; SHA-256 fe0c03fe73529a29788d559103c4aed48dca6ed9ba3bfd5f151f902fa8858b38)
+
+---
+
+## MultiUI training data
+
+Gated Hub release of the MultiUI web-UI training data, about 7.3 million samples per the project README, packaged as two training-stage JSON files and 21 split TAR archive parts.
+
+- Catalog URL: https://awesomecua.com/resources/url-8cd911654653a6ba8521/
+- Original source: https://huggingface.co/datasets/neulab/MultiUI
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: screen-understanding, data-generation
+- Evidence checked: 2026-10-18T15:57:03Z
+- ID: url:8cd911654653a6ba8521
+
+### Limitations
+
+The Hub API at revision c17e5f29 reports gated 'auto' and lists stage1_data.json (about 5.2 GB), stage2_data_to_be_combined_with_general_data.json (about 0.25 GB) and 21 TAR parts in three groups: v0.6_5M (12 parts), v0.7_exclude_v0.6 (4) and v0.8_exclude_v0.7 (5), about 955 GB in all. The card and files sit behind the gate and were not read; the description comes from the project README, which links this dataset as its 7.3-million-sample training set and says the data was built from webpages linked in FineWeb or generated by LLMs. The card metadata declares ODC-BY for the data; the GitHub repository has no license file, so its code terms stay unknown.
+
+- Record JSON: https://awesomecua.com/resources/url-8cd911654653a6ba8521/record.json
+
+### Structured profile
+
+- formats: JSON, split TAR archives
+- modalities: webpage UI content, text, accessibility-derived structure
+- splits: not recorded
+- supervision: text-rich web UI understanding tasks
+
+#### Count observations
+
+- ≈ 7,300,000 samples — MultiUI training dataset as described in the project README (reported; source: https://raw.githubusercontent.com/neulab/multiui/e261d8ad3d329a8b6e719cfd4f6a6d8e6df3cede/README.md)
+- 21 TAR archive parts — Hub file manifest at revision c17e5f29 (computed) (computed; source: https://huggingface.co/api/datasets/neulab/MultiUI/tree/c17e5f297392be76741dcc3599e8fedc4304b386)
+
+The sample count is the README's rounded figure, not a count of the gated files, which were not downloaded. Archive parts are package files, not samples. The versioned archive names (v0.7 excluding v0.6, v0.8 excluding v0.7) suggest incremental releases, but the card that would explain them is gated.
+
+### License declarations
+
+- code: not recorded
+- data: odc-by — https://huggingface.co/datasets/neulab/MultiUI
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/neulab/MultiUI (retrieved 2026-10-18T15:57:03Z; SHA-256 05ffe28893cff7ee8ae2612252432a64af1e270393c5bdc9113e223601abf815)
+- https://raw.githubusercontent.com/neulab/multiui/e261d8ad3d329a8b6e719cfd4f6a6d8e6df3cede/README.md (retrieved 2026-10-18T15:56:29Z; SHA-256 fe0c03fe73529a29788d559103c4aed48dca6ed9ba3bfd5f151f902fa8858b38)
+- https://huggingface.co/api/datasets/neulab/MultiUI/tree/c17e5f297392be76741dcc3599e8fedc4304b386 (retrieved 2026-10-18T15:56:29Z; SHA-256 a21100c8e73264bf6c02af02d1d490dc6436bf674e97f297fbb3d77b7d97a944)
+- https://huggingface.co/api/datasets/neulab/MultiUI (retrieved 2026-10-18T15:57:03Z; SHA-256 05ffe28893cff7ee8ae2612252432a64af1e270393c5bdc9113e223601abf815)
 
 ---
 
@@ -2407,6 +4062,109 @@ The Hub card supplies a license but no detailed schema. Dataset purpose is suppo
 - https://huggingface.co/api/datasets/stanfordnlp/nnetnav-wa (retrieved 2026-10-16T11:11:53Z; SHA-256 3fe40a45aa2bf9d6f0cefffc65ea6382849c3543b44017200a4a8d43ab61e9eb)
 - https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 3095f7262b7d4ff916c6f58c55e6fc9902c08f77d09bf3951199945501148bb3)
 - https://huggingface.co/api/datasets/stanfordnlp/nnetnav-wa (retrieved 2026-10-16T11:11:53Z; SHA-256 3fe40a45aa2bf9d6f0cefffc65ea6382849c3543b44017200a4a8d43ab61e9eb)
+
+---
+
+## Online-Mind2Web task data
+
+Gated Hub release of the Online-Mind2Web task set: one JSON test split of tasks on live websites, 300 tasks on 136 sites per the project README, which the publishers revise when sites change.
+
+- Catalog URL: https://awesomecua.com/resources/url-a252b36bf1c440269a2e/
+- Original source: https://huggingface.co/datasets/osunlp/Online-Mind2Web
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, evaluation
+- Evidence checked: 2026-10-18T11:39:35Z
+- ID: url:a252b36bf1c440269a2e
+
+### Limitations
+
+The Hub API at revision eacad896 reports gated 'auto' (access is approved automatically after a logged-in request) and one data file, Online_Mind2Web.json, configured as the test split. The card and the task file sit behind that gate and were not read for this record; the description and counts come from the project README, which links this dataset as its data. The Hub card metadata declares CC BY 4.0, matching the README's dataset license; the repository code is MIT and is not applied to the data. The publishers replace invalid tasks over time (36 on 2025-11-03), so a result needs the dataset revision.
+
+- Record JSON: https://awesomecua.com/resources/url-a252b36bf1c440269a2e/record.json
+
+### Structured profile
+
+- formats: JSON
+- modalities: text
+- splits: test
+- supervision: task definitions for live-web evaluation
+
+#### Count observations
+
+- 300 tasks — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
+- 136 websites — Online-Mind2Web task set as documented in the README (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
+
+Counts are the README's description of the task set, not a count of the gated file, which was not downloaded. The README says replacements aim to keep the same websites and a similar reference length, but the task population still changes between revisions.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/osunlp/Online-Mind2Web
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web (retrieved 2026-10-18T11:39:35Z; SHA-256 a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23)
+- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md (retrieved 2026-10-18T11:39:36Z; SHA-256 49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa)
+- https://huggingface.co/api/datasets/osunlp/Online-Mind2Web (retrieved 2026-10-18T11:39:35Z; SHA-256 a72ff426815ef4dcabcefd4a315b2c683b81107bee905a05f2d41ecfcdda0a23)
+
+---
+
+## OpenMobile-Data
+
+OpenMobile's synthesized Android agent data: four LLaMA-Factory SFT split files built from AndroidWorld rollouts plus an archive of the original rollout trajectories and screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/url-3849b18aa87edefc6afd/
+- Original source: https://huggingface.co/datasets/cckevinn/OpenMobile-Data
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: data-generation, mobile-navigation, imitation-learning
+- Evidence checked: 2026-10-19T06:53:38Z
+- ID: url:3849b18aa87edefc6afd
+
+### Limitations
+
+The short card says the four JSON files are LLaMA-Factory training files and raw_dumps.tar.gz holds the original rollout trajectories with the screenshots the training files need. The OpenMobile code README registers the files as openmobile_split1 to openmobile_split4 in ShareGPT format and gives a converter to the Qwen3.5 format. No license is declared on the card.
+
+- Record JSON: https://awesomecua.com/resources/url-3849b18aa87edefc6afd/record.json
+
+### Structured profile
+
+- formats: LLaMA-Factory ShareGPT JSON, tar.gz archive of raw rollouts
+- modalities: screenshots, instructions, step histories, reasoning text, actions, target element bounding boxes
+- splits: split1, split2, split3, split4
+- supervision: synthesized task instructions, agent rollout trajectories with learner/expert policy switching
+
+#### Count observations
+
+- ≈ 2,800 synthesized instructions — OpenMobile dataset (project page) (reported; source: https://njucckevin.github.io/openmobile/)
+- ≈ 34,000 action steps — OpenMobile dataset (project page) (reported; source: https://njucckevin.github.io/openmobile/)
+- 20 Android apps — OpenMobile dataset (project page) (reported; source: https://njucckevin.github.io/openmobile/)
+
+Instruction, step and app counts are the project page's headline figures. Streaming the four split files at revision 8ed12d1 gave 7,393, 6,767, 9,345 and 3,855 step-level samples (27,360 in total), each with one screenshot path into raw_dumps, a system prompt with the mobile_use tool, the task and step history, an assistant thought with a tool call, and a target bounding box; the files exceed the receipt budget, so these computed counts are not recorded as count observations. Steps in the files and the page's action steps are not reconciled. The four split names are training files, not train/test splits.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: The dataset card declares no license; the code repository's Apache-2.0 license is not transferred to the data, and the code README says other released artifacts may have their own terms.
+  Sources: https://huggingface.co/datasets/cckevinn/OpenMobile-Data/raw/8ed12d15763057f8e8d40134cfddfcc756ff8a7a/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/cckevinn/OpenMobile-Data/raw/8ed12d15763057f8e8d40134cfddfcc756ff8a7a/README.md (retrieved 2026-10-19T06:53:38Z; SHA-256 5a119d88171e645b3dccad526ed25e75d4e28e4e5c101f89daa1c6697b92d601)
+- https://huggingface.co/api/datasets/cckevinn/OpenMobile-Data/revision/8ed12d15763057f8e8d40134cfddfcc756ff8a7a (retrieved 2026-10-19T06:53:39Z; SHA-256 054432be78024ecf09b1d8f022c11b82addf7ee5127a8f355d9a6eb18b212355)
+- https://njucckevin.github.io/openmobile/ (retrieved 2026-10-19T06:53:36Z; SHA-256 b37f01ef9fcffa0eef1f6c5c317a333e6f14210dfda54843fdaba2f88331b864)
+- https://raw.githubusercontent.com/njucckevin/OpenMobile-Code/faca68f386aff7277cdf494c84693c51090229c6/README.md (retrieved 2026-10-19T06:53:33Z; SHA-256 8594e32aab90e0fdbaf436997e4082884423b6d3298f46247dcf0820e0499080)
 
 ---
 
@@ -2608,6 +4366,386 @@ AC and AW refer to distinct target training sets; no sample count is inferred fr
 
 ---
 
+## OS-Genesis web training data
+
+Gated OS-Genesis web release holding one JSONL file of reverse-task-synthesis training trajectories and a screenshot archive, named in the project README as training data for its WA checkpoints.
+
+- Catalog URL: https://awesomecua.com/resources/url-31768421b4ecd1ad89f7/
+- Original source: https://huggingface.co/datasets/OS-Copilot/OS-Genesis-web-data
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, web-navigation, imitation-learning
+- Evidence checked: 2026-10-18T15:45:46Z
+- ID: url:31768421b4ecd1ad89f7
+
+### Limitations
+
+Access is auto-gated, so the card body was not read; the Hub API reports MIT in the card metadata for this data release. The manifest at revision 0080190f holds os_genesis_web_training.jsonl and os_genesis_web_screenshots.zip; no record count is asserted. The raw web triples the README links on Google Drive and the separate mobile data release are not part of this asset.
+
+- Record JSON: https://awesomecua.com/resources/url-31768421b4ecd1ad89f7/record.json
+
+### Structured profile
+
+- formats: JSONL, ZIP
+- modalities: screenshots, text, actions
+- splits: web training
+- supervision: web action trajectories
+
+#### Count observations
+
+No count recorded.
+
+The README pairs this one training file with the 4B, 7B and 8B WA checkpoints; no sample count is inferred from the JSONL file or ZIP packaging.
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/OS-Copilot/OS-Genesis-web-data
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/OS-Copilot/OS-Genesis-web-data (retrieved 2026-10-18T15:45:46Z; SHA-256 94c7927766c63a5f70f59faf4b50c0b32163228139ab4a3ef2fad64a3c495a0e)
+- https://raw.githubusercontent.com/OS-Copilot/OS-Genesis/72128850dad4ca9ba642ee7399794b4fb8f5154d/README.md (retrieved 2026-10-18T15:45:47Z; SHA-256 430e495ab250395d666854bd18b0fc29b819cd784cd7730215ef65e461834d0d)
+- https://huggingface.co/api/datasets/OS-Copilot/OS-Genesis-web-data (retrieved 2026-10-18T15:45:46Z; SHA-256 94c7927766c63a5f70f59faf4b50c0b32163228139ab4a3ef2fad64a3c495a0e)
+
+---
+
+## OSWorld 2.0 task classes
+
+Gated Hub release of the OSWorld 2.0 benchmark's Python task classes, which hold task setup and evaluator logic kept out of the public code to limit leakage and are pinned per benchmark release.
+
+- Catalog URL: https://awesomecua.com/resources/url-1c4a0389ace7c5cb8a4b/
+- Original source: https://huggingface.co/datasets/xlangai/osworld_v2_tasks
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, long-horizon
+- Evidence checked: 2026-10-18T11:47:41Z
+- ID: url:1c4a0389ace7c5cb8a4b
+
+### Limitations
+
+The Hub API at revision 0a1aadad reports gated 'auto' (access is approved automatically after a logged-in request) and 147 files: 108 task_*.py classes, 34 task implementation notes, a task-hash manifest and the card. The card and files sit behind that gate and were not read; the description comes from the OSWorld-V2 README, which links this dataset as its data and downloads it into evaluation_examples/task_class. The README pins task, asset and website snapshots per benchmark release (osworld-v2.1 recommended, plus osworld-v2-2026.08.08 and osworld-v2-2026.06.24), so the main-branch file count is not a release's task count. Task assets are in the separate gated xlangai/osworld_v2_assets_gated dataset and anonymous runtime assets in xlangai/osworld_v2_assets; neither is covered here. The code repository github.com/xlang-ai/OSWorld-V2 is not an active record, so no component relation is recorded. The card metadata declares Apache-2.0.
+
+- Record JSON: https://awesomecua.com/resources/url-1c4a0389ace7c5cb8a4b/record.json
+
+### Structured profile
+
+- formats: Python, Markdown, JSON manifest
+- modalities: Python task classes, implementation notes
+- splits: not recorded
+- supervision: task setup and evaluator code
+
+#### Count observations
+
+- 108 task class files — task_*.py on the main branch at revision 0a1aadad (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks)
+- 34 implementation note files — implementation_notes/task_*.md on the main branch at revision 0a1aadad (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks)
+
+Counts are files in the public main-branch manifest. Benchmark releases are pinned to their own tags, which were not inspected because the files are gated, so these are not release task counts.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/xlangai/osworld_v2_tasks
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks (retrieved 2026-10-18T11:47:41Z; SHA-256 b9ef429ad3f9ef51702093db5bc1cb4e53d6ed5624cd2003162c4fedb3855c87)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld-V2/d9953673daf55381237e058fd9388cc2d74c5538/README.md (retrieved 2026-10-18T11:47:41Z; SHA-256 0d1d3e91e8786720a167b8bc26a41bd27832eefae652ab1c166193073e99b2b4)
+- https://huggingface.co/api/datasets/xlangai/osworld_v2_tasks (retrieved 2026-10-18T11:47:41Z; SHA-256 b9ef429ad3f9ef51702093db5bc1cb4e53d6ed5624cd2003162c4fedb3855c87)
+
+---
+
+## OSWorld 2.0 trajectories
+
+XLang's gated release of OSWorld 2.0 agent runs: 21 ZIP result archives named by model and run settings, plus per-task trajectory JSONL, step screenshots, results and logs for seven model runs.
+
+- Catalog URL: https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/
+- Original source: https://huggingface.co/datasets/xlangai/osworld2.0-trajectory
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, long-horizon
+- Evidence checked: 2026-10-18T12:07:35Z
+- ID: url:3b4e6c30e1d095c22771
+
+### Limitations
+
+The repository is gated with automatic approval; its card could not be read without accepting the gate, and the Hub API carries no card metadata or license. The OSWorld-V2 README links it as the benchmark's trajectory download beside a hosted trajectory viewer. Some archive names carry the v2.1 label, a release the README dates after the paper, and step budgets of 150, 300 or 500, so the runs are not limited to the paper's evaluation. The ZIP archives were not downloaded, and scores in the result files were not re-checked.
+
+- Record JSON: https://awesomecua.com/resources/url-3b4e6c30e1d095c22771/record.json
+
+### Structured profile
+
+- formats: ZIP archives, PNG, JSONL, JSON, text logs
+- modalities: screenshots, trajectory logs, result files, API usage records
+- splits: not recorded
+- supervision: agent run trajectories, evaluation results
+
+#### Count observations
+
+- 21 ZIP result archives — repository root at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0)
+- 7 model run folders — website_demo folder at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo)
+- 108 task folders — website_demo/MiniMax-M3/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/MiniMax-M3/tasks)
+- 108 task folders — website_demo/claude-opus-4-7/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-opus-4-7/tasks)
+- 108 task folders — website_demo/claude-sonnet-4-6-max/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-max/tasks)
+- 108 task folders — website_demo/claude-sonnet-4-6-medium/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-medium/tasks)
+- 108 task folders — website_demo/gpt-5.5/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.5/tasks)
+- 107 task folders — website_demo/gpt-5.6/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.6/tasks)
+- 108 task folders — website_demo/qwen3.7/tasks at Hub revision a9cd5b05 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/qwen3.7/tasks)
+
+Counts come from the Hub tree listings at the pinned revision. A task folder is one model's run of one task, so folders across models are not summed; gpt-5.6 has 107 folders and the others 108. The inspected folder website_demo/MiniMax-M3/tasks/001 holds traj.jsonl, 501 PNG step screenshots, result and per-step-budget result files, eval and runtime logs, checkpoint results and API usage. ZIP archive contents and their trajectory counts are unknown.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: No data-license declaration is readable: the card is behind the access gate and the Hub API has no card metadata. The OSWorld-V2 code license does not establish terms for these runs, screenshots or third-party model outputs.
+  Sources: https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory (retrieved 2026-10-18T12:07:35Z; SHA-256 691732625f39ef050607d3795e9d1bc9a75fa1c7fb78c65775b4d0288dc662ea)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld-V2/d9953673daf55381237e058fd9388cc2d74c5538/README.md (retrieved 2026-10-18T12:07:36Z; SHA-256 0d1d3e91e8786720a167b8bc26a41bd27832eefae652ab1c166193073e99b2b4)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0 (retrieved 2026-10-18T12:07:36Z; SHA-256 ea47577538434f9f4095efec3ab5df156cdb90132c4b226c64c53ba861a34fbe)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo (retrieved 2026-10-18T12:07:37Z; SHA-256 9049b14cdecc2be6a23eae60362769f2eea4284454f3d35a0a0e6d20a86a2bf0)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/MiniMax-M3/tasks (retrieved 2026-10-18T12:07:37Z; SHA-256 e66da738b64af2d79bbae9f75befa2423c6e2bdb00941c7f12afb58d9413c083)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-opus-4-7/tasks (retrieved 2026-10-18T12:07:37Z; SHA-256 4e51c4903cc95fb305a39e4f6eb5d496aa5c67f47c499f6185d922fac6cd4bc3)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-max/tasks (retrieved 2026-10-18T12:07:37Z; SHA-256 24e4bd257eb6a7a0b015227b726057f587fd617d26878d88208d1871877169be)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/claude-sonnet-4-6-medium/tasks (retrieved 2026-10-18T12:07:37Z; SHA-256 7892c77e47a846b79191df5dd94b44671c96343d34ca0dc13685300b36592253)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.5/tasks (retrieved 2026-10-18T12:07:37Z; SHA-256 842dee0c38022622e0b6f226fc78fb83ff18e28ee7debe21c81717ea0cb50388)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/gpt-5.6/tasks (retrieved 2026-10-18T12:07:38Z; SHA-256 adf4626b61ff2cdffe049d18ac335b9abb31b5d80c52a7053e3f4a26ca4248a6)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/qwen3.7/tasks (retrieved 2026-10-18T12:07:38Z; SHA-256 1ce80893f5c161008d75aba19ddc25db10b169c9b5047a9530668bf5b72768e7)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory/tree/a9cd5b050c26012f21515b227d6b9c7af728a8f0/website_demo/MiniMax-M3/tasks/001 (retrieved 2026-10-18T12:07:38Z; SHA-256 2381fce2e44ea97602a22d0dac4f6a2879860e04800bfd3f0552eb3e6ace38d5)
+- https://huggingface.co/api/datasets/xlangai/osworld2.0-trajectory (retrieved 2026-10-18T12:07:35Z; SHA-256 691732625f39ef050607d3795e9d1bc9a75fa1c7fb78c65775b4d0288dc662ea)
+
+---
+
+## OSWorld file cache (Ubuntu)
+
+Hub-hosted copy of the files that OSWorld's Ubuntu task configurations download for task setup and evaluation, organized by application and task ID after their migration from Google Drive.
+
+- Catalog URL: https://awesomecua.com/resources/url-c885712b9c69579ac591/
+- Original source: https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache
+- Kind: dataset
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, linux
+- Topics: evaluation
+- Evidence checked: 2026-10-18T11:46:05Z
+- ID: url:c885712b9c69579ac591
+
+### Limitations
+
+Adjacent: a file host that the curated OSWorld benchmark depends on, not a benchmark or training set by itself. OSWorld task JSON (for example os/5c1075ca, which fetches setup.sh and eval.sh) points at this repository. The Hub API at revision 1e112283 reports an ungated repository with 720 files, most of them in application/task-ID folders, plus a fonts archive. The card metadata declares Apache-2.0, while its License section says the files follow the original OSWorld project's terms.
+
+- Record JSON: https://awesomecua.com/resources/url-c885712b9c69579ac591/record.json
+
+### Structured profile
+
+- formats: original application file formats, archives
+- modalities: images, documents, spreadsheets, presentations, audio and video, scripts
+- splits: not recorded
+- supervision: task setup and evaluation assets
+
+#### Count observations
+
+- 720 files — Hub manifest at revision 1e112283 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache)
+- 262 application/task-ID folders — Hub manifest at revision 1e112283 (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache)
+
+Counts come from the Hub file manifest. A task folder is not an OSWorld task definition, and not every OSWorld task has a folder here. Files were not downloaded.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache/raw/1e112283c4ecb08d6fed8069bca7de74fa2f12aa/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache/raw/1e112283c4ecb08d6fed8069bca7de74fa2f12aa/README.md (retrieved 2026-10-18T11:46:05Z; SHA-256 23b49d5e9a3c5cdcba990640ccf271d35411cc51ff85c18771a9f74b9d351944)
+- https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_file_cache (retrieved 2026-10-18T11:46:05Z; SHA-256 064fcc8dd91932dccbb0257be254fe5a95b95f369fb3d41ca2c169413cc424cf)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld/b138d348256078fa634fc3b73567a7337c793e6b/evaluation_examples/examples/os/5c1075ca-bb34-46a3-a7a0-029bd7463e79.json (retrieved 2026-10-18T11:46:05Z; SHA-256 6b57e8b32c048a252d8076fc280bf029f869e99e2938530ff78087aa7fdce410)
+- https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache/raw/1e112283c4ecb08d6fed8069bca7de74fa2f12aa/README.md (retrieved 2026-10-18T11:46:05Z; SHA-256 23b49d5e9a3c5cdcba990640ccf271d35411cc51ff85c18771a9f74b9d351944)
+
+---
+
+## OSWorld-Science task data
+
+Gated Hub release of OSWorld-Science task definitions, staged inputs, grader references and prepared Ubuntu VM images for computer-use agents working in scientific software.
+
+- Catalog URL: https://awesomecua.com/resources/url-263e82b29d4fca964463/
+- Original source: https://huggingface.co/datasets/SciAILab/OSWorld-Science-data
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, science
+- Evidence checked: 2026-10-18T12:33:40Z
+- ID: url:263e82b29d4fca964463
+
+### Limitations
+
+Access requires manual approval by the publisher, so the dataset card and file contents were not read; the record rests on the public Hub metadata and file list, the paper and the benchmark README. The paper says the release holds all question sets and images and carries a contamination watermark; the benchmark README says it includes answer keys. The Windows/ANSYS image is not part of the release. Hub metadata declares CC-BY-NC-4.0 for the data; bundled scientific software and third-party inputs keep their own terms.
+
+- Record JSON: https://awesomecua.com/resources/url-263e82b29d4fca964463/record.json
+
+### Structured profile
+
+- formats: JSON, QCOW2, Python, CSV
+- modalities: task instructions, input files, reference outputs, VM disk images
+- splits: not recorded
+- supervision: expert-defined task definitions, grader reference files
+
+#### Count observations
+
+- 153 task-definition JSON files — <domain>/tasks/ at Hub revision 9b8de9ad (chem 44, biomed 34, physics 31, stat 20, eeg 10, econ 6, geoscience 6, linguistics 2) (computed) (computed; source: https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681)
+- 115 translated task files — ablation/ at Hub revision 9b8de9ad (23 each in es, fr, ja, th, zh) (computed) (computed; source: https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681)
+- 11 QCOW2 VM images — files at Hub revision 9b8de9ad (computed) (computed; source: https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681)
+- 2,759 files — Hub repository at revision 9b8de9ad (computed) (computed; source: https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681)
+
+All counts come from a script over the pinned Hub file list; no file was downloaded. The paper and README report 146 tasks in seven domains, while the listing has 153 task files in eight domain folders, including six econ tasks; a task file is a definition, not an agent run. Task files, translated variants, images and files are different units and are not summed.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-4.0 — https://huggingface.co/datasets/SciAILab/OSWorld-Science-data
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681 (retrieved 2026-10-18T12:33:40Z; SHA-256 68262ed16b86bb34261d6be0051011ee459bade323689bb38703342148ccb28e)
+- https://raw.githubusercontent.com/DiscoAILab/OSWorld-Science/HEAD/README.md (retrieved 2026-10-18T12:32:26Z; SHA-256 5871a62e7dac017cbb16017bc28b956aa20058193aebced9505210f34fdc7057)
+- https://arxiv.org/html/2609.39903v1 (retrieved 2026-10-18T12:32:28Z; SHA-256 b4878955429b6b8d177c7d18fde30004fafd1973dda36f7d0412fb61dd2b0178)
+- https://huggingface.co/api/datasets/SciAILab/OSWorld-Science-data/revision/9b8de9ad9325c87fbeba90e0676e8d640be70681 (retrieved 2026-10-18T12:33:40Z; SHA-256 68262ed16b86bb34261d6be0051011ee459bade323689bb38703342148ccb28e)
+
+---
+
+## OSWorld-V2 0624 Codex attempt trajectories
+
+Self-reported OSWorld-V2 run of a Codex-based harness with gpt-5.6-sol on all 108 tasks: per-step CLI and GUI actions, screenshots and scores, plus retried attempts and the solution and recovery cards that guided them.
+
+- Catalog URL: https://awesomecua.com/resources/url-9112dfcb201f2de7241f/
+- Original source: https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, observability
+- Evidence checked: 2026-10-18T15:49:15Z
+- ID: url:9112dfcb201f2de7241f
+
+### Limitations
+
+The card calls this a self-reported trajectory package; it links no paper or harness code, and the run was not listed in the official OSWorld-V2 leaderboard data when checked on 2026-10-18. run_manifest.json records benchmark release osworld-v2-2026.06.24, a Docker provider with a QEMU backend at 1920x1080, a 400-step limit, a screenshot at every step with accessibility tree and OCR on demand, and a multi-attempt policy with one reported result per task. Per task_results.csv, 83 reported results come from initial attempts, 22 from recovery attempts and 3 from retries; the preview table names a different selected attempt for 6 tasks, and the manifest and summary.json give different recovery limits (2 and 3). Each attempt has a card written as instructions to the agent: the solution card opened for task 001 lists the exact schedule entries to enter, the events to delete and the final checks, and the recovery card opened for task 002 plans a guided retry from its parent attempt. summary.json reports a mean score of 0.661 and 43 binary passes over 108 tasks (the preview table marks 44 because task 015 scores 0.9999999999999999); these are publisher measurements from guided, multi-attempt runs and were not reproduced. Linux is established from the Ubuntu Calendar target and /home/user shell commands in task 001. The card declares no license.
+
+- Record JSON: https://awesomecua.com/resources/url-9112dfcb201f2de7241f/record.json
+
+### Structured profile
+
+- formats: JSONL, JSON, PNG, CSV, Parquet
+- modalities: screenshots, action trajectories, task guidance cards, scores
+- splits: not recorded
+- supervision: agent-generated trajectories, evaluator task scores
+
+#### Count observations
+
+- 108 tasks — OSWorld-V2 v2026.06.24 tasks 001-108 in this run (reported; source: https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json)
+- 108 reported task folders with traj.jsonl — Hub manifest at revision 523e49b9 (computed) (computed; source: https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2)
+- 154 retained earlier-attempt folders — Hub manifest at revision 523e49b9 (computed) (computed; source: https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2)
+- 132 solution cards — Hub manifest at revision 523e49b9 (computed) (computed; source: https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2)
+- 51 recovery cards — Hub manifest at revision 523e49b9 (computed) (computed; source: https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2)
+- 12,868 PNG screenshots in reported task folders — Hub manifest at revision 523e49b9 (computed) (computed; source: https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2)
+- 16,400 PNG screenshots in earlier-attempt folders — Hub manifest at revision 523e49b9 (computed) (computed; source: https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2)
+
+Counts come from a script over the pinned Hub file list; tasks, folders, cards and screenshots are different units and are not summed. The manifest's own card totals (132 solution, 51 recovery) match the file list. The preview Parquet and CSV tables are derived indexes of the same trajectories. Scores come from the benchmark evaluator as reported by the publisher; no trajectory was replayed.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: Neither the card metadata nor the file list at this revision declares a license, so no data grant is established. Agent outputs and logged third-party content keep their own terms.
+  Sources: https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/README.md (retrieved 2026-10-18T15:49:15Z; SHA-256 73f86ad3b7fac604225cb982469db22ac68d863cbe0a636e3bee40fd0e7a5bdb)
+- https://huggingface.co/api/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/revision/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2 (retrieved 2026-10-18T15:49:14Z; SHA-256 1f1a6cabddd3e68b93b61bb78648788d88df4ca829ebc0d3cc4542049e906857)
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/run_manifest.json (retrieved 2026-10-18T15:49:14Z; SHA-256 5bb8864f430494a989c86a8717ec1e210e63d16d58a3593990c4986a949a5f20)
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/summary.json (retrieved 2026-10-18T15:49:14Z; SHA-256 1dab011e8a4f1ed1ca5d0da13252f0ac8fd894d07fe6e286bae041bdb059507d)
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/task_results.csv (retrieved 2026-10-18T15:49:14Z; SHA-256 dfc978893fc67eeeea8ed1677edde5f6425829f4c3439d8c7b8812ed3384279d)
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/preview/task_summary.csv (retrieved 2026-10-18T15:49:14Z; SHA-256 dc8267b5a34741f2386d363a8f1ab465db026925c2f52239b5290872d0b572ac)
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/cards/001/attempt_001/solution_card.json (retrieved 2026-10-18T15:49:14Z; SHA-256 131afcc6939d517594c70890e250d3e8202d4c9c7662e865921eff120e605c00)
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/cards/002/attempt_002/recovery_card.json (retrieved 2026-10-18T15:49:14Z; SHA-256 7ee876e0e0322f815cc2d8ee171cf721c0680c9396d6cabf32ef4aae32457ff4)
+- https://huggingface.co/datasets/xunsss/osworld2-codex-gpt56sol-0624-multi-attempt/raw/523e49b9daa078c6c6b60f8f8a7c881b008f7ed2/tasks/001/traj.jsonl (retrieved 2026-10-18T15:49:14Z; SHA-256 6450de28c3909d27bbb25099589b4c5bfc65daa42be9d21a31b4ad25e3b47f1b)
+
+---
+
+## OSWorld-Verified trajectories
+
+Archived OSWorld-Verified evaluation runs of many computer-use agents and step budgets on Ubuntu, each archive holding screenshots, actions, model reasoning and per-task results for analysis.
+
+- Catalog URL: https://awesomecua.com/resources/url-2c99f0de2840277abc72/
+- Original source: https://huggingface.co/datasets/xlangai/ubuntu_osworld_verified_trajs
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation
+- Evidence checked: 2026-10-18T12:10:51Z
+- ID: url:2c99f0de2840277abc72
+
+### Limitations
+
+The OSWorld project page says all verified trajectories are published in this dataset. Hub API at revision 5473c39e: not gated, 100 run archives (99 zip, one tar.gz) plus a README and root all_result.json and args.json files that belong to a single run. Archive names identify the agent or model and often the step budget. The card's totals (15+ model variants, 1000+ episodes, last updated August 2025) predate later uploads, and it calls training on these runs not recommended. Archives were not downloaded. The card declares MIT for the data; outputs of third-party models keep their own terms.
+
+- Record JSON: https://awesomecua.com/resources/url-2c99f0de2840277abc72/record.json
+
+### Structured profile
+
+- formats: zip archives, tar.gz archive, JSON
+- modalities: screenshots, actions, model reasoning, task results
+- splits: not recorded
+- supervision: agent evaluation trajectories
+
+#### Count observations
+
+- 100 run archives — zip and tar.gz files at revision 5473c39e (computed) (computed; source: https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_verified_trajs/revision/5473c39e42a538a187a9b2c2b499db59d560fd8c)
+
+A run archive is one agent configuration evaluated on OSWorld-Verified, not one task or episode. Step budgets in archive names range over 15, 50, 100 and more steps, and several agents have one archive per budget. Episode and task counts inside archives were not recounted.
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/xlangai/ubuntu_osworld_verified_trajs/raw/5473c39e42a538a187a9b2c2b499db59d560fd8c/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/xlangai/ubuntu_osworld_verified_trajs/raw/5473c39e42a538a187a9b2c2b499db59d560fd8c/README.md (retrieved 2026-10-18T12:10:51Z; SHA-256 3e115bb35b01a9be2c797effd4cac3e9ee2ff10036c0c7df648126db0a5a11fc)
+- https://huggingface.co/api/datasets/xlangai/ubuntu_osworld_verified_trajs/revision/5473c39e42a538a187a9b2c2b499db59d560fd8c (retrieved 2026-10-18T12:10:51Z; SHA-256 eec08ba92c8032dd5b978c2a488a27d9193c82be741790da7541fe5c19b96928)
+- https://raw.githubusercontent.com/OS-World/OS-World.github.io/62f8466dbe8b4d67c104b5ead3f8271da01aa09d/index.html (retrieved 2026-10-18T12:10:52Z; SHA-256 bf37e00ce23e8c5472d485a6eb3b291ffa2de220b44040402516e41cbc48c516)
+- https://huggingface.co/datasets/xlangai/ubuntu_osworld_verified_trajs/raw/5473c39e42a538a187a9b2c2b499db59d560fd8c/README.md (retrieved 2026-10-18T12:10:51Z; SHA-256 3e115bb35b01a9be2c797effd4cac3e9ee2ff10036c0c7df648126db0a5a11fc)
+
+---
+
 ## PC-Agent-E training data
 
 Released dataset used to train PC-Agent-E, linked by the official pipeline for refining human trajectories and synthesizing action reasoning.
@@ -2738,6 +4876,58 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/anaishowland/computeruse-data-psai/HEAD/README.md (retrieved 2026-11-04T14:02:35Z; SHA-256 f5521f8dddc136cae9b84f7ae0f83a535f4611161e95ebc788e21147338140be)
 - https://raw.githubusercontent.com/anaishowland/computeruse-data-psai/HEAD/LICENSE (retrieved 2026-11-04T14:07:22Z; SHA-256 242a79eb1cf827de167ccf640900fb55c99326c97ed721105673bf671f7fa06a)
+
+---
+
+## PSAI computer-use dataset
+
+Human computer-use recordings for 3,167 browser and desktop tasks, each with a screen video, input events and reasoning steps, plus screenshots or DOM snapshots for part of the tasks.
+
+- Catalog URL: https://awesomecua.com/resources/url-10a75e1b7b975b3617ae/
+- Original source: https://huggingface.co/datasets/anaisleila/computer-use-data-psai
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web, desktop, windows, macos
+- Topics: data-generation, recording, video
+- Evidence checked: 2026-10-18T12:12:10Z
+- ID: url:10a75e1b7b975b3617ae
+
+### Limitations
+
+Released by Paradigm Shift AI. The card reports 2,220 browser and 947 computer tasks over 294 websites and 173 applications, labels most tasks cross-platform with a few Windows or macOS tasks, and says human vendors performed the tasks under signed release agreements but that recordings may contain personal information. Hub API at revision 0e1b7c63: not gated, 16 parquet shards, 3,167 MP4 videos and 1,766 DOM-snapshot zips; there is no LICENSE file in the repository. The card metadata declares MIT for the data.
+
+- Record JSON: https://awesomecua.com/resources/url-10a75e1b7b975b3617ae/record.json
+
+### Structured profile
+
+- formats: Parquet, MP4, zip archives, JSON strings
+- modalities: screen videos, screenshots, DOM snapshots, keyboard and mouse events, task metadata
+- splits: train
+- supervision: human computer-use demonstrations, reasoning steps
+
+#### Count observations
+
+- 3,167 tasks — unique completed tasks in the train split (reported; source: https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md)
+- 3,267 rows — train split rows, including 100 duplicate rows (reported; source: https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md)
+- 14,740 screenshots — images embedded in the parquet files, covering 1,349 tasks (reported; source: https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md)
+- 3,167 video files — videos/*.mp4 at revision 0e1b7c63 (computed) (computed; source: https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4)
+- 1,766 DOM snapshot archives — dom_snaps/*.zip at revision 0e1b7c63 (computed) (computed; source: https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4)
+
+Rows carry task name, category (browser or computer task), sub-categories, application or website, difficulty, OS label, login requirement, completion time, screenshots, video and DOM file paths, event JSON, reasoning steps and system metadata. Tasks share template IDs across vendors. Deduplicate on unique_data_id. Parquet rows were not recounted.
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md (retrieved 2026-10-18T12:12:10Z; SHA-256 599cec3395df4562f867d0262183df8fc0bd6c2c3e871d518298772e4498c94e)
+- https://huggingface.co/api/datasets/anaisleila/computer-use-data-psai/revision/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4 (retrieved 2026-10-18T12:12:10Z; SHA-256 4b2708de50c2368246883bc0d62919cef0c6843c2172c5ec708d168a0670eaf7)
+- https://huggingface.co/datasets/anaisleila/computer-use-data-psai/raw/0e1b7c63072833ba58b89dcfcc0cbac45107b0f4/README.md (retrieved 2026-10-18T12:12:10Z; SHA-256 599cec3395df4562f867d0262183df8fc0bd6c2c3e871d518298772e4498c94e)
 
 ---
 
@@ -2905,6 +5095,221 @@ The inspected README marks the dataset and collection pipelines as in preparatio
 
 ---
 
+## Sai on OSWorld v2.1 reference-VM runs
+
+Simular's 134 clean runs of its Sai computer-use agent on the 108 OSWorld v2.1 tasks in a reference Ubuntu VM, with OSWorld trajectories, agent records, harness and grader logs, scorecards and screenshot and video tars.
+
+- Catalog URL: https://awesomecua.com/resources/url-a19a076a4808a80f6ac8/
+- Original source: https://huggingface.co/datasets/simular-ai/sai-osworld-v21-reference-runs
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, observability
+- Evidence checked: 2026-10-18T12:34:54Z
+- ID: url:a19a076a4808a80f6ac8
+
+### Limitations
+
+The card reports agent model anthropic/claude-opus-5 at max thinking effort on a cocoon microVM built from the official OSWorld v2.1 reference image (Ubuntu 22.04.3), and five guest image builds (ref4, ref5, ref7, ref8, ref9) that differ only in environment fixes. A run is clean under the card's own rule: a numeric score, infra ok or proxy_missing, and no disk-full, driver-timeout or forced-zero replay-render failure. Headline scores are the publisher's and were not reproduced. Text files are redacted copies (proxy, credentials, per-run GitLab passwords, host names); images and video are unchanged and show masked GitLab login fields and an internal GitLab address in two tasks. The Hub owner simular-ai is the account named Simular, whose site presents Sai as its agent. No license is declared.
+
+- Record JSON: https://awesomecua.com/resources/url-a19a076a4808a80f6ac8/record.json
+
+### Structured profile
+
+- formats: JSONL, JSON, plain-text logs, TAR media archives
+- modalities: screenshots, screen recordings, action trajectories, agent messages and events, harness and grader logs, scores
+- splits: not recorded
+- supervision: grader task scores, agent-generated trajectories
+
+#### Count observations
+
+- 134 clean task runs — osworld-v2.1 release as described by the card (reported; source: https://huggingface.co/datasets/simular-ai/sai-osworld-v21-reference-runs/raw/abfb5852189f49e81255c38d98287df29ae53658/README.md)
+- 134 run/task directories with traj.jsonl — runs/ at Hub revision abfb5852 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658)
+- 108 distinct OSWorld v2.1 tasks — runs/ at Hub revision abfb5852 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658)
+- 18 batch directories — runs/ at Hub revision abfb5852 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658)
+- 134 per-run media TAR archives — media/ at Hub revision abfb5852 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658)
+
+Computed counts come from a script over the pinned Hub file list. A run is one task execution; some tasks ran more than once, so 134 run directories cover 108 tasks, grouped under 18 batch directories. Card headline: 0.7731 mean over tasks of each task's mean clean score (first clean run 0.7674, best 0.7938), from the benchmark grader, not independent labels. No task file or media archive was downloaded.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: The card declares no license in its metadata or text, and the file list at this revision has no license file, so no data grant is established; agent outputs and captured third-party content keep their own terms.
+  Sources: https://huggingface.co/datasets/simular-ai/sai-osworld-v21-reference-runs/raw/abfb5852189f49e81255c38d98287df29ae53658/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/simular-ai/sai-osworld-v21-reference-runs/raw/abfb5852189f49e81255c38d98287df29ae53658/README.md (retrieved 2026-10-18T12:34:54Z; SHA-256 d11edc15df8bb33c7ef2a49772985166f6fb37107e5e36334653c95108246a12)
+- https://huggingface.co/api/datasets/simular-ai/sai-osworld-v21-reference-runs/revision/abfb5852189f49e81255c38d98287df29ae53658 (retrieved 2026-10-18T12:33:58Z; SHA-256 de6231347f32cc04143d47778d616ef03fc6a6d49ebb69b7992a1f95fc7e92ec)
+
+---
+
+## Sai OSWorld-V2 benchmark runs
+
+Simular's per-task evidence from two complete 108-task OSWorld-V2 runs of its Sai computer-use agent: scores, step trajectories, message traces, evaluator and API logs, and run manifests, without screenshots.
+
+- Catalog URL: https://awesomecua.com/resources/url-e0180b9651fec04d0308/
+- Original source: https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: evaluation, observability
+- Evidence checked: 2026-10-18T12:27:42Z
+- ID: url:e0180b9651fec04d0308
+
+### Limitations
+
+The card reports run1 (2026-08-12) at a 0.7276 mean score with 28 perfect tasks and run2 (2026-08-20) at 0.7329 with 33, both 108/108 scored with anthropic/claude-opus-5 at max thinking, a 500-step limit and claude-sonnet-4-6 as evaluator and user simulator; these are publisher measurements and were not reproduced. The run manifests record an Ubuntu 1920x1080 VM on AWS, screenshot observations, the pyautogui action space, benchmark release osworld-v2-2026.06.24 and a separate grounding model (simular-ui-venus-15-30b-a3b-rtx6000). Each run root's manifest describes its last partial invocation (a one-task backfill for run1, a three-task infrastructure rerun for run2), not the whole run. Superseded attempt directories are kept beside the canonical three-digit task directories. The card names a RUNS.md index that is absent at this revision. The Hub license is `other` with no license text.
+
+- Record JSON: https://awesomecua.com/resources/url-e0180b9651fec04d0308/record.json
+
+### Structured profile
+
+- formats: JSON, JSONL, CSV, plain-text logs, Markdown
+- modalities: action trajectories, agent messages and events, runtime and evaluator logs, scores
+- splits: not recorded
+- supervision: evaluator task scores, agent-generated trajectories
+
+#### Count observations
+
+- 2 complete 108-task benchmark runs — Hub revision fb621da2 (reported; source: https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/README.md)
+- 108 canonical task directories with traj.jsonl — run1/ at Hub revision fb621da2 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a)
+- 108 canonical task directories with traj.jsonl — run2/ at Hub revision fb621da2 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a)
+- 23 superseded attempt directories — run1/ at Hub revision fb621da2 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a)
+- 4 superseded attempt directories — run2/ at Hub revision fb621da2 (computed) (computed; source: https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a)
+
+Counts come from a script over the pinned Hub file list: a canonical directory has a three-digit task name; suffixed names (_infra_, _hung_, _attempt1 and similar) are superseded attempts that the card keeps as evidence. Screenshots, observation images and recordings were removed by the publisher, so the trajectories cannot be replayed visually. Scores come from an LLM evaluator and are not independent quality labels; no task file was downloaded beyond the run manifests and score tables.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: The card metadata declares only `license: other`, and neither the card nor the file list at this revision contains license text, so no data grant is established. Agent outputs and logged third-party content keep their own terms.
+  Sources: https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/README.md (retrieved 2026-10-18T12:27:42Z; SHA-256 4538e115e893cdbc8f61446b4bd4a7e173fadb78eef5906e4d236f0a05399ce7)
+- https://huggingface.co/api/datasets/simular-ai/sai-osworld-v2-benchmark-runs/revision/fb621da25cb55a45e19f4258eea4c4fd795c625a (retrieved 2026-10-18T12:26:14Z; SHA-256 c71c46888e4f6723aa2f654e2f8256a64f11a56be166aaf05fce9fcd1c012e3d)
+- https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/run1/run_manifest.json (retrieved 2026-10-18T12:26:22Z; SHA-256 72f7d1c318890f190dd8279d8f6a34f2fb2694dd524335fd4b79b87eaafb4410)
+- https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/run2/run_manifest.json (retrieved 2026-10-18T12:26:22Z; SHA-256 2857dfa4d3c3da2058065df7cf476ec07fab866f07a09f8b256e1c19de59d58e)
+- https://huggingface.co/datasets/simular-ai/sai-osworld-v2-benchmark-runs/raw/fb621da25cb55a45e19f4258eea4c4fd795c625a/README.md (retrieved 2026-10-18T12:27:42Z; SHA-256 4538e115e893cdbc8f61446b4bd4a7e173fadb78eef5906e4d236f0a05399ce7)
+
+---
+
+## Salesforce Grounding Dataset
+
+GUI grounding set that merges Aria-UI, OmniAct, Widget Caption, UI-Vision and OS-Atlas screenshots into target boxes with action, appearance, function and combined instructions, cited to GTA1.
+
+- Catalog URL: https://awesomecua.com/resources/url-1001251b5a7729988118/
+- Original source: https://huggingface.co/datasets/Salesforce/grounding_dataset
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, desktop, web
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-18T12:26:45Z
+- ID: url:1001251b5a7729988118
+
+### Limitations
+
+Hub revision 0bf2eb71 lists the card and 75 train Parquet shards; the repository is not gated. The card names desktop, web, mobile and operating-system interfaces without naming a mobile OS. Each row keeps a source-dataset tag and the original caption; the card does not describe how the description, function and combined instruction fields were produced, and no rows were downloaded. The card asks users to cite GTA1 and the five source datasets but does not say which GTA1 checkpoint was trained on this release. No license is declared for the compilation itself.
+
+- Record JSON: https://awesomecua.com/resources/url-1001251b5a7729988118/record.json
+
+### Structured profile
+
+- formats: Parquet
+- modalities: GUI screenshots, bounding boxes, instructions, element descriptions
+- splits: train
+- supervision: instruction-to-bounding-box GUI grounding
+
+#### Count observations
+
+- 70,688 examples — train split at Hub revision 0bf2eb71 (reported; source: https://huggingface.co/datasets/Salesforce/grounding_dataset/raw/0bf2eb71734353da92f137f8b26e27c2f75efcfc/README.md)
+
+The count is the card's dataset_info num_examples for the train split and was not recounted from the 75 Parquet shards. An example is one screenshot-target pair with its instructions, not a unique screen. Rows are tagged ariaui, omniact, widget_caption, ui_vision or os_altas by source.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: The card declares no license for this compilation. It lists the five source datasets' own licenses (Apache-2.0, MIT, CC BY 4.0), which stay with those sources and are not a grant for this release.
+  Sources: https://huggingface.co/datasets/Salesforce/grounding_dataset/raw/0bf2eb71734353da92f137f8b26e27c2f75efcfc/README.md
+
+### Primary evidence
+
+- https://huggingface.co/datasets/Salesforce/grounding_dataset/raw/0bf2eb71734353da92f137f8b26e27c2f75efcfc/README.md (retrieved 2026-10-18T12:26:45Z; SHA-256 503369538fd705e5932f9eaa32b1107874fbb1392ead98c64988d9f1da3c4459)
+- https://huggingface.co/api/datasets/Salesforce/grounding_dataset/revision/0bf2eb71734353da92f137f8b26e27c2f75efcfc (retrieved 2026-10-18T12:25:55Z; SHA-256 573d7ee66dbb84e8eef9609b7f1ce3913659521a4895fb92c2731b73d7de82ab)
+
+---
+
+## SATraj-OS
+
+Desktop computer-use trajectories with per-step screenshots and success, safety and attack labels, split into capability runs, safe-completion and refusal runs, and a legacy RiOSWorld-derived safety archive.
+
+- Catalog URL: https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/
+- Original source: https://huggingface.co/datasets/AI45Research/SATraj-OS
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: data-generation, safety-security, imitation-learning
+- Evidence checked: 2026-10-18T11:15:59Z
+- ID: url:73b9b17648ea7af7aa8f
+
+### Limitations
+
+The ungated Hub repository (revision 74deb768) publishes trajectories.jsonl files with zipped or tarred step screenshots in three configs: Capability (tasks from SCOPE-Gen), Safety-v2 (safe completions and refusals on attack-injected Capability tasks) and a legacy Safety archive generated through RiOSWorld rollouts that keeps risky outcomes. Each record has chat-format messages whose assistant turns hold an action description and a coordinate action, plus success, safety, reward and attack fields. The card declares Apache-2.0 for the data; screenshots show third-party desktop applications whose own terms are not addressed. Thunderbird and VLC capability files are present but not listed in the capability config. The Safactory report (arXiv 2605.06230, v2) describes SATraj-OS as produced with its OSGym environment and reports 10,496 trajectories and 158,196 steps. That paper is not yet in the retained archive, so no paper relation is recorded. Publisher model results trained on the data were not reproduced.
+
+- Record JSON: https://awesomecua.com/resources/url-73b9b17648ea7af7aa8f/record.json
+
+### Structured profile
+
+- formats: JSONL, ZIP image archives, tar.gz image archives
+- modalities: screenshots, instructions, actions, action descriptions
+- splits: capability/train, safety/train, safety_v2/train
+- supervision: computer-use trajectories, task-success labels, safety-outcome labels, safe-refusal examples
+
+#### Count observations
+
+- 4,344 trajectories — Capability set (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
+- 68,140 interaction steps — Capability set (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
+- 541 trajectories — Safety-v2 set (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
+- 3,486 interaction steps — Safety-v2 set (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
+- 6,152 trajectories — legacy Safety archive (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
+- 88,496 interaction steps — legacy Safety archive (reported; source: https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md)
+
+Counts are publisher-reported on the card and were not recomputed from the JSONL files. The card's headline 4,885 trajectories and 71,626 steps cover Capability plus Safety-v2 only. The Safactory report's 10,496 trajectories match Capability plus the legacy Safety archive, but its 158,196 steps do not equal the card's step totals for those sets. A trajectory is a multi-step episode, not a screenshot count.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md (retrieved 2026-10-18T11:15:59Z; SHA-256 2e23775770af343f07319036f671ad5561ec387fcbcc2f7ea9199bf90494d977)
+- https://huggingface.co/api/datasets/AI45Research/SATraj-OS (retrieved 2026-10-18T11:16:00Z; SHA-256 9afd95cd02de90cb4fab79a80810f5858409128e23a19b6913b79571ea5766f5)
+- https://arxiv.org/html/2605.06230v2 (retrieved 2026-10-18T11:16:01Z; SHA-256 f2b9696b13f7052a31f460675dd19e406485816dd284892378c2e281ec3d3d16)
+- https://huggingface.co/datasets/AI45Research/SATraj-OS/raw/main/README.md (retrieved 2026-10-18T11:15:59Z; SHA-256 2e23775770af343f07319036f671ad5561ec387fcbcc2f7ea9199bf90494d977)
+
+---
+
 ## ScaleCUA Data
 
 Cross-platform training data released with ScaleCUA, with grounding and navigation annotations for Ubuntu, Windows, macOS, Android, iPhone and web screenshots.
@@ -3002,6 +5407,63 @@ Observation modes follow publisher archive labels rather than inspected record s
 
 ---
 
+## Screen Annotation
+
+Google Research release of ScreenAI's Screen Annotation data: train, validation and test CSVs that describe the UI elements of Rico mobile screens by type, box coordinates, on-screen text and image captions.
+
+- Catalog URL: https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/
+- Original source: https://github.com/google-research-datasets/screen_annotation
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding
+- Evidence checked: 2026-10-18T12:32:42Z
+- ID: github:google-research-datasets/screen_annotation
+
+### Limitations
+
+Each CSV row pairs a Rico screen ID with one text serialization of the screen's UI elements, nested by containment; screenshots are not redistributed and come from Rico, which the Rico paper describes as Android apps. The README says the labels were produced automatically and then verified and corrected by human raters, and that the splits follow Screen2Words. Its per-split figures (15,743, 2,364 and 4,310 screenshots) are larger than the rows in the CSVs at commit 053a4a1c: 15,548 train, 2,311 valid and 4,217 test. The README names the columns image_id and label, while the files use screen_id and screen_annotation. CC BY 4.0 is the README's dataset declaration; the repository has no LICENSE file, and Rico screenshots keep their own terms.
+
+- Record JSON: https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/record.json
+
+### Structured profile
+
+- formats: CSV
+- modalities: text annotations, bounding-box coordinates, Rico screen IDs
+- splits: train, valid, test
+- supervision: screen annotation: UI element type, location, text and image description
+
+#### Count observations
+
+- 15,743 screenshots — train split as stated in the README (Screen2Words split) (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md)
+- 2,364 screenshots — validation split as stated in the README (Screen2Words split) (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md)
+- 4,310 screenshots — test split as stated in the README (Screen2Words split) (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md)
+- 2,311 annotated screens (CSV rows) — valid.csv at commit 053a4a1c (computed) (computed; source: https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/valid.csv)
+- 4,217 annotated screens (CSV rows) — test.csv at commit 053a4a1c (computed) (computed; source: https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/test.csv)
+
+The README's split sizes count screenshots; the CSV row counts count annotated screens, one row per screen ID. train.csv holds 15,548 rows at the same commit. Labels were machine-generated and then verified and corrected by human raters, according to the README.
+
+### License declarations
+
+- code: not recorded
+- data: CC-BY-4.0 — https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md
+- document: not recorded
+- weights: not recorded
+
+- data review: The README states that the dataset is licensed under CC BY 4.0; Rico screenshots keep their own terms.
+  Sources: https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md
+
+### Primary evidence
+
+- https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/README.md (retrieved 2026-10-18T12:32:42Z; SHA-256 db749dd869ced469a63b403173d9a69593778afc4afb43aacde4f2149d0485f9)
+- https://api.github.com/repos/google-research-datasets/screen_annotation/git/trees/053a4a1c4737969def99fd36084d7adf3715798f?recursive=1 (retrieved 2026-10-18T12:32:43Z; SHA-256 ca12adf80ac7aa1efa98dab82d3a533fb40b49eeb8510f28df696788efa5236a)
+- https://danafergan.com/publications/deka2017rico.pdf (retrieved 2026-10-18T12:33:11Z; SHA-256 a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84)
+- https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/valid.csv (retrieved 2026-10-18T12:32:44Z; SHA-256 a1f5928168d2dc71e70f41f8dcd7cc8f855d76bde709ddfd4b58e4660aa18457)
+- https://raw.githubusercontent.com/google-research-datasets/screen_annotation/053a4a1c4737969def99fd36084d7adf3715798f/test.csv (retrieved 2026-10-18T12:32:44Z; SHA-256 db247ac02ce875c49c3429ae0bdfef0039cacc663598c61b7541f24342537f98)
+
+---
+
 ## Screen2Words
 
 Mobile screen descriptions for language-based screen understanding.
@@ -3093,6 +5555,57 @@ Raw and Parquet folders are alternative views of the same data. Each sample desc
 
 - https://huggingface.co/datasets/h-siyuan/ScreenDrag/raw/main/README.md (retrieved 2026-10-16T11:12:56Z; SHA-256 39c7c028f7ef5ca5c75f79b59a107c7e25444776095a2a08bb7535c4f523f7fa)
 - https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md (retrieved 2026-10-16T11:09:28Z; SHA-256 88df552ccbe80efd7020905d77d526f4f9efe2d09a11fed2714b083988f9dcef)
+
+---
+
+## ScreenParse
+
+Dense screen-parsing data that labels the visible UI elements of rendered web screenshots with boxes, 55 element classes, text, interactability and reading order, generated by an automated crawl-and-filter pipeline.
+
+- Catalog URL: https://awesomecua.com/resources/url-98e8a413ddd670214755/
+- Original source: https://huggingface.co/datasets/docling-project/screenparse
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: screen-understanding, data-generation, grounding
+- Evidence checked: 2026-10-18T12:16:38Z
+- ID: url:98e8a413ddd670214755
+
+### Limitations
+
+The main branch holds the v2 release, which the card describes as using leaf-element annotations, stricter quality filtering and varied viewport resolutions; the first release stays on the repository's v1 branch and is not described here. Labels come from DOM extraction refined by Qwen3-VL-8B-Instruct and VLM-as-a-judge filtering, not from human annotation. CC-BY-4.0 is the card's data declaration and does not establish rights to the crawled websites' content. The Parquet shards were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-98e8a413ddd670214755/record.json
+
+### Structured profile
+
+- formats: Parquet
+- modalities: web screenshots, source URLs, element annotations
+- splits: train
+- supervision: UI element bounding boxes, element class labels, element text, interactable flags, reading-order indices
+
+#### Count observations
+
+- 1,447,100 screenshots — ScreenParse v2 train split (main branch) (reported; source: https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md)
+- 25,575,213 UI element annotations — ScreenParse v2 train split (main branch) (reported; source: https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md)
+- 55 UI element classes — ScreenParse v2 label set (reported; source: https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md)
+- 1,448 Parquet shards — Hub manifest at revision bc0113f9 (computed) (computed; source: https://huggingface.co/api/datasets/docling-project/screenparse)
+
+Screenshots, element annotations, classes and shards are different units and are not summed. Screenshot and annotation counts are the card's v2 figures; the shard count is computed from the Hub file manifest.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md (retrieved 2026-10-18T12:16:38Z; SHA-256 9e39571a8b8d5406fe580a4160ac43226b3fc6abb461d96b5b644171223f948e)
+- https://huggingface.co/api/datasets/docling-project/screenparse (retrieved 2026-10-18T12:16:38Z; SHA-256 cd1f607be439cef0ed4a47265be47673495964289006ee6cbac63b4cdd507bcb)
+- https://huggingface.co/datasets/docling-project/screenparse/raw/bc0113f94e262ac39bf881c60547a09b5b4e4462/README.md (retrieved 2026-10-18T12:16:38Z; SHA-256 9e39571a8b8d5406fe580a4160ac43226b3fc6abb461d96b5b644171223f948e)
 
 ---
 
@@ -3433,6 +5946,59 @@ No sample or episode count is inferred from the size tag or package manifest. Ma
 
 - https://huggingface.co/datasets/showlab/ShowUI-pi-data/raw/main/README.md (retrieved 2026-10-17T04:01:33Z; SHA-256 0e3a2a923865ae24d0de590143e9e32564b0e20db059579582d6181cdcf75bf1)
 - https://huggingface.co/api/datasets/showlab/ShowUI-pi-data (retrieved 2026-10-17T04:01:33Z; SHA-256 86fadf9a32185f018f6a8e49d52b39ee5c99c177075510361202dc25a214191f)
+
+---
+
+## Two-Box Judge GUI Dataset
+
+Training data for BAMI's local correction model: pairs of cropped GUI screenshots that each highlight one candidate box, with a click command and an automatic label for the box that fits it.
+
+- Catalog URL: https://awesomecua.com/resources/url-e7c3d3d49bf977b49996/
+- Original source: https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web, desktop, windows, macos
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-18T15:35:11Z
+- ID: url:e7c3d3d49bf977b49996
+
+### Limitations
+
+In each sample, the first crop marks the grounding model's initial box and the second the box found after masking and regrounding; both are crops around the candidate, not full screenshots. Labels come from IoU of at least 0.5 or a center point inside the ground-truth box, with box 1 chosen when both or neither qualify, so the classes are imbalanced. The card names GUIAct web data and an unnamed Windows/macOS desktop set as sources. The 12,849-sample validation split that the card and dataset_infos.json report is not in the repository at revision a09c08da, although the bundled loader expects a validation folder. Apache-2.0 is the card's data declaration and does not settle rights in the upstream screenshots. Appendix C.3 of the BAMI paper (v1 HTML) describes training its LoRA Qwen3-VL-8B corrector on 128,487 such samples.
+
+- Record JSON: https://awesomecua.com/resources/url-e7c3d3d49bf977b49996/record.json
+
+### Structured profile
+
+- formats: Parquet metadata, PNG images
+- modalities: cropped GUI screenshots with a highlighted candidate box, natural-language click commands
+- splits: train
+- supervision: automatically derived choice between two candidate boxes against ground truth
+
+#### Count observations
+
+- 115,638 two-box samples — train/metadata.parquet at revision a09c08da (106,350 labeled box 1, 9,288 labeled box 2) (computed) (computed; source: https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/resolve/a09c08daed473ad1154414021a3d724d68deeb37/train/metadata.parquet)
+- 12,849 two-box samples — validation split as reported; no validation files at revision a09c08da (reported; source: https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json)
+- 128,487 two-box samples — train plus validation as reported by dataset_infos.json and the card (reported; source: https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json)
+
+Each sample has two image files, so image and sample counts differ. The train metadata has 27,934 distinct command strings; per its original-path columns, 98,369 train rows come from a desktop-named source folder and 17,269 from another folder. The card's per-source figures (about 70K GUIAct and 423K desktop samples) describe the pool before balancing, not this release. Image files were not downloaded or counted.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/README.md (retrieved 2026-10-18T15:35:11Z; SHA-256 962d7047eaefbd0ea93a9240bd729dae0c042bba27d41a2eb0a8289fcd3bab99)
+- https://huggingface.co/api/datasets/THU-BoZhang/two-box-judge-gui/revision/a09c08daed473ad1154414021a3d724d68deeb37 (retrieved 2026-10-18T15:33:04Z; SHA-256 54e36fe240316a7266800b025607da2d10a4aff3f1bcfc814d956a6f1bee4dd5)
+- https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/dataset_infos.json (retrieved 2026-10-18T15:33:04Z; SHA-256 96259003534aa7368a090f5c71b8da188c0ffbacf5af04ae52f3252b3a189549)
+- https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/resolve/a09c08daed473ad1154414021a3d724d68deeb37/train/metadata.parquet (retrieved 2026-10-18T15:33:04Z; SHA-256 fabf1525a1e7ad6eac27f6c3c67a24ea1e5881b39cb1e94745a1455558c5ae91)
+- https://arxiv.org/html/2605.06664v1 (retrieved 2026-10-18T15:33:04Z; SHA-256 2b2685f4f68842335f3357e1f1670c00a1183ad7c629cc43fe21bca40eb1ecfb)
+- https://huggingface.co/datasets/THU-BoZhang/two-box-judge-gui/raw/a09c08daed473ad1154414021a3d724d68deeb37/README.md (retrieved 2026-10-18T15:35:11Z; SHA-256 962d7047eaefbd0ea93a9240bd729dae0c042bba27d41a2eb0a8289fcd3bab99)
 
 ---
 
@@ -3917,6 +6483,170 @@ Publisher-reported current release, separate from the smaller original-paper pop
 
 ---
 
+## Uni-GUI-Desktop-1
+
+Desktop trajectories from the UI-MOPD training data, collected in OSWorld environments: 2,685 tasks across 10 app categories with step screenshots, reasoning traces, normalized actions and pyautogui code.
+
+- Catalog URL: https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/
+- Original source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, linux
+- Topics: data-generation, imitation-learning, cross-app
+- Evidence checked: 2026-10-18T15:41:52Z
+- ID: url:20f7cdee10b0dd70815f
+
+### Limitations
+
+The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajectories plus cleaned OpenCUA and OpenMobile trajectories; its composition table rounds the self-collected desktop part to about 7K trajectories and 95K steps, so this repository (2,685 trajectories and about 36K steps per the card) holds a portion of it. Per the paper, desktop queries were generated with Kimi-K2.6 from functional points of initialized OSWorld environments, Kimi-K2.6 produced the rollouts and Gemini-3.1-Pro cleaned them, so these are not human demonstrations. Every folder name ends in an OSWorld task ID: a script over the manifest finds 245 distinct IDs, all present in OSWorld's test_all.json, with up to 19 trajectories each. Two opened task.json files for the same OSWorld task label it 'OSWorld'; one repeats that task's instruction verbatim and the other paraphrases it, so the data overlaps OSWorld's test tasks. Both carry verified: false and task_completed: true, while the card's example shows verified: true; 160 folders also hold a result.txt. Linux is inferred from the paper's use of OSWorld environments and the Linux terminal and /home/user paths in the opened queries. Apache-2.0 is the card's declaration and does not cover third-party application content in screenshots. Only two task.json files and one result.txt were opened.
+
+- Record JSON: https://awesomecua.com/resources/url-20f7cdee10b0dd70815f/record.json
+
+### Structured profile
+
+- formats: per-trajectory folders with task.json and PNG screenshots
+- modalities: screenshots, task queries, reasoning traces, actions
+- splits: not recorded
+- supervision: teacher-model GUI trajectories cleaned by a filtering pipeline, structured reasoning traces, normalized desktop actions with pyautogui code
+
+#### Count observations
+
+- 2,685 trajectories — Uni-GUI-Desktop-1 card statistics (reported; source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md)
+- ≈ 36,000 steps — Uni-GUI-Desktop-1 card statistics (reported; source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md)
+- 10 application categories — Uni-GUI-Desktop-1 card statistics (reported; source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md)
+- 2,685 task.json trajectory files — Hub manifest at revision 92ef5917 (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62)
+- 38,283 PNG screenshot files — Hub manifest at revision 92ef5917 (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62)
+- 245 distinct OSWorld task IDs in trajectory folder names — Hub manifest at revision 92ef5917, matched against OSWorld test_all.json (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62)
+
+Trajectories, steps, application categories, files and task IDs are different units and are not summed. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 999] on a 1920x1080 screen. No train/test split is declared.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md (retrieved 2026-10-18T15:41:52Z; SHA-256 b42140e6959b7265a2594fe4aabb79cd6f79b48ab6e59c70f018d5ddd011ef63)
+- https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Desktop-1/revision/92ef5917cd46a899a13461532fdda9e5a8d3bc62 (retrieved 2026-10-18T15:41:30Z; SHA-256 10e90be7f9d76804ea44a39ea33c0d3d6f121fc2cb23d0d5eb0ffa0e3f92a6e4)
+- https://arxiv.org/html/2607.04425v1 (retrieved 2026-10-18T15:41:30Z; SHA-256 7fc33cf335f41716d5030d562cd6b53323a32f81551caa130afa43043509511b)
+- https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/47a8cd34-02ce9a50-7af2-47ed-8596-af0c230501f8/task.json (retrieved 2026-10-18T15:41:30Z; SHA-256 f6becd79ec187bd6d6ea2ba3a5521c6b80d6b4b5e5d6efb2e0422ef0f369578a)
+- https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/0c267f5e-02ce9a50-7af2-47ed-8596-af0c230501f8/task.json (retrieved 2026-10-18T15:41:30Z; SHA-256 7af0ffc4d28e344dd6fddd670121573d027b66b72d420fe49db343b35a68bee5)
+- https://raw.githubusercontent.com/xlang-ai/OSWorld/b138d348256078fa634fc3b73567a7337c793e6b/evaluation_examples/test_all.json (retrieved 2026-10-18T15:41:30Z; SHA-256 9ebc5187cbd727ef26c24626820076b102fff812863c640a67c467fea9542ab5)
+- https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Desktop-1/raw/92ef5917cd46a899a13461532fdda9e5a8d3bc62/README.md (retrieved 2026-10-18T15:41:52Z; SHA-256 b42140e6959b7265a2594fe4aabb79cd6f79b48ab6e59c70f018d5ddd011ef63)
+
+---
+
+## Uni-GUI-Mobile
+
+Self-collected phone trajectories from the UI-MOPD training data: 871 tasks across 10 app categories, each with step screenshots, reasoning traces, normalized tap, swipe and type actions, and adb commands.
+
+- Catalog URL: https://awesomecua.com/resources/url-93278fa5b9e6bd0cbcef/
+- Original source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: data-generation, mobile-navigation, imitation-learning
+- Evidence checked: 2026-10-18T12:32:23Z
+- ID: url:93278fa5b9e6bd0cbcef
+
+### Limitations
+
+The UI-MOPD paper builds Uni-GUI from self-collected desktop and mobile trajectories plus cleaned OpenCUA and OpenMobile trajectories; this repository is the self-collected mobile part (the paper's composition table rounds it to about 1K trajectories and 17K steps, the card reports about 14K steps). Per the paper, teacher models produced the rollouts, an automatic judge kept only successful ones, and reasoning traces were rewritten into one format, so these are not human demonstrations. The card says only 'mobile'; Android is inferred from the adb commands in its step records and the paper's use of AndroidWorld and MobileWorld environments for mobile queries. Apache-2.0 is the card's declaration and does not cover third-party app content in screenshots. Files were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-93278fa5b9e6bd0cbcef/record.json
+
+### Structured profile
+
+- formats: per-trajectory folders with task.json and PNG screenshots
+- modalities: screenshots, task queries, reasoning traces, actions
+- splits: not recorded
+- supervision: teacher-model GUI trajectories filtered by an automatic success judge, structured reasoning traces, normalized mobile actions with adb commands
+
+#### Count observations
+
+- 871 trajectories — Uni-GUI-Mobile card statistics (reported; source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md)
+- ≈ 14,000 steps — Uni-GUI-Mobile card statistics (reported; source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md)
+- 10 app categories — Uni-GUI-Mobile card statistics (reported; source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md)
+- 871 task.json trajectory files — Hub manifest at revision 45244387 (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838)
+- 14,275 PNG screenshot files — Hub manifest at revision 45244387 (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838)
+
+Trajectories, steps, app categories and files are different units and are not summed. The task.json count from the manifest matches the card's trajectory count; screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 999] on a 1080x2400 screen. No train/test split is declared.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md (retrieved 2026-10-18T12:32:23Z; SHA-256 5a71bb44474b2544510d62e30112412096b6ffe0f9c2f5abf8e49bf8273bc088)
+- https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-Mobile/revision/45244387a3c284810894bc2be974b28014dcf838 (retrieved 2026-10-18T12:32:02Z; SHA-256 b3ae1be79448b6a2901630def28957fe31e4a16da9ed09c0e4d4e1180faef392)
+- https://arxiv.org/html/2607.04425v1 (retrieved 2026-10-18T12:32:02Z; SHA-256 7fc33cf335f41716d5030d562cd6b53323a32f81551caa130afa43043509511b)
+- https://huggingface.co/datasets/UI-MOPD/Uni-GUI-Mobile/raw/45244387a3c284810894bc2be974b28014dcf838/README.md (retrieved 2026-10-18T12:32:23Z; SHA-256 5a71bb44474b2544510d62e30112412096b6ffe0f9c2f5abf8e49bf8273bc088)
+
+---
+
+## Uni-GUI-OpenMobile
+
+Android trajectories on 19 open-source apps from the UI-MOPD training data, collected via AndroidWorld: 2,640 tasks with step screenshots, reasoning traces and normalized click, swipe, type and answer actions.
+
+- Catalog URL: https://awesomecua.com/resources/url-66a0adb854eff694965d/
+- Original source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: data-generation, mobile-navigation, imitation-learning
+- Evidence checked: 2026-10-18T12:34:20Z
+- ID: url:66a0adb854eff694965d
+
+### Limitations
+
+The UI-MOPD paper's Uni-GUI combines self-collected trajectories with cleaned public OpenCUA and OpenMobile (arxiv:2604.15093) trajectories, and its composition table lists a mobile OpenMobile part of about 2.7K trajectories and 35K steps; this repository's name and 2,640 trajectories match that part, though its card describes the data only as collected on open-source apps via AndroidWorld and reports about 25.9K steps. Episode IDs carry split1 to split4 prefixes. Every folder also has a result.json (a sampled one holds the goal and raw per-step model responses with tool calls), and 1,913 folders have a metadata.json that was not opened. Apache-2.0 is the card's declaration and does not settle rights to the upstream trajectories or app content.
+
+- Record JSON: https://awesomecua.com/resources/url-66a0adb854eff694965d/record.json
+
+### Structured profile
+
+- formats: per-trajectory folders with task.json, result.json and PNG screenshots
+- modalities: screenshots, task queries, reasoning traces, actions
+- splits: not recorded
+- supervision: agent trajectories cleaned and normalized for supervised training, structured reasoning traces, normalized mobile actions
+
+#### Count observations
+
+- 2,640 trajectories — Uni-GUI-OpenMobile card statistics (reported; source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md)
+- ≈ 25,900 steps — Uni-GUI-OpenMobile card statistics (reported; source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md)
+- 19 open-source Android apps — Uni-GUI-OpenMobile card statistics (reported; source: https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md)
+- 2,640 task.json trajectory files — Hub manifest at revision 774eb20f (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38)
+- 34,344 PNG screenshot files — Hub manifest at revision 774eb20f (computed) (computed; source: https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38)
+
+Trajectories, steps, apps and files are different units and are not summed. The task.json count from the manifest matches the card's trajectory count, and the card's per-app counts sum to 2,640 trajectories. Screenshot files were counted from the manifest, not opened. Coordinates are normalized to [0, 1000] on a 1080x2400 screen. No train/test split is declared; the split1 to split4 episode prefixes (727, 603, 793 and 517 trajectories) are not documented as splits.
+
+### License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md (retrieved 2026-10-18T12:34:20Z; SHA-256 3ac1e8c3b57cf43297a1b4487a621fc8920c0983d62ffa13e468d3a5a3dfcf72)
+- https://huggingface.co/api/datasets/UI-MOPD/Uni-GUI-OpenMobile/revision/774eb20f97724bf64faa9e66b1572f05b1688e38 (retrieved 2026-10-18T12:33:58Z; SHA-256 78a2b80c6ad0d44016c7858c47b6871f4de3cfb880dd18ffff446629b0efd1ae)
+- https://arxiv.org/html/2607.04425v1 (retrieved 2026-10-18T12:32:02Z; SHA-256 7fc33cf335f41716d5030d562cd6b53323a32f81551caa130afa43043509511b)
+- https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/split1_1004_ExpenseAddMultipleFromGallery/result.json (retrieved 2026-10-18T12:33:58Z; SHA-256 cd0e9164c57baa4e9d2dc1854337fed09e961cf710ee3a69d52fe1623cca6f9e)
+- https://huggingface.co/datasets/UI-MOPD/Uni-GUI-OpenMobile/raw/774eb20f97724bf64faa9e66b1572f05b1688e38/README.md (retrieved 2026-10-18T12:34:20Z; SHA-256 3ac1e8c3b57cf43297a1b4487a621fc8920c0983d62ffa13e468d3a5a3dfcf72)
+
+---
+
 ## VideoCAD data
 
 CAD screen recordings paired with action logs and target model images for studying precise interface control and long-horizon visual imitation.
@@ -3963,6 +6693,59 @@ The reported video total is distinct from the Dataverse package-file count. The 
 - https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/README.md (retrieved 2026-10-18T12:02:53.536297+00:00; SHA-256 cbb08803922b4b7736979ca0a5fe552b111fcd428fa9317401bc090b14bb4e54)
 - https://arxiv.org/html/2505.24838v2 (retrieved 2026-10-18T12:02:34.311949+00:00; SHA-256 a303d95a811331cd6ee23b0340f1b9ef2dd996835bfbc66656a871ff94eead50)
 - https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK (retrieved 2026-10-17T02:03:20Z; SHA-256 f67df0a4422a0484aaa2f93cd185b7000070d2a88d919d9ef995587f5e724007)
+
+---
+
+## VideoCUA
+
+Expert desktop computer-use demonstrations from CUA-Suite: 30 fps screen recordings with millisecond-timestamped mouse and keyboard action logs for about 10K tasks in 87 applications.
+
+- Catalog URL: https://awesomecua.com/resources/url-78adf6919bdbce42bc24/
+- Original source: https://huggingface.co/datasets/ServiceNow/VideoCUA
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: video, recording, imitation-learning, action-prediction, data-generation
+- Evidence checked: 2026-10-18T15:36:02Z
+- ID: url:78adf6919bdbce42bc24
+
+### Limitations
+
+At revision 6ecc530d raw_data/ holds one ZIP archive per application, 87 in total and about 26.1 GB. The card describes each archive as task folders with an action_log.json (instruction, platform and timestamped actions) and a 1920x1080 MP4 recording with its metadata; each action carries a groundcua_id that the card says identifies the matching annotated GroundCUA screenshot. Frame extraction into trajectories and LLM-written chain-of-thought steps come from a pipeline in the GroundCUA GitHub repository, so this release holds raw recordings and logs, not reasoning annotations. The card names no operating system. Its license section links a LICENSE file that the repository does not contain; MIT is the card's metadata declaration and does not establish rights to the recorded applications' content. Task, hour and frame figures are publisher-reported; the archives were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-78adf6919bdbce42bc24/record.json
+
+### Structured profile
+
+- formats: ZIP archives of MP4 video and JSON
+- modalities: screen recordings, action logs, instructions
+- splits: not recorded
+- supervision: human expert task demonstrations, timestamped mouse and keyboard actions, task instructions
+
+#### Count observations
+
+- ≈ 10,000 tasks — VideoCUA corpus as stated on the card (reported; source: https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md)
+- ≈ 55 hours of 30 fps screen recording — VideoCUA corpus as stated on the card (reported; source: https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md)
+- ≈ 6,000,000 video frames — VideoCUA corpus as stated on the card (reported; source: https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md)
+- 87 per-application ZIP archives — raw_data/ at revision 6ecc530d (computed) (computed; source: https://huggingface.co/api/datasets/ServiceNow/VideoCUA/tree/6ecc530df848f916bf0d195c66823ef8363abb93/raw_data)
+
+Tasks, hours, frames and archives are different units and are not summed. The archive count is computed from the Hub tree listing; the card also reports 87 applications. No train/test split is declared.
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md (retrieved 2026-10-18T15:36:02Z; SHA-256 41b871f55b233cc8424ff55fa4294a66fd2f88fe1dbce9dea924fd651ae1b778)
+- https://huggingface.co/api/datasets/ServiceNow/VideoCUA?expand%5B%5D=sha&expand%5B%5D=gated&expand%5B%5D=disabled&expand%5B%5D=cardData&expand%5B%5D=lastModified (retrieved 2026-10-18T15:36:02Z; SHA-256 75b4545d65bfb6a101a4624859802a4384e74eba85aacbf6d3f4e395d22ae3d3)
+- https://huggingface.co/api/datasets/ServiceNow/VideoCUA/tree/6ecc530df848f916bf0d195c66823ef8363abb93/raw_data (retrieved 2026-10-18T15:36:02Z; SHA-256 fdc432015122390eb89b397ab7031b429ace6d56599ae37ef27a809abb05f254)
+- https://huggingface.co/api/datasets/ServiceNow/VideoCUA/tree/6ecc530df848f916bf0d195c66823ef8363abb93 (retrieved 2026-10-18T15:36:03Z; SHA-256 32ffe76e0b63cd91c5b8f44af39630fc390e725061974acc55514d9b1232e87f)
+- https://huggingface.co/datasets/ServiceNow/VideoCUA/raw/6ecc530df848f916bf0d195c66823ef8363abb93/README.md (retrieved 2026-10-18T15:36:02Z; SHA-256 41b871f55b233cc8424ff55fa4294a66fd2f88fe1dbce9dea924fd651ae1b778)
 
 ---
 
@@ -4088,6 +6871,220 @@ Card-reported row counts are not unique-screen counts. The source field is impor
 
 ---
 
+## WaveUI-25k
+
+A 24,978-example subset of an ~80k UI element collection, pairing screenshots and instructions with target boxes and annotated element names, descriptions, types, OCR, purposes and click expectations.
+
+- Catalog URL: https://awesomecua.com/resources/url-f2cf4ec32aa0b3ba6b95/
+- Original source: https://huggingface.co/datasets/agentsea/wave-ui-25k
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web, desktop, cross-platform
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-10-18T16:19:30Z
+- ID: url:f2cf4ec32aa0b3ba6b95
+
+### Limitations
+
+The card describes this as a subset of a collection of about 80k preprocessed examples built from WebUI, RoboFlow website screenshots and GroundUI-18K, filtered for duplicates, overlaps, low quality and many text elements, with added annotation fields. The publisher's agentsea/wave-ui dataset (Wave UI) has the same 13 fields and 79,412 rows across three splits; the 25k card does not name it, so the component link rests on that match. Dataset-viewer statistics over 12,493 of the rows (partial) show platform values web, desktop and mobile and source labels including roboflow, webui, mind2web_test_*, omniact, motif, screenspot and agent_studio. The repository declares no license, and the source datasets' terms are not inferred.
+
+- Record JSON: https://awesomecua.com/resources/url-f2cf4ec32aa0b3ba6b95/record.json
+
+### Structured profile
+
+- formats: Parquet
+- modalities: images, text, bounding boxes, OCR metadata
+- splits: train
+- supervision: instruction-to-target boxes, element annotations
+
+#### Count observations
+
+- 24,978 rows — train split (reported; source: https://huggingface.co/datasets/agentsea/wave-ui-25k/raw/1b77b749cb4c9936f35838ed8cb0f1b69957ad08/README.md)
+
+The row count comes from the card's dataset_info metadata; rows are labeled element examples, not unique screens. The annotation fields are name, description, type, OCR, language, purpose and expectation.
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- data review: The WaveUI-25k repository has no license metadata or license file. The compilation license in the separate agentsea/wave-ui repository is not applied here, and the WebUI, RoboFlow and GroundUI-18K source terms are not inferred.
+  Sources: https://huggingface.co/api/datasets/agentsea/wave-ui-25k
+
+### Primary evidence
+
+- https://huggingface.co/api/datasets/agentsea/wave-ui-25k (retrieved 2026-10-18T16:19:30Z; SHA-256 b74327a4ecca6fd198ba54ff78b6820a65f6451a7e8af6bf7aaacdb51488b0ec)
+- https://huggingface.co/datasets/agentsea/wave-ui-25k/raw/1b77b749cb4c9936f35838ed8cb0f1b69957ad08/README.md (retrieved 2026-10-18T16:19:32Z; SHA-256 612d075ed11bba7357482d31b3d0d3dfa6d397babe36a236e6aa218ce6eb5488)
+- https://datasets-server.huggingface.co/statistics?dataset=agentsea/wave-ui-25k&config=default&split=train (retrieved 2026-10-18T16:19:34Z; SHA-256 7ad5c9887649c0eaaa4180816c5bd8381d5b7e394f665134cfcdc6c01ba61210)
+- https://huggingface.co/datasets/agentsea/wave-ui/raw/21dc5aa1b39c038aea30f4572d80edef592b7989/README.md (retrieved 2026-10-18T16:19:34Z; SHA-256 27ec13aa77dc55113e4d1a19c2269070e2d69d2fe8df8e2313721a1e3fc66bd9)
+- https://huggingface.co/api/datasets/agentsea/wave-ui-25k (retrieved 2026-10-18T16:19:30Z; SHA-256 b74327a4ecca6fd198ba54ff78b6820a65f6451a7e8af6bf7aaacdb51488b0ec)
+
+---
+
+## WebArena-Infinity browser agent trajectories
+
+Passing runs of three browser agents on 13 WebArena-Infinity web apps generated from product documentation, with per-step reasoning, actions, screenshots and programmatic verifier results.
+
+- Catalog URL: https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/
+- Original source: https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, data-generation, imitation-learning
+- Evidence checked: 2026-10-18T12:33:11Z
+- ID: url:ccac8d260d6d1d330bf5
+
+### Limitations
+
+Released by the web-arena-x organization. The card cites a project page (webarena.dev/webarena-infinity) instead of a paper, and the environment-generation pipeline is the separate repository github.com/web-arena-x/webarena-infinity, which this record does not cover. Only trajectories that passed the programmatic state checks in a three-repetition final run are included, so it is not a balanced success/failure sample. In the sampled history files, Gemini 2.5 Flash (Browser Use harness) acts on indexed DOM elements, while Kimi K2.5 and Qwen 2.5 VL Plus trajectories store clicks as absolute pixel coordinates next to the model's raw output. MIT is the card's data declaration and does not establish rights to the products the environments are modeled on.
+
+- Record JSON: https://awesomecua.com/resources/url-ccac8d260d6d1d330bf5/record.json
+
+### Structured profile
+
+- formats: JSON, PNG
+- modalities: browser screenshots, task instructions, agent reasoning, actions
+- splits: not recorded
+- supervision: agent-generated successful trajectories, programmatic state-verifier outcomes
+
+#### Count observations
+
+- 2,329 trajectories — manifest.json at revision 73cf7f57: Gemini 2.5 Flash 978, Kimi K2.5 643, Qwen 2.5 VL Plus 708 (computed) (computed; source: https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json)
+- 1,124 distinct tasks (environment and task_id pairs) — manifest.json at revision 73cf7f57 (computed) (computed; source: https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json)
+- 13 web-application environments — manifest.json at revision 73cf7f57 (computed) (computed; source: https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json)
+- 25,503 agent steps (sum of the manifest steps field) — manifest.json at revision 73cf7f57 (computed) (computed; source: https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json)
+- 2,195 trajectory folders with history.json — Hub file tree at revision 73cf7f57 (computed) (computed; source: https://huggingface.co/api/datasets/webarena-x/webarena-infinity-trajectories/revision/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe)
+
+Trajectories, tasks, environments, steps and folders are different units and are not summed. Each agent has at most one trajectory per task. Manifest difficulty labels: 604 easy, 508 medium, 1,217 hard. The manifest lists 134 Gemini trajectories (89 gitlab-plan-and-track, 45 gmail) whose folders are absent from the file tree at this revision, so 2,195 trajectories have files. Screenshots were not downloaded; two history files were sampled.
+
+### License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/raw/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/raw/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/README.md (retrieved 2026-10-18T12:33:11Z; SHA-256 02e1fc0c65b0314dffb0c141d07048f11a29789938902d617408fc680b3b1031)
+- https://huggingface.co/api/datasets/webarena-x/webarena-infinity-trajectories/revision/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe (retrieved 2026-10-18T12:32:01Z; SHA-256 b764c9a4e6c27838c898d433b386a0b08a864ba53a0edfa896391db28d939e15)
+- https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/manifest.json (retrieved 2026-10-18T12:32:01Z; SHA-256 d0c98be46cfc16e8eb408c62c774924edd8b7bd9f958fe65d983d55072a38c4d)
+- https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/gemini/paypal-my-wallet/task_e1/history.json (retrieved 2026-10-18T12:33:30Z; SHA-256 3e990071c45afa463fe8372fd613ca78852fc42a35877373336d7a742fee256a)
+- https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/resolve/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/data/kimi/gmail/task_e10/history.json (retrieved 2026-10-18T12:33:30Z; SHA-256 cfa5f0eda4c0817879c957c70aad7881013a5b4590e0270a4ae86b8e26a0e596)
+- https://huggingface.co/datasets/webarena-x/webarena-infinity-trajectories/raw/73cf7f57a6ff61c95722a23bffdd9c1de4069bfe/README.md (retrieved 2026-10-18T12:33:11Z; SHA-256 02e1fc0c65b0314dffb0c141d07048f11a29789938902d617408fc680b3b1031)
+
+---
+
+## WebChain (original release)
+
+Original WebChain release of human-annotated trajectories on live websites, with raw JSON records, viewport and partial full-page screenshots, and Parquet files for high-level planning and low-level grounding steps.
+
+- Catalog URL: https://awesomecua.com/resources/url-116431f8ea32dbc6d637/
+- Original source: https://huggingface.co/datasets/webagentlab/webchain-legacy
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, web-navigation, grounding, planning
+- Evidence checked: 2026-10-18T12:24:21Z
+- ID: url:116431f8ea32dbc6d637
+
+### Limitations
+
+The publisher's cleaned v2 release is a separate Hub repository (webagentlab/webchain) whose card calls this repository the original release with the least-processed artifacts and earlier high- and low-level formulations; v2 reports different counts after cleaning. Here the image and full-page screenshot folders are split ZIP sets, and the card says full-page screenshots cover only some steps. Rationales come from synthetic generation, not annotators. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content. Files were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-116431f8ea32dbc6d637/record.json
+
+### Structured profile
+
+- formats: zipped JSON, split ZIP image archives, Parquet
+- modalities: viewport screenshots, partial full-page screenshots, HTML snapshots, accessibility-tree snapshots, instructions, actions
+- splits: high-level train, high-level test, low-level train, low-level test
+- supervision: human-executed web task trajectories, element bounding boxes and click coordinates, CSS selectors and DOM references, action types and input text, generated rationales where included
+
+#### Count observations
+
+- 31,725 trajectories — WebChain corpus as stated on the original-release card (reported; source: https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md)
+- 317,993 interaction steps — WebChain corpus as stated on the original-release card (reported; source: https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md)
+- 428 web domains — WebChain corpus as stated on the original-release card (reported; source: https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md)
+- 13 Parquet files — processed/high_parquet (2) and processed/low_parquet (11) at revision bd569907 (computed) (computed; source: https://huggingface.co/api/datasets/webagentlab/webchain-legacy)
+
+Trajectories, steps, domains and files are different units and are not summed. The trajectory, step and domain figures match the paper's statistics; the v2 card says they describe the corpus before final cleaning. The file count comes from the Hub manifest; Parquet row counts were not computed.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md (retrieved 2026-10-18T12:24:21Z; SHA-256 730371b6a3093cb13b226fb19ff4002450ebafc4c5a3c620effdb70122d3ab60)
+- https://huggingface.co/api/datasets/webagentlab/webchain-legacy (retrieved 2026-10-18T12:24:21Z; SHA-256 808a507eed99aac784cf773cf1c4dbb0cd03a4c66b75c49466f3c0dc353a325b)
+- https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md (retrieved 2026-10-18T12:24:21Z; SHA-256 ac41dbb10c924efbad8cc93340a34a73cb9218f1930ef6d8dced582050cbd68c)
+- https://huggingface.co/datasets/webagentlab/webchain-legacy/raw/bd5699076abec17010963ca6a7c66ea7c5fa01ff/README.md (retrieved 2026-10-18T12:24:21Z; SHA-256 730371b6a3093cb13b226fb19ff4002450ebafc4c5a3c620effdb70122d3ab60)
+
+---
+
+## WebChain v2
+
+Cleaned v2 release of WebChain's human web trajectories, packaged as trajectory-level and Seed-style sliding-window SFT Parquet with aligned screenshots, plus action metadata and a 150-trace evaluation subset.
+
+- Catalog URL: https://awesomecua.com/resources/url-56f08987cc19b82dc607/
+- Original source: https://huggingface.co/datasets/webagentlab/webchain
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, web-navigation, grounding, planning, imitation-learning
+- Evidence checked: 2026-10-18T15:33:42Z
+- ID: url:56f08987cc19b82dc607
+
+### Limitations
+
+The card calls this the cleaned, training-ready release and points to the publisher's separate original release (Hub repository webagentlab/webchain-legacy) for raw JSON records, split screenshot archives and the earlier high- and low-level formulations. Its counts (31,675 trajectories, 317,682 steps) are after cleaning; the paper's 31,725 trajectories and 317,993 steps describe the corpus before it. Annotators executed tasks on live websites; tasks were synthesized from site schemas and reasoning text was added in post-processing. CC-BY-4.0 is the card's data declaration and does not establish rights to the captured websites' content. Files were not downloaded.
+
+- Record JSON: https://awesomecua.com/resources/url-56f08987cc19b82dc607/record.json
+
+### Structured profile
+
+- formats: Parquet (Trace SFT and Seed/Demo SFT), Parquet and CSV metadata tables, SHA-256 manifests
+- modalities: viewport screenshots, task queries, reasoning text, actions, DOM and accessibility-tree references in trace metadata
+- splits: not recorded
+- supervision: human-executed web task trajectories, click coordinates, bounding boxes and CSS selectors, action types and text arguments, reasoning text added in post-processing
+
+#### Count observations
+
+- 31,675 cleaned trajectories — WebChain v2 release as stated on its card (reported; source: https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md)
+- 317,682 interaction steps — WebChain v2 release as stated on its card (reported; source: https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md)
+- 39,332 Seed/Demo sliding-window rows — WebChain v2 release as stated on its card (reported; source: https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md)
+- 263,995 SFT image/action turns — WebChain v2 release as stated on its card (reported; source: https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md)
+- 150 evaluation traces — test_suite_150 subset as stated on the card (reported; source: https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md)
+- 48 data parts per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft (computed) (computed; source: https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce)
+- 71 SFT Parquet shards per format — Hub manifest at revision 59ab57fe, data/trace_sft and data/seed_sft (computed) (computed; source: https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce)
+
+Trajectories, steps, windows, turns, parts and shards are different units and are not summed. Trace SFT has one row per cleaned trajectory; Seed/Demo SFT re-cuts the same trajectories into bounded windows, so the two formats are not additional data. The 150-trace subset is a stratified sample for loader checks and compact offline evaluation; the card does not say it is held out from the parts. The part and shard counts from the manifest match the card. Row counts were not recomputed.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md (retrieved 2026-10-18T15:33:42Z; SHA-256 ac41dbb10c924efbad8cc93340a34a73cb9218f1930ef6d8dced582050cbd68c)
+- https://huggingface.co/api/datasets/webagentlab/webchain/revision/59ab57fea3d6270c260b6603418afb93dee8c1ce (retrieved 2026-10-18T15:33:18Z; SHA-256 b2845f4365632a07cf5296879f18b516603a08a7b7700558db543962475a7bfa)
+- https://huggingface.co/datasets/webagentlab/webchain/raw/59ab57fea3d6270c260b6603418afb93dee8c1ce/README.md (retrieved 2026-10-18T15:33:42Z; SHA-256 ac41dbb10c924efbad8cc93340a34a73cb9218f1930ef6d8dced582050cbd68c)
+
+---
+
 ## WebEvolver SFT data
 
 Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and web world model.
@@ -4136,6 +7133,75 @@ Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevol
 - https://huggingface.co/datasets/CognitiveKernel/WebEvolver/raw/13f4f45b359e138a45b1c89bd4e913298c586ca9/README.md (retrieved 2026-10-18T04:35:17Z; SHA-256 36ccdce12c1b1512ad4b21326c5d0c0379c73e85f0b8150779d43240b54686de)
 - https://huggingface.co/api/datasets/CognitiveKernel/WebEvolver (retrieved 2026-10-18T04:33:29Z; SHA-256 cbef3f8037405d311ed9fe8aa620ec3734f91c77ca8f4209fbe98167fb33bee8)
 - https://raw.githubusercontent.com/Tencent/SelfEvolvingAgent/HEAD/WebEvolver/README.md (retrieved 2026-10-18T04:27:14Z; SHA-256 447dfa1e52789f7f3f111e9e0d453fb1f9fd8bf2d7b858f28fbe21a2239b4b2e)
+
+---
+
+## WebLINX dataset
+
+Hub data of WebLINX 1.0: conversational web-navigation demonstrations preprocessed into per-turn records with dialogue, cleaned HTML, candidate elements and action history, plus reranking data.
+
+- Catalog URL: https://awesomecua.com/resources/url-1517e989c470563bd08d/
+- Original source: https://huggingface.co/datasets/McGill-NLP/WebLINX
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, human-in-the-loop, action-prediction
+- Evidence checked: 2026-10-18T15:49:24Z
+- ID: url:1517e989c470563bd08d
+
+### Limitations
+
+The WebLINX repository README calls this the official dataset page and its library loads the data. The main revision a30ff2cb holds the preprocessed chat and reranking configurations, per-split CSV files, splits.json and prompt templates; the card points to a separate McGill-NLP/WebLINX-full repository for the complete raw demonstrations, which are not covered here. The card describes WebLINX 1.1, a reprocessed BrowserGym release in another Hub repository, and links this original release as the v1.0 tag. CC-BY-NC-SA-4.0 with added terms of use is the card's data declaration; the code repository's Apache-2.0 license is separate.
+
+- Record JSON: https://awesomecua.com/resources/url-1517e989c470563bd08d/record.json
+
+### Structured profile
+
+- formats: gzip-compressed JSON Lines, CSV, JSON
+- modalities: dialogue utterances, cleaned HTML, candidate element descriptions, action history, viewport size
+- splits: train, valid, test_iid, test_geo, test_vis, test_cat, test_web
+- supervision: next action per navigator turn, conversational instructions and responses
+
+#### Count observations
+
+- 2,337 demonstrations — all splits in splits.json at revision a30ff2cb (train, valid and five test splits; disjoint) (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json)
+- 969 demonstrations — train split in splits.json at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json)
+- 100 demonstrations — valid split in splits.json at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json)
+- 100 demonstrations — test_iid split in splits.json at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json)
+- 290 demonstrations — test_geo split in splits.json at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json)
+- 444 demonstrations — test_vis split in splits.json at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json)
+- 223 demonstrations — test_cat split in splits.json at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json)
+- 211 demonstrations — test_web split in splits.json at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json)
+- 2,126 chat-config turn records — valid split, data/chat/valid.json.gz at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/valid.json.gz)
+- 2,308 chat-config turn records — test_iid split, data/chat/test_iid.json.gz at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_iid.json.gz)
+- 7,672 chat-config turn records — test_geo split, data/chat/test_geo.json.gz at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_geo.json.gz)
+- 9,023 chat-config turn records — test_vis split, data/chat/test_vis.json.gz at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_vis.json.gz)
+- 5,971 chat-config turn records — test_cat split, data/chat/test_cat.json.gz at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_cat.json.gz)
+- 4,856 chat-config turn records — test_web split, data/chat/test_web.json.gz at revision a30ff2cb (computed) (computed; source: https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_web.json.gz)
+
+Counts were computed with a script. Demonstrations come from splits.json, whose seven splits are disjoint; its iid_all list is the union of valid and test_iid and is not counted separately. Turn records are rows of the chat configuration, one per evaluated navigator turn, a different unit from demonstrations; the train file exceeds the catalog's 10 MB evidence budget, so its turn records are not recorded. The card's extra test split duplicates test_iid. Reranking files and CSVs were not counted. Screenshots are not in this repository.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-sa-4.0 — https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/README.md (retrieved 2026-10-18T15:49:24Z; SHA-256 9bd7512e257f5914d66b091530d7eb711a6f90bc21dc89cbba53015c7136c527)
+- https://huggingface.co/api/datasets/McGill-NLP/WebLINX/revision/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13 (retrieved 2026-10-18T15:48:39Z; SHA-256 940bc61bb13a1ea7a4a038a812161121d932e2cd5af4d866accc508839d401de)
+- https://raw.githubusercontent.com/McGill-NLP/weblinx/9a7e814ffaac36d36ae5291dc3407c530055e16f/README.md (retrieved 2026-10-18T15:48:40Z; SHA-256 15c3f1656afd861894b180bca7d9214b4cf78a6ad9cd0601c80f5d67d2839528)
+- https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/splits.json (retrieved 2026-10-18T15:48:39Z; SHA-256 db6fd50e6b1ba053817ede3f2a8ec61a292ad2710dd7f4e300cf685f70d843e6)
+- https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/valid.json.gz (retrieved 2026-10-18T15:48:42Z; SHA-256 086adc2ee12e711893a59e47822c08cf05cbf8c021db1e7a39f6fbc8d8cef7ab)
+- https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_iid.json.gz (retrieved 2026-10-18T15:48:43Z; SHA-256 0bbdd414f371fea6b4e6741f821bd60aeaf13ba5114456d4cb901bd0e6617ba7)
+- https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_geo.json.gz (retrieved 2026-10-18T15:48:44Z; SHA-256 738fb37c35acaa5a3bfe752886b258d5cacf09cdeec7abe1c71574074011a249)
+- https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_vis.json.gz (retrieved 2026-10-18T15:48:45Z; SHA-256 7371eaa43dc95ff7482844afd840a98f8728df4364baf85e15688d134af07380)
+- https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_cat.json.gz (retrieved 2026-10-18T15:48:46Z; SHA-256 b9ea603cba86761d0780490867bc22ea95ff59e5702dfd765fa58b17d25e7eab)
+- https://huggingface.co/datasets/McGill-NLP/WebLINX/resolve/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/data/chat/test_web.json.gz (retrieved 2026-10-18T15:48:47Z; SHA-256 10d780712da997da9ff2d15d642aa199410ebe5d30d2ea3f9ba56fb044a745db)
+- https://huggingface.co/datasets/McGill-NLP/WebLINX/raw/a30ff2cbecb75f2d04fac75a2b92721c6c9e3f13/README.md (retrieved 2026-10-18T15:49:24Z; SHA-256 9bd7512e257f5914d66b091530d7eb711a6f90bc21dc89cbba53015c7136c527)
 
 ---
 
@@ -4359,6 +7425,106 @@ The card links the WebUI project's ACM publication (DOI 10.1145/3544548.3581158)
 - https://huggingface.co/api/datasets/biglab/webui-all (retrieved 2026-10-16T06:38:26Z; SHA-256 70928db908760c1561bfc8e0cd7d925e0103ffddef4676fbaa7c1756a804b99a)
 - https://huggingface.co/datasets/biglab/webui-all/raw/main/README.md (retrieved 2026-10-17T16:10:53Z; SHA-256 93bd04914735f748d687b71597970a79d95ae8636e7ed75d267ebd6954d11a8f)
 - https://huggingface.co/api/datasets/biglab/webui-all (retrieved 2026-10-16T06:38:26Z; SHA-256 70928db908760c1561bfc8e0cd7d925e0103ffddef4676fbaa7c1756a804b99a)
+
+---
+
+## WildGUI
+
+WildGUI release from Video2GUI: per-task JSONL trajectories mined from Internet tutorial videos, with instructions, plans and grounded actions on web, desktop and mobile, plus screenshot shards for parts 1-15.
+
+- Catalog URL: https://awesomecua.com/resources/url-daf52475338f385b9310/
+- Original source: https://huggingface.co/datasets/xwm/WildGUI
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: data-generation, video, grounding, action-prediction
+- Evidence checked: 2026-10-18T12:28:47Z
+- ID: url:daf52475338f385b9310
+
+### Limitations
+
+The card describes this as a personally reprocessed annotation release: records were regenerated and cleaned following the annotation workflow, then split so that each JSONL line holds one task with its ordered action trajectory; action parameters are omitted when grounding is unreliable (use_grounding false). The Video2GUI project README links this repository as the WildGUI dataset and names the joker-112/WildGUI_Screenshots repository as the host of the part16-part19 frames. Its figures of about 12M trajectories over more than 1,500 applications and websites describe WildGUI in the paper; the 19 JSONL shards (about 78 GB) were not downloaded, so the Hub record count is not established. The project README says trajectories and grounding boxes were produced by Gemini-3-Pro, so labels are model-generated, not human annotations. The data license is the card's CC-BY-NC-4.0 declaration; the source videos and screenshots keep their own rights, and the Apache-2.0 license of the project repository is not transferred to the data.
+
+- Record JSON: https://awesomecua.com/resources/url-daf52475338f385b9310/record.json
+
+### Structured profile
+
+- formats: JSONL, tar archives of JPEG frames
+- modalities: screenshots, instructions, plans, actions, action rationales
+- splits: not recorded
+- supervision: video-derived task instructions and plans, model-generated action grounding
+
+#### Count observations
+
+- 19 annotation JSONL shards — Hub repository at revision 75287698 (parts 1-19) (computed) (computed; source: https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769)
+- 4,137 screenshot tar shards — Hub repository at revision 75287698 (parts 1-15) (computed) (computed; source: https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769)
+- ≈ 12,000,000 interaction trajectories — WildGUI as described in the Video2GUI project README; not recounted in this Hub release (reported; source: https://raw.githubusercontent.com/WeiminXiong/Video2GUI/02f61de0c329f6763ce1b130596a650e4a9291f1/README.md)
+
+Shard counts were computed by script from the pinned Hub API file list; they are files, not records. Each JSONL line is one task with its ordered action trajectory; the number of lines was not counted. The reported trajectory figure comes from the project README and may differ from the reprocessed Hub release. Frames for parts 16-19 are in a separate repository.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-4.0 — https://huggingface.co/datasets/xwm/WildGUI/raw/75287698d5876692d4b998be30a724723906e769/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/xwm/WildGUI/raw/75287698d5876692d4b998be30a724723906e769/README.md (retrieved 2026-10-18T12:28:47Z; SHA-256 5bfb27b61da056f73d3d0040098b694b17785bbb56b59ecbc9c10e6a58c82f0a)
+- https://huggingface.co/api/datasets/xwm/WildGUI/revision/75287698d5876692d4b998be30a724723906e769 (retrieved 2026-10-18T12:27:40Z; SHA-256 0f2184af45c554954dcdfaf27d74e3a4907e637b7297ca7b5d34372a3f264c8f)
+- https://raw.githubusercontent.com/WeiminXiong/Video2GUI/02f61de0c329f6763ce1b130596a650e4a9291f1/README.md (retrieved 2026-10-18T12:27:41Z; SHA-256 5e3e6a0baa737232700c39449d4cbe48dc7e4640fe0de12f521e03b6e7d64f92)
+- https://huggingface.co/datasets/xwm/WildGUI/raw/75287698d5876692d4b998be30a724723906e769/README.md (retrieved 2026-10-18T12:28:47Z; SHA-256 5bfb27b61da056f73d3d0040098b694b17785bbb56b59ecbc9c10e6a58c82f0a)
+
+---
+
+## WildGUI Screenshots (parts 16-19)
+
+Companion Hub repository holding the WildGUI screenshot tar shards for parts 16-19; the matching trajectory annotations and the other parts' frames are in the main WildGUI repository.
+
+- Catalog URL: https://awesomecua.com/resources/url-348f31b5b339403ec26f/
+- Original source: https://huggingface.co/datasets/joker-112/WildGUI_Screenshots
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: cross-platform, web, desktop
+- Topics: data-generation, video
+- Evidence checked: 2026-10-18T12:28:47Z
+- ID: url:348f31b5b339403ec26f
+
+### Limitations
+
+The repository contains only JPEG frames packed in tar shards (671 for part16, 878 for part17, 212 for part18 and 161 for part19) and no annotations; each frame is stored as {video_id}/screenshot_{MM_SS}.jpg and is linked to an action through the annotation's video_id and timestamp. The card notes that a small fraction of annotated frames may be missing. The Video2GUI project README lists this repository as part of the WildGUI release. The data license is the card's CC-BY-NC-4.0 declaration; frames derived from third-party tutorial videos keep their own rights.
+
+- Record JSON: https://awesomecua.com/resources/url-348f31b5b339403ec26f/record.json
+
+### Structured profile
+
+- formats: tar archives of JPEG frames
+- modalities: screenshots
+- splits: not recorded
+- supervision: frames referenced by video-derived trajectory annotations
+
+#### Count observations
+
+- 1,922 screenshot tar shards — Hub repository at revision 8d31cbd4 (parts 16-19) (computed) (computed; source: https://huggingface.co/api/datasets/joker-112/WildGUI_Screenshots/revision/8d31cbd45c9cb82683bbd5dea767782bb604fbcd)
+
+Shard count computed by script from the pinned Hub API file list; it counts files, not frames. The card says each shard holds up to about 20,000 frames; the number of frames was not counted.
+
+### License declarations
+
+- code: not recorded
+- data: cc-by-nc-4.0 — https://huggingface.co/datasets/joker-112/WildGUI_Screenshots/raw/8d31cbd45c9cb82683bbd5dea767782bb604fbcd/README.md
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://huggingface.co/datasets/joker-112/WildGUI_Screenshots/raw/8d31cbd45c9cb82683bbd5dea767782bb604fbcd/README.md (retrieved 2026-10-18T12:28:47Z; SHA-256 4f2bbaa917b3c4c5927bcd4f23a5e882c58d0610e07f982e6549c840b942c64d)
+- https://huggingface.co/api/datasets/joker-112/WildGUI_Screenshots/revision/8d31cbd45c9cb82683bbd5dea767782bb604fbcd (retrieved 2026-10-18T12:27:41Z; SHA-256 7532cb6ed1d70aab3c8aa3fc0cc76a4e52809f0440179f0c8f2de4bdfb6349e4)
+- https://raw.githubusercontent.com/WeiminXiong/Video2GUI/02f61de0c329f6763ce1b130596a650e4a9291f1/README.md (retrieved 2026-10-18T12:27:41Z; SHA-256 5e3e6a0baa737232700c39449d4cbe48dc7e4640fe0de12f521e03b6e7d64f92)
+- https://huggingface.co/datasets/joker-112/WildGUI_Screenshots/raw/8d31cbd45c9cb82683bbd5dea767782bb604fbcd/README.md (retrieved 2026-10-18T12:28:47Z; SHA-256 4f2bbaa917b3c4c5927bcd4f23a5e882c58d0610e07f982e6549c840b942c64d)
 
 ---
 

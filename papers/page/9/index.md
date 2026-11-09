@@ -1,10 +1,62 @@
-# Computer-use research library, page 9 of 28
+# Computer-use research library, page 9 of 29
 
-> Reviewed computer-use papers and surveys 481 to 540 of 1,673, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
+> Reviewed computer-use papers and surveys 481 to 540 of 1,690, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
 
 HTML page: https://awesomecua.com/papers/page/9/ · [Previous page](https://awesomecua.com/papers/page/8/index.md) · [Next page](https://awesomecua.com/papers/page/10/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## MacArena: Benchmarking Computer Use Agents on an Online macOS Environment
+
+MacArena runs computer-use tasks through Apple’s virtualization framework on Apple Silicon, combining task ports with macOS-native workloads. It distinguishes the ported and native subsets when examining agent performance and cross-platform transfer.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2606-06560/
+- Original source: https://arxiv.org/abs/2606.06560
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop, macos
+- Topics: evaluation, robustness
+- Evidence checked: 2026-10-16T06:36:36Z
+- ID: arxiv:2606.06560
+
+### Limitations
+
+The annotation was reviewed against the complete retained official abstract.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2606-06560/record.json
+
+### Authors
+
+Victor Muryn, Maksym Shamrai, Sofiia Mazepa, Yehor Khodysko
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2606-06560/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2606-06560/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.06560v1
+- First submission: 2026-06-04T14:01:32Z
+- Version updated: 2026-06-04T14:01:32Z
+- Abstract SHA-256: fd66adb4e99df2348f59e238d219d48cb6e758e694839367d2b9a64675429d87
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
 
 ---
 
@@ -889,6 +941,66 @@ Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
+
+---
+
+## AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents
+
+Backdoor attack that fine-tunes GUI agents on teacher-written malicious trajectories, so a trigger makes the agent choose a harmful action fitting the current screen and instruction; tested on AitZ and AndroidControl.
+
+- Catalog URL: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/
+- Original source: https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: safety-security, mobile-navigation
+- Evidence checked: 2026-10-19T06:38:37Z
+- ID: url:e876bff0950b82a0c9b7
+
+### Limitations
+
+The annotation was reviewed against the CVF open-access landing page and PDF. Experiments have not been independently reproduced. A teacher model (for example Gemini 2.5 Pro) writes malicious reasoning trajectories drawn from a five-category malicious action library, and the agent learns them by supervised fine-tuning, which the paper calls Context-Aware Behavioral Imitation. Main results fine-tune Qwen2-VL-2B and Qwen2-VL-7B at a 0.1 poisoning ratio with a blended visual trigger; an AndroidWorld emulator deployment through Mobile-Agent-v3 is described in the supplementary material. The paper links no code release or arXiv version.
+
+- Record JSON: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/record.json
+
+### Authors
+
+Baicheng Chen, Mingda Zhang, Min Zhang, Haizhou Li, Baoyuan Wu
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/citation.bib
+- CSL JSON: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/citation.csl.json
+
+### Publication record
+
+- Title: AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents
+- Authors: Baicheng Chen, Mingda Zhang, Min Zhang, Haizhou Li, Baoyuan Wu
+- Publication date (recorded precision): 2026-06
+- Publication source: https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html
+- Publication BibTeX: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/publication-citation.csl.json
+- venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+- pages: 27894-27905
+- date basis: Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.
+- identity basis: No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title and abstract search for AdapAction returned nothing; neither the landing page nor the PDF names an arXiv version, so this publisher edition seeds the record.
+- notes: CVF open-access accepted version; the PDF states that the final proceedings version is on IEEE Xplore. The landing page, BibTeX and PDF title page list the same five authors in the same order.
+- Publication evidence: https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html, https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html (retrieved 2026-10-19T06:38:37Z; SHA-256 c540ae31dfb8a356917ef343c6e2bd1036bf0758276f838a5fd608cde690e7da)
+- https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf (retrieved 2026-10-19T06:38:38Z; SHA-256 946cbc9a6e0ab3161e6e4d7d71a58433eba6b51babe3cdcf58b9f30c3a388cb0)
+- https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html (retrieved 2026-10-19T06:38:37Z; SHA-256 c540ae31dfb8a356917ef343c6e2bd1036bf0758276f838a5fd608cde690e7da)
+- https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf (retrieved 2026-10-19T06:38:38Z; SHA-256 946cbc9a6e0ab3161e6e4d7d71a58433eba6b51babe3cdcf58b9f30c3a388cb0)
 
 ---
 
@@ -3030,107 +3142,3 @@ Haobo Hu, Xiangwu Guo, Zhiheng Chen, Difei Gao, Haotian Liu, Libiao Jin, Qi Mao
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
 - https://export.arxiv.org/api/query?id_list=2605.19447%2C2605.19484%2C2605.19587%2C2605.20833%2C2605.22642%2C2605.22781%2C2605.22916%2C2605.23204%2C2605.23939%2C2605.25233%2C2605.25707%2C2605.25901%2C2605.26079%2C2605.26252%2C2605.26321%2C2605.26646%2C2605.26994%2C2605.27134%2C2605.27209%2C2605.27705%2C2605.27882%2C2605.27898%2C2605.28158%2C2605.28255%2C2605.28629%2C2605.28775%2C2605.29119%2C2605.29218%2C2605.29324%2C2605.29341%2C2605.29397%2C2605.29447%2C2605.29463%2C2605.29615%2C2605.29801%2C2605.29927%2C2605.30010%2C2605.30052%2C2605.30126%2C2605.30434%2C2605.30884%2C2605.30907%2C2605.31264%2C2605.31365%2C2605.31557%2C2606.00254%2C2606.00341%2C2606.00408%2C2606.00497%2C2606.00530&max_results=50 (retrieved 2026-11-05T23:02:57Z; SHA-256 07bff2e80d81fb334aa9573a6ebebc0de70c44b65516d45c5796c8b1fc840ed3)
-
----
-
-## What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents
-
-SERL trains multi-turn agents by using task rewards and selective step feedback to weight updates, with WebShop among its evaluation settings.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2605-19447/
-- Original source: https://arxiv.org/abs/2605.19447
-- Kind: paper
-- Review: curated
-- Scope: adjacent
-- Environments: web
-- Topics: reinforcement-learning, reward-models, long-horizon
-- Evidence checked: 2026-11-05T23:02:57Z
-- ID: arxiv:2605.19447
-
-### Limitations
-
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1). The method targets general multi-turn agents; WebShop is one of two evaluation environments.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2605-19447/record.json
-
-### Authors
-
-Xiaozhe Li, Tianyi Lyu, Yang Li, Yichuan Ma, Peiji Li, Linyang Li, Qipeng Guo, Dahua Lin, Kai Chen
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2605-19447/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2605-19447/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2605.19447v1
-- First submission: 2026-05-19T07:00:55Z
-- Version updated: 2026-05-19T07:00:55Z
-- Abstract SHA-256: 996f61455be8fc9839511d50e2930fe798c2355508d6d8ad0c73486d1a316967
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?id_list=2605.12233%2C2605.12493%2C2605.12978%2C2605.13119%2C2605.14133%2C2605.16909%2C2605.17260%2C2605.17324%2C2605.17448%2C2605.17656%2C2605.17721%2C2605.19447%2C2605.19587%2C2605.20894%2C2605.22642%2C2605.23204%2C2605.25233%2C2605.25901%2C2605.26086%2C2605.26144%2C2605.26252%2C2605.26646%2C2605.27209%2C2605.27705%2C2605.27898%2C2605.28158%2C2605.28255%2C2605.29341%2C2605.29463%2C2605.29801%2C2605.30010%2C2605.30052%2C2605.30126%2C2605.30434%2C2605.30907%2C2605.30914%2C2605.31264%2C2605.31557%2C2606.00530%2C2606.00543%2C2606.00856%2C2606.01057%2C2606.01961%2C2606.02540%2C2606.03103%2C2606.03889%2C2606.03895%2C2606.04315%2C2606.04455%2C2606.05525&max_results=50 (retrieved 2026-10-17T12:31:23Z; SHA-256 9a71e95803ce58c462c84e2b45a891555e31d1fb409e643bb3ca4675a44c96e6)
-- https://export.arxiv.org/api/query?id_list=2605.19447%2C2605.19484%2C2605.19587%2C2605.20833%2C2605.22642%2C2605.22781%2C2605.22916%2C2605.23204%2C2605.23939%2C2605.25233%2C2605.25707%2C2605.25901%2C2605.26079%2C2605.26252%2C2605.26321%2C2605.26646%2C2605.26994%2C2605.27134%2C2605.27209%2C2605.27705%2C2605.27882%2C2605.27898%2C2605.28158%2C2605.28255%2C2605.28629%2C2605.28775%2C2605.29119%2C2605.29218%2C2605.29324%2C2605.29341%2C2605.29397%2C2605.29447%2C2605.29463%2C2605.29615%2C2605.29801%2C2605.29927%2C2605.30010%2C2605.30052%2C2605.30126%2C2605.30434%2C2605.30884%2C2605.30907%2C2605.31264%2C2605.31365%2C2605.31557%2C2606.00254%2C2606.00341%2C2606.00408%2C2606.00497%2C2606.00530&max_results=50 (retrieved 2026-11-05T23:02:57Z; SHA-256 07bff2e80d81fb334aa9573a6ebebc0de70c44b65516d45c5796c8b1fc840ed3)
-
----
-
-## AQuaUI: Visual Token Reduction for GUI Agents with Adaptive Quadtrees
-
-AQuaUI reduces screenshot tokens for GUI agents at inference time with adaptive quadtrees that retain spatial positions and reuse prior tree structure across steps.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2605-19260/
-- Original source: https://arxiv.org/abs/2605.19260
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: unspecified
-- Topics: efficiency, screen-understanding, training-free
-- Evidence checked: 2026-11-05T23:02:51Z
-- ID: arxiv:2605.19260
-
-### Limitations
-
-The annotation and scope were reviewed against the complete retained arXiv abstract (v1).
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2605-19260/record.json
-
-### Authors
-
-Yuankai Li, Tinghui Zhu, Ha Min Son, Zhe Zhao, Xin Liu, Muhao Chen
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2605-19260/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2605-19260/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2605.19260v1
-- First submission: 2026-05-19T02:13:29Z
-- Version updated: 2026-05-19T02:13:29Z
-- Abstract SHA-256: d4fc83b6ed8bdaf4d2ab9512c41d7217c95973e6bac59a2c0892a51d4531dc0a
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
-- https://export.arxiv.org/api/query?id_list=2605.06110%2C2605.06393%2C2605.06664%2C2605.06717%2C2605.06727%2C2605.07073%2C2605.07110%2C2605.07358%2C2605.07505%2C2605.07937%2C2605.08261%2C2605.08310%2C2605.08374%2C2605.08703%2C2605.08876%2C2605.08985%2C2605.10912%2C2605.11363%2C2605.11732%2C2605.11817%2C2605.12233%2C2605.12978%2C2605.13631%2C2605.13831%2C2605.14133%2C2605.14205%2C2605.14271%2C2605.14311%2C2605.14649%2C2605.14678%2C2605.14747%2C2605.14786%2C2605.15030%2C2605.15040%2C2605.15962%2C2605.15963%2C2605.16024%2C2605.16116%2C2605.16265%2C2605.16565%2C2605.16909%2C2605.17170%2C2605.17260%2C2605.17324%2C2605.17439%2C2605.17448%2C2605.17634%2C2605.17721%2C2605.18859%2C2605.19260&max_results=50 (retrieved 2026-11-05T23:02:51Z; SHA-256 5bf7e3875a29a94f6652cd7ddff6b805e411aaef8d8ac1f96946fe9aa51c9d3d)

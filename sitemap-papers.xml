@@ -148,6 +148,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/papers/page/28/" />
   </url>
   <url>
+    <loc>https://awesomecua.com/papers/page/29/</loc>
+    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/papers/page/29/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/papers/page/29/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/papers/page/29/" />
+  </url>
+  <url>
     <loc>https://awesomecua.com/papers/page/3/</loc>
     <lastmod>2026-11-06T13:59:48Z</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/papers/page/3/" />
@@ -226,7 +233,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2005-03776/</loc>
-    <lastmod>2026-10-17T09:53:48Z</lastmod>
+    <lastmod>2026-10-18T10:58:46Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2008-05132/</loc>
@@ -298,7 +305,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2205-11029/</loc>
-    <lastmod>2026-10-16T10:48:42Z</lastmod>
+    <lastmod>2026-10-18T15:46:28Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2207-01206/</loc>
@@ -342,7 +349,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2211-07615/</loc>
-    <lastmod>2026-10-16T10:36:54Z</lastmod>
+    <lastmod>2026-10-19T06:03:00Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2212-04732/</loc>
@@ -406,7 +413,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2306-06070/</loc>
-    <lastmod>2026-10-17T02:09:27Z</lastmod>
+    <lastmod>2026-10-18T11:38:29Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2306-07863/</loc>
@@ -558,7 +565,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2401-01614/</loc>
-    <lastmod>2026-10-17T09:53:47Z</lastmod>
+    <lastmod>2026-10-18T16:02:52Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2401-04124/</loc>
@@ -594,7 +601,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2402-04615/</loc>
-    <lastmod>2026-10-16T10:36:54Z</lastmod>
+    <lastmod>2026-10-18T12:33:53Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2402-05202/</loc>
@@ -602,7 +609,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2402-05930/</loc>
-    <lastmod>2026-10-17T12:50:26Z</lastmod>
+    <lastmod>2026-10-18T15:49:51Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2402-06596/</loc>
@@ -690,7 +697,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2403-17918/</loc>
-    <lastmod>2026-10-18T13:13:38Z</lastmod>
+    <lastmod>2026-10-18T16:20:24Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2403-20271/</loc>
@@ -850,7 +857,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2406-08451/</loc>
-    <lastmod>2026-10-16T12:02:14Z</lastmod>
+    <lastmod>2026-10-18T12:08:34Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2406-09187/</loc>
@@ -862,11 +869,11 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2406-10819/</loc>
-    <lastmod>2026-10-17T02:09:27Z</lastmod>
+    <lastmod>2026-10-18T11:41:50Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2406-11317/</loc>
-    <lastmod>2026-10-17T04:05:42Z</lastmod>
+    <lastmod>2026-10-18T15:57:24Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2406-11896/</loc>
@@ -874,7 +881,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2406-12373/</loc>
-    <lastmod>2026-10-16T10:50:15Z</lastmod>
+    <lastmod>2026-10-18T15:46:21Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2406-12814/</loc>
@@ -883,6 +890,10 @@
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2406-13264/</loc>
     <lastmod>2026-10-17T09:23:20Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/arxiv-2406-13352/</loc>
+    <lastmod>2026-10-18T11:07:25Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2406-13719/</loc>
@@ -978,7 +989,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2407-17490/</loc>
-    <lastmod>2026-10-18T04:27:11Z</lastmod>
+    <lastmod>2026-10-19T06:22:26Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2407-18901/</loc>
@@ -1022,7 +1033,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2409-07429/</loc>
-    <lastmod>2026-10-17T12:50:26Z</lastmod>
+    <lastmod>2026-10-19T07:53:57Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2409-08264/</loc>
@@ -1142,7 +1153,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2410-13824/</loc>
-    <lastmod>2026-10-18T04:10:02Z</lastmod>
+    <lastmod>2026-10-18T16:06:37Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2410-13825/</loc>
@@ -1214,7 +1225,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2410-23218/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-18T12:03:56Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2410-23252/</loc>
@@ -1346,7 +1357,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2412-13501/</loc>
-    <lastmod>2026-10-16T06:36:58Z</lastmod>
+    <lastmod>2026-10-18T16:15:11Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2412-13810/</loc>
@@ -1374,7 +1385,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2412-19723/</loc>
-    <lastmod>2026-10-18T04:09:57Z</lastmod>
+    <lastmod>2026-10-19T06:18:22Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2501-01149/</loc>
@@ -1406,7 +1417,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2501-12326/</loc>
-    <lastmod>2026-10-16T06:42:00Z</lastmod>
+    <lastmod>2026-10-18T12:03:25Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2501-12485/</loc>
@@ -1430,7 +1441,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2502-01977/</loc>
-    <lastmod>2026-10-16T11:51:16Z</lastmod>
+    <lastmod>2026-10-19T07:03:30Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2502-02955/</loc>
@@ -1458,7 +1469,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2502-07949/</loc>
-    <lastmod>2026-10-16T13:12:41Z</lastmod>
+    <lastmod>2026-10-19T06:58:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2502-08047/</loc>
@@ -1582,7 +1593,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2503-05143/</loc>
-    <lastmod>2026-10-17T11:38:10Z</lastmod>
+    <lastmod>2026-10-18T16:06:25Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2503-06470/</loc>
@@ -1658,7 +1669,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2503-17709/</loc>
-    <lastmod>2026-10-16T11:07:39Z</lastmod>
+    <lastmod>2026-10-18T12:30:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2503-18492/</loc>
@@ -1706,7 +1717,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-01382/</loc>
-    <lastmod>2026-10-17T04:11:12Z</lastmod>
+    <lastmod>2026-10-18T11:40:00Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-01495/</loc>
@@ -1762,7 +1773,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-11257/</loc>
-    <lastmod>2026-10-18T04:09:59Z</lastmod>
+    <lastmod>2026-10-19T07:09:21Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-11281/</loc>
@@ -1782,7 +1793,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-12679/</loc>
-    <lastmod>2026-10-17T12:50:26Z</lastmod>
+    <lastmod>2026-10-18T15:46:44Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-12682/</loc>
@@ -1790,7 +1801,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-13805/</loc>
-    <lastmod>2026-10-18T13:13:38Z</lastmod>
+    <lastmod>2026-10-18T16:00:39Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-13865/</loc>
@@ -1798,7 +1809,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-13936/</loc>
-    <lastmod>2026-10-17T02:12:10Z</lastmod>
+    <lastmod>2026-10-19T07:00:36Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2504-14064/</loc>
@@ -1910,7 +1921,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2505-11891/</loc>
-    <lastmod>2026-10-17T05:31:42Z</lastmod>
+    <lastmod>2026-10-20T07:38:59Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2505-12299/</loc>
@@ -1994,7 +2005,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2505-16827/</loc>
-    <lastmod>2026-10-18T04:09:59Z</lastmod>
+    <lastmod>2026-10-18T11:31:25Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2505-17629/</loc>
@@ -2038,7 +2049,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2505-21496/</loc>
-    <lastmod>2026-10-17T19:15:10Z</lastmod>
+    <lastmod>2026-10-18T15:59:22Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2505-21499/</loc>
@@ -2050,7 +2061,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2505-21964/</loc>
-    <lastmod>2026-10-17T11:35:16Z</lastmod>
+    <lastmod>2026-10-19T07:09:21Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2505-22942/</loc>
@@ -2118,7 +2129,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2506-02865/</loc>
-    <lastmod>2026-10-17T04:05:42Z</lastmod>
+    <lastmod>2026-10-19T06:19:41Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2506-03095/</loc>
@@ -2126,7 +2137,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2506-03143/</loc>
-    <lastmod>2026-10-17T14:21:12Z</lastmod>
+    <lastmod>2026-10-18T12:04:11Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2506-03533/</loc>
@@ -2178,7 +2189,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2506-08972/</loc>
-    <lastmod>2026-10-17T07:43:47Z</lastmod>
+    <lastmod>2026-10-20T07:41:49Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2506-09373/</loc>
@@ -2246,7 +2257,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2506-20332/</loc>
-    <lastmod>2026-10-16T10:28:51Z</lastmod>
+    <lastmod>2026-10-19T06:56:45Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2506-21252/</loc>
@@ -2310,7 +2321,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2507-05791/</loc>
-    <lastmod>2026-10-17T03:26:41Z</lastmod>
+    <lastmod>2026-10-18T12:29:18Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2507-06134/</loc>
@@ -2346,7 +2357,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2507-15846/</loc>
-    <lastmod>2026-10-17T03:26:41Z</lastmod>
+    <lastmod>2026-10-18T16:05:35Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2507-16704/</loc>
@@ -2442,7 +2453,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2508-04482/</loc>
-    <lastmod>2026-10-16T06:31:49Z</lastmod>
+    <lastmod>2026-10-19T06:02:12Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2508-04700/</loc>
@@ -2506,7 +2517,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2508-15144/</loc>
-    <lastmod>2026-10-17T04:11:12Z</lastmod>
+    <lastmod>2026-10-18T16:08:22Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2508-15832/</loc>
@@ -2990,7 +3001,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2510-16051/</loc>
-    <lastmod>2026-10-17T07:43:47Z</lastmod>
+    <lastmod>2026-10-18T12:27:13Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2510-16252/</loc>
@@ -3014,7 +3025,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2510-18488/</loc>
-    <lastmod>2026-10-17T07:43:47Z</lastmod>
+    <lastmod>2026-10-18T16:19:27Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2510-18596/</loc>
@@ -3062,7 +3073,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2510-22009/</loc>
-    <lastmod>2026-10-17T09:30:10Z</lastmod>
+    <lastmod>2026-10-18T11:56:35Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2510-22102/</loc>
@@ -3225,6 +3236,10 @@
     <lastmod>2026-10-17T14:18:13Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/arxiv-2511-21631/</loc>
+    <lastmod>2026-11-05T21:14:07Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/arxiv-2511-22074/</loc>
     <lastmod>2026-11-06T08:25:50Z</lastmod>
   </url>
@@ -3342,7 +3357,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2512-22047/</loc>
-    <lastmod>2026-10-17T09:30:10Z</lastmod>
+    <lastmod>2026-10-18T16:01:41Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2512-22322/</loc>
@@ -3390,7 +3405,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2601-04126/</loc>
-    <lastmod>2026-10-17T11:19:03Z</lastmod>
+    <lastmod>2026-10-19T07:09:21Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2601-04203/</loc>
@@ -3462,7 +3477,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2601-12822/</loc>
-    <lastmod>2026-10-17T11:20:45Z</lastmod>
+    <lastmod>2026-10-19T06:51:27Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2601-13060/</loc>
@@ -3506,7 +3521,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2601-18842/</loc>
-    <lastmod>2026-10-17T07:43:47Z</lastmod>
+    <lastmod>2026-10-18T15:56:48Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2601-19199/</loc>
@@ -3550,7 +3565,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2601-21872/</loc>
-    <lastmod>2026-10-17T11:24:17Z</lastmod>
+    <lastmod>2026-10-19T07:45:24Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2601-21961/</loc>
@@ -3610,7 +3625,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2602-03792/</loc>
-    <lastmod>2026-10-17T11:30:56Z</lastmod>
+    <lastmod>2026-10-18T15:39:32Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2602-05354/</loc>
@@ -3626,7 +3641,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2602-06075/</loc>
-    <lastmod>2026-10-17T11:30:56Z</lastmod>
+    <lastmod>2026-10-19T07:06:23Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2602-06351/</loc>
@@ -3758,7 +3773,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2602-14276/</loc>
-    <lastmod>2026-10-17T11:30:56Z</lastmod>
+    <lastmod>2026-10-18T15:42:37Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2602-14296/</loc>
@@ -3790,7 +3805,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2602-16855/</loc>
-    <lastmod>2026-10-16T06:42:03Z</lastmod>
+    <lastmod>2026-10-18T15:33:55Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2602-17003/</loc>
@@ -3862,7 +3877,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-04949/</loc>
-    <lastmod>2026-10-17T07:43:47Z</lastmod>
+    <lastmod>2026-10-20T07:40:09Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-05044/</loc>
@@ -3874,7 +3889,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-05295/</loc>
-    <lastmod>2026-10-17T07:43:47Z</lastmod>
+    <lastmod>2026-10-18T15:33:55Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-07024/</loc>
@@ -4042,7 +4057,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-24440/</loc>
-    <lastmod>2026-10-17T07:43:47Z</lastmod>
+    <lastmod>2026-10-18T15:36:28Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-24533/</loc>
@@ -4054,7 +4069,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-25864/</loc>
-    <lastmod>2026-10-17T07:43:47Z</lastmod>
+    <lastmod>2026-10-19T06:04:53Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-26041/</loc>
@@ -4074,7 +4089,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-28069/</loc>
-    <lastmod>2026-10-17T12:47:54Z</lastmod>
+    <lastmod>2026-10-19T06:17:16Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2603-28551/</loc>
@@ -4150,7 +4165,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2604-06126/</loc>
-    <lastmod>2026-10-17T12:36:32Z</lastmod>
+    <lastmod>2026-10-19T06:45:58Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2604-06134/</loc>
@@ -4290,7 +4305,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2604-14262/</loc>
-    <lastmod>2026-10-17T12:38:43Z</lastmod>
+    <lastmod>2026-10-18T15:59:44Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2604-14668/</loc>
@@ -4306,7 +4321,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2604-15093/</loc>
-    <lastmod>2026-10-17T12:38:43Z</lastmod>
+    <lastmod>2026-10-19T06:54:58Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2604-15376/</loc>
@@ -4406,11 +4421,11 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2604-24964/</loc>
-    <lastmod>2026-10-17T12:38:43Z</lastmod>
+    <lastmod>2026-10-19T07:11:32Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2604-25380/</loc>
-    <lastmod>2026-10-17T12:38:43Z</lastmod>
+    <lastmod>2026-10-18T15:41:43Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2604-25562/</loc>
@@ -5106,7 +5121,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2606-23189/</loc>
-    <lastmod>2026-10-17T07:43:47Z</lastmod>
+    <lastmod>2026-10-19T06:05:28Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2606-23449/</loc>
@@ -5218,7 +5233,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2607-04425/</loc>
-    <lastmod>2026-10-17T03:26:41Z</lastmod>
+    <lastmod>2026-10-18T15:42:03Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2607-05120/</loc>
@@ -5258,7 +5273,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2607-11185/</loc>
-    <lastmod>2026-10-16T11:15:49Z</lastmod>
+    <lastmod>2026-10-19T06:05:20Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2607-11388/</loc>
@@ -5402,7 +5417,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2607-28609/</loc>
-    <lastmod>2026-10-17T03:26:41Z</lastmod>
+    <lastmod>2026-10-20T07:40:03Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2607-29199/</loc>
@@ -6054,7 +6069,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2609-35671/</loc>
-    <lastmod>2026-10-17T03:26:41Z</lastmod>
+    <lastmod>2026-10-18T11:56:35Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2609-35775/</loc>
@@ -6134,7 +6149,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2609-39903/</loc>
-    <lastmod>2026-10-16T10:40:59Z</lastmod>
+    <lastmod>2026-10-18T12:34:15Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2609-40253/</loc>
@@ -6310,7 +6325,7 @@
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2610-14157/</loc>
-    <lastmod>2026-10-17T19:15:20Z</lastmod>
+    <lastmod>2026-10-18T16:13:31Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/arxiv-2610-14228/</loc>
@@ -6837,16 +6852,36 @@
     <lastmod>2026-11-06T13:59:48Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/</loc>
+    <lastmod>2026-10-19T06:12:20Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-347925d0f440d6396080/</loc>
     <lastmod>2026-10-17T10:09:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-36a7cba41056d46cdcde/</loc>
+    <lastmod>2026-10-19T06:08:02Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-392a602c660ffa91be46/</loc>
     <lastmod>2026-10-17T10:09:57Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-4395ff8522cd77109b83/</loc>
+    <lastmod>2026-10-19T06:46:18Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-52a3261eb6a19b402e88/</loc>
     <lastmod>2026-10-17T10:09:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-5cfd441becdfc6ea622b/</loc>
+    <lastmod>2026-10-19T07:22:54Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-60a2dc930fa11860858a/</loc>
+    <lastmod>2026-10-19T07:24:50Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-6262c757080f8838e62c/</loc>
@@ -6857,8 +6892,20 @@
     <lastmod>2026-10-17T10:09:57Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-6942e8211a0f59eb7878/</loc>
+    <lastmod>2026-10-19T06:22:52Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-6e436831f76a1337ea8b/</loc>
+    <lastmod>2026-10-19T06:10:50Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-901ca855640457dfe2f1/</loc>
     <lastmod>2026-10-17T10:09:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-9113270916a36b4b76f1/</loc>
+    <lastmod>2026-10-20T07:37:15Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-97c0b1896525632434e2/</loc>
@@ -6869,8 +6916,20 @@
     <lastmod>2026-10-17T11:38:10Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-a5dc446fab5e6bdce517/</loc>
+    <lastmod>2026-10-19T08:41:32Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-a998ab1efc741ba69d82/</loc>
+    <lastmod>2026-10-19T06:25:33Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-b560b5d6abaab98483f6/</loc>
     <lastmod>2026-10-17T11:01:28Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-b5cab56e1a439ca8e524/</loc>
+    <lastmod>2026-10-19T06:13:48Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/resources/url-ba2c664c1b3c6f1b172f/</loc>
@@ -6885,8 +6944,24 @@
     <lastmod>2026-10-17T10:09:57Z</lastmod>
   </url>
   <url>
+    <loc>https://awesomecua.com/resources/url-ca76de56f3ddbd7c61b4/</loc>
+    <lastmod>2026-10-19T06:06:14Z</lastmod>
+  </url>
+  <url>
     <loc>https://awesomecua.com/resources/url-cccd967aa993404d74d0/</loc>
     <lastmod>2026-10-17T10:09:57Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-dca82e9214c5926109f1/</loc>
+    <lastmod>2026-10-19T07:19:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-e1842006eb7b4745da03/</loc>
+    <lastmod>2026-10-20T07:44:44Z</lastmod>
+  </url>
+  <url>
+    <loc>https://awesomecua.com/resources/url-e876bff0950b82a0c9b7/</loc>
+    <lastmod>2026-10-19T06:39:44Z</lastmod>
   </url>
   <url>
     <loc>https://awesomecua.com/survey/</loc>
@@ -7038,6 +7113,13 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/papers/page/28/" />
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/papers/page/28/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/papers/page/28/" />
+  </url>
+  <url>
+    <loc>https://awesomecua.com/zh/papers/page/29/</loc>
+    <lastmod>2026-11-06T13:59:48Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awesomecua.com/papers/page/29/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://awesomecua.com/zh/papers/page/29/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awesomecua.com/papers/page/29/" />
   </url>
   <url>
     <loc>https://awesomecua.com/zh/papers/page/3/</loc>

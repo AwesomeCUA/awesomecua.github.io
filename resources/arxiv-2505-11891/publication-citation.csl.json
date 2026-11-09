@@ -1,0 +1,111 @@
+{
+  "id": "arxiv:2505.11891:publication",
+  "citation-key": "arxiv_2505_11891_publication",
+  "type": "paper-conference",
+  "title": "SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks",
+  "URL": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html",
+  "custom": {
+    "catalog_id": "arxiv:2505.11891",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.11891",
+    "identifiers": {
+      "arxiv": "2505.11891"
+    },
+    "first_published_at": "2025-05-17",
+    "record_updated_at": "2026-02-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5ca1ebfdd5a96e146d37539294462c7fb67bf20deaf77307de37aa3bb1dde082",
+      "submitted_at": "2025-05-17T07:58:34Z",
+      "updated_at": "2026-02-02T06:55:10Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2505.11891v3"
+    },
+    "publication": {
+      "authors": [
+        "Weikai Xu",
+        "Zhizheng Jiang",
+        "Yuxuan Liu",
+        "Pengzhi Gao",
+        "Wei Liu",
+        "Jian Luan",
+        "Yuanchun Li",
+        "Yunxin Liu",
+        "Bin Wang",
+        "Bo An"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2026,
+        4,
+        20
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html",
+        "https://proceedings.iclr.cc/paper_files/paper/2026/file/1b4279dc1ec8d0183c22528664d84459-Paper-Conference.pdf"
+      ],
+      "identity_basis": "Same work under a new title: the retained arXiv title is Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents. The PDF title page lists the same ten authors in the same order as arXiv, and the publisher abstract describes the same slot-based instruction generation, common split with offline multi-path evaluation, pop-up and ad-app noisy split, AITZ-Noise contaminated split and ambiguous split with preset Q&A interactions.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. The conference edition is retitled SMAN-Bench, for its Single-path, Multi-path, Ambiguous and Noisy task settings, and its PDF names github.com/gezelligheid0314/SMAN-Bench for code and datasets. Its abstract lists Mobile-Agent-E among the evaluated frameworks, where the retained v3 abstract names UI-Tars and OS-Atlas. The landing page metadata lists Yunxin Liu before Yuanchun Li and writes LIU, WEI in capitals; publication authors follow the PDF title page. Volume 2026 and pages 16218-16250 are explicit publisher citation metadata.",
+      "pages": "16218-16250",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/1b4279dc1ec8d0183c22528664d84459-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1b4279dc1ec8d0183c22528664d84459-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2026"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2026-04-20.",
+  "author": [
+    {
+      "literal": "Weikai Xu"
+    },
+    {
+      "literal": "Zhizheng Jiang"
+    },
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Pengzhi Gao"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Yuanchun Li"
+    },
+    {
+      "literal": "Yunxin Liu"
+    },
+    {
+      "literal": "Bin Wang"
+    },
+    {
+      "literal": "Bo An"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        20
+      ]
+    ]
+  },
+  "container-title": "International Conference on Learning Representations",
+  "volume": "2026",
+  "page": "16218-16250"
+}

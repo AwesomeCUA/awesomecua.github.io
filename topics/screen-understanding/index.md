@@ -150,6 +150,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   AutoGUI-v2 evaluates interface functionality, grounding and predicted interaction outcomes using hierarchical regions derived through VLM-human annotation. Its tasks span multiple operating systems and expose differences between functional localization, captioning and transition-logic understanding.
 - [PageGuide: Browser extension to assist users in navigating a webpage and locating information](https://awesomecua.com/resources/arxiv-2604-23772/) — 2026-04-26
   PageGuide is a browser extension that highlights evidence for answers on a page and guides users through web pages with evidence captured at each step.
+- [LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent](https://awesomecua.com/resources/url-4395ff8522cd77109b83/) — 2026-04-20
+  Training-free GUI agent that indexes screen elements via icon detection and OCR, checks each step with multi-level reflection and recovers by fallback clicks or rollback; introduces LongGUIBench, tasks over 15 steps.
 - [Do LLMs Need to See Everything? A Benchmark and Study of Failures in LLM-driven Smartphone Automation using Screentext vs. Screenshots](https://awesomecua.com/resources/arxiv-2604-17817/) — 2026-04-20
   DailyDroid compares text-only and text-plus-screenshot agents on everyday Android tasks across multiple apps and difficulty levels. Its failure analysis examines accessibility, observation modality and agent/application behavior.
 - [PrecisionCUA: Iterative Visual Refinement for Pixel-Precise Cursor Grounding in Code Editors](https://awesomecua.com/resources/arxiv-2604-13019/) — 2026-04-14
@@ -208,12 +210,16 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   ZoomClick uses repeated zooming and context adjustment to improve GUI grounding without training. The paper studies zoom depth, crop sizes, and related choices and introduces GUIZoom-Bench to evaluate how grounding models respond to zoomed views.
 - [MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents](https://awesomecua.com/resources/arxiv-2512-00756/) — 2025-11-30
   MPR-GUI evaluates GUI perception and reasoning through strictly aligned tasks in six languages. GUI-XLI adjusts non-English hidden representations toward English representations at language-sensitive layers during inference to address the measured cross-language gaps.
+- [Qwen3-VL Technical Report](https://awesomecua.com/resources/arxiv-2511-21631/) — 2025-11-26
+  Describes the Qwen3-VL dense and MoE vision-language models, with 256K-token interleaved context, interleaved-MRoPE, DeepStack and textual video timestamps; a general foundation model aimed partly at agentic use.
 - [Prune4Web: DOM Tree Pruning Programming for Web Agent](https://awesomecua.com/resources/arxiv-2511-21398/) — 2025-11-26
   Introduces Prune4Web, where generated scoring programs filter DOM elements according to decomposed subtasks before grounding. An annotation pipeline and two-turn training procedure coordinate the planner, programmatic filter and grounder.
 - [MEGA-GUI: Multi-stage Enhanced Grounding Agents for GUI Elements](https://awesomecua.com/resources/arxiv-2511-13087/) — 2025-11-17
   Introduces MEGA-GUI, which separates coarse region selection from fine-grained interface-element grounding. Bidirectional zooming and context-aware instruction rewriting coordinate specialized vision-language agents across visual scales.
 - [GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding](https://awesomecua.com/resources/arxiv-2511-00810/) — 2025-11-02
   Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
+- [UI-Hawk: Unleashing the Screen Stream Understanding for Mobile GUI Agents](https://awesomecua.com/resources/url-9113270916a36b4b76f1/) — 2025-11
+  Mobile GUI agent whose history-aware visual encoder reads earlier screenshots with the current one, trained by a curriculum from grounding, referring, screen QA and summarization to navigation; adds the FunUI benchmark.
 - [GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks](https://awesomecua.com/resources/arxiv-2510-26098/) — 2025-10-30
   GUI Knowledge Bench tests knowledge of widgets, interactions, and procedures across six named platforms and 292 applications to assess VLMs used for GUI tasks.
 - [GUIrilla: A Scalable Framework for Automated Desktop UI Exploration](https://awesomecua.com/resources/arxiv-2510-16051/) — 2025-10-16
@@ -276,6 +282,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Reports Seed1.5-VL, a general vision-language model evaluated on GUI control and gameplay alongside visual understanding and reasoning tasks.
 - [Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding](https://awesomecua.com/resources/arxiv-2505-05026/) — 2025-05-08
   Introduces WiserUI-Bench, pairing real UI variants from industry A/B tests with observed behavioral winners and expert explanations. It evaluates models’ ability to predict the more effective interface and explain its effect on user behavior.
+- [Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents](https://awesomecua.com/resources/url-60a2dc930fa11860858a/) — 2025-05-01
+  Trains a separate language model to rewrite lengthy web page observations into focused descriptions for LLM web agents, keeping training targets that let several LLMs predict the correct next action.
 - [Visual Test-time Scaling for GUI Agent Grounding](https://awesomecua.com/resources/arxiv-2505-00684/) — 2025-05-01
   RegionFocus adds visual test-time scaling by zooming into selected screenshot regions and maintaining an image-based map of landmarks and actions. It evaluates this grounding procedure with UI-TARS and Qwen2.5-VL on ScreenSpot-Pro and WebVoyager.
 - [PixelWeb: The First Web GUI Dataset with Pixel-Wise Labels](https://awesomecua.com/resources/arxiv-2504-16419/) — 2025-04-23
@@ -302,6 +310,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Combines hierarchical screen parsing with spatially enriched element descriptions to support both locating GUI targets and describing indicated elements.
 - [RWKV-UI: UI Understanding with Enhanced Perception and Reasoning](https://awesomecua.com/resources/arxiv-2502-03971/) — 2025-02-06
   RWKV-UI is a visual language model for high-resolution web interfaces that uses layout detection and reasoning-chain visual prompts to understand pages.
+- [Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model](https://awesomecua.com/resources/url-6942e8211a0f59eb7878/) — 2025
+  Presents Halligan, a VLM agent that abstracts visual CAPTCHAs into frames, elements and keypoints and solves each as a search problem through generated interaction code, tested on 2,600 challenges of 26 types.
 - [Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining](https://awesomecua.com/resources/arxiv-2412-10342/) — 2024-12-13
   Combines information-sensitive image cropping with a learning loop between element description and grounding for complex interface understanding.
 - [Falcon-UI: Understanding GUI Before Following User Instructions](https://awesomecua.com/resources/arxiv-2412-09362/) — 2024-12-12
@@ -342,6 +352,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Introduces Android screenshots with element locations, functionality descriptions, and instructions linked to sequences of GUI actions.
 - [Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps](https://awesomecua.com/resources/arxiv-2407-03037/) — 2024-07-03
   Trident combines exploration, monitoring, and detection agents to identify functional bugs that do not crash a mobile app. It reasons over screenshot sequences and interface transitions to construct test oracles, evaluated on 590 non-crash bugs and additional live apps.
+- [RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation](https://awesomecua.com/resources/url-a998ab1efc741ba69d82/) — 2024-07
+  Introduces RealWeb, a Chinese benchmark of 11,739 instructions on 40 real websites with annotated screenshots and slot trees, plus a baseline that detects page regions, parses instructions and acts on the pages.
 - [Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding](https://awesomecua.com/resources/arxiv-2406-19263/) — 2024-06-27
   Introduces Screen Point-and-Read and a hierarchical layout approach that interprets screen regions indicated by a user-selected point.
 - [Identifying User Goals from UI Trajectories](https://awesomecua.com/resources/arxiv-2406-14314/) — 2024-06-20
@@ -360,6 +372,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Textual Foresight learns UI representations by describing the future screen expected after an action on the current interface. The OpenApp dataset supports pretraining and downstream evaluation of representations that connect individual elements with whole-screen changes.
 - [CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only](https://awesomecua.com/resources/arxiv-2406-06947/) — 2024-06-11
   CAAP converts screenshots into textual observations and plans keyboard-and-mouse actions using a prompt that examines task context from multiple perspectives. The agent is evaluated on MiniWoB++ and WebShop using only front-end visual observations.
+- [Visual Grounding for User Interfaces](https://awesomecua.com/resources/url-36a7cba41056d46cdcde/) — 2024-06
+  Proposes LVG, which detects and grounds the UI element named by a free-form command in an Android screenshot, using layout-guided contrastive learning and synthetic referring expressions generated from Rico screens.
 - [V-Zen: Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM](https://awesomecua.com/resources/arxiv-2405-15341/) — 2024-05-24
   Describes V-Zen, a multimodal GUI model with dual-resolution image encoders for grounding and next-action prediction, fine-tuned using GUIDE interface elements and task sequences.
 - [SmartFlow: Robotic Process Automation using LLMs](https://awesomecua.com/resources/arxiv-2405-12842/) — 2024-05-21
@@ -457,10 +471,16 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 
 - [Astra Game Arena](https://awesomecua.com/resources/github-gih10012-astra-game-arena/) — Date not recorded
   Resumable, screen-only computer-use evaluation arena testing whether Codex agents can play locally installed desktop games.
+- [AutomotiveUI-Bench-4K](https://awesomecua.com/resources/url-e80e9cf4f565f9ab2abf/) — Date not recorded
+  Offline test set of 998 photos and screenshots of in-vehicle infotainment screens from 15 brands, with 4,208 English annotations for locating UI elements and judging expected results as passed or failed.
 - [Frozen Vision Backbones for GUI Grounding](https://awesomecua.com/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/) — Date not recorded
   Benchmarks dense versus global features across frozen vision backbones for pixel-coordinate GUI grounding.
 - [Gomoku Computer-Use Model Comparison](https://awesomecua.com/resources/github-jns-c-model-comparison-gomoku/) — Date not recorded
   Controlled evaluation benchmark comparing frontier Claude models on interactive board-game reasoning and GUI execution.
+- [GuideBench](https://awesomecua.com/resources/url-37b4f525e6d7a56a9967/) — Date not recorded
+  Released data for the GUIDE benchmark: annotated segments of narrated novice screen recordings in 10 applications, for predicting user behavior state, short-term intent and whether and how to help.
+- [GUIGuard-Bench public-ladder release](https://awesomecua.com/resources/url-61860953a680776ffe53/) — Date not recorded
+  Public-ladder release of GUIGuard-Bench: 121 Android and Linux desktop agent trajectories whose 2,002 screenshots carry region-level privacy labels, for privacy recognition, protected-screen planning and click grounding.
 - [LMMs-Eval](https://awesomecua.com/resources/github-evolvinglmms-lab-lmms-eval/) — Date not recorded
   LMMs-Eval is a standardized evaluation harness for large multimodal models covering GUI grounding, VQA, document, and video benchmarks.
 - [LongPuzzleBench](https://awesomecua.com/resources/github-bingozhang-verapraxis-longpuzzlebench/) — Date not recorded
@@ -471,6 +491,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Evaluates GPT-4o-mini on OSWorld desktop automation tasks comparing screenshot-only, accessibility-tree, and Set-of-Mark observation modes.
 - [Screen Point-and-Read / Tree-of-Lens](https://awesomecua.com/resources/github-ucsb-ai-screen-point-and-read/) — Date not recorded
   Screen-reading benchmark and Tree-of-Lens implementation for interpreting user-indicated regions and their layout context.
+- [SWE-bench Multimodal](https://awesomecua.com/resources/url-cb7f3bdb832d533c96b0/) — Date not recorded
+  Issue-resolution benchmark for visual JavaScript and TypeScript software, where each task's issue or patch includes screenshots, mockups or renderings and fixes are checked by repository unit tests.
 - [SWEeper-Bench](https://awesomecua.com/resources/github-zlab-princeton-sweeper-bench/) — Date not recorded
   SWEeper-Bench evaluates whether interactive GUI and browser agents can autonomously discover and reproduce 200 real bugs in open-source software.
 - [VisualWebArena](https://awesomecua.com/resources/github-web-arena-x-visualwebarena/) — Date not recorded
@@ -486,6 +508,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
 
 ## Datasets
 
+- [AMEX dataset release](https://awesomecua.com/resources/url-1b2091d717c977d4f8b9/) — Date not recorded
+  Official Hub release of AMEX: Android app screenshots annotated for interactive-element grounding, screen and element functionality, and instructions with stepwise GUI-action chains.
 - [AndroidCode](https://awesomecua.com/resources/url-cf4d2d45a7314cb16acb/) — Date not recorded
   HTML and annotation release used for Code2World’s action-conditioned GUI-state prediction training, constructed from mobile GUI trajectories.
 - [Aria-UI Data](https://awesomecua.com/resources/url-f8566bd0394d36ed4f8e/) — Date not recorded
@@ -494,26 +518,42 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Screenshot-based grounding and captioning samples with UI functionality descriptions, target coordinates, and bounding boxes.
 - [GroundCUA](https://awesomecua.com/resources/github-servicenow-groundcua/) — Date not recorded
   GroundCUA releases 56,000 desktop screenshots with 3.56M human-verified UI element annotations across 87 applications plus GroundNext models.
+- [GroundCUA dataset](https://awesomecua.com/resources/url-f6c88faa4392848f81b6/) — Date not recorded
+  Desktop GUI-grounding data from the GroundCUA project: PNG screenshots of 87 applications paired by hash with JSON lists of element boxes, visible text and optional coarse categories.
 - [GUI-Lasagne L1](https://awesomecua.com/resources/url-0c5659ca9e59d942aea3/) — Date not recorded
   The published GUI-Lasagne training-data collection used for SpiritSight, distributed as dated archive shards for visual interface learning.
 - [GUI-World](https://awesomecua.com/resources/github-dongping-chen-gui-world/) — Date not recorded
   GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
+- [GUI-World data](https://awesomecua.com/resources/url-40ce19527f25bfa3bd63/) — Date not recorded
+  Hub release of GUI-World: GUI screen-recording videos from six scenarios (Android, iOS, website, software, multi-app and XR) with train and benchmark annotation JSONL for GUI-oriented video question answering.
+- [GUI-Xplore](https://awesomecua.com/resources/url-f56dbd8bfac8b0545e07/) — Date not recorded
+  Per-app Android exploration videos with screenshot and action sequences, view hierarchies and question-answer pairs for five tasks, from app overview and page analysis to action recall and sequence verification.
 - [GUIMid training data](https://awesomecua.com/resources/url-422010da7a5c845a18f6/) — Date not recorded
   A released GUI-agent mid-training mixture and supporting domain datasets, together with a post-training trajectory file and image archives for web and mobile interaction.
 - [Mobile3M](https://awesomecua.com/resources/url-b80bfa0a4939a493a11f/) — Date not recorded
   Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archives for mobile apps such as Baidu Map, QQ Music, Ctrip and Vipshop.
 - [MobileViews](https://awesomecua.com/resources/url-cc4aa8caeee0cff58e73/) — Date not recorded
   Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 Google Play apps, collected with an optimized DroidBot, with complete per-app traces.
+- [MoCon](https://awesomecua.com/resources/url-c7489f15e7883a695832/) — Date not recorded
+  Icon and text bounding-box annotations for 10,364 mobile app screenshots, with 154 icon classes and font-family text labels in LabelMe JSON and train, val and test splits; images not included.
+- [MoGUI](https://awesomecua.com/resources/url-be89a250747f507a27ef/) — Date not recorded
+  Android app GUI crawl with per-app navigation graphs that link screen IDs through the UI action taken, plus 200 archive shards of the captured screens.
 - [MultiUI](https://awesomecua.com/resources/github-neulab-multiui/) — Date not recorded
   7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.
+- [MultiUI training data](https://awesomecua.com/resources/url-8cd911654653a6ba8521/) — Date not recorded
+  Gated Hub release of the MultiUI web-UI training data, about 7.3 million samples per the project README, packaged as two training-stage JSON files and 21 split TAR archive parts.
 - [RelationGUI & RelationQA](https://awesomecua.com/resources/github-malonghui-relationgui/) — Date not recorded
   RelationGUI provides datasets and training code for explicit spatial, hierarchical, and functional relational understanding in GUI agents.
 - [Rico](https://awesomecua.com/resources/url-0b134b082a7bd507fc6a/) — Date not recorded
   Mobile app screenshots, view hierarchies, and interaction traces for UI research.
 - [RICO Semantics](https://awesomecua.com/resources/github-google-research-datasets-rico-semantics/) — Date not recorded
   RICO Semantics provides 500,000 human annotations on RICO mobile screens covering icon shapes, semantic roles, and text-element associations.
+- [Screen Annotation](https://awesomecua.com/resources/github-google-research-datasets-screen-annotation/) — Date not recorded
+  Google Research release of ScreenAI's Screen Annotation data: train, validation and test CSVs that describe the UI elements of Rico mobile screens by type, box coordinates, on-screen text and image captions.
 - [Screen2Words](https://awesomecua.com/resources/github-google-research-datasets-screen2words/) — Date not recorded
   Mobile screen descriptions for language-based screen understanding.
+- [ScreenParse](https://awesomecua.com/resources/url-98e8a413ddd670214755/) — Date not recorded
+  Dense screen-parsing data that labels the visible UI elements of rendered web screenshots with boxes, 55 element classes, text, interactability and reading order, generated by an automated crawl-and-filter pipeline.
 - [ScreenQA](https://awesomecua.com/resources/github-google-research-datasets-screen-qa/) — Date not recorded
   About 86,000 human-written question-answer pairs over 35,000 Rico mobile screenshots, plus ScreenQA Short and ComplexQA variants, for benchmarking screen content understanding.
 - [ScreenRef](https://awesomecua.com/resources/url-56bda04bd8d3a438deb3/) — Date not recorded
@@ -530,6 +570,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Hugging Face dataset release for VisualWebBench spanning seven visual web understanding, OCR, element grounding, and action prediction tasks.
 - [Wave UI](https://awesomecua.com/resources/url-0dbb55f127da04d95222/) — Date not recorded
   Screenshot-instruction records with target boxes and UI metadata such as OCR, source, element type and platform.
+- [WaveUI-25k](https://awesomecua.com/resources/url-f2cf4ec32aa0b3ba6b95/) — Date not recorded
+  A 24,978-example subset of an ~80k UI element collection, pairing screenshots and instructions with target boxes and annotated element names, descriptions, types, OCR, purposes and click expectations.
 - [WebSRC](https://awesomecua.com/resources/github-x-lance-websrc-baseline/) — Date not recorded
   WebSRC provides baseline models and processing pipelines for the Web-Based Structural Reading Comprehension dataset over HTML and screenshots.
 - [WebSRC v1.0](https://awesomecua.com/resources/url-e0ba328ae1a643b0a5aa/) — Date not recorded
@@ -555,6 +597,10 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   DeskMind Eyes is a compact 4B GUI visual grounding model and training recipe for localizing click targets on desktop screenshots.
 - [Ferret-UI](https://awesomecua.com/resources/github-apple-ml-ferret/) — Date not recorded
   Screen understanding research within the Ferret model family.
+- [Fuyu-8B](https://awesomecua.com/resources/url-c6e1ffa1f4c6561c3b22/) — Date not recorded
+  Adept's decoder-only multimodal base model that feeds image patches straight into the transformer, released for research on digital agents, UI question answering and screen localization.
+- [GLM-V](https://awesomecua.com/resources/github-zai-org-glm-v/) — Date not recorded
+  Z.ai repository for the open-weight GLM-4.1V-Thinking, GLM-4.5V and GLM-4.6V vision-language models, with GUI-agent prompt examples for mobile, PC and web plus a released VLM reward system.
 - [GroundAnything](https://awesomecua.com/resources/github-groundingpi-groundanything/) — Date not recorded
   GroundAnything is a 4B parallel-decoding diffusion grounding model for low-latency visual coordinate localization.
 - [GroundGUI-8B](https://awesomecua.com/resources/url-de31b07ff24ab15d9bdf/) — Date not recorded
@@ -565,8 +611,18 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   GUI-AIMA aligns intrinsic multimodal attention heads with context anchors for data-efficient visual GUI element grounding.
 - [GUI-Spotlight](https://awesomecua.com/resources/github-bin123apple-gui-spotlight/) — Date not recorded
   GUI-Spotlight is a think-with-image GUI visual grounding model that iteratively crops and refines focus regions on high-resolution screens.
+- [Holo1.5 3B](https://awesomecua.com/resources/url-dc20a06c296207ac11a6/) — Date not recorded
+  Smallest Holo1.5 checkpoint, fine-tuned from Qwen2.5-VL-3B-Instruct with supervised training then GRPO, for locating interface elements and answering questions about web, desktop and mobile screens.
+- [Holo1.5 72B](https://awesomecua.com/resources/url-a8e086f155c278e45c55/) — Date not recorded
+  The 72B member of H Company's Holo1.5 series, fine-tuned from Qwen2.5-VL-72B-Instruct for UI element localization and screen question answering on web, desktop and mobile interfaces.
+- [Holo1.5 7B](https://awesomecua.com/resources/url-98e5813bceb30104d6c4/) — Date not recorded
+  H Company's Qwen2.5-VL-7B-based Holo1.5 checkpoint for locating interface elements and answering questions about screens across web, desktop and mobile, trained with supervised fine-tuning then GRPO.
 - [InternVL](https://awesomecua.com/resources/github-opengvlab-internvl/) — Date not recorded
   Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.
+- [Kimi-VL](https://awesomecua.com/resources/github-moonshotai-kimi-vl/) — Date not recorded
+  Moonshot AI open-weight MoE vision-language model with 2.8B activated LLM parameters and a native-resolution encoder; its README reports OSWorld, ScreenSpot-Pro and OSWorld-G results for OS-agent use.
+- [MiniCPM-GUIDance](https://awesomecua.com/resources/url-73570e699421a5ad04eb/) — Date not recorded
+  MiniCPM-V checkpoint released with GUICourse and tuned on its GUIEnv, GUIAct and GUIChat data; card prompts cover next-action generation from a task and action history, and screenshot chat with grounded boxes.
 - [MM-Eureka](https://awesomecua.com/resources/github-modalminds-mm-eureka/) — Date not recorded
   MM-Eureka provides rule-based multimodal reinforcement learning code, models, and datasets based on OpenRLHF and InternVL.
 - [MobileVLM](https://awesomecua.com/resources/github-xiaomi-mobilevlm/) — Date not recorded
@@ -577,14 +633,36 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   A screen-parsing weight bundle containing icon-region detectors and an icon captioner for converting screenshots into agent-readable interface elements.
 - [Pix2Struct](https://awesomecua.com/resources/github-google-research-pix2struct/) — Date not recorded
   Pix2Struct provides official training and inference code for screenshot-parsing vision-language pretraining across web and mobile UI tasks.
+- [Pix2Struct base (pretrained)](https://awesomecua.com/resources/url-bb1440d051c68455a72e/) — Date not recorded
+  Pretrained base-size Pix2Struct checkpoint in Transformers format, learned by parsing masked web page screenshots into simplified HTML and released only as a starting point for fine-tuning.
+- [Pix2Struct Screen2Words base](https://awesomecua.com/resources/url-1cf7f8b4b2a1eb9c6547/) — Date not recorded
+  Base-size Pix2Struct checkpoint fine-tuned on Screen2Words that writes a short functional summary of a mobile UI screenshot, converted to Transformers from Google's original release.
+- [Pix2Struct Screen2Words large](https://awesomecua.com/resources/url-6c3e04249787a3de7cbc/) — Date not recorded
+  Large-size Pix2Struct checkpoint fine-tuned on Screen2Words that writes a short functional summary of a mobile UI screenshot, converted to Transformers from Google's original release.
 - [POINTS-GUI-G 8B](https://awesomecua.com/resources/url-cc931199bda2bdf1f5f7/) — Date not recorded
   A specialized interface-grounding checkpoint that returns normalized point coordinates for a requested element in a screenshot.
+- [Qwen-GUI checkpoint](https://awesomecua.com/resources/url-23bc63f93d3c31d74af3/) — Date not recorded
+  Qwen-VL checkpoint released with GUICourse and tuned on its GUIAct and GUIChat data; the card's demo draws the box and point coordinates it returns, on a 0–1000 grid, onto the input screenshot.
 - [Qwen3-VL / Qwen2.5-VL](https://awesomecua.com/resources/github-qwenlm-qwen3-vl/) — Date not recorded
   Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.
+- [ScreenParser](https://awesomecua.com/resources/url-8c0b15d51eb7b4156608/) — Date not recorded
+  YOLO11-L UI element detector from IBM Research and ETH Zurich that boxes and labels 55 element classes in web screenshots; the main checkpoint is trained on ScreenParse v2 and the v1 detector stays on a branch.
+- [Seed1.5-VL](https://awesomecua.com/resources/github-bytedance-seed-seed1-5-vl/) — Date not recorded
+  ByteDance Seed vision-language foundation model served by API, whose repository provides cookbooks including GUI-agent prompts for computer and mobile use with click, drag, hotkey, typing and scroll actions.
 - [SpiritSight-Agent 8B base](https://awesomecua.com/resources/url-52b7de0e43b1afc9c226/) — Date not recorded
   An InternVL2-based visual GUI checkpoint distributed for grounding and interface navigation, with the publisher recommending task-specific fine-tuning of the base release.
 - [Textual Foresight](https://awesomecua.com/resources/github-aburns4-textualforesight/) — Date not recorded
   Textual Foresight pretrains UI representations by predicting textual descriptions of future screen states resulting from mobile UI actions.
+- [UI-TARS 2B SFT](https://awesomecua.com/resources/url-bd9f8174e5503055c0bd/) — Date not recorded
+  SFT-labelled 2B UI-TARS checkpoint, the compact size of the original release: a native GUI agent model in the Qwen2-VL architecture, stored in FP32, for screen perception, element grounding and GUI actions.
+- [UI-TARS 72B DPO](https://awesomecua.com/resources/url-0447e1fb83a794507aa2/) — Date not recorded
+  DPO-labelled 72B UI-TARS checkpoint that its card marks as recommended: a native GUI agent model in the Qwen2-VL architecture for screen perception, element grounding and multi-step actions on web, mobile and desktop.
+- [UI-TARS 72B SFT](https://awesomecua.com/resources/url-fdb901523979ed1e831b/) — Date not recorded
+  SFT-labelled 72B UI-TARS checkpoint: a native GUI agent model in the Qwen2-VL architecture, stored in FP32, for screen perception, element grounding and multi-step actions on web, mobile and desktop.
+- [UI-TARS 7B DPO](https://awesomecua.com/resources/url-a8b43a1f2bebd998f612/) — Date not recorded
+  DPO-labelled 7B UI-TARS checkpoint that its card marks as recommended: a native GUI agent model in the Qwen2-VL architecture for screen perception, element grounding and multi-step actions on web, mobile and desktop.
+- [UI-TARS 7B SFT](https://awesomecua.com/resources/url-dbd880ec31b412487945/) — Date not recorded
+  SFT-labelled 7B UI-TARS checkpoint: a native GUI agent model in the Qwen2-VL architecture, stored in FP32, for screen perception, element grounding and multi-step actions on web, mobile and desktop.
 - [UIX-Qwen2](https://awesomecua.com/resources/url-54997a3c67e54abdf319/) — Date not recorded
   A MultiUI-trained visual-language checkpoint for text-rich webpage understanding and interface tasks.
 - [VGA (Vision GUI Assistant)](https://awesomecua.com/resources/github-linziyang1999-vision-gui-assistant/) — Date not recorded
@@ -610,6 +688,10 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Accuracy engine for computer-use agents pairing a machine-readable cursor overlay (Agent Cursor) with local visual verification (GroundSight).
 - [Agent Eyes](https://awesomecua.com/resources/github-jumpsy-agent-eyes/) — Date not recorded
   Visual inspection toolkit for AI agents that captures rendered screenshots and extracts live CSS design tokens from the DOM.
+- [agent-computer-use](https://awesomecua.com/resources/github-kortix-ai-agent-computer-use/) — Date not recorded
+  Rust CLI (agent-cu) that lets agents snapshot desktop app accessibility trees into element refs or selectors and click, type, scroll or drag through AX on macOS, UI Automation on Windows and AT-SPI2 on Linux.
+- [agent-ctrl](https://awesomecua.com/resources/github-k4cper-g-agent-ctrl/) — Date not recorded
+  Rust CLI and daemon that let agents snapshot native app accessibility trees as element refs and act on them, with UI Automation on Windows, AX on macOS and a read-only AT-SPI surface on Linux.
 - [agent-desktop](https://awesomecua.com/resources/github-lahfir-agent-desktop/) — Date not recorded
   agent-desktop is a Rust CLI that exposes cross-platform OS accessibility trees and native UI actions as compact JSON for AI agents.
 - [agent-eyes](https://awesomecua.com/resources/github-mohanli-eng-agent-eyes/) — Date not recorded
@@ -676,8 +758,12 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   macOS desktop-control CLI that reads any application's UI hierarchy as structured JSON and dispatches native actions.
 - [Auto_OS](https://awesomecua.com/resources/github-jaswanth1902-auto-os/) — Date not recorded
   Sub-30ms Windows desktop automation primitive using direct Win32 UI Automation tree traversal and native input injection.
+- [AutoGUI code](https://awesomecua.com/resources/github-zjulihongxin-autogui/) — Date not recorded
+  AutoGUI's functionality-annotation pipeline (collect, reject, annotate from accessibility-tree changes, verify, generate tasks), with Qwen-VL LoRA fine-tuning and lmms-eval-based grounding evaluation.
 - [autourgos-cua-coordinate-tool](https://awesomecua.com/resources/github-devxjitin-autourgos-cua-coordinate-tool/) — Date not recorded
   Vision-based UI coordinate localization tool for Autourgos computer-use agents.
+- [AUV](https://awesomecua.com/resources/github-moeru-ai-auv/) — Date not recorded
+  Rust toolkit, CLI and MCP server for scripting reusable GUI operations on macOS, Linux and Windows, with native input drivers, accessibility trees, OCR and traced, verifiable action results.
 - [axcli](https://awesomecua.com/resources/github-andelf-axcli/) — Date not recorded
   axcli is a Rust command-line tool for querying, inspecting, and automating macOS application UIs through the native Accessibility API.
 - [Axon](https://awesomecua.com/resources/github-gxcsoccer-axon/) — Date not recorded
@@ -844,6 +930,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Hybrid AI browser automation engine combining Claude's visual Computer Use API with deterministic Playwright execution.
 - [Front-End Operation Master (FEOM)](https://awesomecua.com/resources/github-a92070888-dev-mcp-os-native-automation/) — Date not recorded
   Windows native UI automation framework and MCP server operating over UIA trees with zero vision tokens and ~3.9ms action latency.
+- [Fuji-Web](https://awesomecua.com/resources/github-normal-computing-oss-fuji-web/) — Date not recorded
+  Chrome side-panel extension agent that completes a typed task on websites, choosing click, type, scroll and navigate actions from uid-annotated screenshots or a simplified DOM with OpenAI, Anthropic or Gemini models.
 - [GAZE](https://awesomecua.com/resources/github-kevintrinhdev-gaze/) — Date not recorded
   Vision-first browser controller that observes and drives an already logged-in Chrome window.
 - [GenPark DOM Accessibility Tree Pruner Skill](https://awesomecua.com/resources/github-alpha-park-genpark-dom-semantic-accessibility-tree-pruner-skill/) — Date not recorded
@@ -944,6 +1032,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Autonomous macOS desktop assistant with voice interaction, screen vision, and native AppleScript/system control.
 - [LOCR (Lightweight OCR)](https://awesomecua.com/resources/github-dmzlingyin-locr/) — Date not recorded
   LOCR is a lightweight cross-platform clipboard and screen OCR utility based on RapidOCR.
+- [LongHorizonUI](https://awesomecua.com/resources/github-kane2kang-longhorizonui/) — Date not recorded
+  Code for the LongHorizonUI Android agent: OCR plus OmniParser icon detection yields numbered element boxes for an LLM, and failed taps fall back from element index to relative and absolute points with rollback.
 - [look-decide-act](https://awesomecua.com/resources/github-ivanposel-look-decide-act/) — Date not recorded
   Drives live web applications over CDP through a closed-loop visual look-decide-act cycle rather than brittle script replay.
 - [Lucy Screen Agent](https://awesomecua.com/resources/github-alzin-lucy-screen-agent/) — Date not recorded
@@ -960,6 +1050,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   macOS Visual Agent inspects native Apple Accessibility trees, detects UI elements, and executes coordinate-accurate clicks on macOS.
 - [macOS-MCP](https://awesomecua.com/resources/github-cursortouch-macos-mcp/) — Date not recorded
   Lightweight Model Context Protocol server for macOS computer use providing Accessibility tree traversal, screenshots, and input simulation.
+- [macOS-use](https://awesomecua.com/resources/github-browser-use-macos-use/) — Date not recorded
+  An archived Browser Use project that lets an LLM operate macOS apps by reading their accessibility trees and pressing, typing into and opening elements through the macOS Accessibility API.
 - [macOS-Use](https://awesomecua.com/resources/github-jeomon-macos-use/) — Date not recorded
   macOS-Use is a GUI desktop agent that reads the macOS Accessibility tree and executes multi-step application workflows.
 - [MacosUseSDK](https://awesomecua.com/resources/github-mediar-ai-macosusesdk/) — Date not recorded
@@ -1006,6 +1098,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Spec-driven small-LLM desktop agent that operates Windows end-to-end using OCR, YOLO icon detection, and Win32 APIs without a VLM.
 - [nanbbb dsh-computer-use-windows](https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/) — Date not recorded
   Windows computer-use plugin for DeepSeek Harness combining window discovery, UI Automation inspection, and input synthesis.
+- [native-devtools-mcp](https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/) — Date not recorded
+  Local Rust MCP server for operating macOS and Windows apps, Chrome or Electron pages over CDP, and Android devices over ADB, with screenshots, OCR, accessibility lookup, input and template matching.
 - [Navisual](https://awesomecua.com/resources/github-navisualguide-navisual/) — Date not recorded
   Navisual is a non-intrusive visual desktop guide that observes the screen and highlights where the user should click next.
 - [NeuroSight (QiraBot Vision Runtime)](https://awesomecua.com/resources/github-vthanhhdev-qirabot-vision-runtime/) — Date not recorded
@@ -1050,22 +1144,30 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Clean-room macOS implementation of event-stream interaction recording using Accessibility hit-testing, CGEvent taps, and SkyLight window snapshots.
 - [Open Frame](https://awesomecua.com/resources/github-off-camber-open-frame/) — Date not recorded
   Deterministic desktop automation engine for AI agents implementing a capture-recognize-act-verify loop.
+- [open-computer-use](https://awesomecua.com/resources/github-ifuryst-open-computer-use/) — Date not recorded
+  Computer-use MCP server and CLI for macOS, Linux and Windows exposing nine shared tools, such as get_app_state, click and set_value, with macOS apps read through accessibility APIs.
 - [Openbrowser (Semantic Headless Runtime)](https://awesomecua.com/resources/github-datuomart5423-openbrowser/) — Date not recorded
   Headless browser runtime that converts webpages into compact structured semantic state for AI agents.
 - [opencode-gui-bridge](https://awesomecua.com/resources/github-yueqi-wang-795-opencode-gui-bridge/) — Date not recorded
   Model Context Protocol bridge giving OpenCode and MCP clients real Windows GUI control via UI Automation and vision.
 - [opencode-mobile-use](https://awesomecua.com/resources/github-system1970-opencode-mobile-use/) — Date not recorded
   OpenCode plugin for controlling Android devices with a live phone screen in the TUI sidebar and resilient UI hierarchy dumps.
+- [OpenComet](https://awesomecua.com/resources/github-princechouhan19-opencometai/) — Date not recorded
+  Chrome side-panel agent that tags page elements with numbered boxes, redacts faces, credential fields and text PII on-device before a model sees the screenshot and DOM text, and acts through selectors or debugger clicks.
 - [OpenControl](https://awesomecua.com/resources/github-joshuaalawrence-opencontrol/) — Date not recorded
   Single-binary ~2MB Rust Model Context Protocol server exposing 54 native Windows desktop control, UI Automation, and screenshot tools.
 - [OpenDesk](https://awesomecua.com/resources/github-shopable-ai-opendesk/) — Date not recorded
   OpenDesk is an API-driven desktop automation runtime that lets AI agents control windows, mouse/keyboard, OCR, and files via JavaScript or MCP.
+- [OpenDesk](https://awesomecua.com/resources/github-vitalops-opendesk/) — Date not recorded
+  Computer-use MCP server and Python/TypeScript SDKs giving agents Set-of-Marks screenshots, accessibility-based UI actions, mouse, keyboard, OCR, CDP browser control and workflow replay on local or paired machines.
 - [OpenGUI (Windows Native Service)](https://awesomecua.com/resources/github-lessenings-prog-opengui/) — Date not recorded
   Windows-native .NET 9 desktop automation service exposing sub-millisecond named-pipe IPC and UI Automation perception to LLM agents.
 - [OpenOCR](https://awesomecua.com/resources/github-topdu-openocr/) — Date not recorded
   OpenOCR is an open-source scene and document text detection, recognition, and VLM-OCR toolkit used for screen text parsing.
 - [OpenUI](https://awesomecua.com/resources/github-wandb-openui/) — Date not recorded
   OpenUI lets users and agents generate, preview, and iteratively edit live HTML/Tailwind/React UI components from natural language and screenshots.
+- [Opus](https://awesomecua.com/resources/github-jeffrey-zang-opus/) — Date not recorded
+  Electron app for macOS whose OpenAI Agents SDK loop operates apps through AppleScript, Accessibility-element clicks, key presses, shell commands and URIs, guided by element lists and screenshots.
 - [orangeofcarl0-sys dsh-computer-use](https://awesomecua.com/resources/github-orangeofcarl0-sys-dsh-computer-use/) — Date not recorded
   Windows desktop computer-use plugin for DeepSeek Harness featuring numbered UI element grounding and background-first input delivery.
 - [Orbination AI Desktop Vision & Control](https://awesomecua.com/resources/github-amichail-1-orbination-ai-desktop-vision-control/) — Date not recorded
@@ -1148,6 +1250,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Screen2AX reconstructs macOS application accessibility trees from screenshots using vision detectors and releases the Maceka GUI dataset.
 - [ScreenHand](https://awesomecua.com/resources/github-manushi4-screenhand/) — Date not recorded
   Open-source desktop automation MCP server that drives native macOS and Windows UI elements in ~50ms via OS accessibility APIs.
+- [ScreenParse Webshot toolkit](https://awesomecua.com/resources/github-saidgurbuz-screenparse/) — Date not recorded
+  Official ScreenParse code: the Webshot toolkit that renders websites with Playwright, records visible DOM elements as boxed, nested annotations, relabels them with Qwen3-VL, exports YOLO data and evaluates parsers.
 - [screenshotting-gui](https://awesomecua.com/resources/github-evilfreelancer-screenshotting-gui/) — Date not recorded
   Agent skill for Claude Code, Codex, and Cursor that captures repeatable, window-scoped screenshots of native desktop and browser GUI apps.
 - [ScreenWatch](https://awesomecua.com/resources/github-abnsapkota001-screenwatch/) — Date not recorded
@@ -1166,6 +1270,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Closed-loop visual, audio, and video sensory grounding MCP server for verifying UI state in coding and computer-use agents.
 - [servo-agent](https://awesomecua.com/resources/github-parker-brown-family-servo-agent/) — Date not recorded
   Agent-controllable web browser built on the Rust Servo engine that distills live rendered DOM layouts into compact agent observations.
+- [Shadow](https://awesomecua.com/resources/github-ghostwright-shadow/) — Date not recorded
+  macOS app that records screen, audio, input events and accessibility trees on-device, builds searchable episodes, and replays learned procedures through AX-first grounding with a LoRA-tuned ShowUI-2B fallback.
 - [shadow-web](https://awesomecua.com/resources/github-ulinycoin-shadow-web/) — Date not recorded
   Local-first Python SDK for web agents providing Shadow DOM flattening, Action Maps, SchemaSnap extraction, and form filling.
 - [Sidelook](https://awesomecua.com/resources/github-ucsandman-sidelook/) — Date not recorded
@@ -1190,6 +1296,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Autonomous real-browser interaction engine and Chrome extension bridge exposing 99 MCP tools to AI agents.
 - [Spooky Action](https://awesomecua.com/resources/github-jumpsy-spooky-action/) — Date not recorded
   Focus-free macOS computer-use tool that presses native Accessibility buttons in the background without moving the user's cursor.
+- [Surfer-H-CLI](https://awesomecua.com/resources/github-hcompai-surfer-h-cli/) — Date not recorded
+  Deprecated runner for H Company's Surfer-H web agent: a policy model reads recent Chrome screenshots, a Holo localizer returns click coordinates, Selenium acts, and an optional validator checks the answer.
 - [System Automation MCP](https://awesomecua.com/resources/github-aurafriday-system-mcp/) — Date not recorded
   System Automation MCP exposes cross-platform desktop UI inspection, OCR, window management, and mouse/keyboard actions to MCP-compatible agents.
 - [Tactile](https://awesomecua.com/resources/github-yliust-tactile/) — Date not recorded
@@ -1216,6 +1324,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   TideSurf connects Chromium to LLM agents via compact structured DOM compression requiring 50 to 200 tokens per webpage.
 - [tine](https://awesomecua.com/resources/github-smythp-tine/) — Date not recorded
   Command-line interface for AI agents to inspect and drive Linux GNOME Wayland desktops without portal consent dialogs.
+- [TipTour](https://awesomecua.com/resources/github-milind-soni-tiptour-macos/) — Date not recorded
+  macOS menu-bar agent that grounds clicks with a local Core ML control detector and accessibility tree, driven by TypeSafe's JEV text loop or Gemini realtime voice, with a localhost harness for other agents.
 - [Touchline](https://awesomecua.com/resources/github-edenbuilds-touchline/) — Date not recorded
   Multi-agent browser squad for evidence-led website inspection and frontend reconstruction.
 - [Touchpoint](https://awesomecua.com/resources/github-touchpoint-labs-touchpoint/) — Date not recorded
@@ -1224,6 +1334,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Trope CUA enables background desktop inspection and GUI operation on Windows and macOS without interrupting foreground user work.
 - [Turan AI](https://awesomecua.com/resources/github-aykutkrm67-turan-ai/) — Date not recorded
   Local multi-brain Windows AI desktop agent with visible computer control and verified action execution.
+- [typesafe-computer-use](https://awesomecua.com/resources/github-awlevin-typesafe-computer-use/) — Date not recorded
+  Computer-use loop that reads the screen with OCR and accessibility labels, has the hosted TypeSafe classifier choose each next action with a confidence, and calls a writer model only for free text.
 - [UI Annotator MCP](https://awesomecua.com/resources/github-mcpware-ui-annotator-mcp/) — Date not recorded
   Model Context Protocol server that injects interactive Set-of-Mark hover labels into live webpages for visual browser agents.
 - [UI Defect Mocker](https://awesomecua.com/resources/github-zju-aces-ise-uidefectmocker/) — Date not recorded
@@ -1314,6 +1426,8 @@ Full source records: https://awesomecua.com/downloads/topics/screen-understandin
   Windows GUI automation Model Context Protocol server for AI coding and computer-use agents.
 - [Windows-MCP](https://awesomecua.com/resources/github-cursortouch-windows-mcp/) — Date not recorded
   A Windows MCP bridge exposing application, window, keyboard and mouse operations plus native UI-state inspection for agents.
+- [Windows-Use](https://awesomecua.com/resources/github-jeomon-windows-use/) — Date not recorded
+  A Python agent that drives Windows applications through the UI Automation tree, optionally with screenshots, choosing clicks, typing, scrolling, shortcuts, window actions and PowerShell commands with an LLM.
 - [WinMind](https://awesomecua.com/resources/github-jhonpork1233-beep-win-mind/) — Date not recorded
   WinMind is a Windows MCP server that lets AI agents inspect and drive desktop applications through the UI Automation accessibility tree.
 - [winuse-mcp](https://awesomecua.com/resources/github-ryanportfolio-winuse-mcp/) — Date not recorded

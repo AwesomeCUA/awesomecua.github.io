@@ -1,28 +1,22 @@
 # Qwen3-VL Technical Report
 
-Bibliographic record for Qwen3-VL Technical Report. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Describes the Qwen3-VL dense and MoE vision-language models, with 256K-token interleaved context, interleaved-MRoPE, DeepStack and textual video timestamps; a general foundation model aimed partly at agentic use.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2511-21631/
 - Original source: https://arxiv.org/abs/2511.21631
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-11-05T21:14:07Z
+- Topics: screen-understanding
+- Evidence checked: 2026-10-18T11:07:35Z
 - ID: arxiv:2511.21631
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv; relevance review pending.
+The annotation and scope were reviewed against the complete retained original arXiv abstract, which positions the models for agentic decision-making but names no GUI environment; the GUI-operation claim comes from the curated Qwen3-VL repository README. Experimental findings have not been independently reproduced.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2511-21631/record.json
-
-## Recorded reviewer hold
-
-Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) could not settle the scope: Screeners disagreed\. One read it as outside the scope: Technical report on a general vision\-language model family with long context and multimodal reasoning\. The abstract mentions agentic use only in passing and makes no GUI or screen contribution\. The other marked it borderline: General vision\-language model report; the abstract envisions agentic decision\-making but does not say whether GUI, screen or computer\-use tasks are part of the work or its evaluation\. Needs a scope decision from the full text\.
-
-- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -52,3 +46,4 @@ Shuai Bai, Yuxuan Cai, Ruizhe Chen, Keqin Chen, Xionghui Chen, Zesen Cheng, Lian
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2509.22644%2C2510.00078%2C2510.00507%2C2510.02608%2C2510.04536%2C2510.04791%2C2510.05137%2C2510.10049%2C2510.10991%2C2510.14308%2C2510.14545%2C2510.16720%2C2510.19838%2C2510.20707%2C2510.22102%2C2510.24284%2C2510.26098%2C2511.02805%2C2511.03628%2C2511.03773%2C2511.04707%2C2511.08325%2C2511.09309%2C2511.19957%2C2511.21631%2C2511.23281%2C2512.06641%2C2512.09458%2C2512.11506%2C2512.20237%2C2512.21481%2C2512.23646%2C2601.04203%2C2601.09668%2C2601.10611%2C2601.19923%2C2601.22352%2C2601.22770%2C2602.06485%2C2602.10863%2C2602.16165%2C2602.22897%2C2603.01104%2C2603.03296%2C2603.05294%2C2603.07915%2C2603.23526%2C2603.25764%2C2604.05015%2C2604.09718&max_results=50 (retrieved 2026-11-05T21:14:07Z; SHA-256 410a4c48b9605a531d3e6008c561ce3e3e9d92609168f5d49fadc04f5f943289)
+- https://export.arxiv.org/api/query?id_list=2309.00071%2C2409.12191%2C2511.21631&max_results=3 (retrieved 2026-10-18T11:07:35Z; SHA-256 3eebc4a3be1eecf990598a5e872dbb1a8c2b55354c418a7bd47b6c9648897f80)

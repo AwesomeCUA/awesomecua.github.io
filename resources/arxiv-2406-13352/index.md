@@ -1,28 +1,22 @@
 # AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents
 
-Bibliographic record for AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Introduces AgentDojo, an extensible environment of tool-calling tasks over untrusted data that measures prompt-injection attacks, defenses and utility, with 97 tasks and 629 security test cases.
 
 - Catalog URL: https://awesomecua.com/resources/arxiv-2406-13352/
 - Original source: https://arxiv.org/abs/2406.13352
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-17T07:57:37Z
+- Topics: safety-security, evaluation, tool-integration
+- Evidence checked: 2026-10-18T11:06:08Z
 - ID: arxiv:2406.13352
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv; relevance review pending.
+The annotation and scope were reviewed against the complete retained original arXiv abstract (version 3). Agents act through tool calls on simulated email, banking and travel services rather than through screenshots or page DOMs, so the paper is adjacent to GUI-agent safety. Experimental findings have not been independently reproduced.
 
 - Record JSON: https://awesomecua.com/resources/arxiv-2406-13352/record.json
-
-## Recorded reviewer hold
-
-Relevance screening of the complete arXiv v3 abstract \(5 November 2026\) could not settle the scope: Prompt\-injection environment for tool\-calling agents; tasks include navigating an e\-banking website and travel booking, but the abstract frames interaction as tool calls, so it is unclear whether real web pages are operated\. Needs a scope decision from the full text\.
-
-- Review ledger: https://awesomecua.com/downloads/coverage.json
 
 ## Authors
 
@@ -52,3 +46,4 @@ Edoardo Debenedetti, Jie Zhang, Mislav Balunović, Luca Beurer-Kellner, Marc Fis
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2406.10290%2C2406.10707%2C2406.11342%2C2406.11775%2C2406.12045%2C2406.12275%2C2406.12934%2C2406.13264%2C2406.13352%2C2406.14884%2C2406.14991%2C2406.18820%2C2406.20041%2C2406.20092%2C2407.01502%2C2407.03502%2C2407.04363%2C2407.04856%2C2407.06048%2C2407.08898%2C2407.09025%2C2407.10839%2C2407.12821%2C2407.13696%2C2407.17789%2C2407.20143%2C2407.20727%2C2408.00545%2C2408.02248%2C2408.04168%2C2408.07720%2C2408.09559%2C2408.10215%2C2408.10605%2C2408.11791%2C2408.16119%2C2409.00608%2C2409.03402%2C2409.04999%2C2409.05655%2C2409.07703%2C2409.08273%2C2409.08831%2C2409.10033%2C2409.17652%2C2409.19715%2C2410.01039%2C2410.01606%2C2410.05340%2C2410.05656&max_results=50 (retrieved 2026-10-17T07:57:37Z; SHA-256 a75a630c4d4403233df3cb296d7e6bb60ca2f30705b5fc7ed4bd53b188c394ca)
+- https://export.arxiv.org/api/query?id_list=2406.13352&max_results=1 (retrieved 2026-10-18T11:06:08Z; SHA-256 82f712f54aa9b3b42146ddc85ad8a0f6b765507bfdde986cab3344f50a88bf4b)

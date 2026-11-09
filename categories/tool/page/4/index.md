@@ -4,6 +4,8 @@ HTML page: https://awesomecua.com/categories/tool/page/4/
 
 Full category annotations: https://awesomecua.com/categories/tool/index.md
 
+- [dsh-chrome](https://awesomecua.com/resources/github-stuarthu-dsh-chrome/)
+- [dsh-click](https://awesomecua.com/resources/github-perrylink-dsh-click/)
 - [dsh-cloak-browser](https://awesomecua.com/resources/github-maxiaovivi-dsh-cloak-browser/)
 - [dsh-computer-use](https://awesomecua.com/resources/github-xiaoheizi1212-dsh-computer-use/)
 - [dsh-cua](https://awesomecua.com/resources/github-hutusion-dsh-cua/)
@@ -102,5 +104,3 @@ Full category annotations: https://awesomecua.com/categories/tool/index.md
 - [guo6x dsh-pilot](https://awesomecua.com/resources/github-guo6x-dsh-pilot/)
 - [haden-browser](https://awesomecua.com/resources/github-haden-min-haden-browser/)
 - [hanzhangzzz dsh-computer-use](https://awesomecua.com/resources/github-hanzhangzzz-dsh-computer-use/)
-- [Hanzi Browse](https://awesomecua.com/resources/github-hanzili-hanzi-browse/)
-- [Helios](https://awesomecua.com/resources/github-vrtnis-helios/)

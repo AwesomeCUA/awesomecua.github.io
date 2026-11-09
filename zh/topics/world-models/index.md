@@ -135,6 +135,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
 
 - [AutoCoA](https://awesomecua.com/resources/github-adam-bjtu-autocoa/) — Date not recorded
   AutoCoA internalizes Chain-of-Action generation into reasoning models via step-level SFT, reinforcement learning, and simulated tool world models.
+- [GUI-Trajectory-Virtual](https://awesomecua.com/resources/github-futuresis-gui-trajectory-virtual/) — Date not recorded
+  Synthesizes Android agent trajectories without a device: an image model behind a chat-completions API draws each next screen from the previous screenshot and the action chosen by a Mobile-Agent-v3-style agent.
 - [LGWM (Latent GUI World Model)](https://awesomecua.com/resources/github-jiamingzhang94-lgwm/) — Date not recorded
   LGWM is an action-conditioned latent GUI world model that predicts next-state representations to verify GUI agent transitions.
 - [nanoAWM (Agent World Model Lab)](https://awesomecua.com/resources/github-jlov7-nanoawm/) — Date not recorded
@@ -145,6 +147,8 @@ Full source records: https://awesomecua.com/downloads/topics/world-models/record
   RLVR-World trains world models with verifiable reinforcement learning to predict state transitions for web and game agents.
 - [SEAgent](https://awesomecua.com/resources/github-sunzey-seagent/) — Date not recorded
   SEAgent enables computer-use agents to self-evolve in unfamiliar software environments using a World State Model and curriculum task generator.
+- [ViMo code](https://awesomecua.com/resources/github-ai-agents-2030-vimo/) — Date not recorded
+  Code for the ViMo GUI world model: Gemini-based next-screen text prediction, AITW and AndroidControl data processing, InstructPix2Pix-style graphic inference, and an AndroidWorld agent that consults it.
 - [WebDreamer](https://awesomecua.com/resources/github-osu-nlp-group-webdreamer/) — Date not recorded
   World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.
 - [WebEvolver code component](https://awesomecua.com/resources/component-tencent-selfevolvingagent-webevolver/) — Date not recorded

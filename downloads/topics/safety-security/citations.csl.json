@@ -406,6 +406,67 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2406.13352v3",
+    "archive": "arXiv",
+    "archive_location": "2406.13352",
+    "author": [
+      {
+        "literal": "Edoardo Debenedetti"
+      },
+      {
+        "literal": "Jie Zhang"
+      },
+      {
+        "literal": "Mislav Balunović"
+      },
+      {
+        "literal": "Luca Beurer-Kellner"
+      },
+      {
+        "literal": "Marc Fischer"
+      },
+      {
+        "literal": "Florian Tramèr"
+      }
+    ],
+    "citation-key": "arxiv_2406_13352",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "598c0ce1fcc190026d03953faf3c3f675f1e759d8de3ffc52c3bc1dad8191d22",
+        "submitted_at": "2024-06-19T08:55:56Z",
+        "updated_at": "2024-11-24T22:04:23Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2406.13352v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.13352",
+      "catalog_id": "arxiv:2406.13352",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-06-19",
+      "identifiers": {
+        "arxiv": "2406.13352"
+      },
+      "record_updated_at": "2024-11-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.13352",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-19; Recorded arXiv version: v3; Recorded version updated: 2024-11-24T22:04:23Z.",
+    "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2407.09295v3",
     "archive": "arXiv",
     "archive_location": "2407.09295",
@@ -6817,9 +6878,40 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2025-12-28",
       "identifiers": {
         "arxiv": "2512.22894"
+      },
+      "publication": {
+        "authors": [
+          "Phil Cuvin",
+          "Hao Zhu",
+          "Diyi Yang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2026-04-20. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2026,
+          4,
+          20
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2026/hash/9afca5107064eb89546fabb4abc379a7-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: the proceedings title is the retained arXiv title without its DECEPTICON: prefix, the same three authors appear in the same order, and the publisher abstract matches the arXiv abstract, including the 700-task DECEPTICON environment (600 generated and 100 real-world tasks).",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. The proceedings title omits the DECEPTICON: prefix that the arXiv title carries. Volume 2026 and pages 95945-95977 are explicit publisher citation metadata.",
+        "pages": "95945-95977",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/9afca5107064eb89546fabb4abc379a7-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "How Dark Patterns Manipulate Web Agents",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/9afca5107064eb89546fabb4abc379a7-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2026"
       },
       "record_updated_at": "2026-02-06"
     },
@@ -17137,5 +17229,252 @@
     "title": "Securing Web Agents with the Compile-Then-Execute Paradigm",
     "type": "article",
     "version": "1"
+  },
+  {
+    "DOI": "10.18653/v1/2024.emnlp-demo.20",
+    "URL": "https://aclanthology.org/2024.emnlp-demo.20/",
+    "author": [
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Boyu Gou"
+      },
+      {
+        "literal": "Scott Salisbury"
+      },
+      {
+        "literal": "Zheng Du"
+      },
+      {
+        "literal": "Huan Sun"
+      },
+      {
+        "literal": "Yu Su"
+      }
+    ],
+    "citation-key": "cua_702219eb2a27d3d3eb2d691d",
+    "container-title": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    "custom": {
+      "canonical_source_url": "https://aclanthology.org/2024.emnlp-demo.20/",
+      "catalog_id": "url:07e274077af6ea9fd5f9",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.18653/v1/2024.emnlp-demo.20"
+      },
+      "publication": {
+        "authors": [
+          "Boyuan Zheng",
+          "Boyu Gou",
+          "Scott Salisbury",
+          "Zheng Du",
+          "Huan Sun",
+          "Yu Su"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.emnlp-demo.20",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.emnlp-demo.20/"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.",
+        "issue": null,
+        "notes": "Publisher proceedings edition (EMNLP 2024 System Demonstrations).",
+        "pages": "187-197",
+        "pdf_url": "https://aclanthology.org/2024.emnlp-demo.20.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "WebOlympus: An Open Platform for Web Agents on Live Websites",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.emnlp-demo.20/",
+        "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:07e274077af6ea9fd5f9",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-11.",
+    "page": "187-197",
+    "publisher": "Association for Computational Linguistics",
+    "title": "WebOlympus: An Open Platform for Web Agents on Live Websites",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://www.usenix.org/conference/usenixsecurity25/presentation/teoh",
+    "author": [
+      {
+        "literal": "Xiwen Teoh"
+      },
+      {
+        "literal": "Yun Lin"
+      },
+      {
+        "literal": "Siqi Li"
+      },
+      {
+        "literal": "Ruofan Liu"
+      },
+      {
+        "literal": "Avi Sollomoni"
+      },
+      {
+        "literal": "Yaniv Harel"
+      },
+      {
+        "literal": "Jin Song Dong"
+      }
+    ],
+    "citation-key": "cua_d010e21928bbf5e842ebcd62",
+    "container-title": "Proceedings of the 34th USENIX Security Symposium",
+    "custom": {
+      "canonical_source_url": "https://www.usenix.org/conference/usenixsecurity25/presentation/teoh",
+      "catalog_id": "url:6942e8211a0f59eb7878",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "Xiwen Teoh",
+          "Yun Lin",
+          "Siqi Li",
+          "Ruofan Liu",
+          "Avi Sollomoni",
+          "Yaniv Harel",
+          "Jin Song Dong"
+        ],
+        "date_basis": "Supplied year precision: 2025. The proceedings PDF cover places the paper in the 34th USENIX Security Symposium; the symposium dates are kept as event dates, not a publication date.",
+        "date_parts": [
+          2025
+        ],
+        "doi": null,
+        "event_dates": "August 13–15, 2025",
+        "evidence_urls": [
+          "https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title search returned no preprint of this work.",
+        "issue": null,
+        "notes": "Open-access USENIX Security 2025 proceedings edition; the cover prints ISBN 978-1-939133-52-6. USENIX assigns no DOI.",
+        "pages": "3747-3766",
+        "pdf_url": "https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf",
+        "publisher": "USENIX Association",
+        "series": null,
+        "title": "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model",
+        "type": "conference-paper",
+        "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/teoh",
+        "venue": "Proceedings of the 34th USENIX Security Symposium",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:6942e8211a0f59eb7878",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "note": "Publication date: 2025.",
+    "page": "3747-3766",
+    "publisher": "USENIX Association",
+    "title": "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+    "author": [
+      {
+        "literal": "Baicheng Chen"
+      },
+      {
+        "literal": "Mingda Zhang"
+      },
+      {
+        "literal": "Min Zhang"
+      },
+      {
+        "literal": "Haizhou Li"
+      },
+      {
+        "literal": "Baoyuan Wu"
+      }
+    ],
+    "citation-key": "cua_a2a53f955040d6d6aba935d9",
+    "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "custom": {
+      "canonical_source_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+      "catalog_id": "url:e876bff0950b82a0c9b7",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "Baicheng Chen",
+          "Mingda Zhang",
+          "Min Zhang",
+          "Haizhou Li",
+          "Baoyuan Wu"
+        ],
+        "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
+        "date_parts": [
+          2026,
+          6
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+          "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and an arXiv title and abstract search for AdapAction returned nothing; neither the landing page nor the PDF names an arXiv version, so this publisher edition seeds the record.",
+        "issue": null,
+        "notes": "CVF open-access accepted version; the PDF states that the final proceedings version is on IEEE Xplore. The landing page, BibTeX and PDF title page list the same five authors in the same order.",
+        "pages": "27894-27905",
+        "pdf_url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents",
+        "type": "conference-paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+        "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:e876bff0950b82a0c9b7",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "note": "Publication date: 2026-06.",
+    "page": "27894-27905",
+    "title": "AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents",
+    "type": "paper-conference"
   }
 ]

@@ -161,6 +161,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
 
 - [Action Check WebMCP](https://awesomecua.com/resources/github-ajaknumber4-action-check-webmcp/) — Date not recorded
   External state-verification benchmark testing whether WebMCP browser tools actually produced their claimed DOM and backend effects.
+- [DynamicGUIBench](https://awesomecua.com/resources/url-20fa95f00391bf965af2/) — Date not recorded
+  Desktop benchmark of 500 OSWorld-style tasks whose interfaces change between observations through scripted pop-ups, timed edits and shifting lists, with bilingual instructions and end-state evaluators.
 - [ExactDelta (ActionProof)](https://awesomecua.com/resources/github-tsuchiyatakahirolab-actionproof/) — Date not recorded
   Post-action state-delta verification harness for WebMCP browser agents that detects silent UI and state failures.
 - [Graph-Guided Agentic Testing](https://awesomecua.com/resources/github-avikundal-graph-guided-agentic-testing/) — Date not recorded
@@ -182,6 +184,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   macOS computer-use plugin for DeepSeek Harness featuring fresh Accessibility observations, stale-state rejection, and scoped permissions.
 - [AXTree API](https://awesomecua.com/resources/github-amaar-mc-axtree-api/) — Date not recorded
   Event-driven macOS Accessibility tree streaming server and action bridge for computer-use agents.
+- [Browser Agent (uiuing)](https://awesomecua.com/resources/github-uiuing-browser-agent/) — Date not recorded
+  Chrome side-panel agent whose page engine reads a whole-page semantic DOM snapshot, re-grounds targets by element fingerprints, dispatches DOM events and checks post-conditions before reporting success.
 - [browser-action-receipt](https://awesomecua.com/resources/github-scalar-atelier-browser-action-receipt/) — Date not recorded
   Verification protocol that binds human approval to target DOM state, aborting clicks and emitting a receipt if the page mutates.
 - [ChimeraX-SessionStates](https://awesomecua.com/resources/github-shiinahiiragi-chimerax-states/) — Date not recorded
@@ -194,8 +198,12 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Stateful, event-driven screen-perception runtime that converts UI changes into compact text events for text-only computer-use agents.
 - [GenPark SPA Settlement Waiter Skill](https://awesomecua.com/resources/github-alpha-park-genpark-spa-network-idle-settlement-waiter-skill/) — Date not recorded
   Agent skill for awaiting single-page-application network idle and DOM mutation settlement before acting.
+- [grass-gui](https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/) — Date not recorded
+  ScienceBoard's replacement GRASS GIS 8.4 wxPython GUI with an embedded Flask server that loads mapsets and layers, runs GRASS commands and returns layer, region and console state as JSON for task checks.
 - [IdemStep](https://awesomecua.com/resources/github-supermarioyl-idemstep/) — Date not recorded
   Deduplicates repeated agent actions and HTTP retries using keyed idempotency caches and a local verification proxy.
+- [kalgebra-kai](https://awesomecua.com/resources/github-shiinahiiragi-kalgebra/) — Date not recorded
+  Modified KAlgebra build from ScienceBoard with a local HTTP server that reports variables and plotted 2D and 3D functions and can switch tabs or add calculations and plots, so the benchmark can check math tasks.
 - [LangGraph](https://awesomecua.com/resources/github-langchain-ai-langgraph/) — Date not recorded
   LangGraph is a stateful graph orchestration framework for building long-running, cyclical, and human-in-the-loop LLM and CUA agents.
 - [nexus-browser-mcp](https://awesomecua.com/resources/github-paipaipai666-nexus-browser-mcp/) — Date not recorded
@@ -206,6 +214,8 @@ Full source records: https://awesomecua.com/downloads/topics/state-tracking/reco
   Windows desktop automation MCP server using incremental UI Automation state diffs rather than full-screen vision loops.
 - [outlive](https://awesomecua.com/resources/github-sy-d-outlive/) — Date not recorded
   Checkpoints and resumes long-running Solari cloud browser sessions across 10-minute container timeouts.
+- [Predicate Systems (formerly SentienceAPI)](https://awesomecua.com/resources/url-4ee15c39dc38f230ad58/) — Date not recorded
+  Runtime trust layer for browser agents: a sidecar checks each action against local policy before it runs, and SDKs turn pages into compact ranked element snapshots and verify outcomes with DOM assertions.
 - [Pursuit Permit WebMCP](https://awesomecua.com/resources/github-moaqil-pursuit-permit-webmcp/) — Date not recorded
   Revision-bound capacity permit protocol for WebMCP browser agents that invalidates stale approvals when page state changes.
 - [Qontinui](https://awesomecua.com/resources/github-qontinui-qontinui/) — Date not recorded

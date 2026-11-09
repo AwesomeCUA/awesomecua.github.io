@@ -25713,6 +25713,168 @@
     "version": "1"
   },
   {
+    "DOI": "10.18653/v1/2024.emnlp-demo.20",
+    "URL": "https://aclanthology.org/2024.emnlp-demo.20/",
+    "author": [
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Boyu Gou"
+      },
+      {
+        "literal": "Scott Salisbury"
+      },
+      {
+        "literal": "Zheng Du"
+      },
+      {
+        "literal": "Huan Sun"
+      },
+      {
+        "literal": "Yu Su"
+      }
+    ],
+    "citation-key": "cua_702219eb2a27d3d3eb2d691d",
+    "container-title": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    "custom": {
+      "canonical_source_url": "https://aclanthology.org/2024.emnlp-demo.20/",
+      "catalog_id": "url:07e274077af6ea9fd5f9",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.18653/v1/2024.emnlp-demo.20"
+      },
+      "publication": {
+        "authors": [
+          "Boyuan Zheng",
+          "Boyu Gou",
+          "Scott Salisbury",
+          "Zheng Du",
+          "Huan Sun",
+          "Yu Su"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.emnlp-demo.20",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.emnlp-demo.20/"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this demonstration paper was found.",
+        "issue": null,
+        "notes": "Publisher proceedings edition (EMNLP 2024 System Demonstrations).",
+        "pages": "187-197",
+        "pdf_url": "https://aclanthology.org/2024.emnlp-demo.20.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "WebOlympus: An Open Platform for Web Agents on Live Websites",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.emnlp-demo.20/",
+        "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:07e274077af6ea9fd5f9",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-11.",
+    "page": "187-197",
+    "publisher": "Association for Computational Linguistics",
+    "title": "WebOlympus: An Open Platform for Web Agents on Live Websites",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2024.naacl-industry.9",
+    "URL": "https://aclanthology.org/2024.naacl-industry.9/",
+    "author": [
+      {
+        "literal": "Yijun Qian"
+      },
+      {
+        "literal": "Yujie Lu"
+      },
+      {
+        "literal": "Alexander G. Hauptmann"
+      },
+      {
+        "literal": "Oriana Riva"
+      }
+    ],
+    "citation-key": "cua_3e8726a86e1d08abaf70e3ee",
+    "container-title": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)",
+    "custom": {
+      "canonical_source_url": "https://aclanthology.org/2024.naacl-industry.9/",
+      "catalog_id": "url:36a7cba41056d46cdcde",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.18653/v1/2024.naacl-industry.9"
+      },
+      "publication": {
+        "authors": [
+          "Yijun Qian",
+          "Yujie Lu",
+          "Alexander G. Hauptmann",
+          "Oriana Riva"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/6. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          6
+        ],
+        "doi": "10.18653/v1/2024.naacl-industry.9",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.naacl-industry.9/"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive, and no arXiv version of this paper was found.",
+        "issue": null,
+        "notes": "Publisher proceedings edition (NAACL 2024 Industry Track).",
+        "pages": "97-107",
+        "pdf_url": "https://aclanthology.org/2024.naacl-industry.9.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Visual Grounding for User Interfaces",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.naacl-industry.9/",
+        "venue": "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:36a7cba41056d46cdcde",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-06.",
+    "page": "97-107",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Visual Grounding for User Interfaces",
+    "type": "paper-conference"
+  },
+  {
     "URL": "https://proceedings.mlr.press/v70/shi17a.html",
     "author": [
       {
@@ -25891,6 +26053,91 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.18653/v1/2025.acl-short.85",
+    "URL": "https://aclanthology.org/2025.acl-short.85/",
+    "author": [
+      {
+        "literal": "Zheng Hui"
+      },
+      {
+        "literal": "Yinheng Li"
+      },
+      {
+        "literal": "Dan Zhao"
+      },
+      {
+        "literal": "Colby Banbury"
+      },
+      {
+        "literal": "Tianyi Chen"
+      },
+      {
+        "literal": "Kazuhito Koishida"
+      }
+    ],
+    "citation-key": "cua_1d59d560652242a81ff35b81",
+    "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    "custom": {
+      "canonical_source_url": "https://aclanthology.org/2025.acl-short.85/",
+      "catalog_id": "url:b5cab56e1a439ca8e524",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.18653/v1/2025.acl-short.85"
+      },
+      "publication": {
+        "authors": [
+          "Zheng Hui",
+          "Yinheng Li",
+          "Dan Zhao",
+          "Colby Banbury",
+          "Tianyi Chen",
+          "Kazuhito Koishida"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-short.85",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-short.85/"
+        ],
+        "identity_basis": "No title, DOI or canonical URL match in the active catalog or the retained arXiv archive. The same authors' WinClick preprint (arXiv 2503.04730) is a different work: this short paper cites it as prior work and centres on the WinSpot benchmark rather than the WinClick agent.",
+        "issue": null,
+        "notes": "Publisher proceedings edition (ACL 2025, Volume 2: Short Papers).",
+        "pages": "1086-1096",
+        "pdf_url": "https://aclanthology.org/2025.acl-short.85.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "WinSpot: GUI Grounding Benchmark with Multimodal Large Language Models",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-short.85/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:b5cab56e1a439ca8e524",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "1086-1096",
+    "publisher": "Association for Computational Linguistics",
+    "title": "WinSpot: GUI Grounding Benchmark with Multimodal Large Language Models",
+    "type": "paper-conference"
+  },
+  {
     "URL": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
     "author": [
       {
@@ -25995,5 +26242,78 @@
     "page": "13007-13016",
     "title": "GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning",
     "type": "paper-conference"
+  },
+  {
+    "URL": "https://openreview.net/forum?id=M9iky9Ruhx",
+    "author": [
+      {
+        "literal": "Weixian Lei"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "cua_c27a3db23e8af1cc49eabd20",
+    "container-title": "International Conference on Learning Representations 2025 (ICLR 2025)",
+    "custom": {
+      "canonical_source_url": "https://openreview.net/forum?id=M9iky9Ruhx",
+      "catalog_id": "url:dca82e9214c5926109f1",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2025-05-01",
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "Weixian Lei",
+          "Difei Gao",
+          "Mike Zheng Shou"
+        ],
+        "date_basis": "Publisher citation_publication_date metadata on the ICLR proceedings page states 2025-05-01; precision=day.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/31fc85f7461ce71eadf27fb7281973bd-Abstract-Conference.html",
+          "https://proceedings.iclr.cc/paper_files/paper/2025/file/31fc85f7461ce71eadf27fb7281973bd-Paper-Conference.pdf"
+        ],
+        "identity_basis": "Same work: the ICLR 2025 proceedings page and PDF carry the same title, three authors and abstract as OpenReview note M9iky9Ruhx (venue ICLR 2025 Poster), which was read in a browser because openreview.net answers automated clients with a challenge page. No arXiv preprint with this title was found.",
+        "issue": null,
+        "notes": "The proceedings page metadata lists the authors surname first; the PDF byline order and spelling are retained. The record URL is the OpenReview forum; the proceedings page and PDF are the retained receipts. No DOI is given.",
+        "pages": "19742-19765",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/31fc85f7461ce71eadf27fb7281973bd-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Grounding Multimodal Large Language Model in GUI World",
+        "type": "conference-paper",
+        "url": "https://openreview.net/forum?id=M9iky9Ruhx",
+        "venue": "International Conference on Learning Representations 2025 (ICLR 2025)",
+        "volume": "2025"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:dca82e9214c5926109f1",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "19742-19765",
+    "title": "Grounding Multimodal Large Language Model in GUI World",
+    "type": "paper-conference",
+    "volume": "2025"
   }
 ]

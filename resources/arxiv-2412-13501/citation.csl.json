@@ -22,7 +22,64 @@
       "updated_at": "2025-09-26T21:01:59Z",
       "version": 3,
       "versioned_url": "https://arxiv.org/abs/2412.13501v3"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Dang Nguyen",
+        "Jian Chen",
+        "Yu Wang",
+        "Gang Wu",
+        "Namyong Park",
+        "Zhengmian Hu",
+        "Hanjia Lyu",
+        "Junda Wu",
+        "Ryan Aponte",
+        "Yu Xia",
+        "Xintong Li",
+        "Jing Shi",
+        "Hongjie Chen",
+        "Viet Dac Lai",
+        "Zhouhang Xie",
+        "Sungchul Kim",
+        "Ruiyi Zhang",
+        "Tong Yu",
+        "Mehrab Tanjim",
+        "Nesreen K. Ahmed",
+        "Puneet Mathur",
+        "Seunghyun Yoon",
+        "Lina Yao",
+        "Branislav Kveton",
+        "Jihyung Kil",
+        "Thien Nguyen",
+        "Trung Bui",
+        "Tianyi Zhou",
+        "Ryan A. Rossi",
+        "Franck Dernoncourt"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.1158",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.1158/"
+      ],
+      "identity_basis": "Same work: identical normalized title, the same 30 authors in the same order (the publisher omits one middle name), and the same survey contribution in the complete publisher abstract were reviewed against the retained arXiv identity; the arXiv comment states acceptance to Findings of ACL 2025.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "22522-22538",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.1158.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "GUI Agents: A Survey",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.1158/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-09-26T21:01:59Z.",
   "author": [

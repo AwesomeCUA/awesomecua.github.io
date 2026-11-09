@@ -1,10 +1,62 @@
-# Computer-use research library, page 5 of 28
+# Computer-use research library, page 5 of 29
 
-> Reviewed computer-use papers and surveys 241 to 300 of 1,673, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
+> Reviewed computer-use papers and surveys 241 to 300 of 1,690, newest publication first, with authors, recorded arXiv versions, citation files and primary evidence.
 
 HTML page: https://awesomecua.com/papers/page/5/ · [Previous page](https://awesomecua.com/papers/page/4/index.md) · [Next page](https://awesomecua.com/papers/page/6/index.md) · [All pages](https://awesomecua.com/categories/paper/index.md)
 
 Reviews are AI-assisted inspections of primary sources. Code, data, weights and document licenses are recorded separately.
+
+---
+
+## AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation
+
+AnchorGUI compares expected and observed UI transitions and selectively retains screenshots when they disagree. This asymmetric memory supports immediate correction and focuses cross-attempt experience distillation on likely failure steps.
+
+- Catalog URL: https://awesomecua.com/resources/arxiv-2609-15457/
+- Original source: https://arxiv.org/abs/2609.15457
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: memory, interaction-history, state-tracking, self-reflection, efficiency
+- Evidence checked: 2026-10-16T06:33:17Z
+- ID: arxiv:2609.15457
+
+### Limitations
+
+The annotation was reviewed against the complete retained official abstract.
+
+- Record JSON: https://awesomecua.com/resources/arxiv-2609-15457/record.json
+
+### Authors
+
+Shengjie Jin, Zelong Sun, Hengbo Xu, Yanbiao Ma, Zhiwu Lu
+
+### Citation exports
+
+- BibTeX: https://awesomecua.com/resources/arxiv-2609-15457/citation.bib
+- CSL JSON: https://awesomecua.com/resources/arxiv-2609-15457/citation.csl.json
+
+### Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.15457v1
+- First submission: 2026-09-14T12:22:26Z
+- Version updated: 2026-09-14T12:22:26Z
+- Abstract SHA-256: e8a98337941972fadb725906b9d1315a0ca5921859bd04780cacbabb0500e6a5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+### License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+### Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2609.10297%2C2609.10451%2C2609.12394%2C2609.12404%2C2609.13287%2C2609.13491%2C2609.13548%2C2609.13873%2C2609.14239%2C2609.15134%2C2609.15307%2C2609.15364%2C2609.15457%2C2609.16251%2C2609.16635%2C2609.16732%2C2609.16900%2C2609.17653%2C2609.17885%2C2609.18411%2C2609.18690%2C2609.19125%2C2609.19523%2C2609.19843%2C2609.22083%2C2609.22724%2C2609.24277%2C2609.24890%2C2609.25769%2C2609.27273%2C2609.27307%2C2609.27353%2C2609.27461%2C2609.29892%2C2609.30186%2C2609.30604%2C2609.30887%2C2609.31957%2C2609.32036%2C2609.32130%2C2609.32166%2C2609.32351%2C2609.32385%2C2609.32600%2C2609.32679%2C2609.32750%2C2609.32915%2C2609.33304%2C2609.33646%2C2609.34113&max_results=50 (retrieved 2026-10-16T06:33:17Z; SHA-256 5d7c9ff24833b254d33a41a7c4247e830e4d9c371881a1e16151bad5c71cc8b3)
+- https://export.arxiv.org/api/query?id_list=2609.10297%2C2609.10451%2C2609.12394%2C2609.12404%2C2609.13287%2C2609.13491%2C2609.13548%2C2609.13873%2C2609.14239%2C2609.15134%2C2609.15307%2C2609.15364%2C2609.15457%2C2609.16251%2C2609.16635%2C2609.16732%2C2609.16900%2C2609.17653%2C2609.17885%2C2609.18411%2C2609.18690%2C2609.19125%2C2609.19523%2C2609.19843%2C2609.22083%2C2609.22724%2C2609.24277%2C2609.24890%2C2609.25769%2C2609.27273%2C2609.27307%2C2609.27353%2C2609.27461%2C2609.29892%2C2609.30186%2C2609.30604%2C2609.30887%2C2609.31957%2C2609.32036%2C2609.32130%2C2609.32166%2C2609.32351%2C2609.32385%2C2609.32600%2C2609.32679%2C2609.32750%2C2609.32915%2C2609.33304%2C2609.33646%2C2609.34113&max_results=50 (retrieved 2026-10-16T06:33:17Z; SHA-256 5d7c9ff24833b254d33a41a7c4247e830e4d9c371881a1e16151bad5c71cc8b3)
 
 ---
 
@@ -3074,55 +3126,3 @@ Chenghao Zhang, Yuxi Cheng, Saisai Hu, Canran Xiao, Yikai Mao, Dan Roth
 
 - https://export.arxiv.org/api/query?id_list=2608.17319%2C2608.18307%2C2608.20319%2C2608.20707%2C2608.20797%2C2608.21794%2C2608.21830%2C2608.21832%2C2608.21898%2C2608.22077%2C2608.22533%2C2608.22577%2C2608.22847%2C2608.24015%2C2608.24017%2C2608.24099%2C2608.24174%2C2608.24680%2C2608.24848%2C2608.25777%2C2608.26200%2C2608.26204%2C2608.27477%2C2608.27508%2C2608.27808%2C2608.27866%2C2608.29305%2C2608.30038%2C2608.30207%2C2609.00028%2C2609.00048%2C2609.00524%2C2609.02057%2C2609.02149%2C2609.02154%2C2609.02309%2C2609.02885%2C2609.03438%2C2609.04850%2C2609.04869%2C2609.05374%2C2609.05511%2C2609.05513%2C2609.05535%2C2609.06530%2C2609.06792%2C2609.07603%2C2609.07712%2C2609.09212%2C2609.10031&max_results=50 (retrieved 2026-10-16T06:33:13Z; SHA-256 ca895b2f0dcd74816fb5e775a7161a0932ff7120a72477791f5e4c0bb1ead88e)
 - https://export.arxiv.org/api/query?id_list=2608.17319%2C2608.18307%2C2608.20319%2C2608.20707%2C2608.20797%2C2608.21794%2C2608.21830%2C2608.21832%2C2608.21898%2C2608.22077%2C2608.22533%2C2608.22577%2C2608.22847%2C2608.24015%2C2608.24017%2C2608.24099%2C2608.24174%2C2608.24680%2C2608.24848%2C2608.25777%2C2608.26200%2C2608.26204%2C2608.27477%2C2608.27508%2C2608.27808%2C2608.27866%2C2608.29305%2C2608.30038%2C2608.30207%2C2609.00028%2C2609.00048%2C2609.00524%2C2609.02057%2C2609.02149%2C2609.02154%2C2609.02309%2C2609.02885%2C2609.03438%2C2609.04850%2C2609.04869%2C2609.05374%2C2609.05511%2C2609.05513%2C2609.05535%2C2609.06530%2C2609.06792%2C2609.07603%2C2609.07712%2C2609.09212%2C2609.10031&max_results=50 (retrieved 2026-10-16T06:33:13Z; SHA-256 ca895b2f0dcd74816fb5e775a7161a0932ff7120a72477791f5e4c0bb1ead88e)
-
----
-
-## GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding
-
-Introduces GUI-Primitives, a paired-instruction benchmark that changes a spatial relation while holding the screenshot and anchor fixed. Its diagnostics separate failure to localize either candidate from failure to choose the candidate satisfying the relation.
-
-- Catalog URL: https://awesomecua.com/resources/arxiv-2608-21832/
-- Original source: https://arxiv.org/abs/2608.21832
-- Kind: paper
-- Review: curated
-- Scope: core
-- Environments: unspecified
-- Topics: grounding, evaluation, screen-understanding
-- Evidence checked: 2026-10-16T06:36:32Z
-- ID: arxiv:2608.21832
-
-### Limitations
-
-The annotation and scope were reviewed against the primary paper abstract.
-
-- Record JSON: https://awesomecua.com/resources/arxiv-2608-21832/record.json
-
-### Authors
-
-Md Abrar Jahin, Md Rizwan Parvez
-
-### Citation exports
-
-- BibTeX: https://awesomecua.com/resources/arxiv-2608-21832/citation.bib
-- CSL JSON: https://awesomecua.com/resources/arxiv-2608-21832/citation.csl.json
-
-### Recorded arXiv snapshot
-
-- Version: 2
-- Version source: https://arxiv.org/abs/2608.21832v2
-- First submission: 2026-08-22T08:04:59Z
-- Version updated: 2026-08-27T07:03:01Z
-- Abstract SHA-256: 970441704314fabffc46cb4a340dd6e0bde0e84ab9b7fcd2db2c9a8be9dc61d8
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-### License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-### Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
